@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO JURÍDICO C/C PEDIDO EXPRESSO DE TUTELA PROVISÓRIA DE URGÊNCIA. PROCEDIMENTO ADMINISTRATIVO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. OFENSA ÀS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR. MULTA APLICADA PELO PROCON. NULIDADE NÃO CONSTATADA. OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL.
+I - Compete ao Poder Judiciário apreciar apenas a legalidade do procedimento administrativo, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, sendo-lhe vedada a incursão sobre o mérito da sanção aplicada.
+II - Não demonstrada a existência de qualquer irregularidade na tramitação do processo administrativo no âmbito do PROCON de Caldas Novas, conclui-se pela sua subsistência, mantendo-se a multa aplicada, visto que em observância ao princípio da razoabilidade e da proporcionalidade, consoante os critérios estabelecidos no artigo 57 do Código de Defesa do Consumidor.
+APELAÇÃO CONHECIDA E DESPROVIDA.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confira-se:
+ ..
+No que tange ao óbice previsto na súmula 284 do Supremo Tribunal Federal, cumpre ressaltar que o Recurso Especial interposto demonstra, com clareza, os dispositivos de Lei que tiveram vigência negada pelo v. Acórdão, questões estas que são eminentemente de direito.
+Inaplicável, dessa forma, a súmula 284 do STF no caso em questão, não havendo óbice para conhecimento e julgamento do presente recurso, eis que os fatos estão bem delineados.
+ ..
+Nesta senda, conforme previsto na súmula 07 do Superior Tribunal de Justiça, cumpre ressaltar que o Recurso Especial interposto demonstra, com clareza, os dispositivos de Lei que tiveram vigência negada pelo v. Acórdão, questões estas que são eminentemente de direito.
+Ora, para julgamento de qualquer Recurso Especial ou Extraordinário é necessário ao julgador se inteirar da lide existente, justamente porque a discussão envolve a aplicação de determinado dispositivo legal ao caso concreto. A necessidade de se conhecer a lide é muito diferente da necessidade de reexame de provas.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PROCEDIMENTO ADMINISTRATIVO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. OFENSA ÀS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR. MULTA APLICADA PELO PROCON. NULIDADE NÃO CONSTATADA. OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação, a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação, a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Veja seguinte excerto da decisum:
+ ..
+No caso em tela, foi instaurado pelo PROCON de Caldas Novas Processo Administrativo, no qual consta como reclamante Cleusa Rabelo em face da empresa CELG-D, pelo fato de a reclamante possuir uma Unidade Consumidora de nº 760393965 junto à CELG DISTRIBUIÇÃO S.A. Que, no local, somente está chegando a voltagem 190W, assim, quando o vizinho está utilizando os serviços, a energia cai e passa oscilar constantemente, cuja reclamação foi julgada procedente, culminando na aplicação de pena de multa, com base no art. 56, I, do CDC (Mov. 1 - parte 3).
+Após detida análise do feito, verifica-se que o procedimento administrativo tramitou em conformidade com a legislação de regência, no qual foram respeitados os princípios do contraditório, da ampla defesa e do devido processo legal. E, em sendo assim, ao Poder Judiciário não é possível adentrar ao mérito administrativo do ato impugnado, sob pena de ingerência indevida em atos privativos do Poder Executivo Estadual, sendo-lhe permitido, apenas, o exame da legalidade do ato.
+Com efeito, ressalta-se do processo administrativo que, sob o juízo de valor do órgão fiscalizador, afeto às suas atribuições, houve a comprovação dos fatos alegados pelo consumidor e, ainda, a decisão combatida está fundamentada, com a exposição do contexto fático, da norma consumerista violada e da sanção administrativa correspondente, tendo a infratora pleno conhecimento dos motivos de sua autuação (fl. 212).
+ ..
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
