@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+VICTOR FALCADE AMORIM LIMA agrava de decisão em que deneguei a ordem e, por conseguinte, mantive inalterada a reprimenda de 11 anos, 9 meses e 15 dias de reclusão, em regime fechado, mais multa, pela prática dos delitos previstos nos arts. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 e 2º da Lei n. 12.850/2013.
+No regimental, a defesa volta a sustentar a ausência de comprovação dos elementos suficientes para a configuração do delito de organização criminosa. Para tanto, afirma que é necessário que a união entre os acusados tenha a intenção específica para a prática de delitos.
+Além disso, pondera que o réu faz jus ao privilégio do tráfico.
+Requer, dessa forma, seja reconsiderada a decisão combatida ou submetido o feito ao órgão colegiado, para que seja provido o recurso especial, absolvido o réu e aplicado a causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas e os consectários dela decorrentes.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ABSOLVIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MINORANTE. AGRAVO NÃO PROVIDO.
+1. Por se tratar de decisão lastreada nas provas amealhadas aos autos, sua revisão, demandaria o revolvimento do contexto fático-probatório dos autos, o que esbarra na Súmula n. 7 do STJ.
+2. Porque mantida a condenação do acusado pela prática do crime de organização criminosa, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 em seu favor.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações defensivas, não vejo como alterar o posicionamento já manifestado.
+Isso porque, conforme mencionado em sentença condenatória, "a instrução revelou, sem margem de dúvida razoável, a existência de um grupo composto composto por, pelo menos, 4 (quatro) agentes, de modo estruturado e com divisão de tarefas, atuante no tráfico ilícito de drogas e na lavagem de capitais" (fl. 417). Concluiu que "restou efetivamente comprovado que, ao menos, no período de março/2020 a junho/2020, denunciados se uniram com o fim de praticar tráfico de drogas e lavagem de capitais" (fl. 417), sendo certo que a organização criminosa contava com os seguintes núcleos (fls. 417-418):
+(a) diretivo - responsável pela coordenação das atividades dos demais integrantes; (b) preparação de veículo - que promovia a alteração dos caminhões para facilitar o transporte da carga ilícita; (c) carregamento das cargas lícitas e ilícitas, para efetivação do tráfico; (d) escolta e transporte dos entorpecentes e (e) vantagem financeira.
+Especificamente acerca da conduta do ora agravante, esclareceu a decisão de primeiro grau que o acusado "concorreu para o carregamento das substâncias ilícitas, que estavam acobertadas pela carga lícita, o que foi indicado pelas interceptações telefônicas" (fl. 418). De acordo com as provas, o réu foi responsável pelo "empréstimo do seu caminhão para o transporte de tais substâncias além de fazer o contato para obtenção de contratos lícitos para acobertar o transporte de drogas" (fl. 418).
+Por esses motivos, o Tribunal de origem arremata afirmando que o réu possuía "atuação determinante no contexto do grupo criminoso" (fl. 419) e que " ..  demonstrada a ciência do réu acerca das atividades ilícitas praticadas pelo grupo criminoso e o cometimento de atos determinantes para o sucesso da empreitada delitiva, com a indicação de fatos que comprovam sua proximidade e envolvimento nos atos ilícitos, entendo que não há que se falar na reforma da sentença" (fl. 361, grifei).
+Assim, pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão impugnado, verifico que as instâncias de origem, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de organização criminosa (art. 2º da Lei n. 12.850/2013).
+Por essas razões, mostra-se inviável a absolvição do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em habeas corpus.
+Porque mantida a condenação do paciente pela prática do crime de organização criminosa, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Isso porque a Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas (ou art. 2º da Lei n. 12.850/20013, como no caso), por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+À vista do exposto, nego provimento ao agravo regimental.
