@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL (PETROS) contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial devido  à  ausência  de  impugnação  de  todos  os  fundamentos  da  decisão  atacada.
+Em suas razões, a agravante defende a inaplicabilidade da Súmula nº 211/STJ e o prequestionamento implícito dos dispositivos violados.
+Alega, ainda, que eventuais menções a resoluções e a outros atos normativos foram explicitadas apenas com o objetivo de reforçar a argumentação.
+Sem contraminuta (certidão de fl. 211).
+É o relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC/2015.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  CPC/2015).
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  caso,  verifica-se  que  o  recurso  especial  foi  inadmitido  em virtude dos  seguintes  fundamentos:  (i)  incidência  da  Súmula  nº 211/STJ e (ii) não cabimento de ofensa à resolução.
+A  agravante, no entanto,  deixou  de  refutar,  de  maneira  efetiva,  concreta  e  fundamentada ,  os  referidos  fundamentos, defendendo a inaplicabilidade das Súmulas nºs 5 e 7/STJ, que nem sequer foram aplicadas na decisão de admissibilidade.
+Com  efeito,  a  agravante  contraditou  a  ausência  de  prequestionamento  de  forma  genérica,  conforme  se  extrai  do  seguinte  trecho:
+"(..) o acórdão recorrido abordou, no mínimo, implicitamente a matéria, razão pela qual se torna plenamente descabida a aplicação da Súmula 211 do Superior Tribunal de Justiça"  (fl.  168).
+Registra-se  que  a  argumentação  é  inconsistente,  sendo  incapaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  que  viola  o  princípio  da  dialeticidade.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  REPARAÇÃO  DE  DANOS  MORAIS  -  DECISÃO  MONOCRÁTICA  DA  PRESIDÊNCIA  DESTA  CORTE  QUE  NÃO  CONHECEU  DO  RECLAMO,  ANTE  A  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INSURGÊNCIA  DA  PARTE  RÉ.
+1.  Consoante  expressa  previsão  contida  nos  art.  932,  III,  do  CPC  e  253,  I,  do  RISTJ,  e  em  razão  do  princípio  da  dialeticidade,  deve  o  agravante  demonstrar,  de  modo  fundamentado,  o  desacerto  da  decisão  que  inadmitiu  o  apelo  extremo,  o  que  não  aconteceu  na  hipótese.  Incidência  da  Súmula  182  do  STJ.
+2.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.057.338/SP,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  3/10/2022,  DJe  de  6/10/2022).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  CUMULADA  COM  REPETIÇÃO  DE  INDÉBITO  E  DANO  MORAIS.  CONTRATO  DE  EMPRÉSTIMO  CONSIGNADO  COM  DESCONTO  EM  BENEFÍCIO  PREVIDENCIÁRIO.  QUANTUM  INDENIZATÓRIO.  ENRIQUECIMENTO  ILÍCITO.  FUNDAMENTO  NÃO  IMPUGNADO.  SÚMULA  Nº  283  DO  STF,  POR  ANALOGIA.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  O  recurso  especial  que  não  impugna  fundamento  do  acórdão  recorrido  sufi  ciente  para  mantê-lo  não  deve  ser  admitido,  a  teor  da  Súmula  nº  283  do  STF.  Precedentes.
+3.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.701.796/MS,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  23/11/2020,  DJe  de  27/11/2020).
+  É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  de  ser  dever  do  agravante  refutar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior,  consoante  determ  inam  o  art.  932,  III,  do  CPC/2015  e  a  Súmula  nº  182/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  (..)  NÃO  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  CONFIRMAÇÃO  DO  NÃO  CONHECIMENTO  DO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  NÃO  PROVIDO.
+(..)
+2.  A  ausência  de  impugnação  específica,  na  petição  de  agravo  em  recurso  especial,  dos  fundamentos  da  decisão  que  não  admite  o  apelo  especial  impossibilita  o  conhecimento  do  recurso,  nos  termos  do  art.  932,  III,  do  CPC/2015.
+3.  Agravo  interno  ao  qual  se  nega  provimento"  (AgInt  no  AREsp  1.001.997/SC,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  7/2/2017,  DJe  16/2/2017).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RAZÕES  DO  AGRAVO  QUE  NÃO  IMPUGNAM,  ESPECIFICAMENTE,  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  QUE  NÃO  ADMITIU  O  RECURSO  ESPECIAL.  ART.  932,  III,  DO  CPC/2015  E  SÚMULA  182/STJ,  POR  ANALOGIA.  MAJORAÇÃO  DE  HONORÁRIOS  ADVOCATÍCIOS.  ART.  85,  §  11,  DO  CPC/2015.  MANDADO  DE  SEGURANÇA.  SÚMULA  105/STJ.  DESCABIMENTO.  AGRAVO  INTERNO  PARCIALMENTE  PROVIDO.
+(..)
+II.  Incumbe  ao  agravante  infirmar,  especificamente,  todos  os  fundamentos  da  decisão  que  inadmitiu  o  Recurso  Especial,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  processamento  do  apelo  nobre,  sob  pena  de  não  ser  conhecido  o  Agravo  (art.  932,  III,  do  CPC  vigente).
+(..)
+III.  No  caso,  por  simples  cotejo  entre  o  decidido  e  as  razões  do  Agravo  em  Recurso  Especial  verifica-se  a  ausência  de  impugnação  específica  de  todos  os  fundamentos  da  decisão  que,  em  2º  Grau,  inadmitira  o  Especial,  o  que  atrai  a  aplicação  do  disposto  no  art.  932,  III,  do  CPC/2015  -  vigente  à  época  da  publicação  da  decisão  então  agravada  e  da  interposição  do  recurso  -,  que  faculta  ao  Relator  "não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida",  bem  como  do  teor  da  Súmula  182  do  Superior  Tribunal  de  Justiça,  por  analogia.
+(..)
+V.  Agravo  interno  parcialmente  provido,  apenas  para  excluir  a  majoração  de  honorários  advocatícios  (art.  85,  §  11,  do  CPC/2015)".
+(AgInt no AREsp 1.115.522/PI, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 3/10/2017, DJe 13/10/2017).
+Ademais,  cumpre  consignar  que  o  referido  entendimento  restou  consolidado  pela  Corte  Especial  por  ocasião  do  julgamento  dos  EAREsp  nº  746.775/PR,  que  receberam  a  seguinte  ementa:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.
+1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,  II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator  "não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.
+2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.
+4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.
+5.  Embargos  de  divergência  não  providos".
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
