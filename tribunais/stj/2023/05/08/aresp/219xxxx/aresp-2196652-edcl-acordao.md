@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ROSELI SARTOR, contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 1.749):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E ESTÉTICOS. ERRO MÉDICO. REVISÃO DOS VALORES FIXADOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de compensação por danos morais e estéticos, fundada em erro médico.
+2. A jurisprudência do STJ é pacífica no sentido de que é possível a revisão dos valores das compensações por danos morais e estéticos, na estreita via do recurso especial, somente quando exorbitantes ou ínfimos, hipóteses em que se admite a flexibilização do óbice da Súmula 7/STJ, ante os postulados maiores da razoabilidade e da proporcionalidade.
+3. Essa, contudo, não é a hipótese dos autos, em que, consoante registrado no acórdão recorrido, os valores compensatórios alcançam os montantes de R$ 80.000,00 (oitenta mil reais), a título de danos morais, e R$ 13.000,00 (treze mil reais), a título de danos estéticos.
+4. Agravo interno não provido".
+Nas razões do presente recurso, a embargante afirma que o acórdão embargado é contraditório, na medida em que afirmou que os valores fixados pelo Tribunal de origem a título de dano moral e dano estético são comedidos, ou seja, atenuados, no mesmo passo em que asseverou que estes não poderiam ser reputados como ínfimos.
+Reitera a existência de precedentes desta Corte que fixaram indenizações em valores muito superiores, e argumenta que "a contradição se sobressai ao se utilizar dos critérios de correção monetária e juros legais  devidos em qualquer processo judicial como consequências processuais  para justificar que os valores originalmente arbitrados não podem ser reputados ínfimos, quando atualizados" (e-STJ fl. 1.759).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na hipótese dos autos, contudo, verifica-se que as questões apontadas pela embargante não constituem qualquer desses vícios, mas mero inconformismo com a conclusão adotada na decisão da Presidência desta Corte e confirmada no acórdão embargado.
+Com efeito, o aresto, de forma clara e indene de dúvidas, sem qualquer incoerência, ratificou a aplicação da Súmula 7/STJ ao recurso especial interposto pela ora embargante, visto que, na espécie, os valores fixados pelo Tribunal de origem a título de dano moral e dano estético não podem ser considerados ínfimos, a ponto de justificar a excepcional intervenção deste Superior Tribunal de Justiça.
+É verdade que o julgado afirmou que tais valores são "comedidos", ou seja, que foram arbitrados de forma moderada, o que está longe de significar que seriam irrisórios ou ínfimos.
+A propósito, confira-se os termos do aresto:
+"A despeito das alegações aduzidas neste recurso, verifica-se que a parte agravante não trouxe qualquer argumento apto a ilidir o entendimento firmado na decisão agravada.
+Com efeito, é firme a jurisprudência desta Corte no sentido de, em regra, ser inviável a revisão dos valores fixados a título de danos morais e danos estéticos pelas instâncias ordinárias, ante a vedação do reexame de fatos e provas na estreita via do recurso especial, a teor do disposto na Súmula 7/STJ.
+A excepcional intervenção do STJ apenas é admitida quando esses valores forem fixados de forma exorbitante ou ínfima, caracterizando evidente violação dos princípios da razoabilidade e da proporcionalidade, hipótese em que se admite a flexibilização do óbice da Súmula 7/STJ.
+Na hipótese dos autos, contudo, não se vislumbra particularidade que torne imprescindível a atuação desta Corte, porquanto os valores fixados pelo Tribunal de origem, embora comedidos, não violam os limites da razoabilidade.
+A propósito, confira-se a fundamentação do acórdão recorrido:
+"Danos morais e danos estéticos
+Na Apelação 1, a Autora pugna pela majoração do valor das indenizações fixadas a título de danos morais e estéticos, para R$ 100.000,00 e R$ 50.000,00, respectivamente. Já na Apelação 2, os Réus defendem a redução do quantum indenizatório estabelecido na sentença em R$ 30.000,00 e R$ 5.000,00, a fim de que seja arbitrado em montante máximo de R$ 20.000,00 atualizado.
+Em que pese não existam parâmetros rígidos para encontrar o valor real da indenização, a jurisprudência orienta que não deve a importância ser ínfima, que não valorize o dano moral, nem tão elevada, que cause enriquecimento indevido ao ofendido de maneira que o julgador, ao arbitrar o valor da indenização, deve adotar os critérios sugeridos, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida, notadamente a situação econômica atual e às peculiaridades de cada caso.
+No caso, na fixação do quantum indenizatório deve-se sopesar a gravidade/repercussão da conduta praticada pelo Médico/réu e os danos causados, inclusive o quadro de depressão sofrido pela Autora depois da cirurgia feita em 06/12/2005, o que restou devidamente comprovado pelas provas testemunhal e pericial.
+Feitas tais considerações, a indenização por danos morais arbitrada no valor de R$ 30.000,00, que com os encargos na forma determinada pela sentença alcançará em torno de oitenta mil reais, mostra-se adequada e em conformidade com o que vem estabelecendo esta 10ª Câmara Cível em situações semelhantes, eis que em quantia suficiente para cumprir as finalidades punitivas, pedagógicas e compensatórias da verba, sem configurar enriquecimento injustificado.
+Da mesma forma, a indenização por danos estéticos no valor de R$ 5.000,00, que com os consectários resultará no montante aproximado de treze mil reais, igualmente se afigura consentâneo para compensar a Autora, em razão da cicatriz demonstrada pelas fotos de mov. 1.12, não havendo que se falar em redução ou majoração, na medida em que atende aos princípios da proporcionalidade e da razoabilidade, bem como às circunstâncias do presente caso.
+Assim, impõe-se o desprovimento de ambas as apelações neste tópico" (e-STJ fls. 1.666/1.667, grifou-se).
+Como se observa, os valores compensatórios alcançam, na espécie, os montantes de R$ 80.000,00 (oitenta mil reis), a título de danos morais, e de R$ 13.000,00 (treze mil reais), a título de danos estéticos, os quais não podem ser reputados como ínfimos.
+Assim, em suma, deve ser mantida a incidência da Súmula 7/STJ, nos exatos termos da decisão agravada".
+Deveras, nenhuma contradição exsurge do reconhecimento de que os valores indenizatórios fixados na espécie, apesar de não serem vultosos, também não se mostram insignificantes, não havendo, dessa forma, violação do princípio da razoabilidade.
+De outro turno, também não há que se falar em qualquer contradição ou omissão pela utilização dos valores atualizados indicados no acórdão recorrido.
+Não se discute nos autos que a correção monetária e os juros moratórios se tratam de consectários legais, incidentes em qualquer processo judicial. No entanto, não há qualquer ilegalidade em se avaliar a razoabilidade da indenização tendo-se por parâmetro o valor que, efetivamente, será recebido pela vítima, com adequada compreensão da expressão econômica da condenação. Afinal, como mesmo afirmado no acórdão recorrido, não existem parâmetros rígidos na quantificação dos danos morais e estéticos.
+Nesses termos, em suma, ausente qualquer vício a ser sanado no acórdão embargado, impõe-se a rejeição dos presentes aclaratórios.
+Forte nessas razões, REJEITO os presentes embargos de declaração.
