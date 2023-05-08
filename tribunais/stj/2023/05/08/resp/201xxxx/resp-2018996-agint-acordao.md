@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, aviado por COMERCIAL DE COMBUSTÍVEIS BRINO LTDA e outros, contra decisão de minha lavra, que negou provimento ao Recurso Especial, por estar o acórdão recorrido em consonância com o entendimento da Segunda Turma do Superior Tribunal de Justiça, no sentido de que "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3º, § 1º, das Leis 10.637/2002 e 10.833/2003" (STJ, AgInt nos EDcl no REsp 1.881.576/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/03/2021).
+Inconformada, sustenta a parte agravante que:
+"DAS RAZÕES PARA PROVIMENTO DO RECURSO
+8. Como visto, entendeu-se pelo desprovimento do Recurso Especial em virtude da aplicação da Súmula 568 do STJ, que dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+9. Ocorre que o verbete não se aplica à matéria posta em julgamento.
+10. Isso porque, como se sabe, a Primeira e a Segunda Turma do Superior Tribunal de Justiça possuem entendimento conflitante sobre a matéria.
+11. A Primeira Turma vem proferindo reiterados julgamentos concedendo o direito pleiteado pelos contribuintes, como se verifica pelos recentes acórdãos que enfrentaram a matéria, abaixo transcritos:
+(..)
+12. Quando uma Turma do STJ firmou entendimento em sentido favorável ao contribuinte, não lhe pode ser negado provimento ao Recurso Especial por óbice da Súmula 568/STJ, já que certamente não há entendimento dominante da Corte acerca da matéria.
+13. Frisa-se que o art. 932 do Código de Processo Civil prevê rol taxativo de hipóteses em que o julgador Relator poderá negar provimento monocrático a recurso, senão vejamos:
+(..)
+14. Como se denota, o Código de Processo Civil vigente não autoriza ao Relator que negue provimento, monocraticamente, quando a decisão recorrida estiver em consonância com o entendimento "dominante" da Corte.
+15. Nesse sentido, convém transcrever opinião doutrinária expressa no Enunciado 462 do Fórum Permanente de Processualistas Civis (FPPC):
+(..)
+16. No mesmo sentido a lição de Fredie Didier Jr.:
+(..)
+17. De todo modo, ainda que tal hipótese fosse legalmente autorizada, já restou demonstrado que no caso em tela o entendimento dominante não existe, já que a Primeira Turma do STJ decidiria o caso de forma favorável às agravantes.
+18. No mais, nota-se que o Recurso Especial teve provimento negado com fundamento no art. 255, § 4º, II, do RISTJ, que assim dispõe:
+(..)
+19. Como visto, o próprio Regulamento do STJ prevê as seguintes hipóteses de negativa de provimento monocrático ao recurso, quando ele for contrário:
+(i) for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral;
+(ii) a entendimento firmado em incidente de assunção de competência;
+(iii) a súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça.
+20. Nenhuma das hipóteses se amolda ao caso concreto.
+21. Dessa forma, conforme amplamente exposto, não há hipótese autorizadora para a negativa de provimento ao Recurso Especial através de decisão monocrática, de modo que o recurso deverá ser levado à apreciação do órgão colegiado, para que, no mérito, lhe seja dado provimento" (fls. 378/382e).
+Por fim, requer "o recebimento do presente Agravo Interno, com a reconsideração da decisão monocrática que negou provimento ao Recurso Especial, ou, caso assim não ocorra, seja levada a inconformidade para julgamento pela competente Turma do Superior Tribunal de Justiça, nos termos do artigo 1.021 do Código de Processo Civil, para ao final conhecer e dar provimento ao Recurso Especial" (fl. 382e).
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. CREDITAMENTO, PELO SUBSTITUÍDO, DO ICMS-ST RECOLHIDO PELO SUBSTITUTO TRIBUTÁRIO. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Esta Segunda Turma tem jurisprudência consolidada no sentido de que "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, §1º, das Leis 10.637/2002 e 10.833/2003" (STJ, AgInt nos EDcl no REsp 1.881.576/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/03/2021). Precedentes do STJ: AgInt no REsp 1.515.092/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 06/04/2021; REsp 1.456.648/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2016.
+III. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os argumentos da parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Mandado de Segurança, visando assegurar o creditamento do PIS e da COFINS sobre o valor do ICMS-ST, não recuperável e destacado nas notas fiscais de aquisição de mercadorias destinada à revenda.
+O Juízo de 1º Grau concedeu a segurança pleiteada.
+Interposta Apelação, pelo ente público, o Tribunal de origem deu provimento ao recurso, entendendo que não tem o contribuinte direito ao creditamento, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores que, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição.
+No Recurso Especial, interposto com supedâneo nas alíneas a e c do permissivo constitucional, a parte impetrante apontou violação aos arts. 110 do CTN e 1º e 3º das Leis 10.637/2002 e 10.833/2003, bem como divergência jurisprudencial, pugnando pela reforma do acórdão recorrido, "para reconhecer o direito das recorrentes ao creditamento do PIS e da COFINS não-cumulativos sobre o valor pago, na etapa anterior, a título de ICMS-ST quando da aquisição de produtos para revenda".
+Nesta Corte o Recurso Especial foi improvido, ensejando a interposição do Agravo interno.
+Sem razão, contudo.
+Como destacou a decisão agravada, esta Segunda Turma tem jurisprudência consolidada no sentido de que "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, § 1º, das Leis 10.637/2002 e 10.833/2003" (STJ, AgInt nos EDcl no REsp 1.881.576/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/03/2021).
+No mesmo sentido:
+"TRIBUTÁRIO. CONTRIBUIÇÕES AO PIS/PASEP E À COFINS NÃO CUMULATIVAS. CREDITAMENTO. CONSIDERAÇÃO DOS VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST) RECOLHIDO EM OPERAÇÃO ANTERIOR.
+I - O valor de ICMS recolhido por meio da substituição tributária (ICMS-ST) não integra a base de cálculo das contribuições do PIS/PASEP e da COFINS não cumulativas, não sendo, portanto, devido o creditamento. O referido tributo constitui mero ingresso de valores na contabilidade da empresa substituta, sendo esta apenas depositária dos valores que devem ser entregues ao Fisco estadual, não sendo tal parcela incluída como receita bruta. Precedentes: (REsp 1.767.173/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe 21/11/2018; AgInt no REsp 1.417.857/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 21/9/2017, DJe 28/9/2017; REsp 1.456.648/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/6/2016, DJe 28/6/2016).
+II - Agravo interno improvido" (STJ, AgInt no REsp 1.515.092/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 06/04/2021).
+"RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE.
+1. Não tem direito o contribuinte ao creditamento, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores que, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição.
+2. Quando ocorre a retenção e recolhimento do ICMS pela empresa a título de substituição tributária (ICMS-ST), a empresa substituta não é a contribuinte, o contribuinte é o próximo na cadeia, o substituído. Nessa situação, a própria legislação tributária prevê que tais valores são meros ingressos na contabilidade da empresa substituta que se torna apenas depositária de tributo (responsável tributário por substituição ou agente arrecadador) que será entregue ao Fisco. Então não ocorre a incidência das contribuições ao PIS/PASEP, COFINS, já que não há receita da empresa prestadora substituta. É o que estabelece o art. 279 do RIR/99 e o art. 3º, § 2º, da Lei 9.718/98.
+3. Desse modo, não sendo receita bruta, o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003.
+4. Sendo assim, o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3º, § 1º, das Leis 10.637/2002 e 10.833/2003, já que o princípio da não cumulatividade pressupõe o pagamento do tributo na etapa econômica anterior, ou seja, pressupõe a cumulatividade (ou a incidência em "cascata") das contribuições ao PIS/PASEP e COFINS.
+5. Recurso especial não provido" (STJ, REsp 1.456.648/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2016).
+Destaca-se que, consoante a novel jurisprudência do STJ, "a existência de precedentes persuasivos autoriza, na forma do art. 927, IV, do CPC/2015 c/c a Súmula 568/STJ que: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". Tal a eficácia mínima dos precedentes persuasivos que vinculam horizontalmente, por seus fundamentos determinantes, os ministros relatores de determinado órgão colegiado à jurisprudência nele formada, atendendo às exigências de uniformidade, estabilidade, integridade e coerência da jurisprudência, conforme o art. 926, do CPC/2015" (STJ, AgInt no AREsp 871.076/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016).
+Faz-se importante ressaltar, de outro lado, que, diante dos termos do art. 266, caput, do RISTJ, não se presta o Agravo interno a veicular eventual divergência entre as Turmas desta Corte. A propósito:
+"ADMINISTRATIVO. PERSEGUIÇÃO POLÍTICA E TORTURA DURANTE O REGIME MILITAR. VIOLAÇÃO DE DIREITOS HUMANOS FUNDAMENTAIS DURANTE O PERÍODO DE EXCEÇÃO. DANO MORAL. CUMULATIVIDADE COM REPARAÇÃO ECONÔMICA. CABIMENTO.
+(..)
+3. A modificação de entendimento em uma das Turmas do STJ não afasta a possibilidade de outra discernir, mantendo o entendimento então prevalente, de modo que eventual desacordo deverá ser enfrentado por meio do recurso cabível, qual seja, os embargos de divergência, consoante dispõe o art. 266 do RISTJ.
+Agravo regimental provido em parte. Recurso especial da União conhecido em parte e improvido" (STJ, AgRg no REsp 1.445.346/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 21/10/2015).
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
