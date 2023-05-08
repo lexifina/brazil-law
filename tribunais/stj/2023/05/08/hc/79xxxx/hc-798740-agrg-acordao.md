@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/06. DESCABIMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE COMPROVADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O Tribunal de origem apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+III - Ressalta-se, ainda, que, a despeito de as condenações sem trânsito em julgado e a quantidade de entorpecente apreendido, por si sós, não serem obstáculo à concessão da benesse, o transporte de vultoso montante de maconha "6.428,5 g de maconha, aliada à apreensão de R$ 1.908,00 (mil, novecentos e oito reais) e anotações relacionadas ao tráfico de drogas" (fl. 653) são circunstâncias que denotam a dedicação à atividade criminosa.
+IV - Assim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SAMUEL DALMASO DO NASCIMENTO contra decisão que não conheceu do habeas corpus impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (fls. 756-758).
+Depreende-se dos autos que o agravante foi condenado à pena de de 6 (seis) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 787 (setecentos e oitenta e sete) dias-multa, como incurso nos arts. 33, caput, da Lei n. 11.343/06 e 180, caput, do Código Penal (fls. 7-25).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa (fls. 644-658).
+No respectivo writ impetrado nesta Corte, a defesa apontou constrangimento ilegal na negativa de aplicação do redutor do § 4º do art. 33 da Lei de Drogas.
+Requereu, ao final, a aplicação do benefício em sua fração máxima em favor do paciente.
+O habeas corpus não foi conhecido (fls. 756-758).
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, declarando a necessidade de aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas.
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/06. DESCABIMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE COMPROVADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O Tribunal de origem apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+III - Ressalta-se, ainda, que, a despeito de as condenações sem trânsito em julgado e a quantidade de entorpecente apreendido, por si sós, não serem obstáculo à concessão da benesse, o transporte de vultoso montante de maconha "6.428,5 g de maconha, aliada à apreensão de R$ 1.908,00 (mil, novecentos e oito reais) e anotações relacionadas ao tráfico de drogas" (fl. 653) são circunstâncias que denotam a dedicação à atividade criminosa.
+IV - Assim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Como se vê do relatório, almeja a parte agravante a aplicação do redutor previsto no § 4º do art. 33 da Lei de Drogas em favor do paciente.
+Ressalta-se que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Quanto à aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/6/2019).
+Na presente hipótese, o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+De mais a mais, ainda, que, a despeito de as condenações sem trânsito em julgado e a quantidade de entorpecente apreendido, por si sós, não serem obstáculo à concessão da benesse, o transporte de vultoso montante de maconha "6.428,5 g de maconha, aliada à apreensão de R$ 1.908,00 (mil, novecentos e oito reais) e anotações relacionadas ao tráfico de drogas" (fl. 653) são circunstâncias que denotam a dedicação à atividade criminosa.
+Nesse sentido: AgRg no HC n. 799.162/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/3/2023; AgRg no HC n. 715.782/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022 e AgRg no HC n. 747.499/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 27/6/2022.
+Por fim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus. Nesse sentido: AgRg no HC n. 737.868/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+Desta feita, observa-se que a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
