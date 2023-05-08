@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS NPL II contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Apelação Cível. Ação de Execução por Quantia Certa Contra Devedor Solvente. Sentença de extinção da execução sem resolução de mérito, por caracterização de abandono do processo. Inconformismo. Vícios de admissibilidade do recurso. Instrumentos de representação com a validade expirada na data do protocolo da Apelação Cível e 2 insuficiência do preparo. Determinação da respectiva regularização, no prazo de 5 dias, com cumprimento 2 extemporâneo em ambos os casos. Diferença entre prazo dilatório, hipótese da regularização da representação processual (artigo 76, "caput", do Código de Processo Civil), e prazo peremptório, caso da comprovação do recolhimento complementar e atualizado do preparo (artigo 8 1.0079 "caput", do mesmo Diploma Legal), podendo ser LU prorrogado apenas o primeiro deles. Deserção caracterizada a no presente caso, ante a complementação extemporânea do preparo, mesmo após concedido prazo para essa finalidade, anotado se tratar, na hipótese, de prazo peremptório. Recurso não conhecido" (fl. 341 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 360-364 e-STJ).
+No seu arrazoado (fls. 368-380 e-STJ), a parte recorrente alega a violação dos artigos 272, caput e § 2º, 1.007, § 2º, e 1022, II, do Código de Processo Civil.
+Sustenta a tese de negativa de prestação jurisdicional.
+Defende que "não houve a devida intimação do seu patrono da r. sentença e, a ausência de intimação, caracteriza a nulidade absoluta dos atos praticados no processo, nos termos do artigo 272, caput e §2º, do CPC" (fl. 377 e-STJ).
+Aduz que deve ser afastada a pena de deserção aplicada, pois realizou o pagamento da complementação do valor no prazo de 5 dias após o julgamento do agravo interno e que "não foi concedido prazo de 05 dias para o Recorrente realizar a compiementacão do preparo recursal, após o iulgamento do recurso de agravo Interno aue discutia exatamente a necessidade ou não da complementação" (fl. 378 e-STJ).
+A parte contrária não apresentou contrarrazões (fl. 385 e-STJ).
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados" (EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016).
+De outro lado, verifica-se que o Tribunal de origem não conhecou o recurso interposto por deserção, como se observa do seguinte trecho do acórdão recorrido:
+"(..)
+Ocorre, todavia, que sobre a extemporânea complementação atualizada da taxa judiciária (fls. 2601261), o prazo é peremptório, não havendo como ser acolhido esse pagamento, porque realizado fora do prazo concedido no despacho de fls. 2191220, uma vez que o preparo deve ser comprovado "No ato de interposição do recurso", conforme determinado no artigo 1.007, "caput", do Código de Processo Civil, sendo que as exceções estão previstas em seus parágrafos, não se havendo falar em margem para mitigação dos prazos ali previstos" (fls. 345-346 e-STJ).
+Oportuno, ainda, destacar o seguinte trecho do acórdão resolutório dos embargos de declaração:
+"(..)
+Com efeito, no que diz respeito ao objeto do presente recurso, o v. acórdão foi explícito ao pontuar que foi protocolizada pela apelante a petição de fls. 2581259, na data de 01.02.2022, por meio da qual houve a comprovação da complementação do valor correto da taxa judiciária (fls. 2601261), porém de forma intempestiva com relação ao despacho de fls. 2191220, disnonibilizado no Diário da Justica Eletrônico, em 21.10.2021 (fl. 223).
+Com efeito, explicou o Colegiado, o v. aresto que julgou o Agravo Interno foi explícito ao especificar que o artigo 1.021, "caput", do Código de Processo Civil especifica que o processamento do Agravo Interno observará as regras do regimento interno do Tribunal, e o artigo 253, "caput", do Regimento Interno deste Egrégio Tribunal de Justiça do Estado de São Paulo dispõe que o Agravo Regimental (Agravo Interno) não possui efeito suspensivo.
+E, após o v. acórdão ora embargado fazer a diferenciação entre prazo dilatório e peremptório, especificou que, sobre a extemporânea complementação atualizada da taxa judiciária (fls. 2601261), o prazo é peremptório, não havendo como ser acolhido esse pagamento, porque realizado fora do prazo concedido no despacho de fls. 2191220, uma vez que o r preparo deve ser comprovado Wo ato de interposição do recurso", conforme determinado no artigo 1.007, "caput", do Código de Processo Civil, sendo que as exceções estão previstas # em seus parágrafos, não se havendo falar em margem para mitigação dos prazos ali previstos" (fls. 362-363 e-STJ).
+Nesse contexto, verifica-se que remanesceu íntegro um dos fundamentos adotados pela Corte de origem, qual seja, de que o Agravo Regimental (Agravo Interno) não possui efeito suspensivo, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, rever o entendimento firmado pelas instâncias ordinárias com relação à não comprovação do pagamento dentro do prazo determinado demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
