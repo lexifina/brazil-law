@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Tratam-se de Embargos de Declaração opostos pela Refinaria de Petróleos de Manguinhos S/A, cuja ementa assim estabelece, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 489 E 1.022, DO CPC/2015. NÃO CARACTERIZAÇÃO. CONFISSÃO DO DÉBITO TRIBUTÁRIO. NÃO INCIDÊNCIA DO ARTIGO 322 DO CÓDIGO CIVIL. PRESUNÇÃO DE PAGAMENTO. EXEGESE DO ARTIGO 158 DO CTN. AGRAVO INTERNO NÃO PROVIDO.
+1. Com efeito, conforme constou no combatido decisum, não há falar em ofensa aos arts. 489, § 1º, incisos IV e V, e 1.022 do CPC, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. A tanto, verifica-se, pela fundamentação do acórdão recorrido (fls. 756/769), integrada em sede de embargos declaratórios (fls.
+721/727), que a Corte de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. Conforme a exegese da relação jurídica fiscal disposta no Código Tributário Nacional, a quitação de parcelas subsequentes não cria a presunção de pagamento das anteriores, consoante dispõe o artigo 158 do CTN (REsp n. 776.570/RS, relator Ministro Luiz Fux, Primeira Turma, julgado em 13/2/2007, DJ de 2/4/2007, p.
+239.).
+3. Agravo Interno não provido.
+Nas razões dos aclaratórios, a embargante afirma existir omissões no acórdão recorrido, consistente na inobservância dos temas suscitados quando da alegação de ofensa aos artigos 489, § 1º, inciso VI e 1.022, parágrafo único, inciso II, do CPC, relativo aos seguintes tópicos: (i) o prejuízo do parcelamento realizado pelo devedor, o qual teoricamente não poderia gerar efeitos fiscais atípicos, mas tão somente efeitos de índole administrativa, conforme decidiu o próprio TRF-4, na Apelação em Mandado de Segurança nº 2005.70.00.022955- 6; (ii) a impossibilidade de cumulação da Taxa Selic com outro índice de correção/atualização, o que, por consequência, impactaria na quantificação do débito.
+Impugnação aos aclaratórios às fls. 1.143/1.147 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS AGRAVO INTERNO. NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela.
+2. Observo que o caso em apreço não comporta os presentes aclaratórios, pois os embargos de declaração não servem para que se adeque os fundamentos do acórdão, ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida
+3. Embargos de declaração rejeitados.
+VOTO
+Com efeito, os embargos de declaração têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório.
+O objetivo dos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois a decisão ora recorrida apresenta fundamento suficiente, exauriente e específica ao consignar que as questões postas pelo contribuinte perante o juízo de origem foram apreciadas integralmente (fls. 721/727, e-STJ), de modo que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Portanto, os embargos de declaração não servem para que se adeque os fundamentos do acórdão, ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Ilustrativamente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial. 2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração. 3. Embargos de declaração rejeitados. (EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+Ante o exposto, no mérito, rejeito os embargos de declaração.
+É como voto.
