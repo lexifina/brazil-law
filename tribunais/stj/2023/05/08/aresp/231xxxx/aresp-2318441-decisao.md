@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por IVANILDE DA SILVA RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. PRELIMINAR SUSCITADA EM CONTRARRAZÕES. AUSÊNCIA DE DIALETICIDADE. ACOLHIMENTO. Os recursos, de um modo geral, devem observar o princípio da dialeticidade, segundo o qual a parte, ao manifestar seu inconformismo com o ato judicial, deve necessariamente indicar os motivos de fato e de direito pelos quais há desacerto na decisão e se requer novo julgamento da questão nele cogitada.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.013 do CPC, no que concerne à existência de pressuposto de admissibilidade do recurso de apelação, considerando a presença de dialeticidade recursal, trazendo os seguintes argumentos:
+Cultos Ministros, o acórdão guerreado deve ser reformado, pois vulnerou Lei Infraconstitucional bem como a Constituição da República Federativa do Brasil ao não conhecer do recurso de apelação sob o fundamento de ausência de dialeticidade do recurso, data máxima vênia.
+ ..
+Pois bem, mesmo após o Desembargador Relator atestar que houve razões recursais por parte da ora recorrente, NÃO CONHECEU DO RECURSO, sob alegação de ausência de DIALETIVIDADE DO RECURSO, ou seja, que a ora recorrente não atendeu aos requisitos do artigo 1.010, III, do CPC, data vênia.
+Inobstante a alegação de que a ora recorrente não atendeu aos requisitos do artigo 1.010, III, ela, em seu recurso de apelação apresentou sim as razões dos pedidos de reforma da sentença prolatada pelo Juízo "a quo", pois o próprio Desembargador Relator as descreveu em seu voto, conforme acima demonstrado, data vênia.
+ ..
+Ora ilustres Ministros Julgadores, , pois não cobrei nem eu na humilde condição de advogado dativo cobrarei qualquer quantia da recorrente, fase ao seu estado de miserabilidade, entendo que houve ofensa literal ao disposto no artigo 1.013 retro mencionado, pois foram colocadas no recurso de apelação todos os queixumes, digo, todos os fatos discutidos perante o Juízo monocrático e ainda toda a discordância da ora recorrente ao entendimento esposado pelo Juízo "a quo" em sua sentença, permitindo assim o direito de contraditório e amplitude de defesa das partes.
+ ..
+Ora Excelências, contrariamente ao argumentado pelo Relator a decisão proferida pelo Juízo "a quo" foi devidamente enfrentada pela recorrente, com argumentos, sinalização às provas documentais apresentadas e ainda a artigos de Leis, bem como Jurisprudências dos Tribunais.
+Mesmo que a recorrente não tenha enfrentado todos os fundamentos da sentença, quando do recurso de apelação, mas ocorrendo o enfretamento mesmo que seja parcial, dá endereço à apreciação do recurso pela Instância Superior (fls. 358/360).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Neste tópico, peço vênia para colocar em julgamento a preliminar de violação à dialeticidade por parte da apelante, suscitada nas contrarrazões recursais, cuja prefacial entendo que deve ser acolhida.
+Com efeito, os recursos, de um modo geral, devem observar o princípio da dialeticidade, segundo o qual a parte, ao manifestar seu inconformismo com o ato judicial, deve necessariamente indicar os motivos de fato e de direito pelos quais há desacerto na decisão e se requer novo julgamento da questão nele cogitada.
+Trata-se de pressuposto extrínseco de admissibilidade recursal, relativo à regularidade formal do recurso, uma vez que a atuação do Tribunal ad quem é intrinsecamente limitada à pretensão do recorrente.
+ ..
+Tem-se, portanto, que a parte inconformada com a decisão judicial deve apresentar os motivos de seu inconformismo, assim como os fundamentos jurídicos pelos quais entende haver o desacerto da decisão judicial.
+No presente caso, entendo que a parte Apelante não se desincumbiu de tal ônus, limitando-se a lançar as seguintes razões de inconformismo.
+ ..
+Todavia, verifica-se que a parte apelante não enfrentou os fundamentos da sentença, limitando-se a reafirmar manifestações anteriores, enfatizando apenas a condição pessoal da apelante tentando infirmar as negociações por ela realizadas. (fls. 288/294)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Dessarte, entender o contrário do que ficou expressamente consignado no acórdão recorrido - ausência de impugnação dos fundamentos da sentença -, a fim de acatar o argumento da recorrente, demanda reexame do suporte probatório dos autos, o que é vedado na via do Recurso Especial, nos termos da Súmula 7 do STJ." (REsp n. 2.002.973/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/8/2022, DJe de 6/9/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
