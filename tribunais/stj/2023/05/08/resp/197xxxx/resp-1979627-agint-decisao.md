@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por SÃO PAULO PREVIDÊNCIA - SPREV contra a decisão monocrática de fls. 430/436, assim ementada:
+ADMINISTRATIVO. RECURSO ESPECIAL. POLICIAIS MILITARES INATIVOS E PENSIONISTAS. ADICIONAL DE LOCAL DE EXERCÍCIO. TERMO INICIAL. JUROS DE MORA. HONORÁRIOS. VALOR DA CONDENAÇÃO. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+A questão debatida nos autos, qual seja, "definir se o termo inicial dos juros de mora, em ação de cobrança dos valores pretéritos ao ajuizamento de anterior mandado de segurança, deve ser contado a partir da citação, na ação de cobrança, ou da notificação da autoridade coatora, quando da impetração do mandado de segurança", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.133/STJ), dos REsps 1.925.235/SP, 1.930.309/SP e 1.935.653/SP, de relatoria da Ministra Assusete Magalhães.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC.
+Diante do exposto, determino o sobrestamento deste processo, cujos autos deverão permanecer na Coordenadoria de Feitos de Direito Público até o julgamento definitivo dos citados recursos excepcionais representativos da controvérsia.
+Publique-se. Intimações necessárias.
