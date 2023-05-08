@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 458):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PREENCHIMENTO DOS REQUISITOS PARA A REDUÇÃO DA ÁREA NÃO EDIFICÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante alega que houve violação ao art. 1.022 do CPC/2015, ao argumento de omissão "sobre a alegação feita no apelo nobre acerca da possibilidade de o Magistrado proferir julgamento antecipado, sem prova pericial, quando subsiste controvérsia a respeito da precisa distância entre o imóvel e a rodovia".
+Defende, outrossim, não incidir à hipótese a Súmula 7/STJ, pois:
+(..) não se faz necessário o revolvimento do conjunto fático-probatório dos autos, notadamente porque a única prova de que se valeram as instâncias ordinárias foi produzida pela parte autora (DINIT) que claramente tem interesse na retirada forçada da comunidade do local em litígio. O que se busca por meio do apelo raro é análise quanto à legalidade dessa prova e, por consequência, a validade das decisões que indeferem a produção de prova pericial capaz de precisar a distância exata das construções em relação à área non aedificandi.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. A revisão da conclusão a que chegou o Tribunal de origem sobre a inexistência de cerceamento de defesa demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Evidencia-se que a questão foi enfrentada, nos seguintes termos (fl. 359):
+Entendeu a col. Terceira Turma que "O Juiz está autorizado pelo art. 355, I, do CPC/15, a julgar antecipadamente a lide, quando a questão é meramente de direito ou for prescindível a realização de perícia para o deslinde da controvérsia, e, segundo a jurisprudência predominante do STJ, não há que se falar em cerceamento de defesa pelo julgamento antecipado da lide, pois o Magistrado tem o poder-dever de julgar antecipadamente a lide, acaso verifique que a prova documental trazida aos autos é suficiente para orientar o seu entendimento."
+O Acórdão trouxe, expressamente, que: "No caso em tela, como bem observado pelo MM. Juiz sentenciante, a construção impugnada está localizada na área da BR-304 no non aedificandi trecho em questão, ao contrário do alegado pela Associação. "É o que se depreende dos elementos probatórios constantes do Processo Administrativo nº 50603003384/2015-96, donde ressai, conforme levantamento topográfico realizado pelo DNIT delimitando a metragem da área, croqui e os registros fotográficos, que tal edificação não dista 15 (quinze) metros da faixa non aedificandi, conforme disciplinado pelo art. 4º, inciso III, da Lei nº 6.766/1979, com redação dada pela Lei nº 10.932/2004, autorizando, assim, suspensão da realização de quaisquer obras na referida área."
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 7/STJ.
+Ocorre que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que "a documentação constante do PA nº 50603003384/2015-96 (levantamento topográfico realizado pelo DNIT delimitando a metragem da área, croqui e os registros fotográficos), comprovam que a construção foi erigida na faixa non aedificandi", não havendo que se falar em necessidade de prova pericial ou cerceamento de defesa, bem como de que não foram preenchidos os requisitos da Lei n. 13.913 de 2019 para a redução da área não edificável.
+A propósito:
+Ocorre que a prova pericial, , manifesta-se despicienda e manifestamente in casu protelatória, porquanto da carga informativa colhida dos autos, extrai-se que a construção foi erigida na faixa, contrariando a natureza jurídica do bem (área) em non aedificandi questão. É o que se depreende dos elementos probatórios constantes do Processo Administrativo nº 50603003384/2015-96, donde ressai, conforme levantamento topográfico realizado pelo DNIT delimitando a metragem da área, croqui e os registros fotográficos, que tal edificação não dista 15 (quinze) metros da faixa, conforme non aedificandi disciplinado pelo art. 4º, inciso III, da Lei nº 6.766/1979, com redação dada pela Lei nº10.932/2004, autorizando, assim, suspensão da realização de quaisquer obras na referida área.".
+(..)
+Descabida a alegada omissão quanto à aplicação da nova Lei n. 13.913/2019. A aludida norma legal trouxe a possibilidade de redução da área não edificável de 15 metros para 5 metros de cada lado da Rodovia Federal, desde que se insira em áreas urbanas e que haja Lei Municipal ou Distrital que aprove o Instrumento de Planejamento Territorial, o que não existe no presente caso.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
