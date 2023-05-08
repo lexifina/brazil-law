@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Fazenda do Estado de São Paulo, contra decisão de fls. 195/199, pela qual se determinou a devolução dos autos à Corte de origem para que o juízo da execução tome as providências necessárias à constrição de quaisquer bens ou direitos penhoráveis da parte executada, sem prejuízo do recebimento e processamento dos embargos à execução fiscal, quando comprovada a hipossuficência patrimonial do devedor.
+A parte embargante afirma a existência de omissão e contradição na decisão recorrida, pois nela deve constar que "a dispensa da garantia do juízo, para fins de recebimento e processamento dos embargos à execução fiscal  ..  é  condicionada à comprovação da hipossuficiência do particular" (fl. 206).
+Aberta vista à parte embargada, decorreu in albis o prazo para apresentação de impugnação (fl. 209).
+É O RELATÓRIO.
+A irresignação da parte embargante não prospera.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+A decisão embargada, seguindo a jurisprudência da Primeira Turma, reconheceu a possibilidade do recebimento dos embargos à execução fiscal sem a apresentação de garantia do juízo, quando efetivamente comprovado o estado de hipossuficiência patrimonial do devedor, não sendo, contudo, suficiente, para tal propósito, a concessão da assistência judiciária gratuita.
+Consignou-se, ainda, que, no caso concreto, a questão da hipossuficiência não foi enfrentada pelas instâncias ordinárias. Assim, a decisão deu parcial provimento ao recurso da parte contribuinte, para determinar o retorno dos autos à Corte de origem para tomar providências necessárias à constrição de quaisquer bens ou direitos penhoráveis da parte executada, sem prejuízo do recebimento e processamento dos embargos à execução fiscal, nos moldes da fundamentação.
+Como se vê, inexiste o vício apontado, pois a determinação de retorno à Corte Local se deu justamente "para investigação da existência de bens ou direitos penhoráveis, ainda que sejam insuficientes à garantia do débito e, com observância das limitações legais" (fl. 199)
+Tem-se, pois, que a decisão embargada adotou fundamentação mais que suficiente para solucionar a contenda, não havendo, assim, qualquer outro vício a ensejar o cabimento dos aclaratórios.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+Publique-se.
