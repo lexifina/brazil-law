@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por YA PING CHANG FICHTL (CHANG YA PING), YA JEN CHANG BARRETO, CHANG CHEN SHU LI e EDSON CHANG, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: arbitramento judicial de honorários advocatícios, ajuizada por EDUARDO ANDRADE JUNQUEIRA SILVA MARQUES, em face de YA PING CHANG FICHTL (CHANG YA PING), YA JEN CHANG BARRETO, CHANG CHEN SHU LI e EDSON CHANG.
+Sentença: julgou improcedente o pedido e condenou o agravado ao pagamento das custas e dos honorários, que foram arbitrados em R$ 7.000,00.
+Acórdão: por maioria de votos, em julgamento ampliado, deu provimento à Apelação interposta pelo agravado.
+Embargos de Declaração (AREsp 1.984.157/SP): opostos, pelos agravantes, foram rejeitados. (e-STJ fl. 1041/1044)
+Recurso especial (AREsp 1.984.157/SP): alegaram violação dos artigos 11, 373, I e II, caput e § 1º, 447, 489, II, caput e § 1º, IV, 1.022, I e II e parágrafo único, CPC/15, sob o fundamento de que: (a) não obstante a oposição de embargos de declaração, o Tribunal de origem deixou de sanar as seguintes questões: (i) contradição e falta de fundamento quanto ao valor a ser atribuído aos depoimentos testemunhais e (ii) contradição e omissão quanto ao ônus da prova da contratação do agravado pelos agravantes; (b) caberia ao agravado, autor da ação, fazer prova de que teria sido contratado para atuação no processo de inventário, circunstância que não teria ocorrido na hipótese; (c) não há qualquer vedação legal para que testemunhas possuam relação de trabalho com as partes. (e-STJ fl. 1048/1071)
+Decisão monocrática (AREsp 1.984.157/SP): com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu agravo para conhecer do recurso especial e dar-lhe provimento, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronunciasse, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pelos agravantes. (e-STJ fl. 1159/1161)
+Embargos de Declaração: opostos, pelos agravantes, foram acolhidos, mas sem efeitos modificativos. (e-STJ fl. 1199/1202)
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustentam a não incidência do óbice sumular.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO JUDICIAL DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de arbitramento judicial de honorários advocatícios.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por YA PING CHANG FICHTL (CHANG YA PING), YA JEN CHANG BARRETO, CHANG CHEN SHU LI e EDSON CHANG, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que houve a devida impugnação, inclusive indicando-se as premissas fáticas admitidas pela Corte local, isto é, a suposta necessidade de reanalisar provas e fatos, bem como a qualificação jurídica e a apreciação jurídica correta, ou seja, a mera interpretação dos dispositivos sobre a taxatividade da regra legal de impedimentos e suspeições de testemunhas e sobre a observância do ônus da prova geral, sempre que não for fixado de outro modo, matérias que são exclusivamente de direito.
+Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incide o óbice sumular 7/STJ.
+No caso, a Corte local consignou que os elementos de convicção de que se dispõem autorizam concluir que o agravado, a quem incumbia o ônus da prova, se desincumbiu de tal encargo e demonstrou a veracidade da alegação de que foi contratado verbalmente e prestou serviços de advogado nos processos de inventário.
+Também, entendeu a Corte local que as afirmações das testemunhas da parte agravante, de que a tarefa de atuar no inventário teria sido atribuída a todo o departamento jurídico, não encontram confirmação em nenhum outro elemento de prova, o que sugere que tais declarações tiveram o propósito de favorecer a parte agravante, empregadores das testemunhas.
+Além disso, registrou a Corte local que o agravado desempenhou trabalho de advogado no processo de inventário, cabendo destacar que, a despeito de haver outra advogada na procuração, apenas o agravado assinou as peças processuais e recebia as publicações veiculadas na imprensa oficial.
+Ainda, sustentou a Corte local que o entendimento de que ocorreu a contratação do agravado para atuar no processo de inventário decorre também da adoção das conclusões que constam do voto divergente exarado no julgamento em 31 de agosto de 2016.
+No mais, ressaltou a Corte local que a turma julgadora entendeu que as testemunhas arroladas pela parte agravante não foram consideradas impedidas ou suspeitas, mesmo sendo empregadas de empresa do grupo pertencente à parte agravante, bem como concluiu também que as declarações por elas prestadas, ainda que sob o compromisso legal de falar a verdade, devem ser analisadas com reserva uma vez que, dependendo do teor dos depoimentos, os vínculos emprega tícios podem ficar comprometidos.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
