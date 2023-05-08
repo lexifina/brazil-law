@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por VANILDA APARECIDA DE ARAUJO DINIZ CARABETTI e outra contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - REINTEGRAÇÃO DE POSSE - LIMINAR - REQUISITOS NÃO PREENCHIDOS - TUTELA DE URGÊNCIA INDEFERIDA.
+- Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade.
+- Para a procedência do pedido de reintegração de posse, deve o Autor comprovar sua posse anterior, o esbulho e a data em que ocorrido, nos termos do artigo 561 do Código de Processo Civil.
+- Não induzem posse os atos de mera permissão ou tolerância assim como não autorizam a sua aquisição os atos violentos, ou clandestinos, senão depois de cessar a violência ou a clandestinidade. (Art. 1.208. do CC/2002) - Ausentes os requisitos para sua a caracterização, não há se falar em liminar em sede de reintegração de posse" (fl. 523 e-STJ).
+Nas razões do recurso especial, as recorrentes recorrente sustentam violação dos artigos 140, 300, 506, 561 e 1.022 do Código de Processo Civil, alegando deficiência na prestação jurisdicional, bem como que
+"(..) a complexidade da causa não pode ser subterfúgio para a postergação ou não concessão da liminar rogada na ação de reintegração de posse, mesmo porque, a demonstração dos requisitos legais (art. 561, CPC) é fator suficiente para o deferimento da tutela liminar" (fl. 566 e-STJ).
+Menciona que
+"(..) o preenchimento de todos os requisi- tos exigidos no disposto no art. 561 do CPC garante ao jurisdicionado a limi-nar de reintegração da posse. E, todos eles foram demonstrados, senão veja-se:
+a posse da área do estabelecimento (restaurante) restou demonstrada pela documentação anexada à petição inicial, comprovando o exercício efetivo da posse através do exercício de atividades comerciais desde 28/01/2005;
+o esbulho e a perda da posse decorreram do cumprimento do mandado de despejo oriundo dos autos da ação nº 0191530-29.2015.8.13.0035 que não figurou como parte, conforme boletim de ocorrência (ev. nº 37) e mandado judicial de despejo (ev. nº 40), ora demonstrado por fotografias (ev. nº 35);
+a data do esbulho coincide com o sobredito cumprimento do referido mandado judicial (05/08/2020), ou seja, a menos de ano e dia, situação que autorizava a concessão liminar requerida na peça de ingresso.
+Nessa esteira, se estavam presentes os requisitos para a concessão da liminar, em virtude do preenchimento de todas as exigências do disposto no art. 561 do CPC, assim como àqueles previstos no art. 300 do CPC, a não concessão da liminar e a conclusão tomada pela turma local de- nota a negativa de vigência do estabelecido nesses dispositivos que garantem aos recorrentes a antecipação da tutela de reintegração postulada in limine" (fl. 566 e-STJ).
+Contrarrazões às fls. 595-606 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+E sta Corte Superior entende não ser cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação de tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (REsp nº 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, julgado em 6/4/2006, DJ 8/5/2006).
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CABIMENTO DE AGRAVO DE INSTRUMENTO. ROL DO ART. 1.015 DO NCPC. IMPOSSIBILIDADE PARA A DISCUSSÃO SOBRE ILEGITIMIDADE DE PARTE. PRECEDENTE DESTA CORTE SUPERIOR. 2. ANTECIPAÇÃO DE TUTELA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 4. AGRAVO INTERNO IMPROVIDO.
+1. Para a questão envolvendo a legitimidade de parte, percebe-se que a interpretação do art. 1.015 do novo Código de Processo Civil foi limitativa, entendendo-se que ela não estaria prevista no rol do referido dispositivo. Sendo assim, deve a decisão ser alterada no ponto.
+2. É pacífico o entendimento desta Corte de que, em regra, não cabe recurso especial contra decisão proferida em liminar ou antecipação de tutela, seja para deferi-la, seja para negá-la, na linha do entendimento contido na Súmula n. 735 do Supremo Tribunal Federal.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno improvido"
+(AgInt no AREsp n. 1.626.949/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/4/2022.)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ALEGAÇÃO DE COMPOSSE E POSSE ATUAL. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISCUSSÃO DE DOMÍNIO NA DEMANDA POSSESSÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS. REQUERIMENTO DE REVISÃO DO VALOR DO ENCARGO. DESCABIMENTO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 211 do STJ e 282 e 356 do STF). 2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem, acolhendo a reintegração de posse do imóvel litigioso, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. "O entendimento do STJ é no sentido de que, em se tratando de ação possessória, não se discute o domínio sobre os bens em comento, mas tão somente a posse exercida sobre eles" (AgRg no REsp n. 1.242.937/SC, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/6/2012, DJe 1º/8/2012). 5. No caso concreto, a Corte de origem concluiu pela impossibilidade de a parte recorrente postular a proteção possessória com fundamento no direito de propriedade. Incidência da Súmula n. 83/STJ.
+6. Dissídio jurisprudencial não comprovado, por causa da incidência das Súmulas n. 7 e 83 do STJ.
+7. Conforme a jurisprudência da Corte Especial do STJ, " ..  a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários  .. " (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+8. Correta a decisão que, ao negar provimento ao agravo nos próprios autos, majorou em 20% (vinte por cento) o valor dos honorários advocatícios, nos estritos limites do art. 85, § 11, do CPC/2015, levando em conta os requisitos previstos nos incisos I a IV do § 2º do mesmo dispositivo.
+9. Agravo interno a que se nega provimento"
+(AgInt no AREsp n. 1.477.295/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/11/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
