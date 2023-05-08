@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por EQUATORIAL ALAGOAS DISTRIBUIDORA DE ENERGIA S.A, contra decisão da Presidência (e-STJ fls. 1.016/1.018) que não conheceu do seu agravo em recurso especial.
+Ação: ordinária de indenização por danos materiais para cobrança de valores decorrentes de contrato de prestação de serviços firmado entre as partes, ajuizada por SOTILTEC EMPREENDIMENTOS LTDA, em face de EQUATORIAL ALAGOAS DISTRIBUIDORA DE ENERGIA S.A.
+Sentença: indeferiu a petição inicial e julgou extinto o feito sem julgamento do mérito.
+Acórdão: deu provimento à apelação interposta pela agravada para anular a sentença, nos termos da seguinte ementa:
+"DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. MAGISTRADO PRIMEVO QUE DETERMINOU A EMENDA À INICIAL PARA FORMULAÇÃO DE PEDIDO CERTO E DETERMINADO. DILIGÊNCIA INADEQUADA NA ESPÉCIE. PEDIDO INICIAL ESPECIFICADO DE FORMA CLARA, COM APONTAMENTO DAS IRREGULARIDADES SUPOSTAMENTE HAVIDAS. INEXISTÊNCIA DE ALEGAÇÕES GENÉRICAS. INDEFERIMENTO DA INICIAL. IMPOSSIBILIDADE. EXORDIAL QUE PREENCHE OS REQUISITOS DO ART. 319, DO CPC. INÉPCIA DA INICIAL NÃO CONFIGURADA. OFENSA AO PRINCÍPIO DO ACESSO À JUSTIÇA. EXTINÇÃO PREMATURA DO FEITO. ERROR IN PROCEDENDO. SENTENÇA ANULADA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA O REGULAR PROCESSAMENTO DO FEITO. RECURSO CONHECIDO E PROVIDO. UNANIMIDADE. (fl. 935).
+Recurso especial: alegou ofensa aos arts. 319, III e IV; 320; p. u do art. 321, 322 e 434, do CPC/2015, sustentando: i) que os fatos narrados na petição inicial são genéricos e o pedido formulado é incerto, devendo ser mantida a sentença que indeferiu a inicial e julgou extinto o feito; ii) que a falta de um dos requisitos da petição inicial enseja sua inaptidão, o que impede o prosseguimento do processo; iii) e que "resta inviabilizada a análise do pedido indenizatório pelos danos materiais suportados pelos pagamentos realizados a seus funcionários se nem mesmo a Recorrida sabe precisar quais teriam sido esses funcionários, os serviços prestados e os valores que foram pagos." (e-STJ, fl. 953); iv) inexiste o dever da agravante em indenizar, pois a parte agravada não se desincumbiu do seu ônus de comprovar seu direito.
+Decisão agravada: não conheceu do agravo em razão da incidência da Súmula 182/STJ.
+Agravo interno: alega que não pretende o reexame probatório, e que todas as questões suscitadas foram prequestionadas, pugnando pelo afastamento das Súmulas 7 e 211/STJ. No mais, repisa as razões anteriormente expostas acerca da tese defendida.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada na ausência de impugnação às Súmulas 7 e 211/STJ, e 284 do STF, aplicadas pelo juízo de admissibilidade.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, alegando de forma genérica, que referidos óbices devem ser afastados, repisando, no mais, os mesmos argumentos já expendidos no recurso especial em defesa de suas teses.
+Ressalte-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame e da interpretação de cláusulas contratuais, na hipótese em que o Tribunal de origem declara que "analisar a existência de suposta ofensa, importa, necessariamente,em revolvimento de matéria fático-probatória, o que é expressamente vedado pela Súmula nº 7, do Superior Tribunal de Justiça. (..) Com efeito, a tese da recorrente, amparada na alegação de existência de ofensa aos mencionados dispositivos legais, é incompatível com a natureza excepcional do recurso especial, vez que o Tribunal ad quem teria que reavaliar os fatos e provas do processo."(e-STJ fl. 977), o que não foi feito.
+Especificamente quanto à Súmula 211/STJ, a agravante apenas afirmou, genericamente, ter havido o prequestionamento dos artigos tidos por violados, sem qualquer demonstração, deixando, portanto, de impugnar de forma adequada referido fundamento.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar,nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015. Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Deve, portanto, ser mantida a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
