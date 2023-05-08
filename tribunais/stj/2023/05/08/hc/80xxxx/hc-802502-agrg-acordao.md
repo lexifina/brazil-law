@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ELCIO FERREIRA DE ALMEIDA JUNIOR contra a decisão que não conheceu do presente habeas corpus, no qual se busca o afastamento de falta disciplinar grave.
+O recorrente reitera a alegação de falta de provas idôneas no reconhecimento da falta disciplinar grave pelo juízo da execução.
+Requer a reconsideração da decisão agravada ou o julgamento do recurso pelo órgão colegiado.
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AFASTAMENTO POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. RECURSO DESPROVIDO.
+1. Segundo o acórdão proferido no agravo de execução penal da defesa, "foi noticiado que, durante o procedimento de revista o apenado tentou correr para o banheiro, sendo de pronto impedido pelos policiais penais. Na ocasião, fora localizado um aparelho celular na roupa íntima do sentenciado, juntamente com um celular. O apenado ainda teria engoliu um chip de celular e resistiu a abordagem".
+2. O reconhecimento da falta grave pelas instâncias ordinárias está devidamente alicerçado em elementos fáticos-probatórios incapazes de serem reanalisados na via estreita do habeas corpus,
+3. Agravo regimental desprovido.
+VOTO
+Conforme afirmado na decisão agravada, o reconhecimento da falta grave pelas instâncias ordinárias está devidamente alicerçado em elementos fáticos-probatórios incapazes de serem reanalisados na via estreita do habeas corpus, conforme se extrai dos seguintes trechos do acórdão do Tribunal a quo:
+"Durante o cumprimento da pena no regime fechado, foi noticiado que, durante o procedimento de revista o apenado tentou correr para o banheiro, sendo de pronto impedido pelos policiais penais. Na ocasião, fora localizado um aparelho celular na roupa íntima do sentenciado, juntamente com um celular. O apenado ainda teria engoliu um chip de celular e resistiu a abordagem (vide comunicado interno fl. 09, do seq. 139.2 do SEEU).
+O reeducando foi absolvido na esfera administrativa (fls. 03/05 do seq. 139.2 do SEEU). Contudo, após Acordão determinando a oitiva judicial do reeducando (seq. 208.1 do SEEU), a d. magistrada primeva designou a audiência de justificação, tendo, em seguida, reconhecido a prática da falta grave do art. 50, inciso VII, da LEP, determinando, como consequência, a regressão para o regime fechado.
+No mesmo viés, extrai-se do comunicado interno, o qual consta que no dia dos fatos, durante procedimento de revista, o reeducando Élcio tentou correr para o banheiro, e após ter sido impedido pelos Policiais Penais, momento em que foi visto na posse de um aparelho celular, o qual estava escondido em sua roupa íntima, além do celular foi localizado um carregador.
+Consta, também, que Élcio teria engolido um chip e que resistiu a abordagem (fl. 08 sequencial 139.1).
+Como se sabe, a palavra dos agentes penitenciários gozam de presunção de veracidade, de forma que, a ausência de suas oitivas em sede de audiência de justificação, não macula o conteúdo do histórico da ocorrência.
+No caso em tela, verifico que a defesa não se desincumbiu de trazer aos autos provas capazes de afastar a idoneidade do acervo probatório coleado, sobretudo porque eles de forma uníssona apontam que Élcio estava na posse do celular apreendido e que ao ver os agentes penitenciários tentou ir ao banheiro, além de que ingeriu o chip telefônico.
+Ademais, a corroborar com o depoimento do agente penitenciário e do comunicado interno, verifica-se que o relatório médico atestou a presença de um corpo estranho retangular radiopaco no organismo de Élcio, fato que afasta a narrativa do apenado de que o objeto no seu corpo tratava de um remédio (fl. 03 do seq. 139.2 do SEEU)." (fls. 55/58)
+Quanto ao tema, o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE (POSSE DE APARELHO CELULAR E DESOBEDIÊNCIA). ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 3. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o depoimento dos agentes penitenciários foi coeso a respeito do ato de indisciplina do ora paciente que, visto portando aparelho celular, recusou-se a entregá-lo aos servidores da penitenciária, quando solicitado a tanto, saindo rapidamente do local em direção ao pátio.
+4. A prova oral produzida, consistente em declarações c oesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave  .. . A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral.
+(HC 391.170/SP, Relator Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+5. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente.
+6. Ainda que assim não fosse, a jurisprudência desta Corte tem-se orientado no sentido de que a eventual análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Precedentes.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+Ante o exposto, voto pelo desprovimento do recurso.
