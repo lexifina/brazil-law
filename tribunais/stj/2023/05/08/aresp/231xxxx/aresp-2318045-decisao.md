@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. BUSCA E APREENSÃO. NOTIFICAÇÃO DEFEITUOSA. ASSINATURA FALSIFICADA. MORA NÃO COMPROVADA.
+Deve ser provido o recurso quando se constata que a mora não restou comprovada, tendo em vista que o instrumento da notificação, em que se baseou o magistrado para deferir a busca e apreensão, contem falsificação da assinatura da devedora, devendo ser indeferido o pedido de liminar.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Quanto à controvérsia, alega violação do art. 2º, § 2º, do Decreto-Lei n. 911/1969, no que concerne à regularidade da constituição em mora mediante envio da notificação extrajudicial ao endereço constante em contrato, conferindo a manutenção do ato constritivo de busca e apreensão sobre o veículo objeto da alienação fiduciária. Apresenta os seguintes argumentos:
+O acórdão vergastado, ao dar provimento ao agravo de instrumento interposto pela ora recorrida, considerou que não se operou a contento a notificação da devedora, de molde que a sua constituição em mora não restou satisfatoriamente demonstrada.
+ ..
+Extrai-se das premissas fáticas em que se fundou o acórdão impugnado que o recorrente encaminhou a notificação extrajudicial ao endereço informado pela recorrida, sendo que o AR retornou com a assinatura da devedora, comprovando, assim, o efetivo recebimento.
+ ..
+Todavia, a despeito da necessidade de comprovação da mora, a literalidade do artigo 2º, § 2º do Decreto-Lei 911/1969 preconiza que:
+ ..
+Portanto, considerando que a notificação exigida pela lei de regência para a propositura da ação de busca e apreensão se presta, apenas, para a comprovação da mora, incorreu em nítida afronta ao art. 2º, § 2º, o acórdão, ao entender pela sua não constituição no caso concreto, malgrado o envio e recebimento da notificação no endereço da devedora indicado no contrato.
+No caso, tem-se que o credor/recorrente enviou a correspondência para o endereço que constava do contrato, sendo que, diferentemente do que entende a Corte Estadual, a notificação foi devidamente recebida pela recorrida, conforme consta no aviso de recebimento juntado aos autos.
+Além disso, ainda que se entenda que a assinatura não é da devedora, o que se admite apenas por argumentar, convém destacar que tal fundamento não merece prosperar.Isto porque, em virtude da pandemia do COVID-19, os Correios adotaram medidas de segurança, consoante se verifica no site da empresa:
+ ..
+Ou seja, os Agentes dos Correios foram orientados a realizar as entregas de encomendas e correspondências sem a coleta da assinatura do destinatário, a fim de evitar qualquer tipo de contato físico e risco de contaminação. Dessa forma, a confirmação de entrega passou a ser feita com a validação dos dados do recebedor pelo próprio carteiro.
+Ademais, tendo a mora decorrido do simples vencimento do prazo para o pagamento, e estando ela devidamente comprovada através da notificação expedida em conformidade com a lei que regula a espécie contratual em liça, pouco ou de nenhuma relevância se reveste o fato de a correspondência não ter sido entregue nas mãos do devedor.
+Ou seja, independente da assinatura corresponder, ou não, com a da própria devedora, fato é que a notificação foi devidamente recebida por alguém no endereço indicado por ela no contrato celebrado entre as partes litigantes.
+ ..
+Por tudo isso, oponível o presente recurso, com fundamento na alínea  a  do inciso III do art. 105 da Constituição Federal, porquanto evidenciada a violação ao dispositivo de lei federal supra referido (art. 2º, § 2º do Decreto-Lei 911/1969), comportando a cassação do acórdão recorrido, com a determinação de retorno dos autos à origem para manutenção da liminar de busca e apreensão (fls. 84-88).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Emerge dos autos a circunstância segundo a qual a agravante, sob a alegação de que a notificação utilizada como embasamento para o deferimento da busca e apreensão é nula, devido a sua falsificação, pede seja o recurso provido para determinar a devolução do veículo, ante a ausência de comprovação da mora.
+Pois bem. Em análise à assinatura presente no Aviso de Recebimento juntado com a petição inicial em confronto com a assinatura presente na CNH da agravante, constata-se, a toda evidência, a existência de falsificação grosseira, o que pode ser aferimento de imediato, sem a necessidade de grandes conhecimentos na área grafotécnica, uma vez que o falsificador sequer se deu ao trabalho de, ao menos, aproximar a escrita, grafando como bem lhe convinha.
+Ademais, ao apor o número da identidade, também errou, uma vez que escreveu 4223469, ao passo que a numeração correta era 4226439, o que só vem a reforçar a ausência de notificação para o caso dos autos.
+Ora, deve-se recordar que a jurisprudência majoritária desta corte caminha no sentido de que não basta o mero envio ao endereço constante do contrato, sendo indispensável que alguém do endereço receba a notificação, ainda que não seja o devedor. Porém, o caso retratado nos autos reveste-se de características particulares, uma vez que não foi terceira pessoa a receber a notificação e sim, alguém se passando pela devedora, circunstância que, em nenhuma hipótese, deve ser privilegiada.
+Nesse sentido, é de se concluir que, a rigor, a notificação não se encontra comprovada, motivo pelo qual se encontra ausente o requisito da mora, exigido pelo § 2º, do art. 2º, do Decreto-Lei n. 911/69
+ ..
+Logo, não comprovada a mora, é de se concluir pela necessidade de reforma da decisão que deferiu a busca e apreensão (fls. 71-72, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
