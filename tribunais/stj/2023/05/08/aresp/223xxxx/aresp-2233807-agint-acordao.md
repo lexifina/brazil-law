@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+TRIBUTÁRIO - APELAÇÃO - AÇÃO ANULATÓRIA - ISS - BASE DE CÁLCULO DO ISS - PRESTAÇÃO DE SERVIÇOS DE PUBLICIDADE E PROPAGANDA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Primeiramente, não se pode cogitar da aplicação art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, uma vez que o recurso do Município impugnou especificamente o fundamento da decisão denegatória recorrida, já que em nenhum momento durante as jurisdições de primeiro e segundo grau foram ventiladas pelas partes questões envolvendo matéria constitucional, tendo sido a lide, desde a apelação interposta pela Municipalidade, limitada por questões infraconstitucionais previstas na legislação federal.
+Ora, a decisão ora recorrida não conheceu do Recurso Especial da municipalidade com fulcro na Súmula 284/STF já que o venerando acórdão recorrido teria apontado jurisprudência do Supremo Tribunal Federal relativamente à planos de saúde, o que não pode ter interpretação extensiva ao caso concreto, relativamente à agencias de publicidade, não tendo essa abrangência sido determinada no julgamento do Recurso Extraordinário nº 651.703/PR, Rel. Min. Luiz Fux, DJe. 26/04/2017
+Observando-se o recurso especial interposto pelo Município, é possível constatar que foi exaustivamente impugnada a aplicação específica do art. 7º LC 116/2003, único dispositivo legal questionado no recurso interposto pela Municipalidade.
+Assim, com a devida vênia, não restam dúvidas de que a decisão monocrática merece ser reformada, para que este C. Tribunal conheça do recurso especial interposto pelo Município, eis que foram especificamente impugnados os fundamentos da decisão denegatória.
+Resta, pois, evidente que houve a impugnação específica do fundamento da decisão denegatória recorrida nem a apontada dissociação das razões recursais da Edilidade com o fundamento do acórdão recorrido.
+Desta feita, houve impugnação específica aos fundamentos da decisão recorrida, de modo que não se aplicam o arts. 932, III, do CPC/15, e 253, parágrafo único, II, a e b do RI/STJ e nem a Súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DEBITO FISCAL. AUTO DE INFRAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. IJNCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Na origem, trata-se de ação anulatória de debito fiscal objetivando desconstituir os lançamentos fiscais consubstanciados nos Autos de Infração. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+IV - Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão recorrido assim decidiu:
+Ademais, como bem destacado na r. sentença, o próprio Município editou o Decreto 58.175, de 3 de abril de 2018, prevendo que o preço do serviço descrito no subitem 17.06 1 da lista de serviços do "caput" do artigo 1º da Lei nº 13.701, de 2003, quando efetivamente prestado por terceiro, não compõe a base de cálculo dos serviços prestados (fl. 831).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
