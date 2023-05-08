@@ -1,0 +1,119 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno de decisão monocrática que conheceu do Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+A parte agravante sustenta (fls. 3168-3186, e-STJ):
+24. Da leitura do excerto acima, percebe-se que a r. decisão monocrática apreciou a alegação de violação aos arts. 1.022, I e II, parágrafo único, II c/c 489, § 1º, IV, V e VI, do CPC/2015 exclusivamente sob o fundamento de que o e. Tribunal a quo se apreciou adequadamente o argumento da Agravante lançado nas instâncias ordinárias afetos à impossibilidade de se proferir decisão surpresa.
+25. Ocorre que, consoante se extrai de fls. e-STJ 2.737/2.754, a ora Agravante não fundamentou seus embargos de declaração ao v. acórdão objeto do recurso especial apenas na omissão do e. Tribunal a quo acerca do argumento de que o acolhimento da litispendência importaria em decisão surpresa. Nos aclaratórios, a ACAM também suscitou outros vícios, a saber:
+(..)
+26. Daí porque, ao apreciar a alegação dos arts. 1.022, I e II, parágrafo único, II c/c 489, § 1º, IV, V e VI, do CPC/2015 exclusivamente com base na argumentação relacionada à vedação a decisões surpresas, a r. decisão monocrática, com todas as vênias, se mostrou incompleta, deixando de incursionar nos demais argumentos invocados pela Agravante em seus embargos de declaração.
+(..)
+34. No que toca aos demais fundamentos do recurso especial, a r. decisão agravada deixou de conhecê-los com base no argumento de que o julgamento do referido recurso importaria reexame de matéria fático-probatória, o que atrairia a incidência do enunciado nº 7 da Súmula desse e. STJ.
+35. Sucede que o recurso especial de fls. e-STJ 2.793/2.822 versa sobre questões exclusivamente de direito, sendo desnecessário extrapolar os limites da moldura fática delineada no v. acórdão para se analisar a alegação de violação das regras previstas nos arts. 10, 18, 141, 337 §§ 2º e 3º, 492 e 1.013, caput, do CPC/15 e arts. 82, IV, 91 a 100 e 103, III, e §§ 2º e 4º, do CDC.
+(..)
+46. Enfim, consta da moldura delineada no v. acórdão que a associação atua nesta e na ação autuada sob o nº 0285554-18.2017.8.19.0001 como representante de associados distintos, decorrendo sua legitimidade de autorizações específicas daqueles. Assim, estando o suporte fático necessário à aplicação da legislação federal definido no aresto, não há necessidade de se incursionar no exame das manifestações ou provas dos autos para constatar que a conclusão adotada pelo Tribunal local acerca da litispendência se encontra equivocada e em dissonância com orientação dos Tribunais Superiores.
+47. Desse modo, evidente a inaplicabilidade da Súmula nº 7 desse e. STJ a este caso, diante da total desnecessidade de se rever qualquer fato ou prova para apreciar e acolher as razões recursais, o que impõe, em caráter subsidiário à anulação do aresto do v. acórdão proferido pelo Tribunal a quo, o provimento deste agravo interno para que seja então reformada a r. decisão agravada e conhecido e provido o recurso especial no particular.
+(..)
+49. Novamente com as vênias de estilo, a r. decisão agravada se equivocou ao obstar a análise do dissídio jurisprudencial invocado no recurso especial com base no enunciado sumular em referência.
+50. Com efeito, para o exame do dissídio jurisprudencial suscitado no recurso especial de fls. e-STJ 2.793/2.822, é completamente desnecessário o regresso ao quadro fático-probatório tanto dos casos paradigma, quanto da presente controvérsia.
+51.É que as circunstâncias de fato que aproximam este caso daqueles invocados como paradigma estão todas descritas nos respectivos acórdãos, os quais instruem o apelo especial (cf. fls. e-STJ 2.828/2944 e fls. e-STJ 2.945/2.955).
+(..)
+60. Por essas razões, resta evidente, também quanto ao dissídio jurisprudencial, que não incide o enunciando nº 7 da Súmula do e. STJ, devendo ser provido o presente agravo.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 3191-3193, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. OFENSA AO ART. 10 DO CPC NÃO CONFIGURADA. LITISPENDÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. O Código de Processo Civil de 2015, no art. 10, consagrou o princípio da não surpresa, o qual estabelece ser vedado ao julgador decidir com base em fundamentos jurídicos não submetidos ao contraditório no decorrer do processo.
+3. O STJ definiu que o fundamento ao qual se refere o dispositivo "é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação -, não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure" (EDcl no REsp 1.280.825/RJ, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2017, DJe de 1º/8/2017).
+4. Não obstante, não há falar em decisão-surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de ouvi-las, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com sua aplicação.
+5. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "(..) Com efeito, a parte autora alega no item 37 de sua resposta recursal o seguinte: "Nada obstante, embora, à primeira vista se pudesse imaginar que seriam idênticas as partes, a causa de pedir e os pedidos de ambas as demandas, a Autora atua nesta e naquela ação na qualidade de legitimada extraordinária, substituindo servidores diferentes, conforme comprova a relação de associados representados em cada uma das demandas (cf. fls. 1.626, 1.727 e 1.996/2.003)." (grifo da própria parte). (..) Em assim sendo, não resta outra opção que não seja o reconhecimento da litispendência deste feito, para com o processo nº 0285554-18.2017.8.19.0001, que tevecurso inicial na 14ª Vara de Fazenda Pública, tendo sido apreciado em segunda instância pela Colenda 22ª Câmara Cível, o qual ainda não transitou em julgado".
+6. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo fático-probatório dos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 do STJ.
+7. Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+8. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.3.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14.9.2021)
+O Código de Processo Civil de 2015, no art. 10, consagrou o princípio da não surpresa, o qual estabelece ser vedado ao julgador decidir com base em fundamentos jurídicos não submetidos ao contraditório no decorrer do processo.
+Pretende-se, com a nova legislação, proibir ao máximo a chamada decisão-surpresa, também conhecida como decisão de terceira via, contra julgado que rompe com o modelo de processo cooperativo instituído pelo CPC/2015.
+O novel diploma quis, assim, permitir que as partes tenham, para além da ciência do processo, a possibilidade de participar efetivamente dele, com real influência no resultado da demanda.
+Em busca de um contraditório efetivo, a norma previu a paridade de tratamento, o direito a ser ouvido, bem como o direito de se manifestar amplamente sobre o substrato fático que respalda a causa de pedir e o pedido, além das questões de ordem pública, cognoscíveis de ofício, não podendo o magistrado decidir sobre circunstâncias advindas de suas próprias investigações, sem que antes tenha dado conhecimento às partes.
+O art. 10 do CPC/2015 deve ser interpretado cum grano salis e com uso da técnica hermenêutica não ampliativa, à luz do princípio da não surpresa.
+Nessa ordem de ideias, especificamente no tocante ao citado art. 10 - princípio da não surpresa -, o STJ definiu que o fundamento ao qual se refere o dispositivo "é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação -, não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure" (EDcl no REsp 1.280.825/RJ, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2017, DJe de 1º/8/2017).
+Na linha do referido entendimento, o art. 933 do CPC/2015, em sintonia com o multicitado art. 10, veda a decisão-surpresa no âmbito dos tribunais, assinalando que, seja pela ocorrência de fato superveniente, seja pela existência de matéria apreciável de ofício ainda não examinada, deverá o julgador abrir vista às partes, antes de julgar o Recurso, para que possam manifestar-se:
+Art. 933. Se o relator constatar a ocorrência de fato superveniente à decisão recorrida ou a existência de questão apreciável de ofício ainda não examinada que devam ser considerados no julgamento do recurso, intimará as partes para que se manifestem no prazo de 5 (cinco) dias.
+Dessarte, "a parte não pode ser surpreendida por decisão fundada em fatos e circunstâncias a respeito dos quais não tenha, previamente, tomado conhecimento, vale dizer, fatos que não esclareçam o porquê da decisão. Essa proibição decorre diretamente da cláusula do devido processo, que integra o princípio do due process of law (CF art. 5º LIV), e do princípio do contraditório (CF 5º LV)" (NERY JÚNIOR, Nelson. Comentários ao Código de Processo Civil. São Paulo: RT, 2015, p. 212).
+Não obstante, não há falar em decisão-surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de ouvi-las, até porque a lei deve ser de conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação.
+A propósito:
+REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. ALEGADA AFRONTA AO ART. 10 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. "O princípio da "não surpresa", constante no art. 10 do CPC/2015, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados pelas partes, como no caso dos autos" (AgInt no AREsp 1359921/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+3. Agravo interno não provido.
+(AgInt no REsp 1.833.449/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10.2.2020).
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls 2699-2711, e-STJ):
+ASSOCIAÇÃO DOS CONTROLADORES DE ARRECADAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO propôs a presente ação em face da PREVI-RIO, alegando que, através do Ofício SMF 330/2014 e da Lei 6064/2016, foram implementados benefícios no sistema remuneratório de servidores públicos municipais integrantes da Categoria dos Controladores de Arrecadação.
+(..)
+Pelo Juízo a quo foi proferida sentença com o seguinte dispositivo (indexador 2024):
+Isto posto, JULGO PROCEDENTE O PEDIDO, extinguindo o processo com resolução de mérito, para condenar o réu, levando em conta a relação dos servidores substituídos beneficiários desta ação, a rever seus proventos segundo os critérios estabelecidos na fundamentação acima, pagando-lhes as diferenças vencidas desde dezembro/2014, tudo atualizado monetariamente desde cada vencimento e acrescido de juros de mora a contar da citação. Condeno o réu, ainda, ao reembolso das despesas processuais adiantadas pelo autor e em honorários advocatícios que arbitro no percentual mínimo legal sobre o valor da condenação, observada a regra de tabelamento do artigo 85, §§ 3º e 5º, do CPC.
+Inconformada, a ré apelou (indexador 2112), arguindo, em preliminar, litispendência em relação aos autos do processo nº 0285554-18.2017.8.19.0001, porquanto possuem as mesmas partes, causa de pedir e pedidos, cujos Juízos da 14ª Vara de Fazenda Pública e a e. 22ª Câmara Cível, ao julgarem a questão, deram entendimento totalmente diverso àquele proferido pelo Juízo sentenciante.
+(..)
+Contrarrazões (Indexador 2154).
+(..)
+Como se pode verificar, esta demanda possui a mesma parte autora e o mesmo órgão previdenciário que a demanda anterior, na qual também participou o Município do Rio de Janeiro, o qual não foi incluído nesta demanda.
+O que ocorre é que esta demanda é, na verdade, uma segunda ação coletiva que discute os mesmos fatos e o mesmo direito da demanda anterior. Nas duas demandas a Associação autora busca discutir o direito de seus representados a receberem uma verba denominada de Gratificação de Desempenho Fazendário.
+Note-se no item 4 da peça vestibular deste feito que a própria parte autora afirma o seguinte: "Neste processo, a referida Associação atua como substituta processual dos associados constantes da relação nominal anexa (doc. 03) e foi assim autorizada a fazê-lo na assembleia realizada em 25.04.2017, como se vê da ata anexa e das autorizações individuais (docs. 04 e 05).". (grifos nossos)
+A bem da verdade a distinção entre este processo e o processo anterior, é a relação dos associados substituídos. Optou a parte autora em ingressar com ações idênticas, distinguindo, porém os associados substituídos em cada uma dessas demandas.
+Com efeito, a parte autora alega no item 37 de sua resposta recursal o seguinte: "Nada obstante, embora, à primeira vista se pudesse imaginar que seriam idênticas as partes, a causa de pedir e os pedidos de ambas as demandas, a Autora atua nesta e naquela ação na qualidade de legitimada extraordinária, substituindo servidores diferentes, conforme comprova a relação de associados representados em cada uma das demandas (cf. fls. 1.626, 1.727 e 1.996/2.003)." (grifo da própria parte).
+Como se pode verificar, esse é um fato inconteste a partir das próprias palavras da parte autora. Ou seja, a única distinção entre as ações são os servidores substituídos em ambas as ações. Os demais elementos dos processos são os mesmos.
+Traçado esse fanal, há que se atentar que esta demanda tem como natureza jurídica o fato de ser uma ação coletiva.
+Nesse ponto a parte autora também não discorda, pois em ambas demandas afirma estar atuando como substituta processual de seus associados.
+(..)
+Assim, em se tratando de ações coletivas, não há como se admitir a pluralidade de ações coletivas, ou seja, é inviável que um mesmo legitimado ativo extraordinário ajuíze diferentes ações coletivas contra o mesmo legitimado passivo apenas alterando a lista dos associados.
+Admitir-se tal hipótese seria admitir que pudesse haver diferentes decisões conflitantes, onde um mesmo direito coletivo fosse compreendido de forma diferente para um associado em relação ao outro associado, tudo a depender do que restar decidido em definitivo em cada uma das ações coletivas.
+A gênese da ação coletiva é exatamente a existência de uma única demanda que representa (lato senso) toda uma categoria, evitando-se assim a existência de múltiplas demandas individuais.
+Admitir-se que por conta da relação de associados a Associação autora possa ajuizar múltiplas ações coletivas seria por em xeque todo o sistema lógico das ações coletivas.
+Assim, inconcebível é a admissão de duas, ou mais, ações coletivas que tenham uma narrativa única de modelo para uma mesma causa de pedir e pedido entre o representante/substituto e o representado/substituído.
+Em assim sendo, não resta outra opção que não seja o reconhecimento da litispendência deste feito, para com o processo nº 0285554-18.2017.8.19.0001, que tevecurso inicial na 14ª Vara de Fazenda Pública, tendo sido apreciado em segunda instância pela Colenda 22ª Câmara Cível, o qual ainda não transitou em julgado.
+Quanto às demais omissões levantadas, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que ocorreu no caso dos autos. Além disso, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, rever o posicionamento adotado na Corte estadual quanto ao reconhecimento da litispendência e da coisa julgada, demanda o reexame dos fatos da causa, de modo que sua alteração encontra óbice no enunciado da Súmula nº 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE CHEQUE EMITIDO PELO FALECIDO PAI DOS AUTORES. ALEGAÇÃO DE FALSIDADE DA ASSINATURA. ARTS. 489, § 1º, V, E 503, § 1º, DO NCPC. REJEIÇÃO DE PEDIDO DE PROVA PERICIAL. COISA JULGADA. OCORRÊNCIA. LITISPENDÊNCIA AFASTADA. ALTERAÇÃO DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO NÃO COMPROVADO. DECISÃO MANTIDA. RECURSO ESPECIAL NÃO PROVIDO.
+1.
+(..).
+3. Rever o posicionamento adotado na Corte estadual quanto ao reconhecimento da litispendência e da coisa julgada, demanda o reexame dos fatos da causa, de modo que sua alteração encontra óbice no enunciado da Súmula nº 7 do STJ.
+4. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Precedentes: AgInt no AREsp n. 1.188.742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/4/2018, DJe 30/4/2018; e, AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. (..).
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.855.607/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022 - grifou-se)
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo fático-probatório dos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 do STJ.
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nessa senda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM PATAMAR RAZOÁVEL E PROPORCIONAL. REVISÃO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Nos termos do entendimento desta Corte Superior, não se conhece do recurso pela alínea c, tendo em vista que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.808.447/MS, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 29.4.2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 19.4.2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 25.3.2021)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
