@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KARINE OLIVEIRA MIZAEL DIAS ou KARINE FURTADO OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Habeas Corpus n. 0021497-36.2021.8.19.0000, de relatoria da Desembargadora Katya Maria Monnerat).
+Os autos dão conta de que a paciente foi condenada, por infração aos arts. 33 e 35, ambos da Lei n. 11.343/2006, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 500 (quinhentos) dias-multa. Após o trânsito em julgado (ocorrido em 11/1/2021), foi expedido mandado de prisão, o qual foi cumprido em 22/2/2021.
+Alegando que a paciente não poderia ser punida 2 (duas) vezes, uma vez que, desde 28/11/2014  em razão do julgamento do Habeas Corpus n. 0056934-85.2014.8.19.0000  , a prisão preventiva teria sido substituída por medida cautelar diversa, a defesa impetrou habeas corpus no Tribunal de origem, que concedeu parcialmente a ordem, "para determinar, de imediato, a nova expedição e tombamento da CES na Vara de Execuções Penais" (e-STJ fls. 28/29). Eis a ementa do mencionado acórdão (e-STJ fl. 16):
+EMENTA: Habeas Corpus. Paciente condenada à pena de 05 anos e 10 meses de reclusão, em regime semiaberto, e 500 dias multa, pela prática dos delitos dos artigos 33 e 35, na forma do artigo 40, incisos III, IV, VI, todos da Lei n.º 11.343/06. Trânsito em julgado. Mandado de prisão cumprido em 22/02/2021. Paciente cumpria prisão domiciliar desde em 28/11/2014. Alegação de excesso de prazo para expedição da CES. Impetrante busca a extinção da punibilidade pelo cumprimento da pena e, subsidiariamente, a prisão domiciliar e a progressão para o regime mais benéfico. Pedido de declaração de extinção da punibilidade deve ser direcionado, primeiramente, ao juízo da VEP, sob pena de supressão de instância e violação ao juiz natural. Precedentes. O artigo 105, da LEP determina que transitado em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver preso, o Juiz ordenará a expedição de guia de recolhimento para a execução. A omissão na expedição de CES definitiva impossibilita a apreciação e o gozo de benefícios previstos. Concessão parcial da ordem.
+No presente writ, a impetrante afirma que "a apenada está respondendo a sentença imposta desde dezembro de 2014, PORÉM NUNCA FOI EMITIDA SUA CES PROVISÓRIA", e que, "caso a CES provisória tivesse sido tombada ou a CES definitiva da data da prisão, a defesa teria tempo hábil para solicitar que Karine passasse o dias das mães com seu filho o qual é criança e portador de deficiência, pois o início da pena em regime inicial semiaberto lhe garante esse beneficio" (e-STJ fl. 10).
+Alega que "Karine, conforme decisão anexada em sessão 27/11/2014 no julgamento em Habeas corpus de n: 0056934-85.2014.8.19.0000, vem cumprindo a determinação imposta de Dezembro de 2014, desta forma há aproximadamente mais de 6 anos a qual mensalmente assina no local determinado judicialmente, não pode  ..  ser punida por duas vezes, observando a Decisão Agravada a qual modifica a Sentença para 05 anos em regime inicial semiaberto, Karine já cumpre há aproximadamente 6 anos, fazendo jus a progressão de regime para mais benéfico" (e-STJ fl. 12).
+Sustenta, ainda, que, em razão da pandemia provocada pela disseminação do novo coronavírus (covid-19) e de ser a paciente mãe de criança portadora de deficiência  sendo ela a única responsável  , seria cabível a prisão domiciliar.
+Por isso, requer:
+1. CONCESSÃO DA LIMINAR PARA CESSAR A COSTRANGIMENTO ILEGAL COM EXPEDIÇÃO DO ALVARÁ SOLTURA,
+a) PRELIMINARMENTE, SEJA DEFERIDO O PLEITO LIMINAR EM SEU FAVOR, COLOCANDO-O IMEDIATAMENTE EM LIBERDADE, BEM COMO,
+b) NO MÉRITO, SEJA CONFIRMADA DITA LIMINAR, EM DEFINITIVO, POR KARINE SER MÃE DE CRIANÇA PORTADORA DE DEFICIÊNCIA, SENDO ELA A ÚNICA RESPONSÁVEL;
+2. RECONHECIMENTO DA EXTINÇÃO DE PUNIBILIDADE POR CUMPRIMENTO DA PENA;
+3. SUBSIDIARIAMENTE RECONHECIMENTO QUE NÃO HOUVE SURESSÃO DE INSTANCIA, já que até a presente data Karine não teve a CES tombada;
+4. SUBSIDIARIAMENTE O CERCEAMENTO DE DEFESA POR NÃO TOMBAMENTO DA CES, JUNTO A VARA DE EXECUÇÕES PENAIS;
+5. SUBSIDIAMENTE, A PRISÃO DOMICILIAR, OU OUTRA CONDICIONANTE, DEVIDO A PANDEMIA DO COVID19,
+6. A EXPEDIÇÃO DO ALVARÁ DE SOLTURA
+7. A PROGRESSÃO PARA REGIME MAIS BENÉFICO ATÉ O JULGAMENTO DESTE WRIT;.
+Indeferido o pedido de liminar (e-STJ fls. 463/467) e prestadas as informações solicitadas (e-STJ fls. 471/655); o Ministério Público Federal opinou pelo parcial conhecimento da ordem e, nesta extensão, pela sua denegação (e-STJ fls. 659/662).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Conforme se extrai do andamento processual no site do Tribunal estadual, a guia de execução foi emitida pelo Juízo de primeiro grau e o mandado de prisão recolhido em 8/7/2021. Verifica-se, ainda, que a paciente cumpre pena em regime semiaberto e recentemente foi autorizada, inclusive, visita periódica ao lar.
+Assim, diante da substancial alteração fática e processual, esvaziado o objeto da impetração.
+Diante do exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
