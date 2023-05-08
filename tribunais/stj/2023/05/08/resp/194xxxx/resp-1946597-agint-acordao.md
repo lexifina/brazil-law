@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20 DO CPC/1973. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Este Tribunal possui jurisprudência uníssona pela impossibilidade de revisar o quantum estabelecido em verba honorária, uma vez que a análise dos parâmetros estabelecidos no art. 20, §§ 3º e 4º, do CPC/1973 depende do reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, de acordo com o enunciado da Súmula 7 do STJ. Em hipóteses excepcionais, o STJ flexibiliza essa orientação, admitindo-se, excepcionalmente, a aludida revisão quando o valor for irrisório ou exorbitante.
+2. No caso dos autos, não se verifica desproporcionalidade nos honorários advocatícios de sucumbência, razão pela qual o recurso não deve ser conhecido.
+3 . Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ROSANE LUCIA DE SOUZA THOMÉ e JOÃO CARLOS SARMENTO DE MORAIS contra decisão assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20 DO CPC/1973. ACÓRDÃO QUE REGISTROU A OBSERVÂNCIA DOS CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO
+A parte agravante sustenta, em síntese (fls. 593/600):
+a fixação de honorários advocatícios em montante inferior a 0,4%do valor da causa, acabou tanto por violar tanto os §§ 3º e 4º do artigo 20 do CPC/1973, como também por contrariara jurisprudência desta Corte, que considera como irrisórios os honorários fixados em montante inferior a 1%.
+Impugnação apresentada pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA (fls. 605/606).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20 DO CPC/1973. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Este Tribunal possui jurisprudência uníssona pela impossibilidade de revisar o quantum estabelecido em verba honorária, uma vez que a análise dos parâmetros estabelecidos no art. 20, §§ 3º e 4º, do CPC/1973 depende do reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, de acordo com o enunciado da Súmula 7 do STJ. Em hipóteses excepcionais, o STJ flexibiliza essa orientação, admitindo-se, excepcionalmente, a aludida revisão quando o valor for irrisório ou exorbitante.
+3. No caso dos autos, não se verifica desproporcionalidade nos honorários advocatícios de sucumbência, razão pela qual o recurso não deve ser conhecido.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida.
+Como consignado na decisão monocrática, é firme a jurisprudência desta Corte Superior no sentido de que, em regra, a revisão do valor fixado em honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. Esse obstáculo apenas pode ser afastado em situações excepcionais, quando se verificar excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade. Veja-se: AgRg no AgRg no REsp 985.426/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 25/3/2009; AgRg no Ag 1.267.521/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 1º/7/2010; AgRg no AREsp 29.214/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 15/6/2012; AgRg no AREsp 168.306/AM, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 24/9/2012.
+No caso concreto, o Tribunal de origem manteve a verba honorária fixada na sentença no valor de R$ 10.000,00 (dez mil reais), assim manifestando-se (fls. 361/362):
+Em relação ao quantum a ser fixado, destaco que o artigo 20, §3º, do CPC/73 dispõe que os honorários serão fixados entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da condenação, atendidos o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importancia da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Contudo, o § 4º desse mesmo artigo é explícito ao afirmar que nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas "a", "h" e "c", do parágrafo anterior.
+Assim, o art. 20, § 4º, do CPC/73 consagra o Princípio da Razoabilidade, não estando o julgador adstrito aos limites percentuais previstos no § 3º do mesmo artigo. Ou seja, a lei concedeu ao julgador a possibilidade de fixar os honorários advocatícios por apreciação equitativa, devendo o valor ser compatível com o trabalho e a complexidade da causa, podendo, inclusive, o valor ser fixado em cifra inferior ao mínimo legal.
+Desta forma, a fim de sanar a omissão apontada, levando em consideração a atividade laborai realizada pelos causídicos e a atribuição legal de apreciação equitativa do juiz, reformo o valor da condenação em honorários fixados pelo Juízo a quo para o equivalente a R$ 10.000,00 (dez mil reais), com fundamento no art. 20, § 4º, do CPC/73.
+Isso registrado, é dizer, que foram observados os critérios de fixação previstos no art. 20, §§ 3º e 4º, do CPC/73 e, conforme anteriormente explicitado, não é dado a este STJ rever o juízo de equidade aplicado pelo Tribunal a quo, que, soberano na análise do conteúdo fático-probatório dos autos, entendeu justa determinada verba honorária. Aplica-se, destarte, no caso, o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARATÓRIOS. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 20 DO CPC/1973. VALOR RAZOÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A ausência de prequestionamento de dispositivos legais tidos por violados impede o conhecimento do recurso especial, nos termos da Súmula 211 do STJ.
+3. Este Tribunal possui jurisprudência uníssona pela impossibilidade de revisar o quantum estabelecido em verba honorária, uma vez que a análise dos parâmetros estabelecidos no art. 20, §§ 3º e 4º, do CPC/1973 depende do reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, de acordo com o enunciado n. 7 da Súmula do STJ. Em hipóteses excepcionais, o STJ flexibiliza essa orientação, admitindo-se, excepcionalmente, a aludida revisão quando o valor for irrisório ou exorbitante.
+4. No caso em exame, verifica-se que o Tribunal a quo analisou os elementos fáticos para concluir que a fixação da verba em R$ 5.000, 00 (cinco mil reais) é razoável e retribui o trabalho do advogado.
+Logo, ressoa evidente que o mencionado valor não se afigura irrisório para viabilizar o afastamento da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.748.931/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. FIXADO COM BASE NO CRITÉRIO DE EQUIDADE NA VIGÊNCIA DO CPC/1973. INEXISTÊNCIA DE EXCEPCIONALIDADE DO QUANTUM FIXADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Primeira Seção desta Corte, em precedente submetido ao rito do art. 543-C do Código de Processo Civil, firmou entendimento segundo o qual, na vigência do CPC/1973, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, desse Estatuto Processual, ou, ainda, um valor fixo, segundo o critério de equidade.
+III - A reavaliação do critério de apreciação equitativa adotada pelo tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo.
+IV - No caso, considerando as circunstâncias abstraídas no acórdão recorrido, não vislumbro excepcionalidade a justificar a revisão do quantum fixado a título de honorários advocatícios.
+V - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n. 07/STJ.
+VI - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.928.138/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/6/2021, DJe de 16/6/2021)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
