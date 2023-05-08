@@ -1,0 +1,26 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de e-STJ fls. 536/551, reconsidero a decisão de e-STJ fls. 531/533 proferida pela Ministra Presidente e passo a novo exame do agravo em recurso especial interposto pela agravante contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Ação: de revisão contratual, ajuizada por EDMILSON ROBERTO SOARES DA SILVA, em face de PORT OCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO.
+Sentença: julgou procedentes os pedidos formulados na exordial.
+Acórdão: deu parcial provimento à apelação interposta pelo agravante, nos seguintes termos:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃOREVISIONAL. CONTRATO BANCÁRIO. PRESCRIÇÃO. INTERESSE. CONTRATO QUITADO JUROS REMUNERATÓRIOS. REPETIÇÃO DOINDÉBITO. PRESCRIÇÃO. CONTRATOS BANCÁRIOS. O PRAZO DA PRESCRIÇÃO DAPRETENSÃO REVISIONAL É O DECENAL PREVISTO NO ARTIGO 205 DOCÓDIGO CIVIL. POSSIBILIDADE JURÍDICA. REVISÃO DE CONTRATOQUITADO. INTERESSE. O ARTIGO 17 DO CÓDIGO DE PROCESSO CIVIL,AO TRATAR DAS CONDIÇÕES DA AÇÃO, DISPÕE QUE PARA POSTULAREM JUÍZO É NECESSÁRIO TER INTERESSE E LEGITIMIDADE. NO CASO EM ANÁLISE, O FATO DO DÉBITO ESTAR QUITADO NÃOAFASTA O INTERESSE DA PARTE AUTORA EM REVISAR ACONTRATAÇÃO. JUROS REMUNERATÓRIOS. DEVIDOS CONFORME CONTRATADOS,QUANDO ADEQUADOS À TAXA MÉDIA DE MERCADO APURADA PELOBACEN. QUANDO PACTUADOS EM PERCENTUAL BEM SUPERIOR OUNÃO DEMONSTRADA A TAXA CONTRATADA, DEVEM SER COM BASENELA LIMITADOS. A REPETIÇÃO E/OU COMPENSAÇÃO DOS VALORES PAGOS A MAIOR ÉCONCLUSÃO LÓGICA DA REVISÃO DOS CONTRATOS BANCÁRIOS, SECONSTATADO FOR QUE HOUVE DIFERENÇA. E TAIS VALORESDEVERÃO SER DEVOLVIDOS NA FORMA SIMPLES, PERMITIDA ACOMPENSAÇÃO ENTRE OS CRÉDITOS DE CADA PARTE. APELAÇÃO PARCIALMENTE PROVIDA.
+Recurso especial: sustenta dissídio jurisprudencial, alegando não haver abusividade nos termos contratuais pactuados entre as partes.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial.
+Agravo interno: aduz que todos os fundamentos da decisão de admissibilidade do recurso especial foram impugnados.
+É o relatório.
+- Do dissídio jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões (REsp 1.421.371/SC, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017; AgInt nos EREsp 1.377.705/SP, Segunda Seção, julgado em 14/09/2016, DJe de 19/09/2016; AgInt nos EAREsp 740.220/SP, Corte Especial, julgado em 17/08/2016, DJE de 21/09/2016).
+Na espécie, o Tribunal de origem foi expresso ao indicar as peculiaridades da hipótese dos autos, veja-se:
+"Analisando os autos verifica-se que o autor é servidor público estadual, portanto, a série do Banco Central correta ao caso concreto seria para modalidade de operação pessoas físicas -crédito pessoal consignado para trabalhadores do setor público (séries 20745 e 25467) e não afixada na sentença, qual seja, pessoas físicas - crédito pessoal consignado para aposentados e pensionistas do INSS (séries 20746 e 25468).
+Não é possível limitar os juros remuneratórios em obediência ao disposto na Lei4.595/64, que regula a atividade bancária, além de ser pacífico na jurisprudência (Súmula 596 do Supremo Tribunal Federal5) que não aplicável a Lei da Usura em relação à taxa de juros. Nos mesmos termos, as Súmulas 2966 e 3827 do Superior Tribunal de Justiça. Contudo, no caso específico dos autos, necessário limitar os juros remuneratórios com base na taxa média de mercado, pois a taxa contratada ultrapassa a taxa média de mercado em percentual excessivo8.Por decorrência lógica, constata-se que os juros pactuados excedem em mais de20%àtaxa média de mercado divulgada pelo Banco Central, para a operação de crédito pessoal consignado para aposentados e pensionista do INSS. " (e-STJ Fl.270)
+Contudo, nenhum acórdão paradigma apresentado pelo recorrente demonstrou similitude fática com essa situação narrada pelo Tribunal de origem.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, § 1º, do RISTJ.
+Forte nessas razões, torno sem efeito a decisão de fls. 531/533 (e-STJ) CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em R$ 500,00 (quinhentos reais) os honorários fixados anteriormente, respeitados os limites do art. 85, §2º do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. PREJUDICADO.
+1. Cuida-se de revisão contratual.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Torno sem efeito a decisão de fls. 531/533 (e-STJ). Agravo conhecido. Recurso especial não conhecido.
