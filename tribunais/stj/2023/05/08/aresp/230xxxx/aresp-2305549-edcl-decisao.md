@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RONAN ANTONIO BORGES, à decisão de fls. 275/276, que não conheceu do recurso.
+Sustenta a parte embargante que "o presente processo é de 2020. Portanto, a publicação é posterior a 17/03/2016, não havendo custas de remessa e retorno por serem os processos digitais. Logo, o embargante pagou integralmente a taxa determinada pelo Tribunal de Justiça de São Paulo" (fl. 279).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, em razão do pedido de gratuidade judiciária.
+Percebida, no tribunal de origem, a irregularidade, a parte foi intimada para trazer documentação que comprovasse a necessidade do benefício (fl. 198).
+Contudo, o tribunal a quo entendeu que a hipossuficiência não restou comprovada pelos documentos juntados aos autos e indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos da decisão de fls. 231.
+Apesar de devidamente intimada, a Recorrente não regularizou o preparo, uma vez que limitou-se a juntar as custas relativas ao Tribunal de Justiça de São Paulo (fl. 235), deixando de recolher as custas devidas ao STJ.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Quanto ao porte de remessa e retorno, realmente não é devido uma vez que o art. 4º da Resolução STJ/GP N. 2 de 1º de fevereiro de 2017, dispensa o recolhimento quando se tratarem de autos eletrônicos.
+Ressalte-se que o preparo abrange o pagamento das custas locais (se houver), das custas do Superior Tribunal de Justiça (Lei 11.636/2007), bem como do porte de remessa e retorno dos autos (a depender do Tribunal de origem). Nesse sentido: (AgRg no AREsp 707.553/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 06/10/2015; e RCD no REsp 1520031/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 06/10/2015).
+Nesse ponto a decisão foi clara, não conhecendo do apelo especial por falta das custas devidas ao STJ. Exigiu-se apenas essa verba referente ao preparo.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
