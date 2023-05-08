@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 624):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MILITAR. LICENCIAMENTO. PRESCRIÇÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. PUBLICIDADE POR MEIO DE BOLETIM INTERNO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta a inaplicabilidade das Súmulas 282, 283 e 284/STF ao caso em apreço pois, segundo afirma, procedeu o prequestionamento da matéria objeto do recurso especial e, além de impugnar todos os fundamentos do acordão recorrido, apresentou a controvérsia de forma clara, objetiva e pormenorizada.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. LICENCIAMENTO. PRESCRIÇÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. PUBLICIDADE POR MEIO DE BOLETIM INTERNO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Como assinalado, infere-se das razões do apelo especial que o recorrente se limitou a tecer argumentos genéricos acerca da inocorrência da prescrição de fundo de direito sem particularizar o dispositivo de lei federal tido por violado - o que é circunstância para o conhecimento do recurso especial com base na alínea "a" -, impedindo, assim, a exata compreensão da controvérsia e carecendo de fundamentação o recurso especial, atraindo também a incidência da Súmula 284/STF, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Acerca da apontada violação ao artigo 95, § 1º, da Lei 6.880/1980, reitera-se que o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual "o que a Constituição Federal de 1988 exige é a publicidade, sendo certo que a publicação, em Boletim Interno, dos atos administrativos praticados pelas Forças Armadas promove a necessária publicidade dentro da esfera da unidade administrativa e, portanto, a todos os seus administrados (servidores militares), não sendo necessário uma nova publicação por outro meio" (fl. 478), razão pela qual mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF, que assim expressa: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, anota-se que o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se manifestou a respeito dos artigos 210 do Código Civil e 54 da Lei 9.784/1999, o que denota a falta de pronunciamento ou prequestionamento sobre a controvérsia suscitada.
+A propósito, como bem observado pela decisão ora combatida, por simples cotejo das razões recursais e os fundamentos do acórdão a quo, percebe-se que a tese recursal vinculada aos dispositivos em comento não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. Inafastável, desse modo, a aplicação da Súmula 282/STF ao caso concreto.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
