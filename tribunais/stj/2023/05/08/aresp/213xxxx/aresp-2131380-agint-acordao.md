@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MSCOOP COOPERATIVA DE PROFISSIONAIS EM INFORMÁTICA contra decisão monocrática do Ministro Og Fernandes que conheceu em parte do agravo para não conhecer do recurso especial em razão da ausência de prequestionamento do art. 924, V, do CPC (fls. 287-292).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 198-199):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. ART. 174, CTN. PRESCRIÇÃO INTERCORRENTE. RESP REPETITIVO N. 1.340.553/SP. SÚMULA 106, STJ. NÃO OCORRÊNCIA. RECURSO DESPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedaneada em jurisprudência consolidada do Colendo Superior Tribunal de Justiça, inclusive quanto aos pontos impugnados no presente recurso.
+2. Com efeito, nos termos do artigo 174, do Código Tributário Nacional, a prescrição se consuma no prazo de cinco anos contados da constituição definitiva do crédito tributário.
+3. De acordo com o enunciado da Súmula 622/STJ, "A notificação do auto de infração faz cessar a contagem da decadência para a constituição do crédito tributário; exaurida a instância administrativa com o decurso do prazo para a impugnação ou com a notificação de seu julgamento definitivo e esgotado o prazo concedido pela Administração para o pagamento voluntário, inicia-se o prazo prescricional para a cobrança judicial."
+3. Em conformidade com o entendimento firmado pelo E. Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.120.295/SP, submetido ao regime do art. 543-C do CPC/73, em execução fiscal para a cobrança de créditos tributários, o marco interruptivo da prescrição é a data da citação pessoal do devedor (quando aplicável a redação original do parágrafo único do art. 174 do CTN) ou a data do despacho que ordena a citação (após a alteração do art. 174 do CTN pela Lei Complementar nº118/2005); os quais retroagem à data do ajuizamento da ação.
+4. No caso dos autos, considerando que entre as datas de constituição dos créditos tributários (18/12/2002, 31/12/2002 e 19/08/2003) e o ajuizamento da ação (14/12/2006) transcorreu prazo inferior a cinco anos, não se verifica a prescrição do crédito tributário.
+5. Segundo o entendimento jurisprudencial do C. STJ proferido no julgamento do REsp repetitivo n.1.340.553 "o prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis, no endereço fornecido", além disso "findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF, findo o qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato".
+6. No tocante à prescrição intercorrente, restou assentado que, embora a execução fiscal tenha permanecido sem andamento por prazo superior a cinco anos, tal fato não poderia ser imputado à exequente, mas aos mecanismos do Judiciário.
+7. Isto porque, a segunda tentativa de citação postal foi requerida pela Fazenda Nacional em 23/07/2007 e o AR negativo foi juntado aos autos após o decurso de mais de 7 (sete) anos (29/01/2015). E, logo depois, o processo foi remetido para Justiça Federal, sendo recebido pela Secretaria da Vara e despachado pelo MM. Juízo em 03/08/2017.
+8. Assim, excepcionalmente, aplicável o disposto na Súmula 106 do STJ, com o seguinte teor: "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+9. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+10. Agravo interno desprovido.
+Não houve embargos de declaração.
+Nas razões do recurso interno, a agravante aduz que houve efetivo prequestionamento, pois (fl. 289):
+Entende-se por "prequestionamento" a alegação prévia da matéria de interesse do recorrente. Nesse sentido, o "prequestionamento" difere substancialmente do conceito de "causa decidida".
+Prequestionamento é atividade das partes, é o meio para se obter a necessária "causa decidida", sendo esta a atividade do Poder Judiciário, não havendo o que confundir.
+ ..
+Assim, data venia, tornar-se-ia mesmo irrelevante o fato de as partes terem ou não prequestionado qualquer matéria: se há causa a respeito da aplicação de preceito federal infraconstitucional, caberá recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões (fl. 296).
+É, no essencial, o relatório.
+EMENTA
+TRIBUTÁRIO. VIOLAÇÃO DO ART. 924, V, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 356/STF. ARTIGO SEM PERTINÊNCIA TEMÁTICA.
+1. Da análise do acordão recorrido, observa-se que o Tribunal de origem, embora tenha se manifestado sobre a questão da prescrição, não o fez à luz do artigo apontado por violado, qual seja, do art. 924, V, do CPC. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Ao insistir que houve violação do art. 924, V, do CPC, observa-se que o recorrente sustenta tese recursal baseado em normativo que não tem comando apto a amparar a tese recursal, visto que a prescrição ou prescrição intercorrente na seara tributária estão regidas pelos arts. 174 do CTN e 40 da LEF, respectivamente, o que atrai, por conseguinte, os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Conforme consignado na decisão agravada, da análise do acordão recorrido, observa-se que o Tribunal de origem, embora tenha se manifestado sobre a questão da prescrição, não o fez à luz do artigo apontado por violado, qual seja, o art. 924, V, do CPC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Neste sentido:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, ao insistir que houve violação do art. 924, V, do CPC, observa-se que o recorrente sustenta tese recursal baseado em normativo que não te m comando apto a amparar a tese recursal, visto que a prescrição ou prescrição intercorrente na seara tributária estão regidas pelos arts. 174 do CTN e 40 da LEF, respectivamente, o que atrai, por conseguinte, os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
