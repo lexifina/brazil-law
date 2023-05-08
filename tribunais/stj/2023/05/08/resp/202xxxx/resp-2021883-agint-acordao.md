@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que rejeitou os Embargos de Declaração, tendo em vista a ausência de ofensa ao art. 1.022 do CPC, bem como a desnecessidade de sobrestamento do feito (fls. 283-284, e-STJ).
+A parte agravante alega (fl. 295, e-STJ):
+Portanto, torna-se irrefutável a incompatibilidade do valor referente à parcela da correção monetária com o conceito de renda da pessoa física para fins e incidência do IRPF, razão pela qual deverá ser reformado o acórdão recorrido, reconhecendo-se o direito líquido e certo à exclusão da base de cálculo do IRPF do valor correspondente à inflação nos rendimentos de aplicações financeiras, representada pelo índice oficial de correção monetária (IPCA), ou por outro índice de correção que melhor reflita a realidade inflacionária do período considerado.
+Não é demais lembrar, ainda, que a matéria discutida nos autos é objeto de recursos repetitivos que foram afetados pelo Superior Tribunal de Justiça ao tema n. 1.160, inclusive havendo determinação de suspensão nacional de todos os processos que versem sobre o assunto, o que fez a Corte Superior com base no art. 1.037, II, do CPC.
+Muito embora o tema n. 1.160 do STJ trate acerca do Imposto de Renda Pessoa Jurídica, certo é que se aplica também ao caso do Imposto de Renda Pessoa Física, como é o caso dos presentes autos. Inclusive, os precedentes utilizados na decisão embargada são atinentes ao IRPJ, o que demonstra a similitude das discussões.
+Pugna pela reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO. IRPF. APLICAÇÕES FINANCEIRAS. SÚMULA 83/STJ. IMPUGNAÇÃO INSUFICIENTE. INCIDÊNCIA DA SÚMULA 182/STJ. SOBRESTAMENTO. INVIABILIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+1. Na decisão que não conheceu do Recurso Especial da parte ora agravante, aplicou-se a Súmula 83 desta Corte, uma vez que o acórdão então recorrido estava em consonância com a jurisprudência do STJ.
+2. Tendo sido utilizada a referida súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no presente Agravo, em que se limita a expor decisões que antecederam os precedentes colacionados na monocrática. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 11.3.2019.
+3. No que tange ao sobrestamento, tampouco assiste razão ao agravante. O Tema 1.160/STJ, que cuida da controvérsia inscrita nos REsp 1.986.304/RS, REsp 1.996.013/PR, REsp 1.996.014/RS, 1.996.685/RS e REsp 1.996.784/SC, assim foi delimitado: "A possibilidade de incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido sobre o total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária".
+4. Como consignado na decisão agravada, os Recursos Repetitivos falam de tributos devidos apenas por pessoas jurídicas e não menciona o Imposto de Renda de Pessoa Física, aqui debatido. Até que o Colegiado decida o contrário, o sobrestamento não pode se estender às hipóteses atinentes às pessoas físicas.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.3.2023.
+O Agravo Interno não merece prosperar.
+Na decisão que não conheceu do Recurso Especial da parte ora agravante, aplicou-se a Súmula 83 desta Corte, uma vez que o acórdão então recorrido estava em consonância com a jurisprudência do STJ.
+Tendo sido utilizada a referida súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no presente Agravo, em que se limita a expor decisões que antecederam os precedentes colacionados na monocrática. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 11/3/2019.
+Ademais, no que tange ao sobrestamento, tampouco assiste razão ao agravante. O Tema 1.160/STJ, que cuida da controvérsia inscrita nos REsp 1.986.304/RS, REsp 1.996.013/PR, REsp 1.996.014/RS, 1.996.685/RS e REsp 1.996.784/SC, assim foi delimitado: "A possibilidade de incidência do Imposto de Renda retido na fonte e da Contribuição Social sobre o Lucro Líquido sobre o total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária".
+Como consignado na decisão ora agravada, os repetitivos falam de tributos devidos apenas por pessoas jurídicas e não menciona o Imposto de Renda de Pessoa Física, aqui debatido. Até que o colegiado decida o contrário, o sobrestamento não pode se estender às hipóteses atinentes às pessoas físicas.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
