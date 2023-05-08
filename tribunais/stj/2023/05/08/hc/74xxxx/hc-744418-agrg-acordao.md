@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO. ILEGALIDADE NÃO EVIDENCIADA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. AGRAVANTE EM LIVRAMENTO CONDICIONAL QUANDO COMETEU NOVO DELITO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O v. acórdão vergastado está em consonância com o entendimento firmado por esta Corte Superior, no que diz respeito à possibilidade de substituição do laudo pericial por outros elementos de provas em situações excepcionais, como na hipótese. Precedentes.
+III - In casu, o dano não foi contra o próprio objeto do furto. O paciente rompeu o obstáculo (painel do veículo) usando uma chave de fenda e uma faca para a obtenção da coisa(o tacógrafo e um painel de instrumentos). Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+IV - No presente caso, inexiste ilegalidade ao adotar o julgador valoração negativa das circunstâncias judiciais em razão do paciente ter cometido o crime enquanto usufruía do livramento condicional, pois essa circunstância, conforme a jurisprudência do STJ, denota maior reprovabilidade de sua conduta.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERI ROSA DA SILVA JUNIOR, contra a decisão que não conheceu do habeas corpus impetrado contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+O agravante foi condenado às penas de 3 (três) anos de reclusão, em regime inicial semiaberto, e 15 (quinze) dias-multa, como incurso na sanção do art. 155, § 4º, incisos I e IV, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo defensivo, nos termos do v. acórdão de fls. 43-51.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem, para reduzir a pena.
+Não conhecida a impetração, interpôs-se o presente agravo.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ não conhecido, sustentando a existência de ilegalidades na dosimetria da pena.
+Alega que a causa de aumento prevista no art. 155, § 4º, inc. I, do CP merece ser afastada, porquanto não há nos autos nenhum elemento que comprove o efetivo rompimento de obstáculo.
+Também sustenta a ilegalidade da exasperação da pena-base, pois o fato de o crime ter sido praticado enquanto o paciente estava em livramento condicional configura indevido bis in idem
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO. ILEGALIDADE NÃO EVIDENCIADA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. AGRAVANTE EM LIVRAMENTO CONDICIONAL QUANDO COMETEU NOVO DELITO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O v. acórdão vergastado está em consonância com o entendimento firmado por esta Corte Superior, no que diz respeito à possibilidade de substituição do laudo pericial por outros elementos de provas em situações excepcionais, como na hipótese. Precedentes.
+III - In casu, o dano não foi contra o próprio objeto do furto. O paciente rompeu o obstáculo (painel do veículo) usando uma chave de fenda e uma faca para a obtenção da coisa(o tacógrafo e um painel de instrumentos). Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+IV - No presente caso, inexiste ilegalidade ao adotar o julgador valoração negativa das circunstâncias judiciais em razão do paciente ter cometido o crime enquanto usufruía do livramento condicional, pois essa circunstância, conforme a jurisprudência do STJ, denota maior reprovabilidade de sua conduta.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a existência de ilegalidades na dosimetria da pena.
+Alega que a causa de aumento prevista no art. 155, § 4º, inc. I, do CP merece ser afastada, porquanto não há nos autos nenhum elemento que comprove o efetivo rompimento de obstáculo.
+Também sustenta a ilegalidade da exasperação da pena-base, pois o fato de o crime ter sido praticado enquanto o paciente estava em livramento condicional configura indevido bis in idem
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, diversamente do que foi alegado pelo agravante, o que avulta do contexto fático delineado pela col. Corte a quo é o depoimento da representante da empresa vítima e dos policias, que indica que o dano não foi contra o próprio objeto do furto. Ao contrário, conclui-se que o paciente rompeu o obstáculo (painel do veículo) usando uma chave de fenda e uma faca para a obtenção da coisa(o tacógrafo e um painel de instrumentos).
+Outrossim, o v. acórdão vergastado está em consonância com o entendimento firmado por esta Corte Superior, no que diz respeito à possibilidade de substituição do laudo pericial por outros elementos de provas em situações excepcionais, como na hipótese.
+Qualquer incu rsão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+A corroborar tal entendimento, os seguintes precedentes deste Superior Tribunal de Justiça: AgRg no AREsp n. 2.047.386/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/6/2022; AgRg no REsp n. 1.957.428/TO, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 1/2/2022; AgRg no HC n. 571.028/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 26/11/2021.
+Quanto à exasperação da pena-base, o Tribunal de origem destacou que: "as circunstâncias judiciais do artigo 59, caput, do Código Penal, mostram-se desfavoráveis. Isso porque se encontram presentes duas qualificadoras, uma delas utilizada para alterar os parâmetros da pena, enquanto a remanescente foi sopesada como circunstância desfavorável, demonstrada a gravidade concreta da ação delitiva. Ainda, o acusado ostenta maus antecedentes e a prática do delito ora em apreço se deu enquanto o réu gozava de livramento condicional".
+No presente caso, inexiste ilegalidade ao adotar o julgador valoração negativa das circunstâncias judiciais em razão do paciente ter cometido o crime enquanto usufruída do livramento condicional, pois essa circunstância, conforme a jurisprudência do STJ, denota maior reprovabilidade de sua conduta.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
