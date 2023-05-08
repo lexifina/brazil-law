@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRANSPORTE RODOVIÁRIO GABIJU LTDA. contra decisão em que conheci do agravo para não conhecer do recurso especial, ao fundamento de que a revisão da distribuição do ônus da sucumbência, por aplicação do princípio da causalidade, demanda reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+A parte agravante defende "a impossibilidade de a questão esbarrar na Súmula 07, porquanto o que se discute são os efeitos da modulação, dito em outras palavras, se a modulação (técnica jurídica que vige no plano da eficácia das decisões judiciais) pode alterar o Princípio da Sucumbência, cuja subsunção ocorre no plano da validade da lei, mérito da causa" (e-STJ fl. 454).
+Sem apresentação de contrarrazões. (e-STJ fl. 462 )
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A análise dos critérios utilizados na distribuição do ônus de sucumbência, a fim de alterar o valor fixado pelo Tribunal a quo a título de honorários advocatícios, importaria em reexame de provas, o que é vedado no âmbito do recurso especial, em razão do óbice da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+O recurso especial se origina de ação declaratória, c/c com repetição de indébito, movida pela empresa agravante com o intuito de declarar a inexigibilidade da inclusão do ICMS na base de cálculo do PIS e da COFINS.
+Em primeiro grau de jurisdição, o Juízo da 2ª Vara Federal de Canoas/RS julgou procedentes os pedidos, para " ..  para declarar o direito da parte autora de excluir, da base de cálculo do PIS e da COFINS, o ICMS destacado nas notas fiscais de saída; e determinar a restituição/compensação dos valores recolhidos a tal título, atualizados pela Taxa Selic desde o pagamento, observada a prescrição quinquenal, nos termos da fundamentação" (e-STJ Fl.230). Além disso, condenou a União ao pagamento dos honorários advocatícios, nos termos do art. 85, § 3º, I a V, § 4º, II, do CPC.
+Irresignada, a Fazenda Nacional interpôs recurso de apelação, que foi desprovido. No entanto, no julgamento dos segundos aclaratórios, o Tribunal a quo deu parcial provimento para readequar os ônus sucumbenciais. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 353/354):
+Em relação ao pleito para que seja definido percentual de honorários advocatícios somente após a liquidação do julgado, não merece guarida a embargante. Isso porque a verba honorária deve ser fixada de acordo com os ditames do art. 85 do CPC. O juiz fixou a sucumbência nos percentuais mínimos sobre o valor da condenação, de acordo com os ditames do art. 85 do CPC.
+O que deve ser apurado em liquidação de sentença é o valor da condenação e não a fixação do percentual, razão pela qual não há fundamento para a reforma do julgado nesse ponto.
+Assim, quanto aos honorários advocatícios sucumbenciais, são estes devidos pela parte autora sobre o proveito econômico obtido pela União na demanda (valor que adviria da exclusão do ICMS da base de cálculo do PIS/COFINS no período não prescrito anterior a 15-03-2017), e tal verba devida pela União à autora é fixada sobre o valor da condenação, ambos nos percentuais mínimos e segundo o escalonamento previstos nos §§3º e 5º do artigo 85 do CPC, a serem apurados em liquidação de sentença.
+A União é isenta do pagamento de custas processuais no âmbito da Justiça Federal, devendo restituir, no entanto, os valores adiantados pela parte adversa a esse título, atualizados pelo IPCA-E (Lei n. 9.289/1996, art. 4º, I, e parágrafo único).
+No caso concreto, considerando a sucumbência recíproca não proporcional, a União deverá ressarcir apenas 2/5 das custas adiantadas.
+Ademais, afasto a majoração dos honorários, tendo em vista a parcial procedência do apelo da União.
+Pois bem.
+Conforme bem exposto na decisão agravada, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte" (REsp 1.934.233/PE, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/06/2021, DJe 25/06/2021).
+Nesse sentido, refiro-me aos seguintes julgados:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OFENSA AO ART. 535 DO CPC/1973. CONTA HOMOLOGATÓRIA DE CÁLCULO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE ALTERAÇÃO DE ÍNDICE DE CORREÇÃO MONETÁRIA. SUCUMBÊNCIA RECÍPROCA. REEXAME DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. IMPOSSIBILIDADE. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. No que diz respeito à suposta ofensa ao art. 535 do CPC, observa-se que o Tribunal a quo, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses do recorrente, que buscou, com os embargos de declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade não se verifica ofensa à regra ora invocada.
+2. Esta Corte consolidou entendimento de que não se pode substituir os índices de correção monetária após a homologação dos cálculos, na hipótese de sentença já transitada em julgado, em respeito ao instituto da preclusão. Precedentes: AgRg no REsp 1.263.935/BA, Rel. Min. BENEDITO GONÇALVES, DJe 11.10.2011; AgRg nos EREsp 102.279/DF, Rel. Min. FRANCISCO FALCÃO, DJe 3.9.2009.
+3. Firmou-se nesta Corte que é inviável em sede de recurso especial, aferir o decaimento de cada litigante, com o fim de se estabelecer a proporção dos ônus sucumbenciais com a fixação do percentual dos honorários advocatícios, por demandar imprescindível revolvimento de matéria fática.
+Precedentes: AgInt no AREsp 1.194.497/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe 24.5.2018; AgInt no REsp 1.580.876/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.5.2018.
+4. Agravo interno da empresa a que se nega provimento.
+(AgInt no AREsp n. 1.154.505/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. GRAU DE SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Quanto à distribuição do ônus de sucumbência, não é possível afirmar que a empresa autora é sucumbente apenas em parte mínima do pedido, porquanto seu pedido de indenização por danos morais foi rejeitado, assim como seu pedido de indenização por lucros cessantes. Assim, prospera o recurso do réu na parte em que pede o rateio das despesas processuais e dos honorários advocatícios".
+3. O STJ tem entendimento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.125.184/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 23/2/2023.)
+Registre-se que pouco importa, nesse contexto, se a distribuição do ônus da sucumbência sobreveio em razão de modulação de efeitos determinada em repercussão geral, porquanto essa circunstância não afasta a necessidade de exame dos elementos existentes no caso concreto.
+Assim, reafirmo o meu posicionamento no sentido de que examinar o grau de sucumbência, a fim de alterar o valor fixado pelo Tribunal a quo a título de honorários advocatícios, importaria em reexame de provas, o que é vedado no âmbito do recurso especial, em razão do óbice da Súmula 7 do STJ.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
