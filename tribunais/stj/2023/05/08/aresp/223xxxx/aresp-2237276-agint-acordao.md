@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por GUSTAVO LANGARO contra decisão monocrática proferida pela Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, por entender que incide, na hipótese vertente, o óbice das Súmulas 282, 284 e 356/STF e 7/STJ.
+Nas razões recursais, o agravante alega, em síntese, isto: (I) em preliminar, manifesta o interesse de realizar sustentação oral, nos termos do art. 7º, § 2º-B, III, da Lei n. 8.906/1994; (II) a inaplicabilidade da Súmula 284/STF, "à medida que o recorrente, no especial, articulou, adequadamente, a violação, pelo acórdão recorrido, dos arts. 321, caput e 1.016, II e III, CPC, nele prequestionados" (fl. 251); (III) não há necessidade de reexame de fatos e provas.
+A parte agravada apresentou impugnação ao agravo interno às fls. 257-270.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. DISPOSITIVOS LEGAIS DISSOCIADOS DA TESE RECURSAL DEFENDIDA. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. Incide a Súmula 284 do STF quando a fundamentação recursal alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+3. Esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, nos termos das Súmulas 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+De início, com relação ao pedido de sustentação oral, não assiste razão à parte recorrente.
+O entendimento adotado por esta Corte, em relação ao disposto no art, 7º, §2º-B, da Lei 14.365/2022 e na Resolução STJ/GP nº 19 de 07 de junho de 2022, é de que não cabe sustentação oral em recurso interposto contra decisão que julga o mérito ou não conhece de agravo em recurso especial.
+Na espécie, considerando que se postula sustentação oral em agravo interno interposto em face de agravo em recurso especial, não merece ser acolhido o pedido.
+De outro lado, nas razões do recurso especial, o recorrente alega violação dos arts 321, caput, 1.016, II e III, do NCPC, 884, caput, do Código Civil, no que concerne a indevida negativa de provimento ao agravo interno interposto, argumentando que todas as decisões judiciais, a partir da origem, foram atacadas concreta, específica e fundamentadamente, bem como que configura enriquecimento ilícito em caso de manutenção da situação atual, uma vez que toca ao recorrido a responsabilidade pelo pagamento dos juros e da correção monetária.
+Conforme constou na decisão agravada, quanto às referidas alegações, incide o óbice da Súmula 284/STF, em razão da ausência de comando normativo dos dispositivos apontados como violados para sustentar as teses recursais, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Com efeito, a falta de pertinência verificada entre o teor normativo dos dispositivos alegados como violados e as alegações recursais deduzidas configura argumentação deficiente, inviabilizando a exata compreensão da controvérsia, a atrair o disposto na Súmula 284/STF. Nesse sentido:
+"ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA AJUIZADA PELA DEFENSORIA PÚBLICA PARA ASSEGURAR TRATAMENTO MÉDICO A CIDADÃO CARENTE. CONDENAÇÃO EM VERBA DE SUCUMBÊNCIA. POSSIBILIDADE. ARTIGOS DE LEI TIDOS POR VIOLADOS QUE NÃO TÊM FORÇA NORMATIVA APTA À REFORMA DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. VIOLAÇÃO DO ART. 20, § 4º, DO CPC NÃO VERIFICADA. VERBA HONORÁRIA NÃO IRRISÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO. (..) 2. À luz da Súmula n. 284 do STF, não se conhece de recurso especial na parte em que se alega violação a dispositivos de lei federal que não contêm comando normativo suficiente à conclusão do acórdão recorrido. Nessa linha, não se conhece do recurso especial, quanto às alegadas violações dos arts. 17 e 18 da Lei n. 7.347/1985. (..) Agravo regimental improvido."
+(AgRg no REsp 1455414/AL, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 07/08/2014, DJe 15/08/2014)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 458, II E III, DO CPC. (I) - AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. (II) - DISPOSITIVO DE LEI QUE NÃO AMPARA A PRETENSÃO RECURSAL. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VILIPÊNDIO AO ART. 59 DO CP. DOSIMETRIA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 07/STJ. CONTRARIEDADE AO ART. 5º, LV, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (..) 2. Possuindo o dispositivo de lei indicado como violado comando legal dissociado das razões recursais a ele relacionadas, resta impossibilitada a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal. Incidência do enunciado 284 da Súmula do Supremo Tribunal Federal. (..) 5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 553.163/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 21/10/2014, DJe 04/11/2014
+Isso porque a Corte de origem, em verdade, deduziu que foram desatendidos os requisitos previstos nos incs. II e III do art. 1.016 do NCPC, uma vez que, em seu agravo interno, o ora agravante não impugnou os fundamentos da decisão recorrida, apresentando questões completamente divorciadas da realidade fático-processual, ferindo, assim, o princípio da dialeticidade e acarretando a inépcia da pretensão recursal.
+De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, litteris:
+"No mérito, trata-se de hipótese de não provimento do recurso.
+O agravo interno é previsto no art. 1.021 do Código de Processo Civil de 2015, que assim dispõe:
+(..)
+Conforme disciplina o § 1º do art. 1.021 do CPC, na petição do agravo interno, ao agravante incumbe demonstrar adequadamente o motivo pelo qual a análise da matéria suscitada seria capaz de alterar a conclusão adotada na decisão monocrática, impugnando especificadamente seus fundamentos.
+(..)
+No caso concreto, entretanto, verifica-se que não foi trazido pelo apelante qualquer subsídio com capacidade de possibilitar a alteração dos fundamentos da decisão atacada.
+É que, conforme já exposto na decisão monocrática - sendo justamente o que a legitima -, não há na decisão agravada qualquer discussão quanto aos temas propostos pelo Agravante, mas apenas a definição quanto ao objeto de cada cumprimento de sentença oferecido pela parte autora, de forma que não há como se considerar que tenha havido a impugnação efetiva da mesma.
+Constou da decisão recorrida:
+Compulsando os autos, verifico ser hipótese de não conhecimento do agravo de instrumento.
+Isso porque, analisando os elementos constantes do presente recurso, observo que as razões postas no agravo estão em dissonância com os fundamentos da decisão exarada pelo juízo de origem.
+Para uma melhor compreensão da questão, transcrevo a decisão agravada na íntegra:
+De início, imperativo fazer alguns esclarecimentos e trazer o feito a ordem.
+A ação de conhecimento ajuizada por GUSTAVO LÂNGARO em face de BANCO MERCANTIL DE SAO PAULO S.A. foi distribuída sob o nº 021/1.05.0198918-2.
+Nesse rumo, a sentença de primeira instância julgou extinto o feito sem resolução de mérito, conforme segue (evento 01, doc. 07, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021):
+DIANTE DO EXPOSTO, nos termos do artigo 267, inciso VI, do Código de Processo Civil, julgo EXTINTO o processo, sem resolução do mérito, diante da carência de ação por impossibilidade jurídica do pedido.
+Condeno o autor ao pagamento das custas processuais e dos honorários advocatícios ao procurador do réu, estes fixados em R$ 500,00 (quinhentos reais), nos termos do artigo 20, § 4.º, do CPC, observando a natureza da causa e o trabalho desenvolvido.
+Em segunda instância, a apelação interposta pelo demandante/exequente/impugnado foi desprovida (evento 01, doc. 09, fl. 03/08). No mesmo passo, negou-se seguimento ao Recurso Especial e Recurso Extraordinário (evento 01, doc. 09, fl. 35/40, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O agravo de instrumento, foi recebido e provido pelo STJ a fim de "determinando o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do feito" (evento 01, doc. 10, fls. 12/15, do cumprimento de sentença apenso, nº 5008921- 37.2020.8.21.0021).
+A apelação foi reapreciada pelo TJ/RS (evento 01, doc. 11, fls. 27/42, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021), cito os principais trechos do acórdão:
+Da Sucumbência O resultado deste julgamento impõe seja redimensionado o ônus da sucumbência. E, para tal, condeno a parte requerida ao pagamento das custas judiciais e de honorários advocatícios ao patrono adverso que fixo no valor de R$ 1.000,00 (um mil reais) a serem corrigidos pelo IGP-M a contar desta data e acrescidos de juros de mora a contar do trânsito em julgado da decisão.
+Diante do exposto, DOU PROVIMENTO ao apelo para limitar os juros remuneratórios ao valor médio de mercado, limitar a capitalização para incidência anual, e autorizar a repetição simples dos valores pagos indevidamente. (grifei) Os embargos de declaração interpostos por ambas as partes foram desacolhidos (evento 01, doc. 11, fls. 54/57 e 60/64, do cumprimento de sentença apenso, nº 5008921- 37.2020.8.21.0021).
+Ambas as partes apresentaram recursos especiais e extraordinário, os quais tiveram o seguimento negado (evento 01, doc. 11, fls. 167/175, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021). O agravo em recuso especial do demandante não prosperou (evento 01, doc. 11, fls. 232/235, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021). Por outro lado, o recuso do banco prosperou parcialmente:
+5.- O recurso interposto por GUSTAVO LANGARO não é viável, pois o reconhecimento por esta Corte das alegações, como propugnado, ensejaria nova incursão no acervo fático-probatório da causa e interpretação de cláusulas contratuais, o que é vedado à luz das Súmulas 5 e 7/STJ.
+( ) 13.- Ante o exposto, com apoio no art. 544, § 4º, II, "a", do CPC, conhece-se do Agravo interposto por GUSTAVO LANGARO, negando-lhe J, provimento, e, com apoio no art. 544, § 4º, II, "c", do CPC, conhece-se do Agravo interposto pelo BANCO MERCANTIL DE SÃO PAULO S/A e dá-se parcial provimento ao Recurso Especial, afastando a limitação dos juros remuneratórios à taxa de mercado.
+Houve o trânsito em julgado em 08/03/2012 (evento 01, doc. 11, fl. 239, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O recurso extraordinário interposto pelo demandante/impugnado e recursos correlacionados não prosperaram, sendo que o STF declarou-o prejudicado em razão do provimento do recurso especial (evento 01, doc. 15, fls. 40/42, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O banco efetuou depósito em pagamento das custas processuais e honorários advocatícios da fase de conhecimento no valor de R$1.328,06 (evento 01, doc. 11, fls. 208/211, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O contador apurou custas pendentes de R$25,30 (evento 01, doc. 11, fl. 213, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O demandante/exequente/impugnado postulou o levantamento dos valores depositados pelo banco para quitação das custas processuais no valor de R$1.147,36 (evento 01, doc. 11, fl. 217, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+Foi deferido o pedido e expedido alvará (evento 01, doc. 11, fl. 220 e 222, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O demandante/exequente pugnou pela penhora de R$1.402,28, débito remanescente das custas e dos honorários da fase de conhecimento (evento 01, doc. 13, fls. 01/02, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+Foi determinada a alteração da autuação para cumprimento de sentença (evento 01, doc. 14, fl. 01, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+O exequente apresentou novo cálculo (evento 01, doc. 14, fls. 06/10, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+Sobreveio sentença no incidente de impugnação ao cumprimento de sentença, nº 021/1.13.0025592-9, colaciono trechos relevantes da sentença (evento 01, doc. 12, fls. 02/08, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021):
+Assim sendo, não assiste razão ao impugnante, haja vista que os valores foram devidamente apurados com liquidação de sentença, por meio de Contador Judicial, com base nos documentos constante nos autos, sendo o título líquido, certo e exigível. Ademais, pela conclusão do Contador Judicial em consonância com os documentos existentes nos autos, verifico que há saldo credor em favor do impugnado, na monta de R$ 1.375,10, atualizado até 18/12/2014, razão pela qual, a improcedência da presente impugnação ao cumprimento de sentença é medida que se impõe.
+Fundamentei. Decido.
+ISSO POSTO, com fundamento no que dispõe o artigo 269, inciso I do C P C , JULGO IMPROCEDENTE o pedido contido na presente impugnação ao cumprimento de sentença, oposto por Banco Bradesco S.A. em face de Gustavo Lângaro, ambos já qualificados, determinando o redimensionamento do débito posto em execução, na forma definida na fundamentação.
+Eventuais custas do incidente serão suportadas pela parte impugnante. Descabe a condenação em honorários advocatícios, uma vez que a impugnação é de mero incidente processual (art. 475-M, § 3º, do CPC), nos termos do artigo 20, § 1º do CPC.
+Intimem-se as partes da presente decisão, bem como, intime-se a parte impugnante para, após o trânsito em julgado, juntar nova memória de cálculo do valor devido, observando os parâmetros definidos no laudo pericial da Contadoria Judicial, consonante com a presente decisão e para que proceda com o pagamento do débito.
+Houve o trânsito em julgado da impugnação (evento 01, doc. 17, fl. 12, do cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021).
+Na narração da tramitação do processo acima empreendida, denota-se que, incialmente, as partes discutiram e executaram as custas processuais e honorários advocatícios sucumbenciais da fase de conhecimento.
+Logo, evidentemente, esta matéria não pode ser objeto de novo cumprimento de sentença.
+Ainda, importante destacar que o cumprimento de sentença apenso, nº 5008921-37.2020.8.21.0021, refere-se somente ao principal, a readequação do contrato após a revisão parcial das cláusulas e repetição de indébito.
+Considerando o narrado, aparentemente, não se verifica a existência de título executivo a fim de justificar o presente cumprimento de sentença.
+A petição do evento 02, doc. 01, consubstancia-se em cumprimento de sentença do principal, já objeto do processo apenso:
+(..)
+Relevante destacar que a parte final da petição pode haver ensejado confusão, mormente, em razão da formulação dúbia do segundo parágrafo.
+Como já houve procedimento relativo aos honorários advocatícios sucumbenciais da fase de conhecimento, diga-se, fixados em R$1.000,00 pelo TJ/RS, infere-se que a petição ao mencionar "arbitramento de honorários advocatícios de dez por cento sobre o valor executado" refere-se aos honorários advocatícios da fase de cumprimento de sentença.
+Os honorários advocatícios da fase de cumprimento de sentença incidentes sobre o principal não podem ser analisados em processo apartado, devendo ser objeto de decisão nos autos do apenso, da mesma forma que a multa por falta de apagamento voluntário, nos termos do artigo 523, §1º, do CPC.
+Com efeito, a ausência de título executivo é aparente, pois, em verdade, conforme narração acima e conforme despacho do evento 02, doc. 02, estes autos deveriam ser relativos à execução do principal dos R$663,502,85, enquanto o apenso deveria continuar com a discussão dos honorários da fase de conhecimento e das custas processuais. No entanto, os despachos relativos à execução do valor principal, atos constritivos etc foram lançados em ambos números de cumprimento de sentença.
+Assim, por economia processual, este cumprimento de sentença será relativo aos honorários advocatícios da fase conhecimento e das custas processuais, enquanto o apenso, nº 5008921-37.2020.8.21.0021, versará sobre a execução do principal.
+Intime-se a parte exequente para, em 20 dias, acostar cálculos de eventual saldo credor remanescente, conforme decisão da impugnação de cumprimento de sentença nº 021/1.13.0025592-9, bem como para acostar cópia integral daquele incidente.
+Retifique-se o valor da causa para R$1.402,28.
+Veja-se que a decisão agravada nada referiu quanto a responsabilidade da correção monetária e juros dos valores depositados em juízo, mas apenas determinou o prosseguimento de referido processo somente em relação aos honorários advocatícios e, o cumprimento de sentença 5008921-37.2020.8.21.0021 com relação à execução principal.
+Assim, inexistindo razões para reforma da decisão agravada, deixa-se de exercer a faculdade da retratação prevista no §2º do art. 1.021 do NCPC, devendo ser mantida nos seus exatos termos, prejudicadas as questões de mérito.
+Conclusão Assim, é de ser negado provimento ao recurso, mantendo-se a decisão recorrida." (fls. 120-125)
+Assim, verificada a ausência de pertinência temática entre os dispositivos apontados como violados e a matéria discutida no acórdão recorrido, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo.
+Ressalte-se, ainda, que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial. Incidem, pois, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. JURISPRUDÊNCIA DOMINANTE. JULGAMENTO SINGULAR. POSSIBILIDADE. SÚMULA 568/STF. OMISSÃO. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AO ART. 476 DO CÓDIGO CIVIL. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+6. Agravo interno a que se nega provimento."
+(RCD no AREsp 1750713/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/05/2021, DJe 18/05/2021)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
