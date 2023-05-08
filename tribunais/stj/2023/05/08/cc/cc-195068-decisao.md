@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por INDÚSTRIA DE CALÇADOS BIRIGUI LTDA. (BIRIGUI), em recuperação judicial, apontando como suscitados a 15ª CÂMARA DE DIREITO PRIVADO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO/SP (JUÍZO CÍVEL), Agravo de Instrumento nº 2007667-03.2023.8.26.0000, e o da JUÍZO DA VARA ÚNICA DA COMARCA DE FREI PAULO/SE (JUÍZO DA RECUPERAÇÃO), Recuperação Judicial nº 0000162- 35.2023.8.25.0028.
+Informou que com o deferimento do pedido recuperação judicial, as ações e execuções contra ele ajuizadas devem ser suspensas, atraindo todas as questões referentes ao pagamento dos seus débitos ao juízo universal.
+Porém, o JUÍZO CÍVEL deu provimento ao agravo de instrumento para conceder a liminar em processo de execução por título extrajudicial para arresto dos seus bens.
+O pedido de concessão de medida liminar foi indeferido, porém, invocando o poder geral de cautela, inerente a todo magistrado, foi determinado que eventual valor arrecadado decorrente do arresto não fosse levantado pelo exequente até a apreciação do mérito do presente conflito (e-STJ, fls. 150/151).
+Contra essa decisão foi apresentado pedido de reconsideração (e-STJ, fls. 156/164).
+As informações foram prestadas às e-STJ, fls. 165/171.
+O Ministério Público Federal opinou pela declaração da competência do juízo do soerguimento (e-STJ, fls. 249/253).
+É o relatório.
+DECIDO.
+A recuperação judicial visa criar condições de negociação para a superação da crise econômica da empresa, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica (art. 47 da Lei nº 11.101/2005).
+De acordo com o art. 6º, I e II, da Lei nº 11.101/05, a decretação da falência ou o deferimento da recuperação judicial (1) suspende o curso de todas as ações e execuções ajuizadas contra o devedor; e (2) proíbe qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+Esta norma consagra o princípio da universalidade do juízo da falência e da recuperação judicial, pelo qual todas as ações de interesse da massa falida ou da empresa em recuperação judicial são atraídas pelo juízo universal.
+O crédito trabalhista se submete à recuperação judicial, na esteira dos seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. ATOS DE CONSTRIÇÃO. PROSSEGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça considera ser da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no CC n. 165.079/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 5/5/2020, DJe de 8/5/2020 - sem destaque no original)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA DA RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SERVIÇO PRESTADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. EXISTÊNCIA. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. POSTERIOR SENTENÇA DECLARATÓRIA DO CRÉDITO. ATO JUDICIAL QUE DECLARA O CRÉDITO JÁ EXISTENTE EM TÍTULO JUDICIAL. CONFLITO CONHECIDO E PROVIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O art. 49 da Lei 11.101/2005 prevê que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, mas apenas que seja referente a fatos ocorridos antes do pedido.
+2. O art. 7º da Lei 11.101/2005 afirma que o crédito já existente, ainda que não vencido, pode ser incluído de forma extrajudicial pelo próprio Administrado Judicial, ao elaborar o plano ou de forma retardatária, evidenciando que a lei não exige provimento judicial para que o crédito seja considerado existente na data do pedido de recuperação judicial.
+3. O crédito trabalhista, relativo ao serviço prestado em momento anterior ao pedido de recuperação judicial, submete-se ao respectivo procedimento e aos seus efeitos, atraindo a competência do Juízo da Recuperação Judicial, para processar a respectiva habilitação, ainda que de forma retardatária. Precedentes da Terceira Turma.
+4. Conflito conhecido e provido para declarar competente o Juízo da Recuperação Judicial.
+(CC nº 139.332/RS, Relator Ministro LÁZARO GUIMARÃES (Desembargador Convocado do TRF 5ª Região), Segunda Seção, j. 25/4/2018, DJe de 30/4/2018 - sem destaque no original)
+A concentração de ações no juízo universal ocorre para preservar o plano de recuperação ou o procedimento de falência da empresa, cabendo àquele juízo distribuir os créditos de modo a respeitar as classes de credores e possibilitar a continuidade da atividade empresarial ou a preservação e otimização do uso produtivo do patrimônio da empresa falida, conforme previsto nos arts. 47 e 75 da Lei nº 11.101/051.
+Nessas condições, CONHEÇO do conflito para declarar a competência do JUÍZO DA VARA ÚNICA DA COMARCA DE FREI PAULO/SE para decidir sobre as questões concernentes ao patrimônio da recuperanda.
+Em consequência, JULGO PREJUDICADO o pedido de reconsideração apresentado às e-STJ, fls. 156/164.
+Por oportuno, previno as partes de que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO CÍVEL. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
