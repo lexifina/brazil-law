@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por GENNESYS OUTSOURCING SERVICES SS contra decisão desta Relatoria, que conheceu do agravo para negar provimento ao recurso especial, ante a ausência de violação do art. 489, § 1º, IV, do NCPC e a incidência das Súmulas 282 e 356/STF.
+Em suas razões recursais, a agravante insiste na falta de fundamentação do julgado, afirmando, em síntese, que "(..) observa-se a ausência de enfrentamento da questão pelas decisões a questão do cerceamento de defesa da Embargada, pois o requerimento foi protocolado por várias vezes e ignorado, portanto, é o que se busca com este petitório: a análise da razão do porquê de o pedido de produção de prova não ter sido enfrentado pelas decisões proferidas no decorrer do processo" (fl. 1.235).
+A parte agravada apresentou impugnação ao agravo interno às fls. 1.240-1.247.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PEDIDO PROCEDENTE. EXTINÇÃO DA AÇÃO EXECUTIVA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia, apresentando fundamentação adequada, não há que se falar em ofensa ao art. 489 do CPC/2015.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cabe examinar, no presente agravo interno, tão somente a parte impugnada da decisão hostilizada, permanecendo incólumes os fundamentos não refutados pela parte agravante.
+Como dito na decisão impugnada, não prospera a alegada ofensa ao art. 489, § 1º, IV, do CPC/2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado, apenas porque decidido em desconformidade com os interesses da parte.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, Segunda Turma, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 1º/7/2019).
+Veja-se, ainda, que, no julgamento proferido nos embargos, a Corte de origem assim decidiu:
+"DA AUSÊNCIA DE CONTRADIÇÃO NO JULGADO. A empresa Embargante ao ajuizar a ação de execução dos títulos extrajudiciais (Contrato de Prestação de Serviços Contábeis e Contrato de Consultoria para Mapeamento de Processos), deveria instruir sua inicial com toda a documentação por escrito, com prova de recebimento por parte da empresa Embargada, de forma a demonstrar que cumpriu com suas obrigações contratuais previamente, a justificar que a parte contrária também cumpra a sua obrigação na avença, nos termos do artigo 787 e artigo 798, inciso I, alínea "d", ambos do CPC.
+Realmente a Embargante não instruiu a ação executiva com as provas documentais necessárias a comprovar que efetivamente cumpriu com suas obrigações contratuais. Os e-mails juntados por ela na execução, não se prestam a comprovar documentalmente a sua efetiva prestação dos serviços contratados, por ferir a cláusula 2.16 do contrato firmado, que exigia, para fins de prestação de contas do serviço, comunicação da Embargada por notificação por cartório, carta registrada ou com comprovante de recebimento, o que não foi efetivado.
+Destarte, não houve contradição na sentença e no acórdão que apreciou a apelação, que extinguiu a execução, por falta de título líquido, certo e exigível."
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a se ater aos fundamentos por elas indicados. Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OU OBSCURIDADE. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC. FALTA DE INTIMAÇÃO PARA ACOMPANHAR VISTORIA. ART. 431-A DO CPC. PREJUÍZO NÃO DEMONSTRADO. NULIDADE. AUSÊNCIA. DECADÊNCIA. PRAZO.
+TERMO INICIAL. ART. 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL.
+NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ ..
+(REsp 1.296.849/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017)
+O entendimento deste Sodalício, outrossim, firmou-se no sentido de que "Não há violação do art. 489 do CPC/15 (art. 458 do antigo CPC) quando, rejeitados os embargos de declaração, a matéria em exame é devidamente enfrentada pelo Tribunal a quo, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente" (AgInt no AREsp 1.068.255/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 3/8/2017, DJe de 9/8/2017). Na mesma direção:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PÓS-QUESTIONAMENTO. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente com a oposição de embargos de declaração, não configura prequestionamento, e sim pós-questionamento. Por essa razão, a ausência de manifestação do Tribunal sobre a questão não implica violação ao disposto nos arts. 489 e 1.022 do Código de Processo Civil. Incidência da Súmula 211/STJ.
+3. O Tribunal de origem consigna a inexistência do dever de indenizar, pois o recorrente não comprovou a utilização da área arrendada à recorrida para pecuária, em desacordo com o que foi pactuado entre as partes. Além disso, o recorrido desocupou o bem arrendado no mês seguinte ao desfecho da ação de despejo, e efetuou a devida contrapartida pecuniária pelos anos de posse durante o trâmite da ação. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+4. Agravo interno não provido."
+(AgInt no AREsp 1032480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 03/08/2017, DJe 09/08/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE TELEFONIA MÓVEL. PRESCRIÇÃO. COISA JULGADA. VIOLAÇÃO DO ART. 535, II, DO CPC/73. NÃO OCORRÊNCIA. . MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 7 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação do art. 535 Código de Processo Civil/73 e art.1022 do Novo Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. No presente caso, constato que o acolhimento da pretensão recursal, por qualquer das alíneas do permissivo constitucional, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. O entendimento da Corte estadual encontra-se em harmonia com a jurisprudência consolidada neste Sodalício, no sentido de que considerar possível em exceção de pré-executividade a arguição de prescrição do título executivo . Precedentes.
+4. Agravo interno não provido."
+(AgInt no AREsp 982.508/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 09/03/2017, DJe 17/03/2017)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
