@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi condenado a 4 anos e 4 meses de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, IV, c/c o art. 14, II, do Código Penal.
+O Tribunal de origem deu provimento ao recurso ministerial para afastar a atenuante da confissão espontânea, com a integral aplicação do aumento de pena decorrente da agravante da reincidência, elevando seu quantum para 5 anos e 20 dias de reclusão, mantido o regime inicial fechado.
+No presente writ, alega a defesa que o paciente faz jus à incidência da confissão espontânea, pois a argumentação utilizada pela Corte estadual para afastá-la é ilegítima, requerendo, liminarmente e no mérito, o reconhecimento da respectiva atenuante.
+A liminar foi indeferida. Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+A respeito da pretensão aqui trazida, assim se posicionou o Tribunal local (fls. 90-91):
+ ..  merece guarida o pleito Ministerial pretendendo o afastamento da atenuante da confissão, com a integral aplicação do aumento de pena decorrente da agravante da reincidência do réu, isso porque, como se depreende dos autos, principalmente da mídia audiovisual do interrogatório do apelado André, onde nega os fatos com veemência, e mesmo advertido pelo Promotor de Justiça que a confissão poderia atenuar sua pena, mesmo assim, o apelado tornou a negar os fatos, apenas confessou ter posteriormente matado Claudinei, eis que o apelado anteriormente foi vítima de disparos de arma de fogo efetuados por Claudinei que teria errado os disparos.
+Assim, não há como ser reconhecida a atenuante da confissão, pois o apelado confessa o cometimento de outro crime que vitimou Claudinei e não o presente delito. ..
+Como se vê, o Tribunal estadual não reconheceu a atenuante em apreço, pois, "como se depreende dos autos, principalmente da mídia audiovisual do interrogatório do apelado André, onde nega os fatos com veemência, e mesmo advertido pelo Promotor de Justiça que a confissão poderia atenuar sua pena, mesmo assim, o apelado tornou a negar os fatos", acrescendo que o apelado, ora paciente, "confessa o cometimento de outro crime que vitimou Claudinei e não o presente delito".
+Logo, " n a esteira da orientação jurisprudencial desta Corte, se a confissão espontânea não foi reconhecida pelas instâncias ordinárias, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório produzido ao longo da marcha processual, providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e sumariedade na cognição" (AgRg no HC n. 576.087/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/3/2021, DJe de 10/3/2021).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
