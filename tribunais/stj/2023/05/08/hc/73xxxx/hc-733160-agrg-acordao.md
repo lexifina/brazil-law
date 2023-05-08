@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVANTE REINCIDENTE. TENTATIVA. INOCORRÊNCIA. CRIME CONSUMADO COM A INVERSÃO DA POSSE DO BEM SUBTRAÍDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS (Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2015), estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável.
+III - Não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais, ressaltando que "o denunciado é portador de maus antecedentes (uma condenação) e de (multi)reincidência (duas condenações)." Precedentes.
+IV - O crime de furto se consuma com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DEIWID SANTOS DA COSTA, contra a decisão que não conheceu do habeas corpus impetrado contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+O agravante foi condenado às penas de 1 (um) ano, 3 (três) meses e 5 (cinco) dias de reclusão, em regime inicial fechado, e 11 (onze) dias-multa, como incurso na sanção do art. 155, § 1º, c/c. o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo defensivo, e deu provimento ao recurso ministerial para afastar a minorante da tentativa, fixando a pena no patamar de 1 (um) ano, 8 (oito) meses e 6 (seis) dias de reclusão, em regime inicial fechado, e 15 (quinze) dias-multa, nos termos do v. acórdão de fls. 126-132.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem, para absolver o agravante, ou desclassificar a conduta para a modalidade tentada, com aplicação da fração de diminuição de dois terços.
+Não conhecida a impetração, interpôs-se o presente agravo.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ não conhecido, sustentando a atipicidade da conduta.
+Alega que o valor do bem subtraído seria de apenas R$ 100,00 (cem reais), diferente do que consta do v. acórdão impugnado, e que mesmo que se considere o valor da res furtiva como apontado pelo Tribunal de origem, a ofensividade da conduta seria mínima, ante a violência apenas em face do bem subtraído.
+Aduz que a reincidência do agravante não afasta a aplicação do princípio da insignificância.
+Afirma que não houve a inversão da posse do bem subtraído, razão pela qual deve ser reconhecida a tentativa.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+O Ministério Público do Estado de Santa Catarina se manifestou pelo desprovimento do agravo, na impugnação de fls. 215-222 .
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVANTE REINCIDENTE. TENTATIVA. INOCORRÊNCIA. CRIME CONSUMADO COM A INVERSÃO DA POSSE DO BEM SUBTRAÍDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS (Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2015), estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável.
+III - Não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais, ressaltando que "o denunciado é portador de maus antecedentes (uma condenação) e de (multi)reincidência (duas condenações)." Precedentes.
+IV - O crime de furto se consuma com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a atipicidade da conduta.
+Alega que o valor do bem subtraído seria de apenas R$ 100,00 (cem reais), diferente do que consta do v. acórdão impugnado, e que mesmo que se considere o valor da res furtiva como apontado pelo Tribunal de origem, a ofensividade da conduta seria mínima, ante a violência apenas em face do bem subtraído.
+Aduz que a reincidência do agravante não afasta a aplicação do princípio da insignificância.
+Afirma que não houve a inversão da posse do bem subtraído, razão pela qual deve ser reconhecida a tentativa.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Quanto à aplicação do princípio da insignificância, afere-se do v. acórdão impugnado que na hipótese, foi afastado em razão da vida pregressa do paciente, ao fundamento de que possui comportamento reiterado na prática de crimes patrimoniais, ressaltando que "o denunciado é portador de maus antecedentes (uma condenação) e de (multi)reincidência (duas condenações), de acordo com ponderado na origem, o que inviabiliza o reconhecimento da insignificância, mormente por se tratar de prognóstico de risco social, atribuindo um maior grau de reprovabilidade à conduta do acusado".
+O Plenário do Supremo Tribunal Federal, ao examinar, conjuntamente, o HC n. 123.108/MG, Rel. Min. Roberto Barroso; o HC n. 123.533/SP, Rel. Min. Roberto Barroso e o HC n. 123.734/MG, Rel. Min. Roberto Barroso, definiu que a incidência do princípio da insignificância deve ser feita caso a caso (Informativo nº. 793/STF).
+A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS (Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2015), estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação de que a medida é socialmente recomendável.
+No presente caso, não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes patrimoniais.
+Desse modo, nota-se que as instâncias ordinárias decidiram de acordo com a jurisprudência deste Tribunal, inexistindo qualquer flagrante ilegalidade a ser sanada pela presente via, na esteira dos seguintes precedentes: HC n. 559.086/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/03/2020; AgRg no AREsp n. 1.547.928/GO, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador Convocado do TJPE), DJe de 18/02/2020; AgRg no REsp n. 1.762.803/TO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 02/09/2019.
+No que pertine à consumação do delito, o v. acórdão vergastado está em harmonia com o entendimento firmado por este Superior Tribunal de Justiça, no sentido de que, havendo a inversão da posse, é prescindível que seja mansa e pacífica para a consumação do delito de furto.
+Na espécie, a Corte local concluiu pela prática do delito em sua modalidade consumada, consignando que "é inconteste que os bens estavam sob a posse do apelante e fora da esfera de propriedade do ofendido, tanto que o réu logrou retirá-los das árvores, descartando-os posteriormente somente porque se confrontou com a presença dos policiais militares no local." Nesse contexto, inviável o reconhecimento da modalidade tentada.
+Nesse sentido: AgRg no AREsp n. 2.099.557/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/6/2022; AgRg no AgRg no AREsp n. 1.617.209/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 28/9/2021; AgRg no AREsp n. 1.797.561/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 14/5/2021; AgRg no HC n. 626.836/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/12/2020.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
