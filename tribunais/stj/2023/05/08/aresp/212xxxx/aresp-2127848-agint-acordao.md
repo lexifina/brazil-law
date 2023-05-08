@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por ERIVELTON PAULO DE MELO que desafia decisão da Presidência do STJ, proferida às e-STJ fls. 1.209/1.211, que não conheceu do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada.
+Embargos de declaração rejeitados (e-STJ fls. 1.235/1.238).
+No presente agravo interno, a parte agravante sustenta, preliminarmente, a existência de fato novo, consistente na sua absolvição na esfera penal, logo, deve ser arquivada a presente ação de improbidade administrativa.
+Argumenta, ainda, que, ao contrário do consignado, infirmou os fundamentos da decisão de inadmissibilidade do recurso especial.
+Ao final, reitera os argumentos anteriormente expendidos.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 1.286/1.290.
+O parecer do MPF, às e-STJ fls. 1.298/1.301 , opina pelo não conhecimento do agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: (I) ausência de afronta a dispositivo legal, (II) Súmula 7/STJ e (III) deficiência de cotejo analítico.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ e deficiência de cotejo analítico.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Mais especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Esclarece-se que não comporta análise o pedido de arquivamento do presente feito, levando como base o art. 21, § 4º, da Lei n. 8.429/ 1992, pois, na ADI 7.236 MC/DF, o Supremo Tribunal Federal deferiu Medida Cautelar para suspender a sua eficácia, conforme publicação no DJE de 10/01/2023, conforme bem destacado no parecer ministerial .
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
