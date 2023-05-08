@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Flávia de Oliveira Moraes Rêgo Maranhão, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Tocantins assim ementado (e-STJ, fl. 272 ):
+APELAÇÃO. EMBARGOS À AÇÃO MONITÓRIA. DEVOLUÇÃODE CHEQUES POR AUSÊNCIA DE FUNDOS. NOTAPROMISSÓRIA. TESE DE NOVAÇÃO DE DÍVIDA. CONJUNTOPROBATÓRIO. NÃO HÁ QUE SE FALAR EM NOVA DÍVIDAPARA SUBSTITUIÇÃO DE ANTERIOR. CONSTITUIÇÃO DETÍTULO EXECUTIVO JUDICIAL. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. No período entre agosto de 2015 e janeiro de 2016 a recorrente adquiriu semijoias da recorrida, que é revendedora, através de cheques e nota promissória, no entanto as cártulas de cheque foram devolvidas pela instituição financeira por ausência de fundos suficientes.
+2. Em sede de ação monitória, a recorrida pleiteou o reconhecimento dos cheques e nota promissória como título executivo judicial. Embargos apresentados alegando novação de dívida, pois a nota promissória seria oriunda de um acordo para reunir alguns dos cheques devolvidos e não uma nova dívida.
+3. O conjunto probatório nos autos permite verificar que não há conexão entre os cheques apresentados e a nota promissória, portanto não há que se falar em nova dívida para extinguir e substituir a anterior.
+4. Recurso conhecido e não provido. Sentença mantida.
+Em suas razões de recurso especial (e-STJ, fls. 283-292), a agravante alegou violação aos art. 360, I do Código Civil.
+Sustentou, em síntese, que os documentos que instruíram a ação monitória, em particular a nota promissória, não foram analisados corretamente. Alega que a nota promissória foi emitida para abranger a dívida representada pelos cheques vencidos e vincendos, além dos encargos decorrentes da mora, e que isso não constitui um débito autônomo, mas sim novação da dívida.
+Foram apresentadas as contrarrazões (e-STJ, fls. 300-306).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ao julgar a apelação, verifica-se que a Corte estadual destacou as seguintes particularidades do caso concreto (e-STJ, fls. 265-266, sem destaques no original):
+A apelante clama pela reforma da sentença baseando-se no argumento de que a nota promissória na verdade abarca toda a dívida, na medida que se trata de um acordo envolvendo todos os cheques já devolvidos. Nesse sentido, afirma a ocorrência de novação da dívida dos cheques pela nota promissória.
+Acerca do tema, dispõe o art. 360 do Código Civil: ART. 360, CC. Dá-se a novação: I - quando o devedor contrai com o credor nova dívida para extinguir e substituir a anterior;
+A partir dos elementos apresentados aos autos, como os depoimentos colhidos na audiência de instrução e julgamento, os boletins de ocorrência e as próprias alegações da apelante, não enxergo a ocorrência de novação da dívida. Percebo que o documento foi emitido justamente para cobrir o débito das semijoias que foram furtadas. Ou seja, não há conexão entre os cheques apresentados e a nota promissória, portanto não há que se falar em nova dívida para extinguir e substituir a anterior.
+Além disso, cabe frisar que os cheques apresentados em juízo também são válidos, não prosperando a tese de preenchimento incompleto, em virtude de a cártula ser ordem de pagamento ao portador.
+Ademais, todo o conjunto legal e probatório coligido aos autos permitiu ao juiz de primeiro grau formar o seu livre convencimento acerca da validade dos documentos, constituindo de pleno direito o título executivo judicial de no valor de R$ 17.411,00, baseado na nota promissória, e o outro no valor de R$ 13.823,00, baseado nos cheques apresentados.
+Nesse sentido, o juízo a quo agiu corretamente ao decidir pela constituição dos títulos executivos.
+Cabe mencionar ainda que, em sede de contrarrazões, a apelada junta aos autos mensagens onde alega que a apelante reconhece a integralidade dos débitos. No entanto, tal documento não é qualificado como novo, não podendo ser apreciado em sede de apelação, com base no art. 1.014do Código de Processo Civil que assim dispõe: "As questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior".
+Nesse toar, convém consignar, que é pacífico nesta Corte Superior o entendimento de que a prova hábil a instruir a ação monitória deve demonstrar a existência da obrigação, devendo o documento ser suficiente para influir na convicção do julgador sobre o direito alegado.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA DE PROVAS. CONVENCIMENTO MOTIVADO DO MAGISTRADO. REGULARIDADE. AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS. INÍCIO DE PROVA ESCRITA. AUSÊNCIA. IMPROCEDÊNCIA DO PEDIDO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Nos termos da orientação do STJ, a prova hábil a instruir a ação monitória precisa demonstrar a existência da obrigação, devendo o documento ser escrito e suficiente para, efetivamente, influir na convicção do magistrado acerca do direito alegado, não sendo necessário prova robusta, estreme de dúvida, mas sim documento idôneo que permita juízo de probabilidade do direito afirmado pelo autor. Precedentes.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.534.102/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+Na hipótese dos autos, extrai-se do decisum que, para o Tribunal de origem, os documentos utilizados para instruir a monitória foram aptos a demonstrar a existência da dívida representada pelos cheques e pela nota promissória, além de afastar a suposta novação.
+Nesse vértice, considerando que as conclusões alcançadas pelo Tribunal estadual foram lastreadas nas provas jungidas aos autos, e que é no âmbito das instâncias ordinárias que são exauridas as possibilidades de exame de fatos e provas, não pode esta Corte Superior reapreciar o conjunto fático-probatório. Logo, não se prestando o recurso especial para tal finalidade, incide o óbice da Súmula n. 7/STJ.
+Ademais, não cabe aqui alegar a revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte agravada em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCEDÊNCIA DA AÇÃO. SUFICIÊNCIA DOS MEIOS APRESENTADOS COMO PROVA. SUPOSTA NOVAÇÃO AFASTADA. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
