@@ -1,0 +1,73 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001316-42.2022.8.08.0050
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BRISTOL EASY HOTEL CACHOEIRO
+RECORRIDO: CARLA DANIELA SILVA DE OLIVEIRA
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5001316-42.2022.8.08.0050
+
+Recorrente: BRISTOL EASY HOTEL CACHOEIRO
+
+Recorrido: CARLA DANIELA SILVA DE OLIVEIRA BIANCARDI
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. NARRA A PARTE AUTORA QUE REALIZOU RESERVA DE HOSPEDAGEM NO HOTEL REQUERIDO, PARA O PERÍODO DE 24/01/22 A 26/01/22. QUE NO DIA 24/01, APÓS REALIZAR O CHECK IN, POR VOLTA DAS 12:30, SUBIU ATÉ O QUARTO E DEIXOU SUA MALA, EM SEGUIDA, SAIU PARA SEU COMPROMISSO PROFISSIONAL. AO RETORNAR NO FINAL DO DIA, SEU NOME NÃO CONSTAVA NO CADASTRO DE HÓSPEDES DO REQUERIDO E SUA MALA HAVIA DESAPARECIDO DO QUARTO EM QUE HAVIA SIDO HOSPEDADA. CÂMARAS DE SEGURANÇA EM FRENTE AO QUARTO NÃO ESTAVAM FUNCIONANDO. POSTERIORMENTE, DESCOBRIU-SE QUE O FURTO DA MALA FOI COMETIDO POR UMA HÓSPEDE QUE O REQUERIDO, EQUIVOCADAMENTE, INSTALOU NO MESMO QUARTO QUE A AUTORA. FOI LAVRADO BOLETIM DE OCORRÊNCIA ACERCA DOS FATOS. HOUVE REEMBOLSO A TÍTULO DE DANOS MATERIAIS POR PARTE DO REQUERIDO, DE TODOS OS PERTENCES DESCRITOS PELA AUTORA COMO CONTIDOS EM SUA MALA.
+SENTENÇA DE PISO JULGOU PROCEDENTE O PEDIDO AUTORAL
+, CONDENANDO O ORA RECORRENTE AO PAGAMENTO DA QUANTIA DE R$ 3.000,00 (TRÊS MIL REAIS) A TÍTULO DE DANOS MORAIS A AUTORA.
+RECURSO INTERPOSTO
+PELO HOTEL REQUERIDO ADUZINDO EM SEDE DE PRELIMINAR: A)
+AUSÊNCIA DO INTERESSE DE AGIR OU DA LEGITIMIDADE
+AD CAUSAM
+E B) INÉPCIA DA INICIAL. NO MÉRITO, PUGNA PELA REFORMA DA SENTENÇA, PARA QUE SEJAM JULGADOS IMPROCEDENTES OS PEDIDOS CONTIDOS NA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. AS PRELIMINARES ELENCADAS NO RECURSO SÃO AS MESMAS TRAZIDAS NA CONTESTAÇÃO E JÁ REJEITADAS NA SENTENÇA. COMPACTUO DO REFERIDO ENTENDIMENTO PROFERIDO PELO JUÍZO
+A QUO
+, MOTIVO PELO QUAL,
+REJEITO AS PRELIMINARES PELOS PRÓPRIOS FUNDAMENTOS CONTIDOS NA SENTENÇA. NO MÉRITO, A
+SENTENÇA FOI DEVIDAMENTE FUNDAMENTADA. OCORRÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO DE HOSPEDAGEM FORNECIDO PELO RECORRENTE. CONCLUIU-SE PELA RESPONSABILIDADE DO HOTEL RÉU PELOS TRANSTORNOS ADVINDOS À AUTORA, ASSIM COMO O DEVER DE INDENIZAR.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO, CONFORME ARTIGO 55, DA LEI Nº 9.099/95.
+
+É como voto.
+
+VOTOS
+
+Dr. GRÉCIO NOGUEIRA GRÉGIO - Acompanho o Relator.
+
+Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA - Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos, CONHECER do recurso inominado, NEGANDO- LHE PROVIMENTO mantendo a sentença pelos próprios fundamentos, nos termos do voto do Eminente Relator.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
