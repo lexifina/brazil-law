@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MATHEUS AFONSO DE ARRUDA - preso cautelarmente pela suposta prática da conduta tipificada no artigo 33, caput, da Lei n. 11.343/2006 - contra decisão liminar do Tribunal de Justiça de São Paulo (HC n. 2094549-65.2023.8.26.0000).
+Consta dos autos que o paciente foi preso preventivamente em 19/4/2023, na posse de 189 micro tubos contendo 82,5g de cocaína; 48 porções de maconha, pesando 646,3g e uma porção de cocaína pesando 26,8g, uma balança de precisão, além da quantia de R$ 344,00.
+Irresignada, impetrou habeas corpus, com pedido liminar, na Corte estadual. O Relator da ação originária, contudo, indeferiu a liminar (e-STJ fls. 83/86).
+Na presente oportunidade, a defesa reitera a tese de ausência de fundamentos para o decreto preventivo, ressaltando ser o paciente primário e com residência fixa, além de ser o responsável pelos cuidados da sua genitora, que é deficiente.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente, com a expedição do competente alvará de soltura.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 85):
+ ..
+Não custa lembrar que o paciente está sendo processado porque teria praticado o crime gravíssimo de tráfico drogas, tendo sido surpreendido, trazendo em sua posse e mantendo em depósito, grande quantidade de drogas 189 micro tubos contendo 82,5g de cocaína; 48 porções de maconha, pesando 646,3g e uma porção de cocaína pesando 26,8g, além da quantia de R$344,00 em dinheiro e petrechos para fracionar e embalar drogas.
+Ademais, a princípio, nada foi demonstrado no sentido de que sua presença domiciliar seja imprescindível aos cuidados de sua genitora, tendo juntado apenas resultado de exame auditivo (fl. 64).
+Com efeito, " e sta Corte Superior possui entendimento de que a quantidade, a variedade ou a natureza da substância entorpecente apreendida podem servir de fundamento para a decretação da prisão preventiva" (HC n. 547.239/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/12/2019, DJe 12/12/2019).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
