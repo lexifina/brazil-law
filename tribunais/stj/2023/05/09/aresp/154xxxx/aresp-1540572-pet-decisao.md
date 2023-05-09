@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de petição apresentada por MARIA APARECIDA RAPOSO DA SILVA E OUTRO, em face do acórdão de fls. 102-105, e-STJ, exarado por esta Turma, que negou provimento ao agravo interno manejado pelos ora insurgentes.
+O aresto em questão está assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO EM RECURSO ESPECIAL APRESENTADO DIRETAMENTE AO STJ - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. O art. 1042, §§ 2º e 4º, do CPC/15 deixa claro que o recurso de agravo em recurso especial deverá ser apresentado ao Tribunal local, e não diretamente a esta Corte Superior.
+Impossibilidade de conhecimento do reclamo. Precedentes.
+2. Agravo interno desprovido.
+Em suas razões recursais (fls. 109-113, e-STJ), alega o insurgente que o acórdão recorrido possui vício de fundamentação, nos termos do art. 1021, § 3º, do CPC/2015.
+Impugnação às fls. 117-121, e-STJ.
+É o relatório.
+Nada há a se deferir, devendo a petição em testilha não ser conhecida.
+1. Preambularmente, cumpre salientar que, de acordo com o princípio da taxatividade dos recursos, acolhido pela legislação processual brasileira, somente podem ser manejadas as espécies recursais previstas na legislação. Veda-se, assim, a criação de novos recursos pelas partes.
+1.1. Nesse contexto, da análise da petição de fls. 109-113, e-STJ, nota-se que a irresignação possui contornos de embargos de declaração, na medida em que aponta supostos vícios na fundamentação contida no acórdão de fls. 102-105, e-STJ.
+Nota-se, contudo, que a presente irresignação foi apresentada no 13.12.2019, ao passo que o acórdão impugnado teve sua publicação 22.11.2019 - momento em que já superado, em muito, o prazo de interposição da presente espécie recursal, de 5 dias úteis, previsto no art. 1.023 do CPC/2015.
+Logo, inviável o conhecimento da irresignação como se embargos de declaração fossem.
+2. Por outro lado, também não é possível o acolhimento do presente apelo como recurso de agravo interno.
+Com efeito, a teor do que dispõe o artigo 1.021, caput, do NCPC: "Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.".
+A respeito, assim determina o artigo 259 do RISTJ: "Contra decisão proferida por Ministro caberá agravo interno para que o respectivo órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a."
+Infere-se dos referidos dispositivos que não se admite a interposição de novo agravo interno ou recurso inominado direcionado ao plenário da Turma contra acórdão de órgão colegiado desta Corte, como pretende o ora agravante.
+Nos termos da jurisprudência deste Tribunal Superior, constitui erro grosseiro e inescusável a interposição de agravo interno em desafio à decisão colegiada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. ERRO INESCUSÁVEL. 1. Nos termos dos arts. 1.021 do CPC/2015 e 259 do RISTJ, somente é cabível agravo interno contra decisão monocrática. Não há previsão legal de sua utilização para impugnar acórdão, configurando, portanto, erro grosseiro a interposição do referido recurso em tal hipótese, o que afasta a incidência do princípio da fungibilidade recursal. 2. Agravo interno não conhecido. (AgInt nos EDcl no REsp 1548821/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO COLEGIADA. INTERPOSIÇÃO DO AGRAVO INTERNO CONTRA ACÓRDÃO. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. RECURSO NÃO CONHECIDO. 1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." 2. É incabível a interposição de agravo interno desafiando decisão colegiada, tendo em vista a previsão expressa do art. 1.021 do CPC/2015. Inviável, portanto, a aplicação do princípio da fungibilidade recursal, por configurar erro grosseiro. 3. Agravo interno não conhecido. (AgInt no AgInt no AREsp 925.530/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/06/2017, DJe 26/06/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. ART. 1.021 DO CPC/2015. DECISÃO MANTIDA. 1. Diante do princípio da unirrecorribilidade recursal e da ocorrência da preclusão consumativa, não merece conhecimento o segundo recurso interposto pela mesma parte contra a mesma decisão. 2. A interposição de agravo interno contra decisão colegiada constitui falha inescusável, tendo em vista a previsão expressa do art. 1.021 do CPC/2015. Inviável, portanto, a aplicação do princípio da fungibilidade recursal. 3. Agravo interno não conhecido. (AgInt no AgInt no AREsp 488.243/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017)
+AGRAVO INTERNO CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. RECURSO A QUE SE NEGA CONHECIMENTO. 1. Não é cabível agravo interno contra acórdão proferido por órgão colegiado desta Corte. Precedentes do STJ. 2. Conforme os arts. 1021 do Código de Processo Civil/2015 e 258 do RISTJ, somente as decisões singulares são impugnáveis por agravo interno, configurando-se, assim, erro grosseiro a interposição do presente recurso 3. Agravo interno não conhecido com a imposição de multa. (AgInt no AgInt no AREsp 180.510/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/04/2017, DJe 19/04/2017)
+Logo, absolutamente descabida a presente irresignação, ante o exaurimento da prestação jurisdicional a ser oferecida pelo presente órgão judicial.
+3. Do exposto, não conheço da presente irresignação. Certifique-se o trânsito em julgado.
+Publique-se.
+Intimem-se.
