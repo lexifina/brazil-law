@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FELIPE FAKHOURI (FELIPE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo de FELIPE e passo ao exame do recurso especial, que merece prosperar para o retorno dos autos ao TJSP a fim de que sejam analisadas as questões trazidas nos embargos de declaração.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, FELIPE alegou a violação dos arts. 1.022, I, do NCPC; 186, 944, 945 e 950 do CC/02; e 17 da Lei nº 3.268/195 , ao sustentar, em síntese, (1) negativa de prestação jurisdicional consubstanciada na existência de contradição no julgado quanto ao momento do início do exercício regular da profissão de médico, pois, enquanto teria anotado que o percentual incidente sobre o valor de 1 (um) salário mínimo seria devido "até a data que iniciasse o pleno exercício da profissão de médico", esse termo foi, na sequência, postergado para o término da última residência médica ou especialização; (2) inexistência de culpa concorrente, ausência de comprovação de nexo de causalidade entre as lesões e a ausência de cinto de segurança; e culpa grave determinante para ocorrência do sinistro; (3) adequação da pensão devida ao real percentual de incapacidade reconhecido no laudo médico, da ordem de 75% (setenta e cinco por cento), não a metade, 37,5% (trinta e sete vírgula cinco por cento); (4) que o critério de cálculo da pensão fixado com base no salário mínimo deveria incidir tão somente até a sua formatura e inscrição no CRM, após o que, deveria ser levada em conta sua situação profissional de médico, inicialmente, com formação geral, condição em que deixou a faculdade, e, após, seja observada a especialização por ele seguida, com alteração da base de cálculo a partir de cada um desses momentos; e (5) majoração da indenização por danos morais para o valor de 200 (duzentos) salários mínimos, a fim de se garantir o justo equilíbrio entre o dano por ele experimentado e a gravidade da conduta lesiva das recorridas (e-STJ, fls. 1.717/1.745).
+(1) Da negativa de prestação jurisdicional
+O TJSP, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional consubstanciada na existência de contradição no julgado quanto ao momento do início do exercício regular da profissão de médico, pois, enquanto teria anotado que o percentual incidente sobre o valor de 1 (um) salário mínimo seria devido "até a data que iniciasse o pleno exercício da profissão de médico", esse termo foi, na sequência, postergado para o término da última residência médica ou especialização.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJSP a se manifestar sobre a questão federal terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Reconhecida a alegação de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo de FELIPE e DOU PROVIMENTO seu recurso especial, determinando o retorno dos autos ao TJSP a fim de que renove o julgamento dos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. FELIPE. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. CONTRADIÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
