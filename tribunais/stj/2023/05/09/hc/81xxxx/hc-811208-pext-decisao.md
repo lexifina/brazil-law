@@ -1,0 +1,18 @@
+DECISÃO
+O requerente busca ser beneficiado com a liminar concedida no HC n. 814.767/PR.
+O pedido de extensão deve ser formulado, primeiramente, no processo onde foi prolatada a decisão cujos efeitos se pretendam estender, o que não ocorreu.
+A jurisdição é inerte e necessita ser provocada. A tese de excesso de prazo para o oferecimento da denúncia não foi deduzida na origem, ou previamente decidida pelo Tribunal de Justiça no acórdão recorrido. No HC n. 0011921-32.2023.8.16.0000, denegado às fls. 33-60, sustentou-se "que não estão presentes os requisitos autorizadores da prisão preventiva" (fl. 34) e o pedido foi de revogação/substituição da medida decretada nos Autos n. 0000181-82.2023.8.16.0063, em 6/2/2023, pelo Juízo da Comarca de Carlópolis/PR.
+Esse foi o limite do writ, denegado pelo Tribunal de origem, que não analisou, porque não deduzido pela defesa, a questão relacionada à inobservância do art. 46 do CPP.
+Por questões processuais, a defesa deveria haver formulado a aplicação do art. 580 do CPP no bojo do HC n. 814.767/PR. Não se sabe o motivo pelo qual não adotou essa providência.
+Todavia, para evitar prejuízo à parte, que segue presa, e uma vez confirmado, por meio das informações prestadas em 14/4/2023, o cumprimento do "mandado de prisão no dia 09/02/2022" e que "os autos 0000177-45.2023.8.16.0063 encontram-se em fase de inquérito policial, tramitando entre a Polícia Civil e o Ministério Público desta Comarca" (fl. 92), passo ao exame do pedido de extensão nestes autos, por celeridade e economia processuais.
+No HC n. 814.767/PR, co-investigado no Inquérito n. 0000177-45.2023.8.16.0063, segregado provisoriamente por decisão exarada no Processo n. 0000181-82.2023.8.16.0063, por suspeita dos mesmos crimes atribuídos ao ora requerente, teve a prisão preventiva relaxada por excesso de prazo para o encerramento do inquérito policial. A liminar foi assim fundamentada:
+Na espécie, o paciente está preso desde 9 de fevereiro do corrente ano, sem que tenha sido formalizada a acusação em seu desfavor, lapso muito além do prazo previsto no art. 10 do CPP.
+De acordo com as informações prestadas pelo Magistrado de primeiro grau, os autos "encontram-se em fase de inquérito policial, tramitando entre a Polícia Civil e o Ministério Público desta Comarca" (fl. 75) e a prisão preventiva do investigado já perdura por 75 dias, isto é, 7 vezes o limite de 10 dias estabelecido pela lei (art. 10, caput, do CPP), o que não possui nenhum amparo na razoabilidade.
+ ..
+Assim, defiro a liminar, para determinar o relaxamento da prisão preventiva do investigado em relação ao Inquérito n. 0000177-45.2023.8.16.0063, por excesso injustificado de prazo.
+Em observância ao princípio da isonomia, no caso de concurso de agentes, a decisão benéfica a um deles, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Assim, presentes os requisitos do art. 580 do CPP (similitude fática-processual e fundamentação objetiva da decisão) estendo ao ora postulante os efeitos da liminar concedida no HC n. 814.767/PR.
+Reconhecida, por extensão, a irrazoável extrapolação do prazo do art. 46 do CPP, declaro a prejudicialidade deste habeas corpus, pois não existe interesse em analisar a fundamentação do periculum libertatis ou a desproporcionalidade da medida cautelar, já relaxada.
+Traslade-se a cópia da Pext 00375706/2023 (fls. 95-99) e desta decisão ao HC n. 814.767/PR, com a adequada indexação, a fim de que o direito de extensão fique registrado e seja possível sua ratificação por ocasião do julgamento de mérito daquele habeas corpus.
+Doravante, os advogados do requerente deverão acompanhar a incidência do art. 580 do CPP no HC n. 814.767/PR.
+Publique-se e intimem-se.
