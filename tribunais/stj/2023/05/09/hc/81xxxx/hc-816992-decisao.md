@@ -1,0 +1,47 @@
+DECISÃO
+CARLOS HENRIQUE DE SOUZA JUNIOR alega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500124-88.2019.8.26.0600.
+Depreende-se dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos, 9 meses e 10 dias de reclusão, no regime inicial fechado, mais 777 multa.
+Nas razões do writ, o impetrante postula a revisão da dosimetria da pena, com a redução da pena-base e da fração relativa à reincidência.
+Instado a se manifestar, o Ministério Público Federal opinou concessão parcial da ordem, consoante parecer assim ementado (fl. 49):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. PENA-BASE DOSADA ACIMA DO MÍNIMO LEGAL, EM RAZÃO DA QUANTIDADE APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA ESPECÍFICA QUE NÃO AUTORIZA, POR SI SÓ, O AGRAVAMENTO DA PENA ACIMA DE UM SEXTO.
+Pela concessão parcial da ordem para que o aumento na segunda fase da dosimetria da pena seja reduzido para um sexto.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal. Esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, consoante entendimento deste Superior Tribunal, não se presta o remédio heroico à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, exceto quando for manifesta a violação aos critérios dos arts. 59 e 68, ambos do Código Penal, sob o aspecto da ilegalidade ou, ainda, em caso de ausência ou deficiência da fundamentação. Nesse sentido: HC n. 147.925/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/5/2015.
+Com tais considerações em mente, constato não existirem as ilegalidades apontadas pela defesa.
+Nos autos em exame, as instâncias ordinárias entenderam adequado o aumento da pena-base em 1/6 "pela quantidade de droga (quase um quilo de maconha)" (fl. 28).
+Entendo, assim, além de serem concretos os fundamentos mencionados e atinentes às peculiaridades do caso, ser também proporcional o aumento para o crime em comento. Isso porque o réu a quantidade de drogas apreendidas com o réu não pode ser considerada reduzida - a saber, quase 1 kg de maconha .
+Registro que, conforme reiterados julgados desta Corte Superior, a ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, com pesos determinados a cada uma delas, extraídos de simples cálculo matemático. Nesse sentido:
+ ..
+III - Segundo a jurisprudência desta Corte Superior, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente vinculada e deve observar os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime. Não se admite a adoção de um critério puramente matemático, baseado apenas na quantidade de circunstâncias judiciais desfavoráveis, até porque de acordo com as especificidades de cada delito e também com as condições pessoais do agente, uma dada circunstância judicial desfavorável poderá e deverá possuir maior relevância (valor) do que outra no momento da fixação da pena-base, em obediência aos princípios da individualização da pena e da própria proporcionalidade.
+ ..
+(HC n. 437.157/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 20/4/2018, destaquei)
+II. Fração de aumento pela reincidência
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não haja mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea. Menciono, como exemplo, o HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013.
+Na hipótese, as instâncias antecedentes efetuaram acréscimo superior a 1/6 sem nenhum argumento, tão somente pela reincidência ser específica . Não havendo, portanto, sido concretamente fundamentada a fração eleita, deve-se proceder ao ajuste em relação a esse ponto.
+Nesse sentido:
+HABEAS CORPUS. DOSIMETRIA. TRÁFICO DE DROGAS.  ..  SEGUNDA FASE DA DOSIMETRIA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/6 EM RAZÃO DA REINCIDÊNCIA ESPECÍFICA. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+ ..
+3. A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 365.963/SP, pacificou o entendimento de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito (HC n. 654.120/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 25/5/2021). Dessarte, a especificidade da reincidência constitui fundamento inidôneo para justificar o agravamento da pena superior à fração de 1/6.
+4. Incabível a fixação de regime mais brando, pois inexiste constrangimento ilegal a ser sanado, eis que o paciente detém circunstâncias judiciais desfavoráveis e é reincidente, sendo aplicável, destarte, o regime fechado, nos termos do art. 33, parágrafos 3º e 2º, alínea b, do Código Penal. (HC 669.583/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 1/9/2021).
+5. Ordem concedida parcialmente para reduzir a fração de agravamento na segunda fase da dosimetria e, assim, fixar a pena do paciente em 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa.
+(HC n. 758.154/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 21/10/2022.)
+ ..
+2. Impõe-se a concessão de habeas corpus de ofício, diante da ilegalidade do acórdão impugnado no que tange à fração de aumento da pena em razão da reincidência específica, a qual foi aumentada em 1/3 (um terço) sem a devida fundamentação.
+3. Nosso Código Penal não estabelece limites mínimo e máximo de diminuição de pena a serem aplicados em razão de circunstâncias atenuantes e agravantes, cabendo à prudência do magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, com a devida fundamentação. Nesse contexto, a jurisprudência deste Superior Tribunal firmou-se no sentido de que o aumento para cada agravante ou de diminuição para cada atenuante deve ser realizado em 1/6 da pena-base, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar concretamente fundamentado. Precedentes.
+4. No presente caso, na segunda fase da dosimetria, a pena foi aumentada, em razão da agravante da reincidência, em patamar superior a 1/6, sem qualquer fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica.
+5. Agravo regimental não conhecido. Habeas corpus concedido de ofício para diminuir o patamar de aumento referente à agravante da reincidência para 1/6.
+(AgRg no AREsp n. 2.282.442/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 17/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. AGRAVANTE. PATAMAR DE AUMENTO ACIMA DO QUANTUM DE 1/6 (UM SEXTO). REINCIDÊNCIA ESPECÍFICA. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO DESPROVIDO.
+1. A quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado. Precedentes.
+2. Agravo desprovido.
+(AgRg no HC n. 543.365/SP, relatora Ministra Laurita Vaz, 6ª T., DJe de 17/12/2019.)
+Procedo, assim, à nova dosimetria da pena.
+Na primeira fase, a pena foi fixada 1/6 acima do mínimo. Na segunda fase, agravo a pena em 1/6 pela reincidência. Ausentes causas de aumento ou diminuição, fixo a pena do réu em 6 anos, 9 meses e 20 dias de reclusão, mais pagamento de 680 dias-multa.
+III. Dispositivo
+À vista do exposto, concedo parcialmente o habeas corpus, tão somente para reduzir a fração pela reincidência do réu. Redimensiono, assim, sua reprimenda para 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, mais pagamento de 680 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
