@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por Carlos Alberto Pauletto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, o qual acolheu os embargos de declaração com efeitos modificativos, nos seguintes termos (fl. 165):
+EMBARGOS DE DECLARAÇÃO. NA REALIDADE, O ACÓRDÃO FOI EDITADO A PARTIR DE TEXTO PADRONIZADO QUE, POR EQUÍVOCO, NÃO FOI ALTERADO. CASO TÍPICO DE ERRO MATERIAL. A PRETENSÃO FORMULADA PELO SEGURADO NA PETIÇÃO INICIAL JÁ FOI ATENDIDA PELO INSS, POIS ELE CORRETAMENTE APLICOU O § 3º DO ARTIGO 21 DA LEI N. 8.880/1994. A PRETENSÃO FORMULADA POSTERIORMENTE, POR OUTRO LADO, NÃO TEM QUALQUER FUNDAMENTO, CONFORME FOI DECIDIDO NO JUÍZO DE ORIGEM: "ASSIM, TAMBÉM, NÃO HÁ QUE SE FALAR EM APLICAÇÃO DO EXCEDENTE NO SEGUNDO REAJUSTE CONCEDIDO, PRIMEIRO, PORQUE NÃO FAZP ARTE DO PEDIDO INCIAL E SEGUNDO QUE NÃO EXISTE PREVISÃO LEGAL PARA TAL". EFEITOS MODIFICATIVOS. PROVIMENTO.
+A parte recorrente aponta violação aos arts. 88 da Lei 8.213/91 e 21, § 3º, da Lei 8.888/94. Para tanto, assim sustenta (fl. 179):
+Como se extrai do dispositivo legal, o autor faz jus seja observado na data do segundo reajuste proporcional a inclusão do coeficiente residual decorrente do reajuste da época somado ao coeficiente residual.
+Refere-se que a disposição legal quando afirma a inclusão do coeficiente no primeiro reajuste não limita que seja ao primeiro, apenas sugere, de forma que a interpretação tem que ser vantajosa ao segurado, de modo que não o impeça de atingir a finalidade da lei, qual seja, aproveitar a diferença existente entre a média obtida e o teto máximo instituído.
+Nesta linha, a decisão recorrida viola o objetivo do artigo acima citado.
+Isso porque, na hipótese dos autos, a apuração do valor inicial do benefício vai estar limitada ao teto existente no momento da concessão, de modo que, não fosse o teto, teria percebido valor superior - correspondente às contribuições vertidas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+O Tribunal de origem, ao negar a pretensão da parte apelante, considerou a ausência de pedido na petição inicial para aplicação do excedente no segundo reajuste concedido e ausência de previsão legal.
+No entanto, o recurso especial deixou de impugnar estes fundamentos, repetindo os argumentos apresentados na apelação, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
