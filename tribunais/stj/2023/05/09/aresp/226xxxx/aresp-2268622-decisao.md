@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por VANESSA DE OLIVEIRA SANTANA GOMES, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"1. Determinado o nexo causal, de rigor a conversão dos benefícios de auxílios-doença previdenciários nos seus homônimos acidentários.
+2. Ausente a incapacidade atual, julga-se improcedente o pedido de concessão do benefício acidentário" (fl. 196e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 204/206e), os quais restaram rejeitados (fls. 209/211e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 20, 21, 21-A, 59 e 86 da Lei 8.213/91, alegando que "o nexo causal existe não apenas quando a incapacidade é gerada exclusivamente pelas agressões da atividade laboral, mas também, quando por uma causa diversa se adquire a doença e os agentes agressivos do trabalho diretamente contribuem para o seu agravamento. Deste modo, deve-se verificar se o trabalho atuou como fator contributivo da doença ocupacional" (fl. 225e).
+Sustenta, ainda, violação aos arts. 139, 156, 369, 370 e 480 do CPC/2015, alegando que "a parte tem direito de produzir as provas que julga necessárias para comprovação do seu direito, a fim de formar um conjunto probatório robusto, afastando qualquer alegação de ausência de provas por parte do Magistrado, a permitir eventual improcedência do pedido" (fl. 221e) e que "está sendo suprimido o direito da Recorrente em produzir as provas necessárias ao reconhecimento de seu direito" (fl. 223e).
+Por fim, requer seja "admitido e dado, ao final, total provimento ao presente recurso, para o fim de ver reformado o v. Acórdão recorrido por violar/negar vigência as disposições legais e jurisprudenciais, para ser restabelecido o auxílio-doença acidentário, bem como para que os benefícios de auxílios-doença mencionados sejam convertidos para seus homônimos acidentários, e seja concedido o auxílio-acidente" (fl. 228e).
+Contrarrazões não apresentadas (fl. 224e), inadmitido o Recurso Especial (fl. 235e), foi interposto o presente Agravo (fls. 238/251e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação Acidentária ajuizada, em face do INSS, objetivando, em síntese, o restabelecimento do auxílio-doença e a conversão para auxílio-acidente.
+Julgada parcialmente procedente (fls. 171/175e), recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+De início, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 139, 156, 369, 370 e 480 do CPC/2015, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Quanto aos arts. 20, 21, 21-A, 59 e 86 da Lei 8.213/91, apontados como violados, nas razões recursais, verifica-se que a parte não desenvolveu, em suas razões de Recu rso Especial, argumentos capazes de demonstrar o modo como teria ocorrido essa violação.
+Na forma da jurisprudência desta Corte, "as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado. Assim, a mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal, a atrair a incidência da Súmula 284/STF" (STJ, AgRg no AREsp 722.008/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/09/2015).
+Confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. JUROS. INCIDÊNCIA. REEXAME PROBATÓRIO. SÚMULA 07/STJ. CORREÇÃO MONETÁRIA. AFASTAMENTO DO ARTIGO 26 DA LEI DE FALÊNCIAS. SÚMULA 83/STJ. DECISÃO AGRAVADA MANTIDA.
+1. (..)
+3. A análise da admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida, o que não ocorreu na hipótese, sendo certo que, no caso em exame, caracterizou-se deficiência de fundamentação, sendo de rigor a incidência da Súmula 284 do STF.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.246.988/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 13/09/2016).
+Ainda que assim não fosse, tais dispositivos não foram acompanhados de fundamentação individualizada, o que consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Por fim, rever as conclusões adotadas pelo Tribunal de origem, nos moldes do que pretendido pela parte agravante, demandaria, necessariamente, o exame do acervo fático-probatório, constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
