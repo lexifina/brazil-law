@@ -1,0 +1,3 @@
+DECISÃO
+Diante das informações prestadas pelo Magistrado de primeiro grau, às fls. 241-242, que noticiam haver sido proferida sentença condenatória, na qual "foi concedido aos réus o direito de responderem em liberdade, pois os ele- mentos que justificariam a prisão preventiva, com base na violação da ordem pública (ID 39686970), não es- tavam mais presentes devido à falta de gravidade concreta" (fl. 241, destaquei), fica sem objeto este agravo regimental, por meio do qual pretendia a defesa a reforma da decisão que indeferiu o pedido de revogação da preventiva. Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este agravo regimental.
+Publique-se e intimem-se.
