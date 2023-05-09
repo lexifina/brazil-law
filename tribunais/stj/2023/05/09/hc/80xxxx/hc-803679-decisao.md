@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EVERTON DE CARVALHO LUCAS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501515-59.2022.8.26.0540).
+Depreende-se dos autos que o réu "foi condenado a cumprir a pena de 08 anos e 09 meses de reclusão, em regime inicial fechado, e a pagar o valor correspondente a 34 dias-multa em seu mínimo unitário, por infração ao disposto no artigo 157, §2º, inciso II, e §2-A, inciso I, do Código Penal, por duas vezes, em continuidade delitiva", roubo qualificado (e-STJ fl. 58).
+Segundo a acusação, ele teria (e-STJ fl. 9):
+ ..  no dia 06 de agosto de 2022 (sábado), por volta das 20:15 horas, na Rua Lucila, altura do nº 125, nesta cidade, EVERTON DE CARVALHO LUCAS, qualificado às fls. 07,12, agindo mediante prévio acordo e unidade de propósitos com dois indivíduos não identificados, subtraíram, para eles, mediante grave ameaça caracterizada pelo emprego de arma de fogo, o veículo "GM/S10", placas FCV 5565/SAE, cor prata, ano 2014; uma aliança pertencentes à Marcos  .. , e duas bolsas pertencentes a esposa Carolina  ..  e filha da vítima.
+Consta ainda que, no mesmo dia, por volta das 20:30 horas, na Rua Coronel Seabra, altura do nº 1646, Centro, nesta cidade, EVERTON CARVALHO LUCAS, já qualificado, agindo mediante prévio acordo e unidade de propósitos, subtraíram para eles, mediante grave ameaça caracterizada pelo emprego de arma de fogo, o veículo "Fiat/Toro", placas FOH2E19, cor vermelha, ano 2018, (02) dois aparelhos de telefone celular, marca "Samsung", bem como cartões bancários e documentos pessoais pertencentes à José .. , e a aliança de sua esposa Rosemeire  ..
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 57/64).
+Daí o presente writ, no qual sustenta a defesa ser "medida de rigor o afastamento da exasperação da pena base, levando em conta o descumprimento do Acordo De Não Persecução Penal - ANPP, tendo em vista que a própria legislação já traz uma penal legal, devendo evitar assim o bis in idem, vedado pelo ordenamento jurídico" (e-STJ fl. 4).
+Requer, liminarmente e no mérito, "seja afastada a exasperação promovida sobre a pena base, tendo em vista a ausência de fundamentação idônea para tanto, bem como sob pena de incorrer na vedação ao ne bis in idem, prevista no artigo 14, item 7, do Pacto de Internacional de Direitos Civis e Políticos - PIDCP - Decreto nº 592/92" (e-STJ fl. 8).
+Liminar indeferida (e-STJ fls. 67/68).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 93/99).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório, o que não ocorre na espécie.
+No caso, a dosimetria do paciente foi assim definida pelo Juízo de primeiro grau (e-STJ fls. 34/35):
+Ao delito capitulado pelo artigo 157 do Código Penal é prevista a pena de reclusão, de 04 (quatro) a 10 (dez) anos, e multa.
+Em primeira fase, em virtude de anotações existentes na folha de antecedentes do réu, de rigor considerar desfavoráveis as condições judiciais, nos termos do art. 59 do Código Penal. Referido texto de lei preconiza a atenção à (1) culpabilidade, (2) antecedentes, (3) conduta social, (4) personalidade do agente, (5) motivos do crime, (6) circunstâncias do crime, (7) consequências do crime e (8) comportamento da vítima. No presente caso, de se destacar que o réu apresenta maus antecedentes (vide fls. 60/63). Outrossim, ao praticar novo crime patrimonial, após ter sido agraciado com o instituto da não persecução penal, evidencia personalidade a merecer censura. Diante disso, fixo a reprimenda acima do mínimo legal, em 04 (quatro) anos e 06 (seis) meses de reclusão e pagamento de 11 (onze) dias-multa.
+Em segunda fase de estabelecimento de pena, nada se verifica a alterar a pena-base estipulada.
+Em terceira fase, por fim, verifica-se que foi cometido em concurso de agentes e uso de arma de fogo, motivo pelo qual, com base na norma do art. 68, parágrafo único, do Código Penal, aumento a pena em 2/3 (dois terços), passando ela ao patamar de 07 (sete) anos e 06 (seis) meses de reclusão e pagamento de 17 (dezessete) dias-multa. Por fim, de se levar em consideração a continuidade delitiva, pelo que majoro a sanção em 1/6 (um sexto), fixando-a em 08 (oito) anos e 09 (nove) meses de reclusão e pagamento de 34 (trinta e quatro) dias-multa. De se ressaltar que, no tocante à multa, incide a norma do art. 72 do Código Penal. (Grifei.)
+Já a Corte local fez as seguintes considerações quanto ao cálculo dosimétrico (e-STJ fls. 63/64):
+A pena-base foi bem exasperada em 1/8, resultando em 04 anos e 06 meses de reclusão e 11 dias-multa em seu mínimo unitário, com fulcro na personalidade do réu, claramente voltada à criminalidade.
+Vale observar que o réu havia sido denunciado pela prática de um crime de furto em 05 de abril de 2021 e, agraciado com a suspensão condicional do processo, tornou a delinquir, sendo novamente preso em 12 de junho de 2022, quando portava uma arma de fogo, e beneficiado com a liberdade provisória, foi preso pelos fatos apurados nestes autos.
+Na segunda etapa da dosimetria, a pena permaneceu inalterada, pois inexistentes circunstâncias agravantes ou atenuantes a serem consideradas.
+Na terceira fase, o réu foi beneficiado com a aplicação do artigo 68, parágrafo único, do Código Penal, de modo que a pena foi exasperada em apenas 2/3, resultando em 07 anos e 06 meses de reclusão e 17 dias-multa em seu mínimo unitário. (Grifei.)
+Pois bem.
+Da análise dos excertos acima transcritos, verifica-se que, não obstante a menção das instâncias ordinárias quanto à personalidade desvirtuada do paciente, ficou assente na sentença condenatória a presença dos maus antecedentes do paciente, circunstância que por si só já seria suficiente à exasperação da pena-base.
+No ponto, deve-se frisar que a defesa nem sequer se desincumbiu do ônus de atacar especificamente tal fundamento, olvidando-se, outrossim, de colacionar aos autos certidão de antecedentes criminais que pudesse esclarecer eventual primariedade do paciente, não servindo para tal desiderato o documento juntado às e-STJ fls. 17/19.
+Ainda que assim não fosse, não vislumbro a existência de ilegalidade flagrante apta a ser sanada pela concessão da ordem.
+Com efeito, "a valoração negativa da personalidade não depende de laudo técnico firmado por profissional da área da saúde, apenas da análise da existência de dados concretos e suficientes pelo julgador, que demonstrem a maior periculosidade do agente" (AgRg no REsp n. 1.538.567/RN, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/9/2016, DJe 3/10/2016).
+Nesse contexto, o cometimento do delito enquanto o paciente estava gozando de benefício concedido pela Justiça efetivamente denota a possibilidade de exasperação da pena-base, não havendo nenhuma ilegalidade em relação ao desvalor de tal vetorial reconhecido pelas instâncias ordinárias.
+No mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE DO AGENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias de origem consideraram devida a imposição da pena- base acima do mínimo legal, em razão da personalidade do acusado, notadamente por ter praticado o crime enquanto cumpria o benefício do livramento condicional.
+2. Os fundamentos utilizados pelas instâncias de origem autorizam o recrudescimento da pena, nos termos ao art. 59 do CP, pois evidenciam maior reprovabilidade da conduta
+3. Agravo Regimental não provido.
+(AgRg no HC n. 734.873/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022, grifei.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CONDUTA SOCIAL. PRÁTICA DE NOVO DELITO DURANTE O DESCONTO DE PENA EM REGIME ABERTO. MOTIVAÇÃO IDÔNEA DECLINADA PARA ELEVAÇÃO DA BÁSICA. WRIT NÃO CONHECIDO.
+ ..
+4. A prática de novo delito durante o desconto de pena ou durante o gozo de benefício prisional não se confunde com a valoração de anotações na folha de antecedentes criminais para exasperar a básica a título de personalidade ou conduta social, já que tais condenações devem ser sopesadas apenas para negativar os antecedentes e reconhecer a incidência da agravante da reincidência, nos moldes da jurisprudência desta Quinta Turma.
+5. Writ não conhecido.
+(HC n. 542.400/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2020, DJe de 14/2/2020, grifei.)
+Não vislumbro, portanto, o constrangimento ilegal sustentado.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
