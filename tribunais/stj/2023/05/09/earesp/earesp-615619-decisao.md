@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por BERTOLDI BECKER S/A INDÚSTRIA E COMÉRCIO contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de revisão contratual cumulada com reparação de danos materiais, ajuizada pela embargante, em desfavor de CNH LATIN AMERICA LTDA, tendo em vista contrato de concessão comercial firmado entre as partes.
+Sentença: indeferiu a petição inicial, tendo em vista a inércia da autora quanto à determinação de emenda da inicial.
+Acórdão: negou provimento à apelação interposta pela embargante.
+Recurso especial: foi interposto pela embargante, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Alegou violação dos arts. 267, § 3º, 295, parágrafo único, 301, § 4º, 458 e 535 do CPC/73, bem como dissídio jurisprudencial.
+Juízo de admissibilidade: inadmitiu o recurso especial interposto pela embargante.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela embargante, ante a aplicabilidade da Súmula 182/STJ.
+Acórdão: negou provimento ao agravo interno interposto pela embargante, mantendo a decisão unipessoal do relator, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento (e-STJ fl. 682).
+Embargos de declaração: opostos pela embargante, foram rejeitados.
+Embargos de divergência: aponta dissonância entre o posicionamento adotado pela 4ª Turma do STJ e o entendimento adotado no REsp 1.622.386/MT, 3ª Turma, DJe 25/10/2016; nos EDcl no AgInt nos EDcl no REsp 1.432.342/SP, 3ª Turma, DJe 02/08/2017; nos EDcl no AgRg nos EREsp 1.510.816/PR, 3ª Seção, DJe 16/05/2017; nos EDcl no AgInt nos EAREsp 996.192/SP, Corte Especial, DJe 10/12/2019; nos EDcl no AgRg nos EREsp 1.483.155/BA, Corte Especial, DJe 03/08/2016; nos EDcl no AgRg no REsp 1.796.307/SP, 5ª Turma, DJe 01/07/2019; no AgInt no AREsp 1.832.913/RJ, 3ª Turma, DJe 02/06/2022; no AgInt nos EDcl no AREsp 2.041.177/RS, 4ª Turma, DJe 01/06/2022; no AgInt no AREsp 1.594.282/SP, 2ª Turma, DJe 03/08/2020; no AgRg no Ag 1.056.913/SP, 2ª Turma, DJe 26/11/2008; nos EDcl no AgRg no Ag 1.089.538/RJ, 4ª Turma, DJe 09/09/2011. Sustenta que o acórdão embargado traduz-se em mera reiteração/repetição de decisão anterior e que não foram enfrentados os argumentos novos trazidos em sede de agravo interno, capazes de infirmar a decisão denegatória de agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Inicialmente, constata-se que o acórdão embargado é contrastado com paradigmas advindos da 2ª, 3ª, 4ª e 5ª Turmas, da 3ª Seção e da Corte Especial deste STJ. Há, portanto, superposição de competências entre a 2ª Seção e a Corte Especial razão pela qual faz-se mister que esta se pronuncie em primeiro lugar, conforme jurisprudência deste Tribunal (EREsp 223.796/DF, Corte Especial, Rel. Min. José Delgado, Rel. p/ Acórdão Min. Fernando Gonçalves, DJ de 15/12/2003).
+Passo, assim, à análise da divergência suscitada tão-somente em face dos acórdãos provenientes da 2ª e 5ª Turmas, da 3ª Seção e da Corte Especial desta Corte Superior, reservando os paradigmas da 3ª e 4ª Turmas para posterior apreciação da 2ª Seção.
+- Da divergência jurisprudencial
+Inicialmente, convém salientar que a aplicação da Súmula 182/STJ ao agravo em recurso especial da embargante - mantida pelo acórdão ora embargado -, por si só, autorizaria a aplicação analógica da Súmula 315/STJ, que revela ser inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Nesse sentido: AgInt nos EREsp 1226477/RS, Corte Especial, DJe 26/10/2016; AgInt nos EAREsp 398.790/RJ, Corte Especial, DJe 14/10/2016.
+Contudo, ainda que transposto mencionado óbice ao processamento destes embargos de divergência, outro se imporia.
+É que, da atenta leitura do recurso, percebe-se que não há similitude fática entre o acórdão embargado e os paradigmas apontados, de maneira que não se comprovou a divergência jurisprudencial.
+É que os paradigmas apontados fulcram-se na discussão acerca da alegada impossibilidade de mera reprodução dos fundamentos da decisão agravada para o julgamento de improcedência do agravo interno (art. 1.021, § 3º, do CPC/2015), discussão que não foi objeto de apreciação pelo acórdão embargado.
+Assim, tendo em vista não haver a necessária similitude fática entre os julgados comparados, não merecem acolhimento os presentes embargos de divergência.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo nos arts. 932, III, do CPC/15 e 266-C do RISTJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Após o transcurso do prazo recursal, os autos devem ser remetidos para a redistribuição dos presentes embargos de divergência a um dos eminentes Ministros que compõem a 2ª Seção, a fim de que seja analisado o recurso sob a luz dos paradigmas advindos da 3ª e 4ª Turmas deste STJ.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE. ACÓRDÃO PARADIGMA E EMBARGADO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão de contrato de concessão comercial cumulada com reparação de danos materiais.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+4. Embargos de divergência indeferidos liminarmente.
