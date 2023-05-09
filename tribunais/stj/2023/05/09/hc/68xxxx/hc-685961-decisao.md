@@ -1,0 +1,13 @@
+DECISÃO
+MARCOS ANDRE DAQUILA alega sofrer constrangimento ilegal diante de decisão proferida por Desembargador do Tribunal de Justiça do Estado de Mato Grosso do Sul, que indeferiu liminarmente o HC n. 1409942-32.2021.8.12.0000.
+Nesta Corte, a defesa sustenta, em resumo, as seguintes nulidades (fls. 12-13): "(i) a quebra de custódia da prova, considerando que a Acusação filtrou e manipulou a prova obtida nos interesses de sua pretensão acusatória, e (ii) a obtenção de conteúdo probatório interceptado sem autorização judicial".
+Requer "sejam reconhecidas as nulidades absolutas destacadas e comprovadas nesta oportunidade, e, por conseguinte, anulada a Ação Penal nº 0808119-76.2015.8.12.0002, da 1ª Vara Criminal da Comarca de Dourados - MS" (fl. 47).
+Consoante destacado pelo Subprocurador-Geral da República Francisco de Assis Vieira Sanseverino no parecer de fls. 9.461-9.464, "este habeas corpus foi impetrado contra decisão monocrática do Desembargador Relator do HC nº 1409942-32.2021.8.12.0000, que indeferiu liminarmente a impetração, por inadequação da via eleita", de modo que "caberia à defesa do paciente esgotar a instância de origem com a interposição de agravo dirigido ao órgão competente para a apreciação do feito originário ou de eventual recurso na causa principal, no caso, revisão criminal".
+Vê-se, portanto, que a impetração se volta contra decisão monocrática do Desembargador relator do writ originário, sem comprovar a interposição de agravo regimental contra o decisum que negou o processamento daquele feito, de modo a oportunizar que o respectivo órgão colegiado se debruçasse sobre a questão do conhecimento da matéria lá suscitada, para a posterior impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência desta Corte. Esse é o entendimento da hodierna jurisprudência deste Superior Tribunal:
+ ..
+1. O writ foi interposto contra decisão monocrática de Desembargador do Tribunal de Justiça do Estado de Santa Catarina, contra o qual seria cabível agravo regimental. Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência desta Corte.
+2. Pedido de reconsideração recebido como agravo regimental e não provido.
+(RCD no HC n. 601.910/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/8/2020, grifei)
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
