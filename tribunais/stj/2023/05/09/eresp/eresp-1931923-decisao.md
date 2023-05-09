@@ -1,0 +1,11 @@
+DECISÃO
+GABRIEL GUEDES DE ALMEIDA JUNQUEIRA, condenado por furto qualificado, opõe embargos de divergência contra o acórdão de fls. 623-630, proferido pela Quinta Turma desta Corte, que negou provimento ao agravo regimental, no qual pretendia a substituição da pena privativa de liberdade por restritivas de direito.
+Em suas razões, afirma a defesa, em síntese, que o referido aresto divergiu do acórdão proferido pela Sexta Turma, no AREsp n. 1.793.700/SP. Assinala que no paradigma, que também tratou de crime patrimonial, a reincidência, por si só, não serviu de óbice para a substituição da pena privativa de liberdade por restritivas de direito, situação que ocorreu com o acórdão embargado, a denotar o dissenso interpretativo.
+Diante disso, requer sejam acolhidos os presentes embargos de divergência, "a fim de se reformar o v. acórdão do Agravo Regimental em Recurso Especial para julgá-lo provido tal como requerido pelos embargantes, substituindo a pena privativa de liberdade por restritiva de direito" (fl. 675).
+Decido.
+A despeito dos argumentos externados pelo insurgente, não verifico a necessária similitude fática entre o acórdão embargado e o paradigma.
+De fato, embora ambos os casos versem sobre a prática de crimes patrimoniais e, também em ambos, os réus hajam sido considerados reincidentes não específicos, observo que no acórdão embargado foi apresentada motivação para a negativa da substituição, ao contrário do que ocorreu com o paradigma.
+Deveras, ficou consignado no paradigma, o seguinte (fl. 679, destaquei): "o Tribunal de origem deixou de substituir as penas, diante da reincidência do recorrente, sem, contudo, declinar os motivos pelos quais não se mostraria a medida socialmente recomendável, de modo que, fixada a pena-base no mínimo legal e não apontada na origem a reincidência específica, tem-se por inválida a negativa do benefício".
+Já no acórdão impugnado, a substituição foi indeferida não só em razão da reincidência, mas também pelo fato "de a medida já ter sido deferida no passado, sem surtir o efeito esperado, elementos que, unidos, demonstraram não ser socialmente adequada para o presente caso a substituição pretendida pela Defesa" (fl. 628, destaquei).
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Publique-se e intimem-se.
