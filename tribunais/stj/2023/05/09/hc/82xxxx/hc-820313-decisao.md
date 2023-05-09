@@ -1,0 +1,25 @@
+DECISÃO
+SANDOVAL CADENGUE DE SANTANA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal Regional Federal da 5ª Região no HC n. 0800120-28.2023.4.05.0000.
+A defesa busca seja considerado como pena efetivamente cumprida o período em que a prestação de serviços à comunidade foi suspensa, em razão da pandemia de covid-19, e, em consequência, seja declarada extinta a punibilidade do paciente.
+Decido.
+Infere-se dos autos que o paciente foi condenado, como incurso no art. 92, caput, da Lei n. 8.666/1990, à pena de 3 anos, 1 mês e 15 dias de reclusão, em regime inicial aberto. A reprimenda privativa de liberdade foi substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+Após o trânsito em julgado da condenação, foi realizada audiência admonitória, em 4/7/2019, oportunidade na qual o Magistrado da execução reconheceu a incidência parcial da prescrição da pretensão punitiva retroativa e reduziu a pena para 3 anos de reclusão.
+Em 23/4/2020, o Juízo de origem suspendeu a execução da pena de prestação de serviços à comunidade, em observância à Recomendação n. 62/2020, do CNJ e à Portaria n. 1/2020, do TRF5.
+No dia 18/4/2022, foi determinado o retorno do cumprimento da prestação de serviços à comunidade, "a ser cumprido na entidade designada através de audiência realizada, devendo o réu comparecer ao local a partir do primeiro dia útil do mês subsequente ao de sua intimação" (fl. 435).
+A defesa, então, formulou pedido de extinção da punibilidade do sentenciado, pelo cumprimento integral da pena, o que foi indeferido, por meio de decisão assim fundamentada (fl. 474):
+Diante da ausência de previsão legal, descabe a contagem de tempo de cumprimento de pena fictício.
+A orientação do Conselho Nacional de Justiça a que alude o peticionante, órgão sem natureza jurisdicional, traduz mera recomendação, sem qualquer caráter vinculante.
+O apenado não tem direito subjetivo à liberação do cumprimento da sanção penal em decorrência das dificuldades enfrentadas para a efetivação das penas de serviços comunitários.
+Ademais, como bem asseverou o MPF, "a prestação de serviços à comunidade e as demais penas restritivas de direitos são também um mecanismo de ressocialização e de contraprestação do apenado, sendo necessário seu efetivo cumprimento".
+Assim indefiro o pedido, devendo o apenado dar início imediato ao cumprimento da medida.
+O Tribunal a quo ratificou o decisum supra.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe de 16/5/2022).
+De fato, " a  jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que " n ão é admissível, por ausência de previsão legal, que se considere como cumprida a pena daquele que já obtivera - por motivo de força maior e para não se expor a maior risco em virtude da pandemia - o benefício da suspensão da pena restritiva de direitos, sendo absolutamente necessário o efetivo cumprimento da pena como instrumento tanto de ressocialização do apenado como de contraprestação em virtude da prática delitiva, a fim de que o reeducando alcance o requisito necessário para a extinção de sua punibilidade" (AgRg no HC 644.942/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/06/2021, DJe 17/06/2021)" (AgRg no REsp n. 1.929.921/RS, relatora Ministra Laurita Vaz, 6ª T., DJe de 27/9/2022, destaquei).
+No mesmo sentido:
+ ..
+III - Diante das peculiaridades do caso concreto, de prestação de serviços à comunidade, o mero decurso do prazo fixado para o seu cumprimento não pode ser considerado como efetivamente adimplido, de forma ficta, já que, embora não haja culpa da parte recorrente em relação à pandemia de coronavírus e à prejudicialidade de diversos serviços, por outro lado, não se pode concluir que as finalidades últimas do que lhe fora imposto tenham sido atingidas por única razão temporal  ..
+(RHC n. 159.318/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 14/3/2022)
+Menciono, ainda, as seguintes decisões monocráticas: REsp n. 2.050.461/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 28/4/2023; REsp n. 1.997.97/MG, relator Ministro Sebastião Reis Júnior, DJe 29/3/2023; HC n. 808.85/SP, relator Ministro Ribeiro Dantas, DJe 21/3/2023; REsp n. 2.025.874/RO, relator Ministro Joel Ilan Paciornik, DJe 28/2, DJe 28/2/2023.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
