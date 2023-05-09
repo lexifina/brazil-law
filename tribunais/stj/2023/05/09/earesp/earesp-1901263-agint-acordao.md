@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 03/05/2023 a 09/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.286-1.330) interposto por INDIANA AGRI COMÉRCIO E EXPORTAÇÃO DE CEREAIS EIRELI contra decisão que indeferiu liminarmente os embargos de divergência (fls. 1.260-1.262).
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.280-1.281).
+A parte agravante sustenta que (fl. 1292):
+ ..  referido decisum restou equivocado, na medida em que foi devidamente comprovada a divergência entre o v. acórdão proferido nestes autos e o acórdão proferido pela Segunda Turma deste C. Superior Tribunal de Justiça, que no Agravo Interno no Recurso Especial nº 1480197/MG1 - decidiu que a mera oposição de embargos de declaração não justifica a imposição da multa prevista no art. 1.026, §2º do CPC.
+Requer, assim, a reforma da decisão ou a submissão do feito ao colegiado.
+Sem impugnação (fl. 1.333).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AUSÊNCIA DE IDENTIDADE FÁTICO-JURÍDICA ENTRE AS CAUSAS.
+1. Faltando aos embargos de divergência pressuposto básico de admissibilidade, qual seja, a discrepância entre julgados a respeito da mesma questão jurídica, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento do recurso.
+2. Agravo interno a que se nega provimento.
+VOTO
+O acórdão embargado, proferido pela Quarta Turma, foi assim ementado (fl. 904, destaques acrescidos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com imposição de multa.
+Na ocasião, como visto, ficou decidido que, em razão da ausência dos vícios previstos no art. 1.022 do CPC e da pretensão de rejulgamento da causa, seria cabível a aplicação à parte embargante da multa prevista no art. 1.026, § 2º, da mesma norma (fls. 907-909).
+Por sua vez, no acórdão invocado como paradigma, proferido pela Segunda Turma, ficou estabelecido o seguinte (fls. 1.219-1.220, destaques acrescidos):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDÃO ADMINISTRATIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. SÚMULA 98/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 439, 840, 884 E 944 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VALOR DA INDENIZAÇÃO. VALIDADE DE ACORDO EXTRAJUDICIAL. REEXAME DE MATÉRIA FÁTICA E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE, EM RECURSO ESPECIAL. SÚMULAS 7 E 5/STJ. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, a parte ora agravante ajuizou ação, buscando a constituição de servidão administrativa em imóvel de propriedade dos ora agravados, para fins de construção de linha de transmissão de energia elétrica, ofertando o valor de R$ 3.655,21. A sentença julgou parcialmente procedente o pedido, para o fim de, acolhendo valor constante de anterior acordo extrajudicial, fixar a indenização em R$ 17.392,17. Interposta Apelação, fora ela parcialmente provida, apenas para fixar o trânsito em julgado como o termo inicial dos juros de mora.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Nos termos da Súmula 98/STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". Assim, a simples oposição dos Embargos de Declaração pela parte agravante, por si só, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, motivo pelo qual o Recurso Especial merece ser provido, no ponto.
+V. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 439, 840, 884 e 944 do Código Civil, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+VI. Em relação às demais alegações, o Tribunal de origem dirimiu a controvérsia exclusivamente com base no acervo probatório dos autos e nas cláusulas do acordo celebrado com a parte agravada, concluindo que "a constituição da apelante, em 23/12/2015, retrata mera efetivação da hipótese prevista na cláusula 5.3 do acordo em tela, isto é, trata-se de empresa constituída pela SOLATIO SOLAR GESTÃO DE PROJETOS LTDA - ME "com o propósito de deter os direitos de exploração, construção e operação dos Projetos Solares". A própria apelante, em sede de apelação, afirmou que, por expressa previsão do edital do leilão nº 9/2015-ANEEL, o consórcio titular das UFV"s de Paracatu, integrado pela SOLATIO SOLAR GESTÃO DE PROJETOS LTDA- ME e pela SOLAIREDIRECT S. A. S, estava obrigado a constituir uma sociedade de propósito específico (no caso, a apelante), para fins de outorga da autorização para a produção de energia elétrica (..) a decisão que deferiu a liminar pleiteada pela parte autora (f. 97/98) foi prolatada a partir de uma análise perfunctória dos autos, própria daquela fase do procedimento, ocasião em que o julgador sequer tinha conhecimento do pacto em questão, omitido ela apelante em sua inicial". Nesse contexto, nos termos em que a causa fora decidida, infirmar os fundamentos do acórdão recorrido demandaria o reexame de matéria fática e a interpretação de cláusulas contratuais, o que é vedado em Recurso Especial, nos termos das Súmulas 7 e 5/STJ.
+VII. Agravo interno parcialmente provido, para conhecer, em parte, do Recurso Especial, e, nessa extensão, dar-lhe parcial provimento, apenas para afastar a condenação da parte agravante ao pagamento da multa, prevista no art. 1.026, § 3º, do CPC/2015.
+Assim, no paradigma, foi afastada a multa prevista no art. 1.026, § 2º, do CPC, porque, embora ausentes os vícios necessários ao acolhimento dos embargos de declaração, estes não foram considerados protelatórios, por terem propósito de prequestionamento, nos termos da Súmula n. 98/STJ (fls. 1.232-1.243).
+Dessarte, enquanto no acórdão paradigma se concluiu pela impossibilidade de aplicação da multa prevista no art. 1.026, § 2º, do CPC em razão de os embargos de declaração haverem sido opostos com propósito de prequestionamento, no aresto embargado, a referida multa foi aplicada porque os aclaratórios foram opostos com a finalidade de rejulgamento da causa e, desse modo, manifesto caráter protelatório, porquanto incabíveis para tal fim.
+P ortanto, conforme registrado na decisão agravada, constata-se que falta aos embargos de divergência pressuposto básico de admissibilidade, qual seja, discrepância entre julgados a respeito da mesma questão jurídica. No ponto:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SIMILITUDE FÁTICA ENTRE O ACÓRDÃO EMBARGADO E O PARADIGMA. AUSÊNCIA. RECURSO NÃO CONHECIDO.
+ ..
+IV - Nesta Corte, é assente o entendimento de que, inexistente similitude fática, decorrente das peculiaridades existentes em cada caso, o recurso de embargos de divergência não merece ser conhecido.
+Precedentes: AgInt nos EREsp n. 1.430.325/PE, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/12/2019, DJe 17/12/2019; AgInt nos EDv nos EREsp n. 1.756.344/RJ, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 3/12/2019, DJe 6/12/2019; AgInt nos EREsp n. 1,580,178/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, julgado em 22/10/2019, DJe 25/10/2019.
+V - Recurso de embargos de divergência não conhecido.
+(EREsp n. 1.707.423/RS, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/2/2023, DJe de 23/2/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. SIMILITUDE. AUSÊNCIA.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Tratando os acórdãos confrontados de questões essencialmente distintas, não há falar em dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.056.572/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. CISÃO DO JULGAMENTO. NECESSIDADE. AGRAVO DESPROVIDO.
+1. Verificada a diversidade da moldura fática entre os acórdãos confrontados, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento de embargos de divergência.
+ ..
+(AgInt nos EREsp n. 1.755.379/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 16/11/2022, DJe de 2/12/2022.)
+AGRAVO INTERNO. DECISÃO NOS EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DOS ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência das Súmulas 5 e 7/STJ.
+2. Para a configuração da divergência, os acórdãos confrontados devem apresentar similitude de base fática capaz de ensejar decisões conflitantes a propósito da mesma questão jurídica, situação não verificada nos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.835.585/RJ, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22/11/2022, DJe de 25/11/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
