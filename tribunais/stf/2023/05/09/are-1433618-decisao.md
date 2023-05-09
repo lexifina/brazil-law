@@ -1,0 +1,57 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEMONSTRAÇÃO INSUFICIENTE DA PRELIMINAR DE REPERCUSSÃO GERAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ASSOCIAÇÃO. LEGITIMIDADE. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+
+    2. O Órgão Especial do Tribunal de Justiça de São Paulo decidiu:
+
+    “Ação direta de inconstitucionalidade - Lei n. 12.412, de 27 de outubro de 2021, do Município de Sorocaba, que autoriza o Município de Sorocaba a celebrar convênio com o Estado de São Paulo, por intermédio da Secretaria de Segurança Pública, para delegação de atividades de fiscalização e administrativas municipais a Polícia Militar e dá outras providências - Ausência de legitimidade ativa da associação para ajuizamento da presente ação direta por inexistência de pertinência temática - Diploma normativo impugnado que não altera ou acrescenta quaisquer atribuições aos guardas civis municipais de Sorocaba, tampouco dizem respeito, diretamente, às remunerações destes servidores - Guardas Civis Municipais representados pela respectiva associação, não possuem interesse direto na presente ação, ainda que fosse alegada a ocorrência de efeito reflexo nos interesses destes - Precedentes deste Colendo Órgão Especial - Extinção do processo sem resolução do mérito, em razão da ausência de legitimidade ativa, em decorrência da falta de pertinência temática, com base no artigo 103, inciso IX, da Constituição Federal. 90, inciso V. da Constituição Bandeirante e artigo 2, inciso IX. da Lei Federal n. 9.868/99 - Processo extinto sem resolução do mérito, com fulcro no artigo 485, inciso VI, do Código de Processo Civil” (fl. 2, e-doc. 5).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 279 do Supremo Tribunal Federal (fl. 2, e-doc. 12).
+
+    4. O agravante sustenta que “propôs Ação Direta de Inconstitucionalidade em face da Lei n. 12.412/2021, do Município de Sorocaba, a qual celebra convênio com o Estado de São Paulo, por intermédio da Secretaria de Segurança Pública, para delegação de atividade de fiscalização e administrativas municipais à Policia Militar” (fl. 3, e-doc. 14).
+
+    Assevera que, “como entidade representante de classe, conforme consta de seu Estatuto, no artigo 5º, letra ‘a’, (...) está legitimado para atuar no polo ativo da presente demanda, nos termos do artigo 103, inciso IX, da Constituição Federal, 90, inciso V, da Constituição Bandeirante e artigo 2, inciso IX, da Lei Federal n. 9.868/99, os quais foram violados pelo v. acórdão” (fl. 9, e-doc. 14).
+
+    Afirma que “a matéria, no estágio em que foi reprovada pela C. TJSP, não necessita de análise de provas, mas sim, de apreciação segundo os ditames constitucionais para a admissibilidade do recurso extraordinário” e que “há pertinência temática para admissibilidade e prosseguimento do feito, com a consequente reforma do r. despacho” (fl. 10, e-doc. 14).
+
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 37 e o inc. IX do art. 103 da Constituição da República (e-doc. 24).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    Tem-se no § 1º do art. 1.035 do Código de Processo Civil que, para efeito da repercussão geral, será considerada a demonstração, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa. Não basta afirmar ter o tema repercussão geral, alegando que “ o presente feito guarda pertinência com a repercussão jurídica, política e econômica” e que “no âmbito do Brasil é sabido que muitos Municípios estão delegando as atribuições próprias das Guardas Municipais ao Governo Estadual, o que prejudica toda a categoria, principalmente, economicamente” (fl. 11, e-doc. 8). É ônus exclusivo do recorrente demonstrar, com argumentos substanciais, haver na espécie relevância econômica, política, social ou jurídica, o que não ocorreu.
+
+    A insuficiência da argumentação expressa, formal e objetivamente articulada pelo recorrente para demonstrar, nas razões do recurso extraordinário, a repercussão geral da matéria constitucional arguida inviabiliza o exame do recurso extraordinário. Confiram-se os seguintes julgados:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO CONSTITUCIONAL MERAMENTE REFLEXA. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. Agravo interno a que se nega provimento” (RE n. 1.059.349-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 19.9.2018).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. INTIMAÇÃO DO JULGADO RECORRIDO APÓS 3.5.2007. DEMONSTRAÇÃO INSUFICIENTE DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.009.600-AgR, de minha relatoria, Plenário, DJe 15.3.2017).
+
+    6. Ainda que se pudesse superar a insuficiência da preliminar de repercussão geral, o que não é possível na espécie, melhor sorte não acudiria o agravante.
+
+    Como assentado na decisão agravada, consta do acórdão recorrido que a controvérsia foi dirimida com fundamento nos elementos de prova juntados aos autos e na legislação infraconstitucional aplicável à espécie.
+
+    Na espécie, reexaminar a conclusão acolhida pelo Tribunal de origem, que reconheceu a “ausência de legitimidade ativa, em decorrência da falta de pertinência temática”, conduziria ao necessário reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Associação. Legitimidade ativa. Pertinência temática. Inexistência. Reexame de legislação infraconstitucional e fatos e provas. 3. Incidência das Súmulas 279 e 280 desta Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE n. 1.374.500-AgR/SP, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 24.6.2021).
+
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. ASSOCIAÇÃO. LEGITIMIDADE ATIVA. AUSÊNCIA PERTINÊNCIA DE TEMÁTICA VERIFICADA PELA CORTE DE ORIGEM. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Inocorrente violação do art. 93, IX, da Lei Maior. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte capazes de, em tese, influenciar o resultado da demanda, fica dispensado o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador. 2. O entendimento da Corte de origem não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido do atendimento do requisito da pertinência temática quando existente correlação entre a norma impugnada e as finalidades institucionais das associações autoras, o que não ocorre na espécie, consoante consignado pelas instâncias ordinárias. 3. O exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que foge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta. 4. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 5. Agravo interno conhecido e não provido” (ARE n. 898.455-AgR, Relatora a Ministra ROSA WEBER, Primeira Turma, DJe 25.9.2019).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 9 de maio de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
