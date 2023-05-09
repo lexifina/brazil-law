@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental, contudo conceder habeas corpus de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADRIANO MEDEIROS DA SILVA (e-STJ fls. 441/454) contra decisão monocrática de e-STJ fls. 437/438, proferida pela Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que não conheceu do agravo, em razão da incidência da Súmula 182/STJ.
+A parte agravante alega houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Aduz a ilicitude da prova obtida por violação de domicílio.
+Requer, assim, a reconsideração da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo (e-STJ fls. 463/475).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. HABEAS CORPUS. PENA-BASE. QUANTIDADE DA DROGA APREENDIDA. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO PARA REDUZIR A PENA-BASE.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Em relação à exasperação da pena-base, verifica-se a ocorrência de flagrante ilegalidade, sendo necessária a concessão de ofício de habeas corpus.
+3. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+4. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+5. No presente caso, a quantidade total (490g de maconha) do entorpecente apreendido não justifica a majoração da pena-base, por não extrapolar o tipo penal, devendo ser afastado tal fundamento.
+6. Agravo regimental não conhecido. Habeas corpus concedido de ofício para reduzir a pena-base.
+VOTO
+O agravo regimental não merece ser conhecido.
+A decisão agravada não conheceu do recurso, em razão da incidência da Súmula 182/STJ.
+Ocorre que o agravante, nas razões do regimental, não infirmou tal fundamento, limitando-se a sustentar de forma genérica que impugnou todos os fundamentos da decisão que inadmitiu o recurso especial, bem como a ilicitude da prova.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - "Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (RHC n. 81.284/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2017).
+III - In casu, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido. (AgRg no HC 562.476/ES, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/03/2020, DJe 18/03/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ.
+2. In casu, o agravante deixou de impugnar o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 182 do STJ.
+3. Tendo em vista a ausência de prejudicialidade do Agravo em Recurso Extraordinário, após o trânsito em julgado, remetam-se os autos ao Supremo Tribunal Federal, conforme determina o art. 1.031, § 1º, do Código de Processo Civil.
+4. Agravo regimental não conhecido. (AgRg no AREsp 1605293/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO DO QUAL NÃO SE CONHECEU POR INTEMPESTIVIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ÓBICE DO VERBETE SUMULAR N. 182/STJ. RECURSO DO QUAL NÃO SE CONHECE.
+1. A decisão impugnada deixou consignado que o recurso não atende os requisitos do art. 1.042 do Código de Processo Civil e que dele não pode conhecer como agravo regimental por não ser cabível contra decisão de órgão colegiado. Esses fundamentos, contudo, não foram impugnados pela parte agravante, que, nas razões deste regimental, apenas reiterou os argumentos antes aduzidos no mandado de segurança.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental do qual não se conhece. (AgRg no AgRg no AgRg no RMS 60.949/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 19/02/2020)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental não conhecido. (AgRg no AREsp 1594176/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/2/2020, DJe 17/2/2020)
+Em relação à exasperação da pena-base, verifica-se a ocorrência de flagrante ilegalidade, sendo necessária a concessão de ofício de habeas corpus.
+No ponto, a Corte a quo, ao mantê-la acima do mínimo legal, para o crime de tráfico, utilizou a quantidade da droga apreendida e o des valor da culpabilidade.
+No tocante à fixação da reprimenda inicial acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC n. 272.126/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes: AgRg no HC n. 526.747/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 22/10/2019, DJe 28/10/2019; AgRg no REsp n. 1.448.502/SP, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/10/2019, DJe 23/10/2019; AgRg no AREsp n.1.266.433/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/10/2019, DJe 14/10/2019; AgRg no AREsp n. 1.481.573/MG, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 27/8/2019, DJe 4/9/2019; AgRg no AREsp n. 1.505.515/SP, DE MINHA RELATORIA, Quinta Turma, julgado em 6/8/2019, DJe 22/8/2019).
+No presente caso, a quantidade total (490g de maconha) do entorpecente apreendido não justifica a majoração da pena-base, por não extrapolar o tipo penal, devendo ser afastado tal fundamento.
+Passo a refazer a dosimetria da pena, mantidos os critérios da Corte de origem.
+Na primeira fase, mantido o desvalor da culpabilidade, exaspero a reprimenda em 1/6, que fica em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa, que torno definitiva por não haver atenuante e/ou agravante e causas de aumento e/ou diminuição.
+Ante o exposto, não conheço do agravo regimental. Concedo a ordem de habeas corpus para reduzir a pena-base, redimensionando a pena final do acusado para 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa, mantidos os demais termos da condenação.
+É como voto.
