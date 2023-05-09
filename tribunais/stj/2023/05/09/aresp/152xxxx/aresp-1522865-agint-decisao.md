@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA, em face de decisão monocrática da lavra deste signatário (fls. 405-410, e-STJ), que negou provimento ao reclamo da ora insurgente.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 137-138, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. PRETENSÃO DEDUZIDA POR CONCESSIONÁRIO DE VEÍCULOS EM FACE DE CONCEDENTE COM VISTAS À RECOMPRA DE COMPONENTES OBSOLETOS E COM ROTATIVIDADE INADEQUADA. RECURSO CONTRA DECISÃO QUE DETERMINOU O BLOQUEIO ONLINE DOS ATIVOS DA RÉ. IMPUGNAÇÃO QUANTO AO LEVANTAMENTO DOS VALORES BLOQUEADOS QUE NÃO DEVE SER CONHECIDA. PONTO QUE FOI RECONSIDERADO PELO R. JUÍZO DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. DESBLOQUEIO DOS VALORES. O CEDENTE/RECORRENTE ALEGA QUE NÃO POSSUI A OBRIGAÇÃO DE RECOMPRAR AS PEÇAS EXISTENTES NO ESTOQUE DO CONCESSIONÁRIO/AGRAVADO QUE SE MOSTREM OBSOLETAS OU QUE POSSUAM BAIXA ROTATIVIDADE. OBRIGAÇÃO DE RECOMPRA QUE ADVÉM DA INTERPRETAÇÃO DO ARTIGO 10, § 3º DA LEI Nº. 6.729/79 (LEI FERRARI) E DO ARTIGO 4º, I DO CAPÍTULO XIII DA PRIMEIRA CONVENÇÃO DA CATEGORIA ECONÔMICA DOS PRODUTORES E DA CATEGORIA DOS DISTRIBUIDORES DE VEÍCULOS AUTOMOTORES. A CONSTRIÇÃO DO VALOR POSTULADO PELO AUTOR/AGRAVADO É A MEDIDA MAIS CAUTELOSA E ADEQUADA À GARANTIA DOS DIREITOS POSTOS EM LITÍGIO, PRINCIPALMENTE DIANTE DA RESISTÊNCIA MANIFESTADA PELO RÉU/AGRAVANTE. PRECEDENTE DESTA EGRÉGIA CORTE NESTE SENTIDO. IMPOSSIBILIDADE DA SUBSTITUIÇÃO DA PENHORA POR CAUÇÃO IDÔNEA. AUSÊNCIA DE INDICAÇÃO EXPRESSA DA GARANTIA A SER PRESTADA. PRESTÍGIO AO PRINCÍPIO DA SEGURANÇA JURÍDICA. RECURSO CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 166-170, e-STJ.
+Nas razões de recurso especial (fls. 172-192, e-STJ), a insurgente alega ofensa aos arts. 300 e 1.022, II, do CPC/15. Sustenta, em síntese: a) negativa de prestação jurisdicional; b) a ausência dos requisitos justificadores da concessão da tutela de urgência.
+Contrarrazões às fls. 209-239, e-STJ.
+Em juízo de admissibilidade (fls. 242-247, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo previsto no artigo 1.042, CPC/15 (fls. 279-294, e-STJ). Contraminuta às fls. 306-342, e-STJ.
+Em decisão monocrática (fls. 405-410, e-STJ), negou-se provimento ao reclamo, ante a ausência de negativa de prestação jurisdicional e a incidência das Súmulas 7/STJ e 735/STF.
+Daí o presente agravo interno (fls. 413-430, e-STJ), no qual a insurgente pugna pela reconsideração e pelo provimento do apelo extremo.
+Impugnação às fls. 434-444, e-STJ.
+Em petição de fls. 453-466, e-STJ, a agravante FIAT CHRYSLER argui a perda de objeto da demanda.
+Por sua vez, RESENAUTO VEÍCULOS, após expor o contexto fático da demanda, requer a intimação da parte adversa a apresentar desistência do recurso.
+É o relatório.
+Decido.
+O feito encontra-se prejudicado.
+1. Cuida-se, na origem, de agravo de instrumento manejado contra decisão proferida pelo juízo da 2ª Vara Cível de Resende/RJ, o qual deferiu, em parte, tutela provisória requerida por RESENAUTO VEÍCULOS. Na oportunidade, determinou-se o bloqueio de ativos financeiros pertencentes à ora recorrente, FIAT, em valor correspondente aos componentes obsoletos que, na ótica da autora, deveriam ser recomprados pela montadora.
+No julgamento do aludido recurso, o Tribunal de Justiça do Estado do Rio de Janeiro manteve o posicionamento estabelecido pelo juízo de primeiro grau, ante a constatação de que estariam presentes o periculum in mora e fumus boni iuris.
+Verifica-se, todavia, que, na ação principal, a ora recorrente suscitou a incompetência do juízo fluminense, sob o fundamento de que existiria cláusula contratual que elencaria o juízo de Betim/MG como competente.
+Esse pleito foi acatado pelo juízo de Resende/RJ, o qual determinou o envio dos autos a Betim/MG. Após a remessa dos autos, o pleito liminar foi reavaliado pelo juízo mineiro, ora declarado como competente, o qual, todavia, manteve os efeitos da decisão liminar inicialmente deferida.
+Nota-se, portanto, tal como exposto por ambas as partes, que a decisão liminar que dá origem aos presentes autos, proferida pelo juízo de Resende/RJ, não se encontra mais no mundo jurídico, na medida em que foi substituída por aquela proferida pelo juízo de Betim/MG, o qual, em atenção ao previsto no art. 64, § 4º, do CPC/2015, ratificou a tutela provisória antes deferida.
+Realmente, no presente momento, outro é o título judicial que rege a pretensão então debatida nos presentes autos.
+Nesse contexto, relevante a menção aos seguintes precedentes:
+PROCESSUAL CIVIL. ALEGADA AUSÊNCIA DE REQUISITOS PARA CONHECIMENTO DO AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. ESVAZIAMENTO DE INTERESSE E UTILIDADE DO RECURSO. PERDA DE OBJETO. OCORRÊNCIA. NÃO PROVIMENTO.
+1. "A superveniência de sentença de mérito que decreta a improcedência do pedido cautelar prejudica, pela perda de objeto, o julgamento de recurso especial tirado contra acórdão proferido em agravo de instrumento interposto contra decisão interlocutória que examinou o pedido de liminar" (REsp 1133062/RS, Rel. p/ Acórdão Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/12/2017).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.361.947/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/5/2020, DJe de 6/5/2020.)
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA DECISÃO LIMINAR DE RELATOR EM AGRAVO DE INSTRUMENTO. JULGAMENTO DE MÉRITO. EXTINÇÃO DO RECURSO. PERDA SUPERVENIENTE DO OBJETO DO MANDAMUS. JULGAMENTO PREJUDICADO. AGRAVO DESPROVIDO.
+1. "O julgamento do mérito do agravo de instrumento importa na perda de objeto do mandado de segurança e, por consequência, do presente recurso ordinário, que se voltava contra a decisão deferitória da tutela antecipada conferida ao recurso" (AgInt no RMS 60.965/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/12/2020, DJe 17/12/2020) 2. Na hipótese, o mandado de segurança foi impetrado em face de decisões liminares proferidas em agravos de instrumento. Com o julgamento do mérito dos agravos nas respectivas ações originárias, os recursos foram extintos, em razão da perda de seu objeto, o que resultou, por consequência, na perda superveniente do objeto do mandado de segurança e do recurso ordinário.
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 65.006/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Logo, de rigor a extinção do feito, ante a perda superveniente de seu objeto.
+2. Ante o exposto, reconsidera-se a decisão de fls. 405-410, e-STJ, e, com fulcro no art. 34, XI, do RISTJ, julga-se prejudicado o recurso especial, ante a perda superveniente de seu objeto.
+Publique-se.
+Intimem-se.
