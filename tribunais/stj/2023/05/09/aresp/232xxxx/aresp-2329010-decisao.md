@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDREW CLARK LENNER contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+INDENIZATÓRIA - Consumidor - Empreendimento imobiliário - Vícios construtivos inviabilizando a utilização da garagem adquirida, pela sua dificuldade - Indenização pela depreciação devida - Recurso das rés desprovidos e apelação adesiva não conhecida, com condenação por litigância de má-fé.
+EMBARGOS DE DECLARAÇÃO - Contradição - Apelação adesiva que deve ser conhecida, mas negado provimento, pela não caracterização do dano moral - Condenação por litigância de má-fé afastada porque inexistente - Recurso recebido.
+Quanto à controvérsia, a parte alega divergência de interpretação jurisprudencial em relação ao(s) arts. 14 do CDC; e 186 do CC, no que concerne à configuração de dano moral presumido (in re ipsa) nos contratos de compra e venda de imóvel com garagem, quando esta é entregue com vício que inviabiliza seu uso ou nem sequer é entregue, restando o comprador com um imóvel sem garagem, trazendo a seguinte argumentação:
+Questão de direito: o descumprimento de contrato de compra e venda de imóvel com garagem que é entregue ao comprador sem a garagem é dano moral in re ipsa, pois decorre do próprio descumprimento contratual, independente de prova do efetivo abalo nos direitos da personalidade do consumidor. Essa interpretação está de acordo com o disposto nos artigos 14 do CDC e 186 do CC.
+ ..
+O acórdão eleito como paradigma para a comprovação do dissídio jurisprudencial é do Tribunal de Justiça do Estado do Paraná e foi proferido na vigência do Código de Processo Civil de 2015. Trata-se de acórdão proferido na Apelação n. 0019444-29.2018.8.16.0014, de relatoria do Desembargador HÉLIO HENRIQUE LOPES FERNANDES LIMA, da 8ª.
+Câmara Cível, julgado em 04 de maio de 2020, cujas informações estão resumidas no seguinte quadro:
+ ..
+Portanto, enquanto o acórdão recorrido sustenta que a inadimplência do contrato de compra e venda em razão da ausência de vaga de garagem não gera dano moral, o acórdão paradigma tem o entendimento contrário, sustentando que efetivamente há dano moral quando a garagem é entregue em tamanho menor, por ser evidente que tal fato ultrapassa a esfera de mero aborrecimento.
+Cumpre notar que o acórdão recorrido contraria o entendimento do próprio Tribunal de São Paulo, que em casos semelhantes vem reconhecendo a situação como dano in re ipsa. Segue julgado nesse sentido: (fls. 1071/1075).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
