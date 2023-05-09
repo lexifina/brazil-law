@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 71):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INFORMAÇÕES SOBRE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. ORDEM JUDICIAL AUTORIZADORA. EXPEDIÇÃO DE OFÍCIO JUDICIAL. NÃO CABIMENTO.
+Incabível a expedição de ofício ao credor fiduciário, para que venham aos autos informações acerca de contrato de alienação fiduciária de bem em nome da parte executada, quando já houver ordem judicial autorizando que o próprio exequente tenha acesso às informações.
+Opostos embargos declaratórios, foram rejeitados (fls. 96/100).
+A parte recorrente aponta violação aos arts. 797, 829, § 2º, 831, 835, 854 e 1.022, II, todos do CPC; 10 e 11 da Lei nº 6.830/80; e 1º e 3º da Lei Complementar nº 105/2001. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo restou omisso acerca das questões neles suscitadas; (II) a execução deve ser realizada no interesse do credor; e (III) "o deferimento e a expedição de ofício ao credor financeiro é medida imperativa para garantir a efetividade e celeridade do processo executivo na obtenção de resultados não pode ser realizada diretamente pelo exequente, depende de seu requerimento e prática pelo Judiciário" (fl. 115).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por sua vez, a questão trazida à discussão restou assim decidida no acórdão recorrido (fl. 73):
+É ônus da parte exequente empreender diligências na busca da satisfação de seu crédito, sendo-lhe garantida a alternativa de auxílio judicial nas hipóteses em que evidenciada a impossibilidade de obtenção de informações acerca dos bens que integram o patrimônio do executado, mormente quando tais informações encontram-se resguardadas pelo sigilo (art. 5º, XII, da CF).
+No caso, há decisão autorizando que o próprio exequente tenha acesso às informações, de maneira que não há necessidade que a Secretaria judicial empreenda as diligências que são de interesse exclusivo do credor e que podem ser por este diretamente obtidas.
+Havendo ordem judicial, as diligências acerca de informações sobre o contrato de alienação fiduciária podem ser efetuadas pelo próprio credor, sem necessidade de nova intervenção judicial.
+Nesse contexto, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar a indispensabilidade da providência judicial pleiteada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
