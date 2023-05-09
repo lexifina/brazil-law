@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ROMERO PEIXOTO RIBEIRO,, contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 283/STF (e-STJ, fls. 813-814).
+A parte agravante alega que houve erro de fato, bem como não ser o caso da incidência da Súmula 283/STF. Reitera que, ao validar a citação por edital sem esgotar todas as tentativas de localizar o recorrente, o prazo prescricional foi indevidamente suspenso por uma década, acarretando graves prejuízos a ele.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, para que seja dado provimento ao recurso especial.
+É o relatório.
+Decido.
+Em face dos argumentos trazidos no agravo regimental, reconsidero a decisão agravada.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Cinge-se a controvérsia sobre a ilegalidade da suspensão do prazo prescricional entre 3/12/2001 a 01/11/2011, tendo em vista que a primeira citação por edital apresentou irregularidades.
+Antes de proceder à citação por edital no processo penal brasileiro, faz-se necessário o prévio esgotamento de todas as possibilidades de localização do réu ou investigado, consoante o regramento legal.
+Com efeito, o art. 362 do Código de Processo Penal dispõe que ao menos três tentativas de citação pessoal devem ser realizadas, em horários e dias diversos, em endereços distintos, tais como o domicílio do réu ou investigado, o local de trabalho ou de atividade empresarial e a residência de parentes ou conhecidos próximos.
+Após a realização de pelo menos três tentativas de citação pessoal em horários e dias diversos, em endereços distintos, nos termos do art. 362, parágrafo único, do Código de Processo Penal, caso infrutíferas, o oficial de justiça deve emitir certidão de que o réu ou investigado encontra-se em local incerto e não sabido. Com base nessa certidão, o juiz poderá determinar a citação por edital, conforme estabelecido no §1º do mesmo dispositivo legal.
+Vale destacar que, nos termos do art. 366 do Código de Processo Penal, enquanto o acusado estiver em local incerto e não sabido, o processo e o prazo prescricional devem ser suspensos. Para tanto, é imprescindível a realização de pelo menos três tentativas de citação pessoal, em conformidade com o disposto no art. 362, parágrafo único, do mesmo diploma legal, antes da citação por edital.
+Compulsando-se os autos, verifica-se que foi diligenciado apenas duas vezes para proceder a citação do réu, a qual foi infrutífera (e-STJ, fl. 65). Em audiência o réu não compareceu e o juízo criminal determinou a citação por edital. Logo, houve desrespeito as prescrições legais, o que invalida, por isso, a citação por edital.
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIAS DE FATO. CITAÇÃO POR EDITAL. FALTA DE DILIGÊNCIAS MÍNIMAS NA LOCALIZAÇÃO DO RÉU. NULIDADE CONFIGURADA. PRETENSÃO PUNITIVA PRESCRITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento deste STJ, a citação por edital (capaz de ensejar a suspensão do prazo prescricional, nos termos do art. 366 do CPP) exige que sejam exauridos os meios disponíveis para localização do acusado.
+2. "As instâncias ordinárias não demonstraram o esgotamento das vias para citação pessoal do agravado, fazendo menção apenas à frustração dos mandados de prisão, de modo que demonstrado o prejuízo, tanto que suspenso o prazo prescricional. Assim, a finalidade do ato não restou atingida, pois inquinado de vício insanável o processo, devendo, portanto, ser reconhecida a sua nulidade" (AgRg no AREsp n. 353.136/MT, de minha relatoria, Quinta Turma, julgado em 2/4/2019, DJe de 8/4/2019).
+3. Inválida, por isso, a citação por edital, do que decorre a revogação da suspensão do prazo prescricional. Prescrição da pretensão punitiva configurada, pelo decurso de mais de 3 anos entre o recebimento da denúncia e a sentença.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.194.288/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+No entanto, em relação à segunda citação, que ocorreu em 01/11/2011, o acusado já se encontrava preso preventivamente desde 03/09/2011. Nesse sentido, verifica-se que a citação pessoal realizada em 01/11/2011 deve ser considerada válida, uma vez que o acusado já se encontrava à disposição da Justiça, tendo sido, inclusive, expedido mandado de prisão em seu desfavor.
+Dessa forma, entendo que que suspensão do prazo prescricional inicia-se a partir de 01/11/2011, tendo em vista que, apesar da primeira citação por edital apresentar vício, a segunda citação foi realizada de forma válida e efetiva, uma vez que o acusado já se encontrava sob custódia.
+Ante o exposto, em juízo de reconsideração, dou provimento ao agravo regimental para, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dar provimento ao recurso especial, a fim de a suspensão do prazo prescricional inicia-se a partir de 01/11/2011, conforme fundamentação supra.
+Publique-se. Intimem-se
