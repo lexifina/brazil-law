@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VICTOR DAVID BEZERRA ROJAS, contra decisão monocrática proferida pelo Tribunal de Justiça do Estado de Roraima, em que o relator indeferiu a inicial da Revisão Criminal n. 9000445-43.2023.8.23.0000/RR, extinguindo o processo, sem julgamento do mérito.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 9 anos e 11 meses de reclusão, em regime inicial fechado, além de 775 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 13/21).
+Consta da petição inicial informação no sentido de que o Tribunal estadual manteve a condenação.
+Impetrado habeas corpus perante o Tribunal local, o relator o conheceu como revisão criminal e indeferiu a inicial (e-STJ fls. 9/12).
+No presente writ (e-STJ fls. 3/8), o impetrante afirma que o paciente sofre constrangimento ilegal em virtude da negativa de incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, pois não restou comprovado nos autos a existência de reincidência do Paciente que justificasse o afastamento do benefício (e-STJ fl. 4).
+Alega que: Da certidão de antecedentes criminais do Paciente, podemos inferir que a aludida reincidência é referente a condenação proferida em dezembro de 2015 pelo juízo da 3ª Vara Criminal da Comarca de Boa Vista, a qual teve seu trânsito em julgado reconhecido - para a acusação e para a defesa - em 26/09/2016 (e-STJ fls. 5/6), sendo que Conforme se pode inferir da denúncia que ensejou a condenação objeto do presente recurso, os fatos que culminaram na acusação de tráfico ocorreram no dia 27 de abril de 2016, ou seja, 5 meses antes do trânsito em julgado. (e-STJ, fl. 6).
+Diante disso, requer, liminarmente, que o paciente possa aguardar em liberdade o julgamento definitivo desta impetração e, no mérito, o redimensionamento de suas sanções, ante o reconhecimento da incidência do tráfico privilegiado.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, no caso, seja concedida a ordem para aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 ao paciente.
+No caso específico destes autos, observo que a tese defensiva no sentido do afastamento da reincidência e consequente aplicação da minorante do tráfico privilegiado já havia sido veiculada no feito conexo, qual seja, no HC n. 808.099/RR, ocasião em que Quinta Turma, por unanimidade, ao negar provimento ao agravo regimental interposto, consignou que a insurgência não foi submetida à apreciação e, tampouco analisada pela Corte estadual, tratando-se, portanto, de matéria nova, somente aventada nesta impetração, o que impede seu conhecimento diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância, inviabilizando novo exame nesta oportunidade.
+Em se tratando de mera repetição de pedido anterior, o não conhecimento da matéria efetivamente é medida que se impõe. Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. MERA REITERAÇÃO DE HABEAS CORPUS CONEXO. WRIT INDEFERIDO LIMINARMENTE.
+1. O pedido de reconsideração apresentado pela defesa dentro do prazo legal deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade das formas processuais.
+2. O presente mandamus possui as mesmas causas de pedir e pedido do HC 754.379/SP, verificando, assim, tratar-se de mera reiteração daquele habeas corpus.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 760.091/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022.)
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. ABSOLVIÇÃO QUANTO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO E REVISÃO DA DOSIMETRIA DA PENA. REITERAÇÃO DE PEDIDO JÁ DECIDIDO.
+1. Configurada a reiteração de pedido, está o Relator autorizado a indeferir liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+2. Agravo regimental improvido.
+(AgRg no HC n. 771.832/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006, E ART. 2.º, DA LEI N. 8.072/1990. PLEITO DE REDUÇÃO DA PENA E DE ABRANDAMENTO DO REGIME PRISIONAL INICIAL. REITERAÇÃO DO PEDIDO. MATÉRIA JÁ VEICULADA, COM A MESMA CAUSA DE PEDIR, NO ARESP N. 1.222.516/MG. DECISÃO DEFINITIVA DO STJ. HIPÓTESE DE INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+- A defesa pretendeu, com o mandamus, que a pena definitiva do agravante fosse reduzida e que se abrandasse o seu regime prisional inicial.
+- O mandamus, porém, consiste em mera reiteração do pedido formulado no AREsp n. 1.222.516/MG, o qual, ademais, tinha a mesma causa de pedir.
+- Naquela oportunidade (julgamento do AgRg nos EDcl no AREsp n.º 1.222.516/MG) decidiu-se que "houve fundamentação concreta quando do não reconhecimento do tráfico privilegiado, consubstanciada na conclusão de que o recorrente se dedica às atividades criminosas, ante a apreensão de quantidade elevada de drogas e pelas demais circunstâncias que envolveram o delito, elementos aptos a justificar o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006".
+Outrossim, ficou decidido que, "considerando o patamar da pena definitiva que, em tese, comportaria o regime semiaberto, foi estabelecido o fechado de forma fundamentada, não havendo, portanto, ilegalidade a ser sanada.".
+- Em casos como o presente, a impetração deve ser inadmitida de plano, nos termos do art. 210, do RISTJ.
+- Agravo regimental desprovido.
+(AgRg no HC n. 762.206/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus.
+Intimem-se.
