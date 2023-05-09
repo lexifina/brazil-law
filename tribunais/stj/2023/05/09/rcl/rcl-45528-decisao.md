@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por WILSON ALVES MAIA contra deliberação exarada pelo eg. TJ/PR, a qual, na compreensão dos reclamantes, não observou as teses firmadas por este STJ no REsp 1.604.412/SC.
+É o relatório.
+Decisão.
+O incidente não merece acolhimento.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc.II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação constitucional deve ser rejeitada porquanto, na hipótese dos autos, o "seu acolhimento tornaria ineficaz o propósito racionalizador implantado pelo regime dos recursos repetitivos." (ut. AgRg na Rcl 29.631/SP, Rel. Min. ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJe 07/03/2017)
+Na hipótese dos autos, contudo, não se verifica a inobservância das teses firmadas por esta Corte no IAC 1. Pelo contrário, observa-se que o Tribunal reclamado aplicou rigorosamente as teses firmadas no precedente acerca da prescrição intercorrente, concluindo que, na espécie, consoante orientação deste STJ "(..) o prazo da prescrição intercorrente começa a fluir um ano contado da entrada em vigor do NCPC, em interpretação conjunta dos arts. 1.056 e §§ 1º e 4º, do art. 921 do mesmo diploma legal. Dessa forma, estando o processo suspenso durante a entrada em vigor do novo código processual civil, o prazo prescricional tem inicio a partir de um ano desta data, e não se inicia automaticamente, como faz crer o agravante." (fls. 60/61)
+Na verdade, constata-se que a pretensão do reclamante, é discutir a conclusão adotada pelo Tribunal reclamado em relação à hipótese concreta dos autos, para além de ampliar o entendimento que fora firmado pelo STJ no mencionado incidente de assunção de competência, desiderato estranho ao instrumento da reclamação.
+2. Do exposto, indefiro liminarmente a presente reclamação, deixando de condenar o reclamante ao pagamento de honorários advocatícios porquanto não angularizada a relação processual, mediante a citação do beneficiário do ato impugnado.
+Por fim, previno ao reclamante que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá ensejar a condenação nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se. Após, arquivem-se.
