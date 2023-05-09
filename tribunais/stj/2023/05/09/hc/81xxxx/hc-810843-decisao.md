@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Joao Victor Lisboa da Silva - investigado pelos delitos de tráfico de drogas e associação para o tráfico, com apreensão de 1.949 g de maconha e 59 g de cocaína -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que denegou a ordem no Habeas Corpus n. 0004458-55.2023.8.19.0000, mantendo a prisão preventiva decretada pela Central de Custódia da comarca da Capital/RJ (Autos posteriormente remetidos para a 1ª Vara Criminal da comarca de Petrópolis/RJ - Autos n. 0800700-06.2023.8.19.0042).
+Alega-se, em síntese, ausência de fundamentação na decretação da prisão cautelar imposta ao paciente, pois não preenchidos os requisitos do art. 312 do CPP.
+Ressalta-se que é cabível, no caso concreto, a aplicação de medidas cautelares diversas.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida (fls. 56/58); as informações foram prestadas (fls. 63/70) e o Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 74/83).
+Em consulta à ação penal na página eletrônica do Tribunal de origem, verifica-se que a denúncia foi r ecebida em 4/4/2023 e a prisão revista e mantida em 10/4/2023.
+É o relatório.
+Pelo que consta destes autos, inexiste, na espécie, ilegalidade quanto à manutenção da prisão preve ntiva do paciente.
+Há diversos precedentes do Superior Tribunal de Justiça que afirmam a idoneidade da fundamentação para manter a prisão preventiva na hipótese em que é decretada com base na gravidade concreta do delito, tirada da elevada quantidade de droga apreendid a e do contexto fático do flagrante - 59 g de cocaína e quase 2 kg de maconha pertencentes à organização criminosa Comando Vermelho .
+Por exemplo, confiram-se estes: AgRg no HC n. 791.808/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/3/2023; AgRg no HC n. 786.921/GO, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023; AgRg no HC n. 765.121/GO, Ministro João Batista Moreira (Desembargador convocado do TRF1), Quinta Turma, DJe 28/3/2023; e AgRg no RHC n. 172.182/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 2/12/2022.
+Correto, portanto, o parecer escrito pela Subprocuradora-Geral da República Ana Borges Coêlho Santos, o qual também adoto como razão de decidir nestes termos: cerifica-se dos autos que, diversamente do alegado pela defesa, a prisão preventiva foi decretada para assegurar a ordem pública com lastro em elementos concretos que denotam a periculosidade do paciente, sobretudo por ter sido flagrado com 59 g de cocaína, acondicionada em 148 frascos plásticos do tipo "eppendort", ostentando a inscrição "CPX CARANGOLA PÓ 5 CV"; e 1.949 g de maconha, havendo indícios de sua participação na organização criminosa denominada "Comando Vermelho" (fl. 79).
+Nesse contexto, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não é possível a aplicação d e nenhuma das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal (RHC n. 105.032/MT, Ministra LAURITA VAZ, SEXTA TURMA, DJe 4/2/2019).
+Com base na jurisprudência e na manifestação ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM (QUASE 2 KG DE MACONHA E 59 G DE COCAÍNA). PRISÃO PREVENTIVA. GRANDE QUANTIDADE DE DROGAS APREENDIDAS E CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER MINISTERIAL ACOLHIDO.
+Ordem denegada.
