@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por WELLINGTON DOS SANTOS SILVA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 397):
+FURTO SIMPLES. Recursos bilaterais. DEFENSIVO. Absolvição. Impossibilidade. Autoria e materialidade bem delineadas. Pretendido reconhecimento da tentativa. Inviabilidade. Inversão da posse do bem, o que se afigura suficiente à consumação. Inteligência da Súmula/STJ, nº 582, mutatis mutandis. DOSIMETRIA. Maior recrudescimento a título de reincidência, pois específica. Fixação do regime fechado. Inaplicabilidade do CP, art. 44. PROVIMENTO UNICAMENTE AO MINISTERIAL.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 414/416).
+Nas razões do recurso especial (e-STJ fls. 425/437), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 33. 65, inciso III, alínea "d", e 67 do CP. Sustenta: (i) a incidência da atenuante da confissão e sua compensação com a agravante da reincidência; (ii) a possibilidade da fixação do regime diverso do fechado para o cumprimento da pena.
+Apresentadas contrarrazões (e-STJ fls. 441/446), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 449/450), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e não provimento do recurso (e-STJ fls. 483/487).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, a jurisprudência desta Corte Superior de Justiça é no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes. Inteligência da Súmula n. 545/STJ (Quando a confissão for utilizada para a formação do convencim ento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal).
+No presente caso, a Corte de origem consignou que WELLIGTON permaneceu em silêncio na Repartição Policial (e-STJ fl. 10) e não admitiu o cometimento do crime em juízo (e-STJ fl. 401).
+Ora, não tendo havido confissão, não se pode falar na aplicação da referida atenuante.
+No que tange ao regime inicial de cumprimento de pena, de acordo com a Súmula 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+No caso em análise, embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos de reclusão, o regime inicial fechado encontra-se justificado, uma vez que além da reincidência, houve a consideração de circunstância judicial negativa (antecedentes) para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+Ante o exposto, com com fundamento no art. 932, inciso VIII do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, e na Súmula n. 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
