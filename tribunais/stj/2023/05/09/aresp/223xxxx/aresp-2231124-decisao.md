@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por KOBE ELIJA VEÍCULOS LTDA, contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 5 e 7 do STJ e inexistência de afronta aos artigos 489 e 1.022 do CPC/2015 (e-STJ fls. 631/637).
+O Tribunal de origem negou provimento ao recurso, em julgado que recebeu a seguinte ementa (e-STJ fls. 547/548):
+Direito dos Contratos. Ação de indenização por danos materiais. Serviços de Engenharia. Erros na construção. Prejuízo causado por volta de R$ 54.410,29, referente ao consumo de água. Sentença de improcedência.
+Apelação da parte autora afirmando que a sentença interpretou equivocadamente o laudo pericial, produzido unilateralmente. Sentença foi proferida com fundamentação insuficiente, e que não houve quitação ou compensação de valores, diante da falta da prova de pagamento.
+O perito responde que a boia foi instalada de forma errada, porém, foi virada e consertado o problema.
+MTM -Eiffel Serviços Técnicos de Instalações Ltda, contratada diretamente pela apelante para executar todas as instalações das obras em pauta, tanto elétricas como hidráulicas, águas pluviais, esgoto e afins.
+O valor correspondente ao excesso de consumo de água da CEDAE foi descontado da empresa de instalações Eiffel. Assim, a Autora já foi ressarcida de seu prejuízo, conforme laudo pericial.
+Apelante não se desincumbiu de comprovar os fatos constitutivos de seu direito, ônus que lhes competia, conforme preceitua o art. 373, I, do CPC.
+Desprovimento do recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 580/590).
+No recurso especial (e-STJ fls. 592/606), fundamentado no art. 105, III, "a", da CF, a recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC/2015, por ausência de prestação jurisdicional,
+(ii) art. 408 do CPC/2015, sustentando que as declarações constantes de documento particular se presumem verdadeiras somente em relação aos seus signatários, não vinculando terceiros. Afirmou, nesse contexto, que o acórdão interpretou equivocadamente as provas produzidas unilateralmente,
+(iii) arts. 320, 368 e 369 do CPC/2015, sob o fundamento de que não teriam sido observados os requisitos formais obrigatórios para o reconhecimento da validade do instituto da quitação/compensação. Ressaltou que "a declaração de fls. 352/353 não é meio idôneo para comprovar o pagamento e consequentemente a validade da quitação" (e-STJ fls. 604/605). Defendeu, assim, que não houve quitação ou compensação de valores, diante da falta da prova de pagamento.
+Contrarrazões apresentadas (e-STJ fls. 620/629).
+No agravo (e-STJ fls. 684/704), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 719/726).
+É o relatório.
+Decido.
+I - Negativa de prestação jurisdicional
+A recorrente apontou violação do art. 1022, II, do CPC/15, sob o argumento de que o Tribunal a quo foi omisso quanto à análise das seguintes teses (e-STJ fls. 599/600):
+(a) da impossibilidade de presumir verdadeira declaração constante de documento particular que não vinculas partes e não prova o fato em si; (b) da inexistência de prova de pagamento ou de qualquer fato impeditivo ou extintivo do direito da ora recorrente de ser ressarcida pela desastrada administração da obra pela KONCRETIZE; (c) da falta de clareza de que houve adimplemento, não podendo ser considerada válida a quitação ou compensação sem que estivessem preenchidos os requisitos previstos do art. 320, 368 e 369 do CC; e (d) da inadmissibilidade do julgador ter desprezado a prova constante dos autos e julgado a causa com base em conjectura, sem critério legalmente aceitável, bem como valorado de forma incorreta o material probatório, compelindo a parte a produzir o que a doutrina e a jurisprudência denominam de "prova diabólica", de dificílima produção que a recorrente estaria compelida .
+Da leitura do aresto embargado, verifica-se que as alegadas violações não se configuram, porque o Tribunal estadual, ao apreciar os recursos interpostos pela parte, dirimiu, de forma clara e integralmente, a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela parte recorrente.
+Consoante jurisprudência desta Corte Superior, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, tampouco precisa se pronunciar sobre todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido são os seguintes precedentes: AgRg no AREsp n. 55.751/RS, Terceira Turma, Relator o Ministro Paulo de Tarso Sanseverino, DJe 14/6/2013, AgRg no REsp n. 1.311.126/RJ, Primeira Turma, Relator o Ministro Napoleão Nunes Maia Filho, DJe 22/5/2013, REsp n. 1244950/RJ, Terceira Turma, Relator o Ministro Sidnei Beneti, DJe 19/12/2012, e EDcl no AgRg nos EREsp n. 934.728/AL, Corte Especial, Relator o Ministro Luiz Fux, DJe 29/10/2009.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+II - Da presunção de veracidade
+O Tribunal de origem consignou, com base nos elementos fático-probatórios, que, no caso em exame, a obra foi entregue nos termos da cláusula 4.8 do contrato, com a redação modificativa feita em termo aditivo, concordando a ora recorrente com a vistoria e sem ressalvas. Concluiu, ainda, que a perícia feita nestes autos não foi de forma unilateral, sendo certo que foi observado o contraditório amplo, inclusive com ambas as partes apresentando seus quesitos. Nesse contexto, declarou que não houve o dano alegado na inicial, porque a quantia reclamada foi devidamente ressarcida em descontos nos pagamentos à empresa EIFFEL.
+Contudo, no recurso especial, a recorrente sustenta tão somente a violação do art. 408 do CPC/2015, alegando a impossibilidade de se presumir como verdadeiras as declarações constantes de documento particular.
+Verifica-se, portanto, que a parte não impugnou fundamento do acórdão recorrido, apresentando alegação dissociada do que ficou decidido no aresto. Incidem, assim, as Súmulas n. 283 e 284 do STF.
+III - Do ressarcimento do prejuízo
+A insurgente alega violação dos arts. 320, 368 e 369 do CPC/2015, sustentando, em síntese, que não teriam sido observados os requisitos formais obrigatórios para o reconhecimento da validade da quitação/compensação dos prejuízos.
+O TJRJ, ao analisar a controvérsia, assim decidiu (e-STJ fls. 549/552):
+Cinge-se a controvérsia acerca da existência ou não dos danos materiais a serem pagos pela ré diante de problemas na construção e instalação das boias das caixas d"água em concessionária de veículos.
+Constata-se que a questão está sendo discutida em várias outas ações, dentre elas 0466470-23.2012.8.19.0001, 0388541-11.2012.8.19.0001, 0332876-10.2012.8.19.0001, 0434616-11.2012.8.19.0001 e 0283239-85.2015.8.19.0001.
+Afirma a apelante que houve erro de execução de obra por parte da ré, que causou enorme prejuízo de ordem material.
+Sustenta que o dano material é no importe de R$ 54.410,29 (cinquenta e quatro mil, quatrocentos e dez reais e vinte e nove centavos), referente ao consumo de água.
+A empresa ré/apelada, neste projeto, atuou como prestadora de serviços de engenharia através de obra por administração, conforme item 1.1 do contrato firmado entre as partes.
+A parte autora, ora apelante, como contratante tinha a obrigação de contratar arquitetos e demais técnicos que projetariam o empreendimento, e fornecer as diretrizes básicas para o empreendimento, conforme cláusulas 3.1 e 3.2.
+Significa que todas as etapas da construção dependiam, essencialmente, da intervenção e anuência da apelante, seja para validar o próximo passo, concordar ou indicar fornecedores e entregar os recursos necessários à conclusão da obra.
+ ..
+Remetidos os autos ao Perito Judicial, e questionado quanto à disposição das boias e dos ladrões dentro das caixa s d"água, o perito responde que a boia foi instalada de forma errada, porém, foi virada e consertado o problema.
+O perito confirma que foi a empresa MTM-Eiffel Serviços Técnicos de Instalações Ltda , contratada diretamente pela apelante para executar todas as instalações das obra s em pauta, tanto elétricas como hidráulicas, águas pluviais, esgoto e afins, uma vez que constam documento para fornecimento do material e mão de obra, para os serviços, e os recibos de execução de aditivos ao contrato original.
+Nesse sentido a empresa apelante, contratou outra empresa, que não a apelada, para desenvolver a obra referente a parte hidráulica.
+Questionado o perito, o mesmo afirmou positivamente, baseado nos documento de fls. 246/247, que a apelante informou à apelada que descontaria as diferenças das contas da CEDAE da empresa MTM - Eifel Serviços Técnicos de Instalações Ltda, no fechamento de prestações de contas finais, por entender que o desperdício de água foi de responsabilidade dela.
+O mesmo perito, confirma que o prejuízo reclamado pela autora/apelante, foi ressarcido pela empresa contratada para executar os respectivos sistemas hidráulicos do imóvel, através de compensação em prestações de contas final.
+O perito conclui:
+Isto Posto, após análise dos autos e da documentação ofertada é possível concluir que a parte Ré procedeu instalação incorreta da boia da caixa de água, do sistema de reuso, e que somado à falha na operação do registro de manobra, pela parte Autora, resultou em vazamento de água da CEDAE, para o sistema de reuso sem aproveitamento.
+Cabe ressaltar que o valor correspondente ao excesso de consumo de água da CEDAE foi descontado da empresa de instalações Eiffel. Assim, a Autora já foi ressarcida de seu prejuízo.
+Permanecendo, no entanto, a superior Decisão à MM. Juíza Patrona do feito, na forma do art. 479 do Novo Código de Processo Civil.
+A existência de vício praticado pela apelada não restou comprovado na demanda, uma vez que para a referida obra que apresentou defeitos, foi contratada nova empresa, e que os referidos prejuízos causados à apelante, foram devidamente ressarcidos em descontos nos pagamentos à contratada.
+Nesse sentido, a apelante não se desincumbiu de comprovar os fatos constitutivos de seu direito, ônus que lhe competia, conforme preceitua o art. 373, I, do CPC.
+Como se vê, o órgão julgador, diante das peculiaridades do caso concreto, tendo por base o conjunto fático e probatório dos autos e a interpretação das cláusulas do contrato firmado entre as partes, concluiu que "O mesmo perito, confirma que o prejuízo reclamado pela autora/apelante, foi ressarcido pela empresa contratada para executar os respectivos sistemas hidráulicos do imóvel, através de compensação em prestação de contas final" (e-STJ fl. 551).
+Para desconstituir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de que não seria possível reconhecer a quitação/compens ação dos prejuízos, seria imprescindível a análise de cláusulas contratuais e a incursão no acervo fático-probatório da demanda, providências vedadas na via estreita do recurso especial, ante os óbices estabelecidos pelas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do val or arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
