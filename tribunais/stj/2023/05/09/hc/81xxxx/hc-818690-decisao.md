@@ -1,0 +1,9 @@
+DECISÃO
+A paciente alega sofrer coação ilegal, porque não houve expedição de guia de execução para o cumprimento da pena.
+A narração da petição inicial é deficiente, não contém elementos necessários para a compreensão de pretensa ilegalidade.
+Infere-se da peça que: a) a postulante foi condenada a pena privativa de liberdade, no regime inicial aberto, substituída por duas restritivas de direitos e b) "o feito principal encontra-se no Superior Tribunal de Justiça desde março de 2022 (e-doc 10332, dos autos originários)" (fl. 5).
+A advogada não indica nem comprova situação de ré presa por sentença condenatória recorrível, passível de ensejar a expedição de guia de recolhimento provisória. Também não delineia se a condenação prolatada contra a paciente transitou em julgado ou o número do processo em trâmite perante este Superior Tribunal, que deve ser baixado para "a Vara de origem, São Pedro da Aldeia/RJ, com a expedição de carta de sentença" (fl. 8).
+As informações são imprescindíveis para a compreensão de pretensa ilegalidade, pois, de forma distinta do que ocorre em relação às penas privativas de liberdade - que permitem execução provisória (e a expedição de guia antes do esgotamento das vias recursais) -, as penalidades restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação.
+Não está claro se a defesa pretende dar início à execução provisória das penas restitivas de direitos - o que estaria em desacordo com o que dispõe a Súmula n. 643/STJ. Nem quais benefícios do sistema progressivo que faz jus e pretende requerer ao Juiz competente. Apesar da informalidade do habeas corpus, é importante que o impetrante redija a sua petição inicial com cuidado, a fim de possibilitar a compreensão e análise do remédio constitucional, o que não diviso.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
