@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se recurso especial interposto por particular contra decisão proferida pelo Tribunal Regional Federal da 3ª Região.
+Alega o recorrente, preliminarmente, violação do art. 1.022, II, do CPC; e, no mérito propriamente dito, aponta vulneração do art. 493 do CPC.
+Inadmitido o recurso na origem, foi interposto o presente agravo.
+Sem contrarrazões.
+Passo a decidir.
+De início, saliente-se que o art. 1.022, II, do CPC prevê que os embargos de declaração são cabíveis quando houver, no acórdão ou na sentença, omissão.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser patente e seu exame imprescindível para o enfrentamento da quaestio.
+No presente caso, quanto ao alegado vício de julgamento, assiste razão à parte recorrente.
+Consta do apelo especial que:
+Isso porque, em que pese no momento do requerimento administrativo, o tempo de serviço/contribuição não fosse suficiente para a concessão da aposentadoria pleiteada, verifica-se que, após tal data o autor continuou trabalhando em área de risco e vertendo contribuições à autarquia ré, motivo pelo qual pode lhe ser assegurado o direito à contagem do tempo de serviço contribuído até a data em que completou os 25 anos de atividade especial, conforme requerido no pedido 07. e da exordial. A Egrégia Nona Turma do Tribunal Regional Federal da 38 Região proferiu decisão rejeitando os Embargos de Declaração, sem se manifestar quanto ao tema, ofendendo, portanto, o inciso II do artigo 1.022 do Código de Processo Civil, conforme a seguir será demonstrado. (e-STJ fl. 361)
+De fato, segundo o acórdão recorrido:
+Ressalto, no mais, a impossibilidade de concessão de aposentadoria especial com reafirmação da DER, tendo em vista que a análise de atividade especial não pleiteada na inicial configuraria, nesta fase processual, inovação do pedido, providência não admitida pela legislação. (e-STJ fl. 351)
+Porém, de acordo com o que foi reconhecido pela instância de origem, quando do ajuizamento da ação o autor não teria reunido todas as condições para obter aposentadoria especial, mas, segundo afirmava o demandante desde a apelação (seguida de aclaratórios e apelo especial), os requisitos foram implementados após a distribuição da inicial, fato que poderia ser levado em conta no julgamento.
+O Superior Tribunal de Justiça firmou o entendimento no julgamento do Tema 995, julgado sob o rito dos recursos repetitivos, de que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+Aliás, no referido julgamento, o relator do precedente, Min. Mauro Campbell Marques, deixou expressamente consignado em seu voto que "há possibilidade de a prova do fato constitutivo do direito previdenciário ser realizada não apenas na fase instrutória no primeiro grau de jurisdição, mas após a sentença, no âmbito da instância revisora".
+Melhor dizendo, alegando ter havido a preclusão sobre a matéria, a Corte Regional contrariou o entendimento vinculante do STJ, deixando de examinar a possibilidade de reafirmação da DER no caso concreto, o que implicou omissão (violação ao art. 1.022, II, do CPC).
+A devolução dos autos à origem é necessária porque, para se aferir sobre o atendimento dos requisitos após o ajuizamento da ação, será necessário se imiscuir em questão fático-probatória inviável de ser aferida nesta Corte (Súmula 7/STJ).
+Ante o exposto, CONHEÇO DO AGRAVO e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 1.022, II, do CPC, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos e sane os vícios de integração ora identificados, nos termos da fundamentação desenvolvida nesta decisão.
+Publique-se. Intimem-se.
