@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que julgou demanda relativa à incidência de juros moratórios e remuneratórios em diferenças de correção monetária, expurgos inflacionários, em caderneta de poupança.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 67):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE COBRANÇA DE DIFERENÇAS DE CORREÇÃO MONETARIA EM CADERNETA DE POUPANÇA. ATUALIZAÇÃO MONETÁRIA PELOS ÍNDICES DA POUPANÇA. A correção monetária para atualização das diferenças devidas a título de rendimento da caderneta de poupança deve ser calculada pelos índices de correção da própria caderneta de poupança, sem prejuízo dos expurgos dos planos subsequentes. Súmulas 32 e 37 do TRF4. Afastado o IGP-M, fixado em sentença.
+JUROS REMUNERATÓRIOS E MORATÓRIOS. DISPOSIÇÕES DE OFÍCIO. Matéria de ordem pública da qual o Tribunal pode conhecer de ofício por forçado efeito translativo dos recursos. São devidos os juros remuneratórios na ordem de 0,5% ao mês, incidindo sobre as diferenças devidas a partir da data que deveria ser creditada a diferença de correção até a data do efetivo pagamento, capitalizados. Os juros de mora, em ações como a presente, ajuizadas já na vigência do novo Código Civil, são devidos no percentual de 1% ao mês, nos termos dos artigos 406 do Código Civil c/c art. 161, § 19 do Código Tributário Nacional, a partir da citação, forte nos artigos 405 do Código Civil e 219 do Código de Processo Civil.
+APELO PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração (fls. 82-87).
+No presente recurso especial, o recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973 (atual art. 1.022), pois, apesar da interposição dos embargos, o Tribunal não se manifestou sobre a controvérsia.
+No mérito, informa que o acórdão estadual contrariou as disposições contidas nos arts. 512 e 515, IV, do CPC/1973, uma vez que impôs encargo, juros remuneratórios, sem o pedido autoral, configurando-se reformatio in pejus.
+Sustenta, outrossim, que "o acórdão recorrido faz incidir sobre a conta de poupança remunerações não postuladas, o que caracteriza a reformatio in pejus e a negativa de vigência aos arts. 512 e 515, IV do CPC, como antes referido, alcançando provimento sem que provocado pela parte interessada, alterando a sentença para agravar a situação do réu. E, pior, no caso dos autos, está extrapolando os limites da lide, já que os juros remuneratórios não foram postulados na petição inicial" (fl. 96).
+Salientou ainda que os juros remuneratórios não se constituem em pedido implícito (não são correção monetária ou juros de mora/legais).
+Não apresentadas as contrarrazões (fl. 100), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 102-107).
+É, no essencial, o relatório.
+Inicialmente, cumpre informar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos n. 2 e 3/STJ).
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 535 do CPC/1973.
+Consoante se infere dos autos, o recorrido manejou ação ordinária, a qual pleiteava o pagamento de diferenças de correção monetária do Plano Verão de uma caderneta de poupança que possuía na extinta Caixa Econômica Estadual.
+O juízo de primeiro grau fixou, em sentença, a incidência apenas dos juros moratórios. O Estado apelou para que fossem excluídos os expurgos da Súmula n. 37 do TRF que estavam incluídos no valor da condenação definido na sentença.
+Ao julgar a apelação, o Tribunal de origem "acresceu à condenação os juros remuneratórios de 0,5% ao mês, que não foram deferidos em sentença, não foram objeto de apelo da parte adversa" (fl. 79)
+Com efeito, observa-se que o Tribunal de origem, ao abordar a questão, deixou de analisar a alegação da extrapolação da devolutividade do recurso, configurando-se reformatio in pejus, oportunamente suscitada pelo recorrente quando da interposição dos embargos, qual seja: a impossibilidade de concessão de juros remuneratórios de ofício.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 535 do CPC/1973, e em face das questões suscitadas, tenho como necessário o debate acerca da incidência dos juros remuneratórios concedidos de ofício.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC/19 73.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, dou provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para novo julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
