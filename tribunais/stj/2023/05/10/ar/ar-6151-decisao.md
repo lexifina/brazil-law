@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de ação rescisória proposta pela Agência Nacional de Transportes Terrestres - ANTT, na qual objetiva desconstituir o acórdão proferido pela Primeira Turma deste Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial n. º 1.462.281/PR, assim ementado:
+ADMINISTRATIVO. CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRANSPORTE DE PASSAGEIROS. SUSPENSÃO DE AUTORIZAÇÕES. NULIDADE DE ATO ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS. PRESCRIÇÃO. INOCORRÊNCIA. INTERRUPÇÃO. CITAÇÃO VÁLIDA EM AÇÃO ANULATÓRIA. TERMO A QUO. TRANSITO EM JULGADO DA SENTENÇA QUE ANULOU OS ATOS ADMINISTRATIVOS.
+1. O direito de pedir indenização, pelo Princípio da actio nata, surge quando constatada a lesão e suas consequências, fato que desencadeia a relação de causalidade e leva ao dever de indenizar. Precedente: AgRg no REsp 1014923/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014
+2. A citação em ação anteriormente ajuizada, que declara a nulidade do ato administrativo que dá ensejo ao pedido de indenização, constitui causa interruptiva da prescrição, nos moldes dos arts. 202, I, do Código Civil e 219 do CPC. Nesse sentido: AgRg no AREsp 220.416/DF, minha relatoria, Primeira Turma, DJe 18/02/2014.
+3. A questão alusiva à aplicação do art. 9º do Decreto 20.910/32, configura inovação recursal.
+4. Agravo regimental não provido.
+No processo originário, Eucatur ajuizou ação objetivando a condenação da ANTT e da União ao pagamento de indenização por prejuízos decorrentes da invalidação do ato que a autorizou a implantar seções em linhas de transporte rodoviário interestadual de passageiros, no período de 14/11/1996 à 22/12/2004.
+Já na presente ação rescisória, sustenta a ANTT que o prazo prescricional quinquenal para o exercício da pretensão indenizatória em questão teve início em 1996, data do ato administrativo que invalidou a autorização para implantação de novas seções nas linhas de transporte interestadual de passageiros exploradas pela EUCATUR; defende a agência reguladora que não se pode considerar que a citação na ação anulatória n. 96.0l.56592- 2/DF, que restabeleceu as seções em 21/12/2004, tenha interrompido o prazo para o pedido indenizatório.
+Alternativamente, caso se entenda pela interrupção do prazo para a ação indenizatória, a autora sustenta violação do art. 9º do Decreto n. 20.910/32, pois ajuizada a ação em 11/12/2009, mais de dois anos e meio após o trânsito em julgado da ação anulatória para a União, seria necessário reconhecer a prescrição.
+Na decisão de fls. 2285-2287, indeferi o pedido de tutela de urgência, sob o entendimento de que "o acórdão rescindendo baseou-se em firme entendimento jurisprudencial a respeito do tema prescricional, em razão da existência da ação na qual se discutia a anulação do ato que deu causa à lesão sofrida pela administrado".
+Contestação apresentada pela ré às fls. 250-2.274.
+Fora interposto agravo interno pela ANTT, devidamente improvido (fls. 2421-2426).
+É o relatório. Decido.
+De fato, conforme já decidido, esta Corte possui o firme entendimento de que, em homenagem ao princípio do actio nata, o termo inicial do prazo prescricional não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão, conforme determina o art. 189 do Código Civil.
+Na presente hipótese, conforme já decidido na decisão de tutela, o acórdão rescindendo baseou-se em firme entendimento jurisprudencial a respeito do tema prescricional, em razão da existência da ação na qual se discutia a anulação do ato que deu causa à lesão sofrida pelo administrado.
+Ou seja, em razão do ajuizamento da primeira ação judicial - a anulatória n. 96.0l.56592- 2/DF, ocorreu a interrupção do prazo prescricional, que apenas voltou a correr a partir do trânsito em julgado daquele processo.
+Desse modo, pode-se afirmar que a pretensão indenizatória foi exercida pelo ora réu no prazo prescricional cabível.
+Por todo o exposto, julgo improcedente a Ação Rescisória.
+Fixo honorários advocatícios em favor da ré no percentual de 10% do valor atualizado da causa.
+Publique-se. Intimem-se.
