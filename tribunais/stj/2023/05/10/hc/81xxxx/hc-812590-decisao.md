@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de AVERALDO RIBEIRO DE MATOS contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501274-22.2020.8.26.0228).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente à pena de 1 ano e 2 meses de reclusão, inicialmente no regime semiaberto, como incurso no art. 155, caput, do Código Penal (furto).
+Interposta apelação pela defesa, o Tribunal a quo deu parcial provimento ao recurso, reconhecendo a incidência da atenuante da confissão espontânea, mas sem reflexo no quantum total da reprimenda. O julgamento ficou assim resumido (fl. 21):
+"Apelação da Defesa - Furto simples - Apropriação de produtos expostos à venda e fuga sem efetuar o pagamento devido - Consistente depoimento da testemunha e apreensão dos itens subtraídos em poder do réu - Condenação de rigor Pena-base fixada em seu patamar mínimo - Reconhecimento da circunstância atenuante da confissão espontânea - Natureza específica da condenação anterior a permitir a exasperação da pena na segunda etapa da dosimetria - Regime inicial semiaberto mantido, ante a vida pregressa do réu - Recurso de apelação parcialmente provido, mas sem reflexo na pena."
+Opostos embargos declaratórios, foram eles rejeitados.
+Em suas razões, a Defesa pugna pela compensação integral da reincidência específica com a confissão espontânea .
+O Ministério Público Federal opinou pela concessão da ordem, em parecer ementado nestes termos (42):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. FURTO SIMPLES. CONDENAÇÃO RATIFICADA EM SEGUNDO GRAU. INSURGÊNCIA CONTRA DOSIMETRIA PENAL. REINCIDÊNCIA ESPECÍFICA QUE, AO CONTRÁRIO DE MULTIRREINCIDÊNCIA, NÃO OBSTA COMPENSAÇÃO INTEGRAL COM CONFISSÃO ESPONTÂNEA. VEREDITO EM CONFRONTO COM HODIERNA JURISPRUDÊNCIA. PARECER POR NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO E CONCESSÃO DE ORDEM EX OFFICIO PARA INTEGRAL COMPENSAÇÃO DE CONFISSÃO ESPONTÂNEA COM REINCIDÊNCIA NA TOADA DA HODIERNA JURISPRUDÊNCIA PÁTRIA."
+É o relatório.
+Decido
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Inicialmente, confiram-se os fundamentos do acórdão recorrido, no que interessa (fls. 24/25):
+" ..  o apelante ostenta condenação anterior pela prática de crime semelhante ao dos autos, de modo que seu passado não o recomenda.
+A pena-base foi fixada em seu patamar mínimo de 01 ano de reclusão e 10 dias-multa em seu mínimo unitário a míngua de maus antecedentes.
+Na segunda etapa da dosimetria, é de rigor o reconhecimento da circunstância atenuante da confissão espontânea, nos termos da Súmula n. 545 do Superior Tribunal de Justiça, ainda que o réu tenha admitido a acusação tão somente na fase administrativa da investigação, pois optou pela revelia.
+Todavia, à luz da natureza específica da condenação anterior, mantenho a exasperação da pena no patamar de 1/6,tornando-a definitiva em 01 ano e 02 meses de reclusão e 12 dias-multa em seu mínimo unitário.
+Não se trata de reconhecer a preponderância de uma destas circunstâncias sobre a outra, o que seria inadequado a meu ver, mas de compreender que a natureza específica da condenação anterior autoriza a elevação da pena em patamar superior ao mínimo, enquanto a circunstância atenuante da confissão espontânea recomenda a redução em menor fração.
+O regime inicial semiaberto fica mantido, pois a reincidência do acusado obsta a fixação do regime mais brando, que é destinado aos réus primários, nos termos do artigo 33, §2º, do Código Penal."
+Ao que se tem, os fragmentos do julgamento colegiado acima transcritos revelam que a instância ordinária reconheceu a confissão do paciente, nos termos da jurisprudência deste Tribunal Superior, que editou a Súmula n. 545, in verbis:
+Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+Entretanto, olvidou-se do entendimento desta Corte, que vem ressaltando que em se tratando de apenas uma condenação anterior transitada em julgado, não há óbice à compensação integral da atenuante da confissão espontânea com a agravante da reincidência, ainda que específica.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. COMPENSAÇÃO INTEGRAL ENTRE ATENUANTE DA CONFISSÃO E AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. CIRCUNSTÂNCIAS IGUALMENTE PREPONDERANTES. PRECEDENTES. AGRAVO IMPROVIDO.
+1. É cediço que, desde o julgamento do EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+2. Ademais, importa considerar que, no julgamento do HC n. 365.963/SP (Relator Ministro FELIX FISCHER, DJe 23/11/2017), a Terceira Seção desta Corte pacificou entendimento no sentido de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+3. No caso, tendo em vista que o entendimento proferido pelo Tribunal local estava em dissonância com o entendimento desta Corte Superior e ausente circunstância específica para justificar a preponderância da agravante da reincidência sobre a atenuante da confissão espontânea, era devida a compensação integral entre as circunstâncias.
+4. Agravo regimental improvido. (AgRg no HC 677.978/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 16/08/2021)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. ART. 67 DO CÓDIGO PENAL. REINCIDÊNCIA ESPECÍFICA E CONFISSÃO. ÚNICA CONDENAÇÃO ANTERIOR. COMPENSAÇÃO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento dos EREsp n. 1.154.752/RS, consolidou o posicionamento de que a atenuante da confissão espontânea também é circunstância preponderante, na segunda fase da aplicação da pena, devendo ser compensada com a agravante da reincidência, uma vez que ambas envolvem a personalidade do agente.
+II - É possível a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, ainda que esta seja específica, tratando-se de condenado que registra apenas uma condenação transitada em julgado, de acordo com o entendimento desta Corte Superior (precedentes).
+III - De todo modo, " ..  as instâncias ordinárias não declinaram qualquer circunstância específica que pudesse obstar a compensação pretendida" (HC n. 353.126/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/9/2016).
+ ..
+Agravo regimental desprovido. (AgRg no HC 363.566/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 1/2/2017).
+Desse modo, impõe-se, no caso vertente, o redimensionamento da dosimetria .
+Na primeira fase, mantenho a pena-base, fixada no mínimo legal de 1 ano de reclusão e 10 dias-multa. Na etapa intermediária, mantenho a reprimenda no referido patamar, em razão da compensação da agravante da reincidência com a atenuante da confissão espontânea. Na derradeira fase, fixo, em definitivo, naquele montante, pois ausentes causas de aumento ou diminuição.
+Ante o exposto, não conheço do habeas corpus, contudo, concedo a ordem, de ofício, para redimensionar a pena do paciente, que se torna definitiva em 1 ano de reclusão, mais 10 dias-multa, mantidos os demais termos da condenação.
+Publique-se.
+Intime -se.
