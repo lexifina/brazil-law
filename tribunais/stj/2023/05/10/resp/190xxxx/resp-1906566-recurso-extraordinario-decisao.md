@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por CAIXA SEGURADORA ESPECIALIZADA EM SAÚDE S.A., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 524):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. RECUSA INJUSTIFICADA. DANO MORAL. OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que "a recusa injusta de plano de saúde à cobertura do tratamento médico a que esteja contratualmente obrigado enseja reparação por dano moral, uma vez que gera aflição e angústia para o segurado, o qual já se encontra fragilizado pela doença" (AgRg no AREsp 685.839/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/06/2015, DJe de 09/06/2015).
+3. Agravo interno a que se nega provimento.
+A parte recorrente alega que teria havido violação direta da Constituição Federal, consubstanciada na ofensa ao seu art. 5º, II, em virtude da contrariedade do julgado questionado aos princípios da legalidade e da livre iniciativa.
+Assevera que o acórdão recorrido "causou grave prejuízo à Recorrente, ao negar provimento ao seu Recurso Especial, que visava a improcedência dos pedidos autorais, consubstanciados no fornecimento de medicação não elencada no Rol de Procedimentos da ANS" (fl. 538).
+Argumenta que (fl. 547):
+Não há obrigatoriedade de cobertura para o medicamento pretendido, em virtude da NÃO previsão normativa, de modo que não estão satisfeitas as condições para cobertura, conforme exposto nas Condições Gerais da apólice e restou esclarecido no acórdão recorrido.
+Acrescenta que deveria ser reconhecida a contrariedade ao art. 5º, II, da CF, "em razão da inobservância da predeterminação dos riscos do contrato de seguro, que não admite interpretação extensiva, afastando-se a obrigação de a Recorrente fornecer medicamento não abrangido pela apólice securitária" (fl. 549).
+Não foram apresentadas as contrarrazões (fl. 558).
+O presente recuso extraordinário foi inadmitido às fls. 560-563, contudo, por causa da oposição de agravo em recuso extraordinário (fls. 566-574), os autos foram encaminhados ao STF.
+O Supremo Tribuna Federal, por sua vez, entendeu que a matéria em debate guardaria consonância com o Recurso Extraordinário com Agravo n. 697.312, apreciado segundo a sistemática da repercussão geral (Tema n. 611/STF), no qual ficou decidido a inexistência de repercussão geral da questão por não se tratar de matéria constitucional (fls. 589-591).
+É o relatório.
+O STF, no julgamento do ARE n. 697.312 RG/BA, concluiu que possui natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, a discussão relativa à responsabilidade civil por danos morais e materiais decorrentes da negativa de cobertura por operadora de plano de saúde (Tema n. 611/STF). Confira-se, por oportuno, a ementa do aresto paradigma:
+DIREITO DO CONSUMIDOR. EMPRESA OPERADORA DE PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA TRATAMENTO DE BENEFICIÁRIO. DANOS MORAIS E MATERIAIS. MATÉRIA DE QUE NÃO ENSEJA A ABERTURA DA VIA EXTRAORDINÁRIA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Nos termos da jurisprudência do Supremo Tribunal Federal, o tema alusivo à responsabilidade por danos morais e materiais decorrentes de negativa de cobertura para tratamento de beneficiário, por parte de operadora de plano de saúde, não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos (Súmulas 636, 454 e 279 do STF). Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(ARE n. 697.312-RG, relator Ministro Presidente, julgado em 25/10/2012, DJe de 23/11/2012.)
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO POR OPERADORA DE PLANO DE SAÚDE. RESPONSABILIDADE CIVIL POR DANO MORAL. NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.TEMA N. 611/STF. NEGATIVA DE SEGUIMENTO.
