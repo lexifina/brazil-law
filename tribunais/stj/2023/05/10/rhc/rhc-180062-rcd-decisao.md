@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão que indeferiu a liminar no recurso ordinário interposto pela defesa de IGOR PAULA FRANCO contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, no julgamento do HC n. 5001015-17.2023.8.08.0000.
+Em suas razões, a defesa insiste na tese de nulidade da busca e apreensão sem autorização judicial, destacando que a narrativa dos policiais não se sustenta, pois eles teriam primeiro ingressado na residência para somente depois da entrada verificar o conteúdo das encomendas que, supostamente, exalavam forte odor de crack. Portanto, não há que se falar na presença de fundadas razões aptas a autorizar a mitigação da garantia constitucional de inviolabilidade domiciliar.
+Diante disso, requer a reconsideração da decisão, deferindo a liminar nos termos pleiteados.
+É o relatório. Decido.
+Não obstante seus esforços argumentativos, não trouxe a defesa elementos novos que justifiquem a concessão do pedido.
+Como se sabe, a liminar em habeas corpus e em recurso ordinário em habeas corpus não tem previsão legal, sendo resultado de criação jurisprudencial voltada a minimizar eventuais danos causados por atos ilegais de autoridade pública quando for possível constatar, de plano, o risco na demora do provimento judicial e a plausibilidade jurídica do pedido formulado, requisitos ausentes na situação aqui discutida.
+Por meio deste recurso, a defesa postula a revogação da custódia cautelar e o trancamento da ação penal movida contra o requerente, sob o argumento de que a busca e apreensão teria ocorrido em desacordo com a garantia constitucional de inviolabilidade de domicílio.
+De acordo com os autos, no dia dos fatos, policiais avistaram um veículo dos Correios chegando ao endereço do requerente. As embalagens exalavam forte odor de crack e, juntamente com as demais circunstâncias, levaram os policiais a realizar buscas no interior do imóvel, onde foram encontradas armas de fogo, munições e objetos associados ao comércio ilícito de entorpecentes (e-STJ fl. 87).
+Conforme mencionado na decisão indeferitória da liminar, o acórdão impugnado, à primeira vista, não se mostra teratológico, na medida em que reconhece a higidez da ação policial, que teria sido amparada por fundadas razões da prática de crime permanente no interior do imóvel, devendo o mérito do recurso ser examinado em momento oportuno, após manifestação do Ministério Público Federal, nos termos do art. 64, inciso III, do Regimento Interno do Superior Tribunal de Justiça.
+Diante do exposto, indefiro o pedido.
+Intimem-se.
