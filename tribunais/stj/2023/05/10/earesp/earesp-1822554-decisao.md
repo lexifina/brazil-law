@@ -1,0 +1,30 @@
+DECISÃO
+Adoto o relatório da decisão de fls. 725-730, de seguintes termos:
+Trata-se de embargos de divergência opostos em face de acórdão da Terceira Turma, sob a relatoria do Ministro Marco Aurélio Bellizze, que negou provimento ao gravo interno da ora embargante, conforme consta da seguinte ementa (fl. 663):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTO ERRO MÉDICO. AÇÃO INDENIZATÓRIA. PRAZO PRESCRICIONAL. CIÊNCIA DO DANO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Impossível acolher a tese de que a ciência do dano ocorreu posteriormente, quando a própria inicial diz o contrário.
+2. Não se verifica o dissídio jurisprudencial se a decisão recorrida estiver em sintonia com o julgado paradigma.
+3. Razões recursais insuficientes para a revisão do julgado.4. Agravo interno desprovido.
+No referido julgamento, a Terceira Turma entendeu ser impossível acolher a tese da parte recorrente tendo em vista que os relatos feitos na inicial demonstram que a parte tomou conhecimento dos danos logo após a primeira cirurgia, bem como ausência de divergência jurisprudencial tendo em vista que a decisão recorrida se mostra em sintonia com o julgado paradigma, no sentido de que o prazo prescricional começa a fluir a partir do momento em que a parte toma conhecimento do dano.
+Nos presentes embargos, a parte sustenta existência de divergência com acórdão paradigma proferido pela Quarta Turma no REsp 1.020.801/SP, de Relatoria do Ministro João Otávio de Noronha, que aplicou o princípio da actio nata, concluindo que "não é possível pretender que alguém ajuíze uma ação sem ter ciência exata da extensão do dano sofrido".
+Alega que na petição inicial indicou que apenas tomou conhecimento do dano e sua extensão quando da preparação para o segundo procedimento cirúrgico e que apenas com a realização desse é que foi possível constatar o que estava causando o problema para a paciente/autora.
+Aponta que "no caso em tela é evidente que a ciência inequívoca do ato danoso e seus efeitos, apenas ocorreu com a segunda cirurgia, quando constatada a reação a corpo estranho".
+Indica ao longo do recurso outros precedentes que estariam a sustentar a sua tese no sentido de que a prescrição se inicia com a ciência inequívoca da ofensa.
+A Ministra Isabel Gallotti analisou a admissibilidade do presente recurso quanto ao julgado que levou o feito à competência da Corte Especial, o REsp n. 694.287/RJ, da Segunda Turma, indeferindo os embargos liminarmente. Na ocasião, determinou a distribuição do feito à Segunda Seção para análise quanto à indicação de divergência com o REsp n. 1.020.80/SP, oriundo da Quarta Turma.
+É o relatório. Decido.
+A irresignação não merece prosperar, porquanto não há identidade de situações entre os casos confrontados.
+O julgado apontado como divergente tem a seguinte ementa:
+RECURSO ESPECIAL.RESPONSABILIDADE CIVIL. ERRO MÉDICO. CONHECIMENTO DA LESÃO POSTERIORMENTE AO FATO LESIVO. PRESCRIÇÃO. TERMO A QUO. DATA DA CIÊNCIA. 1. Ignorando a parte que em seu corpo foram deixados instrumentos utilizados em procedimento cirúrgico, a lesão ao direito subjetivo é desconhecida e não há como a pretensão ser demandada em juízo. 2. O termo a quo do prazo prescricional é a data em que o lesado tomou conhecimento da existência do corpo estranho deixado no seu abdome. 3. Recurso especial conhecido em parte e provido.
+Na hipótese contemplada nesse julgado, a aplicação do princípio da actio nata teve sustentação no seguinte: "Se a parte não tinha conhecimento de que, em seu corpo, foram deixados instrumentos utilizados em procedimento cirúrgico, por óbvio que a lesão era desconhecida e, assim, ainda não existia a pretensão a ser demandada em juízo. Referida pretensão somente surgiu com o conhecimento do dano e suas consequências". Portanto, somente a partir do surgimento da pretensão, quando a parte lesionada tomou ciência do dano, é que o prazo prescricional começou a correr.
+No presente feito tal hipótese não se verifica.
+Observa-se que a recorrente vem defendendo que somente tomou conhecimento dos danos causados pela primeira cirurgia em 2013, ao se submeter a outro procedimento cirúrgico; portanto, seria a partir desse evento que o prazo prescricional começaria a fluir. Nada obstante, o Tribunal estadual concluiu que a recorrente teve ciência dos danos logo após a primeira cirurgia, a de 2013.
+Portanto, os fatos sobre os quais se assentariam o direito da embargante são controvertidos em relação ao que ficou definido nas instâncias inferiores. E, em embargos de divergência, é indispensável haver identidade ou similitude fática e jurídica entre o acórdão embargado e os arestos indicados como paradigmas.
+A ausência de similitude fática entre os julgados impede o conhecimento do presente recurso.
+A propósito, o precedente a seguir:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Segundo orientação da jurisprudência do Superior Tribunal de Justiça, "há divergência jurisprudencial quando os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotam posicionamentos dissonantes quanto ao direito federal aplicável" (AgRg no EREsp 1.235.184/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 27/02/2013, DJe 06/03/2013).
+2. Hipótese em que em nenhum dos acórdãos trazidos a cotejo foi examinada a controvérsia à luz dos arts. 4º, I, e 8º, §§ 1º, I, da Lei n. 10.925/2004, que versam sobre o microssistema jurídico de tributação da Contribuição ao PIS e da COFINS, no regime não cumulativo, dos contribuintes envolvidos na cadeia produtiva do agronegócio, relativamente aos produtos ali mencionados, tal como ocorreu no acórdão embargado.
+3. Agravo interno desprovido. (AgInt nos EDcl nos EREsp n. 1.670.777/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/3/2023, DJe de 31/3/2023.)
+Nesse contexto, não há como conhecer dos embargos de divergência.
+Ante o exposto, com base no art. 266-C do RISTJ, indefiro liminarment e os embargos de divergência.
+Publique-se. Intimem-se.
