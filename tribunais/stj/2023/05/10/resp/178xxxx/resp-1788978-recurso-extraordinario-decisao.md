@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por PORTO ALEGRE CLÍNICAS LTDA., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 91):
+PROCESSUAL CIVIL E TRIBUTÁRIO. BACENJUD. ANS. BENS GARANTIDORES DAS PROVISÕES TÉCNICAS. PROTEÇÃO. CRÉDITO TRIBUTÁRIO. IMPOSIÇÃO. IMPOSSIBILIDADE.
+1. "Art. 184. Sem prejuízo dos privilégios especiais sobre determinados bens, que sejam previstos em lei, responde pelo pagamento do crédito tributário a totalidade dos bens e das rendas, de qualquer origem ou natureza, do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, seja qual for a data da constituição do ônus ou da cláusula, excetuados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis." (CTN)
+2. A proteção da Lei n. 9.656/1998, para fins de alienação ou outro tipo de gravame, dos bens garantidores das provisões técnicas, fundos e provisões, registrados na Agência Nacional de Saúde Suplementar - ANS, de que trata o art. 35-L, não acarreta a impenhorabilidade absoluta, de modo que ela (a proteção) não pode ser invocada perante os créditos tributários.
+3. Hipótese em que o Tribunal a quo entendeu que, em se tratando de bloqueio de recursos que lastreiam as referidas provisões técnicas, seria incabível o bloqueio via BacenJud, de modo que a decisão há que ser reformada.
+4. Recurso especial provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts.1º, 5º, XIII, e 170, parágrafo único, da CF.
+Nesse sentido, argumenta que teria havido afronta ao princípio da liberdade de exercício da atividade econômica, por ter ocorrido o bloqueio de ativos financeiros garantidores da Agência Nacional de Saúde Suplementar - ANS, afirmando que esses recursos são requisitos essenciais para que uma empresa seja autorizada a atuar na área de comercialização e administração de planos de saúde.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 138).
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da possibilidade de liberação de valores bloqueados via BACENJUD, por não serem acobertados pelo manto da impenhorabilidade, estando o acórdão recorrido assim fundamentado (fls. 95-96):
+Dispõe a Lei n. 9.656/1998, que cuida dos planos e seguros privados de assistência à saúde:
+Art. 35-L. Os bens garantidores das provisões técnicas, fundo e provisões deverão ser registrados na ANS e não poderão ser alienados, prometidos a alienar ou, de qualquer forma, gravados sem prévia e expressa autorização, sendo nulas, de pleno direito, as alienações realizadas ou os gravames constituidores com violação deste artigo.
+Já o art. 184 do CTN prevê:
+Art. 184. Sem prejuízo dos privilégios especiais sobre determinados bens, que sejam previstos em lei, responde pelo pagamento do crédito tributário a totalidade dos bens e das rendas, de qualquer origem ou natureza, do sujeito passivo, seu espólio ou sua massa falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou impenhorabilidade, seja qual for a data da constituição do ônus ou da cláusula, excetuados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis (Grifos acrescidos).
+Por seu turno, o art. 649 do CPC/1973, aplicável à hipótese, reza:
+Art. 649. São absolutamente impenhoráveis:
+I - os bens inalienáveis e os declarados, por ato voluntário, não sujeitos à execução;
+II - os móveis, pertences e utilidades domésticas que guarnecem a residência do executado, salvo os de elevado valor ou que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida; (Redação dada pela Lei nº 11.382, de 2006).
+III - os vestuários, bem como os pertences de uso pessoal do executado, salvo se de elevado valor; (Redação dada pela Lei nº 11.382, de 2006).
+IV - os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, observado o disposto no § 3o deste artigo; (Redação dada pela Lei nº 11.382, de 2006).
+V - os livros, as máquinas, as ferramentas, os utensílios, os instrumentos ou outros bens móveis necessários ou úteis ao exercício de qualquer profissão; (Redação dada pela Lei nº 11.382, de 2006).
+VI - seguro de vida; (Redação dada pela Lei nº 11.382, de 2006).
+VII - os materiais necessários para obras em andamento, salvo se essas forem penhoradas; (Redação dada pela Lei nº 11.382, de 2006).
+VIII - a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família; (Redação dada pela Lei nº 11.382, de 2006).
+IX - os recursos públicos recebidos por instituições privadas para aplicação compulsória em educação, saúde ou assistência social; (Redação dada pela Lei nº 11.382, de 2006).
+X - até o limite de 40 (quarenta) salários mínimos, a quantia depositada em caderneta de poupança. (Redação dada pela Lei nº 11.382, de 2006).
+XI - os recursos públicos do fundo partidário recebidos, nos termos da lei, por partido político. (Incluído pela Lei nº 11.694, de 2008).
+Depreende-se da interpretação dos dispositivos acima transcritos que os bens garantidores das provisões técnicas, fundos e provisões de que trata o art. 35-L da Lei n. 9.656/1998 não estão abarcados pela impenhorabilidade absoluta. A norma em tela dirige-se às relações jurídicas de natureza privada, de modo a impedir que sejam comprometidos os bens que menciona, porquanto destinados a garantir o bom andamento dos operadores de plano privado de assistência à saúde.
+Em outras palavras, ainda que a referida Lei resguarde os bens de eventual alienação ou outro tipo de gravame, essa proteção não pode ser invocada perante a Fazenda Pública no que diz respeito aos créditos tributários, porque ela (a proteção) não acarreta a impenhorabilidade absoluta (de tais bens).
+Na hipótese, teriam sido depositados ativos financeiros perante o Banco Safra S. A., garantidores das provisões técnicas, fundo e provisões, à disposição da ANS. A Fazenda Nacional busca a manutenção da penhora de tais valores, o que deve ser permitido.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 35-L da Lei n. 9.656/1998; 184 do CTN; 649 do CPC/1973, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante assim já decidiu o STF, a propósito:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. EXECUÇÃO. AGRAVO DE INSTRUMENTO. PENHORA. MULTA. EXIGIBILIDADE. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+1. É inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF) e de legislação infraconstitucional.
+2. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado no máximo legal em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE n. 1.277.829-AgR, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 13/10/2020, DJe de 6/11/2020.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PENHORABILIDADE DE BEM MÓVEL. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. RECURSO EXTRAORDINÁRIO INADMISSÍVEL. BENEFICIÁRIO DE JUSTIÇA GRATUITA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+I - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Precedentes.
+II - O benefício da justiça gratuita afasta a obrigação do pagamento de determinadas despesas processuais, enquanto o beneficiado estiver desprovido de condições para tanto, mas não impossibilita a imposição desses encargos. Assim, a fixação e a majoração de honorários, além da estipulação de custas e despesas processuais, são compatíveis com o disposto no art. 98, § 2º, do Código de Processo Civil. No entanto, o adimplemento pelo beneficiário pela gratuidade de justiça encontra-se sob condição suspensiva, nos termos do art. 98, § 3º, do CPC.
+III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+(ARE n. 1.126.705-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 31/8/2018, DJe de 11/9/2018).
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. BACENJUD. BENS GARANTIDORES DAS PROVISÕES TÉCNICAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
