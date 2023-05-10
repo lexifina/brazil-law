@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa - Juízo Local Criminal de Almada - Juiz 3) solicita a intimação de VAGNER AUGUSTO DE SOUZA para tomar ciência da conversão da penalidade de multa em pena de 200 (duzentos) dias de prisão subsidiária, nos autos do Processo n. 481/14.5GEALM (fls. 6/9).
+Concedido o exequatur (fls. 37-39), foram os autos remetidos à Seção Judiciária do Estado de Minas Gerais para o cumprimento da medida. Os autos retornaram a esta Corte acompanhados de certidão positiva de intimação, exarada nos seguintes termos (fl. 83):
+Certifico que, em 03 (três) de Maio de 2023 (dois mil e vinte e três), por volta das 15h:00min, em diligência na Rua Tupã, n. 587, casa 01, Nossa Senhora das Graças, Governador Valadares/MG, NOTIFIQUEI o Sr. VAGNEER AUGUSTO DE SOUZA, tel. (33) 99141-1088, após lido o inteiro teor do mandado, o qual recebeu cópia do mesmo, da respectiva contrafé com os documentos e exarou seu ciente no anverso.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante, com urgência, por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
