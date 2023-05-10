@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ADRIANO BULHÕES DOS SANTOS contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, c, da Constituição Federal, foi interposto contra acórdãos d o Tribunal de Justiça do Estado de Mato Grosso (Apelação Cível n. 0004212-17.2015.8.11.0015) assim ementado (fls. 134-135):
+APELAÇÃO - AÇÃO DE LOCUPLETAMENTO ILÍCITO -CERCEAMENTO DE DEFESA E ILEGITIMIDADE ATIVA AD CAUSAM - PRELIMINARES REJEITADAS - PRESCRIÇÃO - CHEQUE - CITAÇÃO NÃO REALIZADA NO TEMPO FIXADO EM LEI - NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL - DESÍDIA DO AUTOR - PREJUDICIAL ACOLHIDA - INVERSÃO DOS ÔNUS SUCUMBENCIAIS - RECURSO PROVIDO.
+A preliminar de cerceamento de defesa por ausência de produção de prova testemunhal não deve ser acolhida se não justificada no Recurso a necessidade de sua realização, bem como não reconhecida a sua imprescindibilidade pelo juiz da causa.
+Se o próprio réu alega que o título foi endossado ao autor da lide, é ele parte legítima para figurar no polo ativo da demanda e cobrar a importância expressa no cheque do qual é possuidor.
+O despacho que recebe a petição inicial interrompe a prescrição desde que a citação ocorra dentro do prazo previsto na legislação processual. Ultrapassado os prazos a que se referem os artigos 219, §§2º e 4º, do CPC/73 (artigo 240, §2º, do CPC/2015) sem que a parte autora tenha diligenciado no sentido de providenciar a efetivação da citação do réu, incide a prescrição, sobretudo quando não evidenciada a hipótese de que trata a Súmula n. 106 do STJ.
+A alteração substancial da sentença impõe a inversão do ônus da sucumbência.
+Nas razões do recurso especial, alega o recorrente divergência jurisprudencial no tocante à aplicação do art. 219 do Código de Processo Civil de 1973. Argumenta que não poderia ter sido reconhecida a prescrição no caso porque a demora na citação do réu não decorreu de desídia do autor, mas sim de morosidade do Poder Judiciário, que deixou de realizar intimação pessoal do autor para dar continuidade ao andamento processual.
+Requer o conhecimento e o provimento do recurso para cassar o acórdão recorrido.
+É o relatório. Decido.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 8 5 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos nos § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
