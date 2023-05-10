@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 77):
+1. HABEAS CORPUS. ROUBO QUALIFICADO. CONCURSO DE PESSOAS. RESTRIÇÃO DE LIBERDADE DAS VÍTIMAS. EMPREGO DE ARMA DE FOGO. PRISÃO PREVENTIVA DECRETADA.. REAVALIAÇÃODO ERGASTÚLO. SUPERAÇÃO DO PRAZO DE 90 DIAS. NÃO OCORRÊNCIA. ORDEM DENEGADA
+1.1 O prazo para reavaliação da prisão preventiva conforme disposto no artigo 316, parágrafo único, trata-se de prazo para prolação de decisão judicial e não de prazo prisional, logo se transcorrido o lapso temporal de 90 dias, não se pode interpretar que a prisão automaticamente torna-se ilegal.
+1.2 Não há que se falar em constrangimento ilegal, quando o magistrado reavalia a manutenção da prisão preventiva de paciente, nos autos de Ação Penal e de Pedido de Liberdade Provisória, e não decorre mais de 90 dias após a referida reavaliação e data da impetração de habeas corpus que busca nova reavaliação, por suposto excesso de prazo.
+2. ILEGALIDADE DA PRISÃO PREVENTIVA. DEMORA NA FORMAÇÃODA CULPA. REITERAÇÃO DE PEDIDOS. OBJETO DE HABEAS CORPUS ANTERIOR. LITISPENDÊNCIA. TESES NÃO CONHECIDAS.
+Impõe-se o não conhecimento de parte de Habeas Corpus, que configura de mera reprodução de outro impetrado anteriormente, ressaindo evidenciada a ocorrência de litispendência, sobretudo porque ambos almejam a liberdade do paciente com esteio em argumentos já apreciados, e não ter ocorrido alteração na situação fático-processual.
+Consta dos autos que o recorrente foi denunciado e está preso cautelarmente como incurso nos artigos 157, §2º, II, V, e § 2ºA, I; art. 158 §§ 1º e 3º, c/c art. 69, todos do Código penal c/c com arts. 1º, I, a,b da Lei 8072/90.
+No presente recurso, o recorrente sustenta que está preso cautelarmente há 1 ano e "o juiz de primeiro grau, deferiu o pedido de prazo suplementar de 10 dias para elaboração de memoriais, prazo esse não previsto no ordenamento jurídico vigente. Bem como suspendeu ilegalmente o curso do processo, sem fundamentar" (fl. 86), ocasionado indevido excesso de prazo na duração do processo.
+Aduz também que o juízo de primeiro grau deixou de observar o prazo para revisão da custódia de 90 dias previsto no art. 316, parágrafo único, do CPP.
+Requer, liminarmente e no mérito, o provimento do recurso para a concessão de liberdade ao recorrente, com ou sem medidas cautelares alternativas à prisão.
+Na origem, o processo n. 0000117-35.2022.8.27.2736/TO, encontra-se na fase de apelação, conforme as informações processuais consultadas no site do tribunal de origem em 19/4/2023.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo indeferimento do recurso.
+No caso, verifica-se que foi proferida sentença condenatória (fls. 148/160) em desfavor do paciente, tendo, inclusive, sido mantida a prisão preventiva, o que torna prejudicada a pretensão posta neste writ, nos termos do verbete da Súmula n. 52 desta Corte Superior, segundo a qual: "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ademais, " o prazo de 90 dias para reavaliação dos fundamentos da prisão (conforme disposto no art. 316, parágrafo único, do CPP) não é peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no HC n. 722.167/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
