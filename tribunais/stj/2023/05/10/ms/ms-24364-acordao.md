@@ -1,0 +1,76 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL ADMINISTRATIVO DISCIPLINAR. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. POLICIAL FEDERAL. DEMISSÃO. NULIDADES. NÃO OCORRÊNCIA. AUSÊNCIA DE LIQUIDEZ E CERTEZA DO DIREITO VINDICADO. ORDEM DENEGADA.
+1. O argumento do uso ilícito de provas é desautorizado pela decisão judicial que o próprio Impetrante juntou aos autos, expedida pelo juízo da 8.ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro. Alegação improcedente.
+2. No mandado de segurança, ação constitucional calcada na liquidez e certeza do direito vindicado, os fatos alegados pelo Autor devem ser expostos com razoável clareza e necessária precisão, de modo a não suscitar, na autoridade julgadora, dúvidas quanto ao que efetivamente argumenta o Autor da petição, ou quais são, ao fim e ao cabo, o direito efetivamente violado e as razões pelas quais teria ocorrido a ofensa anunciada.
+3. Por força do princípio pas de nullité sans grief, não se declara a nulidade do procedimento administrativo disciplinar sem efetiva demonstração de prejuízo à defesa. Precedentes.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues, Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+Assistiu ao julgamento a Dra. KARINA CARLA LOPES GARCIA, pela parte INTERES.: UNIÃO.
+RELATÓRIO
+MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de mandado de segurança, com pedido de liminar, impetrado por Luciano Delgado Botelho, que aponta, como autoridade impetrada, o Ministro de Estado da Segurança Pública e, como ato coator, a Portaria n. 59, de 27 de abril de 2018, publicada no DOU de 2/5/2018, pela qual foi o impetrante demitido do cargo de Agente de Polícia Federal, "pelo enquadramento nas infrações disciplinares previstas no art. 43, incisos XLVIII e LXII, da Lei n. 4.878/1965, e no art. 132, IV, da Lei n. 8.112/1990" (fl. 9). Argumenta o autor, no mérito, que o processo disciplinar que embasou o ato sancionador acha-se eivado de nulidades, "em face da violação dos princípios da ampla defesa e do contraditório, bem como da norma legal expressa no artigo 8.º da Lei n. 9.296/1996" (fl. 15). Isto porque, em sua compreensão dos fatos, "a decisão  judicial  de fl. 125, do Apenso I do PAD em anexo, não autoriza expressamente a autorização de inceptação telefônica" (fl. 9) e, se a comissão processante "teve acesso aos aúdios  da  interceptação telefônica, deveria ter disponibilizado a defesa do servidor, ora Impetrante, bem como ter submetido o mesmo durante a instrução processual, qual seja: o interrogatório do acusado" (sic. fl. 14). Por fim, discorrendo sobre o sentido do princípio do contraditório, registra que tal princípio "configura a garantia de ser o servidor cientificado com clareza não só a existência do processo, mas de tudo que nele ocorra, devendo manifestar-se a respeito de todos os atos e fatos processuais, gerando, em consequência, o dever de órgão julgador apreciar tais intervenções e toma-las em conta ao proferir sua decisão." (fl. 15).
+Nas informações que prestou, fls. 4.134/4.660, a Autoridade impetrada refuta a argumentação autoral e defende tanto a legalidade do ato apontado como coator quanto a regularidade do procedimento administrativo que o antecedeu e lhe deu suporte, mormente diante dos graves ilícitos atribuídos ao ex-policial federal.
+O pedido de liminar veiculado com a exordial foi indeferido (fls. 4.118/4.119).
+Intimada, a União manifestou interesse no feito (fls. 4.124 e 4.127).
+O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Denise Vinci Túlio (fls. 4.662/4.668), opinou pela denegação da ordem, firme em que "as nulidades indicadas na exordial não prosperam" (fl. 4.665). O aludido parecer se acha guarnecido pela seguinte ementa:
+MANDADO DE SEGURANÇA. DEMISSÃO DE SERVIDOR PÚBLICO. AGENTE DA POLÍCIA FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADE. OFENSA A AMPLA DEFESA E AO CONTRADITÓRIO. NÃO CARACTERIZADA. FARTO ACERVO PROBATÓRIO.
+1 - O impetrante argumenta na exordial a violação a seu direito ao contraditório e a ampla defesa, vez que não pode participar de seu interrogatório em virtude de surto psiquiátrico, ocorrido novamente no momento da oitiva das testemunhas de acusação.
+2 - Destaca-se que os surtos psiquiátricos do impetrante durante o curso do PAD não dificultaram ou impediram o pleno exercício do direito de defesa. Isso porque, além de não se tratar de doenças incapacitantes, o impetrante estava assistido por advogado constituído, teve acesso a todo o acervo probatório, inclusive com oportunidade de produzir suas próprias provas. Nesse sentido, basta conferir o laudo judicial realizado pelo Dr. Henderson, psiquiatra forense, às fls. 4237/4257 (e-STJ).
+3 - Verifica-se que o Relatório Final da Comissão Processante, em minuciosa análise, destrinchou todo o esquema criminoso, analisando os fatos apurados e individualizando a conduta de cada um dos envolvidos. A propósito, foi realizado o cotejo entre as alegações do impetrante e as provas e elementos carreados aos autos (e-STJ fls.4613/4617).
+4 - O argumento - segundo o qual não houve autorização judicial para a utilização das interceptações telefônicas no âmbito do processo administrativo - não merece maiores digressões. Porquanto, da simples leitura dos autos, verifica-se a existência de expressa autorização da Dra. Valéria Caldi Magalhães, Juíza Federal Titular do Processo nº 0012453-04.2013.4.02.5101 (e-STJ fl. 4533).
+5 - Não se observa no procedimento administrativo disciplinar qualquer nulidade capaz de macular o vasto acervo probatório reunido contra o impetrante, sendo que a pena de demissão foi aplicada em razão da gravidade dos fatos apurados.
+6 - Parecer pela denegação da segurança. (fl. 4.662).
+O pedido de gratuidade de justiça, veiculado pelo Autor na inicial, foi deferido por decisão da Presidência desta Corte, fl. 4.110.
+Representação regular (fl. 18).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL ADMINISTRATIVO DISCIPLINAR. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL. POLICIAL FEDERAL. DEMISSÃO. NULIDADES. NÃO OCORRÊNCIA. AUSÊNCIA DE LIQUIDEZ E CERTEZA DO DIREITO VINDICADO. ORDEM DENEGADA.
+1. O argumento do uso ilícito de provas é desautorizado pela decisão judicial que o próprio Impetrante juntou aos autos, expedida pelo juízo da 8.ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro. Alegação improcedente.
+2. No mandado de segurança, ação constitucional calcada na liquidez e certeza do direito vindicado, os fatos alegados pelo Autor devem ser expostos com razoável clareza e necessária precisão, de modo a não suscitar, na autoridade julgadora, dúvidas quanto ao que efetivamente argumenta o Autor da petição, ou quais são, ao fim e ao cabo, o direito efetivamente violado e as razões pelas quais teria ocorrido a ofensa anunciada.
+3. Por força do princípio pas de nullité sans grief, não se declara a nulidade do procedimento administrativo disciplinar sem efetiva demonstração de prejuízo à defesa. Precedentes.
+4. Ordem denegada.
+VOTO
+MINISTRO SÉRGIO KUKINA (Relator): Como relatado, cuida-se de mandado de segurança impetrado contra ato disciplinar (demissão) de servidor público federal, ocupante do cargo de Agente de Polícia Federal.
+Na petição vestibular, requer o Autor a anulação da sanção capital, alegando, para esse fim, três nulidades no procedimento disciplinar que deu origem e suporte ao ato agora apontado como coator, razão pela qual passo ao exame individualizado de cada uma destas alegações, na ordem em que apresentadas na peça inaugural.
+1. Da anunciada ausência de autorização judicial.
+Como primeira razão para requerer a ordem, afirma o Autor, às fls. 9/10, que o trio processante, durante a fase instrutória do feito disciplinar, teria violado o disposto no art. 2º da Lei n. 9.784/1999 ao utilizar como provas, sem expressa autorização judicial, o conteúdo de interceptações telefônicas.
+Porém, como bem observou o Parquet federal em seu parecer, o argumento do Impetrante é desautorizado pela decisão judicial que ele mesmo juntou por cópia à fl. 283 do presente caderno, expedida pelo juízo da 8.ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro, da qual se colhe, in verbis:
+Defiro, igualmente, o pedido de compartilhamento de provas. A jurisprudência de nossos tribunais é pacífica no sentido da admissão do compartilhamento quando os fatos investigados configurem, simultaneamente, infração disciplinar passível de apuração na esfera administrativa.
+Comunique-se à autoridade policial, a quem deverão ser novamente entregues os autos.
+Eis porque não merece prosperar a anunciada nulidade decorrente do uso compartilhado, pela Administração, de provas extraídas da ação penal a que, pelos mesmos fatos, respondeu o servidor.
+2. Do cerceamento de defesa.
+Nessa quadra, alega o ex-policial que a Comissão processante, porque teve acesso à interceptação telefônica, "deveria ter disponibilizado a defesa do servidor, ora Impetrante, bem como ter submetido o mesmo durante a instrução processual, qual seja: o interrogatório do acusado" (sic. fl. 14).
+Sugere, assim, que o cerceamento estaria na vedação de acesso da defesa às provas extraídas da ação penal.
+Porém, se assim é, carece a alegação de suporte probatório, visto não se encontrar, na documentação apresentada, requerimento nesse sentido formulado pelo investigado e dirigido à Comissão processante. O que se pode afirmar é que, na peça de defesa administrativa, fl. 4.340, o Impetrante questionou o trio processante tão somente quanto à já apontada "ausência de autorização judicial para utilização da interceptação telefônica", nos mesmos moldes posteriormente reproduzidos na inicial do presente writ.
+Ademais, em se tratando de mandado de segurança, ação constitucional calcada na liquidez e certeza do direito vindicado, os fatos alegados pelo Autor devem ser expostos com razoável clareza e necessária precisão, de modo a não suscitar, na autoridade julgadora, dúvidas quanto ao que efetivamente argumenta o Autor da petição, ou quais são, ao fim e ao cabo, o direito efetivamente violado e as razões pelas quais teria ocorrido a ofensa anunciada.
+Por fim, segundo consolidado entendimento jurisprudencial desta Corte, por força do princípio pas de nullité sans grief, não se declara a nulidade do procedimento administrativo disciplinar sem efetiva demonstração de prejuízo à defesa. Nesse sentido, ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NÃO VERIFICADA. PRORROGAÇÃO DOS TRABALHOS DA COMISSÃO PROCESSANTE. AUSÊNCIA DE NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO À DEFESA. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. INSUFICIÊNCIA DE PROVAS PARA CONDENAÇÃO. INADEQUAÇÃO DA VIA ELEITA. ABSOLVIÇÃO NO JUÍZO CRIMINAL POR AUSÊNCIA DE PROVA. INDEPENDÊNCIA ENTRE AS ESFERAS PENAL E ADMINISTRATIVA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+ ..
+V - Em processo administrativo disciplinar, apenas se declara a nulidade de um ato processual quando houver efetiva demonstração de prejuízo à defesa. Não havendo efetiva comprovação de prejuízos suportados pela defesa, concluir em sentido diverso demandaria dilação probatória, o que não é possível em sede de mandado de segurança, no qual se exige prova documental pré-constituída.
+Precedentes.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no MS n. 24.390/DF, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 15/12/2022.)
+MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. SERVIDORA FEDERAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. RETARDO DA MARCHA PROCESSUAL DECORRENTE DE ORDEM JUDICIAL. NULIDADE PROCESSUAL NÃO RECONHECIDA SEM DEMONSTRAÇÃO DE EFETIVO PREJUÍZO. SANÇÕES PENAIS E ADMINISTRATIVAS. INDEPENDÊNCIA DE INSTÂNCIAS. AFERIÇÃO DAS CONDUTAS TIDAS POR ILÍCITAS. INVIABILIDADE. DEMISSÃO. ATO VINCULADO. ORDEM DENEGADA.
+ ..
+2. Segundo a pacífica jurisprudência do STJ, por força da aplicação do princípio pas de nullité sans grief, não se anula procedimento administrativo disciplinar sem a efetiva demonstração de prejuízo à defesa.
+ ..
+6. Ordem denegada.
+(MS n. 22.608/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 7/10/2022.)
+No caso, não declinou o Impetrante as razões pelas quais sua defesa teria sido prejudicada.
+Assim, penso não merecer prosperar a alegação de violação à ampla defesa.
+3. Do desrespeito ao contraditório.
+Como derradeira alegação de nulidade, sugere o Autor ter ocorrido violação ao princípio do contraditório, fazendo-o nos seguintes termos, ipsis litteris:
+O princípio do contraditório, que é inerente ao direito de defesa, é decorrente da bilateralidade do processo: quando uma das partes alega alguma coisa, há de ser ouvida também a outra, dando-lhe a oportunidade de resposta. Ele supõe o conhecimento dos atos processuais pelo acusado e o seu direito de resposta ou de reação.
+Em análise ao contraditório, José Afonso da Silva, com tinta forte, afirma que tal princípio é:
+"Pressuposto indeclinável de realização de um processo justo, sem o qual a apreciação judicial é ausente de valor. Pondera ainda que a natureza processual do Contraditório encontra-se na regra audiat altera pars. Segundo tal regra, deve-se dar ciência a cada litigante dos atos praticados pelo contendor, para serem contrariados e refutados."
+Pois bem, o contraditório configura a garantia de ser o servidor cientificado com clareza não só a existência do processo, mas de tudo que nele ocorra, devendo manifestar-se a respeito de todos os atos e fatos processuais, gerando, em consequência, o dever de órgão julgador apreciar tais intervenções e tomá-las em conta ao proferir sua decisão. (fls. 14/15).
+Quanto a isso, nada mais acrescenta. Mas, ao assim construir seu argumento, outra vez não indica o Impetrante em que teria consistido a sugerida violação a princípio, ou quais atos - omissivos ou comissivos -, imputados à Autoridade impetrada, teriam malferido direitos.
+Portanto, pelas razões já acima expostas, também nessa quadra não merecem acolhimento as alegações autorais.
+4. Conclusão.
+Em resumo, na hipótese destes autos, não logrou o ex-policial demonstrar a existência de direito líquido e certo, violado por ato ilegal ou abusivo, praticado pela Autoridade impetrada, pelo que se impõe a denegação da ordem.
+ANTE O EXPOSTO, em harmonia com o parecer ministerial e com fundamento no art. 1º, caput, da Lei n. 12.016/2009, encaminho meu voto no sentido da denegação da ordem.
+Custas pelo impetrante, cujo recolhimento se dispensa, em razão do benefício de gratuidade de justiça, deferido pela Presidência (fl. 4.110).
+Sem condenação em honorários, em conformidade com o disposto no art. 25 da Lei n. 12.016/2009 e na Súmula 105 do STJ.
+É como voto.
