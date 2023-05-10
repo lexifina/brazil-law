@@ -1,0 +1,75 @@
+DECISÃO:
+
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Artur Nogueira contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, nos autos do Processo nº 1000079-69.2021.8.26.0666, mediante a qual que teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no RE 650.898/RS, vinculado ao Tema nº 484 da repercussão geral.
+
+    Narra a parte reclamante que se trata de
+
+    “ação ajuizada por Ex-Secretário Municipal de Administração em face da Fazenda Pública Municipal – ora Reclamante – para recebimento pecuniário de gratificação natalina e férias acrescidas de 1/3 constitcional (sic) relativo aos anos em que ocupou o cargo político, sendo o fundamento autoral no sentido de que tais verbas prescindem de legislação infraconstitucional, sendo um direito constitucional extensível à todos os trabalhadores e servidores.”
+
+    Defende, reportando-se a precedentes desta Corte, a erronia na aplicação da tese do Tema nº 484 da sistemática da repercussão geral no caso concreto, pois deferido ao beneficiário da decisão, ocupante de cargo político, o direito ao percebimento de décimo terceiro salário e férias acrescidas do terço constitucional com fundamento exclusivo na Constituição Federal.
+
+    Requer o deferimento do pedido liminar a fim de determinar a suspensão do trâmite do Processo nº 1000079-69.2021.8.26.0666.
+
+    No mérito, pede que
+
+    “que seja a presente reclamação julgada totalmente procedente, reconhecendo-se no acórdão reclamado a má aplicação da tese firmada pelo C. STF, determinando que seja realizada a medida adequada à solução da controvérsia ou a cassação da decisão impugnada, admitindo-se, portanto, que não assiste razão ao beneficiário desta, por todo o aqui exposto.”
+
+    É o relatório. Decido.
+
+    O julgamento de matéria constitucional pela sistemática da repercussão geral tem por finalidade conferir maior efetividade à atuação do STF como Corte Constitucional - antes prejudicada pela subida de inúmeros recursos com fundamento em idêntica controvérsia, demandando decisões caso a caso mesmo não sendo possível ao STF reanalisar fatos e provas do caso concreto (Súmula STF nº 279) ou avançar sobre matéria infraconstitucional sedimentada nas instâncias ordinária e especial (Súmulas STF nºs 280 e 636).
+
+    Assim, ao se fixar a tese de observância obrigatória pelos demais órgãos do Poder Judiciário, a última palavra em matéria constitucional com repercussão permanece com o STF, encerrando-se a jurisdição na Corte de origem ou na instância especial, conforme o caso, nos processos de matéria constitucional idêntica ou quando o debate tratar de tema infraconstitucional ou desprovido de repercussão geral, sendo o órgão de origem responsável pela concretização do precedente, procedendo à adequação da ratio decidendi do STF aos novos casos de acordo com as provas dos autos.
+
+    Nessa medida, a reclamatória como instrumento de promoção do diálogo, nesta Suprema Corte, entre a decisão no caso concreto e os precedentes obrigatórios do STF tem cabimento excepcional, estando sua admissibilidade condicionada à efetiva demonstração, além do esgotamento de instância (CPC, art. 988, §5º, II), de:
+
+    a) desrespeito à autoridade da decisão do STF, porquanto configurada erronia na aplicação do entendimento vinculante a evidenciar teratologia da decisão reclamada ou
+
+    b) usurpação da competência do STF, pois existente, i) no caso concreto, peculiaridades que impossibilitam a aplicação adequada da norma de interpretação extraída do precedente (distinguishing) a demandar pronunciamento desta Suprema Corte acerca da matéria constitucional no caso concreto, acaso verificada repercussão geral, ou, ii) a necessidade de revisitação dos fundamentos do precedente, tendo em vista a alteração do ordenamento jurídico vigente ao tempo do julgamento ou das circunstâncias fáticas históricas que impactaram a interpretação da norma, com possibilidade de sua superação (overruling).
+
+    O Tribunal de origem, a partir do paradigma consubstanciado no Tema nº 484 da repercussão geral, assim decidiu em sede de apelação:
+
+    “Conforme ressaltado pelo Desembargador Afonso Faro Jr., em caso análogo (Apelação nº 1001528-16.2019.8.26.0219), “a norma constitucional que garante aos trabalhadores, de forma indiscriminada, o direito às férias remuneradas e ao décimo terceiro salário, sendo desnecessária a existência de lei local para conferir eficácia a essa norma . Assim, nos termos da Teoria da Aplicabilidade da Norma, proposta por José Afonso da Silva, entende-se que tais dispositivos são de eficácia plena e aplicabilidade imediata, dispensando a edição de diploma infraconstitucional regulamentador. Trata-se, portanto, de norma autoaplicável , de modo que a ausência de legislação vigente no Município prevendo o pagamento das vantagens pleiteadas não é capaz e obstar sua percepção.” (e-Doc 2, p. 6). (grifei)
+
+    Contra essa decisão foi interposto recurso extraordinário, ao qual foi negado seguimento por considerar que o aludido acórdão estaria em harmonia com o Tema nº 484 RG, decisão essa que foi confirmada no julgamento do agravo interno que restou assim ementado:
+
+    “AGRAVO INTERNO – Decisão monocrática que negou seguimento a recurso extraordinário. - A possibilidade de órgão especial do Tribunal de Justiça analisar, em sede de controle concentrado, a constitucionalidade de lei municipal contestada em face da Constituição Federal e a questão da concessão de terço constitucional de férias, gratificação natalina e verba de representação a detentores de mandato eletivo que percebem subsídio é matéria idêntica à examinada pela Suprema Corte, no TEMA 484 - RE n. 650.898/RS. Nega-se provimento ao recurso. (e-Doc 2, p. 29).
+
+    A parte reclamante argui erronia na aplicação da tese firmada no RE nº 650.898 (Tema 484), de relatoria do Ministro Marco Aurélio, na qual o Tribunal Pleno ao decidir pela incompatibilidade do regime de subsídio com outras parcelas remuneratórias de natureza mensal, ressalvou o décimo-terceiro salário e o terço constitucional de férias. Segue ementa do julgado:
+
+    “Recurso Extraordinário. Repercussão Geral. Ação direta de inconstitucionalidade estadual. Parâmetro de controle. Regime de subsídio. Verba de representação, 13º salário e terço constitucional de férias. 1. Tribunais de Justiça podem exercer controle abstrato de constitucionalidade de leis municipais utilizando como parâmetro normas da Constituição Federal, desde que se trate de normas de reprodução obrigatória pelos Estados. Precedentes. 2. O regime de subsídio é incompatível com outras parcelas remuneratórias de natureza mensal, o que não é o caso do décimo terceiro salário e do terço constitucional de férias, pagos a todos os trabalhadores e servidores com periodicidade anual. 3. A ‘verba de representação’ impugnada tem natureza remuneratória, independentemente de a lei municipal atribuir-lhe nominalmente natureza indenizatória. Como consequência, não é compatível com o regime constitucional de subsídio. 4. Recurso parcialmente provido.”
+
+    Observo que a circunstância fática do julgado paradigma decorre de debate relativo a compatibilidade do regime de subsídio preconizado no art. 39, §4º com recebimento de “verba de representação”, terço de férias e décimo terceiro salário, previstos, respectivamente, nos arts. 4º, 6º e 7º da Lei nº 1.929/2008 do Município de Alecrim/RS.
+
+    No ponto, extrai-se do voto vencedor exarado pelo ministro Roberto Barroso no sentido de que o recebimento das parcelas compatíveis com o regime de subsídios pressupõe previsão legal. Vide:
+
+    “15. Veja-se, por fim, que o comando do §4°, do art. 39 da CF, que veda o acréscimo de ‘qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória’ sobre a parcela única que compõe o subsídio, não alcança apenas o detentor de mandato eletivo. Inclui, também, os membros de Poder, os Ministros de Estado e os Secretários Estaduais e Municipais.
+
+    16. Assim, a tese de incompatibilidade do terço de férias e do 13° salário com o regime constitucional de subsídio levaria à inconstitucionalidade ou à não recepção de uma multiplicidade de leis que preveem essas verbas para, por exemplo, magistrados, membros do Ministério Público e Secretários de Estado. Esse resultado, no entanto, além de produzir uma alteração profunda em regimes funcionais já consolidados, não foi aquele desejado pelo constituinte com a instituição do regime de subsídio.
+
+    17. Penso ser claro, assim, que não há uma mandamento constitucional que exclua dos agentes públicos, inclusive daqueles ocupantes de cargos eletivos, a possibilidade de integrarem regimes que prevejam o pagamento de terço constitucional de férias e de décimo terceiro salário. Não se extrai diretamente da Constituição, nem mesmo por um mandamento de moralidade, uma vedação ao pagamento dessas parcelas. A definição sobre a adequação de percepção dessas verbas está inserida no espaço de liberdade de conformação do legislador infraconstitucional.” (grifei)
+
+    Diferentemente, no caso concreto, a autoridade reclamada expressamnete reconhece que não há lei do Município de Artur Nogueira atribuindo a agentes políticos da municipalidade o direito ao terço constitucional de férias e ao décimo terceiro salário; tendo afirmado que esse direito decorre de norma constitucional autoaplicável.
+
+    Assim, entendo que a autoridade reclamada, ao condenar o ente municipal a pagar 13° salário e férias acrescidas de terço constitucional a agente político sem previsão em lei específica, mas com fundamento estraído diretamente da CF/88, acabou por contrariar a tese firmada no Tema 484 da repercussão geral. Nesse sentido:
+
+    “AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO. REPERCUSSÃO GERAL. DÉCIMO TERCEIRO SALÁRIO, FÉRIAS E TERÇO CONSTITUCIONAL. AGENTE POLÍTICO. 1. No julgamento do RE 650.898, paradigma do tema nº 484 da repercussão geral, o Supremo Tribunal Federal fixou a tese de que o art. 39, § 4º da Constituição Federal não é incompatível com o pagamento de terço de férias e décimo terceiro salário. Na oportunidade, se esclareceu que a definição sobre a adequação de percepção dessas verbas está inserida no espaço de liberdade de conformação do legislador infraconstitucional. 2. No caso em análise, o acórdão reclamado fundamentou a concessão de gratificação natalina e terço de férias a detentor de mandato eletivo com base exclusivamente na Constituição, apesar de inexistente previsão no direito local, o que implica má aplicação da tese firmada por esta Corte. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime.” (Rcl 33.949-AgR/SP, Primeira Turma, Rel. Min. Roberto Barroso, DJe-199 de 12/09/19). (grifei).
+
+    Com idêntica orientação, vide precedentes em sede recursal:
+
+    “Agravo regimental em recurso extraordinário com agravo. Direito Administrativo. Agente político. Décimo terceiro salário, férias e terço constitucional. Ausência de lei local com previsão de pagamento das referidas verbas. Aplicação do Tema nº 484 de Repercussão Geral. Precedentes. 1. O Plenário da Corte, no exame do RE nº 650.898/RS, Red. do ac. Min. Roberto Barroso, Tema nº 484, concluiu pela constitucionalidade do recebimento de terço de férias, de férias remuneradas e de décimo terceiro salário por agente político remunerado por subsídio, desde que previsto o pagamento das referidas verbas na legislação local pertinente. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita." (ARE nº 1.306.166 AgR, de minha relatoria, Primeira Turma, DJe de 15/3/22)
+
+    “DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. PAGAMENTO DE DÉCIMO-TERCEIRO SUBSÍDIO E TERÇO DE FÉRIAS A AGENTES POLÍTICOS MUNICIPAIS. EXIGÊNCIA DE PREVISÃO EM LEI EDITADA PELO ENTE LOCAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMA Nº 484. IRREGULARIDADE DO PAGAMENTO CONSIGNADA PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE LEGISLAÇÃO APTA A AMPARAR O RECEBIMENTO. COMPREENSÃO DIVERSA. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA Nº 280/STF. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 280 do STF. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e o revolvimento do quadro fático delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido.” (ARE nº 1.405.487 AgR, Rel. Min. Rosa Weber (Presidente), Tribunal Pleno, DJe de 28/3/23).
+
+    Ainda no sentido da necessidade de previsão legarl para reconhecimento do direito às parcelas: RE nº 1.403.818, Rel. Min. Edson Fachin, decisão monocrática, DJe de 11/11/22; ARE nº 1.364.935, Rel. Min. Nunes Marques, decisão monocrática, DJe de 24/2/22; Rcl nº 33.785, Rel. Min. André Mendonça, decisão monocrática, DJe de 27/3/23 e RE nº 1.355.759, Rel. Min. Gilmar Mendes, decisão monocrática, DJe de 11/5/22.
+
+    Ante o exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para cassar a decisão reclamada, determinando que o Tribunal de Justiça do Estado de São Paulo, nos autos do Processo nº 1000079-69.2021.8.26.0666, profira outra decisão em consonância com o entendimento firmado na por esta Suprema Corte no Recurso Extraordinário nº 650.898/RS (Tema nº 484 RG).
+
+    Publique-se.
+
+    Brasília, 10 de maio de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
