@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Jurandir Duarte de Lima, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 0317685-73.2019.8.21.7000 - fls. 13/37).
+Narram os autos que o Tribunal de origem deu provimento ao recurso do Ministério Público para condenar o paciente à pena de 9 anos e 2 meses de reclusão, como incurso nas sanções do art. 157, §2º, I e II, do Código Penal.
+Neste writ, a defesa sustenta, em síntese, o constrangimento ilegal de corrente da violação à Súmula 443/STJ, eis que não foi indicada fundamentação concreta pela incidência cumulativa das majorantes (concurso de agentes e emprego de arma de fogo) para exasperar a pena em 3/8 (fl. 4).
+Requer, então, a concessão da ordem para reduzir o percentual da causa de aumento para 1/3 .
+Informações prestadas (fls. 50/77), o Ministério Público Federal ofereceu parecer nos termos desta ementa (fl. 79):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. DIREITO PENAL. ROUBO DUPLAMENTE CIRCUNSTANCIADO (ART.157, § 2º, I E II, DO CP). ACRÉSCIMO PENAL, NA TERCEIRA ETAPA DA DOSIMETRIA, DESPROVIDO DE FUNDAMENTAÇÃO IDÔNEA. MERA REFERÊNCIA ÀS CAUSAS DE AUMENTO DE PENA. AFRONTA À INTELIGÊNCIA DA SÚMULA 443/STJ. CONSTRANGIMENTO ILEGAL. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO, MAS COM CONCESSÃO DA ORDEM, DE OFÍCIO.
+É o relatório.
+Estou de acordo com o parecer oferecido pela Subprocuradora-Geral da República ELIZETA MARIA DE PAIVA RAMOS, cujos fundamentos a seguir transcritos adoto como razões de decidir (fls. 81/84 - grifo nosso):
+Isso porque razão assiste à defesa no tocante à fração de aumento de pena relativa ao uso de arma de fogo e ao concurso de agentes.
+Da leitura do trecho do voto condutor do acórdão condenatório, a seguir transcrito, depreende-se que foi estabelecido o aumento de 3/8 (três oitavos), na terceira fase da dosimetria, levando-se em conta, tão somente, a presença de duas qualificadoras no caso. Verbis:
+"Na terceira fase da dosimetria da pena, entendo adequada a exasperação da pena no equivalente a 3/8, considerando a incidência das majorantes de concurso de agentes e do emprego de arma de fogo. Assim, a pena torna-se definitiva em 9 anos e 2 meses de reclusão." (fls. 34/35)
+Ocorre que não basta a mera referência à existência da quantidade de majorantes para justificar o acréscimo de pena. É preciso, sim, que haja valoração jurídica de cada uma dessas circunstâncias, de modo a viabilizar a individualização da sanção penal, ensejando ao sentenciado o conhecimento de seus motivos para eventual manejo de recurso.
+Não tendo sido observado esse procedimento na espécie, resta clara a responsabilização penal objetiva e o manifesto constrangimento ilegal, ao arrepio da Súmula 443/STJ, que dispõe: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Ainda sobre o tema, as ementas abaixo:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSOPRÓPRIO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. MOTIVAÇÃOIDÔNEA DECLINADA PARA O INCREMENTO DA PENA-BASE. ATENUANTE DE MENORIDADE RELATIVA. INCIDÊNCIA. AUMENTO SUPERIOR A 1/3 PELAS DUAS MAJORANTES. OFENSA À SÚMULA 443/STJ. PENA REVISTA. REGIMEPRISIONAL FECHADO MANTIDO. WRIT NÃO CONHECIDO EORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. No que tange à terceira fase do procedimento dosimétrico, a sentença aplicou a fração de 3/8 (três oitavos) para majorar as penas tão somente em razão das duas causas de aumento reconhecidas, sem apoio em elementos concretos do delito, devendo, portanto, ser limitado o aumento a 1/3 (um terço). Incide, portanto, à espécie o disposto na Súmula 443 desta Corte: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes." 6. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do CP, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda a 5 anos e 4 meses de reclusão, ficando mantido, no mais, o teor do decreto condenatório." g. n. (HC 504.883/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 30/5/2019, DJe4/6/2019)
+ ..
+Ante o exposto, o Ministério Público Federal opina pela extinção do writ sem resolução do mérito, com concessão da ordem, de ofício, para que seja aplicado, na terceira etapa da dosimetria, o acréscimo mínimo de 1/3 (um terço), em face das duas qualificadoras.
+Com essas considerações, passo a redimensionar a pena do paciente.
+Fica mantida a pena aplicada pela instância ordinária na primeira e segunda fase da dosimetria (6 anos e 8 meses de reclusão - fl. 34). Na terceira fase, aplica-se a causa de aumento do concurso de agentes e do emprego de arma de fogo, na fração de 1/3 e, ausentes outras causas de aumento ou de diminuição, torna-se a reprimenda definitiva em 8 anos, 10 meses e 20 dias de reclusão, além de 20 dias-multa.
+Ante o exposto, acolhendo os fundamentos do parecer ministerial, concedo a ordem para fixar a reprimenda do paciente em 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, além de 20 dias-multa, nos termos da presente decisão, mantido, no mais, o acórdão impugnado (Apelação Criminal n. 0317685-73.2019.8.21.7000).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO (ART.157, § 2º, I E II, DO CP). DOSIMETRIA. TERCEIRA FASE. FRAÇÃO DE MAJORAÇÃO SUPERIOR A 1/3. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. MERA REFERÊNCIA ÀS CAUSAS DE AUMENTO DE PENA. SÚMULA 443/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
