@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno manejado por RODOMOVEIS TRANSPORTES E MADEIRAS LTDA. contra decisão da Presidente desta Corte Superior, em que não conheceu do recurso especial em razão da ausência de indicação específica dos dispositivos de lei federal violados e da impossibilidade de exame de ofensa a artigos da Constituição Federal.
+A parte agravante, às e-STJ fls. 381/385, impugna ambos os fundamentos adotados na decisão agravada, pois apontou os arts. 25 da Lei n. 9.430/1996, art. 12 da Lei n. 1.598/1977 e art. 170 do CTN como vulnerados.
+Impugnação não apresentada (certidão de e-STJ fl. 391).
+Passo a decidir.
+Exerço o juízo de retratação.
+O recurso especial em exame desafia o acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. EXCLUSÃO DO PIS/COFINS DA BASE DE CÁLCULO DOIRPJ/CSLL. LUCRO PRESUMIDO. IMPOSSIBILIDADE. Na tributação pelo regime do lucro presumido, o PIS/COFINS não podem ser excluídos da receita bruta para fins de apuração da base de cálculo do IRPJ e da CSLL.
+Pois bem.
+A controvérsia dos presentes autos diz respeito à possibilidade de inclusão dos valores recolhidos a título de contribuição ao Programa de Integração Social - PIS e de Contribuição para o Financiamento da Seguridade Social - COFINS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido.
+Constato que questão similar encontra-se submetida à sistemática dos recursos especiais repetitivos, no âmbito do REsp 1.767.631/SC, REsp 1.772.634/RS e REsp 1.772.470/RS, de relatoria da Ministra Regina Helena Costa, que constitui o Tema 1.008, in verbis: "Possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido."
+Dessa forma, encontrando-se o tema afetado ao rito dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registro, por oportuno, que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão agravada de e-STJ fls. 154/158 e DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que , após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem- se.
