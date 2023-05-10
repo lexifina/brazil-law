@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRONABEL COSMÉTICOS E PERFUMARIA LTDA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+EXECUÇÃO FISCAL. EXTINÇÃO MOTIVADA PELA PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE DE CONDENAÇÃO DA EXEQUENTE.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 722/747):
+o aresto recorrido violou i) art. 1.022, II, 489, § 1º, do NCPC; ii) art. 85 caput e §§ 2º e 3º do NCPC, iii) art. 19 da Lei nº 10.522/02  ..  há de se dizer que o acórdão recorrido, proferido em face da apelação cível em epígrafe, destoa substancialmente do entendimento consolidado por outros tribunais acerca da controvérsia.
+Contrarrazões apresentadas pela parte recorrida (fls. 752/753).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido:
+Acerca da verba honorária, o Superior Tribunal de Justiça - STJ, no julgamento do REsp nº 1.185.036/PE (Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 08/09/2010, DJe 01/10/2010), firmou a tese de que "É possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade". Contudo, no referido julgamento, foi ressalvado que, "embora possível a condenação em honorários, deve ser observado, em cada caso, o princípio da causalidade, conforme já pacificado pelo STJ no julgamento do REsp 1.111.002/SP  ..  No caso, foi a devedora quem deu causa ao processo, em razão do inadimplemento das suas obrigações tributárias, não tendo a Fazenda feito outra coisa senão cumprir a sua obrigação legal de ajuizar a execução fiscal. Assim, com base no princípio da causalidade, é defeso condenar a exequente em honorários advocatícios, de modo que não merece reforma a sentença.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação.
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador dispensa a integração pedida.
+Com relação ao art. 19 da Lei n. 10.522/2002, o conhecimento do recurso encontra óbice nas Súmulas 282 do STF e 211 do STJ, pois não está prequestionado o dispositivo legal.
+Quanto ao art. 85 do CPC/2015, o conhecimento do recurso encontra óbice na Súmula 83 do STJ, pois o acórdão recorrido reflete pacífica orientação jurisprudencial deste Tribunal Superior.
+Com efeito, a Primeira Seção, no REsp 1.185.036/PE, sob a relatoria do em. Min. Herman Benjamin, decidiu ser "possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade".
+Possível, não obrigatória.
+Com efeito, "deve-se perquirir quem deu causa à demanda, a fim de imputar-lhe o ônus de pagar os honorários, em face do princípio da causalidade" (REsp 1659645/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 25/04/2017, DJe 05/05/2017). Nesse sentido, REsp 1.111.002/SP, repetitivo, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/09/2009, DJe 01/10/2009.
+Nesse contexto, ao contrário da prescrição do crédito tributário ocorrida antes da instauração da relação processual, o reconhecimento da ocorrência de prescrição intercorrente não admite a condenação da Fazenda Pública nos ônus de sucumbência, tendo em vista que, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação (mas a devedora) nem pela não localização do devedor ou de seus bens.
+A respeito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. CAUSALIDADE. HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. ÔNUS DA PARTE EXECUTADA.
+1. O reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, pois, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens. Precedentes.
+2. No caso dos autos, o recurso da Fazenda foi provido porque o acórdão do TRF da 4ª Região decidiu condená-la ao pagamento dos honorários sucumbenciais do advogado em razão de a parte executada ter oferecido exceção de pré-executividade.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.929.415/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe de 22/9/2021)
+No mesmo sentido, dentre outros: AgInt no REsp n. 2.014.624/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgInt no AREsp n. 2.191.504/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023; AgInt no AREsp n. 2.158.129/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no REsp n. 1.993.985/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. CAUSALIDADE. HONORÁRIOS SUCUMBENCIAIS DO ADVOGADO. ACÓRDÃO RECORRIDO QUE ATRIBUI O ÔNUS À PARTE EXECUTADA. CONFORMIDADE COM PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
