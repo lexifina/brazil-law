@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de AMARILDO GARCIA DE MOURA , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (HC 2103248-45.2023.8.26.0000).
+O paciente encontra-se preso preventivamente desde o dia 1º/05/2023 pela prática, em tese, do crime do caput do art. 33 da Lei 11.343/2006.
+A impetrante sustenta: a) ser caso de superação do óbice da Súmula 691/STF, "face à patente ilegalidade perpetrada contra a liberdade de locomoção do paciente" (e-STJ fl. 7); e b) "ilegalidade da busca pessoal feita no paciente, por ter sido motivada, apenas e tão-somente, por suposta denúncia anônima" (e-STJ fl. 11).
+Requer, liminar e definitivamente, deferimento da ordem para revogação da prisão preventiva, com ou sem a imposição de medidas alternativas diversas da restrição de liberdade.
+É  o  relatório.
+Trata-se de habeas corpus em face de decisão monocrática em que indeferida liminar também em habeas corpus.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 179-180):
+Por não demonstrado o manifesto constrangimento ilegal na custódia cautelar, descabe o deferimento da medida liminar. Isso porque, a r. decisão está devidamente fundamentada diante da prova da materialidade do delito e os indícios de autoria, considerando que o paciente teria sido preso em flagrante em posse de 6 pinos de cocaína e 3 porções de maconha, além de R$ 16,00 em espécie. Não bastasse, o paciente ostenta vasta folha de antecedentes criminais, com ao menos oito execuções, e é reincidente específico, denotando que está delinquindo faz muito tempo e assim continuará caso seja posto em liberdade. Desta forma, melhor e mais razoável a manutenção da custódia cautelar, ao menos por ora, para a conveniência da instrução criminal e eventual aplicação da lei penal. As demais questões se referem ao mérito da impetração e não podem ser analisadas nesta estreita via do writ.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
