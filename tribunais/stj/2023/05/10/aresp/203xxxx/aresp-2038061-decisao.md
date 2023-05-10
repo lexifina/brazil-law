@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Rejeitados os embargos de declaração opostos contra o referido acórdão, alega a parte recorrente violação dos arts. 489, II, § 1º, IV, e 1.022, II, do CPC, ao argumento de que não foram apreciadas as teses aventadas pelo ente público.
+No mérito, afirma a autarquia que "o acórdão recorrido, ao impedir a cessação do benefício de auxílio por incapacidade temporária independentemente de nova decisão judicial", teria violado os arts. 59, 62 e 101 da Lei n. 8.213/1991 e o art. 71 da Lei n. 8.212/1991.
+Inadmitido o apelo especial, foi interposto o presente agravo.
+É o relatório.
+Entendo que o recurso não merece guarida.
+Registro que não se pode falar em violação do art. 489, §1º, do CPC/2015, porquanto, ainda que se considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões controvertidas mencionadas pelo INSS.
+Não se pode confundir o resultado desfavorável ao litigante com decisão aquém dos limites da lide, motivo pelo qual não se constata violação do preceito apontado.
+A Corte Regional examinou a celeuma, entendeu presentes os requisitos para a concessão de auxílio-doença e determinou que o segurado fosse direcionado à reabilitação, podendo resultar na habilitação daquele ou aposentadoria.
+Portanto, a prestação jurisdicional foi dada na medida da pretensão deduzida, não havendo nulidade do acórdão por negativa de prestação jurisdicional.
+Quando houve a interposição dos aclaratórios, o que queria a parte embargante era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando o recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AgInt nos EDcl no AgInt no AREsp 1.582.376/SP, Rel. Ministro MANOEL ERHARDT (desembargador convocado do TRF5), Prrimeira Turma, julgado em 11/04/2022, DJe 18/04/2022; EDcl no AgInt no REsp 1.896.032/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, Rel. Ministro JORGE MUSSI, Corte Especial, julgado em 08/09/2021, DJe 13/09/2021.
+Aliás, consoante a jurisprudência pacífica do Superior Tribunal de Justiça, o julgador não está obrigado a abordar ou a rebater, um a um, todos os argumentos ou todos dispositivos de lei invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia; devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso (AgInt no AREsp n. 2.002.905/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022).
+No mérito propriamente dito, apenas o art. 62 da Lei n. 8.213/1991 foi prequestionado; em razão disso, o exame quanto à suposta violação dos demais dispositivos esbarra no óbice da Súmula 282 do STF, por analogia.
+Quanto ao referido art. 62, a parte recorrente não demonstrou de maneira clara e objetiva como o acórdão recorrido teria malferido a legislação federal indicada no apelo.
+Na realidade, o Tribunal de origem determinou a aplicação literal do comando disposto no referido dispositivo, transcrevendo-o na decisão.
+Registre-se que a citaçã o geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se o foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/06/2018).
+Aplica-se, portanto a Súmula 284 do STF.
+Aliás, o referido verbete sumular seria também aplicável em razão de outro vício técnico do apelo especial. É que a irresignação do INSS é pelo fato de o acórdão "impedir a cessação do benefício de auxílio por incapacidade temporária independentemente de nova decisão judicial", quando, na realidade, a determinação do juízo se limitou a reproduzir a norma do art. 62 da Lei do RGPS.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
