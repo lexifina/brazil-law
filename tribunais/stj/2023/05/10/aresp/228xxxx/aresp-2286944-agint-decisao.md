@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL, no bojo do qual pleiteia a suspensão do processo, com base no art. 18 da Lei 6.024/1974, tendo em vista a decretação, em 15/02/2023, da sua liquidação extrajudicial, pelo Banco Central; em caráter alternativo, requer o deferimento de gratuidade da justiça, porquanto o recolhimento das custas processuais implicará significativamente na saúde financeira da empresa.
+Na Pet 00317224/2023 (e-STJ, fls. 544/551) a agravante reitera o pedido de suspensão do processo.
+É O RELATÓRIO. DECIDO.
+Consoante a jurisprudência desta Corte, o comando previsto no art. 18 da Lei 6.024/1974, segundo o qual a decretação da liquidação extrajudicial produzirá, de imediato, a suspensão das ações iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda, não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+Nesse sentido: AgInt no REsp 1.985.667/ES, Quarta Turma, DJe 15/8/2022; AgInt no REsp 1.783.833/SP, Terceira Turma, DJe 27/10/2020; AgInt no REsp 1.715.032/SC, Terceira Turma, DJe 3/5/2018; AgInt no REsp 1.669.141/MG, Quarta Turma, DJe 01.08.2018; e AgInt no AREsp n. 902.085/SP, Quarta Turma, DJe 6/3/2017.
+No caso, a ação revisional de contrato de empréstimo consignado de que tratam os autos demanda quantia ilíquida perante esta Corte, razão pela qual não se justifica, por ora, o adiamento do processo.
+Portanto, INDEFIRO o pedido.
+No tocante ao benefício da gratuidade de justiça, conforme o entendimento consolidado nesta Corte Superior, sua concessão a pessoa jurídica depende da demonstração de sua hipossuficiência, não bastando a mera afirmação de carência de recursos ou tão somente a existência de processo de liquidação extrajudicial.
+Assim, considerando que PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL não logrou êxito em comprovar hipossuficiência a justificar a concessão dos benefícios da gratuidade da justiça, determino a intimação da referida empresa para que complemente a documentação juntada aos autos no prazo de 5 dias úteis, nos termos do art. 99, §2º, do NCPC, sob pena de indeferimento do benefício.
+Publique-se. Intimem-se.
