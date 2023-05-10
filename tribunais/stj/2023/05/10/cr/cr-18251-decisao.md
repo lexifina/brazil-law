@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal da Relação de Lisboa, 7ª Secção) solicita que se proceda à notificação de L. M. A. DE O., V. M. A. DE O. e L. H. M. A. DE O. para, no prazo de 15 dias, contestar a Ação de Revisão/Confirmação de Sentença Estrangeira (Processo n. 3077/22.4YRLSB), bem como para tomar ciência de que na falta de oposição e, encontrando-se observados todos os requisitos exigidos dos artigos 980º e 984º do Código de Processo Civil Português, o Tribunal concederá a revisão e confirmará a sentença estrangeira revidenda nos termos do n. 1 do art. 978º do mesmo Código, para que produza os efeitos em Portugal (fl. 7).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 197 ), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
