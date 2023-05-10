@@ -1,0 +1,29 @@
+DECISÃO
+PAULO BORGES FORTES suscita conflito positivo de competência com pedido de liminar, apontando como suscitados, de um lado, o JUÍZO FEDERAL DA 18ª VARA DO RIO DE JANEIRO (RJ) e, de outro, o TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO (TRT1).
+Segundo o suscitante, a controve"rsia cinge-se à prevale ncia de deciso es transitadas em julgado que tratam da responsabilidade de administrador não sócio.
+Narra que o Juízo federal concedeu segurança no MS. n. 5078285-15.2021.4.02.5101 para determinar à Junta Comercial do Estado do Rio de Janeiro (JUCERJA) que procedesse ao registro da renúncia ao cargo de administrador não sócio da empresa, com efeitos retroativos a 1º/8/2016.
+Também relata que, em reclamação trabalhista, opôs exceção de pré-executividade, inicialmente acolhida pelo Juízo da 6ª Vara do Trabalho de Duque de Caxias para afastar sua responsabilização pelos valores reclamados pelo empregado, por não haver culpa e por não ser administrador sócio.
+Contudo, o Tribunal Regional do Trabalho reformou a decisão do Juízo trabalhista, assentando que a responsabilidade do reclamado já estava definida pela coisa julgada, não podendo valer-se da exceção de pré-executividade para tanto.
+Assevera que o TRT1 ignorou a decisão em mandado de segurança proferida na Justiça Federal.
+Requer, liminarmente, a suspensão da Reclamatória Trabalhista n. 0101441-77.2016.5.01.0206.
+No mérito, pede que seja determinado ao TRT1 a observância da coisa julgada firmada no mandado de segurança citado.
+É o relatório. Decido.
+Conforme art. 66 do CPC de 2015:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Na espécie, não está caracterizada nenhuma das hipóteses previstas no art. 66 do CPC de 2015.
+A inicial menciona duas demandas entre as quais não há identidade de causa de pedir ou pedido, nem mesmo relação de conexão ou continência.
+Observa-se que os Juízos suscitados não reconheceram sua competência para julgar as mesmas demandas e que não houve pronunciamento quanto à reunião ou separação dos processos.
+Nem mesmo se poderia falar em decisões conflitantes, pois as demandas têm naturezas diversas.
+A primeira é uma reclamatória trabalhista já em fase de execução definitiva, em que foi reconhecida a legitimidade passiva do reclamado, ora suscitante, para responder pelos valores pleiteados pelo empregado.
+Já na segunda, de natureza mandamental, o Juízo Federal concedeu a segurança para determinar à Junta Comercial que procedesse ao registro da renúncia do suscitante ao cargo de administrador não sócio, também com sentença transitada em julgado.
+Frise-se que o conflito de competência não pode ser utilizado como sucedâneo recursal, devendo o suscitante buscar as vias adequadas para questionar a decisão proferida pelo Tribunal Regional do Trabalho.
+Confiram-se, a propósito, os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. UTILIZAÇÃO DO CONFLITO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. PRECEDENTES. EXECUÇÃO FISCAL. ARREMATAÇÃO DE IMÓVEL, NA JUSTIÇA FEDERAL, OBJETO DE CONTRATO DE LOCAÇÃO. AÇÕES NA JUSTIÇA ESTADUAL, QUE DISCUTEM QUESTÕES RELACIONADAS À LOCAÇÃO. PARTES, CAUSA DE PEDIR E PEDIDO DISTINTOS, EM AÇÕES DIVERSAS. AUSÊNCIA DE CONFLITO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.  ..  V. O presente Conflito - no qual não foi colacionada qualquer decisão proferida pelo Juízo Estadual - está sendo usado como sucedâneo recursal, com o com o objetivo de suprir, à época de sua propositura, a inexistência de julgamento, no âmbito do Tribunal Regional Federal da 5ª Região, do Agravo de Instrumento, interposto pela ora agravante, no qual defende a incompetência do Juízo Federal para determinar a desocupação do imóvel, o que não se mostra possível, na forma da jurisprudência do STJ, ao apreciar situação análoga: "A pretensão efetivamente deduzida nos autos não versa sobre a competência para processar e julgar determinada causa, mas, sim, sobre a existência de error in iudicando no ato processual (decisão do juízo das Execuções Fiscais que determinou a expedição de mandado de imissão na posse do imóvel leiloado nos autos da demanda executiva), com base na suposta incompetência absoluta. Conflito de Competência que não pode ser utilizado como sucedâneo recursal. Conflito de Competência não conhecido" (STJ, CC 104.367/RJ, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 04/03/2010). VI. Agravo Regimental improvido. (AgRg no CC n. 136.686/PE, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 26/6/2019, DJe de 1º/8/2019.)
+CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - REDIRECIONAMENTO DA EXECUÇÃO - RECONHECIMENTO PELA JUSTIÇA DO TRABALHO DE EXISTÊNCIA DE GRUPO ECONÔMICO - INCIDÊNCIA DA SÚMULA 480 DO STJ - INCIDENTE UTILIZADO COMO SUCEDÂNEO DE RECURSO - INOCORRÊNCIA DE INVASÃO DE COMPETÊNCIA. 1. Não há conflito de competência quando o redirecionamento da execução trabalhista para empresas do mesmo grupo econômico não atingir o patrimônio daquela em regime de recuperação judicial. Aplicação da Súmula 408 do STJ. 2. Nestes termos, o presente incidente processual não é sucedâneo de recurso para reverter a decisão da justiça especializada que, em sede de exceção de pré-executividade, reconheceu a existência de responsabilidade solidária entre sociedades coligadas. Precedentes da Segunda Seção. 3. Conflito de competência não conhecido. (CC n. 145.428/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/6/2016, DJe de 17/6/2016.)
+Ante o exposto, não conheço do conflito de competência.
+Prejudicado o pedido de liminar .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
