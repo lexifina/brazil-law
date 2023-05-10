@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 334-338) interposto por N. C. DOS S., com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 325):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO À HERANÇA DE BENS DE ORIGEM ILÍCITA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO INFIRMAD O. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO NÃO CONHECIDO.
+1. O agravante não atacou o fundamento do decisório agravado que assentou a impossibilidade da devolução de bens de origem ilícita. Incidência da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+2. Agravo regimental não conhecido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, LVII, da CF.
+Nesse sentido, argumenta que "inexistente título condenatório válido para supedanear a decretação de perdimento de bens e valores apreendidos com quem vem a falecer antes da sentença" (fl. 336).
+Assevera, ainda, que (fl. 336):
+ ..  as decisões exaradas pelo julgador de piso, TRF-4 e STJ deixaram implícito o enfrentamento da questão alusiva à presunção de inocência na medida em que chancelaram a medida de perdimento de determinada soma em dinheiro apreendido com um personagem QUE TEVE A PUNIBILIDACE EXTINTA PELA MORTE ANTES DO TRANSITO EM JULGADO DA AÇÃO CRIMINAL PORQUE RESPONDIA.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 343-345.
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque não houve impugnação específica aos fundamentos da decisão que negou provimento ao recurso ordinário em mandado de segurança, incidindo o óbice da Súmula n. 182/STJ.
+Nos casos em que o mérito do recurso ordinário não chegou a ser apreciado pelo órgão colegiado , a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
