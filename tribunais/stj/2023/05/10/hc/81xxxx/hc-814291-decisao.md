@@ -1,0 +1,12 @@
+DECISÃO
+Pelas decisões de fls. 61/63 e 80/81, deferi a liminar e o pedido de extensão, a fim de restabelecer a sentença no ponto em que garantiu aos acusados o direito de aguardar o trânsito em julgado em liberdade.
+Agora, pelas petições de fls. 156/174 e 175/201, informam o paciente e o corréu que o Magistrado de primeiro grau não cumpriu a decisão liminar prolatada nestes autos, além de, após requerimento do Ministério Público estadual, ter determinado nova prisão preventiva. Postularam, assim, fosse anulada a nova decisão que decretou a prisão cautelar, bem como que se oficiasse ao Tribunal estadual e o CNJ para se averiguar a conduta do Magistrado.
+É o relatório.
+Primeiramente, não visualizo a ocorrência do alegado descumprimento da decisão liminar proferida nos presentes autos, tendo em vista que, à fl. 150, informa o Magistrado que, em cumprimento à decisão liminar exarada pelo STJ, determinou a expedição dos competentes alvarás de soltura dos réus e, após, fossem os autos encaminhados ao Tribunal de Justiça para julgamento dos recursos de apelação.
+Além disso, como relatado pelo próprio paciente, foi proferida nova decisão de prisão cautelar, após requerimento do órgão ministerial, o que enseja a perda de objeto da presente impetração, tendo em vista que o novo título ainda deve ser submetido ao exame do Tribunal estadual, não se admitindo a pretendida supressão de instância.
+Cumpre destacar, ainda, que, na mesma data em que foi peticionado nestes autos, o corréu GABRIEL JORGE OLIVEIRA DE MEDEIROS DE SOUZA, beneficiado com o pedido de extensão, também opôs embargos de declaração contra a decisão de primeiro grau, os quais, segundo alega a impetrante (fls. 203/209) , foram rejeitados, o que implicou a impetração de novo habeas corpus no Tribunal estadual (Processo n. 0053820-23.2023.8.19.0001), no qual foi deferida a liminar para revogar a prisão preventiva de RAFAEL LUZ SOUZA e GABRIEL JORGE OLIVEIRA DE MEDEIROS DE SOUZA.
+Ante o exposto, julgo prejudicado o habeas corpus, cassados o pedido de extensão e a liminar.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. INDEVIDA REFORMATIO IN PEJUS. NOVA PRISÃO DECRETADA APÓS REQUERIMENTO DO MINISTÉRIO PÚBLICO ESTADUAL. NOVO TÍTULO PRISIONAL A SER SUBMETIDO AO EXAME DA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS. LIMINAR DEFERIDA NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO.
+Writ prejudicado. Liminar e extensão cassados.
