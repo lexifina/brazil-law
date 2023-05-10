@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MAYARA FERNANDA TEÓFILO com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1048785-62.2021.8.26.0576) assim ementado (fl. 226):
+Ação de rescisão contratual cumulada com restituição de valores. Sentença de parcial procedência. Apelação interposta pela autora. Compromisso de compra e venda. Rescisão contratual declarada judicialmente por iniciativa do adquirente. Contrato firmado durante a vigência da Lei nº 13.786/2018, atraindo, portanto, nova disciplina normativa. Cláusula contratual que estabelece a forma de devolução dos valores pagos em perfeita consonância com o artigo 32-A da Lei nº 6.766/1979. Inexistência de abusividade ou ilegalidade. Taxa de fruição que é devida também nos casos de lote não edificado, pois decorrente da efetiva disponibilização do imóvel à compromissária-compradora. Precedentes desta C. Câmara. Possibilidade de restituição em parcelas, nos termos do art.32-A, §1º, da Lei nº 6.766/1979. Sentença mantida.
+Recurso desprovido.
+No bojo do recurso especial, a parte recorrente alega divergência jurisprudencial em relação a precedentes do STJ. Argumenta ser indevida a cobrança da taxa de fruição em terreno não edificado. Ressalta que as despesas suportadas pela promitente vendedora foram compensadas pelo percentual de retenção arbitrado em 30%.
+Acrescenta o seguinte (fl. 240):
+ ..  O acórdão recorrido também ofende os artigos 53, 51, IV e 6º, V do CDC, bem como a Súmula 543 do STJ, e provoca ilícito enriquecimento da recorrida e, por outro lado, o empobrecimento indevido e injusto da recorrente, o que ano se coaduna com a jurisprudência desta Corte Superior.
+Requer o conhecimento e provimento do recurso para afastar a condenação quanto ao pagamento da taxa de fruição em favor da recorrida. Subsidiariamente, pleiteia (fl. 244):
+ ..  seja ela computada a partir da inadimplência contratual até a decisão liminar que determinou a suspensão das cobranças das parcelas contratuais e dos encargos do bem (fls. 56), a qual foi consolidada em sentença (fls. 180-186).
+As contrarrazões foram apresentadas às fls. 275-280.
+Admitido o apelo extremo (fls. 282-282), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso merece prosperar.
+Consta da decisão impugnada o seguinte (fls. 229-232, destaquei):
+Considerando que o compromisso de compra e venda foi celebrado entre as partes em 01/08/2019, a nova legislação deve ser aplicada na situação em exame, como acertadamente assinalado pelo MM. Magistrado a quo.
+Conforme se observa da cláusula penal instituída do instrumento contratual (cláusula 4.6 fls. 35), a forma de devolução dos valores pagos pelo compromissário-comprador nos casos de rescisão por sua iniciativa foi prevista em estrita consonância com o artigo 32-A da Lei nº 6.766/1979.
+Com efeito, o contrato não apenas obedece aos ditames legais como, ainda, estipula percentual de retenção dos valores pagos e indenização decorrente da fruição do imóvel de forma mais branda que a aludida lei, de maneira a beneficiar a consumidora.
+Dessa forma, não há como se reconhecer qualquer abusividade ou ilegalidade nas condições pactuadas para eventual rescisão contratual, como pretende a apelante, pois em perfeita conformidade com a legislação aplicável ao negócio jurídico em análise.
+ ..
+Outrossim, não prospera o pleito de afastamento da indenização pela fruição sob o fundamento de que não houve edificação no lote.
+A jurisprudência desta C. Câmara é firme no sentido de que a condenação dos adquirentes ao pagamento de lucros cessantes, relativos ao tempo de fruição do imóvel, dispensa a edificação ou o efetivo uso, bastando, para tanto, que haja a transferência da posse.
+Embora, de fato, a posse exercida pela compromissária-compradora tenha sido precária, porquanto decorrente de compromisso de compra e venda ainda não adimplido, é cediço que poderia ter exercido atos próprios de possuidora do imóvel.
+Ainda que não tenha erigido qualquer construção sobre o lote, a apelante não nega que houve efetiva disponibilização do bem em 01/08/2019. E, assim sendo, a apelada, possuidora indireta, deixou de dar ao imóvel a destinação que lhe melhor conviesse, bem como de perceber os frutos decorrentes da posse, surgindo, por conseguinte, o dever de ser indenizada por lucros cessantes.
+O entendimento adotado no acórdão recorrido não encontra amparo na jurisprudência firmada pelo Superior Tribunal de Justiça, que reconhece ser indevida a cobrança da taxa de fruição do consumidor na hipótese de rescisão de contrato de promessa de compra e venda de terreno não edificado.
+No mesmo sentido, confiram-se os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE RESCISÃO DE INSTRUMENTO PARTICULAR DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL CUMULADA COM RESTITUIÇÃO DE VALORES. TAXA DE FRUIÇÃO. NÃO CABIMENTO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, é indevida a taxa de ocupação ou fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor.
+2. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.3. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt no REsp n. 2.020.258/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL (LOTE). TAXA DE FRUIÇÃO INDEVIDA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, tratando-se de terreno sem edificação e não havendo prova de realização de qualquer benfeitoria no lote, bem como ausente qualquer comprovação de prejuízo efetivo, não há que se falar em indenização a título de fruição do imóvel (REsp 1.863.007/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 23/3/2021, DJe 26/3/2021).
+2. "A controvérsia foi dirimida no TJSP nos termos da jurisprudência pacífica desta Corte, de que o arrependimento do promitente comprador de unidade habitacional em construção não importa em perda das arras se estas forem confirmatórias, admitindo-se, contudo, a retenção, pelo vendedor, de parte das prestações pagas, como forma de indenizá-lo pelos prejuízos eventualmente suportados com o desfazimento do negócio. Aplicação, ao caso, da Súmula nº 568 do STJ." (AgInt no REsp 1.864.915/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 24/8/2020, DJe 27/8/2020).
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.940.543/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO CIVIL. TAXA DE FRUIÇÃO. IMÓVEL. EDIFICAÇÃO. AUSÊNCIA. INVIABILIDADE DA COBRANÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência desta Corte de Justiça, não cabe o pagamento de taxa de ocupação/fruição de imóveis não edificados.
+3. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.963.417/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para afastar a condenação da parte recorrente ao pagamento da taxa de fruição, consoante a fundamentação acima.
+Publique-se. Intimem-se.
