@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MOISES DOS PASSOS GOMES contra decisão da lavra da Presidência desta Corte que não conheceu do agravo em recurso especial, em virtude da incidência da Súmula n. 182/STJ (e-STJ fls. 1.583/1.584).
+Daí o presente agravo regimental, no qual o agravante alega que teria impugnado todos os fundamentos da decisão que negou seguimento ao apelo nobre.
+Assim, requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 desta Corte.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+O recurso especial foi inadmitido pelo Tribunal de origem, com fundamento na Súmula n. 7/STJ, Súmula n. 83/STJ (uso de arma branca), Súmula n. 83/STJ (restrição da liberdade das vítimas) e Súmula n. 518/STJ.
+Todavia, conforme asseverado na decisão ora agravada, o agravante não infirmou especificamente o óbice contido na Súmula n. 83/STJ (uso de arma branca) e Súmula n. 83/STJ (restrição da liberdade das vítimas).
+Ressalte-se que, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, de forma a demonstrar que outra é a orientação jurisprudencial desta Corte Superior, pois, como consta da decisão de inadmissibilidade do recurso especial, essa é a jurisprudência do Superior Tribunal de Justiça (e-STJ fl. 1.535/1.536 e fl. 1.538, grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBO. EMPREGO DE ARMA BRANCA (FACA) UTILIZADA PARA MAJORAR A PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE AGREGAM MAIOR DESVALOR À CONDUTA. REGIME FECHADO. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVADA. MANUTENÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora o emprego de arma branca tenha deixado de configurar causa de aumento de pena entre a vigência da Lei n. 13.654/2018 e o advento da Lei n. 13.964/2019, a jurisprudência desta Corte é firme no sentido de ser possível a utilização dessa circunstância para efeito de exasperar a pena-base.
+2. No caso concreto, a utilização da arma branca aumentou a reprovabilidade da conduta, uma vez que o acusado e seus comparsas se aproveitaram, além da superioridade numérica, do uso da faca para ameaçar a vítima, o que justifica a exasperação da pena-base.
+3. Apesar de o montante da pena (7 anos de reclusão) comportar, em princípio, o regime inicial semiaberto, a pena-base foi mantida acima do mínimo legal, circunstância esta que justifica o recrudescimento do regime.
+4. Agravo regimental não provido. (AgRg no HC n. 654.133/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO TRIPLAMENTE QUALIFICADO (ART. 157, § 2.º, INCISOS I, II E V, DO CÓDIGO PENAL). RESTRIÇÃO DA LIBERDADE DA VÍTIMA. TEMPO JURIDICAMENTE RELEVANTE. PRAZO SUPERIOR AO NECESSÁRIO À CONSUMAÇÃO DO CRIME. MAJORANTE. CARACTERIZAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, as filmagens indicaram que a empreitada criminosa durou 38 minutos (de 07 horas e 27 minutos, até 08 horas e 05 minutos do mesmo dia). Além disso, a liberdade do gerente da agência foi restringida antes mesmo das imagens, ou seja, desde o instante em que saíra de sua residência, até a EBCT, sendo forçado a entrar no veículo, onde ficou recebendo ameaças até a abertura do cofre, tendo sido trancado na sala da tesouraria juntamente com outros três funcionários, que chegaram na agência no momento do roubo, vindo a conseguir escapar tão somente após retirar os pinos das dobradiças das portas, quando os Agravantes já teriam deixado o local.
+2. O referido fato ultrapassa a elementar referente à redução da capacidade de resistência da vítima, para caracterizar a causa de aumento prevista no art. 157, § 2.º, inciso V, do Código Penal, uma vez que a restrição perdurou por tempo juridicamente relevante, superior àquele necessário para a consumação do delito.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.715.226/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe de 6/10/2020.)
+A propósito:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PENAL E PROCESSO PENAL. DELITO DE ROUBO. EMPREGO DE ARMA BRANCA. LEI N. 13.654/2018. REVOGAÇÃO DO INCISO I, DO §2º, DO ART. 157, DO CÓDIGO PENAL - CP. NOVATIO LEGIS IN MELLIUS. NÃO CONFIGURAÇÃO DE CAUSA DE AUMENTO. USO DO FUNDAMENTO PARA ALTERAÇÃO DA PENA-BASE. POSSIBILIDADE. NECESSIDADE DE FUNDAMENTAÇÃO. TRANSPOSIÇÃO VALORATIVA OU DETERMINAÇÃO NESSE SENTIDO. IMPOSSIBILIDADE. DISCRICIONARIEDADE DO JULGADOR. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO CONTRARIEDADE AOS ENTENDIMENTOS EXTERNADOS. DESPROVIMENTO DO RECURSO. FIRMAMENTO DAS TESES. RECURSO DESPROVIDO.
+1. Esta Corte há muito definiu que, com o advento da Lei 13.654/2018, que revogou o inciso I do artigo 157 do CP, o emprego de arma branca no crime de roubo deixou de ser considerado como majorante, sendo, porém, plenamente possível a sua valoração como circunstância judicial desabonadora, quando as circunstâncias do caso concreto assim justificarem.
+1.1. O grau de liberdade do julgador não o isenta de fundamentar o novo apenamento ou de justificar a não realização do incremento na basilar, mormente neste aspecto de abrangência, considerando que a utilização de "arma branca" nos delitos de roubo representa maior reprovabilidade à conduta, sendo necessária a fundamentação, nos termos do art. 387, II e III, do CPP, 2. Este Superior Tribunal de Justiça também definiu que não cabe a esta Corte Superior compelir que o Tribunal de origem proceda à transposição valorativa dessa circunstância - uso de arma branca - para a primeira fase, em razão da discricionariedade do julgador ao aplicar a novatio legis in mellius.
+2.1. Ressalta-se que a afetação esteve restrita à possibilidade de determinação para que o Tribunal de origem refizesse a dosimetria da pena, transpondo o fundamento do uso de arma branca no crime de roubo para a primeira fase da dosimetria. Ocorre ser necessária a extensão da discussão, considerando existirem também julgados nesta Corte que sustentam a impossibilidade de que essa nova valoração seja feita por este Superior Tribunal de Justiça, na via do especial, em vista da discricionariedade do julgador.
+2.2. A revisão das sanções impostas só é admissível em casos de ilegalidade flagrante, consubstanciadas no desrespeito aos parâmetros legais fixados pelo art. 59, do CP, sem a necessidade de maior aprofundamento no acervo fático-probatório dos autos, que está intimamente atrelado à avaliação do melhor juízo, àquele mais atento às peculiaridades do caso concreto, sob pena de incidência da Súmula n. 7/STJ.
+2.3. No caso concreto, como o Tribunal de Justiça afastou a obrigatoriedade do novo apenamento, justificando-a, em razão da inexistência de lei nesse sentido, verifico o não descumprimento aos entendimentos antes externados.
+Delimitadas as teses jurídicas para os fins do art. 543-C do CPC, nos seguintes termos: 1. Em razão da novatio legis in mellius engendrada pela Lei n. 13.654/2018, o emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado como fundamento para a majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem. 2. O julgador deve fundamentar o novo apenamento ou justificar a não realização do incremento na basilar, nos termos do que dispõe o art. 387, II e III, do CPP. 3. Não cabe a esta Corte Superior a transposição valorativa da circunstância para a primeira fase da dosimetria ou mesmo compelir que o Tribunal de origem assim o faça, em razão da discricionariedade do julgador ao aplicar a novatio legis in mellius.
+3. Recurso especial desprovido. (REsp n. 1.921.190/MG, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/5/2022, DJe de 27/5/2022, grifei.)
+Anota-se, ainda, que o entendimento deste Tribunal Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2016, DJe 31/3/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DOLOSO TENTADO E FRAUDE PROCESSUAL. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO DO DELITO E AFASTAMENTO DAS QUALIFICADORAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A incidência da Súmula n. 83 deste Superior Tribunal de Justiça não se restringe ao recurso especial aviado com base na alínea "c" do inciso III do art. 105, da Constituição Federal, aplicando-se o enunciado, da mesma forma, aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional. (AgRg no AREsp n. 299.793/SP, Rel. Ministro Gurgel de Faria, Quinta Turma, DJe 27/11/2014.)
+- O princípio da identidade física do juiz não é absoluto, devendo a parte fazer prova do prejuízo, o que não ocorreu na espécie.
+- O pedido de desclassificação do delito e de afastamento das qualificadoras enseja o reexame do material fático-probatório dos autos, procedimento inadmissível em recurso especial. Incidência da Súmula n. 7/STJ.
+Agravo regimental desprovido. (AgRg no AREsp n. 623.381/MA, relator Ministro ERICSON MARANHO, Desembargador convocado do TJSP, SEXTA TURMA, julgado em 12/5/2015, DJe 26/5/2015, grifei.)
+Desse modo, não havendo impugnação específica dos fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 desta Corte Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp n. 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/2/2016, grifei.)
+PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE, POR ANALOGIA, DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inadmissível o agravo que não infirma todos os fundamentos da decisão que negou seguimento ao recurso especial. Súmula 182/STJ.
+2. Na hipótese, inadmitido o recurso em razão das Súmulas 7/STJ e 83/STJ, incumbia à parte demonstrar a não incidência dos enunciados sumulares.
+3. A incidência da Súmula 7/STJ impede o exame do recurso especial pelo dissídio jurisprudencial, tendo em vista a ausência de identidade fática entre o acórdão paradigma apresentado e os fundamentos do acórdão recorrido.
+4. Agravo regimental improvido. (AgRg no AREsp n. 275.940/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/6/2015, DJe 9/6/2015, grifei.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1.  ..
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp n. 1.374.369/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/6/2013, DJe 26/6/2013, grifei.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
