@@ -1,0 +1,20 @@
+DECISÃO
+Com a pretensão, inclusive em sede de liminar, do reconhecimento de nulidade da decisão de indeferimento dos pedidos de ofícios da defesa à acusação, em conformidade aos Artigos 1º inciso IV; 4º, inciso II; 5ºincisos LIV, LV, LVII; 93, inciso IX da Constituição Federal e 648 incisos I e VI e do 564, inciso II e III, letra A do Código de Processo Penal, para que o Juízo seja determinado a oficiar conforme os pedidos "3" e "11" da defesa à acu sação para o princípio da AMPLA DEFESA, DEVIDO PROCESSO LEGAL E PARIDADE DAS ARMAS (fl. 182), Carlos Henrique Vieira dos Santos interpõe o presente recurso - denunciado como incurso no art. 129, § 3º, do Código Penal -, atacando o acórdão lavrado pelo Tribunal de Justiça de Minas Gerais que não conheceu do HC n. 1.0000.23.082290-0/000 (fls. 141/146).
+Estes autos foram a mim distribuídos por prevenção (RHC n. 171.891/MG).
+É o relatório.
+Por ocasião do não conhecimento do prévio writ, o Tribunal de origem consignou o seguinte (HC n. 1.0000.23.082290-0/0000 - fls. 143/145 - grifo nosso):
+ ..  Conforme se observa, o impetrante busca a nulidade da decisão que indeferiu os pleitos defensivos de realização de diligências.
+Registro que tal pedido não trata de matéria de Habeas Corpus, posto que não implica violência ou coação ilegal na liberdade de ir e vir. A alegada nulidade, quando não impactar diretamente na liberdade de locomoção do paciente, deve ser impugnado por outras vias.
+ ..
+Destaco que o paciente não se encontra preso e não apontou suficientemente a existência de alguma ameaça ao seu direito de ir e vir.
+Ora, o Habeas Corpus não poderá ser admitido como sucedâneo de regular recurso, salvo em casos de flagrante ilegalidade ou nulidade, o que não vislumbro, prima facie, em observância ao princípio da unicidade recursal, pois, cada decisão judicial tem uma finalidade e desafia um meio próprio de impugnação, sob pena de tumulto processual e insegurança jurídica.
+ ..
+Logo, tendo o impetrante verificado qualquer nulidade no processo, a defesa deve alegá-la durante alegações finais, ou, se for o caso, por meio de recurso de apelação, não sendo o Habeas Corpus via adequada para tanto.
+ ..
+Pois bem, embora admissível a ponderação feita pela Corte de origem no sentido de que, por estar o paciente solto, não seria caso de conhecimento do prévio writ, já que o remédio constitucional se volta ao combate de constrangimento ilegal específico, de ato ou decisão que afete o direito de ir e vir do cidadão, entendo, in casu, qu e tal matéria seja sim passível de análise em habeas corpus, visto que poderá resultar em reflexos, ainda que indiretos, na liberdade de locomoção do acusado, mormente porque não foi verificado se houve o indeferimento devidamente motivado das diligências requeridas, de modo a assegurar a inexistência de eventual cerceamento de defesa.
+Sob esta moldura, dou provimento ao presente recurso para determinar que o Tribunal de Justiça de Minas Gerais reaprecie o HC n. 1.0000.23.082290-0/000, no que pertine à legalidade do indeferimento proferido pelo Juízo de Direito da 4ª Vara Criminal da comarca de Contagem/MG quanto às diligências requeridas pela Defesa, verificando se houve a negativa devidamente fundamentada acerca de sua desnecessidade para o deslinde da controvérsia, com vista a afastar eventual cerceamento de defesa.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 129, § 3º, DO CP. TESE DE NULIDADE. INDEFERIMENTO DO JUÍZO DE PISO DAS DILIGÊNCIAS REQUERIDAS PELA DEFESA. NÃO CONHECIMENTO DA IMPETRAÇÃO PELO TRIBUNAL A QUO. PACIENTE EM LIBERDADE. AUSÊNCIA DE OFENSA AO DIREITO AMBULATORIAL. POSSIBILIDADE DE REFLEXOS AINDA QUE INDIRETOS NA LOCOMOÇÃO. NECESSIDADE DE VERIFICAÇÃO DA LEGALIDADE QUANTO À MOTIVAÇÃO DA NEGATIVA. AFASTAMENTO DE EVENTUAL CERCEAMENTO DE DEFESA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido para determinar ao Tribunal de origem a reapreciação do HC n. 1.0000.23.082290-0/000, nos termos do dispositivo.
