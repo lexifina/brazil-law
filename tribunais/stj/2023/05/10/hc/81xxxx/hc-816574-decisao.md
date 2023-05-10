@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 19):
+Furtos simples Recurso defensivo Sentença condenatória Absolvição Impossibilidade Prova testemunhal coerente e sem desmentido Pleito defensivo de reconhecimento do estado de necessidade e da inexigibilidade de conduta diversa Impossibilidade A demonstração de qualquer causa de exclusão de ilicitude ou de culpabilidade, é ônus de quem alega (art. 156 do CPP), exigindo comprovação inequívoca, o que inocorre nestes autos Aplicação do furto privilegiado Impossibilidade Dosimetria Pena fixada no mínimo legal Elevação pela continuidade à fração de 1/5 Regime aberto Substituída a pena privativa de liberdade por restritivas de direitos Recurso improvido.
+Consta dos autos que a paciente foi condenada como incursa no art. 155, caput, c/c art. 71, do Código Penal, a 1 ano, 2 meses e 12 dias de reclusão, em regime aberto, e pagamento de 12 dias-multa, substituída a pena privativa de liberdade por restritiva de direitos.
+No presente writ, a impetrante alega que a paciente é primária "e o valor furtado foi estimado em R$ 624,95 pela denúncia. O bem supostamente furtado, como se sabe, é item de necessidade básica e faz parte do mínimo existencial para que qualquer ser humano tenha uma vida digna" (fl. 4).
+Requer, assim, liminarmente e no mérito, o reconhecimento do furto privilegiado, no patamar máximo.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pela concessão da ordem.
+Sobre o tema, consta do acórdão recorrido (fl. 27):
+Também não comporta acolhida o pleito defensivo de reconhecimento do furto privilegiado.
+In casu, não se encontra preenchido o requisito de pequeno valor da res furtiva, sobretudo porque, conforme a exordial, o valor estimado do prejuízo da concessionária foi de R$ 624,95, valor que não pode ser considerado irrisório.
+Como visto, o privilégio em apreço não foi aplicado diante do valor do bem furtado - R$ 624,95 -, montante esse que corresponde a 71% o salário mínimo vigente à época (R$ 880,0 0 - ano de 2016), não havendo falar-se em ilegalidade, de acordo com a jurisprudência desta Corte.
+Isto porque, "No caso, constata-se que o valor da res furtiva, avaliada em R$ 248,57 (duzentos e quarenta e oito reais e cinquenta e sete centavos), corresponde a mais de 26% (vinte e seis por cento) do salário mínimo vigente à época do fato criminoso. Desse modo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante" (AgRg no AREsp n. 2.022.596/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/9/2022, DJe de 3/10/2022). Ainda, nesses termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO SIMPLES. APLICAÇÃO DO PRIVILÉGIO. DESCABIMENTO. EXPRESSIVO VALOR DO PREJUÍZO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para a aplicação da figura do furto privilegiado, é necessário que o agente seja primário e de pequeno valor a coisa subtraída. Na esteira desse entendimento, posicionou-se este Tribunal no sentido de que pequeno valor é aquele que não excede um salário mínimo ao tempo da prática delitiva.
+2. No caso, extrai-se que a motivação apresentada na origem é idônea para refutar a aplicação do privilégio, na medida em que a res furtiva não pode ser considerada de pequeno valor, uma vez que excede o salário mínimo vigente ao tempo dos fatos, que era de R$ 724,00 (setecentos e vinte e quatro reais).
+3. Ademais, embora aponte a defesa a ausência de certeza quanto ao valor furtado, a Corte local foi enfática ao afirmar que foram subtraídos ao menos R$ 766,00 (e-STJ, fl. 71). Assim, para desconstituir tal afirmativa seria necessário revolvimento de matéria fático-probatória, providência inviável em sede de habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 708.323/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
