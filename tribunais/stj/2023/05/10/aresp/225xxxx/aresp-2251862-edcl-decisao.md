@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DE RONDÔNIA contra decisão de e-STJ fls. 667/670, em que conheci do agravo para não conhecer do recurso especial em razão da incidência das Súmulas 284 do STF e 7 do STJ e porque o recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+Em suas razões, a parte embargante sustenta que houve omissão no decisum recorrido sobre temas essenciais ao deslinde da causa e que não há necessidade "de análise de fatos, apenas de normas federais, em especial o art. 6º, XIV, da Lei n. 7.713/1988" (e-STJ fl. 680).
+Impugnação não apresentada.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material, vícios esses inexistentes na espécie.
+Isso porque a decisão ora embargada foi clara ao assentar o entendimento de que: (i) quanto à alegada violação dos artigos 1º da Lei n. 12.016/2009 e 20 da Lei n. 8.213/1991, incide o óbice da súmula 284 do STF pois a parte não especificou de que forma o acórdão recorrido teria violado tais dispositivos legais, além do que, quanto a esse último (art. 20 da Lei n. 8.213/1991), não indicou qual inciso teria sido contrariado; (ii) a eventual afronta à lei federal (Lei n. 7.713/19 88) é meramente reflexa (iii) desconstituir a conclusão do julgado recorrido importaria em necessário revolvimento de matéria fática, o que encontra óbice na Súmula 7 do STJ.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
