@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo Federal da 14ª Vara Federal da Seção Judiciária do Distrito Federal e o Juízo Federal da 2ª Vara Federal de Florianópolis, da Seção Judiciária de Santa Catarina, em ação civil pública proposta pelo Ministério Público Federal, em face da Agência Nacional de Telecomunicações - Anatel e da Brasil Telecom S. A., objetivando "a defesa de direito dos usuários do serviço de telefonia fixa comutada no Município de Luís Alves/SC, tanto na modalidade de telefones de uso individual, quanto na de telefones de uso público. Constatado pelo autor, Ministério Público Federal (MPF), a ausência setorizada de prestação dos serviços naquele Município, em violação ao dever de regular adequadamente o serviço público e de fiscalizar, pela ré ANATEL; e de universalizar o serviço, como determina a Lei Geral de Telecomunicações, pela ré Brasil Telecom S. A.".
+É o relatório. Decido.
+Com fundamento nos arts. 955, caput, segunda parte, do CPC/2015 e 196 do RISTJ, designo o Juízo Federal da 2ª Vara Federal de Florianópolis - SJ/SC, o suscitado, para deliberar, em caráter provisório, acerca dos pedidos e das medidas urgentes que se façam necessárias.
+Comunique-se aos Juízos envolvidos, informando-os do teor da presente decisão.
+Após, nos termos do art. 64, XIII, do RISTJ, dê-se vista dos autos ao Ministério Público Federal para manifestação.
+Publique-se. Intimem-se.
