@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 39ª Vara do Juizado Especial Cível de Itapeva - SJ/SP, o Suscitante, e o Juízo de Direito da Vara Única de Apiaí - SP, o Suscitado, em autos de ação ajuizada por Regiane Moreira em desfavor do Instituto Nacional do Seguro Social, em que a autora postula a concessão de salário-maternidade.
+Depreende-se dos autos que: (i) o Juízo Federal da 39ª Vara do Juizado Especial Cível Adjunto de Itapeva - SJ/SP, considerando que a autora e suas testemunhas residem na Comarca de Apiaí/SP, remeteu carta ao Juízo de Direito da Vara Única de Apiaí - SP deprecando a oitiva das testemunhas arroladas, bem como a oportunidade para razões finais orais; (ii) o juízo deprecado devolveu a carta precatória sem cumprimento, considerando que "a Comarca de Apiaí dispõe de sala passiva no Fórum, que permite a oitiva de testemunhas por videoconferência diretamente pelo juízo deprecante", com respaldo na Resolução nº 354/2020 do CNJ; (iii) o Juízo Federal, por sua vez, argumentando que "as hipóteses de recusa de cumprimento ou devolução de carta precatória encontram-se no rol taxativo do art. 267 do CPC, inexistentes no presente caso", suscitou o presente conflito de competência.
+O Ministério Público Federal opinou pelo conhecimento do conflito para firmar a competência do juízo suscitado para o cumprimento da carta precatória.
+É o relatório.
+Passo a decidir.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, de acordo com o disposto no artigo 105, I, "d", da Constituição Federal.
+A orientação deste Tribunal firmou-se no sentido de que o art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+Dessa forma, a carta precatória somente poderá ser recusada pelo Juízo deprecado caso este entenda ser absolutamente incompetente em razão da matéria ou da hierarquia; caso não esteja a precatória revestida de seus requisitos legais, ou, ainda, quando houver dúvida sobre a sua autenticidade.
+Na hipótese em análise, nenhum desses óbices foi apontado pelo Juízo Suscitado.
+Ademais, como bem destacado pelo representante do Ministério Público Federal, "a prática de atos processuais por videoconferência é uma faculdade do Juízo deprecante, não cabendo ao Juízo deprecado a determinação da realização de audiência de forma diversa da realização de audiência. Ao juízo deprecado somente é permitido devolver carta precatória nas hipóteses taxativas do art. 267 do CPC/2015".
+Sobre o tema:
+CONFLITO DE COMPETÊNCIA. DIREITO PREVIDENCIÁRIO. OITIVA DE TESTEMUNHA. CARTA PRECATÓRIA. VIDEOCONFERÊNCIA. NÃO OBRIGATORIEDADE. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO.
+I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.
+III - Conflito de competência conhecido para declarar competente para a causa o Juízo Federal da 2ª Vara do Juizado Especial Cível e Criminal de Pouso Alegre/MG. (CC n. 165.381/MG, relator Ministro Francisco Falcão, Primeira Seção, julgado em 12/6/2019, DJe de 14/6/2019.)
+CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA. INTERROGATÓRIO. VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. IMPOSSIBILIDADE. FACULDADE DO JUÍZO DEPRECANTE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. A oitiva por videoconferência - não obstante seja medida que visa agilizar a prestação jurisdicional, recomendada pelo Conselho Nacional de Justiça e pelo Conselho da Justiça Federal - é faculdade conferida ao Juízo da causa, não podendo o Juízo deprecado determinar modalidade de oitiva diversa daquela que lhe foi deprecada.
+2. As hipóteses de recusa no cumprimento da carta precatória estão elencadas no art. 267 do Código de Processo Civil, aplicado supletivamente ao Processo Penal, nenhuma delas correspondendo ao caso dos autos.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 4ª Vara da Seção Judiciária do Estado do Pará, o Suscitante. (CC n. 145.457/PA, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 27/9/2017, DJe de 16/10/2017.)
+Dessa forma, ausente hipótese legal de recusa, a carta precatória deve ser cumprida pelo juízo deprecado.
+Diante do exposto, CONHEÇO do conflito para declarar a competência do Juízo de Direito da Vara Única de Apiaí - SP, o Suscitado, para proceder ao cumprimento da carta precatória.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA FEDERAL. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO FEDERAL. RECUSA DE CUMPRIMENTO FUNDADA EM ARGUMENTO QUE NÃO ENCONTRA AMPARO NO ART. 267 DO CPC/2015. COMPETÊNCIA DO JUÍZO SUSCITADO.
