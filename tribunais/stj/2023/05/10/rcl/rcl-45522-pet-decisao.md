@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação ajuizada por LAMARCK PHILIPPE MELO contra acórdão da TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DE MINAS GERAIS.
+Sustenta o reclamante que a Turma Recursal deu parcial provimento ao recurso inominado, nos termos da seguinte ementa (fls. 22-26):
+AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANOS MORAIS - COBRANÇA IN DEVIDA - TRANSAÇÕES FRAUDULENTAS - FALHA NA PRESTAÇÃO DE SERVIÇOS - PEDIDO JULGADO IMPROCEDENTE - DANOS MORAIS NÃO PRESUMÍVEIS - PAGAMENTO DE FATURAS COMPROVADO - RESTITUIÇÃO SIMPLES DEVIDA - RECURSO PARCIALMENTE PROVIDO.
+Argumenta que (fl. 34):
+ ..  a r. decisão descumpriu o comando da presente Corte que a conduta base para a repetição de indébito é a ocorrência de engano, e a lei, rígida na imposição da boa-fé objetiva do fornecedor do produto ou do serviço, somente exclui a devolução dobrada se a conduta (engano) for justificável (independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida) o que não ocorreu no presente caso.
+Assevera que o entendimento da turma recursal diverge da jurisprudência do STJ.
+Requer, liminarmente, a suspensão do processo na origem para evitar dano irreparável. No mérito, pugna pela procedência da reclamação para que o acórdão da turma recursal seja cassado para preservar a autoridade das decisões do STJ.
+Às fls. 29-50 juntou aditamento à inicial.
+É o relatório. Decido.
+Conforme decidido na Corte Especial do STJ, no julgamento da QO no AgRg na Rcl n. 18.506 /SP, "com o advento da Emenda Regimental n. 22-STJ, de 16/3/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte", passando a matéria a ser regulada pela Resolução STJ n. 3/2016.
+A Resolução STJ n. 3/2016 atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas de uniformização, as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+Cumpre ressaltar que a Segunda Seção do STJ já se manifestou sobre a validade da Resolução STJ n. 3/2016 em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. DECISÃO DE TURMA RECURSAL. RESOLUÇÃO STJ/GP N. 3/2016.
+1. O art. 1º da Resolução STJ/GP n. 3 de 7 de abril de 2016 dispõe que é da competência dos tribunais de justiça estaduais o processamento e julgamento das reclamações "destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+2. A decisão do TJ/MG que declarou a inconstitucionalidade da Resolução n. 3/2016 do STJ não vincula esta Corte Superior, além do que, conforme bem salientado pelo Ministro Moura Ribeiro na decisão que proferiu na Rcl n. 36.419/MG (DJe 21/9/2018), "a declaração de inconstitucionalidade da Resolução nº 3/2009 do STJ se deu no citado julgamento da Arguição de Inconstitucionalidade nº 1.000.16.039708-0/001, em controle incidental pelo TJ/MG, de modo que somente vale entre as partes do referido processo e naquele caso concreto, permanecendo hígida, portanto, a sua vigência e observância".
+3. Agravo interno não provido. (AgInt na Rcl n. 37.170/MT, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/4/2019, DJe de 7/5/2019.)
+Em idêntico norte: AgInt na Rcl n. 39.961/AL, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 20/4/2021, DJe de 26/4/2021; e AgInt nos EDcl na Rcl n. 40.605/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 1º/12/2020, DJe de 3/12/2020.
+Ademais, é firme a orientação jurisprudencial do STJ de que "a autorização do cabimento excepcional da reclamação pelo STF, no julgamento dos EDcl no RE n. 571.572BA, enquanto não instituídas as turmas de uniformização dos juizados especiais cíveis estaduais, não tem o condão de criar novo meio de impugnação das decisões proferidas pelas turmas recursais, tampouco instituir um incidente processual mais amplo do que o previsto na lei de regência" (RCD na Rcl n. 42.888/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 23/3/2022, DJe de 19/4/2022).
+Ante o exposto, não conheço da presente reclamação, ficando prejudicado o pedido de liminar.
+Remetam-se os autos ao Tribunal de origem.
+Publique-se. Intimem-se
+EMENTA
+RECLAMAÇÃO. ACÓRDÃO DA TURMA RECURSAL DO JUIZADO ESPECIAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RESOLUÇÃO STJ N. 3/2016. NÃO CONHECIMENTO. DEVOLUÇÃO AO TRIBUNAL DE ORIGEM.
+1. Nos termos da Resolução STJ n. 3/2016, compete às câmaras reunidas ou à seção especializada dos tribunais de justiça julgar reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal dos Estados e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça.
+2. Reclamação não conhecida. Determinação de devolução dos autos ao Tribunal de origem.
