@@ -1,0 +1,72 @@
+DECISÃO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A recorrente informa que foi aprovada em 20º lugar na prova objetiva do concurso público para Cadete da Polícia Militar do Estado de Goiás, regido pelo Edital nº 005/2016, no qual foram oferecidas 08 vagas para mulheres, classificando-se entre as candidatas que teriam a prova discursiva corrigida - fls. 20/52 e 57.
+Ao acessar a página oficial da organizadora do certame na internet por meio de seu celular, verificou que foram atribuídos 13 pontos na sua prova discursiva, salvando a tela com o resultado na memória do aparelho - fls. 63.
+Todavia, foi divulgado o resultado da citada avaliação constando 12 pontos, o que implicou em sua nota final no certame de 87 e 15ª posição no concurso, embora devesse estar classificada em 12º lugar e ter direito de ser convocada para o Teste de Aptidão Física - TAF na hipótese de desistência ou desclassificação de qualquer das 11 primeiras colocadas - fls. 68.
+Assim, impetrou o mandado de segurança, objetivando restabelecer a nota 13 na prova discursiva e assegurar a sua classificação no 12º lugar, ao argumento de que fora ilicitamente reduzida para 12 pontos.
+A Corte de origem denegou a ordem ao fundamento de que os documentos apresentados para demonstrar que a nota da prova discursiva fora reduzida de 13 para 12 pontos, prints de tela de celular - fls. 59 e 63, não comprovam a existência do ato coator, sendo necessário dilação probatória para confirmar a autenticidade, vedada em mandado de segurança - fls. 159/170.
+O acórdão recorrido está assim ementado (fls. 145-170):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO DE GOIÁS. LEGITIMIDADE. PERDA DO OBJETO. NÃO OCORRÊNCIA. PRELIMINARES AFASTADAS. MÉRITO. ALTERAÇÃO DE NOTA PRELIMINAR. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. O Incidente de Resolução de Demanda Repetitiva (5204904.12.2016.8.09.0000), cujo tema visava a uniformização da jurisprudência acerca da legitimidade do Secretário de Estado para figurar na polaridade passiva de mandado de segurança impetrado com objetivo de contestar as avaliações e os resultados do certame, foi julgado improcedente pelo órgão especial deste Tribunal de Justiça, conforme extrato da ata de sessão carreada no evento 143 do referido procedimento.
+2. Segundo a jurisprudência majoritária e hodierna deste Tribunal de Justiça, o Secretário de Gestão e Planejamento do Estado de Goiás, é parte legítima para figurar no polo passivo de mandado de segurança impetrado contra ato decorrente de concurso publicado por ele no uso das atribuições delegadas conforme Lei Estadual 17.257/11 e autorização governamental constante no processo n. 2016000005002371.
+3. O mandado de segurança, remédio constitucional que protege direito líquido e certo (art. 5º, LXIX, CF/88 e art. 1º, Lei n. 12.016/09) exige prova pré-constituída dos fatos alegados na peça vestibular, não admitindo dilação probatória, de modo que a mera cópia da tela de celular, "print" do suposto ato coator, não preenche referido requisito, haja vista que a sua validade demandaria produção de prova pericial, e, sendo assim, a denegação da segurança é medida imperativa.
+4. SEGURANÇA DENEGADA.
+Daí a interposição do presente recurso, onde a recorrente argumenta que, não tendo sido contestado o documento apresentado como prova das suas alegações, presumem-se verdadeiras as informações nele contidas, somado ao fato de que o Estado de Goiás, na contestação, admitiu expressamente que a sua nota no concurso foi alterada.
+Noutros termos, deduz que a falta de impugnação do documento, somada à expressa admissão do recorrido de que procedeu, unilateral e imotivadamente, à alteração da nota da redação da recorrente, afastam qualquer dúvida quanto à veracidade das informações nele contidas, não havendo que se falar em dilação probatória ou realização de perícia - que só seriam justificáveis caso os recorridos tivessem, a qualquer tempo, negado ou questionado a validade da prova documental apresentada pela recorrente. Sendo certo, pois, que o print da tela deve ser admitido como prova pré-constituída da lesão ao direito da recorrente, devendo ser cassado o v. acórdão proferido pela Colenda Corte a quo.
+Sem contrarrazões (cf. certidão de fl. 214).
+O Ministério Público Federal oficia pelo provimento do recurso, nos seguintes termos (fls. 243-250):
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. CADETE DA POLÍCIA MILITAR DO ESTADO DE GOIÁS. RESTABELECIMENTO DE NOTA DA PROVA DISCURSIVA. REDUÇÃO DA PONTUAÇÃO DA CANDIDATA COMPROVADA POR PRINTS DE TELA DE CELULAR. REPRO- DUÇÕES MECÂNICAS QUE COMPROVAM AS IMAGENS QUE REPRESENTAM. AUSÊNCIA DE IMPUGNAÇÃO. VALIDADE DA PROVA PRÉ-CONSTITUÍDA. CONTROLE DE LE- GALIDADE PELO JUDICIÁRIO. POSSIBILIDADE. ATO ADMINISTRATIVO SEM MOTI- VAÇÃO. ILEGALIDADE. PELO PROVIMEN- TO DO RECURSO ORDINÁRIO.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+Nos termos do art. 1º da Lei n. 12.016/2009 e em conformidade com o art. 5º, LXIX, da Constituição Federal, "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça".
+Nesses termos, a impetração do mandado de segurança deve-se apoiar em incontroverso direito líquido e certo. Na lição do doutrinador Hely Lopes Meirelles, "direito líquido e certo é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa; se sua extensão ainda não estiver delimitada; se seu exercício depender de situações e fatos ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meios judiciais" (Hely Lopes Meirelles, in "Mandado de Segurança", Malheiros Editores, 26ª Ed., págs. 36-37).
+Como relatado, a recorrente objetiva, em síntese, restabelecer nota da prova discursiva do concurso para Cadete da Polícia Militar do Estado de Goiás, regido pelo Edital n. 005/2016.
+No caso, o mandado de segurança foi instruído com os seguintes documentos:
+a) edital do concurso - fls. 20/52;
+b) resultado preliminar da prova objetiva e candidatos aptos para a correção da prova discursiva - fls. 53/57;
+c) resultado preliminar da prova discursiva - fls. 58;
+d) fotografia - print de tela de celular - com a atribui- ção da nota 13 à prova discursiva da impetrante - fls. 59;
+e) comunicado de que serão publicadas retificações dos gabaritos definitivos e do resultado preliminar da prova objetiva e discursiva - fls. 60;
+f) o gabarito final retificado - fls. 61;
+g) o resultado preliminar retificado das provas discursi- vas - fls. 62;
+h) fotografia - print de tela de celular - com a nota 12 para a prova discursiva - fls. 63;
+i) resultado definitivo das provas objetivas e discursivas - fls. 64/68; e j) retificação do edital de convocação para o TAF - fls. 69/71.
+Cinge-se, portanto, a controvérsia: i) acerca da validade das provas fotográficas acima destacadas, que consistem em impressões (prints) de telas de celular demonstrando a redução da nota da impetrante na prova discursiva e ii) quanto à legalidade da redução da sua nota na prova discursiva.
+i) Da validade da prova (print de tela de celular) - Com efeito, o Código de Processo Civil/2015, em seu artigo 422, admite o uso da imagem da tela de celular - ou print screen - como prova no processo. Confira-se a literalidade da norma:
+Art. 422. Qualquer reprodução mecânica, como a fotográfica, a cinematográfica, a fonográfica ou de outra espécie, tem aptidão para fazer prova dos fatos ou das coisas representadas, se a sua conformidade com o documento original não for impugnada por aquele contra quem foi produzida.
+§ 1º As fotografias digitais e as extraídas da rede mundial de computadores fazem prova das imagens que reproduzem, devendo, se impugnadas, ser apresentada a respectiva autenticação eletrônica ou, não sendo possível, realizada perícia.
+§ 2º Se se tratar de fotografia publicada em jornal ou revista, será exigido um exemplar original do periódico, caso impugnada a veracidade pela outra parte.
+§ 3º Aplica-se o disposto neste artigo à forma impressa de mensagem eletrônica.
+No mesmo diploma legal, estabelece-se a presunção de veracidade do documento apresentado, se não impugnado pela parte contrária:
+Art. 411. Considera-se autêntico o documento quando:
+I - o tabelião reconhecer a firma do signatário;
+II - a autoria estiver identificada por qualquer outro meio legal de certificação, inclusive eletrônico, nos termos da lei;
+III - não houver impugnação da parte contra quem foi produzido o documento.
+Assim, na falta de impugnação, o conteúdo da reprodução tem presunção de veracidade do fato nela representado.
+No mesmo sentido, lecionam Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero: "Não havendo impugnação, presume-se aceito o aspecto formal e o conteúdo da reprodução, incidindo a presunção relativa de que é verdadeiro o fato nela representado"  in Código de Processo Civil Comentado  livro eletrônico  - 4. ed. rev., atual e ampl. -- São Paulo: Thomson Reuters Brasil, 2018. 4. ed. em e-book baseada na 4. ed. impressa .
+No caso, repita-se, a recorrente, visando comprovar as alegações de que obteve 13 pontos na prova discursiva, reduzidos para 12, apresentou impressões (prints) de telas de celular, equivalentes a fotografias ou reproduções mecânicas.
+A autoridade impetrada, devidamente notificada, deixou transcorrer in albis o prazo para apresentar informações - fls. 101.
+Por sua vez, o Estado de Goiás, ao apresentar contestação, limitou-se a defender a ilegitimidade passiva do Secretário de Gestão e Planejamento; falta de interesse de agir; ser permit ido retificar as notas com base no poder de autotutela; e que o Poder Judiciário não pode atribuir a pontuação, substituindo a Banca Examinadora. Noutros termos, o Estado não contestou a validade das informações trazidas pelas recorrente nas reproduções mecânicas apresentadas para demonstrar a redução irregular de seus pontos na prova discursiva - fls. 90/100.
+Nesse contexto, o acórdão recorrido merece reparos, visto que, como bem ressaltado pelo Ministério Público em seu parecer, dada a ausência de impugnação, deve ser reconhecido que o conteúdo da reprodução das telas do celular comprova o fato representado, que consiste na redução da nota da prova discursiva de 13 para 12 pontos, e dispensa a realização de perícia e a necessidade de dilação probatória. Sendo forçoso concluir pela existência nos autos da prova pré-constituída válida de que houve redução da nota da candidata.
+Passo então à analise do segundo ponto, ou seja, a legalidade da redução da nota da candidata na prova discursiva.
+Na espécie, o Estado de Goiás, na sua contestação, admitiu expressamente que a nota da recorrente foi alterada, in verbis:
+Conforme edital publicado pela banca examinadora, houve retificação das notas atribuídas em sede preliminar aos candidatos, por força do conhecimento de recursos apresentados pelos candidatos, o que certamente levou a Comissão à percepção da existência de vício na avaliação e fixação das notas, e, consequentemente, a retificá-las.
+Note-se que se ainda não havia um resultado definitivo da prova de redação.
+A Lei Estadual n. 13.800/2001, que regula o processo administrativo no âmbito da administração pública do Goiás, é clara quanto ao dever de motivação, vejamos:
+Art. 50 - Os atos administrativos deverão ser motivados, com indicação dos fatos e dos
+fundamentos jurídicos, quando:
+I - neguem, limitem ou afetem direitos ou interesses;
+II - imponham ou agravem deveres, encargos ou sanções;
+III - decidam processos administrativos de concurso ou seleção pública;
+IV - dispensem ou declarem a inexigibilidade de processo licitatório;
+V - decidam recursos administrativos;
+VI - decorram de reexame de ofício;
+VII - deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos, propostas e relatórios oficiais;
+VIII - impliquem anulação, revogação, suspensão ou convalidação de ato administrativo.
+§ 1º - A motivação deve ser explícita, clara e congruente, podendo basear-se em pareceres anteriores, informações ou decisões, que, neste caso, serão parte integrante do ato, o que não elide a explicitação dos motivos que firmaram o convencimento pessoal da autoridade julgadora.
+Dessa forma, a autoridade coatora, ao realizar a supressão de nota da impetrante na prova subjetiva, sem qualquer motivação, muito além de afrontar princípios, feriu normativos de lei.
+Noutros termos, a recorrente/impetrante comprova pelos documentos acostados à exordial suas alegações de redução da nota objetiva na prova subjetiva, bem como a ausência de justificativa e motivação para a prática do ato tido como coator.
+Ante o exposto, dou provimento ao recurso para, reformando o acórdão recorrido, conceder a segurança, a fim de que a autoridade coatora retifique a nota da impetrante no resultado final da primeira fase do certame, reclassificando-a em 12º lugar entre as candidatas aprovadas, com 88,0 pontos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CADETE DA POLÍCIA MILITAR DO ESTADO DE GOIÁS. RESTABELECIMENTO DE NOTA DA PROVA DISCURSIVA. REDUÇÃO DA PONTUAÇÃO DA CANDIDATA COMPROVADA POR PRINTS DE TELA DE CELULAR. REPR O- DUÇÕES MECÂNICAS QUE COMPROVAM AS IMAGENS QUE REPRESENTAM. AUSÊNCIA DE IMPUGNAÇÃO. VALIDADE DA PROVA PRÉ-CONSTITUÍDA. CONTROLE DE LEGALIDADE PELO JUDICIÁRIO. POSSIBILIDADE. ATO ADMINISTRATIVO SEM MOTIVAÇÃO. ILEGALIDADE. RECURSO PROVIDO.
