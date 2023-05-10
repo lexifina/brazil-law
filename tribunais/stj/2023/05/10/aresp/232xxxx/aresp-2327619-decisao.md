@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONDOMINIO PARQUE TRENTINO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE DESPESAS CONDOMINIAIS. PENHORA DE DIREITOS DOS AGRAVADOS SOBRE IMÓVEL ALIENADO FIDUCIARIAMENTE. DIREITOS QUE POSSUEM DIMENSÃO PATRIMONIAL QUE, CONTUDO, NÃO SE CONFUNDE COM AQUELA DO PRÓPRIO IMÓVEL. NECESSIDADE DE AVALIAÇÃO DOS DIREITOS PENHORADOS QUE EXIGE CONHECIMENTOS ESPECIALIZADOS, INVIABILIZANDO A ATUAÇÃO DO OFICIAL DE JUSTIÇA. PRECEDENTES. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 154, V, e 870 do CPC, no que concerne à possibilidade de realização de avaliação de bem imóvel objeto da penhora por oficial de justiça, e não por perito nomeado pelo juízo, considerando a desnecessidade de conhecimentos especializados, trazendo os seguintes argumentos:
+Não obstante o entendimento dos nobres desembargadores, é certo que, via de regra, a avaliação deve ser feita pelo oficial de justiça.
+Isto porque, além de assim estar determinado no artigo 870 do CPC, também é atribuição do Oficial de Justiça nos termos do artigo 154, V do CPC, sendo que somente se demandará perito avaliador caso sejam necessários conhecimentos especializados, o que não é o caso do presente feito.
+Ressalte-se que na hipótese dos autos, o imóvel objeto da avaliação trata-se de apartamento situado em área urbana e não há indícios de que a unidade tenha padrão diferenciado ou qualquer outra característica que justifique a avaliação por perito.
+Assim, a avaliação de bem imóvel não demanda conhecimentos específicos de engenharia ou arquitetura. Isto porque os fatores que influenciam no valor de um imóvel são de conhecimento geral, como localização, metragem etc. tais informações podem ser obtidas junto à imobiliárias, anúncios via internet, e estão ao alcance de qualquer cidadão.
+ ..
+Cabe lembrar que a avaliação é bens é atribuição do Oficial de Justiça, conforme determinado no artigo 154, V do CPC.
+Ainda, o fundamento utilizado pelo Tribunal Paulista é que "..tratando-se de penhora sobre os direitos que os executados possuem sobre o imóvel e não sobre o bem em si, a avaliação exige conhecimentos especializados, inviabilizando a atuação do oficial de justiça" ora, a avaliação dos direitos decorre justamente da subtração do valor do imóvel pelo que já foi pago pelo devedor fiduciante, aritmética simples que dispensa avaliação por perito (fls. 30).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na hipótese, o imóvel que deu origem aos débitos condominiais encontra-se alienado fiduciariamente a instituição financeira (fls. 149/151 dos autos de origem).
+A penhora recaiu apenas sobre os direitos que os agravados possuem sobre o imóvel, cuja expressão econômica não se confunde com aquela do próprio imóvel. Portanto, não se trata de mera indicação do valor mercadológico do imóvel para a designação do leilão dos direitos.
+Ainda assim, os direitos penhorados possuem expressão econômica própria, admitindo-se sua avaliação para futuro praceamento, a fim de que se satisfaça a execução.
+ ..
+Contudo, tratando-se de penhora sobre os direitos que os executados possuem sobre o imóvel e não sobre o bem em si, a avaliação exige conhecimentos especializados, inviabilizando a atuação do oficial de justiça.
+Isso é o que dispõe o artigo 870 do Código de Processo Civil, segundo o qual a avaliação do bem penhorado será feita pelo oficial de justiça, salvo quando forem necessários conhecimentos especializados e o valor da execução comportar.
+Conforme entendimento desta Colenda Câmara, o caso recomenda a avaliação por perito judicial.
+Repita-se que a penhora recaiu sobre os direitos que a parte executada possui sobre o imóvel e não sobre o bem em si. Daí porque a avaliação exige conhecimentos especializados, inviabilizando a atuação do oficial de justiça, utilização de orçamentos particulares ou prova emprestada. (fl. 24)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
