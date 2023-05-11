@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Amauri Donizeti dos Reis Carraro (ou Amauri Donizetti dos Reis Carraro), apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2017085-62.2023.8.26.0000).
+Narram os autos que o paciente está preso preventivamente em razão da suposta prática do crime de tráfico de drogas.
+Neste mandamus, o impetrante alega, em síntese, ausência de fundamentos concretos para a prisão preventiva, destacando que o paciente não possui qualquer vínculo com os indiciados, apenas sublocou o imóvel alvo da operação por não possuir condições financeiras para arcar com a multa rescisória (fl. 9).
+Menciona que o proprietário do imóvel declarou em solo policial que os últimos aluguéis foram realizados em nome de terceiro através de pix de titularidade de Diego Wesley Lingo e não do acusado Amauri (fl. 14).
+Aduz que o paciente é primário, sem antecedentes, com emprego lícito e residência fixa.
+Requer, inclusive em liminar, a revogação da prisão preventiva.
+Deferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Mario Luiz Bonsaglia, pela concessão da ordem, confirmando-se a liminar (fls. 335/340).
+É o relatório.
+In casu, a ordem comporta concessão.
+Ao decretar a prisão preventiva do paciente, o Magistrado de piso se limitou a dizer, tão somente, o seguinte (fl. 239):
+ ..
+No presente caso, estão presentes os requisitos da prisão preventiva, qual seja, o fumus comissi delicti e periculum libertatis. Trata-se, em tese, de delito doloso, cuja pena máxima supera os 4 (quatro) anos e há provas da materialidade e indícios da autoria, decorrentes dos laudos periciais juntados aos autos e dos depoimentos colhidos no inquérito policial.
+Assim, a prisão preventiva é necessária para garantia da ordem pública, sendo outras medidas cautelares alternativas à prisão inadequadas e inócuas para a gravidade do delito e circunstâncias do caso concreto, e como bem ressaltou o representante do Ministério Público, "até mesmo prensa os denunciados possuíam para o preparo das drogas"(fl. 164).
+Saliento que o tráfico de drogas causa grave risco à ordem pública, tanto pela reiteração da sua prática, quanto pela grande quantidade de outros crimes praticados, como homicídios, roubos, furtos), em decorrência do uso e comércio de drogas. Por conta disso, resta induvidoso que a liberdade dos requerentes acarretará risco grave e evidente à comunidade, na condição de traficantes de drogas.
+ ..
+Contudo, há, na jurisprudência deste Superior Tribunal, um sem-número de precedentes, todos exigindo que a prisão provisória venha, sempre e sempre, calcada com bons elementos de convicção, fatores concretos que justifiquem, efetivamente, a imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção. Não é suficiente, evidentemente, a reportação, pura e simples, à existência de indícios de autoria e à materialidade delitiva, há que se demonstrar o periculum libertatis, o que, na espécie, não ocorreu, uma vez que nem a gravidade abstrata do delito, nem ilações e conjeturas servem para demonstrar a real necessidade da extrema cautela.
+E, aparentemente, a decisão de prisão preventiva carece da devida fundamentação, pois não cuidou de indicar elementos concretos aptos a manter a segregação do acusado.
+Com efeito, no entendimento desta Corte Superior de Justiça, a privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do art. 312 do Código de Processo Penal. A gravidade abstrata do delito não autoriza a decretação ou a manutenção da prisão cautelar (HC n. 370.658/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/2/2017). E mais: HC n. 510.968/SP, de minha relatoria, Sexta Turma, DJe 29/8/2019.
+Ademais, ao que parece, o paciente é primário e não possui antecedentes criminais.
+Assim, com razão o nobre parecerista quando destacou, em seu parecer, que da quantidade de droga apreendida, deve-se também ter em vista a primariedade do paciente, o fato do crime ter sido cometido sem violência ou grave ameaça à pessoa e ainda o fato de, conforme consta dos autos (fls. 255/256), a participação do réu até então resumir-se ao "empréstimo" do seu nome para o aluguel do imóvel em que a droga estava armazenada, sem evidências de um maior envolvimento na venda dos entorpecentes. Circunstâncias que indicam serem as medidas cautelares diversas da prisão suficientes e adequadas à tutela da ordem pública (fl. 339 - grifo nosso).
+Ante o exp osto, acolho o parecer e concedo a ordem a fim de, confirmando-se a liminar, substituir a prisão preventiva do paciente por medidas cautelares alternativas, a serem aplicadas pelo Juiz de piso, sem prejuízo de decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas ou de superveniência de motivos novos e concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. QUANTIDADE DE DROGA QUE NÃO FOGE AO PADRÃO. PRIMARIEDADE. SEM ANTECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENTE. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
