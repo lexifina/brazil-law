@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005790-67.2022.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ODILON PEREIRA DE SOUZA
+RECORRIDO: FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULTSEGMENTOS NPL IPANEMA VI - NAO PADRONIZADO
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVAÇÃO INDEVIDA. CONTRATO NÃO RECONHECIDO. NARRA O AUTOR QUE FOI SURPREENDIDO COM A INSCRIÇÃO INDEVIDA DE SEU NOME E CPF NO SERASA. COM A CERTEZA DE QUE NUNCA DEVEU NADA REALIZOU CONSULTA NO SISTEMA DE PROTEÇÃO AO CRÉDITO, TENDO CONSTATADO QUE A RESTRIÇÃO FOI REALIZADA EM 01/10/2017 REFERENTE A UMA DÍVIDA DE R$520,35 REFERENTE AO CONTRATO Nº 346212575120534. OCORRE QUE O REQUERENTE NÃO POSSUI QUALQUER MEMÓRIA DA DÍVIDA ALÉM DE NUNCA TER SIDO NOTIFICADO QUANTO À NEGATIVAÇÃO. SE SENTINDO AGREDIDO EM SUA MORAL, VISTO A FALTA DE COLABORAÇÃO DA RÉ QUANTO A SITUAÇÃO. RAZÃO PELA QUAL ENTROU EM JUÍZO PARA REQUERER A DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO E A CONDENAÇÃO DA RÉ EM DANOS MORAIS NO VALOR DE R$10.000,00. SENTENÇA DE PISO JULGOU IMPROCEDENTE OS PEDIDOS DA INICIAL POR ENTENDER EXISTIR VEROSSIMILHANÇA NOS DADOS APRESENTADOS PELO RÉU. RECURSO INOMINADO BUSCANDO A REFORMA TOTAL DA SENTENÇA PARA JULGAR PROCEDENTE OS PEDIDOS DA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE RELAÇÃO CONSUMERISTA NA QUAL A APRESENTAÇÃO FÁTICA DISPOSTA PELO AUTOR VÊM ACOMPANHADO COM UMA ÚNICA PROVA, QUAL SEJA, A DA NEGATIVAÇÃO DE SEU NOME. NESTE INTUITO, OS FATOS CONSTITUTIVOS DE SEU DIREITO FORAM DEVIDAMENTE CONTESTADOS PELO RÉU, QUE TROUXE PROVAS DEMONSTRANDO A FORMA E LOCALIDADE QUE FOI REALIZADO O DÉBITO, AMBOS VEROSSÍMEIS VISTO A PROXIMIDADE COM O ENDEREÇO DO ORA RECORRENTE. NESTE SENTIDO, NÃO HÁ EM QUE SE FALAR EM PROVA UNILATERAL. SENDO IMPOSSÍVEL DAR PROVIMENTO AO RECURSO APRESENTADO.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE R$300,00 (TREZENTOS REAIS)
+NA FORMA DO ART. 85, §8º, DO CPC/15.FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
