@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto em favor de NARCIZIO DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva (fl. 48) pela prática, em tese, do delito previsto no art. 121, caput, c/c art. 14, inciso II, ambos do Código Penal, porque - após desentendimento com a vítima, o ora recorrente desferiu-lhe dois golpes de arma branca, certeiros na região do tórax, sendo a vítima socorrida em estado grave, recebendo alta após cinco dias de internação- (fl. 175).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva para garantir a ordem pública, salientando-se que "porquanto a custódia preventiva do paciente foi imposta com fundamentos idôneos e suficientes tendo em vista que, conforme demonstrado, assentou-se em elementos concretos."-fls 176, e denegou a ordem, em acórdão de fls. 172-177.
+Daí o presente recurso ordinário, no qual alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar.
+Pondera a possibilidade da aplicação de medidas cautelares diversas da prisão (fl. 190).
+Requer, ao final, a revogação da prisão preventiva do Recorrente.
+Liminar indeferida às fls. 207-208.
+As informações foram prestadas às fls. 211-223.
+O Ministério Público Federal em parecer, às fls. 228-234, manifestou pelo não provimento do recurso, em parecer que restou assim ementado:
+"PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO E M HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ART. 319 DO CPP. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PRECEDENTES DO STJ. NÃO PROVIMENTO DO RECURSO ORDINÁRIO" (fls. 228).
+É o relatório.
+Decido.
+In casu, observa-se que a segregação cautelar do R ecorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, em razão da gravidade concreta do delito, consoante consignado que o acusado "mediante utilização de uma arma branca, desferiu em desfavor de vítima M dos S O , dois golpes certeiros na região do tórax, menciona- se que o crime se efetivou após um desentendimento entre ambos e, após o ocorrido a vítima foi socorrida em estado grave, recebendo alta após cinco dias de internação"- fl. 175. Ademais, o d. juízo processante consignou também que "o fato apresentado ter acontecido em praça pública com certo movimento e a intensidade da violência empregada, a permitir a constatação objetiva de certo clamor social a ser acautelado também"- fl. 48 , circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidade da imposição da segregação cautelar.
+Destaca-se que: "O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
