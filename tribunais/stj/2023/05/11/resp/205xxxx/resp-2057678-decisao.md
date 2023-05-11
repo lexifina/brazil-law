@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED GURUPI COOPERATIVA DE TRABALHO MÉDICO, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins assim ementado:
+"1. APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PROCEDIMENTO DE IMPLANTE DE LENTE INTRA-OCULAR FÁCICA. NEGATIVA DE COBERTURA. UNIMED. ROL EXEMPLIFICATIVO. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+1.1 Apresenta-se abusiva a negativa de cobertura de procedimento indicado por médico ao beneficiário de plano de saúde, sobretudo quando não há previsão contratual ou legal que exclua expressamente referida cobertura, por se tratar de negativa que coloca o segurado em situação de extrema desvantagem, que frustra os objetivos da própria assistência médica que fundamenta a existência dos planos de saúde.
+1.2 A Terceira Turma do Superior Tribunal de Justiça mantém a orientação de que a natureza do rol de procedimentos e eventos em saúde da Agência Nacional de Saúde é meramente exemplificativa, elementos que coadunam a manutenção da sentença recorrida que acolheu o pleito autoral, mormente por observar o princípio da dignidade da pessoa humana, alçado ao patamar de fundamento da república, elementos que merecem preponderar sobre condições contratuais limitativas" (e-STJ fl. 277).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega que o acórdão violou os artigos 10, §4º, da Lei nº 9.656/1998, 1º e 4º, III, da Lei nº 9.961/2000.
+Afirma que as operadoras de plano de saúde não possuem a obrigação de realizar procedimentos não previstos pela ANS.
+Sem contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A  pretensão  recursal  merece  ser  acolhida.
+A  discussão  gira  em  torno  da  natureza  do  Rol  de  Procedimentos  e  Eventos  em  Saúde,  elaborado  periodicamente  pela  Agência  Nacional  de  Saúde  Suplementar  (ANS),  se  exemplificativo  ou  se taxativo.
+Na  origem,  trata-se  de obrigação de fazer em que a recorrida pleiteia a cobertura de cirurgia oftalmológica de implante de lente intra-ocular fácica (Artisan),  a  fim  de  dar  continuidade  a  tratamento  de  condição de que é portadora - miopia 16 graus em ambos os olhos.
+Importante registrar que a Segunda Seção desta Corte Superior,  quando  do  julgamento  dos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP  (rel.  Ministro  Luis  Felipe  Salomão,  DJe  3/8/2022),  uniformizou  o  entendimento  de  ser  o  Rol  da  ANS,  em  regra,  taxativo,  podendo  ser  mitigado  quando  atendidos  determinados  critérios.
+Assim,  foram  adotados  os  seguintes  parâmetros  para  a  apreciação  de  casos  concretos:
+"1  -  o  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar  é,  em  regra,  taxativo;
+2  -  a  operadora  de  plano  ou  seguro  de  saúde  não  é  obrigada  a  arcar  com  tratamento  não  constante  do  Rol  da  ANS  se  existe,  para  a  cura  do  paciente,  outro  procedimento  eficaz,  efetivo  e  seguro  já  incorporado  ao  Rol;
+3  -  possível  a  contratação  de  cobertura  ampliada  ou  a  negociação  de  aditivo  contratual  para  a  cobertura  de  procedimento  extra  Rol;
+4  -  não  havendo  substituto  terapêutico  ou  esgotados  os  procedimentos  do  Rol  da  ANS,  pode  haver,  a  título  excepcional,  a  cobertura  do  tratamento  indicado  pelo  médico  ou  odontólogo  assistente,  desde  que  (i)  não  tenha  sido  indeferido  expressamente,  pela  ANS,  a  incorporação  do  procedimento  ao  Rol  da  Saúde  Suplementar;  (ii)  haja  comprovação  da  eficácia  do  tratamento  à  luz  da  medicina  baseada  em  evidências;  (iii)  haja  recomendações  de  órgãos  técnicos  de  renome  nacionais  (como  CONITEC  e  NATJUS)  e  estrangeiros  e  (iv)  seja  realizado,  quando  possível,  o  diálogo  interinstitucional  do  magistrado  com  entes  ou  pessoas  com  expertise  técnica  na  área  da  saúde,  incluída  a  Comissão  de  Atualização  do  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar,  sem  deslocamento  da  competência  do  julgamento  do  feito  para  a  Justiça  Federal,  ante  a  ilegitimidade  passiva  ad  causam  da  ANS".
+No  caso,  contudo,  não  há  elementos  incontroversos  no  acórdão  estadual  que  demonstrem,  nesta  instância  especial,  que  o  tratamento  indicado  está  enquadrado  nos  critérios  de  superação  da  taxatividade,  devendo  o  feito  retornar  ao  Tribunal  de  origem  para  que,  com  base  no  s  fatos  e  nas  provas  da  causa,  a  apelação  seja  julgada  de acordo com  os  parâmetros  elaborados  pela  Segunda  Seção.
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  determinar  o  retorno  dos  autos  à  Corte  de  origem,  a  fim  de  que  julgue  a  apelação  conforme  os  critérios  estabelecidos  pela  Segunda  Seção  nos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP.
+Publique-se.
+Intimem-se.
