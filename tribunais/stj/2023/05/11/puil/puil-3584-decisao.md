@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei Federal dirigido ao STJ, apresentado por Nair Xavier de Carvalho Caetano, contra decisão monocrática do Ministro Presidente da Turma Nacional de Uniformização dos Juizados Especiais Federais, assim assentada:
+"Trata-se de agravo interposto contra decisão de inadmissão de pedido de uniformização nacional destinado a reformar acórdão, no qual examinada e desacolhida pretensão autoral de que fosse reconhecido suposto período de atividade rural para fins previdenciários, seja como tempo de carência, seja como tempo de serviço ou de contribuição.
+É o relatório.
+Conheço do agravo, pois preenchidos os seus pressupostos legais.
+Em exame o pedido de uniformização.
+O recurso não merece prosperar.
+Quanto à rediscussão trazida sobre suficiência, eficiência, ou necessidade de revaloração da prova, cito as seguintes diretrizes da jurisprudência:
+(..)
+No tocante à alegação da parte ora requerente de que documentos registrados em nome de membros do seu grupo familiar que sejam qualificados como segurados especiais servem como início de prova material dessa sua mesma condição, verifica-se que o juízo a quo não se manifestou em sentido contrário a esse entendimento teórico, mas no sentido de que o acervo material fornecido é destituído da força comprobatória necessária.
+Aplica-se, portanto, no particular, a Questão de Ordem 22 da TNU, segundo a qual, "É possível o não conhecimento do pedido de uniformização por decisão monocrática quando o acórdão recorrido não guarda similitude fática e jurídica com o acórdão paradigma".
+No que se refere à argumentação da parte ora requerente de que documentos inscritos em nome de membros do seu grupo familiar que sejam qualificados como empregado(a) rural servem como início de prova material da sua condição de segurado(a) especial, verifica-se que o juízo a quo não se manifestou em sentido contrário a essa possibilidade teórica, mas de acordo com as provas produzidas nos autos.
+Aplica-se, portanto, na hipótese, a Questão de Ordem nº 22/TNU, segundo a qual, " É possível o não conhecimento do pedido de uniformização por decisão monocrática quando o acórdão recorrido não guarda similitude fática e jurídica com o acórdão paradigma".
+Em que pesem as alegações recursais, o acórdão recorrido não diverge da Súmula 14 da TNU nem ofende a Súmula 34 da TNU, que disciplinam a questão da (in)exigibilidade de contemporaneidade da prova documental em relação a todo o período de atividade rural a ser comprovado.
+A propósito, o acórdão recorrido não conflita com a Súmula 577 do STJ nem viola o Tema 638 do STJ, que autorizam ampliação do marco temporal da eficácia probante para o passado ou para o futuro sem se limitar às datas constantes dos documentos juntados nos autos.
+É que o juízo a quo apontou peculiaridades e distinções do caso concreto na acepção de que a prova produzida nos autos não é robusta ou convincente o bastante para autorizar a presunção de continuidade do labor rural por todo o período pretendido pela parte, muito menos nos intervalos sem a correspondente juntada de prova material, tudo a revelar que a situação sub judice não se encarta nos parâmetros de incidência dos precedentes citados (distinguishing).
+Confira-se, a título ilustrativo:
+(..)
+O exame de todo o processado revela que o acórdão recorrido está em sintonia com o posicionamento visto.
+Aplica-se, portanto, na hipótese referida, a Questão de Ordem nº 13/TNU: ("Não se admite o Pedido de Uniformização, quando a jurisprudência da Turma Nacional de Uniformização dos Juizados Especiais Federais se firmou no mesmo sentido do acórdão recorrido").
+Incide, igualmente, a Questão de Ordem nº 24/TNU: ("Não se conhece de incidente de uniformização interposto contra acórdão que se encontra no mesmo sentido da orientação do Superior Tribunal de Justiça, externada em sede de incidente de uniformização ou de recursos repetitivos, representativos de controvérsia").
+Ademais, para ser alterado o entendimento firmado pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, seria necessário rever a prova, o que não é viável na espécie recursal manejada.
+É o que preconiza a Súmula 42/TNU: "Não se conhece de incidente de uniformização que implique reexame de matéria de fato".
+Ante o exposto, conheço do agravo para não admitir o pedido de uniformização, com fundamento no art. 15, III e V, do RITNU" (fls. 112/115e).
+Em suas razões afirma, em apertada, síntese, que:
+"o conjunto probatório demonstra o efetivo desempenho do labor rurícola exercido pela recorrente, ao menos desde muito cedo, atividade executada em regime de economia familiar, inicialmente com seus genitores e irmãos, após junto de seu cônjuge, e posteriormente sozinha, trabalho que desempenhou até ao período em que já contava com 56 (cinquenta e seus) anos de idade, tendo na ocasião trabalho junto a lavoura de café na propriedade rural da família Barbizam, e junto a lavoura de amendoim na propriedade rural pertencente ao Sr. Bonatto.
+Considerando a inerente dificuldade probatória da condição de trabalhador campesino, o STJ sedimentou o entendimento de que a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal.
+(..)Ressaltamos, ainda, que a questão jurídica está em consonância com o entendimento da Corte Superior, segundo o qual não é necessário que a prova material se refira a todo o período de carência, se este for demonstrado por outros meios, como por exemplo, os depoimentos testemunhais, e que pedimos vênia para transcrever os depoimentos realizados sob o crivo do contraditório junto ao Juízo de 1ª Instância:
+(..)
+Ao contrário do registrado na sentença de 1º grau e acórdãos de 2ª Instância, os testemunhos, comprovaram a eficácia da extensão probatória da prova material, não havendo que se fala em ausência de documentação em nome próprio para socorrer a recorrente.
+testemunhas comprova que a recorrente nunca exerceu na zona urbana atividade de trabalho, limitando-se tão somente, as atividades na zona rural ATÉ PERÍODO ANTERIOR AO PLEITO DA APOSENTADORIA POR IDADE RURAL. AS TESTEMUNHAS COMPROVARAM QUE A RECORRENTE E SEU ESPOSO LABORARAM TÃO SOMENTE NA ZONA RURAL.
+(..)
+Assim, comprovado documentalmente que a recorrente tinha mais de 55 anos de idade quando parou de trabalhar (depoimento da recorrente e depoimentos testemunhais em juízo), cumpre verificar que as provas demonstraram que a recorrente atrelou sim início de prova material, e que comprovou os requisitos legais para obtenção do benefício previdenciário, ainda no ano de 2.018, quando completou 55 (cinquenta e cinco) anos de idade, labor desenvolvido como diarista rural" (fl. 118/161e).
+Por fim, requer "seja conhecido e provido o Incidente de Uniformização com o fim de reformar o v. acórdão, condenando-se o requerido a conceder a aposentadoria por idade Rural à recorrente" (fl. 161e).
+Inadmitido o incidente na origem (fls. 171/172e), postula a requerente a remessa dos autos a esta Corte Superior.
+O presente Pedido de Uniformização de Interpretação de Lei não merece ser conhecido.
+Assim dispõe o art. 14 da Lei 10.259/2001:
+"Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+(..)
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+Com efeito, da análise do dispositivo acima consignado, verifica-se que o cabimento de Pedidos de Uniformização de interpretação de Lei Federal dirigidos ao STJ se dá unicamente contra decisão colegiada da TNU, que examina questão de direito material, em contradição à Súmula ou jurisprudência dominante do STJ.
+In casu, não houve decisão colegiada, mas tão somente decisão do Presidente da TNU, que inadmitiu o pedido de uniformização, com fundamento no art. 15,III e V, do RITNU (fl. 115e).
+Dessa feita, revela-se inadmissível o presente incidente, por estarem ausentes os requisitos do art. 14, § 4º, da Lei 10.259/2001.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. APLICABILIDADE DO CPC/2015. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 14, § 4º, DA LEI N. 10.259/2001 DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 14, § 4º da Lei 10.259/2001, caberá pedido de uniformização de lei federal perante o Superior Tribunal de Justiça somente quando a decisão da Turma Nacional sobre questão de direito material estiver em confronto com súmula ou jurisprudência dominante do STJ.
+2. A orientação jurisprudencial desta Corte Superior é no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual).
+3. Agravo interno não provido" (STJ, AgInt no PUIL 2.639/DF, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 17/6/2022).
+"PEDIDO CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE LEI. PEDIDO MANEJADO CONTRA DECISÃO MONOCRÁTICA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é possível conhecer de pedido de uniformização, com base no art. 14, § 4º, da Lei n. 10.259/2001, quando apresentado em face de decisão monocrática do Presidente da TNU.
+2. Agravo interno não provido" (STJ, AgInt no PUIL 1.681/PI, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 26/10/2020).
+"ADMINISTRATIVO. SERVIDOR. HORA EXTRA. FORMA DE CÁLCULO. INCIDENTE DE UNIFORMIZAÇÃO QUE NÃO SE INSURGE CONTRA ACÓRDÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO, MAS DE DECISÃO MONOCRÁTICA DA PRESIDÊNCIA. NÃO CABIMENTO.
+I - Na origem, trata-se de ação em que se pretende a manutenção da forma de cálculo de horas-extras tal como previsto anteriormente Na sentença, proferida em juizado especial federal, julgou-se improcedente o pedido. No Tribunal a quo a sentença foi mantida.
+II - Dispõe o art. 14, § 4º, da Lei 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Nesse sentido: AgRg na Pet 7.549/PR, 3ª Seção, Min. Og Fernandes, DJe de 8/4/2010.
+III - No presente caso, o incidente de uniformização, além de não se insurgir contra acórdão da Turma Nacional de Uniformização, mas decisão monocrática da Presidência, reflete decisão que o não conheceu, justamente ao fundamento de que não cabe incidente de uniformização dirigido ao STJ contra decisão monocrática da Presidência da TNU.
+IV - Considerando que o pedido de uniformização de jurisprudência somente é cabível de decisão do colegiado da Turma Nacional que tenha analisado o direito material, não há como conhecer do incidente, eis que se insurge contra decisão monocrática, pautada em questão de direito processual. Nesse sentido: AgInt no PUIL 1.046/TO, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/03/2019, DJe 29/05/2019.
+V - Agravo interno improvido" (STJ, AgInt no PUIL 1.056/DF, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 02/09/2019).
+"PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO INCIDENTE DE UNIFORMIZAÇÃO. RECURSO CONTRA DECISÃO DO PRESIDENTE DA TNU. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. A previsão legal de cabimento de pedido de uniformização de interpretação de lei federal ao Superior Tribunal de Justiça cinge-se à orientação acolhida pela Turma de Uniformização em questões de direito material, nos termos do art. 14, § 4º, da Lei 10.259/01, não apenas contra a decisão do Presidente da TNU.
+2. Agravo regimental não provido" (STJ, AgRg na Pet 9.586/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 25/04/2014).
+Ante o exposto, com fundamento no art. 34, XVIII, a , do RISTJ, não conheço do Pedido de Uniformização de Interpretação de Lei.
+I.
