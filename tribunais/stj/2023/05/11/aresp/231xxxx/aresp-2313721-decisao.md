@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por VINICIUS MOTA EXPEDITO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ, fls. 381):
+RECURSO EM SENTIDO ESTRITO - Homicídio qualificado tentado (artigo 121, § 2º, V e VII; c. c. artigo 14, II do CP) - PRELIMINAR. Nulidade por inobservância do artigo 212 do Código de Processo Penal. Rejeição. MÉRITO - Pleito de impronúncia. Impossibilidade - Materialidade delitiva comprovada. Indícios de autoria presentes nas declarações da vítima e depoimento do policial militar - Qualificadoras imputadas que encontram razoável suporte. Exclusão somente quando manifestamente impertinentes Recurso desprovido, com correção ex officio do dispositivo da sentença para constar a forma tentada do delito.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente nulidade do feito por violação do disposto no art. 212 do Código de Processo Penal, apontando quebra do sistema acusatório. Sustenta que a pronúncia ocorreu sem prova da materialidade ou indícios mínimos de autoria, não observando o comando do art. 414 do CPP.
+O Tribunal a quo não admitiu o recurso especial, tendo sido interposto o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do recurso (e-STJ, fls. 667/669).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, contudo, não merece acolhida.
+O Tribunal estadual ao afastar a nulidade apontada pela defesa por inobservância do art. 212 do CPP, destacou o seguinte (e-STJ fl. 382/383):
+Com efeito, o referido dispositivo processual não objetivou retirar do Magistrado destinatário final da prova a presidência da audiência, o compromisso com a verdade real e, por consequência, a prerrogativa dele próprio indagar vítimas, testemunhas ou os réus.
+Veja-se no termo da audiência de instrução realizada em 22.04.2019 e respectivas mídias (disponíveis no e-SAJ), no qual a defesa não se insurgiu contra a formulação de perguntas pelo magistrado; além disso, observa-se da mídia digital a inequívoca oportunidade dada às partes para formularem perguntas durante a colheita das declarações da vítima e depoimento da testemunha.
+Este Tribunal de Justiça, reiteradas vezes, rechaçou teses de nulidade tanto por inversão na ordem de formulação de perguntas do art. 212, caput e parágrafo único, do CPP, quanto por questionamentos realizados pelo Magistrado sem impugnação das partes no mesmo ato.
+ .. .
+Ad argumentandum tantum, não é o caso, mas se houvesse qualquer nulidade esta estaria superada pela ausência de demonstração de prejuízo, à luz do princípio pas nullité sans grief, consoante artigo 563 do Código de Processo Penal, litteris:
+Assim, não destoa da orientação jurisprudencial deste Tribunal Superior firme de que "eventual inobservância ao disposto no art. 212 do Código de Processo Penal gera nulidade meramente relativa, sendo necessário para seu reconhecimento a alegação no momento oportuno e a comprovação do efetivo prejuízo". (AgRg no AREsp 1741471/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 14/05/2021).
+Vale lembrar que "a tipicidade dos atos processuais funciona somente como instrumento para a correta aplicação do direito. Sendo assim, eventual desrespeito às formalidades prescritas em lei apenas deverá acarretar a invalidação do ato processual quando a finalidade para a qual foi instituída a forma for comprometida pelo vício. Somente a atipicidade relevante, bastante a evidenciar dano concreto às partes, autoriza o reconhecimento do vício". (AgRg no REsp n. 1.359.840/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/3/2022.).
+No caso, não foi demonstrado eventual prejuízo não havendo se falar, portanto, em nulidade.
+Como é de conhecimento, não se proclama uma nulidade sem que se tenha verificado prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora o princípio pas de nulitté sans grief, a teor do que dispõe o art. 563 do Código de Processo Penal: "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Afora isso, entender de modo contrário ao estabelecido pelas instâncias ordinárias para reconhecer possível prejuízo, como pretende a parte agravante, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância, a teor do enunciado sumular n. 7 desta Corte.
+A seu turno, vale registrar que compete às instâncias ordinárias a análise do acervo fático e probatório a fim determinar se, ao final da primeira fase do procedimento escalonado do Juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado.
+Assim sendo, inviável desconstituir o entendimento exarado no aresto recorrido, tal como pretende a defesa, sem o revolvimento de fatos e provas, providencia vedada em sede especial, nos termos da súmula 7/STJ.
+A respeito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÕES AOS ARTS. 156, 414 E 415, TODOS DO CÓDIGO DE PROCESSO PENAL - CPP. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA EMBASAR A DECISÃO DE PRONÚNCIA. PRINCÍPIO DO IN DÚBIO PRÓ SOCIETATE. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias demonstraram prova da materialidade e indícios de autoria imprescindíveis à pronúncia do recorrente , destacando a aplicação do princípio do in dubio pro societate. Esse entendimento está alinhado com a jurisprudência desta Corte.
+1.1. Diante da justificada conclusão das instâncias ordinárias, os pleitos de absolvição sumária ou de impronúncia esbarram no óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.010.633/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Intimem-se.
