@@ -1,0 +1,46 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5016167-06.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: PAOLA TARANDREICY CONTADINI DA COSTA
+RECORRIDO: OI S.A. - EM RECUPERACAO JUDICIAL
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAL C/C TUTELA DE URGÊNCIA. SERVIÇO DE TELEFONIA. BLOQUEIO INDEVIDO. FALHA NO SERVIÇO. NARRA A AUTORA QUE É CLIENTE DA RÉ POSSUINDO LINHA COM O Nº (27) 98862-8817, SENDO UM PLANO PRÉ-PAGO COM O VALOR MENSAL DE R$20,00 MENSAIS. PORÉM, NO DIA 29/07/2022 FOI SURPREENDIDA COM A MENSAGEM DE QUE SUA LINHA FOI SUSPENSA EM RAZÃO DE PROTOCOLO DE Nº 20220098735964, ABERTO NO DIA 29/07/2022 POR VOLTA DAS 17:54:34, FICANDO IMPOSSIBILITADA DE FAZER OU RECEBER LIGAÇÕES. ESTANDO INCOMUNICÁVEL A REQUERENTE PRONTAMENTE FOI ATÉ UMA AGÊNCIA DA RÉ EM CARIACICA NA QUAL FOI INFORMADA QUE ALGUÉM, QUE NÃO FOI A DEMANDANTE, ABRIU O PROTOCOLO PEDINDO O CANCELAMENTO DA LINHA. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO CONDENAÇÃO DA RÉ POR DANOS MORAIS E TUTELA DE URGÊNCIA PARA REAVER O NÚMERO QUE UTILIZA PARA CONTATO COM FAMILIARES E TRABALHO. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE A AÇÃO PARA CONDENAR A RÉ A PAGAR R$1.500,00 DE DANOS MORAIS. RECURSO INOMINADO BUSCANDO REFORMA DA SENTENÇA PARA AUMENTAR O QUANTUM DO DANO MORAL E PARA APLICAR A MULTA DA TUTELA DE URGÊNCIA VISTO O NÃO CUMPRIMENTO.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE PLEITO CONSUMERISTA NA QUAL A AUTORA CONSEGUIU PROVAR OS FATOS CONSTITUTIVOS DE SEU DIREITO SEM QUE O RÉU AFASTASSE AS PROVAS. NESTE SENTIDO, VISÍVEL FOI O DANO SOFRIDO PELA RECORRENTE UMA VEZ QUE A SUA CONTA FOI SUSPENSA NO DIA 29/07/2022 E SE VIU SEM RESOLUÇÃO, MESMO COM A TUTELA DE URGÊNCIA, ATÉ O DIA 26/08/2022 MOMENTO EM QUE REALIZOU A PORTABILIDADE DA LINHA. O EVENTUAL DESCUMPRIMENTO DE LIMINAR E A CONSEQUENTE MULTA PODERÃO SER OBJETO DE EVENTUAL FASE DE CUMPRIMENTO. NO MÉRITO,
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENADA A PARTE RECORRENTE/AUTORA AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
