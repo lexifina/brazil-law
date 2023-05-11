@@ -1,0 +1,60 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5008982-46.2020.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VALDENIR SERUTI e outros
+RECORRIDO: MARCILIO DA SILVA e outros
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: RECURSO INOMINADO. AÇÃO DE RECONHECIMENTO DE RESCISÃO CONTRATUAL C/C PEDIDO DE RESTITUIÇÃO DE VALORES E REPARAÇÃO DE DANOS. JUIZADO ESPECIAL CÍVEL. OS REQUERENTES AFIRMARAM TER ADQUIRIDO UM IMÓVEL COM O REQUERIDO, ATRAVÉS DO PROCURADOR DESTE, JORGE BARROS DE VASCONCELLOS, QUE À ÉPOCA INTERMEDIOU O NEGÓCIO JURÍDICO NO VALOR DE R$38.000,00 (TRINTA E OITO MIL REAIS). ADUZEM TER REALIZADO O PAGAMENTO DE R$6.000,00 (SEIS MIL REAIS) DE ENTRADA E O VALOR DE R$120,00 (CENTO E VINTE REAIS) REFERENTE A TAXAS E EMOLUMENTOS CARTORIAIS. ASSIM, AGUARDARAM AS PROVIDÊNCIAS DO SR. JORGE PARA CONCRETIZAÇÃO DO NEGÓCIO, O QUE NÃO OCORREU. EM FEVEREIRO DE 2019, FORMALIZARAM DISTRATO COM O RÉU, ATRAVÉS DO SEU PROCURADOR JORGE, FICANDO ACORDADA A DEVOLUÇÃO DO VALOR PAGO A TÍTULO DE ENTRADA, O QUE TAMBÉM NÃO OCORREU. DIANTE DISSO PLEITEARAM A DECLARAÇÃO DE RECONHECIMENTO DO DISTRATO AVENÇADO, A DEVOLUÇÃO DOS VALORES PAGOS E DANOS MORAIS. FALECIMENTO DO SEGUNDO REQUERIDO, SR. JORGE BARROS DE VASCONCELLOS, EM 22/02/2021. PRIMEIRA SENTENÇA PROFERIDA PELO JUÍZO QUE INDEFERIU O PROSSEGUIMENTO DO FEITO EM FACE DE JORGE BARROS DE VASCONCELLOS POR SUBSTITUIÇÃO PROCESSUAL, NOS TERMOS DO ART. 110 DO CPC/15 E JULGOU EXTINTO O PROCESSO, SEM RESOLUÇÃO DE MÉRITO EM FACE DO MESMO, NOS TERMOS DO ART. 485, IV DO CPC. APÓS A REALIZAÇÃO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO, HOUVE NOVA SENTENÇA DESTE JUÍZO QUE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS. RECURSO INOMINADO DOS AUTORES PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA COM A PROCEDÊNCIA DOS PLEITOS.
+RECURSO CONHECIDO E IMPROVIDO
+. INSTA ESCLARECER QUE CABE A PARTE AUTORA COMPROVAR MINIMAMENTE OS FATOS CONSTITUTIVOS DO DIREITO PLEITEADO, NA FORMA DO ARTIGO 373, I, DO CÓDIGO DE PROCESSO CIVIL, O QUE NÃO OCORREU NO CASO EM TELA. OS REQUERENTES NÃO COMPROVARAM TER O SR. JORGE ATUADO EM NOME DO RÉU MARCILIO DA SILVA. SEGUNDO CONFIRMADO EM DEPOIMENTO PESSOAL, OS AUTORES SEQUER CONHECERAM O SENHOR MARCÍLIO PESSOALMENTE. NÃO HÁ PROVAS DE QUE O RÉU MARCÍLIO TIVESSE CONHECIMENTO DO NEGÓCIO FIRMADO OU TENHA RECEBIDO ALGUM VALOR POR ESTE. NESSE SENTIDO, ESCORREITA A SENTENÇA DE PISO.
+MANTENHO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
