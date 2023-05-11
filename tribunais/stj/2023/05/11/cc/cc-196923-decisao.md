@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, suscitante, e o JUÍZO FEDERAL DA 6ª VARA DE CURITIBA - SJ/PR, suscitado.
+A ação foi proposta perante o Juízo Federal, que declinou da competência para a Justiça Estadual.
+Recebidos os autos, o MM. Juízo Estadual reconheceu sua incompetência para julgar a causa e devolveu os autos ao Juízo Federal, que, por sua vez, restituiu os autos ao Juízo Estadual, sob o seguinte fundamento:
+"(..) Conforme definido no evento 10, reconhecia a incompetência da Justiça Federal, decisão contra a qual não foi interposto recurso. Com todo respeito, é preciso ressaltar que juízes estaduais - e esse equívoco vem sendo cometido com relativa frequência por aqueles nobres colegas - não possuem competência ALGUMA para avaliar se a União detém, ou não, interesse em participar da demanda. Conforme a Súmula 150 do STJ dispõe claramente:
+"Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas". A incompetência da Justiça do Estado para tais questões foi inclusive reafirmada pela Súmula 224 do STJ, assim redigida: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito". Por isso, devolva-se o presente feito à Justiça Estadual, para que lá seja redistribuído, salientando, conforme consignado na Súmula 224 do STJ (acima referida), que não será o caso de suscitar conflito de competência" (fl. 731e).
+Posteriormente, com o retorno dos autos à Justiça Estadual, o Tribunal de Justiça do Estado do Paraná suscitou o presente conflito nos seguintes termos:
+"Como se sabe, o Supremo Tribunal Federal entendeu, em situação semelhante, no julgamento do Recurso Extraordinário nº 1.304.964 (tema 1154), que "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à realizado em instituição expedição de diploma de conclusão de curso superior privada de ensino que integre o , mesmo que a pretensão se limite ao pagamento Sistema Federal de Ensino . O acórdão restou assim sumariado: de indenização"
+(..)
+No mesmo sentido, já tem decidido esta C. Câmara:
+(..)
+Dessa maneira, compete à Justiça Federal processar e julgar a demanda, nos termos do art. 109, inciso I, da Constituição Federal.
+Todavia, em razão da negativa de julgamento na jurisdição federal, posto que declinou da competência para o juízo estadual (mov. 78.5, f. 02), faz-se necessário suscitar conflito negativo de competência ao Superior Tribunal de Justiça, com fulcro no art. 105, I, "d", CF .  5  Assim é o posicionamento desta Sexta Câmara Cível ( ): v.g" (fls. 730/735e).
+Com razão o juízo suscitante.
+De fato, sobre o tema, o Supremo Tribunal Federal, no julgamento do Tema 1.154 da repercussão geral , firmou a seguinte tese: "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENSINO SUPERIOR. EXPEDIÇÃO DE DIPLOMA. JUSTIÇA FEDERAL. JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO.
+1. Nos termos do art. 1.040, II, do CPC/2015, deve o órgão julgador reapreciar o acórdão proferido no processo de competência originária cuja conclusão divergiu da orientação do Supremo Tribunal Federal em repercussão geral.
+2. Hipótese em que o Supremo Tribunal Federal, no RE 1.304.964/SP, firmou a tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização."(Tema 1.154).
+3. Agravo interno provido, em juízo de retratação, nos termos do art. 1.040, II, do CPC de 2015, para reconhecer a competência da Justiça Federal"(STJ, AgInt nos EDcl no CC 173.747/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 9/12/2021).
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DA 6ª VARA DE CURITIBA - SJ/PR, suscitado, para o processamento do feito.
+I.
