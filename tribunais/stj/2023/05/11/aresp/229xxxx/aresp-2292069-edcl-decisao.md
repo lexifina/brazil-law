@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VERA LUCIA DE OLIVEIRA, à decisão de fls. 215/216, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Muito embora esse juízo não tenha conhecido do recurso, a recorrente rogou pela concessão dos benefícios da justiça gratuita em sede recursal (evento 106 / fls. 188/189), ex vi do art. 99 - parte final, do Código de Processo Civil.
+Depreende-se, portanto, que a decisão foi omissão ao não analisar tal pedido, carecendo de integração.
+Isso posto, de rigor o conhecimentos dos aclaratórios e no mérito seu provimento para sanar a omissão vergastada (fl. 219).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Consta da decisão embargada que, no ato da interposição, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Percebida, no Tribunal de origem, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que limitou-se a requerer a gratuidade de justiça, que foi indeferida, conforme consignado às fls. 190/193.
+No mais, impende ressaltar que é despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt no AREsp 1619350/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1820544/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, Dje de 20/3/2020; e AgInt no AREsp 1215154/RJ, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 24/10/2019).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
