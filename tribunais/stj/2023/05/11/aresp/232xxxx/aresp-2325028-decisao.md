@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TRANSPORTES AEREOS PORTUGUESES S/A contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Agravo em recurso especial interposto em: 25/02/2022.
+Concluso ao gabinete em: 08/05/2023.
+Ação: de indenização de danos morais e materiais ajuizada por RARLLON PUGSLEY BIELSKI em face de TRANSPORTES AEREOS PORTUGUESES S/A na qual requer o recebimento de indenização e compensação por danos materiais e morais atinentes ao impedimento indevido de se embarcar para a Espanha.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: deu provimento à apelação interposta por RARLLON PUGSLEY BIELSKI, nos termos da seguinte ementa:
+"Apelação - Ação indenizatória - Transporte aéreo internacional - Impossibilidade de embarque - Autor que não teria apresentado passagem de regresso ao Brasil e documentos necessários à demonstração da regularidade do intercâmbio - Pedidos improcedentes - Pleito de reforma - Possibilidade - Vínculo entre as partes inserido no âmbito das relações de consumo - Responsabilidade objetiva da empresa requerida - Falha na prestação do serviço - Desrespeito ao dever de informação - Infringência aos artigos 6º, incisos III e IV, e 46, todos do Código de Defesa do Consumidor - Comprovante coligido pelo autor que demonstra a existência da passagem de retorno - Exigência ilegal quanto à emissão de passagem pela mesma companhia (suficiência quanto à demonstração de que figurava na lista de passageiros do voo da companhia Latam) - Afirmação de que os documentos de intercâmbio não foram apresentados - Viagem que não teve por escopo o intercâmbio, mas treinamento em time de futebol, demonstrados recebimento e apresentação de carta convite - Funcionários da ré que possuem o poder/dever de fiscalizar a documentação dos passageiros, incumbência atrelada ao dever anexo de informar adequadamente os consumidores - Negativa de embarque genérica e desprovida de qualquer elemento fático - Falha na prestação do serviço caracterizada - Dano material - Ressarcimento do valor despendido com a aquisição das passagens e o teste de Covid19 que se impõe - Inteligência dos artigos 19 e 22.6 da Convenção de Montreal - Dano moral - Inquestionável a frustração com o incidente, que ultrapassou o mero dissabor - Autor que participaria de treinamento e testes na Espanha - Perda da viagem - Ausência na participação do torneio, perda de chance, que a despeito de não implicar irreversibilidade quanto a futuros projetos merece justa reparação - Montante que deve ser consentâneo ao abalo sofrido - Valor arbitrado em R$ 15.000,00, que se revela adequado e proporcional - Recurso provido.
+Dispositivo: deram provimento ao recurso." (fls. 170/171, e-STJ).
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 6º e 14, § 3º, do CDC e 944 do CC.
+Sustenta, em síntese, i) a culpa exclusiva do consumidor pelo impedimento do embarque porquanto ausente documentação exigida no país para o ingresso de estrangeiro; ii) o devido cumprimento do dever de informação pela companhia aérea acerca dos requisitos de ingresso no país estrangeiro; iii) a ausência de configuração de danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Do reexame de fatos e provas
+No que se refere a culpa exclusiva do consumidor pelo impedimento do embarque, o acórdão recorrido assim se pronunciou:
+"À luz dos autos, o autor informou que a suposta causa impeditiva ao embarque teria sido a inexistência de passagem de retorno em sede da companhia ré (fls.03 - §4º).
+Nesse sentido, a própria ré afirmou que o autor não teria apresentado passagem de regresso ao Brasil nominal e fechada em seu nome (fls.59 itens 17 e 18), entretanto, a reserva realizada por meio do site "kiwi" compreendia a passagem de ida e de retorno (fls.26/34).
+Efetivamente, o retorno estava agendado para o dia 03/01/2021 às 22h15min, partindo de Madrid, com chegada em Guarulhos às 04h55min do dia 04/01/2021 (fls.26), em voo a ser realizado pela companhia Latam, contudo, foi exigida a apresentação pelo autor, indevidamente, a apresentação de passagem aérea junto à companhia aérea ré.
+Por outro lado, respeitado o entendimento do d.
+magistrado a quo (fls.125/127), é sabido que o cartão de embarque é emitido após o check-in, procedimento realizado no próprio dia ou alguns dias antes do voo, jamais com sessenta dias de antecedência, razão pela qual, inexigível a apresentação daquele documento quanto da realização do trecho de ida.
+Quanto aos demais documentos, o autor apresentou o teste negativo de Covid-19 e a carta convite para participar dos treinamentos no clube de futebol (fls.37/38 e 43), não se mostrando verossímil a alegação da ré, no sentido de que ele faria um intercâmbio e não testes junto ao time." (fls. 174/175, e-STJ).
+Quanto ao alegado cumprimento do dever de informação realizado pela companhia aérea, o Tribunal de origem assentou o que segue:
+"Não se olvida que à ré incumbe o dever de fiscalizar a documentação apresentada pelos passageiros, previamente e como condição ao embarque, sob pena de ser responsabilizada. Tal obrigação, entretanto, vem atrelada ao dever anexo de bem informar, discriminadamente, as exigências a ser cumpridas, incumbência que na hipótese dos autos, não foi efetivamente desempenhada.
+(..)
+Cediço que nos contratos de adesão, que ostentam cláusulas limitativas, devem as partes observar o direito à informação, adequada e clara, acerca dos produtos e serviços disponibilizados (artigo 6º, III, do CDC), com vistas a evitar incidentes, obrigação em relação a qual, como dito acima, a ré não se desincumbiu." (fls. 174/175, e-STJ).
+Por fim, no que tange à tese atinente à ausência ausência de configuração de danos morais indenizáveis, o aresto vergastado fundamentou-se nos seguintes termos:
+"Não há dúvida quanto à ocorrência dos danos morais sofridos pelo autor, o qual ficou à mercê da assistência deficitária prestada pela ré, tendo sido privado de realizar o teste, hipóteses a caracterizar evidente mácula extrapatrimonial, que vem reforçadas, em caráter especial, pela frustração do sonho, sendo notória a importância e dimensão imanentes a um convite de tal natureza.
+E não se trata, exclusivamente, de analisar a questão de um mero descumprimento contratual, mas as consequências que, concomitantemente, exsurgem deste fato.
+Destarte, inquestionável a sensação de angústia ante a perda da viagem, frustração que não era esperada, e que ultrapassa o mero dissabor, configurando efetivo dano de natureza moral, que deve ser indenizado.
+Cediço que, à míngua de critérios objetivos para a fixação de indenização por dano moral, cabível ao magistrado valer-se de apreciação equitativa, levando em conta a extensão do dano, o grau de culpabilidade do ofensor e a situação econômica das partes, de modo a reparar o abalo sofrido, bem como inibir a repetição da conduta." (fls. 177/178, e-STJ).
+Dessa forma, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+2. Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema acima mencionado que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, 1ª Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, 2ª Turma, DJe 14/12/2018; REsp 1665845/RS, 2ª Turma, DJe 19/06/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 5% sobre o valor da condenação devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DE DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de indenização de danos morais e materiais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo em recurso especial conhecido. Recurso especial não conhecido.
