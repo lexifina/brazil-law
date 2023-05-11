@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de GENIVAL JOSE ANDRADE , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (HC 2090153-45.2023.8.26.0000).
+O paciente foi condenado à pena de 4 anos de reclusão em regime fechado, pela prática do crime previsto no art. 121, § 2º, IV, c/c art. 14, II, do CP.
+A ordem impetrada na Corte de origem teve o pedido de liminar indeferido pelo Desembargador Relator.
+A impetrante sustenta: a) a manutenção da custódia cautelar pelo juízo sentenciante foi desprovida de fundamentação, pois baseada unicamente na revelia do paciente em sessão plenária; b) o paciente respondeu em liberdade até a fase do plenário do júri, e, nesse período, não demonstrou nenhum risco à ordem pública ou à integridade física/psíquica da vítima, nem das testemunhas; e c) há desproporcionalidade n a aplicação de medida extrema, pois em caso de eventual provimento do recurso a pena será redimensionada e possibilitará a aplicação do regime aberto.
+Requer, liminar e definitivamente, deferimento da ordem para que seja reconhecido o direito do paciente de recorrer em liberdade, com ou sem a imposição de medidas cautelares diversas.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 39):
+A análise sumária da impetração não autoriza concluir pelo preenchimento dos requisitos para concessão da medida liminar, pois não há como saber a real situação processual do Paciente, sendo indispensáveis informações da autoridade judiciária apontada como coatora para o exame da pretensão. A medida liminar em Habeas Corpus é cabível quando o constrangimento ilegal é ma nifesto e constatado de plano, pelo exame sumário da inicial, o que não ocorre no presente caso, impossibilitando a análise cuidadosa dos fatos e documentos para identificar o periculum in mora e o fumus boni juris, que por ora não vislumbro.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
