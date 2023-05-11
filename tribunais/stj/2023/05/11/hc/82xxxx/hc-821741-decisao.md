@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DORIVALDO SOARES DE SOUZA, no qual apontou como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Consta dos autos que o Juízo da Vara de execução Criminal regrediu definitivamente o regime de cumprimento de pena do paciente do semiaberto para o fechado, ensejado pela ocorrência de falta grave consistente na fuga do paciente, diante da falta de sinal da tornozeleira eletrônica.
+Inconformada, a Defesa impetrou a ordem originária, tendo o Tribunal de origem denegado o writ, em acórdão assim ementado (e-STJ, fl. 229):
+"HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. ROMPIMENTO DE TORNOZELEIRA. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE.
+Não expõe constrangimento ilegal a ser reparado pela ordem do habeas corpus em favor do paciente, a decisão de regressão do sistema penitenciário, o descumprimento das obrigações da pena aflitiva no regime semiaberto, o rompimento de tornozeleira, a fuga, falta grave, art. 50, inciso II, da Lei nº 7.210/84, observado o contraditório e a ampla defesa, a manutenção do ato.
+ORDEM DENEGADA."
+Neste writ, o impetrante alega que a perda de sinal decorrente de falha técnica no equipamento e baixa cobertura de sinal no novo endereço do apenado, não pode ser equiparada à fuga, vez que não houve nenhuma conduta reprovável atribuída ao paciente
+Sustenta que a perda do sinal de GPS se deu em razão de caso fortuito, consistente na cobertura reduzida da rede no novo endereço, restando ausentes o dolo ou culpa do paciente.
+Aduz "nos termos da Resolução nº 412 do CNJ, a situação dos autos, em razão da residência do apenado ter cobertura de sinal limitada e instável, enseja a adoção de medida diversa da monitoração eletrônica -jamais a imputação de falta grave ao reeducando por se tratar de circunstância alheia a sua vontade" (e-STJ, fl. 9).
+Assevera que a conduta atribuída ao reeducando não está prevista no art. 50 da LEP, tampouco no art. 146-C da LEP, razão pela qual não poderá importar no reconhecimento de falta grave.
+Ressalta a ausência de proporcionalidade e razoabilidade na regressão de regime.
+Pleiteia a revogação da decisão que decretou sua regressão para o regime fechado.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O Tribunal estadual manteve a decisão de primeiro grau, consoante os seguintes fundamentos (e-STJ, fl. 226):
+"O paciente, expiando sanção aflitiva de 23 (vinte e três) anos, 06 (seis) meses e 22 (vinte e dois) dias de reclusão, regime semiaberto, foi regredido para o fechado, o cometimento de falta grave, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema, a fuga, a audiência de justificação, ouvido, a manifestação da defesa e do representante ministerial, não se identificando ilegalidade a ser reparada pela ordem mandamental.."
+Correta a decisão prolatada pelo juízo de primeiro grau, eis que regrediu o apenado de regime, diante do descumprimento das condições impostas ao regime semiaberto, o reeducando cometeu falta grave.
+Nessa linha, colaciono os seguintes arestos, proferidos por este Tribunal Superior:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UTILIZAÇÃO DE TORNOZELEIRA ELETRÔNICA SEM BATERIA. FALTA GRAVE. VIOLAÇÃO DO PERÍMETRO DE INCLUSÃO. SANÇÃO DISCIPLINAR DE REGRESSÃO DE REGIME PREVISTA NA LEP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor dos precedentes desta Corte, a utilização de tornozeleira eletrônica sem bateria suficiente configura falta grave, nos termos dos arts. 50, VI, e 39, V, ambos da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. Além do mais, o reeducando violou a zona de monitoramento dezoito vezes, o que também autoriza sanção disciplinar de regressão de regime, a teor do art. 146-C, parágrafo único, I, da LEP.
+3. As instâncias ordinárias consideraram inacreditáveis as alegações de que os fatos se deram para execução de trabalhos, atendimento de saúde, conversas com defensor e idas ao fórum eleitoral. As justificativas não podem ser reexaminadas por este Superior Tribunal, pois trata-se de controvérsia fática, cuja resolução encontra óbice na Súmula n. 7 do STJ.
+4. Agravo regimental não provido." (AgRg no REsp 1766006/TO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 19/12/2018)
+"RECURSO ESPECIAL. PENAL E PROCESSO PENAL. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. QUESTÃO DECIDIDA. EXECUÇÃO PENAL. FALTA GRAVE. ROL TAXATIVO. TORNOZELEIRA ELETRÔNICA. INOBSERVÂNCIA DO PERÍMETRO DE INCLUSÃO RASTREADO PELO MONITORAMENTO. DESCUMPRIMENTO DE CONDIÇÃO OBRIGATÓRIA QUE AUTORIZA SANÇÃO DISCIPLINAR MAS NÃO CONFIGURA FALTA GRAVE. RECURSO PROVIDO.
+1. Não há violação dos artigos 619 e 620 do Código de Processo Penal se o Tribunal a quo decide todas as questões suscitadas e utiliza fundamentação suficiente para solucionar a controvérsia sem incorrer em omissão, contradição ou obscuridade.
+2. Resta incontroverso da doutrina e da jurisprudência que é taxativo o rol do artigo 50 da Lei de Execuções Penais, que prevê as condutas que configuram falta grave.
+3. Diversamente das hipóteses de rompimento da tornozeleira eletrônica ou de uso da tornozeleira sem bateria suficiente, em que o apenado deixa de manter o aparelho em funcionamento e resta impossível o seu monitoramento eletrônico, o que poderia até equivaler, em última análise, à própria fuga, na hipótese de inobservância do perímetro de inclusão declarado para o período noturno detectado pelo próprio rastreamento do sistema de GPS, o apenado se mantém sob normal vigilância, não restando con figurada falta grave mas, sim, descumprimento de condição obrigatória que autoriza sanção disciplinar, nos termos do artigo 146-C, parágrafo único da Lei de Execuções Penais.
+4. Recurso provido" (REsp 1519802/SP, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe 24/11/2016)
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
