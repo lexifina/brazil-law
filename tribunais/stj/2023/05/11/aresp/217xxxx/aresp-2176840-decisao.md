@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SPRINGER CARRIRER LTDA, em face de decisão que inadmitiu o Recurso Especial interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+"APELAÇÃO CÍVEL. TERMO DE ACORDO ENTRE EMPRESA E ESTADO. CRÉDITO PRESUMIDO MEDIANTE A MANUTENÇÃO DE MÉDIA MÍNIMA DE EMPREGADOS. MESES EM QUE A MÉDIA MÍNIMA NÃO FOI ATINGIDA. MESMO ASSIM APROVEITAMENTO DE CRÉDITO PRESUMIDO. INADMISSIBILIDADE. BENEFÍCIO FISCAL. INTERPRETAÇÃO STRICTO SENSU. ART. 111 DO CTN. ADITIVO, MESMO QUE EVENTUALMENTE MENOS RIGOROSO, NÃO RETROAGE, SALVO NORMA EXPRESSA. INAPLICABILIDADE DAS TEORIAS DO ADIMPLEMENTO SUBSTANCIAL E DO ADIMPLEMENTO PROPORCIONAL.
+APELAÇÃO DESPROVIDA" (fl. 665e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 699/701e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, 109 do CTN, 113, 187, 422 e 884 do Código Civil.
+Sustenta, essencialmente, que:
+(i) "não houve pronunciamento pela decisão recorrida acerca da eficácia do aditivo ao termo de acordo no tempo, questão decisiva para entender-se se a Recorrente tinha ou não direito aos créditos presumidos glosados" (fl. 745e);
+(ii) "o adimplemento substancial faz nascer para a parte que não cumpriu com a integralidade da prestação por ela devida um direito que se contrapõe ao direito da outra parte de invocar o inadimplemento como justificativa para impedir a eficácia natural do negócio jurídico (no caso, a de permitir a apropriação de créditos presumidos de ICMS)" (fl. 750e);
+(iii) "em se verificando que o adimplemento se deu de forma substancial, torna-se abusivo o direito de resolução, cujo exercício passa a ferir o princípio da boa-fé, isso tudo sem mencionar na ofensa à própria função e finalidade do termo de acordo" (fl. 751e);
+(iv) "é imperioso decidir o presente caso à luz do atingimento da função social do contrato, do adimplemento substancial, da boa-fé objetiva e da vedação ao enriquecimento ilícito, essenciais para adequada valoração dos fatos, que só podem ser examinados sob um viés teleológico, em um contexto em que as partes não são sujeitos antagônicos, mas cooperativos" (fl. 753e).
+Contrarrazões a fls. 773/783e.
+Inadmitido o Recurso Especial (fls. 787/790e), foi interposto o presente Agravo (fls. 813/822e).
+Contraminuta a fls. 832/836e.
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Quanto ao adimplemento substancial, esbarra no art. 108 do CTN, pelo qual só na ausência de disposição expressa da legislação tributária é possível a analogia, os princípios gerais de direito e a equidade.
+Tal não fosse, a teoria do adimplemento substancial não se aplica a situações como a sub judice, visto que só o é para evitar a resolução do contrato por inadimplência das últimas prestações, e mesmo assim a jurisprudência não lhe tem dado muito espaço, por exemplo, o STJ deliberou pela rejeição na alienação fiduciária (Tema 722), e vale o mesmo ao leasing.
+No caso, não houve resolução do Termo de Acordo, haja vista sua posterior continuidade, inclusive com Aditivo." (fl. 664e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheç o do Agravo, pa ra conhecer em parte do Recurso Especial, e, nessa parte, negar-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
