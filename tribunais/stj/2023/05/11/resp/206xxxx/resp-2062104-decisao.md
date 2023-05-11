@@ -1,0 +1,35 @@
+DECISÃO
+MATHEUS OLIVEIRA DE JESUS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1510574-71.2021.8.26.0228.
+Depreende-se dos autos que o réu foi condenado a 2 anos e 8 meses de reclusão, em regime aberto, mais 13 dias-multa, substituída por restritiva de direitos, pela prática do crime previsto no art. 155, §§ 1º e 4º, I e IV, do CP
+O Tribunal de origem deu parcial provimento à apelação defensiva, sem alteração na quantidade de reprimenda.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou os arts. 155, § 4º, I, do CP e 158 e 171 do CPP, ao argumento de que o rompimento de obstáculo somente pode ser comprovado mediante perícia técnica, o que não consta nos autos. Sustenta afronta ao art. 155, § 1º, do CP, uma vez que a majorante relativa ao repouso noturno é incompatível com a forma qualificada do furto.
+Requer seja afastada as referidas qualificadora e majorante.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu provimento parcial.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Igualmente não vinga o pleito defensivo para afastamento da qualificadora do rompimento de obstáculo, visto que tanto as testemunhas Renato e Willians, como os policiais militares Ana Gabriela e Vinícius, confirmaram que a porta do estabelecimento havia sido arrombada pelos furtadores, ressaltando-se que, contrariamente ao alegado nas razões de apelo, a ausência de laudo pericial não tem o condão de afastar essa qualificadora, mormente quando a prova testemunhal, igualmente idônea, deu conta de demonstrar, com segurança, a sua incidência, a teor do que preconiza o artigo 167, do CPP.
+ ..
+Também não há que se falar em afastamento da majorante do repouso noturno, pois, embora dos fundamentos expedidosno julgamento dos Recursos Especiais nºs 1.888.756/SP, 1.890.981/SP e 1.891.007/RJ, o adiantado da hora em que o crime foi praticado é o quanto basta a configuração dessa causa de aumento, observando que, na espécie, o imputado se prevaleceu de tal circunstância para facilitar o sucesso da empreitada, diante da menor vigilância existente nesseperíodo, portanto, em homenagem ao princípio da isonomia, e partindo-se da premissa de que os furtos praticados em sua forma qualificada admitem a privilegiada, a majorante do repouso noturno também deve incidir sobre as formas qualificadas desse ilícito, entendimento esse quese encontra inclusive em sintonia com a orientação do Supremo TribunalFederal, embora não se desconheça, nesta Câmara, os precedentes já mencionados, oriundos do Superior Tribunal de Justiça.
+(fls. 312-314, destaquei)
+Relativamente à qualificadora, registro que, no julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Naquela oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte. Porém, levado referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria sob a seguinte ementa:
+ ..
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Recurso provido para afastar a qualificadora da escalada da condenação do recorrente pelo delito de furto.
+(REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016)
+Como visto, a Sexta Turma deste Tribunal Superior concluiu pela imprescindibilidade, em regra, da comprovação da escalada por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo, entendimento esse que foi estendido ao rompimento de obstáculo:
+ ..
+1. A jurisprudência desta Corte Superior é firme em assinalar que, nos casos em que o rompimento de obstáculo não deixa vestígios, bem como nas hipóteses em que os vestígios materiais são insuficientes ou não mais subsistem no momento da apuração da prática delitiva, a qualificadora em questão pode ser atestada com base em outros elementos probatórios, que não o laudo pericial.
+2. As instâncias ordinárias não demonstraram nenhuma excepcionalidade que justificasse a não realização de exame pericial para atestar o rompimento de obstáculo, motivo pelo qual deve ser afastada a qualificadora em questão.
+ ..
+10. Habeas corpus não conhecido. Ordem concedida de ofício, para desclassificar a conduta imputada ao paciente para furto simples e reduzir a pena a ele imposta.
+(HC n. 330.890/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/5/2016)
+A partir de então, com a ressalva de minha posição pessoal, aderi ao entendimento do colegiado, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação da escalada e do rompimento de obstáculo.
+Na espécie, é incontroverso que não foi realizado exame pericial para atestar o rompimento de obstáculo e as instâncias ordinárias não demonstraram qualquer excepcionalidade que justificasse a sua não realização.
+Evidenciado, portanto, o constrangimento ilegal mencionado, motivo pelo qual deve ser afastada a forma qualificada do furto.
+Feitas essas observações, passo à nova dosimetria.
+Apesar de afastado o rompimento de obstáculo, mantenho a forma qualificada em razão da configuração de concurso de pessoas, antes utilizado para exasperar a pena-base, a qual fixo no mínimo legal: 2 anos de reclusão mais 10 dias-multa, que coincide com a intermediária, pois a incidência da menoridade relativa não a diminui aquém do mínimo, a teor da Súmula n. 231 do STJ.
+Na terceira etapa, no que tange à compatibilidade da majorante com o furto qualificado, a tese foi objeto do Tema Repetitivo 1.087/STJ, em que se firmou que "A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada" (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, 3ª S., DJe de 27/6/2022, destaquei.).
+Assim, fica a pena final no patamar de 2 anos de reclusão mais 10 dias-multa.
+Diante do exposto, dou parcial provimento ao recurso especial, com a finalidade de diminuir a sanção para 2 anos de reclusão mais 10 dias-multa.
+Publique-se e intimem-se.
