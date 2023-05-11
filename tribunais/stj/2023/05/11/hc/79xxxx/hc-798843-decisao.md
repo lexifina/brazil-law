@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Diego Zingante Pereira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2306778-10.2022.8.26.0000).
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada, no dia 18/10/2022, e foi denunciado pela suposta prática dos crimes de tráfico de drogas e associação para o mesmo fim (Ação Penal n. 1500381-17.2022.8.26.0598, da 2ª Vara do Foro de Pederneiras/SP).
+Inconformada, a defesa impetrou ha beas corpus no Tribunal de origem, que denegou a ordem em 26/1/2023 (fls. 19/27).
+Daí a presente impetração, em que se alega a ausência de provas de autoria delitiva e a existência de constrangimento ilegal ante a falta de fundamentação idônea para a decretação da constrição cautelar.
+Sustenta-se a existência de condições pessoais favoráveis, a suficiência das medidas cautelares alternativas ou o cabimento de prisão domiciliar, diante do quadro de meningite e fortes dores de cabeça.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido pelo Vice-Presidente, no exercício da Presidência desta Corte, Ministro Og Fernandes (fls. 244/245).
+As informações foram prestadas (fls. 249/271).
+O Mini stério Público Fe d eral opinou pela denegação da ordem (fls. 275/281).
+Em consulta ao andamento da ação penal na página eletrônica do Tribunal de origem, houve audiência de instrução e julgamento em 5/5/2023 e abertura de vista às partes para apresentação de alegações finais.
+É o relatório.
+O writ não merece prosperar.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal (a qual está prestes a ser sentenciada), bastando, para justificar a prisão cautelar, haver indícios de autoria.
+No tocante aos motivos para a decretação da prisão preventiva, o Magistrado fundamentou na garantia da ordem pública, considerando os seguintes fatos e fundamentos (fl. 28 - grifo nosso):
+ ..
+Depreende-se do teor das peças de informação anexadas à denúncia que, os fatos delituosos imputados aos réus, são extremamente graves. Apurou-se que traficantes de drogas da cidade de Bauru/SP estavam adquirindo cocaína de fornecedor em Pederneiras/SP. Assim, diligências policiais foram empregadas e averiguou-se que os acusados acima mencionados integram organização criminosa que comercializam vultuosa quantidade de drogas. A organização já chegou a possuir, em seu estoque, mais de 100 kg de entorpecentes. Os associados mudam constantemente o local de depósito das drogas, com o intuito de se furtar da açã o policial.
+ ..
+O Tribu na l a quo, por sua vez, ao denegar a ordem d e habeas corpus, ratificou a decretação da prisão preventiva nos seguintes termos (fl. 24 - grifo nosso):
+ ..
+É perfeitamente razoável a custódia preventiva, para garantia da ordem pública. Não há mesmo razão para a revogação da custódia ou a concessão da liberdade provisória, porque clara a necessidade de preservação da ordem pública, arranhada pela ação examinada. A ordem pública é ofendida quando a conduta do agente provoca algum impacto na sociedade, lesando valores significativamente importantes. No caso, nos limites do que é possível ponderar, a ofensa é quase palpável. O paciente associou-se a outros três acusados para comercializar vultuosa quantidade de droga, inclusive para outros municípios. Com seus comparsas foram localizadas várias porções de cocaína, um tijolo de maconha e uma balança de precisão. Não bastasse isso, DIEGO ainda tinha em depósito, para fim de tráfico, considerável quantidade de maconha (250g ).
+ ..
+Realment e, as instâncias ordinárias demonstraram idoneidade da fundamentação para manter a prisão preventiva, na hipótese em que é decretada com base na gravidade concreta dos delitos, tirada da considerável quantidade de droga apreendida (253,94 g de maconha, em 9 porções separadas, prontas para venda) e do co ntexto fático dos delitos - em que o paciente está associado a outros 3 indivíduos para fins de praticar o tráfico intermunicipal de drogas, tendo sido localizados com o grupo, ainda, mais de 100 kg de entorpecentes e balança de precisão.
+Com efeito, o Superior Tribunal de Justiça já decidiu que a quantidade, a natureza e a diver sidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+No mesmo sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INDEFERIMENTO LIMINAR DO WRIT. INCIDÊNCIA DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE DE SUPERAÇÃO. ASSOCIAÇÃO CRIMINOSA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA.
+1. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. Verifica-se da decisão que indeferiu a liminar do writ, na origem, que o Juízo a quo fundamentou a prisão preventiva no fato de o agravante integrar associação criminosa voltada para o tráfico de entorpecentes, o que denota a gravidade concreta da conduta.
+3. Nesse contexto, a prisão preventiva foi justificada em elementos concretos dos autos, estando em consonância com a orientação desta Corte no sentido de que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009).
+Nesse sentido: RHC n. 139.545/SC, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 16/3/2021, DJe 26/3/2021.
+4. Não se verifica flagrante ilegalidade a ensejar a superação do óbice da Súmula n. 691 do STF, visto que houve fundamento válido para o indeferimento do pedido liminar na origem.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 786.430/RS, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 31/3/2023 - grifo nosso)
+No tocante ao pedido de substituição da constrição por prisão domiciliar, considerando as peculiaridades do caso, entendo que os requisitos, na forma do art. 318 do Código de Processo Penal, não estão presentes. As informações acostadas à inicial dão conta de que o paciente possui meningite e fortes dores de cabeça. No entanto, de acordo com o acórdão impugnado, não houve comprovação da especial gravidade do estado de saúde do réu, tampouco da incapacidade da unidade prisional em prestar o atendimento necessário, sendo inviável a esta Corte se aprofundar na análise do material fático-probatório para chegar a uma conclusão diversa.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pelo Subprocurador-G eral da República Hindenburgo Chateaubriand Filho (fl s. 275/281), o qual também adoto como razão de decidir.
+Pelo exposto, com base na jurisprudência e no parecer, conheço em parte do writ e, nessa extensão, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. AUSÊNCIA DE PROVAS DE AUTORIA DELITIVA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA. RESGUARDO DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. NATUREZA E QUANTIDADE DAS DROGAS. CIRCUNSTÂNCIAS DOS DELITOS. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PRISÃO DOMICILIAR. INVIABILIDADE. AUSÊNCIA DE COMPROVAÇÃO DO ESTADO DE SAÚDE GRAVE E DA INCAPACIDADE DA UNIDADE PRISIONAL EM PRESTAR ATENDIMENTO MÉDICO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER MINISTERIAL ACOLHIDO.
+Writ conhecido em parte e, nessa extensão, ordem denegada.
