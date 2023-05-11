@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido de extensão ajuizado por Carlos Alexandre Barbosa Silva e Jose Rafael Silva Medeiros, da decisão da minha lavra, em que concedi liminarmente a ordem em benefício da corré Francisca Elisonete dos Santos, assim ementada (fl. 138):
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS QUE NÃO SE MOSTRAM SUFICIENTES PARA A IMPOSIÇÃO DA MEDIDA EXTREMA. ADEQUAÇÃO E SUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. PACIENTE QUE É TIDA COMO COMPANHEIRA DO EXECUTOR MATERIAL DO CRIME. PRISÃO FUNDAMENTADA NO FATO DE A ACUSADA TER SIDO ENCONTRADA JUNTO AOS COMPARSAS E COM ALGUNS OBJETOS DO CRIME. INEXISTÊNCIA DE INDICAÇÃO DE MAUS ANTECEDENTES OU INTENÇÃO DE ATRAPALHAR A INSTRUÇÃO CRIMINAL OU SE FURTAR À APLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
+Alegam os requerentes, em suma, que, igualmente à paciente beneficiada com a decisão liminar proferida por esse Juízo nos presentes autos, não possuem qualquer mácula que possam desabonar suas condutas e igualmente à paciente Francisca Elisonete da Silva, não registram nenhum antecedente criminal, possuem endereços certos e profissões definidas e que se analisarmos os autos da ação penal em curso perante a douta Vara Criminal da Comarca de São Sebastião do Paraíso, no momento da execução os pacientes igualmente estavam no interior do veículo e nenhuma participação tiveram na execução material do crime sob comento, fato que os iguala à paciente já beneficiada com provisória liberdade, estando, pois, ausentes, os motivos elencados pelo Juízo de piso e pelo TJ Mineiro para a manutenção da medida extrema (fl. 156).
+Postulam, então, a extensão dos efeitos da ordem liminarmente concedida em benefício da corré, nos termos do art. 580 do Código de Processo Penal.
+É o relatório.
+O presente pedido de extensão não comporta acolhimento.
+De início, porque a decisão que se pretende ver aplicados seus efeitos se vincula a uma circunstância de caráter exclusivamente pessoal, consistente no fato de que a paciente do presente writ teria permanecido no banco traseiro do motorista durante toda a empreitada criminosa, não tendo, em tese, praticado conduta capaz de colaborar para o êxito do fato delituoso, enquanto os requerentes são apontados como envolvidos na sequência de crimes decorrentes de desavenças entre ciganos da região, além de serem os responsáveis por conduzir o veículo até o local do crime e serem os responsáveis pela fuga em alta velocidade.
+Confiram-se os fatos delituosos atribuídos na denúncia aos requerentes (fls. 33/35):
+ ..
+Já nesta cidade, os quatro foram até a igreja onde a vítima estava, ocasião em que Fábio, o executor, desceu do veículo, enquanto os outros o aguardaram no carro, dando-lhe cobertura e preparados para uma fuga rápida do local. Fábio, então, entrou no templo, avistou Kauê que estava rezando distraído, aproximando-se dele e, estando bem perto, efetuou três disparos que atingiram a cabeça da vítima, que morreu imediatamente no local.
+Tudo foi feito na presença de várias pessoas que estavam no templo.
+Depois de efetuar os disparos, o réu Fábio saiu correndo e entrou no banco traseiro do veículo Toyota/Corola que, com as luzes apagadas, arrancou em alta velocidade iniciando o retorno dos réus ao Estado do Ceará.
+O delito de homicídio foi praticado mediante recurso que dificultou a defesa da vítima, já que ela foi surpreendida por Fábio enquanto fazia suas orações e atingida por três disparos à  ..
+ ..
+Os denunciados Carlos Alexandre e José Rafael alegaram ser apenas motorista e que tinham sido contratados para conduzir o casal Fábio e Francisca até São Sebastião do Paraíso. Contudo, as informações prestadas pelos órgãos de persecução penal do Ceará dão conta de que todos os réus têm envolvimentos com a sequência de mortes praticadas naquele Estado e neste Município, pois os envolvidos seriam ciganos e tiveram desavenças entre eles, o que provocou o homicídio de Roberto e depois dos demais, tudo como forma de vingança.
+ ..
+Carlos Alexandre e Rafael também realizaram as funções de motorista, levando o executor ao local do crime e dando fuga a ele rapidamente depois da execução. Francisca, por sua vez, esposa de Fábio, também auxiliou o bando na guarda da arma e do dinheiro usado na viagem.
+ ..
+Em face do exposto, indefiro o pedido de extensão.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE EXTENSÃO DOS EFEITOS DA DECISÃO QUE CONCEDEU A ORDEM EM FAVOR DA CORRÉ, BENEFICIADA COM A SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS ALTERNATIVAS. DECISÃO QUE SE VINCULA A CIRCUNSTÂNCIAS DE CARÁTER EXCLUSIVAMENTE PESSOAL. FALTA DE CONTRIBUIÇÃO DECISIVA PARA A EMPREITADA CRIMINOSA. REQUERENTES TIDOS COMO MOTORISTAS QUE CONDUZIRAM O EXECUTOR MATERIAL DO CRIME AO LOCAL DO DELITO E RESPONSÁVEIS PELA FUGA APÓS A PRÁTICA DOS DISPAROS QUE ENSEJARAM A MORTE DA VÍTIMA. IDENTIDADE DE SITUAÇÕES. AUSÊNCIA.
+Pedido indeferido.
