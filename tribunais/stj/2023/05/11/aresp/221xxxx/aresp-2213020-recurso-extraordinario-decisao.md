@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 833-851) interposto por IVANILDO PEREIRA DOS ANJOS, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl . 824):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. CONCUSSÃO. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, a Defesa foi intimada, quanto ao acórdão de origem, em 15/06/2022. O prazo para a interposição do recurso se encerrou em 30/06/2022. No entanto, o recurso especial só foi interposto em 04/07/2022, fora, portanto, do prazo recursal de 15 (quinze) dias, que deve ser contado de forma contínua.
+2. O art. 1.003, § 6.º, do Código de Processo Civil determina que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não havendo previsão de cumprimento posterior da referida exigência.
+3. A jurisprudência deste Superior Tribunal de Justiça sedimentou-se no sentido de que ""o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi - não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem" (AgInt no REsp. 1.715.972/MA, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18.5.2018)." (EDcl no AgInt nos EDcl no AREsp 1661491/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022).
+4. Ademais, a "mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal Precedentes" (AgInt no AREsp n. 2.140.372/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, XXXV e LV, da CF.
+Nesse sentido, argumenta que (fls. 845-846):
+Estamos diante de matéria de ordem pública consistente na tempestividade do recurso especial interposto no juízo a quo, que mesmo questionado via de agravo regimental, não houve retratação, o que está privando o recorrente de ver o seu recurso julgado pelo mérito, em peça que ao contrário do que foi decidido foi tempestiva.
+Inicialmente cabe destacar que, diferentemente do que compreendido pelos Cultos e Honrados Ministros do STJ, no caso posto o recurso especial interposto é manifestamente TEMPESTIVO.
+ ..
+Cumpre esclarecer que o argumento de tempestividade foi devidamente apresentado na peça do Recurso Especial, porém, sequer foi analisado pelo Tribunal de Justiça de Mato Grosso do Sul, E AGORA, DA MESMA FORMA NÃO HOUVE APRECIAÇÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA QUE EM UMA DECISÃO GENÉRICA DECIDIU MANTER A DECISÃO DE INTEMPESTIVIDADE, AINDA, NÃO PODE O TJMS DESCONSIDERAR OS SEUS PRÓPRIOS ATOS NORMATIVOS QUANDO DECIDE NO ÂMBITO DE SUA JURISDIÇÃO.
+Assevera que "a intempestividade, dessa forma, não poderia ser declarada antes de ser a parte intimada para comprovar o teor e a vigência da norma local que, alegadamente, interfere na contagem do prazo recursal" (fl. 850).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 862-869.
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque foi mantida a decisão que reputou intempestivo o recurso dirigido a este Superior Tribunal, impedindo o conhecimento do recurso.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
