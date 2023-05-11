@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - USURA - VEROSSIMILHANÇA DAS ALEGAÇÕES - EXECUÇÃO - EXTINÇÃO. Em embargos à execução em que se alega a prática de juros abusivos, demonstrada a verossimilhança da alegação feita pelo devedor e comprovada a prática de usura, deve a execução ser extinta.
+Argumenta a parte recorrente, em síntese, que, reconhecida a prática de agiotagem, deveriam ser declaradas nulas apenas as estipulações usurárias, prosseguindo a execução quanto ao valor correspondente ao empréstimo pessoal celebrado entre as pessoas físicas.
+Sem razão, contudo. A Corte de origem entendeu que nota promissória representativa da dívida perdeu a liquidez e certeza, diante da constatação da prática da agiotagem, consignando "não há, nos autos, dados seguros e suficientes para se apurar com fidelidade o valor efetivamente devido e o valor dos juros cobrados de forma exorbitante e ilegal". Assim, impossível o prosseguimento da execução.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Necessário ressaltar que a Corte de origem determinou que a dívida poderia ser reclamada em processo de conhecimento, estando resguardada, expressamente, a cobrança dos valores que correspondem ao empréstimo pessoal (fl. 374 e-STJ), ainda que pelas vias ordinárias.
+Saliento, ainda, que o julgado paradigma apresentado pelo recorrente não trata de execução, nem mesmo explicita a ausência de elementos suficientes à apuração da dívida, excluídos os juros usurários. Assim, o dissídio jurisprudencial não se revela configurado, dada a dessemelhança dos casos confrontados.
+Em face do exposto, nego provimento ao recurso especial. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
