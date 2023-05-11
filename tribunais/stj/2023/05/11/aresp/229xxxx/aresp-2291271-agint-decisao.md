@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto em face da decisão de fls. 719/721, e-STJ, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, por conta do óbice da Súmula 182/STJ.
+Diante da análise das razões do recurso, verifico que, de fato, foram impugnados todos os fundamentos de inadmissibilidade do recurso especial, razão pela qual reconsidero a decisão recorrida e passo à análise do agravo.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 630, e-STJ):
+APELAÇÃO SEGURO DE VIDA E ACIDENTES PESSOAIS INVALIDEZ PERMANENTE POR DOENÇA Sentença de improcedência Insurgência do autor Descabimento Perícia judicial médica conclusiva no sentido de que o segurado não possui invalidez permanente total para o exercício de suas funções laborais INDENIZAÇÃO INDEVIDA A concessão da aposentadoria por invalidez permanente pelo INSS não é prova absoluta Precedentes do C. STJ Ausência de cobertura de risco em contrato REINSERÇÃO EM PLANO DE SEGURO DE VIDA INDIVIDUAL Impossibilidade Exclusão decorrente da falta de pagamento das parcelas mensais pelo segurado Ausência de provas do efetivo pagamento das parcelas Sentença mantida RECURSO IMPROVIDO, com observação.
+Opostos embargos de declaração, foram rejeitados (fls. 643-650).
+Nas razões do especial, aponta o agravante violação dos artigos 10, 435, 436 e 437, § 1º, do Código de Processo Civil.
+Argumenta, em síntese, que a juntada de documento novo não teria sido sucedida da abertura de prazo para parte adversa, para impugnação, evidenciando o erro procedimental, a justificar o reconhecimento da nulidade.
+Contra-arrazoado (fls. 665-675, e-STJ), o recurso especial não foi admitido (fls. 678-680, e-STJ), contra o que se manifesta o agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem rechaçou o reconhecimento da suposta nulidade, por considerar que o documento novo teria sido juntado pela própria parte que procedeu à juntada do documento novo.
+Assim, seja pela falta de interesse do recorrente de alegar nulidade em favor da parte recorrida, seja pela impossibilidade de reconhecer eventual nulidade de algibeira, concluiu a Corte Local que a nulidade não poderia ser reconhecida.
+A propósito, extraio do acórdão que julgou os embargos de declaração (fl. 649, e-STJ):
+Outrossim, é certo que houve menção, no Acórdão, acerca dos documentos apresentados pelo embargante após a interposição do recurso de apelação (cópias do Acórdão prolatado pela 8ª Turma do Tribunal Regional Federal da 3ª região por ocasião do julgamento do recurso de apelação nº 0010722-55.2015.4.03.6303 e no qual foi concedida a aposentadoria do autor por invalidez permanente).
+Entretanto, tal situação não configura cerceamento de defesa à apelada, já que o instituto processual se destina à salvaguarda dos direitos da parte contrária, de modo a evitar a ocorrência de prejuízos em seu desfavor, ao passo que a manutenção integral da sentença, com a improcedência dos pedidos autorais traduz nítido benefício aos interesses da ré, inexistindo o suposto cerceamento de defesa alegado pelo embargante.
+Em verdade, inconformada com o quanto decidido, busca a parte embargante a modificação do julgado, intento que se mostra inadmissível nesta sede. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe que a nulidade só poderia ser reconhecida a partir de requerimento formulado pela parte prejudicada. Além disso, ficou consignado que a postura do recorrente, ao suscitar a nulidade aludida, seria compatível com a denominada nulidade de algibera.
+A despeito disso, o recorrente não impugnou os fundamentos aludidos, cada um deles suficientes para manter a conclusão adotada no acórdão recorrido; atraindo a aplicação do óbice das Súmulas 283 e 284/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
