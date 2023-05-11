@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5004288-93.2022.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SIMONE FERREIRA DA SILVA
+RECORRIDO: BANCO BRADESCO FINANCIAMENTOS S.A.
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C PEDIDO DE TUTELA DE URGÊNCIA. FALHA NO SERVIÇO. CONTRATO ILEGÍTIMO. COBRANÇAS INDEVIDAS. NARRA A AUTORA QUE É SEGURADA PERANTE A PREVIDÊNCIA SOCIAL E AO BUSCAR INFORMAÇÕES SOBRE SEU BENEFÍCIO DESCOBRIU QUE ESTAVA RECEBENDO DESCONTOS REFERENTE A UM CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO SOB O Nº 2017037992800061800. TRATANDO O REFERIDO CONTRATO DE COBRANÇA REALIZADA EM 06.07.2017 COM DESCONTO MENSAL DE R$52,29, QUE LHE CAUSOU GRANDE ABALO EMOCIONAL PELOS TRANSTORNOS E PRÁTICAS ABUSIVAS. RAZÃO QUE ENTROU EM JUÍZO PARA BUSCAR A DECLARAÇÃO DE NULIDADE DO CONTRATO, RESTITUIÇÃO EM DANOS MATERIAIS, EM DOBRO, NO VALOR DE R$6.065,64 E DANOS MORAIS NO VALOR DE R$10.000,00. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE A DEMANDA TÃO SOMENTE PARA DECLARAR A NULIDADE DO CONTRATO, SEM ARBITRAMENTOS NO SENTIDO DE DETERMINAR A REPARAÇÃO MATERIAL OU MORAL PLEITEADAS. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA DE FORMA A JULGAR PROCEDENTE OS PEDIDOS DE DANOS MORAIS E MATERIAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE DEMANDA CONSUMERISTA NA QUAL CABE À AUTORA PROVAR OS FATOS CONSTITUTIVOS DE SEU DIREITO. NO CASO EM ANÁLISE A AUTORA SE LIMITOU A COMPROVAR A EXISTÊNCIA DOS DESCONTOS, VISTO QUE NÃO PODERIA GERAR PROVA DE INEXISTÊNCIA DE CONTRATO, OCORRE, QUE QUANTO AO PEDIDO DE REPARAÇÃO POR DANOS MATERIAIS ESTE NÃO MERECEM PROSPERAR, PELA FALTA DE PROVA DOS PAGAMENTOS E DESCONTOS ALEGADOS, O QUE IMPEDE A RESTITUIÇÃO DOS VALORES E QUANTO AO DANO MORAL, NÃO É VISÍVEL COMO O FATO SUPERA O MERO DISSABOR.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE R$300,00 (TREZENTOS REAIS)
+NA FORMA DO ART. 85, §8º, DO CPC/15.FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
