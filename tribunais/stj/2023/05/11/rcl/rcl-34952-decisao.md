@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de reclamação ajuizada por CLAUBENIL SEBASTIAO BOTELHO DE PAIVA e OUTROS, na qual colocam sob mira decisão administrativa da pasta ministerial do planejamento que teria alegadamente desrespeitado acórdão do Superior Tribunal de Justiça.
+A argumentação dos reclamantes radica na tese de que autoridade administrativa, oriunda do Ministério do Planejamento, teria deixado de cumprir os comandos contidos no Mandado de Segurança Coletivo 7.386/DF, julgado originariamente pelo Superior Tribunal de Justiça, razão pela qual seria necessário intervenção do Poder Judiciário por meio de reclamação.
+Também apontam que a "egrégia 3ª Secção  do STJ  concedeu, preteritamente, "igualdade de tratamento entre os servidores públicos federais e os servidores públicos dos extintos territórios federais" (MS 4377)" (fl. 9).
+Em síntese, é o relatório.
+Observo que o MS 7.386/DF foi julgado em 2001 pela Terceira Seção do Superior Tribunal de Justiça consoante cópia apresentada às fls. 56/65.
+Nessa oportunidade, o órgão entendeu que da impetração não poderia conhecer, uma vez que a parte já havia alcançado o bem da vida em anterior demanda. Por isso aduziu que o remédio - cabível à época - seria a reclamação.
+Porém, em segundos embargos de declaração, foi dado provimento ao recurso integrativo, emprestando-se a ele excepcionais efeitos infringentes para ser concedida a ordem mandamental (fl. 74).
+Na reclamação em curso, os autos voltam-se contra decisão administrativa que, em essência, teria desrespeitado a solução dada do MS 7.386/DF, e que adotou a seguinte diretriz:
+ ..  depreende-se da leitura do acórdão que a decisão judicial possui efeito inter partes, restrito, portanto, àquele que participaram do respectivo litígio. Desse modo, restou prejudicada a análise do pagamento das vantagens concedidas aos policiais federais, com amparo no Mandado de Segurança Coletivo 7.386/DF (fl. 22).
+Por essa razão, a autoridade indeferiu o pedido das partes para que pudessem auferir a Gratificação de Operações Especiais, porque o julgado do mandado de segurança não lhes alcançava e porque a remuneração dos agentes se daria por subsídio, vedando-se a percepção de qualquer outra parcela remuneratória.
+Suscito preliminar concernente aos requisitos de procedibilidade da ação.
+Não desconheço que há julgado do Superior Tribunal de Justiça que aponta para a tese de que "é possível a utilização da via da reclamação para se aferir o desrespeito, ou não, de acórdão do Superior Tribunal de Justiça por parte de autoridade administrativa" (Rcl 28.431/DF, relator Ministro Humberto Martins, Primeira Seção, DJe de 17/8/2016).
+Esse julgado faz referência a uma reclamação apreciada pelo Supremo Tribunal Federal, na qual se fixou a tese de que é "incabível reclamação constitucional quando ausente "ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar (art. 103-A, § 3º, CF/88)" (AgR na Rcl 15.527/DF, relator Ministro Dias Toffoli, Primeira Turma, julgado em 4/11/2014, DJe-229 de 21/11/2014).
+O que se decidiu na Reclamação 15.527/DF do Supremo Tribunal Federal não se aplica à Reclamação 28.431/DF do Superior Tribunal de Justiça, pois o STJ não emite súmula com efeito vinculante e, por isso, não há neste Tribunal previsão de reclamação contra ato administrativo com fundamento na Constituição Federal.
+A reclamação a que o julgado da Corte Suprema faz alusão está atrelada a situações em que a administração pública tenha contrariado súmula vinculante, consoante se percebe do texto constitucional e das leis posteriores que se ajustaram à regra magna:
+Constituição Federal de 1988
+Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+Lei 9.784/1999
+Art. 64-B. Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal.
+Lei 11.417/2006 (Lei da Súmula Vinculante)
+Art. 7º Da decisão judicial ou do ato administrativo que contrariar enunciado de súmula vinculante, negar-lhe vigência ou aplicá-lo indevidamente caberá reclamação ao Supremo Tribunal Federal, sem prejuízo dos recursos ou outros meios admissíveis de impugnação.
+§ 1º Contra omissão ou ato da administração pública, o uso da reclamação só será admitido após esgotamento das vias administrativas.
+§ 2º Ao julgar procedente a reclamação, o Supremo Tribunal Federal anulará o ato administrativo ou cassará a decisão judicial impugnada, determinando que outra seja proferida com ou sem aplicação da súmula, conforme o caso.
+A reclamação fundada no art. 988 do CPC, por sua vez, tem outra finalidade:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+Confiram-se, a respeito, os seguintes julgados:
+PROCESSUAL CIVIL. RECLAMAÇÃO CONTRA ATO ADMINISTRATIVO. ART. 988 DO CPC E 28 DA LEI 9.868/1999. DIPOSITIVOS DE LEI FEDERAL INSERVÍVEIS PARA A FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF.
+1. Não se considera fundamentado o recurso especial em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum objurgado (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+2. "De acordo com o art. 103-A, caput e § 3º, da Constituição Federal, a reclamação somente é cabível contra ato administrativo que contrariar súmula vinculante ou aplicá-la indevidamente" (Rcl 46645 AgR, Rel. Ministro DIAS TOFFOLI, Primeira Turma, DJe 20/10/2021), o que não é o caso dos autos.
+3. Agravo interno não provido (AgInt no REsp 2.000.452/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/10/2022, DJe de 3/11/2022).
+ ..  o manuseio da reclamação com a finalidade de ver respeitado entendimento surgido sob a sistemática da repercussão geral pressupõe a existência de processo judicial e o esgotamento das instâncias ordinárias, ausente previsão a respaldar a utilização contra ato administrativo. (Rcl 45.375 AgR, Rel. p/ Acórdão Marco Aurélio, Primeira Turma, DJe 19/07/2021).
+Agravo regimental na reclamação. Alegação de afronta à autoridade do STF em ADPF. Cabimento da reclamação constitucional contra ato administrativo. Hipótese restrita a contrariedade de Súmula Vinculante. Inteligência do art. 103-A, § 3º, da CF/88. Sucedâneo de meios próprios de impugnação. Impossibilidade. Agravo regimental não provido.
+1. De acordo com o art. 103-A, caput e § 3º, da Constituição Federal, a reclamação somente é cabível contra ato administrativo que contrariar súmula vinculante ou aplicá-la indevidamente.
+2. A reclamação não é o remédio jurídico adequado à análise de suposta desconformidade de ato administrativo com a decisão paradigma da ADPF nº 709.
+3. Não se admite o uso da reclamatória como sucedâneo de recursos ou de outros meios próprios de impugnação do ato reclamado.
+4. Agravo regimental não provido (Rcl 46.645 AgR, r elator Ministro Dias Toffoli, Primeira Turma, julgado em 15/09/2021, DJe 19/10/2021).
+Portanto, a reclamação judicial contra ato administrativo deve estar atrelada às hipóteses em que houver contrariedade à súmula vinculante, o que não é o caso dos autos.
+Muito embora o acórdão do MS 7.386/DF até tenha dito que seria cabível a reclamação contra eventual descumprimento de decisão judicial, essa assertiva deu-se no ano de 2001, antes, portanto, da alteração constitucional proveniente da chamada Reforma do Judiciário (EC 45/2004), justo a modificação que trouxe a figura da súmula vinculante, com a possibilidade de manejo de reclamação contra ato administrativo somente quando se estiver diante de contrariedade à súmula.
+Pelo exposto, por se tratar de reclamação contra ato administrativo fora da hipótese do art. 103-A, § 3º, da Constituição Federal, não conheço da reclamação. Considero prejudicadas as postulações incidentais.
+Publique-se. Intimem-se.
