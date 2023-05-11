@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto contra o acórdão exarado no HC n. 0620339-83.2023.8.06.0000, e m que se req uer a revogação da prisão preventiva, perdeu o seu objeto diante da superveniente alteração fático-processual de Jonyefferson Pereira de Matos.
+De acordo com a s informações obtidas na página eletrônica do Tribunal de Justiça do Ceará, nos autos da Ação Penal n. 0204508-88.2022.8.06.0293, da 3ª Vara Criminal da comarca de Juazeiro do Norte/CE, sobreveio a prolação de sentença em 5/5/2023. Na oportunidade, foi julgada procedente a pretensão punitiva estatal para condenar o ora recorrente como incurso na sanção do art. 155 do Código Penal, às penas de 1 ano, 10 meses e 15 dias de reclusão, em regime inicial fechado, mais pagamento de 111 dias-multa. Ainda, foi negado ao réu o direito de recorrer em liberdade, tendo o Magistrado de origem agregado novo fundamento ao decreto prisional, diferente dos constantes das fls. 59/60 destes autos.
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação - tendo sido acentuado o requisito da garantia da ordem pública e emergida a ponderação de que o réu é reincidente em crime de natureza patrimonial, o que, concretamente, demonstra a periculosidade do acusado -, cujo requisito específico desafia impugnação própria no Tribunal de origem.
+Nesse sentido , os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Assim, perdeu o objeto o presente recurso; julgo-o, consequentemente, prejudicado (art. 34, XI, do RISTJ ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE N EGADO. NO VO TÍTULO JUDICIAL. ACRÉSCIMO DE FUNDAMENTO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Recurso prejudicado.
