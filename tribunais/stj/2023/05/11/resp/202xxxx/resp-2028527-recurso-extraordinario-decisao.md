@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 773-790) interposto por CRISTIANO DE FREITAS SILVA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 726):
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO AO TRÁFICO. ART. 105, INCISO III, ALÍNEA "C", DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. ABSOLVIÇÃO. SÚMULA 7 DO STJ. DOSIMETRIA. QUANTIDADE E QUALIDADE. AUMENTO DA PENA-BASE EM  . PROPORCIONALIDADE. AGRAVO NÃO PROVIDO.
+1. O recurso especial interposto com fulcro no art. 105, inciso III, alínea "c", da Constituição da República exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o acórdão recorrido e o eventual paradigma (art. 255, § 2º, do RISTJ), o que não ocorreu na espécie.
+2. É pacífico o entendimento desta Corte de que não se pode confundir julgamento desfavorável à parte com negativa ou ausência de prestação jurisdicional (AgRg no REsp n. 1.836.959/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 23/10/2019; AgInt nos EDcl no REsp n. 1.451.163/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 24/4/2020; e AgRg no REsp n. 1.585.104/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 23/4/2018).
+3. No tocante ao delito de associação para o tráfico, verifica-se do acórdão impugnado que a decisão condenatória está amparada em farto material probatório, colhido durante a instrução criminal, sob o crivo do contraditório e da ampla defesa, que demonstra o ânimo associativo, de caráter duradouro e estável, entre o agravante e outro indivíduo não identificado. Dessa forma, a pretensão de absolvição pelo delito de associação para o tráfico, pela alegação de falta de comprovação da estabilidade e permanência, demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em recurso especial (Súmula 7/STJ).
+4. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+5. A pena-base foi exasperada na fração de 1/2 com fundamento na quantidade e na qualidade dos entorpecentes apreendidos - 452,74 kg de "skunk"; 1,085 kg de cocaína; 1,025 kg de crack e mais de 6 kg de maconha -, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+6. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 754-768).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 93, IX, da CF.
+Nesse sentido, argumenta que, a despeito da oposição dos embargos de declaração, as teses que suscitou não teriam sido devidamente apreciadas pelo colegiado.
+Acrescenta que o aresto impugnado careceria de fundamentação idônea, porquanto teria repetido os argumentos da decisão que julgou o recurso .
+Ressalta (fls. 785-786):
+ ..  o que se buscou no reclamo especial quanto ao crime de associação para fins de tráfico foi a demonstração de que fundamentação empregada para justificar sua condenação (que se contentou com a mera alegação da prática do crime de tráfico em conjunto com terceira pessoa, sem qualquer demonstração do dolo específico do tipo ou das suas elementares) não seria acolhida por outros Tribunais pátrios, razão pela qual, deveria ser declarada a nulidade do v. acórdão recorrido diante da divergência jurisprudencial (cuja consequência óbvia seria a decretação da absolvição do ora recorrente quanto a tal crime).
+ ..
+Da mesma forma, quanto a negativa de vigência ao artigo 59 do Código Penal, fez-se questão de demonstrar, no agravo regimental interposto, que houve claro exagero na fixação da basal imposta ao ora recorrente quanto ao crime de tráfico de drogas.
+Neste aspecto, fez-se questão de demonstrar que tendo sido valorada negativamente apenas duas circunstâncias judiciais, desproporcional o aumento da pena-base (que, conforme julgados do próprio Superior Tribunal de Justiça, deveria ser aumentada em 2/8).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 794-798.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais o colegiado negou provimento ao agravo regimental, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 729-735):
+O agravo não merece prosperar.
+Inicialmente, convém reiterar que quanto à interposição do recurso especial pela alínea "c", tem-se que, nos termos do disposto no art. 1.029, § 1º, do CPC e no art. 255, § 1º, do RISTJ, caberia ao agravante a realização do devido cotejo analítico para demonstrar a similitude fática entre os julgados confrontados, mediante a transcrição dos "trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados".
+Como mencionado, este requisito não foi cumprido na hipótese dos autos.
+Da leitura do recurso especial, verifica-se que a Defesa colacionou julgado do Tribunal Regional Federal da 1ª Região, no qual se reconheceu a ausência das elementares do tipo previsto no art. 35 da Lei n. 11.343/06, ponderando que o mesmo ocorreu no caso em comento.
+Salientou que "para a caracterização do delito tipificado no artigo 35 da Lei de Drogas deve ser comprovado nos autos, de forma cabal, todas as elementares do crime de associação para fins de tráfico às condutas supostamente praticados pelo réu".
+Afirmou que o dissenso jurisprudencial se limita à necessidade de demonstração "de prova da estabilidade e permanência, de caráter duradouro, para a prática do delito de tráfico de drogas, para o fim de se prolatar uma condenação pelo delito tipificado no artigo 35 da Lei Federal nº 11.343/2006."
+Ora, com a devida vênia, verifica-se que a Defesa apenas indicou um julgado em que não foi reconhecida a presença de provas seguras da estabilidade e da permanência para a condenação pelo crime de associação ao tráfico.
+Trata-se somente de um caso de insuficiência probatória, não de interpretação divergente de legislação federal em comparação com a hipótese em apreciação.
+As provas delineadas na presente ação penal são diversas e, conforme se extrai do acórdão atacado, demonstraram a existência de elementos necessários à condenação pelo crime de associação ao tráfico.
+Ademais, não é possível concluir pela aventada nulidade do acórdão, da forma pretendida pela Defesa, sem a análise das provas registradas pela Corte de origem.
+Assim, não procede a alegação da Defesa de que não pretendia debate sobre as provas para absolvição pela associação ao tráfico.
+Aliás, nota-se que a Defesa mencionou, claramente, que o Tribunal a quo não indicou provas quanto ao dolo específico do agente e às elementares do tipo.
+Mesmo não conhecido o recurso com base no artigo 105, inciso III, alínea "c", da Constituição da República, por vício grave de fundamentação, esta afirmação apresentada pela Defesa justificou a apreciação dos elementos probatórios citados pelas instâncias anteriores, para verificar a possibilidade de revaloração destes, providência que não encontra óbice na Súmula 7 deste STJ.
+Entretanto, como mencionado na decisão atacada, a condenação por este fato foi devidamente fundamentada, sendo que a conclusão em sentido contrário exigiria reexame do contexto fático-probatório.
+ ..
+Em complemento, no ponto, cabe ressaltar que é pacífico o entendimento desta Corte de que não se pode confundir julgamento desfavorável à parte com negativa ou ausência de prestação jurisdicional (AgRg no REsp n. 1.836.959/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 23/10/2019; AgInt nos EDcl no REsp n. 1.451.163/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 24/4/2020; e AgRg no REsp n. 1.585.104/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 23/4/2018).
+Seguindo, depreende-se do agravo regimental que a Defesa pretende a correção da pena fixada para o crime de tráfico.
+Entretanto, nota-se que o agravante somente repetiu os fundamentos apresentados no recurso especial e não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 758-768):
+Inicialmente, cumpre ressaltar que os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+ ..
+No caso dos autos, à toda evidência, não se vislumbra omissão, conforme apontado pela Defesa.
+Ao contrário, o que se percebe, nitidamente, é a pretensão da parte em rediscutir matéria já julgada por esta instância extraordinária, a fim de fazer valer a sua tese recursal.
+Nota-se que a Defesa se limitou a repetir os termos do agravo regimental, sustentando, de forma genérica, a existência de omissão.
+ ..
+Nesse contexto, considerando que foram apresentados os fundamentos necessários à solução das questões, bem como que o acórdão embargado foi proferido em consonância com a jurisprudência deste Superior Tribunal de Justiça, forçoso reconhecer a inexistência de vício a ser integrado em sede de aclaratórios.
+Outrossim, é importante destacar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016). Com efeito, não há necessidade de resposta a cada afirmação específica.
+Por fim, cabe salientar que não se vislumbrou, no acórdão proferido pelo Tribunal de origem, hipótese de flagrante ilegalidade que justificasse a concessão de habeas corpus, de ofício, como pleiteou a Defesa, também de forma genérica.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
