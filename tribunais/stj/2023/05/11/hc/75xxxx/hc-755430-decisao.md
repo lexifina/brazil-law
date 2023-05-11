@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSEBIAS SIMPLÍCIO DA SILVA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas nos autos do Agravo em execução n. 0500013-42.2022.8.02.0000.
+Depreende-se dos autos que o paciente encontra-se cumprindo pena de 30 anos de reclusão, em razão da prática dos crimes previstos no art. 157, § 2º, I, II e V, c/c art. 71 (roubo majorado pelo emprego de arma, pelo concurso de agentes e pela restrição à liberdade da vítima, em continuidade delitiva), no art. 288,caput (quadrilha ou bando),e no art. 157, § 3º, parte final (roubo qualificado pelo resultado morte), todos do Código Penal.
+Pleiteada a progressão ao regime semiaberto, pelo implemento do requisito objetivo, o d. Juízo das execuções indeferiu o pleito do paciente (fls. 58-62).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso, nos termos do v. acórdão de fls. 88-95, nos termos da seguinte ementa:
+"AGRAVO EM EXECUÇÃO. PRETENSA REFORMA DA DECISÃO QUE NEGOU O PLEITO DE PROGRESSÃO DE REGIME. ALEGAÇÃO DE PREENCHIMENTOS DOS REQUISITOS NECESSÁRIOS PARA A OBTENÇÃO DO BENEFÍCIO. NÃO ACOLHIMENTO. CRITÉRIO SUBJETIVO NÃO IMPLEMENTADO. PRESENÇA DE FUNDAMENTOS VÁLIDOS PARA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE VIOLAÇÃO AO ENUNCIADO DA SÚMULA VINCULANTE Nº 26 DO STF. AVALIAÇÕES PSIQUIÁTRICA E PSICOLÓGICA DESFAVORÁVEIS À CONCESSÃO IMEDIATA DA PROGRESSÃO. NECESSIDADE DE SOLIDIFICAÇÃO DO PROCESSO RESSOCIALIZADOR. CONCLUSÃO PERICIAL APTA A JUSTIFICAR A MANUTENÇÃO DO AGRAVANTE NO MEIO FECHADO. PRECEDENTES DO STJ E DESTA CÂMARA CRIMINAL. RECURSO CONHECIDO E NÃO PROVIDO."
+Nas razões do presente writ, a defesa sustenta, em síntese, que o paciente está submetido a constrangimento ilegal, ao argumento "Foi realizado cálculo judicial de pena e foi constatado que o paciente já cumpriu o requisito objetivo para progredir para o regime semiaberto desde o dia 22/5/2019" (fl. 3).
+Aduz que o paciente "preenche o requisito subjetivo, inclusive ostenta bom comportamento carcerário e não há registro nos autos de prática de indisciplina ou fuga durante o cumprimento da pena no regime fechado" (fl. 4).
+Alega que "as conclusões da decisão questionada, que foi balizada unicamente no laudo psicológico e psiquiátrico do exame criminológico, o fato é que a perícia psicológica e psiqu iátrica foi desvirtuada e não encontra ressonância em nenhum teste objetivo e nem tampouco nos demais elementos dos autos" (fl. 5).
+Sustenta que o laudo psicológico destoa das orientações contidas na Resolução n. 12/2011, do Conselho Federal de psicologia que regulamentou a elaboração de laudos psicológicos para instruir exame criminológico, porquanto não poderia ter emitido juízo de valor a respeito da gravidade abstrata do criem, assim como da periculosidade, reincidência, nexo causal e prognóstico de possibilidade de voltar a delinquir.
+Assere que o profissional que confeccionou o laudo deveria, somente "ter investigado a "maturidade do condenado, sua disciplina, capacidade de suportar frustrações e estabelecer laços afetivos com a família ou terceiros, grau de agressividade, visando à composição de um conjunto de fatores, destinados a construir um prognóstico de periculosidade, isto é, sua tendência a voltar à vida criminosa" (cf. NUCCI, Guilherme de Souza. Manual de Processo Penal e Execução Penal, 13ª ed., Editora Forense. Rio de Janeiro: 2016, p. 593), o que não foi feito em seus laudos circundados de subjetividade." (fl. 7).
+Requer, ao final, inclusive liminarmente, a concessão da ordem para que seja deferida a progressão de regime ao paciente.
+O pleito liminar foi indeferido fls. 98-99.
+Informações acostadas às fls. 106-111.
+O Ministério Público Federal, à fl. 119, manifestou-se pelo não conhecimento do writ, em parecer sem ementa.
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Com efeito, em consulta ao site do Tribunal de origem, constata-se que em 7/11/2022, o d. Juízo da Vara das Execuções. em nova análise, concedeu a progressão ao regime semiaberto ao ora paciente, a demonstrar a perda superveniente do objeto do presente mandamus.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+P. e I.
