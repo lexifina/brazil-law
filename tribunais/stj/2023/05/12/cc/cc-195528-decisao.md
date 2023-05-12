@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo de Direito da Vara Judicial de Arroio do Tigre/RS e suscitado o Juízo Federal da 5ª Vara de Novo Hamburgo/SJ-RS.
+A Polícia Civil do Estado do Rio Grande do Sul instaurou inquérito para apuração da prática, em tese, de documento falso para propositura de ações previdenciárias perante a justiça estadual, investida de jurisdição federal.
+O juízo suscitado declinou da competência por entender que "os delitos remanescentes - uso de documento ideologicamente falso perante autoridade estadual (art. 304 c/c art. 209, ambos do Código Penal); contravenção penal, em tese, de exercício ilegal de profissão (art. 47 do Decreto-Lei nº 3.688/41); e o crime, em tese, de violação de direito autoral (art. 184 do Código Penal) - são de competência da Justiça Estadual, uma vez que ausente lesão a bens, serviços ou interesses da União" (e-STJ fl. 276).
+O juízo suscitante, por sua vez, recusou a competência, ao fundamento de que o documento falso foi utilizado perante a justiça estadual quando do exercício da jurisdição federal.
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 6002-604).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para julgamento de processo em que se investiga o uso de documento falso perante a justiça estadual, investida de jurisdição federal, foi estabelecida entre o Juízo de Direito da Vara Judicial de Arroio do Tigre/RS, suscitante, e o Juízo Federal da 5ª Vara de Novo Hamburgo/SJ-RS, suscitado.
+O parecer ofertado pelo Ministério Público Federal nesta Corte converge a o entendimento jurisprudencial consolidado pela Terceira Seção do STJ. De fato, ao julgar o CC 161.117/SP (Rel. Ministro Reynaldo Soares da Fonseca, julgado em 12/12/2018, DJe de 18/12/2018), a Terceira Seção concluiu pela competência da Justiça Federal.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. AÇÃO PENAL. APROPRIAÇÃO POR ADVOGADAS DE VALORES DEVIDOS A CLIENTE EM AÇÃO PREVIDENCIÁRIA. USO DE DOCUMENTO FALSO NA JURISDIÇÃO ESTADUAL INVESTIDA DA JURISDIÇÃO FEDERAL (ART. 109, § 3º, CF). HIPÓTESE DE CONEXÃO OBJETIVA COM DELITOS DE APROPRIAÇÃO INDÉBITA E FALSIDADE IDEOLÓGICA. ART. 76, II, DO CP. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 122/STJ.
+1. A jurisprudência desta Corte vem entendendo que o critério a ser utilizado para a definição da competência para julgamento do delito de uso de documento falso "define-se em razão da entidade, ou do órgão ao qual foi apresentado, porquanto são estes quem efetivamente sofrem os prejuízos em seus bens ou serviços" (STJ, CC 99.105/RS, Rei. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe de 27/02/2009).
+2. A apresentação de recibo de quitação forjado perante a Justiça Estadual investida da jurisdição federal (art. 109, § 3º, CF) constituiria uso de documento falso perante autoridade federal, atraindo, por consequência, a competência da Justiça Federal para o julgamento da ação penal. Precedentes: CC 141.661/SP e CC 142.804/SP, Rel. para o acórdão Min. NEFI CORDEIRO, julgados em 28/10/2015, maioria, publicados no DJe de 30/11/2015; CC 144.850/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 17/06/2016; e CC 144.862/SP, por mim relatado, TERCEIRA SEÇÃO, julgado em 27/04/2016, DJe 04/05/2016.
+3. Uma vez que a apresentação do falso teve por finalidade encobrir delitos prévios de apropriação indébita e de falsidade ideológica, tem-se hipótese de conexão objetiva (art. 76, II, do CP), devendo todos os fatos serem reunidos e julgados no foro federal, nos termos da Súmula 122 desta Corte.
+4. Conflito conhecido, para declarar a competência do Juízo Federal da 5ª Vara de Presidente Prudente - SJ/SP, o suscitado.
+Evidenciada a similitude entre as condutas deste conflito e do precedente da Terceira Seção, deve prevalecer o entendimento do colegiado.
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo Federal da 5ª Vara de Novo Hamburgo/SJ-RS , suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
