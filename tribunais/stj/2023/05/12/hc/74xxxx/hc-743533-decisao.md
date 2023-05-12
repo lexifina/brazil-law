@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ CARLOS DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo em Execução n. 0343669-27.2022.8.13.0000).
+Depreende-se dos autos que o paciente teve reconhecida pelo Juízo das execuções a prescrição executória da pena privativa de liberdade e de multa oriunda dos autos n. 0076789-30.2014.8.13.0481.
+Interposto agravo em execução ministerial na origem, o Tribunal a quo deu provimento ao recurso, nos moldes da seguinte ementa (e-STJ fl. 81):
+AGRAVO EM EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. RECONHECIMENTO DE PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. IMPOSSIBILIDADE. PRÁTICA DE NOVOS DELITOS. REINCIDÊNCIA. CAUSA INTERRUPTIVA DA PRESCRIÇÃO. RECURSO PROVIDO.-A reincidência como causa de interrupção da prescrição da pretensão executória é contada a partir da prática do novo delito, e não do trânsito em julgado de eventual sentença condenatória.
+Daí o presente writ, no qual alega a defesa fazer jus o paciente ao reconhecimento da prescrição executória da pena, conforme reconhecido pelo Juízo das execuções.
+Requer, liminarmente, sejam suspensos os efeitos do acórdão impugnado e, no mérito, "seja restabelecida a decisão proferida pelo Juízo a quo, que declarou extinta a punibilidade do sentenciado, da pena privativa de liberdade e de multa oriunda dos autos nº 0076789-30.2014.8.13.0481, pela ocorrência da prescrição executória" (e-STJ fl. 9).
+Indeferido o pedido de liminar (e-STJ fls. 91/94) e prestadas as informações solicitadas (e-STJ fls. 98/122), o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 124/128).
+É, em síntese, o relatório.
+Decido.
+O Tribunal de origem decidiu que o paciente "cometeu novos delitos no curso do prazo prescricional, em 31.12.2019, e uma vez verificada a reincidência, interrompe-se o prazo prescricional, conforme dispõe o art. 117, inciso IV, do Código Penal  .. " (e-STJ fl. 84).
+O acórdão recorrido ajusta-se à orientação firmada no Superior Tribunal de Justiça, de que a prática do novo crime impede o reconhecimento da prescrição da pretensão executória, ficando a interrupção, contudo, condicionada ao trânsito em julgado da condenação. Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REINCIDÊNCIA. INTERRUPÇÃO NA DATA DA PRÁTICA DO NOVO CRIME. RECONHECIMENTO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. NECESSIDADE. AÇÃO PENAL AINDA EM CURSO QUANDO AO NOVO DELITO. ANÁLISE DA PRESCRIÇÃO EXECUTÓRIA QUANTO AO CRIME ANTERIOR. INVIABILIDADE. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, em havendo a prática de novo crime, a interrupção da prescrição da pretensão executória ocorre na data em em que é cometido, e não quando do trânsito em julgado da condenação.
+2. O fato de que a interrupção da prescrição ocorre na data da prática do novo crime, não autoriza a se ter como interrompido o prazo prescricional com a mera notícia da prática delitiva ou mesmo a propositura de ação penal, mas é necessário haver condenação definitiva, sob pena de ofensa ao princípio da presunção de inocência.
+3. Enquanto está em curso a ação penal em que se apura a prática do novo delito cuja condenação importará na caracterização da reincidência, mostra-se inviável discutir a ocorrência de prescrição da pretensão executória em relação a condenação anterior, quando a consumação do lapso prescricional depender da superveniência ou não de condenação definitiva pelo novo ilícito.
+4. Por ser vedada a prolação de decisão condicional, nos termos do art. 492, parágrafo único, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, somente quando houver o desfecho final da ação penal referente ao novo ilícito, é que se poderá analisar a prescrição da pretensão executória quando aos crimes anteriores.
+5. Deve ser mantido o acórdão que cassou a decisão que declarara a prescrição da pretensão executória na pend ncia de ação penal referente a novo ilícito, tendo em vista a possibilidade de a condenação definitiva vir a obstar a consumação do prazo prescricional, por força de sua interrupção na data do novo fato criminoso em apuração.
+6. Recurso especial desprovido.
+(REsp n. 1.956.133/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+Ante o exposto, denego o presente habeas corpus .
+Publique-se. Intimem-se.
