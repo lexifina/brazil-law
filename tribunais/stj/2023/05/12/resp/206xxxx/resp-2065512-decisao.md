@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com base na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 221):
+ACIDENTEDOTRABALHOOPERADORDEPRODUÇÃO MALES COLUNARES - JULGAMENTO CONVERTIDO EM DILIGÊNCIA PARA A REALIZAÇÃO DE NOVA PERÍCIA - LAUDO PERICIAL PRODUZIDO NESTA INSTÂNCIA CONCLUSIVO INCAPACIDADE PARCIAL E PERMANENTE COMPROVADA NEXO CAUSAL DEMONSTRADO - AUXÍLIO-ACIDENTE - BENEFÍCIO DEVIDO MAIS ADEQUADO. Reexame necessário e recurso autárquico parcialmente providos.
+Os embargos de declaração foram rejeitados (fls. 263-267).
+No recurso especial, a autarquia sustenta violação dos artigos 296, 297, parágrafo único, 300, § 3º, 302, incisos I e II, e 520, incisos I e II, 948 e 949 do atual Código de Processo Civil (antigos artigos 273, § 2º, 3º, 4º, 475-O, I e II, 480, 481,811, incisos I e II), artigo 3º da Lei de Introdução ao Código Civil, artigo 115, inciso II e § 1º da lei 8.213/91, art. 154 do Decreto 3.048/99 e artigos 876, 884 e 885 do Código Civil, aduzindo que no caso das tutelas antecipadas a lei processual impõe a reversibilidade do provimento antecipado como pré-requisito à sua concessão, a fim de evitar a antecipação de tutela inconsequente .
+Salienta que o acórdão deve ser reformado na parte em que afasta a possibilidade de o INSS ser ressarcido dos valores pagos indevidamente por força de tutela antecipada.
+Ao final, pugna pela aplicação do Tema Repetitivo n. 692 do STJ.
+Em juízo de retratação, o Tribunal a quo manteve o acórdão, nos seguintes termos (fl.280):
+ACIDENTEDOTRABALHOREEXAMEDAMATÉRIA COM FULCRO NO ART. 1030, II, DO NOVOCPC RESTITUIÇÃO DE VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA BOA-FÉDA PARTE AUTORA E CARÁTER ALIMENTAR DAVERBA IRREPETIBILIDADE POSICIONAMENTODO STF - PREVALÊNCIA DO ACÓRDÃO COMOPROFERIDO - DECISÃO MANTIDA.
+Sem contrarrazões, o recurso foi admitido na origem (fls. 289-290 ).
+É, no essencial, o relatório.
+Observo que, devolvidos os autos ao órgão julgador, na forma do artigo 1.040, II, do CPC/15, para eventual adequação ao Tema n. 692/STJ, o Tribunal de origem exerceu juízo de retratação negativo.
+A questão tratada no presente recurso consiste em saber se é devida, ou não, a devolução pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS, dos valores percebidos do INSS em virtude de decisão judicial de natureza precária, que venha a ser posteriormente revogada.
+Verifico que referida matéria foi submetida ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC/1973 (art. 1.036 do CPC/2015), no julgamento do Recurso Especial 1.401.560/MT (Tema n. 692).
+Ressalte-se que o referido tema foi revisado por esta Corte em razão de questão de ordem suscitada na Pet n. 12.482, apresentada nos autos do Recurso Especial repetitivo n. 1.401.560/MT, cuja tese está assim redigida:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+Assim, forçoso concluir que o caso em tela se amolda ao precedente firmado, devendo ser reformada a decisão recorrida para que o Tema n. 692/STJ seja aplicado. Destarte, os valores pagos ao segurado, a título de tutela antecipada, posteriormente revogada, devem ser repetidos, na parte que extrapolou o valor devido por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
