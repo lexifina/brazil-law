@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. Contratos bancários. Ação de obrigação de fazer. Sentença de procedência. Inconformismo do banco réu. Contrato bancário de financiamento da folha de pagamento. Pretensão da empresa autora no sentido de compelir a instituição financeira ré a disponibilizar o crédito contratado. Impossibilidade. Artigo 7º, "caput", da Lei nº 14.043/20 que ressalvou às instituições financeiras o livre exercício de sua política de crédito. Processamento do pagamento da folha condicionado à existência de saldo disponível para pagamento da totalidade da folha, verificado um dia antes do efetivo pagamento. Hipótese dos autos em que a conta corrente da autora apresentava saldo negativo, cuja recomposição apenas foi efetivada no dia previsto para pagamento da folha Obrigação, portanto, inexigível. Sentença reformada, com inversão do ônus sucumbencial. Recurso provido.
+Alegou-se, no especial, violação dos artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil e 113, 421 e 422 do Código Civil sob o argumento de que o acórdão local é omisso e que houve violação do princípio da boa-fé.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Colhe-se dos autos, quanto ao mais, que a recorrente travou contrato de financiamento de sua folha de pagamento com o agravado, mas que, no dia agendado para o crédito, o recorrido não teria disponibilizado o valor financiado.
+O Tribunal local, no exame da questão, assim se posicionou:
+"No caso, o contrato firmado entre as partes prevê que o crédito contratado, no valor de R$ 22.330,88 (vinte e dois mil trezentos e trinta reais e oitenta e oito centavos), seria repassado pelo banco apelante diretamente às contas de titularidade dos empregados da apelada (cláusula 1.1.1), de acordo com o planejamento de pagamento juntado a fls. 32/33.
+No entanto, era de conhecimento da apelada que o processamento do pagamento da totalidade da folha estava condicionado ao cumprimento de diversos requisitos contratuais, tais como aqueles elencados na contestação (fl. 85/86): estar em dia ou com atraso no Santander de até 30 dias e ter análise de crédito aprovada junto ao Santander.
+A ficha de resumo da contratação disponibilizada à apelada (fl. 24) é clara ao dispor que a efetivação do financiamento dependeria de prévia aprovação do banco apelante, comum dia de antecedência à data prevista para pagamento da folha, que apenas seria emitida caso inexistente saldo devedor na conta corrente da apelada.
+Ademais, consoante se infere do extrato bancário juntado aos autos a conta de titularidade da apelada estava com saldo negativo desde a sua abertura (em 22/05/2020), não se afigurando abusiva a conduta do banco réu de condicionar o processamento e pagamento da folha à recomposição do saldo devedor com antecedência de um dia" (e-STJ, fls. 199/200).
+A questão foi, como se vê, decidida a partir dos elementos informativos do processo, concluindo-se que o recorrente foi quem não observou as disposições contratuais, deixando de atender às obrigações contratadas para fins de liberação do numerário pretendido.
+Inequívoco, portanto, que o reexame da causa esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
