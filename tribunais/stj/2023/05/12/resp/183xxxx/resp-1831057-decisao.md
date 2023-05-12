@@ -1,0 +1,2 @@
+DECISÃO
+Considerando a relevância da questão e necessidade de sua apreciação pelo colegiado, torno sem efeito a decisão monocrática proferida às fls. 1.206/1.212 (e-STJ). Por conseguinte, DOU PROVIMENTO AO AGRAVO (e-STJ fls. 1.158/1.174) para sua CONVERSÃO em recurso especial, o qual será julgado na pauta presencial da Quarta Turma do dia 6 de junho de 2023, de forma a facultar aos defensores a realização de sustentação oral.
