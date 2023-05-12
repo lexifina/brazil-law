@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por NOEMIA DIAS DE SOUZA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 292):
+APELAÇÃO - Servidora pública aposentada - Incompetência absoluta em razão do valor da causa afastada - SAAE de Limeira - Reconhecia a perda salarial em decorrência à conversão de vencimento em URV, na forma da Lei Federal nº 8.880/94 em ação autônoma - Acordo que não incluiu proventos de aposentadoria e não foi firmado com o Instituto de Previdência Municipal de Limeira/IPLM - Quitação integral pactuada em acordo- Nova pretensão, pela mesma natureza, em face do IPLM inviável - Decisão reformada - Recurso voluntário e reexame providos.
+Rejeitados os embargos de declaração opostos (fls. 305-308).
+No recurso especial, alega, preliminarmente, ofensa ao art. 489, § 1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, a recorrente aduz que o acórdão contrariou as disposições contidas nos arts. 2º, caput, §§ 2º e 4º, da Lei n. 12.153/2009; 64, §§ 1º e 2º e 292, caput, §§ 2º e 3º, do CPC; e 843 e 844 do Código Civil.
+Suscita, em síntese, incompetência da Vara da Fazenda Pública para julgamento da demanda, sob o argumento de que se trata de competência absoluta do Juizado Especial da Fazenda Pública, que, no Município de Limeira/SP, por não possuir Vara do Juizado Especial, é exercida pela Vara da Fazenda, que acumula dupla função. Contudo, em grau de recurso, a competência seria do Colégio Recursal de Limeira/SP.
+No mais, assevera que o acordo que subsidiou o acórdão recorrido não aproveita à recorrente, uma vez que esta nele não interviu, bem como não lhe poderia prejudicar ante a disposição legal civilista.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 452-453), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 470-472).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, não há que falar em violação do art. 489 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, abordou, de forma suficiente e clara, a questão do recálculo dos proventos de aposentadoria com as diferenças pela conversão em URV. In verbis (fl. 294):
+A autora, ora apelada, obteve decisão favorável para pagamento de diferenças salariais relativas a conversão dos vencimentos em URVs, no período no qual se encontrava em atividade, decisão transitada em julgado.
+Formulou então, em 2015, com o seu empregador - SAAE de Limeira , acordo (fls. 93/94), por meio do qual as referidas diferenças seriam pagas parceladamente, implicando o pagamento em quitação integral. Ao que consta tal acordo foi cumprido ou, se não o foi, deveria merecer execução em relação ao SAAE de Limeira, que se obrigou a pagar.
+Nestes autos, a autora, que se aposentou em 2013 (fls. 19) e recebe proventos pagos pelo INSTITUTO DE PREVIDENCIA MUNICIPAL DE LIMEIRA -IPML, quer acrescer aos seus proventos 13%, por conta das mesmas diferenças devidas pela conversão em URVs.
+O acórdão que determinou o pagamento das referidas diferenças estabeleceu a necessidade de apurar quais seriam tais diferenças e o montante eventualmente devido. A autora e seu empregador formalizaram acordo quanto ao valor de tais diferenças e a autora deu quitação com o pagamento, logo, não pode agora exigir do INSTITUTO DE PREVIDENCIA MUNICIPAL DE LIMEIRA - IPML que incorpore em seus proventos verba que não constava no título judicial e para a qual ela deu quitação.
+Não se trata aqui de apurar diferenças em perícia contábil mas sim reconhecer que formulado o acordo nada mais existe a postular a título de conversão pela URV, como pretendido.
+Em tese, possível admitir que os proventos não correspondam aos vencimentos integrais, porém, neste caso, eventual débito não seria pela incorreta conversão em URs, porque quanto àquelas diferenças houve acordo e quitação.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ressalte-se, ainda, que, conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+No mérito, maior sorte não assiste à recorrente.
+No que tange à primeira controvérsia, observa-se que rever o entendimento a que chegou o Tribunal de origem sobre a incerteza do proveito econômico e, portanto, a fixação do valor da causa por estimativa, o que definiu a competência da Vara da Fazenda Pública para julgamento da demanda, impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPUGNAÇÃO AO VALOR DA CAUSA. OFENSA AO ARTIGO 535 DO CPC/73. FUNDAMENTAÇÃO DEFICIENTE. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS CONTRA O ACÓRDÃO LOCAL. INCIDÊNCIA DA SÚMULA 284/STF. VALOR DA CAUSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A recorrente não opôs os competentes embargos declaratórios perante o Tribunal de origem. Logo, revela-se deficiente a fundamentação do recurso que indica violação ao art. 535 do CPC/73, o que atrai a incidência da Súmula 284/STF.
+2. A jurisprudência desta Corte Superior é firme no sentido de que o valor da causa deve corresponder, em princípio, ao do seu conteúdo econômico, considerado como tal o valor do benefício econômico que o autor pretende obter com a demanda. Contudo, admite-se a fixação do valor da causa por estimativa, quando constatada a incerteza do proveito econômico perseguido na demanda.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.367.247/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/9/2016, DJe de 6/10/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido julgou no mesmo sentido da jurisprudência desta Corte Superior, no tocante à possibilidade de fixação do valor da causa por estimativa, quando não for possível determinar o proveito econômico pretendido na demanda. Incide no ponto a Súmula 83 do STJ.
+2. Alterar a conclusão do acórdão recorrido, em relação ao valor atribuído à causa, demandaria reexame do conjunto fático - probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(STJ, AgInt no AREsp 1.012.696/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 05/05/2017).
+Quanto à segunda controvérsia, o Tribunal de origem concluiu que, em razão do acordo firmado, nada mais há para requerer a título de conversão pela URV. Nessa senda, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a este Tribunal, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a extensão do acordo firmado entre as partes, bem como de que não houve descumprimento do mesmo. Incidência das Súmulas 5 e 7/STJ.
+2. A indenização por danos morais e estéticos fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não autoriza sua modificação em sede de recurso especial, cabível sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.357.215/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe de 3/6/2019.)
+RECURSO ESPECIAL. EXECUÇÃO. VERBAS SUCUMBENCIAIS. ACORDO. AUSÊNCIA DE ABRANGÊNCIA DOS HONORÁRIOS ASSENTADA PELO TRIBUNAL DE ORIGEM. ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A convicção a que chegou o Tribunal de origem, de que o acordo firmado entre as partes não abrangeu a verba honorária devida em outro processo, decorreu da análise do conjunto fático-probatório e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 341.525/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe de 5/5/2015.)
+No mais, fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
