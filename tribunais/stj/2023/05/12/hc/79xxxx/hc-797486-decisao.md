@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que negou provimento à apelação.
+Consta dos autos que o paciente foi condenado como incurso no art. 33 da Lei 11.343/2006.
+No presente writ, sustenta a defesa a ausência de provas suficientes para condenação.
+Alega ser cabível a desclassificação para a infração de porte de drogas para consumo próprio, porquanto não comprovada a mercancia ilícita, bem como apreendida 11,1 gramas de maconha, tendo o próprio Ministério Público pugnado pela desclassificação.
+Requer, liminarmente e no mérito, a concessão da ordem para declarar a absolvição ou desclassificar a conduta para porte de drogas para consumo próprio.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Quanto à condenação, o Tribunal de Justiça assim fund amentou a questão:
+Ao examinar a substância apreendida, o perito criminal atestou o resultado positivo para "Cannabis Sativa", com peso líquido de 11,1g, acondicionados em 02 invólucros. Além da droga, foram apreendidos R$25,00 e dois papeis contendo anotações.
+O apelante negou a prática do tráfico ao ser interrogado em juízo, aduzindo que, depois de sair do fórum, adquiriu duas porções de "maconha" que eram destinadas ao uso próprio, sendo surpreendido por policiais na respectiva posse.
+Indagado sobre os papéis apreendidos, contendo anotações de nomes e valores, relatou que se referia à venda de rocamboles e não à contabilização do tráfico. Segundo o interrogando, os papéis existentes consigo não eram aqueles que se encontram nos autos.
+O policial militar João Pedro Macedo de Souza declarou a abordagem do apelante e o encontro, em poder dele, de duas porções de "maconha", cada uma em um bolso, R$25,00, e papéis contendo anotações que aparentavam ser de caráter contábil. Segundo o recorrente, aquelas anotações referiam-se a vendas de doces. Os escritos referiam-se a valores, números de "cadeias", de "pix" e contas bancárias. O apelante havia deixado o estabelecimento prisional havia três dias.
+Wiran André Oliveira Morgato igualmente mencionou a apreensão de duas porções de maconha, dinheiro e papéis na posse do recorrente, recordando-se que nestes havia a inscrição de números de cela, nomes e valores.
+Destarte, estão perfeitamente demonstradas a materialidade e a autoria do crime de tráfico de drogas, não havendo que falar na desclassificação do fato para o previsto no artigo 28 da Lei nº 11.343/2006, como pretende a douta defesa.
+Não convence a alegação do recorrente, no sentido de que os papéis apresentados pelos militares à autoridade policial não correspondiam àqueles existentes em seu poder.
+Deve-se salientar, desde logo, nada haver nos autos que faça desconfiar das palavras dos policiais ouvidos sob o dever de dizerem a verdade sobre o fato e de observância dos deveres inerentes aos seus cargos, plenamente cientes das consequências gravosas que as respectivas violações implicariam. Sequer o próprio apelante arguiu eventuais motivos capazes de ensejar a falsa atribuição de tão grave conduta criminosa pelos agentes públicos que realizaram sua prisão em flagrante.
+ ..
+Em que pese a quantidade da droga apreendida não seja das mais elevadas, se analisada no contexto do que ocorre na maior parte dos casos trazidos à apreciação do Poder Judiciário deste Estado de São Paulo, não é esse o único vetor a ser considerado na classificação da conduta criminosa. Analisada essa circunstância na conjuntura das demais especificidades do fato, extrai-se a certeza sobre a destinação do entorpecente apreendido à entrega onerosa ao consumo de terceiros.
+Os parâmetros contidos no artigo 28, §2º, da Lei nº 11.343/2006, afastam a tese de desclassificação da conduta para porte de entorpecente para uso próprio.
+ ..
+A defesa não trouxe aos autos qualquer prova no sentido da dedicação de Diego à intensa comercialização informal de produtos lícitos - doces - segundo ele.
+Os papéis apreendidos foram objeto de laudo pericial (fls. 111/115) e da leitura dos termos deles constantes verifica-se a correspondências de prenomes, epítetos masculinos (inclusive "quebrada", números de cela, quantidades, valores, datas de venda e de pagamento, identificação de "pix" e de numeração de contas denotam o caráter de contabilidade rudimentar relacionada ao tráfico de drogas, não à comercialização informal de doces caseiros, como pretendeu fazer crer o recorrente.
+A inocorrência de constatação pericial da coincidência necessária de padrões caligráficos relativos aos referidos escritos com aqueles emanados do punho do réu não tem a importância arguida pela douta defesa. O relevante é o flagrante do recorrente na posse tanto das drogas quanto desses papéis e de dinheiro.
+Caracterizou-se o crime previsto no artigo 33, caput, da Lei nº 11.343/2006, que independe da visualização de ato de efetiva comercialização de droga para consumar-se, bastando a comprovação de destinar-se a esta finalidade, tal como ocorrido nestes autos.
+A alegada condição de usuário de entorpecentes, afirmada pelo recorrente, não afasta, por si só, sua condenação pelo tráfico nos casos em que o contexto probatório é suficiente para revelar a destinação ao comércio criminoso da droga apreendida em poder dele.
+No caso, o Tribunal local manteve a condenação do réu, pelo crime de tráfico de drogas, por concluir que, não obstante a quantidade não relevante de drogas, foram apreendidos "papéis contendo anotações que aparentavam ser de caráter contábil ".
+Com efeito, se as instâncias de origem, soberanas na apreciação dos elementos fáticos-probatórios, concluíram pela configuração do delito em questão, não há como rever na via eleita tal conclusão, para fins de absolvição ou desclassificação, por implicar aprofundado reexame de provas, inviável no âmbito do habeas corpus.
+Cabe ressaltar, por fim, que, "nos termos do art. 385 do Código de Processo Penal, nos crimes de ação pública, o juiz poderá proferir sentença condenatória, ainda que o Ministério Público tenha opinado pela absolvição. O artigo 385 do Código de Processo Penal foi recepcionado pela Constituição Federal" (AgRg no REsp 1612551/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017).
+Desse modo, não há ilegalidade na prolat ação de sentença condenatória, ainda que o Ministério Público tenha manifestado pela desclassificação, consoante art. 385 do CPP.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
