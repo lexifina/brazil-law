@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por GUILHERME MEUCCI SOARES, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoa nte se extrai dos autos, o agravante foi condenado à pena de 6 (seis) anos de reclusão, como incurso no art. 121, caput, do Código Penal, em regime inicial semiaberto (fl. 776-778).
+Em segunda instância, o eg. Tribunal a quo negou provimento ao recurso de apelação criminal da Defesa, para manter a sentença condenatória recorrida, por seus próprios fundamentos (fls. 833-845).
+No recurso especial, interposto pelo ora agravante com fulcro no art. 105, inc. III, alínea a, da Constituição Federal, o insurgente alegou afronta ao art. 483, § 4º, do Código de Processo Penal.
+Para tanto, menciona que "Os quesitos constantes de folha 897 dos autos indagam aos jurados, no primeiro, sobre materialidade, autoria e nexo causal; o segundo, sobre o reco- nhecimento do dolo eventual, sem qualquer quesito explicito sobre a tese de- fensiva, relativamente ao reconhecimento da ocorrência de homicídio culposo, apenas questionando, no terceiro, se os jurados absolveriam o réu, porque se trata de quesito obrigatório, já que tese absolutória, como dito, não foi apresentada ao Conselho de Sentença." (fl. 851).
+Por fim, a Defesa requer o provimento do recurso, "decretando a nulidade do julgamento do recorrente pelo TRIBUNAL DO JÚRI, determinando que o recorrente seja submetido a novo julgamento; no qual os quesitos deverão ser formulados respeitando-se a ordem estabelecida por ci- tado dispositivo processual, por medida de lídima e insofismável JUSTIÇA!" (fl. 853).
+Apresentadas as contrarrazões (fls. 855-859), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, uma vez que para se chegar à solução contrária ao que foi proferido pelo Tribunal a quo demandaria o necessário revolvimento fático-probatório, bem como pela incidência da Súmula n. 283/STF (fls. 862-863).
+Nas razões do agravo, postula-se o processamento do recurso especial, sob a alegação de que a matéria trazida à baila não requer o revolvimento de provas e fatos (fls. 1870).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 895-898).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme se verifica dos autos, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmulas 7/STJ.
+A defesa nas razões de fls. 609-615, em uma breve explanação, em síntese, quanto à incidência da Súmula 7/STJ alegou que "a matéria acima elencada não requer o revolvimento de provas e"fatos, ao contrário do que fundamenta o r, despacho agravado" (fl. 870).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que efetivamente não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Desse modo, a ausência de impugnação adequada dos fundamentos aplicados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
