@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi condenado a 2 anos de reclusão, no regime semiaberto, e 5 dias-multa, nos termos do art. 157, caput, c/c o art. 14, II, do Código Penal.
+Aduz a impetrante, em suma, que o "paciente é primário e não ostenta maus antecedentes. A pena foi fixada em 2 anos, sendo plenamente cabível a fixação do regime aberto, com fundamento no art. 33, § 2º, c, do CP" (fl. 6), pugnando, liminarmente e no mérito, pela concessão da ordem nesse sentido.
+Inexistindo divergência da matéria no órgão colegiado, admissível o exame do writ pelo relator, in limine, nos termos do art. 34, XVIII e XX, do RISTJ.
+Acerca do regime prisional, assim se manifestou o TJSP (fl. 70):
+ ..  O MM. Juiz houve por bem em fixar o regime prisional semiaberto, considerando a quantidade de pena imposta e a primariedade do acusado, em seu benefício, parecendo mesmo inapropriada a fixação do regime prisional aberto, considerando que o crime foi praticado mediante violência física contra a vítima idosa, a revelar maior culpabilidade na conduta e personalidade desajustada, voltada ao ganho patrimonial em desrespeito à integridade física e psicológica do cidadão de bem. ..
+Da dinâmica dos fatos, extrai-se do aresto impugnado (fl. 68):
+ ..  Consta da denúncia que no dia 26 de junho de 2022, por volta das 16,00 horas, na Rua Waldemar de Paula Ferreira n. 344, cidade de Guarulhos, WILLIAM ALENCAR DA SILVA tentou subtrair para si, mediante grave ameaça e violência exercida contra a vítima Antônio Batista Santos, a quantia em dinheiro existente no caixa do estabelecimento comercial, somente não consumando o delito por circunstâncias alheias à sua vontade.
+Segundo o apurado, o acusado ingressou no comércio da vítima e anunciou o assalto, exigindo a entrega do dinheiro existente no caixa, contudo, ela resistiu e entrou em luta corporal com o acusado, momento em que os filhos do ofendido chegaram ao local e o auxiliaram na imobilização do réu, até a chegada dos policiais militares, que o prenderam em flagrante. ..
+Como visto, concluíram as instâncias ordinárias pelo estabelecimento do regime prisional mais gravoso (semiaberto), diante da gravidade da conduta praticada pelo réu, ora paciente - violência física contra vítima idosa -, não havendo falar-se em ilegalidade, consoante a jurisprudência desta Corte.
+" É  possível o estabelecimento de regime inicial mais gravoso do que o indicado pelo quantum da reprimenda (o semiaberto para condenação inferior a 4 anos de reclusão), quando se verifica a gravidade concreta do delito - na hipótese, a intensa violência praticada contra a vítima -, a revelar a maior reprovabilidade da conduta (AgRg no AgRg no AREsp n. 1.816.265/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/6/2021, DJe de 21/6/2021)" (AgRg nos EDcl no AREsp n. 2.199.814/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
