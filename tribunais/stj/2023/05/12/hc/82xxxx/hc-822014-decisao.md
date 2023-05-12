@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Valquiria da Silva Brito, atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.23.050842-6/000 (fls. 169/177), que manteve a conversão de prisão em flagrante da paciente - ocorrida, em 11/3/2023, pela prática, em tese, dos crimes de tráfico de drogas (20,95 kg de maconha, 1.388,26 g de cocaína e 3.024,51 g de crack, fls. 66, 70, 74, 78, 82 e 86/88) e posse irregular de arma de fogo com numeração suprimida - em preventiva, nos Autos n. 5000823-59.2023.8.1 3.0319 (fls. 149/154), da 2ª Vara da comarca de Itabirito/MG.
+Alega-se constrangimento ilegal no decreto preventivo consistente em ausência de dolo - aos argumentos de que a paciente nem sequer sabia que, no imóvel, havia os ilícitos. E mais, incontroverso que o local não é nem mesmo sua morada (fl. 4), além de se tratar de incursão domiciliar calcada em informação ANÔNIMA que a denunciada estava na posse das drogas para fins de comércio (fl. 4) - e deficiência de fundamentação.
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que a paciente seja posta em liberdade.
+É o relatório.
+Inicialmente, não se conhece da alegação de ausência de dolo, pois não foi analisada no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Outrossim, a despeito da alegação mandamental, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois o decreto de prisão cautelar logrou demonstrar o receio de perigo gerado pelo estado de liberdade, ressaltando a gravidade concreta do delito - tendo em vista a grande quantidade de droga e os materiais para preparação para venda dos entorpecentes com ela apreendida (fl. 153) -, apresentando, assim, fundamento apto a consubstanciar a prisão para a garantia da ordem pública.
+A propósito:
+ ..
+3. Na espécie, a custódia cautelar do recorrente está fundamentada, em primeiro lugar, na real gravidade da conduta imputada a ele, decorrente do fato de ter sido preso em flagrante tendo em depósito, junto aos demais corréus, "além do considerável arsenal bélico (25 munições de arma de fogo de calibre .32, 73 munições calibre .380, 10 munições de calibre .38 e um colete balístico),  ..  exorbitante quantidade de dr ogas, a ver:  1,408kg (um quilo, quatrocentos e oito gramas)  de cocaína; 502g (quinhentos e dois gramas) de cocaína; 49,0g (quarenta e nove gramas) de crack; 32g (trinta e dois gramas) de crack;  3,386kg (três quilos, trezentos e oitenta e seis gramas)  de maconha; 995g (novecentos e noventa e cinco gramas) de maconha". Tal motivação é capaz de justificar a imposição do cárcere para garantia da ordem pública, ante a expressiva quantidade de substâncias entorpecentes apreendidas
+ ..
+(RHC n. 134.151/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/10/2020)
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (20,95 KG DE MACONHA, 1.388,26 G DE COCAÍNA E 3.024,51 G DE CRACK) E POSSE IRREGULAR DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE DOLO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. RECEIO DE PERIGO GERADO PELO ESTADO DE LIBERDADE À ORDEM PÚBLICA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES APREENDIDOS E OUTROS PETRECHOS. FUNDAMENTO IDÔNEO. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
