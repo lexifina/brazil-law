@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula 7 do STJ e a conformidade do acórdão recorrido com o entendimento do STJ.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WALLISSON SCALIONI SALLES contra a decisão de fls. 6.115-6.118, por meio da qual o agravo em recurso especial deixou de ser conhecido.
+Consta dos autos que o agravante foi condenado como incurso nas penas dos artigos 4º, parágrafo único, da Lei n. 7.492/86, c/c 29 e 70, todas do Código Penal, às penas de 04 (quatro) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 60 (sessenta) dias-multa, o que foi mantido pelo Tribunal de origem, no entanto, de ofício, corrigiu o valor do dia-multa para o mínimo legal (fls. 5.629-5.661).
+Interposto recurso especial, alegou-se as seguintes violações: i) ao artigo 59 do Código Penal, ao argumento de que a fração adotada para incrementar a pena-base base foi desproporcional e ii) ao 28-A do Código de Processo Penal, buscando seja determinado o sobrestamento do feito, até que o Plenário do Supremo Tribunal Federal decida acerca do Acordo de Não Persecução Penal - ANPP.
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido, pois a Defesa não impugnou especificamente os fundamentos da decisão de inadmissão do apelo nobre, à saber: o óbice da Súmula 7 do STJ e a conformidade do acórdão recorrido com o entendimento do STJ.
+No regimental (fls. 6.130-6.145), sustenta a Defesa que no agravo em recurso especial impugnou especificamente os argumentos da decisão que inadmitiu o apelo, de forma a viabilizar a análise meritória do recurso especial.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para inadmitir o recurso especial com relação à incidência da Súmula 7 do STJ e a conformidade do acórdão recorrido com o entendimento do STJ.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados parte dos fundamentos empregados pela eg. Corte de origem para inadmitir o recurso.
+Em relação à inadmissão quanto à aplicação da Súmula 7/STJ, a defesa limitou-se a aduzir que "decisão denegatória de seguimento de recurso especial merece reforma, porquanto o Tribunal Regional Federal se recursou expressamente a analisar os requisitos de admissibilidade do apelo , razão pela qual o presente agravo merece o devido provimento" (fl. 5.962).
+Com efeito, como ressaltado na decisão agravada, quanto à da Súmula 7/STJ, deveria a parte agravante demonstrar a desnecessidade da análise incidência o conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016). No mesmo sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Ainda, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+Entretanto, a Defesa, em uma breve explanação, apenas limitou-se a dizer quanto à aplicação da conformidade com o entendimento do STJ, que "O recurso especial teve também o seguimento negado sob argumento de que "o acórdão está em conformidade com o entendimento do STJ no sentido de que não se trata de um direito subjetivo do réu, de forma que pode o Ministério Público optar por não realizar a oferta a depender da situação" Todavia tal entendimento não deve e nem pode prosperar !!" (fls. 5.971-5.972). A parte, ainda, repisou os argumentos do recurso especial.
+Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Com efeito, "Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial. 2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
