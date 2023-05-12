@@ -1,0 +1,94 @@
+DECISÃO
+Madarco S/A Indústria e Comércio e outros opõem embargos de declaração contra a decisão de fls. 2.037/2.043, na qual neguei provimento ao agravo em recurso especial, nos seguintes termos:
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 489, § 1º, III e IV, e 1.022 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 1.862/1.865):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. AÇÃO DE BUSCA E APREENSÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE CÂMBIO. REVISÃO. CLÁUSULAS ABUSIVAS. SENTENÇA REFORMADA EM PARTE. HONORÁRIOS. AÇÃO REVISIONAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA: Desacolhe-se o recurso quanto ao cerceamento de defesa, porquanto se trata de mera aferição de cláusulas alegadas como abusivas e em confronto com a legislação e jurisprudência pertinente ao tema. Prefacial desacolhida.
+DECISÃO CITRA PETITA: Ainda que parte das questões trazidas em embargos de declaração não tenham sido apreciadas, não seria caso de desconstituição da decisão que apreciou os embargos de declaração, quando o art. 1.013, § 3º, III, do CPC, prevê que o tribunal deve decidir desde logo o mérito se o processo estiver em condições de julgamento imediato, como o caso dos autos. Preliminar rejeitada. CÓDIGO DE DEFESA DO CONSUMIDOR: Às pessoas físicas, aplica-se o Código de Defesa do Consumidor aos negócios jurídicos firmados entre os agentes econômicos, as instituições financeiras e os usuários de seus produtos e serviços (Enunciado nº. 297 da Súmula do STJ). Às pessoas jurídicas, em que pese as restrições doutrinárias e jurisprudenciais, perfeitamente possível a revisão das cláusulas contratuais que se demonstrarem abusivas segundo a legislação aplicável e o entendimento desta Câmara e do STJ.
+PRESUNÇAO DE VERACIDADE: Para o descumprimento da ordem de exibição a sanção processual prevista é a presunção de veracidade dos fatos que a parte pretendia provar por meio do documento, nos termos do art. 400, IV, do CPC. Não sendo juntado ao processo a totalidade dos contratos firmados entre as partes, admite-se como verdadeiros os fatos alegados.
+TAXA CAMBIAL: Contrato de Câmbio é o instrumento através do qual se formalizam as transações em moedas estrangeiras, sendo da própria essência desta espécie obrigacional que a conversão se verifique conforme a taxa cambial em vigor, na data do efetivo pagamento.
+A cobrança do deságio, equivalente a juros remuneratórios, pelo valor do adiantamento cambial por si só, não caracteriza abusividade do contrato.
+Todavia, no caso dos autos, resta verificada a abusividade do deságio, o que impõe a sua limitação conforme requerido.
+JUROS REMUNERATÓRIOS: Nos contratos de empréstimos para capital de giro e aqueles que adotam taxa de juros remuneratórios são mantidas as taxas contratadas, pois não demonstrada a abusividade.
+CAPITALIZAÇÃO: Possível a capitalização mensal dos juros, a partir da vigência da Medida Provisória nº 1.963-17/00, reeditada pela Medida Provisória nº 2.170-36/01. Pactuação expressa da capitalização dos juros nos contratos juntados. Capitalização mensal e diária vedada nos contratos não juntados aos autos. COMISSÃO DE PERMANÊNCIA: Permitida, quando contratada, desde que não cumulada com correção monetária e demais encargos montante moratórios e remuneratórios. O montante exigido como comissão de permanência não poderá ser superior à soma dos encargos moratórios e remuneratórios previstos na avença (REsp. nº. 1.058.114/RS).
+No caso, é afastada a comissão nos contratos que não foram juntados aos autos, diante da ausência de demonstrativo da expressa pactuação. Apelo parcialmente provido, no ponto.
+REPETIÇÃO DE VALORES: Na forma simples. Prescinde-se da prova do erro. Autorizada a compensação. Mantida a sentença que autorizou a repetição unicamente na comissão de permanência, caso houver.
+MORA: A descaracterização da mora somente poderá ocorrer se averbadas como abusivas ou ilegais as cláusulas da normalidade (juros remuneratórios e/ou capitalização), segundo orienta o REsp nº. 1.061.530/RS. Mora descaracterizada parcialmente.
+SUCUMBÊNCIA: Redistribuída, considerando o correto decaimento das partes. AÇÃO DE BUSCA E APREENSÃO
+MORA: A mera distribuição de ação de revisão contratual, não é capaz de elidir a mora e, tampouco, resultar na suspensão da ação de busca e apreensão. A mora somente é elidida quando demonstrada a abusividade na cobrança dos encargos da normalidade, o que não ocorreu nos contratos de empréstimos objeto da ação de busca e apreensão.
+ILEGALIDADE DO DECRETO LEI 911/69: A Ação de Busca e Apreensão fundada no Decreto-Lei nº 911/69 é autônoma e satisfativa, restringindo-se ao aspecto possessório, vez que objetiva a consolidação da posse plena do bem ao proprietário fiduciário.
+Nos casos em que, segundo disposição legal ou contratual, o inadimplemento de qualquer parcela ensejar o vencimento antecipado das demais, a purga da mora deve se dar por meio da quitação integral do débito, de acordo com o previsto no parágrafo 3º do art. 2º do Decreto-Lei nº 911/69. Ausência qualquer ilegalidade na medida, quando ausente purga da mora. Tampouco há que se falar em adimplemento substancial do débito. Apelo desprovido.
+SUCUMBÊNCIA: Mantida nos termos em que fixada na origem.
+SUCUMBÊNCIA RECURSAL: O art. 85, § 11º, do CPC estabelece que o Tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal.
+EMBARGOS À EXECUÇÃO
+ILIQUIDEZ DO TÍTULO: O ajuizamento de ação revisional apenas enseja o recálculo do valor do débito cobrado na ação de execução, com base nos possíveis encargos revisados em ação revisional, não havendo que se falar em nulidade do título executivo.
+DESCARACTERIZAÇÃO DA MORA: A sentença recorrida não revisou as cláusulas contratuais de normalidade no que se refere ao contrato objeto do feito executivo, o que afasta alegação de descaracterização da mora.
+SUCUMBÊNCIA: Mantida, diante do norte do julgamento.
+SUCUMBENCIA RECURSAL: O art. 85, § 11, do CPC estabelece que o Tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal.
+PREQUESTIONAMENTO: Não se negou vigência a qualquer dispositivo constitucional ou infraconstitucional.
+DERAM PARCIAL PROVIMENTO AO APELO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 1.921):
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL RECONHECIDO. OMISSÃO E CONTRADIÇÃO AFASTADAS.
+1. Erro material existente e corrigido. Embargos de declaração acolhidos nos pontos.
+2. Todavia, quanto ao mérito do recurso, resta ausente vinculação da fundamentação deduzida com as hipóteses do art. 1.022 do Código de Processo Civil, ou seja, obscuridade, omissão ou contradição existente na decisão embargada. lnocorrente o efeito integrativo. Interesse da parte em forçar novo reexame do decisum. Não se rediscute a decisão de mérito, notadamente quando lançada nos moldes exigidos pelo artigo 93, inc. IX, da Constituição Federal.
+3. A fundamentação do acórdão embargado, relativamente aos juros remuneratórios, capitalização de juros, mora e distribuição da sucumbência, é suficiente e deve ser mantida.
+ACOLHERAM PARCIALMENTE OS EMBARGOS DE DECLARAÇÃO PARA CORRIGIR ERRO MATERIAL.
+Sustentam os agravantes que, nos contratos de mútuo celebrados entre as partes, as taxas de juros remuneratórios excederam a taxa média de mercado da época em que firmados.
+Afirmam que o acórdão recorrido não analisou individualmente cada contrato celebrado, fazendo apenas uma análise genérica das taxas de juros dos contratos de empréstimos para capital de giro.
+Asseveram que "ao analisar individualmente os contratos, é perceptível que existem inúmeros pactos cujos juros são superiores à margem de 20% sobre a taxa média divulgada pelo Bacen" (fl. 1.944).
+Alegam que o acórdão recorrido "não enfrentou os argumentos deduzidos pelos recorrentes, limitando-se a analisar a questão de forma absolutamente genérica, incorrendo assim no inciso IV do § 1º do artigo 489 do CPC" (fl. 1.946).
+Assim posta a questão, passo a decidir.
+Com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento.
+No caso dos autos, a Corte local entendeu que as taxas de juros remuneratórios praticadas nos contratos de empréstimos para capital de giro são compatíveis com a taxa média de mercado estipulada pelo Banco Central do Brasil ao tempo da contratação, motivo pelo qual afastou a alegada abusividade, conforme se extrai dos seguintes trechos (fls. 1.883/1.887):
+(..)
+Os juros que discrepam excessivamente da média de mercado representam uma abusividade, ou uma onerosidade excessiva ao consumidor. E a redução dos juros à taxa média de mercado não representará prejuízo à instituição financeira, eis que irá assegurar que esta receba o valor que o mercado paga em operações idênticas, durante o período da contratação.
+Acrescento que a incidência do Código de Defesa do Consumidor (art. 51), a fim de reconhecer a onerosidade excessiva, requer demonstração analítica da parte interessada, cuja argumentação hipotética não resolve o tema. Sequer aceitável a assertiva de que se trata de contrato de adesão, o qual implica cooptação da vontade do aderente.
+De resto, não basta a simples circunstância de que os juros remuneratórios sejam acima de 12% ao ano para declaração de abusividade, em face do disposto na Súmula nº 382 do Superior Tribunal de Justiça:
+A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Consigno, também, que o uso da taxa SELIC, ou sua aplicação como referência à taxa de juros remuneratórios é descabida, porquanto não representa a taxa média praticada pelo mercado, na forma da reiterada jurisprudência do Superior Tribunal de Justiça.
+Da análise dos autos e disposição contratual, não se verifica a taxa de juros remuneratórios abusiva que demande a limitação como requer a parte autora.
+Como bem referido pelo julgador singular, as taxas de juros estipuladas contratualmente- contratos de empréstimos para capital de giro- ficaram entre 23,872% e 35% ao ano, quando a taxa média divulgada pelo BACEN ficou entre 25,73% e 33,16% ao ano. Ou seja, pela análise das disposições contratuais, não se verifica que houve contratação de taxa de juros em patamar superior a 20% sobre a média divulgada pelo BACEN ao tempo das contratações, o que impede a revisão nos termos em que requerido.
+Assim, o fato é que os juros não ultrapassaram em muito a taxa média estipulada pelo BACEN, o que conduz à manutenção dos contratos conforme ajustados, pela ausência de abusividade.
+Desta forma, para que houvesse a reforma das taxas de juros pactuadas, deveria a parte autora/apelante ter comprovado a sua discrepância em relação às taxas médias de mercado divulgadas pelo BACEN, o que não ocorreu.
+E para demonstrar, transcrevo a sentença na parte referente aos juros remuneratórios (fls. 1648-1649):
+"(..) Ao exame das planilhas divulgadas pelo BACEN verifica-se que a média dos juros de mercado, em empréstimos para pessoa jurídica, na modalidade de capital de giro, no período da contratação havida entre as partes, ou seja, entre novembro de 2005 a fevereiro de 2008, oscilou entre 25,73% a 33,16% enquanto os juros remuneratórios, nos contratos de empréstimo sob revisão, foram estipulados com taxa efetiva entre 23,872% a 35% ao ano. Os juros contratuais situam-se às vezes um pouco acima ou um pouco abaixo das taxas divulgadas pelo BACEN, o que significa taxa de juros contratual compatível com as oscilações da média dos juros de mercado.
+Senão vejamos:
+a) Contrato n. 93979872-2, firmado em 25-5-2007, a juros de 28,324% ao ano (fl. 1153), contra uma média de mercado de 24,25%, divulgada pelo BACEN na data da contratação.
+b) Contrato n. 94062575-1, firmado em 20-6-2007, a juros de 28,324% ao ano (fl. 1154), com uma taxa média de mercado de 23,52%, divulgada pelo BACEN na data da contratação.
+c) Contrato n. 94211213-1, firmado em 28-8-2007 (objeto da execução), a juros de 26,824% ao ano (fl. 1156), contra uma taxa média de mercado de 22,87% ao ano, divulgada pelo BACEN na data da contratação.
+d) Contrato n. 85.717371-6, firmado em 11-9-2007, a juros de 28,324% ao ano (fl. 1147), com uma taxa média de mercado de 22,80% ao ano, divulgada pelo BACEN na data da contratação.
+e) Contrato n. 85717383-0, firmado em 11-9-2007, a juros de 28,324% ao ano (fl. 1148), para uma média de mercado de 22,80% ao ano, divulgada pelo BACEN na data da contratação.
+f) Contrato n. 86835994-3, firmado em 19-12-2007, a juros de 32,456% ao ano (fl. 1149), quando a média dos juros de mercado era de 22,16% ao ano, divulgada pelo BACEN na data da contratação.
+g) Contrato n. 88835995-1, firmado em 19-12-2007, a juros de 32,456% ao ano (fl. 1150), com uma taxa média de mercado de 22,16% ao ano, divulgada pelo BACEN na data da contratação.
+h) Contrato n. 87325445-9, celebrado em 6-02-2008, a juros de 28,324% ao ano (fl. 1151), com uma taxa média de mercado de 23,38% ao ano, divulgada pelo BACEN na data da contratação.
+i) Contrato n. 87325446-7, firmado em 6-02-2008, a juros de 28,324% ao ano (fl. 1152) para uma taxa média de juros de mercado de 23,38% ao ano, divulgada pelo BACEN na data da contratação.
+j) Contrato n. 92.112596-8, firmado em 16-11-2005, a juros de 35% ao ano (fl. 947) para uma taxa média de mercado de 31,10% ao ano, divulgada pelo BACEN na data da contratação.
+l) Contrato n. 93.197987.6, firmado em 18-9-2006, a juros de 23,872% ao ano (fl. 965) para uma taxa média de juros de mercado de 26,71% ao ano, divulgada pelo BACEN na data da contratação.
+m) Contrato n. 93.389989.6, firmado em 08-11-2006, a juros de 26,080% ao ano (fl. 977) para uma taxa média de juros de mercado de 25,73% ao ano, divulgada pelo BACEN na data da contratação.
+n) Contrato n. 93.031943.1, firmado em 27-7-2006, a juros de 27,800 ao ano (fl. 995) para uma taxa média de juros de mercado de 26,78% ao ano, divulgada pelo BACEN na data da contratação.
+o) Contrato n. 92.781014.0, firmado em 09-5-2006, a juros de 26,526% ao ano (fl. 1015), para uma taxa média de juros de mercado de 33,16% ao ano, divulgada pelo BACEN na data da contratação.
+(..)
+O quadro comparativo demonstra, portanto, que as taxas de juros remuneratórios estipuladas nos contratos de empréstimo para capital de giro são compatíveis às taxas médias dos juros de mercado ao tempo da contratação, com pequenas oscilações, para baixo ou para cima, o que descaracteriza a onerosidade excessiva alegada.
+Assim, mantenho os juros conforme contratados em relação aos pactos aqui mencionados, nos contratos acima.
+(..) (destaques nossos)
+Dessa forma, tendo sido devidamente analisadas pela Corte de origem, de forma pormenorizada, as taxas de juros pactuadas nos diversos contratos de empréstimos para capital de giro, para fins de se apurar a eventual abusividade alegada, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15. A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.
+OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 e 1.022 DO CPC. NÃO VERIFICAÇÃO. RESCISÃO UNILATERAL DO CONTRATO. INDENIZAÇÃO. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+2. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.940.160/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6.3.2023, DJe de 9.3.2023)
+De todo modo, registro que rever a conclusão do Tribunal de origem, o qual afastou a alegação de abusividade dos contratos discutidos acima, demandaria o reexame do acervo contratual e fático dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Sustenta o embargante que o julgado estadual padeceu de omissão, uma vez que a Corte de origem não se manifestou acerca da abusividade das taxas de juros remuneratórios pactuadas, pois excederam as taxas médias de mercado da época em que contratadas.
+Assim posta a questão, passo a decidir.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teor do art. 1.022 do CPC/2015, adstrito à correção de omissão, obscuridade, contradição ou erro material.
+Verifico que não houve violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o julgado estadual não padeceu de omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento.
+No caso dos autos, a Corte de origem entendeu que as taxas de juros remuneratórios praticadas nos diversos contratos de empréstimos para capital de giro são compatíveis com a taxa média de mercado estipulada pelo Banco Central do Brasil ao tempo da contratação, motivo pelo qual afastou a alegada abusividade.
+Nesse contexto, reitero que rever a conclusão do Tribunal de origem, o qual afastou a alegação de abusividade dos contratos discutidos acima, demandaria o reexame do acervo contratual e fático dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
