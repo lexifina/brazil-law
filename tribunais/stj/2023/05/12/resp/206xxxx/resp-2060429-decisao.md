@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fls. 532/533):
+APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA DE LOTE. RESCISÃO DA AVENÇA. CULPA DO ADQUIRENTE. AUSÊNCIA DE DEMONSTRAÇÃO DA INCIDÊNCIA INDEVIDA DE JUROS REMUNERATÓRIOS. FALHA NO DEVER DE INFORMAR NÃO CARACTERIZADA. ELEMENTOS DO COMPROMISSO DE COMPRA E VENDA DE LOTE BEM DELINEADOS. AUSÊNCIA DE ABUSIVIDADE. MAJORAÇÃO DO PERCENTUAL DE RETENÇÃO PARA 20% DOS VALORES PAGOS PELO ADQUIRENTE. MONTANTE QUE É RAZOÁVEL PARA COMPENSAR OS PREJUÍZOS DECORRENTES DO DESFAZIMENTO DO NEGÓCIO. RESTITUIÇÃO DE VALORES EM PARCELA ÚNICA. INAPLICABILIDADE DA LEI Nº 13.786/2018. IRRETROATIVIDADE. TAXA DE FRUIÇÃO DEVIDA. FIXAÇÃO QUE INDEPENDE DE PEDIDO CONTRAPOSTO OU RECONVENÇÃO. PRESENÇA DE EDIFICAÇÃO NO LOTE QUE É PRESCINDÍVEL. PRECEDENTES. PERÍODO DE INCIDÊNCIA QUE DEVE CORRESPONDER AO INTERSTÍCIO ENTRE A TRANSMISSÃO DA POSSE DO LOTE E SUA EFETIVA DESOCUPAÇÃO. TAXA DE FRUIÇÃO BEM FIXADA, NÃO CABENDO A INCLUSÃO, EM SUA BASE DE CÁLCULO, DO VALOR DAS EDIFICAÇÕES ERIGIDAS PELO ADQUIRENTE. RECURSO DO AUTOR NÃO PROVIDO, RECURSO DA RÉ PARCIALMENTE PROVIDO.
+1. Não há fundamento para o reconhecimento de abusividade de juros remuneratórios cuja incidência sequer restou demonstrada nos autos.
+2. Não se cogita de falha no dever de informação que incumbe à vendedora, quando especificados, de maneira suficientemente clara, o preço do negócio, o prazo e as condições de pagamento respectivas.
+3. Para a hipótese de rescisão do compromisso de compra e venda de imóvel motivada pelo adquirente, é razoável a fixação de devolução em montante equivalente a 80% dos valores pagos à vendedora, em parcela única. Precedentes desta C. 6ª Câmara.
+4. Em razão do princípio da irretroatividade da lei (art. 6º da LINBD), os compromissos de venda e compra de bens imóveis firmados até 26 de dezembro de 2018 não se submetem ao regime estabelecido pela Lei nº 13.786/18.
+5. Não há nulidade na fixação de taxa de fruição fundada na ocupação do lote, independentemente de formulação de pedido contraposto ou reconvenção, uma vez que tal medida visa apenas à restituição das partes ao "status quo ante".
+6. É devida indenização pelo tempo de ocupação de imóvel, sendo irrelevante que se trate de lote não edificado. Indenização que incide desde a imissão do adquirente na posse até a efetiva desocupação do imóvel. Precedentes do C. STJ e desta C. 6ª Câmara.
+7. Percentual (0,5% ao mês) e base de cálculo (valor atualizado do contrato) da taxa de fruição bem fixados, sendo descabida a sua incidência sobre o valor das construção erigidas pelo adquirente do lote. Precedente desta C. 6ª Câmara.
+8. Não se tratando de causa com proveito econômico inestimável ou irrisório e tampouco com valor muito baixo, os honorários advocatícios não devem ser fixados por equidade. Inteligência do artigo 85, §§ 2º e 8º, do Código de Processo Civil.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 413 e 884 do Código Civil; e 6º, V, 39, V, 51, IV, § 1º, III, e 53 do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta ser indevida a cobrança de taxa de fruição de terreno, pois "o objeto do contrato foi um terreno não edificado, tendo o consumidor, de boa-fé, nele construído posteriormente".
+Afirma que, "Se foi o comprador quem construiu a residência, ou seja, se ela não estava incluída no patrimônio do vendedor por ocasião da celebração do contrato, nada teria ele deixado de ganhar com a possibilidade de explorá-la economicamente, não sendo aceitável venha se beneficiar de um acréscimo patrimonial a que não deu causa".
+Assevera que "o pagamento da Taxa de Fruição de 0,5% ao mês  ..  acaba por colocar o consumidor recorrente em situação de extrema onerosidade, posto que além da redução de 20% sobre o valor efetivamente pago, será descontada a Taxa de Fruição de 0,5% ao mês que acabará por reduzir significativamente, de forma injustificada, o reembolso parcial dos valores pagos e a indenização da acessão de boa-fé edificada no imóvel".
+Defende que o possuidor de boa-fé tem o direito de retenção pelo valor das benfeitorias necessárias e úteis, direito que também deve ser reconhecido no caso das acessões. Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A irresignação merece acolhida.
+A Corte estadual, ao analisar a matéria relativa à taxa de fruição do imóvel em discussão, assim se pronunciou (fls. 541/542):
+No que tange à taxa de fruição, esclareça-se, preliminarmente, que o seu arbitramento, independentemente da existência de reconvenção ou pedido contraposto, não consagra qualquer nulidade, uma vez que visa apenas à restituição das partes ao status quo ante em virtude do desfazimento do negócio. Em última análise, tal medida se presta a evitar o enriquecimento ilícito, o que, obviamente, não pode ser censurado.  ..
+Esclarecida a questão acima, cabe destacar que esta Relatora tem se curvado ao entendimento desta C. 6ª Câmara de Direito Privado para admitir a fixação de taxa de fruição, ainda que se trate de lote sem quaisquer edificações.
+Isso porque, em que pese a inexistência de edificações no referido lote, a ocupação graciosa do imóvel não pode ser oportunizada ao adquirente. É importante ressaltar que, após a transmissão da posse do lote ao adquirente, a loteadora/vendedora fica impossibilitada não só de comercializá-lo ou apresentá-lo a terceiros, como também de usufrui-lo, merecendo, portanto, ser indenizada.
+Ocorre que o objeto do contrato dizia respeito a lote não edificado, e esta Corte Superior é pacífica no sentido de que a condenação ao pagamento de taxa de ocupação depende de demonstração do efetivo prejuízo para a promitente-devedora, o que vem sendo corriqueiramente afastado no caso de lote não edificado, como na hipótese.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Consoante entendimento desta Corte, não é cabível a fixação de taxa de fruição na hipótese de desfazimento de contrato de compra e venda de terreno não edificado. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.974.868/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/3/2022, DJe 31/3/2022)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente.
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1896690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/8/2021, DJe 26/8/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. TERRENO SEM EDIFICAÇÃO. VALORES PAGOS PELOS ADQUIRENTES. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO/FRUIÇÃO. HIPÓTESE CONCRETA. AUSÊNCIA. REEXAME FÁTICO PROBATÓRIO. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação de rescisão contratual com pedido de devolução de quantias pagas.
+2. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+3. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+4. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+5. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+6. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento; tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+7. O reexame de fatos e provas em recurso especial é inadmissível.
+8. A ausência de juntada do inteiro teor dos julgados apresentados a cotejo ou de indicação do repositório oficial de que extraídos os arestos desatende o disposto no art. 266, § 1º, c/c art. 255, §§ 1º e 2º, do RISTJ.
+9. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+10. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+11. Agravo interno em Recurso especial não provido.
+(AgInt no REsp 1943713/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/9/2021, DJe 22/9/2021)
+Dessa forma, imperiosa a reforma do acórdão estadual, no ponto.
+Também necessário determinar o retorno dos autos à origem, para que aprecie a distribuição do ônus de sucumbência, à luz da presente decisão.
+Em face do exposto, dou provimento ao recurso especial para afastar a cobrança da taxa de fruição em desfavor do recorrente.
+Intimem-se.
