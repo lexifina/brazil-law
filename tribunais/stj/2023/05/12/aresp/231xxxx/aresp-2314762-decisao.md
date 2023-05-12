@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por ACOFORTE SEGURANÇA E VIGILÂNCIA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1.583):
+CONTRATO ADMINISTRATIVO. Prestação de serviços de vigilância e segurança patrimonial. Equilíbrio econômico financeiro. Pretensão destinada ao recebimento de correção monetária e juros de mora decorrentes do adimplemento extemporâneo das parcelas mensais, além da cobrança dos valores referentes ao adicional de periculosidade definido pela Lei Federal nº 12.740/2012. Sentença de parcial procedência. Reforma. Contrato firmado em novembro de 2011, com diversos aditivos posteriores, com prorrogação da vigência até maio de 2015. Novos pactos firmados entre as partes, já na vigência do referido diploma legal, que expressamente estabeleceram os valores a serem pagos decorrentes das prorrogações, devidamente reajustados, sem, no entanto, incluir remuneração específica a respeito do adicional de periculosidade. Exigência indevida dos valores referentes ao adicional de periculosidade, já que a alteração legislativa promovida pela Lei Federal nº 12.740/2012 já estava em vigor quando da celebração dos aditivos mencionados, o que afasta o alegado fato imprevisível causador de prejuízo. Improcedência da ação nesta parte. JUROS E CORREÇÃO MONETÁRIA. Valores devidos somente em relação às notas fiscais adimplidas extemporaneamente, nos termos dos esclarecimentos prestados pelo i. perito após conversão do julgamento em diligência. RECURSO DA AUTORA NÃO PROVIDO E DA RÉ PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 1.607).
+No recurso especial (fls. 1.614-1.635), alega que o acórdão contrariou as disposições contidas nos arts. 76, 104, 344 e 345 do CPC.
+Alega, em suma, a revelia da parte requerida, visto que a contestação foi apresentada por advogada sem procuração nos autos.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.671-1.678).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.714-1.716), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.755-1.760).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem entendeu que não ocorreu a revelia no caso, pois, apesar de a contestação ter sido apresentada por advogada sem procuração nos autos, intimada a requerida, a representação foi regularizada. Veja-se (fl. 1.585):
+Inicialmente, afasta-se a preliminar de revelia em razão da irregularidade na representação processual da ré.
+Conforme se verifica dos autos, o atendimento da determinação de fls. 259 se deu tempestivamente, tendo o patrono da ré juntado procuração para sanar a ausência de representação processual, tendo também justificado a impossibilidade de juntada de procuração pela advogada que subscreveu a contestação de fls. 212-218, o que basta para rejeitar a alegação de imprestabilidade dos argumentos apresentados na defesa da ré, nos termos bem observados pelo MM. Juízo de Primeiro Grau (fls. 873).
+A revisão da matéria, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7 do STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. CONTRATO DE SUBEMPREITADA. IRREGULARIDADE DE REPRESENTAÇÃO DA PARTE AUTORA E ILEGITIMIDADE PASSIVA DA REQUERIDA NÃO CONFIGURADAS. RESPONSABILIDADE SOLIDÁRIA DA BENEFICIÁRIA DO SERVIÇO. CULPA IN ELIGENDO E IN VIGILANDO. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+3. No que se refere à regularidade na representação da agravada, existência de solidariedade entre a agravante e a empreiteira e, por conseguinte, a legitimidade passiva da agravante, a reforma do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 758.675/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Rever as conclusões da Corte local que, com base nas provas constante dos autos, reconheceu a revelia da agravante e afastou as alegações de abandono da causa e julgamento extra petita, demandaria o reexame do contexto fático e probatório dos autos, providência que encontra óbice no disposto na Súmula 7 do STJ. Precedentes.
+(..)
+(AgInt no AREsp n. 2.099.663/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. REEXAME DE PROVAS. SÚMULA N. 7/STJ. JULGAMENTO DO MÉRITO. EXAURIMENTO DO OBJETO. CONFISSÃO DE DÍVIDA. PREENCHIMENTO DOS REQUISITOS. TÍTULO EXTRAJUDICIAL. SÚMULA N. 83/STJ. REVISÃO. SÚMULA N. 7/STJ. DESNECESSIDADE DE CAUÇÃO NOS CASOS DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. SÚMULA N. 83/STJ. REGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. REEXAME. ÓBICE DA SÚMULA N. 7/STJ. LEGITIMIDADE DA MATRIZ. REVISÃO. SÚMULA N. 7/STJ. LIQUIDEZ DO TÍTULO. REVOLVIMENTO DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. ÓBICE DAS SÚMULAS N. 5 E 7/STJ. FUNDAMENTO INATACADO. SÚMULA N. 283/STJ. APRESENTAÇÃO DA MEMÓRIA DE CÁLCULO. REEXAME. SÚMULA N. 7/STJ. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. TEORIA FINALISTA. INSUMO DE PRODUÇÃO. AUSÊNCIA DE RELAÇÃO DE CONSUMO. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+(..)
+4. A controvérsia a respeito da irregularidade da representação processual da parte apelada foi solvida sob premissas fáticas, inviáveis de reexame no recurso especial. Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ à hipótese.
+(..)
+(AgInt no AREsp n. 1.611.588/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/8/2020, DJe de 1º /9/2020.)
+Por fim, quanto ao dissídio jurisprudencial alegado, a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula n. 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
