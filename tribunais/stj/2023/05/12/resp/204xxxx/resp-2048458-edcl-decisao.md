@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática de minha lavra, que não conheceu do recurso especial, ante a incidência da Súmula 83/STJ, aplicando jurisprudência proclamada no REsp 1.648.238/RS.
+O recurso especial foi interposto contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PAGAR. ESTADO DE SÃO PAULO. DECISÃO QUE DEIXA DE FIXAR HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ARTIGO 85, § 7º DO CPC. REFORMA QUE SE IMPÕE, NOS TERMOS DO RE 420816 ED/PR.
+1. STF ESCLARECEU QUE A REGRA DE NÃO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS PELA FAZENDA PÚBLICA, NAS EXECUÇÕES POR ELA NÃO EMBARGADAS, NÃO ALCANÇA CASOS DE PAGAMENTO DE OBRIGAÇÕES DEFINIDAS EM LEI COMO DE PEQUENO VALOR (CF/88, ART. 100, CAPUT E § 3º)
+2. CABIMENTO DO ARBITRAMENTO DA HONORÁRIA, PARA OS CRÉDITOS A SEREM RECEBIDOS POR MEIO DE REQUISIÇÃO DE PEQUENO VALOR. PRECEDENTES DA C. CÂMARA.
+3. RECURSO PROVIDO PARA ARBITRAR A VERBA HONORÁRIA.
+Nas razões dos embargos de declaração, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+Considerando a superveniência da referida decisão da E. 1ª Seção, necessária a oposição destes embargos declaratórios, para que seja determinada a suspensão do feito, nos termos da determinação da E. 1ª Seção nos autos do REsp 2029636.
+ ..
+É o relatório. Decido.
+Verifico que a matéria tratada nos autos foi admitida para julgamento de uniformização jurisprudencial: Tema 1190 - Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV.
+Eis a ementa do referido acórdão de afetação:
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RESP 2.031.118/SP, RESP 2.029.675/SP, RESP 2.029.636/SP E RESP 2.030.855/SP. RITO DOS ARTS. 1.036 E SEGUINTES DO CPC. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV."
+2. Recurso Especial submetido ao regime dos arts. 1.036 e seguintes do CPC.
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos dos art. 927, 1.036, 1.040 do CPC/2015, justifica o sobrestamento dos recursos especiais, na instância ordinária, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF ou STJ.
+Também a admissão do recurso, como repetitivo por esta Corte, autoriza o sobrestamento. A mesma sistemática deve ser adotada para os casos de admissão de Procedimento de Uniformização de Jurisprudência. Assim, a Corte de origem pode declarar prejudicados os recursos que se oponham a acórdão que se conforma com o decidido pelo STF e STJ ou se retratar. Nesse sentido: EDcl nos EDcl no AgInt no AREsp n. 1.666.390/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/3/2021, DJe 8/4/2021; AgInt no REsp n. 1.911.163/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/3/2021, DJe 5/4/2021; EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp n. 1.615.441/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe 17/12/2020; EDcl no REsp n. 1.792.034/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe 2/8/2019.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 927, 1.036 e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso especial ou extraordinário representativo da controvérsia, ou, ainda, de Procedimento de Uniformização de Jurisprudência, sobrestadas as demais matérias recorridas, caso não prejudicadas: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre a matéria.
+Publique-se. Intimem-se.
