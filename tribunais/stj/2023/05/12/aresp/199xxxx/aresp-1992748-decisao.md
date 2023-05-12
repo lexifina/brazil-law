@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por Judison Lourenço da Silva contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 311):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. USO DE VEÍCULO PÚBLICO PARA FINS PRIVADOS. CONDENAÇÃO COM BASE EM PROVAS PRODUZIDAS NO INQUÉRITO CIVIL. AUSÊNCIA DE CONTRADITÓRIO. RECONHECIDA A NULIDADE DA SENTENÇA.
+1. Para sustentar o édito condenatório, em se tratando de ação civil pública, os elementos produzidos de forma unilateral, administrativamente, pelo Ministério Público em sede de inquérito civil devem ser submetidos ao contraditório durante o processamento da ação em juízo, sob pena de nulidade do decisório.
+2. Na hipótese, diante da ausência de provas produzidas em juízo, suficientes para a condenação do Apelante, impositiva a reforma da sentença para oportunizar à parte interessada a dilação probatória, sem a qual resta configurado o cerceamento de defesa.
+APELAÇÃO CONHECIDA E PROVIDA.
+Opostos embargos de declaração, foram rejeitados (acórdão às fls. 370/379).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV; e 1.022, I, II, do CPC, pois, em seu entender, nada obstante a oposição dos embargos de declaração, a Corte de origem permaneceu omissa. Sustenta, em síntese, que: (I) "nas razões do recurso de apelação cível (Evento nº 3, doc. 39), o Recorrente alegou que a sentença vergastada (Evento nº 3, fls. 182/189) deve ser totalmente reformada, para que o pedido inicial fosse julgado improcedente, já que ficou demonstrada, tanto pela prova documental carreada aos autos, quanto pela prova testemunhal produzida em audiência de instrução e julgamento, a inocorrência de qualquer ato de improbidade por parte do Recorrente" (fl. 391); (II) no mencionado recurso, não "requereu o seu provimento para "a reabertura da instrução processual", e sim a improcedência do pedido inicial, ante a inocorrência/inexistência de qualquer conduta que configure ato de improbidade administrativa" (fl. 389); e (III) "inexiste o elemento subjetivo caracterizador do ato ímprobo, pois evidente a ausência de dolo na conduta" (fl. 394).
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Mário José Gisi, opinou pelo desprovimento do agravo (fls. 490/494).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Ao apreciar os embargos de declaração opostos ao acórdão proferido no julgamento da apelação interposta pelo ora agravante, o Tribunal goiano consignou o seguinte (fls.375/376):
+ ..
+Por óbvio, não houve o julgamento pela improcedência do pedido inicial, tampouco a análise das questões de mérito arguidas pelo apelante, uma vez que se reconheceu a nulidade da sentença vergastada que embasou a procedência da ação civil pública por ato de improbidade administrativa nas provas produzidas no inquérito civil, procedimento este, que não observou o princípio do contraditório e da ampla defesa, o que foi inúmeras vezes mencionados nas razões recursais.
+Dito isso, não se constata a ausência de fundamentação ou motivação do acórdão.
+Nessa linha de entendimento, igualmente, não há que se falar em decisão extra petita.
+Nos termos do art. 322, § 2º, do CPC, a interpretação do pedido deve ser realizada de forma lógico sistemática, levando em consideração o conjunto da postulação e a boa-fé.
+ ..
+Na espécie, observo que o acórdão guarda intrínseca relação com o recurso que lhe foi dirigido, bem como com a sentença que se declarou nula, especialmente, pelo fato de o apelante ter arguido a falta de fundamentação da sentença e, consequentemente a sua nulidade, a qual foi reconhecida pelo ato embargado.
+Em que pese o requerido tenha defendido a não procedência da ação, nota-se que nas razões recursais menciona sempre a ausência de provas, o cerceamento do direito de defesa do processo administrativo e a falta de fundamentação do julgado.
+Dessarte, impende ressaltar que este e. Tribunal possui entendimento no sentido de que não há julgamento "extra petita" quando, nos termos do artigo 322, § 2º, do CPC, é realizada a interpretação do conjunto da postulação, de forma lógico sistemática, como ocorrido no caso vertente.
+ ..
+Sob esse prisma, constatada a correlação entre a tutela jurisdicional e o conjunto da postulação em que foi deduzida a pretensão recursal, inexiste a ofensa à congruência objetiva da lide e, por consectário, em julgamento extra petita, razão pela qual rechaço a aludida irresignação.
+Ademais, a matéria controvertida foi devidamente enfrentada e, ainda que contrariamente à pretensão do requerido/embargante, nos pontos acima mencionados, solucionada de forma clara, congruente e fundamentada, à luz dos elementos cognitivos amealhados aos autos.
+ ..
+Nesse contexto, não ocorreu ofensa aos arts. 489 e 1.022 do CPC, porquanto a Corte de origem solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos. Convém ressaltar que não se pode confundir julgamento desfavorável ao interesse da parte com omissão ou ausência de fundamentação. Nesse sentido, menciono os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.416.310/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+ADMINISTRATIVO. PROCESS UAL CIVIL. AGRAVO INTERNO NO RESURSO ESPECIAL. RESPONSABILIDADE CIVIL. POLUIÇÃO AMBIENTAL. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. OPERAÇÃO IRREGULAR DA ESTAÇÃO DE TRATAMENTO DE ESGOTO. DEVER DE INDENIZAR. NEXO CAUSAL. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se vislumbra, na hipótese, que o v. acórdão recorrido padeça de qualquer dos vícios descritos nos arts. 489, § 1º, e 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+2. A desconstituição das premissas lançadas pela instância ordinária, segundo as quais restaram comprovados a poluição ambiental e o nexo causal entre a operação irregular da ETE e os danos morais pretendidos, ensejaria o reexame de matéria fática, procedimento que, em sede especial, encontra empeço na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.996.866/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
