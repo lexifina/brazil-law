@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcelo da Cunha - cumprindo pena privativa de liberdade em razão de condenação pelo crime de roubo -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Agravo em Execução Penal n. 5051411-84.2023.8.21.7000), não comporta processamento.
+Com efeito, busca a impetração o restabelecimento do livramento condicional concedido ao paciente pelo Juízo de Direito da Vara de Execuções Criminais da comarca de Santa Cruz do Sul/RS (PEC n. 8000048-79.2020.8.21.0026), aos argumentos de que a existência de faltas no curso da execução não pode ensejar o indeferimento da progressão de regime pois são requisitos estranhos à lei. Como dito, a legislação apenas condiciona a fruição do direito ao atingimento do lapso temporal, bem como ao fornecimento de atestado pelo Diretor da Casa Prisional que declara se o apenado mantém conduta plenamente satisfatória (fl. 10).
+Da análise do acórdão hostilizado observa-se que o Tribunal de origem logrou demonstrar o inadimplemento do requisito subjetivo ao afirmar que se trata de apenado que cumpre pena por crime cometido mediante violência ou grave ameaça (roubo). Afora isso, tem histórico de intercorrências negativas durante todo o curso da execução penal, ostentando, até então, duas faltas graves reconhecidas contra si, e teve o benefício do livramento condicional recentemente suspenso pelo cometimento de novo delito no curso da execução (Ação Penal n. 5009602-21.2022.8.21.0026) - fl. 520.
+Tais argumentos são capazes de justificar o não adimplemento do requisito subjetivo.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. CONCESSÃO PELO JUÍZO DE PRIMEIRO GRAU. CASSAÇÃO PELO TRIBUNAL. FUNDAMENTAÇÃO. EXISTÊNCIA. INFRAÇÕES DISCIPLINARES E PRÁTICA DE OUTRO DELITO QUANDO DA ANTERIOR CONCESSÃO DO BENEFÍCIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
