@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TIM S. A. e TIM CELULAR S.A. contra decisão monocrática de relatoria da Presidência do STJ, por meio da qual não conheceu do agravo em recurso especial (fls. 5.133-5.135).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 4.950):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. AIIM. Intempestividade do recurso da FESP. Afastada a preliminar de nulidade da sentença por cerceamento de defesa ou motivação deficiente. Alegação da embargante que a natureza dos descontos é incondicionada, de forma a não incidir o tributo. Planos de prestação de serviço de telefonia que se vinculam à aquisição de aparelhos celulares em promoção. Descontos condicionados à persistência da relação contratada por dado prazo, não havendo o que se falar em desconto gratuito, em face da exigência da fidelização do adquirente. Incidência de ICMS, segundo a legislação e jurisprudência, subsistindo a autuação do fisco para os casos assinalados em sentença. Admissibilidade dos juros sobre a multa. Sentença de parcial procedência mantida.
+RECURSO DA FESP NÃO CONHECIDO E RECURSO DAEMBARGANTE NÃO PROVIDO.
+Verifico a presença dos pressupostos de admissibilidade do agravo e, em princípio, ante as circunstâncias que envolvem a lide, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, reconsidero a decisão agravada (fls. 5.133-5.135) para conhecer do agravo e determinar sua conversão em recurso especial.
+Publique-se. Intimem-se.
