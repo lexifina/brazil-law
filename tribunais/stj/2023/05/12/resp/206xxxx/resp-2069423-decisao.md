@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por AUREA EMPREENDIMENTOS S/A. (AUREA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Maranhense, relatado pelo Des. MARCELO CARVALHO SILVA, assim ementado:
+DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO INTERNO NA APELAÇÃO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de apelação, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei) III - Agravo interno desprovido (e-STJ, fl. 547).
+Opostos embargos de declaração por AUREA, foram rejeitados (e-STJ, fls. 584/609).
+Nas razões do presente recurso, AUREA alegou violação dos arts. 489 e 1.022 do CPC, ao sustentar que o acórdão recorrido foi deficientemente fundamentado, visto que não indicou os fundamentos jurídicos de seu convencimento e não abordou as questões centrais do caso concreto, sendo nula a adoção de fundamentação per relationem.
+Foram apresentadas contrarrazões (e-STJ, fls. 642/650).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Do vício de fundamentação
+Nas razões do presente recurso, AUREA alegou a negativa de vigência dos arts. 489 e 1.022 do NCPC, ao sustentar que o acórdão recorrido foi deficientemente fundamentado, visto que não indicou os fundamentos jurídicos de seu convencimento e não abordou as questões centrais do caso concreto, sendo nula a adoção de fundamentação per relationem.
+Contudo, verifica-se que o Tribunal estadual adotou como razões de decidir os fundamentos delineados na sentença, consignando que a jurisprudência admite a fundamentação per relationem, confira-se:
+Ademais, registro, neste ponto, que o Supremo Tribunal Federal e o Superior Tribunal de Justiça consagraram entendimento no sentido de que não há nulidade por ausência de fundamentação na decisão do Tribunal que adota como razões de decidir a motivação da sentença recorrida ou a manifestação do Ministério Público anteriormente exarada nos autos, novamente com destaques meus, in verbis:  ..  (e-STJ, fls. 451).
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Ademais, a jurisprudência desta Corte é uníssona no sentido de que inexiste nulidade na fundamentação per relationem ou aliunde, técnica pela qual o Tribunal estadual adota os fundamentos da sentença como razão de decidir.
+Confiram-se os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos do entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica em negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação" (AgInt no AREsp 1467013/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/09/2019, DJe 12/09/2019).
+2. Contra a decisão interlocutória que acolhe embargos à penhora, sem determinar a extinção da execução, é cabível o recurso de agravo de instrumento, constituindo, por conseguinte, erro grosseiro, insuscetível de aplicação do princípio da fungibilidade recursal, o manejo de recurso de apelação em tais casos.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.904.217/RS, relator Ministro MARCO BUZZI, Quarta Turma, j. em 23/5/2022, DJe de 30/5/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO CONHECIDO PARA ANÁLISE DO APELO NOBRE. AÇÃO REIVINDICATÓRIA. PLEITO DE RECONHECIMENTO DA USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE ANIMUS DOMINI. ALTERAÇÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO SUFICIENTE PARA MANTER O JULGADO. INCIDÊNCIA, ADEMAIS, DA SÚMULA Nº 284 DO STF. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, e 1.022, I, AMBOS DO NCPC. OMISSÕES, CONTRADIÇÕES E ERRO MATERIAL. INOCORRÊNCIA. FUNDAMENTAÇÃO ADOTADA PELO ACÓRDÃO RECORRIDO QUE SE MOSTROU CLARA E SUFICIENTE PARA DECIDIR INTEGRALMENTE A CONTROVÉRSIA. POSSIBILIDADE DE FUNDAMENTAÇÃO PER RELATIONEM. CONTRADIÇÃO INTERNA. NÃO OCORRÊNCIA. AUSÊNCIA DE PROPOSIÇÕES INCONCILIÁVEIS ENTRE FUNDAMENTAÇÃO E DISPOSITIVO DO JULGADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido quanto ao preenchimento dos requisitos para se reconhecer a aquisição da propriedade pela usucapião extraordinária exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que não implica negativa de prestação jurisdicional, não gerando nulidade do acórdão, seja por inexistência de omissão seja por não caracterizar deficiência na fundamentação.(AgInt no AREsp 1.779.343/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 12/4/2021, DJe 15/4/2021)
+4. A contradição que justifica o acolhimento dos aclaratórios é a interna, que decorre de proposições inconciliáveis entre si, em especial entre fundamentos e dispositivo do julgado, mas não a suposta contradição entre o acórdão e o entendimento da parte.
+Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.801.597/GO, de minha relatoria, Terceira Turma, j. em 9/5/2022, DJe de 11/5/2022.)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
