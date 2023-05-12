@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro, Juízo Local Criminal de Loulé, Juiz 1) solicita que se proceda à notificação pessoal de ALEX BARCELO GARCIA para tomar ciência da sentença proferida no Processo n. 530/05.8GTABF, bem como de que tem o prazo de 30 dias, a contar da presente notificação, para exercer o direito de recurso da referida sentença, devendo para o efeito contatar com a Ex. Srª Drª Vanda Brazão, Endereço: Cerca do Convento Espírito Santo, 4 8100-507 Loulé, telefone: 00351 965111519, endereço eletrônico: vandabrazao-44204f@adv.oa.pt (fl. 8).
+Tendo em vista que a diligência foi cumprida (certidão de fls . 76-77), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
