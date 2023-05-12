@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ADRIANO DUARTE DA SILVA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 136-138.
+No presente recurso ordinário, o recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar ressaltando a brevidade do acórdão recorrido.
+Pondera, neste sentido, que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, e que a pequena quantidade da droga apreendida não justifica a manutenção da prisão preventiva.
+Requer, ao final, a revogação da prisão preventiva, ou, subsidiariamente, sua substituição por medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida, às fls. 180-181, e as informações foram prestadas às fls. 185-257.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos de parecer de fls. 259-261.
+É o relatório.
+Decido.
+Na hipótese, ainda que a quantidade da droga apreendida - 26,6g de crack - não seja suficiente a ensejar a manutenção da segregação cautelar, verifica-se que a constrição da liberdade do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o recorrente ter sido condenado anteriormente pelo crime de homicídio qualificado, e estar cumprindo pena em liberdade quando teria voltado a delinquir, dados que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg no HC n. 802.845/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 792.071/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no HC n. 795.867/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023.
+Ademais, impende ressaltar que as reiteradas decisões exaradas pelas instâncias ordinárias estão suficientemente fundamentadas, ainda que de maneira sucinta, o que não permite a constatação de qualquer qualquer ilegalidade flagrante no presente caso, apta a ensejar o provimento do presente recurso, consoante o entendimento firmado nesta Corte.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea b do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. I.
