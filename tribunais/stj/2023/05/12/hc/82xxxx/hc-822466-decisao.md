@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de LUCIANO GONÇALVES DA SILVA JÚNIOR, contra acórdão do Tribunal de Justiça do Estado da Bahia, proferido no julgamento da Apelação Criminal n. 0001900-30.2015.8.05.0211.
+O paciente foi condenado a 21 (vinte e um) anos de reclusão, em regime inicial fechado, mais 100 (cem) dias-multa, pela prática do crime previsto no art. 157, § 3º, in fine, do Código Penal (e-STJ, fls. 31-49). A sentença foi parcialmente reformada, apenas para reduzir a pena privativa de liberdade, fixando-a em 20 (vinte) anos de reclusão, mantidos os demais termos da condenação (e-STJ fls. 50/ 78).
+Após o trânsito em julgado, a defesa ajuizou revisão criminal, julgada improcedente pela Corte estadual. Houve, também, a impetração de habeas corpus nesta Corte contra o acórdão revisional, indeferido liminarmente pelo Superior Tribunal de Justiça.
+Neste habeas corpus, a defesa alega que a sentença foi proferida por juízo incompetente, pois o delito teria se consumado na Comarca de Tucanos, local em que foi constatada a morte da vítima.
+Diante disso, requer, liminarmente, a revogação da custódia cautelar até o julgamento definitivo desta impetração, por meio da qual pretende anular o processo desde o recebimento da denúncia.
+É o relatório. Decido.
+Esta impetração não comporta acolhimento.
+Isto porque a matéria trazida a exame pelo impetrante não foi examinada pelo Tribunal a quo, o que impede a manifestação do Superior Tribunal de Justiça sob pena de indevida supressão de instância.
+Assim, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Ao ensejo, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. TRÁFICO DE DROGAS. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO PESSOAL DE RÉU SOLTO. SUPRESSÃO DE INSTÂNCIA. ADEMAIS TESE CONTRÁRIA À JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não ocorreu ofensa ao princípio da colegialidade em razão do julgamento monocrático do habeas corpus. Isso porque, nos termos da Súmula 568, desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+2. A assertiva de necessidade de intimação pessoal de réu solto não foi analisada pela Corte de origem, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+3. ""A jurisprudência desta Corte Superior se firmou no sentido de que, consoante o disposto no art. 392, II, do Código de Processo Penal, tratando-se de réu solto, é suficiente a intimação do defensor constituído acerca da sentença condenatória, não havendo qualquer exigência de intimação pessoal do réu que respondeu solto ao processo" (AgRg no REsp 1.710.551/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 18/9/2018, DJe de 3/10/2018)" (AgRg no HC 661.692/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 28/5/2021).
+4. Agravo regimental desprovido (AgRg no HC 678.757/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 20/9/2021).
+PENAL E PROCESSO PENAL. HABEAS CORPUS. SUCEDÂNEO RECURSAL. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL. RÉU SOLTO. ADVOGADO CONSTITUÍDO DEVIDAMENTE INTIMADO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE NULIDADE. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. NÃO CONHECIMENTO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como sucedâneo recursal.
+2. A nulidade suscitada, decorrente da ausência de intimação pessoal do réu da sentença condenatória, não foi apreciada pelo Tribunal de origem, o que impede o seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+3. Nos termos do art. 392, inciso II, do Código de Processo Penal, tratando-se de réu solto, é suficiente a intimação do defensor constituído a respeito da sentença condenatória.
+4. Habeas corpus não conhecido (HC 251.211/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 10/6/2014).
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ARTIGO 392, II, DO CÓDIGO DE PROCESSO PENAL. INTIMAÇÃO PESSOAL. RÉU SOLTO. SENTENÇA CONDENATÓRIA. ADVOGADO CONSTITUÍDO DEVIDAMENTE INTIMADO. AUSÊNCIA DE NULIDADE. PRECEDENTES DESTA CORTE. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+I. A jurisprudência desta Corte é assente no sentido de que, ao réu que se livra solto, não é necessária a intimação pessoal da sentença condenatória, bastando que seu defensor constituído seja intimado pessoalmente, o que ocorreu no presente feito. Precedentes.
+II. Inteligência do artigo 392, II, do Código de Processo Penal.
+III. Ausente o debate na instância ordinária sobre as demais questões trazidas neste mandamus, fica este Tribunal impedido de se manifestar, sob pena de supressão de instância.
+IV. Ordem parcialmente conhecida e, nessa extensão, denegada, nos termos do voto do Relator (HC 216.993/PI, Rel. Ministro GILSON DIPP, Quinta Turma, DJe 17/11/2011).
+Não se pode descurar, por fim, que admitir a análise direta por esta Corte de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir.
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente este habeas corpus.
+Intimem-se.
