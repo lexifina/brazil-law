@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOÃO NASCIMENTO DA CONCEIÇÃO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2265387-75.2022.5.26.0000), assim ementado:
+HABEAS CORPUS - EMBRIAGUEZ AO VOLANTE - Impetração que se volta contra mandado de prisão expedido por força de sentença penal condenatória transitada em julgado - Ausência de constrangimento ilegal - ORDEM DENEGADA.
+Busca-se nesta impetração a desconstituição do trânsito em julgado da condenação, sob o argumento de que o recurso de apelação somente não foi interposto no prazo legal em razão de o causídico estar em isolamento em decorrência da covid-19.
+Liminar indeferida às e-STJ fls. 129/130.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem, às e-STJ fls. 169/171.
+É, em síntese, o relatório. Decido.
+Busca a defesa a declaração de nulidade processual ao argumento de que o recurso de apelação foi intempestivo em decorrência de força maior.
+Sem razão.
+Acerca do tema em debate, o Tribunal de origem deixou bem registrado que (e-STJ fl. 78):
+As informações da autoridade impetrada dão conta de que o paciente, "o réu foi condenado como incurso no artigo 306, caput, da Lei Federal 9503/97, às penas de 8 meses de detenção e 12 dias-multa, em regime inicial semiaberto, e à pena de 3 meses de suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor. Em 25 de agosto de 2021, o réu constituiu advogado(Doutor Sérgio Soares dos Reis, OAB-SP 322.240), que apresentou embargos de declaração em face da sentença, requerendo a nulidade, argumentando que a revelia foi decretada indevidamente (fls. 215/256). No dia 08 de setembro de 2021, os embargos foram conhecidos e rejeitados, conforme decisão de fls. 257/259. Aos 18 de novembro de 2021, foram apresentados novos embargos de declaração, alegando a presença de vícios cognitivos na sentença e a nulidade da rejeição dos embargos apresentados anteriormente, ao argumento de que o Ministério Público não fora intimado para se manifestar (fls.265/293). Em 19 de janeiro de 2022, os embargos foram rejeitados, consignando o reconhecimento da guinada protelatória intentada pela parte (fls. 294/295). Aos 09 de fevereiro de 2022, foram apresentados embargos de declaração e as razões de apelação (fls. 298/332). No dia 17 de fevereiro de 2022, o Ministério Público apresentou as contrarrazões de apelação, requerendo o não conhecimento do recurso diante de sua intempestividade (fls. 335/341). Por decisão de 17 de agosto de 2022, os embargos não foram conhecidos e o recurso de apelação não foi recebido, em razão de suas intempestividade, ficando determinado a certificação do trânsito em julgado (fls.355/356). Em 25 de agosto de 2022, foram apresentados embargos de declaração, alegando a impossibilidade de cumprir os prazos processuais em razão de alegada força maior (fls. 359/366). Ao 01 de setembro de 2022, os embargos não foram conhecidos por serem manifestamente protelatórios, sendo determinado a certificação do trânsito em julgado e a expedição do mandado de prisão (fls.369/370)." (Grifei.)
+O Tribunal de origem não registrou nenhuma ilegalidade ou teratologia.
+Com efeito, observo que não há no processo nenhum elemento que comprove a impossibilidade de apresentação do recurso. Não obstante ser lamentável a morte da genitora do advogado, há no processo apenas sua certidão de óbito, datada de 2 de fevereiro de 2022 (e-STJ fl. 23).
+A defesa alega que durante o pra zo de interposição do recurso, o patrono estaria em isolamento por covid-19, permanecendo no Hospital até que a sua mãe viesse a óbito, fato não comprovado nesta impetração.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ademais, em 16 de julho de 2022 foi dada ciência, tanto do condenado quanto do seu advogado, à sentença condenatória. A partir daí foram opostos quatro embargos de declaração, inclusive com o reconhecimento de seu intento protelatório. As razões de apelação foram apresentadas somente em 9 de fevereiro de 2022.
+A perda de prazo para a interposição de recurso, que é ato facultado à parte, não enseja, necessariamente, nulidade processual, tendo em vista o princípio da voluntariedade dos recursos, previsto no art. 544 do Código de Processo Penal.
+Alegar que a perda de prazo para o oferecimento do recurso decorreu de força maior não encontra respaldo na análise dos dados da marcha processual.
+Diante desse cenário, não apresentando a defesa argumentos bastantes a modificar a conclusão alcançada pelo colegiado local, não encontro motivos para reformar o acórdão combatido nesta oportunidade.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
