@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ SANTOS DE CAMPOS (fls. 951-973) contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra o acórdão prolatado na Apelação Criminal n. 1500691-39.2020.8.26.0583.
+Nas razões do recurso especial (fls. 686-700), alega-se ofensa ao art. 33, § 4.º, da Lei n. 11.343/06, bem como aos arts. 33, §§ 2.º e 3.º, e 59, ambos do Código Penal. Invoca-se, em reforço, as Súmulas n. 718 e 719 do Supremo Tribunal Federal e n. 440 do Superior Tribunal de Justiça. Requer-se a aplicação da minorante do tráfico privilegiado no patamar máximo e o abrandamento do regime prisional inicial.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, manifesta-se pelo desprovimento do agravo, nos termos da seguinte ementa (fls. 1054-1055):
+"AGRAVOS EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. AGRAVANTES CONDENADOS PELO CRIME PREVISTO NO ART. 33 DA LEI Nº 11.343/2006 E ART. 16 - §1º - II E IV. AGRAVO DE GIOVANE SANTOS DE JESUS - A FUNDAMENTAÇÃO DA DECISÃO AGRAVADA NÃO FOI ENFRENTADA PELO AGRAVANTE. NÃO CONHECIMENTO. AGRAVO DE ANDRÉ SANTOS DE CAMPOS - FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO NÃO ENFRENTADA PELO RECORRENTE. MATÉRIA SUSCITADA QUE DEMANDA O REVOLVIMENTO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO DO AGRAVO.
+1. O agravante Giovane não rebateu a fundamentação apresentada na decisão que não admitiu seu recurso especial, pela incidência das Súmulas 7 e 83, ambas do STJ.
+2. Incide no caso, o enunciado nº 182 da Súmula do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. O agravo em recurso especial de André Santos de Campos, apesar de conhecido, porque preenche os requisitos necessários, no mérito, não deve ser provido, pois o agravante não impugnou de forma efetiva a fundamentação do acórdão recorrido e a matéria controvertida exige para o seu deslinde o revolvimento do conjunto probatório dos autos, o que  é  vedado em sede de recurso especial.
+4. O agravante se insurge contra a não aplicação do redutor do tráfico privilegiado e contra a fixação do regime fechado para o cumprimento de sua pena.
+5. A fundamentação do acórdão recorrido de que o recorrente se dedica à atividade criminosa não foi impugnada em seu recurso especial, como bem frisou a decisão de inadmissão do recurso. Nas razões recursais, o recorrente limitou-se a afirmar o preenchimento de todos os requisitos para a concessão da referida minorante.
+6. Para reformar o acórdão recorrido, que se baseou nos elementos concretos presentes nos autos (as condições em que se deu a apreensão das drogas e dos apetrechos usados no tráfico), como pretende o agravante, é necessário o revolvimento do conjunto probatório dos autos, o que é vedado nesta sede recursal, de acordo com o teor da Súmula 7 do STJ.
+7. A decisão agravada que não admitiu o recurso especial não merece reparo.
+- Parecer pelo não conhecimento do agravo em recurso especial de Giovane Santos de Jesus e pelo conhecimento e não provimento do agravo em recurso especial de André Santos de Campos."
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem inadmitiu o apelo nobre, pelos seguintes fundamentos (fls. 908-909):
+a) incidência da Súmula n. 284/STF, pois "não foram devidamente atacados os argumentos do aresto" (fl. 908);
+b) necessidade de reexame de provas (Súmula n. 7/STJ).
+No entanto, no que diz respeito à incidência da Súmula n. 7 desta Corte Superior em relação à tese de abrandamento do regime prisional inicial, as razões do agravo em recurso especial limitaram-se a aduzir, genericamente, que não seria caso de reexame de fatos, mas sem explicitar, à luz da mencionada tese recursal e, especialmente, dos elementos constantes do acórdão recorrido, de que maneira a análise não dependeria do reexame de provas, como afirmado na decisão de inadmissão do apelo nobre. Nesse ponto, não houve sequer menção a nenhum dado concreto constante do acórdão objeto da insurgência.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, RECEPTAÇÃO E RESISTÊNCIA. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, mas cabe a parte demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+ ..
+Agravo regimental desprovido." (AgRg no AREsp 1.638.260/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO RECURSO. SÚMULA N.º 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, o Agravante se limitou a sustentar, genericamente, que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial - o que não se confunde com a mera transcrição das razões do apelo nobre - , de que maneira a análise não dependeria do reexame de provas. Sendo assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n.º 7 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 1.593.391/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020.)
+Portanto , não houve a observância da dialeticidade recursa l, motivo pelo qual carece o agravo de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta de todos os fundamentos utilizados para inadmitir o recurso especial.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Verificado que o agravante se restringiu a reiterar as razões do recurso especial, sem impugnar os fundamentos da decisão agravada, incide o enunciado sumular n. 182 do STJ.
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido. Ordem concedida de ofício, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, reduzir a reprimenda do agravante para 5 anos e 10 meses de reclusão, no regime inicial semiaberto, mais 583 dias-multa." (AgRg no AREsp 2.036.220/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 29/03/2022, DJe 1.º/04/2022; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E MUNIÇÕES . INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. AGRAVO NÃO CONHECIDO.
