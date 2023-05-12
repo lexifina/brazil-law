@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Wesley Carvalho da Silva, atacando-se o acórdão proferido pelo Tribunal de Justiça do Tocantins no HC n. 0016230-75.2022.8.27.2700 (fls. 21/25), que manteve a prisão preventiva do paciente, decretada pela prática, em tese, do crime de homicídio qualificado, nos Autos n. 0013696-47.2017.827.2729 (fls. 55/56), da 1ª Vara Criminal da comarca de Palmas/TO.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+A despeito da alegação mandamental, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois o decreto de prisão cautelar demonstrou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando a gravidade concreta do delito - estamos diante de crime gravíssimo, dito hediondo, cuja pena máxima privativa de liberdade supera quatro anos (fl. 55) - e a reiteração delitiva - informação de que o réu já foi condenado anteriormente por o utro delito e possui envolvimento com tráfico de entorpecentes (fl. 55) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+A propósito: a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (AgRg no HC n. 755.801/SP, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, julgado em 4/10/2022, DJe 7/10/2022).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. RECEIO DE PERIGO GERADO PELO ESTADO DE LIBERDADE À ORDEM PÚBLICA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
