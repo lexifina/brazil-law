@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIVELTON SOUZA DOS SANTOS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP em julgamento de apelação criminal n. 1501555-51.2021.8.26.0548.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 16, parágrafo único, IV, da Lei n. 10.826/03 (posse e porte ilegal de arma de fogo de uso restrito), à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, e 11 dias-multa (fl. 146).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - Porte ilegal de arma de fogo com numeração suprimida e munições (art. 16, § 1º, IV, da Lei nº 10.826/03) - Recurso defensivo - Materialidade e autoria demonstradas - Confissão corroborada pela prova oral e pericial - Condenação mantida - Compensação da reincidência com a confissão - Descabimento - Preponderância da circunstância agravante - Inteligência do art. 67, do Código Penal - Precedentes - Regime fechado mantido - Recurso desprovido." (fl. 206).
+Em sede de recurso especial (fls. 216/225), a defesa apontou violação aos arts. 61, 63, 64 e 65, todos do Código Penal - CP, porque o TJSP manteve a sentença no ponto em que não atenua a pena, mesmo diante da confissão espontânea. Destaca que a pena foi aumentada em 1/6 em razão da reincidência.
+Contrarrazões (fls. 229/245).
+Novo acórdão, em juízo de retratação (fl. 248), manteve o acórdão objeto do recurso especial (fls. 251/254).
+Admitido o recurso no TJSP (fl. 262), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo parcial provimento do recurso especial, mediante compensação da atenuante da confissão espontânea com a agravante da reincidência, bem como imposição do regime inicial semiaberto (fls. 538/541).
+É o relatório.
+Decido.
+Sobre a compensação da atenuante com a agravante, o TJSP consignou (grifo nosso):
+"Passo, assim, à análise da dosimetria. Ausentes circunstâncias judiciais desfavoráveis, a pena-base partiu do mínimo legal, qual seja, 03 anos de reclusão, e pagamento de 10 dias-multa.
+Na segunda fase, busca a Defesa o reconhecimento da atenuante da confissão, com a consequente compensação desta com a agravante da reincidência.
+Em verdade, ainda que se reconheça a atenuante da confissão espontânea em favor do apelante, uma vez que tal circunstância serviu de fundamento para condenação, tendo a ilustre Magistrada a quo anotado que "a confissão do acusado, ressalte-se, totalmente livre, restou devidamente corroborada pelos depoimentos das testemunhas de acusação" (fl. 145), tal não implica em redução da reprimenda.
+Isso porque, a agravante da reincidência deve prevalecer sobre a atenuante da confissão, em atenção ao disposto no artigo 67, do Código Penal.
+Nesse contexto, a tese da preponderância da reincidência se depreende do próprio dispositivo legal citado e é amplamente reafirmada pela jurisprudência. A respeito, assim se posiciona a Excelsa Corte:
+ ..
+No mesmo sentido, as manifestações do Egrégio Superior Tribunal de Justiça e, também, desta Colenda Câmara julgadora:
+ ..
+Desta forma, correto o aumento de 1/6, em razão da reincidência (fls. 31/32), restando as penas definitivamente fixadas em 03 anos e 06 meses de reclusão e pagamento de 11 dias-multa, no piso, à míngua de outras causas de modificação." (fls. 207/210).
+Tem-se no trecho acima que o TJSP entendeu que a agravante da reincidência deve prevalecer sobre a atenuante da confissão espontânea.
+Tal entendimento não encontra amparo na jurisprudência desta Corte, consoante decidido em sede de recurso especial sob a sistemática de recursos repetitivos (grifo nosso):
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS E DIREÇÃO DE VEÍCULO SEM HABILITAÇÃO. ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 309 DA LEI N. 9.503/1997, NA FORMA DO ART. 69 DO CP. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. QUEBRA DA CADEIA DE CUSTÓDIA. INEXISTÊNCIA DE IRREGULARIDADE. ALEGAÇÃO DESPROVIDA DE SUSTENTAÇÃO PROBATÓRIA. VALIDADE DOS ATOS PRATICADOS. CONDENAÇÃO COM BASE EM OUTRAS PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. DESCABIMENTO. RÉU MULTIRREINCIDENTE.
+1. Na hipótese dos autos, o Tribunal de origem expressamente afirmou não ter vislumbrado nenhuma evidência concreta de mácula às provas dos autos, inexistindo qualquer sustentação probatória na alegação da defesa; ressaltou a validade dos atos praticados, tendo-se evidenciado apenas um mero erro material, o qual não se revelou apto a tornar nula a prova produzida, tendo ainda destacado que a defesa, no momento oportuno, sequer impugnou a perícia realizada, sendo certo haver nos autos outras provas da prática delitiva. Dessa maneira, não há como acolher o pleito defensivo, nos moldes postulados, sem o necessário revolvimento fático-probatório, vedado nos termos da Súmula n. 7/STJ.
+2. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+3. No caso em exame, não se mostra possível proceder à compensação integral entre a reincidência e a confissão espontânea, tendo em vista que o recorrente possui múltiplas condenações definitivas, o que, nos termos da jurisprudência desta Corte Superior de Justiça, permite a preponderância da circunstância agravante.
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+(REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/6/2022, DJe de 24/6/2022.)
+No caso concreto, há apenas uma condenação com trânsito em julgado (fls. 31/32).
+Destarte, passo a refazer a dosimetria da pena.
+Na primeira fase, a pena-base ficou no mínimo legal.
+Na segunda fase, mantenho no mínimo legal ante a compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea.
+Na terceira fase, ausentes causas de aumento e de diminuição, torno definitiva a pena de 3 anos de reclusão e 10 dias-multa.
+Consoante Súmula n. 269 do STJ, fixo o regime inicial semiaberto.
+Deixo de substituir a pena privativa de liberdade por restritivas de direitos. Embora não seja reincidente específico, houve a referida substituição para a condenação anterior, a denotar que o retorno à criminalidade deve ser reprimido de modo mais severo.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para estipular pena definitiva em 3 anos de reclusão, em regime inicial semiaberto, e 10 dias-multa.
+Publique-se. Intimem-se.
