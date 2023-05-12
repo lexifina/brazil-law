@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 299-318) interposto por AZIZ SAWAIA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 268):
+ADMINISTRATIVO E PROCESSUAL CIVIL. ILEGITIMIDADE PASSIVA. COMPANHIA DE SANEAMENTO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO ENUNCIADO DA SÚMULA 182 DO STJ.
+1. Os fundamentos da decisão recorrida exercida pelo Ministro Presidente do STJ  que não conheceu do Recurso Especial  não foram enfrentados pelo recurso de Agravo Interno interposto, permanecendo incólumes em face da impugnação apresentada.
+2. De fato, as razões do recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o decisum, o que não foi feito na peça recursal, visto que não apresentou impugnação adequada à incidência da Súmula 182/STJ. Quanto ao ponto, não se pode conhecer do Recurso, nos termos do art. 1.021, § 1º, do CPC.
+3. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+4. Agravo Interno não conhecido.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados, nos termos do acórdão de fls. 291-294.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, LIV, LV e XXXVI, da CF.
+Nesse sentido, argumenta que teria havido afronta ao contraditório e à ampla defesa, bem como à coisa julgada, ao devido processo legal e à ampla defesa, como se observa (fl. 307):
+Ao negar provimento ao Agravo Interno interposto, o E. Superior Tribunal de Justiça novamente cerceou o direito ao contraditório, à ampla defesa e ao devido processo legal, pois deixou de apreciar toda a documentação acostada aos autos, que demonstrava a falta de consistência do argumento em que foi fundamentado o acórdão, pois a Recorrente demonstrou cabalmente a majoração dos valores de imóveis naquele período e que a Carta de Adjudicação fora expedida apesar de o processo estar suspenso, contrariando a ordem do próprio Juízo singular, isto é, é uma Carta totalmente ilegal. Demonstra-se assim a contrariedade aos incisos LIV e LV da Carta Magna.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 328).
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque não houve impugnação específica aos fundamentos da decisão que, na origem, inadmitiu o recurso especial, incidindo o óbice da Súmula n. 182/STJ. De igual modo, o respectivo agravo interno tampouco foi conhecido em razão da carência de dialeticidade.
+Nos casos em que o mérito do agravo interno, do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
