@@ -1,0 +1,12 @@
+DECISÃO
+EDSON GOMES DE LACERDA opõe embargos de declaração contra decisão de minha lavra, na qual concedi a ordem para reduzir sua condenação ao patamar de 13 anos e 6 meses de reclusão.
+Neste momento, a defesa alega que, em seu recurso em habeas corpus, pleiteou a nulidade da sessão plenária do Tribunal do Júri e o redimensionamento da sanção.
+Assenta haver alegado "a nulidade julgamento com base no art. 593, III, "d", do CPP, porque, conforme consignado, a condenação se baseou simplesmente no depoimento da testemunha Rodrigo, que só foi ouvida na fase policial prestando dois depoimentos contraditórios, nunca foi levada a Juízo, e acabou por falecer sem elucidar as versões contraditórias que expôs" (fl. 1.541). Entende, então, haver omissão no decisum embargado, que concedeu a ordem para redimensionar a pena.
+Requer seja sanado o vício apontado.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No presente caso, a decisão embargada não padece de omissão, pois examinou todas as alegações defensivas trazidas na petição de recurso em habeas corpus, na qual, diga-se, o recorrente se insurgiu tão somente em relação à pena-base a ele imposta.
+Com efeito, a leitura do petitório, acostado às fls. 1.495-1.502, revela que, depois de haver exposto breve resumo da demanda, a defesa argumentou que "a sentença não trouxe fundamentos idôneos e legítimos a justificar o distanciamento do mínimo legal cominado, não houve fundamentação concreta" (fl. 1.497). Em seguida, elencou suas razões e, ao final, pediu fosse "redimensionada a pena de Edson Gomes de Lacerda, de modo que esta permaneça no mínimo legal cominado pois as circunstâncias judiciais (art. 59, CP) consideradas desfavoráveis tiveram motivação inidônea" (fl. 1.502).
+Assim, a se considerar que a decisão de fato analisou as teses trazidas a essa Corte, não se identifica nenhum vício a justificar a oposição do presente recurso integrativo.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
