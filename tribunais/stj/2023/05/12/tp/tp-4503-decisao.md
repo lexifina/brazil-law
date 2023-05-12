@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória de urgência proposta por ROBERTO BORTOLOZZO, PEDRINA ROCHA COIMBRA, RUDIMAR BORTOLOZZO, CLAIR AMELIA BORTOLOZZO e CLAUDENIR BORTOLOZZO objetivando a concessão de efeito suspensivo ao agravo em recurso especial interposto, em trâmite perante o Tribunal de Justiça do Estado de São Paulo/SP.
+Esclarecem que na ação de imissão de posse ajuizada por FMC QUÍMICA DO BRASIL LTDA arguiram a nulidade do negócio jurídico ante a vedação legal de agente estrangeiro adquirir imóvel rural no país.
+Noticiam que, indeferido o pedido, interpuseram, agravo de instrumento, cujo provimento foi negado ante a preclusão para se alegar a incompetência e a retroatividade da Lei nº 13.986/20.
+Informam terem manejado recurso especial, por (1) dissídio jurisprudencial e violação dos arts. 7º, 9º, 10º, 43, 47, caput, §§ 1º e 2º, 64, §1º, 506 e 507, todos do CPC/15, por não ser aplicável a preclusão pelo fato de não terem participado do agravo de instrumento julgou a questão da competência, assim como por se tratar de matéria de ordem pública, de nulidade absoluta; e, (2) ofensa aos arts. 1º, §1º e 15, da Lei 5.709/71 (redação original); 166, IV e VII, 168 e 169, CC/02 e 313, V, "a", do CPC, diante da irretroatividade da Lei 13.986/20, assim como pela impossibilidade de convalidação de negócio jurídico nulo, ressaltando que o feito deveria ser suspendo por estar em julgamento perante o Supremo Tribunal Federal questão sobre a constitucionalidade da Lei nº 5.709/71.
+Enfatizam que a ação de imissão de posse retomou seu prosseguimento, com o encerramento da fase probatória e próximo de ser sentenciado.
+Ressaltam que em caso de procedência do pedido, a imissão de posse poderá concretizar.
+É o relatório.
+A concessão de tutela antecipada se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Compulsando os autos, verifico que não foi proferida decisão ou realizados atos de imissão na posse do imóvel objeto da lide. Observo, também, que a ação de imissão de posse ainda está na fase probatória (e-STJ, fl. 493), ou seja, sem título judicial apto para cumprimento.
+Ainda, os Requerentes apresentaram decisão proferida pelo Supremo Tribunal Federal na ADPF nº 342/DF e ACO nº 2.463/DF, determinando a suspensão de todos os processos judiciais, em trâmite no território nacional, que versem sobre a validade do § 1º do art. 1º da Lei nº 5.709, de1971, até o julgamento final destas ações. (e-STJ, fl. 24)
+Dessa forma, em uma análise perfunctória, própria das liminares, não antevejo, primo ictu oculi, o alegado periculum in mora, pressuposto indispensável à concessão da medida urgente.
+Pelo exposto, com fundamento no art. 34, XVIII, "a", primeira parte, do RISTJ, INDEFIRO o pedido.
+Por oportuno, previno a parte de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. intimem-se.
