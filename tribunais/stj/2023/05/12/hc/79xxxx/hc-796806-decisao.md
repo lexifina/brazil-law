@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 22):
+AGRAVO EM EXECUÇÃO. FALTA GRAVE. FUGA. IMPOSIÇÃO DAS PUNIÇÕES DA REGRESSÃO DE REGIME E ALTERAÇÃO DA DATA-BASE. MANTIDAS.
+Correta a decisão em considerar o ato do apenado, ausência do serviço externo e, portanto, uma fuga, como uma falta grave e, em consequência, aplicar as punições legais da regressão do regime prisional e da alteração da data-base. No sentido citado é o entendimento desta Câmara e do Superior Tribunal de Justiça, a Corte responsável pela interpretação da legislação federal. Punições que são mantidas.
+Agravo desprovido.
+Consta dos autos que o juízo da execução reconheceu a prática de falta grave pelo paciente, regredindo o regime prisional para o fechado e alterando a data-base para o dia do fato. Interposto agravo em execução, restou improvido. Opostos embargos de declaração, foram rejeitados.
+No presente habeas corpus, a defesa sustenta que os acórdão proferidos pelo Tribunal a quo carecem de fundamentação idônea.
+Sustenta a atipicidade da conduta imputada a título de falta grave, pois não prevista no rol taxativo do art. 50 da LEP, aduzindo desproporcionalidade em tal enquadramento.
+Afirma que "as medidas impostas - regressão de regime e alteração da data-base - além de desproporcional ao fato, não foram lastreadas em substrato probatório robusto pela acusação para configurar de fato a fuga" (fl. 16).
+Requer, liminarmente e no mérito, a concessão da ordem, "para que seja reconhecida a atipicidade da falta grave reconhecida bem como o afastamento do entendimento de fuga, com o consequente afastamento da falta grave reconhecida, bem como restaurar a data-base do apenado e o retorno para o regime de origem, ou seja, regime semiaberto" (fl. 21).
+Indeferida a liminar e prestadas as informações. O Ministério Público Federal se manifestou pela denegação da ordem.
+O acórdão impetrado restou assim fundamentado (fls. 24-25):
+ ..  Pelo que se vê dos autos, a situação em julgamento caracterizou a falta grave da fuga. Ocorre que o apenado não foi encontrado em seu serviço no momento da fiscalização.
+Corretamente, decidiu o julgador:
+"Quanto ao fato ocorrido em 23/11/21, oportunidade em que o apenado não estava na sede do serviço quando da fiscalização, conquanto tenha sido justificada a ausência por teu ido "fazer troco" em um posto de gasolina, o fato é que há expressa vedação para a saída do local do trabalho sem prévia autorização judicial ou da casa prisional, ou seja, os empregadores, independentemente da situação, não podem solicitar que o empregado, na condição de preso, saia da sede da empresa, sob pena de configurar violação das condições impostas ao serviço externo. Importante destacar, ainda, que tanto o apenado quanto o empregador são advertidos das condições, não sendo tolerável alegar desconhecimento.
+"Ademais, tal vedação é imposta a fim de que se possa ter efetivo controle das atividades extramuros praticadas pelos apenados, sendo imperiosa sua observação, sob pena de evidente prejuízo ao controle estatal, colocando em risco não só o correto cumprimento da pena, mas também a sociedade em geral.
+"Portanto, fica evidenciada sua incapacidade de respeitar as regras impostas no sistema carcerário, tornando-se necessária a aplicação da sanção respectiva.".
+Portanto, como afirmado na decisão, a justificativa apresentada pelo apenado não lhe favorece, e até nem sei se foi isto que aconteceu. Afinal, ele tinha conhecimento das regras impostas ao serviço externo. Somente poderia sair com autorização, o que não aconteceu.
+As punições aplicadas, regressão do regime prisional e alteração da data-base, estão corretas, pois a falta cometida foi a da fuga, ou seja, uma falta grave. No sentido são as posições da Câmara e do Superior Tribunal de Justiça - a Corte responsável pela interpretação da lei federal e pela uniformização na sua aplicação - quando confirmam a legalidade da regressão de regime prisional e da alteração da data-base, quando, como no caso em tela, o apenado pratica uma falta grave.
+3. Assim, nos termos supra, voto por negar provimento ao agravo.
+Conforme o acórdão impetrado, por ocasião da fiscalização, o reeducando não se encontrava em seu local de trabalho, razão pela qual o juízo da execução reconheceu a prática de falta grave, regredindo o regime prisional para o fechado e alterando a data-base para o dia do fato.
+Em que pesem as alegações da defesa - e independentemente da motivação arguida pelo reeducando para a ausência, ainda que momentânea, do local de trabalho, conforme alegado -, o entendimento das instâncias de origem harmoniza-se com a jurisprudência desta Corte, conforme se depreende do seguinte julgado:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA NO TRABALHO EXTERNO SEM AUTORIZAÇÃO JUDICIAL. CONFIGURAÇÃO. REGRESSÃO DE REGIME. QUESTÃO PREJUDICADA. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. POSSIBILIDADE. GRAVIDADE DA FALTA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Consoante art. 50, VI, c/c art. 39, V, da LEP, pratica falta grave o reeducando que se ausenta do trabalho externo sem autorização judicial.
+III - São consectários do reconhe cimento da prática de falta grave a regressão do regime prisional, bem como a perda dos dias remidos, nos termos dos arts. 118 e 127 da LEP.
+IV - A insurgência contra a regressão de regime perdeu o objeto diante da unificação de pena fixada em novo título executivo, que determinou o cumprimento do quantum total no modo fechado. V - A natureza grave da falta e o comportamento recalcitrante do apenado, que reitera na prática de faltas disciplinares, fundamenta a perda dos dias remidos na fração máxima (art. 57, da LEP).
+Habeas corpus não conhecido.
+(HC n. 459.205/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 2/10/2018, DJe de 8/10/2018.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
