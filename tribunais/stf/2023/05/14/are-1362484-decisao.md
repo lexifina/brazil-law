@@ -1,0 +1,37 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. TEMA RG Nº 1.244. CONTROVÉRSIA IDÊNTICA. PARÁGRAFO ÚNICO DO ART. 328 DO RISTF: DEVOLUÇÃO À ORIGEM.
+
+    1. Trata-se de agravo contra decisão negativa de admissibilidade de recurso extraordinário interposto em face de acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+
+    “EMBARGOS À EXECUÇÃO FISCAL. CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DESÃO PAULO. ANUIDADES DE 2012 E 2013. PRESCRIÇÃO. AFASTADA. ALEGAÇÃO DENULIDADE DOS TÍTULOS EXECUTIVOS EM RELAÇÃO À COBRANÇA DAS ANUIDADES.AFASTADA. FIXAÇÃO DA MULTA EM SALÁRIOS MÍNIMOS. POSSIBILIDADE. MULTA. VALOR APLICADO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE MOTIVAÇÃO. REDUÇÃO. HONORÁRIOS ADVOCATÍCIOS. APELAÇÃO DESPROVIDA. RECURSO DE APELAÇÃO ADESIVO, PARCIALMENTE PROVIDO.
+
+    1. Trata-se de embargos à execução fiscal, opostos contra o Conselho Regional de Farmácia do Estado de São Paulo, para afastar a cobrança das anuidades de 2012, 2013, 2014, 2015, 2016 e2017, bem como as multas previstas no art. 24, parágrafo único, da Lei 3.820/60 c\c artigos 5º e 6º, da Lei nº 13.021/2014 (CDA's, ID de n.º 9241446, páginas 02-09, do processo de execução fiscal de n.º 5002381-93.2018.4.03.6126).
+
+    2. O artigo 8º da Lei nº 12.514, de 28 de outubro de 2011, que dispôs sobre as contribuições devidas aos conselhos profissionais em geral, estabelece, : "Os Conselhos não executarão judicialmente dívidas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente. Parágrafo único. O disposto no caput não limitará a realização de medidas administrativas de cobrança, a aplicação de sanções por violação da ética ou a suspensão do exercício profissional". O referido diploma legal, que regularizou aquestão relativa à cobrança de anuidades pelos Conselhos Profissionais, dispõe como limitação à execução fiscal dos débitos a necessidade de que o valor cobrado corresponda a, pelo menos, o valor da soma de 4 (quatro) anuidades. Considerando a limitação de valor mínimo para fins de execução nos termos do art. 8º da Lei nº 12.514/11 para o ajuizamento da execução, o prazo prescricional dever ter início somente quando o crédito se tornar exequível, ou seja, quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o valor mínimo exigido pela norma. Assim, em relação às anuidades previstas para os anos de 2012 e 2013, o termo inicial para a cobrança não são os vencimentos previstos para 07/04/2012 e 07/04/2013 (CDA's,ID de n.º 9241446, páginas 02-03, do processo de execução fiscal de n.º5002381-93.2018.4.03.6126), mas, sim a partir do momento que o crédito se tornou exequível, ou seja, no caso dos autos, a partir da cobrança da anuidade prevista para o ano de 2015 (precedente deste Tribunal).
+
+    3. Com relação às Certidões de Inscrição em Dívida Ativa, objeto da execução fiscal de n.º 5002381-93.2018.4.03.6126 (CDA's, ID de n.º 9241446, páginas 02-09, do citado processo), não se observa qualquer nulidade, uma vez que as mesmas contêm todos os elementos previstos no artigo 2º, § 5º, da Lei nº 6.830/1980, para efeito de viabilizar a execução intentada. No caso dos autos, especificamente em relação às anuidades previstas para 2012, 2013, 2014, 2015, 2016 e 2017, verifica-se que as CDA's estão devidamente fundamentadas nos seguintes dispositivos legais: artigo 22 da Lei nº 3.820/1960; artigo 36, § 2º, da Lei nº 5.991/1973; artigo 5º da Lei nº 12.514/2011; artigo 5º da Lei nº 13.021/2014; e, artigo 969 do Código Civil. Assim, tendo os títulos executivos que embasam a execução fiscal, indicado como dispositivo legal para a cobrança das anuidades o artigo 22 da Lei nº 3.820/60 e a Lei nº 12.514/2011, que fixou os limites máximos das anuidades e estipulou o parâmetro para a atualização monetária a ser aplicada na sua cobrança,constata-se que foram observados os requisitos previstos artigo 2º, §5º, inciso III, da Lei nº 6.830/80, não havendo qualquer ofensa ao princípio da legalidade.
+
+    4. A fixação da multa em salários mínimos é admissível, nos termos da Lei Federal nº 5.724/71,combinada com a Lei Federal nº 3.820/60. Ademais, não é aplicável às multas administrativas a Lei Federal nº 6.205/75, que proibiu a utilização do salário-mínimo como indexador, pois estas constituem sanções pecuniárias e não fator inflacionário (precedentes do STJ e deste Tribunal).
+
+    5. O valor da multa deve ser fixado de acordo com os limites estabelecidos no art. 1º, da Lei nº 5.724, de 1971, ou seja, de 1 (um) a 3 (três) salários mínimos e, até 6 (seis) salários mínimos, em caso de reincidência. No caso dos autos, o Conselho Regional de Farmácia, ao aplicar a multa, não obstante fixada nos termos do artigo 24, parágrafo único, da Lei nº 3.820/60, a arbitrou acimado mínimo legal, sem, entretanto, ter fundamentado tal procedimento. Assim, ausente a motivação por parte do Conselho embargado, deve o valor da multa ser reduzido ao mínimo previsto no art. 1º da Lei n.º 5.724/71, que atualizou o valor das multas previstas no parágrafo único do art. 24 e no inciso II do art. 30 da Lei n.º 3.820/60, merece reparos a sentença neste ponto (precedentes deste Tribunal).
+
+    6. Considerando a redução do valor da multa aplicada, fixo a condenação em honorários advocatícios em 10 % (dez por cento) sobre o valor dado a causa na execução fiscal, a serem proporcionalmente distribuídos entre as partes, conforme o disposto no art. 86, , do Código de Processo Civil.
+
+    7. Recurso de apelação interposto pela Drogaria São Paulo S.A., desprovido. Recurso de apelação adesivo interposto pelo Conselho Regional de Farmácia do Estado de São Paulo -CRF/SP, parcialmente provido, para afastar a nulidade da cobrança das multas, reconhecida na sentença, porém, com a redução dos seus valores ao mínimo previsto no art. 1º da Lei n.º5.724/71.”
+
+    (e-doc. 10, p. 17-18).
+
+    2. No recurso extraordinário, interposto com fundamento na al. “a” do permissivo constitucional, a recorrente alega violação ao art. 7º, inc. IV, da Constituição da República. Sustenta a inconstitucionalidade da multa prevista no parágrafo único do art. 24 da Lei nº 3.820, de 1960, na redação dada pelo art. 1º da Lei nº 5.724, de 1971, pois fixada em múltiplos de salário-mínimo. Requer, assim, a reforma do acórdão recorrido (e-doc. 17).
+
+    3. O Plenário desta Corte, no exame do Recurso Extraordinário com Agravo nº 1.409.059-RG/SP, em julgamento virtual finalizado em 02/02/2023, manifestou-se pela existência de repercussão geral da matéria objeto do presente recurso, qual seja, a constitucionalidade da fixação de multa administrativa em múltiplos de salários mínimos, tendo em vista o disposto no art. 7º, inc. IV, da CRFB.
+
+    4. Ante o exposto, aplicando a parte final do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal — Quando se verificar subida ou distribuição de múltiplos recursos com fundamento em idêntica controvérsia, a Presidência do Tribunal ou o(a) Relator(a) selecionará um ou mais representativos da questão e determinará a devolução dos demais aos tribunais ou turmas de juizado especial de origem, para aplicação dos parágrafos do art. 543-B do Código de Processo Civil —, determino a devolução do processo ao Tribunal de origem.
+
+    Publique-se.
+
+    Brasília, 14 de maio de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
