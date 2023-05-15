@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de embargos de declaração opostos por UNICERÂMICA INDÚSTRIA E COMÉRCIO DE PRODUTOS CERÂMICOS LTDA e OUTROS contra acórdão desta colenda Quarta Turma, assim ementado (e-STJ, fl. 602):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. ANÁLISE DE VIOLAÇÃO DE NORMA CONSTITUCIONAL. IMPOSSIBILIDADE. TABELA PRICE. CAPITALIZAÇÃO DE JUROS. PREVISÃO CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal, como no caso dos autos, é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Precedentes.
+3. A Corte Especial do STJ, no julgamento do REsp 1.124.552/RS, submetido à sistemática dos recursos repetitivos (CPC/1973, art. 543-C), consolidou o entendimento de que "A análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 03/12/2014, DJe de 02/02/2015). Incidência das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento."
+Em suas razões, a parte embargante aponta que o acórdão recorrido foi omisso e obscuro por ausência de fundamentação para confirmar a decisão unipessoal que negou provimento ao agravo em recurso especial, tendo-se limitado a transcrever a decisão recorrida, deixando de rechaçar as teses arguidas pelas partes sem apresentar fundamento próprio.
+Intimado, o embargado não apresentou impugnação (e-STJ, fl. 626).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): O recurso não merece prosperar.
+Com efeito, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+A parte embargante alega que o acórdão recorrido foi omisso e obscuro por ausência de fundamentação para confirmar a decisão unipessoal que negou provimento ao agravo em recurso especial, tendo-se limitado a transcrever a decisão recorrida, deixando de rechaçar as teses arguidas pelas partes sem apresentar fundamento próprio.
+Ocorre que, conforme a jurisprudência do STJ, "Ocorrendo a manutenção dos fundamentos que serviram de base para a decisão monocrática ou venha o recorrente a suscitar fundamentos insuficientes para mitigar as razões de decidir já explicitadas pelo julgador monocrático, apresenta-se válida a reprodução dos argumentos anteriormente expendidos, não estando caracterizada a inobservância do art. 1.021, § 3º, do CPC/2015" (AREsp 1.020.939/RS, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe de 13/05/2019).
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. "Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. (..
+.) caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador, não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática". (EDcl no AgInt nos EDcl no REsp 1432342/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017) 3. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1.889.349/RJ, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/3/2022, DJe de 1º/4/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, "inexiste nulidade processual quando ausente prejuízo às partes, (pas de nulitté sans grief) em observância ao princípio da instrumentalidade das formas no âmbito do direito processual" (AgInt no AREsp 1138899/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/11/2019, DJe 22/11/2019). 2.1. "A vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgInt no RE nos EDcl no AgInt nos EDcl no REsp 1705978/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/09/2019, DJe 13/09/2019).
+3. Na hipótese, o aresto recorrido encontra apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência da Súmula 83/STJ.
+4. Para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1.432.580/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/3/2022, DJe de 31/3/2022)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.021, § 3º, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se na origem, de ação de execução de título extrajudicial.
+2. "Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior, sem trazer nenhum argumento novo - ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador - não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática" (EDcl no AgInt no AREsp 1.411.214/MG, 3ª Turma, DJe 20/08/2019).
+3. Ausente decisão do Tribunal de origem acerca do mérito recursal, relativo à caracterização de fraude à execução, é inviável o conhecimento do tema por esta Corte, pois não satisfeito o requisito do prequestionamento. Súmula 282/STF.
+4. Ademais, eventual análise da questão demandaria a incursão na seara fático-probatória dos autos, o que, contudo, é vedado na estreita via do recurso especial (Súmula 7/TJ).
+5. Agravo interno não provido."
+(AgInt no AREsp 1.607.878/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/5/2020, DJe de 13/5/2020)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. NULIDADE DO ACÓRDÃO. TODOS OS ARGUMENTOS FORAM ANALISADOS DE FORMA CLARA E FUNDAMENTADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior sem trazer nenhum argumento novo - ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador - não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática.
+3. Com relação à suposta ofensa ao art. 93, IX, da Constituição da República, é evidente a inadequação da via recursal eleita.
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt nos EDcl no AREsp 1.266.432/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe de 21/11/2019)
+No caso dos autos, os embargantes limitaram-se a suscitar no agravo interno fundamentos já refutados, sendo válida, portanto, a reprodução dos argumentos da decisão monocrática agravada.
+Assim, no caso em espécie, mostra-se nítido o propósito da parte embargante de rediscutir tema devidamente apreciado, embora desfavoravelmente à pretensão almejada, o que, contudo, não é cabível na via estreita dos embargos de declaração. A propósito:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO REGIMENTO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS PRIMEIROS ACLARATÓRIOS OPOSTOS. IRRESIGNAÇÃO DA REQUERIDA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC.
+2. No caso, não se constata o vício alegado pelo embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada referente à deserção da apelação interposta na origem, o que é incabível nos embargos declaratórios.
+3. Sob a égide do Código de Processo Civil de 1973, a jurisprudência desta Corte consolidou o entendimento de que a comprovação do recolhimento das custas processuais deve se dar no momento do protocolo do respectivo recurso, não cabendo posterior juntada de comprovante. Precedentes da Corte Especial e da Segunda Seção deste Tribunal.
+4. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgInt no AgRg no REsp 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe de 11/10/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. HONORÁRIOS RECURSAIS DEVIDOS. ART. 85, § 11, DO CPC/2015.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. No julgamento do EREsp n. 1.539.725/DF (DJe 19/10/2017), a SEGUNDA SEÇÃO concluiu que o Colegiado poderá arbitrar, no agravo interno, a verba honorária recursal omitida pelo relator por ocasião da decisão monocrática.
+4. Apesar de o agravo em recurso especial ter sido interposto na vigência do CPC/2015, a decisão que negou provimento ao referido recurso, bem como o acórdão que desproveu o respectivo agravo interno, permaneceram silentes a respeito da aplicação do art. 85, § 11, do referido diploma processual, o que permite a fixação de honorários recursais nesta etapa.
+5. Embargos de declaração rejeitados, com majoração dos honorários sucumbenciais."
+(EDcl no AgInt no AREsp 1.241.259/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2018, DJe de 27/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
