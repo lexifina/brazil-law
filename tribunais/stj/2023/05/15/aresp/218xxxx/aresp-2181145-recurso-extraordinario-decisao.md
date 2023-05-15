@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 208-220) interposto por PAULO ROBERTO CAVALCANTI DE ARAÚJO, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 197):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CONHECIMENTO DO RECURSO POR AUSÊNCIA DE PROCURAÇÃO DOS ADVOGADOS SUBSCRITORES DO APELO EXCEPCIONAL. SÚMULA 115/STJ. AGRAVO IMPROVIDO.
+1. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, sendo incabível a juntada posterior do instrumento procuratório, em razão da preclusão consumativa.
+2. Súmula n. 115/STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos."
+3. Cumpre observar o dever de vigilância da parte no traslado das peças formadoras do recurso especial, por ser ônus do agravante zelar pela completa formação do instrumento.
+4. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento".
+5. Agravo interno improvido.
+A parte recorrente, sem indicar a existência de repercussão geral da matéria debatida, alega a ocorrência de contrariedade, no acórdão recorrido, ao art. 5º, V, XXXIV, XXXV e LV, da Constituição Federal.
+Sustenta que (fl. 211):
+O ACÓRDÃO manteve a inadmissão do Resp por considerar que os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Gleidson da Silva Gonçalves.  ..
+Com todo o respeito devido, os fundamentos da inadmissão do Resp. são distintos ao que se expôs na decisão que da ilustre Ministra Presidente desta casa, assim, prejudicado o recurso, traz irresignação quanto aos fundamentos dispostos pelo Presidente do TJRJ para inadmissão do Recurso Especial, assim, trazendo a ilustre Ministra novos fundamentos fica cerceado o contraditório e a ampla defesa.
+Ademais, pelos próprios fundamentos do V. acordão, inaplicável o CPC de 73, pois a decisão agravada é de data próxima.
+Outrossim, a decisão de origem, que requer seja reformada, foi em sede de agravo, assim cabe a parte agravante, que hoje é a parte recorrida, instruir o agravo, sendo a juntada de procuração a sua obrigação, desta forma, se mantido este entendimento, deve o acordão em sede de agravo no TJRJ ser anulado, sendo declarada a deserção, a falta de preparo do agravo.
+Acrescenta que "o advogado que esta subscreve atua na causa desde o juízo de piso" (fl. 212), que a juntada de cópia da procuração não seria obrigatória, nos termos do art. 1.017, § 5º, do CPC, e que (fl. 212):
+ ..  antes de decretar o fim da pretensão, não só o advogado deve ser intimado via publicação no Diário da Justiça, assim como a parte deve ser intimada pessoalmente por carta com aviso de recebimento, nos termos do § 1º, do art. 485 do CPC, para suprir a falta em 5 (cinco) dias.
+Afirma que a matéria em discussão seria exclusivamente de direito e, no mais, repete as razões do recurso especial, aduzindo que o agravo de instrumento interposto pela parte recorrida perante a Corte e stadual seria intempestivo, sem regular preparo e pretenderia "modificar sentença transitada em julgado, sentença terminativa para o agravado" (fls. 215 e 219), defeitos que deveriam ser reconhecidos de ofício.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 226).
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque foi mantida a conclusão pelo não conhecimento do agravo em recurso especial, em face do óbice da Súmula n. 115/STJ, haja vista a irregularidade da representação processual.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
