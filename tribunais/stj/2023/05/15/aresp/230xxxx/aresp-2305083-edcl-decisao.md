@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DANIEL REIS PINHEIRO à decisão de fls. 543/544, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Dessa maneira, a parte embargante interpôs Agravo de Instrumento, com intuito de reformar a decisão proferida pelo Juiz de 1º grau, para arbitrar os honorários de sucumbência (art. 85, §4º, II do CPC), bem como, os honorários da fase de cumprimento de sentença (85, §7º do CPC).
+Ocorre que, o Desembargador-Relator proferiu decisão monocrática (ID nº17952673), negando seguimento ao Recurso sob o fundamento de que o juiz de 1º grau fez a retratação dos honorários de sucumbência (art. 85, §4º, II do CPC) assim o recurso estaria prejudicado.
+Desse modo, a parte opôs Embargos de Declaração (ID nº18006099) informando que o recurso não estava prejudicado, pois ainda havia objetos a serem discutidos, os quais são: honorários da fase de cumprimento de sentença (85, §7º do CPC) e o pagamento da contribuição previdenciária.
+Entretanto, o Desembargador-Relator proferiu novamente uma decisão monocrática (ID nº 18028530) rejeitando os Embargos de Declaração sob o fundamento de que não houve impugnação específica da decisão, assim, não apresentou o recurso Câmara Cível.
+Dessa maneira, razão da rejeição dos Embargos de Declaração, a parte embargante interpôs o Recurso de Agravo Interno (ID nº18957829) informando que, ainda havia dois objetos a serem discutidos e que esses objetos não foram discutidos e, portanto, a decisão deveria ser reformada para informar o arbitramento ou não dos honorários da fase de cumprimento de sentença.
+No julgamento do Agravo Interno o Desembargor-Relator profere decisão monocrática (ID nº 18984926) negando seguimento do Agravo Interno e deixando de apresentar a câmara cível.
+Nesse sentido, após as decisões negando seguimento aos recursos cabíveis da parte embargante, o único recurso cabível contra decisão que negava seguimento ao Agravo Interno, era o Recurso Especial (ID nº 19669966), tendo sido, peticionado tempestivamente (fls. 548/549).
+Alega ainda:
+É necessário destacar que, o MM Juiz fez a retratação em relação aos honorários de sucumbência, todavia, foi omisso em relação aos honorários da fase de cumprimento de sentença, razão pela qual o Agravo de Instrumento não pode ser julgado prejudicado, pois ainda há dois objetos que não foram discutidos e decididos, a) honorários da fase de cumprimento de sentença, b) pagamento da contribuição previdenciária, assim, a decisão monocrática proferida julgando prejudicado, não merece prosperar, tendo em vista que ainda há objetos a serem discutidos.
+Por esse motivo, não restando alternativa, a não ser fazer o agravo de instrumento para que fossem reparadas as devidas omissões, quais sejam: o arbitramento honorário na fase de cumprimento de sentença e o pagamento da contribuição previdenciária.
+De acordo com no artigo 85, §7º do CPC: "Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada".
+Ocorre que tal situação aplica-se somente se a obrigação será satisfeita mediante precatório, diferentemente, se a obrigação for satisfeita mediante obrigação de pequeno valor, haverá a incidência de honorários de cumprimento de sentença, havendo impugnação ou não na execução (fls. 551/552).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanada a obscuridade apontada.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+Confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 1571531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/5/2020; AgInt no AREsp 879.030/RO, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/5/2020; e AgInt no AREsp 1591427/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020.
+A parte interpôs recurso especial diretamente contra decisões monocráticas, sem o necessário exaurimento de instância.
+No mais, observe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
