@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por DARCI RODRIGUES DE SOUZA, contra suposta omissão do Ministro da Economia.
+Afirma que foi reconhecido como anistiado político pela Portaria MJ n. 1.922/2015 sendo-lhe concedido a título de reparação econômica uma prestação mensal, permanente e continuada, além do valor de R$ 1.348.704,42 decorrente de recebimentos atrasados.
+A Portaria MJ n. 1.922 acostada à fl. 14 informa que o impetrante foi reconhecido como anistiado político no posto de Capitão.
+Conforme dispõe o parágrafo único, do art. 18, da Lei n. 10.559/2002, compete ao Ministro de Estado da Defesa o pagamento das reparações econômicas decorrentes de anistia concedida aos militares.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR. MARINHA. PAGAMENTO DE REPARAÇÃO ECONÔMICA RETROATIVA. CABIMENTO. ATO OMISSIVO CONTINUADO. DECADÊNCIA. NÃO CONFIGURAÇÃO. DESCUMPRIMENTO DO PRAZO, PREVISTO NA LEI 10.559/2002, PARA PAGAMENTO DA REPARAÇÃO ECONÔMICA. PREVISÃO DOS RECURSOS, MEDIANTE RUBRICA PRÓPRIA, NAS LEIS ORÇAMENTÁRIAS. OMISSÃO CONFIGURADA. PRECEDENTES DO STJ E DO STF, EM REGIME DE REPERCUSSÃO GERAL (RE 553.710/DF). DIREITO LÍQUIDO E CERTO AO INTEGRAL CUMPRIMENTO DA PORTARIA ANISTIADORA, ENQUANTO NÃO CASSADA OU REVOGADA. CORREÇÃO MONETÁRIA E JUROS DE MORA. COBRANÇA EM VIA PRÓPRIA. SÚMULAS 269 E 271 DO STF. PRECEDENTES DA PRIMEIRA SEÇÃO DO STJ. SEGURANÇA PARCIALMENTE CONCEDIDA.
+I. A questão controvertida diz respeito à possibilidade de o impetrante, na condição de militar anistiado, perceber reparação econômica retroativa, em parcela única, que não teria sido paga, diante da inércia do impetrado, de sorte que a Portaria anistiadora não teria sido integralmente cumprida.
+II. Segundo a jurisprudência do STJ, ainda que tenha delegado o poder, é patente a legitimidade passiva do Ministro de Estado da Defesa para realizar pagamentos das reparações econômicas concedidas pelo Ministro da Justiça a anistiados políticos, pois dele é a competência legal para determinar esses pagamentos, conforme se verifica do disposto no art. 18, parágrafo único, da Lei 10.559/2002 (STJ, MS 16.707/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 06/03/2012).
+(..)
+(MS n. 21.080/DF, relator Ministro Napoleão Nunes Maia Filho, relatora para acórdão Ministra Assusete Magalhães, Primeira Seção, julgado em 24/10/2018, DJe de 6/2/2019-grifei)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. PROCEDIMENTO ADMINISTRATIVO DE REVISÃO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA. PARCIAL CONCESSÃO DA ORDEM.
+1. O Ministro de Estado da Defesa é competente para realizar pagamentos das reparações econômicas concedidas pelo Ministério da Justiça relativas à anistia política para militares, nos termos do art. 18 da Lei 10.599/2002, tendo legitimidade para figurar como autoridade impetrada no Mandado de Segurança em que se pleiteia o recebimento das parcelas pretéritas.
+(..)
+(MS n. 23.754/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 22/11/2017, DJe de 19/12/2017.-grifei)
+ADMINISTRATIVO E PROCESSO CIVIL. MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR. CABO DA AERONÁUTICA. INDENIZAÇÃO. PAGAMENTO. VALORES RETROATIVOS. PRELIMINARES REJEITADAS. MATÉRIA PACIFICADA NA PRIMEIRA SEÇÃO DO STJ. QUESTÃO DE ORDEM. RESSALVADA.
+1. Mandado de segurança impetrado por cabo da aeronáutica, anistiado político, no qual se postula o cumprimento integral de Portaria do Ministro de Estado da Justiça, na qual se fixou o direito à percepção de valores retroativos.
+2. Preliminar de inadequação da via eleita. O descumprimento da totalidade da Portaria Ministerial evidencia uma lacuna em fazer por parte da autoridade impetrada. Assim, não atrai o óbice das Súmulas 269 e 271 do STF, nem traduz que o writ está sendo usado como ação de cobrança. Preliminar rejeitada.
+(..)
+Segurança concedida com ressalvas.
+(MS n. 22.509/DF, relator Ministro Humberto Martins, Primeira Seção, julgado em 24/8/2016, DJe de 30/8/2016.-grifei)
+Ante o exposto, determino a parte impetrante que emende a petição inicial, para a correta indicação da autoridade coatora. Após, solicitem-se as informações ao Ministro de Estado da Defesa, no prazo legal, conforme art. 7º, I, da Lei n. 12.016/09.
+Publique-se. Intimem-se.
