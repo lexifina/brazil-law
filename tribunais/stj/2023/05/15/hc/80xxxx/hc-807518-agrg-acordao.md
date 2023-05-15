@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JACKSON RODRIGUES DA ROSA agrava da decisão de fls. 222-223, em que indeferi liminarmente o habeas corpus, dada a inadequação da via eleita para o pleito.
+Para tanto, assere que "o ordenamento jurídico pátrio não prevê qualquer limite à possibilidade de impetração do habeas corpus. Assim sendo, não pode o julgador estabelecer requisitos para o ajuizamento do writ que a legislação não impõe, sob pena de usurpação dos poderes conferidos ao legislador constituinte" (fls. 235-236).
+Requer, assim, "seja submetido o presente Agravo à nobre Turma deste Superior Tribunal de Justiça, para julgamento e provimento do recurso, a fim de que seja reformada a decisão agravada" (fl. 236).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO HABEAS CORPUS. LAPSO PARA INTERPOSIÇÃO DO RESPECTIVO RECURSO ESPECIAL AINDA EM CURSO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. OPORTUNIDADE DE MANEJO DA VIA ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, o agravante alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 5001999-59.2022.8.24.0042, em que foi mantida sua condenação "ao cumprimento da pena privativa de liberdade de 1 (um) ano de reclusão, em regime inicial semiaberto, além do pagamento de 10 (dez) dias-multa, fixados no mínimo legal, por infração ao art. 155, caput, do Código Penal" (fl. 49).
+Requereu a defesa à Corte de origem "a absolvição, com fundamento na aplicação dos princípios da insignificância e in dubio pro reo, sustentando inexistir "qualquer elemento idôneo a comprovar o valor do bem furtado", bem como que a vítima não teve prejuízo, porquanto o objeto subtraído foi a ela restituído no mesmo dia" (fl. 49).
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Todavia, em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que o recurso foi julgado em 23/2/2023, de modo que ainda está em curso o prazo para que a Defensoria Pública do Estado de Santa Catarina interponha o respectivo recurso especial, de modo que fica evidenciada a impossibilidade de análise do pleito aqui deduzido.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nego provimento ao recurso.
