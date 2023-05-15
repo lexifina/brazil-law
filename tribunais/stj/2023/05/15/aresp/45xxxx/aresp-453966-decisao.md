@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto por TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS VIII S.A. contra  decisão  que  inadmitiu  o  recurso  especial  sob  os  seguintes  fundamentos:  (a)  inviabilidade do exame de ofensa a norma constitucional,  e  (b)  aplicação  das  Súmulas  n. 7 e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fls. 1.596/1.597):
+APELAÇÃO. AÇÃO REVISIONAL CONTRATO DE CONFISSÃO DE DÍVIDAS E ADITIVOS. CUMPRIMENTO DE SENTENÇA. SIMPLES CÁLCULO ARITMÉTICO. INADMISSIBILIDADE. LIQUIDAÇÃO POR ARBITRAMENTO. NECESSIDADE DE REVISÃO DE CONTRATOS E LANÇAMENTOS. NATUREZA DO OBJETO DA LIQUIDAÇÃO COMPLEXA. PERÍCIA. NECESSIDADE. ENTENDIMENTO DO ART. 475, INCS. I E II DO CPC. EXIGÊNCIA PARA APRECIAR O OBJETO DA DEMANDA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. MATÉRIA CONHECIDA DE OFÍCIO. DESNECESSIDADE DE ESTAR SEGURO O JUÍZO. PARTE ILÍQUIDA DA SENTENÇA. PENHORA SEM ANTES TORNAR O TÍTULO EXIGÍVEL POR MEIO DA LIQUIDAÇÃO DE SENTENÇA, É MEDIDA EXCESSIVAMENTE ONEROSA AO DEVEDOR, NOTADAMENTE QUANDO A PARTE LÍQUIDA JÁ FOI LEVANTADA PELO CREDOR. (STJ-3aT.REsp 758.275/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 27/03/2006 p. 270) PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA NÃO VERIFICADA. INTERRUPÇÃO. ENTENDIMENTO DO ART. 202, I, CC (ART.172, I E IV, CC/16). LITIGÂNCIA DE MÁ FÉ AFASTADA. AUSÊNCIA DOS REQUISITOS CONTEMPLADOS NO ART. 17. CPC. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. CABIMENTO. MAJORAÇÃO ACOLHIDA. PREQUESTIONAMENTOS. MATÉRIA DEVIDAMENTE TRATADA. RECURSO DO BANCO NÃO PROVIDO, PARCIALMENTE PROVIDO O OFERTADO PELOS AUTORES. RECURSO ADESIVO NÃO CONHECIDO. RECURSO ADESIVO. PARTE QUE PROPÔS RECURSO AUTÔNOMO NÃO PODE RECORRER ADESIVAMENTE. NÃO CONHECIDO.
+Os dois embargos de declaração opostos foram rejeitados (e-STJ fls. 1.631/1.637 e 1.654/1.668).
+No  recurso  especial  (e-STJ  fls.  1.781/1.794),  fundamentado no  art.  105,  III,  "a" e "c" ,  da  CF,  a parte  recorrente  apontou  ofensa  aos  arts.  20, §§ 3º e 4º, 244, 250, 458, II, 475-B, caput e § 3º, 655 e 655-A do CPC/1973 e 93, IX, da CF.
+A  insurgência  cuidou  dos  seguintes  pontos:  (a)  falta de fundamentação do acórdão, (b) desnecessidade de liquidação da sentença, pois o valor da condenação pode ser apurado por simples cálculo aritmético, e (c) indevida majoração da verba honorária.
+Foram  apresentadas  contrarrazões  e contraminuta  (e-STJ  fls. 1.809/1.832 e 2.190/2.202).
+No  agravo  (e-STJ  fls.  2.136/1.153),  afirma  a  presença  de  todos  os  requisitos  de  admissibilidade  do  especial.
+É o relatório.
+Decido.
+O agravo e o recurso especial foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Correta a decisão de inadmissibilidade do especial.
+Não é viável apreciar, em recurso especial, a tese de existência de violação de dispositivo constitucional, sob pena de usurp ação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 93, IX, da CF.
+Quanto à suposta violação do art. 458, II, do CPC/1973, não assiste razão à parte recorrente, pois o Tribunal de origem pronunciou-se de forma clara e fundamentada acerca da imprescindibilidade da liquidação do julgado exequendo, bem como sobre necessidade de majoração da verba honorária. Confira-se (e-STJ fls. 1.609/1.618):
+(..)
+Quanto ao mérito, necessário se faz obedecer o comando da sentença. Esta determinou fosse o quantum debeatur liquidado, fls. 437 a 450 e 459 a 461, o que resultou confirmado pelo V. Acórdão 19965, proferido pela Sétima Câmara Cível do Tribunal de Justiça do Paraná, a Apelação Cível 169.126-5, fls. 706 a 714.
+Reconheceu a sentença a existência de contratos aditivos ao de confissão de dividas, e, por outro lado, os autores provaram a existência de pagamentos, não impugnado pelo apelante. Há, portanto, lançamentos na conta corrente dos autores referente a débitos e créditos, devendo cada um dos contratos ser examinado e depurado conforme o comando judicial.
+A sentença julgou procedente o pedido de revisão de contrato, fls. 437 a 450, extirpando destes as cláusulas abusivas, apresentando parâmetros a serem aplicados em todos os contratos, o que deve ser apurado na fase da respectiva liquidação. Determinou a sentença que "o valor da divida seja revisado a partir da escritura pública de confissão de dívida datada de 25 de abril de 1991, recalculando-se o valor do débito originário de Cr 225.770.053,45.." cujos cálculos serão "realizados na fase de liquidação com base nos parâmetros fixados na sentença", f 1.460.
+Há, portanto, necessidade de liquidação da sentença por arbitramento para haver o respectivo cumprimento.
+(..)
+No que tange à fixação da verba honorária, no caso, diante da relevância da questão e da abrangência econômica, há que ponderar o seu valor, adequando-o á hipótese dos autos.
+O valor do pedido executório da sentença, com se vê às 935, atingiu a importância de R$ 8.180.144,66. A sentença fixou a verba honorária em R$ 5.000,00, o que representa 0,06% sobre o referido valor.
+Considere-se, primeiramente, que é admissível a "imposição da verba honorária em cumprimento da sentença. Neste sentido o Superior Tribunal de Justiça se pronunciou nos seguintes REsp 1.050.435 -SP, sendo relator o Min. Sidnei Beneti e também REsp 978.545 -MG DJU 01/04/2008 ).
+(..)
+Admite-se, portanto, em cumprimento da sentença, a condenação ao pagamento da verba honorária.
+Apoiada no art.20, §§ 1º e 4º do CPC, a sentença fixou a verba honorária em R$ 5.000,00 ( cinco mil reais), ou seja, pretendeu utilizar-se do critério de eqüidade fl. 1177. A sentença, contudo, não trouxe o conceito de eqüidade para sua fundamentação.
+O valor equivale a 0,06% daquele atribuído à execução - cumprimento da sentença -, o que configura verba irrisória.
+(..)
+Por outro lado, considerando o conteúdo econômico da causa, há que se fixar a verba honorária pelo critério de equidade. Por este caminho, não está vedada a fixação abaixo do que prevê o §3º do art. 20, CPC, apesar do princípio da isonomia. Considere-se também que os patronos dos autores se obrigaram a acompanhar o processo em grau de recurso o que lhe impôs trabalho mais intenso e mais amplo tempo neste despendido, demonstrando zelo profissional: Por estas razões, entende-se que a percentagem de 1,5% ( um vírgula cinco) sobre o valor do pedido do cumprimento da sentença configura-se equitativo e atende à legislação específica, denotando justa remuneração do trabalho profissional.
+Vota-se no sentido de dar parcial provimento ao recurso dos autores da Ação Revisional para elevar a verba honorária a 1,5% ( um vírgula cinco por cento) sobre o valor do cumprimento da sentença, incidindo o previsto na Súmula 14 do STJ.
+Ressalte-se que o fato de o acórdão recorrido ter decidido de forma contrária ao interesse da parte não configura contradição, obscuridade, omissão ou negativa de prestação jurisdicional.
+De outro lado, para afastar as conclusões anteriormente transcritas, a fim de concluir que o caso concreto não exige a liquidação do julgado, seria necessário o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Por fim, sob a vigência do CPC/1973, aplicável ao caso, esta Corte pacificou o entendimento segundo o qual, em regra, o reexame do valor dos honorários advocatícios arbitrados pelo Tribunal de origem por equidade encontra óbice na Súmula n. 7/STJ, pois demanda o revolvimento de matéria fática.
+Apenas em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a quantia fixada, é possível afastar o referido óbice para a revisão do valor.
+Os precedentes deste Tribunal Superior consideram irrisórios os honorários advocatícios fixados, com base no § 4º do art. 20 do CPC/1973, em quantia inferior a 1% (um por cento) do valor da causa principal. Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM QUANTIA INFERIOR A 1% (UM POR CENTO) DO VALOR DA CAUSA. DECISÃO MONOCRÁTICA QUE RECONHECEU A INSUFICIÊNCIA DO QUANTUM FIXADO, PROCEDENDO A SUA MAJORAÇÃO.
+1. Hipótese em que a verba honorária, baseada no artigo 20, § 4º, do CPC, restou fixada em patamar inferior a 1% do valor da causa, afigurando-se, no caso dos autos, insuficiente a remunerar condignamente o causídico.
+(..)
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.226.683/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/10/2013, DJe 25/10/2013.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. OFENSA AOS ARTS. 20, §§ 3º E 4º, E 125, I, DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR IRRISÓRIO. NECESSIDADE DE MAJORAÇÃO RECONHECIDA.
+(..)
+- A jurisprudência do STJ firmou-se no sentido de que o montante fixado pelas instâncias ordinárias a título de honorários advocatícios somente pode ser alterado se patente seu exagero ou quando fixado de forma irrisória, sob pena de incidência da Súmula 7/STJ.
+- Igualmente, encontra-se pacificado nesta Corte o entendimento de que, nas causas onde não há condenação, os honorários advocatícios devem ser fixados com base nos parâmetros do art. 20, § 4º, do CPC, consoante apreciação equitativa do Juiz.
+(..)
+- A jurisprudência do STJ tem considerado irrisórios honorários fixados em patamar inferior a 1% sobre o valor da causa. A fixação de honorários em R$ 100.000,00, numa execução de 26.833.608,91, portanto, comporta revisão.
+- A revisão dos honorários deve se basear nos seguintes parâmetros, previstos no § 3º do art. 20 do CPC: a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Recurso especial provido para fixar os honorários devidos aos advogados da recorrente em R$ 1.500.000,00 (um milhão e quinhentos mil de reais).
+(REsp n. 1.042.946/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1º/12/2009, DJe 18/12/2009.)
+Com fundamento em tais precedentes, constata-se que o percentual estabelecido pelas instâncias de origem, com fundamento no art. 20, § 4º, do CPC/1973, no presente cumprimento de sentença - 1,5% (um vírgula cinco por cento) sobre o valor da execução, de R$ 8.180.144.66 (oito milhões, cento e oitenta mil, cento e quarenta e quatro reais e sessenta e seis centavos) -, não enseja a intervenção do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
