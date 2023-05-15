@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BH BURITIS EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. (BH BURITIS) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar .
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BH BURITIS alegou, a par de divergência jurisprudencial, a violação dos arts. 406, 407 e 421 do CC/02, ao sustentar (1) que seja autorizada a retenção de 30% dos valores pagos pelo compromissário comprador, nos termos do contrato, ou, alternativamente, ao menos de 25%, em observância a precedentes desta Corte Superior; e (2) a incidência dos juros de mora a partir do trânsito em julgado da sentença.
+(1) Da restituição dos valores pagos
+Consoante a jurisprudência assente do STJ, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento. Este o teor da Súmula n.º 543 do STJ.
+O caso em análise, todavia, apresenta peculiaridade, ante o reconhecimento pelas instâncias ordinárias de que ambas as partes foram responsáveis pelo descumprimento do contrato, o comprador pela ausência de pagamento da parcela pós-obra, e a incorporadora por não ter entregado o imóvel na data aprazada.
+Sob esse enfoque, destacou o TJMG a necessidade do retorno das partes ao status quo ante, "sem imposição de penalidade a qualquer delas, razão pela qual é indevida a retenção de valores por parte da promitente vendedora" (e-STJ, fl. 568)
+Desse modo, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, a fim de permitir a retenção de parte dos valores pagos pelo adquirente, não prescindiria da interpretação de cláusulas do contrato firmado entre as partes, bem como do reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte local, com amparo nos elementos de prova dos autos, bem como nas cláusulas contratuais, concluiu que a rescisão do contrato se deu por culpa de ambas as partes. Nesse contexto, a revisão do entendimento adotado na origem, bem como o acolhimento da pretensão de restituição de valores, exigiria o reexame do acervo probatório do ajuste firmado contratualmente entre as partes, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+2. Para acatar a pretensão de restituição de valores, seria necessário o reexame de provas, providencia inviável em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.792.797/GO, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/11/2021, DJe 1/12/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO DE CONTRATO IMOBILIÁRIO. PROMESSA DE COMPRA E VENDA. INADIMPLEMENTO. CULPA CONCORRENTE DAS PARTES. RECONHECIMENTO NA ORIGEM. RETORNO AO STATUS QUO ANTE. PENALIDADES CONTRATUAIS AFASTADAS. RATEAMENTO DE OBRIGAÇÕES. LITIGÂNCIA DE MÁ-FÉ. ÔNUS DA SUCUMBÊNCIA. SÚMULAS 5 E 7/STJ. SÚMULA 283/STF. APLICAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte de origem, soberana na análise do acervo fático-probatório dos autos, bem como na interpretação de cláusulas contratuais, reconheceu a culpa concorrente dos promissários vendedores e comprador, concluindo que ambos foram responsáveis pelo inadimplemento havido no contrato de promessa de compra e venda de imóvel, de maneira que deveriam retornar ao status quo ante, sem a incidência das penalidades previstas no ajuste e com o rateamento de obrigações e despesas. Alterar, na via estreita do recurso especial, as referidas conclusões da instância ordinária en contra óbice nas Súmulas 5 e 7 do STJ.
+2. É inviável recurso especial que deixa de impugnar os fundamentos autônomos do acórdão recorrido, porquanto, ainda que sejam acolhidas as teses contidas no petitório recursal, afastando-se uns ou alguns dos fundamentos impugnados, existirão outros, suficientes, por si sós, para manter a conclusão do julgado hostilizado (Súmula 283/STF).
+3. Rever a conclusão adotada no acórdão recorrido acerca da não caracterização de litigância de má-fé do recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. A verificação, no caso, da proporção em que cada parte ficou vencedora ou vencida, bem como a aferição de sucumbência mínima, também são providências que esbarram no óbice da referida Súmula 7/STJ. 5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no REsp 1.747.477/DF, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 5/12/2019, DJe 18/12/2019 - sem destaque no original.)
+(2) Do termo inicial dos juros de mora
+Em relação ao termo inicial dos juros de mora, o Tribunal mineiro ao definir a sua fluência a partir da citação, apresentou os seguintes fundamentos:
+Sobre o valor a ser restituído ao comprador, incidem os juros moratórios de 1% a.m., a partir da citação, nos termos do art. 405, do CC.
+Inaplicável o paradigma do AgRg no REsp. 1.342.255/SP, cuja previsão é a incidência de juros a partir do trânsito em julgado da decisão, mas quando a resolução do contrato se der por iniciativa do promitente comprador, o que também não é o caso dos autos, onde ambas as partes concorreram para a rescisão contratual (e-STJ, fl. 570).
+Com efeito, no julgamento do REsp 1.740.911/DF, sob o rito dos repetitivos, Relª. p/ Acórdão a Ministra MARIA ISABEL GALLOTTI, a colenda Segunda Seção fixou a seguinte tese:
+Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão.
+No caso sub judice, entretanto, a Corte local consignou expressamente a existência de culpa concorrente das partes para o desfazimento do contrato, razão pela qual a posição assentada no referido precedente vinculante (Tema 1002 do STJ) não tem aplicação à espécie, devendo ser mantida, por isso, a incidência dos juros moratórios a partir da citação, conforme a regra geral, por se tratar de relação contratual.
+Nesse sentido: AREsp 2.129.892/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 31/8/2022; e AREsp 1.797.702/DF, Relª. Ministra MARIA ISABEL GALLOTTI, DJe 27/4/2021.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração da verba honorária.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CULPA CONCORRENTE RECONHECIDA PELO TRIBUNAL DE ORIGEM. PRETENSÃO DE RETENÇÃO DE PARTE DOS VALORES PAGOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. SÚMULAS N.ºS 5 E 7 DO STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
