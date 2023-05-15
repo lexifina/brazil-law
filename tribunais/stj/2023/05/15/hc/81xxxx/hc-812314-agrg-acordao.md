@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+JOÃO PAULO SOARES interpõe agravo regimental contra decisão de minha relatoria em que indeferi liminarmente o seu habeas corpus.
+Consta dos autos que o agravante foi condenado à pena de 9 anos de reclusão, em regime inicial fechado, mais multa, pelo crime previsto no art. 33 da Lei n. 11.343/2006.
+A defesa reitera sua compreensão de que houve desproporcionalidade no aumento da pena-base e de que não é cabível o aumento de 1/5 apenas por se tratar de reincidência específica.
+Requer, assim, a reconsideração da decisão ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. DISCRICIONARIEDADE. REINCIDÊNCIA ESPECÍFICA. FRAÇÃO SUPERIOR A 1/6. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+2. Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento existência de quatro condenações definitivas (inclusive pelo mesmo crime) e na quantidade relevante de drogas - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+3. A Sexta Turma desta Corte Superior de Justiça considera que a reincidência específica constitui fundamento hábil a justificar a exasperação da reprimenda, na segunda etapa da dosimetria, em fração superior a 1/6.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, ao se pronunciar sobre o aumento de 1/2 na pena-base, a Corte estadual afirmou que (fl. 54, grifei):
+A necessidade de exacerbação da pena base foi bem justificada pelo douto magistrado sentenciante, que, ponderando as circunstâncias previstas no art. 59 do Código Penal e do art. 42 da Lei n. 11.343/06, destacou os maus antecedentes e a personalidade tendenciosa do réu à prática criminosa, diante do registro de cinco condenações definitivas, consideradas nesta fase quatro delas, inclusive pelo mesmo crime (certidões de fls. 82/87), assim como a quantidade e natureza da droga apreendida, ou seja, 639,68g de cocaína e 96 comprimidos de droga sintética de ecstasy (fls. 431/432).
+Assim, conforme pontuei no julgamento monocrático, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento existência de quatro condenações definitivas (inclusive pelo mesmo crime) e na quantidade relevante de drogas (639,68 g de cocaína e 96 comprimidos de ecstasy) - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+II. Agravante da reincidência - fração de aumento
+Sobre o aumento de pena efetivado em decorrência da agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer qualquer menção ao quantum de redução.
+Nesse sentido, a doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+No caso, o Tribunal local salientou que " ..  em se tratando de reincidência específica, adota-se o entendimento de que o acréscimo deve ser de 1/5 (um quinto)" (fl. 54, destaquei).
+Portanto, reitero que, fundamentada a incidência de fração de aumento superior a 1/6, com base em argumento idôneo e concreto dos autos (reincidência específica), não há como acolher o pleito defensivo.
+Nesse sentido, menciono:
+ ..
+3. Nos termos da jurisprudência desta Corte, a reincidência específica do réu constitui fundamento idôneo para justificar o incremento da pena em patamar acima de 1/6.
+ ..
+(AgRg no AREsp n. 1.865.956/SP, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª região), 6ª T., DJe 22/10/2021)
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
