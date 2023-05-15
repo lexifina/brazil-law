@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SEBASTIANA GARCIA DE ALMEIDA contra a decisão que conheceu do agravo para negar provimento ao recurso especial (fls. 357/359 e-STJ).
+Nas suas razões, a agravante postula a reforma da decisão agravada defendendo, em síntese, a ocorrência de ofensa ao art. 1.022, II, do Código de Processo Civil e a inaplicabilidade da Súmula nº 7/STJ ao caso dos autos.
+Impugnação às fls. 375/380 e 382/392 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. INDEFERIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HIPOSSUFICIÊNCIA. COMPROVAÇÃO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Trata-se de discussão acerca da concessão do benefício da assistência judiciária gratuita.
+2. Não viola o artigo 1.022, II, do Código de Processo Civil, nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Não cabe ao Superior Tribunal de Justiça reexaminar as conclusões do tribunal de origem no tocante à ausência de comprovação de hipossuficiência e consequente indeferimento do pedido de justiça gratuita, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide. Súmula nº 7/STJ.
+4. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Tal presunção é relativa (art. 99, § 3º, do CPC), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+5. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+No caso, ao indeferir o pedido de gratuidade da justiça, a Corte local consignou:
+"(..)
+Conforme visto, cinge-se a insurgência ao indeferimento integral da gratuidade da justiça, entendendo o julgador singular que "no caso em exame, afigura-se pertinente o deferimento parcial da gratuidade da justiça, a fim de alcançar os atos processuais (custas e despesas), excepcionando-se os honorários devidos ao conciliador/mediador, a eventual perito nomeado, bem como em relação às diligências do Oficial de Justiça."
+De acordo com a agravante, referida decisão merece reforma, já que existem provas nos autos de que é hipossuficiente financeira, merecendo, portanto, ser isenta de todas as custas, despesas processuais e eventuais verbas de sucumbência. Contudo, sem razão.
+É que, mesmo oportunizada, a agravante não comprovou fazer jus à benesse em testilha, deixando de informar o valor da sua remuneração mensal e apresentar contracheques e extratos de contas bancárias, por exemplo, para fins de mister.
+Ressalto que a cópia da CTPS e dos extratos da Receita Federal não cumprem, isoladamente, a função desejada pela recorrente, mormente diante do fato de que os extratos de consulta de restituição do imposto de renda indicam que a sua declaração não consta na base de dados da Receita Federal. Tal significa dizer que a insurgente não prestou qualquer informação sobre a sua renda, junto ao órgão fiscalizador.
+Nesse viés, deixando de demonstrar que não têm condições financeiras para arcar com as despesas processuais referentes ao pagamento de honorários do conciliador/mediador, perícia e diligências do Oficial de Justiça, deve ser mantida a decisão impugnada, nos termos em que foi lançada" (fls. 46/47 e-STJ - grifou-se).
+De fato, o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Quanto ao mérito, verifica-se inviável o pedido de afastamento da aplicação da redação da Súmula nº 7/STJ.
+A modificação dos parâmetros adotados pelo tribunal de origem quanto à ausência de comprovação da hipossuficiência da agravante implicaria em reexame fático-probatório dos autos, procedimento inadmissível no âmbito do recurso especial.
+Ademais, o benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. BENEFÍCIO INDEFERIDO NA ORIGEM. CONFIRMADO PELO TRIBUNAL APÓS ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. No caso, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência, indeferindo, por isso, o benefício da justiça gratuita. Nesse contexto, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, o que é defeso na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp 2.081.592/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2022, DJe de 21/10/2022 - grifou-se).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Após o indeferimento do benefício da assistência judiciária gratuita nas instâncias ordinárias, compete ao recorrente demonstrar que houve alteração em sua condição econômico-financeira a fim de que seja concedida a gratuidade na fase recursal.
+3. A presunção de veracidade da declaração de hipossuficiência pode ser ilidida na hipótese em que existam nos autos evidências de que não estão presentes os requisitos legais para deferimento do beneplácito.
+4. A alteração das conclusões da Corte a quo para reconhecer a alegada hipossuficiência ensejaria indevido reexame de fatos e provas, em face do disposto na Súmula nº 7 do STJ.
+5. Agravo interno não provido" (AgInt no AgInt no AREsp 1.916.722/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/3/2022, DJe de 18/3/2022 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. JUSTIÇA GRATUITA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+3. Na hipótese, rever o entendimento do tribunal local, que concluiu que não restou comprovada a impossibilidade financeira dos agravantes, atrai a incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido" (AgInt no REsp 2.001.225/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/11/2022, DJe de 16/11/2022 - grifou-se).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
