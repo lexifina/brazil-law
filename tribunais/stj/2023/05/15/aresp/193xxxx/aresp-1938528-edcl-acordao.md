@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  SINOPEC  PETROLEUM  DO  BRASIL  LTDA.  -  EM  RECUPERAÇÃO  JUDICIAL,  com  fundamento  no  artigo  1.022,  I,  do  Código  de  Processo  Civil,  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  IMPUGNAÇÃO  AO  CRÉDITO.  HONORÁRIOS  ADVOCATÍCIOS.  FIXAÇÃO.  LITIGIOSIDADE.  EXISTÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Em  função  do  princípio  da  causalidade,  a  parte  que  deu  causa  à  instauração  do  processo  deve  suportar  as  despesas  dele  decorrentes.
+3.  O  art.  85,  §  2º,  do  CPC/2015  constitui  a  regra  geral  no  sentido  de  que  os  honorários  sucumbenciais  devem  ser  fixados  no  patamar  de  10%  (dez  por  cento)  a  20%  (vinte  por  cento)  sobre  o  valor  da  condenação,  do  proveito  econômico  obtido  ou  do  valor  atualizado  da  causa.
+4.  Na  hipótese,  está  comprovado  nos  autos  que  houve  litigiosidade  na  demanda,  visto  que  houve  impugnação  pela  agravante  ao  crédito  apresentado  pela  credora.  A  revisão  do  julgado  estadual  demandaria  o  reexame  do  acervo  fático-probatório  dos  autos,  procedimento  vedado  na  estreita  via  do  recurso  especial,  a  teor  do  disposto  na  Súmula  nº  7/STJ.
+5.  A  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+6.  Agravo  interno  não  provido"  (fl.  398  e-STJ).
+Em  suas  razões,  a  embargante  aponta  a  existência  de  contradição  no  acórdão  recorrido,  aduzindo  que  o  tribunal  local  reconheceu  "(..)  que  a  Sinopec  NÃO  IMPUGNOU  o  pedido  de  retificação  do  valor  listado  em  favor  dos  Embargados  na  sua  recuperação  judicial"  (fl.  410  e-STJ).
+Reitera  o  argumento  de  que  a  jurisprudência  firmada  nesta  Corte  Superior  é  no  sentido  de  que  somente  são  cabíveis  honorários  sucumbenciais  "(..)  quando  apresentada  impugnação  ao  pedido  de  habilitação  de  crédito  em  sede  de  recuperação  judicial,  haja  vista  a  litigiosidade  da  demanda"  (fl.  411  e-STJ).
+Conclui  que,  não  tendo  sido impugnado o  pedido  de  retificação  do  valor  listado  na  recuperação  judicial,  não  deve  ser  condenada  ao  pagamento  de  honorários  sucumbenciais.
+Ao  final,  postula o  acolhimento  dos  presentes  embargos  para  sanar  a  contradição  apontada,  atribuindo-lhes  efeitos  infringentes,  afastando  a  condenação  da  embargante  ao  pagamento  de  honorários  sucumbenciais.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às  fls.  415-425  (e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  IMPUGNAÇÃO  DO  CRÉDITO.  HONORÁRIOS  ADVOCATÍCIOS.  FIXAÇÃO.  LITIGIOSIDADE.  EXISTÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Na  hipótese,  acolher  a  pretensão  da  embargante  de  que  não  houve  litigiosidade  na  demanda  ensejaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos,  procedimento  inviável  em  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Com  efeito,  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+No  caso  dos  autos,  observa-se  que  a  embargante  reitera  os  argumentos  veiculados  nos  agravo  interno  insistindo  que  não  houve  litigiosidade  na  demanda,  motivo  pelo  qual  não  deve  ser  condenada  ao  pagamento  de  honorários  sucumbenciais.
+Registra-se que o  tribunal  estadual  afastou  a  pretensão  da  embargante,  porque  houve  inclusão  de  crédito  menor  do  credor  na  relação  nominal,  deflagrando  ,  assim,  a  necessidade  de  impugnação  do  valor  por  intermédio  de  advogado  constituindo  especificamente  para  tal  medida.
+É  o  que  se  extra  da  seguinte  fundamentação:
+"(..)
+Não  obstante  a  empresa  recuperanda  afirmar  que  concordou  com  o  valor  do  crédito  apresentado  pela  credora  nos  autos  da  impugnação,  de  certo  que,  ao  incluir  o  crédito  a  menor  na  relação  nominal  de  credores,  ao  requerer  a  recuperação  judicial,  deflagrou  a  apresentação  de  impugnação  veiculada  por  intermédio  de  advogado  devidamente  constituído  para  tal  mister,  diante  da  persistência  da  omissão  do  referido  crédito  no  edital  publicado  com  a  relação  de  credores.
+Diante  da  situação  acima  narrada,  foi  imprescindível  a  busca  da  tutela  jurisdicional  pela  credora,  ora  segunda  agravante,  para  o  alcance  da  pretensão  deduzida  consistente  na  inclusão  do  crédito  alegado  no  rol  de  credores,  o  que  denota  manifesta  litigiosidade,  devendo  eventual  ônus  recair  sobre  a  parte  que  deu  causa  a  instauração  do  incidente.
+No  sistema  processual  vigente  vigora  o  princípio  da  sucumbência  para  a  definição  dos  honorários  advocatícios  e  ressarcimento  das  despesas  judiciais  pelo  vencido,  devendo  a  parte  que  sucumbiu  à  demanda  arcar  com  ônus  do  processo.
+O  princípio  da  sucumbência,  por  sua  vez,  orienta  a  aplicação  do  princípio  da  causalidade,  o  qual  prescreve  que  aquele  que  dá  causa  a  instauração  da  demanda  deve  arcar  com  os  ônus  da  sucumbência"  (fls.  71-  72  e-STJ).
+Nesse  contexto,  a  revisão  do  entendimento  do  acórdão  atacado  exigiria,  por  parte  do  Superior  Tribunal  de  Justiça  ,  o  reexame  de  matéria  fática,  procedimento  vedado  na  estreita  via  do  recurso  especial,  consoante  entendimento  da  Súmula  nº  7/STJ.
+A propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL.  ACIDENTE  DE  TRÂNSITO.  SEGURO  DPVAT.  EXIBIÇÃO  DE  DOCUMENTOS.  INTERESSE  RECURSAL.  AUSÊNCIA.  EXTINÇÃO  DO  FEITO.  PEDIDO  ADMINISTRATIVO.  NÃO  COMPROVAÇÃO.  PRETENSÃO  RESISTIDA.  INEXISTÊNCIA.  SÚMULA  Nº  7/STJ.  HONORÁRIOS.  RESPONSABILIDADE  DO  AUTOR.  SÚMULA  Nº  568/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Nas  hipóteses  de  extinção  do  processo  sem  resolução  do  mérito,  a  responsabilidade  pelo  pagamento  de  honorários  e  custas  deve  ser  fixada  com  base  no  princípio  da  causalidade,  segundo  o  qual  a  parte  que  deu  causa  à  instauração  do  processo  deve  suportar  as  despesas  dele  decorrentes.
+3.  Na  presente  hipótese,  não  está  comprovado  nos  autos  que  foi  realizado  o  pedido  administrativo  e  que  houve  recusa  injustificada  da  seguradora  em  exibir  os  documentos  pleiteados,  impondo-se  à  parte  autora  os  ônus  de  sucumbência.  Incidência  das  Súmulas  nºs  7  e  568/STJ.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.444.082/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  26/8/2019,  DJe  30/8/2019).
+Portanto,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Nesse sentido:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1022  do  CPC.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  4/8/2016,  DJe  9/8/2016).
+Ressalta-se,  ainda ,  que  a  motivação  contrária  ao  interesse  da  parte  ou  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  declaratórios.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
