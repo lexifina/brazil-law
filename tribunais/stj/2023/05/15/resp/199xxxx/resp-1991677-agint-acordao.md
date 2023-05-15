@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que não conheceu do Recurso Especial, pela incidência das Súmulas 283 e 284/STF, por analogia.
+Inconformada, sustenta a parte agravante que "o recurso especial versou exatamente sobre os fundamentos pelo qual o acórdão regional estava equivocado, sobretudo pela ausência de coisa julgada quanto ao índice de correção monetária (eis que o dispositivo da sentença não citou a TR), bem como acerca da inconstitucionalidade declarada pelo STF e com efeito vinculante sobre todas as condenações não pagas pela Fazenda Pública, tendo ventilado toda a matéria inerente à legislação federal apta ao conhecimento do recurso, bem como ao dissídio".
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. ÍNDICE DE CORREÇÃO MONETÁRIA. COISA JULGADA MATERIAL. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal - tendo em vista as razões estarem dissociadas do fundamento do acórdão recorrido - não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, devendo incidir o óbice das Súmulas 283 e 284/STF, por analogia.
+III. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Com efeito, como bem destacou a decisão agravada, este é o teor do voto condutor do acórdão recorrido, in verbis:
+"Como já pude expressar na decisão que apreciou o pedido de liminar, penso que merece prosperar a irresignação da recorrente no que se refere ao índice de atualização monetária considerado como correto pela decisão combatida.
+Isso porque o título executivo judicial (id. 4058200.2201203 - fls. 998- 996), transitado em julgado em 09/03/2013, expressamente estabeleceu que a atualização monetária da dívida se fizesse na forma do Manual de Cálculos da Justiça Federal - aprovado pela Res. CJF nº 561/2007 e, a partir da entrada em vigor da Lei nº 11.960/2009, de acordo com os índices de remuneração básica aplicado às cadernetas de poupança.
+Assim, não poderia o douto julgador monocrático ter estabelecido o IPCA-E como índice de atualização monetária para o período apurado, vez que, nesse caso, estar-se-ia incorrendo em afronta à coisa julgada.
+Confira-se, porque oportuno, excertos da parte dispositiva do comando sentencial executado, o qual, nessa parte, não fora modificado nas instâncias superiores (id. 4058200.2201203 - fls. 998-996):
+(..)
+Nesse cenário, embora o plenário do STF tenha estabelecido a inconstitucionalidade da TR como indexador de correção monetária (RE 870.947/SE), o título judicial executivo está acobertado pela coisa julgada material, devendo, portanto, ser respeitada a determinação nele contida. Precedente da Turma: Processo n.º 0817029-24.2018.4.05.0000, Desembargador Federal Edilson Pereira Nobre, 4ª Turma, j. 09/04/2019.
+Com essas considerações, ratificando a liminar, dou provimento ao agravo de instrumento" (fls. 4.410/4.411e).
+Ocorre que defendeu a parte recorrente, em resumo, que:
+(..) ao estabelecer a TR como critério de correção monetária de diferenças vencimentais percebidas por servidor público federal no bojo de execução de sentença, a Corte regional incorreu em equivocada e inconstitucional aplicação do art. 5º da Lei nº 11.960/09, desvirtuando o próprio instituto da correção monetária de débitos judiciais, previsto no art. 1º da Lei nº 6.899/81, bem como contrariou a sedimentada jurisprudência desta E. Corte; ainda, ao assim decidir, o Tribunal a quo deixou de observar o caráter vinculante e erga omnes da declaração de inconstitucionalidade havida pelo Pleno do STF ao julgar a Ação Direta de Inconstitucionalidade nº 4.357-DF (DJe 26-9-2014), com o que violou o art. 28, parágrafo único, da Lei nº 9.868-99" (fl. 4.437e).
+Neste contexto, verifica-se que restaram incólumes, nas razões recursais, os fundamentos do acórdão impugnado, isto é, a parte ora agravante adotou razões recursais dissociadas da fundamentação do acórdão objurgado, deixando de impugnar, especificamente, seus fundamentos, pelo que incidem, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Com efeito, à luz do princípio da dialeticidade, não basta a parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento, proferido pelo Tribunal de origem, merece ser modificado.
+Nesse sentido, entre muitos outros:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PROSSEGUIMENTO ANTE O INDEFERIMENTO DO PEDIDO DE PARCELAMENTO. REQUISITOS DO PARCELAMENTO. IMPROPRIEDADE DA VIA ELEITA. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS DO ACÓRDÃO DE ORIGEM INATACADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. OCORRÊNCIA DE PARCELAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A Corte de origem não analisou, nem sequer implicitamente, os diapositivos apontados como violados. Isso porque entendeu pela impropriedade da via eleita. Incidência da Súmula 211/STJ.
+2. Os argumentos do Tribunal a quo acerca da impropriedade da via eleita, já que "o feito executivo não é foro adequado para a discussões como a trazida pelo agravante, seja acerca da consideração dos prejuízos anteriores, seja a respeito da forma como deverá se dar o parcelamento", não foi objeto de impugnação nas razões do recurso especial. Limitou-se o recorrente a afirmar que satisfez todas as exigências legais para o deferimento do parcelamento. Incidência das Súmulas 283 e 284/STF.
+3. Não há como aferir eventual violação do dispositivo citado por violado sem que se reexamine o conjunto probatório dos presentes autos, porquanto a Corte estadual concluiu que não se perfectibilizou o parcelamento motivo pelo qual deu prosseguimento ao pleito executivo. Incidência da Súmula 7/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.383.667/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/06/2015).
+"TRIBUTÁRIO. RAZÕES GENÉRICAS. IMPOSSIBILIDADE. COMPREENSÃO. OMISSÃO. SÚMULA 284/STF. SUPRESSÃO DE INSTÂNCIA. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. Não se pode conhecer da alegada ofensa ao art. 535 do CPC, porquanto as razões do recurso são genéricas e não indicam objetivamente de que forma teria havido omissão e qual a relevância do ponto, em tese omitido, para o deslinde da controvérsia. Aplica-se, por analogia, o óbice da Súmula 284/STF.
+2. O Tribunal local, soberano na análise das provas e dos fatos, consignou: "A falta de cumprimento da determinação judicial torna intransponível o obstáculo processual rumo ao mérito. Em vista disso, não é dado trazer à este juízo a suposta regularização com documento novo acostado no recurso, sob pena de supressão de instância.
+3. Verifica-se que o Recurso Especial não impugnou toda a fundamentação do acórdão, principalmente o fato de a profissão da autora não estar vinculada ao Conselho Profissional de Enfermagem, o que encontra óbice na Súmula 283 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de afronta a dispositivos constitucionais.
+4. Recurso Especial não conhecido" (STJ, REsp 1.519.711/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2015).
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRATAMENTO DE SAÚDE NO EXTERIOR COM RECURSOS PÚBLICOS. PRESTAÇÃO DE CONTAS. DÉBITO. ÔNUS IMPOSTO À BENEFICIÁRIA POR DECISÃO JUDICIAL. PRETENSÃO QUE VISA ATRIBUIR RESPONSABILIDADE À ADVOGADA. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, a teor do que preceituam as Súmulas 282 e 356 do STF.
+2. A ausência de impugnação específica aos fundamentos do acórdão recorrido atrai o óbice das Súmulas 283 e 284 do STF.
+3. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.444.698/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 23/06/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. AJUDA DE CUSTO ALUGUEL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF. PRÊMIO DE PRODUTIVIDADE. NATUREZA SALARIAL. INCIDÊNCIA. PRECEDENTES. AUXÍLIO CRECHE/BABÁ/DEFICIENTE. QUESTÃO ATRELADA AO REEXAME DE PROVA.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A jurisprudência dessa Corte reconhece o seu caráter salarial, e a consequente incidência de contribuição previdenciária sobre a verba denominada "prêmio de produtividade".
+4. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+5. Agravo regimental não provido" (STJ, AgRg no AREsp 655.644/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/05/2015).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
