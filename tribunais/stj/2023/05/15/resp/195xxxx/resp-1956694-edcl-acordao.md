@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls . 2.384/2.398) op ostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fls. 2.369/2.370):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO VINCULADO AO FUNDO DE COMPENSAÇÃO DE VARIAÇÃO SALARIAL (FCVS). INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. TESE FIRMADA EM REPERCUSSÃO GERAL. DECISÃO MANTIDA.
+1. A competência interna desta Corte é de natureza relativa, devendo ser suscitada até o momento do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ.
+2. "Conforme consolidado pelo Supremo Tribunal Federal em sede de repercussão geral, a partir da vigência da MP 513/2010, em 26/11/2010, a CEF passou a ser administradora do FCVS, de maneira que compete à Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa (Tema 1.011)" (AgInt nos EDcl no AgInt no AREsp 1713429/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021).
+3. A Caixa Econômica Federal - CEF manifestou a pretensão de intervir no feito, circunstância que afasta à possibilidade de a própria Justiça Estadual examinar os requisitos que determinam a competência do Juízo Federal.
+4. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante afirma a existência de omissão, contradição e obscuridade no acórdão. Sustenta, para tanto, que (e-STJ fls. 2.393/2.394):
+De maneira que, EM SE TRATANDO DE CASO CONCRETO DISTINTO NO QUAL A QUESTÃO DA COMPETÊNCIA DA JUSTIÇA COMUM JÁ SE ENCONTRA DEFINIDA E ULTIMADA, EM DUPLO GRAU DE JURISDIÇÃO, SOB O ABRIGO INDEVASSÁVEL DE COISA JULGADA MATERIAL, PRATICAMENTE 10 (DEZ) ANOS ANTES DOPRÓPRIO ADVENTO DO NOVEL TEMA 1011 DO PRETÓRIO EXCELSO, COMPETÊNCIA DA JUSTIÇA COMUM, ADEMAIS FIXADA SOB OS AUSPÍCIOS DE TEMA REPETITIVO, AINDA NÃO SUPERADO E PLENAMENTE VIGENTE, DESTA MAGNA CORTE SUPERIOR (TEMA 50 DO STJ) IMPÕE-SE, EM HOMENAGEM À COISA JULGADA, À SEGURANÇA JURÍDICA, À ISONOMIA E À PRÓPRIA UNIDADE,COERÊNCIA E CREDIBILIDADE DA JURISPRUDÊNCIA NACIONAL, SEJAM OS PRESENTES EMBARGOS DE DECLARAÇÃO RECEBIDOS, PROCESSADOS E JULGADOS, COM VISTAS A VERDECLARADO, INTEGRADO E SUPRIDO O PONTO DE CONTRADIÇÃO / OMISSÃO ARGUIDO E INDICADO, QUAL SEJA, A SUMÁRIA DESCONSIDERAÇÃO DA AUTORIDADE E DA EFICÁCIA PRECLUSIVA DE COISA JULGADA MATERIAL EM FACE DE NOVEL PRECEDENTE DO PRETÓRIO EXCELSO COM EFICÁCIA RETROATIVA FIXADO PELO RITO DA REPERCUSSÃO GERAL, CONTRARIANDO TEMA REPETITIVO DO PRETOR CIDADÃO AINDA NÃO SUPERADO E PLENAMENTE VIGENTE ACERCA DA MATÉRIA EM DEBATE (TEMA 50 DO STJ) E SOBRETUDO, A JURISPRUDENCIA PACÍFICA DA MAGNA CORTE SUPERIOR NO SENTIDO DE OBSTAR DISCUSSÕES QUE JÁ TENHAM SITO RESOLVIDAS DEFINITIVAMENTE E SEM RECURSOS OU IMPUGNAÇÕES DE INTERESSADAS EM MOMENTO ANTERIOR, AINDA QUE SEJAM REPUTADAS QUESTÕES DE ORDEM PÚBLICA,
+Ao final, pede o acolhimento dos aclaratórios, para que sejam supridos os vícios apontados.
+Impugnação apresentada às fls. 2.401/2.445 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+No caso concreto, a parte pleiteia nova análise do recurso anteriormente interposto, repisando as mesmas alegações apresentadas previamente.
+O recurso anterior foi devidamente examinado no acórdão ora embargado, nos seguintes termos (e-STJ fls. 2.377/2.378):
+Conforme assentado na decisão recorrida, o STF, no julgamento, sob a sistemática da repercussão geral, do RE 827.996/PR - Tema n. 1.011, firmou a orientação de que, a partir da vigência da MP n.513/2010 (que originou a Lei n.12.409/2011), a Caixa Econômica Federal passou a ser a administradora do FCVS, de maneira que compete à Justiça Federal o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS.
+Portanto, nos processos ajuizados após a entrada em vigor da MP n.513/2010 (26/11/2010), caso dos presentes autos, a competência para o julgamento da causa efetivamente seria da Justiça Federal, quando houver manifestação de interesse da CEF ou da União ou caso haja provocação nesse sentido de qualquer parte ou interveniente.
+Além disso, somente a Justiça Federal pode analisar o interesse da CEF para atuar no feito, bem como se há risco de comprometimento dos recursos do FCVS e de exaurimento da reserva técnica do FESA, devendo ser reconhecida a competência da Justiça Federal.
+Não há falar, portanto, em coisa julgada material, sendo válida a decisão que determinou o encaminhamento dos autos à Justiça Federal.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Dessa forma, não se constata nenhuma das hipóteses de cabimento dos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
