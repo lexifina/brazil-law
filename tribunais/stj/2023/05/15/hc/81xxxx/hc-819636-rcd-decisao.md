@@ -1,0 +1,10 @@
+DECISÃO
+ANTONIO VAZ DA SILVA NETO pleiteia a reconsideração do decisum de fls. 611-619, em que indeferi liminarmente o habeas corpus impetrado em seu favor, em virtude da Súmula n. 691 do STF.
+A defesa esclarece que o requerente figura como investigado pela suposta prática de receptação, e não de roubo circunstanciado. Requer, ao fim, a liberdade do agente ou a retificação da decisão impugnada, para que conste o crime correto.
+Decido.
+Preliminarmente, à vista da natureza integrativa do pedido, e com amparo no princípio da fungibilidade recursal, recebo-o como embargos declaratórios, visto que obedecido o respectivo prazo de oposição.
+A prisão preventiva do acusado foi decretada pela prática, em tese, de receptação qualificada, tal como constou na fl. 611. Todavia, constato o erro material apontado pela defesa, porquanto, à fl. 614, foi consignado, equivocadamente, que o crime imputado ao paciente seria o de roubo circunstanciado.
+Portanto, deve-se ler "O paciente teve sua prisão preventiva decretada pela prática, em tese, de receptação qualificada" à fl. 614. No entanto, tal retificação não conduz à alteração da conclusão do julgado, segundo a qual o habeas corpus deve ser indeferido liminarmente pelo óbice da Súmula n. 691 do STF. Ademais, consignei não haver flagrante ilegalidade no decreto cautelar, que, a princípio, motivou idoneamente a custódia do paciente. Nesse sentido (fl. 618, grifos no original):
+Não ident ifico teratologia no caso em exame. No caso ora em análise, o Juiz de primeiro grau evidenciou a especial gravidade da conduta, extraída do modus operandi do delito, uma vez que o paciente supostamente integra organização armada, voltada à prática habitual e reiterada de receptações. Segundo as instâncias de origem, o acusado seria o responsável por comercializar mercadorias furtadas, notadamente cabos de cobre subtraídos de pivôs de irrigação de lavouras.
+À vista do exposto, recebo o pedido de reconsideração como embargos de declaração e acolho-os tão somente para retificar erro material no decisum impugnado.
+Publique-se e intimem-se.
