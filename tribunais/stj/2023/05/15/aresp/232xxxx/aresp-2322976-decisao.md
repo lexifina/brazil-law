@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCAS HENRIQUE SOUSA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA - IMPOSSIBILIDADE DESCLASSIFICAÇÃO DA CONDUTA DO ART. 33 PARA O DELITO PREVISTO NO ART. 28 DA LEI 11.343/06 - NÃO CABIMENTO - RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA - NECESSIDADE - APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO §4º DO ART. 33 DA LEI 11.343/06 - REQUISITOS NÃO PREENCHIDOS - ISENÇÃO DO PAGAMENTO DE CUSTAS - IMPOSSIBILIDADE - SUSPENSÃO DA EXIGIBILIDADE A CARGO DO JUÍZO DA EXECUÇÃO.
+Quanto à controvérsia, alega violação do art. 33, § 4º, da Lei n. 11.343/2006, no que concerne à necessidade de aplicação da causa especial de diminuição de pena prevista para o tráfico privilegiado, tendo em vista tratar-se de réu primário e de bons antecedentes, além da ausência de indícios que o recorrente se dedique a atividades criminosas, trazendo os seguintes argumentos:
+No tocante à acusação do delito, entende-se que o recorrente é primário e não apresenta maus antecedentes, conforme sua FAC (fls. 58), não sendo possível induzir a dedicação a atividades criminosas, tampouco a participação de organização criminosa (fl. 262).
+Ademais, ha sentença, o juiz singular avalia positivamente os antecedentes, entendendo não poder aferir de outra forma (fl. 262).
+Quanto à única ação penal por tráfico de drogas prevista na FAC e CAC, é a do presente caso, sendo incabível considera-lo no fato em questão, visto que se encontra em curso, sendo o mesmo entendimento do STJ, de que ações penais em andamento não podem afastar o tráfico privilegiado. Senão vejamos: ..  (fls. 262/263).
+ ..
+Ainda pode-se dizer que a quantidade de droga apreendida, não justifica o afastamento da benesse do tráfico privilegiado,sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades criminosas ou a sua participação em organização criminosa (fl. 265).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, no julgamento dos embargos infringentes, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, data vênia, tenho que restou comprovado que a conduta do embargante não foi ocasional, eis que o mesmo se dedica às atividades criminosas.
+Como bem destacado no voto majoritário pelo em. Desembargador Relator, o acusado possui uma condenação por delito de tráfico de drogas, que apesar de ocorrido em 27/07/2018, após os fatos narrados nos presentes autos, teve sentença condenatória definitiva anterior à ora recorrida, ex vida CAC de fls. 82/83 (fl. 249).
+ ..
+Dessa forma, rogando vênia ao Desembargador Vogal, tenho que é inviável a aplicação do benefício disposto no § 4º do art. 33 da Lei 11.343106 ao embargante, eis que não se encontram presentes, cumulativamente, os requisitos previstos na norma legal (fls. 250/251).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. DOSIMETRIA. ART. 40, INCISO III, DA LEI N. 11.343/2006. INCIDÊNCIA. CAUSA DE AUMENTO DE PENA DE CARÁTER OBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, fundamentadamente, excluiu a causa de diminuição do art. 33, § 4.º, da Lei de Drogas, por estar demonstrada a dedicação às atividades criminosas. Para rever tal conclusão, com o intuito de reconhecer o tráfico privilegiado, seria necessário o reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula n. 7 do STJ.
+ ..
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.786.625/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/6/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. INOVAÇÃO RECURSAL. VIOLAÇÃO DO ART. 619 DO CPP. INEXISTÊNCIA. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO À ATIVIDADE ILÍCITA. SÚMULA 7/STJ. PERDIMENTO DOS BENS. UTILIZAÇÃO NO TRÁFICO. HABITUALIDADE NÃO COMPROVADA. RECURSO PARCIALMENTE PROVIDO.
+ ..
+3. In casu, a instância de origem se pronunciou com clareza sobre a ausência dos requisitos para o reconhecimento do tráfico privilegiado.
+4. As instâncias ordinárias negaram a aplicação do redutor pelo tráfico privilegiado destacando a existência de prova oral demonstrando que o recorrente praticava o tráfico há período considerável, bem como pelas degravações dos aparelhos celulares comprovando tal prática.
+5. A reforma do acórdão constitui providência inadmissível em recurso especial. Incidência da Súmula 7/STJ.
+ ..
+7. Agravo regimental provido, em parte, apenas afastar a pena de perdimento do bem e determinar a restituição do veículo Corolla, placa EBX-5787 ao proprietário. (AgRg no REsp n. 1.977.052/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/2/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
