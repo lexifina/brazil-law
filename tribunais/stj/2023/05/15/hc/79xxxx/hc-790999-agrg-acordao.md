@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+BRUNO CRISTIANO BATISTA CATARINO interpõe agravo regimental contra a decisão de fls. 53-55, que denegou a ordem na qual pretendia fosse possibilitado o acordo de não persecução penal.
+Em suas razões, reitera a possibilidade de oferecimento de acordo de não persecução penal. Assinala que o "ANPP, ao criar uma causa extintiva da punibilidade (art. 28-A, § 13, CPP), revela a sua natureza mista de norma processual e norma penal, devendo, por isso, retroagir para beneficiar o agente, nos termos estatuídos pelo artigo 5º, inciso XL, da Constituição da República e pelo artigo 2º, parágrafo único, do Código Penal, já que a celebração do acordo mostra-se mais benéfica do que a condenação criminal" (fl. 65).
+Requer, dessa forma, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. VIGÊNCIA POSTERIOR AO RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+O STJ, por ambas as turmas de direito criminal, pacificou o entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.
+Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao mostrar que o STJ, por ambas as turmas de direito criminal, pacificou o entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não haja ocorrido o recebimento da denúncia, nestes termos (fls. 53-55, destaques no original):
+BRUNO CRISTIANO BATISTA CATARINO, condenado por porte ilegal de arma de fogo, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que negou provimento à apelação defensiva, na qual pretendia fosse possibilitado o acordo de não persecução penal, objetivo este reiterado nesta oportunidade.
+Ouvido, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus, visto que no caso, já havia sido recebida a denúncia quando da entrada em vigor da Lei n. 13.964/2019 (fls. 45-51).
+Decido.
+A discussão acerca da possibilidade ou não de se formular o acordo de não persecução penal, decorrente da superveniência de norma posterior, nas hipóteses em que recebida a denúncia (no caso, em julho de 2017).
+Sem embargo, na espécie, o caráter predominantemente processual do dispositivo da Lei n. 13.964/3019, que trata do tema - em que pese, evidentemente, ter algum reflexo penal, e, especialmente, a própria razão de ser do instituto, que é evitar a deflagração de processo criminal -, a sua retroatividade, diversamente do que ocorre com as normas híbridas com predominante conteúdo material (de que é exemplo o dispositivo que condiciona a ação penal a prévia representação da vítima), deve ser limitada ao recebimento da denúncia do Ministério Público, isto é, à fase pré-processual da persecutio criminis.
+No particular, observo que este é o entendimento da Quinta Turma: "a jurisprudência da Quinta Turma desta Corte, reconhecendo o caráter eminentemente processual da norma trazida no art. 28-A do Código de Processo Penal (acordo de não persecução penal), vem decidindo pela sua aplicação somente aos processos em curso até o recebimento da denúncia" (AgRg no HC n. 621721/SC, Rel. Ministro Ribeiro Dantas, DJe 8/2/2021).
+Por ocasião do julgamento do HC n. 615.412/SP, realizado no dia 9/3/2021, a Sexta Turma acabou por acompanhar a compreensão sufragada pela Quinta Turma, de modo que, no âmbito desta Corte, não há mais divergência entre os órgãos fracionários. Nesse sentido:
+ ..
+Esse também é o entendimento sufragado pela Primeira Turma do STF, "O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente.
+Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia" (HC n. 191.464 AgR, Rel. Ministro Roberto Barroso, DJe 26/11/2020). Alinho-me, portanto, a essas mesmas diretrizes.
+Aliás, o tema trazido à discussão nesta oportunidade foi afetado para julgamento repetitivo, sem a suspensão dos casos em andamento, com a seguinte tese: "Delimitação da controvérsia: "(im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia"" (ProAfR no REsp n. 1.890.343/SC, Rel. Ministro Reynaldo Soares da Fonseca, DJe 15/6/2021).
+No caso, a possibilidade de acordo de não persecução penal, previsto no art. 28-A do CPP, com redação dada pela Lei 13.964/2019, somente foi aventada quando já recebida a denúncia, tal como destacou o acórdão impugnado, na linha da orientação desta Corte (fl. 32): "a aplicação da retroatividade benéfica do referido instituto me parece ficar limitada, à fase anterior à oferta e recebimento da denúncia. Não, aos feitos em estágio processual avançado já com recebimento da denúncia, por não mais atender sua finalidade, que é evitar o início da ação penal".
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
