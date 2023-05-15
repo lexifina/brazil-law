@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por AUTO AVIAÇÃO PANAMBIENSE LTDA. inconformada com a decisão de fls. 160/165, proferida pelo em. Ministro Presidente do STJ, que conheceu do agravo para não conhecer do recurso especial em razão da Súmula 7/STJ; impossibilidade de análise de matéria constitucional nesta Corte; ausência de similitude fática.
+Em suas razões, o agravante aponta que "no que concerne ao direito, ainda que excepcional, de empresas obterem-se a benesse da gratuidade da justiça, está regulamentada pelos arts. 98 e 99 da Lei 13.105/15 e com base nesta legislação infraconstitucional restou amparada a decisão recorrida e corretamente atacada via Recurso Especial" - (fl. 171).
+Aduz que "a análise do recurso especial não invoca questão de matéria fática, apenas a aplicabilidade da legislação infraconstitucional, a qual não foi devidamente analisada nos autos" - (fl. 171).
+Não foi oferecida impugnação (fl. 180).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria em usurpação de competência constitucionalmente atribuída ao Eg. Supremo Tribunal Federal (CF, art. 102).
+2. A concessão do benefício da gratuidade de justiça à pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 do Superior Tribunal de Justiça.
+3. No caso, as instâncias ordinárias concluíram que não ficou demonstrada a impossibilidade da agravante pessoa jurídica de arcar com os encargos processuais. A modificação do referido entendimento demandaria o reexame de fatos e provas, o que esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar, conforme se detalha nas razões a seguir:
+De fato, em que pese a parte tenha suscitado como violados dispositivos infraconstitucionais, também apontou ofensa ao artigo 5º, XXXV, da Constituição Federal. Observa-se que, por tratar-se de matéria a ser apreciada na suprema instância, não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria em usurpação de competência constitucionalmente atribuída ao Eg. Supremo Tribunal Federal (CF, art. 102).
+Ademais, com relação ao pedido de deferimento do benefício da justiça gratuita, a Corte de origem afirmou que a empresa não logrou êxito em demonstrar a condição de hipossuficiência, como se demonstra, in verbis (fl. 77):
+No caso concreto, em que pesem as alegações em sentido contrário, verifica-se que, de fato, a recorrente não comprovou inequivocamente a sua condição de hipossuficiência financeira.
+Isso porque, como bem referiu a decisão agravada, a empresa agravante movimenta numerário expressivo e possui saldo de R$ 1.907.307,31 referente a sua receita operacional, valor que não se coaduna à impossibilidade financeira necessária para a concessão da gratuidade. Nesse sentido, não vislumbro no agravo elementos novos a ensejar a mudança da decisão, uma vez que não restou comprovada categoricamente a hipossuficiência alegada.
+Dessa forma, tendo em vista que a recorrente não se desincumbiu do ônus de comprovar contundentemente sua hipossuficiência, não há falar em concessão do benefício pretendido.
+Nos termos da jurisprudência desta Corte, a concessão do benefício da gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de miserabilidade.
+A propósito:
+PROCESSO CIVIL - AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL - CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA A PESSOA JURÍDICA DE DIREITO PRIVADO - DESCABIMENTO - NÃO COMPROVAÇÃO DOS REQUISITOS LEGAIS.
+1. É inviável a concessão do benefício da assistência judiciária gratuita quando o interessado não comprova sua situação financeira precária.
+2. A alegação de a empresa estar em dificuldades financeiras, por si só, não tem o condão de justificar o deferimento do pedido de justiça gratuita, não sendo possível ao STJ rever o entendimento das instâncias ordinárias, quando fundamentado no acervo probatório dos autos, sem esbarrar no óbice da Súmula 7/STJ. 3. Agravo regimental não provido. (AgRg no AREsp 360.576/MG, SEGUNDA TURMA, Rel. Ministra ELIANA CALMON, julgado em 19/11/2013, DJe de 29/11/2013)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. INDEFERIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Por não se tratar de direito absoluto, porquanto a declaração de pobreza implica simples presunção juris tantum, pode o magistrado, se tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado, exigir-lhe que faça prova de sua situação. A jurisprudência desta Corte é pacífica no sentido de que, tratando-se de pessoas jurídicas, não há que se falar em presunção de miserabilidade, cabendo à parte requerente comprovar a condição alegada.
+2.- A revisão do Acórdão recorrido, que indefere o pedido de concessão dos benefícios da justiça gratuita, demanda reexame do conjunto fático-probatório delineado nos autos, providência inviável em âmbito de Recurso Especial, incidindo o óbice da Súmula 7 deste Tribunal.
+3.- O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos. 4.- Agravo Regimental improvido. (AgRg no AREsp 357.895/MG, TERCEIRA TURMA, Rel. Ministro SIDNEI BENETI, julgado em 24/9/2013, DJe de 8/10/2013) PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO 535 DO CPC. NÃO OCORRÊNCIA.
+ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA. AFERIÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA 7/STJ. 1. Não houve ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. O entendimento desta Corte Superior é no sentido de ser possível a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, desde que demonstrem a impossibilidade de arcar com os encargos processuais, nos termos da Súmula 481/STJ.
+3. Contudo, analisando o caso concreto, o Tribunal de origem, após a aferição do contexto fático, afastou o benefício pleiteado. Assim, a alteração destas conclusões, tal como colocada nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. 4. Agravo regimental a que se nega provimento. (AgRg no AREsp 297.360/RJ, PRIMEIRA TURMA, Rel. Ministro SÉRGIO KUKINA, julgado em 3/9/2013, DJe de 10/9/2013)
+Nesse contexto, tem-se que a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NÃO COMPROVAÇÃO DA DIFICULDADE FINANCEIRA PARA PAGAMENTO DAS CUSTAS JUDICIAIS. INDEFERIMENTO. ALTERAÇÃO DAS PREMISSAS FÁTICAS. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão de admissibilidade. Reconsideração.
+2. Não se constata a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões essenciais ao deslinde da controvérsia.
+3. A concessão do benefício da gratuidade de justiça à pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 deste Superior Tribunal.
+4. No caso, o col. Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, asseverou que a empresa ora recorrente não comprovou sua incapacidade financeira de arcar com as despesas do processo.
+5. A alteração das premissas fáticas firmadas pelo col. Tribunal a quo, quanto à comprovação ou não da dificuldade financeira de a pessoa jurídica arcar com o pagamento das despesas processuais, tal como propugnada, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos, providência vedada no recurso especial pela Súmula 7 do STJ.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp 1529915/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/05/2020, DJe 18/05/2020)
+Por fim, a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio - por ser inviável a aferição de similitude fática entre os julgados -, e impede o seguimento do presente recurso pela alínea "c" do permissivo constitucional. Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido." (AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
