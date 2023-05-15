@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOAO BATISTA DE SOUSA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA. IMÓVEL COMERCIAL. USO DE ALGUNS CÔMODOS PARA MORADIA DO DEVEDOR. FATO QUE NÃO CARACTERIZA BEM DE FAMÍLIA. CONSTRIÇÃO MANTIDA.
+I. O fato de três cômodos existentes no estabelecimento comercial serem utilizados como moradia pelo devedor não infirma a natureza comercial do imóvel de pelo menos 560 m2 de área construída e, por via de consequência, não caracteriza bem de família, consoante a inteligência dos artigos 1º, caput, e 5º, caput, da Lei 8.009/1990.
+II. Recurso conhecido e desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts 1º, caput e parágrafo único, e 5º da Lei n. 8.009/1990, no que concerne à caracterização de bem de família impenhorável, haja vista que o fato de o imóvel também ser destinado a fins comerciais, além de ser moradia do recorrente, por si só, não desnatura tal característica, trazendo a seguinte argumentação:
+Todavia, o fato de o imóvel também ser destinado a fins comerciais, além de ser moradia do recorrente, por si só, não desnatura a característica de bem de família. Não por outro motivo, o parágrafo único do art. 1º da Lei 8.009/1990 alarga proteção à moradia conferida no caput para compreender "o imóvel sobre o qual se assentam a construção, as plantações, as benfeitorias de qualquer natureza e todos os equipamentos, inclusive os de uso profissional, ou móveis que guarnecem a casa, desde que quitados."
+ ..
+Nessa perspectiva, em consonância com o direito fundamental à moradia (CF/88, art. 6º), à dignidade da pessoa humana (CF/88, art. 1º, III) e à solidariedade (CF/88, art. 3º, I), não se deve atribuir interpretação restritiva aos arts. 1º, caput e parágrafo único, e 5º da Lei 8.009/1990, mas teleológica e sistemática, de modo que não é pelo fato de o imóvel também ser utilizado para fins comerciais que lhe retira a característica de bem de família, vez que igualmente destinado à moradia do recorrente (fls. 174/176).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+À luz desse vetor hermenêutico, só pode ser considerado bem de família o imóvel residencial próprio destinado à moradia permanente do casal ou da entidade familiar, nos termos dos artigos 1º, caput, e 5º, caput, da Lei 8.009/1990:
+ ..
+Não é o que se verifica nos autos, pois o imóvel penhorado não tem natureza residencial, mas comercial, conforme se extrai do laudo de avaliação de fls. 1/4 ID 100746940:
+ ..
+O fato de três cômodos existentes no "fundo do bar" serem utilizados como moradia não infirma a natureza comercial do imóvel de pelo menos 560 m 2 de área construída, como ilustram as fotografias de fls. 1/25 ID 100746939 (autos principais).
+Com efeito, o artigo 1º da Lei 8.009/1990 é claro no sentido de que somente se qualifica como bem de família o "imóvel residencial" próprio do casal ou da entidade familiar. Imóvel comercial não se transmuda em imóvel residencial pelo fato de ser utilizado, em pequena parte, como moradia pelo devedor.
+Note-se que a parte usada como moradia corresponde a três cômodos do prédio destinado ao comércio, ou seja, não há individualidade, fática ou jurídica, apta a considera-la bem de família insuscetível de constrição (fls. 148/149, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
