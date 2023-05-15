@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim fundamentada (e-STJ fl. 344-345):
+Mediante análise do recurso de VALMIR CANDIDO PEREIRA, verifica-se que incide o óbice da Súmula n. 284/STF uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+O agravante em suas razões, sustenta:
+ ..  a pretensão ora exposta não se trata de reexame de prova, mas sim da devida e nova valoração da mesma, ou seja, na devida revaloração do acervo probatório, bem como diante da necessidade de aplicação dos princípios que norteiam a marcha processual e assim, tornam o processo mais justo para as partes, além da discrepância entre o entendimento da jurisprudência e o caso concreto, razão pela qual faz jus ao conhecimento do presente Recurso Especial e o encaminhamento do mesmo junto ao tribunal competente.
+Por outro lado, o agravante exerceu atividades consideradas especiais ao longo de sua vida ativa, nas funções de tratorista e tratorista/guincheiro na área rural, sendo que, ao contrário do que restou decido pela E. Décima Turma o período de 01/06/09 a 06/05/13 também deve ser reconhecido como trabalhado em condições nocivas a sua saúde e integridade física.
+De acordo com o princípio da verdade real estabelece que o julgador sempre deve buscar estar mais próximo possível das verdades ocorridas no fato, devendo existir sempre um sentimento de busca pela verdade quando da aplicação da pena e da apuração dos fatos. Certo é que deve-se dar prioridade ao princípio da busca da verdade real, diante do interesse social que envolve demandas como a do agravante.
+Ocorre que a E. Décima Turma agiu equivocadamente ao afastar o reconhecimento do referido período, sob o fundamento de que "(..) de acordo com o laudo pericial judicial, não houve exposição a agentes insalubres, o que também é corroborado pelo PPP dos autos.".
+A vista da verdade, o requerente trabalhava com máquinas pesadas debaixo das mais diversas condições de tempo e esteve sujeito a poeiras, ventos, bem como esteve exposto a produtos químicos, fertilizantes, herbicidas, utilizados no processo produtivo da plantação da cana de açúcar, conforme demonstrado através dos documentos de fls.
+19/20, fls. 66/68, fls. 161, o que inclusive foi corroborado pela prova testemunhal em audiência, razão pela qual o referido período também deve ser enquadrado como especial, sendo que a agressividade das condições de desempenho laborativo é até mesmo intuitiva.
+Ressalta-se que no laudo pericial, o próprio profissional afirma que o agravante trabalhava a céu aberto.
+Outrossim, os documentos fornecidos pela empregadora Usina Batatais não coadunam com a realidade de trabalho do autor, uma vez que foi elaborado em prol dos interesses da empresa e, portanto, não fornecem os elementos verídicos quanto às reais condições do ambiente de trabalho a que o agravante sempre esteve exposto.
+O agravante apresentou para comprovação das atividades especiais todos os documentos que lhe são exigidos para as respectivas épocas e que lhe são disponíveis, sendo que para a consideração do caráter especial de tais atividades especiais por ela exercidas bastam as atividades e os documentos e demais provas em conjunto, não podendo ser prejudicado pela impossibilidade de obtenção de outros documentos e até mesmo pelas informações prestadas unilateralmente pelo empregador nos documentos obtidos.
+Importante ressaltar que verifica-se que as atividades desempenhadas pelo autor como operador de máquinas agrícolas no período de 01/06/2009 a 06/05/2013 são as mesmas daquelas exercidas no período posterior a 31/05/2009, que como se verifica do PPP de fls. 19/20 dos autos e que consta a exposição ao agente ruído de - 90 dB(a) que se enquadra como atividade especial no código de 2.0.1 do Decreto 2.172/97.
+A prova testemunhal, por sua vez, ratificou as informações do PPP de fls.
+19/20, confirmando que após 01/06/2009 o autor continuou operando maquinários, na função de operador de máquinas 1íder, estando exposto a ruídos intensos - e que não utilizavam equipamentos de proteção.
+Portanto, não faz sentido em não acolher o período de 01/06/2009 a 06/05/2013, uma vez que o autor desempenhou as mesmas atividades que foram consideradas como especiais no período posterior a 31/05/2009.
+Sem impugnação (e-STJ fl. 359).
+É o relatório.
+EMENTA
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO EM  RECURSO  ESPECIAL.  APLICABILIDADE  DO  CPC/2015.  NÃO  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  S  182/STJ.
+1.  O presente agravo interno foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Trata-se de agravo interno que ataca decisão da Presidência desta Corte Superior de Justiça que conheceu do agravo para não conhecer do recurso especial sob o fundamento de que "a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF". Todavia, o agravante em suas razões limitou-se a reproduzir as questões de mérito lançadas nos recursos anteriores sem dialogar com a decisão recorrida.
+3. Dessarte, é pacífico o entendimento desta Corte de que a falta de ataque específico à decisão agravada ou a apresentação de argumentação dissociada de seus fundamentos acarreta o não conhecimento do recurso, a teor do que dispõe a Súmula 182 do STJ.
+4.  Agravo  interno  não  conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar.
+Na espécie, como relatado supra, a decisão ora agravada não conheceu do recurso especial em razão dos seguintes fundamentos: (a) incidência da Súmula 284 do STF (indicação genérica de lei federal). Todavia, no presente agravo interno, conforme relatado supra, das razões recursais em destaque, observa-se que a agravante, não impugna tal fundamento, limitando-se a reproduzir argumentos de defesa de mérito lançadas nos recursos anteriores sem dialogar com a decisão recorrida.
+Diante da falta de impugnação específica contra a decisão da qual se recorre ou a apresentação de razões genéricas ou dissociadas dos seus fundamentos, impõe-se a incidência da Súmula 182/STJ.
+Com efeito, além da manifestação do inconformismo, inerente ao ato de irresignação, nos termos do art. 1021, § 1º, do CPC/2015, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+A falta de impugnação específica aos fundamentos da decisão agravada acarreta o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..
+1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+2. Agravo interno não provido, com aplicação de multa. (AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 23/5/2018)
+Citem-se, ainda, na parte que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ.  ..
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada, incidindo, portanto, a Súmula 182/STJ.
+ ..
+(AgInt no REsp 1.661.786/PE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/5/2018)
+PROCESSUAL CIVIL. .. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.  ..
+ ..
+III - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil. IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido. (AgInt no AgInt no AREsp 1.125.405/GO, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 6/4/2018)
+No mais, necessário apontar que não é cabível o enfrentamento de teses de mérito se não suplantado o juízo de inadmissibilidade recursal e, "diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial" (AgRg no AREsp n. 2.032.402/SP, Rel. Min. Laurita Vaz, 6ª Turma, DJe 06/05/2022).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
