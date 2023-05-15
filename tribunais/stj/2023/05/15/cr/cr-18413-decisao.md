@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Norte, Juízo Local Criminal de Vila Franca de Xira, Juiz 2) solicita que se proceda à notificação de ANDERSON DE PAULA CORREA para tomar ciência de despacho, proferido no Processo n. 511/08.0PILRS, pelo qual foi convertida a pena de multa de  1.500 em 200 (duzentos) dias de prisão subsidiária, bem como de que pode, a todo tempo, evitar, total ou parcialmente, a execução da prisão subsidiária, pagando, no todo ou em parte, a multa em que foi condenado (fl. 6).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 51 ), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
