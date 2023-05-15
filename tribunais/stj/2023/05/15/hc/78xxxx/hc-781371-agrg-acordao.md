@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por Luciano de Paula dos Santos, contra decisão singular por mim proferida, às fls. 97/99, em que não conheci do habeas corpus.
+O agravante alega, que "o atestado de bom comportamento carcerário e o boletim informativo são os instrumentos mais adequados à análise do cabimento de direitos da execução, na medida em que refletem o comportamento objetivo da pessoa encarcerada, sem importar em violação aos direitos relacionados à sua personalidade e com vistas à aplicação de um direito penal do FATO, não do autor." (fl. 106).
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para que seja reformada a decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. A assertiva de que nem a prática de falta grave, nem o cometimento de novo crime interrompem o lapso para a obtenção do livramento condicional, mostra-se despicienda para a solução da lide, pois o benefício restou indeferido pela ausência do requisito subjetivo e não o objetivo.
+2. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Conforme relatado, busca-se, no presente agravo a progressão de regime sem a necessidade de exame criminológico.
+Especificamente, no tocante à impossibilidade de progressão de regime, o Tribunal a quo negou provimento ao agravo defensivo, concluindo pela necessidade de realização prévia do exame criminológico, como se percebe dos seguintes trechos:
+"Ainda, de acordo com o boletim informativo, o agravado registra falta disciplinar de natureza grave em seu prontuário, consistente em desobediência (07.09.2019).
+Não se olvide que, de acordo com informação de fls. 16 e 18, o agravado foi beneficiado anteriormente com promoção ao regime aberto, tendo sido novamente preso em flagrante por nova prática criminosa, havendo risco relevante de tornar a delinquir.
+Assim, não obstante tenha o sentenciado, por um lado, preenchido o requisito objetivo caracterizado pelo elemento corporal, constata-se, por outro lado, que o requisito subjetivo caracterizado pelo elemento de ordem social, não restou convincente a fim de que o agravado mereça o benefício almejado, levando-se em consideração que se está discutindo liberdade condicional para indivíduo que praticou delitos graves, violentos e um hediondo.
+ ..
+Se por um lado os laudos não vinculam o Julgador, sob pena de transformar o perito em Juiz, de outro é igualmente certo que os laudos técnicos fornecem ao magistrado informações que normalmente o Julgador não possui, pois foge à sua especialidade, daí a necessidade, quando o caso concreto a indicar, de se proceder a análise mais aprofundada do mérito pessoal do apenado. É o caso dos autos." (fs. 76/78)
+Como se vê, o acórdão atacado, fundamentou a realização do exame criminológico para a análise do livramento condicional, consistente no histórico carcerário conturbado do apenado, em face do cometimento de falta disciplinar de natureza grave, pois o agravado foi beneficiado anteriormente com promoção ao regime aberto, tendo sido novamente preso em flagrante por nova prática criminosa,.
+A corroborar esse entendimento, impende colacionar os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Na hipótese, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do cometimento de falta disciplinar de natureza grave, pois, durante as diversas oportunidades em que lhe foram concedidos benefícios como prisão domiciliar, saídas temporárias e, até mesmo, progressão de regime, houve o cometimento de novo crime, de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão da progressão de regime.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 778.067/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO DA PENA. LIVRAMENTO CONDICIONAL. HISTÓRICO DE FALTAS GRAVES. AUSÊNCIA DO REQUISITO SUBJETIVO.
+1. Apesar de não interromper a contagem do prazo para o livramento condicional, a prática de falta grave impede a concessão do benefício em razão da ausência do requisito subjetivo exigido.
+2. Não se desconhece o entendimento jurisprudencial de que "não é possível atribuir efeitos eternos às faltas graves, pois constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena, sobretudo, na hipótese, em que foi atestado o bom comportamento carcerário do ora Agravado" (AgRg no HC n. 766.973/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022). No entanto, a prática da última falta grave, há menos de 2 anos, não enseja a desconsideração do histórico para fins do direito previsto no art. 83 do CP.
+3. Agravo regimental improvido.
+(AgRg no HC n. 763.755/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+Ressalte-se, por fim, que a assertiva de que nem a prática de falta grave, nem o cometimento de novo crime interrompem o lapso para a obtenção do livramento condicional, mostra-se despicienda para a solução da lide, pois o benefício restou indeferido pela ausência do requisito subjetivo e não o objetivo.
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
