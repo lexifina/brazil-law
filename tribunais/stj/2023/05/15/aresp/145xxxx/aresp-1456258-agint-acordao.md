@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto pela União contra decisão de minha lavra que, às fls. 528-530, conheceu do agravo para, desde logo, não conhecer do recurso especial pelo óbice da Súmula 211/STJ.
+A agravante em suas razões assevera que não há falar em ausência de prequestionamento, visto que a alegada violação dos artigos 502 do CPC/2015 e 6º da LINDB foi, sim, "devidamente analisada e enfrentada pelo acórdão regional, ainda que para entender contrariamente aos argumentos apresentados na sua manifestação".
+Informa que "o que a União discute em seu recurso especial é, fundamentalmente, que a decisão paradigmática no recurso repetitivo (REsp 1.318.315/AL) não pode afetar decisão em acordo transacionado entre as partes".
+Diz também que os autores anuíram com o montante, sem que fosse feita qualquer ressalva quanto à RAV, não havendo razão jurídica para o acordo ser desconsiderado, vez que revestido das formalidades legais. Trata-se de ato jurídico perfeito, sem que os autores tivessem suscitado, em tempo hábil, quaisquer vícios capazes de invalidá-lo.
+Requer, assim, a reconsideração da decisão agravada, a fim de que seja "julgado e provido" o recurso especial.
+Impugnação às fls. 544-607.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86% SOBRE A "RAV". ACORDO REFERENTE A PERÍODO LABORAL EM CARGO DIVERSO. INEXISTÊNCIA DE TRANSAÇÃO ADMÍNISTRATIVA DO REAJUSTE. VIOLAÇÃO DO ARTIGO 502 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o Tribunal de origem deu provimento ao agravo de instrumento manejado pelo Sindicato Nacional dos Auditores Fiscais da Receita Federal, dando prosseguimento à execução, relativamente ao reajuste de 28,86% incidente sobre a RAV.
+3. O artigo 1.025 do CPC/2015, ao tratar do "prequestionamento ficto", exige a indicação de afronta ao artigo 1.022 do CPC/2015, consoante jurisprudência desta Corte, o que não se observou na espécie, e, por isso o recurso não pode ser conhecido quanto à tese de violação dos arts. 502 do CPC/2015 e 6º da LICC, nos termos da Súmula 211/STJ. Deve. assim, ser mantido os fundamentos da decisão agravada.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Consigne-se inicialmente que o recurso especial foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Em que pese o esforço argumentativo empreendido pela agravante, o recurso não merece êxito. Vejamos.
+No caso dos autos, o acórdão recorrido deu provimento ao agravo de instrumento manejado pelo Sindicato Nacional dos Auditores Fiscais da Receita Federal no sentido de dar prosseguimento à execução, relativamente ao reajuste de 28,86% incidente sobre a RAV, asseverando que (fl. 143, grifo nosso):
+A jurisprudência do Superior Tribunal de Justiça, após análise do "leading case" REsp 1.318.315/AL firmou-se no sentido de que o Índice de 28,86% deve incidir normalmente sobre a parcela denominada "RAV", devendo ser realizada análise acerca da existência ou não de acordo com a Administração.
+O(s) Servidor(es) rea1iz(ou)(aram) Acordo Administrativo para recebimento dos valores devidos no cargo de Técnico do Tesouro Nacional - TTN. Não constam nos autos os Termos de Transação relativos ao montante devido em razão do reajuste dos Auditores Fiscais, objeto da lide.
+A ausência dos Termos de Transação implica na não comprovação da realização do referido acordo.
+Realço, por oportuno, que o(s) Servidor(es) faz(em) jus à incidência do reajuste a contar do momento em que ingress(ou)(aram) na carreira de Auditor Fiscal da Receita Federal, de sorte que não se pode proceder a qualquer desconto de numerário constante em transação firmada relativa a período anterior ao ingresso do(s) mesmo(s) na referida carreira.
+Assim, na liquidação, não devem ser considerados os Termos de Transação referentes a período em que o(s) servidor(es) ainda não exerci(m) o cargo de Auditor Fiscal, inexistindo justificativas a obstar a homologação dos valores apresentados.
+Pautado nessas considerações, dou provimento ao agravo de instrumento. É como voto.
+Conforme já consignado na decisão agravada, verifica-se que o Tribunal de origem não se pronunciou, nem mesmo implicitamente, a respeito dos artigos 502 do CPC/2015 e 6º da LICC e a tese a ele vinculada, não obstante terem sido opostos e julgados os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Diga-se que que esta Corte tem decidido reiteradamente no sentido de que "a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ" (AgInt no REsp n. 2.024.893/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/12/2022, DJe de 15/12/2022.).
+Por fim, cabe estabelecer que o artigo 1.025 do CPC/2015 trouxe nova disciplina acerca do prequestionamento ficto, nos seguintes termos: "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Com efeito, consoante jurisprudência desta Corte, para o seu acolhimento, faz-se necessário que o recorrente em suas razões tenha alegado ofensa ao artigo 1.022 do CPC/2015, o que não se verificou no presente feito. A propósito:
+PROCESSUAL CIVIL RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO. INE XISTÊNCIA.
+1. Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Inteligência das Súmulas 282 e 356 do STF.
+2. O Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento, inovando o legislador ao introduzir o art. 1.025, que consagrou o chamado "prequestionamento ficto", cujo acolhimento requer a indicação expressa de afronta ao art. 1.022 do CPC/2015, conforme jurisprudência desta Corte.
+3. Caso em que o recorrente deixou de alegar a negativa de prestação jurisdicional por afronta ao art. 1.022, e seus incisos, do CPC/2015, razão pela qual deve ser mantido o decisum agravado.
+4. É de observar que a Corte de origem, apesar de ter reconhecido o direito ao cômputo do trabalho rural a partir dos 12 anos, e não antes, fê-lo baseado em fundamento exclusivamente constitucional, circunstância que também impede o conhecimento do apelo especial, o qual não é remédio processual adequado para desconstituir julgado fundado em preceito constitucional, sob pena de usurpação de atribuição da Suprema Corte (art. 102, III, da CF/1988). Incidência da Súmula 126 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.808.366/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Assim sendo, em nova análise, evidencia-se que o recurso, de fato, não pode ser conhecido quanto à tese de violação dos arts. 502 do CPC/2015 e 6º da LICC. Aplica-se, à hipótese, a Súmula 211/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
