@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Lais Regina Alcantara Moraes dos Santos, contra o acórdão que negou provimento ao agravo regimental em recurso especial por ela interposto (fls. 1.484/1.485):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ROUBO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PLEITO DE PRISÃO DOMICILIAR. AGRAVANTE QUE AGUARDA O JULGAMENTO EM LIBERDADE (ORDEM CONCEDIDA NO HC N. 538.478/SP, DJE 14/10/2019). FALTA DE INTERESSE RECURSAL NO PRESENTE MOMENTO DA MARCHA PROCESSUAL. PRISÃO CAUTELAR NÃO DECRETADA. JURISPRUDÊNCIA DO STJ.
+1. Não cabe a apreciação do pedido de fixação de prisão domiciliar no presente momento da marcha processual.
+2. Não há nos autos informação de que fora decretada prisão cautelar; pelo contrário, o Tribunal paulista destacou no acórdão dos embargos de declaração que a embargante aguarda em liberdade eis que beneficiada com a concessão de medida liminar no Habeas Corpus n. 538.478-SP em 11/10/2019 pelo C. STJ (fl. 1.370).
+3. Não há, no acórdão impugnado, determinação da expedição de mandado de prisão em desfavor da Paciente, que respondeu à ação penal em liberdade. Assim, sem objeto a impetração no tocante aos pedidos de prisão domiciliar nos termos da Recomendação n. 62/CNJ e do art. 318 do Código de Processo Penal. No caso eventual de expedição de mandado de prisão, superveniente ao trânsito em julgado da condenação, para o inicial cumprimento da pena, devem os pedidos ser submetidos ao Juízo da Execução, competente para avaliar o cabimento da medida para preservar a saúde da Paciente e para assegurar o cuidado de seus filhos menores, não cabendo a esta Corte Superior se manifestar originariamente sobre o pleito, sob pena de supressão de instâncias (HC n. 605.747/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021).
+4. Agravo regimental improvido.
+Assevera a embargante que o acórdão padece de vício de omissão porque o presente pedido é diverso, tendo em vista que a defesa busca que seja determinado, desde já, que a embargante inicie o cumprimento de sua pena, após o trânsito em julgado da ação, em prisão domiciliar, para que possa cuidar de sua filha, todavia, a referida fundamentação não foi diretamente enfrentada por Vossas Excelências no v. acórdão embargado, caracterizando omissão no decisum (fl. 1.497).
+A defesa ressalta que tem ciência de que no presente processo a ora embargante aguarda em liberdade, bem como ainda não houve expedição de mandado de pri são. Todavia, como exposto no agravo regimental, quando ocorrer o trânsito em julgado do presente processo, haverá ordem de prisão em desfavor da embargante para início do cumprimento de pena em regime semiaberto (fl. 1.497).
+Ao final da peça recursal, pede que o presente Recurso de Embargos de Declaração seja conhecido e acolhido, para que seja sanada a omissão apontada, com a consequente determinação de colocação da embargante em prisão domiciliar quando ocorrer o trânsito em julgado da ação penal, para que em seu domicílio esta cumpra sua pena, dando os devidos cuidados à sua filha (fl. 1.499).
+Foi dispensada a oitiva da parte embargada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. VERIFICAÇÃO. NÃO OCORRÊNCIA. TESE DEFENSIVA APRECIADA NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO. PRETENSÃO DE NOVO JULGAMENTO DO CASO. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+Embora a embargante tenha alegado a ocorrência de omissão, verifica-se que se trata de mero inconformismo da parte. A tese defensiva foi devidamente apreciada no acórdão embargado.
+Nesse sentido, o embargante pretende, na espécie, obter novo julgamento do caso, em sentido oposto ao já afirmado por este órgão colegiado ao apreciar o agravo regimental, o que não é admitido em embargos de declaração (EDcl no AgRg no AREsp n. 1.710.366/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/10/2022 - grifo nosso).
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir a embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte Superior, a saber: baixa imediata dos autos com certificação do trânsito em julgado.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018).
+Ante o e xposto, rejeito os embargos de declaração.
