@@ -1,0 +1,37 @@
+DECISÃO
+VICENTE LEITE SOBREIRA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Ceará que, ao denegar a ordem, manteve a sua condenação.
+A defesa pretende "o reconhecimento de nulidade absoluta de acordão, proferido pela Corte local, o qual manteve condenação em desfavor do paciente" - presos preventivamente pelo crime de homicídio qualificado -, sob o argumento de "o paciente foi intimado por edital para o comparecimento em sessão de plenário do Júri, mesmo não tendo sido esgotados os meios necessários para a sua cientificação, além de que o mesmo não foi sequer procurado no endereço informado nos autos".
+O Parquet federal oficiou pelo não conhecimento do writ:
+PENAL - PROCESSUAL PENAL - HABEAS CORPUS - REVISÃO CRIMINAL. CONDENAÇÃO. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, II E IV C/C ART. 14, II, I E ART. 69, TODOS DO CÓDIGO PENAL. TRÂNSITO EM JULGADO. NÃO CONHECIMENTO DO WRIT. PLEITO DE DECLARAÇÃO DE NULIDADE DE JULGAMENTO EFETUADO PELO PLENÁRIO DO JÚRI. REVELIA DO RÉU. ACUSADO FORAGIDO. NÃO LOCALIZADO PARA INTIMAÇÃO. EDITAL. ACUSADO DEFENDIDO POR DEFENSOR PUBLICO NOMEADO PARA O EXERCÍCIO DA DEFESA TÉCNICA. NULIDADE. INOCORRÊNCIA. NÃO PROPOSITURA DE REVISÃO CRIMINAL NA ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBIIDADE DE CONHECIMENTO DO HC. AFASTAMENO DA COISA JULGADA. IMPOSSIBILIDADE. HC SUBSTITUTIVO DE REVISIONAL. FORA DAS BALIZAS DO ART. 621, DO CPP. INDEVIDA SUPRESSÃO DE INSTÂNCIA. MERO INCONFORMISMO. DISCUSSÃO QUE NÃO CABE NA VIA ESTREITA DO HC. REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. PROCEDIMENTO VEDADO NA VIA MANDAMENTAL. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DA ORDEM. (fl. 225)
+Decido.
+As informações prestadas pelo Juízo de Direito noticiam o seguinte:
+ ..
+Após a instrução criminal sobreveio sentença de pronúncia, proferida em 21.08.2014, que acolheu a denúncia incursionando os imputados Antônio Renildo Custódio o Cazuza, Vicente Leite Sobreira e Rafael Martins de Andrade nos art. 121, §2º, II e IV c/c art. 14, II, I e art. 69, todos do CPB. Já com relação ao acusado Felipe Denis Carmo da Silva (65 operou-se a impronúncia (fls. 364-370).
+Em 26.09.2017 considerando a noticia da fuga do réu Vicente Leite Sobreira às fls. 837, restou determinado sua intimação no endereço informado às fls. 230, porém não teve êxito. Nestas condições, foi determinado às fls. 853 a intimação do referido acusado para a sessão de julgamento por edital, conforme consta às fls. 859.  ..  (fl. 220)
+O acórdão ora impugnado afastou a tese defensiva nos seguintes termos:
+ ..
+Pois bem. No que tange ao pleito de nulidade processual, tem-se que o paciente esteve assistido na sessão do júri pela defensoria pública. Além disso, o endereço para o qual foi expedido o mandado de intimação acerca da sessão do júri foi o mesmo informado pelo paciente em seu interrogatório (pág. 230 da ação penal de origem), no instrumento procuratório (pág. 476) e na declaração de pobreza assinada pelo acusado (pág. 477 dos autos de origem). Ademais, foi informado ao juízo de piso que no dia 10/6/2017 o paciente empreendeu fuga do estabelecimento prisional (pág. 837). Isto posto, com a informação do oficial de justiça de que não existia do endereço informado pelo paciente e diante da notícia de fuga foi determinada a intimação por edital, não havendo constrangimento ilegal capaz de tornar nula a intimação por edital do paciente, bem como a sessão do júri realizada. Frise-se que diante da ausência do interesse de agir do impetrante, na modalidade interesse-adequação, uma vez que o presente habeas corpus foi impetrado como sucedâneo recursal, eis que a matéria deduzida neste writ é atinente à revisão criminal, o resultado é a inadequação da via eleita, posto que não há flagrante ilegalidade a ser sanada.
+Diante do exposto, NÃO CONHEÇO do writ, haja vista não restar configurado o constrangimento ilegal. É como voto.  ..  (fl. 199)
+Os elementos dos autos afastam a plausibilidade do direito tido por violado, tendo em vista que o acórdão registrou que "o paciente esteve assistido na sessão do júri pela defensoria pública  .. , o endereço para o qual foi expedido o mandado de intimação acerca da sessão do júri foi o mesmo informado pelo paciente em seu interrogatório, no instrumento procuratório e na declaração de pobreza assinada pelo acusado", bem como "foi informado ao juízo de piso que no dia 10/6/2017 o paciente empreendeu fuga do estabelecimento prisional".
+Evidencia-se, assim, que o réu, apesar de ter conhecimento a respeito da ação penal instaurada contra si, não informou ao juízo o seu novo endereço nem forneceu meios para ser localizado.
+A propósito:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE. CITAÇÃO POR EDITAL. RÉU NÃO LOCALIZADO. CONHECIMENTO A RESPEITO DA EXISTÊNCIA DE AÇÃO PENAL EM SEU DESFAVOR. VÍCIO NÃO CONSTATADO. PRINCÍPIO DA BOA-FÉ OBJETIVA. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. A citação por edital somente pode ocorrer após esgotados os meios de localização do acusado, tal como ocorre neste caso, em que o ora agravante, mesmo sabendo da existência de ação penal movida em seu desfavor, não informou ao juízo seu novo endereço nem forneceu meios para ser localizado, justificando a adoção da medida para efetivar seu chamamento ao processo.
+2. No sistema processual penal vigora o princípio da lealdade e da boa-fé objetiva, não sendo lícito à parte arguir vício com o qual tenha concorrido, sob pena de se violar o princípio do nemo auditur propriam turpitudinem allegans.
+3. Neste caso, há elementos suficientes que permitam concluir que o recorrente tinha conhecimento sobre a instauração de procedimento criminal em seu desfavor e, mesmo assim, permaneceu inerte, deixando de comunicar ao juízo seu novo endereço, não sendo viável exigir que se determine a realização de buscas aleatórias, sem qualquer indicativo do paradeiro do denunciado.
+4. Recurso ordinário não provido.
+(RHC n. 150.827/MT, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/9/2021)
+ ..
+1. A jurisprudência deste Superior Tribunal de Justiça sedimentou-se no sentido de ser " ..  obrigação do réu manter atualizado o seu endereço nos autos do processo do qual tem ciência tramitar em seu desfavor, não havendo qualquer nulidade quando, ao não ser localizado, o Juízo procede à citação/intimação por edital.
+ .. ."(AgRg no HC 726.326/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/03/2022, DJe 28/03/2022).
+2. A Defesa não trouxe argumento robusto o bastante para superar o fundamento de que o desconhecimento da obrigação de manter o endereço atualizado não seria capaz de anular o feito.
+ ..
+(AgRg no AREsp n. 2.036.669/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 23/5/2022)
+ ..
+VIII - Assim não há falar em nulidade de citação, quando demonstrado que foram realizadas as tentativas de citação do ora Agravante, sendo que foram empreendidos os esforços na tentativa de localizá-lo, e, quando evidenciado que se encontrava em local incerto e não sabido, seguiu a sua citação por edital com amparo no art. 366 do Código de Processo Penal.
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC n. 123.013/PB, Rel. Ministro Felix Fischer, 5ª T., DJe 4/5/2020, grifei)
+Registro que o acolhimento da tese defensiva de que não se exauriram as vias ordinárias de localização do paciente demandaria acurada incursão probatória, inviável em habeas corpus.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
