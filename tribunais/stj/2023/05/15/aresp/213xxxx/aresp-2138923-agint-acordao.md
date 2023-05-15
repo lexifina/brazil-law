@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 401/403 e-STJ, proferida pela Ministra Presidente do STJ.
+A parte agravante sustenta que infirmou especificamente os fundamentos do juízo singular de admissibilidade exercido pela Corte estadual, acerca de inexistência de óbice das Súmulas 283 e 284 do STF, motivo por que inaplicável a Súmula 182 do STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO JUÍZO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Sem razão a parte agravante. A decisão agravada foi assim redigida, no que interessa:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF (art. 805 do CPC), ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF, Súmula 283/STF e Súmula 284/STF (seguro na iminência de vencer; garantia do juízo pelo seguro retira do credor o direito de receber o montante incontroverso do débito).
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 283/STF e Súmula 284/STF (seguro na iminência de vencer; garantia do juízo pelo seguro retira do credor o direito de receber o montante incontroverso do débito). Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+O recurso especial foi interposto em face de acórdão com a seguinte ementa:
+BANCÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL EM FASE DE CUMPRIMENTO PROVISÓRIO DA SENTENÇA. DECISÃO HOMOLOGATÓRIA DA FASE DE LIQUIDAÇÃO AINDA NÃO TRANSITADA EM JULGADO.
+1. PETIÇÃO INICIAL DO RECURSO QUE CUMPRIU COM TODOS OS REQUISITOS DO ART. 1.107, E § 1º, DO CPC. CAPUT REJEIÇÃO DA PRELIMINAR ARGUIDA EM CONTRARRAZÕES.
+2. CUMPRIMENTO DA SENTENÇA REQUERIDO PELO CREDOR E DEFERIDO PELO JUÍZO. OFERECIMENTO DE SEGURO GARANTIA PELA INSTITUIÇÃO FINANCEIRA, QUE FOI INICIALMENTE ACEITO E PERDUROU ATÉ O JULGAMENTO DO AGRAVO DE INSTRUMENTO INTERPOSTO PELO BANCO CONTRA A DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA, BEM COMO INTERPOSIÇÃO DE RECURSO ESPECIAL AO QUAL SE NEGOU SEGUIMENTO. CREDOR QUE REQUER A CONTINUIDADE DA EXECUÇÃO, SEJA MEDIANTE O PAGAMENTO DO DÉBITO OU EXCUSSÃO DO SEGURO GARANTIA. BANCO QUE PUGNA PELA MANUTENÇÃO DO SEGURO COMO GARANTIA DO JUÍZO ATÉ O TRÂNSITO EM JULGADO DAS DECISÕES HOMOLOGATÓRIA DA LIQUIDAÇÃO E DE REJEIÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO DA ORDEM DE PREFERÊNCIA DO ART. 835, INC. I, DO CPC. EXECUÇÃO QUE DEVE SE PAUTAR PELA SATISFAÇÃO DO INTERESSE DO CREDOR (CPC, ART. 797). APLICABILIDADE EXCEPCIONAL DO §2º DO REFERIDO ARTIGO QUE, APESAR DE ADMITIR A EQUIVALÊNCIA DO DINHEIRO AO SEGURO GARANTIA E À FIANÇA, EXIGE A DEMONSTRAÇÃO DE INEXISTÊNCIA DE PREJUÍZO GRAVE AO EXEQUENTE, BEM COMO A POSSIBILIDADE DE DANO GRAVE AO EXECUTADO (CPC, ART.805). CIRCUNSTÂNCIAS NÃO DEMONSTRADAS EM CONCRETO, DIANTE DAS ESPECIFICIDADES DA APÓLICE E ALTÍSSIMO PORTE ECONÔMICO DO DEVEDOR. ADEMAIS, CREDOR QUE TEM DIREITO AO RECEBIMENTO DO QUANTO NÃO CONTROVERTIDO.3. INSURGÊNCIA EXTEMPORÂNEA QUANTO À FIXAÇÃO DE MULTA E HONORÁRIOS PARA A FASE DE CUMPRIMENTO DA SENTENÇA. PRECLUSÃO (CPC, ART. 507). JUÍZO QUE JÁ HAVIA ESTABELECIDO O PROCEDIMENTO QUANDO DO DESPACHO INICIAL PARA O CUMPRIMENTO DA SENTENÇA. ADEMAIS, MULTA E HONORÁRIOS QUE TAMBÉM SE APLICAM AO CUMPRIMENTO PROVISÓRIO, CONFORME DICÇÃO EXPRESSADO ART. 520, § 2º, DO CPC. RECURSO DESPROVIDO.
+Com efeito, o exame das razões do agravo em recurso especial demonstra que a parte agravante deixou de impugnar o fundamento basilar do juízo de admissibilidade - de que, nas razões do recurso especial, a instituição financeira não rebateu o argumento atinente ao eminente vencimento do seguro garantia, motivo por que se fazia relevante sua substituição, com o prosseguimento da execução.
+Assim, a incidência da Súmula 283/STF foi ignorada pela parte agravante, motivo por que bem aplicada, por analogia, a Súmula 182/STJ, não merecendo reforma a decisão ora agravada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
