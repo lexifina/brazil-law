@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICIPIO DE CARAPICUIBA contra a decisão que não conheceu de seu agravo em recurso especial em razão da incidência, por analogia, da Súmula 182 do STJ.
+Em suas razões recursais, a parte agravante alega o seguinte: (a) é inaplicável a Súmula 282/STF, "uma vez que foi demonstrado que o V. acórdão recorrido violou Lei Federal, comprovando o cabimento do Recurso Especial" (fl. 88); (b) "não há o que se falar em ofensa à Súmula nº 07 dessa Colenda Corte de Justiça, vez que o necessário ao julgamento decorre da aplicação da lei e do quanto já constante dos autos, sendo uma reanálise do processo à luz das provas produzidas" (fl. 89); (c) "não há que se falar que a legislação federal invocada não contém o substrato necessário ao amparo da tese defendida, posto que a matéria é debatida nos presentes autos, de forma que resta afastada a súmula 182 desta colenda Corte de Justiça" (fl. 89); e (d) a matéria exposta no recurso especial foi debatida na instância ordinária, estando preenchido o requisito do prequestionamento.
+Requer, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Impugnação ao recurso não apresentada conforme a certidão de fl. 96.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AG RAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 83/STJ; por conseguinte, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial, precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Para rebater a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+5. Agravo interno não conhecido.
+VOTO
+A decisão ora recorrida não conheceu do agravo devido à não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente quanto à Súmula 83/STJ; por conseguinte, consignou-se a incidência da Súmula 182 do STJ, por analogia.
+A parte, para ver examinado por esta Corte Superior seu recurso especial, precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+Na petição de agravo interno, a parte alega o que se segue: (a) é inaplicável a Súmula 282/STF, "uma vez que foi demonstrado que o V. acórdão recorrido violou Lei Federal, comprovando o cabimento do Recurso Especial" (fl. 88); (b) "não há o que se falar em ofensa à Súmula nº 07 dessa Colenda Corte de Justiça, vez que o necessário ao julgamento decorre da aplicação da lei e do quanto já constante dos autos, sendo uma reanálise do processo à luz das provas produzidas" (fl. 89); (c) "não há que se falar que a legislação federal invocada não contém o substrato necessário ao amparo da tese defendida, posto que a matéria é debatida nos presentes autos, de forma que resta afastada a súmula 182 desta colenda Corte de Justiça" (fl. 89); e (d) a matéria exposta no recurso especial foi debatida na instância ordinária, estando preenchido o requisito do prequestionamento.
+Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Para rebater a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+Registro, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do CPC como o dito regimental ou interno previsto no art. 1.021, § 1º, do CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Pelas considerações expostas, não conheço do agravo interno.
+É o voto.
