@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ELIAQUIM DIEGO PACIFICO CAMARGO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 10 anos de reclusão, em regime fechado, mais pagamento de 1.000 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, por duas vezes, na forma do art. 69 do Código Penal.
+Em sede recursal, o Tribunal de origem deu provimento ao apelo defensivo para desclassificar uma das condutas para o art. 28 da Lei n. 11.343/2006, mantida a condenação da outra por tráfico de entorpecentes, resultando a sanção final em 5 anos de reclusão e pagamento de 500 dias-multa, no regime fechado.
+Neste habeas corpus, alega impetrante não haver comprovação da habitualidade delitiva nem do envolvimento com grupo criminoso, bem como que a quantidade e natureza do entorpecente não constituem elementos idôneos e suficientes para afastar o redutor do tráfico privilegiado.
+Requer, assim, a incidência do redutor do 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem manteve o redutor do tráfico privilegiado com amparo nos seguintes fundamentos:
+"Passa-se à análise da dosimetria das penas.
+Com relação ao crime de tráfico de drogas, na primeira fase, diante da primariedade do réu, a basilar foi fixada no mínimo legal, ou seja, 5 anos de reclusão, e pagamento de 500 dias-multa, no piso mínimo.
+Na etapa intermediária, a atenuante da menoridade relativa não autoriza a redução da reprimenda aquém do menor patamar, nos termos da Súmula 231 do Superior Tribunal de Justiça.
+Na terceira fase, verifica-se que não era mesmo o caso de se aplicar o redutor previsto no artigo 33, § 4º, da Lei de Drogas.
+Como é cediço, a primariedade do agente não implica a concessão automática do benefício, sendo necessário o cumprimento cumulativo dos demais requisitos, quais sejam, bons antecedentes, ausência de dedicação a atividades criminosas e não integração de organização criminosa.
+In casu, ainda que o apelante seja primário, as circunstâncias da prisão, com a apreensão de significativa quantidade de drogas, embalagens vazias para acondicionamento dos entorpecentes, além de caderno com anotações da contabilidade do tráfico, bem como o fato de o acusado não ter demonstrado condições para ter em seu poder tal quantidade de droga sem estar associado ao tráfico, evidenciam que ele se dedicava à atividade criminosa e não pode ser tratado como aquele pequeno traficante que comercializa tóxico no varejo para sustentar seu vício.
+Nessa esteira se posiciona o C. Superior Tribunal de Justiça: "(..) Na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes (..)" (HC 434.921/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/03/2018, DJe 19/03/2018).
+Assim, à míngua de circunstâncias modificadoras, a reprimenda tornou-se definitiva em 5 anos de reclusão, e pagamento de 500 dias- multa, no piso mínimo, sendo inviável maior abrandamento" (e-STJ, fls. 47-48)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na hipótese, o Tribunal a quo manteve afastado o redutor por entender que as circunstâncias do delito e as provas colhidas em juízo denotam a habitualidade delitiva do paciente no tráfico de drogas, visto que em cumprimento de mandado de busca e apreensão foram encontrados na sua residência 917 porções de cocaína (169,51g), 40 porções, 1 tijolo inteiro e outro esfarelado de maconha (648,48g), além de R$ 140,00, em espécie, caderno com anotações relativas ao comércio espúrio, 5.000 microtubos vazios e 2 rolos de plástico filme.
+Portanto, assentado pelas instâncias ordinárias, soberanas na análise dos fatos, que o paciente faz do comércio ilícito de entorpecentes uma atividade habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. ELEVADA QUANTIDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+1. Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Este Superior Tribunal tem decidido que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+3. Agravo regimental não provido."
+(AgRg no AREsp 1052340/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2017, DJe 11/5/2017);
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. ALEGAÇÃO DE NULIDADE. INTERROGATÓRIO. INÍCIO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PROCEDIMENTO ESPECIAL DA LEI N. 11.343/2006. ILEGALIDADE. AUSÊNCIA. PENA-BASE. REDUÇÃO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. PROVIDÊNCIAS INÓCUAS. SÚMULA N. 231/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE ÀS ATIVIDADES CRIMINOSAS.
+AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
