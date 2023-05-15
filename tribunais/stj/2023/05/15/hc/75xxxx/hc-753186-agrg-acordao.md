@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por WYLLIAN MAGALHÃES DE OLIVEIRA contra decisão monocrática em que deneguei a ordem de habeas corpus assim relatada:
+Trata-se de habeas corpus impetrado em benefício de WYLLIAN MAGALHAES DE OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 0000197-27.2019.8.24.0007).
+Foi o paciente denunciado pela suposta prática do crime de tráfico de drogas (art. 33, caput, c/c o art. 40, inciso VI, ambos da Lei n. 11.343/2006).
+Nos termos da peça acusatória, "Wyllian Magalhães de Oliveira, em conluio de vontades e conjunção de esforços com os adolescentes J.V. F. de S., A. O. da S. e F. P. V. M., trazia consigo e transportava - dentro do veículo GM/Corsa, placa LYN-7552 - uma mochila contendo 5 (cinco) tabletes e mais 1 (um) torrão da substância vulgarmente conhecida como maconha, com massa bruta total de 4.974,5g ( ..  quatro quilos  e novecentos e setenta e quatro gramas e cinco decigramas), sem autorização e em desacordo com determinação legal ou regulamentar" (e-STJ fl. 505).
+Superadas as demais fases processuais, o paciente foi condenado à pena de 2 anos e 10 meses de reclusão, a ser cumprida no regime aberto, bem como ao pagamento de 291 dias-multa, substituída a sanção reclusiva por medidas restritivas de direitos, consistentes em prestação de serviços à comunidade e pecuniária.
+Contra o édito condenatório insurgiram-se a defesa e a acusação.
+O colegiado local deu parcial provimentos aos recursos para afastar a causa especial de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 e, por consequência, readequar a pena do réu, alterar o regime inicial de cumprimento para o fechado e afastar a substituição por restritivas de direitos, bem como a fim de majorar os honorários advocatícios em favor da advogada dativa, totalizando o valor de R$351,00 (trezentos e cinquenta e um reais).
+No Superior Tribunal de Justiça, sustenta a defesa, preliminarmente, a nulidade do julgamento do recurso de apelação, tendo em vista a ausência de intimação pessoal do defensor dativo.
+Destaca que, em razão da ausência de intimação pessoal, "não houve a interposição de recursos criminais após a publicação do Acórdão em sede de Apelação Criminal (evento 162), sendo perfeitamente possível que em favor do paciente e diante a decisão que julgou a apelação criminal, fossem manejados novos inconformismos, pois ao menos caberia à interposição do Recurso Especial e/ou do Recurso Extraordinário" (e-STJ fl. 6).
+Diante disso, pede a "concessão da ordem desde já em Liminar e após a confirmação no mérito, para primeiramente anular o trânsito em julgado e a respectiva certidão, e após reconhecer a nulidade absoluta da Sessão de Julgamento da Apelação Criminal, determinando-se o refazimento do julgamento com a prévia intimação pessoal da Defensora Dativa a teor do § 4º do art. 370 do CPP, incluído pela Lei n. 9.271/1996, do art. 5º, § 5º, da Lei n. 1.060/1950 e do art. 128, I, da Lei Complementar n. 80/1994, ou pelo Diário da Justiça Eletrônico do Defensor Constituído, vedando a reformatio in pejus em relação à decisão do Evento 358 proferida pela Egrégia 2ª Câmara Criminal do Tribunal de Justiça de Santa Catarina, expedindo-se por consequência Alvará de Soltura em favor do paciente Wyllian Magalhães de Oliveira, comunicando-se ao processo na origem e ao Tribunal de Justiça de Santa Catarina autos de n. 0000197-27.2019.8.24.0007, com urgência" (e-STJ fls. 8/9).
+Liminar indeferida às e-STJ fls. 1.025/1.027.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem, às e-STJ fls. 1073/1075.
+Em suas razões, o agravante reitera os fundamentos já trazidos na petição inicial do habeas corpus.
+Busca, assim, seja reconsiderada a decisão agravada ou submetido o presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR DATIVO. INTIMAÇÃO REALIZADA DE ACORDO COM A LEGISLAÇÃO VIGENTE. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, nas informações prestadas, deixou registrado que a "defensora dativa foi intimada da realização da sessão de julgamento por Diário Oficial, disponibilizado em 30 de novembro de 2020, e do seu resultado pelo Sistema PROC, com início da contagem de prazo em 21 de janeiro de 2021, findando-se no dia 04 de fevereiro do mesmo ano. A Corte registrou que a intimação pelo Sistema EPROC está amparada pelo disposto na Lei n. 11.419/2016, que dispõe sobre a informatização do processo judicial".
+2. O art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo.
+3. Foi informado no presente processo que foi disponibilizado o resultado do julgamento pelo Sistema PROC, com início da contagem de prazo em 21/1/2021, findando-se no dia 4/2/2021; e que, transcorrido o prazo sem a interposição de outros recursos, foi certificado o trânsito em julgado em 5/2/2021. Dessa forma, não se constata o vício indicado pela defesa, inexistindo teratologia ou ilegalidade a ser reparada.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+O presente recurso não abala os fundamentos da decisão agravada.
+Como deixei consignado na decisão recorrida, o Tribunal de origem, nas informações constantes das e-STJ fls. 1029/1068, registrou que:
+Do exame do extrato processual, verifica-se que a defensora dativa Claudia Alegre (OAB SC 016941) foi intimada da realização da sessão de julgamento por Diário Oficial n. 3439, disponibilizado em 30 de novembro de 2020 (doc. 3), e do seu resultado pelo Sistema PROC (Evento n. 16), com início da contagem de prazo em 21 de janeiro de 2021, findando-se no dia 04 de fevereiro do mesmo ano. Por oportuno, cumpre consignar que a intimação pelo Sistema EPROC está amparada pelo disposto na Lei n. 11.419/2016, que dispõe sobre a informatização do processo judicial.
+Ressaltei que o art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo.
+Assim, arrematei que ficou comprovado no presente processo que foi disponibilizado o resultado do julgamento pelo Sistema PROC, com início da contagem de prazo em 21/1/2021, findando-se no dia 4/2/2021; e que, transcorrido o prazo sem a interposição de outros recursos, foi certificado o trânsito em julgado em 5/2/2021.
+Dessa forma, não se constatou o vício indicado pela defesa, inexistindo teratologia ou ilegalidade a ser reparada.
+Ante o exposto, nego provimento ao recurso.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
