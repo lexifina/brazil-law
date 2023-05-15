@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por GUALTER TAVARES NETO contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Ação: de rescisão contratual, em fase de cumprimento provisório de sentença, proposta por AS INCORPORADORA LTDA - EPP E TONI CUTOLO OBRA E OBJETO LTDA contra o ora agravante.
+Decisão interlocutória: rejeitou a impugnação à penhora feito pelo agravante e deferiu o pedido para que o imóvel seja mantido em propriedade dos exequentes/agravados, abatendo-se o valor do contrato.
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ALEGADO EXCESSO DE EXECUÇÃO NA ATUALIZAÇÃO DA DÍVIDA. CÁLCULOS ELABORADOS COM BASE NA TABELA DE ATUALIZAÇÃO MONETÁRIA DESTE TRIBUNAL. PENHORA DO IMÓVEL OBJETO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE DE MANUTEÇÃO DO BEM NO PATRIMÔNIO DOS AGRAVADOS. PENHORA DE MÃO PRÓPRIA. QUESTÃO JÁ SUBMETIDA A ESTE COLEGIADO. PRECLUSÃO. IMPENHORABILIDADE DO IMÓVEL. RESIDÊNCIA DA FAMÍLIA. SITUAÇÃO CONTEMPLADA NA EXCEÇÃO DA LEI N. 8.009/90. IMÓVEL OBJETO DO PRÓPRIO CONTRATO DE COMPRA E VENDA. RETIRADA DA CONSTRIÇÃO SOBRE OUTRO IMÓVEL. QUESTÃO NÃO APRECIADA PELO JUÍZO. OMISSÃO NÃO SANADA PELA VIA APROPRIADA. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA.1. O apontado excesso de execução já foi rechaçado no julgamento do Agravo de Instrumento de n. 0717162- 34.2019.8.07.000, de minha relatoria. Assim, não evidenciado o excesso de execução no valor principal, que lastreia o pedido de cumprimento de sentença, não há que se falar em excesso na simples atualização monetária dos valores, que tem por base a tabela deste tribunal.2. A mera constrição do imóvel não se iguala à reintegração na posse desse bem, pois os credores estão apenas garantindo o recebimento do crédito, e não retirando o devedor do imóvel para passar a ocupa-lo, o que afasta a tese de violação à coisa julgada. 2.1. Ademais, a questão atinente à possibilidade ou não de o referido bem vir a ser penhorado foi objeto do Agravo de Instrumento n. 0715017-68.2020.8.07.0000, desprovido por este colegiado. 2.2. É de se ver, assim, que não cabe mais discussão sobre o tema, em virtude da ocorrência da preclusão consumativa, não sendo lícito ao devedor renovar a discussão a cada movimento processual na origem.3. É inconteste que o referido imóvel é utilizado pelo agravante para sua moradia e de sua família. Todavia, o bem não está acobertado pelo manto da impenhorabilidade por se constituir no objeto do contrato de compra e venda que originou a dívida ora perseguida pelos agravados, o que afasta a proteção invocada, nos termos do art. 3º, II, da Lei n. 8.009/90.4. O pedido alternativo, a fim de que seja reconhecido como bem de família um dos imóveis que já se encontra penhorado, não pode ser apreciado por este tribunal, sob pena de ofensa ao princípio do duplo grau de jurisdição.4.1. A omissão da decisão agravada deve ser corrigida pela via dos embargos de declaração.5. Recurso conhecido em parte e desprovido.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, 502 e 1.022, do CPC/15; 4º da Lei da Usura e 5º da Lei 8.009/1990. Além de negativa de prestação jurisdicional, sustenta ofensa à coisa julgada, em razão da penhora integral do patrimônio do recorrente, inclusive do imóvel cuja reintegração de posse foi expressamente indeferida aos recorridos no processo de conhecimento. Argumenta que os cálculos de atualização apresentados pelos recorridos nos autos de origem apresentam juros sobre juros, configurando-se anatocismo e pugna pelo reconhecimento do imóvel como bem de família.
+Parecer do MPF: da lavra do I. Subprocurador-Geral MAURICIO VIEIRA BRACKS, opina pelo não provimento do recurso.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento ante a ausência de omissão e de violação do art. 489 do CPC/15, e a incidência das Súmulas 7/STJ e 284/STF.
+Agravo interno: a parte agravante sustenta que o acórdão recorrido não se manifestou acerca das omissões suscitadas no recurso integrativo oposto, em patente ofensa ao art. 1.022 do CPC/15. Alega ser indevida a aplicação da Súmula 7/STJ, pois toda matéria tratada é de simples verificação no acórdão recorrido. Defende o afastamento da aplicação da Súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da violação do art. 1.022 do CPC/2015
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Na hipótese, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos cálculos apresentados e sobre a penhora do patrimônio do agravante.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da violação do art. 489 do CPC/2015
+No que tange à ausência de violação do art. 489, do CPC/2015, tem-se que a decisão não merece reforma nesse ponto, haja vista que, da leitura do acórdão recorrido, nota-se que o Tribunal de origem concedeu a devida prestação jurisdicional e apreciou todos os fundamentos deduzidos pela parte agravante.
+- Da fundamentação deficiente
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese dos autos, deixou a parte agravante de expor como o acórdão recorrido teria violado os arts. 502 do CPC e 4º da Lei de Usura, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284 do STF.
+Ressalta-se ainda, que é necessário que seja especificada a forma como o dispositivo violado foi ofendido, para que o Tribunal possa analisar o caso em conjunto com o decidido nos autos, o que não se observou na espécie.
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJDFT ao julgar o recurso interposto pela parte agravante assim decidiu (e-STJ fls. 108/112):
+Do Excesso de Execução na Atualização da Dívida
+O cumprimento provisório de sentença teve início em maio de 2019, ocasião em que os autores/agravados instruíram o pedido com memória de cálculo do valor principal e dos honorários advocatícios de sucumbência (ID 33763250 e 337763277), apresentando, respectivamente, as quantias de R$ 2.360.543,14 (dois milhões trezentos e sessenta mil quinhentos e quarenta e três reais e catorze centavos) e R$ 368.407,73 (trezentos e sessenta e oito mil quatrocentos e sete reais e setenta e três centavos).
+A partir de então, os cálculos estão sendo atualizados pela tabela deste tribunal, conforme se infere dos Ids 36433261, 36433280, 43234953, 43234964, 49904963, 49903695, 57534600, 6688849 e 87001716, o que espanca toda e qualquer alegação de anatocismo.
+Com efeito, o apontado excesso de execução já foi rechaçado no julgamento do Agravo de Instrumento de n. 0717162- 34.2019.8.07.000, de minha relatoria, cujo acórdão apresenta a seguinte ementa:
+ ..
+Ademais, a simples atualização dos cálculos, mediante a utilização da tabela deste tribunal, não indica a prática do alegado anatocismo e tampouco a cobrança de juros sobre juros, tratando-se de mera atualização monetária da dívida, o que não pode ensejar, a todo momento, a irresignação da parte devedora, pois totalmente desprovida de fundamento.
+Da Impossibilidade de Manutenção do Imóvel no Patrimônio dos Agravados - Bem de Família -
+O agravante tenta defender a propriedade do imóvel constituído pela Fração "D", do Lote 05, do Conjunto 03, da Quadra 13, Parkway, Brasília/DF, alegando ser bem de família.
+Observa-se que é incontroverso nos autos que o referido imóvel ainda se encontra em nome dos agravados, haja vista que, somente agora, com o trânsito em julgado da sentença, é que o agravante poderá exigir a obrigação de fazer, imposta aos agravados, consistente na liberação do habite-se para regularização do bem junto ao Ofício de Imóveis competente.
+Do mesmo modo, é inconteste que o referido imóvel é utilizado pelo agravante para sua moradia e de sua família, o que lhe permite invocar o manto da impenhorabilidade.
+Todavia, referido imóvel é objeto do contrato de compra e venda que originou a dívida ora perseguida pelos agravados, o que afasta a proteção invocada pelo agravante, nos termos do art. 3º, II, da Lei n. 8.009/90, que disciplina:
+ ..
+Nesses termos, bem ressaltou a decisão ora agravada (ID 90371737). Confira-se:
+"Por fim, a respeito da alegação de impenhorabilidade do imóvel por se tratar de bem de família, o art. 3º, II da Lei 8.009/90 dispõe que "A impenhorabilidade é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, salvo se movido: II - pelo titular do crédito decorrente do financiamento destinado à construção ou à aquisição do imóvel, no limite dos créditos e acréscimos constituídos em função do respectivo contrato".
+Tendo em vista que o débito exequendo é justamente relacionado à aquisição do imóvel, não há que se falar em bem de família.
+Assim, rejeito a impugnação da parte ré e defiro o pedido do exequente de manutenção do imóvel em sua propriedade, abatendo-se o valor do contrato (R$ 1.900.000,00)".
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
