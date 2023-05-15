@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Tatiane Winter Gomes, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 150):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. NULIDADE DA CITAÇÃO POR EDITAL EM FACE DA AUSÊNCIA DE REQUERIMENTO POR PARTE DO CREDOR.
+INOCORRÊNCIA. INEXISTÊNCIA DE PREJUÍZO AO EXECUTADO, QUE INCLUSIVE OPÔS EMBARGOS À EXECUÇÃO POR MEIO DE CURADORA ESPECIAL. TENTATIVAS DE CITAÇÃO POR CARTA COM A.R E POR MEIO DE OFICIAL DE JUSTIÇA NO ENDEREÇO CONSTANTE NA CDA. OBSERVADA A DUPLA TENTATIVA CITATÓRIA (PELO CORREIO E POR OFICIAL DE JUSTIÇA), COMO RECLAMA A SÚMULA 414, STJ. CDA VÁLIDA, POIS PREENCHIDOS OS REQUISITOS DO ART. 202 DO CTN. SEM A DEVIDA BAIXA NO CADASTRO MUNICIPAL, CABE AO EXECUTADO A DEMONSTRAÇÃO DE QUE NÃO PRESTOU OS SERVIÇOS TRIBUTADOS.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial e violação aos arts. 256, II e §3º, 257 e 247 do CPC e a Súmula 414/STJ. Sustenta, em resumo, a nulidade da citação por edital, pois "a citação editalícia foi deferida de forma precipitada, mormente considerando que não foram esgotadas as diligências necessárias para localização da recorrente, deixando de ser diligenciados os órgãos de praxe e, portanto, não tendo ocorrido o exaurimento das vias de localização, a citação da embargante deveria ter sido declarada nula, o que não ocorreu" (fl. 165).
+A decisão presidencial de fls. 197/201, em relação à questão de fundo, negou seguimento ao apelo raro, com espeque no art. 1.030, I, e 1.040, I, do CPC, por estar o acórdão recorrido em conformidade com o Tema 102/STJ e, no tocante à violação à Súmula 414/STJ, inadmitiu o recurso com base na Súmula 518/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, no tocante às alegações relativas à irregularidade da citação por edital (Tema 102 do STJ), deixo de conhecer do recurso, porquan to a vice-Presidência da Corte de origem negou seguimento ao apelo raro observando o rito previsto no art. 1.030, I, b, do CPC quanto ao ponto, restando, assim, prejudicado o exame da insurgência recursal.
+No que remanesce, quanto à alegada infringência à Súmula 414/STJ, esta Corte cristalizou o entendimento de que, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula." (Súmula 518/STJ).
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
