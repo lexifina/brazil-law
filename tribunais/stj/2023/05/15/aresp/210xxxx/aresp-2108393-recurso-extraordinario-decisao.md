@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 276-293) interposto por PERIODICAL TIME SERVIÇOS TÉCNICOS E PROFISSIONAIS LTDA., com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 247-248):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO AGRAVANTE.
+1. A falta de indicação do artigo de lei eventualmente violado, bem como a arguição de ofensa ao dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+2. No caso, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 270-273).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, I e II, e 93, IX, da CF.
+Afirma que teria indicado "o dispositivo de lei federal que entendia restar violado e sobre o qual recaía o dissídio jurisprudencial" (fl. 282) e feito "o cotejo necessário, demonstrando similitude fática e identidade jurídica" (fl. 283).
+Sustenta que o julgado impugnado careceria de fundamentação, pois não teria enfrentado os argumentos defensivos capazes de infirmar a conclusão adotada.
+Aduz que em nenhum ponto o acórdão teria tratado da ausência de fundamentação da decisão que, na origem, inadmitiu o recurso especial, "no sentido desta não guardar qualquer relação com os fatos e, por conseguinte, padecer de nulidade, o que foi pedido em sede recursal" (fl. 288).
+Argumenta que as instâncias ordinárias teriam determinado como base de cálculo para as custas processuais o valor do veículo somado ao valor das multas aplicadas após a tradição do bem e que, em razão da falta de análise individualizada do caso, haveria ofensa ao princípio da igualdade, pois existiriam entendimentos jurisprudenciais divergentes sobre a base de cálculo e os jurisdicionados estariam sendo cobrados de formas diferentes.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 299).
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais o colegiado desproveu o agravo interno, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 250-254):
+O agravo interno não merece acolhida, porquanto os argumentos apresentados pela agravante são incapazes de infirmar os fundamentos da decisão agravada, que merece ser mantida na íntegra.
+1. Com relação à insurgência acerca do valor da causa, verifica-se que a parte não cuidou de indicar qual o dispositivo de lei entende por violado, o que impede o exame da pretensão, em razão do óbice contido na Súmula 284/STF.
+A admissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos, sob pena de incidência da Súmula 284/STF.
+Nesse sentido:
+ ..
+Inafastável, na hipótese, a incidência da Súmula 284/STF.
+2. Por fim, apesar dos argumentos deduzidos no apelo nobre, verifica-se que a parte recorrente não logrou êxito em demonstrar a ocorrência do dissídio jurisprudencial, nos termos do art. 255, § 1º, do RISTJ, porquanto deixou de realizar o necessário cotejo analítico entre o acórdão recorrido e os paradigmas indicados, de sorte a evidenciara similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica.
+Como é cediço, a interposição do apelo extremo com fulcro no art. 105, III, "c", da Constituição da República exige comprovação e demonstração, com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias fáticas que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de trechos ou de ementas dos arestos impugnados, sem a realização do necessário cotejo analítico a evidenciar a similitude da base fática entre os casos apontados e a divergência de interpretações.
+O recorrente limitou-se a transcrever trechos dos julgados apontados como dissonantes, consoante se observa às fls. 150-153 (e-STJ). Contudo, não demonstrou o dissídio nos termos exigidos pela legislação.
+A falta de cotejo analítico, por sua vez, impede o acolhimento do apelo no tocante à alínea "c" do permissivo constitucional, pois não foram demonstradas em que circunstâncias o caso confrontado e os arestos paradigmas aplicaram diversamente o direito, sobrea mesma situação fática.
+Nesse sentido:
+ ..
+De rigor, portanto, a manutenção da decisão agravada.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 272-273):
+Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a ora embargante.
+Nesse sentido, precedentes desta Corte:
+ ..
+No caso, não há infringência ao artigo 1.022, CPC/15, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 249-254, e-STJ).
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do não provimento do agravo interno.
+Nota-se que a embargante pretende, na verdade, a alteração do julgado, cuja pretensão não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer omissão, contradição ou obscuridade que a decisão embargada tenha incorrido.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do CPC/15, não há razão para modificar o decisum embargado.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, no pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque foi mantida a decisão singular que não conheceu do recurso especial, tendo em vista a incidência do óbice da Súmula n. 284/STF e a falta de demonstração da divergência jurisprudencial nos moldes exigidos pelo Código de Processo Civil e pelo Regimento Interno do Superior Tribunal de Justiça.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento a o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Incide a tese fixada no Tema n. 181/STF, conquanto se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
