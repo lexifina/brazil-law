@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EVERSON ROSAURO SILVERIO contra decisão de minha lavra que não conheceu da ordem impetrada (e-STJ fls. 44/45).
+Na presente oportunidade, o agravante, citando precedente da 2ª Turma do STF, alega que "Na linha do que decidido pela 2ª Turma, a manutenção da prisão preventiva, própria das cautelares, representaria, em última análise, a legitimação da execução provisória da pena em regime mais gravoso do que o fixado no próprio título penal condenatório." (e-STJ fl. 57).
+Cita, ainda, outros precedentes do STF e desta Corte Superior, em que se admitiu a aplicação do tráfico privilegiado para paciente primário e menor de 21 anos, demonstrando, portanto, nos presentes autos, a possibilidade de concessão da ordem.
+Diante disso, requer "a concessão da ordem de oficio para revogar a prisão preventiva imposta ao paciente conforme ENTENDIMENTO PELA 2ª TURMA STF ou para aplicar o trafico privilegiado e regime aberto conforme HABEAS CORPUS Nº817382 ou presentes o fumus boni iuris e o perigo da demora, para deferir a liminar para sobrestar os efeitos da condenação imposta ao paciente processo de origem (..)" (e-STJ fl. 78).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. MERA REITERAÇÃO DE RECURSO PRÉVIO. NOVO JULGAMENTO DA MESMA MATÉRIA. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ AGRAVO DESPROVIDO.
+1. Inviável o conhecimento do habeas corpus que consiste em mera reiteração do RHC 167.165/MG, já julgado por esta Corte em decisão datada de 31/1/2023.
+2. "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe de 18/9/2019).
+3. Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia. Assim, a mera reiteração dos argumentos inicialmente apresentados atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Precedentes.
+4. Agravo regimental desprovido.
+VOTO
+Observa-se que a irresignação defensiva não merece prosperar, uma vez que não foram apresentados argumentos novos, aptos a infirmar os fundamentos da decisão agravada, a qual se encontra redigida nos seguintes termos (e-STJ fl. 45):
+Não há como prosseguir a irresignação.
+De início, verifica-se que a alegação sobre ausência de dos requisitos para a prisão preventiva, à luz dos fundamentos lançados no decreto prisional e no ato apontado coator, já foi objeto de exame nos autos do RHC 167.165/MG nesta Corte Superior, de modo que, quanto ao tópico, a presente impetração, em princípio, configura mera reiteração, sendo inviável novo exame da questão.
+A par disso, não se colhe dos autos fatos ou argumentos novos que sejam capazes de infirmar os fundamentos alinhavados pelas instâncias de origem quanto à questão.
+Não bastasse isso, em consulta ao site do Tribunal de origem, nota-se que a ação penal originária já se encontra encerrada, tendo sido prolatado sentença condenatória em face do réu, a qual não foi devidamente trazida aos autos, sendo mantida a prisão cautelar.
+De toda forma, de rigor relembrar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Oportuno ressaltar que o referido recurso ordinário, aviado pelo ora agravante , foi improvido mediante decisão monocrática proferida em 1º/07/2022. Ademais, interposto o agravo regimental contra referida decisão, a 5ª Turma desta Corte, em 16/8/2022, negou provimento ao recurso defensivo, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL EM RHC. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA (19KG DE COCAÍNA). TENTATIVA DE FUGA NA ABORDAGEM. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialid ade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. No caso, como visto, a segregação cautelar foi mantida pelo Tribunal estadual, como forma de garantir a ordem pública, em razão da gravidade concreta do delito, evidenciada pelas circunstâncias do flagrante - foram apreendidos 19kg de cocaína em um compartimento secreto do carro (acima do porta luvas) e o fato de que os acusados empreenderam fuga, sendo perseguidos pela polícia, contexto fático que evidencia a necessidade da prisão cautelar, nos termos do art. 312 do Código de Processo Penal. Julgados do STJ.
+3. Agravo regimental desprovido.
+Por fim, cabe notar que o regimental em exame sequer impugnou os fundamentos da decisão agravada, não evidenciando o interesse de demonstrar o desacerto da decisão agravada, o que, por óbvio, inviabiliza o exame do recurso.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+No caso, a defesa se limitou a reproduzir as teses de mérito, sem enfrentar o fundamento que, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indeferiu liminarmente o habeas corpus por ser mera reiteração de habeas corpus já julgado pela 5ª Turma.
+Destarte, inafastável, na hipótese, a incidência da Súmula n. 182/STJ, segundo se dessume dos julgados abaixo transcritos.
+Neste sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDOS EM OUTRA IMPETRAÇÃO. MESMO ACÓRDÃO IMPUGNADO. MÉRITO JÁ ANALISADO NESTA CORTE SUPERIOR. ILEGALIDADE AFASTADA NA IMPETRAÇÃO CONEXA. LIMITES DA VIA. SÚMULA 182/STJ. PRINCÍPIO DA COLEGIALIDADE. OFENSA NÃO CONFIGURADA. AGRAVO NÃO CONHECIDO.
+ ..
+IV - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+V - No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000).
+VI - Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+VII - Diga-se de passagem que o mérito do feito conexo foi devidamente apreciado (pela anterior Relatoria), em 14/7/2022, sem recurso da d. Defesa, afastando, na hipótese, qualquer flagrante ilegalidade no tocante ao suposto vício de incompetência, à ilicitude das provas e à violação às suas cadeias de custódia;
+claro, respeitados os limites da via eleita.
+VIII - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental não conhecido.
+(AgRg no RHC n. 161.259/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. LEGALIDADE DE PRISÃO PREVENTIVA. MERA REITERAÇÃO DE PEDIDO JÁ DECIDIDO POR ESTA CORTE. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DE CULPA: SUPRESSÃO DE INSTÂNCIA. PEDIDOS DE AUTORIZAÇÃO PARA QUE OS RECORRENTES PARTICIPEM DE VÍDEOCONFERÊNCIA SEM A NECESSIDADE DE SE RECOLHER À PRISÃO E DE DEFERIMENTO DE OITIVA DE TESTEMUNHAS: INDEVIDA INOVAÇÃO RECURSAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Da mesma forma, os pedidos veiculados no pedido de antecipação da pretensão recursal (autorização para que os recorrentes participem de audiência de continuação marcada para o dia 18/10/2021, por videoconferência, sem a necessidade de se recolher à prisão e a oitiva de testemunha) também constituem indevida inovação recursal e tratam de matéria que é superveniente à data da impetração originária, não tendo sido, portanto, previamente decidida pelo Tribunal de Justiça, o que impede seu conhecimento por esta Corte.
+5. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, os agravantes deixaram de rebater os fundamentos da decisão que não conheceu do recurso ordinário em habeas corpus, incidindo a aplicação da Súmula 182/STJ.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 151.723/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. OCULTAÇÃO DE CADÁVER. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. "O julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema, inexistindo, portanto, ofensa ao princípio da colegialidade" (AgRg no AREsp n. 1.249.385/ES, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019).
+2. Não havendo impugnação específica acerca dos fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+3. Agravo regimental desprovido. (AgRg no AREsp 1831731/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/08/2021, DJe 12/08/2021)
+Ante o exposto, permanecendo hígidos os fundamentos da decisão combatida, nego provimento ao agravo.
+É como voto.
