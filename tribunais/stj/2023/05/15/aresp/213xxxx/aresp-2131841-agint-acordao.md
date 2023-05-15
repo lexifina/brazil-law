@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. DANO AMBIENTAL. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE NA FIXAÇÃO DO VALOR. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Trata-se na origem de Ação Civil Pública de pedido de indenização por danos decorrentes de pintura aposta nas paredes de um sítio arqueológico, cumulado com pedido de recuperação de danos ambientais, pagamento de indenização por danos morais coletivos, ressarcimento de despesas com perícia e veiculação de campanha de conscientização.
+2. O Tribunal de origem, ao analisar o quantum indenizatório, consignou: "Observa-se, neste contexto, ser adequado o valor da indenização por danos sociais difusos em R$ 1.000.000,00 (um milhão de reais), pois ao aplicar tinta sobre as paredes do sítio arqueológico a recorrente danificou pinturas rupestres e vestígios líticos (local de retirada de ferramentas de pedra) que remontam há aproximadamente 10.000 (dez mil) anos, bem como a título de recomposição ambiental, também no valor de R$ 1.000.000,00 (um milhão de reais), por ter causado inegável dano ao Patrimônio Histórico nacional, sequer completamente conhecido e catalogado".
+3. Com efeito, alterar o entendimento da Corte de origem, a fim de aferir a proporcionalidade da indenização, enseja, nas circunstâncias particulares do caso concreto, incursão em aspectos fático-probatórios dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. Quanto à tese de impossibilidade de cumulação da condenação à efetiva recuperação da área degrada, com a condenação ao pagamento de compensação ambiental, nota-se que tal alegação não foi objeto de análise pela Corte de origem. Ausente o prequestionamento da matéria alegadamente violada, impossível conhecer do Recurso Especial, em face da incidência da Súmula 211/STJ.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão monocrática, proferida pela Presidência do STJ, que conheceu do Agravo para não conhecer do Recurso Especial (fls. 893-895, e-STJ).
+A parte agravante, em síntese, alega (fls. 902-903, e-STJ):
+A decisão supra vai de encontro à Súmula 211 do STJ, pois o Tribunal de origem não apreciou a questão, sob o argumento de que não está obrigado a se manifestar sobre todos os argumentos para fundamentar a sua decisão.
+Ora, se prequestionar é questionar antes, ou seja, já ter tratado da questão anteriormente, impõe-se que a questão tenha sido tratada e analisada no acórdão e, neste sentido, a agravante está amparada pelo prequestionamento implícito, mostrando-se suficiente que a questão tenha sido mencionada no acórdão recorrido, sem constar o artigo expresso alegadamente violado.
+Deste modo, como exposto no Recurso Especial, o v. acórdão, ao confirmar a r. sentença de 1º grau, negou vigência aos artigos 884 e 944, do CC, mas diferentemente do quanto restou consignado na decisão recorrida, a emissora agravante tratou de explicar, específica e detalhadamente, de que formas o v. acórdão afrontou os referidos dispositivos legais.
+(..)
+Imperioso registrar, ainda, que, em julgado recente, o Col. STJ determinou a redução do valor indenizatório concedido a título de danos morais coletivos e reparação ambiental, visto que o montante se mostrava exorbitante considerando as peculiaridades do caso concreto.
+(..)
+E para aferir a desproporcionalidade da indenização basta confrontar a moldura fática constante nos próprios vv. acórdãos atacados pelo Recurso Especial obstruído com o valor da reparação fixada, além dos demais itens da condenação imposta à agravante.
+Ora, com a devida vênia, mostra-se claramente desproporcional a imposição à agravante de reparar o dano ambiental e ainda pagar R$ 1 milhão de danos morais coletivos e mais R$ 1 milhão de compensação ambiental.
+Impugnação às fls. 914-917, e-STJ.
+O Ministério Público Federal, mediante o parecer das fls. 924-929, e-STJ, opinou pelo não provimento do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. DANO AMBIENTAL. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE NA FIXAÇÃO DO VALOR. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Trata-se na origem de Ação Civil Pública de pedido de indenização por danos decorrentes de pintura aposta nas paredes de um sítio arqueológico, cumulado com pedido de recuperação de danos ambientais, pagamento de indenização por danos morais coletivos, ressarcimento de despesas com perícia e veiculação de campanha de conscientização.
+2. O Tribunal de origem, ao analisar o quantum indenizatório, consignou: "Observa-se, neste contexto, ser adequado o valor da indenização por danos sociais difusos em R$ 1.000.000,00 (um milhão de reais), pois ao aplicar tinta sobre as paredes do sítio arqueológico a recorrente danificou pinturas rupestres e vestígios líticos (local de retirada de ferramentas de pedra) que remontam há aproximadamente 10.000 (dez mil) anos, bem como a título de recomposição ambiental, também no valor de R$ 1.000.000,00 (um milhão de reais), por ter causado inegável dano ao Patrimônio Histórico nacional, sequer completamente conhecido e catalogado".
+3. Com efeito, alterar o entendimento da Corte de origem, a fim de aferir a proporcionalidade da indenização, enseja, nas circunstâncias particulares do caso concreto, incursão em aspectos fático-probatórios dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. Quanto à tese de impossibilidade de cumulação da condenação à efetiva recuperação da área degrada, com a condenação ao pagamento de compensação ambiental, nota-se que tal alegação não foi objeto de análise pela Corte de origem. Ausente o prequestionamento da matéria alegadamente violada, impossível conhecer do Recurso Especial, em face da incidência da Súmula 211/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.11.2022.
+Trata-se na origem de Ação Civil Pública de pedido de indenização por danos decorrentes de pintura aposta nas paredes de um sítio arqueológico, cumulado com pedido de recuperação de danos ambientais, pagamento de indenização por danos morais coletivos, ressarcimento de despesas com perícia e veiculação de campanha de conscientização.
+A irresignação não prospera, pois não foram apresentados argumentos suficientes para a reforma da decisão agravada.
+O Tribunal de origem, ao analisar o quantum indenizatório, consignou:
+Em relação ao pedido de decote da condenação no pagamento de indenização por danos sociais, também não assiste razão à apelante.
+Isto porque, os eventuais benefícios auferidos com a divulgação das imagens contendo a beleza natural das cidades de Diamantina e Gouveia em minissérie transmitida por canal aberto em todo o Brasil, sequer foram quantificados e comprovados nos presentes autos.
+Não bastasse isso, o só fato de as filmagens terem trazido algum ganho ou notoriedade à região, que já é patrimônio cultural da humanidade pela UNESCO desde o ano de 1999, não são aptos a eximir a recorrente da obrigação de reparar os danos causados, seja através de restauração ou de indenização.
+Assim, devida se torna a recomposição dos danos morais e materiais ocasionados pela apelante, conforme jurisprudência pacificada pelo Superior Tribunal de Justiça,
+(..)
+Observa-se, neste contexto, ser adequado o valor da indenização por danos sociais difusos em R$ 1.000.000,00 (um milhão de reais), pois ao aplicar tinta sobre as paredes do sítio arqueológico a recorrente danificou pinturas rupestres e vestígios líticos (local de retirada de ferramentas de pedra) que remontam há aproximadamente 10.000 (dez mil) anos, bem como a título de recomposição ambiental, também no valor de R$ 1.000.000,00 (um milhão de reais), por ter causado inegável dano ao patrimôhio Histórico nacional, sequer completamente conhecido e catalogado.
+Com efeito, alterar o entendimento da Corte de origem, a fim de aferir a proporcionalidade da indenização, enseja, nas circunstâncias particulares do caso concreto, incursão em aspectos fático-probatórios dos autos, o que encontra óbice na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. FAUNA SILVESTRE BRASILEIRA. SEM COMPROVAÇÃO DE ORIGEM LÍCITA, CATIVEIRO DE ESPÉCIMES CONSTANTES DA LISTA VERMELHA DE ANIMAIS AMEAÇADOS DE EXTINÇÃO. RESPONSABILIDADE CIVIL PELO DANO AMBIENTAL. VALOR DA INDENIZAÇÃO. REVISÃO. IMPOSSIBILIDADE DIANTE DE PECULIARIDADES DO CASO DOS AUTOS. SÚMULA 7/STJ.
+(..) 2. Na hipótese dos autos, inviável a recuperação do statu quo ante ecológico, impondo-se, pois, além da apreensão dos animais ilicitamente mantidos em cativeiro, a condenação do réu em indenização. Ressarcimento monetário da Natureza por danos essencialmente ecológicos não é tarefa fácil e jamais será solução ideal. Só se admite em adição à restauração ou compensação natural. Ou, em caráter substitutivo, quando nenhuma outra opção de índole ecológica for tecnicamente viável. A valoração econômica de bens imateriais ou mesmo materiais mas com repercussões intangíveis requer do juiz escolhas aproximativas. Por isso mesmo, segundo a jurisprudência do STJ, vale a máxima de que eventual quantum debeatur deve ser fixado em patamar capaz de, a um só tempo, reparar exemplarmente o dano e dissuadir condutas futuras do degradador e de terceiros. No mais, contudo, alterar o entendimento do Tribunal de origem, a fim de aferir a proporcionalidade da indenização, enseja, nas circunstâncias particulares do caso concreto, incursão em aspectos fático-probatórios dos autos, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.607.577/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17.12.2021)
+AMBIENTAL E PROCESSUAL CIVIL. DANOS AMBIENTAIS. INDENIZAÇÃO. REVISÃO. VALOR EXORBITANTE. IMPOSSIBILIDADE. NECESSIDADE DE REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+(..) 3. Em relação à condenação pelos danos ambientais, é pacífico nesta Corte o entendimento no sentido de que a fixação dos valores referentes a danos morais ou ambientais, conforme o presente caso, cabe às instâncias ordinárias, uma vez que resulta de apreciação de critérios da razoabilidade e da proporcionalidade do valor fixado, compatível com a extensão do dano causado, razão pela qual insuscetível de revisão em recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+4. O tribunal de origem, com base na situação fática do caso, procedeu à análise dos critérios de razoabilidade e proporcionalidade para fixar a quantia fixada na sentença dos danos ambientais, em consonância com a extensão do dano causado.
+Agravo regimental improvido.
+(AgRg no AREsp n. 229.623/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe de 15.8.2014)
+Quanto à tese de impossibilidade de cumulação da condenação à efetiva recuperação da área degrada, com a condenação ao pagamento de compensação ambiental, nota-se que tal alegação não foi objeto de análise pela Corte de origem.
+Ausente o prequestionamento da matéria alegadamente violada, não é possível conhecer do Recurso Especial em face da incidência da Súmula 211 do STJ.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
