@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS NºS. 20/1998 E 41/2003.
+- Ação proposta em face do INSS, pretendendo seja condenada a Autarquia à revisão do benefício previdenciário, mediante a aplicação do novo teto estabelecido nas Emendas Constitucionais nº 20/1998 e 41/2003, com o pagamento das diferenças encontradas.
+- O aposentado que teve seu benefício limitado ao teto vigente à época de sua concessão, com o advento das Emendas Constitucionais nº 20/98 e 41/03, que elevou o teto dos benefícios previdenciários para R$ 1.200,00 (hum mil e duzentos reais) e R$ 2.400,00 (dois mil e quatrocentos reais), respectivamente, teria direito à aplicação do novo teto e reajuste do valor percebido.
+- O valor do novo teto fixado pela EC Nº 20/98 tem aplicação imediata aos benefícios já concedidos, inclusive aqueles deferidos antes da sua edição: Precedente do STF, RE Nº 564.354/SE, Relatora Ministra CARMEM LUCIA.
+- Ainda que o benefício fosse limitado ao teto constitucional, tal fato não assegura que o benefício foi prejudicado quando da modificação do teto previdenciário pelas Emendas Constitucionais 20/98 e 41/03.
+- O benefício da parte Autora ao sofrer sua RMI os reajustes legalmente determinados, inclusive aquele determinado pela OS nº 121/92, em face da revisão do mencionado art. 144, as rendas subseqüentes ficaram todas abaixo do teto vigente em cada competência de pagamento, não atingindo, assim, os limites fixados antes das Emendas Constitucionais nos 20/98 e 41/2003, sequer após.
+Os Embargos de Declaração foram rejeitados.
+Em seu Apelo Especial, a parte recorrente alega violação do art. 144 da Lei 8.213/1991. Pleiteia, em suma, que "seja reformado o r. acórdão, a fim de que, reconhecido o direito adquirido do recorrente ter seus proventos calculados, nos termos expressos na inicial, requerendo-se, ainda, que seja assegurada, desde já, a aplicação do artigo 144 da Lei 8213/91, haja vista a sua previsão de incidência aos benefícios concedidos no período do buraco negro (entre 5 de outubro de 1988 a 5 de abril de 1991)" (fl. 327, e-STJ).
+Contrarrazões às fls. 341-345, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de abril de 2023.
+Verifico que a matéria aqui tratada - "Definir, para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais 20/1998 e 41/2003, a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão (menor e maior valor-teto)" - foi afetada neste Tribunal para julgamento segundo o rito dos Recursos Representativos de Controvérsia nos Recursos Especiais 1.957.733/RS e 1.958.465/RS (Rel. Ministro Gurgel de Faria) com o Tema 1.140.
+O atual posicionamento desta Corte é no sentido de que qualquer irresignação que tenha por objeto questão afetada para julgamento segundo tal rito deve ser devolvida à origem para que, após publicado o respectivo acórdão (ainda pendente de julgamento), o Recurso Especial seja apreciado na forma do art. 1.040 do CPC/2015. Nessa linha:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DISCUSSÃO ACERCA DA POSSIBILIDADE DE INSCRIÇÃO EM DÍVIDA ATIVA DE BENEFÍCIO PREVIDENCIÁRIO INDEVIDAMENTE RECEBIDO, QUALIFICADO COMO ENRIQUECIMENTO ILÍCITO. MATÉRIA SUBMETIDA A RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C, DO CPC. SOBRESTAMENTO NA ORIGEM. NECESSIDADE. RETORNO DOS AUTOS.
+1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente no julgado.
+2. A temática acerca da possibilidade de inscrição em dívida ativa de benefício previdenciário indevidamente recebido, qualificado como enriquecimento ilícito, encontra-se afetada à Primeira Seção do STJ aguardando o julgamento do REsp 1.350.804 - PR, relatoria Min. Mauro Campbell, sob o rito dos recursos repetitivos (art. 543-C do CPC).
+3. A afetação de recurso especial como representativo da controvérsia demanda à Corte de origem a suspensão de recursos que abordem questão análoga, até o julgamento definitivo da controvérsia. Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista nos §§ 7º e 8º do art. 543-C do CPC (art. 5º, inciso III, da Resolução n. 8/2008 da Presidência do STJ).
+Embargos de declaração acolhidos, com efeitos modificativos, para anular o acórdão embargado e tornar sem efeito a decisão monocrática, ao passo que determino a devolução do processo ao Tribunal de origem" (EDcl no AgRg no AREsp 225.034/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 2/4/2013)
+Diante do exposto, determino a devolução dos autos ao Tribunal a quo, com a devida baixa, para que este, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguiment o ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
