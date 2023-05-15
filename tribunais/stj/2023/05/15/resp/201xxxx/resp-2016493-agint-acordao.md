@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANTONIO FELIPE NERI contra a decisão da relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS DE MORA. INCIDÊNCIA DA LEI 11.960/2009. VIOLAÇÃO DE NORMA CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. ALEGADA VIOLAÇÃO À COISA JULGADA. ARTS. 502, 504, 505, 506 E 509 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EXAME DOS LIMITES DA COISA JULGADA. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL DO SEGURADO NÃO CONHECIDO (fls. 192/197).
+Em suas razões, a parte agravante sustenta que deve ser afastado o óbice da Súmula 126/STJ do conhecimento do recurso especial, uma vez que, conforme o entendimento sumulado no enunciado 636 do STF, "não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida".
+Acrescenta que "os fundamentos da decisão monocrática não podem ser aplicada em face da previsão constitucional do artigo 105, III, "c", sob pena de esvaziamento da principal função do Superior Tribunal de Justiça que é promover a unidade do direito, uniformizar a jurisprudência nacional, acabando com divergência existente entre tribunais diferentes" (fls. 202/203).
+Requer, ao final, o provimento do agravo interno para que seja dado provimento ao seu recurso especial.
+Não houve impugnação ao recurso (fl. 212).
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO  QUE  NÃO  INFIRMA  O  S FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  A  decisão  agravada  não conheceu do recurso especial aos seguintes fundamentos: (a) não cabe ao STJ analisar, em recurso especial, possível ofensa ao art. 5º, XXXVI, da CF/1988, sob pena de usurpação da competência do STF; (b) não houve o prequestionamento da matéria de que tratam os arts. 502, 504, 505, 506, 509, § 4º, do CPC/2015; (c) quanto à suposta ofensa à coisa julgada, a análise da pretensão recursal demandaria o reexame do contexto fático-probatório dos autos, providência vedada pela Súmula 7/STJ; e (d) os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c.
+2. No  entanto,  a  parte  agravante,  neste  recurso,  não rebate nenhum dos fundamentos da decisão agravada, limitando-se a invocar a não incidência da Súmula 126/STJ, que sequer foi apontada na decisão agravada, e a sustentar, de forma genérica e superficial, a efetiva demonstração do dissídio jurisprudencial.
+3. Assim, o recurso  não  comporta  conhecimento, frente à dissociação entre o argumento do recurso e o fundamento da decisão recorrida.
+4.  Agravo  interno  não  conhecido.
+VOTO
+O recurso não merece conhecimento.
+Compete  à  parte  agravante,  para  ter  seu  recurso  conhecido,  impugnar  os  fundamentos  sobre  os  quais  se  assentou  a  decisão  recorrida. Não  o  fazendo,  incide  o disposto na Súmula  182/STJ,  segundo  a  qual  "é  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".  Cito:
+PROCESSUAL CIVIL E ADMINITRATIVO. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. FALHA NA PRESTAÇÃO DO SERVIÇO. OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. DANO MOR AL. QUANTUM. PROPORCIONALIDADE.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Revisitar a conclusão do aresto impugnado para afastar a falha na prestação do serviço reclama imperiosa incursão no conjunto fático-probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da Súmula 7 do STJ.
+4. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, a alteração do quantum arbitrado a título de dano moral, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp n. 2.143.028/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023 - sem destaques no original.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO POR DANOS MORAIS. PEDIDOS PROCEDENTES. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se ação ordinária em que se pleiteia a declaração de inexistência de débito e indenização por danos morais.
+Na sentença, julgaram-se os pedidos procedentes. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice. A parte agravante, em seu agravo interno, não impugna esse fundamento.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido. (AgInt no AREsp n. 2.215.229/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023 - sem destaques no original.)
+No caso,  a  decisão  agravada  não conheceu do recurso especial aos seguintes fundamentos: (a) não cabe ao STJ analisar, em recurso especial, possível ofensa ao art. 5º, XXXVI, da CF/1988, sob pena de usurpação da competência do STF; (b) não houve o prequestionamento da matéria de que tratam os arts. 502, 504, 505, 506, 509, § 4º, do CPC/2015; (c) quanto à suposta ofensa à coisa julgada, a análise da pretensão recursal demandaria o reexame do contexto fático-probatório dos autos, providência vedada pela Súmula 7/STJ; e (d) os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c.
+No  entanto,  a  parte  agravante,  neste  recurso,  não rebate nenhum dos fundamentos da decisão agravada, limitando-se a invocar a não incidência da Súmula 126/STJ, que sequer foi apontada na decisão agravada, e a sustentar, de forma genérica e superficial, a efetiva demonstração do dissídio jurisprudencial.
+Assim, o recurso  não  comporta  conhecimento, frente à dissociação entre o argumento do recurso e o fundamento da decisão recorrida.
+Ante o exposto, não conheço do recurso.
+É o voto.
