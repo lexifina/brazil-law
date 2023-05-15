@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por GAFISA S.A. contra decisão desta relatoria, assim ementada (e-STJ, fl. 1.854):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO INESCUSÁVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, a agravante repisa a ocorrência de omissões no acórdão do Tribunal de Justiça, relevantes ao julgamento da lide, especialmente, no que se referem às razões apresentadas no sentido da aplicação do princípio da fungibilidade à espécie.
+Sustenta a não incidência da Súmula n. 83/STJ, sob a alegação da existência de precedentes desta Corte no sentido da aplicabilidade do princípio da fungibilidade, mesmo no caso de erro grosseiro da parte, em observância aos princípios da instrumentalidade das formas e da primazia da decisão de mérito.
+Assevera, ainda, a inaplicabilidade do óbice sumular ao caso, tendo em conta que o recurso especial não possui fundamento em divergência jurisprudencial.
+Afirma a existência de violação a dispositivos da legislação federal.
+Impugnação às fls. 1.887-1.936 (e-STJ), com pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO INESCUSÁVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. SÚMULA 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. O entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução; enquanto o agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De fato, conforme asseverado na decisão agravada, a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso, cumpre reiterar que o acórdão recorrido apreciou de maneira fundamentada a controvérsia dos autos, apenas decidindo de forma contrária à pretensão da parte recorrente.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESOLUÇÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS POR INADIMPLEMENTO CONTRATUAL COM PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS E DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. No caso, o órgão julgador concluiu pela incidência das verbas indenizatórias e cláusula penal compensatória, não havendo ofensa aos princípios da função social do contrato ou da boa-fé objetiva.
+3. Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o revolvimento das provas constantes dos autos, bem como a interpretação das previsões contratuais, providências vedadas em sede de recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+4. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.768.573/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Outrossim, verifica-se que se trata, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 1.636):
+Como se vê, a decisão não pôs fim ao cumprimento de sentença, mostrando-se, portanto, descabido o recurso de apelação interposto. Deveras, em não havendo extinção do feito executivo, tem-se decisão interlocutória, recorrível por meio de agravo de instrumento, e não de apelação.
+Tem-se, portanto, caso de não conhecimento do recurso, não se podendo aplicar o princípio da fungibilidade, em não havendo dúvida objetiva a justificar a interposição da apelação
+Decerto, o entendimento jurisprudencial do Superior Tribunal de Justiça é de que, "sob a égide do Código de Processo Civil de 2015, consolidou-se a jurisprudência do STJ no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução, enquanto o agravo de instrumento é o recurso cabível contra as decisões que acolhem parcialmente a impugnação ou lhe negam provimento, mas que, sobretudo, não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva" (AgInt no REsp n. 1.954.791/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. APELAÇÃO CONTRA DECISÃO QUE JULGA IMPUGNAÇÃO E NÃO EXTINGUE PROCESSO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. PRECEDENTES STJ. JUSTIÇA GRATUITA. EFEITOS EX NUNC. AGRAVO INTERN O DESPROVIDO.
+1. O agravo de instrumento é o recurso cabível contra decisão que rejeita impugnação ao cumprimento de sentença, sendo vedada a aplicação da fungibilidade recursal na hipótese de interposição de outro recurso, por constituir erro grosseiro. Precedentes.
+2. Conquanto o pedido de justiça gratuita possa ser formulado a qualquer tempo e grau de jurisdição, sua concessão somente possui efeitos futuros, não retroagindo para alcançar encargos processuais anteriores. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.209.842/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. FASE EXECUTÓRIA. FIM. DECISÃO. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. ERRO GROSSEIRO. SÚMULA Nº 568/STJ. QUITAÇÃO PARCIAL. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356/STF. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão que extingue a execução é impugnável pela via da apelação, configurando erro grosseiro, em casos tais, a interposição de agravo de instrumento, situação que afasta inclusive a possibilidade de aplicação do princípio da fungibilidade recursal.
+Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai os óbices das Súmulas nºs 83 e 568/STJ.
+4. A alegação de que a parte exequente não deu quitação total do crédito exequendo e, por isso, não houve extinção do cumprimento de sentença, padece da falta de prequestionamento, além de demandar o reexame de fatos e provas dos autos, situação que atrai a vedação das Súmulas nºs 282 e 356/STF e nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.861.233/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO PÔS FIM À FASE DE EXECUÇÃO. CABIMENTO DE AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. "A decisão que julga impugnação ao cumprimento de sentença sem extinguir a fase executiva desafia agravo de instrumento, sendo impossível conhecer a apelação interposta com fundamento no princípio da fungibilidade recursal, tendo em vista a existência de erro grosseiro" (AgInt no AREsp 1.380.373/SC, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/5/2019, DJe de 22/5/2019).
+2. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.601.252/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 24/10/2022.)
+Dessa forma, o entendimento firmado pelo colegiado estadual está em consonância com a jurisprudência do Superior Tribunal de Justiça, o que atrai o óbice da Súmula n. 83/STJ, por ambas as alíneas do permissivo constitucional.
+Veja-se
+AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. OMISSÃO. NÃO OCORRÊNCIA. COISA JULGADA. VIOLAÇÃO. AÇÕES IDÊNTICAS. INEXISTÊNCIA. SÚMULAS N. 7 E 83/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015.
+2. "Segundo a jurisprudência desta Corte, para o reconhecimento da coisa julgada, faz-se necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido -, o que não ocorreu na hipótese em exame" (AgInt no AREsp n. 986.467/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/11/2019, DJe de 2/12/2019).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. "Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 2.080.599/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.006.334/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Além disso, importante destacar que, de acordo com a orientação firmada no Superior Tribunal de Justiça, quando o inconformismo excepcional não é admitido com fundamento na Súmula n. 83/STJ, a i mpugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+Na espécie, verifica-se, ainda, que os precedentes apresentados pela agravante, nos quais se conclui pela aplicação do princípio da fungibilidade recursal, não guardam similitude com o acordão paradigma, haja vista se tratar de processo em que o recurso inominado foi recebido como apelação; e os embargos de declaração recebidos com agravo regimental.
+Não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
