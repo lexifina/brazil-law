@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial em vista da sua intempestividade.
+O agravante alega que "A conclusão adotada no julgado agravado, portanto, destoa de todo o arcabouço legal e jurisprudencial pátrio, pois a única data que pôde ser considerada como feriado local foi a data de 12/08/2022, contudo, a portaria que comprovava a sua ocorrência foi devidamente juntada no ato de interposição do recurso, mais precisamente às fls. 419 do e-STJ. A data de 11/08/2022 é feriado nacional e feriados nacionais não exigem prova para atestar tempestividade de recurso." (fls. 491-492). Assim, tempestivo seu agravo em recurso especial.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos dos arts. 219 e 1003, §5º, do CPC/2015, o prazo para interposição do agravo em recurso especial é de 15 dias úteis. Ademais, o art. 1003, §6º, do CPC/2015 estabelece que o recorrente comprovará, mediante documentação idônea, a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. No caso, a decisão de inadmissibilidade do recurso especial foi disponibilizada no Diário de Justiça em 22/7/2022, mas o agravo em recurso especial foi interposto somente em 17/8/2022.
+4. Segundo a jurisprudência desta Corte Superior, o dia 11 de agosto - quando se celebra a criação dos primeiros cursos jurídicos no Brasil, o Dia do Magistrado e o Dia do Advogado - não é feriado nacional, pelo que necessária a comprovação da suspensão do expediente forense na origem, no ato de interposição do recurso.
+6. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque é intempestivo o recurso interposto sob a égide do CPC/2015 fora do prazo legal de 15 dias úteis (arts. 219 e 1003, §5º, do CPC/2015), a contar da publicação da decisão recorrida. Outrossim, nos termos do art. 1003, §6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, restando impossibilitada a regularização posterior.
+Na espécie, conforme certificado à fl. 321, a decisão de inadmissibilidade do recurso especial foi disponibilizada no Diário de Justiça em 22/7/2022, iniciando-se o prazo recursal no dia 25/7/2022 e findando-se em 15/8/2022, dado que o dia 12/8/2022 foi declarado ponto facultativo na Corte local. Inobstante, o agravo em recurso especial foi interposto somente em 17/8/2022, consoante se verifica às fls. 326-346, pelo que de fato intempestivo o referido recurso.
+Veja-se que, diferentemente do que sustenta o agravante, segundo a jurisprudência desta Corte Superior, o dia 11 de agosto - quando se celebra a criação dos primeiros cursos jurídicos no Brasil, o Dia do Magistrado e o Dia do Advogado - não é feriado nacional, pelo que necessária a comprovação da suspensão do expediente forense na origem, no ato de interposição do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso em mandado de segurança protocolizado após o prazo de 15 dias úteis, nos termos do arts. 33 da Lei n. 8.038/1990 e 1.003, § 5º, e 219, caput, do Código de Processo Civil.
+2. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+3. O dia comemorativo de criação dos primeiros cursos jurídicos no Brasil (11 de agosto) não é feriado nacional, sendo necessária a comprovação, no ato de interposição do recurso, da suspensão do expediente forense na origem.
+4. Agravo interno desprovido.
+(AgInt no RMS 68.837/ES, Rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 30/11/2022)
+PROCESSUAL CIVIL. FERIADO LOCAL. TRIBUNAL DE ORIGEM. NÃO COMPROVAÇÃO. INTEMPESTIVIDADE.
+1. A Presidência do STJ, no julgamento do Agravo em Recurso Especial, não conheceu do recurso em razão da sua intempestividade, argumentando que a comprovação da existência de feriado local deveria ter sido realizada no momento da interposição do recurso.
+2. Consoante Enunciado Administrativo 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+3. A Corte Especial do STJ, no julgamento do AgInt no AREsp 957.821/MS, realizado na sessão de 20 de novembro de 2017, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC de 2015 e os princípios consagrados pelo novo Código, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade.
+4. Assim, nos recursos protocolados na vigência do novo Código de Processo Civil, como no caso concreto, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser demonstrada, mediante documento idôneo, no ato da interposição do recurso, o que não ocorreu. Confiram-se os seguintes acórdãos: AgInt no AREsp 1.125.294/RJ, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 5/12/2017; AgInt no AREsp 1.121.468/MG, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 1º/12/2017; AgInt no AREsp 1.116.874/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 4/12/2017; AgInt no AREsp 1.089.669/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 29/11/2017.
+5. Na forma da jurisprudência do STJ, o dia 11 de agosto não é feriado nacional, a teor da Lei 5.010/1966, sendo imperiosa a comprovação da suspensão do expediente forense no momento cabível. Os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça Estadual. A propósito: AgInt no AREsp 1.291.661/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2018.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1.254.555/MS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/12/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
