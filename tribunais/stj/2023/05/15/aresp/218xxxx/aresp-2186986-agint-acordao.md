@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisões de fls. 311-313, e-STJ, complementadas pela decisão de fls. 326-328, e-STJ, que julgou os Embargos de Declaração, todas proferidas pela Presidência do Superior Tribunal de Justiça.
+No Agravo Interno, a insurgente defende não ser o caso de aplicação do entendimento da Súmula 182/STJ, pois teria impugnado todos os fundamentos da decisão negativa de admissibilidade proferida pelo Tribunal a quo.
+Transcorreu o prazo legal sem apresentação de Contraminuta.
+Pleiteia a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Recurso Especial do agravante não foi admitido com base nestes argumentos:"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ, Súmula 280/STF, deficiência de cotejo analítico e ausência de juntada do inteiro teor dos acórdãos paradigmas. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de juntada do 2. Constata-se que na petição de Agravo em Recurso Especial (fls. 278-296, e-STJ), não há formulação de impugnação específica quanto a necessidade de comprovação da divergência".
+2. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+3. Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não obstante os argumentos expendidos, o inconformismo não merece guarida.
+O Recurso Especial da agravante foi inadmitido com base nestes fundamentos (fl. 311, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ, Súmula 280/STF, deficiência de cotejo analítico e ausência de juntada do inteiro teor dos acórdãos paradigmas.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de juntada do inteiro teor dos acórdãos paradigmas.
+Foram opostos Embargos de Declaração pela parte ora agravante, pugnando pelo saneamento de erro material descrito abaixo (fl. 316, e-STJ):
+4. Ocorre que, ao assim dispor, esta N. Presidência incorreu na conduta do inciso III, do artigo 1.022, do CPC, consubstanciada em erro material quanto à realidade dos autos, haja vista que, diferentemente do que consignou a I. Ministra, a ausência de juntada do inteiro teor dos acórdãos paradigmas não foi relacionada como causa de inadmissão do recurso especial, pela decisão objeto do agravo em recurso especial.
+A Presidência do STJ, ao julgar os Aclaratórios, consignou (fl. 327, STJ):
+O referido óbice autônomo foi indicado no último parágrafo da fl. 274 da decisão de admissibilidade de agravo em recurso especial pelo Desembargador WANDERLEY JOSÉ FEDERIGHI:
+Por derradeiro, mesmo que se entenda interposto com base no dissenso interpretativo, impossível, também, seu conhecimento, uma vez que não basta para efeito de comprovação da divergência com a jurisprudência cristalizada a mera referência a seu número. Torna-se indispensável, em casos tais, demonstre-se o dissídio entre a tese no verbete enunciada e aquela adotada pelo v. acórdão recorrido.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Constata-se que, na petição de Agravo em Recurso Especial (fls. 278-296, e-STJ), não há formulação de impugnação específica quanto à necessidade de comprovação da divergência.
+O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+Com efeito, sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+No mesmo sentido: AgInt no REsp n. 1.783.482/MS, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+De todo o exposto, conclui-se que o Agravo em Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
