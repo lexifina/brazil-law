@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Miqueias Custodio Aleixo, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo.
+Na denúncia o paciente foi acusado por ter tentado subtrair para si uma motocicleta de propriedade da vítima, não consumando o delito por circunstâncias alheias à sua vontade, além de estar portando arma de fogo de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar (fls. 29/31).
+Na sentença (Processo n. 0000595-55.2020.8.08.0048), o paciente foi condenado à pena de 3 anos, 5 meses e 1 dia de reclusão, em regime aberto, pelo Juízo da 4ª Vara Criminal da comarca da Serra/SP, como incurso no art. 155, caput, na forma do art. 14, II, ambos do Código Penal, e art. 16, caput, da Lei Federal n. 10.826/2003, na forma do art. 69 do Código Penal (tentativa de furto e porte ilegal de arma de fogo de uso restrito, em concurso material) - fls. 32/41.
+Em sede de apelação (n. 0000595-55.2020.8.08.0048), a Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo negou provimento ao recurso (fls. 20/28). O julgado recebeu a seguinte ementa (fl. 23):
+APELAÇÃO - FURTO TENTADO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO - DOSIMETRIA - PENA-BASE EXASPERADA COM BASE NAS CIRCUNSTÂNCIAS JUDICIAIS IDONEAMENTE VALORADAS - GRATUIDADE DA JUSTIÇA - JUÍZO DA EXECUÇÃO - RECURSO CONHECIDO E DESPROVIDO.
+Mantém-se a pena-base quando fixada com fundamentação concreta, baseando-se no número de circunstâncias idoneamente valoradas relativas aos motivos, circunstâncias do crime e consequências do delito. Precedentes.
+A condenação ao pagamento das custas processuais é consectário lógico da sentença penal condenatória, cabendo ao juízo da execução avaliar a necessidade, ou não, de suspensão da exigibilidade. Precedentes.
+No presente writ, alega a defesa que a pena-base seja fixada no piso mínimo (fls. 3/19).
+Prestadas informações pelo Tribunal de Justiça do Espírito Santo (fls. 50/53).
+Parecer ministerial opinando pela denegação da ordem (fls. 55/58).
+É o relatório.
+Razão não assiste à defesa. Na dosimetria, deve-se respeitar a livre convicção do Magistrado, que se dá com base nos fatos e provas dos autos. Esta Corte Superior deve interceder no quantum da pena fixada ou afastar vetoriais valoradas como negativas quando estiver flagrante a ilegalidade e quando o Magistrado não apresentar idônea fundamentação. Na hipótese, o Magistrado elevou a pena em face de três circunstâncias judiciais, como o motivo, por ter o réu dito que a motivação foi o fato de que precisaria de mais dinheiro, entrando em contradição com sua própria fala de ter adquirido naquele momento uma arma para caçar. Também o fato de ter dito que estourou a ignição com uma chave de fenda, o que foi o suficiente para valoração do rompimento de obstáculo e, por fim, as consequências do crime, pelo custo do conserto da motocicleta pelo proprietário. Diante disso, verifica-se que o Magistrado se baseou em concretos fundamentos e todos eles amparados em questões que foram devidamente analisadas pela instância ordinária, portanto, desnecessário o reexame por parte desta Corte.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO TENTADO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO, EM CONCURSO MATERIAL (ART. 155, CAPUT, NA FORMA DO ART. 14, II, AMBOS DO CP, E ART. 16 DA LEI N. 10.826/2003, NA FORMA DO ART. 69 DO CP). INSURGÊNCIA DA DEFESA QUANTO À PENA FIXADA. AUSÊNCIA DE ILEGALIDADE. PENA-BASE FIXADA AMPARADA EM CONCRETA FUNDAMENTAÇÃO. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO QUANTO AOS FATOS.
+Ordem denegada.
