@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de embargos de declaração (e-STJ fls. 2.253/2.260) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fls. 2.240/2.241):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ADJUDICAÇÃO DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. PREÇO VIL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. É inadmissível o recurso especial, se a deficiência na fundamentação não permitir a exata compreensão da controvérsia, a teor da Súmula n. 284/STF.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+4. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. Diante das premissas fáticas estabelecidas nas instâncias ordinárias, o reconhecimento, no caso concreto, de que a adjudicação se deu por preço vil exigiria reexame de matéria fático-probatória, vedado em recurso especial.
+7. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante alega haver omissões no julgado.
+No seu entender, "a decisão embargada parte de premissa de que o acórdão recorrido nunca teria negado o cabimento da ação anulatória para desconstituir a adjudicação, mas conclui em sentido contrário, transcrevendo trecho do próprio acórdão segundo o qual a presente demanda não poderia ser julgada procedente em razão da falta de oposição de embargos à adjudicação no processo principal" (e-STJ fl. 2.253).
+Salienta que, segundo consta da decisão embargada, "a discrepância entre os valores apurados na perícia original e na ação anulatória se deve ao (i) decurso do tempo e (ii) à majoração do preço da saca de soja, fatores que entendeu terem sido considerados pelo acórdão, mas restou por partir de premissa fática equivocada uma vez que o acórdão recorrido é expresso ao afirmar que não foi considerada a (ii) majoração da soja, mas tão somente a correção monetária do período" (e-STJ fl. 2.256).
+Entende ser necessária a correção da "premissa fática da r. decisão embargada, a fim de que se proceda na análise da ocorrência (ou não) do preço vil a partir do contexto fático consolidado no acórdão recorrido: a adjudicação ocorreu com o preço do imóvel defasado (valor encontrado em 2011 e atualizado monetariamente para 2013), sem considerar o aumento no preço da saca de soja no ano de 2013" (e-STJ fl. 2.257).
+Ao final, pede o acolhimento dos aclaratórios, para que sejam supridos os vícios apontados.
+Não foi apresentada impugnação (e-STJ fl. 2.265).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. RECURSO INADMITIDO. EVENTUAL INCONFORMISMO CABÍVEL. AGRAVO AO STF. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Proferido juízo de admissibilidade, encerra-se a prestação jurisdicional deste Superior Tribunal de Justiça devendo eventual irresignação agora ser manejada mediante a utilização do instrumento processual cabível.
+III - O inconformismo com o resultado da decisão não pode servir de argumento à interposição continuada de recursos se ausente qualquer vício a ser sanado.
+IV - Embargos rejeitados.
+(EDcl no AgRg no RE no AgRg no AgRg na ExSusp n. 88/GO, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 17/4/2013, DJe 24/4/2013.)
+CUSTAS. RECOLHIMENTO. AUSÊNCIA. DESERÇÃO. AÇÃO CIVIL PÚBLICA. ISENÇÃO. INAPLICABILIDADE DO ART. 18, DA LEI Nº 7.347/85. PRECEDENTES. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+I - Os embargos de declaração constituem recurso de rígidos contornos processuais, consoante disciplinamento inserto no artigo 535 do CPC, exigindo-se, para seu acolhimento, estejam presentes os pressupostos legais de cabimento, o que não se verifica na hipótese.
+(..)
+III - Pretensão de simples rediscussão da controvérsia contida nos autos não dá margem à oposição de declaratórios, principalmente com intuito de emprestar efeito infringente à decisão. Precedentes: EDcl nos EREsp 445.664/AC, Rel. Ministro FERNANDO GONÇALVES, CORTE ESPECIAL, DJe 26/03/2009, EDcl no AgRg nos EREsp 499.648/MA, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 21/08/2008.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.003.179/RO, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 12/5/2011, DJe 7/6/2011.)
+No caso concreto, pleiteia a parte embargante nova análise do recurso anterior sem comprovar nenhum dos vícios elencados no art. 1.022 do CPC/2015.
+Os argumentos apresentados no agravo interno foram devidamente examinados no acórdão ora embargado, que, quanto à questão de mérito, esclareceu o seguinte (e-STJ fls. 2.248/2.250):
+(..) como destacado na decisão ora impugnada, o acórdão recorrido não tratou do art. 479 do CPC/1973, o qual trata da necessidade de indicação pelo juiz dos motivos que o levaram a considerar ou desconsiderar as conclusões do laudo pericial. Assim, caberia à recorrente opor embargos de declaração, a fim de provocar a Câmara julgadora a pronunciar-se sobre o tema. Não havendo tal manifestação, deveria alegar no recurso especial ofensa ao art. 1.022 do CPC/2015, apontando omissão específica sobre a questão, o que não ocorreu.
+Por sua vez, embora se reconheça que, de fato, houve o prequestionamento do art. 486 do CPC/1973, observa-se que o acórdão recorrido em momento algum nega o cabimento da ação anulatória para desconstituir a adjudicação por preço vil, conforme alega a recorrente, mas, reconhecendo essa possibilidade, nega, no caso concreto, o pedido de desconstituição da adjudicação com base em tal alegação, diante da conduta omissa da recorrente, que, "regularmente intimada naqueles autos a respeito da utilização da prova emprestada (fls. 584 e 583), permaneceu silente" e "Posteriormente, com a adjudicação do imóvel pelo valor de R$ 13.399.761,86, sequer manejou a requerente os competentes embargos à adjudicação a fim de questionar o valor do bem" (e-STJ fl. 1.890).
+Além disso, a Corte local deixou claro que, no caso concreto, não ficou caracterizada a adjudicação por preço vil, salientando, a partir do exame das provas dos autos, que (e-STJ fl. 1.891):
+No caso, o imóvel penhorado foi avaliado em R$ 12.439,276,10 (cf. fls. 605/671), para dezembro/2011, valor este que, atualizado até fevereiro/2013, alcançou o valor R$ 13.399.761,86 (cf. fls. 876). O credor adjudicou o imóvel pelo valor da avaliação atualizada, de modo que não se caracterizou preço vil.
+Por outro lado, vale ressaltar que por ocasião da avaliação efetuada em dezembro/2011 (utilizada como prova emprestada na execução 047.01.2004.008207-0) o perito prestou todos os esclarecimentos necessários com a utilização de método comparativo de dados do mercado imobiliário, com vistoria "in loco" do imóvel, oportunidade em que se aferiu as características do terreno e suas benfeitorias, sem que trouxesse a autora prova concreta a desmerecer o trabalho técnico, tal como erro, dolo ou má-fé do avaliador.
+Ademais, de se anotar que embora tenha expert da presente demanda avaliado a propriedade rural em R$ 31.3000,00 (fls. 1142/1168 e 1249/1257), certo é que tal valor foi obtido com base em critérios e índices previstos para 2013 e 2016 que, no entanto, não correspondem àqueles adotados na avaliação original.
+De se citar, como exemplo, que o perito judicial desta demanda, na aferição da terra nua, tomou por base a variação da saca de soja da cidade de Diamantino/MT ao preço de R$ 53,90(compra) e R$ 57,20 (venda), cotação vigente em 19/07/2013. (fls. 1257).
+Por sua vez, a avaliação original, para aferição do valor da terra nua, tomou como base a cotação da saca de soja ao preço de R$ 35,20, vigente quando da feitura do cálculo, em dezembro/2011 (fls. 344).
+Nesse contexto, observa-se que, conforme constou da decisão agravada, a agravante não impugnou devidamente todos os fundamentos do acórdão recorrido, principalmente no que se refere à impossibilidade de se realizar um novo juízo a respeito do valor do bem, considerando (a) a inércia da agravante nas duas oportunidades que teve para impugnar o valor apurado, (b) o fato de que a discrepância entre os valores apurados na perícia original e na ação anulatória se deveu ao decurso do tempo e à majoração do preço da saca de soja e (c) que a recorrida não apresentou elementos aptos a comprovar a ocorrência de erro ou dolo na primeira avaliação.
+Por fim, inafastável a Súmula n. 7/STJ pois, diante das premissas fáticas estabelecidas nas instâncias ordinárias, o reconhecimento, no caso concreto, de que a adjudicação se deu por preço vil exigiria reexame de matéria fático-probatória, vedado em recurso especial.
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos declaratórios. Ao contrário, verifica-se a mera pretensão de reexame da questão, a qual foi suficientemente analisada.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
