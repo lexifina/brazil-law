@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto pela defesa contra decisão monocrática que não conheceu do habeas corpus (e-STJ fls. 1.322/1.349).
+Repisa a defesa os fundamentos veiculados na inicial do presente writ. Insiste na tese de que indevida a manutenção da condenação dos pacientes. Afirma que os fatos imputados aos pacientes e ao corréu Mateus foram baseados nas informações prestadas pelo corréu Anderson, em seu interrogatório, mas sem nenhum fundamento em elementos concretos colhidos no processo (e-STJ, fl. 1361).
+Aduz que o fato de os nomes dos pacientes e do corréu Matheus estarem escritos em um papel entregue a Anderson, como destinatários do entorpecente, não indica, necessariamente, que eles tinham conhecimento e participavam da ação criminosa (e-STJ, fl. 1362). Ademais, que o corréu Anderson não efetivou a tradição dos entorpecentes para os pacientes, de forma que se afasta o delito de tráfico.
+De forma subsidiária, requer o reconhecimento da prática do crime de tráfico na forma tentada.
+Requer seja reconsiderada a decisão ou submetido o feito a julgamento pela Quinta Turma do STJ para reconhecer a nulidade do acórdão do TJSC que manteve a condenação dos pacientes pelo crime de tráfico de drogas, eis que os pacientes não incorreram em nenhum dos núcleos previstos no art. 33 da Lei 11.343/06, devendo ser reconhecida a atipicidade da conduta. Subsidiariamente, ainda que se entenda que eles possuíam unidade de desígnios com o corréu Anderson e com os membros da facção criminosa PGC, deve-se reconhecer o delito na modalidade tentada, pois a tentativa de entregar as drogas aos pacientes foi interrompida, impossibilitando a consumação do delito (e-STJ, fl. 1364).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 33, CAPUT, DA LEI 11.343/06. ATIPICIDADE DA CONDUTA. TESE AFASTADA. ACERVO PROBATÓRIO QUE COMPROVA A AUTORIA E MATERIALIDADE DO TRÁFICO DE DROGAS. CON DENAÇÃO DEVIDAMENTE FUNDAMENTADA. CONCLUSÃO DISTINTA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AJUSTE DE VONTADE ENTRE OS ENVOLVIDOS EVIDENCIADO. INVIABILIDADE DE RECONHECIMENTO DA FORMA TENTADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Devidamente comprovada a autoria e materialidade do delito de tráfico de drogas, impõe-se a condenação dos pacientes, na forma em que procedeu a Corte de origem, afastando-se a tese de atipicidade.
+2. Alcançar conclusão diversa ensejaria indevido revolvimento fático-probatório, inviável em sede de habeas corpus.
+3. Demonstrado o ajuste de vontades entre os envolvidos para a prática do crime de tráfico, enseja sua configuração a prática de qualquer das condutas previstas no tipo penal do art. 33, caput, da Lei n. 11.343/06. Na hipótese dos autos, o delito de tráfico ocorreu por meio de transportar, guardar e levar consigo a droga.
+4. Agravo regimental improvido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Pretende a defesa, em síntese, o reconhecimento da atipicidade da conduta do paciente Paulo Sérgio. Subsidiariamente, que se reconheça quanto a ele a prática do delito de tráfico na forma tentada, o que também pretende quanto a André Luiz.
+A decisão recorrida (e-STJ, fls. 1.322/1.349), no entanto, deve prevalecer, diante da ausência de fundamentos aptos a infirmá-la.
+O Tribunal de origem, ao condenar os pacientes, diante das comprovadas autoria e materialidade, fundamentou de forma adequada e suficiente o acórdão, com destaque para o vasto acervo probatório produzido, especialmente a prova testemunhal, que explicitou com fartos detalhes a conduta dos pacientes a fim de propiciar a entrada de entorpecentes, chips e celulares no interior do presídio em que se encontravam.
+Demais disso, diante do exame de toda a prova produzida, concluiu que imprescindível era a adesão de todos os envolvidos no plano criminoso para que este tivesse sucesso, salientando que as chances de êxito da ação ousada foram ampliadas com a adesão dos envolvidos, ao assegurar tempo suficiente para que Anderson atravessasse o produto estupefaciante pelo furo do parlatório.
+Outro elemento probatório destacado pela Corte a quo se referiu ao fato do paciente Paulo aguardar a passagem do entorpecente do outro lado do parlatório, a confirmar sua adesão à prática criminosa, assim como a dos demais réus, que aguardavam ser chamados para que a entrada das drogas fosse viabilizada.
+Por fim, ainda do acervo probatório, o Tribunal estadual destacou que o corréu Anderson recebeu de terceiro anotações relativas ao nome e matrícula dos pacientes, o que também evidencia, no conjunto de provas, que tinham ciência e anuíram à prática criminosa.
+De tal sorte, alcançar decisão no sentido de absolver o paciente Paulo demandaria revolvimento fático-probatório, inadmissível na presente via.
+Por fim, a Corte local, em consonância com entendimento jurisprudencial deste Tribunal afastou a hipótese de reconhecimento da forma tentada do crime de tráfico tendo em vista que o ajuste de vontades entre os envolvidos acerca da prática do crime enseja sua configuração a partir da verificação de qualquer das condutas previstas no tipo penal do art. 33, caput, da Lei n. 11.343/06. Na hipótese dos autos, verificou-se a prática do delito de tráfico por meio de transportar, guardar e levar consigo a droga.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
