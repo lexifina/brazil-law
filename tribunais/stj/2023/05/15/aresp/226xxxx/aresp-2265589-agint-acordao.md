@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Serviço Social do Comércio - SESC, contra a decisão proferida pela Presidência do STJ, cujo teor não conheceu do agravo em recurso especial, da qual se extrai:
+Cuida-se de agravo em recurso especial apresentado por SERVICO SOCIAL DO COMERCIO - SESC - ADMINISTRACAO REGIONAL NO ESTADO DE SAO PAULO contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: consonância do acórdão recorrido com jurisprudência do STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Nas razões do agravo, a agravante alega que efetivamente impugnou os fundamentos da decisão de inadmissibilidade do recurso especial, sobretudo, àquele pelo qual restou justificada a aplicação dos enunciado da súmulas 83 do Superior Tribunal de Justiça. Nesse sentido, requer a recorrente a reconsideração da decisão monocrática ou o julgamento do recurso pela Eg. Turma.
+Contraminuta ao agravo interno às fls. 678/683 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. É dever do agravante, em virtude do princípio da dialeticidade, demonstrar o desacerto da decisão que inadmitiu o recurso especial, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnaram todos os seus fundamentos. A ausência de impugnação específica impede o conhecimento do agravo em recurso especial, nos termos do artigo 932,
+III, do CPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno não provido.
+VOTO
+A irresignação não prospera.
+Ao não conhecer do agravo em recurso especial, a decisão da Presidência assentou que a parte agravante deixou de impugnar especificamente os fundamentos exarados na decisão de inadmissibilidade do apelo especial, especialmente àquele que relativo a iterativa jurisprudência do Superior Tribunal de Justiça (súmula 83/STJ).
+No caso dos autos, compulsando-se as razões colacionadas no Agravo em Recurso Especial (fls. 594/601, e-STJ) depreende-se a ausência de fundamentos jurídicos necessários para refutar a aplicação do teor do enunciado da Súmula 83/STJ.
+A propósito, é dever do agravante, em virtude do princípio da dialeticidade, demonstrar o desacerto da decisão que inadmitiu o recurso especial, atacando especificamente e em sua totalidade o seu conteúdo. A ausência de impugnação específica impede o conhecimento do agravo em recurso especial.
+Portanto, incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão de inadmissão do recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa.
+Precedentes: AgInt no AREsp n. 888.241/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp n. 1.036.445/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp n. 1.006.712/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+Em suma, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/73), devendo ser mantida a decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido. (AgInt no AREsp 878.395/SP, Rel. Ministro
+MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/9/2016 sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 881.656/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 6/9/2016 sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, o agravante não infirmou devidamente a alegação de que incidiria o óbice da Súmula 7/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. A Corte Especial do STJ firmou orientação de que a decisão de inadmissão do recurso especial é incindível em capítulos autônomos, tornando imprescindível a impugnação específica de todos os seus fundamentos (cfr. EAREsps 701.404/SC, 746.775/PR e 831.326/SP, Rel. p/ acórdão Min. Luis Felipe Salomão).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.461.155/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/09/2019, DJe 09/09/2019)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
