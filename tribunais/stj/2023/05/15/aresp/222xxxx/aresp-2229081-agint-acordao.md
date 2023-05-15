@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de novo agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra a decisão desta relatoria de fls. 269-272 (e-STJ), que reconsiderou a manifestação da Presidência desta Corte Superior de fls. 242-243 (e-STJ), que não conhecera do agravo em recurso especial.
+No decisum ora agravado, firmou-se o conhecimento parcial do recurso excepcional, mas, na extensão conhecida, negou-lhe provimento (e-STJ, fls. 269-272).
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 180):
+AGRAVO DE INSTRUMENTO. Ação cominatória. Plano de saúde. Cobertura assistencial. Cumprimento de sentença. Decisão que condena a parte ré ao pagamento de multa por litigância de má-fé. Inconformismo da parte. Litigância de má-fé. Artigo 774, inciso II, do Código de Processo Civil. Partes que têm a faculdade de se manifestarem ao longo do processo, mas não devem extrapolar os limites da boa-fé processual. Agravante que reiterou manifestação sobre questões já decididas ao longo da ação. Ato atentatório à dignidade de justiça em razão de oposição maliciosa à marcha processual. Multa mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 200-203).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, ofensa aos arts. 80, 774, II, e 1.022, II, do CPC.
+Esclareceu que se opôs ao julgamento da segunda instância ao não apreciar todas as suas teses recursais, embora apreciados os embargos de declaração. Argumentou que não houve ato atentatório à dignidade da justiça nem má-fé praticados pela insurgente no curso da lide.
+Suscitou que não agiu com intuito malicioso, mas apenas exerceu seu direito de defesa, a fim de resguardar a resilição do contrato de plano de saúde. Requereu o provimento do recurso especial (e-STJ, fls. 206-216).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior.
+Contra esse julgamento interpôs a demandante anterior agravo interno. No recurso, frisou que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial. Reafirmou as teses lançadas no apelo especial acima sumariadas. Pugnou pelo conhecimento e provimento do agravo (e-STJ, fls. 246-260).
+Reconsiderada a decisão da Presidência, conheceu-se parcialmente do recurso especial, mas, na parte conhecida, negou-lhe provimento. Neste novo agravo interno, a ora demandante reforça as premissas do apelo excepcional, resumidas acima.
+Argui a ocorrência dos vícios do art. 1.022 do CPC no aresto da segunda instância. Menciona não ser hipótese de óbice da Súmula 7/STJ, haja vista que sua pretensão reivindica a correta aplicação da legislação, sendo caso de correta qualificação jurídica do contexto fático-probatório.
+Pondera a agravante ser incontroverso que não houve nenhum descumprimento da obrigação de fazer a ela imposta, bastando para essa verificação a leitura da decisão proferida no cumprimento de sentença. Destarte, não caberia falar em multa por litigância de má-fé, por estar simplesmente atuando no seu melhor interesse. Tratar-se-ia, em verdade, de uma tentativa reiterada de demonstração de justiça. Requer o provimento deste agravo interno. (e-STJ, fls. 275-284).
+Contraminuta não apresentada (e-STJ, fls. 285-287).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO, CARÊNCIA DE FUNDAMENTAÇÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA LITIGÂNCIA DE MÁ-FÉ. CABIMENTO DA PENALIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A Corte de origem, analisando o acervo fático-probatório da causa, entendeu ser hipótese de manutenção da penalidade por litigância de má-fé, justificando que a operadora do plano de saúde ora demandante insistentemente suscita as mesmas alegações, inviabilizando a marcha processual e agindo de má-fé processual, razão por que era cabível a multa imposta pelo julgador inicial. Aplicação da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+Revisitando o caderno processual, não se observam razões para o provimento deste recurso interno.
+Com efeito, não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A Corte de origem, analisando o acervo fático-probatório da causa, entendeu ser hipótese de manutenção da penalidade por litigância de má-fé. Justificou o decisum que a operadora do plano de saúde ora demandante insistentemente suscita as mesmas alegações, inviabilizando a marcha processual e agindo de má-fé processual, razão por que era cabível a multa imposta pelo julgador inicial.
+Confira-se trecho do acórdão (e-STJ, fls. 182-183):
+A penalidade imposta fundamenta-se no artigo 774, inciso II, do Código de Processo Civil, o qual estabelece que "se opõe maliciosamente à execução, empregando ardis e meios artificiosos".
+É de se considerar que as partes têm a faculdade de manifestarem ao longo do processo, mas não devem extrapolar os limites da boa-fé processual ao se manifestar sobre questões já decididas ao longo da ação.
+No caso, o Juízo a quo, por ocasião da aplicação da primeira multa, reconheceu que "a executada agravante insiste em trazer as mesmas alegações (fls.98/101)" e por isso aplicou a penalidade.
+A decisão agravada foi proferida sob o mesmo fundamento, após, novamente, a agravante reproduzir "os mesmos argumentos", o que não é negado nas razões recursais (fls. 111 e 122 dos autos de origem). Entretanto, este Tribunal, já teve oportunidade de considerar o comportamento da própria agravante, em caso análogo, como atentatório à dignidade de justiça em razão de oposição maliciosa à marcha processual e, com isso, manteve a multa imposta pelo magistrado de primeiro grau:
+ ..
+Diante da comprovada conduta da agravante que ensejou tumulto em prejuízo ao bom andamento do processo, de rigor a manutenção da r. decisão agravada, como fundamentado.
+Logo, é mesmo impositiva a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional. Nesse contexto, não se verifica a pretensão por mera qualificação jurídica do contexto fático-probatório, mas sim sua efetiva reapreciação, motivo a ocasionar a incidência desse enunciado sumular.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
