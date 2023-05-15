@@ -1,0 +1,7 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA DE SÃO LOURENÇO DO OESTE - SC suscita conflito de competência diante do JUÍZO DE DIREITO DA UNIDADE REGIONALIZADA DE PLANTÃO JUDICIÁRIO DE PATO BRANCO - PR.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventuais medidas judiciais que se façam necessárias em investigação deflagrada pela suposta prática dos delitos previsto nos arts. 16 da Lei n. 10.826/2003 e 33 da Lei de Drogas.
+Entretanto, como pontuou o Ministério Público Federal, não há, nos autos, o pronunciamento do Juízo suscitado. Como cediço, a utilização do conflito negativo de competência pressupõe que dois ou mais juízes se considerem competentes ou incompetentes para processar e julgar determinado processo, de modo que se faz necessária, para a aferição desse pressuposto, a correta instrução do feito, sob pena de seu não conhecimento.
+Malgrado o Parquet Federal haja se manifestado pela conversão do feito em diligência, saliento que a iniciativa e a devida instrução do processo é encargo do Juízo suscitante, sobretudo quando o tema nele ventilado exige o exame minucioso das nuances do caso.
+Por isso, com fundamento no art. 34, XXII, do RISTJ, não conheço do conflito de competência. Registro, por oportuno, que nada obsta que outro incidente seja suscitado, desde que devidamente instruído com ambas as manifestações dos juízos e com as peças processuais necessárias para o deslinde da controvérsia.
+Publique-se. Dê-se ciência ao Juízo suscitante.
