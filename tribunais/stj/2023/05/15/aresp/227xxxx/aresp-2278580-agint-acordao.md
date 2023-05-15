@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por JOSE CARLOS GOMES contra decisão unipessoal, proferida pela Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial que interpusera, e que foi assim fundamentada:
+"Cuida-se de agravo interposto por JOSE CARLOS GOMES, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de JOSE CARLOS GOMES, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. .
+(AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se." (e-STJ Fls. 488/489)
+Nas razões do presente recurso, o agravante afirma que seu recurso especial atendeu a todos os requisitos de admissibilidade exigidos, asseverando que "o permissivo constitucional foi demonstrado na minuta de Agravo em Recurso Especial". (e-STJ Fl. 495)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PERMISSIVO CONSTITUCIONAL NÃO INDICADO NO ESPECIAL. RECURSO INADMISSÍVEL. SÚMULA 284/STF.
+1. Ação declaratória.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada foi assim fundamentada, na parte em que impugnada pelo agravante:
+"Cuida-se de agravo interposto por JOSE CARLOS GOMES, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de JOSE CARLOS GOMES, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. .
+(AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se." (e-STJ Fls. 488/489)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da Súmula 284/STF
+O recurso especial não reúne condições de admissibilidade, pois deixou de indicar a alínea do permissivo constitucional, o que impede saber em qual das hipóteses de cabimento o recurso especial está embasado, atraindo, por analogia, o óbice da Súmula 28 4/STF.
+Assim, não prospera a pretensão recursal, na medida em que a jurisprudência se firmou no sentido de que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do apelo. Nesse sentido: AgRg no AREsp 551.606/PB, Segunda Turma, Dje de 03/02/2016; AgRg no Ag 760.867/PE, Primeira Turma, DJ de 23/11/2006, p. 221; AgRg no REsp 1244392/AL, Terceira Turma, Dje de 08/11/2011; AgRg nos EAREsp 278.959/MG, Corte especial, Dje de 06/05/2016; REsp 1.191.462/ES, Segunda Turma, DJe de 14/09/2010.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
