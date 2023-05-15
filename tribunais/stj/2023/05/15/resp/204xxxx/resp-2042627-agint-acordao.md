@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática (fls. 2191-2192, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 211 do STJ.
+O agravante sustenta, em suma (fl. 2310, e-STJ):
+Pleiteou o Agravado a concessão da antecipação da tutela dos pedidos da presente demanda.
+Ocorre, porém, que é necessário analisar a presença ou não dos requisitos para a concessão da antecipação de tutela com o objetivo de incluir o Agravado como dependente de seu falecido pai, após a morte deste, para fins de recebimento de pensão por morte.
+Afirma o Agravado que é inválido, por ser portador de doença mental que lhe acomete desde a juventude, sem, contudo, fazer prova de sua dependência econômica e invalidez anteriores à morte do seu falecido pai, conforme exaustivamente já demonstrado.
+Neste aspecto, juntou aos autos principais apenas dois laudos particulares contendo declarações a pedido seu e, pior, FALTOU COM A VERDADE ao alegar que juntou aos presentes autos laudo de junta médica do Estado do Amazonas, o qual NÃO EXISTE EM LUGAR ALGUM, tendo o Agravado tão somente feito um agendamento que sequer se sabe o resultado, não existindo, desta forma, qualquer prova robusta da alegada incapacidade.
+Assim, Excelência, não é demais lembrar que a concessão antecipada dos efeitos da tutela tem como pressupostos a verossimilhança do direito invocado pela parte e o perigo de dano irreversível ou de difícil reparação, o que não existe nos presentes autos, face não só a fragilidade das provas das alegações do Agravado, mas também, pela clara inexistência da urgência da tutela, haja vista, segundo palavras do próprio Agravado, que já conta com quase 60 anos de idade e SEMPRE viveu muito bem até hoje, em contrapartida a ora Agravante que já é uma senhora idosa e vive da pensão do seu finado marido para manutenção de suas despesas tais como aluguel, remédios, alimentação, condomínio e outros necessários à sua manutenção.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE INADMITIU RECURSO ESPECIAL. REVOLVIMENTO DE FATOS E PROVAS. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A parte agravante deixou de se contrapor adequadamente a todos os fundamentos da decisão agravada. Nela, afastou-se a alegada ofensa ao art. 1.022 do Código de Processo Civil, e aplicaram-se as Súmulas 7/STJ e 211/STF. Contudo, consta da petição do Agravo Interno apenas a reiteração das razões de mérito expostas no Recurso Especial e a alegação de que houve o devido prequestionamento das matérias objeto do Recurso (Súmula 211/STJ). Não há, portanto, impugnação adequada ao fundamento da decisão que não conheceu do Agravo em Recurso Especial, consistente no óbice da Súmula n.º 7 do STJ.
+2. No presente Recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 14 de fevereiro de 2023.
+Trata-se, na origem, de Ação Anulatória de Ato Administrativo, com Pedido de Tutela Antecipada, movida contra o Estado do Amazonas, requerendo a suspensão da penalidade administrativa de demissão do ora agravante.
+A parte agravante deixou de se contrapor adequadamente a todos os fundamentos da decisão agravada. Nela, afastou-se a alegada ofensa ao art. 1.022 do Código de Processo Civil, bem como se aplicaram as Súmulas 7/STJ e 211/STF. Contudo, consta da petição do Agravo Interno apenas a reiteração das razões de mérito expostas no Recurso Especial e a alegação de que houve o devido prequestionamento das matérias objeto do recurso (Súmula 211/STJ). Não há, portanto, impugnação adequada ao fundamento da decisão que não conheceu do Agravo em Recurso Especial, consistente no óbice da Súmula n.º 7 do STJ.
+No presente Recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nessa linha, os precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PORTARIA DO DETRAN QUE INSTITUIU O MANUAL DE PROCEDIMENTO DE REGISTO E LICENCIAMENTO DE VEÍCULOS. GRAVAME DE RESERVA DE DOMÍNIO. ANOTAÇÃO QUE SÓ PODE SER CONSIGNADA EM FAVOR DO ANTERIOR PROPRIETÁRIO. EXIGÊNCIA LEGAL. ART. 123, I, DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUMULA 282 E 356 DO STF). FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Revela-se inviável a análise do Agravo Regimental, cuja fundamentação não impugna especificamente os fundamentos da decisão agravada, in casu, a ausência de prequestionamento do dispositivo legal apontado como violado ante a incidência inarredável da Súmula 182 do STJ, que preceitua o seguinte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Agravo Regimental não conhecido. (AgRg no REsp 753.564/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/04/2007, DJ 21/05/2007 p. 545)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. CONTESTAÇÃO NÃO APRECIADA. MEDIDA CAUTELAR. INCIDENTE PROCESSUAL.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada torna inviável o agravo regimental. Aplicação da Súmula 182 do Superior Tribunal de Justiça.
+1. É manifestamente inadmissível o agravo cujas razões recursais não atacou o fundamento da decisão impugnada, ante à ausência de pressuposto recursal genérico.
+2. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido. (AgRg no REsp 840.007/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 08/05/2007, DJ 18/05/2007 p. 319)
+CREDITAMENTO DE ICMS. AGRAVO DE INSTRUMENTO. INADMISSÃO DO RECURSO ESPECIAL SÚMULA Nº 07/STJ. ARGUMENTO NÃO REFUTADO. SÚMULA Nº 182/STJ.
+I - O agravante, em suas razões recursais, não atacou o fundamento constante da decisão impugnada, relativo ao fato de que a revisão da decisão turmária importaria no óbice da súmula 7/STJ, e verificando que tal fundamento é suficiente de per si para a inadmissão do agravo, tem-se inviabilizado o seguimento do agravo de instrumento, haja vista o teor da súmula 182/STJ.
+II - Agravo regimental improvido. (AgRg no Ag 752.308/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 27/03/2007, DJ 26/04/2007 p. 217)
+PROCESSUAL CIVIL. FUNDAMENTO INATACADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 182 E 211/STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental improvido. (AGRESP 849.848/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/10/2006, DJ 16/10/2006 p. 355)
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
