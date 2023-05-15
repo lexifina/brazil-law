@@ -1,0 +1,8 @@
+DECISÃO
+RITA DE CÁSSIA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo Regimental no Habeas Corpus n. 2049691-46.2023.8.26.0000, em que foi mantido o prosseguimento da ação penal oferecida em seu desfavor.
+Asseriu a defesa, perante a Corte de origem, que "a paciente sofre constrangimento ilegal, decorrente da nulidade do termo da audiência preliminar, porquanto diversamente do constado, não teria havido recusa ao ANPP. Pleiteiam, liminarmente, o sobrestamento da ação penal e, a final, concessão da ordem, em definitivo, para anular a solenidade; subsidiariamente, aplicação do CPP, art. 28, § 14" (fl. 47).
+Todavia, a Corte de origem, ao manter o decisum, ressaltou que "realmente não consta qualquer manifestação formal no sentido de aceitação do acordo, nos termos em que proposto, restando configurada a preclusão, prosseguindo-se a ação penal" (fl. 58).
+Salientou também não ser "crível a alegação de desconhecimento dos termos finais do acordo, cujas condições foram enumeradas pelo Parquet em audiência e constam em ata. Não há informação de que a parte ou seu advogado tenham se retirado da solenidade, ignorando seu desfecho" (fl. 58, grifei).
+A esse respeito, urge consignar que, "para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ" (AgRg no HC n. 753.488/MG, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 9/8/2022.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
