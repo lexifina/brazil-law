@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ALIOMAR EVERTON DE JESUS NEVES, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DA BAHIA (HC n. 80325182320228050000) - fls. 17/18:
+CONSTITUCIONAL E PROCESSUAL PE NAL. HABEAS CORPUS LIBERATÓRIO. CRIMES TIPIFICADOS NO ART. 157, § 2º, II E V, E § 2º-A, I, DO CPB, C/C O ART. 1º, II, "A" E "B", DA LEI N. 8.072/1990 (POR QUATRO VEZES); ARTS. 288, PARÁGRAFO ÚNICO, E 311, NA FORMA DO ART. 69, TODOS DO CÓDIGO PENAL BRASILEIRO.
+1 - AUSÊNCIA DE FUNDAMENTAÇÃO PARA DECRETAÇÃO DA SEGREGAÇÃO CAUTELAR. DECISÃO CALCADA EM ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO IDÔNEA. PRESENTES OS REQUISITOS E 01 (UM) DOS FUNDAMENTOS DO ART. 312 DO CPPB. GARANTIA DA ORDEM PÚBLICA. DECRETO PRISIONAL FOI LASTREADO NA EXISTÊNCIA DO PERICULUM LIBERTATIS E DO FUMUS COMISSI DELICTI. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CONSTATADO.
+2 - CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. MERO EXAURIMENTO DA ALEGAÇÃO DE DESFUNDAMENTAÇÃO DA SEGREGAÇÃO CAUTELAR COMBATIDA NO WRIT.
+3 - ALEGAÇÃO DE EXCESSO PRAZAL. NÃO CONSTATAÇÃO.OBSERVÂNCIA AO PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO (ART. 5º, LXXVIII, DA CONSTITUIÇÃO DA REPÚBLICA). TRÂMITE REGULAR DO PROCESSO PENAL. COMPLEXIDADE. AÇÃO PENAL COM 10 (DEZ) ACUSADOS. DENÚNCIA RECEBIDA EM 18/8/2021. NECESSIDADE DE EXPEDIÇÃO DE DIVERSAS CARTAS PRECATÓRIAS. PEDIDOS DE REVOGAÇÃO DAS CUSTÓDIAS CAUTELARES. INDEFERIMENTOS. REAVALIAÇÃO DAS CUSTÓDIAS CAUTELARES, CONFORME PREVÊ O ART 316, PARÁGRAFO ÚNICO, DO CPPB. CUSTÓDIA CAUTELAR DO PACIENTE REANALISADA EM 1º/8/2022. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. DESÍDIA ESTATAL NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CONSTATADO.
+4 - CONCLUSÃO: ORDEM DENEGADA.
+Alega-se a ausência dos requisitos ensejadores da prisão preventiva, bem como excesso de prazo.
+Liminar indeferida (fls. 130/132).
+Informações prestadas (fls. 137/153).
+Parecer do Ministério Público Federal (fls. 214/225):
+HABEAS CORPUS SUBSTITUTIVO. CRIMES TIPIFICADOS NO ART. 157, § 2º, II E V, E § 2º-A, I, DO CPB, C/C O ART. 1º, II, "A" E "B", DA LEI N. 8.072/1990 (POR QUATRO VEZES); ARTS. 288, PARÁGRAFO ÚNICO, E 311, NA FORMA DO ART. 69, TODOS DO CÓDIGO PENAL. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS E FUNDAMENTOS PARA A SEGREGAÇÃO CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. EXCESSO DE PRAZO NÃO CONFIGURADO. PELO NÃO CONHECIMENTO E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Observo a inexistência de constrangimento ilegal por excesso de prazo, tendo em vista a complexidade e a gravidade concreta dos fatos expostos no acórdão impugnado - suposta autoria das práticas delitivas tipificadas no art. 157, § 2º, II e V, e § 2º-A, I, do CPB, c/c o art. 1º, II, a e b, da Lei n. 8.072/1990 (por quatro vezes); arts. 288, parágrafo único, e 311, na forma do art. 69, todos do Código Penal Brasileiro (fl. 36), em concurso de 9 pessoas.
+Conforme jurisprudência desta Corte Superior, entende-se que inexiste excesso de prazo nas hipóteses em que a causa é complexa e não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder (AgRg no HC n. 691.955/RN, Ministro João Otávio de Noronha, Quinta Turma, DJe 24/2/2022), situação evidenciada no presente caso.
+O paciente, outrossim, conforme a denúncia, era o chefe da associação criminosa armada, sendo o principal responsável por organizar toda a empreitada criminosa, reunindo os comparsas, fornecendo armas e intermediando a venda e o repasse das mercadorias roubadas (fl. 68), e apresenta diversos antecedentes criminais (fl. 154), o que indica alta probabilidade de que, uma vez em liberdade, voltará a delinquir. Diante disso, com o fito de se garantir a ordem pública, bem como assegurar a aplicação da lei penal, a manutenção da prisã o preventiva se faz necessária, nos termos do art. 312 do Código de Processo Penal.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO, ASSOCIAÇÃO CRIMINOSA ARMADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO. INEXISTENTE. COMPLEXIDADE DO FEITO. FUNDAMENTOS IDÔNEOS. PERICULOSIDADE. REITERAÇÃO DELITIVA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Ordem denegada.
