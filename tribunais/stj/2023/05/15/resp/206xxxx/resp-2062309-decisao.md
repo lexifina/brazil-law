@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO TÍTULO JUDICIAL. EXPEDIÇÃO RPV. HOMOLOGAÇÃO E PAGAMENTO. ÍNDICE DA CORREÇÃO MONETÁRIA. REDISCUSSÃO. IMPOSSIBILIDADE. AUSÊNCIA DE ERRO MATERIAL. PRECLUSÃO. COISA JULGADA.
+1. Ressai indevido o pedido de modificação do índice de correção monetária, seja por não se tratar de erro material do requisitório, seja por estar preclusa a matéria, sob pena de violação da coisa julgada.
+2. Recurso não provido.
+O recorrente afirma que houve ofensa aos arts. 322, § 1º, 505, I, e 927, I, do CPC/2015. Alega (fl. 276, e-STJ):
+Tendo em vista o superveniente desprovimento pelo STF dos embargos declaratórios interpostos no RE 870.947/SE, que declarou a inconstitucionalidade da TR como critério de correção monetária, o ora recorrente requereu a retificação dos requisitórios e/ou a expedição dos requisitórios ainda não adimplidos, o que foi indeferido.
+Ato contínuo, foi interposto o competente agravo interno objetivando a reforma da decisão, sendo ele desprovido sob o fundamento de que "Ressai indevido o pedido de modificação do índice de correção monetária, seja por não se tratar de erro material do requisitório, seja por estar preclusa a matéria, sob pena de violação da coisa julgada."
+Ocorre que é equivocado o entendimento exarado no decisum ora recorrido, pois, em primeiro plano, os juros e a correção monetária protraem-se no tempo, traduzindo típica hipótese de relação jurídica de trato continuado, eis que se renovam mês a mês, o que excepciona a própria preclusão PRO JUDICATO e a coisa julgada, na forma do que estabelece o art. 505, I, do CPC.
+Contrarrazões às fls. 309-318, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.4.2023.
+A questão debatida nos autos é a possibilidade de se aplicar ou não a TR quando o título executivo judicial, acobertado pela coisa julgada material, previu expressamente a sua incidência.
+Verifico que o STF reconheceu a Repercussão Geral da matéria no RE 1.317.982/ES (Tema 1.170) com a seguinte questão de direito: "Validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso".
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 1.040 e seguintes do CPC/2015, conforme o caso.
+Nessa linha:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÍNDICE DE CORREÇÃO MONETÁRIA. VALIDADE DO ÍNDICE DE CORREÇÃO MONETÁRIA NAS CONDENAÇÕES DA FAZENDA PÚBLICA NA EXECUÇÃO DE TÍTULO JUDICIAL QUE TENHA FIXADO EXPRESSAMENTE ÍNDICE DIVERSO. RITO REPETITIVO. TEMA 1.170/STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+I - Na origem, trata-se de agravo de instrumento contra decisão da 6ª Vara Federal de Fazenda Pública do Distrito Federal, que indeferiu o pedido de incidência nos cálculos do IPCA-E, mesmo após o entendimento firmado pelo STF no Tema n. 810. No Tribunal a quo, deu-se provimento ao pedido.
+II - A questão jurídica objeto do presente recurso diz respeito à validade do índice de correção monetária aplicável nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema n. 810/STF), na execução de título judicial que tenha fixado expressamente índice diverso (RE 1.317.982 da relatoria do Ministro Luiz Fux, submetido ao rito dos recursos repetitivos, Tema n. 1.170/STF), cujo processamento encontra-se pendente de julgamento perante o Supremo Tribunal Federal, com determinação de suspensão nacional de todos os processos.
+III - Alega a parte embargante a existência de repercussão geral reconhecida ou afetação para julgamento como recurso repetitivo da matéria tratada nos autos.
+IV - Nesses casos, o art. 256-L, caput, do Regimento Interno do STJ, determina a devolução dos autos ao Tribunal de origem, para nele permanecerem suspensos.
+V - A Corte Especial do STJ tinha entendimento de que não seria possível a devolução na estreita via dos embargos de declaração, por não ser adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+VI- Entendia-se que "a superveniente modificação do entendimento consignado no acórdão embargado não enseja o rejulgamento da causa, por serem os embargos de declaração de índole meramente integrativa" e que o acolhimento da tese acarretaria o reconhecimento de uma omissão inexistente. (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1.019.717/RS, relator Ministro João Otávio de Noronha, relatora p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/9/2017, DJe 27/11/2017.)
+VII - Todavia, recentemente, a Corte Especial do STJ reafirmou o entendimento no sentido da devolução com fundamento, tanto no art. 256-L do Regimento Interno do STJ, como do art. 1.037 do CPC/2015, mesmo no julgamento de embargos de declaração.
+VIII - Assim, devem ser acolhidos os embargos de declaração para tornar sem efeito as decisões e votos proferidos nesta Corte; considerar prejudicados os recursos interpostos nesta Corte, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia ou repetitivo: a) denegue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+IX - Embargos acolhidos para determinar a devolução dos autos ao Tribunal de origem.
+(EDcl no AgInt no REsp 1.983.063/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022.)
+Diante do exposto, determino a devolução dos autos à Corte distrital, com a devida baixa, para que esta, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelo STF, ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da tese firmada no julgamento da matéria com Repercussão Geral reconhecida.
+Publique-se.
+Intimem-se.
