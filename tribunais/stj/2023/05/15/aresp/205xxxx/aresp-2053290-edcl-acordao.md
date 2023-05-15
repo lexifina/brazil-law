@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação objetivando a suspensão da exigibilidade do crédito tributário. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, conforme a seguinte ementa do acórdão:
+Apelação - Multa - A multa em questão tem natureza punitiva e não moratória. Assim, enquanto os juros servem para compensar a perda financeira que decorre do atraso no pagamento, a multa visa punir a infração cometida pelo contribuinte. Como os institutos possuem naturezas distintas não é possível vislumbrar qualquer irregularidade ou ilegalidade no fato dos juros de mora incidirem sobre a multa - Considerando a inteligência da Súmula 509, bem como do Repetitivo acima transcrito, a conclusão a que se chega é que, na hipótese de uma operação de compra e venda em que uma parte venha a ser declarada inidônea, os efeitos da declaração de inidoneidade não devem atingir a outra parte, para fins de direito ao creditamento de ICMS, se (e somente se) reconhecida a boa-fé desta e demonstrada a efetiva circulação da mercadoria - Assim, é necessário conferir à referida norma estadual interpretação conforme à Constituição, em consonância com o julgado precedente do Egrégio STF na ADI nº. 442, a fim de que a taxa de juros adotada pelo Estado de São Paulo (que engloba a correção monetária) para a at ualização monetária de seus tributos seja, sempre, igual ou inferior à utilizada à da União para o mesmo fim - Por outro lado, a aplicação dos juros de mora de acordo com a Lei nº 13.918/09 não tem o condão de macular toda a cobrança, a torná-la nula - Melhor que seja diferido o pagamento das custas do preparo recursal, uma vez que diante da realidade financeira em decorrência da Pandemia, seu faturamento foi atingido - Destarte, merece provimento em parte o apelo interposto pela apelante, apenas para redução da multa punitiva, nos termos indicados - Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o contribuinte recorrente indica como violados os arts. 489 e 1022, ambos do CPC/2015, alegando, em suma, ausência de fundamentação da decisão acerca do questionamento sobre os efeitos da declaração de inidoneidade de terceira empresa a atingir o recorrente.
+Adiante apontou ofensa aos arts. 103 e 136 do CTN, sustentando, em resumo, ser ilegal a retroação dos efeitos da declaração de inidoneidade na solidariedade prevista no § 1º , XI, do art. 11 do RICMS/2000.
+Também apontou divergência jurisprudencial.
+Por sua vez, em seu recurso especial, a Fazenda Pública do Estado de São Paulo, indicando diversos dispositivos legais, cinge-se a combater a redução da multa em favor do contribuinte. Afirma, em suma, que é devida a multa no percentual fixado administrativamente.
+Após decisum que inadmitiu os recursos especiais, foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo da FORSAITT COMERCIAL TECNICA LTDA para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento e com esteio no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo da FAZENDA PUBLICA DO ESTADO DE SÃO PAULO para não conhecer do recurso especial.
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO FOI REBATIDO PELO APELO NOBRE. SÚMULA N. 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando a suspensão da exigibilidade do crédito tributário. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - No mérito, também não atinge melhor sorte o recorrente, porquanto a questão está centrada na ocorrência de boa-fé do recorrente, o que foi afastado pelo Tribunal a quo.
+IV - Observe-se que fundamentação não foi rebatida pelo recorrente o que implicaria incidência da Súmula n. 283/STF e, ainda que afastado o referido óbice, apresentar-se-ia em relevo o constante da Súmula n. 7/STJ, tendo em vista que, para aferir a ocorrência ou não de boa-fé, seria necessário examinar o conjunto probatório dos autos, o que é indevido.
+V - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, conforme seguintes trechos da petição:
+ ..
+Com efeito, não restam dúvidas de que a sentença e o acórdão proferido violaram diretamente o inciso II, do artigo 1.022, em consonância com o inciso IV, do §1º, do artigo 489, todos do CPC, ponto igualmente faltoso na decisum embargada.
+ ..
+Quanto a boa-fé, pela lógica traçada na Súmula 509 deste STJ, os efeitos da declaração de inidoneidade não devem atingir desmedidamente um adquirente de boa-fé, razão pela qual a argumentação da Embargante é edificada para demonstração da retidão de sua parte com relação a operação, objetivando o aproveitamento do entendimento sumulado.
+A r. decisum embargada se silencia, vez que tratado em tópico próprio a "boa-fé" exigida para aplicação do entendimento da Súmula 509 do STJ, oportunidade em que foi feita necessária distinção entre o precedente com o caso em testilha, bem como, ressaltando suas identidades (fls. 1233-1239):
+ ..
+Outrossim, apreciar a referida questão não implica na incidência da Súmula 7 desta Colenda Corte, uma vez que a questão de direito (proteção de adquirente de boa-fé de posterior declaração de inidoneidade de empresa) foi vastamente enfrentada pela sentença e acórdão, subsidiando a revaloração nesta via.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO FOI REBATIDO PELO APELO NOBRE. SÚMULA N. 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO INTERNO. OMISSÃO. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de ação objetivando a suspensão da exigibilidade do crédito tributário. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Segundo o art. 1.022 do Código de Pr ocesso Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Na hipótese dos autos, em que pese a fundamentação do embargante, verifica-se que o acórdão objurgado foi claro no sentido que Tribunal a quo se manifestou sobre nulidade da sentença apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+IV - Ademais, o decisum tratou com clareza sobre a incidência da Súmula 283/STF, eis que a questão está centrada na ocorrência de boa-fé do recorrente, o que foi afastado pelo Tribunal a quo e a questão não foi rebatida pelo recorrente.
+V - Por fim, ainda que afastado os referidos óbices, apresentar-se-ia em relevo o constante da Súmula n. 7/STJ, tendo em vista que, para aferir a ocorrência ou não de boa-fé, seria necessário examinar o conjunto probatório dos autos, o que é indevido.
+VI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Na hipótese dos autos, em que pese a fundamentação do embargante, verifica-se que o acórdão objurgado foi claro no sentido que Tribunal a quo se manifestou sobre nulidade da sentença apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+Ademais, o decisum tratou com clareza sobre a incidência da Súmula 283/STF, eis que a questão está centrada na ocorrência de boa-fé do recorrente, o que foi afastado pelo Tribunal a quo e a questão não foi rebatida pelo recorrente.
+Por fim, ainda que afastado os referidos óbices, apresentar-se-ia em relevo o constante da Súmula n. 7/STJ, tendo em vista que, para aferir a ocorrência ou não de boa-fé, seria necessário examinar o conjunto probatório dos autos, o que é indevido.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
