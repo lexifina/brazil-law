@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por CERCRED - COIMBRA ADVOGADOS ASSOCIADOS contra decisão que conheceu do agravo para negar provimento ao recurso especial, com os seguintes fundamentos: a) ausência de ofensa ao art. 1.022 do CPC/2015; b) incidência da Súmula 7/STJ.
+A agravante sustenta que é desnecessária nova análise dos fatos e provas, sendo o conhecimento sumário da lide suficiente para que se observem as violações expostas no recurso especial.
+Afirma que, não obstante o juízo não ser obrigado a analisar todas as alegações das partes, deve apreciar todas as alegações capazes de infirmar a decisão adotada, conforme estabelece o art. 489, § 1º, do CPC. Complementa que, apesar de tangenciar a temática apresentada pelo agravante, a r. decisão não enfrentou relevantes argumentos trazidos em sede recursal, em especial não confrontou argumentos acerca dos parâmetros que, incontroversamente, foram utilizados de forma inadequada no laudo pericial.
+A agravada não apresentou impugnação (e-STJ, fl. 395).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. REPASSE A MENOR DO VALOR DEVIDO AO CLIENTE. COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO DA PROVA PERICIAL. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Na hipótese, o acórdão recorrido concluiu que o saldo credor apontado na sentença em favor da parte autora está amparado no escorreito trabalho pericial, tendo em vista que houve compensação a maior do valor devido a título de honorários advocatícios. A revisão dos fundamentos que ensejaram esse entendimento exigiria alteração das premissas fático-probatórias dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão ora agravada.
+Na hipótese, trata-se de ação de prestação de contas ajuizada pela MASSA FALIDA DO BANCO PONTUAL S/A pretendendo a condenação do ora agravante a prestar as contas do mandato que lhe foi outorgado. Alegou que o réu foi contratado para patrocinar ação de execução contra a empresa Bauhaus Engenharia e Construção Ltda, em que foi homologado acordo no qual a empresa pagaria ao autor o valor de R$ 622.838,16 para quitação do débito principal. Afirmou que o requerido foi autorizado a receber em nome do autor o respectivo valor, mas repassou apenas R$ 311.427,37, sendo credor de R$ 311.410,79.
+O Juiz de Direito julgou parcialmente procedente o pedido, para reconhecer a obrigação do réu de prestar contas, declarando-as prestadas e declarando ser a parte autora credora do réu na importância apontada pelo ilustre perito, ou seja, R$ 135.130,33, a ser acrescida de juros de 1% ao mês e correção da data da elaboração do laudo.
+Seguiu-se apelação aduzindo, em síntese, que: o laudo pericial se equivocou ao desconsiderar o valor do dinheiro no tempo (correção monetária e juros), pois ignorou o lapso temporal havido entre o evento que deu causa aos honorários (recuperação do bem) e o seu efetivo recebimento; deveria o perito atualizar os valores históricos até a data do efetivo pagamento, e não se utilizar do valor histórico das parcelas, já desatualizadas no momento do pagamento efetivo ou da compensação.
+Em suma, o apelo limitou-se a alegar equívoco na elaboração do laudo pericial.
+O eg. Tribunal de Justiça do Estado do Rio de Janeiro negou provimento à apelação, por considerar escorreito o trabalho pericial.
+Embora rejeitados os embargos de declaração opostos contra o v. acórdão recorrido, não se verifica a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o Tribunal de origem, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+Com efeito, os embargos de declaração alegaram que o v. acórdão recorrido não enfrentou: a existência de créditos, nunca quitados, em favor do embargante, a legalidade da compensação levada a efeito e, por fim, o equívoco do laudo pericial confeccionado.
+Ocorre que o v. acórdão recorrido claramente analisou os temas suscitados e não visualizou nenhum equívoco na prova técnica.
+O Tribunal de origem, no que se refere ao alegado equívoco do laudo pericial, expressamente consignou o seguinte (e-STJ, fl. 257):
+"O presente recurso cinge-se em determinar se houve equívoco na elaboração do laudo pericial impugnado e, por conseguinte, na fundamentação da r. sentença atacada, uma vez que a tese recursal afirma que não houve o cômputo de juros e correção monetária entre a data do evento (recuperação do bem) e seu respectivo recebimento.
+De acordo com as provas produzidas no bojo dos presentes autos, pode-se concluir que a r. sentença não desafia qualquer reparo.
+A prova técnica não possui premissa equivocada, conforme pretende sustentar a recorrente, uma vez que de acordo com os documentos acostados pelo réu em sua prestação de contas, não há como se comprovar se os honorários já haviam sido pagos ou se o bem já se encontrava disponibilizado para alienação, cujo saldo credor, atualizado monetariamente e acrescido de juros legais da citação, totalizou R$ 135.130,33, apurado com base nos preços dos veículos em outubro de 2008, junto à tabela FIPE.
+Dessa forma, correta a r. sentença ao fundamentar o decisum com base na escorreito trabalho pericial e de acordo com seu livre convencimento motivado, nos moldes do art. 131 do CPC/73 (atual art. 371 do CPC/2015)." (grifou-se)
+O Tribunal de origem acrescentou que, "no tocante à compensação, verifica-se que esta fora levada em consideração na apuração do saldo credor que totalizou R$ 135.130,33, apurado com base nos preços dos veículos em outubro de 2008, junto à tabela FIPE" (e-STJ, fl. 277).
+Assim, não se visualizou equívoco na prova técnica, entendendo-se como escorreitos seus fundamentos.
+Ficou evidenciado que o réu recebeu valores destinados ao autor, mas repassou a este apenas parte do montante recebido, sob o argumento de que lhe eram devidos honorários de advogado.
+O laudo pericial observou que não houve prova do pagamento dos honorários e que foram recuperados veículos cujo preço de venda seria utilizado como base para calcular os honorários, mas não houve prova da data em que disponíveis para venda.
+Apurou o perito que, havendo contrato de honorários entre as partes e inexistindo prova do pagamento, eram devidos os honorários e estes poderiam ser abatidos, restando saldo credor em favor do autor no valor de R$ 135.130,33.
+Inexistindo prova das vendas e dos preços de venda dos veículos recuperados, os valores obtidos pelo perito coincidiram com a época em que houve retenção pelo réu (outubro de 2008) e apurados com base na média de preços da tabela FIPE.
+Em suma, o autor admitiu, na inicial, que seriam devidos honorários advocatícios e não se opôs ao desconto, apenas pretendeu com a ação verificar se estava correta a retenção no que tange ao seu montante.
+Nesse contexto, verificou-se, com base na prova documental apresentada pelo réu e diante das conclusões do perito, que havia saldo a favor do autor no valor de R$ 135.130,33, resultante da compensação dos honorários de advogado devidos pelo autor.
+A modificação de tal entendimento, quanto à correção da prova pericial, demandaria, necessariamente, o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HOMOLOGAÇÃO DO VALOR APURADO ATRAVÉS DE PROVA PERICIAL. APURAÇÃO DE LUCROS CESSANTES. INVIABILIDADE. PREQUESTIONAMENTO. SUMULAS 282 E 356 D STF. SÚMULA 7 DO STJ. MATÉRIA QUE DEMANDA REEXAME DE PROVAS.
+AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. O acórdão concluiu pela correção dos parâmetros utilizados pelos cálculos do laudo pericial, assentando não ter ocorrido o alegado equívoco na utilização dos parâmetros indicados pela Agência Nacional de Petróleo (ANP). A revisão dos fundamentos que ensejaram esse entendimento exigiria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 485.601/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/4/2017, DJe de 17/4/2017, g.n.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CRT E CELULAR CRT. ALEGAÇÃO DE OFENSA A DISPOSITIVO LEGAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CORREÇÃO DOS CÁLCULOS. PROVA PERICIAL. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do Código de Processo Civil. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. De acordo com entendimento acolhido pelo Tribunal de origem, os cálculos apresentados pelo perito estão em consonância com o título judicial, devendo prevalecer o saldo encontrado, demandando a reversão dessa conclusão o revolvimento da matéria fático-probatória dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido."
+(AgRg no AREsp 577.126/SC, Relator Ministro Raul Araújo, Quarta Turma, julgado em 24/3/2015, DJe de 23/4/2015, g.n.)
+Nota-se que a parte agravante sustenta genericamente a inaplicabilidade da Súmula 7 do STJ, mas não demonstra concretamente como seria possível confrontar os parâmetros adotados no laudo pericial sem o necessário revolvimento dos fatos e das provas.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
