@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração opostos por MARIA ILZA BEZERRA DOS SANTOS contra acórdão proferido pela egrégia Quarta Turma do Superior Tribunal de Justiça, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO POR EXCESSO DE EXECUÇÃO. SUPOSTO VALOR CORRETO DECLINADO (CPC, ART. 525, §§ 4º E 5º). DESNECESSIDADE DE PLANILHA DE CÁLCULO (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. A exigência de apresentação de planilha de cálculo pela parte executada, prevista no § 4º do art. 525 do CPC/2015, não é absoluta, pois o § 5º do mesmo artigo traz a conjunção disjuntiva "ou", a indicar a possibilidade de o executado, excepcionalmente, apontar, em sua impugnação por excesso de execução, apenas o valor que entende correto, desacompanhado de planilha de cálculo, quando não haja necessidade de elaboração qualificada de cálculos.
+2. Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos, conforme a Súmula 83/STJ.
+3. Agravo interno desprovido.
+Nas razões dos embargos de declaração, sustenta a embargante omissão do julgado em apreciar os paradigmas colacionados - a saber: AgInt no REsp 1.507.561/PR, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022; AgInt no AREsp 2.009.482/SC, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022; AgInt no REsp 1.663.941/PR, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/10/2021, DJe de 15/10/2021; AgInt no AREsp 1.124.996/MG, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/10/2018, DJe de 17/10/2018 -, os quais ilustrariam sua tese recursal.
+Obtempera que "a conjunção disjuntiva "ou", interpretada pela jurisprudência, não indica a possibilidade de o devedor apresentar, em sua impugnação, apenas o valor, sem a planilha de cálculo, como equivocadamente se pode entender da leitura isolada da respectiva oração subordinada, "não apontado o valor correto ou não apresentado o demonstrativo", mas sim afirma que em qualquer uma das duas condições previstas na mesma oração subordinada, será aplicada a sanção prevista na oração principal, "a impugnação será liminarmente rejeitada"."
+Entende que a exigência cumulativa, de indicação do valor que entende devido e do demonstrativo de cálculos, é uma novidade trazida pelo CPC/2015, não prevista de maneira expressa pelo CPC/1973.
+Conclui que não há como interpretar os §§ 4º e 5º do art. 525 e art. 917, §§ 3º e 4º, do CPC/2015, de maneira diversa. Assim, caso o executado/impugnante não aponte o valor correto ou não apresente o demonstrativo, sua impugnação/embargos será(ão) liminarmente rejeitada(os) se o excesso de execução for seu único fundamento ou, se houver outro fundamento, a impugnação/embargos será(ão) processada(os), mas o juiz não examinará a alegação de excesso de execução.
+O prazo para impugnação do presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. ALEGADOS VÍCIOS NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente motivadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os presentes embargos de declaração contêm a pretensão modificativa do julgado embargado.
+Irresigna-se a parte embargante com a prescindibilidade da apresentação da memória de cálculo, no âmbito da impugnação do cumprimento de sentença.
+Com efeito, conforme acórdão embargado, de acordo com a jurisprudência do STJ, na impugnação do cumprimento de sentença, não é necessária a apresentação de planilha discriminada do cálculo do valor que o executado entende correto.
+Ademais, consignou-se no acórdão embargado que o Superior Tribunal de Justiça, no âmbito de recurso especial representativo de controvérsia, assentou a tese vinculante de que é indispensável apontar, na petição de impugnação do cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial (Recurso Especial Repetitivo 1.387.248/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe de 19/05/2014).
+Deveras, de acordo com a jurisprudência desta Corte, na impugnação do cumprimento de sentença, apesar de não ser necessária a apresentação de planilha discriminada do cálculo do valor que o executado entende correto, é imprescindível o oferecimento de memória discriminada do quantum debeatur, mostrando-se o acórdão em sintonia com a orientação.
+Reforce-se que o Tribunal a quo entendeu que a exigência de apresentação de planilha de cálculo pela parte executada, prevista nas normas em comento, não é absoluta, pois o § 5º do art. 525 do CPC/2015 traz a conjunção disjuntiva "ou", a indicar a possibilidade de o executado apresentar, em sua impugnação por excesso de execução, planilha de cálculo ou simplesmente apontar o valor que alega ser correto, caso excepcionalmente não haja necessidade de elaboração qualificada de cálculos.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, consoante art. 1.022 do CPC/2015. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente motivadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É o voto.
