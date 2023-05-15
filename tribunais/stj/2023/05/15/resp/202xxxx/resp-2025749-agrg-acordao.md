@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por JULIANO ALBERTO MACHIAVELLI e ALESSANDRA MONIQUE SOUZA contra decisão de minha lavra de folhas 507/510 que conheceu do recurso especial deles e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negou-lhe provimento para manter acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC em julgamento de embargos de declaração na apelação criminal n. 0900043-06.2018.8.24.0011/SC.
+Consta dos autos que os agravantes foram condenados em 24/9/2019 pela prática do delito tipificado no art. 1º, I, II e V, combinado com o art. 11, ambos da lei n. 8.137/90, por 24 vezes, na forma do art. 71, caput, do Código Penal - CP, à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, e 16 dias-multa (fl. 224).
+Recurso de apelação interposto pela defesa foi desprovido, conforme acórdão de folhas 327/334.
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 360).
+Em sede de recurso especial (fls. 388/403), a defesa apontou violação ao art. 28-A do Código de Processo Penal - CPP. Sustentou que a norma deve retroagir para os feitos que ainda se encontram em fase recursal. A defesa afirmou que existe controvérsia a respeito do cabimento do Acordo de Não Persecução Penal - ANPP, inclusive em caráter repetitivo (tema 1098), razão pela qual o julgamento deve ser suspenso, estando pendente de julgamento no Supremo Tribunal Federal - STF o habeas corpus n. 186.913/DF.
+Requereu a suspensão do feito ou a ilegalidade pelo não encaminhamento do feito ao Ministério Público para oferta de ANPP.
+Contrarrazões (fls. 412/418).
+Admitido o recurso no TJSC (fls. 430/431), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 499/505).
+Sobreveio a decisão agravada que, em síntese, não suspendeu o feito, pois inexistente aplicação do art. 1.036, § 1º, do Código de Processo Civil - CPC; e rechaçou o oferecimento do ANPP após o recebimento da denúncia, consoante precedentes do STJ (fls. 507/510).
+No presente agravo regimental de folhas 516/524, a defesa insiste na violação ao art. 28-A do CPP, reiterando as razões do recurso especial ao consignar que o ANPP pode ser ofertado após o recebimento da denúncia.
+Requer a reconsideração ou provimento do agravo regimental com conhecimento e provimento do recurso especial.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 28-A DO CÓDIGO DE PROCESSO PENAL - CPP. ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. RECEBIMENTO DA DENÚNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n.13.964/2019, desde que não recebida a denúncia" (AgRg no AREsp n.1.976.249/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023).
+2. Agravo regimental desprovido.
+VOTO
+De plano, é hipó tese de conhecimento do agravo regimental, eis que tempestivo, com impugnação da decisão agravada nos limites da matéria veiculada no recurso especial.
+Quanto ao mérito, a decisão agravada deve ser mantida por seus próprios fundamentos, eis que ao tempo da introdução do art. 28-A do CPP o feito já contava com denúncia recebida, estando inclusive sentenciado.
+No tocante ao art. 28-A do CPP, o Tribunal catarinense registrou o seguinte:
+"In casu, a denúncia foi oferecida em 26/01/2018 (evento 3, dos autos da ação penal), antes da entrada em vigor da Lei 13.964/19, a qual foi publicada em 24/12/2019 e passou a ter vigência após 30 (trinta) dias - art. 20. Logo, a possibilidade de ANPP não se aplica ao processo em exame, na medida em que deve se restringir à fase policial, de modo que as ações penais devem seguir seu curso normalmente. Dessa forma, tendo em vista que estes autos já possuíam denúncia no momento da entrada em vigor da Lei 13.964/19, deixo de acolher os embargos no ponto, pois ausente a omissão indireta alegada." (fl. 359)
+Extrai-se do trecho acima que o cabimento do ANPP foi negado em função do recebimento da denúncia. A questão sob a ótica do recebimento da denúncia encontra-se em vigência pacífica nesta Corte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). ART. 28-A DO CPP. IMPOSSIBILIDADE. RECEBIMENTO DA DENÚNCIA EM MOMENTO ANTERIOR À VIGÊNCIA DA LEI N. 13.964/2019. AGRAVO REGIMENTAL DESPROVIDO.
+I - A Lei n. 13.964/19 (com vigência superveniente a partir de 23.01.2020), na sua parte processual, é dotada de aplicação imediata, embora sem qualquer tom de retroatividade. Diante disso, aliás, como ocorre com a legislação processual penal em geral, vigora o princípio do tempus regit actum - nos termos do próprio art. 2º do CPP.
+II - Corroborando, o col. Supremo Tribunal Federal: "Nos termos do art. 2º do Código de Processo Penal, a lei adjetiva penal tem eficácia imediata, preservando-se os atos praticados anteriormente à sua vigência, isso porque vigora, no processo penal, o princípio "tempus regit actum" segundo o qual são plenamente válidos os atos processuais praticados sob a vigência de lei anterior, uma vez que as normas processuais penais não possuem efeito retroativo" (AI n. 853.545 AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe de 11/03/2013, grifei).
+III - A jurisprudência da Quinta Turma deste Tribunal Superior se consolidou no sentido de que a referida benesse legal é cabível durante a fase inquisitiva da persecução penal, sendo limitada até o recebimento da denúncia, o que inviabiliza a retroação, porquanto a denúncia foi recebida em 16/05/2019, antes da vigência da Lei n. 13.964/2019.
+IV - Nesta linha, o Conselho Nacional de Procuradores-Gerais, manifestando-se pela Comissão Especial denominada GNCCRIM, editou em o enunciado n. 20, que dispõe, in verbis: "Cabe acordo de não persecução penal para fatos ocorridos antes da vigência da Lei nº 13.964/2019, desde que não recebida a denúncia".
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.035.799/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. DENÚNCIA RECEBIDA. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. DESCABIMENTO. SUPOSTA VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ NÃO DEMONSTRADA. PREJUÍZO NÃO COMPROVADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE INCIDÊNCIA DA FRAÇÃO MÁXIMA PELA TENTATIVA. AVALIAÇÃO DO ITER CRIMINIS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A orientação que se firmou no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, desde que não recebida a denúncia. No caso concreto, sendo a peça acusatória admitida em 27/05/2014 e, prolatada condenação, inclusive confirmada em grau recursal, é inviável a aplicação retroativa do art. 28-A do Código de Processo Penal.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.976.249/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
