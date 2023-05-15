@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DA DEFESA DE ILEGALIDADE NA PENA FIXADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONCRETOS FUNDAMENTOS. PENA DEVIDAMENTE EXASPERADA. PACIENTE EM ALTA POSIÇÃO HIERÁRQUICA. COMANDO VERMELHO.
+1. Não existe uma obrigatoriedade para o Magistrado em elevar a pena na fração de 1/6, por cada circunstância judicial. Cada caso deve ser analisado diante de suas peculiaridades e não deve esta Corte Superior questionar a valoração feita pela instância ordinária, mas, sim, intervir quando se tratar de flagrante ilegalidade quando não há idônea fundamentação.
+2. Comprovada a intensa atuação da quadrilha no armazenamento e venda de entorpecentes, além de declarações de indivíduos que são originários daquela comunidade e que têm conhecimento das atividades criminosas ali desenvolvidas.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Luiz Fernando Nascimento Ferreira contra a decisão deste Relator, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 365):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE REDUÇÃO DA PENA-BASE. AUSÊNCIA DE ILEGALIDADE. PENA DEVIDAMENTE EXASPERADA, COM BASE EM ELEMENTOS CONCRETOS. PACIENTE EM ALTA POSIÇÃO HIERÁRQUICA. COMANDO VERMELHO. ART. 42 DA LEI N. 11.343/2006.
+Ordem denegada.
+Alega o agravante que não houve idônea fundamentação para o aumento da pena-base e que deve ser respeitada a elevação na fração de 1/6. Aduz que apenas uma vetorial foi tida por negativa, qual seja, a liderança juntamente com a vinculação em facção criminosa.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ALEGAÇÃO DA DEFESA DE ILEGALIDADE NA PENA FIXADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONCRETOS FUNDAMENTOS. PENA DEVIDAMENTE EXASPERADA. PACIENTE EM ALTA POSIÇÃO HIERÁRQUICA. COMANDO VERMELHO.
+1. Não existe uma obrigatoriedade para o Magistrado em elevar a pena na fração de 1/6, por cada circunstância judicial. Cada caso deve ser analisado diante de suas peculiaridades e não deve esta Corte Superior questionar a valoração feita pela instância ordinária, mas, sim, intervir quando se tratar de flagrante ilegalidade quando não há idônea fundamentação.
+2. Comprovada a intensa atuação da quadrilha no armazenamento e venda de entorpecentes, além de declarações de indivíduos que são originários daquela comunidade e que têm conhecimento das atividades criminosas ali desenvolvidas.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste à defesa, e a decisão deve ser mantida por seus próprios fundamentos. Não existe uma obrigatoriedade para o Magistrado em elevar a pena na fração de 1/6, por cada circunstância judicial. Cada caso deve ser analisado diante de suas peculiaridades e não deve esta Corte Superior questionar a valoração feita pela instância ordinária, mas, sim, intervir quando se tratar de flagrante ilegalidade quando não há idônea fundamentação. Na hipótese, houve concretos fundamentos para o aumento da pena-base em seu dobro, por estar comprovada a complexa estrutura organizacional, em que todos eram integrantes ativos da quadrilha, e o paciente com uma função maior, de acordo com os autos (fl. 320):
+ ..  ao destacar o agigantado aparelhamento e a sofisticação da organização criminosa em comento, a qual ainda comprovadamente se constitui como um imprescindível "braço" do grupo criminoso auto intitulado "Comando Vermelho", no qual o Recorrente se perfila como quem exerce uma primordial função no topo desta ilícita estrutura hierárquica, identificado como quem realiza a função de "gerente regional", o que equivale a dizer que seria o segundo homem naquela cadeia organizacional delitiva, ostentando extraordinário poder de atuação e de autonomia decisória, inclusive comandando todas as comunidades em torno da área conhecida como "grande Chapadão". Neste sentido, reputo como necessária à espécie a fixação de uma pena base que se mostre o dobro daquela mínima cominada, ou seja, em 6 anos de reclusão e ao pagamento de 1.500 dias multa. ..
+Na decisão do processo conexo ficou expresso quanto à intensa atuação da quadrilha no armazenamento e venda de entorpecentes, além de declarações de indivíduos que são originários daquela comunidade e que têm conhecimento das atividades criminosas ali desenvolvidas. Além disso, também comprovada a dedicação ao roubo de veículos a mão armada, usando os veículos para seus deslocamentos e auferindo valores com a venda deles.
+As provas foram devidamente analisadas, tanto no Juízo sentenciante como no Tribunal estadual, para a exasperação da pena-base dentro dos limites do art. 42 da Lei n. 11.343/2006.
+Ante o exposto, nego provimento ao agravo regimental.
