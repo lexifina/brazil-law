@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração opostos por JOSENNY BAPTISTA CRUZEIRO e OUTRO contra acórdão proferido por esta Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RITO COMUM. ANULAÇÃO DE VENDA DE ASCENDENTE PARA DESCENDENTE C/C PEDIDO DE RESTITUIÇÃO DE COTAS EMPRESARIAIS CEDIDAS. PRIMEIRO JULGAMENTO PELA PROCEDÊNCIA PARCIAL DA DEMANDA. INTERPOSIÇÃO DE RECURSO ESPECIAL PERANTE ESTA CORTE. PROVIMENTO EM RAZÃO DE OFENSA À JURISPRUDÊNCIA DESTA CORTE. DETERMINAÇÃO DE RETORNO DOS AUTOS. NOVA APRECIAÇÃO, PELO TRIBUNAL DE ORIGEM. OFENSA À COISA JULGADA E REFORMATIO IN PEJUS. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, por ocasião do novo julgamento da controvérsia, após o provimento parcial de recurso especial em razão da inobservância de jurisprudência sedimentada nesta Corte, procedeu ao reexame de matéria já acobertada pela coisa julgada, prejudicando a situação jurídica já obtida pelos réus quando do primeiro julgamento da apelação. Decisum que importa em ofensa ao art. 467 do CPC/73 (art. 502 do CPC/2015) e em reformatio in pejus.
+2. Agravo interno provido para, em novo julgamento, dar provimento ao recurso especial." (fl. 1.069)
+Os embargantes sustentam, em síntese, que a manutenção do acórdão de 2º grau, na parte em que se declarou a nulidade da venda realizada por ascendente a descendente, sem consentimento dos demais herdeiros, deixou de observar o conteúdo da decisão proferida por esta relatoria à fl. 805, já preclusa, "a qual determinou a anulação do  primeiro  Acórdão proferido pelo TJMG, justamente em razão do entendimento acima transcrito  anulação da venda  estar em desconformidade com a orientação jurisprudencial dessa Corte" (fl. 1.085).
+Impugnação às fls. 1.107/1.111.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NÃO CARACTERIZADA. REDISCUSSÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e fundamentadas no aresto embargado, já que não são cabíveis para provocar novo julgamento da lide.
+No acórdão embargado, deu-se provimento ao agravo interno interposto por JOSENNY BAPTISTA CRUZEIRO e OUTRO a fim de acolher o pedido do apelo especial apresentado pelas mesmas partes, declarando-se a nulidade parcial do acórdão proferido pelo eg. TJMG, apenas no tocante ao pedido de restituição das cotas empresariais, a serem calculadas em função do capital social real das empresas titularizadas por Genny Leal de Paula Baptista.
+Nestes embargos de declaração, os embargantes sustentam, em suma, que o acórdão de 2º grau deveria ter sido anulado também em relação ao pedido de anulação da venda de ascendente para descendente, sem consentimento dos demais herdeiros, tendo em vista que, assim como aconteceu com o pedido de restituição de cotas empresariais, a matéria já havia precluído, dado o resultado do julgamento do REsp 1.410.744/MG.
+Os embargantes não possuem razão, pelos motivos já apontados no acórdão embargado.
+De todo modo, a fim de elucidar a questão, cabe novamente destacar trecho da decisão monocrática, proferida por esta relatoria nos autos do REsp 1.410.744/MG:
+"No julgamento do REsp 476.557/PR, Re. Min. Nancy Andrighi, bem foi analisada a questão referente à nulidade ou anulabilidade dos negócios jurídicos realizados entre ascendentes e descendentes, sem o consentimento dos demais herdeiros, na vigência do art. 1.132 do Código Civil de 1916.
+Naquela oportunidade foi decidido que ficava qualificado o vício de anulável, devendo ser examinada "a existência ou não de simulação em que se procurou dissimular doação ou compra e venda com preço abaixo do preço de mercado". Transcrevo a íntegra da ementa:
+(..)
+No caso, o col. Tribunal de origem atuou em desconformidade com a orientação jurisprudencial desta Corte Superior, ao fundamentar que, verbis:
+"De fato, restou incontroverso nos autos que não houve o consentimento de todos os descendentes, dentre eles as postulantes, quando da transferência das quotas realizadas por sua mãe, Lia Genny de Paula Baptista, em favor dos réus/apelantes. De sorte que, havendo a venda das quotas do ascendente aos descendentes, sem o consentimento expresso dos demais, revela-se a invalidade do negócio.
+No caso em apreço, entendo que correta a sentença primeva ao reconhecer a invalidade da transação. Nada a prover, portanto, quanto ao tema." (fl. 604)
+De tal modo, observa-se assistir razão à irresignação recursal, no ponto.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, a fim de determinar a anulação do acórdão recorrido, determinando-se a remessa dos autos ao Tribunal de origem para que outro aresto seja proferido, de acordo com os parâmetros balizadores definidos na fundamentação supra. Prejudicadas as demais questões trazidas no recurso." (fls. 801/805)
+Como visto, ao contrário do que pretendem fazer crer os embargantes, esta Corte Superior, nos autos do julgado já citado, não reformou a conclusão primeira do eg. TJMG, com o fim de afastar, desde logo, a nulidade da cessão de cotas de ascendente para descendente, sem consentimento dos demais herdeiros. A bem da verdade, na decisão referida, promoveu-se a anulação do aresto de 2º grau para que, em novo julgamento, o Tribunal de origem averiguasse se os demais herdeiros, que não anuíram à cessão, teriam experimentado algum prejuízo, pois se tratava, na espécie, de nulidade relativa do negócio jurídico.
+Com o retorno dos autos ao eg. TJMG, procedeu-se a novo julgamento da controvérsia, observando-se a jurisprudência do STJ acerca da natureza relativa da nulidade apontada, ocasião em que se indicou, com base nas provas dos autos, a efetiva ocorrência de prejuízo aos herdeiros não anuentes, nestes termos:
+"De fato, restou incontroverso nos autos que não houve o consentimento de todos os descendentes, dentre eles as postulantes, quando da transferência das cotas realizadas por sua mãe, Genny Leal de Paula Baptista, em favor dos réus/apelantes, de sorte que, havendo a venda das cotas do ascendente aos descendentes, sem o consentimento expresso dos demais, acrescido ao fato de ocorrência de prejuízo, revela-se a invalidade do negócio." (fl. 903)
+Quando do retorno dos autos à 2ª instância, o eg. TJMG não estava compelido a declarar a validade da cessão de cotas realizada por ascendente a descendente, mas sim a aferir se, no caso concreto, a cessão teria causado algum prejuízo aos herdeiros não anuentes.
+Não se verifica, portanto, nenhuma omissão do acórdão recorrido.
+É nítido o intuito da parte embargante de obter a reforma do acórdão embargado, entendendo ter sido equivocado o julgamento. Esse intento, contudo, não é cabível na via estreita dos embargos de declaração, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes, nem é adequado para demonstrar entendimentos divergentes sobre a matéria. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa." (EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015, sem negrito no original)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo." (EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015, grifou-se)
+A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É como voto.
