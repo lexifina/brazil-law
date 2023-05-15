@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de segundos embargos de declaração opostos contra acórdão que rejeitou os primeiros embargos de declaração, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+O embargante alega que "a r. decisão embargada refere, ao transcrever a decisão proferida no julgamento do agravo interno, que a Embargante não impugnou a aplicação das Súmulas 05, 07 e 83 do STJ", entretanto, "rejeita os embargos de declaração opostos alegando que a Embargante não refutou a incidência da Súmula 05 do STJ, não havendo qualquer manifestação, na decisão dos Embargos de Declaração, quanto à impugnação e enfretamento expresso das Súmulas 07 e 83 do STJ, restando obscura a conclusão do julgado destes Embargos de Declaração".
+Alega que o acórdão é "contraditório em relação aos precedentes desta Corte Superior, que demonstram claramente que o tema objeto da demanda está em sintonia com o entendimento firmado por este C. STJ, afastando qualquer necessidade de análise de cláusula contratual (Súmula n 05, STJ), posto que, de forma tranquila e límpida verifica-se que está firmada a jurisprudência no sentido de reconhecer o direito dos contribuintes em recolher o ISS na forma privilegiada, não sendo relevante o tipo societário que a empresa estiver registrada".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Nos termos da consolidada jurisprudência desta Corte Superior, os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois o prazo para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa (EDcl nos EDcl no AgRg nos EREsp n. 1.230.609/PR, relator Ministro Jorge Mussi, Corte Especial, DJe 26/10/2016.)
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Verifico, no caso, não haver nenhum vício a ensejar a anulação do julgado ou sua revisão, mediante Embargos de Declaração.
+Nos termos da consolidada jurisprudência desta Corte Superior, os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois o prazo para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa (EDcl nos EDcl no AgRg nos EREsp n. 1.230.609/PR, relator Ministro Jorge Mussi, Corte Especial, DJe 26/10/2016.)
+O acórdão ora embargado não padece de qualquer omissão ou obscuridade, porquanto afirmou categoricamente:
+O acórdão embargado foi claro e fundamentado ao concluir pelo não conhecimento do agravo em recuso especial por não ter impugnado os fundamentos de inadmissão do apelo. A propósito, confira-se trecho do voto condutor do aresto (fl. 478):
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, os fundamentos da decisão de inadmissibilidade do recurso especial atinentes à incidência do óbice das Súmulas 5, 7 e 83 do STJ.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada na referida fundamentação.
+Assim, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Portanto, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Por fim, registra-se que a impugnação específica aos fundamentos da decisão de inadmissão do recurso especial feita somente em sede de agravo interno não deve ser considerada, porque, além de preclusa a oportunidade, caracteriza indevida inovação recursal.
+De outro lado, não se há que falar em contradição "em relação aos precedentes desta Corte Superior, que demonstram claramente que o tema objeto da demanda está em sintonia com o entendimento firmado por este C. STJ, afastando qualquer necessidade de análise de cláusula contratual (Súmula n 05, STJ)". Com efeito, a contradição que autoriza embargos de declaração é aquela interna ao julgado, ou seja, é aquela existente entre os fundamentos da decisão e a conclusão a que se chegou.
+Neste sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA.
+1. "A contradição que efetivamente autoriza o manejo dos declaratórios é vício intrínseco ou interno do julgado, que se caracteriza pela existência de fundamentos antagônicos entre as razões de decidir, ou entre estes e o dispositivo, relatório ou ementa, capaz de gerar dúvida a respeito do que foi realmente apreciado pelo julgador" (AgInt no REsp 1.405.887/SP, de minha relatoria, Primeira Turma, DJe 05/04/2018).
+2. Hipótese em que não há premissas inconciliáveis no acórdão recorrido, o qual se limitou a exigir a indicação e a respectiva comprovação dos materiais utilizados na prestação do serviços de construção civil como condição para o reconhecimento do direito líquido e certo à exclusão dos mesmos da base de cálculo do ISS.
+3. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.019.635/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022.)
+Ante o exposto, rejeito os segundos Embargos de Declaração.
+É como voto.
