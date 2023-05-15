@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE SANTOS - COOPERATIVA DE TRABALHO MÉDICO, com base no art. 105, inciso IIIUNIMED DE SANTOS - COOPERATIVA DE TRABALHO MÉDICO, alínea "a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. PLANOS DE SAÚDE. COBERTURADE EXAME NECESSÁRIO AO TRATAMENTO. Ação de obrigação de fazer e indenizatória. Beneficiária diagnosticada com câncer de mama. Indicação de realização de exame denominado "sequenciamento completo de genes BRCA1,BRCA e TP53 (com MLPA se não houver cobertura adequada para CNV)". Negativa da operadora. Sentença de parcial procedência, que determinou a cobertura do exame e o pagamento de indenização por danos morais, no valor de R$ 8.000,00, mas afastou o pedido de condenação em danos materiais. Recurso interposto pela operadora de planos de saúde. Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de não estar previsto no rol de procedimentos da ANS. Aplicação da Súmula 102 deste Tribunal. Rol de caráter exemplificativo. Precedentes. Cobertura devida. Danos morais. Não caracterização no caso em tela. Existência de dúvida razoável na interpretação de cláusula contratual. Precedentes do Superior Tribunal de Justiça. Ausência de prejuízo à paciente. Sentença reformada. RECURSO PARCIALMENTE PROVIDO." (v. 38403). (fl. 195 e-STJ).
+A recorrente defende que o v. acórdão recorrido violou a Lei nº 9.566/1998, defendendo a legalidade na recusa do tratamento pleiteado pela parte recorrida.
+Sem contrarrazões.
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+No recurso especial, a recorrente deixou de indicar, com clareza e objetividade, qual dispositivo legal teria sido malferido. Dessa forma, inadmissível o recurso especial que não indica com precisão o dispositivo de lei federal supostamente violado pelo tribunal de origem, nos termos da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+"AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. VIOLAÇÃO DO ART.
+1.022 DO CPC/2015 NÃO CONFIGURADA. PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS NÃO EFETUADO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. CONDIÇÕES NÃO SATISFEITAS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. É cediço o entendimento do Superior Tribunal de Justiça acerca da possibilidade de incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes preconizados na Súmula n. 123 desta Corte, sem que isso configure usurpação de competência.
+2. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula n. 211/STJ).
+3.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, além de opor a parte recorrente embargos de declaração na origem e suscitar a violação ao art. 1.022 do diploma legal, esta Corte reconhecer a ocorrência de omissão, obscuridade ou contradição no julgado, situações não verificadas na hipótese em apreço.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido." (AgInt no AREsp 1907855/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/11/2021, DJe 02/12/2021)
+Ante o exposto, não conheço do recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da parte recorrida para 18% (dezoito por cento) sobre o valor da causa .
+Publique-se.
+Intimem-se.
