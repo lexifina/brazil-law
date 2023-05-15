@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por Rodrigo Alexandre Azevedo Araújo, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Mato Grosso, nos termos assim ementados:
+AGRAVO INTERNO APELAÇÃO É REEXAME NECESSÁRIO MANDADO DE SEGURANÇA CONCURSO PÚBLICO DECISÃO MONOCRÁTICA QUE DECLAROU A INCOMPETÊNCIA ABSOLUTA OBSERVÂNCIA DO ARTIGO 6º §3º DA LEI Nº 120162009 RECURSO DESPROVIDO.
+Agravo interno a que se nega provimento, porquanto desprovido de elementos aptos a modificar a conclusão dada pela decisão monocrática impugnada.
+Na origem, trata-se de mandado de segurança impetrado por Rodrigo Alexandre Azevedo Araújo contra a Fundação Universidade do Estado de Mato Grosso, objetivando a nomeação ao cargo no qual foi aprovado em concurso público (técnico da Área instrumental do Governo, polo de Cuiabá/MT, na categoria de Portador de Necessidades Especiais  PNE).
+Na sentença concedeu-se a segurança. No Tribunal a quo a sentença foi reformada, por considerar o juízo sentenciante incompetente. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Rodrigo Alexandre Azevedo Araújo alega ofensa aos arts. 7, da CF e 6º, 59 e 282, §1º, do CPC, elencando os seguintes pontos de contrariedade: i) deve ser assegurado como foro competente acomarca do domicilio da pessoa com deficiência como forma de se garantir oacesso à Justiça, a igualdade, a inclusão social e a dignidade da pessoa humana;ii) não houve prejuízo à parte contrária; iii) o feito tramita desde 2010 e inicialmentefora impetrado perante o Tribunal de Justiça do Estado de Mato Grosso, quedeclinou o feito à Comarca de Cuiabá, razão pela qual o próprio Tribunal tem a suaresponsabilidade no ocorrido, o que afronta os princípios da eficiência (art. 37, daCF) bem da cooperação e celeridade (art. 6º, do CPC).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nesses termos:
+.. a análise das teses recursais dispensa o reexame fático-probatório, sendo a discussão meramente jurídica e, quando muito, dependeria apenas de uma revaloração daquilo que é incontroverso, o que é admitido pela jurisprudência do STJ. (..)
+.. deve ser afastada a conclusão de ausência de prequestionamento. E, ainda que se entenda o contrário, deve-se, no mínimo, observar que um eventual óbice num ponto ou noutro não atingiria a integralidade do recurso, mas tão somente aquele tema específico, o que, por sua vez, demandaria, ao menos, um conhecimento parcial do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO. AUTORIDADE RESPONSÁVEL. INDICAÇÃO. DEFICIÊNCIA. INCOMPETÊNCIA DO JUÍZO DA VARA ESPECIALIZADA DA FAZENDA PÚBLICA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356, AMBAS DO STF.
+I - Na origem, trata-se de mandado de segurança impetrado contra a Fundação Universidade do Estado de Mato Grosso, objetivando a nomeação do autor ao cargo no qual foi aprovado em concurso público (técnico da Área instrumental do Governo, polo de Cuiabá/MT, na categoria de Portador de Necessidades Especiais  PNE).
+II -Na sentença concedeu-se a segurança. No Tribunal a quo a sentença foi reformada, por considerar o juízo sentenciante incompetente. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: " (..) Não obstante o decisório ter declarado a incompetência do Juízo da 3º Vara Especializada da Fazenda Pública, diante da natureza jurídica do mandamus, há de ser mantido os efeitos da segurança que foi concedida, ate a reapreciação do writ "pelo juízo competente. "
+IV - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VI - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Na origem" .. trata-se de ação de Mandado de Segurança, impetrado por Rodrigo Alexandre de Azevedo Araújo: em, face do Diretor de Concursos e Vestibulares da Universidade do Estado de Mato Grosso  UNEMAT i -que foi concedida a segurança pleiteada, julgando, extinto o processo, com julgamento de mérito, determinado à autoridade coatora que nomeie o impetrante no cargo ao quai foi aprovado, técnico da . Área instrumental do Governo, polo de Cuiabá/MT, na categoria de Portador de Necessidades Especiais  PNE.
+Foi alegado nos autos a incompetência absoluta do juízo para conhecer da matéria, considerando que o ato praticado é decorrente da autoridade coatora, Diretor de Concursos e Vestibulares da FUNEMAT- Fundação do Estado de Mato Grosso, devendo a ação ser julgada no Juízo da Comarca de Cáceres/MT, que seria a sede..
+Quanto a questão da incompetência do juízo, em se tratando de mandado de segurança, a competência se fixa de acordo com a autoridade que pratica ou ordena concreto e especificamente a execução ou a inexecução do ato impugnado; é aquela que detém legitimidade para coirigir eventual erro.
+ ..
+Constata-se que a"Ação Mandamental fora interposta em face do ato praticado pelo Diretor de Concursos e Vestibulares da Universidade de Mato Grosso ,  UNEMAT, indicando como endereço a sua sede funcional, situada à Av. Tancredo Neves, 1.095, Bairro Cavalhada, no Município de Câceres/MT, lá exercendo suas atividades.
+Desta . feita, indicada erroneamente a autoridade tida como suficiente para fins de provimento ao recurso.
+Não obstante o decisório ter declarado a incompetência do Juizo da 3º Vara ESpecializada da Fazenda Pública, diante da natureza jurídica do manclarnus, há de ser mantido os efeitos da segurança que foi . concedida, ate a reapreciação do writ "pelojuizo competente.
+Isso posto, nego provimento ao recurso, para manter a decisão agravada pelos seus próprios e jurídicos fundamentos.
+ ..
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
