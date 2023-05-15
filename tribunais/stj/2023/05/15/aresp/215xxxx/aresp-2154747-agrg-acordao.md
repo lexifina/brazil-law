@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Adilson Mendes Barbosa contra decisão, de fls. 338/339, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por ele interposto, em razão da intempestividade do recurso especial oferecido na origem.
+Nas razões do presente regimental, o agravante afirma que, na verdade, a defesa do agravante foi intimada do v. acórdão em 19/07/2021 (fl. 382) e que, o dia 14/07 apontado na dita certidão trata-se da data da primeira tentativa de intimação do patrono do agravante em seu escritório, porém, o ato somente se efetivou no dia 19/07, conforme pôde, inclusive, verificar em seus registros pessoais (idem).
+O Ministério Público de São Paulo, em contraminuta, requer o não conhecimento do agravo regimental e, se conhecido, que lhe seja negado provimento (fls. 408/412). Por sua vez, o Ministério Público Federal o pina pelo não conhecimento do agravo regimental no agravo em recurso especial (fls. 419/420).
+É o relatório.
+EMENTA
+AGR AVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO.
+1. A contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+2. A verificação dos pressupostos do recurso especial está sujeita ao duplo juízo de admissibilidade, de maneira que a aferição dos requisitos extrínsecos e intrínsecos do recurso pelo Tribunal de origem não vincula esta Corte Superior (AgInt no REsp n. 1.697.861/MG, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 15/3/2018).
+3. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Segundo o que consta nos autos (certidão de fl. 293), o mandado de intimação do acórdão ao advogado dativo foi cumprido no dia 14/7/2021 (quarta-feira) e não no dia 19/7/2021, como alega o agravante, tendo sido deflagrado o prazo recursal, portanto, no primeiro dia útil seguinte, qual seja, 15/7/2021 (quinta-feira). Logo, o prazo recursal teve seu término em 29/7/2021 (quinta-feira). O recurso especial, contudo, fora interposto apenas em 3/8/2021 (fl. 288), quando já esgotado o prazo recursal para a defesa.
+No ponto, anoto que, a alegação defensiva no sentido de que o dia 14/07 apontado na dita certidão trata-se da data da primeira tentativa de intimação do patrono do agravante em seu escritório, porém, o ato somente se efetivou no dia 19/07, conforme pôde, inclusive, verificar em seus registros pessoais (fl. 382) não encontra respaldo nos autos, ônus que incumbiria à parte agravante.
+Com efeito, a contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+Outrossim, quanto à afirmação de que a suposta intempestividade não foi invocada na r. decisão  ..  que não admitiu o recurso especial (fl. 383), importante ressaltar que a verificação dos pressupostos do recurso especial está sujeita ao duplo juízo de admissibilidade, de maneira que a aferição dos requisitos extrínsecos e intrínsecos do recurso pelo Tribunal de origem não vincula esta Corte Superior (AgInt no REsp n. 1.697.861/MG, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 15/3/2018).
+No mesmo sentido: AgRg no AREsp n. 1.807.136/SP, Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, DJe 24/5/2021; AgInt no AREsp n. 1.780.773/MG, Ministra Nancy Andrighi, Terceira Turma, DJe 14/5/2021; AgRg no AREsp n. 673.172/RS, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 2/9/2015 e AgRg no REsp n. 1.374.134/CE, Ministro Humberto Martins, Segunda Turma, DJe 1º/8/2013, entre outros.
+Por fim, e tão somente a título de reforço, registro que, segundo entendimento jurisprudencial desta Corte Superior, eventual existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional (AgInt no AREsp n. 1.391.048/SP, Ministra Nancy Andrighi, Terceira Turma, DJe 15/5/2019).
+Ante o exposto, nego provimento ao a gravo regimental.
