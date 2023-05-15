@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 327):
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. PRESCRIÇÃO CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+A agravante alega vulneração ao artigo 1.022, do CPC/2015, haja vista que foram deduzidos os seguintes argumentos, os quais remanescem sem o devido enfrentamento: (a) alcance das disposições do artigo 121, parágrafo único da Lei 13.143/2015; (b) interpretação sistemática ao artigo 198, I e 3º do Código Civil, artigo 6º da LINDB e artigo 4º, "4" da Convenção sobre os Direitos das Pessoas com Deficiência.
+Aduz não ser caso de incidir o óbice da Súmula 7/STJ, haja vista que "as mudanças legislativas promovidas pela Lei 13.146/2015 no Código Civil, especialmente no artigo 3º, não modificam a condição de incapacidade da recorrente, que teve concedido benefício ao excepcional em 16/10/1986 (Evento 15 - OUT4), inexistindo a necessidade de reexame de fatos e provas dos autos sobre essa questão" (fls. 379-380).
+Por fim, refere divergência jurisprudencial acerca da prescrição no caso de incapacidade reconhecida anteriormente à Lei n. 13.146/2015.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022, DO CPC/2015. NÃO OCORRÊNCIA. REVISÃO DE PENSÃO. RELATIVAMENTE INCAPAZ. PRESCRIÇÃO CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. O acórdão consignou que a recorrente se insere na condição de pessoa que, por causa permanente ou transitória, não possui discernimento e aptidão intelectual para exprimir sua vontade (art. 4º, III, CC) e que, quando do início da vigência da Lei n. 13.146/15 (02/01/2016), voltou a correr o prazo prescricional para que requeresse a revisão das parcelas em discussão e, considerando que a ação foi ajuizada apenas em 10.02.2021, configurou-se a prescrição. Para a revisão do entendimento, necessária a incursão no conteúdo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional, quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ).
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Verifica-se que o artigo 1.022 do CPC/2015 foi associado ao não enfrentamento dos seguintes pontos: (a) alcance do artigo 121, parágrafo único da Lei n. 13.143/2015; (b) interpretação sistemática da legislação de regência, a fim de afastar a prescrição.
+Entretanto, conforme se verifica nas fls. 216-217, o Tribunal de origem assentou que as relações jurídicas que envolvem as pessoas com deficiência, sujeitam-se à prescrição e que esta teria se configurado.
+Logo, constata-se que a alegação de omissão em verdade visa rediscutir o mérito da demanda, com a alteração do entendimento de que as pessoas com deficiência foram excluídas da categoria dos absolutamente incapazes, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+A agravante alega não ser caso de incidir a Súmula 7/STJ.
+Ocorre que referido óbice foi aplicado no ponto referente à condição de incapacidade, tendo o acórdão elucidado que a autora passou a ser considerada relativamente incapaz a partir da data de início da vigência da Lei n. 13.146, hipótese na qual não haveria suspensão do prazo prescricional.
+Sendo assim, a Corte de origem firmou compreensão de que quando do início da vigência da Lei n. 13.146/15 (02/01/2016) voltou a correr o prazo prescricional para que a autora requeresse a revisão das parcelas ora em discussão e, considerando que a ação foi ajuizada apenas em 10.02.2021, configurou-se a prescrição, pois transcorridos mais de 5 (cinco) anos.
+Consignou, ainda, que a recorrente se insere na condição de pessoa que, por causa permanente ou transitória, não possui discernimento e aptidão intelectual para exprimir sua vontade (art. 4º, III, CC) (fl. 329), de modo que a exceção prescricional contida no artigo 198, inciso I, do Código Civil, não é mais aplicável desde a entrada em vigor do Estatuto da Pessoa com Deficiência.
+Logo, para a revisão da compreensão, mister a revisão dos fatos e provas constantes dos autos, o que encontra óbice na Súmula 7/STJ.
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
