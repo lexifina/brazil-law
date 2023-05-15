@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança impetrado por Lojas Americanas S.A. contra o Coordenador da Administração Tributária do Estado de São Paulo objetivando impedir a cobrança de ICMS prescrito.
+Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi parcialmente reformada, apenas com relação à irretroatividade da Lei Estadual n. 13.918/2009, conforme a seguinte ementa do acórdão:
+RECURSOS OFICIAL E DE APELAÇÃO - MANDADODE SEGURANÇA - ICMS - AUTO DE INFRAÇÃO EIMPOSIÇÃO DE MULTA - PRESCRIÇÃO DO CRÉDITOTRIBUTÁRIO - INOCORRÊNCIA - JUROS DE MORA - PRETENSÃO À INCIDÊNCIA DA LEI ESTADUAL N.º 13.918/09 - INAPLICABILIDADE - MULTAMORATÓRIA - ADMISSIBILIDADE - AUSÊNCIA DE CARÁTER CONFISCATÓRIO.
+1. Preliminares arguidas, relacionadas com a impossibilidade jurídica do pedido e inadequação da via processual eleita, afastadas.
+2. Inocorrência de prescrição ou decadência.
+3. Inteligência dos arts. 150, § 4º e 151, III, do CTN.
+4. No mérito, propriamente dito, inaplicabilidade da Lei Estadual n.º 13.918/09, com relação a fatos ocorridos anteriormente à respectiva vigência.
+5. Para a incidência de juros de mora dever-se-á observar os índices aplicados aos tributos federais (Taxa SELIC), nos termos do v. acórdão proferido na Arguição de Inconstitucionalidade 0170909-61.2012.8.26.0000, do C. Órgão Especial, deste E. Tribunal de Justiça.
+6. A multa moratória permanecerá inalterada, pois, desprovida de caráter confiscatório.
+7. Apenalidade é decorrente do descumprimento de dispositivo legal.
+8. Sentença de concessão da ordem impetrada, emmandado de segurança, reformada.
+9. Concessão parcial da ordem impetrada, em mandado de segurança, apenas, comrelação à irretroatividade da Lei Estadual n.º 13.918/09.
+10. Recursos oficial e de apelação, parcialmente providos.
+No recurso especial, Lojas Americanas S.A. aponta a violação do art. 174 do CTN, afirmando, em suma, que observado que o débito de ICMS já havia sido declarado pelo contribuinte no ano de 2003, e não tendo sido ajuizada execução fiscal no prazo prescricional quinquenal, estaria configurada a prescrição.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. CONSUMIDOR. PROCON. INSTITUIÇÃO BANCÁRIA. AUTUAÇÃO. INCLUSÃO INDEVIDA DE DADOS DE CONSUMIDORES NOS ÓRGÃO DE PROTEÇÃO AO CRÉDITO. ANULAÇÃO. IMPROCEDÊNCIA DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. MULTA. DESPROPORCIONALIDADE. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. DECISÃO MONOCRÁTICA. POSSIBILIDADE.
+I - Na origem, trata-se de mandado de segurança impetrado por Lojas Americanas S.A. contra o Coordenador da Administração Tributária do Estado de São Paulo objetivando impedir a cobrança de ICMS prescrito.
+II - Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi parcialmente reformada, apenas com relação à irretroatividade da Lei estadual n. 13.918/2009. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+IV - O Tribunal a quo, ao analisar a questão, observou, em suma, que o recorrente utilizou-se indevidamente de créditos de ICMS em 2003, e, de acordo com o art. 151, III, do CTN, estaria suspensa a exigibilidade do crédito enquanto não julgado o processo administrativo movido pelo contribuinte, que somente foi definitivamente julgado em 2012, não tendo fruído o prazo prescricional.
+V - O recorrente não combateu o referido fundamento, atraindo o comando da Súmula n. 283/STF. Por outro lado, antes da vigência da LC n. 118/2005, o prazo de homologação de ofício compreendia a tese dos cinco mais cinco, o que também afastaria a prescrição. Sobre o assunto, confira- se: (REsp n. 1.043.862/RS, relator Ministro Francisco Falcão, Primeira Turma, julgado em 7/8/2012, DJe de 16/8/2012.)
+VI - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, conforme seguintes trechos da petição:
+ ..
+4. Em que pese o posicionamento esposado, data maxima venia, faz-se necessário o saneamento de erro material/omissão existentes no r. decisum que, aparentemente, desconsiderou os argumentos lançados no agravo, voltados exatamente a demonstrar que não se sustenta o não conhecimento do recurso especial por alegada incidência da súmula nº 283, do C. STF.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. PROCON. INSTITUIÇÃO BANCÁRIA. AUTUAÇÃO. INCLUSÃO INDEVIDA DE DADOS DE CONSUMIDORES NOS ÓRGÃO DE PROTEÇÃO AO CRÉDITO. AGRAVO INTERNO. OMISSÃO. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de mandado de segurança impetrado por Lojas Americanas S.A. contra o Coordenador da Administração Tributária do Estado de São Paulo objetivando impedir a cobrança de ICMS prescrito. Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi parcialmente reformada, apenas com relação à irretroatividade da Lei Estadual n. 13.918/2009. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+IV - Na hipótese dos autos, o acórdão objurgado foi claro no que tange a incidência da Súmula 283/STF, uma vez que o Tribunal a quo, ao analisar a questão, observou, em suma, que o recorrente utilizou-se indevidamente de créditos de ICMS em 2003 e, de acordo com o art. 151, III, do CTN, estaria suspensa a exigibilidade do crédito enquanto não julgado o processo administrativo movido pelo contribuinte, que somente foi definitivamente julgado em 2012, não tendo fruído o prazo prescricional e, por conseguinte, o recorrente não combateu o referido fundamento.
+V - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+Na hipótese dos autos, o acórdão objurgado foi claro no que tange a incidência da Súmula 283/STF, uma vez que o Tribunal a quo, ao analisar a questão, observou, em suma, que o recorrente utilizou-se indevidamente de créditos de ICMS em 2003 e, de acordo com o art. 151, III, do CTN, estaria suspensa a exigibilidade do crédito enquanto não julgado o processo administrativo movido pelo contribuinte, que somente foi definitivamente julgado em 2012, não tendo fruído o prazo prescricional e, por conseguinte, o recorrente não combateu o referido fundamento.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
