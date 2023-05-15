@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/05/2023 a 15/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por LUANA ALICE VILELA DE SOUZA e JOSE IVAN DE SIQUEIRA contra decisão unipessoal que conheceu do agravo que interpuseram, para não conhecer de seu recurso especial.
+Ação: declaratória de nulidade de registro público, ajuizada pelos agravantes, em desfavor de ANA PAULA SIQUEIRA TOLEDO DE ARAÚJO, tendo em vista suposta doação de apartamento e vaga de garagem realizada por Dilza Villela de Siqueira (tia da agravada) a esta.
+Sentença: julgou procedentes os pedidos, para anular as transferências realizadas em favor da agravada, bem como para determinar o cancelamento dos registros lançados nas matrículas 74.444 e 74.445 junto ao 1º Cartório de Registro de Imóveis de Campinas e, via de consequência, a integração dos bens aos inventário de Dilza Villela de Siqueira, para a partilha na forma da lei.
+Acórdão: deu provimento à apelação interposta pela agravada para, reformando a sentença, julgar improcedente a ação, nos termos da seguinte ementa:
+APELAÇÃO. Ação anulatória de registro público julgada procedente para cancelar a transferência do imóvel à donatária e determinar sua inclusão no espólio. Imóvel doado à apelante em 11.07.2000. Doadora que, contudo, legou o mesmo imóvel a terceira pessoa em testamento público posterior. Donatária que levou a escritura pública de doação a registro antes que houvesse o cumprimento do testamento. Incidência do art. 1.939, III, do Código Civil. Evicção do imóvel pela transferência de sua titularidade à apelante que importa na caducidade do legado, com sua correlata ineficácia. Disposição testamentária que não constituiu revogação da doação havida treze anos antes, porquanto tal medida demandaria o exercício em juízo do direito potestativo antes do esgotamento do respectivo prazo decadencial. Registro da doação hígido. Sentença reformada. Apelo provido (e-STJ fl. 206).
+Embargos de Declaração: opostos pelos agravantes, foram acolhidos apenas para sanar omissão, sem efeitos modificativos.
+Recurso especial: alegam violação dos arts. 5º, caput, V, XXII, LV da CF/88; 1º, 2º, 13, 1.009, 1.010 e 1.023 do CPC/2015; 1.227, 1.245, 1.246, 1.247 e 1.784 do CC/02. Aduzem que os embargos de declaração foram opostos foram do prazo legal, não interrompendo o prazo para a interposição do recurso de apelação. Afirmam que a agravada, embora possua escritura pública de doação dos imóveis, não efetuou o registro do título no momento adequado, deixando para fazê-lo somente após o óbito da de cujus. Sustentam que, por esse motivo, no momento da morte, o bem ainda pertencia à de cujus, de forma que devem ser atendidas as disposições testamentárias. Por fim, afirma, de forma genérica, que não há que se falar em decadência do direito de anular a escritura pública de doação.
+Decisão monocrática: conheceu do agravo interposto pelos agravantes, para não conhecer de seu recurso especial, ante: i) o não cabimento de recurso especial com base em violação de dispositivo constitucional; ii) a incidência da Súmula 283/STF; e iii) a incidência da Súmula 211/STJ.
+Agravo interno: afirmam que, embora tenham indicado violação de dispositivo constitucional, as principais violações alegadas referem-se à legislação infraconstitucional. Aduzem que houve a impugnação de todos os fundamentos do acórdão recorrido. Por fim, insurgem-se contra a aplicabilidade da Súmula 211/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE REGISTRO PÚBLICO DE DOAÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação declaratória de nulidade de registro público de doação.
+2. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de decisão acerca dos argumentos invocados pelos recorrentes em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+A decisão agravada, na parte em que impugnada pelos agravantes, conheceu do agravo por eles interposto, para não conhecer de seu recurso especial, ante a incidência das Súmulas 283/STF e 211/STJ.
+1. Da ausência de prequestionamento
+Inicialmente, tem-se que, de fato, os dispositivos legais tidos por violados não foram objeto de prequestionamento pelo Tribunal de origem.
+Ressalte-se que, a despeito da oposição de embargos de declaração, os agravantes sequer apontaram eventual ocorrência de negativa de prestação jurisdicional nas razões de seu recurso especial, razão pela qual mostra-se inviável afastar a aplicabilidade da Súmula 211/STJ.
+2. Da existência de fundamento não impugnado
+No mais, ainda que transposto o óbice da Súmula 211/STJ, outro se imporia.
+É que o recurso especial interposto pelos agravantes fulcrou-se em duas insurgências, quais sejam, i) àquela relativa à intempestividade da apelação interposta pela agravada; e ii) àquela relativa à ausência de aquisição da propriedade dos bens pela agravada, em virtude de a mesma não ter providenciado o registro da escritura pública da doação.
+Ocorre que, com efeito, quanto ao primeiro tópico, o TJ/SP deixou expressamente consignado ter havido a interrupção do prazo para a interposição da apelação, uma vez que os embargos de declaração foram acolhidos e analisados em seu mérito.
+Os agravantes, por sua vez, defendem que os embargos de declaração, em verdade, não interromperam o prazo para a interposição do apelo, pois foram opostos fora do prazo legal, intempestividade esta, inclusive, certificada em 1º grau.
+Quanto ao ponto, todavia, o TJ/SP destacou que "diante dessa aparente contradição entre a certidão do cartório e a decisão judicial, poderiam os embargantes, naquela oportunidade, terem se valido dos meios processuais próprios, especialmente de novos embargos de declaração, o que não ocorreu" (e-STJ fl. 272), argumento este que, de fato, não foi objeto de impugnação pelos agravantes nas razões de seu recurso especial.
+No que concerne ao segundo tópico, constata-se que a Corte local reconheceu que o legado instituído em favor da primeira agravante, por testamento público, era válido e eficaz no momento da sua instituição. Contudo, com base no art. 1.939, III, do CC/02, concluiu que, com o registro do título translativo da primitiva doação, realizado pela agravada, ocorrera a evicção do imóvel legado, tornando-o, pois, ineficaz.
+Com efeito, tal fundamento não foi suficientemente impugnado nas razões do recurso especial pelos agravantes que, ademais, limitaram-se, também, a conferir impugnação genérica a outro argumento do acórdão recorrido, qual seja, o de que a revogação da doação anterior depende de sentença judicial e está sujeita a prazo decadencial, já esgotado quando da lavratura do testamento.
+A Súmula 283/STF há, portanto, de ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
