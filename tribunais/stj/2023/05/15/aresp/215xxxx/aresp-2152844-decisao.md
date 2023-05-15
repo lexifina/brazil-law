@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por CLÁSSICA REDE ÓTICA LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+"PROPRIEDADE INDUSTRIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO. PROVA TESTEMUNHAL. INOCORRÊNCIA. REGISTRO DE MARCACOMERCIAL. MARCA FRACA OU EVOCATIVA. POSSIBILIDADE DE CONVIVÊNCIA COMOUTRAS MARCAS. IMPOSSIBILIDADE DE CONFERIR EXCLUSIVIDADE À UTILIZAÇÃO DEEXPRESSÃO DE POUCA ORIGINALIDADE OU FRACO POTENCIAL CRIATIVO. APELAÇÃO AQUE SE NEGA PROVIMENTO" (fl. 1.187, e-STJ).
+Os embargos declaratórios não foram conhecidos (fl. 1.251, e-STJ).
+No seu arrazoado, a parte recorrente alega a violação dos artigos 369 e 422 do Código de Processo Civil, sob o argumento de que o deferimento da prova testemunhal era necessário para se comprovar o alegado. Aduz, ainda, afronta aos arts. 124, 129 e 195 da Lei n. 9.279/1996, pois a decisão proferida pelo INPI deveria ser mantida.
+Contrarrazões juntadas às fls. 1.290-1.316 (e-STJ).
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Inicialmente, registra-se o entendimento desta Corte no sentido de que "(..) os Embargos de Declaração tempestivos, ainda que tenham pretensão infringente, não podem ser recebidos como pedido de reconsideração, e interrompem o prazo para interposição de outros recursos. Precedente da Corte Especial do STJ: REsp. 1.522.347/ES, Rel. Min. RAUL ARAÚJO, DJe 16.12.2015" (AgInt no AREsp 775435/RS, Relator Ministro Napoleão Nunes Maia Filho, DJe 20/5/2019).
+Ultrapassados, portanto, os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, as conclusões do Tribunal de origem acerca da necessidade de produção de provas e do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"(..)
+Significa dizer que cabe ao juiz valorar a prova constante dos autos, justificando seu convencimento acerca da veracidade das alegações e indicando os motivos pelos quais acolhe ou rejeita cada elemento do conjunto probatório (eventos 31 e 40), o que restou evidenciado na hipótese.
+Ademais, em se tratando exclusivamente de matéria de direito, a jurisprudência deste Tribunal já assentou que o exame de eventual colidência entre marcas prescinde da produção de prova testemunhal e/ou pericial técnica, mormente quando há nos autos prova documental suficiente para formar o convencimento do Juízo, como ocorreu na hipótese.
+Portanto, rechaço a preliminar arguida.
+A respeito da questão de mérito, o inciso XIX do art. 124 da LPI veda o registro como marca de sinal que constitua "reprodução ou imitação, no todo ou em parte, ainda que com acréscimo, de marca alheia registrada, para distinguir ou certificar produto ou serviço idêntico, semelhante ou afim, suscetível de causar confusão ou associação com marca alheia".
+No caso em exame, revela-se incontroverso que as marcas em conflito assinalam produtos inseridos no mesmo mercado de produtos.
+No entanto, antes de aferir a colidência entre os sinais em registro, é preciso saber se a marcamista "MERCADO DOS ÓCULOS" possui aptidão para constituir óbice ao registro da marca mista "MERCADÃODOS ÓCULOS".
+Isso porque o inciso VI do art. 124 da LPI veda o registro de sinal "de caráter genérico, necessário, comum, vulgar ou simplesmente descritivo, quando tiver relação com o produto ou serviço a distinguir,  ..  salvo quando revestidos de suficiente forma distintiva".
+Entretanto, algumas marcas, apesar de não se enquadrarem nessa proibição, associam-se a expressão de uso comum para o segmento a que visa assinalar, possuindo reduzido grau de distintividade ou originalidade.
+É o que a doutrina e a jurisprudência chamam de marcas fracas, evocativas ou sugestivas, que, por possuírem diminuta densidade criativa, gozam de proteção limitada e restrita, suportando o ônus de convivência com marcas semelhantes.
+Nesse contexto, uma marca fraca, evocativa não poderá ser apropriada, com exclusividade, por apenas um agente do mercado, na medida em que seria detentor de uma marca, cujos elementos nominativos, em função de seu caráter comum ou vulgar, deveria ter seu uso franqueado a qualquer interessado em atuar no respectivo segmento.
+Outrossim, é certo que, a utilização de um termo evocativo e/ou desgastado em uma marca traz consigo ônus de ter que conviver com registros que também façam uso desse termo.
+(..)
+Por outro lado, embora reduzida, a marca fraca ainda possui proteção marcária.
+Em razão disso, é preciso aferir se as marcas mistas "MERCADO DOS ÓCULOS" e "MERCADÃO DOS ÓCULOS" são suficientemente distintas. Vejamos, novamente, a apresentação dos sinais em conflito, pois, em se tratando de registros para marcas de apresentação mista, é necessário que o exame de colidência leve em consideração também os elementos figurativos que as compõem.
+Como se pode verificar da comparação a seguir, nesse particular não há risco de confusão, uma vez que as marcas pretendidas são compostas pela estilização de seu elemento nominativo, em tipo de letra distinto do utilizado na reprodução figurativa do signo da primeira ré, bem como apresenta forma e cores distintas do signo marcário registrado pela ré.
+(..)
+Isto posto, o conjunto marcário como um todo (figurativo, nominativo e fonético) é suficiente para assegurar-lhe distintividade.
+Assim, entendo que as marcas "MERCADO DOS ÓCULOS" e "MERCADÃO DE ÓCULOS" deixa impressões de conjuntos suficientemente distintas na mente do consumidor, o que afasta o risco de confusão ou associação indevida.
+Isso ocorre porque o consumidor, ao se deparar com uma marca que faça uso de um termo comum ou desgastado, já possui a percepção e a expectativa de que o referido sinal é comumente utilizado em outras marcas de outros comerciantes.
+Desta forma, concluo inexistir risco de confusão ou associação indevida ao público consumidor, de modo que o registro para a marca mista "MERCADÃO DE ÓCULOS" não viola o art. 124, XIX, da LPI" (fls. 1.182-1.184, e -STJ).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"EMPRESARIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE ABSTENÇÃO DO USO DE MARCA. MARCA EVOCATIVA. MITIGAÇÃO DA EXCLUSIVIDADE. POSSIBILIDADE. AUSÊNCIA DE CONFUSÃO ENTRE OS CONSUMIDORES. CONVIVÊNCIA ENTRE MARCAS COM BAIXA DISTINTIVIDADE. VIABILIDADE. SÚMULA 7/STJ. ALCANCE DA MARCA DE ALTO RENOME. EXPRESSÃO ESTRANGEIRA. SÚMULA 7/STJ. CONVENÇÃO DA UNIÃO DE PARIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, devido à ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do apelo nobre. Reconsideração.
+2. O cerne da questão é verificar se o agravado, uma tradicional associação desportiva de mais de cem anos, que tem como mascote a imagem de um lobo, na promoção de suas atividades, há cerca de 70 anos, tem direito ao uso da expressão "lobo" e respectiva ilustração em seus uniformes e em produtos comercializados junto a seus torcedores, a despeito do registro da marca da apelante.
+3. "É entendimento desta Corte Superior que marcas tidas como fracas ou evocativas, que constituem expressão de uso comum, de pouca originalidade e sem suficiente força distintiva atraem a mitigação da regra de exclusividade do registro e podem conviver com outras semelhantes. Precedentes" (AgInt no AREsp 1.555.326/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 10/2/2020, DJe 14/2/2020) 4. "O âmbito de proteção de uma marca é delimitado, acima de tudo, pelo risco de confusão que o uso de outro sinal, designativo de serviço idêntico, semelhante ou afim, possa ser capaz de causar perante o consumidor." (REsp 1.773.244/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 2/4/2019, DJe 5/4/2019).
+5. Não se comprovou que, cumulativamente, as partes possuem o mesmo público alvo, e que a similitude entre as marcas cause confusão entre os consumidores, especialmente porque se trata de marca evocativa. Além disso, ao contrário do defendido pela agravante, a tradução do vocábulo italiano Lupo não possui força característica para cristalizar marca de alto renome.
+6. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que não há confusão entre os consumidores de cada marca e que para aferir a extensão da marca de alto renome seria necessário analisar as provas acostadas aos autos. Incidência da Súmula 7 do STJ.
+7. A ausência de enfrentamento pelo Tribunal de origem da questão posta no recurso impede o acesso à instância especial, porquanto ausente o requisito constitucional do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+8. Agravo interno provido para, em nova análise, conhecer do agravo para negar provimento ao recurso especial"
+(AgInt no AREsp n. 1.575.598/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais devem ser majorados em 1% (um por cento), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
