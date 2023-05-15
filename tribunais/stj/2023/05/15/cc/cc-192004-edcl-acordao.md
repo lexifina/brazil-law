@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Batista Moreira (Desembargador convocado do TRF1), Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por WAGNER DAVID MARTINS AGUIAR contra o julgado da Terceira Seção que negou provimento ao agravo regimental e manteve a decisão que conheceu do conflito para declarar a competência do JUÍZO FEDERAL DA 4ª VARA DE SÃO JOSÉ DO RIO PRETO - SJ/SP para processar e julgar o feito que originou o presente conflito, por concluir que não foi demonstrada a necessidade de reunião dos feitos, uma vez que ainda se encontra em estágio inicial a investigação acerca da existência de uma organização criminosa da qual o indivíduo preso em flagrante faria parte.
+Em suas razões, o ora embargante alega que a decisão embargada é omissa quanto à alegação de ocorrência de bis in idem, uma vez que "o delito associativo já era objeto de investigação na Justiça Federal do Rio de Janeiro, fato reconhecido na Seção Judiciária de Goiás. Além disso, a Polícia Federal de São José do Rio Preto instaurou inquérito para apurar o crime de usurpação de bens da união, que também já era objeto de denúncia em Goiás" (e-STJ fl. 789).
+Aduz, ainda, que, "quanto à alegação enfrentada pela col. 3ª. Seção, relativa à conexão entre os crimes de usurpação de bens da união, sob processamento na Justiça Federal de Goiás, e organização criminosa, declinado à Justiça Federal de São José do Rio Preto, identificam-se, respeitosamente, duas obscuridades. 2.1. A primeira delas é que, embora essa col. 3ª Seção tenha aduzido que inexistiriam "elementos que permitam concluir de maneira inequívoca pela existência de conexão" (fl. 776), não trouxe argumentos aptos a afastar as regras de modificação de competência do art. 76, II e III, do CPP, que são obrigatórias" (e-STJ fl. 789).
+E continua alegando que "a segunda obscuridade decorre da afirmação do e. Min. Relator de que a "jurisprudência dominante" dessa col. 3ª Seção seria no sentido de que "a eventual comunhão probatória não induz a conexão quando a prova de um crime não influi na de outro, como no caso" (fl. 777).2.8. Data maxima venia, neste ponto, o v. acórdão faz menção a precedentes judiciais que versam sobre situações jurídicas diversas da retratada nos autos" (e-STJ fl. 790).
+Diante disso, requer o acolhimento dos embargos para que, emprestando-lhes efeitos infringentes, seja sanada a omissão apontada e reformado o acórdão embargado para reconhecer a competência do Juízo estadual.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE . NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a hipótese dos autos.
+2. O acórdão embargado foi claro e expresso ao concluir que, no caso, não foi demonstrada a conexão que justificasse a reunião dos feitos, uma vez que a investigação acerca da existência de uma organização criminosa da qual o indivíduo preso em flagrante faria parte ainda se encontra em estágio inicial e visa apurar fatos que ocorreram após o flagrante.
+3. Ademais, a alegação de ocorrência de bis in idem não foi afastada ou reconhecida pelos Juízos envolvidos no presente conflito, motivo pelo qual não é cabível essa análise perante esta Corte Superior em âmbito de conflito de competência. Com efeito, o reconhecimento de eventual bis in idem depende de uma análise detalhada dos autos, o que deverá ocorrer após o avanço da instrução probatória nos juízos de origem.
+4. Tendo o acórdão embargado examinado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado, sendo certo que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+5. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Com efeito, constituem os embargos declaratórios instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+In casu, o acórdão embargado foi claro e expresso ao concluir que, no caso, não foi demonstrada a conexão que justificasse a reunião dos feitos, uma vez que a investigação acerca da existência de uma organização criminosa da qual o indivíduo preso em flagrante faria parte ainda se encontra em estágio inicial e visa apurar fatos que ocorreram após o flagrante.
+Ademais, quanto à alegada ocorrência de bis in idem, constata-se que essa alegação não foi afastada ou reconhecida pelos Juízos envolvidos no presente conflito, motivo pelo qual não é cabível essa análise perante esta Corte Superior em âmbito de conflito de competência. Com efeito, o reconhecimento de eventual bis in idem depende de uma análise detalhada dos autos, o que deverá ocorrer após o avanço da instrução probatória nos juízos de origem.
+Registre-se, ainda, que a conclusão quanto à competência para processamento e julgamento do feito foi estabelecida com base nos indícios colhidos até a instauração do incidente, motivo pelo qual a competência poderá ser alterada caso surjam novos elementos após o aprofundamento das investigações.
+Desse modo, tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do conflito de competência, não há que se falar em omissão no julgado.
+Percebe-se, na verdade, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
