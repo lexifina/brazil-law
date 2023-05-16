@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 665/669, em que neguei provimento ao recurso especial, ao entendimento de que houve fundadas suspeitas para o ingresso dos policiais na residência, não configurando hipótese de ilegalidade.
+O agravante sustenta a impossibilidade do julgamento monocrático, evidenciando o cerceamento de defesa e repisa os argumentos expendidos no apelo especial, quanto à ilicitude das provas colhidas por meio de violação domiciliar.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ENTENDIMENTO DOMINANTE ACERCA DO TEMA. POSSIBILIDADE. ALEGAÇÃO DE ILICITUDE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. DENÚNCIA ANÔNIMA COM PRECISÃO E RIQUEZA DE DETALHES. FUNDADAS SUSPEITAS CONSTATADAS. INVESTIGAÇÃO PRÉVIA. CASA ABANDONADA COM PROPÓSITO DE TRÁFICO DE DROGAS. HIPÓTESE NÃO CONTEMPLADA PELA PROTEÇÃO CONSTITUCIONAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante dispõe a Súmula n. 568/STJ, a prolação de decisão monocrática pelo ministro relator é possível quando houver entendimento dominante acerca do tema, hipótese ocorrida nos autos.
+2. " ..  a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando eventual vício" (AgRg no HC 632.467/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 18/12/2020).
+3. Nos termos da jurisprudência desta Corte, a denúncia anônima que indica, com precisão e riqueza de detalhes, o endereço em que estaria ocorrendo o tráfico ilícito de entorpecentes, permite o ingresso na residência, sem mandado judicial, por evidenciar fundadas suspeitas, sobretudo quando há investigação policial prévia.
+4. Conforme entendimento desta Corte, a casa abandonada, utilizada com o único propósito de tráfico de drogas não é hipótese contemplada pela proteção constitucional da inviolabilidade de domicílio.
+5. No caso dos autos, conforme consta do acórdão recorrido, trata-se de um imóvel desabitado, alugado com o único propósito de tráfico de drogas, hipótese não contemplada pela proteção constitucional da inviolabilidade de domicílio, prevista no art. 5º, XI, da Constituição da República.
+6. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+De início, consoante dispõe a Súmula n. 568/STJ, a prolação de decisão monocrática pelo ministro relator é possível quando houver entendimento dominante acerca do tema, hipótese ocorrida nos autos.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONCURSO DE AGENTES E ROMPIMENTO DE OBSTÁCULO. ATENUANTE DA CONFISSÃO. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Cabe ressaltar a viabilidade do julgamento monocrático, porquanto, nos termos da Súmula n. 568 desta Corte, o relator, monocraticamente, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no REsp 1806354/RO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 9/ 8/2019).
+Ademais, " ..  a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando eventual vício" (AgRg no HC 632.467/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 18/12/2020).
+No que tange à arguida nulidade, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls. 666/669):
+"O TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE afastou a nulidade aventada nos seguintes termos do voto do relator (fl. 551):
+"No caso em tela, emerge dos autos, especialmente dos depoimentos coligidos aos autos eletrônicos que, os policiais investigavam o acusado pela possível prática de crimes patrimoniais, sendo que, no curso dessa investigação, obtiveram informações de possível participação do réu no tráfico de drogas, ou seja, possuíam elementos informativos da possível do envolvimento do acusado em tratativas de drogas.
+Ora, quando da deflagração da operação pelos crimes patrimoniais, e, após ampla divulgação na imprensa, receberam os agentes denúncia anônima com detalhes bem precisos e específicos (endereço, apartamento, bloco etc), noticiando que o acusado armazenava drogas em um apartamento, informação essa que foi ao encontro às notícias já colhidas na investigação paralela sobre possível envolvimento do réu no tráfico.
+Destarte, os autos revelam que, no dia 30 de abril de 2020, no período da tarde, policiais da DRFV e DENARC receberam uma informação que o recorrente havia alugado um imóvel, localizado no Condomínio Visconde de Maracaju, Bloco 25 (Edifício Rio Paraguay), Apartamento 201, Bairro Cidade Nova, onde armazenava entorpecentes.
+Os policiais dirigiram-se ao local informado e no endereço verificaram que ninguém respondia, então, ao pegarem no trinco, constataram que a porta estava apenas encostada e ao abri-la, visualizaram uma enorme quantidade de maconha.
+Dentro deste contexto, esclareço que, atuação da polícia não se deu unicamente em decorrência de denúncia anônima, como faz crer a defesa, mas sim diante da uniformidade de informações não orgânicas colhidas que indicavam o possível cometimento de crime permanente (tráfico de drogas).
+Logo, notória a existência de justa causa a justificar a entrada dos policiais no imóvel, independentemente da existência demandado, haja vista a suspeita da prática de crime permanente.
+Outrossim, não descuido de que, apesar de existir leves divergências nas palavras dos policiais sobre o estado inicial da fechadura do imóvel, entendo pela ocorrência de fundadas razões/causa provável (investigação em outro procedimento e denúncia anônima altamente específica sobrea ocorrência de crime permanente) aptas a justificarem a entrada dos policiais no imóvel, com ou sem consentimento dos moradores, independentemente da existência de mandado.
+E, ainda, esclareço, como, aliás, advertia o juízo de origem, a alegação de ilicitude da prova colhida por violação do disposto no art. 5, XI, CF, aduzida pela defesa, não se adequa ao caso em testilha, uma vez que não se tratava de imóvel habitado.
+Ora, vejo dos autos que, em especial dos depoimentos colhidos em juízo, reitero, restou patente que a alegação inicial do réu, aqui Apelante, para com a proprietária do imóvel de que o imóvel alugado se prestaria a sua moradia, não passou de mero disfarce para o verdadeiro propósito do aluguel do imóvel, qual seja, armazenar drogas. Aliás, por oportuno, trago a colação as razões declinadas no juízo de origem:"
+Nos termos da jurisprudência desta Corte, a denúncia anônima que indica, com precisão e riqueza de detalhes, o endereço em que estaria ocorrendo o tráfico ilícito de entorpecentes, caso ocorrido nos autos, permite o ingresso na residência, sem mandado judicial, por evidenciar fundadas suspeitas, sobretudo quando há informação de que houve investigação policial prévia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO RATIFICADA EM SEDE DE APELAÇÃO. NULIDADE. ALEGADA ILICITUDE DAS PROVAS. VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. EXISTÊNCIA DE FUNDADAS RAZÕES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Não se cogita da falta de justa causa para o ingresso dos policiais no domicílio, diante de fundadas razões devidamente justificadas pelas circunstâncias do caso concreto, quanto à ocorrência de crime permanente no interior da residência, cuja cessação demanda ação imediata da polícia (AgRg no HC 724.771/SC, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022)
+4. Na hipótese, o contexto fático delineado nos autos evidenciou existirem fundadas suspeitas para que a autoridade policial realizasse a vistoria no imóvel, tendo em vista a denúncia anônima que havia indicado, com precisão e riqueza de detalhes, o endereço em que estariam sendo comercializados os entorpecentes, aliada ao fato de que os policiais civis, do lado de fora da casa, chamaram o nome de um dos agravantes, o qual saiu no corredor e, ao perceber a presença policial, gritou as seguintes palavras: "Molhou! Molhou! Joga fora". Diante da fundada suspeita, os policiais adentraram ao imóvel e surpreenderam o agravante Felipe, no banheiro, quando dispensava parte da droga no vaso sanitário, e localizaram o agravante Marcos, no último quarto do imóvel, no qual havia mais drogas e petrechos usados no fracionamento e embalo de entorpecentes. Havia, portanto, elementos objetivos e racionais que justificaram o ingresso da polícia em domicílio alheio, sem autorização judicial, oportunidade na qual foram encontradas 90 porções de crack e 226 porções de cocaína.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 741.190/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/5/2022.)
+Ademais, conforme entendimento desta Corte, a casa abandonada, utilizada com o único propósito de tráfico de drogas, não é hipótese contemplada pela proteção constitucional da inviolabilidade de domicílio.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. CRIME PERMANENTE. CIRCUNSTÂNCIAS CONCRETAS. JUSTA CAUSA CONFIGURADA. ILEGALIDADE. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. No julgamento do RE n. 603.616, o Pleno do Supremo Tribunal Federal afirmou que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito.
+2. A casa abandonada, utilizada com o único propósito de tráfico de drogas, não é hipótese contemplada pela proteção constitucional da inviolabilidade de domicílio, prevista no art. 5º, XI, da Constituição da República.
+3. No caso em exame, além de incerteza quanto à natureza do imóvel, há justa causa para a ação policial configurada a partir do momento em que o acusado foi visto manuseando pedra de crack no interior do local.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 158.301/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/4/2022).
+No caso dos autos, conforme consta do acórdão recorrido, trata-se de um imóvel desabitado, alugado com o único propósito de tráfico de drogas, não evidenciando a ilegalidade pretendida pela defesa."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
