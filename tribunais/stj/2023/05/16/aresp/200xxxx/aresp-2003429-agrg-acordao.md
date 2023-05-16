@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Trata-se de agravo regimental interposto por STEDINE BONELLI PORTO contra decisão por mim proferida, resumida nestes termos (fl. 2776):
+"AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA DE FORMA CONCRETA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO."
+A Defesa aduz, em suma, nas razões do regimental, ter sim impugnado o óbice da Súmula n. 283/STF, não sendo cabível, assim, a incidência do obstáculo da Súmula n. 182/STJ, que foi aplicada de forma genérica (fls. 2821-2824 e 2825-2826); e aponta, por fim, violação ao princípio da colegialidade (fls. 2824-2825).
+Requer, assim, a reconsideração da decisão agravada ou a remessa do regimental ao colegiado para que seja conhecido e provido o agravo em recurso especial (fl. 2826).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. MINUTA DE AGRAVO QUE NÃO INFIRMOU DE FORMA CONCRETA E ESPECÍFICA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 255, § 4.º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula n. 568, também desta Corte Superior, pode o Relator, monocraticamente, dar provimento ao recurso especial quando o acórdão recorrido for contrário à jurisprudência consolidada neste Tribunal Superior. Além disso, a possibilidade de interposição de agravo regimental, com a submissão da insurgência ao Colegiado, esvazia a alegação de cerceamento de defesa.
+2. Não houve concreta e específica impugnação de todos os óbices declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido.
+VOTO
+Consta nos autos que o Agravante foi condenado a 2 (dois) anos e 4 (quatro) meses de reclusão pelo crime do art. 1.º, inciso II, c.c. o § 4.º, incisos I e II, da Lei n. 9.455/1997 (fls. 1580-1581); e a 2 (dois) anos de reclusão e 10 (dez) dias-multa, pelo delito do art. 14 da Lei n. 10.826/2003 (fl. 1581). Reconhecido o concurso material de crimes, o montante final das reprimendas ficou sedimentado em 4 (quatro) anos e 4 (quatro) meses de reclusão, em regime semiaberto, e 10 (dez) dias-multa, além da perda do cargo, função ou emprego publico (fls. 1581-1583).
+À apelação defensiva a Corte de origem deu parcial provimento apenas para reconhecer a extinção da punibilidade em relação ao delito do art. 14 da Lei n. 10.826/2003 (fl. 1923).
+Os embargos de declaração defensivos foram rejeitados (fls. 2158-2161).
+Nas razões do apelo nobre, a Defesa apontou violação aos arts. 226 e 619, ambos do Código de Processo Penal; ao art. 1.º, inciso II, c.c. o § 4.º, incisos I e II; e § 5.º, da Lei n. 9.455/1997; ao art. 129 do Código Penal; e ao art. 1.013, § 1.º, do Código de Processo Civil (fl. 2316).
+Aduziu omissão do acórdão recorrido sobre o pedido de esclarecimento acerca da aventada nulidade do reconhecimento fotográfico por violação ao art. 226 do Código de Processo Penal, nos termos da nova posição do Superior Tribunal de Justiça firmada no julgamento do HC n. 598.886/SC; e sobre a impossibilidade de decretação da perda do cargo ocupado pelo Agravante (fls. 2321-2322).
+Alegou, ainda, ser nulo o reconhecimento de pessoa quando realizado em desacordo com o art. 226 do Código de Processo Penal e, no caso dos autos, o reconhecimento do Agravante ocorreu com base apenas em reconhecimento fotográfico realizado pela vítima, não corroborado em outros elementos probatórios, devendo, por isso, ser absolvido (fls. 2323-2331).
+Asseverou, em síntese, estarem ausentes as elementares do crime do art. 1.º, inciso II, da Lei n. 9.455/1997, pois não ficou comprovada a intenção do Réu de submeter a vítima a intenso sofrimento físico ou mental, de forma deliberada, como forma de plicar castigo pessoal ou medida de caráter preventivo, devendo ser reconhecida a atipicidade da conduta (fls. 2332- 2333).
+Alternativamente, requereu a desclassificação da conduta para lesões corporais em razão da inexistência de comprovação cabal do dolo de torturar (fls. 2333-2334). Ainda, nesse sentido, disse que a Corte de origem não fundamentou o indeferimento do pleito de desclassificação da conduta, devendo, por isso, o acórdão recorrido ser cassado (fl. 2334).
+Aduziu não ser possível a perda do cargo público em razão de o Agravante não o mais ocupar, pois a Lei Complementar Municipal 204/2017 extinguiu a Autarquia de Segurança, Trânsito e Transporte de Criciúma (ASTC), deixando, assim, de existir o cargo público de guarda municipal da Prefeitura de Criciúma ocupado à época do fato criminoso (fls. 2335-2336).
+As contrarrazões foram apresentadas às (fls. 2426-2439).
+O recurso especial não foi admitido (fls. 2472-2482).
+Foi interposto agravo (fls. 2518-2529). Foi apresentada contraminuta às fls. 2635- 2641.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 2754- 2765).
+Esta Relatoria, por meio da decisão de fls. 2776-2780, não conheceu do agravo em recurso especial.
+Daí a interposição do presente agravo regimental (fls. 2819-2828).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+Quanto à suposta violação ao princípio da colegialidade, nos termos do art. 255, § 4.º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula n. 568, também desta Corte Superior, pode o Relator, monocraticamente, dar provimento ao recurso especial quando o acórdão recorrido for contrário à jurisprudência consolidada neste Tribunal Superior. Além disso, a possibilidade de interposição de agravo regimental, com a submissão da insurgência ao Colegiado, esvazia a alegação d e cerceamento de defesa.
+A propósito:
+" ..
+1. Não há óbice ao julgamento monocrático do recurso especial, conforme autoriza o RISTJ, bem como o art. 932 do CPC. Ademais, é possível interpretação extensiva do Regimento Interno para monocraticamente dar ou negar provimento a recurso contra decisão contrária ou em consonância com jurisprudência dominante.
+2. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+ ..
+8. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.526.001/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021.)
+" ..
+3. Segundo a orientação firmada nesta Corte Superior de Justiça, pode o relator, monocraticamente, dar ou negar provimento a recurso especial quando houver entendimento dominante sobre a matéria no Tribunal. É o que está sedimentado na Súmula n.º 568 do STJ. Ademais, a possibilidade de submeter a matéria ao exame do órgão colegiado por meio do agravo regimental afasta a arguida ofensa ao princípio da colegialidade. Precedentes.
+ ..
+10. Agravo regimental não conhecido." (AgRg no AREsp 1.337.066/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/10/2020, DJe 29/10/2020.)
+No mais, tal como já asseverado, a Corte de origem não admitiu o recurso especial do ora Agravante com lastro no óbice da Súmula n. 83/STJ quanto à alegada violação aos arts. 619 do Código de Processo Penal e 1.013 do Código de Processo Civil (fls. 2472-2475); pelo óbice da Súmula n. 7 desta Corte em relação às teses relativas a) de violação ao art. 226 do Código de Processo Penal (fls. 2475- 2476); e b) e de ausência de intenção de causar sofrimento físico ou moral à vítima e de desclassificação da conduta para lesão corporal (fls. 2476-2480); e também pelo obstáculo da Súmula n. 283/STF em relação à violação ao art. 226 do Código de Processo Penal (fl. 2476); e, por fim, por ausência de prequestionamento da alegada impossibilidade de perda do cargo público em razão de ter sido extinto (fls. 2480-2481).
+Nas razões do agravo, a Defesa não logrou refutar, de forma concreta e idônea, o óbice da Súmula n. 283 do Supremo Tribunal aplicado à tese de inobservância dos requisitos do art. 226 do Código de Processo Penal por ocasião do reconhecimento do Réu, pois, além de não ter demonstrado a efetiva impugnação de todas as razões de decidir declinadas pela Corte de origem a esse respeito, restringiu-se a fazer alusão a obstáculo não referido pela Corte estadual, relativo à supressão de instância (fl. 2524).
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Nesse entendimento: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
