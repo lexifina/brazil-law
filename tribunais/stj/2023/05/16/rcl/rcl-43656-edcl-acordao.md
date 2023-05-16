@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 10/05/2023 a 16/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Indeferiu-se a reclamação ajuizada por Maria de Lourdes Moreira da Silva, com fundamento no art. 105, I, f, da CF/1988.
+A reclamação visa reformar decisão da Turma Recursal de Minas Gerais dos Juizados Especiais Federais e pelo Ministro Presidente da TNU, que negou o benefício de aposentadoria por idade rural, ante a não comprovação de atividade rural de subsistência.
+Na origem, trata-se de ação ajuizada por Maria de Lourdes Moreira da Silva contra o Instituto Nacional do Seguro Social - INSS objetivando a concessão de aposentadoria por idade rural.
+Na sentença, julgou-se improcedente o pedido. Na Turma Recursal do Juizado Especial Federal a sentença foi mantida. A Turma Nacional de Uniformização inadmitiu o peido de uniformização. Esta Corte indeferiu liminarmente a reclamação.
+Na reclamação, Maria de Lourdes Moreira da Silva alega, em suma, que:
+Tendo a autora ingressado com demanda previdenciária, junto a Comarca de Alpinópolis/MG, de benefício por incapacidade, somente começou a receber, ou seja, a DIP iniciou em 13/06/2011 (negrito nosso). Assim, diante das revisionais de benefício por incapacidade, o INSS cessou o benefício da autora.  ..  O processo teve origem, considerando que o INSS, em sua análise administrativa, negou o requerimento da autora, sob argumento de falta de tempo de exercício de atividade rural em números e meses idênticos à carência do benefício. Em primeiro grau, não foi reconhecido o direito da autora, sob argumento de que não há provas de que a autora estivesse exercendo atividades rurais no momento do requisito etário por estar recebendo benefício por incapacidade. E que depois que o benefício cortou, que a autora não retomou o trabalho rural não podendo ser computado o período de gozo de benefício como carência. Houve recurso da parte autora, o que foi negado. Depois, houve interposição de recurso para a turma nacional de uniformização de jurisprudência, agravo e novos embargos de declaração, sendo todos rejeitados. Todavia, esses entendimentos contrariam a jurisprudência do Colendo Supremo Tribunal Federal bem como viola dispositivos constitucionais.  ..  No ponto em que estão antagônicas à jurisprudência do STJ, foi que, no caso dos autos, houve uma análise superficial, de que a autora estava recebendo benefício entre 21/12/2008 a 31/08/2017. Ocorre que, a DIP iniciou apenas em 2011, conforme dados retirados junto ao sistema do INSS. Entretanto, decidindo assim, causa grava insegurança jurídica, na medida que o e. STJ, no tema 642, assim fixou a tese:  ..  Outro ponto, Excelência, é que não houve observância do Tema 642 do STJ, no caso em espécie, o que também enseja a presente reclamação, posto que, a autora estava laborando no campo, quando implementou o requisito etário, prova disso é que o início do pagamento do benefício por incapacidade ocorreu apenas em 2011.  ..
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, indefiro liminarmente a reclamação . "
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+AGRAVO INTERNO NA RECLAMAÇÃO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. AUSÊNCIA DE ACÓRDÃO DESTA CORTE SENDO DESCUMPRIDO. AGRAVO INTERNO IMPROVIDO.
+I - Na inicial, trata-se de reclamação ajuizada por Maria de Lourdes Moreira da Silva, contra decisão prolatada pela Turma Recursal de Minas Gerais e pelo Ministro Presidente da TNU, que negou o benefício de aposentadoria por idade rural, ante a não comprovação de atividade rural de subsistência. O STJ, em decisão monocrática do Ministro Presidente desta Corte, indeferiu liminarmente a reclamação.
+II - O entendimento do Superior Tribunal de Justiça é de que a reclamação é destinada à preservação da competência do STJ e da autoridade das decisões do Tribunal, não servindo de sucedâneo recursal (AgInt na Rcl n. 43.164/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 20/9/2022, DJe de 22/9/2022; (AgInt na Rcl n. 37.697/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 3/5/2022, DJe de 9/5/2022.)
+III - No caso dos autos, como já foi dito na decisão agravada, não há acórdão do Superior Tribunal de Justiça proferido entre as partes do processo principal que albergasse direito à reclamante, sendo incabível o ajuizamento de reclamação.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+Incorreu em omissão, conforme artigo 1.022, inciso II e parágrafo único, inciso II, do CPC, c/c artigo 489, §1º, incisos III, IV e VI do CPC, uma vez que o agravo apresentado impugnou, especificadamente, o fato de que o acórdão prolatado em recurso inominado atribuiu interpretação divergente ao da TNU e do STJ. (..)
+.. incorreu ainda em omissão no que tange a possibilidade de revaloração da prova, o que não encontra óbice na súmula 7 do STJ, como é o caso dos autos e que foi levantado tal ponto nos recursos interpostos.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ÔNIBUS ESCOLAR. ACIDENTE. ÓBITO DA FILHA DOS AUTORES. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROCEDÊNCIA PARCIAL DOS PEDIDOS. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO.
+I - Na origem, trata-se de ação ajuizada contra o Instituto Nacional do Seguro Social - INSS objetivando a concessão de aposentadoria por idade rural.
+II - Na sentença, julgou-se improcedente o pedido. Na Turma Recursal do Juizado Especial Federal a sentença foi mantida. A Turma Nacional de Uniformização inadmitiu o peido de uniformização. Esta Corte indeferiu liminarmente a reclamação.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à inadmissibilidade da reclamação foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à inadmissibilidade da reclamação foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão, conforme se percebe dos seguintes trechos do acórdão:
+.. o entendimento do Superior Tribunal de Justiça é de que a reclamação é destinada à preservação da competência do STJ e da autoridade das decisões do Tribunal, não servindo de sucedâneo recursal. (..)
+No caso dos autos, como já foi dito na decisão agravada, não há acórdão do Superior Tribunal de Justiça proferido entre as partes do processo principal que albergasse direito à reclamante, sendo incabível o ajuizamento de reclamação.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
