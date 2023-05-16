@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JORGE LUIZ ANDRADE DE MESQUITA contra decisão de fls. 353/359, em que conheci do agravo de fls. 311/317 e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, neguei provimento ao recurso especial.
+Em suas razões recursais, a defesa reitera a alegação de violação ao art. 413, § 1º, do Código de Processo Penal - CPP, porque o TJ manteve a sentença de pronúncia proferida em desfavor do agravante. Alega, em síntese, a existência de nulidade decorrente do excesso de linguagem na sentença de pronúncia e na manutenção de qualificadoras improcedentes.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento pela Turma competente, para que seja conhecido e provido o agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. SENTENÇA DE PRONÚNCIA. ALEGAÇÃO DE NULIDADE POR EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. QUALIFICADORAS. MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, constata-se que, a todo o momento, o Magistrado pronunciante fez referência apenas à existência de provas suficientes de materialidade e autoria aptas a submeterem o agravante a julgamento pelo Tribunal do Júri, tendo razão a Corte de origem ao afirmar que, na sentença de pronúncia, "não se logrou localizar o trecho onde estaria contida a expressão "a autoria é certa"".
+2. Correta a conclusão do Tribunal a quo pela ausência de excesso de linguagem na sentença de pronúncia, "haja vista que a expressão "indícios suficientes" torna claro que não se trata de afirmação peremptória acerca da autoria".
+3. Nos termos da jurisprudência desta Corte, "verificado que há indícios de autoria e que as qualificadoras não se mostram manifestamente improcedentes ou descabidas, pois baseadas em provas do processo, devidamente apontadas pelas instâncias a quo, compete ao Conselho de Sentença o julgamento do feito, sob pena de usurpação da competência do Tribunal do Júri" (AgRg no AREsp n. 2.154.116/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 29/11/2022).
+4. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+Consta dos autos que o agravante foi pronunciado como incurso nas sanções do art. 121, § 2º, II e IV, c. c. o art. 14, II, do Código Penal - CP (homicídio qualificado tentado), conforme sentença de fls. 175/182.
+Conforme exposto na decisão agravada, o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - TJ manteve a sentença de pronúncia nos seguintes termos do voto do relator (grifos nossos):
+"O recorrente sustenta que, apesar do esforço para não adentrar no mérito da causa, o Juízo de primeiro grau rompeu o perímetro da linguagem desejada para a decisão de pronúncia. Nesse sentido, o recorrente relata, à pág. 223, que teria havido excesso na decisão, quando o magistrado asseverou que "a autoria é certa", ao mencionar na decisão que "(..) é possível se extrair indícios suficientes de que o acusado foi o responsável pelo crime ora em análise. (..)".
+Analisando-se detidamente a decisão de pronúncia, não se logrou localizar o trecho onde estaria contida a expressão "a autoria é certa".
+Ademais, não observo excesso no segundo trecho reproduzido acima, haja vista que a expressão "indícios suficientes" torna claro que não se trata de afirmação peremptória acerca da autoria.
+Observando-se o decisum em questão, anexado às págs. 133/139, não se vislumbra excesso de linguagem em nenhum trecho. Ao contrário, o Juízo de primeiro grau manifestou-se com parcimônia sobre a existência de indícios suficientes de autoria do crime.
+Ressalte-se, por oportuno, que, quanto aos trechos da pronúncia em que houve transcrição de depoimentos contidos nos autos, entendo que não configuram excesso de linguagem, mas sim uma demonstração de onde estão os indícios de autoria.
+A respeito das transcrições de depoimentos em decisões de pronúncia, assim tem se manifestado a jurisprudência do STJ:
+ ..
+Na realidade, percebeu-se uma constante cautela por parte do Juízo de piso, no sentido de não ultrapassar os limites da decisão de pronúncia." (fls. 266/268)
+Por seu turno, na sentença de pronúncia constou o seguinte (grifos nossos):
+"Na forma do art. 413, § 1º do CPP, a fundamentação da pronúncia limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.
+Descabem, pois, maiores ponderações do Juiz sobre a prova, sob pena de invadir seara reservada em sede constitucional ao Juízo Popular do Conselho de Sentença.
+Aqui, dentro dos limites previstos no dispositivo acima transcrito, verifico que dos autos constam provas suficientes da materialidade do delito de homicídio, consubstanciada no exame de corpo de delito de fls. 40, que indica lesão provocada por arma de fogo.
+Quanto aos indícios de autoria, tenho que os depoimentos colhidos em juízo, conjugados com as provas constantes do inquérito, mostram-se suficientes para ensejar a pronúncia do acusado, conforme se verifica abaixo:
+ ..
+Assim, colhidos os depoimentos das testemunhas e interrogado o acusado, comparando-os ainda com os depoimentos colhidos em sede policial, entendo que é possível se extrair indícios suficientes de que o acusado foi o responsável pelo crime ora em análise." (fls. 175/178)
+Extrai-se dos trechos acima que, a todo o momento, o Magistrado singular fez referência apenas à existência de provas suficientes de materialidade e autoria delitivas aptas a submeterem o agravante a julgamento pelo Tribunal do Júri, tendo razão a Corte de origem ao afirmar que, na sentença de pronúncia, "não se logrou localizar o trecho onde estaria contida a expressão "a autoria é certa"" (fl. 266).
+Correta a conclusão do Tribunal a quo pela ausência de excesso de linguagem na sentença de pronúncia, "haja vista que a expressão "indícios suficientes" torna claro que não se trata de afirmação peremptória acerca da autoria" (fl. 267).
+Tal entendimento encontra amparo na jurisprudência desta Corte, conforme se verifica dos julgados adiante colacionados (grifos nossos) :
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ANÁLISE DO DOLO. PRONÚNCIA. EXCESSO DE LINGUAGEM NA DECISÃO DE PRIMEIRO GRAU. INEXISTÊNCIA.
+1. Não se verifica excesso de linguagem na sentença de pronúncia, haja vista que o juiz da Vara do Tribunal do Júri apenas cumpriu a determinação do art. 413 do Código de Processo Penal - CPP, isto é, fundamentadamente, pronunciou o acusado, demonstrando a materialidade do fato e a existência de indícios suficientes de autoria ou de participação, não exaurindo a análise probatória.
+2. Apenas consta na decisão de primeiro grau impugnada que "há no conjunto probatório carreado aos autos, indícios suficientes de autoria do delito em questão, eis que, em tese, RODRIGO MATEI, com consciência e vontade, assumindo o risco de produzir os resultados, eis que conduzia o veículo Mitsubishi, modelo L200 Triton, cor prata, placas EEI 2088 (Auto de Exibição e Apreensão e Laudo de Exame de Veiculo a Motor), sob forte influência de bebida alcoólica e em alta velocidade, incompatível com as condições de segurança da via, matou a vítima Elizandro Ezequiel Mazzutti, conforme lesões descritas no Laudo do Exame de Necropsia de mov. 13.2, que foram a causa eficiente de sua morte, conforme declarações prestadas por Dieila Patrícia Nunes Varela, Tiago Miguel Baldessar, Vitória Rodrigues de Oliveira e Geferson Luiz Couto, todas ouvidas sob as garantias constitucionais do contraditório e da ampla defesa, os quais apontaram o acusado como autor da ação criminosa".
+3. Agravo regimental improvido.
+(AgRg no RHC n. 170.177/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXCESSO DE LINGUAGEM NA PRONÚNCIA. NULIDADE NA BUSCA E APREENSÃO. DIREITO AO SILÊNCIO. QUEBRA DE CADEIA DE CUSTÓDIA. EXCLUSÃO DE QUALIFICADORAS. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não se verifica na decisão de pronúncia, o alegado vício de excesso de linguagem, pois as expressões usadas na sentença de pronúncia, não demonstram que o juiz afirmou ter provas da autoria do homicídio, mas apenas indícios.
+ ..
+6. Compete ao Tribunal do Júri, a avaliação profunda e exauriente da conduta atribuída ao paciente, assim, o afastamento das qualificadoras, na fase da pronúncia, só seria possível se manifestamente improcedente, sob pena de usurpação da competência dos jurados.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 669.117/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. APELO FUNDADO EM DISSÍDIO JURISPRUDENCIAL. NECESSIDADE DE COMPROVAÇÃO DA DIVERGÊNCIA DE FORMA CLARA E OBJETIVA. DECISÃO DE PRONÚNCIA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. EXPRESSÕES HIPOTÉTICAS QUE INDICAM PLAUSIBILIDADE DA ACUSAÇÃO. INDÍCIOS SUFICIENTES DE AUTORIA DELITIVA E DA PRESENÇA DE QUALIFICADORAS. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AGRAVO NÃO PROVIDO.
+ ..
+2. A decisão interlocutória de pronúncia é um mero juízo de admissibilidade da acusação, em que não é exigida, neste momento processual, prova incontroversa da autoria do delito, pois bastam a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime.
+3. A jurisprudência desta Turma proclama que não se configura o alegado excesso de linguagem quando, por ocasião da prolação da decisão de pronúncia, o magistrado se refere às provas constantes dos autos para verificar a ocorrência da materialidade e a presença de indícios suficientes de autoria, aptos a ensejar o julgamento do feito pelo Tribunal do Júri.
+4. A Corte estadual não proferiu juízo peremptório acerca dos fatos pelos quais o acusado foi pronunciado, uma vez que utiliza termos hipotéticos que indica juízo de plausibilidade a fim de justificar a impossibilidade de absolvição sumária.
+5. Verificado que há indícios de autoria e que as qualificadoras não se mostram manifestamente improcedentes ou descabidas, pois baseadas em provas do processo, devidamente apontadas pelas instâncias a quo, compete ao Conselho de Sentença o julgamento do feito, sob pena de usurpação da competência do Tribunal do Júri.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.154.116/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 29/11/2022).
+Quanto às qualificadoras, o Tribunal de origem assim se manifestou (grifos nossos):
+"Por fim, insta consignar que as circunstâncias qualificadoras somente podem ser subtraídas da apreciação do Júri quando manifestamente improcedentes, o que não se configura no presente caso.
+ ..
+No caso, há elementos nos autos que indicam que o crime teria sido motivado por banalidades, relativas ao possível fato de que a vítima estaria encarando o acusado, restando configurado, em tese, o motivo fútil.
+Ademais, a presença da qualificadora do uso de recurso que dificultou a defesa da vítima estaria contida no fato de que o disparo teria ocorrido quando a vítima encontrava-se no banheiro, quando teria sido, em tese, surpreendida pelo infrator." (fls. 278/279)
+Como se vê, a conclusão do Tribunal estadual está em sintonia com a jurisprudência desta Corte. Conforme exposto nos julgados acima, " v  erificado que há indícios de autoria e que as qualificadoras não se mostram manifestamente improcedentes ou descabidas, pois baseadas em provas do processo, devidamente apontadas pelas instâncias a quo, compete ao Conselho de Sentença o julgamento do feito, sob pena de usurpação da competência do Tribunal do Júri" (AgRg no AREsp n. 2.154.116/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/11/2022, DJe de 29/11/2022).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
