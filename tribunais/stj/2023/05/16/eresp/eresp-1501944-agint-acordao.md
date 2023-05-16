@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 10/05/2023 a 16/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu embargos de divergência em recurso especial interposto por José Fernando Tarrago e pelo Sindicato dos Trabalhadores Federais da Saúde Trabalho e Previdência no Estado do Rio Grande do Sul , com fundamento no art. 1.043 do CPC/2015.
+O recurso especial visa reformar acórdão da Primeira Turma desta Corte Superior, nos termos assim ementados (fls. 496-497):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. POSSIBILIDADE. INEXISTÊNCIA DE OFENSA À COISA JULGADA. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. Cuida-se, na origem, de Embargos à Execução de sentença que versa sobre a implantação do reajuste de 3,17% sobre quintos/décimos de função incorporada, tendo o acórdão recorrido concluído que os servidores têm direito a receber a diferença de reajuste no percentual de 3,17% sobre os seus vencimentos a partir do mês de janeiro de 1995, entretanto, limitado ou pela superveniente concessão do reajuste no percentual correto ou pela reestruturação da carreira à qual pertencem (fls. 209/210).
+2. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, motivo pelo qual inexiste a violação apontada dos arts. 535, II e 458, II do CPC/1973.
+3. Quanto ao mérito, é firme a jurisprudência desta Corte Superior de possibilidade de limitação do reajuste de 3,17%, sem que resulte em ofensa à coisa julgada, conforme atestam os seguintes precedentes: AgRg nos EDcl no REsp. 1.523.151/RS, Rel. Min. HUMBERTO MARTINS, DJe 30.9.2015; AgRg no REsp. 1.570.064/PE, Rel. Min. HUMBERTO MARTINS, DJe 12.2.2016; AgRg no REsp. 1.524.057/RS, Rel. Min. SÉRGIO KUKINA, DJe 15.6.2015.
+4. Agravo Interno dos Servidores a que se nega provimento.
+Na origem, trata-se de embargos opostos pela União à execução de sentença ajuizada por José Fernando Tarrago que versa sobre a implantação do reajuste de 3,17 % sobre quintos/décimos de função incorporada.
+Na sentença, julgaram-se parcialmente procedentes os pedidos. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para limitar a execução a dezembro de 2001. Esta Corte negou seguimento ao recurso especial.
+Nos embargos de divergência, José Fernando Tarrago e o Sindicato dos Trabalhadores Federais da Saúde Trabalho e Previdência no Estado do Rio Grande do Sul afirmam, em síntese, que o acórdão recorrido está em ressonância com o entendimento firmado no julgamento do REsp n. 1.253.853/RS, cujo acórdão foi assim ementado, in verbis:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994.
+1. O art. 535 do CPC dispõe que são cabíveis embargos de declaração quando a decisão for omissa, obscura ou contraditória, ou quando o julgado embargado decide a demanda orientado por premissa fática equivocada. No caso dos autos, a ocorrência de omissão justifica o acolhimento dos aclaratórios, inclusive, com a atribuição de efeitos infringentes.
+2. Nos termos do artigo 10 da MP 2.225-45/01, o pagamento do índice de3,17% é devido até o momento em que a carreira dos servidores foi reestruturada; porém, esse limite temporal não se aplica às parcelas de quintos/décimos incorporadas até dezembro de 1994. 3. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial.
+(REsp n. 1.253.853/RS, Ministro Mauro Campbell Marques, DJe de 21/ 6/2011.)
+Alega o embargante que: (..) o v. acórdão embargado considerou que, nos termos do art. 10 da MP 2.225/01, a data da reestruturação da carreira constituiria o termo final de pagamento do reajuste de 3,17%sobre os quintos/décimos. O julgado turmário, contudo, afronta a literalidade do art. 10 da Medida Provisória nº 2.225-45/2001, que ressalva expressamente a parcela de quintos/décimos da necessidade de compensação do reajuste com as reestruturações da carreira (..) Por certo, a pretensão ora deduzida está plenamente amparada na jurisprudência consolidada por este Tribunal, que rechaça a mencionada limitação do reajuste de 3,17% à data da reestruturação da carreira especificamente no tocante à parcela quintos/décimos incorporada até 1994.
+A decisão recorrida tem o seguinte dispositivo: "Diante do exposto, não conheço dos embargos de divergência."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos (fls. 646-649):
+.. não há dúvida de que o requisito da demonstração da contemporaneidade da divergência foi suficientemente atendido no presente feito, não só por meio do aresto paradigma (que é recente, diversamente do que entendeu o i. Relator), mas, principalmente, por meio da fundamentação os embargos que trazem como reforço argumentativo precedentes de 2018 e 2019 (e-fls. 591/592) - ano em que apresentado o recurso sob análise. (..)
+Portanto, diante da contemporaneidade da tese divergente apresentada, bem como da manifesta inaplicabilidade do óbice da Súmula nº 168/STJ ao caso, impõe-se a reconsideração, ou a reforma, da r. decisão proferida, a fim de que sejam conhecidos e providos os embargos de divergência interpostos para afastar a limitação dos 3,17% sobre a parcela quintos/décimos. (..)
+Por todo exposto, requer-se a reconsideração ou, se a tanto chegar, a reforma da r. decisão agravada, para que, afastados os óbices impostos, sejam conhecidos e providos os embargos de divergência e, por conseguinte, reconhecida a impossibilidade de limitação do reajuste de 3,17% sobre os quintos/décimos à data da reestruturação da carreira, por força da ressalva expressa do art. 10 da MP nº 2.225/2010 quanto a esta parcela.
+É o relatório.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Como bem apontado no parecer ministerial, cujos fundamentos adoto, o julgado combatido acompanha, em perfeita sintonia, a jurisprudência pacífica do STJ, ao entender pela possibilidade da limitação do reajuste de 3,17%, sem que disso decorra desrespeito ao instituto da coisa julgada.
+Aplica-se, portanto, ao caso em tela, o teor da Súmula n. 168 deste Superior Tribunal:
+Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Ademais, os ora recorrentes não comprovaram adequadamente a contemporaneidade divergência alegada, uma vez que o acórdão paradigma é datado de 2011, deixando de observar, portanto, requisito de admissibilidade recursal atinente ao presente recurso.
+Anote-se:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PARADIGMA. REQUISITO DA ATUALIDADE. AUSÊNCIA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Caso em que a agravante se insurge contra decisão que indeferiu liminarmente o recurso, visto que o acórdão paradigma não é contemporâneo ao momento da oposição dos embargos de divergência.
+2. Os embargos de divergência têm por objetivo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários na decisão de casos similares, sendo necessário que "o dissenso interpretativo seja atual, isto é, contemporâneo ao momento da oposição dos embargos de divergência" (EREsp 1.490.961/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 23/3/2018).
+3.Em nova análise, evidencia-se que a embargante não cumpriu o requisito de admissibilidade dos embargos de divergência, nos termos do artigo 266 do RISTJ, segundo o qual: "Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+ ..
+7. Assim sendo, não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (Súmula 168/STJ).
+8. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.711.599/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 20/9/2022, DJe de 27/9/2022.)
+Ante o exposto , nego provimento ao agravo interno.
+É o voto.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO. REAJUSTE DE 3,17%. PROCEDÊNCIA PARCIAL DO PEDIDO. EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE. ACÓRDÃO EMBARGADO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APALICAÇÃO DA SÚMULA N. 168.
+I - Na origem, trata-se de embargos opostos pela União à execução de sentença que versa sobre a implantação do reajuste de 3,17 % sobre quintos/décimos de função incorporada.
+II - Na sentença, julgaram-se parcialmente procedentes os pedidos. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para limitar a execução a dezembro de 2001. Esta Corte negou seguimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+IV - O julgado combatido acompanha, em perfeita sintonia, a jurisprudência pacífica do STJ, ao entender pela possibilidade da limitação do reajuste de 3,17%, sem que disso decorra desrespeito ao instituto da coisa julgada.
+V - Aplica-se, portanto, ao caso em tela, o teor da Súmula n. 168/STJ.
+VI - Os ora recorrentes não comprovaram adequadamente a contemporaneidade divergência alegada, uma vez que o acórdão paradigma é datado de 2011, deixando de observar, portanto, requisito de admissibilidade recursal atinente ao presente recurso. Anote-se: (AgInt nos EAREsp n. 1.711.599/PR, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 20/9/2022, DJe de 27/9/2022.)
+VII - Agravo interno improvido.
