@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Sergio Tenani, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo no julgamento do Agravo em Execução Penal n. 0004960-25.2022.8.26.0520.
+Consta dos autos que o paciente cumpre pena de 23 anos, 8 meses e 15 dias, atualmente no regime semiaberto, e teve o pedido de progressão ao regime menos gravoso deferido pelo Juízo da Execução Criminal da comarca de São José dos Campos/SP (PEC n. 0000048-29.2015.8.26.0520 - fls. 50/52).
+Irresignado, o Ministério Público interpôs agravo de execução perante o Tribunal de origem, que deu provimento ao agravo para indeferir o benefício outrora concedido, ante o inadimplemento do requisito subjetivo, conforme acórdão acostado às fls. 96/100.
+No presente writ, a defesa sustenta que o paciente está submetido a constrangimento ilegal, pois não obstante o fato de o paciente ter cumprido o lapso temporal necessário, possuir bom comportamento carcerário atestado pela direção do estabelecimento, com comprovado estudo realizado na unidade prisional, com diversas saídas temporárias, bem como com exame criminológico amplamente favorável, entendeu o Tribunal de Justiças pela cassação da progressão de regime, pois não estaria demonstrado o requisito subjetivo. Nada mais equivocado. Na verdade, o Tribunal de Justiça de São Paulo decidiu pela cassação da progressão de regime a penas pelo tempo de pena ainda a cumprir e pela gravidade dos crimes patrimoniais praticados pelo paciente (fl. 8).
+Requer, liminarmente e no mérito, a cassação do acórdão combatido e o restabelecimento da decisão proferida pelo Juízo da execução.
+É o relatório.
+A irresignação não merece prosperar.
+Ao dar provimento ao agravo em execução interposto pelo Ministério Público para cassar a decisão do Juízo das execuções que deferiu o pedido de progressão para o regime aberto, o Tribunal a quo fê-lo sob estes fundamentos (fls. 98/99):
+O reclamo ministerial comporta provimento. SÉRGIO expia pena no total de 23 (vinte e três) anos, 08 (oito) meses e 15 (quinze) dias de reclusão, pela prática de vários roubos e furto, com TCP previsto para 23/04/2038.
+É fato que já cumpriu o lapso temporal necessário ao benefício.
+Contudo, a recalcitrância na prática de delitos contra o patrimônio, sendo a maioria deles exercidos com emprego de violência e grave ameaça à pessoa, crimes causadores de tanto desassossego à sociedade, já seria o bastante para uma análise mais cautelosa quanto à condição subjetiva do agravado, eis que demonstrada a sua perigosidade social.
+Com efeito, embora tenha sido submetido a exame criminológico com conclusão favorável, fato é que houveram apontamentos negativos no laudo psicológico: "passou por clínicas de dependência química por mais de dez vezes. Vida labora inexpressiva.  ..  as chances de nova reinserção ao sistema prisional é uma realidade. Não conta com perspectiva de trabalho" (fls. 387 da Execução).
+Como se observa, tais circunstâncias demonstram que não houve comprovação inequívoca de que o agravante está apto a gozar de benefício de tamanha amplitude.
+Desse modo, em respeito ao princípio do in dubio pro societate, na dúvida quanto à capacidade do apenado de se adequar às regras e valores sociais que o distanciem do âmbito do crime, o interesse da sociedade deve sempre prevalecer.
+Nesse sentido: "em sede de execução penal, vale o princípio in dubio pro societate, o qual preconiza que, na dúvida quanto à aptidão para a promoção a regime mais brando, faz-se necessário o encarceramento por um período maior de tempo sob o olhar cauteloso do Estado, evitando-se que a sociedade seja posta em risco com uma reinserção prematura" (AgRg no HC 639.850/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe01/06/2021).
+ ..
+De fato, da leitura do acórdão impugnado observa-se que o Tribunal de origem cassou o benefício de progressão ao regime aberto com base em fundamentos concretos extraídos dos autos, que apontaram para sua inaptidão, por ora, para a obtenção da progressão de regime, consistente na análise do laudo com pontos desfavoráveis ao apenado. Tal fundamentação é idônea à luz da orientação jurisprudencial desta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO AUSENTE. ASPECTOS DESFAVORÁVEIS EXTRAÍDOS DO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. DESCONSTITUIR TAL ENTENDIMENTO IMPLICA EM REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas, como requisitos legais, o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. In casu, as instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime por ausência do requisito subjetivo. Tal providência encontra respaldo na jurisprudência desta Corte Superior. Precedentes.
+3. Desconstituir os fundamentos firmados pelas instâncias ordinárias, relativos ao não preenchimento do requisito subjetivo, implica em revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 749.522/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME SEMIABERTO CASSADA PELO TRIBUNAL DE ORIGEM. PARECER PSICOLÓGICO DESFAVORÁVEL. REQUISITO SUBJETIVO NÃO PREENCHIDO. AGRAVO IMPROVIDO.
+1. In casu, o benefício da progressão de regime foi indeferido fundamentadamente, em virtude, essencialmente, do parecer psicológico desfavorável.  .. . Habeas corpus não conhecido. (HC n.º 288.548/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 3/3/2015, DJe 12/3/2015).
+2. No caso, o Tribunal ressaltou alguns elementos desfavoráveis do exame criminológico, estando a decisão, assim, bem fundamentada, porque teve por base aspecto concreto dos autos.
+3. Por fim, vigora, no processo de execução penal, o princípio do in dubio pro societate, de modo que, na dúvida quanto à periculosidade do apenado, deve-se decidir em favor da sociedade.
+4 . Agravo regimental improvido.
+(AgRg no HC n. 663.527/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/5/2021 - grifo nosso)
+Ademais, para se infirmar as conclusões a que chegaram as instâncias ordinárias, no sentido da ausência de mérito, demandar-se-ia ampla incursão em fatos e em provas, o que não é admissível nos autos de habeas corpus, de cognição sumária.
+A propósito: HC n. 701.126/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/2/2022; AgRg no HC n. 675.099/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2022; e AgRg no HC n. 695.493/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/10/2021.
+Ante o exposto, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DELITOS PATRIMONIAIS COM EMPREGO DE VIOLÊNCIA E GRAVE AMEAÇA. PROGRESSÃO DE REGIME. INDEFERIMENTO. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO COM ALGUNS PONTOS DESFAVORÁVEIS AO PACIENTE. FUNDAMENTAÇÃO IDÔNEA. INVIABILIDADE DE REEXAME APROFUNDADO DA FUNDAMENTAÇÃO ADOTADA NA ORIGEM. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ indeferido liminarmente.
