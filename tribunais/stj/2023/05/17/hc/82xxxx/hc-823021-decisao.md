@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO SOUZA DE JESUS, contra idêntica medida na origem.
+Depreende-se dos autos que o autuado foi preso em flagrante conduzindo 01 (um) veículo Fiat Toro, placa PZZ4B03, clonado, veículo com registro de furto/roubo; foram encontradas dentro do veículo 18 (dezoito) placas de automóveis diversos e 01 (uma) peça com número de chassi, algumas com registro de furto/roubo. Foi arbitrada fiança no valor de 20 salários mínimos e medidas cautelares diversas da prisão- fl. 49.A defesa entrou com requerimento perante o Juízo a quo que deferiu o pedido formulado e reduziu o valor da fiança anteriormente arbitrada em sede de audiência de custódia de 20 (vinte) salários mínimos para 15 (quinze) salários mínimos( fls. 47-48).
+Irresignada, a defesa impetrou Habeas corpus perante o Tribunal de origem pleiteando a liberdade provisória sem o pagamento da fiança. O Desembargador relator indeferiu a liminar às fls. 69-72.
+Neste writ, sustenta a defesa a hiposufiência do paciente, aduzindo a ausência dos requisitos ensejadores da prisão preventiva, defendendo que ostenta condições pessoais favoráveis.
+Postula a revogação da prisão preventiva com redução ou dispensa da fiança fixada ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Em consulta à base de dados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 823.066/ES, cuja irresignação dirigiu-se ao mesmo habeas corpus ora atacado, evidenciando-se deste presente habeas corpus o propósito de dupla apreciação, por este Superior Tribunal de Justiça, da matéria suscitada , dado que indica o não cabimento da insurgência em exame.
+A propósito: "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe de 18/9/2019)." (AgRg no HC n. 790.979/RO, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca DJe de 13/2/2023.) Nesse mesmo sentido: (RHC n. 117.327/GO,Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/09/2019), (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
