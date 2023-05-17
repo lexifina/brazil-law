@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido de liminar impetrado, em favor de JOSE WELLYSON SOUSA ALVES, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ nos autos da Apelação Criminal n. 0050443-69.2020.8.06.0176.
+Depreende-se dos autos que o paciente foi condenado, em primeiro grau, como incurso nos delitos do art. 33, caput e art. 35, ambos da Lei n. 11.343/2006, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 837 (oitocentos e trinta e sete) dias-multa, no regime inicial fechado.
+Irresignada, a Defesa interpôs recurso de apelação no Tribunal de origem, o qual conheceu em parte do recurso e, nesta parte, negou-lhe provimento.
+Neste writ, o impetrante aponta a "nulidade da provas oriundas de violação ao domicilio, considerando que toda a prova material relativa ao delito de tráfico de drogas colhida emana desta violação, inexiste materialidade comprovada quanto aos fatos descritos na denúncia/sentença/acordão".
+Aduz que é "inverossímil a versão policial, ao narrar que o réu, após ser abordado, haveria confessado livremente ter mais entorpecente em casa e franqueado a entrada em seu domicílio".
+Pretende o reconhecimento da "nulidade da prova decorrente de invasão de domicilio, consequência da expedição do alvará de soltura, além de extensão à corré Sarahellem de Almeida Batista".
+Pedido liminar indeferido às fls. 58-59.
+As informações foram prestadas às fls. 62-67.
+O Ministério Público Federal, às fls. 71-76, manifestou-se, pelo não conhecimento do writ e, se conhecido, pela denegação da ordem, em parecer assim ementado:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº11.343/06). ALEGADA VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. LICITUDE DA PROVA. FUNDAMENTAÇÃO IDÔNEA. PARECER PELA DENEGAÇÃO DA ORDEM.
+- "Na hipótese, o estado flagrancial do delito de tráfico de drogas consubstancia uma das exceções à inviolabilidade de domicílio prevista no inciso XI do art. 5º da Constituição, não havendo se falar, pois, em eventual ilegalidade do mandado de busca e apreensão e violação de domicílio, porquanto dispensável em tais hipóteses." (AgRg no RHC 127.640/BA, Rel. Ministro FELIX FISCHER,QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020)
+- Parecer pelo não conhecimento da impetração e, se conhecida, pela denegação da ordem."
+É o relatório.
+Decido.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício, em virtude da inviabilidade de, em sede de habeas corpus (ou de seu recurso), se aferir a existência ou não dela, cuja ausência foi expressamente reconhecida pelas instâncias ordinárias, mediante o exauriente exame dos fatos e provas.
+No caso, o presente habeas corpus não comporta conhecimento, em primeiro, porque substitutivo dos recursos próprios e, ademais, porquanto a deficiente instrução impede a compreensão da controvérsi a.
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298); bem como é entendimento do col. Supremo Tribunal Federal nos HC 137315, Segunda Turma. Rel. Min. Ricardo Lewandowski, DJe-028 13-02-2017; HC 130240 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe-252 16-12-2015; bem como igualmente decide esta Corte de Justiça nos AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 06/06/2017; AgRg no HC 381.322/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 25/05/2017; AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 01/08/2017.
+In casu, o writ sob exame não foi instruído devidamente com o inteiro teor do v. acórdão da apelação, apontado como ato coator, o que impede, absolutamente, o exame da suposta ilegalidade e, de consequência, seja reconhecido o constrangimento ilegal.
+Ante o exposto, não conheço do habeas corpus.
+P. I.
