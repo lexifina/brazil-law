@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CARLOS AUGUSTO CHAVES SANCHES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/12/2022.
+Concluso ao gabinete em: 30/01/2023.
+Ação: de quitação de débitos ajuizada pelo agravante em face de CAIXA ECONÔMICA FEDERAL - CEF, visando o reconhecimento da quitação do contrato de alienação fiduciária de imóvel por seu seguro correlato.
+Sentença: julgou improcedente a demanda.
+Acórdão: negou provimento à apelação do agravante, nos termos da seguinte ementa:
+"ADMINISTRATIVO. SFH. CONTRATO DE SEGURO IMOBILIÁRIO. CEF. CAIXA SEGURADORA S/A. ILEGITIMIDADE PASSIVA AD CAUSAM. PRESCRIÇÃO. NÃO OCORRÊNCIA. INCAPACIDADE RELATIVA. INVALIDEZ PERMANENTE NÃO CONFIGURADA. APELAÇÃO IMPROVIDA.
+1 -CUIDA-SE DE APELAÇÃO INTERPOSTA POR CARLOS AUGUSTO CHAVES SANCHES QUE OBJETIVA A REFORMA DA SENTENÇA PROFERIDA PELA 3ª VARA CÍVEL DO RIO DE JANEIRO, NOS AUTOS DA AÇÃO ORDINÁRIA AJUIZADA EM FACE DA CAIXA ECONÔMICA FEDERAL E DA CAIXA SEGURADORA S/A, PARA RECONHECER A INVALIDEZ PERMANENTE COM A QUITAÇÃO TOTAL DOS VALORES DEVIDOS.
+2 -O APELANTE CELEBROU COM A MECÂNICA LAGOINHA LTDA, COMO VENDEDORA, E COM A CAIXA ECONÔMICA FEDERAL, NA QUALIDADE DE CREDORA FIDUCIÁRIA, UM CONTRATO DE ESCRITURA DE VENDA E COMPRA DE IMÓVEL RESIDENCIAL, MÚTUO COM ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL EM GARANTIA -CARTA DE CRÉDITO SBPE, FORA DO SFH -NO ÂMBITO DO SISTEMA DE FINANCIAMENTO IMOBILIÁRIO -SFI, NO VALOR DE R$ 700.000,00 (SETECENTOS MIL REAIS), REALIZADO EM 27 DE AGOSTO DE 2010, PARA AQUISIÇÃO DE UM IMÓVEL SITUADO À RUA ANTONIO VIRZI (ANTIGA RUA PROJETADA "A"), Nº 115, NA FREGUESIA DE JACAREPAGUÁ, RJ.
+3 -NO QUE CONCERNE À ILEGITIMIDADE PASSIVA DA CEF, CABE ESCLARECER QUE O CONTRATO DE SEGURO É REALIZADO ENTRE A CEF E A SEGURADORA. OS MUTUÁRIOS, EM REGRA, NÃO CELEBRAM CONTRATO COM A SEGURADORA, ATUANDO A CEF, NA QUALIDADE DE AGENTE FINANCEIRO, A RESPONSABILIDADE PERANTE O MUTUÁRIO.
+4 -EM RELAÇÃO À ALEGAÇÃO DE PRESCRIÇÃO, DE QUE O PRAZO APLICÁVEL À PRETENSÃO DOS MUTUÁRIOS PARA A COBERTURA SECURITÁRIADA APÓLICE HABITACIONAL PARA O RISCO DE INVALIDEZ É DE UM ANO OU DE TRÊS ANOS, NÃO PROSPERA. O ART. 206, §1º, II, B, DO CÓDIGO CIVIL ESTABELECE O PRAZO ANUAL DE PRESCRIÇÃO, TENDO COMO DESTINATÁRIO FINAL O SEGURADO, QUE NO CASO É O AGENTE FINANCEIRO, QUE TERÁ SEU DIREITO SATISFEITO NA HIPÓTESE DE INCIDÊNCIA DE ALGUM SINISTRO, POIS EM RELAÇÃO AO MUTUÁRIO A INCIDÊNCIA É PERMANENTE ENQUANTO ELE PAGA AS PRESTAÇÕES DO MÚTUO, PODENDO COMUNICAR O SINISTRO A QUALQUER TEMPO.
+5 -DA ANÁLISE PROBATÓRIA ACOSTADA AOS AUTOS, VERIFICA-SE QUE A PARTE AUTORA, ORA APELANTE, NÃO POSSUI INCAPACIDADE PERMANENTE QUE O IMPEÇA DE LABORAR, VISTO QUE O MESMO JUNTA AOS AUTOS DOCUMENTO COMPROBATÓRIO DE QUE ATUALMENTE É SERVIDOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. ADEMAIS, MERECE DESTAQUE NÃO SÓ O FATO DE QUE O APELANTE ATUALMENTE EXERCE ATIVIDADE LABORANDO NO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, BEM COMO QUE O MESMO QUANDO DO INGRESSO NA REFERIDA CARREIRA NO TRIBUNAL FLUMINENSE (ANO DE 2009 -CF. EVENTO 7 -OUT4) JÁ POSSUÍA A PATOLOGIA ALEGADA, UMA VEZ QUE SE REFERE A ACIDENTE DE TRABALHO SOFRIDO EM 1996, QUE OCASIONOU A CEGUEIRA EM UM OLHO.
+6 -O ARGUMENTO ACIMA, POR SI SÓ, JÁ ENSEJARIA A IMPROCEDÊNCIA DO PEDIDO AUTORAL. CONTUDO, SOMA-SE A ISTO O FATO DE QUE A ALEGADA INVALIDEZ PERMANENTE, O QUE NÃO RESTOU DEMONSTRADA, TENDO EM VISTA QUE O APELANTE EXERCE ATUALMENTE SUAS FUNÇÕES REGULARMENTE NO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, O EVENTO QUE ENSEJOU A DEFICIÊNCIA ALEGADA NA EXORDIAL OCORREU EM 1996, ISTO É, MUITOS ANOS ANTES DA ASSINATURA DO CONTRATO DE FINANCIAMENTO IMOBILIÁRIO, OCORRIDO EM 27/08/2010, MOTIVO PELO QUAL NÃO SE AMOLDA AOS TERMOS DA CLÁUSULA VIGÉSIMA PRIMEIRA DO CONTRATO, VISTO QUE O ACONTECIMENTO SE DEU ANTERIORMENTE A ASSINATURA DO CONTRATO.
+7 -APELAÇÃO IMPROVIDA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS DE 10% (DEZ POR CENTO) PARA 12% (DOZE POR CENTO) DO VALOR DA CAUSA, ATUALIZADO"
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC, 54, §4º, do CDC, bem como dissídio jurisprudencial. Alega negativa de prestação jurisdicional quanto à tese da necessidade de prévia juntada do contrato de seguro a fim de verificar a regularidade de eventual cláusula limitativa de cobertura. Sustenta a invalidade da cláusula contratual que não permitiu a quitação do contrato de alienação fiduciária pela não caracterização do sinistro indicado, não redigida de forma destacada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da previsão contratual da não cobertura de sinistro ocorrido antes da assinatura do contrato de financiamento imobiliário, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamento não impugnado
+A negativa de cobertura securitária teve dois fundamentos: 1) a inexistência de invalidez, tendo em vista que o agravante é servidor ativo do TJRJ, afora a prova pericial produzida; e 2) o sinistro relativo à incapacidade visual do agravante teria ocorrido em momento anterior à assinatura do contrato, o que afastaria sua cobertura.
+A parte agravante, contudo, suscita a invalidade da cláusula contratual que afasta a cobertura por sinistro ocorrido antes da celebração do contrato, nada dizendo, contudo, a respeito da inexistência da incapacidade em si.
+Assim, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de incapacidade do segurado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a inexistência de incapacidade, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 760) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE QUITAÇÃO DE DÉBITOS. ALIENAÇÃO FIDUCIÁRIA. IMÓVEL. SEGURO. INVALIDEZ. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de quitação de débitos.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial não conhecido.
