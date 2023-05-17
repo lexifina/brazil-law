@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 45):
+HABEAS CORPUS. CRIME DE ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. PRETENDIDA A REVOGAÇÃO DA MEDIDA. ALEGADA CARÊNCIA DE INDÍCIOS MÍNIMOS DE AUTORIA E DE PERICULUM LIBERTATIS. NÃO CONHECIMENTO. ARGUMEN TOS JÁ VEICULADOS EM AÇÃO PRETÉRITA, JULGADA POR ESTA CORTE. REITERAÇÃO DE TESES. AUSÊNCIA DE NOVOS ELEMENTOS CAPAZES DE JUSTIFICAR A REAVALIAÇÃO DA MATÉRIA. WRITNÃO CONHECIDO NO PONTO.
+ALEGADO EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. PACIENTE PRESO PREVENTIVAMENTE HÁ 9 MESES. COMPLEXIDADE DA AÇÃO QUE POSSIBILITA A FLEXIBILIZAÇÃO DOS PRAZOS PROCESSUAIS. AÇÃO AJUIZADA CONTRA 25 RÉUS. TRÂMITE PROCESSUAL REGULAR. AUSÊNCIA DE MORA ATRIBUIDA AO JUIZO OU À ACUSAÇÃO. INSTRUÇÃO CRIMINAL JÁ CONCLUÍDA. ABERTO PRAZO PARA ALEGAÇÕES FINAIS. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 52 DO STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. TESE AFASTADA. ORDEM DENEGADA.
+Consta que o recorrente foi preso preventivamente pela prática do delito previsto no art. 2º, § 2º, e § 4º, I e IV da Lei 12.850/2013, c/c o art. 29, na forma do art. 69, do Código Penal.
+No presente recurso, a defesa alega, em síntese, constrangimento ilegal, em razão do suposto excesso de prazo para a formação da culpa, requerendo, liminarmente e no mérito, a revogação da prisão preventiva.
+O processo n. 5078640-82.2021.8.24.0023 encontra-se conclusos para sentença, conforme informações consultadas no site do tribunal de orige m.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo desprovimento do recurso.
+Acerca do excesso de prazo na formação da culpa, conforme o documento de fls. 103/104, a instrução criminal foi encerrada em 19/1/2023 e as alegações finais já foram apresentadas, estando o processo conclusos para sentença.
+Estando os autos conclusos para sentença, não se verifica ilegalidade flagrante, porquanto fica superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula 52 deste Superior Tribunal de Justiça.
+"Não se evidencia, no caso, o alegado excesso de prazo, pois não ficou demonstrada a existência de descaso ou desídia por parte da Autoridade Judiciária, sobretudo considerando a complexidade do feito, que envolve vários acusados. De todo modo, o Juízo singular declarou encerrada a instrução criminal e intimou o Ministério Público para a apresentação de alegações finais, o que foi feito, estando os autos na fase de apresentação das defesas finais dos Réus. Dessa forma, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça" (AgRg no HC n. 651.112/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
