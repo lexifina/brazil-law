@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por DOMINGOS ASSAD STOCCO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 140):
+Agravo de instrumento Cumprimento de sentença Impugnação Rejeição - Bloqueio de valores na conta corrente da agravante Inadmissibilidade Inexistência de comprovação de que o falecido tenha deixado bens que foram transmitidos aos herdeiros, para que a agravante responda pelo débito em questão Levantamento dos valores constritos na conta da agravante que é de rigor Recurso provido.
+Os embargos foram rejeitados (e-STJ fls. 153-159).
+Nas razões do recurso especial, além de dissídio jurisprudencial, o recorrente apontou violação aos arts. 544, 1.784 e 1.792 do CC.
+Sustentou, em síntese, que uma vez comprovado nos autos que houve adiantamento da legítima, recai sobre os herdeiros o ônus de provar que a dívida deixada pelo de cujos ultrapassa os limites da força da herança.
+Contrarrazões às fls. 198-223, e-STJ.
+O processamento do apelo especial não foi admitido pelo Tribunal de origem, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+Na caso em análise, o Tribunal de origem, ao acolher a impugnação à penhora, determinando o levantamento da constrição sobre a conta bancária da ora agravada, expôs os seguintes fundamentos(e-STJ fls. 142-144 - sem grifo no original):
+É certo que, de acordo com o princípio da saisine (art. 1.784, CC), os herdeiros adquirem a posse indireta do patrimônio (ativo e passivo) deixado pelo falecido, imediatamente após a sua morte.
+Dessa forma, os herdeiros podem ser cobrados pelas dívidas do de cujus (art. 1.821, CC), no entanto, somente no limite da herança transmitida (fls. 1.997, CC).
+Na hipótese vertente, contudo, não há demonstração da transmissão de quaisquer bens aos sucessores do falecido, que pudessem responder pelo débito em questão.
+O agravado não demonstrou a existência de qualquer bem deixado pelo de cujus e, de acordo com o atestado de óbito de fls. 31/33 dos autos do cumprimento de sentença, consta que o falecido João Penhalber não deixou bens (fls. 33).
+Os documentos de fls. 91/93 (cumprimento de sentença), por sua vez, evidenciam a inexistência de inventário.
+Por outro lado, restou demonstrado que o imóvel que pertencia ao falecido e foi doado à agravante e seu irmão no ano de 2013, posteriormente foi objeto de dação em pagamento para quitação de débitos do Sr. João Penhalber (fls. 12 e 131 destes autos). E, ao contrário do que afirma o agravado, referida dívida pertencia exclusivamente ao falecido e não também a seus herdeiros, como se pode ver em consulta aos processos nº 0000101-39.2019.8.26.0368 e 0004334-89.2013.8.26.0368.
+Tampouco merece acolhimento a alegação de que os valores constritos são oriundos de herança deixada pelo falecido, pelo fato de este ter sido autorizado a realizar movimentações financeiras por meio da conta corrente da agravante, através de procuração pública. Não há provas nesse sentido, não passando de mera argumentação do agravado, não sendo suficiente para tanto a simples apresentação desse documento. Note-se que o Sr. João Penhalber faleceu em 01.12.2019 e os valores em questão (R$ 6.365,34) foram bloqueados na conta da agravante somente em 28.09.2021, não havendo, portanto, qualquer prova de que a constrição recaiu sobre quantia decorrente de herança.
+Ressalte-se que, embora o art. 1.792 do Código Civil, preceitue que é ônus do herdeiro provar que os encargos suportados são superiores às forças da herança, no caso, sequer há indícios de que, de fato, há herança, o que deveria ser demonstrado pelo agravado, que não passou do campo da argumentação.
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos considerando os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. LEVANTAMENTO DO BLOQUEIO DE VALORES EM CONTA CORRENTE DO HERDEIRO. ADIANTAMENTO DA LEGÍTIMA. FORÇAS DA HERANÇA. COMPROVAÇÃO INEXISTENTE. REEXAME. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. .
