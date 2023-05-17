@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de EBENEZER LIMA GUIMARAES , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS  (HC 4005221-05.2023.8.04.0000).
+O paciente foi condenado à pena de 8 anos de reclusão em regime fechado, pela prática do crime de tráfico de drogas.
+O pedido de liminar deduzido em habeas corpus impetrado pela defesa foi indeferido.
+Os impetrantes alegam: a) constrangimento ilegal decorrente da majoração da pena em razão da reincidência, porquanto o processo que o juízo de primeiro grau utilizou para considerar o paciente reincidente ainda não havia transitado em julgado quando da sentença condenatória; b) "quanto ao excesso de prazo para o julgamento da apelação, este se constata, tendo em vista que o paciente estar há mais de seis meses preso e o autos nem sequer foram distribuídos" (e-STJ fl. 9).
+Requerem , liminar e definitivamente, deferimento da ordem para que seja revogada a prisão preventiva.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 39-40):
+Nosso ordenamento jurídico não prevê, expressamente, a concessão de liminar em habeas corpus. Contudo, implicitamente está prevista no §2.º do art. 660 do Código de Processo Penal, se os documentos que instruírem a petição evidenciarem a ilegalidade da coação, o juiz ou o tribunal ordenará que cesse imediatamente o constrangimento.
+É cediço que tal pretensão é admitida pela doutrina (v. Eugênio Pacelli de Oliveira, Curso de processo penal, Lumen Juris, 2009, 11ª ed., p. 807) e pelos tribunais. Porém, como medida absolutamente excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris (Min. Teori Zavascki, HC n. 116.638; Min. Hamilton Carvalhido, AgRg HC n. 22.059).
+No mais, não encontro nos autos evidências de manifesta ilegalidade, a justificar a concessão da tutela de urgência postulada. Em verdade, a prisão dos pacientes está devidamente fundamentada na decisão proferida pelo Juízo impetrado.
+Ademais, a liminar é medida extrema e não foi demonstrada de plano tal excepcionalidade. No mais, verifico ainda que os fundamentos do pedido relacionados com a liminar se confundem com os do mérito da pretensão e serão analisados no momento oportuno.
+Ante o exposto, INDEFIRO a liminar.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Não se vislumbra, ainda, o alegado excesso de prazo para julgamento da apelação, considerada a pena aplicada, v.g.:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA DEVIDAMENTE FUNDAMENTADA. EXCESSO DE PRAZO N O JULGAMENTO DO RECURSO DE APELAÇÃO. NÃO VERIFICADO. MARCHA REGULAR DO PROCESSO. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART.932, III, CPC. ART. 34, XVIII, "A", E XX, DO RISTJ. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+VI - Não se verifica a ocorrência de demora exacerbada a autorizar a soltura, haja vista a gravidade concreta das condutas imputadas ao Paciente (tráfico de drogas, associação para o tráfico de drogas, organização criminosa e porte ilegal de arma de fogo de uso permitido), que lhe resultaram em exorbitante reprimenda, não apresentando qualquer irregularidade capaz de justificar o relaxamento da prisão cautelar sob o fundamento de excesso de prazo.
+Ademais, é preciso registrar que a jurisprudência deste Superior Tribunal de Justiça é no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum da pena aplicada pela sentença condenatória que, in casu, totalizou 16 (dezesseis) anos de reclusão. Logo, a espera por cerca de aproximada mente 6 (seis) meses, desde a interposição do recurso perante a eg. Corte a quo, em 28/6/2022 (fl. 253), não se me afigura desproporcional.
+(..)
+Agravo regimental desprovido.
+(AgRg no HC n. 783.951/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
