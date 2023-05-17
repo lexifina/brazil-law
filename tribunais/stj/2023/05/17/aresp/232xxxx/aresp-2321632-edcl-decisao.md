@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por WALFRIDO DA COSTA NOGUEIRA JUNIOR em face da decisão de fls. 697/698, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Fato é que o Recurso Especial interposto pela Defesa Técnica de Walfrido da Costa Nogueira Júnior pontua precisamente os dispositivos legais federais que foram violados pela 6ª Câmara Criminal do Tribunal de Justiça de Minas Gerais, quais sejam, art. 156 e 563 do Código de Processo Penal, pelas seguintes razões:
+ ..
+Fato é que todo dispositivo de lei federal busca seu âmago na Constituição Federal, sendo impossível parlamentarmos a insuficiência de provas e o cerceamento da autodefesa sem nos atermos às determinações constitucionais do princípio do in dubio pro reo, da obrigatoriedade de contraditório em processos judiciais, do devido processo legal, dentre outros.
+No tocante ao dissídio jurisprudencial restou ainda mais evidente o cabimento do Recurso Especial, pois aportou-se à peça processual três decisões de Tribunais diversos, 00037892720168160098 do Estado do Paraná, 00000024920178260559 do Estado de São Paulo e 70081659443 do Rio Grande do Sul, nos quais, diante da falha do parquet na comprovação inequívoca da prática de crime patrimonial, os apelantes foram absolvidos, decisão diversa ao caso concreto, onde, apesar do Ministério Público não ter comprovado inequivocamente que Walfrido da Costa Nogueira Júnior é autor do fato narrado na inicial, houve a condenação em primeira instância com ratificação errônea na segunda instância (fls. 704/705).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
