@@ -1,0 +1,16 @@
+DECISÃO
+WESLEY NASCIMENTO FERREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0105.20.0000072-4/001.
+Consta dos autos que o réu foi condenado a 4 anos e 2 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+A defesa pretende, em síntese, a aplicação da minorante contida no art. 33, § 4º, da Lei de Drogas em seu patamar máximo, com fixação de regime inicial aberto e substituição por restritivas de direitos.
+Decido.
+O Tribunal de origem manteve a modulação da diminuição da pena pelos seguintes fundamentos (fl. 29):
+No caso, tratando-se de 04 (quatro) tabletes pesando 2.540 gramas de maconha, correta a aplicação da fração mínima de 1/6, não havendo falar em aumento do quantum redutor  .. .
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Dessa forma, uma vez que, no caso, as instâncias de origem - dentro do seu livre convencimento motivado - fundamentaram, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/6 (apreensão de mais de 2 kg de maconha), não identifico o apontado constrangimento ilegal de que estaria sendo vítima o paciente.
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+Fica, então, mantida inalterada a reprimenda aplicada ao réu.
+Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas também a imposição do regime inicial semiaberto (pena superior a 4 anos de reclusão), bem como a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
