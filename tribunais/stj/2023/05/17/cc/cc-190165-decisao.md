@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de conflito de competência com pedido liminar suscitado por JOB RECURSOS HUMANOS LTDA - MASSA FALIDA, em que aponta como suscitados o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE CACHOEIRINHA/RS e o TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO. A falência da suscitante foi decretada em 12/4/2021 pelo Juízo de Direito da 2ª Vara Cível de Cachoeirinha/RS com a determinação de suspensão das ações e execuções movidas contra si.
+Afirma a suscitante que, a despeito da sua quebra, o Tribunal Regional do Trabalho da 4ª Região "negou a transferência de valores da falida ao processo falimentar, ante a iminente possibilidade de liberação dos valores após preclusa a decisão" (fl. 12).
+Defende a competência do Juízo da falência para deliberar sobre seu patrimônio.
+O pedido de liminar foi deferido pela Presidência desta Corte a fim de suspender, até ulterior deliberação do relator, os efeitos do acórdão proferido pelo Tribunal Regional do Trabalho da 4ª Região, no Processo n. 0020958-56.2019.5.04.0405, e para designar o Juízo de Direito da 2ª Vara Cível de Cachoeirinha/RS para decidir, em caráter provisório, as medidas urgentes (fls. 68-70).
+O Juízo suscitado apresentou as informações solicitadas (fls. 77-90).
+O Ministério Público Federal ofertou parecer pela declaração da competência do Juízo Universal da Recuperação Judicial (fls. 94-97).
+É o relatório. Decido.
+O entendimento da Segunda Seção desta Corte é no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA - ARREMATAÇÃO - REPASSE DO PRODUTO DA VENDA AO JUÍZO COMPETENTE. PRECEDENTES.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente conflito de competência, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. É iterativo o entendimento do STJ, no sentido de que "compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento." (ut. CC 155.496/RJ, Rel. Min. Marco Aurélio Bellizze, DJe de 06/04/2020) Precedentes.
+3. Agravo interno desprovido. (AgInt nos EDcl no CC n. 168.556/PR, relator Ministro Marco Buzzi, Segunda Seção, julgado em 28/9/2021, DJe de 1/10/2021.)
+Ademais, ainda que crédito tenha caráter extraconcursal, incumbe ao Juízo em que se processa a recuperação judicial, ciente de tal circunstância, analisar a melhor forma para a realização de seu pagamento, deliberar sobre os atos expropriatórios, sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação.
+No mesmo sentido são os seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. CONSTRIÇÃO INDIRETA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO
+JUDICIAL.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. Declarada a incompetência do Juízo laboral para prosseguir com a execução e reconhecida a competência do Juízo da recuperação, caso seja de seu interesse, incumbe ao credor-exequente diligenciar junto a este, no intento de satisfazer e viabilizar sua pretensão executória.
+4. Agravo interno não provido. (Pet no CC n. 175.484/MG, relator Ministro Luis Felipe Salomão, DJe de 20/4/2021, destaquei.)
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITO CONSTITUÍDO APÓS O DEFERIMENTO DA RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA OS ATOS DE CONSTRIÇÃO. DECISÃO MANTIDA.
+1. A competência para o pagamento dos débitos de sociedade empresária ao longo do processo de recuperação é do juízo em que se processa o pedido de recuperação, tendo em vista que a manutenção da possibilidade de juízos diversos procederem à constrição dos ativos da sociedade nos planos previstos no Plano de Recuperação poderia comprometer o soerguimento da empresa. Precedentes desta Corte.
+2. Agravo interno a que se nega provimento. (AgInt no CC n. 167.402/GO, relatora Ministra Maria Isabel Gallotti, DJe de 8/5/2020, destaquei.)
+Por essas razões, é de se concluir que, ainda que o crédito em comento não se submeta aos efeitos do plano de recuperação judicial da suscitante, por se tratar de crédito extraconcursal, o Juízo da Recuperação deverá analisar a melhor forma de pagamento desse crédito, não sendo possível a outro Juízo determinar atos de constrição do patrimônio da suscitante de forma genérica, sob pena de se inviabilizar por completo o reerguimento da empresa.
+Ante o exposto, declaro a competência do Juízo de Direito da 2ª Vara Cível de Cachoeirinha/RS para exercer o controle dos atos de constrição judicial incidentes sobre os bens da empresa recuperanda.
+Dê-se ciência aos Juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. CONSTRIÇÃO POR JUÍZO DIVERSO DE BEM QUE INTEGRA O PATRIMÔNIO DA EMPRESA RECUPERANDA. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA VERIFICAR A MELHOR FORMA DE PAGAMENTO SEM PREJUDICAR O PLANO DE RECUPERAÇÃO JUDICIAL. PRECEDENTES. RECONHECIMENTO.
