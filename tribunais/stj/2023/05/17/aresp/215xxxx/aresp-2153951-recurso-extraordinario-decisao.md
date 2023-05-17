@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.933-1.947) interposto por ELEANDRO DA SILVA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.924):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. FALTA DE DIALETICIDADE RECURSAL. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO NÃO CONHECIDO.
+1. Neste recurso, da mesma maneira, o agravante deixou de impugnar os fundamentos da decisão monocrática impugnada, que inadmitiu o agravo em recurso especial. Por conseguinte, novamente violou o princípio da dialeticidade e torna inadmissível este agravo, nos termos da Súmula 182/STJ.
+2. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP.
+3. Agravo regimental não conhecido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, XLVI, e 93, IX, da CF.
+Nesse sentido, reclama que: a) a sentença baseia-se exclusivamente no depoimento dos policiais, desconsiderando as provas colhidas e a inadequação da abordagem, o que foi reproduzido no julgamento da apelação; b) o conjunto probatório dos autos não é apto a ensejar a condenação do réu; c) não há fundamentos para a condenação pela conduta descrita no art. 157, § 1º, do CP, mas por furto e resistência; d) "Em relação a fração de aumento aplicada, fora considerada única e exclusivamente a quantidade de majorantes, sem nenhuma espécie de fundamentação em concreto do motivo pelo qual a fração foi aplicada no patamar de 3/8" (fl. 1.940); e e) esse aumento, feito no máximo legal, não se mostra razoável ou proporcional.
+Pleiteia ainda o recebimento deste recurso como habeas corpus de ofício.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.954-1.956 e 1.958-1.964.
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque não se conheceu do agravo regimental no agravo em recurso especial, por incidência do óbice descrito na Súmula n. 182/STJ.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+No que tange ao pleito de concessão de habeas corpus de ofício, nos termos do art. 22, § 2º, I, a, do Regimento Interno deste Tribunal Superior, não compete à Vice-Presidência apreciar o pedido, uma vez que sua atribuição se restringe ao exame da admissibilidade de recursos para a Suprema Corte (AgRg no RE nos EDcl nos EDcl no AgRg nos EREsp n. 1.900.474/PR, relator Ministro Jorge Mussi, Corte Especial, julgado em 7/12/2021, DJe de 16/12/2021).
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
