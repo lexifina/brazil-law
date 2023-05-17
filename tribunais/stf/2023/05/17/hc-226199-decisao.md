@@ -1,0 +1,93 @@
+DECISÃO
+
+HABEAS CORPUS. DECISÃO INDIVIDUAL DE MINISTRO DO STJ. SUBSTITUTIVO DE AGRAVO REGIMENTAL. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DE DOMICÍLIO: INOCORRÊNCIA. CONSENTIMENTO DO MORADOR. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de habeas corpus impetrado contra decisão, proferida no Superior Tribunal de Justiça, pela qual o Ministro Relator não conheceu do Habeas Corpus nº 803.691/SP.
+
+    2. Colhe-se dos autos que o paciente foi preso em flagrante, tendo sido a prisão convertida em preventiva, pela prática dos crimes previstos nos arts. 33, caput, e 35, da Lei nº 11.343, de 2006 (tráfico de drogas e associação para o tráfico).
+
+    3. Inconformada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, tendo sido denegada a ordem. Contra o acórdão, formalizou-se a impetração no STJ.
+
+    4. Neste habeas corpus, o impetrante afirma a ilicitude do ingresso dos policiais no domicílio, pois ausente justa causa para a medida. Contesta a validade da suposta autorização dada pelo paciente para ingresso na residência, uma vez que fora obtida mediante agressões, maculando a forma livre e espontânea do consentimento válido. Acrescenta inexistir registros da autorização. Ressalta ser o paciente primário, com bons antecedentes e ocupação lícita. Alega que, apesar do crime de tráfico de drogas ser considerado delito permanente, tal situação, por si só, não é suficiente para permitir busca domiciliar desprovida de mandado judicial, devendo haver indícios mínimos de que, naquele momento, dentro da residência, ocorre situação de flagrante delito, o que não se vislumbrou no presente caso.
+
+    5. Requer, em âmbito liminar, a revogação da prisão preventiva. No mérito, busca o reconhecimento da ilicitude das provas por transgressão à inviolabilidade domiciliar.
+
+    É o relatório.
+
+    Decido.
+
+    6. Este habeas corpus volta-se contra decisão individual de Ministro do Superior Tribunal de Justiça. Inexistindo pronunciamento colegiado do STJ, não compete ao Supremo Tribunal Federal examinar a questão de direito versada na impetração (CRFB, art. 102, inc. I, al. “i”). O caso é de habeas corpus substitutivo de agravo regimental, cabível na origem. Nesse sentido: HC nº 115.659/PR, Rel. Min. Luiz Fux, Primeira Turma, j. 02/04/2013, p. 25/04/2013; HC nº 199.029-AgR/MA, Rel. Min. Edson Fachin, Segunda Turma j. 19/04/2021, p. 29/04/2021; HC nº 197.645-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma, j. 08/04/2021, p. 16/04/2021.
+
+    7. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+    8. Quanto à alegação de ilicitude do ingresso de policiais no domicílio do paciente, o Plenário do Supremo Tribunal Federal, no Recurso Extraordinário nº 603.616-RG/RO (Rel. Min. Gilmar Mendes, j. 05/11/2015, p. 10/05/2016 — Tema nº 280 do ementário da Repercussão Geral), definiu a seguinte tese: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados”.
+
+    9. No caso, o Juízo de origem, ao decretar a prisão preventiva, descreveu a existência de autorização para o ingresso dos policiais na residência do paciente. Eis os fundamentos lançados:
+
+    “Em sede de audiência de custódia, os acusados NEGARAM que tivessem sofrido qualquer tipo de AGRESSÃO FÍSICA.
+
+    Superada a análise acerca do relaxamento do flagrante, passo a analisar a viabilidade de sua conversão em prisão preventiva ou outra medida cautelar diversa da prisão. De acordo com a atual sistemática do Código de Processo Penal, a prisão preventiva só deve ser decretada quando as demais cautelares se mostrarem insuficientes ou inadequadas para o caso concreto. E, na análise da suficiência e adequação das medidas cautelares, verifico que, no caso dos autos, o crime imputado aos investigados, tráfico de drogas, provoca sensação de insegurança social, como de fato, verifica-se dos autos de flagrante delito. Em síntese, relatam os PM's que estavam em patrulhamento pela rodovia quando avistaram um veículo em atitudes suspeitas e em péssimas condições de rodagem. Assim que o motorista percebeu a aproximação da viatura, efetuou retorno perigoso e voltou para a direção em que vinha. A equipe passou a fazer acompanhamento e o veículo empreendeu fuga, perdendo o veículo de vista quando o mesmo entrou num bairro da cidade. Foi irradiado aos colegas para que procurassem o veículo e o mesmo foi achado parado numa garagem. No local estava um dos indiciados, Wellington, que se apresentou como dono do veículo e autorizou busca em seu veículo, sendo que nada de ilícito foi encontrado. O averiguado permitiu que os policiais entrassem na casa e no local foram encontrados dois sacos de eppendorfs vazios e uma caderneta com anotações típicas do tráfico. Wellington admitiu que aquele material era do tráfico de drogas e que pertencia a seu irmão Vagner, alegando que seu irmão residia na mesma avenida, 2 kms a frente. Se deslocaram para a casa de Vagner e foram recebidos por Vagner e Milton. Nessa residência localizaram as drogas, imensa quantidade de cocaína e maconha. No auto de apreensão e exibição de f. 57/59, estão relacionadas a apreensão: item 16) 147.55g de cocaína; 17) 1.100g de maconha; 18) 41.050 cocaína e 19) 34.350g de maconha, sendo que os laudos de 07/09 e 10/12 atestam os princípios ativos.
+
+    Os réus são primários, se conhece a jurisprudência das Cortes Superiores em que se enquadra o mero transportador de drogas, vulgo ‘mula’ nas condições do § 4º, do artigo 33 da Lei 11.343/2006, contudo, neste momento, considerando as circunstâncias do caso concreto, inviável afastar de plano que os réus não fazem parte de organização criminosa. Ao contrário, ao que tudo indica residem no local e detinham grande envolvimento com o manejo da expressiva quantidade de drogas apreendidas. Inclusive, os policiais mencionaram que se tratava de uma verdadeira linha de produção em que se empregava ao menos cinco pessoas. Todos esses indícios sugerem, ao menos neste momento, o envolvimento dos três averiguados em organização criminosa.
+
+    Para a garantia da ordem pública e garantia da futura aplicação da lei penal, bem como demonstrados indícios de autoria e materialidade, estão presentes os requisitos da prisão preventiva.” (e-doc. 5, p. 28-29, grifos nossos).
+
+    10. No ato apontado como coator, o Ministro Relator, referindo-se à decisão proferida pelo Tribunal de Justiça, afastou a alegação de invasão de domicílio nos termos seguintes:
+
+    “O Tribunal de origem afastou a nulidade da violação de domicílio, conforme trecho a seguir destacado (e-STJ, fls. 19-20):
+
+    ‘É dos autos que, em síntese, os policiais estavam em patrulhamento pela rodovia quando avistaram um veículo em atitudes suspeitas e em péssimas condições de rodagem. Assim que o motorista percebeu a aproximação da viatura, efetuou retorno perigoso e voltou para a direção em que vinha. A equipe passou a fazer patrulhamento e o veículo empreendeu fuga, perdendo o veículo de vista quando entrou em um bairro da cidade. Foi irradiado aos colegas para que procurassem o veículo, sendo achado parado em uma garagem. No local estava um dos indiciados, Wellington, que se apresentou como dono do veículo e autorizou busca em seu veículo, sendo que nada de ilícito foi encontrado. O averiguado permitiu que os policiais entrassem na casa e no local foram encontrados dois sacos de eppendorfs vazios e uma caderneta com anotações típicas de tráfico. Wellington admitiu que aquele material era do tráfico de drogas e que pertencia ao seu irmão, alegando que o seu irmão residia na mesma avenida. Se deslocaram para casa de Vagner e foram recebidos por ele e Milton. Nessa residência localizaram drogas, imensa quantidade de cocaína e maconha.
+
+    Ora, por óbvio, não há que se falar em invasão de domicílio do paciente, pois conforme narrado pelos policiais em sede inquisitorial, o ingresso na residência do paciente foi totalmente legal, decorrente de flagrante delito.’
+
+    No caso dos autos, os policiais estavam em patrulhamento pela rodovia quando avistaram um veículo em atitudes suspeitas e em péssimas condições de rodagem. Assim que o motorista percebeu a aproximação da viatura, efetuou retorno perigoso e voltou para a direção em que vinha. A equipe passou a fazer patrulhamento e o veículo empreendeu fuga, perdendo o veículo de vista quando entrou em um bairro da cidade.
+
+    No local estava um dos indiciados, Wellington, que se apresentou como dono do veículo e autorizou busca em seu veículo, sendo que nada de ilícito foi encontrado. O averiguado permitiu que os policiais entrassem na casa e no local foram encontrados dois sacos de eppendorfs vazios e uma caderneta com anotações típicas de tráfico.
+
+    Com efeito, o Tribunal de origem consignou que o ora paciente autorizou a entrada dos policiais. Assim, a inversão do julgado, no ponto, demandaria incursão aprofundada no conjunto fático-probatório dos autos, providência inviável na estreita via do habeas corpus.
+
+    Fora isso, não pode ser examinada a matéria referente à violência emprega pelos policiais militares para ingressar na residência, porque o tema não foi apreciado pela Corte de origem. Logo, sua análise direta por este STJ configuraria supressão de instância, não admitida em nosso sistema processual. É assim que a jurisprudência deste Tribunal Superior tem se manifestado a respeito da questão: (...)” (e-doc. 12, p. 6-7, grifos nossos).
+
+    11. Presente autorização para ingresso no imóvel, não há ilegalidade a ser reconhecida, uma vez que este Supremo Tribunal assentou jurisprudência no sentido de que “o artigo 5º, inciso XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência”. (HC nº 148.965/SC, Rel. Min. Marco Aurélio, Primeira Turma, j. 17/03/2020, p. 22/04/2020).
+
+    12. Verificado que o ingresso dos policiais na residência se deu mediante autorização, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A esse respeito:
+
+     “Agravo regimental em habeas corpus. Penal. Processual Penal. Alegada violação de domicílio. Busca domiciliar autorizada pelo acusado. Legalidade. Precedentes. Vício de consentimento da autorização de ingresso. Reexame de fatos e provas. Agravo regimental não provido. 1. A jurisprudência da Corte está consolidada no sentido de que “o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência” (HC nº 148.965/SC, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 22/4/20). 2. Para se infirmar entendimento contrário ao adotado pelas instâncias ordinárias quanto ao alegado vício de consentimento na autorização para ingresso pelos policiais na residência, seria necessário o reexame do suporte fático probatório, providência incabível em habeas corpus, o qual não admite dilação probatória. Precedente: HC nº 191.508, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 25/11/20. 3.Agravo regimental ao qual se nega provimento.”
+
+    (HC nº 199.227-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 12/05/2021, p. 22/06/2021; grifos nossos).
+
+    “Processual penal. Agravo regimental em habeas corpus. Importação e exposição à venda de produto sem registro na Anvisa e de procedência desconhecida. Busca domiciliar autorizada pelo acusado. Jurisprudência do Supremo Tribunal Federal. 1. A jurisprudência consolidada deste Supremo Tribunal Federal é no sentido de que o art. 5º, XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência. Precedentes. 2. O acolhimento da pretensão defensiva – vício no consentimento para ingresso dos policiais – exigiria o reexame do conjunto fático-probatório da causa, medida incabível na via processualmente restrita do HC. 3. Inexiste situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem. 4. Agravo regimental a que se nega provimento.”
+
+    (HC nº 191508-AgR/ES, Rel. Min. Roberto Barroso, Primeira Turma, j. 11/11/2020, p. 25/11/2020; grifos nossos).
+
+    13. Em relação à alegada agressão empregada pelos policiais militares para ingressar na residência, a questão não passou pelo crivo das instâncias antecedentes. O STJ, sem adentrar o tema, limitou-se a afirmar a impossibilidade de apreciação, uma vez que a matéria não fora objeto de debate no acórdão impugnado. A atuação originária desta Suprema Corte acarretaria dupla supressão de instância e ampliação indevida da competência prevista no art. 102 da CRFB. Assim decidiram o Plenário e ambas as Turmas: HC nº 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p. 13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+
+    14. Por fim, observo que não há constrangimento ilegal a ser sanado na decisão mediante a qual imposta a prisão preventiva. Para além de não se ter configurada a invasão de domicílio, as premissas adotadas pelo Juízo de origem, ao decretar a custódia do paciente, estão em harmonia com a jurisprudência desta Corte, no sentido de que a quantidade elevada e a natureza dos entorpecentes, assim como o contexto em que verificada a prática do crime, sinalizam a gravidade concreta da conduta, ensejando a prisão para fins de garantia da ordem pública. Nessa linha:
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. FLAGRANTE DE CRIME PERMANENTE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IDONEIDADE DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE SOCIAL DO AGENTE. HABEAS CORPUS INDEFERIDO. 1. Nos crimes de natureza permanente, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para o ingresso forçado na residência do acusado, desde que amparado em fundadas razões (Tema n. 280/RG). 2. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – desrespeito à inviolabilidade de domicílio –, do conjunto fático-probatório produzido nas instâncias ordinárias. 3. É idônea a prisão cautelar fundada na garantia da ordem pública, quando evidenciadas a gravidade concreta da conduta e a periculosidade social do agente supostamente envolvido no tráfico de grande quantidade de drogas. 4. Agravo interno desprovido.”
+
+    (HC nº 208.598-AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, j. 02/03/2022, p. 07/04/2022; grifos nossos).
+
+    “Habeas corpus. Direito Processual Penal. 2. Tráfico ilícito de entorpecentes e associação para o tráfico (arts. 33 e 35 da Lei n. 11.343/2006). 3. Prisão em flagrante convertida em preventiva. Pedido de liberdade provisória. 4. Alegação de excesso de prazo na formação da culpa. Não ocorrência. 5. Prisão preventiva. Necessidade de garantia da ordem pública. Gravidade demonstrada pelos dados concretos do delito. Excessiva quantidade de droga apreendida. Fundamentação idônea que recomenda a medida constritiva. 6. Ausência de constrangimento ilegal. Ordem denegada.”
+
+    (HC nº 131.225/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 08/03/2016, p. 25/04/2016; grifos nossos).
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. TRÁFICO DE DROGAS. CRIME PERMANENTE. INVIOLABILIDADE DE DOMICÍLIO. ALEGADA INVASÃO DE DOMICÍLIO AFASTADA PELAS INSTÂNCIAS ANTECEDENTES: REEXAME DE PROVA. PRECEDENTES. ALEGADA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. DIVERSIDADE E QUANTIDADE DE ENTORPECENTE APREENDIDO. AUSÊNCIA DE TERATOLOGIA. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.”
+
+    (RHC nº 218.667-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 19/09/2022, p. 20/09/2022; grifos nossos).
+
+    “Penal e processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal. 1. O entendimento do Supremo Tribunal Federal é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux). 2. As instâncias antecedentes não divergiram dessa orientação, notadamente ao se considerar a “apreensão de grande quantidade de drogas, cerca de 559,905 kg de cocaína que seriam transportados entre estados da federação” (trecho do voto condutor do acórdão proferido pelo STJ). 3. Agravo regimental a que se nega provimento.”
+
+    (HC nº 200.195-AgR/MT, Rel. Min. Roberto Barroso, Primeira Turma, j. 28/06/2021, p. 1º/07/2021; grifos nossos).
+
+    15. Registro, ainda, que o fato de o paciente apresentar atributos favoráveis, a exemplo de primariedade, bons antecedentes, ocupação lícita e residência fixa, por si só, é insuficiente para afastar a prisão (HC nº 154.394-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, j. 29/06/2018, p. 24/08/2018; HC nº 214.290-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 23/05/2022, p. 06/06/2022; RHC nº 217.679-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma, j. 03/10/2022, p. 06/10/2022).
+
+    16. Ante o exposto, nego seguimento ao habeas corpus, com fundamento no art. 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+    Publique-se.
+
+    Brasília, 17 de maio de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
