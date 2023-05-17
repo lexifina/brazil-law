@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (fls. 224-225):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PREJUDICIAL. COISA JULGADA. PARTES E CAUSA DEPEDIR IDÊNTICOS. PEDIDOS DISTINTOS. REJEIÇÃO. MÉRITO. PLEITO DE DEVOLUÇÃO DE JUROSINCIDENTES SOBRE TARIFAS DECLARADAS ABUSIVAS. APLICAÇÃO DOS PRINCÍPIOS DA GRAVITAÇÃOJURÍDICA E DA VEDAÇÃO AO ENRIQUECIMENTO SEMCAUSA. DESPROVIMENTO DO RECURSO.
+- Se as causas a que se refere o apelante não são idênticas, por não haver equivalência de pedidos, deve-se rechaçar a prefacial de coisa julgada.
+- Seguindo a lógica do princípio da gravitação jurídica - segundo o qual o acessório segue o principal -, uma vez declarada a abusividade de cláusulas contratuais, com a consequente devolução do valor com base nelas indevidamente cobrado, a condenação na restituição dos juros remuneratórios incidentes sobre as taxas indevidas é consectário lógico dentro da ideia da vedação ao enriquecimento sem causa.
+- Apelo desprovido.
+Os embargos declaratórios opostos foram rejeitados nestes termos (fls. 303-304):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. PROPÓSITO DEREDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO. IMPOSSIBILIDADE. MANUTENÇÃO DO . DECISUM REJEIÇÃO.
+- O recurso integrativo não se presta a determinar o reexame do conjunto da matéria, com ampla rediscussão das questões, se não estiver presente alguma das hipóteses do art. 1.022 do Novo Código de Processo Civil.
+- Verificando-se que o acórdão embargado solucionou o recurso interposto, apreciando as questões suscitadas no caderno processual de forma devidamente fundamentada, após pormenorizada análise fática e jurídica dos dados constantes nos autos, não há que se cogitar em falha que possa ser sanada por meio de embargos de declaração.
+- A apreciação do pedido de prequestionamento vincula-se ao preenchimento de um dos pressupostos específicos dos aclaratórios, quais sejam, a existência de omissão, obscuridade ou contradição, oque não se verificou no caso em comento.
+Nas razões do recurso especial, a parte recorrente alega violação do art . 337, §§ 1º, 2º e 4º, do CPC, além de divergência jurisprudencial.
+Defende a existência de coisa julgada.
+Afirma que "a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento" (fl. 328).
+Requer o conhecimento e o provimento do recurso para que seja reconhecida a coisa julgada.
+Contrarrazões apresentadas às fls. 376-391.
+O recurso especial foi admitido na origem (fls. 397-399).
+É o relatório. Decido.
+O Tribunal a quo concluiu pela inexistência de coisa julgada, pelas seguintes razões (fl. 229):
+In casu, a promovente pleiteou, na peça exordial, a declaração de nulidade das obrigações acessórias, consistentes nos encargos incidentes sobre as tarifas anteriormente declaradas nulas em processo anterior, bem como a condenação dar é a restituir, em dobro, os valores cobrados em razão destes encargos.
+Inobstante a declaração de nulidade das cláusulas contratuais que preveem a cobrança das referidas tarifas já ter sido objeto de apreciação em demanda ajuizada perante o Juizado Especial, de uma análise acurada da peça pórtica constata-se que, na presente ação, o requerente requer não a devolução do valor cobrado por elas - tutela já obtida -, mas sim da quantia paga pelos juros decorrentes do seu financiamento.
+Destarte, conforme já alinhavado em linhas anteriores, para que houvesse coisa julgada seria necessário a identidade de partes, causa de pedir e pedido. Contudo, na hipótese em análise, a identidade verifica-se apenas nos dois primeiros, sendo os pedidos diversos, uma vez que na demanda anterior buscou o ora apelante a declaração de nulidade das tarifas de cadastro, serviço de terceiro e inserção de gravame, com a repetição de indébito decorrentes de tais cobranças; agora, busca ser restituído pelo montante indevidamente pago, referente aos juros incidentes sobre estas taxas.
+Entretanto, segundo a jurisprudência da Quarta Turma do Superior Tribunal de Justiça, o pedido de devolução dos valores referentes a tarifas bancárias declaradas abusivas em outra demanda, como na espécie, em que há nítida identidade entre as partes, a causa de pedir e o pedido, abrange os juros remuneratórios (acessório), que seguem o valor correspondente à própria tarifa (principal), o que impõe o reconhecimento da coisa julgada.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. Consoante entendimento das Turmas que compõem a 2ª Seção desta Corte, o pedido de devolução dos valores referentes às tarifas bancárias - declaradas abusivas em outra demanda ajuizada em sede de juizado especial cível - abrange, por corolário lógico, os juros remuneratórios, pois estes são acessórios àqueles (principal), havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+Precedentes.
+2. À luz de uma interpretação teleológico-sistemática do disposto no § 3º do art. 3º da Lei 9099/95, a parte, ao escolher demandar junto ao juizado especial, renuncia o crédito excedente, incluindo os pedidos interdependentes (principal e acessório) que decorrem da mesma causa de pedir, e não só o limite quantitativo legal.
+3. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.002.685/PB, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Recurso especial provido. (REsp n. 1.989.143/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/12/2022, DJe de 13/12/2022.)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para, reconhecendo a existência de coisa julgada, extinguir o feito sem resolução do mérito, nos termos do art. 485, V, do CPC .
+Condeno a parte recorrida ao pagamento das custas e dos honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do CPC, observada eventual gratuidade de justiça deferida.
+Publique-se. Intimem-se.
