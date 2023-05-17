@@ -1,0 +1,8 @@
+DECISÃO
+HENRIQUE GOMES SANTANA alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0006378-18.2013.8.26.0292.
+Verifico que não foi trazida à colação cópia da sentença nem da folha de antecedentes criminais do paciente, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração. Nessa diretriz, menciono: HC n. 166.551/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 17/6/2013.
+Ainda que assim não fosse, verifico que o acórdão impugnado transitou em julgado em 2022 e este writ é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
