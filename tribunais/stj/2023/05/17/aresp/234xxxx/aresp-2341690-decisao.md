@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDAÇÃO CEEE DE SEGURIDADE SOCIAL ELETROCEEE, contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, no qual impugna acórdão assim ementado (e-STJ, fl. 486):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO AJUIZADA PELA PATROCINADORA EM FACE DE ENTIDADE DE PREVIDÊNCIA PRIVADA. FUNDAÇÃO ELETROSUL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL ELOS. REFLEXOS DE VERBAS REMUNERATÓRIAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO.
+DETERMINAÇÃO JUDICIAL PARA REPASSE DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. RECUSA DE RECEBIMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS INDEVIDA. SENTENÇA DE PROCEDÊNCIA MANTIDA. APELAÇÃO CÍVEL DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 526-533).
+Nas razões do especial, a agravante apontou a violação dos arts. 11, 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC/2015, alegando que, apesar da oposição de embargos de declaração, o Tribunal estadual deixou de se manifestar sobre questões primordiais suscitadas no recurso, notadamente (a) a incidência dos Temas 955 e 1.021 do STJ; (b) a impossibilidade de repasse, à Entidade Fechada de Previdência Complementar - EFPC, de valores a título de contribuições de custeio que não correspondem à reserva matemática patronal necessária para dar suporte à majoração de benefício previdenciário complementar, por força de decisão proferida nos autos de reclamação trabalhista em que a EFPC sequer foi parte; e (c ) o descabimento de repasse das contribuições para a fundação da forma como pretendida pela recorrida diante da impossibilidade de recálculo do benefício, por ausência de previsão regulamentar e de recomposição prévia e integral da reserva matemática.
+Contrarrazões apresentadas (e-STJ, fls. 572-575).
+O recurso especial foi inadmitido (e-STJ, fls. 578-585), o que motivou a interposição do presente agravo (e-STJ, fls. 593-602).
+Brevemente relatado, decido.
+De início, quanto à alegada violação aos arts. 11, 489, §1º, IV e V, e 1.022, II, parágrafo único, II do CPC/2015, cabe esclarecer que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, não possuindo natureza de efeito modificativo.
+No caso em apreço, a Corte originária, dirimiu a lide com adequada fundamentação, consignando, quanto às alegadas contrariedades às teses fixadas pelo STJ no julgamento dos Temas 955 e 1.021, o seguinte (e-STJ, fl. 483):
+Seguindo, afasto a alegada incidência dos Temas 955 e 1021 do STJ. Isso porque eles tratam de revisão de benefício previdenciário, enquanto que o caso concreto refere-se ao repasse das parcelas que integram o salário de contribuição do participante em sede de ação consignatória, conforme o regulamento ao qual estava sujeito o empregado no curso do contrato de trabalho.
+Em relação à insurgência da apelante sobre a ausência de recomposição integral da reserva matemática, por não ter participado da demanda trabalhista, esta também não merece prosperar. Conforme referido supra, a presente demanda busca tão somente o cumprimento da decisão judicial que determinou o recolhimento da parcela do custeio referente às contribuições do empregado e patrocinador reconhecida na demanda trabalhista, não sendo objeto da lide a revisão de benefício previdenciário.
+Deste modo, não há óbice à consignação em pagamento dos valores a que restou condenada a autora a repassar para a entidade de previdência complementar.
+Observa-se que, no caso apreciado, o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte local não se pronunciou sobre o pleito da ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ela deduzida.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSÓRCIO.
+IMÓVEL. DESISTÊNCIA. MULTA E CLÁUSULA PENAL. ART. 1.022 DO CPC/2015. OMISSÕES. NÃO OCORRÊNCIA. CLÁUSULA PENAL. EFETIVO PREJUÍZO. DEMONSTRAÇÃO. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.109.460/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+ ..
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte agravada em R$ 1.000,00 (mil reais), ressalvada a suspensão da sua exigibilidade em razão de eventual gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. VIOLAÇÃO AOS ARTS. 11, 489 E 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO
