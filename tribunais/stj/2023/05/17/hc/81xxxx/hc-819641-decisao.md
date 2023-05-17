@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de ERICK RYAN PEREIRA SILVAWALDIR ALVES DE MORAES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o ora Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas, pois "Foram apreendidas 173,22g de material vegetal, dispostas em 23 porções, as quais comportaram-se como maconha (laudos preliminares, ID 9765062365 e 9765062374). Também foram apreendidas 124 comprimidos de coloração amarela e 507 comprimidos de coloração azul, os quais em análise preliminar não comportaram-se como MDMA, em que pese não tenha ficado excluído a possibilidade da presença de outros anfetamínicos ou novas substâncias psicoativas(laudo preliminar, ID 9765062354)" (fl. 145). Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, entendendo pela necessidade da prisão preventiva, mormente, considerando a quantidade de drogas; conforme acórdão de fls. 219-239.
+Neste writ, postula a Defesa, em linhas gerais, a revogação da prisão cautelar, alegando a ausência de fundamentação concreta para a segregação cautelar do Paciente, apontando que  os policiais abordaram os autores e realizaram buscas pessoal e veicular, logrando localizar no automóvel de Erick 17 buchas e 5 tabletes de Maconha que totalizavam 170.24g (doc. Doc. ID-9765062374, consultado nos autos originários por meio do SRU-e) e 507 comprimidos azuis semelhantes a ecstasy os quais em análise preliminar não se comportaram como MDMA, em que pese não tenha ficado excluído a possibilidade da presença de outros anfetamínicos ou novas substâncias psicoativas (laudo preliminar, ID 9765062354)  (fl. 4).
+A liminar foi indeferida, às fls. 246-247.
+O Ministério Público Federal em parecer, às fls. 310-314, manifestou-se pela concessão da ordem:
+"Direito Penal e Processual Penal. Habeas Corpus substitutivo de recurso. Inadequação. Tráfico de drogas. Réu primário. Apreensão de 170,24g de maconha. Quantidade de droga que não se mostra capaz de conferir maior gravidade ao delito, inexistindo elementos para se afirmar que solto o paciente irá reiterar a conduta.
+- Requer-se o não conhecimento do habeas corpus, porém, a concessão da ordem, de oficio, para revogar a prisão preventiva" (fl. 310).
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isto porque, em consulta à base de dados desta Corte, verifica-se que foram estendidos ao Paciente os efeitos da decisão concedida a Corréu no habeas corpus n. 819.391/MG, revogando-se a prisão preventiva do ora Paciente, mediante a aplicação de medidas cautelares diversas da prisão, verbis:
+"Portanto, considerando que o juízo de primeiro grau decretou a prisão de LUCIANO HENRIQUE DA SILVA FERNANDES e ERICK RYAN PEREIRA SILVA pelos mesmos fundamentos e mostrando-se semelhantes as circunstâncias fático-processuais, cabível a extensão dos efeitos do benefício.
+Ante o exposto, defiro o pedido de extensão dos efeitos para revogar a prisão preventiva de ERICK RYAN PEREIRA SILVA, mediante a aplicação de medidas cautelares menos gravosas a serem fixadas pelo juízo processante" (HC 819.391/MG, fl. 132).
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
