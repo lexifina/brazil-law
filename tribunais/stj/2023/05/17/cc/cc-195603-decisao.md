@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 3ª Vara Criminal de Belo Horizonte - SJ/MG em face do Juízo de Direito da Central de Inquéritos Policiais de Belo Horizonte - MG, nos autos de inquérito policial em que se apura suposto delito previsto no art. 171, do Código Penal.
+Extrai-se dos autos que "a Caixa Econômica Federal, após o recebimento de representação originária do Banco Central do Brasil, comunicou à Polícia Civil o uso irregular de conta bancária em nome de SAMY DAVID SILVA FERREIRA para o recebimento de depósitos provenientes de golpe" (fl. 103).
+Recebido os autos, o Juízo de Direito da Central de Inquéritos Policiais de Belo Horizonte - MG , com apoio no parecer ministerial, declinou da competência ao Juízo Federal por entender que o delito em questão foi praticado em detrimento de bens, serviços ou interesses de empresa pública da União (fl. 92)
+Nesse contexto, o Juízo Federal da 3ª Vara Criminal de Belo Horizonte - SJ/MG suscitou o presente conflito, sob o fundamento de que "crime em tela ocorreu com o propósito de assegurar o recebimento dos ganhos ilícitos decorrentes do estelionato contra o particular. Sendo assim, compete à Justiça Estadual o processamento e julgamento de crime de estelionato praticado contra particular" (fls. 103 - 105).
+O Ministério Público Federal opinou pela competência do Juízo de Direito da Central de Inquéritos Policiais de Belo Horizonte - MG, o suscitado (fls. 117 - 122), consoante ementa a seguir transcrita:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. ESTELIONATO. USO IRREGULAR DA CONTA BANCÁRIA VINCULADA À CAIXA ECONÔMICA FEDERAL (CEF). OFENSA A PATRIMÔNIO PARTICULAR. AUSÊNCIA DE MANIFESTA LESÃO AINTERESSES DE AUTARQUIA DA UNIÃO. PRECEDENTES DO STJ. PARECER PELA PROCEDÊNCIA DO CONFLITO, COM O RECONHECIMENTO E DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO SUSCITADO - JUÍZO DE DIREITO DA CENTRAL DE INQUÉRITOS POLICIAIS DE BELO HORIZONTE/MG."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre juiz de direito e juiz federal, motivo pelo qual é o Superior Tribunal de Justiça o órgão competente para decidir o conflito, nos termos do artigo 105, I, "d", da Constituição Federal.
+Nos termos do art. 109, IV, a competência penal da Justiça Federal restringe-se às hipóteses em que as infrações penais são perpetradas em detrimento de bens, serviços ou interesses da União, de suas autarquias ou empresas públicas.
+Analisando a controvérsia não se identifica lesão ou prejuízo aos interesses da empresa pública federal, no caso a CEF, no feito.
+Consoante parecer do Ministério Público Federal à fl. 120:
+"No caso vertente, os elementos dos autos indicam que o crime de estelionato (art. 171 do CP) foi praticado por Samy David Silva Ferreira, ao realizar movimentação irregular na sua conta bancária vinculada à Caixa Econômica Federal (CEF), consistente no pedido de depósito de seguro de crédito para assegurar a liberação de falso empréstimo a ser concedido pela empresa Principal Consultoria Financeira Ltda (e-fl. 17). Assim, o efetivo prejuízo projetou-se diretamente nas finanças de firma particular, atingida em seu patrimônio específico, eis que retirado por terceiros e depositado na conta bancária do agente vinculada à CEF, a qual, por seu turno, não foi ofendida em seus interesses nem bens próprios, tendo sido apenas utilizada por aquele que se beneficiou indevidamente do engodo como meio para o recebimento de sua vantagem injusta contra a vítima."
+Diante disso, entendo que a competência para processo e julgamento do feito é da Justiça Estadual.
+Nesse sentido:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ESTELIONATO. EMPRÉSTIMO FRAUDULENTO OBTIDO JUNTO À INSTITUIÇÃO FINANCEIRA PRIVADA, CONSIGNADO NA FOLHA DE PAGAMENTO DE BENEFICIÁRIA DE APOSENTADORIA PAGA
+PELO INSS. PREJUÍZO DE PARTICULAR. AUSÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSES DA UNIÃO OU SUA AUTARQUIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Hipótese em que foi instaurado inquérito policial para apurar a suposta prática do crime de estelionato, consistente na implantação fraudulenta de empréstimo consignado em folha de pagamento de proventos de aposentadoria pagos pelo Instituto Nacional do Seguro Social - INSS a determinada beneficiária, perante instituição financeira privada.
+2. Considerando-se que o delito não foi cometido em detrimento de bens, serviços e interesses da União ou sua entidade autárquica, mas sim contra particulares (aposentada e instituição financeira privada), não há que se falar em competência da Justiça Federal.
+3. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara de Horizontina-RS, o suscitado." (CC 100.725/RS, Terceira Seção, Rel. Min. Jorge Mussi, DJe de 20/05/2010, grifei)
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da Central de Inquéritos Policiais de Belo Horizonte - MG, o suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PENAL. ESTELIONATO. CAIXA ECONÔMICA FEDERAL. AUSÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
