@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ESTANLEY DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação n. 1.699.983-0), que negou provimento ao recurso de apelação defensivo e manteve a condenação do paciente à pena total de 10 anos, 5 meses e 29 dias de reclusão, pelos delitos de tráfico de drogas e associação para o mesmo fim, em regime inicialmente fechado.
+No presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena na primeira fase da dosimetria, tendo em vista a proporcionalidade do patamar adotado.
+Requer, assim (e-STJ fls. 21/22):
+a) A concessão da ordem de habeas corpus, no sentido de demonstrada a necessidade de reforma da respeitável sentença condenatória e acórdão que mantiveram no tocante ao apenamento, requerendo-se o conhecimento do inconformismo da ora paciente/impetrante para, no mérito, seja redimensionada à dosimetria penal, nos termos da fundamentação apresentadas em todos os tópicos da presente impetração;
+Por fim, alternativamente, requer-se a concessão de HABEAS CORPUS". de ofício (artigo 654-§2º CPP), para reconhecer a matéria aqui suscitada, diante da flagrante e latente ilegalidade no tocante as reprimendas penais arguidas na presente impetração, com fundamento nos recentes precedentes desta Corte emanados nos seguintes precedentes AgRg no AREsp 2.123.312/GO, Quinta Turma, relatoria do Ministro Reynaldo Soares da Fonseca. HC 660.930/SP Sexta Turma, relatoria do Ministro Sebastião Reis Júnior e do julgado do Supremo Tribunal Federal consagrado no HC n. 119.357/PR. Segunda Turma, relatoria do Ministro Ricardo Lewandowski e no Agravo em Recurso Extraordinário n. 1.251.949/RS. Segunda Turma relatoria do Ministro Edson Fachin, vez que presentes flagrantes ilegalidades no tocante a fixação da pena aplicada em desfavor do ora paciente.
+Informações prestadas.
+Parecer ministerial "pelo não conhecimento do presente habeas corpus. Se conhecido, pela sua denegação" (e-STJ fl. 282).
+É o relatório.
+Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de acórdão transitado em julgado , olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Por estas considerações, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
