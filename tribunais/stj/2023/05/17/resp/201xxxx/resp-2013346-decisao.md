@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça da referida unidade federativa.
+Depreende-se dos autos condenação do recorrido à pena de 9 (nove) anos e 26 (vinte e seis) dias de reclusão, em regime fechado, pela prática dos crimes do art. 157, § 2º, II, por três vezes e 157, §2º, incisos II e V, e §2-A, I, por duas vezes, na forma do artigo 71, todos do Código Penal, édito mantido pelo eg. Tribunal Bandeirante que negou provimento ao apelo ministerial.
+Nas razões do recurso especial, o Parquet sustenta dissenso jurisprudencial e ofensa aos arts. 69 e 71 do CP, diante da aplicação do crime continuado ao caso, muito embora ausentes os requisitos legais referentes à identidade de modo de execução e unidade de desígnios.
+Apresenta como paradigma o julgados nos autos REsp n. 1.454.566/DF.
+Pugna pelo provimento do recurso especial para seja afastada a continuidade delitiva.
+Apresentadas as contrarrazões (fls. 335-338), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do recurso especial (fls. 350-357).
+É o relatório.
+Decido.
+A caracterização (ou não) do crime continuado, pela presença dos requisitos legais, constitui o cerne do recurso especial.
+Acerca da temática recursal, o eg. Tribunal de origem assim dispôs:
+"O Apelado e seu comparsa praticaram dos crimes de roubo contra as mesmas vítimas, o segundo dois dias após o primeiro, abordando nas suas ocasiões a mesma funcionária, embora no segundo crime tenham abordado também o funcionário Írio. Estão presentes circunstâncias de tempo, local e modo de execução tais que autorizam a ficção de que o segundo crime foi praticado em continuação ao primeiro. A circunstância de a denúncia ter afirmado que no segundo roubo houve restrição da liberdade das vítimas não se me afigura apta a afastar a regra da continuidade, porque aparentemente a restrição não ultrapassou o tempo necessário para a consumação do delito. A sentença, portanto, deu justa e adequada solução ao caso, aplicando corretamente a regra da continuidade delitiva" (fls. 261-263).
+Consoante se denota, a Corte manteve o entendimento do juízo primevo acerca da incidência da continuidade delitiva nos crimes de roubo, praticados "contra as mesmas vítimas, o segundo dois dias após o primeiro, abordando nas suas ocasiões a mesma funcionária,  ..  presentes circunstâncias de tempo, local e modo de execução tais que autorizam a ficção de que o segundo crime foi praticado em continuação ao primeiro".
+Entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela ausência dos requisitos da continuidade delitiva demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, "É incabível, em recurso especial, o revolvimento de fatos e provas com o fim de afastar a conclusão do aresto recorrido e empreender novo exame subjetivo das condições configuradoras da continuidade delitiva. Súmula n. 7 do STJ" (AgRg no AREsp n. 2.180.643/RN, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/2/2023).
+Vale citar, a contrario sensu: AgRg no AREsp n. 2.063.444/MA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 31/3/2023.
+Ademais, "Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem" (AgInt no AREsp n. 1.768.573/SP, Quarta Turma, Rel. Min. Marco Buzzi, DJe de 16/12/2022).
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. RECURSO ESPECIAL MINISTERIAL. ROUBOS MAJORADOS EM CONTINUIDADE DELITIVA. ALEGADA AUSÊNCIA DOS REQUISITOS LEGAIS DO ART. 71 DO CP. REEXAME FACTUAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. SÚMULA 7/STJ
