@@ -1,0 +1,14 @@
+DECISÃO
+O Município de General Sampaio - CE opôs embargos de declaração, impugnando a decisão de fls. 887-890, que acolheu os aclaratórios anteriormente opostos para negar provimento ao recurso especial da União e determinar a devolução dos autos ao Tribunal de origem para aguardar a publicação dos acórdãos dos Recursos Especiais n. 1.850.512/SP e n. 1.877.883/SP, Tema 1076, de Relatoria do Ministro Og Fernandes.
+De acordo com o embargante, não seria cabível a suspensão do presente recurso, haja vista que o citado Tema 1076 refere-se ao alcance da norma inserta no §8º do artigo 85 do Código de Processo Civil, enquanto a sua impugnação trata da suposta ofensa ao art.85, §3º, inciso III do CPC.
+É o relatório. Decido.
+Na presente hipótese, conforme fora determinado na decisão de fls. 887-890, o recurso especial da União foi desprovido; quanto ao recurso especial do Município, que questionava a fixação, no acórdão recorrido, dos honorários advocatícios em R$ 10.000,00 (dez mil reais), determinei que se aguardasse a publicação do recurso especial representativo da controvérsia do Tema 1076, que trata sobre a definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.
+No dia 16/3/2022, a Corte Especial do STJ, em sede de recurso repetitivo (tema 1076), fixou as seguintes teses quanto à fixação de honorários advocatícios:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Veja -se que as teses mencionam os §§ 2º e 3º do art. 85 do CPC, não se limitando à análise do §8º.
+Considerando que o repetitivo já foi publicado, entendo que não se mostra necessário devolver o processo ao Tribunal de origem, sendo possível o seu julgamento por esta Corte Superior.
+As teses fixadas no Tema 1076, portanto, devem ser aplicadas na presente hipótese, haja vista a presença da União como parte.
+Diante do exposto, dou provimento parcial ao recurso especial do Município de General Sampaio - CE para fixar a verba honorária no percentual mínimo de cada inciso do § 3º do art. 85 do CPC/2015, de acordo a redação do § 5º do referido dispositivo.
+Publique-se.
+Intimem-se.
