@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por EVPAR INVESTIMENTOS S.A. e EVER ELETRIC APPLIANCES INDÚSTRIA E COMÉRCIO DE VEÍCULOS LTDA, ambas em recuperação judicial, contra acórdão da Terceira Turma do STJ assim ementado (fl. 530):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido.
+Opostos embargos de declaração, foram rejeitados.
+Neste recurso, sustentam as embargantes que o Superior Tribunal de Justiça sedimentou o entendimento de que, em obediência ao princípio da dialeticidade, o recurso deve impugnar, de maneira específica, todos os fundamentos relevantes da decisão agravada. Argumentam que tal requisito foi cumprido na peça recursal de fls. 489-516, bem com em todas as outras peças que apresentaram desde a instância de origem.
+Assim, ponderam que está autorizada a oposição dos embargos de divergência. Citam, então, o seguinte julgado como divergente: AgInt nos EDcl no AgInt no AREsp n. 1.756.835/PR, no qual se afastou o óbice da Súmula n. 182 do STJ ante a verificação de que os fundamentos do julgado haviam sido impugnados adequadamente.
+Pedem o provimento do recurso para que se reforme a decisão monocrática de fls. 479-485, reconhecendo-se que o recurso especial (fls. 244-275) foi interposto em consonância com o princípio da dialeticidade.
+É o relatório. Decido.
+Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça quando se verificarem idênticas situações fáticas nos julgados, mas com diferente interpretação a respeito da legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou para corrigir regra técnica de conhecimento.
+Verifica-se que o acórdão embargado concluiu que a parte ora embargante não impugnara os fundamentos da decisão agravada e que não era possível a análise do mérito do recurso especial em razão da incidência da Súmula 182 do STJ.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, conforme dispõe a Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada do Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido. (AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020.)
+Ademais, a finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que tenha ocorrido no julgamento do recurso especial, razão pela qual o presente recurso é manifestamente incabível (AgRg nos EREsp n. 954.305/SP, relator Ministro Gurgel de Faria, Terceira Seção, julgado em 24/2/2016, DJe de 14/3/2016; EDcl no AgRg nos EREsp n. 1.316.256/RJ, relator Ministro Felix Fischer, Corte Especial, julgado em 18/11/2015, DJe de 14/12/2015).
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
