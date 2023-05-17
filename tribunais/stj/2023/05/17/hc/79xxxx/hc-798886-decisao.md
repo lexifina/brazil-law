@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido de liminar, impetrado em favor de SIDNEY LIMA DE OLIVEIRA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do Agravo em Execução n. 0006259-80.2022.8.26.0344.
+Depreende-se dos autos que o Juízo da Execução indeferiu o pedido de livramento condicional ao fundamento de não cumprimento do requisito objetivo de lapso temporal.
+Irresignada, a Defesa interpôs Agravo em Execução, ao qual foi negado provimento, nos termos da decisão de fls. 23-30, assim ementado:
+"AGRAVO EM EXECUÇÃO - (i) RETIFICAÇÃO DE CÁLCULOS - Cometimento de falta disciplinar de natureza grave - Evasão do regime prisional intermediário - Fator interruptivo do lapso para a concessão de benesses, inclusive o livramento condicional - Marco inicial, para concessão de benefícios, a partir da data da recaptura - (ii) LIVRAMENTO CONDICIONAL- Concessão - Impossibilidade - Quesito objetivo não adimplido - Manutenção do decisum - RECURSO DESPROVIDO."
+No presente writ, o impetrante sustenta, em síntese, que está submetido a constrangimento ilegal, ao argumento de que atende ao requisito objetivo para a concessão do livramento condicional, porquanto, no caso de unificação de penas, deve ser considerada a data da primeira prisão e não a da última, como teria decidido a autoridade coatora.
+Aponta, assim, que o cálculo realizado para fins de indeferimento do benefício estaria equivocado, pois não teria observado o entendimento vinculante definido no julgamento do Tema n. 1.006/STJ e na Súmula n. 441/STJ.
+Requer, liminarmente, seja cassado o ato coator e determinada nova análise do recurso, considerando-se a data-base de 1º/10/2007 (data da primeira prisão) para o cálculo de penas em relação aos benefícios do livramento condicional, comutação e indulto.
+Pedido liminar indeferido pela Presidência às fls. 137-138.
+Informações prestadas às fls. 142-156.
+O Ministério Público Federal, às fls. 136-138, manifestou-se pela concessão da ordem de ofício, em parecer assim ementado:
+"PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de REsp. Não admissão. Livramento condicional. Requisito objetivo. Cometimento de novo delito. Alteração da data-base. Impossibilidade. Súmula 441/STJ. Precedentes da Corte Superior. Não admissão do writ, com a concessão de um habeas corpus ex officio."
+É o relatório.
+Decido.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, verifica-se a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da parte paciente.
+In casu, o eg. Tribunal estadual entendeu que a prática de falta grave no curso da execução determina a interrupção do lapso temporal para a concessão de benefícios na execução, conforme v. acórdão a seguir (fls. 25-30 - grifei):
+"A decisão deve ser mantida.
+Com efeito, respeitados os posicionamentos em contrário, entendo que, praticada falta grave, interrompe-se a contagem do prazo aquisitivo para fins de progressão de regime e livramento condicional.
+Não se desconhece o teor da Súmula 441,do C. Superior Tribunal de Justiça, a qual estabelece que "A falta grave não interrompe o prazo para obtenção de livramento condicional".
+Todavia, referida Súmula não possui caráter vinculante. Convém salientar, a propósito, que o Colendo Supremo Tribunal Federal tem considerado a falta grave como fator interruptivo do lapso para a consecução do livramento condicional:"
+No que tange à alegação da impetrante de que seria ilegal a alteração da data-base para a concessão de benefícios em razão de cometimento de infração disciplinar de natureza grave, a jurisprudência desta Corte Superior firmou-se no sentido de que a prática de falta grave no curso da execução penal autoriza a regressão de regime prisional e, de igual modo, impõe a alteração da data-base do prazo para a concessão de benefícios executórios, salvo para fins de livramento condicional (Enunciado Sumular n. 441/STJ), comutação de pena ou indulto (Enunciado Sumular n. 535/STJ), consoante julgados nos HC n. 410.801/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, de DJe 16/10/2017; HC n. 369.769/RS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 14/03/2017; HC n. 330.611/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 03/05/2016).
+Verifica-se, pois, que o v. aresto prolatado pelo eg. Tribunal estadual está em dissonância com o entendimento deste Tribunal Superior, restando evidente o constrangimento ilegal suportado pelo paciente.
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, concedo a ordem, para determinar às instâncias ordinárias o afastamento da interrupção do lapso temporal em virtude da falta grave cometida pelo paciente, para concessão do benefício de Livramento Condicional.
+P. I.
