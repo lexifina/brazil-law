@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Ordinário (art. 105, II, "b", da Constituição Federal) interposto contra acórdão assim ementado:
+MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA DO GOVERNADOR DO ESTADO DA BAHIA. TEORIA DA ENCAMPAÇÃO. PRELIMINAR REJEITADA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. IMPUGNAÇÃO INDEFERIDA. DECADÊNCIA E PRESCRIÇÃO DO FUNDO DE DIREITO. PREFACIAIS REJEITADAS. PROSSEGUIMENTO DESTE MANDAMUS INDIVIDUAL. NÃO EXTENSÃO DOS EFEITOS DO WRIT COLETIVO. MÉRITO. INTEGRAÇÃO DA GCET AOS PROVENTOS DE APOSENTADORIA. REQUISITOS INDEMONSTRADOS POR FALTA DE PROVAS. AUSÊNCIA DE LIQUIDEZ E CERTEZA DOS FATOS. SEGURANÇA DENEGADA.
+I - Em razão de o Governador do Estado da Bahia ter apontado o Secretário de Administração, em conjunto com o Comandante Geral da PM, autoridades que lhe são subordinadas, como competentes para a prática do ato almejado pelo impetrante, e ter defendido a legalidade do sobredito ato, atraiu a aplicação da Teoria da Encampação, conforme entendimento cristalizado no enunciado n. 628 da Súmula do STJ. REJEITA-SE a preliminar de ilegitimidade passiva.
+II - O contracheque acostado com a petição inicial revela não ter o impetrante como suportar as custas deste processo sem comprometer as necessidades mínimas de uma pessoa aposentada. Não havendo razões suficientes que afastem a presunção de veracidade da declaração de hipossuficiência, INDEFERE-SE a impugnação à assistência judiciária gratuita.
+III - A hipótese dos autos retrata pretensão relacionada a falta de implementação da GCET nos proventos ao impetrante. Tratando-se omissão estatal, o prazo para se impetrar mandado de segurança renova-se a cada mês que o impetrante deixou de auferir o benefício, a configurar uma relação de trato sucessivo (AgInt no RMS 57.319/AP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/04/2021, DJe 23/04/2021). Prefacial de decadência, rejeitada.
+IV - A percepção da GCET é consequência de ser, o impetrante, policial militar, atualmente na reserva remunerada. Decorre dessa situação jurídica fundamental (ser servidor militar), a pretensão de auferir o sobredito benefício, a qual se renova, na hipótese dos autos, a cada período que deveria ter sido ser pago e não foi, qual seja, mês a mês. Portanto, o que prescrevem são as parcelas a cada 05 (cinco) anos da data em que deveriam ter sido pagas, conforme dicção do art. 1º do Decreto-Lei n.20.910/32. Rejeita-se a preliminar de prescrição do fundo de direito.
+V- Conquanto tenha sido dada oportunidade ao impetrante de se pronunciar sobre a existência do Mandado de Segurança Coletivo n. 8036675-10.2020.8.05.0000, manteve-se ele silente, a significar a não desistência desta demanda, circunstância que afastará os efeitos da coisa julgada formada naquele remédio constitucional.
+VI- Mérito. Inexistindo demonstração de que o impetrante recebia, quando em atividade, a GCET, não há como avaliar nem se ele tinha preenchido os requisitos para que esse benefício fosse integrado aos seus proventos, nem o percentual a que teria direito, a revelar a falta de liquidez e certeza dos fatos.
+VII - DENEGA-SE A SEGURANÇA.
+Nas razões do Recurso (fls. 121-128, e-STJ), o recorrente alega:
+O Recorrente encontra-se na reserva remunerada como 1º Sargento, percebendo os proventos calculados sobre a remuneração de 1º Tenente PM, conforme publicação da sua reserva remunerada em anexo.
+Dentre as gratificações insertas no contracheque do Recorrente, encontra-se a gratificação por Condições Especiais de Trabalho (C. E. T). No entanto, a referida gratificação não tem sido paga, quando deveria ser em 125%, desde o mês que o mesmo foi transferido para a reserva, conforme BGO anexado aos autos.
+Os TENENTES PM recebem o percentual da C. E. T. de 125%. Todavia, o Recorrente, que percebe os proventos de TENENTE PM, não recebe a referida gratificação.
+Alguns critérios configuram o recebimento da C. E. T. (Condições Especiais de Trabalho), e em que pese o caso específico do Recorrente, este trabalhou em uma zona tomada pelos altos índices de violência, diariamente se deparava com troca de tiros e perdia muitas noites.
+Nesta tratativa, o Recorrente possui o mais lídimo direito de ter a gratificação C. E. T. no percentual de 125% incorporada aos seus proventos, haja vista o mesmo preencher os requisitos exigidos da Lei 2.323/66.
+Sem impugnação.
+Parecer do MPF pelo não conhecimento do Recurso às fls. 140-146, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.4.2023.
+Na origem, cuida-se de Mandado de Segurança impetrado contra omissão do Governador do Estado da Bahia, consubstanciada no não pagamento da Gratificação de Condição Especial de Trabalho - GCET no percentual de 125% por ocasião da passagem do impetrante para a reserva remunerada.
+Ao analisar o caso, o Tribunal a quo consignou (fls. 100-102, e-STJ, grifei):
+É preciso pontuar de logo que para a Gratificação de Condição Especial de Trabalho (GCET) ser considerada na composição dos valores dos proventos, é necessário que o militar, quando em atividade, já estivesse recebendo esse acréscimo, haja vista se tratar de vantagem pro labore faciendo, que depende do preenchimento de requisitos e critérios para sua concessão, e não de benefício geral e indistinto.
+(..)
+Outro aspecto a ser observado é que, a referida gratificação, para ser utilizada no cálculo dos proventos da aposentadoria do servidor público militar, mostra-se incontornável a sua percepção por determinado tempo, continuo ou alternado, a revelar, aqui também, a necessidade de o servidor já estar usufruindo desse acréscimo quando em atividade, conforme a regra do art. 110-D da Lei n. 7.990/2001, in verbis:
+(..)
+Observa-se que quando do indeferimento da liminar (ID 23487403), deixou-se expresso que até aquele momento não existiam provas nos autos que demonstrassem ter, o impetrante, recebido a GCET quando em atividade. Essa falta persistiu e ainda persiste, pois nem em réplica o impetrante provou ter recebido a gratificação de que se cuida nestes autos.
+Assim, não provados fatos que dão suporte ao direito que se pleiteia, não se pode falar em liquidez e certeza - que sempre são das ocorrências fáticas, pois os direitos são sempre líquidos e certos -, não cabendo, em sede de mandado de segurança, a instauração de uma fase instrutória, pois os fatos, repise-se, devem estar demonstrados de plano.
+Assim, inexistindo demonstração de que o impetrante recebia, quando em atividade, a GCET, não há como avaliar nem se tinha ele preenchido os requisitos para que esse benefício fosse integrado aos seus proventos, nem o percentual a que teria direito, a revelar a falta de liquidez e certeza dos fatos.
+Esses fundamentos não foram impugnados no Recurso Ordinário, o que atrai, por analogia, a incidência da Súmula 283/STF, .
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. DEDUÇÃO DE PREJUÍZOS FISCAIS. SÚMULAS 283 E 284 DO STF. APLICAÇÃO.
+(..)
+3.É também pacífica a jurisprudência desta Corte no sentido de que "a Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido." (AgRg no RMS 30.555/MG, Rel. Min. Og Fernandes, Sexta Turma, DJe de 1/8/2012; AgInt no RMS 61.194/AC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 29.11.2019).
+(..)
+6. Agravo Interno não provido.
+(AgInt no REsp 1.921.911/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. DELEGADO DA POLÍCIA CIVIL. DEMISSÃO POR TRANSGRESSÃO AO DISPOSTO NOS ARTS. 207, IV, 208, VIII, XV E XVII, 210, XVII, XVIII E XIX, E 211, III, C/C ART. 204, TODOS DA LEI 6.843/86. PROCESSO ADMINISTRATIVO DISCIPLINAR. LEI COMPLEMENTAR ESTADUAL 491/2010. ALEGADAS NULIDADES. AUSÊNCIA DE NOTIFICAÇÃO DO SERVIDOR E DE SEU DEFENSOR DO RELATÓRIO FINAL E DOS PARECERES JURÍDICOS. ALEGADA OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO CONFIGURAÇÃO. FUNDAMENTAÇÃO PER RELATIONEM DA DECISÃO DO GOVERNADOR DO ESTADO. NULIDADE INEXISTENTE. ALEGAÇÃO DE INCOMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA. PORTARIA INSTAURADA POR OUTRA AUTORIDADE. POSSIBILIDADE DE APLICAÇÃO DA SANÇÃO POR AUTORIDADE SUPERIOR COMPETENTE. RECURSO HIERÁRQUICO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA, NO TÓPICO. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+(..)
+XVI. Pacífica a jurisprudência desta Corte no sentido de que "a Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 01/08/2012).
+XVII. Recurso Ordinário parcialmente conhecido, e, nessa extensão, improvido.
+(RMS 43.831/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 26/10/2021)
+Diante do exposto, não conheço do Recurso Ordinário.
+Publique-se.
+Intimem-se.
