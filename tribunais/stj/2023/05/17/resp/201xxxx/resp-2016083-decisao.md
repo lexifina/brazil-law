@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por Nayanna Mourão Soares e outros contra decisão da Corte de origem que não admitiu o recurso especial em razão da sua intempestividade (fls. 1227/1233).
+O recurso especial obstado foi interposto contra acórdão do TJMG, assim ementado (fl. 1049):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE NULIDADE DE TRIBUTO. AUSÊNCIA DE NULIDADE DA SENTENÇA. OBRIGAÇÃO ACESSÓRIA. PREVISÃO LEGAL. ITDC. COMPETÊNCIA. FATO GERADOR. HONORÁRIOS SUCUMBENCIAIS.
+- Não há que se falar em nulidade da sentença que apresenta todos os fundamentos para embasar o convencimento do magistrado.
+- Tendo em vista que a obrigação acessória encontra previsão na legislação vigente no momento da ocorrência do fato gerador, não há ofensa ao principio do irretroatividade das normas tributárias.
+- A competência para exigir o ITCD é do Estado em que o doador tiver domicílio. - O ITCD é um tributo de competência dos Estados e Distrito Federal, cujo fato gerador é a transmissão causa mortis de Imóveis e a doação de quaisquer bens ou direitos. Referido imposto incide na doação a qualquer título, ainda que em adiantamento da legítima.
+- Na fixação dos honorários advocatícios, o §8º do artigo 85, do NC12 C/15 deverá ser interpretado de forma extensiva e aplicado analogicamente para os casos em que o valor da causa for exorbitante ou o valor da condenação for irrisório, em observância aos princípios da proporcionalidade e razoabilidade.
+Embargos de declaração rejeitados.
+No recurso especial, a parte alega violação dos artigos 1.022, inc. I, 489, §1º, inc. IV, 141 e 492, todos do CPC; e dos artigos 36, 41, 105 e 112, todos do CTN, ao fundamento de que: (i) o Tribunal incorreu em omissão ao não enfrentar os argumentos relativos à ofensa aos princípios da legalidade, da irretroatividade e sobre a imunidade constitucional, bem como ao deixar de enfrentar o pedido para anulação da autuação fiscal; (ii) o fato gerador não ocorreu em Minas Gerais, sendo o Fisco mineiro incompetente à luz do art. 41 do CTN; (iii) vulnerou-se os artigos 105 e 112 do CTN, ao usar legislação não vigente à época da doação (30/09/2004) para realizar o lançamento; (iv) violou e conferiu interpretação aos artigos 141 e 492 do CPC/2015 divergente da de outros tribunais.
+Com contrarrazões.
+Juízo negativo de admissibilidade às fls. 1227-1233.
+Decisão conhecendo do agravo para não conhecer do recurso especial às fls. 1269, reconsiderada às fls. 1313, diante da orientação firmada pela Corte Especial no EAREsp n.º 1.927.268/RJ.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso.
+Consoante decidiu o Plenário desta Corte na sessão realizada em 09/03/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Verifica-se dos autos que, a parte recorrente suscitou, ao tratar da incompetência do fisco mineiro, que norma do artigo 41, do CTN se aplica ao ITCD, e prevalece sobre a regra inserida no inciso I, do §2º, do art. 1º, da Lei Estadual 14.941/03, que fundamentou a decisão da Corte local quanto ao ponto (fl. 1078). Suscitou, outrossim, violação dos princípios da irretroatividade e legalidade tendo em vista o uso de pauta fiscal e norma municipal de 2006 para fins do lançamento de fato gerador que, pela lei, se deu em setembro de 2004 (fl. 1082).
+As referidas questões foram suscitadas tanto em apelação quanto nos embargos de declaração. Julgados os embargos de declaração, entretanto, os argumentos permaneceram não analisados (fls. 1060-1062)
+Desta forma, extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito de fatos relevantes, sendo que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios, nos termos da fundamentação.
+Prejudicado o recurso especial do Estado de Minas Gerais de fls. 1179.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ITCMD. VIOLAÇÃO DO ARTIGO 1022 DO CPC. OMISSÃO. OFENSA CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO.
