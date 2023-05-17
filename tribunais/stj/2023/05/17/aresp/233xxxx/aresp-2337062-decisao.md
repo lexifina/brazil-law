@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, cuja ementa guarda os seguintes termos (fls. 60):
+AGRAVO DE INSTRUMENTO. DECISÃO QUE APLICA MULTA POR LITIGÂNCIA DEMÁ-FÉ. DESCABIMENTO. A decisão que fixou multa por litigância de má-fé não comporta impugnação por agravo de instrumento.
+Sem embargos de declaração.
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Alega, ainda, que é cabível agravo de instrumento, no caso, considerando se enquadrar a decisão impugnada no inciso II do art. 1015 do CPC, e que é improcedente a imposição de multa por litigância de má-fé, porquanto para caracterização de litigância de má-fé, capaz de ensejar a imposição de multa nos termos do art. 81 do CPC, é necessário o elemento subjetivo, qual seja, a intenção dolosa.
+Afirma que "verifica-se que foi presumida a má-fé pela simples interposição de embargos de declaração com invocação de omissão considerada inexistente pelo órgão julgador. Todavia, não se pode embasar tal punição com base apenas em circunstância objetiva, sem investigação e/ou demonstração do elemento psicológico da conduta indevida" (fls. 81).
+Sem contrarrazões ao recurso especial (fls. 91).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 92/97 ), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se que o Tribunal de origem, ao não conhecer do agravo de instrumento do recorrente, ao fundamento de que a decisão que fixou multa por litigância de má-fé não comporta impugnação por agravo de instrumento, deixou de apreciar a procedência da questionada multa.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal do recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Neste sentido:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais sob pena de incidir no intransponível óbice de ausência de prequestionamento.
+Nesse sentido:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial, e, na pa rte conhecida, negar-lhe provimento
+Publique-se. Intimem-se.
