@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO BENEDITO CONCEIÇÃO (ANTONIO) contra decisão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. EMBARGOS DE TERCEIRO. IMÓVEL. POSSE. ANIMUS DOMINI. RECONHECIMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fls. 1020/1023)
+Nas razões do presente inconformismo, sustentou que houve obscuridade na decisão, haja vista que o cerceamento de defesa não está na prova requerida e não produzida, e sim, na ausência de concessão do direito da parte a requerer provas, o que acarreta em cerceamento de defesa, uma vez que a sentença de primeiro grau foi prolatada antes do término do prazo para manifestação das partes.
+É o relatório
+Decido.
+Os embargos de declaração não merecem prosperar.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art.1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no presente caso.
+A decisão desta Corte Superior apenas reitera fundamento realizado pelo próprio Tribunal de Justiça do Estado de São Paulo - responsável pela análise de provas - que assevera: nem se há que falar em cerceamento de defesa, matéria essa que nem ao de leve se verifica, pois que nem, haveria necessidade de produção de provas, de direito a questão, apenas (e-STJ, fls. 790).
+Dessa forma, destaco que a mera veiculação de inconformismo não é finalidade a que se prestam. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR INDENIZATÓRIO MANTIDO. NÃO PROVIMENTO. 1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional. 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ). 3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.024.333/MG, relatora Ministra MARIA ISABE L GALLOTTI, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022- sem destaque na original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. OBSCURIDADE. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
