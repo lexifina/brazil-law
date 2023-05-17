@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo Interno contra o não conhecimento do Recurso Especial por incidência da Súmula 7/STJ.
+Defende o Conselho Regional de Medicina do Estado do Rio de Janeiro - CREMERJ:
+Não foi observado pelo ínclito julgador a colisão do r. Acórdão da colenda 7º Turma especializada com o disposto no art. 2º da Lei de Execução Fiscal, senão vejamos:
+Art. 2º -  ..  § 8º - Até a decisão de primeira instância, a Certidão de Dívida Ativa poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos.
+Ora, resta inequivocamente comprovada a impossibilidade de arguição da Súmula 7, na forma do art. 1030, V, do CPC, pelos argumentos já produzidos.
+Certo se demonstra que os vícios presentes na Certidão de Dívida Ativa são facilmente corrigidos sem óbice de prejuízos ao Executado. Nesse sentido, segue jurisprudência do Superior Tribunal de Justiça:
+ ..
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10 de abril de 2023.
+É caso de revisão do decisum. Os Tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente. Assim, supero a incidência da Súmula 7/STJ. O Tribunal de origem manteve a extinção da Execução Fiscal por entender insanável o vício do título executivo, devido ao uso de indexador equivocado para fins de atualização monetária.
+O Superior Tribunal de Justiça sedimentou o seu entendimento no sentido de que a alteração do valor constante da Certidão da Dívida Ativa (CDA) em decorrência da configuração do excesso de execução não macula a liquidez nem a exigibilidade do referido título executivo extrajudicial, contanto que a quantia devida possa ser aferida por meros cálculos aritméticos, hipótese em que o valor excessivo deve ser decotado do débito cobrado, sem a necessidade de retificação ou substituição da Certidão da Dívida Ativa (CDA). Destaco os seguintes precedentes: AgInt no REsp 1.704.550/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 14.8.2018 e AgInt no AREsp 1.488.089/SP, Relator Ministro Francisco Falcão, Segunda Turma, DJe 11.5.2020.
+A Primeira Seção tem entendimento de que o excesso da cobrança do tributo não é suficiente para anular o título executivo extrajudicial (CDA) se o valor devido puder ser apurado por meros cálculos aritméticos. (REsp 1.115.501/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 30.11.2010)
+A referida orientação aplica-se à adequação dos juros de mora para fazer incidir a taxa Selic. Colho a ementa de recente acórdão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. APURAÇÃO DO MONTANTE QUE PODE SER FEITA MEDIANTE SIMPLES CÁLCULO ARITMÉTICO PARA SE RETIFICAR O VALOR INSCRITO. NULIDADE DA CDA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE ALTERAR A BASE DE CÁLCULO. IMPOSSIBILIDADE. INCURSÃO NO CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Em relação as CDAs, o Tribunal local consignou: "Entendo que as certidões da dívida ativa nº 1.221.329.749 e 1.222.998.469, após devida retificação para aplicar os juros conforme a Selic, preenchem todos os requisitos previstos no art. 202 do CTN e não padecem de irregularidade quanto à inscrição do débito, não se configurando a nulidade alegada pela empresa na inicial, bastando a realização de mero cálculo aritmético para adequação dos juros. (..) Desta forma, entendo que a decisão de primeiro grau corretamente reconheceu a impossibilidade de aplicação dos juros previstos na Lei Estadual nº 13.918/09, sendo inviável reconhecer a nulidade das CDAs, uma vez que é possível a revisão dos valores inscritos, de modo a afastar a lei inconstitucional, aplicando-se a Selic." (fls. 32-35, e-STJ, grifos acrescidos).
+2. Conforme já mencionado no decisum monocrático, o acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que "é possível prosseguir na execução fiscal sem necessidade de emenda ou substituição da CDA, quando viável o decote das parcelas do título executivo fiscal tidas por ilegais na sentença por simples cálculo aritmético, permanecendo incólume a presunção de liquidez e certeza do título executivo" (REsp 1.887.677/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5.10.2020).
+ ..
+6. Agravo Interno não provido. (AgInt no REsp 1.791.067/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/12/2021)
+Assim, reconsidero a decisão de fls. 215-217, e-STJ, tornando-a sem efeito.
+Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial e determinar o regular prosseguimento da Execução Fiscal, com a intimação da exequente, ora recorrente, para proceder à adequação da CDA, com a alteração do indexador utilizado na atualização do débito executado.
+Publique-se. Intimem-se.
