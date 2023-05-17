@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de RECURSO EM HABEAS CORPUS, com pedido liminar, interposto por MARIO D"AMORE JUNIOR contra acórdão assim ementado (fl. 112):
+HOMICÍDIO QUALIFICADO (artigo 121, § 2º, incisos. II e IV, do Código Penal). Prisão preventiva. Revogação. Impossibilidade. Decisão que decretou a prisão preventiva do paciente, assim como as que a mantiveram fundamentadas. Presença dos requisitos do artigo 312, do Código de Processo Penal. Inadequação e insuficiência das medidas cautelares alternativas previstas no artigo 319, do mesmo estatuto, ou de concessão de prisão domiciliar. Inexistência de constrangimento ilegal. Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 121, § 2º, II e IV, do Código Penal.
+Sustenta a defesa, em síntese, a ausência de fundamentação idônea para decretação da prisão preventiva do acusado, que possui condições pessoais favoráveis. Alega que o recorrente chegou com a arma apontada para baixo; que a criança que estava no local dos fatos estava correndo na direção oposta à que o recorrente ia; que o recorrente estava caminhando na direção oposta à da irmã da vítima que o filmava; que a irmã da vítima seguiu o recorrente com a câmera do celular, ao mesmo tempo em que outras duas pessoas surgem em torno dele; que uma pessoa (possivelmente a vítima) puxou o recorrente para o lado, derrubando-o por cima dela, nada mais.
+Ainda, afirma que é o caso de concessão da prisão domiciliar, uma vez que o recorrente possui hipertensão arterial, diabetes, doença pulmonar obstrutiva crônica, sequelas pulmonares de infecção por COVID-19 e Depressão.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar ou a aplicação de medidas cautelares alternativas.
+Em consulta ao sistema processual deste Sodalício, verifica-se que, perante esta Corte, foi impetrado em favor do recorrente o HC n. 808.653/SP, impugnando o mesmo acórdão aqui combatido e sob os mesmos argumentos ora levantados, o qual teve a ordem denegada em decisão proferida em 22/03/2023.
+Constata-se, portanto, que a presente impetração se constitui em mera reiteração do pedido anteriormente formulado no writ apontado, fato que se consubstancia em óbice ao conhecimento do presen te recurso.
+Ante o exposto, com fundamento no artigo 210 do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se e intime-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
