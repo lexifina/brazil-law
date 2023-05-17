@@ -1,0 +1,106 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0740522-90.2022.8.07.0000AGRAVANTE(S)SINDICATO DOS SERV.PUBLICOS CIVIS DA ADM.DIR AUT.FUND. E TCDFAGRAVADO(S)SERVICO DE LIMPEZA URBANA - SLURelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1704119
+
+EMENTA
+
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. TÍTULO EXECUTIVO. GÊNESE. AÇÃO COLETIVA PROMOVIDA POR SINDICATO. PEDIDO. ACOLHIMENTO. ALCANCE SUBJETIVO. INTEGRANTES DA CATEGORIA PROFISSIONAL. CUMPRIMENTO DE SENTENÇA. NATUREZA INDIVIDUAL. ANGULARIDADE ATIVA. SINDICATO EM SUBSTITUIÇÃO PROCESSUAL. BENEFICIÁRIOS. SERVIDORES SINDICALIZADOS. DIREITO INDIVIDUAL HOMOGÊNEO. CARACTERÍSTICA. DIVISIBILIDADE. CRÉDITO PARTICULARIZADO. INDIVIDUALIZAÇÃO. LEGITIMAÇÃO EXTRAORDINÁRIA DA ENTIDADE SINDICAL. DETERMINAÇÃO DE EMENDA À INICIAL. ALTERAÇÃO DA COMPOSIÇÃO ATIVA DO EXECUTIVO. INSERÇÃO DOS SUBSTITUÍDOS. DESNECESSIDADE. LEGITIMIDADE CONCORRENTE. AGRAVO DE INSTRUMENTO PROVIDO.
+
+1.        A despeito da natureza coletiva do título executivo originário de ação de conhecimento coletiva, o sindicato da categoria em que estão integrados os beneficiários do direito reconhecido detém legitimação para promover a execução individual, ainda que fracionada, do título coletivo, agindo assim na qualidade substituto processual de parte dos sindicalizados.
+
+2.        A legitimidade do ente sindical para substituir os associados, inclusive em ambiente executivo, deriva de expressa previsão legal adunada em gênese constitucional, não dependendo a substituição processual sequer de prévia associação ao ente sindical nem o título obtido é limitado aos associados, alcançando toda a categoria profissional (CF, art. 8º, inc. III), não estando a atuação da entidade limitada, ademais, às execuções tipicamente coletivas, porquanto já reconhecida sua ampla legitimidade representativa (STF, Tema 823)..
+
+3.        Aferido que o ente sindical que integra angularidade ativa do executivo atua na condição de substituto processual de alguns filiados individualmente nomeados beneficiados pela sentença coletiva, inexorável a natureza individual da liquidação ou do cumprimento de sentença, porquanto não atua o sindicato, na hipótese, na defesa de interesses ou direitos essencialmente metaindividuais (difusos e coletivos em sentido estrito), mas na defesa de interesses ou direitos subjetivos individuais e divisíveis que conferiram autorização legal para serem defendidos em juízo pela via individual.
+
+4.        O legislador constituinte, ao fixar a legitimidade da entidade sindical para ajuizar ações em defesa dos direitos e interesses dos sindicalizados, não estabelecera nenhuma limitação quanto ao conteúdo ou à natureza do direito vindicado, como se extrai do disposto no artigo 8º, inciso III, da Constituição da República, reafirmado pelo artigo 3º da Lei nº 8.073/90, estendendo-se a legitimação para a execução destinada ao recebimento dos direitos já reconhecidos por sentença transitada em julgado em favor dos servidores substituídos.
+
+5.        Agravo de instrumento conhecido e provido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e CARLOS PIRES SOARES NETO - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 25 de Maio de 2023
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento interposto pelo Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal - SINDIRETA/DF em face da decisão que, nos autos do cumprimento individual de sentença coletiva que maneja em desfavor do agravado – Serviço de Limpeza Urbana – SLU –, determinara, dentre outras medidas, que apresente emenda à petição inicial, alterando a composição ativa do executivo e declinando os substituídos que deverão integrá-la, tendo em vista tratar a hipótese de cumprimento individual de sentença. Inconformado com aludida compreensão, almeja o agravante, mediante o recebimento do recurso com efeito suspensivo, o sobrestamento dos efeitos da decisão agravada, e, ao final, seja conhecido e provido, reformando-se o provimento arrostado, independentemente da retificação da angularidade ativa.
+
+Como fundamentos aptos a aparelharem a pretensão reformatória que veiculara, argumentara, em suma, que, na qualidade de substituto processual extraordinário, deflagrara cumprimento de sentença de título executivo judicial genérico, porquanto originário de mandado de segurança coletivo, que reconhecera a obrigação de pagar quantia certa. Salientara que atua, como sindicato, como substituto processual extraordinário e representante da categoria, em benefício de 45 (quarenta e cinco) filiados, ficando patente a natureza coletiva do executivo. Registrara que promove a execução como representante da categoria, de modo que não são os titulares do direito material, em nome próprio e em litisconsórcio ativo facultativo, que postulam em juízo o cumprimento do direito individual homogêneo reconhecido, atuando como sindicato e na qualidade de substituto processual extraordinário e representante da categoria.
+
+Acentuara que atua, pois, em nome próprio na defesa de direitos dos substituídos processuais, independentemente de qualquer autorização. Mencionara que, como ente sindical, ostenta poderes específicos para representar, em juízo, todos os substituídos processuais, ficando patente que a determinação de retificação do polo ativo do cumprimento de sentença para que conste o nome dos substituídos ressoa equivocada. Esclarecera que o causídico que o representa não possui procuração individual específica dos filiados por tratar o caso de substituição processual, sobejando prescindível autorização e procuração dos filiados.
+
+Destacara que o Supremo Tribunal Federal, por ocasião do julgamento do RE 883.642, realizado sob a fórmula da repercussão geral, firmara o entendimento enunciado no Tema 823, no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos. Defendera, então, ser desnecessária a exibição de procurações e documentos pessoais, porquanto o sindicato atua como substituto processual, e não como representante dos credores.
+
+Acentuara que os substituídos listados na memória de cálculo anexada à petição inicial não figuram como litisconsortes ativos facultativos, tendo em vista que é o autor do cumprimento de sentença em benefício dos integrantes da categoria. Consignara que, diante dessas circunstâncias, estando patente a plausibilidade do direito que vindica, a decisão devolvida a reexame afigura-se desprovida de sustentação, devendo, portanto, ser reformada, o que legitima, inclusive, estando a argumentação que alinhara revestida de verossimilhança, a concessão do provimento em sede de antecipação da tutela recursal, suspendendo a decisão agravada.
+
+Admitido o agravo, o efeito suspensivo reclamado fora deferido, ocasião em que fora determinada a comunicação do decidido ao ilustrado prolator do provimento arrostado e a intimação do agravado para contrariar o recurso[1].
+
+Conquanto devidamente intimado, o agravado abstivera-se de contrariar o recurso[2].
+
+É o relatório.
+
+[1] - ID Num. 41944518.
+
+[2] - ID Num. 40062767.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cabível, tempestivo, preparado, subscrito por advogado devidamente constituído e corretamente aparelhado, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo.
+
+Cuida-se de agravo de instrumento interposto pelo Sindicato dos Servidores Públicos Civis da Administração Direta, Autarquias, Fundações e Tribunal de Contas do Distrito Federal - SINDIRETA/DF em face da decisão que, nos autos do cumprimento individual de sentença coletiva que maneja em desfavor do agravado – Serviço de Limpeza Urbana – SLU –, determinara, dentre outras medidas, que apresente emenda à petição inicial, alterando a composição ativa do executivo e declinando os substituídos que deverão integrá-la, tendo em vista tratar a hipótese de cumprimento individual de sentença. Inconformado com aludida compreensão, almeja o agravante, mediante o recebimento do recurso com efeito suspensivo, o sobrestamento dos efeitos da decisão agravada, e, ao final, seja conhecido e provido, reformando-se o provimento arrostado, independentemente da retificação da angularidade ativa.
+
+De acordo com o alinhado, o objeto deste agravo cinge-se à aferição se viável ao agravante, como sindicato, manejar execução de título judicial valendo-se da legitimidade extraordinária que o assiste para demandar em nome de toda a classe de substituídos ou de alguns substituídos expressamente nominados. Assim pontuada a matéria controversa, deve ser registrado que sobeja impassível que o título executivo que aparelha o cumprimento de sentença aviado pelo agravante é originário de mandado de segurança coletivo anteriormente impetrado pelo próprio sindicato, ficando patente a natureza coletiva do título.
+
+Conquanto o título executivo ostente natureza coletiva, o cumprimento de sentença deflagrado possui natureza individual, ainda que sua angularidade passiva seja integrada pelo ente sindical. É que, conforme consta da relação originalmente coligida aos autos do cumprimento de sentença, o agravante atua na qualidade de substituto processual de 28 (vinte e oito) filiados[1], regularmente individualizados. Nesse contexto, inviável considerar e tratar o cumprimento de sentença coletiva como executivo coletivo. Ora, o executivo diz respeito a 28 (vinte e oito) associados, e não ao conjunto genérico de filiados sindicalizados, ficando patente, sob essa ótica, a natureza individual do cumprimento de sentença deflagrado pelo agravante.
+
+O que sobeja é que alguns dos beneficiados pelo título executivo, substituídos processualmente pelo sindicato, ora agravante, deflagraram o cumprimento de sentença subjacente, ressoando impassível o interesse meramente privado de cada parte beneficiada pelo título executivo, inviabilizando o acolhimento da tese recursal de que se trata de cumprimento coletivo de sentença. É que, conforme pontuado, o agravante não atua na defesa de interesses ou direitos essencialmente metaindividuais (difusos e coletivos em sentido estrito), mas na defesa de interesses ou direitos subjetivos individuais e divisíveis que conferiram autorização legal para serem defendidos em Juízo pela via individual.
+
+A despeito dessa nuança, a determinação para que o agravante regularize a representação processual dos substituídos, exibindo as respectivas procurações e documentos pessoais, carece de lastro legal. Quanto ao tópico, deve ser salientado que, ante a legitimidade conferida ao Sindicato para o ajuizamento de ações na defesa dos direitos da categoria que assiste, alcança a legitimação que ostenta a execução destinada ao recebimento dos direitos já reconhecidos por sentença transitada em julgado em favor dos servidores substituídos. O legislador constituinte, ao fixar a legitimidade da entidade sindical para ajuizar ações em defesa dos direitos e interesses dos sindicalizados, não estabelecera nenhuma limitação quanto ao conteúdo ou à natureza do direito vindicado, como se extrai do disposto no artigo 8º, inciso III, da Constituição da República, verbis:
+
+“Artigo 8º - ...
+
+....
+
+III - Ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas.”
+
+Seguindo o mandamento constitucional, a Lei 8.073/90, em seu artigo 3º, reafirmara a prerrogativa assegurada às entidades sindicais[2] de atuarem como substitutos processuais dos integrantes da respectiva categoria. Sobeja, desse modo, inexorável que a legitimidade extraordinária do Sindicato é ampla e irrestrita e independente das circunstâncias de se tratar da defesa de um único ou de vários substituídos ou de direito disponível e particularizado, segundo situação funcional própria e específica. Ou seja, o sindicato não está revestido de legitimidade para defender somente os interesses individuais homogêneos da categoria que representa, mas quaisquer interesses individualizados ou coletivos da categoria. É que o dispositivo constitucional não contempla essa restrição, o que obsta que o exegeta dele a extraia e module restritivamente a legitimidade conferida aos entes sindicais.
+
+Essa apreensão resulta na constatação da legitimidade do agravante para formular o subjacente cumprimento de sentença, segundo os parâmetros reputados corretos, em favor de seus filiados, pois atendera os pressupostos da substituição processual, afigurando-se prescindível a exibição de procurações individualmente outorgadas pelos substituídos ou autorização individual ou coletiva dos filiados, uma vez que as prerrogativas do sindicato derivam diretamente da lei (art. 3º, Lei 8.073/90) e da Constituição Federal (art. 8º, III). Trata-se, repita-se, de legitimação extraordinária, que, por isso, dispensa qualquer autorização, que somente se mostraria indispensável em caso de representação processual.
+
+Essa, aliás, foi exatamente a tese jurídica firmada pela Suprema Corte nos autos do RE 883642/AL, julgado sob a sistemática de repercussão geral (Tema 823 – “Legitimidade dos sindicatos para a execução de título judicial, independentemente de autorização dos sindicalizados.”). É o que se infere a tese que ora se transcreve:
+
+“RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.” (RE 883642 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 18/06/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-124 DIVULG 25-06-2015 PUBLIC 26-06-2015)
+
+A argumentação alinhada, a par de se conformar com o dispositivo constitucional e legal que conferem tratamento ao havido, encontra ressonância em precedentes originários do Superior Tribunal de Justiça, consoante demonstram as ementas abaixo transcritas:
+
+“PROCESSUAL CIVIL. SINDICATO. LEGITIMIDADE ATIVA PARA A EXECUÇÃO DESENTENÇA EM AÇÃO COLETIVA. PRECEDENTES DA CORTE ESPECIAL.1. O Sindicato possui legitimidade ativa, independente de autorização expressa do associado, para promover a execução de sentença proferida em ação coletiva sobre direitos individuais homogêneos. 2. Agravo regimental a que se nega provimento”. (1427333 RN 2011/0236335-9, Relator: Ministro TEORI ALBINO ZAVASCKI, Data de Julgamento: 19/04/2012, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 26/04/2012)
+
+“ADMINISTRATIVO. EXECUÇÃO. AÇÃO PROPOSTA POR ENTIDADE ASSOCIATIVA EM FAVOR DOS ASSOCIADOS. LEGITIMAÇÃO EXTRAORDINÁRIA. AUTORIZAÇÃO EXPRESSA. DESNECESSIDADE. 1. As associações e sindicatos, na qualidade de substitutos processuais, têm legitimidade para a defesa dos interesses coletivos de toda a categoria que representam, sendo dispensável a relação nominal dos afiliados e suas respectivas autorizações. Súmula 629/STF. Precedentes do STJ. 2. Agravo regimental não provido.” (AgRg no REsp 1185824/GO, Rel. Ministro Castro Meira, Segunda Turma, julgado em 13/12/2011, DJe 16/02/2012)”
+
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. LEGITIMIDADE ATIVA DO SINDICATO. POSSIBILIDADE. AUXÍLIO-TRANSPORTE. USO DE VEÍCULO PRÓPRIO NO DESLOCAMENTO. CABIMENTO. DECISÃO AGRAVADA MANTIDA. 1. O sindicato tem legitimidade para representar seus associados, atuando como substituto processual, não sendo necessária a sua expressa autorização. 2.  É possível a percepção por parte do servidor, de auxílio-transporte, ainda que se utilize de veículo próprio para o deslocamento afeto ao serviço. 3. Agravo regimental a que se nega provimento.” (AgRg nos EDcl no Ag 1261686/RS, Rel. Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), Quinta Turma, julgado em 18/08/2011, DJe 03/10/2011).
+
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA. EXTENSÃO AOS INATIVOS. ENTIDADE SINDICAL. LEGITIMIDADE ATIVA. PARIDADE. HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 1. O sindicato, na qualidade de substituto processual, tem legitimidade para atuar nas fases de conhecimento, liquidação e execução de sentença proferida em ações versando direitos individuais homogêneos, dispensando prévia autorização dos trabalhadores. Precedente: EREsp 760.840/RS, Corte Especial, Rel. Min. Nancy Andrighi, DJe 14/12/2009. 2. A recorrente não demonstrou, nas razões recursais, a exorbitância da condenação em honorários advocatícios, razão pela qual impõe-se a aplicação da Súmula 284/STF. 3. A abertura da via especial pressupõe a indicação clara e objetiva dos dispositivos legais supostamente violados, sendo que a mera alegação genérica de ofensa a leis federais atrai a incidência da Súmula 284/STF, por deficiência na fundamentação. 4. Recurso especial parcialmente conhecido e, nesta parte, não provido.” (REsp 1237947/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 08/11/2011, DJe 17/11/2011).
+
+Alinhados esses argumentos e ante o fato de que o sindicato ostenta, de fato, legitimação extraordinária para ocupar a angularidade ativa do cumprimento de sentença atuando como substituto processual, sobejando prescindível a autorização dos substituídos, deve ser afastada a determinação no sentido de alteração da composição ativa do executivo para nele inserir os filiados individualizados na memória de cálculo anexada à petição inicial.
+
+Diante dos argumentos alinhados, provejo o agravo para, reformando a decisão agravada, afastar a determinação de emenda da inicial que aparelha o executivo subjacente no tocante à composição ativa, determinando o processamento do executivo nos termos em que formulado pela entidade sindical, salvo se divisado outro óbice procedimental que demande saneamento. Sem custas finais.
+
+É como voto.
+
+[1] - ID Num. 117050437 - Pág. 1 (fls. 106) – ação principal.
+
+[2] - Lei 8.073/90. Art. 3º. “As entidades sindicais poderão atuar como substitutos processuais dos integrantes da categoria”.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorO Senhor Desembargador CARLOS PIRES SOARES NETO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
