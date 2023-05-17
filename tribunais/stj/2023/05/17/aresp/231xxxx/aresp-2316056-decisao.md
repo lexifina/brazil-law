@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPHAB/RN COOP HABIT DOS SERV E TRAB SINDICALIZADOS DO RIO GRANDE DO NORTE contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio Grande do Norte, assim ementado:
+EMENTA: DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO CÍVEL E RECURSO ADESIVO. FALTA DE ENTREGADE EMPREENDIMENTO IMOBILIÁRIO. AUSÊNCIA DE MORA DO ADQUIRENTE. SÚMULA 543 DO STJ. CULPA EXCLUSIVA DA COOPERATIVA. RESTITUIÇÃO INTEGRAL DO VALOR PAGO PELO APELADO. DANO MORAL CONFIGURADO. APELAÇÃO CONHECIDA E PROVIDA E RECURSO ADESIVO CONHECIDO EDESPROVIDO.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento". (Súmula 543/STJ)
+2. No caso concreto, resta demonstrada a relação jurídica entre as partes, mediante juntada do termo de ato cooperativo firmado para a compra e venda de imóvel residencial, bem como a pretensão do autor/apelado de rescisão contratual haja vista a impossibilidade de êxito na entrega do empreendimento adquirido.
+3. No que concerne ao pleito de indenização por danos morais, é inegável que a constatação de inexecução do imóvel adquirido pelo autor, ao mesmo tempo em que caracteriza o inadimplemento contratual por parte da cooperativa, implica em danos morais decorrente da frustração ao não receber imóvel, mesmo tendo honrado com suas obrigações contratuais, razão pela qual se afigura devida a reparação.
+4. Não resta dúvida de que o aborrecimento proveniente do descumprimento contratual pela Cooperativa ultrapassou a esfera da normalidade, ou seja, do mero aborrecimento do cotidiano, com repercussão relevante na vida do autor/apelante, haja vista se tratar de negócio cuja perfectibilização proporciona expectativa se ordem pessoal, familiar e social.
+5. Conhecimento e provimento do apelo da parte autora, para fixar o valor a título de indenização por dano moral em R$ 6.000,00 (seis mil reais) e conhecimento e desprovimento do recurso adesivo da COOPHAB/RN COOP HABIT DOS SERV E TRAB SINDICALIZADOSDO RIO GRANDE DO NORTE.
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMENTA: PROCESSUAL CIVIL. EMBARGOS DEDECLARAÇÃO EM APELAÇÃO CÍVEL. INEXISTÊNCIADE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. INOCORRÊNCIA DE QUALQUER DAS HIPÓTESESPREVISTAS NO ARTIGO 1.022 DO CPC/2015. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. QUESTÕES DEVIDAMENTEDEBATIDAS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA DE TESE CAPAZ DE INFIRMAR ADECISÃO RECORRIDA. CONHECIMENTO E REJEIÇÃODOS EMBARGOS DE DECLARAÇÃO.
+1. No caso concreto, há inconformismo da embargante diante dos fundamentos da decisão, objetivando que seja modificada, não só em sua conclusão, como também no que se refere à , efeitos para os quais não ratio decidendi se prestam os presentes embargos declaratórios, devendo a parte, querendo, valer-se das ferramentas recursais dirigidas a órgão julgador diverso.
+2. A jurisprudência é pacífica no sentido de que os embargos declaratórios não se prestam à rediscussão de matéria já apreciada em sede de recurso, mesmo porque a obscuridade, a contradição e a omissão a que se refere alei processual são quanto aos fundamentos da decisão, e não quanto aos inconformismos da parte que não teve acolhida sua tese.
+3. Verificando-se que o acórdão embargado abrangeu fundamentadamente toda a matéria trazida para análise, deve ser afastada a hipótese de omissão do julgado.
+4. Fica reservado ao embargante o direito assegurado pelo art. 1.025 do CPC, o qual prevê que "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+5. Precedente do STJ (AgInt no AREsp 861.826/MS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j.19/05/2016)
+6. Embargos de declaração conhecidos e rejeitados.
+Irresignada, COOPHAB/RN COOP HABIT DOS SERV E TRAB SINDICALIZADOS DO RIO GRANDE DO NORTE interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 186, 187, 393, 421 e 927 do Código Civil, insurgindo-se contra o dever de indenizar no presente caso, tendo em vista não ter responsabilidade na resolução do contrato firmado, porquanto houve um maciço inadimplemento dos associados e inexistiu a formação de grupo mínimo vinculado ao empreendimento.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio Grande do Norte por incidir, no caso, o teor das Súmulas n.ºs 5 e 7 do STJ (e-STJ, fls. 349/353).
+Nas razões do presente agravo, COOPHAB/RN COOP HABIT DOS SERV E TRAB SINDICALIZADOS DO RIO GRANDE DO NORTE refuta os referidos óbices de prelibação (e-STJ, fls. 356/372).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da resolução do contrato e do dever de indenizar
+COOPHAB/RN COOP HABIT DOS SERV E TRAB SINDICALIZADOS DO RIO GRANDE DO NORTE afirmou a violação dos arts. 186, 187, 393, 421 e 927 do Código Civil, insurgindo-se contra o dever de indenizar no presente caso, tendo em vista não ter responsabilidade na resolução do contrato firmado, porquanto houve um maciço inadimplemento dos associados e inexistiu a formação de grupo mínimo vinculado ao empreendimento.
+Sobre o tema, todavia, consignou o TJRN que:
+(..) o termo de ato cooperativo tem a natureza de contrato de compra e venda firmado por adesão, de forma que as cláusulas devem ser interpretadas sempre em favor da parte hipossuficiente.
+18. De mais a mais, diante da ocorrência de atraso na entrega das obras ou inexecução do empreendimento, conforme aconteceu no presente caso, é possível a rescisão contratual, bem como a restituição dos valores pagos, consoante orientação do Superior Tribunal de Justiça, firmada no enunciado de Súmula nº 543.
+(..)
+19. Nesse contexto, deve-se reconhecer a abusividade da Condição nº 18 do termo de ato cooperativo, vez que a rescisão do contrato foi motivada pelo inadimplemento da própria vendedora, ora recorrente, consiste em justa causa para a restituição integral das parcelas pagas pelo promitente comprador.
+(..)
+22. No que concerne ao pleito de indenização por danos morais, é inegável que a constatação de inexecução do imóvel adquirido pelo autor, ao mesmo tempo em que caracteriza o inadimplemento contratual por parte da cooperativa, implica em danos morais decorrente da frustração ao não receber imóvel, mesmo tendo honrado com suas obrigações contratuais, razão pela qual se afigura devida a reparação.
+23. Não resta dúvida de que o aborrecimento proveniente do descumprimento contratual pela Cooperativa ultrapassou a esfera da normalidade, ou seja, do mero aborrecimento do cotidiano, com repercussão relevante na vida do autor/apelante, haja vista se tratar de negócio cuja perfectibilização proporciona expectativa se ordem pessoal, familiar e social (e-STJ, fls. 267/270).
+Assim, rever as conclusões quanto à inexigibilidade do título cobrado demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COOPERATIVA HABITACIONAL. ATRASO NA ENTREGA DO IMÓVEL. RESTITUIÇÃO DAS PARCELAS PAGAS. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para desconstituir a convicção formada pelas instâncias ordinárias no sentido de que "restou elucidada a culpa dos réus pelo descumprimento contratual", far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.885.724/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COOPERATIVA HABITACIONAL. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA 83/STJ. SALDO RESIDUAL. RATEIO. INEXIGIBILIDADE DO DÉBITO. NECESSIDADE DE REVISÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. As disposições do Código de Defesa do Consumidor são aplicáveis aos empreendimentos habitacionais promovidos pelas sociedades cooperativas. Precedentes.
+2. Recurso especial cuja pretensão demanda revisão de cláusulas contratuais e reexame de matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 972.646/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/4/2017, DJe de 5/5/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COOPERATIVA HABITACIONAL. SALDO RESIDUAL. RATEIO. INEXIGIBILIDADE DO DÉBITO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ. CDC. INCIDÊNCIA.
+1. Inviável, na estreita via do recurso especial, o reexame das premissas fático-probatórias que levaram as instâncias ordinárias à conclusão de inexigibilidade do débito, por força das Súmulas nºs 5 e 7/STJ.
+2. Esta Corte possui orientação no sentido de que as disposições do Código de Defesa do Consumidor são aplicáveis aos empreendimentos habitacionais promovidos pelas sociedades cooperativas.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 901.484/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2016, DJe de 26/8/2016)
+Por tais razões, o recurso não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. DANOS MATERIAIS E MORAIS. EMPREENDIMENTO IMOBILIÁRIO. COOPERATIVA. CULPA. RECONHECIMENTO. DEVER DE INDENIZAR. CONFIGURAÇÃO. DISCUSSÃO . IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
