@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se  de  habeas  corpus substitutivo de recurso próprio,  com  pedido  liminar,  impetrado em favor de MATHEUS JESUS DOS SANTOS,  contra  acórdão  prolatado  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela suposta prática, em tese, do de lito previsto no art. 33, caput, da Lei n. 11.343/2006 (fl. 34). Irresignada, a defesa impetrou habeas corpus junto ao Tribunal a quo, visando à revogação da prisão preventiva imposta. A ordem foi denegada, para garantia da ordem pública, em razão da quantidade de entorpecente apreendido (6,574 kg de cocaína-fl. 139), em acórdão de fls. 137-147.
+Daí o presente writ, no qual sustenta a Defesa, em síntese, que o paciente estaria sofrendo constrangimento ilegal em razão da ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que decretou a segregação cautelar.
+Sustenta que as suas condições pessoais seriam favoráveis, ponderando a possibilidade de aplicação de medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal.
+Salienta, ainda, que em caso de condenação terá direito a regime diverso do fechado.
+Requer, ao final, a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 155-157.
+As informações prestadas às fls. 160-166.
+O  Ministério  Público  Federal,  à  fl.  175,  manifestou-se  pelo "não conhecimento do habeas corpus", em parecer não ementado.
+É  o  relatório.
+Decido.
+O pedido está prejudicado.
+Conforme informações do Juízo de origem (fls. 177-186), foi proferida sentença condenatória, em 01/02/2023, processo n. 1501657-65.2022.8.26.0604/SP, e o paciente foi condenado à pena de "5 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado" pela suposta prática "do art. 33, caput, da Lei n.º 11.343/2006," (fl. 183-184). Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor: "O acusado acompanhou encarcerado cautelarmente o procedimento criminal em primeiro grau de jurisdição e assim deve permanecer em garantia da ordem pública, como já destacado inicialmente (páginas 50/51). O réu, enredado no chamado comércio maldito, atuou para a ruína das famílias, para desencaminhar a juventude e para fomentar inúmeros outros crimes. Enfim, tanto mal causou à sociedade. O excarceramento do denunciado serviria como estímulo para assim perseverar. Recomende-se o réu na prisão em que se encontra" - fls. 184-185.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito: "Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem" (HC 495.012/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe 25/06/2019). Nesse sentido, também: "A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. " (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+Nesse contexto, verifico que o presente writ perdeu o objeto.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
