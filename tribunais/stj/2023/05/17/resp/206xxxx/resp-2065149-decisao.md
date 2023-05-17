@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por URBPLAN DESENVOLVIMENTO URBANO S/A - EM RECUPERACAO JUDICIAL, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 22/03/2022.
+Concluso ao Gabinete em: 24/04/2023.
+Ação: de rescisão contratual cumulada com devolução de quantias pagas, reparação de danos materiais e compensação de danos morais, ajuizada por SERGIO DE SOUZA, em desfavor da recorrente, de PLURITERRA DESENVOLVIMENTO IMOBILIARIO LTDA (interessada) e ARQUIVILLE DSENVOLVIMENTO IMOBILIARIO LTDA (interessada), em virtude do atraso na entrega de imóvel, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou procedentes os pedidos, para declarar a rescisão do contrato firmado entre as partes, por culpa da recorrente e das ora interessadas, condenando-as, solidariamente, a restituir todos os valores pagos pelo recorrido, bem como ao pagamento de R$ 10.000,00 (dez mil reais) a título de danos morais e de lucros cessantes no valor de 0,5% (meio por cento) sobre o valor venal do imóvel, relativos ao período em que deveria ter sido entregue o bem até a data da prolação da sentença.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente; e deu provimento à apelação adesiva interposta pelo recorrido. O acórdão foi assim ementado:
+COMPROMISSO DE COMPRA E VENDA - PACTO DE ALIENAÇÃO FIDUCIÁRIA QUE NÃO OBSTA A APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR PORQUE NÃO PROVIDENCIADO O REGISTRO NO FÓLIO REAL- NÃO INCIDÊNCIA DA LEI 9.514/97 - NÃO VISLUMBRADA HIPÓTESE DE SUSPENSÃO DA DEMANDA COM APOIO NO TEMA 1095- PRECEDENTE - PRESCRIÇÃO- INOCORRÊNCIA - PRAZO DECENAL (CC, ART. 205)- INADIMPLEMENTO ABSOLUTO DECORRENTE DO ATRASO DA ENTREGA DA OBRA -DEVOLUÇÃO INTEGRAL DAS IMPORTÂNCIAS PAGAS PELO COMPRADOR - PRECEDENTES DESTA C. 8ª CÂMARA DE DIREITO PRIVADO- INDENIZAÇÃO DE LUCROS CESSANTES DE 0,5% DO VALOR DO CONTRATO- DÉBITOS DE IPTU E TAXAS DE MANUTENÇÃO DEVIDAS APENAS A PARTIR DA IMISSÃO NA POSSE- RESTITUIÇÃO DO ITBI- AUSÊNCIA DE PEDIDO CONTRAPOSTO EM RECONVENÇÃO - DANOS MORAIS - INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS- SENTENÇA MODIFICADA - RECURSO DA RÉ PROVIDO EM PARTE E PROVIDO O ADESIVO DO AUTOR (e-STJ fl. 892).
+Embargos de declaração: opostos pelas ora interessadas, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 9º e 18, V, da Lei 6.766/79, bem como dissídio jurisprudencial. Sustenta que não houve nenhuma conduta ilícita ou inadimplemento contratual por parte da recorrente, uma vez que o atraso na entrega do lote deu-se devido a entraves burocráticos para vistoria e emissão da carta de aprovação das obras pela SABESP. Insurge-se contra o pagamento de lucros cessantes, uma vez que se trata de terreno não edificado e, subsidiariamente, acaso mantidos, pugna para que seja reduzido para o percentual de 0,3% (zero vírgula três por cento) sobre o valor atualizado do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Ademais, ainda que transposto o supracitado óbice sumular, outro se imporia.
+É que alterar o decidido no acórdão impugnado, no que se refere à responsabilidade da recorrente pelo atraso na entrega do lote, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Dos lucros cessantes presumidos
+A tese da parte recorrente relativa à impossibilidade de fixação de lucros cessantes não encontra guarida na jurisprudência desta Corte Superior de Justiça, que entende que, nos casos de atraso na entrega de imóvel, os lucros cessantes são presumidos (AgInt no REsp 1.723.050/RJ, 4ª Turma, DJe de 26/9/2018; e AgInt no REsp 1.651.964/RJ, 3ª Turma, DJe de 27/3/2018). Incide, portanto, a Súmula 568/STJ.
+No mais, tem-se que a recorrente defende que, acaso admitidos, os lucros cessantes devem ser fixados no percentual de 0,3% (zero vírgula três por cento) do valor do contrato. Deixam de indicar, todavia, qual dispositivo legal foi violado pelo acórdão recorrido, razão pela qual tem incidência, quanto ao ponto, a Súmula 284/STF.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a", do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em desfavor da recorrente em 5% (cinco por cento) sobre o valor da condenação (e-STJ fls. 899-900) para 10% (dez por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS, REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. LUCROS CESSANTES PRESUMIDOS. SÚMULA 568/STJ.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas, reparação de danos materiais e compensação de danos morais, em virtude do atraso na entrega de imóvel, objeto de contrato de compra e venda firmado entre as partes.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos.
+5. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
