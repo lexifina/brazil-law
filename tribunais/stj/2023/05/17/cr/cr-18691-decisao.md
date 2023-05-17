@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro - Juízo Local Criminal de Faro - Juiz 3) solicita a intimação de GUILHERME DE SOUZA BISPO para tomar ciência da conversão da penalidade de multa em pena de 42 (quarenta e dois) dias de prisão subsidiária, nos autos do Processo n. 519/18.7PBFAR (fls. 5-9).
+A intimação prévia foi frustrada, conforme atesta documento de fl. 24, e mesmo após o auxílio do Parquet não foi possível localizar novo endereço da parte (fls. 27-28). Concedido o exequatur (fls. 41-42), foram os autos remetidos à Seção Judiciária do Estado de São Paulo, tendo retornado acompanhados de certidão negativa, exarada nestes termos (fl. 99):
+CERTIFICO eu, Oficial de Justiça, que em cumprimento ao mandado nº 045.2023/003911-0 dirigi-me ao endereço nele mencionado, e ai estando, fui atendido pela Sra. Alessandra que informou ser moradora do imóvel e que desconhece o Sr. Guilherme de Souza Bispo.
+Pelo exposto, verifica-se que as providências para intimação da parte interessada não foram frutíferas, razão pela qual determino a devolução da comissão, sem cumprimento, ao Juízo rogante, por intermédio da autoridade central, nos termos do art. 216-X, do RISTJ.
+Publique-se.
