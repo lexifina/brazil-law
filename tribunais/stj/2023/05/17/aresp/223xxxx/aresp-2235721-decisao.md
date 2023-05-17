@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por VANIA SEEGER contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 299-300):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. DECLARATÓRIA DE INEFICÁCIA DO NEGÓCIO JURÍDICO.
+ARBITRAMENTO DE ALUGUÉIS.
+EM QUE PESE PERTINENTE O DEFERIMENTO DA AJG À DEMANDADA, POIS QUE COMPROVADA SITUAÇÃO FINANCEIRA COMPATÍVEL COM O BENEFÍCIO POSTULADO, A CONCESSÃO DA BENESSE NÃO RETROAGE, NÃO PRODUZINDO EFEITOS SOBRE OS ATOS JÁ PRATICADOS. PRECEDENTES JURISPRUDENCIAIS DESTA CORTE.
+EM SE TRATANDO DE DECISÃO QUE INADMITIU A INTERVENÇÃO DE TERCEIROS, DENUNCIAÇÃO À LIDE, PROLATADA SOB A ÉGIDE DO CPC/2015, A MATÉRIA DEVERIA TER SIDO OBJETO DE AGRAVO DE INSTRUMENTO, EM OBSERVÂNCIA AO DISPOSTO NO ART. 1.015, IX, DO CPC. MATÉRIA PRECLUSA.
+A PRETENSÃO RELATIVA À VENDA POR QUEM NÃO ERA DONO NÃO ESTÁ SUJEITA A PRAZO DECADENCIAL OU PRESCRICIONAL.
+ADEMAIS, NA ESTEIRA DO QUE DISPÕE O ART. 206, § 3º, DO CPC, PRESCREVE EM TRÊS ANOS A PRETENSÃO RELATIVA A ALUGUEIS DE PRÉDIOS URBANOS OU RÚSTICOS.
+NO CASO, O APELADO NÃO PARTICIPOU DA COMPRA E VENDA, O QUE, POR CONSEGUINTE, AFASTA A EFICÁCIA DO NEGÓCIO JURÍDICO FRENTE A ELE. SOMENTE A USUFRUTUÁRIA TEM DIREITO À POSSE, USO, ADMINISTRAÇÃO E PERCEPÇÃO DOS FRUTOS (ARTIGO 1.394 DO CÓDIGO CIVIL), NÃO MANTENDO A PROPRIEDADE SOBRE O BEM E, PORTANTO, NÃO POSSUINDO O DIREITO DE ALIENÁ-LA A TERCEIROS.
+NÃO HÁ FALAR EM DIREITO À USUCAPIÃO, NA MEDIDA EM QUE A POSSE, COMO VISTO, DECORRE DE CONTRATO DE COMPRA E VENDA.
+DERAM PARCIAL PROVIMENTO À APELAÇÃO. UNÂNIME.
+Nas razões recursais a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 206, 723, parágrafo único, 1.024, 1.196, 1.240 e 1.241 do CC e 125, II, do CPC, sustentando, em síntese, necessidade de denunciação da lide do corretor e sua responsabilização por perdas e danos; decadência/prescrição do direito do autor de postular a anulação do negócio jurídico objeto da demanda e de efetuar cobrança de aluguéis; existência de posse mansa, pacífica e ininterrupta do imóvel objeto da demanda, o que configura a exceção de usucapião.
+Requer que os efeitos do benefício da assistência judiciária gratuita deferida sejam ex tunc.
+Contrarrazões às fls. 332-351 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+No que tange à irresignação acerca da denunciação da lide, constata-se, da leitura do acórdão ora recorrido, que o Tribunal de origem concluiu que a questão estava preclusa, uma vez que a parte não se insurgiu no momento adequado, com a interposição do recurso cabível.
+Veja-se (e-STJ, fl. 395):
+Sobre a denunciação à lide, colhe-se dos autos que referido pedido foi indeferido na decisão origem (eventos 19 e 30). Por certo, em se tratando de decisão que inadmitiu a intervenção de terceiros, prolatada sob a égide do CPC/2015, a matéria deveria ter sido objeto de agravo de instrumento, em observância ao disposto no art. 1.015, IX, do CPC/2015, verbis:
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+(..)
+IX - admissão ou inadmissão de intervenção de terceiros;
+Daí exsurge que, não tendo a parte se insurgido no momento adequado, com a interposição do recurso cabível, impõe-se o não conhecimento do recurso, por estar preclusa a questão, sendo vedada a rediscussão, nos termos do art. 507 do Código de Processo Civil.
+Contudo, contra o fundamento da preclusão a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, necessidade de denunciação da lide do corretor e sua responsabilização por perdas e danos.
+Em face desse contexto, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No tocante à alegada decadência/prescrição, a Corte estadual afastou o prazo decadencial ou prescricional, ao fundamento de que o ato é nulo e, assim, não se sujeita a referidos prazos; bem como diante da ausência de eficácia do negócio jurídico perante o recorrido.
+Confira-se (e-STJ, fls. 296-297):
+Por sua vez, a pretensão relativa à venda por quem não era dono não está sujeita a prazo decadencial ou prescricional, conforme lencionam Nelson Nery Júnior e Rosa Maria de A.
+Nery, em comentário ao art. 172 do CCB:
+"A venda feita por quem não era dono da coisa (a non domino) é nula (CC/1916 145 II  CC 166 II ) e não anulável por dolo ou simulação, razão por que não está sujeita ao prazo decadencial do CC/1916 178 § 9.º V b  v. CC 178 II . Entretanto, pode convalidar-se pela ulterior aquisição da coisa pelo vendedor" - Voto do Min. Aliomar Baleeiro (STF, 1.ª T., RE 71091-BA, rel. Min. Aliomar Baleeiro, j. 8.6.1973, DJU 10.9.1973).
+De outra banda, na esteira do que dispõe o art. 206, § 3º, do CPC, prescreve em três anos a pretensão relativa a alugueis de prédios urbanos ou rústicos. Neste panorama, quanto ao marco inicial do lapso temporal, como bem sinalado pela digníssima Procuradora de Justiça, Dra. Noara Bernardy Lisboa, "(..) in casu, não se pode presumir que, apenas em razão do vínculo familiar, o autor tenha imediatamente tomado ciência do negócio firmado exclusivamente por sua mãe, usufrutuária do bem, e da ocupação pela ora apelante. Do que consta nos autos, apenas é possível saber que ele estava ciente da ocupação do bem em 22/04/2019, quando remeteu notificação (evento 1, not10, origem)."
+Ademais, o apelado, segundo vê-se do contrato, não participou da compra e venda, o que, por conseguinte, afasta a eficácia do negócio jurídico frente a ele. Somente a usufrutuária tem direito à posse, uso, administração e percepção dos frutos (artigo 1.394 do Código Civil), não mantendo a propriedade sobre o bem e, portanto, não possuindo o direito de aliená-la a terceiros.
+Entretanto, contra esses fundamentos a parte não se manifestou nas razões do recurso especial, limitando-se a alegar que "o autor abriu mão da posse do imóvel em 30 de maio de 2014, pois, houve concordância tácita do autor para com a transação entabulada por sua mãe" (e-STJ, fl. 317), incidindo, portanto, por analogia, novamente, o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Acerca da exceção de usucapião, o Tribunal de origem, considerando as particularidades do caso concreto, concluiu pela ausência de seus requisitos, consoante os termos abaixo reproduzidos (e-STJ, fl. 297):
+Outrossim, não há falar em direito à usucapião, na medida em que a posse, como visto, decorre de contrato de compra e venda.
+A usucapião exige posse (sem oposição), tempo (sem interrupção), animus domini (intenção de ter a coisa para si) e objeto hábil (imóvel de domínio privado). A posse decorrente de promessa de compra e venda afasta o ânimo de dono e inviabiliza a pretensão de usucapião, salvo se demonstrada a transmudação da natureza da posse, o que não se evidencia no caso em análise.
+Não bastasse isso, importante anotar que, a notificação encaminhada pelo ora autor à corré Vânia caracteriza evidente oposição à sua posse, estando ausente, também, portanto, tal requisito. Ainda, registra-se que a notificação foi encaminhada menos de cinco anos após a tomada da posse, inexistindo lapso temporal hábil a amparar a defesa (evento 1, doc. 10).
+Desse modo, elidir a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, nos termos da Súmula n. 7/STJ.
+Quanto aos efeitos do benefício da assistência judiciária gratuita, a jurisprudência desta Corte Superior tem entendimento de que "os efeitos do benefício da justiça gratuita devem ser ex nunc, não podendo retroagir para alcançar atos processuais anteriormente convalidados" (AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% sobre o valor fixado na origem, ressalvado o benefício da assistência judiciária gratuita.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DECLARATÓRIA DE INEFICÁCIA DE NEGÓCIO JURÍDICO. DENUNCIAÇÃO DA LIDE. PRESCRIÇÃO E DECADÊNCIA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA N. 283/STF. EXCEÇÃO DE USUCAPIÃO. REQUISITOS NÃO CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ASSISTÊNCIA JUDICIÁRIA GRATUITA. EFEITOS EX NUNC. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
