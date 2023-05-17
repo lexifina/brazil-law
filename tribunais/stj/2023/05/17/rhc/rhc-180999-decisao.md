@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por THIAGO ROGÉRIO SANTOS DE OLIVEIRA, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas.
+Pretende o recorrente, em síntese, seja revogada a prisão preventiva que lhe foi imposta.
+É o relatório.
+Decido.
+O presente recurso não pode ser conhecido.
+Com efeito, a tese referente a ausência de requisitos para manutenção da prisão preventiva sequer foi apreciada pelo Tribunal de origem, cujo acórdão versou apenas sobre a prisão temporária, de modo que inviável o seu conhecimento diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Cito precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ASSOCIAÇÃO CRIMINOSA. FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. PRISÃO PREVENTIVA. FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO POR DOMICILIAR. IMPOSSIBILIDADE. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. RÉ FORAGIDA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E, NA EXTENSÃO, DESPROVIDO.
+1. Não há que se falar em ausência de fundamentação idônea do decreto preventivo, pois a tese não foi objeto de deliberação pelo Tribunal de origem no acórdão ora impugnado, circunstância que inviabiliza a aspirada análise direta por este Sodalício, do ponto, sob pena de indevida supressão de instância.
+2. No que tange a possibilidade de substituição da segregação cautelar por prisão domiciliar, cumpre consignar que o Supremo Tribunal Federal concedeu a ordem em habeas corpus coletivo (HC 143.641/SP, Rel. Ministro RICARDO LEWANDOWSKI) para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, sem prejuízo da aplicação concomitante das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+3. A Lei n. 13.769, de 19/12/2018, ao incluir os arts. 318-A e 318-B no Código de Processo Penal, também assegurou às mulheres gestantes, mães ou responsáveis por crianças ou pessoas com deficiência, a substituição da prisão preventiva por prisão domiciliar, exceto em casos de crimes cometidos com violência ou grave ameaça ou contra seus filhos ou dependentes.
+4. No caso, observa-se que houve a devida fundamentação apta a justificar o afastamento da prisão domiciliar, porquanto a acusada encontra-se foragida.
+5. Agravo regimental parcialmente conhecido, e, na extensão, desprovido. (AgRg no HC n. 752.965/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. EXECUÇÃO PROVISÓRIA. HOMICÍDIO QUALIFICADO. PRINCÍPIO DA SOBERANIA DO JÚRI. IMPOSSIBILIDADE. REQUISITOS DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tal como está consignado na decisão agravada, ao contrário do que alega o Ministério Público, "a execução provisória da pena como consectário automático de condenação pelo Tribunal do Júri é inadmissível" (AgRg no RHC n. 142.547/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 8/10/2021).
+2. A decisão agravada afastou apenas a execução provisória da pena nos termos em que determinada pelas instâncias ordinárias. A eventual presença dos requisitos da custódia cautelar não foi objeto de debate pela Corte estadual e sua análise no presente agravo regimental implicaria em indevida supressão de instância.
+3. Agravo regimental desprovido. (AgRg no REsp n. 1.875.623/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ante o exposto, com fulcro no art. 34, inciso XVIII, a, do RISTJ, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
