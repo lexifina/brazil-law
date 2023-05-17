@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por L S S A, menor representado por S S A, com fundamento na alínea "a" do permissivo constitucional, exclusivamente, contra acórdão do TJ/SP.
+Recurso especial interposto em: 2/8/2022.
+Concluso ao gabinete em: 15/5/2023.
+Ação: declaratória c/c indenização, ajuizada pelos recorrentes em face da SUL AMÉRICA SERVIÇOS DE SAÚDE S/A e HOSPITAL INFANTIL SABARÁ, na qual alegam que o primeiro autor é portador de várias enfermidades e em razão delas foi internado no Hospital Infantil Sabará; que, durante a internação, necessitou realizar o exame "PT-CT COM GALIO 68 DO TA TOC ONCOLÓGICO", cuja cobertura foi negada pela Sul América; que, em razão da negativa, ajuizaram ação de obrigação de fazer, tendo sido a negativa julgada ilícita e abusiva, com o consequente reconhecimento da obrigação da Sul América em custear o tratamento; que em 17/10/2019, receberam e-mail com cobranças do Hospital, nos valores e R$ 1.388,35 e R$ 118,80, relativos a materiais, insumos e exames realizados quando da internação. Requerem seja declarada a inexigibilidade do débito, bem como sejam as rés condenadas ao pagamento de indenização por danos morais, no valor de R$ 150.000,00.
+Sentença: integralizada pela decisão de e-STJ fls. 275/278, julgou procedentes os pedidos iniciais, para: i) declarar a inexigibilidade dos débitos indicados na inicial, relativos ao tratamento médico despendido ao primeiro autor nas dependências da segunda ré; e ii) condenar a ré Sul América ao pagamento de compensação por danos morais aos autores, no valor de R$ 5.000,00 (cinco mil reais) para cada um, totalizando o valor de R$ 10.000,00 (dez mil reais) (e-STJ fls. 204/208).
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela SUL AMÉRICA e julgou prejudicado o recurso de apelação interposto pelos recorrentes, nos termos da seguinte ementa:
+SEGURO. PLANO DE SAÚDE. COBERTURA DE DESPESAS DE INTERNAÇÃO NEGADA. HOSPITAL QUE PROCEDEU À COBRANÇA DO PACIENTE. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. COBERTURA INDEVIDAMENTE NEGADA PELA CORRÉ OPERADORA DO PLANO, AO ARGUMENTO DE SE TRATAR DE PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. EXISTÊNCIA DE CLÁUSULA EXPRESSA DE EXCLUSÃO. JURISPRUDÊNCIA, TODAVIA, QUE VEM SE ORIENTANDO FIRMEMENTE NO SENTIDO DO RECONHECIMENTO DO CARÁTER ABUSIVO DAS CLÁUSULAS DE EXCLUSÃO. PRECEDENTES DO STJ E SÚMULA N.º 102 DO TJ/SP, QUE REPUTA ABUSIVAA NEGATIVA FUNDADA NA AUSÊNCIA DE PREVISÃO DO PROCEDIMENTO NO ROL DA ANS. RECUSA INDEVIDA EVIDENCIADA. MATÉRIA, A RIGOR, QUE JÁ FORA ANTERIORMENTE APRECIADA NO BOJO DE DEMANDA PREGRESSA AJUIZADA PELOS DEMANDANTES EM FACE DA OPERADORA. AUSÊNCIA, CONTUDO, DE DANO MORAL ADVINDO DE MERO DESCUMPRIMENTO CONTRATUAL. AUSÊNCIA DE VULNERAÇÃO A DIREITOS DA PERSONALIDADE. INDENIZAÇÃO, A TAL TÍTULO, AFASTADA, PREJUDICADO, PELA PERDA DO OBJETO, O EXAME DO RECURSO DOS AUTORES QUE PRETENDIA A MAJORAÇÃO DO RESPECTIVO "QUANTUM". SENTENÇA REFORMADA. RECURSO DA CORRÉ PARCIALMENTE PROVIDO, PREJUDICADO O RECURSO DOS AUTORES.
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados.
+Recurso especial: aponta violação ao art. 14 do CDC.
+Sustenta que deve ser reconhecido o direito a reparação do dano moral em decorrência do defeito na prestação dos serviços que foi reconhecido expressamente pelo acórdão recorrido.
+Parecer do Ministério Público Federal: da lavra do i. Subprocurador-Geral da República Antonio Carlos Alpino Bigonha, opina pelo não conhecimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 14 do CDC, indicado como violado, apesar da oposição de embargos de declaração, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211 do STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto aos advogados da parte recorrida, em virtude da interposição deste recurso, majoro em R$ 500,00 (quinhentos reais) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação declaratória c/c indenização.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Recurso especial não conhecido.
