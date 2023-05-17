@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HELIO SOARES DINIZ, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.070620-2/000) .
+Narram os autos que o paciente cumpre pena e, no curso da execução, o juízo de primeiro grau condicionou a apreciação do pedido de progressão de regime à realização de exame criminológico.
+O habeas corpus ajuizado na origem não foi conhecido, nos termos da seguinte ementa (fl. 257):
+"EMENTA: HABEAS CORPUS-EXECUÇÃO PENAL -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. A matéria tratada na exordial não é aquela à qual se dedica o remédio constitucional do Habeas Corpus. Isso porque a via sumaríssima deste instrumento impede que seja nele tratada matéria impertinente. "
+A defesa alega, em síntese, que "o constrangimento ilegal se dá pela decisão que condicionou a progressão à realização de exame criminológico, onde o juízo de execução se vale da leitura da denúncia penal para obstar a progressão de regime do apenado" (fl. 7).
+Requer, liminarmente, a suspensão dos efeitos da decisão combatida e, no mérito, a concessão da progressão ao regime semiaberto sem a necessidade de exame criminológico.
+É o relatório.
+Decido.
+In casu, da leitura do acórdão, constata-se que a questão fundamental apresentada a esta Corte Superior não foi analisada pelo Tribunal de origem, qual seja, a necessidade do exame criminológico, no caso concreto, para a análise do pleito de progressão ao regime semiaberto.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o Tribunal de origem sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de ori gem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Não obstante, verifica-se que a ausência de manifestação do Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+É consabido que a via estreita do writ não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, o Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a decisão questionada, se estiver em desacordo com o ordenamento jurídico pátrio.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o Tribunal, a fim de que se manifeste.
+Colaciono, a seguir, precedentes desta Corte Superior:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME DE PENA. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. ILEGALIDADE NA FASE DE EXECUÇÃO. QUESTÃO DE DIREITO. LIBERDADE DE LOCOMOÇÃO. AGRAVO DESPROVIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. Não compete a esta Corte Superior a análise direta do mérito da impetração, sob pena de incorrer em indevida supressão de instância.
+Ocorre que as teses deduzidas no writ não foram analisadas pelo Tribunal de origem. Conforme se vê do aresto hostilizado deixou-se de conhecer do habeas corpus originário sob o fulcro de não se cuidar de sucedâneo recursal. Acrescentou-se que matéria relativas a execução da pena devem ser apuradas via Agravo em Execução.
+2. Este Sodalício entende que a previsão legal de recurso específico não inviabiliza a impetração de writ para a aferição de eventual ilegalidade na fase de execução da pena, quando a questão discutida é meramente de direito e intrinsicamente relacionada à liberdade de locomoção do indivíduo, como ocorre na hipótese em debate.
+3. Agravo regimental desprovido. Ordem concedida, de ofício, para determinar que o Tribunal de origem examine a eventual existência de flagrante constrangimento ilegal que autorize a concessão da ordem de ofício na impetração originária.
+(AgRg no HC n. 630.875/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. REGRESSÃO DE REGIME. COMETIMENTO DE FALTA GRAVE. PRÉVIA INSTAURAÇÃO DE PROCEDIMENTO DE APURAÇÃO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. ILEGALIDADE NA FASE DE EXECUÇÃO. QUESTÃO DE DIREITO. LIBERDADE DE LOCOMOÇÃO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. A previsão legal de recurso específico não inviabiliza a impetração de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a questão discutida é meramente de direito e intrinsicamente relacionada à liberdade de locomoção do indivíduo.
+4. Agravo regimental desprovido. Ordem concedida de ofício para que o Tribunal de origem examine o mérito da impetração.
+(AgRg no HC n. 629.226/RO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/2/2021, DJe de 26/2/2021.)
+Ante o exposto, concedo a ordem de habeas corpus, para anular o julgamento constante do acórdão HC n. 1.0000.23.070620-2/000, determinando sejam apreciadas p elo Tribunal a quo, como entender de direito, as questões ali deduzidas, com recomendação de celeridade.
+P. I.
