@@ -1,0 +1,11 @@
+DECISÃO
+CRISTIANO MORAES DA SILVEIRA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+A defesa pretende o reconhecimento da litispendência em favor da paciente - condenado pelo crime de tráfico de drogas -, sob o argumento de que "a condenação imposta é nula, eis que os autos do presente feito possuem conexão e/ou continência probatória como processo tombado sob o n. 001/2.19.0039809-3, que envolve a prática dos mesmos fatos ora apurados".
+Decido.
+Da análise dos autos, ao menos em um juízo de cognição sumária, vislumbro manifesto constrangimento ilegal a ensejar o deferimento da medida de urgência.
+Com efeito, verifico que o acórdão ora impugnado, ao não conhecer da impetração - o que impede o conhecimento do tema -, assinalou que "as questões suscitadas pelo impetrante - que foram objeto de análise no comando sentencial proferido pelo juízo de origem - deverão de ser enfrentadas no recurso próprio".
+Tais elementos atestam, à primeira vista, a plausibilidade jurídica do direito tido como violado, sobretudo em razão de - apesar de a defesa ter sustentado a litispendência entre duas ações penais - a Corte local, em nenhum momento, ter tratado da tese defensiva apresentada neste habeas corpus, evidenciando-se, assim, a impossibilidade de conhecimento do writ, sob pena de supressão de instância.
+Contudo, considerando que o Tribunal de origem negou jurisdição, ao não analisar os argumentos deduzidos no habeas corpus, forçoso seja determinado o julgamento do mérito da causa nos contornos das causas de pedir enunciados pela defesa.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ. No entanto, tendo em vista a negativa de jurisdição das duas instâncias, concedo a ordem, de ofício e in limine, para determinar ao Tribunal estadual que se manifeste sobre a tese veiculada neste habeas corpus ou que determine ao Juízo de primeiro grau a pretendida análise.
+Registro, contudo, que não há prejuízo de futura análise da insurgência por esta Corte, em eventual impetração que venha a ser aforada já a partir de ato coator atribuído a órgão de segundo grau.
+Publique-se. Intimem-se.
