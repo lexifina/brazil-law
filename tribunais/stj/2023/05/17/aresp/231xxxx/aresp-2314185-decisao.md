@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO PIAUÍ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+DIREITO ADMINISTRATIVO. APELAÇÕES CÍVEIS/REEXAME NECESSÁRIO. AÇÃO ORDINÁRIA. PRELIMINARES: I) VÍCIO DE REPRESENTAÇÃO II) INOBSERVÂNCIA DO PRAZO PARA COMPLEMENTAÇÃO DAS CUSTAS OU NULIDADE DOS ATOS PROCESSUAIS POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. PREJUDICIAL DE PRESCRIÇÃO. REJEIÇÃO. MÉRITO. DEMORA NO PROVIMENTO DOS CARGOS PÚBLICOS. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+Quanto à primeira controvérsia, alega violação dos arts. 186 e 927 do Código Civil, no que concerne à impossibilidade de reparação por danos morais decorrentes de demora para a efetivação da posse em cargo público, trazendo os seguintes argumentos:
+ ..  o acórdão recorrido condenou o Estado do Piauí a indenizar os autores em danos morais em razão de nomeação/posse tardia em cargos públicos.
+Afirma que a referida demora acarretou em frustração de expectativas dos recorrentes e por tal motivo seria devida a indenização por danos morais.
+Ademais, afirmou que o decidido pelo STF, em repercussão geral, no RE 724.347 envolve apenas indenização por dano material, assim, caberia fixação de dano moral no caso em tela.
+Trata-se de decisão que viola os artigos 186 e 927 do Código Civil. (fls. 594/595).
+Quanto à segunda controvérsia, alega violação dos arts. 186 e 927 do Código Civil, no que concerne à impossibilidade de reparação por danos materiais, in casu, trazendo os seguintes argumentos:
+A nomeação tardia em cargo público não é capaz de gerar qualquer dano, seja moral ou material, nos aprovados.
+ ..
+Não há qualquer direito à indenização por dano material, motivo pelo qual o acórdão violou os artigos 186 e 927 do Código e Civil. (fls. 595/596, grifo meu).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Inicialmente concordamos com a decisão do juízo monocrático ao afirmar que acima de meros dissabores, os apelados foram de fato prejudicados pelo Estado do Piauí.
+Mesmo aprovados em concurso público e nomeados para o cargo público, viram frustradas todas a expectativas de usufruir dessa nova ascensão. O lapso temporal, apenas corrigido através de decisão judicial, entre a nomeação e posse dos apelados, é fato incontroverso, e se distancia, quanto ao homem, de um simples dissabor (fls. 523, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Quanto à segunda controvérsia, verifica-se que o acórdão recorrido decidiu a questão nos termos em que postulado pela parte recorrente. Portanto, a insurgência não merece prosperar ante a evidente ausência de interesse recursal, mostrando-se inadmissível a interposição de recurso visando resultado já alcançado.
+Nesse sentido: "Configurada a ausência de interesse de agir do ente público, no caso, porquanto o resultado pretendido já foi alcançado no acórdão impugnado". (REsp n. 1.335.172/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2018, DJe de 27/11/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.318.218/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 23/5/2019; AgRg no REsp 1.374.090/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2018; AgInt no AREsp 717.203/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19/11/2018; AgInt no AREsp 1.320.424/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
