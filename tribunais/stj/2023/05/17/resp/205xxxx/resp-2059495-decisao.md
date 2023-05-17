@@ -1,0 +1,20 @@
+DECISÃO
+Na petição de fls. 1.050, João Azêdo Sociedade de Advogados revoga expressamente os poderes outorgados anteriormente ao escritório de advocacia Monteiro e Monteiro Advogados Associados.
+Em sequência, na petição de fls. 1.062-1.070, Monteiro e Monteiro Advogados Associados requer o deferimento de sua habilitação na qualidade de terceiro interessado, sob o fundamento de possuir interesse jurídico, já que seria detentor do crédito honorário contratual e sucumbencial.
+O pedido de ingresso apresentado possui, a bem da verdade, natureza jurídica de assistência simples. No caso, esta Corte Superior é firme no sentido de que "a lei processual admite o ingresso de terceiro na condição de assistente simples apenas quando demonstrado seu interesse jurídico na solução da controvérsia, ou seja, quando verificada, em concreto, a existência de relação jurídica que será integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo" (EDcl no REsp 1.336.026/PE, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 22/06/2018).
+Nesse mesmo sentido, também são os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. INTERVENÇÃO DE TERCEIRO. ASSISTÊNCIA. NECESSIDADE DE DEMONSTRAÇÃO DE INTERESSE JURÍDICO. INTERESSE ECONÔMICO. NÃO CABIMENTO. 2. BENEFÍCIO COMPLEMENTAR DE APOSENTADORIA. PATROCINADORA. INGRESSO NA LIDE NA CONDIÇÃO DE ASSISTENTE OU LITISCONSORTE. IMPOSSIBILIDADE. MERO INTERESSE ECONÔMICO. INCIDÊNCIA DA SÚMULA 83/STJ. 3. AGRAVO DESPROVIDO.
+1. A intervenção de terceiro, na condição de assistente, exige a demonstração de interesse jurídico, sendo insuficiente o interesse econômico.
+2. Não se admite o ingresso da patrocinadora na lide em que se discute benefício complementar de aposentadoria, seja na condição de assistente da entidade de previdência, seja na condição de litisconsorte passivo, porquanto caracterizado mero interesse econômico. Súmula 83/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 805.663/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016.)
+AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO RECEBIDO COMO AGRAVO INTERNO. ASSISTÊNCIA SIMPLES. INTROMISSÃO NO FEITO DE CREDOR DA COOPERATIVA EM LIQUIDAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE INTERESSE JURÍDICO. INDEFERIMENTO DO PEDIDO. AÇÃO RESCISÓRIA. TERMO INICIAL DO PRAZO DECADENCIAL. ÚLTIMO PRONUNCIAMENTO JUDICIAL DO QUAL NÃO CAIBA RECURSO. SÚMULA 401/STJ. AGRAVOS REGIMENTAIS DESPROVIDOS.
+1. A lei processual civil, mesmo no caso do procedimento de liquidação de cooperativa, somente autoriza a intromissão de terceiro assistente simples, quando comprovado o seu interesse jurídico, e não, como na hipótese, o mero e eventual proveito econômico.
+2. Nos moldes da Súmula 401 desta Corte, "o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial".
+3. Destaque-se, a título de reforço de argumentação, que o Código de Processo Civil de 2015 positivou no artigo 975 a regra de que "o direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo".
+4. Agravos regimentais desprovidos.
+(AgRg no AREsp 724.365/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/06/2016, DJe 03/08/2016.)
+O interesse jurídico a justificar o ingresso no feito é, portanto, demonstrado pela possibilidade de a decisão proferida em processo alheio afetar a esfera jurídica de terceiro.
+Na present e hipótese, contudo, entendo que Monteiro e Monteiro Advogados Associados não logrou êxito em comprovar seu interesse jurídico, mas meramente econômico.
+Ante o exposto, indefiro o pedido de ingresso, no presente recurso, na qualidade de terceiro interessado, de Monteiro e Monteiro Advogados Associados.
+Por fim, defiro o prazo de 30 dias requerido pela União (fls. 1.048).
