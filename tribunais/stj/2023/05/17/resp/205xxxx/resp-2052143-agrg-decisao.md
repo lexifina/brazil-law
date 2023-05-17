@@ -1,0 +1,27 @@
+DECISÃO
+WILSON OLIVEIRA DE JESUS agrava de decisão que não conheceu do recurso especial.
+No regimental, alega a defesa que, nas razões do especial, foram indicados os dispositivos de lei federal tidos como violados, não havendo falar em deficiência de fundamentação.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado.
+Decido.
+Verifico que assiste razão ao agravante, motivo por que, em juízo de retratação, inerente ao agravo regimental, reconsidero a decisão atacada, haja vista que os dispositivos de lei federal tidos como violados foram indicados no recurso especial.
+Feitas essas considerações, passo ao exame do mérito recursal.
+Depreende-se dos autos que o réu foi condenado a 3 anos, 7 meses e 16 dias de reclusão, em regime fechado, mais 16 dias-multa, pela prática do crime previsto no art. 155, §§ 1º e 4º, IV, do CP.
+O Tribunal de origem deu provimento à apelação defensiva, a fim de diminuir a pena para 2 anos, 7 meses e 3 dias de reclusão mais 12 dias-multa.
+Nas razões do especial, alega a defesa a violação do art. 59 do CP, ao argumento de que não pode ser considerada negativa a vetorial personalidade com fundamento em registros de vida pregressa. Aduz que a fragilização do serviço de energia elétrica da escola vítima é elemento inerente ao tipo penal, razão por que não deve influenciar na dosimetria da primeira fase.
+Argumenta afronta ao art. 33, § 3º, do CP, ao argumento de que foi imposto regime inicial mais gravoso que o devido, mediante fundamentação inidônea.
+Requer seja determinado o cumprimento inicial da reprimenda na modalidade aberta.
+O acórdão recorrido asseriu o seguinte:
+A pena-base foi bem fixada em 2 (dois) anos e 4 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa, calculados no mínimo legal, 1/6 (um sexto) acima do mínimo legal, considerando-se a personalidade do apelante e as consequências do crime: "o réu detém perfil desajustado e reiterados processos de natureza patrimonial. Inclusive, as consequências do crime devem ser consideradas, já que a escola, até hoje, tem serviço fragilizado de energia elétrica".
+ ..
+O regime fechado fixado para o início do cumprimento da pena é de ser mantido, nos termos da sentença recorrida, considerando-se a multirreincidência e a personalidade do apelante, voltada para a criminalidade, conforme se verifica da sua folha de antecedentes criminais de fls. 62/71 e da certidão de distribuições criminais de fls. 77/82.
+(fls. 310-311, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+A Terceira Seção deste Superior Tribunal decidiu em igual direção, assentando que "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte" (EAREsp n. 1.311.636/MS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 26/4/2019, grifei).
+Na espécie, as instâncias ordinárias distribuíram diferentes condenações definitivas ostentadas pelo agente, a fim de sopesar negativamente a personalidade, bem como caracterizar a reincidência.
+No que tange às consequências, o Tribunal de Justiça deixou claro que a conduta delitiva acarretou fragilização no serviço de energia elétrica da escola vítima, o que, por si só, destoa do comum nesse tipo de crime, mas evidencia maior gravidade por afetar a educação de menores.
+Portanto, apenas a circunstância judicial personalidade deve ser tida como neutra em nova dosimetria, que passo a refazer.
+Mantidas negativas as consequências do delito, reduzo proporcionalmente a pena-base para 2 anos e 2 meses de reclusão mais 10 dias-multa. Na segunda fase, reitero o aumento de 1/9 decorrente da multitreincidência apesar da configuração da confissão, a resultar reprimenda intermediária de 2 anos, 4 meses e 26 dias de reclusão mais 11 dias-multa, que coincide com a final, à míngua de majorantes e minorantes.
+Quanto ao regime inicial, estão elencados no art. 33, §§ 2º e 3º, do Código Penal os critérios para a sua imposição, de modo a determinar que deve ser feita com a observância dos critérios temporais do § 2º, bem como das circunstâncias judiciais, nos termos do art. 59 do Código Penal.
+Ante a quantidade de pena (não excedente a 4 anos), a reincidência e o registro de circunstância judicial negativa sopesada na primeira fase da dosimetria (consequências do crime), revela-se correta a fixação do regime inicial fechado, a teor do art. 33, § 2º, do Código Penal.
+Diante do exposto, reconsidero a decisão agravada, com a finalidade de dar parcial provimento ao recurso especial, para reduzir a pena para 2 anos, 4 meses e 26 dias de reclusão mais 11 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
