@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por REGINA INDÚSTRIA E COMÉRCIO S/A, contra decisão de fls. 895/896, que não conheceu do agravo em recurso especial diante da incidência da Súmula 182/STJ, sob o fundamento de que não houve impugnação, específica e particularizada, à totalidade dos fundamentos da decisão que inadmitiu o apelo nobre.
+A parte embargante sustenta, em síntese, que "a r. decisão embargada incorreu em obscuridade ao afirmar que não teria sido impugnada a incidência da Súmula nº 83/STJ ao caso em análise, tendo em vista que em seu agravo de decisão denegatória tal fundamento foi efetivamente enfrentado" (fl. 904).
+Sem impugnação (fl. 918).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+No presente caso, não obstante a alegação de que"a r. decisão embargada incorreu em obscuridade ao afirmar que não teria sido impugnada a incidência da Súmula nº 83/STJ ao caso em análise, tendo em vista que em seu agravo de decisão denegatória tal fundamento foi efetivamente enfrentado" (fl. 904), certo é que a decisão foi clara e precisa ao dispor que "caberia à recorrente demonstrar que os precedentes indicados na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu", não havendo que se falar em obscuridade.
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
