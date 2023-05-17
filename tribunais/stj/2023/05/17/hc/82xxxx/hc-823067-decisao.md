@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de CAMILLA MOURA DA ROSA LYVIO contra decisão de Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que indeferiu pedido liminar no HC n. 1406263-53.2023.8.12.0000.
+Extrai-se dos autos que o Juízo da 6ª Vara Criminal da Comarca de Campo Grande/MS, em 22/3/2023, decretou a prisão preventiva da paciente e outros agentes, no bojo dos autos n. 0035364-54.2022.8.12.0001 (fls. 15/39).
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida em decisão acostada às fls. 69/72.
+No presente writ (fls. 4/10) suscita a operação de constrangimento ilegal, aduzindo a possibilidade de superação do óbice da Súmula n. 691 do Supremo Tribunal Federal, uma vez que a paciente é advogada, não devendo ser recolhida cautelarmente, senão em sala de Estado Maior, ou na sua falta, em prisão domiciliar, nos termos do artigo 7º, V, da Lei n. 8.906/1994.
+Narra que a paciente se encontra encarcerada desde 5/5/2023, embora "em local não condizente com uma Sala de Estado Maior, como determina o Estatuto da OAB" (fl. 7). Acrescenta que a " ..  certidão emitida na data de 12-05-2023, informa que o Estado do Rio de Janeiro-RJ não dispõe de Sala de Estado Maior, conforme documento em anexo  .. " (fl. 8).
+Pugna pela concessão liminar da ordem para converter a prisão preventiva em domiciliar ou, subsidiariamente, para substituí-la por cautelares alternativas ao cárcere, bem como pela confirmação do pleito urgente, no mérito.
+É o relatório.
+Decido.
+Preliminarmente, esclareço que, embora o mandamus tenha sido impetrado sob a égide do regime de plantão judiciário estabelecido pela Instrução Normativa n. 6, de 26/10/2012 do Superior Tribunal de Justiça (fl. 1), o caso não se insere nas hipóteses que autorizam a análise urgente do writ, porquanto não configurada qualquer das situações dispostas no art. 4º da referida norma, in verbis:
+"Art. 4º A atuação do Tribunal no plantão judiciário restringe-se ao exame das seguintes matérias:
+I - habeas corpus contra prisão, busca e apreensão e medida cautelar decretadas por autoridade sujeita à competência originária do Tribunal;
+II - mandado de segurança contra ato de autoridade coatora sujeita à competência originária do Tribunal cujos efeitos se operem durante o plantão ou no primeiro dia útil subsequente;
+III - suspensão de segurança, suspensão de execução de liminar e de sentença e as reclamações a propósito das decisões do presidente cujos efeitos se operem durante o plantão ou no primeiro dia útil subsequente;
+IV - comunicação de prisão em flagrante e pedidos de concessão de liberdade provisória em inquérito ou ação penal da competência originária do Tribunal;
+V - representação da autoridade policial ou requerimento do Ministério Público que visem à decretação de prisão preventiva ou temporária, de busca e apreensão ou de medida cautelar, justificada a urgência e observada a competência originária do Tribunal.
+ ..
+§ 2º Compete ao advogado fazer mediante declaração que será gerada e inserida pelo sistema informatizado nos autos do processo, a correta indicação de uma das hipóteses previstas neste artigo."
+Desse modo, o caso atrai a aplicação do § 1º do art. 4º da IN n. 6/2012, pelo qual não se despacham durante o plantão judiciário petições cujo objeto " ..  não se enquadre nas hipóteses deste artigo nem aquelas cujo objeto seja prisão, busca e apreensão ou medida cautelar decretadas ou mantidas em grau de recurso por tribunais locais  .. ", como no caso concreto.
+Noutro vértice, a jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUPERAÇÃO DA SÚMULA 691/STF. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA NA GRAVIDADE CONCRETA DA CONDUTA E NA REITERAÇÃO DELITIVA.
+1. Não se verifica flagrante ilegalidade a ensejar a superação do óbice da Súmula 691 do STF, visto que houve fundamento válido para o indeferimento do pedido liminar na origem.
+2. Houve a fundamentação concreta para a decretação da prisão preventiva diante da intensa troca de mensagens entre os acusados, denotando-se uma possível associação entre ambos para o trafico de drogas.
+3. Além disso, a prisão preventiva também foi fundamentada na possibilidade de reiteração delitiva do paciente, que responde a vários procedimentos perante as autoridades policiais, além de ser reincidente em crime doloso.
+4. A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública.
+5. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+6. Agravo regimental improvido.
+(AgRg no HC n. 797.719/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), SEXTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023)
+PROCESSO PENAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO. PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIOS DA AMPLA DEFESA E DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA. FALTA DE RAZOABILIDADE. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA.
+1. Em atenção aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, deve ser o pedido de reconsideração recebido como agravo regimental, sobretudo porque protocolado dentro do prazo legal.
+2. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal. Precedentes.
+3. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+4. Encontrando-se a decisão suficientemente motivada e fundamentada, notadamente diante da expressiva quantidade de droga apreendida - 120kg (cento e vinte quilos) de cocaína, em contexto de tráfico interestadual de entorpecentes -, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(RCD no HC n. 787.731/PE, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 6/3/2023, DJe de 9/3/2023)
+HABEAS CORPUS. EXECUÇÃO DE ALIMENTOS. IMPETRAÇÃO CONTRA DECISÃO LIMINAR DE RELATOR. TRIBUNAL DE ORIGEM. NÃO CABIMENTO. SÚMULA 691 DO STF. PRISÃO. CUMPRIMENTO EM ESTABELECIMENTO COMUM. ADVOGADO. SALA DE ESTADO MAIOR OU DOMICILIAR. PERDA DE OBJETO.
+1. Não compete ao Superior Tribunal de Justiça conhecer de habeas corpus em face decisão de relator que, em habeas corpus requerido ao Tribunal de origem, indefere a liminar. Aplicação da Súmula 691 do STF.
+2. Hipótese, ademais, em que o próprio mérito da impetração original foi julgado na origem, com trânsito em julgado, sem a apresentação de recurso ordinário em favor do paciente, que já cumpriu o prazo de trinta dias de prisão decretado em estabelecimento prisional comum.
+3. Habeas Corpus prejudicado.
+(HC n. 309.859/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe de 28/9/2015)
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular.
+Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado não estava manifesto e detectável de plano, nos seguintes termos:
+" ..  De fato, o inciso V do art. 7º da Lei 8.906/94 (Estatuto da Advocacia)estabelece como direito do advogado "não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar".
+Na espécie, transpondo os ensinamentos à hipótese em apreço, não se verifica a presença dos requisitos necessários à concessão da tutela de urgência, eis que, malgrado a juntada dos documentos de p. 21-75 por parte dos impetrantes, ao menos sob a análise superficial deste momento, não é possível verificar se a medida excepcional de prisão cautelar, a qual está submetida a paciente, está sendo cumprida em salas dignas, equivalentes àquelas previstas na legislação.
+Embora o advogado tenha a prerrogativa de não ser recolhido preso antes da sentença transitada em julgado, senão em Sala de Estado Maior, conforme disposição do artigo 7º, inciso V, da Lei nº 8.906/1994, o Superior Tribunal de Justiça firmou o entendimento de que o recolhimento do advogado, em cela individual e em condições regulares de higiene e instalações sanitárias próprias, separado de outros presos, atende a prerrogativa supracitada, diante da notória ausência de Salas de Estado Maior na maioria dos Estados brasileiros.
+ ..
+Necessário asseverar que, malgrado conste o regular cumprimento do mandado de prisão expedido pela autoridade coatora, o encaminhamento da paciente a SEAP-RJ (Secretaria de Administração Penitenciária do Rio de Janeiro) e cópia de extrato de consulta com a informação de que "O interno Consultado localiza-se na unidade SEAPOS - Instituto Penal Oscar Stevenson"  sem menção ao nome consultado  (p. 24), não sobreveio informação suficiente acerca da existência ou não de sala de Estado Maior ou instalações condignas com o seu grau no local onde a advogada está presa provisoriamente. Também não há sequer relato a respeito no Termo de Audiência de Custódia (p. 68-70).
+Ademais, a tutela de caráter liminar confunde-se com o mérito da impetração e, portanto, exige uma análise mais cautelosa, a ser realizada pelo órgão colegiado, após a chegada das informações.
+Destarte, ante ao exposto, indefiro a liminar pleiteada.  .. " (fls. 70/71).
+Tal a conjuntura, inobstante os argumentos defensivos, deve ser prestigiada a pacífica jurisprudência do Superior Tribunal de Justiça, no sentido de aguardar o julgamento de mérito da impetração pela Corte de origem, a fim de evitar indevida supressão de instância.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
