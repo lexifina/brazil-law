@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO RIO DE JANEIRO contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado nos termos da seguinte ementa (e-STJ, fl. 57):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DEFINITIVO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AUTOR QUE FALECEU EM 22/10/2019 E SEU INVENTÁRIO, LAVRADO POR ESCRITURA PÚBLICA EM 16/03/2020, NÃO ARROLOU O DIREITO DE CRÉDITO ORIUNDO DA DEMANDA ORIGINÁRIA, CUJO PROCESSO HAVIA TRANSITADO EM JULGADO EM 22/11/2001. DECISÃO QUE DEFERIU A HABILITAÇÃO DIRETA DOS HERDEIROS NOS AUTOS DA EXECUÇÃO. IRRESIGNAÇÃO DO ENTE PÚBLICO QUE NÃO MERECE PROSPERAR. A POSSIBILIDADE DE A SUCESSÃO PROCESSUAL ENTRE FALECIDO E SEUS HERDEIROS, DE FORMA DIRETA, NOS PRÓPRIOS AUTOS, ENCONTRA PREVISÃO NOS ARTS. 110 E 313,§2º, II, AMBOS DO CPC. ADEMAIS, NÃO HÁ QUALQUER POSSIBILIDADE DE PREJUÍZOS AO FISCO, UMA VEZ QUE A VERBA É ISENTA DE ITCMD, NOS TERMOS DO ART. 8º, INCISO VI DA LEI ESTADUAL 7.174/2015. PRECEDENTES DESTA CORTE NESSE SENTIDO. DECISÃO QUE NÃO MERECE QUALQUER REPARO. NEGADO PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 101-108).
+Nas razões do recurso especial (e-STJ, fls. 123-133), o recorrente apontou violação aos arts. 110, 313, §§ 1º e 2º, 669, 687 e 2.022 do CPC/2015.
+Sustentou, em síntese, a impossibilidade de habilitação direta dos herdeiros, pois não houve o arrolamento do direito de crédito discutido no presente feito na escritura de partilha extrajudicial.
+Defende a necessidade de sobrepartilha e a sucessão processual pelo espólio.
+Foram apresentadas contrarrazões (e-STJ, fls. 138-147).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 60-61):
+Trata-se de ação de ação ordinária de restituição de importâncias indevidamente descontadas dos respectivos vencimentos ou proventos, de fiscais de rendas ativos ou inativos, ajuizada em 17/07/1996. Consoante certidão de óbito (index 1176), o autor Paulo de Andrade Nogueira faleceu em 22/10/2019 e seu inventário, lavrado por escritura pública em 16/03/2020 (index 1177), não arrolou o direito de crédito oriundo desta demanda, cujo processo havia transitado em julgado em 22/11/2001 (index 1215). Entretanto, deve ser afastada a alegação de que o crédito reconhecido nestes autos deveria ser precedido do procedimento de sobrepartilha, porquanto a possibilidade da sucessão processual entre falecido e seus herdeiros, de forma direta, nos próprios autos, encontra previsão nos arts. 110 e 313, §2º,II, ambos do CPC ( )
+Além disso, não há qualquer possibilidade de prejuízos ao fisco, uma vez que a verba é isenta de ITCMD, nos termos do art. 8º, inciso VI da Lei Estadual 7.174/2015.
+Salienta-se que não subsiste justificativa plausível para impor aos herdeiros a abertura de inventário para receber o crédito existente nos autos originários.
+Com efeito, a jurisprudência desta Corte firmou-se no sentido de que "o encerramento do inventário, sem que haja a inclusão de direitos e ações em juízo, somente habilita o espólio ou os herdeiros após a sobrepartilha" (AgRg no REsp n. 1.552.356/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 24/11/2015, DJe de 1/12/2015).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. INVENTÁRIO. PARTILHA. SOBREPARTILHA. SÚMULA 83 STJ. JULGAMENTO MONOCRÁTICO. CABIMENTO. SÚMULA 568 STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Nos termos da jurisprudência pacífica do STJ, o encerramento do inventário, sem que haja a inclusão de direitos e ações em juízo, somente habilita o espólio ou os herdeiros aos referidos bens após a sobrepartilha. Assim, a habilitação incidente formulada por herdeiros e sucessores de impetrantes que possuíam bens, cujo processo de inventário já finalizou com a partilha de bens, deve ser requerida ao juízo em que correu o processo de inventário.
+4. Não houve adequada impugnação à aplicação do óbice da Súmula 83, do STJ, cuja impugnação pressupõe a demonstração através de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou de que o caso dos autos seria distinto daqueles veiculados nos precedentes, o que não ocorreu na hipótese.
+5. Os arts. 932, III, CPC/2015; 34, XVIII, a, e 255, § 4º, I, do RISTJ devem ser interpretados, conjuntamente, com a Súmula 568/STJ, a qual dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", sendo esse o caso dos autos.
+6. É necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.011.620/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Ante o exposto, conheço do agravo para dar provimento recurso especial, a fim de que seja indeferida a habilitação direta dos herdeiros.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ENCERRAMENTO DO INVENTÁRIO SEM A INCLUSÃO DO DIREITO DE CRÉDITO. HABILITAÇÃO DIRETA DOS HERDEIROS. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
