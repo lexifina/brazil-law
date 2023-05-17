@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em favor de EDMILSON DE MENESES - condenado a cumprir 11 anos e 6 meses de reclusão, em regime inicial fechado, e a pagar 1.750 dias-multa, pela prática dos crimes tipificados nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 (Autos 0004189-48.2011.8.26.0127) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2098084-02.2023.8.26.0000).
+Aponta-se a ocorrência de nulidade por invasão de domicílio, arguindo-se que, do que é possível extrair dos autos, o ingresso no endereço que se situava o lava-rápido "BEM 10"  ..  se deu de maneira forçada, cujas "fundadas razões" apresentam-se controvertidas (fl. 10); e que a leitura da denúncia permite a conclusão que, antes de acionar à Polícia Militar, competia à Polícia Federal - que tinha ciência da data de entrega da droga, conforme a denúncia - orquestrar a expedição de mandado judicial, sob pena de ilicitude das provas obtidas (fl. 11).
+Pretende-se a concessão da ordem a fim de declarar a nulidade da busca domiciliar levada a efeito - e de tudo que dela for decorrente -, sendo o Paciente consequentemente absolvido de todas as imputações pelos quais restou condenado, com fulcro no artigo 386, inc. II, do CPP (fls. 14/15).
+É o relatório.
+Primeiramente, a condenação transitou em julgado. Nesse caso, o presente writ é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo ora paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Ademais, não há ilegalidade flagrante apta a justificar a concessão da ordem de ofício, considerando-se, sobretudo, a jurisprudência desta Corte segundo a qual, tendo ocorrido a abordagem policial em imóvel no qual funciona estabelecimento comercial, ainda que a diligência tenha ocorrido quando não havia mais clientes, a hipótese é de local aberto ao público, que não recebe a proteção constitucional da inviolabilidade do domicílio (HC n. 754.789/RS, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 15/12/2022.)
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. TRÁFICO DE DROGAS. INVASÃO DOMICILIAR. AUSÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
