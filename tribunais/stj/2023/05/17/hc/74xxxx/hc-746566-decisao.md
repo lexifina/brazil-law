@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de OTAVIO CESAR MACHADO DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0016638- 40.2022.819.0000 de relatoria da Desembargadora Suely Lopes Magalhães).
+Depreende-se dos autos que o Juízo de primeiro grau decretou a prisão preventiva do paciente em 21/1/2022 pela suposta prática do delito tipificado no art. 35 da Lei nº 11.343/2006. Referido mandado prisional foi cumprido em 17/2/2022.
+Impetrado habeas corpus na origem, o Tribunal a quo denegou a ordem, nos termos do acórdão que ficou assim ementado (e-STJ fls. 23/24):
+HABEAS CORPUS. Prisão preventiva. Artigo 35 da Lei nº 11.343/06.
+Postula-se o relaxamento ou revogação da prisão preventiva experimentada pelo paciente, nos termos do artigo 5º, inciso LXV da CF e artigo 648, inciso VI do CPP, expedindo-se o competente alvará de soltura. Narra o impetrante, ter o paciente respondido em liberdade a ação penal distribuída sob o nº 0101804-08.2020.8.19.0001, na qual imputa-se o delito previsto no artigo 33 da Lei 11.343/06. Todavia, nos autos do feito originário (nº 0007309-43.2021.8.19.0063), aos quais o presente mandamus se refere, restou indeferido o pleito libertário, em que pese a denúncia pelo crime capitulado no artigo 35 da LD. Com efeito, os elementos colhidos expõem a necessidade de resguardar-se a ordem pública e a aplicação da lei penal, em consonância com os requisitos legais. Presentes os indícios suficientes de autoria e materialidade delitivas, angariados pelas declarações prestadas em sede policial. Lado outro, o paciente encontra-se inserido em meio pernicioso, ostentando condenação não transitada em julgado por crime de trá fico, ao qual respondia em liberdade. Ainda que os delitos daquele processo e do originário tenham sido praticados em um mesmo contexto, como sustenta a defesa, imperiosa a manutenção da tutela a fim de assegurar-se a aplicação da lei penal. Ademais, os fatos que permitiram ao paciente responder em liberdade a primeira ação penal, não são os mesmos debatidos na ação originária nº 0007309-43.2021.8.19.0063. Ausência de constrangimento ilegal, passível de concessão da liberdade ora requerida.
+Ordem conhecida e denegada.
+No presente writ, a defesa salienta que os mesmos fatos foram abordados em ação penal anterior na qual o paciente foi condenado como incurso no art. 33 da Lei de Drogas, tendo respondido à ação penal em liberdade, inexistindo fatos que indiquem, agora, a necessidade da imposição da medida extrema.
+Alega ausência de fundamentação idônea do decreto prisional e assevera que está pautado exclusivamente na gravidade abstrata do delito. Ressalta as condições pessoais favoráveis do paciente e aponta suficiência da aplicação de medidas alternativas ao cárcere, sobretudo quando considerado que já vinham sendo cumpridas em ação penal anterior conexa.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP (e-STJ fls. 3/16).
+O pedido liminar foi indeferido (e-STJ fls. 66/68).
+Informações prestadas (e-STJ fls.98/103).
+O Ministério Público Federal manifestou-se pela concessão da ordem com a aplicação de medidas alternativas (e-STJ fls. 87/92)
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifica-se que o Juízo sentenciante, ao proferir a sentença absolutória em favor do paciente, assim se manifestou, in verbis:
+JULGO IMPROCEDENTE a pretensão punitiva estatal para ABSOLVER os réus VINICIUS DE OLIVEIRA LOPES E OTÁVIO CÉSAR MACHADO SILVA das imputações que lhe foram feitas na denúncia, com base no art. 386, inciso VII, do CPP.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar .
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
