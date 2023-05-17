@@ -1,0 +1,39 @@
+DECISÃO
+Na origem, Ivan Rodrigues Soares e Auto Peças Itaqui Ltda. interpuseram agravo de instrumento contra decisão que indeferiu o novo pedido dos agravantes de gratuidade de justiça.
+A Décima Segunda Câmara Cível do Tribunal de Justiça do Rio Grande do Sul negou provimento ao agravo de instrumento, em acórdão assim ementado (e-STJ, fl. 42):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. GRATUIDADE JUCIDIÁRIA. NOVO PEDIDO. BENEFÍCIO INDEFERIDO.
+MANUTENÇÃO DA DECISÃO AGRAVADA.
+Possível o deferimento do benefício da gratuidade à pessoa física e jurídica, desde que comprovem a hipossuficiência econômica/financeira a inviabilizar o pagamento das custas processuais. Caso concreto em que tiveram os agravantes indeferido o benefício, num primeiro momento, tendo sido a decisão confirmada pelo Tribunal. Não comprovada nos autos a alegada mudança da situação econômica financeira dos agravantes, razão pela qual mantida a decisão agravada que tornou a indeferir o benefício, como bem analisado no Parecer do Ministério Público.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 67-71).
+Ivan Rodrigues Soares e Auto Peças Itaqui Ltda. interpuseram recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação ao art. 1.022, II, do Código de Processo Civil.
+Alegaram negativa de prestação jurisdicional por parte do Tribunal de origem em relação a análise dos documentos "que demonstram a ausência de movimentação financeira das duas empresas das quais o recorrente Ivan é sócio".
+Contrarrazões apresentadas às fls. 92-95 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial sob os fundamentos de ausência de omissão no acórdão recorrido e de incidência da Súmula n. 7/STJ, o que ensejou a interposição do presente agravo (e-STJ, fls. 116-124).
+Contraminuta às fls. 130-132 (e-STJ).
+Brevemente relatado, decido.
+Os recorrentes sustentam a ocorrência de negativa de prestação jurisdicional por parte do Tribunal de origem no julgamento da apelação, pois o acórdão a quo teria sido omisso em relação a análise dos documentos "que demonstram a ausência de movimentação financeira das duas empresas das quais o recorrente Ivan é sócio".
+O argumento, todavia, não procede. Isso porque, do exame dos autos, verifica-se que a Corte local apreciou expressamente a questão, de maneira exauriente e fundamentada, consignando (e-STJ, fls. 45-46):
+Cumpre destacar que o benefício da gratuidade judiciária não é irrestrito, consoante dispõe o art. 5o., LXXXOV, da Carta Magna.
+CF, Artigo 5º, LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos.
+No caso em tela, verifica-se que os agravantes pugnaram pela concessão do benefício da gratuidade judiciária, tendo sido este indeferido, o que foi objeto de interposição de agravo de instrumento anterior, o qual foi desprovido, restando mantida a decisão nos seguintes termos:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. GRATUIDADE JUDICIÁRIA. NÃO COMPROVADA A NECESSIDADE ALEGADA. MANUTENÇÃO DO INDEFERIMENTO.É possível a concessão do benefício da gratuidade, desde que comprovada a insuficiência de recursos para arcar com o pagamento das custas processuais. Caso concreto em que não restou comprovada a hipossuficiência econômica alegada, impondo-se a manutenção da decisão agravada. AGRAVO DE INSTRUMENTO DESPROVIDO. (Agravo de Instrumento 5025268-29.2021.8.21.7000/RS, transitado em julgado em 25/11/2021.)
+Alegando mudanças nas condições financeiras, os agravantes tornaram a requerer o benefício da gratuidade.
+Todavia, em que pese o agravante IVAN tenha acostado aos autos nova declaração de imposto de renda, na qual consta rendimentos mensais inferiores a cinco salários mínimos, tem-se que não houve qualquer mudança em relação aos bens, os quais além de significativo valor econômico, demonstram que é sócio de duas pessoas jurídicas.
+Afora isso, verifica-se que além da renda declarada no IRPF 2020/2021 (Evento 28), tem-se acostado declaração de recebimento de benefício previdenciário (Evento 9, Outros 8).
+Ainda que possua dívidas, verifica-se que decorrentes da atividade rural desenvolvida pelo agravante, não restando evidenciado serem impeditivas do recolhimento das custas.
+No que tange à agravante pessoa jurídica, igualmente não comprova a hipossuficiência financeira, nem tampouco eventual mudança em relação aos documentos apresentados quando do primeiro pedido de gratuidade, questão já analisada, inclusive, pelo Tribunal, que manteve o indeferimento.
+Diante disso, não restando comprovada pelos agravantes a hipossuficiência alegada ou eventual mudança significativa na situação econômica/financeira a impedir o pagamento das custas processuais, é de ser mantido o indeferimento do benefício novamente postulado.
+Nesse sentido, também se manifestou o douto Procurador de Justiça, Dr. Luiz Inácio Vigil Neto, no parecer do Evento 9, verbis:
+Feitas essas considerações, observa-se que a agravante Auto Peças Itaqui Ltda. não logrou comprovar o seu estado de hipossuficiência econômica, não se prestando para tanto a lista de processos acostada ao evento 28 - "OUT4" e "OUT5" do processo principal, haja vista que esta apenas demonstra que a sociedade empresarial integra o polo passivo de algumas demandas, nada dizendo a respeito da saúde financeira da empresa, tampouco a respeito do suposto encerramento das atividades.
+Ademais, entende-se que as declarações de evento 28 - "DECL2" do processo principal e de evento 8 - "OUT2" do presente processo também não têm o condão de afastar a conclusão a que chegou o magistrado a quo, haja vista que estas não comprovam a existência de débitos que comprometam, em face da totalidade dos bens e direitos da sociedade, o pagamento das custas processuais.
+De outro lado, em relação ao agravante Ivan, verifica-se que, a despeito de os rendimentos constantes da declaração de imposto de renda de evento 28 - "OUT3" do processo principal estarem abaixo do patamar bruto mensal de 5 (cinco) salários mínimos, o autor possui bens variados de significativo valor econômico (R$ 444.502,68), o que o afasta, indubitavelmente, do conceito de hipossuficiente econômico previsto na legislação.
+Além disso, conforme se denota das informações constantes da declaração de imposto de renda, o agravante é sócio de duas sociedades empresariais, o que faz presumir a percepção adicional de participação nos lucros e resultados e a existência de bens e direitos incompatíveis com a concessão da benesse postulada.
+Assim, não tendo a agravante Auto Peças Itaqui Ltda. logrado comprovar a sua situação de hipossuficiência econômica e tendo a prova dos autos elidido a presunção advinda da declaração de hipossuficiência econômica firmada pelo agravante Ivan, não há como afastar a conclusão a que chegou o juízo de primeiro grau, devendo ser mantida a decisão agravada.
+Pelo exposto, manifesta-se o Ministério Público pelo conhecimento e desprovimento do agravo de instrumento.
+Por conseguinte, de forma certa ou errada, as questões foram apreciadas pelo Tribunal estadual, não havendo, assim, a apontada negativa de prestação jurisdicional, motivo pelo qual se afasta a violação ao art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE JUDICIÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
