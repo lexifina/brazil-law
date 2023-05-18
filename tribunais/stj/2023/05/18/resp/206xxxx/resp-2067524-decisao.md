@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso e special interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que concedeu benefício acidentário.
+Os embargos declaratórios opostos pelo INSS foram rejeitados.
+Nas razões de recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, aponta o INSS violação aos artigos 535, II, do CPC/1973; 31 da Lei n. 10.741/2003; 41-A da Lei n. 8.213/1991, com a redação dada pela Lei n. 11.430/2006; 5º da Lei n.11.960/2009 e 1º-F da Lei n. 9.494/1997.
+Aponta negativa de prestação jurisdicional.
+Defende que é "de rigor a incidência imediata da Lei nº 11.960/2009 no tocante também à correção das parcelas em atraso, tendo em vista o já decidido pelo E. STF".
+Pleiteia "a reforma do v. aresto recorrido para determinar a aplicação, para fins de correção monetária do débito, o índice INPC a-partir do advento da Lei 10.741/03, bem como a TR como índice de atualização das parcelas em atraso a partir da Lei nº 11.960/2009, excluindo-se a aplicação do IGP-DI nos moldes determinados".
+Não foram apresentadas contrarrazões.
+Em sede de reexame de matéria repetitiva o acórdão foi mantido.
+Após juízo positivo de admissibilidade do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+De início, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO -REGIME DAS LEIS 8.212/91 E 8.620/93- POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1.Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+Rejeitada, portanto, a preliminar de violação ao artigo 535, II, do CPC/1973.
+Ademais, no julgamento realizado pela Egrégia Primeira Seção do Superior Tribunal de Justiça, em sede de recursos especiais representativos da controvérsia, REsp 1.495.146/MG, REsp 1.495.144/RS e REsp 1.492.221/PR, em que se observou a repercussão geral firmada pelo Supremo Tribunal Federal no RE 870.947/SE, foi fixada, dentre outras, a seguinte tese in verbis:
+O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.
+Concluiu-se que o artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+Confira-se uma das ementas de um dos representativos da controvérsia julgados pelo STJ, a qual se repete para os demais repetitivos:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO CONCRETO QUE É RELATIVO A CONDENAÇÃO JUDICIAL DE NATUREZA PREVIDENCIÁRIA.
+TESES JURÍDICAS FIXADAS.
+1. Correção monetária: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza.
+1.1 Impossibilidade de fixação apriorística da taxa de correção monetária.
+No presente julgamento, o estabelecimento de índices que devem ser aplicados a título de correção monetária não implica pré-fixação (ou fixação apriorística) de taxa de atualização monetária. Do contrário, a decisão baseia-se em índices que, atualmente, refletem a correção monetária ocorrida no período correspondente. Nesse contexto, em relação às situações futuras, a aplicação dos índices em comento, sobretudo o INPC e o IPCA-E, é legítima enquanto tais índices sejam capazes de captar o fenômeno inflacionário.
+1.2 Não cabimento de modulação dos efeitos da decisão.
+A modulação dos efeitos da decisão que declarou inconstitucional a atualização monetária dos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, no âmbito do Supremo Tribunal Federal, objetivou reconhecer a validade dos precatórios expedidos ou pagos até 25 de março de 2015, impedindo, desse modo, a rediscussão do débito baseada na aplicação de índices diversos. Assim, mostra-se descabida a modulação em relação aos casos em que não ocorreu expedição ou pagamento de precatório.
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico-tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos.
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+3.1.2 Condenações judiciais referentes a desapropriações diretas e indiretas.
+No âmbito das condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas, no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), nem para compensação da mora nem para remuneração do capital.
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n.11.960/2009).
+3.3 Condenações judiciais de natureza tributária.
+A correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1º, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices.
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.
+SOLUÇÃO DO CASO CONCRETO.
+5. No que se refere à alegada afronta aos arts. 128, 460, 503 e 515 do CPC, verifica-se que houve apenas a indicação genérica de afronta a tais preceitos, sem haver a demonstração clara e precisa do modo pelo qual tais preceitos legais foram violados. Por tal razão, mostra-se deficiente, no ponto, a fundamentação recursal. Aplica-se, por analogia, o disposto na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+6. Quanto aos demais pontos, cumpre registrar que o presente caso refere-se a condenação judicial de natureza previdenciária. Em relação aos juros de mora, no período anterior à vigência da Lei 11.960/2009, o Tribunal de origem determinou a aplicação do art. 3º do Decreto-Lei 2.322/87 (1%); após a vigência da lei referida, impôs a aplicação do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009). Quanto à correção monetária, determinou a aplicação do INPC. Assim, o acórdão recorrido está em conformidade com a orientação acima delineada, não havendo justificativa para reforma.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido. Acórdão sujeito ao regime previsto no art. 1.036 e seguintes do CPC/2015, c/c o art. 256-N e seguintes do RISTJ.
+Para o presente caso, isto é, condenações judiciais de natureza previdenciária, destaca-se do recurso supratranscrito que:
+(i) incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o artigo 41-A na Lei 8.213/1991, índice que deverá ser mantido mesmo após a vigência da Lei n. 11.960/2009;
+(ii) no período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal; e
+(iii) os juros de mora incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, dou parcial provimento ao recurso especial, tão somente para que os cálculos sejam ajustados nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ÍNDICE DE CORREÇÃO MONETÁRIA. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. OBSERVÂNCIA DOS RECURSOS ESPECIAIS REPETITIVOS 1.495.146/MG, 1.495.144/RS E 1.492.221/PR. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
