@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo interposto por Milton Lofarga contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, cuja ementa assim estabelece, in verbis:
+TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. DOENÇA GRAVE. LAUDO PERICIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 6º, INCISO XIV, DA LEI Nº 7.713/88.
+1. Diante do cenário de divergências técnicas acerca da enfermidade do autor e sendo certo que ao Poder Judiciário f a l e c e expertise para de nir qual a resposta é tecnicamente mais adequada, impõe-se privilegiar o trabalho do perito, que, além de ser auxiliar da justiça e profissional de confiança do juízo, apresentou laudo devidamente fundamentado, com a exposição da doença da parte e respostas claras e circunstanciadas aos quesitos.
+2. O direito à isenção de imposto de renda do portador de moléstia grave surge na data em que a mesma for constatada por exame médico e atestada pelo perito judicial.
+3. A União tem direito à dispensa do pagamento de honorários, nos termos do §1º, I, do art. 19 da Lei nº 10.522, de 2002, apenas quando o Procurador da Fazenda Nacional que atuar no feito reconhecer a procedência do pedido quando citado para apresentar resposta.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, fundamentado sob o artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional o recorrente alega a violação ao artigo 479 do CPC/2015, para sustentar que a prova pericial produzida na origem é inservível como elemento de prova, devendo ser renovada a prova pericial para que se declare o direito à isenção fiscal.
+Contrarrazões ao recurso especial 700/704 (e-STJ)
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Não houve a apresentação de contraminuta ao Agravo em Recurso Especial.
+É o relatório. Passo a decidir.
+Deveras, a pretensão não merece prosperar. Isto porque, o artigo vindicado no apelo especial, a respeito da exegese do artigo 479 do CPC/2015, não foi prequestionado, não obstante a oposição de embargos de declaração, razão pela qual incide o teor da Súmula 211/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO ANULATÓRIA DE ATOS JURÍDICOS. ERRO MATERIAL. REVER A CONCLUSÃO A QUE CHEGOU A COTE DE ORIGEM PARA ENTENDER QUE HOUVE ERRO QUANTO A CONCLUSÃO DO ARESTO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. VIOLAÇÃO AOS ARTS. 14, 18, 109 E 933 DO CPC. MATÉRIA SEM PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO REFUTADO PELAS RAZÕES DO ESPECIAL. SÚMULA 283/STF. VIOLAÇÃO DA LINDB. MATÉRIA CONSTITUCIONAL.
+1. Rever a conclusão a que chegou o Tribunal de origem para entender que houve erro material quanto a origem do imóvel em questão, ou seja, que a venda foi feita diretamente pelo ora recorrente, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. Quanto ao mérito, no que concerne a suposta violação ao art. 1211 do CPC/73 e aos arts. 14, 18, 109 e 933 do CPC/2015 verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Não possível a análise de suposta violação ao art. 6º, §1º, da LINDB, pois "o Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial" (AgInt no REsp n. 1.970.807/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.).
+5. AGRAVO A QUE SE NEGA PROVIMENTO.
+(AgInt no AREsp n. 2.177.415/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODAS AS QUE STÕES POSTAS DE MANEIRA CLARA E COM FUNDAMENTAÇÃO SUFICIENTE. DISPOSITIVOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. ALIENAÇÃO FIDUCIÁRIA. O ERRO DE FORMA PELA IMPROPRIEDADE DO REMÉDIO JURÍDICO PROCESSUAL COMPORTA O APROVEITAMENTO, NA ESTEIRA DO DISPOSTO NO PARÁGRAFO ÚNICO DO AR TIGO 283 DO CÓDIGO DE PROCESSO CIVIL. NÃO SE DECRETA NULIDADE DE ATOS PROCESSUAIS QUANDO NÃO EVIDENCIADO O PREJUÍZO EFETIVO EXPERIMENTADO PELA PARTE. PRECEDENTES. FUNDAMENTO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO E NÃO IMPUGANDO. APLICAÇÃO DA SÚMULA 283/STF. RAZÕES QUE SE MANTÉM. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.208.735/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PROVA PERICIAL INSERVÍVEL. EXEGESE DO ARTIGO 479, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
