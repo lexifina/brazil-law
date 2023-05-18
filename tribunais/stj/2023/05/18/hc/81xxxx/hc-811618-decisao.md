@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de SAMUEL DA SILVA FERNANDES e CLAILTON SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, proferido na Apelação n. 0000566-96.2021.8.12.0035.
+Consta dos autos que os pacientes foram condenados, em segundo grau, a 3 anos de reclusão e 7 meses de detenção, no regime aberto, beneficiado pelo sursis (Samuel), pela prática dos crimes tipificados nos arts. 155, § 4º, IV, 329, §§ 1º e 2º, 129 e 307, todos do Código Penal; e 2 anos de reclusão, no regime aberto, substituída a pena por restritiva de direitos (Clailton), pela prática do crime previsto no art. 155, § 4º, IV, do Código Penal.
+No presente writ, a defesa alega, em síntese, que os pacientes preenchem todos os requisitos exigidos para a aplicação do princípio da insignificância quanto ao crime de furto qualificado, conforme feito pelo Juízo de Primeiro Grau.
+Requer a concessão da ordem nesse sentido.
+Dispensadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 378/383).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+Insta mencionar, também, que a jurisprudência consolidada do Superior Tribunal de Justiça, para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo, independentemente da condição financeira da vítima
+No caso dos autos, além de os ora pacientes terem praticado o crime mediante o concurso de agentes, o que afasta o reduzido grau de reprovabilidade do comportamento, o furto foi praticado no dia 16/05/2021, quando o salário mínimo estava fixado em R$ 1.100,00. Nesse contexto, seguindo a orientação jurisprudencial desta Corte, a res furtiva avaliada em R$ 200,00 não pode ser considerada de valor ínfimo, por superar 10% do salário mínimo vigente à época dos fatos.
+Confira-se, a propósito, a fundamentação apresentada no acórdão impugnado:
+" ..
+Transpondo esses ensinamentos ao caso dos autos, conclui-se que este não se reveste dos necessários requisitos cumulativos acima descritos, porquanto o delito imputado aos acusados se mostrou de elevado grau de reprovabilidade, porquanto, em tese, cometido em concurso de pessoas, os acusados teriam subtraído 01 (um) botijão de gás, de cor azul, com carga, da residência da vítima. Aliás, evidente que o valor da res furtiva, era de um total superior a R$ 200,00 (duzentos reais), cujo valor não se pode ter como considerando como insignificante" (fl. 24).
+Quanto ao tema, cito os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. VALOR DO BEM E REITERAÇÃO DELITIVA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Na hipótese dos autos, é incabível a subsunção do princípio da insignificância ao caso concreto, uma vez que o valor do bem subtraído - botijão de gás -, "superior a R$100,00, cujo valor do bem tutelado ultrapassa a quantia de 10% do salário mínimo à época dos fatos (2019), que era de R$ 998,00" (fl. 166), não pode ser considerado irrisório, já que equivale a mais de 10% (dez por cento) do salário mínimo vigente à época do fato.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.035.563/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 15/3/2022, DJe de 24/3/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. VALOR SIGNIFICANTE DO BEM. REDUÇÃO DA PRESTAÇÃO PECUNIÁRIA. NÃO CONSTATADA SITUAÇÃO EXCEPCIONAL. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. RECURSO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. No caso em apreço, o paciente foi condenado por subtrair para si um botijão de gás avaliado em R$ 150,00, valor que ultrapassa 20% do salário mínimo vigente à época dos fatos, qual seja R$ 724,00. Desse modo, não pode ser considerado como insignificante o valor do bem furtado, não havendo que se falar em atipicidade da conduta.
+3. Não ficou demonstrado nos autos situação excepcional que autorizasse a redução da prestação pecuniária. O aprofundado exame da capacidade econômica do paciente, à míngua de prova pré-constituída, é providência incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 523.455/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/12/2019, DJe de 9/12/2019).
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉU MULTIRREINCIDENTE. FORMA QUALIFICADA DO CRIME. MÍNIMA OFENSIVIDADE DA CONDUTA E AUSÊNCIA DE PERICULOSIDADE SOCIAL DA AÇÃO NÃO EVIDENCIADAS. DOSIMETRIA. PENA BASE. MAUS ANTECEDENTES EVIDENCIADOS. IDADE DA VÍTIMA. AGRAVANTE DE NATUREZA OBJETIVA MANTIDA. REGIME FECHADO PROPORCIONAL. INAPLICABILIDADE DA SÚMULA 269/STJ. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consolidou entendimento no sentido de que não se aplica o princípio da insignificância ao delito de furto, quando, apesar do pequeno valor da res furtiva (R$ 60,00), as condições pessoais e as circunstâncias do caso concreto se mostram desfavoráveis. De fato, a prática de furto qualificado pelo concurso de agentes inviabiliza a incidência do princípio da insignificância.
+ ..
+7. Agravo desprovido.
+(AgRg no HC n. 798.897/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. FURTO QUALIFICADO PELO CONCURSO DE AGENTES. BENS AVALIADOS EM 40% (QUARENTA POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. INVIABILIDADE. DEVOLUÇÃO DA RES FURTIVA A VÍTIMA. IRRELEVÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Agravante foi denunciado pela prática, em tese, do crime previsto no art. 155, § 4.º, inciso IV, do Código Penal, porque subtraiu, para si, coisas alheias móveis, consistentes em 2 (dois) ovos de chocolate da marca Kinder ovo, 3 (três) ovos de chocolate da marca Arcor, 2 (dois) ovos de chocolate da marca Lacta, 1 (um) ovo da marca Arcor com fone de ouvido e 4 (quatro) velas de aniversário, avaliados em R$ 419,14 (quatrocentos e dezenove reais e quatorze centavos).
+2. A aplicabilidade do princípio da insignificância deve observar as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e identificar a necessidade, ou não, da utilização do direito penal como resposta estatal.
+3. Além de o crime de furto ter sido qualificado pelo concurso de agentes, circunstância objetiva que denota a maior reprovabilidade da conduta, o valor da res furtiva não é insignificante pois equivale a 40% do salário mínimo vigente à época. E conforme a jurisprudência desta Corte Superior de Justiça é "incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp 1.729.387/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/05/2018, DJe 09/05/2018).
+4. De acordo com o entendimento pacificado do Superior Tribunal de Justiça, o fato de o produto do furto ter sido devolvido à Vítima não afasta a tipicidade material da conduta delitiva, pela aplicação do princípio da bagatela.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 161.195/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023).
+Ressalte-se, por fim, que "a devolução do objeto furtado à vítima não constitui, por si só, motivo suficiente para a aplicação do princípio da insignificância" (AgRg no AgRg no AREsp n. 2.034.536/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 18/3/2022).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
