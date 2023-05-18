@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar, impetrado contra decisão que deu provimento ao REsp n. 1.503.541/GO, conexo a este, interposto pelo Ministério Público do Estado de Goiás, para a restabelecer a sentença condenatória, inclusive quanto à pena e ao regime prisional da ora paciente.
+Em consulta à base de dados desta Corte Superior, verifica-se que o REsp n. 1.503.541/GO transitou em julgado em 19/3/2018, tendo a defesa proposto Revisão Criminal, no termos do artigo 621, I, do CPP, a qual foi distribuída em 01/12/2022 e se encontra pendente de julgamento, com objeto idêntico ao do presente writ, que busca desconstituir a decisão proferida no recurso especial, para obter o redimensionamento da pena.
+Nesse contexto, o habeas corpus não deve ser conhecido, pois, "uma vez transitada em julgado a condenação e aviada revisão criminal, que está em processamento, a impetração simultânea do habeas corpus com o mesmo objetivo de reformar o decreto condenatório fere o princípio da unirrecorribilidade e causa verdadeiro tumulto processual, inclusive com risco de decisões conflitantes e de burla ao critério funcional de fixação de competência entre os diversos órgãos fracionários do Tribunal." (AgRg no HC n. 674.869/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/5/2022, DJe de 30/5/2022).
+Nesse contexto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
