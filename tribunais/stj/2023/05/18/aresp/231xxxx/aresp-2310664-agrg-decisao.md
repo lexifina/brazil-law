@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por MÁRCIO HUMBERTO ALVES contra decisão monocrática da lavra do Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 355/358).
+Em seu agravo regimental (e-STJ fls. 363/368), a parte recorrente alega a não incidência das Súmulas 284/STF e 13/STJ
+Manifestação do Ministério Público Federal, às e-STJ fls. 377/381, pelo conhecimento e não provimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 240):
+APELAÇÃO Embriaguez ao volante (artigo 306, "caput", da Lei 9503/97) Pedido de absolvição por negativa de autoria ou por ausência de provas Impossibilidade Materialidade e autoria comprovadas Confissão judicial do acusado em consonância com o conjunto probatório Suficiência de provas Crime de perigo abstrato - Condenação mantida. Dosimetria que comporta pequeno reparo na pena base Regime intermediário. Necessário. Réu reincidente. Recurso parcialmente provido.
+Nas razões do recurso especial (e-STJ fls. 273/280), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 44 do CP. Sustenta a possibilidade da substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Nessa linha, o art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica.
+No presente caso, embora estabelecida a pena definitiva menor que 4 anos (8 meses e 5 dias de detenção), além do acusado ser reincidente específico, o que já impede a substituição, possui maus antecedentes, tudo a vedar a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal, uma vez que demonstra que a medida não se mostra socialmente recomendável, nem suficiente para a prevenção e repressão do crime.
+Nessa linha, os seguintes julgados:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DANO CONTRA PATRIMÔNIO PÚBLICO. VIOLAÇÃO AO ART. 155 DO CÓDIGO PENAL - CP. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. HABEAS CORPUS DE OFÍCIO DESCABIDO. VIOLAÇÃO AO ART. 44, § 3º, DO CP. MAUS ANTECEDENTES E REINCIDÊNCIA. AGR AVO REGIMENTAL DESPROVIDO.
+ ..
+2. Inexistente violação ao art. 44, § 3º, do CP, pois negada a substituição da pena privativa de liberdade em restritiva de direitos por não ser socialmente recomendável, eis que o recorrente possui maus antecedentes e é reincidente, destacando-se crimes de furto, tráfico de drogas e roubo.
+3. Agravo regimental desprovido. (AgRg no REsp n. 2.049.982/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. REINCIDÊNCIA E MAUS ANTECEDENTES. REGIME PRISIONAL ESTABELECIDO DE ACORDO COM O QUANTUM DA PENA DEFINITIVA. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A QUATRO ANOS, REINCIDÊNCIA E CIRCUNSTÂNCIA DESFAVORÁVEL. AGRAVO DESPROVIDO.
+ ..
+3. Revela-se inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, incisos I, II e III, do CP; seja em razão de o quantum da reprimenda ser superior a 4 (quatro) anos, seja em virtude da reincidência ou, ainda, da presença de circunstância judicial desfavorável, o que inclusive ensejou o aumento da pena-base.
+4. Agravo regimental desprovido. (AgRg no HC n. 773.381/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISLUMBRADA. RECURSO NÃO CONHECIDO.
+ .. .
+5. Outrossim, havendo "circunstância judicial desfavorável (antecedentes) e sendo o acusado reincidente, ainda que não específico, incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP)" (AgRg no AREsp n. 2.172.247/DF, relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1.ª Região -, Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022).
+6. Agravo regimental não conhecido. (AgRg no HC n. 798.579/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. REINCIDÊNCIA NÃO ESPECÍFICA. MAUS ANTECEDENTES. SUBSTITUIÇÃO DA PENA. INVIABILIDADE.
+1. Presente uma circunstância judicial desfavorável (antecedentes) e sendo o acusado reincidente, ainda que não específico, incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP).
+2. Hipótese em que incide a Súmula 83/STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+3. Agravo regimental improvido. (AgRg no AREsp n. 2.172.247/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022)
+Ante o exposto, reconsidero a decisão agravada às e-STJ fls. 355/358, e com fundamento no art. 932, inciso VIII do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, e na Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
