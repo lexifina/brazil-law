@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo apresentado por CARLOS JOAO STIEGLITZ e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE A PRETENSÃO FORMULADA NA INICIAL. 1. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.
+2. EMBARGOS DE DECLARAÇÃO NÃO RECEBIDOS, DE ACORDO COM A MOVIMENTAÇÃO DO SISTEMA PROJUDI. CONTEÚDO DA DECISÃO SINGULAR, NO ENTANTO, QUE ANALISOU O MÉRITO DO RECURSO, REJEITANDO-O. PEDIDO DE JULGAMENTO DOS ACLARATÓRIOS NÃO CONHECIDO POR FALTA DE INTERESSE RECURSAL.
+3. PRESCRIÇÃO DAS TAXAS CONDOMINIAIS COBRADAS DO PERÍODO COMPREENDIDO ENTRE 18 E ABRIL DE 2003 E 10 DE DEZEMBRO DE 2007. INOCORRÊNCIA. PRAZO QUINQUENAL. ARTIGO 206, § 5º, INCISO I, DO CÓDIGO CIVIL. PRESCRIÇÃO INTERROMPIDA. INÍCIO DO PRAZO QUE DEVE RETROAGIR À DATA DO AJUIZAMENTO DA AÇÃO. ART. 202, INCISO I, DO C.CIVIL, E ART. 240, §1º, DO CPC/15. AUTOR QUE ADOTOU AS PROVIDÊNCIAS NECESSÁRIAS PARA VIABILIZAR A CITAÇÃO. PRECEDENTES DESTA CORTE.
+4. PRELIMINAR DE CERCEAMENTO DO DIREITO DE DEFESA. DOCUMENTOS NECESSÁRIOS AO DESLINDE DA CONTROVÉRSIA JUNTADOS AOS AUTOS NA EXORDIAL. PLEITO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DESNECESSIDADE. ELEMENTOS FÁTICO-PROBATÓRIOS SUFICIENTES PARA FORMAR O CONVENCIMENTO DO JULGADOR, EFETIVO DESTINATÁRIO DA PROVA (ART. 370, CPC/2015).
+5. MÉRITO. TESE DE IMPOSSIBILIDADE DE COBRANÇA DAS TAXAS CONDOMINIAIS. SOBRADO EXTERNO. UNIDADE QUE INTEGRA O CONDOMÍNIO. DEVERES COMUNS A TODOS OS MORADORES, INCLUINDO O PAGAMENTO DAS TAXAS CONDOMINIAIS, AINDA QUE PROPORCIONAIS. INEXISTÊNCIA DE PREVISÃO CONTRATUAL ACERCA DE EVENTUAL ISENÇÃO DO PAGAMENTO. PRECEDENTE DESTA CORTE.
+6. ÍNDICE DA CORREÇÃO MONETÁRIA. APLICAÇÃO DA MÉDIA INPC IGP/DI, UTILIZADA POR ESTE TRIBUNAL. PRECEDENTES.
+7. PLEITO DE REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS ACOLHIDO. SUCUMBÊNCIA RECÍPROCA EVIDENCIADA. IMPOSSIBILIDADE, NO ENTANTO, DE MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, DE ACORDO COM O ARTIGO 85, §8º, DO CPC. NATUREZA CONDENATÓRIA DA SENTENÇA. RECURSO DE APELAÇÃO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO (fls. 726/727).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 240, §§ 1º e 2º, do CPC, no que concerne à ausência de razoabilidade na demora excessiva para a ocorrência da citação válida da parte recorrente, com a consequente não retroação da interrupção do prazo prescricional para a data da propositura da ação, trazendo os seguintes argumentos:
+No caso em discussão há um lapso temporal de quase 10 (dez) anos entre a data da propositura da ação e a data da citação válida dos Recorrentes, inexistindo proporcionalidade e razoabilidade para que a citação válida promova de forma automática a retroação da interrupção do prazo prescricional à data da propositura da ação.
+Não é crível que um sistema que tenha como pilar a celeridade processual admita que a citação ocorrida quase 10 (dez) anos após a propositura da demanda seja reconhecida e entendida como ato praticado em prazo razoável e que a demora seja imputável exclusivamente ao Judiciário.
+Ainda mais se tratando em caso de cobrança de quota condominial em que a dívida é do próprio imóvel e, portanto, sem qualquer dificuldade de se promover a citação de seu responsável.
+Com a citação regular ocorrida quase dez anos após a propositura da demanda, não se pode cogitar a validade da retroação da interrupção da prescrição para a data da propositura da demanda, eis que completamente desproporcional e desarrazoada.
+ ..
+Isso porque a promoção da citação em prazo razoável não pode se eternizar com a desculpa de que o atraso decorre exclusivamente por demora do Judiciário. Lapso temporal de quase 10 (dez) anos não pode ser imputado exclusivamente ao Judiciário (fls. 906/907).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na sequência, os réus alegam que a ação foi ajuizada em 18/04/2008 e a citação ocorreu somente em 03/07/2018 (mov. 18), ou seja, mais de 10 (dez) anos após a propositura da demanda. Logo, deve ser reconhecida a prescrição, com a extinção do processo.
+Pois bem.
+O Condomínio autor ajuizou a presente ação visando o recebimento das taxas condominiais vencidas nos períodos de 12 de Junho de 2000 e 10 de Novembro de 2000 a 10 de Dezembro de 2007.
+In casu, o prazo prescricional aplicável é o quinquenal, nos termos do 206, § 5º, I, do Código Civil. Vejamos:
+ ..
+Na r. sentença, o d. magistrado singular considerou prescrito o pedido de condenação das taxas condominiais anteriores a Abril de 2003.
+Cinge-se a controvérsia, portanto, à declaração, ou não, de prescrição das demais taxas (cobradas posteriormente a 18.04.2003 até 10.12.2007), em razão da demora entre a propositura da ação e a citação dos réus.
+Para a aferição do cômputo desse prazo prescricional, deve-se observar a regra do Código Civil de 2002, que, no caso, é de cinco anos. 1
+Sendo assim, considerando a natureza da dívida (taxas condominiais), o termo inicial do prazo prescricional é a data do inadimplemento de cada obrigação.
+Nos termos do artigo 202, inciso I, do Código Civil, a prescrição será interrompida "por despacho do juiz, mesmo incompetente, que ordenar a citação, se o interessado a promover no prazo e na forma da lei processual".
+Ainda, o artigo 240, §2º, do Código de Processo Civil, dispõe que "Incumbe ao autor adotar, no prazo de 10 (dez) dias, as providências necessárias para viabilizar a citação  .. ". Caso tal providência não seja tomada tempestivamente, "a prescrição será considerada não interrompida e será instaurada litispendência na data da propositura da ação".
+Não obstante, o prazo de 10 (dez) dias mencionado no supracitado dispositivo não é absoluto, podendo ser prorrogado quando houver justificativa plausível para tanto.
+ ..
+No caso em apreço, a ação foi proposta em 18/04/2008 (mov. 1.2) e o despacho do juiz ordenando a citação ocorreu em 27/05/2008 (mov. 1.7).
+Não obstante, no mandado citatório constou a informação de que "revendo os autos, verifica-se que os réus residem na Comarca de Paranaguá-PR e não foram citados, conforme AR de fls. 69/72, e por equívoco foi expedido mandado de citação, tendo a parte autora procedido o recolhimento das referidas diligências, fls. 76, razão pela qual encaminhou o"s presentes autos para publicação no sentido de intimar o autor para requerer o que entender de direito". - mov. 1.14.
+Após algumas tentativas frustradas de citação dos réus (mediante expedição de cartas precatórias, AR e oficial de Justiça), o Condomínio pugnou, então, pela expedição de ofícios "via sistema de informações ao judiciário (INFOJUD/BACENJUD) e ao Sistema de Informações (SIEL), bem como seja expedido oficio à COPEL e SANEPAR", para que informem dados que possuem sobre os endereços dos réus. - mov. 1.107.
+Tendo em vista o resultado da diligência, solicitou a citação dos réus no endereço:
+"RUA VISCONDE DE NACAR, N.º 731, BAIRRO CENTRO HISTÓRICO, CEP: 83203-180 PARANAGUÁ - PR." - mov. 1.118.
+Somente nesta oportunidade é que as citações foram efetivadas. - mov"s. 18.1 e 18.2.
+Verifica-se, pelo histórico processual supracitado, que o autor postulou providências a fim de promover a citação da parte ré.
+Aplica-se ao caso, portanto, o art. 240, § 1º, do CPC, o qual dispõe que "A interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação", não sendo o caso, aliás, de aplicar o § 2º do mesmo dispositivo, porquanto somente é cabível nos casos em que o promovente não adota as providências necessárias para viabilizar a citação, o que, in casu, não se verificou, devendo a interrupção retroagir à data do ajuizamento da ação.
+ ..
+Logo, não há o que se falar na ocorrência de prescrição (fls. 729/732).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
