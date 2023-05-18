@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por EDISON SAMWAYS contra apontado ato coator praticado pelo MINISTRO DA JUSTIÇA E SEGURANÇA PÚBLICA.
+Alega o ora impetrante, brasileiro nato, que morou nos Estados Unidos por alguns anos e, ao retornar ao Brasil e solicitar certidão de nascimento atualizada brasileira, descobriu que não era mais brasileiro, pois em seu documento consta a seguinte informação: conforme comunicação da Divisão Nacional do Departamento de Justiça, averbo que por Decreto Coletivo de 15 de setembro de 1992 foi declarada a perda da nacionalidade brasileira de Edson Samways, por ter adquiridos outra voluntariamente a nacionalidade norte-americana. Anotado em 15/10/1992 (fl. 4 e-STJ).
+O impetrante assevera, ainda, que teve filhos norte-americanos e, no intuito de permanecer naquele território ao lado deles, outra alterativa não lhe restou a não ser adquirir a nacionalidade (fl. 5 e-STJ).
+A fim de demonstrar suas alegações, o ora impetrante junta aos autos documentos pessoais expedidos no Brasil, certidão de nascimento de dois dos filhos e o passaporte norte-americano.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso dos autos, as alegações constantes da petição inicial não demonstram, de forma inequívoca, qualquer ato coator praticado pelo Ministro de Estado da Justiça e Segurança Pública apto a atrair a competência desta Corte Superior para processar e julgar a ação mandamental na competência prevista no texto constitucional.
+Com efeito, consoante afirmado pelo próprio Impetrante, o direito que lhe parece líquido e certo estaria sendo obstado a partir de comunicação da Divisão Nacional do Departamento de Justiça em razão de decreto coletivo de 15 de setembro de 1992, todavia, não há nos autos qualquer documentação comprobatória da ação ou omissão da autoridade coatora, de forma específica, no sentido de lesar ou ameaçar lesar o direito perseguido.
+Dessa forma, o Ministro de Estado da Justiça e Segurança Pública não detém legitimidade para figurar no polo passivo deste mandado de segurança, o que afasta a competência do Superior Tribunal de Justiça para processar e julgar o presente remédio constitucional.
+No mesmo sentido em casos análogos: STJ, MS n. 27.789, Ministra Assusete Magalhães, DJe de 01/09/2021; STJ, MS n. 27.082, Ministro Og Fernandes, DJe de 17/12/2020; STJ, MS n. 25.945, Ministro Gurgel de Faria, DJe de 01/04/2020; STJ, MS n. 23.961, Ministro Napoleão Nunes Maia Filho, DJe de 30/03/2020.
+Ante o exposto, com base nos arts. 10 da Lei n.º 12.016/2009, e 212 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO liminarmente a petição inicial do mandado de segurança.
+Sem condenação em honorários advocatícios (art. 25 da Lei 12.016/09 e Súmula 105/STJ).
+Publique-se. Intimem-se.
+EMENTA
+CONSTITUCIONAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE ATO DE MINISTRO DE ESTADO DA JUSTIÇA E SEGURANÇA PÚBLICA. INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR O MANDAMUS. ART. 105, I, B, DA CF. JURISPRUDÊNCIA DO STJ. INDEFERIMENTO LIMINAR NA PETIÇÃO INICIAL DO MANDADO DE SEGURANÇA.
