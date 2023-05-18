@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental contra decisão que concedeu o habeas corpus.
+O Ministério Público Federal sustenta, em suma, que houve equívoco na decisão prolatada.
+Argumenta que "a defesa impetrou habeas corpus no Tribunal de origem, apontando como autoridade coatora o próprio tribunal, no julgamento do recurso de apelação" (fl. 94) e que, portanto, o Tribunal de origem não tem competência para apreciar habeas corpus contra seus próprios julga dos, cabendo ao STJ essa tarefa.
+Considerando as razões do agravante, reconsidero a decisão agravada e passo à análise do habeas corpus.
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim relatado (fls. 42/43):
+Trata-se de apelação interposta contra decisão, prolatada pelo MM. Juiz Danilo Pinheiro Spessoto, que condenou Guilherme Rodrigues Giovanetti à pena de 4 (quatro) anos de reclusão, em regime inicial aberto, além do pagamento de 20 (vinte) dias-multa, calculados no mínimo legal, como incurso nos artigos 12 e 16, "caput", ambos da Lei 10.826/03, por manter sob sua guarda uma pistola, semiautomática, "Astra", mod. 200, nº 699.835, cal. 6.35mm, e mais onze cartuchos íntegros do mesmo calibre; um cartucho íntegro de cal. 75-18, marca "FNM"; vinte cartuchos íntegros de cal. 32, marca "CBC"; vinte e um cartuchos íntegros de cal. 22., marca "CBC" e "Cascade Cartridge Co."; dois cartuchos íntegros de cal. 38, marca "WCC" e "CBC"; um cartucho íntegro de cal. 380, marca "WIN"; um cartucho plástico íntegro de cal. 28, marca "CBC", substituída suas penas privativas de liberdade por duas restritivas de direitos, uma consistente em prestação de serviços à comunidade ou entidades públicas, a ser designada pelo Juízo das Execuções, e outra, de caráter pecuniário, consistente no pagamento de prestação pecuniária no valor de 5 (cinco) salários mínimos, em beneficio de entidade pública ou privada com destinação social também a ser especificada pelo Juízo das Execuções Criminais.
+O apelante, em razões de recurso, requer a sua absolvição, ressaltando estar caracterizada a "abolitio criminis", diante da atipicidade momentânea da conduta de possuir arma de fogo. Subsidiariamente, pugna pela redução de sua pena-base, pelo reconhecimento da atenuante da confissão espontânea, pelo afastamento da pena de multa, pela substituição de sua pena privativa de liberdade tão somente por uma restritiva de direito e, por fim, pelo deferimento da gratuidade.
+Em contrarrazões, o apelado requer o desprovimento do recurso.
+O Procurador de Justiça opinou pelo não provimento do apelo.
+É o relatório.
+O paciente foi condenado como incurso nos arts. 12 e 16, ambos da Lei n. 10.826/2003, a 4 anos de reclusão, em regime inicial aberto, e 20 dias-multa, convertida a pena privativa de liberdade em duas penas restritivas de direitos, penas que foram reduzidas pelo Tribunal de origem a 3 anos de reclusão, em regime inicial aberto, e 10 dias-multa, mantendo-se, no mais, a sentença.
+A defesa alega ser possível a aplicação do princípio da insignificância, pois houve a apreensão apenas de munições, em pequenas quantidades, desacompanhadas de arma de fogo, bem como desproporcional a pena aplicada, requerendo o reconhecimento da atipicidade da conduta ou o redimensionamento da pena.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+Em consulta ao sistema processual do STJ, verifico a existência de impetração anterior: HC 722.889/SP, com idêntica pretensão, contra idêntico ato coator, o qual foi indeferido liminarmente, transitando em julgado em 23/2/2022.
+Tratando-se de mera reiteração de pedido, o presente habeas corpus não merece conhecimento.
+Ante o exposto, dou provimento ao agravo regimental para não conhecer do habeas corpus.
+Publique-se.
+Intimem-se.
