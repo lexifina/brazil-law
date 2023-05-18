@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que não conheceu do habeas corpus.
+O embargante alega omissão, uma vez que "é imperioso destacar que a apontada ausência da decisão atacada pelo heroico remédio constitucional a impedir a sua análise é totalmente equivocada, porquanto o E. Tribunal de Justiça de Minas Gerais, ORGÃO QUE ESTAVA COM CARGA DO PROCESSO FÍSICO QUANDO DA IMPETRAÇÃO, apresentou as peças essenciais, dentre as quais o acórdão que denegou a apelação, conforme ID nº 11 e seguintes. Vale dizer, a autoridade coatora imediata é o presidente do TJMG, sendo que a sua respectiva decisão foi acostada aos autos" (fl. 57).
+Aduz, ainda, que "a decisão monocrática que não conheceu o HC foi omissa ao não fixar honorários ao advogado dativo impetrante, devendo essa omissão também ser sanada" (fl. 58)
+Requer o acolhimento dos embargos de declaração para que seja indicada a providência jurídica que poderia ter adotado.
+Em 10/2/2023, a defesa juntou aos autos petição informando que "o impetrante, defensor dativo, não foi pessoalmente intimado do teor da decisão monocrática do HC, portanto o recurso é tempestivo." (fl. 90)
+Contudo, conforme certidão de fl. 54, o prazo para oposição de embargos de declaração em relação à decisão de fls. 52-53 teve início em 6/2/2023 e término em 7/2/2023, e a petição n. 0071959/2023 (EDcl) foi protocolizada em 9/2/2023, portanto fora do prazo legal de 2 dias corridos, nos termos do art. 619 do CPP. Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRAZO PREVISTO NO ART. 619 DO CPP. INAPLICABILIDADE DAS DISPOSIÇÕES DO CPC/2015. INTEMPESTIVIDADE.
+1. Em matéria penal, o prazo para a oposição dos embargos de declaração é de 2 (dois) dias, de acordo com o art. 619 do Código de Processo Penal - CPP, sem aplicação do novo CPC, uma vez que o prazo no processo penal possui disciplina própria.
+2. São intempestivos os embargos de declaração opostos fora do prazo legal. Embargos de declaração não conhecidos. (EDcl no AgRg no RE no AgRg no AREsp 759.484/PE, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 01/08/2017, DJe 07/08/2017).
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA QUE INADMITIU OS EMBARGOS DE DIVERGÊNCIA. EMBARGOS DECLARATÓRIOS. PRAZO. DOIS DIAS. INTEMPESTIVIDADE.
+1. Publicado o acórdão recorrido em 27/3/2017, segunda-feira, o prazo de dois dias, previsto no art. 619 do Código de Processo Penal, se esgotou em 29/3/2017, quarta-feira. Assim, são intempestivos os embargos de declaração protocolados somente em 31/3/2017.
+2. Embargos declaratórios não conhecidos (EDcl no AgRg nos EDcl nos EAREsp 5.227/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 24/05/2017, DJe 30/05/2017). P
+ENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. 1. ACLARATÓRIOS INTEMPESTIVOS. PRAZO REGULADO PELO CPP. ART. 263 DO RISTJ, C/C O ART. 619 DO CPP. NÃO INTERFERÊNCIA DO NOVO CPC. 2. EMBARGOS NÃO CONHECIDOS.
+1. Embargos de declaração intempestivos, porquanto opostos após o prazo de 2 (dois) dias, conforme disciplina o art. 263 do RISTJ, c/c o art. 619 do CPP. O prazo para oposição de aclaratórios no processo penal possui disciplina própria, não sendo necessária a aplicação analógica do processo civil, razão pela qual a entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal.
+2. Aclaratórios não conhecidos (EDcl no RHC 64.218/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/05/2016, DJe 01/06/2016).
+No tocante à comunicação dos atos processuais, nos termos do art. 370, § 1º do Código de Processo Penal, é válida a intimação do advogado constituído por meio da imprensa oficial.
+Outrossim, nos termos do art. 392, inciso II, do Código de Processo Penal, a intimação acerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído através da publicação no órgão de imprensa oficial, sendo desnecessária a intimação pessoal" (AgRg no AREsp 1668133/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 29/6/2020).
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se.
+Intimem-se.
