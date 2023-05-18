@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interno interposto contra decisão monocrática, de minha relatoria, que não conheceu do agravo por ausência de impugnação de fundamento da decisão que inadmitiu recurso especial. Aplicou à espécie o óbice da Súmula 182/STJ, aplicada por analogia.
+O agravante defende, em síntese, que "deverá ser alterado em favor do ora Agravante, pois, inaplicáveis os óbices apontados na decisão recorrida naquilo que não foi provido em favor do Estado. Ou seja, demonstrada a inexistência dos óbices apontados na decisão agravada" (e-STJ fl. 639).
+Pede a reconsideração da decisão agravada.
+Sem contraminuta.
+É o relatório.
+Analisando a decisão de admissibilidade (e-STJ fls. 300/301), verifico ser o caso de exercer o juízo de retratação facultado pelo art. 259 do RISTJ, motivo pelo qual reconsidero a decisão agravada.
+Passa-se, então, ao exame do recurso especial.
+Esta é a síntese para melhor compreensão.
+Trata-se de ação ajuizada por militar com o escopo de anular o ato de exclusão e obter sua reintegração aos quadros da Polícia Militar do Estado da Bahia.
+O juízo singular julgou procedente os pedidos para declarar nulo o ato de exclusão e determinar a reintegração por verificar que a exclusão ocorreu sem obediência ao devido processo legal, pois sem instauração de processo administrativo, nem instauração do Conselho de Disciplina para que o autor pudesse exercer o contraditório e a ampla defesa (E-STJ fls. 42/44).
+Em sede de apelação, o Tribunal local julgou improcedente, o apelo interposto pelo Estado da Bahia, por maioria de votos (e-STj fls. 68/81). O acórdão recorrido manteve o entendimento perfilhado pelo juízo singular no sentido de que o ato da exclusão padecia de nulidade absoluta por violar a ampla defesa e o contraditório. O voto condutor expressamente atestou que não houve instauração de processo administrativo para garantir o contraditório e a ampla defesa do acusado (e-STJ fl. 78/79).
+Os embargos de declaração foram rejeitados (e-STJ fls. 92/95).
+Interposto recurso especial e negado seguimento pelo Tribunal local. Essa decisão foi objeto do Agravo de Instrumento 574.413-BA, distribuído ao Ministro Gilson Dipp, que deu conheceu parcialmente do recurso especial e, nesta extensão, deu provimento para determinar o retorno dos autos para que o órgão colegiado se manifestasse sobre as matérias arguidas nos embargos de declaração (e-STJ fls. 198/201).
+O órgão colegiado assim se manifestou (e-STJ fls. 211/212):
+No acórdão de fls. 75/78, a Câmara Especializada do Tribunal de Justiça do Estado da Bahia rejeitou os embargos de declaração opostos por Estado da Bahia, ao acórdão da Apelação Cível  9937-4/2001, de Salvador.
+Irresignado o Estado da Bahia interpôs Recurso Especial e Extraordinário, inadmitidos pelo Presidente deste egrégio Tribunal, fls. 137/142, e posteriormente, Agravo de Instrumento, perante o Superior Tribunal de Justiça fls. 149/150 provido com determinação do retorno dos autos ao tribunal a quo, e para manifestação sobre matérias argüidas em sede de embargos declaratórios, fls 170/173.
+Redistribuídos os autos, coube-me a relatoria.
+É o relatório.
+A inocorrência, em acórdão embargado, de vícios, obscuridade, contradição ou omissão, impõe a rejeição de embargos de declaração, sob pena de contrariar o art. 535 do Código de Processo Civil.
+O acórdão guerreado, fundamentado, fls. 62/66, negou provimento ao recurso de apelação, confirmando a sentença recorrida que declarou nulo o de exclusão do policial militar, José Jorge Oliveira de Araújo, determinou a reintegração do autor ao serviço ativo da PM, a partir da data da sua exclusão e condenou o Estado da Bahia ao pagamento integral de todos seus vencimentos a partir da sua exclusão (24/03/98), até a data da reintegração, com juros e correção monetária mais custas e honorários a razão de 10% sobre valor da condenação, corrigido. Irrelevante, na oportunidade do julgamento dos embargos, fls. 75/78, a expressa manifestação sobre o art. 42, parágrafo 9 da CF, art. 18 do decreto 17.673/00, inciso IV, "a"do art. 51 do estatuto da Polícia Militar, e art. 123 deste mesmo estatuto, aplicado à época, com as alterações da Lei 6474/93, sendo constatável a referência e enfrentamento sobre a questão posta, fundamentado no descumprimento às garantias constitucionais do contraditório e ampla defesa, afastada a alegada omissão, porquanto desnecessária a alusão a todos os argumentos das partes.
+Neste sentido, (RE 224225/PE, Min.Moreira Alves).
+"Policial Militar sem estabilidade. Licenciamento "ex offício das fileiras da polícia militar. Esta corte já firmou o entendimento de que, ainda quando a exclusão é de policial militar sem estabilidade, pode ela resultar, se não há imposição de pena criminal de procedimento administrativo sem os rigores formais do processo administrativo assegurados aos estáveis, desde que assegurado a ele o contraditório e a ampla defesa.-No caso, como salienta o acórdão recorrido, não foi observado o contraditório e a ampla defesa. Recurso extraordinário não conhecido."
+In casu, o Tribunal enfrentou a questão suscitada, não restando demonstrada a existência de omissão em acórdão hostilizado.
+A omissão de que cuida o inciso Il do mesmo artigo deve ser concernente a ponto que deveria ter sido mas não foi decidido, tornando inexequível o julgado.
+Os dispositivos legais invocados pelo Agravante não autorizam a modificação do julgado, proferido sem vício ou omissão alegada. Na verdade, O embargante demonstra pretensão única e inadmissível, em embargos de
+declaração, de reexame da matéria já decidida, de forma clara e precisa, e
+alteração do julgado para lhe favorecer.
+Por tais razões, rejeitam-se Os embargos de declaração.
+Com efeito, não há que se falar em negativa de prestação jurisdicional, nem em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Na espécie, ao contrário da tese defendida pelo recorrente, o Tribunal local entendeu que desinfluente a análise da legislação invocada pelo Estado da Bahia, pois o ato de exclusão padeceria de nulidade absoluta por descumprimento do contraditório e da ampla defesa, vez que sequer houve instauração de processo administrativo. Ademais, o magistrado não está obrigado a se manifestar sobre todas as teses invocadas, bastando que decida de forma motivada a questão. Nesse sentido os seguintes julgados desta Corte Superior:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. RECURSO ESPECIAL. INOCORRÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONTROVÉRISIA QUE DEMANDA O REEXAME DE FATO E PROVAS. SÚMULA N. 7 DO STJ. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO. SÚMULA N. 284 DO STJ. INAPLICABILIDADE DO ART. 47 DO DL 7.661/1945. JURISPRUDÊNCIA DO STJ. HONORÁRIOS. CPC/1973, ART. 20, §§ 3º E 4º. FIXAÇÃO PELO CRITÉRIO EQUITATIVO. POSSIBILIDADE.
+I - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+ ..
+VI - Agravo da Fazenda Nacional conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento. Recurso especial interposto pelo contribuinte não conhecido.
+(REsp n. 1.714.362/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2023, DJe de 13/4/2023.)
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS CONTRATUAL. PRIMEIRA FASE. MANDATO JUDICIAL. OMISSÃO. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável à pretensão da parte, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.422.543/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 3/4/2023.)
+Ante o exposto, conheço do agravo interno para, em juízo de reconsideração, conhecer do agravo em recurso especial para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. EXCLUSÃO. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
