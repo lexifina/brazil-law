@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEAN DELMIRO DA SILVA contra decisão do Tribunal de Justiça do Estado do Espírito Santo, que inadmitiu recurso especial, apresentado com fundamento no art. 105, inciso III, alínea a, da Constituição da República.
+Consta dos autos que o Juízo de primeiro grau pronunciou o Agravante como incurso no art. 121, § 2.º, incisos II e IV, c.c. o art. 14, inciso II, ambos do Código Penal (fls. 230-233).
+Irresignada, a Defesa interpôs recurso em sentido estrito, à qual a Corte de origem negou provimento (fls. 289-296).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 5.º, inciso LVII, da Carta Magna; bem como aos arts. 413 e 414 do Código de Processo Penal.
+Aduz que o princípio in dubio pro societate é inconstitucional.
+Alega que não foram apresentados indícios mínimos aptos a lastrear a pronúncia do Réu.
+Foram apresentadas contrarrazões (fls. 318-322). O recurso especial não foi admitido (fls. 324-328). Foi interposto agravo (fls. 331-338).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo (fls. 362-363).
+É o relatório.
+Decido.
+Inicialmente, quanto à apontada contrariedad e ao art. 5.º, inciso LVII, da Constituição da República, registro que não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal. A propósito: "Ao Superior Tribunal de Justiça é vedada a análise de violação a dispositivos constitucionais, uma vez que essa competência é exclusiva do Supremo Tribunal Federal, pela via do recurso extraordinário, conforme dispõe o art. 102, III, da Constituição Federal" (AgRg no REsp 1.750.345/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/11/2018, DJe 26/11/2018).
+No mais, conforme os termos do art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor.
+Por oportuno, confiram-se os seguintes julgados proferidos no âmbito do Supremo Tribunal Federal e desta Corte Superior de Justiça:
+"Penal. Processual Penal. Procedimento dos crimes da competência do Júri. Idicium acusationis. In dubio pro societate. Sentença de pronúncia. Instrução probatória. Juízo competente para julgar os crimes dolosos contra a vida. Presunção de inocência. Precedentes da Suprema Corte. 1. No procedimento dos crimes de competência do Tribunal do Júri, a decisão judicial proferida ao fim da fase de instrução deve estar fundada no exame das provas presentes nos autos. 2. Para a prolação da sentença de pronúncia, não se exige um acervo probatório capaz de subsidiar um juízo de certeza a respeito da autoria do crime. Exige-se prova da materialidade do delito, mas basta, nos termos do artigo 408 do Código de Processo Penal, que haja indícios de sua autoria. 3. A aplicação do brocardo in dubio pro societate, pautada nesse juízo de probabilidade da autoria, destina-se, em última análise, a preservar a competência constitucionalmente reservada ao Tribunal do Júri. 4. Considerando, portanto, que a sentença de pronúncia submete a causa ao seu Juiz natural e pressupõe, necessariamente, a valoração dos elementos de prova dos autos, não há como sustentar que o aforismo in dubio pro societate consubstancie violação do princípio da presunção de inocência. 5. A ofensa que se alega aos artigos 5º, incisos XXXV e LIV, e 93, inciso IX, da Constituição Federal (princípios da inafastabilidade da jurisdição, do devido processo legal e da motivação das decisões judiciais) se existisse, seria reflexa ou indireta e, por isso, não tem passagem no recurso extraordinário. 6. A alegação de que a prova testemunhal teria sido cooptada pela assistência da acusação esbarra na Súmula nº 279/STF. 7. Recurso extraordinário a que se nega provimento." (STF, RE 540.999/SP, PRIMEIRA TURMA, Rel. Ministro MENEZES DIREITO, DJe 19/06/2008.)
+" ..
+1. Não há ilegalidade na pronúncia que, de forma sucinta, se fundamenta em elementos colhidos dos autos. Tal decisão encerra mero juízo de admissibilidade da acusação, exigindo-se nessa fase apenas a certeza da materialidade e indícios de autoria, devendo prevalecer o princípio in dubio pro societate.
+2. Agravos regimentais improvidos." (STJ, AgRg no AREsp 293.099/MG, SEXTA TURMA, Rel. Ministro NEFI CORDEIRO, DJe 19/08/2016; sem grifos no original.)
+No tocante aos elementos necessários à pronúncia, o acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 293-295; sem grifos no original):
+" ..  constata-se a existência de prova da materialidade por meio do auto do  boletim de ocorrência (fls. 09/10), laudo de exame de lesões corporais (fl. 21) e do diagrama do corpo (fl. 22) bem com de indícios de autoria, identificados a partir dos depoimentos testemunhais juntados aos autos.
+ ..
+Do mesmo modo, o próprio recorrente confessa a prática do crime em sede inquisitiva (fls. 43/44), afirmando que não aguentava mais as ofensas e ameaças da vítima.
+Corroborando, observa-se o depoimento judicial da testemunha Adriene Rosa Fraga (fl. 136), irmã da vítima e ex-companheira do acusado:
+ ..
+Por outro lado, a vítima em sede judicial negou o o envolvimento do recorrente (fl. 169). Enquanto recorrente permaneceu em silêncio em seu interrogatório judicial (fl. 170).
+Logo, apesar do depoimento diverso da vítima em sede judicial, as outras provas dos autos indicam evidentes a presença dos indícios de autoria dos réus. Os depoimentos prestados em sede policial e judicial, a meu ver, são suficientes para suscitar dúvida sobre a possível autoria.
+ ..
+No caso dos autos, existem indícios de que o crime se deu em razão de desavença banal entre a vítima e o acusado, iniciada por um desentendimento em razão do filho do acusado com a irmã da vítima. Do mesmo modo, há indícios de que o crime ocorreu em circunstâncias que dificultaram a defesa da vítima, uma vez que este foi surpreendido ao sair" da casa da sogra, com a filha no colo e a esposa junto."
+Como se vê, o Tribunal a quo concluiu que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia do Agravante . Modificar tal entendimento para acolher o pleito de impronúncia demandaria, necessariamente, o revolvimento das provas e fatos acostados aos autos, atraindo o óbice do enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido, cito os seguintes julgados:
+" ..
+1. Se a desclassificação da conduta pelo juiz da pronúncia ocorre porque cristalina e induvidosa a certeza quanto à inexistência de animus necandi, resta ausente qualquer usurpação da competência constitucionalmente atribuída ao Tribunal do Júri (REsp n. 1.312.781/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/9/2013).
+2. O exame da pretensão recursal, para que seja reconhecida a ausência de animus necandi implica a necessidade de revolvimento do suporte fático-probatório delineado nos autos. Incidência da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1.330.697/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/09/2018, DJe 14/09/2018.)
+" ..
+1. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+2. Caso em que a Corte de origem concluiu pela inexistência de indícios mínimos de autoria, notadamente porque os informantes ouvidos em juízo, além de não terem presenciado o fato, não souberam apontar os autores.
+3. Rever o entendimento da instância a quo, a fim de pronunciar o recorrido, implicaria o necessário reexame do contexto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Recurso especial não conhecido." (REsp 1.494.211/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, Rel. p/ acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2018, DJe 03/04/2018.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PRONÚNCIA. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. TESE DE AUSÊNCIA DE ELEMENTOS PARA A PRONÚNCIA. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
