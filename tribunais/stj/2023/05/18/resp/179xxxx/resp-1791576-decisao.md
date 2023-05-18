@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial fundame ntado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 393):
+Plano de saúde. Aplicabilidade do CDC (Súmula 469 do C. STJ). Possibilidade de revisão de cláusulas contratuais que decorre do próprio sistema jurídico (arts. 478 e 480 do CC e art. 6º, V, do CDC). Relativização da "pacta sunt servanda".
+Reajuste por faixa etária. Possibilidade reconhecida (art. 15 da Lei nº 9.656/98).
+Necessidade de previsão contratual, respeito aos limites e requisitos legais e observância ao princípio da boa-fé objetiva. Aplicação de reajuste no percentual de 89,07% a partir de 59 anos de idade. Orientação do STJ firmada no REsp. 1568244/RJ, com rito de eficácia vinculante. Abusividade manifesta.
+Percentual que onera em demasia a segurada.
+Desequilíbrio contratual. Nulidade, todavia, não configurada. Limitação impositiva.
+Observância do artigo 3º, I e II, da Resolução Normativa nº 63/2003 da ANS. Prevalência, ademais, do princípio da hipervulnerabilidade do consumidor (art. 4º, I, CDC) e de interpretação que lhe seja mais favorável (art. 47, CDC).
+Readequação do reajuste. Hipótese regulada pelo artigo 3º, II, da Resolução Normativa nº 63/2003 da ANS, o qual obsta que a variação acumulada entre a sétima e a décima faixas sobeje a variação acumulada entre a primeira e a sétima faixas. Hipótese dos autos que revela que a variação acumulada entre a sétima e a décima faixas sobeja em 46,07% a variação acumulada entre as primeiras sete faixas etárias. Reajuste que deve ser adequado ao texto regulamentar. Limitação ao percentual de 43%, substituindo-se aquele do contrato (89,07%). Equação econômica do negócio que reclama aquilatar-se o justo valor.
+Danos materiais. Restituição dos valores cobrados em desacordo com os percentuais da ANS. Devolução simples devida. Recursos desprovidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 474/476).
+Em suas razões (e-STJ fls. 434/452), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 932, IV, "c", e 1.040, II, do CPC/2015, pois "sendo fixada a tese da legalidade do reajuste pelo incremento de faixa etária, qualquer decisão que viole os princípios discutidos no REsp 1.568.244/RJ viola por consequência os Princípios do Mutualismo, da Onerosidade Excessiva e da Pacta Sunt Servanda" (e-STJ fl. 437). Informa que "trata-se de demanda tencionando a declaração de ilegalidade de cláusula contratual que permite o reajuste pela majoração de faixa etária. Importa reiterar que a pretensão recursal não depende do reexame dos fatos ou provas colocados nos autos, mas tão somente que o acórdão determine a aplicação integral da orientação fixada no REsp 1.568.244/RJ, representativo de controvérsia, uma vez que o mesmo tão somente o acolheu parcialmente" (e-STJ fl. 441).
+Determinado o retorno dos autos à origem, para adequação com o repetitivo (e-STJ fls. 494), o Tribunal de origem deu parcial provimento ao recurso, no termos da ementa (e-STJ fl. 515):
+APELAÇÃO CÍVEL. Plano de saúde. Contrato coletivo por adesão. Reajuste por mudança de faixa etária. Requerida que não se desincumbiu de provar o desequilíbrio atuarial a ensejar o índice aplicado ao contrato da autora. Abusividade reconhecida em primeiro grau e mantida, devendo ser aferida em incidente próprio. Soma aritmética de índices. Aplicação equivocada da Resolução ANS n. 63/2003. Cálculo mediante variação acumulada. Tese 1.016 firmada em recursos repetitivos pelo STJ.
+Sentença de parcial procedência mantida, devendo-se readequar o índice aplicável ao caso. Recursos parcialmente providos.
+SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE reiterou os termos do recurso especial (e-STJ fl. 522).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O Tribunal de origem, em reapreciação da matéria para adequação ao recurso especial repetitivo n. 1.016/STJ, deu parcial provimento aos recursos, sob os seguintes fundamentos (e-STJ fl. 519):
+Dito isso, deve ser mantida a parcial procedência da ação tal qual constou na sentença de primeiro grau, para o fim de autorizar o reajuste por mudança de faixa etária (fls. 253), mas, afastar o índice aplicado unilateralmente pela operadora do plano de saúde (89,07% - fls. 198), que deve ser aferido em incidente processual próprio, com a repetição simples de valores, correção monetária e juros na forma da sentença, observada a prescrição trienal, ficando mantida a sucumbência nos termos lançados a fls. 254.
+Contudo, alterados os fundamentos pelo Tribunal de origem, para adequar ao decidido em recurso especial repetitivo, a parte recorrente apenas reiterou as razões do recurso especial anterior interposto, o que caracteriza deficiência na fundamentação recursal, a teor das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
