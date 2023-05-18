@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ e da ausência de comprovação do dissídio jurisprudencial (e-STJ fls. 453/456).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 414):
+APELAÇÃO. LOCAÇÃO. AÇÃO DE COBRANÇA. Locadora que visa receber quantia necessária para realização de reparos no imóvel. Procedência em primeiro grau. Inconformismo do locatário e do fiador. DESCUMPRIMENTO CONTRATUAL. Imóvel locado com mobília e itens decorativos requintados e que fora devolvido ao locador bastante avariado, com itens perdidos e danificados. Estragos anormais, superiores aos decorrentes do uso normal da coisa. Locatário que não pugnou pela realização da vistoria final na sua presença, conforme disposto em contrato. Deterioração comprovada por meio da vistoria final, das fotografias e da prova testemunhal. VALOR DA INDENIZAÇÃO. Inviabilidade de se examinar impugnações genéricas. Apreciação limitada às questões especificamente contestadas. Conserto prévio do vinil da piscina não comprovado. Nota fiscal que se refere à aquisição de capa. Gastos despendidos com manutenção e reforma dos móveis que não comporta reembolso. Ausência de autorização escrita da locadora. Cláusula que exclui direito a indenização e retenção por benfeitorias. Sentença mantida, inclusive em relação aos honorários sucumbenciais, arbitrados em 20% do valor da condenação. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 422/435), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 369 e 373, I, do CPC/2015.
+Afirma que (e-STJ fl. 426):
+(..) a principal prova produzida pelo Recorrido é de natureza documental, consistente em laudo de vistoria de saída, com o término do contrato de locação, para o qual não receberam os Recorrentes qualquer notificação a fim de intervir na referida vistoria.
+Todavia, diante da ausência de notificação, é certo que a prova documental em questão não poderia ser bastante à prova dos fatos constitutivos do direito do Recorrido, de modo que o entendimento exposto no acórdão implica em violação aos artigos. 369 e 373, I, do CPC.
+Como se pode ver, as cláusulas do contrato de locação em comento permitem apreender a necessidade de presença do locatário na vistoria de saída.
+Ressalta que "a realização de inspeção antes da entrega do imóvel e depois da sua devolução, com a presença das partes interessadas é condição para sua validade, que, em síntese, constituiria meio de prova hábil a possibilitar ao locador lesado, com base nela, cobrar os custos dos reparos que se fizerem necessários no imóvel" (e-STJ fl. 427).
+Ao final, requer o provimento do recurso para "reconhecer a contrariedade do acórdão recorrido aos artigos 369 e 373, I, do CPC, reformando-se a decisão" (e-STJ fl. 434).
+No agravo (e-STJ fls. 459/473), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 475).
+É o relatório.
+Decido.
+O Tribunal de origem entendeu que (e-STJ fls. 415/419):
+Versa o recurso sobre a responsabilidade dos apelantes pelos danos causados ao imóvel residencial situado na Rua da Mata, n. 65, Quinta da Alvorada, Distrito de Bonfim Paulista, Ribeirão Preto/SP, durante o período de locação entre julho de 2014 e novembro de 2015.
+O imóvel fora locado com mobília e itens decorativos requintados, tratando-se de unidade residencial com padrão imponente.
+(..)
+A questão relacionada à validade da vistoria final foi analisada e satisfatoriamente fundamentada, com base na cláusula vigésima, senão veja-se:
+"No que diz respeito a ausência de notificação dos locatários, ora corréus, para acompanhamento da vistoria do imóvel, tal como arguido em sede de contestação, não se deve perder de vista que contratualmente estipulado quanto a "CLÁUSULA VIGÉSIMA" (fls.18), em que o locatário se obriga em requerer por escrito a realização de nova perícia, em relação ao que inexiste nos autos documentos que atestem que corréus tomaram qualquer providência em tal sentido. Não se vislumbra assim qualquer irregularidade cometida pela parte autora, que, ao contrário, agiu em conformidade com os termos do Contrato celebrado entre as partes"
+Quanto ao mérito, tem-se que é obrigação do locador entregar ao locatário o imóvel alugado em estado de servir ao uso a que se destina (art. 22,inciso I, da Lei nº 8.245/91). O locatário, por sua vez, está obrigado a restituir o imóvel, finda a locação, no estado em que o recebeu, salvo as deteriorações decorrentes do seu uso normal (art. 23, inciso III, da Lei de Locações).
+No caso em apreço, a obrigação legal foi ratificada contratualmente, obrigando-se o locatário a conservar o imóvel e os móveis no estado em que os recebeu e assim devolvê-los, ao final da locação, ficando às suas expensas todas as obras necessárias a boa conservação do imóvel e de suas instalações (cláusula vigésima sétima, fls. 19).
+A fls. 22/44, constam o laudo de vistoria de entrada e a relação dos bens móveis que iriam permanecer na residência, durante a locação. A fls. 45/80, constam fotografias que revelam o estado do bem e a fls. 81/82 há listagens dos reparos realizados pelo locador, no início do contrato.
+Diante de tais elementos, forçoso reconhecer que o imóvel não foi restituído no estado em que recebido. O laudo de saída (fls. 83/93), as fotografias(fls. 94/150) e os relatos das testemunhas corroboram esse entendimento.
+Os danos não decorrem do uso natural da coisa. Na verdade, foram acarretados pela total falta de zelo do locatário com a coisa alheia: diversos itens foram perdidos, outros tantos danificados.
+(..)
+Segundo a cláusula vigésima, "para o encerramento da locação, estando o imóvel totalmente desocupado, livre e desimpedido de objetos e pessoas, o LOCATÁRIO obriga-se a solicitar ao LOCADOR ou à sua administradora novo auto de vistoria no imóvel, que será feito em 3 dias úteis, para se aquilatar as condições de asseio, uso e conservação do imóvel (..)"(g. n.)
+Portanto, ao desocupar totalmente o imóvel, o locatário deveria informar o fato ao locador e requisitar a realização de vistoria, em sua presença. A ausência de pedido formal por parte do locatário para designação de data para vistoria denota desinteresse de sua parte com relação ao termo final do contrato.
+Além da vistoria e das fotografias, que nem sequer foram impugnadas pelos apelantes, os depoimentos das testemunhas confirmaram que o imóvel estava em mau estado de conservação quando foi desocupado.
+(..)
+Em suma, os estragos são inequívocos e a reparação deve ser suportada pelos recorrentes.
+Dessa forma, verifica-se que o Tribunal a quo julgou a lide com respaldo em ampla análise contratual e dos elementos fático-probatórios, cujo reexame é vedado em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias.
+Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) pela fixação anterior no patamar máximo permitido em lei.
+Publique-se e intimem-se.
