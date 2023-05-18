@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HITALO FERREIRA RODRIGUES contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no julgamento do HC n. 0624009-32.2023.8.06.0000.
+O Paciente, preso preventivamente em 07/04/2021, foi condenado às penas de 14 (quatorze) anos, 9 (nove) meses e 28 (vinte e oito) dias de reclusão, em regime inicial fechado, e 536 (quinhentos e trinta e seis) dias-multa, como incurso nos arts. 2.º, § 2.º, da Lei n. 12.850/2013 e 1.º, §§ 1.º, inciso II, e 4.º, da Lei n. 9.613/1998 (fls. 23-60).
+Foi negado ao Sentenciado o direito de recorrer em liberdade.
+Impetrado prévio habeas corpus na origem, o Tribunal local denegou a ordem nos termos do acórdão de fls. 23-60.
+Neste writ, a Defesa alega, em suma, que o direito de o Paciente recorrer em liberdade foi denegado mediante motivação inidônea "e, sem consonância com qualquer dos requisitos elencados no artigo 312 do Código de Processo Penal" (fl. 11). Afirma a suficiência das medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, a expedição do alvará de soltura em favor do Paciente, ainda que mediante a imposição de medidas cautelares alternativas.
+É o relatório. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, a Defesa não juntou a cópia da decisão que decretou a prisão preventiva mantida na sentença condenatória (Autos n. 0209069-95.2021.8.06.0001), mencionada às fls. 26 e 2.116.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marc ha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribu nal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
