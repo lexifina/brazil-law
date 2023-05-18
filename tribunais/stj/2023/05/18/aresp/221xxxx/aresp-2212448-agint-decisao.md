@@ -1,0 +1,5 @@
+DECISÃO
+Tendo em conta a decisão por mim proferida na Pet 15.298/SP, deferindo o pedido de suspensão dos efeitos do acórdão objeto dos recursos especiais interpostos no bojo dos presentes autos (número de registro 2021.0000795457, referente ao Processo n. 1003770- 82.2016.8.26.0079), reconsidero a decisão de fls. 1.332, tornando-a sem efeito.
+Pois bem, mediante a Petição nº 00873002/2022 (fls. 1.317/1.325), o agravante juntou aos autos cópia do acordo de não persecução cível celebrado entre os réus da subjacente ação civil pública por ato de improbidade administrativa e o Ministério Público do Estado de São Paulo (o qual, convém ressaltar, prevê o pagamento de valores a título de ressarcimento do dano causado ao erário e de multa civil).
+Nesse contexto, nos termos dos 932, I, e 487, III, b, do CPC, homologo o "Acordo de Não Persecução Cível" e, em consequência, julgo prejudicados os agravos em recurso especial de fls. 1.235/1.250 e 1.253/1.286. Eventuais incidentes referentes ao cumprimento do acordo serão resolvidos pelo juízo de primeiro grau.
+Publique-se.
