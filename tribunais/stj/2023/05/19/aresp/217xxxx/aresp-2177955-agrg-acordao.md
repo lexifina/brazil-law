@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JERDESON TEIXEIRA MAGALHÃES contra decisão de fls. 133/138, de minha relatoria, em que conheci do agravo de fls. 95/100 para não conhecer do recurso especial.
+Nas presentes razões recursais, a defesa afirma, em síntese, que o alegado cerceamento de defesa foi debatido no acórdão prolatado pelo Tribunal de origem, que entendeu pela preclusão do direito à oitiva de testemunha.
+Requer a reconsideração da decisão agravada ou a submissão do agravo regimental ao Colegiado, para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MATÉRIA NÃO DEBATIDA PELA CORTE DE ORIGEM NO VIÉS EXPOSTO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegada violação ao art. 369 do Código de Processo Civil - CPC não foi debatida pela Corte de origem no viés pretendido pela defesa, tendo o acórdão recorrido fundamentado toda a negativa de nulidade na preclusão da faculdade de pedir a substituição de testemunha, ao passo que o recurso especial fundou suas razões na falta de expedição da intimação ao advogado constituído para apresentar a defesa do acusado, não tendo sido sequer levantada a matéria em embargos de declaração, tratando-se de inovação recursal.
+2. O requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal a quo, com a emissão de juízo de valor acerca da tese trazida no recurso especial, o que não ocorreu no presente caso. Incidência das Súmulas n. 282 e n. 356 do Supremo Tribunal Federal.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+Conforme exposto na decisão atacada, o TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA - TJ não reconheceu o alegado cerceamento de defesa nos seguintes termos do voto do relator (grifos nossos):
+"Como se viu do relatório, a defesa requer, preliminarmente, a nulidade do processo sob argumento de cerceamento de defesa em razão do indeferimento da oitiva de testemunha, nos termos do art. 564, IV, do CPP.
+Ao contrário do que alega a defesa, a preliminar deve ser rejeitada. Explico.
+A irresignação do apelante consiste no fato de o seu pedido de oitiva de testemunha ter sido indeferido na audiência de instrução e julgamento, conforme EP 95, no 1º grau.
+No entanto, da análise da ação penal, verifico que o advogado constituído nos autos manifestou o interesse na oitiva da testemunha de defesa após o encerramento da instrução, não estando o juízo obrigado a aceitar o pedido, cuidando-se de uma faculdade, podendo negar quando entender que o fato imputado está provado.
+Ademais, o advogado poderia ter requerido substituição de testemunha na defesa prévia, operando assim a preclusão.
+Alias, sobre esse assunto, é pertinente transcrever a parte da sentença condenatória, relevante ao esclarecimento do argumento acima exposto. Confira-se.
+(..) Ademais, conforme histórico de substabelecimento do PROJUDI, o advogado particular já estava habilitado desde 04/12/2019, sendo que apenas em 07/08/2020 foi cadastrada a DPE em auxílio ao réu, diante da inércia do patrono em apresentar resposta à acusação no prazo sendo de se considerar, também, que quando da citação o réu informou o desejo de ver-se patrocinado pela DPE conforme se depreende da certidão do EP 42, não tendo sido as testemunhas referidas pela defesa arroladas em tempo oportuno (..). EP 104, 1º grau.
+Assim sendo, rejeito a preliminar." (fl. 52)
+Conforme concluído na decisão agravada, verifica-se que a violação ao art. 369 do Código de Processo Civil - CPC não foi debatida pela Corte de origem no viés pretendido pela defesa, tendo o acórdão recorrido fundamentado toda a negativa de nulidade na preclusão da faculdade de pedir a substituição de testemunha, ao passo que o recurso fundou suas razões na falta de expedição da intimação ao advogado constituído para apresentar a defesa do acusado, não tendo sido sequer levantada a matéria em embargos de declaração, tratando-se de inovação recursal.
+Assim, "Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020, AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018)".
+O requisito do prequestionamento pressupõe o prévio debate das questões pelo Tribunal de origem, com emissão de juízo de valor acerca das teses trazidas no recurso especial, o que não ocorreu no presente caso. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal . Nesse sentido (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 69, 71 E 173, § 3º, DO CÓDIGO PENAL - CP. INEXISTÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 59 DO CP NÃO EVIDENCIADA. FUNDAMENTAÇÃO IDÔNEA. MONTANTE DE EXASPERAÇÃO DA PENA-BASE. DESPROPORCIONALIDADE NÃO VERIFICADA. AUSÊNCIA DE CRITÉRIO LEGAL. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento.
+1.1. No caso em tela, a tese relativa a incidência de crime continuado foi apresentada somente no recurso especial e a tese relativa à atipicidade de uma das condutas foi arguida somente em embargos declaração na origem, deixando o Tribunal local de emitir juízo de valor a seu respeito por se tratar de inovação recursal.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.939.244/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 155 DO CPP. INOVAÇÃO RECURSAL. MATÉRIA NÃO SUSCITADA NA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. INCIDÊNCIA MANTIDA. DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO.
+I - O efeito devolutivo da apelação encontra limites nas razões expostas pelo recorrente (tantum devolutum quantum appellatum), em respeito ao princípio da dialeticidade que rege os recursos previstos no âmbito do processo penal pátrio, por meio do qual se permite o exercício do contraditório pela parte detentora dos interesses adversos, garantindo-se, assim, o respeito à clausula constitucional do devido processo legal.
+II - Neste caso, o reconhecimento de violação ao art. 155 do CPP não foi apresentado pela defesa em sede de apelação, consistindo inovação recursal no recurso especial, não tendo sido objeto de debates pelas instâncias antecedentes, o que inviabiliza a discussão da matéria em sede de recurso especial, por caracterizar ausência de prequestionamento. Incidência dos óbices das Súmulas n. 282/STF e 356/STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.807.611/ES, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/4/2021, DJe de 27/4/2021).
+Ressalta-se que o requisito do prequestionamento é imprescindível para o conhecimento da matéria por não ser possível que a alegação seja apreciada originariamente em instância superior, per saltum.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
