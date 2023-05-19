@@ -1,0 +1,4 @@
+LEI Nº 14.586, DE 18 DE MAIO DE 2023
+Denomina "Rodovia Dr. Fábio André Koff" a BR-448, no Estado do Rio Grande do Sul.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
