@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ADRIANA DEXHEIMER contra decisão monocrática de minha relatoria conheceu do agravo para não conhecer do recurso especial (fls. 13.018-13.022).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 12.684-12.703):
+APELAÇÃO. DIREITO ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. CONCURSO PÚBLICO. MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO. REALIZAÇÃO DE PROVAS PARA ACESSO AO CARGO DE TÉCNICO ADMINISTRATIVO. FRAUDE NO CERTAME. ROBUSTO ACERVO PROBATÓRIO DOS AUTOS QUE CORROBORA A PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE DO ATO ADMINISTRATIVO DE ANULAÇÃO DA INVESTIDURA DA DEMANDANTE NO CARGO. MANUTENÇÃO DO DECISUM DE IMPROCEDÊNCIA.
+Rejeitados os embargos de declaração opostos (fls.12.764-12.777).
+Alega a agravante que, "no que tange à violação aos arts. 1.022 e 489 do CPC, no que diz respeito à omissão acerca da apreciação dos argumentos trazidos pela Autora, ora Agravante, e da jurisprudência invocada, é oportuno considerar que não se trata de escolha das provas que o julgador entender cabível, mas sim de questionamento da própria validade desta prova" (fl. 13.029).
+Aduz, ainda, que, "apesar da questão aqui discutida tratar da ausência de prova da participação da Agravante na fraude do concurso público do MPRJ, é oportuno ressaltar que o presente recurso não encontra óbice na Súmula 7 do STJ, na medida em que não depreende da análise das provas produzidas nos autos, mas sim da valoração equivocada que foi dada às mesmas, ou melhor aos meros indícios" (fl. 13.033).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fl. 13.046).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE NO CERTAME. ROBUSTO ACERVO PROBATÓRIO DOS AUTOS QUE CORROBORA A PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE DO ATO ADMINISTRATIVO. AUSÊNCIA DE OMISSÃO. SÚMULA N. 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há violação dos arts. 489 e 1.022 do CPC.
+2. Hipótese em que o Tribunal a quo lastreou-se nos fatos e nas provas colacionadas aos autos para chegar a conclusão em que houve fraude no concurso público, restando revestido de legitimidade o ato administrativo que anulou o ato de investidura da autora em cargo público.
+3. É pacífica a jurisprudência desta Corte Superior que, para rever tal posicionamento, é necessária a incursão na seara fática probatória, conduta vedada pela Súmula n. 7/STJ.
+Agravo interno improvido .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar.
+A agravante não trouxe elementos capazes de infirmar a decisão ora atacada, de forma que apenas reitera os argumentos já colacionados anteriormente.
+Quanto à alegada violação dos arts. 489 e 1.022 do CPC, vê-se que não há omissão a ser sanada. Todas as questões colocadas à jurisdição foram devidamente apreciadas e fundamentadas, conforme já destacado (fls. 12.697-12.703):
+Ab initio, pontua-se que o ato administrativo, como o que anulou o ato de investidura da autora em cargo público, possui presunção de legitimidade, ou seja, presume-se que o ato foi editado em conformidade com as normas legais, até que se faça prova em contrário.
+Como se verá, a apelante não logrou apresentar provas suficientes a implicar na desconstituição da presunção de legitimidade e veracidade do ato administrativo aqui impugnado, de sorte que nada há a macular seu conteúdo.
+ ..
+Destaque-se, à título de exemplo, não só o fato de as pessoas envolvidas na citada ação fraudulenta serem da mesma família (cunhada e irmão), mas também, e sobretudo, o fato da autora e a Sra. Renata (cunhada) terem respondido 77 questões do certame de modo igual, além de que seu irmão, sem formação jurídica alguma, foi aprovado no cargo de Técnico em Notificações e Atos Intimatórios, em surpreendente 7ª colocação.
+Some-se a isso a especial circunstância de que tal candidato possui, confessadamente, conexão próxima com o Sr. Marcelo Cordeiro Peçanha, Policial Militar do 4º Batalhão de Duque de Caxias, local de onde partiu a iniciativa de obtenção da cópia da prova do concurso.
+Ainda que tal situação não bastasse, o extenso e robusto acervo probatório produzido nestes autos conduz, quase que necessariamente, à conclusão pela certa ocorrência da fraude perpetrada pela recorrente e pelos demais envolvidos no afã de ingressar no quadro funcional do Ministério Público do Estado do Rio de Janeiro.
+ ..
+É de se observar que uma das principais provas documentais na qual lastreou-se a conclusão exaradano processo administrativo (e também o ajuizamento da ação civil pública) foi a análise técnica da COTEC-LD, onde constou que os referidos candidatos apresentaram idênticas respostas em todas as questões da prova, em porcentagem superior a 90%, isso levando-se em consideração erros e acertos.
+Já sobre o suposto cerceamento de defesa no inquérito civil que, como um todo, fundamentou o ato aqui questionado, tem-se que este é inquisitorial. Ou seja, não há a figura de um acusado, já que a sua finalidade não é punitiva, mas sim investigatória, aparentelando-se ao inquérito policial.
+ ..
+Assim, ao contrário do que propõe a demandante, não há necessidade alguma de prévia audiência do indiciado para produção de provas ao longo da instrução do inquérito civil. Outrossim, ainda sobre o tópico, os questionados dados colhidos pela equipe técnica do Ministério Público com o auxílio do softwarepor eles desenvolvidos são aritméticos e, em nenhuma circunstância, não importe o programa de computador utilizado ou a equipe que os apresente, mudarão o fato de que 77 questões de uma prova, em umuniverso de 80, foram respondidas de maneira absolutamente igual por duas candidatas da mesma família, ligadas diretamente a uma pessoa com potencial acesso prévio ao conteúdo das questões destinadas aos pretensos ocupantes de cargo no Ministério Público do Estado do Rio de Janeiro.
+ ..
+Por fim, não há que se cogitar da aplicação do princípio da igualdade com o fito de tentar-se combalir a já tão definhada moralidade administrativa, haja vista que os demais processos administrativos arquivados por suposta "ausência de provas", além de não reportarem cenário idêntico ao quadro fático imputado à autora, possuindo, então, suas nuances e notáveis diferenças circunstanciais, de igual forma não podem servir de alimento à esperança perversa daqueles que burlam o crivo de um concurso público e esperam manter-se empossados sob o manto de outras possíveis irregularidades.
+Observa-se, portanto, que o acórdão recorrido não carece de fundamentação, pois a fundamentação exigida nos termos do art. 489 do CPC é aquela revestida de coerência, explicitando suficientemente as razões de convencimento do julgador, ainda que incorreta ou mesmo não pormenorizada, pois decisão contrária ao interesse da parte não configura violação do indigitado normativo.
+Cumpre reiterar que entendimento contrário não se confunde com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSTO DE RENDA DAS PESSOAS FÍSICAS. RENDIMENTOS RECEBIDOS DE ENTIDADE DE PREVIDÊNCIA PRIVADA. PRETENSÃO DE SER CONSIDERADO SOMENTE O LÍQUIDO. DESCABIMENTO. INCIDÊNCIA DO IMPOSTO SOBRE A TOTALIDADE DOS RENDIMENTOS. POSSIBILIDADE APENAS DE DEDUÇÃO DA BASE DE CÁLCULO FORMADA POR TODOS OS RENDIMENTOS TRIBUTÁVEIS DAS CONTRIBUIÇÕES À ENTIDADE, OBSERVADO O LIMITE LEGAL DE 12% DO TOTAL DE RENDIMENTOS TRIBUTÁVEIS.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal Regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+ ..
+10. Agravos Internos não providos.
+(AgInt nos EDcl no REsp n. 1.998.278/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA. IPTU. DIREITO LOCAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SUCUMBÊNCIA RECÍPROCA. NAO OCORRÊNCIA.
+1. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. A existência de fundamento constitucional autônomo (art. 5º, XXIII, função social da propriedade, e art. 182, § 4º, da CF/1988) não atacado por meio de recurso extraordinário enseja a aplicação do óbice de conhecimento do recurso especial estampado na Súmula 126 do STJ.
+3. Situação em que o julgado recorrido resolveu a questão atinente à incidência do limitador de variação nominal de IPTU com apoio no exame do material fático e probatório dos autos e na legislação local de regência sobre o tema (Leis municipais ns. 15.889/2013, 16.050/2014 ), motivo pelo qual a revisão das conclusões da Corte local encontraria óbice nas Súmulas 7 do STJ e 280 do STF.
+4. A ausência de reciprocidade na sucumbência prejudica a análise da alegada violação do art. 86 do CPC/2015.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.159.827/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023.)
+Por outro giro, observa-se que o juízo a quo lastreou-se nos fatos e nas provas colacionadas aos autos para chegar a conclusão exarada no acórdão.
+É pacífica a jurisprudência desta Corte Superior que, para rever tal posicionamento, é necessária a incursão na seara fática probatória, conduta vedada pela Súmula n. 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE ADMINISTRATIVA. FRAUDE EM CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. PRODUÇÃO DE PROVAS. DESNECESSIDADE. PRINCÍPIO DA PERSUASÃO RACIONAL. DECISÃO FUNDAMENTADA. ALTERAR CONCLUSÃO DA INSTÂNCIA DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A instância de origem entendeu, de maneira fundamentada, não ser necessária a produção de novas provas.
+2. O princípio da persuasão racional ou da livre convicção motivada do juiz consigna que cabe ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos sua devida valoração.
+3. Tem-se que, "no sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção" (REsp 1.175.616/MT, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 1º/3/2011, DJe 4/3/2011). 4. Assim, a avaliação da necessidade e da suficiência ou não das provas e da fundamentação da decisão demandam, em regra, incursão no acervo fático-probatório dos autos e encontra óbice na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp n. 1.660.411/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe de 20/6/2017.)
+Ademais, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Nesse sentido, cito :
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. PROCEDÊNCIA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no contexto fático do caso, pela procedência da condenação em questão. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca dos fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.799.701/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
