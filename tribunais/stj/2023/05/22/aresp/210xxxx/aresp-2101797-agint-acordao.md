@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIMAR AGENCIAMENTOS MARÍTIMOS LTDA. contra decisão de e-STJ fls. 638/642 em que conheci de seu agravo para não conhecer de seu recurso especial, com base nas Súmulas 5 e 7 do STJ.
+Em seu agravo interno, a parte assevera que (e-STJ fls. 653/656):
+(..) a pretensão recursal não está atrelada ao pedido de reexame fático, o que estaria vedado pelas Súmula nº. 07 do E. Superior Tribunal de Justiça, mas apenas a questões puramente de direito, sendo certo que, a questão decidida por este C. Tribunal afronta diretamente os preceitos dispostos no artigo § 1º do artigo 37 do Decreto-Lei 37-66, haja vista que lhe fora dada interpretação diversa daquela que o legislador fez constar.
+Ainda, o Recurso Especial não conhecido também não infringe a Súmula nº. 05 do E. Superior Tribunal de Justiça, uma vez que não depende de análise de cláusula contratual.
+Verifica-se, nitidamente, a decisão reconheceu que o acordão do TRF - 4ª Região proferiu decisão com base nas atividades mencionadas no contrato social da Agravante de 2019 (operadora portuária) e, no entanto, ao não conhecer do recurso interposto reafirma o entendimento de que:
+(..)
+No entanto Exas., fato é que o v. acórdão que negou provimento ao recurso de apelação da Agravante foi fundado em documentos que não fazem parte da demanda, isto é, o D. Juízo a quo levou em consideração fatos não condizentes com o feito analisado, veja-se do trecho abaixo:
+(..)
+Fato é que o dispositivo oriundo do parágrafo 1º do art. 37 do Decreto-Lei nº 37/66 atribui o dever de prestar informações à Receita Federal tão somente ao TRANSPORTADOR e ao AGENTE DE CARGA, figuras estas que não se confundem com a atividade da Recorrente, que atua exclusivamente como AGÊNCIA MARÍTIMA.
+Não menos importante, convém esclarecer que o fato de constar em um contrato social antigo, juntando em outra demanda, a atividade econômica: OPERADOR PORTUÁRIO não significa dizer que, no caso em voga, a Agravante atuou nesta posição.
+Muito pelo contrário Exas., a própria Agravada procedeu à autuação da Agravante, pelo desempenho das atividades relacionadas ao agenciamento marítimo (como acima inegavelmente demonstrado).
+Sem falar que, no contrato social da Agravante juntado na nesta demanda, sequer consta a possibilidade de exercício de tal atividade:
+(..)
+Ora Exas., não pode o magistrado se ater a documentos diversos, que não aqueles adstritos ao feito, para proferir decisão fundamentada em contrato social colacionado aos autos de outra demanda, anteriormente ajuizada pela Agravante!
+Assim, a fundamentação em que se baseia o Recurso Especial não conhecido é ANÁLISE E INTERPRETAÇÃO DE LEGISLAÇÃO FEDERAL, que em nada necessita de reexame de provas e/ou fatos.
+Sem impugnação (certidão às e-STJ fls. 687e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACERVO FÁTICO-PROBATÓRIO. REEXAME. CLÁUSULAS CONTRATUAIS. INTERPRETAÇÃO. INVIABILIDADE.
+1. O Tribunal de origem entendeu que "a UNIMAR Agenciamentos Marítimos Ltda. também atuava como Operador Portuário, consoante descrito na Cláusula 2ª do Contrato Social".
+2. A desconstituição desse fundamento do acórdão recorrido, no sentido de que a agravante não desenvolvia atividades de operador portuário, demandaria o reexame do acervo probatório e interpretação de cláusulas do contrato social, providências sabidamente vedadas no âmbito do apelo nobre, em face do teor das Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece prosperar.
+Na origem, cuida-se de ação ordinária de anulação de auto de infração tributária mediante a qual se busca "a anulação do Processo Administrativo n. 10711.725.805/2011-68 relativo ao Auto de Infração n. 0717600/00582/11, extinguindo-se, por consequência, o crédito tributário, condenando a União Federal ao pagamento de custas e honorários na base de 20% (vinte por cento) sobre o valor total da multa imposta, de acordo com o art. 20, § 3º, do CPC." (e-STJ fl. 37).
+Pedido julgado improcedente, por sentença.
+Apelação desprovida.
+Conforme bem apontado na decisão embargada, a questão versada nos autos cinge-se a determinar se as atividades desenvolvidas pela ora agravante devem ser enquadradas somente como agenciamento marítimo ou, também, como agenciamento portuário.
+Ao decidir a matéria, assim se manifestou, no que ora importa, o Tribunal de origem:
+Aduz, prefacialmente, a Apelante sua ilegitimidade para figurar como sujeito passivo, aduzindo que na qualidade de Agente Marítimo, não é responsável pela prestação de informações à Secretaria da Receita Federal, por não desempenhar atividades típicas de transportadora, não se enquadrando como Agente de Carga.
+Dispõe o art. 37 do Decreto-Lei nº 37/66, verbis:
+(..)
+A esse respeito, e conquanto não tenha sido juntado aos autos o Contrato Social que vigia à época em que ocorrida a infração, ou seja, em julho/2008, datando o instrumento, acostado aos autos, de Alteração Contratual e de Consolidação do Contrato Social de junho/2019, registrado na JUCESP em agosto/2019 (Evento1, ContrSocial4), como já observado por ocasião do julgamento do processo nº 5017013-25.2018.4.02.5101, que tramita perante a Sétima Turma Especializada, objetivando desconstituir as multas aplicadas para os fatos geradores igualmente ocorridos no ano de 2008, em hipótese análoga a dos autos, a UNIMAR Agenciamentos Marítimos Ltda. também atuava como Operador Portuário, consoante descrito na Cláusula 2ª do Contrato Social que lastreou a exordial do referido processo.
+Não por outra razão, aliás, restou expressamente asseverado no voto da então Relatora MM. Desembargadora Federal NIZETE LOBATO CARMO, que, "em primeiro lugar, verifico que a UNIMAR, conquanto agente marítimo, tem legitimidade para figurar como sujeito passivo do auto de infração, pois também atua como operador portuário (evento 1 - "Contrato Social 3", fl. 6), que deve prestar informações sobre as operações que execute e as respectivas cargas, nos termos do art. 37, § 1º, do Decreto-Lei nº 37/66", denotando inexistir qualquer razão no tocante à alegada ilegitimidade a alegada ilegitimidade passiva da Sociedade Autora, ora apelada.
+Some-se a isso que, como bem apontou o D. Parquet Federal, em seu judicioso parecer, conquanto tenha afirmado a recorrente que "não seria cabível lhe impor qualquer responsabilidade (..) posteriormente, a fim de demonstrar uma suposta ausência de previsão legal para a sua autuação, ela própria afirma que "as informações de responsabilidade da Apelante FORAM DEVIDAMENTE PRESTADAS" (evento 55, APELAÇÃO1, p. 29 - em caixa alta no original). Argumenta, ainda, que "o Manifesto Eletrônico ora autuado teve suas informações lançadas no Mercante com antecedência (..)" (evento 55, APELAÇÃO1, p. 29)", ressaltando, com acerto, ser descabido acolhera "distinção suscitada pela apelante como fator de afastamento da penalidade, porque conforme a premissa lançada pela própria recorrente, havia informações que cabiam a ela prestar de maneira tempestiva ao fisco", reprisando o entendimento adotado no decisum que "de fato ".. todos os documentos que constam dos autos do processo administrativo indicam os dados correspondentes aos da autora, fato que demonstra que, ao menos no presente caso, a autora desenvolveu perante a administração tributária e aduaneira as atividades típicas relacionadas às obrigações dos transportadores estrangeiros, emitindo Manifesto Eletrônico e vinculando o mesmo à Escala da embarcação", possuindo, assim, a obrigação de prestar informações sobre as operações que execute e as respectivas cargas, nos termos do art. 37, § 1º, do Decreto-Lei nº 37/66" (Evento5).
+Como se nota, é impossível conhecer da alegação de que a ora agravante teria exercido, na hipótese, atividade meramente de agenciamento marítimo e não, concomitantemente, de operador portuário, uma vez que demandaria ultrapassar o quadro fático desenhado nas instâncias ordinárias, inclusive com a necessidade de interpretação de seu contrato social, providências vedadas, respectivamente, pelas Súmula 7 e 5 do STJ.
+Registre-se, por fim, que essa impossibilidade de conhecimento do recurso especial também se aplica à divergência jurisprudencial, uma vez que essa, evidentemente, não pode residir na própria análise do contexto fático das causas.
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
