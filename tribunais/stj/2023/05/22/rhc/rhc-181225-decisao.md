@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOICE DE FREITAS FRANCISCO, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que a Recorrente se encontra presa, cautelarmente, tendo sido denunciada pela prática, em tese, dos delitos de tráfico de drogas e associação para o tráfico de drogas. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, mantendo a prisão cautelar, consignando que "Não bastasse, como bem apontou o MM. Juiza quo, a Paciente possui condenação anterior por crime da mesma espécie (fl. 49/51 dos autos principais), restando patente, com a reiteração delitiva, que faz disso o seu meio de vida, a justificar, desde logo, a necessidade de sua custódia cautelar a fim de se garantir a ordem pública" (fl. 41), conforme acórdão de fls. 37-43.
+Neste writ, postula a defesa em linhas gerais, a revogação da prisão preventiva decretada em desfavor da Recorrente, em razão da alegada ausência de fundamentação idônea para a segregação cautelar, aduzindo que "importa destacar que, conforme se apurou na denúncia feita aos autos iniciais, bem como pelo próprio termo de depoimento dos agentes, juntamente com a declaração do réu e das corrés, restou claro que a paciente Joice estava no estabelecimento, porém, no ambiente externo, realizando atividade de lazer com terceiros. Ressaltasse ainda que, o local do ocorrido é público, haja vista ser um bar com livre circulação de pessoas" (fl. 51).
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o breve relatório.
+Decido.
+Pretende a Recorrente, em breve síntese, o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação do decreto prisional.
+Em consulta à base de dados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 820.821 / SP, cuja irresignação dirigiu-se ao mesmo acórdão ora atacado (HC n. 2037626-19.2023.8.26.0000), evidenciando-se deste presente recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, da aventada inidoneidade da custódia cautelar por ausência de fundamentação do decreto prisional, dado que indica o não cabimento da insurgência em exame.
+Nessa hipótese, em que o Tribunal já examinou a controvérsia em outra sede processual, a saber, HC n. 820.821 / SP, torna-se inviável o conhecimento da petição na qual se reitera o pleito.
+Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. TESE RECENTEMENTE AFASTADA POR ESTA TURMA. FUNDAMENTAÇÃO. PERICULOSIDADE. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. PRINCIPAL PERSONAGEM DA ASSOCIAÇÃO. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Inicialmente, cumpre ressaltar que nesta Corte também houve a interposição do RHC n. 113.146/GO, em favor do ora recorrente, requerendo igualmente a revogação da prisão preventiva, sob o argumento de excesso de prazo para a formação da culpa, sendo que o recurso foi improvido pela Quinta Turma, em 13/8/2019. Assim, por se tratar de mera reiteração, a questão do excesso de prazo não merece ser conhecida.
+ ..
+4. Recurso parcialmente conhecido e, nessa extensão, improvido" (RHC n. 117.327/GO,Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/09/2019, grifei).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PEDIDO DE REVOGAÇÃO. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 492.985/RS. LITISPENDÊNCIA. EXCESSO DE PRAZO. EVENTUAL DEMORA NÃO PODE SER IMPUTADA AO JUÍZO. PRINCÍPIO DA RAZOABILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Inadimissível o recurso por litispendência quanto aos pressupostos e motivos autorizadores da custódia cautelar, por veicular mera reiteração de pedido já formulado no HC n.º 492.985/RS.
+ ..
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nessa extensão, desprovido, com recomendação de urgência no julgamento do feito" (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019, grifei).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente recurso ordinário em habeas corpus.
+P. I.
