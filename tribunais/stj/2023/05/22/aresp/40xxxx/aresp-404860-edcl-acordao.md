@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por Vildinei de Oliveira Hilário, contra acórdão que contém a seguinte ementa (fls. 305-306):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA A RESPEITO DA IMPOSSIBILIDADE DE O PROPRIETÁRIO QUE NÃO EFETUOU O REGISTRO DE VEÍCULO NO PRAZO ESTABELECIDO NA REDAÇÃO ORIGINAL DO ART. 233 DO CTB COMETER INFRAÇÃO DE NATUREZA GRAVE A INVIABILIZAR O SEU PEDIDO DE EMISSÃO DA CNH. ART. 148, § 3º, DA LEI N. 9.503/1997. DECLARAÇÃO DE INCONSTITUCIONALIDADE PARCIAL, SEM REDUÇÃO DE TEXTO, PELA CORTE ESPECIAL DESTE TRIBUNAL SUPERIOR. AI NO ARESP N. 641.185/RS. ACÓRDÃO CASSADO PELO STF NO JULGAMENTO DO SEGUNDO ARE 1.195.532/RS - AgR.
+1. O Supremo Tribunal Federal, com fundamento no art. 97 da CF e no enunciado da Súmula Vinculante n. 10, cassou acórdão proferido por este Colegiado e determinou o rejulgamento do recurso especial interposto pelo DETRAN/RS, no qual a controvérsia diz respeito à ofensa ao § 3º do art. 148 da Lei n. 9.503/1997 (CTB) e dissídio jurisprudencial sobre a referida norma.
+2. O autor da ação, no exercício do seu direito como condutor de veículos (permissionário), pleiteou na via administrativa a expedição da Carteira Nacional de Habilitação - CNH junto ao DETRAN/RS, todavia foi-lhe negado o pedido em razão do cometimento de infração de natureza grave prevista na redação original do artigo 233 do CTB, pois deixou de efetuar, como proprietário, o registro do veículo junto ao órgão executivo de trânsito. A ação foi julgada procedente em primeira instância para que o DETRAN/RS confira ao autor a CNH e apelação da autarquia estadual foi desprovida.
+3. Em sede de recuso especial o DETRAN/RS declara a ocorrência de afronta aos arts. 148, § 3º, e 233, da Lei n. 9.503/1997 (CTB), e dissídio jurisprudencial, ao argumento de que deve ser obstada a concessão de Carteira Nacional de Habilitação - CNH ao condutor que cometeu infração de natureza grave durante o período e m que era permissionário do direito de dirigir.
+4. A resolução da controvérsia foi inicialmente apreciada pela Corte Especial por meio da Arguição de Inconstitucionalidade do § 3º do artigo 148 da Lei n. 9.503/1997 (CTB), no julgamento do AI no ARESp n. 641.185/RS, Relator Ministro Og Fernandes, sessão de 11/2/2021. Na oportunidade, foi reconhecida, por unanimidade, a inconstitucionalidade parcial, sem redução de texto, da norma contida no § 3º do artigo 148 " ..  para excluir sua aplicação à hipótese de infração (grave ou gravíssima) meramente administrativa, ou seja, não cometida na condução de veículo automotor". Ocorre que o acórdão da Corte Especial foi cassado pelo STF, por meio do julgamento do ARE 1.195.532 AgR-segundo, Primeira Turma, DJe de 21/10/2021, razão por que é necessário reconhecer que a norma contida no § 3º do artigo 148 da Lei n. 9.503/1997 - é aplicável, o que equivale dizer que, no caso, é lícito ao Órgão de trânsito indeferir o pedido de Carteira Nacional de Habilitação ao condutor que, portador da Permissão para Dirigir, cometeu infração grave, independentemente dessa infração ser qualificada como de natureza administrativa ou na condução do veículo.
+5. Agravo conhecido para conhecer e dar provimento ao recurso especial do DETRAN/RS.
+O embargante sustenta, em síntese, omissão no acórdão embargado consubstanciada na falta de exame de normas do CTB que tratam da distinção entre penalidade e sanção ao condutor do veículo e penalidade e consequente sanção atribuídas somente ao proprietário do veículo.
+Com impugnação às fls. 334-341.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE ACLARATÓRIOS POR QUEM NÃO É PARTE NO PROCESSO OU TERCEIRO JURIDICAMENTE INTERESSADO.
+1. O recurso foi interposto pela União, sob a vigência do Código de Processo Civil de 2015, razão por que se deve observar a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Hipótese em que o embargante não é parte no processo, tampouco demonstrou, a tempo e modo, ser terceiro juridicamente interessado, razão por que os aclaratórios não devem ser conhecidos. A propósito: "Não se conhece de recurso interposto por quem não é parte do processo (AgInt no Acordo no RE nos EDcl nos EDcl no REsp n. 253.589/SP, Rel. Min. Humberto Martins, Corte Especial, DJe de 24/8/2018)".
+3. Embargos de declaração não conhecidos.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que se deve observar a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Com efeito, o embargante não é parte no processo e não demonstrou ser, a tempo e modo, terceiro interessado, razão por que os aclaratórios não devem ser conhecidos.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO ACORDO NO RECURSO EXTRAORDINÁRIO. RECURSO DE AGRAVO INTERNO INTERPOSTO POR QUEM NÃO É PARTE. AUSÊNCIA DE PRESSUPOSTO RECURSAL.
+Não se conhece de recurso interposto por quem não é parte do processo. Precedentes.
+Agravo interno não conhecido (AgInt no Acordo no RE nos EDcl nos EDcl no REsp n. 253.589/SP, Rel. Min. Humberto Martins, Corte Especial, DJe de 24/8/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO. ILEGITIMIDADE RECURSAL. RECONHECIMENTO.
+1. Não se conhece de recurso interposto por quem não é parte do processo (AgInt no Acordo no RE nos EDcl nos EDcl no REsp 253.589/SP, rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/08/2018, DJe 24/08/2018).
+2. Hipótese em que os agravantes não são parte no recurso especial e, sem ter integrado a lide na origem, insurgem-se na condição de terceiros interessados contra a decisão que não conheceu de pedido incidental de nulidade processual e de ocorrência de fato novo superveniente por eles formulado.
+3. Agravo interno não conhecido (AgInt nos EDcl no AREsp n. 1.222.562/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 9/12/2021).
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO DE REMOÇÃO. EXIGÊNCIA DE PROVAS E TÍTULOS PARA PREENCHIMENTO DE VAGAS. SUSPENSÃO DO RECURSO ATÉ JULGAMENTO PELO SUPREMO TRIBUNAL FEDERAL.
+1. O Superior Tribunal de Justiça é competente para determinar a suspensão de julgamento com fulcro no artigo 265, inciso IV, alínea "a", do Código de Processo Civil.
+2. É de ser desentranhada a parte do voto não proferida e juntada aos autos, por evidente erro material.
+2. Não se conhece de embargos de declaração opostos por quem não é parte no processo.
+4. Primeiros embargos de declaração acolhidos para suprir omissão, sem efeitos infringentes. Segundos embargos de declaração acolhidos, por evidente erro material. Terceiros embargos de declaração não conhecidos (EDcl no RMS n. 25.487/SP, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe de 29/9/2009).
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TERCEIRO PREJUDICADO. COMPROVAÇÃO. INEXISTÊNCIA. NÃO CONHECIMENTO.
+1. Não é possível o conhecimento de recurso de quem não é parte na lide e não demonstra sua condição de terceiro prejudicado, carecendo, pois, de legitimidade para recorrer, nos termos do art. 996 do Código de Processo Civil de 2015.
+2. Embargos de declaração não conhecidos (EDcl no REsp n. 1.840.812/RS, Rel. Min. Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 3/5/2021).
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
