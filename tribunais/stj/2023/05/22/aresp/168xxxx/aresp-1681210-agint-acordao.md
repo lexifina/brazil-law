@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por PEDRO ALCÂNTARA MACHADO DE VASCONCELOS em contrariedade à decisão proferida por esta relatoria, assim ementada (e-STJ, fl. 846-869):
+AGRAVO EM RECURSO ESPECIAL. DIREITO AUTORAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ALEGADA VIOLAÇÃO AOS DIREITOS AUTORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 846-869), o agravante alega a inaplicabilidade do enunciado sumular n. 7/STJ, visto que a análise da controvérsia não implica revolvimento de fatos e provas, mas, tão somente, revaloração dos elementos probatórios acostados ao processo.
+Salienta, ademais, que o Tribunal a quo incorreu em negativa de prestação jurisdicional, apontando violação aos arts. 489 e 1.022 do CPC de 2015, pois deixou de apreciar a confissão do agravante de ofensa ao direito autoral à nominação do agravante, o pedido de deferimento de produção de prova e a ausência de contrato com a agravada de cessão de direitos autorais.
+No mais, reitera os termos do apelo especial, notadamente acerca da exigência de atribuir à parte adversa o ônus de comprovar a existência de autorização para utilizar a interpretação e dublagem artística do ora insurgente na exibição da obra; da ofensa aos seus direitos autorais; do dever de pagar pela reexibição e comercialização da obra em outras mídias; e, por fim, da necessidade de interpretação restritiva do negócio j urídico em favor do autor.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 874-886), com pedido de aplicação de multa processual.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO AUTORAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ALEGADA VIOLAÇÃO AOS DIREITOS AUTORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO .
+1. Quanto à suposta negativa de prestação jurisdicional, cabe pontuar que "o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe 16/2/2023). Na espécie, verifica-se que o Tribunal de origem se manifestou, de forma expressa e fundamentada, acerca da controvérsia, com a aplicação do direito que entendeu cabível à hipótese.
+2. No caso, a Corte a quo concluiu que o autor não logrou êxito em comprovar, ainda que minimamente, os fatos constitutivos do seu direito, ponderando que o insurgente deveria ter colacionado aos autos o contrato de cessão de direito que autorizou a reprodução da obra por apenas uma única temporada. Salientou, ainda, que não ficou evidenciada no processo a alegação de que as reexibições ocorreram sem a indicação do nome do autor nos créditos do programa reproduzido. Por fim, extrai-se do aresto recorrido que o agravante não provou o aventado descumprimento contratual a amparar o pleito indenizatório. Desse modo, verifica-se que reverter a conclusão do colegiado estadual, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Quanto à suposta negativa de prestação jurisdicional, cabe pontuar que "o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe 16/2/2023).
+Na espécie, verifica-se que o Tribunal a quo se manifestou de forma expressa e fundamentada acerca da controvérsia, com a aplicação do direito que entendeu cabível à hipótese.
+A propósito, colhem-se do julgado dos aclaratórios os seguintes fundamentos (e-STJ, fls. 732-733):
+Com efeito, é certo que a lei de direitos autorais em vigor é expressa e taxativa no sentido de que toda autorização, cessão, concessão, licença ou qualquer outro negócio jurídico que envolva direitos autorais e conexos deve ser formalizada, por escrito, bem como deve ser interpretado restritivamente (arts. 4º, 49 e 91 da LDA -Lei 9.6.10/98), não sendo verossímil a alegação do embargante de que inexista contrato.
+E ainda que assim não fosse, não se tratando de hipótese de distribuição dinâmica do ônus probatório, deveria o embargante ter buscado comprovar como se dera a autorização, ainda que essa tenha sido firmada oralmente.
+A decisão é clara, verbis:
+"Irrelevante, ademais, se a relação contratual tenha sido estabelecida entre o autor e empresa de dublagem ou a filial americana da Discovery, a qual, diga-se, é do mesmo grupo econômico da correspondente brasileira.
+( )
+Um ator, quando autoriza a utilização de seu trabalho, salvo convenção em contrário, consente na sua utilização econômica, de forma que não poderá negar posteriormente a exploração financeira da produção ao diretor ou ao produtor de direitos de comercialização.
+Nesse passo, dada a natureza da própria obra, não se poderia exigir a autorização de cada um dos envolvidos no trabalho para reprodução da obra, de forma que, dada a natureza da obra audiovisual, tal autorização somente deve ser exigida do detentor do direito autoral.
+Com efeito, o apelante não trouxe o contrato de cessão de direitos, de forma a comprovar que teria autorizado a reprodução do programa infantil, com sua dublagem, por uma única temporada.
+Tal providência, à luz do art. 81 da Lei 9.610/98 se fazia imperiosa, notadamente porque o texto legal permite que o contrato contenha disposição em contrário."
+Na hipótese, portanto, todas as questões aduzidas necessárias à solução do inconformismo foram enfrentadas no julgado embargado, marcada a desnecessidade de qualquer aclaramento, correção ou integração.
+Nesse contexto, é certo que foram examinados todos os pontos relevantes para a solução da causa, não havendo como reconhecer a propalada ofensa aos arts. 489 e 1.022 do CPC/2015.
+À guisa de exemplo:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+No que diz respeito à violação aos direitos autorais do insurgente, o Tribunal de Justiça do Estado de São Paulo, com base no suporte fático-probatório dos autos, dirimiu a controvérsia sob os aspectos a seguir (e-STJ, fls. 674-681):
+Trata-se de ação indenizatória na qual o autor pleiteia obter reparação moral e material fundada no uso indevido de direito da personalidade.
+O apelante narra que exerce a profissão de dublador e que fora contratado pela ré para a dublagem do personagem "Pablo" da série "Backyardigans", programa infantil exibido no canal de TV a cabo "Discovery Kids".
+No entanto, sustenta que seu contrato permitia a exibição dos episódios por ele dublados referentes à primeira e segunda temporadas do programa, uma única vez, e que a apelada teria reexibido os episódios por diversas vezes, mesmo após o término da relação contratual, sem qualquer crédito ao demandante.
+Pois bem.
+( )
+De plano, necessário pontuar que, na peculiaridade da espécie, o direito à reprodução da voz, quando associada a atuação, como no caso dos dubladores, constitui direito conexo ao autoral, conforme expressa previsão legal.
+Nesse sentido, é o § 2º, do art. 90 e da Lei 9.610/98, verbis: "Art. 90. § 2º A proteção aos artistas intérpretes ou executantes estende-se à reprodução da voz e imagem, quando associadas às suas atuações."
+( )
+Como cediço, a obra audiovisual exige o trabalho coletivo de uma série de profissionais, incluindo os atores, diretores, produtores, roteiristas, entre outros. Por essa ótica, denomina-se obra coletiva, a qual abarca direitos autorais próprios (pertencente ao diretor ou produtor) e conexos (imagem e voz dos autores, etc). Nesse quadrante, em sendo o direito de voz conexo ao direito do autor, significa dizer que se trata de um direito indivisível em relação ao todo.
+Um ator, quando autoriza a utilização de seu trabalho, salvo convenção em contrário, consente na sua utilização econômica, de forma que não poderá negar posteriormente a exploração financeira da produção ao diretor ou ao produtor de direitos de comercialização.
+Nesse passo, dada a natureza da própria obra, não se poderia exigir a autorização de cada um dos envolvidos no trabalho para reprodução da obra, de forma que, dada a natureza da obra audiovisual, tal autorização somente deve ser exigida do detentor do direito autoral.
+No entanto, na peculiaridade dos autos, o autor discute seu direito conexo atinente à retransmissão dos programas que participou como dublador, o qual não teria constado indicação de autoria e tampouco recebido a própria remuneração.
+Não se registrara os respectivos créditos.
+Dessa forma, embora se trate de obra coletiva, é assegurado ao apelante, no que lhe couber, os direitos conexos a essa, de forma que a reexibição não autorizada da produção audiovisual tem o condão jurídico de, em tese, causar mácula à personalidade (art. 81 da Lei 9.610/98), verbis:
+"Art. 81. A autorização do autor e do intérprete de obra literária, artística ou científica para produção audiovisual implica, salvo disposição em contrário, consentimento para sua utilização econômica.
+§ 2º Em cada cópia da obra audiovisual, mencionará o produtor: VII - o nome dos dubladores.
+Veja-se, a propósito, o entendimento do Superior Tribunal de Justiça, verbis:
+( )
+Na hipótese em testilha, verifica-se que malgrado as reexibições tenham sido comprovadas através dos encartes da programação da emissora acostados aos autos (fls. 45/95), não há prova de que as retransmissões não estariam autorizadas.
+Com efeito, o apelante não trouxe o contrato de cessão de direitos, de forma a comprovar que teria autorizado a reprodução do programa infantil, com sua dublagem, por uma única temporada.
+Tal providência, à luz do art. 81 da Lei 9.610/98 se fazia imperiosa, notadamente porque o texto legal permite que o contrato contenha disposição em contrário.
+Também não há nos autos prova segura de que as reexibições tenham ocorrido sem a devida indicação dos créditos de autoria.
+Nesses termos, o autor deixou de comprovar os fatos constitutivos de seu direito, dever processual que lhe incumbia (art. 373, I do CPC/15).
+Embora a utilização da imagem deve se dar pelo tempo e modo consentidos, a própria legislação especifica que a autorização do autor e do intérprete de obra para produção audiovisual implica no consentimento de sua utilização econômica.
+Dado que, na peculiaridade da espécie, o apelante não comprovou que tenha havido efetivo descumprimento contratual, o que levaria à própria reparação civil, a aplicação da lei especial é medida impositiva.
+Na presente hipótese, a Corte a quo concluiu que o autor não logrou êxito em comprovar, ainda que minimamente, os fatos constitutivos do seu direito, ponderando que o insurgente deveria ter colacionado aos autos o contrato de cessão de direito que autorizou a reprodução da obra por apenas uma única temporada. Salientou, ainda, que não ficou evidenciada no processo a alegação de que as reexibições ocorreram sem a indicação do nome do autor nos créditos do programa reproduzido. Por fim, extrai-se do aresto recorrido que o agravante não provou o aventado descumprimento contratual a amparar o pleito indenizatório.
+Verifica-se que reverter a conclusão do colegiado estadual, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Também não é caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria imprescindível o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
