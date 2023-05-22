@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FUNDAÇÃO CARLOS MARCELLO CAETANO contra a decisão da minha lavra, às e-STJ fls. 330/333, em que conheci do agravo para não conhecer do recurso especial, em vista da aplicação das Súmulas 7 e 83 do STJ.
+A parte agravante defende, em síntese, a regularidade do seu apelo nobre, não demandando a pretensão recursal a necessidade do reexame de matéria fática, aduzindo, ainda, não ser aplicável a Súmula 83 desta Corte.
+Por fim, postula a aplicação da Lei n. 14.230/2021.
+Impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. ALCANCE. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso, a Corte de origem, ao reconhecer que o ressarcimento ao erário foi objeto da condenação imposta no bojo do feito principal, louvou-se nas premissas mencionadas no acórdão recorrido, de modo a inviabilizar o acolhimento da pretensão recursal pela aplicação do enunciado referido.
+3. De acordo com o entendimento do STF, firmado quando do julgamento do Tema 1.199, de aplicação obrigatória, o novo regime prescricional instituído pela Lei n. 14.230/2021 é irretroativo; a revogação da modalidade culposa do ato de improbidade administrativa não tem incidência em relação aos processos com trânsito em julgado.
+4. Agravo interno desprovido.
+VOTO
+A decisão merece ser mantida.
+Inicialmente, cumpre consignar que o recurso especial origina-se de impugnação oposta pela FUNDAÇÃO CARLOS MARCELLO CAETANO em sede de liquidação de sentença instaurada no bojo de ação civil pública de improbidade administrativa, em que a ora recorrente sustenta a sua ilegitimidade para ressarcir o erário, uma vez que essa condenação não lhe alcançou.
+A Corte a quo, ao negar provimento ao agravo de instrumento da ora agravante, consignou o seguinte (e-STJ fls. 87/90):
+Antes do mais, é de se registrar a inadequação da via eleita, por estar o feito em fase de liquidação de sentença por arbitramento, resolvido o mérito, no entanto, por versar matéria de ordem pública.
+Respeitado o esforço recursal, não me convenço do desacerto da r. decisão recorrida, pois basta lanço na inicial para constatar ter o agravado pleiteado expressamente a declaração de ilegalidade e nulidade do contrato administrativo firmado e de que tais atos administrativos constituem atos de improbidade a termo dos artigos 9º, 10º, inciso VIII e 11º, inciso III, da Lei nº 8.429/92, bem como a condenação dos requeridos MARCOS JOSÉ DA SILVA, JORGE LUIZ DE LUCCA E FUNDAÇÃO CARLOS MARCELLO CAETANO solidariamente ao ressarcimento ao erário municipal dos valores indevidamente pagos com a contratação irregular, pleiteando, ainda, quanto àqueles, suspensão dos direitos políticos de cinco a oito anos, pagamento de multa civil de até duas vezes o valor do dano, proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo de três anos (artigo 12, inciso III, da Lei nº 8.429/92) (págs. 04/32).
+Colhe-se da fundamentação da r. sentença: (..)
+Observo, no entanto, haver erro material no dispositivo da r. sentença, pois, como visto, houve reconhecimento da prática de atos improbidade por todos os requeridos, de que resulta, por evidente, aplicação de sanção a eles, adstrita ao ressarcimento ao erário, de forma solidária.
+Reedito que a agravante e os demais requeridos apelaram, recurso desprovido por acórdão sob minha relatoria, mantido o decreto de procedência da ação, invertido apenas em relação ao correquerido Jorge Luiz.
+Restou expressamente assentado no v. acórdão:
+Melhor sorte, porém, não têm os corréus Marcos e Fundação, pois entendo ser caso de procedência da ação em relação a eles, porque, como se verá, e como estampado às escâncaras na r. sentença, deu-se mesmo situação caracterizadora da improbidade denunciada.
+(..)
+Relevante observar, ainda, tratar-se mesmo de conduta dolosa, com deliberada intenção e vontade de chegar aos resultados a que chegaram e isso, sabe-se, é dolo direto, prática de quem quer e pretende os resultados alcançados, vale dizer, contratação direta em hipótese na qual exigível licitação. Impossível, pois, refugir à conclusão sobre ato ímprobo, motivo por que resta apenas análise quanto à sanção imposta aos apelantes.
+Afasta-se aqui, de novo, não ocorrência de dolo ou má-fé, pois caracterizada está a improbidade, circunstâncias consideradas, isso sim, para a dosimetria da sanção.
+Concluo, portanto, ter havido inequívoca afronta aos princípios a que referi, ante a evidência da prática, pelos corréus Fundação e Marcos, de ato indevido e ilegal, e é de se concluir que ocorreu, efetivamente, improbidade administrativa.
+Assim deve ser entendido porque a Lei nº 8.492/92 não se fixou apenas em questão patrimonial, decorrente de dano material por atos desonestos. Visa proteger, e punir, também a lesividade à moral administrativa, que se dá quando violado, v. g., os princípios da legalidade, moralidade, impessoalidade, além dos previstos na Lei nº 8.666/93, como aconteceu neste caso(destaquei).
+É dizer, já em repetição, ter havido reconhecimento da prática de atos de improbidade administrativa, por violação aos princípios da Administração Pública, a culminar em condenação da agravante e de Marcos José, solidariamente, à sanção de ressarcimento ao erário, pelo que não há se falar em ilegitimidade para a execução, com nota de que a agravante pretende, em verdade, rediscutir o mérito da lide, observado, ainda, sem nenhum alcance, por evidente, a alegada "prova emprestada" dos autos de ação civil pública nº 1005219-74.2017.8.26.0650 (pág. 11).
+Assim, observo que o acórdão recorrido decidiu conforme a jurisprudência do STJ, no sentido de que "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1.696.395/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 18/12/2020).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE TÍTULO DE CRÉDITO. COISA JULGADA. EXTINÇÃO. RECURSO DESPROVIDO.
+1. Extingue-se o processo, sem resolução de mérito, quando o juiz acolher a alegação de coisa julgada.
+2. A melhor interpretação do título executivo judicial se extrai da fundamentação que dá sentido e alcance ao dispositivo do julgado, observados os limites da lide, em conformidade com o pedido formulado no processo. Não viola a coisa julgada a interpretação razoável e possível de ser extraída do título judicial. Precedentes.
+3. No caso, a Corte de origem expressamente consignou que o pleito de revisão dos contratos anteriores já fora analisado e rechaçado nos embargos à execução anteriormente propostos, cuja sentença já transitou em julgado, não cabendo nova propositura de ação ordinária com vistas a discutir o mesmo tema.
+4. A modificação do entendimento lançado no v. acórdão recorrido, quanto à igualdade dos pedidos ora apresentados e dos já deduzidos nos embargos à execução, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1604633/MS, Relator Ministro RAUL ARAÚJO, Órgão Julgador T4 - QUARTA TURMA, DJe 01/07/2020)
+Aplicável, portanto, a Súmula 83 do STJ, que também incide nos recursos interpostos apenas pela alínea "a" do permissivo constitucional: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre frisar que a revisão das premissas mencionadas no acórdão a quo é tarefa que demandaria incursão no arcabouço fático-probatório dos autos, o que, como se sabe, é vedado pela Súmula 7 do STJ. Nesse sentido: AgInt no AREsp 1.220.398/SP, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 07/12/2020, e AREsp 1.568.508/MS, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 02/12/2019.
+Com relação à aplicação da Lei n. 14.230/2021, que alterou a Lei de Improbidade Administrativa, verifico que o Supremo Tribunal Federal, por ocasião do julgamento do Tema 1.199, submetido ao regime de repercussão geral, assentou as seguintes teses:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente; e
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei. (Grifos acrescidos).
+Nesse passo, evidencia-se que a pretensão recursal esbarra no entendimento da Suprema Corte firmado em sede de precedente de aplicação obrigatória.
+A nte o exposto, NEGO PROVIMENTO ao agravo.
+É como voto.
