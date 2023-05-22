@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Tiago Goncalves Prestes contra a decisão, da minha lavra, na qual deneguei a ordem no writ impetrado em seu favor, assim ementada (fl. 3.445):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. FUNDAMENTAÇÃO. SUPORTE PROBATÓRIO MÍNIMO DE AUTORIA E MATERIALIDADE. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada. Prejudicados os pedidos de reconsideração de fls. 3.430/3.432 e 3.442/3.444.
+Alega o agravante, em síntese, que o reconhecimento do relato indireto "ouvi dizer" ("Hearsay Testimoy"), enfrentado expressamente pelo TJ-RS no acórdão, restou, forçosamente, ora convalidado, não obstante posição pacífica diversa erigida pelo Tribunal da Cidadania (fl. 3.451).
+Sustenta que não se trata de avaliar a prova, substituindo o juiz natural dos crimes contra a vida, mas simplesmente de aferir se ajusta causa ainda se encontra presente para ser apreciada pelos juízes de fato, o que, dada à devida vênia, não fora proporcionado pelo órgão acusatório em sede de sumário da culpa (fl. 3.454).
+Postula, então, que o ora Agravante seja reconsiderada a r. decisão singular que denegou a ordem do "habeas corpus", a fim de despronunciar o Paciente e, via de consequência, seja revogado o decreto preventivo vigente (fl. 3.462).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. FUNDAMENTAÇÃO. SUPORTE PROBATÓRIO MÍNIMO DE AUTORIA E MATERIALIDADE. EXISTÊNCIA. PEDIDO QUE IMPORTA, ADEMAIS, REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática que denega a ordem monocraticamente, pois o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+2. Extrai-se dos autos que a decisão de pronúncia trouxe fundamentação adequada, sopesada com os elementos informativos dos autos, inclusive por meio de prova pericial , razão pela qual não há constrangimento ilegal a ser superado por esta Corte Superior
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão hostilizada não comporta reparos.
+Reitere-se que a impetração busca o reconhecimento da insuficiência de fundamentação da decisão de pronúncia, ao argumento de que fundada exclusivamente nos elementos informativos da fase policial, mostrando-se incabível o habeas corpus, substitutivo do recurso próprio, assim como levantar, perante o Superior Tribunal de Justiça, questões afetas à ação de conhecimento, em especial quando evidenciado que o pleito demanda reexame de provas, inviável na via estreita do writ.
+Entende o Superior Tribunal de Justiça que o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 701.589/SP, Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 12/11/2021) (AgRg no HC 663714/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2022).
+Por fim, como evidenciado na decisão recorrida, extrai-se dos autos que a decisão de pronúncia trouxe fundamentação adequada ao destacar que, não obstante as testemunhas presentes ao evento não tenham logrado identificar os agentes do delito, cumpre ressaltar que os contornos fáticos por elas relatados, assim como os elementos colhidos da prova pericial, vão ao encontro da narrativa incriminatória de Samantha Campelo da Rosa, de modo, portanto, a reforçá-la (fl. 3.409 - grifo nosso), razão pela qual não há constrangimento ilegal a ser superado por esta Corte Superior .
+Em face do exposto, nego provimento ao agravo regimental.
