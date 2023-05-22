@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno interposto por Sônia Aparecida dos Santos contra decisão proferida pela Presidência do STJ, que não conheceu do agravo em recurso especial, em virtude de sua intempestividade (fls. 526/527).
+Inconformada, a parte agravante afirma que os embargos de declaração, conforme previsão contida no art. 1.026 do CPC, interrompem, em todas as hipóteses, o prazo de recurso.
+O INSS não apresentou impugnação (fl. 559).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OPOSIÇÃO CONTRA DECISÃO DENEGATÓRIA DE RESP NA ORIGEM. ERRO GROSSEIRO. PRAZO PARA A INTERPOSIÇÃO DO RECURSO PRÓPRIO. NÃO INTERRUPÇÃO. INTEMPESTIVIDADE DO AGRAVO. PRECEDENTES DO STJ.
+1. Esta Corte Superior consagra entendimento segundo o qual "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no artigo 1.042 do CPC - único recurso cabível -, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, impedindo-o de interpor o agravo" (AgInt nos EAREsp n. 1.653.277/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022).
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Do compulsar dos autos, nota-se que a parte recorrente foi intimada da decisão agravada em 7/12/2021, sendo o agravo somente interposto em 19/5/2022. Assim, o recurso é intempestivo, porquanto manejado fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 994, VIII, 1.003, § 5º, 1.042 e 219 do CPC.
+Com efeito, esta Corte Superior consagra entendimento segundo o qual "os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no artigo 1.042 do CPC - único recurso cabível -, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, impedindo-o de interpor o agravo" (AgInt nos EAREsp n. 1.653.277/RJ, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022).
+Nessa linha:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO. INADMISSIBILIDADE CONTRA DECISÃO DENEGATÓRIA DE RESP NA ORIGEM. ERRO GROSSEIRO. PRAZO PARA A INTERPOSIÇÃO DO RECURSO PRÓPRIO. NÃO INTERRUPÇÃO. INTEMPESTIVIDADE DO AGRAVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994. (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+2. É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que "o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial previsto no artigo 1.042 do Código de Processo Civil, sendo que a oposição de embargos de declaração dessa decisão é considerado erro grosseiro, o que impossibilita a aplicação do princípio da fungibilidade recursal, bem como não tem o condão de interromper o prazo para a interposição do recurso cabível" (AgRg no AREsp 1526234/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 3/12/2019, DJe 16/12/2019).
+3. Na espécie, depreende-se dos autos que, do decisum de admissibilidade provisório, do qual a defesa foi intimada em 5/11/2021, foram erroneamente opostos embargos de declaração, ulteriormente não conhecidos pela Corte local.
+4. Nesse contexto, em atenção ao prazo contínuo e peremptório de 15 (quinze) dias previsto no art. 994, inciso VIII, c/c os arts. 1.003, § 5º, e 1.042, caput do CPC, e no art. 798, do CPP, intempestivo o agravo em recurso especial interposto pela parte somente em 17/12/2021, haja vista que, para esta Corte Superior, conforme acima demonstrado, a oposição de embargos de declaração contra decisão de inadmissibilidade do recurso especial proferida pela Corte local configura erro grosseiro e inescusável - sem a interrupção do prazo recursal, portanto -, em homenagem aos postulados da taxatividade e da unirrecorribilidade recursal.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.069.616/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - JUÍZO NEGATIVO DE ADMISSIBILIDADE DO RECURSO ESPECIAL - OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, DIANTE DE SUA INTEMPESTIVIDADE. IRRESIGNAÇÃO DA AUTORA.
+1. De acordo com a jurisprudência reiterado do STJ, o único recurso cabível contra a decisão que nega seguimento a recurso especial é o agravo, admitindo-se a oposição de embargos de declaração, excepcionalmente, apenas em casos de decisões genéricas, o que não é o caso dos autos.
+2. Assim, a oposição de embargos de declaração descabidos contra o juízo negativo de admissibilidade do recurso especial não interrompe o prazo para a interposição do recurso próprio, qual seja aquele previsto no artigo 544 do CPC/73 (vigente à época da prolação da decisão de inadmissibilidade).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 850.272/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INADMISSÃO.EMBARGOS DE DECLARAÇÃO. RECURSO INCABÍVEL. PRAZO RECURSAL. AUSÊNCIA DE INTERRUPÇÃO. AGRAVO INTEMPESTIVO. PRECEDENTES.
+1. É pacífico o entendimento desta Corte Superior de que a interposição de recurso manifestamente incabível, como nas hipóteses de pedido de reconsideração ou embargos de declaração opostos à decisão de admissibilidade do recurso especial, não interrompe ou suspende o prazo para a interposição do recurso próprio.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 929.737/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/2/2017, DJe de 16/2/2017)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
