@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por DISTRIBUIDORA CENTRAL EMBALAGENS LTDA contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da: (a) impossibilidade de análise de dispositivo constitucional em sede de recurso especial; (b) incidência da Súmula 7/STJ quanto à alegação de insuficiência probatória.
+Nas razões do agravo interno, a parte recorrente aduz que "não há de se afastar a pretensão recursal ao argumento de revolvimento fático-probatório, vez que a matéria debatida no recurso especial é exclusivamente de direito, com necessidade de simples análise de caracterização de violação aos dispositivos de lei federal ali indicados (arts. 10 e 369 do Código de Processo Civil) em cotejo com a sentença e acórdão contidos nos autos" (fl. 338).
+Afirma que "as violações acima relatadas se deram, pois, na primeira instância, o magistrado entendeu pela possibilidade de julgamento antecipado da lide, contudo, ainda havia fato controvertido que deveria ter sido sanado através da dilação probatória, qual seja, o fato de que a inscrição promovida pelo Cartório de Protesto junto ao nome do agravado ocorreu antes da anotação objurgada nos autos" (fl. 338).
+Ao final, pleiteia a reconsideração da decisão agravada, ou, caso contrário, a submissão do feito à apreciação do órgão colegiado, para que seja provido o recurso especial.
+Devidamente intimada, a agravada não apresentou impugnação do agravo interno (certidão de fl. 346).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSERÇÃO INDEVIDA DE NOME NOS ÓRGÃOS DE PROTEÇÃO DE CRÉDITO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. PROVA INÚTIL OU PROTELATÓRIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem, após o exame acurado dos autos, julgou antecipadamente a lide consignando que a prova documental constante dos autos seria suficiente para a demonstração do ato ilícito de inscrição indevida em cadastro de inadimplentes, sendo despicienda, portanto, a produção de prova testemunhal. A modificação do entendimento lançado no v. acórdão recorrido, conforme pretendida, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial.
+2. De acordo com a jurisprudência assente nesta Corte Superior, não se configura cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova inútil ou protelatória, e julga antecipadamente a lide. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Passa-se à análise apenas das matérias levantadas em sede de agravo interno, estando prejudicadas, portanto, as demais.
+Não assiste razão à parte agravante.
+Lado outro, quanto à alegação de cerceamento do direito de defesa ante o julgamento antecipado da lide, o eg. Tribunal de origem consigna que, por se tratar o caso dos autos de questão eminentemente de direito, é dispensável a produção de prova testemunhal, como se verifica no trecho a seguir (fls. 227/228):
+Inicialmente cumpre enfrentar a preliminar arguida pelo recorrente, sob o argumento de que teve o seu direito de defesa cerceado, à medida que o juiz singular indeferiu o seu pedido de produção de prova oral (depoimento pessoal e testemunhal) e julgou antecipadamente o feito.
+Razão não lhe assiste.
+(..)
+Assim, é cabível o julgamento antecipado da lide quando a questão for unicamente de direito ou de direito e de fato, não houver necessidade de prova, cabendo ao juiz verificar quais as provas serão úteis à instrução processual.
+Não se pode olvidar que o juiz é o destinatário das provas, sendo que cabe a ele indeferir aquelas que considere inúteis ou meramente protelatórias, nos termos do art. 370 do Código de Processo Civil. Se as provas constantes dos autos são suficiente para formar o convencimento do juiz a respeito da questão, torna-se desnecessária a produção de outras provas.
+Na hipótese dos autos, não restou configurado o cerceamento de defesa, tendo em vista que a prova documental trazida aos autos é suficiente à formação do convencimento do magistrado.
+Com efeito, o acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça, a qual interpreta que, "sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa" (AgInt no AREsp 1.619.012/MA, Relator Ministro Raul Araújo, Quarta Turma, julgado em 15/6/2020, DJe de 1º/7/2020).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO DA LIDE NÃO AVISADO PREVIAMENTE ÀS PARTES. SUFICIÊNCIA DE PROVAS DOCUMENTAIS RECONHECIDA NA ORIGEM. CONTROVÉRSIA UNICAMENTE DE DIREITO. PROVA TESTEMUNHAL. DESNECESSIDADE. CERCEAMENTO DE DEFESA NÃO OCORRÊNCIA. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL OPERADA. DEVOLUÇÃO INTEGRAL DAS ARRAS, COM JUROS E CORREÇÃO MONETÁRIA A PARTIR DO DESEMBOLSO. QUESTÃO SOLUCIONADA À LUZ DO CONTRATO E DAS PROVAS CONSTANTES DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ.
+1. Independentemente de aviso prévio às partes, o julgamento antecipado da lide poderá ocorrer quando a questão de mérito for unicamente de direito ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência, tal como a prova testemunhal, haja vista a suficiência de provas documentais aptas à exata comprovação do direito discutido em juízo.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento." (AgInt no REsp n. 1.799.285/PR, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 19/11/2019, DJe de 9/12/2019, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO DE CONTRATO. RESTITUIÇÃO DE VALORES. INDEFERIMENTO DE PROVA ORAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ARRAS. DEVOLUÇÃO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 330, I, do CPC/1973 é facultado ao juízo proferir sentença, desde que não haja necessidade de produzir provas em audiência. Por sua vez, o art. 131 do CPC/1973, que trata do princípio da livre persuasão racional, estabelece que cabe ao magistrado avaliar as provas requeridas e rejeitar aquelas que protelariam o andamento do processo, em desrespeito ao princípio da celeridade processual.
+2. No caso, depreende-se que o Colegiado Estadual julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de Recurso Especial, ante o óbice do enunciado da Súmula 7 deste Tribunal. Sendo o magistrado o destinatário da prova, compete a ele o exame acerca da necessidade ou não da produção do aporte requerido.
+3. Em relação à necessidade ou não de devolução do valor pago a título de arras, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo, mais uma vez, o óbice da Súmula n. 7 do STJ.
+4. Agravo interno a que se nega provimento." (AgInt no AREsp 1096303/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/08/2017, DJe 29/08/2017, g.n.)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, no que tange à suficiência das provas apresentadas e que ensejaram o julgamento antecipado da lide, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
