@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Sua Majestade Transporte Logística e Armazenagem EIRELI contra decisão monocrática desta relatoria que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ, fl.1.123):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante afirma que o Tribunal estadual incorreu em omissão, pois não enfrentou as alegações de cerceamento de defesa e de indevida aplicação das cláusulas 3.8 e 4.7 do contrato entre as partes.
+Pugna pelo provimento do recurso, em juízo de retratação ou, que seja conhecido e provido o recurso para reconhecer a omissão do Tribunal de origem e determinar que seja sanada (e-STJ, fls. 1.128-1.136).
+A agravada apresentou impugnação às fls.1.139-1.155, requerendo a aplicação das multas por manifesta inadmissibilidade do agravo interno (art. 1.021, §4º, CPC), litigância de má-fé (arts. 80,I, II e IV, e 81, CPC) e a elevação dos honorários sucumbenciais ao percentual máximo previsto nos §§1º e 2º, do art. 85, do CPC (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DO ART. 1.022, II, CPC/2015. OMISSÃO NÃO VERIFICADA. LITIGÂNCIA DE MÁ-FÉ. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O mero não conhecimento ou improcedência de agravo interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1814712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 22/09/2021), o que não ocorreu no caso em análise.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Preliminarmente, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No caso, cumpre reiterar que o acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo apenas de forma contrária à pretensão da parte recorrente.
+Ao analisar a situação jurídica dos autos, o Tribunal estadual consignou os seguintes fundamentos (e-STJ, fls. 1.031-1.033):
+Primeiramente, rechaça-se a preliminar de cerceamento de defesa, desnecessária dilação probatória, tendo sido colacionados subsídios suficientes para análise do mérito.
+Destaca-se, por oportuno, que o juiz, destinatário da prova, deve indeferir sua produção e as diligências impertinentes e inúteis, ou meramente protelatórias, posto que a ele incumbe o poder-dever de velar pela rápida solução do litígio, não havendo que se falarem violação do contraditório e da ampla defesa.
+A esse respeito:
+" ..  A finalidade da prova é o convencimento do juiz, sendo este o seu direto e principal destinatário. Por isso que, sempre que constatar que o acervo documental é suficiente para nortear e instruir seu entendimento, assiste-lhe o poder-dever de julgar a lide antecipadamente, sendo forçoso concluir que o seu livre convencimento é a bússola norteadora da necessidade ou não de produção de quaisquer provas que entender pertinentes ao julgamento da lide (art. 330, I, do CPC). Precedentes  .. "(STJ, 4ª Turma, REsp. nº 1.093.819/TO, Rel. Min. Luis Felipe Salomão).
+Ao contrário do aventado na peça recursal, o pedido de produção das provas restou enfrentado pelo douto juízo sentenciante, que entendeu ser "dispensável perquirir eventual culpa da demanda pelo evento danoso, já que está ausente qualquer exceção contratual para tal hipótese, razão pela qual indeferidas as provas pretendidas pela parte autora" (fls. 939).
+ ..
+E observada a integralidade do "Contrato de Serviços de Transporte de Carga" celebrado entre as partes (fls. 183/192), verifica-se que as cláusulas 3.8 e 4.7 não tiveram interpretação elástica ou foram retiradas do contexto quando fixaram a responsabilidade da contratada (autora/reconvinda) "por todos os encargos trabalhistas, previdenciários e acidentários" e por "qualquer reclamação trabalhista e/ou qualquer ação judicial, fiscal, que venham a ser propostos por seus empregados contra a contratante  ré/reconvinte " (fls. 185), e também que, em casos de acidente, a Braskem prestaria os atendimentos de primeiro socorros emergenciais, cabendo à Sua Majestade Transportes, Logística e Armazenagem Ltda. "total e integral responsabilidade pelo encaminhamento das providências, como também das consequências e custos de tais acidentes ou problemas de saúde" (fls. 187).
+Logo, a condenação na Justiça do Trabalho, ainda que solidária, não autoriza regresso da contratada contra a contratante em decorrência do que dispõe as cláusulas 3.8 e 4.7 citadas.
+Quando do julgamento dos embargos de declaração interpostos, a Corte local assim se manifestou (e-STJ, fl. 1.062):
+"Nenhum cerceamento existiu, mero inconformismo, além do que, pelo caderno processual probatório, a responsabilidade contratual dizia respeito exclusivamente à parte embargante, conforme o contrato de serviços de transporte de carga.
+Destarte, pretende a embargante arrastar indevidamente os efeitos da decisão trabalhista para o aspecto contratual da obrigação por ela descumprida."
+Assim sendo, conforme consignado na decisão agravada, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal estadual examinou, de forma fundamentada, as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que contrariamente à pretensão da recorrente.
+Essa é a conclusão que se extrai dos trechos do acórdão recorrido acima transcritos e, igualmente, se constata a insistência da defesa da agravante em ver prevalecer seu entendimento acerca das questões - já afastado pela Corte local -, o que não se confunde com falta de prestação jurisdicional.
+A decisão da Corte local dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a demanda em sentido contrário ao postulado pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a todas as questões suscitadas pela parte, mas tão só a declinar as razões de seu convencimento motivado, como ocorreu nos autos, notadamente quando já encontrou fundamento suficiente para proferir a decisão.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso, o que não ocorre no presente caso.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp 1728999/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Por fim, acerca da pretensão da parte agravada de ver aplicada à parte agravante a pena por litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1814712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 22/09/2021), o que não ocorreu no caso em análise.
+Ante o exposto, nego provimento ao agravo interno.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
