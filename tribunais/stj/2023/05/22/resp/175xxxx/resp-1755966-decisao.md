@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Ribeirão das Neves, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 38):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL - PROVIMENTO Nº 301/2015- BOA ADMINISTRAÇÃO DO JUÍZO - PRERROGATIVAS DA FAZENDA PÚBLICA - RETENÇÃO DOS AUTOS - PROIBIÇÃO DE VISTA FORA DE CARTÓRIO - AUSÊNCIA DE RESPALDO LEGAL - PENALIDADES CABÍVEIS
+1.O arquivamento do feito, previsto no Provimento nº 301/2015, que tem como finalidade organizar e evitar a acumulação de processos paralisados em secretaria, não causa qualquer prejuízo à parte exequente tampouco afronta o art. 40 da LEF.
+2. Não tem respaldo legal a penalidade aplicada de proibição de retirada dos autos, sem a comprovação de que houve a intimação pessoal do advogado, seja ele público ou privado, para a devolução dos autos no prazo de 3 (três) dias, segundo a inteligência do § 2º do art. 234 do CPC/15.
+A parte recorrente aponta violação aos arts. 921, III, § 2º, do CPC; e 40 da Lei 6.830/80. Sustenta, em resumo, que "o provimento invocado pela decisão recorrida na verdade legisla de forma contrária ao que determinam os citados artigos da LEF e do CPC" (fl. 52). Defende que "o arquivamento imediato dos autos, sem que seja respeitado o prazo mínimo de um ano (tanto do artigo 921 do CPC quanto do artigo 40 da LEF), configura afronta clara à legislação supramencionada" (fl. 52).
+Sem contrarrazões (fl. 55).
+Remetido o feito ao Órgão Fracionário para os fins do art. 1.040 do CPC, proferiu-se novo julgamento assim sumariado (fl. 187):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ACÓRDÃO QUE NÃO DIVERGE DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - RESP N.º 1.340.5531RS - AUSÊNCIA DE CORRELAÇÃO ENTRE O OBJETO DA DEMANDA E DO PRECEDENTE - MANUTENÇÃO DO JULGADO - JUÍZO NEGATIVO DE RETRATAÇÃO.
+- O Superior Tribunal de Justiça definiu, no âmbito do REsp nº 1 .340.553/RS, julgado sob o regime dos recursos repetitivos, as teses relativas à configuração da prescrição intercorrente na execução fiscal, sendo certo que o prazo de um ano para suspensão do processo deve ter inicio a partir da ciência inequivoca da não localização do devedor e/ou da inexistência de bens a penhorar, independentemente de haver decisão formal do Juiz acerca dessa suspensão.
+- Objeto do recurso apreciado não diz respeito àquele tratado no referido Recurso Especial, qual seja, a apuração da prescrição intercorrente, mas sim à possibilidade de arquivamento provisório dos autos, com baixa, após a não localização do Executado, ora Agravado, ou de seus bens, com base no Provimento n.º 30112015, da Corregedoria de Justiça do Estado de Minas Gerais e considerando-se o art. 40, da Lei de Execução Fiscal, bem como a legalidade da citação da Fazenda Pública por Cartório.
+- Inexistindo divergência entre os termos do Acórdão recorrido e a jurisprudência do Superior Tribunal de Justiça, nos termos do que dispõe o art. 1.030, inciso II, do Código de Processo Civil vigente, não deve ser exercido o juízo de retratação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Impõe-se registrar, à saída, que a questão discutida no Tema 566/STJ, a saber, "a sistemática para a contagem da prescrição intercorrente (prescrição após a propositura da ação) prevista no art. 40 e parágrafos da Lei da Execução Fiscal (Lei n. 6.830/80): qual o pedido de suspensão por parte da Fazenda Pública que inaugura o prazo de 1 (um) ano previsto no art. 40, § 2º, da LEF", de fato, não possui perfeita adequação com a hipótese dos autos, nos quais se questiona se a regra inserta em provimento de corregedoria de justiça ofende ou não a legislação federal (arts. 921, III, § 2º, do CPC; e 40 da Lei 6.830/80).
+No caso, o Tribunal a quo manteve decisão de Juiz Singular que, em execução fiscal, "Considerando a ausência de localização da parte, Executada, determino u  o arquivamento dos autos, com baixa, nos termos do Provimento nº 301/2015 da E. Corregedoria de Justiça do Estado de Minas Gerais" (fl. 14).
+Colhem-se os seguintes excertos do acórdão recorrido (fls. 40/41):
+ ..  o Provimento nº 301/2015, utilizado como fundamento da decisão agravada, dispõe o seguinte:
+Art. 1º Ficam reativados, no Sistema de Informatização dos Serviços das Comarcas - SISCOM, os motivos de baixa - códigos 102 (aguarda localizáção do devedor) 032 (aguarda bens à penhora) e 026 (inventário/arrolamento paralisado), de modo a possibilitar o arquivamento, com a consequente baixa do processo no Sistema.
+Art. 2º Após despacho do juiz de direito determinando o arquivamento do feito por um dos motivos mencionados no art. 1º deste Provimento, caberá ao escrivão judicial, ou quem suas vezes fizer, registrar no banco de dados do SISCOM o código correto pelo qual os autos serão arquivados e, em seguida, providenciar a baixa no Sistema.
+§ 1º Depois de ultimadas as providências constantes no caput deste artigo, os autos serão movimentados no SISCOM com a informação: "REMETIDOS AUTOS
+PARA ARQUIVO" e encaminhados ao setor próprio.
+§ 2º Serão expedidas "certidões positivas" para os processos arquivados por um dos motivos mencionados no caput deste artigo, mediante requerimento de qualquer interessado.
+Art. 3º Cessado o motivo que enseiou o arquivamento, a parte interessada poderá requerer a retomada da ação, independentemente de novo recolhimento de custas, inclusive das despesas de desarquivamento.
+Art. 4º Eventuais dúvidas quanto à aplicabilidade deste Provimento serão dirimidas pela Gerência de Orientação dos Serviços Judiciais Informatizados - GESCOM, pelo e-mail institucional qescomatimq.ius.br.
+Art. 5º Este Provimento entra em vigor na data de sua publicação.
+Fica claro que motivo que ensejou a edição do Provimento nº 301/2015 foi o de promover a boa administração do juízo e apurar com precisão o acervo processual de cada uma das varas, sem que isso constitua afronta ao previsto no art. 40 da LEF, eis que poderá a requerente, independentemente de recolhimento de custas, requerer o desarquivamento para que o processo siga seu regular curso.
+Como se vê, a Corte de origem solucionou a contenda ancorando-se na interpretação do Provimento 301/2015 da CGJ.
+Nas razões de recurso especial, a despeito de apontar os arts. 921 do CPC e 40 da Lei 6.830/80 como malferidos, a parte recorrente defende que "o provimento invocado pela decisão recorrida na verdade legisla de forma contrária ao que determinam os citados artigos da LEF e do CPC" (fl. 52).
+Nesse panorama, ressai nítido que o apelo raro, nos moldes em que apresentado, não ultrapassa a barreira de admissibilidade recursal. Isso porque a eventual violação da lei federal, no caso, é reflexa, uma vez que, para o deslinde da controvérsia, seria imprescindível a interpretação do referido Provimento 301/2015 da CGJ, providência vedada no âmbito do recurso especial, uma vez que tais regramentos não se subsomem ao conceito de lei federal.
+Nessa linha de raciocínio:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESOLUÇÃO. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. Se a controvérsia foi dirimida com fundamento nos critérios estabelecidos em resolução de Tribunal Regional Federal, na qual se ampara toda a linha argumentativa, não obstante a apontada violação de dispositivos do Código de Processo Penal, reverter o entendimento do acórdão recorrido implicaria reexaminar o conteúdo de ato normativo que não se enquadra no conceito de tratado ou lei federal (art. 105, III, a, CF).
+ ..
+3. Agravo regimental improvido.
+(AgRg no REsp 1.228.404/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2015, DJe 2/2/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLURALIDADE DE ADVOGADOS. INTIMAÇÃO EM NOME DE APENAS UM DELES. NULIDADE. INOCORRÊNCIA. AUSÊNCIA DE PEDIDO PRÉVIO EXPRESSO. VIOLAÇÃO DE DISPOSITIVO DE REGIMENTO INTERNO DE TRIBUNAL. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. ANÁLISE INCABÍVEL.
+1. É válida a publicação feita em nome de qualquer dos advogados representantes da parte, mesmo que substabelecidos, desde que não haja pedido expresso de intimação exclusiva em nome de determinado patrono.
+2. O manejo do recurso especial reclama violação de texto infraconstitucional federal, sendo certo que regimento interno de Tribunal não se enquadra no conceito de lei federal a ensejar a interposição do especial, com base na alínea "a" do permissivo constitucional.
+3. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 330.763/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/10/2013, DJe 30/10/2013)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. RESOLUÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ATO NORMATIVO SECUNDÁRIO. IMPOSSIBILIDADE DE IMPUGNAÇÃO PELA VIA DO RECURSO ESPECIAL.
+ ..
+3. No tocante à suscitada ofensa à resolução do Tribunal Superior Eleitoral, a jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de não ser incabível o recurso especial para análise de violação de atos normativos secundários.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.215.687/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/9/2013, DJe 26/9/2013)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
