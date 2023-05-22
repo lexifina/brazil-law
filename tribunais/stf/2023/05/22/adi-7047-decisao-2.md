@@ -1,0 +1,21 @@
+DECISÃO (referente às Petições STF 119.944/2021, 8.711/2022, 15.195/2022, 15.280/2022, 15.478/2022, 16.754/2022 e 39.179/2022): Trata-se de pedidos formulados pela Confederações Nacional dos Servidores Públicos - CNSP, pelo Sindicato Nacional dos Auditores-fiscais da Receita Federal do Brasil - SINDIFISCO NACIONAL, pela Associação Nacional dos Procuradores do Trabalho - ANPT, pela Federação Nacional dos Servidores dos Ministérios Públicos Estaduais - FENAMP, pela Federação Nacional dos Policiais Rodoviários Federais - FENAPRF, pelo Sindicato Nacional dos Auditores Fiscais do Trabalho - SINAIT, pelo Sindicato Nacional do Plano Especial de Cargos da Polícia Federal - SINPECPF, pelo Sindicato Nacional dos Servidores do Ministério das Relações Exteriores - SINDITAMARATY, pelo Sindicato Nacional dos Peritos Federais Agrários - SINDPFA, pela Associação Nacional dos Oficiais de Justiça Avaliadores Federais - FENASSOJAF, pelo Sindicato dos Servidores das Justiças Federais no Estado do Rio de Janeiro - SISEJUFE/RJ, pelo Sindicato dos Trabalhadores do Poder Judiciário Federal no Estado de Minas Gerais - SITRAEMG, pelo Sindicato dos Auditores da Receita do Distrito Federal - SINDIFISCO/DF, pelo Sindicato dos Servidores do Poder Judiciário no Estado do Espírito Santo - SINDIJUDICIÁRIO/ES, pelo Sindicato dos Servidores Públicos Federais da Justiça do Trabalho da 15ª Região - SINDIQUINZE, pelo Sindicato dos Servidores do Poder Judiciário do Estado do Rio de Janeiro - SINDJUSTIÇA/RJ, pelo Sindicato dos Trabalhadores do Judiciário Federal no Estado de São Paulo - SINTRAJUD, pelo Sindicato dos Trabalhadores do Poder Judiciário Federal em Pernambuco - SINTRAJUF/PE, pelo Sindicato dos Trabalhadores em Educação da Universidade Federal do Rio de Janeiro - SINTUFRJ, pelo Sindicato dos Policiais Rodoviários Federais no Estado de Goiás - SINPRF/GO, pelo Sindicato dos Servidores do Poder Judiciário Federal em Mato Grosso do Sul - SINDJUFE/MS, pelo Sindicato dos Servidores do Poder Judiciário Federal no Estado de Goiás - SINJUFEGO, pela Associação dos Funcionários do Instituto Nacional do Câncer - AFINCA, pela Associação dos Oficiais de Justiça Avaliadores Federais em Minas Gerais - ASSOJAF/MG, pela Associação Beneficente da Justiça Eleitoral - ABJE, pela Federação Nacional dos Trabalhadores do Judiciário Federal e Ministério Público da União - FENAJUFE, pela Associação dos Funcionários do IPEA - AFIPEA, e pela Associação Nacional dos Procuradores e Advogados Públicos Federais - ANPPREV de ingresso no feito, na qualidade de amici curiae (Docs. 15, 36, 45, 49, 83, 90 e 101).
+
+    O artigo 7º, § 2º, da Lei federal 9.868/1999 autoriza a admissão da manifestação de órgãos ou entidades investidas de representatividade adequada nos processos de controle abstrato de constitucionalidade que versem sobre matérias de grande relevância.
+
+    A despeito de sua tradicional qualificação como processo objetivo, o controle abstrato de constitucionalidade não deve cingir-se apenas ao mero cotejo de diplomas normativos, mas também considerar o cenário fático sobre o qual incide a norma objurgada, ampliando o acesso à jurisdição constitucional a novos atores que, em alguma medida, sejam afetados em sua esfera jurídica.
+
+    Com efeito, o telos precípuo da intervenção do amicus curiae consiste na pluralização do debate constitucional, com vistas a municiar a Suprema Corte dos elementos informativos necessários ou mesmo trazer novos argumentos para o deslinde da controvérsia. Assim, a habilitação de entidades representativas se legitima sempre que restar efetivamente demonstrado o nexo de pertinência entre as finalidades institucionais da entidade e o objeto da ação direta.
+
+    In casu, verifica-se que há pertinência temática entre as questões de fundo debatidas nos autos (novo regime de pagamentos de precatórios, modificação de normas relativas ao Novo Regime Fiscal e parcelamento de débitos previdenciários dos Municípios) e as atribuições institucionais dos postulante (defesa de direitos de servidores públicos), com a devida representatividade.
+
+    Ex positis, ADMITO o ingresso dos postulantes no feito, na qualidade de amici curiae.
+
+    Publique-se.
+
+    Brasília, 22 de maio de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
