@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão do Presidente do STJ, proferida às fls. 1.385-1.388, que conheceu do agravo para não conhecer do recurso especial em virtude da incidência da Súmula 284 do STF e Súmula 7 do STJ.
+Em suas razões, o agravante defende que "a Súmula 284 do STF não se aplica ao caso, na medida em que todos os fundamentos do acórdão recorrido foram infirmados no Recurso Especial, e de forma específica e detalhada, e não genérica, demonstrando os recorrentes, inclusive, como ocorreu a ofensa à legislação federal e qual a importância das referidas teses para a solução da lide" (fls. 1.394).
+Assevera ainda que "os elementos fático- probatórios devidamente delineados no acórdão recorrido, mostra-se possível a revaloração jurídica de tais elementos contidos na decisão recorrida, sem que se incida o óbice da Súmula 07 do Superior Tribunal de Justiça" (fl. 1.395).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO STF. ERRO MÉDICO. CERCEAMENTO DE DEFESA PELA NÃO MANIFESTAÇÃO DO PEDIDO DE PROVA ORAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Revelam-se deficientes as razões do recurso especial quando estão dissociadas e muito aquém do necessário para se chegar à conclusão contrária ao juízo e às premissas jurídicas assentadas no acórdão recorrido, o que atrai, por consequência, a incidência da Súmula 284 do STF.
+3. No caso concreto, os argumentos utilizados no recurso especial somente poderiam ter sua procedência verificada quanto ao cerceamento de defesa pela não manifestação do acerca do pedido de prova oral mediante o necessário reexame de matéria fática, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, o TJMG acolheu a preliminar de cerceamento de defesa, tendo em vista a ausência de análise do pedido de prova oral, para cassar a sentença e determinar o retorno dos autos à instância originária a fim de que o pedido seja devidamente apreciado, nos termos da fundamentação (fls. 1.326-1.329):
+ ..
+Primeiramente, passo à análise da preliminar de cerceamento do direito de defesa, alegada pela apelante.
+Segundo a recorrente, houve cerceamento de defesa por duas razões: 1) indeferimento do pedido de esclarecimentos em relação ao laudo pericial e 2) ausência de apreciação do pedido de oitiva do preceptor, Dr. Paulo Márcio e do médico residente, Dr. Eribaldo Santana.
+O princípio da ampla defesa está positivado no Art. 5º, LV da Constituição Federal, cujo texto legal prevê que "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral, são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes".
+Com efeito, embora o texto constitucional assegure aos litigantes, em processo judicial ou administrativo, o contraditório e a ampla defesa, não se pode olvidar que cabe ao juiz, como destinatário da prova, decidir sobre a produção de provas necessárias à instrução do processo e ao seu livre convencimento, indeferindo aquelas que se apresentem desnecessárias ou meramente protelatórias, sem que isso configure cerceamento de defesa (art. 370, CPC).
+A valoração das provas é de livre apreciação pelo juiz, que pode, diante dos fatos, da experiência comum e dos ditames da Justiça, atribuir a uma ou a algumas delas maior ou menor valor probatório, desde que o faça motivadamente.
+ ..
+"No estudo dos destinatários da prova, há que se ressaltar a importância do destinatário direto da mesma, o Juízo, e os métodos existentes para que o Juiz valore as provas produzidas. São os sistemas de valoração da prova, que permitirão ao Juiz a formação de um juízo de valor sobre o objeto da prova, formando assim seu convencimento acerca do fato probando.
+ ..
+Sobre a questão o STJ já se manifestou: "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento". (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019).
+No caso em tela, quanto à primeira razão alegada para justificar a ocorrência de cerceamento de defesa, entendo que sem razão a parte apelante, pois após a realização da perícia médica judicial, a autora/apelante apresentou pedidos de esclarecimentos, alegando que o laudo era inconclusivo, o que foi negado pela perita, devidamente intimada para responder ao alegado.
+Em sede de sentença, foi indeferido o pedido de produção de nova prova pericial, por entender o juiz que a matéria já estava suficientemente esclarecida.
+Com efeito, apesar de apenas o tê-lo feito na sentença, o pedido de nova prova pericial foi analisado e justificado, mesmo que sucintamente, em cumprimento ao parágrafo único do art. 370 do CPC, in verbis:
+ ..
+Além disso, como prevê o art. 1.009, § 1º do CPC, a parte teve a possibilidade de insurgir contra tal decisão em sede de apelação, como o fez, pelo que não foi impedido seu direito à irresignação recursal quanto ao indeferimento da prova.
+Portanto, por essa razão, não se configura o cerceamento de defesa.
+No entanto, o mesmo não se pode dizer sobre a segunda razão apontada.
+Com efeito, à ordem 10, verifica-se que foi proferido despacho determinando a especificação de provas pelas partes, tendo a parte autora, ora apelante, requerido o depoimento pessoal do Preceptor, Dr. Paulo Márcio e do médico residente, Dr. Eribaldo Santana; perícia médica na menor, nos ultra-sons (DVD"s) bem como no prontuário médico, a fim de comprovar a existência de erro médico.
+O juiz, em despacho, deferiu a prova pericial e informou que analisaria as demais provas posteriormente, entretanto, logo após a produção do laudo pericial foi prolatada a sentença, que não se manifestou sobre o pedido de prova oral, tempestivamente requerida.
+Portanto, não houve análise do pedido de prova oral, consistente no depoimento dos médicos que participaram do procedimento do parto, no qual a autora alega ter havido erro médico.
+Nos termos do art. 370, parágrafo único e da fundamentação acima citada, não se nega que o juiz é o destinatário da prova e pode indeferir aquelas que julgar desnecessárias aos deslinde do caso, entretanto, deve sempre assim o fazer de forma motivada, sob pena de cerceamento de defesa.
+ ..
+Na sentença, o pedido foi julgado improcedente porque não se "vislumbrou nexo de causalidade e dano excepcional que pudesse ensejar a condenação dos réus ao pagamento de indenização, de forma que se determinasse a procedência dos pedidos, contribuiria para o enriquecimento sem causa".
+Assim, a meu juízo, claro foi o prejuízo à defesa da parte autora, principalmente tendo em vista a complexidade do caso em análise.
+O agravante, por sua vez, alega violação ao artigo 370 do CPC, limitando-se a sustentar o seguinte (fls. 1.343-1.344):
+ ..  O STJ já se manifestou: "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente ". demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019).
+Em que pese a parte recorrida ter requerido o depoimento pessoal do Preceptor, Dr. Paulo Márcio e do médico residente, Dr. Eribaldo Santana; perícia médica na menor, nos ultra-sons (DVD"s) bem como no prontuário médico, a fim de comprovar a existência de erro médico, fato é que o Juiz entendeu desnecessária a prova pretendida.
+Faz-se totalmente infrutífero "determinar o retorno dos autos à instância originária a fim de que o pedido seja devidamente apreciado" na medida em que o Juiz sentenciante, ciente do requerimento da produção de prova pela parte recorrida, entendeu ser ela não necessária vez que proferiu sentença já que " devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do . convencimento" Em outras palavras, a determinação de que o Juiz aprecie o pedido daquelas provas configura flagrante contrariedade aos princípios da livre admissibilidade da prova e da persuasão racional, em evidente afronta ao do artigo 370, caput, do CPC.
+Do que se observa, as razões apresentadas no apelo nobre são deficientes, estando dissociadas e muito aquém do necessário para se chegar à conclusão contrária ao juízo e às premissas jurídicas assentadas no acórdão recorrido, o que atrai, por consequência, a incidência da Súmula 284 do STF. Nesse sentido: AgInt no AgInt nos EDcl no REsp 1.735.539/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 12/8/2021; AgInt no AREsp 1775664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021; EDcl no AgInt no REsp 1.702.816/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2019; AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019.
+Ademais, concluiu a Corte de origem, no voto condutor do acórdão, que "logo após a produção do laudo pericial foi prolatada a sentença, não havendo a devida manifestação sobre o pedido de prova oral, tempestivamente requerida, o que pode gerar cerceamento de defesa, uma vez que restou claro o prejuízo à defesa da parte autora, principalmente, tendo em vista a complexidade do caso em análise".
+Nesse contexto, os argumentos utilizados no recurso especial somente poderiam ter sua procedência verificada quanto ao prejuízo à defesa e do cerceamento de defesa pela não manifestação do acerca do pedido de prova oral, mediante o necessário reexame de matéria fática, o que é vedado pela Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. SÚMULAS 7 E 83/STJ. INCIDÊNCIA.
+ ..
+3. O acolhimento da pretensão recursal quanto ao alegado cerceamento de defesa, com a possível ofensa ao artigo 369 do CPC/2015, e a aferição acerca da necessidade de produção de prova demandam o reexame do conjunto fático-probatório dos autos, o que é inadmissível na via especial, ante o óbice da Súmula 7/STJ (REsp 1.725.215/SC, Rel. Min. Herman Benjamin, Segunda Turma DJe 22.11.2018).
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.906.348/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DOS VENCIMENTOS EM URV. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. 1. Inarredável a incidência da Súmula 7/STJ ao caso, porquanto a alteração das conclusões adotadas pela Corte de origem, acerca da ausência de comprovação dos prejuízos salariais e a inexistência de cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, o que impede, também, o conhecimento pelo dissídio jurisprudencial.
+2. Agravo Interno a que se nega provimento.
+(AgInt no AREsp n. 1.162.142/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 6/12/2017.)
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA AMBIENTAL. RECURSO ESPECIAL DA PESSOA FÍSICA. OFENSA AO ART. 535 DO CPC/73 NÃO DEMONSTRADA. IRREGULAR QUEIMA DA PALHA DA CANA-DE-AÇÚCAR. DANO AMBIENTAL IMPUTADO À PESSOA JURÍDICA E À PESSOA FÍSICA. AUSÊNCIA DE LEGITIMIDADE PASSIVA AD CAUSAM DA PESSOA FÍSICA QUE ORA SE RECONHECE. EXTINÇÃO DO PROCESSO EM RELAÇÃO A ELA.
+ ..
+4. A alteração das conclusões que levaram a Corte de origem a rejeitar o alegado cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor da Súmula 7/STJ.
+ ..
+8. Recurso especial da empresa não conhecido.
+(REsp n. 1.677.268/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/6/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
