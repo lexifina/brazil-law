@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.373-1.388) interposto por ITAMAR EVANDRO DE ARAÚJO, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.340):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recurso especial não foi admitido na origem ante a incidência das Súmulas n. 283/STF, 284/STF, 7/STJ e 83/STJ. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento relativo à aplicação da Súmula n. 83/STJ. Incide a Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+Os embargos de declaração opostos pela defesa foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, LV, e 93, IX, da CF.
+Nesse sentido, argumenta (fl. 1.381):
+Em que pese os argumentos expostos no r. decisum, a defesa entende que impugnou especificamente todos os fundamentos da decisão recorrida, inclusive no que houve a violação ao art. 381e art.564, inciso IV, ambos do Código de Processo Penal, e art. 93, inciso IX, da Constituição Federal.
+Conclui (fl. 1.387):
+Destarte, demonstrado que a sentença e o acórdão encontram-se eivados de vícios insanáveis, não podendo as teses de defesa serem discutidas em grau recursal, sob pena de supressão de instância, a declaração de sua nulidade para que outro julgamento seja proferido com a análise integral das teses defensivas, forte noart.564, IV, do CPP, é medida que se impõe.
+Portanto, Excelências, estando impugnado no agravo de instrumento, um tópico específico sobre a questão no tangente enfrentamento de teses, necessidade, nulidade absoluta, mencionada nor. acórdão proferido no recurso especial, a defesa entende que esta foi devidamente impugnada, não sendo aplicado no caso telado a incidência da Súmula 83/STJ.
+Não há, portanto, motivo algum para que o agravo em Recurso Especial não seja conhecido, impondo-se a reconsideração da decisão monocrática, ou a reforma do acórdão impugnado.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.396-1.399.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais foi improvido o agravo regimental da defesa, valendo destacar os seguintes trechos do voto condutor do julgado (fls. 1.343-1.346):
+A Corte de origem não admitiu o apelo nobre calcada nas seguintes razões de decidir (fls. 1236-1257; sem grifos no original):
+"2. Fundamentação deficiente
+O Recorrente não indicou os dispositivos legais que teriam sido violados pelo acórdão relativamente à alegação de que a condenação não pode ser fundamentada exclusivamente em prova extrajudicial, o que atrai o enunciado nº 284 da Súmula do Supremo Tribunal Federal aplicável ao recurso especial interposto com base na alínea a do art. 105, inciso III, da Constituição da República, a cujo teor "É inadmissível o recurso extraordinário, quando a deficiência da fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+3. Fundamento não impugnado
+As razões do recurso não atacam todos os fundamentos do acórdão recorrido. O Órgão julgador rejeitou a preliminar de nulidade por cerceamento de defesa, já que (I) o defensor dativo ofereceu defesa preliminar sem indicar testemunhas, (l1) em nenhum momento indicou a necessidade de oitiva de testemunhas e (III) resta preclusa a oportunidade para apresentar rol de testemunhas estando sentenciado o feito e em sede recursal. Por oportuno, transcreve-se o seguinte excerto (fl. 532-verso):
+ ..
+O Recorrente, contudo, limita-se a alegar que há nulidade por cerceamento de defesa, pois (I) "em momento algum foi oportunizado os meios necessários para o defensor dativo ter contato com o recorrente" (fl. 567) e (II) "não pode apresentar os meios de prova necessários a sua defesa técnica" (fl. 569). Assim, é caso de aplicação do enunciado nº 283 da Súmula do Supremo Tribunal Federal, segundo o qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ ..
+4. Oitiva de testemunha
+Segundo a jurisprudência do Superior Tribunal de Justiça, "embora o réu tenha direito a participar da produção da prova oral, a sua ausência é causa de nulidade relativa, cujo reconhecimento depende da arguição oportuna, bem como da demonstração do efetivo prejuízo por ele suportado" (AgRg nos EDcl no HC 501.184/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019).
+A esse respeito, citam-se os seguintes julgados:
+ ..
+Ademais, o Superior Tribunal de Justiça já decidiu que "a condenação, por si só, não pode ser considerada como prejuízo, pois, para tanto, caberia ao recorrente demonstrar que a nulidade apontada, acaso não tivessem ocorrido, ensejaria sua absolvição ou a desclassificação da conduta" (HC 379876/SC, Rel. Min, Reynaldo Soares da Fonseca, Quinta Turma, Dje 01/02/2017).
+A Câmara julgadora rejeitou a preliminar de nulidade da instrução, pelos seguintes fundamentos (fls. 532-verso/533-verso):
+ ..
+Incide, portanto, o verbete nº 83 da Súmula do Superior Tribunal de Justiça, segundo o qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", também aplicável ao recurso interposto pela alínea a do artigo 105, inciso III, da Constituição da República, conforme se lê do seguinte julgado:
+ ..
+5. Enfrentamento de teses
+Consoante a jurisprudência do Superior Tribunal de justiça,
+"Não há falar em violação dos arts. 381, III, e 619 do Código de Processo Penal na hipótese em que a Corte de origem, em cognição exauriente, indica os motivos de fato e de direito em que se baseou para a solução do controvérsia."
+Assentou, também, que
+"os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão, nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão" (AgRg no AREsp 435.852/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/04/2015, DJe 06/05/2015)
+ ..
+Daí que, "Para cumprir a determinação constitucional de fundamentação das decisões judiciais, é desnecessário que o Magistrado transcreva ou responda a toda sorte de alegações suscitadas no transcorrer do processo penal, bastando que examine as circunstâncias fáticas e jurídicas relevantes, podendo, na fundamentação, apresentar tese contrastante com aquela defendida pelas partes, valer-se da doutrina e da jurisprudência, além, por óbvio, das provas produzidas, desde que fique claro, pela sua exposição, as razões que embasararn o seu convencimento" (HC 105107/RJ, Rel. Min, Napoleão Nunes Mala Filho, Quinta Turma, j. 14/05/2009, Dje 22/06/2009).
+O Órgão julgador decidiu que não há violação ao artigo 381 do Código de Processo Penal, pois a sentença do MM. Juiz a quo está fundamentada e contém os motivos pelos quais condenou o Recorrente, conforme se lê do seguinte excerto (fl. 533-verso): ..
+É certo que a parte pode discordar da decisão por não ter acolhido a matéria de defesa. Tal, contudo, não significa que houve falta de fundamentação.
+Igualmente, não procede a alegação de que cumpria ao Órgão Julgador indicar outros elementos que não os citados.
+Efetivamente, consoante a jurisprudência do Superior Tribunal de Justiça, "No processo penal, vigora o principio do livre convencimento motivado, em razão do qual pode o julgador livremente absolver ou condenar, desde que sua decisão seja suficientemente motivada e apoiada sobre as provas produzidas sob o contraditório judicial, conforme verificado nos autos" (MC 337.809/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/11/2015, EM 03/12/2015).
+A esse propósito, cita-se, ainda, o seguinte precedente:
+ ..
+Incide, portanto, o verbete nº 83 da Súmula do Superior Tribunal de Justiça, segundo o qual "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", também aplicável ao recurso interposto pela alínea a do artigo 105, inciso III, da Constituição da República.
+6. Pedido de absolvição
+A apreciação da inexistência de provas suficientes para a condenação exige o reexame do contexto fático-probatório, o que esbarra no verbete nº 7 da Súmula do Superior Tribunal de Justiça, a cujo teor "A pretensão de simples reexame de prova não enseja recurso especial".
+A Câmara Julgadora procedeu ao exame das provas, concluindo que as provas colhidas na instrução são suficientes para a condenação do Recorrente pelo delito de tráfico ilícito de entorpecentes, conforme se lê do seguinte excerto (fls. 301-verso/303):
+ ..
+Ante o exposto, NÃO ADMITO o recurso especial."
+Como se vê, o recurso especial não foi admitido na origem ante a incidência das Súmulas n. 283/STF, 284/STF, 7/STJ e 83/STJ. Entretanto, o Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o fundamento relativo à aplicação da Súmula n. 83/STJ.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ademais, a Defesa não demonstrou o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+A propósito: "Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte" (AgInt no AREsp 1.076.690/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 04/09/2018).
+De outra banda, esta Corte Superior de Justiça possui entendimento no sentido de que o comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional. Nesse sentido: "Encontrando-se o acórdão proferido no recurso de apelação em consonância com jurisprudência firmada nesta Corte, a pretensão do agravante esbarra no óbice previsto no Enunciado nº 83 da Súmula deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional" (AgRg no REsp 1.482.745/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 28/05/2018).
+Por fim, ressalto que a Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018).
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, no pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque não houve contestação específica aos fundamentos da decisão que, na origem, inadmitiu o recurso especial, incidindo o óbice da Súmula n. 182/STJ.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Incide a tese fixada no Tema n. 181/STF, conquanto se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
