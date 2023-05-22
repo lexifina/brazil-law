@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S.A. para desafiar decisão proferida às e-STJ fls. 1.212/1.214, e integrada pelo julgado às e-STJ fls. 1.232/1.234, sem efeitos infringentes, em que não foi conhecido o agravo em recurso especial, visto que não impugnados especificamente os fundamentos da decisão agravada.
+Destaca a parte agravante que, tendo em vista recente posicionamento desta Casa de Justiça - no sentido da possibilidade de impugnação de capítulo autônomo de decisão monocrática proferida por Ministro deste Tribunal Superior sem que isso configure hipótese de incidência da sua Súmula 182 -, sua insurgência diz respeito ao entendimento (contido no decisum ora agravado) de ocorrência de inovação recursal, visto que competência é matéria de ordem pública e pode ser suscitada em qualquer grau de jurisdição, inclusive sem a necessidade de prequestionamento.
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal sem impugnação (e-STJ fls. 1.247 e 1.248).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar
+especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre, notadamente a incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz d e alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão de inadmissibilidade do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+No caso, o decisum ora recorrido não conheceu do agravo em recurso especial, visto que a parte agravante não se insurgiu contra todos os fundamentos do juízo de prelibação negativo realizado pelo Tribunal de origem, abstendo-se de atacar, no momento oportuno, a afirmação de que "o acórdão recorrido não tratou da matéria atinente à legitimidade da CEF (Tema 1011/STF)" (e-STJ fl. 1.192) e a incidência das Súmulas 282 e 284 do STF.
+O princípio da dialeticidade impõe à parte recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, o que não ocorreu.
+Conforme destacado na decisão integrativa, "a parte agravante deixou de impugnar específica e adequadamente os referidos fundamentos, apresentando, nas razões do agravo em recurso especial, alegações dissociadas do que foi decido, referentes à demonstração de dissídio jurisprudencial e nulidade da citação" (e-STJ fls. 1.195/1.199)" (e-STJ fl. 1.233).
+Além disso, as alegações relacionadas ao Tema 1.011/STF, de que o Vice-Presidente da Corte de origem teria usurpado a competência da Turma julgadora, bem como a de que a legitimidade é matéria de ordem pública, podendo ser apreciada de ofício em qualquer grau de jurisdição, não foram suscitadas nas razões do agravo em recurso especial, mas apenas nos aclaratórios, configurando verdadeira inovação recursal, ante a preclusão consumativa (e-STJ fl. 1.233).
+Com efeito, a orientação firmada no EREsp 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 17/11/2021, restringe-se ao agravo interno no recurso especial e ao agravo interno no agravo em recurso especial, tendo em vista a possibilidade de, em tese, a decisão singular do relator que analisa o apelo nobre ser decomposta em capítulos, vale dizer, unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso.
+Entretanto, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial" (AgRg no AREsp 1.949.904/GO, relator Ministro Olindo Menezes (desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 07/06/2022, DJe de 10/06/2022), o que não ocorreu na hipótese.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O APELO NOBRE (ART. 1.042 DO CPC/2015). DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL, POR INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO PACIFICADO NO ÂMBITO DA CORTE ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, por incidência da Súmula 182/STJ,
+pela circunstância de o agravante não ter impugnado todos os fundamentos da decisão que, no caso, inadmitiu o Recurso Especial, por aplicáveis as Súmulas 7 e 282 do STJ. O Agravo em Recurso Especial impugnou apenas o fundamento relativo à Súmula 7/STJ.
+II. Merece ser mantida, no caso, a aplicação da Súmula 182/STJ. De fato, "sobre a aludida modalidade de recurso - agravo do artigo 544 do CPC de 1973, atualmente disciplinado pelo artigo 1.042 do CPC de 2015 -, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701/404/SC, 746.774/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado 19.9.2018, DJe 30.11.2018)" (STJ, EREsp 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe de 17/11/2021).
+III. A fixação dos honorários advocatícios recursais está de acordo com os parâmetros do CPC/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 1.945.108/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 19/4/2022, DJe de 25/4/2022.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem quanto à deficiência de cotejo analítico. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente, na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+5. Analisar se houve (ou não) a prescrição, revela-se questão de mérito, que só poderia ser enfrentada caso vencida a barreira da admissibilidade.
+6. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.201.614/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO a o agravo interno.
+É como voto.
