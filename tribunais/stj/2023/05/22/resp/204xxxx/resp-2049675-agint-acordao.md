@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A contra decisão monocrática desta Relatoria, que negou provimento ao recurso especial.
+Nas razões recursais, a agravante alega, em síntese, que a notificação foi remetida adequadamente ao endereço indicado pelo devedor no ato de celebração do contrato, mas o devedor deixou de retirá-la na agência dos correios próxima à sua residência, como deve fazer quem reside em local fora do perímetro urbano.
+Aduz que a informação "não procurado" constante do recibo da aludida carta registrada não significa que o destinatário não foi procurado pelo credor, mas sim que a correspondência não foi oportunamente retirada na agência dos correios próxima ao endereço do destino.
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No contrato de alienação fiduciária, para a constituição do devedor em mora, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor. Precedentes.
+2. No caso dos autos, a Corte de origem consignou que a notificação extrajudicial acostada à exordial retornou com a informação fornecida pelos Correios de "não procurado", ou seja, nem mesmo chegou a ser encaminhada ao endereço fornecido pela devedora no contrato e, portanto, não foi recebida no local de destino, razão pela qual se impõe a extinção da ação, nos termos da jurisprudência desta Corte Superior.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): A irresignação não merece prosperar.
+Conforme constou na decisão agravada, a Corte local consignou que a tentativa de notificação extrajudicial foi frustrada, tendo em vista que o AR foi devolvido pelo motivo "não procurado", não estando comprovada a mora. É o que se extrai do seguinte trecho do acórdão recorrido:
+"No caso, verifico que a parte requerida não foi constituída em mora, tendo em vista que, da análise das peças que acompanham a petição inicial, é possível verificar que o envio da primeira notificação extrajudicial (evento 1, not. 7) se deu mediante carta com aviso de recebimento, que, por sua vez, não foi recebida no endereço, em face da informação "não procurado" Assento, no ponto, que em que pesa existam decisões esparsas de alguns Tribunais de Justiça que reconheçam a validade de notificação remetida para o endereço declinado no contrato, ainda que a mesma retorne com a informação "ausente" ou "não procurado", não se tratam de precedentes de observância obrigatória (art. 927, do CPC), nem mesmo de jurisprudência propriamente dita, porque são, repito, decisões isoladas." (e-STJ, fls. 98/99)
+De fato, é entendimento desta Corte Superior que, "para a constituição em mora na ação de busca e apreensão é imprescindível a comprovação de encaminhamento de notificação extrajudicial ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente pelo devedor" (AgRg no AREsp 467.074/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2014, DJe de 4/9/2014). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO. DEVOLUÇÃO COM A INFORMAÇÃO "NÃO PROCURADO". MORA NÃO COMPROVADA. EXTINÇÃO DA AÇÃO DE BUSCA E APREENSÃO. SÚMULA N. 83 DO STJ. PROTESTO POR EDITAL. MEIOS PARA LOCALIZAÇÃO DO DEVEDOR. NECESSIDADE DE ESGOTAMENTO. AUSÊNCIA. SÚMULA N. 7 DO STJ. SÚMULA N. 282 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Para os contratos garantidos por alienação fiduciária, a mora se configura automaticamente quando vencido o prazo para o pagamento - mora ex re -, mas, considerando o teor da Súmula n. 72 do STJ, é imprescindível a comprovação da mora para o prosseguimento da ação de busca e apreensão.
+2. Nas hipóteses de alienação fiduciária, a mora deve ser comprovada por meio de notificação extrajudicial expedida por cartório de títulos e documentos ou por carta registrada com aviso de recebimento e entregue no domicílio do devedor, sendo dispensada a notificação pessoal.
+3. No caso em que a notificação extrajudicial retorna com a informação "não procurado", é correta a extinção da ação de busca e apreensão em razão da ausência de comprovação da mora, tendo em vista que a notificação expedida não foi sequer encaminhada ao endereço do devedor.
+4. É possível a comprovação da mora na ação de busca e apreensão por intermédio do protesto do título por edital, desde que esgotados todos os meios de localização do devedor.
+5. Alterar a conclusão do acórdão do tribunal a quo acerca do esgotamento dos meios de localização do devedor para validar o protesto do título por edital demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.007.339/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No contrato de alienação fiduciária, para a constituição do devedor em mora, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor.
+Precedentes.
+2. No caso dos autos, a Corte de origem consignou que a notificação extrajudicial acostada à exordial retornou com a informação fornecida pelos Correios de "não procurado", ou seja, nem mesmo chegou a ser encaminhada ao endereço fornecido pela devedora no contrato e, portanto, não foi recebida no local de destino, razão pela qual impõe-se a extinção da ação, nos termos da jurisprudência desta Corte Superior.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.138.714/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NÃO EFETIVAÇÃO DA NOTIFICAÇÃO EXTRAJUDICIAL DO DEVEDOR.1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "A prova do recebimento da notificação pelo devedor não é necessária para a constituição em mora, bastando que seja enviada ao endereço declinado no contrato" (AgInt no AREsp 1125547/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/03/2019, DJe 28/03/2019).
+2. É admissível que a comprovação da mora do devedor seja efetuada pelo protesto do título por edital, quando, esgotados os meios de localizar o devedor, seja inviável a notificação pessoal. (AgInt no AREsp 1644890/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020).
+3. No caso, não se considera efetivada a notificação extrajudicial do devedor, uma vez que as notificações não foram efetivamente enviadas ao endereço do devedor constante do contrato, constando do AR a informação "não procurado".
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.988.649/PA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
