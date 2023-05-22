@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo ESTADO DO PIAUÍ contra decisão proferida pela Presidência desta Corte Superior, constante às e-STJ fls. 476/482, que conheceu do agravo para, entendendo incidente a Súmula 284 do STF e ausente o prequestionamento da tese recursal, não conhecer do recurso especial no qual o ente público impugna o deferimento da penhora oferecida pela parte agravada.
+Nas suas razões (e-STJ fls. 486/499), o ente público agravante sustenta que, diversamente do assentado: (i) as razões suscitadas no apelo raro, pelas quais defende o direito de a Fazenda Pública recusar a oferta de penhora que não atenda a ordem de preferência legal (no caso, faturamento e alugueis), não estão dissociadas da fundamentação empregada no acórdão recorrido; (ii) o apontado art. 11 da LEF tem comando normativo para amparar a referida tese recursal; (iii) esse dispositivo legal foi devidamente prequestionado, pois "é o tema principal do agravo de instrumento originário"; (iv) "o tema da prescrição do fundo de direito previsto no artigo 1º do Decreto 20.910/32 foi longamente debatido pelo Tribunal de Justiça piauiense".
+Sem impugnação pela parte agravada, conforme certificado à e-STJ fl. 505.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. 1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Na hipótese, a decisão ora agravada não conheceu do recurso especial com os seguintes fundamentos:
+(i) incidência de Súmula 284 do STF, pois a primeira tese defendida pelo agravante, de que a Fazenda Pública tem o direito de recursar a oferta de bens à penhora fora de ordem de preferência legal, está dissociada da fundamentação utilizada no acórdão recorrido para justificar a garantia do juízo ofertada pelo devedor, calcada nas seguintes peculiaridades: (a) não se cuida de pedido de substituição de bens já penhorados, mas de complementação da garantia do juízo referente às diversas execuções fiscais em face de mesmo devedor; (b) a penhora de alugueis constitui penhora de dinheiro; (c) a situação excepcional do devedor justifica a penhora sobre o faturamento;
+(ii) incidência da Súmula 284 do STF, pois o apontado art. 11 da LEF não tem comando normativo para amparar a segunda tese defendida pelo agravante, de que a penhora deferida seria inócua diante da má-fé do devedor que reiteradamente estraria descumprindo com as condições referente ao depósito do valor referente ao percentual do faturamento;
+(iii) essa segunda tese não foi efetivamente examinada no acórdão recorrido, carecendo o recurso especial, no ponto, do requisito do prequestionamento.
+Esse fundamentos, todavia, não foram especificamente impugnados pela parte agravante.
+No tocante ao primeiro fundamento, o agravante não indica quais os trechos do apelo raro que teriam especificamente impugnado as identificadas particularidades consideradas no julgado a quo para deferir a complementação da garantia oferecida pelo devedor.
+Quanto ao segundo e ao terceiro fundamentos, a agravante não explica de que forma o art. 11 da LEF ampararia a segunda tese por ele sustentada, concernente à alegada conduta maliciosa da parte devedora, nem tampouco demonstra qual trecho do acórdão recorrido teria efetivamente enfrentado essa argumentação, para fins de atendimento do requisito do prequestionamento.
+Acresço, por oportuno, que menção do agravante acerca da prescrição do fundo de direito de que trata o art. 1º do Decreto n. 20.910/1932 é, a toda evidência, estranha à matéria decidida no acórdão recorrido, o que também releva a deficiência da irresignação deduzida nesse agravo interno.
+Oportuno destacar que o princípio da dialeticidade impõe à parte recorrente o ônus de explicitar os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente a mera exposição da tese recursal, como ocorreu no caso.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Por fim, o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise, razão pela qual deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
