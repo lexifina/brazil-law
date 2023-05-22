@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ED CARLOS DA SILVA ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 1501554-47.2021.8.26.0619).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, como incurso nos artigos 330 e 331, na forma do artigo 69, todos do Código Penal, à pena de 09 (nove) meses e 01 (um) dia de detenção, em regime inicial semiaberto, e 12 (doze) dias-multa, no piso legal (e-STJ fl. 8).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido, para redimensionar a reprimenda, pelo afastamento da nota de maus antecedentes, para 07 (sete) meses e 23 (vinte e três) dias de detenção, e 11 (onze) dias-multa, no mínimo legal; (e-STJ fl. 15).
+No presente mandamus (e-STJ fls. 3/6), o impetrante sustenta que o paciente sofre constrangimento ilegal, pois o Tribunal a quo manteve sentença que aplicou o regime inicial prisional semiaberto e não substituiu a pena privativa de liberdade por restritivas de direitos, embora ele preencha os requisitos legais para tanto.
+Alega que quando o paciente for encaminhado à colônia agrícola, não poderá receber o tratamento médico suficiente e adequado, que garanta seu direito previsto em cláusula pétrea no artigo 6oda Magna Carta, direito este social; fundamental, o qual teve origem na segunda dimensão de direitos fundamentais. Podendo até, piorar seu quadro de saúde (e-STJ fls. 4/5).
+Sustente que não deve prosperar fundamentação de que a substituição da pena privativa de liberdade por restritiva de direitos não seria suficiente á retribuição do malfeito (e-STJ fl. 5).
+Ao final, no pedido liminar e no mérito, requer seja concedida a ordem para substituir a pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, o impetrante não instruiu o writ com cópia integral da sentença condenatória, documento imprescindível para o exame da suscitada ilegalidade.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
