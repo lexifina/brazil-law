@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. PESSOA JURÍDICA. IMPENHORABILIDADE. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARA LÚCIA VALVERDE BIJOUTERIAS LTDA. (MARA LÚCIA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA EM CONTA CORRENTE. PESSOA JURÍDICA DE PEQUENO PORTE. IMPENHORABILIDADE. ESSENCIALIDADE DO VALOR PARA A CONTINUIDADE DE SUAS ATIVIDADES NÃO DEMONSTRADA. ALTERAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 492).
+Os embargos de declaração opostos por MARA LÚCIA foram rejeitados (e-STJ, fls. 512/515).
+Nas razões do presente inconformismo, defendeu não haver nos autos pretensão de reexame de provas ou fatos, não incidindo a Súmula n.º 7 do STJ.
+Houve impugnação ao recurso (e-STJ, fls. 573/583).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. PESSOA JURÍDICA. IMPENHORABILIDADE. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+Na hipótese, a decisão recorrida, quanto à alegada a violação dos arts. 805 e 833, II, IV e X, do NCPC, no que concerne à impenhorabilidade dos valores bloqueados nas contas da recorrente, até o limite de 40 salários mínimos, uma vez que a verba é essencial à continuidade de suas atividades que, em regra, os bens das pessoas jurídicas são penhoráveis, mas a regra prevista no art. 833, V, do CPC/2015 também lhe é aplicável caso se trate de microempresa, empresa de pequeno porte ou firma individual, quanto aos bens que se revelem indispensáveis à continuidade de sua atividade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL CONTRA PESSOA JURÍDICA. PENHORA DE DINHEIRO/ATIVOS FINANCEIROS. GARANTIA LEGAL DE IMPENHORABILIDADE. ACÓRDÃO A QUO, PELA INEXISTÊNCIA. REVISÃO. REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Este Tribunal tem reconhecido a possibilidade de os empresários individuais e as sociedades empresárias de pequeno porte serem alcançados pela proteção da impenhorabilidade, quanto aos bens necessários ao desenvolvimento da atividade objeto do contrato social. Precedentes.
+2. No caso dos autos, o TRF da 4ª Região decidiu: "tem se admitido a impenhorabilidade de valores depositados em conta de titularidade da empresa que sejam comprovadamente destinados ao pagamento de salário dos funcionários, haja vista a natureza alimentar  ..  a agravante, todavia, sequer menciona a necessidade das verbas para honrar compromissos salariais  ..  não existem elementos suficientes à pretensa liberação dos valores, à míngua de qualquer demonstração, efetiva, acompanhada de provas, de que tal bloqueio comprometeria a manutenção de suas atividades".
+3. No contexto, considerada situação fática descrita no acórdão recorrido, forçoso reconhecer que o recurso especial não pode ser conhecido, tendo em vista o órgão julgador ter decidido em conformidade com a orientação jurisprudencial deste Tribunal Superior e a necessidade de exame das provas para eventual conclusão em sentido contrário. Observância da Súmula 7 do STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.934.597/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe de 22/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PESSOA JURÍDICA. CONSTRIÇÃO DE ATIVOS FINANCEIROS. IMPENHORABILIDADE. POSSIBILIDADE. PREJUÍZOS À SUBSISTÊNCIA NÃO DEMONSTRADOS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, são aplicáveis às pessoas jurídicas as regras existentes no art. 833, IV, do CPC/2015, referentes à impenhorabilidade dos bens necessários para sua subsistência, o que não ficou demonstrado no presente caso. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.747.573/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021)
+Na hipótese, o Tribunal local consignou que não ficou comprovada a essencialidade do numerário para a continuidade das atividades da pessoa jurídica, consoante se vê dos seguintes trechos:
+Tampouco comporta acolhimento a tese de impenhorabilidade da quantia constrita, porque inferior a 40 salários mínimos e "utilizada apelas para sobrevivência dos Executados " (fl. 351).
+Incontroverso que o débito exequendo é inferior à 40 salários mínimos (R$ 26.507,82 ago/2021 fl. 341), destaca-se a ausência de prova da essencialidade do valor bloqueado para a manutenção da pessoa jurídica agravante, não se prestando a tanto os documentos copiados aqui às fls. 355/368 (e-STJ, fls. 421/422).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. São aplicáveis às pessoas jurídicas as regras existentes no art. 833, IV, do CPC/2015, referentes à impenhorabilidade dos bens necessários para sua subsistência, o que não ficou demonstrado no presente caso. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.043.915/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. NÃO INCIDÊNCIA. VALIDADE DA GARANTIA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ALEGAÇÃO DE DÍVIDA CONSTITUÍDA EXCLUSIVAMENTE EM FAVOR DE PESSOA JURÍDICA. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à impenhorabilidade do bem de família, o Superior Tribunal de Justiça já afastou tal garantia no caso em que o devedor alienou fiduciariamente o bem de família, o qual sabidamente era de residência familiar, por caracterizar comportamento contraditório. Precedente.
+2. Outrossim, em sentido semelhante, esta Corte Superior adotou o entendimento de que, "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo (..), não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1.559.348/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/06/2019, DJe 05/08/2019).
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Superior Tribunal, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. No caso, concluindo o aresto impugnado que o imóvel discutido nos autos foi oferecido como garantia em alienação fiduciária de dívida dos próprios recorrentes, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa e nova interpretação de cláusulas contratuais, o que é vedado, no âmbito do recurso especial, conforme as Súmulas n. 5 e 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.071.640/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. EXECUÇÃO FISCAL. PENHORA. VALORES DEPOSITADOS EM CONTA BANCÁRIA DE PESSOA JURÍDICA. IMPENHORABILIDADE AFASTADA PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há que falar em violação ao art. 1.022 do CPC/2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante, observando as questões relevantes e imprescindíveis à sua resolução. Vale destacar, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+2. Hipótese em que a Corte de origem entendeu não ser possível a aplicação da regra da impenhorabilidade de que trata o inciso IV do art. 833 do CPC/2015, ante a falta de demonstração cabal de que os valores bloqueados seriam destinados ao pagamento de salários, consignando: "no caso dos autos, a parte recorrente sustenta a imprescindibilidade dos valores bloqueados de suas contas em face de despesas com a folha de funcionários, no entanto, não demonstra que tais valores seriam imediatamente transferidos às contas dos colaboradores. Ora, não basta para que se reconheça a impenhorabilidade dos valores bloqueados, que quantia semelhante seja destinada a folha dos funcionários da empresa. A impenhorabilidade de que trata a lei é exclusivamente dos salários, o que não pode ser estendido aos valores depositados em conta da pessoa jurídica, já que em conjunto com as demais receitas que circulam nas contas bancárias, compõem o faturamento da sociedade.
+Vale destacar que a impenhorabilidade de que trata o inciso IV do artigo 833 do CPC é destinada às pessoas físicas, e somente numa excepcionalidade cabalmente demonstrada se pode estender às pessoas jurídicas, o que não restou demonstrado nestes autos" (fl. 58).
+3. Tendo a Turma julgadora decidido com base na análise dos elementos de prova constantes dos autos, é evidente que concluir diversamente, visando reconhecer a impenhorabilidade dos valores bloqueados, demandaria o reexame do contexto fático-probatório, o que é inviável em recurso especial, nos termos do enunciado da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.898.008/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 12/9/2022, DJe de 14/9/2022)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
