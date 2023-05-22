@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 693/699) interposto contra decisão desta relatoria que negou provimento ao agravo em recurso especial.
+A agravante reitera ser ônus da seguradora informar aos consumidores as restrições da apólice, sendo devida a cobertura postulada, pois "não fora adequada e suficientemente informada acerca da extensão e das limitações das coberturas proporcionadas pelo contrato" (e-STJ fl. 694).
+Afirma ainda que não seriam aplicáveis as Súmulas n. 5 e 7 do STJ e que teria havido deficiência na fundamentação do acórdão do TJSC.
+Ao final, pleiteia a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação, requerendo a majoração dos honorários em sede de agravo interno (e-STJ fls. 703/742).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA E INVALIDEZ EM GRUPO. DEVER DE INFORMAÇÃO. ÔNUS DA ESTIPULANTE. JURISPRUDÊNCIA DA SEGUNDA SEÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 489 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou nova interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. O Tribunal de origem entendeu que a parte autora não fazia jus à indenização securitária no valor pretendido, pois a invalidez da parte segurada foi apenas parcial, tendo sido informadas à consumidora as cláusulas restritivas da apólice.
+4. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, bem como nova análise das cláusulas pactuadas, o que é vedado em recurso especial.
+5. Acrescente-se que, ao apreciar o Tema n. 1.112, a Segunda Seção também definiu, sob o rito dos recursos repetitivos, que: "Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados a respeito das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (REsp n. 1.874.811/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 2/3/2023, DJe 10/3/2023).
+6. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Preliminarmente, deve-se registrar que o tema repetitivo que justificou o sobrestamento do presente feito (Tema n. 1.112) foi julgado pela Segunda Seção em 2/3/2023, com publicação do acórdão em 10/3/2023 (DJe), inexistindo óbice ao processamento deste agravo interno.
+Nesses termos, a insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 688/690):
+Trata-se de recurso especial interposto por MARGARETE APARECIDA DA SILVA, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pela Quinta Câmara de Direito Civil do TJSC assim ementado (e-STJ fl. 264):
+CIVIL - SEGURO DE VIDA EM GRUPO - COBERTURA DE INVALIDEZ PERMANENTE TOTAL E PARCIAL POR ACIDENTE - VALOR DA INDENIZAÇÃO - APLICAÇÃO DE TABELA REDUTIVA DO CAPITAL SEGURADO - CABIMENTO 1. Mesmo considerando ser obrigação da seguradora e da estipulante informar ao segurado sobre as particularidades do contrato de seguro, é aplicável a redução variável do capital segurado quando a cláusula limitativa encontra-se expressa na própria apólice - "Invalidez Total ou Parcial" -, com remissão expressa à tabela constante nas "Condições Gerais do Contrato".
+2. Nos seguros em grupo firmados pelas empresas empregadoras por força de acordo coletivo prévio, o segurado, ao ser incluído na apólice, o que ocorre no momento no qual foi firmado o vínculo trabalhista, tem plena capacidade e possibilidades de verificar os termos da apólice a qual aderiu, haja vista a natureza desta.
+Quanto ao dever de informação acerca das cláusulas contratuais em seguros dessa natureza, convém destacar que a apólice principal contratada pela estipulante é clara ao indicar as limitações da indenização, bem como a aplicação das Condições Gerais de Seguro para o pagamento das reparações.
+MEDIDA DA INVALIDEZ - DEBILIDADE PARCIAL - PERÍCIA MÉDICA - GRADAÇÃO DA INDENIZAÇÃO SECURITÁRIA - POSSIBILIDADE - COMPLEMENTAÇÃO - DESCABIMENTO DA PRETENSÃO.
+1 A Corte da Cidadania já decidiu que na "2. Ação de cobrança que visa o pagamento de indenização securitária decorrente da cobertura de Invalidez Permanente Total ou Parcial por Acidente (IPA). 3. A cobertura de Invalidez Permanente Total ou Parcial por Acidente (IPA) garante o pagamento de uma indenização relativa ã perda, à redução ou ã impotência funcional definitiva, total ou parcial, de um membro ou órgão por lesão física, causada por acidente pessoal coberto. 4. Quando a invalidez for parcial, o valor indenizatório deverá ser proporcional à diminuição da capacidade física sofrida pelo segurado com o sinistro, devendo ocorrer o enquadramento da situação em tabela prevista nas condições gerais e/ou especiais do seguro, a qual segue critérios objetivos (arts. 11 e 12 da Circular SUSEP nº- 302/2005).
+Desse modo, para cada grau de inutilização definitiva da estrutura física do indivíduo, haverá um percentual adequado do capital segurado máximo, uma fração, apto a indenizá-lo. Incidência dos princípios da proporcionalidade e da razoabiiidade.  ..  6. As normas consumeristas visam equilibrar a relação contratual e não desequilibrá-la de forma arbitrária ou desmedida apenas para favorecer a qualquer custo a figura do consumidor" (REsp 1727718/MS, Min. Ricardo Villas Bôas Cueva).
+2. Demonstrado em perícia médica que a invalidez é parcial, deve o valor da indenização securitária corresponder ao percentual da incapacidade apurado pelo expert, calculado sobre o capital segurado pactuado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 596/600).
+Nas razões recursais (e-STJ fls. 611/630), a parte recorrente sustenta, em síntese, além de divergência jurisprudencial, existência de afronta aos arts. 6º, III, e 46 do CDC, argumentando que seria devida a cobertura postulada, pois teria havido descumprimento do direito de informação do consumidor quanto aos limites da apólice.
+Aponta ainda ofensa ao art. 489 do CPC/2015, sob fundamento de omissão do acórdão recorrido.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 489 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+O Tribunal de origem entendeu que a invalidez da parte recorrente foi meramente parcial, sendo que a apólice apresenta cláusula informada aos segurados, a qual prevê a indenização em percentual ao grau de incapacidade (e-STJ fls. 567/571).
+Para alterar a conclusão do Tribunal de origem, seria necessário o reexame dos fatos e das provas dos autos, a fim de verificar, no caso, a falta de comunicação aos consumidores sobre os limites da apólice, o que é inviável em recurso especial, ante o óbice das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Dessa forma, ausente ofensa ao art. 489 do CPC/2015.
+O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou nova interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+O Tribunal de origem entendeu que a parte autora não fazia jus à indenização securitária no valor pretendido, pois sua invalidez foi apenas parcial, tendo sido informada à consumidora as cláusulas restritivas da apólice.
+Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, bem como nova análise dos termos pactuados, o que é vedado em recurso especial.
+Acrescente-se que, ao apreciar o Tema n. 1.112, a Segunda Seção também definiu, sob o rito dos recursos repetitivos, que: "Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados a respeito das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (REsp n. 1.874.811/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, julgado em 2/3/2023, DJe 10/3/2023).
+Em tais circunstâncias, as razões deduzidas pela recorrente não se mostram suficientes para ensejar a reforma da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Indefiro o pedido da parte ora agravada, de majoração dos honorários em sede de agravo interno, por não ter havido alteração do grau recursal.
+É como voto.
