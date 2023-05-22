@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANTONIO FAUSTINO DA SILVA contra a decisão de e-STJ fls. 970/973, por meio da qual deneguei a ordem.
+Na hipótese, a defesa impetrou habeas corpus apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2262952-31.2022.8.26.0000).
+Foi o paciente condenado à pena de 15 anos de reclusão, em regime inicial fechado, pela prática do crime tipificado no art. 121, § 2º, inciso III, do Código Penal (homicídio qualificado); e à pena de 7 meses e 15 dias de detenção, em regime inicial semiaberto, pela prática do crime tipificado no art. 282 do CP (exercício ilegal da medicina).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado (e-STJ fl. 9):
+HABEAS CORPUS. Desistência do recurso pela Defesa técnica. Manifestação da nova Defesa após o decurso de mais um ano, alegando que o réu não concordou com a desistência. Transito em julgado mantido. Ordem denegada.
+No Superior Tribunal de Justiça, ponderou a defesa "que o paciente estava presente em seu julgamento, virtual, e foi intimado da sentença condenatória, tanto que, no momento manifestou a vontade de recorrer (fls. 887 autos originais), contudo, posteriormente houve a renúncia pela defesa técnica sem qualquer documento assinado ou a intimação do paciente por cautela a confirmar a desistência do recurso manifestado. Diante disso, se constata de pronto a irregularidade, pois realmente não há intimação do réu, que se encontrava e ainda se encontra preso, como determina o artigo Art. 392 do Código de Processo Penal" (e-STJ fl. 4).
+Sustentou que, "no confronto entre a renúncia da defesa técnica ao direito de recorrer e à declaração do réu quanto ao interesse na interposição do recurso, deve prevalecer o desejo expresso de recorrer" (e-STJ fl. 6).
+Diante disso, pediu fosse tornada "sem efeito a certidão de trânsito em julgado de fls. 900 dos autos nº 1503707-21.2018.8.26.0405 (doc. segue em anexo), e  ..  determinada a intimação pessoal do réu na Penitenciária I "Vereador Frederico Geometti" de Lavínia (de Lavínia I), localizada na Estrada Municipal Manoel Caetano Km 03, Bairro Perobal, Lavínia - SP, 16850-000 sobre a Sentença, abrindo-se o prazo para recurso" (e-STJ fl. 7).
+Liminar indeferida (e-STJ fls. 934/935).
+Informações prestadas (e-STJ fls. 939/953 e fls. 956/962).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 964/968).
+Às e-STJ fls. 970/973, deneguei a ordem.
+Nesta oportunidade, a defesa argumenta que ficou "comprovado que o réu manifestou o direito de recorrer, não somente as defesas técnicas. Conquanto, consoante a jurisprudência do Superior Tribunal de Justiça no sentido de que, havendo colisão de vontades entre a defesa pessoal e a defesa técnica, deve prevalecer a vontade do réu" (e-STJ fl. 979).
+Requer, assim, o provimento do recurso para "tonar sem efeito a certidão de trânsito em julgado de fls. 900 dos autos n. 1503707-21.2018.8.26.0405 (doc. segue em anexo), e seja determinada a intimação pessoal do réu na Penitenciária  ..  abrindo-se o prazo para recurso" (e-STJ fl. 979).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXERCÍCIO ILEGAL DA MEDICINA. NULIDADE. COLISÃO DE VONTADES ENTRE DEFESA PESSOAL E DEFESA TÉCNICA. NÃO OCORRÊNCIA. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, havendo colisão de vontades entre a defesa pessoal e a defesa técnica, deve prevalecer aquela que garante o duplo grau de jurisdição.
+2. Isso não obstante, "não é vedado  ..  que o advogado desista do recurso interposto pelo réu, desde que possua procuração com poderes especiais para desistir ou conte com a anuência expressa da parte" (HC n. 712.847/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022, grifei).
+3. Na hipótese, não há colisão entre as defesas, mas manifestação posterior da defesa técnica, atuando em nome do réu e com poderes especiais para desistir do recurso. É dizer, o ora paciente se retratou da primeira manifestação de vontade, desistindo de recorrer, após cerca de um mês, por meio do peticionamento da defesa técnica nos autos.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+O Tribunal de origem, ao afastar a nulidade em virtude da colisão de vontade entre a defesa pessoal e a defesa técnica, assim argumentou (e-STJ fls. 11/12):
+Em 14.7.2021, a defesa do paciente desistiu da interposição do recurso, mencionando que o paciente não tinha desejo de apelar do decreto condenatório (fl. 894 dos referidos autos).
+Decorridos mais de um ano (15 meses), em 27.10.2022, veio manifestação do novo patrono do paciente, afirmando que em recente atendimento ao sentenciado na penitenciária, foi informado pelo preso que até a presente data não tomou conhecimento da sentença, negando que tenha autorizado a desistência do recurso de apelação (fl.921 dos autos de origem).
+A antiga causídica manifestou-se, em 3.11.2022, explicando que conversara com a família do paciente na época, tendo lhes informado os motivos pelos quais considerava vantajosa a desistência da apelação (fls. 925/26 dos autos de origem). Aqui houve total esclarecimento de que a desistência ocorreu com a concordância da família do paciente, que certamente não tomou tal decisão sem antes consultá-lo, tanto que se demorou mais de um ano para a constituição de novo Defensor.
+Não se trata de simples divergência entre a vontade do paciente e da defesa técnica, porquanto o decurso do longo tempo entre o trânsito em julgado e a manifestação da nova Defesa, indica que tenha havido possível arrependimento do réu, circunstância que não pode ser aceita para se anular o trânsito em julgado e se interromper o andamento da execução definitiva da pena. Conceder a ordem, data vênia, seria presumir que a ilustre causídica que assinou a petição de renúncia teria agido de má-fé, praticando conduta temerária, em detrimento da vontade do paciente e sua família. (Grifei.)
+Conforme consignado na decisão agravada, não obstante a jurisprudência do Superior Tribunal de Justiça no sentido de que, havendo colisão de vontades entre a defesa pessoal e a defesa técnica, deve prevalecer aquela que garante o duplo grau de jurisdição, verifica-se que, na hipótese, tal entendimento não se aplica, uma vez que não há colisão entre as aludidas defesas, mas manifestação posterior da defesa técnica, atuando em nome do réu e com poderes especiais para tanto, informando sobre a ausência do interesse de recorrer.
+É dizer, o ora paciente se retratou da primeira manifestação de vontade, desistindo de recorrer, após cerca de um mês, por meio do peticionamento da defesa técnica nos autos.
+Ademais, consoante informações prestadas pelo Juízo processante, "foi a mesma advogada que esteve presente em seu julgamento que se manifestou às fls. 894 renunciando ao recurso, observa-se, ainda, que até o momento não há nos autos revogação dos poderes conferidos a esta profissional e nem substabelecimento dela a outro profissional, portanto, em tese, ainda permanece (Dra. Yasmim) em sua defesa" (e-STJ fl. 951).
+Além disso, consignou o Tribunal de origem que "o decurso do longo tempo entre o trânsito em julgado e a manifestação da nova Defesa, indica que tenha havido possível arrependimento do réu, circunstância que não pode ser aceita para se anular o trânsito em julgado  ..  Conceder a ordem, data vênia, seria presumir que a ilustre causídica que assinou a petição de renúncia teria agido de má-fé, praticando conduta temerária, em detrimento da vontade do paciente e sua família" (e-STJ fl. 12, grifei).
+Cito o seguinte julgado desta Corte Superior em caso semelhante:
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. APELAÇÃO INTERPOSTA PESSOALMENTE PELO RÉU PRESO. DESISTÊNCIA DO RECURSO POR ADVOGADO CONSTITUÍDO COM PROCURAÇÃO DOTADA DE PODERES ESPECIAIS PARA DESISTIR. NULIDADE. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. Segundo a jurisprudência desta Corte Superior, em caso de divergência entre defensor e réu acerca do intuito de recorrer, prevalece o entendimento que viabiliza o duplo grau de jurisdição, ou seja, de quem pretende recorrer, seja a defesa técnica, seja o acusado pessoalmente.
+2. Não é vedado, todavia, que o advogado desista do recurso interposto pelo réu, desde que possua procuração com poderes especiais para desistir ou conte com a anuência expressa da parte.
+3. No caso dos autos, não se tratava, propriamente, de conflito entre a vontade manifestada pelo réu pessoalmente e a vontade expressa pela defesa técnica. O advogado, quando formulou o pedido de desistência do recurso, o fez em nome do réu, com procuração dotada de poderes especiais para tanto. Não havia, tecnicamente, portanto, duas vontades opostas. O que havia era a declaração inicial do réu pessoalmente de que tinha intenção de recorrer e, mais de um mês depois, a informação do causídico nos autos dizendo que "o sentenciado não possui mais o interesse de recorrer da sentença do referido processo". Vale dizer, o patrono constituído, com poderes especiais para isso, disse, em outras palavras, que o réu havia mudado de ideia e, em nome dele, retratou a primeira manifestação de vontade.
+4. Ordem denegada.
+(HC n. 712.847/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022, grifei.)
+Mantenho a decisão agravada, pois, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
