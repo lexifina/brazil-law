@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALESSANDRA GRISOLIA PASQUALE, contra decisão monocrática de fls. 147/149 (e-STJ), da lavra deste signatário, a qual negou provimento ao recurso especial.
+O apelo nobre, amparado na alínea "a" do permissivo constitucional, desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 82/87, e-STJ):
+APELAÇÃO. EMBARGOS DE TERCEIRO. DESPESAS DE CONDOMÍNIO. AÇÃO DE EXECUÇÃO. INSURGÊNCIA DA POSSUIDORA COM RELAÇÃO À AVALIAÇÃO REALIZADA EM IMÓVEL SEMELHANTE. AUSÊNCIA DE DEMONSTRAÇÃO DE EFETIVO PREJUÍZO. RECURSO IMPROVIDO. Não é possível acolher a alegação de nulidade sem qualquer elemento objetivo apto a sua comprovação. Necessário seria que a embargante comprovasse que, realizada a avaliação do imóvel onde situado, profissionais da área atribuíram valor consideravelmente superior ao apurado pelo perito do Juízo que realizou a avaliação por imóvel assemelhado. Apenas com elementos objetivos seria possível a revisão da avaliação realizada. Evidente, portanto, a ausência de fundamento para requerer a nulidade da avaliação, por ausência de comprovação de prejuízo efetivo. Assim, mostra-se aplicável o princípio "pas de nullitésans grief" (não há nulidade sem prejuízo).
+Embargos declaratórios rejeitados, nos termos do aresto de fls. 94/97 (e-STJ).
+Em suas razões de recurso especial (fls. 100/106, e-STJ), a recorrente apontou ofensa aos arts. 1.022, I, e 98, § 1º, V e VI, do CPC/15.
+Sustentou a ocorrência de negativa de prestação jurisdicional. Asseverou que apesar de instada, teria a Corte de origem deixado de suprir a omissão apontada, consubstanciada na determinação de apresentar nova avaliação do imóvel, para contrapor ao laudo pericial, em sede de perícia indireta, não obstante lhe tenha sido deferido o pedido de assistência judiciária gratuita.
+Sem contrarrazões (certidão de fls. 108, e-STJ).
+Inadmitido o apelo nobre na origem (fls. 109/111, e-STJ), sobreveio o presente recurso de agravo (art. 1.042, do CPC/15), buscando destrancar o processamento daquela insurgência (fls. 114/121, e-STJ).
+Contraminuta às fls. 124/135 (e-STJ).
+Por decisão monocrática de fls. 147/149 (e-STJ0, negou-se provimento ao apelo especial.
+Renitente (fls. 152/156, e-STJ), a insurgente interpõe o presente agravo interno, no qual contesta os fundamentos que embasaram a decisão recorrida.
+Impugnação às fls. 162/168 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIROS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE EMBARGANTE.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela recorrente são incapazes de infirmar a decisão impugnada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Conforme restou decidido, a insurgente aponta ofensa aos artigos arts. 1.022, I, e 98, § 1º, V e VI, do CPC/15, sustentando deficiência de fundamentação e omissão, pelo Tribunal de origem, em analisar tese relevante ao deslinde da controvérsia, qual seja, a de ausência de condições financeiras para arcar com os custos da realização de nova avaliação do imóvel objeto da presente demanda, para se contrapor ao laudo pericial, tendo em vista ser beneficiária da justiça gratuita.
+Todavia, constata-se da leitura do aresto recorrido que a apontada ofensa não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, sem omissões, expondo os motivos para o desprovimento do recurso interposto pela requerida, consoante seguintes trechos do julgado (fls. 96/97, e-STJ):
+O recurso de embargos de declaração tem por objetivo, dentro da mesma relação jurídica processual, pelas partes, Ministério Público e de terceiro, a impugnação de decisão judicial que contenha o vício da obscuridade, contradição ou omissão, objetivando novo pronunciamento perante o mesmo juízo prolatar da decisão embargada, a fim de complementá-la ou esclarecê-la.
+Entretanto, não há, no julgado, qualquer contradição ou ofensa a dispositivo legal.
+A concessão da gratuidade de justiça não implica que o beneficiário esteja desobrigado do ônus probatório.
+Conforme constou do julgado, necessário seria que a embargante comprovasse que, realizada a avaliação do imóvel "in loco", profissionais da área atribuíram valor consideravelmente superior ao apurado pelo expert do Juízo que realizou a avaliação por imóvel assemelhado.
+Evidente que não basta mera alegação da parte para invalidar o ato judicial. É necessário que se incuta no espírito do julgador verossimilhança de sua alegação.
+Impossibilitada de apresentar parecer de profissional da área, também poderia apresentar avaliações de imobiliárias ou outros elementos que aptos a evidenciar que o valor do imóvel é consideravelmente superior à avaliação realizada.
+Apenas com elementos objetivos seria possível a revisão da avaliação realizada. Evidente, portanto, a ausência de fundamento para requerer a nulidade da avaliação, por ausência de comprovação de prejuízo efetivo. Assim, mostra-se aplicável o princípio pas de nullité sans grief.
+Como se vê, o órgão julgador apreciou as teses apresentadas pelas partes, inclusive a apontada como omissa nas razões recursais, em conjunto com o acervo probatório dos autos, em decisão suficientemente fundamentada, porém em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO E OMISSÃO NÃO CONSTATADAS. 2. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 3. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA DO ART. 1.026, § 2º, DO CPC/2015 PELO TRIBUNAL LOCAL. POSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO. 1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.263.748/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. 1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.  ..  3. Agravo interno desprovido. (AgInt no REsp 1.669.141/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/06/2018, DJe 01/08/2018)  grifou-se
+Ressalta-se que não há falar em deficiência de fundamentação do julgado quando não acolhida a tese ventilada pela recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde da controvérsia, como ocorre na hipótese.
+Inexiste, portanto, violação aos artigos arts. 1.022, I, e 98, § 1º, V e VI, do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+De rigor, portanto, a manutenção da decisão recorrida.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
