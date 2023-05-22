@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 567/572) interposto contra decisão desta relatoria que rejeitou os embargos de declaração da agravante.
+Em suas razões, a agravante defende que, por equívoco, teria nominado de agravo em recurso especial a petição de fls. 532/536 (e-STJ). No entanto, a mencionada manifestação processual apresentaria conteúdo de contraminuta ao agravo nos próprios autos do agravado.
+Nesse contexto, defende que:
+(i) "o referido caso comporta a aplicação do princípio da fungibilidade, pois por equívoco (erro material), utilizou-se de nomenclatura distinta do conteúdo da peça, somando-se a isto o fato de que a agravante nem mesmo havia apresentado recurso especial, portanto nunca teve interesse recursal em agravar da decisão que negou curso ao recurso especial do Banco do Brasil, e sim, em contrarrazoar o agravo apresentado pela multicitada instituição financeira" (e-STJ fls. 569/570),
+(ii) é "necessária a reforma da r. decisão agravada, com a aplicação da proporcionalidade e razoabilidade na interpretação das normas procedimentais - "o que, no direito processual, consubstancia o princípio da instrumentalidade das formas, consagrado no artigo 283 e seu parágrafo único do Código de Processo Civil de 2015, que ditam que o erro de forma do processo acarreta unicamente a anulação dos atos que não possam ser aproveitados por resultarem em prejuízo à defesa de qualquer das partes", este inclusive é o entendimento consolidado nesse superior tribunal" (e-STJ fl. 570), e
+(iii) "frise-se que acaso a manifestação da agravante, com claro conteúdo de
+contrarrazões, continue sendo recebida como agravo em recurso especial, haverá perpetuação do referido equívoco material, resultando em prejuízo a esta jurisdicionada, que está sendo condenada na majoração dos honorários advocatícios, não obstante jamais ter imprimido qualquer razão de recurso em sua petição de fls. 532/536, tendo em vista que esta jamais possuiu sucedâneo recursal, e sim, de contrarrazões, além de já ter, nas instancias ordinárias, cumprido voluntariamente a condenação" (e-STJ fl. 570).
+Por isso, requer a exclusão dos honorários recursais arbitrados devido ao não conhecimento da petição denominada de agravo do art. 1.042 do CPC/2015.
+Sem impugnação (e-STJ fls. 575/576).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO DECLARATÓRIO. PEDIDO DE RECLASSIFICAÇÃO DE PETIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. A jurisprudência do STJ é no sentido de que o "erro material é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não, aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo" (REsp n. 1.021.841/PR, Relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 7/10/2008, DJe de 4/11/2008).
+2. No caso, seria descabido acolher o recurso declaratório da agravante oposto à decisão que não conheceu de seu agravo nos próprios autos, a fim reclassificar a petição para contrarrazões e, por conseguinte, excluir os honorários recursais, devido ao não conhecimento da insurgência prevista no art. 1.042 do CPC/2015. Isso porque o suposto erro material constituiu, na verdade, um equívoco inescusável da parte, além de que não era perceptível sem um exame aprofundado dos autos. Ademais, o erro material passível de correção pelos aclaratórios é aquele existente no julgado embargado, e não na petição da parte.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 563/564):
+Trata-se de embargos de declaração (e-STJ fls. 554/556) opostos à decisão desta relatoria que não conheceu do agravo em recurso especial da embargante (e-STJ fl. 1.378).
+A parte aponta que, por equívoco, teria intitulado de agravo em recurso especial a petição de fls. 532/536 (e-STJ). Isso porque a mencionada manifestação processual apresentaria conteúdo de contraminuta ao agravo nos próprios autos do embargado. Nesse contexto, defende que o referido equívoco induziria a decisão embargada em erro material, circunstância que justificaria a exclusão dos honorários recursais arbitrados devido ao não conhecimento da petição denominada de agravo do art. 1.042 do CPC/2015.
+Sem impugnação (e-STJ fls. 559/560).
+É o relatório.
+Decido.
+A decisão não incorreu no vício apontado.
+Conforme o entendimento desta Corte Superior, "o erro material, passível de ser corrigido a qualquer tempo, é aquele relativo à inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado. Caso contrário, trata-se de erro de julgamento, hipótese na qual a parte deve lançar mão das vias de impugnação apropriada" (AgInt nos EDcl no AREsp n. 1.616.321/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/9/2020, DJe 1º/10/2020), o que não ocorreu.
+Ademais, o recurso declaratório visa apenas a correção de vícios no julgado embargado, sendo descabida sua utilização para reclassificar a petição da parte recorrente para contrarrazões e, por conseguinte, excluir os honorários recursais, devido ao não conhecimento da insurgência prevista no art. 1.042 do CPC/2015.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+Segundo a jurisprudência do STJ, "erro material é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não, aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo" (REsp n. 1.021.841/PR, Relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 7/10/2008, DJe de 4/11/2008).
+Do mesmo modo:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DA QUANTIA E REQUERIMENTO DA EXECUTADA PARA A EXTINÇÃO DA EXECUÇÃO (ART. 794, I, DO CPC). POSTERIOR ALEGAÇÃO DE EQUÍVOCO, INFORMANDO A INTENÇÃO DE APRESENTAÇÃO DE IMPUGNAÇÃO. ERRO MATERIAL. INEXISTÊNCIA. PRECLUSÃO CONSUMATIVA. LITIGÂNCIA DE MÁ FÉ. INTENÇÃO PROTELATÓRIA. APLICAÇÃO DE MULTA.
+1. "Erro material é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não, aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo". (REsp 1.021.841/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 7/10/2008, DJe de 4/11/2008) 2. Na espécie, o Tribunal de origem consignou que o recorrente efetuou o depósito da quantia executada e requereu a extinção da execução com base no inciso I do art. 794 do Código de Processo Civil, vindo posteriormente nos autos alegar que o depósito objetivava tão somente a garantia do juízo para fins de apresentação de impugnação ao cumprimento de sentença, de sorte que se observa, não a ocorrência de erro material no requerimento da parte - extinção da execução pelo pagamento -, mas a prática de ato que se encontra acobertado pela preclusão consumativa.
+(..)
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg no REsp n. 1.449.766/SC, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/8/2014, DJe de 2/9/2014.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS. ALTERAÇÃO DO TERMO INICIAL. IMPOSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. ERRO MATERIAL NÃO CONSTATADO. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Conforme a jurisprudência deste Tribunal de Uniformização, erro material constitui "aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1.234.057/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 28/06/2011, DJe 01/07/2011).
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.709.352/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DECISÃO TRANSITADA. ERRO MATERIAL. INEXISTÊNCIA. ALTERAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO DA COISA JULGADA. PROVIMENTO. DECISÃO MANTIDA.
+1. "Na forma da jurisprudência desta Corte, "o erro material previsto no inciso I do art. 463 do CPC/1973, passível de ser corrigido a qualquer tempo, é aquele relativo à inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado. Caso contrário, trata-se de erro de julgamento, hipótese na qual a parte deve lançar mão das vias de impugnação apropriadas" (STJ, AgInt no REsp 1.469.645/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 05/12/2017). O erro material, passível de ser corrigido de ofício e não sujeito à preclusão, é "aquele reconhecível primo ictu oculi, consistente em equívocos materiais sem conteúdo decisório, e cuja correção não implica em alteração do conteúdo do provimento jurisdicional" (STJ, EDcl no AgRg no RMS 36.986/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/04/2016), o que, contudo, não é a hipótese dos presentes autos, na qual o erro apontado guarda relação com o próprio objeto do juízo de mérito, consubstanciando error in judicando, decorrente da má apreciação de questão de fato" (AgInt no REsp 1435045/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/09/2018, DJe 13/09/2018).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.718.088/CE, de minha relatoria, QUARTA TURMA, julgado em 4/10/2021, DJe de 8/10/2021.)
+Seria descabido acolher o recurso declaratório da agravante oposto à decisão que não conheceu de seu agravo nos próprios autos, a fim reclassificar a petição para contrarrazões e, por conseguinte, excluir os honorários recursais, devido ao não conhecimento da insurgência prevista no art. 1.042 do CPC/2015. Isso porque o suposto erro material constituiu, na verdade, um equívoco inescusável da parte , além de que não era perceptível sem um exame aprofundado dos autos.
+E ainda, "é inviável a aplicação do princípio da fungibilidade quando verificado erro grosseiro na espécie recursal interposta" (AgInt no AREsp n. 2.198.281/RS, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/3/2023, DJe de 22/3/2023), como no presente caso.
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO E SÚMULA N. 283 DO STF. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Na hipótese de erro grosseiro na escolha do recurso, é vedada a aplicação do princípio da fungibilidade recursal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.102.073/PB, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 20/3/2023, DJe de 24/3/2023.)
+Além disso, o erro material passível de correção pelos aclaratórios é aquele existente no julgado embargado, e não na petição da parte.
+No mais, conforme a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. 10. é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp n. 762.075/MT, Relator p/ acórdão Ministro HERMAN BEN JAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+No caso concreto, justificou-se a fixação de honorários recursais no julgado, pois:
+(i) a condenação em honorários advocatícios ocorreu desde a origem (e-STJ fl. 360),
+(ii) a publicação da decisão recorrida ocorreu a partir de 18 de março de 2016 (e-STJ fls. 488/494), e
+(iii) esta relatoria não conheceu do recurso dos agravantes (e-STJ fls. 548/549.
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
