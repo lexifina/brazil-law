@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Razzo Ltda. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 909):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. MARCAS SEMELHANTES QUE DESIGNAM O MESMO TIPO DE PRODUTO. INCIDÊNCIA DO ARTIGO 124, XIX, DA LEI DA PROPRIEDADE INDUSTRIAL. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS INVOCADOS. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, dado que, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice da Súmula 7/STJ.
+2. De acordo com a orientação do Superior Tribunal de Justiça, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Dessa forma, há a necessidade de ser a causa decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto.
+4. Agravo interno improvido.
+O decisum foi complementado pelo julgamento dos embargos de declaração opostos pela parte adversa (e-STJ, fls. 944-947).
+Em suas razões (e-STJ, fls. 953-957), sustenta a embargante a existência de omissão no acórdão impugnado, ao argumento de que o julgado colegiado deixou de majorar os honorários recursais, em virtude do desprovimento do agravo interno interposto pela parte ora embargada.
+Foi apresentada impugnação (e-STJ, fls. 964-967), com pedido de multa processual.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. MAJORAÇÃO EM AGRAVO INTERNO. NÃO CABIMENTO. EMBARGOS REJEITADOS .
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+Segundo aponta a embargante, há omissão no aresto embargado, haja vista a ausência de majoração dos honorários sucumbenciais no julgamento do agravo interno por este colegiado.
+Nesse contexto, cabe ressaltar que houve a majoração dos honorários sucumbenciais na decisão monocrática proferida por este signatário às fls. 875-881 (e-STJ), a qual conheceu do agravo para não conhecer do recurso especial.
+Efetivamente, quanto ao pedido de fixação de honorários recursais (art. 85, § 11, do CPC/2015), o pleito deve ser examinado à luz das regras definidas pela Terceira Turma do Superior Tribunal de Justiça nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+Na hipótese, é inadmissível a majoração da verba honorária em favor dos advogados da parte adversa, tendo em vista que, fixados os honorários advocatícios no primeiro ato decisório, tal como ocorreu no caso, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. JULGAMENTO VIRTUAL. POSSIBILIDADE. REGIMENTO INTERNO DO STJ. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANO MATERIAL. COMPENSAÇÃO POR DANO MORAL. RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. MULTA DO ART. 1.021, §4º DO CPC NÃO APLICADA. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA PELO JULGAMENTO DO AGRAVO INTERNO. NOVO GRAU RECURSAL NÃO INAUGURADO. IMPOSSIBILIDADE.
+ ..
+8. Não há majoração de honorários em virtude da interposição de agravo interno em face da decisão monocrática que julgou o recurso especial da agravante, na medida em que a jurisprudência do STJ se consolidou no sentido de que descabe a fixação de honorários recursais no julgamento de agravo interno ou de embargos de declaração, porque não inaugurado novo grau de jurisdição que a justifique.
+9. Agravo interno não provido.
+(AgInt no AREsp 1738588/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz, de ofício ou a requerimento; ou corrigir erro material.
+Por conseguinte, são inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015, porque não há nenhum dos vícios apontados a serem desfeitos no acórdão embargado.
+Quanto ao pedido de aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 pela parte adversa, impende destacar que, no presente caso, não se verifica o nítido caráter protelatório dos aclaratórios que autorizaria a sua aplicação.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
