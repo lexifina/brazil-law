@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REGIME PRISIONAL MAIS GRAVOSO. ELEMENTOS CONCRETOS. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+2. A adoção do regime inicial fechado é justificada pela quantidade, natureza e variedade dos entorpecentes apreendidos, bem como pela atuação intermunicipal do grupo criminoso. É importante ressaltar que a fundamentação do acórdão impugnado foi embasada em elementos concretos, tais como fatos apurados na instrução processual, e não se baseou apenas em considerações abstratas sobre a gravidade do tráfico de drogas ou a quantidade de substâncias psicoativas apreendidas.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JESSICA ESPINOSA MACEDO (e-STJ, fls. 1414-1419) contra decisão que reconsiderou a decisão agravada, para não conhecer do habeas corpus (e-STJ, fls. 1409-1411).
+A parte agravante afirma, em síntese, a necessidade de fixação de regime mais brando.
+Requer que seja reformada a decisão agravada, a fim de conceder a ordem.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REGIME PRISIONAL MAIS GRAVOSO. ELEMENTOS CONCRETOS. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+2. A adoção do regime inicial fechado é justificada pela quantidade, natureza e variedade dos entorpecentes apreendidos, bem como pela atuação intermunicipal do grupo criminoso. É importante ressaltar que a fundamentação do acórdão impugnado foi embasada em elementos concretos, tais como fatos apurados na instrução processual, e não se baseou apenas em considerações abstratas sobre a gravidade do tráfico de drogas ou a quantidade de substâncias psicoativas apreendidas.
+3. Agravo regimental não provido.
+VOTO
+Apesar das considerações da parte agravante, razão não lhe assiste.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao redimensionar a sanção da paciente, manteve o regime inicial fechado com base nos seguintes fundamentos:
+"Na primeira fase, ressalvo que caberia a elevação da pena-base de todos os os réus em relação aos crimes de tráfico de drogas e associação para o tráfico, com fundamento no art. 42 da Lei n. 11.343/06, em razão da quantidade, diversidade e natureza dos estupefacientes apreendidos, os quais favoreciam a associação e, portanto, todos os seus integrantes. Não obstante, à míngua de recurso da acusação, fico defeso a proceder o aumento.
+Na derradeira etapa, com o afastamento da majorante disposta no art.
+40, IV, da Lei Antidroga, cuja fundamentação expus no item "5" deste voto, procedo a readequação das penas dos crimes de tráfico de entorpecentes e de associação para o narcotráfico, que passam a ser de 5 anos de reclusão e 500 dias-multa e 3 anos de reclusão e 700 dias-multa respectivamente.
+Aplicado o concurso material entre os crimes - para Eduardo inclusive o de posse irregular de arma de fogo - a pena torna-se definitiva em 8 anos de reclusão e 1.200 dias-multa em relação a Leonardo, Samuel e Jessica e 8 anos de reclusão, 1 ano de detenção e 1.210 dias-multa em relação a Eduardo.
+ ..
+Fica mantido o regime inicialmente fechado para a pena de reclusão de todos os apelantes, nada obstante a redução da reprimenda. É que, sem olvidar a possibilidade de detrair o tempo de prisão preventiva (CPP, art. 387, § 2º) de Leonardo e de Eduardo, que perfaz mais de um ano e meio, a fixação da modalidade semiaberta não é recomendada dadas as circunstâncias dos fatos e a gravidade concreta dos crimes praticados. Ora, no total, foram apreendidos cerca de 36.173,9 gramas de maconha, 248,8 gramas de cocaína, 6 micropontos de MDA, além de R$ 5.500,00 em espécie e apetrechos diversos. Além disso, a associação para o tráfico tinha atuação intermunicipal, que estendia-se ao menos a Bombinhas e a Joinville.
+Nesse contexto fático, impõe-se o resgate inicial da reprimenda no regime fechado.
+Ressalto, por oportuno, que não há se falar em violação aos enunciados das Súmulas ns. 718 e 719 do STF, porquanto fundamentado em circunstâncias concretas, e não abstratas ou em mera opinião" (e-STJ, fls. 77-78)
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+A adoção do regime inicial fechado é justificada pela quantidade, natureza e variedade dos entorpecentes apreendidos, bem como pela atuação intermunicipal do grupo criminoso. É importante ressaltar que a fundamentação do acórdão impugnado foi embasada em elementos conc retos, tais como fatos apurados na instrução processual, e não se baseou apenas em considerações abstratas sobre a gravidade do tráfico de drogas ou a quantidade de substâncias psicoativas apreendidas.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS E IDÔNEAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTO IDÔNEO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos:
+a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. Hipótese em que as instâncias ordinárias afirmaram, com base no acervo probatório, que as drogas eram comercializadas em imóvel conhecido na localidade como "boca de fumo", além da apreensão de petrechos para o fracionamento de entorpecentes, o que denota dedicação habitual à traficância. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+Precedentes.
+3. O regime de cumprimento de pena mais gravoso do que a pena comporta pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, a teor das Súmulas 440/STJ e 718 e 719/STF.
+4. Inexiste ilegalidade na fixação do regime inicial fechado quando há exasperação da pena-base em virtude de circunstância judicial desfavorável e a condenação excede 4 anos de reclusão. Precedentes.
+5. Agravo regimental não provido."
+(AgRg no HC n. 761.800/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
