@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OCEANA MINERAIS MARINHOS LTDA, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 1º/4/2022.
+Concluso ao gabinete em: 16/5/2023.
+Ação: de cobrança de honorários advocatícios decorrentes de acordo homologado judicialmente, em fase de cumprimento de sentença, ajuizada por Dr. JOSÉ CARLOS TAVARES DURANS em face de OCEANA MINERAIS MARINHOS LTDA.
+Decisão interlocutória: autorizou o prosseguimento da execução em face de OCEANA MINERAIS MARINHOS LTDA, determinando-se sua intimação.
+Acórdão: negou provimento ao agravo de instrumento interposto por OCEANA MINERAIS MARINHOS LTDA, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINA A INTIMAÇÃO DA AGRAVANTE PARA PAGAR A QUANTIAEXECUTADA. INEXISTÊNCIA DE VIOLAÇÃO DA COISA JULGADA. ILEGITIMIDADE PASSIVA AFASTADA. RESPONSABILIDADE SOLIDÁRIA DOTERCEIRO INTERVENIENTE GARANTIDOR. AGRAVO DESPROVIDO. SEMINTERESSE MINISTERIAL. I. Ao contrário do que tenta fazer crer a agravante, da leitura do título executivo não se verifica qualquer afastamento expresso da responsabilidade da recorrente, não havendo falar em violação da coisa julgada. II. Se a verba honorária ora executada decorre de acordo homologado judicialmente no qual a agravante figura como terceiro interveniente garantidor, resta evidente sua legitimidade passiva, já que se trata de responsabilidade solidária, prevista nos termos do art. 275 do CC. III. Referido tema não é novo nesta Colenda Segunda Câmara Cível, que, quando do julgamento do Agravo de Instrumento nº 0818651-96.2020.8.10.0000, já havia se posicionado no sentido de que a agravante é parte legítima para figurar no polo passivo do cumprimento de sentença originário. IV. Agravo desprovido. (e-STJ fls. 285-297)
+Embargos de declaração: opostos por OCEANA MINERAIS MARINHOS LTDA, foram rejeitados.
+Recurso especial: alega violação aos arts. 7º, 9º, 10, 17, 329, II, 506, 513, § 2º, 523 e 524, I, do CPC/15. Sustenta que não foi parte na demanda na qual se originou o título exequendo e que tampouco foi incluída ab initio como executada no cumprimento de sentença.
+Decisão da Presidência do TJMA: admitiu o recurso especial.
+Petição: sobreveio petição de ACQUA MARITIMA TECNOLOGIA SUBMARINA COMERCIO E NAVEGACAO LTDA a afirmar que, e, 17/4/2023, certificou-se o trânsito em julgado do REsp 2.005.726/MA, de lavra desta Relatora, no qual acolheu-se a pretensão da peticionante. Naqueles autos, reconheceu-se a nulidade do incidente de cumprimento de sentença em razão da nulidade de intimação de ACQUA MARINA, na esteira do precedente que se consolidou a partir do julgamento do EAREsp. 1.306.464/SP. Em razão do exposto, informa que ocorreu a perda do objeto do presente especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da perda do objeto do recurso especial
+Sobreveio aos autos petição de ACQUA MARITIMA TECNOLOGIA SUBMARINA COMERCIO E NAVEGACAO LTDA (e-STJ fls. 1112-1123), a afirmar a perda superveniente do objeto recursal, em razão do trânsito em julgado do REsp 2005726/MA (2022/0157562-3), que conheceu do recurso especial interposto por ACQUA MARITÍMA TECNOLOGIA SUBMARINA, COMÉRCIO E NAVEGAÇÃO LTDA, e deu-lhe provimento para "reformar o acórdão recorrido, declarando a nulidade da intimação acerca do início do cumprimento de sentença e determinando nova publicação, constando o nome dos patronos indicados pela parte. Por consequência, fica prejudicado o exame das demais questões aduzidas no recurso especial".
+Em razão da manifestação, determinou-se a intimação do recorrente, OCEANA MINERAIS MARINHOS LTDA, e recorrido, JOSÉ CARLOS TAVARES DURANS (e-STJ fl. 1124).
+Ato contínuo, OCEANA MINERAIS MARINHOS LTDA (recorrente) corroborou a tese de perda do objeto do especial, enquanto transcorreu sem manifestação o prazo de JOSÉ CARLOS TAVARES DURANS (recorrido).
+De fato, ao analisar os autos, verifica-se que em razão de anterior - e imutável - declaração de nulidade de todos os atos executivo, com determinação e devolução do processo ao Juízo de primeiro grau para a retomada, desde o início, da fase de cumprimento de sentença, não subsiste interesse no julgamento deste especial, que discutia a questão ora prejudicada.
+Em casos similares, este foi o entendimento desta Corte, confira-se: AgInt nos EDcl no REsp n. 1.842.945/SP, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021 e EDcl no AgRg no Ag n. 1.140.811/RJ, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+Forte nessas razões, com fundamento no art. 34, XI, do RISTJ, JULGO EXINTO o presente recurso especial, sem julgamento do mérito, ante a perda superveniente de seu objeto.
+Publique-se. Intimem-se. Arquive-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO SUPERVENIENTE COM TRÂNSITO EM JULGADO. PERDA DO OBJETO DO PRESENTE RECURSO ESPECIAL. EXTINÇÃO SEM JULGAMENTO DO MÉRITO.
+1. Ação de cobrança de honorários advocatícios, em fase de cumprimento de sentença.
+2. Em razão do trânsito em julgado de decisão com influência direta na presente demanda, sobreveio perda do objeto do recurso especial. Pretensão manifestada por ambas as partes.
+3. Recurso especial extinto sem julgamento do mérito.
