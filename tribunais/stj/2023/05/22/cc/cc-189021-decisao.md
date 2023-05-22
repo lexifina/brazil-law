@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA CRIMINAL DE AMAMBAI - MS em face do JUÍZO DE DIREITO DA 2A VARA JUDICIAL DE CAJAMAR - SP.
+O conflito foi instaurado mediante a invocação dos seguintes fundamentos (e-STJ fls.  758/759):
+Trata-se de inquérito policial instaurado pela Delegacia Seccional de Polícia de Franco da Rocha (DEMACRO), para apuração da prática do crime de associação para o tráfico e investigações de organizações criminosas/associações criminosas envolvidas na prática de roubo de cargas na cidade Cajamar/SP e proximidades.
+Os autos foram remetidos a esta Comarca a pedido do Ministério Público de Cajamar/SP (f. 704-05), sendo deferido pelo juízo da 2a Vara Judicial da Comarca de Cajamar/SP à f. 706.
+O Ministério Público desta Comarca em sua manifestação de f. 726-40 requereu o declínio de competência em favor da 2" Vara Criminal de Cajamar/SP.
+Às f. 741-742 este juízo declinou a competência em favor do Juízo da 2a Vara Judicial da comarca de Cajamar/SP, argumentando as infrações possivelmente foram praticadas em mais de uma jurisdição, e que as medidas cautelares de interceptação telefônica foram deferidas primeiramente pelo juízo da 2 a Vara Judicial de Cajamar/SP, razão pela qual a competência para apreciação e julgamento dos presentes autos é do juízo daquela localidade.
+Às f. 749, o juízo de Cajamar/SP devolveu o processo a esta comarca, apontando incompetência.
+Decido.
+Conforme declinado na decisão que declarou incompetência e determinou a remessa dos autos ao Juízo de Cajamar/SP, verifica-se que foram desenvolvidas investigações quanto à atuação de organização/associação criminosa em diversos municípios e Estados, sendo inclusive deferidas interceptações telefônicas pelo juízo da 2" Vara Criminal da Comarca de Cajamar/SP.
+Verificou-se que Cajamar/SP seria o centro logístico de distribuição dos entorpecentes (f. 128-183), bem como várias cidades de Mato Grosso do Sul seriam rota do tráfico de drogas, sendo, obviamente, mais transitadas as cidades de Coronel Sapucaia e de Amambai por estarem próximas ao Paraguai.
+Assim, não havendo aplicação da competência territorial, pois ausentes provas claras da atuação e fixação da organização criminosa nesta comarca, a única competência que remanesce no caso é a atraída pela prevenção, nos termos dos artigos 71 e 83 do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado (e-STJ fls.  773/774 ).
+É o relatório.
+Decido.
+Cuida-se  de  incidente  instaurado  entre  juízes  vinculados  a  tribunais  diversos,  razão  pela  qual,  nos  termos  do  art.  105,  I,  d,  da  Constituição  Federal,  conheço  do  conflito.
+Cinge-se a controvérsia posta nos autos à definição da competência para processar e julgar os crimes de associação ao tráfico de entorpecentes e de organizações criminosas envolvidas na prática de roubos de cargas em diversos municípios e estados brasileiros.
+Tais delitos, ao que se tem dos autos, teriam conexão fático-probatória, o que não foi motivo de controvérsia perante os juízos envolvidos.
+Conforme orientação firmada por esta Corte Superior, nos crimes continuados ou permanentes (in casu, crimes de associação criminosa ou para o tráfico), cuja execução se prolonga no tempo, praticados em território de duas ou mais jurisdições, a competência firmar-se-á pela prevenção, nos termos do art. 71 do Código Processual Penal. A propósito, citam-se os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. FURTO MEDIANTE FRAUDE E ASSOCIAÇÃO CRIMINOSA. PROCESSUAL PENAL. CONFLITANTES: JUÍZOS DE DIREITO DAS COMARCAS DE FORTALEZA - CE E DE SÃO PAULO - SP. ASSOCIAÇÃO CRIMINOSA: CRIME PERMANENTE. ARTS. 71 E 83, DO CÓDIGO DE PROCESSO PENAL. COMPETÊNCIA FIRMADA PELA PREVENÇÃO, AINDA QUE COMETIDOS OUTROS DELITOS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. Hipótese na qual os Interessados foram denunciados pela suposta prática dos crimes previstos nos arts. 155, caput, § 4.º, incisos II e IV, por 43 vezes, e 288, caput, todos do Código Penal. O Juízo Suscitado lastreou sua decisão de não reconhecer sua competência na ponderação, tout court, de que a maioria dos prejudicados (mais de vinte) residia em Fortaleza - CE, à exceção de dois, moradores de São Paulo - SP. Ocorre que, na espécie - em que se apura também o delito de associação criminosa - não se admite que critério pragmático seja empregado para firmar a competência, ainda que o número de Vítimas que residem em outra cidade seja expressivamente maior que o de Ofendidos domiciliados na Comarca em que as investigações foram iniciadas e a causa primeiramente despachada.
+2. "Em se tratando da prática, em tese, do crime de associação criminosa (crime permanente), ainda que outros crimes tenham sido praticados e em diversas ocasiões - verifica-se a existência inclusive de infrações mais graves  ..  do que o crime previsto no art. 288 do Código Penal -, esta Corte, adotando a literalidade do disposto no art. 71 do Código de Processo Penal, reconheceu a competência pela prevenção" (STJ, RHC 72.433/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/11/2016, DJe 02/12/2016).
+3. Conflito negativo conhecido para declarar a competência do Suscitado.
+(CC n. 191.497/CE, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2022, DJe de 19/12/2022.)
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA INCOMPETÊNCIA DO JUÍZO PROCESSANTE. INOCORRÊNCIA. PREVENÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGAS APREENDIDAS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - "Por tratar-se de delito de tráfico de entorpecentes, que possui natureza permanente, a competência territorial deve ser firmada pela prevenção, nos termos do art. 71 do CPP" (HC n. 46.213/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 28/5/2015).
+Habeas corpus não conhecido.
+(HC n. 339.171/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 3/3/2016, DJe de 21/3/2016.)
+Desse modo, considerando que o Juízo da Comarca de Cajamar/SP determinou a prática de atos preliminares à ação penal, impõe-se reconhecer a competência desse Juízo para o processo e julgamento do feito.
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado (JUÍZO DE DIREITO DA 2A VARA JUDICIAL DE CAJAMAR - SP).
+Publique-se. Comunique-se.
