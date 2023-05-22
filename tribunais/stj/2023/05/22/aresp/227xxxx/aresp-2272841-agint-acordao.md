@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência, que não conheceu do Agravo em Recurso Especial.
+A parte agravante alega:
+O agravo ajuizado perante o tribunal a quo efetivamente discorre pontualmente e expressamente sobre o fundamento da decisão agravada apontado como não impugnado.
+Assim, às fls. e-STJ 2077/2078, está o tema recursal referido. Há, portanto, um capítulo inteiro e específico da petição do agravo que trata unicamente do tema.
+Postula a reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AOS ARTS. 927 E 1.039 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de Agravo Interno contra decisão da Presidência, que não conheceu do Agravo em Recurso Especial.
+2. O Agravo Interno deve ser provido, porque a parte ora agravante impugnou especificamente a incidência da Súmula 7/STJ, como se verifica às fls. 2.077-2.078).
+3. Não foi emitido juízo de valor sobre os dispositivos legais apontados pelo Estado recorrente como violados (arts. 927 e 1.039 do CPC/2015). É inviável o conhecimento do Apelo Nobre quando os artigos tidos por violados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incide na espécie a Súmula 211/STJ. Caberia à parte, nas razões recursais, alegar ofensa ao art. 1.022 do CPC/2015, a fim de que este eg. Superior Tribunal de Justiça pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+4. Em obiter dictum observa-se que o acórdão está em sintonia com a jurisprudência firmada nesta Corte de que o ajuizamento de Ação de Execução Coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional e não há que se falar em inércia dos credores individuais.
+5. Agravo Interno provido para conhecer do Agravo para não conhecer do Agravo em Recurso Especial.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): O Agravo Interno deve ser provido, porque a parte ora agravante impugnou especificamente a incidência do óbice da Súmula 7/STJ, como se verifica às fls. 2.077-2078).
+Nas razões de Agravo em Recurso Especial, a parte aduziu:
+Data máxima vênia, ao contrário do afirmado na r. decisão agravada, não se pretende, por intermédio do Recurso Especial, rediscutir matéria de fato, ao revés trata exclusivamente de matéria de direito.
+Com efeito, a discussão travada no recurso inadmitido cinge tão somente em relação à violação aos os artigos 927 e 1.039 do CPC, além do Tema 877 do STJ, razão pela qual equívoco o decisum. Assim sendo, completamente desnecessária a análise do conjunto probatório produzido ao longo do processo, uma vez que a violação aos supracitados artigos se refere à matéria exclusivamente de direito.
+Portanto, não incide ao caso a Súmula 182/STJ.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+De início, cumpre registrar que a fundamentação deste voto será desenvolvida em consonância com o que o C. STJ decidiu ao apreciar o tema 877, e sem se afastar dos entendimentos consolidados no C. STF, em especial, no que tange às causas de interrupção da prescrição da pretensão executória.
+Pois bem, o cerne da questão posta em julgamento está em decidir se a pretensão de execução individual da sentença coletiva, formulada pela parte autora, foi alcançada pela prescrição.
+(..)
+Passando ao largo da evolução jurisprudencial sobre o tema, tem-se que, como regra geral, e em especial quando a liquidação do julgado depende de simples cálculo aritmético, como no caso, o prazo prescricional para a execução individual de ação coletiva é contado do trânsito em julgado da sentença, e não há necessidade de ampla divulgação pelos meios de comunicação social.
+(..)
+Nesse contexto, cumpre verificar se a pretensão executória formulada pela parte autora foi alcançada pela prescrição.
+Adianto que concluí que não.
+(..)
+Pois bem. Conforme anunciado no início deste voto, o trânsito em julgado da sentença proferida na fase de conhecimento da ação coletiva ajuizada pelo Sindicato Estadual dos Profissionais de Educação do Estado do Rio de Janeiro (SEPE-RJ), ocorreu no dia 14/10/2011.
+Considerando o entendimento firmado na tese 877 do STJ, já mencionada, nesta data se iniciou a contagem do prazo prescricional de cinco anos para o ajuizamento da ação de execução individual da sentença coletiva.
+Nestes autos, a pretensão executória individual foi apresentada mais de oito anos depois do trânsito da referida sentença.
+Todavia, não há que se falar em prescrição, porque, o sindicato, que figurou no polo ativo da fase de conhecimento da ação civil pública, atuando como legitimado extraordinário, no ano de 2016 (portanto, antes de expirado o prazo quinquenal), deu início à fase de execução na ação coletiva, o que é causa de interrupção do referido prazo prescricional.
+(..)
+Vale acrescentar que esta Eg. Câmara Cível, inúmeras vezes, nos julgamentos das execuções individuais da sentença coletiva proferida na demanda ajuizada pela Associação dos Servidores Públicos de Volta Redonda - ASVRE -, já se manifestou no sentido de que o início da fase de execução na ação coletiva é causa de interrupção da prescrição executória.
+(..)
+Assim, concluo que, no caso em julgamento, a pretensão da parte autora não foi alcançada pela prescrição, que foi interrompida com o início da execução na ação coletiva, ainda em tramite.
+Observo que não foi emitido juízo de valor sobre os dispositivos legais apontado pelo Estado recorrente como violados (arts. 927 e 1.039 do CPC/2015). É inviável o conhecimento do Apelo Nobre quando os artigos tidos por violados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incide na espécie a Súmula 211/STJ.
+Caberia à parte, nas razões recursais, alegar ofensa ao art. 1.022 do CPC/2015, a fim de que este Tribunal Superior pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+Ademais, em obiter dictum, observo que o acórdão está em sintonia com a jurisprudência firmada nesta Corte de que o ajuizamento de Ação de Execução Coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional e não há que se falar em inércia dos credores individuais.
+Vejam-se:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO COLETIVA CONTRA A FAZENDA PÚBLICA. SUBSTITUTO PROCESSUAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RECONHECIMENTO DO DIREITO PELO EXECUTADO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 7 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, o Distrito Federal, em 29/6/2020, interpôs agravo de instrumento contra decisão que, em cumprimento individual de sentença coletiva, rejeitou a impugnação apresentada em que aponta excesso de execução no valor de R$ 34.057,30 (trinta e quatro mil, cinquenta e sete reais e trinta centavos). O TJDFT deu parcial provimento ao agravo de instrumento do ente público, ficando consignado que, interrompido o prazo prescricional na data da deflagração do cumprimento coletivo de sentença, aproveitando a interrupção os substituídos pelo sindicato, o prazo prescricional incidente se reinicia, pela metade, da data da interrupção ou do último ato do processo. O recurso especial interposto foi inadmitido.
+II - Consoante pacífica jurisprudência desta Corte, o ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais. Confira- se: AgInt no AREsp n. 1.238.993/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 1º/3/2021, DJe 8/3/2021; AgInt no AgInt no AREsp n. 1.074.006/MS, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 12/6/2018, DJe 20/6/2018).
+III - Também o entendimento de que, no curso do processo, o prazo prescricional permanece suspenso, voltando a correr apenas a partir do último ato processual da causa interruptiva, é objeto de jurisprudência pacífica e atual desta Corte. Confira-se: AgInt no REsp n. 1.966.838/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022.
+IV - Além disso, o Tribunal a quo, às fls. 388-395, consignou que o Distrito Federal, nos autos da execução coletiva, praticou ato inequívoco de reconhecimento do direito do ora exequente, de modo que, independentemente de a referida execução coletiva promovida pelo sindicato ter sido atingida ou não pela prescrição, isso não influenciaria o presente cumprimento individual de sentença, uma vez que houve ato inequívoco que interrompeu a prescrição.
+V - Além disso, ainda que se considere a retomada do prazo prescricional pela metade, como acertadamente explicitado pela Corte de origem, "a agravada postulara sua desistência nos autos do cumprimento de sentença no dia 06.06.2019 9 , e ajuizara o presente cumprimento individual em 04.12.2019, não sobejando possível se afirmar o implemento da prescrição, sustentado pelo agravante" (fl. 390). Assim, tendo o ora exequente iniciado o cumprimento individual de sentença apenas seis meses após o reinício da fluência do prazo prescricional, não há que se falar em prescrição da pretensão executória.
+VI - Ademais, para rever tal posição, mormente acerca do ato inequívoco de reconhecimento do direito do exequente - premissa contra a qual se insurge o agravante - e, ainda, quanto ao respeito ou não do prazo prescricional, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios constantes dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VII - Agravo interno improvido. (AgInt no REsp 1.992.593/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 5/10/2022)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. INTERRUPÇÃO. OCORRÊNCIA.
+1. O Tribunal de origem rechaçou a ocorrência da prescrição para o cumprimento individual de sentença assentado nos seguintes fundamentos: a) a execução coletiva interrompeu o prazo prescricional para o exercício da pretensão individual; b) o STJ não limitou a interrupção da prescrição exclusivamente aos casos em que, no bojo da execução coletiva, houver discussão a respeito da legitimidade do sindicato e c) o desmembramento das execuções coletivas foi determinado pelo magistrado para evitar tumulto processual, de modo que os substituídos não podem ser prejudicados por essa determinação.
+2. Consoante pacífica jurisprudência desta Corte, "a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento.
+Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, rel. Ministro Humberto Martins, Corte Especial, DJe 18/06/2019).
+3. O entendimento de que a propositura da execução coletiva interrompe a contagem do prazo prescricional para a execução individual não está adstrito às hipóteses em que haja discussão sobre a legitimidade do sindicato. Precedentes.
+4. Agravo interno desprovido. (AgInt no REsp 2.003.355/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 3/10/2022)
+Diante do exposto, dou provimento ao Agravo Interno para conhecer do Agravo para não conhecer do Recurso Especial.
+É como voto.
