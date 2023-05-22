@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que a Corte de origem manteve afastado o redutor do tráfico privilegiado, por entender que a quantidade das drogas apreendidas - 3 tijolos de maconha (1.183,45g), 3 porções de crack (114,94g), 34 micro tubos do tipo eppendorf de cocaína (12,77g) e um saco plástico de cocaína (832,54g), bem como as circunstâncias do delito (apreensão de petrechos do tráfico), não deixam dúvidas quanto a habitualidade criminosa do agente. Portanto, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS HENRIQUE DE MORAIS SOUZA, de decisão na qual não conheci do habeas corpus. Contudo, concedi a ordem de ofício, para fixar o regime inicial semiaberto para início do cumprimento da sanção reclusiva (e-STJ, fls. 70-73).
+A defesa reitera a necessidade de reconhecimento do tráfico privilegiado.
+Aduz que, em julgamento análogo (HC 750.073/SP), decidiu-se que "a quantidade de entorpecentes, aliado ainda a petrechos (balança, ependorff"s, dentre outros) não comprovam qualquer dedicação à atividade criminosa, mas apenas demonstram a própria prática do crime de tráfico de drogas." (e-STJ, fl. 82)
+Argumenta que o réu "possui apenas 21 anos de idade (possuía 20 anos na data dos fatos), é primário e possui bons antecedentes, não possuindo nenhum registro criminal e possui ocupação lícita consistente em exercer a função de servente de pedreiro na empresa LUIZ CARLOS ROJANO FILHO 41383843830, CNPJ 34.173.031/0001-66." (e-STJ, fl. 84)
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, observa-se que a Corte de origem manteve afastado o redutor do tráfico privilegiado, por entender que a quantidade das drogas apreendidas - 3 tijolos de maconha (1.183,45g), 3 porções de crack (114,94g), 34 micro tubos do tipo eppendorf de cocaína (12,77g) e um saco plástico de cocaína (832,54g), bem como as circunstâncias do delito (apreensão de petrechos do tráfico), não deixam dúvidas quanto a habitualidade criminosa do agente. Portanto, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+O agravo não merece prosperar.
+A decisão recorrida, a seguir transcrita, deve ser mantida pelos seus próprios fundamentos:
+" ..
+De acordo com o § 4º do art . 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, observa-se que a Corte de origem manteve afastada a minorante, por entender que a quantidade das drogas apreendidas - 3 tijolos de maconha (1.183,45g), 3 porções de crack (114,94g), 34 microtubos do tipo eppendorf de cocaína (12,77g) e um saco plástico de cocaína (832,54g), bem como as circunstâncias do delito (apreensão de petrechos do tráfico), não deixam dúvidas quanto a habitualidade criminosa do agente.
+Desse modo, assentado pelas instâncias antecedentes, soberanas na análise dos fatos, que o réu é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+" ..  CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI DE DROGAS. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no § 4º do artigo 33 da Lei 11.343/2006, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; d) não integre organização criminosa.
+2. No caso, revela-se inviável a aplicação da aludida causa especial de diminuição, tendo em vista que as instâncias de origem concluíram, fundamentadamente, com esteio nas provas acostadas aos autos, notadamente nas circunstâncias em que se deu o flagrante, na confissão parcial do corréu, e na quantidade de entorpecentes apreendida, que se dedica a atividades criminosas. Precedentes.
+ ..  2. Habeas corpus não conhecido." (HC 384.936/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017)
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES.
+CONDENAÇÃO.  .. . CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE A ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO- PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..  3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.
+11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..  Habeas corpus denegado." (HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017)
+ .. ." (e-STJ, fls. 70-73)
+Com efeito, a apreensão de variada e significativa quantidade de droga (1.183,45 gramas de maconha, 114,94gramas de cocaína na forma de crack, 832,54 gramas de cocaína em pó e mais 12,77gramas de cocaína separada em eppendorfs) e de petrechos para o tráfico (in casu, balança de precisão e microtubos vazios) são suficientes para afastar o reconhecimento da figura do tráfico privilegiado.
+Nesse sentido, confiram-se, ainda, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE NÃO SE TRATAVA DE TRAFICANTE EVENTUAL. NÃO ATENDIMENTO DAS DIRETRIZES EXIGIDAS PARA O RECONHECIMENTO DO PRIVILÉGIO. REEXAME FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA PROCESSUAL ELEITA. PRECEDENTES. PENA PRIVATIVA DE LIBERDADE INFERIOR A OITO ANOS DE RECLUSÃO. FIXAÇÃO DO REGIME INICIAL FECHADO. POSSIBILIDADE. EXPRESSIVA QUANTIDADE DE DROGAS APREENDIDAS. GRAVIDADE CONCRETA DA CONDUTA. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. EXPRESSA VEDAÇÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Nos termos do art. 33, § 4º da Lei n.º 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- A incidência da minorante do tráfico privilegiado foi denegada porque as instâncias de origem reconheceram expressamente que o paciente se dedicava à atividade criminosa relacionada ao tráfico de drogas, haja vista não apenas a quantidade, variedade e forma de acondicionamento dos entorpecentes apreendidos, mas principalmente pelo fato de haver sido encontrado em sua residência petrechos de mercancia, quais sejam duas balanças de precisão, saco com pinos vazios, três rolos de plástico, além de faca e colher com resquícios de cocaína (e-STJ, fl. 23), havendo ele informado aos policiais que "prestava esse serviço" há cerca de três meses (e-STJ, fl. 24); tudo isso a indicar que ele não se tratava de traficante eventual, não fazendo, portanto, jus à referida minorante.
+- Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+ ..
+- Agravo regimental não provido."
+(AgRg no HC n. 774.095/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. DEDICAÇÃO DO RÉU A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+2. Na espécie, a suscitada minorante foi afastada mediante fundamentação idônea, baseada não só na elevada quantidade de entorpecente, mas, também, nos petrechos apreendidos e no contexto circunstancial analisado com apoio no suporte fático-probatório dos autos. Nesse contexto, para que fosse possível o acolhimento da pretensão recursal, seria imprescindível o reexame dos elementos fático-probatórios dos autos, tarefa para a qual não se presta o habeas corpus.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 767.135/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ante o exposto, nego provimento ao agravo.
+É o voto.
