@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 486/528) interposto contra decisão desta relatoria que negou provimento ao recurso especial (e-STJ fls. 479/483).
+Em suas razões, o agravante alega que foi cumprido o prequestionamento e que no caso não incide a Súmula n. 211 do STJ.
+Ressalta que "atualmente resta superado o chamado "prequestionamento numérico", a dizer: a desnecessidade de no acórdão objeto do recurso em apontar textualmente o artigo da lei infraconstitucional que foi violada" (e-STJ fl. 489).
+Quanto à aplicação da Súmula n. 7 do STJ, afirma não ser necessário revolver matéria fático-probatória, pois "o viés obrigacional textualmente inserido no Acórdão traduz nítida obrigação pessoal e não, efetivamente, de natureza propter rem" (e-STJ fl. 491).
+Reitera a tese de violação dos arts. 18, VI, e 26 da Lei n. 6.766/1979, 421, 422, 476 e 884 do CC/2002 e 373, I, 926 e 927 do CPC/2015, sustentando que: (i) as taxas cobradas estão desvinculadas dos serviços prestados, e (ii) os contratos não estão registrados na matrícula imobiliária junto ao Registro de Imóveis, não vinculando o adquirente à cobrança das despesas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Impugnação apresentada (e-STJ fls. 531/551).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS DE MANUTENÇÃO CONDOMINIAL. ASSOCIADO QUE ANUIU À COBRANÇA NO MOMENTO DA AQUISIÇÃO DOS LOTES. REEXAME DO CONJUNTO FÁTICO -PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. SÚMULA N. 211 DO STJ. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pelo recorrente, quanto à impossibilidade de cobrança de taxa de manutenção e conservação de loteamento, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 479/483):
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 304):
+Cobrança - Despesas de manutenção - Ação procedente - Decisão mantida - Associado que anuiu com a cobrança na ocasião da aquisição dos lotes - Questão apreciada à luz do Tema 492 do Supremo Tribunal Federal, não aplicada ao caso, porque o associado anuiu com a cobrança na ocasião da aquisição dos lotes - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 420/424).
+No recurso especial (e-STJ fls. 358/401), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega violação dos arts. 18, VI, e 26 da Lei n. 6.766/1979, 421, 422, 476 e 884 do CC/2002 e 373, I, do CPC/2015, suscitando a impossibilidade de cobrança de taxa de manutenção e conservação de loteamento.
+Afirma, nesse contexto, que (e-STJ fl. 367):
+A petição inicial veio instruída apenas com os contratos de "promessa de cessão e transferência de direitos e obrigações de compromisso particular de venda e compra Jardim São Luis", sendo que tais contratos não estão registrados na matrícula imobiliária junto ao Registro de Imóveis, motivo polo qual forçoso reconhecer que não se trata de obrigação de natureza propter rem, ou seja, são contratos de gaveta (vide fls. 44/72).
+Sustenta, ainda, que (e-STJ fls. 370/371):
+ ..  à toda evidência que Venerando Acórdão violou flagrantemente o princípio da autonomia da vontade privada (artigo 421 do CC), da boa fé contratual (artigo 422 do CC) e o preceito da exceção do contrato não cumprido, (positivada no artigo 476 do CC), visto que não houve e contraprestação do serviços que legitimaria tais cobranças, sob o título de enriquecimento sem causa.
+Indica afronta aos arts. 926 e 927 do CPC/2015, tendo em vista o desrespeito à força vinculante do Tema n. 882 do STJ.
+Busca, em suma, o provimento do recurso especial, para (e-STJ fl. 400):
+ ..  reformar o acórdão proferido pelo Juízo a quo, nos termos do artigo 105, inciso III, "a" e "c" da CF/88, seja admitido o presente recurso, a fim de que seja reconhecida da violação a lei infraconstitucional bem como , o dissidio jurisprudencial.
+Foram apresentadas contrarrazões (e-STJ fls. 428/449).
+Juízo positivo de admissibilidade (e-STJ fls. 466/467).
+É o relatório.
+Decido.
+I - Da cobrança de despesas de manutenção
+O Tribunal de origem reconheceu o cabimento da cobrança pelas despesas de manutenção pela associação recorrida, nos seguintes fundamentos (e-STJ fls. 305/308):
+2. A associação cobra do réu, proprietário dos lotes nº 01, 02, 03, 04, 10, 11, 12 e 13 da quadra 07 do Jardim São Luis, despesas de manutenção no período de junho de 2013 até março de 2016, mais as parcelas subsequentes.
+Já decidiu o Supremo Tribunal Federal, Tema 492, que: "É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis.
+Embora mereça respeito o entendimento de que os proprietários de imóveis que não integram ou não aderem à associação de moradores não estariam obrigados ao pagamento compulsório de despesas ou de outras contribuições, referidas nos recursos especiais 1280871/SP e 1439163/SP, não existem elementos que comprovem estar a cobrança desvinculada dos serviços prestados pela autora e, além disso, o réu anuiu expressamente com a cobrança (conferir in fine fls. 42, 46, 50, 55, 60, 65, 69, e 73:
+ ..
+Deve prevalecer a tese que reconhece a legitimidade da cobrança mesmo aos proprietários não filiados à associação que administra o loteamento.
+Há tempos decidiu o Superior Tribunal de Justiça (REsp n.490.419-SP, de relatoria da Ministra Nancy Andrigui j.10/06/2003) que "o proprietário do lote integrante do loteamento aberto ou fechado, sem condomínio formalmente instituído, cujos moradores constituíram sociedade para prestação de serviço de conservação, limpeza e manutenção, deve contribuir com o valor correspondente ao rateio das despesas daí decorrentes, pois não se afigura justo nem jurídico que se beneficie dos serviços prestados e das benfeitorias realizadas, sem a devida contraprestação".
+Não está em jogo a liberdade de associação e sim o princípio que veda o enriquecimento sem causa, sendo possível o ajuizamento da ação quando o morador se beneficia dos serviços prestados, como: ronda, monitoramento por câmeras, limpeza, manutenção de ruas, valas, correspondências, controle de portaria, pagamento de empregados (fls. 290).
+A associação foi constituída em 20.03.1999 e os lotes adquiridos posteriormente, de forma que o autor já estava ciente da forma de gestão do loteamento na ocasião da aquisição.
+ ..
+Como não é possível que o proprietário de lotes se beneficie de serviços de seu interesse, que inclusive valorizam o seu imóvel, sem contraprestação, porque onera os demais proprietários do loteamento, a hipótese é de reconhecimento da legalidade da cobrança.
+Para alterar tais fundamentos e reconhecer a inexistência de anuência com a cobrança, bem como a comprovação de que as taxas estão desvinculadas dos serviços prestados, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ademais, aduz a parte recorrente que, por força do disposto nos arts. 18, VI, e 26 da Lei n. 6.766/1979, em nenhum momento foi aventada a existência de contrato padrão devidamente registrado na matrícula imobiliária, o que não vincula os adquirentes nem seus sucessores às obrigações assumidas.
+Há nesta Corte Superior decisões no sentido de que a existência de contrato padrão apresenta relevante diferença entre o que decidido no Recurso Especial repetitivo n. 1.439.163/SP, que não examinou a referida hipótese.
+Nesse contexto, importa consignar que esta Corte perfilha o entendimento de que é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato padrão levado a registro no respectivo cartório ao qual aderiu o adquirente.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE OBRIGAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚM. 211/STJ. LOTEAMENTO. OBRAS E SERVIÇOS DE MANUTENÇÃO E/OU INFRAESTRUTURA. CONTRATO-PADRÃO SUBMETIDO A REGISTRO IMOBILIÁRIO. CLÁUSULA QUE AUTORIZA A COBRANÇA DAS DESPESAS. HIPÓTESE NÃO ACOBERTADA PELA TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO. JULGAMENTO: CPC/73.
+1. Ação declaratória de inexistência de obrigação ajuizada em 10/02/2009, da qual foi extraído o presente recurso especial, interposto em 05/06/2014 e atribuído ao gabinete em 25/08/2016.
+2. O propósito recursal é dizer sobre a validade da cobrança de contribuição vinculada à prestação de serviços de manutenção, realizada pela administradora do loteamento em que situados os imóveis dos recorrentes.
+ ..
+6. Hipótese dos autos que se distingue da acobertada pela tese firmada no REsp 1.439.163/SP, julgado pela sistemática dos recursos repetitivos, porque: (i) a recorrida é a própria loteadora do solo, que assumiu a administração do loteamento, e, portanto, não tem natureza jurídica de associação de moradores; (ii) há expressa autorização contratual para a cobrança de despesas administrativas; (iii) a escritura pública de compra e venda dos imóveis faz referência ao contrato-padrão arquivado no registro de imóveis, que autoriza expressamente tal cobrança.
+7. O art. 18, VI, da Lei 6.766/1979, que dispõe sobre o parcelamento do solo urbano, exige que o loteador submeta o projeto de loteamento ao registro imobiliário, acompanhado, dentre outros documentos, do exemplar do contrato-padrão de promessa de venda, ou de cessão ou de promessa de cessão, do qual constarão, obrigatoriamente, as indicações previstas no seu art. 26 e, eventualmente, outras de caráter negocial, desde que não ofensivas dos princípios cogentes da referida lei.
+8. É válida a estipulação, na escritura de compra e venda, espelhada no contrato-padrão depositado no registro imobiliário, de cláusula que preveja a cobrança, pela administradora do loteamento, das despesas realizadas com obras e serviços de manutenção e/ou infraestrutura, porque dela foram devidamente cientificados os compradores, que a ela anuíram inequivocamente.
+9. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp 1.569.609/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/5/2019, DJe de 9/5/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ADMINISTRADORA DE LOTEAMENTO URBANO. PRESTAÇÃO DE SERVIÇOS. TAXAS DE MANUTENÇÃO. CONTRATO-PADRÃO. ADQUIRENTES POSTERIORES. VINCULAÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido da validade da estipulação, na escritura de compra e venda, espelhada no contrato-padrão depositado no registro imobiliário, de cláusula que preveja a cobrança, pela administradora do loteamento, das despesas realizadas com obras e serviços de manutenção e/ou infraestrutura, porque dela foram devidamente cientificados os compradores, que com ela anuíram inequivocamente. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.963.952/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.)
+Na hipótese dos autos, no entanto, não é possível extrair dos fatos delineados pelo acórdão recorrido a existência de contrato padrão que tenha sido levado a registro.
+Com efeito, limita-se o Tribunal a quo a afirmar que o associado, ora recorrente, anuiu à cobrança na época da aquisição dos lotes, bem como que a taxa de manutenção está devidamente vinculada aos serviços prestados pela associação recorrida.
+Sendo assim, no que diz respeito à alegada violação dos arts. 18, IV, e 26 da Lei n. 6.766/1979, o conteúdo normativo de tais dispositivos não foi apreciado pelo Tribunal de origem, apesar da oposição de embargos declaratórios.
+Portanto, é inafastável a incidência da Súmula n. 211 do STJ.
+Da mesma forma, observa-se que em nenhum momento foi discutida nos autos a tese de violação dos arts. 926 e 927 do CPC/2015, sendo impossível a análise dos referidos dispositivos por falta de prequestionamento.
+Ressalta-se, ainda, que é pacífico no âmbito desta Corte Superior o entendimento de que a admissão do prequestionamento ficto previsto no art. 1.025 do CPC/2015 exige que o recurso especial aponte violação do art. 1.022 do CPC/2015, providência não adotada pelo recorrente.
+II - Do dissídio jurisprudencial
+Destaque-se que "o dissídio jurisprudencial deve ser comprovado e demonstrado na forma preceituada pelos arts. 266, § 1º, e 255, § 1º, "a" e "b", e § 2º, do Regimento Interno do STJ, c/c o art. 546, parágrafo único, do CPC", sendo certo que "decisão monocrática não serve como paradigma para a demonstração do dissídio jurisprudencial" (EDcl nos EREsp n. 1.441.900/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 14/10/2015, DJe 19/10/2015).
+Assim, não prosperam as alegações constantes no recurso.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A irresignação não prospera.
+Inicialmente, o Superior Tribunal de Justiça entende pela validade da estipulação, na escritura de compra e venda registrada no cartório imobiliário, de cláusula estabelecendo a cobrança, pela administradora do loteamento, de despesas realizadas com obras e serviços de manutenção e/ou infraestrutura, porque dela seriam devidamente cientificados os compradores em razão do registro.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ADMINISTRADORA DE LOTEAMENTO URBANO. PRESTAÇÃO DE SERVIÇOS. TAXAS DE MANUTENÇÃO. CONTRATO-PADRÃO. ADQUIRENTES POSTERIORES. VINCULAÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido da validade da estipulação, na escritura de compra e venda, espelhada no contrato padrão depositado no registro imobiliário, de cláusula que preveja a cobrança, pela administradora do loteamento, das despesas realizadas com obras e serviços de manutenção e/ou infraestrutura, porque dela foram devidamente cientificados os compradores, que com ela anuíram inequivocamente. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento
+(AgInt no REsp n. 1.963.952/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.)
+No caso, o acórdão estabeleceu que o recorrente anuiu à cobrança de taxa de manutenção quando da aquisição dos lotes, bem como que se beneficiou dos serviços prestados.
+Veja-se (e-STJ fls. 307/308):
+Deve prevalecer a tese que reconhece a legitimidade da cobrança mesmo aos proprietários não filiados à associação que administra o loteamento.
+Há tempos decidiu o Superior Tribunal de Justiça (REsp n.490.419-SP, de relatoria da Ministra Nancy Andrigui j.10/06/2003) que "o proprietário do lote integrante do loteamento aberto ou fechado, sem condomínio formalmente instituído, cujos moradores constituíram sociedade para prestação de serviço de conservação, limpeza e manutenção, deve contribuir com o valor correspondente ao rateio das despesas daí decorrentes, pois não se afigura justo nem jurídico que se beneficie dos serviços prestados e das benfeitorias realizadas, sem a devida contraprestação".
+Não está em jogo a liberdade de associação e sim o princípio que veda o enriquecimento sem causa, sendo possível o ajuizamento da ação quando o morador se beneficia dos serviços prestados, como: ronda, monitoramento por câmeras, limpeza, manutenção de ruas, valas, correspondências, controle de portaria, pagamento de empregados (fls. 290).
+A associação foi constituída em 20.03.1999 e os lotes adquiridos posteriormente, de forma que o autor já estava ciente da forma de gestão do loteamento na ocasião da aquisição.
+ ..
+Como não é possível que o proprietário de lotes se beneficie de serviços de seu interesse, que inclusive valorizam o seu imóvel, sem contraprestação, porque onera os demais proprietários do loteamento, a hipótese é de reconhecimento da legalidade da cobrança.
+Essas ponderações foram extraídas do contexto fático-probatório e de termos contratuais, ensejando a aplicação da Súmula n. 7 do STJ.
+Ademais, a tese recursal de inexistência de contrato padrão devidamente registrado na matrícula imobiliária não foi objeto de análise no julgamento da segunda instância. Embora opostos embargos de declaração, não foi suscitada ofensa ao art. 1.022 do CPC/2015 no apelo especial, portanto sobre ela recai a ausência de prequestionamento (Súmula n. 211 do STJ).
+Por fim, sobre a divergência jurisprudencial, destaque-se que "o dissídio jurisprudencial deve ser comprovado e demonstrado na forma preceituada pelos arts. 266, § 1º, e 255, § 1º, "a" e "b", e § 2º, do Regimento Interno do STJ, c/c o art. 546, parágrafo único, do CPC", sendo certo que "decisão monocrática não serve como paradigma para a demonstração do dissídio jurisprudencial" (EDcl nos EREsp n. 1.441.900/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 14/10/2015, DJe 19/10/2015).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
