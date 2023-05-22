@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Tiago Lopes, contra decisão singular por mim proferida, às fls. 1.099/1.103, em que não conheci do habeas corpus.
+O agravante reitera a tese de que a sua conduta não deveria ser caracterizada como falta grave.
+Diante disso, busca a reconsideração do decisum ou o provimento do agravo regimental, para que seja reformada a decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O afastamento da falta grave praticada pelo apenado (art. 50, V, c.c art. 118, I, ambos da Lei de Execução Penal - LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O agravo não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Na hipótese, ao manter o reconhecimento da falta grave, asseverou o Tribunal a quo:
+"Inicialmente, convém anotar que não houve qualquer violação aos princípios constitucionais nos autos de origem, já que restaram observados o contraditório e a ampla defesa, oportunizando-se, inclusive, a oitiva do apenado em juízo e a manifestação de sua defesa técnica.
+Dito isso, deve-se reconhecer que há supedâneo bastante ao reconhecimento da falta grave, a despeito do entendimento manifestado pelo Juízo a quo. Como visto, foram detectadas várias violações de Tiago Lopes às condições estipuladas para o resgate da pena em prisão domiciliar e monitoramento eletrônico, em especial ao dever de manter o aparelho carregado e de manter o número de telefone informado disponível para contato a qualquer momento.
+A nosso juízo, não foi oferecida justificativa plausível para as repetidas violações. O alegado uso de medicamentos controlados não foi demonstrado e, ainda que corresponda à verdade, sequer poderia justificar, por si só, o descarregamento reiterado e duradouro do dispositivo. Ademais, a suposta perda involuntária do carregador, além de não explicar a oscilação de períodos de carregamento e descarregamento do aparelho, não foi comunicada pelo reeducando de imediato às autoridades, denotando, no mínimo, negligência incompatível com o desfrute da benesse." (fl. 1.002)
+Diante da fundamentação apresentada, o afastamento da falta grave praticada pela apenada demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE (POSSE DE APARELHO CELULAR E DESOBEDIÊNCIA). ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 3. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o depoimento dos agentes penitenciários foi coeso a respeito do ato de indisciplina do ora paciente que, visto portando aparelho celular, recusou-se a entregá-lo aos servidores da penitenciária, quando solicitado a tanto, saindo rapidamente do local em direção ao pátio.
+4. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave  .. . A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral.
+(HC 391.170/SP, Relator Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+5. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente.
+6. Ainda que assim não fosse, a jurisprudência desta Corte tem-se orientado no sentido de que a eventual análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Precedentes.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. POSSE DE ENTORPECENTE. MATERIALIDADE ATESTADA POR EXAME PERICIAL. ABSOLVIÇÃO. NECESSIDADE DE EXAME APROFUNDADO DE PROVA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É imprescindível o laudo toxicológico para se aferir a materialidade delitiva, mormente no que se refere às substâncias entorpecentes que reclamam a sua toxicidade e a especificação de sua essência, a fim de se evitar uma condenação fundada em meros indícios.
+2. A falta do laudo toxicológico, contudo, pode ser suprida com outros elementos que confirmem o fato, ou seja, com um conjunto probatório independente que comprove a materialidade do delito.
+3. Na hipótese, consta do acórdão recorrido que, embora a prova técnica não tenha sido juntada ao PEC, ela foi devidamente realizada e anexada ao Boletim de Ocorrência n. 00481.2021.0004202, concluindo o exame pericial que "a erva periciada, descrita nos itens 1, 2 e 3, trata-se de Cannabis sativa, substância vegetal da família Cannabaceae, conhecida vulgarmente como Maconha, apresentando o princípio ativo Tetrahidrocannabinol (THC)".
+4. A alegação da defesa de que não tinha conhecimento da informação e de que referido laudo não está acessível não foi objeto de análise pelo Tribunal a quo, sendo certo que a apreciação, neste momento, é inviável, sob pena de indevida supressão de instância.
+5. Rever o entendimento do Tribunal a quo para afastar a falta grave imputada ao paciente demandaria, necessariamente, amplo reexame da matéria fático-probatória, procedimento incompatível com a estreita via do habeas corpus.
+Agravo regimental a que se nega provimento.
+(AgRg no HC n. 781.774/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. NULIDADE. VIOLAÇÃO À AMPLA DEFESA. AUSÊNCIA DE OITIVA JUDICIAL. AGRAVANTE ASSISTIDO POR ADVOGADO NA OITIVA ADMINISTRATIVA. DEFENSOR DO AGRAVANTE PRESENTE NA OITIVA DE TESTEMUNHAS. NÃO DEMONSTRAÇÃO DE PREJUÍZO. INDIVIDUALIZAÇÃO SUFICIENTE DA CONDUTA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. PROVAS SUFICIENTES. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO WRIT. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se vislumbra violação ao contraditório ou à ampla defesa, visto que o agravante foi devidamente assistido por advogado durante seu interrogatório em sede administrativa, estando o defensor também presente durante a oitiva das testemunhas, não logrando êxito a defesa em demonstrar eventual prejuízo.
+2. A jurisprudência desta Corte Superior entende que, para o reconhecimento de nulidades ocorridas ao longo da ação penal, deve ser demonstrado o efetivo prejuízo" (HC n. 557.224/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/8/2022, DJe de 19/8/2022).
+3. Apesar de os fatos que ensejaram o PAD dizerem respeito a um universo de indivíduos, a análise do caso foi suficientemente individualizada, de forma que não há como se afastar a imputação da falta grave, nos termos do art. 50, I e VI, combinado com o art. 39, II e V, da Lei de Execução Penal.
+4. Maiores incursões, com o propósito de afastar os fundamentos apontados pelo Tribunal de origem para o reconhecimento da infração ou absolvição do reeducando, demandariam o reexame de matéria fático-probatória, providência inviável na seara restrita do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 778.350/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
