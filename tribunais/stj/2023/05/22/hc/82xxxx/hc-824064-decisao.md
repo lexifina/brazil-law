@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JULIANO DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado à pena de 16 anos e 8 dias de reclusão, em regime fechado, mais pagamento de 1.400 dias-multa, como incurso nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu provimento ao apelo defensivo para reduzir a sanção para 14 anos e 4 dias de reclusão e pagamento de 2.400 dias-multa.
+Neste habeas corpus, a defesa alega ser desproporcional o aumento da pena-base com fundamento na quantidade de droga - uma vez que se trata de 126 porções de crack e 13 de cocaína.
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, observa-se que este HC constitui mera reiteração do pedido formulado no HC 819.112/MG, de minha relatoria, que não foi conhecido em 2/5/2023 - isso porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação Criminal Nº1.0116.19.000796-7/001), o que constitui óbice ao seu conhecimento.
+Na oportunidade, consignei:
+Dentro do sistema trifásico adotado pelo legislador, a pena-base será fixada conforme a análise das circunstâncias judiciais previstas no art. 59 do CP. Tratando-se de condenado pelo delito de Tráfico de Drogas, o art. 42 da Lei n. 11.343/2006 estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga apreendida, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, segundo se verifica, a instância antecedente valorou negativamente a quantidade e a natureza das drogas (mais de 100 porções de cocaína), os maus antecedentes do acusado e sua conduta social (pessoa violenta, responsável pela cobrança de dívidas), para exasperar as sanções iniciais dos delitos de tráfico de entorpecentes e de associação para esse fim na fração de 1/2.
+Vale lembrar que esta Corte, em diversos julgados, já se manifestou que a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como no caso em apreço, (HC 298.050/RS, Minha Relatoria, QUINTA TURMA, julgado em 21/2/2017, DJe 3/3/2017).
+Especificamente quanto à conduta Social este Tribunal Superior entente que "constitui o comportamento do réu na comunidade, ou seja, entre a família, parentes e vizinhos. Não se vincula ao próprio fato criminoso, mas à inserção do agente em seu meio social, não se confundindo com seu modo de vida no crime" (REsp 1.405.989/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/8/2015, DJe 23/9/2015).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
