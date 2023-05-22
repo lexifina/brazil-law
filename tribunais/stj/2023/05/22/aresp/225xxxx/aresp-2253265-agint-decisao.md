@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por José Carlos Garcia contra decisão monocrática da Presidência desta Corte Superior que não conheceu do agravo em recurso especial.
+Infere-se dos autos que a Vigésima Sexta Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento à apelação interposta pelo ora agravante, conforme ementa abaixo colacionada (e-STJ, fl. 105):
+Compra e venda de bem móvel - Embargos de terceiro - Justiça gratuita deferida ao réu com efeito "ex nunc" - Cominação dos encargos sucumbenciais ao requerido com respaldo no princípio da causalidade - Necessidade - Apelo provido em parte.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente indicou divergência jurisprudencial e violação aos arts. 11, 98, § 3º, 99, § 1º, 489, II, § 1º e seu inciso IV, 1.022, parágrafo único e seu inciso II, e 1.025 do CPC/2015.
+Sustentou a ocorrência de negativa de prestação jurisdicional.
+Afirmou que o benefício da gratuidade de justiça deveria ter sido deferido com efeitos ex tunc, considerando que foi requerido na primeira oportunidade de manifestação nos autos.
+Alegou que não deu causa aos embargos de terceiro, razão pela qual seria incabível a sua condenação ao pagamento das verbas sucumbenciais.
+O Tribunal de origem não admitiu o processamento do apelo especial com base: (i) na ausência de negativa de prestação jurisdicional; (ii) na falta de vulneração aos dispositivos legais apontados; (iii) no enunciado sumular n. 7 do STJ; e (iv) na ausência de cotejo analítico.
+O insurgente então interpôs o agravo em recurso especial.
+Às fls.186-188 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do recurso, por entender que a parte teria deixado de impugnar um dos fundamentos da decisão agravada.
+Em suas razões de agravo interno, o recorrente sustenta, em síntese, que teria impugnado especificamente a incidência do verbete n. 7 da Súmula do STJ.
+Brevemente relatado, decido.
+No caso, observo que a decisão do TJSP que inadmitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, a fim de admitir o agravo, e passo à análise do apelo especial.
+Ao que se depreende, nos embargos de declaração opostos na origem (e-STJ, fls. 110-114), o demandante arguiu que: (i) teria pleiteado a gratuidade de justiça na primeira oportunidade, devendo a concessão do benefício retroagir à referida data; e (ii) não poderia ser condenado a arcar com os ônus sucumbenciais, pois, no momento do pedido da penhora, o primeiro interessado teria alienado o bem a terceiro de má-fé, oportunidade em que não era possível saber da alienação sucessiva à ora agravada.
+Todavia, constata-se que a Corte de origem não se pronunciou de forma fundamentada a respeito das referidas questões suscitadas, deixando de expor as razões pelas quais deferiu a benesse pleiteada apenas a partir da prolação do acórdão estadual, além de não se manifestar expressamente sobre a segunda alegação, referente aos ônus sucumbenciais, o que caracteriza ofensa ao art. 1.022 do CPC/2015.
+Nesse sentido, deve ser complementado o acórdão proferido nos embargos de declaração para que sejam supridos os vícios apontados , sob pena de o recurso especial não poder ser julgado neste Superior Tribunal de Justiça, nesse enfoque, à míngua do indispensável prequestionamento.
+Sobre o tema, vejam-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE RECONHECEU A VIOLAÇÃO AOS ARTS. 489, § 1º, III e IV, e 1.022, II, DO CPC. QUESTÕES NÃO ANALISADAS PELA CORTE DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. O Tribunal de origem, não obstante instado a se manifestar acerca da inexistência de medida de contracautela e da incompetência absoluta do juízo de primeiro grau, quedou-se silente sobre tal argumentação, rejeitando os pertinentes aclaratórios, incorrendo em franca violação aos arts. 489, § 1º, III e IV, e 1.022, II, do CPC, porquanto não prestada a jurisdição de forma integral.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.870.349/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INAPLICABILIDADE DA SÚMULA 7 DO STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022 DO CPC/2015. OMISSÃO, NO ACÓRDÃO RECORRIDO, SOBRE QUESTÕES RELEVANTES À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADAS NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. RECURSO ESPECIAL CONHECIDO E PROVIDO. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Na hipótese dos autos, o Tribunal de origem, a despeito da oposição dos Embargos de Declaração, não se pronunciou sobre a alegada disponibilidade dos valores depositados, ao tempo do requerimento de levantamento, tampouco sobre a aplicabilidade do art. 908 do CPC/2015, invocado no Agravo de Instrumento. Nesse contexto, impõe-se a confirmação da decisão que, em face da reconhecida violação aos arts. 489 e 1.022 do CPC/2015, deu provimento ao Recurso Especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Embargos de Declaração, com o expresso enfrentamento das questões neles suscitadas.
+VII. Agravo interno improvido.
+(AgInt no REsp n. 1.945.739/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+Ante o exposto, conheço do agravo, em juízo de retratação, para dar provimento ao recurso especial, a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. IMPUGNAÇÃO À DECISÃO DE ADMISSIBILIDADE. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL ESTADUAL, DE QUESTÕES SUSCITADAS EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS QUE SE IMPÕE. 3. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
