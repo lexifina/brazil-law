@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 439/448) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 434/436).
+Em suas razões, a parte alega não ser caso de incidência da Súmula n. 7 do STJ, destacando, em síntese, que "o artigo 476 do Código Civil, sob exegese lógica, não pode atingir o devedor de obrigação que não pode ser cumprida temporariamente por decisão judicial" (e-STJ fl. 446).
+Insurge-se ainda contra a majoração dos honorários recursais.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 452/456), requerendo a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. HONORÁRIOS RECURSAIS. REVISÃO. DESCABIMENTO. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto à inaplicabilidade da exceção do contrato não cumprido, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Correta a decisão que, ao negar provimento ao agravo nos próprios autos, majorou em 20% (vinte por cento) o valor dos honorários advocatícios, nos estritos limites do art. 85, § 11, do CPC/2015, levando em conta os requisitos previstos nos incisos I a IV do § 2º do mesmo dispositivo.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 434/436):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 410/411).
+O acórdão recorrido está assim ementado (e-STJ fl. 329):
+EMENTA: APELAÇÃO CÍVEL - OBRIGAÇÃO DE FAZER - PROMESSA DE COMPRA E VENDA E PERMUTA DE BENS IMÓVEIS - OBTENÇÃO DA ESCRITURA PÚBLICA DE UM DOS IMÓVEIS OBJETO DA AVENÇA -PENDÊNCIA CONTRATUAL DA MESMA NATUREZA COM A PARTE RÉ -OBRIGAÇÕES RECÍPROCAS - EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - ART. 476 DO CÓDIGO CIVIL - PEDIDO IMPROCEDENTE.
+-Consoante disposição contida no art. 476 do Código Civil, não tendo um dos contratantes adimplido sua parte na relação contratual, não pode exigir a do outro.
+-Restando evidenciado o descumprimento contratual por parte de uma das permutantes em relação à transmissão da escritura de um dos imóveis objeto do contrato de permuta, não lhe cabe o manejo da ação de obrigação de fazer em virtude do descumprimento de obrigação da mesma natureza assumida pela parte contrária.
+Os embargos de declaração foram rejeitados (e-STJ fls. 358/365).
+No recurso especial (e-STJ fls. 368/386), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 144, 421, 422, 475 do CC/2002, sustentando, em síntese, a inaplicabilidade da exceção do contrato não cumprido.
+Segundo afirma, a aplicação da exceção de contrato não cumprido acarreta a impossibilidade de execução do contrato e que houve adimplemento substancial da obrigação da recorrente quando da outorga da escritura definitiva do apartamento, observada a devida proporcionalidade do contrato.
+Requereu ainda a concessão do benefício da justiça gratuita.
+No agravo (e-STJ fls. 415/420), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 361/364):
+Diante do contexto da avença entabulada, não obstante os argumentos defendidos pela apelante, é indiscutível que ambas as partes assumiram a obrigação de transmitir a escritura dos imóveis dados como forma de pagamento na transação sob exame, não obstante as sutilezas de cada caso.
+A respeito da vaga de garagem, de se encontrar registrada como loja comercial, aliado ao impedimento judicial lançado em sua matrícula em virtude do litígio travado entre a parte autora e terceiro (Construtora Pavinorte), não se pode admitir que ausência de prazo certo fixado na avença com a ré, para a transmissão da escritura, seja ad eternum, ou que tais circunstâncias afastem o caráter bilateral das obrigações assumidas.
+Aliás, não há como perquirir a extensão das obrigações tendo por parâmetro o valor de cada imóvel, de modo a concluir que a obrigação de a requerida transmitir a escritura referente a 50% do lote adquirido pela parte autora seja mais relevante que a obrigação daquela transmitir a escritura da loja comercial, que se consubstancia na vaga de garagem, porquanto ambas as obrigações contraídas são relevantes, eis que impedem o pleno exercício do direito de propriedade.
+Por outro lado, em que pese o fato de a apelante noticiar a demanda travada com a Construtora Pavinorte, como impeditivo para a transmissão da escritura da vaga de garagem, denota-se dos autos que a recorrente obteve êxito na demanda, todavia, referidas circunstâncias ainda não lhe autorizam promover a lavratura da escritura. Contudo, cumpre exclusivamente à apelante envidar esforços por intermédio dos instrumentos legais e processuais cabíveis para obter a efetividade no provimento judicial da demanda noticiada, para obter capacidade jurídica que lhe autorize o cumprimento da obrigação assumida, sob pena de tolher gravemente o direito de propriedade da requerida.
+Aliado a tudo isso, conforme registrado pelo douto Julgador, a testemunha ouvida em juízo, José Silvino da Silva, esclareceu em seu depoimento acerca das tratativas das partes em relação aos dois imóveis permutados, notadamente no tocante às obrigações assumidas por cada uma delas na regularização dos respectivos imóveis.
+Desse modo, não há elementos para relevar mais ou menos as obrigações assumidas no contrato de permuta em análise, notadamente a reciprocidade das obrigações assumidas, de modo que o reconhecimento diverso do proferido na r. sentença configuraria nítido privilégio de uma das partes em relação aos interesses em litígio.
+Nesse aspecto, corroborando a tese adotada na r. sentença, é cediço na jurisprudência e doutrina que, não tendo um dos contratantes adimplido sua parte na relação contratual, não pode exigir a do outro.
+A exceção de contrato não cumprido (exceptio non adimpleti contractus) se acha consagrada pelo art. 476 do atual Código Civil: (..)
+Desse modo, deixando a parte autora de cumprir sua parte da obrigação, também não poderia exigir a parte da ré.
+Ademais, observa-se que não há discussão acerca da quitação do preço assumido pela compra e venda do bem, sendo certo que a ré quitou o valor assumido, na monta de R$ 167.000,00, o que demonstra sua total boa-fé, não obstante reste a transmissão da escritura do lote dado como forma de pagamento na aquisição do apartamento, tal como a requerida, ainda que por entraves alheios à sua vontade, não promoveu a escritura da vaga de garagem.
+Todavia, só a autora detém legitimidade para buscar a solução da questão pendente perante terceiros, de modo que viabilize o cumprimento de sua obrigação, porquanto assumida contratualmente e não há como se isentar-se.
+Importa registrar, que com o advento da novel legislação civil, iluminada pelo "princípio da eticidade", a boa-fé passou a ser guia de conduta dos contratantes, obrigando uma conduta arrimada na retidão de proceder, com deveres de lealdade e solidarismo, dentre outros. Aliás, após o novo Código Civil, a boa-fé passou a ser analisada objetivamente, ou seja, não com base nas qualidades dos contratantes, mas num agir ordinário, no que efetivamente a sociedade espera da conduta do homem médio nos seus negócios habituais.(..)
+No caso em julgamento, o inadimplemento da parte autora é inconteste nos autos, o que obstaculiza que a requerida também cumpra obrigação da mesma natureza."
+Para alterar tais fundamentos e reconhecer não ser caso de incidência da exceção do contrato não cumprido, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Por fim, considerando os documentos apresentados às fls. 387/396, DEFIRO o pedido de gratuidade de justiça, nos termos dos arts. 98 do CPC/2015 e 114 do RISTJ, ressaltando que a concessão do benefício não opera efeito retroativo.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+Como visto, o TJMG reconheceu que, em razão do descumprimento contratual de uma das permutantes na transmissão de um dos imóveis objeto do contrato de permuta, não lhe cabe ingressar com a ação de obrigação de fazer em virtude do descumprimento de obrigação da mesma natureza assumida pela parte contrária.
+Concluiu dessa forma que, não tendo a parte autora, ora recorrente, adimplido sua parte na relação contratual, não pode exigir o adimplemento da parte ré, ora recorrrida, fazendo incidir a exceção do contrato não cumprido.
+Tendo o Tribunal de origem assim decidido com base nos elementos de prova, concluir diversamente atrai as Súmulas n. 5 e 7 do STJ.
+Por outro lado, a respeito do arbitramento de honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015, esta Corte firmou entendimento sobre o assunto, definindo que há necessidade de preenchimento cumulativo dos seguintes requisitos para sua incidência: (a) somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC, (b) não conhecimento integral ou desprovimento do recurso pelo relator, monocraticamente ou pelo órgão colegiado competente, (c) verba honorária sucumbencial devida desde a origem no feito em que interposto o recurso, (d) impossibilidade de majorar honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido, (e) não atingimento, na origem, dos limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo, (f) inexigibilidade da comprovaçã o de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba (AgInt nos EREsp 1539725/DF, de minha relatoria, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017).
+Dessa forma, preenchidos os requisitos da majoração, devem ser mantidos os termos da decisão monocrática.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno .
+É como voto.
