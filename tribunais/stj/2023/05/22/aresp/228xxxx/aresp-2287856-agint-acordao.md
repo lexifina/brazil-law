@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto pela COMPANHIA PAULISTA DE FORÇA E LUZ, contra decisão que conheceu do agravo para conhecer em parte o recurso especial por ela interposto, e negar-lhe provimento.
+Ação: rescisória, ajuizada pela COMPANHIA PAULISTA DE FORÇA E LUZ objetivando a desconstituição de acórdão que reconheceu o direito de ROCHELE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. - EMPRESA DE PEQUENO PORTE, ora agravada, a ser ressarcida dos valores desembolsados para a implementação de rede elétrica em loteamento de sua propriedade, que depois foi incorporada ao patrimônio da companhia concessionária.
+Acórdão: indeferiu a petição inicial e julgado extinto o feito, sem apreciação do mérito.
+Interposto recurso especial, foi provido por esta Corte (e-STJ, fl. 760/764) para "cassar o acórdão recorrido e determinar o regular prosseguimento da ação rescisória no Tribunal de origem".
+Em novo julgamento, a ação foi julgada improcedente, nos termos da seguinte ementa:
+"AÇÃO RESCISÓRIA - A deliberação do v. Acórdão rescindendo de condenação da concessionária a ressarcir o loteador pelo custo de obras de infraestrutura em razão da incorporação deles, sob pena de enriquecimento sem causa da própria concessionária, não pode ser havida como aberrante, em relação a nenhuma das normas invocadas pela parte autora da presente ação rescisória -Uma vez que a ação rescisória não é o meio adequado para corrigir suposta injustiça da sentença, apreciar má interpretação dos fatos, reexaminar as provas produzidas ou complementá-las, não se vislumbra no v. Acórdão rescindendo a interpretação que viole o dispositivo legal em sua literalidade, como exige o inciso V, do art. 485, do CPC/1973 (correspondente ao art. 966, V, do CPC/2015). Ação rescisória julgada improcedente." (e-STJ fl. 973).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 140, 489, II, e §1º, 966, V, 1.022, II, e parágrafo único, II, do CPC/2015; 884 do Código Civil; 3º, "g", da Lei Municipal 2.427/99; 2º, §§ 4º, 5º e 6º, e 40 da Lei 6.766/79 sustentando: i) omissão e falta de fundamentação do julgado; ii) ser do loteador a responsabilidade pela instalação da infraestrutura de rede elétrica, devendo ser rescindido o acórdão recorrido, pois há época de sua prolação já havia jurisprudência consolidada nesse sentido, devendo ser afastada a aplicação da Súmula 343/STF quanto ao ponto; iii) que não se verifica a existência de vantagem financeira ou acréscimo patrimonial da agravante pela incorporação da rede de energia elétrica no loteamento, tampouco o empobrecimento ou sacrifício econômico da agravada, seja por que é proprietária e empreendedora do loteamento, seja por já ter incluído no preço final da venda dos lotes os custos pela implantação da rede elétrica, inexistindo qualquer enriquecimento ilícito da agravante, portanto.
+Decisão agravada: conheceu do agravo para conhecer em parte o recurso especial e negar-lhe provimento.
+Agravo interno: em suas razões a agravante insiste na ocorrência de omissão e falta de fundamentação do julgado; diz que deve ser afastada a incidência da Súmula 343/STF, aplicada analogicamente, e por consequência, o afastamento da Súmula 568/STJ; alega, também, que não foram apreciadas as questões relativas aos arts. 140 do CPC/2015 e 884 do Código Civil; repisa, no mais, os argumentos expendidos anteriormente em defesa de sua tese.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DIREITO LOCAL. 280/STF. ANÁLISE. IMPOSSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DECISÃO MANTIDA.
+1. Ação rescisória.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Incidência, por analogia, da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+5. Não cabe o manejo de ação rescisória quando a pacificação da jurisprudência desta Corte de Justiça dá-se em momento posterior e em sentido contrário ao acórdão rescindendo, considerada a divergência então existente sobre o tema. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+6. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte gravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Da ofensa ao art. 1.022 do CPC/2015
+Com relação à alegação de omissão, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, como já constatado na decisão combatida, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca das alegações da agravante quanto à inaplicabilidade da Súmula 343/STF; à responsabilidade do loteador e seu direito a ser ressarcido; ao enriquecimento ilícito; à concessão da liminar e as legislações aplicadas, de maneira que os embargos de declaração, de fato, deveriam ser rejeitados.
+Assim, observado o entendimento dominante desta Corte acerca do tema, inexiste violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, IV e VI, do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV e VI, do CPC/2015.
+- Da análise de direito local
+Ao contrário do alegado pela parte agravante, o tema controvertido envolve a apreciação de suposta violação da Lei Municipal 2.427/99, o que é inviável em sede de recurso especial, por não ser a via adequada para tal análise, o que atrai a incidência da Súmula 280/STF, quanto ao ponto.
+- Da Súmula 568/STJ
+Com relação ao argumento de inaplicabilidade da Súmula 343/STJ consequentemente o afastamento da Súmula 568/STJ, aplicada acerca do tema da ação rescisória, verifica-se que a insurgência não trouxe elementos capazes de desconstituir a decisão agravada quanto ao ponto, no sentido de que cabe o manejo de ação rescisória quando a pacificação da jurisprudência desta Corte de Justiça dá-se em momento posterior e em sentido contrário ao acórdão rescindendo, considerada a divergência então existente sobre o tema, entendimento aplicado pelo Tribunal de origem ao concluir que "a questão sobre o dever da concessionária de fornecimento de energia elétrica de ressarcir o loteador por obras de infraestrutura envolve questão controvertida na jurisprudência, conforme se verifica dos julgados, todos posteriores ao v. Acórdão rescindendo, extraídos do site deste Eg. Tribunal de Justiça: (e-STJ, fl. 982), em consonância com o entendimento dominante sobre o tema nesta Corte.
+Incidência, portanto, da aplicação da Súmula 568/STJ.
+Por fim, no que se refere às questões tidas por não apreciadas, relativas aos arts. 140 do CPC/2015 e 884 do Código Civil, verifica-se que a conclusão acerca da impossibilidade de manejo da ação rescisória, na presente hipótese, fez com que a análise de referidas questões restasse prejudicada.
+Neste passo, a decisão agravada deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
