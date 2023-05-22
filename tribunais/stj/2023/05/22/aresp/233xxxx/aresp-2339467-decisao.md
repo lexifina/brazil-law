@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 272):
+EXECUÇÃO FISCAL. MULTA. PROCESSO ADMINISTRATIVO. NOTIFICAÇÃO POR EDITAL. NULIDADE.
+1. A fiscalização é atividade vinculada.
+2. É nula a notificação para apresentação de alegações finais realizada por edital, uma vez que o administrado possuía endereço certo conhecido. Inteligência do art. 26 da Lei 9.784/99.
+Opostos embargos declaratórios, foram rejeitados (fls. 297/299).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1.022, II, do CPC, na medida em que a Corte de origem não se pronunciou sobre a questão relativa à ausência de prejuízo e tampouco sobre a incidência dos arts. 50 e 100 da IN 14/2009, os quais regulam a forma da intimação para alegações finais nos processos relativos a infração ambiental;
+(II) arts. 282, § 1º, do CPC, e 563 do CPP, ao argumento de que a notificação realizada por meio de edital não acarretou qualquer prejuízo ao administrado, notadamente porque ofereceu defesa e foi intimado pessoalmente da decisão julgadora, deixando de interpor recurso administrativo;
+(III) arts. 2º, 26 e 28 da Lei nº 9.784/1999; arts. 122 e 123 do Decreto 6.514/2008 e art. 100 da IN 14/2009. Para tanto, assevera que "o Decreto nº 6.514/2008 e a IN 14/2009, que detalha sua aplicação, estão em consonância com a Lei nº 9.784/99 ao prever que apenas a intimação para apresentação de alegações finais, após o encerramento da fase de instrução, será realizada por edital" (fl. 318). Acrescenta que "existindo norma específica sobre o processo administrativo ambiental (Decreto n. 6.514/2008) em que havia previsão de que a intimação para a apresentação de alegações finais deveria ser feita por edital, não há que se falar em violação à Lei ou nulidade" (fl. 319).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022, II, do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que (fls. 283/288)
+Deve-se considerar que a notificação realizada através de edital não acarretou qualquer prejuízo ao administrado, não se tratando de decisão de agravamento da penalidade.
+Compulsando os autos do processo administrativo, foi demonstrado que a parte autora apresentou defesa, tendo sido devidamente apreciadas pelo IBAMA as razões ali alegadas. Notificada para apresentação de recurso administrativo, a parte autora igualmente apresentou recurso, sem arguir qualquer vício em relação a alegações finais.
+Não é possível o reconhecimento de nulidade quando não foi demonstrada a existência de qualquer prejuízo, não só porque a parte autora efetivamente apresentou defesa, mas também porque apresentou recurso, culminando na aplicação de penalidade. Ainda que se reconhecesse eventual vício procedimental, não decorre necessariamente o prejuízo, que não pode ser simplesmente presumido.
+ ..
+Importa destacar que o Decreto nº 6.514/2008 está em consonância com a Lei nº 9.784/99 ao prever que, nas situações tratadas no artigo 28  1  , a intimação deverá ser via postal, que assegura a efetiva ciência dos atos processuais:
+ ..
+Note-se que, sempre que houver indicativo de agravamento das sanções indicadas originariamente pelo agente autuante, a intimação deverá ser realizada por via postal, com aviso de recebimento. O procedimento resta bastante claro no Decreto.
+Assim, não há qualquer inobservância do Decreto nº 6.514/2008 à referida Lei. Ao contrário, o Decreto, no artigo 123, contempla as referências da Lei nº 9.784/1999.
+O Decreto nº 6.514/2008, em consonância com o princípio da duração razoável dos processos administrativos, combinado com o princípio da ampla defesa e do contraditório, estabelece que deve ser realizada com afixação na unidade administrativa e com publicação do sítio na rede mundial de computadores. A medida se coaduna com o estado da arte em que a rapidez nas informações é exigência do mundo digital.
+A intimação por edital publicado na internet e no mural da unidade administrativa, portanto, coaduna-se com os artigos 26 e 28 da Lei nº 9.784/99 por não se referir a nenhuma das hipóteses ali tratadas, quais sejam: intimação de decisão, de diligência a ser efetivada, ou de indicativo de agravamento da situação do interessado.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022, II, do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas
+Publique-se.
