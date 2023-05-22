@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANA RUTI FURES interpõe agravo regimental contra decisão que negou provimento ao seu recurso em habeas corpus.
+No regimental, a defesa reitera os argumentos do writ de que não houve fundamentação idônea para negar à acusada o benefício da prisão domiciliar, sobretudo por ser mãe de menor de 12 anos de idade, primária, portadora de bons antecedentes e não haver sido apreendida vultosa quantidade de droga em seu poder. Ainda, aduz ausência de excepcionalidade a justificar o afastamento do direito à liberdade da recorrente.
+Requer, diante disso, a reconsideração da decisão anteriormente proferida ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO AO TRÁFICO E PORTE DE ARMA DE FOGO. CONVERSÃO DA CUSTÓDIA EM PRISÃO DOMICILIAR POR SER A RECORRENTE MÃE DE MENOR DE 12 ANOS. IMPOSSIBILIDADE. INDÍCIOS DE PRÁTICA CRIMINOSA NA RESIDÊNCIA DA ACUSADA. AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE AOS CUIDADOS DO MENOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Diante de elementos concretos quanto à gravidade dos atos praticados, que evidenciam situação não prevista na Lei n. 13.469/2018 e configuram a excepcionalidade de indeferimento da medida, há motivação suficiente para negar à acusada a concessão de prisão domiciliar.
+2. É entendimento do Superior Tribunal de Justiça que "o afastamento da prisão domiciliar para mulher gestante ou mãe de filho menor de 12 anos exige fundamentação idônea e casuística, independentemente de comprovação de indispensabilidade da sua presença para prestar cuidados ao filho, sob pena de infringência ao art. 318, inciso V, do Código de Processo Penal, inserido pelo Marco Legal da Primeira Infância (Lei n. 13.257/2016)." (HC n. 541.456/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/2/2020, grifei), como na hipótese.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pela defesa, deve a decisão vergastada ser mantida pelos seus próprios fundamentos.
+Inicialmente, cumpre destacar que se imputa à acusada a prática de três delitos: tráfico de drogas, associação para o tráfico e posse irregular de arma de fogo.
+Ao fundamentar a necessidade da cautelar máxima à ré, o Juízo de origem destacou a gravidade em concreto da conduta, evidenciada em razão de haverem sido apreendidos na residência da acusada - onde também habita o menor - 14 munições, 5,1 g de cocaína, 0,7 g de crack, três porções de 7,6 g de maconha, além de oito celulares.
+Embora hajam sido apreendidos três tipos de drogas diferentes, as quantidades, de fato, não são vultosas. Todavia, "as investigações apontaram que havia o comércio de droga na casa da paciente, ou seja, no mesmo local em que o menor era criado/educado, além de se tratar de ponto de encontro de membros do grupo criminoso, conforme descrito na denúncia, caracterizando cenário impróprio ao desenvolvimento do infante" (fl. 62, grifei).
+Dessa forma, é entendimento do Superior Tribunal de Justiça que "o afastamento da prisão domiciliar para mulher gestante ou mãe de filho menor de 12 anos exige fundamentação idônea e casuística, independentemente de comprovação de indispensabilidade da sua presença para prestar cuidados ao filho, sob pena de infringência ao art. 318, inciso V, do Código de Processo Penal, inserido pelo Marco Legal da Primeira Infância (Lei n. 13.257/2016)." (HC n. 541.456/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/2/2020, grifei), como na hipótese.
+Assim, diante de elementos concretos quanto à gravidade dos atos praticados, que evidenciam situação não prevista na Lei n. 13.469/2018 e configuram a excepcionalidade de indeferimento da medida, há motivação suficiente para negar à acusada a concessão de prisão domiciliar.
+Ademais, consoante ressaltado na decisão recorrida e não impugnado pela parte, o acórdão do Tribunal estadual também destacou que "conforme se depreende da mídia de audiência de custódia (mov. 72.2), o filho da paciente encontra-se devidamente assistido, pois está sob os cuidados da avó, não tendo sido demonstrada a prescindibilidade da paciente em seus cuidados" (fl. 73).
+À vista do exposto, nego provimento ao agravo regimental.
