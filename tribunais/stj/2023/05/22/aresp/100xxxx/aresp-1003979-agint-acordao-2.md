@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, cuida-se de embargos à execução de título executivo judicial opostos pelo Município de Niterói em desfavor Glória Margareth Figueiredo Silva e outro.
+Na primeira instância, os embargos à execução foram julgados procedentes. No Tribunal de Justiça do Estado do Rio de Janeiro, a sentença foi parcialmente reformada em acórdão assim ementado:
+AGRAVO INOMINADO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO OFERTADOS PELO MUNICÍPIO DE NITERÓI.
+Gratificação de produtividade. Este Tribunal de Justiça determinou que o pedido de atualização da gratificação de produtividade pelo Município de Niterói deve estrita observância das mesmas épocas e dos respectivos índices de reajuste geral havido. A verba honorária fixada no percentual de 10% do valor da causa se revela excessivo e desproporcional diante da natureza da demanda e sua simplicidade, nos termos do art. 20 e parágrafos, do CPC.
+AGRAVO DESPROVIDO.
+O Município de Niterói interpôs recurso especial com fundamento no art. 105, III, a e c, da Constituição Federal por ofensa ao art. 20, §§ 3º e 4º, do CPC/73 (fls. 229-244).
+Glória Margareth Figueiredo Silva e outro interpuseram recurso especial, com fundamento no art. 105, III, a, da Constituição Federal por ofensa aos arts. 165, 458, II e III, e 535, II, do CPC/73 (fls. 245-262).
+Recebidos os autos pelo Superior Tribunal de Justiça, foram proferidas decisões pelas quais o recurso especial de Glória Margareth Figueiredo Silva e outro foi provido a fim de que os autos retornem à Corte de origem para que, atenta aos fundamentos desta decisão, julgue novamente os embargos de declaração de fls. 206-208 (fls. 379-383); e o recurso especial do Município não foi conhecido, ante a incidência da Súmula n. 7/STJ (fls. 384-388).
+Contra a decisão de fls. 379-383, foi interposto agravo interno (fls. 394-403 - Petição n. 00017095/2018), em que o Município se insurge contra a decisão que deu provimento ao recurso especial de Glória Margareth Figueiredo Silva e outro, alegando que não é possível o julgamento monocrático do apelo especial na medida em que o caso dos autos não se enquadra nas hipóteses previstas no art. 253, II, c, do RISTJ.
+Aduz, ainda, que foi dado provimento ao recurso especial sem que fossem expostos os motivos pelos quais houve a violação ao art. 535, II, do CPC/73.
+Contra a decisão de fls. 384-388, foi interposto agravo interno (fls. 404-413 - Petição n. 00017125/2018), em que o Município alega que a decisão não se inclui nas hipóteses do art. 255, § 4º, I, do RISTJ.
+Assevera, ainda, que há patente omissão no enfrentamento da argumentação consubstanciada na violação das disposições contidas no art. 20, § 3º, a, b e c, e § 4º, do CPC/73, e por divergência jurisprudencial, consoante as razões de fato e de direito veiculadas no recurso especial.
+Não foram apresentadas impugnações aos agravos.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. PRIMEIRO AGRAVO INTERNO. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA N. 568/STJ E ART. 253, PARÁGRAFO ÚNICO, II, C, DO RISTJ. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+I - A existência de jurisprudência dominante desta Corte Superior sobre a matéria autoriza o desprovimento do recurso especial por meio de decisão monocrática, estando o princípio da colegialidade " ..  preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados". Precedentes. (AgInt no REsp 1.336.037/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/12/2016, DJe 6/2/2017), nos termos do enunciado n. 568 da Súmula do STJ e do art. 255, § 4º, do RISTJ, c/c o art. 932, inciso VIII, do Código de Processo Civil de 2015.
+II - Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem, apesar da oposição de embargos de declaração, deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+III - Agravo interno improvido.
+SEGUNDO AGRAVO INTERNO. AGRAVO INTERNO PREJUDICADO.
+IV - Considerando o desprovimento do agravo de fls. 394-403, com a consequente manutenção da decisão monocrática de fls. 379-383, na qual se proveu o recurso especial da particular para que sejam rejulgados os embargos de declaração, verifica-se a ocorrência de prejudicialidade do recurso especial interposto pelo Município de Niterói.
+V - Agravo interno julgado prejudicado.
+VOTO
+AGRAVO INTERNO - PETIÇÃO N. 00017095/2018
+O recurso não merece prosperar, pois as alegações da parte agravante são insuficientes para modificar a decisão recorrida.
+Inicialmente, cumpre asseverar que a existência de jurisprudência dominante desta Corte Superior sobre a matéria autoriza o provimento ou desprovimento do recurso especial por meio de decisão monocrática, estando o princípio da colegialidade " ..  preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados". Precedentes. (AgInt no REsp 1.336.037/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/12/2016, DJe 6/2/2017), nos termos do enunciado n. 568 da Súmula do STJ e do art. 255, § 4º, do RISTJ, c/c o art. 932, VIII, do Código de Processo Civil de 2015.
+Nesse sentido é a jurisprudência:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. SÚMULA 7/STJ. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. JURISPRUDÊNCIA DOMINANTE DO STJ. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ E ART. 253, PARÁGRAFO ÚNICO, II, B, DO RISTJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+IV. A questão ora controvertida possui entendimento dominante nesta Corte, fato esse que autoriza a apreciação monocrática do apelo, nos termos da Súmula 568 do STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema") e do art. 253, parágrafo único, II, b, do RISTJ.
+V. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no AREsp 953.862/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 8/11/2016, DJe 22/11/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA 83/STJ. DECISÃO MONOCRÁTICA. POSSIBILIDADE. SÚMULA 568/STJ E DO ART. 932, VIII DO CPC/2015 C/C ART. 255, § 4º, III DO RISTJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC. AGRAVO NÃO PROVIDO.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súm 568 do STJ).
+ ..
+3. Na hipótese, a decisão agravada está amparada na jurisprudência dominante desta Corte, razão pela qual não há falar na inadmissibilidade do julgamento monocrático. Incidência da Súmula 568/STJ e do art. 932, VIII do CPC/2015 c/c art. 255, § 4º, III do RISTJ.
+4. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+5. Agravo regimental não provido, com aplicação de multa.
+(AgInt no REsp 1.311.572/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/10/2016, DJe 25/10/2016.)
+Assiste razão às partes recorrentes no que toca à alegada violação do art. 535, II, do CPC/73, pois apresentaram questões jurídicas relevantes que, apesar da oposição de embargos de declaração, o Tribunal de origem deixou de se manifestar, quais sejam (fl. 207):
+i) os Embargantes não são Fiscais Fazendários, bem como não são associados da Associação dos Fiscais Fazendários, não podendo, por óbvio, serem afetados - consoante dispõe os arts. 3o e 6o, ambos do CPC - por um "acordo" celebrado por uma associação da qual não fazem parte, por se tratarem de Fiscais de Posturas Municipais, sendo ônus do Município Embargante da execução, comprovar a filiação dos ora Embargantes, segundo a regra do art. 333, inciso I, do CPC (fls. 153/156);
+ii) mesmo se os Embargantes fossem associados da referida Associação de Fiscais Fazendários, tal transação não produziria (nos termos do art. 262 do Código Civil) qualquer efeito para os Embargantes, pois não poderia a Associação de Classes, na qualidade de substituto processual de seus associados, renunciar (sob pena de afronta aos arts. 114, 843 e 844, todos do Código Civil) os direitos pessoais concedidos por decisão judicial transitada em julgado em feito privado dos Embargantes (fls. 156/159);
+iii) o Município de Niterói confessou expressamente em suas alegações finais (fls. 62/63) que os Embargantes têm direito ao pagamento de diferenças de gratificação no percentual do reajuste geral (de 5,22%) dado aos servidores, pelo menos a partir de julho de 2004 (fls. 159/160);
+iv) o Embargado não pagou os honorários de sucumbência em execução, não podendo o referido "acordo" celebrado pela Associação de Fiscais dispor de tal crédito, porquanto a verba honorária de sucumbência é direito alimentar indisponível dos advogados que atuaram na causa;
+v) Não ocorreu a prescrição do fundo de direito, mas apenas das parcelas vencidas no qüinqüênio anterior ao ajuizamento da ação, segundo inteligência da jurisprudência consolidada no verbete nº 85 da Súmula do STJ (fls. 160/161).
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+No mesmo sentido, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido.
+(AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido.
+(EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016.)
+Sendo assim, a parte agravante não comprova a necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com a jurisprudência desta Corte, razão pela qual não há como se prover o agravo interno.
+AGRAVO INTERNO - PETIÇÃO N. 00017125/2018
+Considerando o desprovimento do agravo de fls. 394-403, com a consequente manutenção da decisão monocrática de fls. 379-383, na qual se proveu o recurso especial da particular para que sejam rejulgados os embargos de declaração, verifica-se a ocorrência de prejudicialidade do recurso especial interposto pelo Município de Niterói.
+Isso porque o feito, consoante expresso na decisão de fls. 379-383, deverá retornar à Corte de origem para nova apreciação. Assim, havendo possibilidade de integração ou, até, modificação do julgado, fica inviável a análise do recurso especial do Município de Niterói, bem como do consequente agravo interno (fls. 404-413).
+Desse modo, ante o provimento do recurso especial interposto por Glória Margareth Figueiredo Silva, em juízo de retratação, torno sem efeito a decisão de fls. 384-388, bem como julgo prejudicado o recurso especial interposto pelo Município de Niterói e o agravo interno de fls. 404-413.
+Ante o exposto, nego provimento ao agravo interno de fls. 394-403 e julgo prejudicado o agravo interno de fls. 404-413, nos termos da fundamentação.
+É o voto.
