@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuidam-se de embargos de declaração opostos por ANTONIO FERREIRA DE RESENDE contra acórdão que negou provimento ao agravo interno interposto por MOEMA BIOENERGIA S.A, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Ação indenizatória.
+2. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, impede o conhecimento do recurso especial.
+3. Alterar o decidido no acórdão impugnado no que se refere aos danos ocorridos, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno no agravo em recurso especial não provido." (fl. 626/627, e-STJ).
+Em suas razões recursais, o embargante sustenta omissão do acórdão recorrido quanto ao requerido em sede de contrarrazões no tocante à condenação do embargado à multa prevista no artigo 1.021, § 4º, do CPC/2015.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO CONFIGURADOS. MULTA DO ART. 1.021, § 4º, DO CPC/2015. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação indenizatória.
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+3. A jurisprudência desta Corte firmou-se no sentido de que a incidência da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática e não se trata de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+4. Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Na espécie, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+Em suas razões recursais, o embargante sustenta a aplicabilidade da multa prevista no artigo 1.021, § 4º, do CPC/2015 ao embargado, ante ao não provimento do agravo interno.
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, com base nos seguintes fundamentos: i) ausência de prequestionamento a tese recursal atinente à Teoria da Causalidade Adequada; ii) aplicação da Súmula 7/STJ no tocante aos danos ocorridos; e iii) a análise do dissídio jurisprudencial alegado revela-se prejudicada, haja vista o necessário reexame de fatos e provas da matéria que se supõe divergente; iv) ausência da necessária comprovação da similitude fática e da demonstração do cotejo analítico quanto ao dissídio jurisprudencial alegado; e v) falta de prequestionamento da tese recursal objeto da divergência.
+Interposto agravo interno pelo embargado, foi-lhe negado provimento em virtude da manutenção da decisão monocrática nos termos da fundamentação mencionada.
+A rigor, as questões apontadas pelo embargante não constituem pontos omissos, contraditórios ou obscuros do julgado como quer fazer crer, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Da renovada análise dos autos, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo, portanto, que se falar em qualquer omissão, erro material, contradição ou obscuridade no acórdão embargado.
+Cumpre esclarecer que a jurisprudência pacífica desta Corte Superior é no sentido de que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+Realmente, "a condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt no AREsp 1.530.183/RS, 3ª Turma, DJe 19/12/2019). Circunstância essa que não ocorreu na espécie.
+Na mesma linha, veja-se: AgInt no REsp 1.855.133/RS, 3ª Turma, DJe 22/06/2020 e EDcl no AgInt no AREsp 952.878/SP, 4ª Turma, DJe 23/06/2020.
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
