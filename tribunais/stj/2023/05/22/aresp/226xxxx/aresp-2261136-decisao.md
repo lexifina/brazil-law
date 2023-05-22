@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AUGUSTINHO ZUCCHI, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/9/2022.
+Concluso ao gabinete em: 27/12/2022.
+Ação: monitória ajuizada por GIRO COMÉRCIO DE PNEUS LTDA., em face de METAL NEWS METAIS LTDA. e AUGUSTINHO ZUCCHI.
+Sentença: julgou procedente o pedido monitório para constituir em título judicial os cheques juntados aos autos formulado pelos agravados.
+Acórdão: não conheceu da apelação interposta por METAL NEWS METAIS LTDA. e conheceu o recurso apelatório de AUGUSTINHO ZUCCHI para dar-lhe parcial provimento, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO MONITÓRIA - RECONHECIMENTO DA INTEMPESTIVIDADE DA APELAÇÃO (2) - AUSÊNCIA DE CONSTITUIÇÃO DE NOVO ADVOGADO, APÓS RENÚNCIA DE PODERES DO ANTIGO CAUSÍDICO, QUE NÃO TEM O CONDÃO DE INTERROMPER OU SUSPENDER PRAZOS - DEVER DA PARTE DE CONSTITUIR NOVO PATRONO QUANDO NOTIFICADA PELO ANTERIOR - RECURSO NÃO CONHECIDO - TEMPESTIVIDADE DA APELAÇÃO (1) - INTERPRETAÇÃO DA REGRA PREVISTA NO ART. 191 DO CPC QUE, NO CASO, DEVE SE PAUTAR NA BOA-FÉ OBJETIVA E NAS LEGÍTIMAS EXPECTIVAS DEPOSITADAS PELAS PARTES NO PROCESSO - CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE - NÃO OCORRÊNCIA - CONSAGRAÇÃO DO PRINCÍPIO INQUISITIVO QUANTO À PRODUÇÃO DE PROVAS - MAGISTRADO QUE É O DESTINATÁRIO DA DILAÇÃO PROBATÓRIA E, ASSIM, PODE INDEFERIR, DEFERIR OU DETERMINAR A PRODUÇÃO DAQUELAS QUE ENTENDER PERTINENTES - MATÉRIAS AVENTADAS NOS EMBARGOS À MONITÓRIA QUE SE CARACTERIZAM COMO ESSENCIALMENTE DE DIREITO OU SÃO IMPERTINENTES PARA COMPROVAR FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO DO ALEGADO DIREITO AUTORAL - ILEGITIMIDADE PASSIVA DO AVALISTA DOS CHEQUES QUE FUNDAMENTAM A DEMANDA - RECONHECIMENTO - OBRIGAÇÃO DO GARANTE QUE É AUTÔNOMA EM RELAÇÃO À OBRIGAÇÃO AVALIZADA - GARANTIA QUANTO AO DEVEDOR PRINCIPAL QUE SUBSISTE APENAS PELO VALOR E TEMPO EM QUE ESTE FOR CARTULARMENTE RESPONSÁVEL - EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO, EM RELAÇÃO A TAL CORRRÉU - FIXAÇÃO DE HONORÁRIOS A FAVOR DO ADVOGADO DA PARTE EXCLUÍDA DA LIDE - REDISTRIBUIÇÃO DA INCUMBÊNCIA PELO PAGAMENTO DAS CUSTAS PROCESSUAIS - APELAÇÃO (1) CONHECIDA E PARCIALMENTE PROVIDA - APELAÇÃO (2) NÃO CONHECIDA - EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO, EM RELAÇÃO AO PRIMEIRO RECORRENTE. (e-STJ fls. 726/727)
+Embargos de declaração: opostos por METAL NEWS METAIS LTDA., foram acolhidos, sem efeitos infringentes; opostos por GIRO COMÉRCIO DE PNEUS LTDA., foram parcialmente acolhidos, com efeitos infringentes, para reconhecer a omissão em relação à responsabilidade de AUGUSTINHO ZUCCHI em relação aos cheques 850478 e 850479; e, os opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação aos arts. 17, 223, 485, § 3º, VI, e 1.022, II, do CPC; 193 do CC; e 32, parágrafo único, 47, II, e 59 da Lei 7.357/1985.
+Além de negativa de prestação jurisdicional, aduz ter havido omissões na decisão recorrida, relativamente a questões relevantes para o deslinde da causa.
+Sustenta, ainda, que o " ..  prazo de 6 meses para execução do cheque, previsto no art. 59 da mesma lei, conta-se da apresentação  .. ", pois, como " ..  ela se deu em março e maio de 2005, e a monitória foi ajuizada somente em outubro do ano seguinte (2006), restou em muito ultrapassado o prazo executivo, razão pela qual o cheque efetivamente estava prescrito  .. " (e-STJ fl. 1.246).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação ao artigo 485, § 3º, VI, e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao artigo 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de inexistência da preclusão e da prescrição dos cheques, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação ao art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 485, §3º, VI do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que os cheques 850478 e 850479 não estavam prescritos e a legitimidade passiva do agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 3.000,00 (três mil reais) (e-STJ fls. 725/742) para R$ 4.000,00 (quatro mil reais), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO DO ART. 485 DO CPC. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação monitória.
+2. Ausentes os vícios do artigo 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 485 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
