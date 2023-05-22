@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por EMMERIN INCORPORADORA LTDA. E CURY CONSTRUTORA E INCORPORADORA S.A. em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 363):
+Despesas condominiais Embargos à execução Recorridas que são construtora e incorporadora do imóvel gerador das despesas condominiais Existência de compromisso de compra e venda sem entrega das chaves à promissária compradora Legitimidade e responsabilidade das embargantes-executadas, nos termos do recurso repetitivo que tratou da hipótese sedimentando o entendimento de que a relação material com o imóvel define a legitimidade para a ação Promissária adquirente que nunca manteve relação com o imóvel, somente não obtendo a posse das chaves por estar inadimplente com a construtora, embora esta última esteja pronta a entregá-las Questão particular entre as executadas e a pretensa compradora que não pode prevalecer em detrimento da coletividade de interesses dos condôminos representada pelo condomínio Legitimidade das executadas-embargantes reconhecida com o prosseguimento da execução em face delas, devendo a discussão particular, se o caso, ser objeto de autos próprios Provimento do apelo.
+Opostos embargos de declaração, esses foram acolhidos (e-STJ, fls. 374):
+Despesas de condomínio Embargos de declaração Omissão quanto ao enquadramento do caso concreto ao teor de recurso repetitivo Ausência Julgado que expressamente declarou nunca ter, a promissária compradora, obtido a posse do imóvel justamente pelo inadimplemento do citado compromisso Executadas que discordam, no mérito, alegando tratar-se de venda, embora posterior ao inadimplemento do compromisso e sem a entrega das chaves Hipótese que não enseja oposição de embargos de declaração. 2. Erro material no dispositivo reconhecido Teor do apelo que indica a rejeição dos embargos à execução, mas encerra com o acolhimento dos embargos e por isto deixa de arbitrar honorários Correção do dispositivo com a improcedência dos embargos à execução e arbitramento de honorários. Rejeição dos embargos declaratórios das executadas e acolhimento dos embargos do exequente.
+Em suas razões recursais (e-STJ, fls. 396-404), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado acerca da existência de distinção entre o caso concreto e o Tema 886/STJ, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 1336 e 1345 do Código Civil, alegando ser o adquirente da unidade o único responsável pelo adimplemento da cota condominial.
+Aponta, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 428-437 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 438-439 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 447-452), este signatário negou provimento ao recurso especial em razão da ausência de omissão no acórdão e incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 455-461), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo no tocante à responsabilidade da adquirente, na qualidade de proprietária do imóvel e condômina, arcar com as cotas condominiais.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 465-470 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DAS EMBARGANTES.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Consoante entendimento firmado nesta Corte Superior, o que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação.
+2.1. No caso em análise, o Tribunal de origem consignou que não houve imissão n a posse pelas adquirentes, porquanto as chaves do imóvel nunca lhes foram entregues. Dessa forma, derruir as premissas fáticas estabelecidas no acórdão recorrido acerca do exercício da posse sobre o imóvel demandaria o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura. Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada e sem omissões.
+Ademais, denota-se a manifestação expressa acerca da responsabilidade das recorrentes pelo pagamento do débito condominial e a indicação das razões pelas quais inexiste a distinção indicada pela parte.
+Assim constou do acórdão (fl. 365, e-STJ):
+Respeitado o convencimento da ilustre sentenciante, entendo que assiste razão às apelantes, não apenas por ser de rigor a aplicação do recurso repetitivo ao qual se subsume perfeitamente o caso, uma vez que as executadas são, efetivamente, as que sempre estiveram na posse das chaves, nunca entregues à pretensa compradora, como pelo aprofundamento da interpretação em relação ao condomínio.
+(..)
+Por outra, é evidente que a questão particular entre as executadas e a compradora não pode prevalecer em detrimento da coletividade de interesses dos condôminos representada pelo condomínio, de sorte que este último não pode ficar prejudicado em razão de lide que deveria ser objeto de discussão própria, se ajuizou a execução de acordo com as determinações do entendimento consolidado, uma vez que, se as executadas nunca entregaram as chaves, foram sempre elas que tiveram relação material com o imóvel.
+Outrossim, assim constou no acórdão que julgou os embargos de declaração (e-STJ, fl. 390-391):
+No que tange ao recurso das executadas, não houve omissão porque o acórdão explicitamente declarou as razões da aplicação do tema 886 do E. Superior Tribunal de Justiça, uma vez que a relação de origem entre as executadas-embargantes e a terceira é compromisso de compra e venda, e justamente pelo descumprimento desse compromisso desde agosto de 2018, pela promissária compradora é que esta jamais deteve a posse das chaves, como se vê entre fls. 365/366 do Acórdão, no trecho a seguir transcrito:
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Outrossim, não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos arts. 1336 e 1345 do Código Civil.
+Em suas razões, as recorrentes alegam ser o adquirente da unidade o único responsável pelo adimplemento da cota condominial.
+Contudo, a Corte local, diante da análise de todo o acervo fático-probatório carreado aos autos, concluiu pela responsabilidade das recorrentes em razão da inexistência de imissão na posse por parte das adquirentes, nos seguintes termos (fl. 365, e-STJ):
+Respeitado o convencimento da ilustre sentenciante, entendo que assiste razão às apelantes, não apenas por ser de rigor a aplicação do recurso repetitivo ao qual se subsume perfeitamente o caso, uma vez que as executadas são, efetivamente, as que sempre estiveram na posse das chaves, nunca entregues à pretensa compradora, como pelo aprofundamento da interpretação em relação ao condomínio.
+(..)
+Por outra, é evidente que a questão particular entre as executadas e a compradora não pode prevalecer em detrimento da coletividade de interesses dos condôminos representada pelo condomínio, de sorte que este último não pode ficar prejudicado em razão de lide que deveria ser objeto de discussão própria, se ajuizou a execução de acordo com as determinações do entendimento consolidado, uma vez que, se as executadas nunca entregaram as chaves, foram sempre elas que tiveram relação material com o imóvel.
+Outrossim, assim constou no acórdão que julgou os embargos de declaração (e-STJ, fl. 390-391):
+No que tange ao recurso das executadas, não houve omissão porque o acórdão explicitamente declarou as razões da aplicação do tema 886 do E. Superior Tribunal de Justiça, uma vez que a relação de origem entre as executadas-embargantes e a terceira é compromisso de compra e venda, e justamente pelo descumprimento desse compromisso desde agosto de 2018, pela promissária compradora é que esta jamais deteve a posse das chaves, como se vê entre fls. 365/366 do Acórdão, no trecho a seguir transcrito:
+Consoante entendimento firmado nesta Corte Superior, o que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação.
+Como se vê, no caso em análise, o Tribunal de origem foi claro ao consignar que não houve imissão da posse pelas adquirentes, porquanto as chaves nunca lhe foram entregues.
+Dessa forma, derruir as premissas fáticas estabelecidas no acórdão recorrido acerca do exercício da posse sobre o imóvel demandaria o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. RESPONSABILIDADE PELO PAGAMENTO. COMPROMISSO DE COMPRA E VENDA NÃO LEVADO A REGISTRO. AUSÊNCIA DE CIÊNCIA INEQUÍVOCA DO CONDOMÍNIO ACERCA DA TRANSAÇÃO. PROMITENTES VENDEDORES QUE REPONDEM PELAS DESPESAS NÃO PAGAS. RECURSO ESPECIAL REPETITIVO Nº 1.345.331/RS. AGRAVO INTERNO NÃO PROVIDO.
+1. "O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação" (Recurso Especial repetitivo n. 1.345.331/RS).
+2. Conforme assentou a Corte estadual, "o condomínio não possuía ciência inequívoca, acerca da alienação do bem não tendo os apelados promitentes vendedores demonstrado o ônus que lhes incumbia, conforme preceitua o art. 373, II, do CPC". Para rever tal entendimento, seria necessário incursionar no acervo fático-probatório da demanda, o que é inviável a esta Corte (Súmula n. 7 do STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.767.289/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA. LUCROS CESSANTES. CABIMENTO. DESPESAS CONDOMINIAIS. VENDEDORA. RESPONSABILIDADE. EFETIVA POSSE. NÃO COMPROVAÇÂO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes.
+3. Somente a partir da efetiva posse do imóvel, com a entrega das chaves, passa o adquirente a ter a obrigação de pagar as despesas condominiais, sendo responsabilidade da vendedora até a imissão na posse.
+4. Na hipótese, rever a conclusão do acórdão atacado, no sentido de que o autor ainda não obteve a posse do imóvel, demandaria o revolvimento do contrato e do contexto fático-probatório dos autos, procedimentos vedados em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.854.703/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/3/2022, DJe de 30/3/2022.)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
