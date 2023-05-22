@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Cuida-se de agravo interno, interposto por EDSON ROSA ELIAS e OUTRA contra decisão monocrática de lavra deste signatário (fls. 1.240-1.246, e-STJ), que conheceu do agravo (art. 1.042 do CPC/2015), para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O apelo extremo foi deduzido com base no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em desafio ao acórdão prolatado pelo Tribunal de Justiçado Estado de Goiás assim ementado (fl. 969-970, e-STJ, transcrição literal e grifos do original):
+APELAÇÃO CÍVEL. AÇÃO DE de-claratória de nulidade de ato ju-rídico c/c consignação. 1. nulidade do PROCEDIMENTO DE EXECUÇÃO EX-TRAJUDICIAL DE IMÓVEL pela LEI Nº 9.514/97 afastada. REGULARINTIMAÇÃO EDITALÍCIA dos devedores. MORA DEVI-DAMENTE CONSTITUÍDA. Comprovadas as tentativas frustradas de notificação pessoal dos devedores, mediante certidões cartorárias, e estando eles em local incerto e não sabido, escorreita a posterior intimação por edital, eis que cumpridos os requisitos legais exigidos pa-ra a consolidação da propriedade em favor do banco credor fiduciário (artigo 26, §4º, da Lei nº 9.514/97).
+2. CONSOLIDAÇÃO DA PROPRIEDADE. LEILÃO EXTRAJUDICIAL. REALIZAÇÃO DE-POIS DO PRAZO DE 30 DIAS PREVISTO NA LEI Nº 9.514/97. POSSIBILIDADE. AUSÊN-CIA DE PREJUÍZO AOS ANTIGOSPROPRIE-TÁRIOS. À luz do artigo 27 da Lei nº 9.514/97, uma vez consolidada a propriedade em seu no-me, o credor fiduciário, no prazo de 30 (trinta) dias, contados da data do registro de que trata o §7º do artigo, promoverá público leilão para a alienação do imóvel. A extrapolação desse pra-zo não implica em nulidade, sobretudo quando não evidenciado prejuízo às partes, sendo cer-to que o que a lei proíbe é que os leilões sejam ultimados antes daquele interregno.
+3. PURGAÇÃO DA MORA. PRAZO LIMITE. LAVRATURA DA ARREMATAÇÃO. CONSIG-NAÇÃO REALIZADA NA HIPÓTESE APÓS ESSE PRAZO. In casu, não vinga a tese de que o depósito em juízo do valor relativoao débito do imóvel pelos devedores seria sufici-ente para reverter a transaçãodo bem, haja vista que adotada a providência a destempo, após o prazo legal de 15 (quinze) dias do arti-go 26, §1º, da Lei nº 9.514/97, e também de-pois de lavradas a carta de arrematação do imóvel (24/07/2015) e a correlata escriturade compra e venda no 3º Tabelionato de Notas em Goiânia (07/08/2015). Validade do negócio jurídico inconteste.
+4. TAXA DE OCUPAÇÃO DEVIDA AO ARRE-MATANTE DO IMÓVEL PRIVADODO RES-PECTIVO USO. Privado o arrematante da frui-ção do bem desde a sua arrematação até a respectiva desocupação ou imissão na posse, faz ele jus ao recebimento da taxa de ocupa-ção mensal, pelo mencionado ínterim, a ser paga pelos irregulares ocupantes, à luz do arti-go 37-A da Lei nº 9.514/97
+5. RECURSO ADESIVO. PERCENTUAL DA TAXA DE OCUPAÇÃO. RAZOABILIDADE. Não obstante a previsão legal de 1% ao mês tí-tulo da taxa de ocupação, na espécie, hei por bem mantê-la em 0,5% (meio por cento), como arbitrada na origem, visto que tal percentual indeniza o reconvinte/recorrente adesivo de maneira justa, proporcional e razoável à pri-vação sofrida do bem arrematado, não causan-do aos reconvindos/recorridos adesivos, por outro lado, obrigação extremamente onerosa.
+6. SENTENÇA MANTIDA INTACTA. HONO-RÁRIOS NÃO MAJORADOSNESTA SEARA. Deixo de majorar a verba honorária nesta sede recursal, eis que desprovidos ambos os recur-sos interpostos.
+APELAÇÃO CÍVEL E RECURSO ADESIVO CONHECIDOS E DESPROVIDOS.
+Nas razões do recurso especial (fls. 990-998, e-STJ), os insurgentes apontaram, além de divergência jurisprudencial, violação dos artigos 26, § 3º; e 27, §§ 1º e 2º; da Lei nº. 9.514/1997.
+Sustentaram, em síntese, a nulidade do procedimento administrativo de consolidação da propriedade fiduciária, em razão da inobservância da obrigatoriedade da intimação pessoal dos fiduciantes para purgação da mora, sendo descabida a intimação editalícia.
+Contrarrazões ofertadas (fls. 1.020-1.030, 1.031-1.046 e 1.049-1.065, e-STJ).
+Em juízo de admissibilidade (fls. 1.160-1.162, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: (a) incidência da Súmula 7/STJ para revisão das conclusões estaduais acerca da regularidade e validade da intimação dos fiduciantes; e (b) divergência jurisprudencial não demonstrada nos moldes do artigo 1.029, § 1º, do CPC/15.
+Irresignados (fls. 1.169-1.183, e-STJ), manejaram os agravantes o presente agravo em recurso especial, no qual refutam os retrocitados óbices de admissibilidade.
+Contraminutas às fls. 1.191-1.207, 1.208-1.213 e 1.214-1.230 (e-STJ).
+Sobreveio decisão monocrática (fls. 1.240-1.246, e-STJ), em que se conheceu do agravo (art. 1.042 do CPC/2015), para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos: (I) dissídio jurisprudencial não comprovado nos moldes legais e regimentais; (II) incidência da Súmula 83/STJ, ante a conformidade do acórdão impugnado ao entendimento jurisprudencial desta Corte, no sentido de que, nos procedimentos extrajudiciais de consolidação da propriedade do imóvel em nome do credor fiduciário, somente admite-se a constituição em mora do devedor por edital quando esgotadas as possibilidades de intimação pessoal; (III) incidência da Súmula 7/STJ, pois a revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a regularidade da intimação por edital no caso concreto.
+Daí o presente agravo interno (fls. 2-17, e-STJ, do Expediente Avulso 1), no qual os agravantes alegam: (1) ter demonstrado a vulneração aos dispositivos arrolados; (2) a desnecessidade de revolvimento do contexto fático e probatório dos autos, por se tratar de matéria exclusivamente de direito; e (3) ter demonstrado a divergência jurisprudencial nos moldes preconizados pela legislação de regência.
+Impugnações às fls. 20-32, 34-54 e 55-63, e-STJ, do Expediente Avulso 1.
+Certidão à fl. 18, e-STJ, do Expediente Avulso 1, dando conta da intempestividade do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C CONSIGNATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO, PARA, DE PLANO, CONHECER EM PARTE DO RECLAMO E NEGAR-LHE PROVIMENTO. INSURGÊNCIA DOS DEMANDANTES.
+1. O prazo para a interposição de agravo interno é de 15 (quinze) dias úteis, a teor do que dispõem os artigos 219 e 1.021, § 2º do CPC/2015.
+2. No caso concreto, o agravo foi interposto após o transcurso do prazo legal sendo, portanto, intempestivo.
+3. Agravo interno não conhecido.
+VOTO
+O agravo interno não merece conhecimento.
+1. Com efeito, consoante publicação de fl. 1.247, e-STJ, a decisão monocrática recorrida foi disponibilizada no Diário da Justiça Eletrônico em 03/11/2022 e considerada publicada em 04/11/2022.
+Conforme certificado à fl. 18, e-STJ, do Expediente Avulso 1, o prazo para a interposição do agravo interno teve início em 07/11/2022 e findou-se em 29/11/2022, no entanto, a petição n. 1113678/2022 (AgInt) somente foi protocolizada em 30/11/2022.
+A teor dos artigos 1.003, § 5º, e 1.021, § 2º, do CPC/15 o prazo para interposição do agravo interno é de 15 (quinze) dias, os quais se computam em dias úteis, nos termos do artigo 219 do mesmo diploma.
+Desta forma, considerando que o prazo recursal de 15 (quinze) dias teve início em 07/11/2022 e o termo final se deu em 29/11/2022, revela-se intempestivo o recurso protocolado em 30/11/2022 (fl. 2-17, e-STJ, do Expediente Avulso 1).
+Nos termos da jurisprudência da Casa, é intempestivo o agravo interno interposto fora do prazo legal previsto nos arts. 1.003, § 5º, e 1.021, § 2º, do CPC/15, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO INTERNO APRESENTADO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. APLICAÇÃO DOS ARTS. 219 E 1.003, § 5º, AMBOS DO NCPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Ple nário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de agravo interno após o prazo legal implica o seu não conhecimento, por intempestividade, nos termos dos arts. 219 e 1.003, § 5º, ambos do NCPC.
+3. O pedido de reconsideração, por não ter natureza recursal, não suspende e nem interrompe o prazo para interposição do recurso cabível. 4. Agravo interno não conhecido.
+(AgInt no AREsp 1596900/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NO TRIBUNAL DE ORIGEM. TEMPESTIVIDADE. AFERIÇÃO. DATA DE PROTOCOLO NO STJ. NÃO CONHECIMENTO.
+1. O prazo para interposição do agravo interno é de 15 (quinze) dias úteis, a teor do que dispõem os arts. 219, 1.003, § 5º, e 1.070 do CPC/2015, começando a fluir no dia seguinte ao da publicação.
+2. No caso, o recurso foi interposto após o transcurso do prazo legal, portanto, é intempestivo.
+3. A tempestividade de recurso dirigido ao STJ é aferida pela data em que foi protocolizado na Secretaria desta Corte Superior, não interrompendo ou suspendendo o prazo o fato de a petição ter sido apresentada no Tribunal de origem, ainda que dentro do prazo previsto para interposição do recurso. Precedentes.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 927.140/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/08/2017, DJe 23/08/2017)  grifou-se
+Não merece conhecimento, portanto, o presente agravo.
+2. Do exposto, não conheço do agravo interno.
+É como voto.
