@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de pedido de reconsideração, o qual recebo como agravo regimental, formulado RAFAEL SANTELLO MAZUCHELLI contra decisão por meio da qual indeferi liminarmente o habeas corpus.
+No presente pedido, o requerente, pondera ter ocorrido equívoco no relatório da decisão, quanto à tipificação do delito supostamente cometido pelo agente.
+De outro lado, reitera ser a verdadeira vítima na hipótese dos autos, reafirmando que os fatos não teriam ocorrido conforme relatado pela apontada vítima. Pondera, portanto, o descabimento da aplicação de medidas cautelares alternativas na hipótese.
+Requer, assim, a reconsideração da decisão impugnada, com a revogação das medidas cautelares alternativas impostas nos autos n. n. 1500251-22.2022.8.26.0341.
+É o relatório.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. CORREÇÃO DE ERRO MATERIAL NO RELATÓRIO DA DECISAO IMPUGNADA. MEDIDAS CAUTELARES ALTERNATIVAS IMPOSTAS. NEGATIVA DE AUTORIA. ANÁLISE QUE DEMANDA EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Pedido de reconsideração recebido como agravo regimental, interposto dentro do quinquídio legal, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo.
+2. Correção de erro material no relatório da decisão impugnada que se impõe.
+3. É certa a inadmissibilidade da análise, ainda que de ofício, das alegações trazidas na presente impetração, tendo em vista que o exame das teses acerca da negativa da prática delitiva, bem como das afirmações de que os fatos relatados pela vítima seriam inverídicos, demanda análise fático probatória, providência inadmissível na via estreita do habeas corpus.
+4. Recurso desprovido.
+VOTO
+Preliminarmente, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo, recebo o presente pedido de reconsideração como agravo regimental, tendo em vista ter sido interposto dentro do quinquídio legal.
+De outro lado, constatado o erro material, retifico o relatório do habeas corpus, apenas para que seu segundo parágrafo passe a constar a seguinte redação:
+"Extrai-se dos autos que, em 31/8/2022, o Juízo de primeiro grau, em consonância com o requerimento do Ministério Público, aplicou medidas cautelares alternativas em desfavor do paciente. Posteriormente foram indeferidos pedidos de revogação das medidas impostas".
+No mérito, não há como dar provimento ao agravo regimental.
+Isso porque, conforme se observa dos autos, o impetrante buscou a revogação da aplicação das medidas cautelares impostas, apenas afirmando que os fatos não teriam ocorrido de acordo com o consignado, ressaltando que seria a verdadeira vítima na hipótese.
+Todavia, é certa a inadmissibilidade da análise, ainda que de ofício, das alegações trazidas na presente impetração, tendo em vista que o exame das teses acerca da negativa a prática delitiva, bem como das afirmações de que os fatos relatados pela vítima seriam inverídicos, demanda análise fático probatória, providência inadmissível na via estreita do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NEGATIVA DE AUTORIA E MATERIALIDADE. ALEGAÇÃO DE INOCÊNCIA INCABÍVEL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO PARCIALMENTE PROVIDO PARA AFASTAR FUNDAMENTO INIDÔNEO.
+1. Uma vez manejado o recurso ordinário contra decisão que denegou ordem ao habeas corpus, não há que se falar em inadequação da via eleita, devendo ser afastado o fundamento equivocado inserido na decisão agravada.
+2. A tese sobre insuficiência de indícios de autoria e prova da materialidade em relação aos delitos imputados consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+4. Caso em que as instâncias ordinárias destacaram a necessidade da medida para a garantia da ordem pública, especialmente em razão das circunstâncias reveladas no caso concreto, apontando-se que, a despeito de a agravante não ter sido flagrada com quantidade ou montante expressivo de drogas, nos autos ficou demonstrado o seu significativo envolvimento com o narcotráfico, sendo a acusada apontada por diversos usuários de drogas como fornecedora de entorpecentes, a qual, inclusive, negociava, de forma contumaz, o recebimento de produtos roubados em troca e se utilizava até da própria filha, menor de idade, para colaborar com a mercancia das drogas e, assim, prevenir suspeitas acerca de sua atuação ilícita. Prisão preventiva devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP.
+5. Condições subjetivas favoráveis à agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão; o contexto fático e as notícias sobre o envolvimento contumaz da acusada com o narcotráfico, inclusive mediante participação da própria filha menor de idade na mercancia ilícita, indicam que as providências menos gravosas seriam insuficientes para acautelar a ordem pública. Precedentes.
+7. Agravo regimental parcialmente provido apenas para afastar o fundamento relativo à inadequação da via eleita, mantendo, no mais, o improvimento do recurso ordinário.
+(AgRg no RHC n. 166.269/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+Nesse contexto, não verifico a existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, retifico o relatório da decisão impugnada para corrigir erro material, mas voto pelo desprovimento do presente Agravo Regimental no habeas corpus.
