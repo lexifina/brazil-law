@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/05/2023 a 22/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por M DE OLIVEIRA ADVOGADOS & ASSOCIADOS e MARCONI MEDEIROS MARQUES DE OLIVEIRA contra acórdão da Segunda Turma que manteve a decisão agravada.
+O aresto embargado tem a seguinte ementa (fl. 214):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA EM FACE DO IPREV E DO DISTRITO FEDERAL. EXPEDIÇÃO DE RPV OU PRECATÓRIO APARTADO. IMPOSSIBILIDADE. PRECEDENTES
+1. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 535 do CPC/1973, em razão do óbice da Súmula n. 284/STF.
+2. É firme o entendimento das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça quanto à impossibilidade de expedição, em separado, de requisição de pequeno valor ou de precatório para o pagamento de honorários advocatícios contratuais. Precedentes.
+Agravo interno improvido.
+Sustenta a parte embargante, em síntese, as seguintes omissões:
+1) demonstrada especificadamente a ofensa ao art. 1.022, II, do CPC, e a necessidade de aplicação ao caso vertente da literalidade do comando supracitado, tornando-se perfeitamente possível a compreensão da controvérsia, dúvidas não restam acerca da omissão apontada, do cabimento e da necessidade do provimento do presente apelo especial, não havendo razões para aplicação do óbice da Súmula n. 284/STF;
+2) em segundo lugar, há omissão no decisum embargado, porque os precedentes citados levam ao provimento do recurso especial, eis que eles resguardam a possibilidade de reserva dos honorários contratuais mediante a juntada aos autos do contrato de prestação de serviços, o que evidentemente foi cumprido, haja vista que há contrato individual firmado entre o advogado e o cliente, que expressamente autoriza o destaque colimado, direito este ainda assegurado pelo apontado violado art. 22, § 4º, da Lei n. 8.906/94, que é peremptório no sentido de que se "o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou".
+Requer, ao final, o acolhimento dos embargos declaratórios.
+Impugnação (fls. 240-242).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO INCÓLUME. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não ocorreu no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, manteve a decisão monocrática do relator porquanto concluiu pela incidência das Súmulas n. 284 do STF e n. 83 do STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso em exame, inexistem vícios no julgado.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Verifica-se que o acórdão embargado, de maneira clara e fundamentada, manteve a decisão monocrática do relator, que não conheceu do recurso especial.
+Conforme posto na decisão o ra embargada, as questões tidas por omissas foram analisadas expressamente, conforme os excertos abaixo transcritos (fls 1.586-1.588):
+Inicialmente, incide o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), uma vez que a parte recorrente alega, genericamente, a existência de violação do art. 1.022 do CPC, sem, contudo, demonstrar especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+ ..
+Com efeito, o STJ entende que os honorários contratuais, como não decorrem da condenação, não podem ser objeto de RPV, conforme os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS CONTRATUAIS. OBJETO DE RPV. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CARACTERIZADA.1. Constata-se que, não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.2. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.347.736/RS, submetido ao regime de recursos repetitivos, decidiu pela autonomia dos honorários em relação ao crédito principal, inclusive no que concerne à forma de expedição do requisitório.3. Contudo, os honorários contratuais, como não decorrem da condenação, não podem ser objeto de RPV, tendo-se em conta o regime estabelecido no art. 100 da Constituição Federal. Assim, quanto a essa espécie de honorários, assegura-se ao advogado a possibilidade de requerer a sua reserva, mediante a juntada do contrato de prestação de serviços aos autos, antes da expedição do mandado de levantamento ou do precatório, se não houver litígio já instalado a esse propósito entre o patrono e seu cliente. Precedentes: AgRg na Rcl 18.498/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 24/09/2018, AgInt no REsp 1625004/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21/05/2018.4. Agravo conhecido para dar provimento parcial ao Recurso Especial.(AREsp 1.568.749/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/10/2019, DJe 05/11/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR. IMPOSSIBILIDADE. PRECEDENTES.1. A Primeira Seção desta Corte, no julgamento do REsp 1.347.736/RS, submetido ao rito do art. 543-C do CPC/1973, decidiu que "não há impedimento constitucional, ou mesmo legal, para que os honorários advocatícios, quando não excederem ao valor limite, possam ser executados mediante RPV, ainda que o crédito dito "principal" observe o regime dos precatórios".2. Esse entendimento não se aplica aos honorários contratuais, porquanto não decorrem da condenação, sendo facultado, entretanto, ao advogado, requerer a sua reserva mediante a juntada aos autos do contrato de prestação de serviços. Precedentes.3. Agravo interno não provido.(AgInt no AgInt no REsp 1.724.222/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/09/2019, DJe 05/09/2019).
+Deste modo, incide o enunciado da Súmula n. 83/STJ,in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". E o teor do referido enunciado aplica-se inclusive aos recursos especiais interpostos com fundamento na alínea "a" do permissivo constitucional.
+Nesse contexto, não merece prosperar o argumento trazido pela parte embargante no que diz respeito ao vício de omissão, porquanto a pretensão de reformar o julgado não se coaduna com as hipóteses contidas no art. 1.022 do CPC, razão pela qual inviável o seu exame em embargos de declaração.
+Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUDITORES FISCAIS. GRATIFICAÇÕES. SINDICATO. LEGITIMIDADE EXTRAORDINÁRIA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+ ..
+VII - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+VIII - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IX - Embargos de declaração rejeitados. (EDcl nos EDcl no REsp n. 1.468.734/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 17/5/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO
+CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+1. O acórdão embargado, ao não prover o Agravo Interno, consignou:
+ ..
+4. É patente que o argumento trazido pela parte embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+5. Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/acórdão Min. Og Fernandes, DJe 19.12.2016) 6. Dessa forma, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+7. Embargos de Declaração rejeitados. (EDcl no AgInt no AREsp n. 1.895.210/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 15/3/2022.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
