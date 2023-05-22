@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAMILA DE SOUZA DA SILVA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que a paciente foi presa em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 13-24.
+No presente writ, a impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais da paciente seriam favoráveis.
+Alega que é mãe de uma criança menor de doze anos de idade, razão pela qual faria jus à prisão domiciliar.
+Requer, ao final, a revogação da prisão preventiva, ou, subsidiariamente, sua substituição por medidas cautelares diversas, ou pela prisão domiciliar.
+A liminar foi indeferida e as informações foram prestadas às fls. 32-68.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, nos termos do parecer de fls. 73-82.
+É o relatório.
+Decido.
+No que pertine à alegada ausência de fundamentação do decreto prisional, observa-se que, na hipótese, a segregação cautelar está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, seja em razão da quantidade, variedade e lesividade das drogas apreendidas - 30 porções de maconha, pesando, no total, 23g; 16 pinos de cocaína, pesando 8g e 22 porções de crack, pesando 4g - além da constatação de que "os agentes, de forma coordenada, comercializavam entorpecentes em plena via pública, tudo demonstrado por filmagens realizadas pelos policiais"; seja pelo fato da paciente responder a três processos criminais pelos crimes de roubo, dano qualificado e furto qualificado, circunstâncias que revelam a periculosidade concreta da agente e a probabilidade de repetição de condutas tidas por delituosas, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva. Circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+No que tange ao pleito de substituição da prisão preventiva pela domiciliar, o habeas corpus não comporta conhecimento. Isso porque, do exame do acórdão reprochado, tem-se que o writ originário não foi conhecido, no ponto, ante o óbice incontornável da supressão de instância.
+Portanto, a matéria ora suscitada sequer foi analisada pelo Tribunal a quo, nos autos do HC n. 5254230-44.2022.8.21.7000 , objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Deve-se ressaltar, ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+P. e I.
