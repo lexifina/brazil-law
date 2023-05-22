@@ -1,0 +1,5 @@
+# Lei nº 8.845, de 19 de maio de 2023, do Estado de Alagoas
+
+DISPÕE SOBRE O ACRÉSCIMO E A ALTERAÇÃO DE DISPOSITIVOS DA LEI ESTADUAL Nº 8.551, DE 10 DE DEZEMBRO DE 2021, QUE AUTORIZA O GOVERNO DE ALAGOAS, POR MEIO DA SECRETARIA DE ESTADO DA EDUCAÇÃO - SEDUC, A CONCEDER BOLSA ESCOLA 10, COM OFERTA DE INCENTIVO FINANCEIRO, CONDIZENTE AOS BENEFICIÁRIOS MATRICULADOS EM UNIDADES  DE ENSINO DE TEMPO INTEGRAL, E DÁ OUTRAS PROVIDÊNCIAS.".
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/2505>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2023/2505/lei_no_8.845_de_19_de_maio_de_2023_1.pdf>
