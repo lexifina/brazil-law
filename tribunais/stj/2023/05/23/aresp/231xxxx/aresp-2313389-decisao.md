@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pela VIAÇÃO PIONEIRA LTDA. contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 652):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. TEORIA DO RISCO ADMINISTRATIVO. ATROPELAMENTO POR EMPRESA DE TRANSPORTE PÚBLICO. RESPONSABILIDADE OBJETIVA. CULPA EXCLUSIVA DA VÍTIMA NÃO VERIFICADA. DANOS ESTÉTICOS. DANOS MORAIS. JUROS DE MORA DESDE O EVENTO DANOSO.
+1. A responsabilidade dos prestadores do serviço público de transporte coletivo é objetiva, dispensando a comprovação da culpa ou dolo do agente público, podendo ser afastada em caso de culpa exclusiva da vítima, não verificada nesta lide.
+2. Em caso de responsabilidade extracontratual, os juros de mora fluem a partir da data do evento danoso. Súmula 54 do STJ.
+3. Negou-se provimento ao apelo.
+Embargos de declaração rejeitados (e-STJ fls. 710/722).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 734 e 945 do Código Civil e defende que "há de ser analisada e reconhecida a culpa exclusiva da vítima ou, no mínimo, a culpa concorrente da vítima, que agiu com total descuido ao adentrar a pista de rolamento do ônibus, o que importa na compensação do valor arbitrado a título de indenização" (e-STJ fl. 743).
+Contrarrazões às e-STJ fls. 993/1.007.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 660/661):
+O artigo 37, §6º, da Constituição Federal, prevê a responsabilidade dos prestadores do serviço público de transporte coletivo é objetiva, dispensando a comprovação da culpa ou dolo do agente público:
+ ..
+Embora, conforme alegado pela apelante, Viação Pioneira Ltda., a culpa exclusiva da vítima seja uma das hipóteses de exclusão da responsabilidade, por romper o nexo causal, não verifico a caracterização desta no presente caso.
+Como relatado durante a oitiva da autora e da testemunha arrolada, trata-se de parada de ônibus cotidianamente cheia, em que os usuários, aglomerados, correm para conseguir assento no veículo, fato que exige atenção redobrada dos condutores ou medidas práticas para evitar possíveis acidentes, previsíveis diante das circunstâncias fáticas, não sendo o caso de culpa exclusiva da vítima.
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido da ausência de hipóteses de exclusão da responsabilidade civil demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. ROMPIMENTO DE ADUTORA. ALAGAMENTO EM IMÓVEL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação pleiteando, em suma, indenização por danos morais e materiais, além de valor equivalente a um novo imóvel, considerando que o seu é objeto de ação demolitória devido aos danos causados pelo rompimento de adutora pertencente à ré no subsolo do imóvel. A sentença de primeiro grau julgou os pedidos parcialmente procedentes. O Tribunal de Justiça do Estado do Rio de Janeiro manteve a sentença.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a irresignação do recorrente acerca dos arts. 186 e 927 do CC/2002, vinculados à tese de culpa exclusiva da vítima, vai de encontro às convicções do julgador a quo que, com lastro no conjunto probatório constante dos autos, decidiu que "restou devidamente comprovada a gritante falha na prestação do serviço perpetrada pela recorrente" (fl. 207).
+IV - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático- probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+V - Agravo interno improvido. (AgInt no AREsp n. 2.140.023/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022.) (Grifos acrescidos).
+Por fim, a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes. (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
