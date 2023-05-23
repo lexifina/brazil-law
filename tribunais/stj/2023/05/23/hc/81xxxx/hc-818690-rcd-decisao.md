@@ -1,0 +1,9 @@
+DECISÃO
+Nada a prover quanto ao pedido de reconsideração.
+O pedido, nos moldes em que deduzido pelo advogado, está em confronto com o que dispõe a Súmula n. 643/STJ. A teor do art. 147 da LEP, as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação.
+Conforme a jurisprudência desta Corte, "não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação" (EREsp 1.619.087/SC, Rel. p/ acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017).
+Para cada réu condenado, formar-se-á um processo de execução, individual e indivisível. Se a paciente não interpôs RESP/AREsp e houve trânsito em julgado da sua condenação para o Ministério Público e a defesa, o pedido é outro e não há interesse em impetrar habeas corpus.
+O processo físico não tramita perante esta Corte. Uma vez digitalizados, os autos retornam aos tribunais de origem. Devem ser requeridas ao Juiz do processo de conhecimento, na Secretaria da Vara onde tramitou a ação penal, as providências para a execução definitiva (e não provisória) das penas restritivas de direitos, conforme as regras de competência interna do Tribunal. Verificada eventual omissão da Vara de origem , e se for necessário, a autoridade poderá requisitar peças necessárias à constatação do trânsito em julgado e à formação da guia (cópia da denúncia, da sentença e acórdão, instrumentos de mandado, certidão de trânsito etc.).
+A normativa do Conselho Nacional de Justiça aplica-se à hipótese de expedição de guia provisória, a réu preso cautelarmente por sentença condenatória recorrível (art. 8º, Resolução n. 113, de 20/4/2010), situação não especificada na hipótese.
+À vista do exposto, indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
