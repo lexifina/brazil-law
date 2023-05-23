@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo d. Juízo da 5ª Vara do Trabalho de Palmas/TO em face do d. Juízo de Direito da 5ª Vara Cível de Palmas/TO.
+O conflito foi estabelecido nos autos de "Ação de Cobrança de Danos Materiais e Morais" movida em face da Caixa de Assistência dos Funcionários do Banco Amazônia-CASF, entidade de assistência à saúde organizada na modalidade de autogestão, cuja pretensão consiste, em síntese, no ressarcimento de despesas médico-hospitalares (nas fls. 10/25).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+Ademais, a questão, corriqueira nesta Corte, é de singela resolução.
+Deveras, a jurisprudência desta Corte alinha-se ao entendimento do col. Supremo Tribunal Federal adotado no julgamento dos Recursos Extraordinários nº 586.453/SE e nº 583.050/RS, assentando ser da Justiça Comum a competência para processar e julgar demandas dessa natureza, ainda que prestado por entidade organizada por autogestão, cujo correlato contrato de prestação de serviços não é regulado pelos instrumentos que disciplinam a relação de trabalho da qual poderia ter origem. Confira-se, a propósito, a ementa desse último:
+EMENTA Recurso extraordinário - Direito Previdenciário e Processual Civil - Repercussão geral reconhecida - Competência para o processamento de ação ajuizada contra entidade de previdência privada e com o fito de obter complementação de aposentadoria - Afirmação da autonomia do Direito Previdenciário em relação ao Direito do Trabalho - Litígio de natureza eminentemente constitucional, cuja solução deve buscar trazer maior efetividade e racionalidade ao sistema - Competência da Justiça comum para o processamento do feito - Recurso não provido.
+1. A competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho. Inteligência do art. 202, § 2º, da Constituição Federal a excepcionar, na análise desse tipo de matéria, a norma do art. 114, inciso IX, da Magna Carta.
+2. O intérprete diante de controvérsia em que há fundamentos constitucionais para se adotar mais de uma solução possível deve optar por aquela que efetivamente trará maior efetividade e racionalidade ao sistema. 3. Recurso extraordinário não provido.
+(RE 583050, Relator(a): Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno)
+Nessa toada, a eg. Segunda Seção desta Corte, no julgamento do Incidente de Assunção de Competência - IAC nº 5, consolidou o entendimento vinculante de que, independentemente da previsão acerca de assistência à saúde em contrato de trabalho, acordo ou convenção coletiva, compete à Justiça comum o julgamento das demandas entre usuário, mesmo trabalhador aposentado ou dependente do trabalhador, e operadora de plano de saúde, exceto somente quando este, organizado na modalidade autogestão empresarial, é regulado e operado pela própria empresa contratante do trabalhador, conforme regulação contratual trabalhista, hipótese em que competência é da Justiça do Trabalho.
+Confira-se, a propósito, a ementa de um dos precedentes vinculantes:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. CONFLITO NEGATIVO DE COMPETÊNCIAS. CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE COLETIVO EMPRESARIAL. CONTROVÉRSIA ACERCA DA COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CASO CONCRETO. DIREITO DE MANUTENÇÃO DE APOSENTADO POR INVALIDEZ. PLANO COLETIVO EMPRESARIAL. OPERADORA DE MODALIDADE NÃO AUTOGESTÃO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Controvérsia acerca da competência da Justiça do Trabalho para julgamento de demanda entre usuário e operadora de plano de saúde coletivo empresarial.
+2. Teses para os efeitos do art. 947, § 3º, do CPC/2015:
+2.1. Compete à Justiça comum o julgamento das demandas entre usuário e operadora plano de saúde, exceto quando o plano é organizado na modalidade autogestão empresarial, sendo operado pela própria empresa contratante do trabalhador, hipótese em que competência é da Justiça do Trabalho.
+2.2. Irrelevância, para os fins da tese 2.1, da existência de norma acerca da assistência à saúde em contrato de trabalho, acordo ou convenção coletiva.
+2.3. Aplicabilidade da tese 2.1 também para as demandas em que figure como parte trabalhador aposentado ou dependente do trabalhador.
+3. Julgamento do caso concreto: 3.1. Demanda ajuizada na justiça estadual, por ex-empregada aposentada por invalidez, visando a sua manutenção no plano coletivo empresarial prestado por operadora de modalidade diversa da autogestão.
+3.2. Declinação de competência pelo Tribunal de Justiça ao juízo do trabalho, tendo este suscitado o presente conflito negativo de competências.
+3.3. Aplicação da tese 2.1, "a contrario sensu", para se declarar competente o juízo estadual, devendo dos autos retornarem ao Tribunal de Justiça suscitado.
+4. CONFLITO ACOLHIDO PARA SE DECLARAR COMPETENTE PARA A DEMANDA JUÍZO DA 18ª VARA CÍVEL DA COMARCA DE SÃO PAULO.
+(CC 167.020/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 17/03/2020)
+Assim, como o pretensão não tem como causa de pedir regulamentos próprios de contrato trabalho, individual ou coletivo, a competência é da Justiça Comum.
+Ante o exposto, conheço do conflito e declaro a competência do Juízo de Direito da 5ª Vara Cível de Palmas/TO.
+Publique-se.
