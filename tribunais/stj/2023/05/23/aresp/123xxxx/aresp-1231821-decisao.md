@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO MG, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO À SAÚDE. INSTITUO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE MINAS GERAIS. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO.
+ILEGALIDADE. REEMBOLSO DA DESPESA COM A AQUISIÇÃO DO FÁRMACO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+- A recusa no fornecimento de medicamento necessário para a realização de tratamento em segurado do Instituto de Previdência dos Servidores do Estado de Minas Gerais - IPSEMG - configura ilegalidade na medida em que inviabiliza o acesso aos serviços prestados.
+- Tendo a parte autora efetuado a aquisição do medicamento, deve ser mantida a sentença que condenou o IPSEMG ao ressarcimento da quantia desembolsada pela segurada.
+- Sobre o valor a ser restituído deverá incidir correção monetária pelos índices da tabela da Corregedoria-Geral de Justiça (que não destoa o IPCA), a contar da data do desembolso, vedada a "reformatio in pejus".
+- Os honorários sucumbenciais de advogado devem ser fixados consoante os preceitos insertos no Código de Processo Civil" (fl. 161e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 170/176e), os quais restaram parcialmente acolhidos, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA. IMPOSSIBILIDADE. SÚMULA 421 DO STJ.
+- Não é cabível a condenação do Ipsemg ao pagamento de honorários advocatidos em benefício da Defensoria Pública, nos termos da Súmula nº 421 do STF" (fl. 204e).
+Nas razões do Recurso Especial (fls. 210/214e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1º-F da Lei 9.494/97; 1.022, I e II, do CPC/2015.
+Sustentou que:
+"Inicialmente, cumpre aduzir que interpostos embargos de declaração com o intento de se ter o devido prequestionamento do tema, em que, suscintamente foi aduzido o seguinte:
+- Omissão quanto ao disposto na Lei Complementar 64/2002, quanto à ausência de dever de reembolso pelo recorrente em razão de não se ter a previsão para fornecimento para o medicamento Thyrogen.
+- Omissão em deixar de explorar que o medicamento, consoante documentação anexa, não foi aprovado pela ANVISA, consoante documento de fl. 20 dos autos bem como o parecer do Núcleo de Avaliação de Tecnologias de Saúde (NATS), não o indica para o tratamento pretendido pela recorrida.
+- Omissão em relação a aplicação, em relação à correção monetária, do disposto no artigo 1º-F da Lei 9494/97 (com redação pela Lei 11.696/2009), em razão da ADI 4357 e 4425, frente ao RE 870947" (fls. 211/212e).
+Inadmitido o Recurso Especial e negado seguimento quanto ao Tema 905 (fls. 475/480e), foi interposto o presente Agravo (fls. 483/488e).
+A irresignação não merece prosperar.
+O Tribunal estadual, ao julgar o recurso, concluiu que (fls. 205/206e):
+"Na espécie, com relação à obrigação de fornecimento do medicamento, o acórdão embargado foi claro ao decidir que, diante da comprovação da necessidade da ora embargada, segurada do Ipsemg, de utilização do medicamento para seu tratamento, conforme relatórios médicos subscritos por profissional especialista em oncologia, integrante do quadro médico da própria autarquia, deveria ter sido disponibilizado o fármaco. No entanto, considerando a aquisição do medicamento, a embargada deveria ser ressarcida da quantia despendida; .devidamente corrigida pelos índices da tabela da Corregedoria0eral de Justiça.
+Desse:!modo, constata-se que, nestes pontos específicos, o posicionamento adotado no acórdão embargado foi devidamente fundamentado, não existindo omissão, contradição, obscuridade ou erro material. Mas, sim, apresentação de posicionamento contrário aos interesses do embargante.
+Por outro lado, no tocante aos honorários advocatícios, razão assiste ao embargante.
+Isso porque, a despeito de o ora embargante, nas razões de sua apelação, ter, requerido apenas a redução da verba honorária fixada em primeira instancia, o que, inclusive, foi acolhido pela Turma Julgadora, não é cabível a condenação da autarquia ao pagamento de honorários advocatícios em benefício da Defensoria Pública, nos termos da Súmula nº 421 do STJ."
+O provimento do Recurso Especial por contrariedade ao art. 1.022, II, do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na Apelação, no Agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de Aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir à sua anulação ou reforma; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+Tais requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+In casu, entendo ausentes tais pressupostos.
+O acórdão recorrido, julgado sob a égide do CPC/2015, não incorreu em omissão, contradição ou obscuridade, uma vez que o voto condutor do julgado apreciou fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES , SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1.360.762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
