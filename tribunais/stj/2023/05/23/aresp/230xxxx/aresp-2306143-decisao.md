@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ELOI PEDRO ZANINI, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"DIREITO ADMINISTRATIVO. MILITAR PENSÃO MILITAR. DESCONTO. POSTO ACIMA. ILEGALIDADE. DECADÊNCIA. INOCORRÊNCIA.
+1. No presente caso, tenho que não há falar em decadência, porquanto o ato ilegal não gera direito adquirido à autora. Ademais, em se tratando de relação de trato continuado e sucessivo, a cada desconto, o prazo é renovado periodicamente (TRF4 5046996-60.2016.4.04.0000, QUARTATURMA, Relatora VIVIAN JOSETE PANTALEÃO CAMINHA, juntado aos autos em 26/06/2017).
+2. A autorização para desconto de pensão militar com graduação ou posto superior ao auferido pelo militar, após 29.12.2000, ocorreu em desacordo com o previsto na MP 2.215/01.
+3. Não há óbice à correção do ato administrativo praticado pela União em flagrante ilegalidade, sobremodo quando o administrado não incorrerá em prejuízo, posto que houve determinação administrativa para devolução de valores descontados a maior" (fl. 196e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 54 da Lei 9.784/99, sustentando que devido à decadência não poderia a Administração ter revisto ato que possibilitava ao agravante o recolhimento da pensão na forma que vinho ocorrendo desde 2010.
+Contrarrazões a fls. 231/233e.
+Inadmitido o Recurso Especial (fls. 236/239e), foi interposto o presente Agravo (fls. 247/252e).
+Não houve contraminuta.
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação Ordinária ajuizada pela parte agravante, com o objetivo de reconhecer seu direito à contribuir para pensão militar correspondente a dois postos acima, publicada no Boletim Interno da Base Aérea de Santa Maria nº 087, de 10 de maio 2010 (anexo 6), acolhendo como correta a exegese da Administração à época (conteúdo declaratório).
+Julgada procedente a demanda, recorreu o réu, tendo sido reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Sobre o tema  decadência para a Administração rever ato administrativo eivado de ilegalidade  este Superior Tribunal de Justiça possui entendimento no sentido de que "caso o ato administrativo, acoimado de ilegalidade, tenha sido praticado antes da promulgação da Lei 9.784/99, a Administração tem o prazo decadencial de cinco anos para anulá-lo, a contar da vigência do aludido diploma legal. Se o ato tido por ilegal tiver sido executado após a edição da mencionada Lei, o prazo quinquenal da Administração contar-se-á da sua prática, sob pena de decadência" (STJ, AgRg no REsp 1.563.235/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 24/02/2021).
+No caso, consta dos autos que o ato em debate fora praticado em 10/05/2010, tendo sido anulado pela a Administração, apenas em 2019, vejamos:
+"No presente caso, a Aeronáutica autorizou, ainda que baseada em legislação revogada à época, o desconto a título de pensão militar sobre soldo correspondente a um grau hierárquico superior ao que descontava o autor. A referida autorização foi publicada em boletim, em 10.05.2010 (ev. 1,FICHINDIV6, fl. 1, origin).
+Em 15.10.2019, a Aeronáutica publicou Portaria Dirap nº 4.960/1P4-1, a qual anulou os atos concessivos para contribuição de posto e graduação acima conferidos após 29.12.2000, visto estarem em desacordo com o art. 32 da MP 2.215-10/01 e com o Parecer nº 222/CONJUR-MD/CGU/AGU de 25.04.2017" (fl. 182e)
+Dessa forma, verifica-se que transcorreram mais de cinco anos entre a prática do ato e sua anulação, de modo que caracterizada a decadência.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo, para dar provimento ao Recurso Especial, a fim de restabelecer a sentença.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
