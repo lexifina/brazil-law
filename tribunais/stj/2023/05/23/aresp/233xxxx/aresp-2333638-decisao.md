@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo CONSELHO REGIONAL DE QUÍMICA DA QUINTA REGIÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL, ANUIDADES. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO, NOTIFICAÇÃO DO LANÇAMENTO. NULIDADE DA CDA.
+1. O lançamento das contribuições do interesse de categoria profissional (anuidades) se aperfeiçoa com a notificação do contribuinte para pagar o tributo, sendo considerada suficiente a remessa do carnê, boleto ou documento equivalente indicando o valor da anuidade e a data de vencimento.
+O crédito tributário de anuidade estará constituído por lançamento simplificado em definitivo a partir do vencimento, se não houver pagamento ou recurso administrativo.
+2. A notificação do sujeito passivo é requisito do lançamento. A presunção de legitimidade da certidão de dívida ativa descrita no art. 3º da Lei 6.830/1980 cede se o crédito tributário não estiver regularmente lançado. A falta de notificação válida implica ausência de lançamento e de constituição do crédito tributário.
+3. Hipótese em que ausente a comprovação de regular notificação do executado, ensejando a nulidade do título executivo e a extinção da execução fiscal.
+Alega violação dos arts. 16 e 25, ambos da Lei 2.800/1956 e do art. 5º da Lei 12.514/2011, no que concerne à legalidade da cobrança da anuidade feita pelo Conselho Regional de Química, ora recorrente, em razão da regularidade da constituição do crédito, trazendo os seguintes argumentos:
+O Recorrido efetuou sua inscrição voluntária junto ao CRQ-V, razão pela qual passou a ser gerada anuidade nos termos do art. 25 da Lei 2.800/56. Dito isso, quando um profissional/empresa realiza seu registro junto ao Conselho, estes passam a ter ciência da obrigação de adimplir a anuidade correspondente, conforme preceitua o teor do art. 3º do Decreto-Lei nº 4.657/42 (LICC):
+ ..
+O profissional deixou de adimplir suas anuidades e não solicitou o devido cancelamento ou isenção de anuidade, que é o ato administrativo para cancelamento de fato gerador de anuidade, que é estabelecido através de Resoluções Normativas expedidas pelo CFQ, cabendo ao profissional/empresa solicitar administrativamente esse cancelamento de registro, de acordo com o regulamento da Autarquia.
+As anuidades são emitidas e disponibilizadas na área MEU CRQ no site do Conselho, bem como são enviadas para o endereço cadastrado do profissional. Este por sua vez, é cientificado no momento da inscrição sobre a responsabilidade de manter seu registro atualizado, vejamos trecho do requerimento de registro:
+ ..
+Dito isso, é visível que o profissional e as empresas têm total ciência a partir do momento da inscrição, e inclusive, concordam com os termos no momento da vinculação junto ao CRQ-V. (fls. 78/79).
+Ou seja, os boletos anuais de anuidade são enviados conforme consta na documentação anexa a inicial e na apelação, bem como são disponibilizados para impressão no site do CRQ-V mediante login de acesso de cada profissional/empresa.
+O envio e disponibilização das anuidades não são requisitos básicos de formação do tributo, uma vez que o mesmo surge com o registro ativo nos termos do art. 5º da Lei 12.514/2011: (fls. 80).
+Destaca-se que ao enviar o boleto para o endereço fornecido, disponibilizar o mesmo para impressão no portal MEU CRQ, o enviar uma notificação de dívida, tendo assim, três formas diferentes de notificar o profissional/empresa.
+Ou seja, não houve nenhuma afronta ou vício na constituição do tributo que teve seu fato gerador devidamente constituído.
+A CDA possui todos os requisitos necessários inclusive o processo administrativo de registro do profissional, atendendo assim ao CTN bem como a lei 6.830/80.
+O que vemos é o poder judiciário avocando para si, a função que é do executado, e fulminando execuções fiscais devidamente constituídas sob o pretexto de que o Boleto deveria ter rastreio por AR.
+ ..
+Portanto, deve ser acolhido o presente recurso para que seja reformada a decisão proferida pelo TRF-4, uma vez que o débito fora devidamente constituído e executado, nos termos dos arts. 16 e 25, da Lei 2.800/56 c/c Art. 5º da Lei 12.514/2011 e CTN e da Lei 6.830/80. (fls. 80/81).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Os documentos constantes do processo não se mostram suficientes para demonstrar a regular notificação do contribuinte.
+Veja-se, ainda, que no detalhamento das CDAs estão incluídas rubricas referentes a juros e multas a contar do vencimento ordinário das anuidades, sendo que tais valores somente são exigíveis após a constituição do tributo, quando já se pode considerar em mora o devedor.(e1d2 na origem).
+Não comprovada notificação válida, não se aperfeiçoou o lançamento, e não se constituiu o crédito tributário. Não constituído o crédito tributário, inválida a inscrição em dívida ativa, e nula a certidão que a atesta: a presunção de legitimidade da certidão de dívida ativa descrita no art. 3º da L 6.830/1980 está desfeita neste caso, uma vez que se trata de presunção relativa: (fls. 64).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
