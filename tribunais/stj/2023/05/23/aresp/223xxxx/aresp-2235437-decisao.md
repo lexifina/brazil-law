@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por JACIRA CAMLOFSKI DIAS contra decisão proferida pelo Tribunal Regional Federal da 4ª Região que não admitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 120):
+ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RAV. COISA JULGADA EM AÇÃO INDIVIDUAL. ACORDO. CONDIÇÃO RESOLUTIVA. ILEGITIMIDADE PARA A EXECUÇÃO DO TÍTULO COLETIVO. EXTINÇÃO DA DEMANDA.
+1. O Cumprimento de Sentença de origem tem por objeto diferenças vencimentais a título de Retribuição Adicional Variável - RAV, reconhecidas na Ação Coletiva nº 0002767-94.2001.01.3400 (2001.34.00.002765-2).
+2. Versando ambas as demandas, individual e coletiva, sobre a mesma matéria, e rejeitado na ação mandamental o direito às diferenças de RAV (por sentença irrecorrível), não poderá o exequente se aproveitar do título executivo coletivo, sob pena de ofensa à coisa julgada formada em ação específica (individual).
+3. Diante da existência de coisa julgada desfavorável à pretensão ora posta, a gerar o implemento de condição resolutiva do acordo anteriormente firmado e a ilegitimidade da parte exequente para a execução do título executivo formado na Ação Coletiva, há de ser extinto o cumprimento de sentença, nos termos dos artigos 330, II, e 924, I, ambos do CPC/2015, por ausência de condição da ação.
+4. Prejudicados os Embargos de Declaração opostos pela parte agravada e provido o Agravo de Instrumento.
+Os embargos de declaração opostos foram desprovidos (e-STJ fls. 168/172).
+No especial obstaculizado, a parte recorrente sustenta violação: (a) do art. 1.022, I e II, do CPC/2015, por negativa de prestação jurisprudencial; e (b) dos arts. 337, VII, §§ 1º, 2º e 4º, 503, § 2º, 505, e 508, do CPC/2015, ao argumento de que (e-STJ fl. 198):
+ ..
+os acórdãos recorridos merecem reforma integral. Inaplicável o óbice da coisa julgada no presente caso, vez que a ação individual promovida pelo recorrente é substancialmente diversa da ação coletiva. Esta lide não foi uma reprodução daquela, embora ambas dissessem respeito à RAV de que trata a Medida Provisória 831/95 (atual Lei 9.624/98). As demandas não foram coincidentes, por isso que apresentaram elementos (causas de pedir e pedido) que diferem entre si.
+Isto porque, para o reconhecimento da coisa julgada é necessário que entre uma e outra demanda seja caracterizada a chamada "tríplice identidade" - de partes, de pedido e de causa de pedir -, sendo que a variação de quaisquer desses elementos identificadores afasta a ocorrência de coisa julgada.
+Contrarrazões às e-STJ fls. 211/237.
+Passo a decidir
+Quanto à alegada violação do art. 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.  ..  (REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Extrai-se do acórdão recorrido (e-STJ fls. 128/ 131):
+ ..
+6. Coisa julgada
+Inaplicáveis tanto o disposto no art. 104 do CDC, como a renúncia tácita aos efeitos da ação coletiva, resta saber se estaria caracterizada a ofensa ao instituto da coisa julgada.
+Como referido, ambas as demandas, individual e coletiva, têm por objeto diferenças a título de Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, devidas pelo afastamento da Resolução CRAV 001/95.
+Esta Corte Regional reconhece a eficácia preclusiva da julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta, verbis:
+ ..
+Verifica-se a identidade do principal fundamento dos pedidos, eis que buscado o direito ao pagamento da RAV nos moldes da MP nº 831/95 como decorrência do afastamento da Resolução CRAV nº 001/95, com manutenção do pagamento da RAV no limite de até oito vezes o equivalente ao vencimento básico dos Técnicos do Tesouro Nacional.
+Versando ambas as demandas sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, admite-se que se opere a coisa julgada quanto à matéria.
+Relembrem-se os períodos de apuração das diferenças:
+- Mandado de Segurança individual: a partir de 06/1995 (ev. 45, OUT2)
+- Ação Coletiva: de 01/1996 a 06/1999.
+O Mandado de Segurança, interposto por apenas alguns dos substituídos na Ação Coletiva (dentre os quais a ora agravada), transitou em julgado antes mesmo do ajuizamento da demanda pelo SINDIRECEITA, e, como acima referido, teve concedida a segurança.
+Inegável que ambas as demandas versam sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, se está diante de coisa julgada quanto à matéria no Mandado de Segurança individual, cujo período abrange integralmente as diferenças reconhecidas na Ação Coletiva.
+Na hipótese dos autos, se está diante de conflito de coisas julgadas reconhecendo o direito às diferenças postuladas.
+Esta julgadora não está alheia ao entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, segundo a qual há de prevalecer a que transitar em julgado por último, desde que não desconstituída por ação rescisória (STJ, Embargos de Divergência em Agravo em Recurso Especial nº 600.811/SP, Relator Ministro OG Fernandes, Corte Especial, DJe 07/02/2020).
+Contudo, me parece, que tais casos dizem respeito a repetições de ações entre os mesmos litigantes, ou seja, demandas totalmente idênticas.
+A Ação Coletiva, especificamente em relação à ora agravada/exequente, foi proposta quando o acórdão do STJ que concedeu a segurança no Mandado de Segurança individual há muito havia transitado em julgado, de modo que não poderá a exequente aproveitar a nova coisa julgada e executar o título coletivo, sob pena de ofensa aos arts. 337, §§ 1º e 4º, 485, I e V 502, 503 e 924, I, todos do CPC.
+Insta salientar que se está diante de análise de ofensa ao instituto da coisa julgada, de sorte que outros precedentes de minha relatoria, que versaram sobre a comprovação da existência de avaliações individuais via Boletins de Trabalho, não se prestam a alterar o entendimento ora adotado.
+7. Implemento de condição resolutiva do acordo firmado
+Dentre as cláusulas do Termo Individual de Acordo do Projeto de Conciliação fundado nas diferenças reconhecidas na Ação Coletiva nº 0002767- 94.2001.4.01.3400, consta a declaração da parte exequente de que não ajuizou outra ação e não recebeu anteriormente valores ou firmou outro acordo "com idêntico objeto e período".
+Pelas considerações supra, não há como negar que, reconhecida a existência de coisa julgada, resta violada a cláusula do Termo de Acordo, a incidir a condição resolutiva expressa no acordo firmado entre as partes.
+8. Extinção da execução
+A União postula, ao par da resolução do acordo firmado no Projeto Conciliação (que restou deferida), a extinção do cumprimento de sentença de origem, fundado em título executivo formado na Ação Coletiva nº 2001.34.00.002765-2.
+Como visto acima, se está diante de coisa julgada formada no Mandado de Segurança individual, que abrange o período executado com fundamento da Ação Coletiva.
+Diante da existência de coisa julgada favorável à pretensão ora posta, a gerar o implemento de condição resolutiva do acordo anteriormente firmado e a ilegitimidade da parte exequente para a execução do título executivo formado na Ação Coletiva nº 2001.34.00.002765-2, há de ser extinto o cumprimento de sentença, nos termos dos artigos 330, II, e 924, I, ambos do CPC/2015, por ausência de condição da ação.
+Não há que se falar, portanto, em negativa de prestação jurisdicional.
+Quanto ao mais, em relação à possível violação dos dispositivos invocados, observa-se que, para ser realizada sua análise, nos moldes trazidos pela parte recorrente, seria necessário o revolvimento de matéria fático-probatória constante nos autos - existência ou não da coisa julgada - cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DÍVIDA TRIBUTÁRIA. SUB-ROGAÇÃO. NULIDADE DO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. NECESSIDADE DO REEXAME DE FATOS E PROVAS E DE REINTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 5 E 7/STJ.
+ ..
+3. A alteração das conclusões adotadas pela Corte de origem acerca da incongruência entre o edital de leilão e o auto de arrematação e quanto à existência de coisa julgada demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e nova interpretação das cláusulas editalícias, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+ ..
+5. Agravo interno parcialmente conhecido e, nesse ponto, improvido. (AgInt no AREsp 1.505.743/PR, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 02/06/2022).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INEXISTÊNCIA DE COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ AUSÊNCIA DE CORRETA DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL.
+ ..
+5. O Tribunal de origem, soberano na análise do contexto fático-probatório, consignou que a possibilidade de compensação foi alegada pela União em contestação, contudo a sentença não apreciou a questão. Portanto, não houve a formação de coisa julgada quanto ao ponto.
+6. A alteração da conclusão da Corte de origem sobre a coisa julgada e a preclusão normativa, no caso, implica revolvimento do conjunto fático-probatório produzido nos autos, inadmissível na via especial, ante o óbice do enunciado da Súmula 7 do STJ.
+ ..
+11. Agravo Interno não provido. (AgInt no REsp 1.989.209/PB, Relator HERMAN BENJAMIN, SEGUNDA TURMA, DJe 04/11/2022).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER, EM PARTE, do recurso especial e nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
