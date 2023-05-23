@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXSANDRA DE ANDRADE SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0029252-29.2022.8.26.0050).
+Consta dos autos que o Juízo da 2ª Vara das Execuções Criminais do Foro Central de São Paulo/SP determinou a extinção da punibilidade da ora paciente em razão do reconhecimento da prescrição da pretensão executória (e-STJ fls. 35/36).
+O Ministério Público interpôs agravo em execução perante o Tribunal de origem, que deu parcial provimento ao recurso em acórdão assim ementado (e-STJ fl. 40):
+Agravo em execução - Livramento condicional - extinção da punibilidade pela prescrição da pretensão executória - Recurso ministerial - Parcial procedência - Agravada não localizada - Suspensão ad eternum do livramento condicional - Situação irregular - Necessidade de revogação da suspensão cautelar do benefício ou pronta revogação, conforme precedentes do STJ acerca da desnecessidade de prévia oitiva do liberado (LEP, art. 143) em não sendo localizado - Prescrição calculada pelo tempo que resta da pena (CP, art. 113) e descontado o período em que esteve solta (CP, art. 88) - Prescrição em dezesseis anos (pena privativa de liberdade de 9 anos, 8 meses e 29 dias de reclusão) a contar da data de eventual revogação do livramento condicional - recurso parcialmente provido.
+Neste writ, a defesa alega que " a  sentenciada obteve livramento condicional em 26/06/2006, tendo cumprido suas obrigações até 01/04/2008. Em que pese a ausência de cumprimento do livramento condicional, o benefício somente foi suspenso em 30/01/2013 e até o ano de 2022 não havia sido revogado" (e-STJ fl. 4).
+Assevera que, "entre a data da suspensão do livramento condicional e o término do cumprimento da pena, restavam 2 anos, 9 meses e 2 dias de pena a cumprir e que transcorridos mais de 8 anos, sem que houvesse sido declarada a revogação do benefício, retomado o cumprimento da pena ou havido nova prisão, a Defensoria Pública pleiteou a declaração da prescrição da pretensão executória" (e-STJ fl. 7).
+Afirma, ainda, que, "no caso de evasão, a prescrição é regulada pelo tempo restante da pena e que a decisão que suspende o livramento condicional traz, de forma intrínseca, o reconhecimento do abandono do cumprimento da pena, a prescrição da pretensão executória, no caso de suspensão do livramento condicional, deve ser regulada pelo tempo restante da pena" (e-STJ fls. 6/7).
+Requer, liminarmente e no mérito, seja cassado o acórdão de origem para restabelecer a decisão de primeiro grau que declarou extinta a punibilidade do paciente, ante o reconhecimento da prescrição da pretensão executória.
+Indeferida a liminar (e-STJ fls. 48/50), e prestadas as informações solicitadas (e-STJ fls. 60/79 e 80/95); manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus ou, no mérito, pela denegação da ordem (e-STJ fls. 97/100).
+É o relatório.
+Decido.
+A análise da irresignação encontra-se prejudicada.
+Dos autos da Execução Penal n. 7004160-91.2003.8.26.0050 extrai-se que, em 5/5/2023, foi reconhecida a prescrição da pretensão executória e julgada extinta a punibilidade da ora paciente.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
