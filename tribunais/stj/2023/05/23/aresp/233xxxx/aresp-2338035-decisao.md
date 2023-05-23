@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 2/9/2022.
+Concluso ao gabinete em: 10/5/2023.
+Ação: revisão contratual com repetição de indébito ajuizada por REGINALDO DE SÁ GOUVEIA, em face da agravante.
+Sentença: julgou procedentes os pedidos formulados pelo agravado.
+Acórdão: deu parcial provimento à apelação de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO - CONTRATO DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA - CONTRATO DE FINANCIAMENTO HABITACIONAL FIRMADO COM A PREVI (CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL) - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR À HIPÓTESE DOS AUTOS - NÍTIDA RELAÇÃO DE CONSUMO - TEORIA SOCIAL DO CONTRATO - PRECEDENTES - POSSIBILIDADE DE REVISÃO DE CLÁUSULAS ABUSIVAS - MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. PRECEDENTES DO STJ - CAPITALIZAÇÃO MENSAL E JUROS PACTUADA NO CONTRATO DE FINANCIAMENTO, FIRMADO EM 1992 - POSSIBILIDADE DA CAPITALIZAÇÃO MENSAL UNICAMENTE PARA CONTRATOS FIRMADOS APÓS A EDIÇÃO DA MP  1.963-17/00, REEDITADA COMO MP  2.170-36/01 (SÚMULA 539 DO STJ) - CAPITALIZAÇÃO ANUAL PERMITIDA - ART. 591 DO NCC E ART. 4º DO DECRETO  22.626/33 - RESTITUIÇÃO DO INDÉBITO CABÍVEL - SUCUMBÊNCIA MÍNIMA DO AUTOR (ART. 86, PARAGRAFO ÚNICO DO CPC) - DESPESAS E HONORÁRIOS A CARGO DA PREVI - MAJORAÇÃO DOS HONORÁRIOS EM SEDE RECURSAL, PARA MAIS 2%, TOTALIZANDO 12% DO VALOR DO PROVEITO ECONÔMICO AUFERIDO COM A DEMANDA, A SER APURADO EM FASE DE LIQUIDAÇÃO. - RECURSO CONHECIDO E PROVIDO EM PARTE - À UNANIMIDADE.
+I - Incide a legislação consumerista aos contratos de mútuo envolvendo entidade previdenciária e associado, na senda do que dispõe o artigo 3º, § 2º do CDC.
+II - Nos contratos celebrados por instituições integrantes do Sistema Financeiro Nacional, posteriormente à edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada. Na hipótese dos autos, porém, o contrato foi firmado antes da edição da citada MP, havendo que prevalecer a capitalização anual, conforme precedentes do STJ.
+III - Restituição do Indébito Cabível. Recurso conhecido e provido em parte. À unanimidade. (e-STJ fls. 291/292)
+Embargos de declaração: opostos por REGINALDO DE SÁ GOUVEIA, foram acolhidos para alterar o " ..  decidido quanto à capitalização anual de juros, deixando de aplicá-la ao caso em análise, afastando-a dos cálculos das parcelas, pois inexistente previsão contratual expressa, em observância ao entendimento exposto no recurso repetitivo nº 1.388.972/SC (TEMA 953 STJ), e por consequência, passa a constar o dispositivo do apelo no seguinte sentido: "Por todo o exposto, conheço do recurso de Apelação Cível para NEGAR-LHE PROVIMENTO, mantendo em todos os termos a sentença fustigada"." (e-STJ fl. 585).
+Recurso especial: alega violação aos artigos 370, 371, 421, 470, II, e 1.013, § 3º, do CPC/2015; 940 do CC/2002; e 42, parágrafo único, do CDC; à Lei nº 4.595/1964 e à Súmula 596/STF, bem como dissídio jurisprudencial.
+Sustenta, em síntese, a inaplicabilidade do CDC à relação travada entre as partes, ante o teor da Súmula 563/STJ, bem como a aplicabilidade de capitalização mensal de juros, pois houve pactuação expressa, o que afronta o princípio do pacta sunt servanda, bem como a possibilidade de capitalização anual de juros, inaplicabilidade do Tema 953/STJ e impossibilidade de repetição de indébito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da preclusão consumativa do segundo REsp
+O recurso especial de e-STJ fls. 356/365 revela-se manifestamente inadmissível, porquanto, no momento de seu protocolo, por provável erro, já ocorrera o fenômeno da preclusão consumativa, diante da anterior interposição do recurso de e-STJ fls. 299/322.
+Nesse sentido, os seguintes julgados: AI 629.337 AgR, STF, Primeira Turma, DJe de 30/4/2009; e AgRg nos EREsp 983.690/SP, Corte Especial, DJe de 3/2/2014.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no artigo 105, III, "a", da Constituição Federal.
+Nesse sentido: EDcl no REsp 1.726.563/SP, Segunda Seção, DJe 27/9/2019; REsp 1.979.120/SP, Terceira Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, Quarta Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, Quarta Turma, DJe 8/4/2022.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os artigos 370, 371, 470, II, e 1.013, § 3º, do CPC/2015, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da alegação genérica de ofensa à lei
+A parte agravante alega, genericamente, violação à Lei 4.595/1964, deixando de indicar especificamente qual dispositivo legal foi violado pelo acórdão recorrido, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere (i) à aplicação do CDC, permitindo-se a revisão das cláusulas contratuais, visto que a relação caracteriza-se típico modelo de contrato de adesão; (ii) ser cabível a capitalização anual de juros; e (iii) à restituição dos valores pagos a mais, com devolução ao agravado, de forma simples, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da condenação (e-STJ fls. 291/296) para 20% (vinte por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL COM REPETIÇÃO DE INDÉBITO. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. INADMISSIBILIDADE. PRECLUSÃO CONSUMATIVA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSÊNCIA OU DEFICIÊNCIA. SÚMULA 284/STF. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E A INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisão contratual com repetição de indébito.
+2. A interposição do segundo recurso especial revela-se manifestamente incabível, porquanto, no momento de sua interposição, já ocorrera o fenômeno da preclusão consumativa, pela anterior interposição de recurso com idêntico teor. Precedentes.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no artigo 105, III, "a", da Constituição Federal.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284/STF.
+5. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica. Incidência da Súmula 284/STF.
+6. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+7. Agravo conhecido. Recurso especial não conhecido.
