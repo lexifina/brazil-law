@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A (BRADESCO) contra decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 486/495).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, BRADESCO alegou a violação dos arts. 186, 188, 884 e 927 do CC/02, ao sustentar, em síntese (1) ausência de ato ilícito, pois agiu no exercício regular de um direito, não havendo que se falar em indenização por danos morais; e (2) que os danos morais foram fixados em valor exorbitante, devendo sofrer redução para evitar-se o enriquecimento ilícito do agravado.
+A Corte estadual, após análise do conjunto fático probatório dos autos, concluiu que foi caracterizado o ato ilícito, ficando evidente a configuração da responsabilidade civil ensejadora do dano moral. Confira-se o aresto recorrido:
+A despeito dos argumentos lançados pelo banco, o fato é que a expropriação extrajudicial do imóvel garantidor da dívida foi anulada, em razão de vício procedimental, consistente na invalidade da notificação editalícia para a purgação da mora.
+Embora a inadimplência do autor tenha motivado a deflagração do procedimento expropriatório, este fato não autoriza ao credor a fazê-lo ao seu alvedrio, sem a observância da norma regulamentadora da matéria.
+No caso específico dos autos, a falta de notificação válida do devedor fiduciante o impediu de promover a purgação da mora, caso assim pretendesse, retirando-lhe, assim, exercício do direito que lhe era conferido pelo artigo 26, §1º, da Lei nº 9.514/97.
+Essa mácula, que restou insanável, culminou com a anulação do procedimento expropriatório, declarada por meio da sentença proferida na Ação Anulatória nº 0004118-54.2016.8.11.0041, que, aliás, se encontra em fase de cumprimento de sentença, mas não sem antes impor ao autor a perda da posse direta do imóvel, sobre o qual repousava o cultivo de 200.000 metros de grama esmeralda, voltados para sua atividade comercial, que acabou por ser vendido a terceiro.
+Nesse contexto, a despeito da insistência da instituição financeira, não se pode cogitar de que o inadimplemento contratual do autor tenha ensejado o desfecho viciado do procedimento expropriatório, que provocou abrupta interrupção do exercício da posse dele sobre o imóvel e, consequentemente, a perda total da plantação, cuja indenização se faz necessária.
+Nesse contexto, resta, então, perquirir se as circunstâncias vivenciadas pelo autor caracterizam prejuízo moral indenizável.
+No escólio de Maria Helena Diniz (Curso de Direito Civil brasileiro: responsabilidade civil. 28. ed. São Paulo: Saraiva, 2014. p. 112), o direito à indenização por dano moral exsurge de condutas que ofendam direitos da personalidade ou a dignidade da pessoa humana, abrangendo interesses que, embora desprovidos de conteúdo patrimonial, são dotados de extrema relevância na ordem jurídica pátria.
+No caso, resta evidente a configuração da responsabilidade civil, ensejadora do dano moral indenizável, na medida em que ato arbitrário e reconhecidamente nulo, por decisão judicial transitada em julgado, acarretou na perda da posse da fazenda pelo autor e, por conseguinte, de sua fonte de renda, além da privação de seu patrimônio, fatos que, por si só, evidenciam a lesão moral experimentada e o nexo causal entre o dano suportado e o ato praticado.
+Nesse contexto, caracterizado o ato ilícito, visualizo os pressupostos para a condenação do banco ao pagamento de verba indenizatória (e-STJ, fls. 407/408 - sem destaque no original).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+No que se refere ao montante arbitrado pelos danos morais, a lei não fixa valores ou critérios para a sua quantificação que, entretanto, deve ter assento na regra do art. 944 do Código Civil. Por isso, esta Corte tem se pronunciado reiteradamente que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Dessa forma, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+No caso dos autos, o valor fixado na sentença e mantido pelo Tribunal estadual para a indenização por danos morais (R$ 50.000,00 - cinquenta mil reais), não se mostra exorbitante a justificar a excepcional intervenção desta Corte no presente feito.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. DESCREDENCIAMENTO DE CLÍNICA MÉDICA. AUSÊNCIA DE COMUNICAÇÃO PRÉVIA AO CONSUMIDOR. ATO ILÍCITO. OCORRÊNCIA. ALTERAÇÃO. SUMÚLA N. 7/STJ. 3. QUANTUM INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto à existência de ato ilícito, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justi ça.
+3. Concernente ao valor da indenização, dispõe a jurisprudência desta Corte Superior que a alteração do valor estabelecido pelas instâncias ordinárias, a título de compensação por danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.171.368/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. É inviável a análise de teses alegadas apenas em agravo interno, por se caracterizar inovação recursal, ainda mais quando tais alegações sequer foram analisadas pelas instâncias ordinárias (ausência de prequestionamento).
+2. O acolhimento da tese de inexistência de ato ilícito ou de dano a ser indenizado demandaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.146.518/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de NEREU NATT, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EXPROPRIAÇÃO EXTRAJUDICIAL. PROCEDIMENTO EXPROPRIATÓRIO ANULADO. DANOS MORAIS. CONFIGURAÇÃO. QUANTUM. RECURSO ESPECIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
