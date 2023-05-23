@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DA SALETE SOUSA NASCIMENTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. CIRURGIA ORTOPÉDICA. INEXISTÊNCIA DE ERRO MÉDICO OU VÍCIO DO PRODUTO. IMPROCEDÊNCIA MANTIDA.
+I. De acordo com a inteligência do artigo 14, § 4º, do Código de Defesa do Consumidor, a responsabilidade civil médica é de natureza subjetiva e por isso pressupõe a comprovação de todos os requisitos que os artigos 186 e 927 do Código Civil estabelecem para o dever de indenizar: conduta dolosa ou culposa, dano e relação de causalidade.
+II. Se a prova pericial atesta que o colapso do material empregado na cirurgia ortopédica, determinante da realização de nova intervenção cirúrgica, proveio da falta de regeneração óssea da paciente, não há como responsabilizar civilmente o médico, o hospital ou o fabricante.
+III. Recurso conhecido e desprovido (fl. 1.110).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186, 187 e 927 do CC, no que concerne à necessidade de reparação civil por danos morais e materiais, trazendo os seguintes argumentos:
+44. Com todas as venias, lhaneza e acatamento, urge esclarecer o fato de que o Eminente Relator, ao firmar seu convencimento de improcedência da demanda e confirmação da sentença monocrática, data maxima venia , não levou em consideração a farta documentação acostada pela recorrente em sua exordial, bem como restou contraditório e desprovido de fundamento a alegação de improcedência dos pedidos de indenização por danos materiais e morais, diante a alegação de ausência de comprovação da incidência de todos os requisitos que os artigos 186 e 927 do Código Civil estabelecem para o dever de indenizar: conduta dolosa ou culposa, dano e relação de causalidade.
+ ..
+57. Dessa forma, restou cabalmente comprovado o fato de que a autora, ora recorrente JAMAIS contribuiu para a ruptura da placa de titânio utilizada na 1ª cirurgia, que não desobedeceu as orientação do profissional de saúde e tampouco foi a responsável pela necessidade de realização da 2ª cirurgia, assim, cabível a indenização por danos materiais pleiteada e, diante a consequência lógica, outrossim, os danos morais e restituição da quantia paga também se vislumbra no presente caso, tendo em vista o grande abalo de ordem moral sofrido pela recorrente que, já idosa, foi submetida a uma 2ª cirurgia a se fazer incidir nova fase de recuperação e novas despesas hospitalares, que foram custeadas exclusivamente pela recorrida.
+58. Lado outro, houve manifesta contradição no julgado ao passo que a decisão não reconheceu a comprovação dos requisitos autorizadores da responsabilidade civil, ínsitas nos artigos 186 e 927 do Código Civil Brasileiro, em manifesta negativa de vigência, consoante restou sobejamente comprovado.
+59. A conduta dolosa ou culposa foi devidamente comprovada, uma vez que o médico ao invés de utilizar as hastes intramedulares utilizou placa de titânio e parafusos, mesmo que incorresse em culpa, referida conduta se perpetrou e o pior, não informou a paciente sobre a possibilidade de rompimento do material a ser colocado, prejudicando, pois, o direito à informação ao paciente, quando da realização da 1ª cirurgia.
+60. Igualmente, restou devidamente comprovado o dano ocorrido, pois a recorrente teve que se submeter a 2ª cirurgia diante a frustação da 1º que ao invés de ter colocado a placa de titânio e parafusos, deveria o médico, já que o material estava a sua disposição, conforme informado em sua contestação, ter colocado na 1ª cirurgia, as hastes intramedular, utilizadas somente na 2ª cirurgia.
+61. Quanto ao nexo de causalidade, o liame que liga a conduta ao resultado, também encontra-se presente, uma vez que, eleito o procedimento errôneo (conduta) e o rompimento da placa de titânio (resultado) que poderia ter sido evitado com a colocação na 1ª cirurgia as hastes intramedulares, comprovado esta o nexo de causalidade.
+62. Assim, restaram cabalmente comprovados os requisitos autorizadores da reparação por danos materiais e morais quais sejam, a conduta dolosa ou culposa, o resultado e o nexo de causalidade, devendo apenas, ser valorada a prova produzida pala autora, ora recorrente. (fls. 1.232/1.236).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não há, com efeito, nenhuma evidência de falha na escolha ou na execução do procedimento cirúrgico, de omissão deliberada do dever de informação ou de vício do material utilizado.
+O laudo pericial elucidou que a técnica empregada e o material utilizado eram compatíveis com a fratura e as condições clínicas da Apelante, in verbis:
+ ..
+Não há, com efeito, nenhuma evidência de falha na escolha ou na execução do procedimento cirúrgico, de omissão deliberada do dever de informação ou de vício do material utilizado. O laudo pericial elucidou que a técnica empregada e o material utilizado eram compatíveis com a fratura e as condições clínicas da Apelante, in verbis:
+ ..
+O laudo pericial ainda foi claro quanto ao fato de que a ausência de consolidação orgânica da fratura provocou o colapso do material e deu causa à segunda cirurgia, como se colhe das passagens a seguir reproduzidas:
+ ..
+A causa determinante da falência do material foi então a incapacidade orgânica de regeneração e consolidação óssea, valendo acrescentar outros trechos do laudo pericial sobre a questão:
+ ..
+Não há, portanto, que se cogitar de erro médico ou de vício do produto.
+Da mesma forma não restou demonstrado lapso quanto ao dever de informação. Pelo contrário, consta do documento de fls. 1 ID 18551369:
+ ..
+Note-se que a opção pelo uso de placa e parafusos, plenamente compatível com o quadro clínico da Apelante, só pôde ser feita depois de iniciada a cirurgia e avaliada a sua qualidade óssea. Transcreve-se, novamente, o seguinte excerto do laudo pericial:
+ ..
+Calha assinalar que o perito examinou todos os documentos dos autos para a realização da perícia, de maneira que a sentença, ao deixar de fazer referência a todos eles, não incorreu em nenhum deficit de fundamentação, valendo destacar que o relatório médico referente à segunda cirurgia consigna a existência de pseudoartrose e rarefação óssea.
+Seja como for, a prova documental não desautoriza nenhuma das premissas nem a conclusão do perito.
+À luz desse contexto probatório, não há espaço para o reconhecimento da responsabilidade civil imputada aos Apelados, dada a ausência de elementos de convicção convergentes quanto a dois dos principais requisitos da responsabilidade civil - conduta ilícita e relação de causalidade entre esta e o dano.
+ ..
+Convém não perder de vista que, de acordo com a inteligência do artigo 14, § 4º, do Código de Defesa do Consumidor, a responsabilidade civil médica é de natureza subjetiva e por isso pressupõe a comprovação de todos os requisitos que os artigos 186 e 927 do Código Civil estabelecem para o dever de indenizar: conduta dolosa ou culposa, dano e relação de causalidade. Conforme vem decidindo reiteradamente o Superior Tribunal de Justiça:
+ ..
+Restando, pois, demonstrado nos autos que a segunda cirurgia proveio do colapso do material empregado na primeira cirurgia ocasionado pela falta de regeneração óssea, deve ser mantido o decreto de improcedência dos pleitos condenatórios (fls. 1.114/1.120).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
