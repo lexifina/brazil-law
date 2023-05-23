@@ -1,0 +1,75 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante assinala que foram declinados fundamentos inidôneos para o indeferimento do livramento condicional. Explica que o apenado apresentou atestado de bom comportamento carcerário e o benefício não está condicionado à prévia vivência do regime intermediário. Requer a observância do art. 83 do CP.
+Decido.
+O writ comporta pronta solução, pois existe jurisprudência sobre o tema.
+A "análise do bom comportamento do apenado enquanto requisito do livramento condicional (art. 83, III, "a", do CP) deve considerar todo seu histórico prisional" (AgRg no REsp n. 2.017.532/TO, rel. Ministro Ribeiro Dantas, 5ª T., DJe de 24/10/2022).
+Para o deferimento do benefício, "o apenado deve ostentar bom comportamento carcerário durante a execução da pena" (AgRg no HC n. 760.842/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2023).
+Mesmo após as alterações da Lei n. 13.964/2019, o bom comportamento durante a execução da pena (análise global do período) continua a pautar a análise do direito ao livramento condicional e não é sinônimo ou mera repetição do requisito objetivo do não cometimento de falta grave nos últimos 12 meses.
+O atestado emitido pela direção carcerária não assegura, por si só, o livramento condicional (é apenas início de prova), pois a execução é jurisdicionalizada e o Poder Judiciário não está vinculado nem é mero órgão chancelador de documentos administrativos.
+Dito isso, não verifico a possibilidade de conceder a ordem.
+O apenado foi progredido ao RSA em 2/3/2022. Em 21/10/2022 teve negado o LC. O habeas corpus está deficientemente instruído, pois não consta a cópia da decisão do Juiz da VEC. O acórdão do Tribunal de origem está em conformidade com a jurisprudência desta Corte, pois assinalou o histórico carcerário conturbado para manter a negativa do livramento condicional.
+O acórdão recorrido menciona o seguinte (fls. 13-19, estaquei):
+ ..  "comprovam os autos que o sentenciado possui histórico prisional maculado, registrando prática de faltas disciplinares de natureza grave (posse de entorpecentes e desobediência),evidenciando que não está engajado no processo de reeducação penal que está lhe sendo aplicado. Ademais, tratando-se de sentenciado condenado por delito praticado com violência ou grave ameaça (roubo), essencial a comprovação de que a periculosidade do sentenciado sofreu a atenuação necessária para que possa usufruir benefício tão amplo, o que não restou evidenciada no caso sub examine. Finalmente, o sentenciado foi recentemente beneficiado com progressão ao regime semiaberto, sendo recomendável vivenciar o regime intermediário para posteriormente postular benefício de maior amplitude"(pág. 65).
+Com efeito, embora a anterior vivência em regime intermediário não seja condição para a concessão do livramento condicional, não se pode ignorar que o caso recomenda maior cautela na aferição do requisito subjetivo.
+ ..
+ .. o sentenciado  ..  registra a prática de três faltas disciplinares (entorpecente com visitante, desobediência e subversão à ordem), duas delas classificadas como graves, uma reabilitada em 2020, a outra, pendente a reabilitação e por fim, a falta, sem classificação quanto à sua natureza, encontra-se em andamento (pág. 58), daí porque insuficientes o atestado de boa conduta carcerária ou exame criminológico favorável para demonstrar a aptidão para usufruir desde já de tão amplo benefício.
+ ..
+O apenado registra faltas disciplinares durante a execução de suas penas. Existe menção a falta pendente de apuração. O dado desabonador não é isolado nem tão longínquo a ponto de ser esquecido e ensejar a transferência do regime semiaberto diretamente ao livramento condicional. Nesse contexto, não é absurda a ponderação sobre a necessidade de melhor observar a evolução do preso antes do seu retorno ao convívio em sociedade.
+Aplica-se ao caso o seguinte entendimento:
+ ..
+1. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+2. "A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário" (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. No caso concreto, o Tribunal Estadual concluiu que o caso em questão requer cautela, diante do histórico carcerário conturbado do paciente que perpetrou faltas graves  .. , além de falta média em 18/6/2021, demonstrando que ao invés de aproveitar a chance para se reabilitar, o executado não assimilou a terapêutica penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 767.408/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+ ..
+1. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.  ..  HC n.º 564.292/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+2. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+4. De fato, a legislação penal exige o bom comportamento carcerário durante a execução da pena, como condição subjetiva para o livramento condicional (Código Penal, Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: ..  III - comprovado: a) bom comportamento durante a execução da pena  .. ). Constata-se que a referida norma é clara em exigir, como requisito subjetivo para o livramento, cumulativamente, não somente o não cometimento de falta nos últimos 12 meses, como também o bom comportamento carcerário, avaliado de forma global.
+ ..
+6. No caso, o ora agravante praticou uma falta grave, consistente em subversão da ordem e disciplina, em 21/3/2020.  ..
+ ..
+(AgRg no HC n. 741.087/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+ ..
+1. A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos.
+2. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consubstanciado no não cometimento de falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional; não limita a avaliação de conduta satisfatória durante o período de resgate da pena.
+3. As instâncias ordinárias reconheceram não possuir o apenado do regime fechado mérito para a transferência ao último estágio do sistema progressivo, haja vista o histórico prisional maculado pelo total de nove atos de indisciplina,  ..  A última conduta desabonadora, reabilitada administrativamente em 3/1/2019, não era tão antiga a ponto de ser desconsiderada, em 11/2/2021, quando Magistrado indeferiu a benesse do art. 83 do CP.
+4. A lei federal não dispõe sobre o período depurador das faltas disciplinares, por isso, é necessário suprir a lacuna. Por analogia, o julgador poderá valer-se, por exemplo, de normas que regulamentam a eliminação dos efeitos de uma condenação anterior (arts. 64, I, e 94, ambos do CP) ou mesmo do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar, sempre atento às características da falta grave e ao montante de pena a cumprir. Diante da situação específica do sentenciado do regime fechado, que reiterou o proceder negativo durante anos, não se verifica o direito ao esquecimento.
+5. Agravo regimental não provido.
+(AgRg no HC n. 660.197/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/8/2021, DJe de 25/8/2021).
+ .. 1. Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que, conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+2. Hipótese em que o apenado, durante a execução da pena, praticou infrações disciplinares de natureza grave (abandono do regime prisional por quatro vezes e prática de novo crime no curso da execução), razão pela qual não implementado, efetivamente, o requisito subjetivo para concessão da benesse.
+3. Registre-se, por oportuno, que, para a concessão do livramento condicional, o magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional. Precedentes desta Corte.
+4. Em hipótese similar, decidiu esta Superior Corte que a  ..  circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+5. Assim, "A jurisprudência deste Tribunal Superior é no sentido de que a prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional (Súmula n. 441), impede a concessão da benesse por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exige o art. 83, inciso III, do Código Penal, circunstância que afasta a alegação de bis in idem" (AgRg no REsp 1617279/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/04/2018, DJe 27/04/2018).
+6. Por fim, "o requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime." (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020) 7. Agravo regimental não provido.
+(AgRg no HC 613.683/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T.,DJe 4/2/2021).
+ ..
+1. Segundo o regramento do art. 83 do Código Penal - CP e a jurisprudência desta Corte, as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo. Inteligência da Súmula n. 441 do Superior Tribunal de Justiça - STJ.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+ ..
+(AgRg no HC 615.664/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 1º/3/2021).
+ ..  o indeferimento do livramento condicional se deu em razão da ausência do requisito subjetivo, considerando, para tanto, o histórico prisional do paciente, no qual consta que ele praticou falta de natureza grave (fuga), o que evidencia a idoneidade da fundamentação utilizada, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 584.224/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 18/12/2020).
+ ..
+1 - Para a concessão do benefício do livramento condicional, nos termos do art. 83, inciso III, alínea a, do Código Penal, com a redação dada pela Lei n. 11.3964/2019, deve o Apenado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento durante a execução da pena).
+ ..
+3 - O requisito disciplinado no art. 83, inciso III, alínea a, do Código Penal permanece em pleno vigor, de forma que o indeferimento do benefício foi devidamente fundamentado pelas instâncias de origem  ..
+4 - Agravo regimental desprovido.
+(AgRg no HC 624.403/RS, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+ ..
+1. O benefício do livramento condicional foi cassado pelo Tribunal de origem mediante fundamentação idônea, notadamente diante do não preenchimento do requisito subjetivo para a obtenção do livramento condicional, pois o Apenado cometeu 02 (duas) faltas graves (10/08/2015 - fuga e 09/12/2016 dano ao patrimônio e tentativa de fuga), durante o cumprimento da pena, não havendo constrangimento ilegal a ser sanado.
+2. Agravo regimental desprovido.
+(AgRg no HC 532.933/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 12/11/2020).
+ ..
+1. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+2. A norma anterior já previa a necessidade de comportamento satisfatório durante a execução da pena para o deferimento do livramento condicional. E não se pode negar que a prática de falta disciplinar de natureza grave acarreta comportamento insatisfatório do reeducando. Precedentes.
+3. No caso, a fuga do paciente, no curso da execução da pena privativa de liberdade, ocorrida em 16/4/2019, serviu, nas instâncias ordinárias, como fator para considerar a ausência do pressuposto subjetivo necessário para o livramento condicional, negado em 28/4/2020.
+4. Ordem denegada.
+(HC 612.296/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 26/10/2020).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
