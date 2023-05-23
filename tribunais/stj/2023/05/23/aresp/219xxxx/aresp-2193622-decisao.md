@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA REPARAÇÃO DE DANOS - ATRASO NA ENTREGA - PARCIAL PROCEDÊNCIA INCONFORMISMO DA AUTORA - ACOLHIMENTO - Despesas do laudêmio. Pedido de restituição que prescreve em dez anos. Reparação civil decorrente da relação contratual. Prescrição afastada. Restituição devida. Responsabilidade do alienante pelo pagamento do laudêmio, exceto quando há convenção em contrário pelos contratantes. Caso em que inexiste previsão contratual clara e inequívoca quanto à transferência da obrigação ao comprador. Lucros cessantes. Reparação do comprador pela privação do imóvel em razão do atraso na entrega deve ter por base o valor atualizado do contrato. Abusividade da cláusula contratual que prefixa a reparação do dano com base nos valores pagos até a parcela das chaves. Desvantagem exagerada ao consumidor. Mitigação do princípio da força obrigatória do contrato. DERAM PROVIMENTO AO RECURSO.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 104, 206, § 3º, IV, do Código Civil; 487, II, do Código de Processo Civil de 2015, além de divergência jurisprudencial. Sustenta a prescrição da pretensão à restituição do laudêmio pago pelo agravado. Entende ser aplicável ao caso o mesmo entendimento do acórdão proferido no Recurso Especial 1551956/SP, julgado sob o rito dos repetitivos, no qual se fixou a tese de que a prescrição da pretensão de restituição da comissão de corretagem tem prazo trienal. Argumenta que o mesmo raciocínio deve se aplicar à restituição do laudêmio.
+Assim posta a questão, observo que o acórdão recorrido está em consonância com a jurisprudência desta Corte, para a qual é de dez anos a prescrição em casos de inadimplemento contratual. Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DECENAL. INADIMPLEMENTO CONTRATUAL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, devido à impugnação específica do apelo nobre. Reconsideração.
+2. A jurisprudência desta Corte manifesta-se no sentido de que o prazo de prescrição de pretensão fundamentada em inadimplemento contratual, não havendo regra especial para o caso, é o decenal, previsto no art. 205 do Código Civil.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.579.552/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/4/2020, DJe de 4/5/2020.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. DEMORA NA OBTENÇÃO DO "HABITE-SE". PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. OUTRAS ALEGAÇÕES CONTIDAS NA APELAÇÃO SEM APRECIAÇÃO. NECESSIDADE DE RETORNO DOS AUTOS.
+(..)
+2. A Segunda Seção do STJ, no julgamento do EREsp 1.280.825/RJ (DJe 02/08/2018), pacificando a divergência entre suas Turmas, fixou o entendimento, segundo o qual o prazo prescricional aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual é decenal (art. 205 do CC/2002). No mesmo sentido, a Corte Especial afirmou a incidência do mesmo prazo prescricional (decenal), no julgamento do EREsp 1281594/SP, CORTE ESPECIAL, julgado em 15/05/2019, DJe 23/05/2019).
+(..)
+4. Agravo interno em recurso especial parcialmente provido para devolver os autos ao Tribunal de origem, para a apreciação das demais alegações suscitadas na apelação.
+(AgInt no REsp 1704110 / DF, Relatora: Ministra NANCY ANDRIGHI, TERCEIRA TURMA, Julgamento, 24/6/2019, DJe 26/6/2019).
+Aplica-se ao caso a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
