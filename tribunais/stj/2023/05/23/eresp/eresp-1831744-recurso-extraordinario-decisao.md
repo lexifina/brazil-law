@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.206-1.242) interposto por BARCAS S.A. TRANSPORTES MARÍTIMOS, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.087):
+PROCESSUAL CIVIL. AÇÃO POPULAR. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECRETO ESTADUAL. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. POSSIBILIDADE. CAUSA DE PEDIR. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido contraria a orientação consolidada por esta Corte e pelo Supremo Tribunal Federal segundo a qual, no bojo da ação popular, admite-se o controle da constitucionalidade de atos normativos do Poder Público, desde que incidentalmente, como causa de pedir relacionada à lesão aos bens jurídicos estampados no art. 5º, LXXIII, da Constituição da República - o patrimônio público, a moralidade administrativa, o meio ambiente e o patrimônio histórico e cultural. Precedentes.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Após a rejeição dos embargos de declaração opostos (fls. 1.134-1.135), houve a interposição de embargos de divergência (fls. 1.148-1.164), os quais foram indeferidos liminarmente (fls. 1.198-1.201).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º, LXXIII, da CF.
+Nesse sentido, argumenta que não seria possível a declaração de inconstitucionalidade incidental de lei ou ato normativo em ação popular, como se observa (fl. 1.216):
+26. Como visto, pretende-se que seja reconhecida a inconstitucionalidade de uso da Ação Popular como meio de controle de constitucionalidade, de modo geral e abstrato, de leis e atos normativos que se encontram além do escopo de abrangência da referida ação e da própria competência do órgão julgador originário pela via eleita da ação popular.
+27. Em outras palavras, objetiva-se verificar, sob respaldo constitucional desta via extraordinária, a inconstitucionalidade de processamento de Ação Popular que objetive o afastamento, do ordenamento jurídico, de Decreto expedido por órgão competente - no presente caso o Decreto Estadual nº 42.897/2011, cujos efeitos jurídicos e econômicos refletem sobre Recorrente, dentre os impactados, na qualidade de prestadora de serviços aquaviários e contribuinte de ICMS no Estado do Rio de Janeiro.
+28. Afirmou o r. acórdão recorrido proferido pelo E. STJ que em princípio, seria possível a declaração de inconstitucionalidade incidenter tantum de lei ou ato normativo em sede de Ação Popular, observada a condição de que a controvérsia constitucional em questão não figure como pedido principal, mas apenas causa de pedir.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.247-1.273 e 1.278-1.291.
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão do STJ que concluiu pela possibilidade de declaração de inconstitucionalidade no bojo da ação popular, desde que incidentalmente, como causa de pedir relacionada à lesão dos bens jurídicos descritos no art. 5º, LXXIII, da Constituição Federal.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme no mesmo sentido do acórdão recorrido, desde que a declaração de inconstitucionalidade se dê incidentalmente, como causa de pedir relacionada à lesão aos bens jurídicos estampados no art. 5º, LXXIII, da Constituição Federal.
+A propósito:
+AÇÃO POPULAR - AJUIZAMENTO CONTRA A PRESIDENTE DA REPÚBLICA - FALTA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL - REGIME DE DIREITO ESTRITO A QUE SE SUBMETE A DEFINIÇÃO CONSTITUCIONAL DA COMPETÊNCIA DA CORTE SUPREMA - DOUTRINA - PRECEDENTES - AÇÃO POPULAR NÃO CONHECIDA - RECURSO DE AGRAVO IMPROVIDO.
+- Não compete ao Supremo Tribunal Federal processar e julgar, originariamente, ação popular ajuizada contra a Presidente da República. Precedentes.
+- A ação popular não se qualifica como sucedâneo dos instrumentos de controle concentrado de constitucionalidade nem viabiliza o exame "in abstracto" de situações jurídicas formadas sob a égide da legislação em vigor.
+(Pet n. 5.859 AgR, relator Ministro Celso de Mello, Tribunal Pleno, julgado em 25/11/2015, DJe de 14/12/2015.)
+Reclamação. Decisão judicial que conheceu de ação popular, cujo objeto era a anulação de resolução legislativa pela qual foram criados cargos no âmbito da Assembleia Legislativa do Estado do Rio de Janeiro. Ação que reputava inconstitucional tal resolução. Possibilidade de eventual desconformidade com a Constituição Federal ser aferida no exercício do controle difuso de constitucionalidade. Ausência de usurpação da competência do Supremo Tribunal Federal, tendo em vista não se tratar a resolução legislativa impugnada pela ação popular de ato normativo dotado de generalidade e abstração. Reclamação julgada improcedente.
+(Rcl n. 664, relatora Ministra Ellen Gracie, Tribunal Pleno, julgado em 22/5/2002, DJ de 21/6/2002.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. AÇÃO POPULAR. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
