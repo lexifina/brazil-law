@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PARA NÁ com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ em julgamento de apelação criminal n. 0002254-95.2018.8.16.0097.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 121, § § 3º e 4º do Código Penal - CP (homicídio culposo), à pena de 01 ano e 04 meses de detenção, em regime inicial aberto, substituída por uma pena restritiva de direitos, consistente na prestação pecuniária no valor de R$ 30.000,00 (fl. 219).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 321). O acórdão ficou assim ementado:
+"ERRO MÉDICO. HOMICÍDIO CULPOSO (ART. 121, §§ 3.º E 4.º, CP). CONDENAÇÃO À PENA DE UM (1) ANO E QUATRO(4) MESES DE DETENÇÃO, EM REGIME ABERTO. RECURSO DA DEFESA. PRETENSÃO DE ABSOLVIÇÃO. ALEGAÇÃO DE QUE O RÉU NÃO AGIU COM NEGLIGÊNCIA E INOBSERVÂNCIA DE REGRA TÉCNICADE PROFISSÃO. APONTADO ERRO DE DIAGNÓSTICOESCUSÁVEL, DIANTE DA PRECÁRIA ESTRUTURA DOHOSPITAL MUNICIPAL DE JARDIM ALEGRE, ONDE APACIENTE FOI ATENDIDA PELO ACUSADO. PLEITO DE ABSOLVIÇÃO QUE NÃO COMPORTA ACOLHIMENTO. VÍTIMA ACOMETIDA POR PANCREATITE AGUDA. COMPROVAÇÃO DE QUE A PACIENTE BUSCOUATENDIMENTO MÉDICO EM QUATRO OCASIÕESDISTINTAS (25.02.2017, 03.3.2017, 13.3.2017 E 17.3.2017), COMFORTES - E PERSISTENTES - DORES ABDOMINAIS,TENDO SIDO ATENDIDA PELO ACUSADO EM TRÊSDELAS. PACIENTE QUE, NA ÚLTIMA OCASIÃO, FOIINTERNADA NO DIA 17.3.2017 E SOMENTE FOIENCAMINHADA AO HOSPITAL DE REFERÊNCIA BOM JESUS, EM IVAIPORÃ, EM 20.3.2017. ACUSADO QUE SEQUER INDICOU NA GUIA DE ENCAMINHAMENTO A NECESSIDADE DE INTERNAMENTO DA PACIENTE,APENAS ANOTANDO QUE ELA NECESSITAVA DE CONSULTA E AVALIAÇÃO ESPECIALIZADAS, COM "DOR". OFENDIDA QUE FOI ABDOMINAL A ESCLARECER INTERNADA NO HOSPITAL BOM JESUS E SUBMETIDA ACIRURGIA, VINDO A ÓBITO EM 24.3.2017 POR CHOQUE SÉPTICO E PANCREATITE AGUDA. NEGLIGÊNCIA E INOBSERVÂNCIA DAS REGRAS TÉCNICAS DE PROFISSÃO CARACTERIZADAS. RETARDO DO DIAGNÓSTICO, CAUSADO PELO ACUSADO, QUE FOI DETERMINANTE PARA A MORTE DA PACIENTE. NEXOCAUSAL COMPROVADO. INOCORRÊNCIA DE ERRO DE DIAGNÓSTICO ESCUSÁVEL. CONDENAÇÃO MANTIDA. RECURSO DESPROVIDO." (fls. 309/310)
+Embargos de declaração opostos pela defesa foram providos para reduzir a prestação pecuniária de R$ 30.000,00 para R$ 10.000,00 (fl. 344). O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO NO TOCANTE AO VALOR ARBITRADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. INOCORRÊNCIA. PEDIDO DE REDUÇÃO NÃO FORMULADO NASRAZÕES RECURSAIS. MINORAÇÃO , CONTUDO, DOEX OFFICIOMONTANTE FIXADO, DE R$ 30.000,00 (TRINTA MIL REAIS) PARA R$10.000,00 (DEZ MIL REAIS). ADEQUAÇÃO À CONDIÇÃO FINANCEIRA DO RÉU. ACLARATÓRIOS REJEITADOS, COMREDUÇÃO, DE OFÍCIO, DO VALOR DA PENA DE PRESTAÇÃO PECUNIÁRIA." (fl. 342)
+Embargos de declaração opostos pela acusação foram rejeitados (fl. 378). O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO EOBSCURIDADE NO JULGADO. INOCORRÊNCIA. ALMEJADAREDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE DE PÓS QUESTIONAMENTO. ACLARATÓRIOS REJEITADOS.- Inexistente qualquer omissão ou obscuridade, desnecessária a integração do julgado, por meio de embargos declaratórios." (fl. 374)
+Em sede de recurso especial (fls. 387/407), o MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ apontou violação aos arts. 43, I, 45, § 1º e 60, § 1º, todos do CP, sustentando, em síntese, o restabelecimento do valor da prestação pecuniária arbitrado na sentença condenatória. Aduz que o fato do acusado ser médico em município pequeno não seria suficiente para redução do valor.
+Contrarrazões do FLORIANO CARLOS GOMES DE VASCONCELOS (fls. 411/415).
+Admitido o recurso no TJ (fls. 417/420), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 434/441).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ reduziu o valor da prestação pecuniária nos seguintes termos do voto do relator (fl. 343):
+"Não obstante, entendo que o caso é de redução, ex officio, de tal quantia, considerada a capacidade financeira do acusado.
+A propósito, consta da r. sentença condenatória que a pena privativa de liberdade imposta a foi substituída por uma FLORIANO CARLOS GOMES DE VASCONCELOS restritiva de direito, consistente em prestação pecuniária, no valor de R$ 30.000,00 (trinta mil reais), "a ser revertida R$ 5.000,00 (cinco mil reais) em favor do Conselho da Comunidade e, R$25.000,00 (vinte e cinco mil reais) em favor dos herdeiros da vítima, podendo os valores ser parcelado em 05 (cinco) vezes, para cada um dos destinatários (mov. 126.1).
+No caso, considerando que o réu é médico que atua em município de pequeno porte, entendo necessária a redução da pena de pena de prestação pecuniária para o montante total de R$ 10.000,00 (dez mil reais) em favor dos herdeiros da vítima, observada a possibilidade de parcelamento, conforme consignado na r. sentença impugnada."
+Verifica-se que o Tribunal a quo estipulou o valor referente à prestação pecuniária, com fundamento na capacidade financeira do recorrido.
+Nos termos da jurisprudência desta Corte, a fixação do valor da prestação pecuniária deve observar a extensão do dano a ser reparado e a capacidade econômica do condenado.
+Nesse sentido:
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CORRUPÇÃO DE MENOR. CONTEXTO FÁTICO ÚNICO. CONCURSO FORMAL. RECONHECIMENTO. PRESTAÇÃO PECUNIÁRIA SUBSTITUTIVA. FIXAÇÃO ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA. REDUÇÃO DEVIDA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+7. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 45 do Código Penal, a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do Condenado.
+ ..
+(REsp n. 1.967.713/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 27/6/2022.)
+Ademais, "A análise da capacidade financeira do agravante em arcar com a prestação pecuniária que lhes foi imposta reclama incursão na seara fático-probatório, procedimento vedado pela Súmula n. 7/STJ" (AgRg no AREsp n. 1.467.117/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/6/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. CRIMES DO ART. 180 DO CÓDIGO PENAL E DO ART. 70 DA LEI N. 4.117/194. ALEGADA DESPROPORCIONALIDADE DA PRESTAÇÃO PECUNIÁRIA COM A CAPACIDADE FINANCEIRA DO RÉU. ÓBICE DA SÚMULA N. 7/STJ. TESE DE QUE DEVE GUARDAR CORRESPONDÊNCIA COM A PENA PRIVATIVA DE LIBERDADE. IMPROCEDÊNCIA. PRECEDENTES. REGIMENTAL DESPROVIDO.
+1. Para o Superior Tribunal de Justiça decidir de modo contrário, no sentido de que o valor da prestação pecuniária é desproporcional ante as condições financeiras do Réu, seria necessário o esmerilamento de provas, providência terminantemente vedada pelo óbice absoluto da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.703.005/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 24/8/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. DESNECESSIDADE DE CORRESPONDÊNCIA COM A PENA PRIVATIVA DE LIBERDADE. ANÁLISE DA CAPACIDADE ECONÔMICA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "A análise da capacidade financeira do agravante em arcar com a prestação pecuniária que lhes foi imposta reclama incursão na seara fático-probatório, procedimento vedado pela Súmula n. 7/STJ" (AgRg no AREsp 1467117/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/6/2019, DJe 14/6/2019).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.832.877/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2020.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
