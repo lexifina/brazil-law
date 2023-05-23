@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL , contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RPV. HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR DEFINITIVO.
+Na hipótese de o pagamento ocorrer por meio de RPV, mesmo não havendo impugnação, e não sendo caso da denominada execução invertida, é cabível a fixação de honorários advocatícios no percentual de 10% sobre o valor definitivo da execução/cumprimento de sentença, nos termos do disposto no art. 85, parágrafos 1º e 3º, do CPC" (fl. 590e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 599/601e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. CORREÇÃO DE ERRO MATERIAL. INEXISTÊNCIA. LIMITES DO PREQUESTIONAMENTO NO ARTIGO 1025 DO CPC (APENAS DE PREQUESTIONAMENTO)
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Não basta mera indicação de dispositivos legais ou constitucionais com pedido genérico, a título de prequestionamento, para que haja manifestação a respeito.
+3. O prequestionamento da matéria segue a sistemática prevista no artigo 1.025 do CPC/2015" (fl. 618e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 1.022, II, bem como aos arts. 85, § 7º, 523, § 1º, e 526 do CPC/2015, sustentando, além da negativa de prestação jurisdicional, que, "em face do disposto no art. 523, §1º, do CPC, em interpretação conjugada com os art. 526, do mesmo diploma processual, somente pode haver condenação em honorários após o escoado o prazo para pagamento espontâneo" (fl. 630e) e que "os honorários são cabíveis quando o cumprimento de sentença é promovido pelo exequente antes de possibilitar a Fazenda Pública o cumprimento espontâneo da obrigação no prazo legal" (fls. 631/632e).
+Por fim, requer "o provimento do presente recurso para reformar o acórdão recorrido, afastando a condenação da autarquia em honorários advocatícios pela fase de cumprimento de sentença. Se assim não entender a C. Turma, o INSS requer a anulação da decisão que rejeitou os embargos de declaração, por afronta ao artigo 1.022, II, do CPC, para que o Tribunal Regional profira outra, suprindo a omissão sobre a matéria federal que embasa a tese do recorrente" (fl. 632e).
+Contrarrazões a fls. 640/645e, o Recurso Especial foi admitido pelo Tribunal de origem (fls. 648/651e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento interposto, pela ora recorrida, contra decisão que negou o pagamento de honorários advocatícios sobre o total exequendo, envolvendo crédito sob o regime de RPV, porquanto não impugnado pelo INSS.
+O Tribunal de origem deu provimento ao Agravo, nos seguintes termos:
+A decisão preambular tem os seguintes termos:
+"Procede em parte a irresignação da parte recorrente.
+Com efeito, no caso sub judice, inobstante o INSS ter apresentado impugnação (processo 042/1.19.0000860-1) as quais foram procedentes (evento 1, PROCADM3, págs. 91/93), são devidos honorários advocatícios em cumprimento de sentença cujo o valor está sujeito a pagamento via RPV, como no caso dos autos.
+Portanto, não há que se falar em execução invertida ou cumprimento espontâneo da obrigação, o que autoriza a condenação do INSS em honorários advocatícios em execução/cumprimento de sentença contra a Fazenda Pública envolvendo crédito sob o regime de RPV no percentual de 10% sobre o valor definitivo da execução, consoante o disposto no artigo 85 do CPC.
+Nesse sentido:
+(..)
+Como se vê, são devidos honorários advocatícios sobre o valor definitivo no cumprimento de sentença, mesmo na hipótese do valor devido estar sujeito a pagamento via RPV e submetido a impugnação.
+Com efeito, honorários advocatícios em cumprimento de sentença não se confundem com os honorários da impugnação ao cumprimento de sentença fixados em favor do Executado.
+Portanto, nessa linha de entendimento, tenho que existem razões para, de plano, infirmar os termos da decisão agravada.
+Ante o exposto, defiro parcialmente o pedido de antecipação da tutela."
+Não vindo aos autos nenhuma informação atual capaz de modificar os fundamentos da decisão inicial, adoto-os como razões de decidir.
+Por fim, ficam prequestionados, para fins de acesso às instâncias recursais superiores, os dispositivos legais e constitucionais elencados pelas partes cuja incidência restou superada pelas próprias razões de decidir do recurso.
+Ante o exposto, voto por dar parcial provimento ao agravo de instrumento" (fls. 593/594e).
+Daí a interposição do presente Recurso Especial.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No que tange à questão central, melhor sorte não socorre a parte recorrente, eis que "os honorários ad vocatícios, na fase de cumprimento de sentença, devem ser fixados sobre o valor total devido, independentemente de haver impugnação, quando se trate de execução que enseje a expedição de RPV, conforme interpretação em sentido contrário ao art. 85, § 7 º, do CPC/2015" (STJ, AgInt no REsp 1.962.703/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/04/2022).
+No mesmo sentido:
+"PROCESSUAL CIVIL. PREVIDÊNCIÁRIO. APOSENTADORIA POR INVALIDEZ. EXECUÇÃO DE SENTENÇA. EXTINÇÃO PELO PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de execução de sentença ajuizada contra a União objetivando o pagamento de aposentadoria por invalidez. Na sentença, extinguiu-se a execução pelo pagamento, sem condenação da União ao pagamento de honorários advocatícios. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV. Neste sentido, destacam-se: (REsp 1.664.736/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/10/2020, DJe 17/11/2020 e AgInt no AREsp 1.461.383/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2019, DJe 11/10/2019.)
+III - Agravo interno improvido" (STJ, AgInt no REsp 1.950.451/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 31/03/2022).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
