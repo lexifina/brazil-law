@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ADEMIR GOULART GUTTERRES, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão, assim ementado:
+"IMPOSTO DE RENDA. PESSOA FÍSICA. ISENÇÃO. MOLÉSTIA GRAVE. LICENÇA PARA TRATAMENTO DE SAÚDE. IMPOSSIBILIDADE." (fl. 250e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 265/274e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. SIMPLES REDISCUSSÃO DA CAUSA. EMBARGOS MANIFESTAMENTE PROTELATÓRIOS. APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR DA CAUSA. PREQUESTIONAMENTO" (fl. 290e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022 e 1.026, § 2º, ambos do CPC/2015; 48 da Lei 8.541/02; 184 e 185 da Lei 8.112/90, sustentando, em síntese, a existência de omissões não supridas em sede de Embargos de Declaração; que deve ser afastada a multa aplicada com fundamento no § 2º do art. 1.026, porquanto os embargos de declaração não podem ser considerados como manifestamente protelatórios, eis que foram opostos com intuito de sanar omissão; que tem o direito a isenção do imposto de renda ao tempo em que esteve temporariamente incapacitado para o trabalho (fls. 301/330e).
+Contrarrazões a fls. 335/337e.
+Negado seguimento ao Recurso Especial quanto à matéria referente ao Tema 1.037/STJ e inadmitido quanto à questão da multa protelatória (fls. 376/380e), foi interposto o presente Agravo (fls. 388/404e).
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem aplicou a multa prevista no art. 1.026, § 2º, do CPC, ao entendimento de que "o autor busca, na verdade, a rediscussão do tema, objetivo ao qual não se presta este recurso (CPC, art. 1.022), tornando-o manifestamente protelatório, pelo que indeclinável a aplicação de multa de 1% do valor atualizado da causa, nos termos do artigo 1.026, §2º do Código de Processo Civil" (fl. 293e).
+Nesse contexto, é de rigor a manutenção da multa aplicada pelo Tribunal de origem, no julgamento dos Aclaratórios, uma vez que, na forma da jurisprudência desta Corte, "a oposição de embargos de declaração com a finalidade de rediscutir o mérito enseja a aplicação da multa prevista no art. 538, parágrafo único, do CPC, em face do caráter manifestamente protelatório do recurso" (STJ, AgRg no AREsp 454.815/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 14/03/2016).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
