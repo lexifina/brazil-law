@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCEL JOSÉ BRAZ SCHERZ, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região (e-STJ fls. 841/844).
+Nas razões do recurso especial, a parte recorrente sustenta que "o Senado Federal abriu vaga definitiva, ainda durante a validade do concurso que MARCEL foi aprovado, e o nomeou, de forma definitiva, em vaga decorrente de falecimento do servidor que a ocupava, conforme o Parecer n.º 888/2015 ADVOSF, no processo administrativo n.º 00200.010004/2015-34" (e-STJ fl. 1.021).
+Aduz que "tal posição do recorrente dita pelo Senado Federal deveria ter sido acatada pelo TRF, com a consequente manifestação de que o objeto da ação foi atendido no transcurso do processo, por situação de abertura de vagas, ocasionando a perda superveniente do objeto da ação" (e-STJ fl. 1.035).
+Diante das alegações do recorrente, determinei a intimação das partes para se manifestarem a respeito da perda superveniente do objeto da ação (e-STJ fls. 1.213/1.214).
+O recorrente reafirma as razões do seu recurso especial, no sentido da preterição ou da perda superveniente do objeto, porquanto "o próprio Senado Federal informou que a vaga ocupada pelo Recorrente já não é mais por força de decisão judicial, senão por ter alcançado a posição necessária no certame, em razão do falecimento de dois servidores e do afastamento de outro, conforme parecer juntado aos autos" (e-STJ fl. 223).
+À e-STJ fl. 1227, a União aduziu que "vem se manifestar sobre a perda de objeto do Recurso Especial 2.046.840/PE, considerando que o próprio autor reconhece que o Senado Federal o nomeou e deu posse no cargo para o qual havia sido aprovado fora do número de vagas, em virtude de vacâncias ocorridas no seu quadro de servidores".
+Passo a decidir.
+Verifica-se que a pretensão tornou-se prejudicada, por perda superveniente do interesse da ação, uma vez que, no curso do processo, foi atendida por outro fundamento.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para julgar extinta a ação por falta de interesse processual, nos termos do art. 485, VI, do CPC/2015.
+Em observância ao art. 85, § 10, CPC/2015, e considerando que a perda de objeto ocorreu por causa distinta das contidas na inicial, não há razão para condenação em honorários advocatícios a qualquer das partes.
+Publique-se. Intimem-se.
