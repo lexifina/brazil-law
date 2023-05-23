@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCELO MACHADO KAWALL interpõe agravo regimental contra a decisão de fls. 928-932, na qual conheci do agravo para não conhecer do recurso especial.
+A defesa afirma que "o reconhecimento da exclusão da culpabilidade em razão da inexigibilidade da conduta diversa não ensejaria a análise de fatos, mas atenderia a correta aplicação da Lei" (fl. 941).
+Requer, dessa forma, caso não haja reconsideração do decisum anteriormente proferido, seja o feito submetido à apreciação do órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. INEXIGIBILIDADE DE CONDUTA DIVERSA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+A tese de inexigibilidade de conduta diversa foi afastada pelo Tribunal de origem, com lastro nas provas produzidas durante a instrução criminal. Para alterar a conclusão do julgamento seria necessário o revolvimento do caderno probatório, o que não é possível em recurso especial. Súmula n. 7 do STJ.
+Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao expor que a tese de inexigibilidade de conduta diversa foi afastada pelo Tribunal de origem, com lastro nas provas produzidas durante a instrução criminal. Para alterar a conclusão do julgamento seria necessário o revolvimento do caderno probatório, o que não é possível em recurso especial ante o óbice da Súmula n. 7 do STJ. Confira-se (fls. 928-932, grifos no original):
+A defesa alegou violação dos arts. 22 e 24 do Código Penal e aduziu que "o recorrente deixou de recolher/repassar os valores a previdência social, em razão de uma forte crise financeira que afetou sua empresa, além dos diversos débitos trabalhistas, alguns que por falta de verba não foram efetivamente pagos, portanto, o reconhecimento da exclusão da culpabilidade em razão da inexigibilidade da conduta diversa é medida que se impõe" (fl. 854).
+ ..
+Consta nos autos que o réu foi condenado pela prática do crime previsto no art. 168-A do Código Penal.
+O Tribunal de origem, depois de analisar o caderno probatório, concluiu, de modo fundamentado, que não estava caracterizada a inexigibilidade de conduta diversa. Apontou que não ficou comprovada a precária e intransponível situação financeira da empresa a configurar a causa supralegal de exclusão da culpabilidade. Confira-se (fls. 805-812, grifei):
+Assim constou da sentença (ID 163019215 - pág. 08/15):
+Cumpre observar que o crime de apropriação indébita de contribuição previdenciária não exige a demonstração do dolo específico para a configuração do tipo legal.
+(..)
+Por outro lado, a alegação da defesa de que o réu agiu em estado de necessidade ante as dificuldades financeiras, não restou configurada, pois meras alegações do réu não são suficientes.
+(..)
+Destaque-se que a apropriação indébita relativa a empregados e contribuintes individuais foi reiterada, no período de junho de 2003, agosto de 2003 a dezembro de 2005, tendo, neste ínterim, a empresa se mantido em atividade, sem contudo repassar as contribuições devidas ao INSS.
+Reconheço que os réus Marcelo Machado Kawali e Carlos Fernando Lucato praticaram o delito em continuidade delitiva, restando evidente que foram consumados em condições de tempo, de lugar e de maneira de execução, indicativos de que os crimes subsequentes eram mera continuação da primeira conduta de omissão de repasse das contribuições.
+Assim, restou evidenciado pelo corpo probatório dos autos que os acusados Marcelo Machado Kawall e Carlos; Fernando Lucato, praticaram, reiteradamente, a conduta delitiva, a qual subsume-se ao artigo 168-A ao Código Penal, cuja redação é a seguinte: "Deixar de repassar à previdência social as contribuições recolhidas dos contribuintes, no prazo e forma legal ou convencional"".
+(..)".
+Com efeito, os elementos probatórios constantes dos autos são firmes no sentido de que os réus Marcelo e Carlos (falecido), na qualidade de administradores da empresa Lucato Indústria e Comércio de Máquinas LTDA., deixaram de recolher os valores devidos a título de contribuição à previdência social.
+ ..
+Da inexigibilidade de conduta diversa
+A defesa de MARCELO MACHADO KAWALL pede sua absolvição com base na inexigibilidade de conduta diversa, sustentando que a empresa enfrentou dificuldades financeiras que a impossibilitaram de recolher as contribuições em questão.
+Com efeito, em julgado do STF (HC 113418), destaca-se que a precária condição financeira da empresa (quando extrema ao ponto de não restar alternativa socialmente menos danosa do que o não recolhimento das contribuições previdenciárias) pode ser aceita como causa supralegal de exclusão de culpabilidade no crime de apropriação indébita previdenciária.
+ ..
+Não se pode olvidar que é uma causa excepcional, que depende de robusta prova nos autos, conforme bem consignado em julgado proferido pela Segunda Turma deste Tribunal na apelação criminal 2005.61.81.900116-7, Relatoria do Desembargador Antonio Cedenho:
+"Outrossim, a tese defensiva relativa à inexigibilidade de conduta diversa em razão de dificuldades financeiras vivenciadas pela empresa não merece prosperar, uma vez que para que se caracterize como causa supralegal de exclusão da culpabilidade, exige-se que as dificuldades sejam de tal ordem que coloquem em risco a própria existência da empresa. Portanto, apenas a impossibilidade financeira devidamente comprovada nos autos poderia justificar a supressão ou redução de contribuição social previdenciária, devendo ainda ser esporádica, momentânea, e não uma situação habitual e prolongada indefinidamente por anos a fio.
+Entende-se, em tese, ser possível excluir a culpabilidade dos agentes por inexigibilidade de conduta diversa, desde que certos requisitos sejam provados, dentre eles, por exemplo, a comprovação, por parte do acusado, nos termos do artigo 156, do Código de Processo Penal, a da efetiva existência das dificuldades financeiras, o que deve ser feito por meio de prova documental; de que estas dificuldades foram causadas por motivos não relacionados a eventual má administração; que elas punham em risco a própria sobrevivência da entidade, não bastando meras dificuldade circunstanciais; que era caótica a situação da pessoa jurídica e que não existia outra opção aos seus sócios e administradores, de que o dinheiro não repassado à Previdência Social foi efetivamente utilizado na tentativa de preservação da empresa, especialmente no pagamento dos salários, e não no enriquecimento de sócios e administradores e, no caso das pessoas jurídicas com fins lucrativos, como o dos autos, do sacrifício dos bens pessoais dos sócio s em benefício da empresa.
+A prova da excludente da culpabilidade deve ser documental e robusta, inclusive com a realização de perícia nos livros contábeis, notas fiscais, registros de movimentação bancária e financeira, dentre outros documentos pertencentes à pessoa jurídica. Tal ônus é da própria defesa, que teve oportunidade de produzir provas a respeito da alegada dificuldade financeira, e, não as tendo realizado, descabe qualquer pleito de nulidade, nos termos do artigo 565, do Código de Processo Penal.
+(..)
+No caso dos autos, não foram trazidas provas hábeis a demonstrar que as dificuldades financeiras vivenciadas pela empresa foram diferentes daquelas comuns a qualquer atividade de risco, de modo a caracterizar a inexigibilidade de conduta diversa como excludente de culpabilidade, como por exemplo, a venda de patrimônio pessoal do empresário para quitar as dívidas da empresa.
+Não há também que se admitir que a sociedade arque com os ônus da má administração de um empreendimento, já que, nos casos de não recolhimento das contribuições previdenciárias, quem se prejudica é a Previdência Social, que existe para proporcionar o pagamento de benefícios sociais.
+Portanto, a conduta que se espera do empresário que enfrenta dificuldades financeiras momentâneas para cumprir suas obrigações fiscais e previdenciárias é a de que promova a venda de ativos (seja da empresa, sejam pessoais), ao invés de simplesmente desfalcar a Previdência Social e prejudicar, de forma indireta, interesses difusos de natureza socioeconômica. Assim sendo, as justificativas utilizadas pelo apelante para a omissão de recolhimento das contribuições não foram suficientes para provar que não havia outro modo da empresa continuar funcionando, não incidindo no caso a tese de inexigibilidade de conduta diversa."
+ ..
+A despeito das declarações de funcionário que trabalhou na empresa na época dos fatos, de que ela vinha enfrentado crise financeira e de que os sócios teriam vendido bens pessoais para enfrentá-la, tenho que isso não foi devidamente demonstrado nos autos.
+Com efeito, a defesa trouxe aos autos elementos que comprovam, tão somente, a existência de diversas ações ajuizadas em face da empresa (ID 163019214 - pág. 47/48, 49/50 e 103/150).
+Nada se demonstrou, no entanto, quanto às alegações dos réus de que teriam se desfeito de bens pessoais e da empresa para fazer frente a essas dificuldades.
+Quanto a isso, tem-se tão somente os depoimentos judiciais dos réus e um testemunho no sentido de que teriam vendido bens, desacompanhados de qualquer documento que dê lastro a essas alegações.
+Portanto, a documentação juntada é insuficiente para demonstrar a precária e instransponível situação financeira da empresa asseverada pelo réu, não havendo como acolher a alegação de inexigibilidade de conduta diversa.
+Mantenho a condenação de MARCELO MACHADO KAWALL como incurso na conduta descrita no artigo 168-A do Código Penal e passo à dosimetria da pena.
+Para alterar a conclusão do aresto combatido seria necessário o revolvimento de premissas fáticas, o que é vedado na via especial, consoante a exegese da Súmula n. 7 do STJ.
+Com efeito: "para que fosse possível a verificação da pretensão do reconhecimento da inexigibilidade de conduta diversa, seria necessário o revolvimento do conjunto fático-probante, conduta obstada pela súmula 07 desta Corte" (AgRg no AREsp n. 1.040.813/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 23/5/2018).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
