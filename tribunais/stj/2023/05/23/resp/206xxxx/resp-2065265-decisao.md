@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESTADO DE GOIÁS, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS nos termos da seguinte ementa (fl. 47):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DESENTENÇA COLETIVA. RECURSO SECUNDUM EVENTUM LITIS. AGENTE DEPOLÍCIA CIVIL. REAJUSTE ANUAL PARCELADO. EFEITO CASCATA. EXCESSODE EXECUÇÃO NÃO CONFIGURADO. DECISÃO MANTIDA.
+1. O agravo de instrumento é um recurso secundum eventum litis, devendo o juízo ad quem ater-se ao acerto ou desacerto da decisão recorrida, abstendo-se da análise de questões meritórias ou matérias não apreciadas pelo juízo a quo, sob pena de configurar a supressão de instância.
+2. Na sentença prolatada na ação civil pública de cobrança por obrigação de fazer ajuizada pelo Sindicato dos Policiais Civis do Estado de Goiás -SINPOL, os pedidos iniciais foram julgados procedentes, condenando o requerido ao pagamento do reajuste de 12,33%, previsto nas Leis nº 18.419/2014, 18.420/2014 e18.421/2014.
+3. O inconformismo do ESTADO DE GOIÁS, no sentido de que o reajuste seria somente referente aos meses de novembro/2015 a novembro/2016 não prevalece, na medida em que a base de cálculo desse período foi utilizada para calcular os reajustes que sobrevieram nos anos seguintes, causando o chamado efeito cascata, que só cessou em novembro/2018, quando foi pago o reajuste em sua integralidade.
+4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Foram acolhidos os embargos de declaração, sem efeitos infringentes (fls. 77-88).
+Inicialmente, sustenta violação do art. 1.022 do CPC, visto que o Tribunal de origem não teria se manifestado sobre a tese de violação da coisa julgada.
+Aduz, no mérito, que o acórdão estadual contrariou as disposições contidas nos arts. 502, 503, 505, 506 e 507 do CPC, sob o argumento de violação da coisa julgada perpetrada pela decisão de primeira instância, que não teria observado o marco temporal fixado na parte dispositiva do título exequendo
+Sustenta, outrossim, que a condenação exequenda deveria ser limitada ao pagamento de diferenças relativas ao período de novembro de 2015 a novembro de 2016.
+Ressalta que, "por força da garantia da coisa julgada, não é dado ao juízo da execução individual conceder algo além do que definitivamente decidido no título exequendo oriundo de ação coletiva".
+Requer a atribuição de efeito suspensivo ativo ao recurso especial, a fim de determinar a paralisação da execução individual até o deslinde do recurso.
+Apresentadas as contrarrazões (fls. 161-172), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 177-180).
+É, no essencial, o relatório.
+Não merece prosperar o recurso.
+Inicialmente, afasta-se a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, referente à coisa julgada.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+No mais, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender pela não ocorrência de excesso de execução, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto o referido acórdão (fls. 49-50):
+No tocante à concessão do reajuste dos subsídios dos Policiais Civis do Estado de Goiás, a Lei Estadual nº 18.420/14 disciplinou que:
+Art. 1º - Os valores dos subsídios dos ocupantes dos cargos integrantes das carreiras a que se referem os Anexos I, II e III da Lei nº 16.900, de 26 de janeiro de 2010, de Papiloscopista Policial, constantes da Lei nº 14.657, de 08 de janeiro de 2004, e do Grupo Ocupacional de Identificação, de que trata a Lei nº 17.089, de 02 de julho de2010, são reajustados nos seguintes percentuais e datas de vigência:
+I - 18,50% (dezoito inteiros e cinquenta centésimos por cento), em novembro de 2014;
+II - 12,33% (doze inteiros e trinta e três centésimos por cento), em novembro de 2015;
+III - 12,33% (doze inteiros e trinta e três centésimos por cento), em novembro de 2016;
+IV - 12,33% (doze inteiros e trinta e três centésimos por cento), em novembro de2017. Com a entrada em vigor a Lei Estadual nº 19.122/2015, vieram as seguintes alterações:
+Art. 2º O art. 1º da Lei nº 18.420, de 08 de abril de 2014, passa a vigorar com a seguinte redação:
+"Art.1º (..)
+I - (..)
+II - 12,33% (doze inteiros e trinta e três centésimos por cento), em dezembro de 2016;
+III - 12,33% (doze inteiros e trinta e três centésimos por cento), em dezembro de 2017;
+IV - 12,33% (doze inteiros e trinta e três centésimos por cento), em novembro de 2018."
+Resta esclarecido pela norma em evidência que o reajuste objeto da insurgência do agravante somente foi totalmente pago em novembro de 2018, um ano após a data prevista, materializando o prejuízo ao agravado, que ficou privado da atualização do percentual de 12,33% por cerca de 1 (um) ano.
+No período de novembro de 2015 a novembro de 2018, o exequente/recorrido recebeu vencimentos abaixo do valor devido, conforme consta da sentença coletiva proferida nos autos nº 0440990-61.2015.8.09.0051. Portanto, não prevalece o argumento do ESTADO DE GOIÁS, no sentido de que o reajuste seria somente em relação aos meses de novembro/2015 a novembro/2016, pois a base de cálculo desse período foi utilizada para calcular os reajustes que sobrevieram nos anos seguintes, causando o chamado efeito cascata, que só cessou em novembro/2018, quando o reajuste foi pago em sua integralidade.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE IMÓVEL PERANTE O JUÍZO EXECUTIVO. CABIMENTO. ART. 845, § 1º, NCPC. REGRA GERAL. DISSÍDIO JURISPRUDENCIAL NÃO EVIDENCIADO. EXCESSO DE EXECUÇÃO. INOCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Reconhecimento na origem de nomeação de bens a penhora pelo executado, com lavratura do respectivo termo. Hipótese que autoriza a aplicação da regra geral prevista no art. 845, § 1º, CPC/15, ainda que o bem se localize fora do Juízo executivo. Entendimento STJ. Dissídio jurisprudencial não evidenciado.
+3. Para se chegar a conclusão diversa da que chegou o Tribunal de origem, que entendeu pela inexistência de excesso de execução, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial nos termos da Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+5. Agravo interno não provido. (AgInt no REsp n. 1.889.847/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Ademais, do mesmo excerto colacionado, pode-se verificar que o Tribunal a quo, para decidir a controvérsia, interpretou a legislação local aplicável ao caso (Lei estadual n. 18.419/2014, Lei estadual n. 18.420/2014 e Lei estadual n. 18.421/2014), o que implica a inviabilidade do recurso especial, nos termos da Súmula 280 do STF.
+Ante o exposto, conheço em parte do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
