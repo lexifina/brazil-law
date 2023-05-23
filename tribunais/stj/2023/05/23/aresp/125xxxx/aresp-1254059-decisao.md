@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em face da admissibilidade negativa de recurso especial, interposto com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, visando à reforma de acórdão proferido em agravo de instrumento contra decisão que considerou a ausência de impugnação ao cálculo de liquidação, proferida em cumprimento de sentença de ação de responsabilidade civil movida pela massa falida, conforme ementa assim redigida (fl. 227):
+AGRAVO DE INSTRUMENTO. FALÊNCIA. LIQUIDAÇÃO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULO. DISCUSSÃO PRECLUSA. APLICAÇÃO DO ART. 507, CPC. À UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO INTERNO.
+Opostos embargos de declaração indicando a presença de contradição e omissão, foram rejeitados às fls. 250/252.
+No especial, Maria Cristina Escosteguy indica contrariedade aos artigos 489, § 1º, inciso IV, e 1.022, incisos I e II, do Código de Processo Civil; e 884 do Código Civil.
+Sustenta, em preliminar, que há nulidade por negativa de prestação jurisdicional, uma vez que as obscuridades e omissões suscitadas não foram supridas pelo acórdão recorrido, que ainda decidiu por razões deficientes, que confirmaram a homologação do cálculo sem considerar as impugnações apresentadas anteriormente, persistindo os vícios inquinados.
+Pleiteia o provimento ao ensejo de que "..está sendo indevidamente compelida a restituir à recorrida valores que jamais recebeu, que não saíram da massa falida, ensejando inegável enriquecimento ilícito da parte adversa" (fl. 265).
+Aduz ainda que "..O cerne da irresignação da recorrente é ter impugnado o cálculo indevidamente homologado pelo juízo de origem em três oportunidade e, ao não fazê-lo na quarta vez, depois de nenhuma das suas impugnações anteriores ter sido analisada, a discussão ter sido considerada preclusa" (fl. 267).
+Assere que "..entende que impugnado o cálculo uma vez, deve o juízo analisar tal impugnação, sob pena de eternizar o processo ou, como no caso dos autos, encerrá-lo de forma prematura, sem dirimir a controvérsia trazida aos autos" (fl. 268).
+Pondera que a conduta propiciará o enriquecimento sem causa da massa falida "..porque, ao fim e ao cabo, a recorrente está sendo coagida a restituir em favor da massa valores que jamais recebeu. A recorrente salienta que a ação de origem é de natureza indenizatória. Consequentemente, para haver dever de indenizar, é imprescindível que o dano tenha acontecido.
+No caso dos autos, entretanto, a massa falida não teve nenhum dano com a demissão da recorrente, posto que ela jamais recebeu suas verbas rescisórias" (fl. 271).
+Não foram apresentadas contrarrazões (cf. certidão de fl. 293).
+A admissibilidade negativa apontou a regularidade no julgamento do recurso integrativo e o propósito de reexame de matéria fática, vedado pela Súmula 7/STJ, motivação que foi suficientemente combatida na peça de fls. 304/313, razão por que considero superado o limite do conhecimento, com exceção da primeira preliminar a seguir.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, relativamente ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro Massami Uyeda, Terceira Turma, DJe de 3.2.2009). No mesmo sentido, dentre inúmeros outros, o AgRg no Ag 744.121/MG (Terceira Turma, Rel. Ministro Paulo Furtado  Desembargador convocado do TJBA , DJe de 23.3.2010).
+Saliente-se, ainda, que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal.
+Em relação à alegada infringência aos artigos 489 e 1.022 do Código de Processo Civil, verifico que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do julgado estadual.
+Note-se ademais que a recorrente se referiu a contradição e omissão nos embargos de declaração, enquanto no apelo narra que os vícios presentes seriam a obscuridade e a omissão, o que prejudica a compreensão da pretensão reformatória no particular (Súmula 284/STF).
+A Corte local assim expressou o seu entendimento a respeito da questão (fl. 229):
+Ainda que a recorrente argumente ter apresentado impugnação ao cumprimento de sentença por três oportunidades, todas sem manifestação do juízo a quo, irresignada com o cálculo ainda, deveria, novamente, impugná-lo, contudo, após despacho, quedou-se inerte, de forma que a homologação do cálculo mostra-se correta, restando preclusa a discussão, a teor do artigo 507 do Código de Processo Civil.
+Isso posto, nego provimento ao agravo interno.
+Percebe-se que ao contrário do alegado, a Corte de origem não admitiu que a recorrente tinha apresentado três impugnações, apenas que ela afirmara tê-lo feito.
+De toda sorte, a apreciação da matéria ficou restrita à tempestividade da impugnação aos cálculos de liquidação, sem pronunciamento acerca de eventual enriquecimento sem causa da massa falida, que não é decorrência lógica ou direta do reconhecimento da preclusão.
+Esse raciocínio implica admitir que a impugnação, se atempada, seria acolhida, o que não passa de conjectura.
+Nessa seara, contudo, a jurisprudência desta Corte não tem condições de examinar a pretensão reformatória, que demanda necessariamente o reexame dos elementos fáticos dos autos, prática vedada pela Súmula 7/STJ. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO TEMPESTIVA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. EXCESSO DE EXECUÇÃO APURADO PELO PERITO. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inversão do que ficou decidido pelo acórdão recorrido quanto à tempestividade da impugnação, bem como a necessidade de apuração de novos cálculos para apurar o valor devido da execução, demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. Agravo regimental não provido.
+(Quarta Turma, AgRg no AREsp 590.325/SP, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 27.4.2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INOCORRÊNCIA. TEMPESTIVIDADE DA IMPUGNAÇÃO. FALTA DE INTERESSE RECURSAL. EXCESSO DE EXECUÇÃO. REVISÃO DE CÁLCULOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DUPLICIDADE DE EXECUÇÕES. MATÉRIA PENDENTE DE ANÁLISE PELO JUÍZO SINGULAR. AGRAVO REGIMENTAL DESPROVIDO.
+(Terceira Turma, AgRg no AREsp 178.902/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, unânime, DJe de 30.9.2014)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. IMPUGNAÇÃO AOS CÁLCULOS. INTEMPESTIVIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ.
+1. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+(Quarta Turma, AgInt no AREsp 807.782/DF, minha relatoria, unânime, DJe de 23.11.2017)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Sem estipulação de honorários na origem, voltado o feito contra decisão interlocutória, não existe base de cálculo para majoração nesta instância.
+Intimem-se.
