@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - SENTENÇA -FUNDAMENTAÇÃO - RAZÕES DISSOCIADAS - AUSÊNCIA DE IMPUGNAÇÃO DOS TERMOS DA SENTENÇA. - Não se exige que as decisões proferidas pelo Poder Judiciário possuam fundamentação prolixa, nem que sejam rebatidas uma a uma as teses levantadas pelas partes, podendo ser sucinta desde que conste da decisão as razões que levaram o julgador a proferir determinado ato processual. As razões de recurso devem contrapor-se à tese adotada pela decisão recorrida, combatendo seus fundamentos. Não se conhece da apelação cujas razões recursais estão totalmente dissociadas dos fundamentos da sentença e daquilo que nela ficou decidido. V. v. Se o apelante apresenta argumentos que combatem a sentença, deve ser conhecido o recurso. Havendo discussão de fatos e sendo requerida a produção de provas, há cerceamento de defesa no encerramento prematuro da instrução." (e-STJ, fl. 197)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 225/229).
+Nas razões do recurso especial, a agravante alega violação aos arts. 5º, inciso LV, da Constituição Federal de 1988; e 369 do Código de Processo Civil de 2015, sustentando, em síntese, que ocorreu cerceamento de defesa com o encerramento prematura da instrução processual por parte do juiz de origem devido a desistência de um dos autores da demanda sem oportunizar aos demais autores a produção de provas requeridas.
+É o relatório. Passo a decidir.
+No tocante à violação do art. 5º, inciso LV, da CF, refoge da competência do STJ a análise, em sede de recurso especial, de alegação de violação de norma constitucional, motivo pelo qual inviável a abertura da via especial, com vistas a tal debate, sob pena de supressão de competência do próprio STF.
+Com relação a suposta violação ao art. 369 do CPC/15, a Corte de origem afirmou que não cabe a análise do suposto cerceamento de defesa em razão de a apelação não ter sido conhecido em razão de dissociação de suas razões, in verbis:
+"Com relação ao alegado cerceamento de defesa, tem-se que o recurso de apelação não foi conhecido por razões dissociadas ,ou seja, foram invocados fatos e fundamentos totalmente diversos, razão pela qual não cabe a análise do alegado cerceamento de defesa suscitado na apelação."
+(e-STJ, fl. 227)
+O fundamento de que o cerceamento de defesa não foi analisado em razão da dissociação das razões de apelação não foi objeto de impugnação e é suficiente, por si só, a manter a decisão da Corte de origem nesse ponto, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
