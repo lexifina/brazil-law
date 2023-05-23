@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por ADRIANA APARECIDA DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTÁRIA - LESÕES NA COLUNA E NOS MEMBROS SUPERIORES - PREJUÍZO FUNCIONAL NÃO RECONHECIDOS TECNICAMENTE - IMPROCEDÊNCIA. "Atestado pela prova médica, de forma cabal e taxativa, que a autora não ostenta nenhuma sequela incapacitante decorrente de moléstia de origem ocupacional, não há que se cogitar de indenização no âmbito da infortunística" (fl. 294).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 86 da Lei nº 8.213/91, no que concerne à necessidade de concessão do benefício de auxílio-acidente, haja vista a redução parcial e permanente da capacidade laborativa bem como da presença do nexo causal. Aduz os seguintes argumentos:
+Destarte, sendo a obreira portadora de moléstia nos ombros e cervical, com nexo causal com as atividades desempenhadas na empregadora, conforme restou comprovado, bem como REDUÇÃO DA CAPACIDADE LABORATIVA DE MANEIRA PARCIAL E PERMANENTE, então, o afastamento da concessão do auxílio-acidente viola o artigo 86 da Lei 8.213/1991, que assim dispõe:
+ ..
+Ante o exposto, requer a Recorrente a imperiosa reforma do v. Acórdão para que seja concedido o auxílio- acidente, sob pena de se manter violado o ordenamento legal brasileiro com a não aplicação da norma federal cabível.
+ ..
+Diante do exposto, requer a Recorrente seja ACOLHIDO e PROVIDO o Recurso Especial ora interposto, reformando o v. Acórdão impugnado para o fim de em razão do reconhecimento do nexo causal/concausal e diante da redução da capacidade laborativa de modo parcial e permanente, seja reconhecido o direito ao recebimento do benefício auxílio-acidente (B94) nos termos do artigo 86 da Lei 8.213/1991 (..) (fl. 307).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Vê-se que os achados do exame físico dos segmentos avaliados (coluna e membros superiores) apontaram resultados sem alterações significativas, não se vislumbrando, portanto, nenhuma sequela de incapacitante decorrente de moléstia de origem ocupacional a se considerar.
+Outrossim, a conclusão da avaliação médica não foi efetivamente infirmada por nenhuma outra prova técnica ao longo do feito.
+Nesse contexto, em que pese o inconformismo da apelante, diante do que se extrai do conjunto fático e probatório dos autos, outro não poderia ser o desfecho da demanda senão o decreto de improcedência do pedido (fl. 296).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
