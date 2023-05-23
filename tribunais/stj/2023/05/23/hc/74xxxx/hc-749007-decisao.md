@@ -1,0 +1,14 @@
+DECISÃO
+THOMAZ MARCHEZELI PALHARES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2129153-86.2002.8.26.0000.
+A defesa pretende que seja reconhecida a violação à garantia do juiz natural e, por consequência, a ilicitude de todas as provas derivadas da busca e apreensão.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 182-188).
+Decido.
+Consta nos autos que o réu foi condenado pela prática do crime previsto no art. 16 da Lei n. 10.826/2003. Sobre a controvérsia, a Corte estadual dispôs (fls. 26-27, grifei):
+A coação invocada pelos combativos defensores, resultante da alegada violação ao princípio do Juiz Natural, com inobservância do disposto nos arts. 284 e 285 do Código de Processo Civil c.c. o art. 3º do Código de Processo Penal, e ilegal realização de busca e apreensão, o que acarretaria a nulidade da ação penal, não mais aqui pode ser discutida, pois exaurida a jurisdição desta Corte com o julgamento da Apelação nº 0006217-27.2015.8.26.0457 que, acolhendo recurso ministerial, condenou THOMAS MARCHEZELLI PALHARES às penas de 03 (três) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, no piso legal, pela prática do crime previsto no artigo 16, caput, da Lei nº 10.826/03, substituída por prestação de serviços à comunidade e prestação pecuniária.
+Assim "não pode tomar conhecimento de um pedido de habeas corpus o juiz ou tribunal que praticou ou confirmou, expressa ou implicitamente, o ato considerado ofensivo da liberdade física do paciente" (Elementos de Direito Processual Penal José Frederico Marques, Ed. Bookseller, 1997, vol. IV, p. 377).
+E Mais: "Inviável é a impetração de habeas corpus a ser julgado pela própria autoridade apontada como coatora. Incompetência manifesta deste órgão julgador para conceder a ordem contra si próprio. Necessidade de observância do princípio da hierarquia, devendo o habeas corpus ser juizado por instância superior a de que provier a violência ou coação." (AgRgHC 20.027 STJ 3ª T - Rel. Min. Nancy Andrighi j. em 21/02/2002).
+Ademais, consta dos autos que foi interposto recurso em face da decisão deste colegiado.
+As matérias deduzidas neste habeas corpus não foram previamente debatidas pelo Tribunal a quo. Está caracterizada a indevida supressão de instância, e pretensa ilegalidade não é aferível de plano, pela mera leitura do acórdão recorrido, o que impede a concessão da ordem de ofício.
+Confira-se: "Matéria não apreciada pelo Tribunal de origem não pode ser diretamente enfrentada por esta Corte Superior, sob pena de supressão de instância" (AgInt no HC n. 473.623/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/8/2019).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
