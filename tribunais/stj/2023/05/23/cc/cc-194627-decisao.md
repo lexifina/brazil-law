@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo de Direito da Vara de Execução Criminal Regional de Passo Fundo/RS e suscitado o Juízo Federal da 3ª Vara de Passo Fundo/SJ-RS.
+O nacional paraguaio Ramon Rojas foi condenado à pena de 3 anos, 10 meses e 20 dias de reclusão no regime semiaberto, a lém do pagamento de 840 dias-multa, pela prática do crime previsto no art. 35 da Lei 11.343/2006.
+O mandado de prisão não foi cumprido, por não ter sido encontrado o apenado. Em manifestação apresentada perante o juízo suscitado, a Procuradoria da República no Município de Passo Fundo/RS informou que o Parquet "foi intimado do ofício encaminhado pela Divisão de Cooperação Jurídica Internacional (DCJI) do Ministério das Relações Exteriores informando que foi "decretada, em 29 de setembro de 2022, a prisão preventiva para fins de extradição do nacional paraguaio RAMON ROJAS", bem como que o processo de extradição ainda não havia sido formalizado (evento 73)" (e-STJ fl. 605).
+Diante dessas circunstâncias, o MPF solicitou "a formalização do pedido de extradição ativa, nos termos do Decreto nº 4.975/2004 (Acordo de Extradição entre os Estados Partes do Mercosul), devendo o pedido ser apresentado pelo Juízo Federal ao DCJI" (e-STJ fl. 605).
+O juízo suscitado declinou da competência por entender que "não possui jurisdição sobre os estabelecimentos prisionais, não tendo controle sobre vagas existentes" nas unidades estaduais (e-STJ fl. 622).
+O juízo suscitante, por sua vez, recusou a competência, ao fundamento de que "a competência desse Juízo estadual de execução criminal só emerge na hipótese de o apenado estar recolhido em estabelecimento penal cuja fiscalização compete a esse Juízo" (e-STJ fl. 629).
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 648-650).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para processo de execução penal foi estabelecida entre o Juízo de Direito da Vara de Execução Criminal Regional de Passo Fundo/RS, suscitante, e o Juízo Federal da 3ª Vara de Passo Fundo/SJ-RS, suscitado.
+Com razão o juízo suscitante, porquanto sequer foi formalizado pedido de extradição do apenado, nos termos da manifestação apresentada pelo Parquet federal na origem.
+Tendo em vista que o título executivo condenatório foi proferido pelo juízo suscitado, compete a este a iniciativa para formalização do pedido de extradição do apenado. Quanto ao ponto, convém a transcrição de trecho do parecer ofertado no âmbito desta Corte pelo Ministério Público Federal (e-STJ fl. 650):
+2.6. No caso, verifica-se que a questão não se refere à aplicação da Súmula 192/STJ, (É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual).
+2.7. Com efeito, há a necessidade de formalização do pedido de extradição em face de RAMON ROJAS ao Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional do Ministério da Justiça. Depois é que ocorrerá o recolhimento do apenado a estabelecimento prisional para cumprir a pena privativa de liberdade, em regime semiaberto.
+2.8. Desta forma, por envolver previamente a formalização de pedido de extradição, com base no Decreto nº 4.975/2004 (Acordo de Extradição entre os Estados Partes do Mercosul) impõe-se fixar a competência da Justiça Federal (art. 109, incisos IV e V, da CF).
+A jurisprudência da 3ª Seção do Superior Tribunal de Justiça orienta que o "enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual" (CC 167.064/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 28/8/2019, DJe de 6/9/2019).
+Com fundamento, pois, no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo Federal da 3ª Vara de Passo Fundo/SJ-RS, suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
