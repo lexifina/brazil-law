@@ -1,0 +1,28 @@
+DECISÃO
+Regina Santos Rocha e outra interpõem agravo interno contra a decisão de fls. 195/196, proferida pela Presidência desta Corte que não conheceu do agravo em recurso especial.
+Sustentam que impugnaram os fundamentos da decisão que não admitiu a recurso especial.
+Intimada para se manifestar acerca da interposição do presente recurso, a parte contrária não apresentou impugnação.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão acima mencionada.
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 373, I, 489, § 1º, VI, e 1.022, parágrafo único, II, do Código de Processo Civil, 50 e 1.003 do Código Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 58):
+Processual. Incidente de desconsideração da personalidade jurídica. Decisão que deferiu a pretendida desconsideração e impôs restrição de saída do país aos agravantes. Pretensão à reforma.
+Elementos de convicção suficientes à desconsideração. Abertura de empresa que atua na mesma área da anterior, evidenciando a existência de confusão patrimonial. Inteligência do artigo 50 do Código Civil.
+Imposição de restrição de saída do país. Impossibilidade. Medida desarrazoada e desproporcional. Precedentes. RECURSO PROVIDO EM PARTE.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 110/115).
+Sustentam os agravantes que não foram preenchidos os requisitos legais autorizadores da desconsideração da personalidade jurídica.
+Afirmam que a responsabilidade solidária dos sócios se mantém até o limite de 2 (dois) anos após a sua retirada.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que a Corte local manteve a decisão que deferiu o pedido de desconsideração da personalidade jurídica, assim como afastou a alegação de violação do art. 1.003 do Código Civil, conforme os seguintes fundamentos (fls. 60/63):
+(..)
+O deferimento do pedido de desconsideração da personalidade jurídica depende do preenchimento dos requisitos previstos no artigo 50 do Código Civil: "em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial, pode o juiz decidir, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares dos administradores ou sócios da pessoa jurídica". (Redação original.)
+(..)
+Assim, para que ocorra a desconsideração da personalidade jurídica é necessário que se configure o abuso da personalidade jurídica, segundo os critérios aludidos, a saber, desvio de finalidade ou confusão patrimonial.
+No caso concreto, embora não se olvide que a mera insolvência da empresa CB Saúde Administração em Saúde Suplementar Ltda. não seja suficiente para a pretendida desconsideração, o requisito "confusão patrimonial" está suficientemente delineado, uma vez que bem evidenciou o exequente que veio o coagravante Rogério Marques Severino a se tornar sócio da empresa Ameno Administradora de Planos de Saúde Ltda., a qual ao contrário de suas alegações ostenta objeto social suficientemente semelhante à primeira e inclusive alterou sua denominação para CB Administradora de Planos de Saúde Ltda. (fls. 592/593 dos autos originais do incidente).
+Aliás, impende observar que beira a litigância de má-fé a alegação dos agravantes de que essas empresas teriam objetos sociais conflitantes, o que é feito a fls. 8 mediante descrição equivocada do objeto social da última (fazendo entender que o termo "exceto" se referiria também aos planos de saúde quando, na verdade, diz respeito apenas a serviços imobiliários, cf. fls. 592).
+Por sua vez, não pode assistir às coagravantes Regina e Thais o invocado parágrafo único do artigo 1.003 do Código de Processo Civil (segundo o qual "Até dois anos depois de averbada a modificação do contrato, responde o cedente solidariamente com o cessionário, perante a sociedade e terceiros, pelas obrigações que tinha como sócio"), uma vez que é entendimento consolidado pelo C. Superior Tribunal de Justiça que "Não incidem as disposições contidas nos arts. 1.003 e 1.032 do Código Civil na hipótese de desconsideração da personalidade jurídica, que tem como fundamento o abuso de direito por parte do sócio quando ele ainda fazia parte do quadro societário da pessoa jurídica" (AgInt nos EDclno REsp 1422020/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018), sendo inconteste, no caso concreto, que eram as coagravantes sócias da executada quando da constituição do débito exequendo (2014).
+De todo modo, impende consignar que nem sequer poderia se concluir por transcorrido esse prazo bienal, uma vez que enquanto teriam as coagravantes se retirado da sociedade em dezembro de 2017 e janeiro de 2018, respectivamente, o incidente de desconsideração em questão foi ajuizado pelo agravado pouco depois, em junho de 2018.
+(..)
+Com efeito, anoto que rever o entendimento do Tribunal de origem demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
