@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por SILDALEIA SILVA COSTA e OUTRO de decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu o recurso especial, sob os seguintes fundamentos: a) em relação aos arts. 80 e 81 do NCPC, incidem as Súmulas 211/STJ e 282/STF; b) não houve violação aos arts. 489, § 1º, IV e 1.022, II, do NCPC; c) em relação ao tema dos honorários advocatícios incidem as Súmulas 7 e 83 desta Corte; d) incidência da Súmula 7 no que se refere aos arts. 186 e 927 do Código Civil.
+É o relatório. Passo a decidir.
+O recurso não merece sequer conhecimento.
+Observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+In casu, a parte agravante não rebateu, como lhe competia, todos os referidos fundamentos da decisão recorrida, pois deixou de rebater as Súmulas 7 e 83 desta Corte. Saliente-se que limitou-se a deduzir argumentos genéricos acerca da Súmula 7 do Superior Tribunal de Justiça, sem, contudo, indicar sua inaplicabilidade ao caso concreto.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
