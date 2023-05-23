@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO INTERNO. ATIVOS FINANCEIROS DE PESSOA FÍSICA. 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. AGRAVO DE INSTRUMENTO EM CONTRASTE COM A SÚMULA 108 DO TRF4. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO" (fl. 53e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 59/61e), os quais restaram rejeitados, nos seguintes termos:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SISBAJUD EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. Do exame dos autos, não se encontram presentes quaisquer das hipóteses ensejadoras dos embargos declaratórios, na medida em que a decisão foi devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos. Os embargos de declaração têm o propósito de aperfeiçoar o julgado, não de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do CPC).
+3. Restam prequestionados, para fins de acesso às instâncias recursais superiores, os dispositivos legais e constitucionais elencados pela parte embargante" (fl. 70e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 789, 797, 835, I, 854, §§ 3º, I, e 5º, e 1.022, II, do CPC/2015, assim como aos arts. 7º, II, 9º, 10º e 11, I, da Lei 6.830/80, sustentando, além de negativa de prestação jurisdicional, que o juízo não pode afastar a possibilidade de penhora de valores apenas em razão do limite de 40 salários mínimos.
+Não há contrarrazões.
+Inadmitido o Recurso Especial (fls. 93/95e), foi interposto o presente Agravo (fls. 101/121e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento apresentado pela ora agravante, com o objetivo de reformar decisão que afastou constrição realizada por entender impenhoráveis valores abaixa de 40 salários mínimos.
+O Tribunal local negou provimento ao apelo.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à negativa de prestação jurisdicional, deve-se ressaltar que o acórdão recorrido, julgado sob a égide do anterior Código de Processo Civil, não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078 .082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, no que tange ao mérito, "a jurisprudência desta Corte Superior entende que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, sendo ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento" (AgInt no AREsp n. 2.139.117/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+O acórdão recorrido está em consonância com a orientação acima colacionado, não merecendo reparos.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
