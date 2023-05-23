@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por VIAÇÃO SALUTARIS E TURISMO S/A com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação de indenização por danos morais. Acidente de trânsito. Sentença que julgou procedente a ação. Inconformismo das partes. Acidente de Trânsito. Culpa do preposto da primeira corré Viação Salutaris e Turismo S.A. comprovada. Culpa pelo acidente decidida em sentença penal condenatória. Impossibilidade de rediscussão na esfera cível (artigo 935, CC). Inexistência de lastro para as alegadas excludentes de responsabilidade.
+Reponsabilidade da seguradora é solidária (artigo 787, do CC) e limitada ao contratado. Dano moral configurado. Indiscutível dor e sofrimento dos familiares do falecido. "Quantum" arbitrado em sentença razoável quanto aos pais do falecido e deve ser mantido. Redução da indenização destinada aos irmãos do falecido, razoável e proporcional, haja vista tratar-se de grau de parentesco diverso e inexistir dependência econômico financeira. Termo inicial da correção monetária e juros moratórios incidentes sobre o dano moral. Reparo necessário. Juros de mora a partir do evento danoso e correção monetária desde o arbitramento (Súmulas nº 54 e 362, do C. S.T.J.). Seguro DPVAT. Abatimento da indenização a título de dano moral. Acolhimento. Ausência de ressalva na lei nº 6.194/74 quanto a não cobertura dos prejuízos morais relacionados aos eventos nela discriminados. Precedente do C. STJ. Sucumbência da seguradora afastada, pois acolheu a defesa da denunciante. Precedentes jurisprudenciais. Medidas requeridas pela corré Nobre Seguradora por estar em liquidação judicial, condicionadas à liquidação do passivo, devendo ser analisadas no momento oportuno da execução. Sentença reformada em parte. Recursos parcialmente providos.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que há dissídio jurisprudencial entre o acórdão proferido pelo Tribunal a quo e paradigmas do Superior Tribunal de Justiça quanto ao termo inicial para incidência dos juros de mora, em ação indenizatória por ato ilícito, devendo ser percebida a demora no ajuizamento da ação indenizatória.
+Apresentadas contrarrazões ao recurso especial a fls. 933/938.
+O referido recurso não foi admitido, por se entender, essencialmente, que o dissídio jurisprudencial não foi apresentado nos moldes legais e regimentais.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial, amparado exclusivamente na alínea c do permissivo constitucional, envolvendo a pretensão em alterar o termo inicial dos juros de mora, não deve ser conhecido, porque não há indicação do artigo de lei federal tido por interpretado de modo divergente, o que acarreta deficiência de fundamentação, atraindo a incidência da Súmula 284/STF.
+Nesse sentido, colacionam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO ANULATÓRIA CUMULADA COM PEDIDO REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. SÚMULA Nº 284 DO STF.DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO SOBRE O QUAL PENDE O DISSÍDIO INTERPRETATIVO NÃO INDICADO. SÚMULA Nº 284 DO STF. MAIOR NÚMERO DE PEDIDOS ACOLHIDOS. SUCUMBÊNCIA MÍNIMA CONFIGURADA. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula nº 284 do STF.
+3. Para comprovação da divergência jurisprudencial é necessária a indicação do dispositivo de lei federal sobre o qual se manifeste o dissídio entre tribunais, sob pena de incidência da Súmula nº 284 do STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1576556/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/2/2020, DJe de 19/2/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. ESPECIAL INTERPOSTO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. SÚMULA N. 284 DO STF. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige que a parte demonstre, de forma expressa e clara, como foi contrariada a lei federal. Tratando-se de recurso interposto pela alínea "c", deve o recorrente comprovar, analiticamente, que os acórdãos confrontados deram ao mesmo artigo de lei interpretações divergentes. Ausente tal requisito, incide, por analogia, a Súmula n. 284/STF.
+ ..
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1527104/GO, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe de 5/11/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 2%.
+Publique-se.
