@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BRF S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RS.
+Ação: cumprimento de sentença, proposto por GUILHERME BLASI RHOD & CIA LTDA - MICROEMPRESA, em face da agravante, na qual vislumbra a satisfação de débito reconhecido por sentença transitada em julgada em demanda cujo objeto é contrato de transporte terrestre.
+Decisão interlocutória: acolheu o pedido da agravante de nulidade da intimação do cumprimento de sentença, em razão da ausência de intimação da advogada não cadastrada, Dra. Marina Sampaio Galvani.
+Acórdão: deu provimento ao agravo de instrumento interposto pela agravada, para afastar a nulidade da intimação do cumprimento de sentença, nos termos da seguinte ementa:
+Agravo de instrumento. Transporte. Cumprimento de sentença. Nulidade de intimação afastada. O artigo 272, § 2º, do CPC não exige que todos os procuradores que atuem no feito sejam cadastrados, mas sim que nas publicações conste o nome das partes e seus advogados, sob pena de nulidade. Nos termos da lei nº 11.419/2006, § 3º, do artigo 5º, decorrido o prazo de dez dias sem consulta à intimação, considera-se a parte intimada automaticamente. Unânime. Deram provimento ao recurso. (e-STJ, fl. 132)
+Recurso especial: alega violação do art. 272, § 5º, do CPC/15, bem como a existência de dissídio jurisprudencial. Sustenta a nulidade da intimação, porquanto postulou que as intimações referentes ao processo fossem efetuadas em nome de ambos os seus advogados, sob pena de nulidade - Álvaro Brito Arantes (OAB/SP n. 234.926) e Marina Sampaio Galvani (OAB/SP n. 305.188) -, mas apenas um deles foi cadastrado e intimado dos atos processuais.
+Juízo prévio de admissibilidade: o TJ/RS inadmitiu o recurso especial, ensejando a interposição do recurso cabível, o qual foi reautuado, para melhor exame da matéria.
+É O RELATÓRIO. DECIDO.
+Nos termos do art. 275, § 5º, do CPC/2015, "constando dos autos pedido expresso para que as comunicações dos atos processuais sejam feitas em nome dos advogados indicados, o seu desatendimento implicará nulidade".
+Interpretando o referido dispositivo legal, esta Corte firmou orientação no sentido de que "configura-se nula a intimação quando existir prévio requerimento de publicação de intimação exclusiva para mais de um advogado habilitado nos autos e, no entanto, a publicação não observar a totalidade dos causídicos indicados, por força do que disciplina o art. 272, § 5º, do CPC/2015" (EAREsp n. 1.306.464/SP, Segunda Seção, julgado em 25/11/2020, DJe de 9/3/2021). Confira-se, por oportuno, a ementa do precedente:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. REQUERIMENTO PRÉVIO DE INTIMAÇÃO EXCLUSIVA DE TRÊS PATRONOS DA PARTE. INTIMAÇÃO SOMENTE EM NOME DE DOIS ADVOGADOS. NULIDADE CONFIGURADA. JULGAMENTO: CPC/15.
+1. Embargos de divergência opostos em 26/05/2020. Conclusão ao gabinete em 31/08/2020. Julgamento CPC/15.
+2. O propósito recursal consiste em decidir sobre a validade da intimação de advogado quando há pedido de intimação exclusiva, com fundamento no § 5º do art. 272 do CPC/15.
+3. Dispõe o art. 272, § 5º, do CPC/15 que: "constando dos autos pedido expresso para que as comunicações dos atos processuais sejam feitas em nome dos advogados indicados, o seu desatendimento implicará nulidade".
+4. Hipótese em que há pedido de intimação exclusiva de três patronos indicados, mas somente dois deles foram intimados.
+5. Invalidade da intimação, necessidade de que todos os advogados indicados sejam intimados.
+6. O acórdão embargado adotou de posicionamento segundo o qual o STJ teria firmado entendimento no sentido de que "não há obrigatoriedade de publicação em nome de todos os advogados relacionados na petição que pede intimação exclusiva, mas tão somente de um deles", firmado na vigência do CPC/1973. Todavia, a situação fática a sob julgamento se enquadra perfeitamente na hipótese analisada no acórdão paradigma, segundo a qual configura-se nula a intimação quando existir prévio requerimento de publicação de intimação exclusiva para mais de um advogado habilitado nos autos e, no entanto, a publicação não observar a totalidade dos causídicos indicados, por força do que disciplina o art. 272, § 5º, do CPC/2015. Precedentes.
+7. Embargos de divergência no agravo em recurso especial acolhidos.
+(EAREsp n. 1.306.464/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/11/2020, DJe de 9/3/2021.)  g.n.
+No particular, é incontroverso nos autos que houve requerimento de que as intimações fossem realizadas em nome dos procuradores Álvaro Brito Arantes e de Marina Sampaio Galvani. No entanto, esta não constou da intimação acerca do cumprimento de sentença.
+Assim, a Corte de origem, ao afastar a nulidade da intimação, divergiu da jurisprudência do STJ e violou o disposto no art. 275, § 5º, do CPC/2015.
+Forte nessas razões, com fundamento na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para restabelecer a decisão proferida no primeiro grau de jurisdição, que declarou a nulidade da intimação e, consequentemente, afastou os encargos devidos.
+Ante o resultado do julgamento, deixo de aplicar o disposto no art. 85, § 11, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INDICAÇÃO DE MAIS DE UM CAUSÍDICO. INTIMAÇÃO DE APENAS UM DELES. NULIDADE CONFIGURADA.
+1. "Configura-se nula a intimação quando existir prévio requerimento de publicação de intimação exclusiva para mais de um advogado habilitado nos autos e, no entanto, a publicação não observar a totalidade dos causídicos indicados, por força do que disciplina o art. 272, § 5º, do CPC/2015" (EAREsp n. 1.306.464/SP, Segunda Seção).
+2. Na espécie, embora tenha havido requerimento no sentido de que as intimações fossem realizadas em nome de dois procuradores, apenas um deles foi intimado, o que configura nulidade.
+3. Recurso especial conhecido e provido.
