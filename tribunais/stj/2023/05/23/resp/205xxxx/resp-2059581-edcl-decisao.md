@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATHIAS ROMEU KLEIN LOURENÇO, com fundamento no art. 1.022 do CPC, à decisão monocrática desta relatoria de fls. 340-343 (e-STJ), que não conheceu de seu recurso especial.
+Defende a existência de erro material no decisum, tendo em vista que o apelo excepcional foi interposto apenas com base na alínea a do permissivo constitucional, e não com suporte em divergência jurisprudencial.
+Argui que o julgado padece de contradições, tendo em vista que sua pretensão cinge-se a demonstrar que não seria válida a capitalização diária de juros, pois não teria sido divulgada de forma prévia a taxa efetiva diária.
+Nesse sentido, destaca que não questionou a ilegalidade do percentual de juros remuneratórios exigidos no período de normalidade contratual. Pugna pelo acolhimento destes embargos de declaração (e-STJ, fls. 347-351).
+Contraminuta não apresentada (e-STJ, fl.354).
+É o relatório.
+Não há nenhuma contradição, erro material, omissão ou mesmo carência de fundamentação a serem sanados no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do CPC.
+A decisão embargada dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram a inviabilidade de conhecimento do recurso especial. Demonstrou-se que havia expressa previsão contratual no sentido da existência de pactuação de capitalização de juros inferior à anual; bem como atestou o decisum que teria sido firmada a ausência de ilegalidades a serem corrigidas, bem como a inviabilidade de descaracterização da mora. Essas questões teriam sido fundadas na apreciação de fatos, provas e termos contratuais, atraindo-se a aplicação das Súmulas 5 e 7/STJ.
+Esclareceu-se que a pretensão da parte externada no recurso especial acerca da carência de respeito ao direito à informação e existência de abusividade das taxas de juros não teriam sido debatidas no julgamento da segunda instância nem foram opostos embargos de declaração objetivando suprir eventual omissão. Esse quadro atrairia a aplicação das Súmulas 282 e 356/STF - inexistência de prequestionamento das teses recursais.
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. Fica nítido que se busca, em verdade, a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 182.614/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/04/2022, DJe 19/04/2022)
+A menção na decisão monocrática de que a aplicação das Súmulas 5 e 7/STJ se aplicam a ambas as alíneas do permissivo constitucional, inclusive com base em divergência jurisprudencial, não se qualifica como erro material. Destarte, além de tal afirmação não prejudica em nada a parte, tendo sido feita a título ilustrativo.
+Além disso, embora não especifique que seu recurso especial estaria fundado na alínea c do permissivo constitucional, a parte alega que o acórdão estadual estaria em descompasso com a jurisprudência deste Tribunal de uniformização, como se observa das fls. 292-293 (e-STJ.
+Por fim, não custa lembrar que "a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão. No caso, não ficou demonstrada a ocorrência de contradição no julgado embargado, o que impede o acolhimento dos embargos de declaração" (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.041.164/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/4/2023, DJe de 10/5/2023.).
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, ERRO MATERIAL, CARÊNCIA DE FUNDAMENTAÇÃO OU CONTRADIÇÃO NÃO VERIFICADOS. DECISÃO EMBARGADA DEVIDAMENTE JUSTIFICADA. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
