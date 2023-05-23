@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por LAZARO ANTÔNIO DA ROSA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação - Ação Declaratória Sentença de parcial procedência para declarar a inexigibilidade do débito, devolução dos valores descontados e condenação em danos morais Apelo do autor com a pretensão de majoração da indenização A verba indenizatória fixada em R$ 5.000,00 (cinco mil reais), se mostra adequada e em consonância com o princípio da proporcionalidade e da razoabilidade, visto que tal quantia servirá de desestimulo à instituição financeira ré e compensatória à parte autora, observando-se as condições sociais e econômicas das partes litigantes, a conformação dos fatos e a natureza do dano, de forma a não haver locupletamento indevido de uma parte e empobrecimento da outra Sentença Mantida Recurso Desprovido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência aos arts. 186 e 927 do Código Civil combinados com o art. 14 do CDC, na medida em que manteve a indenização por danos morais em razão do reconhecimento da responsabilidade na falha da prestação do serviço, no valor irrisório, não correspondendo, assim, a uma justa indenização.
+Obtempera a possibilidade de haver majoração da indenização moral ao consumidor por ato ilícito advindo da má prestação de serviços na relação de consumo, mormente considerada a responsabilidade objetiva do fornecedor.
+As contrarrazões ao recurso especial foram apresentadas a fls. 333/341.
+O referido recurso não foi admitido, por se entender, incidente na espécie, essencialmente, a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+Discute-se no recurso especial o cabimento de majoração do valor arbitrado a título de danos morais fixados em decorrência da procedência do pedido de inexigibilidade do débito indevidamente cobrado, cancelando-se o contrato de mútuo bancário não contratado.
+A indenização a título de danos morais foi fixada pelo Tribunal a quo no valor de cinco mil reais. Pondera a parte recorrente a devida majoração.
+Com efeito, o Tribunal a quo manteve a condenação em cinco mil reais, asseverando o que segue em tela:
+Verificados os danos, a verba indenizatória fixada em R$ 5.000,00 (cinco mil reais), se mostra adequada e em consonância com o princípio da proporcionalidade e da razoabilidade, visto que tal quantia servirá de desestimulo à instituição financeira ré e compensatória à parte autora, observando-se as condições sociais e econômicas das partes litigantes, a conformação dos fatos e a natureza do dano, de forma a não haver locupletamento indevido de uma parte e empobrecimento da outra.
+Acerca da discussão recursal, a jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Na espécie, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, já foi fixada em conformidade com os princípios da proporcionalidade e razoabilidade.
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. EMPRÉSTIMO CONSIGNADO. DESCONTO INDEVIDO. INDENIZAÇÃO. DANOS MORAL. SÚMULA 7/STJ. ADEQUAÇÃO DO VALOR FIXADO PELAS INSTÂNCIAS ORDINÁRIAS.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, já foi fixada em conformidade com os princípios da proporcionalidade e razoabilidade.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2110540/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/4/2023, DJe de 24/4/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DANO MORAL. QUANTUM REPARATÓRIO. AUSÊNCIA DE RAZOABILIDADE E DE PROPORCIONALIDADE. MAJORAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. É admissível o reexame do valor fixado a título de danos morais, quando verificada a exorbitância ou a natureza irrisória da importância arbitrada, em ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, não se mostra irrisório o montante estabelecido pelo Tribunal de Justiça em R$1.000,00 (mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, ao sofrer indevido desconto bancário, no valor de R$ 31,00 (trinta e um reais).
+4. É inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o valor da indenização.
+5. Agravo interno provido para, em nova análise do feito, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1912680/MS, de minha Relatoria, QUARTA TURMA, julgado em 10/10/2022, DJe de 21/10/2022)
+Dessa forma, entende-se que o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
