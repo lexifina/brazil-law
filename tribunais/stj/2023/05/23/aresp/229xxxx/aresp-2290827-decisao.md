@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por PARQUE CIDADE JARDIM VOTUPORANGA SPE LTDA contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação de rescisão contratual c.c. restituição de valores pagos. Compromisso de compra e venda de bem imóvel (lote). Ação que foi julgada parcialmente procedente para declarar a rescisão do contrato e condenar a ré a restituir ao autor valor equivalente a 80% do montante pago, "deduzidas eventuais prestações ema atraso e taxa de ocupação" correspondente a 0,2% do valor do contrato por mês de ocupação. Desistência do comprador devido às dificuldades financeiras. Direito de retenção de 20% sobre os valores pagos. Percentagem que deve ser fixada de acordo com os parâmetros dos julgados do E. STJ. Taxa de ocupação/fruição. Não cabimento.
+Ausente prova da efetiva imissão na posse do bem, de edificação sobre o terreno ou de algum proveito econômico sobre o lote. Ausente culpa da ré.
+Impossibilidade de devolução integral dos valores pagos. Arras confirmatórias. Parte integrante do preço. Não retenção. Sucumbência reciproca.
+Recurso parcialmente provido do autor e desprovido da ré, com majoração de verba honorária." (e-STJ, fl.372)
+Nas razões do recurso especial, a parte agravante alega violação do art. 1º, da Lei 6.899/81, sustentando, em síntese, a correção monetária do débito judicial não deve ser feita de acordo com o índice previsto no contrato, mas de acordo com o índice previsto para atualização dos débitos judiciais, no caso, o INPC.
+É o relatório. Decido.
+No que tange à alegação referente a necessidade de que a correção monetária pelo índice do INPC utilizado para atualização dos débitos judiciais, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor da referida alegação, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instância. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C.STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
