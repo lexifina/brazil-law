@@ -1,0 +1,6 @@
+DECISÃO
+Em petição de fls. 297/312, datada de 04/09/2019 - portanto antes do decurso do prazo para a interposição de eventual recurso contra a decisão de fls. 292/295 - a recorrente FEDERAL DE SEGUROS S/A EM LIQUIDAÇÃO EXTRAJUDICIAL comunicou a decretação de sua falência, ocorrida em 13/08/2019, requerendo a retificação da autuação do recurso, tendo sido intimada, em 02/10/2019, para a regularização de sua representação, no prazo de 5 (cinco) dias (fl. 315).
+Após a juntada tempestiva, em 17/10/2019, dos documentos comprobatórios de sua nova situação jurídica (fls. 326/348), foi deferida a retificação da autuação (fls. 355/356), determinando-se a intimação acerca da retomada do prazo para interposição de recurso contra a decisão de fls. 292/295, suspenso desde 04/09/2019.
+Nesse contexto, tendo a referida decisão sido publicada em 30/08/2019, ficando o prazo para interposição de recursos suspenso de 04/09/2019 a 30/11/2022, o prazo fatal para a interposição de agravo interno de deu em 01/02/2023, tendo o prazo transcorrido in albis, sem qualquer manifestação da parte, de modo que a presente demanda, portanto, encontra-se acobertada pelo trânsito em julgado.
+Neste contexto, não havendo nada mais a prover nestes autos, determino a certificação do trânsito em julgado, com posterior baixa imediata dos autos ao eg. Tribunal de origem.
+Publique-se. Cumpra-se.
