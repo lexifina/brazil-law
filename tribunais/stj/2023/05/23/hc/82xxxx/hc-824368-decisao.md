@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CESAR APARECIDO FERNANDES contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, no julgamento da Apelação Criminal n. 1.0116.11.005466-9/001.
+Consta dos autos que o paciente foi condenado à pena de 11 anos, 4 meses e 1 dia de reclusão em regime inicial fechado, e 1699 dias-multa, por cometimento dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para reduzir as penas do paciente para 9 anos e 4 meses de reclusão e 1.399 dias-multa, mantidos os demais termos da condenação. Abaixo a ementa do julgado (e-STJ fls. 14/22):
+EMENTA: APELAÇÃO CRIMINAL - TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - PRELIMINAR EX OFFICIO - PRESCRIÇÃO DA PRETENSÃO PUNITIVA NA MODALIDADE RETROATIVA - PENA IN CONCRETO -ACUSADOS MENORES DE 21 (VINTE E UM) ANOS DE IDADE NA DATA DO FATO - OCORRÊNCIA - EXTINÇÃODA PUNIBILIDADE EM RELAÇÃO AO 2º E 3º APELANTES - MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE -AUTORIA E MATERIALIDADE DEMONSTRADAS - CONDENAÇÃO MANTIDA - REDUÇÃO DA PENA-BASE -CABIMENTO - DECOTE DA AGRAVANTE DA REINCIDÊNCIA - NECESSIDADE - CONDENAÇÕES ANTERIORESCOM DECURSO DO PRAZO PREVISTO NO ART. 64, INCISO I, DO CÓDIGO PENAL
+.- Por se tratar de matéria de ordem pública, a análise da prescrição antecede o exame do mérito recursal.
+- Deve ser declarada extinta a punibilidade dos acusados, se, entre os marcos interruptivos descritos no artigo 117 do Código Penal, transcorreu tempo suficiente para operar-se a prescrição da pretensão punitiva estatal, observando-se os prazos do artigo 109 e a moduladora do artigo 115, todos do Código Penal.
+- Havendo nos autos elementos suficientes para se imputar ao acusado a autoria dos crimes de tráfico e associação para o tráfico de drogas, notadamente pela prova testemunhal produzida, a manutenção da condenação é medida que se impõe, não havendo que se falar em absolvição.
+- Sendo a circunstância judicial referente às consequências do crime reexaminada em favor do acusado e tendo apena-base sido imposta em patamar exacerbado, impõe-se a sua redução.
+- Segundo a inteligência do art. 64, inciso I, do Código Penal, ultrapassado o período de 05 anos entre a data do cumprimento ou extinção da pena e a infração posterior, as condenações penais definitivas anteriores não configuram a reincidência.
+V. V - Ausentes o animus associativo, a permanência e a eventualidade para a prática reiterada do tráfico de drogas, não restará caracterizada a associação prevista no art. 35 da Lei 11.343/06.
+No presente mandamus (e-STJ fls. 3/6), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, em razão da dosimetria da pena. Assevera que a pena do delito de tráfico deve ser fixada no mínimo legal, com aplicação da causa de redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Ao final, pede a concessão da ordem para que seja reduzidas as penas aplicadas.
+É o relatório. Decido.
+Verifica-se que o writ não está devidamente instruído, pois ausente dos autos cópia do inteiro teor da sentença, documento imprescindível à compreensão da controvérsia e ao exame da plausibilidade do pedido, notadamente por se tratar de pleito de realização de nova dosimetria da pena.
+Cabe ressaltar que o rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem. Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos e cópia das decisões impugnadas, a existência do constrangimento ilegal imposto ao paciente, o que, no caso, não foi feito.
+Nesse sentido, confiram-se precedentes desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido (RCD no RHC 54.626/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 2/3/2015).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO. ART. 210 DO REGIMENTO INTERNO DESTA CORTE. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PEDIDO DE LIMINAR NO WRIT ORIGINÁRIO. INCIDÊNCIA DA SÚMULA 691 DO STF. EXCEPCIONALIDADE NÃO EVIDENCIADA. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO PELO TRIBUNAL DE ORIGEM. NOVO TÍTULO. SUPRESSÃO DE INSTÂNCIA. APRESENTAÇÃO POSTERIOR DE DOCUMENTAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA E VEDAÇÃO DE DILAÇÃO PROBATÓRIA. MANUTENÇÃO DA DECISÃO.
+I - Nos termos do art. 210, do Regimento Interno desta Corte, o Relator está autorizado a indeferir liminarmente pedido manifestamente incabível, quando manifesta a incompetência do Tribunal para dele conhecer originariamente, ou for reiteração de outro com os mesmos fundamentos.
+II - Incabível habeas corpus contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF). Precedentes.
+III - A expedição de novo provimento judicial, de cognição exauriente, prejudica os fundamentos invocados pelo Paciente, visto que não foram objeto de insurgência na presente ação mandamental impetrada contra o indeferimento do pedido de liminar. Precedentes.
+IV. O conhecimento do writ pressupõe prova pré-constituída do direito pleiteado, revelando-se impossibilitada a dilação probatória. Precedentes.
+V - A decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+VI - Agravo Regimental improvido (AgRg no HC 291.856/SP, Rel. Ministra REGINA HELENA COSTA, Quinta Turma, DJe 12/5/2014).
+Ademais, a irresignação manifestada no presente habeas corpus, à exceção do pedido referente ao reconhecimento da confissão espontânea, constitui o mesmo objeto do HC n. 798871/MG, o qual já foi julgado por esta Corte, por decisão transitada em julgado.
+Assim, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, revelando-se i ncabível novo habeas corpus, na esteira do disposto no art. 210 do Regimento Interno do STJ, segundo o qual: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO PELO CONCURSO DE PESSOAS, MOTIVO FÚTIL E EMPREGO DE MEIO CRUEL. PRONÚNCIA. NULIDADES PROCESSUAIS. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO TIDO POR COATOR. SUPRESSÃO DE INSTÂNCIA.
+1. Nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, o relator indeferirá liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos.
+ ..
+4. Agravo regimental desprovido (AgRg no HC 517.821/SP, Rel. Quinta Turma, DJe 4/9/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+II - "Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte" (AgRg no HC 478.216/RJ, Quinta Turma, Rel. Ministro RIBEIRO DANTAS, DJe 19/2/2019).
+III - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido (AgRg no HC 509.639/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 4/6/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
