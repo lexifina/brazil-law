@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por CALIXTO LUEDY FILHO contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o recurso especial, fundamentado no art. 105, inc iso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Revisão Criminal n. 1.0000.21.131584-1/000.
+Em consulta aos assentamentos eletrônicos desta Corte Superior, verifica-se a anterior distribuição do REsp n. 1.604.256/MG, interposto pelo corréu ADRIANO CHAFIK LUEDY e referente ao mesmo fato delituoso, ao Exmo. Ministro JORGE MUSSI (o trânsito em julgado foi certificado em 08/05/2019). O HC n. 340.407/MG e o HC n. 607.742/MG, ambos impetrados em favor do ora Agravante e com trânsito em julgado já certificado, também foram distribuídos ao referido Relator.
+Desse modo, tendo em vista a aposentadoria do Ministro JORGE MUSSI, verifico ser o caso de aplicação da norma positivada no art. 71, § 1.º, do Regimento Interno desta Corte, in verbis (sem grifos no original):
+"Art. 71. A distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão; a distribuição do inquérito e da sindicância, bem como a realizada para efeito da concessão de fiança ou de decretação de prisão preventiva ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a da ação penal.
+§ 1º Se o relator deixar o Tri bunal ou transferir-se de Seção, a prevenção será do órgão julgador."
+Ante o exposto, DETERMINO a redistribuição do presente recurso a um dos Ministros integrantes da Quinta Turma deste Tribunal Superior.
+Publique-se. Intimem-se.
