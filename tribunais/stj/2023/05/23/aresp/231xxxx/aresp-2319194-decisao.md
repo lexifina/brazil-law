@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por ANTONIO CARLOS RODRIGUES, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 36):
+CUMPRIMENTO DE SENTENÇA Obrigação de fazer Decisão que determinou ao exequente a apresentação de nova planilha de cálculos com exclusão das mensalidades que estariam prescritas Insurgência da exequente Cabimento Inocorrência da prescrição quinquenal a contar da data do trânsito em julgado da sentença que estabeleceu o valor da mensalidade do plano de assistência à saúde superiores aos pagos pelo agravado durante o período de concessão da tutela antecipada Decisão reformada RECURSO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados às fls. 49/52.
+Nas razões do recurso especial, a agravante alega violação aos arts. 502, 503 e 508 do Código de Processo Civil de 2015 e 5º, XXXVI da Constituição Federal. Par tanto, sustenta, em síntese, que: (i) "ingressou com novo cumprimento de sentença, buscando cobrar do Recorrente valor que alega terem sidos pagos a menor, deixando de observar que todos os valores adimplidos foram à luz de liminar concedida e confirmada pela r. sentença e pelo v. Acórdão, não havendo o que se falar em reparação do prejuízo causado pela tutela, uma vez que não houve sua revogação, mas sim a sua confirmação em decisões superiores" - (fl. 59); (ii) "o v. Acórdão, desconsidera a coisa julgada, pois rediscutiu questão de mérito em sede totalmente imprópria para tanto, tornando o princípio da segurança jurídica totalmente ineficaz no presente caso" - (fl. 60).
+Foram apresentadas contrarrazões às fls. 68/76.
+É o relatório.
+De início, no tocante à alegada ofensa ao 5º, XXXVI, da Constituição Federal, observa-se que, por trata-se de matéria a ser apreciada na suprema instância, não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria em usurpação de competência constitucionalmente atribuída ao Eg. Supremo Tribunal Federal (CF, art. 102).
+Ademais, quanto à alegada violação dos arts. 502, 503 e 508, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco tal tese foi suscitada nos embargos de declaração opostos às fls. 39/41. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGALIDADE DE COBRANÇA DE VALORES CONJUGADA COM REVISIONAL DE CONTRATO E REPETIÇÃO DE INDÉBITO. DOCUMENTOS NÃO JUNTADOS NA INICIAL. REEXAME. SÚMULA Nº 7/STJ. MATÉRIA NÃO DEBATIDA NA ORIGEM.
+SÚMULA Nº 282/STF.
+1. A análise da existência de documentos na exordial que comprovariam a relação jurídica entre as partes não pode ser realizada por esta Corte, porquanto demandaria reexame fático, inviável neste momento processual, a teor da Súmula nº 7/STJ.
+2. Os argumentos de que a ação não poderia ter sido extinta de ofício por inépcia da inicial e de que o tribunal estadual deveria ter dado oportunidade à parte de emendar a exordial não foram debatidos na origem, tampouco foram arguidos nos embargos de declaração opostos naquela Corte, o que torna inviável o conhecimento pelo STJ, haja vista a ausência de prequestionamento - Súmula nº 282/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp 643.547/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017)"
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
