@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO contra decisão do TRIBUNAL DE JUSTIÇA local, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fls. 381/395):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. PROCEDIMENTO CIRURGICO DE VIDEOLAPAROSCOPIA. INFECÇÃO POR MICOBACTERIA. RESPONSABILIDADE OBJETIVA DO HOSPITAL. DANO MORAL.
+1. Trata-se de demanda em que busca o apelado a reparação por danos morais, fundamentada em falha na prestação dos serviços médicos da autarquia estadual de saúde.
+2. O fato narrado na inicial - qual seja, ter sido o autor acometido por infecção hospitalar por Mycobacterium abscessus durante cirurgia de retirada de vesícula por videolaparoscopia, realizada no hospital administrado pela apelante - restou incontroverso nos autos, cingindo-se a controvérsia recursal quanto a existência de erro médico causador do dano.
+3. Na seara da responsabilidade civil relacionada à Administração Pública, prevalece em nosso ordenamento jurídico, por força da norma constitucional prevista no art. 37, §6º, a teoria objetiva, consoante a qual basta simples comprovação do fato administrativo (conduta comissiva ou omissiva) e da relação de causalidade entre esse e o dano suportado para que se configure a responsabilidade dos entes públicos e das pessoas jurídicas de direito privado prestadoras de serviços públicos.
+4. Laudo pericial, realizado por perito de confiança do juízo e sob o crivo do contraditório, foi decisivo para a formação da convicção do magistrado de piso, assim como desta magistrada, inexistindo elementos aptos a afastar a conclusão a que chegou o expert do Juízo.
+5. Nesse trilho, restou demonstrado que as complicações cirúrgicas ocorreram em razão de infecção por micobactéria, sendo certo que a possibilidade de contaminação posteriormente à alta hospitalar, por falta de assepsia nos curativos domiciliares, foi afastada pelo expert, que esclareceu que o quadro de infecção estava relacionado ao material cirúrgico.
+6. Cabe ressaltar que a Lei nº. 9.431, de 06 de janeiro de 1997, que dispõe sobre a obrigatoriedade da manutenção de programa de controle de infecções hospitalares pelos hospitais do país, afirma que é denominada infecção hospitalar qualquer infecção adquirida após a internação quando puder ser relacionada com a hospitalização.
+7. Diga-se que entre o período de 2000 a 2007 registrou-se verdadeira epidemia, diante da grande proliferação da bactéria em todo o Rio de Janeiro, principalmente nos casos de cirurgia por vídeo, no período da operação da demandante, em agosto de 2006.
+8. Além disso, cabe ressaltar que o réu em sua contestação afirmou que o procedimento utilizado para desinfecção dos materiais cirúrgicos obedecia a recomendação da ANVISA contida na Pontaria 15 de 23/08/1988, ou seja, esterilização de material cirúrgico pela imersão em glutaraldeido.
+9. Contudo, a Resolucão nº 2.606 da Anvisa, datada de 11-08-06 estabelece protocolos para reprocessamento e proíbe o uso do gutaraldeído como meio degermação de materiais cirúrgicos. Em fevereiro de 2007, a ANVISA - Gerência de Investigação e Prevenção das Infecções e dos Eventos Adversos, publicou o Informe Técnico contendo orientações iniciais acerca da infecção por Mycobacterium abscessus: diagnóstico, definição de clínica compatível, identificação, teste de sensibilidade e tratamento.
+10. Frise-se que a cirurgia do apelado foi realizada em 22-08-06, onze dias depois da Resolucão nº 2.606, quando, apesar de ainda não publicada a nota técnica de 2007, já se tinha notícia da epidemia em questão.
+11. Portanto, tem-se que o cotejo probatório demonstrou a falha no atendimento prestado no hospital, não logrando o recorrente fazer prova de excludentes de sua responsabilidade.
+12. Dano moral configurado. Demandante que permaneceu em tratamento médico para tratamento das complicações infecciosas advindas da cirurgia de Colecistectomia por videolaparoscopia pelo longo período de três anos, sendo necessários procedimentos cirúrgicos para drenagem de abscessos cutâneos e ressecção de granulomas, além do uso de medicamentos.
+13. Constatada, ainda, sequela estética e anatômica na região abdominal, apresentando o autor Hérnia Umbilical, motivo pelo qual deverá ser submetido a novo tratamento cirúrgico.
+14. Nesse contexto e em consonância com o princípio da razoabilidade e proporcionalidade, segundo prudente arbítrio com análise do caso concreto, considerando, ainda, os riscos à saúde e à integridade física aos quais foi o autor submetido, entendo adequado o valor da indenização, fixado pelo juízo a quo em R$50.000,00.
+14. Sentença de procedência mantida.
+15. Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 429/432).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 186, 393 e 927 do Código Civil e do art. 1º da Lei de Introdução às normas do Direito Brasileiro.
+Defende que "não está presente o nexo causal apto a gerar responsabilidade civil decorrente de danos sofridos em hospitais públicos, que decorre da culpa anônima da Administração ou na falha do serviço" (e-STJ fl. 446).
+Afirma também que "não se pode considerar, dessa forma, ter havido descumprimento de uma norma que sequer teria sido publicada" (e-STJ fl. 448).
+Aduz, ainda, a necessidade de revisão do montante indenizatório.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No caso concreto, o Tribunal de origem manteve a sentença de procedência e apontou que "o cotejo probatório demonstrou a falha no atendimento prestado no hospital, não logrando o recorrente fazer prova de excludentes de sua responsabilidade, visto que, em que pese ser recente, à época, a edição da Resolução nº 2.606, já se tinha notícia da epidemia em questão" (e-STJ fl. 430).
+Assim, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido da procedência da demanda indenizatória, bem como da ausência de causas excludentes da responsabilidade, demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, de acordo com a Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 219 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEVER DE INDENIZAR. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. A alteração das conclusões adotadas pela Corte de origem, acerca da comprovação dos danos morais e materiais, da falha no serviço e do nexo de causalidade, tal como colocadas essas questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 150.872/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017)
+Por outro lado, no tocante ao art. 1º da Lei de Introdução às normas do Direito Brasileiro, observa-se que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+A propósito do tema:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ÍNDICE DE CORREÇÃO MONETÁRIA. IPCA-E. INCONSTITUCIONALIDADE DA TR. TEMA N. 810 DO STF. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA N. 211 DO STJ. ACÓRDÃO PROFERIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+III - Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+ ..
+VIII - Agravo interno improvido. (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. Hipótese em que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.624.263/RS, de minha relatoria, Primeira Turma, DJe de 8/9/2020.)
+Quanto à necessidade de revisão do montante indenizatório, entendo que não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide nesse aspecto a Súmula 284 do STF.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
