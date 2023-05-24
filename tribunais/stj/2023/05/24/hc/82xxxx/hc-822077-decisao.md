@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Lucas Weler Francesco Servulo, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo ante o julgamento proferido no HC n. 2070128- 11.2023.8.26.0000.
+Eis a ementa do acórdão ora impugnado (fl. 71):
+Habeas corpus - Decisão do Superior Tribunal de Justiça - Determinação para a análise do mérito do writ, antes não conhecido pelo Tribuna de Justiça - Exame criminológico - Réu condenado por crimes de roubo qualificado e porte ilegal de arma de fogo - Paciente que cometeu delito praticado com violência ou grave ameaça contra a pessoa - Decisão fundamentada - Constrangimento ilegal - Inocorrência - Ordem denegada.
+Assim, foi mantida a decisão do Juízo de Direito do DEECRIM - 10ª RAJ - comarca de Sorocaba/SP (PEC n. 0003065-26.2022.8.26.0521), que, ao analisar o pedido de progressão de regime formulado pela defesa, determinou a realização de exame criminológico.
+Alega o impetrante, em síntese, constrangimento ilegal na imposição do exame criminológico ao paciente, ao argumento de que não há motivos idôneos para a confecção de perícia para atestar o requisito subjetivo do apenado.
+Defende que, admitida a possibilidade de que seja realizado, a decisão que determina a feitura do exame deve ser não apenas fundamentada, mas fundamentada idoneamente, ou seja, fundamentada em elementos concretos e atuais da execução e não na gravidade em abstrato do crime ou quantidade de pena a cumprir, já que estes elementos não guardam relação com a fase de execução da pena, não havendo amparo legal para que sejam considerados, pois, nesta fase (fls. 5/6). Aponta a ausência de falta grave, bem como que o apenado possui bom comportamento e apresenta histórico de trabalho e estudo.
+Requer, em liminar e no mérito, a concessão da ordem para deferir a progressão ao regime aberto sem a necessidade do exame criminológico.
+É o relatório.
+É certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+A ilegalidade passível de justificar a impetração desse remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal ou exijam dilação probatória, inclusive no que diz respeito à execução penal.
+No caso, o Magistrado singular, corroborado pelo Tribunal de origem, condicionou a análise da progressão de regime do paciente à realização de exame criminológico, por considerar que o sentenciado ostenta condenação por crime praticado em condições reveladoras de agressividade, com considerável tempo de pena a cumprir (TCP 2030) o que exige do Estado-juiz maior rigor na verificação da presença do requisito de ordem subjetiva para concessão da benesse reclamada (fl. 22).
+Ocorre que esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; e AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021.
+Ademais, segundo a jurisprudência desta Corte Superior, fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento, para a progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal (AgRg no HC n. 590.666/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/8/2020).
+Nesse sentido, dentre outros:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO GENÉRICA. AUSÊNCIA DE FATOS OCORRIDOS NO CURSO DA EXECUÇÃO PENAL. ILEGALIDADE. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Nos termos da Súmula n. 439/STJ, admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+2. Para que seja indeferida a progressão de regime ou determinada a realização do exame criminológico, é necessária motivação idônea e concreta, o que não foi observado na espécie, pois se ressaltou, no acórdão combatido, apenas a gravidade dos crimes pelos quais a Paciente foi condenada e a longa pena a cumprir. Não houve, portanto, a indicação de fatos ocorridos no curso da execução da pena que impedissem a concessão do benefício ou indicassem a necessidade da perícia.
+3. Ordem de habeas corpus concedida para cassar o acórdão estadual e restabelecer a decisão do Juízo das Execuções Criminais que concedeu à Paciente a progressão ao regime semiaberto.
+(HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020 - grifo nosso)
+Assim, considerando a ausência de fundamentação idônea, sem indicação, frise-se, de fatos ocorridos no curso da execução penal, há manifesta ilegalidade a ser reparada.
+Em face do exposto, concedo liminarmente a ordem a fim de determinar a análise do preenchimento dos requisitos necessários à progressão de regime, independentemente da realização do exame criminológico (PEC n. 0003065-26.2022.8.26.0521, do DEECRIM - 10ª RAJ - comarca de Sorocaba/SP).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. GRAVIDADE EM ABSTRATO DO CRIME COMETIDO. MOTIVAÇÃO INIDÔNEA. PRECEDENTES. FLAGRANTE ILEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
