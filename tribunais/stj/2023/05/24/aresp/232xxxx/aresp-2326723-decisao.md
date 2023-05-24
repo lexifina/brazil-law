@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A (em recuperação judicial), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 6/2/2023.
+Concluso ao gabinete em: 15/5/2023.
+Ação: indenização por dano material e compensação por dano moral ajuizada por HILDA PEREIRA CRUZ, ANTÔNIO CARLOS LOPES PINTO, A. V. M. B. e C. S. M., em face da agravante.
+Sentença: julgou improcedente a pretensão formulada pelos agravados.
+Acórdão: deu parcial provimento à apelação de HILDA PEREIRA CRUZ, ANTÔNIO CARLOS LOPES PINTO, A. V. M. B. e C. S. M., nos termos da seguinte ementa:
+RESPONSABILIDADE CIVIL. SUPERVIA. TRAVESSIA EM PASSAGEM CLANDESTINA. VÍTIMA FATAL. CONCORRÊNCIA DE CULPAS DA VÍTIMA E DA ADMINISTRADORA FERROVIÁRIA. CONDUTA IMPRUDENTE DA VÍTIMA E DESCUMPRIMENTO DO DEVER LEGAL DE SEGURANÇA E FISCALIZAÇÃO DA LINHA FÉRREA. DEVER DE INDENIZAR CONSIDERANDO A CONCORRÊNCIA DE CAUSAS (ART. 945, DO CC/02). RESPONSABILIDADE OBJETIVA, FUNDADA NA TEORIA DO RISCO (ART. 37, § 6º, da CRFB/88).
+1. O Regulamento dos Transportes Ferroviários (Decreto 1.832/1996) disciplina a segurança nos serviços ferroviários (art. 1º, inciso IV), impondo às administrações ferroviárias o cumprimento de medidas de segurança e regularidade do tráfego (art. 4º, I), bem como, nos termos do inciso IV do art. 54, a adoção de "medidas de natureza técnica, administrativa, de segurança e educativas destinadas a prevenir acidentes". Atribuiu às administrações ferroviárias a função de vigilância, inclusive, quando necessário, em ação harmônica com as autoridades policiais (art. 55).
+2. Conclui-se, portanto, pela existência do dever legal da Administração Ferroviária de vedação física das faixas de domínio da ferrovia, mediante muros e cercas, bem como da sinalização e da fiscalização dessas medidas garantidoras da segurança da circulação da população, mormente em locais de adensamento populacional.
+3. Responsabilização da empresa privada, do órgão ou entidade pública competentes, para construção, operação ou exploração comercial de ferrovias, já amplamente reconhecida pelo STJ.
+4. Elementos dos autos que demonstram, inequivocamente, a desídia na proteção da passagem utilizada pela vítima, porquanto lhe foi possível o acesso aos trilhos.
+5. Apresentação de Registro de Ocorrência dando suporte às alegações iniciais - documento que ostenta presunção relativa de veracidade e que não foi desconstituído pela concessionária de serviço público, nos moldes do art. 373, II, do CPC. Presunção de veracidade de todas as informações neles contidas.
+6. Constatado que a vítima também agiu com imprudência ao atravessar a linha férrea, ainda que faltassem cercas ou sinalização, uma vez que a periculosidade é ínsita a esse tipo de comportamento.
+7. Verifica-se, assim, no caso em exame, a concorrência de causas, uma vez que, concomitantemente à negligência da administradora ferroviária ao não se cercar das práticas de cuidado necessário para evitar a ocorrência de sinistros, houve imprudência na conduta da vítima, que transitava sob os trilhos, ou seja, em local inapropriado.
+8. Dever de indenizar da empresa ré, considerando a concorrência de causas (art. 945, do CC/02).
+9. Incabível a restituição das despesas relativas à sepultamento e funeral, por não comprovadas nos autos.
+10. Cabimento da pensão mensal da filha menor, a partir da data do fato, até completar 18 (dezoito) anos de idade, ou, se estiver matriculada em curso de nível superior, até a conclusão deste, a ser apurada em liquidação de sentença, ante à falta de prova de vínculo empregatício da vítima e da renda eventualmente auferida antes do evento danoso, sendo certa a inclusão dos valores relativos ao 13º salário, férias e quaisquer outros consectários trabalhistas.
+11. Inaplicabilidade do art. 950, parágrafo único, do Código Civil. Referido dispositivo não se configura como direito potestativo da parte, de acordo com o entendimento do S.T.J., cumprindo ao juiz avaliar a possibilidade de pagamento por meio de parcela única à luz das circunstâncias do caso concreto.
+12. Caso em que deve ser adotada solução que atenda às necessidades das partes, sem onerar demasiadamente qualquer delas. A fim de assegurar o efetivo pagamento das prestações mensais estipuladas, consubstanciada na obrigação da ré em proceder à constituição de verba para esse fim, nos termos do art. 533 do CPC/15 e da Súmula 313/STJ.
+13. Dano moral caracterizado, em decorrência do sofrimento - que se presume - experimentado pelos parentes da vítima fatal.
+14. Fixação considerando o dano reflexamente causado a cada parente da vítima.
+15. Incidência de correção monetária, a partir do arbitramento e de juros de mora, a contar do evento danoso (Súmula 54, do STJ), para a indenização moral. Já com relação ao dano material, indenizado em forma de pensão, devem incidir a contar do evento danoso (Súmula 54 e 43, do STJ).
+16. Recurso conhecido e provido em parte. (e-STJ fls. 616/619)
+Embargos de declaração: opostos por SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A (em recuperação judicial), foram parcialmente acolhidos para reconhecer que, em consequência da culpa concorrente, devem ser proporcionalmente distrib uídas entre as partes as despesas e a verba honorária ser suportada, por cada uma, na proporção de 5% (cinco por cento) para o patrono da parte adversária.
+Recurso especial: alega violação aos artigos 373, I, 489, § 1º, e 1.022, II, do CPC/2015; 927 e 944 do CC/2002; e 14 do CDC.
+Decisão de admissibilidade: não admitiu o recurso especial pela (i) ausência de violação aos artigos 489 e 1.022 do CPC/2015; e (ii) aplicação da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nestes fundamentos: (i) ausência de violação aos artigos 489 e 1.022 do CPC/2015; e (ii) aplicação da Súmula 7/STJ.
+Entretanto, a agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: ausência de violação aos artigos 489 e 1.022 do CPC/2015.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco por cento) sobre o valor da condenação (e-STJ fls. 616/627 e 674/676) para 10% (dez por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
