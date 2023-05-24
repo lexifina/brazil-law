@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 405):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. TEMA SUBMETIDO À REPERCUSSÃO GERAL DO STF. SOBRESTAMENTO. SUSPENSÃO DO LAPSO PRESCRICIONAL. AUSÊNCIA DE PREVISÃO LEGAL. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. VIA INADEQUDA. RECURSO DESPROVIDO.
+1. O art. 1.030, III, do Código de Processo Civil prevê a possibilidade de o relator sobrestar o recurso que versar sobre controvérsia de carácter repetitivo. Contudo, nada dispõe acerca da possibilidade de suspensão do prazo prescricional nos casos em que reconhecida a repercussão geral do tema.
+2. Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial ao recorrido o que preceitua o art. 1.035, § 5º, do CPC, no que tange à suspensão do prazo prescricional, não sendo admissível a analogia in malam partem.
+3. É incabível a pretensão de forçar o pronunciamento desta Corte sobre eventual ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+4. Agravo regimental desprovido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, II, XXXV, LIV e LV, 102, caput, e 129, I, da CF.
+Defende, em síntese, que (fl. 422):
+ ..  na ausência de previsão expressa quanto à suspensão do prazo prescricional no âmbito de processos penais sobrestados em razão do reconhecimento de repercussão geral (nos termos do artigo 1.030, III, do CPC), impositiva a realização de interpretação conforme a Constituição do artigo 116, inciso I, do Código Penal, na esteira na mesma ratio decidendi já utilizada pelo Supremo Tribunal Federal na Questão de Ordem no RE 966.177/RS, no qual se entendeu ser a suspensão do prazo prescricional consequência automática da determinação de suspensão nacional de todos os processos pendentes pelo Relator no STF (nos termos do artigo 1.035, §5º, do CPC).
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 441-445.
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão do STJ que concluiu não haver a suspensão do prazo prescricional da pretensão punitiva do estado na hipótese, pois, ao reconhecer a repercussão geral no RE n. 972.598/RS (Tema n. 941), a Suprema Corte não sobrestou o andamento nem suspendeu o prazo prescricional dos processos em curso.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme no sentido de que, apenas quando determinado o sobrestamento de processos de natureza penal, opera-se a suspensão automática da prescrição da pretensão punitiva relativa aos crimes objeto das ações sobrestadas.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. SUSPENSÃO DE PRAZO PRESCRICIONAL. IMPOSSIBILIDADE. AUSÊNCIA DE DETERMINAÇÃO DE SUSPENSÃO DOS PROCESSOS PELO RELATOR DO PROCESSO PARADIGMA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - O Plenário do Supremo Tribunal Federal, no julgamento do RE 966.177-RG-QO, entendeu que "a) a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la; b) de qualquer modo, consoante o sobredito juízo discricionário do relator, a possibilidade de sobrestamento se aplica aos processos de natureza penal; c) neste contexto, em sendo determinado o sobrestamento de processos de natureza penal, opera-se, automaticamente, a suspensão da prescrição da pretensão punitiva relativa aos crimes que forem objeto das ações penais sobrestadas, a partir de interpretação conforme a Constituição do art. 116, I, do CP.  .. ".
+II - No caso dos autos, determinou-se o retorno dos autos à origem, visto que o STF concluiu pela existência de repercussão geral da matéria no julgamento do ARE 848.107-RG, da relatoria do Ministro Dias Toffoli (Tema 788). No entanto, não houve determinação de suspensão dos processos, revelando-se inviável o pedido de sobrestamento.
+III - Agravo regimental a que se nega provimento.
+(RE n. 1.401.370-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. TEMA COM REPERCUSSÃO GERAL RECONHECIDA NO STF. SUSPENSÃO DO PRAZO PRESCRICIONAL APENAS QUANDO DETERMINADO O SOBRESTAMENTO DAS AÇÕES PENAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
