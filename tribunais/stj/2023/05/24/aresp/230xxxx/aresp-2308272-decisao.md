@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência dos arts. 1.030, I, "b", e 1.040, I, do CPC/2015, inexistência de ofensa ao art. 1.022 do CPC/2015, incidência da Súmulas 7 do STJ e não admissão do recurso por dissídio jurisprudencial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 820):
+ADMINISTRATIVO. AMBIENTAL. AÇÃO PARA ENTREGA DE COISACERTA. PRESCRIÇÃO. De acordo com o § 1º do art. 1º da Lei nº 9.873/99, incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito das seguintes questões: (a) o acórdão aplica a regra da mora ex re, quando é certo que seria hipótese de mora ex persona; (b) aplicabilidade dos artigos 627, 397, parágrafo único, combinado com o artigo 3º, do Código de Processo Civil e artigo 189 do CC/2002; (c) o prazo prescricional da ação de depósito não se inicia de imediato após a prática da infração e da autuação, mas somente após a conclusão do processo na esfera administrativa.
+Quanto às questões de fundo, sustenta ofensa aos artigos 189, 390, 397 e 627 do CC/2002 e dissídio jurisprudencial, sob os seguintes argumentos: (a) "se a infração administrativa inscrita no auto de infração somente torna-se exigível e, portanto, passível da contagem após a observância do devido processo administrativo, em relação ao bem objeto de depósito decorrente da prática daquele ilícito administrativo ambiental o raciocínio deve ser o mesmo"; (b) o depósito é instituto de natureza civil, razão pela qual incidem as regras concernentes à mora ex persona; (c) há imprescritibilidade para o Poder Público reaver bem apreendido, razão pela qual a declaração de prazo para a apresentação da ação judicial representa a admissão de usucapião de bem público.
+Com contrarrazões (fls. 869/884).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, observa-se que, no tema da prescrição e da disciplina legal que norteia o tema, o Tribunal Regional pronunciou-se da seguinte maneira (fl. 823/824):
+Transcorreram mais de 10 anos entre a lavratura do auto de infração (28/04/2005) e a efetiva busca pelos bens apreendidos (30/11/2017), impondo-se o reconhecimento da prescrição intercorrente.
+Aplica-se o disposto no § 1º do art. 1º da Lei nº 9.873/99, que assim dispõe:
+§ 1º Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.
+ ..
+Todavia, em relação aos bens apreendidos, a notificação para entrega dos bens só ocorreu em 30/11/2017.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Nas razões de seu recurso especial, a autarquia ambiental sustenta a ocorrência de violação dos artigos 189, 390, 397 e 627 do CC/2002. Argumenta que o prazo para a veiculação de ação de depósito só teria início com a interpelação da parte para entregar a coisa ao Poder Público, que havia sido apreendida em autuação administrativa. Diz que, no caso concreto, teriam sido aplicadas regras alusivas à mora ex re, cuja contagem do prazo é automática, não a mora ex persona, razão pela qual a prescrição só seria contada depois da notificação do interessado.
+Notem-se os termos do pedido no recurso especial:
+ ..  que seja afastada a prescrição acolhida, em face do equívoco de se considerar mora ex re quando a pretensão da ação de depósito somente surge com a recursa na entrega da coisa depositada, sendo-lhe aplicável a mora ex personae invertendo inclusive os ônus da sucumbência.
+Apesar dos esforços argumentativos, a parte recorrente defende uma tese que não tem aplicação para o caso concreto.
+É que o acór dão, com base na moldura fático-probatória que se decantou nos autos, entendeu que houve prescrição intercorrente, pois a autoridade deixou paralisado o processo por mais de 10 anos. Confira-se excerto do aresto (fls. 820):
+De acordo com o § 1º do art. 1º da Lei nº 9.873/99, incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho.
+Quando a autarquia entendeu que seria caso de interpelar a parte para entregar a coisa, já havia fluído significativo lapso temporal (mais de 10 anos), muito além dos 3 anos previstos na Lei 9.873/99.
+Portanto, a questão não reside em averiguar se são aplicáveis - ou não - eventuais prazos previstos na legislação civil para a ação de depósito (tese recursal do IBAMA), mas sim se ocorreu o transcurso do prazo legal (Lei 9.873/99, art. 1º, § 1º) para a administração dar prosseguimento e conclusão ao processo administrativo.
+No caso, entendeu-se que o processo administrativo ficou paralisado por mais de 10 anos, motivo pelo qual incidiu a prescrição intercorrente, não havendo possibilidade de o Poder Público reaver o bem.
+Portanto, não é possível conhecer do recurso especial que apresenta suposta violação dos artigos 189, 390, 397 e 627 do CC/2002, pois os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL VIOLAÇÃO DO ART. 535 DO CPC/1973 (OU 1.022 DO CPC/2015). NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. AGRAVO NÃO CONHECIDO.
