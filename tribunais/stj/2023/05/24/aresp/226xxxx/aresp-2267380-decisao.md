@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo interposto por BRIGHT.COM COMERCIAL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 503):
+PRESTAÇÃO DE SERVIÇOS DE TELEFONIA - AÇÃO RESCISÓRIA - ART. 966, VIII, DO CPC - Sentença que concedeu lucros cessantes contrária à cláusula contratual excludente dessa modalidade de dano material - Prova que já constava dos autos da ação principal e não foi apreciada pelo juízo - ERRO DE FATO - Caracterização. AÇÃO JULGADA PROCEDENTE.
+Rejeitados os embargos de declaração opostos (fls. 523-527).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa aos arts. 489, II e § 1º, IV, e 1.022, II e parágrafo único, II, do CPC/2015, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Na origem, cuida-se de ação rescisória visando desconstituir a sentença proferida pela 11ª Vara Cível do Foro Central da Comarca da Capital/SP, nos autos da ação ordinária, Processo n. 1033500-12.2015.8.26.0000, sob o fundamento de que o provimento jurisdicional incorreu em violação de norma jurídica e erro de fato (arts. 966, V, do CPC e 966, VIII, do CPC).
+O Tribunal de origem julgou procedente a ação rescisória, desconstituindo a sentença com relação ao acolhimento dos lucros cessantes, e improcedente a ação de indenização para condenar a parte vencida ao pagamento dos honorários advocatícios arbitrados com fundamento na equidade.
+Nas razões do recurso especial, a ora recorrente aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 10, 966, VIII e § 1º, e 974 do CPC/2015; 51, I, do CDC; e 424 e 2.035 do CC.
+Foram oferecidas contrarrazões ao recurso especial (fls. 865-881).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 907-909), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 965-982).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar procedente a ação rescisória, deixou claro que (fls. 506-507):
+Analisada a sentença rescindenda não se lhe pode imputar o vício de ultra petita, pois atendeu ao pedido da autora calcado no dano material, modalidade de lucros cessantes, decorrentes da omissão da demandada quanto à execução do contrato de prestação de serviços por aproximadamente 3 meses. O que é possível apreciar no caso concreto é se houve erro de fato, uma vez que, como se sabe, a revelia não produz os efeitos do art. 344 do CPC se as alegações de fato puserem em xeque prova constante dos autos (art. 345).
+Ora, segundo pactuado, "A responsabilidade das partes fica, desde já, limitada aos eventuais danos diretos causados à outra parte, excluindo-se expressamente qualquer responsabilidade quanto aos danos indiretos e/ou lucros cessantes" (cláusula 15, fls. 88).
+Desse modo, não havia interesse de agir da Bright.com Comercial Ltda quanto ao pedido de lucros cessantes na ação de indenização, uma vez que a relação de direito material celebrada entre as partes excluía essa modalidade de ressarcimento de forma expressa, que apesar de constar daqueles autos não foi objeto de apreciação no julgamento da demanda.
+ ..
+Dessa forma, como a decisão rescindenda passou ao largo da cláusula contratual, restritiva de direitos e de responsabilidade civil, livremente pactuada entre as partes, e que não foi objeto de revisão, os lucros cessantes não poderiam ter sido contemplados.
+No julgamento dos embargos de declaração, ao se manifestar sobre a alegação de julgamento extra petita, fundamentou a decisão nestes termos (fls. 525-526):
+Observa-se da sentença rescindenda que a ação foi julgada procedente quanto aos lucros cessantes e improcedente no que tange ao pedido de danos morais (fls. 171/173),sendo que não houve recurso da autora, e a ação rescisória limitou-se a discutir a condenação dos prejuízos calculados pelo juízo com base na média dos faturamentos.
+A sentença nada disse a respeito de danos emergentes, de modo que, a procedência da ação rescisória leva, consequentemente, à improcedência total da ação indenizatória. Outrossim, sabe-se que a revelia nem sempre importa acolhimento do pedido do autor, pois a presunção que dela emerge é relativa e não absoluta.
+Não existem, desse modo, os defeitos apontados pela embargante, que pretende, nitidamente, apenas a modificação do julgado.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto à alegação de afronta aos arts. 974 do CPC/2015; 51, I, do CDC; 424 e 2.035 do CC; e 10 do CPC/2015, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Demais disso, a Corte de origem, soberana na análise do conjunto fático-probatório, reconheceu a ocorrência de erro de fato e excluiu a responsabilidade pela indenização pleiteada. Rever tal entendimento, como pretende a agravante, demandaria necessário reexame do conjunto fático-probatório dos autos, o que é vedado ante a incidência do enunciado da Súmula n. 7/STJ.
+A propósito, trago julgados:
+VII - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, especialmente o Protocolo de Cisão, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese as Súmulas n. 5/STJ e n. 7/STJ.
+(AREsp n. 1.964.819/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 16/3/2022.)
+2. No caso, derruir as conclusões a que chegou o Tribunal de origem quando à ausência das hipóteses legais para o ajuizamento de ação rescisória demandaria o reexame da matéria fática, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+(AgInt no AREsp 2.150.258/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 10/03/2023).
+(AREsp n. 2.288.743, Ministra Assusete Magalhães, DJe de 26/04/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que o acórdão foi publicado já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
