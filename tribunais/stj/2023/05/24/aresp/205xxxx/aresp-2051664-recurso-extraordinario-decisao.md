@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 200-214) interposto por MARISA GERTNER DE SALLAS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 168-173):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO RESCISÓRIA. INDEFERIMENTO DA PETIÇÃO INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+3. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados, com imposição de multa (fls. 187-194).
+A parte recorrente sustenta, no recurso extraordinário, ter havido violação do art. 5º, XXXV, XXXVI e LV, da CF e ser a matéria tratada dotada de repercussão geral.
+Nesse sentido, defende que teria sido dificultado o acesso ao Poder Judiciário por deixar de se apreciar o recurso especial em razão do óbice da Súmula n. 284/STF, pois teria sido excluída da apreciação judicial a lesão ao direito de rescindir a decisão transitada em julgado pela via processual cabível.
+Alega que a aplicação de multa em embargos de declaração opostos com fundamentação suficiente e com intuito de prequestionar contrariedades à Constituição Federal ofenderia os princípios do contraditório e da ampla defesa.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões (fl. 228).
+É o relatório.
+O pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantida a conclusão pelo não conhecimento do recurso especial, em face do óbice da Súmula n. 284/STF.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento combatido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Outrossim, quanto à aplicação da multa em razão dos embargos de declaração protelatórios, também não merece seguimento o recurso. Isso porque o Supremo Tribunal Federal, ao julgar o AI n. 752.633, em sede de repercussão geral (Tema n. 197), decidiu que "não alcança estatura constitucional a questão relativa à aplicação de multa em julgamento de embargos de declaração tidos por protelatórios, que se restringe ao plano processual" (AI n. 752.633/SP, relator Ministro Cézar Peluso, Plenário Virtual, DJe de 18/12/2009).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. REGÊNCIA: CÓDIGO DE PROCESSO CIVIL/1973. APLICAÇÃO DE MULTA EM JULGAMENTO DE EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA N. 197). DISCUSSÃO REFERENTE À NATUREZA JURÍDICA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS OU HETEROGÊNEOS. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA N. 861). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE n. 936.202 AgR, Relator(a): Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, julgado em 16/12/2016, PROCESSO ELETRÔNICO DJe-021 DIVULG 3/2/2017 PUBLIC 6/2/2017)
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PROCESSO CIVIL. MULTA EM RAZÃO DOS EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MATÉRIA DE NATUREZA PROCESSUAL. TEMA 197/STF. NEGATIVA DE SEGUIMENTO.
