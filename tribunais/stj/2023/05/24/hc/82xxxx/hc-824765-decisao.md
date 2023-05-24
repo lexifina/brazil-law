@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUILHERME AUGUSTO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1512462-63.2021.8.26.0038).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 662/670).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 785/791), em acórdão assim ementado:
+Tráfico: art. 33, caput, Lei 11.343/2006. Apelação: Defesa.
+Materialidade e autoria: provas bastantes para a condenação.
+Tráfico: tipicidade independe da constatação de atos de mercancia.
+Prova testemunhai policial: eficácia, na falta de elementos concretos que desabonem as ouvidas. Descrédito pelo mister público exercido: inadmissibilidade.
+Penas-base: mínimo legal.
+Reincidência: acréscimo de 1/6. Manutenção.
+Tráfico privilegiado: art. 33, § 4º, Lei 11.343 2006. Inaplicabilidade. ante a reincidência.
+Regime fechado: adequação, ante a pena marcada e a reincidência dos Réus (art. 33, Cód. Penal).
+Penas restritivas de direitos: inadmissibilidade, ausentes os requisitos objetivo e subjetivo do art. 44, I e III, Cód. Penal.
+Recursos não providos.
+No presente mandamus (e-STJ fls. 3/7), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve o regime inicial fechado sem fundamentação idônea. Alega que o paciente faz jus ao regime inicial semiaberto, conforme os enunciados das Súmulas 269/STJ, 440/STJ, 718/STF e 719/STF.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que regime inicial seja alterado para semiaberto.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício. Nesse sentido, a título de exemplo, confiram-se os seguintes precedentes: STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 3/12/2013, publicado em 28/2/2014; STJ, HC n. 287.417/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Quarta Turma, julgado em 20/3/2014, DJe 10/4/2014; e STJ, HC n. 283.802/SP, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014.
+Na espécie, embora o impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Acerca do rito a ser adotado, as disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 3/12/2018; AgRg no HC n. 499.838/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018; e AgRg no RHC n. 37.622/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n.45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Possível, assim, a análise do mérito da impetração, já nesta oportunidade.
+Busca-se, em síntese, o abrandamento do regime prisional.
+Sobre o tema, o Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, assentou que inexiste a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, determinando, também nesses casos, a observância do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+Ademais, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito. Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados ns. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui
+motivação idônea, para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada
+permitir exige motivação idônea.
+No caso, seguem os fundamentos utilizados pelo Tribunal a quo para manter o regime inicial fechado estabelecido na sentença (e-STJ fl. 791):
+E escorreito regime fechado adotado, nos termos do art. 33, do Código Penal, diante da pena marcada e serem os Apelantes reincidentes.
+Extrai-se da transcrição supra que o regime inicial fechado possui lastro em fundamentação concreta e idônea, qual seja, a reincidência do paciente.
+Com efeito, tratando-se de condenação a pena que excede 4 anos de reclusão, a reincidência constitui óbice ao pretendido regime inicial semiaberto, na esteira do disposto no art. 33, § 2º, do Código Penal.
+Nesse sentido, segue a pacífica jurisprudência desta Corte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CONFISSÃO EXTRAJUDICIAL. INCIDÊNCIA DA ATENUANTE. SÚMULA 545/STJ. RÉU REINCIDENTE ESPECÍFICO. COMPENSAÇÃO. POSSIBILIDADE. HC N. 365.963. MANIFESTA ILEGALIDADE VERIFICADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Mantido o quantum da reprimenda imposta em patamar superior a 4 anos de reclusão e tendo em vista a reincidência do paciente, é incabível a alteração do regime prisional para o aberto ou semiaberto, a teor do art. 33, § 2º, "b", do CP.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para compensar integralmente a atenuante de confissão espontânea com a agravante de reincidência, resultando a pena do paciente em 5 anos de reclusão mais pagamento de 500 dias-multa, mantido o regime inicial fechado. (HC 409.341/SP, Ministro RIBEIRO DANTAS, Quinta Turma, DJe 22/11/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO A CAMINHÃO DOS CORREIOS. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. MAIS DE CINCO ANOS. PERÍODO DEPURATIVO. NÃO CARACTERIZAÇÃO DE REINCIDÊNCIA. UTILIZAÇÃO COMO MAUS ANTECEDENTES. POSSIBILIDADE. FIXAÇÃO DE REGIME MAIS GRAVOSO PARA O INÍCIO DE CUMPRIMENTO DA PENA. FECHADO. FUNDAMENTO VÁLIDO. RÉU REINCIDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Nos termos do artigo 33 do Código Penal, fixada a pena em patamar superior a 4 anos e inferior a 8 anos, a estipulação do regime inicial fechado é apropriada em se tratando de réu reincidente.
+3. Agravo regimental improvido. (AgRg no REsp 1.679.265/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 27/10/2017)
+Portanto, na espécie, a pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
