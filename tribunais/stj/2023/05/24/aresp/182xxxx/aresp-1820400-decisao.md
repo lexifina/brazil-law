@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por A. B. S. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 223):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. IPÊ-SAÚDE. AÇÃO DE OBRIGAÇÃO DEFAZER. NEGATIVA DE FORNECIMENTO DE FONOAUDIOLOGIA, TERAPIA OCUPACIONAL E MUSICOTERAPIA. A circunstância de não existir previsão de cobertura no regulamento do IPERGS não é motivo suficiente para o indeferimento do pedido. Conforme dispõe o art. 4ºda Lei Complementar 15.145/08, integram o Plano IPE-SAÚDE os atendimentos médicos, hospitalares, ambulatoriais, laboratoriais, bem como atos necessários ao diagnóstico e aos tratamentos devidos aos usuários. Em que pese as disposições do parágrafo primeiro do artigo supramencionado, tem-se que a ausência de cobertura não deve servir de obstáculo ao fornecimento do tratamento médico postulado, logo desarrazoado negar acesso do segurado a tratamento médico, especialmente porque o plano de saúde não pode selecionar o tipo de tratamento dispensado ao paciente. Por outro lado, mostra-se inviável o pedido de custeio das sessões de musicoterapia e terapia ocupacional, haja vista a falta de demonstração da efetiva imprescindibilidade (adequação e necessidade), em face de existência de alternativas menos onerosas, cujo resultado terapêutico não se mostra inferior -o tratamento psicológico -este sim legalmente previsto. Hipótese dos autos em que se encontram presentes os requisitos previstos no art. 300 do Código de Processo Civil, tão somente em relação às sessões de fonoaudiologia, uma vez que restou comprovada a necessidade e a urgência do tratamento solicitado, através de laudo médico especializado, razão pela qual imperiosa a concessão parcial da tutela provisória de urgência pretendida. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO, POR MAIORIA.
+Rejeitados os embargos de declaração opostos (fls. 329-328).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 3º, III, alínea "d", da Lei n. 12.764/12.
+Foram oferecidas contrarrazões ao recurso especial (fls. 383-392).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 397-409), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 443-446).
+Parecer do Ministério Público Federal às fls. 462-463.
+É, no essencial, o relatório.
+Nos termos da jurisprudência pacífica desta Corte, fica prejudicado, pela perda superveniente de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente (AgInt no AREsp n. 1.513.045/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+No mesmo sentido, cito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+2. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022), o que foi observado pela Corte local.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.914.160/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19/4/2022.)
+No caso dos autos, consta petição da parte ora agravante informando que foi proferida sentença de mérito no processo que deu origem ao presente recurso (fls. 467-479). Assim, houve perda do objeto do agravo em recurso especial.
+Ante o exposto, julgo prejudicado o agravo em recurso recurso especial por perda do objeto.
+Publique-se. Intimem-se.
