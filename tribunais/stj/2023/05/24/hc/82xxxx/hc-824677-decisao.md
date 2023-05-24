@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JUSSANGELO ROCHA DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE (HC n. 1000516-96.2023.8.01.0000).
+Depreende-se dos autos que o Juízo de primeiro grau determinou a regressão cautelar de regime em virtude do descumprimento de regras do monitoramento eletrônico.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da ação mandamental nos termos do acórdão que foi assim ementado (e-STJ fl. 11):
+CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PLEITO VISANDO REVOGAÇÃO DE DECISÃO QUE DETERMINOU A REGRESSÃO CAUTELAR DE REGIME PRISIONAL (SEMIABERTO PARA O FECHADO) EM RAZÃO DO COMETIMENTO DE FALTA GRAVE. VIA ELEITA INADEQUADA. Não conhecimento do writ.
+1. Tratando-se de matéria afeta à Execução Penal, o não conhecimento do writ é medida que se impõe.
+2. O mandamus não deve ser utilizado como substitutivo processual, em razão da lógica do sistema recursal.
+3. Habeas corpus não conhecido.
+Daí o presente writ, no qual alega que o paciente jamais violou as regras de monitoramento eletrônico e que a bateria do equipamento apenas descarregou porque tomou medicamento para dormir e não ouviu o alerta.
+Sustenta, ainda, cerceamento de defesa, porquanto o Juízo singular indeferiu a oitiva da testemunha que corrobora a versão do paciente para os fatos.
+Requer, liminarmente e no mérito, o restabelecimento do regime semiaberto.
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem não conheceu da impetração, consignando, para tanto, que (e-STJ fl. 13):
+Em que passe as alegações e justificativas apresentadas pelo paciente, entendo que a via eleita se mostra inadequada para reformar decisão que diz respeito à execução de pena, cujo remédio próprio é o Agravo em Execução Penal. A esse respeito, dispõe o art. 197 da Lei n.º 7.210/84, in verbis:
+"Art. 197. Das decisões proferidas em sede de execução penal, caberá recurso de Agravo."
+Desse modo, não pode o habeas corpus funcionar como sucedâneo do Agravo em Execução Penal.
+Nessas circunstâncias, a ausência de manifestação do Tribunal de Justiça do Estado do Acre acerca do mérito do pedido formulado na impetração antecedente configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não demanda aprofundado exame de matéria probatória.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO CABÍVEL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. EXECUÇÃO PENAL. INDULTO. PREENCHIMENTO DOS REQUISITOS SUBJETIVOS. SUPRESSÃO DE INSTÂNCIA. RECUSA DO TRIBUNAL A QUO. EXISTÊNCIA DE RECURSO PRÓPRIO. MATÉRIA DE DIREITO. NECESSIDADE DE ANÁLISE DA ILEGALIDADE APONTADA. ORDEM CONCEDIDA.
+1. Esta Corte não deve continuar a admitir a impetração de habeas corpus (originário) como substitutivo de recurso, dada a clareza do texto constitucional, que prevê expressamente a via recursal própria ao enfrentamento de insurgências voltadas contra acórdãos que não atendam às pretensões veiculadas por meio do writ nas instâncias ordinárias.
+2. Verificada hipótese de dedução de habeas corpus em lugar do recurso cabível, impõe-se o não conhecimento da impetração, nada impedindo, contudo, que se corrija de ofício eventual ilegalidade flagrante, como forma de coarctar o constrangimento ilegal.
+3. No vertente caso, sustenta-se a impossibilidade de negar ao paciente o indulto, porque entende presentes os requisitos subjetivos elencados no Decreto Presidencial n. 7.049/2009.
+4. A questão deduzida não foi examinada pelo Tribunal de Justiça estadual, o qual julgou que o habeas corpus não seria a via adequada ao exame da postulação, nada dizendo quanto ao mérito. Tal circunstância impede a análise pelo Superior Tribunal de Justiça, sob pena de incorrer na indevida supressão de instância.
+5. Tratando-se de matéria de direito, a despeito da existência de via processual própria, o Tribunal a quo deve proceder ao exame da flagrante ilegalidade apontada, se existente ou não.
+6. Impetração não conhecida. Ordem de habeas corpus concedida, de ofício, a fim de determinar ao Tribunal a quo que examine o pedido deduzido no mandamus originário, decidindo como entender de direito (HC 264.046/SP, relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 05/9/2013, DJe 23/9/2013, grifei).
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TEMA NÃO ANALISADO PELO TRIBUNAL DE ORIGEM EM RAZÃO DE SER CABÍVEL AGRAVO EM EXECUÇÃO. QUESTÃO DE DIREITO. CONSTRANGIMENTO ILEGAL EVIDENTE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Nessa linha de evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie.
+Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial no intuito de verificar a existência de constrangimento ilegal evidente - a ser sanado mediante a concessão de habeas corpus de ofício -, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, a despeito de existir recurso próprio e adequado para questionar as decisões proferidas em tema de Execução Penal, a ação de habeas corpus substitutiva de agravo em execução deve ser analisada pela Corte de origem com o intuito de verificar a existência de flagrante ilegalidade, desde que não seja necessário o reexame de fatos e provas, como na espécie, em que se discute o preenchimento dos requisitos objetivos e subjetivos à progressão de regime. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício para determinar que o Tribunal de Justiça de São Paulo examine o mérito do Habeas Corpus n. 0160802-21.2013.8.26.0000 como entender de direito (HC 282.251/SP, relator Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 11/03/2014, DJe 19/03/2014, grifei).
+Nesse contexto, em se tratando de relevante questão de direito, deve a Corte estadual analisar a matéria suscitada no habeas corpus precedente.
+Ante o exposto, concedo parcialmente a ordem para determinar que o Tribunal de Justiça do Estado do Acre aprecie o mérito do Habeas Corpus n. 1000516-96.2023.8.01.0000 como, entender de direito.
+Publique-se. Intimem-se.
