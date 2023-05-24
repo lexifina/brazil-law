@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por Alonir Ramos dos Santos e outros, contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, o qual desafia acórdão assim ementado (fl. 170):
+APELAÇÃO CÍVEL. RITO ORDINÁRIO. URV. CUMPRIMENTO DE SENTENÇA. APURAÇÃO DE SALDO INEXISTENTE. REESTRUTURAÇÃO DO CARGO QUE ELEVOU O PADRÃO SALARIAL DO CARGO. CUMPRIMENTO DE SENTENÇA. APURAÇÃO DE SALDO INEXISTENTE. REESTRUTURAÇÃO DO CARGO QUE ELEVOU O PADRÃO SALARIAL DO CARGO.
+Pretensão à reforma de decisão que rejeitou a impugnação e determinou o regular prosseguimento da execução do título executivo judicial, com a apresentação de conta de liquidação. Reforma que se impõe. Reestruturação com padrão monetário na carreira da autora. Título executivo que até mesmo já fazia essa ressalva. Cumprimento de sentença que deve considerar o Tema 5 do STF. No mais, não ficou comprovado que a mudança de faixa salarial atribuída ao cargo do autor tenha ficado aquém dos critérios condizentes com a sistemática apresentada pela Lei nº 8.880/94. Ausência de comprovação de prejuízo pela parte autora. Hipótese de liquidação zero. Precedentes deste TJSP. Majoração da verba honorária, nos termos do disposto no art. 85, § 11, do CPC/15. Sentença mantida.
+Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 187/191).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, ofensa aos arts. 336, 337, 502, 507 e 525, §1º do CPC. Sustenta, em resumo, que "demonstrado que inexiste comprovação nos autos a respeito das restruturações de carreiras supostamente suportadas pelos Recorrentes, tendo em vista que não foram juntados os prontuários, bem como os termos de adesão assinados, além de também ter sido devidamente demonstrada a ofensa a coisa material julgada formalizada em sede de Ação de Conhecimento, de rigor a reforma da v. acórdão recorrido, a fim de determinar o prosseguimento do Cumprimento de Sentença  ..  portanto, que ao não alegar em sede de Contestação as restruturações de carreiras supostamente suportadas pelos Recorrentes, bem como, por não se tratar prova nova, havida após a fase contestatória, referida matéria estaria preclusa, não sendo cabível sua análise em sede de Cumprimento de Sentença  .. " (fls. 202/203).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, a matéria pertinente aos arts. 336 e 337 do CPC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Ademais, quanto à alegada violação à coisa julgada quanto ao cumprimento de sentença, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 171/177):
+Respeitadas as razões recursais apresentadas, o apelo não comporta acolhimento.
+Cuida-se de pretensão recursal voltada à reforma de decisão interlocutória que rejeitou a impugnação e determinou o prosseguimento do cumprimento de sentença, com a apresentação de cálculos.
+ ..
+Na hipótese dos autos, o Município comprovou que houve a reestruturação salarial no cargo da autora, havendo diferenças prejudiciais com relação às regras de padrão monetário impostas pela Lei nº 8.880/94.
+Destarte, se agora, em fase de cumprimento de sentença, constata-se a ausência de diferenças salariais, porque o servidor teve sua carreira reestruturada em relação aos vencimentos, não resta outra alternativa senão reconhecer o que se denomina de "liquidação zero", o que leva à extinção do feito executivo.
+ ..
+Em outras palavras, competia à parte exequente demonstrar, à saciedade, as diferenças prejudiciais em seus vencimentos, de modo a comprovar que a reestruturação seria inferior à implementação da URV.
+Destarte, se agora, em fase de cumprimento de sentença, constata-se a ausência de diferenças salariais, porque o servidor teve sua carreira reestruturada no que tange aos vencimentos, não resta outra alternativa senão reconhecer o que se denomina de "liquidação zero", devendo o feito ser extinto e arquivado, como bem fez o D. Juiz "a quo".
+No mesmo sentido:
+ ..
+Insta observar, ainda, que o juiz pode condenar na ação de conhecimento, declarando a obrigação de pagar, mas relegar a apuração do quantum para a liquidação da sentença e, na realidade, a sentença de conhecimento não é condenatória, mas meramente declaratória. Dada a natureza constitutivo-integrativo da sentença de liquidação, é possível que se encontre valor zero para a obrigação de pagar fixada na sentença dita condenatória, porém, declaratória.
+Por fim, como cediço, a sentença que declara ser zero o quantum debeatur não ofende a coisa julgada do processo de conhecimento."
+ ,,
+Com tais considerações, a sentença que julgou extinto o processo de cumprimento de sentença fica integralmente mantida, por seus próprios e bem lançados fundamentos jurídicos, uma vez que o cumprimento de sentença deve ser necessariamente orientado pelo Tema 5 do Supremo Tribunal Federal.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, no sentido dos limites subjetivos da coisa julgada quanto à abrangência da sentença, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
