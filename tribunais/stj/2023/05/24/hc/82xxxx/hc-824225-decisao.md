@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSE VAGNER ARARIPE SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC 0627616-87.2022.8.06.0000).
+O paciente está preso preventivamente pela suposta prática dos crimes previstos nos arts. 2º, §§ 2º, e 4º, I da Lei 12.850/2013; 121, § 2º, I, III e IV do Código Penal (três vezes); e 121, § 2º, I, III e IV c/c o art. 14, II, do Código Penal (três vezes).
+A ordem impetrada na Corte de origem foi deferida parcialmente para "determinar ao juiz de primeiro grau que supra a omissão da decisão de pronúncia, no que tange à explicitação quanto à necessidade de manutenção ou não da custódia preventiva" (e-STJ fl. 76).
+A impetrante alega: a) "constrangimento ilegal manifestado sob a forma de excesso de prazo na duração da prisão preventiva" (e-STJ fl. 5); b) "embora tenha o paciente estado em local incerto e não sabido, o excesso de prazo aqui demonstrado é referente ao período onde (..) já se encontrava preso" (e-STJ fl. 5); c) "a demora na condução do presente processo é culpa exclusiva do Estado, não podendo ser atribuída à defesa" (e-STJ fl. 5); d) "a gravidade do crime não caracteriza um obstáculo para se reconhecer a ilegalidade da dilação indevida da prisão cautelar"(e-STJ fl. 6); e) "a prisão preventiva do Paciente vem assumindo papel de indevida e odiosa pena antecipada, hipótese que há de ser vedada, conforme determinação expressa do art. 313, § 2º, do CPP" (e-STJ fl. 9); f) "a Súmula 52 desse respeitável Superior Tribunal de Justiça não se mostra como impeditivo ao reconhecimento do evidente excesso de prazo" (e-STJ fl. 9); g) "o término da instrução não põe fim ao processo, de modo que tal Súmula é incompatível com o direito ao processo em prazo razoável, assegurado pelo art. 5º, LXXVIII, da Constituição Federal" (e-STJ fl. 9); e h) "a morosidade na apreciação da apelação criminal vem obstacularizando o trânsito em julgado em favor do Paciente, ou mesmo a sua possibilidade de invocar os Tribunais Superiores para a reanálise do caso penal" (e-STJ fl. 12).
+Requer, liminar e definitivamente, deferimento da ordem para reconhecer a ilegalidade da prisão e expedir alvará de soltura em favor do paciente ou, subsidiariamente, substituir a prisão por medidas cautelares diversas .
+É o relatório.
+A matéria relativa ao excesso de prazo da prisão preventiva não foi apreciada no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ANO QUALIFICADO COMETIDO CONTRA PATRIMÔNIO PÚBLICO E INCÊNDIO EM EDIFÍCIO PÚBLICO.. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. TESE NÃO APRECIADA PELO TRIBUNAL ESTA DUAL. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. No que tange à apontada ilegalidade da manutenção da custódia cautelar por excesso de prazo, não houve análise do tema pelo Tribunal estadual no prévio remédio constitucional, circunstância que evidencia a impossibilidade de apreciação da matéria por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+(..)
+7. Agravo regimental não provido.
+(AgRg no HC 805.644/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023)
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ASSOCIAÇÃO CRIMINOSA. FURTO QUALIFICADO. PANDEMIA DE COVID-19. NÃO VERIFICADO, NO CASO CONCRETO, CIRCUNSTÂNCIAS A ULTIMAR A SOLTURA DA AGRAVANTE. PRISÃO DOMICILIAR EM VIRTUDE DE PO SSUIR FILHOS MENORES. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+V - Por outro lado, especificamente, no que se refere à asserção acerca de que a Agravante possui filho menor, que depende dos seus cuidados, bem como no que concerne ao pleito de reconhecimento da ocorrência de excesso de prazo, posto que, conforme ressaltado, a ora Agravante se encontra "presa há quase 11 meses sem qualquer julgamento", verifico que tais questões não foram enfrentadas pela eg. Corte de origem no v. acórdão (habeas corpus n. 1.0000.22.263533-6/000); e tal fato inviabiliza o exame da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+(..)
+Agravo regimental desprovido.
+(AgRg no HC 788.184/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/3/2023, DJe de 31/3/2023)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
