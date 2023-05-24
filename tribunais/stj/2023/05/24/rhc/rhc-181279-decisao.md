@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Roberto Machado Tonsig, Eraldo Meneghel, José Meneghel Neto e Marcos Meneghel - condenados pela prática de crime de ordem econômica - contra o acó rdão proferido pelo Tribunal Regional Federal da 3ª Região (Habeas Corpus n. 5003589-84.2023.4.03.0000) que manteve hígida a condenação exarada pelo Juízo Federal da 2ª Vara Federal da Subseção Judiciária de Piracicaba/SP (Autos n. 0001559-90.2011.4.03.6109). Eis a ementa (fl. 1.395):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. CRIMES DO ART. 1º, I E II, DA LEI N. 8.137/1990, C/C O ART. 70 DO CÓDIGO PENAL. ANULAÇÃO DO TRÂNSITO EM JULGADO. INAPLICABILIDADE DA VIA ELEITA. ACORDO DE NÃO PERSECUÇÃO PENAL. FACULDADE DO MINISTÉRIO PÚBLICO FEDERAL. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS LEGAIS. RECEBIMENTO DA DENÚNCIA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. PRECEDENTES. ORDEM DENEGADA.
+- Os pacientes foram condenados definitivamente pela prática dos crimes previstos no artigo 1º, incisos I e II, da Lei n. 8.137/1990, c/c o art. 70 do CP, cujo trânsito em julgado deu-se em 23.3.2021.
+- Pedido de anulação do trânsito em julgado, em razão da ausência de oportunidade de celebração de acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.694/2019, em vigor desde 23.1.2020, indeferido.
+- As impugnações relativas à condenação penal transitada em julgado devem ser ventiladas em sede de revisão criminal, conforme preconizado no art. 621 do Código de Processo Penal. Precedentes jurisprudenciais.
+- Inviável a utilização do para discutir temas afetos à condenação com trânsito em writ julgado, sob pena de servir como sucedâneo de revisão criminal, mostrando-se absolutamente inadequada a via eleita pelo impetrante.
+- Nos termos do art. 28-A do CPP, para a concessão do benefício, faz-se necessário o preenchimento de três requisitos legais: I) confissão formal do crime; II) não ser a infração praticada mediante violência ou grave ameaça; e III) pena mínima inferior a 4 (quatro) anos, que não restaram preenchidos.
+- O Acordo de Não Persecução Penal - ANPP, consiste em faculdade do Ministério Público e não direito subjetivo do réu, consoante bem enfatizado no caput do art. 28-A do CPP.
+- Inviável a oferecimento de acordo de não persecução penal (ANPP), quer seja pelo fato de se tratar de uma faculdade do Ministério Público Federal, quer seja por ausência de comprovação do preenchimento dos requisitos legais, quer seja pelo fato de que quando da entrada da Lei n. 13.964/2019, a denúncia já havia sido oferecida e recebida.
+- Ordem denegada.
+Alega a defesa constrangimento ilegal consistente no não oferecimento de acordo de não persecução penal.
+Argumenta que, diante da recusa do Ilustre Representante do Ministério Público em apresentar a proposta do ANPP - conforme ID 262354735 - deveria a Douta Autoridade Coatora, antes indeferir o pedido dos acusados, observar a regra contida no art. 28-A, § 14, do Código de Processo Penal, e dar a oportunidade a estes de manifestarem interesse em encaminhar os autos à Câmara de Coordenação e Revisão do MPF para reexame da questão posta, para então, decidir sobre a pretensão manifestada (fl. 1.413).
+Postula, então, o provimento integral do presente recurso, mediante a concessão da ordem de habeas corpus, para anular o trânsito em julgado da sentença penal condenatória, determinando, em face da recusa do Ilustre Representante do Ministério Público Federal em oferecer a proposta de acordo de não persecução penal nos autos da ação penal (fl. 1.414).
+É o relatório.
+O presente recurso não merece provimento.
+O Tribunal de origem decidiu em consonância com o entendimento deste Superior Tribunal, pois a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, revela-se incompatível com o propósito do instituto quando já recebida a denúncia e encer rada a prestação jurisdicional nas instâncias ordinárias (AgRg no AREsp n. 1.983.450/DF, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 24/6/2022).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME CONTRA A ORDEM ECONÔMICA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PRETENSÃO DE ENCAMINHAMENTO DOS AUTOS, APÓS A CONDENAÇÃO, PARA OFERECIMENTO DE PROPOSTA DE ANPP. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
