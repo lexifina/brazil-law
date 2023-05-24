@@ -1,0 +1,8 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Victor Alves Garcia - condenado a 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 416 dias-multa, pela prática do crime de tráfico de drogas (394,19 g de maconha e 49,54 g de cocaína - fl. 126), atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 199/220) que alterou a dosimetria e o regime inicial, além de afastar a substituição da pena, determinados na sentença condenatória prolatada na Ação Penal n. 1501387-88.2021.8.26.0535 (fls. 126/130), da 1ª Vara da comarca de Guarulhos/SP - não deve ser conhecido.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verific a-se que foi impetrado o HC n. 814.69 0/SP - em benefício do ora paciente, com o mesmo objeto (alegando-se constrangimento ilegal consistente em nulidade probatória da condenação, decorrente de prisão em flagrante realizada a partir de diligência investigatória perpetradas por guardar municipais, e na dosimetria da pena, na primeira e terceira fases) e hostilizando o mesmo acórdão (Apelação Criminal n. 1501387-88.2021.8.26.0535) -, o que obsta o processamento da presente impetração, por reiteração de pedidos já apreciados por esta Corte. Nesse sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022.
+Em razão disso, não conheço da presente impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (394,19 G DE MACONHA E 49,54 G DE COCAÍNA). NULIDADE. PROVAS DECORRENTES DE BUSCA PESSOAL REALIZADA POR GUARDA MUNICIPAL. DOSIMETRIA. ANTERIOR IMPETRAÇÃO DO HC N. 814.690/SP. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
