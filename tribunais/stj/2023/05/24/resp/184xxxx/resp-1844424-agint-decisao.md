@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravos internos interpostos pelo DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES - DNIT e pela FERROVIA TRANSNORDESTINA LOGÍSTICA S.A. contra decisão de minha lavra, em que não conheci dos recursos especiais em face da incidência da Súmula 7 do STJ (e-STJ fls. 972/977).
+Em suas razões, a Autarquia defende que é inaplicável o referido óbice sumular, pois a questão é de direito e cinge-se em definir o marco inicial da área não edificável, para que se conclua pela procedência da ação de reintegração de posse e demolitória proposta.
+A Concessionária, em igual sentido, sustenta que não é o caso de revisão, mas, revaloração das provas, alegando que o esbulho possessório, na hipótese, deu-se sobre bem de utilidade pública, implicando a sua imediata desocupação, além do perigo à segurança causado pelas edificações irregulares.
+Requerem, assim, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação do Colegiado.
+Decorrido o prazo sem impugnação (e-STJ fls. 782/783).
+Passo a decidir.
+Conforme assinalado pelos ora agravantes, a questão discutida nos autos diz respeito à diferenciação dos conceitos de "área não edificável" e "faixa de domínio" e seus respectivos marcos iniciais.
+Dessarte, em juízo de retratação, torno sem efeito a decisão agravada, visto que a matéria suscitada no recurso especial, de fato, não exige a incursão na seara probatória, razão pela qual passo a nova análise dos recursos.
+Cuida-se de recursos especiais interpostos pela FTL FERROVIA TRANSNORDESTINA LOGÍSTICA S.A. e pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES DNIT, com fulcro no permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 644):
+Processual Civil. Reintegração de posse. Área de edificação proibida, situada à margem de ferrovia em reconstrução. Irrelevância do tipo de ocupação ilegal e do tempo de duração da invasão.
+Apelações providas.
+Os embargos de declaração opostos pela Concessionária foram acolhidos, sem efeitos infringentes, por aresto assim sumariado (e-STJ fl. 742):
+EMENTA: ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. JULGAMENTO EM TURMA AMPLIADA. REINTEGRAÇÃO DE POSSE. ÁREA SITUADA À MARGEM DE FERROVIA. FAIXA DE DOMÍNIO INSERIDA NA ÁREA NÁO EDIFICÁVEL, QUE CORRESPONDE A 15 METROS. DEMOLIÇÃO. OMISSÃO. EMBARGOS DE DECLARAÇÃO PROVIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Em julgamento ampliado esta Colenda Quarta Turma deu provimento aos apelos da Transnordestina Logística S/A e do DNIT, para acolher o pedido de reintegração na posse da área situada a 15 metros das margens da ferrovia (faixa non aedificandi), com demolição das construções ali existentes.
+2. A embargante requer manifestação desta Colenda Quarta Turma acerca do fato de que além da faixa de domínio ferroviária de 15 metros, prevista no Decreto nº 7.929/2013, existe uma área não-edificável ao longo de 15m (quinze metros) da propriedade ferroviária, que se encontra submetida à limitação administrativa, conforme dispõe o art. o art. 4º, III, da Lei n. 6.766/79 . Desta forma, a limitação de construção seria de 30 metros e não de 15 (quinze) metros, como referendado no voto condutor.
+3. No caso presente, conforme indicado pela própria Ferrovia Transnordestina Logística S/A na exordial, a naquela região é de 6m (seis metros) para cada lado dos trilhos, mais precisamente no faixa de domínio Km 212 e 213 da Linha Tronco Norte Recife, no município de Campina Grande/PB, o que é permitido pelo Decreto 7.929/13, quando esta medida é definida no projeto de desapropriação ou de implantação da respectiva rodovia. A Lei 6.766/79, todavia, dispõe acerca da obrigatoriedade da reserva de faixa não edificável de 15m. Assim, a faixa de domínio está inserida na faixa não edificável.
+4. A reintegração na posse da área situada às margens da ferrovia e a demolição das construções existentes limita-se à distância de 15m para cada lado da ferrovia.
+5. Embargos de declaração providos, sem efeitos modificativos, para deixar consignado que a demolição atinge a área de 15 metros (faixa de domínio e área non aedificandi).
+Novamente opostos os aclaratórios, desta vez pelo DNIT, foram rejeitados (e-STJ fls. 845/849).
+A Concessionária sustenta, além de divergência jurisprudencial, violação dos arts. 99, 100 e 102 do Código Civil/2002, do art. 9º, § 2º, do Decreto n. 2.089/1963, do art. 4º, III, da Lei n. 6.769/1979 e do art. 1º, § 2º, do Decreto n. 7.929/2013, alegando, em síntese, que "as referidas invasões comprometem também a faixa de domínio ferroviária, devendo ser respeitada a limitação de construção de 30m (trinta metros) no total, para cada lado dos trilhos, correspondente à faixa de domínio  área non aedificandi" (e-STJ fl. 771).
+O DNIT, em igual sentido, aponta vulneração do art. 4º, I, da Lei n. 6.766/1979 e do art. 9º, § 2º, do Decreto n. 2.089/1963, acrescentando que a faixa de domínio e a área não edificável são institutos distintos que não se confundem.
+Após contrarrazões (e-STJ fls. 884/892), os apelos receberam juízo de positivo de admissibilidade às e-STJ fls. 903/905.
+Pois bem.
+Cinge-se a controvérsia, no caso, em definir os marcos iniciais e finais da "área não edificável" e "faixa de domínio", para fins de desocupação de área supostamente esbulhada pelos demandados e demolição de edificações erguidas, descritas na inicial.
+O Tribunal de origem, ao julgar os embargos de declaração, esclareceu o seguinte, no que importa (e-STJ fl. 853):
+Não identifico a alegada contradição. A Turma Julgadora posicionou-se no sentido de que a faixa não edificável é de 15 metros e a faixa de domínio é de 6 metros, mas ambas começam a sua medição na linha ferroviária. Pretende, na verdade o DNIT que a área não edificável seja calculada a partir do término da faixa de domínio, o que permitiria a demolição de 21 metros para cada lado da ferrovia. Embora numa leitura rápida pareça contraditório dizer que a faixa de domínio está inserida na faixa não edificável, é o que ocorre na prática, já que ambas possuem o mesmo marco inicial. (Grifos acrescidos).
+Ou seja, a fundamentação do acórdão foi no sentido de que a faixa de domínio e a faixa não edificável se confundem e supostamente têm o mesmo marco inicial, que seria a própria ferrovia.
+Contudo, acerca da hipótese, dispunha a Lei n. 6.766/1979, em seu art. 4º, vigente à época dos fatos narrados (ano de 2015), in verbis:
+Os loteamentos deverão atender, pelo menos, aos seguintes requisitos:
+(..)
+III - ao longo das águas correntes e dormentes e das faixas de domínio público das rodovias e ferrovias, será obrigatória a reserva de uma faixa não-edificável de 15 (quinze) metros de cada lado, salvo maiores exigências da legislação específica;
+Com efeito, da leitura do artigo, conclui-se que os institutos "faixa de domínio" e "faixa não edificável" não se confundem, tendo esta o seu marco inicial ao fim daquela, na extensão de 15 metros de cada lado da ferrovia, in casu.
+Portanto, percebe-se que o entendimento adotado pelo Tribunal de origem está em confronto com a dicção do texto legal, razão pela qual merece reforma o acórdão recorrido.
+Nesse sentido, em caso idêntico, decidiu a Segunda Turma desta Corte:
+ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO DE POSSE. IMÓVEIS LOCALIZADOS ÀS MARGENS DE FERROVIA. EXTENSÃO DA FAIXA ATINGIDA. SOMA DA FAIXA DE DOMÍNIO COM A FAIXA NÃO EDIFICÁVEL.
+1. O presente recurso especial decorre de ação de reintegração de posse proposta pela FTL - Ferrovia Transnordestina Logística S.A. em desfavor de particulares cujos imóveis estariam ocupando faixa de domínio de ferrovia, bem assim área non aedificandi.
+2. O Tribunal Regional Federal da 5ª Região consignou que a faixa de domínio e a área não edificável teriam o mesmo marco inicial, por isso a extensão a ser considerada seria de 15 (quinze) metros.
+3. Ocorre que o art. 4º, III, da Lei 6.766/1979, em vigor na época dos fatos, estabelecia faixa não edificável de 15 (quinze) metros ao longo da faixa de domínio de ferrovia - ou seja, uma faixa tem início a partir do final da outra.
+4. Assim, na hipótese dos autos, deve ser reintegrada a posse da ferrovia na faixa de 30 (trinta) metros de cada lado do eixo da via férrea.
+5. Recurso especial provido.
+(REsp n. 1.997.590/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/10/2022, DJe de 6/10/2022.).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 972/977 e, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO aos recursos especiais do DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES - DNIT e FERROVIA TRANSNORDESTINA LOGÍSTICA S.A. para declarar que o marco inicial da faixa não edificável tem início ao fim da extensão da faixa de domínio. Por derradeiro, determino o retorno dos autos ao Tribunal de origem para que prossiga no julgamento, como entender de direito.
+Publique-se. Intimem-se.
