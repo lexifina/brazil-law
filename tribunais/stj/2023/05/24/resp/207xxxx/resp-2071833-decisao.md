@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso manejado por Maria Josivalda Rodrigues interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 140):
+EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM AÇÃO DE INDENIZAÇÃO. PEDIDO DE COMPLEMENTAÇÃO SALARIAL. AUTORA ADMITIDA TEMPORARIAMENTE PARA O EXERCÍCIO DA FUNÇÃO DE PROFESSORA DO MUNICÍPIO DE CRATO. PISO SALARIAL NACIONAL DAS CARREIRAS DO MAGISTÉRIO. LEI FEDERAL Nº 11.738/2008. INAPLICABILIDADE A SERVIDORES TEMPORÁRIOS. PRECEDENTES DAS CÂMARAS DE DIREITO PÚBLICO DESTE TJCE EM CASOS ANÁLOGOS. DIFERENÇAS SALARIAIS INDEVIDAS. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 206, VIII, da CF; 60, IV, da ADCT e 2º, §1º e §2º, da Lei Federal 11.738/08. Sustenta, em resumo, a reforma do acórdão recorrido "no sentido de que seja garantido o direito do profissional do magistério contratado pelo Recorrido ao recebimento do piso da categoria previsto na Lei Federal no 11.738/2008." (fl. 200).
+Contrarrazões às fls. 223/232.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, observa-se que a suposta afronta aos arts. 60, IV, da ADCT e 206, VII, da Constituição Federal não pode ser analisada por esta Corte, uma vez que "não compete ao STJ examinar, na via especial, ainda que para fins de prequestionamento, eventual violação de dispositivo constitucional, pois esse mister é reservado ao Supremo Tribunal Federal" (AgRg no REsp 1.303.486/DF, minha relatoria, Primeira Turma, DJe 26/4/2016).
+No mais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 141/144):
+A controvérsia instaurada nos autos cinge em saber se a parte autora, professora contratada temporariamente pelo Município do Crato, tem direito à percepção do piso salarial da categoria, previsto na Lei Federal nº 11.738/2008 e, em caso afirmativo, às correspondentes diferenças salariais, com reflexos no 13º salário e férias do período.
+A sentença de improcedência deve ser mantida, conforme será explicitado a seguir.
+Com efeito, o art. 1º da referida lei regulamenta o piso salarial profissional nacional para os profissionais do magistério público da educação básica a que se refere a alínea "e" do inciso III, do caput do art. 60, do Ato das Disposições Constitucionais Transitórias.
+O § 2º do art. 2º, por sua vez, impõe a observância do piso salarial nacional para os profissionais do magistério público da educação básica que integrem a "carreira de magistério", o que pressupõe a efetividade no serviço, provimento no cargo público, fazendo distinção, portanto, quanto a servidores temporários.
+Assim, o referido piso salarial alcança tão somente os professores concursados (art. 37, II, da CF), ocupantes de cargo ou emprego público, o que não se aplica ao presente caso, por se tratar de servidora temporária, detentora apenas de função pública (art. 37, IX da CF).
+Nesse sentido, colacionam-se precedentes das três Câmaras de Direito Público deste TJCE em casos similares ao presente, verbis:
+ ..
+Portanto, considerando a jurisprudência dominante deste TJCE, verifica-se a improcedência da lide, pelo que a sentença deve ser mantida.
+Diante desse contexto, o Tribunal de origem, ao decidir a questão relativa ao piso salarial da carreira do magistério, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido.
+Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Por fim, pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Levando em conta o trabalh o adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
