@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Tráfico de drogas. Apelo defensivo em busca da absolvição, redução da pena e fixação de regime mais brando. Descabimento. Autoria e materialidade comprovadas pelo farto material probatório amealhado aos autos. Pena. Aumento da básica em  correto e fundamentado. Péssimos antecedentes, espécie e variedade de drogas, com apreensão de dinheiro, embalagens e balanças de precisão.
+Reincidência específica que bem justifica o aumento de  na segunda etapa. Regime fechado mantido. Recurso não provido.
+Consta dos autos que o paciente foi condenado como incurso no art. 33 da Lei 11.343/2006.
+No presente writ, sustenta a defesa a ausência de provas suficientes para condenar o réu pelo crime de tráfico de drogas.
+Afirma, subsidiariamente, a falta de fundamentação idônea para exasperação da pena-base, porquanto não foi apreendida quantidade relevante de drogas.
+Mencionar ser indevido o agravamento no patamar diverso de 1/6 apenas pela reincidência específica.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a absolvição ou redimensionar a reprimenda.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Quanto ao pleito absolutório, o acórdão impugnado está assim fundamentado:
+Edilson Theodoro Santana, qualificado nos autos, foi condenado porque, segundo a denúncia, no dia 1º de fevereiro de 2022, na Rua Giácomo Rugeni, altura do nº 70, em Santa Cruz das Palmeiras-SP, trazia consigo e guardava, para fins de tráfico, 05 porções de Cannabis sativa L (maconha), com peso aproximado de 12,67g, e 23 porções de cocaína, com peso aproximado de 27,36g, substâncias causadoras de dependência física e psíquica, sem autorização e em desacordo com determinação legal e regulamentar.
+Segundo o apurado, policiais militares faziam patrulhamento pelo local, ocasião em que surpreenderam Edilson saindo de uma casa abandonada e, em seguida, atendeu ao usuário de drogas Tiago Pereira de Melo.
+Edilson e Tiago foram abordados e na posse de Edilson, foram apreendidas 03 porções de cocaína, a quantia de R$ 313,00 e um molho de chaves que abria o cadeado que dava acesso ao portão da mencionada casa abandonada.
+Com Tiago, nada de ilícito foi encontrado, porém, ao ser questionado, disse que estava ali para adquirir drogas de Edilson.
+Na referida casa abandonada, de onde Edilson fora visto saindo momentos antes, os agentes da lei apreenderam mais 20 porções de cocaína (igualmente embaladas) e 05 porções de "maconha". Além disso, também foram localizados 50 tubos plásticos (comumente utilizados para acondicionar drogas) e 03 balanças de precisão.
+ ..
+De se lembrar, ainda, que os policiais, expressamente, declararam sob o crivo do contraditório que, antes da abordagem, presenciaram o réu se dirigir a um transeunte Tiago -, o qual confirmou que ali estava para adquiri drogas do acusado. Mas não é só. Com o apelante foram apreendidas três porções de cocaína e a chave do imóvel onde foram encontradas outras porções da mesma droga, semelhantes àquelas apreendidas em poder do réu, além de porções de "maconha", embalagens e balanças de precisão.
+Como se vê, a condenação pelo crime de tráfico de drogas se baseou nos depoimentos dos policiais e de um usuário o qual afirmou ter adquirido drogas do paciente. Além disso, constou que foram apreendidos em poder do paciente porções de drogas, chave do imóvel, embalagens e balança de precisão.
+Nesse contexto, a reversão das premissas fáticas do julgado, para fins de absolvição, demandaria o revolvimento do conjunto fático-probatório, inadmissível no âmbito do writ.
+No tocante à dosimetria, extrai-se do julgado os seguintes fundamentos:
+1ª fase. Ante as circunstâncias judiciais desfavoráveis, com destaque aos maus antecedentes (fls. 139/143 - 1500760-12.2019.8.26.0129; 0000513-13.2017.8.26.0538), espécies e quantidade de entorpecentes apreendidos, além de embalagens para a droga, quantia em dinheiro e balanças de precisão, a pena-base foi corretamente majorada em  , alcançando 06 (seis) anos e 03 (três) meses de reclusão e pagamento de 625 (seiscentos e vinte e cinco) dias- multa, o que não comporta reparo, sobretudo diante da presença de mais de uma condenação, caracterizadora dos maus antecedentes e demais circunstâncias mencionadas.
+ ..
+2ª fase. Presente a agravante genérica da reincidência (0000835-09.2012.8.26.0538 - fls. 140), específica, aliás, a pena foi majorada em  , alcançando 07 (sete) anos, 09 (nove) meses e 22 (vinte e dois) dias de reclusão e pagamento de 781 (setecentos e oitenta e um) dias-multa, o que se mostra fundamentado e razoável.
+ ..
+3ª fase. À míngua de outras causas modificadoras, a pena torna-se definitiva.
+Regime de prisão. O regime inicial fechado é o adequado, revelando-se medida necessária e suficiente para a prevenção e reprovação, especialmente, de crime equiparado a hediondo, exatamente pela presença inequívoca do disposto no art. 33, § 3º, da codificação penal, além de sua condição de reincidente e portador de maus antecedentes.
+No que diz respeito ao tráfico de drogas, considerar-se-á na fixação das penas, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente (art. 42 da Lei 11.343/06).
+Nos termos da jurisprudência desta Corte, a quantidade não relevante, sem a menção a circunstâncias adicionais, não constitui fundamentação válida a fim de exasperar a pena-base. A propósito: AgRg no HC 529.431/SP, Rel. NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019.
+Na hipótese, foi apreendida quantidade não expressiva de droga, cerca de "5 porções de Cannabis sativa-L (maconha), com peso aproximado de 12,67 gramas; e 23 porções de cocaína, com peso aproximado de 27,36 gramas" (fl. 69), o que denota menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar a redução da pena-base.
+Em relação ao aumento aplicado na segunda etapa da dosimetria da pena, ressalta-se que o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas.
+Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea, o que não ficou demonstrado no presente caso.
+Dentro desse contexto, firmou-se entendimento no sentido de que "A quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado. Precedentes (AgRg no HC 543.365/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+Procede-se, portanto, o redimensionamento da pena.
+Remanescendo apenas os maus antecedentes, fica reduzida a pena-base proporcionalmente em 5 anos, 7 meses e 15 dias de reclusão. Na segunda etapa, aplica-se a fração de 1/6 pela reincidência, tornando-se definitiva a reprimenda em 6 anos, 6 meses e 22 dias de reclusão, mais o pagamento de 655 dias-multa.
+Considerando a existência de vetorial negativa - maus antecedentes e o total da sanção, preserva-se o regime fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+Ante o exposto, concedo parcialmente o habeas corpus para reduzir a pena para 6 anos, 6 meses e 22 dias de reclusão, mais o pagamento de 655 dias-multa, no regime fechado.
+Publique-se.
+Intimem-se.
