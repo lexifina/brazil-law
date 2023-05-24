@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Petição PET n. 00847028/2022 (fls. 727-729), por meio da qual o procurador do agravado, ora requerente, pugna pela aplicação do art. 485, IX, do CPC/2015, em razão do falecimento do demandado.
+Às fls. 713-722, o MPF interpôs agravo interno em face da decisão de fl. 673, que não conheceu do agravo em recurso especial. E, à fl. 762, o MPF manifesta ciência a respeito da documentação que trata do cumprimento da Carta de Ordem Citatória, requerendo o prosseguimento da ação.
+É o relatório. Decido.
+Esta Corte Superior firmou entendimento no sentido de que os sucessores do réu em ação de improbidade administrativa, em que haja condenação arrimada nos artigos 9º e/ou 10 da Lei n. 8.429/1992, devem ser habilitados no polo passivo da demanda, a fim de que respondam, nos limites da herança, pela pena de ressarcimento ao erário, nos termos do 8º da LIA, com a redação original.
+A propósito, vide:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO POR IMPROBIDADE ADMINISTRATIVA. RECONHECIMENTO DE ATO ÍMPROBO SUBSUMÍVEL AO ART. 11 DA LIA. EXECUÇÃO DE MULTA CONTRA O ESPÓLIO. IMPOSSIBILIDADE.
+1. Trata-se, na origem, de condenação por improbidade administrativa, em decorrência do exercício ilegal da advocacia pelo réu durante 10 (dez) anos, porquanto ocupou nesse período o cargo de Procurador Federal.
+ ..
+4. No caso, o Tribunal de origem entendeu que a execução deveria prosseguir sob a seguinte fundamentação: "O art. 8º da Lei 8429/92 não empreende distinção para afastar a responsabilidade dos sucessores quando a condenação por multa estiver fundada no art. 11 da Lei 8429/92, não dispondo expressamente em tal sentido" (fl. 225, e-STJ).
+5. Esse entendimento contraria a seguinte orientação da jurisprudência: "Somente os sucessores do réu nas ações de improbidade administrativa fundadas nos arts. 9º e/ou 10 da Lei n. 8.429/1992 estão legitimados a prosseguir no polo passivo da demanda, nos limites da herança, para fins de ressarcimento e pagamento da multa civil" (AgInt no AREsp 1.307.066/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2.12.2019). No mesmo sentido: AgInt no AREsp 890.797/RN, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.2.2017; AREsp 1.550.693/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.12.2019.
+6. Conforme se depreende dos autos, embora a sentença condenatória tenha subsumido a conduta aos arts. 9º, 10 e 11 da Lei n. 8.429/1992, essa decisão foi substituída por acórdão que, ainda na fase de conhecimento, reduziu as sanções impostas em primeira instância. O aresto, que por força do efeito substitutivo passou a constituir o título exequendo, foi transcrito no acórdão ora impugnado e nele se lê: "considerando que a conduta ímproba atribuída ao Apelado encontra adequação no artigo 11 da Lei n. 8.429/92, concluo que enseja a condenação nos termos do art. 12, III, da mesma Lei". (fl. 220, e-STJ).
+7. Recurso Especial provido, para reconhecer, no caso, a intransmissibilidade do crédito exequendo decorrente da multa civil aos sucessores do agente ímprobo.
+(REsp n. 1.949.148/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/9/2021, DJe de 5/11/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FALECIMENTO DO RÉU NO CURSO DA DEMANDA. HABILITAÇÃO INCIDENTAL DE HERDEIROS. POSSIBILIDADE. ART. 8º DA LEI N. 8.429/1992. SÚMULA 83/STJ.
+1. Com efeito, a Lei n. 8.429/1992 em seu art. 8º dispõe expressamente que "o sucessor daquele que causar lesão ao patrimônio público ou se enriquecer, ilicitamente está sujeito às cominações desta lei até o limite do valor da herança".
+2. Somente os sucessores do réu nas ações de improbidade administrativa fundadas nos arts. 9º e/ou 10 da Lei n. 8.429/1992 estão legitimados a prosseguir no polo passivo da demanda, nos limites da herança, para fins de ressarcimento e pagamento da multa civil.
+3. O art. 8º da LIA não estabelece qualquer marco sobre momento do óbito como condição de sua aplicabilidade.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.307.066/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/11/2019, DJe de 2/12/2019.)
+No caso dos autos, o TRF5 deu parcial provimento ao recurso de apelação de Edson José Fernandes, para condená-lo, tão somente, à prática do ato ímprobo previsto no art. 11, I, da LIA, com a redação original, em virtude da conduta de utilização indevida e ilegal de veículo oficial, aplicando-lhe a sanção de multa civil (fls. 513-514).
+Destarte, não há se falar em prosseguimento da demanda pelos herdeiros do demandado no caso vertente, tendo em vista a intransmissibilidade da multa civil aos sucessores do agente ímprobo, conform e jurisprudência alhures mencionada.
+Com efeito, resta prejudicado o agravo interno de fls. 713-722 e a petição de fl. 762.
+Ante o exposto, acolho o pedido de fls . 727-729, para extinguir o feito, sem resolução de mérito, nos termos do art. 485, IX, do CPC/2015, conforme fundamentação supra.
+Publique-se. Intimem-se.
