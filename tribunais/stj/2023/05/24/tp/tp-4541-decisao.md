@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido formulado por PAULO FELIZARDO PRIMO para que seja atribuído efeito suspensivo a recurso ordinário em habeas corpus por ele interposto no Tribunal Regional Federal da 3ª Região.
+Noticia o requerente que, após ter sido certificado o trânsito em julgado da condenação na qual lhe foi imposta a pena de 3 anos e 24 dias de reclusão, a ser cumprida no regime aberto, substituída por duas restritivas de direitos, ajuizou revisão criminal.
+Em razão de ter sido determinado o cumprimento da pena, a defesa impetrou habeas corpus na origem, o qual não foi admitido, em acórdão assim ementado (e-STJ fl. 40):
+E M E N T A PENAL. PROCESSO PENAL. HABEAS CORPUS. SUBSTITUTO DO RECURSO CABÍVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA. 1. De decisão que denega recurso interposto ou obsta seu seguimento é cabível, em regra, Carta Testemunhável, nos termos do artigo 639, do Código de Processo Penal, não podendo o habeas corpus operar como substituto do recurso cabível. 2. Em sendo previsto recurso específico no sistema processual penal para impugnar específico ato judicial, descabe ao agente valer-se de habeas corpus como substitutivo do recurso cabível com o mesmo pedido, pois, em razão da natureza jurídica deste remédio constitucional (ação autônoma de impugnação), obsta, por si só, a incidência do princípio da fungibilidade recursal à espécie. 3. Ordem denegada.
+Aduz o requerente que "o habeas corpus impetrado tem como única finalidade assegurar o direito do impetrante de cumprir a pena somente após o julgamento da Ação de Revisão Criminal proposta, com a suspensão do ato coator em sede liminar" (e-STJ fl. 9).
+Destaca, ainda, que "a questão principal ventilada na Revisão Criminal nº 5021642- 50.2022.4.03.0000 diz respeito ao fato de que, nos autos do Agravo de Instrumento nº 5006121-70.2019.4.03.0000, interposto por M.M. & PRIMO COMÉRCIO E REPRESENTAÇÕES EIRELI, empresa da qual o recorrente é sócio houve determinação judicial de sobrestamento dos autos quando do julgamento de admissibilidade do Recurso Extraordinário interposto, em razão da incidência do Tema nº 111 do STF, que trata da aplicabilidade imediata do art. 78, § 2º, do ADCT para fins de compensação de débitos tributários com precatórios de natureza alimentar" (e-STJ fl. 9).
+Assim, assevera ser indispensável o sobrestamento da execução enquanto pendente de solução o referido recurso extraordinário.
+Requer, ao final, seja determinada a suspensão da execução da pena.
+É o relatório.
+Conforme narra o requerente, a determinação de execução da pena que lhe foi imposta deu-se após o trânsito em julgado da condenação.
+E, no presente pedido, o requerente não demonstrou, de plano, flagrante ilegalidade na condenação imposta, apenas aduzindo que há um tema em debate no Supremo Tribunal Federal, em repercussão geral, que pode vir a beneficiar a defesa. Tal afirmação, por demais genérica, não evidencia estar configurado o requisito do fumus boni iuris.
+Ademais, o mero ajuizamento do pedido de revisão criminal, por si só, não obsta o prosseguimento da execução penal, na linha da pacífica orientação do Superior Tribunal de Justiça.
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REVISÃO CRIMINAL. PEDIDO LIMINAR INDEFERIDO NA ORIGEM. PEDIDO DE SUSPENSÃO DA EXECUÇÃO DA PENA. INDEFERIMENTO LIMINAR DO HABEAS CORPUS. SUPERAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. "O ajuizamento da revisão criminal não obsta a execução da sentença condenatória, tendo em vista a ausência de efeito suspensivo" (AgRg no HC n. 391.687/PR, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/4/2017, DJe de 26/4/2017).
+3. A decisão que indeferiu o pedido liminar contido na Revisão Criminal não ostenta ilegalidade evidente e apta a desafiar o controle antecipado por este Superior Tribunal, pois, numa análise própria do pedido liminar, encontra-se suficientemente fundamentada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 715.677/GO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022, grifei)
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
