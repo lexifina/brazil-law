@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de FLAVIO SILVA COSTA contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÕES. ROUBO TRIPLAMENTE MAJORADO. Condenação pela prática dos delitos tipificados nos artigos 157, § 2º, incisos I, II e V, por nove vezes, na forma do 70, todos do Código Penal. Materialidade e autorias comprovadas pelo conjunto probatório que inviabiliza o reconhecimento da tese de absolvição por insuficiência de provas. Declarações das vítimas. Em ilícitos patrimoniais, a palavra da vítima é de suma valia. Depoimentos de servidores policiais. Inquestionável eficácia probatória especialmente quando prestado em juízo, sob a garantia do contraditório. Condenações mantidas. Dosimetria das penas que, no entanto, comportam reparo. Revaloração das circunstâncias. Acréscimo de  (metade) pelas causas de aumentode pena. Reconhecimento do concurso formal impróprio, com o somatório das penas e a readequação da pena de multa. Regime fechado que melhor se ajusta ao caso. Inteligência do artigo 33,§ 3º,do Código Penal. RECURSOS PARCIALMENTE PROVIDOS".
+Neste mandamus, a defesa requer a concessão da ordem a fim de ser reconhecida a continuidade delitiva entre os delitos perpetrados pelo ora paciente, pois preenchidos todos os elementos necessários para a configuração da ficção jurídica do art. 71 do Código Penal.
+É o relatório.
+Decido.
+Constata-se que a presente impetração constitui mera reiteração do pedido formulado no HC 755.000-SP , pois há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (- Apelação 0042157-18.2012.8.26.0050. ), o que constitui óbice ao seu conhecimento. Deveras, em ambos os mandamus se busca o reconhecimento da continuidade delitiva entre as condutas praticadas pelo réu, tendo o pleito já sido rechaçado por esta Corte, restando esgotada a jurisdição deste Tribunal sobre a matéria.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
