@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão assim ementado (fl. 87):
+Habeas Corpus. Tráfico de drogas. Pleito de revogação da prisão cautelar. "Fumus comissi delicti" e "periculum libertatis" demonstrados. Apreensão de quantidade expressiva de maconha. Ordem denegada.
+Consta nos autos que o paciente foi preso em flagrante, prisão convertida em preventiva, pela suposta prática dos crimes previstos nos artigos 33, caput, da Lei n. 11.343/2006.
+Em síntese, a defesa alega que o paciente em liberdade não representa risco à ordem pública ou econômica e ressalta que o próprio preso colaborou com a prisão, porquanto, não fugiu do local e não promoveu ameaças, além de admitir a prática do delito, ademais, entende que a quantidade de entorpecente apreendida é relativamente expressiva, porém, por si só não pode motivar a decretação da prisão sendo este o único fundamento para sustentar a custódia cautelar.
+Requer, liminarmente e no mérito, a concessão da ordem para a revogação da prisão preventiva e, alternativamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+A decisão que converteu a prisão em flagrante em preventiva está assim fundamentada (fl. 19):
+(..)
+Durante a abordagem envolvendo o autuado, foram apreendidos um tijolo e uma pedaço de maconha, pesando 1.483,09 gramas. Tais circunstâncias demonstram, em sede de cognição sumária, que o autuado está envolvido com a prática do tráfico de entorpecentes. Os policiais que atenderam a ocorrência deram detalhes da conduta do autuado que, inclusive, confessou que receberia R$ 100,00, para transportar a droga. A acusação que pesa contra ele é grave, de crime de tráfico de entorpecentes, que traz efeitos nefastos para a sociedade, na medida em que incentiva a criminalidade e destrói a base desta que é a família. Por fim, nada obstante a Lei 11.464/07 permita eventual concessão de liberdade provisória, neste momento processual, parece prematura decisão nesse sentido. Assim, estando presentes os requisitos necessários, converto a prisão em flagrante em prisão preventiva de FERNANDO PEREIRA DE ARAÚJO.
+Como se vê, o decreto prisional apresentou fundamentação concreta para prisão preventiva, evidenciada na expressiva quantidade de droga apreendida.
+Embora não sirvam fundamentos genéricos, seja referente ao dano social gerado por tráfico, por ser crime hediondo, ou da necessidade de resposta judicial à sociedade, para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga (nesse sentido: HC 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014).
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
