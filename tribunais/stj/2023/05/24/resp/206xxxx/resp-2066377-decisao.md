@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEX FERRAZ FERREIRA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 682/684, in verbis:
+Alex Ferraz Ferreira foi condenado à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, §2º, II, do CP, porque, na companhia da falecida corréu e de um outro indivíduo, subtraíram, mediante violência e grave ameaça exercida com emprego de arma branca (cabo de um guarda-chuva), uma mochila, dois celulares (avaliados em R$ 1.045,08) e a Carteira de Identidade da vítima.
+A apelação defensiva foi desprovida pelo Tribunal de origem, por unanimidade.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa alega violação ao artigo 59 do Código Penal, argumentando que foi empregada fundamentação inidônea para a valoração das consequências do crime, pelo que requer a exclusão do caráter negativo atribuído ao referido vetor.
+Contrarrazões do Ministério Público pelo não conhecimento ou desprovimento do recurso.
+O recurso especial foi admitido na origem.
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Acerca da controvérsia, o Tribunal de origem assim consignou (e-STJ fl. 628):
+Quanto às consequências, ainda que o prejuízo econômico seja inerente aos delitos patrimoniais, possível sopesá-las negativamente, quando a referida perda desbordar ao ordinário - sendo geralmente utilizado o valor do salário mínimo como parâmetro. E, no caso, muito embora a mochila tenha sido recuperada, a lesada sofreu prejuízo, quanto a um de seus telefones celulares (avaliado em R$1.045,00, quantum superior ao salário mínimo da época do fato) e sua carteira de identidade, os quais não foram recuperados, conforme informações prestadas em pretório. Sinala-se, em respeito às arguições defensivas, que, embora tenha constado equivocadamente, no auto de apreensão, a carteira de identidade da lesada e o celular, ambos os objetos não foram recuperados, conforme narrativa dela em juízo.
+Da análise do trecho transcrito, concluo que, de fato, não foram apontados elementos concretos para justificar o aumento da pena pelas consequências do crime, haja vista que, na linha da jurisprudência do Superior Tribunal de Justiça, "o fato de a res furtiva não ter sido recuperada e devolvida à vítima não é fundamento idôneo à exasperação da pena-base, uma vez que constitui elemento ínsito ao tipo penal" (HC n. 443.699/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2018, DJe de 15/10/2018).
+Nesse mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. CONDUTA SOCIAL. INQUÉRITOS E AÇÕES PENAIS EM CURSO. IMPOSSIBILIDADE. SÚMULA 444/STJ. CONSEQUÊNCIAS. NÃO RECUPERAÇÃO DA RES FURTIVA. INIDONEIDADE DA FUNDAMENTAÇÃO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Consoante inteligência da Súmula 444/STJ, inquéritos policiais ou ações penais em curso não podem ser considerados como maus antecedentes, conduta social negativa ou personalidade voltada para o crime, em respeito ao princípio da presunção de não culpabilidade.
+2. A não recuperação dos bens subtraídos constitui fator comum aos delitos patrimoniais, conforme entendimento jurisprudencial desta Corte, não se mostrando válido à exasperação da pena-base a título de consequências do delito.
+3. Agravo regimental improvido. (AgRg no AREsp 1.141.835/ES, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018, grifei.)
+Ademais, como bem apontado pelo Ministério Público Federal em seu parecer, "embora o prejuízo patrimonial para a vítima pudesse justificar a valoração negativa das consequências do delito, não se pode afirmar que, no caso, a perda econômica sofrida seja de tal monta a ponto de justificar maior reprimenda na primeira fase da dosimetria, pois a subtração de um celular avaliado em R$1.045,00 não denota maior intensidade da lesão jurídica causada e espelha decorrência comum dos crimes patrimoniais" (e-STJ fl. 683).
+Desse modo, deve ser afastada a valoração negativa das consequências do crime, na primeira fase dosimétrica, de modo que, mantendo os demais parâmetros adotados na origem, a reprimenda do recorrente seja reduzida para 7 anos de reclusão.
+Ante o exposto e acolhendo o parecer do Ministério Público Federal, dou provimento ao recurso especial para reduzir a pena do recorrente para 7 anos de reclusão, mantidos os demais termos do acórdão originário.
+Publique-se. Intimem-se.
