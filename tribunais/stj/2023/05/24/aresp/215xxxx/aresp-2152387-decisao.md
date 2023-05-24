@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DE RONDÔNIA - DETRAN/RO contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA nos termos da seguinte ementa (fl. 73):
+Apelação cível. Exceção de pré-executividade. Alegação de ilegitimidade passiva para a causa. Compra e venda de veículo. Multas após a tradição. Responsabilidade. Comprador. Recuso não provido.
+No caso de compra e venda de bem móvel, a propriedade se transfere com a tradição (artigo 1.267 do Código Civil).
+Com a tradição do veículo, o autor não deveria mais figurar como proprietário do bem, de modo que, não pode ser considerado sujeito passivo dos tributos e multas incidentes, a partir da entrega do automóvel ao comprador.
+Recurso não provido.
+Nas razões do recurso especial (fls. 82-89), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 17, 502, 505 e 506 do Código de Processo Civil, assim como 134 e 257, caput e § 1º, do Código de Trânsito Brasileiro, sustentando a legitimidade passiva do ora agravado.
+Oferecidas contrarrazões (fl. 95), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 98-100), o que ensejou a interposição do presente agravo (fls. 107-117).
+Apresentadas contraminutas do agravo (fls. 122-125).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu pela ilegitimidade passiva, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 71-72):
+Pelo que se extrai dos autos, a fundamentação da sentença se deu para acolher a exceção de pré-executividade por conta de ser multa de trânsito, a qual não segue a regra geral dos tributos que recaem sobre o veículo, ou seja, não se trata de obrigação propter rem, mas à pessoa que deu causa à infração e, em razão disso, a extinção da execução fiscal, em razão da falta de legitimidade do excipiente para figurar no polo passivo foi medida que se impôs.
+Pois bem.
+É sabido que a transferência da propriedade se opera pela tradição, consoante previsto no artigo 1.267 do Código Civil. É fato incontroverso nos autos que o requerido, ora apelado, vendeu em janeiro de 2009 o veículo gerador da multa ora discutida (fls. 21/22). Uma vez transferida a propriedade e a posse do veículo pela tradição, o autor não poderia mais figurar como proprietário do bem e, por tal motivo, também não pode mais ser considerado sujeito passivo dos tributos e multas incidentes a partir da entrega do automóvel.
+É por isso que não deve prosperar a limitação imposta na sentença, dos autos 7006282-38.2017.8.22.0005 de que o requerido, ora apelado, deverá arcar com os débitos já inscritos em dívida ativa, pois a que se manter tal limitação, é dizer que os tributos posteriores a 2009 deverão ser arcados pelo autor, ora apelado.
+Uma vez não sendo mais proprietário desde a entrega, deve ele ser isento de todos os tributos, multas e encargos decorrentes a partir daí.
+ ..
+Destaca-se, ainda, que a disposição do Código de Trânsito Brasileiro acerca da responsabilização do proprietário tem sido mitigada pelo STJ quando ficar comprovado nos autos a efetiva transferência da propriedade do veículo, em momento anterior aos fatos geradores das infrações de trânsito, ainda que não comunicada a transação à administração pública. Confira-se:
+ ..
+No caso dos autos, o apelante informa que a multa de trânsito é originada de processo administrativo n. 14310/2016, ou seja, do ano de 2016, tendo o apelado apresentado nos autos documentos, tais como contrato e procuração (ID.5096139, pág. 2 e 3), demonstrando que a venda do veículo ocorreu no ano de 2009, logo, anterior à exigibilidade do crédito, o que corrobora a sua ilegitimidade.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO DOS AUTOS, CONSTATOU A VALIDADE DA CERTIDÃO DA DÍVIDA ATIVA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. No caso dos autos, considerando a fundamentação do acórdão recorrido, no qual ficou consignado que "a CDA preenche todos requisitos do art. 202 do CTN, repetidos no art. 2º, § 5º, da LEF.
+Conforme mencionado pelo magistrado de origem, "os valores originários do débito estão devidamente discriminados, em cada competência, bem como os valores correspondentes a juros de mora (equivalentes à taxa SELIC e computados a partir do vencimento de cada competência inadimplida), correção monetária (não há, tanto assim que o valor originário é idêntico ao valor atualizado) e multa de mora". Assim, não há qualquer vício no título executivo, porquanto, por não haver correção monetária, o valor originário é idêntico ao valor atualizado", os argumentos utilizados pela parte recorrente, no sentido de que, "tendo em vista que não houve o atendimento dos requisitos legais obrigatórios constantes do art. 202, II e III do Código Tributário Nacional, bem como do art. 2º, § 5º, II da Lei 6.830/80, impõe-se a aplicação do art. 203 do Caderno Tributário, a fim de que seja reconhecida a nulidade das certidões de dívida ativa que embasam o presente feito", somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes: STJ, AgRg no AREsp 604.338/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015; AgRg no REsp 1.506.059/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/03/2015; AgRg no REsp 1.488.260/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015.
+III. Agravo interno improvido.
+(AgInt no AREsp n. 1.932.251/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO PARA APURAR EVENTUAL IRREGULARIDADE. AUSÊNCIA DE DECADÊNCIA ADMINISTRATIVA. INTUITO DE SOBREPOSIÇÃO INDEVIDA DE GRAUS HIERÁRQUICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual configura-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato, não se devendo falar em decadência administrativa com a instauração de processo administrativo para apurar eventual irregularidade.
+IV - In casu, rever o entendimento do Tribunal de origem, o qual concluiu que a manutenção do ato administrativo anulado importaria na sobreposição indevida de graus hierárquicos, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.012.703/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. LIMITAÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, havendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ. Precedentes.
+2. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido realmente
+atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial. Precedentes.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, impedindo o conhecimento do recurso pela alínea "c" do permissivo constitucional (AgInt no AREsp 964.391/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 21.11.2016).
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.019.640/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. VALOR FIXADO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE. EXAME PREJUDICADO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, a pretensão está vinculada ao reexame de provas, o que não é adequado na via do especial, consoante enuncia a Súmula 7/STJ.
+3. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Prejudicada a análise de divergência jurisprudencial quanto à matéria a respeito da qual a tese sustentada foi afastada ou sobre a qual houve a aplicação de óbice sumular, quando do exame do recurso especial pela alínea "a" do permissivo constitucional. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.894.589/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
