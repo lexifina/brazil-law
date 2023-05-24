@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 07 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (e-STJ fls. 187-188):
+PROCESSUAL CIVIL. EMBAR GOS À EXECUÇÃO FISCAL. INTEMPESTIVIDADE. AUSÊNCIA DE NULIDADE DE CITAÇÃO. IMPROVIMENTO.
+1. Trata-se de apelação interposta pelo particular em face de sentença que extinguiu o processo sem resolução do mérito em razão do indeferimento da petição inicial. Sem condenação em honorários advocatícios.
+2. Em suas razões recursais, o apelante narra que o magistrado indeferiu a inicial e extinguiu a execução, indicando que os embargos foram intempestivos, tendo em vista que, na execução, o executado havia sido citado de penhora online. No entanto, afirma que a citação da penhora fora realizada através de edital, ou seja, não houve regularidade no procedimento de notificação do executado. Alega que, instada a se manifestar acerca do não cumprimento dos mandados de citação, a Fazenda Nacional pugnou pela citação do executado via edital, mesmo não tendo sido esgotadas todas as vias ordinárias de localização do executado. Defende a nulidade da citação e pugna pelo prosseguimento do feito.
+3. O artigo 16, inciso III, da Lei 6.830/80 estabelece que o prazo de 30 (trinta) dias para oposição de embargos à execução fiscal é contado da intimação da penhora.
+4. A execução fiscal foi ajuizada em março de 2006 e a empresa foi citada em maio de 2006. Foi efetuada penhora em fevereiro de 2007, mas após a designação do leilão, o oficial de justiça certificou, em 2008, a inatividade da empresa. Após o redirecionamento da execução fiscal para o apelante, foi efetivada penhora online (BACENJUD) em junho de 2011 (Id. 4058500.4238972 - p. 2).
+5. Após várias tentativas de citação (Id. 4058500.4238972 - p. 3), foi realizada citação por edital em 24/08/2011 (Id. 4058500.4238972 - p. 2). Na data de 14/09/2020 foi efetivada nova penhora no rosto dos autos do processo nº 201612300764, mas não reabriu o prazo para o oferecimento de embargos.
+6. O STJ entende que o reforço da penhora não altera o prazo original para o ajuizamento dos embargos, podendo ensejar tão somente o início de nova contagem de defesa, desta vez para impugnação restrita aos aspectos formais do novo ato constritivo, nos termos do recurso especial representativo de controvérsia REsp 1.116.287/SP. Precedente: STJ, AgInt nos EDcl no REsp 1455925/RN, Rel. Min. Benedito Gonçalves, DJe 02/09/2020.
+7. Não se vislumbrou a nulidade de citação do executado, sendo intempestivos os embargos à execução.
+8. Apelação improvida.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 489, §1º, inciso IV e 1.022, inciso II, parágrafo único, inciso II, do CPC/15, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, quais sejam:
+(a) irregularidade do procedimento de citação através de edital, tendo em vista não ter sido esgotado todos os meios para obtenção do endereço do Executado;
+(b) o fato de que o juízo, onde tramita o feito executivo, ter determinado expressamente que a citação por edital deveria ser realizada tão s omente se fossem encontrados valores suficientes a saldar a execução, no entanto, não foram encontrados valores suficientes a saldar a execução e, mesmo assim, foi realizada a citação por edital.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da nulidade da citação via edital, ante o não esgotamento de todos os meios de citação, além do fato da citação por edital ficar subordinada ao encontro de valores suficientes para saldar a execução.
+No entanto, o voto condutor do julgamento dos aclaratórios, limitou-se a usar os seguintes argumentos: (e-STJ fls. 225-226)
+"No presente caso, a execução fiscal foi ajuizada em março de 2006 e a empresa foi citada em maio de 2006. Foi efetuada penhora em fevereiro de 2007, mas após a designação do leilão, o oficial de justiça certificou, em 2008, a inatividade da empresa. Após o redirecionamento da execução fiscal para o apelante, foi efetivada penhora online (BACENJUD) em junho de 2011 (Id. 4058500.4238972 - p. 2).
+Após várias tentativas de citação (Id. 4058500.4238972 - p. 3), foi realizada citação por edital em 24/08/2011 (Id. 4058500.4238972 - p. 2). Na data de 14/09/2020 foi efetivada nova penhora no rosto dos autos do processo nº 201612300764, mas não reabriu o prazo para o oferecimento de embargos.
+O STJ entende que o reforço da penhora não altera o prazo original para o ajuizamento dos embargos, podendo ensejar tão somente o início de nova contagem de defesa, desta vez para impugnação restrita aos aspectos formais do novo ato constritivo, nos termos do recurso especial representativo de controvérsia REsp 1.116.287/SP. Precedente: STJ, AgInt nos EDcl no REsp 1455925/RN, Rel. Min. Benedito Gonçalves, DJe 02/09/2020.
+Assim, a Segunda Turma entendeu que não houve nulidade da citação do executado, sendo intempestivos os embargos à execução.
+O acórdão embargado foi prolatado com amparo na legislação que rege a espécie e em consonância com a jurisprudência do Tribunal. O entendimento nele sufragado abarca todas as questões aventadas em sede de embargos, de modo que não restou caracterizada qualquer omissão no pronunciamento jurisdicional impugnado.
+Diante do exposto, nego provimento aos embargos de declaração.
+É como voto."
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa aos artigos 489, §1º, inciso IV e 1.022, inciso II, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
