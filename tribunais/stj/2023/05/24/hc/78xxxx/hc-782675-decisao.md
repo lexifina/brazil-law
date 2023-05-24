@@ -1,0 +1,6 @@
+DECISÃO
+MICHAEL SPENCER MIRA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500285-13.2020.8.26.0617.
+Em consulta à página eletrônica desta Corte Superior, observo a anterior impetração, em favor do ora paciente, do HC n. 735.615/SP, em que a defesa se volta contra o acórdão proferido na Apelação 1500285-13.2020.8.26.0617 e também busca a declaração da nulidade do ingresso no domicílio e a consequente absolvição do réu. Assim, vejo que, no ponto, este habeas corpus é mera reiteração de pedido anterior.
+Além disso, a suscitada nulidade da audiência de instrução por deficiência da defesa técnica do paciente não foi suscitada nas razões da apelação e, por conseguinte, deixou de ser abordada no acórdão proferido pelo Tribunal a quo. Como se trata de suposta desídia na atuação do profissional que conduziu a defesa do paciente durante a colheita da prova, é imprescindível prévio exame do tema pela Corte estadual, o que inviabiliza a apreciação da apontada ilegalidade diretamente neste feito, para não se incorrer em supressão de instância.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
