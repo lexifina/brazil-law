@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de PETERSON PEREIRA DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o Tribunal de origem deu parcial provimento à apelação da defesa a fim de redimensionar a pena em 5 anos e 10 meses de reclusão pelo crime de tráfico de drogas - art. 33, caput, da Lei 11.343/2006).
+Neste habeas corpus, a defesa pleiteia a absolvição do paciente por ausência de prova da materialidade do delito, tendo em vista a ilicitude probatória decorrente da indevida atuação da Guarda Municipal, da busca pessoal e do acesso aos dados do celular do paciente.
+O pedido em sede liminar foi indeferido (e-STJ, fl. 50).
+Ouvido, o Subprocurador-Geral da República manifestou-se pela concessão da ordem (e-STJ, fls. 57-65).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No acórdão impugnado, consta (e-STJ, fls. 20):
+"O réu, já conhecido dos meios policiais, foi abordado durante a noite, sozinho, em local onde normalmente cometido o tráfico de drogas, inclusive com incursão policial e prisões em datas anteriores. Ao demonstrar nervosismo, foi abordado. Apesar de desempregado, trazia consigo quantia não irrisória de dinheiro (R$ 627,00), em notas trocadas, e autorizou o acesso ao telefone, momento em que os agentes identificaram o imóvel, em reforma, num terreno próximo, onde estavam escondidas as porções de cocaína."
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+Sobre o tema, esta Corte já se manifestou reiteradas vezes que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+No caso, observa-se que as instâncias ordinárias justificaram a execução da medida em razão do nervosismo apresentado pelo agente, que estaria em local conhecido como ponto de tráfico.
+Como se verifica, não houve a indicação de qualquer atitude concreta que apontasse estar o paciente na posse de material objeto de ilícito ou na prática de algum crime. Logo, conforme reiterada jurisprudência desta Corte, é ilegal a busca pessoal realizada sem fundadas razões. No mesmo sentido:
+1. A referência a elementos subjetivos, como o nervosismo do agravado ao notar a presença dos policiais, não autoriza a busca pessoal sem prévia autorização judicial.
+2. A ilegalidade da prisão em flagrante contamina a prova colhida, esvaziando da denúncia os indícios de materialidade e autoria, justificando, por conseguinte, a imediata interrupção da atividade persecutória estatal.
+3. Mesmo que a idoneidade da prisão em flagrante não tenha sido debatida pelo Tribunal de origem, impõe-se-lhe a revogação como consectário lógico da declaração de nulidade da busca pessoal realizada, que fulminou com as todas provas da materialidade delitiva.
+4. Agravo regimental improvido.
+(AgRg no HC n. 735.387/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+1. A ausência de justa causa previamente constatada por parte dos agentes responsáveis pela diligência policial a respeito da presença de fundadas razões para a realização de busca pessoal invalida as provas obtidas a partir da medida.
+2. Neste caso, as circunstâncias que antecederam a medida invasiva não permite que se conclua pela presença de elementos de suporte suficiente para justificar a adoção da medida invasiva. A alegação de que o abordado demonstrou nervosismo durante a ação policial, circunstância que não atende à exigência de constatação de elementos prévios e tangíveis da ocorrência de crime para dar amparo à diligência.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante ocorridas em contexto fático semelhante ao ocorrido na hipótese apresentada nestes autos, em que a entrada forçada em domicílio não foi precedida de prévia constatação, para além da dúvida razoável, da ocorrência de crime permanente no interior do imóvel.
+4. Agravo regimental não provido.
+(AgRg no HC n. 771.337/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Sob tal contexto, uma vez ampa rado o édito condenatório exclusivamente em prova obtida de busca pessoal ilegal, impõe-se a absolvição do paciente pela falta de comprovação da materialidade do delito de tráfico de drogas.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para absolver o paciente na Ação Penal n. 0005246-86.2015.8.26.0022 fundado no art. 386, VI, do CPP.
+Publique-se. Intime-se.
