@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário ( fl s. 589-596) interposto por WANDER LUÍS RODRIGUES, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 577):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS MUNICIPAL. REJEIÇÃO DE CONTAS. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO RECURSO ORDINÁRIO. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 283/STF. PROCESSO DE TOMADA DE CONTAS. REPROVAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09/03/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O recurso ordinário afronta o princípio da dialeticidade e ao disposto no art. 932, III, do Código de Processo Civil pela ausência de impugnação do fundamento com relação à comprovação de irregularidades no procedimento administrativo TC n. 0002728/026/14, referente à análise das contas apresentadas pelo Presidente da Câmara Municipal, no exercício de 2014.
+III - Nas razões do Recurso Especial, tal fundamentação não foi especificamente refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal.
+IV - Diante da regularidade procedimental do processo de Tomada de Contas n. 002728/026/14, que resultou na reprovação das contas da Câmara Municipal de Ipatinga, relativas ao exercício de 2014, não há que se falar em direito líquido e certo.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 536-541).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 37, X, 70, 71 e 97 da CF, bem como à Súmula Vinculante n. 10/STF.
+Nesse sentido, argumenta a necessidade do pronunciamento judicial no tocante à competência constitucional do Tribunal de Contas do Estado de São Paulo no afastamento de aplicação de legislação municipal para a concessão de Revisão Geral Anual - RGA a agentes e servidores públicos por ocasião do julgamento de prestação de contas municipais.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 602-607.
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso ordinário em mandado de segurança anteriormente dirigido ao Superior Tribunal de Justiça, porque a parte recorrente não contestou fundamento suficiente para manter o acórdão da origem, incidindo, portanto, por analogia, o óbice da Súmula n. 283/ STF.
+Nos casos em que o mérito do recurso ordinário não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
