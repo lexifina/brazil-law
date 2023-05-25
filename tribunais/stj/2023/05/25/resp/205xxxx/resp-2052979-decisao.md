@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 114):
+TRIBUTÁRIO. EXECUÇÃO FISCAL, EXCEÇÃO DE EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. QUESTÃO JÁ ENFRENTADA POR ESTA TURMA. PRECLUSÃO LÓGICA E CONSUMATIVA.
+Tendo em vista que este Tribunal já se manifestou sobre a questão,há preclusão lógica e consumativa para nova análise desta Corte acerca da matéria. Novas discussões quanto à discussão de ocorrência de prescrição intercorrente, como no caso em que inova com alegações de que alguns créditos teriam sido reincluídos no REFIS, reabrem discussão já preclusa para aquele Juízo.
+Embargos de declaração rejeitados às fls. 144-152.
+O recorrente alega violação dos arts. 40, §4º, da LEF e 174 do CTN, argumentando ,à fl. 171, que, se as dívidas aqui executadas não foram incluídas no REFIS, o acórdão recorrido está afrontando o art. 40, § 4º, da Lei 6.830/1980 e o art. 174 do Código Tributário Nacional Tribunal, ao não reconhecer a prescrição intercorrente pelo transcurso do prazo de 05 anos, atribuindo ilegalmente suspensão à cobrança da dívida por parcelamento que jamais ocorreu.
+Aduz, ainda, que:
+Ora, se as dívidas 31.676.928-2 e 31.676.927-4 nunca foram incluídas no REFIS (como a própria UNIÃO reconheceu e declarou), então jamais teriam essas mesmas dívidas como serem reincluídas no REFIS, como quer também fazer crer o acórdão recorrido, na medida em que usa a sentença da Ação Ordinária nº 5024909-63.2010.4.04.7100 como argumento de rejeição do pleito da recorrente. Aquele processo, que buscou sim a reinclusão de dívidas no REFIS, o fez para os fins das outras dívidas da empresa. Não seria lógico compreender de forma diferente e, como o acórdão recorrido passou a entender, além de ilógico, passa a ser também ilegal, já que indevidamente deu os efeitos do art. 151 do Código Tributário Nacional para as dívidas aqui executadas.
+A ilegalidade está presente no acórdão por suspender a exigibilidade de dívida que nunca foi parcelada pelo REFIS e, consequentemente, não dar aplicação -neste caso concreto -ao art. 40, § 4º, da Lei 6.830/1980 e ao art. 174 do Código Tributário Nacional Tribunal.
+Aponta, ao fim, que o acórdão recorrido também evidencia a violação ao art. 1.022, parágrafo único, inciso II, do Código de Processo Civil, por invocar elementos que não se coadunam com a pretensão do agravo de instrumento então posto em julgamento e por lhe faltar apreciação da prescrição intercorrente pela não inclusão destas dívidas no REFIS. (fl. 172)
+Contrarrazões às fls. 184-185.
+Juízo positivo de admissibilidade às fls. 188-189.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Não é possível conhecer do recurso especial que apresenta suposta violação dos arts. 40, §4º, da LEF e 174 do CTN, pois os dispositivos indicados como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ademais, rever a conclusão do tribunal a quo, à fl. 120, de que a ora exequente promoveu a reinclusão dos débitos da executada no referido parcelamento, demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, procedimento vedado nos termos da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REFIS DA CRISE. PARCELAMENTO. OPÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A Lei nº 11.941/2009 tratou de forma diferente os débitos que já foram objeto de parcelamento anterior daqueles débitos nunca parcelados, estabelecendo percentuais de redução da multa e dos juros de mora em cada uma das situações.
+2. Hipótese em que a Corte Regional decidiu que a agravada, quando da sua adesão ao parcelamento do referido diploma legal, não optou por pagar o seu débito à vista, mas sim de forma parcelada, razão pela qual entendeu que os descontos previstos no art. 1º, § 3º, I, da Lei n. 11.941/2009, c/c o art. 7º, § 1º, só poderiam ser aplicados sobre o saldo devedor remanescente quando este fosse amortizado.
+3. Alterar a conclusão adotada pelo Tribunal de origem esbarra no óbice contido na Súmula 7 do STJ.
+4. Agravo interno provido para não conhecer do recurso especial.
+(AgInt no REsp n. 1.455.683/RS, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe de 19/10/2020.)
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. PROGRAMA DE PARCELAMENTO. REFIS. INCLUSÃO DE DÉBITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
