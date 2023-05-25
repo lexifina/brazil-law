@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO MARCOS PEREIRA GOMES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no HC n. 1.0000.22.186897-9/000.
+Consta dos autos que o Paciente foi denunciado pela suposta prática dos delitos previstos no art. 121, § 2.º, incis os I e IV, c.c. o art. 14, inciso II, ambos do Código Penal, e do art. 33, caput, da Lei n. 11.343/2006, por efetuar disparos de arma de fogo na cabeça e nas costas da vítima, integrante de organização criminosa rival. O crime foi motivado por disputas relativas ao tráfico de drogas, sendo encontradas drogas na residência do Paciente pela Polícia Militar, na apuração do delito de tentativa de homicídio. A prisão preventiva do Réu foi decretada quando do recebimento da denúncia, no dia 05/10/2020, em atendimento à representação da autoridade policial, com manifestação favorável do Ministério Público.
+Afirma o Impetrante que o mandado de prisão foi cumprido em 24/12/2020.
+Impugnando a custódia cautelar, a Defesa impetrou o writ originário, denegado em acórdão assim ementado (fl. 8):
+"EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO E TRÁFICO DE DROGAS - RELAXAMENTO DA PRISÃO POR EXCESSO DE PRAZO - NÃO CABIMENTO - INSTRUÇÃO JÁ ENCERRADA - SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - PRISÃO PREVENTIVA NECESSÁRIA. O prazo para a instrução criminal não é rígido e não deve se ater a meras somas aritméticas, sendo imprescindível respeitar-se o princípio da razoabilidade. Não há que se falar em excesso de prazo quando já encerrada a instrução criminal (Súmulas 17 do TJMG e 52 do STJ). Presentes os requisitos que justificam a necessidade da prisão preventiva, torna- se incabível a substituição da segregação por medidas cautelares diversas."
+Neste habeas corpus substitutivo de recurso, o Impetrante repisa a tese de excesso de prazo, pois (fl. 4):
+"O paciente é primário, portador de bons antecedentes, possui residência fixa e atividade lícita e desde o dia 24 de dezembro de 2020 está preso preventivamente por ter sido denunciado pela prática de crime de homicídio na forma tentada bem como tráfico de drogas. Iniciada a instrução criminal, foi o acusado pronunciado a júri popular, sendo por ocasião de julgamento de recurso em sentido estrito sua sentença de pronúncia anulada no dia 26 de julho de 2022, por decisão colegiada da Egrégia Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais."
+Busca, assim, liminarmente e no mérito, a revogação da custódia cautelar. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+Indeferi o pedido liminar às fls. 201-203.
+As informações foram prestadas às fls. 207-227 e 228-304.
+O Ministério Público Federal opina às fls. 308-312, pelo não conhecimento do writ.
+É o relatório. Decido.
+No que tange ao alegado excesso de prazo para a formação da culpa, pontuo que " a  aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação" (HC 541.104/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original).
+Ao denegar a ordem na origem, consignou o acórdão impugnado que a marcha processual tem trâmite regular, pois (fl. 9):
+"Não se olvida que, ao julgar o recurso em sentido estrito interposto contra a pronúncia do paciente, esta 1ª Câmara Criminal reconheceu a nulidade da decisão, em razão da ausência de análise do crime conexo.
+Não obstante, a decisão desta segunda instância já transitou em julgado, de modo que os autos já foram remetidos à Comarca de origem para prolação de nova sentença e regular prosseguimento do feito.
+Assim, a despeito da anulação, a ação penal continua bem próxima de seu fim.
+Ademais, a ação penal é relativamente complexa, pois, além da multiplicidade de crimes, foi necessária a oitiva de diversas testemunhas. Assim, é natural que o prazo para o desfecho do caso sofra certa ampliação.
+Desse modo, eventual demora para a conclusão da ação penal decorreu das necessidades concretas do processo, e não da atuação omissa do Poder Judiciário.
+Por fim, não é possível a substituição da prisão preventiva por medidas cautelares diversas, em face da gravidade concreta dos crimes imputados ao paciente.
+Com efeito, extrai-se dos autos que a tentativa de homicídio atribuída ao paciente foi cometida em um contexto de tráfico de drogas, já que o paciente e vítima, pertencentes a gangues rivais, tiveram uma discussão no dia dos fatos.
+Por essa razão, ao apreciar o habeas corpus de nº 1.0000.21.005901-0/000, este eg. TJMG reconheceu a extrema necessidade da prisão preventiva, circunstância que afasta, de plano, o cabimento de medidas cautelares diversas.
+Por tais considerações, não se verificando o alegado excesso de prazo, tampouco a ilegalidade da prisão preventiva, denego o habeas corpus."
+Consoante informações processuais prestadas pelo Juízo da 1.ª Vara Criminal de Governador Valadares - MG e disponibilizadas no endereço eletrônico do Tribunal de Justiça mineiro, nova sentença de pronúncia foi proferida em 04/11/2022. A Defesa interpôs novo recurso em sentido estrito, pendente de julgamento na Corte a quo.
+Levando-se em conta o atual estágio do processo, as penas em abstrato para os gravíssimos crimes a que responde o Paciente e o tempo de sua custódia cautelar, cerca de dois anos e meio, não há constrangimento ilegal por demora exacerbada na conclusão da primeira fase do rito do Júri.
+Em que pese a anulação da primeira sentença de pronúncia, porque não fora analisada "ainda que minimamente, em relação à prova da materialidade e indícios de autoria também quanto ao crime conexo" (fl. 197) de tráfico de drogas, o Réu já foi novamente pronunciado, o que faz incidir na espécie o Enunciado n. 21 da Súmula desta Corte, de seguinte teor: " p ronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Nesse sentido:
+" ..  6. Com o advento da pronúncia, restam superadas as alegações de constrangimento por excesso de prazo, nos termos do enunciado n. 21 da Súmula do STJ  .. .
+Recurso ordinário desprovido" (RHC 131.415/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/08/2021, DJe 16/08/2021.)
+" ..  2 - É pacífico o entendimento de que a alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia (RHC 131.559/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/12/2020)
+ .. .
+Agravo Regimental improvido" (AgRg no RHC 133.372/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/06/2021, DJe 15/06/2021.)
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO TENTADO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO. DESÍDIA ESTATAL NÃO EVIDENCIADA. PECULIARIDADES DO CASO. SENTENÇA DE PRONÚNCIA ANULADA EM SEDE DE RECURSO EM SENTIDO ESTRITO. NOVA PRONÚNCIA PROFERIDA APÓS O JULGAMENTO DO ACÓRDÃO IMPUGNADO. APLICAÇÃO DO VERBETE SUMULAR N. 21 DO STJ. HABEAS CORPUS PREJUDICADO.
