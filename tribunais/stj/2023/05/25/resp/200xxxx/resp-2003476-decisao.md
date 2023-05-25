@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por ISAIAS GREGORIO DOS REIS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0000120-45.2021.8.16.0112.
+Consta nos autos que o Recorrente foi condenado como incurso no art. 155, § 4.º, incisos III e IV, do Código Penal, às penas de 8 (oito) anos de reclusão, em regime inicial fechado, e 293 (duzentos e noventa e três) dias-multa (fls. 546-572).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 765-787).
+Nas razões do recurso especial, aponta-se divergência jurisprudencial e ofensa ao art. 59 do Código Penal, sob o argumento de que a aplicação de fração superior a 1/6 (um sexto) na majoração pena em decorrência das circunstâncias judiciais exige motivação concreta e idônea, o que não ocorreu no caso em apreço.
+Contrarrazões às fls. 814-817.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial defensivo (fls. 836-838)
+É o relatório. Decido.
+O Juízo sentenciante, cuja sentença foi ratificada pelo Tribunal estadual, fundamentou a dosimetria da pena nos seguinte termos:
+"4.3.1. Circunstâncias judiciais
+a) culpabilidade: tendo em conta que o delito foi cometido mediante concurso de pessoas também com o emprego de chave falsa (esta empregada aqui apenas como circunstância qualificadora do delito), tem-se que houve maior vulneração ao bem jurídico tutelado em razão do concurso de agentes, bem como que a conduta do acusado se reveste de maior censurabilidade. Assim sendo, majoro a pena-base em 01 (um) ano de reclusão e 58 (cinquenta e oito) dias-multa;
+b) antecedentes: pelo que se colhe dos autos, o réu possui vasta ficha de antecedentes criminais (cf. certidão de mov. 205.1), dentre eles uma condenação, por sentença proferida nos autos de nº0000518-91.2009.8.16.0021, pela prática do crime de furto qualificado, razão pela qual majoro apena-base em 01 (um) ano de reclusão e 58 (cinquenta e oito) dias-multa;
+c) conduta social: nada há nos autos que permita aferir o comportamento do réu em junto à sua família, comunidade ou local de trabalho;
+d) personalidade: não há nos autos elementos de convicção que permitam, de forma segura, a análise dessa circunstância;
+e) motivos: ao que consta dos autos, a obtenção de proveito patrimonial indevido, o que é próprio do tipo penal e não justifica a majoração da pena-base;
+f) circunstâncias: o bem estava sendo conduzido a região de fronteira, sendo que os policiais ouviram os acusados falar explicitamente que seria levado a país estrangeiro, o que merece maior reprovação. Assim sendo, majoro a pena-base em 01 (um) ano e 58 (cinquenta e oito) dias-multa;
+g) consequências: pequenas, ante a recuperação dos bens subtraídos, razão pela qual deixo de majorar a pena-base;
+h) comportamento da vítima: a vítima em nada contribuiu para o delito, não havendo razão para redução ou majoração da pena-base.
+Assim sendo, sopesadas estas circunstâncias, fixo a pena-base em 05 (cinco) anos de reclusão e 184 (cento e oitenta e quatro) dias-multa." (fls. 568-569, sem grifos no original).
+A jurisprudência do Superior Tribunal de Justiça orienta no sentido de que " ..  a elevação da pena-base, pela existência de circunstâncias judiciais desfavoráveis, deve seguir o parâmetro da fração de 1/6 para cada vetorial negativa, exceto quando evidenciada, por meio de elementos concretos do caso, a maior gravidade da conduta.  .. " (AgRg no HC 579.203/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; sem grifos no original.)
+No caso, as instâncias ordinárias aplicaram o aumento de 1/2 (metade) da pena-base para cada circunstância judicial negativa sem justificar adequadamente o emprego desta fração. Isso porque: a) na avaliação da culpabilidade, foi mencionada uma única majorante sobressalente; b) na avaliação dos antecedentes, foi especificada uma única condenação pretérita; c) na valoração das circunstâncias do crime, os elementos declinados, embora justifiquem a negativação do vetor judicial, não são suficientes para fundamentar a fração mais rigorosa.
+Revela-se, adequada, portanto, a correção da dosimetria da pena, a fim de se aplicar a fração de majoração de 1/6 (um sexto) da pena-base para cada circunstância judicial negativa, em consonância com a jurisprudência desta Corte Superior.
+Nesse sentido:
+" ..  1. A jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade. Assim, a exasperação superior à referida fração, para cada circunstância, deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial. Precedentes.
+ .. " (AgRg no REsp 1.915.382/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; sem grifos no original.)
+" ..  1. Consolidou-se a jurisprudência desta Corte no sentido de que, em regra, a elevação da pena-base, pela existência de circunstâncias judiciais desfavoráveis, deve seguir o parâmetro da fração de 1/6 para cada vetorial negativa, exceto quando evidenciada, por meio de elementos concretos do caso, a maior gravidade da conduta.
+ .. " (AgRg no HC 579.203/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; sem grifos no original.)
+Ademais, constato a existência de ilegalidade flagrante, a ser reparada de ofício, nos termos do art. 654, § 2.º, do Código de Processo Penal.
+Com efeito, as instâncias ordinárias aplicaram contra o Recorrente a majorante do art. 155, § 1.º, do Código Penal. Porém, a Terceira Seção desta Corte Superior, no julgamento do Recurso Especial Repetitivo n. 1.888.756/SP, uniformizou a compreensão de que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)." Assim, é de rigor que se afaste a incidência da majorante do repouso noturno.
+Nos termos do art. 580 do Código de Processo Penal, os efeitos da presente decisão devem ser estendidos aos Corréus DANIEL MARCELO LEAL SILVA e JONATHAN ANDREIS DUTRA, pois as suas penas-bases foram majoradas em fração desproporcional com amparo nos mesmos fundamentos ora examinados.
+Fixadas essas premissas, passo a redimensionar as penas impostas
+a) Recorrente ISAIAS GREGORIO DOS REIS
+Na primeira fase, majoro a pena-base em 1/6 (um sexto) por cada circunstância judicial negativa - culpabilidade, antecedentes e circunstâncias do crime -, fixando-a em 3 (três) anos de reclusão e 15 (quinze) dias-multa.
+Na segunda fase, em razão da multirreincidência - 3 (três) condenações penais pretéritas (fl. 569) - mantenho a majoração da pena em 1/5 (um quinto), alcançando-se a pena intermediária de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 18 (dezoito) dias-multa.
+Na terceira fase, afasto a incidência da majorante do repouso noturno, em razão de sua incompatibilidade com o furto qualificado. Por não haver outras causas de aumento ou diminuição, torna-se definitiva a pena de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 18 (dezoito) dias-multa.
+Diante do quantum da pena, das circunstâncias judiciais negativas e da reincidência, mantenho o regime inicial fechado, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal.
+b) Corréu DANIEL MARCELO LEAL SILVA
+Na primeira fase, majoro a pena-base em 1/6 (um sexto) por cada circunstância judicial negativa - culpabilidade e circunstâncias do crime -, fixando-a em 2 (dois) anos e 8 (oito) meses de reclusão e 13 (treze) dias-multa.
+Na segunda fase, não há agravantes ou atenuantes.
+Na terceira fase, afasto a incidência da majorante do repouso noturno, em razão de sua incompatibilidade com o furto qualificado. Por não haver outras causas de aumento ou diminuição, torna-se definitiva a pena de 2 (dois) anos e 8 (oito) meses de reclusão e 13 (treze) dias-multa.
+Diante do quantum da pena e das circunstâncias judiciais negativas, mantenho o regime inicial semiaberto, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal.
+c) Corréu JONATHAN ANDREIS DUTRA
+Na primeira fase, majoro a pena-base em 1/6 (um sexto) por cada circunstância judicial negativa - culpabilidade, antecedentes e circunstâncias do crime -, fixando-a em 3 (três) anos de reclusão e 15 (quinze) dias-multa.
+Na segunda fase, em razão da multirreincidência - 3 (três) condenações penais pretéritas (fl. 567) - mantenho a majoração da pena em 1/5 (um quinto), alcançando-se a pena intermediária de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 18 (dezoito) dias-multa.
+Na terceira fase, afasto a incidência da majorante do repouso noturno, em razão de sua incompatibilidade com o furto qualificado. Por não haver outras causas de aumento ou diminuição, torna-se definitiva a pena de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 18 (dezoito) dias-multa.
+Diante do quantum da pena, das circunstâncias judiciais negativas e da reincidência, mantenho o regime inicial fechado, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para readequar a fração do aumento decorrente das circunstâncias judiciais negativas, com extensão dos efeitos aos Corréus. Ademais, CONCEDO habeas corpus, de ofício, para afastar a incidência da majorante do repouso noturno e redimensionar as penas finais impostas, nos termos desta decisão.
+Comunique-se ao Juízo de origem, a fim de que a guia de execução provisória das penas dos Réus presos seja retificada.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. MAJORAÇÃO SUPERIOR A 1/6 (UM SEXTO) DA PENA. FUNDAMENTAÇÃO ESPECÍFICA. AUSÊNCIA. DESPROPORCIONALIDADE. MAJORANTE DO REPOUSO NOTURNO. ILEGALIDADE FLAGRANTE. RECURSO ESPECIAL PROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
