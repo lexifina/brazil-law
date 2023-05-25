@@ -1,0 +1,2 @@
+Altera a Lei nº 11.284, de 2 de março de 2006, que dispõe sobre a gestão de florestas públicas para a produção sustentável, a Lei nº 11.516, de 28 de agosto de 2007, que dispõe sobre a criação do Instituto Chico Mendes de Conservação da Biodiversidade, e a Lei nº 12.114, de 9 de dezembro de 2009, que cria o Fundo Nacional sobre Mudança do Clima.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
