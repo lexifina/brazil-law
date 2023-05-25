@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+SEGURO DE VIDA - AÇÃO DE OBRIGAÇÃO DE FAZER COM PRECEITO COMINATÓRIO - FASE DE CUMPRIMENTO DE SENTENÇA - HABILITAÇÃO DE CÔNJUGE E HERDEIROS - CÁLCULOS HOMOLOGADOS - PRECLUSÃO - OCORRÊNCIA - PEDIDO DE CONDENAÇÃO DA AGRAVANTE POR LITIGÂNCIA DE MÁ-FÉ - INDEFERIDO - AGRAVO DE INSTRUMENTO NÃO PROVIDO E AGRAVO INTERNO PREJUDICADO.
+A parte agravante sustenta que o acórdão estadual é omisso; inviável a condenação ao pagamento da indenização do seguro de vida, providência que viola a coisa julgada, pois, conforme determina o título executivo judicial, procedeu à recontratação do seguro de vida; o valor da indenização deveria ser aquele previsto pela apólice original, cuja não observância viola a coisa julgada e promove o enriquecimento sem causa da parte adversa.
+Contra o referido acórdão, a parte recorrente opôs embargos de declaração, afirmando que, conforme determinou o título executivo, procedeu à recontratação do seguro de vida, antes do falecimento do de cujus, motivo por que não pode ser obrigado a pagar a indenização por morte, devendo a cobrança dos herdeiros ser dirigida diretamente à seguradora, não à empresa postulante.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
