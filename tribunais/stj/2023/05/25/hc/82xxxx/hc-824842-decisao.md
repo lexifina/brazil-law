@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IVANILDO ZAGO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 0000362-95.2016.8.26.0598).
+O paciente foi condenado à pena de 2 anos e 6 meses de reclusão em regime semiaberto, além do pagamento de 250 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/06, substituída a pena privativa de liberdade por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e prestação pecuniária.
+A apelação interposta pelo Ministério Público foi desprovida pelo Tribunal de origem.
+A impetrante alega: a) necessidade de aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06, em seu grau máximo, já que presentes todos os requisitos legais; b) possibilidade de fixação do regime aberto para o início do cumprimento da pena, haja vista a ausência de circunstâncias pessoais e objetivas desfavoráveis; e c) "o paciente se encontra impossibilitado de cumprir a pena de prestação pecuniária no momento, uma vez que seu filho adoeceu de câncer e sua mulher acaba de dar à luz a outro filho. Por essa razão, a família está enfrentando grande dificuldade financeira, não sendo possível que o paciente cumpra com tal obrigação" (e-STJ fl. 6).
+Requer, liminar e definitivamente, deferimento da ordem para "substituir a pena de prestação pecuniária pela limitação de final de semana" (e-STJ fl. 7).
+É o relatório.
+A matéria relativa à substituição da pena restritiva de direito não foi apreciada no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI 8.137/90. DEFICIÊNCIA DA DEFESA. SUBSTITUIÇÃO DA PENA DE LIMITAÇÃO DE FINAL DE SEMANA PELA PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. MATÉRIAS NÃO APRECIADAS PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+1. As questões referentes à deficiência de defesa e substituição da pena restritiva de direito de limitação de final de semana pela prestação de serviços à comunidade não foram apreciadas pelo Tribunal de origem, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, evitando-se, com tal medida, a ocorrência de indevida supressão de instância (Precedentes STJ). FUNDAMENTAÇÃO INIDÔNEA NA FIXAÇÃO DA PENA. SENTENÇA NÃO COLACIONADA AOS AUTOS. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NÃO CONHECIMENTO.
+1.O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de provas documentais, a existência da aventada coação ilegal suportada pelo paciente.
+2. In casu, a impetração não trouxe à colação cópia da sentença condenatória, documento imprescindível para se aferir a alegada nulidade na fixação da reprimenda. PRESCRIÇÃO RETROATIVA E APLICAÇÃO DO SURSIS (ART. 77 DO CP). PRETENSÕES PREJUDICADAS PELA IMPOSSIBILIDADE DE ANÁLISE DA DOSIMETRIA DA PENA. ORDEM NÃO CONHECIDA.
+1. Restam prejudicados os pleitos de extinção da pena pela prescrição da pena e de aplicação do sursis (art. 77 do CP), pois sua análise depende de uma eventual redução da pena, tópico, contudo, não conhecido ante a deficiência na instrução da ordem mandamental.
+2. Ordem não conhecida.
+(HC n. 148.724/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 8/11/2011, DJe de 17/11/2011.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
