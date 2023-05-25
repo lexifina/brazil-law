@@ -1,0 +1,98 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0701291-02.2022.8.07.0018APELANTE(S)DIEGO FIGUEIREDO PAESAPELADO(S)BANCO DO BRASIL S/ARelatoraDesembargadora MARIA DE LOURDES ABREU
+ Acórdão Nº1707916
+
+EMENTA
+
+CIVIL. CONSUMIDOR. CONTRATOS. CONTRATO BANCÁRIO. REVISÃO CONTRATUAL. PRETENSÃO REVISIONAL. CRÉDITO DIRETO AO CONSUMIDOR (CDC). CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE. LIVRE PACTUAÇÃO. AUSÊNCIA DE ABUSIVIDADE. JUROS REMUNERATÓRIOS. TAXAS. INAPLICABILIDADE DA LEI DE USURA. ILEGALIDADE NÃO COMPROVADA. PREVALÊNCIA DA AUTONOMIA DA VONTADE.
+
+1. No caso, com relação à capitalização de juros, os contratos questionados pela parte apelante/autora mostram que as operações de crédito direto foram contratadas, de forma livre e espontânea, com a assunção de custos efetivos totais anuais de 33,22% e 43, 45% anuais, atraindo a aplicação dos entendimentos consolidados nos enunciados n.º 51 e 539 da Súmula do Superior Tribunal de Justiça, os quais, respectivamente, indicam que “a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada” e que “é permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada”.
+
+2. As instituições financeiras são regidas pela Lei n.º 4.595/64, sendo inaplicável a limitação de juros prevista na “Lei de Usura” (Decreto n.º 22.626/33), não existindo nos autos qualquer circunstância de abusividade cabalmente demonstrada, que imponha a intervenção judicial para a revisão das taxas assumidas pela parte apelante na oportunidade. Inteligência dos enunciados 596 da Súmula do STF. Precedentes STJ e TJDFT.
+
+3. Recurso conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA DE LOURDES ABREU - Relatora, ROBERTO FREITAS FILHO - 1º Vogal e LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERTO FREITAS FILHO, em proferir a seguinte decisão: CONHECER E NEGAR PROVIMENTO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 02 de Junho de 2023
+
+Desembargadora MARIA DE LOURDES ABREURelatora
+
+RELATÓRIO
+
+Trata-se de apelação interposta por DIEGO FIGUEIREDO PAES contra a sentença de ID 38228850, proferida nos autos de ação revisional de contrato ajuizada em face do BANCO DO BRASIL S.A., que julgou improcedentes os pedidos autorais.
+
+Alega o apelante, em síntese, que acatou as cláusulas de contrato de adesão de financiamento firmado com a instituição financeira ré, ora apelada, sem o devido conhecimento e impacto de seus termos em seu orçamento pessoal, asseverando que são cobrados juros e taxas abusivas. Assevera que a capitalização de juros nos moldes em que imposta pela instituição financeira apelada é proibida.
+
+Requer o conhecimento e o provimento do recurso para que a sentença seja reformada, acolhendo-se, na íntegra, os pedidos iniciais para julgar procedente a pretensão de revisão dos juros e determinar o ressarcimento dos valores indevidamente cobrados pela instituição financeira.
+
+Preparo no ID 38228856.
+
+O pedido de gratuidade de justiça foi indeferido pela decisão de ID 41742160 diante da incidência da preclusão lógica pelo recolhimento do preparo instrumentalizado pelo recorrente.
+
+Sem contrarrazões, conforme certificado no ID 38228959.
+
+É o relatório.
+
+Desembargadora MARIA DE LOURDES ABREUS
+
+Relatora
+
+VOTOS
+
+A Senhora Desembargadora MARIA DE LOURDES ABREU - Relatora
+
+Conforme relatado, cuida-se de apelação interposta pela parte autora de ação de revisão de contrato bancário contra a sentença de ID 38228850, que julgou improcedentes os pedidos autorais.
+
+Alega o apelante, em síntese, que acatou as cláusulas de contrato de adesão de financiamento firmado com a instituição financeira ré, ora apelada, sem o devido conhecimento e impacto de seus termos em seu orçamento pessoal, asseverando que são cobrados juros e taxas abusivas. Assevera que a capitalização de juros nos moldes em que imposta pela instituição financeira apelada é proibida.
+
+Sem razão a parte apelante.
+
+De início, registra-se que a relação jurídica firmada entre as partes se insere no âmbito do direito consumerista, posicionando-se a parte apelante na figura do consumidor e a parte apelada como fornecedora de produtos e serviços no âmbito do mercado aberto de consumo, com a adequação, respectivamente, às previsões conceituais previstas no artigos 2º e 3º do Código de Defesa do Consumidor.
+
+O exame do caderno processual demonstra que a parte apelante firmou contratos de mútuo na modalidade CDC – Crédito Direto ao Consumidor n.º 973689617 (ID 38228817) e n.º 978848420 (ID 38228818).
+
+A análise das cláusulas contratuais questionadas pela parte apelante no que dizem respeito à impossibilidade de capitalização de juros e da incidência dos patamares de juros remuneratórios nos moldes pactuados não indicam abusividade que determine a intervenção judicial no ajuste livre e espontaneamente assumido pela parte.
+
+Com relação à capitalização de juros, os contratos questionados mostram que as operações de crédito direto foram contratadas com a assunção de custos efetivos totais anuais de 33,22% e 43, 45% anuais, atraindo a aplicação dos entendimentos consolidados nos enunciados n.º 51 e 539 da Súmula do Superior Tribunal de Justiça, os quais, respectivamente, indicam que “a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada” e que “é permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada”.
+
+Nessa perspectiva, denota-se que a parte assumiu, mediante prévia ciência inequívoca dos consectários contratuais, a incidência da capitalização de juros no contrato entabulado com a instituição financeira.
+
+Quanto aos juros remuneratórios, igual sorte não assiste ao apelante, na medida em que as instituições  financeiras são regidas pela Lei n.º 4.595/64, sendo inaplicável a limitação de juros prevista na “Lei de Usura” (Decreto n.º 22.626/33), não existindo nos autos qualquer circunstância de abusividade cabalmente demonstrada que imponha a intervenção judicial para a revisão das taxas assumidas pela parte apelante na oportunidade.
+
+Nesse sentido:
+
+APELAÇÃO CÍVEL. CIVIL. AÇÃO DE COBRANÇA. CÉDULA DE CRÉDITO COMERCIAL. PESSOA JURÍDICA. FOMENTO DA ATIVIDADE EMPRESARIAL. INAPLICABILIDADE DO CDC. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE. COMISSÃO DE PERMANÊNCIA. INCIDÊNCIA NÃO DEMONSTRADA. OBSERVÂNCIA DAS TESES FIXADAS PELO C. STJ. PRECEDENTES QUALIFICADOS. SENTENÇA MANTIDA.  1. As disposições do Código de Defesa do Consumidor não são aplicáveis ao contrato firmado entre as partes, tendo em vista que o contrato objetivava fomentar a atividade empresarial dos Recorrentes, com a aquisição de bens de capital e outros insumos.  2. Os Apelantes, em sede de contestação, se limitaram a defender a ilegalidade dos juros cobrados e da previsão de comissão de permanência, sem especificar, concretamente, no que consistiriam as alegadas abusividades das cláusulas contratuais.  3. Inexiste dúvida de que houve a contratação, por parte dos Devedores, de financiamento para a aquisição de Bens de Capital (BK) e investimentos correlacionados, em percentuais que se mostram dentro do padrão médio praticado pelas instituições financeiras à época da avença, conforme consulta ao Boletim do Banco Central do Brasil - Relatório Anual 2014.  4. Sobre os juros remuneratórios, o REsp nº 1.061.530/RS submetido ao rito dos recursos repetitivos dispôs que: "a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto."  5. O REsp nº 973.827/RS, submetido ao rito dos repetitivos, fixou as teses de que "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada" e "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".  6. Reconhecida a legalidade da incidência da capitalização mensal de juros e não comprovada abusividade ou necessidade de redução deles, devem ser mantidas as previsões contratuais.  7. A comissão de permanência "é o encargo cobrado pela instituição financeira em razão do inadimplemento de um título não pago no prazo contratado pelo devedor. Sua cobrança é permitida, desde que não seja cumulada com outros encargos contratuais ou com aqueles decorrentes da mora. Precedente do STJ. (...)" (Acórdão 1332242, 07127396820198070020, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 8/4/2021, publicado no PJe: 19/4/2021. Pág.: Sem Página Cadastrada).  8. A ausência de comprovação da cobrança desse encargo pela parte Ré, ônus que lhe incumbia, nos termos do art. 373, II, do CPC/15, impede a retificação da cláusula pretendida.  9. Apelação conhecida e não provida.
+
+(Acórdão 1662363, 07036786120208070017, Relator: Robson Teixeira de Freitas,  8ª Turma Cível, data de julgamento: 7/2/2023, publicado no PJe: 21/2/2023. Pág.:  Sem Página Cadastrada)
+
+APELAÇÃO CÍVEL. REVISÃO CONTRATUAL. CÉDULA DE CRÉDITO BANCÁRIO. PRELIMINARES. TABELA PRICE. ANATOCISMO. INEXISTÊNCIA. CAPITALIZAÇÃO. POSSIBILIDADE. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO DEMONSTRADA. REGISTRO DO CONTRATO. POSSIBILIDADE. 1. Não constitui cerceamento de defesa a inocorrência de produção de prova pericial quando a questão de mérito é unicamente de direito. 2. Se o apelante rebateu os fundamentos da sentença, apresentando os argumentos de fato e de direito que entende pertinentes para rechaçar a conclusão do juízo de origem, não há irregularidade formal no seu recurso, ou inobservância do princípio da dialeticidade. 3. Não há afronta ao Enunciado da Súmula 381 do e. STJ quando a petição inicial informa exatamente quais cláusulas devem ser revistas. 4. De acordo com a jurisprudência desta Corte, o uso da tabela price por si só não caracteriza a prática de anatocismo, inexistindo vedação legal ao uso da aludida forma de incidência de encargos, devendo ser mantida nos contratos em que foi livremente pactuada. 5. A capitalização de juros é admitida na cédula de crédito bancário, ex vi da Lei 10.931/2004, art. 28, §1º. 6. As partes podem pactuar livremente a taxa de juros remuneratórios; entretanto, comprovado que a mesma é excessiva, exorbitante ou muito acima da taxa média do mercado admite-se a revisão do contrato.   Ausente demonstração concreta em torno da cobrança excessiva dos juros remuneratórios, não há que se falar em abusividade. 7. Conforme orientação do C. STJ, é válida a cláusula que prevê o ressarcimento de despesa com o registro do contrato e a tarifa de avaliação do bem, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado; e a possibilidade de controle da onerosidade excessiva, em cada caso concreto. REsp. 1.578.553/SP, em sede de recurso repetitivo. 8. Recurso parcialmente conhecido e não provido.
+
+(Acórdão 1634150, 07027785820228070001, Relator: GETÚLIO DE MORAES OLIVEIRA,  7ª Turma Cível, data de julgamento: 26/10/2022, publicado no PJe: 21/11/2022. Pág.:  Sem Página Cadastrada)
+
+PROCESSO CIVIL E CÓDIGO DE DEFESA DO CONSUMIDOR. APELAÇÃO CÍVEL. REVISÃO CONTRATUAL. FINANCIAMENTO VEÍCULO. CAPITALIZAÇÃO MENSAL DE JUROS. PARÂMETROS FIXADOS PELO STJ. AUSÊNCIA DE ABUSIVIDADE. MANUTENÇÃO DA SENTENÇA. 1.  Nos termos da Súmula 297 do Superior Tribunal de Justiça, "o Código de Defesa do Consumidor é aplicável às instituições financeiras." 2. A partir do advento da Medida Provisória 1963-17 (reeditada até a MP 2.170/36/01), tornou-se possível a prática de capitalização em contratos bancários, desde que pactuados a partir do início da vigência da MP 1963-17 (31/03/2000) e obedecidos os requisitos estabelecidos na norma. Acerca do tema, a Segunda Seção do STJ, em 27.06.2012, julgou o REsp 973.827-RS, sob o regime do art. 543-C do CPC e Res. n. 8/2008-STJ no qual a Seção, ratificando a sua jurisprudência, entendeu que é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31 de março de 2000, data da publicação da MP 1.963-17/2000, em vigor como MP 2.170-36/2001, desde que expressamente pactuada. 3. Ante o Princípio da Presunção de Constitucionalidade, é possível a aplicação do art. 5º da MP nº. 2170-36 até que a controvérsia seja dirimida pelo egrégio Supremo Tribunal Federal. 4. De acordo com o entendimento do STJ, será válida a cláusula contratual que estabeleça a cobrança de comissão de permanência para o período da inadimplência nos contratos bancários, à taxa de mercado, desde que pactuada e não cumulada com outros encargos moratórios, remuneratórios e/ou correção monetária. 5. Recurso conhecido e desprovido. (Acórdão 1625146, 07002798920228070005, Relator: ARQUIBALDO CARNEIRO PORTELA,  8ª Turma Cível, data de julgamento: 4/10/2022, publicado no DJE: 19/10/2022. Pág.:  Sem Página Cadastrada).
+
+APELAÇÃO CÍVEL. EMBARGOS DO DEVEDOR. REVELIA. CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. DEVIDO À IMPLEMENTAÇÃO DE ATIVIDADE ECONÔMICA. JUROS REMUNERATÓRIOS: CAPITALIZAÇÃO E TAXA. ABUSIVIDADE NÃO CONFIGURADA. MORA CARACTERIZADA. GRATUIDADE DE JUSTIÇA. CONDENAÇÃO NOS ÔNUS DA SUCUMBÊNCIA. SUSPENSÃO DA EXIGIBILIDADE. 1. Está pacificado na jurisprudência o entendimento de que a ausência de impugnação aos embargos à execução não induz os efeitos da revelia, pois compete ao executado a comprovação quanto à ineficácia do título exequendo. 2. Consoante jurisprudência, o Código de Defesa do Consumidor não se aplica quando o produto ou serviço é contratado para implementação de atividade econômica, já que não resta configurado o destinatário final da relação de consumo. 3. O verbete sumular 541/STJ estabelece que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. No contrato em discussão, há previsão prévia, expressa e clara para capitalização mensal de juros pela taxa efetiva contratada, ou seja, de 3,46% ao mês e 50,41% ao ano 4. A revisão da taxa de juros remuneratórios somente é admitida em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º, do CDC) fique cabalmente demonstrada, o que não ocorre no caso. Tratando-se de empréstimo para capital de giro, o crédito não se destinou a financiar o consumo, mas sim a fomentar a atividade econômica, além de a parte interessada não ter demonstrado que as peculiaridades do negócio não justificavam a taxa de juros avençada, em especial porque foi alegado o direito pelo simples excesso da taxa média de mercado. 5. Se a tarifa bancária cobrada tem previsão em Resolução do Conselho Monetário Nacional e no contrato firmado entre a instituição e o cliente, não cabe restituição do valor pago. 6. Inviável o afastamento da mora e a isenção do devedor de suas consequências, se não restou evidenciada qualquer ilegalidade ou abuso na cobrança, tampouco qualquer fato imputável ao credor que justificasse o inadimplemento das parcelas cobradas. 7. O deferimento da gratuidade de justiça não implica isenção do pagamento das custas e dos honorários, mas sim suspensão da exigibilidade das obrigações decorrentes da sucumbência. 8. Apelação conhecida e não provida.
+
+(Acórdão 1186036, 00036559420178070007, Relator: FÁBIO EDUARDO MARQUES,  7ª Turma Cível, data de julgamento: 10/7/2019, publicado no DJE: 29/7/2019. Pág.:  Sem Página Cadastrada).
+
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO.   COMISSÃO DE PERMANÊNCIA CUMULADA COM OUTROS ENCARGOS. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. JUROS REMUNERATÓRIOS. ADEQUAÇÃO À MÉDIA DE MERCADO. LICITUDE.  CAPITALIZAÇÃO MENSAL DE JUROS. PREVISÃO CONTRATUAL. LEGALIDADE. COBRANÇA DE IOF E DE TARIFAS DE CASTRO, DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DO BEM. CAUSA DE INCIDÊNCIA LEGÍTIMA. LICITUDE.   1. Não tendo havido, na petição inicial, pedido de declaração de nulidade da cláusula que prevê a cobrança de comissão de permanência, não há como conhecer da pretensão em sede de apelação, por se tratar de inovação inadmissível sobre questão que não integra o objeto da demanda. 2. Pela inteligência da Súmula 382 do STJ os juros remuneratórios adotados pelas instituições financeiras não estão limitados a 12% ao ano, devendo ser reconhecida a abusividade apenas quando houver comprovação da exorbitância dos índices cobrados em relação à média do mercado utilizado na mesma espécie de operação, o que não se verifica na hipótese dos autos. 3. A capitalização de juros é admitida em cédulas de crédito bancário, com fundamento no art. 28, § 1º, da Lei 10.931/2004, desde que sejam indicados, "os juros sobre a dívida, capitalizados ou não, os critérios de sua incidência e, se for o caso, a periodicidade de sua capitalização". 3.1. No caso dos autos, expressa no contrato a incidência e a periodicidade da capitalização dos juros remuneratórios, não há irregularidade na sua incidência, sendo admitida a utilização da Tabela Price, como forma de amortização de débito em parcelas sucessivas iguais. 4. É lícita a cobrança de cobrança de IOF, de tarifa de cadastro para custeio do início do relacionamento com a instituição financeira, de registro de contrato para custeio de registro de garantia fiduciária, e de avaliação de veículo usado dado em garantia, consoante entendimento firmado pelo STJ em sede de recursos repetidos nos Recursos Especiais nº. 1251331/RS e 1578553/SP. 5. Recurso de apelação da autora parcialmente conhecido e desprovido. Recurso da ré provido. Ação revisional julgada improcedente.
+
+(Acórdão 1184806, 00187159620158070001, Relator: ALFEU MACHADO,  1ª Turma Cível, data de julgamento: 10/7/2019, publicado no DJE: 18/7/2019. Pág.:  Sem Página Cadastrada).
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso.
+
+Em obediência ao artigo 85, §11, do Código de Processo Civil, majoro os honorários sucumbenciais em 2% (dois por cento).
+
+É como voto.
+
+O Senhor Desembargador ROBERTO FREITAS FILHO - 1º Vogal Com o relatorO Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER E NEGAR PROVIMENTO, UNÂNIME
