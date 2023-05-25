@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por L. A. B. da S. em contrariedade à decisão proferida por esta relatoria, que negou provimento ao recurso interposto por SUL AMERICA COMPANHIA DE SEGURO SAUDE e majorou os honorários recursais, nos termos da seguinte ementa (e-STJ, fl. 593):
+RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA - TEA. TRATAMENTO MULTIDISCIPLINAR. NEGATIVA DE COBERTURA INDEVIDA. PRECEDENTE DA SEGUNDA SEÇÃO. RECURSO ESPECIAL DESPROVIDO.
+Em suas razões, sustenta o embargante que a decisão é omissa, pois o valor da causa, que é matéria de ordem pública, podendo ser corrigida de ofício, foi indevidamente modificado na Corte de origem, que o delimitou a somente um mês do tratamento pleiteado na inicial, em vez de considerar os doze meses da obrigação de fazer contínua.
+Requer que, corrigido o valor da causa, os honorários sejam fixados entre o mínimo de dez e o máximo de vinte por cento desse montante.
+Busca, assim, que seja sanada a omissão apontada.
+Foi apresentada impugnação (e-STJ, fls. 615-621).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa (EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+Conforme entendimento desta Corte, o efeito translativo é próprio dos recursos ordinários (apelação, agravo, embargos infringentes, embargos de declaração e recurso ordinário constitucional), e não aos recursos excepcionais, como é o caso do recurso especial, de modo que, ainda que se trate de matéria de ordem pública, é incabível, nessa instância extraordinária, o exame de ofício da referida matéria.
+Ademais, nos termos da jurisprudência do STJ, a aplicação do efeito devolutivo em profundidade exige que que a questão esteja inserida na dimensão vertical do tema devolvido ao exame o do Tribunal com a interposição do recurso, sob pena de preclusão consumativa.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 1.022 E 1.025 DO CPC/2015. SENTENÇA COLETIVA. PRÉVIA LIQUIDAÇÃO. DISPOSITIVOS SEM ALCANCE NORMATIVO. SÚMULA N. 284/STF. CONHECIMENTO DE OFÍCIO. IMPOSSIBILIDADE. AUSÊNCIA DE EFEITO TRANSLATIVO. FALTA DE DE IMPUGNAÇÃO. SÚMULA N. 182/STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA PARTE, IMPROVIDO.
+ ..
+4. O exame do mérito neste Tribunal Superior exige a observância da técnica processual adequada, pois "o efeito translativo é próprio dos recursos ordinários (apelação, agravo, embargos infringentes, embargos de declaração e recurso ordinário constitucional), e não dos recursos excepcionais, como é o caso do recurso especial" (REsp n. 1.366.921/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/2/2015, DJe 13/3/2015), o que impede o exame de ofício da mencionada controvérsia.
+ ..
+(AgInt no AREsp n. 2.102.308/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESFAZIMENTO CONTRATUAL CUMULADA COM DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL E DE PARCELAS PAGAS. TERMO INICIAL DOS JUROS DE MORA. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. EFEITO TRANSLATIVO. NÃO APLICAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O efeito translativo é próprio dos recursos ordinários (apelação, agravo, embargos infringentes, embargos de declaração e recurso ordinário constitucional), e não dos recursos excepcionais, como é o caso do recurso especial (Resp nº 1.366.921/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/2/15).
+ ..
+(AgInt no AREsp n. 1.370.035/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2020, DJe de 27/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE BUSCA E APREENSÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA FINANCEIRA.
+1. No que tange aos limites do efeito devolutivo dos recursos, "pode o órgão julgador dentro das limitações e exceções legais conhecer das questões suscitadas em sua dimensão vertical, isto é, em sua profundidade, desde que dentro da matéria debatida ou que seja passível de conhecimento ex officio" (REsp 1.130.118/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/05/2014, DJe 15/05/2014.). Na hipótese ora em foco, a ausência de recurso no ponto em que firmou a sentença a ilegalidade da capitalização de juros no ajuste entabulado entre as partes ensejou o trânsito em julgado do capítulo referente ao tema.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.352.870/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 27/8/2020.)
+Na hipótese dos autos, os questionamentos referentes à definição do valor da causa e do critério de fixação dos honorários advocatícios não foram trazidos à apreciação desta Corte nas razões do recurso especial da parte embargada, não se encontrando na dimensão vertical da matéria devolvida ao exame do STJ, tampouco foram enfrentados por meio de recurso especial oportunamente interposto pelo embargante.
+Desse modo, não é exigível a manifestação a respeito dos temas, ainda que se considere tratar de matérias de ordem pública, em razão de o recurso especial não possuir efeito translativo.
+Diante do exposto, não existindo omissão na decisão embargada, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA INDEVIDA. DESPROVIMENTO DO RECURSO. ACLARATÓRIOS. OPOSIÇÃO PELA PARTE RECORRIDA. VALOR DA CAUSA. ALTERAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MODIFICAÇÃO DO CRITÉRIO DO SEU ARBITRAMENTO. OMISSÃO NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
