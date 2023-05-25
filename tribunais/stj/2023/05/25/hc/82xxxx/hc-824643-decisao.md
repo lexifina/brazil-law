@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ CARLOS PEREIRA LIZETE, contra v. acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, (HABEAS CORPUS Nº 0016939-50.2023.8.19.0000).
+Depreende-se dos autos que o Paciente teve a prisão cautelar decretada pela prática do delito de roubo, pois supostamente teria subtraído  o patrimônio da vítima mediante o emprego de grave ameaça simulando o porte de arma de fogo. Consta do auto de prisão em flagrante que a vítima estava parada em um ponto de ônibus quando um homem se aproximou e, muito nervoso, levantou a blusa, mostrando algo que a vítima acreditou ser uma arma. A vítima e ntregou o telefone e o homem tentou fugir, mas foi abordado por populares que presenciaram os fatos  (fl. 117). Inconformada, a Defesa impetrou habeas corpus perante a Corte local que julgou improcedente o pleito, mantendo a prisão preventiva, ressaltando que existem elementos hábeis a recomendar a constrição cautelar, consoante acórdão de fls. 20-24.
+Neste writ, postula a defesa em linhas gerais, o reconhecimento de constrangimento ilegal, alegando a ausência de requisitos para prisão preventiva, aduzindo que  Por ocasião da audiência de custódia, a prisão em flagrante foi convertida em preventiva, sob fundamentação absolutamente genérica, que faz mero apelo retórico e formal à letra fria da lei e à gravidade em abstrato do delito, retratando decisão padronizada que não analisa o caso concreto, nos seguintes termos  (fl. 4); pugnando pela revogação da segregação cautelar e, subsidiariamente, a substituição da prisão por medidas cautelares diversas.
+É o breve relatório.
+Decido.
+Pretende o impetrante, em breve síntese, o reconhecimento da ausência de fundamentação do decreto prisional.
+Em consulta à base de dados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 815.011/RJ, cuja irresignação dirigiu-se ao mesmo acórdão ora atacado (HC n. 0016939-50.2023.8.19.0000), evidenciando-se deste presente recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, da aventada inidoneidade da custódia cautelar por ausência de fundamentação do decreto prisional, dado que indica o não cabimento da insurgência em exame.
+Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. TESE RECENTEMENTE AFASTADA POR ESTA TURMA. FUNDAMENTAÇÃO. PERICULOSIDADE. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. PRINCIPAL PERSONAGEM DA ASSOCIAÇÃO. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Inicialmente, cumpre ressaltar que nesta Corte também houve a interposição do RHC n. 113.146/GO, em favor do ora recorrente, requerendo igualmente a revogação da prisão preventiva, sob o argumento de excesso de prazo para a formação da culpa, sendo que o recurso foi improvido pela Quinta Turma, em 13/8/2019. Assim, por se tratar de mera reiteração, a questão do excesso de prazo não merece ser conhecida.
+ ..
+4. Recurso parcialmente conhecido e, nessa extensão, improvido" (RHC n. 117.327/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/09/2019, grifei).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PEDIDO DE REVOGAÇÃO. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 492.985/RS. LITISPENDÊNCIA. EXCESSO DE PRAZO. EVENTUAL DEMORA NÃO PODE SER IMPUTADA AO JUÍZO. PRINCÍPIO DA RAZOABILIDADE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Inadimissível o recurso por litispendência quanto aos pressupostos e motivos autorizadores da custódia cautelar, por veicular mera reiteração de pedido já formulado no HC n.º 492.985/RS.
+ ..
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nessa extensão, desprovido, com recomendação de urgência no julgamento do feito" (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019, grifei).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. I.
