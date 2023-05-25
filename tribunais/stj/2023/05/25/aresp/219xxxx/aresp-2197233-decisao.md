@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Silvio de Rezende Duarte Filho, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 47):
+Agravo de instrumento - Incidente de desconsideração da personalidade jurídica - Determinada a substituição processual do correquerido falecido por seus herdeiros - Não há como apartar do exequente a possibilidade de indicar herdeiros do devedor falecido, com fins de substituição do polo passivo, ainda que se alegue inexistência de bens penhoráveis, vez que a hipótese pode ser melhor aferida no curso do processo - Direito formal - Possibilidade de promoção do processo em face do espólio, herdeiros ou sucessores do devedor, mediante habilitação - Arts. 110 e 779, II, CPC - Possível o processamento de habilitação de herdeiros, no caso em que aqueles permaneçam em mora quanto à obrigação de inventariar bens - Possibilidade de extração de certidões do processo, por parte dos interessados, que é capaz de obstar eventual prejuízo - Decisão mantida - Recurso improvido.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, o recorrente apontou divergência jurisprudencial e violação aos arts. 110, 687, 692, 779 e 796 do CPC/2015; e 1.997 do CC.
+Argumentou que, até que seja feita a partilha, o espólio é que responderia pela dívida, e não os herdeiros.
+Asseverou que, ainda que seja possível a inclusão dos herdeiros no polo passivo da demanda, tal providência demandaria procedimento específico, o qual não foi observado.
+Contrarrazões às fls. 111-127 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Consoante a jurisprudência desta Corte de Justiça, enquanto não aberto o inventário e realizada a partilha de bens, o espólio responde pelas dívidas do falecido, nos termos dos arts. 1.997, caput, do Código Civil, e 796 do CPC/2015.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. PRINCÍPIO DA SAISINE. HERDEIROS. POSSE INDIRETA DOS BENS. ADMINISTRAÇÃO DO ESPÓLIO PELO POSSUIDOR DE FATO OU PELO INVENTARIANTE JUDICIALMENTE NOMEADO, CONFORME O CASO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A falta de inventariante judicialmente nomeado não faz dos herdeiros, individualmente considerados, partes legítimas para responder pela obrigação objeto da ação de cobrança, pois enquanto não há partilha, é a herança que responde por eventual obrigação deixada pelo de cujus, cuja representação do acervo hereditário se faz provisoriamente pelo possuidor de fato, enquanto que o espólio, como parte formal, é quem detém legitimidade passiva ad causam para integrar a lide. Precedentes.
+2.O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.580.936/ES, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALECIMENTO DO EXECUTADO. SUBSTITUIÇÃO PROCESSUAL. SUCESSORES. ILEGITIMIDADE PASSIVA. INVENTÁRIO NÃO ABERTO. PARTILHA NÃO CONCLUÍDA. REPRESENTAÇÃO. ESPÓLIO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O espólio responde pelas dívidas do falecido enquanto não aberto o inventário e ultimada a partilha. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.974.542/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Com efeito, não havendo partilha de bens, deve ser inadmitido o ingresso no polo passivo dos herdeiros do falecido, sendo imperioso que a sucessão ocorra pelo espólio, não cabendo examinar, neste âmbito, o motivo pelo qual ainda não foi aberto inventário ou arrolamento (AgInt no AREsp n. 1.699.005/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/12/2020, DJe de 1/2/2021).
+Na espécie, contudo, verifica-se que o Tribunal de origem entendeu ser possível a substituição processual do falecido pelos seus herdeiros, ainda que não aberto o inventário, pois os herdeiros estariam em mora quanto à obrigação de inventariar bens.
+Dessa forma, por estar o acórdão estadual em dissonância ao entendimento jurisprudencial desta Casa, de rigor a sua reforma para reconhecer o espólio do de cujus como parte legítima a figurar no polo passivo do incidente de desconsideração da personalidade jurídica.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a legitimidade do espólio, com a consequente exclusão dos herdeiros, para figurar no polo passivo do incidente de desconsideração da personalidade jurídica instaurado contra o de cujus.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SUBSTITUIÇÃO PROCESSUAL DO DE CUJUS. AUSÊNCIA DE PARTILHA. ILEGITIMIDADE PASSIVA DOS HERDEIROS. LEGITIMIDADE DO ESPÓLIO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
