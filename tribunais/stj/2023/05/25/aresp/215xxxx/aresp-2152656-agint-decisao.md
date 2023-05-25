@@ -1,0 +1,26 @@
+DECISÃO
+Diante das razões do agravo interno e considerando que a Corte Especial deste STJ definiu que a juntada de calendário judicial, disponibilizado pelo site do Tribunal de origem, é apta para comprovar a ocorrência de feriado local (cf. EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023), reconsidero a decisão proferida pela Presidência desta Corte.
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+PENHORA DE FATURAMENTO - Execução - Penhora de faturamento - Inexistência de outros bens preferenciais a serem penhorados, de acordo com o art. 835 do CPC/2015 - Medida que encontra respaldo legal e jurisprudencial, devendo ser fixada em percentual que propicia o atendimento à função social da empresa e a continuidade de sua atividade - Possibilidade - Inteligência do art. 866 do diploma processual.
+Possível o deferimento da penhora de faturamento de empresa, prevista no art. 866 do CPC/2015, se demonstrada a inexistência de outros bens preferenciais a serem penhorados, de acordo com o art. 835 do diploma processual, devendo ser fixada em percentual que propicia o atendimento à função social da empresa e a continuidade de sua atividade.
+RECURSO NÃO PROVIDO.
+Nas razões de recurso especial, alega a parte ora agravante violação dos artigos 805 e 835 do Código de Processo Civil.
+Não merece reforma a decisão agravada.
+Com efeito, anoto que esta Corte Superior firmou a tese de que "a penhora sobre o faturamento da empresa é admitida, excepcionalmente, quando presentes os seguintes requisitos: (i) não-localização de bens passíveis de penhora e suficientes à garantia da execução ou, se localizados, de difícil alienação; (ii) nomeação de administrador; (iii) não-comprometimento da atividade empresarial - sem que isto configure violação ao princípio da menor onerosidade ao devedor" (AgRg no AREsp 573.647/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 3/2/2015).
+Na espécie, o Tribunal de origem concluiu pela possibilidade da penhora do faturamento da empresa executada , consignando que "não foram localizados valores suficientes nas contas bancárias dos agravantes, em tentativas de penhora "on line", tendo em vista que o valor do débito monta em R$ R$579.686,46, e os valores bloqueado são singelos R$85,00; R$53,03 e R$121,71. Além disso, não há indícios de que outros bens que pudessem fazer frente à execução tenham sido localizados. Destarte, como não pagou o agravante, por não haver bens para a penhora que pudessem fazer frente à execução e por não haver outras soluções menos gravosas de adimplemento do débito, é cabível a penhora do faturamento" (fl. 249/e-STJ).
+Assim, considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a citada jurisprudência deste Superior Tribunal de Justiça.
+Ademais, o acolhimento das razões do recurso demandaria reexame de matéria fática, que encontra óbice na Súmula 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. AUSÊNCIA DE LOCALIZAÇÃO DE BENS SUFICIENTES PARA SALDAR O DÉBITO. REVISÃO. SÚMULA 7/STJ. 2. ÔNUS DA EXEQUENTE. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. NOMEAÇÃO DE ADMINISTRADOR. PRESCINDIBILIDADE DE INTIMAÇÃO DA PARTE. AUSÊNCIA DE DETERMINAÇÃO NO COMANDO LEGAL REFERENTE À PENHORA DE FATURAMENTO DA EMPRESA. 4. AGRAVO INTERNO DESPROVIDO.
+1. O colegiado estadual, após detida análise de fatos e provas acostadas aos autos, reconheceu a legalidade da penhora efetuada sobre o faturamento da empresa recorrente, notadamente por terem sido esgotados os meios necessários para a localização de outros bens passíveis de saldar o débito. Rever tal conclusão esbarra no óbice da Súmula 7/STJ.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.238.942/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. PERCENTUAL. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, a penhora sobre o faturamento da empresa constitui medida excepcional, a ser aplicada na ausência de bens penhoráveis ou quando eles sejam de difícil alienação ou insuficientes para saldar a dívida.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso, os julgadores consideraram as provas existentes nos autos e a excepcionalidade da medida, para reputar adequada a penhora do percentual de 20% (cinco por cento) sobre o faturamento da empresa, após esgotadas as tentativas de constrição de outros bens, conclusão inalterável em recurso especial, ante o disposto na Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.076.538/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
