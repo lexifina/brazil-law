@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de ALYSSON HERCULANO PINHEIRO ALVES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada pela suposta prática dos delitos de roubo majorado e associação criminosa. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, conforme acórdão de fls. 5-14.
+Neste writ, alega a Defesa, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Paciente, aduzindo que "Decorrido tempos da prisão, e sem que o paciente para isso haja concorrido, além de não haver sido reconhecido como autor do roubo, em audiência realizada em 12 de abril o paciente novamente não foi reconhecido, sendo assim sua manutenção em cárcere se revela constrangedora" (fl. 4).
+Requer a concessão da ordem para que seja deferido  o direito de o paciente aguardar o deslinde processual em liberdade, sob condições, consolidando-se a decisão por ser de direito e de Justiça  (fl. 4).
+É o breve relatório.
+Decido.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois falta peça essencial à análise das questões controvertidas, na medida em que não foi juntada cópia do decreto prisional.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes A. K. L. G., J. A. de M. T. e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente C. E. de J. da C.. Desse modo, constato a deficiência de instrução quanto aos recorrentes I. B. dos S. e T. P. M. M., não havendo como conhecer do recurso deles.
+ ..
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+ ..
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC n. 412.703/GO, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC n. 412.088/MG, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca; HC n. 411.306/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HC nº 412.341/TO, Sexta Turma, Relª . Ministra Maria Thereza de Assis Moura; HC n. 412.092/SP, Sexta Turma, Rel. Ministro Antonio Saldanha Palheiro.
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
