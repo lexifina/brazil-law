@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARELLI MOVEIS PARA ESCRITÓRIO S/A contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 4.473e):
+J UÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA. SELETIVIDADE. TEMA 745 DO STF - RE 714139. ALÍQUOTA EM PATAMAR SUPERIOR AO DAS OPERAÇÕES EM GERAL. INCONSTITUCIONALIDADE. BASE DE CÁLCULO. CREDITAMENTO RETROATIVO. IMPOSSIBILIDADE
+1. "Adotada, pelo legislador estadual, a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços." - Tema nº 745 do STF. Inconstitucionalidade das alíquotas de 25% e 30% no ICMS incidente sobre as operações de energia elétrica, porquanto em violação ao princípio da seletividade pela essencialidade do produto. Necessidade da incidência da alíquota geral prevista no art. 12, inciso II, alínea "j" e § 17, inciso II da Lei Estadual 8.820/89. Ação ajuizada antes de 05/02/2021. Inaplicabilidade da modulação dos efeitos do RE 714139.
+2. É inviável o uso de mandado de segurança para a obtenção de direito de crédito retroativo, na forma do enunciado da Súmula 271 do STF.
+RECURSO PARCIALMENTE PROVIDO, EM JUÍZO DE RETRATAÇÃO.
+Opostos embargos de declaração, foram parcialmente acolhidos para sanar erro material (fls. 4.736/4.742e).
+Com amparo no art. 105, III, a e c, da Constituição da República, a Recorrente sustenta ofensa a dispositivos legais, defendendo, em síntese, o direito à compensação dos créditos tributários.
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público Federal manifestou-se às fls. 4.842/4.845e..
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Acerca da controvérsia, a Corte de origem assentou (fls. 4.481e):
+Tratando-se de mandado de segurança, atenta-se à limitação do direito à compensação do indébito de ICMS relativo às operações que se venceram no curso da demanda, afastando a pretensão compensatória do período pretérito, na forma do enunciado da Súmula 2714 do STF, bem assim do entendimento sedimentado nesta Primeira Câmara Cível e majoritário desta Corte de Justiça
+Tal compreensão diverge da orientação consolidada neste Superior Tribunal.
+De fato, esta Corte firmou posicionamento segundo o qual o mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos. Uma vez concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, revelando-se incabível a utilização da via do precatório, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. INVIABILIDADE.
+1. A Segunda Turma desta Corte, no REsp 1.873.758/SC , Rel. Min. Herman Benjamin, DJe 17/9/2020, reafirmou que, nos autos do mandado de segurança, a opção pela compensação ou restituição do indébito se refere à restituição administrativa do indébito e não à restituição via precatório ou RPV, uma vez que a pretensão manifestada na via mandamental de condenação da Fazenda Nacional à restituição de tributo indevidamente pago no passado, viabilizando o posterior recebimento desse valor pela via do precatório, implica utilização do mandado de segurança como substitutivo da ação de cobrança, o que não se admite, conforme entendimento cristalizado na Súmula 269/STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1928782/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE INDÉBITO. EXPEDIÇÃO DE PRECATÓRIO. NÃO CABIMENTO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. O Superior Tribunal de Justiça firmou compreensão segundo a qual o mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando, assim, inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus.
+3. Agravo interno desprovido.
+(AgInt no REsp 1895331/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2021, DJe 11/06/2021)
+Nesse cenário, impõe-se o provimento do recurso especial para declarar o direito da Recorrente à compensação dos valores indevidamente recolhidos no período anterior à impetração do mandado de segurança, considerando o prazo prescricional quinquenal, atualizados pela Taxa Selic, submetendo a compensação à apreciação da Administração.
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO E DOU PROVIMENTO ao Recurso Especial, nos termos expostos.
+Custas ex legis.
+Publique-se e intimem-se.
