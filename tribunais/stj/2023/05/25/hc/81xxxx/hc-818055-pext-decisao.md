@@ -1,0 +1,16 @@
+DECISÃO
+Por meio da Petição n. 478.646/2023, Mirian de Paula Oliveira e Luciano Henrique de Paula Barbosa apresentam pedido de extensão dos efeitos da ordem concedida ao paciente Crystian Cesar Nazario Silva, a fim de substituir a prisão preventiva por outras medidas cautelares. Confira-se a ementa da decisão monocrática por mim proferida (fl. 130):
+HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. DESPROPORCIONALIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
+Argumenta-se, em resumo, que, considerando-se os motivos que fundamentam a decisão de V. Exa., pode-se concluir que esses também se estendem aos corréus, uma vez que as circunstâncias do crime são as mesmas para todos, Quanto às circunstâncias pessoais dos corréus, também se assemelham às do paciente beneficiado com a substituição da prisão preventiva, conforme documentos ora anexados (fl. 143).
+Ao final, a defensoria pública requer a extensão dos efeitos da decisão determinando a substituição da prisão por medidas alternativas a serem implementadas pelo magistrado singular aos corréus Luciano Henrique de Paula Barbosa e Mirian de Paula Oliveira (fl. 143).
+É o relatório.
+A hipótese em apreço legitima a invocação do art. 580 do Código de Processo Penal. De fato, os corréus estão na mesma condição fático-processual daquele já beneficiado com o habeas corpus.
+Observa-se que o Juízo de primeiro grau, ao homologar o flagrante e decretar a prisão preventiva, apresentou motivação conjunta para todos os envolvidos, sem fazer nenhuma diferenciação entre eles (fls. 57/62).
+Assim, evidenciada a identidade de situações, devem ser estendidos os efeitos do benefício concedido ao coacusado, uma vez que os requerentes estão submetidos à mesma situação de desproporcionalidade na imposição da medida extrema, diante da indicação genérica dos vetores contidos no art. 312 do Código de Processo Penal; da existência de condições pessoais favoráveis aos agentes do delito; e da ausência de circunstâncias que denotassem uma maior gravidade ou periculosidade social em seu desfavor.
+Em face do exposto, defiro o pedido de extensão para substituir a prisão preventiva dos requerentes por outras medidas alternativas a serem implementadas pelo Magistrado singular, consistentes em: a) comparecimento quinzenal em Juízo para informar e justificar suas atividades (art. 319, I, do CPP); b) proibição de manter contato com qualquer pessoa vinculada aos fatos objeto da ação penal (art. 319, III, do CPP); e c) proibição de ausentar-se da comarca sem autorização judicial (art. 319, IV, do CPP); isso sob o compromisso de comparecimento a todos os atos processuais e sem prejuízo da aplicação de outras cautelas pelo Juiz do processo ou de decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos novos e concretos para tanto.
+Comunique-se com urgência.
+Publiqu e-se.
+EMENTA
+PEDIDO DE EXTENSÃO EM HABEAS CORPUS. ORDEM CONCEDIDA A CORRÉU. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES. DESPROPORCIONALIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. INCIDÊNCIA DO ART. 580 DO CPP.
+Pedido deferido.
