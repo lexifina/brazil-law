@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interno interposto por ABASTECEDORA DE COMBUSTÍVEIS RODRIGUES FERREIRA LTDA. e LUIZ EDUARDO RODRIGUES FERREIRA (ABASTECEDORA e outro) contra decisão de relatoria da Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, em virtude da incidência da Súmula nº 284 do STF.
+Nas razões do presente inconformismo, ABASTECEDORA e outro alegaram que (1) foram violados os arts. 53, III, 330, I, § 1º, I, 337, IV e 485, I, todos do NCPC; (2) a cláusula de eleição de foro é impositiva, pois se trata de contrato de adesão; (3) se trata de pessoa jurídica com sede na cidade de Rio Grande/RS, onde a demanda deve ser julgada; e, (4) a inicial é inepta, uma vez que a agravada somente alegou ser credora de uma suposta dívida, sem arrolar material probatório robusto que embase sua alegação; o que enseja o reconhecimento da ausência de causa de pedir.
+Houve impugnação ao recurso (e-STJ, fls. 206/211).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+De fato, nas razões do agravo em recurso especial, ABASTECEDORA e outro impugnaram o óbice indicado na decisão agravada, tendo reiterado os termos do seu recurso.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto por ABASTECEDORA e outro.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, ABASTECEDORA e outro alegaram ofensa aos arts. 53, III, 330, I, § 1º, I, 337 e 485, I, todos do NCPC. Sustentaram que (1) a cláusula de eleição de foro é impositiva, pois se trata de contrato de adesão; (2) se trata de pessoa jurídica com sede na cidade de Rio Grande/RS, onde a demanda deve ser julgada; e, (3) a inicial é inepta, uma vez que a agravada somente alegou ser credora de uma suposta dívida, sem arrolar material probatório robusto que embase sua alegação; o que enseja o reconhecimento da ausência de causa de pedir.
+Foram apresentadas contrarrazões (e-STJ, fls. 108/122).
+O inconformismo não merece prosperar.
+No tocante à tese de incompetência do juízo
+ABASTECEDORA e outro alegaram ofensa aos arts. 53, III e 337 do NCPC. Sustentaram que (1) a cláusula de eleição de foro é impositiva, pois se trata de contrato de adesão; e, (2) se trata de pessoa jurídica com sede na cidade de Rio Grande/RS, onde a demanda deve ser julgada.
+Sobre o tema, a Corte local assim consignou:
+Saliento, inicialmente, que a relação jurídica havida entre as partes não é de consumo, ou seja, o Código de Defesa do Consumidor é inaplicável ao caso. Os agravantes não se enquadram no conceito de consumidor previsto no artigo 2º do CDC (destinatário final do produto ou serviço),porque as atividades que desempenham voltam-se ao comércio a varejo de combustíveis e lubrificantes para veículos automotores, serviços de lubrificação de veículos e transporte rodoviário de produtos perigosos (Evento 1 - CONTRSOCIAL4 dos autos originários). Tampouco há que se falar em hipossuficiência, pois inexistem razões de ordem econômica e/ou técnica que indiquem um desequilíbrio excessivo na sua relação com a agravada.
+Na competência territorial, que é relativa e não absoluta, a regra de competência do artigo 53, inciso III, alínea "a" do Código de Processo Civil não prevalece sobre a cláusula de eleição de foro plenamente válida, que, no caso dos autos, estabelece como competente o foro da Comarca de Caxias do Sul e que consta da carta de fiança assinada pelas partes (Evento 1 - OUT3 dos autos do processo executivo). Aplica-se ao caso o artigo 63, caput, do CPC: "as partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta ação oriunda de direitos e obrigações".
+Incide igualmente a Súmula n.º 335 do STF, que estatui que "é válida a cláusula de eleição do fôro para os processos oriundos do contrato" (e-STJ, fl. 71).
+Nesse sentido, o TJRS, soberano na análise fática-probatória dos autos e em observância à cláusulas contratuais, concluiu que, na carta de fiança assinada pelas partes ficou estipulada a Comarca de Caxias do Sul/RS e que, na competência territorial, não havendo relação de consumo, incidem os arts. 63 do NCPC e a Súmula nº 335 do STF.
+Dessa forma, afastar a afirmação contida no acórdão atacado quanto à prevalência do foro da Comarca de Caxias do Sul (cláusula de eleição de foro), no caso concreto, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das mencionadas Súmulas n.ºs 5 e 7 do STJ: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, seguem os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPETÊNCIA. FORO DE ELEIÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. LOCAL DA SEDE DA EMPRESA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior entende que é competente o foro de eleição contratual para a propositura de qualquer ação dele decorrente, mesmo quando protestado título de crédito atinente a esse contrato em localidade diversa da eleita. Precedentes.
+2. Na hipótese, Tribunal a quo, após o exame acurado dos autos, das provas, da natureza da avença e da interpretação das cláusulas contratuais, concluiu que o contrato possui cláusula de eleição de foro, na qual se elege a comarca em que está situada a sede da empresa, que por sua vez é em Belo Horizonte/MG.
+3. A modificação da conclusão do Tribunal de origem sobre a cidade em que está sediada a empresa demandaria o revolvimento do suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.672.925/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTERESSE DE AGIR. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.980.563/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TRANSPORTE MARÍTIMO. DEVOLUÇÃO DE CONTÊINER. ATRASO. INCOMPETÊNCIA TERRITORIAL. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O tribunal de origem afastou a preliminar de incompetência territorial e reconheceu a validade da cláusula de eleição de foro.
+3. Na hipótese, rever o entendimento do acórdão recorrido demandaria o revolvimento dos elementos fático-probatórios dos autos e a interpretação de cláusula contratual, procedimentos inviáveis em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.331.373/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/4/2019, DJe de 24/4/2019)
+No tocante à alegação de inépcia da inicial
+Outrossim, ABASTECEDORA e outro alegaram contrariedade dos arts. 330, I, § 1º, I, e 485, I, todos do NCPC. Sustentaram que a inicial é inepta, uma vez que a agravada somente alegou ser credora de uma suposta dívida, sem arrolar material probatório robusto que embase sua alegação; o que enseja o reconhecimento da ausência de causa de pedir.
+O Tribunal estadual, no entanto, esclareceu estar apta a inicial, conforme se vê do seguinte trecho:
+Quanto à alegação de inépcia da petição inicial por ausência de prova do inadimplemento da obrigação, verifico que a exequente juntou aos autos as notas fiscais e respectivos boletos, bem como a comprovação do protesto dos títulos (Evento 1 - NFISCAL4 e Evento 1 - OUT5 dos autos do processo executivo), documentos que, em uma primeira análise, bastam para a propositura da ação de execução.
+Diante dos elementos juntados, cabe aos embargantes fazer prova da quitação dos títulos, ou mesmo de sua nulidade, o que não está demonstrado nos autos.
+Assim, as circunstâncias justificam a reafirmação da criteriosa decisão do juízo, cujos fundamentos não são superados pelas alegações recursais (e-STJ, fls. 71/72).
+Nesse contexto, o Tribunal de Justiça do Rio Grande do Sul , soberano na análise do contexto fático-probatório, concluiu pela aptidão da inicial para embasar a propositura da ação de execução.
+Por isso, conforme se nota, o TJRS assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ilustrativamente, confiram-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INÉPCIA DA INICIAL. ALEGAÇÃO DE PEDIDO GENÉRICO. JULGAMENTO EXTRA PETITA. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. QUESTÕES CUJA CONCLUSÃO DO ACÓRDÃO RECORRIDO DECORREU DO EXAME DE PROVAS DOS AUTOS. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA MULTIDISCIPLINAR. COBERTURA. OBRIGATORIEDADE. ROL DA ANS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, a conclusão alcançada pelo Tribunal de origem, no que se refere às alegações de inépcia da inicial, julgamento extra petita e cerceamento de defesa, decorreu da análise dos elementos fáticos e probatórios da causa, cujo reexame é vedado nesta via excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. A Segunda Seção desta Corte, no julgamento dos EREsp n.º 1.889.704/SP, relator Ministro Luis Felipe Salomão, julgado em 8/6/2022, reafirmou o dever da operadora do plano de saúde em custear, de forma ilimitada, as sessões de tratamento para os beneficiários com diagnóstico de "Transtorno do Espectro Autista".
+Incidência da Súmula n.º 568 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.049.900/SP, de minha relatoria, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito está devidamente instruído com os documentos trazidos pelas partes.
+Precedentes.
+2. O acolhimento do inconformismo recursal, no sentido de aferir a suficiência das provas constantes dos autos, bem como analisar a existência do apontado cerceamento de defesa implicaria no revolvimento de todo o contexto fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+3. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual. Incidência da Súmula 283/STJ.
+4. Para rever o entendimento do Tribunal de origem quanto à tese de inépcia da inicial, na forma como posta, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial pelo óbice da Súmula 7/STJ. Precedentes.
+5. A ausência de enfrentamento das teses de incidência da legislação consumerista e da exceção de contrato não cumprido, pelo Tribunal de origem, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidência da Súmula 211/STJ.
+6. Consoante entendimento pacífico nesta Corte Superior, nas hipóteses em que a dívida é líquida e com vencimento certo, os juros de mora e a correção monetária devem incidir desde o vencimento da obrigação. Incidência da Súmula 83/STJ.
+7. A Corte de origem, após apreciar o contrato pactuado pelas partes e os contornos fáticos da lide, concluiu que inexistia previsão contratual de multa à autora caso os equipamentos não fossem retirados no prazo de dez dias a partir da rescisão, razão pela qual o depósito desse período presume-se gratuito, não havendo se falar em ofensa ao art. 628 do Código Civil. Derruir tal conclusão é inviável em sede de recurso especial, ante a incidência das Súmulas 5 e 7 do STJ.
+8. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.991.361/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022)
+Nessas condições, dou provimento ao agravo interno para CONHECER do agravo, mas NÃO CONHECER do recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente à majoração da verba honorária, porque não fixada nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. EMBARGOS À EXECUÇÃO. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. FORO DE ELEIÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. INÉPCIA DA INICIAL NÃO CONFIGURADA. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
