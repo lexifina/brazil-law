@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Maria Aparecida dos Santos e outros, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado (e-STJ, fl. 735):
+DIREITO CIVIL. AGRAVO DE INSTRUMENTO. DOAÇÃO DE BENS A HERDEIRO NECESSÁRIO. AUSÊNCIA DE DISPENSA EXPRESSA DA COLAÇÃO DOS BENS. INDÍCIOS DE ANTECIPAÇÃO DE HERANÇA. PRESCRIÇÃO QUE NÃO SE VERIFICA. TERMO INICIAL A CONTAR DO ÓBITO DO AUTOR DA HERANÇA. AUSÊNCIA DE VEROSSIMILHANÇA DAS ALEGAÇÕES. RECURSO CONHECIDOE DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 767-783), as agravantes alegaram violação aos arts. 1.176, 1.788 e 2.028 do CC de 1916 e 205, 579 e 2.005 do CC de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentaram, em síntese, a legalidade das doações contestadas, uma vez que ocorreram da parte disponível dos bens do doador, não caracterizando antecipação de herança.
+Destacaram, ainda, que, no caso de se constatar a ilegalidade das doações, ou seja doação inoficiosa, deve ser reconhecida a prescrição do direito de ação, tendo em vista que o termo inicial é a data do ato da doação (22/12/1981).
+Requereram, dessa forma, o provimento do recurso.
+O processamento do apelo especial não foi admitido pela Corte local, levando as insurgentes a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 938-952).
+Parecer do MPF pelo não provimento do recurso (e-STJ, fls. 969-972).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que concerne à alegada ilegitimidade da colação dos bens, o TJRN dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 737-738):
+Contudo, não é possível verificar, no presente instante processual se referido patrimônio doado às recorrentes integraria a parte disponível do patrimônio do Sr. José Batista dos Santos.
+Validamente, no caso concreto dos autos não consta de forma expressa que as doações em questão faziam parte de sua quota-parte disponível, sendo tal exigência prevista no art. 1.789 do Código Civil de 1916, vigente à época dos fatos.
+Na situação em análise, não é possível aferir através da documentação apresentada, no presente instante processual, que houve expressa dispensa de colação ou referência à parte disponível dos bens doados e descritos na exordial, de modo que se mostra coerente a colação dos bens em questão.
+Oportunamente, tem a jurisprudência pátria firmado entendimento de que a doação de bens e valores entre ascendente e descendente, sem a expressa dispensa de colação, configura, em tese, antecipação da legítima, de modo que se mostra correta a decisão guerreada.
+( )
+Desta feita, conforme asseverado na decisão que apreciou o pedido liminar "não cuidam os recorrentes em demonstrar a inaplicabilidade de tal regra, nem tampouco o cumprimento de tal disposição pelo doador. Ou seja, não se trata de presunção sobre a necessidade de colação de referidos bens, mas de ausência de prova de cumprimento de disposição legal que tornariam tais doações legítimas, especificamente, de que as doações teriam sido realizadas sobre a parte disponível do doador."
+Depreende das informações acima colacionadas que o Tribunal estadual concluiu que não ficou comprovado nos autos a dispensa de colação ou referência à parte disponível dos bens doados e descritos na exordial, sendo o caso, portanto, da colação dos bens em discussão.
+Diante dessa conclusão, para desconstituir a convicção formada pelo colegiado a quo, entendendo pela legalidade da doação dos bens, seria indispensável o reexame de fatos e provas, providência inadmitida na via extraordinária, ante o óbice do enunciado n. 7 da Súmula do STJ.
+Quanto à suscitada prescrição, a Corte local assim se manifestou (e-STJ, fl. 738):
+Igualmente não resta devidamente demonstrada a ocorrência da prescrição, uma vez que o termo inicial, conforme delineado na decisão recorrida, tem início na data do óbito do autor da herança, uma vez que a pretensão inicial é para colação de bens.
+Conforme é possível verificar, o fundamento adotado pela instância originária (o termo inicial é a data do óbito, tendo em vista que a pretensão inicial é a colação de bens) não foi objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVA - CONDENATÓRIA - DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL NAS ORDENS DE PAGAMENTO. FUNDAMENTO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS DO ARTS. 255, §§ 1º e 2º, DO RISTJ e 1.029, § 1º do CPC/2015 NÃO CUMPRIDOS. DECISÃO MANTIDA.
+1. Inviável a análise de ofensa aos dispositivos constitucionais sob pena de usurpação da competência reservada à Corte Suprema.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Não se conhece do recurso interposto pela alínea "c" do permissivo constitucional, quando a divergência não é demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os supostos casos que deveriam ser apresentados e confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1909651/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2022, DJe 28/03/2022).
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas. Isso porque as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DOAÇÃO DE BENS A HERDEIRO NECESSÁRIO. AUSÊNCIA DE DISPENSA EXPRESSA DA COLAÇÃO DOS BENS. INDÍCIOS DE ANTECIPAÇÃO DE HERANÇA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. PRESCRIÇÃO AFASTADA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
