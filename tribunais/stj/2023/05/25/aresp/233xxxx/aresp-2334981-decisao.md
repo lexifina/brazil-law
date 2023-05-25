@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por PRESENCE INDUSTRIA E COMERCIO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RECURSO - AGRAVO DE INSTRUMENTO - SEGURO FIANÇA - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - REGRESSIVA - JUSTIÇA GRAUTITA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC e 5º, XXXV e LV, da CF, no que concerne à comprovação nos autos de que a recorrente faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+No momento da oposição dos embargos à execução houve o pleito de concessão da gratuidade; tendo a Recorrente juntado declaração de ausência de faturamento desde 2019 emitida pelo seu contador.
+ ..
+Com o indeferimento da gratuidade, afastando-se a declaração do contador, estamos diante da ofensa aos artigos 98 e 99, §2º, ambos do CPC, e, reflexamente, aos incisos XXXV e LV do artigo 5º, Constituição Federal; uma vez que como contido na decisão de Primeira Instância haverá a extinção do processo e as matérias de defesa arguidas pela Recorrente sequer serão analisadas, inviabilizando o acesso ao Poder Judiciário e que tenha a ampla defesa e contraditório!!
+ ..
+Todavia, houve, novamente, a juntada da declaração do contador da empresa, demonstrando-se a ausência de faturamento, declaração colacionada na peça processual do agravo, juntada em documentos posteriores e transcrita alhures.
+ ..
+Evidenciado que a Recorrente faz jus a pleitear a concessão da gratuidade, eis que se trata de pessoa jurídica com insuficiência financeira, nos termos do contido no artigo 98, CPC, transcrito acima.
+ ..
+A Recorrente não detém de R$ 6.657,39 (seis mil, seiscentos e cinquenta e sete reais e trinta e nove centavos) para arcar com o pagamento das custas processuais, eis que como declarado por seu contador, está sem faturamento desde o ano de 2019!!
+Com a manutenção do v. acórdão estaremos diante de ofensa dos artigos infraconstitucionais alhures mencionados (98 e 99, §2º, ambos do CPC); além da ofensa reflexa ao Princípio da Inafastabilidade do Poder Judiciário e ao Princípio da Ampla Defesa e Contraditório, uma vez que a Recorrente será privada de ter a análise de sua matéria de defesa, que foi apresentada nos embargos à execução, que serão indeferidos e extintos com a ausência da juntada das custas processuais, no importe de R$ 6.657,39 (seis mil, seiscentos e cinquenta e sete reais e trinta e nove centavos).
+(fls. 306/309).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, com relação ao disposto no art. 5º, XXXV e LV, da CF, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, chamada a demonstrar documentalmente a impossibilidade de arcar com os encargos processuais (mediante apresentação de sua declaração de imposto de renda recente, balanço contábil recente, assinado por contador habilitado, comprovantes de receitas e de despesas recentes, extratos de movimentações bancárias recentes, etc.), a agravante se quedou inerte.
+Assim, não se interessando a agravante em comprovar a sua alegada hipossuficiência financeira para fins de obtenção da gratuidade de justiça, o recurso não deve ser provido (fl. 291).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
