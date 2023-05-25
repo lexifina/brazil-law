@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Fls. 507/529e - Trata-se de Agravo Interno (art. 1.021 do CPC/2015) interposto contra decisão monocrática mediante a qual não conheci do Recurso Especial, porquanto ausentes alegações idônea s a infirmar os fundamentos adotados pelo tribunal de origem (fls. 499/503e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que o Recurso Especial seja novamente analisado.
+Trata-se de Recurso Especial interposto por GLADENICE POLETTO, contra acórdão prolatado, por unanimidade, pela 7ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de Agravo Interno, assim ementado (fls. 362/369e):
+PREVIDENCIÁRIO - AGRAVO DE INSTRUMENTO - HONORÁRIOS ADVOCATÍCIOS - ILEGITIMIDADE DA AGRAVANTE - AGRAVO INTERNO PREJUDICADO.
+1. "Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico" (artigo 18, do Código de Processo Civil).
+2. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor (artigo 23, da Lei Federal nº 8.906/94).
+3. Apenas o advogado tem legitimidade ativa para postular a verba honorária. Precedentes.
+4. Agravo interno desprovido.
+Com amparo no art. 105, III, a e c, da Constituição da República, aponta-se, além de divergência jurisprudencial, ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese:
+i. Arts. 6º, 85, § 1º, 282, 283, 1.005 e 1.007, § 4º, do Código de Processo Civil de 2015, bem como 23 e 24, § 1º, da Lei n. 8.906/1994 - legitimidade concorrente da parte e do respectivo advogado para a cobrança em juízo dos honorários sucumbenciais; e
+ii. Arts. 10 e 932, parágrafo único, do Código de Processo Civil de 2015 - necessidade de oportunizar a retificação do polo ativo da demanda, no prazo legal de 05 (cinco) dias, a fim de possibilitar o saneamento de vício em recurso interposto na origem.
+Sem contrarrazões, o recurso foi inadmitido (fls. 424/426e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 492e).
+O Recurso Especial comporta acolhimento.
+Esta Corte pacificou o entendimento segundo o qual a parte possui legitimidade para a execução da verba honorária, consoante se depreende da parte final Súmula n. 306/STJ: "os honorários advocatícios devem ser compensados quando houver sucumbência recíproca, assegurado o direito autônomo do advogado à execução do saldo sem excluir a legitimidade da própria parte". Confiram-se, nessa linha, os seguintes julgados:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. OFENSA À COISA JULGADA - ART. 485, INCISO IV, DO CPC. HONORÁRIOS ADVOCATÍCIOS EM EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO ORDINÁRIA VISANDO À CORREÇÃO MONETÁRIA DOS SALDOS DE CONTAS VINCULADAS AO FGTS. LEGITIMIDADE PASSIVA DA PARTE ORIGINÁRIA. DECADÊNCIA. NÃO OCORRÊNCIA. INAPLICABILIDADE DA SÚMULA 343/STF. DECISÃO RESCINDENDA QUE CONFLITA COM A ORIENTAÇÃO FIRMADA EM ACÓRDÃO ANTERIORMENTE TRANSITADO EM JULGADO. PROCEDÊNCIA DO PEDIDO.
+1. Consoante entendimento consolidado no Superior Tribunal de Justiça, a legitimação especial conferida ao causídico pelo art. 23 da Lei n. 8.906/94 para executar a verba sucumbencial não exclui a legitimidade ordinária da parte vencedora para reclamá-las em juízo, notadamente quando inexistente conflito entre eles. Pelas mesmas razões, ambas as partes também são partes legítimas para integrar a ação rescisória em que se discute os próprios honorários. Assim, apesar de não ser possível afastar o interesse do advogado dos requeridos em integrar o polo passivo da presente rescisória tendo em vista o seu objeto - cabimento ou não de honorários advocatícios em ação na qual se discute a correção monetária dos saldos de contas vinculadas ao FGTS, não se pode afastar a legitimidade daqueles que foram partes integrantes do processo originário, que poderiam promover a execução da verba honorária em nome próprio. Não há, portanto, como afastar a legitimidade da parte vencedora da demanda originária para responder ao pleito rescisório.
+(..)
+8. Pedido rescisório procedente.
+(AR 3.273/SC, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 18/12/2009 - destaque meu).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO. LEGITIMIDADE CONCORRENTE ENTE PARTE E CAUSÍDICO. SÚMULA 83/STJ. REVISÃO DE CONTEÚDO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. O aresto recorrido está em conformidade com a jurisprudência desta Corte, sedimentada no sentido de ser concorrente entre a parte vencedora e os advogados constituídos a legitimidade ativa para a propositura de execução de honorários advocatícios, conforme orienta a Súmula 306/STJ.
+2. Rever a conclusão de que "o Município Apelante tanto fora condenado ao pagamento de férias simples quanto proporcionais, em ambos os casos acrescidas do terço legal", esbarra na orientação fixada pela Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 648.267/SE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/10/2015, DJe 11/11/2015 - destaque meu).
+Acerca da execução da verba honorária, esta Corte adota a orientação segundo a qual os honorários advocatícios pertencem exclusivamente ao advogado, nos termos do art. 23 da Lei n. 8.906/1994. Assim sendo, a renúncia ou acordo realizado entre as partes litigantes somente atinge a verba honorária se o causídico anuir com tal deliberação.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. DÉBITO DE NATUREZA ALIMENTÍCIA. ACÓRDÃO DECIDIDO POR FUNDAMENTOS DE ÍNDOLE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. TITULARIDADE, EM PRINCÍPIO, DO ADVOGADO DA PARTE VENCEDORA, PERMITIDA CONVENÇÃO EM SENTIDO CONTRÁRIO. POSSIBILIDADE DA EXPEDIÇÃO DE PRECATÓRIO DISTINTO PARA A VERBA DE SUCUMBÊNCIA. DIREITO AUTÔNOMO DO ADVOGADO.
+1. A questão em torno da natureza da verba recebida a título de honorários de sucumbência - se possui ou não caráter alimentício - foi decidida pela Corte de origem por fundamentos de índole eminentemente constitucional, insuscetíveis de apreciação em sede de recurso especial.
+2. A análise de matéria constitucional, em sede de recurso especial, é alheia à competência atribuída a esta Superior Corte de Justiça, a teor do disposto no art. 105, III, da Constituição Federal.
+3. A Lei 8.906/94 (Estatuto da Ordem dos Advogados do Brasil), ao contrário da legislação anterior que disciplinava a matéria, modificou a titularidade das verbas recebidas a título de honorários de sucumbência, passando-as da parte vencedora para o seu respectivo advogado.
+4. Até prova em contrário, os honorários sucumbenciais são devidos ao advogado da parte vencedora, "tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor", independentemente da juntada de cópia do contrato de prestação de serviços advocatícios.
+5. Recurso especial parcialmente provido.
+(REsp 659.293/SP, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 04/04/2006, DJ 24/04/2006 - destaques meus).
+PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 23 DA LEI N.º 8.906/94. ESTATUTO DA ADVOCACIA. AUTONOMIA DO DIREITO À PERCEPÇÃO DE HONORÁRIOS ADVOCATÍCIOS.
+1. Nos termos dos arts. 23 e 24, § 4.º, da Lei n.º 8.906/94, o advogado tem direito autônomo de executar a sentença no tocante aos honorários de sucumbência, sendo certo, ainda, essas verbas não se confundem com os honorários advocatícios arbitrados entre a parte e seu patrono, por instrumento particular. Precedentes.
+2. A renúncia ou acordo entre as partes não presume a dissolução do direito dos advogados à percepção dos honorários advocatícios, porquanto esses são decorrentes de sentença transitada em julgado. Precedentes.
+3. Recurso especial conhecido e provido.
+(REsp 898.316/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010).
+Na mesma linha: AgRg no REsp 1.416.588/RS, Rel. Ministro Humberto Martins, 2ª T., julgado em 05.12.2013, DJe 16.12.2013.
+Posto isso, nos termos do § 2º do art. 1.021 do Código de Processo Civil, RECONSIDERO a decisão de fls. 499/503e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 507/515e, e com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para reconhecer a legitimidade da parte recorrente quanto aos honorários, nos termos acima expo stos.
+Publique-se e intimem-se.
