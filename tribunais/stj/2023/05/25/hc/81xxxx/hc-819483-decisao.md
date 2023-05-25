@@ -1,0 +1,108 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário impetrado em favor de TONY CLAYTON DE OLIVEIRA PINTO contra acórdão da 3ª Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou outro writ impetrado perante aquela Corte.
+O impetrante diz que foi preso em flagrante pela suposta prática de crime de roubo, suscitando as seguintes teses: 1) os policiais militares que efetuaram a prisão agrediram e torturaram o acusado, embora ele não tivesse resistido, além de deixarem de filmar o ato, mesmo obrigados a tanto, e de impedirem que as pessoas o fizessem; 2) a ponderação entre o direito à liberdade, amparado na presunção de inocência, e a necessidade da prisão cautelar deve ser feita pela proteção àquele, tendo em vista a hipossuficiência de qualquer investigado em relação ao Estado; 3) não há risco de fuga para o exterior nem existem vínculos do acusado com organizações criminosas; 4) são cabíveis cautelares menos graves que a prisão, sob pena de violação aos princípios da homogeneidade, proporcionalidade, razoabilidade e, novamente, presunção de inocência; 5) o paciente comprovou o exercício de trabalho honesto e endereço fixo, tendo ainda profissão lícita e definida. Requer o relaxamento da prisão, com base no art. 310, I, do CPP, ou, subsidiariamente, a revogação da prisão preventiva, ainda que mediante a imposição de cautelares menos graves (e-STJ, fls. 3 a 14).
+O pedido de concessão de liminar foi indeferido (e-STJ, fl. 82).
+A autoridade judicial de origem prestou suas informações, ocasião em que expôs que as suas razões para decretar a prisão preventiva do acusado. Disse, outrossim, que ele foi denunciado pela suposta prática de roubo circunstanciado pelo concurso de agentes, pela restrição da liberdade da vítima e pelo emprego de arma branca e de do fogo (e-STJ, fls. 88 e 89). Já o órgão de 2º grau limitou-se a encaminhar cópia do acórdão impugnado (e-STJ, fls. 91 a 110).
+O Subprocurador-Geral da República, por último, emitiu parecer pela denegação da ordem. Afirmou que a prisão é necessária para a garantia da ordem pública e para assegurar a aplicação da lei penal, além de dizer que não é possível sua substituição por cautelares diversas (e-STJ, fls. 115 a 118).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto, impondo-se o não conhecimento da presente impetração, uma vez que seria cabível a interposição de recurso ordinário.
+Ademais, fora a arguição de agressão e tortura quando da realização do flagrante, todas as demais assertivas são completamente genéricas, apresentada sem nenhum diálogo com o acórdão que visa impugnar. Com efeito, da forma efetuada o conteúdo de tais afirmações poderiam servir indistintamente para qualquer peça que impugnasse um decreto de prisão, mediante o simples uso das ferramentas copiar e colar, o que não pode ser aceito.
+A respeito da interposição de recursos sem fundamentação pormenorizada e com alegações genéricas, aplicáveis a quaisquer outros casos, confira-se o entendimento desta Corte, aplicável também ao habeas corpus em face do mesmo raciocínio jurídico:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+ ..
+(AgRg nos EDcl no AREsp 1742926/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021; grifou-se).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RECURSO ORDINÁRIO INDEFERIDO LIMINARMENTE POR SER MERA REITERAÇÃO DE HABEAS CORPUS JÁ APRECIADO PELA QUINTA TURMA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+(AgRg no RHC 139.723/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021; grifou-se).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  .. . WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. FUNDAMENTAÇÃO DO DECRETO PRISIONAL. GRAVIDADE CONCRETA. FAZER CESSAR ATIVIDADE CRIMINOSA.  .. . AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não sendo suficientes meras alegações genéricas ou a insistência no mérito da controvérsia. Precedentes.
+ ..
+10. Agravo regimental não conhecido.
+(AgRg no HC 615.038/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/10/2020, DJe 26/10/2020; grifou-se).
+Por sua vez, a tese de sofrimento de agressão e tortura por parte do paciente também não pode ser conhecida. Ao contrário do mencionado pela defesa, a decisão que decretou a prisão narrou a ocorrência de resistência por parte do paciente, que teria tentado se esconder em um bueiro, o que inclusive exigiu uma complexa atuação policial, com uso até de uma aeronave para localizar e prender os autores do crime (e-STJ, fls. 59 e 89). Se algum ferimento aconteceu, também é possível que ele tenha decorrido dessa situação, sendo certo que não cabe a este Tribunal Superior efetuar uma minuciosa análise das provas produzidas nos autos para verificar o que efetivamente aconteceu, conforme a ratio decidendi do julgado a seguir ementado:
+RECURSO EM HABEAS CORPUS. SEQUESTRO. CONSTITUIÇÃO DE MILÍCIA PRIVADA. HOMICÍDIO MAJORADO. OCULTAÇÃO DE CADÁVER. NEGATIVA DE AUTORIA. ANÁLISE FÁTICO-PROBATÓRIA.  .. . CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO. RECOMENDAÇÃO.
+1. A análise da tese defensiva relativa à negativa de autoria demanda o exame aprofundado de todo conjunto probatório como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória. Precedentes.
+ ..
+9. Recurso ordinário em habeas corpus desprovido.
+Expeça-se recomendação ao magistrado de primeiro grau para imprimir esforços na conclusão da Ação Penal n. 016997-57.2018.8.19.0001.
+(RHC 124.653/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/09/2020, DJe 21/09/2020; grifou-se).
+De toda forma, ainda que os dois motivos que impedem o conhecimento do writ pudessem ser superados, o que se diz apenas para argumentar, a defesa não teria razão no mérito da impetração.
+Primeiro, porque a sua alegação de realização de tortura não teria acontecido para viabilizar a realização da prisão do paciente, mas apenas depois da sua concretização, o que teria que ser solucionado na via própria que viesse a apurar a responsabilidade civil, administrativa e penal das autoridades policiais envolvidas, mas sem prejuízo da homologação do flagrante.
+Segundo, porque eventual ilegalidade do flagrante, malgrado tivesse que ser apurada, não impediria a decretação da prisão preventiva, a qual foi corretamente determinada pelo juiz de origem e adequadamente confirmada no Tribunal de Justiça. Nessa trilha:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL.  .. . RELAXAMENTO DA PRISÃO EM FLAGRANTE. POSTERIOR DECRETAÇÃO DA PRISÃO PREVENTIVA. POSSIBILIDADE.  .. . AGRAVO DESPROVIDO.
+ ..
+3. A jurisprudência desta Corte Superior orienta no sentido de que o reconhecimento da ausência de estado flagrancial, como ocorreu na hipótese em apreço, não impede a análise dos elementos validamente colhidos pela Autoridade Policial e a posterior decretação da prisão preventiva, inclusive porque houve pedido expresso do Ministério Público pela prisão do Agravante.
+ ..
+7. Agravo desprovido.
+(AgRg no RHC n. 171.308/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022; grifou-se).
+Ora, a teor do disposto no art. 312, caput, do Código de Processo Penal, havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso, o decreto de prisão foi fundamentado, no que mais importa para esta decisão, nos seguintes termos:
+Outrossim, na esteira do decidido pela magistrada plantonista, verifico que a materialidade do delito está amplamente provada, o que também se verifica quanto aos indícios da autoria, os quais apontam em desfavor dos autuados, presos momentos após os fatos, tendo sido reconhecidos pelas vítimas e inclusive indicado o local da res furtiva e dos instrumentos do crime.
+ ..
+Ora, conforme narrado por Adriano Marcelo da Silva, os acusados, no modus operandi empregado, valeram-se de extrema violência.
+Como a vítima narra, em seu depoimento, encostaram não só uma faca em seu pescoço, quando da invasão da residência, como também apontaram uma espingarda para sua cabeça
+Outrossim amarraram não só ele, em suas mãos e pernas, como também a outra vítima, Sr. Maria Elisabete Baima de Castro que sequer conseguiu ir na delegacia prestar seu depoimento por estar extremamente abalada com o ocorrido.
+ ..
+Registro que a frustrânea tentativa foi empreendida também quando de suas abordagens, notadamente com o exercício da infausta tentativa de esconderem-se em um bueiro, sendo necessária inclusive a utilização de aeronave da Polícia Militar, evidenciando a complexidade da ação policial que, para além do esforço acima regular para deslindar a localização dos réus, ainda encontraram resistência durante a prisão.
+Não fosse apenas a violência, o modus operandi, há que salientar, ainda, no caso em tela, que dois dos autuados (Tony e Leonardo) já são conhecidos do meio policial, inclusive encontrando-se em cumprimento de pena nesta comarca (processos nºs. 4400079-97.2021.8.13.0056 e 4400081-67.2021.8.13.0056, respectivamente emID"s 9723095000e 9723092957), evidenciando, pois, a reincidência, circunstância que também autoriza suas prisões preventivas, consoante o disposto no art. 313, inciso II, do CPP (e-STJ, fls. 58 e 59; grifou-se).
+Como se vê, há indicação de uma série de elementos probatórios que demonstram a presença não apenas do fumus comissi delicti como também do periculum libertatis. Este diante da necessidade da prisão para a garantia da ordem pública, diante da gravidade concreta da conduta, maior que a de outros roubos mais normais, como também para assegurar a aplicação da lei penal, diante da evasão do paciente, que teve que ser encontrado mediante uso de grande aparato policial.
+A validade da prisão para a garantia da ordem pública, em face da gravidade concreta da conduta, tem sido aceita pela jurisprudência:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA E FUGA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. É firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC n. 582.326/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta.
+ .. .
+3. Agravo regimental improvido.
+(AgRg no HC n. 786.613/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023; grifou-se).
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. AÇÕES EM CURSO. RISCO DE REITERAÇÃO DELITIVA.  .. . AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, ante a "a gravidade concreta da conduta, evidenciada pelo o modus operandi do crime - roubo praticado em concurso de quatro agentes, à luz do dia, com o manejo de simulacros de arma de fogo, a objetivar maior intimidação; o risco de reiteração delitiva e a periculosidade dos agentes, em virtude de extensa ficha criminal, consistentes na prática de atos infracionais, ações penais em andamento, além de execuções penais ainda não cumpridas, foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva e justificam a imposição da medida extrema em detrimento das demais cautelares substitutivas", o que indica a probabilidade de repetição de condutas tidas por delituosas e revela a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva.
+ ..
+Agravo Regimental desprovido.
+(AgRg no HC n. 766.891/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 22/2/2023; grifou-se).
+O mesmo se diga em relação à fuga como motivo que justifica a prisão preventiva para assegurar a aplicação da lei penal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. DIREITO DE RECORRER EM LIBERDADE. MODUS OPERANDI, CONTUMÁCIA DELITIVA E FUGA. PRISÃO PREVENTIVA MANTIDA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. SÚMULA N. 691/STF NÃO SUPERADA. DECISÃO MANTIDA.
+ ..
+2. "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+3. A tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva.
+ .. .
+5. Agravo regimental improvido.
+(AgRg no HC n. 770.017/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023; grifou-se).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No caso examinado, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma de fogo e em concurso de agentes, sem contar o fato de que houve, por aproximadamente uma hora, fuga em alta velocidade. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado.
+ .. .
+9. Agravo regimental não provido.
+(AgRg no HC n. 759.670/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 21/12/2022; grifou-se).
+A propósito, vale notar que o julgamento no AgRg no HC n. 770.017/PR, Sexta Turma, cuja ementa foi acima transcrita, também demonstra que a reincidência do paciente igualmente justifica a manutenção da sua prisão preventiva. Daí ser irrelevante verificar se há risco de fuga para o exterior ou se há envolvimento com organização criminosa.
+Destarte, considerando a natureza cautelar da prisão, por vários motivos diferentes, não há que se falar em ofensa à presunção de inocência, muito menos à proporcionalidade, razoabilidade ou homogeneidade.
+Diante dos elementos que demonstram a presença do periculum libertatis necessário à prisão preventiva, não se pode falar em sua substituição por nenhuma das medidas cautelares menos gravosas. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO OIRDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. INCOMPATIBILIDADE DA PRISÃO CAUTELAR E O REGIME PRISIONAL FIXADO. OCORRÊNCIA. EPIDEMIA DE COVID-19. ATENDIMENTO ADEQUADO PELO SISTEMA PRISIONAL. AGRAVO DESPROVIDO.
+ ..
+3. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. No caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do agravante indica que a ordem pública não estaria acautelada com sua soltura.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 155.436/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022; grifou-se).
+HABEAS CORPUS. OPERAÇÃO HEXAGRAMA. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO ATIVA. CORRUPÇÃO PASSIVA. EXPLORAÇÃO ILEGAL DE JOGOS DE AZAR. PRISÃO PREVENTIVA. NULIDADE. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO CONFIGURAÇÃO. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. HABEAS CORPUS CONHECIDO EM PARTE. ORDEM DENEGADA.
+ ..
+7. Com base nos elementos descritos, que denotam o risco de reiteração delitiva. nota-se a insuficiência e a inadequação da substituição da custódia provisória por cautelares diversas, porquanto tais medidas não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do CPP).
+8. Habeas corpus conhecido em parte. Ordem denegada.
+(HC 667.157/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/10/2021, DJe 22/10/2021; grifou-se).
+De igual modo, havendo motivos para a custódia preventiva, eventuais condições pessoais favoráveis do acusado não conduzem necessariamente à concessão da sua liberdade provisória. No mesmo caminho:
+PENAL. HABEAS CORPUS. SUPOSTA PRÁTICA DO CRIME DE ROUBO CIRCUNSTANCIADO. PRISÃO EM FLAGRANTE CONVERTIDA PARA PREVENTIVA. INDÍCIOS DE AUTORIA E MATERIALIDADE. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE CONCRETA DO DELITO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A decisão mostra-se amparada na gravidade concreta do delito, porquanto o Magistrado fez menção ao fato de ter o paciente feito as vítimas reféns e à gravidade do delito, o que de fato ocorreu como pode ser visto na denúncia, tendo o paciente agido além do necessário para o cometimento do delito de roubo circunstanciado.
+2. Não obstante a alegação de possuir o paciente condições pessoais favoráveis como ser primário, ter residência fixa e profissão definida, cumpre frisar que as condições subjetivas favoráveis apontadas, por si sós, não impedem a constrição cautelar, se existirem motivos para a decretação da prisão preventiva.
+3. Ordem de habeas corpus denegada.
+(HC 360.420/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/04/2017, DJe 17/04/2017; grifou-se).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.  .. . CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.  .. . HABEAS CORPUS NÃO CONHECIDO.
+ ..
+5. A presença de condições pessoais favoráveis do agente, como primariedade, possuir residência própria e profissão lícita, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+7. Fica prejudicado o pedido de extensão requerido em favor do corréu.
+Habeas corpus não conhecido.
+(HC 379.245/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/02/2017, DJe 24/02/2017; grifou-se).
+É importante destacar que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016), ainda mais considerando a inadmissibilidade do writ. De qualquer forma, esta decisão enfrentou todas as teses defensivas e, na linha do art. 315, § 2º, IV, do CPP, também apreciou todos os argumentos da defesa capazes de infirmar a solução adotada.
+Ante o exposto, diante da inadmissibilidade da impetração, não conheço do habeas corpus.
+Publique-se. Intimem-se.
