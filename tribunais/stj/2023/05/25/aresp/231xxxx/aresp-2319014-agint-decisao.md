@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO para desafiar decisão da Presidência desta Corte de Justiça em que não conheceu do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada - Súmula 83/STJ.
+Nas suas razões, a parte agravante sustenta que:
+ ..
+No caso em questão, o Tribunal de origem observou que o trânsito em julgado da sentença proferida na fase de conhecimento da ação coletiva ajuizada pelo sindicato ocorreu no dia 14/10/2011. Em seguida, pontuou que, de acordo com o entendimento firmado no Tema 877 do STJ, naquela data se iniciou a contagem do prazo prescricional de cinco anos para o ajuizamento da ação de execução individual da sentença coletiva. Após, reconheceu que a pretensão executória individual foi apresentada mais de cinco anos depois do trânsito da referida sentença. Contudo, concluiu que a pretensão da parte autora não foi alcançada pela prescrição, por ter sido interrompida com o início da execução na ação coletiva, ainda em trâmite.
+Resta evidente que a matéria ventilada versa sobre controvérsia afetada no Tema 1.033 pelo Superior Tribunal de Justiça, devendo-se, assim, sobrestar o recurso até o julgamento de mérito dos recursos representativos de controvérsia (art. 1030, III, CPC). Com efeito, a tese a ser fixada no julgamento desse tema se aplicará ao presente processo, tendo em vista que este Tribunal Superior irá definir se é ou não causa de interrupção do prazo prescricional o início da fase de execução na ação coletiva.
+Apresentada impugnação.
+Passo a decidir
+Exerço juízo de retratação.
+Observo que esta Corte Superior afetou à sistemática dos recursos repetitivos os Recursos Especiais 1.801.615/SP e 1.774.204/RS - o Tema 1 033 -, cuja questão encontra-se delimitada nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015. (ProAfR no REsp 1774204 / RS, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, 30/10/2019)
+Nesse caso, encontrando-se o tema afetado à sistemática dos feitos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 393/395 e DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
