@@ -1,0 +1,8 @@
+DECISÃO
+LUANA LOPES BRAZ alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5209595-66.2023.8.09.0051.
+Nesta Corte, a defesa sustenta, em resumo: a) ilegalidade do cumprimento do mandado de prisão preventiva expedido contra a paciente, no âmbito da Operação Veritas, em endereço distinto do que constou da ordem judicial, bem como por não haver sido a diligência acompanhada por algum representante da OAB; b) ausência de contemporaneidade dos motivos ensejadores da prisão cautelar, não preenchimento dos requisitos do art. 312 do CPP e superveniência do encerramento da instrução, a denotar que não mais persiste nenhum risco à colheita da prova.
+De plano, observo que as questões relacionadas à motivação do decreto preventivo, à contemporaneidade dos fatos ali elencados e ao reflexo do encerramento da instrução na manutenção da prisão cautelar não foram apreciadas no acórdão combatido, o que inviabiliza seu exame nesta oportunidade, por configurar indevida supressão de instância.
+Ademais, a suposta nulidade do cumprimento do mandado de prisão preventiva expedido contra a acusada já foi suscitada em recurso anteriormente interposto pela ré (RHC n. 181.367/GO, também relacionado à Operação Veritas), a evidenciar que o pedido aqui formulado é mera reiteração de pleito anterior.
+Destaco que, naqueles autos, além da nulidade da diligência que levou ao cumprimento do mandado de prisão preventiva, a defesa também sustentou a ausência de contemporaneidade dos motivos declinados no decreto preventivo. Em decisão proferida no dia 22/5/2023, indeferi a liminar, por não identificar flagrante ilegalidade no ponto.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
