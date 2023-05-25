@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAFAEL SUTIL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que negou seguimento ao recurso especial.
+Consta dos autos que o recorrente foi condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, e multa, pela prática do delito previsto no art. 33, caput, da Lei de Drogas.
+A defesa interpôs recurso de apelação perante a Corte de origem, a qual o proveu parcialmente para reduzir a reprimenda a 5 anos e 6 meses de reclusão, e multa. Eis a ementa do julgado (e-STJ fl. 621):
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (LEI 11.343/2006, ART. 33, CAPUT ). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO ABSOLUTÓRIO. (1) ALEGADA IGNORÂNCIA SOBRE O CONTEÚDO DE MOCHILA ENCONTRADA NO CÔMODO QUE HABITAVA. RESPOSTA COMPORTAMENTAL RELATADA PELA POLÍCIA NA ABORDAGEM ALIADA AO RELATO DO CORRÉU QUE CONFIRMAM A CIÊNCIA SOBRE A DROGA ESTOCADA. (2) O AGENTE QUE MANTÉM PORÇÃO MENOR DE DROGA EM SUA CASA, OUTROS PETRECHOS DESTINADOS AO FRACIONAMENTO E USA CASA DE TERCEIRO (CORRÉ) COMO DEPÓSITO INCIDE NA PRÁTICA DO CRIME EM QUESTÃO. (3) DOSIMETRIA (3.1) FRAÇÃO DE 1/5 APLICADA NA PRIMEIRA FASE EM RAZÃO DA QUANTIDADE E NATUREZA DA DROGA APREENDIDA. PEDIDO DE READEQUAÇÃO PARA A FRAÇÃO DE 1/6. IMPOSSIBILIDADE. APREENSÃO APROXIMADA DE UM QUILOGRAMA DE MACONHA E UM QUILOGRAMA DE CRACK. (3.2) OPERADA A CONFISSÃO DE POSSE PRÉVIA DO PRODUTO ENTORPECENTE DE MAIOR QUANTIDADE NA FASE INTERMEDIÁRIA APESAR DE RECONHECIDO O LIMITADO EFEITO DE SUA VERSÃO PARA A CONDE NAÇÃO. APLICAÇÃO DA ATENUANTE À FRAÇÃO DE 1/12. PRECEDENTE DO STJ. (5) O AGENTE QUE MANTÉM ANOTAÇÕES, PETRECHOS E SE VALE DA CASA DE TERCEIRO PARA MANTER EXPRESSIVA QUANTIDADE DE DROGA REVELA CLARA DEDICAÇÃO À NARCOTRAFICÂNCIA. A AGENTE QUE MANTÉM EM DEPÓSITO A DROGA COM EVIDENCIAS SOBRE O LIMITADO PERÍODO DE SUA ATUAÇÃO, SEM OUTROS ELEMENTOS EM SEU DESFAVOR, FAZ JUS À REDUÇÃO DA PENA COM BASE NO § 4º DO ART. 33 DA LEI DE DROGAS. SENTENÇA REFORMADA. RECURSOS PARCIALMENTE PROVIDOS.
+A defesa do corréu opôs embargos de declaração, os quais foram rejeitados (e-STJ fls. 680/685).
+A defesa apresentou recurso especial com fulcro no art. 105, III, a, da Constituição Federal, pleiteando a aplicação da causa de diminuição do art. 33, § 4º, da Lei de Drogas, bem como a alteração do regime inicial e a substituição da pena privativa de liberdade por restritiva de direitos.
+O recurso especial foi inadmitido pela aplicação das Súmulas n. 7/STJ e 83/STJ (e-STJ fls. 767/771).
+Daí o presente agravo em recurso especial, no qual alega que não incidiriam os referidos óbices processuais.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso.
+É o relatório.
+Decido.
+O recurso encontra-se prejudicado, tendo em vista a concessão do habeas corpus n. 732.708/SC, o qual concedeu a ordem para fixar a fração de 2/3 referente à minorante do art. 33, § 4º, da Lei de Drogas, alterou o regime inicial para o semiaberto e converteu a pena privativa de liberdade em restritiva de direitos.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
