@@ -1,1 +1,1 @@
-Art. 79-A. Aplicam-se às concessões florestais, quando couber e de forma subsidiária a esta Lei, o disposto na Lei nº 8.987, de 13 de fevereiro de 1995, na Lei nº 11.079, de 30 de dezembro de 2004, e em leis correlatas.
+Art. 79-A. Aplicam-se às concessões florestais, quando couber e de forma subsidiária a esta Lei, o disposto nas Leis nºs 8.987, de 13 de fevereiro de 1995, e 11.079, de 30 de dezembro de 2004, e em leis correlatas.

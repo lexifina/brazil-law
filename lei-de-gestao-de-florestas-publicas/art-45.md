@@ -1,10 +1,10 @@
 Art. 45. A inexecução total ou parcial do contrato acarretará, a critério do poder concedente, a rescisão da concessão, a aplicação das sanções contratuais e a execução das garantias, sem prejuízo da responsabilidade civil por danos ambientais prevista na Lei nº 6.938, de 31 de agosto de 1981, e das devidas sanções nas esferas administrativa e penal.
 § 1º A rescisão da concessão poderá ser efetuada unilateralmente pelo poder concedente, quando:
 I - o concessionário descumprir cláusulas contratuais ou disposições legais e regulamentares concernentes à concessão;
-II - o concessionário descumprir o PMFS, as atividades de restauração florestal ou os demais serviços e produtos previstos em contrato, de forma que afete elementos essenciais de proteção do meio ambiente e a sustentabilidade das atividades;
-III - o concessionário paralisar a execução do PMFS, das atividades de restauração florestal ou dos demais serviços e produtos por prazo maior que o previsto em contrato, ressalvadas as hipóteses decorrentes de caso fortuito ou força maior, ou as que, com anuência do órgão gestor, visem à proteção ambiental;
+II - o concessionário descumprir o PMFS, as atividades de restauração ou os demais serviços e produtos previstos em contrato, de forma que afete elementos essenciais de proteção do meio ambiente e a sustentabilidade das atividades;
+III - o concessionário paralisar a execução do PMFS, das atividades de restauração ou dos demais serviços e produtos por prazo maior que o previsto em contrato, ressalvadas as hipóteses decorrentes de caso fortuito ou força maior, ou as que, com anuência do órgão gestor, visem à proteção ambiental;
 IV - descumprimento, total ou parcial, da obrigação de pagamento dos preços florestais;
-V - o concessionário perder as condições econômicas, técnicas ou operacionais para manter a regular execução do PMFS, das atividades de restauração florestal ou dos demais serviços e produtos previstos em contrato.
+V - o concessionário perder as condições econômicas, técnicas ou operacionais para manter a regular execução do PMFS, da restauração florestal ou da exploração dos demais serviços e produtos previstos em contrato;
 VI - o concessionário não cumprir as penalidades impostas por infrações, nos devidos prazos;
 VII - o concessionário não atender a notificação do órgão gestor no sentido de regularizar o exercício de suas atividades;
 VIII - o concessionário for condenado em sentença transitada em julgado por crime contra o meio ambiente ou a ordem tributária, ou por crime previdenciário;

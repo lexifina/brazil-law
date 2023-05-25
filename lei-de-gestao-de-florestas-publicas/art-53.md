@@ -1,6 +1,7 @@
 Art. 53. Caberá aos órgãos gestores federal, estaduais e municipais, no âmbito de suas competências:
-I - elaborar proposta de Paof, a ser submetida ao poder concedente;
+I - elaborar proposta de PPAOF, a ser submetida ao poder concedente;
 II - disciplinar a operacionalização da concessão florestal;
+III - (revogado);
 IV - elaborar inventário amostral, relatório ambiental preliminar e outros estudos;
 V - publicar editais, julgar licitações, promover os demais procedimentos licitatórios, inclusive audiência e consulta pública, definir os critérios para formalização dos contratos e celebrá-los com concessionários de manejo florestal sustentável, quando delegado pelo poder concedente;
 VI - gerir e fiscalizar os contratos de concessão florestal;
