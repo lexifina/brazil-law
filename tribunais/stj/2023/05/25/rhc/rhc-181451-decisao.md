@@ -1,0 +1,6 @@
+DECISÃO
+EVERSON DANILO DE PAULO BARBOSA, acusado por tráfico de drogas, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendia o reconhecimento de nulidade da busca e apreensão, bem como a revogação da preventiva, objetivos estes reiterados nesta oportunidade.
+Entretanto, constato que as alegações do insurgente não vieram acompanhadas de documentos que permitissem o exame da controvérsia, como por exemplo, a cópia da decisão que decretou a preventiva e a que determinou a busca e apreensão. Malgrado o acórdão haja feito referência ao referido decisum, é necessária a juntada de cópia integral das decisões.
+Como cediço, a possibilidade de se impetrar habeas corpus ou recurso em habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-los com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
