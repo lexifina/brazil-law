@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FELIPE ZEMBRUSKI, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o ora paciente teve sua prisão em flagrante convertida em preventiva na data de 14/02/2022, pela prática, em tese, dos delitos de tráfico de drogas, associação para o tráfico e posse irregular de arma de fogo.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava o relaxamento da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 41-45.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado no excesso de prazo para a formação da culpa e na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Argui a nulidade do flagrante, afirmando, para tanto, que houve invasão de domicílio por parte dos policiais, e que as drogas e as armas apreendidas foram "plantadas" pelos agentes que efetuaram a prisão do paciente.
+Requer, ao final, o relaxamento ou a revogação da prisão preventiva, mediante a imposição de medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida e as informações foram prestadas às fls. 84-147.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem, com recomendação de celeridade, nos termos do parecer de fls. 151-156.
+É o relatório.
+Decido.
+Pretende o impetrante, em síntese, o relaxamento da prisão preventiva do paciente, ou sua substituição por medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal, ante o alegado excesso de prazo para a formação da culpa.
+Sobre o tema, ressalta-se que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que, após certificação da morte de um dos corréus e a citação por edital de outro corréu, não localizado, e o desmembramento do feito, a audiência de instrução foi designada para o dia 03/08/2023.
+Assim, o feito segue seu trâmite regular, não se tendo qualquer notícia de fato que evidencie atraso injustificado ou desídia atribuível ao Poder Judiciário, seja em razão das peculiaridades da causa, que investiga diversos crimes praticados, com pluralidade de réus, seja pela complexidade do feito, evidenciada pela necessidade de citação de corréu por edital e posterior desmembramento do feito, certificação do falecimento de corréu, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Quanto às alegações de nulidade do flagrante e ausência de fundamentação do decreto prisional, considerando que o Tribunal de origem não se pronunciou acerca dos temas, eis que sequer foram arguidos na origem, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+P. e I.
