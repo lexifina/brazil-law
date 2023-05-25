@@ -3,7 +3,7 @@ I - o pagamento de preço calculado sobre os custos de realização do edital de
 II - o pagamento de preço, não inferior ao mínimo definido no edital de licitação, calculado em função da quantidade de produto ou serviço auferido do objeto da concessão ou do faturamento líquido ou bruto;
 III - a responsabilidade do concessionário de realizar outros investimentos previstos no edital e no contrato;
 IV - a indisponibilidade, pelo concessionário, salvo disposição contratual, dos bens considerados reversíveis.
-§ 1º O preço referido no inciso I do caput deste artigo será definido no edital de licitação e poderá ser parcelado em até 1 (um) ano, com base em critérios técnicos e levando-se em consideração as peculiaridades locais.
+§ 1º O preço referido no inciso I do caput deste artigo poderá ser parcelado, e seu valor, forma, prazo e condições de pagamento serão definidos no edital de licitação, com base em critérios técnicos e consideradas as peculiaridades locais.
 § 2º A definição do preço mínimo no edital deverá considerar:
 I - o estímulo à competição e à concorrência;
 II - a garantia de condições de competição do manejo em terras privadas;

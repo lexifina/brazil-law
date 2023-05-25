@@ -3,3 +3,6 @@ Art. 27. Para cada unidade de manejo licitada, será assinado um contrato de con
 § 2º As contratações, inclusive de mão-de-obra, feitas pelo concessionário serão regidas pelo direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros contratados pelo concessionário e o poder concedente.
 § 3º A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas regulamentares relacionadas a essas atividades.
 § 4º É vedada a subconcessão na concessão florestal.
+§ 5º É facultado ao concessionário promover a unificação operacional das atividades de manejo florestal sustentável em unidades de manejo florestal, contínuas ou não, concedidas ao mesmo concessionário, desde que situadas na mesma unidade de conservação ou lote de concessão.
+§ 6º A unificação operacional ocorrerá por meio de termo aditivo aos contratos de concessão e permitirá a elaboração de um único PMFS para todas as unidades de manejo e a unificação das Operações florestais, nos termos do regulamento.
+§ 7º Os termos aditivos unificarão e manterão as obrigações contratuais, e caberá ao órgão gestor fazer as adequações necessárias decorrentes do ganho de escala da operação florestal, por meio da adição dos compromissos assumidos nas propostas vencedoras, de técnica e preço, presentes nos diferentes contratos a serem unificados.

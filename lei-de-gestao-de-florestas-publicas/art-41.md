@@ -12,7 +12,7 @@ VIII - proteção ao meio ambiente e conservação dos recursos naturais.
 § 3º Aplicam-se aos membros do conselho de que trata o § 2º deste artigo as restrições previstas no art. 59 desta Lei.
 § 4º Adicionalmente aos recursos previstos na alínea c do inciso II do caput e na alínea d do inciso II do § 1º, ambos do art. 39 desta Lei, constituem recursos do FNDF a reversão dos saldos anuais não aplicados, doações realizadas por entidades nacionais ou internacionais, públicas ou privadas, e outras fontes de recursos que lhe forem especificamente destinadas, inclusive orçamentos compartilhados com outros entes da Federação.
 § 5º É vedada ao FNDF a prestação de garantias.
-§ 6º Será elaborado plano anual de aplicação regionalizada dos recursos do FNDF, devendo o relatório de sua execução integrar o relatório anual de que trata o § 2º do art. 53 desta Lei, no âmbito da União.
+§ 6º Será elaborado plano plurianual de aplicação regionalizada dos recursos do FNDF, e o relatório de sua execução deverá integrar o relatório anual de que trata o § 2º do art. 53 desta Lei, no âmbito da União.
 § 7º Os recursos do FNDF somente poderão ser destinados a projetos de órgãos e entidades públicas, ou de entidades privadas sem fins lucrativos.
 § 8º A aplicação dos recursos do FNDF nos projetos de que trata o inciso I do § 1º deste artigo será feita prioritariamente em entidades públicas de pesquisa.
 § 9º A aplicação dos recursos do FNDF nos projetos de que trata o § 1º deste artigo poderá abranger comunidades indígenas, sem prejuízo do atendimento de comunidades locais e outros beneficiários e observado o disposto no § 7º deste artigo.

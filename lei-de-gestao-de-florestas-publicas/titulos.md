@@ -15,7 +15,7 @@ DAS CONCESSÕES FLORESTAIS
 Seção I
 Disposições Gerais
 Seção II
-Do Plano Anual de Outorga Florestal
+Do Plano Plurianual de Outorga Florestal'
 Seção III
 Do Processo de Outorga
 Seção IV
