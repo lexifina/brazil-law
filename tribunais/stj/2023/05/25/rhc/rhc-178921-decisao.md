@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Jefferson Luiz Gomes Rieverts dos Reis, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, que denegou a ordem no Habeas Corpus n. 1.0000.23.035140-5/000, mantendo a medida cautelar do uso de tornozeleira eletrônica, nos termos da seguinte ementa (fl. 225):
+"HABEAS CORPUS" - ASSOCIAÇÃO CRIMINOSA E CONSTRANGIMENTO ILEGAL - FLEXIBILIZAÇÃO TEMPORÁRIA DA MEDIDA CAUTELAR DIVERSA DE MONITORAÇÃO ELETRÔNICA - PREJUDICIALIDADE PARCIAL DO "MANDAMUS" - MÉRITO - REVOGAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - IMPOSSIBILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+- Uma vez já ultrapassado o período temporal solicitado de flexibilização da medida cautelar de monitoração eletrônica, tal pleito encontra-se prejudicado, por perda superveniente de seu objeto.
+- A manutenção das medidas cautelares diversas da prisão aplicadas em desfavor do paciente é medida que, pelo menos por ora, se impõe, pois, tanto a decisão que as fixou como a que indeferiu o pleito de suas respectivas revogações, encontram-se propriamente motivadas pela autoridade apontada como coatora, nos termos do que prevê o art. 93, IX, da Constituição da República, c/c o art. 315 do CPP.
+Consta dos autos que o Juízo da Central de Recepção de Flagrantes da comarca de Belo Horizonte/MG homologou o flagrante e concedeu liberdade provisória com fiança impondo ao ora recorrente medidas cautelares diversas dispostas no art. 319, I, IV, V, VIII e IX, do CPP, em razão da suposta prática dos crimes de associação criminosa e constrangimento ilegal.
+Daí o presente recurso, em que se alega, em síntese, constrangimento ilegal consistente na ausência de fundamentação idônea que justifique a manutenção da medida cautelar de uso de tornozeleira eletrônica.
+Defende-se que o recorrente ostenta bons antecedentes, residência fixa, trabalho lícito, portanto, a manutenção das cautelares exacerba o direito do Estado no tocante ao cerceamento da constrição da liberdade de ir e vir do indivíduo (fls. 247/248).
+Aduz-se que o recorrente não preenche os requisitos do art. 312 do CPP, razão pela qual se faz cabível a concessão da liberdade provisória.
+Por fim, requer-se (fls. 259/260):
+ ..
+Por todas estas razões elencadas, tendo em vista a ilegalidade consubstanciada no v. Acórdão guerreado, requer que:
+a) O conhecimento e provimento do presente Recurso;
+b) O reconhecimento do prejuízo causado pelo uso da tornozeleira eletrônica, que embora auxilie na fiscalização do flagranteado, prejudica a inserção do mesmo no mercado de trabalho sobretudo pelas limitações de tempo e espaço impostas pelo monitoramento em detrimento ao labor do mesmo que demanda deslocamentos em horários noturnos, fora do distrito da culpa e extrapolam o seu domicílio.
+c) A concessão a medida LIMINAR, ante a existência de fumus boni iuris e periculum in mora, determinando a imediata LIBERDADE PROVISÓRIA do paciente, mediante o levantamento da monitoração eletrônica em sede de MEDIDAS CAUTELARES DIVERSAS DA PRISÃO, para que o paciente , possa aguardar em liberdade e então responda a ulteriores termos do processo- crime, ainda que mantidas as demais medidas impostas;
+d) O regular prosseguimento do feito, para que ao final que sejam os autos conclusos para julgamento, nos termos do Regimento Interno deste E. Tribunal;
+e) A concessão definitiva, no mérito, do writ originário.
+ ..
+Liminar indeferida às fls. 272/275.
+Informações prestadas às fls. 280/297.
+Parecer do Ministério Público Federal, às fls. 299/302, pelo não provimento do recurso ordinário, nos termos da seguinte ementa (fl. 299):
+PROCESSUAL PENAL. RECURSO ORDINÁRIO E M HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E CONSTRANGIMENTO ILEGAL. MEDIDA CAUTELAR DIVERSA DE MONITORAMENTO ELETRÔNICO. FUNDAMENTAÇÃO IDÔNEA. PLEITO PELA REVOGAÇÃO DA REFERIDA MEDIDA INDEFERIDO NA DATA DE 09/01/2023. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTE DO STJ. NÃO PROVIMENTO DO RECURSO ORDINÁRIO.
+É o relatório.
+Em suma, pretende-se a revogação da medida de monitoramento eletrônico.
+Inicialmente, registre-se que, assim como a segregação cautelar, a manutenção das cautelares alternativas não pode ocorrer de forma indefinida, de modo a transmudar-se em sanção penal sem sentença condenatória (AgRg no HC n. 651.342/PB, de minha relatoria, Sexta Turma, DJe 28/3/2022).
+Ao que se tem, a Corte local afastou a pretensão recursal, nos seguintes termos (fls. 230/232 - grifo nosso):
+ ..
+Inicialmente, cumpre ressaltar, a possibilidade de conjugação da prisão cautelar, e, ainda mais, da aplicação de medidas cautelares diversas, dispostas no art. 319 do CPP, com o princípio da presunção de inocência, já que a própria Constituição da República, em seu art. 5º, inciso LXI, prevê a possibilidade deste tipo de custódia, desde que preservada a característica da excepcionalidade e quando subordinada à necessidade concreta, real, efetiva e justificada.
+Dito isso, conforme extrai-se da redação do art. 282, "caput" e incisos I e II do CPP, há de se verificar a necessidade da aplicação da medida cautelar diversa de monitoração eletrônica, realizando-se juízo quanto ao risco, com base na gravidade concreta da infração, suas particularidades, nas condições pessoais do agente, e, ainda, na necessidade de se resguardar a investigação/instrução criminal e evitar a prática de novos ilícitos, "in verbis":
+"Art. 282. As medidas cautelares previstas neste Título deverão ser aplicadas observando-se a:
+I - necessidade para aplicação da lei penal, para a investigação ou a instrução criminal e, nos casos expressamente previstos, para evitar a prática de infrações penais II - adequação da medida à gravidade do crime, circunstâncias do fato e condições pessoais do indiciado ou acusado." "
+In casu", os delitos em tese praticados revelam-se de especial e concreta gravidade, visto que, após a morte de W., indivíduo conhecido por ser, em tese, traficante na região, e supostamente por desavenças advindas do tráfico de entorpecentes, integrantes da facção "Favela da Mina" teriam determinado toque de recolher a todos os moradores e comerciantes do local, ameaçando-os com promessas de agressão, espancamentos ou mesmo morte.
+Após receberem informações anônimas dos supostos fatos, que apontavam o paciente e seu suposto comparsa J. como integrantes da referida facção, as autoridades policiais deslocaram-se ao local e identificaram os indivíduos conforme as descrições que haviam recebido nas denúncias anônimas.
+Consta dos autos, ainda, que o paciente teria supostamente assumido a prática das condutas atribuídas a ele (n. de ordem 4).
+Portanto, as circunstâncias ligadas à sua prisão em flagrante revelam a gravidade concreta dos delitos em tese cometidos, demonstrando, por conseguinte e, pelo menos por ora, a necessidade da manutenção da medida cautelar diversa de monitoração eletrônica para a garantia da ordem pública.
+ ..
+Ademais, em data recente, aos 9/1/2023, o juízo indeferiu o pleito de revogação de tais medidas, ao verificar que ainda estavam presentes os motivos que as ensejaram.
+Destaca-se, ainda, que a ação penal originária se encontra em regular trâmite, sendo informado pelo juízo que o inquérito policial foi remetido à Delegacia de Polícia responsável em data recente, aos 6/2/2023 (n. de ordem 11).
+Com relação às alegadas condições pessoais favoráveis, cumpre registrar que estas não são, isoladamente, suficientes para justificar a revogação da aventada medida cautelar diversa, sobretudo quando presentes outros elementos que demonstram o eventual "periculum libertatis" do paciente, como, a meu ver, é o caso dos autos, haja vista a demonstração da gravidade concreta dos delitos.
+Diante de tais considerações, entendo que a decisão que concedeu liberdade provisória ao paciente, mediante pagamento de fiança e aplicação de medidas cautelares diversas da prisão, bem como a que indeferiu o pleito de revogação destas, estão satisfatoriamente fundamentadas, havendo demonstração da imprescindibilidade aplicação de tais medidas para a garantia da ordem pública, nos termos do art. 282 do CPP, pois demonstrada a gravidade concreta dos delitos em tese praticados.
+ ..
+No caso, não se vislumbra ilegalidade da decisão combatida, uma vez que fundamentada na gravidade concreta do delito, já que, supostamente, o ora recorrente, pertencente a uma facção criminosa, teria determinado toque de recolher a todos os moradores e comerciantes do local, ameaçando-os com promessas de agressão, espancamentos ou mesmo morte, em razão da morte de um traficante e de desavenças advindas do tráfico de entorpecentes; não há, portanto, como albergar tal pleito e nem mesmo conceder ordem ex officio, haja vista inexistente ilegalidade flagrante, manifesta teratologia ou abuso de poder in casu.
+No mesmo sentido o parecer do Ministério Público Federal, ao afirmar que no caso, não se vislumbrou qualquer constrangimento ilegal a ser sanado. Muito ao contrário, revelam-se irretocáveis os fundamentos utilizados pelo tribunal de origem para manter a medida cautelar diversa da prisão imposta ao recorrente, que, em represália pela morte do líder da facção denominada "Favela da Mina", determinou toque de recolher a todos os moradores e comerciantes da região, ameaçando-os com promessas de agressão, espancamentos e até mesmo que seriam mortos, caso descumprissem a ordem (fl. 300).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E CONSTRANGIMENTO ILEGAL. PLEITO DE AFASTAMENTO DA MEDIDA CAUTELAR DE MONITORAMENTO ELETRÔNICO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA.
+Recurso em habeas corpus improvido.
