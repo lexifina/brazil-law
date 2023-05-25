@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ AMORIM GONÇALVES NOVO - ESPÓLIO e OUTROS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio d e Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR ABUSO DE PODER SOCIETÁRIO E CONCORRÊNCIA DESLEAL. PERÍCIA TÉCNICA CONTÁBIL. IMPUGNAÇÃO AO LAUDO REJEITADA. RECURSO QUE SE INSURGE EM FACE DE MATÉRIAS JÁ OBJETO DE ANTERIOR AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE REAPRECIAÇÃO. ESCLARECIMENTOS PRESTADOS PELO EXPERT. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Agravantes pretendem a decretação da nulidade da perícia realizada e produção de uma nova, mesmo propósito do agravo de instrumento, nº 0066613- 36.2019.8.19.0000, já julgado por esta câmara.
+2. Ainda que os autores/agravantes discordem, fato é que o perito avaliou a pertinência da documentação requerida que, segundo anteriormente decidido por esta câmara, somente deveria ser solicitada caso atestada a sua necessidade, o que não ocorreu.
+3. Laudo pericial e seus esclarecimentos mostram a técnica utilizada e apontam para determinado resultado, nada restando a aclarar quanto à trilha por ele seguida por ocasião da realização dos trabalhos, não havendo elementos que ponham em xeque a credibilidade do mister. NEGATIVA DE PROVIMENTO AO RECURSO" (fls. 87/88, e-STJ).
+Os embargos de declaração foram rejeitados (fls.141/155, e-STJ).
+No seu arrazoado, a parte recorrente alega a violação dos artigos 466, §2º, 474, 480 e 1.022, II, do Código de Processo Civil.
+De início, aduz que teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios.
+Além disso, sustenta que o Tribunal de origem homologou laudo pericial nulo, "elaborado sem que fossem respondidos quesitos de esclarecimentos formulados pelos recorrentes e enfrentadas as questões expostas em sua impugnação aos esclarecimentos do perito. Isso sem falar na ausência de participação do assistente técnico dos recorrentes, bem como na elaboração de um trabalho de um todo imprestável, porque base apenas em planilhas e relatórios unilaterais elaborados ou fornecidos pelo contador dos recorridos" (fls. 166/167, e-STJ).
+Por fim, afirma que não foi garantida às partes a comunicação acerca do início dos trabalhos periciais e nem foi considerada a necessidade de realização de nova perícia.
+Contrarrazões juntadas às fls. 192/217 (e-STJ).
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à violação do art. 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/5/2017, DJe 16/5/2017 - grifou-se).
+No caso, o Tribunal de origem afastou as nulidades suscitadas em relação à perícia realizada em juízo, nos seguintes termos:
+"(..)
+Desta forma, ainda que os autores/agravantes discordem, fato é que o perito avaliou a pertinência da documentação requerida que, segundo o decidido nos autos do agravo nº 0066613-36.2019.8.19.0000, só deveria ser solicitada por ofício caso atestada a sua necessidade.
+Quando da concessão do efeito suspensivo (pasta 35), destacou-se que a impugnação ao laudo pericial contém diversas alegações de nulidade e violações ao procedimento de produção da prova pericial, justificando a suspensão do feito para análise mais cautelosa do presente recurso.
+Entretanto, o que se observa é que os agravantes pretendem, na verdade, a decretação da nulidade da perícia realizada e produção de uma nova, mesmo propósito do agravo de instrumento nº 0066613-36.2019.8.19.0000, já julgado por esta câmara, que, conforme exaustivamente explicado, optou por determinar apenas que fosse esclarecida a pertinência dos documentos apontados como necessários, o que restou afastado.
+Também não há razão quanto à alegação de quesitos não respondidos pelo expert. É que não foram respondidos porque haviam sido fundamentadamente indeferidos, através da decisão defl.1.450,contra a qual os Autores/Agravantes não interpuseram qualquer recurso.
+Os autores/agravantes também insurgem-se quanto ao fato de que o perito teria amparado seus trabalhos em documentos disponibilizados unicamente pelos réus/agravados. Entretanto, deve-se observar que o objeto da perícia era a prática de atos em detrimento da 700 Veículos Ltda (Rubra) e em benefício da Viva Motors Comércio de Veículos Ltda, de forma que a documentação a ser analisada pela perícia encontrava-se realmente em poder dos réus.
+Neste ponto, em sua manifestação à pasta 52, o perito bem observou que embora tenha utilizado planilhas fornecidas pelo contador dos réus, encontrou diversas incongruências quando comparadas com as Demonstrações do Resultado do Exercício, fato inclusive utilizado pelos autores/agravantes para solicitar novos documentos.
+Embora em um primeiro momento a decisão que rejeita a impugnação pareça carente de fundamentação, o que justificou a concessão do efeito suspensivo, fato é que a análise aprofundada dos autos demonstra que as questões suscitadas pelos autores foram exaustivamente debatidas, inclusive em anterior agravo de instrumento, o que impede a reapreciação neste recurso.
+Neste sentido, correta a decisão agravada ao destacar que o laudo pericial e seus esclarecimentos mostram a técnica utilizada e apontam para determinado resultado, nada restando a aclarar quanto à trilha por ele seguida por ocasião da realização dos trabalhos, não havendo elementos que ponham em xeque a credibilidade do mister.
+(..)" (fls. 100/101, e-STJ).
+De fato, a tese vinculada ao artigo 474 do CPC, apontado como violado no recurso especial, não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, embora opostos embargos de declaração, motivo pelo qual incide o disposto na Súmula nº 211 do STJ pela ausência de prequestionamento.
+Ademais, a revisão das conclusões firmadas pelas instâncias ordinárias, de que o laudo pericial não contem qualquer causa de nulidade, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. INDENIZAÇÃO. DANOS MATERIAIS PRESUMIDOS. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NESTA CORTE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o acolhimento da pretensão recursal, a fim de concluir pela nulidade do laudo pericial, e reconhecer que a parte não realizou concorrência desleal, demandaria, necessariamente, reexame dos elementos probatórios dos autos, procedimento vedado pela Súmula n. 7/STJ.
+2. A jurisprudência do STJ entende que é devida reparação por danos patrimoniais (a serem apurados em liquidação de sentença) e compensação por danos extrapatrimoniais na hipótese de se constatar a violação de marca, independentemente de comprovação concreta do prejuízo material e do abalo moral resultante do uso indevido. (REsp 1804035/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/06/2019, DJe 28/06/2019).
+3. Agravo interno não provido" (AgInt no AREsp n. 1.939.323/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de majorar a verba honorária nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, considerando que o acórdão recorrido é oriundo de julgamento de agravo de instrução sem a fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
