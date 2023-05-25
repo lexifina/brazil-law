@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDACAO ASSISTENCIAL DOS SERVIDORES DO MINISTERIO DA FAZENDA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. VALORES COBRADOS POR HOSPITAL PRIVADO À OPERADORA DE PLANOS DE SAÚDE. SERVIÇOS MÉDICOS AUTORIZADOS PELA OPERADORA EM RAZÃO DE DECISÃO JUDICIAL E PRESTADOS, NO REFERIDO NOSOCÔMIO, À USUÁRIO DA CONSIGNANTE. DISCUSSÃO SOBRE A OBRIGAÇÃO DE ARCAR COM OS CUSTOS DOS EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL UTILIZADOS PELOS MÉDICOS E DEMAIS PRESTADORES DE SERVIÇO DO HOSPITAL, DURANTE OS PROCEDIMENTOS REALIZADOS. RELAÇÃO DAS PARTES REGIDA PELO CONVÊNIO FIRMADO ENTRE O HOSPITAL DEMANDADO E A UNIÃO NACIONAL DAS INSTITUIÇÕES DE AUTOGESTÃO EM SAÚDE - UNIDAS. COBRANÇA REALIZADA DE ACORDO COM A PACTUAÇÃO. INEXISTÊNCIA DE CLÁUSULA CONTRATUAL EXCLUINDO A RESPONSABILIDADE DA OPERADORA, QUANTO AOS EQUIPAMENTOS REFERIDOS, EM CASOS DE PROCEDIMENTOS DETERMINADOS PELA JUSTIÇA. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. PACTA SUNT SERVANDA. LEGISLAÇÃO APONTADA NAS RAZÕES DO APELO (LEI Nº 9.656/1998) QUE NÃO AMPARA O DIREITO VINDICADO, PORQUANTO TRATADAS RELAÇÕES ENTRE OPERADORAS E USUÁRIOS DE PLANO DE SAÚDE. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO RECURSO" (fl. 329, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 355/359, e-STJ).
+No especial, a recorrente aponta violação dos arts. 480-B e 480 do Código Civil e 12 da Lei nº 9.656/1998, argumentando, em síntese, a ausência do dever de pagamento dos equipamentos de proteção individual utilizados pelos profissionais da recorrida, possuindo a faculdade de custeio apenas dos instrumentos previstos na lei.
+Afirma, ainda, que:
+"Assim, desconsiderar a natureza jurídica da Fundação recorrente para lhe impor o custeio de materiais não abrangidos pelas normas de regência atinentes às Operadoras de saúde, implica em notória violação aos termos preconizados pelo art. 480-B do Código Civil, vigente à época da distribuição da demanda, bem como afronta os ditames do art. 480 do Código Civil, atualmente vigente no ordenamento jurídico, vez que compromete a higidez financeira do plano de saúde e, por conseguinte, afeta os demais membro-beneficiários, ante a modalidade de autogestão operada pela Fundação Assefaz" (fl. 376, e-STJ).
+Apresentadas contrarrazões às fls. 382/400 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, nas razões do recurso especial há somente alegações genéricas a respeito da alegada ofensa ao art. 12 da Lei nº 9.656/1998, não tendo a recorrente especificado os incisos, alíneas ou parágrafos tidos por violados, o que inviabiliza a compreensão da controvérsia posta nos autos.
+Consequentemente, incide o óbice da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE DISPOSITIVO COMPOSTO POR CAPUT E PARÁGRAFO ÚNICO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. ARRENDAMENTO MERCANTIL. AÇÃO DE RESTITUIÇÃO DE VRG. PRESCRIÇÃO. DEZ ANOS. JULGADOS DESTA CORTE NESSE SENTIDO. SÚMULA 83/STJ.
+(..)
+3. Contendo o dispositivo legal elementos como caput e parágrafo, a alegação genérica de que se encontraria vulnerado, sem indicar, precisamente, o regramento dele constante que teria sido vilipendiado, forçoso é concluir pela deficiência das razões recursais, atraindo o óbice da Súmula 284/STF.
+(..)
+3. Agravo interno não provido" (AgInt no AREsp n. 1.693.284/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2022, DJe de 29/4/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO ESPECIAL URBANA. ART. 1.022 DO CPC. AUSÊNCIA DE ESPECIFICAÇÃO DOS INCISOS VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. UTILIZAÇÃO DA FÓRMULA ABERTA "E SEGUINTES". SÚMULA N. 284 DO STF. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS PARA RECONHECIMENTO DA USUCAPIÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ALÍNEA C. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS PARADIGMA E RECORRIDO. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC de 2015 é genérica, limitando-se à indicação da existência de omissão, contradição, obscuridade e erro material, sem especificação dos incisos que foram violados.
+2. A indicação, de forma genérica, da existência de violação de lei federal em razão do uso da expressão "e seguintes", sem particularização dos dispositivos e incisos que teriam sido especificamente contrariados, revela deficiência da fundamentação recursal e atrai, por consequência, a incidência da Súmula n. 284 do STF.
+3. O recurso especial é recurso de fundamentação vinculada, não sendo aplicável o brocardo iura novit curia. Não cabe ao relator, por esforço hermenêutico, extrair da argumentação qual dispositivo teria sido contrariado para suprir a deficiência na fundamentação recursal, cuja responsabilidade é do recorrente.
+(..)
+8. Agravo interno parcialmente conhecido e desprovido" (AgInt no AREsp n. 2.088.796/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PLANO DE SAÚDE .AÇÃO DE OBRIGAÇÃO DE FAZER. REEMBOLSO. REDE CREDENCIADA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem analisou a prova dos autos e o contrato para concluir pela necessidade de reembolso. Alterar tal conclusão é inviável em recurso especial.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.927.788/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REVISIONAL DE CLÁUSULA CONTRATUAL. DIREITO DO CONSUMIDOR. REEMBOLSO DAS DESPESAS COM SERVIÇOS MÉDICOS REALIZADO DE ACORDO COM AS CONDIÇÕES GERAIS DO CONTRATO. ACÓRDÃO RECORRIDO QUE ENTENDEU PELA AUSÊNCIA DE ABUSIVIDADE. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice dos enunciados n. 5 e 7 das Súmulas deste Tribunal.
+2. Agravo interno desprovido" (AgInt no AREsp n. 1.393.945/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2019, DJe de 21/11/2019).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 12% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
