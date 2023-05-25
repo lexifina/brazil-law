@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de petição de tutela provisória, com pedido liminar, ajuizada com o objetivo de obter a efeito suspensivo a recurso especial que ainda não foi interposto na origem.
+Consta dos autos que o peticionário interpôs recurso em sentido estrito na origem em face de decisão que negou seguimento a recurso de apelação, o qual foi interposto contra decisão que rejeitou liminarmente embargos de terceiro, opostos para a liberação de imóvel objeto de sequetro. O Tribunal local não conheceu do recurso em sentido estrito, o que ensejou a interposição de agravo interno, pendente de julgamento.
+Alega o requerente que o "objeto de recurso de agravo interno em face da presente decisão, ainda pendente de julgamento, está em fase de leilão, e foi arrematado, e que ainda não teve o pagamento realizado, sendo possível, portanto, diante da emergência, requerer a concessão de efeito suspensivo, antes da interposição de recurso especial, já que depois de expedida a carta de arrematação e expropriação do Recorrente, tal medida se tornará irrecorrível diante do fato da ocorrência de arrematação, ao qual se faz prova de que o imóvel foi leiloado." (fls. 15-16).
+Verifica-se, todavia, que não foi inaugurada a competência desta Corte, nos termos do art. 1.029, § 5º, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, motivo pelo qual o pedido não deve ser conhecido.
+Com efeito, "Observa-se a falta de cabimento do pedido, pois o recurso especial nem sequer passou pelo Juízo de admissibilidade na origem, de modo que ainda não se abriu a competência do Superior Tribunal de Justiça para apreciar o pedido de atribuição de efeito suspensivo, nos termos do art. 1.029, § 5º, III, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal. (AgRg no TP n. 3.915/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022).
+Ante o exposto, não conheço do pedido.
+Publique-se.
+Intimem-se.
