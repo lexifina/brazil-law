@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por LUCIA DOS REIS ANACLETO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o tipo de recurso escolhido. Assim, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa.
+A parte, embora regularmente intimada para sanar referido vício, não regularizou o preparo, manifestando-se no sentido de ser desnecessário novo recolhimento das custas judicias, uma vez que já havia realizado o recolhimento em valor superior, ainda que tenha cometido o equívoco no preenchimento do formulário eletrônico das custas judicias. Assim, pleiteia a substituição pela guia cujo valor já foi recolhido (e-STJ fl. 556/558).
+Ocorre que esta Corte consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso, caracteriza a sua deserção. Dessa forma, inviável nova abertura de prazo para regularização do preparo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PREPARO. RECOLHIMENTO SOB RUBRICA DIVERSA. DESERÇÃO. INCIDÊNCIA DA SÚMULA N. 187/STJ. PRECEDENTES.
+1. A irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso, não sanada pelo recorrente após ser intimado a fazê-lo, caracteriza a sua deserção. Incidência da Súmula n. 187/STJ.
+2. Caso concreto em que o preparo foi realizado com a indicação errônea do tipo de ação/recurso no formulário eletrônico, na medida em que, em vez de recolher as custas do recurso em mandado de segurança, a parte recorrente fez o recolhimento sob a rubrica de recurso ordinário, deixando de sanar tal equívoco apesar der regularmente intimada, o que legitima a aplicação da pena de deserção. Nesse sentido: AgInt no RMS 56.802/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 3/10/2019; AgInt no RMS 58.874/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 29/11/2019; AgInt no RMS 58.719/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 19/12/2018.
+3. Agravo interno não provido.
+(AgInt no RMS 63103/ES, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 26/11/2020
+Assim, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
