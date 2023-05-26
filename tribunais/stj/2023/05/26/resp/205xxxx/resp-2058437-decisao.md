@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de Recurso Especial que versa sobre o tema "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+Com efeito, este Superior Tribunal de Justiça, sob o Tema nº 1033, decidirá a respeito do referido assunto.
+A admissão desse apelo impõe que os recursos interpostos no Tribunal de origem que tratem da mesma questão central fiquem suspensos até o pronunciamento definitivo deste Tribunal, para que, após, possa o Tribunal a quo, caso haja necessidade, proceder ao juízo de retratação previsto na legislação processual.
+A propósito: STJ, EDcl no AgInt no AREsp n. 1.916.861/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/5/2022, DJe de 4/5/2022.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e 1.040 e seguintes do CPC/2015" (EDcl no AgInt no REsp n. 1.949.793/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa neste Tribunal, para que, após publicado o acórdão relativo ao recurso paradigma, o recurso especial nos autos: i) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação de Tribunal superior; (ou) ii) seja novamente examinado pelo Tribunal a quo, na hipótese de o acórdão recorrido divergir da orientação de Tribunal superior.
+I.
