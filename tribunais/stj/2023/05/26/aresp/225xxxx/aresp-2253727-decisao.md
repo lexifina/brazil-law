@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto por FERREIRA SANTOS E SANTOS ADVOGADOS ASSOCIADOS contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 169):
+Apelação. Embargos de terceiro. Procedência. Inconformismo da ré.
+Penhora sobre direitos do imóvel pertencente ao requerente embargante nos autos do cumprimento de sentença nº 0006619-48.2018.8.26.0152, que tem por objeto a execução de honorários advocatícios devidos pelo executado Leôncio Pereira.
+Embargante apelado que aderiu a cooperativa habitacional em 11/09/2007, com pretensão de aquisição de unidade a ser construída na Av. Vida Nova, nº 156, apto 141, bloco A, Edifício Paris, Taboão da Serra /SP. Executado Leôncio que também aderira à cooperativa na mesma data. Previsão de entrega das unidades a partir de 2009 até 2019, por demanda e fluxo de pagamento dos associados.
+Termo de Transferência de direitos que Leôncio Pereira possuía sobre o imóvel firmado em 15/03/2017, constando as subscrições das partes e de diretor presidente da cooperativa, como anuente.
+Contrato de compra e venda firmado entre o embargante e o executado Leôncio em 24/02/2017, havendo prova de pagamento do preço avençado.
+Ação monitória nº 1008076-74.2013.8.26.0152 ajuizada pela apelante em face de Leôncio Pereira em 2013, tendo sido julgada em 22/05/2017. Cumprimento de sentença nº 0006619-48.2018.8.26.0152 iniciado em 20/07/2018. Constrição sobre os direitos relativos ao imóvel ocorrida somente em 07/08/2019.
+Má-fé do adquirente não comprovada. Súmula 375 do E. STJ. Art. 792, inc. IV. Hipótese legal não ocorrente. Consilium fraudis não demonstrado. Sentença mantida.
+RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 193-201).
+No recurso especial, alegou o recorrente ofensa ao art. 1.245, §1º, do Código Civil, sustentando, em síntese, a validade da penhora realizada nos autos da execução.
+Afirmou, ainda, violação ao art. 98, §3º, do Código de Processo Civil, preconizando que a suspensão de que trata o referido dispositivo aplica-se à majoração de 10%.
+Nas razões do agravo, o insurgente impugna os fundamentos da decisão denegatória do recurso especial.
+Contraminuta não apresentada (e-STJ, fl. 238).
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, à validade, ou não, da penhora realizada nos autos da execução, bem como à aplicabilidade da suspensão prevista no art. 98, §3º, do CPC/2015 à majoração de 10%.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 171-183; sem grifo no original):
+Ab initio, pleiteia o escritório apelante os benefícios da justiça gratuita, para conhecimento do recurso, aduzindo não possuir condições financeiras para arcar com as custas de preparo recursal.  ..
+Considerando-se que as custas de preparo recursal remontam a R$ 5.436,66 (fls. 159), há demonstração de insuficiência de recursos para a promoção atual do recolhimento. Dessa forma, defiro a justiça gratuita à apelante, porém com efeitos ex nunc.  ..
+Quanto ao mérito propriamente dito, não vislumbro nos autos a prova de má-fé ou de consilium fraudis na atitude do embargante.
+A ação monitória nº 1008076-74.2013.8.26.0152 foi ajuizada pela apelante em face de Leôncio Pereira em 2013, tendo sido julgada em 22/05/2017, como a própria apelante apontou na contestação (fls. 42). Ademais, o cumprimento de sentença nº 0006619-48.2018.8.26.0152 teve início em 20/07/2018. A constrição sobre os direitos do executado relativos ao imóvel situado na Av. Vida Nova, nº 156, apto 141, bloco A, Edifício Paris, Taboão da Serra /SP ocorreu em 07/08/2019 (fls.76/77).  ..
+Não vislumbro nos documentos a contradição ou "falsidade" aduzida pela apelante. Trata-se de instrumentos de adesão a cota de cooperativa habitacional, em que o associado se imite na posse das unidades conforme estas vão sendo construídas e entregues no prazo estipulado no instrumento, e em conformidade com o percentual de pagamentos efetuados, tudo descrito na cláusula 10ª do pacto.
+A adesão de ambos na mesma data, 11/09/2007, não significa que adquiriram exatamente a mesma unidade, até porque não havia unidade a entregar.
+Por outro lado, a efetiva posse do autor Carlos somente poderia ter ocorrido com a transferência ou cessão dos direitos havidos por Leôncio sobre a unidade em 15/03/2017, daí porque até fevereiro de 2017 (termo final das despesas não pagas),constava Leôncio como possuidor da unidade devedora das despesas perante o Condomínio, motivando a subscrição do termo de confissão de dívida apontado pela apelante.
+A operação de transferência ou cessão de direitos sobre a unidade condominial não indica qualquer elemento que possa ser identificado como de conluio ou consilium fraudis, em prejuízo da apelante.
+Atente a recorrente que quando a cessão de direitos ocorreu, em 15/03/2017, ainda não havia constrição efetivada sobre o bem, a qual só veio a se concretizar (sobre os direitos pertencentes ao executado), em 07/08/2019, considerando-se, ainda, que a execução do título formado na ação monitória só teve início em 20/07/2018, portanto muito tempo depois da operação de transferência de direitos havida entre o executado Leôncio e o embargante Carlos.
+Ressalto, ainda, que o apelado juntou o contrato de compra e venda celebrado com Leôncio Pereira em 24/02/2017 e a prova do respectivo pagamento do preço avençado, o que atribui boa-fé ao negócio (fls. 94/101). ..
+Sendo assim, restava à apelada desincumbir-se do ônus de comprovar a má-fé dos adquirentes, seja por culpa (negligência), seja por dolo (consilium fraudis), ônus do qual não se desincumbiu.  ..
+Diante do disposto no artigo 85, §§ 2º e 11º, do CPC, os honorários advocatícios de sucumbência são majorados para 20% sobre o valor da causa. Observo que sobre esses honorários não incide o disposto no artigo 98, §3º, do CPC, pois que anteriores à concessão da justiça gratuita.
+Com efeito, vislumbra-se que a irresignação do agravante não merece prosperar, haja vista que a questão foi resolvida com base nos elementos fáticos que permearam a demanda.
+Dessa forma, percebe-se que rever os fundamentos do acórdão recorrido, mormente quanto ao fato de que "a operação de transferência ou cessão de direitos sobre a unidade condominial não indica qualquer elemento que possa ser identificado como de conluio ou consilium fraudis, em prejuízo da apelante" (e-STJ, fl. 177), exigiria a reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito (sem grifo no original):
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. MATÉRIA FÁTICA. SÚMULA 07. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RAZÕES DISSOCIDAS. NÃO CONHECIMENTO DO RECURSO.
+1. A Corte de origem assentou inexistirem provas nos autos capazes de estabelecer a má-fé do terceiro adquirente do imóvel, afastando a apontada fraude à execução, a teor da Súmula 375 do STJ.
+2. Inviável o reexame desta matéria fático-probatória nesta instância excepcional, conforme estabelece o Enunciado da Súmula 07 desta Corte.
+3. Razões recursais, ademais, dissociadas, pois apontam violação a dispositivo legal diverso daquele no qual amparada a decisão recorrida. Súmula 284/STF.
+4. Ausência de cotejo analítico entre as decisões tidas por paradigma e a recorrida, sem a demonstração efetiva da similitude fática e jurídica entre os julgados. Transcrição de ementas ou excertos de decisão que desservem para este propósito, não atendendo à exigência contida nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.807.633/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO. SUSPENSÃO DA EXECUÇÃO. DESCABIMENTO. RECONHECIMENTO DE FRAUDE À EXECUÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte de Justiça é firme no sentido de que não se opera a suspensão do processo principal, em razão da oposição de embargos de terceiro, quando houver decisão judicial reconhecendo a fraude à execução, tal como se dá no caso sub judice. Precedentes.
+2. Na hipótese, a Corte estadual concluiu ter ocorrido fraude à execução, em razão da irregularidade da cessão das quotas sociais da empresa em questão por parte do executado ao agravante.
+3. A modificação do entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, no sentido de não ter ocorrido fraude à execução, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.006.504/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+Ademais, no que se refere à alegada ofensa ao art. 98, §3º, do CPC/2015, verifica-se que razão não assiste ao agravante, uma vez que o aresto vergastado, ao concluir que sobre à majoração dos honorários advocatícios sucumbenciais não incide a suspensão prevista no disposto supracitado, pois anteriores à concessão da justiça gratuita, está em consonância com o entendimento deste Superior Tribunal, veja-se (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. PEDIDO FORMULADO NO AGRAVO INTERNO. PESSOA FÍSICA. DECLARAÇÃO DE INSUFICIÊNCIA FINANCEIRA. AUSÊNCIA DE IMPUGNAÇÃO. DEFERIMENTO, COM EFEITO "EX NUNC". CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. DISCUSSÃO A QUALQUER TEMPO. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração, pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família. Os efeitos do benefício da justiça gratuita devem ser ex nunc, não podendo retroagir para alcançar atos processuais anteriormente convalidados.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer tempo e grau de jurisdição ordinária, pois não sujeitas à preclusão temporal.
+Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.993.419/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CPC. JUSTIÇA GRATUITA. EFEITO EX NUNC.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC).
+2. A concessão da gratuidade judiciária pode ser requerida no curso da ação, mas não tem efeitos retroativos. Desse modo, na hipótese dos autos, não teria o condão de isentar o agravante de arcar com os ônus sucumbenciais já fixados anteriormente.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.086.647/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+Assim, percebe-se que não merece reparo o acórdão recorrido, sendo de rigor a incidência do Enunciado n. 83 do STJ neste ponto.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA SOBRE DIREITOS DO IMÓVEL DO EMBARGANTE NOS AUTOS DO CUMPRIMENTO DE SENTENÇA. MÁ-FÉ DO ADQUIRENTE DO IMÓVEL NÃO COMPROVADA. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. CONCESSÃO DA JUSTIÇA GRATUITA. EFEITO EX NUNC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
