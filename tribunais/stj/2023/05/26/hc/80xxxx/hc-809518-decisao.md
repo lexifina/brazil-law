@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, apontando como autoridade impetrada o Tribunal de Justiça do Estado do Pará.
+Consta dos autos que o paciente foi condenado à pena de 15 anos de reclusão, regime fechado, como incurso no art. 121, §2º, incisos I e IV, do Código Penal. Extrai-se que foi mantida a prisão preventiva anteriormente decretada, a qual foi cumprida no dia 5/4/2017.
+Sustenta a defesa, em síntese, excesso de prazo para a conclusão da lide, eis que a defesa interpôs recurso de apelação, mas a mesma, em que pese ter sido protocolizada em 24/8/2018, e distribuída para a 3ª Turma de Direito Penal, ainda não foi julgada.
+Aduz que "o último despacho proferido pela Desembargadora Relatora está datado do dia 26/04/2022 e determina apenas a juntada do cálculo prescricional, para fins de controle" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para revogar a prisão preventiva.
+O pedido liminar foi indeferido. As informações foram prestadas.
+O Ministério Público Federal manifesta-se pelo conhecimento do writ e a concessão de habeas corpus, de ofício, para relaxar a prisão preventiva decretada nos autos do Processo-crime n. 0003736-13.2017.8.14.0051 (em grau de apelação), com aplicação, todavia, das medidas cautelares previstas no artigo 319 do CPP.
+O Tribunal de origem prestou informações nos seguintes termos (fl. 41):
+ ..  Esta desembargadora é relatora da Apelação Penal nº. 0003736- 13.2017.8.14.0051, interposta em benefício do referido paciente.
+Cumpre informar que estamos trabalhando nos processos da Meta 02, 04 e 08 para julgamento e cumprindo a ordem dos processos mais antigos, em observância aos paralisados há mais de 100 dias, bem como de réus presos, e dentro do cronograma de trabalho deste gabinete o referido recurso estará na prioridade para julgamento até o primeiro semestre de 2023.
+O paciente foi condenado como incurso no art. 121, §2º, incisos I e IV, do Código Penal, à pena de 15 anos de reclusão, regime fechado.
+A jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento da apelação.
+No entanto, o paciente está preso desde 5/4/2017 e a apelação foi interposta em 24/8/2018, há quase 5 anos, sem que tenha sido julgado o recurso pelo Tribunal de origem, o que configura excesso de prazo para a manutenção da prisão, devendo ser a custódia, portanto, relaxada. Nesse sentido:
+HABEAS CORPUS. DELITO DE INVASÃO DE DISPOSITIVO INFORMÁTICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA. PATENTE ILEGALIDADE. SUPERAÇÃO DA SÚMULA N. 691 DO STF. CONFIRMAÇÃO DA LIMINAR. HABEAS CORPUS CONCEDIDO.
+1. A hipótese de autorizar a mitigação da Súmula n. 691 do STF é excepcionalíssima, reservada aos casos em que a ilegalidade do ato apontado como coator é tão evidente que pode ser constatada sem nenhuma margem de dúvida ou divergência de opiniões.
+2. A teor da jurisprudência desta Corte, os "prazos do art. 46 do CPP são impróprios. Precedentes"(AgRg no HC n. 763.203/CE, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 4/10/2022) e devem ser sopesados conforme a complexidade dos fatos e as demais circunstâncias que justificariam a dilatação das investigações.
+3. No caso concreto, cabível a superação da Súmula n. 691 do STF, uma vez que o suspeito da prática de crime de invasão de dispositivo informático está segregado desde 20/10/2022, com inquérito relatado em 1º/11/2022, sem previsão para a inauguração da ação penal, porquanto pende de julgamento conflito de jurisdição. Apesar do intrincamento justificador da delonga, em face da garantia prevista no art. 5º, LXXVIII, da CF, a prisão preventiva não pode ser mantida por prazo indeterminado, enquanto o averiguado aguarda a definição sobre a autoridade competente para processá-lo e a inauguração de processo penal para realizar sua defesa.
+4. Verifica-se a imprescindibilidade de fixação de medidas cautelares do art. 319 do CPP, também cabíveis durante o inquérito policial, porque o édito prisional destacou a periculosidade do paciente, em face da reiteração da conduta, inclusive durante o trâmite de outra ação penal, e de sua gravidade concreta, em contexto que recomenda a adoção de providências menos aflitivas com o propósito de resguardar a ordem pública.
+5. Habeas corpus concedido para, confirmada a liminar, substituir a prisão preventiva por medidas cautelares descritas no voto. (HC n. 786.783/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.)
+Ante o exposto, concedo o habeas corpus para a soltura do paciente, se por outro motivo não estiver preso, devendo o Juiz de origem fixar as medidas cautelares previstas no art. 319 do CPP.
+Comunique-se.
+Publique-se.
+Intimem-se.
