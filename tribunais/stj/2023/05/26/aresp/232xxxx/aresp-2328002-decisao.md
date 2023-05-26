@@ -1,0 +1,37 @@
+DECISÃO
+Na origem trata-se de ação anulatória de ato administrativo referente a um decreto expropriatório. Na sentença julgou-se extinto o processo por inépcia . No Tribunal a quo a sentença foi parcialmente reformada para condenação em honorários advocatícios. O valor da causa foi fixado em R$ 1.000,00 (Um mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL CIVIL. EMENDA À INICIAL. PRECLUSÃO CONSUMATIVA. INÉRCIA. ARTIGO 321 E 485, I, AMBOS DO CPC. CITAÇÃO DOS RÉUS PARA OFERECER CONTRARRAZÕES. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+- As matérias vinculadas, tanto em preliminar quanto no mérito, foram devidamente rechaçadas por decisões (fundamentadas) não recorridas pela parte autora à época oportuna, de modo que não são passíveis de conhecimento nessa seara recursal, posto que encontram-se fulminadas pela preclusão consumativa.
+- O autor embora devidamente intimado pelo juízo de primeiro grau a, regularizar sua petição inicial no prazo de quinze dias, não o fez, deixando de retificar o valor da causa e de recolher as custas complementares.
+- In casu, a inércia do autor, que não cumpriu o ordenado pelo magistrado a e tampouco refutou tais determinações ao tempo certo, autoriza a aplicação do quo artigo 321, § único do CPC, o que leva à extinção do feito, sem julgamento do mérito.
+- Na hipótese dos autos, a relação jurídica processual foi devidamente triangularizada, tendo havido a interposição de apelação pela parte autora e a citação dos réus, que ofereceram contrarrazões.
+- Nos termos do enunciado administrativo n. 7, do Superior Tribunal de Justiça, a simples interposição da apelação já ensejaria o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC.
+- Levando em consideração as peculiaridades do presente caso, fixo os honorários, por apreciação equitativa, em R$ 40.000,00 (quarenta mil reais), a ser rateado entre os réus em partes iguais.
+- Apelo da parte autora improvido.
+- Apelo do INCRA provido
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O que importa saber, nessa oportunidade, é que o autor embora, devidamente intimado pelo juízo de primeiro grau a regularizar sua petição inicial no prazo de quinze dias, não o fez, deixando de retificar o valor da causa e de recolher as custas complementares.
+(..)
+Observo que o entendimento assente no STJ é no sentido de que a determinação para que se emende a inicial far-se-á ao autor, por seu advogado, sendo desnecessária a intimação pessoal, só aplicável às hipóteses dos incisos II e III do art.485 do CPC (correspondente ao artigo 267, II e III do CPC/1073). Confira-se:
+(..)
+(STJ - Superior Tribunal de Justiça; RESP - RECURSO ESPECIAL - 1200671;Processo nº 201001220955; Órgão Julgador: SEGUNDA TURMA; Fonte: DJE; DATA:24/09/2010; Relator: CASTRO MEIRA)
+(..)
+(STJ - Superior Tribunal de Justiça; AGRESP - AGRAVO REGIMENTAL NO RECURSO ESPECIAL - 1095871; Processo nº 200802058522; Órgão Julgador: QUARTA TURMA; Fonte: DJE; DATA: 06/04/2009; Relator: FERNANDO GONÇALVES).
+(..)
+Por fim, quanto aos honorários advocatícios, não se pode perder de vista que a interposição de apelação já na vigência do CPC/2015 enseja a aplicação de honorários recursais, nos termos do enunciado administrativo n. 7 do Superior Tribunal de Justiça. Neste sentido, é firme a jurisprudência pátria:
+(..)
+(RESP 1.753.990/DF-2018/0182000-5, Rel. MINISTRA MARIA ISABEL GALLOTTI, STJ - QUARTA TURMA, DJE DATA:11/12/2018);
+(..)
+(RESP 200900083045, MARIA THEREZA DE ASSIS MOURA, STJ - SEXTA TURMA, DJE DATA:03/11/2011 .. DTPB:)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 291, 292, 293, 927 e 1.009 do CPC/2015 e 27 do Decreto-Lei n. 3365/1941, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exp osto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
