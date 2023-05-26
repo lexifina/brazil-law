@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RVE KARVAS 06 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 399):
+AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA ALEGAÇÃO DE QUE FORA CONDENADA A RESTITUIR VALORES INDEVIDOS REDISCUSSÃO ACERCA DA LEGALIDADE DA MULTA CONTRATUALEDORESPECTIVOÍNDICE- QUESTÃOQUENÃOSE ENQUADRA NAS HIPÓTESES LEGAIS PARA A AÇÃO RESCISÓRIA PRETENSÃO DE MERA REVISÃO DO JULGADO - INADEQUAÇÃO DA VIA ELEITA INDEFERIMENTO DA PETIÇÃO INICIAL PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 403-408), a parte recorrente sustentou violação ao art. 966, V, do CPC/15, defendendo ser cabível a ação rescisória na presente hipótese, tendo em vista que restou demonstrada a violação do art. 67-A, I, II, e § 5º, da Lei de Incorporações Imobiliárias (Lei 4.591/94), com redação na Lei de Resolução do Contrato de Unidade Imobiliária (Lei 13.786 de 27.12.2018).
+Apontou, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 437-438, e-STJ), o que ensejou o manejo do presente agravo (fls. 441-444, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, o Tribunal de origem indeferiu liminarmente a petição inicial da ação rescisória com base nos seguintes fundamentos (e-STJ, fl. 401):
+Na verdade, a autora pretende assegurar pronunciamento favorável à sua tese, que deixou de apresentar nos autos da ação em que a sentença rescindenda fora proferida, embora tenha sido validamente intimada. Não se trata, portanto, de violação literal à lei, mas sim de interpretação diversa daquela que a autora queria que tivesse prevalecido. Na verdade, a autora pretende utilizar a via rescisória como sucedâneo recursal, a fim de obter um novo pronunciamento judicial sobre a questã o, após deixar transcorrer o prazo recursal.
+Como se vê, a Corte estadual afirmou que a recorrente não apresentou a tese pretendida nos autos em que proferida a sentença rescindenda.
+Nesse sentido, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+2. Outrossim, consoante entendimento firme nesta Corte Superior, "é indispensável que a questão aduzida na ação rescisória tenha sido objeto de deliberação na ação rescindenda", de modo que o acordão recorrido, ao indeferir liminarmente a inicial da rescisória, adotou entendimento consoante com a jurisprudência desta Corte sobre o tema.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO RECONHECIDA. NOVO JULGAMENTO DO AGRAVO INTERNO. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI (ART. 485, V, DO CPC/73). SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. INVIABILIDADE DA RESCISÓRIA. EMBARGOS ACOLHIDOS. EFEITOS INFRINGENTES. AGRAVO INTERNO DESPROVIDO.
+1. Constatada a omissão na análise de tese recursal, é cabível o acolhimento dos aclaratórios para saneamento do vício.
+2. "O cabimento da ação rescisória, com amparo na violação literal da norma jurídica, pressupõe que o órgão julgador, ao deliberar sobre a questão posta, confira má aplicação a determinado dispositivo legal ou deixe de aplicar dispositivo legal que, supostamente, melhor resolveria a controvérsia. Portanto, é indispensável que a questão aduzida na ação rescisória tenha sido objeto de deliberação na ação rescindenda" (AR n. 5.980/PB, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, DJe de 3/12/2021).
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, sendo cabível, excepcionalmente, apenas nas hipóteses previstas em lei" (AgInt na AR 6.685/MS, relator Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, DJe de 15/06/2021).
+4. Na hipótese, a autora pretende discutir matéria já decidida - responsabilidade pelo descumprimento dos prazos contratados pelas partes -, o que é inadmissível mediante o uso de ação rescisória, sob pena de transformar este instituto processual em sucedâneo recursal, comprometendo não só a segurança jurídica como a coisa julgada.
+5. Embargos de declaração acolhidos com efeitos infringentes para, em novo exame do agravo interno, negar-lhe provimento.
+(EDcl no AgInt no AREsp n. 1.084.877/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AÇÃO DE PRESTAÇÃO DE CONTAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ RECONSIDERADA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA.
+1. Cuida-se, na origem, de ação rescisória oriunda de liquidação de sentença de segunda fase de prestação de contas em revisional de contrato bancário ajuizada pelo agravante.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. "A violação a literal disposição de lei que autoriza o manejo de ação rescisória, a teor do disposto no inciso V do art. 966 do CPC, é a flagrante, teratológica. Sob essa ótica, a rescisória não se presta à verificação da boa ou má valoração jurídica dos fatos, ao reexame da prova produzida ou a sua complementação. Ademais, a mera interpretação de lei conferida à época do julgamento, mesmo que posteriormente modificada jurisprudencialmente, mas juridicamente aceitável, não pode ser considerada como veemente afronta a literal dispositivo de lei " (AgInt no AREsp 1.683.248/RS, 4ª Turma, DJe de 10/12/2020). Precedentes.
+5. Não é possível utilizar a ação rescisória como sucedâneo recursal; e pretender a reforma de julgado com amparo em divergência jurisprudencial que não foi fixada e tampouco debatida no acórdão impugnado. Precedente da Corte Especial do STJ.
+6. "Enquanto não decididas, as questões de ordem pública, como a aplicação de correção monetária e de juros moratórios, podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva. Precedentes." (AgInt no REsp 1.910.903/SC, 4ª Turma, DJe 18/06/2021). Precedentes.
+7. Agravo interno no agravo interno no agravo em recurso especial não provido.
+(AgInt no AgInt no AREsp n. 1.873.474/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
