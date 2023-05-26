@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SILVANETE DOS SANTOS OLIVEIRA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PREVIDENCIÁRIO. AGRAVO INTERNO. ART. 1.021 DO CPC. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO/APOSENTADORIA ESPECIAL. ATIVIDADE ESPECIAL. AGRAVO DESPROVIDO.
+- Apreciação do presente agravo segundo as disposições constantes do Novo Código de Processo Civil tendo em conta que a interposição se operou sob a égide do novo diploma legal.
+- Razões ventiladas no presente recurso que não têm o condão de infirmar a decisão impugnada, fundada na prova produzida nos autos em conformidade com legislação e entendimento jurisprudencial assente na 9ª Turma.
+- Agravo interno desprovido" (fl. 537e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação ao art. 369 do CPC/2015, sustentando que, "ainda na peça exordial, fora extensivamente argumentado que os documentos técnicos fornecidos pela empregadora não condiziam com a , razão pela qual torna-se imprescindível a realidade fática do ambiente de trabalho realização de perícia técnica, possibilitando desta forma que a recorrente comprove sua alegada exposição ao risco biológico" (fl. 550e); "a empregadora fornecera documentos técnicos que . não condizem com a realidade fática do ambiente de trabalho" (fl. 551e); "se a empresa recusa a fornecer documento técnico que retrate com fidedignidade a nocividade do ambiente de trabalho, torna-se imprestável aquela prova documental, sendo imprescindível a produção de outros meios de provas, os quais possibilitarão a comprovação das alegações da recorrente" (fl. 551e); e, "em que pese a clarividente disposição legal, o E. Tribunal Regional Federal da 3ª Região, afastando a literalidade do art. 369, CPC, afirmara que cabe a recorrente fazer provas constitutivas de seu direito apenas pela via documental" (fl. 553e); concluindo que "ao ser indeferida a produção de prova pericial postulada pela recorrente, houve, incontestavelmente, a violação ao artigo supra, uma vez que a recorrente fora impossibilitada de produzir as provas necessárias a comprovar sua alegação de que os formulários técnicos apresentados pela empresa não retratam com fidedignidade o ambiente de trabalho" (fl. 553e).
+Por fim, requer "o acolhimento do presente Recurso Especial para ao fim de lhe dar provimento, reconhecendo a afronta à legislação federal, especialmente art. 369, CPC bem como divergência jurisprudencial, para ao fim, reconhecer o cerceamento e consequentemente reformar o v. acórdão, para então, determinar a remessa dos de defesa autos à origem para reabertura da fase instrutória, com expressa determinação de prova pericial pela via direta, oportunidade na qual se alcançará a tão aguardada Justiça" (fl. 560e).
+Contrarrazões não apresentadas, inadmitido o Recurso Especial (fl. 580/584e), foi interposto o presente Agravo (fls. 586/590e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação de Concessão de Aposentadoria Especial ajuizada pela parte ora recorrente, em face do INSS, objetivando a concessão do benefício.
+Julgada improcedente a demanda, recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Para tanto, assim decidiu, no que interessa a espécie:
+"Insurge-se a parte autora em face de decisão publicada na vigência do novo Diploma Processual Civil, de modo que a análise do presente recurso será efetivada com base na atual legislação.
+Posta essa baliza, tenho que o agravo interposto não merece acolhimento, uma vez que as razões ventiladas nesse recurso não têm o condão de infirmar a decisão impugnada, fundada na prova produzida nos autos e de conformidade com legislação e entendimento jurisprudencial assente na 9ª Turma, cuja transcrição segue:
+"(..) DA PRELIMINAR DE CERCEAMENTO DE DEFESA
+Conforme art. 373, inciso I, do Código de Processo Civil, constitui ônus da parte autora demonstrar fato constitutivo de seu direito.
+Consequentemente, indefiro o pedido de produção de prova pericial e de expedição de ofício, lastreada na preclusão. A comprovação do período laborado em atividade especial, no caso dos autos, deve ser feita por meio de apresentação de formulários próprios e por laudos respectivos ao seu exercício.
+Em nenhum momento se evidenciou, nos autos, recusa dos empregadores em fornecer os documentos. Frise-se que foram carreados documentos, os quais serão, a seguir, indicados minuciosamente neste julgado.
+Ademais, caso a parte não disponha de laudos e de documentos hábeis à verificação de especiais condições, compete-lhe manejar a Justiça do Trabalho para obter documentos que evidenciem condições nocivas à saúde.
+Valho-me, por oportuno, de julgados da lavra do Tribunal Regional Federal da 3ª Região:
+(..)
+Afasto, portanto, a preliminar de cerceamento de defesa.
+(..)
+SITUAÇÃO DOS AUTOS:
+Postas as balizas, passa-se ao exame do(s) período(s) debatido(s), em face das provas apresentadas:
+Para comprovação do labor especial no lapso de 01/12/1989 a 02/05/2017, no qual trabalhou como "Auxiliar de Serviço", junto ao empregador FUNDAÇÃO FACULDADE REGIONAL DE MEDICICINA DE S.J. JOSÉ RIO PRETO; em que pese a parte autora tenha juntado aos autos o PPP Id 221550776 - págs. 08/12, tem-se que o referido documento não aponta, contrariamente ao alegado, exposição a agentes biológicos.
+Note-se que o campo "descrição das atividades", constante do referido perfil profissiográfico, informa atividades de natureza preponderantemente administrativa.
+Cumpre, no mais, ressaltar que o reconhecimento como especial pela categoria profissional apenas é permitido até 28/04/1995 (data da Lei nº 9.032/95).
+Logo, a parte autora não faz jus ao reconhecimento da especialidade do labor no lapso questionado.
+Dessa forma, a segurada não faz jus à aposentadoria especial, uma vez que não conta com qualquer período de natureza especial e, por conseguinte, não cumpre a contingência, ou seja, o tempo de serviço por período superior a 25 (vinte e cinco) anos, de modo a satisfazer o requisito temporal previsto no art. 57, da Lei nº 8.213/91.
+(..)
+- Aposentadoria por tempo de serviço / contribuição Em 02/05/2017 (DER), a parte autora não tinha direito à aposentadoria integral por tempo de contribuição (CF/88, art. 201, § 7º, inc. I, com redação dada pela EC 20/98), porque não preenchia o tempo mínimo de contribuição de 30 anos.
+Ainda, não tinha interesse na aposentadoria proporcional por tempo de contribuição (regras de transição da EC 20/98) porque o pedágio da EC 20/98, art. 9º, § 1º, inc. I, é superior a 5 anos.
+Mantenho a sucumbência tal como fixada pela r. sentença.(..)".
+Válido reafirmar, que da análise do PPP encartado em id 221550776 - págs.08/12, documento em regularidade formal, informam a exposição da demandante, ora agravante, tão somente a agente nocivo de natureza ergonômica, o que não enseja enquadramento como atividade especial.
+Outrossim, como destacado na decisão recorrida, as atividades laborais desenvolvidas pela agravante, enquanto nas funções de auxiliar de serviço/auxiliar administrativo, tais como descritas no aludido PPP, não evidenciam sua exposição a agente nocivo biológico, caracterizando tarefas predominantemente de natureza administrativa.
+Por fim, eventual questionamento quanto a inviabilidade do julgamento monocrático, em conformidade ao disposto no art. 932 do Código de Processo Civil, resta superado face à submissão do inteiro teor do decidido à consideração do Colegiado dessa C. 9ª Turma.
+Refutam-se, portanto as alegações da parte autora.
+De rigor a manutenção do agravado. decisum Diante do exposto, nego provimento ao agravo interno da parte autora.
+É como voto" (fls. 534/537e).
+Daí a interposição do presente Recurso Especial.
+Com efeito, conforme os excertos acima transcritos, o Tribunal de origem indeferiu o pedido de produção de prova pericial e de expedição de ofício, lastreada na preclusão (fl. 535e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Mesmo se inexistisse referido óbice, melhor sorte não socorreria o recorrente.
+Com efeito, cumpre ressaltar que o Superior Tribunal de Justiça firmou o entendimento de que a Corte de origem é soberana na análise das provas, podendo concluir pela desnecessidade da produção de provas periciais, documentais e testemunhais.
+Isso porque o Código de Processo Civil consagra o princípio do livre convencimento motivado, segundo o qual o Juiz é livre para apreciar as provas produzidas, bem como para decidir quanto à necessidade de produção ou não das que forem requeridas pelas partes, sendo-lhe lícito indeferir, motivadamente, as diligências que reputar inúteis ou protelatórias.
+A propósito, já decidiu esta Corte:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL.
+NOVA PERÍCIA. INDEFERIMENTO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o juiz é o destinatário da prova e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, a teor do princípio do livre convencimento motivado.
+2. Hipótese em que o julgado do Tribunal de origem decidiu a questão ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos (laudo técnico-pericial), cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (STJ, AgInt no AREsp 472.767/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 10/02/2017).
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DA PRODUÇÃO DE NOVA PROVA PERICIAL. OBSERVÂNCIA DO PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não ocorre cerceamento de defesa, pelo indeferimento de produção de nova prova pericial, quando o Magistrado entende que há elementos suficientes para o julgamento da lide.
+2. Ademais, considerando o princípio do livre convencimento motivado, cabe ao Magistrado valorar acerca da necessidade de complementação do material probatório.
+3. A alteração do julgado a fim de identificar a necessidade de realização de nova perícia, sob pena de cerceamento de defesa, implicaria, no presente caso, o reexame de provas, vedado pela Súmula 7/STJ.
+4. Em razão da incidência da Súmula 7/STJ ao caso concreto, resta prejudicada a análise do dissídio jurisprudencial, pois não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. Agravo regimental não provido" (STJ, AgRg no AREsp 696.506/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/08/2015).
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA (INCAPACIDADE TOTAL E PERMANENTE PARA O TRABALHO). CERCEAMENTO DE DEFESA. CONFECÇÃO DE NOVO LAUDO PERICIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, previsto no art. 131 do CPC. Assim, não há cerceamento de defesa quando, em decisão adequadamente fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental.
+2. A alteração das conclusões adotadas pela Corte de origem, a respeito do alegado cerceamento de defesa, bem como do preenchimento dos requisitos para a percepção de aposentadoria por invalidez acidentária, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 663.635/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/06/2015).
+Assim, considerando a fundamentação adotada, o acórdão recorrido, que afirmou que o "PPP encartado em id 221550776 -págs.08/12, documento em regularidade formal, informam a exposição da demandante, ora agravante, tão somente a agente nocivo de natureza ergonômica, o que não enseja enquadramento como atividade especial" (fl. 536e), concluindo, portanto, pela ausência dos requisitos para concessão do benefício previdenciário, somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ressalta-se que, no que tange à alegação de dissídio entre julgados, impossível se torna o confronto entre os paradigmas e o acórdão recorrido, porquanto a comprovação do alegado dissenso reclama análise sobre a situação fática própria de cada julgamento, o que não é possível de se realizar nesta via especial, por força da Súmula 7 desta Corte.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
