@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JORGE HENRIQUE DA COSTA SILVA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no HC n. 1.0000.23.093427-5/000.
+Consta nos autos que o Recorrente foi preso em flagrante delito no dia 22/04/2023, pela suposta prática dos crimes de tráfico e associação para o tráfico ilícito de drogas, em virtude da apreensão de 11 (onze) papelotes de cocaína, com massa de 8,45g (oito gramas e quarenta e cinco centigramas); 10 (dez) buchas de cocaína, com massa de 12,33g (doze gramas e trinta e três centigramas); 1 (uma) bucha de maconha, com massa de 7,93g (sete gramas e noventa e três centigramas); 1 (um) papelote de cocaína, com massa de 9,40 g (nove gramas e quarenta centigramas); e aproximadamente 420ml (quatrocentos e vinte mililitros) de loló.
+Irresignada com a conversão da prisão em flagrante em preventiva, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões recursais, alega-se, em suma, que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Sustenta-se a desnecessidade da segregação cautelar, tendo em vista que o Recorrente é primário, com residência fixa e trabalho lícito, sendo pequena a quantidade de droga apreendida.
+Requer-se, em liminar e no mérito, a imediata soltura do Recorrente, mediante a imposição de medidas cautelares diversas da prisão.
+É o relatório. Decido.
+Registro que, no HC n. 822.555 /MG, foi formulada idêntica pretensão à veiculada no presente feito, em favor do mesmo Paciente. Trata-se esta impetração, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem o mesmo decisum e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus e recurso ordinário em habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir. Assim, concluo pela inadmissibilidade do presente recurso, porquanto não pode ser conhecida a insurgência que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte.
+No mesmo sentido, v.g.: AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019; HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petiçã o recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 822.555/MG. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA.
