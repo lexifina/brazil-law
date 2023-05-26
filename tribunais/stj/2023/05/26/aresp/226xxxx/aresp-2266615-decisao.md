@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por KLEBSON CARDOSO contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra o acórdão prolatado no Agravo de Execução Penal n. 0723007-42.2022.8.07.0000.
+Consta dos autos que o Agravante cumpre pena de 16 (dezesseis) anos, 3 (três) meses e 28 (vinte e oito) dias, atualmente em regime semiaberto, pela prática de roubos e receptação.
+O Juízo singular indeferiu o pedido de transferência da execução da pena para a Comarca de Palmas/TO.
+Irresignada, a Defesa interpôs agravo em execução penal, que foi desprovido (fls. 55-79).
+Nas razões do recurso especial, o Recorrente alega ofensa ao art. 86 da Lei n. 7.210/1984.
+Assevera que " n ão é razoável que a informação de ausência de vagas compatíveis com o regime atual do apenado seja um óbice à transferência do recorrente para local próximo de sua família" (fl. 89).
+Argumenta que, "com base no princípio da proporcionalidade, em um juízo de ponderação entre a exigência de cumprir pena em estabelecimento compatível ao regime semiaberto e o direito de o paciente ficar próximo de seus familiares, este último se sobressai" (fl. 90).
+Foram apresentadas contrarrazões (fls. 99-101). Inadmitido o recurso especial (fls. 103-105), interpôs-se o presente agravo (fls. 109-114), contraminutado à fl. 118.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo (fl. 135).
+É o relatório. Decido.
+O agravo é tempestivo e infirmou o fundamento da decisão agravada, portanto, passo ao exame do recurso especial.
+O acórdão impugnado está assim fundamentado (fls. 61-64; sem grifos no original):
+"No entanto, o direito de transferência do preso não é absoluto ou irrestrito, devendo ser observados critérios que permitam o efetivo cumprimento da pena pelo interessado na transferência.
+Registre-se que a inexistência de vagas ou de estabelecimento prisional adequado ao regime em que se encontra o sentenciado deve ser levada em consideração pelo Juízo ao decidir acerca da transferência da execução da pena para outra localidade, sob pena de ofensa ao princípio da individualização da pena, a teor do que estabelece o § 3º do artigo 86, da Lei nº 7.210/1984, acima transcrito.
+Na mesma linha, o Superior Tribunal de Justiça possui o entendimento de que o direito à transferência do preso para estabelecimento prisional situado próximo ao local onde reside a sua família não é absoluto, devendo a decisão ser fundamentada não somente nas conveniências pessoais do sentenciado, mas também no interesse público. Ademais, a referida Corte entende que a ausência de vagas ou de estabelecimento adequado no sistema penitenciário do local pretendido constitui motivação idônea para indeferir o pleito de transferência do cumprimento da pena.
+ ..
+Na espécie, consta dos autos que, no âmbito do Distrito Federal, o agravante encontra-se regularmente recolhido em estabelecimento prisional compatível com o regime semiaberto a que está sujeito.
+Por outro lado, há a informação de que o "sistema prisional do Tocantins se encontra superlotado, em situação delicada" e que o regime semiaberto, na referida localidade, é cumprido com uso de monitoramento eletrônico, de modo que não se condiciona à existência de vaga no sistema prisional (ID 37213307 - Pág. 20).
+Cabe acentuar, por oportuno, que a prisão domiciliar para os apenados que cumprem pena em regime semiaberto é medida excepcional, que só se justifica diante de elementos concretos que demonstrem sua imprescindibilidade.
+Contudo, a situação fática apresentada nos autos não aponta a excepcionalidade que justifique a medida, uma vez que o agravante não se enquadra em nenhuma das hipóteses previstas no artigo 117 da Lei de Execução Penal.
+Além disso, observa-se que o agravante não se encontra incluído nas hipóteses cabíveis para a concessão de monitoração eletrônica, no âmbito do Distrito Federal, estabelecidas no Pedido de Providências nº 0007891-31.2018.8.07.0015, tendo em vista que ele ostenta condenações por crimes de roubo simples e circunstanciado, os quais foram praticados com emprego de violência ou grave ameaça contra pessoa.
+Nesse cenário, considerando que o agravante não tem direito à concessão de regime semiaberto harmonizado (em prisão domiciliar monitorada eletronicamente) no Distrito Federal, local em que ele se encontra regularmente recolhido em estabelecimento prisional compatível com o regime semiaberto, não se recomenda a sua transferência para comarca que não dispõe de estabelecimento adequado e que já sofre com a superlotação.
+De fato, nos termos destacados na decisão recorrida, a transferência do agravante significaria "incrementar a situação de penúria que levou à adoção do excepcional cumprimento de pena do regime semiaberto em monitoração eletrônica".
+Ademais, não há que se falar em violação à Súmula Vinculante nº 56, haja vista que, no caso concreto, não há falta de estabelecimento penal adequado ao regime aplicado ao agravante no Distrito Federal.
+Desse modo, na ponderação de interesses e diante das peculiaridades do caso concreto, mostra-se correta a decisão que indeferiu o pedido de transferência do apenado para a Comarca de Palmas/TO, a qual não dispõe de estabelecimento prisional adequado ao regime semiaberto, ainda que seja o lugar em que residem os familiares do agravante."
+Da leitura das razões recursais, constata-se que o Recorrente não impugnou, especificamente, os seguintes fundamentos apresentados pelo Tribunal de origem para manter o indeferimento do pedido de transferência da execução da pena para a Comarca de Palmas/TO: " ..  o agravante não se enquadra em nenhuma das hipóteses previstas no artigo 117 da Lei de Execução Penal  ..  considerando que o agravante não tem direito à concessão de regime semiaberto harmonizado (em prisão domiciliar monitorada eletronicamente) no Distrito Federal, local em que ele se encontra regularmente recolhido em estabelecimento prisional compatível com o regime semiaberto, não se recomenda a sua transferência para comarca que não dispõe de estabelecimento adequado e que já sofre com a superlotação" (fl. 64). Incide, na hipótese, o disposto na Súmula n. 283 do Supremo Tribunal Federal.
+Confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ILICITUDES DAS PROVAS POR VIOLAÇÃO À GARANTIA DO SIGILO DE COMUNICAÇÃO TELEFÔNICA OU REGISTROS TELEFÔNICOS. SÚMULA N. 284 DO STF. FUNDAMENTO DO ACÓRDÃO NÃO REFUTADO. SÚMULA N. 283 DO STF. ACÓRDÃO COM ENFOQUE CONSTITUCIONAL. NÃO INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA N. 126 DO STJ. PROVAS OBTIDAS A PARTIR DE LIGAÇÕES FEITAS DO CELULAR DO ACUSADO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A presença de fundamento não refutado, apto a manter a conclusão do acórdão impugnado, acarreta o não conhecimento da pretensão recursal, nos termos da Súmula n. 283 do STF.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 1.979.749/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUPOSTA OFENSA AO ART. 86 DA LEI DE EXECUÇÃO PENAL. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
