@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por SEPHORA FOGACA DE ALMEIDA ROCHA, contra decisão que não admitiu recurso especial. O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO DECLARATÓRIA CUMULAD ACOMINDENIZAÇÃO POR DANOS MORAIS. Sentença de improcedência dos pedidos. Insurgência da requerente. Inadmissibilidade. Cláusula contratual estipulando ser responsabilidade da recorrente possuir saldo positivo na conta corrente de Bofete para pagamento das prestações de financiamento. Banco que não possui ônus de buscar saldo credor em outras contas bancárias de titularidade da recorrente. Cobrança da dívida efetuada após 60 dias do inadimplemento. Declaração de falha operacional da instituição financeira não observada. Recorrido que agiu no exercício regular de seu direito, não havendo que se falarem falha de sua prestação de serviços, tampouco em indenização por danos morais. Decisão preservada. Recurso desprovido.
+Opostos os embargos de declaração, restaram rejeitados (fls. 300/303, e-STJ)
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 423 do Código Civil e 47 do CDC.
+Sustenta, em síntese:
+a) a existência de "poder outorgado expressamente ao Banco para fazer uso das reservas financeiras disponíveis em qualquer conta corrente de titularidade da Autora (..)";
+b) que o contrato firmado entre as partes é de adesão e possui cláusulas ambíguas e contraditórias, devendo ser interpretado de forma favorável à recorrente.
+Contrarrazões apresentadas.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente reclamo.
+Contraminuta apresenta pela parte adversa.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. No que toca à apontada violação dos arts. 423 do Código Civil e 47 do CDC, a Corte de origem, amparada nas provas dos autos, assim concluiu:
+Com efeito, as partes celebraram Contrato de Empréstimo, no valor de R$ 4.800,00, a ser quitado em 24 prestações de R$ 137,06,vencendo a primeira em 20/12/2004 e a última aos 20/11/2006 (fls. 32).
+Ficou estabelecido, ademais, que o pagamento se daria por débito na conta nº 0517-01-003065-8,obrigando-se o mutuário, desde já, a prover a respectiva conta com recursos suficientes e imediatamente disponíveis, para efetivação do débito que trata essa cláusula (cláusula 10ª - fls. 34).
+Em que pese a afirmação da requerente de não observado o decurso de 60 dias quando o banco inseriu seu débito no sistema de crédito vencido, não há nenhuma comprovação do alegado. Isso porque, conforme documento de fls. 21, a instituição financeira iniciou a cobrança aos 20/05/2005, data em que já havia decorrido 60 dias do inadimplemento da apelante (fls. 39).
+Além disso, conforme demonstrativo do débito fornecido pelo credor, a dívida era de R$ 12.761,16 em 15/07/2005 (fls. 39).
+No mais, como já mencionado, ficou estabelecido contratualmente que é ônus da recorrente manter saldo positivo na conta0517-01-003065-8, da agência de Bofete, para pagamento das prestações, o que inocorreu.
+Aliás, como decidido pelo MM. Juízo a quo,Às fls. 20 dos autos, a autora junta documento que comprova que na conta corrente92-000822-7 da agência 0017, Itapetininga, no dia 20 de maio de 2005 o saldo era de R$ 3.228,11. Afirma que tal saldo bancário seria suficiente para pagar o valor devido. Contudo, no tendencioso laudo, observa-se o contrato (fls. 32), no campo: "Valor, vencimento e outras condições" pode ser visto que a conta corrente para crédito era a da agência de Bofete, 0517, conta nº 01-003065-8 (fls.32/33). Também pode ser visto (fls.34), que os pagamentos seriam debitados em conta corrente indicado no "campo 2", ou seja, da agência de Bofete, 0517, conta nº 01-003065-8. Note-se, também, que às fls.32, no item 8 local de pagamento está em "caixa alta" AGÊNCIA BOFETE. Desse modo, não há comprovação de saldo suficiente para cobrir o débito, na conta contratada (fls. 117)(fls. 117).
+Nesse contexto, o recurso especial revela-se inviável, porquanto a adoção de conclusão diversa da do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, providências essas vedadas em recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+No mesmo sentido, confira:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.  ..  3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco de crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes. 4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ). 5. Agravo interno não provido. (AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+Nessa mesma linha, são as seguintes decisões monocráticas, envolvendo a mesma parte ora recorrente: AREsp 2237292/DF, RELATOR Ministro RICARDO VILLAS BÔAS CUEVA, DATA DA PUBLICAÇÃO 16/12/2022; AREsp 2251667/DF, RELATOR Ministro JOÃO OTÁVIO DE NORONHA, DATA DA PUBLICAÇÃO 23/02/2023.
+2. Do exposto, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
