@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FELIPE FIRMINO DE FRANÇA contra ato omissivo do Magistrado de primeiro grau, qual seja, a demora no andamento da ação penal.
+Noticia a Defensoria Pública que o recorrente foi preso em flagrante no dia 26/8/2022 pela suposta prática de crime do Sistema Nacional de Armas mas até a presente data a instrução criminal sequer foi iniciada.
+Nas razões do presente mandamus (e-STJ fls. 1/6), a Defensoria Pública sustenta constrangimento ilegal por excesso de prazo na prisão, e requer, liminarmente e no mérito, o relaxamento da prisão preventiva do recorrente.
+É o relatório. Decido.
+O presente habeas corpus foi endereçado ao DESEMBARGADOR PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ e não merece ser conhecido por esta Corte Superior porque o alegado constrangimento ilegal decorre de ato omissivo do Juízo de primeiro grau.
+As alegações apresentadas na presente impetração não foram previamente examinadas pelo Tribunal de Justiça local, configurando indevida supressão de instância.
+Esta Corte Superior não é competente para apreciar ato coator vinculado a Magistrado de primeiro grau, que seria a causa da configuração do excesso de prazo na prisão cautelar do paciente.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Ministro ALEXANDRE DE MORAES, Primeira Turma, julgado em 6/12/2019, DJe 18/12/2019).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus e determino a remessa dos autos ao Tribunal de Justiça local, para análise dos pedidos da defesa.
+Publique-se. Intimem-se.
