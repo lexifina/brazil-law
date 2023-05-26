@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CRISTINA MAKI WAKITA TANAKA e OUTROS, em face de decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a" da CF/88, desafia acórdão proferido pelo Tribunal de Justiça do Estado de são Paulo, assim ementado (fl. 74, e-STJ):
+AGRAVO DE INSTRUMENTO - Gratuidade da justiça - Declaração de pobreza nos termos da Lei1.060/50 que induz presunção iuris tantum - Benefício concedido a quem comprove a insuficiência de recursos nos termos do art. 5º, inciso LXXIV da CF - Necessidade da presença dos requisitos autorizadores - Inteligência dos artigos 99 a 102, do Código de Processo Civil e Lei 1.060/50 - Agravantes que não juntaram documentos - Não provada a condição de pobreza Quedaram-se inertes quando dada a oportunidade que demonstrassem a alegada insuficiência de recursos financeiros - Indeferimento mantido - Recurso desprovido.
+Opostos embargos de declaração (fls. 81/84, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 96/106, e-STJ), os insurgentes apontaram violação aos artigos 98 e 99 do Código de Processo Civil/15. Sustentaram, em síntese, a impossibilidade de arcar com as custas processuais.
+Contrarrazões às fls. 112/118, e-STJ.
+Em juízo prévio de admissibilidade (fls. 126/127, e-STJ), negou-se seguimento ao apelo especial, sob os seguintes fundamentos: i) não foi demonstrada a alegada vulneração aos dispositivos arrolados; ii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 130/139, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutam os óbices aplicados pela Corte estadual.
+Contraminutas às fls. 145/152, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. No tocante ao indeferimento da assistência judiciária gratuita para a pessoa jurídica, a jurisprudência consolidada deste Tribunal Superior é no sentido de que "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais." (Súmula 481, CORTE ESPECIAL, julgado em 28/06/2012, DJe 01/08/2012).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PESSOA FÍSICA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO JURIS TANTUM. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A concessão do benefício da gratuidade de justiça à pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 do Superior Tribunal de Justiça.
+2. No caso, as instâncias ordinárias concluíram que não ficou demonstrada a impossibilidade de a agravante pessoa jurídica arcar com os encargos processuais.
+3. Para a concessão do benefício da justiça gratuita à pessoa física basta a declaração, feita pelo interessado, de não reunir situação econômica que permita vir a juízo, sem prejuízo do próprio sustento e de sua família.
+4. A declaração de hipossuficiência firma em favor da pessoa física a presunção juris tantum de necessidade, a qual só poderá ser elidida diante de prova em contrário, o que na hipótese não ocorreu.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.675.896/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+Segundo os autos, a Corte de origem decidiu pelo indeferimento do pedido de concessão da gratuidade da justiça formulado pela pessoa jurídica.
+Essencialmente, o Tribunal a quo verificou que, não foram apresentados documentos que comprovem a necessidade atual do benefício, nos seguintes termos (fls. 88/89, e-STJ):
+No caso, não restou comprovada a ausência de recursos da pessoa jurídica para arcar com o pagamento das despesas inerentes ao processo.
+Desde a apreciação da tutela antecipada recursal já se consignava que a simples declaração de pobreza não era suficiente para a concessão da benesse pretendida e, por essa razão, este Juízo determinou a juntada de novos documentos(declaração de informações econômico-fiscais entregues à Receita Federal do Brasil nos exercícios de 2018, 2019 e 2020, declaração anual do Simples Nacional, balanço patrimonial e demonstrativo contábil do período retro) que poderiam ser aptos a corroborar as razões alegadas (fls. 15/16).
+A pessoa jurídica MTX, por sua vez, não trouxe documentos suficientes à demonstração de sua impossibilidade de arcar com as despesas do processo sem prejuízo do seu funcionamento, pois colacionado apenas o demonstrativo de resultados de 2019 (fls. 25/26). Não houve sequer esclarecimento de quais motivos teriam impedido a parte de juntar os documentos fiscais relativos ao ano de 2020, mormente quando ausente declaração de encerramento de suas atividades. Nota-se, inclusive, que o faturamento bruto de 2019 superou os vinte milhões de reais (fls. 26).
+Nesse cenário, a ausência de documentos comprobatórios de hipossuficiência financeira para a pessoa jurídica desautoriza a concessão da gratuidade de justiça tal como pedida.
+O acórdão impugnado acompanhou, nesse ponto, a orientação firmada no âmbito deste Superior Tribunal de Justiça. Aplica-se, portanto, o óbice enunciado na Sumula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Ademais, a revisão do aresto impugnado no sentido pretendido exigiria derruir a convicção formada nas instâncias ordinárias sobre a ausência de provas da situação financeira da pessoa jurídica, medida imprópria na via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+2. No tocante ao indeferimento da assistência judiciária gratuita para as pessoas físicas, as instâncias ordinárias, também, consignaram que a documentação acostada aos autos não demonstraria a necessidade de concessão da gratuidade de justiça, nos seguintes termos (fl. 75, e-STJ):
+Com o agravo vieram aos autos cópias de imposto de renda do ano de 2020 de Shinichi Tanaka onde observa-se que o autor possui casas, lotes, terrenos, automóvel e 4 cotas de empresas, além de duas previdências no nome da filha; tendo sua evolução patrimonial em 31/12/2019 no valor de R$ 403.664,81 (fls. 28/37);Cópia de imposto de renda de Tadayoshi do ano de 2020 que demonstram que o agravante possui parte de seis terrenos, um automóvel, quatro cotas e está descrito crédito decorrente de empréstimo efetuado a Tatiana Tanaka no valor de R$665.000,00. Se verifica que sua evolução patrimonial no período de 31/12/2018 foi de R$ 884.808,17 e em 31/12/2019 foi de R$ 1.059.749,13 (fls. 38/48); colacionaram também cópia de imposto de renda de Cristina Maki Wakita Tanaka que se verifica não possuir bens e sua evolução patrimonial zerada.
+Consoante se verifica que os agravantes deixaram de trazer aos autos, extratos bancários, demonstrativos de pagamentos, cópias de faturas de cartão de crédito, cópias de despesas ordinárias e cópia de imposto de renda de mais dois autores, onde poderíamos verificar se possui bens e direitos, e sua evolução patrimonial referente ao ano de 2018, 2019 e 2020. Documentos esses que não foram colacionados e que espelhariam melhor a hipossuficiência dos agravantes Shinichi e Tatiana, os demais comprovaram deter patrimônio e condição financeira incompatível com o benefício, em especial Tatiana, detentora de patrimônio milionário.
+Logo, por não ter sido provada a hipossuficiência financeira é de rigor a manutenção da r. decisão que indeferiu o benefício da justiça gratuita.
+Nesse contexto, tem-se que o provimento do pleito recursal demandaria que a premissa acima disposta fosse derruída. Para tanto, todavia, revelar-se-ia necessária a reanálise de matéria fático-probatória, providência vedada em sede de recurso especial, nos termos da Súmula 07/STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA NAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Após o indeferimento do benefício da assistência judiciária gratuita nas instâncias ordinárias, compete ao recorrente demonstrar que houve alteração em sua condição econômico-financeira a fim de que seja concedida a gratuidade na fase recursal.
+3. A presunção de veracidade da declaração de hipossuficiência pode ser ilidida na hipótese em que existam nos autos evidências de que não estão presentes os requisitos legais para deferimento do beneplácito.
+4. A alteração das conclusões da Corte a quo para reconhecer a alegada hipossuficiência ensejaria indevido reexame de fatos e provas, em face do disposto na Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1916722/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agrava para não conhecer recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Julgo prejudicado o pedido de efeito suspensivo pleiteado pelos insurgentes.
+Publique-se.
+Intimem-se.
