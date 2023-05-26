@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por TRANQUILO LUIZ CARNIEL, em face de decisão que não admitiu recurso especial (fls. 824-849, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 711-732, e-STJ):
+Apelação cível. Seguros. Plano de saúde. Diagnóstico de carcinoma de células escamosas (CEC de Laringe avançado). Limitação de atendimento na rede credenciada. Para que o usuário do plano de saúde tenha direito ao custeio das despesas médico-hospitalares em hospital não credenciado é necessário se conjugar a ocorrência de uma situação de urgência e emergência, com a impossibilidade de utilização da rede credenciada da empresa de plano de saúde, em decorrência da necessidade de um atendimento célere, da indisponibilidade do tratamento ou procedimento nos hospitais credenciados, ou recusa de atendimento na rede, inocorrente no caso concreto. Comprovação expressa de que o nosocômio onde o autor foi atendido não faz parte da rede credenciada. Inteligência do art. 373, 1, do Código de Processo Civil. Sentença mantida. Apelo não provido.
+Opostos embargos de declaração (fls. 735-742, e-STJ), esses foram rejeitados (fls. 754-759, e-STJ).
+Nas razões do recurso especial (fls. 764-793, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 6º, III, e 47 do CDC e 12 e 16, X, da Lei 9656/98, pois o reembolso do tratamento médico em questão deve ser integral, na medida em que a abrangência do plano em testilha era nacional e que o hospital escolhido era credenciado à Central Nacional Unimed, Unimed Fama e Unimed Seguros;
+Contrarrazões às fls. 808-818, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, com amparo nas Súmulas 211, 5 e 7 do STJ
+Irresignado, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. De acordo com a jurisprudência desta Corte, "nos termos do artigo 12, inciso VI, da Lei 9.656/98, o reembolso das despesas efetuadas pelo beneficiário com assistência à saúde somente é admitido em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros), e nos limites da relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto. Precedentes." (AgInt no AREsp n. 1.934.900/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.).
+Nesse sentido, cita-se, ainda, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "Nos termos do artigo 12, inciso VI, da Lei 9.656/98, o reembolso das despesas efetuadas pelo beneficiário com assistência à saúde somente é admitido em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros), e nos limites da relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto. Precedentes." (AgInt no AREsp n. 1.934.900/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.) 1.1. Hipótese em que o tribunal local assentou expressamente que a operadora de planos de saúde demonstrou cabalmente a existência de profissionais credenciados com a qualificação necessária para o tratamento da menor nos termos em que prescritos pela médica assistente.
+2. O dissídio jurisprudencial não atendeu aos requisitos dos arts.
+1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ, pois não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, de onde se evidencia a deficiência na fundamentação do recurso a atrair o óbice da já citada Súmula 284 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.156.638/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+No caso em tela, a Corte local, à luz das particularidades da causa, fixou as seguintes premissas fáticas: (i) havia a possibilidade de tratamento adequado junto à rede credenciada, no local de residência do autor; (ii) o hospital procurado pelo ora agravante não era credenciado à rede Unimed; (iii) a busca por tratamento fora da rede credenciada decorreu de intenção do próprio beneficiário, à revelia do plano; e (iv) não se tratava de situação de urgência e emergência.
+Diante desse cenário, entendeu descabido o pretendido reembolso integral das despesas realizadas com o tratamento.
+Nesse sentido, citam-se os seguintes trechos do acórdão recorrido (fls. 726-728, e-STJ):
+Importante sinalar que não se trata de inexistência de hospitais e profissionais habilitados na rede credenciada, mas, ao que parece, de livre opção do autor em realizar o procedimento em outra cidade, muito provavelmente com médico de sua confiança. Assim, ao optar pela realização do tratamento em hospital não credenciado, assumiu o risco de suportar os gastos com o seu tratamento, sendo descabido compelir a parte ré ao ressarcimento.
+(..)
+Acrescento, ademais, que a espécie não cuida de situação de urgência/emergência a autorizar a cobertura mesmo em rede não credenciada e fora da de abrangência contratual. Isso porque, em que pese o caso do autor seja lamentável e grave, inexiste qualquer comprovação efetiva de que sequer tenha buscado tratamento médico especializado em hospital credenciado.
+(..)
+Para atender ao comando do STJ, este relator oficiou ao hospital de São Paulo, Real e Benemérica Associação Portuguesa de Beneficência, a fim de ser informado se a Unimed Paulistana era ou não credenciada. O hospital respondeu que não, e tampouco a Unimed Nordeste RS. Logo, o autor contratou serviço eletivo e particular em hospital não credenciado e não se encontrava em situação de urgência ou emergência, não fazendo jus ao reembolso do que pagou ao hospital.
+Destaque-se, por oportuno, que a revisão de tais premissas demanda revolvimento de matéria probatória, providência vedada na presente esfera recursal, nos termos das Súmulas 5 e 7 do STJ.
+Nesse c ontexto, tem-se que o posicionamento externado pelo Tribunal local está alinhado ao estabelecido por esta Corte Superior. De rigor, portanto, a incidência da Súmula 83/STJ.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Deixo de majorar honorários advocatícios sucumbenciais, porquanto fixados no máximo legal.
+Publique-se.
+Intimem-se.
