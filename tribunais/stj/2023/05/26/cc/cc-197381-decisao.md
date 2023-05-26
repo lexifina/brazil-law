@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara da Fazenda Pública de Imperatriz/MA e o Tribunal Regional do Trabalho da 16ª Região, nos autos da reclamação trabalhista proposta contra o Município de Imperatriz/SP, em que a parte autora postula o pagamento de verbas trabalhistas.
+É o relatório. Passo a decidir.
+A jurisprudência desta Corte firmou-se no sentido de que se o vínculo proveniente entre o Poder Público e o servidor for estatutário a competência para análise das controvérsias trabalhistas será do Juízo Comum (Estadual ou Federal), se, ao contrário, a relação trabalhista estiver regida pela CLT, caberá à Justiça laboral o julgamento dos litígios provenientes do referido vínculo.
+Dentre os precedentes, destacam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO DE DIREITO E JUÍZO TRABALHISTA. RECLAMAÇÃO TRABALHISTA. PEDIDO E CAUSA DE PEDIR QUE SE BASEIAM EM NORMAS CELETISTAS. AGRAVO REGIMENTAL DO ESTADO DO RIO GRANDE DO NORTE DESPROVIDO.
+1. A determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+2. O STF, no julgamento da ADI 3.395/DF, em 05.04.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus Servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+3. Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+4. A definição da competência jurisdicional se dá em razão dos elementos identificadores ou constitutivos da demanda, a dizer, as partes, o pedido e a causa de pedir. No caso da Justiça do Trabalho, a causa de pedir é o elemento que atrai sua competência, esta relacionada com a fundamentação jurídica.
+5. In casu, tendo em conta que o pedido e a causa de pedir da autora se baseiam em normas celetistas, é manifesta a competência da Justiça do Trabalho para o processamento e julgamento do feito.
+6. Agravo Regimental do ESTADO DO RIO GRANDE DO NORTE desprovido (AgRg no CC 119.234/RN, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 13/9/2012).
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO. REGIME CELETISTA. AÇÃO RECLAMATÓRIA. VERBAS TRABALHISTAS.
+1. A Justiça do Trabalho é competente para processar e julgar as reclamações trabalhistas propostas por servidores públicos municipais contratados sob o regime celetista, instituído por meio de legislação municipal própria. Precedentes.
+2. Agravo regimental provido (AgRg no CC 116308/SP, Min. Castro Meira, Primeira Seção, julgado em 8/2/2012).
+Anote-se, ainda, que, com a modificação do vínculo do servidor com a Administração, de celetista para estatutário, a partir da promulgação de lei municipal, "permanece a competência da Justiça Especializada Trabalhista em relação às pretensões pretéritas, quando ainda não instituído o regime jurídico único" (AgRg no CC 131.102/PB, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 14/10/2014).
+Esse, a propósito, o teor da Súmula n. 97/STJ, verbis: "Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único".
+No caso, consta dos autos que a reclamante foi admitida em 21/6/2004, sob vínculo regido pela CLT e, posteriormente, houve a transposição para o regime estatutário, com o advento do regime jurídico único dos servidores do ente municipal, através da Lei n. 003/2014.
+Assim, como a pretensão manifestada na reclamatória trabalhista restringe-se às verbas relativas ao período celetista, deve ser reconhecida a competência da Justiça laboral para julgamento da demanda.
+Nessa linha, as seguintes decisões monocráticas proferidas em casos análogos: CC 189.621/MA, relator Ministro Humberto Martins, DJe 10/10/2022; CC 189.622/MA, relatora Ministra Assusete Magalhães, DJe 30/9/2022.
+Ante o exposto, conheço do conflito para declarar a competência do Tribunal Regional do Trabalho da 16ª Região, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. REGIME CELETISTA. POSTERIOR ALTERAÇÃO PARA O REGIME ESTATUTÁRIO. SÚMULA N. 97/STJ. COMPETÊNCIA DA JUSTIÇA LABORAL.
