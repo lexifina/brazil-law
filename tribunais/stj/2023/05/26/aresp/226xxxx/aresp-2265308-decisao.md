@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por VALTER BERTO DE CAMPOS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, alínea "c", da Constituição da República.
+Nas razões recursais, a defesa alega haver dissídio jurisprudencial quanto à possibilidade de fixação do regime inicial aberto, ainda na hipótese em que o condenado é reincidente. Para tanto, cita julgado do TJRS, na apelação n. 70013457031.
+Requer o provimento do recurso para que seja modificado o regime inicial de cumprimento de pena para o aberto.
+Foram apresentadas contrarrazões (e-STJ, fls. 423-426).
+O recurso foi inadmitido (e-STJ, fls. 429-430). Daí este agravo (e-STJ, fls. 436-444).
+O Ministério Público Federal opina pelo não conhecimento do agravo em recurso especial (e-STJ, fls. 464-466).
+É o relatório.
+Decido.
+Acerca da controvérsia, assim constou do acórdão recorrido (e-STJ, fls. 381-382):
+"O regime foi fixado no fechado. Com o devido respeito, inviável a fixação do regime aberto postulado pela defesa, dado tratar-se de sentenciado reincidente.
+Além disso, as circunstâncias do art. 59 do Cód. Penal não favorecem o apelante, dados os maus antecedentes ostentados."
+Quanto ao regime prisional, de acordo com a Súmula 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso dos autos, a instâncias ordinárias estabeleceram a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Código Penal (maus antecedentes), o que, por si só, permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+Outrossim, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, não há que se falar sequer em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor.
+A propósito, com destaques:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DESCRITO NO ART. 155, CAPUT, DO CP. CONDENAÇÃO. PRETENSÃO A REGIME INICIAL MENOS GRAVOSO. PACIENTE REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA-BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE SUPERIOR. INAPLICABILIDADE DA SÚMULA N. 269/STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS LEGAIS (ART. 44 DO CP). INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. MATÉRIA SEQUER SUSCITADA PERANTE O TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. In casu, conquanto tenha a reprimenda final imposta ao agravante sido fixada em patamar não superior a 4 anos, foi-lhe aplicado o regime prisional fechado, considerando a reincidência e a circunstância judicial desfavorável (maus antecedentes), que afastou a pena-base do seu mínimo legal, revelando-se em total conformidade com a jurisprudência desta Corte Superior.
+2. A tese de incidência do princípio da insignificância sequer foi suscitada perante o Tribunal de origem, impedindo, assim, o pronunciamento diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+3. A gravo regimental improvido."
+(AgRg no HC 534.561/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/02/2022, DJe 16/02/2022).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. ANOTAÇÃO CRIMINAL ALCANÇADA PELO PERÍODO DEPURADOR DE 5 ANOS. MAUS ANTECEDENTES. POSSIBILIDADE. TENTATIVA. RECONHECIMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME FECHADO. ACUSADO REINCIDENTE E COM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE OFENSA À SÚMULA N. 269 DESTA CORTE. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - A jurisprudência desta Corte tem posicionamento firme no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo o aumento da pena- base acima do mínimo legal e a devida individualização das penas.
+III - Em sede de habeas corpus, não há como aferir se o delito foi consumado ou tentado, sob pena de revolvimento fático-probatório, não cabendo, na estreita via do mandamus, alterar a conclusão devidamente fundamentada das instâncias ordinárias.
+IV - Em relação ao regime prisional, sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido."
+(AgRg no HC 653.878/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/04/2021, DJe 27/04/2021).
+Portanto, incide à hipótese a Súmula 83 do STJ, in verbis: "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
