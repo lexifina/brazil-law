@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MANOEL DOS SANTOS, contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 23/01/2023.
+Concluso ao Gabinete em: 08/05/2023.
+Ação: declaratória de nulidade/inexigibilidade de desconto em folha de pagamento c/c repetição de indébito e pedido de compensação por danos morais ajuizada por MANOEL DOS SANTOS em desfavor do BANCO BRADESCO FINANCIAMENTOS S.A.
+Sentença: julgou improcedentes os pedidos formulados na inicial, extinguindo o feito com resolução do mérito, condenando a parte autora ao pagamento de multa de 5% (cinco por cento) sobre o valor da causa, acrescido de correção monetária pelo INPC a partir do respectivo ajuizamento, com fundamento nos arts. 80, inc. II, e 81, caput, do Código de Processo Civil, em razão do reconhecimento da litigância de má-fé.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE/ INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. CERCEAMENTO DE DEFESA. IDENTIDADE ENTRE A ASSINATURA CONTIDA NO CONTRATO SUB JUDICE E AQUELAS APOSTAS NOS DOCUMENTOS PESSOAIS QUE ACOMPANHAM A INICIAL. ADEMAIS, DOCUMENTOS PARTICULARES APRESENTADOS NO MOMENTO DA CONTRATAÇÃO, ALÉM DE FIDELIDADE DOS DADOS CONTIDOS NO PACTO. ASSINATURA DE CONTRATO EM BRANCO QUE CARACTERIZA OUTORGA DE PODERES. PRECEDENTES DESTA CÂMARA. AUSÊNCIA DE INDÍCIOS DE FALSIDADE. PRELIMINAR AFASTADA. MÉRITO. VALIDADE DO NEGÓCIO FIRMADO ENTRE OS LITIGANTES. COMPROVAÇÃO DE QUE O VALOR CONTRATADO SERVIU PARA QUITAÇÃO DE DÉBITO ANTERIOR E QUE A QUANTIA REMANESCENTE FOI LANÇADA EM FAVOR DA PARTE DEMANDANTE. EXTRATOS BANCÁRIOS DO PERÍODO NÃO APRESENTADOS PELA PARTE AUTORA. PROVA QUE LHE COMPETIA. LICITUDE DOS DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO. AUSÊNCIA DE DANO MATERIAL E MORAL. LITIGÂNCIA DE MÁ-FÉ. PRETENSO AFASTAMENTO DA PENALIDADE. INVIABILIDADE. DOCUMENTAÇÃO JUNTADA PELO BANCO RÉU QUE COMPROVA A EXISTÊNCIA DO NEGÓCIO JURÍDICO. ALTERAÇÃO DA VERDADE DOS FATOS. MÁ-FÉ EVIDENTE. CONFIGURAÇÃO DA CONDUTA PREVISTA NO ART. 80, II, DO CPC. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO. EXIGIBILIDADE SUSPENSA EM RAZÃO DA CONCESSÃO DA JUSTIÇA GRATUITA. RECURSO CONHECIDO E DESPROVIDO. " (e-STJ, fl. 267)
+Recurso especial: Além de dissídio jurisprudencial, alegou ofensa aos arts. 79, 80, 81, 489, II, §1º, IV, VI, e 1.022, II, do CPC/2015, sustentando: i) omissão e falta de fundamentação do julgado; ii) que para a condenação por litigância de má-fé é indispensável a comprovação irrefutável do elemento subjetivo (dolo ou culpa grave) e do elemento objetivo (prejuízo causado à parte), não se admitindo a aplicação da multa pelo exercício do direito de ação, garantido constitucionalmente; iii) que diante da ausência de comprovação de que o recorrente tenha intuito de induzir o juízo em erro, e causar prejuízo à recorrida, não há que se falar em condenação por litigância de má-fé, devendo, portanto, ser afastada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ofensa aos arts. 489, §1º, IV, 1.022, I e II, e 1.025 do CPC/2015
+A ausência de expressa indicação de obscuridade, omissão ou contradição e da falta de prestação jurisdicional nas razões recursais enseja o não conhecimento do recurso especial.
+Aplica-se, na hipótese, a Súmula 284/STF.
+- Da multa por litigância de má-fé
+Acerca do tema, extrai-se do acórdão recorrido:
+"No caso em análise, entendo ser inviável o afastamento da penalidade aplicada pelo Magistrado a quo, já que a parte autora tentou alterar a verdade dos fatos ao alegar que não celebrou o negócio jurídico com a instituição financeira ré, o que, como visto, restou comprovado nos autos.
+Vejo, portanto, que restou comprovado o uso abusivo do processo, com a clara tentativa de alterar a verdade dos fatos - alegada inexistência de contratação - para obter vantagem indevida - não cumprir com as obrigações contratadas com o banco - , configurando, assim, a conduta descrita no art. 80, II, do CPC.
+(..)
+Diante disso, entendo que a multa aplicada deve ser mantida. " (e-STJ, fls. 271/272)
+Assim, derruir a conclusão a que chegou o Tribunal a quo no sentido de que estaria caracterizada a litigância de má-fé, demandaria o reexame de fatos e provas, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Nesse sentido: AgRg no AREsp 451.641/RJ, QUARTA TURMA, julgado em 08/05/2014, DJe 19/05/2014; AgRg no Ag 816.461/SP, SEXTA TURMA, julgado em 02/12/2014, DJe 17/12/2014; AgRg no AREsp 280.249/SP, TERCEIRA TURMA, julgado em 21/03/2013, DJe 03/04/2013.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (inocorrência de litigância de má-fe para afastamento da multa aplicada), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% sobre o valor atualizado da causa (e-STJ, fl. 272) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE/EXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DO INDÉBITO. COMPENSAÇÃO POR DANOS MORAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CPC. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação declaratória de nulidade/inexigibilidade de desconto em folha de pagamento c/c repetição de indébito e pedido de compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão, contradição ou deficiência na fundamentação nas razões recursais enseja o não conhecimento do recurso especial ante a deficiência na sua fundamentação. Súmula 284/STF.
+3. O reexame de fatos e provas em recurso especial é inadmissível. Súmula 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido para não conhecer do Recurso especial
