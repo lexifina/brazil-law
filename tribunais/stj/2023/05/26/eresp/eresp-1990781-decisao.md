@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL interpostos por LOURENCO PEREIRA DOS SANTOS com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados, dentre ouros:
+a) EDcl no REsp n. 1.353.931/RS, proferido pela Segunda Turma;
+b) AgRg no REsp n. 1.452.001/SP, e AgRg no REsp n. 1.341.102/SP, proferidos pela Primeira Turma;
+c) AgRg no REsp n. 1.150.564/SP, AgRg no REsp n. 1.291.482/MG, AgRg no REsp n. 515.114/RS, AgRg no REsp n. 945.696/SP, e AgRg no REsp n. 967.344/DF, proferidos pela Sexta Turma;
+d) AgRg no REsp n. 1.118.677/SP, e AgRg no REsp n. 944.487/SP, proferidos pela Quinta Turma
+e) Eresp n. 1.171.565/SP, Eresp n. 175.265/SP, AR n. 3.402/SP, e AR n. 800/SP, proferidos pela Terceira Seção;
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 284/STF e da vedação do exame, pela via especial, de suposta violação a dispositivo constitucional. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Registre-se, ainda, que o acórdão embargado é da Primeira Turma, e que a parte suscitou divergência jurisprudencial em face de diversos paradigmas proferidos pela Quinta e Sexta Turmas, bem como pela Terceira Seção.
+Desde a edição da Emenda Regimental n. 14/2011, as Quinta e Sexta Turmas, que compõem a Terceira Seção do Superior Tribunal de Justiça, passaram a ter jurisdição somente em questões de Direito Penal e Processual Penal, não sendo mais competentes para processar e julgar a matéria objeto da divergência em análise, a teor da Súmula n. 158 desta Corte Superior: "Não se presta a justificar embargos de divergência o dissídio com acórdão de Turma ou Seção que não mais tenha competência para a matéria neles versada".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. REQUISITOS PARA DEMONSTRAÇÃO DA DIVERGÊNCIA. ART. 1.043, § 3º, DO CPC/2015 E ART. 266, §4º, DO RISTJ. DESCUMPRIMENTO. PARADIGMA DE TURMA QUE NÃO DETÉM MAIS COMPETÊNCIA SOBRE A MATÉRIA. SÚMULA 158 DO STJ.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado na incidência da Súmula 182/STJ.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+IV - A jurisprudência da Corte Especial ao interpretar o § 4º do art. 1.043 do CPC/2015 e o art. 266, § 4º, do Regimento Interno desta Corte Superior entendeu que é pressuposto indispensável para a comprovação ou configuração da alegada divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet. Precedentes.
+V - A súmula 158/STJ preconiza não servir para justificar dissídio o acórdão proferido por turma que não possui competência regimental sobre a matéria, em virtude da finalidade precípua dos embargos de divergência de unificação de jurisprudência, evitando-se reiteração de decisões díspares em casos idênticos.
+Agravo Interno desprovido.
+(AgInt nos EAREsp 1083436/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 27/10/2020, DJe 12/11/2020.)
+Mencionem-se, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp 1536533/RS, relator Ministro Og Fernandes, Corte Especial, DJe de 21/3/2017; AgInt nos EREsp 1347966/SC, relator Ministro Felix Fischer, Corte Especial, DJe de 27/3/2017; AgInt nos EAREsp 397.600/PR, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 21/2/2017; AgInt nos EREsp 1241569/RS, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 3/3/2017.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
