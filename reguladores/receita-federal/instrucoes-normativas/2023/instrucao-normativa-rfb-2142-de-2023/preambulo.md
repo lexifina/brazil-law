@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2142, de 26 de maio de 2023
+Altera a Instrução Normativa RFB nº 2.003, de 18 de janeiro de 2021, que dispõe sobre a Escrituração Contábil Digital (ECD).
+A SECRETÁRIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso das atribuições que lhe conferem o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e a Portaria de Pessoal SE/MF nº 711, de 23 de abril de 2023, e tendo em vista o disposto no § 3º do art. 11 da Lei nº 8.218, de 29 de agosto de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e nos arts. 1º e 2º do Decreto nº 6.022, de 22 de janeiro de 2007, resolve:
