@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por JOSE APARECIDO DA SILVA, com pedido de efeito suspensivo, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que não conheceu do mandamus, nos termos da seguinte ementa:
+"AGRAVO INTERNO. Monocrática não conhecendo de mandado de segurança de interlocutória determinando a suspensão de CNH de corréu em ação civil pública. Matéria não inserida no rol do art. 1.015 do CPC. Ausentes novos fundamentos a ensejar alteração da solução adotada. Decisão mantida. Agravo não provido" (fl. 104e).
+Nas razões do Recurso Ordinário, a parte ora recorrente sustenta, em síntese, o equívoco do acórdão regional e, consequentemente, a ilegalidade do ato apontado como coator, na medida em que:
+"No mérito, a impetração advém exatamente pelo fato do impetrado deixar de apreciar o pedido impetrante, que o fez por petição apontando que a atual jurisprudência do Egrégio TJSP mudou sobre o tema.
+(..)
+Inclusive, em recente decisão este Colendo STJ afetou o tema, suspendendo todas as execuções envolvendo medidas atípicas como suspensão de CNH e apreensão de passaporte do devedor (REsp n º 1.955.574/SP e 1.955.539/SP).
+Diante deste quadro, a suspensão da CNH não pode prosperar, ou melhor, sem a definição do tema.
+Por outro lado, a suspensão de todos os processos e recursos sobre o tema, data vênia, atrai por corolário lógico a represtinação do direito de dirigir ao RECORRENTE. Até porque, um dos fundamentos da afetação do tema é pacificar a jurisprudência, qual seja: a legalidade/possibilidade ou não da suspensão do direito de dirigir, que ainda diverge sobre o tema.
+Ao nosso ver, temos que a suspensão do direito de dirigir não se justifica, pois, a condição de motorista não pressupõe a detenção de patrimônio, e sim, condições psicológicas e técnicas (art. 140, da Lei Federal n º 9.503/1997).
+Sem contar, que a possibilidade de suspensão deste direito esta enumerada em exaustivo rol legal - art. 261, da Lei Federal n º 9.503/1997. Assim como, a cassação (art. 263 do mesmo dispositivo)" (fls. 115e).
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 136/138e.
+A irresignação não merece prosperar.
+Na origem, trata-se de Mandado de Segurança de corréu na Ação Civil Pública, em fase de cumprimento de sentença, contra decisão proferida pelo Juízo da Vara Única de Rosana que manteve a decisão determinando a suspensão da CNH.
+O Tribunal de origem não conheceu do mandamus, ao fundamento de que a matéria não está inserida no rol do art. 1.015 do CPC, tampouco nas exceções admitidas pela jurisprudência.
+De fato, nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, "não é cabível Mandado de Segurança como sucedâneo recursal, uma vez que a ação mandamental visa a proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública, não podendo ser utilizada de forma substitutiva, sob pena de se desnaturar a sua essência constitucional" (STJ, AgInt no MS 23.159/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 05/12/2017).
+Nesse contexto também é a Súmula 267/STF: "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Ademais, na hipótese, não se verifica a ocorrência de decisão judicial manifestamente ilegal ou teratológica, tampouco a existência de direito líquido e certo amparável por Mandado de Segurança, pois a decisão impugnada encontra-se devidamente motivada e o fato de a recorrente não concordar com os fundamentos do decisum não a torna ilegal. Nesse sentido: STJ, AgInt no RMS 64.028/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 17/12/2020; AgInt nos EDcl no RMS 59.185/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 19/12/2019.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. SÚMULA N. 267 DO STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou orientação segundo a qual se admite a impetração de mandado de segurança contra ato judicial em situações excepcionalíssimas de flagrante ilegalidade, abuso de poder ou teratologia.
+III - Não cabe a utilização do mandamus como sucedâneo recursal, conforme o disposto na Súmula n. 267/STF (Não cabe mandado de segurança contra ato judicial passível de recurso ou correição) e precedentes deste Tribunal Superior.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido" (STJ, AgInt no RMS n. 69.981/RJ, Rel. MINISTRA REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 26/4/2023).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. BENEFÍCIO DA GRATUIDADE DA JUSTIÇA INDEFERIDO COM BASE EM ELEMENTOS CONCRETOS. NÃO CABIMENTO DO MANDADO DE SEGURANÇA COMO SUCEDÂNEO RECURSAL. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO DE PLANO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 5º, inciso II, da Lei n. 12.016/2009, não cabe mandado de segurança contra decisão judicial da qual caiba recurso com efeito suspensivo. No mesmo sentido, dispõe o enunciado 267 da Súmula do Supremo Tribunal Federal que não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+2. Mesmo que se flexibilize esse entendimento, não se infere nenhuma ilegalidade ou teratologia do ato judicial atacado pelo mandamus, o qual indeferiu fundamentadamente o benefício da gratuidade da justiça com base em elementos indicativos de que o requerente não é hipossuficiente.
+3. Ademais, o acolhimento das alegações do recorrente e a alteração da conclusão a que chegaram as instânci as de origem exigiriam dilação probatória; o que, entretanto, é inadmissível na via do mandado de segurança, ou de seu respectivo recurso.
+4. Agravo regimental desprovido" (STJ, AgRg no RMS n. 56.412/SP, relator MINISTRO ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 19/4/2023).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ e na Súmula 568/STJ, nego pro vimento ao presente Recurso Ordinário, ficando prejudicado o pedido de efeito suspensivo.
+I.
