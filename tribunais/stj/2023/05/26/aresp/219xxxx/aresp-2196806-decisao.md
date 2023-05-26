@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por REGINALDO DAS MERCÊS SANTOS, contra a decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República, dirigido contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0317.15.008004-0/001.
+Consta nos autos que o Agravante foi condenado como incurso no art. 312, § 1.º, c.c. o art. 327, § 2.º, ambos do Código Penal, às penas de 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e pagamento de 13 (treze) dias multa. Houve apelação somente defensiva, a que o Tribunal de origem negou provimento, em acórdão assim ementado (fl. 557):
+"EMENTA: APELAÇÃO CRIMINAL - PECULATO - PRELIMINARES REJEITADAS - AUTORIAS E MATERIALIDADE DEVIDAMENTE COMPROVADAS - CONDENAÇÕES MANTIDAS. Não há falar-se em cerceamento de defesa por ofensa ao artigo 402, do CPP, pois ao juiz cabe indeferir as provas consideradas inúteis ou protelatórias. A existência de provas circunstanciais e harmônicas do fato denunciado é o suficiente para a configuração do delito de peculato, devendo, portanto, ser mantida a condenação do apelante. REJEIÇAO DAS PRELIMINARES E IMPROVIMENTO DO RECURSO QUE SE IMPÕE."
+Opostos embargos de declaração defensivos, foram rejeitados (fls. 595-599).
+No recurso especial, foram trazidas as seguintes alegações:
+a) violação ao art. 619 do Código de Processo Penal e divergência jurisprudencial acerca do dispositivo, pela negativa de prestação jurisdicional pois, apesar da oposição de embargos declaratórios, não foram sanadas as omissões e contradições no acórdão recorrido;
+b) ofensa ao art. 317, § 2º, do Código Penal, pela inaplicabilidade da causa de aumento prevista no dispositivo, porque o Agravante era tão-somente equiparado a servidor público. Diz que, uma vez afastado o aumento da pena decorrente dessa majorante, deve ser reconhecida a prescrição da pretens ão punitiva.
+Oferecidas contrarrazões (fls. 639-640), inadmitiu-se o recurso na origem (fls. 643-646), advindo o presente agravo (fls. 663-674), contraminutado às fls. 677-679.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo, em parecer com a seguinte ementa (fl. 692);
+"PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. PECULATO. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INEXISTÊNCIA DE COTEJO ANALÍTICO.
+PARECER PELO NÃO CONHECIMENTO DO AGRAVO."
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem inadmitiu o apelo nobre, pois o Tribunal de origem teria apreciado todos os pontos necessários para a solução da controvérsia, não havendo violação ao art. 619 do Código de Processo Penal, e também pela incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+No tocante à incidência da Súmula n. 7 do Superior Tribunal de Justiça, o Agravante se limitou a aduzir, genericamente, que não seria caso de reexame de fatos, mas sem explicitar, à luz das teses recursais trazidas no recurso especial e, especialmente, dos elementos constantes do acórdão recorrido, de que maneira a análise não dependeria do reexame de provas, como afirmado na decisão de inadmissão do apelo nobre. Não houve sequer menção a nenhum dado concreto constante do acórdão objeto da insurgência.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, RECEPTAÇÃO E RESISTÊNCIA. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, mas cabe a parte demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+ ..
+Agravo regimental desprovido." (AgRg no AREsp 1.638.260/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO RECURSO. SÚMULA N.º 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, o Agravante se limitou a sustentar, genericamente, que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial - o que não se confunde com a mera transcrição das razões do apelo nobre - , de que maneira a análise não dependeria do reexame de provas. Sendo assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n.º 7 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 1.593.391/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020.)
+Portanto, não houve a observância da dialeticidade recursal, motivo pelo qual carece o agravo de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta de todos os fundamentos utilizados para inadmitir o recurso especial.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Verificado que o agravante se restringiu a reiterar as razões do recurso especial, sem impugnar os fundamentos da decisão agravada, incide o enunciado sumular n. 182 do STJ.
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido. Ordem concedida de ofício, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, reduzir a reprimenda do agravante para 5 anos e 10 meses de reclusão, no regime inicial semiaberto, mais 583 dias-multa." (AgRg no AREsp n. 2.036.220/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 29/3/2022, DJe 1.º /4/2022; sem grifos no original.)
+Além disso, observa-se que o agravo também não deve ser conhecido, por estar parcialmente prejudicado o apelo nobre.
+Destarte, a alegação trazida no recurso especial, no sentido de que deveria ser excluída a causa de aumento do art. 327, § 2.º, do Código Penal, foi apreciada por esta Corte Superior no HC n. 609.687/MG, em que o Agravante figurou como Paciente. A ordem foi denegada, monocraticamente, em decisão da minha lavra, a qual foi ratificada pelo Colegiado da Sexta Turma, em agravo regimental, por meio de acórdão que recebeu a seguinte ementa:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PECULATO.
+EXERCÍCIO DE CARGO EM COMISSÃO. CAUSA DE AUMENTO DE PENA. ART. 327, § 2.º, DO CÓDIGO PENAL. APLICABILIDADE.
+AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Conforme dispõe o art. 327, § 2.º, do Código Penal, nos crimes contra a Administração Pública, "a pena será aumentada da terça parte quando os autores dos crimes previstos neste Capítulo forem ocupantes de cargos em comissão ou de função de direção ou assessoramento de órgão da administração direta, sociedade de economia mista, empresa pública ou fundação instituída pelo poder público".
+2. No caso, as instâncias de origem esclareceram que "o denunciado praticou o crime enquanto ocupava o cargo em comissão de administrador do Distrito de Senhora do Carmo". Nesse contexto, o entendimento adotado no acórdão impugnado está em consonância com a jurisprudência desta Corte no sentido de que incide a causa de aumento de pena em epígrafe àqueles que, à época dos fatos, eram ocupantes de cargo em comissão, sendo irrelevantes o fato de o Agente não ser originariamente servidor público, bem como a natureza do cargo em comissão ocupado.
+3. Agravo regimental desprovido."
+Registra-se que contra o referido acórdão houve a interposição de recurso ordinário (RHC n. 207435/MG), o qual foi desprovido em decisão monocrática da lavra do Exmo. Sr. Ministro GILMAR MENDES. Interposto agravo regimental, a Segunda Turma do Supremo Tribunal Federal lhe negou provimento, em acórdão que transitou em julgado em 02/02/2022.
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ARGUMENTOS DA IMPETRAÇÃO IDÊNTICOS AOS DO ARESP 1.769.998/RJ, JÁ JULGADO POR ESTE COLEGIADO. PREJUDICIALIDADE DO WRIT. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quando habeas corpus e recurso especial versam sobre o mesmo tema, há entre eles relação de prejudicialidade, de modo que o julgamento de um torna prejudicado o outro. Precedentes.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC n. 673.096/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/10/2021.)
+"AGRAVO REGIMENTAL NO AGRAVO REGI MENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. PEDIDO DEDUZIDO EM HABEAS CORPUS ANTERIORMENTE IMPETRADO. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. Constatado que o recurso especial é mera reiteração de habeas corpus anteriormente impetrado e já decidido, é caso de julgá-lo prejudicado ante a ausência de interesse recursal, uma vez que a causa de pedir e o pedido são idênticos, além de ambos atacarem o mesmo acórdão ora recorrido.
+2. "Quando o habeas corpus e o recurso especial veiculam idêntica pretensão, o julgamento de um deles provoca a prejudicialidade do outro, em decorrência da perda superveniente de objeto, com o consequente esgotamento da competência do Superior Tribunal de Justiça. Precedentes" (AgRg no REsp n. 1.815.614/PE, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/2/2020, DJe 17/2/2020).
+3. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 1.776.153/SE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/8/2021.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. MATÉRIA ANALISADA NO HC N. 609.687/MG. PERDA PARCIAL DO OBJETO DO RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
