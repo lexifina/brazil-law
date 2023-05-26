@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AGRAL S/A - AGRÍCOLA ARACANGUÁ (em recuperação judicial), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/3/2023.
+Concluso ao gabinete em: 22/5/2023.
+Ação: interdito proibitório ajuizada por AGROPECUÁRIA TERRAS NOVA S/A (em recuperação judicial), em face de GERALDO DOS SANTOS, MARIA SHIRLEY PEREIRA DOS SANTOS e AGRAL S/A - AGRÍCOLA ARACANGUÁ (em recuperação judicial).
+Sentença: julgou improcedente o pedido formulado pelo agravado.
+Acórdão: deu parcial provimento à apelação de AGROPECUÁRIA TERRAS NOVA S/A (em recuperação judicial), nos termos da seguinte ementa (e-STJ fl. 503):
+APELAÇÃO. Interdito proibitório. Autora que exerce a posse de área em razão de contrato de parceria agrícola. Proprietários que formalizaram negócio com terceiro comercializando a colheita de canas-de-açúcar, sob alegação de rescisão por inadimplência. Impossibilidade. Ausência de cláusula resolutiva. Necessidade de resilição judicial. Inteligência do artigo 474 do Código Civil. Pedido de depósito do valor correspondente à colheita realizada. Impossibilidade. Pedido que extrapola o objeto da ação. Necessidade de ajuizamento de demanda própria para a reparação de eventuais danos. Sentença reformada. Recurso parcialmente provido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação aos artigos 92, § 6º, da Lei 4.504/1964; 474, 475, 476, 1.200 e 1.201 do CC/2002; e 8º, 489, § 1º, 502 e 1.022, II, do CPC/2015.
+Além de negativa de prestação jurisdicional, aduz ter havido omissões e ausência de fundamentação na decisão recorrida, relativamente a questões relevantes para o deslinde da causa, pois, a despeito da oposição dos embargos de declaração, o Colegiado local deixou de se manifestar acerca de (i) " ..  erro de fato em razão de que a rescisão contratual não seria mera presunção, como entendeu o v. acórdão recorrido, mas a consequência lógica ao inadimplemento do acordo judicial, derivado de ação proposta pelos proprietários, que, reconhecidamente, tinha como finalidade a rescisão do contrato  .. "; e ao (ii) " ..  não reconhecer e declarar que a posse da Embargante nos referidos imóveis - independentemente da matéria discutida sobre o contrato de parceria entre a Recorrida e os proprietários - era de boa-fé, porquanto fundada em contrato posteriormente firmado, de boa-fé, com os proprietários  .. " (e-STJ fls. 552/553).
+Sustenta que o " ..  fato de as partes terem optado pela continuidade no momento do acordo em processo judicial não quer dizer que seu inadimplemento em momento posterior não ensejaria rescisão  .. " (e-STJ fl. 548).
+Afirma, ainda, que os " ..  acórdãos violaram o disposto no art. 502, do CPC, ao entenderem que, para ser considerado rescindido o contrato deverá ser proposta nova ação  .. " (e-STJ fl. 551).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante entendimento desta Corte Superior, há ofensa ao artigo 1.022 do CPC/2015 quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda.
+Nesse sentido, os seguintes julgados: REsp 1.782.258/SP, Terceira Turma, DJe de 14/12/2022; REsp 1.928.874/SP, Terceira Turma, DJe de 11/11/2022; AgInt no REsp 1.823.417/RS, Quarta Turma, DJe de 6/3/2023; e REsp 2.005.719/RJ, Quarta Turma, DJe de 2/3/2023.
+No particular, as razões recursais tecidas acerca da suposta violação ao artigo 1.022 do CPC/2015 residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela agravante, não se manifestou acerca de " ..  erro de fato em razão de que a rescisão contratual não seria mera presunção, como entendeu o v. acórdão recorrido, mas a consequência lógica ao inadimplemento do acordo judicial, derivado de ação proposta pelos proprietários, que, reconhecidamente, tinha como finalidade a rescisão do contrato  .. " (e-STJ fls. 552/553).
+Da análise do processo, constata-se que, de fato, o Colegiado estadual não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela agravante.
+Desse modo, considerando que não cabe a esta Corte Superior reexaminar fatos e provas, tampouco se pronunciar sobre matérias não prequestionadas, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que sejam sanadas as omissões supracitadas.
+Diante disso, a análise das demais teses aventadas no recurso especial fica, portanto, prejudicada.
+Forte nessas razões, com fundamento no artigo 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar o retorno dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a fixação das penalidades dos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERDITO PROIBITÓRIO. OMISSÃO. OCORRÊNCIA. QUESTÕES RELEVANTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CARACTERIZAÇÃO. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Interdito proibitório.
+2. Há ofensa ao artigo 1.022 do CPC/2015 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Agravo conhecido. Recurso especial conhecido e provido.
