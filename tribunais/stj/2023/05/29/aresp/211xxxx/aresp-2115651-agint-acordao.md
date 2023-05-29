@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.259/1.263) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.255/1.256).
+Em suas razões, a agravante afirma que não seria aplicável a Súmula n. 7 desta Corte e reitera ter havido afronta ao art. 1.022 do CPC/2015.
+Reafirma ainda não ser aplicável a Súmula n. 283/STF, pois teria demonstrado que, "ao entender pela obrigação de a Omint reembolsar integralmente o agravado, o v. Acórdão terminou por ultrapassar os pedidos autorais" (e-STJ fl. 1.262).
+Nesse sentido, sustenta ainda que "o limite financeiro de reembolso das despesas incorridas na Livre Escolha, previsto na Cláusula 12.3.1 do contrato, jamais foi objeto de discussão nestes autos. A Agravante apenas sinalizou que eventual condenação não poderia ser integral, ante a previsão contratual limitativa para despesas incorridas com profissionais não pertencentes à Rede Credenciada" (e-STJ fl. 1.263).
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação (e-STJ fls. 1.268/1.273).
+É o relatório.
+EMENTA
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. HOME CARE. NEGATIVA DE COBERTURA. ABUSO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. O Tribunal a quo entendeu que o beneficiário do plano teria direito ao tratamento home care, pois a necessidade foi demonstrada na prova pericial, ante seu estado de saúde, tratando-se de menor com surtos psicóticos, havendo dano moral em virtude da negativa indevida de cobertura em contexto de risco para a vida do beneficiário.
+4. A Corte de origem também entendeu que os danos materiais alegados teriam sido comprovados, não podendo ser limitados, como requer a empresa de saúde, pois foram causados por sua recusa ilegal de custeio.
+5. Rever a conclusão da Corte de origem quanto à imprescindibilidade do home care e à existência de danos morais exigiria o reexame dos fatos e das provas dos autos, o que esbarra na Súmula n. 7/STJ.
+6. Ademais, para alterar o entendimento do TJRJ e limitar o valor da indenização por danos materiais, com base em suposta cláusula contratual - como pretende a agravante -, seria necessária nova interpretação dos termos pactuados, o que é inviável em recurso especial, segundo a Súmula n. 5/STJ.
+7. "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022).
+8. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.233/1.235):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5, 7 e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 973):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SERVIÇO DE "HOME CARE" COM O SUPORTE MÉDICO NECESSÁRIO. SENTENÇA DE PROCEDÊNCIA DO PEDIDO AUTORAL. DANO MATERIAL E MORAL. EXISTÊNICA DE RELATÓRIO MÉDICO ATESTANDO A NECESSIDADE DO SERVIÇO DOMICILIAR HOME CARE. NÃO PROSPERA O ARGUMENTO DO RECORRENTE DE QUE NÃO HÁ PREVISÃO CONTRATUAL PARA O ATENDIMENTO DOMICILIAR. A EXISTÊNCIA DE CLÁUSULA EXCLUDENTE DESTE SERVIÇO, EM CONTRATO DE PLANO DE SAÚDE, CONFIGURA-SE ABUSIVA. VIOLAÇÃO À BOA-FÉ OBJETIVA, ÍNSITA EM TODA E QUALQUER RELAÇÃO NEGOCIAL, MORMENTE EM CONTRATO QUE TEM POR OBJETO A PRESTAÇÃO DE SERVIÇO DE SAÚDE, SOBRETUDO EM SE TRATANDO DE CLÁUSULA RESTRITIVA PREVISTA EM CONTRATO DE ADESÃO. APLICAÇÃO DAS SÚMULAS 338 E 209 DO TJERJ. DANO MORAL QUE DECORRE DOS PRÓPRIOS FATOS, IN RE IPSA, E TEM AMPARO NA SÚMULA Nº 209 DESTE TRIBUNAL: SÚMULA TJRJ N.º 209: "ENSEJA DANO MORAL A INDEVIDA RECUSA DE INTERNAÇÃO OU SERVIÇOS HOSPITALARES, INCLUSIVE HOME CARE, POR PARTE DO SEGURO SAÚDE SOMENTE OBTIDOS MEDIANTE DECISÃO JUDICIAL." NÃO SE TRATOU DE MERO ABORRECIMENTO VIVENCIADO PELA PARTE AUTORA. VALOR FIXADO PELO JUÍZO A TÍTULO DE DANO MORAL QUE SE ENCONTRA DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE E PRECEDENTES DESTA CORTE DE JUSTIÇA. DANO MATERIAL DEVIDO NA INTEGRALIDADE UMA VEZ QUE A RECORRENTE QUEM DEU CAUSA À CONTRATAÇÃO PARTICULAR DO SERVIÇO HOME CARE, DEVENDO ARCAR COM OS CUSTOS DO MESMO. CONHECIMENTO DO APELO. NEGA-SE PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.052/1.057).
+No recurso especial (e-STJ fls. 1.095/1.108), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou afronta aos arts. 10 e 12 da Lei n. 9.656/1998, 371 e 479 do CPC/2015, 186, 187, 884 e 927 do CC/2002, argumentando, em síntese, que a parte recorrida não faria jus ao tratamento home care, conforme demonstraria a prova pericial produzida nos autos, além de não ter comprovado danos materiais e morais a serem indenizados.
+Sustentou ainda que haveria violação dos arts. 492 e 1.022 do CPC/2015, sob fundamento de omissão no acórdão recorrido, além de haver julgamento ultra petita na origem quanto ao limite a ser reembolsado pela empresa de saúde.
+No agravo (e-STJ fls. 1.188/1.197), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+O TJRJ, soberano no exame dos fatos e das provas dos autos, considerou, com base em relatório médico juntado aos autos, que o beneficiário teria direito ao tratamento em regime home care, estando comprovada sua necessidade, ante o estado de saúde do paciente (e-STJ fls. 975/977).
+Ademais, quanto à prova técnica, foi mantida a sentença apelada pelo Tribunal a quo, na qual se consignou que "a importância do tratamento nos moldes realizados foi afirmada pelo perito na resposta ao quesito n. 4 do autor" (e-STJ fl. 843).
+A Corte de origem ainda entendeu que haveria dano moral, diante da negativa de cobertura em situação de risco para a vida do beneficiário, bem como estariam comprovados os danos materiais alegados (e-STJ fls. 977/978).
+Alterar tais conclusões, entendendo pela ausência de necessidade do tratamento home care e pela inexistência de dano moral ou falta de comprovação dos danos materiais, como sugere a ora recorrente, é inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Ressalte-se que, "Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe 23/4/2021).
+Acerca do alegado julgamento ultra petita, em relação ao pleito de limitação do valor de reembolso, afirmou-se, no acórdão impugnado, que (e-STJ fl. 980):
+Com relação ao limite do valor do reembolso, não prospera o argumento apresentado pelo Recorrente uma vez se mostra integralmente desprovida de amparo legal a pretensão de que a reparação do dano material seja limitada ao previsto para reembolso contratual. Não se deve olvidar que, acaso a Ré não houvesse de forma ilegítima recusado a cobertura, a parte Autora não teria dispendido qualquer despesa, devendo assim restituir integralmente o prejuízo material suportado.
+O fundamento do acórdão recorrido para afastar a alegação de julgamento ultra petita não foi impugnado especificamente, o que atrai o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Dessa forma, ausente ofensa ao art. 1.022 do CPC/2015.
+O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+O Tribunal a quo entendeu que o beneficiário do plano teria direito ao tratamento home care, pois a necessidade foi demonstrada na prova pericial, ante seu estado de saúde, tratando-se de menor com surtos psicóticos, havendo dano moral em virtude da negativa indevida de cobertura em contexto de risco para a vida do beneficiário (e-STJ fls. 975/977).
+A Corte de origem também entendeu que os danos materiais alegados teriam sido comprovados, não podendo ser limitados, como requer a empresa de saúde, pois foram causados por sua recusa ilegal de custeio (e-STJ fls. 977/978).
+Rever a conclusão da Corte de origem quanto à imprescindibilidade do home care e à existência de danos morais exigiria o reexame dos fatos e das provas dos autos, o que esbarra na Súmula n. 7/STJ.
+Ademais, para alterar o entendimento do TJRJ e limitar o valor da indenização por danos materiais, com base em suposta cláusula contratual - como pretende a agravante -, seria necessária nova interpretação dos termos pactuados, o que é inviável em recurso especial, segundo a Súmula n. 5/STJ.
+Ressalte-se que, "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022).
+Acrescente-se que, ao contrário do alegado pela agravante, a imposição de reembolso integral dos danos materiais não exorbitou dos pedidos da inicial, pois a parte autora requereu que a empresa ré fosse obrigada "a arcar, integralmente, com todas as despesas referentes ao tratamento do menor com terapias multidisciplinares" (e-STJ fl. 29).
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
