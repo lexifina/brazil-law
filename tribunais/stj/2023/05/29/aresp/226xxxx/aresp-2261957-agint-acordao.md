@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CONSÓRCIO EMPREENDEDOR DO LONDRINA NORTE SHOPPING contra a decisão de fls. 401-406 (e-STJ), da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial.
+Depreende-se dos autos que JULIANA PORTO VIEIRA JABUR opôs embargos à execução intentada pela ora agravante, alegando dupla cobrança de valores, por considerar que o débito executado faz parte de acordo anterior cobrado em outro processo.
+A sentença julgou improcedentes os pedidos e, como consequência, condenou a então embargante ao pagamento das custas processuais e honorários advocatícios.
+Irresignada, a embargante interpôs apelação, a qual foi provida pelo Tribunal de Justiça do Estado do Paraná em acórdão assim ementado (e-STJ, fl. 203):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. SHOPPING CENTER. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA EMBARGANTE/FIADORA. TESE DE DÉBITO, FACE DISTRATO E CONFISSÃO DE DÍVIDA, ABARCADOS OS ALUGUERES E ENCARGOS EXIGIDOS NA EXECUÇÃO. ACOLHIMENTO. TERMO DE DISTRATO E DE CONFISSÃO DE DÍVIDA EM AÇÃO DE DESPEJO, CUJO ACORDO FOI HOMOLOGADO, ESTANDO EM CURSO O CUMPRIMENTO DE SENTENÇA. AJUSTE QUE ENGLOBOU AS COMPETÊNCIAS E VENCIMENTOS DAS PARCELAS OBJETO DA AÇÃO EXECUTIVA. EXTINÇÃO DA AÇÃO EXECUTIVA QUE SE IMPÕE. EMBARGOS PROCEDENTES. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 227-230).
+Nas razões do recurso especial (e-STJ, fls. 235-252), fundamentado no art. 105, III, a, da Constituição Federal, o ora agravante apontou violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional.
+Em razão do juízo prévio negativo de admissibilidade do recurso especial, o insurgente interpôs agravo, ocasião em que foi julgado nos termos da seguinte ementa (e-STJ, fl. 401):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+No presente agravo interno (e-STJ, fls. 409-425), CONSÓRCIO EMPREENDEDOR DO LONDRINA NORTE SHOPPING não concorda com o dito entendimento, vindo a repisar a ocorrência de omissão acerca de questões imprescindíveis para o deslinde da controvérsia.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Sem impugnação (e-STJ, fls. 429-430).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. Agravo interno desprovido.
+VOTO
+A insurgência não merece prosperar.
+O julgado monocrático afastou a tese de negativa de prestação jurisdicional, sob a seguinte fundamentação (e-STJ, fls. 402-405; com grifos no original):
+Sustentou a recorrente a deficiência na prestação jurisdicional diante da evidente premissa equivocada e da ausência de enfrentamento pelo Tribunal estadual, mormente no que tange ao emprego de interpretação extensiva à transação (art. 843 do CC/2002).
+Concluiu, assim, que houve omissão acerca das seguintes teses defendidas no âmbito dos embargos de declaração (e-STJ, fl. 250):
+i. a dicção do instrumento de acordo envolvendo apenas o saldo de aluguel, condomínio e encargos comuns vencidos até13.10.2015, comprovando que o pacto não englobou todos os débitos do locatário.
+ii. a ausência de previsão de que os débitos referentes às competências dos meses posteriores à data de assinatura do acordo estavam englobados no valor firmado para acerto financeiro.
+iii. A impossibilidade de interpretação extensiva conferida ao acordo analisado.
+Entretanto, é preciso deixar claro que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito, confira-se a fundamentação do Tribunal local (e-STJ, fls. 209-212, sem grifos no original):
+Em análise dos processos existentes entre as partes, respectivos históricos e instrumentos de distrato e de confissão de dívidas, pode-se concluir, com segurança, que os alugueres e encargos exigidos na ação executiva foram objeto de um termo de distrato e confissão de dívida.
+Para tal compreensão, necessário visitar o processo da ação de despejo ajuizada em 20/11/2014, autos 0078157-36.2014.8.16.0014, que teve por causa o inadimplemento de alugueres e encargos vencidos entre janeiro a outubro/2014, à época totalizando R$ 147.537,80.
+Houve sentença de procedência, decretando a rescisão do contrato e o despejo da locatária (não houve pedido de cobrança). A requerida interpôs apelação, recebida sem efeito suspensivo, contra o que manejou agravo de instrumento (AI 1.448.827-4), sem êxito em afastar a ausência de efeito suspensivo à apelação.
+Em seguida, ao mov. 94, o locador informou acordo, juntando dois, termos, ambos firmados na mesma data, 13/10/2015:
+a)"Distrato de "Instrumento Particular de contrato de locação e outras avenças (..)" confissão de dívidas e outras avenças c/c termo de transação extintiva de litígio", firmado em 13/10/2015, com confissão de dívida e outras avenças, no valor de R$ 413.815,95 (mais honorários de R$ 38.211,86), referente a "aluguel, condomínio e encargos comuns" devidos até 13/10/2015 , restando consignado que o ajuste locatício teria fim no dia 25/11/2015 , data na qual a locatária deveria entregar o imóvel (mov. 94.2). Em tal ajuste, as partes acordaram sobre a ação de despejo e outros processos, encerrando-os e estipulando o valor confessado pela locatária e fiadores. Do respectivo ajuste, colaciono as cláusulas1ª, §1º, 3ª, 11 e 12:
+(..)
+Anoto que não consta no processo o dito Anexo 1 referido na cláusula terceira.
+b)"Instrumento particular de confissão de dívida e alienação fiduciária em garantia com efeitos de escritura pública" firmado em 13/10/2015, tratando sobre débito no valor de R$ 41.527,75, referente aos alugueres, encargos e fundo de promoção dos meses de janeiro a março/2014. Colaciono o item "ii" do preâmbulo e a cláusula 3ª:
+(..)
+Na respectiva ação de despejo, o acordo foi homologado (mov.96).
+O pedido de cumprimento de sentença foi formulado pelo locado rem 02/2016 (mov. 103).
+5. Na execução de título extrajudicial, ajuizada em 01/02/2017, o locador especificou os alugueres e encargos objeto da execução como sendo aqueles vencidos entre 05/10 a 05/12/2015, em cuja planilha demonstrativa se extrai que dizem respeito a competências (fatos geradores) de 01/09 a01/11/2015.
+Todavia, parece evidente, independentemente de qualquer esforço interpretativo do termo de distrato e confissão de dívidas (firmado em 13/10/2015), que todos os alugueres e encargo vencidos até 13/10/2015 e ou qualquer débito com fato gerador até então, estão englobados na referida confissão, ou seja, é notoriamente sem lastro a ação executiva no que diz respeito a tal período.
+Poderia pairar dúvida sobre os alugueres e encargos vencidos e ou cujos fatos geradores se deram entre 14/10/2015 a 05/12/2015.
+Entretanto, e aqui é preciso atentar ao termo de distrato e confissão de dívidas, também parece evidente que tudo aquilo que vencido ou gerado entre 14/10/2015 a 05/12/2015 restou englobado, igualmente, no referido acordo, pela simples razão de que se ajustou que o imóvel seria desocupado até dia 25/11/2015, e não há discussão sobre a desocupação ter efetivamente ocorrido.
+Assim, sendo previsível ou ajustável os alugueres e encargos que se venceriam desde a assinatura do termo (13/10/2015) até a desocupação 25/11/2015, e no distrato e confissão de dívida restando consignado o valor total e final do débito como compreendendo toda a relação contratual (inexistente qualquer ressalva sobre vencimentos ou competências até a data prevista de desocupação), somente justificaria uma nova ação executiva de alugueres e encargos se adviesse fato gerador e ou data de vencimento (cumulativamente) posteriores à 25/11/2015. Como não se tem notícia de que o imóvel não tenha sido efetivamente devolvido na data aprazada, impõe-se a conclusão de que nenhum débito mais estava pendente, quando da desocupação, senão aqueles constantes nas confissões de dívida, estes por sua vez homologados nos autos de ação de despejo e em relação ao que se encontra em curso cumprimento de sentença.
+Ademais, chama a atenção que o apelado, na resposta aos embargos e nas contrarrazões de apelação, para defender que as parcelas objeto da ação executiva não corresponderiam àquelas de períodos objeto das confissões de dívidas, atrela-se à confissão de dívida relativa a períodos do ano de 2014 (alinhada na letra "b" do item 4 supra), com isso querendo demonstrar que as parcelas da ação executiva são do ano de 2015. Contudo, em nenhum momento lança mão do que consta na confissão de dívida relativamente ao ajuste final de débitos (letra "a" do item 4 supra). Só melhor esclarece as coisas quando da determinação do Relator para que explicasse no que efetivamente se embasa para a presente execução, cuja explanação, porém, não é convincente.
+Enfim, e nesta medida, os embargos à execução são procedentes, cuja consequência é a insubsistência integral da ação executiva.
+Colhe-se, ainda, o seguinte excerto do acórdão recorrido complementado pelos embargos de declaração (e-STJ, fl. 229, sem grifos no original):
+Contrário ao alegado pelo embargante, o acórdão não incorre em premissa fática equivocada. Afinal, não se partiu do pressuposto de que o termo de distrato e confissão de dívidas englobou também os alugueres e encargos vencidos cujos fatos geradores se deram entre 14/10/2015 a 05/12/2015.
+Tal conclusão decorreu da análise do contexto fático-probatório constante nos autos, sendo suficientemente esclarecidos os motivos pelos quais procedentes os embargos à execução.
+Ao intento de prequestionamento (art. 843 do CC), descabe deliberação, porque ausente vício no acórdão. De toda sorte, socorre a parte o disposto no art. 1.025 CPC: "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados..".
+Como se pode notar, o aresto impugnado expressamente enfrentou as questões suscitadas pela parte ora agravante ao concluir que o termo de distrato e de confissão de dívida englobou as competências e vencimentos das parcelas objeto da ação executiva.
+Inclusive, ao enfrentar os embargos de declaração, o Colegiado estadual foi claro em salientar a inexistência de vício no julgado embargado e que o art. 843 do CC/2002 (interpretação restritiva da transação), para fins de prequestionamento, estava incluído no acórdão por força do art. 1.025 do CPC/2015.
+O que se depreende dos autos é que a recorrente não se conformou com a decisão do Tribunal de origem e buscou a reforma do resultado do julgamento pela via imprópria dos embargos de declaração.
+Como se pode notar, o acórdão recorrido expressamente enfrentou as questões suscitadas pelas partes, mormente ao mencionar, no âmbito dos embargos de declaração, que não incorreu em premissa fática equivocada e que não precisava deliberar quanto ao art. 843 do CC/2002, dada a ausência do vício no julgado, além do fato de considerá-lo incluído no acórdão, por força do art. 1.025 do CPC/2015. Trata-se, na verdade, de pretensão de novo julgamento das matérias.
+Desse modo, ainda que a solução tenha sido contrária à pretensão do agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos. Logo, não há falar em negativa de prestação jurisdicional.
+Ilustrativamente:
+AGRAVO INTERNO. RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO AO ART. 535, II, DO CPC/73. NÃO OCORRÊNCIA. OFENSA AO ART. 333, I, DO CPC. REGRA DE DISTRIBUIÇÃO DO ÔNUS DA PROVA. A PROVA COMPETE A QUEM ALEGA. VIOLAÇÃO AO ART. 27 DA LC 123/06. NÃO CONFIGURADO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não configura omissão ou negativa de prestação jurisdicional o simples fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+2. Conforme a regra de distribuição do ônus da prova prevista no CPC/73, a prova compete a quem alega. Portanto, caberia ao recorrente demonstrar a suposta ocultação maliciosa das contas bancárias pelo recorrido.
+3. Rever a conclusão das instâncias ordinárias acerca da produção probatória, em especial, quanto à incorreção do laudo pericial produzido, encontra óbice na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.787.502/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+Assim, em face da ausência de subsídio capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente recurso.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
