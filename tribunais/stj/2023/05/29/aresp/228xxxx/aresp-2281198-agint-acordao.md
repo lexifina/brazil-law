@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUTO VIAÇÃO CAMURUJIPE LTDA contra a decisão que não conheceu de seu agravo em recurso especial em razão da incidência da Súmula 115 do STJ.
+Em suas razões recursais, a parte agravante alega: (a) deve ser excluída a responsabilidade da empresa em razão da ocorrência de caso fortuito e culpa de terceiro no acidente; (b) caso não se entenda pela culpa de terceiro, deve ser reconhecida a culpa exclusiva da vítima, que não usou equipamento obrigatório de segurança; (c) "ainda que se admita, em favor dialético, a responsabilidade da recorrente, esta não lhe deve ser exclusivamente atribuída, uma vez que o comportamento da vítima contribuiu, senão exclusivamente, decisivamente, para o infeliz desenlace" (fl. 385); (d) a fixação da indenização desrespeitou os arts. 186, 844, 927, 944 e 945 do CC e a jurisprudência do STJ; (e) os juros de mora devem observar a SELIC e a correção monetária o INPC; (f) "estando demonstrado a plausibilidade do direito a que se invoca, resta incontroversa a necessidade de se submeter ao órgão colegiado a matéria para melhor resolução da lide" (fl. 394).
+Requer, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Impugnação ao recurso apresentada (fls. 411/414).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO DO RECURSO. POSSIBILIDADE. ART. 932, III, DO CPC/2015 C/C SÚMULA 568/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. SÚMULA 115/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da incidência da Súmula 115 do STJ.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A mesma exigência encontra-se prevista no art. 1.021, § 1º, do CPC/2015.
+3. Agravo interno não conhecido.
+VOTO
+A decisão ora recorrida não conheceu do agravo devido à incidência da Súmula 115 do STJ.
+Na petição de agravo interno, a parte alega: (a) deve ser excluída a responsabilidade da empresa em razão da ocorrência de caso fortuito e culpa de terceiro no acidente; (b) caso não se entenda pela culpa de terceiro, deve ser reconhecida a culpa exclusiva da vítima, que não usou equipamento obrigatório de segurança; (c) "ainda que se admita, em favor dialético, a responsabilidade da recorrente, esta não lhe deve ser exclusivamente atribuída, uma vez que o comportamento da vítima contribuiu, senão exclusivamente, decisivamente, para o infeliz desenlace" (fl. 385); (d) a fixação da indenização desrespeitou os arts. 186, 844, 927, 944 e 945 do CC e a jurisprudência do STJ; (e) os juros de mora devem observar a SELIC e a correção monetária o INPC; (f) "estando demonstrado a plausibilidade do direito a que se invoca, resta incontroversa a necessidade de se submeter ao órgão colegiado a matéria para melhor resolução da lide" (fl. 394).
+Assim, verifico que a parte agravante não rebate as razões expostas na decisão que visa a impugnar. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalto, ainda, que a mesma exigência encontra-se prevista no art. 1.021, § 1º, do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. AUSÊNCIA. IMÓVEL. ESTRUTURA. VÍCIOS CONSTRUTIVOS. DESMORONAMENTO. RISCO AFASTADO. REVISÃO. SÚMULA Nº 7/STJ. HABITABILIDADE. COMPROMETIMENTO. AUSÊNCIA. SEGURO. COBERTURA. SÚMULAS NºS 5 E 7/STJ. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial não é a via adequada para o exame de questões que demandem reinterpretação de cláusulas contratuais e reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ) .
+3. No caso, rever a conclusão firmada pelas instâncias ordinárias, de que não há risco de desmoronamento e habitabilidade do imóvel a ensejar o pagamento da indenização securitária, demandaria o reexame do contexto fático-probatório e a análise de cláusulas contratuais, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. É inviável o recurso especial quando o acórdão recorrido decide em consonância com a jurisprudência do Superior Tribunal de Justiça, conforme dispõe a Súmula nº 83/STJ.
+5. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+6. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no artigo 1.021, § 1º, do CPC/2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+7. Agravo interno não conhecido. (AgInt no AREsp n. 1.008.459/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO POR DANOS MORAIS. PEDIDOS PROCEDENTES. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se ação ordinária em que se pleiteia a declaração de inexistência de débito e indenização por danos morais.
+Na sentença, julgaram-se os pedidos procedentes. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice. A parte agravante, em seu agravo interno, não impugna esse fundamento.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido. (AgInt no AREsp n. 2.215.229/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Pelas considerações expostas, não conheço do agravo interno.
+É o voto.
