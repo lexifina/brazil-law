@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração de fls. 423/434 opostos por ALAN DA SILVA PEREIRA em face de decisão de minha lavra, de fls. 409/417, que deu provimento ao seu agravo regimental para conhecer do recurso especial e, com fundamento na Súmula 568 do Superior Tribunal de Justiça - STJ, dar-lhe parcial provimento para alterar o regime inicial de cumprimento de pena para o semiaberto, mantidas as demais cominações do acórdão recorrido.
+Nos presentes aclaratórios, a defesa cinge-se a reiterar os argumentos já expendidos nas razões do apelo nobre, afirmando ser caso de concessão de efeitos modificativos aos embargos, a fim de desclassificar a conduta do réu para o crime previsto no art. 28 da Lei n. 11.343/06.
+Requer, então, sejam acolhidos os presentes embargos, com efeitos infringentes, para desclassificar a conduta do acusado para o delito de porte de drogas para consumo próprio.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme o art. 1.022, III, do Código de Processo Civil - CPC/2015.
+No caso em análise, contudo, o embargante sequer indica a existência de qualquer omissão, contradição, obscuridade ou erro material da decisão monocrática. O próprio embargante admite que está "reiterando os argumentos já aduzidos em sede recursal", com a clara pretensão de modificação do entendimento esposado no decisum embargado.
+Assim, os presentes embargos reiteram as razões do apelo nobre, na tentativa de conduzir ao conhecimento e ao provimento do referido recurso.
+Como restou consignado na decisão embargada, a apreciação da pretensão recursal de desclassificação da conduta do acusado esbarra inevitavelmente no óbice da Súmula n. 7 do STJ:
+"As instâncias ordinárias embasaram a condenação do recorrente em elementos fático-probatórios concretos, entre eles, os depoimentos dos policiais que presenciaram os fatos e realizaram a abordagem do suspeito, as características do local - ponto conhecido de tráfico -, a interação entre o recorrente e o motociclista que estacionou em frente à sua residência, a percepção dos agentes policiais da movimentação típica de comercialização de entorpecentes, a fuga e a abordagem do suspeito, e a apreensão de 3 porções de maconha (9,95 g), que o acusado dispensou sobre o telhado de uma residência. Todos esses elementos, segundo as instâncias ordinárias, convergem à conclusão de que o recorrente praticava o delito de tráfico de drogas.
+Desconstituir o referido entendimento, para absolver o acusado, implica no reexame dos fatos e provas carreados aos autos, procedimento vedado em sede de recurso especial, a teor da Súmula n. 7 do STJ. Nesse sentido (grifos nossos): (..)" (fl. 414).
+Portanto, não há vício algum a ser sanado, apenas inconformismo da parte, o que não se coaduna com a medida integrativa. Com efeito, "nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+No mesmo sentido (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, o acórdão embargado consignou expressamente que o agravante deixou de impugnar adequadamente um dos fundamentos de inadmissibilidade do recurso especial, qual seja: a incidência da Súmula 83 do STJ, situação que denota a incidência do enunciado sumular n. 182 do STJ.
+3. Assentou, ainda, que a parte não demonstrou, especificamente, que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
