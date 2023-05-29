@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 565/571) interposto por ANDRE JULIANO CHIARELLI contra decisum (fls. 557/561), de minha relatoria, que não conheceu o habeas corpus anteriormente impetrado.
+Neste recurso, a defesa alega que o agravante "está preso e submetido ao cárcere em razão de uma abordagem ilegal, que torna as demais provas dos autos nulas" (fl. 567).
+Aduz que, no caso, "não há que se falar em suposta supressão de instância" (fl. 567) e que " t oda nulidade pode ser declarada de ofício por qualquer autoridade judicial" (fl. 567).
+Afirma que não houve fundada suspeita para a busca domiciliar a que o agravante foi submetido. Acrescenta que, "para que houvesse fundada suspeita, os agentes policiais deveriam ter informado que do campo de visão deles, era possível enxergar drogas, armas ou algum outro delito sendo praticado no interior do automóvel, mas não foi o que alegaram" (fl. 568).
+Sustenta que "a abordagem policial que o Paciente sofreu, configura o ato ilegal violador do seu domicílio, e configura a ausência de formalidade essencial, nos termos do artigo 564, IV, do CPP,  de modo que  o ato deverá ser anulado e tudo o mais que foi decorrente dessa conduta, nos termos do artigo 157 do CPP" (fl. 569).
+Ao final, requer a reconsideração da decisão impugnada ou que este agravo seja levado a julgamento perante a Quinta Turma e provido, com a concessão da ordem nos termos da impetração.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, § 1.º, INCISO II, DA LEI N. 11.343/2006. ALEGAÇÃO DE NULIDADE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+- A preliminar de nulidade da prova por violação de domicílio aventada não foi devolvida ao exame da Corte local. Assim, não pode o Superior Tribunal de Justiça se pronunciar acerca do tema, em indevida supressão de instância.
+- Agravo regimental desprovido.
+VOTO
+O presente agravo regimental impugna motivadamente a decisão recorrida, não havendo, ademais, outros óbices a que seja submetido a exame de mérito.
+A defesa apelou, na origem, alegando o que foi sintetizado no relatório do acórdão impugnado:
+"Inconformado, apela da r. sentença condenatória, requerendo sua absolvição, por insuficiência de provas; subsidiariamente, requer a desclassificação para o crime do artigo 28, § 1º, da citada Lei de Drogas, ou, quando não, a aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, na fração máxima permitida, o abrandamento do regime prisional e, por fim, a substituição da pena privativa da liberdade por penas restritivas de direitos (fls. 280 a 295)" (fl. 50).
+Verifica-se, portanto, que a preliminar de nulidade da prova por violação de domicílio aventada no writ não foi devolvida ao exame da Corte local. Assim, não pode este Superior Tribunal de Justiça se pronunciar acerca do tema, em indevida supressão de instância.
+Observe-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO EM FLAGRANTE. ILEGALIDADE NA BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DE DOMICÍLIO. INEXISTÊNCIA. FUNDADAS RAZÕES PARA O INGRESSO NO IMÓVEL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de afronta ao art. 244 do CPP, e consequente nulidade das provas obtidas, nos termos do art. 157 do CPP, não foi diretamente analisada pelo juízo de primeiro grau e pelo Tribunal de origem, razão pela qual fica obstado seu exame direto nesta Corte Superior sob pena de se incidir em indevida supressão de instância.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC n. 791.630/BA, Rel. Min. JOEL ILAN PACIORNIK, Quinta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ALEGADA NULIDADE DAS BUSCAS PESSOAL E DOMICILIAR. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DE 1/2 (METADE) APLICADA NA DECISÃO AGRAVADA COM BASE NA DROGA APREENDIDA. RAZOABILIDADE. NOVO MONTANTE DA PENA ESTABELECIDO EM 2 ANOS E 6 MESES DE RECLUSÃO, E 250 DIAS-MULTA. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta.
+2. No caso, as supostas ilegalidades da busca pessoal e da violação de domicílio não foram submetidas e, por consequência, não foram efetivamente debatidas pela Corte local, uma vez que não constaram das razões recursais de apelação da paciente, motivo pelo qual o tema não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+ ..
+6. Agravo regimental a que se nega provimento. (AgRg no HC n. 813.772/GO, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO DE RECURSO ESPECIAL. NULIDADE. BUSCA PESSOAL E VIOLAÇÃO DE DOMICÍLIO POR GUARDAS MUNICIPAIS. SUPRESSÃO. DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO PREVISTO NO ART. 28 DA LEI N. 11.343/2006. SÚMULA 7 DO STJ. DOSIMETRIA. PENA-BASE. QUANTIDADE. ANTECEDENTES. PERÍODO DEPURADOR. AGRAVANTE. CALAMIDADE PÚBLICA. TRÁFICO PRIVILEGIADO. PRESENÇA DE ANTECEDENTES. REGIME FECHADO. PENA INFERIOR A OITO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As teses de nulidade das provas obtidas através da busca pessoal por guardas municipais e da violação de domicílio, pela ausência de justa causa, não foram objeto de cognição pelo Tribunal de origem. Logo, o enfrentamento de tais questões diretamente por esta Corte de Justiça acarretaria indevida supressão de instância.
+ ..
+9. Agravo regimental desprovido. (AgRg no AREsp n. 2.269.723/SP, Rel. Min. RIBEIRO DANTAS, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. PROVAS ILÍCITAS. BUSCA PESSOAL E VIOLAÇÃO DE DOMICÍLIO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APELAÇÃO CRIMINAL. EFEITO DEVOLUTIVO RESTRITO À PRETENSÃO APRESENTADA PELAS PARTES NAS RAZÕES RECURSAIS OU NAS CONSTRARRAZÕES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. As nulidades suscitadas não foram examinadas pela Corte a quo, uma vez que a defesa buscou na apelação a absolvição, com base em alegada ausência de prova da autoria delitiva, razão pela qual sua análise diretamente por esta Corte enseja indevida supressão de instância.
+2. A despeito de se conferir ao recurso de apelação efeito devolutivo amplo, seu conhecimento é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. E, como se sabe, nos habeas corpus impetrados nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância (AgRg no HC n. 680.312/MS, Ministra Laurita Vaz, Sexta Turma, DJe 10/10/2022).
+3. Agravo regimental improvido. (AgRg no HC n. 762.718/ES, Rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Por tudo isso, não há razões para modificar o entendimento anterior.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
