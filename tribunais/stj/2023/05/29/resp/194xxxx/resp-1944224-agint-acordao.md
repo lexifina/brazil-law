@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1788/1795) interposto contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015. RECURSO ESPECIAL PROVIDO.
+O agravante sustenta, em suma, que o entendimento da decisão recorrida destoa do posicionamento do Supremo Tribunal Federal que firmou-se no sentido de ser possível a fixação da verba honorária pelo critério da equidade, na situação em que o valor da causa for muito elevado.
+Impugnação apresentada às fls. 1798/1805.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do STJ, na assentada de 16/3/2022, no âmbito do REsp 1.850.512/SP, e outros, em sede de recurso especial repetitivo (Tema 1.076), firmou as seguintes teses: 1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. 2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+2. Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§ 2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Cinge-se a controvérsia, na origem, de apelação interposta contra sentença que julgou procedente ação declaratória de débito fiscal, afastando a decadência e/ou prescrição dos débitos dos processos administrativos em questão.
+O Tribunal de origem ao analisar a questão controvertida deu provimento ao apelo e fixou a verba honorária do patamar de R$ 250.ooo,00 (duzentos e cinquenta mil reais), conforme o estabelecido no art. 85, §8º, do CPC/2015.
+Com efeito, o posicionamento adotado pela Corte de origem, quanto a disciplina relacionada ao critério para a definição da verba honorária, destoa do posicionamento deste Superior Tribunal de Justiça que por meio do procedimento dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes) julgados pela Corte Especial, em 16/3/2022, firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Por ocasião do julgamento do referido recurso especial repetitivo, foi determinado o retorno dos autos à origem a fim de que a fixação dos honorários advocatícios observe o disposto nos §§2º e 3º do art. 85 do CPC/2015, de modo que igual solução deve ser dada ao presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
