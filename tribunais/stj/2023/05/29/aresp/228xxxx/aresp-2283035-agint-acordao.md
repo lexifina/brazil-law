@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CONSTRUTORA TENDA S/A, contra a decisão que, conhecendo de agravo, deu parcial provimento ao recurso especial que interpusera.
+Ação: de obrigação de fazer c/c pedidos de indenização por danos materiais e de compensação por danos morais, ajuizada por RESIDENCIAL MORUMBI LIFE em face da ora agravante, devido à existência de vícios de construção na área comum do empreendimento entregue pela ré.
+Sentença: extinguiu o processo com resolução do mérito, em razão do acolhimento das prejudiciais de decadência e prescrição.
+Acórdão: deu provimento à apelação interposta pelo agravado, para afastar as prejudiciais de mérito e determinar o prosseguimento da demanda perante o juiz do 1º grau de jurisdição, nos termos da seguinte ementa (e-STJ fl. 896):
+"APELAÇÃO CÍVEL - OBRIGAÇÃO DE FAZER - VÍCIO DE CONSTRUÇÃO DECADÊNCIA RECONHECIDA - APLICAÇÃO DO PRAZO PREVISTO NO ARTIGO 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL - PRAZO PRESCRICIONAL DAS AÇÕES PESSOAIS - PRECEDENTES - DEFEITOS CONTÍNUOS E PERMANENTES - IMPOSSIBILIDADE DE PRECISAR O TERMO INICIAL DA PRESCRIÇÃO - EXTINÇÃO AFASTADA - SENTENÇA ANULADA - RECURSO PROVIDO".
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 1.022 do CPC/2015 e 26, II, do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentou a decadência do direito autoral, visto que o condomínio não reclamou os vícios constatados no imóvel dentro do prazo de 90 dias, a partir da data da sua ciência.
+Prévio juízo de admissibilidade: o TJ/SP inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: a par de conhecer do agravo, conheceu do recurso especial para dar-lhe parcial provimento, conforme a ementa que se segue (e-STJ fl. 1.045):
+"DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL PELO TRIBUNAL DE ORIGEM. NÃO OCORRÊNCIA. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA DO DIREITO DE POSTULAR A REEXECUÇÃO DOS SERVIÇOS. PEDIDO INDENIZATÓRIO QUE PERMANECE INCÓLUME.
+1. Ação de obrigação de fazer c/c pedidos de indenização por danos materiais e de compensação por danos morais.
+2. Não ocorre ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. É de 90 (noventa) dias o prazo para o consumidor reclamar por vícios ocultos no imóvel adquirido, contado a partir do momento em que ficar evidenciado o defeito (art. 26, II e § 3º, do CDC).
+4. O prazo decadencial previsto no art. 26 do CDC relaciona-se ao período de que dispõe o consumidor para exigir em juízo alguma das alternativas que lhe são conferidas pelos arts. 18, § 1º, e 20, caput, do mesmo diploma legal (a saber, a substituição do produto, a restituição da quantia paga, o abatimento proporcional do preço e a reexecução do serviço), não se confundindo com o prazo prescricional a que se sujeita o consumidor para pleitear indenização decorrente da má-execução do contrato.
+5. Quando a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial. A ação, tipicamente condenatória, sujeita-se ao prazo de prescrição decenal previsto no art. 205 do CC/02. Precedentes.
+6. Agravo conhecido. Recurso especial conhecido e parcialmente provido".
+Agravo interno: nas razões do presente recurso, a agravante alega que a decisão agravada foi omissa quanto à decadência também do pedido alternativo de conversão da obrigação de fazer em indenização material.
+Argumenta, nessa linha, que "a simples pretensão alternativa do Condomínio (conversão da demanda em indenização material, para condenar a ré a restituir os valores gastos mediante apresentação de comprovantes) não altera a natureza da demanda e do pedido principal (obrigação de fazer), sendo certo que o pedido alternativo também fora operado pela decadência, assim como o principal".
+E prossegue:
+"(..) o pedido principal do Condomínio não é indenizatório, e sim de obrigação de fazer, tanto que ele informa que, em eventual cenário de descumprimento, verificando a viabilidade de iniciar a obra a seus custos (ou seja, efetuar reparos), pediu indenização material com relação a esses custos referentes aos valores gastos com tal obra" (e-STJ fl. 1.055).
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA DO DIREITO DE POSTULAR A REEXECUÇÃO DOS SERVIÇOS. PEDIDO INDENIZATÓRIO QUE PERMANECE INCÓLUME.
+1. Ação de obrigação de fazer c/c pedidos de indenização por danos materiais e de compensação por danos morais.
+2. Consoante a jurisprudência desta Corte, a pretensão do consumidor de ser indenizado por prejuízos decorrentes de vícios de construção em imóvel se sujeita ao prazo prescricional de dez anos previsto no art. 205 do CC, não se aplicando o instituto da decadência.
+3. Agravo interno não provido.
+VOTO
+A controvérsia posta nos autos diz com a decadência e/ou prescrição das pretensões do RESIDENCIAL MORUMBI LIFE de exigir o reparo de vícios de construção na área comum do empreendimento, ou de, alternativamente, ser ressarcido com as despesas necessárias ao reparo.
+A decisão agravada, dando parcial provimento ao recurso especial interposto pela ora agravante, reconheceu a decadência do direito do CONDOMÍNIO de exigir a reparação dos vícios (obrigação de fazer), porém ressalvou que a demanda deve prosseguir quanto ao pedido alternativo de indenização de valores gastos (pretensão condenatória), haja vista que não submetido a prazo decadencial, mas sim ao prazo de prescrição decenal.
+Vejam-se os termos do decisum:
+"- Da decadência do direito de exigir a reexecução dos serviços e da via indenizatória remanescente
+No que pertine ao mérito da insurgência, esta Corte possui entendimento pacífico no sentido de ser aplicável o prazo decadencial de 90 dias previsto no art. 26, II, do CDC ao direito do consumidor de exigir a reexecução dos serviços, a restituição imediata da quantia paga ou o abatimento proporcional do preço, na hipótese de vício de construção de imóvel.
+Não obstante, a jurisprudência desta Corte ressalva que referido prazo se aplica exclusivamente às denominadas ações constitutivas, que tenham por objeto alguma das alternativas postas ao consumidor no art. 20 do CDC, sendo inaplicável quando a pretensão do consumidor é de natureza indenizatória, isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel.
+A propósito, confira-se o seguinte julgado, a respeito da decadência e da prescrição quanto à responsabilidade do fornecedor por vícios na obra de imóvel:
+ ..
+Na mesma toada, citam-se ainda: REsp 1.819.058/SP, 3ª Turma, DJe 05/12/2019; REsp 1.721.694/SP, 3ª Turma, DJe 05/09/2019 e REsp 1.717.160/DF, 3ª Turma, DJe 26/03/2018.
+À luz dessas diretrizes, verifica-se que, na hipótese dos autos, a petição inicial veicula pedido de reexecução dos serviços (obrigação de fazer) que, como mesmo defende a parte agravante, atrai o instituto da decadência, contrariamente ao decidido pelo Tribunal de origem.
+Vê-se, ainda, que sequer é necessário, na espécie, debater se os vícios reclamados são de natureza aparente ou oculta: na melhor interpretação possível à coletividade de condôminos, a ciência dos vícios se tornou incontroversa com o trânsito em julgado da ação cautelar de produção antecipada de provas - em que foi produzido laudo pericial com a enumeração dos vícios de construção -, havendo o transcurso de prazo superior a 90 dias até a data de ajuizamento da presente demanda.
+Dessa maneira, é impositivo reconhecer a decadência do pedido autoral para a execução dos serviços de reparo.
+No entanto, observa-se que foi expressamente formulado pedido alternativo para a conversão da obrigação de fazer em indenização material ("Ainda visando um cenário de descumprimento, verificando o Autor pela viabilidade de iniciar a obra a seus custos, requer seja convertida a demanda em indenização material, condenando a Ré em restituir os valores gastos mediante apresentação de comprovantes", e-STJ fl. 20), pretensão esta que, como visto acima, se sujeita ao prazo prescricional decenal, que não transcorreu entre a entrega da obra e o ajuizamento da ação.
+Logo, o recurso especial comporta parcial provimento, para, embora decretar a decadência do pedido de obrigação de fazer, autorizar o prosseguimento da demanda quanto ao pedido de indenização material, além dos demais pedidos postos na exordial" (e-STJ fls. 1.047/1.049, grifou-se).
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que a agravante não trouxe qualquer argumento capaz de ilidir a conclusão do decisum.
+Com efeito, é pacífica a jurisprudência desta Corte no sentido de que a pretensão do consumidor (na espécie, da coletividade de consumidores) de ser indenizado por vícios de construção não está sujeita a prazo decadencial, mas sim ao prazo prescricional de dez anos.
+A propósito, confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMA DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. VÍCIO DE CONSTRUÇÃO NO IMÓVEL. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O TJRS concluiu que, em se tratando de pretensão preponderantemente indenizatória, por vícios na construção, é aplicável, na espécie, o prazo prescricional, e não o decadencial de 180 dias previsto no parágrafo único do art. 618 do CC. Entendimento em consonância com a jurisprudência desta Corte. Incidência da Súmula nº 83 do STJ.
+4. Agravo interno não provido" (AgInt no AREsp n. 1.985.080/RS,Terceira Turma, DJe de 14/12/2022.)
+"AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL CUMULADA COM LUCROS CESSANTES. PRAZO DECADENCIAL. INAPLICÁVEL. INCIDÊNCIA DO PRAZO PRESCRICIONAL DO ART. 205 DO CC. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULAS N.os 83 E 568 DO STJ. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DANOS MATERIAL E MORAL. CONFIGURAÇÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PRODUÇÃO DE PROVA. LIVRE CONVENCIMENTO. AGRAVO INTERNO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, às ações indenizatórias em que se pretende a reparação do prejuízo advindo de vícios no imóvel, não se aplica o prazo decadencial, mas sim o prazo prescricional do art. 205 do CC.
+2. O entendimento da origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça sendo aplicável a Súmula n.º 568 do STJ.
+ ..
+5. Conheceu-se do agravo interno e negou-se-lhe provimento" (AgInt no AREsp n. 1.853.803/SP, Terceira Turma, DJe de 26/10/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. VÍCIO DE CONSTRUÇÃO. PRELIMINAR DE DECADÊNCIA AFASTADA. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO. 2. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL. NÃO CABIMENTO. PRESCRIÇÃO. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Segundo orientação do Superior Tribunal de Justiça, "a pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp 1.893.715/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/03/2022, DJe 31/03/2022).
+3. A Corte estadual, aplicando o entendimento deste Superior Tribunal, concluiu por afastar a alegada preliminar de decadência em virtude da existência de pleito indenizatório, no qual há aplicação de prazo prescricional. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.081.634/SP, Terceira Turma, DJe de 14/9/2022.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). INADIMPLEMENTO. DESCARACTERIZAÇÃO. DANOS MORAIS. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp n. 1.711.018/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021), o que foi observado pela Corte local.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+ ..
+6. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.690.627/SP, Quarta Turma, DJe de 31/3/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. IMÓVEL COM DEFEITO. VAGA DE GARAGEM. METRAGEM A MENOR. PRAZO DECADENCIAL. PRETENSÃO INDENIZATÓRIA. PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL. AGRAVO INTERNO DESPROVIDO.
+1. A orientação do Superior Tribunal de Justiça é firme no sentido de se aplicar o prazo prescricional disposto no art. 205 do Código Civil à pretensão indenizatória decorrente do vício construtivo.
+2. Agravo interno desprovido" (AgInt no AREsp n. 1.827.897/SP, Quarta Turma, DJ e de 18/2/2022.)
+E, na espécie, conforme elucidado na decisão agravada, a petição inicial veiculou expresso pedido alternativo de conversão da obrigação de fazer em indenização material, consistente na restituição de valores gastos no reparo dos vícios, o qual, repita-se, não se sujeita ao prazo decadencial do CDC.
+É fato que o pedido principal diz respeito à reparação dos vícios, no entanto, não pode ser desprezada a existência de expresso pedido subsidiário de indenização.
+Assim, em suma, a hipótese é mesmo de prosseguimento da demanda quanto ao pedido indenizatório remanescente, nos exatos termos da decisão agravada, que vai mantida integralmente.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
