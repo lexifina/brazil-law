@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa aos dispositivos legais e incidência da Súmula n. 7 do STJ (e-STJ fls. 134/135).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 88):
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA Incidente rejeitado - Possibilidade Revelia das agravadas Marlene Miron e Ariana Cristiane de Abreu Suetti que não autorizam, automaticamente, o acolhimento do incidente - Ausência dos requisitos autorizadores da medida extrema, previstos no artigo 50, do Código Civil(desvio de finalidade e confusão patrimonial) O encerramento irregular das atividades da empresa e a ausência de bens penhoráveis, por si sós, não permitem a desconsideração da personalidade jurídica Especificamente em relação ao agravado Eduardo Antonio Miron de Toledo, apesar das irregularidades informadas nos autos, inexistem elementos concretos a indicar que tenha praticado conduta capaz caracterizar abuso da personalidade jurídica - Decisão mantida Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 96/114), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação do art. 50 do CC/2002, porque (e-STJ fls. 102/112):
+ ..  o encerramento irregular e/ou a ausência de bens da empresa devedora, servem como fator indicativo da ocorrência de abuso da personalidade, servindo como parâmetro, aliado a outros elementos, para reforçar o entendimento acerca da ocorrência de fraude  ..
+Com o devido respeito, não estamos diante de "supostas irregularidades" praticadas pelo recorrido, mas sim de verdadeira afronta ao teor do art. 47 do Código Civil(ato ilícito), eis que ele atuou como o chamado "sócio oculto", praticando atos e celebrando negócios em nome da empresa, mas sem constar nos quadros societários dela, para eximir-se de eventual responsabilidade patrimonial, decorrente do inadimplemento.
+ ..  Também foi destacada no Agravo de Instrumento a confissão, por parte do recorrido, acerca da atuação como gestor da empresa, muito embora tenha ele tentado maquiar a situação, para fazer parecer que referida atuação teria caráter apenas eventual.
+ ..  a única sócia da empresa recorrida é a Sra. Marlene Mirone, conforme exposto no Agravo de Instrumento, ela conta com cerca de 80 (oitenta) anos de idade.
+ ..  Neste ponto, mencione-se que a empresa Health Senior teve a personalidade jurídica desconsiderada nos autos do incidente de nº 0000325-87.2019.8.26.0008
+ ..  Por sua vez, o recorrido Eduardo de Toledo -sócio oculto da empresa devedora -experimenta condição financeira bastante diferente da empresa recorrida e da Sra. Marlene Miron, com a postagem de fotos em carros e motos de luxo em suas redes sociais.
+ ..  verifica-se não apenas uma mera cessação irregular das atividades por parte da executada, mas sim um verdadeiro abuso da personalidade jurídica, caracterizado pelo desvio de finalidade.
+No agravo (e-STJ fls. 138/148), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 153/157 (e-STJ).
+É o relatório.
+Decido.
+A Corte local assim entendeu (e-STJ fls. 89/93):
+O encerramento irregular das atividades e a ausência de bens penhoráveis, por si sós, não constituem elementos que autorizem a aplicação da "disregard doctrine".
+ ..  Na lição do eminente Desembargador Itamar Gaino, "O que autoriza a desconsideração é o abuso da personalidade. O abuso é caracterizado pelo desvio de finalidade ou pela confusão patrimonial", in Responsabilidade dos Sócios na Sociedade Limitada, Ed. Saraiva, p. 139.
+ ..  Dessa forma, não podem ser aceitos os motivos alegados pela Agravante para permitir a inclusão dos Agravados no polo passivo da execução, uma vez que não há comprovação de uso abusivo da personalidade jurídica, caracterizado pelo desvio de finalidade ou confusão patrimonial (art. 50, do Código Civil).
+ ..  Por último, também não é possível aferir a caracterização de abuso da personalidade jurídica na conduta do agravado Eduardo Antonio Miron de Toledo, em razão de ter praticado atos de gerência em nome da Executada, como se seu sócio fosse.
+Apesar da longa narrativa contida nas razões do recurso e da incontroversa atuação do Agravado na assinatura de contratos e realização de outros atos em nome da Executada, não foi descrito um fato sequer capaz de caracterizar desvio de finalidade da pessoa jurídica ou confusão patrimonial.
+ ..  Dessa forma, não verificada a presença os pressupostos para a desconsideração da personalidade jurídica, de rigor a manutenção integral da decisão agravada.
+O entendimento está de acordo com a jurisprudência do STJ, segundo a qual "a teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 12/11/2019).
+Modificar o entendimento do Tribunal de origem que, amparado no acervo fático-probatório dos autos, concluiu não estar comprovada a confusão patrimonial nem o desvio de finalidade esbarra na Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
