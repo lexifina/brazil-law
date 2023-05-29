@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 660):
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. DURAÇÃO RAZOÁVEL DO PROCESSO. PROCESSO ADMINISTRATIVO FISCAL FEDERAL. PEDIDO ADMINISTRATIVO DE RESTITUIÇÃO. PRAZO PARA DECISÃO DA ADMINISTRAÇÃO PÚBLICA. APLICAÇÃO DA LEI 9.784/99. IMPOSSIBILIDADE. NORMA GERAL. LEI DO PROCESSO ADMINISTRATIVO FISCAL. DECRETO 70.235/72. ART. 24 DA LEI 11.457/07. NORMA DE NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA. ART. 110 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E NESSA EXTENSÃO NÃO PROVIDO.
+O agravante alega que: (A) "entende a Agravante que sua intenção em obter o devido enfrentamento da matéria foi suprimida pelo Tribunal de origem, restando configurada a ofensa ao art. 1.022, inciso II, ao art. 489, §1º, incisos IV, V e VI do CPC, todos do Código de Processo Civil"; (B) "depreende-se que a Súmula 284do STF não merece ser aplicada ao caso concreto, uma vez que no caso em tela o que se discute é a efetiva violação da Lei 13.137 e ao art. 100, I do CTN. Assim, requer o acolhimento da preliminar arguida, com a reforma da r. Decisão no ponto, sendo provido o recurso especial da Agravante".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. DURAÇÃO RAZOÁVEL DO PROCESSO. PROCESSO ADMINISTRATIVO FISCAL FEDERAL. PEDIDO ADMINISTRATIVO DE RESTITUIÇÃO. PRAZO PARA DECISÃO DA ADMINISTRAÇÃO PÚBLICA. APLICAÇÃO DA LEI 9.784/99. IMPOSSIBILIDADE. NORMA GERAL. LEI DO PROCESSO ADMINISTRATIVO FISCAL. DECRETO 70.235/72. ART. 24 DA LEI 11.457/07. NORMA DE NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA. ART. 110 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489, §1º, incisos IV, V e VI, e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque afasta-se a alegada violação dos artigos 489, §1º, incisos IV, V e VI, e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Conforme assentado na decisão recorrida, observa-se da análise dos autos que as razões recursais apresentadas pela recorrente, no ponto, confundem-se com as pretensões de mérito, no sentido de almejar a reforma das conclusões adotadas pelo TRF4. Ocorre que não se confunde provimento jurisdicional desfavorável aos interesses do recorrente, com acórdão nulo por negativa ou deficiência na respectiva prestação jurisdicional.
+Ademais, o agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
