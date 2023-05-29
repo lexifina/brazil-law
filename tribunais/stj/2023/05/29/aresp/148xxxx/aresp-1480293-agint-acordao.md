@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 187):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. OBSERVÂNCIA DO JUÍZO DE EQUIDADE. IMPOSSIBILIDADE. TESE FIRMADA PELA CORTE ESPECIAL. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante alega que: "é de rigor o sobrestamento do feito até a resolução definitiva do tema, em respeito aos postulados de estabilidade, integridade e coerência, que informam o sistema de precedentes brasileiro (art. 926 do CPC)"; "faz-se necessário que, no contexto da aplicação do Tema 1076/STJ, sejam enfrentadas as temáticas constitucionais pertinentes à construção decisória que levou à definição da tese em processo repetitivo, as quais são apontadas abaixo".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. OBSERVÂNCIA DO JUÍZO DE EQUIDADE. IMPOSSIBILIDADE. TESE FIRMADA PELA CORTE ESPECIAL. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo da controvérsia (REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP - Tema 1.076), na sessão de 16/03/2022, consolidou a tese jurídica de que o art. 85, § 3º, do CPC/2015 é aplicável como critério jurídico de fixação da verba honorária quando o valor da causa for elevado, hipótese dos autos, admitindo o arbitramento por equidade apenas nos casos em que o proveito econômico for inestimável e irrisório ou se o valor da causa for muito baixo. Nesse sentido: AgInt no REsp n. 2.011.664/TO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/3/2023, DJe de 31/3/2023.
+3. Ademais, "não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt no AREsp n. 2.207.137/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De início, afasta-se a necessidade de sobrestamento do tema. Não há nenhuma determinação nesse sentido, de modo que a eventual admissão do recurso extraordinário, por si só, não implica no sobrestamento do presente processo.
+Quanto a questão de fundo, a Corte Especial deste Tribunal Superior alterou pacífica orientação jurisprudencial e decidiu pela impossibilidade de observância do § 8º do art. 85 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. FIXAÇÃO. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE
+1. A Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo da controvérsia (REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP - Tema 1.076), na sessão de 16/03/2022, consolidou a tese jurídica de que o art. 85, § 3º, do CPC/2015 é aplicável como critério jurídico de fixação da verba honorária quando o valor da causa for elevado, hipótese dos autos, admitindo o arbitramento por equidade apenas nos casos em que o proveito econômico for inestimável e irrisório ou se o valor da causa for muito baixo.
+2. Este Tribunal possui jurisprudência firmada de que a fixação dos honorários de sucumbência, sob a égide do CPC/2015, sujeita-se à "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+3. Hipótese em que o posicionamento adotado na Corte de origem diverge da jurisprudência deste Tribunal Superior, tendo em vista que o caso se enquadra na situação em que o proveito econômico não pode ser mensurado instantaneamente quando da prolação do acórdão, razão pela qual deve ser postergado o percentual de fixação da verba para a fase de liquidação da sentença.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.011.664/TO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Ademais, "não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt no AREsp n. 2.207.137/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
