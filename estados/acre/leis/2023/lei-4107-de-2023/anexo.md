@@ -1,0 +1,21 @@
+ANEXO I
+
+“ANEXO ÚNICO
+
+...
+
+TABELA DE ADICIONAL DE PLANTÃO EMERGENCIAL GRUPOS VII - 12 HORAS
+
+GRUPO PLANTÃO PADRÃO PLANTÃO NOTURNO
+
+FINAIS DE
+
+SEMANA/FERIADOS
+
+GRUPO VII
+
+Profissionais técnicos de nível médio R$ 102,57 R$ 153,86
+
+Profissionais técnicos em radiologia R$ 123,08 R$ 184,25
+
+...” (NR)
