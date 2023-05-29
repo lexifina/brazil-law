@@ -1,0 +1,18 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que determinou a devolução dos autos ao Tribunal a quo para o fim de que se adeque ao julgamento repetitivo/com repercussão geral.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO IRRECORRÍVEL, INEXISTÊNCIA DE PREJUÍZO ÀS PARTES.
+I - Determinou-se a devolução dos autos ao Tribunal de origem para que seja realizado novo juízo de admissibilidade do recurso, considerando-se o decidido em recurso especial repetitivo e/ou submetido à repercussão geral: Tema n. 414/STJ - REsp 1.937.891/RJ, REsp 1.937.887/RJ e REsp 1.166.561/RJ. Foi interposto agravo interno contra essa decisão.
+II - Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível". (AgInt no REsp 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017). No mesmo sentido: AgInt no AREsp 1.423.595/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2019, DJe 17/6/2019; AgInt no REsp 1.577.710/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/6/2019, DJe 7/6/2019.
+III - Agravo interno não conhecido.
+VOTO
+Determinou-se a devolução dos autos ao Tribunal de origem para que seja realizado novo juízo de admissibilidade do recurso, considerando-se o decidido em recurso especial repetitivo e/ou submetido à repercussão geral: Tema n. 414/STJ - REsp 1.937.891/RJ, REsp 1.937.887/RJ e REsp 1.166.561/RJ.
+Foi interposto agravo interno contra essa decisão.
+Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível". (AgInt no REsp 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017). No mesmo sentido: AgInt no AREsp 1.423.595/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2019, DJe 17/6/2019; AgInt no REsp 1.577.710/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/6/2019, DJe 7/6/2019.
+Ante o exposto, não conheço do recurso.
+É o voto.
