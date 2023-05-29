@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se, na origem, de ação de dissolução de contrato de aquisição de imóvel em condomínio cumulada com suprimento judicial de outorga e autorização para venda de imóvel ajuizada por GISELE MENEZES PAES BARRETO CHAGAS (ora agravante) em desfavor de JANAÍNA MENEZES DA SILVA FRADE e ALESSANDRO DE OLIVEIRA FRADE.
+Interposto o agravo de instrumento em contrariedade à decisão que indeferiu o pedido de suspensão do feito pela parte autora, a Vigésima Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, por unanimidade, não conheceu do recurso interposto, nos termos da ementa (e-STJ, fl. 50):
+AGRAVO DE INSTRUMENTO. AÇÃO DE DISSOLUÇÃO DE CONTRATO DE AQUISIÇÃO DE IMÓVEL EM CONDOMÍNIO C/C SUPRIMENTO JUDICIAL DE OUTORGA E AUTORIZAÇÃO PARA VENDA DE IMÓVEL COMUM. INDEFERIMENTO DO PEDIDO DE SUSPENSÃO DO FEITO. Conteu"do da decisa o agravada que na o foi contemplado no rol taxativo do art. 1.015 do NCPC e não restou patente sua urgência decorrente de inutilidade de julgamento posterior. Na o conhecimento do recurso, em raza o de manifesta inadmissibilidade. RECURSO NA O CONHECIDO.
+Opostos os embargos de declaração, o Tribunal local os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fl. 81):
+EMBARGOS DE DECLARAÇÃO. DECISÃO COLEGIADA EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE CONFIGURAÇÃO DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC. Embargante que pretende rediscutir o mérito do julgado, intentando instaurar novo debate sobre a demanda, examinada pelo colegiado. Não havendo na decisão embargada qualquer omissão, obscuridade, contradição ou erro material, não há o que se declarar. REJEIÇÃO DOS DECLARATÓRIOS.
+Contra o acórdão GISELE MENEZES PAES BARRETO CHAGAS interpôs recurso especial, apontando violação ao art. 313, I, II e VI, do CPC/2015.
+Em suas razões, alegou a recorrente que a decisão recorrida não fez justiça à recorrente, porquanto o agravo de instrumento fora fundamentado no direito constitucional à saúde e à vida, dado o contexto da pandemia da Covid-19. Por tal motivo, a decisão que não conheceu do recurso interposto ofendo o dispositivo invocado por (i) consistir a morte em resultado mais gravoso, resultado este que a suspensão do processo busca evitar; (ii) possibilidade de haver convenção da partes acerca da suspensão do feito, o que poderia ocorrer em audiência especial; e (iii) a pandemia se revela um motivo de força maior.
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas 7 e 83 deste Superior Tribunal (e-STJ, fls. 134-138), o que ensejou a interposição do agravo em recurso especial (e-STJ, fls. 195-217).
+Em decisão monocrática (e-STJ, fls. 246-247), a Presidência desta Corte não conheceu do recurso mediante a aplicação da Súmula n. 284/STF, fundada na errônea indicação do dispositivo constitucional, conforme se verifica do seguinte trecho:
+Mediante análise do recurso de GISELE MENEZES PAES BARRETO CHAGAS, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que houve a indicação errônea do dispositivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, o enunciado da referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto"
+Nas razões do presente agravo interno (e-STJ, fls. 250-275), a agravante, além de reiterar as alegações que havia feito no anterior agravo e no próprio recurso especial, argumenta a inaplicabilidade da Súmula n. 284/STF, tendo em vista que indicou os dispositivos de lei federal infraconstitucional.
+Não foram apresentadas as impugnações.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DO § 1º DO ART. 1.021 DO CPC/2015 NÃO ATENDIDA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Cabe à parte recorrente, nas razões do agravo interno, impugnar especificadamente os fundamentos da decisão agravada.
+2. Verificado, no caso, que a insurgente limitou -se a reproduzir as mesmas alegações que fez no antecedente agravo e no próprio recurso especial, sem efetivamente rebater o fundamento da decisão de não conhecimento proferida pela Presidência do Superior Tribunal de Justiça, não se faz possível conhecer do agravo interno, por desatendida a exigência prevista no § 1º do art. 1.021 do Código de Processo Civil de 2015.
+3. Agravo interno não conhecido.
+VOTO
+Não há como conhecer da irresignação manifestada pela agravante.
+Na deliberação unipessoal, a Presidência desta Corte Superior não conheceu do recurso especial, em virtude da errônea indicação do dispositivo constitucional, atraindo a incidência, por analogia, da Súmula n. 284/STF.
+Nas razões deste agravo interno, entretanto, a agravante deixou de demonstrar o desacerto da deliberação unipessoal da Presidência desta Corte Superior, limitando-se a reiterar as alegações feitas no anterior agravo e no próprio recurso especial.
+Como se sabe, deveria o agravante, ao fazer uso do agravo interno, trazer argumentos para evidenciar o alegado equívoco da decisão de não conhecimento do agravo em recurso especial, mas não o fez, o que inviabiliza o conhecimento também deste novo recurso, por desatendido o § 1º do art. 1.021 do CPC/2015, que assim dispõe:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Na mesma linha de cognição:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. NEXO DE CAUSALIDADE. DEMOLIÇÃO. CONSTRUÇÃO EM ÁREA DE PROTEÇÃO PERMANENTE. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANOS MORAIS E MATERIAIS. NÃO DEMONSTRAÇÃO DO DISSENSO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. APLICAÇÃO.
+1. O Tribunal de origem inadmitiu o Recurso Especial sob o fundamento de que "não se encontra demonstrado o alegado dissenso, pois a Recorrente deixou de realizar o cotejo analítico entre eventuais teses tidas por divergentes, por intermédio da indicação das circunstâncias que pudessem identificá-las ou assemelhá-las." (fl.193, e-STJ) e dos óbices das Súmulas 7/STJ e 284/STF.
+2. Nas razões do Agravo de Instrumento, verifica-se que a parte agravante deixou de atacar a decisão recorrida, limitando-se a reafirmar os argumentos do Recurso Especial. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015.
+3. Dessa maneira, é aplicável por analogia a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido: Ag 961.515/RJ, Segunda Turma, Rel. Min. Castro Meira, DJ de 19.12.2007, e Ag 945.531/RS, Segunda Turma, Rel. Min. Humberto Martins, DJ de 12.12.2007.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1559828/AM, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/04/2020, DJe 05/05/2020)
+Ante o exposto, não conheço do agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
