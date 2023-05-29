@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo interno interposto de decisão monocrática da Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial (fls. 813-818, e-STJ).
+A parte agravante aduz:
+Com a devida vênia, os principais argumentos sustentados pela Agravante nas razões do seu Recurso Especial foram a violação ao Princípio da Inafastabilidade da Jurisdição, previsto no art. 3º do CPC, bem como a patente verificação do seu interesse de agir, consoante art. 17 do CPC.
+Tais foram os fundamentos que sustentaram as razões do Recurso Especial sobretudo porque, como visto, o acórdão proferido em 2º grau deu provimento ao apelo do Estado no sentido de reconhecer a ausência do interesse de agir da Agravante, portanto não haveria outras matérias a serem suscitadas no primeiro plano das razões recursais excepcionais senão o princípio da inafastabilidade da jurisdição e a demonstração do seu interesse de agir.
+Impugnação às fls. 834-836, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE ICMS IMPORTAÇÃO. RECONHECIMENTO DE IMUNIDADE TRIBUTÁRIA DE ENTIDADE FILANTRÓPICA. INTERESSE DE AGIR. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. In casu, não houve o prequestionamento da tese recursal (art. 3º do CPC/2015), uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. O prequestionamento implícito ocorre quando, embora ausente a citação expressa ao dispositivo legal, a matéria nele disciplinada e no seu preciso termo é abordada no provimento jurisdicional.
+2. Não se conhece do Recurso Especial quanto à matéria que não foi especificamente enfrentada pelo Tribunal origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 211/STJ.
+3. No que concerne à questão referente ao interesse de agir, a Corte de origem, com sucedâneo no conjunto probatório dos autos consignou que "O documento de fls. 458, por si só, não deve ser reconhecido como negativa expressa do Estado do Rio de Janeiro quanto à inexigibilidade de ICMS na importação pretendida pela autora, qual seja: Proformas Invoice nº 1294678, 1294651, 1294672, 90539802 e 004-19IDHR. É que se trata de simples consulta, de forma genérica, formulada por meio da plataforma "fale conosco" junto à Secretaria de Fazenda, sem a discriminação das importações pretendidas, do tipo de produto, do objeto, tanto que a resposta é clara ao informar que "em princípio" a resposta é negativa" (fl. 627, e-STJ).
+4. Por simples cotejo entre os argumentos utilizados pela parte recorrente e a conclusão firmada no acórdão objurgado, observa-se que a pretensão recursal exige reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.4.2023.
+O Tribunal de origem, ao analisar a controvérsia, consignou:
+De fato, a autora não logrou provar resistência à sua pretensão (i) em sede administrativa, (ii) tampouco no processo judicial, uma vez que o Estado do Rio de Janeiro apresentou contestação no sentido da falta de interesse de agir, justamente por ser aplicado administrativamente o entendimento pretendido pela autora, consolidado no Tema n. 342 da jurisprudência do E. STF.
+O documento de fls. 458, por si só, não deve ser reconhecido como negativa expressa do Estado do Rio de Janeiro quanto à inexigibilidade de ICMS na importação pretendida pela autora, qual seja: Proformas Invoice nº 1294678, 1294651, 1294672, 90539802 e 004-19IDHR.
+É que se trata de simples consulta, de forma genérica, formulada por meio da plataforma "fale conosco" junto à Secretaria de Fazenda, sem a discriminação das importações pretendidas, do tipo de produto, do objeto, tanto que a resposta é clara ao informar que "em princípio" a resposta é negativa.
+Importante ressaltar que a consulta foi realizada em 19 de novembro de 2019, posteriormente ao Estado do Rio de Janeiro fixar orientação administrativa pelo reconhecimento da inexigibilidade.
+Como bem destacou o Estado em seu recurso, ainda que tenha firmado entendimento pelo reconhecimento da imunidade, e não apresentando resistência nas contestações apresentadas nos processos ajuizados pela autora, esta ajuizou diversas ações declaratórias de inexigibilidade do ICMS como a presente, com objeto semelhante, apenas alterando o equipamento a ser importado, o que importa em inúmeras condenações da fazenda pública.
+Quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal (art. 3º do CPC/2015), uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+O prequestionamento implícito ocorre quando, embora ausente a citação expressa ao dispositivo legal, a matéria nele disciplinada e no seu preciso termo é abordada no provimento jurisdicional.
+No caso, a situação descrita no artigo supracitado não foi apreciada no acórdão do Tribunal a quo para tratar da controvérsia.
+Não se conhece do Recurso Especial quanto a matéria que não foi especificamente enfrentada pelo Tribunal origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 211/STJ.
+Quanto à questão referente ao interesse de agir, a Corte de origem, com sucedâneo no conjunto probatório dos autos consignou que "O documento de fls. 458, por si só, não deve ser reconhecido como negativa expressa do Estado do Rio de Janeiro quanto à inexigibilidade de ICMS na importação pretendida pela autora, qual seja: Proformas Invoice nº 1294678, 1294651, 1294672, 90539802 e 004-19IDHR. É que se trata de simples consulta, de forma genérica, formulada por meio da plataforma "fale conosco" junto à Secretaria de Fazenda, sem a discriminação das importações pretendidas, do tipo de produto, do objeto, tanto que a resposta é clara ao informar que "em princípio" a resposta é negativa" (fl. 627, e-STJ).
+Por simples cotejo entre os argumentos utilizados pela parte recorrente e a conclusão firmada no acórdão objurgado, observa-se que a pretensão recursal exige reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
