@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interno interposto por Iranildo Queros Ferreira e Dilceu Fernandes Machado contra decisão monocrática proferida pela Presidência desta Corte nos seguintes termos (e-STJ, fls. 343-345):
+Mediante análise do recurso de IRANILDO QUEROS FERREIRA e OUTRO, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+( )
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+O decisum foi complementado pelo julgamento dos embargos de declaração opostos, que, na oportunidade, foram rejeitados (e-STJ, fls. 360-362).
+Em suas razões, os agravantes alegam que não incide o enunciado sumular n. 284 do STF, tendo em vista que o STJ já se manifestou no sentido de afastar o óbice quando as razões recursais demonstram a hipótese de seu cabimento, como ocorre no presente caso.
+Requerem, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+De fato, verifica que assiste razão às partes embargantes, não incidindo, na espécie, o teor da Súmula n. 284 do STF. Portanto, com apoio no art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 343-345 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Iranildo Queros Ferreira e Dilceu Fernandes Machado, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Rondônia assim ementado (e-STJ, fls. 136-137):
+Cumprimento de sentença. Exceção de Pré-executividade. Prazo prescricional. Condenação dos avalistas. Súmula n. 150 do STF. O prazo prescricional para a cobrança do título executivo judicial em desfavor dos avalistas, condenados solidariamente a pagar aluguéis inadimplidos pelo locatário, é de 5 anos, nos termos do art. 206, §5º, I, do CC/2002, contados do trânsito em julgado da sentença condenatória. A Súmula n. 150 do STF se aplica às execuções fiscais. Recurso de apelação não provido.
+Em suas razões de recurso especial (e-STJ, fls. 365-372), os agravantes alegaram violação ao art. 206, § 3º, I, do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentaram, em síntese, a ocorrência da prescrição da pretensão de execução do título executivo, tendo em vista que o prazo é o mesmo para a ação de conhecimento, qual seja de 3 (três) anos.
+Destacaram, ainda, a necessidade de observância da Súmula n. 150 do STF, que dispõe a respeito do tema, asseverando que o STJ vem aplicando o entendimento para a prescrição da pretensão executória de reparação civil.
+Requereram, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 293-305).
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interpor o presente agravo.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca do reconhecimento da prescrição, o TJRO dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 134-136):
+Eis o teor da decisão agravada:
+Conforme já delineado na decisão ID 54639240, houve condenação para os avalistas, ora executados, no dispositivo da sentença dos autos principais nº 0011900-42.2010.822.0001 ID 3607988 (Pág.2), formando o título executivo judicial.
+A partir deste marco temporal, o feito tramitou regularmente, inclusive com lavratura do acórdão pelo Egrégio Tribunal de Justiça (ID 3607989) em 01/12/2015.
+Veja, que em nenhum destes momentos há decurso do prazo prescricional de 03 (três) anos.
+Desta forma, o fato de que o exequente não ter apresentado requerimento executivo específico em face dos avalistas executados, não é óbice para prosseguimento do cumprimento de sentença, repita-se, na sentença de mérito dos autos principais foi determinada condenação dos avalistas, dispositivo suficiente para perfeita formação do título executivo judicial.
+Por fim, a argumentação dos executados de que não foram partes na fase de conhecimento, já foi rejeitada na decisão supracitada, em que houve análise da impugnação ao cumprimento de sentença.
+Assim, rejeito a exceção.
+
+Em que pesem os argumentos dos agravantes estes não prosperam, porquanto não configurada a prescrição sustentada.
+Os agravantes foram condenados a pagar os aluguéis do contrato de locação em que figuram como avalistas.
+A sentença condenatória transitou em julgado, como citado pelos recorrentes, em 02/02/2016. Assim, a credora, aqui a agravada, teria o prazo de 05 anos para executar a dívida, fundada em título executivo judicial (documento público), conforme dispõe o art. 206, § 5º, I, do CC:
+( )
+O entendimento sumulado do STF (Súmula n. 150) não se aplica ao caso. É aplicável às cobranças de dívidas pela Fazenda Pública, ou seja, nas execuções fiscais. No caso, a cobrança se funda em débito oriundo de contrato de locação de imóvel, consubstanciada em título executivo judicial, qualificado como documento público.
+Na fase de conhecimento foi definida a responsabilidade solidária da devedora principal, alocatária, bem como dos avalistas, não cabendo mais discussão, porquanto já transitada em julgada a decisão. Estabelecida a solidariedade entre os devedores, o credor pode, a seu critério, executar todos os devedores solidários ou qualquer um deles individualmente; inclusive, chamar, no curso da execução, todos os coobrigados pela obrigação de pagar, desde que não passados o prazo prescricional de 5 anos.
+Não prospera a pretensão recursal, porquanto não se trata de aplicação do prazo prescricional de 3 anos. O lapso temporal trienal seria para a execução de dívida, baseada em título executivo extrajudicial. O prazo prescricional para a cobrança do título executivo judicial em desfavor dos avalistas condenados solidariamente a pagar aluguéis inadimplidos pelo locatário prescreve em 5 anos, nos termos do art. 206, §5º, I, do CC.
+Das informações extraídas do julgado objurgado, observa-se que o colegiado local concluiu que o presente caso se refere à cobrança de título executivo judicial em desfavor dos avalistas condenados solidariamente a pagar aluguéis inadimplidos pelo locatário, que possui prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC de 2002, tendo, ainda, destacado que referido lapso temporal não se esgotou.
+Conforme é possível verificar da análise das razões recursais, os agravantes não impugnaram o fundamento utilizado pelo acórdão recorrido acima mencionado.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVA - CONDENATÓRIA - DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL NAS ORDENS DE PAGAMENTO. FUNDAMENTO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS DO ARTS. 255, §§ 1º e 2º, DO RISTJ e 1.029, § 1º do CPC/2015 NÃO CUMPRIDOS. DECISÃO MANTIDA.
+1. Inviável a análise de ofensa aos dispositivos constitucionais sob pena de usurpação da competência reservada à Corte Suprema.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Não se conhece do recurso interposto pela alínea "c" do permissivo constitucional, quando a divergência não é demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os supostos casos que deveriam ser apresentados e confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1909651/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2022, DJe 28/03/2022).
+Lado outro, do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, precisaria empreender novo e aprofundado exame de tais circunstâncias, mas tal providência é vedada a esta Corte, na via do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRAZO PRESCRICIONAL DE 5 ANOS. FUNDAMENTO SUFICIENTE SUSCITADO PELO TRIBUNAL A QUO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
