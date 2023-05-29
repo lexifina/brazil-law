@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ITAMARACÁ AUTO PEÇAS LTDA - EPP - contra decisão a fls. 239/242 que não conheceu do recurso especial.
+Nas razões dos embargos de declaração, sustenta a embargante que alegou violação, pelo acórdão proferido pela 13ª Câmara Cível do Egrégio Tribunal de Justiça do Estado do Rio de Janeiro, da regra processual inserta nos arts 485, § 1º, e 489, § 1º, do Código de Processo Civil, porque deixou de especificar o fundamento para assentar ocorrência de desídia da parte autora, em razão da devolução do mandado de citação com Aviso de Recebimento - AR - negativo, da qual resultou sentença de extinção do feito, sem que tivesse sido intimada da devolução do AR. Assim, não há falar em incidência do óbice contido na Súmula 283/STF.
+O prazo para impugnação ao presente recurso decorreu in albis.
+É o relatório. Passo a decidir.
+A parte embargante demonstra obscuridade na decisão embargada. Para tanto esclarece que impugnou todos os fundamentos autônomos contidos no acórdão recorrido, para que seja afastada a Súmula 283/STF.
+Com efeito, a decisão embargada contém o entendimento de que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto o fundamento autônomo nele contido, relativo à superveniente perda do objeto da ação que redundou na extinção do processo, corresponderia a fundamento autônomo inatacado.
+Todavia, relendo o acórdão recorrido e após a releitura da petição do recurso especial, é possível afirmar que a Súmula 283/STF deve ser afastada, pois a assertiva de superveniente perda do objeto está atrelada à desídia da parte em produzir a citação da parte contrária, da qual redundou o não desenvolvimento válido e regular do processo a permitir sua extinção. Assim, sanada a obscuridade, atribui-se ao julgado o efeito modificativo.
+Adentra-se o mérito do recurso especial.
+O recurso especial é oriundo de ação renovatória de locação não residencial, ajuizada por ITAMARACÁ AUTO PEÇAS LTDA -EPP-, recorrente, ora embargante, em face do espólio de HERNANI DE LEMOS PEIXOTO objetivando a renovação de contrato de locação.
+As razões do recurso especial se resumem nos seguintes termos: (i) o Tribunal a quo, ao manter sentença extintiva do processo por desídia da parte autora, negou vigência ao disposto no § 1º do art. 485 do Código de Processo Civil; (ii) se de fato a parte autora foi desidiosa, haveria de ser o feito extinto na forma do inciso III do art 485 do Código de Processo Civil.
+No caso, o Tribunal a quo manteve a sentença extintiva do processo, sem resolução do mérito, nos termos do art. 485, IV, do CPC/2015, ante o não desenvolvimento válido e regular do processo, pois a parte autora fora desidiosa em produzir a citação válida da parte requerida.
+Deveras, "A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor"(AgInt no AREsp 1409923/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 25/6/2019, DJe 1º/7/2019).
+Confira-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EXEQUENTE.
+1. Ausência de violação ao artigo 932 do CPC. Segundo o entendimento sumulado no enunciado 568 do STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", como é o caso dos autos. Ademais, a possibilidade de interposição de insurgência para apreciação do órgão colegiado (artigo 1.021 do CPC) afasta qualquer alegação de ofensa ao princípio da colegialidade.
+Precedentes.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a falta de citação configura ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, ensejando a sua extinção, sendo prescindível a intimação prévia da parte demandante.
+2.1. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada na instância ordinária no tocante à desídia da parte em promover a triangularização processual, em período superior a 90 (noventa) dias, medida vedada pela via do recurso especial. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 916097/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/11/2019, DJe de 12/11/2019)
+Destarte, estando o acórdão recorrido de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+Diante do exposto, acolho os embargos de declaração, para sanar obscuridade, com efeito modificativo, para conhecer do recurso especial e negar-lhe provimento.
+Publique-se.
