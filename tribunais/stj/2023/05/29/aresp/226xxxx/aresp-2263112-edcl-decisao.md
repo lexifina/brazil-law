@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CILENE ROSANGELA DA SILVA STENCEL, à decisão de fls. 1363/1367, que negou provimento ao recurso especial.
+Sob a alegação de contradição na decisão embargada, a embargante afirma que o entendimento adotado no decisum "vai de encontro ao Tema 1.034 do STJ" (fl. 1370). Insiste, em síntese, que a opera dora do plano de saúde embargada fez indevida distinção entre o custo do plano de saúde para os funcionários da ativa e os aposentados.
+Impugnação da parte embargada às fls. 1383/1385.
+É o relatório. Decido.
+Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissíveis, portanto, para rediscutir questões tratadas e devidamente fundamentadas no decisum embargado, a fim de promover novo julgamento da lide, como pretende a embargante. A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC/2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão nos termos requeridos no âmbito do recurso especial.
+(..)
+4. Embargos de declaração rejeitados, com aplicação de multa (EDcl no AgInt nos EDcl nos EDcl nos EDcl no REsp 1318249/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 5.11.2019).
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+(..)
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados (EDcl no REsp 1.837.434/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13.5.2020).
+Os embargos de declaração (CPC/2015, art. 1.022) têm como escopo a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão emprestada a determinada questão.
+Com efeito, "os declaratórios devem buscar a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão emprestada a determinada questão, o que não ocorre na hipótese em exame" (EDcl no AgRg no AREsp n. 260.033/PR, relator Ministro Raul Araújo, Corte Especial, DJe de 14.12.2015); "A contradição que autoriza os embargos de declaração é aquela interna ao acórdão, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão" (EDcl no AgRg no REsp n. 1.086.994/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18.12.2020.); "A contradição prevista no art. 1.022, I, do CPC/2015 é a interna, isto é, entre proposições do próprio julgado embargado, o que não se observa no caso" (AgInt no REsp n. 1.967.784/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.3.2022.).
+O decisum embargado foi suficientemente claro e fundamentado ao examinar as questões relevantes postas no recurso especial, não existindo, na espécie, vício que autorize o acolhimento dos presentes embargos de declaração.
+No caso, a parte embargante insiste que a recorrida estabeleceu critérios diferenciados entre ativos e inativos.
+Entretanto, como destacado na decisão embargada, o Tribunal de Justiça consignou que, "conforme se extrai das tabelas às fls. 415 e 432, a mensalidade cobrada da apelante está em consonância com os valores cobrados dos funcionários da ativa, com a óbvia e já mencionada diferença de que a apelante não faz jus a contraprestação do empregador" (fl. 1024).
+Nesse contexto, a pretensão veiculada no recurso especial encontra óbice nas Súmulas 7 e 83/STJ.
+Efetivamente, as razões postas nos presentes embargos deixam clara a pretensão de rejulgamento da causa, não se desincumbindo do ônus de apontar vício condizente com a natureza dos aclaratórios.
+O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
