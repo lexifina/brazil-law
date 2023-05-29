@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por JFE 34 EMPREENDIMENTOS IMOBILIARIOS LTDA. - EM RECUPERACAO JUDICIAL e JOAO FORTES ENGENHARIA S.A. - EM RECUPERACAO JUDICIAL contra decisão que inadmitiu o recurso especial, ante a ausência de negativa de prestação jurisdicional (e-STJ fls. 1.024/1.027).
+O acórdão do TJMG traz a seguinte ementa (e-STJ fl. 759):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - BAIXA DE HIPOTECA - REPRESENTAÇÃO PROCESSUAL - REGULARIDADE - INSTRUMENTOS DE PROCURAÇÃO - VALIDADE - LEGITIMIDADE PASSIVA - PERTINÊNCIA SUBJETIVA - CONSTATAÇÃO - DESCUMPRIMENTO CONTRATUAL - DANO MORAL - NÃO VERIFICAÇÃO - SITUAÇÃO CONSTRANGEDORA NÃO DEMONSTRADA. Juntados instrumentos de procuração outorgando amplos poderes ao advogado subscritor da peça de contestação, não há falar em revelia. A legitimidade "ad causam" é aferida "in abstracto assertionis", ou seja, deve ser avaliada em consonância com os fundamentos esculpidos na inicial enquanto liame que une as partes subjetivamente. Tendo sido narrada a aquisição de imóvel das empresas rés e a inadimplência quanto à baixa da hipoteca pendente sobre o imóvel adquirido e havendo pretensão resistida, evidente a legitimidade passiva "ad causam". O dano moral só se configura quando atingidos os atributos da personalidade da pessoa natural ou jurídica, em razão de menoscabo, humilhação, ofensa à honra etc. Precedentes. A simples demora na baixa do gravame de hipoteca sobre o imóvel não é suficiente para ensejar dano moral, devendo ser demonstrada a presença de circunstâncias que ultrapassem o mero aborrecimento. Precedentes.
+Os embargos de declaração dos recorridos foram acolhidos nos termos da ementa a seguir (e-STJ fl. 863):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - OBSCURIDADE - CONSTATAÇÃO - DISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA - PROPORCIONALIDADE - LIMITAÇÃO DA RESPONSABILIDADE DE CADA RÉU - NECESSIDADE - SUPRESSÃO. Os embargos de declaração se prestam a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material nas decisões judiciais (art. 1.022 CPC/15). Impõe- se sanar obscuridade e determinar que o réu reputado legítimo nessa instância arque com 1/3 das custas e despesas processuais impostas à parte demandada.
+O recurso declaratório das recorrentes foi rejeitado (e-STJ fls. 909/913).
+No recurso especial (e-STJ fls. 921/931), fundamentado no art. 105, III, "a", da CF, as recorrentes apontaram violação:
+(i) dos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, e
+(ii) do art. 85, § 8º, do CPC/2015, pois o arbitramento dos honorários advocatícios por equidade seria regra subsidiária, "quando a verba é "inestimável", "irrisória" ou exorbitante" (e-STJ fl. 928). Nesse contexto, defenderam que "ponderando as circunstâncias do caso, qual seja uma ação simples e sem qualquer complexidade de cancelamento da hipoteca, não há justificativa para o valor fixado (R$ 40.000,00), tampouco para sua majoração em R$ 150,00 para cada réu. Seria o caso, portanto de fixação da verba honorária por apreciação equitativa, a fim de adequá-la ao trabalho desenvolvido no processo" (e-STJ fl. 929).
+Foram apresentadas contrarrazões (e-STJ fls. 944/948).
+No agravo (e-STJ fls. 1.145/1.153), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.163/1.167).
+É o relatório.
+Decido.
+Não assiste razão às recorrentes quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses das recorrentes não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+A fim de sustentar a exclusão dos honorários recursais, a parte recorrente apontou violação do § 8º do art. 85 do CPC/2015.
+Ocorre que tal dispositivo legal não possui o alcance normativo pretendido, porque nada dispõe a respeito da existência do referido encargo.
+Por isso, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto ao art. 85, § 8º, do CPC/2015 sob o enfoque pretendido pelas recorrentes. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto (e-STJ fls. 875/882) , a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
