@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO TOYOTA DO BRASIL S.A. contra acórdão da Segunda Câmara Cível do TJRN, assim ementado (e-STJ fl. 377):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO QUE INDEFERIU PEDIDO DE RECONHECIMENTO DE NULIDADE. PEDIDO DE INTIMAÇÃO EM NOME DE DOIS ADVOGADOS. PUBLICAÇÃO REALIZADA EM NOME DE UM CAUSÍDICO. AGRAVO INTERNO QUE NÃO TRAZ FUNDAMENTO NOVO CAPAZ DE ENSEJAR A MODIFICAÇÃO DO ENTENDIMENTO EXARADO NA DECISÃO AGRAVADA. MANUTENÇÃO DO DECISUM AGRAVADO POR SEUS PRÓPRIOS FUNDAMENTOS. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 401/415).
+Nas razões do recurso especial (e-STJ fls. 417/427), fundamentado no art. 105, III, "a", da CF, o recorrente aponta violação dos arts. 7º e 272, § 5º, do CPC/2015.
+Alega que, apesar de ter feito pedido expresso para que as publicações fossem realizadas em nome dos advogados, MARIA LUCILIA GOMES e ALEXANDRE ALEIDA OTELO, o acórdão da apelação teria sido publicado apenas em nome do advogado subscritor do recurso.
+Sustenta que, com o advento do CPC/2015, as publicações devem ser feitas em nome de todos os advogados indicados, sob pena de nulidade.
+Aduz que os precedentes do STJ citados no acórdão recorrido demonstram entendimento firmado à luz do CPC/1973.
+Não foram apresentadas contrarrazões (e-STJ fl. 436).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 437/438).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 378/383):
+Nota-se, de imediato, que o agravo interno se limita à mera reiteração dos argumentos e fundamentos contidos na petição de fls. 255-262, não trazendo a este feito qualquer elemento fático ou processual novo, capaz de infirmar as assertivas já registradas na decisão agravada, razão pela qual mantenho integralmente o posicionamento adotado na decisão atacada, por seus próprios fundamentos. os quais transcrevo abaixo para a apreciação devida do órgão colegiado:
+"(..) Relevante destacar, desde logo, que o pedido de intimação exclusiva ao qual se refere o apelante foi formulado na primeira página da peça de contestação (fl. 119) nos idos de março de 2010, sendo redigido da seguinte forma:
+"(..) Inicialmente, requer que todas e quaisquer intimações e/ou publicações sejam enviadas à Rua XV de novembro, no 164, CEP 01013-000, São Paulo/SP, imprescindivelmente em nome de Dra. Maria Lucilia Gomes, inscrita na OAB/389-A e do advogado subscritor."
+Em que pese a alegação no sentido de que tal pleito foi reiterado nos autos em outras duas oportunidades, é forçoso observar que apenas no referido petitório se constata o descrito pedido, sendo inevitável constatar, em seguida, que após a sentença proferida, APENAS o advogado ALEXANDRE ALMEIDA OTELO assinou o recurso de apelação (fls. 171- 181), no qual não consignou qualquer pedido de intimação exclusiva.
+Além disso, não se pode ignorar, como parece fazer o Apelante, que o pedido feito foi no sentido da intimação em nome da advogada Maria Lucilia Gomes e do advogado subscritor, o que, em meu sentir, impede o reconhecimento de nulidade da intimação do acórdão, urna vez que tal ato respeitou o referido pedido, fazendo constar exatamente o nome do causídico que havia subscrito, com exclusividade, a peça recursal.
+Ao acrescentar ao pedido de intimação "exclusiva" a expressão aditiva "e do advogado subscritor", retirou a própria parte interessada o caráter de exclusividade pretendido, já tendo o Superior Tribunal de Justiça definido tal questão em tais termos (sendo o segundo aresto ainda mais específico às circunstâncias dos autos):
+ ..
+Nota-se, inclusive, que a parte teve intimação de ato ordinatório posterior, por meio de publicação que incluiu o nome da advogada Maria Lucilia Gomes (fls. 253-254), sendo que, ainda assim, alegou à fl. 260 que só teve conhecimento da situação deste processo "quando eventualmente compulsou os autos", o que torna até contraditória a defesa, neste momento, do aqui tratado pedido de intimação exclusiva."
+No tocante à alegação no sentido do decisum ter utilizado como fundamento jurisprudência anterior à vigência do atual Código de Processo Civil, há de ser destacado que permanece o entendimento do Superior Tribunal de Justiça sobre a matéria, no sentido de que não existe nulidade se, mesmo havendo pedido expresso de publicação em nome de mais de um advogado, a publicação indica somente um deles, consoante se observa dos julgados cujas ementas seguem transcritas (com grifos):
+ .. .
+Não foram impugnados os fundamentos do acórdão recorrido de que: (a) "o pedido de intimação exclusiva ao qual se refere o apelante foi formulado na primeira página da peça de contestação (fl. 119) nos idos de março de 2010", (b) "após a sentença proferida, APENAS o advogado ALEXANDRE ALMEIDA OTELO assinou o recurso de apelação (fls. 171- 181), no qual não consignou qualquer pedido de intimação exclusiva", e (c) "a parte teve intimação de ato ordinatório posterior, por meio de publicação que incluiu o nome da advogada Maria Lucilia Gomes (fls. 253-254), sendo que, ainda assim, alegou à fl. 260 que só teve conhecimento da situação deste processo "quando eventualmente compulsou os autos", o que torna até contraditória a defesa, neste momento, do aqui tratado pedido de intimação exclusiva".
+Referidos fundamentos são suficientes para manter o juízo emitido.
+Isso porque, se o pedido de publicação exclusiva foi feito em março de 2010, estava em vigor o CPC/1973. À luz do referido diploma processual, a jurisprudência desta Corte esta va firmada no sentido do acórdão recorrido.
+Além disso, insurge-se o recorrente contra a intimação do acórdão da apelação mas, segundo constou do aresto, na peça do referido recurso não se requereu a publicação exclusiva.
+Finalmente, conforme o firme entendimento do STJ, a nulidade da intimação deve ser arguida na primeira oportunidade, sob pena de preclusão. De acordo com o que consignou o Tribunal de origem, a advogada em nome de quem também se pretende que sejam feitas as publicações foi intimada de ato posterior ao acórdão, sem alegar nenhuma irregularidade.
+Aplicável, portanto, a Súmula n. 283/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
