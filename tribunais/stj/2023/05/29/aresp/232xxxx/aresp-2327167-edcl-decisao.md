@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LAR DOS MENINOS, à decisão de fls. 887/888, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Não foi concedido ao embargante o prazo de 05 (cinco) dias para juntada da referida documentação, que ora se anexa aos autos, a qual comprova a tempestividade do recurso.
+A embargante foi intimada da decisão que negou seguimento ao Recurso Especial em 21/11/2022 (segunda-feira) passando a fluir o prazo de 15 (quinze) dias úteis em 22/11/2022 (terça-feira) e tendo como dias úteis posteriores os dias 23, 25 29 e 30/11/2002 e dias 01, 06, 07, 12,13,14,15,16 e 19/12/2022 e 21/01/2023, data de interposição do recurso de agravo de instrumento.
+- O Ato Executivo nº 134 de 09/11/2022 suspendeu os prazos nos dias 24 e 28/11/2022 e 02/12/2022;
+- O Ato Executivo nº 138 de 30/11/2022 suspendeu os prazos nos dias 05 e 09/12/2022;
+- A Lei do Estado do Rio de Janeiro nº 6956 de 13/01/2015 suspendeu os prazos nos dias 08/12/2022 e de 20/12/2022 a 06/01/2023;
+- O artigo 220 da Lei 13.105 de 16/03/2015 (Código de Processo Civil) suspendeu os prazos de 20/12/2022 a 20/01/2023.
+Portanto, tempestivo o presente recurso (fl. 892).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Observe-se que consta dos autos (fls. 853/854) que a expedição de intimação eletrônica ocorreu em 9/11/2022. Nos termos do § 3º do art. 5º da Lei n. 11.419/2006, o prazo para a efetivação da intimação eletrônica ficta é de 10 dias corridos (essa contagem não se dá em dias úteis). Contado a partir do dia 10/11/2022, o prazo expirou em 19/11/2022.
+Ainda de acordo com o § 2º do art. 5º da referida lei, como 19 de novembro não foi dia útil, considera-se que a "consulta" foi feita no próximo dia útil, ou seja, 21/11/2022. Realizada a "consulta" no dia 21/11/2022, considera-se efetivamente intimada a parte no dia 22/11/2022 (art. 231, V, do CPC). Exclui-se o dia 22/11/2022, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias úteis a partir de 23/11/2022, primeiro dia da efetiva contagem do prazo.
+Dessa forma, o prazo recursal de 15 dias úteis (art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil) terminou em 14/12/2022, mas o recurso foi interposto somente em 21/1/2023.
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, uma vez que somente é utilizado para os vícios sanáveis. Nesse sentido: (AgInt no AREsp 1522409/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 21/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Não conheço da petição de fls. 895/900 em razão da preclusão consumativa.
+Publique-se. Intimem-se.
