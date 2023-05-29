@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAILSON SIQUEIRA DA CRUZ, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 356/371, in verbis:
+1. Tratam os autos de recurso especial interposto por MAILSON SIQUEIRA DA CRUZ contra acórdãos proferidos pela 7ª Câmara Criminal do Tribunal de Justiça do Estado do Minas Gerais, nos termos das seguintes ementas (e-STJ, fl. 278 e 312-313):
+ ..
+2. Nas razões do apelo especial, o recorrente alega que o Tribunal de origem contrariou o art. 33, § 4º, da Lei nº 11.343/06 ao deixar de aplicar referida causa de diminuição de pena, em razão do registro de condenação não definitiva por idêntica atividade ilícita. Sustenta que o fundamento não tem aptidão para afastar a aplicação da benesse na fração máxima (e-STJ, fls. 328-339).
+3. O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS apresentou contrarrazões ao recurso especial (e-STJ, fl. 344-347).
+4. Remetidos os autos a esse Colendo Superior Tribunal de Justiça, vieram, então, com vista ao Ministério Público Federal.
+ ..
+Na hipótese dos autos, MAILSON SIQUEIRA DA CRUZ foi condenado pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006 à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa (fls. 227-235).
+O Tribunal de origem negou provimento ao apelo defensivo para manter a condenação imposta na sentença.
+6. Os embargos infringentes opostos pela defesa não foram acolhidos.
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da controvérsia, o Tribunal de origem consignou o seguinte (e-STJ fls. 282/284):
+In casu, conquanto seja o acusado primário e de bons antecedentes, restou comprovado nos autos o seu envolvimento com o tráfico ilícito de entorpecentes.
+Além disso, consoante se vê na CAC de f. 157/158, o acusado responde a outro processo criminal em razão do suposto cometimento do mesmo crime ora em análise, já tendo sido proferida, inclusive, sentença condenatória, ainda sem trânsito em julgado, evidenciando, assim, o envolvimento do mesmo com a criminalidade e que este se dedicava a prática do tráfico de drogas, circunstâncias que impossibilitam o reconhecimento do privilégio.
+É cediço que a criação da referida causa de diminuição de pena prevista na nova Lei de Drogas teve por escopo diferenciar o traficante "de primeira viagem" do traficante habitual ou profissional, conferindo aquele tratamento menos rigoroso, compatível com a condição de iniciante no comércio de drogas (flagrado, geralmente, na posse de pequena quantidade de droga), a fim de se corrigir eventuais injustiças praticadas sob a égide da lei anterior (Lei nº 6.368176), que não fazia qualquer distinção entre os vários "níveis" de traficância.
+(..) Assim, não vejo como aplicar, in casu, a redução legal prevista no art. 33, §4º, da Lei nº 11.343/06, haja vista que evidenciado nos autos que Mailson Siqueira da Cruz, no mínimo, se dedicava às atividades criminosas.
+De fato, esta Sexta Turma adotou o atual posicionamento do Supremo Tribunal Federal, segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Assim, é de rigor a aplicação do referido redutor em seu grau máximo de 2/3.
+Logo, a pena do recorrente deve ser reduzida para 1 ano e 8 meses de reclusão.
+À vista de tais pressupostos e acolhendo o parecer do Ministério Público Federal, dou provimento ao recurso especial, para, aplicando em 2/3 a fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, reduzir a reprimenda do recorrente para 1 ano e 8 meses de reclusão, no regime inicial aberto, e determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem estipuladas pelo Juízo da Execução Penal.
+Publique-se. Intimem-se.
