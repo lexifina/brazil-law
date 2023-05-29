@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. (SANTANDER) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. DECISÃO QUE HOMOLOGA LAUDO PERICIAL. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões do presente inconformismo, alegou (1) omissão do acórdão recorrido acerca da inobservância, na elaboração dos cálculos periciais, da regra de pagamento prevista no art. 354 do Código Civil; e (2) o descumprimento da regra de imputação do pagamento que impõe, primeiramente, o desconto dos juros vencidos, e só depois o abatimento da dívida, questão cuja discussão não estaria preclusa.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. DECISÃO QUE HOMOLOGA LAUDO PERICIAL. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC), não se prestando a novo julgamento da causa.
+2. No caso, a revisão da conclusão do acórdão recorrido, com o consequente acolhimento da tese recursal, no sentido de que não foi observada a regra de imputação do pagamento no calculo da dívida, demandaria o reexame do acervo fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. A ausência de impugnação de fundamento suficiente, por si só, para manter a conclusão do acórdão recorrido, inviabiliza o conhecimento do recurso especial, atraindo a incidência da Súmula n.º 283 do STF, por analogia.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+(1) Da violação do art. 1.022, II, do NCPC
+Nas razões do presente recurso, SANTANDER sustentou, preliminarmente, omissão do acórdão recorrido quanto à inobservância pelo cálculo pericial da regra prevista no art. 354 do Código Civil, a qual dispõe que primeiro devem ser descontados os juros vencidos, e só depois o abatimento da dívida, questão cuja discussão não estaria preclusa.
+Contudo, sem razão.
+Ao julgar o recurso de agravo de instrumento interposto pelo ora insurgente, o Tribunal de Justiça de São Paulo assim se pronunciou:
+A hipótese é de liquidação de sentença proferida em sede de ação de revisão contratual (fls. 91 e 102, primeiro parágrafo, autos do agravo).
+E, a par de terem sido constatadas inconsistências no laudo pericial, no bojo de pareceres (fls. 1375/1378 e 1414, autos do agravo) e r. decisões interlocutórias no âmbito deste recurso (fls. 1410/1412 e 1464/1466, autos do agravo), é certo que a Contadoria Judicial ficou impossibilitada de concluir os cálculos (fls. 1468, último parágrafo redigido, autos do agravo) e, assim, de atender à determinação judicial de fl. 1465 (último parágrafo), por falta de documentação cuja juntada havia sido determinada exclusivamente ao agravante, desde 2018.
+Sendo que referida prova não dependia de providência de outrem, sendo de acesso livre ao agravante (mediante simples acesso a seus próprios sistemas); e certo que a sua falta compromete majoritariamente o interesse da agravada, pois tinha por objetivo viabilizar a inclusão, nos cálculos, de valores decorrentes da revisão dos encargos relativos à período não afetado pela prescrição, e que deveria ser acrescido aos cálculos de fls. 1414/1449, pela Contadoria, conforme deliberado à fl. 1465 (itens "2" e "3").
+Evidente, portanto, que a falta de atendimento, pelo agravante, às r. decisões judiciais, compromete a conclusão dos cálculos em desfavor, principalmente, da parte agravada.
+De outro lado, salienta-se que a r.decisão agravada, a homologar o laudo pericial produzido em primeira instância, restou preclusa para a autora-agravada, que, ao que dos autos consta, não se insurgiu por meio de agravo, aliás, sequer ofertou contraminuta ao presente recurso (fl. 154), apesar da concessão de oportunidade (fl. 151, item "5" e fl. 153).
+Logo, ainda que, no bojo de decisões interlocutórias proferidas neste agravo, tenha sido reputada imperfeita a prova pericial produzida e homologada em primeiro grau, é certo que: 1) houve apenas insurgência do agravante, a quem foi atribuído o ônus de trazer extratos que permitissem à Contadoria Judicial, nesta segunda instância, aperfeiçoar referidos cálculos; e 2) o agravante, interessado que é no provimento do recurso, não se desincumbiu da produção de referidas provas, de modo a ser inviável a revisão das conclusões exaradas no laudo pericial produzido em primeira instância, e, bem assim, o exame dos argumentos desenvolvidos no agravo (e-STJ, fls. 1.498/1.500).
+Consignou-se, ainda, por ocasião do julgamento dos embargos de declaração, o que se segue:
+Consoante motivos declinados às fls. 1498/1500, não houve colaboração do embargante, interessado que era no provimento de seu recurso, em juntar aos autos extratos bancários que permitissem à Contadoria Judicial a elaboração de cálculos essenciais ao pronunciamento acerca do mérito recursal.
+Os pedidos de reforma deduzidos à fl. 14 (primeiro parágrafo e itens "1", "2" e "3") dizem respeito, efetivamente, a cálculos complexos, elaborados por perito judicial.
+Assim, a prova técnica (que, em segundo grau, seria produzida pela Contadoria Judicial, mediante apresentação dos documentos, pelo agravante) era imprescindível ao exame de todas as teses recursais inclusive ao exame do apontado equívoco na imputação de pagamento, nos cálculos constantes do laudo pericial produzido em primeiro grau (e-STJ, fl. 1.524).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do NCPC, o que busca o SANTANDER é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada ofensa à lei processual.
+(2) Da ofensa ao art. 354 do Código Civil
+Por sua vez, defendeu o SANTANDER que, na elaboração do laudo pericial contábil, não foi observada a regra de imputação do pagamento, que primeiro impõe o abatimento dos juros vencidos, e só depois a dedução do valor da dívida.
+Todavia, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que a conclusão da Corte local decorreu da análise das circunstâncias fáticas da causa, notadamente em razão da ausência de apresentação pela instituição financeira, no momento oportuno, dos extratos que pudessem viabilizar a elaboração dos cálculos periciais e permitir o exame de suas teses recursais, tendo sido destacado pelo órgão julgador que o descumprimento dessa determinação remanescia ao ano de 2018.
+Desse modo, para ultrapassar a convicção firmada pelo Tribunal bandeirante seria necessária nova incursão no acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Ademais, da forma como foram deduzidas as razões recursais, constata-se que o ora recorrente não impugnou, objetivamente, os fundamentos lançados no acórdão recorrido, atraindo a incidênci a, à hipótese, do comando da Súmula n. º 283 do STF, por analogia.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
