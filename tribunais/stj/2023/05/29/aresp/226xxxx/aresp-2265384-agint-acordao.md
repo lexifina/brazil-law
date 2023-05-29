@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 1126/1142) a apresentado contra decisão monocrática da qual se extrai:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO IMPUGNADO. ARTIGO 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante sustenta, em suma, que impugnou o óbice da decisão agravada ao discorrer acerca de possível distinguishing.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo.
+2. Agravo interno não p rovido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Extrai-se da decisão agravada não houve impugnação do óbice no sentido de estar o acórdão recorrido em consonância com a jurisprudência do STJ pressupõe a demonstração de que a jurisprudência atual desta Corte Superior não estaria no sentido do acórdão recorrido ou de que os precedentes citados não seriam aplicáveis à hipótese dos autos.
+A decisão de admissibilidade entendeu que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, de modo que incide a Súmula 83/STJ, tendo em vista o precedente colacionado no REsp 1.111.234/PR, Tema 132, o qual dispõe que "legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL". n. 406/1968 e à LC n. 56/1987" (fl. 1035).
+Nas razões do agravo em recurso especial, o agravante aduz que "recurso especial não pretende rediscutir fatos e provas, mas tão somente que o STJ profira uma melhor interpretação da lei federal sobre as premissas fáticas e jurídicas materializadas no bojo do acórdão recorrido. Evidenciado, portanto, a não incidência do óbice da Súmula 7, do STJ, ao presente caso. Com isso, consequentemente, fica superado também o óbice posto pela decisão de inadmissibilidade que entendeu inviável conhecer do dissenso jurisprudencial " (fl. 2098). Como bem observado, não impugnou de forma adequada os fundamentos da decisão que inadmitiu o recurso especial (fls. 1032/1037).
+Cumpre ressaltar que a jurisprudência deste Tribunal Superior firmou-se no sentido de que, nas hipóteses em que o recurso especial é inadmitido com base na Súmula nº 83/STJ, a impugnação deve consistir em indicar julgados contemporâneos ou supervenientes aos mencionados na decisão vergastada, procedendo ao cotejo analítico entre eles, demonstrando-se que outro é o entendimento jurisprudencial do STJ, ou então que o julgado indicado não se aplica ao caso. (grifos)
+Logo, o agravante deixou de impugnar especificamente a incidência da Súmula nº 83/STJ, fundamento da decisão de inadmissibilidade, o que impede o conhecimento do agravo em recurso especial.
+Nesse sentido os seguintes julgados deste Tribunal Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 83 DO STJ. PRECEDENTES ANTERIORES AO AGINT NO RESP N. 1.672.973/RS E AO RESP N. 764.255/RS. AGRAVO IMPROVIDO.
+1. Tendo em vista que a decisão que inadmitiu o recurso especial se fundamentou na Súmula n. 83/STJ, caberia ao agravante demonstrar a distinção em relação ao caso tratado nos autos ou indicar julgados deste Tribunal supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, a fim de demonstrar que a orientação desta Corte é diversa da adotada pelo Colegiado local ou que a matéria não se encontra pacificada.
+2. O insurgente, no entanto, limitou-se a apresentar precedentes anteriores ao AgInt no REsp n. 1.672.973/RS e ao REsp n. 764.255/RS, invocados pelo Tribunal de origem como fundamento para inadmitir o recurso especial.
+3. De todo modo, ressalta-se que o entendimento desta Corte se firmou no sentido da decisão recorrida, inclusive no caso específico do RE n. 870.947, uma vez que, sem que a decisão acobertada pela coisa julgada seja desconstituída, não é cabível ao juízo, no cumprimento de sentença, alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.889.807/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/5/2022, DJe de 31/5/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PRECLUSÃO CONSUMATIVA. SEGUNDO AGRAVO INTERNO NÃO CONHECIDO. ANÁLISE APENAS DO PRIMEIRO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+2. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 83/STJ. Assim, consignou-se a incidência da Súmula 182 do STJ.
+3. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+4. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+5. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+6. Afinal, inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.876.313/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 14/9/2021, DJe de 16/9/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Trata-se, na origem, de agravo de instrumento objetivando a reforma da decisão proferida pelo Juiz da Vara Federal de Três Rios, que refutou as impugnações apresentadas pela parte exequente, homologou os cálculos para dar a obrigação por adimplida e determinou a baixa e o arquivamento da ação dos autos que se encontram em fase de execução, tendo em vista não haver mais nada a ser executado. No Tribunal a quo, o agravo de instrumento não foi conhecido. Esta Corte não conheceu do agravo em recurso especial.
+II - Inadmitiu-se o recurso especial com base nos óbices de: Súmula n. 7/STJ e Súmula n. 83/STJ. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido. (AgInt nos EDcl no AREsp n. 1.559.243/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe de 20/5/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. PIS, COFINS, IRPJ E CSLL. GORJETAS. NATUREZA SALARIAL. NÃO INCIDÊNCIA. SUMULA 83 DO STJ. APLICAÇÃO.
+1."Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+2. Não conhecido o recurso com base na Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do decisum recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada, o que não ocorreu na espécie.
+3. As gorjetas possuem a finalidade de reforçar os salários dos empregados, tendo nítida natureza jurídica de verba salarial, independentemente de serem pagas voluntária ou compulsoriamente, nos exatos termos do artigo 457 da CLT, não podendo ser incluídas na base de cálculo dos tributos federais em discussão (PIS, COFINS, IRPJ e CSLL).
+4. Hipótese em que o estabelecimento empregador atua como mero arrecadador, não podendo o valor pago a título de gorjetas integrar o faturamento ou o lucro para o fim de apuração dos tributos federais discutidos nos autos, pois a referida verba não constitui receita própria dos empregadores, apta a sofrer incidência de tributos de responsabilidade da empresa.
+5. Agravo interno não conhecido. (AgInt no AREsp n. 972.774/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/11/2019, DJe de 4/12/2019).
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
