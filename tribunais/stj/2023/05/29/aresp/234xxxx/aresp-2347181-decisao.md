@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FORTALEZA FOMENTO MERCANTIL LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/2/2023.
+Concluso ao gabinete em: 22/5/2023.
+Ação: embargos à execução ajuizada por ÊNIO BARROSO FERREIRA e ANTÔNIO HUMBERTO SANTOS NORTE, em face da agravante.
+Sentença: julgou procedente o pedido formulado pelos agravados.
+Acórdão: negou provimento à apelação de FORTALEZA FOMENTO MERCANTIL LTDA., nos termos da seguinte ementa (e-STJ fls. 1.197/1.198):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. PRELIMINAR REJEITADA. TÍTULO EXECUTIVO EXTRAJUDICIAL. NOTA PROMISSÓRIA. NÃO CIRCULAÇÃO. DISCUSSÃO DA CAUSA DEBENDI. POSSIBILIDADE. VINCULAÇÃO À CONTRATO DE FOMENTO MERCANTIL. PERDA DA AUTONOMIA. INEXIGIBILIDADE DO TÍTULO. EXTINÇÃO DA EXECUÇÃO. IMPOSIÇÃO. EMBARGOS ACOLHIDOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ARBITRAMENTO. ART. 85, § 2º, DO CPC. REGRA GERAL. APRECIAÇÃO EQUITATIVA. SUBSIDIARIEDADE. INAPLICABILIDADE AO CASO. (TEMA 1076, STJ). REDUÇÃO. NÃO CABIMENTO. FIXAÇÃO NO MÍNIMO LEGAL. LITIGÂNCIA DE MÁ-FÉ. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO CONFIGURAÇÃO. SENTENÇA MANTIDA.
+1. Se o magistrado, ainda que de forma sucinta, expõe as razões de decidir de forma suficientemente fundamentada, em atenção ao disposto no ordenamento jurídico pátrio (artigos 93, inciso IX, da Constituição Federal e 11 do Código de Processo Civil), não há que se falar em nulidade da decisão. Outrossim, o julgado não pode ser considerado omisso e/ou contraditório apenas porque divergiu do entendimento da parte, sobretudo porque o d. sentenciante não é obrigado a se manifestar sobre todo e qualquer argumento aventado pelas partes, mas tão somente aqueles que possam influir no julgado. Preliminar de nulidade da sentença rejeitada.
+2. Embora a nota promissória seja um título de crédito extrajudicial dotado de autonomia e abstração, pelo qual o emitente se compromete diretamente com o beneficiário a pagar-lhe certa quantia em dinheiro, a doutrina e a jurisprudência têm admitido a mitigação dos princípios da autonomia e da abstração, permitindo a discussão acerca da origem da obrigação (causa debendi), quando estiver comprovado que a nota promissória encontra-se vinculada a um contrato.
+3. Consoante entendimento jurisprudencial do colendo Superior Tribunal de Justiça "a emissão de notas promissórias como instrumento de garantia pro solvendo em contrato de factoring torna esses títulos inexigíveis em face do devedor principal e do avalista, pois objetiva desvirtuar a natureza do contrato de faturização, no qual o faturizador deve assumir os riscos pela inadimplência dos títulos contratados".
+4. In casu, considerando que a nota promissória que aparelha a execução a que se referem os presentes embargos restou emitida para garantia de operações de fomento mercantil, a extinção da execução é medida impositiva, porquanto carecedora de autonomia para ser executada como título de crédito.
+5. Na forma do artigo 85, § 2º, do Código de Processo Civil, os honorários advocatícios devem ser fixados com base nos critérios balizadores de seus incisos, entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento), não havendo possibilidade de redução se fixados no mínimo legal.
+6. A exceção prevista no § 8º (arbitramento por equidade) do mesmo dispositivo é aplicada somente de forma subsidiária, ou seja, quando não for possível a aplicação da regra geral presente no § 2º ou quando o proveito econômico obtido for inestimável ou irrisório ou o valor da causa for muito baixo. A propósito, o colendo Superior Tribunal de Justiça fixou tese no sentido de que a fixação de honorários advocatícios por apreciação equitativa não é permitida quando os valores da condenação, da causa ou do proveito econômico da demanda forem elevados (Tema 1076).
+7. Para a incidência das sanções por litigância de má-fé, é necessária a prova inconteste de que a parte praticou quaisquer das condutas descritas no artigo 80 do Código de Processo Civil, bem como elementos atinentes à existência de ato doloso e de prejuízo, o que não se observa na hipótese em exame. De igual modo, verifica-se que a recorrente não praticou qualquer das condutas previstas nos incisos IV e VI do artigo 77 do Código de Processo Civil, tidas por atentatórias à dignidade da justiça, motivo pelo qual se revela descabida sua condenação ao pagamento de multa.
+8. Apelação cível conhecida, preliminar rejeitada e, no mérito, não provida.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega, além do dissídio jurisprudencial, violação aos artigos 85, § 8º, 355, I, 357, V, 373, 489, § 1º, III, IV e VI, e § 2º, e 1.022, II, do CPC/2015; 107 e 112 do CC/2002.
+Além de negativa de prestação jurisdicional, aduz ter havido omissões e ausência de fundamentação na decisão recorrida, relativamente a questões relevantes para o deslinde da causa.
+Argumenta que houve cerceamento de defesa ante a negativa de oitiva de testemunhas.
+Afirma que foi desconsiderada toda a existência de títulos e comprovantes de pagamento do valor que foi juntado aos autos, além de não estarem preenchidos os elementos pessoais da relação de fomento mercantil prevista na legislação.
+Sustenta, ainda, que os honorários advocatícios foram fixados de forma excessiva, porquanto o feito teve curta duração, e o valor mostra-se desproporcional ao trabalho realizado pelo advogado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação ao artigo 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao artigo 489 do CPC/2015.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao artigo 489 do CPC/2015, quando o Tribunal de origem examina " ..  de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte  .. " (AgInt no REsp n. 1.956.582/RJ, Terceira Turma, DJe 9/12/2021). No mesmo sentido: REsp n. 1.996.298/TO, Terceira Turma, DJe 1º/9/2022; e AgInt no AREsp n. 1.954.373/RJ, Quarta Turma, DJe 7/10/2022.
+- Da violação ao artigo 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao artigo 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no REsp n. 1.726.592/MT, Terceira Turma, DJe 31/8/2020; e AgInt no AREsp n. 1.518.178/MG, Quarta Turma, DJe 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que a nota promissória que aparelha o processo de execução encontra-se vinculada a contrato de fomento mercantil, inexistindo nos autos o mínimo indício de prova de que a mesma tenha origem em mútuo verbal, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação ao artigo 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos artigos 107 e 112 do CC/2002, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula n. 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à nulidade da sentença por cerceamento de defesa e à correção da fixação dos honorários advocatícios em 10% (dez por cento) sobre o valor da causa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmu la n. 7/STJ.
+- Da divergência jurisprudencial
+A falta da similitude fática, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Além disso, a incidência da Súmula n. 7 desta Corte acerca do tema que se supõe divergente quanto à fixação dos honorários advocatícios de forma equitativa, em valor fixo, impede o conhecimento da insurgência veiculada pela alínea "c" do artigo 105, III, da Constituição Federal. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe 13/3/2017 e AgInt no AREsp n. 1.215.736/SP, Quarta Turma, DJe 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da causa (e-STJ fls. 1.196/1.231) para 15% (quinze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AO ARTIGO 489 DO CPC/2015. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Embargos à execução.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao artigo 489 do CPC/2015.
+3. Ausentes os vícios do artigo 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
