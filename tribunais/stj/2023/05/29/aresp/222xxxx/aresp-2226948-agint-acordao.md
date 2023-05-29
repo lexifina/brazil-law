@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO - Relator:
+Trata-se de agravo interno interposto por RUDINEI JOSÉ DA VEIGA em face da decisão proferida pela Presidência desta Corte (e-STJ, fls. 792-794), que não conheceu do agravo em recurso especial por ofensa ao princípio da dialeticidade, pois a parte agravante não teria impugnado a Súmula 83/STJ.
+A parte agravante, em suas razões recursais (e-STJ, fls. 797-803), sustenta, em síntese, ter impugnado a decisão de admissibilidade.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 807-810.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PRESCRIÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. Aplica-se a Súmula 282/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. O Tribunal a quo entendeu não ser possível conhecer do cerceamento em razão de o magistrado de primeiro grau não ter avaliado o mérito. Tal fundamento não foi impugnado, e a ausência de impugnação de fundamentos suficientes do acórdão recorrido enseja a aplicação da Súmula 283/STF.
+4. Ao analisar a ocorrência da prescrição, o Tribunal de origem consignou que "constata-se que inclusão negativa ocorreu em 10 de fevereiro de 2010 e o ajuizamento da ação ocorreu em 05 de agosto de 2014, portando, além do prazo prescricional". Percebe-se que a Corte de origem solucionou toda a controvérsia à luz das provas presentes nos autos. Incidência da Súmula 7/STJ.
+5. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO - Relator:
+Afiguram-se relevantes as alegações quanto à impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial, razão pela qual reconsidero a decisão de fls. 792-794.
+Passa-se ao exame do mérito recursal.
+Trata-se de recurso especial interposto por RUDINEI JOSÉ DA VEIGA, com fundamento no art. 105, III, "a", da Constituição Federal, em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (e-STJ, fl. 582):
+"RECURSO DE APELAÇÃO CÍVEL - DEMANDAS PRETADÓRIAS - CONSTATAÇÃO - SENTENÇA ESCORREITA - AUSÊNCIA DE NEGATIVA DA PRESTAÇÃO JURISDICIONAL - ATO ILÍCITO COMETIDO - EXCESSO DO EXERCÍCIO REGULAR DE UM DIREITO - APLICAÇÃO DO ART. 187 DO CC - LITIGÂNCIA DE MÁ FÉ CONSTATADA.
+RECURSO CONHECIDO E DESPROVIDO.
+(1)- A chamada demanda predatória consiste no ajuizamento de ações em massa, quase sempre com petições padronizadas onde a parte, tendo vários empréstimos na instituição financeira, ao invés de englobá-las num só pedido, picota-as para cada contrato em ação distinta, buscando com isso, múltiplas indenizações por danos materiais e/ou morais e, de igual sorte, patrocinar ao advogado sucumbências diversas quando, em verdade, a questão poderia e deveria ser tratada ao nível de uma única demanda.
+(2)- Dispositivos violados; i) boa-fé objetiva (art. 5º do CPC/2015 e art. 422 do Código Civil); (ii) a vedação ao abuso do direito de demandar (art. 5º, XXXV da Constituição Federal e art. 187 do Código Civil); (iii) o dever de cooperação entre as partes (art. 6º do CPC/2015); (iv) o poder-dever do Juiz de prevenir ou reprimir qualquer ato contrário à dignidade da justiça e indeferir postulações meramente protelatórias (art. 139, III do CPC/2015); (vi) os deveres das partes e procuradores (art. 77, II do CPC/2015); (vii) a prevenção da litigância de má- fé (art. 80, V do CPC/2015).
+(3)- Questões desta natureza quebram a boa fé que deve presidir em todo o processo, a rigor do especificado pelo art. 6º do Código de Processo Civil. Neste contexto, existindo tal anomalia processual, o indeferimento de petição inicial por parte do magistrado de piso não constitui negação ao direito constitucional de petição/ação e sim a extinção da lide em face de exercício regular de um direito além do prescrito na lei e, ato igualmente caracterizado como ilícito, nos termos do artigo 187 do CC.
+(4)- Constatada situação desta natureza, para por cobro a dignidade do Poder Judiciário, dentro da atribuição do magistrado consolidado pelo art. 139, inciso III, do Código de Processo Civil, não se vê ilegalidade no indeferimento da inicial e aplicação da regra de sucumbência, evitando o desgaste do Poder Judiciário com situação irresponsável e inconseqüente criado pela parte." (sic).
+Em suas razões recursais (e-STJ, fls. 627-653), a parte recorrente apontou violação dos arts. 10, 17, 55, caput, § 1º, 58, 113, 354, 464, caput, § 1º, I, II, III, 465, 485, caput, I, II, III, IV, V, VI, VII, VIII, IX, X, 487, caput, I, II, III, e 927, caput, IV, do Código de Processo Civil de 2015; e 189 do Código Civil de 2002.
+Sustentou, em síntese: que não se pode manifestar sobre o entendimento do órgão julgador de que a demanda seria em verdade uma "demanda predatória"; o acórdão errou ao estabelecer que o autor deveria ter movido uma única ação contra todos os supostos credores; houve cerceamento de defesa por negativa de produção de prova técnica consistente em perícia grafotécnica, que entende ser essencial no caso dos autos; o acórdão violou lei federal por extinguir o processo com base no fundamento de que tratava-se de "demanda predatória", e essa modalidade não está prevista em lei; por entender que a demanda é também declaratória e, por isso, imprescritível; a prescrição começa a correr do momento em que o consumidor toma conhecimento da negativação do seu nome.
+Contrarrazões às fls. 694-730 e 731-738
+A decisão de admissibilidade (e-STJ, fls. 743-753) negou seguimento ao recurso especial com base nos seguintes fundamentos: incidência das Súmulas 282 e 356 do STF; Súmula 7/STJ; Súmulas 283 e 284 do STF; Súmula 83 do STJ.
+Decido.
+De início, verifica-se que, em relação à alegada ofensa aos arts. 10, 17, 55, caput e § 1º, 58, 113, 354, 485, I, II, III, IV, V, VI, VII, VIII, IX, X, e 487, I, II, III, "a", "b" e "c", o Tribunal de origem não emitiu juízo de valor, tampouco foram opostos embargos de declaração. Desta feita, impossibilitado o julgamento da matéria em razão da ausência do necessário prequestionamento, a teor do disposto na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DECISÃO SURPRESA. NÃO OCORRÊNCIA. INAPLICABILIDADE DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DESISTÊNCIA DO CONTRATO PELO PROMITENTE-COMPRADOR. RESTITUIÇÃO DE PARCELAS PAGAS. RETENÇÃO. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Segundo o entendimento jurisprudencial desta Corte, "não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação" (REsp n. 1.755.266/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2018, DJe 20/11/2018).
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Estando o acórdão recorrido em consonância com a jurisprudência do eg. STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno improvido."
+(AgInt no AREsp n. 2.066.649/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. ATRASO DE VOO. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+3. Não se considera preenchido o requisito do prequestionamento (prequestionamento implícito) quando o tribunal de origem não debate efetivamente acerca da matéria inserta no dispositivo de lei federal, ainda que não mencionado explicitamente seu número.
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6 . Agravo interno desprovido."
+(AgInt no AREsp n. 2.105.375/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023 - sem grifo no original).
+Em relação ao argumento de ter havido decisão-surpresa, destaca-se que o juízo acerca da existência de "demanda predatória" em virtude do ajuizamento de ações em massa foi realizado após a análise dos fundamentos trazidos pelo recorrente em seu próprio recurso de apelação (e-STJ, fl. 515), o que não configura a decisão-surpresa.
+No que diz respeito à tese de cerceamento do direito de defesa, o Tribunal a quo proferiu o seguinte entendimento (e-STJ, fl. 584):
+"De rigor se apresenta não conhecer do recurso na parte que alega cerceamento de defesa. Isto porque, esta situação somente poderia ser vista se o magistrado de primeiro grau ingressasse em relação ao mérito material. No caso, tratando-se de extinção do processo pela prescrição, aqui reside o limite recursal, a rigor do estabelecido pelo artigo 1.013 do Código de Processo Civil."
+Verifica-se que o fundamento da decisão de não ser possível conhecer do cerceamento em razão de o processo ter sido extinto sem análise do mérito material, ante a ocorrência de prescrição, não foi impugnado pela parte recorrente. Tal fundamento é apto, por si só, para manter o julgamento; assim, por analogia, incide o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Corroboram esse entendimento:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE INDENIZATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO LOCAL. SÚMULA N. 283/STF. DANO MORAL. REDUÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A ausência de impugnação a fundamentos suficientes do acórdão recorrido enseja a aplicação da Súmula n. 283 do STF.
+3. Agravo regimental a que se nega provimento."
+(AgInt no REsp n. 1.992.444/AC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE ENTREGAR COISA CERTA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. APLICAÇÃO DAS PENAS DE PRESUNÇÃO DE VERACIDADE E DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF. 3. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DO PERCENTUAL ARBITRADO NA AÇÃO PRINCIPAL. POSSIBILIDADE. OBSERVÂNCIA DO TETO MÁXIMO PREVISTO NO ART. 85, § 11, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria referente a aplicação das penas de presunção de veracidade dos fatos alegados e de ato atentatório à dignidade da justiça não foi objeto de debate prévio nas instâncias de origem.
+Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 211 do STJ.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+3. Ainda que somados os arbitramentos da sentença (10% do valor atualizado da causa), o aumento para 12% no acórdão estadual e o acréscimo de 5% na decisão deste Relator, verifica-se que foi observado o limite máximo previsto no art. 85, § 11, do CPC.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.853.018/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - sem grifo no original).
+Por fim, ao analisar a ocorrência da prescrição, o Tribunal de origem consignou que "constata-se que inclusão negativa ocorreu em 10 de fevereiro de 2010 e o ajuizamento da ação ocorreu em 05 de agosto de 2014, portando, além do prazo prescricional". Confira-se (e-STJ, fl. 585):
+"Inicialmente, insta esclarecer que a parte apelante não nega sua relação com o banco apelante, nega tão somente que tenha requerido ou assinado o cheque ora combatido.
+Desta forma, constata-se que devolução do cheque por insuficiência de fundos ocorreu em 27 de novembro de 2009, e o ajuizamento da ação ocorreu em 05 de agosto de 2014, portando, além do prazo prescricional.
+E, mesmo se assim não fosse, o Poder Judiciário não pode contemporizar com situações como a vividas nos autos."
+Com base nisso, percebe-se que a Corte de origem solucionou toda a controvérsia à luz das provas presentes nos autos, uma vez que a relação jurídica entre as partes não foi negada, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. NÃO OCORRÊNCIA. TERMO INICIAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DO ÓBICE DA SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, "o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa conhecer do fato e a extensão de suas consequências, conforme o princípio da actio nata" (AgInt nos EDcl no REsp 1.811.735/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe de 07/10/2019).
+2. Na hipótese, a modificação do entendimento firmado pelas instâncias locais, mormente para estabelecer outro termo inicial para contagem do prazo prescricional, demandaria o reexame do conjunto fático-probatório.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 1.735.941/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 7/4/2022 - sem grifo no original).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Esta Corte Superior possui jurisprudência no sentido de que o termo inicial da prescrição não é o momento da lesão, tampouco o da extinção do contrato, mas sim aquele no qual o titular do direito violado obtém plena ciência dela. Incidência da Súmula 83/STJ.
+1.1. A reforma do acórdão estadual acerca de qual seria termo inicial da prescrição enseja o reexame das premissas fático-probatórias estabelecidas pelo Tribunal de origem, bem como o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 1.054.139/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021 - sem grifo no original).
+Com base no exposto, dou provimento ao agravo interno para conhecer do agravo e não conhecer do recurso especial.
+É como voto.
