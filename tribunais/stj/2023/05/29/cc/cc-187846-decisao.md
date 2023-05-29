@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência, sem pedido liminar, suscitado pelo d. Juízo Direito da 1ª Vara Cível de Araraquara/SP em face do d. Juízo Federal da 20ª Vara do Juizado Especial Federal de Araraquara - SJ/SP.
+O conflito foi estabelecido nos autos de ação de indenização por danos materiais em decorrência de vícios construtivos em imóvel movida em face de Sul América Companhia Nacional de Seguros, na qual foi requerida a intervenção da Caixa Econômica Federal-CEF.
+O d. Juízo Federal, perante quem a ação foi inicialmente proposta, constatando que a correlata apólice de seguros é da ramo privado, firmada anteriormente a 02/12/1998, exclui a Caixa Econômica Federal - CEF da lide, declinando de sua competência para Justiça Estadual.
+Por sua vez, o d. Juízo distrital suscitou o presente conflito de competência sustentando que: deve ter aplicação ao caso o entendimento contido na tese vinculante definida pelo eg. Supremo Tribunal Federal (tema 1.011), segundo o qual: "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o §4º do art. 1º-A da Lei 12.409/2011" (na fl. 8).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+Ademais, a questão, corriqueira nesta Corte, é de singela resolução.
+Com efeito, o eg. Supremo Tribunal Federal definiu, sob o regime da repercussão geral, no tema 1.011 que "é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS", todavia, no presente caso, a apólice foi firmada anteriormente a 2/12/1998, quando o FCVS, cuja defesa, atualmente, pertence à Caixa Econômica Federal - CEF, ainda não era garantidor do seguro habitacional.
+logo, como não há defesa do FCVS pela Caixa Econômica Federal - CEF, conforme consigna o Juízo Federal, corroborando informação do próprio ente federal (na fl. 696).
+Ademais, o próprio Juízo suscitante não manifesta convicção em sentido contrário.
+Em vista do exposto, conheço do conflito e declaro a competência do Juízo Direito da 1ª Vara Cível de Araraquara/SP.
+Publique-se.
