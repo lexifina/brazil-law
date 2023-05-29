@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 748-752):
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. ÍNDICES DE CORREÇÃO MONETÁRIA. DIFERIMENTO. PARCELA INCONTROVERSA. SALDO REMANESCENTE. TEMAS 810/STF E 905/STJ.
+Na hipótese de título executivo que, em virtude da pendência de julgamento de recurso com repercussão geral, diferiu para a fase de cumprimento de sentença a definição dos índices de correção monetária, não gera a extinção da execução o pagamento da parcela incontroversa. Uma vez julgados os processos paradigmas, a execução deve ser retomada para a apuração e satisfação de eventual saldo remanescente, nos termos definidos pelo STF (Tema 810) e pelo STJ (Tema 905).
+Os embargos de declaração foram rejeitados.
+No recurso especial (fls. 792-799), fundamentado na alínea "a" do permissivo constitucional, a autarquia sustenta, inicialmente, violação ao artigo 1.022 do CPC/2015. Alega que mesmo ante a oposição de embargos de declaração, não teria sido apreciada a legislação aplicável na espécie, quais sejam, os artigos 316, 502, 503, 505, 924, II e 925, do CPC/15.
+Aduz, ainda, violação aos artigos 316, 502, 503, 505, 924, II e 925, do CPC/15.
+Argumenta que nos termos do Tema 289 deste STJ e pela intepretação que dá aos dispositivos tidos por violados, não é possível a reabertura da execução, após extinção do feito por sentença transitada em julgado, para cobrar de supostos créditos complementares.
+Contrarrazões ao recurso especial às fls. 807-809.
+Decisão de admissibilidade às fls. 813-814.
+É o relatório. Decido.
+Depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, resolveu de forma integral a controvérsia posta, nos seguintes termos:
+Às fls. 750-751:
+Tendo em vista a pendência de julgamento com repercussão geral, o acórdão diferiu para a fase de cumprimento de sentença a definição dos índices de correção monetária. Na intenção de agilizar o pagamento da parcela incontroversa, determinou-se a realização do cumprimento de sentença em duas etapas, aplicando-se a TR num primeiro momento. Uma vez definidos os índices no julgamento paradigma, sendo o caso, o saldo remanescente deveria ser requisitado.
+Neste momento, o julgamento dos temas já se encerrou, com a declaração parcial de inconstitucionalidade da Lei 11.960/2009 quanto à incidência de TR na correção do débito judicial. Em substituição, deve ser aplicado o INPC.
+Cumpre observar que por ocasião da prolação da sentença de extinção do evento 133 dos presentes autos, a questão ainda se encontrava pendente de análise pelo STF, de modo que a condição para requerer o saldo remanescente não se verificava. Logo, a ausência de impugnação específica pela exequente no apelo interposto não gera preclusão. Ademais, não obstante a referida ausência de impugnação, o fato é que a apelação foi provida, com determinação de prosseguimento da execução. O pleito de execução de saldo remanescente que ora se analisa foi formulado antes do encerramento do trâmite. Não há, portanto, qualquer óbice à execução do saldo remanescente nos termos delineados no título acobertado pela coisa julgada. Impõe-se a reforma da sentença de extinção.
+E às fls. 784
+Deve-se observar no entanto que a tese do Tema 289 se refere apedido de reabertura da execução calcado em alegação de erro nos cálculos apresentados pela própria exequente. É o que se extrai das anotações referentes ao Tema: "Configura-se a renúncia tácita, presumindo-se quitada a dívida, se o exequente, intimado a manifestar-se sobre a satisfação do direito pelo devedor, queda-se inerte, descabendo a reabertura superveniente da execução sob a alegação de erro de cálculo do próprio exequente.
+(..)
+O caso dos autos possui peculiaridades que o diferem da hipótese acima. O título judicial exequendo expressamente diferiu a definição dos índices de correção monetária para a fase de cumprimento de sentença, para que se observasse o que viesse a ser definido no tema 810 pelo Supremo Tribunal Federal
+(..)
+No momento em que a exequente manifestou concordância com estes cálculos, contudo, o julgamento do STF ainda não havia sido finalizado. Logo, não havia ainda quaisquer valores remanescentes a serem requisitados. Como visto, o título judicial prevê a observância do que viesse a ser decidido no paradigma para quando da liquidação e atualização.
+Nestas condições, a ausência de manifestação não pode ser entendida como renúncia e gerar preclusão. Com efeito, o cenário em nada se confunde com o que foi analisado pelo STJ no Tema 289. Lá, quando manifestou concordância com o valor da liquidação, a exequente já dispunha dos elementos necessários para impugná-la. É possível então caracterizar a renúncia ao excedente e considerar a questão preclusa, obstando requerimento futuros. Aqui, todavia, a possibilidade de requerimento estava justamente condicionada à definição da tese pelo STF.
+Com o julgamento favorável ao exequente, deve-se admitir a reabertura da execução para a averiguação sobre a existência de saldo remanescente, como, ademais, estava previsto no título executivo.
+Deve-se observar ainda que não houve no caso propriamente prévia decisão de extinção da execução preclusa, pois, como já observado no acórdão embargado, a sentença de extinção do evento 133 foi reformada para se determinar o prosseguimento do trâmite. O saldo remanescente em questão está sendo requisitado antes do trânsito em julgado do cumprimento de sentença. Assim, sequer se observa na prática o óbice levantado pelo embargante para a execução do saldo remanescente.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+Não configurada, portanto, a alegada violação ao artigo 1022 do CPC/2015.
+E quanto à questão de fundo, o que se observa é que o recorrente não impugna a fundamentação do acórdão recorrido no sentido de que o título exequendo diferira a deliberação sobre os índices de correção monetária e de juros de mora para a fase de cumprimento de sentença, a fim de que fossem aplicadas as teses firmadas pelo Supremo Tribunal Federal no Tema 810 e pelo Superior Tribunal de Justiça no Tema 905.
+Na verdade, não há impugnação nem mesmo sobre a alegação contida no acórdão a quo de que não houve trânsito em julgado, conforme se alega.
+Estando as razões recursais totalmente dissociadas das conclusões do Tribunal de origem, não há como afastar, incidem, espécie, os óbices das Súmulas 283/STF e 284/STF, que dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. INDENIZAÇÃO POR DANOS MORAIS. IMPROCEDÊNCIA DA DEMANDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS Nºs 283 E 284/STF.
+(..)
+3. Não pode ser conhecido o recurso especial que não traz impugnação específica dos fundamentos suficientes do acórdão recorrido, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia.
+4. A exposição de razões dissociadas do que foi disposto na decisão agravada revela deficiência na fundamentação do recurso e impede a exata compreensão da controvérsia a ser dirimida. Incidência, por analogia, da Súmula nº 284/STF.
+5. Agravo interno não provido. (AgInt no AREsp 1467295/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 17/10/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. INAPLICABILIDADE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL.
+(..)
+3. A ausência de impugnação, nas razões do especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283/STF.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula 284/STF.
+5. Agravo interno a que se nega provimento. (AgInt no REsp 1813226/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 06/09/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, e na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se. Publique-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DAS CONCLUSÕES DO ACÓRDÃO RECORRRIDO. SÚMULAS 284/STF E 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
