@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SILVANO FERNANDES E OUTRA contra decisão de lavra desta relatoria, acostada às fls. 681-684, que conheceu do agravo para dar provimento ao recurso especial, interposto pelo embargado, a fim de reconhecer a validade das notas promissórias em questão, com o abatimento do valor dos juros abusivos, devendo ser apurado o montante devido pelos ora embargantes em liquidação de sentença.
+Nas razões dos aclaratórios, a parte embargante aponta omissão no julgado, sustentando, em síntese: a) cerceamento de defesa, visto que "a estes peticionários não foram dada a oportunidade de sustentar oralmente" no julgamento do agravo em recurso especial; b) " a vedação legal de apreciar a matéria posta pelo Embargado, vez que já decidida e operada a preclusão nos autos 1075471-06.2017.8.26.0100, devidamente transitado em julgado em 14/12/2018 (fls. 609)"; e, c) o óbice do enunciado 7/STJ impede a análise da matéria objeto do apelo especial.
+Intimada, a parte embargada apresentou impugnação às fls. 749-761.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar, pois não há vício que autorize a oposição dos presentes embargos de declaração.
+Com efeito, os vícios que autorizam o recurso integrativo dizem respeito a erro material e questão posta nos autos relevante ao deslinde da controvérsia que deixou de ser analisada ou foi examinada de forma obscura ou contraditória.
+Entretanto, tais circunstâncias não ocorreram na espécie, pois é entendimento desta Corte Superior que inexiste cerceamento de defesa em razão da não oportunização de sustentação oral nos julgamentos realizados de forma singular pelo relator.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. SUSTENTAÇÃO ORAL. JULGAMENTO SINGULAR. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE VIOLAÇÃO. CUMPRIMENTO DE SENTENÇA. MULTA COMINATÓRIA. REVISÃO. VALOR. RAZOABILIDADE. ALEGADA SIMULAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Não há que se falar em cerceamento de defesa em razão da não oportunização de sustentação oral nos julgamentos realizados de forma singular pelo relator. Ausência de previsão legal para tanto. Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em sede de agravo interno.
+3. O valor da multa cominatória não é definitivo, pois poderá ser revisto em qualquer fase processual, inclusive em cumprimento de sentença, caso se revele excessivo ou insuficiente (art. 537, § 1º, do Código de Processo Civil).
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.669/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021)
+Outrossim, esta Corte Superior perfilha sólido entendimento no sentido de que devem ser declaradas nulas, tão somente, as estipulações usurárias, conservando-se o negócio jurídico estipulado pelas partes, mediante redução dos juros aos limites legais.
+De acordo com o excerto do voto expressado pelo em. Ministro PAULO DE TARSO SANSEVERINO, no julgamento do Recurso Especial 1.396.951/PR, "a jurisprudência desta Corte firmou-se no sentido de que a pactuação de juros onzerários não invalida a nota promissória, permitindo-se o prosseguimento da execução, uma vez abatido o excesso de juros".
+Destarte, imperiosa a reforma do aresto recorrido a fim de se reconhecer a nulidade dos títulos de créditos em comento, exclusivamente, na importância que exceda os juros legais (1% - um por cento - ao mês) incidentes sobre o valor do mútuo que lhe deu origem.
+Como se vê, está nítido o propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão deduzida nos aclaratórios.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC. 3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2016, DJe de 09/08/2016)
+Por oportuno, ressalto que a decisão embargada não padece de obscuridade, contradição, omissão ou erro material, tendo apreciado, fundamentadamente, a matéria controvertida que lhe fora submetida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
