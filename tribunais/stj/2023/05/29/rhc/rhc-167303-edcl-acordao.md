@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SULIVAN MARQUES LEÃO BARRETO contra acórdão, da minha relatoria, que não conheceu do agravo regimental, nos termos da seguinte ementa:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. RECURSO INTEMPESTIVO. PRAZO DE 5 DIAS. NÃO OBSERVÂNCIA. ART. 258 DO RISTJ E 798 DO CPP. 2. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP. Dessa forma, sendo a decisão disponibilizada no Diário de Justiça Eletrônico/STJ em 29/3/2023 e considerando-se publicado em 30/3/2023, tem-se que o prazo recursal se iniciou no dia 31/3/2023 e findou-se em 4/4/2023. Contudo, o presente agravo foi interposto apenas em 5/4/2023, sendo, portanto, manifestamente intempestivo.
+2. Agravo regimental não conhecido.
+O embargante aduz, em síntese, que não foi formalmente intimado da decisão agravada, uma vez que consta da decisão apenas "publique-se". Dessa forma, considera que o início do prazo recursal deveria se dar com a sua ciência, motivo pelo qual considera tempestivo o recurso.
+Pugna, assim, pelo acolhimento dos aclaratórios com a consequente reconsideração da decisão que julgou intempestivo o agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. AGRAVO REGIMENTAL INTEMPESTIVO. ALEGADA AUSÊNCIA DE INTIMAÇÃO FORMAL. ADVOGADOS CONSTITUÍDOS. PUBLICAÇÃO NO DJE. EFETIVA INTIMAÇÃO FORMAL. AUSÊNCIA DE VÍCIOS. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O embargante se limita a afirmar que não foi formalmente intimado, motivo pelo qual deveria ser considerada como data da intimação a sua efetiva ciência. Contudo, diversamente da argumentação defensiva, tem-se que a intimação do advogado constituído se dá pela publicação, motivo pelo qual se revela redundante determinar a publicação e a intimação.
+- De fato, "tratando-se de advogados constituídos, mostra-se suficiente à intimação da publicação do julgado no Diário de Justiça Eletrônico". (RCD na PET no REsp n. 1.920.445/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+2. Embargos de declaração rejeitados.
+VOTO
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+Na hipótese dos autos, o embargante se limita a afirmar que não foi formalmente intimado, motivo pelo qual deveria ser considerada como data da intimação a sua efetiva ciência. Contudo, diversamente da argumentação defensiva, tem-se que a intimação do advogado constituído se dá pela publicação, motivo pelo qual se revela redundante determinar a publicação e a intimação.
+A propósito:
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ESPECIAL. PLEITO DE ANULAÇÃO DO TRÂNSITO EM JULGADO PARA A DEFESA. IMPOSSIBILIDADE. DECISÃO PUBLICADA NO DIÁRIO DE JUSTIÇA ELETRÔNICO. ADVOGADOS CONSTITUÍDOS. INTIMAÇÃO. SUFICIÊNCIA DA PUBLICAÇÃO. PRECEDENTES. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E DESPROVIDO. 1. O pleito de anulação da certidão de trânsito em julgado para a defesa, vale destacar, com documento juntado que comprova ter havido a publicação da decisão que se deseja impugnar no Diário de Justiça Eletrônico, e, tratando-se de advogados constituídos, mostra-se suficiente à intimação da publicação do julgado no Diário de Justiça Eletrônico. Precedentes. 2. Pedido de reconsideração recebido agravo regimental e desprovido. (RCD na PET no REsp n. 1.920.445/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+Dessa forma, não se verifica nenhum vício no acórdão embargado.
+Pelo exposto, rejeito os embargos de declaração.
+É como voto.
