@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por AMBEV S.A em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CAUTELAR Exibição de documentos iniciada para respaldar ajuizamento de ação de rescisão de contrato de compra e venda de bagaço da levedura da cerveja Exordial que aponta para a existência de política de bonificação com as duas únicas empresas que realizam o beneficiamento deste produto Alegação da Ambientec de que AMBEV ofereceu condições mais vantajosas para a Rotita Pretensão à exibição de notas fiscais e duplicatas emitidas pela AMBEV contra a Rotita Legitimidade Inexistência das escusas do art. 404 do CPC no caso concreto Cessão da privacidade empresarial ao princípio da concorrência saudável (CRFB, em especial do art. 170, IV) Exibição de documentos procedente Apelação desprovida DISPOSITIVO: negam provimento." (e-STJ, fl. 672)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 681/684)
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 1.190, do CC. Sustenta, em síntese, que "está sendo sacrificado o princípio da sigilosidade (artigo 1.190, do Código Civil) empresarial para a realização de prova de fato que já foi admitido pelo v. acórdão como existente, qual seja, a aplicação da política de bonificação à RECORRIDA e à empresa Rotita." (e-STJ, fl. 689)
+É o relatório. Decido.
+O recurso não merece prosperar.
+Verifica-se que o conteúdo normativo do art. 1.190 do CC, não foi examinado pelo eg. Tribunal de origem, apesar da oposição de embargos de declaração na eg. Instância a quo.
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Com efeito, é de rigor a oposição de embargos de declaração e, se mesmo após o respectivo julgamento, o eg. Tribunal a quo permanecer omisso quanto às matérias que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 1.022 do CPC/2015, o que não ocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto, esbarra no óbice da Súmula 211/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
