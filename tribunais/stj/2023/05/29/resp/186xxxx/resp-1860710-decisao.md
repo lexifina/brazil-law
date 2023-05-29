@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 459/460):
+ADQUIRENTE DE IMÓVEL HIPOTECADO PELA CONSTRUTORA EMFAVOR DO AGENTE FINANCEIRO. SÚMULA E 308 DO STJ. BOA-FÉ. APLICABILIDADE. LEI LEI 13.097/2015. HONORÁRIOSADVOCATÍCIOS.
+1. O pedido de adjudicação compulsória dos imóveis se vincula, unicamente, ao contrato particular de compra e venda firmado com a ÁLAMOCONSTRUTORA E INCORPORADORA LTDA, sem qualquer participação da CAIXA. Sendo assim, reconheço a ilegitimidade passiva para CAIXA para figurar no polo passivo em relação ao pedido vinculado ao contrato particular de compra e venda, qual seja, o pedido de adjudicação compulsória.
+2. "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel" (Súmula n. 308/STJ).
+3. Da análise do contrato de compra e venda (Evento 1 OUT12)verifico que não se fez referência à existência de hipoteca em favor do agente financeiro Caixa Econômica Federal. Ademais, não houve prova específica no sentido de que o autor tinha conhecimento prévio da noticiada hipoteca.
+4. A aquisição de boa-fé traduz-se em fato impeditivo do direito titularizado pela Caixa Econômica Federal, qual seja, o direito de sequela, emanado da hipoteca.
+5. Especificamente em relação à Lei 13.097/2015, invocada pela Caixa Econômica Federal, observo que os fatos jurídicos relevantes ao deslinde do feito - notadamente a averbação da hipoteca e o contrato de compra e venda realizado entre construtora e autor - são anteriores à sua vigência, razão pela qual não se submetem a seu regramento.
+6. Sucumbentes os autores em relação ao pedido de adjudicação compulsória, condeno ao pagamento de honorários advocatícios em favor das rés Álamo Construtora e Incorporadora Ltda e CAIXA, no importe de R$2.000,00 (dois mil reais), para cada, com base no artigo artigo 85, § 8º, do Código de Processo Civil.
+Os embargos de declaração foram rejeitados (e-STJ fls. 485/489).
+Em suas razões (e-STJ fls. 498/521), a parte recorrente alega, além de dissídio jurisprudencial, as seguintes questões:
+(i) violação dos arts. 1º da Lei n. 8.004/1990 e 113 e 114 do CPC/2015, ao argumento de que "o mutuário do SFH (no caso a Construtora, primeira recorrida) pode transferir imóveis, mas para formalizar a venda com a referida transferência, é necessária a interveniência da Empresa Pública financiadora, no caso a CEF - segunda recorrida" (e-STJ fl. 512). Aduz, por conseguinte, que "Não seria plausível ingressar com ação de adjudicação na Justiça Estadual quando lei específica demanda a interveniência obrigatória da CEF na transferência do imóvel, sendo a Justiça Estadual incompetente para obrigar a Empresa Pública, por ser esta competência da Justiça Federal" (e-STJ fl. 512), e
+(ii) necessidade de "reforma da decisão recorrida, aplicando-se o princípio da causalidade e, assim, invertendo-se o ônus sucumbencial, condenando-se às Recorridas ao pagamento das verbas sucumbenciais por terem resistido indevidamente o direito cabal dos Recorrentes" (e-STJ fl. 519).
+Sem contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No tocante à ilegitimidade passiva da segunda recorrida e consequente incompetência da Justiça Federal no julgamento do feito, relativamente ao pleito de adjudicação compulsória, o Tribunal de origem registrou apenas que "O pedido de adjudicação compulsória dos imóveis se vincula, unicamente, ao contrato particular de compra e venda firmado com a ÁLAMO CONSTRUTORA E INCORPORADORA LTDA, sem qualquer participação da CAIXA" e que "O fato da CAIXA operacionalizar o Sistema Financeiro da Habitação e ter concedido financiamento para a Construtora Álamo finalizar as obras do empreendimento, não a obrigam pelo o autor" (e-STJ fl. 462).
+Assim, o conteúdo normativo dos arts. 1º da Lei n. 8.004/1990 e 113 e 114 do CPC/2015 e a tese recursal que aqueles dispositivos fundamentam não foram objeto de apreciação pela Corte local , apesar da oposição de embargos declaratórios.
+Entendendo remanescerem os vícios apontados nos aclaratórios, caberia à parte alegar, em recurso especial, violação do art. 1.022 do CPC/2015, o que não ocorreu. Dessa forma, à falta do indi spensável prequestionamento, incide a Súmula n. 211 do STJ.
+Quanto à controvérsia relativa à inversão do ônus sucumbencial, a parte não indica o dispositivo de lei federal supostamente violado ou sobre o qual paire dissídio jurisprudencial, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284/STF.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor dos patronos das recorridas, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
