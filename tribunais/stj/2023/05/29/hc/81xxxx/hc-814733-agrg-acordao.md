@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trago  à  apreciação  da  Sexta  Turma  o  agravo  regimental  interposto  por  Tatiana  Silva  Bittu  -  condenada  à  pena  de  6  anos,  11  meses  e  10  dias  de  reclusão,  em  regime  inicial  semiaberto,  como  incursa  no  art.  155,  §  4º,  do  Código  Penal  -  contra  a  decisão,  de  minha  lavra,  que  indeferiu  liminarmente  o  writ  impetrado  a  favor  da  ora  agravante  (fls.  62/64).
+Esta,  a  ementa  do  decisum  agravado  (fl.  62):
+PEDIDO  DE  RECONSIDERAÇÃO  EM  HABEAS  CORPUS.  DIREITO  PENAL  E  PROCESSO  PENAL.  EXECUÇÃO  PENAL.  SENTENÇA  CONDENATÓRIA.  REGIME  SEMIABERTO.  RÉ  CONDENADA  EM  LIBERDADE.  GUIA  DE  RECOLHIMENTO  DEFINITIVA.  CONSTRANGIMENTO  ILEGAL.  NÃO  OCORRÊNCIA.
+Decisão  reconsiderada.  Writ  indeferido  liminarmente.
+Sustenta  a  parte  agravante  que  a  decisão  agravada  fere  a  jurisprudência  do  próprio  Superior  Tribunal,  sendo  necessária  a  devida  distinção  (distinguishing)  entre  os  precedentes  ofertados  pela  ora  agravante  e  os  precedentes  coligidos  à  decisão  agravada para  a  adequada  fundamentação  do  decisum  (fls.  69/86).
+Pede  o  provimento  deste  agravo  regimental,  nos  termos  do  writ  impetrado.
+Dispensou-se  a  oitiva  da  parte  contrária.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  DIREITO  PENAL  E  PROCESSO  PENAL.  ART.  93,  IX,  DA  CONSTITUIÇÃO  DA  REPÚBLICA.  DISTINGUISHING.  PRETENSÃO  DESARRAZOADA.  INCIDÊNCIA  DE  PACÍFICA  JURISPRUDÊNCIA DO STJ COMO FUNDAMENTO DA DECISÃO.  EXECUÇÃO  PENAL.  SENTENÇA  CONDENATÓRIA.  REGIME  SEMIABERTO.  RÉ  CONDENADA  EM  LIBERDADE.  GUIA  DE  RECOLHIMENTO  DEFINITIVA.  CONSTRANGIMENTO  ILEGAL.  NÃO  OCORRÊNCIA.
+1.  Contravindo  os  argumentos  recursais,  desarrazoada  a  demonstração  de  distinguishing,  porquanto,  na  quaestio  sub  judicie  objetivamente  se  adotou  pacífica  jurisprudência  deste  Superior  Tribunal  como  fundamento  do decisum ora recorrido (art. 93, IX, da Constituição da República).
+2.  Nos  termos  do  art.  105  da  Lei  n. 7.210/1984:  "ransitando  em  julgado  a  sentença  que  aplicar  pena  privativa  de  liberdade,  se  o  réu  estiver  ou  vier  a  ser  preso,  o  Juiz  ordenará  a  expedição  de  guia  de  recolhimento  para  a  execução (AgRg  no  RHC  n.  171.328/BA,  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  DJe  9/3/2023).
+3.  A  parte  agravante  não  reuniu  elementos  suficientes  para  infirmar  o  decisum  agravado,  o  que  autoriza  a  sua  manutenção.
+4  .  Agravo  regimental  improvido.
+VOTO
+As  razões  trazidas  no  regimental  não  são  suficientes  para  infirmar  o  entendimento  exposto  na  decisão  ora  agravada,  que  foi  amparada  em  precedentes  deste  Superior  Tribunal.
+Primordialmente,  in  casu,  desarrazoada  a  demonstração  de  distinguishing,  porquanto,  contravindo  os  argumentos  recursais,  na  quaestio  sub  judice  objetivamente  se  reconheceu  a jurisprudência  pacífica  deste  Superior  Tribunal  como fundamento do decisum ora agravado,  nos  termos  do  art.  93,  IX,  da  Constituição  da  República.
+Inclusive, a parte agravante não demonstrou, especificamente, que o entendimento deste Superior Tribunal destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos (EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, Ministro Rogerio Schietti Cruz, Sext a Turma, DJe 29/3/2023.)
+Com  efeito,  nos  termos  do  art.  105  da  Lei  de  Execuções  Penais:  Transitando  em  julgado  a  sentença  que  aplicar  pena  privativa  de  liberdade,  se  o  réu  estiver  ou  vier  a  ser  preso,  o  Juiz  ordenará  a  expedição  de  guia  de  recolhimento  para  a  execução (AgRg  no  RHC  n.  171.328/BA,  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  DJe  9/3/2023).
+No  caso,  ao contrário da pretensão recursal,  o  voto  condutor  do  acórdão  impugnado  explicitou  (fls.  25/27):
+ ..  Com  efeito,  o  trânsito  em  julgado  da  condenação  imposta  ao  paciente  operou-se  aos  5.7.2022  e,  portanto,  a  teor  do  art.  5º  do  Comunicado  CG  n.  628/2022,  desta  Corte,  inaplicável  ao  caso  a  nova  sistemática  determinada  pela  Resolução  n.  474/2022  do  Conselho  Nacional  de  Justiça.
+Nesse  sentido  é  o  entendimento  da  Quinta  Câmara  de  Direito  Criminal:
+ ..
+De  mais  a  mais,  não  se  mostra  cabível  a  aplicação  retroativa  dos  referidos  atos  normativos.  Isso  porque,  a  Resolução  474/22  do  CNJ  e  o  Comunicado  CG  628/22  não  podem  ser  equiparadas  a  normas  de  natureza  penal  material.  A  bem  da  verdade,  por  disciplinar  em  procedimentos  a  serem  adotados,  os  regulamentos  e  comunicados  muito  mais  se  aproximam  de  normas  de  natureza  processual,  os  quais  são  regidos  pelo  princípio  tempus  regit  actum.  Desse  modo,  não  demonstrou  a  impetrante  sofrera  paciente  qualquer  constrangimento  ilegal  a  ser  sanado  pelo  remédio  constitucional  que  reclama.
+ ..
+Por  conseguinte,  para  a  jurisprudência  assente  deste  Superior  Tribunal,  é  imprescindível  a  prisão  do  sentenciado  para  posterior  expedição  de  guia  de  recolhimento,  salvo  quando  verificado  que  o  preso  tem  direito  a  benefícios  executórios,  por  meio  de  alegação  verossímil"  (AgRg  no  HC  n.  746.386/SP,  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  DJe  27/6/2022).
+Igualmente:  AgRg  no  HC  n.  770.259/MG,  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  DJe  14/12/2022;  AgRg  no  HC  n.  754.913/MG,  Ministro  Jorge  Mussi,  Quinta  Turma,  DJe  de  15/12/2022;  HC  n.  470.455/SP,  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  DJe  19/2/2019;  e  RHC  n.  95.408/RJ,  Ministro  Joel  Ilan  Paciornik,  QuintaTurma,  DJe  14/2/2019.
+Em  tempo  ,  o  julgamento  do  agravo  regimental  por  meio  virtual  está  autorizado  pelo  art.  184-A,  parágrafo  único,  III,  do  Regimento  interno  desta  C  asa  e  não  impede  a  realização  de  sustentação  oral,  que  deverá  ocorrer  nos  termos  do  §  1º  do  mesmo  art.  184-A.
+Assim,  reafirmo  a  motiv ação  por  mim  adotada  na  decisão  ora  agravada  e  nego  provimento  ao  agravo  regimental.
