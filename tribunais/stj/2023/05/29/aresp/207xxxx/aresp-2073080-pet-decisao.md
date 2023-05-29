@@ -1,0 +1,7 @@
+DECISÃO
+TWIN INVESTIMENTOS E SERVIÇOS LTDA. e BANQUE DE COMMERCE ET DE PLACEMENTS apresentaram petição (e-STJ fls. 5.343/5.358), informando a cessão do crédito e de todos os direitos "relativos aos contratos celebrados entre Banque de Commerce Et de Placements ("BCP") e a recuperanda Seara e coobrigados, o que abrange o crédito que encontra-se habilitado nestes autos" (e-STJ fl. 5.343). Eis o que requereram (e-STJ fl. 5.344):
+(i) Seja determinada ao Cartório a exclusão do Banque de Commerce Et de Placements ("BCP") e de seus patronos - que, por meio desta, renunciam expressamente a todos os valores a título de honorários sucumbenciais e custas processuais - dos registros deste processo; e
+(ii) seja determinada ao Cartório a inclusão da TWIN INVESTIMENTOS E SERVICOS LTDA ("Twin") nos registros deste processo, substituindo o Banque de Commerce Et de Placements ("BCP") como titular do crédito habilitado nestes autos, devendo todas as intimações no Diário da Justiça serem realizadas em nome de Julia Oliveira, inscrita OAB/SP 398.508 sob pena de nulidade;
+Intimada (e-STJ fls. 5.365/5.366), a CREDIBILITÀ ADMINISTRAÇÃO JUDICIAL E SERVIÇOS LTDA., nomeada administradora judicial no processo de recuperação das empresas recorridas, manifestou-se informando que "a cessão de crédito realizada entre as partes já foi devidamente homologada por decisão judicial na Recuperação Judicial do Grupo Seara" (e-STJ fl. 5.369).
+Em tais condições, DEFIRO o pedido de fl. 5.344 (e-STJ). À Coordenadoria para as providências cabíveis.
+Publique-se e intimem-se.
