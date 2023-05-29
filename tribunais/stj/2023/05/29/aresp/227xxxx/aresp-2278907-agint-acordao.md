@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+NOTRE DAME INTERMÉDICA SAÚDE S/A interpõe agravo interno contra a decisão de fls. 1.309-1.313, que negou provimento ao agravo em recurso especial em razão da incidência da Súmula n. 7 do STJ, bem como da ausência de similitude fática entre o acórdão recorrido e os julgados tidos por divergentes.
+No presente recurso, a agravante, defendendo não ser aplicável à espécie a Súmula n. 7 do STJ, visto que desnecessário o revolvimento fático-probatório, reitera as razões relativas à violação dos arts. 186, 187, 927 e 944 do Código Civil e à comprovação do dissídio jurisprudencial. Alega que não foram preenchidos os requisitos configuradores do dano moral e que o valor fixado a título de indenização por danos morais foi exorbitante.
+Requer, assim, o provimento do presente recurso a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. RECUSA DE CUSTEIO DE TRATAMENTO. PLANO DE SAÚDE. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide no caso a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+3. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+4 . Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Quanto à pretendida indenização por danos morais, o Tribunal de origem concluiu que a recusa injustificada de cobertura de procedimento cirúrgico havia acarretado dano moral indenizável (fl.1.191).
+A instância ordinária baseou-se nas provas dos autos para concluir pela configuração do dano moral. Assim, para decidir em sentido contrário e reconhecer o não preenchimento dos pressupostos para a concessão da indenização pelos danos morais, é necessário o reexame do conjunto probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+O Tribunal de origem condenou a ora agravante a pagar o valor de R$ 15.000,00 a título de indenização por danos morais decorrentes da recusa injustificada de cobertura de tratamento pela operadora do plano de saúde, bem como debateu, de forma explícita, que o valor foi arbitrado dentro dos critérios e bases adotados pela jurisprudência, além de terem sido observados os princípios da razoabilidade e proporcionalidade, levando em consideração o caráter reparatório, punitivo e educativo, sem, contudo, que haja um enriquecimento ilícito.
+Confira-se trecho do voto condutor do acórdão da apelação (fls. 1.195-1.196, destaquei):
+E mostra-se suficiente o montante de R$ 15.000,00 (quinze mil reais), o qual é apto para atender à dupla função do instituto indenizatório, devendo, sobre ele, incidir juros de mora da citação e correção monetária da data da sua fixação, nos termos da Súmula nº 362 do C. Superior Tribunal de Justiça.
+Ainda que o quantum indenizatório fixado na instância ordinária submeta-se ao controle do Superior Tribunal de Justiça, tal providência somente é necessária na hipótese em que o valor da condenação seja irrisório ou exorbitante, distanciando-se, assim, das finalidades legais e da devida prestação jurisdicional no caso concreto.
+Observa-se, com base no conjunto fático delineado no voto condutor do julgado, que os valores indenizatórios foram fixados com moderação, visto que não concorreram para o enriquecimento indevido da vítima e que foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e porte socioeconômico do causador dos danos.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do apelo extremo implicaria reexame de questões fático-probatórias presentes nos autos, o que, no caso, é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+Nesse sentido, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE TRATAMENTO. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.ÓBICEDA SÚMULAN. 7/STJ. VALOR DA INDENIZAÇÃO POR DANOSMORAIS. PRINCÍPIOSDA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudê ncia do STJ, "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/10/2022, DJe de 14/10/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a agravada foi exposta, ante a recusa do custeio do tratamento de saúde, ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.039.471/SP, Quarta Turma, relator Ministro Antonio Carlos Ferreira, julgado em 14/11/2022, DJe de 21/11/2022).
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE FORNECIMENTO DE TRATAMENTO MÉDICO-HOSPITALAR. PERÍODO DE CARÊNCIA. RECUSA INDEVIDA. DANO MORAL. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento consolidado nesta Corte Superior, configura abusividade a negativa de fornecimento de tratamento médico-hospitalar baseada em cláusula de carência, mormente quando configurada a situação de urgência ou emergência.
+2. Tendo a Corte de origem entendido pela ocorrência de situação de emergência ou urgência, não pode este Superior Tribunal reexaminar o acervo fático-probatório dos autos, a fim de adotar entendimento diverso. Incidência da Súmula n. 7/STJ.
+3. Não pode o Superior Tribunal de Justiça, dada a natureza excepcional do recurso especial, reapreciar o conjunto probatório para entender de forma diversa quanto à existência de abalos físicos ou psicológicos aptos a ensejar a indenização por danos morais. Incidência da Súmula n. 7/STJ.
+4. A revisão do quantum indenizatório é inviável em recurso especial por encontrar óbice estabelecido na Súmula n. 7/STJ.
+5. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 2.047.126/PE, Terceira Turma, relator Ministro Marco Aurélio Bellizze, julgado em 10/10/2022, DJe de 18/10/2022).
+No caso, o arbitramento da verba em destaque em R$ 15.000,00 (danos morais) não propicia a intervenção deste Tribunal.
+Verifica-se a impossibilidade de se estabelecer juízo de valor acerca da relevância e semelhança dos pressupostos fáticos inerentes às situações que, retratadas nos acórdãos confrontados, acabaram por determinar a aplicação do direito à espécie.
+Ocorre que, tratando-se de dano moral, cada caso reveste-se de peculiaridades que lhe são próprias, tais como circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, além do grau de repercussão do fato no âmbito moral da vítima.
+Dessa forma, ainda que haja grande semelhança nas características externas e objetivas, os acórdãos, no aspecto subjetivo, são distintos, tornando incabível a análise do recurso com base no dissídio.
+Portanto, a agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
