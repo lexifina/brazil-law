@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Robson Gomes de Souza - condenado pelo crime de homicídio qualificado a 12 anos de reclusão, em regime inicial fechado -, atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 491031-3/0 (fls. 20/22) que manteve a sentença condenatória prolatada na Ação Penal n. 09/2004 (fls. 12/16), do Tribunal do Júri da comarca de Cunha/SP.
+Alega-se constrangimento ilegal consistente em cerceamento de defesa, em razão de a apelação interposta pelo paciente ter sido julgada deserta, porque ele se evadiu do presídio, e requer-se, então, a concessão da ordem, inclusive em caráter liminar, para que seja afastado o trânsito em julgado da condenação nos autos da Ação Penal n. 159.01.2004.001067-3 (Apelação criminal n. 491.031-3), para julgamento da apelação interposta pelo réu, excluída a deserção antes reconhecida (fl. 8).
+É o relatório.
+Inicialmente, tem-se que a impetração hostiliza condenação transitada em julgado em 25/9/2010 (fl. 23). Assim, por se tratar de sucedâneo de revisão criminal, esta Corte Superior é manifestamente incompetente para análise do pleito, notadamente porque inexiste aqui julgamento de mérito, passível de revisão. Nesse sentido: AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022.
+Ademais, não demonstrado constrangimento ilegal apto a subsidiar a concessão de habeas corpus de ofício (art. 654, § 2º, do CPP), pois, da análise dos autos, tem-se que a apelação foi julgada deserta em 30/1/2007 (fl. 20), antes da revogação do art. 535 do CPP, em 2011, e edição da Súmula 347/STJ (Terceira Seção, julgada em 23/4/2008, DJe 29/4/2008).
+Nesse sentido: embora o art. 595 do Código de Processo Penal tenha sido revogado pela Lei n. 12.403, de 4/5/2011, no ano da publicação da decisão em debate, referida regra ainda estava em vigor, razão pela qual a decisão que declarou deserta a apelação encontrava-se em consonância com a legislação vigente à época, não havendo que se falar em nulidade (RHC n. 109.104/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. NULIDADE. CERCEAMENTO DE DEFESA. APELAÇÃO JULGADA DESERTA. ART. 595 DO CPP, VIGENTE À ÉPOCA DOS FATOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
