@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória apresentado por SOLAR BRAÚNA PRODUTOS QUÍMICOS LTDA EPP, em recuperação judicial (RECUPERANDA) objetivando a concessão de efeito suspensivo ao recurso especial admitido pelo juízo prévio de admissibilidade.
+Para tanto, esclarece que, deferido o pedido de recuperação, com plano aprovado pela Assembleia Geral de Credores, houve sua homologação, dispensada a apresentação de certidões negativas fiscais.
+Noticia que contra essa decisão a UNIÃO FEDERAL interpôs agravo de instrumento, provido para condicionar o deferimento da recuperação judicial à apresentação das certidões negativas de débitos fiscais (CNDs).
+Informa que contra esse julgado manejou recurso especial, admitido pelo juízo prévio de admissibilidade, sob o argumento que o Superior Tribunal de Justiça possui entendimento quanto a prescindibilidade das CNDs para a homologação da recuperação judicial.
+Ressalta que em não se atribuindo o efeito suspensivo ao Recurso Especial  .. , possibilitar-se-á que o Juízo a quo prejudique todo o trâmite do processo de soerguimento até então realizado, prejudicando, igualmente, os credores, fornecedores e toda a cadeia econômica em torno da requerente, tornando "letra morta" o princípio da preservação da empresa (art. 47 da Lei 11.101/05). (e-STJ, fl. 9)
+Ao final, requer a concessão de efeito suspensivo ao apelo nobre, para que seja mantida a recuperação judicial.
+É o relatório.
+A concessão de tutela antecipada se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Na espécie, depreende-se que foi deferido o pedido de recuperação judicial da RECUPERANDA e aprovado o plano pela Assembleia Geral de Credores.
+O acórdão recorrido, por sua vez, condicionou a concessão da recuperação judicial a apresentação de Certidões Negativas de Débitos Fiscais.
+Todavia, a jurisprudencial do Superior Tribunal de Justiça já se pronunciou no sentido que a falta de certidão negativa tributária não impediria o deferimento da recuperação judicial, ante sua incompatibilidade com o princípio da preservação da empresa (AgInt no REsp n. 1.989.920/PR, rel. Min. PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe de 16/3/2023 e AgInt no AREsp n. 1.570.936/SP, rel. Min. RAUL ARAÚJO, Quarta Turma, DJe de 30/3/2023).
+Do cotejo entre o fundamento adotado pelo acórdão recorrido e o entendimento do STJ, em uma análise perfunctória, própria das liminares, vislumbro a presença do fumus boni iuris.
+As consequências jurídicas da exigência das CNDs para concessão da recuperação judicial pode inviabilizar o procedimento, em afronta aos princípios da preservação e da função social da empresa, razão pela qual se encontra presente o periculum in mora.
+Nessas condições, presentes o fumus boni iuris e o periculum in mora, DEFIRO O PEDIDO para atribuir efeito suspensivo ao recurso especial interposto pela RECUPERANDA contra o acórdão proferido no Agravo de Instrumento nº 2147794-25.2022.8.26.0000, que tramitou perante a 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo/SP.
+Comunique-se, com urgência, o Desembargador FORTES BARBOSA, relator do Agravo de Instrumento nº 2147794-25.2022.8.26.0000, que tramitou perante a 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo/SP, e o Juízo da 1ª Vara da Comarca de Penápolis, Recuperação Judicial nº 1003739-76.2021.8.26.0438.
+Publique-se. Intimem-se.
