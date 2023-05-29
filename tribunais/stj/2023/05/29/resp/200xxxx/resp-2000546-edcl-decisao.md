@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL (SENAI) contra decisão em que: a) conheci do agravo da CERAMAT LIMITADA para dar provimento ao recurso especial, a fim de julgar extinto o feito sem resolução de mérito, com base no art. 485, VI, do CPC/2015, por ilegitimidade ativa do SENAI, que foi condenado ao pagamento das custas e despesas processuais antecipadas pela parte ré e de honorários advocatícios, os quais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa; e b) julguei prejudicado o recurso especial do SENAI.
+O embargante alega, de início, a necessidade de sobrestamento do feito até a publicação do acórdão da Primeira Seção que julgar os EREsp 1.571.933/SC, cujo julgamento encontra-se suspenso devido a pedido de vista da eminente Ministra Assusete Magalhães.
+Afirma que a decisão embargada não se manifestou a respeito de atos normativos e da jurisprudência que menciona, os quais, segundo entende, dariam amparo à sua legitimidade para ação de cobrança.
+Impugnação às e-STJ fls. 809/810.
+Passo a decidir.
+Inicialmente, ressalto que "a mera existência de Embargos de Divergência pendentes de julgamento, referentes à mesma matéria, não tem o condão de sobrestar a tramitação de Recurso Especial e/ou Agravo" (AgInt no REsp n. 1.768.887/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/2/2020, DJe de 14/2/2020).
+No caso, não se verifica o vício apontado, pois a decisão está clara no sentido da ilegitimidade do embargante para ajuizamento de ação de cobrança destinada a exigir contribuições que lhe são destinadas por subvenção, tendo havido o devido exame das normas jurídicas de regência.
+Cabe registrar que "não cabe a esta Corte se manifestar, ainda que para fins de prequestionamento, acerca de suposta afronta a princípios ou artigos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp 1.436.618/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
