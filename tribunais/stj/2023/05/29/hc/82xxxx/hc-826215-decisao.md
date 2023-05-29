@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBERTO CESAR MORANDIM contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 350):
+TRÁFICO DE DROGAS - Prova bastante segura - Relatos policiais esclarecedores e convincentes - Agente detido com drogas variadas, individualmente embaladas e com dinheiro Tráfico indiscutível - Desclassificação para o crime de furto totalmente descabida - Versão do réu absurda e desprovida de um mínimo de prova - Ônus que se lhe impunha - Condenação mantida - Dosimetria Antecedentes criminais e reincidência que justificaram o agravamento da pena e impedem o tráfico privilegiado - Regime fechado necessário - Recurso improvido.
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas porque "trazia consigo 9 pedras de crack, pesando 3g e 71 microtubos de cocaína" (e-STJ fl. 4).
+No presente writ, sustenta a defesa a ilegalidade da busca pessoal realizada pela polícia, pois fundada apenas em atitude suspeita do paciente.
+Requer, liminarmente e no mérito, seja declarada a ilicitude dos elementos de prova colhidos na busca pessoal realizada.
+É o relatório. Decido.
+De início, observa-se que a tese apresentada na impetração - ilegalidade da busca pessoal - não foi objeto de exame pela Corte de origem no acórdão de apelação, o que impede este Superior Tribunal de Justiça de conhecer do tema, sob pena de indevida supressão de instância.
+Como cediço, " n ão compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, não conheço do presente habeas corpus.
+Intimem-se.
