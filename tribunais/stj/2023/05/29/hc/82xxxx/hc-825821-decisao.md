@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Gerson Ramalho Morais contra o ato coator proferido pela Oitava Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução n. 7000126-37.2023.8.26.0482, negou provimento à insurgência defensiva, indeferindo o pedido de progressão ao semiaberto e de livramento condicional por ausência dos requisitos subjetivo e objetivo, respectivamente.
+A impetrante alega, em síntese, que a decisão foi fundamentada na gravidade do crime e no histórico prisional desfavorável, circunstâncias não contempladas pelo legislador como obstáculo à progressão de regime.
+Sustenta que estão preenchidos os requisitos para a progressão.
+Pede, em caráter liminar e no mérito, a progressão de regime para o semiaberto (fls. 3/11).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+A progressão foi denegada aos seguintes fundamentos (fl. 55):
+Vale consignar que o sentenciado postulou a progressão de regime e ou livramento condicional, que foi indeferido pelo MM. Magistrado, tendo em vista a ausência de requisito subjetivo quanto ao primeiro, eis que o reeducando praticou várias faltas disciplinares de natureza grave, e quanto ao segundo, não cumprido o requisito objetivo.
+Analisando o boletim informativo, verifica-se que, de fato, o reeducando cumpriu o requisito objetivo exigido legalmente para a obtenção da progressão em comento (fl. 6v.).
+Ocorre, contudo, que além do pressuposto objetivo, ainda se faz necessário que o condenado tenha preenchido o requisito subjetivo, ou seja, que demonstre, de forma inequívoca, que ostenta mérito para auferir a benesse.
+Destarte, muito embora o atestado emitido pela Secretaria de Administração Penitenciária tenha classificado o comportamento carcerário do reeducando como sendo "bom" (fl. 6), tem-se que tal circunstância não se mostra suficiente para o imediato retorno do sentenciado ao convívio social.
+É que o reeducando praticou delitos de considerável gravidade, além do que, no cumprimento da pena que lati foi imposta, praticou faltas disciplinares de natureza grave e de natureza média ao longo do cumprimento de suas penas.
+Nos termos da jurisprudência deste Tribunal Superior, a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime; a circunstânci a de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execuçã o penal, como indicativo de  mau comportamento carcerário (AgRg no HC n. 684.918/SP, Ministro Reynaldo Soares da Fonseca, Quinta  Turma, DJe 20/8/2021 - grifo nosso), mormente como na hipótese em que o paciente conta com 6 faltas graves (fls. 16/19).
+Em igual direção, ainda, estes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+ ..
+4. Na hipótese, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do cometimento de falta disciplinar de natureza grave, pois, durante as diversas oportunidades em que lhe foram concedidos benefícios como prisão domiciliar, saídas temporárias e, até mesmo, progressão de regime, houve o cometimento de novo crime, de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão da progressão de regime.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 778.067/SC, Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe 17/3/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. LIVRAMENTO CONDICIONAL. FALTA GRAVE NÃO ANTIGA. REQUISITO SUBJETIVO NÃO PREENCHIDO. MOTIVAÇÃO SUFICIENTE. EXAME CRIMINOLÓGICO FAVORÁVEL À PROGRESSÃO. NÃO VINCULAÇÃO.
+1-  ..  No caso, o ora agravante praticou uma falta grave, consistente em subversão da ordem e disciplina, em 21/3/2020. O Tribunal havia ressaltado bem a gravidade do fato, ao deixar claro que ele praticou a infração quando estava em regime semiaberto, o que ocasionou sua regressão ao fechado. De fato, quando se viu em regime de semiliberdade, ao invés de aproveitar a chance para se reeducar, incorreu em indisciplina, demonstrando descaso e ousadia.
+5. Desse modo, a depender das circunstâncias e da gravidade, uma única falta pode igualmente desmerecer o livramento condicional, como na espécie, porque na execução penal impera o princípio do in dubio pro societate, de modo que, na dúvida, deve-se decidir a favor da sociedade.
+6. Agravo regimental não provido. (AgRg no HC n. 704.573/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021.) 2- No caso, o executado, logo que se viu mais livre, ao ser promovido ao regime intermediário no dia 9/3/2018, praticou a falta de abandono do cárcere durante saída temporária no dia dos pais, em 16/8/2018, sendo recapturado na data de 20/11/2018, 3 meses depois, ou seja, não voltou por vontade própria.
+3- O exame criminológico não vincula o magistrado, que deverá formar sua convicção após a análise de todos os elementos constantes dos respectivos autos.  ..  RHC 372.954/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 2/2/2017, DJe 10/2/2017)
+4 - No caso, o exame criminológico favorável à concessão do regime semiaberto não vincula a decisão de progressão de regime, quanto menos a decisão de livramento condicional, já que este é um benefício mais amplo.
+5- Agravo regimental improvido.
+(AgRg no HC n. 788.010/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe 19/12/2022)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHIDO. INEXISTÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A Corte de origem logrou fundamentar o indeferimento do livramento condicional pela ausência de preenchimento do requisito subjetivo, considerando, para tanto, o histórico prisional desfavorável do agravante, no qual consta, além de falta grave, o cometimento de crimes durante o cumprimento de pena em prisão domiciliar, o que evidencia a idoneidade da fundamentação utilizada e a inexistência de ilegalidade que justifique a concessão da ordem.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 656.999/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/6/2021)
+Desse modo, destacado o histórico de faltas graves e médias, não há falar em flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HISTÓRICO PRISIONAL CONTURBADO. COMETIMENTO DE FALTAS DISCIPLINARES DE NATUREZA GRAVE. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL AUSENTE.
+Writ indeferido liminarmente.
