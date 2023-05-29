@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Noticiam os autos que TADEU APARECIDO BARBOSA (TADEU) interpôs agravo de instrumento contra decisão proferida na Ação Declaratória de Continuidade Contratual proposta contra SUL AMÉRICA COMPANHIA DE SEGUROS (SUL AMÉRICA), em fase de cumprimento de sentença, que deixou de apreciar o pedido de bloqueio de numerário necessário para o pagamento do débito.
+O Tribunal de Justiça de São Paulo não conheceu do recurso, em acórdão da relatoria do Desembargador MOREIRA VIEGAS, assim ementado:
+Agravo de Instrumento - Despacho sem cunho decisório, apenas determinando que se aguarde manifestação do requerido - Não cabimento da interposição de recurso de agravo de instrumento, por falta de gravame ato meramente ordinatório - Recurso não conhecido (e-STJ, fl. 415).
+Opostos embargos de declaração, foram rejeitados.
+Contra esses julgados, TADEU manejou recurso especial fundamentado nas alíneas a e c do permissivo constitucional, alegando violação dos arts. 389 e 523, §§ 1º e 3º, ambos do CPC, diante da não apreciação do pedido de bloqueio de numerário suficiente para o pagamento do débito.
+Foram apresentadas contrarrazões.
+Inadmitido pelo juízo prévio de admissibilidade, TADEU apresentou o correspondente agravo.
+O então Presidente do Superior Tribunal de Justiça, Ministro JOÃO OTÁVIO DE NORONHA, não conheceu do recurso por ausência de impugnação específica dos fundamentos adotados pela decisão agravada.
+Daí a interposição do agravo interno por TADEU, em que reiterou os argumentos do apelo nobre.
+A impugnação foi apresentada (e-STJ, fls. 688/695).
+Esta eg. Terceira Turma negou provimento ao agravo interno nos termos da seguinte ementa:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE TODOS OS FUNDAMENTOS ADOTADOS PELO JUÍZO PRÉVIO DE ADMISSIBILIDADE. ART. 932, III, DO NCPC. RECURSO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva decisão de inadmissibilidade.
+3. Agravo interno não provido (e-STJ, fl. 719).
+Nos presentes embargos de declaração, TADEU reiterou seu agravo em recurso especial e seu agravo interno, bem como sustentou, em resumo, que merece reforma o acórdão embargado, tendo em vista a ocorrência de omissão e obscuridade do julgado, tendo em conta que
+ ..  face aos argumentos expendidos requer-se o saneamento dos vícios da omissão e obscuridade a inquinar o v. Acórdão de fls. 719/724 ora embargado, posto que o Recurso Especial interposto as fls. 479/504, devidamente instruído com os Acórdãos Paradigmas de fls. 505/510 (RESP 1.366.722-SP), fls. 511/534 (RESP 1.192.197-SC, constante no Informativo de Jurisprudência nº 490 do E.STJ as fls. 535/549) e fls. 550/563 (RESP 1.215.368-ES, constante no Informativo de Jurisprudência nº 590 do E.STJ as fls. 564/588) rigorosamente atendeu aos requisitos constantes no art. 105, III, a e c, da Constituição Federal, mediante o acolhimento dos presentes Embargos de Declaração (sic., e-STJ, fls. 728/741).
+A impugnação foi apresentada (e-STJ, fls. 745/749).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC. INTEGRATIVO REJEITADO.
+1. O acórdão embargado não foi omisso ou obscuro e, com clareza e coerência, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugnou os fundamentos da respectiva inadmissibilidade (falta de demonstração do dissídio).
+2. Inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do CPC, fixada em 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Os embargos de declaração devem ser rejeitados.
+O acórdão embargado não foi omisso ou obscuro e, com clareza e coerência, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugnou os fundamentos da respectiva inadmissibilidade (falta de demonstração do dissídio).
+Na espécie, conforme já destacado no julgado embargado, o juízo prévio de admissibilidade negou seguimento ao recurso especial por ser a via inadequada para análise de violação de dispositivos constitucionais, por estar o acórdão recorrido fundamentado, inexistindo omissão a ser sanada, por não se ter demonstrado o malferimento dos artigos da legislação federal apontados e por ausência de similitude fática entres os acórdãos colacionados para demonstrar o dissídio jurisprudencial.
+No mais, em que pese o reforço de argumentação apresentado nas razões do agravo interno e aqui, no recurso integrativo, da análise do agravo em recurso especial se verifica que, conforme já consignado no acórdão embargado, o inconformismo não se dirigiu, de forma específica, contra todos os fundamentos da decisão agravada, na medida em que não refutou, de forma arrazoada, a ausência de similitude fática entres os acórdãos colacionados para demonstrar o dissídio jurisprudencial.
+Em suma, TADEU não apresentou argumentos aptos para infirmar especificamente o suprarreferido óbice.
+Como se sabe, TADEU, além de ter comprovado o cotejo e a similitude fática entre os acórdãos paradigmas, apontando trechos do apelo nobre, deveria ter indicado a norma que teria sido interpretada diversamente, de modo a afastar a falta de comprovação do dissídio, o que também não ocorreu.
+Ressalte-se ainda que o agravante deve impugnar, nas razões de seu agravo em recurso especial, todas os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+Em resumo, nas razões do agravo em recurso especial, TADEU se limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, foi o caso de incidir o art. 932, III, do CPC.
+Daí por que, ao contrário do que TADEU quer fazer crer, não há que se falar em omissão do acórdão embargado quanto ao mérito do seu apelo nobre, tendo em conta que o seu recurso especial não ultrapassou nem sequer o juízo de admissibilidade.
+Como consequência, afasta-se a existência dos vícios referidos no julgado aqui embargado.
+Nos termos do art. 1.022 do CPC, os embargos de declaração se destinam a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado, podendo-lhes ser atribuídos, excepcionalmente, efeitos infringentes, quando algum desses vícios for reconhecido.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais, o que não se vislumbra no presente caso.
+Na hipótese, o julgado abordou os temas questionados e, em nenhum deles, houve a omissão ou obscuridade que TADEU gostaria de ver presentes, de modo que os embargos devem ser rejeitados por ausência de afronta aos requisitos do art. 1.022 do CPC.
+O importante é que o acórdão tenha decidido topicamente os pontos principais da controvérsia, o que efetivamente foi feito, não se podendo admitir que os embargos de declaração tomem curso diverso daquele a que são destinados.
+Se TADEU não se conforma com a fundamentação do julgado, não há que ser por meio de embargos de declaração que lograrão obter a sua reforma.
+Ademais, como ressaltado pelo em. Ministro MARCO AURÉLIO BELLIZZE, no julgamento do EDcl no AgRg no AREsp n.º 468.212/SC,
+ ..  não cabe a este Superior Tribunal, que não é órgão de consulta, responder a "questionários", tendo em vista que os aclaratórios não apontam de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas buscam, isto sim, esclarecimentos sobre situação que os embargantes consideram injusta em razão do julgado (sem destaque no original).
+No restante, é bom destacar que os embargos de declaração não devem se revestir de caráter infringente, pois a
+ ..  maior elasticidade que se lhes reconhece, excepcionalmente, em casos de erro material evidente ou de manifesta nulidade do acórdão (RTJ 89/548, 94/1.167, 103/1.210, 114/351), não justifica, sob pena de grave disfunção jurídico-processual dessa modalidade de recurso, a sua inadequada utilização com o propósito de questionar a correção do julgado e obter, em consequência, a desconstituição do ato decisório (RTJ 154/223, 155/964, 158/264, 158/689, 158/993, 159/638), consoante a anotação de Theotônio Negrão, na obra CPC e Legislação Processual em Vigor, Saraiva, 37ª ed., 2005, p. 623).
+Portanto, o que se verifica é o mero inconformismo da parte.
+Dessa forma, mantém-se o aresto embargado, porque não há motivos para a sua alteração.
+Por conseguinte, diante da manifesta improcedência dos embargos declaratórios, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual aplico a TADEU a multa do art. 1.026, § 2º, do CPC, que fixo em 2% sobre o valor atualizado da causa.
+Nessas condições, REJEITO os presentes embargos de declaração, com imposição de multa, nos termos acima explicitados.
+É o voto.
