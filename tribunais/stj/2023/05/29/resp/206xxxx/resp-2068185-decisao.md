@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela PERFOR INDÚSTRIA DE MAQUINAS LTDA., com fundamento na alínea "a" do permissivo constitucional, para desafiar acórdão do Tribunal Regional Federal da 4a Região assim ementado:
+TRIBUTÁRIO. IRPJ/CSLL. LUCRO PRESUMIDO. EXCLUSÃO DO PIS/COFINS E DO IRPL/CSLL DA BASE DE CÁLCULO DO IRPJ/CSLL. IMPOSSIBILIDADE.
+1. O sistema tributário brasileiro, como regra, não veda a incidência de tributo sobre tributo (RE nº 582461 - Tema 214/STF; REsp nº 1.144.469 -Tema 313/STJ).
+2. Na tributação pelo regime do lucro presumido, o PIS/COFINS e o IRPJ/CSLL não podem ser excluídos da receita bruta para fins de apuração da base de cálculo do IRPJ e da CSLL, seja porque não se aplica extensivamente ao caso a tese firmada pelo Supremo Tribunal Federal apenas em relação à contribuição ao PIS e à COFINS (Tema 69), seja porque essa forma de apuração dos tributos, pela sua natureza, já leva em consideração todas as possíveis deduções.
+Não foram opostos embargos declaratórios.
+Em suas razões, a empresa recorrente aponta violação do art. 1.022, II, parágrafo único, II, c/c o art. 489, § 1º, IV, do CPC, e do art. 110, caput, do CTN. Requer a exclusão dos tributos federais da base de cálculo do IRPJ e CSLL (lucro presumido).
+Contrarrazões apresentadas às e-STJ fl. 202/204.
+Decisão a quo de admissão do recurso especial à e-STJ fls . 210/211.
+Parecer do Ministério Público pelo não provimento do recurso especial.
+Passo a decidir.
+A controvérsia dos presentes autos diz respeito à possibilidade de inclusão dos valores recolhidos a título de contribuição ao Programa de Integração Social - PIS e de Contribuição para o Financiamento da Seguridade Social - COFINS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido.
+Verifica-se que a questão similar encontra-se submetida à sistemática dos recursos especiais repetitivos, no âmbito do REsp 1.767.631/SC, REsp 1.772.634/RS e REsp 1.772.470/RS, de relatoria da Ministra Regina Helena Costa, que constitui o Tema 1.008, in verbis: "Possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido."
+Nesse contexto, estando a matéria pendente de julgamento pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação quando da publicação do acórdão, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a de volução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal, a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Cumpre destacar, por oportuno, as seguintes decisões monocráticas, em que recursos especiais, debatendo a mesma questão posta nestes autos, foram devolvidos à Corte de origem para aguardar julgamento do Tema 1.008: REsp 1.853.831/SC, Min. Sergio Kukina, DJe de 03/02/2022; REsp 1.920.205/SC, Min. Assusete Magalhães, DJe 16/08/2021; REsp 1.952.020/SC, Min. Benedito Gonçalves, DJe 05/08/2021; REsp n. 1.944.073 , Min. Manoel Erhardt (Desembargador Convocado do Trf5), DJe de 30/03/2022; REsp n. 1.973.659, Min. Gurgel de Faria, DJe de 10/05/2022.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem- se.
