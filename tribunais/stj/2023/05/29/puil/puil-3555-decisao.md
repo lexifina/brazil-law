@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Pedido de Uniformização de Interpretação de Lei apresentado pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO DO ESTADO DO MATO GROSSO DO SUL, nos termos do art. 18 da Lei n. 12.153/2009, em face de acórdão prolatado pela 2ª Turma Recursal Mista do Tribunal de Justiça do Estado do Mato Grosso do Sul, no julgamento do recurso inominado cível n. 0801262-56.2021.8.12.0114, assim ementado (fls. 173/174e):
+RECURSO INOMINADO - AÇÃO ANULATÓRIA DE PROCESSO ADMINISTRATIVO - SENTENÇA PROCEDENTE - INFRAÇÕES COMETIDAS APÓS A TRADIÇÃO DO VEÍCULO - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Em que pese o ônus do vendedor de comunicar ao órgão de trânsito, em trinta dias, sobre a venda do veículo, nos termos do art. 134 do Código de Trânsito Brasileiro, a falta de observância do dispositivo legal não transfere a penalidade a que somente o infrator deva responder, como a suspensão do direito de dirigir, de cunho essencialmente personalíssimo. Com efeito, observa-se que as provas constantes dos autos são robustas e indicam com clareza que o veículo em discussão não pertencia ao recorrido quando as infrações de trânsito foram praticadas. Deste modo, não pairam dúvidas acerca da efetiva transferência do bem pela tradição. Assim, não há motivo para atribuir a autoria das infrações e as correspondentes penalidades à pessoa do Recorrido pelo simples fato de o veículo permanecer registrado em seu nome após a tradição, p orquanto restou devidamente comprovado que foram cometidas pelo novo proprietário. Sentença mantida pelos seus próprios fundamentos. Recurso conhecido e, no mérito, improvido.
+Alega estar configurada a hipótese do art. 18 da Lei 12.153/2009, diante da divergência do entendimento anteriormente resumido e aquele proveniente da 3ª Turma Recursal, manifestado no julgamento do recurso inominado n. 0813789-96.2014.8.12.0110, ambos de direito material consubstanciado, sendo aquela contrário à atual compreensão desta Corte, no sentido da não mitigação do art. 134 do Código de Trânsito Brasileiro, com responsabilização do vendedor do veículo pelas infrações de trânsito até a comunicação da venda (fls. 192/200e).
+É o relatório. Decido.
+Por primeiro, vale destacar que a competência desta Corte para apreciar pedido de uniformização de interpretação de lei federal decorre do art. 18, § 3º, e 19 da Lei n. 12.153/2009, in verbis:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+(..)
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Portanto, na espécie, verifica-se que o pedido de uniformização de interpretação acerca de questão de direito material concernente a lei federal é admissível quando:
+i) houver divergência entre Turmas Recursais de diferentes Estados sobre controvérsia idêntica; e
+ii) súmula desta Corte sofrer contrariedade por decisão proferida por Turma Recursal ou pelas Turmas de Uniformização de que trata o § 1º do art. 18 do referido diploma legal.
+Entretanto, esse não é caso dos autos, uma vez que aponta divergência entre Turmas Recursais diversas, mas da mesma Corte, qual seja, do Tribunal de Justiça do Estado do Mato Grosso do Sul e não infirmado entendimento sumulado deste Tribunal Superior, não sendo, portanto, caso de não conhecimento do Pedido de Uniformização.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INFRAÇÃO DE TRÂNSITO. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA. NATUREZA DA AÇÃO. ASPECTO MATERIAL. INADEQUAÇÃO. DIVERGÊNCIA ENTRE TURMAS DO MESMO TRIBUNAL. INADEQUAÇÃO DO INSTRUMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A decisão combatida não confronta súmula desta Corte, razão pela qual o pedido em exame não há de ser conhecido.
+III - O pedido de Uniformização de Interpretação de Lei dirigido ao Superior Tribunal de Justiça não se presta ao reexame dos aspectos fáticos, mas apenas para dirimir divergência entre teses jurídicas atinentes ao direito material e contrárias à Súmula.
+IV - Inviável o conhecimento do pedido direcionado a esta Corte de Justiça quanto ao dissídio entre os órgãos do mesmo Estado, cujo julgamento compete às Turmas em conflito reunidas, sob a presidência de desembargador indicado pelo Tribunal de Justiça do Distrito Federal e Territórios.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no PUIL n. 1.459/DF, de minha relatoria, Primeira Seção, julgado em 30/6/2020, DJe de 3/8/2020)
+Posto isso, com base no art. 34, XVIII, a, do Regimento Interno desta Corte, INDEFIRO liminarmente o processamento do incidente.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se. Cumpra-se.
