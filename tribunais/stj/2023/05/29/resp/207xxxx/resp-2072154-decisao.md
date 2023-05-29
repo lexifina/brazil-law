@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Rio Grande do Sul, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado (fls. 750-751):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. ILEGALIDADE DO JULGAMENTO MONOCRÁTICO. ENUNCIADO DA SÚMULA 568 DO E. STJ; E ART. 206, XXXVI DO RITJRS. REJEIÇÃO. INADMISSIBILIDADE DO RECURSO. EVIDENCIADA A IMPUGNAÇÃO ESPECÍFICA. MÉRITO. ESCRITURÁRIO. EXERCÍCIO DAS ATRIBUIÇÕES DO CARGO DE INSPETOR/ESCRIVÃO DA POLÍCIA CIVIL. DESVIO DE FUNÇÃO COMPROVADO - ART. 373, I, DO CPC DE 2015 E ENUNCIADO Nº 378 DA SÚMULA DO S. STJ. DIFERENÇAS REMUNERATÓRIAS DEVIDAS.
+I - A ÍNDOLE DE ECONOMIA PROCESSUAL NO JULGAMENTO MONOCRÁTICO, HAJA VISTA O CONHECIMENTO PRÉVIO DA POSIÇÃO DO ÓRGÃO COLEGIADO, A AFASTAR A ALEGADA OFENSA AO ART. 932, DO CPC, EM RAZÃO DO ENTENDIMENTO DOMINANTE SOBRE O TEMA NO ÂMBITO DO 2º GRUPO CÍVEL DESTE TRIBUNAL, CONSOANTE O ENUNCIADO DA SÚMULA Nº 568 DO E. STJ; E ART. 206, XXXVI DO RITJRS.
+II - DAS RAZÕES RECURSAIS, DENOTA-SE A IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA, EM OBSERVÂNCIA AO §1º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL.
+MÉRITO
+III - EMBORA O DESVIO DE FUNÇÃO NÃO ENSEJE O REENQUADRAMENTO FUNCIONAL, OU MESMO EQUIPARAÇÃO DOS VENCIMENTOS, A POSIÇÃO SEDIMENTADA NA JURISPRUDÊNCIA, NO SENTIDO DO DIREITO À PERCEPÇÃO DAS DIFERENÇAS REMUNERATÓRIAS CORRESPONDENTES, CONSOANTE SÚMULA 378 DO STJ.
+IV - COMPROVADO O EXERCÍCIO DAS ATRIBUIÇÕES DE INSPETOR/ESCRIVÃO DA POLÍCIA CIVIL POR PARTE DO SERVIDOR RECORRIDO, NÃO OBSTANTE NOMEADO PARA O CARGO D E ESCRITURÁRIO DA EXTINTA CAIXA ECONÔMICA ESTADUAL - EXTRANUMERÁRIO - ART. 373, I DO CPC DE 2015; E O DIREITO À PERCEPÇÃO DAS DIFERENÇAS REMUNERATÓRIAS CORRESPONDENTES.
+PRECEDENTES DESTE TJRS.
+PRELIMINARES REJEITADAS.
+AGRAVO INTERNO DESPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, I e II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: " ..  alegação da parte ré de estar previsto, para a hipótese, o reexame necessário da sentença, inclusive no que se refere ao caráter extranumerário do vínculo do autor com o Ente Público Estadual, a impossibilitar a configuração do desvio de função" (fl. 841).
+Quanto à questão de fundo, sustenta ofensa ao artigo 496, I e § 3º, do CPC/2015, aduzindo argumentação no sentido de que, no caso dos autos, a decisão atacada não observou o reexame necessário.
+Aduz que " ..  em se tratando de sentença ilíquida condenatória contra a Fazenda Pública, incide a regra do cabimento do reexame necessário, nos termos do decidido pelo E. STJ, tanto nos Embargos de Divergência nº 934.642/PR, quanto no Recurso Especial nº 1101727/PR" (fl. 844).
+Assim, argumenta no sentido de que o Acórdão recorrido não submeteu a decisão, inclusive no que se refere à impossibilidade de reconhecimento de desvio de função para servidor extranumerário, ao reexame necessário.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 898-902.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da seguinte questão: " ..  alegação da parte ré de estar previsto, para a hipótese, o reexame necessário da sentença, inclusive no que se refere ao caráter extranumerário do vínculo do autor com o Ente Público Estadual, a impossibilitar a configuração do desvio de função" (fl. 841) -grifos no original.
+Aduz que " ..  em se tratando de sentença ilíquida condenatória contra a Fazenda Pública, incide a regra do cabimento do reexame necessário, nos termos do decidido pelo E. STJ, tanto nos Embargos de Divergência nº 934.642/PR, quanto no Recurso Especial nº 1101727/PR" (fl. 844).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I e II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Anote-se, por oportuno, que "vigora no STJ o posicionamento de que "O amplo efeito devolutivo da remessa necessária conjura o princípio tantum devolutum quantum appelatum uma vez que não limita o conhecimento do Tribunal a quo à matéria efetivamente impugnada no recurso de apelação pelo ente público" (EDcl no AgRg nos EDcl no REsp 1.108.636/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/11/2010, DJe 1º/12/2010)" (AgInt no REsp 1.700.340/PB, relator Ministro Sérgio Kukina, Primeira Turma, DJe 31/3/2022).
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
