@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão unipessoal que não conheceu do Agravo em Recurso Especial com base na incidência da Súmula 182 desta Corte (fls. 522-524, e-STJ).
+Aduz a parte agravante (fl. 531-533, e-STJ):
+Veja Excelência que o contexto recursal é a necessidade da Corte Estadual de se manifestar sobre os temas omissos e suscitados que representariam a negativa de prestação jurisdicional, e, por consequência, a ausência de manifestação sobre os temas, em especial as decisões do Supremo Tribunal Federal e sua Súmula Vinculante nº 44 ofenderia o art. 926 do CPC.
+Não há nesse contexto a pretensão de discussão das matérias constitucionais ou de Súmula vinculante do STF.
+Há no recurso, em verdade, os fatos processuais que acarretam a negativa, inclusive aqueles que envolvem a SV nº 44 e a matéria constitucional.
+(..)
+Não há, portanto, a pretensão de discutir a aplicabilidade da Súmula Vinculante, mas, é exposto na peça do recurso especial um fato processual relevante, qual seja, que o Agravante suscitou, à luz da Súmula Vinculante nº 44, a manifestação expressa "sobre a ausência de critérios objetivos do Edital".
+(..)
+Quando o Agravante trouxe em sede de Recurso Especial e de Agravo as questões constitucionais e da Súmula Vinculante nº 44, o fez a fim de explicar por qual motivo se suscitava a negativa de prestação jurisdicional.
+Postula, assim, a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Impugnação às fls. 539-543, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL PROFERIDA NA ORIGEM. FUNDAMENTOS NÃO IMPUGNADOS ESPECIFICAMENTE. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão unipessoal que não conheceu do Agravo com base na incidência da Súmula 182/STJ.
+2. Conforme consta do decisum atacado (fl. 523, e-STJ): "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial por: a) descabimento do Recurso Especial por violação a normas da Constituição Federal; b) inviabilidade do apelo por contrariedade a enunciado de súmula (Súmula 518 do STJ); c) desfundamentação do Recurso quanto à infringência ao art. 926 do CPC/2015 (Súmula 284 do STF); d) deficiência na fundamentação no tocante à suscitada negativa de prestação jurisdicional (Súmula 284 do STF); e e) ausência de cotejo analítico das teses supostamente divergentes. O agravante, entretanto, deixou de impugnar de forma específica os itens "a" e "b" acima relacionados".
+3. A Corte Especial do STJ firmou orientação de que a decisão de inadmissão do Recurso Especial proferida na origem é incindível em capítulos autônomos, tornando inafastável a impugnação específica de todos os seus fundamentos (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+4. Veja-se que a refutação apta a infirmar a decisão recorrida deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp 1.535.657/MT, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 26.8.2020; e AgRg no RHC 128.660/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 24.8.2020).
+5. Dessa maneira, é aplicável por analogia a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgInt no REsp 1.881.152/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28.10.2020; e AgInt no AREsp 1.751.773/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 18.12.2020).
+6. De acordo com a jurisprudência do STJ, a impugnação tardia dos fundamentos da decisão que negou seguimento ao Recurso Especial (somente por ocasião do Agravo Interno), além de caracterizar imprópria inovação recursal, não se presta a sanar a deficiência do Agravo em Recurso Especial, ante a preclusão consumativa.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14 de abril de 2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme consta da decisão agravada (fl. 523, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial por: a) descabimento do Recurso Especial por violação a normas da Constituição Federal; b) inviabilidade do apelo por contrariedade a enunciado de súmula (Súmula 518 do STJ); c) desfundamentação do Recurso quanto à infringência ao art. 926 do CPC/2015 (Súmula 284 do STF); d) deficiência na fundamentação no tocante à suscitada negativa de prestação jurisdicional (Súmula 284 do STF); e e) ausência de cotejo analítico das teses supostamente divergentes.
+O agravante, entretanto, deixou de impugnar de forma específica os itens "a" e "b" acima relacionados.
+A Corte Especial do Superior Tribunal de Justiça firmou orientação de que a decisão de inadmissão do Recurso Especial proferida na origem é incindível em capítulos autônomos, tornando inafastável a impugnação específica de todos os seus fundamentos (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+Veja-se que a refutação apta a infirmar a decisão recorrida deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp 1.535.657/MT, Rel. Min. Luís Felipe Salomão, Quarta Turma, DJe 26/8/2020; e AgRg no RHC 128.660/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/8/2020).
+Dessa maneira, aplica-se por analogia a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgInt no REsp 1.881.152/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28/10/2020; e AgInt no AREsp 1.751.773/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 18/12/2020). No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL ERRO MÉDICO. RESPONSABILIDADE OBJETIVA DO ESTADO. CORPO ESTRANHO NO INTERIOR DO PACIENTE. ESQUECIMENTO DE OBJETO APÓS CIRURGIA. COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE O DANO E A CONDUTA ESTATAL. DANO MORAL CONFIGURADO. REDUÇÃO DO QUANTUM. ART. 1022 DO CPC. AUSÊNCIA DE OFENSA. SÚMULA 7/STJ. INCIDÊNCIA. IMPUGNAÇÃO DEFICIENTE. SÚMULA 182/STJ. APLICAÇÃO.
+1.Trata-se de Agravo contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo entendendo pela ausência de refutação específica aos fundamentos da inadmissibilidade do Recurso Especial.
+2. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+3. A Corte Especial do Superior Tribunal de Justiça pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018)
+4. Deveria a parte rebater todos os fundamentos do decisum no sentido de que: a) a decisão recorrida mereceria resultado diverso, por existir acórdão de órgão fracionário do STJ com similitude fática e jurídica, cujo teor decisório se realizou de forma divergente daquela solução apresentada; ou b) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada para lhe dar respaldo, não se evidenciando o suposto maltrato às normas legais enunciadas.
+5. Agravo Interno não provido. (AgInt no AREsp 1.778.346/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1/7/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, o agravante não infirmou devidamente a alegação de que incidiria o óbice da Súmula 7/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. A Corte Especial do STJ firmou orientação de que a decisão de inadmissão do recurso especial é incindível em capítulos autônomos, tornando imprescindível a impugnação específica de todos os seus fundamentos (cfr. EAREsps 701.404/SC, 746.775/PR e 831.326/SP, Rel. p/ acórdão Min. Luis Felipe Salomão).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.461.155/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 9/9/2019.)
+De acordo com a jurisprudência do STJ, a impugnação tardia dos fundamentos da decisão que negou seguimento ao Recurso Especial (somente por ocasião do Agravo Interno), além de caracterizar imprópria inovação recursal, não se presta a sanar a deficiência do Agravo em Recurso Especial, ante a preclusão consumativa.
+Precedentes: AgInt no AREsp 2.232.193/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 9/3/2023; AgInt no AREsp 888.241/ES, Rel. Min. Marco Buzzi, Quarta Turma, DJe 19/4/2017; AgInt no AREsp 1.036.445/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 17/4/2017; AgInt no AREsp 1.006.712/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 16/3/2017.
+Verifica-se, portanto, que a decisão agravada não merece reforma.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
