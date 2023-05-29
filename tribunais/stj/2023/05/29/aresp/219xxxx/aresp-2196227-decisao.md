@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ERMINIO CASTRO (ERMÍNIO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, ERMINIO alegou a violação dos arts.489, 1022 e 1026 do NCPC e 169 do CC/2002, ao sustentar (1) negativa de prestação jurisdicional; (2) não se aplicar o instituto da decadência, pois a nulidade dos atos não se convalida com o tempo; (3) deve ser afastada a multa do art. 1026, § 2º, do NCPC; (4) o pedido principal foi de nulidade do negócio jurídico e a anulação da partilha era decorrência desse pedido.
+(1) Da negativa de prestação jurisdicional
+O recorrente sustenta que o Tribunal estadual foi omisso quanto ao pedido principal, qual seja, a nulidade do negócio jurídico envolvendo a venda de imóvel.
+Razão não lhe assiste.
+O Tribunal estadual assim consignou (1) nada obstante o recorrente afirme que o pedido da ação é a declaração de nulidade do negócio jurídico inválido, verifica-se que ele aforou ação anulatória de sentença homologatória de partilha amigável, confira-se:
+Primeiramente, frisa-se que, em que pese a alegação do apelante de que o pleito exordial é a declaração de nulidade de negócio jurídico inválido (matrícula do imóvel incluído na partilha que alega pertencer a si)  o qual seria nulo desde sua origem, tornando-se, consequentemente, incabível a aplicação da decadência  é possível inferir da inicial (EVENTO 149, pet 7):
+ERMÍNIO CASTRO  ..  vem mui respeitosamente à presença de Vossa Excelência  ..  propor a presente:
+AÇÃO ANULATÓRIA DE SENTENÇA HOMOLOGATÓRIA DE PARTILHA AMIGÁVEL com fulcro nos Artigos 486 e 487, inciso II, do Código de Processo Civil, em face de  ..  2.1 - "O juízo competente para conhecer da ação anulatória de sentença homologatória de partilha amigável é o do inventário, cabendo a esta mesma unidade jurisdicional processar e julgar a respectiva demanda cautelar preparatória" (Conflito de competência n. 02.007593-6, de Tubarão. Relator. Desembargador Monteiro Rocha) 2.1.1 - Dispões o Art. 486 do CPC: "Os atos judiciais, que não dependem de sentença, ou em que esta for meramente homologatória, podem ser rescindidos, como os atos jurídicos em geral, nos termos da lei civil".
+2.1.2 - Nesse sentido, o Superior Tribunal de Justiça já decidiu: "A ação cabível a atacar sentença homologatória de transação é a anulatória e não rescisória." (Resp n. 9.651-SP - Rel. Min. Cláudio Santos).
+2.1.3 - In comentários ao CPC, Art. 486: 3ª. Para anular a partilha, a ação cabível é a de nulidade, e não a rescisória (RTJ 114/1.108, JTJ 167/126).
+2.2 - A providência jurisdicional apta a desconstituir sentença meramente homologatória de acordo realizado entre as partes é a ação anulatória prevista no art. 486 do CPC, que tem por base a existência de um dos vícios do consentimento - dolo, coação, erro, etc.  ..
+Desse modo, uma vez evidenciada que a intenção do demandante quando da propositura da demanda era desconstituir sentença homologatória de partilha amigável em processo de arrolamento sumário, por defeito no negócio jurídico (erro e dolo), não se vislumbra qualquer modificação no decisum vergastado, conforme se verá adiante
+Dispõe o art. 2.015 do Código Civil que "Se os herdeiros forem capazes, poderão fazer partilha amigável, por escritura pública, termo nos autos do inventário, ou escrito particular, homologado pelo juiz".
+(..)
+Já, a respeito da anulabilidade da partilha amigável, estabelecia o art. 1.029 da Lei Processual Civil revogada (equivalente ao art. 657 do CPC/2015), vigente à época da homologação da partilha e interposição da lide:
+(..)
+Ademais, o art. 2.027 do referido Codex prevê que: "A partilha é anulável pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos. Parágrafo único. Extingue-se em um ano o direito de anular a partilha"
+(..)
+Cumpre ressaltar que "a disposição prevista no art. 2.027 do Código Civil de 2002, bem como aquela disposta no art. 1.029 do Código de Processo Civil de 1973, tratam-se de normas especí cas inseridas no capítulo/título denominado "Do Inventário e da Partilha", afeta ao direito sucessório e aplicável à espécie" (TJSC, Apelação Cível n. 0015490-42.2012.8.24.0020, de Criciúma, rel. Rodolfo Cezar Ribeiro Da Silva Tridapalli, Quarta Câmara de Direito Civil, j. 6-12-2018, grifos acrescidos).
+Com efeito, o caso em tela restou muito bem analisado pela Togada de piso, cujo excerto passa a fazer parte também dessa decisão:
+A presente ação gira em torno da possível nulidade da sentença que, nos autos de inventário n. 033.03.002148-3, homologou o plano de partilha dos bens deixados por Alírio Chisner e determinou a adjudicação do imóvel, registrado sob a matrícula n. 3.844, para a Sra. Ondina Chisner.
+Pois bem. É sabido que, para anular a sentença que homologa a partilha nos autos de inventário, tem-se o prazo de 01 (um) ano a partir do trânsito em julgado. Acerca disso, colhe-se do artigo 2027 do CC, vigente na época:
+"Art.2.027. A partilha, uma vez feita e julgada, só é anulável pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos. Parágrafo único. Extingue-se em um ano o direito de anular a partilha."
+Portanto, considerando que aquele processo transitou em julgado no ano de 2003, deveria o requerente ter ajuizado a presente demanda no ano de 2004, o que não ocorreu.
+Ademais, não pode o requerente alegar o desconhecimento daquela ação, porquanto, conforme se veri ca nos autos n. 033.03.002148-3, na data de 18/10/2004 o próprio autor, postulando em causa própria, peticionou naquela ação, requerendo seu desarquivamento, o que foi deferido.
+Assim, mesmo que alegue que o início do prazo decadencial se deu quando do seu conhecimento da ação, deveria ter ajuizado a ação anulatória no ano de 2005.  ..  (EVENTO 199) (e-STJ, fls. 694/696)
+E ao apreciar os aclaratórios o acórdão impugnado frisou :
+No mais, sem maiores delongas, quanto ao julgado colacionado aos aclaratórios, tem-se que naquela hipótese a pretensão dos recorrentes consistia na declaração de nulidade do negócio jurídico, diversamente do presente caso - conforme pormenorizadamente explanado alhures -, não sendo aplicável à espécie. (e-STJ, fl. 774)
+Ficou claro e explícito no acórdão recorrido que a intenção do demandante quando da propositura da demanda era desconstituir sentença homologatória de partilha amigável em processo de arrolamento sumário, por defeito no negócio jurídico (erro e dolo), a pretensão fulminada pela decadência.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. RENÚNCIA À APOSENTADORIA. DECADÊNCIA PREVISTA NO ART. 103 DA LEI 8.213/91. INAPLICABILIDADE. INTERPRETAÇÃO RESTRITIVA. RECURSO IMPROVIDO. 1. Inexiste negativa de prestação jurisdicional quando o Tribunal de origem examina a questão supostamente omitida "de forma criteriosa e percuciente, não havendo falar em provimento jurisdicional faltoso, senão em provimento jurisdicional que desampara a pretensão da embargante" (REsp 1.124.595/RS, Rel. Min. ELIANA CALMON, Segunda Turma, DJe de 20/11/09). (..) (REsp n. 1.348.301/SC, relator Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 27/11/2013, DJe de 24/3/2014 - sem destaques no original)
+Afasta-se, portanto, a alegada violação.
+(2) Do art. 169 do CC/2002
+No ponto, observa-se que o preceitos citado não foi objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+No caso, aplicam-se as Súmulas nºs 282 do STF e 211 do STJ.
+Acrescente-se que o recorrente não impugnou de forma objetiva o principal fundamento do acórdão estadual a ocorrência da decadência o que atrai a aplicação das Súmulas nºs 283 e 284 do STF.
+(3) Do art. 1026, § 2º, do NCPC
+ERMÍNIO reclama que deve ser afastada a multa aplicada pelo Tribunal estadual, pois os embargos de declaração não tiveram cunho protelatório
+Quanto ao tema, esta Corte firmou o entendimento de que, na primeira oportunidade, é descabida a multa em referência quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração.
+Nesse sentido, é o enunciado da Súmula nº 98 desta Corte, in verbis: Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório. A corroborar, vejam-se os seguintes precedentes:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. VIOLAÇÃO DE SÚMULA E RESOLUÇÃO NORMATIVA. NÃO CABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. PLANO DE SAÚDE COLETIVO. EXONERAÇÃO DO EMPREGADO. AUSÊNCIA DE OPÇÃO, NO PRAZO REGULAMENTAR, POR MANTER A CONDIÇÃO DE BENEFICIÁRIO. EXTINÇÃO DO VÍNCULO COM A OPERADORA. POSSIBILIDADE. DIREITO DO EX-EMPREGADO AO EXERCÍCIO DA PORTABILIDADE DE CARÊNCIAS. DEVER DE COMUNICAÇÃO DA OPERADORA.  ..  8. Afasta-se a multa do art. 1.026, § 2º, do CPC/2015 quando não se caracteriza o intento protelatório na oposição dos embargos de declaração. 9. Recurso especial conhecido e parcialmente provido. (REsp n. 1.979.120/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/5/2022, DJe de 13/5/2022 sem destaque no original).
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e nessa extensão DAR-LHE PARCIAL PROVIMENTO apenas para afastar a aplicação da multa do art. 1026 , § 2º, do NCPC
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+INVENTÁRIO E PARTILHA. AGRAVO EM RECURSO ESPECIAL. NCPC. VIOLAÇÃO DOS ARTS. 489 E 1022 DO NCPC NÃO CONFIGURADA. AÇÃO ANULATÓRIA DE SENTENÇA HOMOLOGATÓRIA DE PARTILHA. DECADÊNCIA. AUSÊNCIA DE PREQUESTIOAMENTO DO ART. 169 DO CC/2002. SÚMULAS NºS 282 DO STF E 211 DO STJ. FALTA DE IMPUGNAÇÃO AO FUNDAMENTO CENTRAL DO ACÓRDÃO RECORRIDO. SÚMULAS NºS 283 E 284 DO STF. AFASTAMENTO DA MULTA DO ART. 1026, § 2º DO NCPC. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E DAR-LHE PARCIAL PROVIMENTO.
