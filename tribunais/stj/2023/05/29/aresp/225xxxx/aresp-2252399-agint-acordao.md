@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O  SENHOR  MINISTRO  SÉRGIO  KUKINA:  Trata-se  de  agravo  interno  manejado  por  CARLOS  LUCENTI  desafiando  decisão  de fls. 140/141, da  Presidência  do  STJ,  que  não  conheceu  do  recurso  especial,  sob  o  fundamento  de  incidência da Súmula 187/STJ, uma vez que  não  teria sido  juntado  comprovante  de  pagamento  do  preparo,  padecendo  a  insurgência  recursal  da  deserção.
+A  parte  agravante,  em  suas  razões,  sustenta que  "tratou-se  de  um  equívoco  por  parte  do  Agravante,  sendo  que  o  recolhimento  das  custas  de  preparo  ocorreu  à  época  da  interposição  do  Recurso  Especial,  mais  precisamente  em  19.10.2020"(fl.  149).
+Requer  a  reconsideração  do  decisum,  ou  a  submissão  do  feito  ao  julgamento  colegiado.
+Aberta  vista  à  parte  agravada  (fl.164),  decorreu  in  albis  o  prazo  para  impugnação  (fl.  165).
+EMENTA
+
+ TRIBUTÁRIO.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DO  COMPROVANTE  DE  PAGAMENTO DO PREPARO.  DESERÇÃO.  SÚMULA  187/STJ.
+1.  O  recurso  especial  não  foi  instruído  com  o  comprovante  de  pagamento do preparo .  A  parte,  embora  intimada  para  efetuar  o  recolhimento  em  dobro,  deixou  de  regularizá-lo  adequadamente  ,  em  descumprimento  ao  disposto  no  art.  1.007,  §  4º,  do  CPC.
+2.  Incidência  da  Súmula  n.  187/STJ:  "É  deserto  o  recurso  interposto  para  o  Superior  Tribunal  de  Justiça,  quando  o  recorrente  não  recolhe,  na  origem,  a  importância  das  despesas  de  remessa  e  retorno  dos  auto  s"
+3.  Agravo  interno  não  provido.
+VOTO
+O  SENHOR  MINISTRO  SÉRGIO  KUKINA(RELATOR):  A  irresignação  não  merece  acolhimento,  tendo  em  conta  que  a  parte  agravante  não  logrou  desenvolver  argumentação  apta  a  desconstituir  os  fundamentos  adotados  pela  decisão  recorrida,  que  ora  submeto  ao  Colegiado  para  serem  confirmados:
+Cuida-se  de  agravo  interposto  por  CARLOS  LUCENTI,  contra  decisão  que  inadmitiu  recurso  especial  com  fundamento  no  art.  105,  inciso  III,  da  Constituição  Federal.
+É,  no  essencial,  o  relatório.  Decido.
+Inicialmente,  de  acordo  com  os  Enunciados  Administrativos  do  STJ  n.  02  e  n.  03,  os  requisitos  de  admissibilidade  a  serem  observados  são  os  previstos  no  Código  de  Processo  Civil  de  1973,  se  a  decisão  impugnada  tiver  sido  publicada  até  17  de  março  de  2016,  inclusive;  ou,  se  publicada  a  partir  de  18  de  março  de  2016,  os  preconizados  no  Código  de  Processo  Civil  de  2015.
+Mediante  análise  do  recurso  de  CARLOS  LUCENTI,  a  petição  de  recurso  especial  foi  protocolada,  na  origem,  sem  o  comprovante  de  pagamento  das  custas  devidas  ao  STJ,  apesar  de  presente  a  guia  de  recolhimento.
+A  propósito,  este  Superior  Tribunal  de  Justiça  consolidou  o  entendimento  de  que  os  recursos  interpostos  para  esta  Corte  Superior  devem  estar  acompanhados  das  guias  de  recolhimento  devidamente  preenchidas,  além  dos  respectivos  comprovantes  de  pagamento,  ambos  de  forma  visível  e  legível,  sob  pena  de  deserção.  Nesse  sentido,  os  seguintes  precedentes:  AgRg  no  AREsp  570.469/DF,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  DJe  de  23/6/2020;  AgInt  no  REsp  1807942/RO,  relator  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  de  11/5/2020;  e  AgInt  no  AREsp  1572490/SE,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  20/3/2020.
+Ademais,  percebeu-se,  no  STJ,  haver  irregularidade  no  recolhimento  do  preparo.  A  parte,  embora  regularmente  intimada  para  sanar  referido  vício,  quedou-se  inerte.
+Dessa  forma,  o  recurso  especial  não  foi  devida  e  oportunamente  preparado,  incidindo,  na  espécie,  o  disposto  na  Súmula  n.  187  do  STJ,  o  que  leva  à  deserção  do  recurso.
+Caso  exista  nos  autos  prévia  fixação  de  honorários  advocatícios  pelas  instâncias  de  origem,  determino  sua  majoração  em  desfavor  da  parte  recorrente,  no  importe  de  15%  sobre  o  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal,  bem  como  eventual  concessão  da  gratuidade  da  justiça.
+Ante  o  exposto,  com  base  no  art.  21-E,  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  recurso.
+Publique-se.
+Intimem-se.
+Conforme  consignado  na  decisão  agravada  a  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  o  comprovante  de  pagamento  do  preparo  deve  ser  juntado  aos  autos  de  forma  visível  e  legível,  sob  pena  de  deserção.
+Consoante  mencionado  pela  decisão  agravada,  a  parte  recorrente  foi  intimada  a  realizar,  no  prazo  de  5  (cinco)  dias,  o  recolhimento  em  dobro  do  preparo,  sob  pena  de  não  conhecimento  do  recurso.  Não  obstante  regularmente  intimada,  não  o  fez,  em  descumprimento  ao  disposto  no  art.  1.007,  §  4º,  do  CPC.
+Dessa  forma,  o  recurso  especial  não  foi  devida  e  oportunamente  preparado,  incidindo,  na  espécie,  o  disposto  no  enunciado  n.  187/STJ  ("É  deserto  o  recurso  interposto  para  o  Superior  Tribunal  de  Justiça,  quando  o  recorrente  não  recolhe,  na  origem,  a  importância  das  despesas  de  remessa  e  retorno  dos  autos"),  o  que  leva  à  deserção  do  apelo  nobre.  A  propósito:
+SERVIDOR  PÚBLICO.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  DESERÇÃO.  RECURSO  ESPECIAL  NÃO  CONHECIDO.  SÚMULA  N.  187/STJ.  INCIDÊNCIA.  FALHA  NA  DIGITALIZAÇÃO.  AUSÊNCIA  DE  COMPROVAÇÃO.  ARGUMENTOS  INSUFICIENTES  PARA  DESCONSTITUIR  A  DECISÃO  ATACADA.  APLICAÇÃO  DE  MULTA.  ART.  1.021,  §  4º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  DESCABIMENTO.
+I  -  Consoante  o  decidido  pelo  Plenário  desta  Corte  na  sessão  realizada  em  09.03.2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  In  casu,  aplica-se  o  Código  de  Processo  Civil  de  2015.
+II  -  O  recurso  especial  não  foi  instruído  com  as  guias  de  custas  e  os  respectivos  comprovantes  de  pagamento.  Deserção.  Incidência  da  Súmula  n.  187  do  Superior  Tribunal  de  Justiça:  "É  deserto  o  recurso  interposto  para  o  Superior  Tribunal  de  Justiça,  quando  o  recorrente  não  recolhe,  na  origem,  a  importância  das  despesas  de  remessa  e  retorno  dos  autos".
+III  -  A  eventual  falha  na  digitalização  dos  autos  deve  ser  demonstrada  por  meio  de  certidão  comprobatória  do  tribunal  de  origem,  não  sendo  suficiente  para  tanto  a  mera  afirmação  da  parte  recorrente.
+IV  -  Não  apresentação  de  argumentos  suficientes  para  desconstituir  a  decisão  recorrida.
+V  -  Em  regra,  descabe  a  imposição  da  multa,  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil  de  2015,  em  razão  do  mero  improvimento  do  Agravo  Interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  no  caso.
+VI  -  Agravo  Interno  improvido.
+(AgInt  nos  EDcl  no  AREsp  n.  1.990.938/RJ,  relatora  Ministra  Regina  Helena  Costa,  Primeira  Turma,  julgado  em  6/6/2022,  DJe  de  8/6/2022).
+ANTE  O  EXPOSTO,  nega-se  provimento  ao  agravo  interno.
+É  o  voto.
