@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão dessa relatoria que não conheceu do recurso especial manejado por José Gaspar Vitor da Silva e outros.
+Os agravantes defendem que subsiste a necessidade de suspensão do presente recurso especial até uma posição final acerca da tese de incongruência entre o título executivo e a pretensão executória arguida pela União no Agravo de Instrumento n. 0803688-91.2019.4.05.0000, o qual ainda encontra-se em trâmite processual. Aponta a existência da RCL n. 41.704/RN interposta pelos exequentes contra o acórdão proferido pelo Tribunal a quo no referido Agravo de Instrumento, bem como destaca que o título executivo em questão (AgInt no REsp 1.585.353/DF) é objeto de discussão junto a esta Corte na AR 6.436/DF.
+Sustentam a inaplicabilidade da Súmula 7/STJ ao caso dos autos, pois buscam tão somente o exame da negativa de vigência à lei federal, visto a existência de norma jurídica expressa a regular a aplicação da verba honorária devida em Cumprimento de Sentença contra a Fazenda Pública, sendo vedada interpretações discricionárias.
+Sem impugnação (certidão à fl. 221).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. SERVIDOR PÚBLICO FEDERAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. VALOR DA CONDENAÇÃO. GRAU DE SUCUMBÊNCIA. AFERIÇÃO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acolhimento da tese trazida no apelo especial no sentido de que "o excesso apontado pela União é total, de forma que o proveito econômico a ser obtido é o próprio valor da condenação", exigiria o revolvimento do acervo fático e probatório dos autos, providência vedada no âmbito do recurso especial ante o óbice da Súmula 7/STJ.
+3. É assente nesta Corte o entendimento de que a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda e a existência de sucumbência mínima ou recíproca demandam revolvimento de matéria fática, o que enseja a aplicação da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, observa-se que a parte insurgente, aduzindo suposta prejudicialidade externa, defendeu nas razões do recurso especial que "a fim de evitar decisões antagônicas, forçoso suspender o trâmite deste recurso - que trata de matéria adjacente, qual seja, condenação em honorários sucumbenciais - até uma posição final, transitada em julgado, acerca da tese de incongruência entre o título executivo e a pretensão executória, arguidas pela UNIÃO FEDERAL no Agravo de Instrumento nº 0803688-91.2019.4.05.0000" (fl. 125).
+A par de tal alegação, consignou a decisão agravada "a desnecessidade de qualquer manifestação acerca da apontada prejudicialidade externa trazida nas razões recursais, uma vez que o Agravo n. 0803688-91.2019.4.05.0000, que deu sustentação ao pedido de suspensão do trâmite do presente recurso, foi autuado nesta Corte como REsp 1.894.913/RN, tendo sido apreciado e certificado o seu trânsito em julgado" (fl. 198).
+Para além disso, convém anotar que a Primeira Seção desta Corte, na sessão realizada em 12/4/2023, julgou procedente a AR 6.436/DF e, em juízo rescisório, negou provimento ao recurso especial que deu origem ao título executivo em questão.
+Assim, reitera-se a desnecessidade de suspensão do trâmite do presente recurso especial.
+Quanto aos demais aspectos, como bem observado pela decisão ora combatida, o acolhimento da tese trazida no apelo especial no sentido de que "o excesso apontado pela União é total, de forma que o proveito econômico a ser obtido é o próprio valor da condenação", exigiria o revolvimento do acervo fático e probatório dos autos, providência vedada no âmbito do recurso especial ante o óbice da Súmula 7/STJ.
+De igual modo, é assente nesta Corte o entendimento de que a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda e a existência de sucumbência mínima ou recíproca demandam revolvimento de matéria fática, o que enseja a aplicação da Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO DA FAZENDA PÚBLICA. DIFERENÇAS A TÍTULO DE COMPLEMENTAÇÃO DOS RECURSOS. FUNDEF. VIOLAÇÃO DO ART. 1.022, DO CPC/2015 NÃO CARACTERIZADA. QUESTÕES DEVIDAMENTE ANALISADAS. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE. VERBAS PARA MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO. RETENÇÃO DE PARCELA PARA O PAGAMENTO DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. VIOLAÇÃO A NORMATIVOS FEDERAIS. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. SUCUMBÊNCIA RECÍPROCA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+VI - A análise da existência ou não da sucumbência mínima ou recíproca implicaria a incursão no campo fático-probatório, o que é vedado pela Súmula 7, do STJ.
+VII - Agravo da União conhecido para conhecer parcialmente do Recurso Especial e, nessa parte, dar-lhe provimento. Não conhecido o Recurso Especial do Município de Piaçabuçu (REsp 1.868.935/AL, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/5/2021).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PARÂMETRO PARA FIXAÇÃO DOS JUROS DE MORA EM FACE DE CONDENAÇÃO DA FAZENDA PÚBLICA. IMPOSSIBILIDADE DE APLCIAÇÃO DO ÍNDICE DE 1% ATÉ A EDIÇÃO DA LEI 11.960/2009. PRETENSÃO EM CONTRARIEDADE COM A ORIENTAÇÃO PACIFICADA POR ESTA CORTE. IMPOSSIBILIDADE DE REVISÃO DO GRAU DE DECAIMENTO DAS PARTES PARA FINS DE READEQUAÇÃO DA VERBA HONORÁRIA. SUCUMBÊNCIA RECÍPROCA RECONHECIDA NA CORTE DE ORIGEM. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+ ..
+3. Conforme reiteradamente tem advertido a jurisprudência desta Corte, a análise da existência ou não da sucumbência mínima ou recíproca implicaria a incursão no campo fático-probatório, o que é vedado pela Súmula 7 do STJ.
+4. Agravo Interno do Particular a que se nega provimento (AgInt no REsp 1.703.791/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/11/2020).
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
