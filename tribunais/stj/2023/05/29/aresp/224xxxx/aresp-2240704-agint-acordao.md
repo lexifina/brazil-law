@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por EMÍLIA TATIANE SILVA contra decisão de relatoria da Presidência desta Corte que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182/STJ (fls. 382-383).
+Em breve resumo do processado, extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fls. 300-301):
+AGRAVO INTERNO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. RESCISÓRIA. DECADÊNCIA. PRAZO BIENAL. TERMO INICIAL. APLICAÇÃO DE DECISÃO DO STF EM CONTROLE DE CONSTITUCIONALIDADE. EXCEPCIONALIDADE ADSTRITA AO CUMPRIMENTO DE TÍTULO JUDICIAL INCOMPATÍVEL COM A CONSTITUIÇÃO. AGRAVO IMPROVIDO.
+1. O direito de propor ação rescisória está sujeito ao prazo decadencial bienal, conforme regulado pelo artigo 975 do CPC/2015, contado a partir do escoamento do prazo para qualquer recurso contra o último pronunciamento judicial, na forma da Súmula n.º 401 do c. STJ.
+2. Excepcionalmente, a legislação adjetiva diferiu a contagem desse prazo bienal, fixando termos iniciais diferenciados, conforme se observa, dentre outros, nos seus artigos 525, § 15, e 535, § 8º, do CPC.
+3. Referidos dispositivos legais disciplinam situação específica de impugnação ao cumprimento de obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo STF como incompatível com a Constituição Federal. Objetivou-se possibilitar ao devedor se desincumbir do cumprimento de obrigação judicial imposta em decorrência de lei ou ato normativo cuja inconstitucionalidade venha a ser reconhecida pelo e. Supremo Tribunal Federal. Tal exceção não abarcou a situação do credor cujo crédito não tenha sido, parcial ou integralmente, reconhecido, também, por força de lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo STF como incompatível com a Constituição Federal.
+4. O instituto da coisa julgada visa à estabilização das decisões e à pacificação social. Em razão do princípio constitucional da intangibilidade da coisa julgada (artigo 5º, XXXVI, da CF), a sua relativização é medida excepcional, que depende de previsão legal para seu reconhecimento (confira-se, STF, 1ª Turma, relator Ministro Luiz Fux: AgR/RE 603188, DJe12.05.2011; AgR/MS 33350, DJe 05.09.2017), de sorte que as disposições legais relacionadas à desconstituição de coisa julgada material devem ser interpretadas restritivamente, sendo inviável o alargamento do prazo decadencial de ajuizamento ou das hipóteses rescindendas.
+5. Na medida em que a parte autora não pretende se ver desobrigada do cumprimento de título judicial incompatível com a CF, mas, sim, na qualidade de exequente, pretende ver majorada a condenação imposta em seu título judicial, não há qualquer amparo legal para o alargamento da contagem do prazo bienal da pretensão rescisória.
+6. Não demonstrado equívoco, abuso ou ilegalidade na decisão recorrida, de rigor sua manutenção.
+7. Agravo interno improvido.
+Não houve oposição de embargos de declaração.
+Nas razões do agravo interno, o agravante afirma que (fl. 389):
+Em que pesem os argumentos lançados pela MM. Presidente, a alegada "deficiência do cotejo analítico" foi devidamente impugnada pela agravante, nas razões do seu AREsp!!
+É o que se observa das razões do AREsp, conforme trecho reproduzido abaixo, extraído da fls. e-STJ Fl.362, § 5º e 6º:
+"Conforme fundamentação lançada pelo MM. Relator nas fls. 329/332, sob o argumento de que "Não basta a mera menção aos dispositivos legais ou a narrativa acerca da legislação federal" e " não efetuar o devido cotejo analítico conforme exigido pelo Colendo Tribunal da Cidadania, não bastando a mera transcrição de ementas", foi negado seguimento ao recurso especial.
+Porém Nobres Julgadores, não há que se falar em incidência da Súmula 284/STF para o recurso interposto, tendo em vista a fundamentação do Resp. dar a exata compreensão da controvérsia, com o devido cotejo analítico, não se limitando a mera menção do dispositivo legal federal. Demonstro:" - (grifei).
+ .. .
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada não apresentou contraminuta.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial por entender que há incidência da Súmula n. 284/STF e deficiência de cotejo analítico.
+No caso dos autos, conforme consignado na decisão agravada, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a deficiência do cotejo analítico.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
