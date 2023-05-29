@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ CLAUDIO HERMAN POLDERMAN contra a decisão monocrática de fls. 96/100, de minha lavra, em que não conheci do presente recurso em habeas corpus, com fundamento no art. 34, inciso XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Extrai-se dos autos que o recorrente foi denunciado pela suposta prática de infração penal dos artigos 138 c/c art. 141, II, duas vezes, na forma do art. 69, todos do Código Penal - CP, tendo o Juízo de Direito da Comarca de Teresópolis/RJ imposto ao ora recorrente a medida cautelar de suspensão do exercício da advocacia em qualquer processo judicial ou administrativo na Comarca de Teresópolis, seja no patrocínio de terceiro seja em causa própria (fls. 16/17).
+Impetrado habeas corpus originário, a Desembargadora relatora, monocraticamente, negou seguimento ao writ (fl. 36).
+Interposto agravo regimental, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO conheceu e desproveu o recurso.
+No presente recurso, a Defesa sustenta que "a autoridade coatora na pessoa do juiz Márcio Olmo Cardoso impôs a medida cautelar de suspensão do exercício da advocacia contra o paciente, mas somente em Teresópolis com o claro intuito de impossibilitar que o paciente pudesse embargar ou recorrer, em resumo, se defender de ataques ao seu patrimônio com expedientes totalmente viciados, produzidos pela própria autoridade coatora" (f. 68).
+Requer seja conhecido e provido o presente recurso para "reformar a decisão ora recorrida por violar a Constituição Federal, nos artigos apontados e nos princípios da ampla defesa e presunção de inocência e, em consequência, conceder a ordem de habeas corpus para a cassação da suspensão do exercício da advocacia, imposta ao paciente" (fl. 69).
+O Ministério Público Federal opinou pelo não conhecimento do recurso ordinário em habeas corpus (fls. 91/94)
+Por decisão monocrática, não conheci do presente recurso em habeas corpus, com fundamento no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça (fls. 96/100).
+No presente recurso, o agravante busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MEDIDA CAUTELAR DE SUSPENSÃO DO EXERCÍCIO DA ADVOCACIA. AUSÊNCIA DE OFENSA CONCRETA, ATUAL OU IMINENTE, À LIBERDADE DE LOCOMOÇÃO. NÃO CABIMENTO DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inadequada a utilização do habeas corpus quando não há, sequer remotamente, ameaça ao direito de ir e vir do paciente, como na hipótese de suspensão do exercício da advocacia em processo judicial ou administrativo em que o acusado atue como tal na Comarca de Teresópolis.
+2. Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos apresentados pelo agravante, o agravo regimental não merece provimento, devendo a decisão ser mantida.
+Conforme relatado, busca-se, no presente recurso em habeas corpus, a concessão da ordem para cassar a decisão que determinou a suspensão do exercício da advocacia imposta ao recorrente, sob alegação de ofensa aos princípios da ampla defesa e da presunção de inocência.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO entendeu que a decisão atacada não revela flagrante ilegalidade com ofensa concreta, atual ou iminente, à liberdade de locomoção do Paciente, sob a seguinte fundamentação:
+"Conforme se depreende da análise dos autos, o Paciente foi denunciado em 1º grau nos autos da ação penal nº 0002943- 64.2021.8.19.0061 por suposta infração ao art. 138 c/c art. 141, II, duas vezes, na forma do art. 69, todos do Código Penal (indexador nº 7 - fls. 01/02).
+O Juízo de 1º grau lhe impôs a medida cautelar diversa da prisão, nos moldes do art. 319, VI, do Código de Processo Penal, de suspensão do exercício da advocacia em qualquer processo judicial ou administrativo em que o acusado atue como tal na Comarca de Teresópolis, seja no patrocínio de terceiro seja em causa própria (indexador nº 17 - fls. 01/03).
+O Habeas Corpus possui natureza de ação constitucional autônoma de impugnação, vocacionada à tutela da liberdade de locomoção, protegendo o ir, vir e permanecer do agente.
+A decisão atacada não revela flagrante ilegalidade com ofensa concreta, atual ou iminente, à liberdade de locomoção do Impetrante/Paciente, e, portanto, não é passível de interposição de Habeas Corpus.
+Por oportuno, frise-se que o Relator exerce papel proeminente na condução do processo submetido à sua competência, possuindo amplos poderes de instrução e condução procedimental, no exercício dos quais pode deixar de conhecer do Habeas Corpus impetrado, sem que a decisão ofenda ao Princípio da Colegialidade.
+Nestes termos, portanto, reitero a decisão agravada, não conhecendo do habeas corpus." (fls. 56/57)
+Da análise dos trechos acima transcritos, verifica-se que o acórdão impugnado está alinhado com a jurisprudência desta Corte, firmada no sentido de que é inadequada a utilização do habeas corpus quando não há, sequer remotamente, ameaça ao direito de ir e vir do paciente, como na hipótese de suspensão do exercício da advocacia em processo judicial ou administrativo em que o acusado atue como tal na Comarca de Teresópolis. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RESTITUIÇÃO DE VEÍCULO APREENDIDO. AUSÊNCIA DE RESTRIÇÃO AO DIREITO DE IR E VIR. NÃO CABIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é cabível o habeas corpus, porquanto a situação concreta não evidencia nenhuma possibilidade de restrição ao direito de ir e vir do paciente, pois o objeto exclusivo da impetração é a restituição de veículo apreendido no processo, como consectário da condenação.
+2. Agravo regimental não provido.
+(AgRg no HC n. 740.462/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSO PENAL. AÇÃO PENAL ORIGINÁRIA NO TJSP. MANDAMUS COM OBJETIVO ANULAR CAUTELAR DE BUSCA E APREENSÃO, E DECLARAR ILÍCITO O ACESSO A EVENTUAIS INFORMAÇÕES CONTIDAS NOS EQUIPAMENTOS ELETRÔNICOS APREENDIDOS. INEXISTÊNCIA DE RISCO CONCRETO E DIRETO À LIBERDADE DE LOCOMOÇÃO. DESVIRTUAMENTO E USO ABUSIVO DO REMEDIO HERIOCO. EXISTÊNCIA DE RECURSO PRÓPRIOS E CABÍVEIS PARA ATACAR DECISÃO QUE ALEGA SER ILEGAL. AGRAVO DESPROVIDO.
+1. Tratando-se de habeas corpus substitutivo de recurso próprio a impetração não deve ser conhecida, segundo atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, sendo razoável tão somente a verificação da existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. O pedido deduzido na impetração busca anular a medida cautelar que determinou a busca e apreensão levada a cabo em desfavor do Paciente ou que seja declarado ilícito o acesso e extração de conversas e dados dos aparelhos telefônicos, notebooks, equipamentos eletrônicos apreendidos, procedimento que, contudo, não se coaduna com a finalidade do remédio heroico.
+3. Inexistindo constrangimento direto e concreto ao direito de ir e vir do recorrente, incabível a utilização do mandamus para finalidades outras, como no presente caso em que se pretende a vedação de acesso e extração de conversas nos equipamentos eletrônicos apreendidos. A defesa tem a seu dispor os meios recursais cabíveis para insurgir-se contra os atos que considera ilegais, devendo ficar restringida a finalidade do remédio heroico para os casos de ilegalidade, concreta e direta, ao direito de locomoção. Precedentes.
+4. Incabível o uso do habeas corpus para "anular diligência policial de busca e apreensão realizada no ano de 2013, com o fim de prevenir eventual superveniência de persecução penal que resulte em restrição à sua liberdade, por meio de uma suposta reciclagem dos elementos de prova ali obtidos, sem apontar quaisquer evidências de ameaça concreta ao seu direito de locomoção, mas apenas conjecturas hipotéticas, o que não é suficiente para justificar a utilização do remédio constitucional" (AgRg no RHC 136.520/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/2/2021).
+5. Agravo desprovido.
+(AgRg no HC n. 650.067/SP, de minha relatoria, Quinta Turma, julgado em 22/2/2022, DJe de 2/3/2022).
+PROCESSUAL CIVIL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PRECEDENTES. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APLICAÇÃO DE MEDIDA ATÍPICA DO INCISO IV DO ART. 138 DO NCPC. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO DO PACIENTE. AUSÊNCIA DE VIOLAÇÃO DO DIREITO DE IR E VIR. HABEAS CORPUS NÃO CONHECIDO. 1.
+Não é admissível, em regra, a utilização do habeas corpus como sucedâneo de recurso ordinário cabível. Precedentes.
+2. A jurisprudência desta eg. Corte Superior tem orientação no sentido de que é inadequada a utilização do habeas corpus quando não há, sequer remotamente, ameaça ao direito de ir e vir do paciente, como na hipótese de restrição ao direito de dirigir veículo automotor.
+3. O Habeas Corpus não é sucedâneo do recurso adequado.
+4. Habeas corpus não conhecido.
+(HC n. 411.519/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/9/2017, DJe de 3/10/2017).
+Desse modo, inexiste constrangimento ilegal que autorize o provimento do recurso e a concessão do habeas corpus.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
