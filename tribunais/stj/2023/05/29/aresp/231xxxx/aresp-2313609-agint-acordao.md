@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo MUNICÍPIO DE VOTUPORANGA contra  decisão  da  Presidência  do  STJ,  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  face  da incidência da Súmula 284 do STF e  da  falta  de  prequestionamento  da  matéria  (e-STJ  fls.  42/44).
+Na decisão, a Presidência consignou que (e-STJ fls. 43/44):
+aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+No  agravo  interno,  o recorrente alega que teria impugnado o acórdão recorrido, aduzindo, para tanto, que (e-STJ  fls. 48/49):
+2.3. em contraponto ao acórdão guerreado que indeferiu o arresto executivo sob alegação de que "não esgotadas todas as possibilidades para citação do executado", o recorrente esclareceu no REsp (item 3.2) que em nenhum momento a legislação posta e ou esta Corte Cidadã impõe que para que seja deferido o pedido de deferimento do arresto executivo online é necessário o esgotamento de todas as formas de tentativa de localização do devedor, como: (a) tentativa de localização por carta no endereço do devedor; (b) pesquisa de endereço via InfoJud; (c) tentativa de localização do devedor via oficial de justiça; e (d) certificação do meirinho de que o devedor tenta se ocultar. Ao revés, basta que haja prévia tentativa frustrada de localização do devedor no endereço por ele informado no cadastro municipal, o que ocorreu no caso, estando cumprido os requisitos para realização do arresto executivo.
+2.4. Esclareceu no REsp (itens 3.3, 3.4 e 3.5) que o arresto executivo online, quando se trate de execução fiscal, é regulado especificamente pelo arts. 7º, III, e 11, I, da Lei 6.830/80  ..
+2.5. Repisou que no REsp (item 3.8) interposto que esta Corte Cidadã possui firme orientação sobre a possibilidade de deferimento de arresto executivo sobre e bens do executado mesmo antes que sejam esgotadas todas as tentativas de citação, desde que tenha havido efetiva tentativa infrutífera (conforme ocorreu no caso)  ..
+No mais, diz que, "ao contrário do que entendeu a Presidente desta Corte, o recorrente impugnou todos os fundamentos da decisão combatida, estando devidamente prequestionada toda a matéria suscitada pelo recorrente (ao menos fictamente, nos termos do que autoriza o art. 1.025 do nCPC), sendo de rigor a reforma da r. decisão monocrá tica terminativa que não conheceu do recurso (item 2.2 do REsp interposto)." (e-STJ fl. 50).
+Sem  impugnação  .
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não se conhecer do seu recurso.
+2. Situação em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na situação dos autos, o agravo interno não merece ser conhecido.
+Com efeito, no decisum ora recorrido, a Presidência desta Corte conheceu do agravo para não conhecer do recurso especial em face da incidência da Súmula 284 do STF e da ausência de prequestionamento da matéria "sob o viés pretendido pela parte recorrente" (e-STJ fls. 43/44).
+Contudo, da leitura das razões do agravo interno, é possível verificar que o recorrente deixou de impugnar esse segundo fundamento da decisão agravada, limitando-se a dizer que toda a matéria suscitada pelo recorrente está "devidamente prequestionada".
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão questionada, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido" (AREsp 212401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+Acrescento que "a mera alegação genérica da existência de prequestionamento não é suficiente para impugnar o óbice da Súmula 211 do STJ, sendo imprescindível a efetiva demonstração quanto ao modo como teria havido a apreciação pelo Tribunal de origem, notadamente por meio da transcrição dos excertos do acórdão recorrido." (AgInt no AREsp n. 1.724.002/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do CPC/2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
