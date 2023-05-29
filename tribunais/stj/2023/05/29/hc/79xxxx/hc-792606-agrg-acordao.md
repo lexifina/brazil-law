@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus, interposto por Jonas Alberto Konzen Werlang, contra decisão deste Relator que denegou a ordem. Esta, a ementa da decisão (fl. 593):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA. QUALIFICADORA DEVIDAMENTE COMPROVADA. AGRAVANTES RECONHECIDAS. CONCRETOS FUNDAMENTOS.
+Ordem denegada.
+Alega o agravante que há ilegalidade na fixação da pena, pois caracterizado o bis in idem. Sustenta que o fato de a vítima ser pessoa idosa elevou a pena em razão da ascendência e também por ser a vítima idosa. Por fim, requer também o afastamento pela qualificadora de rompimento de obstáculo, por ausência injustificada de exame direto.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECONHECIMENTO DA QUALIFICADORA COM A DEVIDA FUNDAMENTAÇÃO. AGRAVANTES RECONHECIDAS. CONCRETOS FUNDAMENTOS.
+1. Não há como proceder ao afastamento de agravantes que foram comprovadas, diante das provas dos autos, no caso, vítima idosa e também ascendente, pois a agravante é aplicada em razão da vulnerabilidade da pessoa naquela situação em que se encontra, além da relação familiar, o que torna o delito ainda mais inacreditável, por parte da sociedade.
+2. Agravo regimental improvido.
+VOTO
+Não há como proceder ao afastamento de agravantes que foram comprovadas, diante das provas dos autos, no caso, vítima idosa e também ascendente, pois a agravante é aplicada em razão da vulnerabilidade da pessoa naquela situação em que se encontra, além da relação familiar, o que torna o delito ainda mais inacreditável, por parte da sociedade como um todo. A propósito:
+HABEAS CORPUS. MOEDA FALSA. ART. 289, § 1º, DO CÓDIGO PENAL. FÉ PÚBLICA. BEM JURÍDICO TUTELADO. ESTADO, PESSOA JURÍDICA DIVERSA OU PESSOA FÍSICA. VÍTIMAS. PREJUÍZO NOTÓRIO. AGRAVANTES. ARTS. 61, INCISO II, ALÍNEAS "E" e "H", TAMBÉM DO CP. CRIME PRATICADO CONTRA ASCENDENTE MAIOR DE 60 ANOS. INCIDÊNCIA. POSSIBILIDADE.
+A fé pública do Estado é o bem jurídico tutelado no delito do art. 289, § 1º, do Código Penal, o que não induz à conclusão de que o Estado seja vítima exclusiva do delito.
+Em virtude da diversidade de meios com que a introdução da moeda falsa em circulação pode ser perpetrada, não há como negar que vítima pode ser, além do Estado, uma pessoa física, ou um estabelecimento comercial, dado o notório prejuízo experimentado por esses últimos.
+Não há como negar que a pessoa a quem, eventualmente, são passadas cédulas ou moedas falsas pode ser elemento crucial e definidor do grau de facilidade com que o crime será praticado, e a fé pública, portanto, atingida.
+No tocante ao agravamento da reprimenda quando o ofendido é ascendente, descendente irmão ou cônjuge, a preocupação do legislador foi a de punir com mais rigor aquele que quebra, ou ofende, o natural vínculo de afeto e de cumplicidade mútuo que deve existir nas relações familiares.
+No caso de se praticar um crime contra criança, maior de 60 anos, enfermo ou mulher grávida, a norma, claramente, visou a proteger aquele que é naturalmente mais vulnerável, punindo, com maior rigor, o agente do delito.
+Apesar de já destacada a essência motivadora dessa agravante, cumpre lembrar que o critério de aplicação, em caso de pessoa idosa, é objetivo, e nesta hipótese, cronológico. In casu, a vítima direta é a avó do paciente, que contava 68 anos à época do crime. Habeas Corpus não conhecido.
+(HC n. 211.052/RO, Ministro Sebastião Reis, Relator p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/9/2014)
+Assim, inexistente constrangimento ilegal. Também de acordo com os fatos trazidos pela instância ordinária, verifica-se que a qualificadora foi devidamente comprovada no presente caso. Confira-se o julgado (fl. 530):
+ ..
+Com relação ao primeiro ponto de irresignação recursal, a saber, o reconhecimento da qualificadora de rompimento de obstáculo, faz-se oportuno destacar que o Laudo Pericial n. 9120.20.412, confeccionado por meio da análise das imagens do local dos fatos, concluiu a existência de "convergências apontando que houve crime contra o patrimônio, por meio de arrombamento" (autos n. 5002111-96.2020.8.24.0042, evento 43, LAUDO1 - sublinhou-se).
+O sinal de arrombamento na fechadura da porta frontal do imóvel é confirmado, ainda, pela fotografia colacionada ao Inquérito Policial, especialmente no evento 43, LAUDO1 - fl. 4.
+Ademais, é assentado pelo art. 167 do Código de Processo Penal, conforme ocorreu in casu, que "não sendo possível o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta".
+Não bastasse, o próprio apelante, no seu interrogatório judicial, inferiu serem verdadeiros os fatos narrados na denúncia, confessando a prática delituosa, que ocorreu com destruição de obstáculo à subtração da coisa, já que ele confirmou que se dirigiu à residência de sua genitora "pois sabia que ela não estava em casa na ocasião dos fatos" (evento 73 - VIDE05).
+Do mesmo modo, a vítima A. W., mãe do apelante, quando ouvida judicialmente, narrou que, "no momento dos fatos, não estava em casa, e, quando retornou, visualizou o réu saindo do local com a sua televisão; que estavam consigo o seu companheiro e a sua amiga A. B.; que A. chamou a polícia; que o réu arrombou a porta para adentrar no imóvel; que a porta estava trancada  .. " (transcrições extraídas da sentença de evento 144, conferida com a mídia audiovisual de evento 73 - VIDE01 - sublinhou-se).
+Na mesma linha foi o depoimento da testemunha A. G. P. B., que declarou, sob o crivo do contraditório, que o apelante "arrombou a porta do apartamento de A. e deixou a janela aberta" (excerto de transcrição extraída da sentença de evento 144, conferida com a mídia audiovisual de evento 73 - VIDE02 - sublinhou-se).
+No mesmo norte foram as declarações dos policiais miltiares C. de A. e C. P., que atenderam a ocorrência, os quais, apesar de não terem visto o arrombamento, confirmaram a violação da abertura na porta (evento 73 - VIDEOS3 E 4).
+Destarte, embora não se desconheça a imprescindibilidade do exame de corpo de delito em crimes não transeuntes (art. 158 do Código de Processo Penal), a prova supracitada demonstra, estreme de dúvidas, o rompimento de obstáculo à subtração.
+Nesse contexto, em que a confissão do apelante está corroborada pela palavra das vítimas, pelo laudo de Perícia Indireta em Local de Crime e pelas fotos colacionadas nos autos, não há como acolher a tese defensiva de que o arrombamento não foi devidamente comprovado, motivo pelo qual a respectiva qualificadora deve ser mantida incólume.
+ ..
+Não houve dúvida alguma, por parte da instância ordinária, quanto à comprovação da qualificadora de arrombamento, sendo indevida a intervenção desta Corte Superior. Por fim, inexistente bis in idem sobre as exceções de escusa absolutória e da agravante, pela idade da vítima, já que a primeira diz respeito a uma análise se a pena seria ou não aplicada; enquanto a segunda, ao agravamento da pena já aplicada, por comprovada a condenação.
+Ante o exposto, nego provimento ao agravo regimental.
