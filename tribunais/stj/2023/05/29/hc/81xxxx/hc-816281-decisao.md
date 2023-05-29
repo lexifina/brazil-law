@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 545):
+LEONARDO GUILHERME ROBERTO e LARISSA FERNANDA SILVA SOUZA foram condenados, cada um, ao cumprimento de 02 anos e 06 meses de reclusão, em regime inicial fechado, mais 250 dias -multa, no piso, como incursos no art. 33, caput, da Lei nº 11.343/06, negado o recurso em liberdade.
+Foram, também, absolvidos da acusação de associação para o tráfico (artigo 35, caput, ambos da Lei IV 11.343/06), com base no art. 386, inc. VII, do CPP.
+Inconformados, apelam os réus pedindo absolvição por falta de provas. Subsidiariamente, pleiteiam regime aberto.
+Regularmente processados e respondidos os recursos, manifestou-se a douta Procuradoria de Justiça pelo improvimento de ambos os apelos.
+É o relatório.
+Consta dos autos que LARISSA FERNANDA SILVA SOUZA foi condenada à pena de 2 anos e 6 meses de reclusão, em regime inicial fechado, mais 250 dias-multa, como incursa no art. 33, §4º, da Lei n. 11.343/06, negado o recurso em liberdade.
+Sustenta a parte impetrante a ocorrência de constrangimento ilegal, sob o argumento de que não houve fundamentação idônea para a fixação do regime mais gravoso, nem mesmo para a negativa de substituição da pena corporal por restritivas de direitos.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja fixado o regime inicial aberto e substituída a pena corporal por restritivas de direitos.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pela não admissão do writ, mas, em seguida, pela concessão da ordem de habeas corpus ex officio.
+No que tange ao regime inicialmente escolhido para o resgate da reprimenda, não se admite a imposição de regime mais gravoso do que o previsto para o quantum de pena aplicada apenas em razão da gravidade abstrata do delito, conforme entendimento consolidado nas Súmulas 440/STJ, 718 e 719/STF.
+Quanto ao tema, constou do acórdão impugnado (fls. 548/549):
+A pena base de cada condenado foi fixada no patamar mínimo, 05 anos de reclusão mais 500 dias-multa, no piso.
+Nada computado na segunda fase.
+Preenchidos os requisitos legais, foi aplicado o redutor do §4º, do art. 33, da Lei nº 11.343/06, no patamar de 1/2, índice proporcional à nocividade das drogas envolvidas na conduta, sobretudo o crack, e à razoável quantidade apreendida, nos termos do art. 42 do mesmo diploma legal, o que resultou penas definitivas de 02 anos e 06 meses de reclusão, mais 250 dias-multa, no piso, para cada réu.
+O regime inicial fechado é o único compatível com o delito de tráfico de entorpecentes, equiparado aos hediondos, que tanto mal tem proporcionado à sociedade, pois trata-se de crime que fomenta outras espécies de ilícitos penais, provoca a degradação do indivíduo e da família brasileira, desvia a juventude da busca de objetivos lícitos e produtivos em favor bem comum, tudo em troca de um único escopo, o lucro do traficante.
+Quem promove este sistema e estimula a degradação alheia concretiza tais malefícios em merece repreensão severa.
+Some-se, ainda, na escolha do regime mais gravoso, a natureza nociva do crack e da cocaína, pois em recente decisão o Superior Tribunal de Justiça estabeleceu que "A quantidade e/ou natureza de drogas apreendidas constitui elemento idôneo para justificar a imposição de regime mais gravoso, de acordo com o disposto no art. 42 da Lei de Drogas e no art. 33, §3º, do Código Penal -CP (.)" (ST J - HC 414347 / SP - Ministro JOEL ILAN PACIORNIK - Dle 21/02/2018).
+Sob os mesmos fundamentos, não se cogita de substituição da pena privativa de liberdade por restritivas de direitos, medida insuficiente no campo da prevenção e repressão do presente delito.
+Na hipótese, verifica-se que, para além da questão pertinente à gravidade abstrata do delito, o regime foi fixado diante da suposta hediondez do crime de tráfico de drogas e da natureza da droga apreendida (crack e cocaína).
+Inicialmente, quanto ao caráter hediondo do delito, verifica-se que a condenação se deu a teor do § 4º do art. 33 da Lei n.º 11.343/06.
+Nos termos da consolidada jurisprudência desta Corte, o delito de tráfico praticado na forma privilegiada não tem caráter hediondo. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CARÁTER HEDIONDO DO TRÁFICO PRIVILEGIADO. AFASTAMENTO DA HEDIONDEZ. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. NÃO CABIMENTO. DENÚNCIA RECEBIDA. EXISTÊNCIA DE CONDENAÇÃO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Afasta-se o caráter hediondo do delito de tráfico ilícito de entorpecentes quando há a incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 (STF, HC n. 118.533/MS).
+2. O tráfico ilícito de drogas na forma privilegiada não é crime equiparado a hediondo.
+3. Embora o acordo de não persecução penal possa ser aplicado a fatos anteriores à vigência da Lei n. 13.964/2019, a denúncia não pode ter sido recebida.
+4. Agravo regimental parcialmente provido para afastar o caráter hediondo da condenação por tráfico privilegiado."
+(AgRg no REsp n. 1.907.557/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PACIENTE CONDENADO POR TRÁFICO PRIVILEGIADO E TRÁFICO DE DROGAS. REINCIDÊNCIA ESPECÍFICA NÃO CARACTERIZADA. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - O Col. STF, em decisão oriunda do Tribunal Pleno, no HC n. 118.533/MS, afastou o caráter hediondo dos delitos de tráfico ilícito de entorpecentes em que houvesse a incidência da causa especial de diminuição de pena prevista no § 4º, do art. 33, da Lei n. 11.343/2006.
+III - A Terceira Seção desta Corte, por decisão unânime, acolheu a tese segundo a qual o tráfico ilícito de drogas, na sua forma privilegiada, não é crime equiparado a hediondo, revisando o entendimento consolidado por ocasião do julgamento do REsp n. 1.329.088/RS - Tema 600, com o consequente cancelamento do enunciado n. 512 da Súmula deste Superior Tribunal de Justiça.
+ ..
+Agravo regimental do Ministério Público Federal desprovido."
+(AgRg no HC n. 592.398/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2020, DJe de 20/10/2020.)
+Diante desse fato, aliado à circunstância de que LARISSA FERNANDA SILVA SOUZA não é reincidente e que foi imposta sanção inferior a 4 anos de reclusão, verifica-se a possibilidade de estabelecimento de regime mais brando, no entanto, a considerar o quantum de pena aplicado , deveria ter sido arbitrado o aberto a fim de se evitar excesso de execução.
+Por oportuno, registre-se que a quantidade e variedade da droga são motivos que podem denotar que a substituição da pena não é suficiente para prevenção e repressão delitivas, a teor do que dispõe o art. 44, III, do Código Penal.
+Não obstante, muito embora uma das drogas apreendidas na espécie - isto é, o crack - realmente seja de natureza excepcionalmente deletéria, há de se ponderar essa elevada nocividade com a reduzida quantidade em que a substância foi apreendida no caso (3,7g de crack e 24g de maconha - fl. 21), em atenção aos princípios da razoabilidade e proporcionalidade.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. REGIME INICIAL. PRIMARIEDADE. PENA TOTAL SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. GRAVIDADE ABSTRATA E HEDIONDEZ DO DELITO. PEQUENA QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. POSSIBILIDADE DE FIXAÇÃO DO REGIME SEMIABERTO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Sedimentou-se, nesta Corte Superior, o entendimento segundo o qual, nos delitos previstos na Lei de Drogas, a fixação do regime prisional deve observar a regra imposta no art. 33, § 2º, do Código Penal, em conjunto com o art. 42 da Lei n. 11.343/2006, que determina a consideração, preponderantemente, da natureza e quantidade da droga. Assim, o regime prisional deverá ser fixado em obediência ao que dispõe o art. 33, §§ 2º e 3º e art. 59, ambos do CP, c/c o art. 42 da Lei n. 11.343/2006. In casu, resta evidenciado o constrangimento ilegal na imposição do regime fechado pelas instâncias ordinárias, pois, a fixação foi em razão da hediondez e da gravidade abstrata do delito, o que vai de encontro com a jurisprudência desta Corte Superior, mormente se considerarmos que a quantidade de droga apreendida não é elevada (7, 66g de crack). Dessa forma, e ainda, considerando que o paciente é primário, bem como o quantum de pena aplicado (5 anos de reclusão), correta a fixação do regime semiaberto, de acordo com o disposto no art. 33, § 2º, "b", do Código Penal. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto para cumprimento inicial da pena do paciente."
+(HC n. 471.586/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/10/2018, DJe de 6/11/2018)
+Desse modo, também é o caso de substituição da pena privativa de liberdade em restritiva de direitos, pois preenchidos os requisitos do art. 44 do CP.
+Ante o exposto, concedo o habeas corpus para alterar o regime inicial de cumprimento de pena para o aberto, substituindo-se a pena priva tiva de liberdade por restritiva de direitos, a ser estabelecida pelo juízo da execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
