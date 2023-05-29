@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto por G. SCHINDLER TRANSPORTES LTDA. e GERSON SCHINDLER contra a decisão de fls. 126-128 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão agravada.
+Nas razões do agravo, as partes insurgentes alegam que refutaram especificamente todos os fundamentos da decisão que inadmitiu o seu apelo especial.
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pelos agravantes, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por G. SCHINDLER TRANSPORTES LTDA e GERSON SCHINDLER, com base no art. 105, III, c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 51):
+AGRAVO INTERNO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO. REDISCUSSÃO. A INTERPOSIÇÃO DE AGRAVO INTERNO NÃO JUSTIFICA O REEXAME DA DECISÃO MONOCRÁTICA, PRINCIPALMENTE QUANDO A QUESTÃO FOI DEVIDAMENTE ENFRENTADA PELO RELATOR, COMO NO CASO. REVENDO ANTERIOR ENTENDIMENTO, NA ESTEIRA DO ATUAL POSICIONAMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA, NÃO HÁ FALAR NA APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, POIS A MERA UTILIZAÇÃO DE FERRAMENTA RECURSAL DISPONÍVEL NÃO CARACTERIZA PRÁTICA LESIVA E PROTELATÓRIA. JURISPRUDÊNCIA DA CORTE. NEGARAM PROVIMENTO AO AGRAVO INTERNO. UNÂNIME.
+Em suas razões de recurso especial (e-STJ, fls. 62-65), os agravantes alegaram existência de dissídio jurisprudencial, tendo apontado violação ao art. 6º do CPC de 2015.
+Sustentaram, em síntese, que cabe à parte agravada promover as diligências necessárias para localização de bens, não devendo ser transferido o encargo ao Poder Judiciário.
+Requereram, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 72-86).
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 106-120).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em relação à análise do recurso especial com base na alínea c do permissivo constitucional, constata-se não terem os agravantes efetivado a devida comprovação do dissídio jurisprudencial apontado.
+É preciso enfatizar que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no apelo excepcional interposto pelas partes insurgentes.
+Corroborando esses argumentos, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. VIOLAÇÃO AO ART. 131 DO CPC/73. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL. ILEGITIMIDADE PASSIVA. SÚMULAS 284 DO STF, 5 E 7 DO STJ. FALTA DE COTEJO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura violação ao art. 131 do CPC/73 quando, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, o acórdão tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide.
+2. Quanto ao dissídio jurisprudencial, a ausência de indicação de dispositivo de lei federal a que se tenha dado interpretação divergente pelo acórdão recorrido caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+3. A ausência de cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial.
+4. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1347048/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. COINCIDÊNCIA ENTRE AS PATENTES. INEXISTÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. JULGADOS DO MESMO TRIBUNAL. SÚMULA Nº 13/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As conclusões da Corte de origem que resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda não podem ser infirmadas, haja vista a incidência da Súmula nº 7/STJ.
+3. Não basta a afirmação do recorrente quanto à existência da divergência sem a comprovação adequada do dissídio jurisprudencial, visto que insuficiente para tanto a mera transcrição de ementas dos paradigmas, deixando de proceder ao necessário cotejo analítico entre os acórdãos impugnado e paradigma e de demonstrar a similitude fática entre as decisões confrontadas.
+4. Na hipótese, o recurso especial não foi conhecido em virtude do óbice da Súmula nº 13/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1269533/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/10/2018, DJe 17/10/2018)
+No caso em exame, depreende-se que os agravantes limitaram-se a citar trecho do acórdão paradigma sem, ao menos, realizar o devido cotejo analítico para fins de comprovação da divergência jurisprudencial alegada.
+Logo, não há como ser julgado o recurso especial com base na alínea c do permissivo constitucional.
+Lado outro, no que diz respeito à apontada violação ao art. 6º do CPC de 2015, verifica-se que o conteúdo normativo do referido dispositivo legal não foi objeto de debate pelo Tribunal de origem. Dessa forma, não tendo sido enfrentada a questão relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem ao caso os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. TELEFONIA. PLANO DE EXPANSÃO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. ALEGADA NÃO ENTREGA DE AÇÕES INTEGRALIZADAS. RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO. VINTENÁRIA. TERMO INICIAL. DATA DA LESÃO INDEPENDENTEMENTE DE CIÊNCIA. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO. INCIDÊNCIA SÚMULA 283/STF.
+ ..
+2. Em relação aos artigos 247 e 884 do Código Civil e ao art. 35, §1º, da Lei n. 6.404/76, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Ausente o necessário prequestionamento a atrair a incidência dos óbices contidos nas Súmulas 282 e 356/STF.
+ ..
+8. Agravo interno não provido. (AgInt no REsp 1.922.705/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2021, DJe 29/6/2021)
+Ante o exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE EXECUÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA N. 282 E 356 DO STF. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
