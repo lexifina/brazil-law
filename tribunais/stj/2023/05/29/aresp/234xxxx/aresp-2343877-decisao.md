@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO PAN S.A. contra decisão que inadmitiu recurso especial (e-STJ, fls. 300-302) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 244):
+ADJUDICAÇÃO COMPULSÓRIA Cancelamento de hipoteca - Gravame constituído sobre imóvel em favor do banco réu para garantir dívida da construtora ré - Legitimidade passiva ad causam do credor hipotecário Hipótese em que cabe ao agente financeiro proceder ao cancelamento da hipoteca, exclusivamente - Hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel - Súmula 308, STJ Hipótese, ademais, em que o autor comprovou o recebimento pelo banco de valor que autorizaria o cancelamento do gravame - Adjudicação compulsória bem determinada ante a quitação do preço por parte do adquirente - Pedido procedente - Honorários advocatícios - Redução indevida - Apelação desprovida.
+Nas razões do recurso especial, o recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, divergência jurisprudencial e violação aos arts. 31-A, § 12, da Lei 4.591/1964; e 85, § 8º, do CPC/2015.
+Sustentou não ser parte legítima para figurar no polo passivo da ação, uma vez que o contrato de promessa de compra e venda foi firmado pelo recorrido com a LADEIRA MIRANDA ENGENHARIA E CONSTRUÇÃO LTDA. - EM RECUPERAÇÃO JUDICIAL.
+Destacou que sua atuação limitou-se à função de agente financeiro e que, na condição de credor hipotecário, não pode ser enquadrado como incorporador.
+Afirmou que o valor arbitrado para os honorários sucumbenciais é desproporcional. Defendeu a fixação da verba honorária com base em critério de equidade.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem negou seguimento ao apelo especial quanto à tese embasada no art. 85, § 8º, do CPC/2015 e inadmitiu a insurgência no tocante à questão envolvendo a legitimidade do agravante (e-STJ, fls. 300-302).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 305-325), no qual o insurgente rebate os argumentos da decisão que não admitiu o recurso especial.
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da legitimidade passiva do recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 245-246):
+Ao contrário do alegado pelo apelante Banco Pan S/A (sucessor de Brazilian Mortgages Companhia Hipotecária), não se há de cogitar de ilegitimidade passiva ad causam sob o pretexto de não fazer parte da relação jurídica existente entre os contratantes. Isso porque, a obrigação de proceder ao cancelamento da hipoteca seria de responsabilidade exclusiva do agente financeiro.
+Outrossim, nos termos do enunciado 308 do Superior Tribunal de Justiça, "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel".
+ ..
+Sendo assim, não pode o compromissário comprador ser responsabilizado por eventual pendência existente entre a construtora e o credor hipotecário, mas tão somente pela dívida efetivamente assumida, que, no caso, restou integralmente satisfeita.
+Do excerto acima transcrito, depreende-se que a Corte local atestou que o agravante assumiu a obrigação de efetuar o cancelamento da hipoteca após a quitação do valor do imóvel.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, bem como das disposições contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante as Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Em virtude da aplicação do enunciado sumular n. 7/STJ, fica prejudicada a análise da divergência jurisprudencial apontada.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADJUDICAÇÃO COMPULSÓRIA. LEGITIMIDADE PASSIVA DO AGENTE FINANCEIRO. RESPONSABILIDADE PELO CANCELAMENTO DA HIPOTECA. REVISÃO. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
