@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, porque ausente ofensa ao art. 1.022 do CPC/2015 e por incidência das Súmulas n. 284 do STF e 7 do STJ (e-STJ fls. 306/308).
+O acórdão recorrido está assim ementado (e-STJ fls. 192/193):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. CONDIÇÕES DA AÇÃO. LEGITIMIDADE PASSIVA VERIFICADA. IMÓVEL REGISTRADO EM NOME DOS RECORRIDOS, SENDO A IMOBILIÁRIA RESPONSÁVEL PELO CONTRATO LIGADA AOS ÚLTIMOS. REVELIA. VERACIDADE DAS ALEGAÇÕES AUTORAIS. VALOR ACORDADO DEVIDAMENTE PAGO. DIREITO À ADJUDICAÇÃO COMPULSÓRIA. ARTIGO 1.418 DO CÓDIGO CIVIL. INVERSÃO DA SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO.
+1. A legitimidade passiva ad causam impõe que somente pode ser demandado aquele que seja titular da obrigação correspondente.
+2. In casu, o imóvel objeto da lide foi fruto de uma promessa de compra e venda havida entre as partes por intermediação de imobiliária sabidamente ligada aos recorridos, o que impõe a legitimidade destes para figurarem no polo passivo da demanda.
+3. À adjudicação compulsória consiste no direito real conferido ao promitente comprador, oriundo de promessa de compra e venda na qual não há cláusula de arrependimento, de exigir a outorga da escritura definitiva do bem ante a recusa do promitente vendedor ou de terceiros, conforme exposto no artigo 1.418 do Código Civil.
+4. No caso em tela, diante da revelia dos réus, eis que, apesar de devidamente citados e intimados, não apresentaram contestação ou sequer alguma forma de resistência contra a pretensão autoral, motivo pelo qual têm-se como verdadeiro os fatos declarados na inicial pelos apelantes.
+5. Destarte, há de se reconhecer o direito dos autores à adjudicação compulsória do imóvel, eis que oriunda de promessa de compra e venda onde não se pactuou cláusula de arrependimento tendo sido o valor acordado devidamente pago.
+6. Com a reforma da r. sentença, ocorre a inversão dos ônus sucumbenciais de forma automática, por consequência imediata e natural da modificação da sentença. Precedentes do STJ.
+7. Recurso conhecido e provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 233/243).
+No recurso especial (e-STJ fls. 260/272), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação do art. 1.022 do CPC/2015 alegando que "o eg. TJES, ao apreciar os embargos de declaração deixou ao largo de apreciar as questões de ordem processual" (e-STJ fl. 264).
+Indica também ofensa aos arts. 239, 280 e 282 do CPC/2015 e 682, II, do CC/2002 aduzindo que, na audiência de conciliação, foi comunicado o falecimento dos demandados DEMERVAL DA SILVA RABELO e JOÃO CARLOS DA SILVA CARNEIRO e que, apesar de informado nos autos quem seriam os herdeiros e seus respectivos endereços, até hoje não houve a citação deles.
+Defende, dessa forma, que deve ser decretada a nulidade, com o provimento do recurso para se promover a citação dos herdeiros com a angularização da relação processual.
+Afirma que houve negativa de vigência dos arts. 205, 189, 2.028 e 1.418 do CC/2002 e 489, II e § 1º, do CPC/2015, argumentando que (e-STJ fl. 269):
+(..) ao considerar que o presente caso trata-se de pleito de AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA QUANDO EM VERDADE TRATA-SE DE AÇÃO DE OBRIGAÇÃO DE FAZER, IGNORA OS PRAZOS PRESCRICIONAIS PRÓPRIOS PREVISTOS NOS ARTIGOS 189; 205 e 2.028 do Código Civil além do Art. 487, II do CPC, TODOS TRANSGREDIDOS NA PRESENTE LIDE.
+Outrossim, o que se pleiteou na pretensão autoral fora obrigação de fazer com base em contrato celebrado com terceiro estranho a lide (IMOBILIÁRIA CANAÃ), visando compelir os legítimos proprietários a transferir a propriedade, o que não se coaduna com o que preconiza o Art. 1. 428 do Código Civil de 2002.
+QUE FIQUE BEM CLARO QUE NÃO HOUVE PREENCHIMENTO DOS REQUISITOS DO PLEITO DE ADJUDICAÇÃO uma vez que o contrato apontado à fls. 11 É PACTUADO COM TERCEIRO ALHEIO A RELAÇÃO EM TELA (IMOBILIÁRIA CANAÃ LTDA.), NÃO SE PODENDO ADMITIR QUE SEJA INTEGRADA A AÇÃO QUEM NÃO PARTICIPOU DO CONTRATO, sendo visível a ilegitimidade passiva no caso em tela, MATÉRIA DE ORDEM PÚBLICA:
+Aduz ainda afronta ao art. 489, § 1º, IV, do CPC/2015 porque o acórdão recorrido não observou os precedentes judiciais invocados pela parte.
+No agravo (e-STJ fls. 311/318), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 321/324).
+É o relatório.
+Decido.
+Em relação aos arts. 1.022 do CPC/2015, a parte limitou-se a afirmar, de forma genérica, que houve omissão, sem indicar especificadamente quais teses, relevantes para o julgamento do feito, o acórdão recorrido teria deixado de examinar. Em tais condições, incide a Súmula n. 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 284 DO STF. RESPONSABILIDADE DA PRESTADORA DE SERVIÇO FERROVIÁRIO. CULPA CONCORRENTE. INDENIZAÇÃO. VALOR. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada violação ao art. 1.022 do CPC de 2015 é genérica, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado, o que atrai a incidência, por analogia, da Súmula 284/STF.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1598665/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020.)
+Quanto ao art. 489, § 1º, IV, do CPC/2015, verifica-se que, ao contrário do alegado, o Tribunal de origem enfrentou todas as questões deduzidas pela parte, sendo que o fato de não ter sido acolhida a tese por ela defendida não configura ofensa a tal dispositivo legal.
+A alegada nulidade da citação foi afastada pela Corte estadual, no julgamento dos aclaratórios, mediante os seguintes fundamentos (e-STJ fl. 239):
+O embargante aduz a existência de questões de ordem pública que não foram objeto de análise e que configuraria omissão. O juiz singular foi comunicado acerca do falecimento dos demandados DEMERVAL DA SILVA RABELO e JOÃO CARLOS DA SILVA CARNEIRO, no entanto não houve a citação dos herdeiros dos falecidos e logo em seguida, proferiu sentença, não angularizando corretamente a lide.
+O sr. JOEL DA SILVA RABELO, ora embargante, foi nomeado procurador dos herdeiros do espólio de Egídio José Rabelo e Diolinda da Silva Rabelo.
+A procuração (fl.47/48) foi outorgada quando os herdeiros ainda eram vivos, por isso houve a angularização correta da lide, tendo em vista que todos herdeiros do espólio foram citados na pessoa do seu procurador, o sr. JOEL DA SILVA RABELO. Este, por sua vez, deixou de apresentar contestação. Diante desse fato, entendo pela inexistência de questão de ordem pública que ensejaria omissão.
+Alterar as conclusões da Corte estadual a respeito da validade da citação na pessoa do procurador demandaria análise de matéria fática, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Ficou estabelecido no acórdão recorrido que a ação ajuizada foi de adjudicação compulsória, sendo que a parte não indicou dispositivo legal apto a desconstituir tal fundamento.
+Diante de tal conclusão, entendeu o Tribunal de origem que, por ser direito potestativo, o pedido de adjudicação pode ser realizado a qualquer tempo.
+No recurso especial, a parte limitou-se a insistir em que a ação proposta seria de obrigação de fazer e a indicar os dispositivos legais referentes à prescrição e ao prazo decenal. Dessa forma, incidem as Súmulas n. 283 e 284 do STF, pois não foi desconstituído fundamento do Tribunal a quo, tampouco demonstrada a ofensa aos dispositivos legais invocados.
+Por fim, quanto à alegação de que não estariam preenchidos os requisitos para a adjudicação compulsória, incide mais uma vez a Súmula n. 7 do STJ. Referido argumento foi afastado pela Corte estadual mediante os seguintes fundamentos (e-STJ fl s. 196/197):
+Conforme decisão saneadora proferida às fls. 96/97, o intuito dos apelantes com a presente demanda consiste na adjudicação compulsória do referido imóvel, cuja inscrição está em nome dos herdeiros do Sr. Egidio José Rabelo (fls.12/13).
+Ademais, apesar de constar no instrumento contratual a Imobiliária Canaã Ltda. como promitente vendedora, é fato público e notório, conforme se depreende de consulta processual ao sitio deste Tribunal (Para exemplificar confira-se as ações sob os números 0022303-40.2015.8.08.0048, 0004742-03.2015.8.08.0048 e 0010223-30.2011.8.08.0048) bem como em matérias jornalísticas veiculadas na midia local", além de consulta do CNPJ (28.163.772/0001-63) no sitio da Receita Federal, de que tal imobiliária possui ligações com a família do Sr. Egidio José Rabelo, sendo de propriedade de um dos herdeiros, o Sr. Joel da Silva Rabelo.
+Diante disso, a pessoa jurídica nunca fora real proprietária do imóvel, apenas atuando como intermediadora do negócio jurídico em questão, eis que o imóvel sempre foi de propriedade dos herdeiros do Sr. Egídio José Rabelo, competindo a estes a outorga da escritura do imóvel.
+Isto posto, reconheço a legitimidade ad causam dos herdeiros para figurarem no polo passivo da demanda.
+Passo agora ao julgamento do mérito, por aplicação da teoria da" causa madura, eis que a demanda encontra-se suficientemente instruída, tendo ocorrido a citação válida dos demandados, ora recorridos, na pessoa do Sr. Joel da Silva Rabelo (f1.72), eis que para este fora outorgado poderes para tanto (fls.47/48).
+A adjudicação compulsória consiste no direito real conferido ao promitente comprador, oriundo de promessa de compra e venda na qual não há cláusula de arrependimento, de exigir a outorga da escritura definitiva do bem ante a recusa do promitente vendedor ou de terceiros, conforme exposto no artigo 1.418 do Código Civil:
+(..)
+No caso em tela, diante da revelia dos réus, eis que, apesar de devidamente citados e intimados, não apresentaram contestação ou sequer alguma forma de resistência contra a pretensão autoral, motivo pelo qual tomo como verdade os fatos declarados na inicial pelos autores.
+Dessa forma, entendo que os autores possuem o direito à adjudicação compulsória do referido imóvel, eis que oriunda de promessa de compra e venda onde não se pactuou cláusula de arrependimento tendo sido o valor acordado devidamente pago.
+Alterar as conclusões da origem demandaria nova análise de prova, inviável em recurso especial.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
