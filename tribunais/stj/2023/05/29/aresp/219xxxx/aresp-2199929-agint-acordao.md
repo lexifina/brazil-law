@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo COMÉRCIO DE MEDICAMENTOS BRAIR LTDA. contra  a decisão  monocrática  da relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IRPJ. CSLL. JUROS MORATÓRIOS. OBRIGAÇÕES CONTRATUAIS. INCIDÊNCIA. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO (fl. 3.139).
+A parte agravante sustenta, em resumo, a inexigibilidade do IRPJ e da CSLL sobre a taxa SELIC (juros de mora e correção monetária) recebida em razão de inadimplemento contratual dos seus devedores.
+Não foi apresentada impugnação ao recurso conforme certidão de fl. 3.171.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INCIDÊNCIA DO IRPJ E DA CSLL SOBRE OS JUROS DE MORA DECORRENTES DO INADIMPLEMENTO CONTRATUAL. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça já se manifestou quanto à legitimidade da incidência do Imposto de Renda Pessoa Jurídica-IRPJ e da Contribuição Social sobre o Lucro Líquido-CSLL sobre os juros decorrentes do inadimplemento do contrato privado, isso porque as referidas verbas visam remunerar a parte lesada com aquilo que ela deixou de lucrar em razão do evento danoso, constituindo verdadeiro acréscimo patrimonial da empresa. Precedentes: AgInt no REsp 1.452.787/AL, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021; e AgInt no REsp 1.679.784/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/8/2019, DJe de 23/8/2019.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+O Superior Tribunal de Justiça já se manifestou quanto à legitimidade da incidência do Imposto de Renda Pessoa Jurídica-IRPJ e da Contribuição Social sobre o Lucro Líquido-CSLL sobre os juros decorrentes do inadimplemento do contrato privado, isso porque as referidas verbas visam remunerar a parte lesada com aquilo que ela deixou de lucrar em razão do evento danoso, constituindo verdadeiro acréscimo patrimonial da empresa.
+A propósito, confiram-se os julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRATO. INADIMPLEMENTO. JUROS MORATÓRIOS. MULTA. IMPOSTO DE RENDA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INCIDÊNCIA.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. O acórdão regional está em desconformidade com a orientação jurisprudencial deste Superior Tribunal, segundo a qual incidem o IRPJ e a CSLL sobre os juros de mora decorrentes do inadimplemento de contratos, por possuírem natureza de lucros cessantes. Precedentes.
+3. O valor resultante do adimplemento da multa moratória, por resultar em efetivo acréscimo patrimonial na esfera de disponibilidade do contribuinte, também deve integrar a base de cálculo dos tributos em referência.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.452.787/AL, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 43 E 110, AMBOS DO CTN. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A PACÍFICA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. MESMA NATUREZA DE LUCROS CESSANTES.
+I - Na origem, trata-se de mandado de segurança impetrado com o objetivo de excluir da base de cálculo do IRPJ e da CSLL os valores recebidos a título de juros de mora, em razão de pagamentos realizados com atraso das faturas de venda de produtos a clientes. Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta contradição em razão do fato de que, se não devem incidir IRPJ e CSLL sobre juros e correção da SELIC nos indébitos tributários, não deveria haver a incidência dos tributos na espécie, o recurso não merece acolhimento.
+III - Da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador, que enfrentou todas as questões pertinentes sobre os pedidos formulados.
+IV - A oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica da recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se: AgInt no AREsp 1.323.892/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2018, DJe 22/11/2018; AgInt no REsp 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.
+V - Acerca da alegada ofensa aos arts. 43 e 110, ambos do CTN, o recurso também não comporta provimento.
+VI - O acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, no sentido de que incidem IRPJ e CSLL sobre os juros de mora e correção monetária decorrentes do inadimplemento de contratos, por ostentarem a mesma natureza de lucros cessantes. Confiram-se, nesse sentido: REsp 1.685.465/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2017, DJe 16/10/2017; AgRg no REsp 1.469.995/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 7/10/2014, DJe 15/10/2014.
+VII - Agravo interno improvido. (AgInt no REsp n. 1.679.784/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/8/2019, DJe de 23/8/2019 - sem destaques no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
