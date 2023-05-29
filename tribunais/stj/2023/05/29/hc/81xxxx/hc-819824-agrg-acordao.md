@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FABRICIO ALVES SILVA contra decisão monocrática, da minha lavra, que negou seguimento ao mandamus.
+O agravante aduz, em síntese, que, diante "diante da flagrante violação aos dispositivos legais e constitucionais, por parte do Tribunal a quo, não há que se falar em supressão de instância".
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. RECONHECIMENTO PESSOAL. NÃO OBSERVÂNCIA DO ART. 226 DO CPP. MATÉRIA NA EXAMINADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Em nenhum momento a Corte local se manifestou sobre eventual ilegalidade do reconhecimento do paciente. Nesse contexto, é manifesta a supressão de instância, o que impede o Superior Tribunal de Justiça de examinar a matéria trazida no presente mandamus. Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC n. 609.741/MG, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, em nenhum momento a Corte local se manifestou sobre eventual ilegalidade do reconhecimento do paciente. Nesse contexto, reitero ser manifesta a supressão de instância, o que impede o Superior Tribunal de Justiça de examinar a matéria trazida no presente mandamus.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC n. 609.741/MG, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E PORTE ILEGAL DE ARMA DE FOGO. PRETENSÃO DE ABSOLVIÇÃO MEDIANTE O RECONHECIMENTO DE NULIDADE. INVASÃO DE DOMICÍLIO. DEBATE DAS INSTÂNCIAS ORDINÁRIAS A RESPEITO DA QUESTÃO. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. EXISTÊNCIA, ADEMAIS, DE INDÍCIOS DE QUE O PAI DOS ACUSADOS TERIA NÃO SÓ FRANQUEADO A ENTRADA, COMO AFIRMADO QUE NÃO COMPACTUARIA COM A EMPREITADA CRIMINOSA DOS FILHOS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. 1. Inviável o conhecimento da pretensão de absolvição, consubstanciada no reconhecimento de nulidade em razão de suposta invasão de domicílio, quando verificado que a questão foi alegada somente aqui pela defesa, não tendo sido objeto de suficiente análise pelas instâncias ordinárias, até porque o acórdão condenatório data de 25/9/2019. 2. Ainda que assim não fosse, não se mostra dissimulado o depoimento do policial, que, a respeito da entrada no recinto, consignou que o genitor dos acusados, além de franquear a entrada dos policiais, afirmou que suspeitava da conduta criminosa dos réus, mas que, com ela, não compactuaria, e que, apesar de se encontrar "inválido", moraria sozinho em cômodo independente da residência. 3. Agravo regimental improvido. (AgRg no HC n. 732.342/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
