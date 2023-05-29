@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por SARAH ZAPELINI MARTINS contra decisão monocrática de relatoria da Presidência desta Corte que não conheceu do agravo em recurso especial em razão da incidência do art. 932, III, do CPC.
+Em breve resumo do processado, extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fl. 92):
+TRIBUTÁRIO. RECONHECIMENTO DO PEDIDO PELA UNIÃO. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO §1º DO ART. 19 DA LEI Nº 10.522/02.
+1. É indevida a condenação da Fazenda Nacional quando houver concordância expressa com a procedência do pedido, conforme o disposto no art. 19, § 1º, da Lei 10.522/02, nas hipóteses do art. 19, II, da referida Lei.
+2. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (fls. 119-122).
+Nas razões do agravo interno, a agravante afirma que (fls. 230-231):
+Ocorre que o recurso de agravo interposto impugnou especificamente todos os argumentos de rejeição, e o contido na Súmula 83/STJ não se aplica no presente caso, que declara "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+O Recurso Especial interposto não foi fundamentado em divergência jurisprudencial, mas em negativa de vigência ao artigo 90, parágrafo 4º, do Código de Processo Civil, e artigo 85, parágrafo 8º.
+E ainda, ressalte-se que a questão federal controvertida, sobre a condenação do exequente ao ônus sucumbencial, foi sim tema de análise das decisões recorridas desde a instância de origem. Assim não assiste razão na decisão monocrática que rejeitou, liminarmente, as razões expostas no Recurso Especial, que merecem análise desta E. Corte.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Memorial do Conselho Federal da Ordem dos Advogados do Brasil às fls. 253-259.
+A parte agravada, instada a manifestar-se, silenciou-se (fl. 260).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. O Tribunal de origem inadmitiu o recurso especial por entender aplicáveis os preceitos da Súmula n. 83/STJ.
+2. A parte agravante não rebateu o fundamento da inadmissão, limitando-se a aduzir que a Súmula n. 83/STJ teria aplicabilidade apenas aos recursos interpostos pela divergência, fundamento que nem sequer encontra amparo na jurisprudência desta Corte.
+3. "A jurisprudência atual desta Corte é firme no sentido de que a Súmula n. 83/STJ é aplicável tanto aos recursos especiais interpostos pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgInt no AREsp n. 1.986.334/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/4/2022).
+4. A alegação de inaplicabilidade da Súmula n. 83/STJ aos recursos interpostos pela alínea "a" do permissivo constitucional não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do recurso especial, pois, em tais hipóteses, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso.
+5. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado os fundamentos da decisão agravada. Incidência da Súmula n. 182/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial por entender aplicáveis os preceitos da Súmula n. 83/STJ.
+No caso dos autos, não houve impugnação adequada do fundamento da decisão que inadmitiu o recurso especial, conforme consignado na decisão agravada.
+Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu o fundamento da inadmissão, limitando-se a aduzir que "não houve interposição de Recurso Especial com base em divergência jurisprudencial" (fl. 176), alegação que não encontra amparo na jurisprudência desta Corte.
+Nesse sentido, confiram-se precedentes:
+13. Destaca-se que o entendimento pacificado no âmbito do Superior Tribunal de Justiça é de admitir a aplicação da Súmula 83/STJ aos Recursos Especiais interpostos com fundamento na alínea "a" do aludido permissivo constitucional (AgRg no AREsp 354.886/PI, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 11/5/2016).
+ ..  (AgInt no AREsp n. 2.110.460/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+2. A jurisprudência atual desta Corte é firme no sentido de que a Súmula n. 83/STJ é aplicável tanto aos recursos especiais interpostos pela alínea "c" quanto pela alínea "a" do permissivo constitucional. (AgInt no AREsp n. 1.986.334/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/4/2022.)
+Com efeito, a alegação de inaplicabilidade da Súmula n. 83/STJ aos recursos interpostos pela alínea "a" do permissivo constitucional não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do recurso especial, pois, em tais hipóteses, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso.
+Nesse sentido, cito:
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 83/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, ou deixar claro que os julgados apontados como precedentes não se aplicam ao caso concreto em análise. (AgInt no AREsp n. 1.932.535/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/3/2022.)
+3. Inadmitida a pretensão recursal em razão da consonância do acórdão recorrido com a jurisprudência desta Corte, cabe à parte autora indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada para sustentar que outra é a orientação jurisprudencial, o que não foi feito no caso em comento, no qual a parte agravante simplesmente reproduz os mesmos argumentos do Apelo Nobre. (AgInt no AREsp n. 1.302.570/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 16/10/2020.)
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
