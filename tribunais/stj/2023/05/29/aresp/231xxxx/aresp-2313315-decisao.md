@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 748):
+APELAÇÃO CÍVEL - AÇÃO DE PRESTAÇÃO DE CONTAS - SEGUNDA FASE TÍTULO DE CAPITALIZAÇÃO - LANÇAMENTOS CONTROVERTIDOS - DÉBITOS NÃO ESCLARECIDOS - CONTAS APRESENTADAS PELA AUTORA - LEGALIDADE - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA - CRITÉRIOS PARA FIXAÇÃO.
+As contas devem ser prestadas adequadamente, porquanto o que se pretende em ação com natureza de prestação de contas e a análise completa de todas as obrigações financeiras decorrentes da relação jurídica existente entre as partes. Não tendo a instituição financeira apresentado as contas adequadamente, deixando de juntar documento comprobatório da origem do débito, a sentença que julgou boas as contas apresentadas pela autora deve ser mantida. Nos termos do §2º do ad. 85 do Código de Processo Civil os honorários serão fixados entre o mínimo, de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Nas razões do recurso especial (e-STJ, fls. 762-788), o recorrente apontou violação aos arts. 551 do CPC/2015; bem como a existência de dissídio jurisprudencial quanto ao entendimento firmado no julgamento do REsp. n. 1.497.831/PR, sob o rito dos recursos especiais repetitivos.
+Sustentou, em síntese, a impossibilidade de revisão das cláusulas do contrato em ação de exigir contas.
+Defendeu a validade das contas prestadas, tendo em vista que apresentou todos os documentos justificativos para elucidação dos fatos, além de planilha contendo as especificações das receitas, despesas, juros e capitalizações.
+Sem contrarrazões (e-STJ, fls. 834-835).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 750-759, sem grifo no original):
+Data venia, as alegações do apelante e os elementos de, convicção produzidos nos autos não infirmam os fundamentos e a conclusão da sentença.
+Dispõe o art. 550 do Código de Processo Civil:
+"Art. 550. Aquele que afirmar ser titular do direito de exigir contas requererá a citação do réu para quê as preste ou ofereça contestação no prazo de 15 (quinze) dias.".
+Os parágrafos 5º e 6º do mesmo dispositivo legal estabelecem que:
+"§ 5º A decisão que julgar procedente o pedido condenará o réu a prestar as contas no prazo de 15 (quinze) dias, sob pena de não lhe ser lícito impugnar as que o autor apresentar.
+§ 6º Se o réu apresentar as contas no prazo previsto no § 5º, seguir-se-á o procedimento do § 2º, caso contrário, o autor apresentá-las-á no prazo de 15 (quinze) dias, podendo o juiz determinar a realização de exame pericial, se necessário.".
+Já os artigos 551 e 552 assim dispõem:
+"Art. 551. As contas do réu serão apresentadas na forma adequada, especificando-se as receitas, a aplicação das despesas e os investimentos, se houver.
+§ 1º Havendo impugnação específica e fundamentada pelo autor, o juiz estabelecerá prazo razoável para que o réu apresente os documentos justificativos dos lançamentos individualmente impugnados.
+§ 2º As contas do autor, para os fins do art. 550, § 5º, serão apresentadas na forma adequada, já instruídas com os documentos justificativos, especificando-se as receitas, a aplicação das despesas e os investimentos, se houver, bem como o respectivo saldo.
+Art. 552. A sentença apurará o saldo e constituirá título executivo judicial.".
+Portanto, a finalidade última da ação de exigir contas é definir qual das partes é credora uma da outra e o valor do eventual crédito.
+( )
+Assim, as contas devem ser prestadas adequadamente, porquanto o que se pretende em ação dessa natureza é a análise completa de todas as obrigações financeiras decorrentes da relação jurídica existente entre as partes.
+No caso dos autos, o eminente Juiz de Direito condenou o apelante (réu) "a prestar as contas no prazo de 15 (quinze) dias, referente às contas correntes e aos títulos de capitalização mencionados na inicial, sob pena de não lhe ser lícito impugnar as que o autor apresentar" (f.88).
+A sentença foi confirmada por esta Turma quando do julgamento do recurso de apelação de nº. 1.0878.11.000830-61001 (ff. 127/134).
+Na oportunidade, a Turma Julgadora destacou que dos extratos não se extrai nenhuma informação adicional acerca do título de capitalização que deu origem aos débitos em conta corrente.
+O apelante juntou os documentos de ff.227/330, sendo a maioria deles extratos simples da conta bancária, posteriormente os de ff. 347/521 deixando de apresentar, contudo, o contrato reclamado pela apelada. Assim, como bem enfatizou o MM. Juiz de Direito "sobreleva a circunstância documentada nos autos de que em 31/12/2010, havia saldo a ser resgatado pelo beneficiário do Título de Capitalização ora em debate no valor de R$ 6.716,39 (fls. 13). Não é, dessa forma, plausível que, em 31/07/2018, aproximadamente 90 meses mais tarde, o saldo disponível para resgate seja equivalente a apenas R$ 8.522,67, conforme conclusão de fls. 354, registrando que não há prova de qualquer resgaste anteriormente efetuado, devendo ser( .. ) consideradas boas as contas de fls. 529/530. Aliás, prova de resgate parcial ou de outro desenvolvimento nas contas jamais foi demonstrado documental e claramente nos autos pelo Banco Santender S/A, que é quem teria a obrigação de o fazer, além da sentença, de primeira fase passada em julgado, por força das disposições sistemáticas do CDC" (f.535).
+Portanto, não tendo o apelante/réu apresentado as contas adequadamente deixando de juntar documento comprobatório da origem do débito, a sentença que julgou boas as contas apresentadas pela apelada/autora deve ser mantida.
+Ressalte-se que, ainda que fosse lícito ao apelante impugnar as contas apresentadas pela apelada, este não provou que de fato ocorreu a alegada revisão de cláusulas contratuais pelo reconhecimento de que as contas prestadas pela apelada são boas.
+Assim, atentando-se aos argumentos trazidos pelo recorrente e aos fundamentos adotados pela Corte estadual acima destacados, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Ainda que ultrapassado tal óbice, não há como desconstituir o entendimento delineado no acórdão impugnado (o banco não apresentou as contas adequadamente nem comprovou a alegada revisão de cláusulas contratuais), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. PERÍCIA. RECONHECIMENTO DOS EXATOS VALORES DEVIDOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a ação de prestação de contas ocorre em duas fases distintas e sucessivas, sendo que, na primeira, discute-se sobre o dever de prestar contas e, uma vez declarado o dever de prestá-las, na segunda fase elas serão julgadas e apreciadas, se apresentadas.
+Precedentes.
+2. Na espécie, o Tribunal de origem, após o exame dos autos, das provas, dos documentos e da natureza da lide, entendeu que, diante do trânsito em julgado da sentença de primeira fase condenando à prestação das contas e da apresentação insuficiente destas, realizou-se perícia que apurou o real valor devido ao autor, corrigido a partir de dezembro de 1999 e acrescido de juros de mora a partir da citação.
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.227.198/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor do advogado da parte recorrida para 18% (dezoito por cento) sobre a base de cálculo fixada pelo Tribunal de origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. APRESENTAÇÃO DAS CONTAS DE FORMA ADEQUADA. NÃO OCORRÊNCIA. ALEGAÇÃO PELO BANCO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE COMPROVAÇÃO. FUNDAMENTOS INATACADOS. SÚMULA 283/STF. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
