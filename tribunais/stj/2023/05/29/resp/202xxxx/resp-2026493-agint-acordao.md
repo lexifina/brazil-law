@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial, ante a inviabilidade de análise de dispositivos constitucionais na via eleita e o óbice da Súmula 211 desta Corte.
+A agravante afirma (fls. 388-391, e-STJ):
+(..) é indispensável considerar o fato de que o fundamento constitucional do ato jurídico perfeito, do direito adquirido e da coisa julgada (art. 5º, XXXVI, CRFB/88) não afastam a vigência do seu fundamento legal, qual seja o art. 6º da LINDB. Antes o contrário, a LINDB foi recepcionada pela Constituição Democrática e, como tal, seus dispositivos e, notadamente, suas garantias, integram plenamente o ordenamento jurídico brasileiro, sem quaisquer ressalvas.
+Realmente, uma lei federal que reponha no plano infraconstitucional garantia igualmente encontrada no plano constitucional não deve ser desprezada. Ao contrário, nessa hipótese estar-se-á diante de norma que reforça e, frequentemente, especifica o conteúdo de garantias constitucionais, como é precisamente o caso da LINDB, em seu art. 6º, no qual definem-se os conteúdos das garantias previstas no inciso XXXVI do art. 5º, da CRFB/88.
+Por conseguinte, o Recurso Especial apresenta-se como remédio hábil a sanar violações ao direito adquirido, como a praticada no caso em tela, à medida em que o Tribunal de origem desconsiderou o conteúdo dessa garantia, o qual se encontra inscrito em lei federal. Assim, a previsão constitucional não anula a infraconstitucional de modo algum, antes, pelo contrário, é reforçada por esta última.
+(..)
+Aqui, seguindo a mesma linha de raciocínio apresentada no tópico precedente, respaldada pela sólida jurisprudência dessa Corte, faz-se necessário ressaltar que também a garantia da irredutibilidade de vencimentos possui o seu conteúdo especificado em lei federal - mais precisamente, no §3º, do art. 41 da Lei 8.112/90, de tal sorte que, embora o acórdão recorrido não o tenha mencionado, o fundamento infraconstitucional fora evidentemente abordado, uma vez que a garantia em questão materializa-se, a um só tempo, na Constituição e na Lei 8.112/90.
+É dizer, ainda que só se tenha feito menção ao dispositivo constitucional, a discussão continua a possuir um expresso fundamento legal que não pode ser meramente ignorado e, em razão do qual, a interposição do recurso especial mostra-se admissível.
+Postula a reconsideração da decisão agravada ou provimento, pelo Colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 6º DA LINDB E DIREITO ADQUIRIDO. TEOR CONSTITUCIONAL. ANÁLISE INVIÁVEL EM RECURSO ESPECIAL. PRECEDENTES DO STJ. ART. 41, § 3º, DA LEI 8.112/1990 E IRREDUTIBILIDADE DE VENCIMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial, ante a inviabilidade de análise de dispositivos constitucionais na via eleita e o óbice da Súmula 211 desta Corte.
+2. No que concerne ao art. 6º da LINDB, a parte agravante não comprova a necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal. Limita-se a citar precedentes anteriores àqueles citados na monocrática, sem demonstrar eventual superação do entendimento.
+3. Conforme já disposto no decisum combatido, o entendimento do STJ é de que "os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada - apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgInt no REsp 1.946.711/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 25.5.2022). Na mesma linha: AgInt no AREsp 1.932.867/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25.3.2022.
+4. Quanto ao art. 41, § 3º, da Lei 8.112/1990, reitera-se a falta de prequestionamento e a incidência da Súmula 211/STJ. Não houve análise, no acórdão recorrido, da violação do dispositivo legal indicado, e o tema da irredutibilidade de vencimentos não foi analisado sob o viés da tese veiculada no Recurso Especial, do que resulta evidente a ausência do indispensável prequestionamento.
+5. O requisito do prequestionamento, ademais, pressupõe prévio debate da questão pela instância a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, o que não ocorreu no caso em tela. A agravante reconhece esse fato quando afirma: "(..) ainda que só se tenha feito menção ao dispositivo constitucional, a discussão continua a possuir um expresso fundamento legal (..), em razão do qual a interposição do recurso especial mostra-se admissível" (fl. 391, e-STJ).
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24.3.2023.
+O Agravo Interno não merece prosperar.
+No que concerne ao art. 6º da LINDB, a parte agravante não comprova a necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal. Limita-se a citar precedentes anteriores àqueles citados na monocrática, sem demonstrar eventual superação do entendimento.
+Conforme já disposto no decisum combatido, o entendimento do STJ é de que "os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada - apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgInt no REsp 1.946.711/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 25.5.2022).
+Na mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. PRINCÍPIOS PREVISTOS NA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL - LINDB. NATUREZA CONSTITUCIONAL. JULGAMENTO AFETO AO SUPREMO TRIBUNAL FEDERAL. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. É pacífica a orientação do STJ no sentido de que os princípios contidos na Lei de Introdução ao Código Civil (LINDB) - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, não podem ser analisados em Recurso Especial, pois são institutos de natureza eminentemente constitucional.
+(..)
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.932.867/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/3/2022).
+Quanto ao art. 41, § 3º, da Lei 8.112/1990, reitero a falta de prequestionamento e a incidência da Súmula 211/STJ. Não houve análise, no acórdão recorrido, da violação do dispositivo legal indicado, e o tema da irredutibilidade de vencimentos não foi analisado sob o viés da tese veiculada no Recurso Especial; do que resulta evidente a ausência do indispensável prequestionamento.
+O requisito do prequestionamento, ademais, pressupõe prévio debate da questão pela instância a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, o que não ocorreu no caso em tela. A agravante reconhece esse fato quando afirma: "(..) ainda que só se tenha feito menção ao dispositivo constitucional, a discussão continua a possuir um expresso fundamento legal (..), em razão do qual a interposição do recurso especial mostra-se admissível" (fl. 391, e-STJ).
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
