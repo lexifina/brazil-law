@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos pelo Sindicato dos Servidores Públicos Federais da Justiça do Trabalho da 15ª Região, contra acórdão proferida pela Segunda Turma do Superior Tribunal de Justiça, cuja ementa assim estabelece, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. IMPOSTO DE RENDA. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. PRESCRICÃO. AGRAVO NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno não provido.
+Nas razões dos aclaratórios, o recorrente afirma que o acórdão recorrido encontra-se omisso, pois não existe razões jurídicas para a incidência da Súmula 182/STJ, em face da impugnação de todos os fundamentos da decisão de inadmissibilidade.
+Não houve a apresentação de impugnação de aclaratórios.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS AGRAVO INTERNO. NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OFENSA AO ARTIGO 1.022, INCISO II, DO CPC/2015. NÃO CARACTERIZAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela.
+2. Observo que o caso em apreço não comporta os presentes aclaratórios, pois os embargos de declaração não servem para que se adeque os fundamentos do acórdão, ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida
+3. Embargos de declaração rejeitados.
+VOTO
+Deveras, a pretensão recursal não merecer prosperar.
+Com efeito, os embargos de declaração têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório.
+O objetivo dos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois a decisão ora recorrida apresenta fundamento suficiente, exauriente e específica ao consignar que as questões postas pelo contribuinte perante o juízo de origem foram apreciadas integralmente (fls. 504/508, e-STJ), de modo que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional, sobretudo, porque, in verbis:
+"Como asseverado pela decisão recorrida, o recorrente deixou de impugnar todos os fundamentos da decisão de inadmissibilidade do recurso especial, sobretudo àquela referente Súmula 83/STJ, referente a pacífica jurisprudência desse Superior Tribunal de Justiça acerca da controvérsia debatida nos autos em epígrafe.
+Observa-se que é dever da parte agravante combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do julgado que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar todos os fundamentos colacionados na decisão de inadmissibilidade do apelo especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015 e em sintonia ao teor da súmula n. 182 do STJ".
+Portanto, os embargos de declaração não servem para que se adeque os fundamentos do acórdão, ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Ilustrativamente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial. 2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração. 3. Embargos de declaração rejeitados. (EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+Ante o exposto, no mérito, rejeito os embargos de declaração.
+É como voto.
