@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por WAGNER ROSA VIEIRA (WAGNER), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. MAURÍCIO PESSOA, assim ementado:
+Apelação - Ação de abstenção de ato cumulada com antecipação de tutela de caráter antecedente - Sentença recorrida que julgou extintos, sem resolução de mérito, os pedidos iniciais por ilegitimidade ativa - Interesse processual e legitimidade ativa ausentes - Autor que carece de interesse processual e de legitimidade ativa para obter o provimento jurisdicional voltado a compelir a ré a abster-se de utilizar-se do nome empresarial e da marca dos quais ele não é titular - Sentença recorrida mantida - Honorários recursais devidos - Recurso desprovido (e-STJ, fl. 1.597).
+Irresignado WAGNER interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, alegando violação dos arts. 18, 110 e 313 do CPC, ao sustentar (1) ser parte legítima, apesar da dissolução, para proteger o patrimônio da empresa, na qualidade de sócio, detentor de 1/3 das cotas da sociedade; e, (2) dissenso jurisprudencial (e-STJ, fls. 1.603/1.622).
+Foram apresentadas contrarrazões (e-STJ, fls. 1.638/1.651).
+O recurso foi admitido pelo Tribunal de Justiça de São Paulo (e-STJ, fl. 1.654).
+É o relatório.
+DECIDO.
+O presente recurso não merece prosperar.
+O Tribunal Bandeirante, soberano na análise do conteúdo fático probatório, conclui que WAGNER carece de interesse processual e de legitimidade ativa para formular pedido de abstenção do uso do nome empresarial e da marca dos quais ele não é titular, pois apenas a própria sociedade poderia formular pedido cominatório neste sentido. Asseverou, ainda, que decretada a dissolução total da sociedade, o administrador liquidante passou a ter condições de formular tal pretensão, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Como bem observou o D. Juízo de origem, o apelante carece de interesse processual e de legitimidade ativa para formular pedido de abstenção do uso do nome empresarial e da marca dos quais ele não é titular. Conquanto o apelante sustente que a mera dissolução da sociedade Nutree Cosmetics Comércio Importação e Exportação Ltda. "não é capaz de (lhe) retirar a legitimidade" (fls. 1560), a verdade é que, independentemente do recente decreto de dissolução da sociedade, o apelante carecia de legitimidade processual desde o ajuizamento da ação, já que, naquela ocasião, apenas a sociedade poderia formular pedido cominatório de abstenção do uso do nome empresarial e da marca que compunham o seu patrimônio. Decretada a dissolução total da sociedade e nomeado o Sr. Adnan Abdel Kader como administrador liquidante, era ele que, na condição de representante da sociedade, tinha e tem condições de formular a pretensão objeto da presente demanda, até porque, como bem observou o D. Juízo de origem, "sequer se iniciaram os procedimentos para sua liquidação" (fls. 1537 - sic). Conquanto o apelante sustente que, ao invés de extinguir o feito, sem resolução de mérito, o D. Juízo de origem poderia ter determinado a inclusão da sociedade Nutree Cosmetics Comércio Importação e Exportação Ltda. no polo ativo da demanda, a verdade é que ao magistrado não é dado compelir qualquer sujeito a ajuizar uma ação, o que apenas reforça a higidez da r. sentença recorrida. Eis por que o inconformismo não prospera (e-STJ, fls. 1.600/1.601 - sem destaques no original)
+Ultrapassar a conclusão a que chegou o Tribunal de Justiça do Estado de São Paulo demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula nº 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, vejam-se o seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. FALTA DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. 2. LEGITIMIDADE ATIVA DOS RECORRIDOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DANOS MORAIS. VALOR DA INDENIZAÇÃO. QUANTIA FIXADA DENTRO DOS PADRÕES DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 6. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A alteração das conclusões adotadas pela Corte de origem (quanto à legitimidade ativa dos filhos dos recorridos), demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.465.835/AL, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 2/9/2019, DJe de 10/9/2019 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+ ..
+3. A revisão do entendimento do Tribunal a quo acerca da legitimidade ativa, do reconhecimento da responsabilidade civil e do valor da indenização esbarra no óbice da Súmula 7/STJ, na medida em que demandaria o revolvimento do conjunto fático e probatório dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.577.011/SP, relator Ministro MARCO BUZZI, Quarta Turma, j. 20/6/2022, DJe de 24/6/2022 - sem destaques no original)
+Assim, o não conhecimento do recurso é medida que se impõe.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. APELAÇÃO. AÇÃO. ABSTENÇÃO. UTILIZAÇÃO DE NOME EMPRESARIAL. AUSÊNCIA DE INTERESSE PROCESSUAL E LEGITIMIDADE ATIVA. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
