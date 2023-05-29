@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos a acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ILEGALIDADE DE CRITÉRIOS DE PROGRESSÃO FUNCIONAL. OMISSÃO. INEXISTÊNCIA. EXAME DE RESOLUÇÃO E PORTARIA. NÃO CABIMENTO.
+1. Não se configura a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira fundamentada, a controvérsia.
+2. Afirmou o Tribunal a quo: "Observe-se, ainda, que o artigo 16 a Lei n. 8.691/93 atribui ao Conselho do Plano de Carreiras de Ciência e Tecnologia a competência para propor normas legais ou regulamentadoras, conforme o caso, dispondo sobre ingresso, promoção, progressão e desenvolvimento nas carreiras de Ciência e Tecnologia, bem como sobre a avaliação de desempenho. Por seu turno, o referido Conselho, por meio da Resolução nº 03 do CPC, de 20/12/94, estabeleceu que os critérios de avaliação de desempenho dos ocupantes dos cargos nas carreiras e, específicos para cada cargo, no órgão ou entidade, serão propostos pelas comissões internas a que se refere o § 2º, do art. 16, da Lei nº 8.691/93 e aprovados pelo Conselho Deliberativo de cada órgão ou entidade. (..) Não se sustenta a alegação de que os atos normativos impugnados violam a Lei n. 8.691/93. Com efeito, a própria Lei n. 8.691/93 atribui ao Conselho Plano de Carreiras de Ciência e Tecnologia a competência para propor normas regulamentadoras sobre as progressões. Por sua vez, o Conselho definiu que os critérios para avaliaçãode desempenhodo servidor, para finsde progressões funcionais, deveriam ser fixados por normas próprias de cada entidade. Portanto, as Portarias editadas pelo Comando do Exército, ao qual o Autor se encontra vinculado, possui plena legitimidade, definindo os critérios seletivos incidentes às progressões funcionais, bem comoos critérios para eventual desempates para as progressões disponíveis. Note-se que os critérios restritivos estão baseados no desempenho dos servidores, não havendo qualquer constrariedade ao disposto na Lei n. 8.691/93".
+3. Verifica-se que acórdão da Corte a quo, a fim de aferir a legitimidade da Portaria nº 010-DCT/2006, desceu ao exame de atos normativos infralegais, dentre eles a Resolução nº 03/94 do Conselho do Plano de Carreiras de Ciência e Tecnologia. Para acolher a tese de violação ao art. 19 da Lei n. 8.691/93, seria indispensável o exame do conjunto dos atos editados pelo referido Conselho e pelo Comando do Exército, o que é inviável em Recurso Especial.
+4. Agravo Interno não provido.
+Nas razões do Recurso (fls. 696-700, e-STJ), a parte embargante alega:
+Não obstante, restou omisso o v. acórdão, data máxima vênia, sobre o fato de o Embargante não questionara premissa fática adotada no v. acórdão, nem mesmo pretender rever qualquer tipo de prova. A matéria controversa é exclusivamente de Direito e não há também qualquer controvérsia quanto ao teor da Portaria e/ou da Resolução, acima mencionadas, de forma que desnecessário o exame do conjunto de atos infralegais para além do registrado no próprio corpo do acórdão regional.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. TENTATIVA DE REDISCUTIR O MÉRITO DO JULGADO. IMPOSSIBILIDADE.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem Recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso, a parte não aponta efetiva omissão no julgado. Os Embargos de Declaração foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: "Para acolher a tese de violação ao art. 19 da Lei 8.691/93, indispensável o exame do conjunto dos atos editados pelo Conselho Plano de Carreiras de Ciência e Tecnologia e pelo Comando do Exército, o que é inviável em Recurso Especial".
+3. Constatado o devido enfrentamento do tema, a mera irresignação com a solução conferida não enseja interposição de Embargos Declaratórios.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.5.2023.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem Recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+No caso, a parte não aponta efetiva omissão no julgado. Os Embargos de Declaração foram opostos com o intuito de rediscutir, o que foi decidido de maneira clara:
+Verifica-se que o acórdão da Corte a quo, a fim de aferir a legitimidade da Portaria nº 010-DCT/2006, desceu ao exame de atos normativos infralegais, dentre eles a Resolução nº 03 do CPC, de 20/12/94, que estabeleceu critérios de avaliação de desempenho dos ocupantes dos cargos nas carreiras e que teria havido edição a partir de autorização legal.
+Para acolher a tese de violação ao art. 19 da Lei 8.691/93, indispensável o exame do conjunto dos atos editados pelo Conselho Plano de Carreiras de Ciência e Tecnologia e pelo Comando do Exército, o que é inviável em Recurso Especial.
+Constatado o devido enfrentamento do tema, a mera irresignação com a solução conferida não enseja interposição de Embargos Declaratórios.
+Ante o exposto, rejeito os Embargos de Declaração.
+É como voto.
