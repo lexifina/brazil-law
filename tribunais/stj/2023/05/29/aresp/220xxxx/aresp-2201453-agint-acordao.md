@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANDRÉ MONORI MODENA contra decisão monocrática de fls. 246-250 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 66 e-STJ):
+Agravo de instrumento. Cumprimento de sentença. Instauração do incidente de desconsideração da personalidade jurídica. Ausência dos requisitos legais (CPC, 134, § 4º e CDC 28, caput).
+Opostos embargos de declaração (fls. 76-86 e-STJ), esses foram rejeitados (fls. 101-115 e-STJ).
+Nas razões do recurso especial (fls. 118-141 e-STJ), a parte insurgente apontou que o acórdão recorrido violou os artigos 28 da Lei nº 8.078/1990; e 134 do Código de Processo Civil de 2015, asseverando, em suma, o cabimento da desconsideração da personalidade jurídica na fase de cumprimento de sentença iniciada nos autos, eis que a cooperativa recorrida encontra-se inativa e insolvente, constituindo obstáculo ao ressarcimento dos prejuízos causados ao recorrente, devendo ser aplicada a teoria da aparência, porquanto possível a solidariedade das empresas do mesmo grupo econômico. Alega, ainda, a existência de dissídio jurisprudencial.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 188-189 e-STJ), negou-se o processamento do recurso especial, sob o fundamento da incidência do óbice da Súmula 83/STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 246-250 e-STJ), este signatário negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (i) aplicação do óbice da Súmula 83/STJ; e (ii) incidência do óbice da Súmula 7/STJ.
+Opostos embargos de declaração (fls. 256-261 e-STJ), esse foram rejeitados por decisão monocrática deste relator (fls. 267-269 e-STJ).
+Inconformada, no presente agravo interno (fls. 273-280 e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, combatendo a aplicação dos óbices das Súmulas 7 e 83 do STJ, aduzindo, em suma, que a "decisão agravada mostra-se extra petita, pois não apreciou o recurso quanto à precisa impugnação ao acórdão do Tribunal de origem, qual seja, a violação aos arts. 134 do CPC e 28 do CDC". Requer, ao final, a reforma da decisão agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.  Nos termos da jurisprudência desta Corte Superior, "uma vez formado o título executivo judicial contra uma ou algumas das sociedades, poderão responder todas as demais componentes do grupo, desde que presentes os requisitos para a desconsideração da personalidade jurídica, na forma do art. 28, § 2º, do CDC, sendo inviável o mero redirecionamento da execução contra aquela que não participou da fase de conhecimento" (AgInt no REsp n. 1.875.845/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.). Incidência da Súmula 83/STJ.
+2. A revisão das conclusões do Tribunal de origem, quanto ao não cabimento da medida de desconsideração da personalidade jurídica, demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Com relação à incidência dos óbices das Súmulas 7 e 83 do STJ, deve  ser  mantida  a  decisão  que  negou  provimento  ao  recurso  especial.
+Conforme afirmado pela decisão agravada, cinge-se a pretensão recursal à verificação acerca do cabimento da desconsideração da personalidade jurídica no curso da fase de cumprimento de sentença iniciada nos autos.
+O Tribunal de origem, em sede de agravo de instrumento, entendeu pelo não cabimento da medida de desconsideração da personalidade jurídica, sob a seguinte fundamentação (fls. 67-69 e-STJ):
+O agravante, em cumprimento de sentença, pretende a instauração do incidente de desconsideração da personalidade jurídica para incluir no polo passivo a Central Nacional Unimed - Cooperativa Central e a Confederação Nacional das Cooperativas Médicas - Unimed do Brasil.
+O acolhimento do pedido de instauração do incidente de desconsideração da personalidade jurídica, fundamentado com base no CDC 28, § 5º (teoria menor), deve ser interpretado, com a vênia devida ao entendimento contrário, em harmonia com o caput do referido artigo, o qual estabelece os pressupostos legais para a desconsideração, a saber, abuso de direito, excesso de poder, infração da lei, fato ou ato ilícito ou violação dos estatutos ou contrato social etc. (CDC 28, caput), ausentes no caso.
+Destaca-se ainda que, não obstante tenham sido exauridos os meios de localização de bens da agravada (id 77541171), tal fato, por si só, não autoriza a instauração do incidente de desconsideração da personalidade jurídica. (..).
+Quanto à alegada solidariedade, pela teoria da aparência, as unidades regionais da Unimed, bem como sua central nacional, integram o mesmo grupo econômico, sendo facultado ao credor optar por um ou mais devedores, desde que em fase de conhecimento, a fim de sujeitá-los a eventual execução.
+No entanto, na hipótese, pretende o agravante, em cumprimento de sentença, incluir no polo passivo empresas que não participaram da fase de conhecimento, de modo que elas não podem, por força dos limites subjetivos da coisa julgada, sofrer os efeitos da decisão que deu ensejo ao título executivo.
+Logo, a solidariedade entre empresas do sistema Unimed não significa que seja possível o redirecionamento do cumprimento para atingir patrimônio de pessoa jurídica que sequer fez parte do processo de origem.
+Destarte, da feita que não foram demonstrados os requisitos legais previstos no CDC 28, caput, a decisão agravada deve ser mantida.  grifou-se
+Com efeito, observa-se que a matéria debatida pela parte recorrente se encontra pacificada nesta Corte Superior nos termos do que decidido pelo Tribunal de origem, no sentido de que, "uma vez formado o título executivo judicial contra uma ou algumas das sociedades, poderão responder todas as demais componentes do grupo, desde que presentes os requisitos para a desconsideração da personalidade jurídica, na forma do art. 28, § 2º, do CDC, sendo inviável o mero redirecionamento da execução contra aquela que não participou da fase de conhecimento" (AgInt no REsp n. 1.875.845/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.).
+Confira-se, a propósito, a ementa do referido julgado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. FASE DE CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. SISTEMA UNIMED. RESPONSABILIDADE SOLIDÁRIA DA CADEIA DE FORNECEDORES. CUMPRIMENTO DE SENTENÇA. REDIRECIONAMENTO DA EXECUÇÃO. NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+3. Uma vez formado o título executivo judicial contra uma ou algumas das sociedades, poderão responder todas as demais componentes do grupo, desde que presentes os requisitos para a desconsideração da personalidade jurídica, na forma do art. 28, § 2º, do CDC, sendo inviável o mero redirecionamento da execução contra aquela que não participou da fase de conhecimento.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.875.845/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)  grifou-se
+No mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. SISTEMA UNIMED. RESPONSABILIDADE SOLIDÁRIA DA CADEIA DE FORNECEDORES. CUMPRIMENTO DE SENTENÇA. REDIRECIONAMENTO DA EXECUÇÃO PARA SOCIEDADE QUE NÃO CONSTA DO TÍTULO EXECUTIVO JUDICIAL. CARACTERIZAÇÃO DE GRUPO ECONÔMICO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. POSSIBILIDADE. JULGAMENTO: CPC/15.
+1. Ação de obrigação de fazer ajuizada em 08/08/2017, da qual foi extraído o presente recurso especial, interposto em 25/10/2018 e atribuído ao gabinete em 27/11/2018.
+2. O propósito recursal consiste em decidir sobre a negativa de prestação jurisdicional, bem como sobre a possibilidade de redirecionamento da execução, sem a necessidade de desconsideração da personalidade jurídica, à Unimed Cooperativa Central, bem como às demais regionais, as quais não participaram da fase de conhecimento.
+3. Os argumentos invocados pela recorrente não demonstram como o Tribunal de origem ofendeu os dispositivos legais indicados, o que importa na inviabilidade do recurso especial (súm. 284/STF).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022, II, do CPC/15.
+5. A organização da atividade empresária sob a forma de grupo se caracteriza pela mitigação da autonomia da pessoa jurídica, tanto no aspecto patrimonial, quanto organizacional, evidenciada por uma direção unitária, em que o interesse de cada integrante converge ao atendimento do interesse coletivo.
+6. O Sistema Unimed, em que cada ente é autônomo, mas todos são interligados e se apresentam ao consumidor sob a mesma marca, com abrangência em todo território nacional, caracteriza a formação de um grupo societário.
+7. Consoante a jurisprudência desta Corte, respondem solidariamente perante o consumidor todas as pessoas jurídicas integrantes do grupo societário que participam da cadeia de fornecedores (art. 7º, parágrafo único, art. 25, § 1º, do CDC), circunstância que autoriza o consumidor a exercer sua pretensão em face de uma, algumas ou todas elas.
+8. Uma vez formado o título executivo judicial contra uma ou algumas das sociedades, poderão responder todas as demais componentes do grupo, desde que presentes os requisitos para a desconsideração da personalidade jurídica, na forma do art. 28, § 2º, do CDC.
+9. Hipótese em que, tendo a recorrente ajuizado a ação apenas em face de Unimed Confederação das Cooperativas Médicas do Centro Oeste e Tocantins, não é possível, na fase de cumprimento de sentença, redirecionar a execução para a Unimed Cooperativa Central e as demais unidades, sem a prévia instauração do incidente de desconsideração da personalidade jurídica.
+10. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp n. 1.776.865/MA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/10/2020, DJe de 15/10/2020.)
+Veja-se, ainda, as seguintes decisões monocráticas: AREsp n. 1.639.640-SP, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 25/10/2022; e AREsp n. 1.952.528-RJ, Rel. Min. MARCO BUZZI, DJe 31/03/2022.
+Destarte, aplica-se a orientação prevista no enunciado 83 deste Superior Tribunal de Justiça, no sentido de que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+2. Ademais, a revisão das conclusões do Tribunal de origem, quanto ao não cabimento da medida de desconsideração da personalidade jurídica, demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ALEGADO NÃO PREENCHIMENTO DOS REQUISITOS. SÚMULA 7 DO STJ. MULTA DO ART. 1.021, §4º, DO CPC E POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. HONORÁRIOS RECURSAIS. AGRAVO NÃO PROVIDO.
+1. "O entendimento do acórdão recorrido amolda-se aos termos da jurisprudência desta Corte, segundo a qual a aplicação da teoria menor da desconsideração da personalidade jurídica da empresa é justificada pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do artigo 28 do CDC, o que atrai o teor da Súmula 83/STJ."(AgInt no AREsp 1560415/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+2. Rever o entendimento da Corte local e acolher a pretensão recursal demandaria o revolvimento de matéria fática, o que é defeso nesta fase recursal ante o óbice da Súmula 7 do STJ.
+ .. .
+(AgInt no AREsp n. 1.916.869/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)  grifou-se
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
