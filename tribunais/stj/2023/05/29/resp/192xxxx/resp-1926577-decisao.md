@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por RESIDENCIAL SPAZIO SAN CARLO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL  CONDOMÍNIO  AÇÃO DE COBRANÇA  Reexame do acórdão profligado realizado nos termos do art. 1.029, § 1º, do CPC  Celebração de venda e compra do apartamento objeto da controvérsia  Em se tratando de imóvel novo, "a efetiva posse do imóvel, com a entrega das chaves, define o momento a partir do qual surge para o condômino a obrigação de efetuar o pagamento das despesas condominiais"  STJ  Recurso Especial nº 535.078/SP. Legitimidade passiva ad causam. Reconhecimento. Responsabilidade da alienante pelas despesas condominiais até a imissão do promissário comprador na posse no imóvel. Diretriz fixada nos lindes do julgamento do Resp. 1.345.331/RS, em sede de recurso repetitivo  Modificação do aresto, com fulcro no art. 1.040, inc. li, do CPC  RECURSO PARCIALMENTE rr PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação ao artigo 535, incisos I e II, do Código de Processo Civil aduzindo que "deverá ser anulado o Venerando Acórdão recorrido, para que seja outro proferido em seu lugar, sanando a OMISSÃO no que tange a fixação de honorários advocatícios, bem como a CONTRADIÇÃO no que tange ao término da responsabilidade da construtora (se até a EFETIVA entrega das chaves ou até data da assinatura do contrato)". Sustenta a ocorrência de divergência jurisprudencial quanto ao termo final da da responsabilidade da construtora.
+Após decisão de admissão do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação merece prosperar no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Com efeito, sustenta a ora recorrente existência de omissão no acórdão recorrido haja vista que, nos embargos de declaração, suscitou pronunciamento do Tribunal local sobre o fato de que a entrega das chaves não ocorreu em 05/06/2012, sendo essa a data da assinatura do contrato e "apenas foi entregue as chaves deste imóvel, para outro promitente comprador e em outubro de 2015, sendo devidas as cotas vencidas até 10.09.2015".
+Contudo, da leitura do acórdão que julgou os embargos de declaração opostos pela ora recorrente, verifica-se que, de fato, tal manifestação requerida nos aclaratórios, não foi analisada pelo Tribunal de piso, o qual se limitou a afastar os vícios elencados no art. 1022 do CPC/15, sequer mencionando-a.
+Nesse contexto, esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1022 do Código de Processo Civil, quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o deslinde do feito.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Em se tratando de ofensa ao art. 1.022 do CPC/2015 e existindo a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia impõe-se o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na hipótese, verifica-se a ocorrência de omissão do julgado, pois, a despeito da oposição de embargos de declaração apontando a necessidade de pronunciamento sobre a existência de coisa julgada, preclusão, erro de cálculo e de que a execução não poderia ser extinta o Tribunal de origem não se manifestou de forma satisfatória sobre o alegado.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.536.407/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Dessa forma, considerando que o referido esclarecimento foi pedido ao Tribunal a quo, sem que houvesse, contudo, quando do julgamento dos embargos declaratórios, o devido pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial para anular os acórdãos que julgaram os embargos de declaração e determinar a devolução dos autos ao Tribunal de origem a fim de que profira novo julgamento, com enfrentamento do ponto tido por omisso.
+Publique-se.
+Intimem-se.
