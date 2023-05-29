@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL, em face de decisão monocrática da lavra da Presidência desta Corte (fls. 800-801, e-STJ), que não conheceu do reclamo do ora insurgente ante sua deserção.
+Irresignada, a insurgente interpõe agravo interno (fls. 804-814, e-STJ) aduzindo, em síntese, que a juntada, por equívoco, de comprovante de outro auto, não altera a realização do pagamento tempestivo.
+Sem impugnação (fl. 828-830, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Incide a Súmula 187/STJ, devendo ser decretada a deserção do recurso, quando a parte, mesmo regularmente intimada para complementar o preparo, não sana o vício ou o faz intempestivamente.
+1.1. No presente caso, mesmo após a intimação do recorrente para sanar o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo, o que impõe a incidência da Súmula 187 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. No caso dos autos, o recurso especial interposto por CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL, não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Consoante asseverado na decisão agravada, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, conforme decisão de fls. 750-751, e-STJ.
+Nesse sentido, citam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRREGULARIDADE NO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO. 1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado a realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015. 2. É deserto o recurso especial se, apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo (CPC/2015, art. 1.007, § 7º), ou efetuar o pagamento em dobro (§ 4º do mesmo artigo), a parte não o faz devida e oportunamente. 3. A falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto. Precedentes. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.227.234/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 31/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALTA DE ATENDIMENTO. DESERÇÃO. INTEMPESTIVIDADE DO AGRAVO. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO INTERNO DESPROVIDO. 1. Após constatar a ausência da guia de custas do Superior Tribunal de Justiça e respectivo comprovante de pagamento das custas, a Presidência desta Corte determinou a intimação da parte recorrente para regularizar tal situação, o que não ocorreu. 2. Conforme orientação deste Superior Tribunal, o beneficiário da justiça gratuita deve comprovar o seu deferimento, sendo insuficiente a mera alegação de que o benefício foi concedido na instância ordinária. 3. Ademais, é deserto o recurso na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente, aplicando-se a Súmula n. 187/STJ. 4. Segundo o entendimento da Corte Especial do Superior Tribunal de Justiça, o art. 1.003, § 6º, do CPC/2015 estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior. 5. No caso dos autos, as recorrentes não comprovaram, por ocasião da interposição do recurso, o período alegado de suspensão dos prazos processuais na origem, não havendo como afastar a intempestividade do agravo em recurso especial. 6. Agravo interno desprovido. (AgInt no AREsp n. 2.193.670/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nota-se, portanto, a deficiência no preparo recursal e, ainda que intimado para regularização, o recorrente não o fez, acarretando na deserção do recurso.
+Inafastável, portanto, o teor da Súmula 187/STJ.
+De rigor, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
