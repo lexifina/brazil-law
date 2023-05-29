@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Carlos Antônio de Pieri e outros interpuseram recurso especial contra os acórdãos de fls. 1.600-1.608 e 1.660-1.665 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Paraná, assim ementados:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. SENTENÇA DE PROCEDÊNCIA DO PEDIDO INICIAL. IRRESIGNAÇÃO DOS REQUERIDOS. ALEGAÇÃO DE COMODATO VERBAL. AUSÊNCIA DE DEMONSTRAÇÃO. PRETENDIDO AFASTAMENTO DA PRESCRIÇÃO AQUISITIVA. NÃO ACOLHIMENTO. EFETIVA COMPROVAÇÃO DA POSSE CONTÍNUA E DOS DEMAIS PRESSUPOSTOS LEGAIS PARA A CONFIGURAÇÃO DA USUCAPIÃO EXTRAORDINÁRIA, COM FULCRO NO ART. 1.238, DO CÓDIGO CIVIL. ANIMUS DOMINI AFERIDO POR PROVA TESTEMUNHAL QUE CONFIRMA O DECURSO DO LAPSO TEMPORAL E A UTILIZAÇÃO DO IMÓVEL PARA PLANTIO E PARA A SUBSISTÊNCIA DO AUTOR POR, AO MENOS, 30 (TRINTA) ANOS. INSURGENTES QUE NÃO SE DESINCUMBIRAM DO ÔNUS PROBATÓRIO DESCONSTITUTIVO. INTELIGÊNCIA DO ARTIGO 373, II, DO CPC. ENTENDIMENTO DOUTRINÁRIO E JURISPRUDENCIAL DESTA CORTE NA MESMA VERTENTE. DESCABIMENTO DA PRETENSÃO RECURSAL. SENTENÇA INALTERADA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM SEDE RECURSAL (ARTIGO 85, §11º, DO CPC). RECURSO CONHECIDO E NÃO PROVIDO.
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO DAS PARTES EMBARGANTES. ALEGAÇÕES DE VÍCIOS DE OMISSÃO E CONTRADIÇÃO. NÃO VERIFICADAS. MERO INCONFORMISMO COM O QUE FOI DECIDIDO. IMPOSSIBILIDADE DE MANEJO DO RECURSO COM MERO INTUITO DE REDISCUSSÃO MERITÓRIA. EMBARGOS DE DECLARAÇÃO CONHECIDOS E NÃO ACOLHIDOS.
+A Corte de origem deixou de admitir o recurso ao argumento de incidência das Súmulas 7/STJ e 282/STF.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 1.798-1.800 (e-STJ), a Presidência do Superior Tribunal de Justiça não conheceu do agravo, concluindo pela falta de impugnação dos fundamentos da decisão que inadmitiu o recurso na origem.
+Daí sobreveio este agravo interno (e-STJ, fls. 1.804-1.807), no qual defendem os agravantes terem impugnado todos os fundamentos de decisão de inadmissibilidade do recurso.
+Impugnação às fls. 1.813-1.829 (e-STJ), requerendo-se o desprovimento do recurso, a aplicação de multa e a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. AGRAVO EM RECURSO ESPECIAL QUE NÃO TROUXE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NA ORIGEM. RECURSO NÃO CONHECIDO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Sem razão os agravantes quando defendem ter impugnado, no agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o recurso na origem. Embora se verifique uma impugnação genérica da incidência Súmula 7/STJ, não se constata impugnação nenhuma à incidência da Súmula 282/STF.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do agravo recurso especial, em virtude da falta de impugnação dos fundamentos da decisão agravada.
+Veja-se às fls. 1.798-1.799 (e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 282/STF, Súmula 7/STJ (requisitos necessários para ocorrência da usucapião) e Súmula 7/STJ (artigo 373, inciso II, do Código de Processo Civil).
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Na presente insurgência, defendem os agravantes terem impugnado todos os fundamentos da decisão que inadmitiu o recurso na origem sem, contudo, demonstrar tê-lo feito.
+Mediante análise dos argumentos contidos nesta insurgência, bem como aqueles contidos no agravo em recurso especial, verifica-se que, embora tenha havido uma impugnação genérica da incidência da Súmula 7/STJ, o mesmo não aconteceu com relação à incidência da Súmula 282/STF, sobre a qual não houve sequer menção.
+A jurisprudência desta Corte Superior é no sentido de que a ausência de impugnação de algum dos fundamentos invocados pelo juízo provisório de admissibilidade impede o conhecimento do agravo em recurso especial.
+Na mesma linha de cognição:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação declaratória c/c restituição de valores c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.694.212/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/08/2020, DJe 27/08/2020).
+Dessa forma, prevalece o fundamento da decisão agravada, por insuficiência das razões recursais.
+Quanto ao pedido de aplicação de multa por litigância de má-fé, contido na impugnação a este agravo, o entendimento desta Corte é de que a interposição de recurso legalmente previsto, sem abuso do direito de recorrer, não configura a má-fé ensejadora da aplicação da pena.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. JUÍZO COMPETENTE. CAUSAS CONTRA A UNIÃO FEDERAL. JUÍZO NO DOMICÍLIO DO IMPETRANTE. POSSIBILIDADE. ART. 109, § 2º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I  Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II  A orientação da Suprema Corte é no sentido de que a regra do art. 109, § 2º, da Constituição da República também se aplica ao mandado de segurança.
+III  Na linha do entendimento do STF, esta Corte reviu posicionamento para reconhecer legítima a opção do Impetrante de propor o mandamus no foro do seu domicílio quando impetrado contra ato de autoridade integrante da Administração Pública Federal.
+Precedentes.
+IV  Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V  Agravo Interno improvido.
+(AgInt no CC 175.134/DF, Rel. Ministra Regina Helena Costa, Primeira Seção, julgado em 31/08/2021, DJe 03/09/2021).
+Também não cabe o arbitramento de honorários recursais de sucumbência no âmbito do agravo interno.
+Note-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS PARA SANAR A OMISSÃO.
+1. Os embargos de declaração são recurso com fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+2. Na hipótese, realmente não houve manifestação sobre o pedido de fixação de honorários advocatícios em razão da interposição do agravo interno.
+3. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+4. Embargos de declaração acolhidos apenas para sanar a omissão.
+(EDcl no AgRg no AREsp 1.868.062/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/08/2021, DJe 20/08/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
