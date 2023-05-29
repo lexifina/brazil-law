@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 1.635/1.636).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.575):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. AGRAVO RETIDO. ILEGITIMIDADE PASSIVA. REJEIÇÃO. COBRANÇA DE DESPESAS HOSPITALARES. PRESTAÇÃO DOS SERVIÇOS COMPROVADA. ALEGAÇÃO DE FALHA. AUSÊNCIA DE COMPROVAÇÃO. EXCESSO NA COBRANÇA. NÃO DEMONSTRAÇÃO. SENTENÇA MANTIDA.
+1. A legitimidade para compor o polo passivo deve ser analisada com base nos elementos da lide, com relação ao próprio direito de ação, afastando-se do conteúdo da relação jurídica material deduzida em juízo, haja vista que o direito de ação caracteriza-se pela autonomia e abstração.
+2. Não há que se falar em falha na prestação do serviço por parte do hospital que efetuou cobrança, quando a prova pericial é conclusiva no sentido de que foram adotados todos os procedimentos necessários ao tratamento da doença que acometeu a paciente.
+3. Tendo a parte autora se desincumbindo de seu ônus de comprovar a prestação dos serviços médico-hospitalares e ausente a demonstração do alegado excesso na cobrança, é de ser mantida a procedência do pedido inicial.
+4. Agravo retido não provido e Apelação não provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.602/1.606).
+Nas razões do recurso especial (e-STJ fls. 1.608/1.621), fundamentado no art. 105, III, "a", da CF, a parte alega violação dos arts. 5º, LV, da CF/88, 373, II, e 464 do CPC/2015, 6º e 51, X e XIII, do CDC e 421 do CC/2002.
+Aponta ofensa ao princípio da função social do contrato e assevera que "as instituições hospitalares (hospital, clínica e laboratórios) fixaram uma relação de consumo com a paciente facultando-lhes, sem qualquer aviso prévio ou autorização, modificar substancialmente (para não dizer "no todo") a relação estabelecida - podendo introduzir procedimentos, realizar exames e praticar outros atos unilateralmente" (e-STJ fl. 1.615).
+Aduz que houve também violação dos princípios da boa-fé objetiva, da transparência e da informação, pois "impossível se fazer a correlação entre os milhares de itens elencados no malfadado "Extrato de Conta Hospitalar" e os procedimentos supostamente realizados na paciente Terezinha, em total afronta aos princípios fundamentais do Código de Defesa do Consumidor, em especial da boa-fé objetiva, da transparência, do dever de informação e da vulnerabilidade e da hipossuficiência do consumidor" (e-STJ fl. 1.616).
+Acrescenta que "uma violação ao Princípio da Vulnerabilidade e Hipossuficiência, uma vez que o consumidor - sem qualquer conhecimento técnico (vulnerabilidade e hipossuficiência técnica) viu-se compelido a aceitar relatórios extensos de serviços e produtos para os quais absolutamente não tem meios de impugnar tecnicamente, mormente quando apresentados em momento quando ainda sob o influxo das severas medidas de saúde da esposa" (e-STJ fl. 1.618).
+Requer a produção de prova técnica pericial para apuração do valor correto cobrado pelo hospital agravado.
+No agravo (e-STJ fls. 1.647/1.660), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.666/1.669 (e-STJ).
+É o relatório.
+Decido.
+No que diz respeito ao pedido de produção de prova pericial para apuração do débito, bem como violação do art. 464 do CPC/2015, verifica-se que a tese e o conteúdo normativo de tal dispositivo não foi apreciado pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Consta nos autos que o Tribunal de origem entendeu que (e-STJ fls. 1.586/1.587):
+No que se refere à alegação de excesso do valor cobrado, tem-se que a petição inicial foi instruída com a relação das despesas hospitalares, fls.23 e com o Extrato de Conta Hospitalar em que consta a relação dos materiais utilizados, os honorários dos profissionais que atuaram durante o período de internação da esposa do demandado e, ainda, os valores relativos às diárias pela ocupação do leito, não tendo o demandado demonstrado, de maneira inequívoca a incorreção dos valores.
+Ademais, conforme registrado em1ª instância, o laudo pericial registrou que todos os procedimentos adotados foram necessários ao correto atendimento da paciente.
+Não se pode olvidar, ainda, o fato de que o Autor assinou a declaração, assumindo a dívida junto aos Autores, em 15.04.2005, ou seja, após a alta hospitalar de sua esposa, que se deu em 27.11.2004, não havendo se falar em coação ou estado de necessidade.
+Da referida declaração, constou que o Réu, ora Apelante, solicitou desconto nos valores apresentados, "para analisar a possibilidade e forma de quitação da dívida em questão, onde o Sr. Rafael Delecrod Prata, funcionário encarregado de contas a receber, após autorização da diretoria do Hospital, apresentou-me uma proposta para o efetivo pagamento, no valor de R$ 170.000,00 (cento esetenta mil reais), a qual vou reanalisar junto a meus familiares, comprometendo-me a dar-lhes uma solução para a referida dívida, no prazo máximo de 15 (quinze) dias, a partir da presente data".
+Diante do contexto acima delineado, tem-se que as alegações do Apelante não são suficientes para afastar a obrigação do pagamento das despesas cobradas, não ficando evidenciada nenhuma circunstância que afaste a pretensão veiculada na inicial.
+Modificar o entendimento do acórdão impugnado quanto à regularidade da cobrança, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
