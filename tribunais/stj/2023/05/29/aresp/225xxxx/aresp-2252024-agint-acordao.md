@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo BANCO SAFRA S.A. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial manejado, tendo em vista que a parte recorrente apresentou embargos de declaração; e, posteriormente, recurso especial. Assim, não se conheceu do segundo recurso, no caso, do recurso especial, dada a preclusão consumativa e a violação do princípio da unicidade recursal.
+Em suas razões (e-STJ, fls. 2.470-2.516), o agravante assevera, em resumo, não ser o caso de preclusão nem tampouco de violação do princípio da unirrecorrebilidade recursal, uma vez que "os Embargos de Declaração apresentados, em razão de uma falha sistêmica, não foram apresentados no prazo legal, por isso, seguiu-se com a apresentação de Recurso Especial, este sim, no prazo legal" (e-STJ, fl. 2.471).
+Além disso, defende, nos termos da Súmula 579/STJ, ser possível a apresentação de recurso especial na pendência de julgamento dos embargos de declaração, dispensando-se, quando inalterado o resultado anterior, a ratificação do apelo especial.
+Não houve impugnação (e-STJ, fls. 2.519).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PRETENSÃO DE APLICAÇÃO DA SÚMULA N. 579/STJ. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões.
+2. Não há falar na aplicação da Súmula n. 579/STJ, segundo a qual "não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior", uma vez que, na espécie, ambos os recursos interpostos contra o acórdão proferido no julgamento do agravo de instrumento foram apresentados pela mesma parte, isto é, os aclaratórios que se encontravam pendentes de julgamento no momento da interposição do recurso especial foram opostos pelo próprio ora agravante, e não pela parte adversa.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Com efeito, é entendimento desta Corte Superior que a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões.
+Confira-se (sem destaques nos originais):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. CONVERSÃO EM AÇÃO DE EXIBIÇÃO DE DOCUMENTOS E DE COBRANÇA. AUSÊNCIA DE PEDIDO. IMPOSSIBILIDADE, ANTE A VEDAÇÃO AO JULGAMENTO EXTRA PETITA. INTERPOSIÇÃO DE NOVO AGRAVO INTERNO. INADMISSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE.
+1. Ação de exigir contas 2. O princípio da congruência ou adstrição está previsto no art. 141 do CPC/2015 e impõe ao julgador a observância do pedido. Por sua vez, o art. 492 do mesmo diploma legal estabelece que "é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado". Portanto, caso o juiz ultrapasse os limites do pedido e não se trate de hipótese excepcionada pela lei, a decisão será proferida com error in procedendo, caracterizando-se como ultra ou extra petita.
+3. O princípio da singularidade, também denominado da unicidade do recurso, ou unirrecorribilidade consagra a premissa de que, para cada decisão a ser atacada, há um único recurso próprio e adequado previsto no ordenamento jurídico.
+4. Agravo interno de fls. 634-642 não provido e não conhecido o de fls. 643-648, com aplicação de multa.
+(AgInt no AREsp n. 2.139.988/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. RECURSO DESPROVIDO.
+1. "Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgRg no AREsp 849.518/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe de 2/8/2017).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.109.241/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022.)
+Outrossim, não há falar na aplicação da Súmula n. 579/STJ, segundo a qual "não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior", uma vez que, na espécie, ambos os recursos interpostos contra o acórdão proferido no julgamento do agravo de instrumento foram apresentados pela mesma parte, isto é, os aclaratórios que se encontravam pendentes de julgamento no momento da interposição do recurso especial foram opostos pelo próprio ora agravante, e não pela parte adversa.
+Dessa forma, considerando que, inici almente, foram opostos embargos de declaração e, posteriormente, recurso especial contra a mesma decisão, é imperiosa a manutenção da decisão agravada, por estar em conformidade com a jurisprudência do Superior Tribunal de Justiça, devendo não se conhecer do segundo recurso.
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto impugnado, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
