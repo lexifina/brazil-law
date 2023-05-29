@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+LEME E FONSECA ADVOGADOS ASSOCIADOS interpôs agravo interno contra decisão monocrática cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. HONORÁRIOS ADVOCATÍCIOS. PRECATÓRIO. ARTIGO 85, PARÁGRAFOS 3º, 4º E 7º, DO CPC. ARBITRAMENTO. INDEFERIMENTO. DECISÃO INTERLOCUTÓRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. REINCIDÊNCIA. CONDENAÇÃO DE MULTA. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. SÚMULA 7/STJ. OFENSA AO ARTIGO 22, § 3º, DA LEI N. 8.906/94. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões deste agravo sustenta que não há que se falar em óbice da súmula 7/STJ no que pertine à alegada afronta ao artigo 1.026 do CPC - multa por embargos protelatórios -, haja vista que todos os elementos para a correta aferição da inegável violação a citado dispositivo encontram-se consignados no acórdão recorrido, uma vez que não houve resposta ao pedido de arbitramento de seus honorários, razão pela qual foi necessária a reiteração dos embargos de declaração.
+Aduz que a mera reiteração dos embargos declaratórios -mormente em virtude de ter remanescido a omissão - jamais poderá ser alçada à má-fé com o intuito manifestamente protelatório, ainda que isso pudesse interessar ao agravante. Ademais, o agravante busca o arbitramento de seus honorários advocatícios, verba de caráter alimentar, tendo todo o interesse na celeridade do feito.
+Afirma que não há que se falar em ausência de prequestionamento, uma vez que a r. decisão ora agravada ignora o fato de que o STJ admite o prequestionamento implícito, sem que haja a expressa menção ao dispositivo legal tido por violado.
+Ademais, alega que houve debate pelo Tribunal a quo acerca da matéria consignada no art. 22, § 3º da Lei 8.906/94, uma vez que o v. Acórdão simplesmente entendeu que a expedição de precatório inviabiliza o arbitramento da verba honorária, deixando de considerar que o precatório não foi expedido ao agravante e sim aos atuais patronos do exequente.
+Destaca que não houve menção ao cabimento do recurso especial diante da demonstração de dissídio jurisprudencial quanto à interpretação do disposto no art. 22, § 3º da Lei 8.906/94.
+Pugna pela reconsideração da decisão ora agravada ou o julgamento pelo Órgão Colegiado.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRECATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS. REINCIDÊNCIA. CONDENAÇÃO DE MULTA. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. SÚMULA 7/STJ. OFENSA AO ARTIGO 22, § 3º, DA LEI N. 8.906/94. AUSÊNCIA DE PREQUESTIONAMENTO DO COMANDO NORMATIVO DO DISPOSITIVO INDICADO COMO VIOLADO E DA RESPECTIVA TESE RECURSAL. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. "É pacífico no STJ que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ". (REsp1802785/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em21/05/2019, DJe 19/06/2019)
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido, de modo que somente se poderá entender pelo prequestionamento implícito quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+VOTO
+O presente recurso tem por objeto afastar os óbices impostos pela decisão agravada.
+Entretanto, suas razões de impugnação não merecem prosperar.
+Sustenta o agravante, inicialmente que não há que se falar em óbice da súmula 7/STJ no que pertine à alegada afronta ao artigo 1.026 do CPC - multa por embargos protelatórios -, haja vista que não houve resposta ao pedido de arbitramento de seus honorários, razão pela qual foi necessária a reiteração dos embargos de declaração, além de que a reiteração dos embargos declaratórios -mormente em virtude de ter remanescido a omissão - jamais poderá ser alçada à má-fé com o intuito manifestamente protelatório, ainda que isso pudesse interessar ao agravante.
+Contudo, neste ponto, assim consignou o Tribunal de origem ao manter a decisão que ensejou o agravo de instrumento (e-STJ fls. 450/451):
+(..)
+Presentes os pressupostos inerentes à admissibilidade recursal, conheço do presente agravo.
+Eis termos da decisão agravada (movimentação 133 dos autos de origem de nº54487.76):
+"De fato, a decisão recorrida foi clara ao estabelecer a inexistência de omissão a ser sanada, mormente porque reconhecido, expressamente, ser incabível a fixação de honorários no caso vertente. Portanto, trata-se de reiteração de matéria já exaustivamente apreciada, e não, de omissão, oque tem o condão de tornar os presentes embargos em recurso meramente protelatório, razão pela qual, deve incidir a multa prevista no artigo 1.026, §2º, do CPC. Frente ao exposto, rejeito os embargos e condeno a embargante ao pagamento de multa de 2% (dois por cento) sobre o valor da causa. Advirto a parte, ainda, que nova reiteração dos embargos sob o mesmo fundamento implicará na majoração da multa, nos termos do § 3º do referido artigo."
+O presente agravo de instrumento foi interposto contra decisão do juízo a quo que, após deixar de apreciar o pedido de arbitramento de honorários advocatícios devidos ao escritório do agravante, impôs multa após oposição de embargos declaratórios pela segunda vez, pois entendeu que eram protelatórios.
+(..)
+O agravante, LEME E FONSECA ADVOGADOS ASSOCIADOS, apresentou embargos de declaração pedindo que fosse integrado em decisão o arbitramento dos honorários advocatícios devidos ao escritório em, no mínimo, 2/3 sobre o valor total, todavia foram rejeitados (movimentação 120).
+O agravante apresenta novos embargos de declaração acrescentando em sua insurgência, (movimentação 123) a aplicação da multa de 2%, em razão do recurso protelatório, os quais foram rejeitados (decisão agravada, movimentação 133), daí a interposição do presente agravo de instrumento.
+Neste aspecto, labora erroneamente o agravante, porquanto a aplicação da multa se encontra devidamente prescrita no artigo 1.026, § 2º, do CPC.
+Conforme asseverado na decisão ora agravada, com relação à multa aplicada na origem em virtude do caráter protelatório dos embargos de declaração, a jurisprudência desta Corte Superior é firme no sentido de que rever a conclusão a que chegou o Tribunal local no ponto, exige o reexame do acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula n. 7/STJ haja vista que o acolhimento das razões alinhadas no recurso especial de modo a se chegar à conclusão que a agravante não agiu de má-fé, é tarefa que reclama, necessariamente, a incursão na seara fático-probatória dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO (ETE) SÃO JORGE. INDÍCIOS DE MAU CHEIRO NA REGIÃO CIRCUNVIZINHA. INSTRUÇÃO PROBATÓRIA INDISPENSÁVEL. PRODUÇÃO DE PROVA TÉCNICA. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+ ..
+5. É pacífico no STJ que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+ ..
+7. Recurso Especial parcialmente conhecido, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(REsp 1802785/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/05/2019, DJe 19/06/2019)
+TRIBUTÁRIO. EMBARGOS PROTELATÓRIOS. MULTA. SÚMULA N. 7/STJ. DECLARAÇÃO DE COMPENSAÇÃO RETIFICADORA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA.
+I - A irresignação do recorrente, em relação à aplicação de multa decorrente da renovação da oposição de embargos declaratórios, vai de encontro às convicções da Corte Julgadora originária que, com lastro no conjunto probatório acostado aos autos, concluiu que os novos embargos de declaração opostos tiveram intuito meramente protelatório. A revisão do referido entendimento em recurso especial é vedada pelo óbice da Súmula n. 7/STJ. Precedentes.
+II - A declaração de compensação retificadora apresentada pelo contribuinte não promoveu qualquer alteração nos valores declarados originalmente, limitando-se a alterar a forma de quitação dos débitos. Desta forma, tendo a declaração retificadora corrigido apenas equívocos formais, não se aplica a interrupção da prescrição prevista no art. 174, IV, do CTN. Precedentes.
+III - Agravo conhecido para, conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+(AREsp n. 1.747.711/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2023, DJe de 13/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição" (Tema/Repetitivo 1034/STJ).
+2. Caracterizam-se como protelatórios os embargos de declaração opostos sem a indicação de omissão, contradição, obscuridade ou erro material, com nítido propósito de rediscutir o mérito da controvérsia. Precedentes.
+2.1. Na hipótese , o Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.171.186/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LITISPENDÊNCIA. EXISTÊNCIA DA TRÍPLICE IDENTIDADE. AFASTAMENTO DE MULTA DE EMBARGOS PROTELATÓRIOS. REVOLVIMENTO DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, verificar-se-á a litispendência quando constatada a tríplice identidade entre as ações, ou seja, identidade de partes, causa de pedir e pedido.
+1.1. Conforme assentado pelo Tribunal de origem, inexiste, na hipótese, a tríplice identidade entre as ações, o que enseja a improcedência da tese de litispendência.
+2. Entendendo a Corte local sobre o caráter protelatório dos embargos de declaração, o reexame acerca da questão esbarra em óbice da Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AgInt nos EDcl no AREsp n. 2.028.715/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Quanto à ausência de prequestionamento do artigo 22, § 3º, da Lei nº 8.906/94, o agravante afirma que não há que se falar no referido óbice, haja vista que o STJ admite o prequestionamento implícito, ou seja, sem que haja a expressa menção ao dispositivo legal tido por violado, além de que houve debate pelo Tribunal a quo acerca da matéria consignada no referido dispositivo legal.
+Com efeito, não se desconhece o entendimento desta Corte Superior quanto ao aceite do prequestionamento explícito e implícito, porém, deve-se observar neste último que só ocorrerá quando a matéria jurídica vinculada no recurso tenha sido efetivamente enfrentada e discutida no acórdão impugnado, ainda que este não tenha mencionado expressamente os artigos de lei objeto do inconformismo.
+Infere-se da fundamentação do acórdão recorrido que o comando normativo do artigo 22, § 3º, da Lei nº 8.906/94, bem como a tese recursal que fundamentou a alegada violação não foram debatidos ou apreciados pelo Tribunal de origem, nem foram opostos embargos de declaração para obter pronunciamento da Corte de origem, estando desatendido o requisito do prequestionamento, atraindo a incidência das Súmulas 282/STF e 356/STF.
+Oportuno consignar que o STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido, o que não ocorreu no caso.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR. ART. 620 DO CPC. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+3. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu.
+4. Nos termos da jurisprudência pacífica do STJ, a análise da alegada violação do princípio da menor onerosidade (art. 620 do CPC) requer reexame de fatos e provas, o que é vedado ao STJ em recurso especial, por esbarrar no óbice da Súmula 7/STJ. Agravo interno improvido.
+(AgInt no REsp 1595460/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2016, DJe 17/08/2016)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INDEFERIMENTO DE PRODUÇÃO DE PROVA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É inadmissível Recurso Especial quanto a questão (art. 84 do CPC), que não foi apreciada pelo Tribunal de origem, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+2. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da matéria debatida, o que não ocorreu no caso dos autos.
+3. A investigação acerca de suposto cerceamento de defesa causado pelo indeferimento da produção de prova pericial é inviável, por meio de Recurso Especial, conforme entendimento uniformizado do STJ, em face da vedação enunciada pela Súmula 7/STJ. (AgRg no REsp 1.363.767/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16.4.2013).
+4. Agravo Regimental não provido."
+(AgRg no AREsp 401.271/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2013, DJe 06/03/2014.)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS STF/282 E 356. REVISÃO. REEXAME DE PROVAS. SÚMULA STJ/7. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia nos limites do que lhe foi submetido. Não há que se falar, portanto, em violação do artigo 535 do CPC ou negativa de prestação jurisdicional.
+2.- É inadmissível o Recurso Especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas STF/282 e 356.
+3.- A convicção a que chegou o Acórdão recorrido decorreu da análise do conjunto fático-probatório, sendo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+4.- O recurso especial pela alínea "c" do permissivo constitucional também deve atender à exigência do prequestionamento.
+5.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+6.- Agravo Regimental improvido.
+(AgRg no AREsp 83.011/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2014, DJe 06/06/2014)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
