@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA - COHAB-CT, irresignada com a decisão de fls. 680-682, proferida por esta Relatoria, que conheceu do agravo para negar provimento ao recurso especial, sob o fundamento de incidência da Súmula 7/STJ.
+Em suas razões recursais, a parte agravante sustenta a inaplicabilidade da Súmula 7/STJ, ante a desnecessidade de revolvimento do acervo fático-probatório dos autos.
+Aduz, ainda, que "é incontroverso nos autos que houve a inclusão da agravante no pólo passivo após o lapso do prazo prescricional posteriormente reconhecido".
+Intimado, o agravado não apresentou impugnação, conforme certidão de fl. 699.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. ÔNUS SUCUMBENCIAIS. AGRAVO INTERNO DESPROVIDO.
+1. "O entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ, é no sentido de que em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa" (AgInt no AgInt no AREsp 2.037.941/PR, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022).
+2. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Os argumentos trazidos pela parte recorrente se mostram insuficientes para infirmar a decisão agravada, a qual deve ser confirmada por seus próprios fundamentos.
+Como asseverado no decisum impugnado, na hipótese, o TJ-PR, com base nas peculiaridades da lide, compreendeu que, ante o princípio da causalidade, a recorrente é responsável pelos ônus sucumbenciais, como se verifica no trecho a seguir transcrito (fls. 587-588):
+"É cediço que o princípio da causalidade tem como finalidade orientar a distribuição das verbas de sucumbência, inclusive nos processos em que ocorre a extinção da execução por reconhecimento da prescrição intercorrente. Desta forma, a regra é que quem deu causa à instauração do processo, responde pela sucumbência.
+No presente caso, a execução foi instaurada diante do inadimplemento de débitos condominiais, entretanto, os períodos em que o feito ficou arquivado superaram a marca de 5 (cinco) anos, conforme fundamenta a magistrada.
+Apesar de a apelante alegar que foi incluída no polo passivo quando a pretensão executiva se encontrava prescrita, temos que a obrigação em questão é propter rem, portanto, esta responde pelas verbas de sucumbência, que compreende os honorários, custas e despesas processuais.
+ ..
+Sendo assim, é evidente o entendimento no sentido de que o não cumprimento da obrigação exequenda se sobrepõe ã situação fática processual que conduziu ao reconhecimento da prescrição intercorrente."
+Não se pode olvidar, contudo, que o entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ é no sentido de que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso, porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa (AgInt no AgInt no AREsp 2.037.941/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/9/2022, DJe de 30/9/2022). Em idêntico sentido, citam-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ÔNUS SUCUMBENCIAIS. PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "O entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ, é no sentido de que em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa" (AgInt no AgInt no AREsp n. 2.037.941/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/9/2022, DJe de 30/9/2022).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que a parte executada, ao não efetuar o pagamento de dívida firmada, deu causa ao ajuizamento da execução, tendo-se inclusive paralisado o feito em razão da recalcitrância em pagar o valor buscado, culminando com a extinção devido a o reconhecimento da prescrição intercorrente.
+Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.997.328/MS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 13/2/2023, DJe de 22/2/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM DESFAVOR DA PARTE EXEQUENTE. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, a extinção do processo executivo, ante o reconhecimento da prescrição intercorrente por ausência de localização de bens penhoráveis, não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.084.606/MS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+Não se pode olvidar que, na hipótese dos autos, a sentença que decretou a prescrição intercorrente foi proferida em agosto de 2020, antes, portanto, da alteração ocorrida no art. 921, § 5º, do CPC, promovida pela Lei 14.195/2021, razão pela qual não se aplica à hipótese vertente o precedente abaixo:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONFIGURADA. NULIDADE PREJUDICADA. CELERIDADE. ECONOMIA PROCESSUAL. EFETIVIDADE. PRIMAZIA DO JULGAMENTO DE MÉRITO. TEORIA DA CAUSA MADURA. DEVEDOR. BENS NÃO ENCONTRADOS. PRESCRIÇÃO INTERCORRENTE. CONFIRMADA. HONORÁRIOS ADVOCATÍCIOS. SUPERVENIÊNCIA DA LEI Nº 14.195/2021. ALTERAÇÃO LEGAL. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS. "EXTINÇÃO SEM ÔNUS". MARCO TEMPORAL. SENTENÇA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Execução de título extrajudicial, ajuizada em 6/11/2018, da qual foi extraído o presente recurso especial, interposto em 6/7/2022 e concluso ao gabinete em 22/9/2022.
+2. O propósito recursal consiste em definir se, após a alteração do art. 921, §5º, do CPC/15, promovida pela Lei nº 14.195/2021, o reconhecimento da prescrição intercorrente e a consequente extinção do processo obstam a condenação da parte que deu causa à ação ao pagamento de honorários sucumbenciais.
+3. A jurisprudência desta Corte pacificou-se em relação à aplicação do princípio da causalidade para o arbitramento de honorários advocatícios quando da extinção do processo em razão do reconhecimento da prescrição intercorrente (art. 85, §10º, do CPC/15).
+4. Todavia, após a alteração promovida pela Lei nº 14.195/2021, publicada em 26/8/2021, faz-se necessário rever tal posicionamento, uma vez que o §5º do art. 921 do CPC/15 dispõe expressamente que não serão imputados quaisquer ônus às partes quando reconhecida referida prescrição.
+5. Nas hipóteses em que extinto o processo com resolução do mérito, em razão do reconhecimento da prescrição intercorrente, é de ser reconhecida a ausência de ônus às partes, a importar condenação nenhuma em custas e honorários sucumbenciais.
+6. A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal).
+7. Hipótese em que a sentença extinguiu o processo em 4/10/2021, ante o reconhecimento da prescrição intercorrente, e o executado/recorrente foi condenado ao pagamento de honorários sucumbenciais, quando do julgamento da apelação do exequente/recorrido.
+8. Recurso especial conhecido e provido para afastar a condenação em honorários advocatícios.
+(REsp n. 2.025.303/DF, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+Por fim, saliente-se que, apesar de a recorrente alegar que foi incluída no polo passivo quando a pretensão executiva se encontrava prescrita, é imperioso ressair que a obrigação em questão é propter rem, visto que oriunda de débito condominial, situação que enseja a respectiva responsabilização pelas verbas sucumbenciais. Ademais, não há, nos autos, nenhuma alegação ou comprovação de que o imóvel tenha sido alienado fiduciariamente, quando, aí sim, a responsabilidade pelo pagamento das despesas condominiais é afeta ao devedor fiduciante, enquanto estiver na posse direta do imóvel.
+Nesse diapasão, com fulcro nos fundamentos acima aduzidos, a decisão recorrida não merece reforma.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
