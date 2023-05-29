@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por SANCRIS LINHAS E FIOS LTDA. contra decisão de fls. 1.511/1.514, que conheceu em parte de seu recurso especial e, na parte conhecida, negou-lhe provimento, sob os seguintes fundamentos: ausência de violação ao art. 1.022 do CPC; incidência de contribuição previdenciária sobre o adicional de insalubridade e aplicação da Súmula 284/STF relativamente ao pleito de contribuição previdenciária sobre os reflexos do salário-maternidade.
+Sustenta a parte agravante, em resumo: (I) nulidade do acórdão recorrido por ofensa ao art. 1.022; (II) não incidência do óbice da Súmula 284/STF porquanto a impossibilidade de tributação dos reflexos que o pagamento do salário-maternidade gera seria desdobramento natural da conclusão alcançada quanto aos valores principais.
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Sem contrarrazões (fl. 1.532).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL RECAI A CONTROVÉRSIA. SÚMULA 284/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a instância ordinária solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial manejado por SANCRIS LINHAS E FIOS LTDA., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1351):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. JUÍZO DE RETRATAÇÃO.
+TEMA 72 DO STF. SALÁRIO-MATERNIDADE.
+É inconstitucional a incidência de contribuição previdenciária a cargo do empregador sobre o salário maternidade (TEMA STF 72).
+Opostos embargos de declaração, foram parcialmente providos nos termos da seguinte ementa (fl. 1406):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. JUÍZO DE RETRATAÇÃO.
+TEMA Nº 72 DA REPERCUSSÃO GERAL. SALÁRIO-MATERNIDADE.
+REFLEXOS.
+Devem ser providos os embargos de declaração para suprir omissão do acórdão sobre o pedido da inicial de que não sejam tributados também os reflexos do salário-maternidade, estabelecendo-se que as verbas caculadas levando-se em conta o salário-maternidade recebido no período não estão abrangidas pelo entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema nº 72 da repercussão geral.
+A parte recorrente aponta violação aos arts. 1022 do CPC, 20, 22, I e II, da Lei 8.212/91, 110 do CTN e 15 da Lei 9.424/96.
+Aduz, em resumo: (I) omissão no julgado embargado que não se manifestou acerca do argumento de que os reflexos proporcionais ao pagamento do salário-maternidade não se sujeitam à tributação; (II) não incidência de contribuição previdenciária sobre os adicionais noturno, insalubridade, periculosidade e horas extras; (III) não incidência de contribuição previdenciária sobre as parcelas do salário maternidade que compõem o 13º salário, férias remuneradas, 1/3 constitucional de férias e repouso semanal remunerado; (IV) direito à compensação e aos juros SELIC sobre as verbas questionadas.
+Contrarrazões apresentadas às fls. 1463/1465.
+Parecer do Ministério Público Federal às fls. 1502/1509 pelo não conhecimento do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o Tribunal de origem, em juízo de admissibilidade (fl.s 1473/1475), negou seguimento ao recurso especial no tocante às horas extras, adicional noturno e adicional de periculosidade, com fundamento nos seguintes temas repetitivos: 687; 688 e 689, razão pela qual o recurso especial não será apreciado nesses pontos.
+Quanto à apontada ofensa ao art. 1022 do CPC, observa-se que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Sobre o tema, confira-se o seguinte excerto do acórdão integrativo (fl. 1.395):
+Após ser reconhecida a inexigibilidade de contribuição previdenciária sobre o salário-maternidade em sede de juízo de retratação, a embargante interpôs os presentes embargos de declaração, pedindo seja suprida omissão quanto a pedido, formulado na petição inicial, de que os reflexos produzidos tampouco podem ser tributados.
+Embora outros valores recebidos pelo empregado, como é o caso do aviso prévio indenizado e do décimo terceiro salário, sejam calculados levando- se em conta o salário-maternidade recebido no período que os compõem, é certo que eles não têm a natureza alterada por conta desse fato. Dito de outro modo, tais verbas continuarão sendo aviso prévio indenizado e décimo terceiro salário, independentemente dos valores que compuseram seu cálculo, somente se cogitando de não-incidência de tributo em caso de decisão judicial reconhecendo a natureza indenizatória especificamente de tais verbas.
+Trata-se do mesmo raciocínio empregado no caso do décimo terceiro salário calculado sobre o aviso prévio indenizado, cuja incidência de contribuição previdenciária é reiteradamente reconhecida neste Tribunal e no Superior Tribunal de Justiça  ,,
+Relativamente ao adicional de insalubridade, a jurisprudência desta Corte é firme no sentido da incidência de contribuição previdenciária. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE ADICIONAL DE INSALUBRIDADE E DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Há entendimento consolidado nesta Corte acerca da incidência de Contribuição Previdenciária sobre os adicionais de insalubridade e de transferência. Precedentes: AgInt no REsp 1.903.741/MS, Rel. Ministro GURGEL DE FARIA, DJe 31/08/2021; AgInt no AgInt no AREsp 1.680.585/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 18/12/2020.
+2. A orientação das Turmas que integram a Primeira Seção/STJ é pacífica quanto à incidência da contribuição sobre os valores pagos a título de décimo terceiro proporcional ao aviso prévio indenizado.
+Precedentes: AgInt no REsp 1.836.748/RS, Rel. Min. GURGEL DE FARIA, DJe 17/2/2021; AgInt no REsp 1.612.306/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 8.10.2020.
+3. Agravo interno da empresa a que se nega provimento.
+(AgInt no AREsp n. 1.989.024/AL, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO. INCIDÊNCIA. SÚMULA 83/STJ.
+1. "No julgamento dos Recursos Especiais repetitivos 1.230.957/RS e 1.358.281/SP, a Primeira Seção firmou a compreensão de que incide contribuição previdenciária patronal sobre as seguintes verbas:
+salário-maternidade, salário-paternidade, horas-extras, adicional de periculosidade e adicional noturno. No que tange às demais verbas (repouso semanal remunerado, adicional de insalubridade, férias gozadas e décimo terceiro proporcional ao aviso prévio indenizado), também é pacífico o entendimento do STJ quanto à incidência da contribuição previdenciária patronal. Precedentes: AgInt nos EDcl no REsp 1.693.428/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11.5.2018; AgInt no REsp 1.661.525/CE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 26.4.2018; REsp 1.719.970/AM, Rel. Min. Og Fernandes, Segunda Turma, DJe 21.3.2018; AgInt no REsp 1.643.425/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 17.8.2017; AgInt nos EDcl no REsp 1.572.102/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 15.5.2017; AgRg no REsp 1.530.494/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 29.3.2016; REsp 1.531.122/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 29.2.2016; AgRg nos EDcl no REsp 1.489.671/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 13.11.2015; REsp 1.444.203/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 24.6.2014." (REsp 1.775.065/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2018).
+2. Agravo Interno não provido.
+(AgInt no REsp n. 1.921.297/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021.)
+Por fim, quanto à alegação de não incidência de contribuição previdenciária sobre os reflexos do salário maternidade, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvéria."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco FalcÃ o, Segunda Turma, DJe 1º/3/2021.
+Prejudicada a apreciação do pedido no que se refere à compensação.
+ANTE O EXPOSTO, conheço em parte do recurso especial, e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+Conforme antes consignado, não há falar em violação ao art. 1.022 do CPC, tendo em vista que a instância de origem se pronunciou de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com a sua ausência.
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 1.347/1.352), integrada em sede de embargos declaratórios (fls. 1.385/1.407), que o Tribunal de origem motivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afastam-se, assim, as alegadas omissões ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Já em relação à incidência da Súmula 284/STF, por ausência de indicação do dispositivo legal tido por violado, cumpre esclarecer ser insuficiente para afastar referido anteparo sumular a alegação da parte recorrente no sentido de que a não tributação dos reflexos ao pagamento do salário-maternidade seria desdobramento natural da conclusão alcançada quanto aos valores principais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL EM RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do recurso em razão de a parte recorrente ter deixado de indicar precisamente os dispositivos de lei federal que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+2. É inadmissível o recurso especial que deixa de apontar o dispositivo de lei federal que o Tribunal de origem teria violado, incidindo no caso a Súmula 284 do STF.
+3. Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.207.137/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
