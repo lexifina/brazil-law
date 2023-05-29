@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por Ambientaly Indústria e Comércio de Produtos Químicos Ltda. desafiando decisão da Presidência do STJ, fls. 485/488, que conheceu do agravo para não conhecer do seu recurso especial, sob o fundamento de incidência da Súmula 7/STJ.
+A parte agravante, em suas razões, sustenta, em síntese, ser desnecessário o reexame do acervo fático-probatório e inaplicável o prazo decadencial de 120 dias para mandado de segurança preventivo.
+Aberta vista à parte agravada, o Estado do Rio Grande do Sul apresentou impugnação às fls. 516/522, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSO CIVIL. MANDADO DE SEGURANÇA. NATUREZA REPRESSIVA ASSENTADA COM BASE EM MATÉRIA FÁTICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COMANDO DO INDICADO DISPOSITIVO LEGAL QUE NÃO SUSTENTA A TESE RECURSAL. SÚMULA 284/STF.
+1. O Tribunal de origem, com base nos elementos fáticos dos autos, verificou que o mandado de segurança possuía natureza repressiva, considerando que a impetrante pretende a compensação de valores tributários decorrente de fato pretérito. A revisão dessa conclusão demanda exame do acervo fático-probatório constante do feito, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. No mesmo sentido, ilustrativamente, confira-se: AgInt no REsp n. 1.123.076/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/5/2019.
+2. Inviável o conhecimento do recurso especial quando o dispositivo legal tido por violado não contém comando capaz de sustentar a tese expendida nas razões recursais e, por isso, de infirmar o juízo formulado pelo acórdão recorrido. Atração, à espécie, do impedimento da Súmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento.
+Conforme antes consignado, o Tribunal de origem, com base nos elementos fáticos dos autos, verificou que o mandado de segurança possuía natureza repressiva, e não preventiva, como defende o contribuinte impetrante. Confira-se o excerto pertinente do aresto regional (fls. 31/33):
+Por certo, a apelante viu-se vitoriosa, em parte, quanto à autuação que recebeu (Auto de Lançamento nº 003506584), em face da decisão final no Mandado de Segurança nº 001/1.05.0344834-0 (cujo trânsito em julgado situa-se em 04.11.2014).
+Mais especificamente, resultou-lhe crédito quanto aos juros moratórios e multa que terminou por assumir ao aderir ao REFAZ II.
+Também é correto que tais valores bem poderiam ser objeto ou de (1) em juízo, ação condenatória de repetição de indébito tributário ou (2) de pleito administrativo visando a compensação tributária.
+Quanto a esta segunda alternativa, apenas se e quando fosse negada a compensação é que se poderia cogitar de alguma conduta passível de ataque por mandado de segurança.
+Não se apresenta aceitável a argumentação e suposto justo receio assente em eventual "cerceamento administrativo", negando tal compensação, como fundamentado pela recorrente (entre outras manifestações, nos embargos de declaração, e-fl. 222, assim como na apelação, e-fl. 258).
+A par de tal "cerceamento administrativo" ensejar ataque a ele peculiar, verdade é que a impetração dele não cuida, mas, sim, às escâncaras, de buscar na presente impetração a efetivação da compensação.
+Com efeito, da leitura do pedido posto na inicial resulta claro não se estar diante de mandado de segurança preventivo, distante de qualquer cogitação a respeito de alguma eventual conduta administrativa que ensejasse o requisito do justo receio de alguma ilegalidade.
+Transcrevo o pedido, e-fls. 10 e 11:
+"Nestas circunstâncias, requer a Vossa Excelência a declaração de que a impetrante tem direito a compensar, em sua conta corrente fiscal de ICMS, os valores que recolheu no REFAZ II, a título de multa e juros pelo Auto de Lançamento n 003506584, conforme decidido no Mandado de Segurança nº 001/1.05.0344834-0."
+Ou seja, evidentemente a impetrante pretende a compensação de valores tributários decorrente de fato pretérito, nada havendo de preventivo, mas, sim, de reparação.
+Como pontua promoção ministerial de primeiro grau, e-fl. 203:
+"Preliminarmente, necessário aduzir que o demandante aderiu ao REFAZ II, sendo que a última parcela foi adimplida em 25.10.2013 (fl. 1421), portanto, esse é o momento em que nasceu a lesão ao direito do impetrante para utilizar o mandado de segurança uma vez que até esse momento poderia ter postulado a multa e os juros de forma administrativa.
+Ora, decorridos 120 dias desde 25.10.2013 presente a decadência do direito de impetrar o mandado de segurança."
+Com isso, mesmo considerando data mais próxima, a do trânsito em julgado do Mandado de Segurança nº 001/1.05.0344834-0, protocolada a inicial em 12.07.2019, e-fl. 02, inarredável a decadência prevista em o art. 23, Lei nº 12.016/09.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ilustrativamente, na mesma linha de entendimento, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. MANDADO DE SEGURANÇA REPRESSIVO. PRAZO DECADENCIAL PARA IMPETRAÇÃO. SUJEIÇÃO. NATUREZA REPRESSIVA DO WRIT ASSENTADA PELA INSTÂNCIA ORDINÁRIA COM BASE EM ANÁLISE FÁTICO-PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. VERBETE SUMULAR N. 7/STJ. APLICAÇÃO. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIMENTO. CRÉDITOS ESCRITURAIS DE IPI. RESSARCIMENTO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. CABIMENTO. RESISTÊNCIA DO FISCO. ENUNCIADO SUMULAR N. 411/STJ. INCIDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015.
+II - É pacífico o entendimento desta Corte segundo o qual a impetração de mandado de segurança preventivo não se sujeita a prazo decadencial.
+III - In casu, todavia, o tribunal de origem, com base no exame de elementos fáticos e probatórios, assentou a natureza repressiva da impetração. Logo, rever tal posicionamento demandaria necessário revolvimento de matéria fática, inviável em sede de recurso especial, à luz do óbice contido no verbete sumular n. 7/STJ.
+IV - Inviável a análise de eventual divergência jurisprudencial, quando afastada a correlata tese jurídica pela incidência da Súmula n. 7/STJ.
+V - "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco" (enunciado sumular n. 411/STJ).
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.123.076/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/5/2019.)
+Oportuno reforçar que o art. 23 da Lei 12.016/2009 não contém comando capaz de sustentar a tese recursal de que a natureza do mandado de segurança seria preventivo e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgInt no AREsp n. 2.174.809/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023; AgInt nos EDcl no REsp n. 1.779.156/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 24/3/2023; AgInt no AgInt no REsp n. 1.370.538/PE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/3/2023.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
