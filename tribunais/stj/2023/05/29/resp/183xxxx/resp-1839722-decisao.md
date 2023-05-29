@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 79):
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. - AÇÃO CONDENATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. PROPOSTA FORMULADA PELO CONDOMÍNIO PARA ENCERRAMENTO DA EXECUÇÃO. ACEITAÇÃO POR PARTE DA CONDÔMINA. RETRATAÇÃO DO PROPONENTE OCORRIDA APÓS ACEITAÇÃO DO OBLATO. IMPOSSIBILIADE. OBRIGATORIEDADE DA PROPOSTA. - PAGAMENTO EFETUADO. EXECUÇÃO EXTINTA. CUSTA PELA EXECUTADA. - RECURSO CONHECIDO E PROVIDO.
+- A proposta encaminhada via email pela advogada do Condomínio no valor de R$15.000,00, mais o montante já depositado em juízo, ratificada em outras mensagens, obriga o proponente, não se admitindo a retração ocorrida depois da aceitação e antes do prazo concedido para o pagamento.
+Os embargos de declaração foram rejeitados, com condenação ao pagamento de multa (e-STJ fls. 116/118).
+Em suas razões (e-STJ fls. 127/148), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 422 e 842 do CC/2002, tendo em vista que, "no caso do ora recorrente não ter assinado o termo do acordo por ter-se desistido do negócio em razão de constatado erro no cálculo, é possível ante a ausência da minuta final do contrato, tem-se que a oferta não esta completa. A princípio, a aceitação da oferta vincula as partes, isto é, após sinalização efetiva da concordância da proposta, o contrato está firmado, devendo ser cumprido pelas partes" (e-STJ fl. 135),
+(ii) art. 904 do CPC/2015, pois "o depósito judicial realizado pela parte recorrida, não satisfaz integralmente a dívida condominial perquirida nos presentes autos. Aliás, esse é o principal motivo da retratação/desistência do acordo por parte do condomínio recorrente. Considerando a desistência expressa por parte do recorrente, com posterior retratação da proposta, eis que o erro encontrado no cálculo aponta flagrante prejuízo ao condomínio não há como considerar que o depósito realizado satisfez a obrigação. Em 28.09.2015, a procuradora do condomínio encaminhou uma planilha no valor de R$25.742,29 (Vinte e cinco mil setecentos e quarenta e dois reais e vinte e nove centavos). Onde é possível perceber que não houve aplicação dos juros a partir de 01/2010 até 09/2015" (e-STJ fl. 137), e
+(iii) art. 1.026, § 2º, do CPC/2015, devendo ser afastada a multa dos embargos de declaração.
+Contrarrazões não apresentadas (e-STJ fl. 209).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Constata-se que, apesar de opostos embargos de declaração, o teor do art. 422 do CC/2002 não foi expressamente indicado nas razões do recurso e nem enfrentado pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+E ainda, o TJPR não conheceu da suposta contradição quanto à interpretação do art. 842 do CC/2002 por entender que o dispositivo "diz respeito à forma do ato, mas não afeta a obrigação do proponente em cumprir a proposta formulada" (e-STJ fl. 117).
+Contudo, no recurso especial, apontando contrariedade ao art. 842 do CC/2002, a parte sustenta somente que é necessária a sinalização efetiva da concordância da proposta, para que o contrato seja cumprido pelas partes.
+Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido. Incide, portanto, a Súmula n. 283 do STF.
+No mais, de fato, o art. 842 do CC/2002, - segundo o qual "a transação far-se-á por escritura pública, nas obrigações em que a lei o exige, ou por instrumento particular, nas em que ela o admite; se recair sobre direitos contestados em juízo, será feita por escritura pública, ou por termo nos autos, assinado pelos transigentes e homologado pelo juiz" -, nada dispõe a respeito da obrigação do proponente em cumprir a proposta formulada.
+Da mesma forma, a suposta violação do art. 904 do CPC/2015 - "a satisfação do crédito exequendo far-se-á: I - pela entrega do dinheiro" - não é suficiente para afastar o entendimento da origem de que "desistência ou a retratação da proposta de transação por parte do exequente deveria ocorrer antes da aceitação pela executada, o que não se verificou nos autos" (e-STJ fl. 83).
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Por fim, a interposição dos aclaratórios, na Corte de origem, decorreu do exercício do direito de insurgir-se da parte, que se valeu desse meio de modo a tentar prequestionar matéria relevante para futuro recurso especial. Dessa forma, deve-se afastar a multa aplicada.
+Diante do exposto, DOU PROVIMENTO PARCIAL ao recurso, apenas para afastar a multa prevista no parágrafo único do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
