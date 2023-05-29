@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 23/05/2023 a 29/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+DOVER CONTROLES PENEUMÁTICOS LTDA (ou METAL WORK PNEUMÁTICA DO BRASIL LTDA) opõe embargos de declaração ao acórdão assim ementado (fl. 702):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. Em observância ao princípio da dialeticidade, aplica-se analogicamente a Súmula n. 182 do STJ, quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+Em suas razões, a parte embargante, fazendo uma síntese processual, sustenta que (fls. 725-727):
+22. Desse modo, persistindo a omissão arguida no agravo interno, não restou outra alternativa ao embargante senão a oposição do presente recurso, que merecem ser providos, com finalidade de ocorrer a cassação do v. acórdão de piso, seja com a reforma para a procedência da pretensão autoral, ou, então, afastando os elevados valores cobrados cumulativamente, assim entendidos alugueis a títulos redundantes de notificação prévia alongada e de multa, ambos inaplicáveis à espécie porque não houve devolução do imóvel antes do prazo estipulado.
+ ..
+24. Necessário esclarecer a existência de omissão dessa Corte em apreciar a manifestação de fls. 689/701 e-STJ, momento no qual foi suscitada a ocorrência de fato novo que influenciaria diretamente no julgamento da ação. Todavia, não houve sequer menção à manifestação da embargante no acórdão que julgou o Agravo Interno.
+25. O fato novo em comento diz respeito à publicação de uma sentença, nos autos da Ação de indenização cadastrada sob o processo nº 5000053-39.2017.8.21.0033/RS, ajuizado pela embargada em face da embargante, a respeito do imóvel objeto do atual litígio, que julgou improcedente a pretensão indenizatória, fundamentando a decisão por considerar: "o litígio existente entre as partes já vem de longa data, mais precisamente desde a decisão da empresa ré de não mais manter o contrato de locação do imóvel pertencente à empresa autora", conforme sentença anexada às fls. e-STJ 698/700.
+26. A referida sentença confirma a relevância dos fundamentos invocados pela Embargante, em relação à data de início que deveria ser considerada como ciência inequívoca da parte contrária, e seria suficiente para que houvesse conclusão diversa do julgado recorrido, pela violação à boa-fé objetiva e pela realização de atos dissimulados pela holding familiar do ex-sócio da locatária.
+27. Nos termos do artigo 278 do CPC, a nulidade dos atos deve ser alegada na primeira oportunidade em que couber as partes, sob pena de preclusão. Desse modo, cumpre mencionar que o fato novo foi apresentado na primeira oportunidade pela embargante, o qual juntou após a interposição do recurso especial, tendo em vista que a referida sentença foi disponibilizada em momento ulterior à interposição do recurso.
+28. Desse modo, tendo ocorrido manifestação sobre fato que interferiria no julgamento da ação, que sequer foi apreciado pela Corte Superior, no momento que fora prolatado o acórdão do agravo interno, resta evidente a omissão desse Tribunal, que deixou de se manifestar acerca dos fatos narrados pela embargante em momento anterior ao julgamento do agravo.
+29. Não obstante, é necessário o reconhecimento da nulidade do acórdão emitido no Agravo Interno, tendo em vista a omissão na análise de fato novo que influenciaria no julgamento do recurso interposto, que seriam hábeis a comprovar a ciência inequívoca do embargado sobre a rescisão do contrato, como fora rebatido de forma corriqueira nos recursos anteriores.
+Subsequentemente, alega violação do art. 1.022 do CPC, tendo em vista que o acórdão embargado apenas mencionou que a parte embargante não impugnou de forma específica a decisão agravada, sem aduzir as razões explícitas que ensejaram a aplicação da Súmula n. 182 do STJ.
+Requer o conhecimento e provimento dos embargos declaratórios para que sejam sanados os referidos vícios.
+A parte embargada apresentou resposta aos aclaratórios (fls. 752-768).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado.
+Preliminarmente, cumpre esclarecer que descabe falar em nulidade do acórdão embargado, ante a existência de fato novo trazido, na Petição n. 00143453/2023 (fls. 689-701), e não analisado quando do julgamento do agravo interno. Isso porque tal questão restou trazida aos autos após a interposição do agravo interno (fls. 630-655), e não após a interposição do recurso especial (fls. 425-456), como equivocadamente foi alegado pela parte ora embargante.
+Ademais, não há como ser avaliado, na presente via, o suposto "fato novo", que na visão da parte embargante influenciaria no resultado dessa ação. Ora, é entendimento assente do STJ que "não é possível a alegação de fato novo exclusivamente, em sede de recurso especial, por carecer o tema do requisito indispensável do prequestionamento e importar, em última análise, em supressão de instância" (AgRg no AREsp n. 595.361/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 6/8/2015).
+Ainda, a parte não aponta nenhum vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão que foi obstada pela incidência da Súmula n. 182 do STJ.
+Em recente julgamento, a Corte Especial do STJ concluiu que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Ainda, a mera irresignação da parte embargante com o entendimento apresentado no agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EARESP n. 1. 623.529, relator Ministro Og Fernandes, Corte Especial, DJe de 15/12/2021).
+Porquanto, não tendo sido devidamente impugnados os óbices sumulares n. 283 e 284 do STF, não merece reparos a decisão agravada, que aplicou a Súmula n. 182 do STJ.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
