@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ELISEU ALVES SANTANA, contra decisão proferida pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, e ao pagamento de 11 (onze) dias multa, como incurso no artigo 155, §4º, inciso IV do Código Penal (fls. 272-280).
+O eg. Tribunal de origem, por unanimidade, negou provimento ao recurso de apelação criminal interposto pela da Defesa (fls. 326-331).
+Nas razões do recurso especial, a defesa sustenta negativa de vigência ao art. 61, II, j, do CP, porquanto não demonstrada qualquer relação entre os fatos apurados e o estado de calamidade pública.
+Por fim, pugna a Defesa pela reforma do acórdão vergastado para que seja afastada a agravante.
+Apresentada as contrarrazões (fls. 350-353), o especial foi inadmitido na pela incidência da Súmula 7 do STJ (fls. 356-357).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 363-368).
+O Ministério Público Federal apresentou parecer pelo provimento do agravo e do recurso especial (fls. 389-392).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A incidência (ou não) da agravante da calamidade pública constitui o cerne do recurso especial.
+Acerca da temática recursal, o eg. Tribunal de origem assim dispôs:
+"Na segunda etapa do cálculo dosimétrico, justo o reconhecimento da agravante prevista no artigo 61, inciso II, alínea j, do Código Penal, pois indiscutível que o delito foi praticado em situaçãode calamidade pública, no caso a pandemia do novo Coronavírus (reconhecida pelo Decreto Estadual nº 64.879, de 20 de março de 2020),sendo certo que a conduta escolhida pelo apelante Eliseu e corréu Anderson desrespeitou o distanciamento social, gerando maior risco de contaminação, demonstrando aversão aos planos de emergência sanitária implantados pelos órgãos estatais e insensibilidade moral para com os mandamentos emanados da solidariedade social, considerando-se que o período impõe o dever social de recíproca assistência, não sendo exigido legalmente prova de que tivesse ele se socorrido, durante a empreitada criminosa, de facilidades advindas da ocasião, passível, portanto, conferir maior reprovabilidade à ação, razão pela qual é de ser mantida a majoração operada." (fls. 330).
+Consoante se denota do v. acórdão objurgado, a eg. Corte de origem entendeu pelo cabimento da agravante prevista no art. 61, inc. II, j, do CP, em virtude do reconhecimento do estado de calamidade pública decorrente na pandemia do novo coronavírus.
+A questão está afeta à análise da Terceira Seção, na sistemática dos recursos repetitivos, consoante Tema 1185: "Incidência da circunstância agravante prevista no art. 61, II, j, do Código Penal, independentemente de nexo causal entre o estado de calamidade pública e o fato delitivo."
+A este respeito, a jurisprudência dominante deste Sodalício trilha no sentido de que a incidência da referida agravante pressupõe a comprovação de que o acusado tenha se valido da pandemia para a prática delitiva, o que não ocorreu na espécie.
+Com efeito, "No que se refere ao agravamento da pena decorrente do estado de calamidade pública gerado pela pandemia do coronavírus, esta Corte já se manifestou no sentido de que sua incidência requer nexo entre tal circunstância e a conduta do agente, o que não se vislumbra na hipótese sob análise" (AgRg no AREsp n. 2.271.617/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/3/2023, DJe de 28/3/2023).
+Nesse sentido: AgRg no HC 655.339/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 19/04/2021; AgRg no HC n. 669.508/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/06/2021.
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Assim, imperioso o redimensionamento da dosimetria: A pena-base foi fixada no mínimo legal, em 02 (dois) anos e 10 (dez) dias-multa, a qual torna-se definitiva, ante o decote da agravante do art. 61, inciso II, j, do Código Penal e da ausência de causa de aumento ou de diminuição de pena na terceira fase.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do Regimento Interno do STJ, conheço do agravo para dar provimento ao recurso especial, para, decotando a agravante do art. 61, inciso II, j, do Código Penal, fixar a reprimenda em 02 (dois) anos de reclusão e 10 (dez) dias-multa, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO AGRAVANTE PREVISTA NO ART. 61, INC. II, J, DO CP. CALAMIDADE PÚBLICA DECORRENTE DA PANDE MIA. AUSÊNCIA DE COMPROVAÇÃO DE NEXO CAUSAL. FUNDAMENTAÇÃO INIDÔNEA DO ACÓRDÃO RECORRIDO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
