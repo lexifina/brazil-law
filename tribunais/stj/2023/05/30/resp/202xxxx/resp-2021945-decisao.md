@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICIPIO DE PARANAGUA contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+A questão debatida nos autos, qual seja, a "aplicabilidade da Lei n. 14.195/2021, que incluiu o § 2º ao art. 8º da Lei n. 12.514/2011, às execuções fiscais propostas por conselhos profissionais, antes de sua entrada em vigor", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos, dos Resps 2.030.253/SC, 2.029.970/SC, 2.029.972/RS, 2.031.023/RS e 2.058.331/RS, de relatoria do Ministro Mauro Campbell Marques.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admis são de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos citados recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
