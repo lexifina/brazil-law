@@ -1,0 +1,40 @@
+DECISÃO
+NIVALDO SILVA BRAZ (NIVALDO) promoveu ação de rito ordinário contra MULTIBRA FUNDO DE PENSÃO (atual denominação do HSBC - FUNDO DE PENSÃO) e SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL (SENAI), pleiteando a suplementação dos valores pagos a título de aposentadoria privada em função de diferenças salariais reconhecidas como devidas pela Justiça do Trabalho.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes (e-STJ, fls. 524/535 e 548/549).
+O Tribunal de Justiça de São Paulo negou provimento ao apelo manejado pelo SENAI, em acórdão relatada pelo Des. L. G. COSTA WAGNER, assim ementado:
+Apelação. Ação ordinária. Previdência privada complementar.
+Suplementação da previdência. Autor que teve reconhecido o direito para inclusão de verbas trabalhistas a integrarem sua base salarial. Pedido de complementação das verbas pela Patrocinadora e posterior recálculo da suplementação pela administradora.
+Interpretação do entendimento do Superior Tribunal de Justiça em sede de recursos repetitivos no julgamento do RESP 1.312.736- RS. Legitimidade da Patrocinadora para figurar no polo passivo da demanda, uma vez que deixou de realizar o recolhimento do custeio no momento oportuno. Por se tratar de plano que vigora sob regime de capitalização ao longo do tempo, imperioso que seja realizado o cálculo para integral recomposição prévia das reservas matemáticas do plano, sob pena de acarretar o desequilíbrio financeiro e atuarial do plano. Impossibilidade de mero cálculo aritmético para recomposição do aporte a ser vertido pela Patrocinadora e pelo Autor participante, devendo a apuração dos valores correspondentes basear-se em estudo técnico atuarial, conforme disciplinado no regulamento do plano a se realizar em fase de liquidação de sentença. Sentença mantida. Honorários majorados. RECURSO DESPROVIDO (e-STJ, fl. 627).
+Os embargos de declaração interpostos pelo SENAI foram rejeitados.
+Inconformado, SENAI manifestou recurso especial com base no art. 105, III, alíneas a e c, da CF, sustentando, além de dissídio, a violação dos arts. (1) 485, VI, do CPC; porque é da competência da Justiça do Trabalho conhecer do pedido de condenação do ex-empregador à integralização das reservas matemáticas necessárias à revisão do benefício do assistido, ou indenizá-lo, em razão de suposto ato ilícito ocorrido durante e em razão da relação de emprego; e (2) 75 da LC n.º 109/2001 e Súmulas 291 e 427, ambas do STJ, em razão da prescrição quinquental (e-STJ, fls. 649/667).
+As contrarrazões foram apresentadas (e-STJ, fls. 683/708 e 710/721).
+O apelo nobre foi admitido pelo TJSP (e-STJ, fls. 722/725).
+É o relatório.
+DECIDO.
+O apelo nobre merece acolhimento.
+Da ilegitimidade passiva da patrocinadora
+O acórdão recorrido está em dissonância com a jurisprudência atual do STJ quanto à ausência de legitimidade passiva da patrocinadora em demandas, como a presente, voltadas, essencialmente, à revisão de benefício previdenciário complementar.
+Com efeito, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+A propósito, confiram-se precedentes de ambas as Turmas que compõem a Segunda Seção do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO PARA REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR EM RAZÃO DO RECONHECIMENTO, PELA JUSTIÇA TRABALHISTA, DE VERBAS INCREMENTADAS AO SALÁRIO DE PARTICIPAÇÃO DO ASSISTIDO. PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS. JUSTIÇA LABORAL. ILEGITIMIDADE DA PATROCINADORA.
+1. Ação para revisão de benefícios de previdência complementar em razão do reconhecimento, pela Justiça Trabalhista, de verbas incrementadas ao salário de participação do assistido.
+2. A jurisprudência do STJ é no sentido de que o patrocinador não possui legitimidade passiva para litígios que envolvam participante/ assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. Precedentes do STJ.
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Agravo interno não provido.
+(REsp 1.967.153/DF, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 12/5/2022 sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. OBRIGAÇÃO DE RECÁLCULO DO BENEFÍCIO CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma."(REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1/8/2018).
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.942.900/DF, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022 - sem destaque no original)
+Inafastável, no caso em tela, a incidência da Súmula n.º 568 do STJ, ao preceituar que O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Por derradeiro, julgo prejudicados os demais temas levantados no apelo nobre.
+Nessas condições, DOU PROVIMENTO ao recurso especial do SENAI para reconhecer a sua ilegitimidade para integrar o polo passivo da demanda.
+Condeno NIVALDO ao pagamento de honorários advocatícios em favor do SENAI, estes fixados em 10% (dez por cento) sobre o valor atualizado da causa. Deverá ser observado, se for o caso, o benefício da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO COMPLEMENTAR. PREVIDÊNCIA PRIVADA FECHADA. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA LABORAL. REFLEXO NO CÁLCULO DO BENEFÍCIO. ILEGITIMIDADE DA PATROCINADORA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
