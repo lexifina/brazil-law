@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  DESATENÇÃO  AO  ÔNUS  DA  DIALETICIDADE.  SÚMULA  182/  STJ.
+Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre à parte agravante impugnar especificamente os fundamentos estabelecidos na decisão monocrática agravada, o que não ocorreu no caso sob exame. Incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o agravo que não impugna especificamente os fundamentos da decisão agravada.
+Agravo  regimental  não  conhecido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ADRIANA MAYERLY SIERRA BURBANO e YENI FERNANDA AVILA VILLAREAL,  contra  decisão  de fls. 356/361, que conheceu o  agravo  para não conhecer do  recurso  especial.
+Nas  razões  deste  agravo  regimental  ,  a  Defesa  assevera  que  :
+"Ademais, como se observa dos autos, todas as questões ora postuladas foram devidamente enfrentadas nas instâncias inferiores, as quais já se manifestaram no sentido de rejeitar as teses defensivas, razão pela qual se faz necessário o provimento por essa egrégia Corte, afastando qualquer hipótese de incidência das Súmulas nº 211 e 230 do Superior Tribunal de Justiça.
+No mesmo sentido, tampouco se observa o impedimento trazido pela Súmula nº 7 desta nobre Corte, já que as violações a descritas não exigem mínimo reexame de prova, mas tão somente a análise do equivocado cotejo realizado no acórdão recorrido a respeito do desrespeito à normativa legal"  (fl.  367).
+Nestes  termos,  requer  a  reconsideração  da  decisão  impugnada  .
+O  Ministério  Público  do Estado de São Paulo (fls. 392/415) se manifestou pelo não conhecimento ou pelo desprovimento da insurgência.
+Apresento o feito à eg. Quinta Turma, para julgamento.
+É  o  relatório.
+EMENTA
+  PENAL. AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  DESATENÇÃO  AO  ÔNUS  DA  DIALETICIDADE.  SÚMULA  182/  STJ.
+Nos termos da jurisprudência consolidada nesta eg. Corte Superior, cumpre à parte agravante impugnar especificamente os fundamentos estabelecidos na decisão monocrática agravada, o que não ocorreu no caso sob exame. Incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o agravo que não impugna especificamente os fundamentos da decisão agravada.
+Agravo  regimental  não  conhecido.
+VOTO
+O  presente  agravo regimental  não  reúne  condições  para  ser  conhecido.
+Em  alguns  recursos,  tais  como  no  agravo  em  recurso  especial  e  no  agravo  regimental,  a  insurgência  deve  abranger,  obrigatoriamente,  os  esteios  da  decisão  atacada,  sob  pena  de  não  ultrapassar,  sequer,  as  barreiras  do  conhecimento,  como  ocorre  no  presente  caso.
+Pois  bem.  A  Presidência  deste  Superior  Tribunal  de  Justiça  verificou  a incidência do óbice da Súmula 284/STF em relação às controvérsias apresentadas nas razões do recurso especial.
+Transcrevo,  por oportuno,  os  seguintes  fundamentos  consignados  na  decisão  monocrática  agravada:
+i) "Com relação ao recurso apresentado, quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do dispositivo apontado como violado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"." (fl. 357).
+ii) "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"." (fl. 359).
+iii) "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"." (fl. 359).
+iv) "Aplicável, portanto, em relação às segunda e terceira controvérsias, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" " (fl. 361).
+Deve-se ressaltar que cabe à parte agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados.
+A Defesa, contudo, nas razões deste agravo regimental, limita-se a tecer um resumo histórico do feito e a reiterar os mesmos argumentos expendidos quando da interposição dos recursos anteriores (recurso especial e respectivo agravo em recurso especial), deixando, novamente, de desincumbir-se do ônus de infirmar os fundamentos da decisão monocrática agravada que pretende desconstituir.
+Assim,  em  respeito  ao  art.  1.021,  §1º,  do  Código  de  Processo  Civil,  deve  ser  aplicado  ao  caso,  por  analogia,  o  enunciado  da  Súmula  n.  182  desta  Corte  Superior  de  Justiça,  in  verbis:  "É  inviável  o  Agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".
+Nesse  sentido  são  os  precedentes  desta  Corte,  v.g.:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. TRÁFICO. HABEAS CORPUS. REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+ ..
+6. Agravo regimental não conhecido. Habeas corpus concedido para fixar o regime semiaberto para o cumprimento da pena" (AgRg no AREsp n. 2.147.886/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2022).
+"AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. PENAL E PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo regimental que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, §1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo regimental não conhecido" (AgRg na RvCr n. 5.773/DF, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 15/8/2022).
+Portanto,  em  respeito  ao  princípio  da  dialeticidade,  a  impugnação  à  decisão  monocrática  deve  ser  clara  e  suficiente  a  demonstrar  o  equívoco  dos  fundamentos  utilizados  para  solucionar  a  questão  em  detrimento  aos  interesses  do  ora  agravante.
+Ante  o  exposto,  não  conheço  do  agravo  regimental.
+É  o  voto.
