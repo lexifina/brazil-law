@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso interposto por Matos Rodrigues de Almeida Junior (preso preventivamente, desde 8/2/2023, pela suposta prática, por quatro vezes, do crime previsto no art. 157, § 2º, II e V, e § 2º-A, I, do CP) contra o acórdão do Tribunal de Justiça de Minas Gerais no HC n. 1.0000.23.046972-8/000, lavrado nos termos desta ementa (fls. 288/289):
+HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. NEGATIVA DE AUTORIA. DESCABIMENTO DA ANÁLISE DAS PROVAS DOS AUTOS. VIA IMPRÓPRIA. NULIDADE. AFRONTA AO ARTIGO 226 DO CPP. IRRELEVÂNCIA PARA FINS DE ANÁLISE DA LEGALIDADE DA PRISÃO. IMPOSSIBILIDADE DE EXAME. FUNDAMENTAÇÃO CONCRETA. PRESENÇA DOS REQUISITOS FÁTICOS (ARTIGO 312 DO CPP) E INSTRUMENTAL (ARTIGO 313, I, DO CPP) DA MEDIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS APURADOS. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DESCABIMENTO. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA.
+1. A ação de "Habeas Corpus" não se presta à análise aprofundada das provas dos autos, a qual somente é cabível no curso da ação penal principal.
+2. Teses relativas a supostas nulidades que não influem diretamente na legalidade da prisão não comportam exame na via do "Habeas Corpus", o qual se presta, unicamente, à tutela da liberdade de locomoção do paciente.
+3. Se a prisão se sustenta independentemente do reconhecimento realizado, descabe o exame da tese de nulidade por afronta ao artigo 226 do Código de Processo Penal nesta via, o qual somente será cabível no bojo da ação penal.
+4. Tendo sido o paciente preso preventivamente e denunciado pela suposta prática do delito de roubo majorado, presentes a prova da materialidade delitiva e os indícios suficientes de autoria, inexiste constrangimento ilegal na decisão que, fundamentadamente, decretou a sua segregação cautelar, visando a garantir a ordem pública.
+5. O princípio do estado de inocência, estatuído no artigo 5º, LVII, da Constituição da República, não impede a manutenção da prisão provisória, quando presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal.
+6. O Código de Processo Penal preconiza, de forma expressa, o princípio da proporcionalidade, composto por dois outros, quais sejam: adequação e necessidade.
+7. A prisão preventiva, espécie de medida cautelar, é exceção na sistemática processual, dando, o quanto possível, promoção efetiva ao princípio constitucional da não-culpabilidade. Todavia, embora medida extrema, pode ser determinada sempre que presentes os requisitos exigidos pelo Código de Processo Penal.
+8. Sendo o crime de roubo majorado apenado com reprimenda máxima, privativa de liberdade, superior a quatro anos, é possível a manutenção da segregação provisória do paciente, como forma de garantia da ordem pública, mormente face à gravidade concreta dos fatos apurados.
+9. Não se mostrando adequadas e suficientes, no caso concreto, as medidas cautelares diversas da prisão não poderão ser aplicadas, mormente quando presentes os requisitos para a manutenção da prisão preventiva.
+10. As condições pessoais favoráveis do paciente, mesmo quando comprovadas nos autos, por si sós, não garantem eventual direito de responder ao processo em liberdade, quando a necessidade da segregação se mostra patente como forma de garantia da ordem pública.
+O recorrente sustenta, em suma, que o caso dos autos revela afronta aos princípios da presunção de inocência, do devido processo legal, da legalidade, da razoabilidade e da dignidade da pessoa humana, tendo em vista que a decisão que decretou a prisão preventiva é abstrata e mal fundamentada. Ainda, aduz que o suposto reconhecimento não observou os requisitos exigidos e previstos no art. 226 do CPP (fl. 325).
+Requer (fls. 337/338):
+A - LIMINARMENTE, que se Digne Vossas Excelências de afastar o enunciado da SÚMULA 691 DO STF;
+B - o CONHECIMENTO e PROVIMENTO do presente Recurso Ordinário em Habeas Corpus;
+C - a CONCESSÃO DA MEDIDA LIMINAR, ante a existência de fumus boni iuris e do periculum in mora, posto que claramente violado o art. 93, inciso IX, da CF/88, e, também o art. 315, § 2º, do CPP, bem como o periculum in mora, deferindo-se a LIBERDADE PROVISÓRIA ao Paciente, mediante imposição de MEDIDAS CAUTELARES DIVERSAS DA PRISÃO e com a imediata expedição de ALVARÁ DE SOLTURA em seu favor;
+D - o REGULAR PROSSEGUIMENTO DO FEITO, para que ao final sejam os autos conclusos para julgamento, nos termos do Regimento Interno deste E. Superior Tribunal de Justiça;
+E - A CONCESSÃO DEFINITIVA, no MÉRITO, do writ originário, para que o Paciente possa responder ao processo em liberdade;
+F - Reconhecer a ilegalidade do reconhecimento pessoal do recorrente, ante a afronta ao art. 226 do CPP e determinar que ele responda ao feito em liberdade.
+Sem contrarrazões.
+Em 10/4/2023, indeferi o pedido liminar (fls. 345/347).
+Prestadas as informações (fls. 349/386), o Ministério Público Federal opinou pelo improvimento do recurso (fls. 391/400):
+EMENTA: RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. DECRETAÇÃO DA PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS DO ART. 312 DO CPP. AÇÕES PENAIS EM ANDAMENTO. RISCO DE REITERAÇÃO DELITIVA. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Parecer pelo desprovimento do recurso.
+É o relatório.
+O presente recurso em habeas corpus não comporta acolhimento.
+Em relação ao pleito de reconhecimento de nulidade do reconhecimento fotográfico, observa-se do inquérito policial que foram encontrados bens subtraídos da vítima na posse do recorrente e do corréu (fls. 117, 123, 130), a denotar que eventual mácula no reconhecimento fotográfico não é capaz de anular a ação penal, fundada em outros elementos de informação que denotam a materialidade e autoria. A propósito: AgRg no AREsp n. 2.296.322/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/5/2023.
+Sobre a decretação da prisão preventiva, também não verifiquei o alegado constrangimento, pois o Magistrado singular logrou demonstrar a necessidade da custódia para a garantia da ordem pública, ao referir-se à gravidade concreta dos crimes supostamente praticados, com diversas vítimas e uso de violência física, bem como diante do risco de reiteração delitiva, além de que foi juntado aos autos relatório circunstanciado de investigações pela Polícia Civil no ID 9709589373, página 45 e ID 9709589374, páginas 1/21, noticiando a suposta prática de diversos crimes pelos denunciados e informando sobre a periculosidade dos agentes, notadamente do réu Matos (fl. 365). No mesmo sentido: AgRg no RHC n. 174.381/SP, Ministro Ribeiro Dantas, Quintas Turma, DJe 24/4/2023.
+Em face do exposto, nego provimento ao recurso.
+Publique-s e.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. EXISTÊNCIA DE OUTROS ELEMENTOS A DENOTAR A AUTORIA E MATERIALIDADE DO CRIME. PRISÃO PREVENTIVA. INDICAÇÃO DE ELEMENTOS CONCRETOS. PERICULOSIDADE CONCRETA EVIDENCIADA PELO MODUS OPERANDI DO CRIME, PRATICADO MEDIANTE CONCURSO DE PESSOAS E VIOLÊNCIA CONTRA AS VÍTIMAS. PASSAGENS POLICIAIS. PROBABILIDADE CONCRETA DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
