@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AEDI CORDEIRO DOS SANTOS, apontando como autoridade coatora o eg. Tribunal Regional Federal da 3ª Região no HC n. 5030375-05.2022.4.03.0000.
+Depreende-se dos autos que, em decorrência de desdobramentos da Operação Black Flag, ora denominada Operação Skotos, requereu-se "o redimensionamento das medidas cautelares diversas da prisão fixadas pelo Juízo da 1ª Vara Criminal Federal de Campinas" em desfavor do paciente - Autos n. 5007246-86.2022.4.03.6105 (fls. 45-74).
+Para isso, impetrou-se o prévio habeas corpus perante o eg. Tribunal de origem, que concedeu a ordem "para afastar tão somente a medida cautelar de suspensão do exercício da atividade profissional de contador pelo ora paciente Aedi Cordeiro dos Santos, sem prejuízo da manutenção das demais medidas cautelares fixadas pela autoridade impetrada", conforme v. acórdão de fls. 15-39 (grifei).
+No  presente  mandamus,  a il. Defesa sustenta,  em  síntese, "possibilidade de restabelecimento das atividades de Aedi na JJA. Paciente já autorizado a atuar como contador, exceto aos investigados. Empresa que deixou de prestar serviços aos investigados. Possui 265 clientes. Investigação que se limita a grupo específico de pessoas. Ausência de risco à ordem pública, per se, com a atividade de Aedi na empresa. Inviabilização da atividade profissional" (fl. 6).
+Alega que não há  "risco concreto à ordem pública na atividade de AEDI na JJA, nem razoabilidade na proibição total do seu exercício profissional na empresa" e que  "não existe risco a eventual futura instrução criminal, posto que, tanto AEDI quanto a JJA já foram alvos de busca e apreensão e medidas assecuratórias há mais de 6 meses, bem como já foram ouvidas pessoas na fase de investigação policial. Como se vê, as provas já foram colhidas durante a fase investigativa, não havendo, na prática, qualquer possibilidade de influência espúria de AEDI na investigação" (fl. 8).
+Requer,  assim, a concessão da ordem, inclusive liminarmente, para que sejam substituídas as medidas cautelares (fl. 10), nos seguintes moldes:
+"a) A proibição de frequentar seu escritório de contabilidade seja substituída por fixação de horários, de segunda-feira a sábado, nos quais possa frequentar o espaço;
+b) A proibição de manter contato com os empregados/colaboradores da JJA seja substituída por proibição de manter contato apenas com os demais investigados(empresas e pessoas)."
+As informações foram prestadas às fls. 154-259.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É  o  relatório.
+Decido.
+Compulsando os autos, tem-se que o objeto do presente writ está prejudicado, em razão do provimento ao recurso ordinário em habeas corpus n. 179199/SP, no qual se restringiu o alcance das medidas cautelares impostas ao recorrente de proibição de exercer suas atividades profissionais junto à empresa JJA Assessoria e de manter contato com qualquer dos seus funcionários e estabelecer que poderá frequentar os escritórios da empresa das 06:00h às 20:00h, de segunda a sexta-feira, ficando proibido de manter contato com as empresas e pessoas investigadas em todas as fases da Operação Black Flag.
+Ante o exposto, não conheço do presente habeas corpus.
+P.I.
