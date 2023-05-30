@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. DESVIO DE RECURSOS PÚBLICOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Interpostos 2 (dois) agravos regimentais pela mesma parte contra a mesma decisão, tem-se por configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso (Petição de n. 00440439/2023), pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+II - Conforme jurisprudência desta eg. Corte Superior, "Havendo a interposição de mais de um agravo regimental, pela mesma parte e contra a mesma decisão, tem-se o conhecimento do segundo obstado pelo princípio da unirrecorribilidade e pela ocorrência de preclusão consumativa" (AgRg no AREsp n. 2.223.333/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 06/03/2023).
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ EDIVAN FÉLIX contra a decisão de fls. 2.148-2.159, por meio da qual o recurso especial deixou de ser conhecido.
+Opostos embargos de declaração, pela combativa Defesa, foram eles rejeitados, à unanimidade de votos (fls. 1.974-1.986).
+Nas razões do recurso especial, interposto com fulcro na alínea a, do permissivo constitucional, a parte recorrente sustenta que o acórdão recorrido "negou vigência aos dispositivos de lei federal (art. 1º, inciso I do DL 201/67, art. 386, inciso VII, do Código de Processo Penal e art. 59 do CP)" (fls. 2.031-2.053).
+Para tanto, menciona que verifica-se, "Contrariedade ao art. 1º, Inciso I, do Decreto-Lei 201/67 e ao art. 386, inciso VII, do Código de Processo Penal. Ausência dos elementos caracterizadores do tipo penal. Ausência de provas suficientes para embasar um decreto condenatório" (fl. 2.037), pois " ..  o acórdão objurgado não se desincumbe de se arrimar em elementos seguros que comprovem a conduta delituosa. Ademais, não resta configurado no caso em voga qualquer prejuízo ao erário" (fl. 2.038).
+Menciona, ademais, que há "Contrariedade ao art. 59 do Código Penal Brasileiro. Equivocada dosimetria da pena" (fl. 2.045), na medida em que "não merecem prosperar as causas de agravamento da pena mantidas pelo Tribunal Regional da 5ª Região, tendo em vista que não há provas sequer da participação do recorrente no crime imputado pelo Tribunal de origem" (fl. 2.046).
+No ponto, aduz que "sendo o delito de desvio de recursos públicos, já valorado negativamente pelo legislador, não poderia o juiz revalorá-lo negativamente mais uma vez em função da área à que se destinavam as verbas públicas, sob pena de incorrer em "bis in idem" " (fl. 2.047).
+Também acrescenta, quanto ao ponto, que quanto "Circunstâncias do crime. Valoração Neutra. Minoração da pena para mínimo legal" (fl.2.049), "não há provas de que o recorrente tenha falsificado documentos, de modo que não pode a pena base ser majorada com fundamento em fato que sequer restou comprovado nos autos. Isso porque, não existem elementos na instrução processual, ou mesmo delimitados na sentença e no acórdão, de que o recorrente tenha realizado o ato ilícito" (fl. 2.050).
+Apresentadas as contrarrazões (fls. 2.088-2.107), o recurso foi admitido na origem (fl. 2.122) e os autos ascenderam a esta eg. Corte de Justiça.
+A d. Subprocuradoria-Geral da República, em seu parecer, manifestou-se pelo não conhecimento ou desprovimento do recurso especial (fls. 2.140-2.142).
+Consta da referida decisão que o recurso especial não foi conhecido, em virtude da necessidade de revolvimento do acervo fático-probatório delineado nos autos.
+No regimental (fls. 2.179-2.194), sustenta o agravante que não incide no caso dos autos o óbice da Súmula n. 7/STJ.
+Além disso, repisa as razões do apelo nobre, e afirma que "convém inicialmente tecer algumas considerações sobre a dicotomia existente entre reexame/revaloração jurídica das provas na via do recurso especial, vez que o caso em alude demanda necessária distinção (distinguishing) do argumento utilizado pelo julgador a quo para não prover do Recurso, vez que, em verdade, discute-se a ausência de tipicidade delitiva, omitindo fatos essenciais ao caso e não apontando, ainda que de maneira preliminar, onde estaria o necessário elemento subjetivo" (fl. 2.183).
+Aduz, outrossim, que "os argumentos constantes no Recurso Especial não possuem o intento de suscitar o revolvimento fático e assim colidir frontalmente com o enunciado da Súmula nº 07, mas, tão somente, levar ao conhecimento deste Colendo Tribunal, a velada contrariedade aos dispositivos infraconstitucionais evidenciados no Apelo Nobre" (fl. 1.918).
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. DESVIO DE RECURSOS PÚBLICOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Interpostos 2 (dois) agravos regimentais pela mesma parte contra a mesma decisão, tem-se por configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso (Petição de n. 00440439/2023), pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+II - Conforme jurisprudência desta eg. Corte Superior, "Havendo a interposição de mais de um agravo regimental, pela mesma parte e contra a mesma decisão, tem-se o conhecimento do segundo obstado pelo princípio da unirrecorribilidade e pela ocorrência de preclusão consumativa" (AgRg no AREsp n. 2.223.333/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 06/03/2023).
+Agravo regimental não conhecido.
+VOTO
+Em que pesem os argumentos do agravante, o recurso não merece conhecimento.
+Em face da decisão monocrática proferida às fls. 2.148-2.159, que não conheceu do agravo em recurso especial, a Defesa interpôs um primeiro agravo regimental, relativo a Petição de n. 00440395/2023 (fls. 2.163-2.178) e, posteriormente, apresentou novo agravo regimental, Petição de n. 00440439/2023 repetindo, integralmente, as razões do primeiro.
+Com efeito, interpostos 2 (dois) ou mais agravos regimentais pela mesma parte contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL CONTRA ACÓRDÃO DA QUINTA TURMA. NÃO CABIMENTO. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS. PRECLUSÃO CONSUMATIVA. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Interpostos dois agravos regimentais pela mesma parte contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+II - Nos termos do art. 258, caput e § 1º, do RISTJ, ainda quando não houvesse ocorrido preclusão consumativa da matéria, faleceria competência à c. Terceira Seção para apreciar o pedido, porquanto o órgão colegiado que seria competente para o julgamento do pedido ou recurso seria a própria Quinta Turma, a qual efetivamente julgou o agravo regimental.
+III - Inexiste ilegalidade no exame do mérito do recurso especial pela Quinta Turma, não sendo outra, aliás, a exata finalidade a que se consagra o agravo regimental, isto é, permitir cognição e julgamento do órgão colegiado sobre matérias que foram decididas monocraticamente, em nítida materialização do princípio da colegialidade.
+Agravo regimental não conhecido" (AgRg no AgRg no REsp n. 1.765.139/PR, Quinta Turma, Rel. Min. Felix Fischer, DJe de 15/09/2020).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE APELAÇÃO APRESENTADAS PELA DEFENSORIA PÚBLICA. NOVAS RAZÕES DE APELAÇÃO OFERTADAS PELO ADVOGADO ANTERIORMENTE CONSTITUÍDO. PRECLUSÃO CONSUMATIVA. INTERPOSIÇÃO DE DOIS RECURSOS. NÃO CONHECIMENTO DO ÚLTIMO INTERPOSTO. AGRAVO IMPROVIDO.
+ ..
+2. O princípio da unirrecorribilidade das decisões veda, em regra, a interposição simultânea de recursos pela mesma parte contra uma única decisão judicial, operando-se, em relação ao segundo recurso, a preclusão consumativa, a obstar seu conhecimento.
+3. Agravo regimental improvido" (AgRg no AREsp n. 1.183.408/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 15/05/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. DOSIMETRIA DA PENA E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+ ..
+3. Agravo regimental desprovido" (AgRg nos EDcl no AREsp n. 646.183/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/12/2017).
+Ante o exposto, não conheço do presente agravo regimental (Petição de n. 00440439 /2023).
+É o voto.
