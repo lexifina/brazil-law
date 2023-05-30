@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por CONSUELO DE MAGALHAES NASCIMENTO contra ato omisso do MINISTRO DE ESTADO ECONOMIA.
+Narra que era servidora federal, atualmente aposentada, lotada na Comissão Executiva do Plano da Lavoura Cacaueira -CEPLAC, órgão integrante do MAPA.
+Afirma que houve "recusa das autoridades coatoras em estender o pagamento da Gratificação de Apoio à Execução de Atividades da Comissão Executiva do Plano da Lavoura Cacaueira-GECEPLAC à Impetrante, na qualidade de aposentada, na mesma proporção em que paga aos servidores ativos" (fl. 4).
+Informa que os aposentados não foram contemplados com a gratificação, especialmente aqueles que já estavam inativos quando da edição da lei.
+Aduz que a omissão consubstancia ofensa aos postulados constitucionais da paridade e da integralidade, uma vez que a rubrica não é propter laborem, mas sim genérica, auferida indistintamente pelos servidores da pasta.
+Como demonstração do direito, aponta julgados do Superior Tribunal de Justiça que reconheceram o direito à percepção da gratificação.
+Informações às fls. 81/128.
+Em síntese, é o relatório.
+Inicialmente, a autoridade apontada como coatora sustenta a existência de litispendência quanto aos Mandados de Segurança 21.601/DF e 20.231/DF.
+Como se sabe, a Lei 12.016/2009 dispõe que "o mandado de segurança coletivo não induz litispendência para as ações individuais" (art. 22, § 1º). Os Mandados de Segurança 21.601 e 20.231/DF foram impetrados em caráter coletivo pela ASSOCIAÇÃO DOS APOSENTADOS E PENSIONISTAS DA CEPLAC-AACEP, entidade que defende os interesses dos agentes públicos da comissão executiva.
+Quanto à preliminar alusiva ao baixo valor da causa, não se duvida que, em geral, o valor que se atribui à demanda deve corresponder ao conteúdo econômico que engloba a pretensão.
+No caso concreto, está-se diante de ação constitucional em que a parte sustenta a ocorrência de omissão administrativa quanto a certa rubrica remuneratória. Assim, não se verifica que o valor de R$ 1.000,00 esteja a se apartar de uma normal pretensão mandamental, destinada, primordialmente, ao reconhecimento de direito líquido certo diante de ato ilegal omissivo de autoridade. Rejeito a questão preliminar.
+Quanto à preliminar de decadência, ela deve ser peremptoriamente rejeitada, uma vez que se está diante de pretensão de reconhecimento de ato ilegal omissivo da autoridade em não estender aos inativos a gratificação genérica concedida aos servidores ativos, razão pela qual não se pode considerar a publicação da lei como termo inicial para a impetração.
+No tocante ao mérito, a pretensão mandamental encontra guarida no Superior Tribunal de Justiça, que emitiu a tese de que "a GECEPLAC por ser uma gratificação paga aos todos os servidores que estão lotados e em efetivo exercício na CEPLAC, indistintamente, conforme a Lei 12.702/2012, converte-se em gratificação de natureza genérica extensíveis a todos os aposentados e pensionistas" (AgRg no MS 20.231/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 9/12/2015, DJe de 10/2/2016). Note-se, também:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. GRATIFICAÇÃO DE APOIO À EXECUÇÃO DE ATIVIDADES DA COMISSÃO EXECUTIVA DO PLANO DA LAVOURA CACAUEIRA - GECEPLAC. GRATIFICAÇÃO GENÉRICA. EXTENSÃO AOS APOSENTADOS E PENSIONISTAS. EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme se depreende da síntese dos fundamentos da impetração, a requerente serve-se da expedida via do mandamus para incorporar a Gratificação de Apoio à Execução de Atividades da Comissão Executiva do Plano da Lavoura Cacaueira - GECEPLAC, na mesma proporção e nos mesmos moldes em que concedida aos servidores ativos, aos seus substituídos.
+2. A GECEPLAC por ser uma gratificação paga a todos os servidores que estão lotados e em efetivo exercício na CEPLAC, indistintamente, conforme a Lei 12.702/2012, converte-se em gratificação de natureza genérica extensível a todos os aposentados e pensionistas.
+3. Nesse sentido: "estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição)." (RMS 23.665/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 27/4/2015).
+4. Ademais, a própria Lei 12.702/2012, dispõe que a GECEPLAC integrará os proventos da aposentadoria e as pensões se houver sido percebida pelo servidor que a ela fizer jus por mais de 60 (sessenta) meses.
+5. Assim, há direito líquido e certo a ser amparado pelo Mandado de Segurança.
+6. Agravo Regimental não provido. (AgRg no MS 21.601/DF, relator Ministro Herman Benjamin, Primeira Seção, DJe de 31/08/2016).
+As gratificações de desempenho, sendo pagas indistintamente a todos os servidores da ativa, convertem-se em gratificação de natureza genérica extensível a todos os aposentados e pensionistas.
+Por ser a GECEPLAC uma gratificação paga a todos os servidores que estão lotados e em efetivo exercício na CEPLAC, indistintamente, conforme a Lei 12.702/2012, converte-se em gratificação de natureza genérica extensível a todos os aposentados e pensionistas.
+Portanto, reconheço que há direito líquido e certo da parte impetrante ao pagamento da Gratificação de Apoio à Execução de Atividades da Comissão Executiva do Plano da Lavoura Cacaueira - GECEPLAC, respeitada a data da impetração, em convergência com o que foi decidido nos Mandados de Segurança 21.601/DF e 20.231/DF.
+Pelo exposto, concedo a segurança para, reconhecendo a omissão da autoridade, determinar seja efetuado à parte impetrante o pagamento da GECEPLAC.
+Sem custas e honorários.
+Publique-se. Intimem-se.
