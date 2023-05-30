@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por LUCIANO CÁSSIO DE SOUSA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 1.119-1.136):
+"APELAÇÕES CRIMINAIS - TRIBUNAL DO JÚRI - HOMICÍDIO DUPLAMENTE QUALIFICADO - RECURSO DA DEFESA - CASSAÇÃO DO VEREDICTO POPULAR E DECOTE DAS QUALIFICADORAS - DECISÃO CONTRÁRIA À PROVA DOS AUTOS - NÃO OCORRÊNCIA - TESE EXISTENTE - CONTEXTO PROBATÓRIO - MANUTENÇÃO - RECURSOS DA ACUSAÇÃO E DA DEFESA - PENA - DOSIMETRIA - EXASPERAÇÃO DA PENA-BASE - POSSIBILIDADE - CULPABILIDADE, ANTECEDENTES, CONDUTA SOCIAL E CIRCUNSTÂNCIAS DO CRIME - REDUÇÃO DA PENA NA SEGUNDA FASE - NÃO CABIMENTO - DECISÃO DEVIDAMENTE FUNDAMENTADA - REGIME INICIAL - FECHADO - MANUTEN ÇÃO".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1.148-1.154).
+Em suas razões recursais, a parte recorrente aponta violação do art. 59 do CP. Aduz para tanto, em síntese, que não haveria motivação idônea para a valoração negativa da conduta social, na primeira etapa da dosimetria da pena, pois o histórico criminal do réu não serviria para essa finalidade.
+Com contrarrazões (e-STJ, fls. 1.169-1.171), o recurso especial foi inadmitido na origem (e-STJ, fls. 1.174-1.176), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 1.205-1.208).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, a insurgência é improcedente.
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Para subsidiar este julgamento, transcrevo o que afirmou o acórdão recorrido ao valorar negativamente a conduta social do réu (e-STJ, fl. 1.132):
+"No que tange à conduta social, tenho pela possibilidade de ser considerada negativa, vez que o acusado estava em cumprimento de pena por outros dois crimes quando praticou o delito ora em análise (CAC de fls. 589/590), o que demonstra a sua vocação para a vida ociosa".
+Como se vê, ao contrário do que diz a defesa, não foram as condenações pretéritas do réu que motivaram a negativação da conduta social (o que realmente não é admitido por este STJ), mas sim o fato de o acusado ter cometido um novo crime enquanto ainda cumpria pena por outros dois, situação que é diferente da simples existência dos antecedentes. Nesse cenário, é cabível a exasperação da pena-base, como já se pronunciou este Tribunal Superior:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. DESNECESSIDADE. AFASTAMENTO DA SÚMULA 7/STJ. PRÁTICA DE CRIME DURANTE O PERÍODO DE PROVA DO LIVRAMENTO CONDICIONAL. CONDUTA SOCIAL. VALORAÇÃO NEGATIVA. POSSIBILIDADE. DESPROVIDO O RECLAMO.
+1. A questão posta no recurso especial limita-se a indagar sobre a possibilidade de se considerar os fundamentos adotados pelas instâncias ordinárias para a análise da conduta social do agente, motivo pelo qual a prestação jurisdicional desta Corte Superior não reclama qualquer análise do conjunto probatório, já que se trata de hipótese fática perfeitamente delineada pela sentença e pelo acórdão apelatório, não incidindo o óbice da Súmula 7 deste STJ.
+2. O fato de o reeducando praticar novo crime durante o período de prova do livramento condicional anteriormente concedido, constitui circunstância fática que autoriza a valoração negativa de sua conduta social para os fins do art. 59 do Código Penal.
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.107.523/GO, relator Ministro Jorge Mussi, Quinta Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL DO AGENTE. RÉU QUE COMETE NOVO CRIME DURANTE O PERÍODO DE CUMPRIMENTO DA PENA POR CRIME ANTERIOR. AGRAVO REGIMENTAL DESPROVIDO. 1. "A prática delitiva no curso de cumprimento de pena por crime anterior - seja em razão do regime que propicie contato com a sociedade, ou por benefícios externos - é circunstância apta a demonstrar conduta social inadequada, diante do propósito de tais medidas de buscar a ressocialização do agente" (AgRg no HC 346.799/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 7/3/2017, DJe 21/3/2017).
+2. Agravo regimental não provido".
+(AgRg no AREsp n. 1.139.616/DF, de minha relatoria, Quinta Turma, julgado em 5/4/2018, DJe de 11/4/2018.)
+Assim, estando o acórdão recorrido em sintonia com a jurisprudência deste STJ, não há ilegalidade a sanar.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
