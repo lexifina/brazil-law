@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MARCOS HENRIQUE DE PAULA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente se encontra preso, preventivamente, pela suposta prática do s delitos de tráfico de drogas e receptação.
+Neste writ, alega a Defesa, em linhas gerais, a existência de constrangimento ilegal consubstanciado na ausência de fundamentação para a prisão cautelar, aduzindo que "Analisando os antecedentes do indiciado verifica-se que ele possui residência fixa, trabalho licito, mesmo que informal, conforme declaração de vinculo empregatício (anexo) além disso, estão ausentes os requisitos da prisão preventiva, visto que o suposto delito não foi cometido com violência ou grave ameaça, não houve apreensão de arma, ou qualquer objeto utlizado como instrumento para o tráfico, a quantia (R$140,00) a qual ele estava em posse era fruto do seu trabalho licito, conforme recibo que será anexado, e que nem ao menos estava "trocado" como a quantia que fora apreendida posteriormente e atribuída a ele, ou mesmo grande quantidade de droga ou envolvimento de menor ou ainda que se trate de associação" (fl. 13).
+Requer a revogação da prisão ou a imposição de medidas cautelares diversas.
+É o breve relatório.
+Decido.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do acórdão por meio do qual a Corte local analisou as questões controvertidas.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido: "Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 15/12/2022.)
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+P. I.
