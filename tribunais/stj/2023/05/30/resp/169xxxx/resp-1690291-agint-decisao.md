@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão proferida pelo Ministro Napoleão Nunes Maia Filho que negou provimento ao recurso especial nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. NÃO VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. TUTELA DE DIREITOS INDIVIDUALIZADOS DISPONÍVEIS. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. INVIABILIDADE DE REEXAME DE FATOS E PROVAS EM SEDE DE RECURSO ESPECIAL. RECURSO ESPECIAL DO PRESENTANTE MINISTERIAL A QUE SE NEGA PROVIMENTO (fl. 756).
+A parte agravante afirma que a questão debatida nos autos é unicamente de direito, inexistindo discussão fática a ser sanada.
+Defende que as conclusões do aresto recorrido mostram-se equivocadas, obscuras e omissas, baseando-se em informação unilateralmente fornecida pela empresa agravada, e requer "que a Corte local esclareça a origem de tal fundamento, já que não se controverte nos autos que não se trata apenas de "um edifício de apartamentos", mas de seis blocos, totalizando quase uma centena de consumidores" (fl. 767).
+Alega ser evidente a sua legitimidade na defesa de direitos individuais homogêneos, diante da relevância social da questão dos autos.
+Pleiteia ao final a reconsideração da decisão agravada ou que o presente recurso seja submetido à turma competente.
+Impugnação apresentada às fls. 777/784.
+É o relatório.
+Diante das razões expostas, reconsidero a decisão agravada (fls. 756/760) e passo a novo exame dos autos.
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - MINISTÉRIO PÚBLICO -TUTELA DE DIREITOS INDIVIDUAIS HOMOGÉNEOS DISPONÍVEIS-ILEGITIMIDADE ATIVA - DEFESA DO MEIO AMBIENTE - ART. 129, INC. III, DA CR - RECURSO PROVIDO EM PARTE.
+- Ao Ministério Público, via ação civil pública, incumbe a defesa de interesses coletivos e dos interesses individuais homogêneos. Contudo, não é qualquer direito individual que está habilitado a ser defendido por meio de ação civil pública, mas apenas os direitos coletivos e individuais homogêneos caracterizados pela relevância social a que pertencem.
+- É inequívoca a legitimidade ativa do Ministério Público para a propositura de Ação Civil Pública em decorrência de danos ambientais, nos temos do que dispõe a norma do art. 129, inciso Ill, da CF/88, bem como o art. 1º, inciso I, da Lei nº. 7.347/85 (fls. 651/670).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de seu recurso especial, a parte alega ofensa ao art. 1.022 do CPC e aos arts. 81, parágrafo único, inciso III, e 82, I da Lei 8.078/1990, defendendo, para tanto, em síntese: (a) a ausência de prestação jurisprudencial ao se afirmar equivocadamente que o caso trata de "pequeno grupo de adquirentes"; e (b) sua legitimidade ativa à postulação da pretensão na defesa de direitos individuais homogêneos.
+Contrarrazões apresentadas às fls. 721/731.
+Juízo de admissibilidade positivo (fl. 733).
+Trata-se, na origem, de ação civil pública ajuizada pelo Ministério Público do Estado de Minas Gerais contra MRV Engenharia e Participações S/A objetivando a proteção de interesses de grande relevância social, quais sejam, o direito à moradia e a proteção do meio ambiente.
+A parte ora recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre a seguinte questão:
+Considerando-se que que o empreendimento é constituído por 96 (noventa e seis) apartamentos, divididos cm 06(seis) blocos; considerando-se que a única notícia que se tem nos autos de que os prejudicados pelo atraso na entrega da obra seriam apenas 17 (dezessete) consumidores; considerando-se que o Ministério Público não endossou essa informação e, finalmente, considerando-se que o feito não chegou a ser instruído, não se podendo afirmar o real número de consumidores prejudicados, faz-se necessário que esse douto Colegiado esclareça sobre qual base numérica recaiu a expressão "pequeno grupo de adquirentes", uma vez que, quer nos parecer, não possa ser considerado o número informado unilateralmente pelo preposto da embargada, parecendo-nos mais adequado levar-se em consideração, à míngua de prova em contrário submetida ao crivo do contraditório, os número total de adquirentes de imóveis no empreendimento da embargada (fls. 677/678).
+Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar tais questionamentos a ele feito.
+Dessa forma, é imperioso o acolhimento da pretensão r ecursal ante a ocorrência de violação do art. 1.022, II, do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Prejudicada a análise das demais questões.
+Ante o exposto, dou parcial provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
