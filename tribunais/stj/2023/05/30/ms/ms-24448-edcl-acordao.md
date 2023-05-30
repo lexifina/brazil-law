@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 24/05/2023 a 30/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pela UNIÃO contra o acórdão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) que contou com a seguinte ementa:
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. PAD. PENA DE DEMISSÃO APLICADA POR MINISTRO DE ESTADO POR DELEGAÇÃO DO PRESIDENTE DA REPÚBLICA. RECURSO HIERÁRQUICO APRECIADO PELA PRÓPRIA AUTORIDADE QUE PROFERIU A DECISÃO POR DELEGAÇÃO. NO ENTANTO, O IMPETRANTE TEM O DIREITO DE VER OS SEUS ARGUMENTOS EXAMINADOS PELA AUTORIDADE MÁXIMA DO SERVIÇO PÚBLICO FEDERAL, CONSOANTE O ENTENDIMENTO DESTA CORTE SUPERIOR. AGRAVO INTERNO DO ENTE PÚBLICO A QUE SE NEGA PROVIMENTO (fl. 7.263).
+Nas razões de seu recurso, o ente federativo aponta a existência do vício de omissão no julgado embargado aos seguintes argumentos: (a) "a prática de ato demissório no exercício da competência delegada, contra o qual não caberia qualquer recurso por se tratar de incumbência originária do Presidente da República, não autoriza conclusão pelo surgimento da possibilidade de interposição de recurso hierárquico direcionado ao delegante" (fl. 7.282); (b) caso se admitisse a interposição de recurso ao Presidente da República, não haveria qualquer efeito prático do ato de delegação, pois, provavelmente, todas as decisões passariam a ser da autoridade delegante; (c) deixou-se de considerar o fato de que o instituto da delegação é previsto para descentralizar e tornar viável o funcionamento da máquina estatal. Aceitar a tese de cabimento de recurso das decisões proferidas no âmbito da competência delegada pelo Presidente da República é desvirtuar o intuito da delegação; (d) foi proferida decisão que impõe novo dever à Administração Pública, transcende os interesses subjetivos das partes e pode atingir centenas de processos administrativos disciplinares encerrados ou em trâmite, sendo indispensável a fixação de um regime de transição para definir a situação das penalidades já aplicadas e dos eventuais recursos hierárquicos não processados.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+Não foi apresentada impugnação de acordo com a certidão de fl. 7.294.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MANDADO DE SEGURANÇA. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Embargos de declaração rejeitados.
+VOTO
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+O acórdão recorrido decidiu a controvérsia de forma clara e explícita nos seguintes termos:
+Verifica-se, portanto, a ocorrência de ato ilegal praticado pelo Ministro de Estado, na medida em que o recurso hierárquico não poderia ter sido decidido como mero pedido de reconsideração, ainda que tenha exercido o ato por delegação do Presidente da República. A parte tem direito líquido e certo à apreciação de sua insurgência como típico recurso hierárquico, destinado a rever a pena de demissão que foi imposta em PAD ao impetrante (fl. 7.272).
+A parte embargante sustenta que o acórdão não teria se pronunciado sobre a circunstância de que "a prática de ato demissório no exercício da competência delegada, contra o qual não caberia qualquer recurso por se tratar de incumbência originária do Presidente da República, não autoriza conclusão pelo surgimento da possibilidade de interposição de recurso hierárquico direcionado ao delegante" (fl. 7.282).
+Também aponta que o acórdão embargado deixou de considerar o fato de que o instituto da delegação é previsto para descentralizar e tornar viável o funcionamento da máquina estatal e que aceitar a tese de cabimento de recurso das decisões proferidas no âmbito da competência delegada pelo Presidente da República é desvirtuar o intuito da delegação.
+Anota, de igual modo, no recurso, que, caso se admitisse a interposição de recurso ao Presidente da República, não haveria qualquer efeito prático do ato de delegação, pois, provavelmente, todas as decisões passariam a ser da autoridade delegante.
+A decisão embargada não padece de vícios de omissão, contradição, obscuridade ou erro material. A controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese.
+A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir o presente caso, mas não se prestam os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+A esse respeito, o Superior Tribunal de Justiça assim se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
