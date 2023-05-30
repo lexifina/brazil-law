@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRASFORT EMPRESA DE SEGURANÇA LTDA à decisão de fls. 2.148/2.158, da relatoria do Ministro Manoel Erhardt (Desembargador Convocada do TRF5), assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3 DO STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ALEGADO DESCUMPRIMENTO CONTRATUAL. RETENÇÃO INDEVIDA DE VALORES. TESES QUE DEMANDAM A ANÁLISE DE LEGISLAÇÃO DISTRITAL E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 280/STF E 5/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL DA EMPRESA E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO (fl. 2.148).
+Sustenta a parte embargante que o caso dos autos partiu de premissa equivocada. Alega que não seria necessária a análise de lei local, mas sim da violação do § 4º do art. 56 da Lei Federal 8.666/1993, bem como que não se aplica a Súmula 7/STJ, pois busca, na verdade, a revaloração jurídica da prova à luz da Lei 8.666/1993.
+Requer, por fim, o acolhimento dos embargos de declaração para que sejam aclarados os pontos suscitados.
+Impugnação ao recurso às fls. 2.173/2.177.
+É o relatório.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+Não há que se falar em vício no julgado, pois, quando do julgamento da controvérsia, houve o entendimento de que foi dada a correta prestação jurisdicional. O acórdão recorrido, após a análise das premissas delineadas, considerou que a parte agravante encontrava-se em situação de inadimplência contratual fundada em legislação local (Lei Distrital 4.636/2011 e Decreto Distrital 34.649/2013), cuja revisão esbarra na Súmula 280/STF. Ao final, houve a compreensão de que os aspectos contratuais analisados nos autos não poderiam ser revistos por esta Corte Superior, tendo em vista o óbice contido na Súmula 5/STJ.
+Desse modo, não verifico, no caso em análise, a existência de vício sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte Superior foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição.
+As alegações apresentadas pela parte embargante, na verdade, denotam seu inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+O Superior Tribunal de Justiça assim se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 11/3/2021.)
+Desse modo, reitero o posicionamento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os embargos declaratórios não constituem instrumento adequado à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
