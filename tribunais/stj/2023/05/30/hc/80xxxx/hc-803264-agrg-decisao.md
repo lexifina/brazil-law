@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo regimental interposto por WILAME MARTINS AMORIM JUNIOR, em face de decisão proferida, às fls. 65-68, que indeferiu liminarmente o habeas corpus.
+No presente recurso, a parte agravante reitera sua busca pelo reconhecimento de nulidade das provas que considera ilícitas, em decorrência de suposta abordagem pessoal policial sem fundadas razões, que, no caso, teriam se resumido, nas palavras da Defesa, a uma manobra veicular brusca.
+Sustenta que "a sentença de condenação é nula de pleno direito, sem que haja necessidade de aprofundamento na prova" (fl. 75).
+Aduz que "não há que se falar em suposta supressão de Instância. Toda nulidade, pode ser declarada de ofício, por qualquer Autoridade Judicial, conforme se nota nos presentes autos" (fl. 76).
+Explica que "a abordagem policial que o Paciente sofreu e a revista íntima em seu veículo, configura o ato ilegal violador do artigo 244 do CPP, e configura a ausência de formalidade essencial, nos termos do artigo 564, IV, do CPP, o ato deverá ser anulado e tudo o mais que foi decorrente dessa conduta, nos termos do artigo 157 do CPP" (fl. 78).
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+O Ministério Público Federal manifestou-se pelo provimento do agravo regimental (fls. 90-96):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA PROVA DE MATERIALIDADE DO DELITO. BUSCA VEICULAR E PESSOAL. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. PARECER PELO PROVIMENTO DO AGRAVO PARA CONCEDER A ORDEM DE OFÍCIO."
+É o relatório.
+Decido.
+Recebo o presente recurso como pedido de reconsideração.
+Passo a apreciar seu mérito.
+No que tange à suposta nulidade absoluta, configurada pela realização de prisão em flagrante, esta Corte, há muito, firmou o entendimento de que, "Nos termos do artigo 301 do Código de Processo Penal, qualquer pessoa pode prender quem esteja em flagrante delito (..) Precedentes" (RHC n. 94.061/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/4/2018).
+Assim, via de regra, tratando-se de crime de tráfico ilícito de substância entorpecente, de natureza permanente, a ação se prolonga no tempo, de modo que, enquanto não cessada a permanência, haverá o estado de flagrância, o que possibilita a prisão, diga-se novamente, por qualquer do povo e sem mandado (HC n. 371.494/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/12/2017).
+Do contrário, esta Corte Superior tem se posicionado, mais atualmente e de forma reiterada, pela impossibilidade de configuração da justa causa para abordagem em via pública, com base na simples intuição policial, desprovida de critérios objetivos, ou mesmo em razão do mero nervosismo do condutor do veículo automotor.
+Assente nesta Corte Superior que "Não satisfazem a exigência legal  para se realizar a busca pessoal e/ou veicular , por si sós, meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 25/4/2022, grifei).
+Nesse sentido, ressaltou a sentença condenatória, na parte que importa (fl. 40):
+"(..) Ouvidos em solo policial, os policiais militares Admilson de Souza Santana e André Macedo dos Santos disseram que estavam em patrulhamento na região do Campo Grande quando, em uma estrada vicinal próxima a Rodovia dos Bandeirantes, depararam-se com o condutor de um Honda/Fit preto realizando manobras bruscas. Realizada a abordagem, nada de ilícito foi encontrado com o Réu Wilame, condutor do referido veículo; todavia, em busca veicular foram encontrados comprimidos de ecstasy e LSD, bem como 5 porções de maconha e R$ 76,00, em um compartimento atrás do porta-luvas. Indagado, o Réu afirmou que morava em São Paulo-SP e estava transportando as drogas para o vulgo "Baixada", morador do bairro Novo Mundo na cidade de Campinas; também adquiria meio quilo de maconha do "Baixada". Wilame pediu autorização para realizar uma ligação telefônica a fim de confirmar a localização do "Baixada", confirmando após que se tratava de um salão de cabeleireiro, rua Casemiro dos Reis Filho. Junto com Wilame, dirigiram-se ao local in dicado e localizaram o Réu Deyvisson, vulgo "Baixada". Indagado, Deyvisson admitiu que aguardava uma pessoa de São Paulo, que traria drogas sintéticas; informado que Wilame adquiriria porção de maconha, Deyvisson confessou que tinha maconha em sua residência, sendo lá encontrados 5 quilos da substância, assim como R$ 1.830,00 em dinheiro" (grifei).
+Como se apreende, no caso concreto, a suspeita dos policiais residiu apenas no fato de que estavam em patrulhamento, quando avistaram um indivíduo em atitude suspeita, conduzindo veículo automotor e, ao perceber os agentes públicos, apresentou nervosismo, realizando "manobras bruscas".
+Nesse contexto, de acordo com o art. 240 do CPP, a busca pessoal somente poderá ser realizada quando houver fundada suspeita de que se oculte consigo os objetos mencionados nas alíneas determinadas no § 2º do dispositivo legal em referência:
+"Art. 240. A busca será domiciliar ou pessoal.
+§ 1º Proceder-se-á à busca domiciliar, quando fundadas razões a autorizarem, para:
+a) prender criminosos;
+b) apreender coisas achadas ou obtidas por meios criminosos;
+c) apreender instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos;
+d) apreender armas e munições, instrumentos utilizados na prática de crime ou destinados a fim delituoso;
+e) descobrir objetos necessários à prova de infração ou à defesa do réu;
+f) apreender cartas, abertas ou não, destinadas ao acusado ou em seu poder, quando haja suspeita de que o conhecimento do seu conteúdo possa ser útil à elucidação do fato;
+g) apreender pessoas vítimas de crimes;
+h) colher qualquer elemento de convicção.
+§ 2º Proceder-se-á à busca pessoal quando houver fundada suspeita de que alguém oculte consigo arma proibida ou objetos mencionados nas letras b a f e letra h do parágrafo anterior." (grifei)
+Ainda, o art. 244 do CPP prevê: "Art. 244. A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar." (grifei)
+Aqui, embora o encontro fortuito de provas, o flagrante anterior, visto que eivado de nulidade, não jus tifica a apreensão posterior do material ilícito.
+Em tempo, deixe-se consignado que aqui é o caso concreto que afasta a possibilidade de convalidação do flagrante, prova inicial que derivou todos os demais procedimentos que ensejaram a prisão e condenação, não se questionando a validade da prova embasada na palavra policial de forma geral.
+Diante do exposto, configurado o alegado constrangimento ilegal, em sede de juízo de retratação, concedo a ordem de ofício para determinar a absolvição do agravante nos autos da ação penal n. 1502072-90.2020.8.26.0548, tendo em vista a patente ilegalidade da prova obtida no flagrante e porque todas as demais utilizadas na condenação são exclusivamente oriundas desta.
+Intime-se, com urgência, a origem para cumprimento.
+P. I. C.
