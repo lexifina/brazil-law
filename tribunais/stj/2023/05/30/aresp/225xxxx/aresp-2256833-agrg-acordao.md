@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não enfrentou as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada nesta Corte.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LOURIVAL VIEIRA CAVALCANTE contra a decisão (fls. 1.295-1.296) que não conheceu do agravo em recurso especial.
+Consta dos autos que o agravante foi condenado, pelo juízo de primeiro grau, como incurso nas penas do art. 121, §2º, inciso VII, c/c o art. 14, inciso II, (duas vezes), na forma dos arts. 70 e 330, todos do Código Penal; bem como incurso nas sanções do art. 35, c/c o art. 40, inciso IV, da Lei n. 11.343/06, tudo em concurso material, à pena total 15 (quinze) anos, 06 (seis) meses e 20 (vinte) dias de reclusão, além de 1 (um) mês e 5 (cinco) dias de detenção, em regime fechado, bem como ao pagamento de 1.030 (um mil e trinta) dias-multa (fls. 1.037-1.050).
+O Tribunal de origem, por unanimidade, proferiu a seguinte decisão: "rejeita-se as preliminares e, no mérito, nega-se provimento ao recurso e corrige-se de ofício a dosimetria para afastar a agravante da reincidência, restando o acusado condenado à pena final de 13 anos e 04 meses de reclusão, mantidas as demais condições." (fls. 1.178-1.194).
+Interposto recurso especial, com fulcro na alínea a, do permissivo constitucional, a defesa alegou violação: i) ao art. 478, do CPP, porquanto "(i)pso facto, conclui-se que uma interpretação extensiva do art. 478 do Código de Processo Penal, nos leva a incluir no rol de vedações também a utilização única e exclusiva dos antecedentes criminais do réu para se requerer condenação em Julgamento pelo Plenário do Júri como ocorreu no caso em tela, sendo nula a sentença que dele decorreu." (fl. 1.219); ii) ao art. 41, do CPP, "uma vez que a denúncia que deu causa a presente ação penal foi formulada ao arrepio da lei" (fl. 1.220); e iii) ao art. 35, da Lei de Drogas, ao argumento de que "Como é de conhecimento, para a configuração do delito de associação para o tráfico de drogas, necessário se faz que restasse cabalmente demonstrado o animus associativo, ou seja, o ajuste prévio, a estabilidade e a permanência, o que evidentemente não ocorreu no caso em tela" (fl. 1.223).
+Apresentada as contrarrazões (fls. 1.233-1.249), o recurso especial foi inadmitido ante os óbices das Súmulas nº. 7 e nº. 83, ambas do STJ (fls. 1.251-1.257).
+Nesta Corte, o agravo em recurso especial não foi conhecido, ante a ausência de impugnação específica impugnou especificamente dos fundamentos da decisão de inadmissão do apelo nobre, quais sejam, os óbices das Súmulas nº 7 e nº. 83, ambas do STJ.
+No regimental (fls. 1.299-1.305), o agravante sustenta que os óbices restaram plena e satisfatoriamente impugnados nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. E pugna, assim, pela reconsideração da decisão impugnada ou julgamento pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não enfrentou as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada nesta Corte.
+Agravo regimental não conhecido.
+VOTO
+Compulsando os autos, verifico que o agravante não enfrentou as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com a dinâmica de admissibilidade recursal adotada nesta Corte. Veja-se (fl. 1.275):
+"O reexame de fatos é absolutamente desnecessário para que se conheça das questões ventiladas no apelo extremo, por isso não incide no caso em apreço a Súmula 7 do Superior Tribunal de Justiça."
+(..)
+"Também não merece acolhida a fundamentação de incidência da Súmula 83 do Superior Tribunal de Justiça, posto que conforme amplamente demonstrado no recurso especial interposto, a decisão recorrida não seguiu entendimento da Corte destinatária, devendo pois, ser admitido o recurso interposto."
+Consoante orientação jurisprudencial já consolidada, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Nesse sentido: AgRg na RvCr n. 5.740/RS, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 3/4/2023; EDcl no AgRg na RvCr n. 4.570/DF, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 14/5/2019.
+Verifico , pois, que houve manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto do juízo de admissibilidade efetuado pela Presidência deste Tribunal, o que reclama a aplicação, por analogia, da Súmula n.º 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Diante do exposto, não conheço do agravo regimental.
+É como voto.
