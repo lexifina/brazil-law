@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TESE DE OMISSÃO. INOCORRÊNCIA. DATA-BASE PARA A PROGRESSÃO DE REGIME. DIA DO IMPLEMENTO DOS DOIS REQUISITOS. CASO CONCRETO DE EXAME CRIMINOLÓGICO DETERMINADO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - Admitem-se os embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o hoje previsto no CPC, sendo possível igualmente, apenas excepcionalmente, a alteração ou modificação do decisum, nos efeitos infringentes.
+II - In casu, inviável a reapreciação do mérito por esta Corte Superior de Justiça, porquanto o habeas corpus e seus recursos já tiveram as suas teses devidamente analisadas.
+III - Assente nesta Quinta Turma que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu ambos os requisitos do art. 112 da Lei de Execução Penal, objetivo e subjetivo, e não o dia da efetiva inserção do reeducando no regime atual (AgRg no REsp n. 2.017.158/SP, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+IV - No caso vertente, ante a determinação de exame criminológico, o requisito subjetivo somente restou implementado no momento do laudo favorável, razão pela qual deve ser considerado como data-base para a progressão de regime, mesmo estando o requisito objetivo preenchido em momento anterior.
+V - Nesse sentido, o que se constata é que, à conta de vícios no acórdão, pretende o embargante a rediscussão sob nova roupagem da matéria já apreciada, o que não se mostra possível.
+Embargos rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ELIZE ARAUJO KITANO MATSUNAGA, em face de acórdão prolatado por esta Quinta Turma, às fls. 894-912, assim ementado:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. DECISÃO DECLARATÓRIA. IMPLEMENTO DE AMBOS OS REQUISITOS: OBJETIVO E SUBJETIVO. EXAME CRIMINOLÓGICO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre à parte agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A Segunda Turma do col. Supremo Tribunal Federal, no julgamento do HC n. 115.254/SP, firmou entendimento de que a decisão que concede a progressão de regime tem natureza declaratória e não constitutiva, razão pela qual o marco inicial para a progressão seguinte será a data em que o apenado preencher os requisitos legais e não aquela da decisão que concedeu ou do efetivo início da reprimenda no regime anterior.
+III - Alinhando-se à novel orientação da col. Suprema Corte, a Quinta Turma deste Tribunal Superior, no julgamento do AgRg no REsp n. 1.582.285/MS, passou a perfilhar a orientação de que "a data inicial para progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no regime atual."
+IV - Com efeito, o termo inicial para nova progressão de regime deverá ser a data em que implementados ambos os requisitos, objetivo e subjetivo descritos no art. 112 da Lei de Execução Penal.
+V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental desprovido."
+Neste recurso de embargos de declaração, a parte embargante aponta omissão no acórdão acima.
+Invoca que "o v. acórdão padeceu de omissão sobre o inteiro teor do precedente do E. Supremo Tribunal Federal invocado, eis que o voto proferido pelo EXMO. MINISTRO GILMAR MENDES no HC n. 115.254/SP expressamente declarou que "excluída desde 2003 a imperiosidade do exame criminológico e do parecer da Comissão Técnica de Classificação, sobrevém, como regra, a comprovação do bom comportamento carcerário, a ser atestado pelo diretor do estabelecimento prisional, nos termos do já citado artigo 112 da LEP" (fl. 921).
+Explica que "ao negar provimento ao presente recurso, a r. decisão foi omissa sobre os requisitos legais inseridos no art. 112 da LEP para progressão do regime prisional, bem como se omitiu da exclusão da obrigatoriedade do exame criminológico para concessão do benefício. A r. decisão, também, se omitiu do princípio da isonomia (art. 5º da Constituição Federal), visto que atribuiu tratamento diverso à paciente em detrimento daqueles reeducandos que não são submetidos ao exame criminológico. Nesta via, além de não se tratar de requisito legal, o exame criminológico posterga demasiadamente a fruição do benefício. É fato público e notório a demora para a realização do estudo, sendo certo que a morosidade jamais poderá ser atribuída ao reeducando" (fl. 922).
+Requer, ao fim, o conhecimento e provimento dos embargos de declaração, com efeitos infringentes, para que sejam sanados os vícios apontados e a ordem de impetração concedida.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TESE DE OMISSÃO. INOCORRÊNCIA. DATA-BASE PARA A PROGRESSÃO DE REGIME. DIA DO IMPLEMENTO DOS DOIS REQUISITOS. CASO CONCRETO DE EXAME CRIMINOLÓGICO DETERMINADO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - Admitem-se os embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o hoje previsto no CPC, sendo possível igualmente, apenas excepcionalmente, a alteração ou modificação do decisum, nos efeitos infringentes.
+II - In casu, inviável a reapreciação do mérito por esta Corte Superior de Justiça, porquanto o habeas corpus e seus recursos já tiveram as suas teses devidamente analisadas.
+III - Assente nesta Quinta Turma que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu ambos os requisitos do art. 112 da Lei de Execução Penal, objetivo e subjetivo, e não o dia da efetiva inserção do reeducando no regime atual (AgRg no REsp n. 2.017.158/SP, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+IV - No caso vertente, ante a determinação de exame criminológico, o requisito subjetivo somente restou implementado no momento do laudo favorável, razão pela qual deve ser considerado como data-base para a progressão de regime, mesmo estando o requisito objetivo preenchido em momento anterior.
+V - Nesse sentido, o que se constata é que, à conta de vícios no acórdão, pretende o embargante a rediscussão sob nova roupagem da matéria já apreciada, o que não se mostra possível.
+Embargos rejeitados.
+VOTO
+Os embargos de declaração não merecem prosperar.
+Inicialmente, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também, para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior & Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido, os precedentes: EDcl no AgRg no AREsp n. 292.108/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/2/2015; EDcl no AgRg no AREsp n. 527.022/SC, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 9/10/2014; e EDcl no REsp n. 1.290.073/ES, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 1º/7/2014.
+Ao analisar os autos, verifica-se que o embargante afirma a existência de omissão no acórdão embargado.
+Pois bem.
+No caso, porém, não vislumbro qualquer vício.
+Ora, inviável é a reapreciação do mérito por esta Corte Superior de Justiça, porquanto o writ e seus recursos já tiveram as suas teses devidamente analisadas.
+Assente nesta Quinta Turma que a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu ambos os requisitos do art. 112 da Lei de Execução Penal, objetivo e subjetivo, e não o dia da efetiva inserção do reeducando no regime atual (AgRg no REsp n. 2.017.158/SP, Quinta Turma , de minha relatoria, DJe de 14/3/2023).
+No caso vertente, ante a determinação de exame criminológico, o requisito subjetivo somente restou implementado no momento do laudo favorável, razão pela qual deve ser considerado como data-base para a progressão de regime, mesmo estando o requisito objetivo preenchido em momento anterior.
+Com efeito, pretende o embargante, na verdade, o reexame do mérito, situação que não se coaduna com os declaratórios. Nesse sentido, o que se constata é que: "à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgInt no REsp n. 1.809.279/AC, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo, Des. Convocado do TJPE, DJe de 11/11/2019).
+Nesse contexto, à míngua de vícios no acórdão, rejeito os embargos de declaração.
+É o voto.
