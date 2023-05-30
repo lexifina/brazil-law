@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de extensão requerido às fls. 1875-1890 por GILBERTO ORTIZ DA CRUZ.
+O Requerente postula a extensão dos efeitos da decisão de fls. 1789-1806, que concedeu a ordem de habeas corpus ao Corréu, para substituir a prisão preventiva, se por al não estiver preso, pelas medidas cautelares descritas no art. 319 do Código de Processo Penal, inclusive "suspensão do exercício de função pública ou de atividade de natureza econômica ou financeira quando houver justo receio de sua utilização para a prática de infrações penais".
+Consta que, em decorrência de representação da Autoridade Policial, a prisão preventiva do ora Requerente foi decretada em 04/11/2022, em razão de supostamente integrar organização criminosa, formada, sobretudo, por servidores da Corte a quo e por advogados, dentre outras pessoas, especializada na obtenção de vantagens indevidas, por meio da contrafação de alvarás, visando o levantamento de valores depositados em contas judiciais.
+O Requerente foi denunciado como incurso nos art. 171, caput e § 3.º, do Código Penal (por 1 (uma) vez - de forma consumada), art. 171, caput e § 3.º c.c. art. 14, inciso II, do Código Penal (por 2 (duas) vezes - de forma tentada), e art. 2.º, caput e § 4.º, inciso II, da Lei n. 12.850/2013, na forma do art. 69 do Código Penal (mov. 12).
+A exordial acusatória foi recebida em 14/12/2022 e, no mesmo ato, foi reanalisada a prisão preventiva do Réu, a qual foi substituída por medidas cautelares alternativas, dentre as quais a de suspensão temporária do exercício da advocacia, pelo prazo de 6 (seis) meses ou até a prolação da sentença, o que vier primeiro.
+A decisão foi mantida pelo Tribunal de Justiça do Estado de Goiás, no julgamento do HC n. 5043040-18.2023.8.09.0000.
+A Ordem dos Advogados do Brasil - Seccional Goiás, em defesa do Requerente, interpôs o RHC n. 181.101/GO, buscando revogar a medida cautelar de suspensão do exercício da advocacia imposta ao Réu.
+Outrossim, por meio de Advogado, o Requerente ajuizou este pedido de extensão, aduzindo que "a permanecer o afastamento do Paciente da sua função de Advogado, resta evidente a antecipação do juízo de culpa, vedada em se tratando de medidas cautelares pessoais no processo penal" (fl. 1878). Afirma que a suspensão do exercício da advocacia é excessivo e não possui qualquer efeito, visto que encerradas as investigações.
+Busca, nos termos do art. 580 do Código de Processo Penal, a extensão da ordem para "que seja caçada a decisão da autoridade coatora quando suspendeu, já por período superior aos seis (6) meses, o direito do paciente (advogado) ter condições, através de seu lícito e honesto trabalho como advogado, se sustentar e da sua família que, conforme mais que comprovado nos autos se tratar da única fonte de renda seu múnus público da advocacia" (fl. 1883; grifos originais).
+É o relatório.
+Decido.
+Nos autos do RHC n. 181.101/GO, anteriormente distribuído a minha relatoria e concluso para apreciação, foi formulada idêntica pretensão, em favor do ora Requerente. Cuida-se, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas a mesma matéria.
+Ademais, o Requerente já está em liberdade, cumprindo medidas cautelares diversas da prisão, tornando inócuo o pedido de extensão pretendido, além de não ter sido sequer sustentada a identidade de situações fáticas entre os Corréus.
+Assim, evidenciada a deficiente fundamentação do pedido e a litispendência com recurso ordinário, o pedido ora formulado não comporta conhecimento.
+Ante o exposto, NÃO CONHEÇO do pedido formulado às fls. 1875-1890.
+Publique-se. Intimem-se.
+EMENTA
+PEDITO DE EXTENSÃO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DE PLEITO FORMULADO NO RHC N. 181.101/GO. LITISPENDÊNCIA. PEDIDO DE EXTENSÃO NÃO CONHECIDO.
