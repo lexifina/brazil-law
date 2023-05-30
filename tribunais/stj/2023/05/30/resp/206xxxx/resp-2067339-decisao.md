@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALDEIA DO LAGO LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 1.120):
+APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM. CONTRATO DE COMPROMISSO DE VENDA E COMPRA DE IMÓVEL EM CONDOMÍNIO HORIZONTAL. OBJETO DO CONTRATO QUE SE TORNOU IMPOSSÍVEL DIANTE DO CANCELAMENTO DA INCORPORAÇÃO IMOBILIÁRIA, NO CURSO DA DEMANDA. FATO NOVO QUE DEVE SER CONSIDERADO NO JULGAMENTO. DESCUMPRIMENTO CONTRATUAL CONFIGURADO. POSSIBILIDADE DE RESCISÃO DE CONTRATO E RESTITUIÇÃO DE VALORES PAGOS. CLÁUSULA PENAL A SER REVERTIDA EM FAVOR DOS CONSUMIDORES. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSIBILIDADE, PORÉM, DE CUMULAÇÃO COM PERDAS E DANOS PATRIMONIAIS. LESÃO MORAL INDENIZÁVEL NÃO EVIDENCIADA. DESCUMPRIMENTO CONTRATUAL QUE GEROU SIMPLES DISSABOR. MULTA DE 50% SOBRE OS VALORES RECEBIDOS PELA INCORPORADORA, NOS TERMOS DO ARTIGO 35, § 5º, DA LEI 4.591/64. NÃO INCIDÊNCIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a recorrente afirma, a par de dissídio jurisprudencial, que o STJ já pacificou o entendimento de que a Taxa Selic é aplicada como taxa de juros legais moratórios, nos termos do art. 591, do Código Civil/02 e do art. 39, § 4º, da Lei 9.250/95.
+Sustenta, ainda, que o termo inicial dos juros de mora é a data do trânsito em julgado, nos termos do art. 405 do CC.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece parcial provimento, senão vejamos.
+Nas razões do seus recurso especial, a recorrente pretende a incidência da Taxa Selic, como taxa de juros de mora, e sua incidência a partir da condenação.
+Sobre o tema, o Tribunal de origem fixou no acórdão recorrido a restituição dos valores pagos pelos recorridos devidamente corrigidos pelo IPCA-E, com juros de mora à razão legal, desde a citação (fl. 1.134).
+No que se refere à taxa de juros, a jurisprudência do STJ firmou o entendimento de que a Taxa Selic deve ser observada como indexador dos juros de mora, após a vigência do Código Civil de 2002.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EMISSÃO E DEVOLUÇÃO INDEVIDA DE CHEQUE. DANO MORAL. JUROS MORATÓRIOS. TAXA APLICÁVEL.
+1. O Superior Tribunal de Justiça firmou posicionamento no sentido de que os juros serão calculados à base de 0,5% (meio por cento) ao mês, nos termos do artigo 1.062 do Código Civil de 1916 até a entrada em vigor do novo Código Civil (Lei nº 10.406/2002). A partir da vigência do novo Código Civil, os juros moratórios deverão observar a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional (art. 406).
+2. Atualmente, a taxa dos juros moratórios a que se refere o dispositivo vigente é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.022.568/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA AGRAVADA.
+1. Nos termos da jurisprudência desta Corte, a partir da entrada em vigor do Código Civil de 2002, a Taxa Selic deve ser utilizada como índice de correção monetária e juros de mora. Precedentes.
+2. Afasta-se a multa aplicada quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.179.001/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+No que se refere ao termo inicial, o acórdão recorrido encontra-se em consonância com o entendimento firmado no STJ no sentido de que incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, o que foi reconhecido no caso.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULAS E REVISÃO DO ACERVO FÁTICO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. RESTITUIÇÃO DA INTEGRALIDADE DOS VALORES PAGOS. SÚMULA N.º 543 DO STJ. RETENÇÃO DA COMISSÃO DE CORRETAGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N.os 282 E 356 DO STF, POR ANALOGIA. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão da promessa de compra e venda de imóvel ocorreu por iniciativa do adquirente, seria necessária a interpretação de cláusulas do contrato firmado entre as partes, assim como a reincursão no acervo fático-probatório dos autos, o que é vedado nesta sede excepcional, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+2. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Súmula n.º 543 do STJ.
+3. O Tribunal de origem não deliberou sobre a validade da cláusula contratual que transfere ao consumidor a obrigação de pagar a comissão de corretagem, sem que fosse susctada a sua discussão nos embargos de declaração opostos pela ora insurgente, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os óbices das Súmulas n.ºs 282 e 356 do STF, por analogia.
+4. Conforme o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, o que foi reconhecido no caso. Súmula n.º 568 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.217.062/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Na forma do entendimento jurisprudencial do STJ, "resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem. Precedentes. Incidência da Súmula 83/STJ." (AgInt no AREsp 1858016/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+2. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação. Precedentes.
+3. Segundo entendimento firmado por esta Corte Superior, o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico. Precedentes. 3.1. No caso sub judice, o Tribunal de origem consignou expressamente a comprovação da responsabilidade civil da agravante e a presença dos requisitos necessários à sua responsabilização no pagamento dos danos morais decorrentes do atraso na entrega do imóvel. 3.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Considerando que o valor fixado pelo Tribunal Estadual, à título de danos morais, não se mostra excessivo, conclui-se que a pretensão das recorrentes esbarra na Súmula 7 desta Corte, óbice que também impede a análise do dissídio jurisprudencial.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1935521/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 9/3/2022)
+Em face do exposto, dou parcial provimento ao recurso especial apenas para determinar a fixação dos juros de mora pela Taxa Selic, vedada a sua cumulação com índice de correção monetária.
+Intimem-se.
