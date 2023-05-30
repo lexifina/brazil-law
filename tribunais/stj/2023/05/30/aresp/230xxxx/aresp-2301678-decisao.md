@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fls. 1937-1938):
+APELAÇÃO CÍVEL. ATRASO NA ENTREGA DA OBRA. CASO FORTUITO OU FORÇA MAIOR. CULPA DO APELANTE. TERMO INICIAL MORA. ENTREGA DAS CHAVES. LUCROS CESSANTES. CABIMENTO. DANOS MORAIS. CONFIGURADO. VALOR RAZOÁVEL. RECURSO PARCIALMENTE PROVIDO.
+1. Registre-se que as intercorrências extraordinárias a exemplo de greves e chuvas, não restaram demonstradas por todo período de atraso e com continuidade, a fim de justificarem a demora, mas, em momentos isolados, não sendo tais circunstâncias suficientes à configuração das excludentes de responsabilidades suscitadas, haja vista a previsibilidade relacionada com a atividade que desempenha, estando parte do risco ordinário implícito na cláusula de tolerância.
+2. Porquanto aduza que o atraso na entrega das chaves ocorreu por culpa dos Apelados, que não incorreram no pagamento devido no valor correspondente ao imóvel, não demonstrou satisfatoriamente suas alegações, quedando-se inerte na notificação/comunicação dos adquirentes quanto a possibilidade de entrega efetiva do imóvel, convocando-os para efetuarem o pagamento do saldo devedor, bem como na demonstração de que o imóvel se encontrava livre de ônus, apto à transferência.
+3. Apesar de acertadamente ter condenado a empresa Apelante aos custos dos lucros cessantes em virtude do atraso da entrega do imóvel, a atual jurisprudência é uníssona ao estabelecer o valor de 0,5 % sobre o valor do bem.
+4. A condenação em indenização pelos danos morais sofridos pelos Apelados no importe R$ 20.000,00 (vinte mil reais), com juros de mora e correção moratória, mostra-se razoável, posto que equivalente a R$ 10.000,00 (dez mil reais) para cada Autor.
+5. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados por acórdão assim ementado (fl. 2072):
+EMBARGOS DE DECLARAÇÃO. ACÓRDÃO DE AGRAVO DE INSTRUMENTO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO DA PARTE. REJEIÇÃO.
+1. A matéria foi debatida na sua totalidade e fundamentada adequadamente, importando anotar que o julgador não necessita declinar todas as normas, artigos e princípios citados pelas partes, mas apenas os motivos que o levaram à conclusão.
+2. Não há quaisquer dos vícios aduzidos no acórdão impugnado, posto que o r. acórdão deixou claro as razões que ensejaram pelo reconhecimento da deserção do recurso interposto, haja vista que, embora intimado à complementação do recolhimento do preparo recursal, o Embargante quedou-se inerte.
+3. Aclaratórios não podem ser acolhidos quando ausentes a omissão, contradição ou obscuridade na decisão atacada.
+4. Embargos rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 1.022 do Código de Processo Civil, e § 12 do artigo 31-A da Lei 4.591/64.
+Sustenta que, quando da interposição de apelação, recolheu corretamente o preparo, em conformidade com o valor atualizado da causa.
+Assevera que o acórdão recorrido é omisso e contraditório, em que pese a oposição de embargos declaratórios voltados ao saneamento dos vícios.
+Alega ser parte ilegítima para compor o polo passivo da ação, uma vez que é tão somente credora fiduciária dos direitos creditórios da empresa responsável pela obra em discussão.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A irresignação não merece prosperar.
+Consta dos autos que o Tribunal de origem não conheceu da apelação interposta pela ora agravante, em razão da deserção verificada.
+A esse respeito, extraio do acórdão recorrido o seguinte (fls. 1943-1945):
+Do compulsar atento dos fólios, re stou evidente que os Apelantes interpuseram os Recursos de Apelação com o recolhimento do preparo recursal a menor, sem correspondência com o valor dado à causa devidamente atualizado após condenação em primeiro grau. Na hipótese dos autos, foram recolhidos os DAJEs apenas sobre o valor de R$ 15.000,00 (quinze mil reais) e R$ 20.000,00 (vinte mil reais), muito aquém do real montante advindo da condenação.
+Sobre o tema, este Egrégio Tribunal de Justiça da Bahia - e outros Tribunais nacionais - já debelaram no sentido do recolhimento com base no valor causa atualizado após julgamento, sendo fixado, em casos análogos, um montante aproximado ao determinado em condenação.  ..
+Como sabido, o preparo recurso se refere a um pressuposto extrínseco de admissibilidade, sem a qual o referido recurso sequer poderá ser conhecido. Não havendo o recolhimento, ou quando demonstrado insuficiente o recolhimento, o Apelante deverá ser intimado para regularizar o feito, nos termos do artigo 1.007, § 2º, do Código de Processo Civil, e assim foi feito, conforme despacho de id. 14692906.
+Inobstante tenha sido intimada para complementar o recolhimento do preparo recursal, a Apelante Brazilian Securities Companhia De Securitização S.A quedou-se inerte, de modo que não há outra consequência senão o reconhecimento da deserção recursal, nos termos do artigo 1.007, § 4º, do CPC.
+Ademais, confiram-se excertos do julgamento dos embargos declaratórios (fls. 2076-2077):
+Não há, portanto, quaisquer dos vícios aduzidos no acórdão impugnado, posto que o r. acórdão deixou claro as razões que ensejaram pelo reconhecimento da deserção do recurso interposto, haja vista que, embora intimado à complementação do recolhimento do preparo recursal, o Embargante quedou-se inerte.
+Insta salientar que, conquanto tenha se manifestado para chamamento do feito à ordem, pugnando pelo esclarecimento por este Juízo ad quem quanto ao valor devido ao recolhimento do preparo - que, destaca-se, é ônus da parte litigante o seu recolhimento devido -, tal postulação foi evidentemente intempestiva e com nítido caráter protelatório, considerando que o despacho foi público em 23 de abril de 2021, para cumprimento em 05 (cinco) dias, só tendo a parte se manifestado em petitório de id. 17120205, em 15 de julho de 2021, após aproximadamente 03( três) meses do comando judicial.
+Consigne, ainda, que a outra parte Recorrente, a Madrid Empreendimentos Imobiliários Ltda., também intimada à complementação, se manifestou corretamente nos autos em id. 15022557, oportunidade em que comprovou o recolhimento correto da complementação do preparo recursal, não possuindo a ora Embargante escusas ao não recolhimento.
+De igual modo, não merece guarida a irresignação quanto a não apreciação da matéria atinente ao fato de cessão de direitos creditórios não implicar na transferência para o cessionário de nenhuma das obrigações ou responsabilidades do cedente, pontuando que a matéria não se reveste de ordem pública, cuidando-se de mero fundamento de mérito, que deixou de ser apreciado por desídia exclusiva da própria Embargante. Em verdade, compulsando os fundamentos expostos pelo Embargante, faz-se claro perceber que pretende um novo julgamento da causa quanto à questão posta em juízo.
+Assim sendo, o reconhecimento da deserção por descumprimento da ordem judicial de complementação do preparo está de acordo com a jurisprudência do STJ, o que atrai a aplicação da Súmula 83/STJ, e a sua modificação demanda o reexame do contexto fático e probatório dos autos, o que esbarra no óbice erigido pela Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DO PREPARO DA APELAÇÃO. PARTE QUE DEIXOU DE CUMPRIR DEVIDAMENTE A ORDEM JUDICIAL. DESERÇÃO. INCIDÊNCIA DAS SÚMULA 7 E 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Verbete nº 211/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.978.879/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. SENTENÇA TERMINATIVA. APELAÇÃO. PREPARO INSUFICIENTE. INTIMAÇÃO PARA REFORÇO. TRANSCURSO DO PRAZO SEM A COMPROVAÇÃO DE RECOLHIMENTO ADEQUADO. NEGATIVA DE SEGUIMENTO. INADMISSIBILIDADE DO RECURSO. SÚMULA 83/STJ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 283/STF. INCIDÊNCIA.
+1. As razões recursais relativas à regência do caso pelas normas do CPC/15 para a contagem do prazo para a complementação do preparo encontram óbice na Súmula 83 do STJ, o que determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo e. Tribunal de origem estiver em conformidade com a jurisprudência consolidada do STJ. 1.1. O enunciado administrativo 2 do Conselho Especial do STJ determina que: "aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do STJ".
+2. O Tribunal de origem afirmou no acórdão recorrido que "devidamente intimada (fl. 140) a parte apelante deixou transcorrer o prazo sem nenhuma manifestação, conforme se infere de certidão de fl. 140." (fl. 162). O reexame dos elementos que induziram a inadmissibilidade da apelação pela insuficiência de preparo não sanado no prazo conferido demandaria o revolvimento das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, o que é vedado em sede de recurso especial, nos termos do enunciado de Súmula 7 do STJ.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1407144/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 8/4/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO DO RECURSO DE APELAÇÃO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. CABIMENTO. RECURSO NÃO PROVIDO.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015.
+2. No caso em análise, correta a deserção aplicada na origem, pois a recorrente descumpriu a norma no sentido de comprovar o respectivo preparo no ato de interposição da apelação e, quando intimada para efetuar o recolhimento em dobro, não o fez no prazo estabelecido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1307657/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 7/12/2018).
+Acrescenta-se que, em decorrência do não conhecimento da apelação, em razão da deserção, as teses de ilegitimidade passiva, esposadas pelo recurso especial, não foram examinadas pelo Tribunal de origem.
+Logo, está ausente o requisito do prequestionamento, o qual é exigido inclusive com relação às matérias de ordem pública, a obstar a sua análise nest a via, à luz do que preveem as Súmulas 282 e 356 do STF.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA DE COMPRA E VENDA C/C REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO.
+PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. MATÉRIA DE ORDEM PÚBLICA. EXIGÊNCIA. AQUISIÇÃO DE IMÓVEL EM NOME PRÓPRIO COM RECURSOS DESVIADOS DA PESSOA JURÍDICA. CONVERSÃO DE OFÍCIO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. JULGAMENTO EXTRA ET ULTRA PETITA. NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. LUCROS CESSANTES E JUROS DE MORA. SUPOSTA INVERSÃO DO ÔNUS PROBATÓRIO.
+NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. SÚMULAS 282 E 356/STF E 5, 7 E 83/STJ.
+ .. .
+3. Não tendo havido o prequestionamento de parte dos temas postos em debate nas razões do recurso especial, requisito do qual não estão imunes nem mesmo as matérias de ordem pública, incidentes os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 973.262/PB, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 7/12/2020)
+Por fim, no que diz respeito à aventada violação ao art. 1.022 do CPC, a parte agravante limitou-se a aventar a ocorrência de omissão e contradição no acórdão recorrido, sem especificar os pontos que teriam sido, efetivamente, omissos ou obscuros.
+Dessa forma, tem incidência o óbice da Súmula 284/STF, dado que não é possível compreender a tese exposta pela parte, o que configura deficiência na fundamentação do recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
