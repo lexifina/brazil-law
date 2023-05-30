@@ -1,0 +1,48 @@
+DECISÃO
+LUCIANO SOARES MALTA alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que denegou o HC n. 2021281-75.2023.8.26.0000.
+Neste writ, a defesa pleiteia o trancamento da ação penal que responde o paciente, pela suposta prática do delito de furto, pela incidência do princípio da insignificância ao caso, diante da ausência de periculosidade do agente, bem como do baixo valor da res furtiva - uma cadeira avaliada em R$65,00, que foi restituída à vítima.
+Salienta que o paciente é "portador de esquizofrenia e dependência química, é interditado" (fl. 208). e que "apesar de responder a outros processos sob a mesma acusação, furtos de bagatela, o recorrente Luciano, interditado, possivelmente inimputável, é tecnicamente primário" (fl. 210).
+Indeferida a liminar e prestadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não provimento do recurso (fls. 250-254).
+Decido.
+Inicialmente, rememoro que a jurisprudência desta Corte Superior possui firme entendimento de que "o trancamento da ação penal ou de inquérito policial na via estreita do habeas corpus somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito" (AgRg no HC n. 690.155/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/09/2021).
+No caso, o paciente foi denunciado pela suposta prática do delito de furto, por haver subtraído uma cadeira, avaliada em R$ 65,00. Segundo consta, "o paciente, aproveitando-se do fato de a vítima ter deixado o portão da residência aberto, ingressou no imóvel e subtraiu uma cadeira, evadindo-se em seguida" (fl. 201).
+Recebida a denúncia, o processo foi suspenso para apuração da sanidade do réu.
+A Corte estadual denegou a ordem que pretendida o trancamento da ação penal, por entender inviável a aplicação do princípio da insignificância ao caso, nos seguintes termos (fls. 200-203, destaquei):
+Não há que se falar em trancamento da ação penal, pois, de uma superficial análise dos elementos probatórios contidos no presente reclamo, não se vislumbra estarem presentes quaisquer das hipóteses que autorizam a interrupção prematura da persecução criminal por esta via, já que seria necessário o profundo estudo das provas, as quais deverão ser oportunamente valoradas pelo juízo competente.
+ ..
+Ressalta-se que a inicial acusatória evidenciou a participação e envolvimento do paciente na prática do delito. Cumprindo os requisitos formais para o ajuizamento da ação penal (art. 41 do Código de Processo Penal), recebimento e posterior processamento do feito, com decisão de mérito, pois contém a descrição do fato criminoso e as suas circunstâncias, a qualificação do paciente, a tipificação do delito e o rol de testemunhas. Possibilitando a ampla defesa do paciente, de forma que ficou demonstrada a justa causa para a ação penal.
+A denúncia foi recebida em 18 de janeiro de 2021, tendo sido suspenso o processo, para apuração da insanidade mental do paciente (fls. 67/69 dos autos principais).
+Diante desse cenário, não se trata de hipótese de manifesta ausência de materialidade e de indícios de autoria, passíveis de serem identificadas, de pronto e de forma inequívoca, a partir dos limitados documentos de prova que destes autos constam, os quais, supostamente, apontam a participação do paciente no fato criminoso em tela.
+Apenas considerar o valor do bem (R$ 65,00) ou a ausência de efetivo prejuízo, não serve para adotar a tese defendida pelo digno Defensor, já que a lesividade individual e pública é marcante, não se podendo desprezar o reflexo à insegurança pública.
+ ..
+Nota-se que há na ação do apelante periculosidade social, ele responde, ao menos, por seis processos em andamento, todos pela prática de furto (fls. 21/23 - dos autos principais), indicando que possui personalidade voltada para a prática delitiva.
+O criminoso contumaz, mesmo que pratique crimes de pequena monta, não pode ser tratado pelo sistema penal como se tivesse praticado condutas irrelevantes, pois crimes considerados ínfimos, quando analisados isoladamente, mas relevantes quando em conjunto, seriam transformados pelo infrator em verdadeiro meio de vida.
+ ..
+É certo, ainda, que a questão referente à alegada inimputabilidade do agente será melhor avaliada durante a instrução, aguardando-se deliberação do Juízo de primeiro grau sobre a vinda dos laudos requeridos.
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Na espécie, o réu responde a outros seis processos criminais pela prática do mesmo delito de furto, o que denota a sua contumácia delitiva e afasta a incidência do princípio da insignificância, o que está em consonância com a jurisprudência desta Corte Superior.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. VÁRIOS PROCESSOS EM CURSO. REITERAÇÃO CRIMINOSA ESPECÍFICA. BAGATELA. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há falar em reduzido grau de reprovabilidade no comportamento do agente que responde a vários processos criminais por crime da mesma natureza (contra o patrimônio), circunstância que configura a reiteração criminosa e impede a aplicação do princípio da insignificância.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 1.394.000/MG, relator Ministro Rogerio Schietti Cruz, 6T, DJe de 30/4/2019, grifei)
+ ..
+4. A Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas, o que não se evidencia na hipótese.
+5. O fato dos bens subtraídos terem sido restituídos à vítima não afasta, por si só, a tipicidade da conduta e tampouco permite a aplicação do princípio da insignificância.
+6. Não há que se falar em atipicidade material da conduta, já que resta evidenciada a a contumácia delitiva do réu, pois se trata de agente que, apesar de tecnicamente primário, possui outras passagens pela suposta prática de delitos patrimoniais, ameaça e injúria, tendo justificado a habitualidade delitiva com o fim de sustentar seu vício em drogas, o que demonstra o seu desprezo sistemático pelo cumprimento do ordenamento jurídico.
+ ..
+8. Agravo regimental não provido.
+(AgRg no HC n. 666.345/SC, relator Ministro Ribeiro Dantas, 5a T., DJe de 4/10/2021.)
+No mesmo sentido, o parecer do Ministério Público Federal, in verbis (fl. 254):
+No caso em apreço, entenderam as instâncias ordinárias que é típica a condutada paciente, diante do valor do objeto subtraído e do comportamento contumaz do recorrente na prática de crimes, o qual responde por outras seis ações penais pela prática de furto.
+O valor do bem objeto da conduta delitiva (R$ 65,00) é, de fato, reduzido e está aquém do patamar fixado pelo STJ de 10% do salário-mínimo então vigente (R$1.100,00), sendo a reiteração delitiva do paciente, in casu, suficiente para afastar a incidência do princípio da insignificância.
+Verifica-se, portanto, que não se encontra presente qualquer das hipóteses aptas a autorizar o encerramento precoce da persecutio criminis.
+Ademais disso, no prosseguimento da ação penal, terá o recorrente garantido o direito ao contraditório e à ampla defesa, podendo alcançar, se for o caso, a absolvição pretendida por meios adequados e não pela via do remédio heroico.
+Ademais, especificamente sobre a inimputabilidade do réu, como bem ressaltou o acórdão, "será melhor avaliada durante a instrução, aguardando-se deliberação do Juízo de primeiro grau sobre a vinda dos laudos requeridos" (fl. 203).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
