@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Execução. Fraude à execução não configurada. Ausência dos requisitos do art. 593, II, do CPC. Decisão agravada reformada. Recurso provido.
+Alegou-se, no especial, violação dos artigos 129, 9º, da Lei 6.015/73 e 1.245, § 1º, do Código Civil, sob o argumento de que o acórdão local "manteve o entendimento de que o instrumento de dação em pagamento da nua propriedade é oponível à penhora efetivada e averbada na matrícula do imóvel, isto é, oponível a terceiros (no caso o recorrente/exequente), aceitando como SUCEDÂNEO à exigência legal do registro do instrumento de dação em pagamento para valer contra terceiro" (e-STJ, fl. 371).
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o Tribunal local deu provimento a agravo de instrumento interposto pelo agravado contra decisão que, em impugnação à penhora, rejeitou a alegação da parte de que a constrição foi indevida.
+Consignou-se que:
+"(..) a presente ação de execução por quantia certa contra devedor solvente foi protocolada aos 04/01/2007 (fls. 21).
+Entrementes, o executado-agravante sustenta que alienou a nua-propriedade do bem antes mesmo da propositura da execução.
+A cópia do "Instrumento Particular de Dação de Pagamento" indica que, em maio de 2000, o executado e sua mulher deram o imóvel de matricula nº 56.244 em pagamento para o Sr. José Azevedo Lira Filho (fls. 62/65).
+Na cópia encartada às fls. 65 há indicação de que houve reconhecimento de firma das assinaturas apostas, sendo que, às fls. 261, verso, foi apresentada nova cópia do referido Instrumento Particular de Dação em Pagamento, no qual consta que os reconhecimentos de firma foram efetivados em novembro do ano 2000" (e-STJ, fl. 88).
+Concluiu-se , o que foi esclarecido no julgamento de embargos de declaração, que:
+"(..) a dação em pagamento não foi registrada no Cartório de Títulos e documentos, como permitido pelo artigo 129, parágrafo 9º da Lei 6.015/73, todavia, como a mesma pode ser considerada autêntica, em razão dos reconhecimentos das firmas por Tabelião (artigo 411, inciso I do CPC), além de poder ser considerada datada, em relação a terceiros, em razão de sua apresentação em repartição pública, no momento do reconhecimento das firmas (artigo 409, parágrafo único, inciso IV do CPC), e estando também o negócio declarado perante a Receita Federal, antes da distribuição da execução e assunção da dívida exequenda, viável a sua oponibilidade em relação ao exequente, ressalvada, com dito, a possibilidade de discussão a respeito de sua validade, ou não, para efeito de obtenção da declaração de sua eventual nulidade, em sede de ação própria, eis que o agravado entende que o negócio é simulado. (vide fls. 386-387).
+Não é caso de reconhecimento, de nulidade do negócio jurídico de oficio (artigo 168, parágrafo único do CC), pois, na espécie, trata-se de matéria de fato, em tese, dependente de dilação probatória e de submissão ao crivo do principio do contraditório" (e-STJ, fls. 346/347).
+A alegação, portanto, de que não houve publicidade a terceiros da transmissão da nua propriedade foi afastada pelo Tribunal de origem com fundamento no artigo 409, parágrafo único, IV, do Código de Processo Civil, no sentido de que considera-se datado o contrato em relação a terceiros no momento de sua apresentação a repartição pública, o que se deu com o reconhecimento da firma dos signatários em cartório extrajudicial.
+Esse fundamento não foi, todavia, impugnado pelo recorrente, o que atrai as disposições do verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
