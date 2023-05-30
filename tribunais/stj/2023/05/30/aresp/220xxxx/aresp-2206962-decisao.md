@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do SINDICATO MUNICIPAL DOS TRABALHADORES EM EDUCACAO DE NOVA ALVORADA DO SUL-MS no qual se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO COLETIVA - VALOR DA AÇÃO - QUESTÃO NÃO DECIDIDA - MATÉRIA NÃO CONHECIDA - SINDICATO - INTERESSES DE SEUS SUBSTITUÍDOS - ISENÇÃO DE CUSTAS - INAPLICABILIDADE - DECISÃO MANTIDA - RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, IMPROVIDO.
+I) De acordo com o entendimento do STJ "a isenção de custas e emolumentos judiciais, disposta no art. 87 da Lei 8.078/90 destina-se facilitar a defesa dos interesses e direitos dos consumidores, inaplicável, portanto, nas ações em que sindicato busca tutelar o direito de seus sindicalizados, ainda que de forma coletiva". (STJ, AgInt no AREsp 919.379/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017).
+II) Recurso parcialmente conhecido e, nesta, improvido (fl. 30).
+Os embargos de declaração opostos foram rejeitados (fls. 68/75).
+Nas razões de seu recurso especial, a parte agravante sustenta, além de divergência jurisprudencial, violação do art. 18 da Lei 7.347/1985. Alega, para tanto, que a referida legislação garante-lhe a isenção de custas em ações coletivas intentadas sob sua égide.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 95/102).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não merece prosperar.
+O Tribunal de origem decidiu que:
+"Em se tratando de pessoas jurídicas sem fins lucrativos, tais como sindicatos, para a concessão da assistência judiciária, deve haver, de forma inequívoca, prova da impossibilidade de arcar com o pagamento das custas e despesas processuais. Considerando que a receita do sindicato decorre das contribuições dos associados e o mesmo possui patrimônio descrito no seu Estatuto Social, descabe a concessão da assistência judiciária." (fls. 39/40, concluindo com o raciocínio de que "Diante da inaplicabilidade da isenção das custas, aplica-se somente o instituto da gratuidade de justiça, cuja finalidade é garantir que pessoas (físicas e jurídicas) menos favorecidas economicamente tenham acesso ao Judiciário e para obter tal benefício deve a parte demonstrar a necessidade, nos termos do artigo 99, § 3.º, do Código de Processo Civil  " (fl. 40).
+A peça recursal, todavia, não se insurge contra esse fundamento, limitando-se a afirmar que a ação proposta seria regida pelos ditames da Lei de Ação Civil Pública, a qual garante a isenção de custas ao recorrente independente do objeto tutelado, seja ele direitos individuais homogêneos ou não.
+Inafastável, assim, a incidência, por analogia, da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
