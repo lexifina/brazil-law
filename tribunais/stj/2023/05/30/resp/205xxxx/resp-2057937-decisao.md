@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por UNIÃO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO , assim ementado:
+"Processual Civil. Agravo de instrumento movimentado contra decisão, proferida em sede de cumprimento de sentença, que deferiu pedido de reemissão de requisição de pagamento cancelado, mas sem a incidência de juros de mora.
+1. O requisitório foi cancelado em razão da Lei 13.463/2017, quando se encontrava à disposição do credor. Retornando os valores à posse da Fazenda Pública, deles passou novamente a dispor, devendo, por esta razão incidir juros de mora a partir do cancelamento até nova expedição.
+2. Precedente desta Quarta Turma: Agravo de Instrumento 0815023-73,2020.4.05.0000, des. Bruno Leonardo Câmara Carrá, julgado em 27 de abril de 2021.
+3. Agravo de instrumento provido" (fl. 71e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 82/85e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"Processual civil. Embargos de Declaração opostos contra acórdão que deu provimento ao agravo de instrumento para reconhecer a incidência de juros de mora sobre o valor de requisitório, cancelado por força da Lei 13.463/2017.
+1. O ponto central dos embargos se situa na suposta ocorrência de omissão e obscuridade no julgado, pois Apenas observou o procedimento acaba por punir o devedor que não incorreu em inadimplência. determinado pela Lei 13.463/2017.
+2. O acórdão foi proferido com base no entendimento desta Quarta Turma no sentido de que ao cancelar o requisitório que se encontrava à disposição do credor, os valores retornam à posse da Fazenda Pública, que deles passou novamente a dispor, devendo, por esta razão incidir juros de mora a partir do cancelamento até nova expedição.
+3. Observa-se que as questões suscitadas no recurso de agravo de instrumento foram todas apreciadas.
+4. No cotejo do teor do recurso em tela com o julgado, observa-se estar o decisório completo, cercado do fundamento devido, não se fazendo necessária qualquer outra abordagem, mesmo porque o julgado não é um diálogo de pergunta e resposta entre as partes, nem deve se transformar num amontoado de enfrentamento de questões que não se situam no centro da querela. Depois, a matéria, considerada importante, foi devidamente focada, de maneira a não necessitar de nenhum outro complemento.
+5. O caso, portanto, não é de omissão, mas de entendimento contrário à pretensão da embargante. Importa ressaltar que a estreita via dos aclaratórios não comporta a reapreciação de matéria já decidida, devendo aparte utilizar os recursos processuais apropriados.
+6. Embargos de declaração improvidos" (fl. 114e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 489, § 1º, IV e 1.022, II, do CPC/2015 e arts; 394 e 396 do Código Civil e art. 3º da Lei 13.463/2017, sustentando que o precatório não deveria conter valores de juros de mora no período que compreende seu cancelamento e a sua reexpedição.
+Contrarrazões a fls. 142/174e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 176e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Agravo de Instrumento apresentado pela parte ora recorrida, com o objetivo de reformar decisão que não incluiu no precatório reexpedido o juros de mora incidentes desde seu cancelamento.
+O Tribunal local deu provimento ao apelo.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à negativa de prestação jurisdicional, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, o acórdão recorrido restou assim redigido:
+"O ponto central do recurso se situa em pedido de incidência de juros de mora em caso de reemissão de precatório cancelado em razão da Lei13.463/2017.
+A questão já foi apreciada pela Turma:
+Processual Civil. Agravo de Instrumento. Cumprimento de sentença. Correção monetária. Trânsito em julgado de capítulos da sentença. Impossibilidade. Alcance da decisão do STF no julgamento do RE870.947. Tema 810. Recurso improvido.
+1. Trata-se de Agravo de Instrumento interposto pela FUNASA, em face de decisão que homologou a planilha da Contadoria e determinou a reexpedição das RPVs para pagamento do montante atualizado (R$ 36.361,00).
+2. Alega o agravante que não são devidos juros de mora após a reexpedição dos RPVs, eis que a parte executada não deu causa à demora. Sustenta que não se pode imputar mora à fazenda pública no período que compreende a expedição de precatório e o seu pagamento, posto que tal procedimento se dá por determinação das normas constitucionais que regem a matéria, sendo, portanto, de todo ilegal os juros apresentados pela contadoria.
+3. O ponto controvertido no presente recurso reside no exame sobre a incidência dos juros de mora no período entre a data de cancelamento dos RPVs e a reexpedição de novos requisitórios.
+4. Sabe-se que os juros de mora e a correção monetária são decorrências legais da condenação e que amora do devedor, constituída a partir da citação e mantida durante o curso do processo, resolve-se como efetivo cumprimento da obrigação.
+5. Na hipótese, trata-se de obrigação de pagar pela Fazenda Pública, que somente se dispôs a cumprir com a obrigação após provimento judicial, o que atrai a incidência dos juros de mora desde a citação até o efetivo cumprimento da obrigação.
+6. Para os débitos da Fazenda Pública, dada a sistemática de pagamentos por precatórios a que está sujeita, o termo final de incidência dos juros é a data de requisição dos precatórios/RPV, conforme tese definida pelo STF ao julgar o Tema 96 (RE 579431), não incidindo juros moratórios no período entre a requisição e o efetivo pagamento, haja vista ser considerado "período de graça constitucional", conforme definiu a Corte Suprema ao julgar o Tema 1.037.
+7. No caso dos autos, constata-se que houve a requisição dos RPVs, disponibilizados ao credor, conforme Id. 4058000.6179645 dos autos de origem (fl. 364 do processo físico), mas foram cancelados.
+8. Ainda que não tenha sido possível identificar nos autos a causa do cancelamento dos requisitórios, considerando que os valores devidos retornaram à posse da Fazenda Pública, que deles passou novamente a dispor, há de se concluir pela incidência dos juros moratórios a partir do cancelamento até nova expedição de requisitórios.
+9. Em contrapartida, não incidem juros de mora em relação ao interregno em que os valores estiveramdepositados em favor dos exequentes até serem cancelados.
+10. Sendo, portanto, efeitos intrinsecamente vinculados à dívida, os juros de mora e correção monetária podem ser alegados a qualquer tempo e conhecidos de ofício, não caracterizando julgamento extra petita, tampouco preclusão consumativa. Precedentes.
+11. Agravo de Instrumento improvido (Agravo de Instrumento 0815023-73,2020.4.05.0000, des. Bruno Leonardo Câmara Carrá, julgado em 27 de abril de 2021).
+No entendimento desta Quarta Turma, ao cancelar o requisitório que se encontrava à disposição do credor, os valores retornam à posse da Fazenda Pública, que deles passou novamente a dispor, devendo, por esta razão incidir juros de mora a partir do cancelamento até nova expedição" (fls. 69/70)
+Nesse contexto, verifica-se que as razões do Recurso Especial não atacam os fundamentos adotados pela Corte Estadual. De fato, a parte recorrente limitou-se a manifestar seu inconformismo com o resultado que lhe foi desfavorável, apresentando fundamentos outros, não relacionados ao decidido, mormente, no que tange ao retorno dos valores à sua disposição.
+Assim, o recorrente adotou razões recursais dissociadas da fundamentação do acórdão objurgado, deixando de impugnar especificamente seus fundamentos, pelo que incidem na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
