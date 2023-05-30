@@ -1,0 +1,48 @@
+DECISÃO
+BELCHOR ALAOR PORTO BARBOSA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 142853-05.2021.8.21.7000.
+O recorrente sustenta, em síntese, nulidade da decisão de primeiro grau que deferiu a quebra de sigilo do telefone celular requerida pelo Ministério Público no curso da instrução processual.
+Alega que " a  ausência do pedido de produção de prova, em denúncia, quanto ao aparelho Celular apreendido no Auto de Prisão em Flagrante já demonstra, por si só, que incabível o deferimento de tal medida postulada de forma extemporânea, quando aquele era o momento apto para tanto" (fl. 94).
+Pleiteia a declaração de nulidade da decisão que deferiu o pedido de quebra do sigilo dos dados do aparelho celular apreendido no auto de prisão em flagrante.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 134-140 ).
+Decido.
+Infere-se dos autos que o recorrente foi denunciado pela suposta prática dos delitos de porte ilegal de arma de fogo de uso restrito, receptação, adulteração de sinal identificador de veículo automotor e corrupção ativa.
+A defesa sustenta a ilegalidade da decisão da Magistrada de primeiro grau que deferiu o pedido da acusação de quebra do sigilo dos dados do aparelho telefônico pertencente ao acusado, formulado durante a audiência de instrução.
+O Tribunal de origem afastou a alegada nulidade com amparo na seguinte fundamentação (fls. 79-80, grifei):
+Não verifico a ilegalidade apontada. O processo de origem ainda se encontra com a fase instrutória em andamento, sendo que na ocasião da impetração do writ os réus sequer haviam sido interrogados e havia audiência designada para o dia 23.09.2021.
+Atualmente, o processo encontra-se aguardando a realização da audiência designada para 25.11.2021 para inquirição de testemunhas defensivas. Inclusive, verifico que já restou acostado na ação penal relatório da autoridade policial com as informações solicitadas pelo Ministério Público sobre a quebra do sigilo de dados do celular apreendido (evento 239)
+Importante salientar ainda que perfeitamente cabível o deferimento de prova que o Juízo entenda como necessária para a elucidação de fato narrado na denúncia. No caso em comento, em decisão fundamentada, a Magistrada autorizou a produção de prova para melhor esclarecer situação envolvendo o 4º fato descrito na peça inicial.
+Nesse mesmo sentido, bem destacou a Procuradora de Justiça Dirce Soler em parecer ministerial do evento 27, o qual ora transcrevo:
+"Quanto ao pedido, em si, do Ministério Público, transcrito pela própria impetrante, na página 4 do Evento 1 destes autos, esse, ressalta-se, tem por base a necessidade de aprofundamento da investigação referente ao 4º fato da denúncia (corrupção ativa), e fundamenta-se, pelo que se pode perceber, no depoimento de uma testemunha, colhido na própria audiência, ao final da qual foi o pedido formulado, contraditado, e deferido, fundamentadamente, de forma que não há sequer como dizer-se que a produção de referida prova poderia ter sido postulada já na denúncia!"
+Assim, analisando o 1º vídeo da audiência de instrução do dia 17.06.2021 disponível no sistema eproc, é possível perceber que a testemunha de acusação refere, aos 12 minutos, a existência de mensagem recebida no aparelho celular apreendido com Charles, na qual haveria referência à vantagem indevida oferecida aos policiais. Referida testemunha detalha a forma como a mensagem foi recebida e informada aos policiais militares, bem como a ordem em que os fatos ocorreram na ocasião. Aos 51 minutos do mesmo vídeo, a Dra. Promotora de Justiça postula a quebra do sigilo telefônico do aparelho e extração de certidão da referida mensagem, aduzindo que apenas durante o depoimento do policial militar André tomou conhecimento da forma como a mensagem fora enviada naquela ocasião.
+Assim, no meu sentir, a prova requerida pelo órgão ministerial na solenidade não se encontra preclusa, pois postulada na ocasião em que tomou ciência da existência de fatos relevantes relacionados à referida mensagem, não acarretando qualquer prejuízo ao paciente sua realização.
+Desataco, inclusive, que o artigo 402 do Código de Processo Penal permite ao órgão ministerial requer ao final da audiência diligências que entender necessária à elucidação de circunstâncias ou fatos apresentados durante a instrução.
+O sistema do livre convencimento motivado, adotado no nosso ordenamento jurídico, impõe ao juiz o dever de fundamentar o ato decisório, expondo as razões que o levaram a concluir pela absolvição ou pela condenação do réu, com a valoração das provas produzidas, mediante seu criterioso e prudente tirocínio.
+Não por outro motivo é que o art. 182 do CPP verbaliza a regra de que o juiz é o perito da perícia (peritus peritorum), a lhe permitir aceitar ou rejeitar, no todo ou em parte, as conclusões do laudo.
+Assim, o juiz pode avaliar livremente as provas dos autos para formar seu convencimento, mas deve fazê-lo de maneira coerente e fundamentada, tanto no deferir ou não os pedidos de produção probatória quanto no julgar a respeito da materialidade e da autoria do crime e dos elementos que definem os contornos jurídicos da ação delitiva objeto da imputação.
+As demais normas referentes à instrução probatória devem, portanto, ser lidas à luz da regra geral do art. 155 do CPP, que incorpora o mandamento constitucional definidor do sistema de apreciação de prova, incumbindo ao intérprete e aplicador do direito afastar eventuais incompatibilidades e incoerências internas do ordenamento processual.
+No caso dos autos, a despeito de o celular do acusado ter sido apreendido já no momento da prisão em flagrante, o Tribunal de origem consignou expressamente que a necessidade de quebra do sigilo dos dados do aparelho só foi evidenciada a partir do depoimento prestado por testemunha durante a audiência de instrução (fl. 80), o que afasta o reconhecimento de eventual preclusão do requerimento formulado pela acusação.
+O art. 402 do CPP, por sua vez, prevê a possibilidade das partes requerem diligências cuja a necessidade se origine de circunstâncias ou fatos apurados na instrução, como ocorrido na hipótese.
+Dessa forma, não há ilegalidade no deferimento do pleito ministerial de quebra do sigilo dos dados do aparelho celular do acusado, já que a Magistrada entendeu ser a medida relevante para a elucidação dos fatos narrados pela testemunha durante a audiência de instrução.
+Ilustrativamente:
+ ..
+4. Não cabe devolver o prazo para apresentar resposta à acusação, pois, para além da ausência de comprovação de efetivo prejuízo, o art. 402 do CPP autoriza qualquer parte a requerer diligências cuja necessidade se origine de circunstâncias ou fatos apurados na instrução (AgRg na PET na APn n. 940/DF, Ministro Og Fernandes, Corte Especial, DJe de 9/9/2021). Precedentes.
+5. Recurso em habeas corpus improvido.
+(RHC n. 160.986/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 12/12/2022, grifei)
+ ..
+V - O art. 156, II, do CPP faculta ao magistrado determinar, de ofício, a realização de diligências para dirimir dúvida sobre ponto relevante suscitado na instrução, e o art. 402 do CPP autoriza as partes a requerer diligências cuja necessidade se origine de circunstâncias ou fatos apurados na instrução.
+VI - No âmbito do processo penal, por força do princípio da busca da verdade processual (ou judicial) e em decorrência da própria adoção do sistema da persuasão racional do juiz (convencimento motivado e discricionariedade regrada), pode o magistrado, de maneira subsidiária, complementar e excepcional, determinar que se elaborem provas consideradas necessárias e adequadas para dirimir dúvidas sobre pontos controversos e relevantes que surgiram no curso da instrução criminal, contanto que com a devida fundamentação e mediante estrita observância ao princípio do contraditório, ainda quando diferido (contraditório sobre a prova).
+VII - A realização de diligências ao término da instrução criminal, quer por pedido expresso do órgão acusatório, quer por iniciativa probatória do juiz, não viola o princípio da imparcialidade, corolário do princípio do devido processo legal, nem o sistema acusatório adotado no sistema processual penal brasileiro.
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC n. 131.462/PR, Rel. Ministro Felix Fischer, 5ª T., DJe de 1/3/2021, destaquei)
+ ..
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "no curso do processo penal, admite-se que o juiz, de modo subsidiário, possa - com respeito ao contraditório e à garantia de motivação das decisões judiciais - determinar a produção de provas que entender pertinentes e razoáveis, a fim de dirimir dúvidas sobre pontos relevantes, seja por força do princípio da busca da verdade, seja pela adoção do sistema do livre convencimento motivado" (RHC n. 59.475/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 9/6/2015, DJe de 18/6/2015).
+ ..
+(AgRg no RHC n. 119.112/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/5/2020)
+ ..
+1. A teor do art. 402 do CPP, produzidas as provas, as partes poderão requerer diligências ao Juiz cuja necessidade se origine de circunstâncias ou fatos apurados na instrução criminal.
+2. O Superior Tribunal de Justiça é firme em salientar que o Magistrado detém discricionariedade para indeferir as provas que entender protelatórias, irrelevantes ou impertinentes, desde que por meio de decisão fundamentada.
+ ..
+(RHC n. 97.008/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe de 14/5/2019)
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
