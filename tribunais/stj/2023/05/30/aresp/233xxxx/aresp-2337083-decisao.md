@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por PIETRO LADOGANA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. SENTENÇA DE PROCEDÊNCIA. ALEGAÇÃO DE NULIDADE PROCESSUAL. JUÍZO QUE OPORTUNIZOU A FASE PRÓPRIA DE DILAÇÃO PROBATÓRIA. APELANTE QUE NÃO MANIFESTOU INTERESSE NA PRODUÇÃO DE OUTRAS PROVAS EM MOMENTO OPORTUNO. PRECLUSÃO. INTELIGÊNCIA DO ART. 223 E 278 DO CPC/2015. DANOS MATERIAIS CARACTERIZADOS. AUTORIA DO FATO QUE NÃO FOI ESPECIFICAMENTE IMPUGNADA NA CONTESTAÇÃO. PRESUNÇÃO DE VERACIDADE. ART. 336 E 341 DO CPC/2015. SENTENÇA MANTIDA. APELO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 272, § 2º, e 280 do CPC, no que concerne à caracterização do cerceamento de defesa, uma vez que o advogado regularmente habilitado nos autos não fora devidamente intimado da audiência de conciliação, a qual se convolou em audiência de instrução, razão pela qual não lhe foi dada oportunidade de se manifestar acerca da produção de provas no momento processual adequado, trazendo a seguinte argumentação:
+O acórdão em exame considerou que o Recorrente fora regularmente intimado, sem, contudo, apreciar que ao ID 7326322 - Pág. 7 (21/07/2017) o causídico anterior, Dr. Daniel Pedro dos Santos houvera renunciado os poderes que lhe foram outorgados e que este causídico, ora firmatário, Luciano Caldas Cosme, colacionou em data de 15/08/2017 petição contendo Recurso Apelativo, preparo, substabelecimento SEM RESERVAS e procuração, como se lê do ID 7326321 - Pág. 1 a 18, principalmente as págs. 17 e 18, onde estão colacionados substabelecimento e procuração, respectivamente.
+Ou seja, o Despacho de que defere reaprazamento de audiência de CONCILIAÇÃO publicada em 05/11/2019 não poderia jamais conter somente o nome do advogado que renunciou aos seus poderes em quase 02 (dois) anos antes.
+ ..
+Ou seja, a intimação do Réu, ora Recorrente, por meio do seu causídico REGULARMENTE HABILITADO, não ocorreu. Impossível então afirmar que o Recorrente não, nos termos do acórdão, MANIFESTOU INTERESSE NA PRODUÇÃO DE OUTRAS PROVAS EM MOMENTO OPORTUNO.
+ ..
+Há de se versar ainda que a audiência da qual o Recorrente não foi intimado, que era conciliatória, convolou-se em audiência instrutória, como se lê ID Num. 7326324 - Pág. 16.
+ ..
+Ainda considerou que foram devidamente intimados. Não Excelência. Não foram! Logo em seguida veio a sentença de procedência juntada ao ID Num. 7326325 - Pág. 1 a 4.
+(fls. 647/649).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Compulsados os autos, depreende-se que após anulação da sentença primeva, as partes foram regularmente intimadas para falar novamente sobre o laudo pericial acostado, ocasião em que o Apelante quedou-se inerte (Id 7326324).
+Em contínuo, o juízo designou audiência de instrução e julgamento, oportunidade em que o Apelante não se fez presente, apesar de regularmente intimado por meio do seu patrono regularmente constituído, consoante dá conta o documento imerso no Id 7326324 (pág. 15).
+Nesse contexto, entendo que o direito do Apelante de renovar a impugnação do laudo pericial, pugnar realização de esclarecimento pericial, nova perícia ou qualquer outra providência probatória precluiu, porquanto além de desatender o comando judicial imerso no Id 7326324, a parte não compareceu a audiência instrutória.
+ ..
+Destaque-se também que à época da intimação para realização da audiência de instrução e julgamento o Apelante ainda era representado pelo Dr. Daniel Pedro dos Santos, o qual só apresentou petição de renúncia em 06/02/2020 (Id 7326325).
+A procuração outorgando poderes para o Dr. Luciano Caldas só foi anexa aos autos em epígrafe em 17/07/2020 (Id 7326326 - pág. 16), por ocasião da apresentação do Recurso de Apelação em exame. Assim, não há que se falar em nulidade de intimação por ausência de intimação ao referido patrono (fl. 591).
+Tal o contexto , incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
