@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DECISÃO AGRAVADA QUE NEGOU PROVIMENTO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO REGIMENTAL. PRAZO RECURSAL DE 5 (CINCO) DIAS CORRIDOS. PRAZO EM DOBRO. PRERROGATIVA. DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça e 798, caput e § 3º, do Código de Processo Penal.
+II - Na hipótese, a Defensoria Pública do Estado de São Paulo foi intimada em 31/03/2022 (fl. 521). O decurso do prazo legal teve início em 01/04/2022 (sexta-feira), pela contagem normal o prazo em dobro expiraria no dia 11/04/2022 (segunda-feira) - prerrogativa conferida à Defensoria Pública, porém a petição de interposição do agravo regimental só veio a ser recebida neste Tribunal em 18/04/2022 (fl. 535), fora, portanto, do prazo legal, como Certidão de fl. 536.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ANDERSON DA ROCHA SILVA,  contra  decisão  de fls. 512/519, que negou provimento ao  agravo  em  recurso  especial.
+Nas  razões  deste  agravo  regimental  ,  a  Defesa  assevera  que  "(..)  o presente recurso é tempestivo, tendo sido a Defensoria Pública intimada da decisão em 23 de novembro de 2021. Note-se, ainda, que a Defensoria Pública goza da prerrogativa de contagem em dobro de todos os prazos processuais, a teor do disposto no artigo 128, inciso I, da Lei Complementar n. 80/94"  (fl.  525).  Nestes  termos,  requer  a  reconsideração  da  decisão  impugnada  ou  a  apresentação  do  recurso  ao  Colegiado.
+O  Ministério  Público  do Estado de São Paulo  opinou  pelo  desprovimento  do  agravo  regimental  (fls.  538/551).
+Por  manter  o  decisum,  trago  o  feito  a  julgamento  do  Colegiado.
+É  o  relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DECISÃO AGRAVADA QUE NEGOU PROVIMENTO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO REGIMENTAL. PRAZO RECURSAL DE 5 (CINCO) DIAS CORRIDOS. PRAZO EM DOBRO. PRERROGATIVA. DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça e 798, caput e § 3º, do Código de Processo Penal.
+II - Na hipótese, a Defensoria Pública do Estado de São Paulo foi intimada em 31/03/2022 (fl. 521). O decurso do prazo legal teve início em 01/04/2022 (sexta-feira), pela contagem normal o prazo em dobro expiraria no dia 11/04/2022 (segunda-feira) - prerrogativa conferida à Defensoria Pública, porém a petição de interposição do agravo regimental só veio a ser recebida neste Tribunal em 18/04/2022 (fl. 535), fora, portanto, do prazo legal, como Certidão de fl. 536.
+Agravo regimental não conhecido.
+VOTO
+O recurso não merece ser conhecido.
+Isso, porque se mostra intempestivo o presente agravo regimental.
+É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos (contado em dobro quando se trata de agravante assistido por Defensoria Pública), nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça e 798, caput e § 3º, do Código de Processo Penal.
+Dessa forma, " é  intempestivo o agravo regimental que, mesmo contando-se o prazo em dobro - por se tratar de recorrente assistido pela Defensoria Pública -, foi interposto, extemporaneamente, após o fim do lapso recursal de 10 dias" (AgRg no REsp n. 1.988.092/PA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 7/10/2022).
+Assim, o agravo contra decisão monocrática, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015).
+Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei 8.038/90 que dispõe sobre normas procedimentais para os processos que especifica, perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal, e que, em seu art. 39, prevê:
+"Art. 39 - Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias."
+Tal previsão legal é secundada pelo disposto no caput do art. 258 do Regimento Regimental do Superior Tribunal de Justiça, cujo teor é o seguinte:
+"Art. 258. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a."
+Com efeito: "O lapso para a interposição do agravo no âmbito criminal não foi alterado pelo Novo Código de Processo Civil. Assim, aplica-se o disposto no art. 39 da Lei n. 8.038/90, que fixa o prazo de cinco dias para a interposição do agravo" (AgRg nos EAREsp n. 607.127/SP, Terceira Seção, Relª. Minª. Maria Thereza de Assis Moura, DJe de 1º/6/2016).
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AGRAVO REGIMENTAL INTEMPESTIVO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça e 798, caput e § 3º, do Código de Processo Penal.
+2. "O lapso para a interposição do agravo no âmbito criminal não foi alterado pelo Novo Código de Processo Civil. Assim, aplica-se o disposto no art. 39 da Lei n. 8.038/90, que fixa o prazo de cinco dias para a interposição do agravo" (AgRg nos EAREsp n. 607.127/SP, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 25/5/2016, DJe 1º/6/2016).
+3. Na hipótese, o presente agravo é intempestivo, haja vista que a intimação ocorreu em 24/2/2021 (quarta-feira) e o recurso somente foi protocolado em 11/3/2021 (quinta-feira).
+4. Agravo regimental não conhecido" (AgRg nos EREsp n. 1.860.770/SP, Terceira Seção, Rel. Min. Antonio Saldanha Palheiro, DJe de 20/04/2021).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL INTERPOSTO APÓS O PRAZO DE 5 DIAS PREVISTO NA LEI N. 8.038/1990. INTEMPESTIVIDADE. NOVO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE.
+1. O agravo regimental é intempestivo, pois tal recurso, em matéria penal ou processual penal, não segue as disposições contidas no novo Código de Processo Civil no que concerne à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015).
+2. A norma especial da Lei n. 8.038/1.990, que prevê o prazo de 5 dias para a interposição do agravo regimental, não foi expressamente revogada pela Lei n. 13.105/2015. Precedentes.
+Agravo regimental não conhecido" (AgRg no RE no AgRg no AREsp n. 1.680.790/MG, Corte Especial, Rel. Min. Humberto Martins, DJe de 22/04/2021).
+Além disso, importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" e que "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento".
+Cumpre salientar, por necessário, que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/5/2016, firmou a tese de que a contagem dos prazos em processo penal possui ordenação específica em dias corridos, consoante disposto no art. 798 do Código de Processo Penal.
+Nesse sentido, destaco o seguinte precedente:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONTRA DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+2. Agravo regimental a que se nega provimento " (AgRg no AREsp n. 962.681/DF, Sexta Turma, Relª. Minª. Maria Thereza Assis Moura, DJe de 27/9/2016, grifei).
+Na hipótese, a Defensoria Pública do Estado de São Paulo foi intimada em 31/03/2022 (fl. 521). O decurso do prazo legal teve início em 01/04/2022 (sexta-feira), pela contagem normal o prazo em dobro expiraria no dia 11/04/2022 (segunda-feira) - prerrogativa conferida à Defensoria Pú blica, porém a petição de interposição do agravo regimental só veio a ser recebida neste Tribunal em 18/04/2022 (fl. 535), fora, portanto, do prazo legal, como certificado à fl. 536.
+De fato, conforme Certidão de fl. 536, "O prazo para interposição de agravo regimental em relação à decisão de folha 512 teve início em 01/04 /2022 e término em 11/04/2022, e que a petição n. 308663/2022 (AgRg) foi protocolizada em 18/04/2022".
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
