@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS HENRIQUE RODRIGUES DE AGUILAR contra decisão de fls. 968/974, de minha relatoria, em que conheci do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, neguei-lhe provimento.
+Em suas razões recursais, a defesa reitera a necessidade de reconhecimento da participação de menor importância do agravante no crime de latrocínio.
+Insiste, também, na alegação de falta de fundamentação e de desproporcionalidade na exasperação da pena-base, bem como na afirmativa de que o tiro que ceifou a vida da vítima foi disparado na parte frontal do corpo da vítima e não pelas costas, conforme concluído pelo Tribunal de origem.
+Afirma não incidir, no caso, a Súmula n. 7 do Superior Tribunal de Justiça.
+Requer o provimento do agravo regimental pela Turma competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. LATROCÍNIO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. RECONHECIMENTO INCABÍVEL. COOPERAÇÃO EFETIVA PARA O DELITO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PENA-BASE. EXASPERAÇÃO PROPORCIONAL. DADOS CONCRETOS. AUSÊNCIA DE ILEGALIDADE. DINÂMICA DO DELITO. CONCLUSÃO QUE TAMBÉM DESAFIA A SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo a Corte de origem concluído que a conduta do agravante foi fundamental para a ocorrência do delito de latrocínio, para se reconhecer a figura da participação de menor importância seria necessário o revolvimento dos fatos e provas dos autos, operação vedada pela Súmula n. 7 do Superior Tribunal de Justiça.
+2. Reconhecido o esquema fraudatório para o fim de praticar crimes patrimoniais contra motoristas de aplicativo, de que participavam ao menos três pessoas, bem como o fato de que o tiro que ceifou a vida da vítima foi disparados pelas suas costas, quando já em fuga, não se mostra desarrazoada a exasperação da pena-base na fração de 1/2, em razão da gravidade concreta da conduta delitiva.
+3. A revisão da dinâmica (modus operandi) do delito, ora considerada pelo Tribunal de origem para aumentar a pena-base, também esbarra no óbice da Súmula n. 7 do STJ.
+4. Agravo regimental desprovido.
+VOTO
+Não assiste razão à defesa, devendo a decisão agravada ser mantida.
+Conforme exposto na decisão agravada, quanto à violação ao art. 29, §§ 1º e 2º do Código Penal - CP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO -TJSP não reconheceu a participação de menor importância do agravante nos seguintes termos do voto do relator (grifos nossos):
+"De início, atento que a materialidade delitiva restou comprovada por meio dos laudos de fls. 144/145, 215/217 e 354, e a prova oral não deixou dúvidas acerca da autoria.
+Com efeito, o Delegado JOSÉ EDUARDO DE OLIVEIRA esclareceu, em juízo, como se deram as investigações, chegando-se à prova da autoria.
+Disse que o irmão da vítima narrou que teve contato com um dos sujeitos que solicitou o guincho e apresentou o número de telefone e que após diligências investigativas chegaram à testemunha protegida ALFA, a qual relatou que CARLOS HENRIQUE tinha o hábito de criar perfis falsos para atrair motoristas de aplicativos (Ifood, guinchos, etc.) para praticar crimes patrimoniais.
+Chegaram a CARLOS HENRIQUE e em seu celular encontraram o telefone do irmão da vítima, confirmando o fato de que houve contato entre eles, e disse que houve confissão informal. Acrescentou que a linha telefônica utilizada por CARLOS HENRIQUE estava cadastrada em nome de terceira pessoa, do sexo feminino.
+O policial civil SAMUEL OLIVEIRA DOS SANTOS confirmou o relato do Delegado, acrescentando que participou da diligência em busca de CARLOS HENRIQUE, vindo a encontrar uma motocicleta no local, a qual, por meio de sua placa, facilitou a identificação de CARLOS HENRIQUE.
+Disse que CARLOS HENRIQUE foi encontrado e autorizou buscas em seu aparelho celular, sendo encontrado contado do irmão da vítima. Houve confissão informal e CARLOS HENRIQUE esclareceu sua participação nos crimes patrimoniais criava perfis falsos, atraía os motoristas e seus comparsas realizavam a subtração. Depois, permanecia com metade do proveito dos crimes.
+Neste ponto, vale ressaltar que a participação de CARLOS HENRIQUE está longe de ser de "menor importância" mas, ao contrário, foi fundamental para a prática criminosa foi ele quem selecionou a vítima e a atraiu ao local do crime mediante o emprego de fraude, cabendo deixar claro que aquele que se propõe a tal conduta, sabedor de que há comparsa portando arma de fogo, no mínimo assume o risco do resultado morte, haja vista que nunca se sabe qual será a reação da vítima, de tal maneira que o latrocínio não é desfecho totalmente inesperado." (fls. 824/825)
+Extrai-se dos trechos acima que o TJ reconheceu que a conduta do recorrente foi fundamental para a ocorrência do latrocínio, pois era ele quem cooptava as vítimas, tendo inclusive criado perfis falsos para atrair, reiteradamente, motoristas de aplicativos. Assim, tendo a Corte originária concluído que o agravante cooperou efetivamente para a prática do delito de latrocínio, não é possível a este Tribunal reconhecer a participação de menor importância, contrariando as afirmativas daquela instância, nos termos da Súmula n. 7 do STJ.
+A propósito, confiram-se precedentes desta Corte, a critério exemplificativo, no mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ROUBO. CONCURSO DE AGENTES. TEORIA MONISTA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. EMPREGO DE ARMA BRANCA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do julgado para reconhecer que a participação de comparsa foi de menor importância, contrariamente à conclusão do tribunal de origem, exige o revolvimento dos elementos fático-probatórios dos autos, providência inviável em razão do óbice da Súmula n. 7 do STJ.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 1.886.705/DF, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 11/3/2022).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITOS DE ABSOLVIÇÃO OU RECONHECIMENTO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Para a análise da tese recursal, de que o agravante não teria cometido o delito de roubo ou de que sua participação na ação criminosa foi de menor importância, mostra-se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+Precedente.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.151.572/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 8/3/2018).
+Sobre a violação ao art. 59 do CP, o TJ exasperou a pena-base do agravante nos seguintes termos do voto do relator (grifos nossos):
+"Quanto à dosimetria de pena, de fato há que se realizar pontual reparo, conforme aduzido pelo parquet.
+A bem da verdade, nota-se que as circunstâncias do crime não são neutras, mas sim desfavoráveis aos agentes, haja vista que atuaram mediante fraude, em concurso de três agentes e ainda alvejaram a vítima pelas costas, o que indica que ela estava em fuga, não representando ameaça. Considero, ante tais circunstâncias, razoável, proporcional e adequado o aumento das penas-base em  (um meio), de tal maneira que fixo as penas iniciais de CARLOS HENRIQUE e RODRIGO em 30 (trinta) anos de reclusão, e 15 (quinze) dias-multa.
+Na segunda fase da dosimetria, deixo de ponderar a confissão em favor de CARLOS HENRIQUE haja vista que este não admitiu a prática criminosa, mas atenuo a sua pena em 1/6 (um sexto) em razão da menoridade relativa, chegando-se a uma reprimenda de 25 (vinte e cinco) anos de reclusão, e 12 (doze) dias-multa." (fl. 829)
+Extrai-se do acórdão recorrido que foi montado um esquema fraudatório pelos acusados para o fim de praticar crimes patrimoniais contra motoristas de aplicativos. Do esquema participavam, no mínimo, três pessoas. Ainda, foi reconhecido soberanamente pelas instâncias de origem que o tiro que ceifou a vida da vítima foi disparado em suas costas, quando esta já estava em fuga, circunstâncias que foram sopesadas para exasperar a pena-base em 1/2 (metade).
+Quanto à pena básica, a dosimetria só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, em flagrante violação do art. 59 do Código Penal, o que não se constata na hipótese.
+No caso, não há ilegalidade a ser reconhecida, porquanto houve justificativa concreta para o aumento da pena-base na fração de 1/2, em razão da gravidade da conduta, além de se admitir certa discricionariedade do órgão julgador na fixação da pena, conforme a orientação jurisprudencial desta Corte. Nesse sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NAO CABIMENTO. DECISÃO MONOCRÁTICA. LATROCÍNIO. DECLASSIFICAÇÃO, CRIME ÚNICO E FRAÇÃO REDUTORA PELA TENTATIVA. REVOLVIMENTO FÁTICO- PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO WRIT. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. DISCRICIONARIEDADE. QUANTUM DE AUMENTO. PROPORCIONALIDADE E RAZOABILIDADE OBSERVADAS. AUSÊNCIA DE NOVOS ARGUMETNOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IV - No tocante à primeira fase da dosimetria da pena, o julgador, no limite de sua atividade discricionária, deve estipular o quantum da reprimenda necessária à reprovação e à prevenção do delito, respeitados os parâmetros previstos no art. 59 do CP e os princípios da proporcionalidade e da razoabilidade. Destaca-se que "o art. 59 do Código Penal não atribui pesos igualitários para cada uma das circunstâncias judiciais ali previstas, de modo a requerer uma operação aritmética ente o mínimo e o máximo de pena cominado.
+Assim, é possível que seja fixada a pena-base no máximo legal, mesmo que haja apenas uma circunstância judicial desfavorável, desde que o magistrado adote fundamentação apta a justificar tal medida" (AgRg no HC n. 500.135/PE, Quinta Turma, Rel. Min. Felix Fischer, DJe de 25/6/2019).
+V - No caso, as instâncias ordinárias, na primeira fase dosimétrica, apresentaram fundamentos concretos para corretamente majorar a pena, com base nas particularidades do caso. Nesse contexto, o aumento acima no patamar de 1/2, operado pelo Tribunal estadual, decorre da especial gravidade do delito, que, alicerçada em fundamentação idônea, encontra amparo na jurisprudência do Superior Tribunal de Justiça.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 762.414/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE FURTO SIMPLES EM CONCURSO MATERIAL. PENA-BASE. FRAÇÃO DE AUMENTO PELOS ANTECEDENTES. RAZOABILIDADE. ILEGALIDADE NÃO MANIFESTA. CONFISSÃO. RECONHECIMENTO. NÃO OCORRÊNCIA. CRIME CONTINUADO. REQUISITOS NÃO CUMPRIDOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+1. Não se presta o remédio heroico à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+2. Nos termos da jurisprudência desta Corte Superior, a exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos.
+ ..
+9. Agravo regimental improvido.
+(AgRg no HC n. 618.292/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/2/2021, DJe de 17/2/2021).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE. ALTERAÇÃO DA CAPACIDADE PSICOMOTORA. DESNECESSIDADE. HOMICÍDIO CULPOSO. ABSOLVIÇÃO. PROVA. PERDÃO JUDICIAL. DOSIMETRIA. ADEQUAÇÃO DAS PENAS PELO CRIME DE HOMICÍDIO AOS MOLDES DO ANTIGO ARTIGO 302, §2º, DO CTB E NÃO PELOS DOIS CRIMES A QUE RESTOU CONDENADO PENA-BASE E PECUNIÁRIA. REDUÇÃO. SÚM. 7/STJ.
+ ..
+7. A fixação da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelada às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+8. Na hipótese, a pena-base foi estabelecida acima do mínimo legal, de forma razoável e proporcional, em razão das particularidades do caso em comento que desbordam das elementares do tipo, não havendo que se falar em ilegalidade a ser reparada por esta Corte.
+ ..
+10. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.854.277/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020).
+Outrossim, registra-se que a revisão da dinâmica (modus operandi) do delito, ora considerada pelo Tribunal de origem para aumentar a pena-base também esbarraria no óbice da Súmula n. 7 do STJ.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
