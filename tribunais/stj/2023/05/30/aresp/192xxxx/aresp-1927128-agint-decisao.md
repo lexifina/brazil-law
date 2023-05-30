@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDELIR DE OLIVEIRA PADILHA contra decisão monocrática da Presidência do STJ.
+A questão debatida nos autos, qual seja, definir "a possibilidade - ou não - de cancelamento na via administrativa, após regular realização de perícia médica, dos benefícios previdenciários por incapacidade, concedidos judicialmente e após o trânsito em julgado, independentemente de propositura de ação revisional", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos REsps 1.985.189/SP e 1.985.190/SP, relator Ministro Herman Benjamin (Tema 1.157/STJ).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria se identifique com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Pelo exposto, determino que o presente processo seja sobrestado, devendo aguardar na Coordenadoria de Processamento de Feitos de Direito Público até a publicação do acórdão dos recursos excepcionais representativos da controvérsia.
+Publique-se.  Intimações  necessárias.
