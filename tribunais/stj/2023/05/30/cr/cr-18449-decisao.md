@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça estadunidense solicita que se proceda à notificação pessoal de NUTREE PROFESSIONAL BRAZIL para tomar ciência de que foi apresentada ação judicial (Processo n. 7:21-cv-6254), na qual a parte requerente "solicita indenizações por danos e outras medidas de valor a ser dete1minado em decorrência de práticas e atos enganosos da Ré por concorrência desleal, infringir marcas comerciais e propaganda falsa", estando a parte interessada "obrigada a entregar uma resposta ou moção de acordo com a Regra 12 aos documentos anexos, até 21 dias após a entrega dos documentos anexos, ao advogado do Autor, Gary S. Graifman. Esq . KANTROWITZ. GOLDHAMER & GRAIFMAN. P. C. 16 Squadron Boulevard. Suite 106. New City. NY 10956, e a protocolar os mesmos junto ao Escrivão do Tribunal Distrital dos Estados Unidos para o Distrito Sul de Nova York" (fl. 6).
+O exequatur foi concedido (fls. 57-58).
+A notificação da parte interessada, contudo, foi frustrada, nos termos das certidões de fs. 378-379 .
+Pelo exposto, a despeito do empenho das autoridades brasileiras para localização da parte interessada, verifica-se que a providência não logrou êxito, razão pela qual determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
+Publique-se.
