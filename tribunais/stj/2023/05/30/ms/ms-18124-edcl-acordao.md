@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 24/05/2023 a 30/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos ao acórdão assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANULAÇÃO DE DESPACHO QUE INSTAURA PROCEDIMENTO DE REVISÃO DE ANISTIA. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC. APLICAÇÃO DA TESE 839/STF. JULGAMENTO DE RECURSO COM REPERCUSSÃO GERAL. ACÓRDÃO MANTIDO.
+1. Trata-se de Mandado de Segurança contra Despacho supostamente ilegal do Ministro de Estado da Justiça, que, com base na Portaria Interministerial 134, de 15.2.2011, determinou instauração de procedimento de revisão de anistias concedidas com fulcro na Portaria GM3 1.104/64.
+2. A ordem foi denegada por esta Seção, em julgamento unânime, ocasião na qual ficou assentado que "o despacho emitido pela autoridade impetrada, por si, é incapaz de atingir diretamente qualquer direito. Não há sequer ameaça de cassação de anistia ou suspensão dos pagamentos da reparação mensal".
+3. A conclusão alcançada não se baseou na (in)aplicabilidade do prazo decadencial, questão essa objeto de acórdão paradigma proferido pelo STF no RE 817.388-RG/DF (Tema 839), de maneira que o fundamento utilizado para a denegação da ordem permanece incólume.
+4. Acórdão mantido. Juízo de retratação rejeitado.
+O embargante alega que o acórdão atacado contém omissão e contradição. Sustenta, em síntese: a) o julgado deve se adequar ao Tema 839 do STF, concedendo-se a ordem por ausência do devido processo legal; b) o acórdão deixou de se manifestar sobre fato novo, superveniente à impetração do writ, notadamente a publicação da Portaria n. 3.076/2019, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, que instaurou procedimento com vistas à revisão da anistia concedida ao embargante.
+Impugnação apresentada às fls. 1.273-1.279, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA. ANULAÇÃO DE DESPACHO QUE INSTAURA PROCEDIMENTO DE REVISÃO DE ANISTIA. FUNDAMENTO INALTERADO PELO TEMA 839 DO STF. NOVAS ALEGAÇÕES QUE VIOLAM A ESTABILIZAÇÃO DA DEMANDA. TENTATIVA DE REDISCUTIR O MÉRITO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão embargado manteve a denegação do Mandado de Segurança amparado no fundamento de que o mero despacho do Ministro de Estado de Justiça que - com base na Portaria Interministerial 134, de 15.2.2011 - determina a instauração de procedimento de revisão de anistias não é capaz, por si só, de atingir diretamente nenhum direito do impetrante.
+2. O embargante alega que o acórdão atacado contém omissão e contradição. Sustenta, em síntese: a) o julgado deve se adequar ao Tema 839 do STF, concedendo-se a ordem por ausência de devido processo legal; b) o acórdão deixou de se manifestar sobre fato novo, superveniente à impetração do writ, notadamente a publicação da Portaria n. 3.076/2019, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, que instaurou procedimento com vistas à revisão da anistia concedida ao embargante.
+3. A conclusão alcançada no acórdão embargado não é abalada pelo decidido no Tema 839 do STF, que se debruçou sobre (in)aplicabilidade do prazo decadencial para revisão das anistias.
+4. Por outro lado, as alegações de violação ao devido processo legal e ao contraditório nem sequer devem ser examinadas, pois o momento oportuno para realizar tais insurgências consiste na petição inicial do Mandado de Segurança, o que não foi feito. É cediço que alegações posteriores violam a estabilização da demanda (art. 329 do CPC/2015).
+5. Ademais, o suposto fato novo suscitado pelo embargante, ainda que tivesse potencial de alterar o resultado do julgado - o que não tem -, consistiria em nova causa de pedir, razão pela qual não pode ser deduzido nesta demanda.
+6. Cumpre ressaltar, por fim, que a insurgência do embargante constitui pretensão de rediscutir o mérito da demanda, o que não é possível em Embargos de Declaração. Precedentes.
+7. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os Embargos devem ser rejeitados.
+O acórdão embargado manteve a denegação do Mandado de Segurança amparado no fundamento de que o mero despacho do Ministro de Estado de Justiça que - com base na Portaria Interministerial 134, de 15.2.2011 - determina a instauração de procedimento de revisão de anistias não é capaz, por si só, de atingir diretamente nenhum direito do impetrante.
+Diferentemente do que aduz o embargante, tal conclusão não é abalada pelo decidido no Tema 839 do STF, que se debruçou sobre (in)aplicabilidade do prazo decadencial para revisão das anistias.
+Por outro lado, as alegações de violação ao devido processo legal e ao contraditório nem sequer devem ser examinadas, pois o momento oportuno para realizar tais insurgências consiste na petição inicial do Mandado de Segurança (fls. 1-30), o que não foi feito. É cediço que alegações posteriores violam a estabilização da demanda (art. 329 do CPC/2015).
+Ademais, o suposto fato novo suscitado pelo embargante, ainda que tivesse potencial de alterar o resultado do julgado - o que não tem -, consistiria em nova causa de pedir, razão pela qual não pode ser deduzido nesta demanda. Nesse sentido: EDcl no MS 18.341/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 24.11.2022.
+Cumpre ressaltar, por fim, que a insurgência do embargante constitui pretensão de rediscutir o mérito da demanda, o que não é possível em Embargos de Declaração.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Está pacificado no STJ o entendimento de que "Não se admite o manejo dos aclaratórios com exclusivo propósito de rediscutir o mérito das questões já decididas pelo acórdão impugnado" (EDcl no AgInt na AR 6.601/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe 14.8.2020). No mesmo sentido: AgInt no AREsp 323.892/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22.11.2018; AgInt no REsp 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 20.3.2017; EDcl no AgInt no RMS 61.830/MS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 14.10.2020.
+Isso exposto, rejeito os Embargos de Declaração.
+É como voto.
