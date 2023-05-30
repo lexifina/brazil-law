@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS HERMANN GUILHERME MARTINS em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Nos termos do disposto no inciso I do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando existente contradição na r. decisão prolatada.
+In casu, verifica-se ter sido aplicado o óbice contido na súmula 284, STF, "uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos".
+Contudo, com o devido acatamento infere-se que quanto à violação do parágrafo único, do artigo 34, Decreto Lei 3365/1941, constou no v. acórdão que:
+ ..
+Ou seja, de forma equívocada entendeu o E. Tribunal a quo que os valores não deveriam ter sido levantados por ter sido demonstrada a propriedade do Embargante sobre o imóvel, entendimento este contrário ao disposto no parágrafo único, do artigo 34, Decreto Lei 3365/1941, como bem demonstrado nas razões do Recurso Especial:
+ ..
+Constata-se contrariedade na r. decisão objurgada quanto à aplicação do óbice insculpido na súmula 7, STJ, uma vez que a análise do recurso independe do revolvimento de matéria fático-probatória, requerendo-se apenas a revaloração das provas produzidas nas instâncias anteriores, de modo a se analisar se a conclusão adotada desrespeita leis federais.
+Assevera-se, portanto, que não se pretende com o presente recurso o reexame da prova constante dos autos, mas tão somente sua revaloração, isso porque discute-se tão somente a comprovação da condição de possuidor do imóvel pelo Embargante, ainda, que os fatos e fundamentos encontram-se delineados no aresto recorrido (fls. 1.100/1.101).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
