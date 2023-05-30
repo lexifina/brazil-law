@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por SAGA AGROINDUSTRIAL LTDA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PROCEDÊNCIA À ORIGEM. RECURSO DAS RÉS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. MEDIDA EXCEPCIONAL ART. 49-A E 50 DO CÓDIGO CIVIL. TEORIA MAIOR. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. GRUPO ECONÔMICO. EVIDÊNCIA DE QUE AS RÉS POSSUEM ADMINISTRAÇÃO E GERÊNCIA PATRIMONIAL CENTRALIZADA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, alega violação do art. 373, I, do CPC, no que concerne à falta de demonstração pelo recorrido do fato constitutivo do seu direito, qual seja, acerca da existência de confusão patrimonial das recorrentes. Apresenta os seguintes argumentos:
+Conforme se observa nos documentos acostados aos autos, o Recorrido se limita a alegar a existência de confusão patrimonial, sem ao menos juntar aos autos documentos que corroborem com tais alegações.
+Inexiste nos autos qualquer documento que demonstre, ainda que minimamente, a existência da suposta confusão patrimonial e/ou desvio de finalidade das empresas, restando claro que a prova documental que procura sustentar a demanda é frágil e inconsistente e, neste contexto, de rigor a procedência da impugnação apresentada pelas Recorrentes.
+Era ônus do credor, ora Recorrido, comprovar a suposta confusão patrimonial e/ou desvio de finalidade que permitisse a desconsideração da personalidade jurídica, conforme previsão em contrato, visto se tratar de fato constitutivo de seu direito, nos termos do artigo 373, inciso I do Código de Processo Civil (fl. 335).
+Quanto à segunda controvérsia, alega violação do art. 50, caput e § 4º do CC, no que concerne à impossibilidade de inclusão dos recorrentes no polo passivo da demanda, porquanto, não estão presentes os requisitos para a desconsideração de sua personalidade jurídica. Apresenta os seguintes argumentos:
+Em segundo momento, o v. acórdão que manteve entendimento proferido na instância de origem, isto é, de inclusão das empresas Recorrentes no polo passivo da demanda (cumprimento de sentença), data venia maxima, não aplicou o melhor direito e violou, expressamente, dispositivo do Código Civil.
+ ..
+Prima facie, a desconsideração da personalidade jurídica trazida pelo legislador no art. 50 do Código Civil consiste no afastamento temporário, ocasional e excepcional da personalidade jurídica da sociedade empresarial, a fim de permitir, que o credor lesado satisfaça, com o patrimônio pessoal dos sócios ou de outras empresas interligadas, a obrigação não cumprida, desde que comprovado o abusou ou manipulação fraudulenta.
+ ..
+O parágrafo 4º do art. 50 é claro ao dispor que a mera existência de grupo econômico sem a presença do desvio ou confusão não autorizam a desconsideração da personalidade jurídica.
+ ..
+Pautando-se no caso em comento, a desconsideração da personalidade para inclusão das demais empresas do Grupo tão somente por figurarem como integrantes do Grupo LBR resulta em claro prejuízo às Recorrentes, na medida em que suportarão o ônus (constrições) advindas de dívidas que não possuem qualquer tipo de relação.
+ ..
+Data venia maxima, em relação ao tópico (ii), o teor do v. acórdão não condiz com a realidade e permissibilidade de desconsideração da personalidade jurídica, na medida em que, inicialmente, Ilustres Ministros, a Recuperação Judicial, reiteradamente alegada pelo Recorrido e trazida à baila no v; acórdão já foi encerrada há 05 (cinco) anos, não havendo que se falar na responsabilização das demais empresas pelas obrigações contraídas unicamente pela empresa do Grupo, em caráter extraconcursal (fls. 336-338).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na hipótese, alegam os embargantes que o acórdão prolatado ao ensejo do julgamento do agravo de instrumento n. 5062193-88.2021.8.24.0000, encontra-se eivado por omissão e contradição.
+Contudo, não lhe assiste razão.
+Isso porque esse Órgão Fracionário foi preciso e pontual ao argumentar que os fatos e provas realizadas durante agravo de instrumento nº 2151699-43.2019.8.26.0000/SP são suficientes para apontar para o abuso/desvio da personalidade jurídica e, como consequência, convalidar a decisão proferida pelo magistrado singular (fl. 306, grifo meu).
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na espécie, a desconsideração da personalidade jurídica foi concedida sob o argumento principal de que "todas as sociedades estão sob o mesmo comando e planejamento estratégico, possuindo administração centralizada, identidade de acionistas, credores comuns, formando, assim o grupo econômico".
+Pois bem.
+Com fundamento na busca pela celeridade processual e coesão entre os precedentes dos Órgão Jurisdicionais, transcreve-se excerto, o qual integra as razões de decidir neste recurso, do agravo de instrumento nº 2151699-43.2019.8.26.0000/SP:
+ ..
+Além do acima asseverado, foi comprovado que as agravadas conjuntamente incluíram o agravado como credor quirografário em seu pedido de recuperação judicial (Evento 1, DOCUMENTACAO6).
+Assim, o comportamento das recorrentes é no mínimo contraditório, pois quando lhes convém dizem serem todas credoras do agravado. Contudo, no momento em que questionadas sobre a questão neste autos, afirmam não terem nada haver com a dívida.
+Desse modo, há indícios suficientes para apontar para o abuso/desvio da personalidade jurídica e, como consequência, convalidar a decisão proferida pelo magistrado singular (fls. 278-279, grifos meus).
+Assim, para ambas as controvérsias, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
