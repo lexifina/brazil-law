@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Diego Mello de Lima Rosa contra o ato coator proferido pela Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Processo n. 1500361-02.2021.8.26.0294, deu parcial provimento ao recurso, redimensionando sua pena a 7 anos de reclusão, em regime fechado, e 700 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006.
+O impetrante alega, em síntese, que o paciente faz jus ao regime aberto, nos termos do art. 33, § 2º, c, e § 3º, do Código Penal.
+Sustenta que a causa de diminuição da pena levou em consideração apenas a quantidade da droga apreendida, tendo se exasperado a pena em 1/5 apenas por essa vetorial.
+Pede, em caráter liminar e no mérito, a retificação do cálculo da progressão, o deferimento de livramento condicional e a fixação de regime aberto (fls. 3/18).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, o presente writ não comporta processamento.
+Como se sabe, a Constituição Federal fixa o rol de competências do Superior Tribunal de Justiça no art. 105, de modo que o conhecimento de matérias não debatidas em habeas corpus na origem subverte a estrutura constitucional, caso conhecidas na via eleita neste Tribunal Superior.
+Em suporte: AgRg no HC n. 472.533/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/12/20 18; o AgRg no AgRg no HC n. 453.621/ES, Ministro Felix Fischer, Quinta Turma, DJe 30/10/2018; e o AgRg no REsp n. 1.746.280/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/10/2018.
+No presente caso, não houve discussão no ato apontado como coator sobre os cálculos da pena e sobre incidentes da execução como o livramento condicional.
+Inviável inaugurar tal discussão nesta instância superior.
+A causa de diminuição da pena foi negada na sentença aos seguintes termos (fl. 80):
+Na 3ª fase, deixo de aplicar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, porquanto ficou demonstrada a participação dos réus em organização criminosa, que se caracteriza pela divisão de trabalho, sendo-lhes atribuída a função de transporte dos entorpecentes.
+Provocado na via da apelação, o Tribunal local negou provimento à insurgência aos seguintes termos (fls. 36/37):
+Não é realmente caso de aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006. Sabe-se que o redutor não pode incidir como regra, bastando seja o agente primário e de bons antecedentes, mas, sim, excepcionalmente, ao traficante eventual, como por exemplo: viciado que fornece parte de sua droga para outro usuário, porque em falta o entorpecente nos pontos de venda ilícita. E essa não é a situação dos autos.
+Com efeito, os a apreensão de considerável quantidade de maconha evidenciando não se tratar os réus de traficantes ocasionais, inviabiliza a aplicação do redutor da pena.
+Os réus transportavam expressiva quantidade de drogas, nada menos do que 763 tijolos contendo 381,45 kg de maconha, escondidos na caçamba de um veículo produto de origem ilícita, com escolta de veículo batedor, de Curitiba para São Paulo, tudo a demonstrar que seu esquema havia sido previamente arquitetado, comportamento típico daqueles que exercem a prática ilícita de forma habitual. Além disso, não se pode desconsiderar pela quantidade e pelo valor de mercado que as substâncias apreendidas representam, é inegável que os réus tinham, no mínimo, a confiança daquele que os contratou para tal serviço, tudo a indicar a habitualidade na traficância.
+Assim, a redução da pena para os réus seria um prêmio para quem efetivamente não o merece, dada a comprovação de que faziam do delito seu meio de sobrevivência, não se tratando de traficantes ocasionais, circunstância verificada mediante a análise dos elementos de convicção constantes dos autos.
+Assim, apenas mediante incursão no acervo probatório seria possível rever a conclusão apresentada, sendo inviável adotar tal medida na estreita via do habeas corpus, que demanda prova pré-constituída das alegações.
+A instância local assentou, a partir das provas produzidas na ação penal, que o paciente integrava organização criminosa, mencionando o seu papel no transporte da droga. A quantidade de drogas, embora mencionada, não se mostrou como o único elemento utilizado para decisão.
+Assim, inviável o recurso no ponto.
+Por fim, sobre a fixação de regime mais rigoroso para início de cumprimento de pena, houve fundamentação na elevada quantidade de drogas traficadas (fls. 39/40), a saber, 381,45 kg de maconha (fl. 36).
+Diante disso, não verificado constrangimento ilegal nos termos da jurisprudência deste Superior Tribunal, qual seja: quanto ao regime inicial de cumprimento da pena, observa-se que a presença de circunstância judicial desfavorável, no caso, a culpabilidade elevada em razão da quantidade das substâncias entorpecentes apreendidas (226 kg de maconha e 62 g de cocaína), permite a fixação de regime prisional mais rigoroso (AgRg nos EDcl no HC n. 729.518/MG, Minis tro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/4/2022).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006 (381,45 KG DE MACONHA). RETIFICAÇÃO DOS CÁLCULOS DA PENA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. INCURSÃO NO ACERVO PROBATÓRIO. IMPOSSIBILIDADE. INDICAÇÃO DE CIRCUNSTÂNCIAS CONCRETAS. REGIME INICIAL MAIS RÍGIDO EM RAZÃO DA ELEVADA QUANTIDADE DE ENTORPECENTES. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
