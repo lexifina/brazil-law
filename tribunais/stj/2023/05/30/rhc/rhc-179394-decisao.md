@@ -1,0 +1,24 @@
+DECISÃO
+ENILDA COELHO DE ALMEIDA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás.
+A defesa pretende a soltura da ré - acusada da suposta prática dos crimes de tráfico e associação para o tráfico de drogas - ou a aplicação de medidas cautelares alternativas à prisão, sob o argumento ausência de fundamentos e requisitos que justifiquem a segregação cautelar.
+O MPF opinou pelo não provimento do recurso (fls. 173-180).
+Decido.
+Verifica-se dos autos que foi decretada, inicialmente, a prisão temporária da acusada e demais corréus, em 8/3/2022. No entanto, com relação à ora recorrente, o mandado de prisão não foi cumprido.
+Após prorrogação da prisão temporária dos demais réus, o Juízo de origem decretou a cautelar preventiva de todos os acusados, inclusive da ré, que, mais uma vez, não foi encontrada.
+A denúncia foi oferecida e os réus foram devidamente notificados. No entanto, diante da sua não localização, o feito foi desmembrado com relação a ela, nos termos do art. 366 do CPP.
+Posteriormente, de acordo com as informações prestadas, "a paciente/denunciada ENILDA COELHO DE ALMEIDA constituiu defensor, conforme instrumento procuratório de evento 07 dos presentes autos, demonstrando que tem ciência dos fatos que lhe são imputados, e o feito, então, retomou a marcha processual" (fl. 102).
+A Corte estadual, ao denegar a ordem de habeas corpus aduziu que:
+ ..
+Infere-se dos autos a existência de associação de pessoas para a realização do crime de tráfico de drogas em Cachoeira Alta e outros municípios da região, inclusive com alcance interestadual, que evidencia a alta periculosidade dos envolvidos e a imprescindibilidade da segregação cautelar.
+No particular, cabia à ora paciente, Enilda, vulgo "Inchada Cega", o tráfico associado, responsável pela venda direta de substâncias entorpecentes em Cachoeira Alta, notadamente em sua residência e nas proximidades do Posto Sucupira (fls.932/933, vol. 1). Consta que Enilda adquiria drogas de Raul e as vendia diretamente aos usuários de drogas de Cachoeira Alta, bem como prestava contas de suas operações ao líder da associação, inclusive com depósitos bancários" (evento 53 dos autos n. 5207315.55.
+Diante da gravidade concreta as condutas e a periculosidade social dos agentes, dado o vínculo associativo para a narco traficância de proporções notáveis na região, além do risco de reiteração criminosa, soma-se o fato de que a paciente está foragida do distrito da culpa (mandado prisional ainda pendente de cumprimento), sendo necessária sua custódia cautelar também para assegurar a aplicação da lei penal (fl. 134, grifei).
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória.
+Destacou, sobretudo, a periculosidade do réu, evidenciada pela gravidade em concreto da conduta  - tendo em vista que se trata de associação para o tráfico de drogas, de alcance interestadual, que contou a participação de 49 agentes - além de a ré estar foragida.
+Assim, conforme a jurisprudência desta Corte superior, "a fuga do distrito da culpa, comprovadamente demonstrada nos autos, constitui motivação suficiente a embasar a segregação cautelar com o fim de assegurar a aplicação da lei penal (RHC n. 75.464/SC, Rel. Ministro Jorge Mussi, 5ª T., DJe 16/4/2018).
+Saliento, ainda, que este Superior Tribunal considera que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, grifei).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são capazes de demonstrar a necessidade de garantia da ordem, por isso mesmo constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
