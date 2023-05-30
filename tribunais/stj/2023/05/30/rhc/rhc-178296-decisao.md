@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por EDSON ERNESTO MOTA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de receptação.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 869-877.
+No presente recurso ordinário, o recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar, reforçando que possuiria condições pessoais favoráveis.
+Requer, ao final, a revogação da prisão preventiva, mediante a imposição de medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos de parecer de fls. 921-928 .
+É o relatório.
+Decido.
+No que pertine à alegada ausência de fundamentação do decreto prisional, observa-se que, na hipótese, a segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente em razão da existência de procedimento investigatório criminal instaurado para apurar crimes cometidos por organização criminosa especializada no furto de defensivos agrícolas, "destacando que os criminosos agiam de forma organizada e que, em tese, o paciente era quem encomendava os insumos, para posterior venda, de forma que a prisão é necessária para interromper a atuação da associação criminosa", conforme consignado pelas instâncias ordinárias, além de o recorrente ter sido anteriormente condenado pelos delitos de receptação e uso de documento falso e ainda ostentar diversos registros criminais, pelos crimes de associação criminosa, receptação e porte irregular de arma de fogo, circunstâncias que revelam a periculosidade concreta do agente e a necessidade da imposição da medida extrema ante a necessidade de se interromper ou diminuir a atuação de integrantes de associação criminosa, no intuito de impedir a reiteração delitiva.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea "b "do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
