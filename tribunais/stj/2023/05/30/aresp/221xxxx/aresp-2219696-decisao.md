@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCOS ROBERTO SIMÕES BRANCO, protocolado com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Bem móvel - Ação declaratória de propriedade - Ilegitimidade passiva não configurada - Regularização do cadastro do automóvel com informação do nome de antigo proprietário viável - Medida necessária para efeito de responsabilização tributária - Recurso improvido (fl. 168).
+Os embargos de declaração opostos foram rejeitados (fls. 178/182).
+Nas razões do seu recurso especial (fl. 184/194), a parte ora agravante sustenta ter havido, além de divergência jurisprudencial, violação do art. 134 do CTB.
+Alega que "o r. Acórdão não deve prosperar por rejeitar a suspensão do feito, pois, é incontroverso o fato de que o Recorrido não comunicou a venda, o que o torna sim responsável solidário pelos débitos relativos ao veículo (art. 134 CTB), bem como enquadra a presente demanda na suspensão prevista no art. 1.037, II, do CPC, em razão do julgamento do Tema 1.118 do STJ" (fl. 187).
+Requer que seja dado provimento recursal, "para a suspensão do processo ante o julgamento do Tema 1.118 do STJ, bem como posteriormente, seja provido recurso para reforma do Acórdão de forma que seja julgada improcedente a demanda" (fl. 194).
+Sem contrarrazões (fl. 216), o recurso foi inadmitido na origem (fls. 217/219), o que ensejou a interposição do presente agravo (fls. 222/228).
+É o relatório.
+O Tribunal de origem, ao dirimir a controvérsia, consignou que "não se discute nesse processo a efetiva cobrança da dívida de IPVAs de anos pretéritos, mas, apenas, a declaração da regularização de proprietário antigo do veículo perante o órgão de trânsito, com informação à Secretaria da Fazenda" (fls. 169/170).
+Diante desse contexto, acerca do dispositivo legal tido por violado (art. 134 do CTB), o recurso não merece conhecimento, uma vez que as razões recursais delineadas no especial estão dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, circunstância que atrai o óbice contido na Súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAS E MORAIS. DISPOSITIVOS DE LEI FEDERAL INSUFICIENTES PARA SUSTENTAR A TESE DEFENDIDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. DANOS MORAIS. CULPA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência desta Corte é firme no sentido de que, quando a parte apresenta razões dissociadas do que foi decidido pela Corte local, incide a Súmula nº 284 do STF, ante a impossibilidade de compreensão da controvérsia.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp 1.601.126/SE, relator Ministro Moura Ribeiro, Terceira Turma DJe 18/6/2021, g.n.)
+Na sessão do dia 23/11/2022, o Tema Repetitivo 1.118/STJ foi julgado, tendo a Primeira Seção do STJ firmado a seguinte tese: "Somente mediante lei estadual/distrital específica poderá ser atribuída ao alienante responsabilidade solidária pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA do veículo alienado, na hipótese de ausência de comunicação da venda do bem ao órgão de trânsito competente".
+Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional (AgR g  no  AREsp  34.860/RJ,  relator Ministro Mauro Campbell Marques, Segunda Turma,  DJe  27/9/2013).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
