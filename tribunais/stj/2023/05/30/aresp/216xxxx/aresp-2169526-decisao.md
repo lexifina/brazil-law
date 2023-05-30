@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por CONCEIÇÃO DE MARIA ALMEIDA de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 229):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CONVERSÃO DOS VENCIMENTOS DE CRUZEIRO REAL PARA URV. DIFERENÇASALARIAL. DATA DO EFETIVO PAGAMENTO VARIÁVEL. LIMITAÇÃO. ENTENDIMENTO DO STF E STJ. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. OCORRÊNCIA.
+I - O STF e o STJ concluíram que o pagamento do índice decorrente da conversão da moeda em URV - deverá ser apurado através de processo de liquidação - bem como definiram a limitação para o pagamento do índice de URV, firmando o entendimento de que tal vantagem só poderá ser deferida ao servidor público até a entrada em vigor do diploma legal que reestruture a carreira deste.
+II - Considerando que a reestruturação da carreira deu-se através das Leis Municipais nº4.615/2006 e nº 4.616/2006, a contar do dia 01/01/2007, forçoso reconhecer a prescrição quinquenal das diferenças decorrentes da conversão dos vencimentos de cruzeiros reais para URV (Súmula Nº 85/STJ), haja vista que a ação somente foi proposta em 2018,portanto, após o decurso do prazo de 5 (cinco) anos.
+III - Estando a matéria em consonância com acórdão proferido pelo STJ em julgamento de recurso repetitivo e com súmula desta Corte, pode o relator julgar o recurso monocraticamente a teor do art. 932 do NCPC.
+IV - Agravo provido.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 254/269).
+Sustenta a parte agravante, no recurso inadmitido, além de dissídio jurisprudencial, violação aos seguintes dispositivos legais:
+a) art. 1.022, II, do CPC, uma vez que a despeito da oposição de embargos declaratórios, o Tribunal de origem deixou de apreciar a controvérsia à luz das regras contidas nos arts. 508 e 535, VI, do CPC;
+b) arts. 508 e 535, VI, do CPC, ao argumento de que encontra-se preclusa a questão concernente à limitação temporal das diferenças remuneratórias objeto do subjacente cumprimento de sentença, em virtude da reestruturação da carreira dos servidores promovida por lei municipal datada de 2006. Isso porque (fl. 275):
+Em casos semelhantes, é uníssona a jurisprudência do Superior Tribunal de Justiça, entendendo que "a ausência de manifestação da parte interessada durante o processo de conhecimento, a despeito de as normas responsáveis pela suposta reestruturação terem sido editadas em momento anterior à prolação da sentença, impede a limitação temporal do reajuste, sob pena de ofensa à coisa julgada." (REsp 1668722/MG, Rel. Ministro HERMAN BENJAMIN,SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017).
+E complementa (fl. 276):
+Ocorre que, por se tratar de matéria de mérito, não cabe mais ser tratada nesta fase processual de Cumprimento de Sentença, não se enquadrando nas hipóteses do artigo 535, do CPC, pois a modificação da obrigação deve ser decorrente de causas supervenientes ao trânsito em julgado, e essa matéria não foi tratada em fase de cognição nos autos da ação ordinária.
+A decisão executada passa a ser a lex specialis que regula a situação litigiosa por ela resolvida, a teor da regra inserta no artigo 503 do Código de Processo Civil.
+Assim, a coisa julgada formada na Ação Coletiva 15378/2009, é imutável e indiscutível, não podendo ser elidida por nenhum dos fundamentos trazidos pelo Executado.
+Nas razões do agravo, aduz que "os precedentes indicados pela corte estadual não se aplicam ao caso concreto, tendo em vista que tratam de matéria diversa do objeto recursal" (fl. 345).
+Contraminuta às fls. 357/359.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, de fato a decisão agravada inadmitiu o apelo nobre a partir de fundamentação completamente dissociada da questão jurídica debatida nos autos.
+Assim, considerando-se ainda que os pressupostos de admissibilidade do agravo encontra-se preenchidos, desde já examino o recurso especial.
+Pois bem.
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp n. 1.869.445/PE, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2021.)
+No caso concreto, malgrado incontroverso que o trânsito em julgado do título executivo deu-se no ano de 2016, o Tribunal de origem reconheceu que a partir de 1º/1/2007, com a vigência da Lei Municipal 4.615/2006 - que promovera a reestruturação remuneratória dos servidores -, houve a limitação temporal dos reajustes pleiteados, de modo que as respectivas diferenças remuneratórias foram integralmente alcançadas pela prescrição quinquenal (fls. 234/235).
+Opostos embargos de declaração, nos quais a parte ora recorrente aduziu que a questão concernente à limitação temporal dos reajustes já estaria preclusa, porquanto não deduzida oportunamente na fase de conhecimento, sobre ela quedou-se silente a Corte estadual.
+Logo, resta evidenciada a existência de ofensa ao art. 1.022, II, do CPC.
+Nesse contexto, considerando-se que o deslinde da controvérsia passa pelo exame de matéria fática - apurar se a matéria concernente à limitação temporal encontra-se, ou não, alcançada pela coisa julgada -, faz-se necessário o retorno dos autos ao Tribunal de origem, para que seja dirimida.
+ANTE O EXPOSTO, c onheço do agravo para conhecer do recurso especial e dar-lhe provimento, para anular o acórdão dos embargos de declaração e, via de consequência, determinar o retorno dos autos ao Tribunal a quo para que promova novo julgamento dos aclaratórios, examinando a tese de preclusão/coisa julgada, dando-lhe a solução que entender de direito.
+Publique-se.
