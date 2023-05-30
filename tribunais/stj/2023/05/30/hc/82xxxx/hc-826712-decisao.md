@@ -1,0 +1,16 @@
+DECISÃO
+A hipótese é de habeas corpus impetrado em favor de Dominique Machado Freitas - presa em flagrante, em 25/5/2023, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico (arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006) - contra a decisão indeferitória de liminar proferida pelo Desembargador do Tribunal de Justiça de Minas Gerais no writ lá deduzido (HC n. 1.0000.23.121523-7/000 - fls. 14/15).
+Pretende-se, em suma, a substituição da prisão preventiva da ora paciente pela domiciliar (art. 318, III e V, e art. 318-A, ambos do Código Penal), ao argumento de ser a única responsável pelos cuidados de seu filho de 4 anos.
+É o relatório.
+Na via da excepcionalidade, admite-se habeas corpus contra a decisão que indeferiu pedido de liminar em writ impetrado no Tribunal a quo, ainda não julgado.
+O Superior Tribunal de Justiça, todavia, tem flexibilizado tal entendimento, admitindo impetrações dessa natureza em situações absolutamente excepcionais, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão inquestionavelmente teratológica, despida de qualquer razoabilidade.
+Confira-se, a propósito, a Súmula 691 do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar.
+Pelo exame dos autos, em princípio, não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga pretendida.
+No caso, o Desembargador Relator entendeu por preservar a custódia cautelar da ora paciente, ponderando o seguinte: após análise da decisão combatida, dos argumentos expostos na inicial e dos documentos juntados aos autos, não vejo presentes, por ora, o fumus boni iuris e o periculum in mora. A princípio, vejo como razoável o indeferimento do benefício, em face das particularidades do caso concreto, evidenciadas pela apreensão, na residência da paciente, de 78 (setenta e oito) potes de plástico contendo substância análoga à cocaína, 24 (vinte e quatro) porções de substância análoga à cocaína em sacos plásticos, 301 (trezentos e um) pinos plásticos contendo em seu interior substância análoga à cocaína e 460 (quatrocentos e sessenta) pedras de substância análoga ao crack (fl. 14). Nisso não há evidente constrangimento ilegal, capaz, portanto, de superar o óbice da Súmula 691/STF.
+Sendo assim, entendo que mais adequado e prudente será reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examinará os "contornos" e "nuances" delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual, mormente se o writ está sendo regularmente processado.
+Pelo exposto, com fundamento no art. 210 do RISTJ, indefiro in limine o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR NA ORIGEM. CRIMES DESCRITOS NOS ARTS. 33, CAPUT, E 35, CAPUT, AMBOS DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. PLEITO DE PRISÃO DOMICILIAR. GENITORA DE MENOR. EXPRESSIVA APREENSÃO DE ENTORPECENTES NA "RESIDÊNCIA" DA PACIENTE. ILEGALIDADE MANIFESTA NÃO DEMONSTRADA. APLICAÇÃO DA SÚMULA 691/STF.
+Writ indeferido liminarmente.
