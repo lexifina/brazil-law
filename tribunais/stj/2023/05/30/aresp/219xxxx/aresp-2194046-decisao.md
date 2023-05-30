@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de ALEXANDRE GALLINA e OUTROS no qual se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA.
+ATRAVÉS DA MATRÍCULA REGISTRAL DO IMÓVEL, OBSERVA-SE QUE NÃO EXISTE REGISTRO ACERCA DA INDIVIDUALIZAÇÃO EM LOTES DA ÁREA TOTAL DO TERRENO. TAMBÉM NÃO SE VERIFICA TER O EXEQUENTE INDIVIDUALIZADO O LOTE DOS APELADOS, NA ESFERA ADMINISTRATIVA, CONFERINDO INSCRIÇÃO MUNICIPAL PARA COBRANÇA DE IPTU SOBRE A FRAÇÃO IDEAL (LOTE).
+É CEDIÇO QUE SOMENTE APÓS O REGISTRO IMOBILIÁRIO DO PROJETO DA INDIVIDUALIZAÇÃO DO IMÓVEL APROVADO PELO MUNICÍPIO É QUE O IPTU E A TCL INCIDIRÃO SOBRE CADA ÁREA INDIVIDUALIZADA. PRECEDENTES JURISPRUDENCIAIS.
+AINDA, QUANDO DA OCORRÊNCIA DO FATO GERADOR REFERENTE AO EXERCÍCIO DE 2016, OS EXECUTADOS (EXCETO A SUCESSÃO DE JACOB E MARIA OLIVIA) ERAM PROPRIETÁRIOS DE FRAÇÃO IDEAL DO IMÓVEL QUE ORIGINOU A COBRANÇA EM DISCUSSÃO, SENDO SOLIDARIAMENTE RESPONSÁVEIS PELO PAGAMENTO DO IPTU E TCL.
+NO ENTANTO, NÃO HÁ COMO SE IGNORAR A ILEGITIMIDADE PASSIVADA SUCESSÃO DE JACOB E MARIA OLÍVIA, VEZ QUE O INVENTÁRIO DESTES ESTAVA ENCERRADO ANOS ANTES DO FATO GERADOR DOS CRÉDITOS EM DISCUSSÃO. ASSIM, DEVE A EXECUÇÃO FISCAL PROSSEGUIR TÃO SOMENTE QUANTO AOS DEMAIS EXECUTADOS.
+RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO. UNÂNIME. (fls. 309/310).
+Os embargos de declaração opostos foram desprovidos (fls. 351/358).
+Nas razões de seu recurso especial, os agravantes sustentam, além de divergência jurisprudencial, violação dos arts. 2º, §5º, da Lei 6.830/1980; e 202 e 203 do CTN. Alegam, para tanto, nulidade da Certidão de Dívida Ativa 4.559/2020 por inadequação dos sujeitos passivos da obrigação.
+Argumentam que a existência de sujeitos passivos ilegítimos na CDA (sucessão de Jacob Schein e Maria Olívia Schein Klinger) viciam o lançamento, o que inviabiliza a mera alteração do título.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 400/406).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Assim, a execução fiscal foi extinta por ilegitimidade passiva.
+Esclarecido isto, da análise da matrícula nº 12.779, que constou no evento nº 07, o que se verifica é que o imóvel que originou a dívida em discussão está dividido em várias frações, transferidas ao passar do tempo, principalmente, em razão do óbito dos antigos proprietários(inventário/formal de partilha), conforme tabela abaixo:
+Da análise da tabela acima o que se verifica é que, quando do fato gerador dos créditos referentes ao exercício de 2016 (CDA 4559/2020), os executados Felipe, Simone, Alexandre e José já eram proprietários de frações do imóvel de matrícula nº 12.779.
+Ainda, da análise da matrícula nº 12.779 é possível observar que os executados são proprietários de frações ideais, de forma que a situação dos autos configura condomínio indiviso, pelo qual todos os condôminos são corresponsáveis solidários pelas dívidas e obrigações relativas ao imóvel.
+Ressalto, não se verifica no caso ter ocorrido a individualização de glebas em matrículas independentes e autônomas ou mesmo ter o exequente individualizado o lote dos apelados, na esfera administrativa, conferindo inscrição municipal para cobrança de IPTU sobre a fração ideal (lote).
+Chamo a atenção para o fato de que no boletim de cadastramento imobiliário juntado pelos apelados consta Felipe, Simone, Maria, José e Alexandre como "proprietário secundário" do imóvel que originou a dívida (evento nº 07 dos autos de origem - OUT3). Ainda, na CDA e na petição inicial os apelados constam como devedores/executados. Assim, não se verifica, no caso, os excipientes terem constado no lançamento, na CDA e na petição inicial como representantes da sucessão e sim como devedores.
+Desta forma, existe responsabilidade solidária de parte dos executados quanto ao pagamento do IPTU e taxa de lixo, não havendo falar em ilegitimidade passiva destes.
+Esclareço que, ainda que a sucessão de Jacob Schein e Maria Olivia Schein Klinger sejam ilegítimos para figurar no polo passivo, vez que já realizada a respectiva partilha, conforme se verifica ela matrícula que constou no evento nº 07 dos autos de origem (MATRIMÓVEL2), tal fato não impede o prosseguimento da execução contra Felipe Gallina, Simone Gallina, Alexandre Gallina e José Klinger. Isto porque os mesmos constam na referida matrícula como proprietários de frações do imóvel que originou a dívida, conforme registros 12, 21, 22 e 23. Ainda, constam como devedores nas CDAs e na petição inicial.
+Ademais, constando os excipientes na matrícula como proprietários de frações do imóvel que originou a dívida, não resta dúvida de que estes se enquadram como responsáveis solidários, nos termos do art. 124 do CTN:
+(..)
+Por fim, cabe esclarecer que o fato de ter sido negada por esta Corte a inclusão dos demais proprietários do imóvel de matrícula nº 12.779 no polo passivo (Armando Schein, Lucia, Maria, Paulo, Lourdes, Olinda, Yvone, Inês e Berta), quando do julgamento do agravo de instrumento nº 5070229-55.2021.8.21.7000, em nada obsta o prosseguimento da ação contra os executados Felipe Gallina, Simone Gallina, Alexandre Gallina e José Klinger.
+Assim, é caso de prosseguir a execução fiscal contra Felipe Gallina, Simone Gallina, Alexandre Gallina e José Klinger, sendo equivocada a extinção da ação por ilegitimidade passiva em relação a estes (fls. 304/307).
+Do acórdão acima transcrito, observo que o prosseguimento da execução fiscal foi deferido com base na verificação de legitimidade passiva dos agravantes, nas razões do recurso especial, no entanto, a pretensão limitou-se ao reconhecimento da nulidade da CDA por ausência de cumprimento dos seus requisitos legais obrigatórios, notadamente quanto à indicação correta dos devedores da obrigação.
+Constato que as razões do recurso especial apresentam-se dissociadas do quadro fático do acórdão recorrido, razão pela qual atrai a incidência, por analogia, do enunciado 284 da Súmula do STF, que estabelece: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido (AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020).
+No mais, ressalto que é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
