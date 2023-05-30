@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela UNIÃO contra a decisão da Presidência que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula 211/STJ.
+A parte agravante afirma que "a matéria acerca da exigibilidade taxa de ocupação de terrenos de marinha ou de laudêmio quando da transferência, bem como do prazo para constituição deste crédito e o prazo para sua cobrança, foram devidamente abordados no acórdão regional, estando, portanto, a matéria devidamente prequestionada" (fl. 443).
+Requer, ao final, o afastamento do óbice e a determinação do regular processamento do agravo em recurso especial, ou desde já o provimento do recurso.
+Conforme a certidão de fl. 453, não foi apresentada impugnação.
+É o relatório.
+Em nova análise, verifico que houve o prequestionamento da tese recursal.
+Não sendo, de fato, o caso de obstar o conhecimento do agravo pela aplicação da Súmula 211 do STJ, reconsidero a decisão de fls. 429/431.
+As questões debatidas nos autos - (a) definir se a hipótese de inexigibilidade de cobrança prevista na parte final do art. 47, § 1º, da Lei 9.636/1998 abrange ou não os créditos da União relativos a receitas esporádicas, notadamente aquelas referentes ao laudêmio; (b) aferir se a inexistência de registro imobiliário da transação (contratos de gaveta) impede a caracterização do fato gerador do laudêmio e, por conseguinte, obsta a fluência do prazo decadencial de seu lançamento - encontram-se afetadas à Primeira Seção desta Corte Superior aguardando o julgamento dos REsps 1.951.346-SP, 1.954.050/SP, 1.952.093/SP, 1.956.006/SP e 1.957.161/SP, de relatoria do Ministro Gurgel de Faria, sob o rito dos recursos repetitivos (Tema 1.142/STJ).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em ob servância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
