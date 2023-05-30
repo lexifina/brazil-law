@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICIPIO DE MIRACATU, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"LOTEAMENTO IRREGULAR. Ação civil pública. Loteamento aprovado pelo Poder Público no ano de 1982, implantado sem as condições do projeto original, e em desconformidade às posturas urbanístico-ambientais.
+Irregularidades e danos ambientais incontroversos.
+Recuperação ambiental. Condenação das empresas loteadoras e do município de Miracatu. Responsabilidade do município de rigor (Art. 30, inc. VIII da CF e art. 40 da Lei no 6.766179), - Obrigação legal do Município, na espécie, não está condicionada à impossibilidade de ressarcimento pelo loteador. Multa diária fixada em R$ 1.000,00 não se revela exagerada. Prazo de 60 dias fixado para apresentação do projeto de recuperação da área degradada (PRAD), contudo exíguo - Prazo requerido pela municipalidade de 180 dias, razoável, para ultimação de todas as providências. Responsabilização pessoal e solidária dos sócios das empresas rés - Ausência de interesse recursal da municipalidade, nesse ponto - Possibilidade, de todo modo, Ministério Público dó Estado de São Paulo perquirir, no momento oportuno, a responsabilização dos sócios, em caso de eventual inadimplência da sociedade, mas desde que evidenciados os requisitos para a desconsideração da personalidade jurídica, o que ora se observa. RECURSO PROVIDO EM PARTE, na parte conhecida, apenas para dilatar o prazo para 180 dias, com observação" (fl. 1545e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1559/1562e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. Omissão no acórdão que, na parte conhecida, deu provimento parcial ao recurso de apelação interposto pela ora embargante - Inocorrência de vício. EMBARGOS REJEITADOS" (fl. 1565e).
+Nas razões do Recurso Especial (fls. 1570/1584e), interposto com base no art. 105, III, c, da Constituição Federal, a parte ora agravante aponta a existência de dissídio jurisprudencial, em relação aos arts. 4º, VII, 14, §1º, ambos da Lei de Política Nacional do Meio Ambiente (6.938/81)
+Sustentou que:
+"Isto porque, o Município de Miracatu, ao ser condenado solidariamente com os-demais-loteadores, responsáveis diretos pelos danos ambientais ocasionados na área, em virtude de alegada omissão na fiscalização, torna-se responsável garantidor de todas as obrigações, de forma que passa a assumir com exclusividade a recomposição dos danos, vez que não há como ficar "esperando a vontade" dos reais poluidores, frente à imposição de multas elevadíssimas.
+Assim, ao ser condenado solidariamente com os Poluidores, passa a própria- coletividade a responder pelos danos causados pelos loteadores, já que, como se sabe, os altos custos de recuperação serão retirados das receitas públicas.
+Nesse passo, o Município postulou, subsidiariamente, a aplicação da responsabilidade solidária de execução subsidiária, de forma a ponderar os interesses em tela, devendo ser o Município acionado tão somente na impossibilidade do cumprimento das obrigações pelo poluidor principal.
+(..)
+Restou assim, evidentemente demonstrado as circunstâncias que identificam aos casos confrontados, visto que em ambos os casos se discute a responsabilidade ambiental do Estado no caso de omissão do dever-poder de controle e fiscalizarão. 1 Ora, o principio do poluidor-pagador foi introduzido em nosso ordenamento jurídico pelo art. 4, VII, sendo complementado pelo art. 14, §1º, ambos da Lei de Política Nacional do Meio Ambiente (6.93811981)" (fls. 1577/1582e).
+Apontou que:
+"Portanto, observa-se que a subsidiariedade legitima-se por razões de ordem social, política e económica e, sobretudo, de justiça, pois não seria razoável transformar o Município em segurador universal dos Poluidores, ainda mais quando o causador do dano primeiro é o loteador, que se enriquece com a venda dos lotes.
+Na prática, além de uniformizar o tratamento urbanístico e ambiental, essa solução preserva a "ordem de execução" à regularização do loteamento ilegal, ao colocar o Município na condição de devedor-reserva, sem, contudo, enfraquecer a posição das vítimas e da ordem urbanística.
+Desta forma, pugna-se pela aplicação da responsabilidade solidária de execução subsidiária, de forma a ponderar os interesses em tela, devendo ser o Município acionado tão somente na impossibilidade do cumprimento das obrigações pelo loteador" (fl. 1584e).
+Inadmitido o Recurso Especial (fls. 1639/1640e), foi interposto o presente Agravo (fls. 1643/1652e).
+A irresignação não merece prosperar.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fl. 1548e):
+"Trata-se, pois, de poder dever da municipalidade, sobretudo quanto ao exercício do poder de polícia no sentido de fazer adequar a realidade as posturas urbanístico ambientais.
+Ressalte-se que a obrigação legal do município, na espécie, não está condicionada à possibilidade de ressarcimento pelo loteador, pelo que não há que se falar em responsabilidade subsidiária."
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua d e prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
