@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 761-784) interposto por JÚLIO CÉSAR BATISTA RAMOS, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 746-747):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, C/C ART. 40, VI, DA LEI 11.343/2006. PORTE DE MUNIÇÃO E ARMA DE FOGO. ART. 16 DA LEI 10.826/2003. AUSÊNCIA DO REPRESENTANTE DO MINISTÉRIO PÚBLICO NA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. PREJUÍZO NÃO DEMONSTRADO E PRECLUSÃO POR AUSÊNCIA DE IMPUGNAÇÃO OPORTUNA. FUNDAMENTOS DA DECISÃO DA PRESIDÊNCIA DESTA CORTE NÃO INFIRMADOS. SÚMULA 283/STF. DEPOIMENTOS DE POLICIAIS ENVOLVIDOS NA PRISÃO EM FLAGRANTE. INSUFICIÊNCIA DE PROVAS. PRESENÇA DE OUTROS ELEMENTOS PROBATÓRIOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de impugnação específica de fundamento suficiente para manter o aresto recorrido importa incidência, por analogia, da Súmula n. 283 da Suprema Corte.
+2. O Tribunal de origem adotou como elementos de convicção para confirmar a autoria e a materialidade dos crimes, além dos depoimentos dos policiais que participaram da prisão em flagrante, o auto de apreensão de entorpecente e de arma de fogo, laudo pericial toxicológico definitivo e laudo de eficiência e prestabilidade do armamento.
+3. Desconstituir o entendimento do Tribunal de origem exige revolvimento do conjunto fático probatório dos autos, inviável em razão do óbice da Súmula 7/STJ, além de conflitar com entendimento jurisprudencial desta Corte de que "os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese" (AgRg no AREsp 2.116.217/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022).
+4. Agravo regimental não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 5º, IV, 129 e 105, III, a, da CF.
+Nesse sentido, argumenta que teria havido afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, pois a seu ver (fl. 767):
+ ..  o acórdão do STJ, ao se recusar a conhecer os pressupostos de admissibilidade do recurso especial a saber, negou vigência à legislação Federal pátria, ao ignorar as teses de que o presente feito se encontra eivado de nulidades, em virtude:
+(i)Da audiência de instrução e julgamento ter sido realizada sem a presença do i. representante do Ministério Público;
+(ii) As razões recursais do Parquet, por sua vez, foram apresentadas oito meses após o término do prazo insculpido no art. 588, caput, do CPP
+(iii) E, por fim, o acórdão condenatório ignorou o fato de que o corréu Jesiel, sob o crivo do contraditório, assumiu a propriedade de todo material ilícito arrecadado, em clara violação ao princípio da presunção de inocência.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 791-797 e 800-804.
+É o relatório.
+No pronunciamento impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, porque foi mantida a conclusão pelo não conhecimento do recurso especial, em face dos óbices das Súmulas n. 7/STJ e 283/STF, como também por força da preclusão consumativa.
+Nos casos em que o mérito do agravo em recurso especial ou mesmo do recurso especial não chegou a ser apreciado, a discussão suscitada no recurso extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do recurso, não é dotada de repercussão geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos agravos que questionam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO STJ. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Incide a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC
