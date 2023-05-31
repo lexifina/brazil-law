@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEIVID GENTIL RANGEL SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, nos autos do processo-crime n. 0011348-84.2019.8.24.0008.
+Consta dos autos que a prisão temporária do Paciente, juntamente com outros agentes, foi decretada no dia 12/12/2019 e cumprida em 09/01/2020, por suposto envolvimento no "maior roubo já registrado em Santa Catarina, não apenas pelo montante do valor subtraído, mas por conta de todas as circunstância que envolveram o crime. Propagou que houve uma vítima fatal, além de outros dois vigilantes atingidos por disparos de arma de fogo. Foram usadas duas caminhonetes durante a ação criminosa, além de outros veículos posteriormente descobertos. Também havia um armamento de alto poder de fogo, como uma AK-47 e metralhadora .50. Além disso, o valor subtraído foi bastante alto, sendo mais de nove milhões de reais." (fls. 21-22).
+A Autoridade Policial representou pela prisão preventiva do Paciente, a qual foi decretada no dia 05/03/2020, e, posteriormente, o Ministério Público ofereceu denúncia por infração dos arts. 157, § 3.º, inciso II; 157, § 3.º, inciso II, na forma do art. 14, inciso II, por duas vezes; 304, c.c. os arts. 297 e 299, por quatro vezes; todos do Código Penal; e 16, parágrafo único, inciso III, do Estatuto do Desarmamento, na forma do art. 69 do Código Penal (fls. 28-44). A peça acusatória foi recebida em 25/03/2020.
+Encerrada a instrução, o Réu foi condenado "ao cumprimento da pena privativa de liberdade de 26 (vinte e seis) anos de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 25 (vinte e cinco) dias-multa, cada qual no valor de um trigésimo do salário mínimo vigente ao tempo do fato, pela prática dos crimes previstos no art. 157, § 3º, inciso II, do Código Penal" (fl. 132), negado o apelo em liberdade.
+Neste writ, o Impetrante sustenta excesso de prazo no julgamento do recurso de apelação, cujas razões "foram acostadas em 23 de agosto de 2021, de sorte que, no momento do protocolo do presente writ, já se passaram mais de 1 anos e 2 meses sem que a Colenda 3ª Câmara Criminal do Tribunal de Justiça de Santa Catarina sequer coloque em pauta o julgamento do recurso" (fl. 4).
+Aduz que o Paciente está preso preventivamente há quase 3 (três) anos, o que afasta a contemporaneidade de prisão, bem como ausência dos pressupostos e motivos autorizadores da custódia cautelar, visto que "a mera gravidade dos fatos não pode ensejar uma prisão preventiva" (fl. 9).
+Busca, assim, liminarmente e no mérito, a concessão de liberdade provisória ao Condenado.
+O pedido liminar foi indeferido (fls. 138-140).
+Prestadas as informações solicitadas, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 282-286).
+É o relatório.
+Decido.
+De início, friso que, das reiteradas impetrações em favor do Paciente, constata-se que a legalidade da negativa do apelo em liberdade já foi reconhecida no julgamento do RHC n. 136.342/SC, em decisão transitada em julgado no dia 16/08/2021, não sendo cabível reanálise da matéria, sob pena de ofensa à coisa julgada.
+A alegação de falta de contemporaneidade, por sua vez, não foi suscitada no Tribunal a quo, de modo que não podem ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+O writ é cognoscível apenas quanto ao excesso de prazo no julgamento do apelo defensivo e perdeu seu objeto.
+Consoante informações disponibilizadas no end ereço eletrônico da Corte a quo, o recurso de apelação foi julgado em 05/04/2023, em acórdão vergastada em sede de embargos de declaração e de recursos especiais e extraordinários interpostos pelos Réus, ainda pendentes de apreciação.
+Ante o exposto, CONHEÇO PARCIALMENTE e, na parte conhecida, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. LATROCÍNIO CONSUMADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. COISA JULGADA. TESE DE FALTA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO. RECURSO JULGADO. PREJUDICIALIDADE. ORDEM PARCIALMENTE CONHECIDA E JULGADA PREJUDICADA.
