@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Rodrigo Machado (fls. 1.739-1.747) contra acórdão da Primeira Turma, de relatoria do e. Min. Sérgio Kukina (fls. 1.730-1.735) assim ementado:
+AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A teor da Súmula 182/STJ, inviável se faz a apreciação do agravo interno que deixa de empreender combate específico aos fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+Nos embargos de divergência, sustenta, em síntese, que o recurso de agravo interno foi obstado com fulcro em argumentos genéricos e sem explicitação da relação dos citados com os pedidos pleiteados na exordial, os quais, encontram-se pendentes de apreciação e julgamento nos termos do art.: 10 c/ com art.: 141 e art.: 489; caput e incisos I a III da Lei Federal 13.105/15.
+Ao final, "requer a inversão do ônus da prova com declaração de nulidade do ato administrativo de reforma e solicita ao Exmo(a).: Ministro(a) uma nova revaloração jurídica dos fatos incontroversos e os ajustes necessários com propósito de admissibilidade do REsp com fulcro na sistemática dos julgados repetitivos; ou retorno dos autos a origem para eventuais diligências ou/e para fins de resolução dos pedidos pleiteados nos itens VI e VIII da exordial de acordo com os critérios e limites a serem fixados pelo Exmo.: Ministro Relator".
+Interpostos Embargos de Divergência, restaram eles parcialmente indeferidos liminarmente (fls. 1776-1780e).
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada quedou-se inerte.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Ademais, a Corte Especial do STJ, no julgamento do EAREsp n. 762.075/MT, em 19/12/2018, da Relatoria do Exmo. Min. Herman Benjamin, passou a considerar o cabimento de majoração de honorários advocatícios no caso de interposição de embargos de divergência. (AgInt nos EAREsp n. 724.082/RS, relator Ministro Francisco Falcão, Corte Especial, julgado em 15/5/2019, DJe de 23/5/2019.)
+No acórdão, restaram fixados honorários recursais em 1% sobre o valor atualizado da causa (fls. 1479e).
+Nesta Corte, bem assim, consignou-se o seguinte:
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Ante o exposto, considerando o trabalho adicional realizado e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em mais 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se. Intimem-se.
