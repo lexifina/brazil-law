@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 848-892) interposto por BRUNO SANTANA DE SOUZA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 834-835):
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA DELITO DE FURTO. ALEGADA INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. DESCLASSIFICAÇÃO PARA FORMA TENTADA. INVERSÃO DA POSSE DO BEM CONFIGURADA. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. RECONHECIMENTO DE ATENUANTE. IMPOSSIBILIDADE. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese dos autos, há prova testemunhal colhida em Juízo no sentido de que a subtração dos bens dos ofendidos se deu por meio de grave ameaça exercida por meio de arma de fogo. No mesmo sentido, o próprio recorrente, em seu interrogatório, admitiu que fora empregada arma de fogo no delito em questão.
+2. Nesse contexto, a alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Código Penal, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, consoante o disposto na Súmula 7 deste Superior Tribunal de Justiça.
+3. Nos termos do decidido pela Terceira Seção deste Superior Tribunal no julgamento do Recurso Especial n. 1.499.050/RJ, submetido ao rito dos recursos repetitivos, "consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada". Posteriormente, a Terceira Sessão aprovou a Súmula 582, com a mesma redação.
+4. A Corte Estadual reconheceu ter havido a inversão da posse da res furtivae - a qual, inclusive, saiu da esfera de vigilância da vítima, ainda que por breve espaço de tempo, pois o recorrente foi abordado próximo ao local dos fatos, ainda com o bem subtraído em sua posse -, e, por consectário, a consumação do crime de roubo. Portanto, para infirmar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, o que não é admitido em sede de recurso especial, por incidência da Súmula 7/STJ.
+5. A jurisprudência desta Corte pacificou orientação no sentido de que o reconhecimento da atenuante não implica a redução da pena aquém do mínimo legal, nos termos da Súmula 231/STJ. A orientação tem sido adotada em precedentes atuais deste Superior Tribunal.
+6. Agravo regimental a que se nega provimento.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, aos arts. 1º, III, 5º, caput, e XLVI e LIV, da CF.
+Nesse sentido, argumenta que (fls. 877-878):
+O que se pretende com o presente Recurso Extraordinário é trazer a reexame a disciplina referente à fundamentação da Quinta Turma do Superior Tribunal de Justiça, que não aplicou a redução da atenuante da confissão, por conseguinte, fixou a pena aquém da mínima.
+Negar a aplicação dessa benesse se baseando na superada Súmula 231 do Superior Tribunal de Justiça é afrontar o devido processo legal, bem como ao princípio da individualização da pena, dignidade da pessoa humana e princípio da igualdade, todos da Constituição Federal, tolhendo do Recorrente o direito de ter a pena reduzida por disposição da própria lei.
+Sustenta, ainda, que "a Súmula n. 7 do Superior Tribunal de Justiça não pode servir como obstáculo para a negativa de vigência ao devido processo legal" (fl. 890).
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 617-625.
+É o relatório.
+O STF, no julgamento do RE n. 597.270/RS, sob o regime de repercussão geral, firmou a tese de que: "Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal" (Tema n. 158/STF).
+Confira-se a ementa do precedente paradigma:
+AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.
+(RE n. 597.270-QO-RG, relator Ministro Cezar Peluso, Tribunal Pleno, julgado em 26/3/2 009, DJe de 5/6/2009.)
+No caso, ao dirimir a presente controvérsia, o STJ assim se manifestou (fl. 840 ):
+No que se refere à violação do art. 65 do CP, verifica-se que a jurisprudência desta Corte pacificou orientação no sentido de que o reconhecimento da atenuante não implica a redução da pena aquém do mínimo legal, nos termos da Súmula 231/STJ. A orientação tem sido adotada em precedentes atuais deste Superior Tribunal.
+Verifica-se, portanto, que o acórdão recorrido está em consonância com a jurisprudência firmada pelo Pretório Excelso, motivo pelo qual incide o Tema n. 158/STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. CIRCUNSTÂNCIAS ATENUANTES. REDUÇÃO DA REPRIMENDA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA N. 158/STF. NEGATIVA DE SEGUIMENTO.
