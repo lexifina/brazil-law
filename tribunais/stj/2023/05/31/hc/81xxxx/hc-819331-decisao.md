@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROMULO DA SILVA PEREIRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no julgamento da apelação criminal n. 0193952-04.2021.8.19.0001.
+Depreende-se dos autos que o paciente foi absolvido das imputações que lhe foram feitas, com fulcro no art. 386, inciso VII, do Código de Processo Penal. (fls. 31-37).
+Interposta apelação pela defesa, o Tribunal de origem deu provimento ao recurso ministerial a fim de condenar o réu às penas de 5 anos e 10 meses de reclusão, em regime fechado, mais pagamento de 583 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/06 (fls. 54-64).
+Na hipótese, o impetrante aponta constrangimento ilegal na negativa de aplicação do redutor do § 4º do art. 33 da Lei de Drogas.
+Requer, ao final, a concessão da ordem para que seja " ..  aplicado o redutor de pena previsto no art. 33, §4º, da Lei de Drogas, fixando o regime aberto para início de cumprimento de pena; e) subsidiariamente, pugna pela fixação do regime inicial semiaberto." (fls. 8).
+A limina r foi indeferida às fls. 73-74.
+Informações prestadas às fls. 128-129 e 130-166.
+O Ministério Público Federal, às fls. 83-86, manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração: a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, com a fixação do regime prisional menos gravoso.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Registre-se que este Tribunal Superior assentou o entendimento de que a quantidade de drogas, isoladamente, não impede a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006.
+Pontue-se que, de acordo com a jurisprudência deste Sodalício, podem ser considerados como outros elementos para afastar a minorante, por exemplo, o modus operandi, a apreensão de apetrechos relacionados à traficância, como, balança de precisão, embalagens, armas e munições - especialmente quando o tráfico foi praticado no contexto de delito de armas - ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa ou a sua dedicação à atividade delitiva.
+É oportuno mencionar, ainda, que "a Terceira Seção desta Corte, no julgamento do EREsp 1.916.596/SP, entendeu que a existência de atos infracionais pretéritos pode ser considerada para afastar a causa especial de diminuição em questão, exigindo-se, porém, que seja apontada a gravidade do fato anterior e a sua contemporaneidade com o delito de tráfico no qual se discute a aplicação da minorante" (AgRg no HC n. 766.833/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/12/2022.
+In casu, a quantidade dos entorpecentes apreendidos - "45,2g de cocaína", bem como o fato de o paciente "ostentar passagens pelo Juízo Menorista" (fl. 62) - não podem ser usados para afastar o privilégio, à míngua de outros elementos idôneos.
+Nesse contexto, é de rigor a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+Evidenciado o constrangimento ilegal, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos e 10 meses de reclusão e 583 dias-multa (fl. 62).
+Na segunda fase, a reprimenda permanece inalterada.
+Na terceira fase, ausentes outras causas modificadoras, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa.
+Observa-se, que a pena-base foi fixada acima do mínimo legal, pois considerada a quantidade de droga apreendida. Desse modo, embora relevante a quantidade de entorpecentes, em razão da vedação de bis in idem, observo ser cabível o benefício previsto no art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima.
+De mais a mais, "é pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo" (HC n. 452.147/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/08/2018, grifei).
+In casu, a quantidade dos entorpecentes - "45,2g de cocaína" (fl. 62) - constitui elemento apto a ensejar a aplicação do regime inicial semiaberto, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "b", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: AgRg no HC n. 568.801/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 17/06/2020; AgRg no HC n. 540.202/SP Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/02/2020; e RCD no HC n. 558.257/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/04/2020.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, para redimensonar a reprimenda do paciente em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, bem como fixar o regime prisional semiaberto, para o início do cumprimento da pena.
+P. e I.
