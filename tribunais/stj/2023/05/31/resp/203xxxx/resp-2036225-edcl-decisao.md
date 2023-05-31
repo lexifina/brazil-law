@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos à decisão de fls. 15.040-15.042, e-STJ, que deu provimento ao Agravo Interno para reconsiderar a decisão de fls. 14.989-14.994, e-STJ, e determinar a devolução dos autos ao Tribunal a quo, com a devida baixa, para que este, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia: a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+A parte embargante aponta erro material. Aduz:
+Dessa forma, cumpre à Embargante apontar o erro material identificado quanto ao Tema Repetitivo referido na brilhante decisão ora embargada, qual seja, o Tema Repetitivo 1.008, uma vez que versa a respeito de objeto diverso ao do presente feito, bem como considerando que o requerimento da ora Embargante foi objetivando a suspensão do feito em face da seleção dos Recursos Especiais 1.945.110/RS e 1.987.158/SC os quais restaram afetados em 20/03/23 - Tema Repetitivo 1.182.
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.5.2023.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem Embargos de Declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A parte embargante tem razão quanto ao fato de que a matéria debatida no presente recurso está relacionada ao Tema 1.182/STJ.
+Então, onde se lê: "Verifico que a controvérsia objeto do presente Recurso guarda relação com o Tema Repetitivo 1.008 desta Corte: "Possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido" (Recursos Especiais 1767631/SC, 1.772.634/RS e 1.772.470/RS)", leia-se "Verifico que a controvérsia objeto do presente Recurso guarda relação com o Tema Repetitivo 1.182 desta Corte: "Definir se é possível excluir os benefícios fiscais relacionados ao ICMS - tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL  extensão do entendimento firmado no EREsp 1.517.492/PR, que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL  (REsp n. 1.945.110/RS e REsp 1.987.158/SC)"".
+Ante o exposto, acolho os Embargos de Declaração para sanar erro material, verificado na decisão de fls. 15.040-15.042, e-STJ, nos termos acima expostos.
+Publique-se.
+Intimem-se.
