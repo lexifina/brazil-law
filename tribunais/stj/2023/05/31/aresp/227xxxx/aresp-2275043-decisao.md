@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquele Estado que recebeu a seguinte ementa (e-STJ fl. 382):
+EMENTA: APELAÇÃO CRIMINAL - SONEGAÇÃO FISCAL - ABSOLVIÇÃO PROFERIDA EM PRIMEIRA INSTÂNCIA PELA INSUFICIÊNCIA DE PROVAS - CONDENAÇÃO - IMPOSSIBILIDADE - AUTORIA E DOLO DUVIDOSOS - PROVA JUDICIAL INSUFICIENTE - MEROS INDÍCIOS - APLICAÇÃO DO PRINCÍPIO DO "IN DUBIO PRO REO". - Não se colhendo da prova produzida em contraditório judicial a necessária certeza quanto à autoria e o dolo do agente em relação aos fatos narrados na denúncia, subsistindo apenas indícios, deve ser mantida a decisão absolutória proferida pelo juízo singular, com base no princípio do in dubio pro reo.
+Nas razões do recurso especial, a defesa alega contrariedade aos artigos 1º inciso I, da Lei 8.137/90; 155, 156, e 386, inciso VII, todos do Código de Processo Penal. Afirma que há provas judicializadas hábeis a estear sua condenação, como a confirmação em juízo do auto de notícia crime pelo auditor fiscal da Receita Estadual
+Contrarrazões às e-STJ fls. 300/309.
+Negou-se seguimento ao recurso especial às e-STJ fls. 312/314.
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal, às e-STJ fls. 345/349, ofereceu parecer opinando pelo não provimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+As instâncias ordinárias assentaram que as provas obtidas no curso da instrução não forneceram subsídios suficientes para estar a pretensão condenatória. O Tribunal de origem, em sede de embargos de declaração, destacou que por "não existir prova da individualização das condutas e da vinculação dos réus com a prática delitiva, era incabível a certeza pela autoria e pela responsabilidade penal apenas em razão da condição de sócio administrador ou de indícios colhidos tão somente na fase extrajudicial" (415)
+No contexto, a desconstituição das conclusões firmadas pelas instâncias ordinárias, tal como pretende a acusação, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Cumpre, ainda, registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp 1.150.564/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
