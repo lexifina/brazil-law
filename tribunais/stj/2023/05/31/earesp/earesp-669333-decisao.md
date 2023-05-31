@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por WILLI DE PAULA COELHO BARROS contra acórdão proferido pela Quarta Turma desta Corte Superior, assim ementado (e-STJ, fl. 744):
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. HORAS EXTRAS CONCEDIDAS PELA JUSTIÇA DO TRABALHO. INCLUSÃO. PROVENTOS DE COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA. TEMA JURÍDICO SUBMETIDO AO RITO DOS REPETITIVOS. SOBRESTAMENTO. NÃO APLICAÇÃO.
+1. A suspensão de recursos prevista no art. 1.037, II, do CPC/2015 (correspondente ao art. 543-C do CPC/1973), destina-se aos Tribunais Regionais Federais e aos Tribunais de Justiça dos Estados, não se aplicando aos processos já encaminhados ao STJ, por ausência de previsão legal. Precedentes.
+2. No regime de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios. Precedentes das Turmas que compõem a Segunda Seção.
+3. É inviável o pedido de inclusão das horas extras incorporadas ao salário por decisão da Justiça do Trabalho nos cálculos da renda mensal inicial dos proventos de complementação de aposentadoria, por ausência de prévia formação da reserva matemática necessária ao pagamento do benefício.
+4. Agravo interno a que se nega provimento.
+Em suas razões (e-STJ, fls. 748-844), o embargante aponta divergência do acórdão recorrido com os seguintes julgados da Terceira Turma: AgInt nos EDcl no AREsp n. 816.049/SE e AgRg nos EDcl no REsp n. 1.409.242/SC.
+Sustenta que o primeiro acórdão paradigma (AgInt nos EDcl no AREsp 816.049/SE), em caso idêntico, determinou devolução dos autos à origem para aguardar o julgamento de recursos representativos da controvérsia, tendo em vista a afetação de temas em que será discutido a condenação solidária da patrocinadora e inclusão, aos cálculos dos proventos de complementação de aposentadoria, das horas extraordinárias habituais, incorporadas ao salário do participante de plano de previdência privada por decisão da justiça trabalhista.
+Quanto ao mérito, alega que o segundo acórdão paradigma (AgRg nos EDcl no REsp n. 1.409.242/SC) reconheceu o direito do autor à revisão do benefício de aposentadoria em face da integração no salário real de contribuição das verbas trabalhistas asseguradas judicialmente em ação trabalhista.
+Todavia, o acórdão embargado teria adotado "entendimento divergente, porque negou o direito do Autor a revisão do benefício de aposentadoria em face da integração no salário real de contribuição das verbas trabalhistas reconhecidas judicialmente em ação trabalhista, e julgou improcedente a ação, sob o fundamento de que não houve a PRÉVIA formação de reservas, antes do ajuizamento da ação de revisão do benefício de aposentadoria complementar, para o custeio do benefício previdenciário, na forma exigida pelo artigo 40 da Lei nº 6.435/77, artigo 6º da Lei Complementar nº 108/2001, artigos 1º e 18 da Lei Complementar nº 109/2001 e artigo 202, da Constituição Federal" (e-STJ, fl. 797).
+Inicialmente, os embargos foram distribuídos à Corte Especial, tendo em vista a indicação de divergência entre julgados de Turmas não integrantes da mesma Seção.
+O eminente Ministro NAPOLEÃO NUNES MAIA FILHO indeferiu o recurso relativamente ao paradigma oriundo da Primeira Turma (EDcl nos EDcl no AgRg no AREsp n. 382.270/RS) (e-STJ, fls. 913-918).
+Brevemente relatado, decido.
+Em análise preliminar, verifica-se que está demonstrada a divergência na forma preconizada pelo art. 1.043, I, do CPC/2015 e pelo art. 266 do RISTJ.
+Assim, admito os embargos de divergência, nos termos do art. 267 do RISTJ.
+Intime-se a parte embargada para apresentar impugnação no prazo de 15 (quinze) dias.
+Publique-se.
