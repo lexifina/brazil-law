@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por AGROPECUÁRIA VALE DO ARAGUAIA LTDA., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.718):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA AJUIZADA NA JUSTIÇA TRABALHISTA POR EX-EMPREGADOS DA VASP NA FASE DE EXECUÇÃO. RECUPERAÇÃO JUDICIAL DA AGROPECUÁRIA VALE DO ARAGUAIA JULGADA EXTINTA. MEDIDA LIMINAR CONCEDIDA PELO JUÍZO DA FALÊNCIA DA VASP DETERMINANDO O BLOQUEIO DOS BENS DA EMPRESA SUSCITANTE. JUÍZO LABORAL QUE PROSSEGUIU COM ATOS EXECUTÓRIOS. FAZENDA RIO VERDE. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. COMPETÊNCIA DO JUÍZO UNIVERSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em desatendimento ao princípio da colegialidade uma vez que nos termos do disposto no art. 34, XXII, do RISTJ é possível o julgamento do conflito de competência por decisão monocrática com base na jurisprudência dominante desta Corte. Ademais, a legislação processual prevê meios idôneos para provocar o reexame da decisão, como agora faz o agravante.
+2. A prática de atos aparentemente colidentes por juízos que, implicitamente, se consideram competentes configura o conflito de competência previsto no art. 66 do NCPC.
+3. O conflito foi conhecido para fixar a competência do Juízo universal para decidir sobre o destino dos valores arrecadados com a venda da Fazenda Rio Verde efetivada pela Justiça Trabalhista.
+4. Os bens sujeitos ao pagamento dos credores falimentares devem ser geridos pelo Juízo falimentar, por ser este o competente para decidir sobre a destinação do patrimônio da massa falida conforme o regramento da lei de quebra, visando respeitar a ordem de preferência estabelecida nos arts. 83 a 86 da Lei nº 11.101/2005.
+5. Agravo interno não provido.
+A parte recorrente sustenta estar caracterizada a repercussão geral da matéria e aponta a ofensa ao art. 93, IX, da Constituição Federal.
+Aduz que "pretendia tão somente a aplicação da jurisprudência pacífica e do tema de repercussão geral decidido pelo Supremo Tribunal Federal sobre o tema em discussão" (fl. 2.542).
+Alega, ainda, afronta ao art. 5º, XXXV, LIV e LV, da CF, ante a "autorização expressa, mesmo com os diversos recursos interpostos pela agravante, de expropriação de bens por juízo declaradamente incompetente" (fl. 2.543).
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 2.304-2.314.
+Foi proferida decisão negando seguimento ao recurso extraordinário, em parte, e não o admitindo quanto ao mais.
+Interpostos agravo interno e agravo em recurso extraordinário, negou-se provimento ao primeiro, ao passo que o segundo foi admitido e remetido ao Supremo Tribunal Federal.
+Ato contínuo, o Supremo Tribunal Federal devolveu os autos à esta Corte, para que se cumpra o art. 1.030, I a III, do CPC.
+É o relatório.
+Ao interpretar o art. 114, I a IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que a Lei n. 11.101/2005, que manteve sob o crivo do juízo universal cível a execução de créditos trabalhistas, sem prejuízo da competência da Justiça laboral quanto ao julgamento do processo de conhecimento, não conflita com o texto constitucional.
+Nesse sentido é o Tema n. 90/STF, segundo o qual "compete ao juízo comum falimentar processar e julgar a execução dos créditos trabalhistas no caso de empresa em fase de recuperação judicial".
+Confira-se, por oportuno, a ementa do acórdão:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE CRÉDITOS TRABALHISTAS EM PROCESSOS DE RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL COMUM, COM EXCLUSÃO DA JUSTIÇA DO TRABALHO. INTERPRETAÇÃO DO DISPOSTO NA LEI 11.101/05, EM FACE DO ART. 114 DA CF. RECURSO EXTRAORDINÁRIO CONHECIDO E IMPROVIDO.
+I - A questão central debatida no presente recurso consiste em saber qual o juízo competente para processar e julgar a execução dos créditos trabalhistas no caso de empresa em fase de recuperação judicial.
+II - Na vigência do Decreto-lei 7.661/1945 consolidou-se o entendimento de que a competência para executar os créditos ora discutidos é da Justiça Estadual Comum, sendo essa também a regra adotada pela Lei 11.101/05.
+III - O inc. IX do art. 114 da Constituição Federal apenas outorgou ao legislador ordinário a faculdade de submeter à competência da Justiça Laboral outras controvérsias, além daquelas taxativamente estabelecidas nos incisos anteriores, desde que decorrentes da relação de trabalho.
+IV - O texto constitucional não o obrigou a fazê-lo, deixando ao seu alvedrio a avaliação das hipóteses em que se afigure conveniente o julgamento pela Justiça do Trabalho, à luz das peculiaridades das situações que pretende regrar.
+V - A opção do legislador infraconstitucional foi manter o regime anterior de execução dos créditos trabalhistas pelo juízo universal da falência, sem prejuízo da competência da Justiça Laboral quanto ao julgamento do processo de conhecimento.
+VI - Recurso extraordinário conhecido e improvido.
+(RE n. 583.955, relator Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 28/5/2009, Repercussão geral - mérito, DJe -de 28/8/2009.)
+Na espécie, esta Corte Superior de Justiça proferiu acórdão assim ementado (fl . 1.642):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA AJUIZADA NA JUSTIÇA TRABALHISTA POR EX-EMPREGADOS DA VASP NA FASE DE EXECUÇÃO. RECUPERAÇÃO JUDICIAL DA AGROPECUÁRIA VALE DO ARAGUAIA JULGADA EXTINTA. MEDIDA LIMINAR CONCEDIDA PELO JUÍZO DA FALÊNCIA DA VASP DETERMINANDO O BLOQUEIO DOS BENS DA EMPRESA SUSCITANTE. JUÍZO LABORAL QUE PROSSEGUIU COM ATOS EXECUTÓRIOS. FAZENDA RIO VERDE. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. COMPETÊNCIA DO JUÍZO UNIVERSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em desatendimento ao princípio da colegialidade uma vez que nos termos do disposto no art. 34, XXII, do RISTJ é possível o julgamento do conflito de competência por decisão monocrática com base na jurisprudência dominante desta Corte. Ademais, a legislação processual prevê meios idôneos para provocar o reexame da decisão, como agora faz o agravante.
+2. A prática de atos aparentemente colidentes por juízos que, implicitamente, se consideram competentes configura o conflito de competência previsto no art. 66 do NCPC.
+3. O conflito foi conhecido para fixar a competência do Juízo universal para decidir sobre o destino dos valores arrecadados com a venda da Fazenda Rio Verde efetivada pela Justiça Trabalhista.
+4. Os bens sujeitos ao pagamento dos credores falimentares devem ser geridos pelo Juízo falimentar, por ser este o competente para decidir sobre a destinação do patrimônio da massa falida conforme o regramento da lei de quebra, visando respeitar a ordem de preferência estabelecida nos arts. 83 a 86 da Lei nº 11.101/2005.
+5. Agravo interno não provido.
+Acrescento, ainda, o seguinte trecho do julgado (fls. 1.737-1.739):
+O entendimento adotado está em consonância com os precedentes da Segunda Seção no sentido de que compete ao juízo universal deliberar sobre a destinação do patrimônio da empresa falida ou recuperanda de modo a evitar decisões conf litantes. Veja-se:
+ ..
+Em suma, os bens sujeitos ao pagamento dos credores falimentares devem ser geridos pelo Juízo falimentar, por ser este o competente para decidir sobre a destinação do patrimônio da massa falida conforme o regramento da lei de quebra, visando respeitar a ordem de preferência estabelecida nos arts. 83 a 86 da Lei nº 11.101/2005.
+Conclui-se, portanto, que o acórdão recorrido encontra-se em consonância com a jurisprudência estabelecida pela Suprema Corte em repercussão geral, no Tema n. 90/STF.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA DECIDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. RECUPERAÇÃO JUDICIAL. FALÊNCIA. FUNÇÃO SOCIAL DA EMPRESA. LEI 11.101/2005. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 97 DA CONSTITUIÇÃO FEDERAL. RESERVA DE PLENÁRIO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO PUBLICADO EM 03.10.2011. Não há falar em ofensa ao art. 97 da Carta Maior ou em contrariedade à Sumula Vinculante 10, porquanto não declarada, na hipótese, a inconstitucionalidade de lei ou ato normativo do Poder Público. Acresço que o Tribunal Pleno desta Casa no julgamento do RE 583.955-RG/RJ, Rel. Min. Ricardo Lewandowski, DJe 28.8.2009, negou provimento ao recurso extraordinário ao entendimento de que compete a Justiça Estadual Comum processar e julgar a execução de débitos trabalhistas no caso de empresa em face de recuperação judicial. Isso porque foi opção do legislador infraconstitucional (Lei 11.101/2005) manter o regime anterior de execução dos créditos trabalhistas pelo juízo universal da falência (Decreto-Lei 7.661/1945), sem prejuízo da competência da Justiça Laboral quanto ao julgamento do processo de conhecimento Agravo regimental conhecido e não provido.
+(RE n. 677.921- AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 12/8/2014, DJe de 29/8/2014.)
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO DE CRÉDITOS TRABALHISTAS. RECUPERAÇÃO JUDICIAL. LEI N. 11.101/2005. COMPETÊNCIA. JUÍZO CÍVEL UNIVERSAL. TEMA N. 90/STF. SEGUIMENTO NEGADO.
