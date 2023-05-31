@@ -1,0 +1,92 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0709704-24.2023.8.07.0000AGRAVANTE(S)SANTANDER BRASIL ADMINISTRADORA DE CONSORCIO LTDA.AGRAVADO(S)JEAN CARLOS FERREIRA SARelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1710323
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. ENCAMINHAMENTO AO PLANTÃO JUDICIÁRIO. EQUÍVOCO. CONFIRMAÇÃO POR “JANELA POP-UP”. ERRO ESCUSÁVEL. LITIGÂNCIA DE MÁ-FÉ. AUSENTE. PJE. AJUSTE NECESSÁRIO.
+
+1. É de notório conhecimento que, no âmbito do Processo Judicial Eletrônico – PJe, ao causídico é oferecido, mediante confirmação em “janela pop-up”, a submissão da peça ao Plantão Judiciário, a qual comporta, neste momento, ajustes para fins de melhor esclarecimento do advogado, para que não envie equivocadamente a demanda ao plantão, se não for a hipótese pretendida.
+
+2. É expressivo o número de equívocos em que peças são encaminhadas ao Plantão Judiciário quando não deveria sê-lo, tudo a ensejar que, a medida mais efetiva na solução da questão volta-se à administração judiciária, e não ao  causídico que equivocadamente indica ser o caso de plantão. Tem-se o conhecimento de medidas administrativas para solucionar a questão, inclusive requeridas por este julgador.
+
+3. Nesses casos, o equívoco deve ser tido como escusável e não estaria sustentar condenação em litigância de má-fé ante o não atendimento dos limites formais do artigo 80 do Código de Processo Civil.
+
+4. Agravo de instrumento provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e ALFEU MACHADO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Junho de 2023
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento interposto por SANTANDER BRASIL ADMINISTRADORA DE CONSORCIO LTDA., tendo por objeto decisão proferida pelo Magistrado plantonista, que lhe impôs multa por litigância de má-fé, nos seguintes termos (ID 150373100 dos autos de origem):
+
+“Cuida-se de ação de busca e apreensão ajuizada e protocolada às 08h15, por meio do PJe, em sede, portanto, de plantão judicial, requerendo a concessão de liminar de busca e apreensão do veículo dado em garantia. Por certo a inovação decorrente do processo eletrônico busca, ainda mais, a celeridade processual, bem assim o pleno acesso à Justiça. Todavia, tal instrumento eletrônico não deixa de se subsumir às normas regimentais e processuais, de forma que não pode ser utilizado para a prática de atos ilegais ou veados pelo ordenamento jurídico. Neste contexto, dispõe o art. 119 do Provimento Geral da Corregedoria do e. TJDFT que: “Art. 119. As medidas protocolizadas entre 19h e 12h do dia seguinte, nos dias úteis, sábados, domingos e feriados, somente serão apreciadas pelo Juiz plantonista caso sejam de natureza urgentíssima. § 1º Entende-se por medida de natureza urgentíssima aquela em que o perigo de dano irreparável ou de difícil reparação possa ocorrer no horário indicado no caput deste artigo. § 2º Caso o magistrado não reconheça que a medida é de natureza urgentíssima, e se esta abarcar qualquer das hipóteses previstas para o plantão judiciário, deverá determinar, por escrito, o seu encaminhamento ao plantonista designado para o próximo período ou, se não incluída nas referidas hipóteses, ao Juiz natural da causa. Art. 120. Não se admitirá nos períodos de plantão judiciário: I – reiteração de pedido já apreciado no órgão judicial de origem ou em plantão anterior, nem a sua reconsideração; II – pedido de prorrogação de autorização judicial para escuta telefônica, ressalvada a hipótese excepcional e comprovada de risco iminente e grave à vida ou à integridade física de pessoas; III – pedido de levantamento de importância em dinheiro ou valores; IV – liberação de bens apreendidos; V – recebimento de comunicação de prisões temporárias, preventivas ou outras diversas das efetuadas em flagrante; VI – recebimento de quaisquer documentos impertinentes às matérias de competência do plantão; VII – apreciação de matérias afetas à Vara de Execução Penal do Distrito Federal – VEP e à Vara de Execução das Penas e Medidas Alternativas do Distrito Federal – VEPEMA, salvo a hipótese prevista no art. 120, da Lei nº 7.210, de 11 de julho de 1984.“ Mister ressaltar que o PJe, no momento do protocolo de qualquer peça processual disponibiliza uma caixa “pop up” de confirmação de que a hipótese trazida naquela se submete ao regime de plantão judicial acima delineado, oportunidade em que o(a) advogado(a) deve clicar afirmativamente para que o Feito seja remetido a este Juízo extraordinário. Se aqui está sendo analisado, é porque houve a afirmativa cabal e peremptória por parte do(a) causídico(a) peticionante de que o pedido declinado era de natureza urgentíssima. Todavia, por óbvio e sob a análise de qualquer operador do Direito, a mera busca e apreensão de bem, cuja dívida encontra-se vencida desde junho do ano passado, não pode ser interpretada como medida urgente a reclamar pronta intervenção do Poder Judiciário. Logo, faltou o(a) patrono(a) com a verdade, violando, aparentemente, seu dever de observar o Código de Ética da profissão, insculpido no art. 33 do Estatuto da OAB, note-se: “Art. 33. O advogado obriga-se a cumprir rigorosamente os deveres consignados no Código de Ética e Disciplina. Parágrafo único. O Código de Ética e Disciplina regula os deveres do advogado para com a comunidade, o cliente, o outro profissional e, ainda, a publicidade, a recusa do patrocínio, o dever de assistência jurídica, o dever geral de urbanidade e os respectivos procedimentos disciplinares." O referido Código de Ética dispõe que: “Art. 2º O advogado, indispensável à administração da Justiça, é defensor do Estado democrático de direito, da cidadania, da moralidade pública, da Justiça e da paz social, subordinando a atividade do seu Ministério Privado à elevada função pública que exerce. Parágrafo único. São deveres do advogado: (...) II – atuar com destemor, independência, honestidade, decoro, veracidade, lealdade, dignidade e boa-fé; (...) IV – empenhar-se, permanentemente, em seu aperfeiçoamento pessoal e profissional; V – contribuir para o aprimoramento das instituições, do Direito e das leis; Ao indicar que tratar-se-ia de hipótese de medida urgentíssima, cuja ausência de análise entre 19h e 12h do dia subsequente levaria ao perecimento do Direito de seu cliente ou faltou o patrono com a verdade ou não observou o dever de aprimoramento e de diligência que lhe incumbe. Da mesma maneira, há aparência do cometimento de infração disciplinar ao advogar em face da literalidade da norma, observe-se: “Art. 34. Constitui infração disciplinar: VI - advogar contra literal disposição de lei, presumindo-se a boa-fé quando fundamentado na inconstitucionalidade, na injustiça da lei ou em pronunciamento judicial anterior;” Não há se alegar desconhecimento do sistema de peticionamento eletrônico, pois, este implementado há mais de 3 anos no e. TJDFT, logo, tempo mais que suficiente para o aprendizado de seu manuseio e, outrossim, tal qual qualquer outro operador do Direito, inexcusável o dever do Advogado de manter-se atualizado e aprimorado profissionalmente. Demandas desta natureza e em sede de plantão de medidas urgentíssimas atrapalha a prestação jurisdicional aos realmente necessitados da tutela do Estado-Juiz, como as hipóteses de ação em face do Estado para a internação em UTI, em face de planos de saúdes para procedimento de emergência e urgência, para a remoção e translado de corpos de entes queridos dos jurisdicionados. Mobiliza o mau profissional o Cartório Judicial do Plantão, a rede informática, este(a) Magistrado(a), enchendo a caixa de conclusão de pedidos descabidos, bem assim, eventualmente, ocupa até mesmo os oficiais de justiças destinados ao cumprimento de medidas de máxima gravidade. Tal conduta é incompatível com a dignidade da profissão e não auxilia no aprimoramento das instituições e tampouco na prestação jurisdicional célere e eficaz, de sorte que deve ser analisada pelo Conselho de Ética da OAB/DF, ante o grande dano que causa a todo o sistema de Justiça. Por fim, dispõe o CPC/2015 que: “Art. 77. Além de outros previstos neste Código, são deveres das partes, de seus procuradores e de todos aqueles que de qualquer forma participem do processo: I - expor os fatos em juízo conforme a verdade; E continua a mesma norma instrumental: “Art. 80. Considera-se litigante de má-fé aquele que: I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso; II - alterar a verdade dos fatos; (...) V - proceder de modo temerário em qualquer incidente ou ato do processo; Impõe, ao final, o art. 81 da codificação processual: “Art. 81. De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou.” Em razão de todo o exposto, determino a expedição, pelo cartório do Juízo Natural, de ofício à OAB/SP a fim de que a apure a conduta ora narrada praticada pelo advogado subscritora da peça de ingresso, Dr. Pedro Roberto Romão. Aplico, ainda, à parte autora, multa por litigância de má-fé correspondente à 2% do valor atualizado atribuído à causa. Deixo de fixar, por ora indenização, por não poder mensurar materialmente os danos da conduta perpetrada, que atinge a coletividade dos jurisdicionados. Determino, por fim, a remessa dos autos ao Juízo natural, por não se tratar de medida de natureza urgentíssima.”
+
+Em suas razões recursais, ID 44746613, o banco agravante argumenta que “a multa por suposta “litigância de má-fé” foi aplicada simplesmente porque a demanda foi distribuída na manhã de um dia útil, o que estaria, segundo a decisão agravada, em desconformidade com o “Provimento Geral da Corregedoria do e. TJDFT”, que por certo não pode se sobrepor ao Decreto-lei 911/69”.
+
+Aduz que, caso não seja deferido o efeito suspensivo no presente recurso, o agravante correria o risco de ter obstado o prosseguimento regular da demanda de Busca e Apreensão, em clara desconformidade com a legislação vigente, uma vez que todos os requisitos legais para interposição da ação foram preenchidos.
+
+No mérito, para que seja afastada a multa arbitrada
+
+Preparo devidamente recolhido (ID 44746614 - Pág. 1).
+
+À decisão de ID 45001252, restou deferido o pedido liminar para suspender a expedição de ofício à OAB/SP, bem como em relação à eventual exigibilidade da multa.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do agravo de instrumento.
+
+Conforme relatado, cuida-se de agravo de instrumento interposto por SANTANDER BRASIL ADMINISTRADORA DE CONSORCIO LTDA., tendo por objeto decisão proferida pelo Magistrado plantonista, que lhe impôs multa por litigância de má-fé e determinou a expedição do ofício à OAB/SP acerca da conduta do causídico da agravante.
+
+Em suas razões recursais, ID 44746613, o banco agravante argumenta que “a multa por suposta “litigância de má-fé” foi aplicada simplesmente porque a demanda foi distribuída na manhã de um dia útil, o que estaria, segundo a decisão agravada, em desconformidade com o “Provimento Geral da Corregedoria do e. TJDFT”, que por certo não pode se sobrepor ao Decreto-lei 911/69”.
+
+Aduz que, caso não seja deferido o efeito suspensivo no presente recurso, o agravante correria o risco de ter obstado o prosseguimento regular da demanda de Busca e Apreensão, em clara desconformidade com a legislação vigente, uma vez que todos os requisitos legais para interposição da ação foram preenchidos.
+
+No mérito, para que seja afastada a multa arbitrada
+
+À decisão de ID 45001252, restou deferido o pedido liminar para suspender a expedição de ofício à OAB/SP, bem como em relação à eventual exigibilidade da multa.
+
+A querela trazida a julgamento desse Nobre colegiado por meio do presente recurso resume-se, portanto, à legitimidade da aplicação de multa e expedição de Ofício ao Órgão de Classe dos Advogados em razão da impetração de pedido ação de busca e apreensão com pedido liminar durante o Plantão Judicial, ou fora do horário regular de 12:00 às 19:00.
+
+De plano, entendo que o recurso esteja a merecer provimento.
+
+In casu, após reexaminar os autos, verifico que não ocorreu qualquer alteração nas circunstâncias fáticas e jurídicas já examinadas, de modo que não vislumbro motivos para modificar o entendimento por mim externado por ocasião do deferimento de efeito suspensivo, razão pela qual peço vênia para reportar-me àquelas razões de decidir (ID 45134804 – Pág. 4-6):
+
+“In casu, verifica-se que o i. Juízo plantonista determinou “a expedição, pelo cartório do Juízo Natural, de ofício à OAB/SP a fim de que a apure a conduta ora narrada praticada pelo advogado subscritora da peça de ingresso, Dr. Pedro Roberto Romão”. O entendimento é de que o causídico teria agido com eventual manobra ao protocolizar o expediente em regime de plantão, em que se analisam matérias de natureza urgentíssima. A meu aviso, em um juízo de cognição sumária e desde logo ressaltando não haver qualquer açodamento de avançar na análise de mérito e com a devida vênia ao i. Juízo plantonista, mas, em tese, não se deflui eventual esperteza ou manobra do causídico ao simples fato de haver protocolizado o pedido liminar fora do expediente forense, com o consequente envio pelo sistema ao plantão. Nesse ponto, este Relator registra que recentemente (de 20 a 24 de março de 2023) exerceu o Plantão de 2ª Instância, oportunidade em que constatei que inúmeras petições foram redirecionadas ao regime de plantão apenas pelo fato de haverem sido protocolizados no sistema fora do horário oficial do expediente forense, sem que essa fosse, em tese, a intenção da parte. Com efeito, tenho que a rotina do sistema de funcionamento do plantão deva ser melhorada, pois observo que parte substancial dos processos conclusos não diz respeito ao plantão, cujo conteúdo evidentemente denota não ser esta a intenção do causídico. In casu, de uma análise superficial da lide, não se constata do pedido liminar contido na inicial (ID 150372704, de origem) qualquer requerimento para o redirecionamento ao regime de plantão, o que me parece, a princípio, que o fato de haver sido protocolizado as 08:32 da manhã, o mesmo foi indevidamente encaminhado ao plantão, como outros tantos. Não desconheço que existe um alerta para confirmação se a demanda se direciona ao plantão, mas, pelo visto, este mecanismo precisa ser aprimorado, pois insuficiente para obstar os encaminhamentos manifestamente indevidos, inclusive noticiei tais ocorrências e solicitei ao nosso Secretário Geral providências na melhoria do sistema de plantão. Nesse quadro, e considerando a determinação judicial para que seja oficiado a OAB/SP a respeito da conduta do advogado Dr. Pedro Roberto Romão, e ante o risco de eventual risco a sua atuação profissional, entendo razoável e prudente suspender a referida determinação até o regular julgamento da matéria pelo d. Colegiado. Isso posto, DEFIRO o pedido liminar, para suspender a r. decisão agravada, obstando a expedição de oficio à OAB/SP, em relação à conduta praticada nesse processo pelo advogado subscritor da peça de ingresso, Dr. Pedro Roberto Romão (OAB/SP 209.551), e eventual exigibilidade da multa aplicada, até solução definitiva da matéria neste Colegiado”
+
+No caso competia a apreciação da possibilidade de sustação dos efeitos da decisão que condenou a parte a penas por litigância de má-fé e determinou o encaminhamento de ofício à OAB/SP em alerta quanto a conduta do causídico dos autos.
+
+Com efeito, a questão revolve conhecimentos notórios aos Desembargadores desta Nobre Corte que já atuaram no regime de Plantão Judiciário, concernente ao exame diário de diversos pedidos ao plantão, quando na verdade não tem qualquer urgência ou relevância para isso.
+
+Isso tanto é verdade que pessoalmente levei a questão a consideração do setor de informática (NUAGE), assim como ao Prezado Senhor Secretário Geral, que trabalham em uma proposta de modificação do modo como é oferecido ao Advogado o peticionamento fora do horário de expediente, pois verificou-se que o próprio sistema, como está hoje, acaba por instigar o causídico a levar seu pedido ao plantão, ainda que não se trata de medida sujeita as hipóteses legais.
+
+Com a devida vênia ao d. Juízo a quo, mas entendo que, neste particular, a medida mais efetiva na solução da questão esteja voltada à administração judiciária, e não como sanção ao causídico que equivocadamente indica ser o caso de plantão. Em suma, por observação do sistema, chega-se a conclusão de que não se trata de dolo do advogado.
+
+Diante de tal quadro, entendo por escusável o eventual equívoco do causídico que, como no caso dos autos, assim como muitos outros, erroneamente clicou em alguma caixa de diálogo que lhe questionava ser ou não o caso submissível ao Plantão Judiciário, algo que, infelizmente, pode ter ocorrido até institivamente, como sói acontecer quando estamos diante de aplicações de internet que nos questiona a confirmação de leitura ou de conhecimento de termos para somente então prosseguir a ação.
+
+Nessa esteira, em sendo escusável o ato, não há que se atribuir à conduta contornos de atuação em má-fé na forma delimitada pelo artigo 80 do Código de Processo Civil.
+
+Igualmente, salvo melhor juízo, não se mostraria a conduta possivelmente ofensiva ao Código de Ética e Disciplina da classe, não havendo, portanto, motivo à submissão do caso ao conselho de classe.
+
+Isso posto, DOU PROVIMENTO ao agravo de instrumento, para reformar a decisão ora combatida, dela extirpando tanto a condenação à multa por litigância de má-fé como a determinação de encaminhamento de ofício à órgão de classe.
+
+É o meu voto.
+
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorO Senhor Desembargador ALFEU MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
