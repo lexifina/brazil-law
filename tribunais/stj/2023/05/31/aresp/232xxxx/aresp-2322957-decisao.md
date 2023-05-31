@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por MICHELE CARINE ABREU DE CARVALHO, em face de decisão que não admitiu recurso especial da ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 766, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SAÚDE. TUTELA ANTECIPADA CONCEDIDA. DESCUMPRIMENTO. MULTA FIXADA EM VALOR EXORBITANTE. REDUÇÃO. PRINCÍPIO DA RAZOABILIDADE. POSSIBILIDADE. DECISÃO AGRAVADA REFORMADA. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO PARCIALMENTE.
+O valor da multa por atraso no cumprimento da ordem judicial poderá ser modificado pelo magistrado caso este entenda que se tornou excessiva ou insuficiente.
+Decisão agravada reformada. Agravo de instrumento conhecido e parcialmente provido.
+Os embargos declaratórios opostos foram rejeitados (fls. 853-868, e-STJ).
+Nas razões do recurso especial (fls. 794-821, e-STJ), a insurgente apontou violação dos seguintes artigos: a) 1.022, II, do CPC, diante da ocorrência de omissão acerca da matéria de fundo do recurso, consubstanciada no artigo 537 § 1º, do CPC; b) 537 § 1º, do CPC, ao argumento da impossibilidade de redução da multa fixada em razão de descumprimento de ordem judicial.
+Contrarrazões às fls. 874-904, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 905-910, e-STJ), dando ensejo na interposição do presente agravo (fls. 913-945, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 949-952, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a insurgente alega vulneração do artigo 1.022, II, do CPC, diante da ocorrência de omissão acerca da matéria de fundo do recurso, consubstanciada no artigo 537 § 1º, do CPC.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 772-773, e-STJ):
+Compulsando os autos, verifica-se que, apesar de ter ocorrido o cancelamento do plano de saúde, de fato, a multa fixada pelo juízo de primeiro grau no valor de R$100.000,00 (cem mil reais) mostra-se extremamente elevada. Quanto ao valor alcançado em razão das astreintes, o montante da condenação deve observar os parâmetros da razoabilidade e proporcionalidade.
+Observe-se que o valor da multa fixada pelo Magistrado pode ser alterado a qualquer momento, desde que caracterizada a sua abusividade ou insuficiência.
+Verifica-se que o valor da multa ultrapassou o montante de R$ 100.000,00 (cem mil reais), de modo que se revela desproporcional, considerando que não houve risco de morte e, principalmente, efetivo prejuízo para a parte Autora, ora Agravada, uma vez que foi submetida adequadamente ao tratamento requerido.
+Ademais, o cancelamento indevido do plano de saúde que gerou a multa pelo descumprimento ocorreu em 30/04/2016, conforme se verifica na carta informando do cancelamento juntada aos autos às fls. 222/223 dos autos originários, sendo que a Agravada peticionou nos autos informando o cancelamento do contrato do plano de saúde em 02/05/2016, tendo a medida liminar sido deferida determinando o restabelecimento em 30/06/2016, de modo que a Agravada não ficou desamparada e não houve notícia de negativa de atendimento.
+Assim, verificado o valor excessivo da multa pretendida pela parte Autora, bem como constatado que a multa não cumpriu com sua função coercitiva, entendo prudente sua fixação em R$ 20.000,00 (vinte mil reais), que se mostra justo e condizente com o propósito da ação interposta, bem como suficiente ao caráter punitivo para prevenir futuras desobediências por parte do Agravante.
+ ..
+Ressalte-se que a fixação da multa não faz coisa julgada material, podendo ser revista a qualquer momento, de ofício, pelo magistrado, não havendo se falar em preclusão ou ofensa à coisa julgada. Vejam-se os seguintes julgados:
+ ..
+Na hipótese, o aresto vergastado concluiu pela possibilidade de revisão do valor da multa fixada, de ofício, a qualquer momento, não havendo se falar em preclusão ou coisa julgada.
+Dessa forma, não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. 1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.  ..  (AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA. 1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.  ..  (AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos. Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aos artigos 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, alega violação do artigo 537, § 1º, do CPC, ao argumento da impossibilidade de redução da multa fixada em razão de descumprimento de ordem judicial.
+No ponto, o órgão julgador concluiu pela possibilidade de revisão do valor da multa, a qualquer momento, não havendo se falar em preclusão ou coisa julgada (fls. 772-773, e-STJ).
+Com efeito, o entendimento adotado pelo decisum recorrido está em consonância com a jurisprudência desta Corte, no sentido de que a multa cominatória pode ser alterada pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. É pacífico nesta Corte o entendimento de que o valor da multa cominatória prevista no art. 461 do CPC/1973 (correspondente ao art. 536 do CPC/2015) pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada. Precedentes.
+2. Sopesando o bem da vida protegido, a recalcitrância da parte devedora, a vedação ao enriquecimento ilícito, os princípios da razoabilidade e proporcionalidade, afigura-se adequada a reforma do acórdão recorrido, para restabelecer a decisão de primeira instância, a qual reduziu o valor da execução de R$ 210.804,34 (duzentos e dez mil oitocentos e quatro reais e trinta e quatro centavos) para R$ 20.000,00 (vinte mil reais).
+3. Agravo interno provido para restabelecer a decisão de primeiro grau que reduziu a multa ao montante de R$ 20.000,00.
+(AgInt no REsp n. 1.917.892/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2022, DJe de 19/5/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ASTREINTES. REDUÇÃO DE MULTA VENCIDA. PRECLUSÃO E COISA JULGADA. NÃO INCIDÊNCIA. REVISÃO DO VALOR. POSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme orientação jurisprudencial desta Corte Superior, "o art. 537, § 1º, do Código de Processo Civil de 2015 não se restringe somente à multa vincenda, pois, enquanto houver discussão acerca do montante a ser pago a título da multa cominatória, não há falar em multa vencida" (AgInt no REsp 1.846.190/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/4/2020, DJe de 27/4/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.059.692/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CUMPRIMENTO DE SENTENÇA. ASTREINTES. REDUÇÃO. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão que arbitra astreintes não faz coisa julgada material, visto que é apenas um meio de coerção indireta ao cumprimento do julgado, podendo ser modificada a requerimento da parte ou de ofício, para aumentar ou diminuir o valor da multa ou, ainda, para suprimi-la.
+3. As conclusões da Corte de origem em relação ao cabimento, à proporcionalidade e à razoabilidade das astreintes, caso a decisão judicial não seja cumprida, não podem ser revistas por esta Corte Superior, pois demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. O art. 537, § 1º, do Código de Processo Civil de 2015 não se restringe somente à multa vincenda, pois, enquanto houver discussão acerca do montante a ser pago a título da multa cominatória, não há falar em multa vencida. Precedente.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.846.190/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/4/2020, DJe de 27/4/2020.)  grifou-se
+Aplica-se, portanto, o óbice enunciado na Súmula n. 83 do STJ.
+3. Do exposto, conheço do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
