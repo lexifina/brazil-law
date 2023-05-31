@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido formulado em favor de LUCAS RAIMUNDO DE ABREU JOCA para que lhe sejam estendidos os efeitos da decisão de e-STJ fls. 4.188/4.198, em que concedi a ordem, de ofício, para reduzir a pena definitiva do corréu/paciente ALAN DOS SANTOS XAVIER, pelo delito previsto no art. 121, § 2º, inciso V, c.c. o art. 14, inciso II, ambos do Código Penal, ao patamar de 12 anos, 5 meses e 10 dias de reclusão, mantidos os demais termos da condenação.
+Em sua petição (e-STJ fls. 4.204/4.209), a defesa sustenta que o requerente encontra-se na mesma situação fático-jurídica do paciente, motivo pelo qual também faz jus ao redimensionamento da pena-base fixada em relação ao delito de homicídio qualificado tentado.
+Ao final, pede que os efeitos da decisão proferida neste writ sejam estendidos ao requerente.
+O Ministério Público Federal opinou no sentido de que seja conhecido e/ou concedido excepcionalmente e extensivamente o habeas corpus de ofício para deferir o pedido de extensão de efeitos satisfativo em relação ao corréu LUCAS RAIMUNDO DE ABREU JOCA (e-STJ fl. 4218).
+É o relatório. Decido.
+Como é cediço, o deferimento do pedido de extensão exige que a parte postulante esteja na mesma situação fático-processual daquela já beneficiada, de forma que a motivação da decisão não seja de caráter exclusivamente pessoal, a teor do art. 580 do Código de Processo Penal.
+No caso, extrai-se das sentenças de e-STJ fls. 31/42 e 43/49 que o paciente e o requerente tiveram suas penas-bases desproporcionalmente aumentadas com fundamento nas mesmas circunstâncias judiciais, tendo a majoração sido considerada ilegal por meio da decisão retro.
+Nesse contexto, encontrando-se o requerente na mesma situação fático-jurídica do paciente, impõe-se a diminuição de sua pena-base na forma como efetuada quanto ao corréu/paciente, motivo pelo qual passo ao redimensionamento de suas penas.
+Mantidos os demais critérios da dosimetria procedida na origem, a nova pena definitiva do requerente , pelo crime de homicídio qualificado tentado, resulta em 10 anos e 8 meses de reclusão.
+Ante o exposto, defiro o pedido de extensão formulado por LUCAS RAIMUNDO DE ABREU JOCA para reduzir a pena definitiva do requerente, pelo delito previsto no art. 121, § 2º, inciso V, c.c. o art. 14, inciso II, ambos do Código Penal, ao patamar de 10 anos e 8 meses de reclusão, mantidos os demais termos da condenação.
+Intimem-se.
