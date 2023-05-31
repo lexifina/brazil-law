@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. JUIZ CONVOCADO. ASSUNÇÃO DA FUNÇÃO DE RELATOR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. REVISÃO DE BENEFÍCIO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- A assunção da função jurisdicional de relator por juiz federal é perfeitamente possível e compatível com o ordenamento jurídico. Atuo com esteio nos arts. 5º, XXXVII e LIII, % da Constituição Federal; arts. 86 e 87 do CPC, bem como artigo 118 da Lei Orgânica da Magistratura Nacional, com a redação dada pela LC n.º 54/86, e artigos 29, 35, 50 e 51 do Regimento Interno desta Corte.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e dela não se vislumbrar ilegalidade ou abuso de poder que resulte cm dano irreparável ou de difícil reparação para a parte.
+3- O artigo 557, do Código de Processo Civil, consagra a possibilidade do recurso ser julgado pelo respectivo Relator.
+4- Na decisão agravada foram abordadas todas as questões suscitadas, tendo sido adotado o entendimento jurisprudencial dominante.
+5- Agravo desprovido. Decisão mantida.
+O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 4º da Lei 6.950/1981; 29, § 2º, e 145 da Lei 8.213/1991; e 6º da LICC. Defende:
+a)- recálculo do beneficio considerando integrais os 36 últimos salários de contribuição corrigidos mês a mês com observação do teto de 20 SM, baseado nos seus elementos informativos sobre recolhimentos de contribuições durante 121 (cento vinte um) meses acima de 10 (de/) unidades salariais e fixados de sua média aritmética simples, o salário de beneficio ou a RMI, sob a égide da Lei nº. 6.950/81, o art.º 4º, tudo, enfim, quando de sua aposentação sob auspício da Lei nº 8.213/91, os artºs. 29, § 2º e 144, respeitoso ao direito adquirido do segurado, a teor do artº. 6º, §§, da LICC;
+(..)
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.4.2023.
+Trata-se de Ação Revisional do cálculo da RMI de benefício de aposentadoria por tempo de serviço, na qual a parte pretende que seja considerado o teto que vigorou com a Lei 6.950/1981, antes da vigência da Lei 7.787/1989, porque teria preenchido os requisitos legais antes do advento do referido regramento.
+Nesta Corte já vigora há algum tempo a orientação de que o cálculo da renda mensal inicial dos benefícios previdenciários deve obedecer às regras contidas no diploma legal vigente ao tempo em que o segurado preencheu os requisitos para a concessão do benefício.
+O Supremo Tribunal Federal, no julgamento com Repercussão Geral do RE 630.501/RS, acolheu o entendimento de que o segurado tem direito adquirido ao melhor benefício, desde que atendidos os seus requisitos. O acórdão foi assim ementado:
+APOSENTADORIA - PROVENTOS - CÁLCULO. Cumpre observar o quadro mais favorável ao beneficiário, pouco importando o decesso remuneratório ocorrido em data posterior ao implemento das condições legais. Considerações sobre o instituto do direito adquirido, na voz abalizada da relatora - ministra Ellen Gracie -, subscritas pela maioria.
+A orientação do Pleno do STF coaduna-se com o verbete sumular 359 daquela Corte, o qual é aplicável a toda causa previdenciária e não somente aos servidores públicos (RE 243.415-9, Rel. Min. Sepúlveda Pertence), in verbis:
+Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários.
+Após o julgado da Suprema Corte, o Superior Tribunal de Justiça passou a reafirmar a respectiva tese.
+Confiram-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REJULGAMENTO. JUÍZO DE RETRATAÇÃO IMPOSTO PELO ART. 543-B, § 3.º, DO CÓDIGO DE PROCESSO CIVIL, EM FACE DA ANÁLISE DA REPERCUSSÃO GERAL PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. APOSENTADORIA. REQUISITOS. PREENCHIMENTO. PERÍODO ANTERIOR À LEI N.º 7.787/89. SEGURADO-EMPREGADO. TETO LIMITADOR. 20 SALÁRIOS-MÍNIMOS. APLICAÇÃO CONJUGADA DA LEI N.º 6.950/81 COM O ART. 144 DA LEI N.º 8.213/91. POSSIBILIDADE. PRECEDENTES. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA IMPLEMENTAÇÃO DOS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. POSSIBILIDADE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Plenário do Pretório Excelso, em sede de repercussão geral (RE 630.651/RS, da relatoria do e. Ministro Marco Aurélio), estabeleceu o direito de o Segurado ter observado, no cálculo de seu benefício, o quadro mais favorável existente na data de implementação das condições para a concessão, sendo irrelevante a redução remuneratória ocorrida posteriormente.
+2. Rejulgamento em juízo de retratação e para os fins do art. 543-B, § 3.º, do Código de Processo Civil. Reconhecido o direito à revisão do benefício nos termos fixados pelo Pretório Excelso e nesta Corte Superior de Justiça, conheço do agravo de instrumento para dar provimento ao recurso especial.
+(EDcl no AgRg no Ag 1.138.708/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 12/3/2014)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CÁLCULO DA RENDA MENSAL DO BENEFÍCIO. TETO DE 20 SALÁRIOS MÍNIMOS INSTITUÍDO PELA LEI N. 6.950/81. APLICABILIDADE. ANÁLISE DA LEGISLAÇÃO APLICÁVEL. OBSERVÂNCIA DA LEGISLAÇÃO EM VIGOR NA NOVA DATA DE INÍCIO DO BENEFÍCIO. PERÍODO DENOMINADO DE "BURACO NEGRO". REGIME HÍBRIDO. NÃO CONFIGURAÇÃO. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.
+1. Nos termos da jurisprudência pacífica do STJ, preenchidos os requisitos para aposentadoria antes da Lei n. 7.787/89, ainda que o benefício tenha sido concedido na vigência da Lei 8.213/1991, deve ser utilizado no cálculo o teto do salário de contribuição de 20 salários mínimos. A aplicação do teto de 20 (vinte) salários mínimos será devida até junho de 1992, quando a nova renda mensal substituirá a anterior, nos termos dos arts. 33 e 144 da Lei n. 8.213/91.
+2. Não cabe ao STJ, na via estreita do recurso especial, a análise de suposta violação de artigos e princípios constitucionais, sob pena de usurpação da competência do STF.
+Agravo regimental improvido.
+(AgRg no AgRg no REsp 1.380.315/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 26/8/2013)
+No caso concreto, atendidos os requisitos para a aposentadoria antes da Lei 7.787/1989, assiste ao segurado o direito de revisar seu benefício para ver utilizado no cálculo o teto do salário-de-contribuição de 20 salários mínimos, de acordo com o regramento então em vigor, ainda que tenha continuado em atividade e obtido a aposentadoria somente na vigência da Lei 8.213/1991.
+Impende registrar que a apuração da RMI deve observar, inclusive, os aspectos negativos do regramento anterior, tais como a correção apenas dos 24 salários de contribuição anteriores aos 12 últimos e a incidência do menor e maior valor-teto (Decreto-Lei 2.351/1987 e CLPS 89.312/1984).
+Note-se que a aplicação do teto de vinte salários mínimos, prevista na Lei 6.950/1981, será devida apenas até maio de 1992. Uma vez alterada a DIB (data de início do benefício) para junho de 1989, esta passa a inserir-se no período denominado "buraco negro" (5.10.1988 a 5.4.1991), e o segurado fará jus à revisão segundo os ditames do art. 144, parágrafo único, da Lei 8.213/1991 - tal como ocorreria se o benefício tivesse sido deferido na época própria, sendo descabido falar em regime híbrido ou misto.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RMI. REVISÃO DE BENEFÍCIO. DECADÊNCIA. ART. 103 DA LEI Nº 8.213/1991. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. OBSERVÂNCIA DO ART. 144 DA LEI Nº 8.213/1991. REGIME HÍBRIDO. NÃO CARACTERIZAÇÃO. EREsp 1.241.750/SC. PERÍODO DENOMINADO BURACO NEGRO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(..)
+2. Possibilitando ao segurado rever seu benefício nos moldes da legislação vigente ao tempo em que preenchidos todos os requisitos para a jubilação, o que, na espécie, implica em ter o benefício concedido no período denominado "buraco negro", impõe-se reconhecer o direito ao recálculo previsto no art. 144 da Lei de Benefícios, tal como teria ocorrido se deferido na época própria, daí porque essa situação não configura regime híbrido, sendo certo, outrossim, que a nova renda mensal inicial passa a observar os critérios da Lei nº 8.213/1991, tal como esclarecido no precedente firmado pela Terceira Seção nos autos do EREsp 1.241.750/SC.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no REsp 1.361.978/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 1º/4/2013)
+PREVIDENCIÁRIO. RMI. REVISÃO. ART. 144 DA LEI N. 8.213/1991. BENEFÍCIO CONCEDIDO NO PERÍODO DENOMINADO "BURACO NEGRO". APLICAÇÃO. POSSIBILIDADE. NÃO CARACTERIZAÇÃO DE REGIME HÍBRIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS. RECURSO ESPECIAL DO INSS AO QUAL SE NEGA SEGUIMENTO.
+1. Segundo entendimento recentemente pacificado nesta Corte, é possível o recálculo da RMI dos benefícios concedidos no período compreendido entre 5/10/1988 a 5/4/1991, denominado "buraco negro", com aplicação do disposto no art. 144 da Lei n. 8.213/1991, sem que isso implique em adoção de regime híbrido.
+2. Embargos de declaração acolhidos, com efeitos modificativos, para negar seguimento ao recurso especial do INSS.
+(EDcl no AgRg nos EDcl no REsp 1.268.754/PR, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora convocada do TJ/PE), SEXTA TURMA, DJe 14/6/2013)
+Diante do exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
