@@ -1,0 +1,19 @@
+DECISÃO
+Na origem trata-se de ação rescisória ajuizada por IRACI PEREIRA DE OLIVEIRA E OUTROS contra o ESTADO DO MARANHÃO, pleiteando a rescisão de julgado daquela Corte, referente ao pagamento das diferenças do índice de 3,17%. No Tribunal a quo a rescisória foi julgada improcedente, ante a verificação que se tratava de erro de julgamento e não erro de fato. O valor da causa foi fixado em R$ 63.527,87 (sessenta e três mil, quinhentos e vinte e sete reais e oitenta e sete centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, contra acórdão com o seguinte resumo de ementa:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO RESCISÓRIA. SENTENÇA DE DECLARAÇÃO DA PRESCRIÇÃO EM CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. URV DO SINTSEP. LEGITIMIDADE DA PARTE AUTORA. ERRO DE FATO E/OU DOLO DA PARTE RÉ. NÃO CONFIGURAÇÃO. RECURSO DE APELAÇÃO NÃO APRESENTADO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. IMPROCEDÊNCIA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Ora, o Superior Tribunal de Justiça firmou o entendimento de que a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, sendo indispensável, todavia, que não tenha havido controvérsia nem pronunciamento judicial sobre o fato, conforme inteligência do art. 966, § 1º, do CPC/2015. Se houve controvérsia acerca do fato na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+ ..
+In casu, de fácil verificação o fato de, na ação originária, ter ocorrido efetiva discussão sobre a iliquidez do título executivo judicial que ensejou o cumprimento individual da sentença coletiva manejado por Luiz Carlos Cunha, na inicial da execução, na impugnação apresentada pelo ente público ora réu e na sentença de extinção. Inexiste, portanto, erro de fato capaz de rescindir a sentença combatida.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Para se verificar o equívoco na existência de fato admitido no julgado rescindendo como não ocorrido, necessário o exame do título judicial, vedado nesta instância de origem.
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
