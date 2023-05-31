@@ -1,0 +1,115 @@
+DECISÃO: Trata-se de habeas corpus impetrado contra acórdão, proferido no âmbito do Superior Tribunal de Justiça, assim ementado (eDOC 11):
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. PRESENÇA DE JUSTA CAUSA PARA O INGRESSO FORÇADO DE POLICIAIS. DILIGÊNCIAS PRÉVIAS. ATITUDE SUSPEITA. FUNDADAS RAZÕES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO. 1. O ingresso forçado em domicílio sem mandado judicial para busca e apreensão é legítimo se amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, especialmente nos crimes de natureza permanente, como são o tráfico de entorpecentes e a posse ilegal de arma de fogo. 2. Afere-se a justa causa para o ingresso forçado em domicílio mediante a análise objetiva e satisfatória do contexto fático anterior à invasão, considerando-se a existência ou não de indícios mínimos de situação de flagrante no interior da residência. 3. Investigação policial originada de informações obtidas por inteligência policial e mediante diligências prévias que redunda em acesso à residência do acusado não se traduz em constrangimento ilegal, mas sim em exercício regular da atividade investigativa promovida pelas autoridades policiais. 4. Tendo ocorrido controle judicial posterior do ato policial de ingresso em domicílio de investigado e o julgamento da apelação, a análise da tese defensiva em toda a sua extensão fica inviabilizada, visto que há nítida necessidade de dilação probatória, situação não permitida no rito especial do habeas corpus. 5. Agravo regimental desprovido.”
+
+    Busca-se, em suma, o reconhecimento da nulidade do ingresso policial na residência da paciente, sustentando que “a suposta confissão sub-reptícia, obtida por meio de interrogatório informal (e portanto ilegal), não é fundamento apto para justificar a violação do domicílio do cidadão, mormente quando esta suposta confissão pré-investigatória não é amparada por nenhum elemento nos autos. Reitera-se, a suposta “confissão informal” não consta em nenhuma documentação idônea capaz de arrimar a invasão de domicílio por parte dos policiais, sendo evidentemente impossível se afirmar que as supostas alegações da paciente foram espontâneas, livre dos vícios de coação e observado o aviso de Miranda”.
+
+    É o relatório. Decido.
+
+    1. Cabimento do habeas corpus:
+
+    A Corte compreende que, ordinariamente, o habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+
+    “O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal.” (HC 128693 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, grifei)
+
+    “O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.” (HC 123430, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 14/10/2014, grifei)
+
+    “(...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior.” (HC 86367, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 30/09/2008, grifei)
+
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal.
+
+    2. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, em que a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações.
+
+    No caso dos autos, há constrangimento ilegal a ser reconhecido de pronto.
+
+    2.1. A controvérsia central dos autos relaciona-se com a obrigatoriedade da advertência ao direito ao silêncio em interrogatório informal realizado pela autoridade policial, matéria que têm sido debatida de forma intensa por esta Suprema Corte recentemente.
+
+    Reconhecendo a relevância social e jurídica, submeti a matéria ao Plenário, que, por unanimidade, reconheceu a repercussão geral do tema, em acórdão assim ementado:
+
+    “CONSTITUCIONAL. PROCESSO PENAL. ART. 5º, INCISOS LXIII E LIV, DA CONSTITUIÇÃO FEDERAL. PRESO. DIREITO AO SILÊNCIO. INTERROGATÓRIO INFORMAL. QUESTÃO RELEVANTE DO PONTO DE VISTA SOCIAL E JURÍDICO. REPERCUSSÃO GERAL RECONHECIDA. A controvérsia acerca da obrigatoriedade de o Estado informar ao preso do direito ao silêncio no momento da abordagem policial, e não somente no interrogatório formal, é tema constitucional digno de submissão à sistemática da repercussão geral.” (RE 1177984 RG, de minha relatoria, Tribunal Pleno, julgado em 02/12/2021
+
+    Conquanto ainda não finalizado o julgamento da repercussão geral acima mencionada, sedimentou-se na ambiência da Egrégia Segunda Turma deste STF a compreensão quanto à imprestabilidade de prova decorrente de diligência realizada em ofensa ao princípio do nemo denetur se detegere.
+
+    Nesse sentido, a Segunda Turma deste Tribunal, no 170.843 AgR, julgado em 4.5.2021, e no RHC 192.798 AgR, no RHC 207.459 AgR, julgado em 25.04.2023, todos da relatoria do Ministro Gilmar Mendes, fixou a compreensão de que “[a] Constituição Federal impõe ao Estado a obrigação de informar ao preso seu direito ao silêncio não apenas no interrogatório formal, mas logo no momento da abordagem, quando recebe voz de prisão por policial, em situação de flagrante delito”.
+
+    No voto condutor do primeiro dos mencionados precedentes, Sua Excelência rememorou julgado da Primeira Turma desta Corte, da relatoria do Ministro Sepúlveda Pertence, o qual, no HC 80.949/RJ, julgado em 30.10.2001, estabeleceu que tanto a falta de advertência ao investigado a respeito de seu direito ao silêncio quanto a ausência de documentação formal desse aviso acarretam a ilicitude de seu interrogatório, seja ele formal ou sub-reptício. De acordo com aquele precedente, “o privilégio contra a auto-incriminação nemo tenetur se detegere, erigido em garantia fundamental pela Constituição além da inconstitucionalidade superveniente da parte final do art. 186 C.Pr.Pen. importou compelir o inquiridor, na polícia ou em juízo, ao dever de advertir o interrogado do seu direito ao silêncio: a falta da advertência - e da sua documentação formal - faz ilícita a prova que, contra si mesmo, forneça o indiciado ou acusado no interrogatório formal e, com mais razão, em conversa informal gravada, clandestinamente ou não”.
+
+    Expostas essas premissas, resta clara a existência de ofensa ao direito a não auto incriminação na diligência policial que deu início as investigações no caso concreto, que, por sua vez, inquina de nulidade todas as provas dela decorrentes, restando imperativa a absolvição nos moldes do pleiteado pela ora paciente.
+
+    2.2. No caso dos autos, a dinâmica que culminou na apreensão das drogas foi assim descrita, em sede policial, pelo agente que figurou como condutor da prisão:
+
+    “ a equipe do GIRO da Polícia Militar de Goiás, comandada pelo CBPM MARCUS VINÍCIUS DE OLIVEIRA, receberam informações de que havia um ponto de venda de drogas numa residência situada no Jardim Guanabara, nesta Capital. Ademais, informam que deslocaram até o local denunciado e depararam com LIDIANE DE DEUS FERREIRA saindo da mencionada residência, onde realizaram a abordagem, sendo que diante do nervosismo excessivo e contradições narradas por LIDIANE, ela acabou confessando que a mando de seu companheiro FERNANDO BERNARDELI NOGUEIRA, que encontra-se preso na Casa de Prisão Provisória, levou uma quantidade de drogas para a casa de sua sogra. Neste momento, os Policiais chamaram na porta da referida residência, onde foram recebidos pela proprietária DELVAIR BERNARDELI, que após explicarem a situação narrada por LIDIANE DE DEUS FERREIRA, Delvair franqueou a entrada na casa. Relatam também, que adentraram na casa e mediante buscas encontraram 02 (duas) porções de material petrificado de coloração amarelada, acondicionadas individualmente, sendo um em fita adesiva de cor marrom e uma em fita adesiva de cor bege, com massa bruta total de l,905kg (um quilograma, novecentos e cinco gramas); 01 (um) revólver, calibre 32, sem numeração aparente, marca Smith & Welson, cor preta, com 06 (seis) munições não deflagradas, calibre 32; 01 (uma) pistola Taurus,modelo 24/7, calibre .40, cor preta, N°SD094727, com carregador, com 15 (quinze) munições nào deflagradas, calibre .40; 01 (um) aparelho celular, marca Samsung, cor azul; e R$404,00 (quatrocentos e quatro reais) em moeda corrente, todos os objetos estavam guardados num guarda-roupas, dentro do quarto de Delvair. Por fim, apreenderam todos os objetos acima descritos, deram voz de prisão a LIDIANE DE DEUS FERREIRA e em seguida os apresentaram nesta Central Geral de Flagrantes.” (eDOC.02,p. 30, grifei)
+
+    A versão policial já na fase inquisitorial foi refutada pela ora paciente, que declarou ter sido submetida tortura e ainda não ter nem indicado nem autorizado o ingresso domiciliar:
+
+“Que por volta das 16h:00min estava na porta de sua residência, situada no endereço acima descrito, quando a equipe da policia militar chegou no local e abordou a interrogada; Que perguntaram onde moravam a interrogada e as demais pessoas que estavam na porta da residência, que após informar que era no barracão do fundo do referido imóvel, os policiais adentraram e reviraram tudo, mas não encontraram nada; Que, alguns policiais deslocaram até o endereço de sua sogra Sra. Delvair e voltaram com drogas e armas; a Interrogada relata não saber de quem é a droga e armas apreendidas na residência de sua sogra; Que seu marido FERNANDO BERNADELI NOGUEIRA está preso na casa de prisão provisória por tráfico de drogas; Relata que sofreu espancamento pelos policiais, mas não sabe dizer os nomes ou características. Que, um dos policiais ameaçou cortar o dedo de seu filho, caso a Interrogada não assumisse os objetos encontrados; Que desconhece todos os objetos apreendido' pela policia militar; Relata que os policiais pegaram um fio de extensão e deram choque no braço e pema da interrogada, enforcaram e deram tapa na cara da interrogada., perguntado onde adquiriu a droga e armas apreendidas, a Interrogada respondeu que desconhece a origem de tais objetos; perguntado se vende drogas, a Interrogada respondeu que nunca vendeu drogas; perguntado qual a relação que seu marido Fernando Bemadeli tem com os objetos apreendidos, a Interrogada respondeu que nenhuma; perguntada se freqüenta a casa de sua sogra, a Interrogada respondeu que só buscava a comida aos domingos para levar na Casa de Prisão Provisória onde seu marido Sr. Fernando está preso” (eDOC.02,p. 37).
+
+    Do mesmo modo, a corroborar o relato da paciente, sua sogra ainda em sede policial, negou a versão apresentada pelos agentes, aduzindo que sequer estava em casa quando ocorreu a diligência e, por isso, não teria como ter consentido com o ingresso:
+
+    “que é sogra de LIDIANE DE DEUS FERREIRA e mãe de FERNANDO BERNARDELI NOGUEIRA; QUE na data do fato, por volta das 21:00h, estava voltando do trabalho quando percebeu uma grande quantidade de pessoas na porta da casa de sua nora LIDIANE, que mora próximo a sua casa; QUE ao questionar àquelas pessoas do que se tratava, ficou sabendo que alguns policiais militares haviam adentrado na casa a procura de LIDIANE; QUE os policiais reviraram a casa de LIDIANE e a levado com eles, mas a declarante não sabe dizer o motivo; QUE não sabe dizer se sua nora LIDIANE é envolvida com o tráfico de drogas; QUE os policiais militares não entraram em sua residência, bem como no local não havia nenhuma droga ou arma; QUE seu filho FERNANDO está na Casa de Prisão Provisória, mas a declarante não sabe dizer o motivo; QUE a declarante quase não vê a nora LIDIANE, pois passa a maior parte do seu tempo trabalhando como doméstica.”
+
+    Entendendo pela existência de elementos a apontar pela invalidade da ação policial o juiz condutor da audiência de custódia teve por bem relaxar a prisão em flagrante, com base na seguinte fundamentação:
+
+    “Analisando detidamente o APF, verifico que no presente caso, não há nos autos fundada razão ou justa causa prévia ao adentramento por parte dos policias militares que Justifique a entrada forçada no domicilio da sogra da indiciada. A afirmação dos policiais de que adentraram na residência porque tinham informações de que ali se fazia tráfico de drogas, não veio com a devida descrição de fatos que confirmassem a suspeita de traficância de drogas. Além disso,não há nos autos indicação concreta de algum fato testemunhado de circulação de drogas ou a apresentação de alguma testemunha que adquirira drogas da indiciada ou que ao menos portasse alguma droga antes do adentramento e também a droga foi encontrada em domicilio diverso do que a indiciada reside, o que toma ilegal a violação do domicílio sem justa causa prévia. A autoridade policial devia, ao suspeitar de que na residência haveria a prática de algum crime de natureza permanente, cercar o imóvel c postular autorização judicial para o adentramento no domicílio alheio. A precipitação da polícia inquinou de nulidadc a ação por ofender a garantia constitucional da inviolabilidade de domicílio. (…) Aliás, a Corte Suprema, no RE n® 603.616/RO, decidiu que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado cm fundadas razões, na dicção do art. 240, § 1º do CPP, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito. Portanto, a mera suspeita de tráfico de drogas, ou outro crime de caráter permanente, no interior de residência onde a suspeita se quer residia, não tem o condão de mitigar a garantia da inviolabilidade do domicílio, ainda que haja posterior descoberta e apreensão de drogas no interior da residência, circunstância que se mostrará meramente acidental, sob pena de esvaziar-se essa franquia constitucional. Posto isso, com base no artigo 310, inciso 1, do Código de Processo Penal, DESACATO o parecer ministerial c RELAXO A PRISÃO EM FLAGRANTE DE LIDIANE DE DEUS FERREIRA, por afronta ao artigo 5", Inciso XI, da Constituição Federal, devendo a indiciada ser colocada imediatamente cm liberdade, se por outro motivo não estiver presa (...)” (eDOC.2, p. 77).
+
+    Nada obstante, o Juízo sentenciante entendeu pela validade do ingresso domiciliar e condenou a paciente como incursa na figura previsa no art. 33, caput, da Lei 11.343/2006, nos seguintes termos:
+
+    “Pois bem, diante das explicações, atenta à análise dos autos e em confronto às alegações trazidas pela defesa técnica, não verifico que o bojo probatório formado na presente demanda seja ilícito, pois o crime em questão trata-se de tráfico ilícito de entorpecentes, cuja natureza é permanente, o que dá ensejo a possibilidade de ingresso pelos policiais na residência da acusada, mesmo sem ordem judicial.
+
+    Por meio de um raciocínio lógico, considerando o patrulhamento de rotina dos policiais, a denúncia anônima, o local suspeito indicado, bem como as circunstâncias do caso em si, entenderam os policiais militares que LIDIANE DE DEUS FERREIRA estava em situação de flagrância, o que se confirmou com os demais objetos encontrados na residência da sogra dela, Sra. DELVAIR BERNARDELI, - 1.902,300 gramas de cocaína, 02 (duas) armas de fogo e 21 (vinte e uma) munições exceção essa expressa no inciso XI, do artigo 5° da Carta Magna, veja:
+
+    (…)
+
+    Saliento que o fato da abordagem decorrer de suspeitas anteriores não gera nulidade, uma vez que a polícia tem o dever de adotar medidas para conferir eventual verossimilhança dos fatos, em especial no caso de crimes permanentes, como este caso.
+
+    (...)
+
+    Dessarte, à vista do explanado, a preliminar levantada encontra-se desprovida de fundamento e provas, não merecendo acolhimento, posto que as provas indiciárias são lícitas, legais e aptas ao seu fim, assim como as obtidas durante a instrução processual, razão pela qual desacolho o pedido da defesa quanto ao reconhecimento da nulidade do flagrante e das demais provas derivadas.”
+
+    Na mesma direção, e por similares fundamentos, também o TJGO afastou a invocada nulidade no trâmite da ação ordinária, contudo reformou a dosimetria da pena, a fim de aplicar o redutor previsto no art. 33, § 4°, da Lei 11.343/2006 (eDOC.07, p. 35)
+
+    Por fim, o STJ, no ato coator ora impugnado, referendou a conclusão das instâncias ordinárias, afastando a nulidade alegada pois “Constatou-se que, além de os militares iniciarem a abordagem em razão da atitude suspeita da agravante – que apresentou nervosismo incomum ao avistá-los e, ao ser abordada, deu respostas contraditórias –, houve denúncia acerca da continuidade de traficância do companheiro, preso por tráfico de drogas” (eDOC.11).
+
+     2.3. Ao que se nota, as instâncias antecedentes consideraram válida a ação policial, de apreensão na casa da sogra da paciente realizada a partir de: a) indícios colhidos em denúncia anônima que levou os policiais ao local da apreensão e b) informações logradas a partir de confissão informal pela paciente, não precedida de aviso ao direito ao silêncio, e que teria detalhado o local onde poderia ser encontrada a droga.
+
+     Tais circunstâncias, contudo, consoante consolidada jurisprudência deste STF não autorizam a excepcional mitigação à garantia da inviolabilidade domiciliar e muito menos a prolação de édito condenatório em desfavor da ora paciente.
+
+    Primeiramente, no que tange ao fundamento “denúncia anônima”, convém pontuar que, consoante consolidada jurisprudência desta Corte, relatos obtidos dessa forma não tem aptidão probatória suficiente para, de forma isolada, sustentar sequer a abertura de inquérito policial. Com menos razão ainda poderiam amparar a adoção de medida invasiva, como é o caso de busca domiciliar.
+
+    A título meramente ilustrativo cito a sempre esclarecedora intervenção do Min. Celso de Mello, no julgamento do RHC 117988, no qual destacou que “As autoridades públicas não podem iniciar qualquer medida de persecução (penal ou disciplinar), apoiando-se, unicamente, para tal fim, em peças apócrifas ou em escritos anônimos. É por essa razão que o escrito anônimo não autoriza, desde que isoladamente considerado, a imediata instauração de “persecutio criminis” (RHC 117988, Relator(a): Min. GILMAR MENDES, Relator(a) p/ Acórdão: Min. CELSO DE MELLO, Segunda Turma, julgado em 16.12.2014). No mesmo sentido: HC 84.824/TO, 1ª Turma, Rel. Min. Marco Aurelio, j. 07.08.2007 e HC 95.244/PE, 2ª Turma, Rel. Joaquim Barbosa, j. 23.11.2010.
+
+    A questão também foi abordada, ainda que em obter dictum, no julgamento do RE que ora aponto como paradigma para concessão da ordem:
+
+    “Por outro lado, provas ilícitas, informações de inteligência policial – denúncias anônimas, afirmações de “informantes policiais” (pessoas ligadas ao crime que repassam informações aos policiais, mediante compromisso de não serem identificadas), por exemplo – e, em geral, elementos que não têm força probatória em juízo não servem para demonstrar a justa causa.” (Voto no Min. Gilmar Mendes no RE 603616/RO).
+
+    Na sequência, encadeia-se ao enredo da denúncia anônima nova justificativa para o seguimento à incursão domiciliar: a confissão informal da acusada - não precedida do aviso ao direito ao silêncio - de que haveria drogas no interior da residência, indicando o local onde encontrá-las.
+
+    Contudo, ao examinar a dinâmica em que se realizou a diligência policial e o interrogatório informal da acusada resta claro que naquele momento inicial não houve formalização da advertência quanto ao direito à não autoincriminação, o que, conforme decidido por esta Corte, conduz à sua nulidade e à consequente ilicitude da prova.
+
+    Não bastasse a insuficiência da denúncia anônima para o ingresso domiciliar e a invalidade de provas colhidas em ofensa ao direito de não incriminação, o presente caso possui incongruências relevantes que remontam a fase inquisitorial e que corroboram a convicção pela nulidade insanável na ação penal: (i) em sede inquisitorial os policiais alegam que a sogra da paciente autorizou o ingresso, mas não há depoimento da sogra da paciente no dia do flagrante; (ii) ouvida posteriormente ao flagrante, a sogra declarou que sequer estava no local no momento dos fatos relatados pelos policiais (eDOC.03, p. 5); (iii) a paciente relata tortura sofrida durante o flagrante e os horários apontados pela polícia (20h) e pela paciente (16h) quanto ao flagrante delito são diversos, o que pode indicar uma detenção por período alongado; (iv) policiais afirmaram que a paciente “entrou em contradição” durante a busca pessoal, mas não detalham, em nenhum momento, o conteúdo dessa contradição.
+
+    Como corolário, as menções feitas em juízo pelos policiais à confissão do paciente, independentemente de serem alusivas ao interrogatório eivado de nulidade ou a eventuais entrevistas informais, são contaminadas pelo vício do ato investigatório de que derivam.
+
+    Por essa razão, reconheço a nulidade da busca e apreensão realizada pelos policiais e também de todos os demais elementos de informações e provas colhidas em Juízo, porque decorreram da apreensão ilegal realizada no domicílio do paciente, em violação ao previsto no art. 5°, XI, da Constituição Federal.
+
+    Com efeito, as provas derivadas da prova ilícita restam imprestáveis em razão do que a doutrina denomina de teoria dos frutos da árvore envenenada (art. 157, § 1º, do Código de Processo Penal).
+
+    Assinalo, nesse sentido, que a hipótese dos autos não se inclui nas exceções de contaminação, quais sejam, a inexistência de nexo de causalidade entre umas e outras ou quando as provas derivadas puderem ser obtidas por uma fonte independente.
+
+    3. Ante o exposto, com base no art. 192 do RISTF, não conheço do habeas corpus, mas concedo a ordem de ofício para o fim de reconhecer a nulidade do interrogatório extrajudicial do paciente e suas menções em juízo, bem como de todos os demais atos processuais que dele advieram inclusive, a busca domiciliar e, por conseguinte, absolver a paciente LIDIANE DE DEUS FERREIRA da imputação descrita nos autos 201800600423 com fulcro no art. 386, II, do CPP.
+
+    Comunique-se, com urgência e pelo meio mais expedito, ao Juiz da causa, a quem incumbirá o implemento desta decisão.
+
+    Comunique-se, outrossim, o TJGO e STJ, encaminhando-lhes cópia da presente decisão, para ciência.
+
+    Publique-se.
+
+    Brasília, 31 de maio de 2023.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
