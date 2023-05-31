@@ -1,0 +1,37 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0702424-43.2021.8.07.0009.
+Depreende-se dos autos que o réu foi condenado a 1 ano, 6 meses e 25 dias de detenção, em regime inicialmente semiaberto, pela prática dos delitos tipificados nos arts. 331 e 163, parágrafo único, III, do CP (fls. 433-499).
+O Tribunal de origem deu parcial provimento à apelação defensiva, para absolver o réu em relação ao delito de dano ao patrimônio público e fixar a pena do crime de desacato em 9 meses e 10 dias de detenção, no regime inicial aberto (fls. 528-546). Os embargos de declaração ministeriais foram rejeitados.
+Nas razões do especial, alega a acusação que o acórdão recorrido violou os arts. 33, §§ 2º e 3º, e 59, III, do CP, ao argumento de que foi determinado regime mais brando que o devido, haja vista a reincidência do réu e a fixação da pena-base acima do mínimo legal.
+Requer o provimento do recurso para o estabelecimento do regime inicialmente fechado.
+Apresentadas as contrarrazões (fls. 598-606) e admitido o recurso especial na origem (fls. 609-610), o Ministério Público Federal opinou pelo seu provimento (fls. 624-627).
+Decido.
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razão pela qual passo ao exame da quaestio iuris.
+O acórdão recorrido asseriu o seguinte (533-535, grifei):
+Pena desacato. Individualização.
+Quanto ao crime de desacato, na primeira fase, valorados negativamente os antecedentes, a pena-base foi fixada em 8 meses e de detenção, pelos maus antecedentes - processo 0711635-40.2020.8.07.0009 (ID 39559572, p. 19/23).
+Para se fixar a pena-base não há critérios puramente matemáticos. Não previstas em lei as frações de aumento, o quantum a ser estipulado fica adstrito à prudente discricionariedade do juiz, desde que devidamente fundamentado.
+O e. STJ tem admitido, para aumento da pena-base, por circunstância judicial desfavorável, adotar as frações de 1/8 entre o mínimo e o máximo da pena em abstrato, e 1/6 da pena mínima em abstrato, assim como não adotar nenhum critério matemático, desde que haja fundamentação idônea e concreta, baseada na discricionariedade vinculada do julgador.
+Decidiu aquele e. Tribunal que "não há direito subjetivo do réu à adoção de alguma fração específica de exasperação para cada circunstância judicial desfavorável, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias" (AgRg no REsp 1951442/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/11/2021, DJe 29/11/2021).
+ ..
+Na hipótese, o aumento em 2 meses acima do mínimo legal corresponde a 1/8 do intervalo entre as penas mínima e máxima em abstrato. O acréscimo, adequado, deve ser mantido.
+Na segunda fase, sem atenuantes. Presente a agravante da reincidência, a sentença adequadamente utilizou a condenação dos autos 2016.09.1.020258-2 (ID 39559572, págs. 13/14) para aumentar a pena intermediária na fração de 1/6, elevando-a para 9 meses e 10 dias de detenção.
+Na terceira fase, sem causas de aumento e de diminuição, a pena definitiva para o crime de desacato (art. 331 do CP) é de 9 (nove) meses e 10 (dez)dias de detenção.
+Embora o réu seja reincidente e registre maus antecedentes, por se tratar de crime sem violência e tendo em vista as circunstâncias do crime, o regime prisional será o aberto.
+O Parquet opôs embargos de declaração, pleiteando o reestabelecimento do regime inicial semiaberto. No entanto, o recurso integrativo foi rejeitado (fls. 569-577).
+Daí o presente recurso especial, em que o Ministério Público sustenta violação dos arts. 33, §§ 2º e 3º, e 59, III, do CP e requer a fixação do regime inicialmente fechado.
+Quanto ao regime inicial, estão elencados no art. 33, §§ 2º e 3º, do Código Penal os critérios para a sua imposição, de modo a determinar que deve ser feita com a observância dos critérios temporais do § 2º, bem como das circunstâncias judiciais, nos termos do art. 59 do Código Penal.
+Ante a quantidade de pena (não excedente a 4 anos), a reincidência e o registro de circunstância judicial negativa sopesadas na primeira fase da dosimetria (maus antecedentes), revela-se possível a fixação do regime inicial fechado, a teor do art. 33, § 2º, do Código Penal.
+A jurisprudência desta Corte Superior é pacífica em que "não há constrangimento ilegal na imposição de regime fechado a condenado a pena de 2 anos e 8 meses de reclusão, se ele é reincidente e ostenta maus antecedentes, circunstância judicial desfavorável que serve tanto para aumentar a pena-base quanto para agravar o regime prisional, por força do disposto no art. 33, § 3º, do Código Penal. Assim, o teor da Súmula 269/STJ revela-se inaplicável" (HC n. 341.854/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 19/2/2016).
+No mesmo sentido:
+ ..
+4. O regime fechado foi fixado em razão da existência de circunstância judicial negativa (antecedentes), além da reincidência. Dessa forma, as instâncias ordinárias decidiram em consonância com a jurisprudência deste Superior Tribunal, sedimentada no sentido de que a existência de vetorial negativa e de reincidência justifica idoneamente o regime mais severo para o início do cumprimento da sanção.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.950.073/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 31/8/2022)
+ ..
+IV - Sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais". A incidência da Súmula n. 269/STJ pressupõe que todas as circunstâncias judiciais sejam favoráveis, o que não ocorre na espécie. Nesse sentido os seguintes julgados desta Corte Superior: (HC n. 329.644/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/10/2016). (AgInt no HC n. 323.418/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/6/2016).
+V - A toda evidência, o de cisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício. Agravo regimental desprovido.
+(AgRg no HC n. 748.253/SC, Rel. Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, 5ª T., DJe 9/8/2022, grifei)
+No entanto, como o Parquet, em seus embargos de declaração (fls. 548-551), limitou-se a pedir ao Tribunal a quo o reestabelecimento do regime semiaberto, a fixação do regime fechado caracterizaria indevida reformatio in pejus.
+À vista do exposto, dou parcial provimento ao recurso especial, apenas para reestabelecer o regime semiaberto para o início do cumprimento da sanção, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
