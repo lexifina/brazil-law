@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JOSE PEREIRA VITOR FILHO contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará (HC n. 0820156-43.2022.8.14.0000).
+Depreende-se dos autos que o recorrente foi condenado, em 5/8/2020, à pena de 8 anos e 6 meses de reclusão, em regime inicialmente fechado, e ao pagamento de 570 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, bem como pela conduta prevista no art. 333 do Código Penal (e-STJ fls. 29/38).
+Segundo o apurado (e-STJ fl. 29):
+ ..  na madrugada do dia 29 de novembro de 2019, na zona rural desta Comarca, os denunciados foram presos em flagrante delito por uma equipe da Polícia Militar local, em associação estável e permanente, quando transportavam aproximadamente 298 (duzentos e noventa e oito quilos) de substância assemelhada a maconha no veículo automotor do tipo AMAROC, pertencente ao denunciado José Pereira Vitor Filho.
+Consta ainda que, por ocasião dos fatos, os denunciados ofereceram vantagem indevida consistente na promessa de dar a quantia de R$- 200.000,00 (duzentos mil reais) e a caminhonete AMAROC para a equipe da polícia militar como forma de pagamento do suborno, a fim de que os mesmos não efetuassem a prisão dos denunciados.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 80):
+HABEAS CORPUS LIBERATÓRIO. TRÁFICO DE DROGAS. EXCESSO DE PRAZO NO JULGAMENTO DO RECURSO DE APELAÇÃO CRIMINAL. COMPETÊNCIA DO STJ. INTELIGÊNCIA DO ART. 105, I, "C", DA CF. TESE NÃO CONHECIDA.
+1. De acordo com o mandamento constitucional encartado no art. 105, I, "c", da CF, compete ao Superior Tribunal de Justiça processar e julgar habeas corpus impetrado contra ato praticado por Desembargador de Tribunal de Justiça do Estado, hipótese verificada nos presentes autos no tocante ao alegado excesso de prazo para julgamento do recurso de apelação criminal, matéria inclusive apreciada pela Corte Superior no julgamento do HC 791472/PA, ensejando o não conhecimento da matéria sob essa ótica.
+PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO PROCESSUAL. MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+2. A custódia cautelar fundamentada na garantia ordem pública e aplicação da lei penal se justifica quando as circunstâncias concretas demonstram o risco de reiteração delitiva ou a periculosidade do agente, evidenciada pela grande quantidade de substância entorpecente apreendida (aproximadamente 298 kg de maconha) e tentativa de suborno dos agentes policiais, como no caso em questão, o que inviabiliza a sua substituição por medidas cautelares diversas, na forma do art. 282, §6º, c/c art. 321, ambos do CPP, pois diante da gravidade concreta da conduta delituosa e a periculosidade do paciente seriam insuficientes para acautelar a ordem pública.
+3. Da mesma forma, as condições pessoais favoráveis do paciente são irrelevantes quando estão presentes os requisitos da prisão preventiva previstos no art. 312 do CPP e devidamente fundamentada a decisão que decretou a medida cautelar, nos termos da Súmula nº 08 deste E. TJPA.
+4. Além disso, conforme entendimento pacificado no âmbito do STJ, tendo o paciente "permanecido preso durante todo o processo, não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em primeiro grau" (AgRg no HC n. 742.659/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 22/8/2022).
+5. Ademais, a probabilidade de reconhecimento da prática de tráfico privilegiado em sede recursal não configura causa idônea para derruir a prisão preventiva, mormente considerando que não cabe realizar prognóstico do resultado do recurso na via estreita do habeas corpus, sob pena de incorrer em inadequado exercício de futurologia.
+6. Por fim, "não há manifesta ilegalidade se a sentença condenatória manteve os fundamentos da prisão preventiva, a qual foi decretada com a indicação de fundamentação concreta, evidenciada na grande quantidade e diversidade de drogas apreendidas", sendo que se considera motivada a sentença que "fez expressa referência no sentido de que "permaneceram presentes os requisitos que autorizaram sua segregação cautelar que mantenho"" (STJ, AgRg no HC 787557/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/02/2023).
+IMPETRAÇÃO PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+Neste recurso, a defesa aponta constrangimento ilegal decorrente do excesso de prazo para o julgamento do recurso de apelação.
+Sustenta que os autos encontram-se conclusos para julgamento desde 11/11/2021 e, até a presente data, o recuso não foi apreciado pelo Tribunal local.
+Pontua que, "em 14/12/2022, em decisão do Ministro ANTONIO SALDANHA PALHEIRO, em que pese indeferir liminarmente o HC, concedeu a ordem de ofício, determinando que o Egrégio TJPA providenciasse o julgamento, o mais rápido possível da Apelação Criminal" (e-STJ fl. 108), porém não foi dado cumprimento à referida decisão.
+Alega que, após a aposentadoria do então Desembargador relator e da posterior remoção da Desembargadora para outra turma, nenhum dos substitutos deu cumprimento ao ofício enviado pelo Superior Tribunal de Justiça.
+Ressalta, também, ausência de fundamentação concreta para a negativa do direito do acusado a recorrer em liberdade e assere que a quantidade de droga apreendida, por si só, não justifica a manutenção da custódia.
+Afirma ser necessária a aplicação de outras medidas cautelares.
+Dessa forma, requer (e-STJ fls. 126/127):
+I. Seja concedido o PEDIDO LIMINAR para ante a existência de fumus boni iuris e periculum in mora, seja determinada a REVOGAÇÃO DA PRISÃO PREVENTIVA DO RECORRENTE ATÉ O JULGAMENTO DO MÉRITO DO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+II. No mérito, seja conhecido do pedido e dado provimento ao recurso, tornando definitivos os efeitos da liminar.
+III. Subsidiariamente, requer seja aplicada qualquer das medidas cautelares previstas no artigo 319 do Código de Processo Penal, de forma preferencial, aquela consistente no comparecimento periódico em Juízo e de não praticas novas infrações penais.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque, consoante parecer do Parquet Federal (e informações complementares obtidas no sítio eletrônico do Tribunal de origem) "em 02/05/2023, o TJPA julgou o apelo defensivo, que foi provido, em parte" (e-STJ fl. 405).
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
