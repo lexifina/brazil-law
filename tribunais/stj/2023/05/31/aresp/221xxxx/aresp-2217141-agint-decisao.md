@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno, interposto por DARCILEY SANTOS DE ARAÚJO, em face de decisão monocrática da lavra da Ministra Presidente deste Superior Tribunal de Justiça (fls. 1416/1418, e-STJ), a qual não conheceu do agravo (art. 1042 do CPC/15), com fundamento no óbice contido na Súmula 182 do STJ.
+No presente agravo interno (fls. 1422/1434, e-STJ), o agravante sustenta que a decisão monocrática merece reforma, na medida em que refutou expressamente os óbices aplicados na decisão de admissibilidade recursal.
+Impugnação às fls. 1475/1478, e-STJ.
+Procedem, no entanto, as alegações da parte recorrente, devendo ser reconsiderada a decisão agravada (fls. 1416/1418, e-STJ). Passo à análise do agravo.
+Pois bem.
+Cuida-se de agravo (art. 1042 do CPC/15), contra decisão que não admitiu recurso especial (fls. 1341/1345, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1214, e-STJ):
+JUÍZO DE RETRATAÇÃO - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INDENIZ AÇÃO - DANOS MORAIS - APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL - CRÉDITO EXTRACONCURSAL. Em se tratando de crédito concursal, os juros de mora e correção mon etária, de fato, encontram limites na data da recuperação judicial. V.V. Os créditos constituídos antes da aprovação do plano de recuperação judicial são considerados concursais, enquanto aqueles constituídos após são denominados créditos extraconcursais, isto é, não compreendidos na classificação dos créditos do plano de recuperação judicial.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, o recorrente aponta violação aos artigos 141, 492, 525 e 854 do CPC/15.
+Sustenta, em síntese: (a) existência de preclusão quanto à matéria apresentada pela agravada; e que, (b) relativamente ao excesso de execução, a decisão é "ultra petita".
+Contrarrazões (fls. 1330/1337, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou o processamento do recurso especial.
+Daí o agravo (art. 1042 do CPC/15).
+Contraminuta às fls. 1402/1408, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe registrar, "configura-se o prequestionamento quando a causa tenha sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, não bastando a simples menção a tais dispositivos" (REsp 898.661/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 24/06/2008, DJe 19/08/2008).
+Depreende-se dos autos que o conteúdo normativo dos artigos 141, 492, 525 e 854 do CPC/15, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do CPC/15.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do CPC/15 de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. ALEGADA AFRONTA AOS ARTIGOS 14, § 3º, INCISOS I E II, DO CDC E 86 DO CPC DE 2015 (EXCLUDENTES DE ILICITUDE E SUCUMBÊNCIA RECÍPROCA). AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RECURSO NÃO PROVIDO. 1. As matérias referentes aos arts. 14, § 3º, incisos I e II, do CDC e 86 do CPC de 2015, relacionadas à excludentes de ilicitude e sucumbência recíproca, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF). 2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. 3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017). 4. Agravo interno a que se nega provimento. (AgInt no REsp 1847075/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+2. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 1416/1418, e-STJ, e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/15.
+Publique-se. Intimem-se.
