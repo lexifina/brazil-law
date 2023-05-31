@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido liminar, impetrado por ELISABETE ANDRADE SANTOS SILVA - ELETRICA E TELECOMUNICAÇÕES contra ato jurisdicional praticado pelo e. 22ª Câmara de Direito Privado do TJ/SP, nos autos do agravo de instrumento 245123-37.2022.8.26.0000.
+Em suas razões, a impetrante questiona a revogação, em sede recursal, dos benefícios da assistência judiciária gratuita. Expõe que "(..) não tem liquidez, ao contrário, encontra-se em estado financeiro caótico, não possuindo condições financeiras de recolher as custas processuais neste momento e, assim, faz-se necessário o benefício da gratuidade da justiça."
+Requer, assim, "(..) Diante das exposições apontadas, bem como da documentação colacionada que comprova a falta de condição para o recolhimento das custas processuais bem como pagamento dos honorários advocatícios, nos termos da súmula 481 do STJ, requer digne-se Vossa Excelência conceder os benefícios de gratuidade de justiça, tornando possível a prestação jurisdicional."
+É o relatório.
+Decisão.
+O pedido inicial não comporta conhecimento.
+1. Isso porque, a Constituição Federal, ao delinear a competência do Superior Tribunal de Justiça para apreciar originariamente mandados de segurança, prevê, expressamente, em seu art. 105, inciso I, alínea "b":
+"Art. 105. Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente: (..) b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Vale destacar, ademais, o enunciado da Súmula nº 41 desta Casa, segundo o qual "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Nesse sentido, confiram-se: AgInt no MS 25598/SP , Rel. Min. Moura Ribeiro, DJe de 21/08/2020; AgInt no MS 25452/MS, Rel. Min. Nancy Andrighi, DJe de 05/06/2020; AgInt no MS 25345/GO, Desta Relatoria, DJe de 02/12/2019; AgInt no MS 24206/SP, Rel. Min. Maria Isabel Gallotti, DJe de 19/06/2018.
+Com efeito, considerando que o ato apontado como coator não se subsume em qualquer das hipóteses de competência originária do Superior Tribunal de Justiça para a apreciação de mandado de segurança, impõe-se o indeferimento da exordial, sendo de rigor a remessa dos autos ao eg. Tribunal de origem. Nessa linha, confira-se: MS 21.744/DF, Rel. Min. Og Fernandes, julgado em 23/09/2015.
+2. Do exposto, nos termos do art. 34, XVIII, c/c art. 212, ambos do RISTJ, INDEFIRO liminarmente a petição inicial e, com fundamento no art. 64, §3º, do NCPC remeto os presentes autos ao eg. Tribunal de Justiça do Estado de São Paulo-TJSP, para apreciação como entender de direito.
+Publique-se. Intimem-se. Cumpra-se. Após, arquivem-se.
