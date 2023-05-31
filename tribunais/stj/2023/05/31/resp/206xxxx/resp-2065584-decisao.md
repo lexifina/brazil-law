@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" , da Constituição da República, do acórdão assim ementado:
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. PEDIDO FORMULADO JUNTO AO INSS DEAPOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AUSÊNCIA DE APRECIAÇÃO DOPEDIDO POR PARTE DO INSS. HOMENAGEM AO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA.
+Caso em que a parte impetrante ingressa com "mandamus" pretendendo a apreciação de pedido formulado na seara administrativa em 08.12.2020, a fim de obter aposentadoria por tempo de contribuição; Sendo dever da Previdência Social garantir ao segurado a apreciação do seu pedido administrativo do respectivo benefício, não podendo a administração omitir-se ou retardar sem fundamento a prestação do serviço ao qual é incumbido de prestar à sociedade, é de ser mantida a sentença, que determinou que o INSS aprecie o requerimento administrativo em questão. Homenagem ao princípio constitucional da dignidade da pessoa humana; Remessa oficial desprovida .
+A parte recorrente afirma que houve ofensa aos arts. 485, VI, 489 e 1.022 do CPC/2015; 1º da Lei 12.016/2009; 49 da Lei 9.784/1999; 41-A da Lei 8.213/1991. Alega:
+De acordo com a legislação acima, o Conselho de Recursos do Seguro Social - CRSS (CRPS), colegiado , é órgão de integrante da estrutura do Ministério do Desenvolvimento Social e Agrário -MDSA controle jurisdicional das decisões do Instituto Nacional do Seguro Social - INSS, nos processos de interesse dos beneficiários e das empresas, nos casos previstos na legislação. Portanto, o Conselho de não pertence, não integra o INSS. Recursos do Seguro Social - CRSS (CRPS). É órgão do Ministério do Desenvolvimento Social e Agrário.
+(..)
+Portanto, o INSS não tem qualquer ingerência sobre esse órgão que não integra a autarquia e sim a . Veja que no Mandado de Segurança o impetrante indica oestrutura do Ministério da Economia Presidente do Conselho de Recursos, bem como a União Federal. Por este motivo, não poderia ter sido notificado qualquer servidor do INSS nem a PRF5 (representação jurídica do INSS).
+(..)
+Os segurados têm corriqueiramente invocado as disposições da Lei Orgânica da Previdência Social -LOPS (Lei n.8.213/91) e da Lei de Processo Administrativo Federal (Lei n. 9.784/99) como sustentáculos normativos para a imposição de prazo peremptório de análise dos requerimentos administrativos pelo INSS. Acontece que os diplomas legais em questão não dispõem sobre a temática ora em debate, conforme se passa a expor.
+(..)
+No que concerne ao disposto na LOPS, é de bom alvitre inferir que a referida norma não impõe prazo peremptório para análise do requerimento administrativo, com marco inicial a partir da apresentação do mesmo à Autarquia Previdenciária.
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+O MPF emitiu parecer assim ementado:
+Direito previdenciário e processual civil. Recurso especial. Mandado de segurança. Mora administrativa. Legitimidade passiva. Alegação de negativa de prestação jurisdicional. Não comprovação. Ausência de prequestionamento. Matéria constitucional. Incognoscibilidade.
+1. Há adequada fundamentação para a conclusão alcançada pela Corte de origem, porquanto restou demonstrada a adequação fático-jurídica dos fundamentos adotados. Ausência de violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. Em vista de não ter sido integralmente enfrentada a tese recursal pelo Tribunal a quo, considera-se ausente o devido prequestionamento. Óbice da Súmula n. 211 do Superior Tribunal de Justiça.
+3. A discussão de fundo do recurso especial tem caráter eminentemente constitucional, não cabendo a esta Corte Superior emitir juízo a seu respeito, sob pena de usurpação da competência do Supremo Tribunal Federal. Parecer pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.5.2023.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1630265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/12/2016.)
+A Corte regional consignou:
+Busca a parte impetrante, por meio de "mandamus", a apreciação de seu pedido formulado na seara administrativa em 08.12.2020, a fim de obter aposentadoria por tempo de contribuição. O magistrado singular concedeu a segurança, para que a autoridade coatora analise o requerimento administrativo.
+A Constituição Federal erigiu a dignidade da pessoa humana a princípio Constitucional.
+É o valor constitucional supremo, que agrega em torno de si a unanimidade dos demais direitos e garantias fundamentais do homem expressos nesta Constituição. Daí envolver o direito à vida, os direitos pessoais tradicionais, mas também os direitos sociais, os direitos econômicos, os direitos educacionais, bem como as liberdades públicas em geral.
+Quando o texto constitucional proclama a dignidade da pessoa humana, está corroborando um imperativo de justiça social.
+Seja como for, a dignidade da pessoa humana é o carro-chefe dos direitos fundamentais na Constituição de 1988.
+Assim, sendo dever da Previdência Social garantir ao segurado a apreciação do seu pedido administrativo do respectivo benefício, não podendo a administração omitir-se ou retardar sem fundamento a prestação do serviço ao qual é incumbido de prestar à sociedade, é de ser mantida a sentença, que determinou que o INSS apreciasse o requerimento administrativo em questão, em homenagem ao princípio constitucional da dignidade da pessoa humana.
+Ao julgar os Embargos de Declaração, o acórdão foi integrado nos seguintes termos:
+No caso dos autos, todas as questões necessárias ao deslinde do feito restaram devidamente analisadas e resolvidas, estando expressamente consignados os fundamentos que ensejaram a concessão da segurança, considerando a própria legislação aplicável ao caso (art. 49 da Lei nº 9.784/99), que estabelece o prazo para se iniciar a análise do requerimento administrativo.
+Por sua vez, a discussão relativa à competência para a apreciação do recurso não interfere no impulsionamento inicial do requerimento, sendo este o prazo não cumprido pelo INSS.
+Por outro lado, ressalte-se que a pandemia causada pelo Covid-19 não justifica o atraso na análise do requerimento administrativo, a ponto de ultrapassar o dobro ou triplo do prazo previsto na legislação de regência, para realizar o respectivo processamento do pedido.
+A administração e cada um dos seus órgãos devem encontrar os meios necessários e eficazes para superar as dificuldades trazidas com a pandemia, afim de cumprir as obrigações que lhe competem, mormente, no caso, sempre se tratar de pedidos relativos a benefícios de caráter alimentar, essenciais à sobrevivência dos que aguardam a sua resolução.
+Ademais, não há falar em ofensa ao princípio da isonomia por autorizar o processamento de um benefício em lugar de outros na mesma situação, mormente se observado o princípio da dignidade humana, quando o impetrante busca o Judiciário para impedir que um segurado ou assistido socialmente pelo INSS, fique meses a fio sem o necessário atendimento.
+Noutra banda, a medida pleiteada não gera qualquer desrespeito aos princípios de separação dos poderes e da reserva do possível.
+Os três poderes devem ser exercidos independentemente, de maneira harmônica, cabendo, entretanto, ao Judiciário intervir em ações ilegais do Executivo, sob pena de prejuízo à ordem democrática.
+Por outro lado, o princípio da reserva do possível, deve sempre ser analisado à luz da garantia do mínimo existencial, não sendo possível a genérica referência ao primeiro, quando se verifica a existência de risco à dignidade humana, flagrantemente afrontada quando se demora na apreciação de pedido voltado à concessão de benefício de caráter alimentar, muitas vezes destinado a pessoas em situação de vulnerabilidade econômica e social.
+Nota-se que a Corte a quo , com base no suporte fático-probatório dos autos, decidiu pela legitimidade da autoridade coatora e pela demora injustificada na análise do requerimento administrativo. Com efeito, a revisão das conclusões estaduais demanda o reexame de fatos e provas, o que é inadmissível na via especial ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples valoração da prova.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO CONFIGURADO. DEMORA DO INSS. BENEFÍCIO ASSISTENCIAL.
+1. A indicada afronta ao art. 41-A da Lei 8.213/1991 e aos arts. 393 e 396 do CC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O Tribunal de origem consignou que "o requerimento administrativo foi formulado em 29.7.2019, tendo a parte impetrante protocolado a ação mandamental em 4.12.2019, de modo que resta configurada a demora por parte do INSS na análise do requerimento de concessão de benefício assistencial à pessoa com deficiência." Portanto, mesmo que se leve em consideração a "situação excessiva de trabalho nas agências do INSS", não é permitido à autarquia previdenciária obrigar o recorrido a "aguardar por tempo indeterminado" uma manifestação no processo administrativo, em descompasso com o prazo legal.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.935.324/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/8/2021)
+Na mesma linha: REsp 2.031.837/PE, Rel. Ministro Francisco Falcão, DJe 21.11.2022; REsp 2.027.455/PE, Rel. Ministra Assusete Magalhães, DJe 25.10.2022; REsp 1.950.682/RN, Rel. Ministro Benedito Gonçalves, DJe 1º.9.2022; REsp 1.941.803/PE, Rel. Ministro Herman Benjamin, DJe 2.8.2021; REsp 1.939.068/PE, Rel. Ministro Francisco Falcão, DJe 1º.7.2021; e REsp 1.928.518/PE, Rel. Ministro Herman Benjamin, DJe 3.5.2021.
+Ademais, da leitura dos autos verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
