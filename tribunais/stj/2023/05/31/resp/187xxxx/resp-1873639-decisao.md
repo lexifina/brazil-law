@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. DEVOLUÇÃO DE VALORES AO ERÁRIO. TEMA N.º 692 DO STJ. JUÍZO DE RETRATAÇÃO.
+As peculiaridades do caso concreto - que é distinto da hipótese retratada no precedente vinculante - justificam a manutenção da decisão proferida por esta Corte.
+A recorrente sustenta que foram violados os arts. 300, 302, 337, 485, 502, 503 e 1.022 do CPC/2015; 876, 884 e 885 do CC; 53 e 54 da Lei 9.784/1999; e 46, § 3º, e 114 da Lei 8.112/1990. Em síntese, alega a inexistência de prestação jurisdicional, de litispendência e de coisa julgada. Afirma que não há erro da administração e que formulou pedido sucessivo de devolução dos valores relativos ao período de julho de 2001 a dezembro de 2007.
+Contrarrazões ao Recuso Especial às fls. 930-954, e-STJ.
+É o relatório.
+Decido.
+O Recurso Especial não foi admitido quanto ao Tema 1.009 do STJ, apenas quanto à parte remanescente.
+De início, afasto a suposta ofensa ao art. 1.022 do CPC.
+A controvérsia foi dirimida nestes termos:
+O(s) autor(es) foi(ram) notificado(s) para devolver(em) ao erário os valores recebidos a título de diferença remuneratória decorrente do reajuste de 26,05% (Unidade de Referência de Preços), no período de 17/07/2001 a 12/2007.
+Os pagamentos ditos "indevidos" foram realizados por força de liminar - concedida no mandado de segurança coletivo n.º 2001.34.00.020574-8 em 17-7-2001, tendo sido garantida à categoria a continuidade de percepção da verba até o julgamento dos recursos interpostos na reclamatória trabalhista n. 561/89 (trânsito em julgado em 9 de agosto de 2002).
+A devolução dos valores foi determinada na apelação:
+(..)
+No âmbito do e. Superior Tribunal de Justiça, não houve a análise da questão da devolução de tais valores, tendo sido apreciada somente a legalidade da supressão da URP, com o reconhecimento da irrepetibilidade das importâncias adimplidas, em virtude da decisão trabalhista(único provimento judicial transitado em julgado até então). Foi negado provimento aos agravos interpostos pela União e pelo Sindicato e, posteriormente, aos embargos de declaração opostos pelo ANDES.
+Remetidos os autos ao e. Supremo Tribunal Federal, foi negado seguimento ao recurso extraordinário interposto pelo ANDES (ARE1.091.811/DF) e, após a interposição de agravo regimental, que restou improvido, operou-se o trânsito em julgado em 22/08/2018.
+Diante desse contexto, não há se falar em litispendência ou coisa julgada, porque:
+(a) embora os objetos das ações coletiva e individual estejam imbricados, o art. 104 da Lei n.º 8.078, de 1990, dispõe que As ações coletivas, previstas nos incisos I e II e do parágrafo único do art. 81, não induzem litispendência para as ações individuais;
+(b) em caso de improcedência da demanda coletiva que veicula a tutela de direitos individuais homogêneos, haverá formação da coisa julgada material para os legitimados coletivos reproduzirem a demanda, mas, em regra, não impede a propositura da ação individual, salvo nos casos de intervenção individual, conforme arts. 94 c/c 103, § 2º, CDC e 18, parágrafo único, CPC (BASTOS, Fabrício Bastos. Curso de Processo Coletivo. São Paulo: Editora Foco, 2018, p. 385);
+(c)as regras sobre litispendência e coisa julgada estão no art. 103do CDC. Ali se estabelece, como regra geral, que a coisa julgada será erga omnes, mas somente em caso de procedência do pedido (inciso III). Em caso de improcedência, qualquer que seja a causa, "os interessados que não tiverem intervindo no processo como litisconsortes poderão propor ação de indenização a título individual" (§ 2º) (ZAVASCKI, Teori Albino. Processo coletivo, tutela de direitos coletivo e tutela coletiva de direitos. 7ª edição revista, atualizada e ampliada. São Paulo: Editora Revista dos Tribunais, 2017, p. 181);
+(d) o(s) autor(es) ajuizou(ram) ação individual antes do trânsito em julgado da decisão (de improcedência) oriunda do mandado de segurança coletivo, o que denota o seu interesse em não se vincular(em) aos respectivos efeitos, ainda que tenha(m) sido, ab initio, beneficiado(s) pela liminar nela proferida, e
+( e ) a existência de ação coletiva anterior não obsta o ajuizamento de ação individual (in casu, para assegurar a não devolução dos valores percebidos indevidamente).
+Não há vício de fundamentação ou deficiência na prestação jurisdicional. O fato de o Tribunal a quo haver decidido a lide de forma contrária à tese defendida pela parte, com a utilização de argumentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de Embargos Declaratórios. O simples descontentamento da parte com o julgado não tem o condão de torná-los cabíveis.
+Quanto à questão principal - ou seja, a possibilidade de devolução dos valores recebidos por força de decisão judicial precária - o Superior Tribunal de Justiça entende que essas quantias são passíveis de devolução:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE REFORMADA. RESTITUIÇÃO AO ERÁRIO. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. A jurisprudência desta Corte de Justiça admite a possibilidade de restituição de valores recebidos da Administração Pública por força de liminar ou antecipação de tutela posteriormente revogadas, a fim de evitar o enriquecimento sem causa do beneficiário, sendo desnecessário o ajuizamento de ação autônoma para pleitear a devolução numerário.
+3. Nos termos da jurisprudência consolidada nesta Corte, "tendo a servidora recebido os referidos valores amparada por uma decisão judicial precária, não há como se admitir a existência de boa-fé, pois a Administração em momento nenhum gerou-lhe uma falsa expectativa de definitividade quanto ao direito pleiteado. A adoção de entendimento diverso importaria, dessa forma, no desvirtuamento do próprio instituto da antecipação dos efeitos da tutela, haja vista que um dos requisitos legais para sua concessão reside justamente na inexistência de perigo de irreversibilidade, a teor do art. 273, §§ 2º e 4º, do CPC" (STJ, EREsp 1.335.962/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 02/08/2013).
+4. Agravo interno não provido.
+(AgInt no AREsp 2.091.275/ES, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 17/10/2022. )
+Na hipótese, ao decidir pela impossibilidade de devolução dos referidos valores, a Corte regional divergiu da orientação do STJ, motivo pelo qual merece reforma o acórdão recorrido.
+Diante do exposto, dou parcial provimento ao Recurso Especial, apenas para reconhecer a possibilidade de devolução das importâncias recebidas pelos autores em virtude de decisão liminar posteriormente reformada.
+Publique-se.
+Intimem-se.
