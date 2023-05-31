@@ -1,0 +1,8 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Caio Santos da Silva - condenado pelo crime de roubo circunstanciado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial semiaberto, e 680 dias-multa, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no HC n. 5020572-43.2023.8.24.0000 (fl. 13/23) que manteve a negativa ao recurso em liberdade proferida na sentença condenatória prolatada na Ação Penal n. 5022478-87.2022.8.24.000 (fls. 24/27), da 1ª Vara da comarca de Balneário Camboriú/SC -, não deve ser conhecido.
+Isso porque se alega constrangimento ilegal consistente na deficiência de fundamentação do decreto prisional, porém, os autos não estão suficientemente instruídos, pois, a despeito de juntar cópia da sentença condenatória - que negou o direito ao recurso em liberdade: nego aos réus Lucas e Caio o direito de recorrer em liberdade, pois já se encontram presos preventivamente, persistindo os motivos declinados nas decisões anteriores contidas no presente feito e apresentando-se outros que impedem o benefício da liberdade, quais sejam, o fato de terem sido condenados a cumprir penas em regime inicial fechado semiaberto, respectivamente, neste processo (fl. 26) -, carecem de cópia da decisão que converteu a prisão em flagrante em preventiva, peça indispensável para que seja possível verificar a verossimilhança das alegações.
+Em razão disso, não conheço do presente writ .
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DETERMINAÇÃO DE INÍCIO DA EXECUÇÃO ANTES DO TRÂNSITO EM JULGADO. AUSÊNCIA DE CÓPIA DO ACÓRDÃO HOSTILIZADO. INSTRUÇÃO DEFICIENTE.
+Writ não conhecido.
