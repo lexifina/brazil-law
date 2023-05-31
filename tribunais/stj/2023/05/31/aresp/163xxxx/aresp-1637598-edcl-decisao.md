@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VIA VAREJO S/A à decisão, de relatoria do Ministro Napoleão Nunes Maia Filho, assim ementada:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. ICMS. ENERGIA ELÉTRICA. SUBVENÇÃO FEDERAL. INCLUSÃO NA BASE DE CÁLCULO. ACÓRDÃO FUNDAMENTADO EM DIREITO LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280 DO STF. RECURSO QUE COMBATE ARESTO FUNDADO EM ATO NORMATIVO ESTADUAL COM BASE NO QUE DISPÕE LEI FEDERAL. COMPETÊNCIA DO STF. ART. 102, III, D DA CONSTITUIÇÃO FEDERAL. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO (fl. 445).
+Sustenta a parte embargante erro e contradição no julgado sob o argumento de que:
+(..) resta incompreensível o entendimento de que "a revisão do acórdão recorrido somente seria possível mediante o exame e nova interpretação do Direito local", pois, na verdade, a solução da lide requer apenas aapreciação da matéria à luz dos artigos 12, I e 131, I da Lei Complementar nº 87/96, com base nos quais a lide foi solvida.
+Quanto ao fundamento de que a competência para conhecimento da matéria seria do Supremo Tribunal Federal, em razão do disposto no artigo 102, III, "d" da Constituição Federal, a obscuridade da decisão reside no fato de que o referido diploma constitucional estabelece a competência do Supremo Tribunal Federal para "III -julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida: d) julgar válida lei local contestada em face de lei federal."
+Ocorre que, no caso concreto, conforme bem destacado na decisão embargada, o conflito se dá entre o que estabelece o Decreto Estadual nº 59.581/2013 (ato de governo local) e a Lei Federal (Lei Complementar nº 87/96).
+(..)
+No que diz respeito ao último fundamento da decisão embargada, segundo o qual o Tribunal de origem valeu-se de fundamentação constitucional, notadamente o art. 155, § 2o., XII, g, § 4o. e § 5o., da Constituição Federal, o que inviabiliza o Recurso Especial, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal", cumpre esclarecer que, quanto ao referido fundamento, a embargante interpôs o recurso extraordinário.
+Em outras palavras, referido fundamento não foi objeto do recurso especial, justamente em razão da competência do Supremo Tribunal Federal para julgamento da matéria.
+Nesse sentido, a obscuridade da decisão decorre da incompreensão quanto ao alegado não cabimento do recurso especial com base em fundamento constitucional que motivou a decisão proferida pelo Tribunal de origem, a qual foi objeto do recurso extraordinário interposto pela embargante, em razão da competência exclusiva do Supremo Tribunal Federal para conhecimento e julgamento da matéria em relação ao referido fundamento (fls. 452/454).
+Requer, por fim, o acolhimento dos embargos de declaração "para esclarecer as obscuridades acima apontadas e, via de consequência, dar provimento ao agravo e determinar o regular processamento do Recurso Especial" (fl. 454).
+Não foi apresentada impugnação ao recurso (fl. 461).
+É o relatório.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+De acordo com a jurisprudência desta Corte Superior, a obscuridade sanável por embargos de declaração é aquela interna ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão.
+As alegações da parte embargante envolvem efetiva impugnação à decisão embargada, que teria incorrido em error in judicando, desvirtuando, pois, a natureza do recurso, que não é a de rever entendimento já manifestado e devidamente embasado, como pretendido.
+Ainda que cogitado um suposto erro de avaliação por parte da decisão embargada, a hipótese não justifica a anulação pretendida, pois, não é possível atribuir eficácia infringente ao recurso se ausentes omissão, contradição, obscuridade ou erro material, como no presente caso.
+O Superior Tribunal de Justiça assim já se manifestou:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CONTRADIÇÃO. OMISSÃO. AUSÊNCIA.
+1. Os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+2. Embargos de declaração rejeitados, com aplicação de multa (EDcl no AgInt nos EDcl no CC 179.896/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe 09/12/2021, destaquei).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
