@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por PAULO CARDOSO DE ALMEIDA contra acórdão proferido pela Quarta Turma do STJ, assim ementado (e-STJ, fl. 278):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. De acordo com a jurisprudência desta Corte Superior, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Incidência da Súmula 83/STJ. Precedentes.
+2.1. Derruir as conclusões do Tribunal local, no sentido de aferir a razoabilidade do percentual do salário penhorado, demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 292-330), o embargante aponta divergência entre o acordão recorrido e os seguintes julgados da Terceira Turma desta Corte: AgInt no AREsp n. 1.065.656/RJ e AgInt no AREsp n. 1.786.714/MG.
+Afirma que o "acórdão ora embargado entendeu que a jurisprudência vem flexibilizando o entendimento acerca da impenhorabilidade absoluta do salário, desde que observado percentual capaz de dar guarida à dignidade do Devedor, bem como a de sua família. Uma orientação subjetiva que tampouco leva em consideração a situação concreta em exame" (e-STJ, fls. 304-305).
+Sustenta, por outro lado, que os "acórdãos paradigmas, em casos análogos, estabelecem, objetivamente, que a regra geral da impenhorabilidade somente poderá ser excepcionada, nos termos do artigo 833, IV, § 2º, do Código de Processo Civil, quando o caso concreto se voltar: (i) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e (ii) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo Executado forem superiores a 50 (cinquenta) salários mínimos mensais, devendo, em qualquer circunstância, ser igualmente observada a dignidade do Devedor e de seus familiares" (e-STJ, fl. 305).
+Brevemente relatado, decido.
+O acórdão embargado aplicou a Súmula n. 83/STJ ao presente caso, sob o fundamento de que a jurisprudência desta Corte Superior, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Constata-se que o acórdão embargado está em consonância com o entendimento firmado no âmbito desta Corte. Confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PENHORA DE PERCENTUAL DO SALÁRIO. POSSIBILIDADE. AUSÊNCIA DE DIVERGÊNCIA.
+1. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. Precedentes.
+2. Na espécie, não se constata a alegada divergência, haja vista que o aresto recorrido e o acórdão paradigma estão no mesmo sentido.
+3.Agravo interno não provido.
+(AgInt nos EREsp n. 1.934.570/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 2/5/2023, DJe de 4/5/2023.)
+Logo, tem incidência, na hipótese, o óbice da Súmula 168/STJ, in verbis: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Diante do exposto, indefiro liminarmente os embargos de divergência.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISUM EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA 168/STJ. EMBARGOS INDEFERIDOS LIMINARMENTE.
