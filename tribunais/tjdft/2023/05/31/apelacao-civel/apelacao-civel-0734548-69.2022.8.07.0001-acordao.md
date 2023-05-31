@@ -1,0 +1,101 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0734548-69.2022.8.07.0001APELANTE(S)BANCO DO BRASIL S/AAPELADO(S)ANA ANGELICA GABRIEL CARVALHOSARelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1710397
+
+EMENTA
+
+PROCESSUAL CIVIL. AÇÃO MONITÓRIA APARELHADA POR CONTRATO BANCÁRIO. QUALIFICAÇÃO DA PARTE. ENDEREÇO. DETERMINAÇÃO DE EMENDA. COMPLEMENTAÇÃO DO ENDEREÇO CONSTANTE DA INICIAL. AUTOR. INTIMAÇÃO. APERFEIÇOAMENTO. INÉRCIA. NÃO ATENDIMENTO DO CHAMAMENTO. PROVIMENTO EXTINTIVO. EDIÇÃO. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL INDISPENSÁVEL AO DESENVOLMENTO VÁLIDO E REGULAR DO PROCESSO. INOCORRÊNCIA. INÉPCIA DA INICIAL. VÍCIO INEXISTENTE. ENDEREÇO INDICADO. COINCIDÊNCIA COM O ACERVO DOCUMENTAL COLIGIDO AOS AUTOS. INDICAÇÃO COINCIDENTE COM O FORNECIDO PELA PARTE. ELEMENTOS IDENTIFICADORES. PRESENÇA. INÉPCIA. AUSÊNCIA DE PRESSUPOSTO DE PROCEDIBILIDADE. INDEFERIMENTO DA INICIAL. DESCABIMENTO. PROVIMENTO EXTINTIVO CASSADO. APELAÇÃO PROVIDA.
+
+1. Conquanto cediço que ao juiz, como condutor do processo, assiste o poder de, deparando-se com vícios que enodoam a inicial e obstam o regular desenrolar da relação processual, ou, ainda, apreendendo que não está devidamente aparelhada com os documentos indispensáveis, assim reputados aqueles sem os quais a relação processual não pode sequer ser deflagrada, e não os documentos volvidos a aparelhar o direito invocado, determinar que seja saneada, e, não atendida a determinação, indeferir a peça de ingresso e colocar termo à ação, os vícios passíveis de legitimarem essa resolução terminativa devem subsistir e encerrarem óbices ao aperfeiçoamento e desenvolvimento válido e regular da relação procedimental (CPC, arts. 319, 320, 321 e 485, I).
+
+2. Sobejando dos autos a constatação de que o endereço indicado pelo autor na inicial coincide com o indicado pela parte ré ao firmar o instrumento negocial que aparelha o pedido, e que, ademais, nele fora intimada antes do aviamento da pretensão em ambiente judicial, permitindo apreender o edifício público no qual poderá ser localizada, não subsiste lacuna a induzir que a peça de inauguração da demanda padece de inépcia ou que conduz à apreensão da ausência de pressuposto de procedibilidade, inclusive porque, ainda que eventualmente o ato citatório venha a se frustrar em razão de incompletude do endereço, sobejarão formas de a crise procedimental ser resolvida, no momento próprio, tornando inviável que seja colocado termo à pretensão com base em lacuna que, em princípio, não subsiste.
+
+3. Apelação conhecida e provida. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Junho de 2023
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de apelação[1] interposta pelo Banco do Brasil S/A em face da sentença[2] que, lastreada nos artigos 321, parágrafo único, 330, inciso IV, e 485, inciso I, todos do Código de Processo Civil, assentando a ausência de pressuposto de constituição válida da relação jurídico-processual, decorrente da irregularidade da peça pórtico que aparelha a ação, que, segundo a ótica do eminente juiz sentenciante, não indicara o endereço completo da parte ré, extinguira, sem resolução do mérito, a ação monitória que aviara em desfavor da apelada - Ana Angelica Gabriel Carvalhosa. Diante da ausência de angularização da relação processual, o autor não fora condenado ao pagamento de honorários advocatícios.
+
+Essa resolução fora alinhada ao fundamento de que, conquanto devidamente intimado a impulsionar a marcha processual, no prazo de 15 (quinze) dias, com a finalidade de ser viabilizada a citação, saneando a inicial mediante complementação do endereço da ré, o autor/apelante não acudira à determinação, ensejando a extinção do feito por ausência de pressuposto processual de constituição e desenvolvimento válido do processo, consubstanciado na ausência de elementos aptos a ensejarem a citação e consequente angularização passiva da demanda.
+
+Irresignado, o autor apelara, almejando a cassação do provimento monocrático de modo a lhe ser assegurado o regular processamento da ação de conformidade com o procedimento que lhe é próprio. Como fundamentos da pretensão reformatória, argumentara, em suma, que a decisão vergastada ofendera princípios de índole processual, como o da celeridade, da economia processual e da cooperação, pois, sob sua ótica, a determinação de intimação pessoal da parte permitiria o alinhamento às normas principiológicas ventiladas. Assinalara que, após ser intimado em uma única oportunidade para sanear o vício imputado à petição inicial, apresentando o endereço completo da ré, o Juiz a quo extinguira o feito de modo prematuro, porquanto, frustrada tal diligência, a intimação pessoal da parte seria norma cogente, na esteira do que prevê o artigo 485, § 1º, do Diploma Processual, cuja inobservância consubstanciaria nulidade processual.
+
+Ademais, acentuara que, calcada na efetividade da tutela jurisdicional e no princípio da boa-fé, a excepcionalidade da medida extintiva sem a resolução do mérito não teria sido a mais escorreita, donde emergiria a certeza de que a ilustrada sentença guerreada deve ser cassada, a fim de lhe ser assegurado o regular processamento da ação. Apresentara, alfim, logradouro no qual postulara a realização de nova diligência, ressaltando tratar-se de endereço em que a ré/apelada teria recebido, anteriormente, notificação via aviso de recebimento.
+
+Considerando que a relação processual não se aperfeiçoara, não fora realizada a intimação da parte apelada para, querendo, contrariar o apelo.
+
+O apelo é tempestivo, está subscrito por advogados devidamente constituídos, fora preparado e corretamente processado[3].
+
+É o relatório.
+
+[1] Apelação de ID 43083784 (páginas: 121/128).
+
+[2] Sentença de ID 43083775 (página 106).
+
+[3] Procuração de ID 43083658 (páginas 10/12), ID 43083762 (página 25) e ID 43083781 (páginas 117/119); guia de preparo e comprovante de pagamento de ID 43083785 e ID 43083786 (páginas 129/130).
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabível, tempestivo, preparado, subscrito por advogados devidamente constituídos, satisfazendo, portanto, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do apelo.
+
+Cuida-se de apelação interposta pelo Banco do Brasil S/A em face da sentença que, lastreada nos artigos 321, parágrafo único, 330, inciso IV, e 485, inciso I, todos do Código de Processo Civil, assentando a ausência de pressuposto de constituição válida da relação jurídico-processual, decorrente da irregularidade da peça pórtico que aparelha a ação, que, segundo a ótica do eminente juiz sentenciante, não indicara o endereço completo da parte ré, extinguira, sem resolução do mérito, a ação monitória que aviara em desfavor da apelada - Ana Angelica Gabriel Carvalhosa. Diante da ausência de angularização da relação processual, o autor não fora condenado ao pagamento de honorários advocatícios.
+
+Essa resolução fora alinhada ao fundamento de que, conquanto devidamente intimado a impulsionar a marcha processual, no prazo de 15 (quinze) dias, com a finalidade de ser viabilizada a citação, saneamento a inicial mediante complementação do endereço da ré, o autor/apelante não acudira à determinação, ensejando a extinção do feito por ausência de pressuposto processual de constituição e desenvolvimento válido do processo, consubstanciado na ausência de elementos aptos a ensejarem a citação e consequente angularização passiva da demanda.
+
+Irresignado, o autor apelara, almejando a cassação do provimento monocrático de modo a lhe ser assegurado o regular processamento da ação de conformidade com o procedimento que lhe é próprio. Do aduzido afere-se que o objeto do apelo, pautado pela matéria que fora devolvida a reexame como expressão do efeito devolutivo que está impregnado na gênese da apelação, cinge-se à aferição da inépcia imprecada à inicial, decorrente da apreensão, pelo juiz da causa, de que o endereço indicado pelo apelante estaria incompleto, deixando a peça de ingresso incompleta e legitimando que seja colocado termo à pretensão formulada. Assim pontuada a matéria submetida a reexame, o vício imprecado à inicial e içada como sustentação para edição do provimento extintivo não subsiste.
+
+ Essa apreensão exsurge inexorável da análise da peça de ingresso da ação e dos documentos que emprestaram lastro à pretensão deduzida, porquanto, a despeito do altivo raciocínio empreendido pelo Juízo a quo por ocasião do provimento extintivo ora vergastado, sobejam nos autos elementos suficientes a subsidiarem a materialização do ato citatório, ou, ao menos, para que seja tentado com grande possibilidade de êxito, pois não subsiste incompletude na indicação promovida pelo apelante. Vejamos.
+
+Do cotejo dos autos afere-se que, prolatada decisão determinando a emenda da peça inicial[1], mediante complementação do endereço da ré como meio de subsidiar sua citação pela via postal com aviso de recebimento (AR), ao argumento de que não houvera a indicação da sala, apenas da quadra e bloco correspondentes ao edifício no qual ela labora, sobreviera o provimento extintivo ora arrostado, que extinguira o processo, sem resolução do mérito, sob o fundamento de que o apelante, conquanto devidamente intimado a se manifestar no prazo assinalado, impulsionando o feito, não acudira à determinação, descerrando ausência de pressuposto processual de constituição e desenvolvimento válido do processo, consubstanciado na ausência de retificação da peça exordial e, como consectário, de inexistência de citação da ré.
+
+Sucede que, consoante pontuara a parte presente na angularidade ativa da demanda nas razões de seu apelo, o endereço completo para a efetivação da citação da parte ré figura no acervo documental que servira de supedâneo para a peça pórtico, conforme se depreende da notificação extrajudicial e do respectivo AR recebido no endereço constante do instrumento de notificação[2], ensejando a apreensão de que a ré/apelada exerce seu labor no edifício indicado, subsistindo, sob esse prisma, elementos suficientes para que a citação seja tentada no endereço apontado. Ora, segundo o indicado, a apelada tem domicílio profissional no edifício sede do Banco Central do Brasil, sendo servidora do órgão ou ao menos laborando no prédio.
+
+De mais a mais, o que sobeja é que o endereço indicado na inicial coincide com o endereço indicado pela própria ré ao contratar, não ressoando possível a apreensão de incompletude da inicial, hábil a autorizar seu indeferimento, pois aparelhada com a indicação dos elementos fornecidos pela própria demandada. Outrossim, afere-se que a notificação extrajudicial enviada pelo apelante ao aludido endereço fora recebida, circunstância apta a corroborar a adequação da indicação e a necessidade de deflagração da relação processual, inclusive porque, frustrada a citação, subsistem meios para localização do endereço da apelada. A inicial, portanto, não padece de inépcia nem de lacuna a induzir falta de pressuposto de desenvolvimento válido e regular do processo.
+
+Como consabido, o exercício do direito subjetivo de ação, que é resguardado a todas as pessoas, naturais ou jurídicas, é paramentado pelas formulações procedimentais que paramentam o devido processo legal. Dentre as exigências legalmente estabelecidas para a invocação da tutela jurisdicional inscreve-se, como premissa genética, a formulação da pretensão através de peça tecnicamente adequada e apropriada para, paramentando os fatos e fundamentos, viabilizar a delimitação da pretensão e o exercício do direito de defesa pela parte acionada (CPC, art. 319).
+
+Ao Juiz, como agente estatal encarregado de materializar a jurisdição, é resguardada a faculdade de determinar que o autor supra os vícios que enodoam a inicial, não como expressão de mero rigorismo, mas como forma de assegurar a formação da relação processual e a viabilização de pronunciamento judicial adequado e apropriado para resolver o conflito estabelecido entre os litigantes de forma satisfatória e em consonância com o devido processo legal (CPC/15, art. 321).
+
+Nada obstante, em que pese a existência da faculdade jurisdicional assegurada pelo legislador processual de determinar a colmatação de eventuais lacunas que permeiem a peça inaugural, sobrepuja, in casu, a inexistência de vício na aludida petição inicial, donde ressai a inconsistência do provimento extintivo na forma em que fora concretizado. É que, conquanto tenha havido a determinação de intimação do apelante com o escopo de que fosse informado, em sua inteireza, o endereço da parte ré, tendo transcorrido in albis o prazo assinalado, não poderia ter sido proferida sentença extintiva com esteio nos artigos 321, parágrafo único, 330, IV e 485, I, todos do CPC, como ocorrera, já que, conforme alinhavado, a inicial não padecia de nenhuma deficiência.
+
+Sob essa moldura, em que pese a plausibilidade, em abstrato, de comando judicial exortado com o fito de que haja o fornecimento da forma mais escorreita possível no que tange à qualificação do polo passivo da demanda na peça vestibular, no caso em testilha, o provimento extintivo descerrara excesso de formalismo, mormente porque o acervo documental que a instruíra e que, por óbvio, já compunha o itinerário procedimental fora capaz de apontar o necessário para a efetivação da citação da apelada.
+
+Afinado com os fatos delineados e consoante pontuado, imperioso reprisar que o endereço constante dos autos fora indicado pela própria apelada, donde se extrai a impossibilidade de ser reputada como incompleta a inicial, a ponto de desembocar em seu indeferimento, principalmente ao se ter em mente os princípios da boa-fé objetiva e da lealdade. Outrossim, conforme alinhavado, a constatação de que a notificação enviada pelo apelante ao endereço questionado fora recebida corrobora a adequação da indicação e a necessidade de deflagração da relação processual, inclusive porque, frustrada a citação, subsistem meios para localização de outros endereços da apelada.
+
+Ante essas irreversíveis constatações, infere-se que a extinção da ação fora efetivada em desconformidade com os parâmetros traçados pelos princípios da cooperação, da primazia da resolução de mérito e da razoabilidade. Ora, a extinção do feito sem ter havido sequer tentativa alguma de citação no endereço informado, que, frise-se, contava com elementos capazes de indicar a viabilidade de execução do ato processual colimado, refoge aos critérios da razoabilidade, porquanto havia elementos suficientes no caderno processual para o seu prosseguimento. Nessa toada, tem-se o seguinte precedente desta Corte de Justiça, verbis:
+
+“PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. EMENDA À PETIÇÃO INICIAL. CÉDULA DE CRÉDITO OU NOTA FISCAL DE VENDA DO BEM. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. DESARRAZOADO. DOCUMENTO JÁ CONSTANTE DOS AUTOS. PRINCÍPIOS CONSTITUCIONAIS DO DEVIDO PROCESSO LEGAL, DA ECONOMIA PROCESSUAL E DA COOPERAÇÃO. 1. Apresentada petição inicial irregular ou defeituosa, deve o magistrado, antes de extinguir o feito, oportunizar a parte a emenda da petição inicial. Apenas não cumprida tal determinação é que deve o juiz, com fundamento em texto expresso de lei, julgar extinto o processo nos termos do artigo 485, inciso I, do Código de Processo Civil. 2. A determinação reiterada, feita pelo d. Juiz singular, de apresentação de cédula de crédito bancário ou nota fiscal da venda com a descrição do bem dado em garantia (Id. 7011202), se mostrou desarrazoada no caso em apreço, ante a prévia existência de tais informações no bojo dos autos. 3. O juiz deve atuar atento ao princípio da cooperação, que consiste no dever de cooperação entre as partes para o deslinde da demanda, de modo a se alcançar, de forma ágil e eficaz, a justiça do caso concreto. 4. A novel legislação processual civil privilegia de modo expresso o princípio da primazia, na prestação jurisdicional, da busca pelo julgamento do mérito das demandas, consoante o disposto no art. 4º do NCPC. 5. O indeferimento da petição inicial acarretará tão somente a repropositura da demanda, porquanto a parte autora, apelante, demonstra o interesse em seu prosseguimento. Assim, a alternativa plausível é a de aproveitar a petição inicial, possibilitando-se uma prestação jurisdicional de acordo com a efetividade e celeridade processuais, expurgando-se o excesso de formalismo, e facultando ao postulante a adequação da sua pretensão à legislação procedimental. 6. Recurso conhecido e provido.” (Acórdão 1162341, 07156868320188070003, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 27/3/2019, publicado no DJE: 5/4/2019. Pág.:  Sem Página Cadastrada.) – Grifo nosso.
+
+Ainda nessa linha de assimilação, ressalte-se que o Egrégio Superior Tribunal de Justiça preconiza que “devem reger o processo os princípios da instrumentalidade das formas e do máximo aproveitamento dos atos processuais.” (STJ, AgRg no REsp 1119836/PR, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 13/08/2012). Patenteado que as balizas normativas não foram observadas, sobeja evidente que restara maculado o legalmente exigido e desprezado o devido processo legal, amalgamando na sentença que extinguira a ação o estigma da nulidade por ter sido prolatada em desconformidade com os parâmetros exigidos.
+
+Acrescente-se, ainda, como é consabido, que o processo qualifica-se como simples instrumento para o equacionamento dos conflitos e efetivação do direito material como expressão da justiça, não se justificando sua extinção antes de devidamente elucidado o conflito de interesses deduzido ou estabelecido no seu bojo ou satisfeito o crédito perseguido no seu seio, em se tratando de lide executiva, pois, em assim se procedendo, estar-se-ia negando os seus próprios fins ao se deixar pendente de elucidações as pretensões aduzidas. Ademais, ad argumentandum tantum, na esteira do que fora aventado na peça pórtico, vislumbra-se a possibilidade de ser traçada a inferência de que ressoa provável que a apelada seja servidora pública ou, no mínimo, trabalhe no prédio sede do Banco Central, edifício indicado na comunicação extrajudicial colacionada aos autos.
+
+Alfim, aferido que o provimento judicial extintivo não se conformara com o preceituado pelo estofo normativo e jurisprudencial trazido à baila, o provimento que colocara termo à ação ressente-se, pois, de lastro material, de molde a ensejar sua cassação como forma de ser viabilizada a retomada do fluxo processual e de se permitir que o processo alcance seu desiderato.
+
+Dos argumentos alinhavados de conformidade com o entendimento que atualmente está estratificado no seio dos pretórios nacionais, que privilegia o processo como simples instrumento para a realização do direito e resguardo da paz e estabilidade sociais, infere-se, então, que a extinção do processo restara carente de estofo jurídico passível de lhe assegurar eficácia, impondo-se, então, sua cassação de forma a viabilizar a retomada do fluxo da ação com vassalagem às normas legais que lhe conferem sustentação e viabilidade.
+
+Com fundamentos na argumentação alinhada, provejo o recurso e casso a respeitável sentença desafiada, viabilizando a retomada do fluxo da ação manejada pelo apelante de conformidade com os delineamentos legais que lhe são próprios e a partir do estágio em que se encontra.
+
+É como voto.
+
+[1] Decisão de ID 43083773 (página 104).
+
+[2] Notificação de ID 43083765 e comprovante de AR de ID 43083766 (páginas 61/62).
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME
