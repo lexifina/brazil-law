@@ -1,0 +1,53 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARIA IVONE PELANDA contra acórdão prolatado, por unanimidade, pela 10ª Câmara Cível do Tribunal de Justiça do Paraná no julgamento de Apelação e Recurso Adesivo, assim ementado (fls. 1.021/1.043e):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO INDENIZATÓRIA. QUEDA DA AUTORA NO DESEMBARQUE DE ÔNIBUS DE TRANSPORTE COLETIVO. SENTENÇA DE PROCEDÊNCIA. APELO INTERPOSTO PELA AUTORA E RECURSO ADESIVO AVIADO PELA DEMANDADA.
+1. EXISTÊNCIA DE SUCUMBÊNCIA RECURSAL RECÍPROCA.ART. 997, §1º, DO CPC/2015. POSSIBILIDADE DE INTERPOSIÇÃO DE RECURSO ADESIVO PELA RÉ.
+2. EMPRESA PRIVADA PRESTADORA DE SERVIÇO PÚBLICO.
+RESPONSABILIDADE OBJETIVA. VERSÕES CONFLITANTES SOBRE A DINÂMICA DOS FATOS. REQUERENTE QUE ALTEROU A NARRATIVA NO DECORRER DO PROCESSO. AUSÊNCIA DE COMPROVAÇÃO DO NEXO DE CAUSALIDADE ENTRE A CONDUTA DO CONDUTOR DO ÔNIBUS E OS DANOS SOFRIDOS PELA DEMANDANTE, A QUEM INCUMBIA O ÔNUS DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DE SEU DIREITO. ART. 373, I, DO CPC/2015. REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTE O PEDIDO INICIAL.
+3. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, INCLUSIVE RECURSAIS.
+RECURSO ADESIVO CONHECIDO E PROVIDO.
+APELAÇÃO CÍVEL CONHECIDA, PREJUDICADA A ANÁLISE DO MÉRITO.
+Opostos embargos de declaração, foram rejeitados (fls. 1.012/1.017e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 997, § 1º, do Código de Processo Civil, alegando-se, em síntese, ausência, no caso em apreço, de sucumbência recíproca, pressuposto para a interposição de recurso adesivo.
+Com contrarrazões (fls. 1.109/1.127e), o recurso foi inadmitido (fls. 1.128/1.129e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.167e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.183/1.186e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nas razões recursais, a parte recorrente sustenta ausência de sucumbência recíproca ou material a ensejar o cabimento de recurso adesivo, sendo tal alegação inidônea a infirmar os fundamentos adotados pela Corte de origem, quais sejam, " ..  foram suficientemente explanados os motivos para o conhecimento do recurso adesivo manejado pela parte requerida, haja vista que a Súmula 326/STJ se refere ao ônus de sucumbência, ao passo que a sucumbência exigida para a interposição do recurso adesivo é a material, relacionada aos pedidos deduzidos na demanda" (fl. 1.013e), porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão, razão pela qual o recurso não merece prosperar nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+(..)
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+(..)
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não tem comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013 -destaques meus).
+Outrossim, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Na mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta.
+4. Agravo Regimental do IRGA desprovido.
+(AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. DECADÊNCIA. SÚMULA 211/STJ. DEVOLUÇÃO DE VALORES E PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. CONDIÇÃO DE DEPENDENTE. FILHO MAIOR INVÁLIDO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. O conhecimento de recurso especial fundado na alínea "c" do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial.
+5. Agravo regimental não provido.
+(AgRg no REsp 1.420.639/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração dos honorários anteriormente fixados de 11 % (onze por cento; fl. 992e) para 12 % (doze por cento) do valor da causa, restando suspensa sua exigibilidade, nos termos do art. 98, § 3º, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015, e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
