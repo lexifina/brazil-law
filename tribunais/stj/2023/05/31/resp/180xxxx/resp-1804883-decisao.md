@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de são Paulo assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER. Fornecimento de medicamento para tratamento de edema macular diabético em ambos os olhos Cabe ao Estado propiciar o fornecimento de tratamento prescrito Artigos 5º e 196 da Constituição Federal É necessário que esse direito venha a ser respeitado e implementado pelo Estado, destinatário do comando Constitucional Tema 106 STJ - Ação distribuída antes da conclusão do julgamento do Resp nº 1.657.156/RJ - Inaplicabilidade do Tema em razão da modulação de seus efeitos Redução de honorários advocatícios sucumbenciais Necessidade ante seu valor excessivo Bem jurídico cujo valor é inestimável Recurso voluntário e oficial providos em parte Retorno dos autos à Turma Julgadora, nos termos do artigo 1.040, II, do Código de Processo Civil, tendo em vista o julgamento do REsp nº 1.850.512/SP Tema nº 1.076 do STJ Acórdão mantido Decisão mantida.
+A recorrente sustenta:
+(..)
+No entanto, o v. acórdão reformou parcialmente a r. sentença de 1.0 grau, referente aos honorários advocatícios, diminuindo este para a quantia de R$ 3.000,00 (três mil reais).
+Ora, nobres Ministros, o v. acórdão violou o princípio da isonomia processual, porque se o Estado fosse vencedor na presente demanda, a parte autora não pagaria a título de honorários o valor de R$ 3.000,00 (três mil reais) e sim a quantia de 10% a 20% sobre o valor da causa, nos exatos termos do artigo 85, § 3.º do CPC.
+"Data vênia", é absurdo imaginar que o advogado trabalhe por vários anos em um processo para, somente ao final, receber a irrisória importância de R$ 3.000,00 (três mil reais) fixada no v. acórdão, especialmente quando exerce seu mister em instituição filantrópica.
+O dispositivo legal citado é assaz claro, não carece sequer de interpretação, se mostrando regramento legal a ser seguido incontinente.
+Não está o Ilustre Magistrado "a quo" acima da lei, não podendo, então, fixar os honorários abaixo no mínimo legal, como o fez.
+Aliás, como já dito, tal se mostra como afronta a este subscritor, mormente levando-se em conta os critérios para fixação da verba honorária. Abstrai-se que o Insigne prolator da r. sentença atacada, ao fixar os honorários muito abaixo do mínimo legal, entendeu que este advogado não mostrou zelo profissional, que a causa não tinha importância, que não realizou um bom trabalho ou dispensou muito tempo para seu serviço; o que efetivamente não corresponde com a verdade. Tanto é que a ação foi julgada procedente, tendo este advogado êxito na sua demanda.
+(..)
+Os autos foram baixados à origem, na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1.040 e seguintes do CPC/2015, para que novo pronunciamento fosse exarado em atenção ao Tema 1.076/STJ. O Tribunal a quo, então, manteve a decisão primígena e devolveu o feito ao STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.5.2023.
+Extrai-se do decisum impugnado que o entendimento da Corte estadual está em harmonia com a orientação do STJ, no sentido de que a obrigação de fazer imposta ao Estado, relativa a fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde, bens constitucionalmente garantidos e cujo valor é inestimável - o que justifica a fixação de honorários por equidade. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE MEDICAMENTOS. CAUSA DE VALOR INESTIMÁVEL. HONORÁRIOS SUCUMBENCIAIS. ARBITRAMENTO POR EQUIDADE. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. A obrigação de fazer imposta ao Estado, relativa a fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente, bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+2. Agravo Interno a que se nega provimento.
+(AgInt nos EDcl no REsp .878.495/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 20/4/2023.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE TRATAMENTO MÉDICO. DIREITO À SAÚDE. VALOR INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. POSSIBILIDADE.
+1. A Corte Especial, no julgamento dos Recursos Especiais 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1.076 - acórdão ainda pendente de publicação), sob o rito dos repetitivos, estabeleceu a seguinte orientação: "I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa;
+II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (Informativo 730 do STJ, de 28/3/2022).
+2. A jurisprudência das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça autoriza o arbitramento de honorários advocatícios por critério de equidade nas demandas em que se pleiteia do Estado o fornecimento de tratamento médico, haja vista que, nessas hipóteses, não é possível mensurar, em geral, o proveito econômico obtido com a ação, por envolver questão relativa ao direito constitucional à vida e/ou à saúde.
+3. Agravo interno não provido.
+(AgInt no REsp 1.890.101/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 28/4/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO QUE VISA O FORNECIMENTO DE MEDICAMENTOS PELO PODER PÚBLICO. ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIOS DE EQUIDADE. ART. 85, § 8o., DO CPC/2015. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO PROVIDO.
+1. Conforme recente orientação jurisprudencial deste STJ, a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente, bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+2. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO provido, para reconhecer a necessidade de fixação dos honorários advocatícios por critérios de equidade, conforme o teor do art. 85, § 8o., do CPC/2015.
+(AgInt no AREsp 1.568.584/SP, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF 5), Primeira Turma, DJe de 17/2/2022.)
+Por tudo isso, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
