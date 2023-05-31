@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de NIELSON ASSIS GARCIA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0012022-86-2013.8.26.0050).
+Depreende-se dos autos que o réu foi condenado à pena de 8 anos e 4 meses de reclusão, em regime inicial fechado, pela prática dos delitos previstos nos arts. 157, § 2º, incisos I, II e V, e 180, ambos do Código Penal (e-STJ fls. 9/18).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso, conforme acórdão assim ementado (e-STJ fl. 20 ):
+ROUBO MAJORADO e RECEPTAÇÂO. Apelação que espera a absolvição por insuficiência probatória. Impossibilidade. Confissão em juízo e reconhecimento seguro pelas vítimas. Conduta dos roubadores que indica conhecimento de tratar-se de patrimônios distintos. Concurso formal dos roubos mantido. Desnecessidade de apreensão das armas empregadas para configuração da causa de aumento Precedentes. Fixação da pena-base da receptação acima do piso legal com fundamentos idôneos. Majoração da terceira fase em razão das três causas de aumento do roubo bem dosado. Regime inicial fechado necessário para a reprovação e punição das condutas. Apelo improvido.
+O acórdão transitou em julgado em 17/3/2014.
+Daí o presente writ, no qual a defesa sustenta ilegalidade na dosimetria, ante o aumento da pena na fração de 1/2 na terceira fase da dosimetria quanto ao delito de roubo. Acrescenta, ainda, não ter sido apresentada fundamentação idônea para a exasperação da pena-base referente ao delito de receptação (e-STJ fl. 6).
+Requer, inclusive liminarmente, o refazimento da dosimetria.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Ademais, no caso, verifico ter o acórdão ora impugnado transitado em julgado em 17/3/2014, isto é, há cerca de 9 anos, de forma que entendo que não deve ser dado conhecimento ao writ que pretende sua desconstituição.
+De todo modo, ainda que assim não fosse, não vislumbro flagrante ilegalidade na dosimetria da pena, pois a fundamentação utilizada pelo Tribunal de origem se encontra em consonância com a jurisprudência desta Corte Superior (e-STJ fls. 24/25):
+Por fim, a dosimetria das penas não comporta qualquer ajuste.
+A pena-base do roubo foi fixada no piso legal e aumentada de metade em razão da presença das três majorantes, mas não exclusivamente em decorrência desse número, mas da especial gravidade de que se revestiu a conduta, afinal, quatro pessoas renderam dois funcionários da transportadora, sob a mira de arma de fogo e os mantiveram sob ameaça durante quase uma hora.
+A fixação da pena-base da receptação acima do piso legal foi bem fundamentada. Destaque-se que a duração eleita de 2 anos, apesar de ser o dobro do piso, é ainda metade do teto legal. Entendeu o MM. Juiz que a receptação de um automóvel (no caso, valendo mais de R$ 6.000,00) não deve ser equiparada à de telefones celulares ou bicicletas, bens de valor bastante inferior.
+Ademais, não reputo inidôneo o fundamento acessório de que a proximidade do receptador com o autor do crime antecedente de roubo inspire punição mais rigorosa, eis que a reprovabilidade da conduta me parece diluir conforme o bem circula no mercado negro. Assim, aquele que, como NIELSON, compra carro por um décimo do valor, sabendo ser produto de roubo há menos de dois meses, merece maior punição.
+Apesar disso, ficou com a pena corporal por esse crime fixada em apenas 1 ano e 4 meses, em razão da confissão espontânea e menoridade relativa (Grifei).
+Este o cenário, não conheço do habeas corpus.
+Publique-se. Intimem-se.
