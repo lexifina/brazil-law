@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NATURE DERME PHARMACIA DE MANIPULAÇÃO LTDA contra a decisão monocrática proferida pelo Ministro Manoel Erhardt (Desembargador convocado do TRF da 5ª Região) que conheceu do agravo para conhecer parcialmente do recurso especial com base nas Súmulas 7 e 83 do STJ e, na parte conhecida, negar-lhe provimento por inexistência de negativa de prestação jurisdicional (fls. 1.655/1.659).
+Em suas razões, a parte embargante aduz que teria apontado na origem a existência de erro material sanável pela via dos embargos, visto que "  o objeto do presente writ não contempla segurança para manipular cosméticos sem prescrição médica, como aventado no acórdão prolatado pelo Tribunal a quo, mas, sim, segurança para o fim de, em síntese, determinar às autoridades apontadas como coatoras que se abstenham de aplicar qualquer tipo de sanção à ora Embargante pela preparação, manutenção em estoque, exposição e comercialização de fitoterápicos cuja composição constitui-se de substâncias de livre comercialização  " (fls. 1.667/1.668), situação que afastaria a incidência da Súmula 83/STJ.
+Ao final, pugna pelo acolhimento dos embargos.
+Impugnação às fls. 1.686/1.689.
+É o relatório.
+Compulsando os autos, constato que não merece guarida a alegada violação do art. 1.022 do CPC/2015, porquanto a decisão embargada manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação ou retificação do decisum.
+Em estudo das razões dos embargos, verifico nítido propósito de rediscussão do mérito da causa por via transversa, uma vez que a parte aduz argumentação no sentido de reverter o entendimento assentado monocraticamente, tendo a decisão embargada sido enfática na fundamentação inerente ao mérito, que concluiu tanto pela inexistência de violação ao art. 1.022 do CPC/2015 quanto pela não ocorrência de julgamento ultra petita.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou er ro material a ensejar esclarecimento ou complementação do que já decidido, mas apenas a intenção de rediscussão do mérito da causa, devem os embargos ser rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
