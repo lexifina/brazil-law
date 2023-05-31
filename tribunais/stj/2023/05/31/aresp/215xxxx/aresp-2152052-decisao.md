@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por CONSELHO REGIONAL DE FARMACIA DO ESTADO RIO DE JANEIRO contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO nos termos da seguinte ementa (fl. 286):
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. AUTO DEINFRAÇÃO. MULTA. CONSELHO REGIONAL DE FARMÁCIA. UNIDADE BÁSICA DE SAÚDE. UNIDADE SEM INFORMAÇÃO DE LEITOS. NÃO OBRIGATORIEDADE DE FARMACÊUTICO. RECURSO NÃO PROVIDO.
+1. Apelação interposta contra sentença que, nos autos de execução fiscal julgou procedente o pedido para desconstituir certidão de dívida ativa (CDA) decorrente de aplicação de multa em auto de infração por ausência de farmacêutico em dispensário de medicamento de unidade de pronto atendimento de saúde.
+2. Art. 24, Lei nº 3.820/60. Arts. 6º e art. 8º, parágrafo único da Lei nº 13.021/2014. Exigência de farmacêutico em dispensário de medicamentos.
+3. Precedente do Superior Tribunal de Justiça (STJ). "Dispensário de medicamentos" não se confunde com "farmácias" ou "drogarias" para fins de presença obrigatória de farmacêutico (STJ, 1ª Seção, REsp1.110.906, Rel. Min. HUMBERTO MARTINS, DJ 23.5.2012).
+4. STJ. Dispensa de responsável técnico em hospitais de pequeno porte.
+5. STJ. Distinção entre pequenas, grandes e médias unidades hospitalares, para fins de verificação da obrigatoriedade da presença de farmacêuticos. Posicionamento atual do STJ: dispensa de obrigatoriedade da presença de farmacêuticos para pequenas unidades hospitalares ou equivalentes, que segundo o Glossário do Ministério da Saúde, é de até 50 (cinquenta) leitos.
+6. Local autuado: unidade básica de saúde. Ausência de informação de leitos nos autos.
+7. Precedente do Tribunal Regional Federal da 2ª Região (TRF-2). "No caso, os estabelecimentos autuados são Unidades Básicas de Saúde, localizadas no município de Vitória - ES. Nesse sentido, não resta demonstrada a dispensação de medicamentos a usuários externos. Deste modo, impõe-se a manutenção da sentença que declarou a anulação das autuações em relação às unidades de saúde que forem dotadas de menos de 50 (cinquenta) leitos" (TRF-2, 5ª Turma, AC 0000664-41.2018.4.02.5001, Rel. Des. Fed. ALCIDES MARTINS, julg. 9.9.2020)
+8. Apelação não provida.
+Nas razões do recurso especial (fls. 295-314), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 6º, g, da Lei n. 3.820/1960 e 3º, 4º, 5º, 6º e 8º da Lei n. 13.021/2014, sustentando que a revogação do termo dispensário de medicamentos previsto na Lei n. 5.991/1973 pela Lei n. 13.021/2014 resulta na equiparação do dispensário de medicamentos à farmácia privativa. Com isso, alega que há obrigatoriedade da assistência farmacêutica naqueles locais.
+Sem contrarrazões (fl. 361), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 373-375), o que ensejou a interposição do presente agravo (fls. 386-408).
+Sem contraminutas do agravo (fls. 422-423).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, "mesmo com a inovação trazida pela Lei n. 13.021/2014, é desnecessária a presença de farmacêutico em dispensário de medicamentos em pequena unidade hospitalar. Apesar da inovação legislativa, não foi superada a tese firmada no REsp 1.110.906/SP (Tema n. 483/STJ)" (AREsp n. 1.985.200/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2022, DJe de 26/9/2022).
+Confira-se ainda:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONSELHOS DE FISCALIZAÇÃO. DESNECESSIDADE DA PRESENÇA DE FARMACÊUTICO EM DISPENSÁRIO DE MEDICAMENTOS. AGRAVO IMPROVIDO.
+1. Inicialmente, não prospera a tese de violação do art. 1.022 do CPC, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+3. O acórdão impugnado está em sintonia com a jurisprudência desta Corte Superior de que, mesmo na vigência da Lei n. 13.021/2014, é desnecessária a presença de farmacêutico em dispensário de medicamentos em pequena unidade hospitalar. A propósito: AgInt no AREsp n. 1.570.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgInt no AREsp n. 1.425.981/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19/11/2019.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.955.290/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/5/2022, DJe de 3/6/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHOS DE FISCALIZAÇÃO. DESNECESSIDADE DA PRESENÇA DE FARMACÊUTICO EM DISPENSÁRIO DE MEDICAMENTOS. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento firmado nesta Corte Superior de Justiça, mesmo na vigência da Lei 13.021/2014, é desnecessária a presença de farmacêutico em dispensário de medicamentos em pequena unidade hospitalar. Apesar da inovação legislativa, permanece vigente a tese firmada no REsp 1.110.906/SP (Tema 483).
+2. Agravo Interno desprovido.
+(AgInt no AREsp n. 1.963.565/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Desse modo, estando o acórdão recorrido em conformidade com a orientação jurisprudencial deste Tribunal, incide a Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que impede o conhecimento do recurso por ambas as alíneas.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
