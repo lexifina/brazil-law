@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto pela Hit Participações Ltda. e outras em face da decisão que não conheceu do Recurso Especial, assim ementada (fl. 3.427):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 8º, DO CPC/2015. APRECIAÇÃO EQUITATIVA. PROVEITO ECONÔMICO. REEXAME DA CONCLUSÃO A QUE CHEGOU O TRIBUNAL A QUO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA 284/STF. PRECEDENTES. RECURSO NÃO CONHECIDO.
+Em suas razões, a parte agravante alega, em síntese, que houve violação do artigo 85, §§ 2º, 3º, 4º, III, do CPC/2015, uma vez que o TJSP condenou o Estado de São Paulo ao pagamento de honorários advocatícios fixados sobre o valor da causa, sem observar a ordem legal da base de cálculo para os honorários, tendo em vista que, no caso concreto, está quantificado o valor da condenação pelo proveito econômico das Recorrentes, que se traduz no valor da CDA anulada.
+Acrescentam que " ..  pela simples leitura das razões recursais resta cristalino que a matéria ora tratada é a adoção do valor da condenação ou proveito econômico já quantificado como base de cálculo para base dos honorários advocatícios, sendo certo que o deslinde da questão não prescinde do reexame de provas, na medida em que trata-se de matéria exclusivamente de direito" (fl. 3.449).
+Defende ainda que este " ..  Colendo Tribunal já analisou a questão em diversas oportunidades, versando sobre a impossibilidade de utilizar o § 8º do art. 85 para redução de honorários tidos por excessivos" (fl. 3.450).
+Com impugnação.
+Diante dos argumentos aqui trazidos, dou provimento ao agravo interno no sentido de exercer o juízo de retratação em relação à decisão de fls. 3.427-3.430, tornando-a sem efeito, nos termos do caput do artigo 259 do RI/STJ, e após, voltem os autos conclusos para nova apreciação do recurso especial.
+Publique-se. Intimem-se.
