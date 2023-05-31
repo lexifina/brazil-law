@@ -1,0 +1,6 @@
+DECISÃO
+Em petição protocolada às e-STJ fls. 2.068/2.083, os advogados Dr. Josemar Lauriano Pereira, OAB/RJ 132.101, Dr. Antônio Eduardo Gonçalves de Rueda, OAB/PE 16.983, Dra. Maria Emília Gonçalves de Rueda, OAB/PE 23.748, e Dra. Cláudia Virgínia Carvalho Pereira de Melo, OAB/PE 20.670 informaram que foi decretada falência da empresa ora recorrida, Federal De Seguros S/A em Liquidação Extrajudicial, tendo o Juízo nomeado De Paula Alves Sociedade Individual de Advocacia, representada pelo sócio e advogado, Mauro de Paula, OAB/SP 142.000, para administrar a massa falida.
+Diante disso, determinei a suspensão do feito e a intimação do administrador, no endereço que consta às e-STJ fls, 2.068 e 2.081, a fim de que procedesse a regularização da representação processual, no prazo de 15 (quinze) dias (e-STJ fls. 2.085/2.086).
+Todavia, conforme certidão à e-STJ fl. 2.099 e informação à e-STJ fl. 2.103, foi infrutífera a diligência, diante da devolução pelos Correios da correspondência com a informação de que a empresa recorrida "mudou-se".
+Nesse passo, providencie-se a intimação por EDITAL, dando-lhe ciência da necessidade de regularização processual, sob pena de adoção das medidas previstas no art. 76, § 6º, do CPC/2015.
+Publique-se. Intimem-se.
