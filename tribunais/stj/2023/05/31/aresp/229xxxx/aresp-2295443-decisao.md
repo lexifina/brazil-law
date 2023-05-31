@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  agravo  interposto  pelo  MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL,  contra  decisão que inadmitiu recurso especial manejado em face de acórdão que confirmou a liminar deferida para substituir a prisão preventiva de ANDERSON JAQUET GONÇALVES por medidas cautelares diversas.
+Opostos  embargos  de declaração pelo Ministério Público estadual  (fls.  78/83),  estes  foram  rejeitados  (fls.  92-95).
+Nas  razões  do  recurso  especial  (fls.  102-112),  a  Defesa  sustenta negativa de vigência aos arts. 312 e 619, ambos do Código de Processo Penal, sob a seguinte alegação: " ..  o ora recorrido, juntamente com o corréu Thiago, consoante expressamente reconhecido no aresto objurgado, foi abordado em local conhecido como ponto de tráfico, tendo sido apreendida nos domínios dos acusados, 10 porções de maconha (13,50g), 74 pedras de crack (9,70g) e 15 porções de cocaína (8,90g). Ainda, consoante expressamente destacados nos aclaratórios ministeriais, o paciente "não conseguiu manter-se longe das práticas delitivas, tendo sido preso em flagrante em 20/10/2021 justamente pela prática, em tese, do delito de tráfico de substâncias entorpecentes, oportunidade em que foi posto em liberdade também por este juízo com a aplicação de medidas cautelares diversas. Menos de 1 (um) mês depois, tornou a envolver-se com a mesma espécie de delito" (fl. 108).
+Verifica-se "Contrariedade ao artigo 619 do Código de Processo Penal", sob o argumento de que "a conclusão evidenciada por ocasião do julgamento da apelação ministerial não levou em consideração as questões imprescindíveis aos desate da quaestio" (fl. 110).
+Ao final, "pugna-se pela desconstituição do acórdão prolatado em sede de embargos de declaração, a fim de que outro seja proferido em seu lugar, com a análise dos aspectos suscitados na medida integrativa oposta pelo Ministério Público" (fl. 112).
+Contrarrazões (fls. 153-161), o recurso foi inadmitido na origem pela incidência das Súmulas n. 7 e 83, ambas do STJ (fls. 168-175).
+O  Ministério  Público  Federal  opinou  pelo  não conhecimento do recurso especial  (fls.  547-549).
+É  o  relatório.
+Decido.
+O  presente  recurso  encontra-se  prejudicado.
+Consoante se depreende dos autos foi prolatada sentença absolutória pelo Tribunal de Justiça do Estado do Rio Grande do Sul, a qual julgou improcedente a ação penal, absolvendo ANDERSON JAQUET GONÇALVES e THIAGO LACERDA MARTINS quanto aos crimes previstos nos arts. 33, caput, e 35, ambos da Lei 11.343/2006, conforme consta da sentença acostada aos autos (fls. 515-521), cuja parte final determina o seguinte:
+"Isto posto, REJEITO a preliminar e, no mérito, julgo IMPROCEDENTE a denúncia para absolver os réus ANDERSON JAQUET GONCALVES e THIAGO LACERDA MARTINS das sanções dos arts. 33, caput, e art. 35, caput, da Lei n. 11.343/06. Custas pelo Estado.
+Determino a destruição de eventuais amostras guardadas para contraprova dos entorpecentes apreendidos, mediante certificação nos autos, nos termos do artigo 72 da Lei n. 11.343/06. Encaminhe-se a droga apreendida para incineração, de imediato, inclusive a parte remetida ao IGP, conforme Ofícios-Circulares 72/2014 e 31/2015 da egrégia CGJ, caso tal providência ainda não tenha sido adotada" (fls. 520-521).
+Desse  modo,  forçoso  reconhecer  a  prejudicialidade  do  recurso,  porquanto  esvaziado  o  objeto  do  presente  recurso  especial.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer (fls. 547-549, grifos no original):
+"7. O recurso está prejudicado.
+8. Conforme fls. 215/220, em 12.12.2022, foi proferida sentença que julgou improcedente a ação penal, absolvendo o agravado dos crimes previstos nos artigos 33, caput, e 35, ambos da Lei nº 11.343/06, de modo que não há mais interesse em se discutir a necessidade de prisão preventiva.
+Posto isto, o Ministério Público Federal manifesta-se pelo não conhecimento do recurso, em razão da perda superveniente de seu objeto"
+Nos termos da jurisprudência deste Superior Tribunal, "Proferida sentença nos autos da ação penal a que se referem os autos, fica prejudicado o pedido de revogação da prisão por ausência de fundamentação no decreto preventivo, pois, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, eventual custódia do paciente decorre agora de novo título judicial, devendo os seus fundamentos serem submetidos à análise do Tribunal de origem antes de aqui apreciados, porquanto vedada a supressão de instância. Precedentes desta Corte e do Supremo Tribunal Federal - STF." (AgRg no RHC n. 58.539/MG, Sexta Turma, Rel. Min. Ericson Maranho (Desembargador convocado do TJ/SP), DJe 04/09/2015).
+No mesmo sentido, confira-se:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA.
+SENTENÇA ABSOLUTÓRIA IMPRÓPRIA. SUPERVENIÊNCIA. APLICAÇÃO DE MEDIDA DE SEGURANÇA DE INTERNAÇÃO. NOVO TÍTULO JUDICIAL. WRIT PREJUDICADO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Embargos de declaração recebidos como agravo regimental, em homenagem ao princípio da celeridade e economia processual.
+2. Com a superveniência da prolação de sentença absolutória imprópria, novo título judicial, com a aplicação de medida de internação, fica prejudicado o recurso ordinário interposto com o objetivo de obter a revogação da prisão preventiva.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no RHC n. 125.592/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 03/06/2020).
+Ante  o  exposto,  acolho o parecer ministerial e, com  fulcro  no  art.  253, parágrafo único, inciso II, alínea a,  do  Regimento  Interno  do  STJ,  conheço do agravo para não conhecer do recurso especial, nos  termos  da  fundamentação  supra.
+P. I.
+EMENTA
+PENAL.  AGRAVO EM RECURSO  ESPECIAL.  TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE DEMONSTRAÇÃO DO PERICULUM LIBERTATIS. SUPERVENIÊNCIA DE SENTENÇA ABSOLUTÓRIA.  PERDA  DE  OBJETO.  PARECER DESFAVORÁVEL DO MINISTÉRIO PÚBLICO FEDERAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO  ESPECIAL .
