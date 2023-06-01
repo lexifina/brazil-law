@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por José Marcos da Silva Durval contra o Centro Comunitário Social Alto Paraíso e o Município de Andorinha, objetivando o pagamento de verbas trabalhista referentes a contrato de trabalho firmado com o primeiro demandado.
+A ação foi aviada perante o Juízo de Direito da 2ª Vara de Feitos de Relação de Consumo, Cível e Comerciais da Comarca de Senhor do Bonfim/BA, que declinou de sua competência.
+Distribuído o feito ao Juízo da Vara do Trabalho de Senhor do Bonfim/BA, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que as parcelas pleiteadas no presente processo não decorrem de relação de emprego ou sequer de trabalho entre as partes, mas, de contrato de locação celebrado entre a reclamante e a 1ª reclamada para prestar serviços à 2ª reclamada.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+Compulsando os autos, observa-se que os pedidos iniciais se restringem ao pedido de pagamento de contraprestação financeira por serviços prestados à OSCIP - CECOSAP, de responsabilidade subsidiária do Município de Andorinha/BA, bem como a condenação da parte recorrida em indenização por danos morais.
+Não há, de fato, pedido expresso de reconhecimento de vínculo empregatício ou cobrança de verbas trabalhistas propriamente ditas, o que afasta a possibilidade de atração da competência para o processamento e julgamento da ação para a Justiça laboral.
+Desse modo, irrefutável a natureza civil da presente demanda, de modo a atrair a competência da Justiça estadual à presente hipótese.
+A propósito:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA FEDERAL COMUM. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, PROPOSTA CONTRA A UNIÃO, POR EMPREGADA DE EMPRESA PRESTADORA DE SERVIÇOS, SOB FUNDAMENTO DE CALÚNIA E INJÚRIA PRATICADAS POR SERVIDOR PÚBLICO FEDERAL. DEMANDA FUNDADA, NÃO EM RELAÇÃO DE EMPREGO, MAS EM RESPONSABILIDADE CIVIL COMUM. COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL.
+(CC 120.485/CE, relator Ministro Teori Albino Zavascki, Primeira Seção, DJe de 19/6/2012.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E DO TRABALHO. AÇÃO DE COBRANÇA. VALORES SUPOSTAMENTE DEVIDOS PELA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE EM AUTOMÓVEL DE PROPRIEDADE DO AUTOR. ÍNDOLE CIVIL DA DEMANDA. EMENDA CONSTITUCIONAL Nº 45/04. RELAÇÃO DE TRABALHO. NÃO CARACTERIZAÇÃO. COMPETÊNCIA. JUSTIÇA ESTADUAL.
+1. Mesmo com a ampliação da competência da Justiça do Trabalho em decorrência da alteração da expressão "relação de emprego" para "relação de trabalho", a Emenda Constitucional nº 45/04 não retirou a atribuição da Justiça estadual para processar e julgar ação alusiva a relações contratuais de caráter eminentemente civil, diversa da relação de trabalho.
+2. A competência ratione materiae define-se pela natureza jurídica da controvérsia, delimitada pelo pedido e pela causa de pedir.
+3. A presente ação de cobrança objetiva compelir o Município réu a pagar diferenças contratuais, não adimplidas espontaneamente, decorrentes da prestação de serviços de transporte em veículo de propriedade do autor. Observa-se que não há, na petição inicial, qualquer pretensão de natureza trabalhista, como adicionais, férias, décimo terceiro ou FGTS, mas apenas o pagamento de duas parcelas de R$ 1.500,00 (mil e quinhentos reais) cada, tal como previsto no próprio contrato celebrado.
+4. Assim, não há relação de trabalho, no caso, mas simples obrigação de natureza civil, decorrente de contrato de prestação de serviços de transporte.
+5. Conflito de competência conhecido para declarar competente o Juízo de Direito da Vara Cível de Jaguarari/BA, o suscitante. (CC 117.722/BA, relator Ministro Castro Meira, Primeira Seção, DJe de 2/12/2011.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito da 2ª Vara de Feitos de Relação de Consumo, Cível e Comerciais da Comarca de Senhor do Bonfim/BA .
+Publique-se. Intimem-se.
