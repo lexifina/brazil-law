@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por ALIPIO GOMES DE OLIVEIRA contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, "a", da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE / INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRELIMINAR. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL DA PARTE AUTORA. COMPROVAÇÃO. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL DE VALIDADE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. CABIMENTO.
+RECURSO PREJUDICADO. I - Nos termos do art. 104 do Código de Processo Civil, ao advogado não será permitido postular em juízo sem procuração, salvo em casos excepcionais listados naquele diploma legal, tratando-se, pois, de pressuposto processual de validade subjetivo. II - Uma vez intimada a parte autora, pessoalmente, para dizer se teria conhecimento da demanda supostamente por ela ajuizada por intermédio da representação de advogado, e dizendo ela não ter ciência daquela, evidencia-se a ausência de pressuposto processual de validade, pois o profissional da advocacia não pode promover ação judicial para buscar direito alheio sem poderes para tanto, levando, pois, à conclusão possível e única de que não contratou o profissional o qual supostamente a representa. III - Assim, diante desse cenário, considero que a procuração em questão não pode ser reconhecida como válida porque o objeto contratual nela expresso deixou de ser lícito, razão pela qual o processo deve ser extinto, sem resolução de mérito, com resp aldo no art. 485, IV, do CPC IV - Razões da apelação prejudicada." (fl. 171, e-STJ).
+Nas razões do especial o recorrente alegou violação dos artigos 105, 319, 320 do CPC e 5º da Lei n. 8.906/1994.
+Sustentou, em síntese, que é descabido o indeferimento da petição inicial e que é indevida a condenação do advogado ao pagamento de custas processuais, ao argumento de que não houve captação de clientela e que há procuração atribuindo poderes.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Inicialmente, verifica-se que o conteúdo normativo dos artigos 319 e 320 do CPC tidos por violados, não foram debatidos pelo Tribunal de origem, sequer de modo implícito, e tampouco foram opostos embargos declaratórios. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mais, o Tribunal de origem, diante da análise das provas constantes nos autos concluiu que
+"(..)
+No caso, embora a petição inicial tenha sido instruída com procuração, demonstrando, em princípio, que o autor teria outorgado poderes de representação ao advogado Luiz Fernando Cardoso Ramos (ordem nº 03), tal instrumento não pode ser considerado como válido.
+(..)
+Como se pode observar, o autor foi categórico ao afirmar que não tinha conhecimento do ajuizamento da presente ação, levando, pois, à indubitável conclusão possível e única de que não contratou o profissional o qual supostamente o representa.
+Assim, diante desse cenário, considero que a procuração em questão não pode ser reconhecida como válida porque o objeto contratual nela expresso deixou de ser lícito, em razão da questão acima exposta.
+Por isso, assim como o fez o magistrado de primeiro grau, esta 20ª Câmara Cível também tem sido levada a intimar, previamente, a parte autora para confirmar a procuração outorgada ao aludido profissional e o conhecimento da ação, constatando-se, pois, a mesma situação, qual seja, desconhecimento das demandas.
+Assim, uma vez intimada a parte e tendo esta dito que não contratou o procurador para representá-la nesta ação, reconheço ser a hipótese de inadmissão recursal, com amparo no art. 76, § 2º, I, do CPC." (fls. 176/178, e-STJ)
+Diante desse contexto, o acolhimento das teses veiculadas nas razões do recurso especial, demandaria o reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, ante o óbice das Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (onze por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 13% (treze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
