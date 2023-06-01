@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interpostos pelo Instituto Nacional do Seguro Social contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+CUMPRIMENTO DE SENTENÇA Ação acidentária contra o INSS.
+1. Correção monetária Necessidade de se observar a coisa julgada Utilização específica do INPC determinada pelo STJ, mesmo na vigência da Lei nº 11.960/2009 Acolhimento da conta do credor.
+2. RMI Valor implantado que diverge daquela apurado pelo credor e pela própria contadoria Necessidade de revisão do valor do benefício em manutenção para posterior apuração de diferenças, sempre com observância dos critérios definidos no título executivo.
+3. Pedido de reserva dos honorários contratuais Possibilidade Apresentação do contrato antes da expedição do precatório ou do mandado de levantamento Inteligência do art. 22, § 4º, da Lei nº 8.906/1994 Precedentes do Colendo Superior Tribunal de Justiça.
+RECURSO PROVIDO.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Em sede de recurso especial fundamentado na alínea "a" do permissivo constitucional, o agravante aponta violação aos artigos 2º, 141, 492 e 1022, II, do CPC/2015.
+Aponta negativa de prestação jurisdicional.
+Assevera que "da leitura da exordial do Agravo o credor discordou dos cálculos da Contadoria, referente ao valor da RMI, ausência do aumento real, deferimento da expedição do precatório do incontroverso, com a reserva dos honorários, e termo final dos honorários advocatícios. Não há qualquer pedido com relação à Lei 11.960/09, questão que, inclusive, já foi dirimida. O v. acórdão, no entanto, homologa a conta do credor sob o fundamento de que: "a única crítica feita pela contadoria diz respeito ao critério de atualização monetária, pois não observada as disposições da Lei nº 11.960/2009". Assim, o v. Acórdão é claramente extra petita no sentido de que julgou outra coisa mas não o pedido do credor.".
+Sem contrarrazões ao recurso especial.
+Juízo negativo de admissibilidade amparado na Súmula 7/STJ, bem como na ausência de violação ao art. 1022 do CPC/2015.
+É o relatório, decido.
+O agravante impugnou devidamente os fundamentos adotados na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+De início, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, resolveu de modo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin, julgado em 21/6/2018, DJe 22/11/2018)
+Assim, a alegada violação ao art. 1.022 do CPC/2015 não merece provimento.
+Observa-se, ainda, que a tese recursal vinculada aos arts. 2º, 141, 492 do CPC/2015, não foi invocada pelo insurgente no primeiro momento perante a instância a quo, qual seja, contraminuta ao agravo (e-STJ fl. 318), tendo sido veiculada apenas em sede de embargos de declaração, o que configura indevida inovação recursal e impede o conhecimento da insurgência em decorrência da preclusão consumativa.
+No ponto, inclusive, o Tribunal expressamente consignou que "Não se pode ignorar o silêncio da autarquia, que deixou de responder ao recurso e, agora, busca modificar o resultado do julgamento em sede de embargos declaratórios, através da modificação do enfoque jurídico adotado pela Turma julgadora, seja mediante a reapreciação dos fatos, o reexame da prova ou, ainda, a correção na interpretação e aplicação do direito, o que é inadequado nesta via processual. É nítido o propósito infringente".
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO DE INCONSTITUCIONALIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. TESE NÃO VENTILADA NO RESP. VIOLAÇÃO AO ART. 1.022 DO CPC. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ART. 2º DA LEI N. 9.784/1999 E ART. 12, VI, da Lei n. 9.656/1998. INCIDÊNCIA DA SÚMULA N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.(..)
+II - A tese relativa à declaração de inconstitucionalidade do art. 85, § 19 do Código de Processo Civil e arts. 29 a 36 da Lei n. 13.327/2016 porquanto incompatíveis com o disposto no art. 135 da Constituição da República foi apresentada apenas quando da interposição do agravo regimental, o que configura inadmissível inovação recursal.
+III - A questão da ausência de recibo que ateste ter havido a cobrança de honorários de instrumentador cirúrgico, embora alegada na petição inicial, não foi suscitada nas contrarrazões de apelação, sendo trazida posteriormente em sede de embargos de declaração, o que, no ponto, configura indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+IV - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ. malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos suscitados arts. 2º da Lei n. 9.784/199 e 12, VI, da Lei n. 9.656/1998.(..)
+XI - Agravo Interno improvido. (AgInt no REsp 1821061/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+2. O aresto vergastado anotou que alegação de que o índice de correção monetária aplicável é a taxa Selic não pode ser conhecida porque não foram prequestionadas. Ademais afirmou: "Não se pode reputar como omisso o Tribunal de origem quanto ao exame de tais matérias, que não foram suscitadas em Apelação".
+3. A jurisprudência do Superior Tribunal de Justiça é de que os argumentos não apresentados em momento oportuno não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa. Além disso, a jurisprudência desta Corte também é pacífica no sentido de que o requisito do prequestionamento é indispensável mesmo em questões de ordem pública.
+4. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados. (EDcl no AgInt no AREsp n. 1.790.481/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/10/2021, DJe de 10/12/2021.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. ARTIGO 1.022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. INOVAÇÃO RECURSAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
