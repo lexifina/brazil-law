@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIO CESAR ARAUJO SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1501916-58.2021.8.26.0228.
+Consta nos autos que o Agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias multa, por trazer consigo, para fins de tráfico, 2,1g de crack e 41,8g de maconha (fls. 174-1835).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que negou provimento à apelação defensiva (fls. 360-385).
+Nas razões do recurso especial, aponta-se ofensa ao art. 158-B do Código de Processo Penal, sob o argumento de que "não houve descrição detalhada do vestígio no momento em que foi encontrado, também não foi feita a descrição no laudo oficial, ou seja, o perito não compareceu ao local dos fatos, e por fim, mas não menos importante, não foi realizada sequer a ilustração do vestígio por fotografia, filmagens ou croqui" (fl. 297).
+Contrarrazões às fls. 304-308.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 320-323).
+É o relatório. Decido.
+O regramento estabelecido pelo art. 158-B do Código de Processo Penal tem como objetivo resguardar a idoneidade do caminho que deve ser percorrido pela prova até sua análise judicial, de modo que interferências ilícitas durante o trâmite processual podem resultar na sua imprestabilidade. Todavia, para que verifique a nulidade, é imprescindível que seja demonstrado o risco concreto de que os vestígios coletados tenham sido adulterados.
+No caso, a Corte estadual afirmou não haver nenhuma indicação de que a prova material tenha sido adulterada. Ao revés, todos os elementos dos autos, inclusive os termos de encaminhamento e o laudo pericial produzido, militam no sentido de que o vestígio colhido foi recebido e processado de forma idônea.
+A esse respeito, extrai-se do acórdão estadual:
+"Com o devido respeito ao posicionamento do Defensor Público que subscreve as razões de apelação, não houve quebra da cadeia de custódia.
+Trata-se de instituto que visa assegurar a idoneidade e a confiabilidade do caminho a ser percorrido pela prova desde sua apreensão até a apreciação judicial.
+É uma garantia ligada ao princípio do devido processo legal, assim como ampla defesa, contraditório e, especialmente, o direito à prova lícita.
+Todavia, a interpretação literal a restrita das disposições previstas no art. 158 e seguintes do Código de Processo Penal praticamente inviabilizaria todo o trabalho policial. Isso porque, a prevalecer o entendimento do defensor, em todo e qualquer crime em que houvesse qualquer apreensão, o local deveria ser preservado, um perito criminal deveria lá comparecer, o produto da apreensão deveria receber um código de rastreamento etc.
+Não há material humano nas policiais do Estado de São Paulo e, quiçá, de qualquer outro estado brasileiro.
+Desse modo, percebe-se que o intuito do legislador, como dito anteriormente, foi garantir a idoneidade da prova produzida. E para que uma prova se considerada não idônea, a que se comprovar que foi conspurcada de alguma forma. O que não ocorreu no caso destes autos.
+Os tóxicos foram apreendidos, submetidos à laudo de constatação e encaminhados para confecção do laudo químico-toxicológico. Não há nos autos qualquer mínimo indício de que a prova tenha sido corrompida." (fls. 262-263, sem grifos no original).
+Nesse contexto, não havendo o mínimo indício de adulteração ou interferência indevida no processamento do vestígio, não há falar em quebra da cadeia de custódia.
+Sobre o tema, confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. NULIDADE. INTERCEPTAÇÃO TELEFÔNICA. AUSÊNCIA DE INTEGRIDADE E INTEGRALIDADE. AUSÊNCIA DE CADEIA DE CUSTÓDIA. NÃO CONFIGURAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE ILEGALIDADE.
+1. Na hipótese, o Tribunal apontou que o reconhecimento da nulidade na cadeia de custódia demandaria uma incursão aprofundada no exame da prova "na medida em que pressuporia a oitiva dos depoimentos judiciais prestados pelas testemunhas acima indicadas e seu cotejo com os demais elementos de prova, num juízo que claramente desborda do espectro do "habeas corpus"" .
+2. Além disso, apontou que "tampouco há como se assentar, ao menos à luz dos documentos trazidos à impetração, que a defesa não tenha tido acesso à integralidade das provas produzidas, tal como fornecidas à polícia federal".
+3. O instituto da quebra da cadeia de custódia refere-se à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, e uma vez ocorrida qualquer interferência durante o trâmite processual, esta pode implicar, mas não necessariamente, a sua imprestabilidade. Não é o que se tem no caso dos autos, em que não houve comprovação por parte da defesa de qualquer adulteração no iter probatório.
+3. Agravo regimental improvido." (AgRg no RHC n. 147.885/SP, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021, sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA. CONCUSSÃO. CORRUPÇÃO PASSIVA. INTERCEPTAÇÕES TELEFÔNICAS. LEGALIDADE. TRANSCRIÇÃO NA ÍNTEGRA DAS INTERCEPTAÇÕES TELEFÔNICAS. DESNECESSIDADE. MATERIAL DISPONIBILIZADO À DEFESA. QUEBRA DA CADEIA DE CUSTÓDIA. REVOLVIMENTO DE ACERVO PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão que autoriza a interceptação telefônica não precisa ser exaustiva, mormente se considerado haver extenso acervo probatório indicativo da prática de ilícitos penais, como no caso em tela, em que os agentes foram reconhecidos por vítimas das concussões, além de haver extenso histórico de averiguações por abuso de autoridade.
+2. A transcrição na íntegra das interceptações telefônicas é despicienda, mormente quando disponibilizado seu teor na integralidade à defesa, como no caso em tela (Precedentes).
+3. Não se acolhe alegação de quebra na cadeia de custódia quando vier desprovida de qualquer outro elemento que indique adulteração ou manipulação das provas em desfavor das teses da defesa, porquanto demandaria extenso revolvimento de material probatório.
+ .. " (AgRg no RHC n. 125.733/SP, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021, sem girfos no original.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE INOBSERVÂNCIA DA CADEIA DE CUSTÓDIA. AUSÊNCIA DE QUALQUER INDÍCIO DE ADULTERAÇÃO DAS PROVAS. ALEGAÇÃO GENÉRICA DE NULIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. RECURSO ESPECIAL DESPROVIDO.
