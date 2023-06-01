@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por POTIGUAR FAST FOOD LTDA, contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 682, e-STJ):
+CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO, DE ABUSIVIDADES CONTRATUAIS E ENCARGOS EXCESSIVOS (JUROS E CORREÇÃO). NECESSIDADE DE DECLARAÇÃO NA PETIÇÃO INICIAL DO VALOR QUE SE ENTENDE CORRETO E APRESENTAÇÃO DA CORRESPONDENTE MEMÓRIA DO CÁLCULO. ÔNUS LEGAL IMPOSTO AO DEVEDOR. NÃO APRESENTAÇÃO POR PARTE DO DEVEDOR. EMBARGANTE QUE NÃO CUMPRIU SEU ÔNUS PROCESSUAL DE APRESENTAR PLANILHA DE CÁLCULOS. APLICAÇÃO DO ART. 917, § 3º, DO CPC. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA. EXISTÊNCIA DE EXTRATOS NO PROCESSO QUE PERMITIRIAM QUE O EXECUTADO REBATESSE O VALOR APRESENTADO PELO EXEQUENTE. NÃO APRESENTAÇÃO DE PLANILHA PELO EMBARGANTE (EXECUTADO) NO MOMENTO PROCESSO ADEQUADO. PRECLUSÃO. PEDIDO DE REMESSA DO PROCESSO PARA A CONTADORIA JUDICIAL DO TJRN. PEDIDO QUE SOMENTE SE JUSTIFICARIA SE O EXECUTADO APRESENTASSE TABELA DE CÁLCULOS QUE GERASSE OU ENSEJASSE DÚVIDA QUANTO AOS REAIS VALORES EXECUTADOS. INÉRCIA DO EXECUTADO QUANTO AO PONTO QUE NÃO PODE SER SANADA NESSA ETAPA DO PROCESSO. CONHECIMENTO E DESPROVIMENTO DO RECURSO. PRECEDENTES.
+- De acordo com dicção do art. 917, § 3º, do CPC, quando alegar que o exequente, em excesso de execução, pleiteia quantia superior à do título, o embargante declarará na petição inicial o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo.
+- Quando o excesso de execução for fundamento dos embargos, o embargante deverá declarar na petição inicial o valor que entende correto, apresentando memória do cálculo(apresentando planilha discriminada de cálculos), sob pena de rejeição liminar dos embargos ou de não conhecimento desse fundamento.
+- É ônus do executado provar, com a oposição dos embargos, que a execução incorre em excesso, sob pena de preclusão (STJ - AgRg no AREsp 150.035/DF, Relator Ministro Humberto Martins, Segunda Turma, julgado em 28/05/2013).
+- No caso, o executado não trouxe planilha contendo o valor que entende correto e que demonstre a incidência de juros e correção monetária cobradas erroneamente, como supostamente defende.
+- Apesar de alegar que não tinha acesso a extratos, o executado/embargante sequer formula pedido requerendo o fornecimento de extratos para auxiliar seus cálculos, conforme vemos nos pedidos - fls. 19-21 - ID 13004270. E mais: nas fls. 141-271 - ID13004280, há dezenas de extratos bancários para poderiam permitir que o executado elaborasse seus cálculos em contraposição aos da instituição exequente, o que não foi feito.
+- Também não houve cerceamento do direito de defesa, pois o executado sequer indicou por meio de planilha qual o valor deveria constar como sendo o objeto da execução. O processo somente deveria ser remetido à perícia judicial se o executado tivesse trazido alguma tabela de cálculos contendo valor diverso do que está sendo executado para, ao menos, permitir o estabelecimento de dúvida quanto ao montante executado.
+- Essa inércia do executado, em desatendimento ao previsto no art. 917, § 3º, do CPC, gerou preclusão de suas teses.
+- Também não procede o argumento de que vinha realizando consignação em pagamento, pois o documento anexado nas fls. 122-126 - ID 13004273 somente demonstra uma carta assinada unilateralmente pelo Potiguar Fast Food EIRELI EPP (executada/recorrente),sem demonstração de envio para o banco e sem demonstração de que foi recebido pela instituição. Ademais, somente existe a comprovação de consignação do valor de R$ 866,55(oitocentos e sessenta e seis reais e cinquenta e cinco centavos) e nenhuma outra mais.
+Em suas razões recursais (fls. 383/390, e-STJ), a insurgente apontou, além de dissídio jurisprudencial, violação aos artigos 330, 331, 334,420, 355, 369 e 370 do Código de Processo Civil/15. Sustentou, em síntese, cerceamento de defesa em razão do indeferimento da produção da pericial.
+Contrarrazões às fls. 396/397, e-STJ.
+Em juízo de admissibilidade (fls. 398/402, e-STJ), negou-se o processamento do recurso especial, com amparo nas Súmula 282 e 356 do STF; 7 do STJ.
+Daí o agravo (fls. 403/413, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refutar os óbices aplicados pela Corte estadual.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. No tocante ao alegado cerceamento de defesa ante o indeferimento da produção da prova pericial, o Tribunal local assim concluiu (fl. 372, e-STJ):
+Não houve cerceamento do direito de defesa, pois a executada sequer indicou por meio de planilha qual o valor deveria constar como sendo o objeto da execução. O processo somente deveria ser remetido à perícia judicial se a executada tivesse trazido alguma tabela de cálculos contendo valor diverso do que está sendo executado para, ao menos, permitir o estabelecimento de dúvida quanto ao montante executado.
+Essa inércia da executado, em desatendimento ao previsto no art. 917, § 3º, do CPC, gerou preclusão de suas teses.
+Com efeito, a alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão, porquanto não suscitadas no momento oportuno) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7 do STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. ILEGITIMIDADE PASSIVA. PRECLUSÃO. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PERCENTUAL DA COMISSÃO DE CORRETAGEM PARA A TEMPORADA DE 2004-2005. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal de inexistência de preclusão sobre a tese de ilegitimidade passiva embasada em documento novo demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+2. Esta Corte Superior possui jurisprudência no sentido de que "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/06/2016, DJe 01/07/2016).
+3. O exame da pretensão recursal de reforma do entendimento da Corte local quanto ao percentual da corretagem para o período da temporada de 2004-2005 ante a ocorrência de comportamento contraditório e preclusão exigiria o revolvimento do conjunto fático-probatório dos autos e a interpretação do contrato, o que é vedado na via especial ante os óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.343/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+2. Importante consignar, ademais, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de compensação por danos morais.
+2. A deficiente fundamentação importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo não provido.
+AgInt no AgInt no AREsp 1493642/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/12/2019, DJe 18/12/2019)
+3. Do exposto, com fulcro no art. 932 do CPC c/c Súmula 568 do STJ, conheço do agravo para, de plano, negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CP C, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
