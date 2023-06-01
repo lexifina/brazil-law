@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de petição interposta por ANTONIO SÁLVIO FURTADO DE FIGUEIREDO contra a decisão de fls. 1293/1294 que rejeitou os embargos declatórios opostos da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, repete os argumentos já embargados (fls. 1304/1305):
+Ocorre senhor Ministro Relator, que a defesa não se sente indiferente a decisão ora impugnada pois foi comprovado que impugnou de forma direta todos os pontos que entendeu necessitar de reparos.
+Para tanto, efetivamente, individualizou todos os pontos controvertidos e apontou os artigos que entende haverem sido violados, o afastamento da súmula 182 do STJ e o ferimento a artigos do CP e CPP que foram violados, dentre eles a súmula 545 do STJ e o artigo 29 pa"ragrafo 1ª, do CP.
+Registra-se novamente que a impugnação apta a infirmar a decisão agravada, nos termos da jurisprudência desta Corte, deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020), o que não ocorreu no caso.
+Assim, mantém-se o não conhecimento do agravo em recurso especial, conforme decisão de fls. 1277/1278, e o consequente indeferimento do pedido feito pelo ora requerente na petição 00441143/2023 de fls. 1299/1306.
+Publique-se. Intimem-se.
