@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Vale S.A, contra decisão de fls. 1983/1986, que deu provimento ao seu recurso para reconhecer o direito da parte contribuinte de aproveitar o saldo de IPI decorrente das aquisições de matérias-primas, produtos intermediários e materiais de embalagem tributados, nas saídas de produtos não tributados.
+A parte embargante afirma a existência de omissões na decisão recorrida, a saber: "(i) deixou de se manifestar quanto ao direito da parte à atualização - pela Taxa Selic - do crédito reconhecido, nos termos do entendimento histórico e consolidado da jurisprudência, que reconhece que o crédito não aproveitado em razão de impedimento causado pelo Estado deve ser atualizado; e, (ii) não tratou do disposto no art. 74, da Lei nº 9.430/96, que dispõe sobre a possibilidade de aproveitamento de crédito reconhecido via ação judicial por meio de compensação, com outros tributos federais, transmitida junto à Receita Federal do Brasil" (fl. 1.989).
+Aberta vista à parte embargada, transcorreu in albis o prazo para apresentação de impugnação (fl. 1.997).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação da parte embargante prospera, nos termos adiante expostos.
+No caso, foi reconhecido o direito da parte contribuinte de aproveitar o saldo de IPI decorrente das aquisições de matérias-primas, produtos intermediários e materiais de embalagem tributados, nas saídas de produtos não tributados.
+Assim, tendo havido o reconhecimento do direito do contribuinte, é possível pleitear a compensação dos valores indevidamente recolhidos, atualizados pela Taxa SELIC, observada a legislação de regência e o prazo prescricional quinquenal (RE 566.621-RG/RS).
+ANTE O EXPOSTO, acolho os embargos declaratórios de Savarauto 2000 Comércio de Veículos Ltda. e Outros, com efeitos infringentes, para reconhecer o direito à compensação dos valores indevidamente recolhidos e de sua atualização monetária, nos termos da lei de regência, observada a prescrição quinquenal.
+Publique-se.
