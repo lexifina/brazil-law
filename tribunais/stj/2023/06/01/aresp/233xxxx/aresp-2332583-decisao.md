@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1004791-09.2019.8.26.0073) assim ementado (fl. 336):
+Apelação Obrigação de fazer cumulada com indenizatória Insurgência de ambas as partes Exclusão do nome dos autores do programa destinado a moradias populares promovido pela requerida CDHU, sob a alegação de que poderiam ser proprietários de imóvel em decorrência de herança Os autores demonstraram não possuir outro imóvel e a mera expectativa de aquisição de direitos hereditários não lhe garantiriam moradia, até mesmo porque o bem a inventariar possui mais uma co-herdeira. Danos morais. Ocorrência. O inadimplemento contratual gerou aos autores transtornos e dissabores excessivos, capazes de perturbar a paz de espírito em grau suficiente para autorizar a indenização por danos morais, pois era legítima a expectativa que eles tinham de receber o imóvel após terem sido contemplados de unidade habitacional Recurso da ré não provido, provido o dos autores.
+Nas razões do recurso especial, a ora agravante aponta negativa de vigência aos arts. 186 e 944 do Código Civil. Argumenta que "não houve responsabilidade quanto a obrigação de fazer imposta na sentença, pois não restou demonstrada a culpa da Recorrente nesse sentido. Isso porque, em relatório de vistoria informou que durante a avaliação constataram que após a ampliação e alteração executada na edificação ocorreu uma sobre carga na parede original não prevista em projeto e que orientaram a requerente sobre a responsabilidade nas ampliações executadas que descaracterizaram o projeto original da casa" (fls. 351-352).
+Aduz ainda que, "no arbitramento de indenizações por danos morais, devem ser observados os princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto no art. 5º, inciso V e X, da Constituição Federal e nos artigos 186 e 927, caput, ambos do Código Civil Brasileiro".
+Requer o conhecimento e o provimento do recurso.
+Contrarrazões às fls. 365-369.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Verifica-se que as alegações relativas à responsabilidade sobre suposta ampliação de edificação não guardam pertinência com o caso dos autos, evidenciando-se, assim, a deficiência na fundamentação que inviabiliza a compreensão da controvérsia. Hipótese de aplicação da Súmula n. 284 do STF.
+Além disso, as demais alegações constantes do recurso especial não se relacionam aos dispositivos legais supostamente violados. Incide, novamente, o óbice da Súmula n. 284 do STF.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
