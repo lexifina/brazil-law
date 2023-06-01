@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ, a decisão de minha lavra, que não conheceu do Agravo para negar provimento ao Recurso Especial interposto pela parte ora embargada.
+Sustenta a parte embargante a existência de omissão em relação à condenação ao honorários advocatícios recursais, previstos no art. 85, § 11, do CPC/2015.
+Impugnação da parte embargada, requerendo a rejeição dos Embargos.
+Os Embargos de Declaração merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+De fato, considerado que o acórdão recorrido foi proferido na vigência do CPC/2015, havendo anterior condenação em honorários contra a parte recorrente e sendo conhecido o agravo para negar provimento ao seu recurso especial, de rigor a majoração da verba a título de honorários recursais, consoante dispõe o art. 85, § 11, do CPC/2015.
+Desse modo, cabe corrigir a omissão constante na decisão embargada no capítulo referente aos honorários advocatícios. Assim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, ora embargante, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, acolho os presentes Embargos de Declaração, para sanar omissão acerca da fixação dos honorários advocatícios recursais , nos termos da fundamentação.
+I.
