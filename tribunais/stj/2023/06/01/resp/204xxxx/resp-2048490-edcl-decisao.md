@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo DNIT, contra decisão de minha lavra, publicada em 28/02/2023, que conheceu parcialmente do Recurso Especial, e, nessa extensão, negou-lhe provimento.
+Inconformada, sustenta a parte embargante que:
+"A omissão na decisão embargada consiste na ausência de condenação da parte recorrente na majoração da verba honorária(arbitramento de honorários sucumbenciais recursais), conforme previsão constante do art. 85, § 11, do CPC/2015, que apresenta o seguinte teor:
+(..)
+Note-se que (i) houve prévia fixação de honorários em desfavor da empresa ré/recorrente (cf. Sentença -fl. 476e); e (ii) a intimação do acórdão regional recorrido foi expedida/certificada em 23/05/2022(fls.565/566e), ou seja, posteriormente à vigência do novo CPC, incidindo, portanto, a nova regra, conforme Enunciado Administrativo nº 07 do STJ:
+(..)
+Com estas considerações, o DNIT postula o conhecimento e acolhimento dos presentes Embargos de Declaração a fim de que seja reconhecida e sanada a omissão apontada, com a condenação da parte recorrente na majoração dos honorários advocatícios, nos termos do art. 85, § 11, do Novo Código de Processo Civil (CPC/2015)" (fls. 680/681e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 702/704e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o ree xame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, inexistindo omissão, uma vez que a majoração dos honorários advocatícios em sede recursal não foi objeto de prequestionamento pelo Tribunal de origem, conquanto tenha havido fixação dos honorários sucumbenciais na sentença.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. INEXISTÊNCIA DE ATO ADMINISTRATIVO. OBRIGAÇÃO DE FAZER. DANOS MORAIS. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO INTERNO. OMISSÃO. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de ação declaratória de inexistência de ato administrativo, cumulada com ação de obrigação de fazer, cumulada com indenizatória por danos morais. A sentença, em relação à primeira autora, julgou improcedentes os pedidos formulados na inicial, na forma do art. 487, I, do CPC. No que tange aos demais autores, julgou extinto o processo, sem análise do mérito, tendo em vista a coisa julgada, na forma do art. 485, V, do Código de Processo Civil. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC e na
+incidência da Súmula n. 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente os referidos óbices.
+II - Na hipótese dos autos, o decisum foi claro no sentido de que a parte agravante somente trouxe alegações genéricas a respeito dos óbices, insuficientes, pela sua generalidade, para que fosse considerada impugnada a decisão recorrida.
+III - Cabia à parte recorrente trazer jurisprudência recente que amparasse a sua tese, não bastando: meras alegações nesse sentido; a transcrição de ementas de julgados anteriores aos citados na decisão que negou seguimento ao recurso especial; ou ainda, a mera alegação de que a matéria é diversa, sem fundamentação.
+IV - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados" (STJ, EDcl no AgInt nos EDcl no AREsp 1.934.615/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 02/06/2022).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
