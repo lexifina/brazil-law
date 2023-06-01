@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado por Basalto Pedreira e Pavimentação Ltda. contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 1100):
+APELAÇÃO Ação de Cobrança de Cláusula Penal "Contrato para Extração de Pedras de Jazida e Acessórios" e Instrumento Particular de Promessa de Cessão e Transferência de Direitos Minerários Propositura contra empresa e fiadores - Alegação de inadimplemento contratual, pelo não cumprimento de várias obrigações ajustadas Sentença de improcedência Inconformismo das partes: das autoras pleiteando a reforma da sentença para que a ação seja julgada procedente; dos corréus fiadores suscitando preliminar de ilegitimidade passiva e de prescrição e pugnando pela majoração dos honorários; da empresa corré pugnando pelo reconhecimento da prescrição e a majoração dos honorários advocatícios Preliminares rejeitadas - Natureza moratória da cláusula penal cobrada pelas autoras, prevista no art. 411 do CC, que não configura "bis in idem" Recursos dos réus desprovido, provido o das autoras para julgar a ação procedente.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 189, 206, § 3º, III, e 408 Código Civil de 2002, e 178, § 10, III, do Código Civil de 1916.
+Sustenta que é trienal a prescrição incidente à pretensão de cobrança pretendida pelas agravadas Casa Grande e Basalto, cujo termo inicial corresponde ao momento da infração contratual.
+Requer seja declarado prescrito o direito das agravada à cobrança da multa objeto da cláusula penal do contrato.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A irresignação não prospera.
+Conforme consta do acórdão recorrido, na origem, " p ugna ram  as autoras pela condenação das rés ao pagamento da multa prevista na "CLÁUSULA 21ª" do "CONTRATO PARA EXTRAÇÃO DE PEDRAS DE JAZIDA E ACESSÓRIOS" de fls. 62/76, sob alegação do descumprimento de várias das obrigações contratuais ajustadas" (fl. 1103).
+As razões do especial apontam que o Tribunal de origem, ao não reconhecer essa pretensão como prescrita, violou as normas de regência atinentes ao prazo prescricional trienal.
+A orientação jurisprudencial desta Corte, contudo, entende ser decenal o prazo prescricional incidente às hipóteses de responsabilidade contratual, com aplicação, portanto, do art. 205 do Código Civil de 2002.
+A esse respeito, confiram-se os seguintes precedentes:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, §3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos.
+6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos.
+(EREsp n. 1.280.825/RJ, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 27/6/2018, DJe de 2/8/2018.)
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO CARACTERIZADO. PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DECORRENTE DA RESPONSABILIDADE CIVIL CONTRATUAL. INAPLICABILIDADE DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. SUBSUNÇÃO À REGRA GERAL DO ART. 205, DO CÓDIGO CIVIL, SALVO EXISTÊNCIA DE PREVISÃO EXPRESSA DE PRAZO DIFERENCIADO. CASO CONCRETO QUE SE SUJEITA AO DISPOSTO NO ART. 205 DO DIPLOMA CIVIL. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, o que, in casu, consiste em definir o prazo prescricional incidente sobre os casos de responsabilidade civil contratual.
+II - A prescrição, enquanto corolário da segurança jurídica, constitui, de certo modo, regra restritiva de direitos, não podendo assim comportar interpretação ampliativa das balizas fixadas pelo legislador.
+III - A unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual.
+IV - Corrobora com tal conclusão a bipartição existente entre a responsabilidade civil contratual e extracontratual, advinda da distinção ontológica, estrutural e funcional entre ambas, que obsta o tratamento isonômico.
+V - O caráter secundário assumido pelas perdas e danos advindas do inadimplemento contratual, impõe seguir a sorte do principal (obrigação anteriormente assumida). Dessa forma, enquanto não prescrita a pretensão central alusiva à execução da obrigação contratual, sujeita ao prazo de 10 anos (caso não exista previsão de prazo diferenciado), não pode estar fulminado pela prescrição o provimento acessório relativo à responsabilidade civil atrelada ao descumprimento do pactuado.
+VI - Versando o presente caso sobre responsabilidade civil decorrente de possível descumprimento de contrato de compra e venda e prestação de serviço entre empresas, está sujeito à prescrição decenal (art. 205, do Código Civil).
+Embargos de divergência providos.
+(EREsp n. 1.281.594/SP, relator Ministro Benedito Gonçalves, relator para acórdão Ministro Felix Fischer, Corte Especial, julgado em 15/5/2019, DJe de 23/5/2019.)
+Dessa forma, não há como acolher as teses do ora agravante, relacionadas à aplicação de prazo prescricional não incidente à espécie.
+Logo, incide ao ponto o óbice contido na Súmula 284/STF, dado que não é possível compreender a tese exposta pela parte, o que configura deficiência na fundamentação do recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
