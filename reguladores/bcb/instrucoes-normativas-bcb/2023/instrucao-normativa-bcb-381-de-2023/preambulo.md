@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 381, DE 15 DE mAIO DE 2023
+Consolida os procedimentos para a remessa por meio de arquivo ao Banco Central do Brasil de informações relativas a ingressos de moeda estrangeira com valores em reais preestabelecidos no exterior e operações de compra e de venda de moeda estrangeira, de que tratam, respectivamente, o inciso I, do art. 81, e o § 3º, do art. 78, da Resolução BCB nº 277, de 31 de dezembro de 2022.
+O chefe do Departamento de Monitoramento do Sistema Financeiro (Desig) e o chefe do Departamento de Regulação Prudencial e Cambial (Dereg), no uso das atribuições que lhes conferem os arts. 23, inciso I, alínea “a”, 77, incisos III e IV, e 118, incisos II, alínea “a”, e IV, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista o disposto na Resolução BCB nº 277, de 31 de dezembro de 2022,
+R E S O L V E M :
