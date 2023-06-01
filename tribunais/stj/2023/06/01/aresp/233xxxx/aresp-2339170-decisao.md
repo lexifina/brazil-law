@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BANCO BRADESCO S/A, contra decisão que não admitiu recurso especial (fls. 292/294 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 198, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO CONTRA DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE NO ARTIGO 1.030, INCISO I, ALÍNEA "B", DOCÓDIGO DE PROCESSO CIVIL. HIPÓTESES DE CABIMENTO DE AGRAVO DE INSTRUMENTO. NATUREZA JURÍDICA DA LISTA DOART. 1.015 DO CPC/2015. TAXATIVIDADE MITIGÁVEL EM DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS 19.12.2018, DATA DA CONCLUSÃO DO PUBLICAÇÃO DO ACÓRDÃO PARADIGMA.ÓRGÃO JULGADOR DE QUE A DECISÃO RECORRIDA NÃO ESTÁ PREVISTA NAS HIPÓTESES DO ART. 1.015 DO CPC E NÃO PREENCHE OS REQUISITOS PARA MITIGAÇÃO DA TAXATIVIDADE. ACÓRDÃO EM HARMONIA COM A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DOS RECURSOS ESPECIAIS 1.704.520-MT E 1.696.396-MT (TEMA 988 DO STJ),JULGADOS SOB A ÉGIDE DOS RECURSOS REPETITIVOS. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta ofensa aos artigos 373, 1015 e 1030 do CPC/15, 4º, IX, do Decreto-Lei 22.626/33. Sustenta, em síntese, que deve ser reconhecida a possibilidade de cabimento do agravo de instrumento
+Sem contrarrazões (fl. 289, e-STJ), o apelo não foi admitido na origem (fls. 292/294, e-STJ), dando ensejo ao agravo (fls. 297/313, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 329, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, verifica-se que o recurso especial (fls. 243/261, e-STJ) foi interposto contra o acórdão de fls. 198/205, e-STJ, que julgou agravo interno apresentado contra a inadmissibilidade do recurso especial decorrente de tese repetitiva (Tema 988), nos termos do art. 1.030, I, "b", do CPC.
+Nesse contexto, conforme entendimento desta Corte, não é cabível novo recurso especial contra acórdão que, em juízo de retratação, nega provimento ao agravo interno apresentado com base no art. 1.030, § 2º, do CPC, por considerar que o entendimento adotado está de acordo com a orientação do STJ, como no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO PREVISTO NO ART. 1030, § 2º, CPC. NEGATIVA DE PROVIMENTO. MANUTENÇÃO DA APLICAÇÃO DA TESE REPETITIVA. INTERPOSIÇÃO DE NOVO RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O STJ firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual" (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/3/2014, DJe 1º/4/2014).
+2. Inadmissível, pois, a interposição de novo recurso especial contra acórdão que, em juízo de retratação, nega provimento ao agravo interno apresentado com base no art. 1030, § 2º, do CPC, por considerar que o entendimento adotado está de acordo com a orientação do Superior Tribunal de Justiça firmada no recurso representativo da controvérsia. Precedentes: AgInt no AREsp 945.255/PA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/9/2018, DJe 8/10/2018; AgInt no AREsp 908.392/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/2/2017, DJe 23/2/2017; AgRg no AREsp 552.339/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/9/2014, DJe 30/9/2014.
+3. Ainda na linha de nossa jurisprudência, "A insurgência da parte agravante contra tese fixada em recurso especial repetitivo enseja a incidência da multa do art. 1.021, § 4º, do CPC/2015." (AgInt no RMS n. 51.627/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.191.676/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
