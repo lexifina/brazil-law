@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se  de  carta  rogatória  por meio da qual a Justiça uruguaia (Juízo de Direito da Primeira Vara de Artigas) solicita que se proceda à intimação de LUIS ADRIANO CASTANHO LUCAS e de MAURÍCIO NUNES LOPES NETO para que tomem conhecimento de Investigação Preliminar Sumária Aduaneira (IUE 155.71/2022) e para "constituir domicílio processual dentro do âmbito de jurisdição territorial da Sede no prazo de 90 dias" (fls. 15/17).
+Concedido o exequatur (fls. 50-51), foram os autos remetidos à Seção Judiciária do Estado do Rio Grande do Sul. O juízo federal, na data de 29.5.2023, acostou aos autos documentos que comprovam a notificação dos interessados por carta de intimação (fls. 169 e 171). O magistrado salienta que a expedição dos documentos foi determinada porque os oficiais de justiça não cumprem mandado em Quaraí/RS, devido à distância (fl. 161).
+Considerando o êxito na intimação pessoal da parte interessada, ainda que via postal, considero consumado o objeto da comissão.
+Diante de todo o exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se. Intimem-se.
