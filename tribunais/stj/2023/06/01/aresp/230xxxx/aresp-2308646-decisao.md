@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por FAZENDA DO ESTADO DE SÃO PAULO em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A APRESENTAÇÃO DE MEMÓRIA DE CÁLCULO PELOS EXEQUENTES SEM O FORNECIMENTO DOS INFORMES OFICIAIS. Irregularidade. Não se mostra razoável compelir a parte exequente que obtenha referidos documentos de forma administrativa, quando se trata de documento de fácil acesso ao executado. Inteligência do artigo 524, § 3º e artigo 6º, ambos do Código de Processo Civil. Decisão reformada. RECURSO PROVIDO.
+Nesse acórdão foi julgado:
+A despeito das alegações deduzidas pelo ente estadual em sua contraminuta, entendo que não se justifica carrear o ônus de prova para a parte autora, quando o Estado tem em seu poder os dados originais leia-se prontuários e informes de pagamentos de seus servidores -, constantes de seus arquivos, sendo-lhe, portanto, perfeitamente possível conferir as planilhas pleiteadas pelos exequentes.
+No especial, argumenta-se:
+A Fazenda insurgiu-se contra referido pleito, asseverando que a apresentação de planilha de valores pretéritos não é obrigação imputável à Executada, pois apenas visa a facilitação da apresentação da planilha de cálculos pelos Exequentes, sobretudo levando-se em consideração que no Estado de São Paulo, desde 1994, os servidores públicos possuem integral acesso aos seus holerites, dispondo de toda a informação necessária à elaboração da planilha de cálculos.
+ ..  os Exequentes possuem acesso a seus holerites e aos valores que passaram a ser pagos a título da vantagem pleiteada, de forma que para elaboração de planilha, dependem apenas de cálculo aritmético. Dispõe o art. 509, §2º do CPC que "quando a apuração do valor depender apenas de cálculo aritmético, o credor poderá promover, desde logo, o cumprimento da sentença".
+Após juízo negativo de admissibilidade sobreveio o presente recurso.
+É o relatório. Decido.
+Irretocável o juízo da origem, para a qual "busca a recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior".
+Se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. APRESENTAÇÃO DE MEMÓRIA DE CÁLCULO. RAZOABILIDADE. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO E NÃO PROVIDO.
