@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de execução iniciada por RUI SEBASTIAO DA SILVA em face da UNIÃO,  objetivando o recebimento, em dinheiro, da prestação mensal, permanente e continuada durante o período em que a portaria de anistia esteve anulada. Subsidiariamente, pugna pela expedição de ordem de pagamento.
+Intimada para os fins do art. 535 do CPC, a UNIÃO não se opôs ao montante exequendo.
+Na sequência, por meio da petição de fls. 23-24, o exequente requer a expedição da RPV.
+Ante o exposto, não tendo sido impugnada a execução, homologo o cálculo no valor de R$ 31.121,82 (trinta e um mil cento e vinte e um reais e oitenta e dois centavos) e determino a expedição do requisitório de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso.
+Condeno a UNIÃO ao pagamento de honorários advocatícios sucumbenciais fixados em 10% sobre o valor da condenação, tendo em vista ser devido esse encargo nas execuções contra a Fazenda Pública, ainda que não impugnadas, nas hipóteses em que o crédito executado está sujeito a pagamento por RPV (art. 85, §§ 3º e 7º, do CPC). Precedentes: AgInt no REsp n. 2.012.137/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022; AgInt no REsp n. 2.014.120/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022; AgInt no AREsp n. 2.019.637/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/6/2022, DJe de 17/6/2022.
+Publique-se. Intimem-se.
