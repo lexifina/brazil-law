@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 380, DE 15 DE MAIO DE 2023
+Consolida os procedimentos para a prestação de informação ao Banco Central do Brasil de movimentações em contas de não residentes em reais tituladas por embaixada, repartição consular ou representação de organismo internacional reconhecido pelo Governo brasileiro, de que trata a Resolução BCB nº 277, de 31 de dezembro de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig) e o Chefe do Departamento de Regulação Prudencial e Cambial (Dereg), no uso das atribuições que lhes conferem os arts. 23, inciso I, alínea “a”, 77, incisos III e IV, e 118, incisos II, alínea “a”, e IV, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista o disposto na Resolução BCB nº 277, de 31 de dezembro de 2022,
+R E S O L V E M :
