@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EMERSON CESAR PADOIN contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 518 do STJ, além da impossibilidade de análise de suposta violação de dispositivo constitucional em recurso especial, tendo em vista a competência exclusiva do Supremo Tribunal Federal.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal Federal da 4ª Região em apelação nos autos de ação monitória.
+O julgado foi assim ementado (fl. 459):
+ADMINISTRATIVO. AGRAVO INTERNO. CONTRATOS BANCÁRIOS. AÇÃO MONITÓRIA. VIA ADEQUADA. LIMITAÇÃO DOS JUROS. CARTÃO DE CRÉDITO. CORREÇÃO MONETÁRIA. APLICAÇÃO DO PACTUADO ENTRE AS PARTES.
+1. Os requisitos de exigibilidade, liquidez e certeza não são exigidos para o ajuizamento da ação cognitiva, pois basta que o credor ingresse com a ação monitória e comprove o fato constitutivo de seu direito, buscando por essa via a formação do título para instruir futura execução.
+2. As limitações fixadas pelo Dec. nº 22.626/33, relativas à taxa de juros remuneratórios de 12% ao ano, não são aplicadas aos contratos firmados com instituições financeiras. Ademais, somente é possível a limitação da taxa de juros remuneratórios quando ausente contratação específica, o que não é ocaso nas contratações de cartão de crédito, porquanto as taxas de juros mensais para o próximo período são descritas em cada uma das faturas, sendo de conhecimento do usuário do cartão antes da utilização.
+3. Na ausência de verificação de qualquer irregularidade no critério de correção monetária adotado, não se justifica a modificação dos contratos por vontade unilateral.
+Nas razões do recurso especial, o ora agravante aponta violação do art. 917, § 3º, do Código de Processo Civil. Afirma que o excesso de execução suscitado decorre da exigência de encargos abusivos previstos no contrato executado, de maneira que é dispensado ao consumidor a apresentação de nova memória de cálculo com a indicação do valor devido.
+Argumenta que é indevida a rejeição liminar dos embargos à ação monitória, porquanto o pedido não está fundamentado apenas no excesso de execução, mas na revisão de encargos que o consumidor entende como abusivos, como a capitalização dos juros, os encargos moratórios e a comissão de permanência.
+Aduz ofensa ao art. 321 do CPC, visto que "a não indicação do valor que entende devido, com juntada da respectiva memória de cálculo, CONSTITUI VÍCIO SANÁVEL" (fl. 491), de maneira que os autos devem ser devolvidos à origem para que seja oportunizado à parte a emenda à inicial.
+Requer o provimento do recurso especial para o retorno dos autos com o regular prosseguimento do feito.
+É o relatório. Decido.
+O recurso não merece prosperar.
+As questões infraconstitucionais relativas à violação dos arts. 321 e 917, § 3º, do CPC, notadamente, sobre a rejeição liminar dos embargos monitórios, e a alegada dispensa de apresentação de nova indicação da memória de cálculo com a indicação do valor devido e a necessidade de intimação da parte para sanar vício pela não apresentação da memória do cálculo não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a se manifestar a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
