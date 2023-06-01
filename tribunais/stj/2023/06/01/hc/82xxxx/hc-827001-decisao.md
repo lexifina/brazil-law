@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra a decisão monocrática do relator que indeferiu a liminar (fl. 210).
+Consta nos autos que o paciente foi preso em flagrante, prisão convertida em preventiva, pela suposta prática do crime previsto no artigo 121 combinado com artigo 14, II, do Código Penal.
+Em síntese, a defesa alega que o decreto prisional possui fundamentação insuficiente e genérica quanto ao periculum libertatis porque não faz menção a nenhum elemento concreto para a justificar a necessidade da prisão cautelar.
+Requer, liminarmente e quanto ao mérito, a conversão da prisão preventiva da paciente em prisão domiciliar e, alternativa, a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+A decisão que converteu a prisão em flagrante em preventiva está assim fundamentada (fl. 24):
+(..)
+A prisão em flagrante merece ser convertida em preventiva quando convergentes os requisitos consistentes em condições de admissibilidade, indicativos de cometimento de crime (fumus commissi delicti), risco de liberdade (periculum libertatis) e proporcionalidade, conforme arts. 282, I e II, 312 e 313 do CPP.
+Quanto ao primeiro pressuposto, constato que a situação versa sobre crime de doloso com pena máxima superior a 4 (quatro) anos (art. 313, I, do CPP).
+No tocante ao segundo requisito, por sua vez, destaco que há prova da ocorrência de fato(s) típico(s), ilícito(s) e culpável(is) e, também, indícios suficientes para imputabilidade perfunctória da autoria ao(s) agente(s).
+No ponto, cabe mencionar que, a princípio, não restou demonstrado que o(s) imputado(s) tenha(m) atuado acobertado(s) pelas dirimentes da legítima defesa, do estado de necessidade, do estrito cumprimento do seu dever legal ou do exercício regular de um direito assegurado, consoante arts. 310, parágrafo único, do CPP e 23, I a III, do CP.
+No concernente ao terceiro requisito, assinalo que a prisão preventiva somente é cabível quando presente o perigo de liberdade (periculum libertatis), ante a insuficiência das medidas alternativas, conforme art. 282, § 6º, do CPP.
+A prisão é imprescindível para a garantia da ordem pública, mormente ante os indicativos de probabilidade de reiteração criminosa. A referida expressão diz respeito à preservação de uma situação de paz (sensação de segurança), necessária para a realização dos princípios fundamentais, consoante doutrina Aharon Barak (The judge in a democracy. Princeton: Princeton University Press, p.75).
+Embora ausentes registros de antecedentes criminais, há dois relatos nos autos de que o autuado já teria praticado crime tentado contra a vida em momento anterior, situação que, embora demanda de maiores esclarecimentos, apontaria na reiteração de conduta contra a integridade física.
+Por conseguinte, as medidas cautelares diversas, até mesmo o afastamento da residência, não se mostram suficientes para garantir a ordem pública a fim de evitar a reiteração em tese da conduta com intento homicida, conforme relatado pelo próprio autuado aos policiais que atenderam a ocorrência.
+Do exposto, sem prejuízo de reanálise na superveniência de mais elementos quanto aos fatos praticados anteriormente, converto a prisão em flagrante em preventiva, devendo o(s)conduzido(s) DAVID FERREIRA DA SILVA permanecer(em) segregado(s) no estabelecimento prisional adequado, consoante art. 310, II, do CPP. Comunique-se o local de segregação a este juízo, ao Ministério Público e à família do preso ou quem ele indicar, consoante art. 306 do CPP. Expeça(m)-se o(s) mandado(s) de prisão para registro no Banco Nacional de Mandados de Prisão (BNMP) do Conselho Nacional da Justiça (CNJ), conforme art. 289-A do CPP.
+Como pode ser observado, consta do decreto prisional fundamentação que, ao menos neste juízo inicial, deve ser considerada idônea, revelada na periculosidade do acusado, evidenciada na reiteração delitiva, o que constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública (Nesse sentido: HC 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014).
+Ademais, havendo a indicação de fundamento concreto para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública (a esse respeito: HC 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015) .
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
