@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de extensão protocolado por ANA ROSA FIGUEIREDO MARTINS da ordem de habeas corpus concedida em favor de Gilberto Valente Martins.
+Em razões, a requerente explica que tramitou perante o Tribunal de Justiça do Pará a Ação Penal Privada Subsidiária da Pública n. 0005245-98.2018.8.14.0000, movida por Marcos Antonio Ferreira das Neves. Como um dos denunciados possuía foro por prerrogativa de função, a ação penal foi desmembrada, com autuação de processo criminal em 1º grau contra a peticionária (AP n. 0004415-25.2020.8.14.0401).
+Conta que, no presente writ, foi reconhecida a ilegitimidade ativa de Marcos Antônio Ferreira das Neves para intentar queixa-crime contra Gilberto Valente Martins.
+Alega que, apesar do arquivamento da Ação Penal Privada Subsidiária da Pública n. 0005245-98.2018.8.14.0000, a ação penal desmembrada (AP n. 0004415-25.2020.8.14.04010 continuou em tramitação até a prolação de sentença, que reconheceu a ausência de legitimidade ativa de Marcos Antonio Ferreira das Neves. Contra essa decisão, o querelante interpôs recurso em sentido estrito, que foi julgado intempestivo. Em seguida, ingressou com carta testemunhável.
+Sustenta que referido recurso é manifestamente protelatório e requer a extensão dos efeitos da decisão de fls. 478-483, e-STJ, à ora requerente Ana Rosa Figueiredo Martins.
+É o relatório.
+Decido.
+Em que pese a insistência do querelante, Marcos Antonio Ferreira das Neves, no processamento da ação penal intentada contra a ora requerente, Ana Rosa Figueiredo Martins, consoante se observa do cenário até então exposto, não vislumbro constrangimento ilegal apto de reparação na via do presente habeas corpus.
+Em consulta à página oficial do Tribunal de Justiça do Pará, observa-se, de fato, que a queixa-crime oferecida contra a ora requerente e outros dois querelados, por Marcos Antonio Ferreira das Neves, foi rejeitada, por meio de decisão proferida em 11/5/2020:
+quer pela falta de legitimidade ativa do querelante Marcos Antonio Ferreira das Neves, quer pela ausência de pressuposto processual específico exigido para a ação penal privada subsidiária da pública (art. 29 do Código Penal), quer, ainda, pela não configuração de uma condição da ação penal (aparente tipicidade dos fatos imputados)
+Contra esse decisum, conforme dito, o querelante interpôs recurso em sentido estrito, que embora fosse a via recursal adequada, teve seu seguimento negado, em decisão proferida em 5/10/2020, diante de sua intempestividade. Sobreveio, então, o trânsito em julgado da Ação Penal n. 0004415-25.2020.8.14.0401, em 12/11/2020.
+Nesse contexto, a interposição de carta testemunhável (Carta Testemunhável n. 0016442-40.2020.8.14.0401) perante o Tribunal de Justiça do Pará, em 7/2/2023, que se encontra conclusa para julgamento desde 21/4/2023, não é capaz de representar constrangimento ilegal à requerente.
+E a pretensão de extensão dos efeitos da decisão proferida por esta Corte em favor do corréu Gilberto Valente Martins é inócua, uma vez que, conforme relatado, a ilegitimidade ativa de Marcos Antonio Ferreira das Neves para intentar a ação penal privada contra a requerente já foi reconhecida pelo Juízo da 9ª Vara Criminal de Belém-PA.
+Diante do exposto, indefiro o pedido.
+Publique-se. Intime-se.
