@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo de Direito da Vara Criminal de Ipirá/BA e suscitado o Juízo de Direito da Vara Única de Macaubal/SP.
+O juízo suscitado condenou o apenado à reprimenda de 1 anos e 14 dias de detenção, pela prática dos crimes do art. 129, § 9º, e do art. 329 do Código Penal e, após a superveniência da informação de que o reeducando iria mudar seu domicílio para a cidade de Ipirá/BA, declinou da competência.
+O juízo suscitante, por sua vez, consignou que "o simples fato de o condenado morar em Comarca diversa ou ter mudado de residência, por vontade própria, não constitui causa legal de deslocamento da competência originária para a execução da pena" (e-STJ fl. 126).
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 144-148).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para execução de pena privativa de liberdade foi estabelecida entre o Juízo de Direito da Vara Criminal de Ipirá/BA, suscitante, e o Juízo de Direito da Vara Única de Macaubal/SP, suscitado.
+É assente na jurisprudência desta Terceira Seção que a execução da pena cabe ao juízo da condenação, independentemente da localidade de domicílio do apenado ou do local de cumprimento de mandado de prisão.
+Conforme orientação jurisprudencial, a fiscalização do cumprimento da reprimenda pode ser deprecada, o que não importa , porém, em declínio da competência para execução.
+Confira-se:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO DE PENA PRIVATIVA DE LIBERDADE NO REGIME ABERTO. EXECUÇÃO PENAL. JUÍZO INDICADO NA LEI LOCAL DE ORGANIZAÇÃO JUDICIÁRIA OU JUÍZO DA CONDENAÇÃO. INCIDÊNCIA DO ART. 65 DA LEI DE EXECUÇÕES PENAIS - LEP. TRANSFERÊNCIA COMPULSÓRIA DA COMPETÊNCIA E DOS AUTOS DA EXECUÇÃO PENAL. IMPOSSIBILIDADE. COMPETÊNCIA QUE PERMANECE NO JUÍZO DA CONDENAÇÃO. POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO DO REEDUCANDO POR MEIO DE CARTA PRECATÓRIA. RECUSA DE CUMPRIMENTO ADSTRITA À HIPÓTESE DO ART. 267 DO CÓDIGO DE PROCESSO CIVIL - CPC. RECUSA DE FISCALIZAÇÃO DO CUMPRIMENTO DA PENA FUNDAMENTADA NO IMENSO ACERVO PROCESSUAL DO JUÍZO DE DESTINO. JUSTIFICATIVA INIDÔNEA.
+ ..
+3. O fato de o apenado residir em outra Comarca não tem o condão de alterar a competência para a execução da pena, sendo vedada a transferência compulsória. A transferência legal da competência para a execução da pena necessita de prévia consulta ao Juízo de destino, notadamente para a verificação de existência de vaga no sistema prisional. Precedentes da Terceira Seção: CC 117.561/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 11/6/2012; AgRg no CC 141.896/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, DJe 3/3/2016; AgRg no CC 150.563/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 2/10/2018 e CC 176.339/GO, de minha relatoria, DJe 5/4/2021.
+ ..
+7. Ademais, à luz do mesmo raciocínio, a Terceira Seção do STJ, em casos de substituição da pena privativa de liberdade por penas restritivas de direitos também tem decidido pela expedição de carta precatória para fiscalização das condições fixadas sem deslocamento de competência.
+Precedentes: "Conquanto seja possível alterar a competência do juízo para a execução e fiscalização da pena, nas hipóteses em que houver a transferência legal do preso, o simples fato de o apenado ter informado que possui residência em comarca diversa não constitui causa legal de deslocamento da competência do Juízo da Execução Penal. Nada obsta, outrossim, que o Juízo determine a expedição de carta precatória àquela localidade para supervisão do desconto da reprimenda" (CC 140.754/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 22/6/2015). "Não há a transferência da competência, apenas de alguns atos, sendo que os decisórios permanecem atribuídos ao juízo responsável pela execução no local da condenação" (CC 106.036/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, DJe 21/8/2009).
+ ..
+9. Conflito de competência conhecido para declarar que o Juízo de Direito da Vara de Execuções Penais em Meio Aberto de Teresina/PI, o suscitado, é competente para executar a pena imposta ao reeducando e que incumbe ao Juízo de Direito da Vara de Execução Meio Aberto e Medidas Alternativas do Novo Gama/GO, o suscitante, somente cumprir carta precatória para a fiscalização de condições, sem deslocamento de competência.
+(CC 179.974/GO, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/10/2021, DJe de 21/10/2021 )
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito da Vara Única de Macaubal/SP , suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
