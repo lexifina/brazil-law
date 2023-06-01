@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em face de inadmissão de recurso especial interposto por GUILHERME LUIZ ZANCANARO .
+O apelo extremo, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"ARECURSO DE APELAÇÃO. CONTRATOS AGRÁRIOS. AÇÃO DE RESCISÃO DE CONTRATO DE PARCERIA RURAL CUMULADO COM COBRANÇA DE VALORES, PERDAS E DANOS, LUCROS CESSANTES E INDENIZAÇÃO POR DANOS MORAIS. RECONVENÇÃO. AUSÊNCIA DE INTERESSE DE AGIR QUANTO AO PEDIDO DE RESOLUÇÃO DO CONTRATO. NOTAS FISCAIS INADIMPLIDAS. INEXISTÊNCIA DE PROVA MÍNIMA DO PAGAMENTO REALIZADO. MANUTENÇÃO DA SENTENÇA DE ORIGEM.
+1. Desnecessário provimento jurisdicional para declarar a resolução de contrato já desfeito pelas partes, uma vez que não controvertem sobre o fato do contrato de parceria rural ter sido desfeito. Hipótese em que deve ser mantida a sentença que reconheceu a ausência de interesse processual nesse tópico.
+2. No mérito, nos termos do art. 373, do CPC incumbe, a rigor, ao autor o ônus da prova quanto ao fato constitutivo de seu direito e ao réu fato impeditivo do direito do autor. Ocorre que, na hipótese, as notas fiscais juntadas atestam a existência de relação entre as partes, sendo ônus da parte ré demonstrar o adimplemento dos valores ao autor. No caso, a despeito dos depósitos efetuados pelo réu/reconvinte, tais comprovantes não guardam relação com as notas fiscais objeto de cobrança, ainda mais que são anteriores à imissão e, ainda, realizadas em conta de terceiro. Nesse contexto, a improcedência da demanda é medida que se impõe.
+3. Do mesmo modo, inviável o reconhecimento do pedido posto em reconvenção, uma vez que a despeito dos depósitos realizados, não há nenhum elemento de prova que indique a qual título foram realizados tais pagamentos. Manutenção da sentença que se impõe.
+RECURSO DE APELAÇÃO DESPROVIDO." (fl. 509, e-STJ).
+Nas razões do recurso especial, os recorrentes sustentam que
+"É hialino que nos autos restou cumprido o ônus do Recorrente ao comprovar o fato impeditivo do direito alegado pelo Recorrido, em atenção ao art. 373, II do CPC pertinente a cobrança de R$ 118.770,00 representada pelas notas fiscais furtadas, devidamente pagas pelas antecipações de R$ 212.000,00 (evento 2, COMP26) bem como, cumpriu o ônus de comprovar seu crédito de R$ 93.230,00 decorrente do sando entre os R$ 212.000,00, abatidos o total das notas fiscais trazidas pelo Recorrido" (fls. 539/540, e-STJ).
+Por fim, aduzem que caberia ao recorrido, diante de tais provas, comprovar que tais antecipações não pagaram as notas fiscais frutadas e cobradas, que foram destinadas a outras operações.
+Ausentes contrarrazões, o recurso não foi admitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, as conclusões do Tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"(..)
+Dessa forma, desnecessário provimento jurisdicional para declarar a resolução de contrato já desfeito pelas partes.
+Em relação ao pleito de cobrança, para a avaliação do mérito do recurso, impende discorrer sobre o direito à prova, eis que imprescindível à questão do convencimento, este primordial para a efetivação da prestação jurisdicional.
+O art. 373 do CPC, nos seus incisos, preconiza que, a rigor, incumbe ao autor o ônus da prova quanto ao fato constitutivo de seu direito, enquanto ao réu caberia a demonstração da existência de fato impeditivo, modificativo ou extintivo do direito do demandante.
+(..)
+Não há, portanto, um dever de provar, nem à parte contrária assiste o direito de exigir a prova da parte adversa; há um simples ônus, de forma que o litigante assume o risco de não ter seus pedidos acolhidos se não demonstrar os fatos sustentados e dos quais dependem a existência do direito subjetivo que pretende resguardar por meio da tutela jurisdicional.
+O diploma processual civil, embora prevendo orientações acera do tema, adota a forma dinâmica da distribuição do ônus da prova, de modo a direcioná-lo a quem se mostre mais apto a produzi-la (§1º do art. 373 do CPC).
+Na hipótese, entretanto, o acervo probatório constituído no feito parece melhor albergar a tese da parte demandante, no que diz respeito ao alegado inandimplemento das notas fiscais constantes do evento 2, NFISCAL8, dos autos de origem.
+No caso, incontroverso nos autos a existência de relação comercial entre as partes, relativamente à operações de compra e venda de animais (suínos). O cerne da controvérsia reside no alegado descumprimento. Considerando a apresentação de notas alegadamente inadimplidas pelo réu, era ônus do demandado, ora apelante, demonstrar o pagamento desses valores ao autor, o que não ocorreu.
+Com já destacado pelo Magistrado a quo, os comprovantes de depósito constantes do evento 2, COMP26 , além de serem anteriores as notas fiscais objeto de cobrança, não guardam correspondência com o valor constante nessas notas fiscais. Além disso, tais depósitos foram realizados na conta de terceiro, Valdeni Pícolo Junior, filho do apelado, de forma que, sequer tendo sido juntado qualquer recibo indicando que tais pagamentos se referiam às notas fiscais indicadas pelo autor, não há como entender ter havido o pagamento adiantado de tais valores.
+Do mesmo modo, inviável o reconhecimento do pedido posto em reconvenção de que, na verdade, o recorrente seria credor do autor, ora apelado, da quantia de R$ 93.230,00 (diferença entre os depósitos realizados e os valores postulados pelo autor na peça inicial), uma vez que a despeito dos depósitos realizados, não há nenhum elemento de prova que indique a qual título foram realizados tais pagamentos, mormente considerando que os comprovantes acostados pelos réus/reconvintes demonstram o pagamento de valores a terceiro (filho do demandante).
+Além disso, as GTAs constantes dos autos demonstram a existência de várias transferências de animais entre as partes, inclusive, ocorridas no ano de 2016, após a alegada rescisão do contrato de parceria rural firmado entre as partes, dando indícios da existência de outros negócios envolvendo as mesmas partes.
+Assim, não se mostra possível atribuir os depósitos realizados às notas fiscais objeto de cobrança, ônus este que incumbia ao réu/reconvinte.
+(..)
+O certo é que restou demonstrado que as partes realizavam diversos negócios, independentemente do contrato de parceria rural firmado entre eles, não podendo se esquivar de cumprir a obrigação assumida, uma vez que implicaria enriquecimento indevido de uma parte em relação à outra, além de flagrante inobservância à boa-fé."
+Nesse contexto, verifica-se que a Corte local formou sua convicção à luz do acervo probatório dos autos, de forma que a intervenção desta Corte Superior quanto à satisfação do ônus probatório e à valoração das provas também encontra óbice na Súmula nº 7/STJ.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO CUMULADA COM PEDIDO DE DANOS MORAIS. COMPRA DE QUADRICICLO NOVO QUE APRESENTOU DEFEITO NO PRAZO DE 01 ANO. VIOLAÇÃO DO ART. 10, C/C O ART. 329 DO NCPC. DECISÃO SURPRESA. INOCORRÊNCIA. VÍCIO DO PRODUTO. VÍCIO OCULTO. DISTRIBUIÇÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..) 3. O acolhimento da pretensão recursal sobre a distribuição do ônus probatório exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido" (AgInt nos EDcl no REsp 1.684.238/RN, Rel.
+Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (onze por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 13% (treze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
