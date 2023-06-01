@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por OSVALDO SOUZA-AGROPASTORIL LTDA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+"AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO POR ARBITRAMENTO. "VASSOURA DE BRUXA". PLEITO DE ADEQUAÇÃO DA PERÍCIA AOS TERMOS DA SENTENÇA. investigação da extensão dos prejuízos CAUSADOS À LAVOURA CACAUEIRA. Impossibilidade de verificação da existência DOS PREJUÍZOS, sob pena de flagrante inobservância à coisa julgada. pleito de intimação do Agravado, visando à juntada de extratos elucidativos, dentre outros documentos. insurgência que não encontra respaldo no título executivo judicial, deixando, por conseguinte, de ter caráter obrigatório neste momento processual. RECURSO CONHECIDO E PARCIALMENTE PROVIDO" (fl. 121 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação dos artigos 1.022, II, e 489, § 1º, IV do Código de Processo Civil, sob o argumento de que f oram rejeitados os aclaratórios que pretendiam o prequestionamento e pronunciamento sobre a tese de liquidação com dano zero.
+Contrarrazões juntadas às fls. 402/414 e-STJ.
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante às omissões apontadas no acórdão estadual, o Tribunal de origem, ao decidir os embargos de declaração, concluiu pela impertinência da questão suscitada em aclaratórios. É o que se extrai da seguinte passagem:
+"(..)
+Segundo o acórdão atacado, em que pese a decisão, em sede de aclaratórios, ter ordenado a investigação da extensão dos prejuízos, deve ser decotada qualquer possibilidade de verificação da sua existência, sob pena de flagrante inobservância à coisa julgada.
+Assim, restou claro, sem qualquer sombra de dúvida, que o dano existe, e que a liquidação de sentença deve seguir os contornos previamente delineados pela decisão proferida no processo de conhecimento, nada sendo possível retirar, tampouco acrescentar, independentemente da argumentação apresentada pelos litigantes" (fls. 381/382 e-STJ).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido" (AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022 - grifou-se).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Quanto à divergência jurisprudencial, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)" (AgInt no AREsp 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022 - grifou-se).
+Torna-se patente, assim, a falta de fundamentação do apelo nobre, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em agravo de instrumento sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
