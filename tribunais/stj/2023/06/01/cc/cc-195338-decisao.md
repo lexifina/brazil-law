@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito de competência negativo suscitado pelo Juízo de Direito da Vara Única de Terra Santa - PA, em face do Juízo de Direito da Vara Única de Nhamundá - AM, nos autos ação penal em que se apura a prática, em tese, do delito previsto no artigo 1º, II, parágrafo 4º da lei n. 9.455/97 (tortura) contra a vítima M. S. S. S. na época com 08 anos de idade.
+Extrai-se dos autos que "A L P C, na época Coordenadora Pedagógica das Escolas do Campo, em meados de set/2012, como de costume foi visitar a Escola Municipal de Ensino Bom Jardim, ocasião em que se deparou com a menor que se recusou a receber o fardamento e, conforme informações dos professores, sempre M. S. S. S. aparecia na escola com hematomas pelo corpo, possivelmente oriundos de alguns maus-tratos. Soube-se, posteriormente, que M M S (mãe adotiva da vitima) seria a possível agressora" (fl. 119).
+O Juízo de Direito da Vara Única de Nhamundá - AM, com apoio em parecer ministerial, determinou a remessa dos autos para a Comarca de Terra Santa - PA, local da consumação do crime, nos termos do artigo 70 do CPP (fls. 119 - 120).
+Recebendo os autos, o Juízo de Direito da Vara Única de Terra Santa - PA suscitou o presente conflito de competência por discordar da decisão declinatória de competência, sustentando que "o pr ocesso criminal teve início com a ação penal devidamente oferecida pelo Ministério Público do Estado do Amazonas, sendo recebida pelo Juízo de Nhamundá//PA, e inclusive, com resposta à acusação apresentada pela denunciada, feita pela Defensoria Pública do Estado do Amazonas" sendo o caso de reconhecimento da prevenção daquele juízo, pois o "Juízo da Comarca de Nhamundá/AM, proferiu ato de cunho decisório, no momento em que recebeu a denúncia oferecida pelo Ministério Público, fixando-se a competência naquele momento para si" (fls. 127 - 131).
+O Ministério Público Federal opinou pela declaração de competência do Juízo de Direito da Vara Única de Terra Santa - PA, o suscitante (fls. 147 - 151).
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+Tem-se conflito negativo entre juízes de direito de Estados Federativos diversos, motivo pelo qual é o Superior Tribunal de Justiça o órgão competente para decidir o conflito, nos termos do artigo 105, I, "d", da Constituição Federal.
+Conforme dispõe o art. 70 do Código de Processo Penal, a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+Na espécie, infere-se do parecer ministerial "não há dúvidas que o crime de tortura foi praticado e consumado nos limites do Município de Terra Santa nem se verifica hipótese de aplicação das regras que determinam a competência por prevenção" (fl. 150), o que atrai a competência do Juízo de Direito da 4ª Vara de Santa Inês - MA.
+Ante o exposto, conheço do conflito de competência e declaro competente o Juízo de Direito da 4ª Vara de Santa Inês - MA, ora suscitante.
+P. e I.
+EMENTA
+CONF LITO DE COMPETÊNCIA. CRIME DE TORTURA. ART. 70 DO CÓDIGO DE PROCESSO PENAL. LUGAR DA CONSUMAÇÃO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
