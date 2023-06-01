@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO VOTORANTIM S/A com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Agravo de Instrumento n. 1.0000.22.169834-3/001), nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fl. 1.036):
+AGRAVO DE INSTRUMENTO - PRELIMINAR SUSCITADA EM CONTRAMINUTA - INTEMPESTIVIDADE - REJEIÇÃO - CUMPRIMENTO PROVISÓRIO DE SENTENÇA COLETIVA -REPETIÇÃO DO INDÉBITO -TAXA DOS JUROS MORATÓRIOS - 1% AO MÊS-INTELIGÊNCIA DO ART. 406 DO CC/02 c/c ART. 161, §1º, DO CTN - ENUNCIADO 20 DA I JORNADA DE DIREITO CIVIL. Constatada a tempestividade do recurso, deve ser rejeitada a preliminar de inadmissibilidade suscitada em contraminuta. O art. 406, do CC/02 c/c o art. 161, §1º, do CTN preveem que os juros de mora devem ser fixadosa1% ao mês, e não à Taxa Selic, qu e é o índice utilizado para a mora do pagamento de impostos devidos à Fazenda Nacional. No mesmo sentido, atenta-se para o enunciado 20 da I Jornada de Direito Civil.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, alega o recorrente negativa de prestação jurisdicional e consequente violação dos arts. 1.022, II, e 489, § 1º, IV e VI, do CPC, na medida em que o acórdão que apreciou os embargos de declaração opostos na origem foi omisso quanto à utilização da taxa SELIC como índice dos juros moratórios legais incidentes sobre o ressarcimento de indébito judicial.
+Aponta ofensa aos seguintes artigos: 406 do CC; 161, § 1º, do CTN; 84 da Lei n. 8.981/1995; 39, § 4º, da Lei n. 9.250/1995; 61, § 3º, da Lei n. 9.430/1996; e 30 da Lei n. 10.522/2002. Argumenta que o índice correto para o cálculo dos juros de mora incidentes sobre condenações judiciais é a taxa SELIC, sem cumulação com qualquer outro.
+Requer o provimento do recurso especial para que seja anulado o acórdão que apreciou os embargos de declaração para que outro seja proferido com a análise das omissões apontadas. Subsidiariamente, pleiteia a reforma do acórdão recorrido para que seja determinada a aplicação da taxa SELIC no cálculo dos juros de mora eventualmente devidos nos autos da execução.
+As contrarrazões foram apresentadas às fls. 1.185-1.194.
+Admitido o apelo extremo (fls. 1.211-1.213), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+I - Da alegada negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Do índice para o cálculo dos juros moratórios
+Consta dos autos que, em cumprimento de sentença ajuizado para recebimento de valores em razão do julgamento do Processo n. 0024.10.170890-7, foi determinada a intimação das partes para apresentação dos cálculos e a remessa dos autos à Contadoria Judicial, indicando o cálculo dos juros de mora em 1% a partir da citação e a correção monetária a partir do desembolso (fl. 819).
+Interposto agravo de instrumento questionando o s critérios para o cômputo dos juros moratórios legais, o recurso foi desprovido.
+O Tribunal de origem afastou a utilização da taxa SELIC como critério único de atualização dos valores, consignando que o cálculo dos juros moratórios deve ser limitado a 1% a.m., pois a taxa SELIC é o índice utilizado para a mora do pagamento de impostos devidos à Fazenda Nacional, nestes termos (fls. 1.041-1.044):
+Na hipótese vertente, considerando a omissão do título executivo judicial quanto à taxa de juros moratórios a ser aplicada sobre eventual indébito a ser repetido, aplica-se a regra contida no artigo 406 do Código Civil:
+Art. 406. Quando os juros moratórios não forem convencionados, ou o forem sem taxa estipulada, ou quando provierem de determinação da lei, serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional.
+Quanto à interpretação desse dispositivo, atenta-se para o enunciado 20 da I Jornada de Direito Civil: "a taxa de juros moratórios a que se refere o art. 406 é a do art. 161, § 1º, do Código Tributário Nacional, ou seja, um por cento ao mês".
+A respeito:
+Art. 161. O crédito não integralmente pago no vencimento é acrescido de juros de mora, seja qual for o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis e da aplicação de quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
+§ 1ºSe a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de um por cento ao mês.
+Corroborando, o entendimento deste Tribunal é no sentido de que o art. 406, do CC/02 c/c o art. 161, §1º, do CTN preveem que os juros de mora devem ser limitados a1% ao mês, e não à Taxa Selic, que é o índice utilizado para a mora do pagamento de impostos devidos à Fazenda Nacional. Confira-se:
+ ..
+Portanto, os juros de mora incidirão no patamar de 1% ao mês, nos termos do artigo 406 do Código Civil c/c art.161, §1º, do Código Tributário Nacional, a partir da citação.
+Logo, ressai irretocável a decisão de primeiro grau.
+Sobreveio recurso especial em que se questiona o cálculo dos juros moratórios à taxa de 1% a.m., ao argumento de que a taxa de juros moratórios a que se refere o art. 406 do CC, segundo precedentes desta Corte Superior, é a SELIC.
+A esse respeito, "a Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp n. 1.794.823/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2020, DJe de 28/5/2020, destaquei).
+No mesmo sentido: AgInt no REsp n. 2.022.568/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.966.743/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2022, DJe de 17/8/2022; e AgInt no REsp n. 1.792.993/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.
+Assim, verifica-se que o acórdão recorrido diverge da jurisprudência do STJ, devendo ser provido o recurso especial, neste ponto, para haver a substituição dos juros de mora de 1% a.m. pela taxa SELIC, vedada a cumulação com a correção monetária.
+III - Conclusão
+Ante o exposto, conheço do recurso especial para dar-lhe parcial provimento, a fim de substituir a taxa dos juros de mora de 1% a.m. pela taxa SELIC, vedada a cumulação com correção monetária.
+Publique-se. Intimem-se.
