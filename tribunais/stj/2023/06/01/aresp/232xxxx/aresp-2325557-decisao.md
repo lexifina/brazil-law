@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo, interposto por MARCIA DE SOUZA, contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 66, e-STJ):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -PENHORA DE PERCENTUAL DE BEM IMÓVEL - CABIMENTO - insurgência em face da decisão pela qual foi mantida a penhora da parte ideal (10%) do imóvel pertencente à agravante - bem aparentemente indivisível - penhora possível - possibilidade de alienação da totalidade, com reserva das quotas-partes dos coproprietários sobre o produto da alienação, observados os termos do art. 843 e §§ do CPC, aplicável à hipótese - circunstância de não constar referência ao invocado dispositivo legal na decisão combatida que não significa a inaplicabilidade dele à hipótese dos autos - excesso de penhora já descartado em decisão precedente, cujos fundamentos ora são retomados - decisão mantida nos termos do art. 252 do RITJSP - agravo desprovido.
+AGRAVO INTERNO - com o julgamento definitivo do agravo de instrumento, fica prejudicado o agravo interno interposto em face da decisão liminar pela qual foi indeferido o pedido de antecipação da tutela recursal.
+Opostos embargos de declaração (fls. 103/104, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 74/80, e-STJ), a insurgente apontou violação ao artigo 843, § 2º do CPC/2015; sustentando, em síntese, que, não está sendo garantido ao coproprietário o correspondente à sua quota-parte calculado sobre o valor da avaliação. O bem indivisível, como no caso, somente poderá ser alienado se o valor da alienação for suficiente para assegurar ao coproprietário 50% do valor de avaliação do bem.
+Contrarrazões às fls. 114/126, e-STJ.
+Em juízo de admissibilidade (fls. 157/159, e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) não foi demonstrada a alegada vulneração ao dispositivo arrolado; ii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 164/168, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refutar os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 174/181, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Consoante entendimento desta Corte, "o bem indivisível será alienado por inteiro, ampliando a efetividade dos processos executivos; de outro, amplia a proteção de coproprietários inalcançáveis pelo procedimento executivo, assegurando-lhes a manutenção integral de seu patrimônio, ainda que monetizado".
+Nessa toada, deve ser garantido ao coproprietário o valor de 50% (cinquenta por cento) do valor de avaliação do bem.
+A propósito:
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE BEM IMÓVEL. EMBARGOS DE TERCEIRO DE EX-CÔNJUGE PENDENTES. DEFESA DA MEAÇÃO. RESERVA DE METADE DO VALOR DE AVALIAÇÃO. ALTERAÇÃO LEGISLATIVA DESCONSIDERADA. RECURSO ESPECIAL PROVIDO.
+1. Debate-se a extensão da proteção da meação reservada a ex-cônjuge na hipótese de execução de título extrajudicial.
+2. O novo diploma processual, além de estender a proteção da fração ideal para os demais coproprietários de bem indivisível, os quais não sejam devedores nem responsáveis legais pelo adimplemento de obrigação contraída por outro coproprietário, ainda delimitou monetariamente a alienação judicial desses bens.
+3. A partir do novo regramento, o bem indivisível somente poderá ser alienado se o valor de alienação for suficiente para assegurar ao coproprietário não responsável 50% (cinquenta por cento) do valor de avaliação do bem (art. 843, § 2º, do CPC/2015).
+4. Essa nova disposição legal, de um lado, referenda o entendimento de que o bem indivisível será alienado por inteiro, ampliando a efetividade dos processos executivos; de outro, amplia a proteção de coproprietários inalcançáveis pelo procedimento executivo, assegurando-lhes a manutenção integral de seu patrimônio, ainda que monetizado.
+5. Estando pendente o julgamento dos embargos de terceiros opostos por ex-cônjuge meeira, até que se decida sua eventual responsabilidade pela dívida do devedor primário, é prudente, em juízo cautelar, que se mantenha à disposição do Juízo competente valor correspondente à meação, nos termos da nova legislação processual.
+6. Recurso especial provido.
+(REsp n. 1.728.086/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/8/2019, DJe de 3/9/2019
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. PENHORA. BEM IMÓVEL INDIVISÍVEL EM REGIME DE COPROPRIEDADE. ALIENAÇÃO JUDICIAL DO BEM POR INTEIRO. POSSIBILIDADE. ART. 843 DO CPC/2015. CONSTRIÇÃO. LIMITES. QUOTA-PARTE TITULARIZADA PELO DEVEDOR.
+1. Cumprimento de sentença em 10/04/2013. Recurso especial interposto em 01/04/2019 e concluso ao gabinete em 21/08/2019.
+2. O propósito recursal consiste em dizer se, para que haja o leilão judicial da integralidade de bem imóvel indivisível - pertencente ao executado em regime de copropriedade -, é necessária a prévia penhora do bem por inteiro ou, de outro modo, se basta a penhora da quota-parte titularizada pelo devedor.
+3. O Código de Processo Civil de 2015, ao tratar da penhora e alienação judicial de bem indivisível, ampliou o regime anteriormente previsto no CPC/1973.
+4. Sob o novo quadro normativo, é autorizada a alienação judicial do bem indivisível, em sua integralidade, em qualquer hipótese de copropriedade. Ademais, resguarda-se ao coproprietário alheio à execução o direito de preferência na arrematação do bem ou, caso não o queira, a compensação financeira pela sua quota-parte, agora apurada segundo o valor da avaliação, não mais sobre o preço obtido na alienação judicial (art. 843 do CPC/15).
+5. Nesse novo regramento, a oposição de embargos de terceiro pelo cônjuge ou coproprietário que não seja devedor nem responsável pelo adimplemento da obrigação se tornou despicienda, na medida em que a lei os confere
+proteção automática. Basta, de fato, que sejam oportunamente intimados da penhora e da alienação judicial, na forma dos arts. 799, 842 e 889 do CPC/15, a fim de que lhes seja oportunizada a manifestação no processo, em respeito aos postulados do devido processo legal e do contraditório.
+6. Ainda, a fim de que seja plenamente resguardado o interesse do coproprietário do bem indivisível alheio à execução, a própria penhora não pode avançar sobre o seu quinhão, devendo ficar adstrita à quota-parte titularizada pelo devedor.
+7. Com efeito, a penhora é um ato de afetação, por meio do qual são individualizados, apreendidos e depositados bens do devedor, que ficarão à disposição do órgão judicial para realizar o objetivo da execução, que é a satisfação do credor.
+8. Trata-se, pois, de um gravame imposto pela atuação jurisdicional do Estado, com vistas à realização coercitiva do direito do credor, que, à toda evidência, não pode ultrapassar o patrimônio do executado ou de eventuais responsáveis pelo pagamento do débito, seja qual for a natureza dos bens alcançados.
+9. Recurso especial conhecido e provido.
+(REsp n. 1.818.926/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/4/2021, DJe de 15/4/2021.)
+No caso, o Tribunal de origem, ao analisar a controvérsia, assim decidiu (fl. 70, e-STJ):
+Como destacado pela agravada, foi por ela pedida a penhora da parte ideal da agravante - 1/10 do imóvel - e não a constrição sobre a integralidade dele. Dessa forma, a constrição recai só sobre a parte ideal da agravante e não sobre aquilo que é dos coproprietários o que, se ocorresse, deveria ser questionado por eles, não pela agravante.
+Também como corretamente sustentou a agravante, o art. 843, § 2º do CPC protege os quinhões dos coproprietários, ao preceituar que "Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente à sua quota-parte calculado sobre o valor da avaliação".
+Não havia necessidade de que, ao rejeitar a impugnação, a i. magistrada "a quo" mencionasse o referido dispositivo legal para que seja ele aplicado ao caso. De qualquer forma, se futuramente ela afastar a incidência da proteção legal expressamente prevista o que se afigura altamente improvável, nada impedirá que, no momento oportuno, a agravante apresente a insurgência recursal pertinente.
+A par disso, considerada que a parte da agravante no imóvel é mínima 1/10, como dito, nada impede que os coproprietários se utilizem da preferência legal do § 1º do referido art. 843 que resolve todos os problemas pertinentes da hipótese de penhora sobre bem imóvel indivisível comum.
+Por se tratar, em princípio, de bem indivisível, o imóvel poderá ser expropriado em sua totalidade, com reserva das quotas-partes dos coproprietários sobre o produto da alienação, nos termos do referido art. 843 e parágrafos do CPC.
+A decisão proferida na origem está em consonância com o entendimento desta Corte Superior, atraindo a incidência da Súmula 83 do STJ.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se.
+Intimem-se.
