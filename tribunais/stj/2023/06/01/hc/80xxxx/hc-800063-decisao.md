@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gabriel Kohntopp, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi absolvido, pelo Juizado Especial Criminal e Delitos de Trânsito da comarca de Joinville/SC, da imputação a ele feita como incurso no art. 306 do Código de Trânsito Brasileiro, com base no art. 386, VII, do Código de Processo Penal (fls. 307/309).
+Em sede de apelação (n. 0004737-25.2019.8.24.0038/SC), a Segunda Câmara Criminal do Tribunal de Justiça de Santa Catarina deu provimento ao recurso da acusação para condenar o paciente à pena de 6 meses de detenção, em regime aberto, substituída por medida restritiva de direitos (fls. 34/40). O julgado recebeu a seguinte ementa (fl. 40):
+APELAÇÃO CRIMINAL. EMBRIAGUEZ AO VOLANTE (ARTIGO 306, § 2º, DO CÓDIGO DE TRÂNSITO BRASILEIRO). SENTENÇA ABSOLUTÓRIA COM ARRIMO NO ARTIGO 386, INCISO VII, DO CODIGO DE PROCESSO PENAL. RECURSO DA ACUSAÇÃO. SUSCITADA COMPROVAÇÃO DE EMBRIAGUEZ. VIABILIDADE. DEPOIMENTO DOS POLICIAIS MILITARES, TESTEMUNHA, EXAME DE ALTERAÇÃO PSICOMOTORA NO IML DE JOINVILLE E LAUDO PERICIAL QUE ATESTARAM OS SINAIS DE EMBRIAGUEZ DO RECORRIDO. MATERIALIDADE E AUTORIA DO CRIME DEVIDAMENTE COMPROVADAS. PROCURADORIA-GERAL DEJUSTIÇA QUE OPINOU PELO CONHECIMENTO E PROVIMENTO DO APELO. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+No presente writ, a defesa aponta constrangimento ilegal pela substituição da pena por restritiva de direitos, por existir uma preferência pela pena de multa, no dispositivo legal, § 2º do art. 44 do Código Penal (fls. 3/10).
+Decisão deste Relator indeferindo a liminar (fls. 366/367).
+Prestadas informações pelo Tribunal de Justiça de Santa Catarina (fls. 370/389).
+Parecer ministerial opinando pela denegação da ordem (fls. 394/397).
+É o relatório.
+Verifica-se que a condenação se deu no julgamento da apelação ministerial, momento em que foi aplicada a pena ao paciente. A defesa não opôs recurso de embargos de declaração para provocar uma discussão a respeito da matéria, para não incidir em supressão de instância. Além disso, deve ser respeitado o livre convencimento do julgador, quando da aplicação da pena, podendo esta Corte intervir apenas quando flagrante a ilegalidade. No caso, não há ilegalidade, pois a jurisprudência desta Corte Superior é firme também no sentido de que não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal já possuir previsão de multa cumulada com a pena privativa de liberdade - como o tipo do art. 306 do Código de Trânsito Brasileiro - devendo-se privilegiar, em semelhantes hipóteses, a incidência de duas medidas restritivas de direitos (HC n. 466.842/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/4/2019) - (HC n. 506.623/SC, Ministro Felix Fischer, Quinta Turma, DJe 20/5/2019).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. SENTENÇA ABSOLUTÓRIA. CONDENAÇÃO NO JULGAMENTO DA APELAÇÃO. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE PARA QUE OCORRA A INTERVENÇÃO DESTA CORTE. APLICAÇÃO DE MEDIDA RESTRITIVA DE DIREITOS. DISCRICIONARIEDADE DO JULGADOR.
+Ordem denegada.
