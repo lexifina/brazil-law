@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo i nterno (fls. 192/198e), interposto pelo INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL e outro, contra decisão de minha lavra, que não conheceu do Recurso Especial.
+A parte agravante, nas razões do recurso especial, impugna acórdão no qual se discute sobre requisitos para retenção de honorários contratuais, por sindicato.
+Com efeito, na linha da jurisprudência do STJ, "antes da verificação da presença de óbices à admissibilidade do recurso especial, deve ser realizada a verificação da existência ou não de pendência: afetação para julgamento repetitivo; repercussão geral reconhecida sobre a matéria, incidente de resolução de demandas repetitivas ou outro incidente de uniformização de jurisprudência" (STJ, AgInt nos EDv nos EAg 1.409.814/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 09/12/2019).
+Na hipótese, ressalta-se que, a referida matéria foi afetada, em 25/10/2022, pela PRIMEIRA SEÇÃO do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, nos REsp 1.965.394/DF, REsp 1.965.559/DF, REsp 1.965.849/DF e REsp 1.979.911/DF, de relatoria do Ministro GURGEL DE FARIA.
+Na ocasião, a controvérsia a ser dirimida restou assim delimitada:
+"Necessidade de apresentação do contrato celebrado com cada um dos filiados para que o sindicato possa reter os honorários contratuais sobre o montante da condenação" (Tema 1.175/STJ).
+Nesse julgamento, determinou-se a suspensão da tramitação de processos com recurso especial e/ou Agravo em Recurso Especial interposto, em tramitação na origem e/ou no STJ.
+Ante o exposto, em juízo de retratação, torno sem efeito as decisões de fls. 149/153e e 154/160e, e determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o Recurso Especial: (a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+Ficam prejudicados os Agravos internos a fls. 167/174e e 175/185e.
+I.
