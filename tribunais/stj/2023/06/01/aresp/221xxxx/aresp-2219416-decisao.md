@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSENILDO DOS SANTOS, contra o v. acórdão prolatado pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Depreende-se dos autos que o agravante foi condenada como incurso nas sanções do artigo 157 do CP, à pena de 04 (quatro) anos de reclusão, em regime inicial aberto, mais pagamento de 10 dias-multa (fls. 328-333).
+A defesa interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas a e c, da Constituição da República, sustentando violação ao artigo 157 do Código Penal, ao argumento de que não restaram comprovados nos autos os elementos necessários para a configuração do crime de roubo (violência ou grave ameaça). Afirma que "apesar de não ter sido afirmado expressamente, depreende-se do acórdão, de forma clara, que a violência empregada pelo recorrente foi diretamente sobre o bem subtraído, não sobre a vítima" (fl. 440) e, ainda, que "o Tribunal presumiu que esse grito foi fruto de um temor sentido pela vítima em decorrência do ato sofrido. Por fim, o Tribunal novamente presumiu que houve, no caso, o emprego de grave ameaça" (fl. 443).
+Pleiteia-se, assim, a reforma do acórdão vergastado para desclassificar a conduta para o delito de furto.
+Apresentadas as contrarrazões (fls.451-452),  sobreveio  juízo  negativo  de  admissibilidade  fundado  na  aplicação  da  Súmula  7/STJ  (fls.  454-457).
+Nas  razões  do  agravo,  postula-se  o  processamento  do  recurso  especial,  haja  vista  o  cumprimento  dos  requisitos  necessários  a  sua  admissão  (fls.  471-489).
+A  d.  Subprocuradoria-Geral  da  República  apresentou  parecer  pelo  provimento  do  agravo  em  recurso  especial  (fls.  520-525).
+É  o  relatório.
+Decido.
+Tendo  em  vista  os  argumentos  expendidos  pela  parte  agravante  para  refutar  os  fundamentos  da  decisão  de  admissibilidade  da  origem,  conheço  do  agravo  e  passo  a  examinar  o  recurso  especial.
+O  ponto  de  insurgência  apresentado  em  recurso  especial  versa  sobre  a  possibilidade de desclassificação da conduta imputada ao réu para o delito de furto.
+O eg. Tribunal a quo assim se manifestou sobre o ponto (fls. 360-362, grifei):
+"Ressalte-se que a ofendida declarou, perante a autoridade policial, de forma clara e segura, que o ora apelante, subtraiu de forma abrupta o telefone celular de sua mão e fugiu logo em seguida. Observa-se que, embora o apelado não tenha proferido explicitamente palavras ameaçadoras, a vítima em seu depoimento afirmou que começou a gritar após a ação do apelado, ficando claro que a ação do agente provocou temor na vítima. Portanto, devidamente demonstrada a elementar grave ameaça necessária à caracterização do crime de roubo.
+Sabe-se que a grave ameaça integrante do tipo do art. 157 do Código Penal, pode ser empregada de forma velada, sendo suficiente que restrinja a liberdade psíquica do sujeito passivo, capaz de intimidá-lo ou atemorizá-lo. No delito de roubo, a locução grave ameaça é entendida como o mal iminente, capaz de permitir a subtração da res pelo agente naquele exato instante, em decorrência do temor infundido na pessoa da vítima.
+Como preleciona o Superior Tribunal de Justiça, a "ameaça nada mais é que a intimidação de outrem, que, na hipótese de crime de roubo, pode ser feita com emprego de arma, com a simulação, ou até mesmo de forma velada." (Resp1294312/SE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016)."
+Inicialmente, como consignado pela Corte de origem, importante ressaltar que "A grave ameaça inerente ao delito de roubo pode ser empregada de forma velada, evidenciando-se pelo temor causado à vítima para impedir sua reação durante o ato" (AgRg no HC n. 597.225/SC, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe de 22/11/2021.) Em reforço: AgRg no HC n. 561.498/SP, Quinta Turma, Rel. Felix Fischer, DJe de 26/8/2020.
+No caso, verifico que o eg. Tribunal de origem declinou, de forma explícita, as razões - baseado nas provas carreadas aos autos - pelas quais concluiu pela condenação da recorrente quanto ao delito de roubo.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo e desclassificar a conduta da recorrente para o delito de furto, como pretende a defesa, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA DELITO DE FURTO. ALEGADA INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. DESCLASSIFICAÇÃO PARA FORMA TENTADA. INVERSÃO DA POSSE DO BEM CONFIGURADA. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO E PROBATÓRIO. RECONHECIMENTO DE ATENUANTE. IMPOSSIBILIDADE. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Nesse contexto, a alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Código Penal, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, consoante o disposto na Súmula 7 deste Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.286.197/BA, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 28/3/2023.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. DESCLASSIFICAÇÃO PARA O DELITO DE FURTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
