@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUL AMERICA COMPANHIA DE SEGURO SAUDE com fulcro no art. 105, inciso III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MORAIS - Decreto de procedência (manutenção do contrato de saúde em favor dos autores pelo mesmo número de anos que houve contribuição para o plano coletivo) - Recurso interposto pela seguradora - Não acolhimento - Situação excepcional - Muito embora a situação dos autos se enquadre na regra do art. 30 e não 31, da Lei 9.656/98 (contribuição inferior a 10 anos), a esposa do autor e também beneficiária do plano, é portadora de grave enfermidade (carcinoma de mama, com tratamento quimioterápico) - Quadro clínico anterior ao desligamento da empresa estipulante - Tratamento que não pode ser interrompido - Causa impeditiva para contratação de novo plano (com cumprimento de novo prazo carencial) - Seguradora que não pode interromper o tratamento destinado à requerente (até mesmo porque a manutenção junto ao plano fica condicionada ao pagamento integral das mensalidades) - Dano moral ocorrente e que decorre da comunicação de encerramento do plano, não obstante a gravidade do quadro clínico da coautora - Situação que extrapolou mera discussão dos termos do contrato coletivo - Quantum indenizatório - Fixação em R$ 5.000,00 que não se afigura excessiva (até mesmo modesta, diante do contexto apontado) - Sentença mantida - Recurso desprovido" (fl. 421, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 464/466, e-STJ).
+No especial, a recorrente aponta violação do art. 31 da Lei nº 9.656/1998, argumentando, em síntese, a impossibilidade de manutenção dos recorridos no plano de saúde coletivo após o término do período de 24 meses previsto na Resolução Normativa nº 279/ANS.
+Afirma que "o Recorrido já gozou do benefício que lhe concede a legislação aplicável à hipótese, tendo sido mantida como segurada inativa por período de 24 (vinte e quatro) meses" (fl. 441, e-STJ).
+Apresentadas contrarrazões (fls. 446/458, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+A propósito:
+"RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO EMPRESARIAL. DEMISSÃO DO TITULAR. OFERTA DE PLANO INDIVIDUAL NÃO COMERCIALIZADO PELA OPERADORA. INVIABILIDADE. BENEFICIÁRIO EM TRATAMENTO DE SAÚDE. OBRIGAÇÃO DA OPERADORA DE MANTER A COBERTURA ASSISTENCIAL. ASSUNÇÃO DO CUSTEIO INTEGRAL PELO EX-EMPREGADO DEMITIDO. PARIDADE COM OS EMPREGADOS ATIVOS. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRADA.
+1. Ação de obrigação de fazer ajuizada em 15/12/2015, da qual foram extraídos os presentes recursos especiais, interpostos em 02/04/2018 e 23/04/2019, e conclusos ao gabinete em 11/05/2020.
+2. O propósito dos recursos especiais é decidir sobre: (i) a negativa de prestação jurisdicional; (ii) a obrigatoriedade de a operadora do plano de saúde oferecer à usuária, que se encontra em tratamento médico, a portabilidade especial para plano individual, que não comercializa, após o decurso do prazo previsto no art. 30 da lei 9.656/1998; (iii) o valor da mensalidade a ser paga pela usuária.
+(..)
+6. A jurisprudência do STJ está consolidada no sentido de que, "nos planos coletivos de assistência à saúde e em caso de rescisão ou exoneração do contrato de trabalho sem justa causa, deve ser assegurado ao ex-empregado o direito à permanência no plano de saúde mesmo após o limite legal do prazo de prorrogação provisória contido no § 1º do artigo 30 da Lei nº 9.656/98, nas hipóteses em que o beneficiário esteja em tratamento de doença e enquanto esse durar, desde que suporte integralmente as contribuições para o custeio".
+(..)
+10. Recurso especial da operadora parcialmente conhecido e, nessa extensão, provido em parte. Recurso especial da beneficiária conhecido e provido em parte" (REsp n. 1.876.047/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/4/2023, DJe de 20/4/2023 - grifou-se).
+"CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. DECURSO DO PRAZO FIXADO NO ART. 30, § 1º, DA LEI Nº 9.656/1998. OBRIGAÇÃO DA OPERADORA DO PLANO DE SAÚDE DE ASSEGURAR A DISPONIBILIDADE DE UM PLANO NA MODALIDADE INDIVIDUAL OU FAMILIAR ENQUANTO PERDURAR A NECESSIDADE DE TRATAMENTO MÉDICO DE EMERGÊNCIA OU DE URGÊNCIA. PRECEDENTES DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A resilição unilateral do plano de saúde, mediante prévia notificação, não obstante seja, em regra, válida, revela-se abusiva quando realizada durante o tratamento médico que possibilite a sobrevivência ou a manutenção da incolumidade física do beneficiário ou dependente.
+3. Referida conclusão se impõe mesmo quando esgotado o prazo a que se refere o art. 30, § 1º, da Lei nº 9.656/98.
+4. Agravo interno não provido" (AgInt no REsp n. 1.836.823/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022 - grifou-se).
+Ante o exposto, nego provimento ao recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre o valor da causa).
+Publique-se.
+Intimem-se.
