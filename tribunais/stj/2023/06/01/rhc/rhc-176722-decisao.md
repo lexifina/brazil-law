@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Recurso em habeas corpus, com pedido liminar, interposto pela Defensoria Pública, em favor de GILVANILDO DOS SANTOS NASCIMENTO - preso cautelarmente em 18/11/2022, pela suposta prática do crime de tráfico de drogas - contra acórdão do Tribunal de Justiça do Estado de Sergipe (HC n. 202200344664).
+Consta dos autos que o paciente, que estava na companhia de um adolescente, foi preso em flagrante, na posse de drogas - cocaína e crack.
+Contra essa decisão, a defesa impetrou habeas corpus na Corte estadual. O Tribunal de origem denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 104):
+HABEAS CORPUS - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - CRIME DE TRÁFICO DE ENTORPECENTES (ART. 33 DA LEI N.º 11.343/2006) -- NECESSIDADE DA PRISÃO - REQUISITOS DO ARTIGO 312 DO CPP PREENCHIDOS - MONITORAMENTO DO LOCAL POR GRUPO DE POLICIAIS - NOTÍCIA NOS AUTOS DE ENVOLVIMENTO DE ADOLESCENTE NO NARCOTRÁFICO - APREENSÃO DE VARIEDADE DE DROGAS (COCAÍNA E CRACK) - DECISÃO DEVIDAMENTE FUNDAMENTADA EM DADOS CONCRETOS - PENA MÁXIMA COMINADA AO CRIME SUPERIOR A QUATRO ANOS - CUSTÓDIA CAUTELAR LEGALMENTE AUTORIZADA - MANUTENÇÃO DA CONSTRIÇÃO QUE SE MOSTRA MAIS RECOMENDÁVEL IN - EXPECTATIVA DE APLICAÇÃO CASU DE PENA BENIGNA - IMPOSSIBILIDADE DE FAZER ILAÇÕES SOBRE A PERSPECTIVA DA PENA IN CONCRETO, UMA VEZ QUE A FIXAÇÃO DESTA, BEM COMO DO REGIME PRISIONAL, DEPENDE DOS ELEMENTOS DE PROVA PRODUZIDOS NA INSTRUÇÃO - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - AUSÊNCIA DE OFENSA QUANDO A SEGREGAÇÃO CAUTELAR ESTÁ DEVIDAMENTE FUNDAMENTADA - EVENTUAIS CONDIÇÕES PESSOAIS FAVORÁVEIS DO PACIENTE NÃO IMPEDEM A MANUTENÇÃO DA CUST ÓDIA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - SEGREGAÇÃO MANTIDA - NÃO CABIMENTO DAS MEDIDAS CAUTELARES SUBSTITUTIVAS DA PRISÃO - MANUTENÇÃO DA DECISÃO QUE INDEFERIU A LIMINAR - ORDEM DENEGADA - DECISÃO UNÂNIME.
+Na presente oportunidade, a defesa afirma que a prisão preventiva teve fundamentos genéricos e abstratos.
+Alega que o Tribunal agregou novos fundamentos ao denegar a ordem de habeas corpus, com a intenção de suprir a ilegalidade da prisão cautelar em ação mandamental exclusiva da defesa.
+Assim, pede, em liminar e no mérito, a revogação da prisão preventiva, ou a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+Indeferida a liminar (e-STJ fls. 372/374) e prestadas as informações (e-STJ fls. 377/380 e 405/409), o Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 389/384).
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da prisão preventiva do recorrente.
+Ocorre que, consoante informações obtidas no endereço eletrônico do Tribunal de origem, em 30/5/2023, o Juízo processante julgou procedente a pretensão punitiva estatal, para condenar o réu à pena de 2 anos e 8 meses de reclusão, em regime aberto , momento em que foi determinada a expedição do alvará de soltura.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
