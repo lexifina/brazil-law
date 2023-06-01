@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de WILLIAM OLIVEIRA DE FARIAS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Segundo se infere dos autos, o paciente foi condenado como incurso no art. 33, caput, § 4º, da Lei n. 11.343/2006, à pena de 4 anos e 2 meses de reclusão, em regime semiaberto, mais 416 dias-multa.
+Em grau recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Nesta Corte, o impetrante alega que "o defendente figura como Paciente no HC n. 798009 (2023/0015802-0) em trâmite neste Egrégio Superior Tribunal de Justiça, em virtude da ação penal n. 50400397620218240000."
+Complementa que "referidos autos foram distribuídos em 23 de janeiro de 2023, e, até o momento, sequer foi marcada a sessão de julgamento, nesta Corte Superior. Por outro lado, no dia 24 de março de 2023, na origem, foi instaurado o PEC n. 8000257-68.2023.8.24.0023, em desfavor do defendente. Não fosse isso, no dia 12 de abril de 2023, foi expedido mandado de prisão contra o defendente."
+No mérito, reafirma a nulidade da condenação porque embasada em prova colhida em busca domiciliar ilegal.
+Requer a SUSPENSÃO DA EXECUÇÃO DA PENA até o julgamento de mérito do presente writ e do mandamus n. 798009 (2023/0015802-0).
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, observa-se que este habeas corpus constitui mera reiteração do pedido formulado no HC 690.405/SC, de minha relatoria, que não foi conhecido. Na oportunidade, consignei que:
+No caso em exame, observa-se a ocorrência de justa causa para a adoção da medida de busca domiciliar, pois, conforme consta da decisão que homologou o flagrante, em realização de diligências para apuração de denúncias acerca do tráfico de drogas no local, "os Policiais, então, foram até as kitnets apontadas na denúncia,no local conversaram com moradores e com o proprietário, os quais apontaram apartamento em que havia movimentação atípica e que já haviam sentido odor de maconha. Ainda no espaço comum do residencial, os Policiais conseguiram visualizar, pela janela, três tabletes de maconha e uma balança de precisão no apartamento em questão. Nesse contexto, os Policiais relatam que entraram no local, onde encontraram mais dez porções de maconha, cinco embalagens de ecstasy, frasco de lança perfume, documento pessoal do Conduzido, petrechos para a prática do tráfico de drogas, um cheque no valor de R$ 480,00 e R$ 350,00 em espécie." (e-STJ, fl. 59, grifou-se)Da dinâmica narrada, constata-se que os policiais, antes mesmos de entrarem na residência do ora paciente, puderam constatar a ocorrência de flagrante delito no local - tráfico de drogas na modalidade "ter em depósito" -, circunstância essa que justificou a busca domiciliar.
+Logo, houve o esgotamento desta instância para o conhecimento do tema.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
