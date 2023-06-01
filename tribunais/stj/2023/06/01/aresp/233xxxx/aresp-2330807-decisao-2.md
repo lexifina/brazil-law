@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por FZ Administração de Bens Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que os agravados interpuseram embargos à execução, julgados improcedentes.
+Interposta apelação pelos agravados, a Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ, fls. 583-584):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO, CONFISSÃO DE DÍVIDA. VÍCIO DE CONSENTIMENTO. INOVAÇÃO RECURSAL. MATÉRIA NÃO CONHECIDA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DÉBITO ORIGINÁRIO. ABUSIVIDADE EM RELAÇÃO AO VALOR CONFESSADO. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS PARA COBRANÇA JUDICIAL E EXTRAJUDICIAL. PREVISÃO CONTRATUAL. CASO CONCRETO. NULIDADE. EXCESSO DE EXECUÇÃO. CONFIGURAÇÃO. ENCARGOS SUCUMBENCIAIS. REDISTRIBUIÇÃO.
+1. Ausente na inicial de embargos à execução controvérsia acerca da existência de vícios de consentimento na assinatura da confissão de dívida executada, não se mostra possível o conhecimento da alegação em sede de apelação, por caracterizar inovação recursal.
+2. Não há cerceamento de defesa, quando as provas produzidas forem suficientes ao esclarecimento da controvérsia.
+3. É lícito que, para a renegociação do prazo de pagamento, os credores acresçam ao montante devido, além dos juros de mora, atualização monetária, juros remuneratórios e eventuais prejuízos decorrentes do inadimplemento.
+4. É nula a cláusula que estipula honorários advocatícios para a hipótese de cobrança judicial ou extrajudicial do contrato, especialmente quando não demonstrados os gastos realizados com essa finalidade.
+5. O provimento do recurso que importa na alteração de parcela de vitória e de derrota de cada parte acarreta a redistribuição dos encargos sucumbenciais.
+6. Apelação cível parcialmente conhecida e, nessa parte, parcialmente provida.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 389, 395 e 404 do Código Civil.
+Sustentou, em síntese, a validade da cláusula da confissão de dívida que prevê a cobrança de honorários advocatícios contratuais, haja vista a necessidade do devedor arcar com as despesas decorrentes de sua inadimplência.
+Contrarrazões às fls. 627-634 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 767-776 (e-STJ).
+Brevemente relatado, decido.
+De fato, nos termos da jurisprudência de ambas as Turmas de Direito Privado desta Corte Superior, é plenamente possível a existência de cláusula contratual que fixe antecipadamente o valor devido a título de honorários advocatícios caso haja a necessidade de persecução do pagamento judicialmente.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DESPESAS E HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. PACTUAÇÃO. LEGALIDADE. PRECEDENTES ESPECÍFICOS DESTA CORTE.
+1. Segundo a orientação jurisprudencial das Turmas que compõem a Segunda Seção desta Corte, é válida a cláusula contratual que prevê o pagamento das despesas decorrentes da cobrança extrajudicial da obrigação, suportadas pelo credor.
+2. A previsão contratual de honorários advocatícios em caso de inadimplemento da obrigação decorre diretamente do art. 389 do CC, não guardando qualquer relação com os honorários de sucumbência.
+3. Conclusões do acórdão recorrido no mesmo sentido da orientação desta Corte.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.730.248/PE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Nos termos da jurisprudência desta Corte Superior, é válida a cláusula contratual que prevê o pagamento de honorários decorrentes da cobrança extrajudicial da obrigação, não se confundindo com a verba sucumbencial que eventualmente advenha de demanda judicial.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no AREsp n. 1.593.916/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/6/2020, DJe de 30/6/2020.)
+Outrossim, a jurisprudência desta Corte é no sentido da legalidade da cláusula de contrato que prevê a cobrança dos honorários advocatícios extrajudiciais, desde que comprovada a indispensabilidade e efetiva prestação do serviço.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DECORRENTES DE INADIMPLEMENTO CONTRATUAL. ABUSIVIDADE. OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA EFETIVA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS NO ÂMBITO EXTRAJUDICIAL. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 2.004.137/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CLÁUSULA QUE PREVÊ RESPONSABILIDADE DO CONSUMIDOR QUANTO AOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DECORRENTES DE INADIMPLEMENTO CONTRATUAL. RECIPROCIDADE. LIMITES. ABUSIVIDADE. NÃO OCORRÊNCIA.
+1. Os honorários contratuais decorrentes de contratação de serviços advocatícios extrajudiciais são passíveis de ressarcimento, nos termos do art. 395 do CC/02.
+2. Em contratos de consumo, além da existência de cláusula expressa para a responsabilização do consumidor, deve haver reciprocidade, garantindo-se igual direito ao consumidor na hipótese de inadimplemento do fornecedor.
+3. A liberdade contratual integrada pela boa-fé objetiva acrescenta ao contrato deveres anexos, entre os quais, o ônus do credor de minorar seu prejuízo buscando soluções amigáveis antes da contratação de serviço especializado.
+4. O exercício regular do direito de ressarcimento aos honorários advocatícios, portanto, depende da demonstração de sua imprescindibilidade para solução extrajudicial de impasse entre as partes contratantes ou para adoção de medidas preparatórias ao processo judicial, bem como da prestação efetiva de serviços privativos de advogado e da razoabilidade do valor dos honorários convencionados.
+5. Recurso especial provido.
+(REsp n. 1.274.629/AP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/5/2013, DJe de 20/6/2013.)
+Na espécie, o Tribunal estadual, assim se manifestou sobre a matéria (e-STJ, fls. 593-594):
+A legalidade da previsão de honorários advocatícios contratuais, para o caso de cobrança extrajudicial de dívida, foi reconhecida pelo Superior Tribunal de Justiça, no julgamento do Recurso Especial n.º 1.002.445/DF, pelo rito dos recursos repetitivos, que recebeu a seguinte ementa:
+"RECURSOS ESPECIAIS. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. I - RECURSO DO BANCO PROMOVIDO: CONTRATO BANCÁRIO. LEASING. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE COBRANÇA EXTRAJUDICIAL. ÔNUS DECORRENTE DA MORA. RESPONSABILIDADE DO DEVEDOR. LEGALIDADE (CC/2002, ARTS. 389, 395 E 404). CONTRATO DE ADESÃO (CDC, ART. 51, XII). EXISTÊNCIA DE CLÁUSULA CONTRATUAL EXPRESSA. IMPROCEDÊNCIA DA AÇÃO. RECURSO PROVIDO. II - RECURSO DO PROMOVENTE: HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO MINISTÉRIO PÚBLICO. RECURSO PREJUDICADO. 1. Inexiste abuso na exigência, pelo credor, de honorários advocatícios extrajudiciais a serem suportados pelo devedor em mora em caso de cobrança extrajudicial, pois, além de não causar prejuízo indevido para o devedor em atraso, tem previsão expressa nas normas dos arts. 389, 395 e 404 do Código Civil de 2002 (antes, respectivamente, nos arts. 1.056, 956 e 1.061 do CC/1916). 2. Nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não se tem por abusiva a cobrança de honorários advocatícios extrajudiciais em caso de mora ou inadimplemento do consumidor. Igual direito é assegurado ao consumidor, em decorrência de imposição legal, nos termos do art. 51, XII, do CDC, independentemente de previsão contratual. 3. Recurso especial da instituição financeira provido, prejudicado o recurso do Ministério Público" (REsp 1002445/DF, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe 14/12/2015).
+Ocorre que não há nos autos nem sequer indícios de que os apelados tenham buscado a satisfação da confissão de dívida extrajudicialmente, tampouco há demonstração de quantias que eventualmente tenham sido despendidas para tal fim.
+Diante disso, conclui-se que se busca na hipótese o ressarcimento de despesas judiciais, cuja possibilidade de cobrança não está abrangida no recurso repetitivo n.º 1.002.445 /DF, que apenas autoriza a previsão de ressarcimento de despesas extrajudiciais.
+De fato, o acórdão recorrido afastou a possibilidade da execução da verba pretendida pela ora recorrente, por compreender que a previsão contratual concernente aos honorários advocatícios eventualmente devidos somente seria justificada em virtude da prestação de serviços de cobrança extrajudicial contra o devedor, esclarecendo que, no caso dos autos, não houve comprovação da busca pela satisfação da dívida extrajudicialmente, nem demonstração de quantias que eventualmente tenham sido despendidas para tal fim.
+À vista disso, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra impossível dada a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido no tocante à inexistência de cerceamento de defesa, e do ato ilícito, apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ, que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.786936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial de FZ Administração de Bens Ltda.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE COBRANÇA EXTRAJUDICIAL. NÃO COMPROVAÇÃO DA PRESTAÇÃO DO SERVIÇO. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE FZ ADMINISTRAÇÃO DE BENS LTDA.
