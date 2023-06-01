@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 72):
+AGRAVO DE EXECUÇÃO PENAL - REMIÇÃO DE PENAS - EXAME NACIONAL DO ENSINO MÉDIO - ENEM 1) ALEGAÇÃO DE REVOGAÇÃO TÁCITA DA PORTARIA 179/2014 PELA PORTARIA INEP Nº 458/2020 NÃO CABIMENTO; 2) SENTENCIADO QUE NÃO OBTÉM PONTUAÇÃO MÍNIMA EXIGIDA EM TODAS AS ÁREAS DE CONHECIMENTO. Não alcançando a pontuação mínima em todas as matérias exigidas no exame, o candidato não é considerado aprovado no ENEM, fato que obsta a concessão da remição pelo estudo. RECURSO NÃO PROVIDO.
+Narram os autos que as instâncias de origem indeferiram o pedido do paciente de remição de penas por aprovação no Exame Nacional do Ensino Médio.
+A impetrante sustenta, em suma, que "o Paciente preenche os requisitos para ser beneficiado com a remição pela aprovação em DUAS disciplinas do ENEM/2021, tendo direito a remir sua pena em 40 dias" (fl. 4).
+Requer, liminarmente e no mérito, a concessão da ordem, "para que seja concedido ao Paciente a remição da pena pela realização do ENEM/2021 no cômputo total de 40 (quarenta) dias" (fl. 14).
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opina pela concessão da ordem, de ofício.
+Sobre o ponto, o Tribunal de Justiça manteve a decisão de primeiro grau nos seguintes termos (fls. 73-77):
+Pretende o agravante o reconhecimento de dias remidos em relação à aprovação parcial no Enem Exame Nacional de Ensino Médio.
+Sem razão, contudo.
+Como é sabido, ao reeducando que cumpre pena em regime fechado ou semiaberto, é assegurada a possibilidade de remir, por trabalho ou estudo, parte do tempo da pena, conforme dispõe o artigo 126, § 1º, inciso I, e § 5º, da Lei de Execução Penal:
+(..)
+Nessa esteira, o Conselho Nacional de Justiça editou a Recomendação nº 44/2013, dispondo, em seu artigo 1º, inciso IV, sobre a possibilidade de remição pela aprovação nos exames nacionais que certificam a conclusão do ensino fundamental ou médio, in verbis:
+(..)
+Posteriormente, o Conselho Nacional de Justiça editou a Resolução nº 391/2021, que revogou integralmente a normativa anterior, assentando, em seu artigo 3º, que:
+(..)
+Como se vê, para o direito à remição, exige-se do condenado a aprovação no Exame Nacional do Ensino Médio, e não a sua mera participação, que segue a regulamentação prevista na Portaria nº 179/2014 do Instituto Nacional de Estudos e Pesquisas Anísio Teixeira (INEP):
+(..)
+Por outro lado, também incabível a alegação consistente em revogação tácita da Portaria INEP nº 179/2014 pela Portaria nº 458/2020, vez que esse texto legal apenas trouxe normas complementares necessárias ao cumprimento da "Política Nacional de Avaliação da Educação Básica", indicando expressamente as disposições por ela revogadas, dentre as quais não figura a Portaria INEP nº 179/2014, em claro indicativo de que ela se encontra em pleno vigor (Agravo de Execução Penal nº 0007927-07.2021.8.26.0026).
+(..)
+Não é demais mencionar que a Resolução nº 391/2021 do CNJ prevê a hipótese de remição da pena somente no caso de obtenção de aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio.
+Não há, portanto, hipótese de concessão do benefício da remição pela aprovação parcial, ou seja, mostra-se insuficiente a obtenção de notas satisfatórias em apenas algumas áreas de conhecimento avaliadas no respectivo exame.
+(..)
+Não se olvide que a remição da pena em razão do estudo é um direito do preso, todavia, imprescindível que o estudo tenha sido realizado dentro dos critérios previstos nas normas e recomendações que regem o tema, a fim de se evitar eventuais concessões de benefícios a sentenciados que não tenham efetivamente se dedicado ao estudo durante o cumprimento da pena e contribuído para sua ressocialização (Agravo de Execução Penal nº 0001689-39.2022.8.26.0154).
+Desta forma, como o agravante não obteve aprovação total no Exame Nacional de Ensino Médio, inviável, por ausência de amparo legal, o reconhecimento da remição pretendida.
+Ante o exposto, nega-se provimento ao recurso.
+Vê-se, portanto, que as instâncias ordinárias afastaram a concessão do benefício pela ausência de certificado de conclusão do ensino médio, em que pese a aprovação parcial no ENEM.
+Consoante jurisprudência desta Casa, "não há dúvida de que o benefício da remição deve ser aplicado, tendo em vista que aprovação do paciente no ENEM a partir da referida data, inobstante não mais ocasionar a conclusão do ensino médio, configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ (AgRg no HC 629.666/SC, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/02/2021).
+Além disso, também se entende ser possível a remição de pena decorrente da aprovação parcial no ENEM, como se vê:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO TOTAL NO ENEM - NÍVEL MÉDIO. BASE DE CÁLCULO A SER CONSIDERADA CONFORME LEI N. 9.394/1996 E RECOMENDAÇÃO N. 44/2013 DO CNJ. JURISPRUDÊNCIA FIRMADA PELA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR. INTERPRETAÇÃO DAS NORMAS -EXECUÇÃO DA PENA -MARCO TEÓRICO: CF/88, ART. 3º. PRECEDENTES DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com o intuito de "fechar esse espaço deixado pelo CNJ" fez-se uso da LDB, na qual consta que a carga anual mínima para o ensino médio é de 600 horas, sendo natural que ela seja menor no início e maior no final. Relevante consignar, ademais, que o art. 4º, II, da Res.03/2010 do CNE, não impede esta interpretação. Pelo contrário, a referida norma menciona que 1200 horas equivalem apenas à duração mínima para os anos finais do Ensino Médio. Nessa linha de intelecção, interpretar que as 1.200 horas mencionadas na Recomendação 44/2013 do CNJ correspondem a 50% da carga horária definida é justamente cumprir o dispositivo, porquanto o CNE não estabeleceu 1200 horas anuais como o máximo possível. Essa particular forma de parametrar a interpretação da lei " é a que mais se aproxima da Constituição Federal  ..  (HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/03/2021, DJe 06/04/2021).
+2. Como a executada foi aprovada em cinco campos de conhecimento do ENEM, faz jus ao cálculo proporcionalde 50% da carga horária total definida para o Ensino Médio, nos moldes do art. 1º, inciso IV, da Recomendação n. 44/2013, o que lhe garante os 100 dias de remição postulados (1.200 horas divididas por 12 = 100). O fato de ela ter concluído o ensino médio antes do início da execução da pena não impossibilita a concessão da remição. Tal circunstância apenas a impede de receber o acréscimo de 1/3 (um terço) no tempo a remir em função das horas de estudo, conforme o artigo 126, § 5º, da Lei de Execução Penal.
+3. Ressalte-se que essa particular forma de parametrar a interpretação da lei (no caso, a remição) é a que mais se aproxima da Constituição Federal, que faz da cidadania e da dignidade da pessoa humana dois de seus fundamentos, bem como tem por objetivos fundamentais erradicar a marginalização e construir uma sociedade livre, justa e solidária (incisos I, II e III do art. 3º). Tudo na perspectiva da construção do tipo ideal de sociedade que o preâmbulo da respectiva Carta Magna caracteriza como "fraterna" (HC n. 94163, Relator Min. CARLOS BRITTO, Primeira Turma do STF, julgado em 2/12/2008, DJe-200 DIVULG 22/10/2009 PUBLIC 23/10/2009 EMENT VOL-02379-04 PP-00851).
+4. Agravo regimental improvido.(AgRg no HC 660.341/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/05/2021, DJe 07/05/2021).
+No caso, o paciente foi aprovado em Ciências da Natureza e suas Tecnologias e Redação (fl. 45). Uma vez que a aprovação nas 5 áreas de conhecimento corresponde a 1.200h de estudo, ensejando a remição de 100 dias, a aprovação em duas áreas de conhecimento lhe permite a remição de 40 dias.
+Ante o exposto, concedo o habeas corpus para declarar remidos 40 dias da pena do paciente, ante a aprovação parcial no ENEM.
+Comunique-se.
+Publique-se.
+Intimem-se.
