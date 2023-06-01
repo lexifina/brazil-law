@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito de Competência suscitado pelo JUIZO DE DIREITO DA VARA DA FAZENDA PUBLICA E REGISTROS PUBLICOS DE NIQUELÂNDIA - GO, em face do TRIBUNAL REGIONAL DO TRABALHO DA 18ª REGIÃO, em Reclamação Trabalhista ajuizada por GECY MIRANDA OLIVERAI COSTA em desfavor do MUNICÍPIO DE NIQUELÂNDIA, pleiteando o recebimento de verbas decorrentes da rescisão do contrato laboral.
+O juízo suscitante pontua ser da competência da Justiça especializada do Trabalho o julgamento de ações de servidor contratado por ente público sob o regime da CLT, sistema mantido no Município de Niquelândia a partir do trânsito em julgado da Ação Popular n. 482199-28.8.09.0113.
+A seu turno, o juízo suscitado afirma a incompetência da Justiça Especializada para processar e julgar a relação de natureza jurídico-administrativa estabelecida entre o servidor, estando em vigor o Regime Jurídico Único, com a edição da Lei Complementar Estadual n. 50/2017.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil de 2015.
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Constituição da República.
+O Supremo Tribunal Federal, ao julgar a ADI n. 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC n. 45/2004, ao apreciar a expressão "relação de trabalho", afastou qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+No caso em exame, depreende-se dos autos que a relação jurídica estabelecida entre as partes iniciou-se em 02.08.2004, sob o regime celetista e, posteriormente, com o advento da Lei Complementar do Município de Niquelândia n. 19/2009 foi alterado seu regime para o estatutário.
+Contudo, sobreveio a Ação Popular n. 482199-28.8.09.0113 que, após apelação, reconheceu a nulidade das atas n. 20 e 21 da Câmara Legislativa de Niquelândia e, consequentemente, a nulidade da Lei Complementar do Município de Niquelândia n. 19/2009, diante disso a relação voltou a ser celetista.
+Nesse contexto, consoante orientação firmada pela 1ª Seção desta Corte, compete à Justiça do Trabalho processar e julgar a reclamação trabalhista, ajuizada por agente público contratado sob o regime celetista:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO MUNICIPAL CONTRATADO PELO REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. De acordo com o entendimento da Primeira Seção desta Corte, a Justiça do Trabalho é competente para o processo e julgamento de causas propostas por servidores públicos municipais contratados sob o regime da CLT, instituído por meio de legislação municipal própria.
+2. Agravo regimental a que se nega provimento.
+(AgRg no CC 134.347/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015).
+CONFLITO DE COMPETÊNCIA. AGRAVO REGIMENTAL. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO. REGIME CELETISTA. RECLAMATÓRIA TRABALHISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Segundo a jurisprudência da Primeira Seção (STJ), "A Justiça do Trabalho é competente para processar e julgar as reclamações trabalhistas propostas por servidores públicos municipais contratados sob o regime celetista, instituído por meio de legislação municipal própria" (CC nº 116.308, SP, relator o Ministro Castro Meira, DJe de 17.02.2012).
+2. Agravo regimental desprovido.
+(AgRg no CC 134.343/MG, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 09/09/2015, DJe 16/09/2015).
+CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. NEGATIVO. RECLAMAÇÃO TRABALHISTA. REGIME JURÍDICO CELETISTA. LEI MUNICIPAL 1.017/2008. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES.
+1. Trata-se de Conflito Negativo de Competência entre o Juízo de Direito da 2ª Vara Cível, Criminal e de Execuções Criminais de Cambuí-MG e o Juízo da 1º Vara do Trabalho de Pouso Alegre - MG, nos autos da Reclamação Trabalhista ajuizada por Marcelo Nascimento contra o Município de Córrego do Bom Jesus, visando obter verbas decorrentes de vínculo empregatício.
+2. A determinação da competência para o processo e o julgamento das demandas que envolvem direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+3. O autor foi admitido no Município de Córrego do Bom Jesus, mediante a assinatura de sua carteira de trabalho (fl. 17, e-STJ) e nos termos da Lei Municipal 1.017/2008, que dispõe em seu art. 1º, parágrafo único, que o regime jurídico local é o celetista (fl. 18, e-STJ).
+4. Assim, temos que a relação jurídica estabelecida entre as partes encontra-se amparada pelos preceitos da Consolidação das Leis do Trabalho, razão pela qual não há como afastar a competência da Justiça Laboral para o julgamento da demanda. Precedentes do STJ.
+5. Agravo Regimental não provido.
+(AgRg no CC 135.877/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 26/11/2014, DJe 10/12/2014 -destaques meus).
+Na mesma linha, as seguintes decisões monocráticas: CC 143.379/MG, Rel. Min. Humberto Martins, DJe de 06.10.2015; CC 136.215/MG, Rel. Min. Benedito Gonçalves, DJe de 02.02.2015; CC 129.037/MG, Rel. Min. Ari Pargendler, DJe de 02.04.2014.
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil de 2015, combinado com art. 34, XVIII, do Regimento Interno desta Corte, CONHEÇO DO CONFLITO para declarar a competência do TRIBUNAL REGIONAL DO TRABALHO DA 18ª REGIÃO.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Publique-se. Intime-se.
+Após as providências cabíveis, arquivem-se os autos.
