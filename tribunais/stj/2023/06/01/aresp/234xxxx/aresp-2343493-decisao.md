@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO CIVIL PÚBLICA Improbidade administrativa Município de Macaubal Bens públicos Apropriação por servidores municipais com a anuência do prefeito Enriquecimento ilícito, dano ao erário e violação a princípios da administração pública Configurados Sanções Adequação Possibilidade:
+- O servidor que se apropria de bem público pratica ato de improbidade administrativa, não afastando o ilícito, por sua manifesta ilegalidade, a anuência do prefeito (fl. 1607).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 12, caput e I, da Lei nº 8.429/92, no que concerne à necessidade de readequação das sanções aplicadas aos recorridos Antônio, Carlos e Josimar, com fundamento nos parâmetros descritos na redação do referido art. 12, caput e I, da Lei nº 8.429/92. Aduz os seguintes argumentos:
+O acórdão desbordou dos limites estabelecidos pela lei. Para os atos de enriquecimento ilícito, o art. 12, I, da Lei de Improbidade Administrativa previa na sua redação originária a suspensão de direitos políticos pelo prazo de oito a dez anos e a proibição de contratação com o Poder Público por dez anos.
+Ao aplicar indistintamente o prazo de cinco anos aos recorridos ANTONIO, CARLOS e JOSIMAR, o acórdão atribuiu-lhes sanções inferiores ao cominado pela lei de regência, violando, pois, o respectivo dispositivo (fl. 1664).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+As sanções foram bem aplicadas, comportando alteração somente quanto aos prazos relativos à suspensão dos direitos políticos e proibição de contratar com o poder público, pois, considerando que a participação de Dorivaldo foi determinante para a ocorrência do ilícito, não há justificativa para ser apenado de forma mais branda que os demais.
+Assim, diante da impossibilidade do agravamento da pena aplicada a Dorivaldo, em razão da ausência de recurso do autor, reduzo para cinco anos o prazo das sanções de suspensão dos direitos políticos e proibição de contratar com o poder público impostas a Antônio, Carlos Roberto e Josimar (fl. 1612).
+.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à adequação das sanções impostas em razão da prática de ato de improbidade administrativa exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a apreciação da questão da dosimetria de sanções impostas em ação de improbidade administrativa implica o revolvimento fático-probatório, hipótese inadmitida pelo Verbete Sumular n. 7 do Superior Tribunal de Justiça". (AgInt no REsp 1.605.192/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 12/4/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.725.696/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 4/6/2019; AgInt no AREsp 573.856/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/6/2018, DJe de 26/6/2018; EDcl no AgInt no AgInt no AREsp 934.968/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 15/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
