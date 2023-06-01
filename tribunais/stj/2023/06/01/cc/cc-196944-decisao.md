@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo - RS em face do Juízo Federal da 7ª Vara de Porto Alegre - SJ/RS.
+Extrai-se dos autos que o Juízo Federal da 7ª Vara de Porto Alegre - SJ/RS teria determinou a remessa, por cisão, das ações de Sequestro nº 50271898920194047100, de Alienação Antecipada nº50351213120194047100 e de Pedido de Busca e Apreensão Criminal nº 50280308420194047100, que lá tramitavam ou tramitam, para o Juízo Universal da Falência.
+Recebidos os autos, o Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo - RS, suscitou o presente conflito, fundamentando que "a cisão ou o desmembramento de procedimento criminal por competência, prerrogativa de foro, ou qualquer outro fundamento demanda, por óbvio, que o juízo para o qual encaminhado o processo cindido seja também competente para a matéria de fundo, de natureza cautelar e criminal, o que não é o caso, posto que o juízo Universal da Falência não atrai a competência de crimes praticados pelos falidos, antes ou depois da falência" (fls. 5 - 6).
+Proferido despacho solicitando informação ao Juízo suscitado (fl. 145), estas foram apresentadas às fls. 147 - 150 informando que o suscitado "reconsider ou , em parte, a decisão do e. 4424, naquilo que determinou a cisão dos autos e remessa ao Juízo Falimentar, para solicitar ao Juízo Falimentar a restituição dos autos 50027056120238210019, 50026978420238210019 e50026934720238210019 a este juízo".
+A douta Subpr ocuradoria-Geral da República opinou pelo reconhecimento da perda de objeto do presente conflito de competência, diante das informações de fls. 147 - 150 (fls. 180 - 182).
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo deveria ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, I, "d", da Constituição Federal. Porém, conforme consta das informações trazidas a esta Corte pelo Juízo suscitado (fls. 147 - 150 ), em que informa que este "reconsider ou , em parte, a decisão do e. 4424, naquilo que determinou a cisão dos autos e remessa ao Juízo Falimentar, para solicitar ao Juízo Falimentar a restituição dos autos 50027056120238210019, 50026978420238210019 e50026934720238210019 a este juízo", verifica-se que não mais subsiste conflito.
+Diante disso, não mais persistindo o conflito, julgo prejudicado o presente conflito de competência, com fulcro no artigo 34, inciso XI, do RISTJ, em razão da perda superveniente de objeto.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECONSIDERAÇÃO PELO JUIZO SUSCITADO DA DECISÃO QUE DECLINOU DA COMPETÊNCIA. PERDA DE OBJETO.
