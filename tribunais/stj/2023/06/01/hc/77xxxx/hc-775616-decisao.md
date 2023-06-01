@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de VALMIR DA SILVA MARINS, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que deu provimento ao agravo em execução ministerial, nos termos do acórdão não ementado de e-STJ, fls. 14-25.
+Neste writ, a Defensoria Pública da União aponta constrangimento ilegal, em decorrência do afastamento pelo Tribunal de origem da aplicação do benefício da continuidade delitiva entre os roubos praticados pelo paciente em 25/2/2010, 27/2/2010, 7/3/2010 e 13/3/2010, retratados nas execuções n. 93672-08.2010/0002, 82275-49.2010/0002, 82229-60.2010/0002, 91463-66.2010/0002 e 79325-67.2010/0002, à alegação de ofensa à coisa julgada.
+Em síntese, sustenta o restabelecimento da decisão do Juízo de primeiro grau, que, por extensão igualitária e benéfica da decisão proferida na execução da corré, aplicou o instituto em seu favor.
+Requer, inclusive liminarmente, a concessão da ordem, para restabelecer a decisão do Juízo da Execução que reconheceu a continuidade delitiva entre os crimes praticados pelo reeducando, por aplicação do art. 580 do CPP.
+A liminar foi indeferida pelo então Ministro Relator Jesuíno Rissato (e-STJ, fls. 31-32).
+Prestadas as informações (e-STJ, fls. 36-40 e 44-73), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do writ ou, caso assim não se entenda, pela denegação da ordem (e-STJ, fls. 75-79).
+Os autos me foram redistribuídos, após o reconhecimento da prevenção para o julgamento do feito (e-STJ, fls. 123 e 127).
+É o relatório.
+Decido.
+De plano, verifico que o acórdão estadual debateu a legalidade de ter o Juízo da Execução estendido ao paciente a decisão mais benéfica proferida em favor da corré, em processo distinto.
+Naquela oportunidade, a Corte de origem cassou a decisão, ao entendimento de que foi ofendido o instituto da coisa julgada. Por oportuno, confira-se:
+"11. A questão, no entanto, cinge-se a análise da legalidade de ter o juiz da execução da pena estendido a Valmir, decisão mais benéfica proferida em favor de sua corré em processo distinto.
+12. Conforme entendimento atual do Supremo Tribunal Federal, são duas as hipóteses de ordem objetiva que não legitimam a invocação do art. 580 do CPP: (I) quando o agente que- postular a extensão não participar da mesma relação jurídica processual daquele que foi beneficiado por decisão judicial da Corte, o que, estreme de dúvidas, evidencia a ilegitimidade do requerente; e (II) quando se invoca extensão de decisão para outros processos que não foram objeto de análise pela Corte, o que denuncia engenhosa fórmula de transcendência dos motivos determinantes com o propósito de promover análise per saltum do título processual, expondo a risco o sistema de competências constitucionalmente estabelecido.
+13. Nesse sentido:  ..
+14. Assim, a decisão proferida ao arrepio da jurisprudência deste Eg. Tribunal de Justiça, em outra execução penal, não deve ser utilizada como fundamento para violação da coisa julgada.
+15. No mais, todos os argumentos relacionados a questão da continuidade delitiva já foram devidamente apreciados nos autos do Agravo de Execução n. 0208901-04.2019.8.19.0001, em sessão de julgamento realizada no dia 05/12/2019, no qual esta Câmara Criminal negou provimento ao recurso defensivo.
+16. Deixo, assim, de adentrar no mérito quanto à possibilidade de reconhecimento da continuidade delitiva em razão de não ter nos autos qualquer comprovação de alteração fática e/ou jurídica a ser analisada.
+17. Além disso, o Superior Tribunal de Justiça, quando instado a se manifestar, não reconheceu do Agravo em Recurso Especial que suscitava revisão da referida decisão.
+18. Conclui-se, então, que a matéria em exame já foi objeto de decisão desta Colenda Câmara e do Corte Superior, fazendo, assim, coisa julgada, não havendo o que se falar em extensão da decisão proferida em autos distintos para beneficiar o Agravado.
+19. Pelo exposto, oriento o voto no sentido de DAR PROVIMENTO ao recurso, para que seja afastado o reconhecimento da continuidade delitiva, respeitando-se o julgamento proferido nos autos do processo nº 0208901-04.2019 .8.19.0001." (e-STJ, fls. 18-25).
+Por sua vez, a defesa sustenta o reconhecimento do instituto da continuidade delitiva, com base no art. 580 do CPP, sem adentrar, contudo, na fundamentação adotada pelo TJ/RJ, que, repito, entendeu que o Juízo da Execução ofendeu a coisa julgada ao aplicar o benefício aos crimes perpetrados pelo reeducando. Com efeito, a controvérsia foi decidida - contrariamente ao pleito defensivo - não apenas no Tribunal de origem, quanto também nesta Corte Superior - HC n. 587.704/RJ, de minha relatoria.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC n. 376.650/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/2/2017, DJe 22/2/2017).
+Ilustrativamente:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO DOMICILIAR. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXPEDIÇÃO DE GUIA DE EXECUÇÃO ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+2. O pedido de prisão domiciliar não foi analisado pela Corte de origem, o que impede o exame do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+3.  ..
+4. Agravo regimental não provido." (AgRg no RHC n. 152.754/SP, deste Relator, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021, grifou-se).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. SUPRESSÃO DE INSTÂNCIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. HISTÓRICO PRISIONAL DO PACIENTE. DECISÃO DEVIDAMENTE FUNDAMENTADA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM NÃO CONHECIDA.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Pendente análise do recurso encaminhado ao Tribunal a quo, em relação à progressão de regime prisional, esta Corte Superior fica impedida de manifestar-se a respeito, sob pena de indevida supressão de instância.
+ ..
+Habeas corpus não conhecido." (HC n. 456.151/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/8/2018, DJe de 27/8/2018).
+A análise da matéria deduzida neste writ se encontra, pois, obstada, sob pena de afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
