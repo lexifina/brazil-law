@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ LUIZ SOBIERAJSKI e OUTROS à decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Narram os autos que a parte ora agravante ajuizou a subjacente ação ordinária em face da UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC, objetivando provimento jurisdicional para determinar que a ré se abstenha de efetuar qualquer desconto referentes ao recebimento da rubrica "URP" no período de junho de 2001 a dezembro de 2007, cujo pagamento, a seu turno, foi assegurado por sentença coletiva na Reclamatória Trabalhista nº 561/89, que transitou em julgado em 5/9/1990.
+O Juízo de 1º Grau julgou procedente o pedido autoral, para "(..) a) desobrigar os autores a restituírem à ré os valores que lhes foram pagos a título de URP fev/89 entre julho de 2001 e dezembro de 2007, que são objeto de exigência no processo administrativo n. 23080.046238/2013-67 e/ou de outros deste derivados; b) condenar a ré a devolver aos autores as quantias que eventualmente já tiverem sido descontadas em suas folhas de pagamento, devidamente atualizadas pelo IPCA-e." (fls. 490/491).
+À sua vez, o Tribunal de origem, apesar de reconhecer devida a incidência de correção monetária e de juros sobre o débito, postergou a sua especificação para a execução, concluindo pelo parcial provimento ao recurso voluntário da universidade agravada, mas negando provimento ao apelo adesivo da parte ora agravante (fls. 612/619).
+Opostos embargos declaratórios por ambas as partes, foram parcialmente providos, apenas para fins de prequestionamento (fls. 695/722).
+No recurso especial inadmitido, a parte ora agravante aponta violação aos seguintes dispositivos legais:
+a) arts. 489, IV, e 1.022, II, do CPC, uma vez que a despeito da oposição de embargos declaratórios, o Tribunal de origem deixou de fixar os índices de correção monetária e juros moratórios incidentes sobre a condenação;
+b) art. 1º-F da Lei n. 9.494/1997 (com redação dada pela Lei n. 11.906/2009), pois a correção monetária deve ser calculada segundo o IPCA-E, e não a TR;
+c) art. 491 do CPC, na medida em que a Corte regional não poderia diferir para momento processual posterior a fixação dos juros moratórios e da correção monetária incidentes sobre a condenação.
+Nas razões do agravo, afirma que os pressupostos de admissibilidade do apelo nobre encontram-se presentes, reprisando seus argumentos (fls. 1.055/1.060).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O presente agravo perdeu seu objeto, haja vista que após sua interposição o Tribunal de origem promoveu juízo de retratação do acórdão recorrido, consoante os ditames dos arts. 1.030, II, e 1.040, II, do CPC, ocasião em que fixou para o caso concreto os consectários legais incidentes sobre a condenação (juros moratórios e correção monetária), aplicando-se-lhe as teses firmadas nos Temas n.º 810/STF e 905/STJ (fls. 1.589/1.606) .
+ANTE O EXPOSTO, declaro prejudicado o recurso.
+Publique-se.
