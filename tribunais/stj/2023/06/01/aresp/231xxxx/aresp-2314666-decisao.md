@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSE NILTON MENDES DE JESUS contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (e-STJ, fl. 102):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO EXTRAJUDICIAL - PENHORA DE PROVENTOS MITIGAÇÃO DA REGRA MESMO NOS CASOS EM QUE O DÉBITO NÃO TEM NATUREZA ALIMENTAR - DEFERIDA A CONSTRIÇÃO JUDICIAL NO MONTANTE DE 10% - CONTEXTO DOS AUTOS QUE DEMONSTRA DIVERSAS DILIGÊNCIAS INFRUTÍFERAS DO AGRAVANTE PARA A SATISFAÇÃO DO CRÉDITO DEMONSTRATIVO DE RENDIMENTO DO AGRAVADO QUE PERMITE O BLOQUEIO NO PERCENTUAL DE 10% SEM AFETAR O DIREITO DO AGRAVADO DE SOBREVIVER COM DIGNIDADE. R E C U R S O CONHECIDO E PARCIALMENTE P R O V I D O - D E C I S Ã O UNÂNIME.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 124-136), a parte recorrente sustentou violação ao art. 833, IV, do CPC/15, defendendo a impenhorabilidade do salário, argumentando que o débito não tem natureza alimentícia, que o salário do recorrido não chega a 5% da quantia de 50 salário mínimos, bem como, que é idoso e tem grande parte do salário comprometido com seus dependentes e sobretudo despesas de saúde.
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Oferecidas as contrarrazões às fls. 174-179 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 183-191, e-STJ), o que ensejou o manejo do presente agravo (fls. 199-207, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 210-215 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, o Tribunal de origem, ao sopesar o acervo fático e probatório dos autos, decidiu pela possibilidade da penhora de 10% dos rendimentos do recorrente.
+Confira-se (e-STJ, fls. 110-111):
+No caso em análise, simples perceber que a dívida é decorrente de execução de dívida comum, sendo certo que a penhora de percentil equivalente a 10% (dez por cento) dos rendimentos não afrontará à sua dignidade ou causará prejuízo ao sustento próprio e da família. Assim, diante da demonstração dos rendimentos do executado bem como do permissivo proveniente da mitigação à lei, associado ao fato de que diversas diligências foram efetuadas pelo agravante na tentativa da satisfação do seu crédito, sem qualquer êxito, é de se permitir que incida a penhora sobre os rendimentos do agravado, entretanto, limitada apenas ao percentual de 10% (dez por cento), haja vista que a quantia a ser constrita, ao tempo em que compele o devedor ao adimplemento da dívida, ainda permite que o mesmo possa dispor de montante satisfatório dos proventos de modo a obter o seu sustento.
+Desse modo, a modificação do referido entendimento acerca da possibilidade da penhora, no caso concreto, demandaria a incursão em elementos fáticos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. REAUTUAÇÃO DO AGRAVO. NOVO JUÍZO DE ADMISSIBILIDADE. INEXISTÊNCIA DE PRECLUSÃO "PRO IUDICATO". INDENIZAÇÃO. RESTITUIÇÃO. PENHORA DE 10% DOS VENCIMENTOS. AUSÊNCIA DE FUNDAMENTAÇÃO GENÉRICA DO ACÓRDÃO. CONCLUSÃO DO ARESTO ESTADUAL TOMADA COM BASE EM ANÁLISE PROBATÓRIA. REVISÃO OBSTADA. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. "A determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele." (AgInt no AgInt no AgInt no REsp n. 2.022.483/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.).
+2. O colegiado a quo foi claro e preciso ao apresentar os motivos do seu convencimento de que a penhora de 10% dos vencimentos não afrontará a dignidade do executado e sua família. Ausência de ofensa aos arts. 489 e 1.022 do CPC.
+3. As circunstâncias fáticas alegadas pelos agravantes não foram delineadas no acórdão estadual. A necessidade de revisão probatória impede o exame e acolhimento da tese recursal nesta instância extraordinária. Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.027.917/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PENHORA. RENDIMENTOS. SUBSISTÊNCIA DO DEVEDOR. APRECIADA PELO TRIBUNAL DE ORIGEM. PENHORA DE PERCENTUAL DE RENDIMENTO. INVIABILIDADE DE REANÁLISE. SÚMULA 7/STJ.
+(..)
+2. Inviabilidade alterar a conclusão do aresto recorrido de que existe particularidade no caso concreto a permitir a relativização da penhora de verba remuneratória para atingir 10% por cento dela, porque demandaria incursão pela seara fático-probatória. Incidência da súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.773.483/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 31/5/2021, DJe de 7/6/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA ENVOLVENDO A COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. OFENSA AOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. PENHORA SOBRE PROVENTOS DE APOSENTADORIA. TRIBUNAL LOCAL QUE, AMPARADO NO ACERVO FÁTICO DA CAUSA, ENTENDEU PELA RAZOABILIDADE DA FIXAÇÃO DO DESCONTO EM 10% DOS PROVENTOS DA PARTE DEVEDORA. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. No mesmo acórdão, entretanto, consignou-se que a impenhorabilidade do salário deveria ser mitigada em respeito ao princípio da máxima efetividade da execução, desde que respeitada a dignidade da pessoa humana.
+5. No caso em exame, o Tribunal de origem concluiu pela existência de situação excepcional apta a permitir a mitigação da regra da impenhorabilidade, autorizando a constrição de 10% dos proventos de aposentadoria da ora recorrente. Alterar esse entendimento demandaria reexame de fatos e provas, vedado em recurso especial, ante o óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.037.346/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+2. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
