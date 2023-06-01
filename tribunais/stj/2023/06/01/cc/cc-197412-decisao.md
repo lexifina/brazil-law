@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUIZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE PARAGOMINAS - PA, suscitante, e o JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO À VARA FEDERAL DE PARAGOMINAS - SJ/PA, suscitado.
+A ação foi proposta perante o Juízo Federal, que declinou da competência para a Justiça Estadual pois "a falta de expedição do diploma não é decorrente da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, o que ensejaria a competência federal, mas de mero atraso por parte da instituição de ensino" (fl. 26/27e).
+Recebidos os autos, o MM. Juízo Estadual reconheceu sua incompetência para julgar a causa e suscitou o presente conflito nos seguintes termos:
+"Não obstante os fundamentos esposados pelo juízo Subseção Judiciária de Paragominas (PA), compreendo que o julgamento do feito deve dar-se naquele juízo.
+O Supremo Tribunal Federal, em sede de Repercussão Geral no Recurso Extraordinário 1.304.964 (SP), firmou a seguinte tese:
+(..)
+De fato, quando a matéria versa apenas sobre questões puramente privadas, entre aluno e instituição, não há competência da Justiça Federal, inexistente o interesse da União. Entretanto, em versando sobre a expedição de diploma, independentemente de credenciamento ou regularidade da instituição, a questão ultrapassa o interesse contratual privado entre aluno contratante e instituição de ensino e passa a atrair o interesse da União, vez que "inerente à atividade-fim da instituição" (ARE 754849 A GR / PR), vez que "Tem a União interesse e a Justiça Federal competência sobre feitos que digam respeito às consequências de condutas comissivas ou omissivas relacionadas à expedição de diplomas por entidades integrantes do Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização". (AG. REG. NO RECURSO EXTRAORDINÁRIO 964.312 PARANÁ).
+A expedição de diploma, ou no caso concreto a não expedição, interessa à União dada a competência do Ministério da Educação e da Cultura (MEC) para supervisão pedagógica das instituições que integram o Sistema Federal de Ensino, caso dos autos.
+Dentre tal competência está não somente o credenciamento das instituições, mas também o regular acompanhamento da atividade-fim, dentre as quais está a expedição de diplomas.
+As instituições privadas de ensino superior sujeitam-se ao Sistema Federal de Ensino, sendo reguladas pela Lei de Diretrizes e Bases da Educação (Lei 9.394/1996), o que evidencia o interesse da União nas causas que tenham como objeto a pretensão de expedição de diploma ou certificado.
+Assim, conforme já assentado no Supremo Tribunal Federal, há o interesse da União no presente feito e, assim sendo, há de ser observado art. 109, inc. I, da Constituição Federal.
+Ainda que fosse o caso de tratar-se de demanda exclusivamente indenizatória, a competência é da Justiça Federal.
+(..)
+essa senda, dado o interesse da União, e considerando do disposto no art.
+109, inc. I, da Constituição Federal, não detém este Juizado Especial Cível Estadual competência para instrução e julgamento do mérito do presente feito, já fixada no momento da distribuição da petição inicial (art. 43 do CPC) e suscito conflito negativo de competência, a teor do inc. II e do Parágrafo único do art. 66 do Código de Processo Civil, em face da decisão proferida pelo referido Juízo.
+Conforme art. 105, inc. I, alí. d, da Constituição Federal, remetam-se ao e. Superior Tribunal de Justiça os documentos necessários à prova do conflito de competência ora suscitado, nos termos do art. 953, parágrafo único, do Código de Processo Civil" (fls. 4/7e).
+Com razão o juízo suscitante.
+De fato, sobre o tema, o Supremo Tribunal Federal, no julgamento do Tema 1.154 da repercussão geral , firmou a seguinte tese: "compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENSINO SUPERIOR. EXPEDIÇÃO DE DIPLOMA. JUSTIÇA FEDERAL. JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO.
+1. Nos termos do art. 1.040, II, do CPC/2015, deve o órgão julgador reapreciar o acórdão proferido no processo de competência originária cuja conclusão divergiu da orientação do Supremo Tribunal Federal em repercussão geral.
+2. Hipótese em que o Supremo Tribunal Federal, no RE 1.304.964/SP, firmou a tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização."(Tema 1.154).
+3. Agravo interno provido, em juízo de retratação, nos termos do art. 1.040, II, do CPC de 2015, para reconhecer a competência da Justiça Federal"(STJ, AgInt nos EDcl no CC 173.747/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 9/12/2021).
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO À VARA FEDERAL DE PARAGOMINAS - SJ/PA, suscitado, para o processamento do feito.
+I.
