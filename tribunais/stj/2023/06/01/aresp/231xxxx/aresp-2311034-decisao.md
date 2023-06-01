@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Instituto de Previdência do Estado do Rio de Janeiro contra decisão que negou admissibilidade a recurso contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. FASE DE CUMPRIMENTO DA SENTENÇA. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO QUE DEMANDA DILAÇÃO PROBATÓRIA. MANUTENÇÃO DA DECISÃO ATACADA. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 115/119 ).
+Interposto recurso especial, com fundamento no artigo 105, III, "a", da Constituição Federal, alegou a violação aos artigos 503, 505, 507 e 927, § 2º, I, do CPC/2015; e 884 do CC/2002.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial por verificar que "o exame das razões recursais revela, ainda, que o recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, o que encontra óbice na Súmula 7 do STJ" (e-STJ fl. 164). Acrescentou que o acórdão recorrido adotou o entendimento do STJ sobre a controvérsia.
+No agravo, alega-se que, em síntese, que (e-STJ fls. 180/181):
+A r. decisão agravada, no entanto, achou por bem inadmitir o Recurso Especial, por entender que haveria necessária apreciação de matéria fática (Súmula nº 7 do STJ). A discussão é simples: o r. acórdão recorrido entendeu pelo descabimento da exceção de pré-executividade por entender que ensejaria dilação probatória.
+No entanto, o entendimento produzido, viola frontalmente dispositivos do CPC e do Código Civil, deixando de aplicar ao caso concreto normas que jamais poderiam ser inobservadas.
+Com efeito, o disposto nos artigos 503, 505 e 507 do CPC são claros ao prever que a impossibilidade de sobrepujar a coisa julgada formada nos autos.
+Defende que as matérias deduzidas na exceção de pré-executividade são de ordem pública e devem ser conhecidas de ofício pelo juiz.
+Afirma ser indevida a aplicação da Súmula 83/STJ ao caso, pois a jurisprudência colacionada não se aplicaria ao caso por se tratar de recurso interposto em sede de execução fiscal e, considerando a presunção de liquidez e certeza da certidão de dívida ativa, não poderia ter o mesmo tratamento dado ao presente caso.
+Contraminuta (e-STJ fls. 189/201 ).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos recursais do agravo e tendo o agravante impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recorrente defende, em síntese, que o acórdão recorrido não conheceu de questões relevantes que foram deduzidas na exceção de pré-executividade acerca da violação da coisa julgada, nestes termos (e-STJ fl. 129):
+Dentre as matérias suscetíveis de arguição por meio de Exceção de Pré-Executividade encontra-se a ofensa à coisa julgada, matéria de ordem pública comprovável de plano, que pode - e deve -ser revista, de ofício, a qualquer tempo e em qualquer grau de jurisdição - justamente o que se verifica na hipótese em tela. De fato, como se demonstrará detalhadamente adiante, a execução promovida pela autora é patentemente nula, pois transcendeu os limites objetivos da sentença, em violação ao instituto da res iudicata.
+O Superior Tribunal de Justiça vem decidindo nessa linha, afirmando ser possível a arguição da nulidade do processo de execução por meio de Exceção de Pré-Executividade, desde que se trate de matéria que possa ser conhecida de ofício pelo juízo, tal como a invalidade do título por ausência de seus pressupostos formais.
+Ocorre que o órgão colegiado se manifestou no sentido de manter a decisão do juízo singular que rejeitou a exceção de pré-executividade por entender que haveria discussão de questões não cognoscíveis de ofício, afirmando que a análise de rubricas ou vantagens que integrariam, ou não, a apuração final do valor constituiria matéria própria a ser deduzida em sede de embargos à execução por demandarem dilação probatória. Conclui-se, portanto, que o recurso especial não deve ser conhecido, pois a pretensão do recorrente demandaria necessária revisão de conteúdo fático-probatório para desconstituir o julgamento da origem. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O incidente de exceção de pré-executividade somente é cabível para arguição de vícios que possam ser analisados de ofício e desde que desnecessária a dilação probatória.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto ao cabimento de exceção de pre-executividade e à inexistência de certeza, liquidez e exigibilidade do título executivo, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.029.018/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. "A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp 1110925/SP, repetitivo, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009).
+2. Hipótese em que, por força da Súmula 7 do STJ, não há como verificar o cabimento da exceção de pré-executividade, tendo em vista que o Tribunal Regional Federal a rejeitou uma vez que os elementos de prova constantes nos autos davam conta de que a saída do sócio contra quem se redireciona a execução se teria dado de forma fraudulenta, exigindo-se dilação probatória para se provar o contrário.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.264.411/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/5/2019, DJe de 24/5/2019.)
+Registra-se, ainda, que reexaminar a exatidão entre os cálculos ofertados e o título judicial exequendo para se reconhecer os limites da coisa julgada e apurar eventual excesso de execução. Incide, à espécie, o óbice da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido. (AgInt no AREsp 1.133.837/RJ, Rel. Ministro
+MAURO CAMPBELL MARQUES, Segunda Turma, DJe 12/12/2017).
+Prejudicada a análise do artigo 884 do CC/2002.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTAUDUAL. PENSÃO. CUMPRIMENTO DE SENTENÇA. CABIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MATÉRIAS QUE DEMANDAM DILAÇÃO PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
