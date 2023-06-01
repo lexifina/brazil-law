@@ -1,0 +1,5 @@
+DECISÃO
+Tendo em vista as alegações trazidas no presente recurso, CONVERTO o agravo em recurso especial para melhor análise da controvérsia.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL E IMOTIVADA PELA ESTIPULANTE. AGRAVO CONVERTIDO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
