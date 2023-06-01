@@ -1,0 +1,26 @@
+Art. 13-A. O valor da exposição a credenciador ou subcredenciador, de que tratam a Resolução BCB nº 80, de 25 de março de 2021, e a Resolução BCB nº 150, de 6 de outubro de 2021, respectivamente, detida por instituição enquadrada nos segmentos S2, S3 ou S4 pode corresponder a 20% (vinte por cento) do respectivo valor contábil quando atendidos cumulativa e permanentemente os seguintes requisitos:
+I - a exposição deve resultar de cessão definitiva, sem coobrigação, de recebível de arranjo de pagamento integrante do Sistema de Pagamentos Brasileiro, de que trata a Resolução nº 4.734, de 27 de junho de 2019;
+II - o recebível de que trata o inciso I do caput:
+a) deve ser constituído, conforme definição da Resolução nº 4.734, de 2019;
+b) deve ser registrado em sistema de registro, conforme Resolução nº 4.734, de 2019;
+c) não deve se sujeitar à arrecadação nos regimes especiais das instituições autorizadas a funcionar pelo Banco Central do Brasil, na recuperação judicial e extrajudicial, na falência, na liquidação judicial ou em qualquer outro regime de recuperação ou dissolução a que seja submetido o participante do arranjo de pagamento pelo qual transitem os referidos recursos;
+d) deve se beneficiar de previsão legal de que os fluxos de pagamentos das transações a que se vincula devam ser repassados aos participantes subsequentes da cadeia de liquidação até alcançarem o detentor da exposição, mesmo se estiverem em poder de participante do arranjo de pagamento submetido aos regimes mencionados na alínea “c” inciso II do caput deste artigo; e
+e) deve se beneficiar de previsão legal de que a instituição detentora se sub-rogue automaticamente, de pleno direito, no direito do seu devedor aos créditos relativos ao recebível caso o devedor do recebível seja submetido aos regimes mencionados na alínea “c” do inciso II do caput deste artigo;
+III - o credenciador ou o subcredenciador de que trata o caput deste artigo deve estar sujeito a requerimento mínimo, em bases individuais ou consolidadas, de:
+a) PR, de que tratam a Resolução CMN nº 4.958, de 2021, ou a Resolução BCB nº 200, de 11 de março de 2022;
+b) Patrimônio de Referência de Instituição de Pagamento (PRIP), de que trata a Resolução BCB nº 198, de 11 de março de 2022; ou
+c) Patrimônio de Referência Simplificado (PRS5), de que tratam a Resolução nº 4.606, de 2017, ou a Resolução BCB nº 201, de 11 de março de 2022.
+§ 1º Caso o exercício tempestivo do direito referido no inciso II, alínea “e” do caput não estiver assegurado mediante a adoção de procedimentos formalizados, o Banco Central do Brasil poderá determinar que o valor de que trata o caput seja 100% (cem por cento) do respectivo valor contábil.
+§ 2º As exposições garantidas por recebíveis a constituir, conforme definição da Resolução nº 4.734, de 2019, devem ser atribuídas ao usuário final recebedor pelo valor contábil.” (NR)
+“Art. 14. No caso de exposição na carteira bancária ou na carteira de negociação relativa a aquisição de cotas de fundo de investimento ou de títulos de securitização, devem ser identificados os respectivos ativos subjacentes detidos direta ou indiretamente por meio de outro fundo ou processo de securitização.
+§ 1º .................................................................................................................
+I - o respectivo fundo de investimento ou o emissor do título de securitização ou, a critério da instituição, o emissor de ativo subjacente integrante da respectiva carteira, para os ativos subjacentes cuja participação no fundo ou na estrutura de securitização, proporcionalmente ao montante de cotas ou títulos, for inferior a 0,25% (vinte e cinco centésimos por cento) do Nível I do PR da instituição; ou
+………………………………..…….................................................................................
+§ 2º Para fins do disposto no § 1º, inciso I, no caso de ser reconhecido como contraparte o fundo de investimento ou o emissor do título de securitização, o valor da exposição à contraparte deve corresponder ao percentual de participação, na carteira do fundo ou na estrutura de securitização, do montante de ativos subjacentes com valores inferiores a 0,25% (vinte e cinco centésimos por cento) do Nível I do PR da instituição, multiplicado pelo valor das respectivas cotas ou títulos.
+§ 3º Para fins do disposto no § 1º, inciso I, no caso de ser reconhecido como contraparte o emissor de ativo subjacente integrante da carteira do fundo de investimento ou da estrutura de securitização, e do disposto no § 1º, inciso II, o valor da exposição à contraparte deve corresponder:
+.........................................................................................................................
+§ 5º A impossibilidade da identificação dos ativos subjacentes à carteira do fundo de investimento ou ao título de securitização deve ser devidamente documentada quanto às suas razões e passível de verificação.
+.........................................................................................................................
+§ 9º Devem ser documentados os critérios que orientaram a escolha da contraparte entre as alternativas mencionadas no § 1º, inciso I.” (NR)
+“Seção V
+Das exposições associadas a operações compromissadas e de empréstimo de ativos
