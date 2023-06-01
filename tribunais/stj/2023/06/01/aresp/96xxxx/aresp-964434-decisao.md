@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+SISTEMA FINANCEIRO IMOBILIÁRIO. Ação revisional do contrato. 1. Não houve cerceamento de defesa, os elementos dos autos eram suficientes para esclarecimento das questões. 2. Não se pode falar de abusividade na pactuação dos juros remuneratórios só pelo fato de a estipulação ultrapassar 12% ao ano ou de haver estabilidade inflacionária no período. Ao contrário, a abusividade destes só pode ser declarada, caso a caso, à vista de taxa que comprovadamente discrepe, de modo substancial, da média do mercado na praça do empréstimo, salvo se justificada pelo risco da operação. 3. Capitalização permitida expressamente na espécie (art. 5º, inciso III, da Lei nº 9.514/97). 4. Substituição do IGP-M pela TR, que não se legitima. Cláusulas contratuais que preveem, expressamente, a utilização do IGP-M. Ausência, ademais, de ilegalidade na sua estipulação. Ação improcedente. Recurso não provido.
+Nas razões de recurso especial, a parte ora agravante alega violação dos artigos 332 do Código de Processo Civil de 1973 e 6º, 47 e 51 do Código de Defesa do Consumidor, além de divergência jurisprudencial.
+Não merece reforma a decisão agravada.
+De início, registro que o conteúdo normativo dos artigos do Código de Defesa do Consumidor indicados como violados não foi debatido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, tampouco foram opostos embargos de declaração para esse fim, atraindo a incidência da Súmula 282/STF.
+Depois, anoto que, sendo o magistrado o destinatário final das provas produzidas, cumpre-lhe avaliar quanto à sua suficiência e necessidade, indeferindo as diligências consideradas inúteis ou meramente protelatórias. E, no caso, o Tribunal de origem concluiu que os elementos probatórios existentes nos autos eram suficientes para decidir a questão, mostrando-se dispensável a dilação probatória, notadamente porque "a contratação observou a lei especial nº 9.514/97, regente das operações de financiamento imobiliário em geral, cujo artigo 5º, III, estabelece como condição a discutida capitalização" (fl. 296/e-STJ).
+Por fim, assinalo que o Tribunal de origem consignou (fls. 296-297/e-STJ):
+O insurgimento contra a capitalização é sem proveito, pois na espécie ela é permitida e foi pactuada no contrato.
+Extrai-se, da leitura dos termos do contrato revisando, haver no item 9 do Quadro-Resumo a previsão da forma de reajuste "mensal e acumulativa" das parcelas mensais a serem pagas pelo tomador do financiamento (fls. 32), a indicar o prévio ajuste da capitalização dos juros remuneratórios.
+E a contratação observou a lei especial nº 9.514/97, regente das operações de financiamento imobiliário em geral, cujo artigo 5º, III, estabelece como condição a discutida capitalização.
+"Art. 5º. As operações de financiamento imobiliário em geral, no âmbito do SFI, serão livremente pactuadas pelas partes, observadas as seguintes condições essenciais:
+III capitalização dos juros".
+Portanto, a capitalização dos juros remuneratórios, no negócio jurídico de alienação fiduciária de bem imóvel, é condição essencial e está de acordo com a legalidade estrita.
+Demais disso, a simples utilização do Sistema Francês de Amortização (Tabela Price) não implica capitalização, pois dentro deste método, cada prestação possui uma parte de juros e outra de amortização do capital principal.
+Assim, em cada período (mês) considerado, parte de cada prestação paga os juros do saldo devedor "zerando-o" e a outra parte restante dela é responsável pela "amortização" do saldo devedor. No período subsequente, os juros serão novamente contados, mas somente sobre o "capital amortizado", diminuindo-se, portanto, os juros, e assim sucessivamente.
+(..)
+Por sua vez, não prospera o pleito de substituição do índice de reajuste das prestações e do saldo devedor do financiamento, ou seja, o IGP-M pela Taxa Referencial - TR.
+Estipula a cláusula 3.2.4 do contrato em exame a atualização das parcelas mensais de amortização, juros e o saldo devedor pela variação do índice constante no item 4-F do Quadro Resumo, que é o IGP-M (fls. 37).
+E não há nenhuma ilegalidade em se estabelecer referido índice para a atualização das prestações e do saldo devedor do financiamento imobiliário regido pelo Sistema Financeiro Imobiliário SFI.
+Ocorre que tais fundamentos, além de não terem sido especificamente impugnados nas razões de recurso especial, demandariam reexame de matéria de fato para ser infirmados. Incidência das Súmulas 283/STF e 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
