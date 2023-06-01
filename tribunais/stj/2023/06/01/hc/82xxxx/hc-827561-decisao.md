@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+Habeas Corpus. Homicídio. Art. 492, I, "e", do CPP. Inconstitucionalidade. Presunção deinocência constitucionalmente assegurada. Iminência de condenação. Meras conjecturas. Salvo conduto. Ordem denegada.
+1. Embora entenda que inconstitucional a decretação da prisão preventiva compulsória do réucondenado pelo Tribunal do Júri com fundamento objetivo tão somente no fato de que a pena aplicada ésuperior a 15 anos de reclusão (art. 492, I, e, do CPP), não há que se falar em expedição de salvo conduto quando sequer foram submetidos a julgamento pelo Tribunal do Júri, tratando-se de meras hipóteses aquestão da procedência da acusação e de dosimetria acima de 15 anos.
+2. Ordem denegada.
+O paciente foi pronunciado como incurso no art. 121, § 2º, II e IV, do CP e o Juízo de 1º Grau designou audiência de julgamento pelo Tribunal de Júri para o dia 5/6/2023.
+A defesa busca a concessão de salvo-conduto para que, caso o acusado seja condenado a uma pena maior de 15 anos, não seja submetido à execução provisória da pena, nos termos do art. 492, I, "e", do CPP.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No caso, do que consta dos autos, verifica-se que o habeas corpus foi impetrado contra a mera possibilidade de o paciente vir a ser preso se condenado a uma pena superior a 15 anos, sem a demonstração de qualquer ato concreto que represente risco de iminente coação ilegal ao direito de liberdade do acusado , requisito para a impetração do habeas corpus, nos termos do art. 105, I, "c" da CF e art. 647 do CPP.
+Com efeito, é " ..  inviável utilizar o habeas corpus para obstar eventuais ilegalidades ou constrangimentos ainda não acontecidos e sem comprovação (fundado receio) de que realmente ocorrerão, sobretudo quando se postula expedição de salvo-conduto para assegurar o exercício de direitos que já estão protegidos constitucionalmente" (RHC 46.334/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 18/9/2014, grifei). Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INEXISTÊNCIA DE MANDADO DE PRISÃO. IMINÊNCIA DE COAÇÃO ILEGAL NÃO COMPROVADA. INEXISTÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO. NÃO HÁ NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É "inviável utilizar o habeas corpus para obstar eventuais ilegalidades ou constrangimentos ainda não acontecidos e sem comprovação (fundado receio) de que realmente ocorrerão, sobretudo quando se postula expedição de salvo-conduto para assegurar o exercício de direitos que já estão protegidos constitucionalmente"(RHC n. 46.334/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 18/9/2014, grifei).
+II - In casu, não há notícias de que a autoridade policial, o Ministério Público ou o Juízo de origem tenham sinalizado alguma necessidade de decretação da prisão em desfavor do agravante, ao contrário, as instâncias persecutórias criminais demonstram ciência sobre a situação, sobretudo empreendendo esforços necessários e urgentes à correção de identificação do real autor do delito.
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo Regimental desprovido. (AgRg no RHC n. 172.958/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 22/2/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
