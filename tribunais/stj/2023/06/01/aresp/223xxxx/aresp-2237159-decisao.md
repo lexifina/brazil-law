@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por LUIS AUGUSTO MORAES DA SILVA e Outros em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÕES CÍVEIS. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+1. Recursos de Apelação interpostos por candidatos aprovados no Concurso Público C-153 SESPA/SEAD e que figuram como terceiros prejudicados, na forma do art. 996 do CPC.
+2. Ante a pendência de julgamento do RE nº 766.304 pelo STF (Tema 683 de Repercussão Geral), deve ser observada a jurisprudência do STJ quanto à aplicação analógica do prazo prescricional quinquenal do art.21 da Lei Federal nº 4.717/1965 à Ação Civil Pública.
+3. Considerando que a presente ação foi proposta dentro do referido prazo, subsiste a possibilidade de nomeação dos aprovados no certame, o que evidencia o interesse de agir dos apelantes (art. 17 do CPC).
+4. Não obstante, a existência de vagas efetivas para os cargos ofertados no Concurso Público C-153, bem como de empregados contratados por Organizações Sociais (terceirizados) atuando em funções semelhantes às dos referidos cargos, não implica em preterição arbitrária e imotivada por parte da Administração Pública, consoante os entendimentos adotados pelo STF no RE nº 837.311 (Tema 784 de Repercussão Geral)e na ADI nº 1.923.
+5. Assim, não tendo sido demonstrada de forma cabal a ocorrência de preterição, a exsurgir o direito à nomeação dos aprovados no Concurso Público C-153, não merecem ser acolhidos os apelos.
+6. Recursos CONHECIDOS e NÃO PROVIDOS.
+Versa a demanda sobre a alegação de preterição de candidatos aprovados em cadastro de reserva, por funcionários contratados temporariamente e terceirizados.
+No recurso especial, fundamentado no artigo 105, III, "a" e "c", da Constituição Federal, a parte alegou contrariedade às disposições dos artigos 4º, 7º, 8º, 926 e 927 do Código de Processo Civil. Indicou, também, divergência jurisprudencial.
+Primeiramente, asseverou que o colegiado estadual não observou a uniformidade dos precedentes, pois há julgamento firmado em caso semelhante (processo nº 0001143-54.2012.8.14.0061) em sentido oposto ao acórdão recorrido.
+Sustentou ofensa à Lei de Responsabilidade Fiscal e ao art. 11 da Lei de Improbidade Administrativa, diante do provimento de cargos efetivos da Secretaria de Saúde por contratação de temporários e terceirizados.
+Ao final, requer o provimento do recurso " ..  para cassar a sentença combatida, com fins de que determine o distrato dos funcionários contratados precariamente através do SIAFEN para as seguintes funções e consequentemente, promova ao chamamento dos candidatos aprovados e classificados tanto dentro do número de vagas como os que foram aprovados em sede de cadastro de reserva do Concurso C-153, edital n. 01/2009." (e-STJ fl. 1.475)
+Sem contrarrazões.
+A decisão agravada inadmitiu o especial em razão da incidência da Súmula 7 desta Corte.
+Nas suas razões de agravo, a parte aponta a nulidade da sentença por ausência de intimação da parte ré para se manifestar sobre os documentos novos juntados pelo autor. Indica, também, ausência de intimação do Ministério Público sobre a apelação interposta por terceiro interessado na ação civil pública.
+No mérito, impugna os fundamentos apresentados para a inadmissão do recurso especial.
+Foi ofertada contraminuta (e-STJ fls. 1.587/1.602).
+Em parecer, opina o Ministério Público Federal pelo conhecimento do agravo e o não conhecimento do recurso especial:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO FORA DO NÚMERO DE VAGAS PREVISTO NO EDITAL. ILEGALIDADE DAS CONTRATAÇÕES TEMPORÁRIAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há como conhecer do apelo especial quanto à indevida preterição dos recorrentes em favor de contratados temporários, pois, como destacado, a conclusão do acórdão recorrido se deu com esteio em ofícios, escalas de trabalho, em suma, elementos integrantes do conjunto de provas, de modo que a discussão sobrea preterição arbitrária envolve matéria fática, insuscetível de reexame na via especial - Súmula 7/STJ.
+2. Não se vislumbra ofensa ao princípio da uniformidade dos julgados (arts. 926 e 927 do CPC) quando a decisão recorrida e o acórdão paradigma nitidamente assentaram-se no mesmo iter lógico e chegaram à mesma conclusão.
+3. Para eventual reforma da decisão seria necessário revolver o conjunto fático-probatório dos autos, incursão vedada na via do apelo especial - Súmula 7/STJ.
+4. Parecer pelo conhecimento do agravo para não conhecer o recurso especial.
+É o relatório. Decido.
+Conheço do agravo porque impugnados os fundamentos do juízo de admissibilidade feito na origem.
+Sobre a arguição de nulidade da sentença por ausência de intimação da parte ré e do Ministério Público estadual, constata-se a preclusão, porquanto a questão não foi apresentada em momento oportuno, não sendo o agravo em recurso especial a via adequada para isso.
+Vale ressaltar que "conforme entendimento jurisprudencial desta Corte, ainda que a questão seja de ordem pública, é imprescindível o prequestionamento  .. " (EDcl no AgRg no REsp 1463935/AM, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/05/2015).
+Em relação ao art. 11 da Lei nº 8.492/1992, extrai-se da análise do acórdão que a norma e a tese recursal não foram debatidas pela última instância ordinária, nem opostos embargos de declaração para esclarecer o entendimento da Corte de origem.
+A falta de prequestionamento, como se sabe, impede o conhecimento do recurso especial, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal, porquanto impossibilita a esta instância extraordinária avaliar se o colegiado a quo violou legislação federal.
+Confiram-se os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS. EMBARGOS À EXECUÇÃO FISCAL.AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 2º, I, DA LC N. 87/1996 E 108 DO CTN. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 282/STF.  ..
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Tribunal Federal.
+ ..
+X - Agravo Interno desprovido.
+(AgInt no REsp 1898207/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/08/2021, DJe 12/08/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. SUCESSÃO EMPRESARIAL CONFIGURADA. RESPONSABILIDADE TRIBUTÁRIA DA SUCESSORA. ART. 133 DO CTN. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. TESE DE RESPONSABILIDADE EXCLUSIVA DOS SÓCIOS DA PESSOA JURÍDICA ORIGINALMENTE EXECUTADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015.
+ ..
+V. Não tendo o acórdão hostilizado expendido juízo de valor sobre a tese de responsabilidade exclusiva dos sócios da pessoa jurídica originalmente executada, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+VI. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+ ..
+XI. Agravo interno improvido.
+(AgInt no AREsp 1644749/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/05/2021, DJe 18/05/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.  ..  TESES RECURSAIS NÃO PREQUESTIONADAS. SÚMULAS 282 E 356 DO STF. EMBARGOS DE DECLARAÇÃO ACOLHIDOS MAS SEM EFEITOS MODIFICATIVOS.
+ ..
+2. Na hipótese dos autos, as teses que fundamentam a competência da justiça federal para julgar o feito não foram debatidas pelo Tribunal de origem, nem constou das razões dos embargos de declaração essa questão, atraindo a incidência das Súmulas 282 e 356 do STF por ausência de prequestionamento.
+3. Embargos de declaração acolhidos para integração do julgado, mas sem efeitos modificativos.
+(EDcl no AgInt nos EDcl no AREsp 1595641/MG, minha relatoria, SEGUNDA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL.  ..  DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 282/STF. ..
+3. O dispositivo tido como diversamente interpretado não foi objeto da decisão recorrida, atraindo a incidência da Súmula 282/STF. Além disso, a alegação de notoriedade do dissídio não dispensa o recorrente do devido cotejo analítico.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1375344/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  ART. 10 DA LEI 6.938/1981 NÃO PREQUESTIONADO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF.  ..
+2. O art. 10 da Lei 6.938/1981 não foi debatido no acórdão impugnado. Dessa forma, ausente o requisito essencial do prequestionamento.
+ ..
+4. Agravo Regimental da Companhia desprovido.
+(AgRg no AREsp 327.472/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 05/04/2017)
+Sobre os artigos 4º, 7º, 8º, 926 e 927 do CPC, os recorrentes indicaram apenas um acórdão paradigma para sustentar a tese de violação à uniformização dos julgados. Desse modo, não há como afirmar que referido aresto constitui jurisprudência dominante, tampouco precedente vinculante e, portanto, não é de observância obrigatória.
+Ademais, o acórdão recorrido decidiu nos mesmos termos do acórdão paradigma indicado pelo recorrente (e-STJ fl. 1.443):
+8. A relação de servidores temporários lotados no Hospital Regional de Tucuruí (fls. 38/47 efls.222/233), bem como, os ofícios expedidos pelo Diretor Geral do Hospital suscitando necessidade de mais servidores (fls.160/161), cópia da Escala de carga horária (fls.190/191),documentos relativos à contratação de temporários(fls.201/205) e demais documentos defls.488/685, não demonstram a existência de cargo de provimento efetivo vago. Reconhecer direito líquido e certo à nomeação pela simples razão de existirem servidores temporários, poderia obrigar o Estado a nomear candidato sem haver disponibilidade, implicando, por via transversa, na criação de cargo, sem o devido processo legislativo, o que, por certo, está fora das competências do Poder Judiciário.
+9. Apelação do Estado do Pará conhecida e parcialmente provida, para excluir a determinação de nomeação dos candidatos aprovados no cadastro do Concurso C-153 pelo Ente Público, afastando-se, por conseguinte, a determinação de distrato dos servidores temporários por ocasião dessas nomeações. (Grifei.)
+Em relação ao dissídio jurisprudencial, convém rememorar que a interposição do recurso especial pela alínea "c" do permissivo constitucional exige que o recorrente cumpra o disposto nos arts. 1029 do CPC, e 255, § 1º, do RISTJ. Considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, verifica-se que a parte recorrente não atendeu aos requisitos estabelecidos pelos dispositivos legais supramencionados. Assim, é descabido o recurso interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+Nesse sentido confiram-se:
+PROCESSUAL CIVIL. MAJORAÇÃO DO BENEFÍCIO DE PENSÃO POR MORTE. EX-CÔNJUGE. APLICAÇÃO DO ART. 60, § 11, DA LEI ESTADUAL N. 12.398/1998. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. JULGAMENTO DE ADI NO STF. SOBRESTAMENTO. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+VIII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+IX - Agravo interno improvido.
+(AgInt no REsp 1895308/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/03/2021, DJe 26/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE E/OU APOSENTADORIA POR INVALIDEZ.  ..  DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO COMPROVAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA DOS ACÓRDÃOS CONFRONTADOS.  ..
+2. A divergência jurisprudencial deve estar amparada no necessário cotejo analítico entre acórdãos confrontados e na comprovação da similitude fática, de forma apta a permitir o exame do recurso especial com base no dissídio pretoriano. A falta do cotejo analítico e a ausência da similitude fática, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio, porquanto violam o disposto no art. 1.029, § 1º, do CPC/2015.
+ ..
+(AgInt no AREsp 1595312/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CANDIDATOS APROVADOS EM CADASTRO DE RESERVA. CONTRATAÇÃO TEMPORÁRIA. ART. 11 DA LEI Nº 8.429/1992. NORMA FEDERAL E TESE NÃO PREQUESTIONADAS. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. JURISPRUDÊNCIA UNIFORME NÃO DEMONSTRADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO REVELADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
