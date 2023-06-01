@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por SAVOY IMOBILIÁRIA CONSTRUTORA LTDA. em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO - EMBARGOS À EXECUÇÃO FISCAL - IPTU E TAXA DE EXPEDIENTE - Pretensão ao reconhecimento da prescrição do crédito tributário dos exercícios de 2.005 a 2.008 - Sentença de improcedência - Pleito de reforma da sentença - Não cabimento - Ausência de assinatura no despacho de citação da apelante que não implica nulidade do ato - Termo inicial da prescrição que, nos termos dos Recursos Especiais Repetitivos nºs 1.641.011/PA e 1.658.517/PA (TEMA Nº 980, de 21/11/2.018, do STJ), deve corresponder ao dia seguinte ao vencimento da exação - Início do primeiro prazo prescricional do crédito tributário que corresponde ao dia 11/01/2.005 - Ajuizamento da ação em 18/12/2.009, ou seja, antes do esgotamento do lustro legal - Sentença mantida - APELAÇÃO não provida - Majoração dos honorários advocatícios, em segunda instância, nos termos do art. 85, § 11, do CPC.
+Nas suas razões, a recorrente aponta violação dos arts. 489, § 1º, III, do CPC/2015, 205 do CPC/2015 e 240, § 2º, do CPC/2015.
+Aduz que o acórdão recorrido é nulo, por vício de motivação, porquanto não se manifestou sobre a alegada ilegalidade dos Provimentos n. 11/2002 e 10/2009, que autorizariam a expedição de despacho citatório pela parte, sem qualquer ratificação ou assinatura do magistrado.
+Afirma, ainda, a nulidade do despacho ordenatório da citação, por ausência de assinatura do magistrado, e a prescrição dos créditos cobrados, pois a exequente deixou de promover a citação no prazo legal.
+Sem contrarrazões.
+O Tribunal de origem inadmitiu o apelo raro por entender inocorrente a alegada infringência ao art. 489 do CPC/1973 e incidente a Súmula 7 do STJ; fundamentação com a qual não concorda a agravante.
+Sem contraminuta.
+Passo a decidir.
+O recurso especial não merece ser mesmo admitido.
+Isso porque os dispositivos de lei federal tido por violados não foram efetivamente examinados no acórdão recorrido, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+A par disso, o fundamento consignado no acórdão recorrido, de que, in casu, a ausência de assinatura do magistrado no despacho ordenatório da citação não trouxe prejuízo à recorrente, não foi diretamente impugnado no recurso especial, o que revela a deficiência da irresignação, consoante inteligência da Súmula 283 do STF.
+Por fim, a Corte a quo assentou que a demora na realização da citação decorreu de culpa exclusiva da máquina judiciária, o que afasta o reconhecimento da prescrição, consoante o entendimento sedimentado na Súmula 106 do STJ; sendo certo que a revisão dessa compreensão, na espécie, pressupõe o reexame do acervo-fático probatório dos autos, o que é inviável no âmbito do recurso especial, consoante o veto contido na Súmula 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
