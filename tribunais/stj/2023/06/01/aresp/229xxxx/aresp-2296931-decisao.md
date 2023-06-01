@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA URBANA. REQUISITOS NÃO PREENCHIDOS. BENEFÍCIO INDEVIDO RECEBIDO DE BOA FÉ. ERRO DA ADMINISTRAÇÃO. IRREPETIBILIDADE DOS VALORES.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a autarquia sustenta, inicialmente, violação ao artigo 1.022 do CPC/15, porquanto mesmo ante a oposição de embargos de declaração, não teriam sido analisadas as teses suscitadas em sede embargos de declaração.
+Alega, ainda, violação ao arts. 876, 884 e 885, todos do Código Civil; artigos 37, 97 e 195, parágrafo 5º, todos da Constituição Federal; artigo 115 da Lei n. 8.213/91.
+Aduz, em síntese, que "se não há mais título judicial a justificar os pagamentos efetuados pelo INSS em sede de antecipação de tutela, indubitável a ocorrência de pagamento indevido, nos termos do disciplinado pelo artigo 876 do Código Civil ou, ao menos, de enriquecimento sem causa".
+Por fim, argumenta que "a norma trazida pelo inciso II, do artigo 115, da Lei 8.213/91, permite a restituição de quantias indevidamente pagas a título de benefício previdenciário, vale dizer, não obstante o caráter alimentar dos proventos, a lei permite a sua restituição.
+Sem contrarrazões, o feito foi encaminhado, ainda na origem, para juízo de retratação ante eventual conflito com o Tema 692 STJ (fls. 291-294).
+Por decisão monocrática do relator o acórdão foi mantido ao entendimento de que a decisão recorrida está assentada em entendimento firmado pelo STF (fls. 295-297).
+Petição da autarquia às fls. 299 suscitando a remessa do recurso especial ao STJ.
+Em juízo de admissibilidade, o recurso especial não foi admitido ao entendimento de que, realizado o juízo de retratação por decisão monocrática, seria cabível o recurso de agravo interno. Não tendo sido interposto o referido agravo, para que se efetivasse o juízo de retratação, não houve o esgotamento de instância.
+Contra referida decisão foi interposto agravo em recurso especial em que se alega que o art. 1041 do CPC/15 expressamente determina que, mantido o acórdão divergente em sede de juízo de retratação, o recurso especial será remetido ao respectivo tribunal superior.
+É o relatório. Decido.
+Verifico que encaminhado o feito para juízo de retratação, a decisão do órgão colegiado foi mantida por decisão monocrática.
+Ocorre que o art. 1.030, inciso II, do CPC/15 expressamente estabelece a competência do órgão julgador, no caso, o colegiado, para a realização do juízo de retratação, não servindo para tal desiderato a decisão monocrática do relator.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, em conformidade com a previsão do art. 1.040, c/c o § 2º do art. 1.041, ambos do CPC/2015, seja reexaminado e: a) na hipótese de a decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento ao recurso especial, encaminhando-se a esta Corte Superior apenas as matérias a respeito das quais não exista questões submetidas ao regime dos recursos repetitivos e que não tenham ficado prejudicadas; ou, b) caso o acórdão recorrido contrarie a orientação do Superior Tribunal de Justiça, seja submetido o feito ao órgão colegiado para o exercício do juízo de retratação e, posteriormente, julgado prejudicado o recurso especial, encaminhando-se a esta Corte Superior apenas as matérias a respeito das quais não exista questões submetidas ao regime dos recursos repetitivos e que não tenham ficado prejudicadas; ou, c) finalmente, se mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DEVOLUÇÃO DE VALORES RECEBIDOS POR TUTELA ANTECIPADA, POSTERIORMENTE REVOGADA. TEMA 692 STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA OS FINS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
