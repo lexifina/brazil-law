@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo decisão que não admitiu recurso especial interposto por ANA AVELINA FIGUEIRA e OUTROS, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO. INDEFERIMENTO DE PEDIDO LIMINAR PARAS USPENDER A IMISSÃO NA POSSE DE IMÓVELO BJETO DE AÇÃO REIVINDICATÓRIA. AÇÃO AJUIZADA EM DESFAVOR DE CENTRO ESPÍRITA. PROCEDÊNCIA DO PEDIDO. DETERMINADA EXPEDIÇÃO DE MANDADO DE IMISSÃO DE POSSE. OPOSTOS EMBARGOS DE TERCEIRO. ALEGADA NULIDADE NA AÇÃO REIVINDICATÓRIA POR FALTA DE CITACÃO DOS EMBARGANTES/AGRAVANTE. NÃO VERIFICADOSOS REQUISITOS APTOS A OBSTACULIZAR A IMISSÃO NA POSSE DO IMÓVEL. RECURSO CONHECIDO E DESPROVIDO." (fl. 135)
+Nas razões do apelo nobre, a parte ora agravante apontou, além da divergência jurisprudencial, ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, bem como aos arts. 674 e 678 do Código Civil de 2002.
+É o relatório. Decido.
+A súplica não merece conhecimento.
+De início, é importante salientar que aplica-se ao caso dos autos o Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O prazo para a interposição do agravo em recurso especial e do recurso especial é de 15 (quinze) dias, contados em dias úteis, nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, todos do Código de Processo Civil de 2015.
+Tal prazo, conforme delineado na decisão ora agravada, não foi observado pela parte agravante, tendo em vista que fora intimada da decisão de admissibilidade do recurso especial no dia 6 de abril de 2022, conforme noticia a certidão de fl. 310 (e-STJ) e a petição do agravo somente foi protocolada em 30 de junho de 2022, conforme se infere da chancela eletrônica inserida no frontispício da petição recursal (e-STJ fl. 270), ou seja, fora do prazo legal.
+Ademais, consoante o entendimento desta Corte Superior, a oposição de embargos de declaração contra decisão que, na instância ordinária, não admite recurso especial, não interrompe o prazo para a interposição de agravo, exceto nos casos em que proferida de forma genérica, o que não ocorreu na hipótese dos autos, em que a decisão que inadmitiu a subida do recurso especial está devidamente fundamentada.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE. RECURSO MANIFESTAMENTE INCABÍVEL.
+1. Ação indenizatória por danos materiais e morais.
+2. A interposição de recurso manifestamente incabível, como nas hipóteses de pedido de reconsideração ou embargos de declaração opostos à decisão de admissibilidade do recurso especial, não interrompe ou suspende o prazo para a interposição do recurso próprio.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 2.069.070/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. APLICAÇÃO DE MULTA. ART. 1.026, § 3º, DO CPC/2015. AUSÊNCIA DE RECOLHIMENTO PRÉVIO. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO EM FACE DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RECURSO INCABÍVEL. INEXISTÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. NÃO CONHECIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Na dicção do art. 1.026, § 3º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 2º do referido artigo, majorada na reiteração de embargos de declaração manifestamente protelatórios, é pressuposto objetivo de admissibilidade de qualquer recurso, de modo que não se conhece de recurso sem o pagamento da referida penalidade. Precedentes.
+2. O prazo para interposição do agravo em recurso especial é de 15 (quinze) dias úteis, nos termos dos arts. 219 e 1.003, § 5º, do CPC/2015.
+3. É entendimento desta Corte Superior que a oposição de embargos de declaração contra decisão que, na instância ordinária, não admite recurso especial não interrompe o prazo para a interposição de agravo para o Superior Tribunal de Justiça, exceto nos casos em que proferida de forma genérica, o que não ocorreu na hipótese dos autos, em que a decisão que inadmitiu a subida do recurso especial está devidamente fundamentada. Precedentes.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 1.799.956/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
