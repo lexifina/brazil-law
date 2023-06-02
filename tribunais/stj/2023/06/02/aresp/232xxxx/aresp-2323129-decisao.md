@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação declaratória de inexistência de dívidas c/c obrigação de fazer (cancelamento) e de não fazer, objetivando declarar a nulidade dos débitos ilegalmente inscritos em nome da agravante, de modo a isentar as anotações em seus cadastros internos e obrigar os entes públicos a excluírem as anotações em seus cadastros internos, assim os débitos eivados de vício de constituição devem ser retirados dos cadastros de inadimplentes. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 1.000,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+DECLARATÓRIA DESCONSTITUIÇÃO MULTA PRETENSÃO DA AUTORA DE DESCONSTITUIÇÃO DA MULTA LAVRADA PELOS RÉUS - ILEGITIMIDADE PASSIVA DA FAZENDA DO ESTADO MANTIDA _ DÉBITO LAVRADO PELO DETRAN SP. AUTARQUIA QUE TEM ENTRE SUAS ATRIBUIÇÕES A FISCALIZAÇÃO DE ATIVIDADES DE TRÂNSITO, NOS TERMOS DO DISPOSTO NO ART. 4O DA LEI COMPLEMENTAR ESTADUAL Nº 1.195/2013  BAIXA DO VEÍCULO QUE OCORREU EM DATA POSTERIOR À INSCRIÇÃO DO DÉBITO, RAZÃO PELA QUAL A AUTORA NÃO PODE SE RECUSAR A QUITÁ-LO - SENTENÇA MANTIDA  FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS RECURSAIS  MAJORAÇÃO DA VERBA HONORÁRIA DEVIDA PELA AUTORA PARA R$ 4.500.00. COM FULCRO NO DISPOSTO NO ART. 85. §§8 . E 11. DO NOVO CPC. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Há de ser afastada, a princípio, a alegação de que a Fazenda do Estado de São Paulo seria parte legítima no presente feito.
+Isso porque a autora pretende a desconstituição de débito lavrado pelo Detran, autarquia que tem como uma de suas atribuições a fiscalização das atividades de trânsito, nos termos do disposto no art. 4º da Lei Complementar Estadual nº 1.195, de 17 de janeiro de 2013.
+ ..
+Ocorre que o débito é datado de 14 de julho de 2016 (fls. 17), e a baixa do veículo ocorreu em 19 de julho do mesmo ano (fls. 23), razão pela qual não pode a autora se negar a quitá-lo.
+E o fato de ter sido emitido novo CRV na mesma data de inclusão do débito em nada altera referida conclusão.
+ ..
+Ademais, não comprovou a autora qualquer débito que tenha sido cobrado pelos réus após a data da baixa que justificasse o pedido.
+ ..
+Dessa forma, a verba honorária devida pela autora deve ser majorada para R$ 4.500,00, com fulcro no disposto no art. 85, § 8º, do Novo CPC.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consider ação os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
