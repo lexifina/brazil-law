@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por URIAS GENETON REOBE DE SOUZA TEIXEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2198660-37.2022.8.26.0000.
+Extrai-se dos autos que o recorrente foi denunciado pela prática do crime previsto no artigo 317 do Código Penal (Corrupção passiva). Recebida a denúncia, em 16/8/2022, foi aplicada medida cautelar diversa da prisão, consistente em suspensão do exercício da função pública.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 216/224.
+Opostos embargos de declaração pela defesa, foram rejeitados (fls. 238/243).
+No presente recurso, alega, em suma, inexistir fundamentação idônea nas medidas cautelares impostas.
+Destaca que, em nenhum momento, o paciente cometeu algum ato tendente a obstruir a instrução investigativa, não havendo nenhum indicativo de que, em ambiente laboral, possa oferecer algum prejuízo ao regular andamento do feito ou que colocará em risco a ordem pública, mormente por ser primário.
+Alega ser desproporcional a medida cautelar de afastamento de suas funções e proibição de acesso à Câmara Municipal de Pariquera-Aru antes do trânsito em julgado da ação, na medida em que inexistiria motivação para obstar o acesso ao prédio legislativo, bem como para exercer seu oficio de parlamentar municipal.
+Argumenta que, assim como a prisão preventiva, as medidas cautelares alternativas estão sujeitas aos requisitos do artigo 312 do CPP, os quais entende não estarem presentes na hipótese. Defende que a gravidade abstrata do delito não seria motivação adequada para tanto.
+Requer, assim, o provimento do recurso, a fim de que o recorrente volte ao mandato eleitoral de vereador de Município, bem como que seja permitido o acesso irrestrito na Casa de Leis do citado Município.
+Contrarrazões apresentadas (fls. 283/293). O Ministério Público Federal opinou pela prejudicialidade do recurso (fls. 308/311).
+É o relatório.
+Decido.
+De acordo com os informes obtidos na página eletrônica do Tribunal de origem, verifica-se que, em 5/12/2022, foi proferida sentença condenando o recorrente à pena de 4 anos de reclusão, em regime inicial semiaberto e pagamento de 20 dias-multa, pela prática do crime previsto no artigo 317 do Código Penal.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a medida cautelar alternativa, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Não há necessidade de decretação de prisão preventiva, contudo, mantenho as medidas cautelares fixadas na decisão de fls. 143/145, haja vista que o afastamento do cargo é medida que permanece necessária e reforçada ante a condenação imposta. Nos termos do artigo 92, I, "a" do CP, decreto a perda do mantado eletivo de vereador exercido pelos condenados, haja vista que a pena privativa de liberdade aplicada foi superior à um ano e o crime foi praticado medidante violação de dever para com a Administração Público. Com efeito, a utilização do cargo de vereadores para buscarem vantagens ilícitas mediante a prática de crime, demonstraram que os sentenciados não possuem condições de exercerem a função para a qual foram investidos."
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor da ora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção das medidas cautelares por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. PENA DE 09 (NOVE) ANOS DE RECLUSÃO EM REGIME FECHADO. NOVOS FUNDAMENTOS. PREJUDICIALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Regimento Interno desta Corte (arts. 34, XX) permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+II - A superveniência de sentença condenatória poderá caracterizar novo título judicial quando forem inseridos novos fundamentos para a segregação cautelar, sendo capaz de prejudicar o writ. In casu, sobreveio sentença condenatória em desfavor do ora agravante, condenando-o à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto art 33, § 1º, II, da Lei 11.343/2006. Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva.
+III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na PET no RHC 106.567/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 02/04/2019).
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
