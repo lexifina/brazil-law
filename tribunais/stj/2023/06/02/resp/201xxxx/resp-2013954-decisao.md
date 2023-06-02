@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo particular, no qual objetiva a inclusão do auxílio-alimentação, auxílio-saúde e abono de permanência na base de cálculo do valor pecuniário da licença-prêmio não gozada.
+Na decisão monocrática das fls. 246-249, e-STJ, determinei a devolução dos autos à origem para que aguardassem o julgamento do Tema 1.086 do Superior Tribunal de Justiça.
+Às fls. 256-258, e-STJ, o Tribunal a quo concluiu não ser o caso de aplicação do Tema 1.086 desta Corte e devolveu o processo ao STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.5.2023.
+Verifica-se que, de fato, o caso em tela não se amolda à matéria tratada pelo Tema 1.086/STJ, mas diz respeito tão somente à inclusão dos auxílios-alimentação e saúde, bem como do abono de permanência, na base de cálculo da licença-prêmio não gozada.
+Ao alegar que houve divergência jurisprudencial e ofensa aos arts. 41 e 87 da Lei 8.112/1990, o recorrente assinalou (fl. 190, e-STJ):
+No presente recurso, a questão a ser dirimida se cinge em saber se as parcelas referentes ao auxílio-alimentação, auxílio-saúde e abono-de-permanência compõem a remuneração do servidor e, por conseguinte, a base de cálculo do valor pecuniário da licença-prêmio não gozada
+No entendimento da Recorrente, tais rubricas atendem as duas condições, ou seja, compõem a remuneração do servidor público federal e, nessa condição, integram a base de cálculo do valor do pecuniário da licença-prêmio indenizada.
+Para a Recorrente, o abono de permanência é indubitavelmente uma vantagem pecuniária remuneratória de natureza permanente, vez que se trata de contraprestação que se incorpora ao patrimônio jurídico do servidor de forma irreversível, desde o momento que ele reúne as condições para a aposentadoria até cessar a continuidade da atividade laboral, com a aposentadoria. Portanto, não é possível atribuir natureza indenizatória e eventualidade ao pagamento da citada vantagem, pois somente com o implemento da aposentadoria o pagamento da referida vantagem cessará.
+Com efeito, o abono de permanência é produto do trabalho do servidor, que segue na ativa, caracterizando inegável natureza remuneratória. De outro modo, não cabe a alegação de que o abono de permanência corresponderia a verba indenizatória, pois não se trata de ressarcimento por gastos realizados no exercício da função ou de reparação por supressão de direito.
+Esse também é o entendimento que se consolidou na jurisprudência desse Egrégio STJ, conforme restou assentado no julgamento dos EDcl no REsp 1.192.556/PE, realizado sob o regime dos recursos repetitivos.
+Por terem a mesma natureza, pelos mesmos fundamentos anteriormente aduzidos, a Recorrente também entende que auxílio-alimentação e auxílio-saúde integram a base de cálculo do valor em pecúnia da licença-prêmio não gozada.
+Esse entendimento também está em consonância com a jurisprudência desse Egrégio STJ, a exemplo do que restou consignado no julgamento do AgInt no AREsp 475.822/DF, a seguir analisado na condução de paradigma.
+O Tribunal de origem, por sua vez, consignou (fl. 129, e-STJ):
+A licença-prêmio não gozada e convertida em pecúnia, insta consignar que ela abrange a remuneração do cargo efetivo do servidor, consoante disposto no art. 87 da Lei 8.112/1990 então vigente, sendo certo que, nos termos do art. 41 do mesmo Diploma Legal, remuneração "é o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei".
+Em consequência, devem ser excluídas da base de cálculo as parcelas referentes ao auxílio-alimentação, auxílio-saúde e abono-de-permanência, pois os valores correspondentes a essas verbas apresentam caráter indenizatório.
+A irresignação merece prosperar, visto que o acórdão recorrido diverge da jurisprudência do STJ.
+Quanto ao pagamento de licença-prêmio não usufruída e em pecúnia, a jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, entre elas o auxílio-alimentação, o abono de permanência e a saúde complementar.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. REMUNERAÇÃO.
+1. O acórdão recorrido está de acordo com o entendimento do Superior Tribunal de Justiça de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, pois "é cediço que as verbas mencionadas pelo Recorrente, abono permanência, décimo terceiro salário e adicional de férias, integram a remuneração do cargo efetivo e possuem natureza permanente, devidas ao servidor quando em atividade, integrando, portanto, a base de cálculo para a conversão da licença-prêmio em pecúnia" (REsp 1.818.249/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º.6.2020). Na mesma linha: AgInt no REsp 1.989.160/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 17.8.2022; e AgInt no AREsp 1.945.228/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.3.2022.
+2. Agravo Interno não provido.
+(AgInt no REsp 2.018.101/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL APOSENTADO. LICENÇA-PRÊMIO NÃO USUFRUÍDA E NÃO COMPUTADA EM DOBRO PARA FINS DE APOSENTADORIA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. INCLUSÃO DO AUXÍLIO ALIMENTAÇÃO. PRECEDENTES.
+(..) 2. É firme no âmbito desta Corte superior o entendimento, segundo o qual o auxílio-alimentação, quando pago em dinheiro, tem natureza remuneratória, constituindo, assim, a base de cálculo base de cálculo da conversão da licença-prêmio em pecúnia. Nesse sentido: AgInt no REsp n. 1.808.938/CE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019, AgInt no AREsp 475.822/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2018; AgInt no REsp n. 1.583.070/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 7/10/2016.
+3. Agravo interno não provido. (AgInt no REsp 1.989.160/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 17/8/2022.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. INCLUSÃO DE AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO. POSSIBILIDADE. PRECEDENTES.
+1. A jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, dentre elas o auxílio-alimentação e o abono de permanência.
+2. Agravo interno não provido. (AgInt no REsp 1.989.285/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INCLUSÃO DO ABONO DE PERMANÊNCIA E DO AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO DA REMUNERAÇÃO PARA FINS DE CONCESSÃO DE LICENÇA-PRÊMIO. AGRAVO INTERNO DO DISTRITO FEDERAL DESPROVIDO.
+1. O acórdão recorrido encontra-se em consonância com o entendimento adotado por esta Corte de que as rubricas que compõem a remuneração do Servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, dentre elas o auxílio-alimentação, o abono de permanência e a saúde suplementar. Nesse sentido: REsp. 1.489.904/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25.11.2014, DJe 4.12.2014.
+2. Agravo Interno do DISTRITO FEDERAL desprovido.
+(AgInt no AREsp 475.822/DF, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19/12/2018.)
+Ante o exposto, conheço do Recurso Especial para dar-lhe provimento, a fim de incluir o auxílio-alimentação, o auxílio-saúde e o abono de permanência na base de cálculo da licença-prêmio indenizada.
+Publique-se.
+Intimem-se.
