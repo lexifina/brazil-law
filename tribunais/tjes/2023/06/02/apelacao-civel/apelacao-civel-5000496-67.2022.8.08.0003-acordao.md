@@ -1,0 +1,150 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000496-67.2022.8.08.0003
+APELAÇÃO CÍVEL (198)
+APELANTE: ANA MARIA LOPES DOS SANTOS
+APELADO: ESTADO DO ESPIRITO SANTO
+RELATOR(A):TELEMACO ANTUNES DE ABREU FILHO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+EMENTA
+: APELAÇÃO CÍVEL – HONORÁRIOS SUCUMBENCIAIS – DEFENSORIA PÚBLICA – SÚMULA 421 DO STJ –
+CONDENAÇÃO DO ESTADO – INVIABILIDADE – RECURSO
+DESPROVIDO
+.
+
+1.
+Não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma fazenda pública. Incidência do verbete sumular nº 421, STJ e do REsp 1.199.715/RJ, submetido à sistemática dos recursos repetitivos.
+
+2
+.
+Recurso desprovido.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 009 - Gabinete Des. TELÊMACO ANTUNES DE ABREU FILHO
+
+Composição de julgamento: 009 - Gabinete Des. TELÊMACO ANTUNES DE ABREU FILHO - TELEMACO ANTUNES DE ABREU FILHO - Relator / 020 - Gabinete Des. JORGE HENRIQUE VALLE DOS SANTOS - JORGE HENRIQUE VALLE DOS SANTOS - Vogal / 028 - Gabinete Des. SÉRGIO RICARDO DE SOUZA - SERGIO RICARDO DE SOUZA - Vogal
+VOTOS VOGAIS
+020 - Gabinete Des. JORGE HENRIQUE VALLE DOS SANTOS - JORGE HENRIQUE VALLE DOS SANTOS (Vogal)
+Acompanhar
+028 - Gabinete Des. SÉRGIO RICARDO DE SOUZA - SERGIO RICARDO DE SOUZA (Vogal)
+Acompanhar
+
+APELAÇÃO CÍVEL
+Nº
+
+5000496-67.2022.8.08.0003
+
+APELANTE: DEFENSORIA PÚBLICA DO ESTADO DO ESPÍRITO SANTO
+
+A
+PELADO: ESTADO DO ESPÍRITO SANTO
+
+RELATOR: DES. TELÊMACO ANTUNES DE ABREU FILHO
+
+VOTO
+
+Conforme relatado, cuida-se de recurso de
+APELAÇÃO CÍVEL
+interposto pela
+
+DEFENSORIA PÚBLICA DO ESTADO DO ESPÍRITO SANTO
+em face da r. sentença de ID 4587581, que, nos autos da
+ação ordinária
+proposta por
+ANA MARIA LOPES DOS SANTOS
+em face do
+ESTADO DO ESPÍRITO SANTO
+, julgou procedente o pedido autoral.
+
+Na mesma oportunidade, deixou de condenar o
+ESTADO DO ESPÍRITO SANTO
+ao pagamento da verba honorária de sucumbência, em razão da Súmula nº 421/STJ.
+
+Em razões de fls. 124/138 a parte recorrente pugna, em suma, pela condenação do
+ESTADO DO ESPÍRITO SAN
+TO
+ao pagamento de honorários advocatícios em favor da Defensoria Pública Estadual.
+
+Devidamente intimado, o apelado apresentou contrarrazões no ID 4587693.
+
+Acerca da pretendida condenação do Estado do Espírito Santo ao pagamento de honorários advocatícios quando a parte que lhe é adversa estiver assistida pela Defensoria Pública Estadual, apesar de não desconhecer o julgado proferido pelo STF nos autos do AgRg na Ação Rescisória n.º 1.937, em 30/06/2017
+1
+, tenho por bem continuar adotando a posição externada pelo Colendo Superior Tribunal de Justiça.
+
+Como se sabe, o STJ, em 03 de março de 2010, editou a Súmula nº 421, que assim dispõe:
+
+Súmula nº 421.
+Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+
+Outrossim, o C. STJ, em precedente submetido à sistemática dos recursos repetitivos, reafirmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma fazenda pública, fazendo incidir o verbete sumular 421. Veja-se:
+
+(...).
+4. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.199.715/RJ, representativo de controvérsia, de Relatoria do Ministro Arnaldo Esteves Lima, julgado em 16/2/2011 pela Corte Especial, publicação no DJe de 12/4/2011, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública. Incidência da Súmula 421/STJ
+. 5. (...). (AgInt no AREsp 855.023/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/05/2016, DJe 12/05/2016). grifei.
+
+Importa mencionar, nesse turno, que a Emenda Constitucional nº 45/2004 apenas conferiu autonomia funcional e administrativa às Defensorias, sem, contudo, conferir-lhes personalidade jurídica própria e tampouco autonomia financeira.
+
+Dessa forma, não se mostra plausível condenar a pessoa jurídica da qual a Defensoria Pública Estadual faz parte, pelo fato de ter assistido judicialmente parte hipossuficiente em demanda proposta contra o referido ente público, sob pena de ocorrência do instituto da confusão, a qual, nos termos do art. 381, do Código Civil, é causa extintiva da obrigação.
+
+Assim, mesmo com autonomia funcional e administrativa, as Defensorias Públicas continuam fazendo parte da estrutura administrativa do Estado que as remunera, sendo que as verbas por ela arrecadadas não deixam de ser verbas do próprio Estado.
+
+Por oportuno, cito precedente desta Egrégia Terceira Câmara Cível:
+
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. DIREITO À SAÚDE. INTERNAÇÃO COMPULSÓRIA. DEVER DO ESTADO. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA EM FACE DO ENTE FEDERADO. IMPOSSIBILIDADE. SÚMULA 421 DO STJ. REMESSA NECESSÁRIA CONHECIDA PARA MANTER A SENTENÇA. RECURSO CONHECIDO E DESPROVIDO. 1) O art. 198, parágrafo único, da Constituição Federal dispõe que o Sistema Único de Saúde será firmado, nos termos do art. 195, com recursos do orçamento da seguridade social, da União, dos Estados e dos Municípios, além de outras fontes. De igual modo, a Lei nº 8.080/90, que disciplina o Sistema Único de Saúde, também atribuiu aos Estados, Distrito Federal e Municípios a prestação dos serviços de saúde à população, facultando ao cidadão a opção pelo ente que venha a prestar assistência à sua saúde, como consequência lógica da responsabilidade solidária dos entes da federação. 2) A internação compulsória, pois, se insere em um dos direitos à saúde, eis que o bem tutelado é a vida e, assim, presentes os requisitos ensejadores da medida, são responsáveis o Município e o Estado pela sua garantia, inexistindo motivos para a reforma do édito ora reexaminado. 3)
+Já em relação ao recurso de apelação, a Defensoria Pública, enquanto instituição dotada da autonomia funcional e administrativa, desfruta da prerrogativa perceber os honorários decorrentes da regra geral de sucumbência.
+
+Todavia, tal franquia legal não subsiste nas hipóteses em que a atuação da Defensoria se dá em desfavor da pessoa jurídica da qual ela faça parte, pois em situações desse jaez, a obrigação seria extinta pela incidência do instituto da confusão positivado pelo art. 381 do Código Civil. 4) Isso porque a autonomia funcional e independência administrativa que nossa Carta Maior confere à referida instituição não lhe subtrai a condição de órgão integrante da estrutura administrativa do ente político do qual faz parte, de tal sorte que uma eventual condenação deste em favor daquela engendraria incontroversa hipótese de confusão patrimonial, ainda quando tal verba fosse direcionada para um fundo específico. 5) Mencionada compreensão, consolidada pela Súmula nº 421 do Superior Tribunal de Justiça, continua prevalecendo no âmbito daquela colenda Corte Superior, mesmo após as alterações legislativas supervenientes
+(cf. REsp 1786939/AM, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/03/2019, DJe 30/05/2019). 6) Recurso desprovido e sentença mantida em sede de remessa necessária. (TJES, Classe: Apelação Cível, 047170095633, Relator: ELIANA JUNQUEIRA MUNHOS FERREIRA - Relator Substituto: VICTOR QUEIROZ SCHNEIDER, Órgão julgador: TERCEIRA CÂMARA CÍVEL , Data de Julgamento: 26/11/2019, Data da Publicação no Diário: 06/12/2019)
+
+Saliento, por oportuno, que a decisão proferida pelo E. STF (AgRg na Ação Rescisória n.º 1.937, em 30/06/2017) não possui força de precedente vinculante, a teor do que dispõe o art. 927 do CPC/15
+2
+.
+
+Por outro lado, a súmula nº 421 do STJ continua a ser adotada no âmbito do Tribunal da Cidadania mesmo após a prolação do precedente do E. STF mencionado. Veja-se:
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA DA UNIÃO. PRETENSÃO AJUIZADA CONTRA AUTARQUIA FEDERAL. NÃO CABIMENTO. SÚMULA 431/STJ. CONFUSÃO DE CRÉDITO DA MESMA FAZENDA PÚBLICA. COISA JULGADA. NÃO OCORRÊNCIA.
+1. A 1ª. Seção desta Corte Superior de Justiça, em Recurso Especial submetido à sistemática prevista no art. 543-C do CPC/73, firmou o entendimento de que não são devidos honorários advocatícios à Defensoria Pública quando esta atua contra pessoa jurídica da qual é integrante
+. 2. "Não se pode falar em violação a coisa julgada quando há confusão entre as pessoas da mesma Fazenda Pública, por se tratar de crédito extinto na sua origem." (AgInt no REsp 1546228/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/03/2017, DJe 27/03/2017) 3. Agravo interno a que se nega provimento. (AgInt no REsp 1659009/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 21/09/2017)
+
+_________________
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. MONITÓRIA. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. AÇÃO PROPOSTA PELA CAIXA ECONÔMICA FEDERAL (CEF). DEFESA REALIZADA PELA DEFENSORIA PÚBLICA DA UNIÃO (DPU). CONDENAÇÃO EM HONORÁRIOS. DESCABIMENTO. 1. (...).
+2. "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença" (Súmula 421/STJ). 3. "Também não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública" (REsp 1.199.715/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 16/2/2011, DJe 12/4/2011).
+4. No caso, como a CEF integra a mesma pessoa jurídica que a DPU, no caso, a União (Fazenda Pública), torna-se descabido o pagamento de honorários advocatícios. 5. Agravo interno não provido. (AgInt no REsp 1383669/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 18/08/2017)
+
+Portanto, como se vê dos precedentes citados, o verbete sumular nº 421 do STJ, até o presente momento, não foi cancelado, não podendo, a meu sentir, este Egrégio Tribunal superar o referido entendimento, já que aquele Tribunal Superior é que detém autoridade para rever as teses fixadas no julgamento de recursos repetitivos ou nos enunciados de súmulas por ele editados.
+
+Pelo exposto,
+CONHEÇO
+e
+NEGO
+PROVIMENTO
+ao recurso, nos termos da presente fundamentação.
+
+É como voto.
+
+1
+“após as Emendas Constitucionais 45/2004, 74/2013 e 80/2014, houve mudança da legislação correlata à Defensoria Pública da União, permitindo a condenação da União em honorários advocatícios em demandas patrocinadas por aquela instituição de âmbito federal, diante da sua autonomia funcional, administrativa e orçamentária”.
+
+2
+Art. 927. Os juízes e os tribunais observarão:
+
+I - as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+
+II - os enunciados de súmula vinculante;
+
+III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos;
+
+IV - os enunciados das súmulas do Supremo Tribunal Federal em matéria constitucional e do Superior Tribunal de Justiça em matéria infraconstitucional;
+
+V - a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
