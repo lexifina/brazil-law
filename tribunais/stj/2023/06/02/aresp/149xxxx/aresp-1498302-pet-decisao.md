@@ -1,0 +1,9 @@
+DECISÃO
+Por meio da Petição n. 00465321/2023 (fls. 561-572), Iara Teresa Cardoso alega nulidade dos julgados proferidos por ausência de fundamentação, na medida em que "as razões de decidir são, de per si, ao nosso viso, insubsistentes a não mais poder, pois, além de estar descontextualizada da realidade dos autos é uma decisão "genérica", "padrão" ou "estereotipada", dentre outras rotulações que lhe poderíamos atribuir, traz motivos que se prestam a justificar qualquer outra decisão" (fl. 563).
+Diante disso, requer a nulidade de todos os atos processuais proferidos por negativa de prestação jurisdicional.
+É o breve relatório. Decido.
+O presente recurso foi interposto contra decisão colegiada que rejeitou os embargos de declaração proferido pela Primeira Turma desta Corte, às fls. 550-550, que rejeitou os embargos de declaração, em razão de mero inconformismo com a solução dada ao caso, no que tange à ocorrência de erro grosseiro na interposição do recurso especial contra acórdão proferido por esta Corte Superior no julgamento dos embargos de declaração ou de agravo interno no agravo em recurso especial.
+A teor da jurisprudência desta Corte, é incabível a apresentação de Petição contra decisão colegiada, implicando no trânsito em julgado do acórdão recorrido e a imediata baixa dos autos. Nesse sentido: RCD nos EDcl no AgInt no AREsp n. 1.846.539/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1/4/2022; PET nos EDcl no AgRg no AREsp n. 2.178.710/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 30/3/2023; e AgInt no AgInt no AREsp 1606696/SP, rel. Min. Nancy Andrighi, Terceira Turma, DJe 12/5/2020.
+Assim, certifique-se o trânsito em julgado e dê-se a baixa imediata dos autos, independentemente da publicação deste acórdão e da eventual interposição de outro recurso.
+Ante o exposto, indefiro a petição.
+Publique-se. Intimem-se.
