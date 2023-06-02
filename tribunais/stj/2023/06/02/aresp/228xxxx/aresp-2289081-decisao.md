@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência da Súmula 284 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 146):
+EMENTA - REMESSA NECESSÁRIA E APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CONTRATAÇÃO TEMPORÁRIA - PRORROGAÇÕES REITERADAS - NULIDADE - DESVIRTUAMENTO - ARTIGO 37, § 2º, DA CONSTITUIÇÃO FEDERAL - FGTS DEVIDO - CORREÇÃO MONETÁRIA PELO IPCA-E ÀS CONDENAÇÕES DA FAZENDA PÚBLICA - OBSERVÂNCIA AO DECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO RE Nº 870.947/TEMA Nº 810 - REEXAME NECESSÁRIO CONHECIDOS E PROVIDO.
+As renovações sucessivas de contratos de trabalho por tempo determinado pela Municipalidade violam a Constituição Federal, na medida em que desvirtuam o caráter temporário das contratações, impondo-se, assim, a nulidade de tais atos e o pagamento de FGTS.
+Os juros de mora e a correção monetária devem se dar nos moldes do que decidiu o STF no Tema 810.
+Sentença modificada.
+Recurso voluntário conhecido e provido.
+Remessa necessária não conhecida.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do art. 1.022 do CPC/2015, ao argumento de que a Corte local deixou de considerar o Tema 731/STJ, pois não considerou a peculiaridade do caso, que se trata de reclamação de pagamento de FGTS.
+Quanto à questão de fundo, sustenta ofensa ao art. 17 da Lei 8.177/1991 e no art. 7º da Lei 9.660/1993, ao fundamento de que deve incidir a TR como índice de correção monetária do FGTS.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Cinge-se a controvérsia à "possibilidade, ou não, de a TR ser substituída como índice de correção monetária dos saldos da s contas vinculadas ao FGTS", Tema n. 731, cujo sobrestamento foi determinado pelo Ministro Relator da ADI 5.090/DF.
+Acerca do tema, a Primeira Seção desta Corte, em sede de pedido de uniformização, concluiu que o inadimplemento do FGTS não desnatura a natureza fundiária do débito, afastando, momentaneamente, a aplicação dos critérios de atualização monetária previstos no Tema 905/STJ, até que sobrevenha decisão definitiva do Supremo Tribunal Federal no âmbito da ADI 5.090/DF.
+Confira-se:
+ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AÇÃO DE COBRANÇA. SERVIDOR TEMPORÁRIO. VERBAS CONCERNENTES AO FGTS NÃO RECOLHIDAS PELO ESTADO EMPREGADOR. CONSERVAÇÃO DESSA MESMA NATUREZA JURÍDICA. JUROS E CORREÇÃO MONETÁRIA. TEMA 731/STJ. SOBRESTAMENTO. ADI 5.090/DF.
+1. O tema trazido a debate no presente Pedido de Uniformização de Interpretação de Lei Federal está em saber se, reconhecida a nulidade de contratação temporária, fundada no art. 37, IX, da Constituição Federal, o recolhimento dos valores devidos ao FGTS deve ser corrigido pela TR, em conformidade com o disposto no art. 17 da Lei n. 8.177/1993 e no Tema 731 da jurisprudência do STJ (tese defendida pelo requerente), ou se, como entendeu a 4.ª Turma Recursal dos Juizados Especiais do Estado do Paraná, em razão da não existência de prévio recolhimento de tais valores, deve incidir sobre a hipótese o índice atualizatório geral (IPCA-E), devido nas condenações da Fazenda Pública, em sintonia com o decidido por este STJ, no Tema 905 dos recursos repetitivos.
+2. O colegiado paranaense compreendeu que a ausência do prévio depósito dos valores devidos ao FGTS mudaria a natureza jurídica da obrigação, pelo que afastou a aplicação do Tema 731/STJ, específico, e tratou a questão como as demais condenações impostas à Fazenda Pública, objeto do Tema 905/STJ.
+3. Entretanto, no caso concreto, o não recolhimento do FGTS tão somente perpetua essa mesma obrigação, sem, contudo, desnaturar-lhe a essência original, qual seja, a de se tratar de dívida fundiária.
+4. Está-se, pois, diante de uma cobrança diferenciada, por envolver valores concernentes ao FGTS, que, até o presente momento, deveria observar o regime atualizatório previsto no Tema 731/STJ, definido no REsp 1.614.874/SC, de relatoria do Ministro Benedito Gonçalves (Primeira Seção, DJe 15/5/2018), no qual se firmou o entendimento de que "A remuneração das contas vinculadas tem disciplina própria, ditada por lei, que estabelece a TR como forma de atualização monetária, sendo vedado, portanto, ao Poder Judiciário substituir o mencionado índice".
+5. Entretanto, a eficácia da tese firmada no mencionado repetitivo (Tema 731) acha-se momentaneamente sobrestada, por força de decisão liminar no STF, proferida pelo Ministro Luís Roberto Barroso, nos autos da ADI 5.090/DF, em que se questiona a rentabilidade do FGTS.
+6. Nesse contexto, para se evitar a prolação, pelo STJ, de provimento jurisdicional em eventual desconformidade com o que vier a ser definitivamente decidido pela Corte Suprema (relativamente ao fator de atualização monetária do FGTS), faz-se conveniente que a apreciação do presente PUIL se esgote com a tão só definição da tese de que se está, no caso concreto, à frente de inequívoca ação de cobrança de verba fundiária/FGTS, restituindo-se, após isso, os autos à Turma Recursal de origem, que, em sendo o caso, deverá promover o cabível juízo de conformação à decisão que vier a ser proferida pelo STF, no âmbito da referida ADI 5.090/DF.
+7. PUIL parcialmente provido (PUIL 1.212/PR, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 15/6/2021).
+Dessa feita, imperiosa a suspensão do presente feito até ulterior julgamento definitivo da referida ação direta pela Corte Suprema.
+Em casos exatamente iguais ao dos autos, as seguintes decisões monocráticas: EDcl no AREsp 2.184.621/MS, Rel. Ministro Mauro Campbell Marques, DJe 23/2/2023 e REsp 2.034.181/MS, Rel, Ministra Regina Helena Costa, DJe 21/10/2022.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para que se aguarde decisão definitiva a ser proferida na ADI 5.090/DF, e, então, se proceda eventual ajuste no julgado ora recorrido, quanto aos índices de correção monetária, adotando-se, por analogia, o procedimento previsto no art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SERVIDOR TEMPORÁRIO. VERBAS CONCERNENTES AO FGTS NÃO RECOLHIDAS PELO ESTADO EMPREGADOR. TEMA 731/STJ. SOBRESTAMENTO ATÉ O JULGAMENTO DEFINITIVO DA ADI 5.090/DF. DEVOLUÇÃO DOS AUTOS À ORIGEM.
