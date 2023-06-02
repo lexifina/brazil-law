@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Norte) solicita que se proceda à intimação de MARLON DA SILVA FERNANDES da audiência de julgamento a realizar-se, por videoconferência, no dia 11 de abril de 2023, às 14h (horário de Portugal), nos autos do Processo n. 193/14.0PILRS, referente à ação de processo comum que apura suposta prática de crimes descritos às fls. 6-7.
+Diante das informações prestadas às fls. 64-65 e considerando o transcurso do prazo designado da audiência, julgo prejudicada a comissão e determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente (art. 216-X do RISTJ), sem prejuízo da reapresentação caso persista o interesse em agendar nova data para realização da audiência.
+Publique-se.
