@@ -1,0 +1,13 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento, objetivando reconhecer a prescrição do crédito tributário. No Tribunal a quo o agravo de instrumento foi improvido. O valor da causa foi fixado em R$ 1.000,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE REQUISITO. EXECUÇÃO FISCAL. DEMORA NA CITAÇÃO. INÉRCIA DO JUDICIÁRIO.1. A CONCESSÃO DE ANTECIPAÇÃO DE TUTELA, CONFORME PREVÊ O ART. 300 DO CPC, RECLAMA ELEMENTOS QUE EVIDENCIEM A PROBABILIDADE DO DIREITO (FUMUS BONI E O PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO (IURIS)PERICULUM IN MORA).2. É ENTENDIMENTO PACIFICADO NO STJ QUE AJUIZADA A EXECUÇÃO FISCAL AINDA NO TRANSCURSO DO PRAZO PRESCRICIONAL NÃO PODE A FAZENDA PÚBLICA SER PREJUDICADA PELA INÉRCIA DO PODER JUDICIÁRIO.3. AGRAVO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Nesse contexto, não é possível vislumbrar a probabilidade do direito vindicado (fumus boni), considerando, para tanto, que a execução fiscal foi ajuizada dentro do prazo prescricional e a iuris demora na citação não pode ser atribuída ao Fisco, pois evidenciado largo decurso de tempo para distribuição do feito, o que, convenha-se, é atribuição do Juiz, não sendo, pois, o caso d e se acolher a arguição de prescrição, de acordo com o disposto na Súmula 106 do Superior Tribunal de Justiça.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
