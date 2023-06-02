@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 652-664 e-STJ):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL DO CONTRATO PELA OPERADORA. PRIMEIRO AUTOR, TITULAR DO CONTRATO, APOSENTADO POR INVALIDEZ. SUSPENSÃO DO VÍNCULO EMPREGATÍCIO, NA FORMA DO ARTIGO 475 DA CLT. DIREITO À MANUTENÇÃO DO PLANO DE SAÚDE OFERECIDO PELO EMPREGADOR GARANTIDO PELA SÚMULA Nº 440 DO TST. CONTRATO CELEBRADO ENTRE A RÉ E A EMPRESA ESTIPULANTE DO CONTRATO QUE PREVÊ A POSSIBILIDADE DE RESCISÃO IMOTIVADA DO CONTRATO. AUSÊNCIA DE COMUNICAÇÃO PRÉVIA AOS BENEFICIÁRIOS E DE OFERECIMENTO DE MIGRAÇÃO PARA PLANO INDIVIDUAL. ILEGALIDADE NO CANCELAMENTO. OPERADORA QUE DEVE POSSIBILITAR A INCLUSÃO DOS AUTORES EM PLANO INDIVIDUAL OU FAMILIAR, SEM CUMPRIMENTO DE PRAZO DE CARÊNCIA. SOLUÇÃO DA CONTROVÉRSIA QUE PASSA PELA LEITURA DAS REGRAS DA LEI 9.656/1998, COM A REGULAMENTAÇÃO DADA PELA RESOLUÇÃO CONSU Nº 19/1999, E DAS NORMAS DO CDC. OPERADORA DE PLANO DE SAÚDE QUE NÃO PODE VALER-SE DA FACULDADE DE EXTINGUIR O VÍNCULO CONTRATUAL E ALEGAR DE QUE NÃO COMERCIALIZA PLANOS DE SAÚDE NA MODALIDADE INDIVIDUAL, SEM CONSIDERAR O OBJETO DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE SAÚDE, QUE ENVOLVE VALORES FUNDAMENTAIS, COMO A VIDA E A PRÓPRIA SAÚDE, E EM DISSONÂNCIA AOS PRECEITOS INSERTOS NO CÓDIGO DE DEFESADO CONSUMIDOR. PRECEDENTES. DANO MORAL CONFIGURADO. VERBA INDENIZATÓRIA FIADA EM R$ 5.000,00 (CINCO MIL REAIS) QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA Nº 343 DESTE TRIBUNAL DE JUSTIÇA. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 685-689 e-STJ).
+Em suas razões de recurso especial (fls. 691-704 e-STJ), a recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i) artigo 1.022, inc. II, do Código de Processo Civil de 2015, argumentando a existência de omissão e obscuridade acerca da alegação de impossibilidade de migração para contrato individual, tendo em vista que a recorrente não comercializa planos na modalidade individual/familiar; e
+(ii) artigo 478 do Código Civil, sustentando a inviabilidade da manutenção do beneficiário, considerando o cancelamento do plano de saúde coletivo pelo empregador, além do fato de que a recorrente não comercializa planos de saúde na modalidade individual/familiar.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 762-766 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência do óbice da Súmula 83/STJ.
+Daí o agravo (fls. 780-786 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O presente recurso merece prosperar em parte.
+1. Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido, confira-se: AgRg no AgRg no Ag 930.009/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/02/2017, DJe 14/02/2017; AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+No caso, alegou a parte recorrente que o acórdão impugnado restou omisso acerca da alegação de impossibilidade de migração para contrato individual, tendo em vista que a recorrente não comercializa planos na modalidade individual/familiar.
+Ao julgar os aclaratórios opostos na origem, a Corte local não enfrentou a questão.
+A questão jurídica se mostra relevante, porquanto, nos termos da jurisprudência desta Corte Superior, "a operadora não pode ser obrigada a oferecer plano individual a usuário de plano coletivo extinto se ela não disponibiliza no mercado tal modalidade contratual (arts. 1º e 3º da Res.-CONSU nº 19/1999). Inaplicabilidade, por analogia, da regra do art. 30 da Lei nº 9.656/1998" (REsp 1.846.502/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/4/2021, DJe 26/4/2021).
+Ressalta-se, ainda, ser necessário o esclarecimento, notadamente, em razão da impossibilidade de revisão de matéria fática nesta instância especial, de modo que a controvérsia deve ser suficientemente apreciada nas instâncias ordinárias.
+Imperioso, portanto, o reconhecimento da existência de violação ao artigo 1022 do CPC/15.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, conhece-se do agravo para dar parcial provimento ao recurso especial, para cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão apontada.
+Publique-se.
+Intimem-se.
