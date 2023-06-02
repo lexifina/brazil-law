@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCOS MININI DE CASTRO (MARCOS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, de relatoria do Des. ISAIAS FONSECA MORAES, assim ementado:
+Agravo interno em apelação em cumprimento de sentença. Recurso impróprio. Decisão interlocutória. Recurso não conhecido. Decisão mantida. Recurso desprovido.
+A decisão impugnada acolheu a impugnação ao cumprimento de sentença interposto pelo ora recorrente, reconhecendo excesso de execução, porém, não pôs fim ao processo de cumprimento de sentença, sendo, então, decisão interlocutória a ser enfrentada por agravo de instrumento nos termos do art. 1.015 do CPC.
+Inaplicável à hipótese o princípio da fungibilidade, visto inexistir dúvida sobre o recurso a ser interposto, haja vista que se encontra previsto em lei que o correto seria a interposição de agravo de instrumento, já que a decisão não põe fim ao processo de cumprimento da sentença, mas tão somente decide incidente quanto ao excesso cobrado (e-STJ, fls. 1.450/1.451)
+Os embargos de declaração opostos por MARCOS foram rejeitados, por unanimidade (e-STJ, fls. 1.501/1.507).
+Irresignado, MARCOS interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando a violação aos ar ts. 7º, 8º, 10, 85, § 2º, § 3º, 203, 487, 489, § 1º, 933, 1.022, 1.025, parágrafo único, do CPC, ao sustentar (1) a negativa da prestação jurisdicional; (2) que deve ser aplicado, à hipótese, o princípio da fungibilidade. Afirmou que o STJ já sedimentou o entendimento de que, em sendo acolhida a impugnação ao cumprimento de sentença, o recurso seria o de apelação, pois, em tese, põe fim ao processo; e, (3) que não se mostra correto o arbitramento dos honorários sucumbenciais (e-STJ, fls. 1.521/1.533).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.550/1.566).
+O recurso foi admitido pelo Tribunal de Justiça do Estado de Rondônia (e-STJ, fls. 1.568/1.569).
+É o relatório.
+DECIDO.
+O recurso especial não merece prosperar.
+(1) Da alegada negativa da prestação jurisdicional
+No que se refere à violação dos arts. 489, § 1º e 1.022, parágrafo único, do CPC, MARCOS alegou genericamente a ofensa aos citados artigos, sem demonstrar de que forma houve a vulneração aos referidos dispositivos, sem indicar quais pontos do acórdão foram omissos, contraditórios ou obscuros, mencionando, tampouco sobre a deficiência na fundamentação, apenas, que houve omissão em relação à violação dos arts. 7º, 8º, 10, 85, §2 e §3º, 203, 487, 489, §1º, 933, 1.022, 1.025, parágrafo único, do CPC.
+Pelo que se dessume dos autos, não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade aos referidos dispositivos.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO. SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/3/2020, DJe 20/3/2020 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. A alegação de afronta ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+ ..
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.345.876/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 19/11/2019, DJe 21/11/2019 - sem destaques no original)
+Assim, não se conhece da suscitada violação aos arts. 489 e 1.022 do CPC.
+(2) Do invocado princípio da fungibilidade
+O Tribunal de Justiça do Estado de Rondônia não conheceu do recurso, por considerar erro grosseiro a interposição de apelação contra decisão que acolheu a impugnação ao cumprimento de sentença, na qual foi reconhecido o excesso de execução, dado o seu caráter interlocutório. Ressaltou ser inaplicável, ao caso, o princípio da fungibilidade.
+Pelo que se dessume dos autos, o entendimento do acórdão recorrido mostra-se em consonância com o desta Corte, no sentido de que o agravo de instrumento é o recurso cabível contra decisão que resolve questão incidental relacionada com a impugnação ao cumprimento de sentença, porém não o extingue, caracterizando-se erro grosseiro a interposição do recurso de apelação, o que afasta a aplicação do princípio da fungibilidade recursal.
+A propósito, vejam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. RECONHECIDO EXCESSO DE EXECUÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. DECISÃO MONOCRÁTICA QUE NÃO CONHECE DO RECURSO DE APELAÇÃO. ERRO GROSSEIRO. RECURSO CABÍVEL CONTRA DECISÃO QUE JULGA IMPUGNAÇÃO E NÃO EXTINGUE O CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+ ..
+3. Sob a égide do Código de Processo Civil de 2015, consolidou-se a jurisprudência do STJ no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução, enquanto o agravo de instrumento é o recurso cabível contra as decisões que acolhem parcialmente a impugnação ou lhe negam provimento, mas que, sobretudo, não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.098.834/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. 26/9/2022, DJe de 28/9/2022 - sem destaques no original)
+AGRAVO INTERNO EM RECURSO ESPECIAL. ACIDENTE DE VEÍCULO. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E LUCROS CESSANTES. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. RECONHECIDO EXCESSO DE EXECUÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. DECISÃO MONOCRÁTICA QUE NÃO CONHECE DO RECURSO DE APELAÇÃO. ERRO GROSSEIRO. RECURSO CABÍVEL CONTRA DECISÃO QUE JULGA IMPUGNAÇÃO E NÃO EXTINGUE O CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Sob a égide do Código de Processo Civil de 2015, consolidou-se a jurisprudência do STJ no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução, enquanto o agravo de instrumento é o recurso cabível contra as decisões que acolhem parcialmente a impugnação ou lhe negam provimento, mas que, sobretudo, não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva.
+2. As razões recursais encontram óbice na Súmula 83 do STJ, que determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo e. Tribunal de origem apresentar conformidade com a jurisprudência consolidada do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.954.791/SP, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j.29/3/2022, DJe de 4/4/2022 - sem destaques no original)
+(3) Da suscitada incorreção dos honorários advocatícios sucumbenciais
+MARCOS, nas razões do apelo nobre, apontou a violação do art. 85, §2 e §3º, do CPC e questionou o tratamento diferenciado no tocante ao arbitramento da verba honorária nos autos principais e no incidente de impugnação ao cumprimento de sentença.
+O Tribunal de Justiça do Estado de Rondônia, sobre o tema, assim se manifestou:
+O embargante manejou o cumprimento de sentença com vistas à percepção de verba honorária sucumbencial que foi majorada em sede recursal. No cumprimento, asseverou que este se restringe à verba honorária que foi majorada pelo STJ, tendo em vista que os demais valores já foram liquidados. Cobrou a importância de R$58.887,82 (cinquenta e oito mil oitocentos e oitenta e sete reais e oitenta e dois centavos). O embargado apresentou impugnação ao cumprimento de sentença, alegando excesso de execução, aduzindo que o valor devido é de R$1.441,58 (um mil quatrocentos e quarenta e um reais e cinquenta e oito centavos), tendo, inclusive, promovido o depósito deste valor em juízo. A decisão (id. 11553885) acolheu a impugnação, merecendo a seguinte parte dispositiva: Ante o exposto, ACOLHO a impugnação apresentada pela parte executada para homologar o cálculo apresentado e reconhecer excesso de execução no valor de R$57.446,24 (cinquenta e sete mil e quatrocentos e quarenta e seis reais e vinte e quatro centavos). Ante a sucumbência constatada, condeno a parte exequente em 10% sobre o valor excedente. ..  A apelação não foi conhecida, não por retaliação ao patrono do embargante, mas porque o recurso que desafia a decisão que resolve impugnação ao cumprimento de sentença, sem pôr fim ao processo, é o AGRAVO DE INSTRUMENTO  ..  No caso, o juízo proferiu decisão, acolhendo a impugnação, mas não julgou extinto o cumprimento de sentença, pois reconheceu excesso na execução. Os requisitos de admissibilidade recursal são matéria de ordem pública e devem ser apreciados a qualquer tempo, sem julgamento do mérito e eminentemente de direito, por qualquer instância. Assim, uma vez não conhecido o recurso de apelação, ante o erro grosseiro, pois deveria o embargante ter manejado agravo de instrumento, não tem como adentrar no mérito para se verificar eventual acerto ou desacerto na decisão proferida pelo juízo (e-STJ, fls. 1.502/1.503 e 1.505)
+No que se refere ao inconformismo relacionado à verba honorária, o fundamento de que não se mostra possível adentrar no mérito, ante o não conhecimento do recurso, não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+Diante disso, não é possível o conhecimento do recurso.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em favor da parte adversa, nos termos do art. 85, § 11 do CPC, observado, se o caso, o art. 98, § 3º do CPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. DECISÃO INTERLOCUTÓRIA. APELAÇÃO. RECURSO IMPRÓPRIO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O DESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
