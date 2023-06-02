@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela FAZENDA NACIONAL e pela COOPERATIVA DOS CITRICULTORES ECOLÓGICOS DO VALOR DA CAÍ LTDA., com fundamento no art. 105, inciso III, alínea "a", da CF/1988, mediante os quais se impugna acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 218):
+TRIBUTÁRIO. PROCESSUAL CIVIL. IRPJ. CSLL. JUROS DE MORA CONTRATUALMENTE PREVISTOS. SELIC. DEPÓSITOS JUDICIAIS.
+- Os juros de mora contratuais, quais sejam aqueles incidentes sobre os pagamentos efetuados com atraso pelos clientes da empresa, tratando-se de disposição entre credor e devedor, não têm caráter meramente indenizatório, sendo, portanto, passíveis da incidência da CSLL e do IRPJ.
+- O valor recebido a título da taxa SELIC aplicada a depósito judicial ou atributos pagos e que foram reconhecidos como indevidos em ações judiciais não constitui renda, acréscimo de capital ou lucro a fazer incidir imposto ou contribuição.
+Embargos de declaração rejeitados (e-STJ fls. 241/243).
+No recurso especial da Fazenda Nacional, indica-se violação do art. 535 do CPC/73, dos arts. 43, I, 111, II, e 176 do CTN e do art. 2º da Lei n 7.689/88.
+Preliminarmente, sustenta-se que o acórdão recorrido padeceria de omissão, pois teria deixado de analisar o "disposto nos arts. 43, I, 111, II, e 176 do CTN, além do art. 2º da Lei n. 7.689111 (sic) e do art. 176, normativa que fundamenta o entendimento da União sobre a exigibilidade do IR sobre a SELIC aplicada a depósito judicial ou a tributos pagos que foram ou forem reconhecidos como indevidos em ações judiciais." (e-STJ fl. 252).
+No mérito, argumenta-se, em síntese, que "não há dúvida de que os juros da taxa SELIC constituem acréscimo patrimonial, que integram a base de cálculo do IRPJ e da CSLL, em especial, porque ausente norma que isente essa parcela da incidência desses tributos, bem assim inexistente legislação que considere essa parcela dedutível. Com efeito, não se trata de indenização, mas de valores sobre a receita financeira, nos termos da legislação do Imposto de Renda e, portanto, integram a base de calculo do IRPJ e CSLL." (e-STJ fl. 254).
+Contrarrazões às e-STJ fls. 376/400.
+Juízo de retratação negativo (e-STJ fls. 523/530).
+Recurso especial fazendário ao qual foi negado seguimento, em relação ao tema incidência de IRPJ e de CSLL sobre taxa SELIC repetição de indébito tributário e que foi admitido, em relação ao tema da incidência de IRPJ e de CSLL sobre o levantamento de depósito judicial (e-STJ fls. 547/551).
+No recurso especial da Cooperativa, indica-se violação dos arts. 165, 458, 462, 515, § 1º, e 535, I e II, do CPC/1973, dos arts. 3º, 43, 97, 110, 111 do CTN, do art. 404 do Código Civil, dos arts. 1º e 2º da Lei n. 7.689/1988, dos arts. 57 e 84, I, da Lei n. 8.981/1995, dos arts. 186, 190 e 191 da Lei n. 6.494/76, do art. 13 da Lei n. 9.065/1995 e do art. 218 do Decreto 3.000/1999.
+Preliminarmente, sustenta-se que o acórdão recorrido padeceria de vício formal, pois teria deixado de analisar a integralidade da fundamentação apresentada pela parte.
+No mérito, argumenta-se, em síntese, que "a exigência de IRPJ da Recorrente, nos termos em que posto nos autos, ou seja, incidentes sobre juros e correção monetária incidentes sobre as faturas pagas em atraso, acaba por modificar a base de cálculo do imposto, violando, assim, o quanto disposto no art. 43 do CTN e no art. 218 do RIR" (e-STJ fl. 280).
+Contrarrazões às e-STJ fls. 371/374.
+Juízo de retratação negativo (e-STJ fls. 523/530).
+Recurso especial admitido (e-STJ fl. 405).
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança no qual se controverte sobre a incidência, ou não, de IRPJ e de CSLL sobre os valores recebidos pela impetrante de seus compradores a título de juros pelo atraso no pagamento de faturas, bem como sobre os valores decorrentes de repetição de indébito tributário e sobre os valores decorrentes de levantamento de depósito judicial.
+Segurança parcialmente concedida, por sentença.
+Negado provimento às apelações e à remessa oficial.
+Passo a decidir.
+O tema referente à incidência do IR e da CSLL sobre a taxa SELIC aplicada no levantamento de depósitos judiciais e na restituição do indébito (Temas 504 e 505) está sob exame deste Superior Tribunal de Justiça em sede de juízo de retratação no REsp 1.138.695/SC, em razão de julgamento definitivo pelo Supremo Tribunal Federal em sede de repercussão geral do RE 1.063.187/SC (Tema 962).
+Encontrando-se o tema julgado sob a sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia retornar ao Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/0 5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB e AREsp 779.676/PB, todos da relatoria do em. Ministro BENEDITO GONÇALVES, DJe 02/12/2015, 08/03/2016, 04/03/2016 e 03/02/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior analisar as questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao tribunal de origem, com a respectiva baixa, para que promova o juízo de conformação com o acórdão proferido no recurso repetitivo e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
