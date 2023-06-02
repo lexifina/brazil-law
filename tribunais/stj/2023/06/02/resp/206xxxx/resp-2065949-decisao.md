@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED SERGIPE -Cooperativa de Trabalho Médico -, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 395, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - RATEIO DE DESPESAS ENTRE COOPERADOS - APLICABILIDADE DO PRAZO GERAL (DECENAL) DA PRESCRIÇÃO, PREVISTO NO ART. 205 DO CC/02 - ENTENDIMENTO DO STJ - MARCO INICIAL DA CONTAGEM A PARTIR DADATA DA ASSEMBLEIA - OCORRÊNCIA DA PRESCRIÇÃO. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Nas razões do especial, aponta a recorrente violação do artigo 205 do Código Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que o termo inicial do prazo prescricional para cobrança de dívida cooperativa seria a data do desligamento do cooperado, em detrimento da ata da assembleia em que determinada a cobertura da despesa.
+Contra-arrazoado (fls. 441/450, e-STJ), o recurso especial foi admitido na origem, conforme decisão de fls. 453/458, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no que se refere à alegada violação do artigo 205 do Código Civil, verifica-se que a argumentação desenvolvida pelo recorrente, baseada no critério a ser utilizado para fixar o termo inicial da prescrição, não guarda propriamente relação com o dispositivo supostamente violado.
+Com efeito, a norma relativa ao termo inicial da prescrição pode ser extraída diretamente do artigo 189 do Código Civil, segundo o qual a data de violação do direito origina a pretensão, dando início à fluência do prazo prescricional, conforme os prazos previstos nos artigos 205 e 206 do código, em autêntica norma de reenvio.
+Desse modo, a tese apresentada, no sentido de que a fluência do prazo prescricional teria violado o artigo 205 do Código Civil, em detrimento do artigo 189 do Código Civil, evidencia deficiência na argumentação da recorrente, notadamente no caso, em que a aplicação do prazo decenal de prescrição é incontroversa.
+A propósito, transcrevo a seguinte passagem do acórdão recorrido, em que pressuposta a aplicação do prazo prescricional decenal para cobrança de dívida cooperativa (fl. 398, e-STJ):
+Destarte, não incide o prazo prescricional quinquenal disposto no art. 206, §5º, I, do CC/02,porque o débito objeto da ação de cobrança diz respeito a ato cooperativo, isto é, aquele havido entre a cooperativa e seus associados, razão pela qual não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria.
+Assim, na ausência de disciplina específica sobre a prescrição da cobrança de ato cooperativo, deve incidir na espécie o prazo prescricional geral de dez anos, previsto no art.205, do CC/02.
+Como se vê do trecho acima reproduzido, a tese adotada no acórdão recorrido, em relação à intepretação do artigo 205 do Código Civil, é conclusiva acerca da aplicação do prazo prescricional decenal em relação à dívida de cooperativa.
+Desse modo, como a argumentação desenvolvida pela recorrente não está relacionada ao dispositivo supostamente violado (art. 205 do CC/02), que, por sua vez, foi interpretado de modo favorável à recorrente, pois aplicado contra o devedor o prazo máximo de prescrição, o recurso especial não deve ser conhecido quanto ao ponto.
+Aplica-se, no caso, o óbice da Súmula 284/STF.
+De toda forma, analisar em que medida seria a ata da assembleia - como pressuposto no acórdão recorrido (fl. 397, e-STJ) -, em detrimento do inadimplemento da dívida - como defende a recorrente -, o termo inicial da prescrição do débito cooperativo demandaria a análise do estatuto assemblear.
+Com efeito, a teor do que previsto no artigo 21, IV, da Lei nº 5764/71, cabe ao estatuto da cooperativa definir a forma de devolução do rateio das perdas apuradas por insuficiência do fundo de reserva para cobertura das despesas da sociedade.
+Dessa maneira, a definição sobre a forma de reaver o prejuízo a ser custeado pelo cooperado depende de previsão estatutária, que pode definir inclusive a forma como isso ocorre, preceito verdadeiramente amplo, que permite à cooperativa estabelecer o modo de constituição da dívida, com repercussão no prazo prescricional.
+À vista disso, rever a conclusão adotada no acórdão recorrido, quanto à dívida do cooperado estar constituída diretamente pela aprovação da ata assemblear, demandaria o reexame de cláusulas estatutárias; o que é vedado (Súmula 5/STJ).
+Por fim, observo que o dissídio jurisprudencial não foi demonstrado na forma do artigo 1029, § 1º, do Código de Processo Civil, pois ausente comprovação da similitude fática entre os julgados supostamente em confronto, inviabilizando o conhecimento do recurso especial também em relação à alínea "c" do inciso III do artigo 105 da Constituição Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 141, 322, § 1º, E 491 DO CPC. ART. 394 DO CC. MERA INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. ALEGAÇÃO DE OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA N. 518 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+2. O recurso especial não é a via adequada para a apreciação de ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+3. O dissídio jurisprudencial deve ser demonstrado conforme preceitua o art. 1.029, § 1º, do Código de Processo Civil, mediante o cotejo analítico dos arestos e a demonstração da similitude fática, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.176.348/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.) (grifo acrescido)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior tem entendimento pacífico de que o reconhecimento da prescrição intercorrente demanda a concomitância de dois requisitos: a) o decurso do tempo previsto em lei; e b) a inércia do titular da pretensão resistida em adotar providências necessárias ao andamento do feito.
+2. No caso dos autos, ficou efetivamente demonstrado que o credor tomou todas as medidas necessárias para imprimir andamento ao feito, não se caracterizando desídia ou inércia na condução do processo.
+3. O dissídio jurisprudencial viabilizador do recurso especial pela alínea "c" do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os arestos, tampouco a interpretação divergente recebida pela jurisprudência pátria.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.211.256/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023.) (grifo acrescido)
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
