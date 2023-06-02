@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por KATIA BEATRIZ DE PAULA, contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 13/03/2023.
+Concluso ao Gabinete em: 29/05/2023.
+Ação: execução de título extrajudicial ajuizada por DOMICIO MENDES MOREIRA NETO em desfavor de KATIA BEATRIZ DE PAULA.
+Sentença: julgou intempestivos os embargos à execução opostos pela executada, ante o seu comparecimento espontâneo no feito executivo.
+Acórdão: deu provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. COMPARECIMENTO ESPONTÂNEO DO EXECUTADO. CITAÇÃO SUPRIDA. NULIDADE NÃO EVIDENCIADA. EMBARGOS INTEMPESTIVOS.
+1. O comparecimento espontâneo do executado supre a falta de citação no processo executivo, segundo a inteligência do art. 239, §1º, do Código de Processo Civil, de acordo com o qual, "o comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução".
+2. Com o comparecimento espontâneo do executado mediante apresentação de exceção de pré-executividade, o prazo para apresentação de qualquer manifestação ou defesa flui a partir desta data. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA" (e-STJ, fl. 315)
+Embargos de declaração: opostos pela agravante , foram rejeitados.
+Recurso especial: Alegou ofensa aos arts. 60 do Decreto 167/67; e 70, da Lei Uniforme de Genebra; 231, 276, 319, 783 e 915 do CPC/2015, sustentando: i) que o início do prazo para a apresentação de resposta iniciou-se o, iniciou-se tão somente após a juntada do último mandado de citação devidamente cumprido, não ocorrendo, portanto a prescrição; ii) que os Embargos a Execução foram opostos de forma tempestiva, resta claro que a extinção do feito sem resolução do mérito pelo juiz de primeiro grau acarretou cerceamento de defesa; iii) que está plenamente demonstrado nos autos a situação de cônjuges dos agravantes; iv) que o fato da Recorrente ter proposto Exceção de Pré-Executividade não acarreta na preclusão do direito de propor os Embargos a Execução, o qual foi proposto no prazo legal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame fático e probatório dos autos
+Relativamente às alegações acerca da citação e sua validade, do conhecimento do estado civil dos agravantes pelo agravado, da causa interruptiva ou da inocorrência da prescrição e do início do prazo para sua contagem, e quanto ao cerceamento de defesa, extrai-se do acórdão recorrido:
+"Na hipótese, a executada/apelante compareceu espontaneamente no feito executivo em apenso no dia 24/04/2020 (evento 14), contudo opôs os embargos à execução somente no dia 23/07/2020. Logo, nos ditames do dispositivo supracitado, o comparecimento espontâneo da parte ré supre a falta ou a nulidade do ato citatório, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução.
+(..) Ademais, em que pese o esforço da insurgente para modificar a sentença guerreada, não prospera a alegação de que o início da contagem do prazo deveria ser da juntada do último mandado devidamente cumprido, já que os executados seriam"casados/companheiros", haja vista que o estado civil não se presume pelo magistrado, devendo ser comprovado e/ou declarado, e, no caso dos autos, afigura-seque os executados são divorciados." (e-STJ, fls. 317/319)
+Alterar a conclusão adotada, demandaria o reexame fático e probatório dos autos, o que é obstado pela Súmula 7/STJ.
+- Da falta de impugnação a fundamento do acórdão
+Verifica-se que os fundamentos do acórdão recorrido no sentido de que "o fato de a apelante comparecer espontaneamente aos autos no processo executivo, mediante apresentação de exceção de pré-executividade (evento 14,execução em apenso), encerra a discussão sobre qualquer erro material que possa advir do ato citatório, segundo inteligência do art. 239, § 1º, do CPC. (..) Esse dispositivo fundamenta-se no princípio da instrumentalidade das formas, que dispensa a observância de determinadas formalidades quando, por outros meios,alcança-se a finalidade da sua realização. (..)Logo, nos ditames do dispositivo supracitado, o comparecimento espontâneo da parte ré supre a falta ou a nulidade do ato citatório, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução." (e-STJ, fls. 317) e de que " a certidão de tempestividade da Escrivania suscitada pela apelante não é lei, pois a serventia pode equivocar-se quanto à análise e constatação do prazo legal, que é a imperativo a reger os atos processuais." (e-STJ, fl. 319), não foram impugnado nas razões recursais, o que atrai a incidência da Súmula 283/STJ, à espécie.
+- Da fundamentação deficiente
+Outrossim, quanto à alegação de ocorrência de cerceamento de defesa, verifica-se que os artigos 231, 276 e 915 do CPC/2015, indicados pelo recorrente, não contém normativo legal apto a embasar referida alegação, o que demonstra a deficiência na fundamentação do recurso, a atrair a incidência da Súmula 284/STF.
+- Da Súmula 568/STJ
+Por fim, verifica-se que o Tribunal de origem alinhou-se à jurisprudência desta Corte no sentido de que: independentemente da existência de procuração com poderes específicos, o comparecimento espontâneo do réu aos autos supre a ausência ou a nulidade da citação (AgInt no AREsp 1.032.132/MG, 3ª Turma, DJe 18/05/2017; AgInt nos EDcl no AgInt no AREsp 1.155.939/SP, 4 ª Turma, DJe 04/10/2019).
+Na presente hipótese, verifica-se que ficou claro no acórdão que a agravante compareceu de forma espontânea aos autos para apresentar exceção de pré-executividade, momento em que considera-se suprida a citação.
+Logo, nos termos da Súmula 568/STJ, o acórdão recorrido merece ser mantido quanto ao ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III,
+do CPC/15, CONHEÇO em parte do recurso especial e NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. REEXAME FÁTICO E PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. COMPARECIMENTO ESPONTÂNEO DO RÉU. CITAÇÃO. NULIDADE. AUSÊNCIA. SÚMULA 568/STJ.
+1. Ação de Busca e Apreensão convertida em Execução de Título Extrajudicial. 2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+4. Independentemente da existência de procuração com poderes específicos, o comparecimento espontâneo do réu aos autos supre a ausência ou a nulidade da citação. Súmula 568/STJ.
+5. Agravo em recurso especial conhecido. Recurso especial conhecido em parte e não provido.
