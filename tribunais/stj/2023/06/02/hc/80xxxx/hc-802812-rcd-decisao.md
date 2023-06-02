@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por CRISTIANO LUIS PIANTELA da decisão desta relatoria que indeferiu o pedido de retirada do agravo regimental da pauta de julgamento virtual (e-STJ fls. 2.195/2.196).
+Na Petição n. 00486233/2023, a defesa manifestou-se contrária ao julgamento virtual, uma vez que a defesa técnica pretende sustentar oralmente.
+Neste pedido requer a reconsideração do pedido, porquanto, "em que pese a reforma do Regimento Interno do Superior Tribunal de Justiça tenha previsto, nos seus artigos 184-D e seguintes, a possibilidade de que as sustentações orais sejam feitas, nos casos neles previstos, a norma regimental não tem o condão de suplantar a prescrição legal estabelecida no Estatuto da Ordem dos Advogados do Brasil -Lei 8.906/94" (e-STJ fl. 2.201).
+Acrescenta que a "sustentação oral registrada em vídeo retira, portanto, a efetividade do direito do advogado em apartear, fazer intervenção pontual ou esclarecer equívoco que pode levar o julgador a proferir decisão iníqua, preocupação que se agrava quando se trata de Agravo Regimental em Habeas Corpus" (e-STJ fl. 2.202).
+É o breve relatório.
+A despeito do esforço da defesa, não há como deferir o pleito de retirada do agravo regimental da pauta de julgamento virtual, uma vez que a defesa não trouxe no presente pedido nenhum argumento novo apto a ensejar a alteração do entendimento firmado na decisão de e-STJ fls. 2195/2196, que inclusive possui natureza jurídica de despacho.
+Insta consignar que a defesa não logrou demonstrar prejuízo decorrente do julgamento do agravo regimental em sessão virtual, mormente pela possibilidade de realização de sustentação oral em julgamento virtual, prevista no art. 184-B do Regimento Interno do Superior Tribunal de Justiça, bem como de encaminhamento de memoriais.
+Sobre o tema, cito o seguinte precedente do Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DO PEDIDO DE RETIRADA DE PAUTA DO AGRAVO REGIMENTAL INTERPOSTO PELA PROCURADORIA-GERAL DA REPÚBLICA, ATÉ A CONCLUSÃO DO JULGAMENTO EM 2ª INSTÂNCIA. ATO JUDICIAL SEM CUNHO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - A jurisprudência desta Corte consolidou-se no sentido de que é incabível recurso contra decisão que não possui conteúdo decisório nem se reveste de lesividade. Precedentes.
+II - Agravo regimental não conhecido." (HC 142216 AgR-AgR, Relator(a): RICARDO LEWANDOWSKI, SEGUNDA TURMA, julgado em 05/11/2019, PROCESSO ELETRÔNICO DJe-256 DIVULG 22-11-2019 PUBLIC 25-11-2019; sem grifos no original, grifei.)
+No mesmo sentido os julgados desta Corte:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM FACE DE DESPACHO QUE MANTEVE O JULGAMENTO DE AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL EM SESSÃO VIRTUAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O presente agravo regimental não deve ser conhecido, eis que impugna despacho sem conteúdo decisório a respeito do mérito da causa, pois apenas praticado ato ordinatório que manteve o julgamento do agravo regimental em agravo em recurso especial em sessão virtual.
+1.1. A justificativa apresentada pelo requerente para apresentação do feito em sessão presencial, qual seja, pretensão de realizar sustentação oral, mostrou-se inidônea, pois incabível em qualquer das duas modalidades de julgamento.
+1.2. Consoante art. 159, IV, do Regimento Interno do STJ, não haverá sustentação oral no julgamento de agravo, salvo expressa disposição legal em contrário. No tocante à legislação vigente, registra-se que o art. 7º, § 2º-B, da lei n. 8.906/1994, não abarca o pleito de sustentação oral em agravo regimental na decisão monocrática que julgou o agravo em recurso especial. O referido dispositivo está em linha com o art. 937 do CPC/15 que não preconiza a sustentação oral em julgamento de agravo em recurso especial.
+2. Agravo regimental não conhecido.
+(AgRg no RtPaut no AREsp n. 2.186.572/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2022, DJe de 15/12/2022, grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE PEDIDO DE RETIRADA DE PAUTA DE PROCESSO. IRRECORRIBILIDADE. DESPACHO SEM CONTEÚDO DECISÓRIO. AGRAVO NÃO CONHECIDO.
+1. Despachos, por não terem conteúdo decisório, não comportam recursos, especialmente de agravo. Precedentes.
+2. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.959.628/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PEDIDO DE RETIRADA DO FEITO DA PAUTA DE JULGAMENTO EM SESSÃO VIRTUAL. PRONUNCIAMENTO JURISDICIONAL SOBRE A MATÉRIA QUE TEM NATUREZA JURÍDICA DE DESPACHO. IRRECORRIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O pronunciamento jurisdicional que, nesta Corte, delibera sobre a inclusão, ou não, do feito em sessão de julgamento virtual (arts. 184-C e 184-F, § 2.º, ambos do Regimento Interno do Superior Tribunal de Justiça) tem natureza jurídica de despacho, sendo, por isso, irrecorrível, consoante prevê o art. 1.001 do Código de Processo Civil. Precedentes do STF e desta Corte.
+2. Agravo regimental não conhecido.
+(AgRg no RtPaut no HC n. 707.060/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/3/2023, DJe de 28/3/2023, grifei.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. CONTRADIÇÃO NÃO CONSTATADA. 2. PEDIDO DE RETIRADA DO AGRAVO REGIMENTAL DA PAUTA DE JULGAMENTOS VIRTUAL PARA SUSTENTAÇÃO ORAL. NÃO CABIMENTO. 3. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na decisão judicial, obscuridade, contradição, omissão ou erro material, conforme disposto no art. 1.022 do CPC/2015. Contradição não verificada.
+2. Inicialmente, frise-se que esta Corte Superior já assentou que o cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994 (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, 4ª T., DJe 28/6/2022).
+2.1. Ademais, a oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, o que não se verificou no caso (EDcl no AgInt no AREsp n. 2.120.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.).
+3. Embargos de declaração parcialmente acolhidos sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.018.341/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023, grifei.)
+Ante o exposto, indefiro o pedido de reconsideração.
+Publique-se. Intimem-se.
