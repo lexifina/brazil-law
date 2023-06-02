@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+PREVIDENCIÁRIO. AGRAVO LEGAL. REVISÃO DE BENEFÍCIO. LEGISLAÇÃO VIGENTE À ÉPOCA DA IMPLANTAÇÃO DOS REQUISITOS. ARTIGO 144 DA LEI 8213/91. VEDAÇÃO DE APLICAÇÃO DE SISTEMA HÍBRIDO.
+- A convocação de juiz federal para substituir desembargado r federal ocorreu mediante Ato do Presidente deste Tribunal, em totji1 conformidade com as Resoluções nos 51/2009-CJF-B3r e 72/2009-CNJ, bem como nos termos do artigo 51 do RITRF3, o que conferiu ao MM. Juiz Convocado jurisdição plena para decidir nestes autos.1 - Não cabe ao segurado eleger quais os critérios legais será) aplicados ao seu benefício, extraindo-os de legislações distintas, para criar um sistema híbrido. Pretende seja respeitada a Lei 8213/91 nos pontos em que lhe " mais favorável, mas com aplicação do artigo 40 da Lei 6950/81, revogado pela Lei 7787/89. Cuida-se de legislações relativas a regimes jurídicos distintos, que não podem ser pinçadas a critério da parte.
+-A adoção de uma data aleatória, como referência para o cálculo, fim de se enquadrar na hipótese descrita no dispositivo transitório, não) descaracteriza o pedido de aplicação conjunta de leis que vigeram em épocas diferentes, pertinentes a sistemas previdenciários distintos.
+-Matéria preliminar rejeitada. Agravo desprovido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 5º, XXXVI, 107, 108, 194, 201 e 202 da CF; 29, § 2º, 31, 136, 144 e 145 da Lei 8.213/1991; 128, 460 e 535 do CPC/1973; e 265 do Decreto 611/1992. Aduz:
+(..) possibilidade do beneficio concedido na vigência da Lei n" 8.213/91, obter correspondência do salário-de-beneficio fixados da média aritmética simples os 36 últimos salários-de-contribuição corrigidos sem limitação, ISTO É, inexistência "teto".
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.5.2023.
+De pronto, verifica-se que o Tribunal de origem não emitiu qualquer juízo acerca da suposta violação dos arts. 128 e 460 do CPC/1973, assim como as teses a eles vinculadas. Logo, na espécie, incide o óbice da Súmula 211 do STJ.
+Nos termos do art. 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais. Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações aos arts. 5º, XXXVI, 107, 108, 194, 201 e 202 da CF.
+Não se constata a alegada violação ao art. 535 do CPC/1973, porquanto todos os argumentos expostos pela parte, na petição dos Embargos de Declaração, foram apreciados pelo Colegiado regional, com fundamentação clara, coerente e suficiente.
+O TRF3, ao analisar a demanda, consignou (fls. 132-134, e-STJ, grifei):
+O agravante sustenta que em julho de 1988 já preenchia os requisitos para obtenção do benefício e a decisão agravada não considerou o direito adquirido do ora agravante ao cálculo do benefício, considerando o artigo 40 da Lei 6950/81.
+A aposentadoria em tela foi calculada de acordo com a disciplina do Decreto nº 89.312/1984, vigente à época da concessão (03.08.1990), posteriormente revisto, nos termos do artigo 144 da lei 8213/91. Seu pedido, entretanto, é no sentido de fixar o início do benefício em 02.07.1989, data aleatória, mas na qual vigia a Lei n0 6.950/1981, revogada quando da edição da Lei n0 7.787/1989 e ainda que o beneficiaria com a revisão do artigo 144 da Lei n0 8.213/1991.
+Não prospera a pretensão do agravante, porquanto caracterizaria aplicação de regime misto, conjugando-se a aplicação da Lei 6950/81 no que diz respeito ao limite do salário-de-contribuição, com a aplicação do artigo 144 da Lei 8213/91 quanto ao critério de atualização dos salários-de-contribuição.
+(..)
+Ao implementar os requisitos exigidos para concessão de benefícios, o segurado tem direito adquirido à aplicação do regime previdenciário de regência como um todo, porquanto as legislações que o disciplinaram consistem em complexos de normas as quais interagem entre si, e não da forma como quer o autor, isoladamente, com adoção de critérios mistos.
+Dessume-se que, não obstante as razões explicitadas pela instância originária, ao interpor o Recurso, a parte recorrente não impugnou, suficientemente, os fundamentos registrados acima. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Apelo para justificar o pedido de reforma ou de nulidade do julgado. Logo, sendo os argumentos aptos, por si sós, para manter o decisum combatido, aplicam-se, na espécie, por analogia, as Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo. Nessa esteira:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO CONFIGURADA. PEDIDO GENÉRICO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que se acolhem os aclaratórios para sanar a contradição apontada quanto ao pedido genérico.
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Embargos de Declaração acolhidos, sem efeito infringente, apenas para sanar contradição e integrar o julgado.
+(EDcl no REsp 1.617.381/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 22/5/2018)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido. (AgInt no AREsp 1.206.856/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24/5/2018)
+Ainda que assim não fosse, a revisão do aresto, no sentido de acolher a tese do recorrente acerca da irregularidade dos cálculos, exige exame de fatos e provas, o que é inviável no STJ, nos termos da Súmula 7/STJ. (AgRg no AREsp 220.639/PE, Rel. Ministro Castro Meira, Segunda Turma, DJe 12/3/2013)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço parcialmente do Recurso Especial, apenas em relação à violação do art. 535 do CPC/1973, e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
