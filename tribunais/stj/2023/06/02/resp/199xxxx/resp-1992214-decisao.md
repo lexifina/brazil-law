@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCA NOGUEIRA DE SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A questão debatida nos autos, qual seja, a "legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde - SUS", teve a repercussão geral reconhecida pelo Supremo Tribunal Federal no Recurso Extraordinário 1.366.243/SC (Tema 1.234). Este recurso encontra-se pendente de julgamento, havendo determinação da Suprema Corte de suspensão nacional do processamento dos recursos especiais e extraordinários que versem sobre a matéria, nos termos do art. 1.035, § 5º, do CPC.
+Pelo exposto, determino a devoluç ão dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC
+Publique-se. Intimações necessárias.
