@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se recurso especial interposto por UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE REGULAMENTADO. FORNECIMENTO DE MEDICAÇÃO PARA TRATAMENTO NEOPLÁSICO. IMPUGNAÇÃO AO VALOR DA CAUSA. NEGATIVA DE COBERTURA DE TRATAMENTO. RECUSA INDEVIDA DA OPERADORA.
+1. Impugnação ao valor da causa: no caso, em que a pretensão é para a cobertura de fornecimento de medicação, com valor certo, prescrita para utilização por tempo indeterminado - enquanto perdurar o tratamento -, incide o disposto no artigo 292, § 2º, do Código de Processo Civil1, devendo o valor da causa corresponder a uma prestação anual. Preliminar afastada. 2. Mérito: tratando-se de contrato firmado na vigência da Lei nº 9.656/98, sujeita-se aos ditames do Código de Defesa do Consumidor, por se tratar de típica relação de consumo (verbete nº 608 da súmula de jurisprudência do Superior Tribunal de Justiça).
+3. Segundo prevê a Lei nº 9.656/98, devem ser observadas as coberturas mínimas definidas na Resolução Normativa nº 428/2017, da Agência Nacional de Saúde Suplementar (ANS), que apresenta as Diretrizes de Utilização para Cobertura de Procedimentos na Saúde Suplementar.
+4. Em que pese lícito que a cobertura contratual excetue o fornecimento de tratamento para determinada patologia, quando não prevista em norma regulamentadora da ANS, não se mostra plausível que excetue o fornecimento de medicamento quando evidenciado que a operadora assumiu a responsabilidade pela cobertura da doença que acomete o consumidor.
+5. Cabível o fornecimento de medicação para tratamento antineoplásico domiciliar de uso oral, conforme exceção contida no art. 12, inciso I, alínea c, da Lei nº 9.656/98.
+AFASTARAM A PRELIMINAR E, NO MÉRITO, NEGARAM PROVIMENTO À APELAÇÃO. (fls. 1194-1203)
+Nas razões do recurso especial (fls. 121 4-1251), a parte recorrente alega, além de dissídio jurisprudencial, violação do artigo 4º, inciso III, da Lei n. 9.961/00; e 10, §4º, da Lei 9.656/98. Sustenta, em síntese, que não há obrigatoriedade de custeio de tratamento não contemplado pelo rol da ANS, que possui natureza taxativa.
+Devidamente intimada, a parte recorrida apresentou contrarrazões às fls. 1298-1299.
+Posteriormente, foi aviada manifestação à fl. 1311, noticiando o óbito da autora, ora recorrida, requerendo a extinção da ação em decorrência da perda do objeto.
+O polo ativo da demanda foi devidamente regularizado, nos termos da decisão de fl. 1337.
+Quanto ao pedido de extinção da ação por perda do objeto, a recorrente apresentou manifestação às fls. 1322-1324, alegando a não ocorrência da perda do objeto e requerendo o prosseguimento do feito, com a consequente análise do recurso especial interposto.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Cinge-se a controvérsia na obrigatoriedade ou não do custeio do medicamento TAGRISSO (OSIMERTINIB) 80mn, indicado expressamente pelo médico assistente, para tratamento de paciente com neoplasia brônquica (CID C34), do tipo adenocarcinoma em estágio clínico IV (metástases cerebrais).
+A parte recorrente defende, sustentando violação do artigo 4º, inciso III, da Lei n. 9.961/00 e do artigo 10, §4º, da Lei 9.656/98, que não pode ser obrigada a custear medicamento que não está no rol obrigatório da ANS, que possui natureza taxativa, como já decidido no REsp n. 1.733.013/PR.
+No caso ora em exame, o Tribunal de origem concluiu que a operadora é obrigada a custear o tratamento indicado pelo médico assistente, ainda que não constante do rol da ANS. A título elucidativo, confira-se trecho do v. acórdão (fls. 1199-1201):
+"Colhe-se, portanto, ser lícito, a priori, que a cobertura contratual excetue o fornecimento de tratamento para determinada patologia, quando não previsto em norma regulamentadora da ANS.
+Todavia, embora atualmente não haja uma pacificação na jurisprudência, e sem olvidar de posição em sentido diverso (REsp 1.733.013/PR2), tenho que não se mostra plausível a exclusão do fornecimento de procedimento ou medicamento quando evidenciado que a operadora assumiu a responsabilidade pela cobertura da doença que acomete o consumidor, não cabendo a ela definir quais tratamentos o paciente deve, ou não, ser submetido, sob pena de desvirtuamento da função social do contrato.
+Nesse sentido:
+(..)
+Portanto, ainda que o medicamento prescrito pelo médico assistente não esteja listado no Rol de Procedimentos e Eventos em Saúde, previsto no Anexo II da Resolução nº Normativa nº 428/2017, da Agência Nacional de Saúde Suplementar (ANS), bem assim na Resolução Normativa nº 465/2021 que a revogou, vigente a contar de 1 de abril de 2021, revela-se, de fato, abusiva a cláusula contratual que exclui a respectiva cobertura contratual."
+Com efeito, a decisão deve ser confirmada por seus próprios fundamentos, pois, nos termos da jurisprudência desta Corte, a taxatividade do rol da ANS é desimportante para a análise do dever de cobertura de medicamentos para o tratamento de câncer, como no caso dos autos, em relação aos quais há apenas uma diretriz na resolução. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1.Nos termos da jurisprudência deste Corte,a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à existência de ofensa a direitos da personalidade em razão do ilícito em questão, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.909.215/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022.) - grifamos
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA DEMANDADA.
+1. No âmbito do REsp 1.733.013/PR, esta Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo.
+1.1. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS.
+2. Agravo interno desprovido."
+(AgInt no REsp 1949270/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/02/2022, DJe 24/02/2022 - grifou-se)
+Ademais, no caso de fornecimento de medicamento para tratamento de câncer, é assente que a jurisprudência se firmou no sentido de que o fornecimento é obrigatório. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1941905/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe 03/12/2021 - grifou-se)
+Nesse contexto, tem-se que a decisão se encontra de acordo com a jurisprudência desta Corte, incidindo o óbice da Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$1.800 para R$2.000,00.
+Publique-se. Intime-se.
