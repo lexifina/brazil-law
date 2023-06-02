@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CHARLES EISENDECKER FORNECIMENTO DE ALIMENTOS EIRELI, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO FISCAL. COBRANÇA EM DUPLICIDADE. NULIDADE DA CDA.
+1. Não há falar em litispendência quando evidenciado que são distintos os valores cobrados nas execuções fiscais movidas contra o embargante.
+2. É válida a CDA que, preenchendo os requisitos legais, permite a identificação de todos os aspectos do débito, inclusive a sua origem" (fl. 405e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 417/427e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS.
+Não se acolhem os embargos de declaração quando o embargante não comprova a existência, no acórdão embargado, de omissão, contradição, obscuridade ou erro material, pretendendo na verdade, a pretexto de vício, apenas o prequestionamento numérico de dispositivos legais" (fl. 435e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 11, 489, §1.º, IV, 1.013, § 1.º, e 1.022, II, do CPC/2015, assim como aos arts. 337, VI, §§ 1º, 2º e 3º, e 485, IV, V e VI, do mesmo Diploma processual, 2º, § 5.º, II, III, IV e VI, da Lei 6.830/80, e 204, parágrafo único do CTN, sustentando, além de negativa de prestação jurisdicional, a existência de litispendência e a nulidade da CDA por ausência do preenchimento dos requisitos previstos em lei.
+Contrarrazões a fls. 479/482e.
+Inadmitido o Recurso Especial (fls. 485/488e), foi interposto o presente Agravo (fls. 496/513e).
+Sem contraminuta.
+A irresignação não merece prosperar.
+Em relação aos arts. 11, 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, observa-se que o voto condutor do acórdão recorrido assim dispôs acerca das alegações de litispendência e de irregularidade da CDA:
+"Compulsando os autos da execução fiscal embargada e da execução fiscal nº 5001263-57.2016.404.7215, verifico que os créditos cobrados em tais processos são diferentes, de tal maneira que não há falar em litispendência. A questão foi resolvida corretamente na sentença, razão pela qual transcrevo o excerto correspondente, que adoto a título de fundamentação:
+(..)
+Por outro lado, as CDAs preenchem, sob o ponto de vista formal, os requisitos legais elencados na Lei de Execução Fiscal e no art. 202 do CTN, conforme se pode vislumbrar do cotejo entre ambos. Nelas estão consignados: o nome do devedor e seu domicílio tributário; o valor originário da dívida (totalização e por competência, em moeda) e a maneira de calcular os acréscimos legais (correção monetária e juros); o número de inscrição na dívida ativa e a data de inscrição. Registrado, ainda, o número do processo administrativo" (fls. 408/409e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Nesse sentido: STJ, AgRg no AREsp 626.348/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 11/03/2015; AgRg no REsp 1.506.059/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/03/2015; AgRg no REsp 1.488.260/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015; AgRg no AREsp 609.330/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/12/2014; AgInt no AREsp n. 1.267.205/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/6/2018.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo, para conhecer em parte do Recurso Especial, e, nessa parte, negar-lhe provimento.
+I.
