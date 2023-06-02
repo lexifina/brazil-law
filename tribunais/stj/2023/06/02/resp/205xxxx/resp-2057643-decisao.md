@@ -1,0 +1,31 @@
+DECISÃO
+JULIANDERSON FRANSICSO NOGUEIRA SILVA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte na Revisão Criminal n. 0800239-70.2022.8.20.0000.
+A defesa aponta violação do art. 59 do CP e requer que seja afastada a avaliação negativa dos antecedentes do réu, haja vista que a condenação usada para esse fim se deu por fato posterior ao em apuração na presente ação penal.
+Oferecidas as contrarrazões e admitido o recurso, o Ministério Público Federal opinou pelo "não conhecimento do recurso especial; caso conhecido, pelo seu provimento" (fl. 205).
+Decido.
+O recurso especial é tempestivo e preenche os requisitos constitucionais, legais e regimentais para ser conhecido.
+Segundo os autos, o recorrente foi condenado na Ação Penal n. 0100093-24.2016.8.20.0148 a 18 anos de reclusão em regime fechado, pela prática do crime previsto no art. 121, § 2º, II e IV, cometido em 11/5/2014.
+Na ocasião, o Magistrado de primeiro grau fixou a pena-base em 18 anos de reclusão, tendo em vista a valoração negativa dos antecedentes, da conduta social e das consequências do crime.
+Transitada em julgado a condenação, a Corte estadual deu parcial provimento ao pleito revisional para afastar a avaliação desfavorável da conduta social e das consequências do crime e redimensionar a condenação para 14 anos de reclusão, sob os seguintes argumentos, no que interessa (fls. 120-123, grifei):
+Pois bem. O requerente se insurge contra a valoração negativa dos antecedentes criminais, aduzindo que o Juízo primevo valeu-se de sentença condenatória transitada em julgado por fato posterior ao crime de homicídio apurado, o que incidiria na violação à Súmula 444 do STJ.
+Neste ponto, do cotejar dos autos, mormente da sentença condenatória (ID12591020, págs. 1-3), infere-se que laborou com acerto o magistrado sentenciante, ao valorar em desfavor do réu os antecedentes criminais, porquanto fundamentou sua decisão no fato de o réu já ter sido condenado por homicídio. Com efeito, quando da prolação da sentença vergastada (21/11/2018), existia em desfavor do ali réu condenação transitada em julgado em 17/11/2016, nos autos do Processo nº 0100323-03.2015.8.20.0148, pelo crime do art. 121, § 2º, II e IV, do CP (ID 12733946, pág. 3), não havendo que se falar, nesta parte em violação à lei ou à jurisprudência dos Tribunais Superiores.
+ ..
+Assim, a pretensão revisional há de prosperar parcialmente, modificando-se apenas na primeira fase da dosimetria da pena, diante do vício de fundamentação quanto à circunstância atinente à conduta social e consequências do crime, em violação ao texto expresso do art. 59 do Estatuto Repressivo, operando-se o devido redimensionamento da reprimenda.
+Portanto, passo a nova dosimetria da reprimenda fixada na sentença da Ação Penal nº 001.06.023136-0:
+Sequencialmente, pontuadas tais questões, e levando-se em consideração o equívoco na consideração como circunstância judicial desfavorável da vertente quanto à conduta social e as consequências do crime, passa-se a readequação da pena base, deforma que, mantendo-se a discricionariedade utilizada pelo MM Juiz sentenciante, que na primeira fase da dosimetria aumentou a pena base em 02 (anos) anos por cada circunstância judicial desvalorada, diminuo a pena base ali fixada em 4 (quatro) anos por afastar somente a exasperação da circunstância judicial da conduta social e das consequências do crime, pelo que a pena-base fica alterada para o patamar de 14 (anos) anos.
+Inexistem circunstâncias agravantes ou atenuantes, torno definitiva a pena de 14 (quatorze) anos de reclusão, mantidos os demais termos da r. sentença.
+Como visto acima, a Corte estadual, ao manter a valoração prejudicial dos antecedentes, considerou apenas o trânsito em julgado da condenação anterior, mas ignorou a data do fato de tal condenação, que, conforme certidão acostada às fls. 34, se deu em 24/12/2014, posteriormente, portanto, aos eventos julgados na presente ação penal.
+Ao assim agir, as instâncias ordinárias se posicionaram contra a jurisprudência do STJ, pois "Não se admite,  .. , que seja presumido que o réu ostenta personalidade distorcida em razão da gravidade do próprio delito ou com fundamento em condenação por fato posterior ao apurado nos autos" (HC n. 566.684/SP, Rel. Min. Ribeiro Dantas, 5ª T. DJe 17/6/2020, grifei).
+A propósito:
+ ..
+- A jurisprudência desta Corte possui entendimento pacífico no sentido de que a condenação por fato posterior ao descrito na denúncia não é argumento idôneo à exasperação da pena-base, seja a título de maus antecedentes, seja para desabonar a personalidade do agente, tampouco servindo como indicativo de dedicação a atividades criminosas.
+ ..
+(HC n. 453.240/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/9/2018, destaquei)
+No mesmo sentido, ainda, cito o parecer do Ministério Público Federal (fl. 203):
+Consta do acórdão recorrido que os maus antecedentes foram reconhecidos com base em condenação transitada em julgado em 17/11/2016, nos autos do Processo nº 0100323-03.2015.8.20.0148. No entanto, os fatos apurados na referida ação penal ocorreram em 24/12/2014 (fl. 34), em data posterior ao crime objeto dos presentes autos (11/05/2014 -fl. 20).
+Conforme a jurisprudência do STJ, condenações transitadas em julgado por fatos posteriores, não podem ser consideradas como maus antecedentes (AgRg no AREsp n.1.954.849/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em15/3/2022, DJe de 21/3/2022).
+Mostra-se, portanto, indevido o reconhecimento dos maus antecedentes com base em condenação com trânsito em julgado pela prática de fatos posteriores ao que se relaciona a estes autos. Nesse sentido:
+ ..
+Dessa forma, sob as premissas assentadas no acórdão recorrido, a reprimenda básica do réu deve ser imposta no mínimo legal - 12 anos de reclusão - sanção que torno definitiva, ante a inexistência de causas modificativas.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para fixar a sanção do recorrente em 12 anos de reclusão, conservados os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
