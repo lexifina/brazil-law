@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Alexandre Soares da Silva, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Pernambuco que denegou a ordem no HC n. 0020587-92.2022.8.17.9000.
+Narram os autos que o paciente foi preso preventivamente em 7/11/2021 e denunciado, em razão dos supostos delitos tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006. A denúncia foi recebida em 16/2/2022, na Ação Penal n. 0001344-68.2021.8.17.5001, pelo Juízo da 4ª Vara Criminal da comarca do Recife/PE (fls. 124/126). Posteriormente, a defesa pleiteou a revogação da custódia cautelar, mas o Juízo singular indeferiu o pedido (fls. 202/204).
+Inconformada com a letargia processual, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem, por unanimidade, nos termos da seguinte ementa (fl. 66):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTE. ASSOCIAÇÃO AO TRÁFICO. DECISÃO FUNDAMENTADA. EXCESSO DE PRAZO. PROCESSO COMPLEXO. PLURALIDADE DE RÉUS. AUDIÊNCIA AGENDADA. PROPORCIONALIDADE E RAZOABILIDADE. TRÂMITE REGULAR. REVISÃO CRIMINAL. PRAZO NÃO PEREMPTÓRIO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal em razão do excesso de prazo para o encerramento da instrução processual.
+Ressalta-se que o paciente se encontra custodiado desde outubro de 2021 e que o processo é desprovido de complexidade.
+Sustenta-se que o processo nem sequer iniciou a fase instrutória, em razão, exclusivamente, da ineficiência do aparelho estatal (fl. 11).
+Requer-se o relaxamento da prisão e a expedição do alvará de soltura.
+A liminar foi por mim indeferida em 23/3/2023 (fls. 371/373).
+Prestadas informações (fls. 379/395), o Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do habeas corpus, recomendando-se, todavia, ao Juízo singular que observe o disposto no art. 316, parágrafo único, do Código de Processo Penal (fls. 400/405).
+É o relatório.
+O acórdão ora impugnado está em consonância com a firme jurisprudência desta Casa.
+Quanto ao alegado excesso de prazo, cabe ressaltar que é pacífico o entendimento do Superior Tribunal de Justiça de que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais (RHC n. 104.639/PI, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/12/2019).
+Sobre esse tema, o Tribunal a quo consignou que se trata de feito complexo, com pluralidade de réus (quatro) e prazo em dobro para Defensoria Pública, o que, por certo, demanda maior tempo no trâmite processual. Ressaltou, ainda, que, do resumo dos atos processuais analisados em consulta processual ao sítio do TJPE e do que consta nos autos, observo que o processo cumpre seu trâmite regular e não é razoável acolher o excesso de prazo alegado (fl. 71).
+Na espécie, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas, não está demonstrada a desídia Estatal, o Juízo de primeiro grau está conduzindo diligentemente o feito, inclusive, em consulta ao portal eletrônico do Tribunal pernambucano, verifiquei que foi realizada a audiência de instrução e julgamento no dia 10/5/2023, com indicativo de que a instrução já está encerrada, o que atrai a Súmula 52/STJ.
+Sobre o tema, ainda: RHC n. 74.414/MG, da minha relatoria, Sexta Turma, DJe 24/3/2017; RHC n. 80.288/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2017; RHC n. 89.942/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/5/2018; e HC n. 513.362/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/2/2020.
+Não foi outra a opinião do Subprocurador-Geral da República Moacir Mendes Sousa em seu parecer (fls. 400/405).
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Todavia, em consonância com o parecer ministerial, de modo a evitar o retardo abusivo e injustificado na prestação jurisdicional e no tempo de prisão do paciente, entendo de bom alvitre recomendar ao Juízo de origem que imprima máxima celeridade ao processamento e julgamento da ação penal em questão e observe o disposto no art. 316, parágrafo único, do Código de Processo Penal.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, denego a ordem, recomendando ao Juízo de primeiro grau que atribua celeridade na conclusão da instrução processual e prolação de sentença, atendendo ainda ao disposto no referido parágrafo único do art. 316 do Código de Processo Penal.
+Publiqu e-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ALEGAÇÃO DE EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES E PARECER DO MINISTÉRIO PÚBLICO FEDERAL. SÚMULA 52/STJ.
+Ordem denegada com recomendação.
