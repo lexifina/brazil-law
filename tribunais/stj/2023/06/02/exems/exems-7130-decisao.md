@@ -1,0 +1,8 @@
+DECISÃO
+Tendo havido o trânsito em julgado dos embargos à execução conexos (certidão fl. 1.054), a Coordenadoria de Processamento de Feitos em Execução Judicial apresentou informações e cálculos (fls. 1.056-1.072).
+Intimados, os Exequentes, a Sociedade de Advogados Sepúlveda Pertence e a UNIÃO concordaram com a conta elaborada pela CEJU (fls. 1.074-1.075, 1.076-1.077 e 1.079-1.082).
+A Sociedade de Advogados Sepúlveda Pertence e Rossi Pertence Lima Advogados requereram a expedição de precatórios autônomos referentes às verbas de honorários contratuais e sucumbenciais, na proporção de 72% (setenta e dois por cento) para a primeira e 28% (vinte e oito por cento) para a segunda, em conformidade com o termo de cessão de direitos que trouxeram anexo (fl. 1.083-1.103 ).
+Ante o exposto, homologo os cálculos de fls. 1.056-1.072.
+Diante do Termo de Cessão de Direitos de fls. 1.084-1.085 cuja petição foi subscrita eletronicamente pelo representante da cessionária, intime-se a cedente e a UNIÃO para que se manifeste m acerca do referido negócio jurídico em 5 dias (art. 44, caput, parte final, e § 1º, da Resolução CNJ n. 303/2019). Transcorrido o prazo sem manifestação ou impugnação específica, fica homologada a cessão de crédito nos termos do instrumento apresentado.
+Na sequência, prossiga-se com a expedição das requisições de pagamento, com destaque de honorários advocatícios contratuais (art. 8º, §§ 2º e 4º, da Resolução CNJ n. 303/2019), observada a cessão de crédito parcial em favor de Rossi Pertence Lima Advogados (art. 44, § 3º, da Resolução CNJ n. 303/2019), se for o caso .
+Publique-se. Intimem-se.
