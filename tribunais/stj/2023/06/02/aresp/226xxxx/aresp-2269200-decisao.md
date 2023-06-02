@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ SIDNEY OLIVEIRA, em face de decisão proferida pelo Tribunal de Justiça do Estado da Paraíba que inadmitiu o recurso especial manejado contra acórdão assim ementado (fls. 628/630 e-STJ):
+AÇÃO RESCISÓRIA. DECADÊNCIA. TERMO A QUO. ÚLTIMO ATO JUDICIAL DECISÓRIO. RECURSO INTEMPESTIVO. IRRELEVÂNCIA. PRECEDENTES DO STJ. REJEIÇÃO. MÉRITO. ALEGAÇÃO DE VIOLAÇÃO À LITERAL DISPOSITIVO DE LEI. ART. 966, V, DO CPC. OFENSA NÃO COMPROVADA. IMPROCEDÊNCIA.
+- "O prazo decadencial da ação rescisória passa a fluir do trânsito em julgado da última decisão proferida no processo originário, mesmo quando tenha ela se limitado a negar seguimento a recursos especial e extraordinário, por considerar ambos apócrifos e, um deles, intempestivo" (STJ, AgInt no AREsp 978.895/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 01/07/2019) -
+- O requerente apoia sua irresignação no incisos V do art. 966 do novo CPC, alegando que houve ofensa à disposição de lei, configurando-se esta quando se decide em sentido diametralmente oposto ao que nela está expresso e claro.
+- Não há violação manifesta à norma jurídica, quando a sentença rescindenda analisa de forma fundamentada os fatos e as provas dos autos, com base em entendimento jurisprudencial sobre o tema.
+- Não se pode admitir a utilização da ação rescisória para reverter a conclusão do julgamento, em razão do simples inconformismo da parte com o seu resultado, uma vez que a ação rescisória não se presta como substituto recursal para reexame de provas.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 728 e-STJ):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE.
+INOCORRÊNCIA. PROPÓSITO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. MANUTENÇÃO DO DECISUM. REJEIÇÃO.
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos seguintes dispositivos: a) art. 1.022 do CPC/2015, pois o Tribunal de origem teria incorrido em omissão ao deixar de seguir jurisprudência desta Corte Superior sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento; b) art. 12 da Lei 8.429/92, eis que a decretação de perda do cargo público não está relacionada ao posto ocupado pelo agente no momento do trânsito em julgado da sentença condenatória.
+O Tribunal de origem não admitiu o apelo nobre à consideração de que incide na espécie o óbice da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+O Ministério Público Federal, no parecer de fls. 868/872 e-STJ, opina pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+No caso, a parte recorrente aponta violação ao art. 1.022 do CPC/2015 a partir de fundamentação genérica no sentido de que o Tribunal de origem teria deixado de seguir jurisprudência desta Corte Superior sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento. Contudo, não apontou qual seria tal jurisprudência tampouco a relevância da tese no deslinde da controvérsia apta a mudar a conclusão expendida no acórdão recorrido.
+Dessa forma, aplica-se o disposto na Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. ERRO MÉDICO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CERCEAMENTO DE DEFESA E VALOR DA INDENIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RESPONSABILIDADE CIVIL OBJETIVA. FUNDAMENTO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL.
+ ..
+2. Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+ ..
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.978.118/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/6/2022, DJe de 8/6/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ISS. COMPETÊNCIA DO MUNICÍPIO DO ESTABELECIMENTO PRESTADOR. 1. A parte sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito (Súmula 284/STF).  ..  6. Agravo Interno não provido. (AgInt no REsp n. 1.810.835/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/5/2020, DJe de 2/6/2020)
+Ademais, no recurso especial, a parte recorrente aponta violação tão somente ao art. 12 da Lei 8.429/92, ao argumento de que a decretação de perda do cargo público não está relacionada ao posto ocupado pelo agente no momento do trânsito em julgado da sentença condenatória. Ocorre que tal dispositivo não possui comando normativo suficiente a reformar o acórdão recorrido que analisou a pretensão da parte recorrente de ver reconhecida manifesta ofensa a norma jurídica a ensejar a procedência de ação rescisória (art. 966, V, do CPC/2015).
+Verifica-se, portanto, que o comando normativo inserto dispositivo em questão não é suficiente a sustentar a tese de insurgência expendida no recurso especial, motivo pelo qual o apelo não merece conhecido a teor da Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. REAJUSTE DE 28,86%. BASE DE CÁLCULO. VENCIMENTO BÁSICO. INCIDÊNCIA SOBRE VANTAGENS. NÃO CABIMENTO. BIS IN IDEM. LEGITIMIDADE ATIVA AD CAUSAM. VERIFICAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO COMO VIOLADO. FUNDAMENTAÇÃO DISSOCIADA DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF.
+ ..
+5. Incide a Súmula n. 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.893.334/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+Por fim, diante da tese apontada no recurso especial relacionada à análise e interpretação unicamente do art. 12 da Lei 8.429/92, é certo que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido que julgou improcedente a ação rescisória ao argumento de que não se verifica a hipótese descrita no art. 966, V, do CPC, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO. RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284/STF. COMANDO NORMATIVO INSUFICIENTE. SÚMULA 284/STF. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
