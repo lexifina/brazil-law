@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 3ª Vara da Seção Judiciária do Estado da Paraíba - SJ/PB e o Juízo de Direito do Núcleo de Justiça 4.0 - Saúde Pública Estadual de João Pessoa - PB, nos autos de ação proposta inicialmente contra o Estado da Paraíba, em que se postula o fornecimento de medicamento padronizado pelo SUS para tratamento oncológico .
+É o relatório. Decido.
+Verifica-se que o Núcleo de Justiça 4.0 - Saúde Pública Estadual determinou a inclusão da União no polo passivo da demanda, sob pena de extinção do processo sem resolução do mérito, com a posterior remessa dos autos para a Justiça Federal (fls. 45-49).
+O Juízo Federal, por sua vez, reconheceu a falta de interesse da União para figurar no feito, declarando-se incompetente para processar e julgar a ação (fls. 103-112).
+Na sequência, o Juízo Estadual declarou a incompetência, suscitando o conflito, consoante seguintes razões (fls. 113-115):
+Os tratamentos oncológicos estão enquadrados como Procedimentos de Alta Complexidade do SIA/SUS e Procedimentos de Alta Complexidade do SIH/SUS, sendo o financiamento de responsabilidade do Ministério da Saúde, conforme artigo 5º da Portaria 627 de 26 de abril de2001 (anexos I e II). Assim também os blocos de média e alta complexidade, financiados com recursos federais transferidos para os Fundos de Saúde dos Estados e Municípios.
+Ademais, compete ao gestou federal habilitar os estabelecimentos de saúde na alta complexidade em oncologia, e a estes assegurar a continuidade do tratamento oncológico, observadas as diretrizes terapêuticas publicadas pelo Ministério da Saúde.
+A remuneração do estabelecimento habilitado como CACON ou UNACON é feita pelo Ministério da Saúde, mediante reembolso operado pelo sistema APAC-ONCO.
+Por fim, no que tange ao referido tratamento oncológico, não se segue à lógica de medicamentos previstos ou não nas listas do SUS, tendo o respectivo Centro de Atenção ampla liberdade para prescrever outras drogas. Isso porque, tal tratamento não se restringe às tecnologias incorporadas no SUS, mas sim, ao que pode ser oferecido a este paciente, considerando o financiamento repassado aos centros de atenção e a autonomia destes na escolha da melhor opção para cada situação clínica.
+Portanto, é incontroverso que se está diante de medicamentos padronizados e a UNIÃO FEDERAL é a responsável pelo custeio.
+Dessa forma, conforme determinação do STF, "a composição do polo passivo deve observar a repartição de responsabilidades estruturada no Sistema Único de Saúde, ainda que isso implique deslocamento de competência, cabendo ao magistrado verificar a correta formação da relação processual, sem prejuízo da concessão de provimento de natureza cautelar ainda que antes do deslocamento de competência, se o caso assim exigir".
+Assim, concessa vênia, mostra-se equivocada a decisão do juízo federal, sendo o caso de se suscitar conflito negativo de competência, em observância da decisão proferida no RE nº1.366.243 (TEMA 1234).
+C om fundamento nos artigos 955, caput, segunda parte, do CPC/2015 e 196 do RISTJ, designo o Juízo de Direito da Vara de Saúde Pública de João Pessoa, o suscitante, para deliberar, em caráter provisório, acerca dos pedidos e das medidas urgentes que se façam necessárias, até a decisão de mérito nos presentes autos.
+Nos termos do artigo 64, inciso XIII, do RISTJ, ouça-se o Ministério Público Federal.
+Oficiem-se aos Juízos envolvidos, informando-os do teor da presente decisão.
+Publique-se. Intimem-se.
