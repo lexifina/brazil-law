@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DINELIA MENDES DE OLIVEIRA contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ, fl. 326):
+APELAÇÕES CÍVEIS. DIREITO DE VIZINHANÇA. PRETENSÃO DE OBRIGAÇÃO DE FAZER OBRA EM ESGOTAMENTO SANITÁRIO, REPARAR DANOS MATERIAIS E MORAIS. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. LAUDO PERICIAL DETERMINANTE. AUSÊNCIA DE COMPROVAÇÃO DE DANOS MORAIS. Sentença que julgou parcialmente procedentes os pedidos, a fim de condenar a ré a indenizar à autora o valor de R$ 200,00 (duzentos reais), pelos danos materiais constatados pela perícia, acrescidos de juros de mora desde a citação e correção monetária desde a elaboração do laudo pericial. Julgou improcedentes os demais pedidos. Em razão da sucumbência majoritária, condenou a autora ao pagamento das despesas processuais e honorários advocatícios, que fixou em 10% sobre o valor da causa, observada a gratuidade de justiça deferida. Arguição de julgamento extra petita que merece ser afastada, vez que os pedidos da inicial continham a obrigação de fazer (a obra) e as indenizações por danos materiais (reparação dos danos advindos das infiltrações) e morais. Observa-se, assim, que a condenação prevista na sentença, guarda pertinência com o pedido de reparação material e que não houve a nulidade alegada. Acerca da responsabilidade pelos danos supostamente sofridos pela apelante-autora, cabe dizer que foi produzida prova pericial e o laudo foi claro ao explicar que as sequelas existentes foram provenientes de defeito no ralo sifonado do imóvel da ré, já consertado. Por fim, não se vislumbra qualquer excepcionalidade nos fatos narrados e nem mesmo nos demais danos sofridos que importem no reconhecimento do dano extrapatrimonial pleiteado. A questão posta em análise, em verdade, se refere a fato cotidiano e sem maiores repercussões ou consequências. Honorários sucumbenciais majorados na forma do artigo 85, §11º do Código de Processo Civil. DESPROVIMENTO DOS RECURSOS.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 370).
+Nas razões do especial (e-STJ, fls. 383-389), a parte recorrente sustentou violação aos arts. 186 e 187 do Código Civil, defendendo que o sofrimento psicológico a que foi submetida independe de extensa prova, razão pela qual a recorrida deve ser condenada ao pagamento de danos morais, notadamente por se tratar de dano moral in re ipsa.
+Contrarrazões às fls. 397-406.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 408-410, e-STJ), o que ensejou o manejo do presente agravo (fls. 428-432, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 447-450 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, o Tribunal de origem, com amparo nos elementos fáticos e nas provas dos autos, concluiu pela inexistência de dano moral na hipótese em tela, nos seguintes termos (e-STJ, fl. 331):
+Todavia, da análise dos autos, não se vislumbra qualquer excepcionalidade nos fatos narrados e nem mesmo nos demais danos sofridos que importem no reconhecimento do dano extrapatrimonial pleiteado. Pondere-se, ainda, que não se verificou sequer qualquer conduta da apelante-ré que pudesse ser considerada na aferição do citado dano. A questão posta em análise, em verdade, se refere a fato cotidiano e sem maiores repercussões ou consequências. Assim, igualmente verifica-se o acerto da sentença.
+Dessa forma, tendo a Corte de origem reconhecido expressamente a ausência de conduta ilícita da ré, a revisão desse entendimento, a fim de reconhecer a existência de dano moral, somente seria possível mediante o reexame das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO. DANO MORAL CONFIGURADO. REVISÃO. INVIABILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A análise da existência dos requisitos da responsabilidade civil é matéria que exige inevitável reexame de fatos e provas, inviável na estreita via do recurso especial, a teor do que dispõe a Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1582231/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 333 DO CPC, 186 E 927 DO CÓDIGO CIVIL. ALEGAÇÃO DE EXISTÊNCIA DE DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. A convicção formada pelo Tribunal de origem acerca da inexistência de danos morais decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o óbice da Súmula 7-STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 604.968/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/02/2015, DJe 19/02/2015)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE NÃO FAZER E INDENIZAÇÃO. DANO MORAL. AUSÊNCIA. MERO ABORRECIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO DA SIMILITUDE FÁTICA E DE INDICAÇÃO DO DISPOSITIVO DE INTERPRETAÇÃO DIVERGENTE. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, o Tribunal de origem concluiu que a situação experimentada pela agravante, embora apta a causar desconforto e aborrecimentos, não seria capaz de gerar abalo moral indenizável.
+Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1383055/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/04/2019, DJe 05/04/2019)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
