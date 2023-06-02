@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE PORTO UNIÃO contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+EXECUÇÃO FISCAL. EMBARGOS. REEXAME DE RECURSO. JUÍZO DE RETRATAÇÃO. ARTIGO 543-B, § 3 , DO CPC. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. IPTU. 1. DETERMINADO PELA VICE-PRESIDÊNCIA DESTE TRIBUNAL O EVENTUAL JUÍZO DE RETRATAÇÃO, NOS TERMOS DO ARTIGO 543-B, § 3A, DO CPC, DE MODO QUE CABÍVEL O REEXAME DO RECURSO DE APELAÇÃO. 2. A REDE FERROVIÁRIA FEDERAL S/A FOI EXTINTA EM 22 DE JANEIRO DE 2007, POR DISPOSIÇÃO DA MP 353, CONVERTIDA NA LEI N2 11.483/07, SUCEDENDO-LHE A UNIÃO NOS DIREITOS, OBRIGAÇÕES E AÇÕES JUDICIAIS. 3. O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO RE 599.176/PR, COM REPERCUSSÃO GERAL RECONHECIDA, ENTENDEU NÃO SE APLICAR O PRINCÍPIO DA IMUNIDADE TRIBUTÁRIA RECÍPROCA A DÉBITO DE IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU) DEVIDO PELA EXTINTA REDE FERROVIÁRIA FEDERAL S/A (RFFSA). 4. APELAÇÃO PROVIDA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação ao artigo 20, §§3º e 4º, do CPC1973.
+Defende que deve ser alterado o critério de fixação da verba honorária, bem como que mesmo considerando a determinação pela equidade, a verba honorária deve ser majorada para a devida remuneração do múnus prestado pelo procurador da ação.
+Contrarrazões ao recurso especial às fls. 465/484.
+Decisão de admissibilidade às fls. 487/488.
+É o relatório. Decido.
+Consta do v. acórdão de origem:
+Assim, em juízo de retratação, impõe-se a adoção do entendimento firmado pelo STF, no julgamento do RE nº 599.176/PR, no sentido de que compete à União - sucessora da RFFSA nos termos da Lei 11.483/07 - a responsabilidade pelo pagamento dos tributos.
+Ônus sucumbenciais
+Considerando a natureza e simplicidade da causa, mostra-se razoável a condenação da União ao pagamento de honorários advocatícios de R$ 1.000,00 em favor da parte adversa, nos termos dos §§ 3º e 4º do artigo 20 do CPC.
+Com efeito, considerando a legislação processual pretérita, cumpre ressaltar que é pacífico o entendimento desta Corte no sentido de que deve ser conhecido e provido recurso especial para rever a fixação de verba honorária em valor irrisório ou excessivo, pois nesses casos não há observância do juízo de equidade preconizado na legislação processual civil. Nesse sentido: REsp 526.508/SP, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ de 21.2.2005; REsp 606.375/MS, 5ª Turma, Rel. Min. Laurita Vaz, DJ de 29.11.2004.
+No entanto, não configurada a hipótese supramencionada, aplica-se o entendimento consolidado neste Tribunal no sentido de que a majoração do valor relativo aos honorários advocatícios, consubstanciada na tese de que houve condenação em valor irrisório, requer a apreciação dos critérios descritos no art. 20, § 3º, do CPC, os quais são primordialmente factuais, quais sejam o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Dessa forma, a fixação de percentual de honorários advocatícios não é possível em sede especial, por quaisquer das alíneas do permissivo constitucional, porquanto implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ.
+Impende ressaltar que mesmo nas hipóteses de incidência do art. 20, § 4º, do CPC, os honorários serão fixados consoante apreciação equitativa do juiz, atendidas as normas das alíneas a, b e c do § 3º do referido artigo.
+Nesse sentido, destaca-se:
+TRIBUTÁRIO - PROCESSO CIVIL - EXECUÇÃO FISCAL - PESSOA JURÍDICA CONCORDATÁRIA - JUSTIÇA GRATUITA - NECESSIDADE DE COMPROVAÇÃO - ÔNUS DA PROVA - TAXA SELIC - ESTADO DE SÃO PAULO - PREVISÃO LEGAL - REsp 1.111.189/SP - ART. 543-C DO CPC - HONORÁRIOS DE ADVOGADO - REVISÃO - SÚMULA 7/STJ - DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA - SÚMULA 83/STJ.  ..  2. Em regra, inadmite-se a revisão de honorários de advogado em recurso especial por demandar reexame fático-probatório, vedado pela Súmula 7/STJ.  ..  6. Recurso especial conhecido em parte e, nessa parte, não provido. (REsp 1.131.759/SP, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 22.2.2010).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. MAJORAÇÃO DA VERBA HONORÁRIA FIXADA CONFORME O CPC/1973. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
