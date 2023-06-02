@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência (fls. 1.507-1.536) interpostos por SERGIO PROLO e LUIZ VINCENSI contra acórdão proferido pela Quarta Turma desta Corte assim ementado (fl. 1.476):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA.
+1. "As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado. Precedentes" (AgInt nos EDcl no AREsp 1669665/MS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021).
+2. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.499-1.503).
+O s embargantes alegam que haveria divergência de entendimento entre o acórdão embargado e julgado oriundo da Segunda Turma no AgInt nos EDcl no AREsp n. 1.959.018/PR no seguinte ponto (fl. 1.509):
+  a Quarta Turma divergiu frontalmente do posicionamento adotado pelas Turmas que compõem a Primeira Seção. Segundo elas, nas ações de execução extintas pela prescrição intercorrente em razão da falta de bens do executado, o exequente não responderá pelos honorários advocatícios em razão do princípio da causalidade. Porém, resistindo ao pedido de prescrição e sucumbindo a respeito, o exequente responderá pelo pagamento dos honorários com base no princípio da sucumbência.
+Buscam, ao final, o acolhimento dos embargos para reformar o acórdão e condenar o exequente ao pagamento dos honorários advocatícios.
+É o relatório.
+O acórdão paradigma indicado pelos embargantes não reflete o atual entendimento da Corte Especial, alcançado alcançado na apreciação do AgInt nos EAREsp n. 1.667.204/SP, que recebeu a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACOLHIMENTO DE EXCEÇAO DE PRÉ-EXECUTIVODADE POR FORÇA DA PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO DO EXEQUENTE EM HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE, PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 168/STJ.
+ ..
+3. In casu, a jurisprudência do Superior Tribunal de Justiça, espelhando a orientação contida no acórdão embargado, assenta que "O reconhecimento da ocorrência de prescrição intercorrente não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré-executividade, pois, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens" (AgInt no REsp 1.929.415/SC, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 22/9/2021).
+Logo, ressoa evidente inexistir divergência de entendimentos entre os órgãos fracionários desta Corte, razão pela qual deve incidir a Súmula n. 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado." Outros precedentes: AgInt nos EDcl no AgInt no REsp 1.733.227/SC, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 14/6/2021; AgInt no AREsp 1.180.127/PR, Relator Ministro Raul Araújo, Quarta Turma, DJe 1/7/2020; e AgInt no REsp 1.823.309/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 4/3/2021.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.667.204/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 8/2/2022, DJe de 16/2/2022.)
+Na ocasião desse julgamento, foi registrado o posicionamento de que (destaques acrescidos):
+O fato de terem havido bens penhorados e resistência da exequente não ostenta a propriedade de alterar o entendimento constante dos julgados colacionados, porquanto o que importa, para a não incidência de honorários, é o princípio da causalidade, ou seja, quem deu causa ao ajuizamento do executivo fiscal.
+Sendo esse o contexto, aplica-se ao caso o entendimento espelhado pela Súmula n. 168/STJ, segundo a qual: "Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+Ademais, tratando-se de orientação da Corte Especial, a adoção da solução aqui delineada possui natureza cogente, consoante o art. 927, V, do CPC.
+Ante o exposto, nos termos do art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, s e aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
