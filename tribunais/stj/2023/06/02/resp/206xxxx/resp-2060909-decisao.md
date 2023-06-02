@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIR RAVAGNANI, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo interno Despacho do relator que assina prazo para recolhimento do preparo, em dobro, nos termos do art. 1.007, §4º, do CPC, sob pena de deserção Irresignação improcedente, já que o agravo interno não é instrumento adequado para pleitear gratuidade da justiça ou autorização para diferimento do recolhimento das custas, como é a pretensão aqui deduzida pelo agravante.
+Negaram provimento ao agravo. " (e-STJ,fl. 436)
+Em suas razões recursais, a recorrente aponta violação dos arts. 2º, parágrafo único, 4º, § 1º, 17 da lei nº 1.060/50, e arts. 98 e 99, § 2º do CPC, sustentando que faz jus ao benefício da justiça gratuita, e deve ser isentado do pagamento de custas e honorários advocatícios.
+É o relatório. Passo a decidir.
+No caso dos autos, a Corte de origem, ao julgar o agravo interno interposto pelo ora agravante contra a decisão monocrática do Desembargador Relator, que determinou o recolhimento do preparo, em dobro, nos termos do art. 1.007, §4º, do CPC, sob pena de deserção da apelação, assim decidiu:
+"A respeito, basta dizer que agravo interno não é instrumento apropriado para requer gratuidade da justiça nem para pleitear autorização para diferimento de recolhimento das custas como é a pretensão manifestada no recurso em exame." (e-STJ fl. 437)
+Como visto, a Corte de origem não analisou, no acórdão recorrido, se o recorrente faz jus ou não ao benefício pleiteado, tendo apenas concluído que o agravo interno não é o instrumento apropriado para requer gratuidade da justiça, nem para pleitear autorização para diferimento de recolhimento das custas.
+De ver-se, portanto, que o conteúdo do recurso especial encontra-se dissociado do que fora decidido pelo acórdão recorrido.
+É assente nesta Corte que é inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem, incidindo na espécie as Súmulas n. 282 e 356/STF.
+Ademais, no presente caso, incide também a Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA CIRURGIA EM HOSPITAL CREDENCIADO. ENFERMIDADE COBERTA PELO PLANO. ILEGALIDADE COMPROVADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência do STJ, é abusiva a exclusão do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico relativos a doença coberta pelo contrato de plano de saúde, hipótese na qual o ressarcimento dos gastos realizados pelo beneficiário deve ser integral. Precedentes.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o estabelecimento médico pelo qual optou a autora era conveniado à rede credenciada da requerida e dispunha de condições para a realização do procedimento médico em questão. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1809822/SP, de minha Relatoria, QUARTA TURMA, julgado em 05/09/2019, DJe 25/09/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. Não há que cogitar nulidade da decisão monocrática, por suposta ofensa ao princípio da colegialidade. Isso porque a jurisprudência dominante do STJ autoriza o improvimento do recurso especial por meio de decisão monocrática, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados.
+2. O julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a se ater aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, tampouco mencionar expressamente cada um dos artigos de lei invocados, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço.
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. O Tribunal fixou o valor da indenização, de acordo com as peculiaridades do caso em concreto, seguindo os princípios da razoabilidade e proporcionalidade. Para que se possa rever tal quantia, se faz necessário o reexame dos fatos e provas constantes dos autos, medida defesa em recurso especial por incidência da Súmula 7/STJ.
+5. Consoante iterativa jurisprudência desta Corte, a incidência do referido óbice impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1172964/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor da causa atualizado.
+Publique-se.
