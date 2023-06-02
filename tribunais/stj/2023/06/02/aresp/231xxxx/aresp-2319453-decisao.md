@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação anulatória de ato administrativo c/c revisão de ato administrativo, objetivando a anulação dos atos administrativos que determinaram a anulação dos títulos de imóveis descritos na petição inicial. Na sentença julgou-se o pedido procedente. No Tribunal a quo a sentença foi anulada com o provimento das apelações interpostas. O valor da causa foi fixado em R$225.466,73.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO - REMESSA NECESSÁRIA - AÇÀO ANULATÓRIA DE ATO ADMINISTRATIVO C/C REVISÃO DE ATO ADMINISTRATIVO - INTERMAT - CANCELAMENTO DE TÍTULOS - PRELIMINAR - CERCEAMENTO DE DEFESA - ACOLHIDA - REQUERIDA NÀO FOI INTIMADA DOS ATOS PROCESSUAIS APÓS A CONTESTAÇÃO - NÃO FOI OPORTUNIZADA A PRODUÇÃO DE PROVAS - SENTENÇA CASSADA - APELO PROVIDO.
+1. A apelante foi incluída no polo passivo, porém não houve a retificação da autuação do processo, de forma que não intimada dos atos processuais posteriores à oferta da contestação.
+2. Não foi oportunizada à apelante a oportunidade de produzir provas, nem tampouco esta foi intimada da sentença.
+3. Configurado o cerceamento de defesa, diante da violação aos princípios do contraditório e da ampla defesa.
+4. Preliminar acolhida, sentença desconstituída. Demais pedidos, prejudicados.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Portanto, no caso que ora se analisa, o trâmite do processo sem a devida intimação dos litisconsortes passivos necessários e o julgamento antecipado da lide sem oportunizar às partes a produção de provas, configura cerceamento de defesa e, por consequência, a nulidade da decisão.
+Nos termos do art.5º, LV, da Constituição da República de 1988, estão assegurados a todos os litigantes em processo judicial ou administrativo, os direitos ao contraditório e à ampla defesa, devendo tais princípios ser respeitados, sob pena de nulidade do julgamento.
+O Superior Tribunal de Justiça leciona que o requerimento de provas divide-se em duas fases. A primeira se dá com o protesto genérico para futura especificação (art. 319, VI - CPC), a segunda ocorre após a contestação quando a parte é intimada para a especificação das provas (art. 348-CPC):
+ ..
+Sendo assim, verifico que não foi observado o devido processo legal, pois a ausência de intimação dos requeridos e o julgamento antecipado da lide, sem oportunizar a produção das provas, ocasionou o cerceamento do direito da parte Recorrente em comprovar os fatos narrados.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 272 §8º, 355 I, 357 I e II, CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o pr equestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
