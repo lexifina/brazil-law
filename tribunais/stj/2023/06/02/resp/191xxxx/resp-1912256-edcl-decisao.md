@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SAFRA S/A (SAFRA) contra decisão unipessoal assim indexada
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. VIOLAÇÃO DOS ARTS. 927, IV E 1.022 DO NCPC. OMISSÕES. NÃO OCORRÊNCIA. CÉDULA DE CRÉDITO BANCÁRIO. UTILIZAÇÃO DA TAXA CDI PARA COMPOSIÇÃO DOS JUROS REMUNERATÓRIOS. ADMISSIBILIDADE. SÚMULA 176 DO STJ. INAPLICABILIDADE. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fls. 732).
+Nas razões do presente integrativo, SAFRA afirmou que o julgado embargado foi omisso porque a despeito de alterar o resultado da demanda no único ponto em que favorecia AMERICAN BANKS GESTÃO FINANCEIRA LTDA e AMERICAN PARTNERS PARTICIPAÇÕES S/A (AMERICAN BANKS e outro), ao reconhecer a legalidade da taxa CDI prevista contratualmente, olvidou-se de modificar a distribuição do ônus de sucumbência dentro desses novos parâmetros de julgamento.
+Intimados a se manifestarem sobre o recurso, AMERICAN BANKS e outro deixaram decorrer o prazo legal (e-STJ, fls. 765).
+É o relatório.
+DECIDO.
+O recurso integrativo comporta acolhida.
+A alegação de SAFRA no sentido de que o pedido de revisão do contrato de mútuo deduzido por AMERICAN BANKS e outro logrou parcial êxito apenas no que tange ao afastamento da cláusula de juros flutuantes baseados na taxa CDI/CETIP, foi verificada no julgamento pela sentença e acórdão do Tribunal estadual que a manteve.
+Nesse sentido, a ementa do Tribunal estadual
+APELAÇÃO Ação revisional de contrato bancário "Mútuo" Sentença de parcial procedência;
+RECURSO DO BANCO RÉU - Taxa CDI/CETIP Índice utilizado em operações interbancárias, que serve como base de remuneração para alguns investimentos bancários Impossibilidade de utilização como indexador de juros remuneratórios ou moratórios em contratos bancários - Vedação expressa da Súmula 176 do STJ Precedentes;
+APELO DOS AUTORES Pleito de afastamento dos efeitos da mora contratual - Descabimento Quantias objeto de aplicações financeiras, dadas como garantia, que sequer alcançam o patamar do montante principal tomado Revisão dos encargos moratórios que, nesse contexto, não altera o panorama de inadimplência Pretensão, ademais, alicerçada em manifesta tentativa de alteração da verdade dos fatos Vencimento antecipado da avença que decorreu do atraso do pagamento de parcelas maliciosamente ocultadas pelas empresas autoras.
+SENTENÇA MANTIDA RECURSOS NÃO PROVIDOS (e-STJ, fls. 517).
+Contudo, de acordo com as decisões unipessoais de minha lavra, o recurso especial de SAFRA fora provido para permitir a utilização da taxa CDI para composição dos juros remuneratórios e o recurso especial de AMERICAN BANKS e outro não foi conhecido.
+Em tais condições, com o provimento do recurso especial de SAFRA, para reforma do julgamento do acórdão estadual no único ponto em que AMERICAN BANKS e outros eram favorecidos (o afastamento da Taxa CDI), resultou evidente que os autores experimentaram a perda total de seus pedidos revisionais na ação, o que implicava outra conformação dos ônus de sucumbência.
+Desse modo, ACOLHO os embargos de declaração, atribuindo-lhes efeitos infringentes, para acrescentar à parte dispositiva da decisão embargada (e-STJ, fls. 732/740) que, diante da improcedência da demanda, com o provimento do recurso especial, ficam os autores AMERICAN BANKS e outro condenados no pagamento total das custas, despesas processuais e honorários de advogado fixados em 15% (quinze por cento) do valor atualizado da causa, nos termos do art. 85, § 2º, I a IV, do NCPC.
+Do mesmo modo, por via reflexa, diante da nova conformação dos ônus sucumbenciais, fica prejudicada a majoração de honorários de advogado decretada na decisão que não conheceu do recurso especial de AMERICAN BANKS e outro (e-STJ, fls. 741/745).
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL DE SAFRA. AÇÃO DE REVISÃO CONTRATUAL. CÉDULA DE CRÉDITO BANCÁRIO. DECISÃO QUE RECONHECE A LEGALIDADE DA UTILIZAÇÃO DA TAXA CDI PARA COMPOSIÇÃO DOS JUROS REMUNERATÓRIOS. AÇÃO TOTALMENTE IMPROCEDENTE. SUCUMBÊNCIA INTEGRAL DOS AUTORES. RECONHECIMENTO. NECESSIDADE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
