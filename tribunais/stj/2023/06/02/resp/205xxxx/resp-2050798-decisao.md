@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MARCUS VINICIUS FANTONI CASTRO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"APELAÇÃO CÍVEL - AGENTE DE SEGURANÇA PENITENCIÁRIO - CONTRATOS PRORROGADOS NO TEMPO - INOBSERVÂNCIA DA LEGISLAÇÃO - INVALIDADE - PRECEDENTE - TEMA Nº 551 DO STF - SENTENÇA REFORMADA.
+O contratado a título precário para exercer função pública em desacordo com as regras do art. 37, IX, da Constituição Federal, conforme precedente firmado no STF, sob o Tema 551, não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção ao direito décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, conforme do RE nº 1.066.677/MG (Tema 551)" (fl. 753e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, o seguinte:
+"(..) verifica-se que no caso em debate impera o princípio da primazia da realidade, segundo o qual se levam em conta os fatos diários do contrato, pouco importando os aspectos formais que lhe atribuem. Isto é, caso haja conflito entre o que está escrito e o que ocorre de fato, prevalece o que ocorre de fato.
+(..)
+Conforme já exaustivamente demonstrado anteriormente, é cediço que o Recorrente faz jus ao adicional de insalubridade e/ou periculosidade pelo período em que exerceu a função de integrante da Comissão de Reestruturação da Ultramig no ano de 2003, uma vez que mantinha contato habitual com agentes passíveis de reconhecimento do adicional de periculosidade, bem como de insalubridade.
+(..)
+No que tange ao direito aos depósitos de FGTS, o Recorrente faz jus aos depósitos pelo período laboral que exerceu para o Recorrido de forma onerosa, não eventual, subordinada e pessoal, pelo período compreendido entre fevereiro de 1995 a dezembro de 2005,o que não foi reconhecido pelo Douto Juiz e Desembargadores a quo, contrariando o entendimento disposto no RE nº 765.320/ MG.
+(..)
+O Juiz de primeira instância entendeu na sentença ser aplicável o regime jurídico dos temporários, sendo tal entendimento reforçado no acórdão discutido. Ocorre que a Medida Provisória nº 2.164-41, de 24 de agosto de 2001, assim como o julgamento do RE nº 765.320/ MG pelo Supremo Tribunal Federal, manteve o direito ao recebimento de depósitos do FGTS à trabalhadores nas mesmas condições do Recorrente, mantendo a redação ao art. 19-A da Lei 8.036/90, apenas acrescentando seu parágrafo único (..)
+(..)
+O caso em tela, aplica-se o disposto no Decreto n.º 35.330/1994 e no artigo 11 da Lei Estadual n.º 10.254/1990 - atualmente revogada pelo artigo 17 da Lei n. 18.185, de 2009 (..)
+(..)
+Ademais, mesmo que se admita a contratação por tempo determinado, como exceção, tal fato não significa que a Administração Pública possa violar, deliberadamente, os direitos constitucionalmente garantidos aos trabalhadores, deixando um trabalhador que se dedicou por mais de 10 anos a uma empresa, sair sem receber absolutamente nada.
+Portanto, as contratações sucessivas realizadas entre as partes evidenciam a violação ao artigos 37, inciso II e § 2º da Constituição, diante da prestação ininterrupta de serviços pelo Recorrente à administração pública, caracterizando verdadeira ocupação a cargo público já que houve o período único da prestação de serviços, de modo a modificar o acórdão determinando que a administração quite os direitos devidos ao Recorrente, conforme requerido na inicial, sucessivamente, de acordo com legislação vigente, ou de acordo com a Súmula nº 363 do C. TST" (fls. 775/779e).
+Por fim, requer;
+"1) REFORMAR, a decisão recorrida, frente à arbitrariedade e contrariedade ao texto de Lei Federal e cuja fundamentação recorrida diverge dos julgados da Corte Revisora Mineira, bem como desta Corte Superior;
+2) Em reforma dos termos do acórdão combatido, aplicar ao caso concreto, o princípio da primazia da realidade sobre a forma, bem como o art. 39, §3ºda CF/88, o art. 19-A da Lei 8.036/90, o art.11 da Lei Estadual n.º 10.254/1990 -atualmente revogada pelo art.17 da Lei n. 18.185/2009, a Súmula nº 363 do C. TST, para que seja deferido o direito aos depósitos do FGTS e o direito ao recebimento do salário devido ao Recorrente;
+(..)" (fl. 780e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 799/804e).
+A irresignação não merece prosperar.
+Com efeito, o acórdão recorrido tem fundamento constitucional não impugnado mediante Recurso Extraordinário, o que atrai a incidência da Súmula 126 do STJ, segundo a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+Neste sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. SERVIDOR PÚBLICO. DOENÇA OCUPACIONAL. PENSÃO MENSAL AFASTADA. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. DANO MATERIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC de 2015, pois há fundamentação suficiente para amparar o acórdão recorrido.
+2. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário, ocasionando a preclusão de uma das questões e o consequente não conhecimento do recurso. Aplicação da Súmula 126 do STJ.
+3. O Tribunal de origem, com base nas provas existentes, entendeu não haver comprovação do dano material. A inversão do julgado nos moldes pretendidos pela recorrente demanda revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido" (STJ, REsp 1.707.574/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+Ademais, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
