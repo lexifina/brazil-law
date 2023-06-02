@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. PRELIMINAR DE INOVAÇÃO RECURSAL. ACOLHIDA. PRELIMINAR DE DIALETICIDADE RECURSAL. REJEITADA. SERVIDORA PÚBLICA DO MUNICÍPIO DE JACOBINA. AGENTE COMUNITÁRIA DE SAÚDE. REGIME JURÍDICO ESTATUTÁRIO. TRANSMUDAÇÃO DA NATUREZA DO VÍNCULO. PREVISÃO EXPRESSA EM LEI MUNICIPAL. ADICIONAL POR TEMPO DE SERVIÇO. DIFERENÇAS COM REFLEXOS NAS VERBAS SALARIAIS. DIREITO AOS ANUÊNIOS REFERENTES AO PERÍODO LABORADO JUNTO À MUNICIPALIDADE. CONTAGEM DE TODO O PERÍODO PARA FINS DE LICENÇA PRÊMIO. PREVISÃO NA LEI MUNICIPAL Nº 1.227/2013. APLICAÇÃO DA SÚMULA 678 DO STF. ANUÊNIO DEVIDO. APELO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA. 1. Consoante relatado, trata-se de Apelação interposta pelo MUNICÍPIO DE JACOBINA em face de sentença proferida pelo MM. Juízo de Direito da 1ª Vara da Fazenda Pública da Comarca de Jacobina-BA que, nos autos da Ação Ordinária nº 0500715- 20.2018.8.05.0137, movida por MARIA DAS DORES RIBEIRO SANTIAGO DE BRITO, julgou procedente em parte os pedidos formulados na inicial, para reconhecer o direito da parte Autora a percepção dos anuênios referente a todo período de laborado, com repercussão nas demais verbas salariais, bem como para declarar o tempo de efetivo exercício para fins de concessão de licença prêmio. 2. Deve ser acolhida a preliminar de inovação recursal, pois o argumento de que o servidor estabilizado por força do art. 19 do ADCT da CF/88 não possui direito a incorporação da carreira ou dos benefícios próprios do servidores efetivos, somente foi alegado alegado no Recurso de Apelação, não tendo sido lançado na Contestação, tampouco em nenhuma outra peça dos autos, de modo que sequer fora enfrentado pelo juízo sentenciante. Assim, configura- se o instituto da inovação recursal que, para evitar supressão de instância e violação da ampla defesa, impõe o conhecimento parcial do Apelo. 3. Não merece prosperar a preliminar de ausência de dialeticidade recursal, porquanto o apelante logrou impugnar os fundamentos da decisão no que se refere ao reconhecimento do direito aos anuênios, sustentando que a sentença, ao reconhecer o direito independentemente do regime jurídico (celetista ou estatutário), restou por violar o disposto no art. 177 da Lei Municipal n° 1.227/2013. 4. Da análise dos autos, se verifica que a Apelada foi admitida nos quadros da municipalidade, em 02 de janeiro de 2002, mediante aprovação em processo seletivo, para exercer o cargo de agente comunitário de saúde, sendo submetida ao regime estatutário, consoante se extrai dos contracheques adunados aos autos em id. 24437321. 5. O Supremo Tribunal Federal, por meio da Súmula 678, pacificou o entendimento de que são inconstitucionais os dispositivos da Lei n. 8.162/91 que afastam, para efeito de anuênio e de licença-prêmio, a contagem do tempo de serviço regido pela consolidação das leis do trabalho dos servidores que passaram a submeter- se ao regime jurídico único. 6. Com efeito, o Adicional por tempo de Serviço e a Licença-prêmio possuem expressa na Lei Municipal nº 1.227/2013, em seus artigos 111, 176 e 177. 7. Ressalte- se, ainda, que embora o Estatuto dos Servidores Públicos do Município de Jacobina tenha sido promulgado apenas em 2013, este não deixou de abarcar situações pretéritas, nos termos do Art. 287. 8. Outrossim, registre-se que a Lei Municipal nº 247/1995, previu a continuidade do cômputo do tempo de serviço dos servidores celetistas transformados em estatutários, sendo assegurado o cômputo do tempo de serviço para todos os efeitos legais, com seus respectivos adicionais. 9. Destarte, tem-se que a parte a parte autora possui direito a computar o tempo que laborou com vínculo jurídico válido, antes de transmudar para o regime estatutário, para efeito de anuênio e licença-prêmio, desde que instituídos os benefícios no Município, com o pagamento das diferenças ainda não adimplidas, ressalvada a prescrição quinquenal das parcelas anteriores a cinco anos do ajuizamento da demanda. 10. Por fim, com fulcro no art. 85, §11º, do CPC, majoro em 5% (cinco por cento), os honorários advocatícios a serem pagos pela Municipalidade que, ao seu turno, serão aferidos no momento da liquidação, a teor do art. 85, §4º, II, do CPC, observados os limites percentuais previstos nos §§ 2º e 3º, do referido diploma legal. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, inciso II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 2 de junho de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
