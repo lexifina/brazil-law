@@ -1,0 +1,18 @@
+DECISÃO
+O Requerente RUI JOSE CANDEMIL JUNIOR interpôs agravo agravo regimental contra decisão monocrática de minha lavra, que conheceu parcialmente do recurso ordinário em habeas corpus, e, nessa extensão, negou-lhe provimento (fls. 2298-2213).
+A Defesa manifestou interesse em realizar sustentação oral (fl. 2341), sendo, assim, devidamente notificada nos termos do despacho por mim exarado à fl. 2351.
+Na sequência, certificou-se a inclusão do feito "na pauta de julgamento da Sessão Virtual da SEXTA TURMA, com início dia às 00:00: 13/06/2023 00 e término dia às 23:59:59, disponibilizada no Diário da Justiça Eletrônico/STJ em 19/06/2023 e considerada publicada em nos termos da Lei 114.419/2006, art. 4º, §3º. 22/05/2023 23/05/2023", à fl. 2359.
+Por intermédio da Petição n. 00514938/2023, o Requerente manifesta oposição ao julgamento virtual, requerendo que o feito seja retirado da sessão de julgamento virtual e, posteriormente, incluído em sessão de julgamento presencial.
+Assinala que, no caso em análise, "a sustentação oral de forma presencial é medida que se mostra eficaz para ajudar a dirimir eventual dúvida e proporcionar a plena defesa da parte" (fl. 2361), afirmando, ao final, a "relevância da matéria ventilada e a necessidade de sustentação oral e discussão presencial perante o colegiado desse. c. STJ" (fl. 2361).
+Ocorre que não se presume o prejuízo no julgamento virtual do agravo regimental sob a alegação de relevância da matéria, sobretudo pela possibilidade do encaminhamento de memoriais e de sustentação oral, ambos acessíveis a todos os integrantes do Órgão Colegiado.
+Confira-se, a título ilustrativo, o seguinte julgado:
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. JULGAMENTO VIRTUAL. OMISSÃO SOBRE A PETIÇÃO DE OPOSIÇÃO. INTEGRAÇÃO DO JULGADO. VALIDADE. OPORTUNIDADE DE SUSTENTAÇÃO ORAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+ ..
+2. A oposição ao julgamento virtual há de ser acompanhada de argumentação idônea a evidenciar efetivo prejuízo ao direito de defesa da parte, o que não se verificou.
+3. Deveras, "mesmo quando há o direito de sustentação oral, se o seu exercício for garantido e viabilizado na modalidade de julgamento virtual, não haverá qualquer prejuízo ou nulidade, ainda que a parte se oponha a essa forma de julgamento, porquanto o direito de sustentar oralmente as suas razões não significa o de, necessariamente, o fazer de forma presencial" (REsp n. 1.995.565/SP, Rel. Ministra Nancy Andrighi, 3ª T., DJe de 24/11/2022).
+4. O habeas corpus não teve seu mérito analisado, porque a dosimetria da pena, mantida no AREsp n. 1.936.668/SP, deveria ser impugnada perante o órgão superior competente para a revisão dos acórdãos deste Superior Tribunal. Esse era o objeto do agravo regimental, não atrelado a questão de fato.
+5. Segundo dispõe o art. 184-B, § 1º, do RISTJ, "As sustentações orais e os memoriais podem ser encaminhados por meio eletrônico, após a publicação da pauta em até 48 horas antes de iniciado o julgamento em ambiente virtual, observado o disposto nos arts. 159, 160 e 184-A, parágrafo único".
+6. Não há falar em cerceamento de defesa, pois, nos feitos criminais, o tempo das alegações orais em agravo regimental será de até cinco minutos e esta Corte implementou funcionalidade, na plataforma de julgamento virtual, para que o advogado possa enviar arquivo de áudio ou vídeo, oportunizada a sustentação oral em endereço eletrônico.
+7. Embargos de declaração acolhidos, sem efeitos infringentes" (EDcl no AgRg no HC n. 750.081/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 07/02/2023, DJe 13/02/2023; sem grifos no original.)
+Ante o exposto, INDEFIRO o pedido de retirada de pauta.
+Publique-se. Intimem-se.
