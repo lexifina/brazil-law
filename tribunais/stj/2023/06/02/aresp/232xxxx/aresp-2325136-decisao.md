@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por SIMÕES INVEST LTDA E OUTROS, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 175):
+AGRAVOS DE INSTRUMENTO (1) E (2). INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO. ACOLHIMENTO.
+INSURGÊNCIAS DAS RÉS DO INCIDENTE. ANÁLISE CONJUNTA.
+ALEGAÇÃO DE NÃO EXISTÊNCIA DE GRUPO ECONÔMICO, ABUSO DE PERSONALIDADE JURÍDICA E CONFUSÃO PATRIMONIAL.
+TESES NÃO ACOLHIDAS. REQUISITOS DO ART. 50, §§ 2º E 3º, DO CÓDIGO CIVIL, PREENCHIDOS. GRUPO ECONÔMICO CARACTERIZADO. ABUSO DA PERSONALIDADE JURÍDICA MEDIANTE CONFUSÃO PATRIMONIAL EVIDENCIADO.
+RECONHECIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, INCLUSIVE INVERSA. PRECEDENTES. DECISÃO MANTIDA. RECURSOS (1) E (2) NÃO PROVIDOS.
+AGRAVO DE INSTRUMENTO (1) (0019395-25.2021.8.16.0000)E AGRAVO DE INSTRUMENTO (2) (0019496-62.2021.8.16.0000) CONHECIDOS E NÃO PROVIDOS.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem efeitos infringentes (fls. 308/349).
+Nas razões do recurso especial, os agravantes alegam violação ao art. 50 do Código Civil, sustentando, em síntese, que não foi comprovado o abuso na utilização da personalidade jurídica para fim de sua desconsideração.
+Foram apresentadas contrarrazões às fls. 384/398.
+É o relatório.
+No caso dos autos, a Corte de origem, com base no lastro probatório produzido, verificou que houve a configuração de abuso da personalidade jurídica, caracterizado pela confusão patrimonial, como se verifica do trecho do acórdão a seguir (fls. 203/204):
+"Na situação sob exame, são diversos os elementos que dão azo à conclusão de que houve abuso de personalidade jurídica, caracterizado pela confusão patrimonial, em harmonia com àqueles previamente indicados pela digna Juíza da causa que assim ressaltou:
+" ..  Em resumo, constata-se que os sócios da empresa executada (Ézio e Sérgio) criaram várias outras empresas com o intuito de que as mesmas fossem responsáveis pela administração dos patrimônios. Em algumas, até figuraram no início como sócios, porém, foram se retirando da sociedade e criando novas pessoas jurídicas com a integralização dos bens, colocando ora outras empresas, ora seus filhos, como sócios, em que pese exercerem a administração delegada.
+Como o senhor Sérgio se retirou da sociedade da empresa PLANT BEM em meados de 2013, o patrimônio dos sócios (Ézio e Sérgio), ao que parece, teve que ser dividido, contudo, como estavam em nome das terceiras empresas, foram realizadas alterações contratuais, cisões e criação de novas empresas, para que o patrimônio fosse dividido, sendo que o senhor Sérgio, ao final, ficou responsável pelas empresas ABBA e BACCA e o executado Ézio, através de seus filhos (Luiz Guilherme e Isadora), pelas demais (SIMÕES INVEST, ADBEM e EDS).
+Tais fatos apontam para a existência de confusão patrimonial, já que todos os bens pertencentes a empresa executada foram registrados em nome de terceiros, salientando-se que as empresas ABBA e BACCA"S, em pese serem de responsabilidade de ex-sócio, foram criadas com patrimônio de empresas anteriores ao débito e a sua retirada do quadro societário.  .. " (mov. 150.1, pág. 2578).
+Ora, apenas para agregar pontos e destacar fundamentos adotados pela r. decisão recorrida, observa-se que o Executado e sócio da empresa Plant Bem, Sr. Ézio Dair Simões, figurou como administrador delegado das empresas Agravantes (2), ADBEM Administração e Participações Ltda. e Simões Invest Ltda. até agosto de 2015, , como se vê, por exemplo, sequer fazendo parte do quadro societário delas das seguintes procurações:
+(..)
+Ainda, em análise aos contratos sociais acostados ao processo, denota-se que diversos bens imóveis passaram de uma empresa para outra, possuindo ao menos - -, um dos sócios, Ézio Dair mas não somente Simões ou Luiz Guilherme Pansani Simões ou Isadora Pansani Simões ou Sérgio Luiz Baccarin ou ainda, alguma das outras empresas, em que eles figuravam como associados no quadro societário."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se no caso concreto houve abuso da personalidade jurídica por parte das empresas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS DO ART. 50 DO CC. MODIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial, nos termos do art. 50 do Código Civil de 2002.
+2. Na hipótese, o Tribunal de origem concluiu que não foi caracterizado o desvio de finalidade ou confusão patrimonial, inviabilizando a desconsideração da personalidade jurídica pleiteada. A modificação de tal entendimento demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.873.770/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/11/2020, DJe de 17/12/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
