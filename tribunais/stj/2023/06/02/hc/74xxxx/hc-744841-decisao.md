@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROOSEVELT MORAES PIRES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2074607-81.2022.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado pelo crime de tráfico transnacional de drogas. A defesa pleiteou ao Juízo das execuções que solicitasse informações à Justiça Federal sobre o período em que ele ficou preso em Portugal, a fim de instruir pedido de detração. O pedido foi indeferido nos seguintes termos (e-STJ fl. 15):
+Indefiro o pedido ante a ausência de elementos mínimos que possibilitem a diligência.
+Nada impede, entretanto, que a Defesa postule futuramente, trazendo subsídios para a busca do informado.
+Impetrado habeas corpus na origem, o Tribunal a quo denegou a ordem, conforme a ementa a seguir transcrita (e-STJ fl. 7):
+"Habeas Corpus". Pretendida cassação de decisão que indeferiu pedido de solicitação de informações sobre período de cumprimento de pena em outro País. Impossibilidade. Via escolhida que não se presta à situação. Ordem denegada.
+Daí o presente writ, no qual reitera a defesa seu pedido, destacando o parecer favorável do Ministério Público.
+Busca, inclusive liminarmente, que "seja determinado ao Excelentíssimo Senhor Doutor Juiz de Direito da 2ª Varadas Execuções Criminais da Comarca de Araçatuba, Estado de São Paulo tome as providencias cabíveis para solicitar informações sobre o período de cumprimento de pena em Portugal" (e-STJ fl. 5).
+Indeferida a liminar (e-STJ fls. 19/20), e prestadas as informações solicitadas (e-STJ fls. 24/27 e 28/41); manifestou-se o Ministério Público Federal pelo conhecimento do habeas corpus (e-STJ fls. 43/47).
+É o relatório.
+Decido.
+No caso, a defesa peticionou pedido de detração de penas, alegando, em suma, que o paciente já teria cumprido a pena referente à execução 01 em Portugal.
+O pedido foi indeferido ante a ausência de elementos mínimos que possibilitassem a diligência (e-STJ fl. 15).
+Por sua vez, o Tribunal de origem denegou a ordem com os seguintes fundamentos (e-STJ fls. 7/8):
+Sem razão a impetração.
+Que busca, por via imprópria, nulificar decisão que indeferiu pedido de solicitação de informações sobre período de cumprimento de pena pelo paciente em outro País.
+Imprópria porque nos estreitos limites da ordem de "habeas corpus" não é possível aferir-se de aspectos meritórios, na espécie de extrema relevância para se avaliar do eventual direito do paciente.
+Nulificação de decisão que indefere pedido de solicitação de informações sobre período de cumprimento de pena em outro País demanda aprofundado exame da situação prisional do paciente, o que resta impedido nos limites da impetração.
+Como já registrou a Corte Máxima do País:
+"em processo de "Habeas Corpus" não se questiona sobre matéria que requer estudo acurado sobre prova apurada ou por apurar." (RT 520/509).
+De sorte que a via é inadequada à pretensão.
+Em suma, não é o presente mandamus a via adequada para cassar decisão que indefere pedido de requisição de informações.
+Nega-se a ordem.
+É cediço que o remédio constitucional demanda a apresentação de prova pré-constituída acerca do alegado, constituindo ônus do impetrante a correta instrução do habeas corpus, de modo a ser prontamente identificável o constrangimento ilegal apontado.
+Nessa senda, o aparelhamento insuficiente do pleito originário já foi destacado pelo Juízo da 2ª Vara das Execuções Criminais e Anexo da Infância e da Juventude da Comarca de Araçatuba/SP, ao examinar o pedido de providências objeto do inconformismo, visto que "a Defesa refere-se a execução 01, fato ocorrido em 29/09/1991, juntando cópia da denúncia e do recebimento desta, cujas peças foram extraídas dos autos físicos oriundos da Justiça Federal. Postula que o Juízo diligencie para comprovação do argumentado, sem que trouxesse aos autos indícios da prisão em Portugal, indicando, para tanto, cidade, autoridade ou outra localidade suficiente para se desvelar àquele País. Nesse sentido, o pedido foi indeferido, entretanto, nada impedindo a Defesa de juntar subsídios mínimos para o requerimento do embasado, evitando, assim, a movimentação inócua da máquina judiciária" (e-STJ fl.24).
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE A INVESTIGAÇÃO SERIA DIRIGIDA CONTRA O PACIENTE. FATO NOTÓRIO INEXISTENTE. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+I - O art. 932, III, do CPC, estabelece como incumbência do Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Na mesma linha, o RISTJ, no art. 34, inc. XVIII, "a" e XX, dispõe, respectivamente, que o relator pode decidir monocraticamente para "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", bem como "decidir o habeas corpus quando for manifestamente inadmissível, intempestivo, infundado ou improcedente, ou se conformar com súmula ou jurisprudência consolidada do Superior Tribunal de Justiça ou do Supremo Tribunal Federal ou as confrontar" (grifei), o que torna legítima a decisão unipessoal do relator que indefere liminarmente writ com amparo em entendimento já assentado na Corte.
+II - A jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus a fim de que seja possível identificar o alegado constrangimento ilegal.
+III - No presente caso, o impetrante não juntou aos autos documentação comprobatória de que o inquérito instaurado por meio de requisição do Ministro de Estado da Justiça e Segurança Pública fosse dirigido em desfavor do paciente.
+IV - Não constitui fato notório versão apresentada pelo impetrante aos fatos, a partir de ponto de vista extraído de site de notícias, e sobre a qual repousa controvérsia.
+Agravo regimental desprovido. (AgRg no HC n. 546.793/DF, relator Ministro Leopoldo de Arruda Raposo, Desembargador Convocado do TJ/PE, Terceira Seção, julgado em 11/12/2019, DJe de 17/12/2019.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido. (AgRg no HC n. 526.388/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2019, DJe de 17/9/2019.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Pelo contrário, ao invés de juntar o decreto preventivo, o que poderia ensejar a reconsideração da decisão ora impugnada, preferiu limitar-se a sustentar, neste agravo, que o decreto preventivo não é necessário.
+3. A lealdade processual é dever das partes, a quem se impõe conduta compatível com o dever de cooperação e com a boa-fé durante a prática de atos postulatórios. Assim, espera-se que a defesa, que suporta o ônus de bem instruir essa ação mandamental que é o habeas corpus, ofereça todos os elementos necessários para que a autoridade judicial possa contextualizar devidamente o alegado constrangimento ilegal, sem omissões que possam comprometer a justa e correta prestação jurisdicional.
+4. O recurso cujo pedido cinge-se ao afastamento do indeferimento do direito de recorrer em liberdade não foi instruído com cópia da decisão que convolou a prisão em flagrante do acusado em custódia preventiva, o que inviabiliza o exame da ilegalidade suscitada nestes autos.
+5. Agravo regimental não provido. (AgRg no RHC n. 160.277/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+Na hipótese, o impetrante não se desincumbiu do seu múnus, inviabilizando o exame do remédio constitucional.
+Por fim, o requerente não comprovou a impossibilidade de realizar a diligência por meios próprios, com a obtenção, por exemplo, de certidão de objeto e andamento do processo judicial que tramita ou tramitou perante a Justiça Federal.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
