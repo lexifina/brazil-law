@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+DIREITO CONSTITUCIONAL, CIVIL E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA COM PEDIDO LIMINAR. DECISÃO CONCEDENDO HOME CARE CONTÍNUO E TRATAMENTO MULTIDISCIPLINAR. TESE DE INEXISTÊNCIA AGRAVO DE INSTRUMENTO. DE OBRIGATORIEDADE POR NÃO ESTAR O TRATAMENTO PREVISTO NO ROL DA ANS OU EM CONTRATO. DESCABIMENTO. PACIENTE QUE NECESSITA DE INTERNAÇÃO DOMICILIAR E TRATAMENTO MULTIDISCIPLINAR. INCIDÊNCIA DO CDC. DIREITO A SAÚDE QUE SE SOBREPÕE A RELAÇÃO CONTRATUAL. RECUSA INDEVIDA. PRECEDENTES DO STJ E SÚMULA 29 DO TJ -RN. AGRAVO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 884 do Código Civil e artigo 537, § 1º, e 1.022, II, do Código de Processo Civil sob o argumento de que o acórdão local é omisso e que a multa diária por obrigação de fazer é exorbitante.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte tem entendimento de que a multa diária cominatória é excepcionalmente sindicável na via do recurso especial quando se mostrar exorbitante.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA DE PROCEDIMENTO. DESCUMPRIMENTO DE DECISÃO JUDICIAL. REALIZAÇÃO DA CIRURGIA PELO SUS. ASTREINTES. REVISÃO DO VALOR. POSSIBILIDADE. DESPROPORCIONALIDADE.
+DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O valor da multa cominatória (astreintes) pode ser revisto a qualquer tempo, até mesmo de ofício (CPC/2015, art. 537, § 1º), "não se revestindo da imutabilidade da coisa julgada, sendo insuscetível de preclusão, inclusive pro judicato" (AgRg nos EDcl no Ag 1.348.521/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 6/11/2015). Entendimento firmado em recurso especial repetitivo (REsp 1.333.988/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe de 11/4/2014).
+2. No caso, a multa pelo descumprimento da decisão que determinou ao plano de saúde que autorizasse a cobertura de procedimento cirúrgico para tratamento de hérnia de disco foi fixada em R$ 1.000,00 (mil reais) por dia, tendo alcançado valor que ultrapassa R$ 220.000,00 (duzentos e vinte mil reais). Verificada a desproporcionalidade em relação à obrigação principal, o valor foi reduzido para R$ 30.000, 00 (trinta mil reais), a fim de melhor adequá-lo às circunstâncias da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 798.603/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/8/2019, DJe de 11/9/2019.)
+As instâncias ordinárias, na hipótese dos autos, fixaram multa diária de R$ 15.000,00 (quinze mil reais), sem limite.
+Leia-se:
+"AMIL - ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, por intermédio de seu advogado, interpôs Agravo de Instrumento (ID 5072355) com pedido de efeito suspensivo contra a decisão interlocutória proferida pelo Juízo de Direito da 1ª Vara de Família e Sucessões da Comarca de Natal/RN (Id 5072358) que concedeu o pedido de tutela provisória para determinar que o agravante autorizasse "HOME CARE CONTÍNUO NAS 24H, ALÉM DE SUPORTE DE EQUIPE MULTIPROFISSIONAL, FORMADA POR PROFISSIONAIS DE ENFERMAGEM, NUTRICIONISTA, FISIOTERAPEUTA E MÉDICO, POR PRAZO INDETERMINADO", sob pena de pagamento de multa diária no valor de R$ 15.000,00 (quinze mil reais), sem prejuízo da responsabilização por outros danos materiais e morais, a serem causados pela recusa injustificada do cumprimento à ordem judicial" (e-STJ, fl. 436).
+O valor da pena cominatória está, como se vê, acima do que esta Corte tem admitido como razoável.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para reduzir a multa a R$ 500,00 (quinhentos reais) por dia, limitado ao valor da obrigação principal e condicionada sua exigibilidade à procedência do pedido (AgInt no AREsp n. 1.140.983/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/2/2018, DJe de 21/2/2018.).
+Intimem-se.
