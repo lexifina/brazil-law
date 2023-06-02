@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS DO DEVEDOR - NULIDADE DA SENTENÇA POR JULGAMENTO EXTRA PETITA - VIOLAÇÃO AO ARTIGO 492, DO CPC - ACOLHIDA - SENTENÇA TORNADA INSUBSISTENTE - RECURSO PROVIDO. Nos termos do artigo 492 do CPC:"É vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado."
+A sentença que decide pedido não formulado na petição inicial é considerada extra petita, porquanto desbordou dos limites da lide, devendo ser anulada para que outra seja proferida.
+Alegou-se, no especial, violação dos artigos 228 do Código Civil e 337, § 5º, 447, § 2º, e 485, § 3º, do Código de Processo Civil sob o argumento de que os requisitos do título executivo é matéria de ordem pública, cognoscível, portanto, de ofício; e que as testemunhas constantes no título judicial têm interesse n o litígio.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que, em embargos à execução, "o magistrado a quo, destoando totalmente dos limites da lide, reconheceu a inexigibilidade do título sob o fundamento de que as assinaturas das testemunhas constantes no título seriam nulas. Ocorre, como dito, não houve pedido do devedor nesse sentido" (e-STJ, fl. 288).
+Prosseguiu a Corte de origem, no julgamento dos embargos de declaração, no sentido de que "a falta de prévia intimação da parte recorrente para manifestar-se sobre matéria que sequer foi arguida pelo recorrido mas utilizada como fundamento da sentença criou uma decisão surpresa para a parte recorrente, em manifesta afronta às garantias do devido processo legal e, de seu desdobramento, o contraditório, consoante previsões do artigo 5º, LV, da Constituição Federal, bem como do artigo 10 da lei substantiva.
+Assim, dúvidas não há de que a sentença recorrida violou os artigos 141 e 492 do CPC, devendo ser acolhida a preliminar suscitada no apelo, a fim de que seja declarada a sua nulidade" (e-STJ, fl. 308).
+Acontece que o interesse das testemunhas constantes do título de que fala o recorrente não foi reconhecido pelo Tribunal local.
+Tampouco houve exame do alegado caráter público da questão suscitada (assinatura das testemunhas no título), a par de que nenhum dos dispositivos legais invocados e as questões neles veiculadas foi objeto de debate pela Corte local.
+Os dispositivos legais invocados, ademais, versam sobre a prova e não sobre requisitos formais para a formação do título executivo extrajudicial, o que torna impertinente a alegação.
+Não fosse tudo isso, o fundamento segundo o qual a sentença adotou razões sem que as partes tivessem previamente a oportunidade de se manifestar sobre elas deixou de ser impugnado pelo agravante.
+É, pois, inequívoca a incidência dos verbetes n. 7 e 211 da Súmula desta Corte e 282, 283 e 284 do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
