@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por OSNEY MARQUES DA SILVA, envolvendo o r. Juízo de Direito da 2ª Vara Cível de Aparecida de Goiânia - GO, em que se processa recuperação judicial da sociedade empresária da qual o suscitante é sócio (processo nº 5248381-42.2022.8.09.001), e o r. Juízo da 2ª Vara do Trabalho de Ji-Paraná - RO, onde tramita a reclamação trabalhista nº 0000794-89.2021.5.14.0092, aforada por LEANDRO CIPRIANI BATISTA.
+O despacho de fl. 47 e-STJ determinou a intimação do suscitante para que apresentasse cópias das decisões aptas a demonstrar a existência do conflito entre os juízos suscitados.
+Foram apresentados documentos às fls. 50-54 e-STJ e substabelecimento à fl. 55 e-STJ.
+É o breve relatório.
+O presente conflito não comporta conhecimento.
+1. Nos termos do art. 66 do CPC/15, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+Contudo, o suscitante não se desincumbiu do ônus de apresentar elementos suficientes para viabilizar a análise do conflito indicado, não apresentando cópia da decisão do Juízo de Direito da 2ª Vara Cível de Aparecida de Goiânia - GO que estaria conflitando com a do Juízo da 2ª Vara do Trabalho de Ji-Paraná - RO.
+Acompanhando a petição inicial, apenas apresentou "print" com parte do relatório do decisum do juízo cível (fl. 5 e-STJ). Intimado para juntar cópia dos pronunciamentos judiciais, apenas trouxe decisões da justiça laboral (fls. 50-54 e-STJ), as quais já estavam acostadas às fls. 15 e 17 e-STJ.
+Assim, não se mostra cognoscível o conflito que não é instruído de modo adequado. Nesse sentido:
+Não se conhece de conflito de competência na hipótese em que o suscitante não apresenta nenhum documento para demonstrar a declaração de incompetência de um dos juízos envolvidos, estando caracterizada a deficiência na instrução do feito, pois ausentes peças essenciais ao seu exame, conforme entendimento do STJ. (AgInt no CC n. 150.026/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 26/4/2017, DJe de 3/5/2017.)
+Corroborando este entendimento: AgRg no CC 130.312/BA, Relator Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 27/11/2013, DJe 6/12/2013; AgRg no CC n. 139.046/RJ, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 25/3/2015, DJe de 6/4/2015; AgRg no CC n. 126.039/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 10/12/2014, DJe de 15/12/2014.
+Ademais, a execução trabalhista está sendo processada contra Osney Marques da Silva, sócio da pessoa jurídica Tencel Engenharia EIRELI, sendo que, a princípio, o deferimento do pedido recuperacional não obsta o prosseguimento das demandas executivas em face de bens não submetidos ao processo de recuperação judicial, nos termos da súmula 480/STJ, bem como contra terceiros devedores solidários ou coobrigados em geral (súmula 581/STJ).
+2. Do exposto, não se conhece do presente conflito de competência, restando prejudicado o pedido liminar.
+Publique-se.
+Intime-se.
