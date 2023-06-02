@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE MANIFESTAÇÃO DO JUÍZO A QUO SOBRE ADEQUAÇÃO DA PROPOSTA À IN ICMBIO Nº 11/2014. IMPOSSIBILIDADE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. SUPERVENIÊNCIA DE DECISÃO CONCESSÓRIA DO PRAZO REQUERIDO. PERDA SUPERVENIENTE DO OBJETO. RECURSO NÃO CONHECIDO.
+1. Compulsando os autos, verifica-se que não houve manifestação, pelo juízo a quo, acerca da adequação do novo Plano de Recuperação de Áreas Degradadas (PRAD) apresentado aos termos da IN ICMBIO nº 11/2014 e sobre sua exequibilidade, de forma que tais pontos não integraram a decisão agravada, não sendo possível, portanto, sua apreciação neste momento, sob pena de supressão de instância.
+2. Quando à alegação de insuficiência do prazo de 30 dias para início do projeto, com pedido de sua dilação para 180 dias, verifica-se que o d. Juízo a quo proferiu nova decisão concedendo o prazo de 180 dias requerido. Operou-se, portanto, a perda superveniente do objeto, uma vez que a referida decisão substituiu o pronunciamento judicial objeto do presente recurso, em relação à impugnada determinação de início da execução no prazo de 30 dias, fazendo desaparecer o interesse processual.
+3. R ecurso não conhecido.
+Os Embargos de Declaração foram rejeitados às fls. 122-125, e-STJ.
+A parte agravante, nas razões do Recurso Especial, aponta violação dos arts. 489, § 1º, IV, 1.022, II, e 1.015 do CPC/2015.
+Contrarrazões apresentadas às fls. 162-175, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+O Ministério Público Federal emitiu parecer às fls. 264-267, e-STJ, opinando pelo não conhecimento do AREsp.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.3.2023.
+Da análise da presente insurgência, conclui-se que a parte interessada não impugnou especificamente todos os fundamentos da decisão de inadmissibilidade.
+Sobre esse ponto, cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada. A isso acrescentam-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, não se conhecendo de AREsp que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade.
+In casu, o Tribunal de origem não conheceu do Apelo Nobre em razão da (a) inexistência no acórdão impugnado de elementos que contrariem os dispositivos infraconstitucionais alegadamente violados; e (b) Súmula 7/STJ (fls. 185-186, e-STJ).
+Compulsando as dezesseis páginas do Agravo em Recurso Especial (fls. 196-211, e-STJ), observa-se que a agravante deixou de atacar especificamente ambos os fundamentos. Em especial quanto à Súmula 7/STJ, restringiu-se a fazer afirmações genéricas, adequáveis a qualquer causa. No mais, constitui-se em mera reprodução das razões já expostas no REsp. É o que se infere do seguinte trecho da peça recursal (fls. 201-204, e-STJ):
+III. DA DESNECESSIDADE DO REEXAME DE PROVAS
+Conforme se vê do relato anteriormente realizado, o presente Recurso Especial prescinde do reexame do quadro fático-probatório vedado pelo enunciado n.º 7 da Súmula de Jurisprudência deste Egrégio STJ.
+É oportuno asseverar que o óbice da Súmula 7 impede que este E. Tribunal Superior faça nova análise dos autos em busca de reavaliação das provas já produzidas, porém não há impeditivo que haja controle acerca da capitulação jurídica dos fundamentos utilizados pelo Egrégio Tribunal a quo, quando da prolação do v. Acórdão guerreado.
+Com efeito, os aspectos fáticos necessários à análise das violações que abordadas encontram-se no voto condutor do v. Acórdão guerreado e não merecem mais abordagem acerca da sua existência ou inexistência nesta seara Superior, resumindo-se a discussão do feito quanto a questões meramente de direito, relacionadas à violação ao art. 1022, I e II do CPC, parágrafo único do art. 489 do CPC e art. 1015 do CPC.
+Desse modo, deve ser reformada a decisão agravada para admitir o recurso especial. Neste sentido é a Jurisprudência deste E. STJ:
+(..)
+A parte deveria ter elucidado de forma efetiva, concreta e pormenorizada a razão de a eventual reforma do aresto de origem não implicar revolvimento de matéria fática. As bases para uma impugnação específica da Súmula 7/STJ já foram estabelecidas por esta Turma, sendo certo que o Apelo em escopo não atende nenhuma delas:
+(..) a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial.
+(AgInt no AREsp 2.023.795/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23.6.2022).
+Com efeito, a jurisprudência do STJ é assente no sentido de que "inadmitido o Recurso Especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20.10.2017).
+Descumpridos tais parâmetros - como no presente caso -, a impugnação é tida como genérica, atraindo a incidência da Súmula 182/STJ. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2063004/SP, Rel. Min. Franciso Falcão, Segunda Turma, DJe 21.9.2022).
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
