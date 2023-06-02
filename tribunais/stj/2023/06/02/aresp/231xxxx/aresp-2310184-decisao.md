@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 90):
+AGRAVO DE INSTRUMENTO CUMPRIMENTO INDIVIDUAL DE SENTENÇA DE AÇÃO COLETIVA PRESCRIÇÃO Decisão que acolheu a impugnação municipal Reforma O ajuizamento da ação coletiva interrompe a prescrição para o recebimento de valores ou parcelas em atraso Prescrição deve abranger o quinquídio anterior à propositura da ação coletiva e, não, do cumprimento individual Inexistência de ações coletiva e individual concomitantes Impugnação rejeitada Decisão reformada. Recurso provido.
+No recurso especial, o recorrente sustenta ofensa aos artigos 1º e 3º do Decreto 20.910/1932, aduzindo que "não há fundamento legal para se reconhecer que, em diversos aspectos, o cumprimento individual de sentença coletiva constitui um procedimento autônomo, mas apenas para fins de prescrição das parcelas não o é considerado, como reconheceu o v. acórdão recorrido. Em outras palavras, reconhecendo que o cumprimento individual de sentença coletiva é um processo autônomo, assim deve ser considerado inclusive para fins de prescrição das parcelas devidas. É de ressaltar que pessoas que não eram servidores à época do ajuizamento da ação coletiva podem eventualmente se beneficiar de sua decisão. Então, aceitar que o ajuizamento da ação coletiva interrompa a prescrição para todos os possíveis exequentes, equivale a entender que a prescrição se interrompe para uma pessoa que nem mesmo estava abrangida pela sentença coletiva à época de sua prolação. Assim, reconhecer a prescrição é medida de rigor para o feito, não só em respeito ao entendimento consagrado pela jurisprudência, mas também para que se respeite a segurança jurídica" (fl. 114).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, ao solucionar a controvérsia, registrou o Tribunal de origem que (fls. 102-107):
+ ..
+Na espécie, alega o particular/exequente, ora agravante, que a prescrição quinquenal deve abranger, apenas, o quinquídio anterior ao ajuizamento da ação coletiva e, não, portanto, o quinquídio anterior à propositura da execução individual, além de alegar nulidades e precariedade dos cálculos do executado, conforme planilha de cálculos apresentada.
+Nesse aspecto, razão assiste, pois, ao particular/agravante.
+Isto porque, efetivamente, conforme decidido pelo próprio Juízo "a quo", em 11.06.2021, em cumprimento de sentença individual análogo (processo nº 0015763-83.2020.8.26.0602), relativo à mesma ação coletiva (processo nº 1000156-81.2018.8.26.0602), afastou-se, escorreitamente, a tese da Municipalidade de Sorocaba, de que a prescrição quinquenal deve abranger o quinquídio anterior ao ajuizamento do cumprimento de sentença individual.
+ ..
+Com efeito, a prescrição quinquenal deve abranger o quinquídio anterior ao ajuizamento da ação coletiva (intentada em 08.01.2018 fl. 46 do cumprimento) e, não, do cumprimento de sentença individual (promovido em 10.12.2020 fls. 1/10 daqueles autos), que, registre-se, foi instaurado, no caso, dentro do prazo prescricional da pretensão executória (5 anos contados do trânsito em julgado do título judicial da ação coletiva Tema nº 877/STJ: "O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva"), pois, na espécie, o trânsito em julgado do título exequendo ocorreu em 19.06.2020 (fl. 92 daqueles autos).
+ ..
+Aliás, é necessário apontar que os precedentes do C. Superior Tribunal de Justiça citados pelo Município em sua impugnação referem-se à situação fática distinta destes autos. Naqueles casos, existiram duas ações de conhecimento concomitantes (coletiva e individual), definindo-se o termo inicial da prescrição parcelar como sendo a propositura da ação individual. No caso presente, não foi proposta ação de conhecimento individual pela parte exequente, mas, apenas, o cumprimento individual de sentença coletiva.
+Frisa-se, a prescrição quinquenal dos créditos pretendidos deve ser computada a partir da propositura da ação coletiva, o que obsta seu reconhecimento no caso.
+ ..
+Do que se observa, a Corte a quo não debateu a controvérsia considerando a tese que sustenta a ofensa aos artigos 1º e 3º do Decreto 20.910/1932, na forma como colocada a questão pelo recorrente. Tal situação acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que não houve sequer oposição de embargos de declaração para sanar eventual vício relativo ao referido argumento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TESE QUE SUSTENTA A VIOLAÇÃO DOS ARTIGOS 1º E 3º DO DECRETO 20.910/1932. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
