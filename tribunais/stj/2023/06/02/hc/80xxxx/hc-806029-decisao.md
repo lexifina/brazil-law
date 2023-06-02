@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDO MACHADO FURTADO contra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Segundo o impetrante, "foi formalizada junto ao Presidente do TJMG, RECLAMAÇÃO de numeração única 1791858-51.2022.8.13.0000 posto que Fernando Machado Furtado, ora paciente, foi sentenciado a PRISÃO com base no mesmo Projeto Natal Luz Sustentável ao reclamar que se tratava de uma fraude a divulgação de que seria projeto da UEMG (Universidade do Estado de Minas Gerais)" (fls. 02/03).
+Ressalta que "estranhamente, porém, o Presidente do TJMG remeteu autos ao Desembargador Relator da condenação, Des. Paulo Calmon, que teria oficiado para responder ao problema justamente o juiz autor da condenação e o MP autor da ação penal (que é desafeto pessoal de Fernando Machado Furtado)" (fl. 03).
+Pontua que "o resultado é que o Des. Paulo Calmon desconsiderou a prova documental do Youtube e o documento emitido pela UEMG (com ATA NOTARIAL), provas de que não há denunciação caluniosa se a farsa de que o projeto é da UEMG é documental: vídeo Youtube e documento da Pró-Reitoria da UEMG. Inclusive validou-se documento em que o investigado (FAFILE) e vítima (UEMG) foram representados pela mesma pessoa" (fl. 03).
+Requer, liminarmente, seja determinado ao Presidente do Tribunal de Justiça do Estado de Minas Gerais que "cumpra dever ex-officio de efetuar CORREIÇÃO na RECLAMAÇÃO 0017318.84.2019.8.13.0133 visando apurar flagrante ilegalidade que causa NULIDADE DA DECISÃO DE PRISÃO" (fl. 04).
+Foram prestadas informações às fls. 37-60.
+Remetidos os autos à Defensoria Pública da União, não houve manifestação (fl. 69).
+É o breve relatório.
+Decido.
+De fato, embora a (possibilidade de) segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Primeiramente, porque a inicial não contém narrativa compreensível sobre a situação processual do paciente. Ademais, o habeas corpus está deficientemente instruído porque questiona atos que não foram juntados aos autos, o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "É dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos." (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ademais, doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Nesse sentido: AgRg no HC 451.403/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018; AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/6/2017; AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2017; e AgInt no HC 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017.
+Ante o exposto, não conheço do presente habeas corpus.
+P. I.
