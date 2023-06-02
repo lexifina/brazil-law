@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manifestado por White Martins Gases Industriais Ltda., no qual se alega violação dos arts. 104, 413 e 427 do Código Civil, 458 e 535, II, do Código de Processo Civil de 1973, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 354):
+CONTRATO DE FORNECIMENTO DE GASES - NOTIFICAÇÃO ENCAMINHADA PELA RÉ À AUTORA INFORMANDO O DESINTERESSE NA MANUTENÇÃO DA AVENÇA - DENÚNCIA REALIZADA SEM OBSERVÂNCIA DO PRAZO DE ANTECEDÊNCIA DE 180 DIAS PREVISTO EM CONTRATO - COBRANÇA DE MULTA COMPENSATÓRIA - DESCABIMENTO - ABUSIVIDADE DO PRAZO FIXADO EM CONTRATO RECONHECIDA - VALIDADE DA NOTIFICAÇÃO. - Recurso desprovido.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 375):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL - CONTRATO DE FORNECIMENTO DE GASES - OMISSÃO ALEGADA - ACÓRDÃO QUE NÃO PADECE DO VÍCIO APONTADO - FIM DE PREQUESTIONAMENTO - REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+- Embargos de declaração rejeitados.
+Sustenta a recorrente que o acórdão recorrido "desconsiderou o contrato livre e espontaneamente firmado entre as partes (pacta sunt servanda)" (fl. 389).
+Afirma que, "Havendo manifestação válida da vontade dos contratantes, no sentido de celebração de determinada contratação, não há como, posteriormente, sem manifesta alteração nas condições das partes, haver revisão das cláusulas pactuadas, em decorrência não somente do princípio do pacta sunt servanda, como também da boa-fé objetiva" (fl. 390), e que, "havendo rescisão imotivada por parte de seus clientes, a recorrente está obrigada a arcar com os referidos custos, o que tudo é observado na formatação da cláusula que prevê a aplicação da multa contratual, e que, frise-se, jamais foi questionada pela recorrida" (fl. 391).
+Alega, dessa forma, que, sendo reconhecido o inadimplemento contratual da parte recorrida, deve ser aplicada a cláusula penal, nos exatos termos em que concebida no contrato celebrado entre as partes.
+Requer seja aplicado subsidiariamente o disposto no art. 413 do Código Civil, o qual prevê "a redução do patamar da cláusula penal, nas seguintes hipóteses: (i) quando a obrigação principal tiver sido cumprida em parte, ou (ii) se o montante da penalidade for manifestadamente excessivo, tendo-se em vista a natureza e a finalidade do negócio" (fl. 392).
+Assim posta a questão, passo a decidir.
+Destaco que o acórdão recorrido foi publicado antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Verifico que procede a alegação de violação dos arts. 458 e 535 do Código de Processo Civil de 1973, quanto à ausência de pronunciamento pela Corte local acerca da aplicação subsidiária do disposto no art. 413 do Código Civil.
+Com efeito, observo que a recorrente, nos embargos de declaração opostos às fls. 368/370, buscou a manifestação do acórdão recorrido no tocante à referida questão.
+O Tribunal de origem, todavia, instado a se pronunciar, não enfrentou a controvérsia de forma específica, o que configura, de fato, a ofensa aos arts. 458 e 535 do CPC/1973.
+Em face do exposto, dou parcial provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima. Ficam prejudicadas as demais questões tratadas no recurso especial.
+Intimem-se.
