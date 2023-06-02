@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública estadual em favor de ERIVAL SANTOS DE JESUS e MARCOS ALENCAR FLOR DA SILVA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1521286-86.2022.8.26.0228.
+Depreende-se dos autos que os pacientes foram condenados como incursos nos arts.180, caput e 155, § 4º, incisos I e IV, por duas vezes, na forma do 70, todos do Código Penal, sendo ERIVAL SANTOS DE JESUS condenado à pena de 3 anos e 6 meses de reclusão e 22 dias-multa, em regime inicial semiaberto, e MARCOS ALENCAR FLOR DA SILVA à pena de 3 anos e 4 meses de reclusão e 21 dias-multa, em regime inicial aberto (fls. 18-27).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa e deu provimento ao recurso ministerial a fim de redimensionar a reprimenda do réu ERIVAL SANTOS DE JESUS para 3 anos, 10 meses e 20 dias de reclusão e 23 dias-multa, no regime inicial fechado, mantidos os demais termos da condenação (fls. 28-54).
+Na hipótese, a defesa aponta constrangimento ilegal, pois "a pena aplicada aos pacientes foi exasperada na primeira fase da dosimetria com base em fundamento inidôneo (fl. 5).
+Sustenta que "o simples fato de se ter reconhecido duas circunstâncias qualificadoras do delito em desfavor dos pacientes, não impõe, por si só, o dimensionamento da pena-base acima do mínimo legal" (fls. 7-8).
+Aduz que o modo inicial fechado, imposto ao paciente Erival, está fundado na gravidade abstrata do delito, em franco descompasso com as Súmulas 719 e 718 do STF e 440 do STJ.
+Defende que a reincidência não é motivo para obstar a fixação de regime inicial mais brando.
+Requer, assim, "a concessão da ordem para afastar o aumento da pena base e fixar o regime inicial semiaberto" (fl. 13).
+A liminar foi indeferida às fls. 58-59.
+Informações prestadas às fls. 63-111.
+O Ministério Público Federal, às fls. 115-121, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração: i) a fixação das penas-base no mínimo legal; ii) a fixação do regime prisional semiaberto para o início do cumprimento da pena do paciente ERIVAL SANTOS DE JESUS.
+Insta consignar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, "havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial" (AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017, grifei).
+Na presente hipótese, como bem destacado pelo acórdão recorrido, "diante da existência de duas qualificadoras, circunstâncias que qualificam o delito, sendo que uma serve para a configuração do delito e a outra para aumentar a pena-base, procedimento que está de acordo com o melhor e mais apropriado entendimento doutrinário e jurisprudencial, é necessário o incremento da pena-base em 1/6 (um sexto), perfazendo a pena de ERIVAL SANTOS DE JESUS em 02 (dois) anos e 04 (quatro) meses de reclusão, bem como ao pagamento de 11 (onze) dias-multa e de MARCOS ALENCAR FLOR DA SILVA em 02 (dois) anos e 04 (quatro) meses de reclusão, bem como ao pagamento de 11 (onze) diasmulta." (fl. 42 e 47).
+Nesse sentido: AgRg no AREsp n. 2.029.219/PA, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 5/8/2022 e AgRg no HC n. 678.325/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/11/2021.
+Portanto, não há nenhum ajuste a ser feito em relação às penas-base aplicadas aos pacientes.
+No tocante ao regime prisional estabelecido em desfavor do paciente ERIVAL SANTOS DE JESUS, verifica-se que o v. acórdão impugnado fixou o modo fechado, após fundamentar que milita em desfavor do paciente circunstâncias judiciais desfavoráveis e reincidência.(fls. 45-46).
+Desse modo, sendo o paciente reincidente e portador de circunstâncias judiciais desfavoráveis, o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Ressalte-se que a incidência da Súmula n. 269/STJ pressupõe que todas as circunstâncias judiciais sejam favoráveis, o que não ocorre na espécie. Nesse sentido os seguintes julgados desta Corte Superior: AgRg no HC n. 751.258/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 15/8/2022 e AgRg no HC n. 734.586/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 21/6/2022.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
