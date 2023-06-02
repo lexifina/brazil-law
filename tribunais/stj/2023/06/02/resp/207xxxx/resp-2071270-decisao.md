@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por MACGVEYVER SANTOS ROCHA (MACGVEYVER), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Matogrossense, assim ementado:
+APELAÇÃO CÍVEL - CAUTELAR COM PEDIDO DE BLOQUEIO AO RENAJUD JUNTO AO DETRAN E BUSCA E APREENSÃO - AÇÃO PRINCIPAL DE RESCISÃO DE CONTRATO VERBAL - PRELIMINAR DE DESERÇÃO - ACOLHIMENTO - AUSÊNCIA DE COMPLEMENTAÇÃO DAS CUSTAS APÓS INTIMAÇÃO PELO JUÍZO SENTENCIANTE - AUSÊNCIA DE INSURGÊNCIA QUANTO A MATÉRIA - PRECLUSÃO - RECOLHIMENTO A MENOR - DESNECESSIDADE DE INTIMAÇÃO - APELO NÃO CONHECIDO. Em não havendo impugnação à determinação de correção ao valor da causa, que deve ser o valor do bem em questão, não sendo recolhida a complementação das custas, evidencia-se a preclusão, bem como a deserção pelo pagamento de valor inferior ao devido, mostrando-se desnecessária a intimação posterior. "A determinação de emenda a inicial tem lugar no momento que o magistrado verifica que a petição inicial não preenche os requisitos exigidos nos arts. 319 e 320, ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, devendo a exordial ser indeferida, se o autor não cumprir o comando judicial, nos termos do art. 321, parágrafo único, do CPC. (N. U 1031050- 28.2017.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, CARLOS ALBERTO ALVES DA ROCHA, Terceira Câmara de Direito Privado, Julgado em 25/10/2021, Publicado no DJE 27/10/2021)" "A jurisprudência do STJ é pacífica ao afirmar ser desnecessária a intimação pessoal da parte antes da extinção do processo sem resolução do mérito quando não realizada a complementação do preparo prevista no art. 290 do CPC/2015, para o qual foi regularmente instada a efetuar. (TJMG - Apelação Cível 1.0702.15.063333-8/001, Relator(a): Des.(a) José Américo Martins da Costa, 15ª CÂMARA CÍVEL, julgamento em 26/07/2018, publicação da súmula em 01/08/2018)". (TJMT, 1ª Câmara de Direito Privado, Apelação Cível 1013172- 71.2021.8.11.0002, Sebastião Barbosa Farias, Julgado em 23/11/2021, Publicado no DJE 29/11/2021)" (e-STJ, fls. 946/947).
+Opostos embargos de declaração por MACGVEYVER, foram rejeitados (e-STJ, fls. 978/984).
+Nas razões do presente recurso, MACGVEYVER alegou violação dos arts. 932, parágrafo único, 1.007, §§2º e 7º, do NCPC, bem como dissídio jurisprudencial, aduzindo que a insuficiência do preparo enseja a intimação para complementação (e-STJ, fls. 996/1.009).
+Foram apresentadas contrarrazões (e-STJ, fls. 1.025/1.043).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da complementação do preparo
+Nas razões do presente recurso, MACGVEYVER alegou a negativa de vigência dos arts. 932, parágrafo único, 1.007, §§2º e 7º, do NCPC, bem como dissídio jurisprudencial, aduzindo que a insuficiência do preparo enseja a intimação para complementação.
+Nesse ponto, o Tribunal estadual concluiu que o recolhimento inferior ao devido enseja a deserção, sendo desnecessária a intimação para sanar a falha. Confira-se:
+Efetivamente, o apelo deve ser considerado deserto.
+É que houve perante o Juízo "a quo" impugnação ao valor da causa, pois o proveito econômico perseguido diz respeito ao bem móvel litigioso - veículo MASERATI GRAN TURISMO - placa AGT5565 - Renavam 00117973963, cujo valor foi atribuído, mediante sugestão de avaliação, pelo próprio Autor/Apelante, em R$ 325.000,00 (trezentos e vinte e cinco mil reis). E, ainda assim, atribuiu ele o valor da causa em R$ 1.000,00 (mil reais).
+Verifica-se que a impugnação foi acatada, pois o Magistrado singular DETERMINOU a correção do valor da causa, e o devido complemento das custas inerentes ao feito.
+Tendo em vista que o recurso não se insurge quanto à retificação do valor da causa; que não foi retificado o valor, e que não houve recolhimento das custas processuais complementares, e sim recolhimento de taxa em valor diminuído, mostra-se imperiosa a decretação da deserção, registrando-se a desnecessidade de intimação (e-STJ, fl. 949).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que a insuficiência do valor do preparo enseja a intimação do recorrente para complementação.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DESERÇÃO AFASTADA . ORIGEM. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRESTAÇÃO JURISDICIONAL LACUNOSA. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INTERESSE RECURSAL. AUSÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS DISSOCIADOS. SÚMULAS NºS 283 E 284/STF. HONORÁRIOS RECURSAIS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. Nas hipóteses em que o preparo é recolhido de forma insuficiente, o recorrente será intimado para complementar o valor, dispensado, contudo, do recolhimento em dobro, nos termos do art. 1.007, § 2º, do CPC/2015.
+4. Não há falar em prestação jurisdicional lacunosa, ou violação de texto legal, se a Corte de origem decide a controvérsia de forma suficientemente fundamentada, observando o comando dos dispositivos de lei, embora contrariando os interesses da parte.
+5. Falta interesse recursal quando a pretensão da parte já foi atendida pelo acórdão recorrido.
+6. Não se conhece do recurso especial quando as suas razões estão dissociadas daquilo que efetivamente foi julgado pelo tribunal de origem, consoante os óbices das Súmulas nºs 283 e 284/STF.
+7. Os embargos do devedor são ação de conhecimento incidental à execução, motivo pelo qual os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca , entre elas, a cumulação da verba honorária não pode r exceder o limite máximo previsto na lei processual de regência.
+8. Agravo interno parcialmente provido .
+(AgInt no AREsp n. 1.900.868/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 22/11/2022, DJe de 29/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO. APELAÇÃO. DESERÇÃO EM RAZÃO DA INSUFICIÊNCIA DO PREPARO. NECESSIDADE DE INTIMAÇÃO DO RECORRENTE PARA A COMPLEMENTAÇÃO DO PREPARO. ART. 1.007, § 2º, DO CPC/2015. RECURSO ESPECIAL PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de admissibilidade. Reconsideração.
+2. A insuficiência no valor do preparo só implicará deserção se o recorrente, intimado, não vier a supri-lo no prazo de cinco dias (CPC/2015, art. 1.007, § 2º).
+3. "No ato de interposição do recurso, deverá ser comprovado o preparo, sob pena de deserção. Na insuficiência do valor, o recorrente será intimado para supri-lo em cinco dias" (AgInt no AREsp 1.125.510/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe de 18/12/2017).
+4. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.599.097/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 4/5/2020, DJe de 18/5/2020.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, a fim de determinar a intimação de MACGVEYVER para que promova a complementação do preparo, nos termos do art. 1.007, §2º, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CAUTELAR. CONTRATO VERBAL. PREPARO DA APELAÇÃO. RECOLHIMENTO INSUFICIENTE. INTIMAÇÃO. COMPLEMENTAÇÃO. NECESSIDADE. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
