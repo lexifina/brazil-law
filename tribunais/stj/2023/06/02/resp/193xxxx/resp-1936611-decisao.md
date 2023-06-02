@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. COFINS. INDENIZAÇÃO SECURITÁRIA. NÃOINCIDÊNCIA.
+1. Não se tratando a indenização securitária de receita nova do contribuinte, mas sim de mera recomposição de danos por meio de indenização, não há falar na incidência de COFINS em relação a tais valores. Precedentes deste Regional.
+2. Negado provimento ao apelo da União.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões, a recorrente alega, primeiramente, violação do art 1022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente relativamente à "análise da questão sub judice à luz do disposto no § 3º do art. 1º da Lei nº 10.637, de 2002, no §3º do art. 1º da Lei nº 10.833, de 2003 e art. 123 do CTN - normativa que fundamenta o entendimento da União de que sobre o valor recebido em decorrência do contrato de seguro, há plena incidência da COFINS" (fl. 192/193).
+Quanto ao mérito, aponta violação dos arts. 1º, § 3º, das Leis 10.637/2002 e 10.833/2003; 944 do CPC e 123 do CTN. Para tanto, sustenta: (i) "no contrato de seguro, não existe propriamente uma indenização, apenas o cumprimento do que consta da avença contratual. Portanto, sobre o valor recebido em decorrência do contrato de seguro, há plena incidência da COFINS" (fl. 194); (ii) "no caso de tr ibutaçã o do PIS e da COFI NS pelo regim e não cum ulati vo das L eis 10.637/02 e 10.833/03, inc idi rã o os m encionados tributo s sob re as indeniza ções de seguro, independente do entendimento que se adote para "indeni zações de seguro", tendo em vista que a legislação pre vê com o base de cálculo a to talida de das re ceitas; is to é, ain da que nã o se tr ate de receitas novas, inc idirã o o PIS e a C O FINS" (fl. 197).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 754-755.
+É o relatório. Passo a decidir
+Inicialmente, registro que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, remanescendo omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da "análise da questão sub judice à luz do disposto no § 3º do art. 1º da Lei nº 10.637, de 2002, no §3º do art. 1º da Lei nº 10.833, de 2003 e art. 123 do CTN - normativa que fundamenta o entendimento da União de que sobre o valor recebido em decorrência do contrato de seguro, há plena incidência da COFINS"
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação/manifestação sem esclarecimento suficiente/ a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, I ou II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
