@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto com fundamento no art. 1.042, § 2º, do Código de Processo Civil, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 14).
+EMENTA Liquidação de sentença. Acórdão que homologou o valor devido, com isso tornado incontroverso. Falta de voluntário pagamento nos termos do artigo 523 do CPC, o que autorizava o bloqueio de ativos financeiros dos devedores Inteligência do § 3º daquele artigo. Recurso improvido.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a agravante alega violação aos arts. 300, 301 523 e 511 do Código de Processo Civil.
+Sustenta que o Tribunal local "fez incidir em liquidação de sentença previsão destinada ao cumprimento da mesma, incorrendo em violação da lei, já que determinou providência cautelar de arresto, sem atender os requisitos legais, contrariando-se assim e negando vigência aos Art. 300 e 301 do NCPC, que estabelecem os requisitos para a referida modalidade de pronunciamento cautelar".
+Explica que "após a impugnação da liquidação, deve-se seguir o RITO ORDINÁRIO, com o que tem-se inaplicável as disposições exclusivas do cumprimento de sentença, consoante o Art. 511 do NCPC, já que o Art. 523 aplica-se por compor o título de cumprimento de sentença, somente aos incidentes específicos, sem que seja possível sua aplicação aos incidentes de liquidação, que deveriam se pautar pelo rito comum".
+Complementa dizendo que "Assim, o V. Acórdão que manteve a R. Decisão que concedeu tutela Cautelar de Arresto sobre os ativos financeiros do devedor, em incidente de liquidação de valor, contra um devedor solvente, contrariou os Art. 523, destinado exclusivamente ao incidente de cumprimento de sentença, e bem assim o Art. 511 que estabelece para a liquidação o procedimento comum, para deferir o pedido cautelar de arresto, sem observar os requisitos pertinentes, quanto a existência do fumus boni iuris e do periculum in mora, violando os requisitos objetivos exigidos pelos Art. 300 c/c Art. 305, caput, do NCPC, conforme se verifica a seguir".
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial, tendo em vista não ter sido demonstrada a alegada vulneração aos dispositivos legais, bem como em razão da vedação de reexame dos fatos e provas dos autos (Súmula 7/STJ).
+Nas razões do agravo em recurso especial, reitera-se que haveria violação à legislação federal e pugna-se pela superação dos óbices.
+Assim delimitada a controvérsia, passo a decidir.
+Não merece acolhida o agravo.
+Ao se pronunciar sobre a controvérsia dos autos, o Tribunal local adotou os seguintes fundamentos (e-STJ, fls. 15/16):
+A sentença, que foi confirmada por acórdão, reintegrou os autores na posse das máquinas agrícolas lá indicadas e condenou os réus ao pagamento de indenização por perdas e danos devido à privação do uso daqueles bens de setembro de 2018 até a data da efetiva devolução, além de custas e verba honorária.
+Para apurar o montante àquele título devido os autores procederam à liquidação da sentença, sendo que ao julgar recurso tirado de decisão exarada naquele incidente esta Câmara homologou o cálculo do valor dito incontroverso (R$ 20.885,00) e determinou a realização de perícia para apurar eventual excedente.
+Em novembro de 2021 os devedores foram então intimados a efetuar o pagamento daquele valor (fls. 244 dos autos originais), mas assim não agiram, não tendo se disposto nem a efetuar o pagamento de forma parcelada, como os credores haviam proposto.
+Ora, se voluntário pagamento da parcela já definitivamente quantificada não houve, nem nomeação de bens à penhora, então caso era mesmo de o Juiz determinar o bloqueio de ativos financeiros dos devedores.
+De lembrar, a propósito, que a apropriação dos bens do devedor é, justamente, o propósito natural de toda execução por quantia certa, não ficando por isso a depender de indagação a ocorrência de dilapidação patrimonial capaz de levar o executado à insolvência.
+Nesse sentido dispõe o §3º do artigo 523 do CPC:
+"§ 3º Não efetuado tempestivamente o pagamento voluntário, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação.
+Pois a constrição de dinheiro ou valores por sistema eletrônicos é, justamente, uma das formar de penhora (artigo 837 do CPC).
+A parte agravante sustenta, em síntese, em fase de liquidação de sentença, estando ainda pendente a produção de prova pericial para a apuração dos valores, não poderia ter tido início o cumprimento de sentença.
+Ocorre que, como deixa claro o acórdão recorrido, o cumprimento de sentença contra o qual se manifesta a parte agravante incontroversa tem por objeto valor já homologado e incontroverso, sendo certo que a determinação de realização de perícia nos autos destina-se à apuração de eventual excedente, e não à definição do valor que já está sendo executado.
+Ao manifestar as aludidas razões, a parte agravante deixou, no recurso especial, de impugnar especificamente os fundamentos do acórdão recorrido, deficiência que atrai a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. O patrocinador não possui legitimidade passiva para litígios que envolvam a revisão de benefício previdenciário complementar (Repetitivo/Tema 936/STJ).
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. "Por ocasião do julgamento do Recurso Especial nº 1.312.736/RS, sob o rito dos repetitivos, foi reconhecidau ma obrigação de fazer devida pela Entidade de Previdência Privada, condicionada à recomposição prévia integral pelo participante/assistido, não havendo que se falar em condenação ao pagamento de juros de mora desde a citação." (AgInt nos EDcl no Resp 1886703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe 11/03/2021) 4. Agravo interno desprovido.
+(AgInt no REsp n. 1.962.373/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
