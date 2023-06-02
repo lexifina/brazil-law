@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Ricardo Braz de Queiroz contra o acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça de Goiás que denegou o Habeas Corpus n. 5232069-78.2023.8.09.0100, mantendo a prisão preventiva do recorrente decretada pelo Juízo da 1ª Vara Criminal da comarca de Luziânia/GO, pela suposta prática do crime de homicídio qualificado, na forma tentada.
+Neste recurso, sustenta-se constrangimento ilegal na prisão preventiva, porque carente de fundamentação concreta a justificar a medida.
+Requer-se, assim, a concessão liminar da ordem para revogar a prisão preventiva do recorrente, mediante assinatura de termo de comparecimento a todos os atos do processo, ressalvando-se, ainda, a possibilidade de lhe ser decretada nova prisão, caso demonstrada a necessidade (fl. 327).
+É o relatório.
+Busca o recorrente o provimento do recurso para revogar a prisão preventiva pela suposta prática do crime do art. 121, § 2º, IV c/c o art. 14, II, ambos do Código Penal.
+Extrai-se do acórdão impugnado que (fls. 296/297):
+ ..  No caso em exame, verifica-se que o modus operandi supostamente empreendido pelo paciente, revela alta periculosidade, eis que, em tese, teria cometido o crime de homicídio qualificado, na forma tentada (art. 121, § 2º, inciso IV, c/c o art. 14, inciso II, do Código Penal) contra a vítima Oscar Braz de Oliveira Júnior, seu primo e vizinho de fazenda.
+O próprio paciente narrou entrevero antigo com a vítima, apesar de afirmar ter disparado acidentalmente sua arma 5.5mm preparada para 22, alvejando-o na perna, e empreendendo fuga em seguida, elementos suficientes para justificar a manutenção preventiva no cárcere.
+Desse modo, perfeitamente cabível a manutenção da prisão vergastada, porque seus fundamentos encontram-se alicerçados na existência dos pressupostos (prova da existência do crime e indícios de autoria) e fundamento da prisão preventiva (garantia da ordem pública), diante da periculosidade expressada pela ação delituosa, inexistindo constrangimento ilegal a ser reparado.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+In casu, incabível a pretensão de concessão de liberdade, sobretudo em razão da gravidade concreta do delito, evidenciada no modus operandi (tentativa homicídio qualificado), e fuga do local do crime.
+De mais a mais, mostra-se indevida a aplicação de medidas cautelares diversas da prisão quando a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (AgRg no HC n. 760.347/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe 23/3/2023).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. APLICAÇÃO DA LEI PENAL. MODUS OPERANDI. GRAVIDADE CONCRETA DA CONDUTA.
+Recurso improvido.
