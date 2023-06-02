@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED VITÓRIA COOPERATIVA DE TRABALHO MÉDICO (UNIMED) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, UNIMED alegou a violação do art. 523, §1º, do NCPC, ao sustentar que depositou, de forma voluntária e tempestiva, o valor executado em juízo e não se opôs ao seu imediato levantamento. Ademais, ingressou com impugnação ao cumprimento da sentença no exercício do seu direito ao contraditório e ao devido processo legal, razão pela qual deve ser afastada a incidência de multa e honorários advocatícios, indicando precedentes em apoio a sua tese.
+Do depósito
+Sobre a questão, os julgadores assim consideraram:
+Segundo a jurisprudência do STJ, na fase de cumprimento de sentença, o montante da condenação ao pagamento de quantia certa será acrescido de multa no percentual de dez por cento (10%) se o devedor não o efetuar de forma espontânea no prazo de quinze (15) dias.
+Nesse caso, o pagamento deve ser interpretado de forma restritiva, assim se considerando somente naquelas situações em que o devedor deposita a quantia devida em juízo, sem condicionar o levantamento à discussão do débito em sede de Impugnação.
+Se o depósito ocorreu a título de garantia do juízo, não há falar em isenção do devedor ao pagamento da multa prevista no art. 523, do CPC (AgInt nos EDcl no AREsp 1. 030. 307/SP, Rel. Min. Raul Araújo, Quarta Turma, DJe 14/12/2020; AgInt no REsp 1. 616. 643/DF, Rel. Min. Marco Buzzi, Quarta Turma, DJe 24/09/2020; REsp 1. 803. 985/SE, Rel. Min. Nancy Andrighi, Terceira Turma, DJe21/11/2019).
+Vê-se, pois, que o art. 523, do CPC, estabelece duas modalidades de depósito e prazos correspondentes: a) o espontâneo, a ser realizado no prazo de 15 dias com a finalidade de pagamento; e b) como garantia do juízo, também a ser realizado no prazo de 15 dias com a finalidade de oferecer impugnação.
+ ..
+No caso dos autos, é incontroverso que a devedora, ora agravada, apresentou impugnação ao cumprimento de sentença, alegando excesso de execução no valor de R$754.771,39 (setecentos e cinquenta e quatro mil, setecentos e setenta e um reais e trinta e nove centavos), realizando o depósito em juízo do valor de R$ 756.968,06 (setecentos e cinquenta e seis mil, novecentos e sessenta e oito reais e seis centavos).
+Todavia, ainda que o depósito tenha sido efetuado dentro do prazo legal (art.532, caput, do CPC), a agravada objetivou impedir a incidência dos encargos previstos no art. 523, § 1º, do CPC, reservando-se o direito de apresentar impugnação ao cumprimento de sentença, o que se mostra incompatível com a hipótese de pagamento voluntário prevista no art. 523, caput, do CPC.
+Isso porque, o mero depósito em juízo do valor devido não tem o condão de caracterizar o cumprimento voluntário da obrigação, já que inexiste no texto legal qualquer disposição no sentido de que é possível condicionar o levantamento de valores ou, ainda, de se reservar o direito à impugnação, devendo o executado optar por realizar o pagamento voluntário no prazo legal, sem o acréscimo de multa e honorários advocatícios ou, após o seu decurso, apresentar impugnação ao cumprimento de sentença, na forma do art. 525, caput, do CPC. Desse modo, não há que se falar em pagamento voluntário quando este foi realizado com a finalidade de permitir a oposição de impugnação ao cumprimento de sentença.
+Conclui-se, pois, que no que tange à fixação de multa e honorários advocatícios previstos no art. 523, § 1º, do CPC ao presente cumprimento de sentença, assiste razão o agravante. (e-STJ, fls. 431/432).
+Com efeito "a jurisprudência assente do STJ é no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo" (AgInt no REsp n. 1.906.380/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 10/5/2021, DJe de 9/6/2021) (AgInt no AgInt no AREsp n. 2.062.705/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ainda nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CORREÇÃO MONETÁRIA. PENSÃO TESTAMENTÁRIA. SÚMULA N. 284/STF. SÚMULAS N. 83 E 568 DO STJ. ALCANCE DO TÍTULO EXEQUENDO. COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. BOA-FÉ. "SUPRESSIO". INCIDÊNCIA DA SÚMULA N. 7/STJ. MULTA DO ART. 523, § 1º, DO CPC/2015. SÚMULAS N. 83 E 568 DO STJ. DECISÃO MANTIDA.
+ ..
+7. "A jurisprudência assente do STJ é no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo" (AgInt no REsp n. 1.906.380/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 10/5/2021, DJe de 9/6/2021).
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.798.652/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. GARANTIA DO JUÍZO. DEPÓSITO INTEGRAL. POSTERIOR IMPUGNAÇÃO. MULTA E HONORÁRIOS. INCIDÊNCIA. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O aresto combatido foi proferido de acordo com a jurisprudência desta Corte, no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo.
+Incidência da Súmula n.º 568 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.965.900/MS, de minha relatoria, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+Incidência da Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER do recurso especial e NEGAR-LHE provimento.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MULTA. ART. 523 DO NCPC. POSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO .
