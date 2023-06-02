@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA contra acórdão do respectivo Tribunal, cuja ementa é a seguinte (e-STJ fl.97):
+Agravo Interno em Agravo em Execução Penal. Não provimento em decisão monocrática. Pena de multa. Declaração de hipossuficiência. Suficiente para comprovar impossibilidade de pagamento. Recurso não provido.
+A impossibilidade do pagamento da pena de multa é prova de fato negativo (ausência de recursos financeiros), o que, por lógica, é extremamente difícil de ser realizada, de modo que a declaração de hipossuficiência subscrita por apenado assistido pela Defensoria Pública é suficiente para realizar tal comprovação.
+A parte recorrente violação dos arts. 32, III, 49 e 50, todos do Código Penal. Sustenta ser indevida a concessão do livramento condicional, haja vista a necessidade de pagamento da pena de multa ou a comprovação inequívoca da impossibilidade de fazê-lo.
+Apresentadas contrarrazões (e-STJ fls. 136/141), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 142/143). O Ministério Público Federal, instado a se manifestar, opinou pelo provimento do recurso (e-STJ fls. 151/157).
+É o relatório. Decido.
+O recurso especial merece acolhida.
+Vale frisar que nos termos da jurisprudência do Superior Tribunal de Justiça, o não pagamento da pena de multa, aplicada cumulativamente com a pena privativa de liberdade, denota a ausência do requisito subjetivo para a concessão do livramento condicional (AgRg no REsp n. 1.758.670/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/4/2019).
+Nas hipóteses de inad implemento da pena de multa, a fim de que não se imponha ao reeducando uma barreira intransponível, a ponto de violar o princípio da ressocialização da pena, nem se frustre, por outro lado, a finalidade da execução penal, o Juízo da Execução Criminal deve, antes de obstar ou deferir a progressão de regime ou o livramento condicional ao apenado, verificar o valor da multa fixada e analisar, a partir de elementos fáticos, a respectiva capacidade econômica do sentenciado, com vistas a viabilizar, de algum modo, ainda que de forma parcelada, o pagamento da multa, o que não ocorreu na hipótese dos autos.
+Nesse sentido: REsp 2043171/RO, relator Ministro SEBASTIÃO REIS JÚNIOR, DJe 04/05/2023, REsp 204343/RO, relator Ministro RIBEIRO DANTA, DJe 09/02/2023 e REsp 2037766/Ro, relator Ministro ROGERIO SCHIETTI CRUz, DJe 09/02/2023.
+Ante o exposto, dou provimento ao recurso especial para que os autos voltem à origem e o juiz avalie se há efetiva comprovação da hipossuficiência, para fins de manutenção da decisão que concedeu o livramento condicional.
+Intimem-se.
