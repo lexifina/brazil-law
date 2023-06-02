@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado por LEONILDO TOBIAS DOS REIS, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 863):
+PROCESSUAL CIVIL. APELAÇÃO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA RENDA MENSAL INICIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. APELAÇÃO DESPROVIDA.
+1. O trânsito em julgado da ação civil pública nº 0011237-82.2003.403.6183proposta pelo Ministério Público Federal em face do INSS ocorreu em 21.10.2013, enquanto o ajuizamento da execução individual ocorreu em 20.05.2019, restando evidente a ocorrência da prescrição da pretensão executiva.
+2. Não há qualquer indicativo de que a propositura do cumprimento de sentença estivesse dependendo do fornecimento de documentos pelo executado, de modo que não restou preenchido um dos requisitos para a aplicação da modulação de efeitos do tema 880 do STJ
+3. A prática de atos processuais nos autos da referida ação pública dirigidos à autarquia previdenciária com relação ao cumprimento do julgado requerido pelo Ministério Público Federal, não tem o condão de alterar o marco inicial do referido prazo prescricional como pretende a parte apelante.
+4. Apelação desprovida.
+Sustenta o recorrente que o prazo para a presente ação de cumprimento de sentença da ACP nº 0011237-82.2003.403.6183 iniciou-se somente com a decisão final da liquidação, quando definido o quantum debeatur, especialmente se for levado em consideração a modulação de efeitos ocorrido no julgamento do REsp 1.336.026/PE, processado conforme rito dos recursos especiais repetitivos (Tema 880/STJ).
+Assim, indica afronta "no primeiro momento, o artigo 1040 do CPC, em especial na modulação de efeitos do tema 880 do STJ, diante do julgamento dos recurso repetitivos de nº 1.336.026/PE, além de infringir o parágrafo 3, do artigo 927 do CPC, bem como feriu o artigo 604 do CPC de 1973, bem como princípio da actio nata, previsto no artigo 189 do CC" (fl. 888).
+"No segundo momento a decisão negou vigência ao CPC de 1973, lei 5869/73, em especial o artigo 644, que posteriormente foi alterado pela lei 10.444/2002 e depois a lei 11.232/2005, bem como feriu a coisa julgada a ACP em especial os Recursos repetitivos do STJ, na forma do artigo 1040 do CPC, bem como a função social da modulação de efeitos previstas no parágrafo 3 do artigo 927 do CPC" (fl. 888)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Segundo consolidado entendimento desta Corte, chancelado no Tema Repetitivo 877/STJ, "O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n.8.078/90". Acresce a esta compreensão o teor da Súmula 150/STF: "Prescreve a execução no mesmo prazo de prescrição da ação".
+Na hipótese vertente, o Tribunal de origem compreendeu que ocorreu a prescrição da pretensão de cumprimento individual do título judicial formado na ACP nº 0011237-82.2003.403.6183, cujo trânsito em julgado se deu em 21/10/2013, uma vez que o presente requerimento foi ajuizado em 20/5/2019 (fl.870).
+Percebe-se, portanto, que a pretendida incidência da modulação de efeitos do Tema Repetitivo 880/STJ não pode ser conhecida, ante a ausência de prequestionamento da tese defendida, tampouco foram opostos embargos de declaração para suprir possível omissão. Assim, não foi examinado o argumento de que o título coletivo exigiu liquidação de sentença, devendo este ser o termo inicial para a contagem do prazo prescricional.
+Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
