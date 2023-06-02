@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Exceção de Suspeição oposta por João Pedro de Ávila - Espólio em face do Desembargador Presidente do Tribunal de Justiça do Estado de Goiás, remetida ao STJ por acolhimento do pedido do excipiente, que entende caber a este Tribunal Superior o conhecimento originário da Exceção.
+O Excipiente afirma:
+incidente visa apurar suposta irregularidade do Magistrado, o MM. Delintro Belo de Almeida Filhopor sua atuação na condução do PROCESSO DISCRIMINATÓRIO00004497-16.1986.8.09.0004, pois, ele abriu vistas ao Apelante para, em suma, demonstrar que o recurso interposto não seria intempestivo. E ao tentar atender a intimação houve necessidade de esclarecimentos prévio, ou seja, havia necessidade de se certificar se havia nos autos a CADEIA SECESSÓRIA DA FAZENDA POLÔNIA. A petição não foi atendida o que impossibilitou o Apelante, ora EXCIPIENTE, de demonstrar a tempestividade do recurso de APELAÇÃO. E na sequência houve uma série de aplicação de multas ao Apelantecomo se ele não tivesse demonstrado a tempestividade de seu recurso. Ora, com o resultado deste incidente poderá ficar claro se a apelação ali interposta fora tempestiva ou não. Em sendo tempestiva, ou seja, em tendo sido o PROCESSO DISCRIMINATÓRIO uma fraude, é claro que o mesmo foi e é nulo de pleno direito. E se é nulo, o recurso de apelação foi interposto tempestivamente e consequentemente, a atuação do Magistrado deve ser tida por suspeita (fl. 407 e-STJ).
+Ao final, delimita a pretensão nos seguintes termos:
+3)Seja apurado:
+a. Se o processo discriminatório 00004497-16.1986.8.09.0004 das terras públicas do ESTADO DE GOIÁS foi ou não uma farsa. Neste caso requer sejam esclarecidas todas as circunstâncias acima fundamentadas, pois, o Autor EXCIPIENTE necessita deste resultado para poder embasar seu recurso no mesmo processo 4479-16;
+b. Caso positivo requer seja o do processo discriminatório4497-16.1986.8.09.0004das terras públicas do ESTADO DE GOIÁS declarado nulo de pleno direito, esclarecendo-se até onde o processo foi anulado e qual seria o foro competente para processá-lo e julgá-lo;
+Se o processo acima não for anulado, requer seja o mesmo remetido ao Juízo Competente. Neste caso o Autor Excipiente requer subsidiariamenteo prosseguimento do feito para APURAR:
+c. Se os demais EXCEPTOS INTERESSADOS também participaram da empreitada de proteger os títulos dominiais decorrentesda sentença doprocesso discriminatório 4497-16.1986.8.09.0004das terras públicas do ESTADO DE GOIÁS, ou seja, a atuação destes, de modo a causar desconfianças no Autor Excipiente foi apenas uma mera coincidência;
+d. Por que o INCIDENTE DE EXCEÇÃO DE SUSPEIÇÃO/IMPEDIMENTO em apenso ao processo161850-69.2016.8.09.0004ainda não migrou para o meio eletrônico;
+e. Por que os EXCEPTOS:
+i. No processo1054282-87.2020.4.01.3400 de ARISTEU, declinou da competência para o juízo de ALTO PARAÍSO DE GOIÁS, onde recebera o número 5066559-78.2021.8.09.0004, se a área do imóvel faz confusão com a área do imóvel do INCRA e o julgamento poderá atingir os interesses da autarquia federal. Ora, ao chegar em Alto Paraíso o processo deveria ser devolvido à JUSTIÇA FEDERAL, foi extinto;
+ii. Por que em ALTO PARAÍSO DE GOIÁS o processo5329395-06.2021.8.09.0004 foi extinto, se havia o INCRA no polo passivo. Houve exclusão do INCRA e na sequência houve sua extinção, remetendo-se a matéria para o processo de ARISTEU. Só que ficou parecendo uma blindagem para a não formação do primeiro processo. E na sequência o processo de ARISTEU foi extinto, e pior, nos dois processos os magistrados não enfrentam as fundamentações do Autor e os EMBARGOS DE DECLARAÇÃO não são julgados à luz do artigo 489 c/c o artigo 11do Código de Processo Civil. Ou seja, os magistrados proferem sempre despachos nulos de pleno direitoao invés de declinar a competência para a JUSTIÇA FEDERAL. Fica parecendo haver um conluio: a JUSTIÇA FEDERAL excluiu o INCRA e manda para a JUSTIÇA COMUM. E esta, quando tem o INCRA o exclui e extingue o processo;
+iii. Por que os MAGISTRADOS, quando extinguem processos na JUSTIÇA FEDERAL e na JUSTIÇA COMUM não julgam os EMBARGOS DE DECLARAÇÃO à luz do artigo 489 c/c com o artigo 11 do Código de Processo Civil
+Ordenou-se a emenda petição inicial sob pena de indeferimento, ao que se seguiu uma série de recursos de Embargos de Declaração que findou com a remessa de incidente a este Tribunal Superior para conhecimento originário da Exceção de Suspeição do Presidente do Tribunal de Justiça do Estado de Goiás.
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 10/05/2023.
+A pretensão não comporta conhecimento.
+Com efeito, não houve qualquer decisão quanto ao mérito do Incidente oposto perante o orgão a quo, tampouco recurso dirigido a este Tribunal Superior, eventualmente interposto contra decisão interlocutória proferida. A pretensão de conhecimento originário é patente, portanto.
+Ocorre que o art. 105 da Constituição Federal apresenta a lista de competência originária do Superior Tribunal de Justiça, da qual não constam pleitos da espécie deste que ora se analisa.
+Não se vislumbra in casu qualquer das hipóteses de conhecimento originário ou recursal desta Corte, de modo que a pretensão é manifestamente incabível.
+Por todo o exposto, deixo de conhecer do incidente, indeferindo liminarmente o pleito.
+Publique-se.
+Intimem-se.
