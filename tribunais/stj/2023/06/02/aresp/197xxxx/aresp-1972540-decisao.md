@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BEUCON CONSTRUTORA E INCORPORADORA LTDA., desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 588):
+"Empreitada Prestação de contas. Primeira fase. Ação Julgada parcialmente procedente.
+Apelação da autora. Alegada extrapolação dos limites da ação: não acolhimento. Laudo pericial que apurou o percentual dos serviços realizados pela autora para o fim de averiguar sua comparação com as contas apresentadas.
+Discussão acerca dos motivos que levaram ao descumprimento parcial do contrato que excede os limites desta demanda. Termo inicial dos Juros de mora fixado a partir da citação. Exegese do art. 240 do CPC. Sentença parcialmente reformada Recurso provido em parte."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 607/612).
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 1.022 do CPC/2015, 396 e 397 do Código Civil e 918 do CPC/1973. Além de negativa de prestação jurisdicional, sustenta que, não havendo fato ou omissão imputável ao devedor, não incorre ela em mora. Desse modo, como houve saldo credor reconhecido na sentença, a ser pago pela autora da ação, os juros moratórios devem incidir a partir do trânsito em julgado da r. sentença, ou, pelo menos, desde a data de publicação da r. sentença constitutiva do direito.
+É o relatório. Decido.
+Não prospera a alegada ofensa ao art. 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Na hipótese, o eg. Tribunal de origem reformou em parte a sentença para fixar o termo inicial dos juros de mora como sendo a data da citação.
+Ocorre que, no caso, a parte autora que foi condenada na ação de prestação de contas, eis que reconhecida a existência de saldo credor, em favor da ré, no valor de R$ 143.516,63. Nessa situação, não é a citação o termo adequado para a incidência dos juros de mora, porque até a data de prolação da r. sentença inexistir obrigação líquida e certa que pudesse ser atribuída à parte autora.
+Já decidiu esta Corte que sentença proferida em ação de prestação de contas que reconhece crédito em favor de uma das partes tem natureza condenatória. No que toca à fixação dos juros moratórios, já decidiu esta Corte que são devidos desde o dia em que deveria o condenado repassar os valores ao credor. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. SALDO CREDOR. HONORÁRIOS DE SUCUMBÊNCIA. SÚMULA N. 7-STJ. JUROS DE MORA. PEDIDO. AUSÊNCIA. SÚMULA N. 254-STF.
+IMPROVIMENTO."
+(AgRg no Ag n. 1.152.602/RS, relator Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 22/9/2009, DJe de 19/10/2009)
+"PROCESSO CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTAS PRESTADAS FORA DO PRAZO ESTABELECIDO PELO ART. 915, § 2º, DO CPC. VÍCIO NA INTIMAÇÃO. NULIDADE RELATIVA. NECESSIDADE DE IMPUGNAÇÃO PELA PARTE PREJUDICADA NA PRIMEIRA OCASIÃO EM QUE SE MANIFESTAR NOS AUTOS. CIÊNCIA INEQUÍVOCA DO ATO PROCESSUAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não se conhece do recurso especial quanto à não-fluência do prazo para prestação de contas, pois não houve prequestionamento, conforme óbice da Súmula 211/STJ.
+2. A existência de irregularidades na intimação implica nulidade relativa, que deve ser suscitada na primeira oportunidade em que a parte prejudicada se manifestar nos autos, sob pena de preclusão.
+3. O comparecimento do réu aos autos, que apresentou extemporaneamente as contas exigidas pelo juízo, demonstra que a intimação, realizada em nome do procurador, cumpriu sua finalidade de dar-lhe ciência acerca da determinação judicial. Deve incidir, por conseguinte, o princípio da instrumentalidade das formas, previsto no art. 244 do CPC.
+4. Não é necessária a intimação pessoal da ré, na segunda fase do procedimento de prestação de contas, ante a ausência de amparo legal, devendo igualmente ser aceita a intimação de seu causídico, desde que devidamente representado no feito.
+5. Correta a deliberação do Tribunal, considerando que as contas foram intempestivas e, com isso, na forma do art. 915, § 3º, do CPC, "..em caso contrário, apresentá-las-á o autor dentro em 10 (dez) dias, sendo as contas julgadas segundo o prudente arbítrio do juiz, que poderá determinar, se necessário, a realização do exame pericial contábil".
+6. Como a sentença que fixou o saldo a favor dos autores tem natureza condenatória e força de título executivo, restará ao réu, no momento oportuno e se for o caso, apresentar sua possível impugnação aos valores cobrados em excesso, no âmbito do processo executivo, observada sempre a coisa julgada. 7. Recurso especial não conhecido."
+(REsp n. 961.439/CE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/04/2009)
+"PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. MANDATO. ADVOGADO. OBRIGATORIEDADE. SALDO CREDOR APURADO NA SEGUNDA FASE. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. INCIDÊNCIA ARTS. 1.301 E 1.303, DO CÓDIGO CIVIL/1916. SÚMULA 43/STJ.
+- A prestação de contas é inerente ao instituto do mandato, sendo obrigação do mandatário prevista no Código Civil e na Lei n.º 8.906/94 (Estatuto da Advocacia).
+- Comete ilícitos contratuais o mandatário que não presta contas ao mandante e não lhe entrega o que recebeu em nome desse. Exegese dos arts. 1.301 e 1.303, ambos do Código Civil/1916.
+- Se o advogado não presta contas ao cliente por quantias recebidas no processo e é condenado em ação de prestação de contas, a correção monetária e os juros moratórios sobre o saldo credor devem incidir a partir do momento que deveria ter repassado ao cliente os valores recebidos durante o cumprimento do mandato. Incidência da Súmula n.º 43 do STJ e do art. 1.303 do Código Civil/1916.
+- Incide correção monetária em todos os débitos judiciais, inclusive sobre o saldo credor apurado em sentença da segunda fase de ação de prestação de contas.
+Recurso especial não conhecido."
+(REsp 687.101/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 02/05/2006)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de fixar como termo inicial dos juros de mora a data de prolação da sentença.
+Publique-se.
