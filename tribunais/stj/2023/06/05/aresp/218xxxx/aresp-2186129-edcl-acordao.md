@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por BANCO BRADESCO S/A contra acórdão que negou provimento ao agravo interno no agravo em recurso especial que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A REALIZAÇÃO DE PROVA PERICIAL PARA APURAÇÃO DA QUANTIA DEVIDA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cumprimento de sentença em que foi proferida decisão determinando a realização de prova pericial para apuração da quantia devida.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno no agravo em recurso especial não provido.
+Em suas razões, aponta o embargante supostas contradição e omissão no acórdão embargado. Sustenta que: i) foi considerado trecho do acórdão proferido na origem que tão somente analisava as decisões e peças processuais e, mesmo assim, o recurso especial não foi conhecido pela aplicação do óbice da Súmula 7/STJ; ii) não houve manifestação quanto ao pedido do banco de ver reconhecida, ainda que sob o poder geral de cautela conferido ao magistrado, a possibilidade de correção de erros crassos nos cálculos até então apresentados, mesmo porque o erro de cálculo não está sujeito a preclusão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1 - Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2 - Embargos de declaração no agravo interno no agravo em recurso especial rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado foi claro quanto a manter a ausência de negativa de prestação jurisdicional e a aplicação das Súmulas 7 e 211/STJ, conforme se depreende dos seguintes trechos:
+O agravante alega que o acórdão recorrido foi omisso ao deixar de analisar especificamente as teses de que a Contadoria Judicial não pode ser utilizada em substituição ao trabalho que a lei impõe seja realizado por perito judicial e de que o juiz tem o dever e a faculdade de exigir a produção de todos os meios de prova para buscar a verdade real, evitando o enriquecimento ilícito e entregando a melhor jurisdição possível.
+Entretanto, o TJ/MS foi claro em suas conclusões: i) o objetivo é apenas rediscutir e modificar matéria já julgada e atingida pelo manto da coisa julgada (e-STJ fl. 40); ii) desnecessária a realização da prova pericial, porquanto os argumentos do agravante para impugnar o cumprimento de sentença baseiam-se apenas em rediscussão de matéria já transitada em julgado, o que não é possível (e-STJ fl. 40); iii) a quantia devida necessita apenas de meros cálculos aritméticos, os quais podem ser realizados pela Contadoria Judicial, tendo em vista a divergência apresentada e valor do débito (e-STJ fl. 40).
+(..)
+Ademais, os arts. 480, 494, I, e 524, §2º, do CPC/15, não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, (..)
+Saliente-se, outrossim, que a ausência de prequestionamento dos dispositivos legais indicados pelo agravante não leva ao imediato provimento do recurso especial por ofensa aos arts. 489 e 1.022 do CPC/15, quando o Tribunal de origem fundamenta a decisão suficientemente para decidir de forma integral a controvérsia, como ocorreu na hipótese dos autos.
+(..)
+Permanece, ainda, a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à desnecessidade de realização da prova pericial demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende do seguinte trecho:
+Nesse prisma, tem-se que tais razões visam apenas rediscutir e modificar matéria já julgada e atingida pelo manto da coisa julgada, conforme entendeu o julgador singelo no seguinte trecho da decisão agravada:
+"Conforme posto na manifestação da parte exequente/impugnada (f.2252/2263), não serão analisadas insurgências contra o título executivo judicial constituído nos autos, sendo que tais alegações estão sendo apreciadas na ação rescisória n.1413678-29.2019.8.12.0000, em trâmite na 2ª Seção Cível do TJMS (f.2194/2195 e 2196/2233), estando sob o manto da coisa julgada. A impugnação será analisada sob o prisma da alegação de excesso à execução, sem adentrar/desconstituir a sentença que apurou um crédito, exclusivamente relacionada à correção monetária e juros de mora, na forma do título exequendo e a rescisão do título é matéria em análise pelo TJMS em sede de ação rescisória. " (f. 2269)
+Entretanto, o juízo a quo determinou a realização da prova pericial, sob o fundamento de que esta se faz necessária para, diante dos argumentos do impugnante, aferir se há ou não excesso de execução, respeitados os parâmetros estabelecidos no título executivo judicial.
+Entende-se por desnecessária referida prova no presente caso, haja vista que, como visto, os argumentos do agravado para impugnar o cumprimento de sentença baseiam-se apenas em rediscussão de matéria já transitada em julgado, o que não é possível.
+Ademais, a sentença declarou crédito em face do Agravante/Exequente no valor de R$ 6.968,677,75, valor que deverá ser atualizado e com juros até abril de 2013, sendo que posteriormente deverá ser aplicada correções pelo IGPM e juros de 12% ao ano, capitalizados anualmente.
+Logo, o quantum devido necessita apenas de meros cálculos aritméticos, os quais podem ser realizados pela Contadoria Judicial, tendo em vista a divergência apresentada e valor do débito.
+Na verdade, revela-se inequívoca a pretensão do embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Por fim, cabe destacar que a contradição autorizativa do manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no agravo interno no agravo em recurso especial.
