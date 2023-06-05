@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pela EMAE - EMPRESA METROPOLITANA DE AGUAS E ENERGIA SA contra a decisão em que o então relator, Ministro Napoleão Nunes Maia Filho, não conheceu do recurso especial com fundamento na incidência da Súmula 7/STJ e, na parte conhecida, negou-lhe provimento por inexistência de violação do art. 1.022 do CPC/2015.
+Em suas razões, a agravante alega que: (a) há violação do art. 1.022 do CPC/2015, constante em omissão sobre ponto essencial ao deslinde da controvérsia, em especial acerca do impositivo reconhecimento da responsabilidade subjetiva em matéria de infração administrativa ambiental; (b) as pretensões recursais não ensejam reexame dos autos, dado que questionam apenas a aplicação de regras jurídicas a aspectos fáticos incontroversos; (c) havendo o reconhecimento da responsabilidade subjetiva, dever-se-ia concluir pela inexistência do dever de indenizar da parte recorrente, ante a ausência de comprovação de dolo ou culpa, tudo corroborado inclusive pelo laudo pericial, em que se atestou que as suas atividades contribuíram para a morte dos peixes do rio Tietê.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO AMBIENTAL. RESPONSABILIDADE. NEXO CAUSAL. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não há ofensa ao art. 1.022 do CPC/2015 quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito dos pontos relevantes para a solução da controvérsia, exaurindo de forma satisfatória a questão deduzida, ainda que não haja citação literal de todas as teses defensivas ou dispositivos de lei.
+2. Hipótese em que o acórdão recorrido apontou que o laudo pericial produzido tem caráter genérico, não afastando o nexo de causalidade, bem como que houve redução dos níveis de oxigênio na água e aumento da presença de lodo, reduzindo drasticamente a qualidade das águas e matando os peixes que habitavam o rio, situações que corroboram a manutenção inequívoca da Súmula 7/STJ.
+3. A revaloração pressupõe a existência inequívoca de fatos incontroversos e suficientes à análise da irresignação recursal, o que não ocorreu no presente caso, visto que não há qualquer apontamento de qual seria a possível premissa incontroversa apta a ensejar o pleito da parte.
+4. Agravo interno a que se nega provimento.
+VOTO
+Compulsando os autos, observo que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não vislumbro razões para reformar a decisão recorrida.
+Isso porque inexiste a violação do art. 1.022 do CPC/2015 apontada, pois a prestação jurisdicional foi dada na medida da pretensão deduzida.
+Conforme se depreende da análise do acórdão recorrido, sobretudo da fl. 832, há um exame exauriente da questão quando o Tribunal de origem menciona que "a análise dos elementos de prova evidencia a relação de causa e efeito entre a operação hidráulica realizada pelo "EMAE" nos dias citados e a mortandade de peixes constatada pela agência ambiental", ficando clara a adoção da responsabilidade objetiva pelo fato de que o órgão julgador se preocupou em estabelecer o nexo de causalidade, e não o elemento subjetivo.
+É importante destacar que julgamento diverso do pretendido, como no presente caso, não implica ofensa aos dispositivos de lei invocados. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+No mais, conforme consignado na decisão agravada, o acórdão recorrido apontou que o laudo pericial produzido tem caráter genérico, não afastando o nexo de causalidade, bem como que houve redução dos níveis de oxigênio na água e aumento da presença de lodo, reduzindo drasticamente a qualidade das águas e matando os peixes que habitavam o rio, situações que corroboram a manutenção inequívoca da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DANO AMBIENTAL. RESPONSABILIDADE. SÚMULA N. 7/STJ. CONSOLIDAÇÃO DA SITUAÇÃO. DIREITO ADQUIRIDO. INEXISTÊNCIA. TEORIA DO FATO CONSUMADO. INAPLICABILIDADE. INOVAÇÃO RECURSAL. ALEGAÇÃO DE CONTRADIÇÃO NA SENTENÇA. IMPOSSIBILIDADE DE ANÁLISE. TESE NÃO VENTILADA NAS INSTÂNCIAS ORDINÁRIAS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Rever o entendimento alcançado pelo Tribunal a quo, quanto à comprovação da responsabilidade pela degradação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+(..)
+VII - Agravo Interno improvido. (AgInt nos EDcl no REsp. 1.734.350/SP, relatora Ministra Regina Helena Costa, DJe 22/8/2018.)
+Vale ressaltar que a revaloração pressupõe a existência inequív oca de fatos incontroversos e suficientes à análise da irresignação recursal, o que não ocorreu no presente caso, visto que não há qualquer apontamento de qual seria a possível premissa incontroversa apta a ensejar o pleito da parte.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição de sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado, como no caso em exame.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
