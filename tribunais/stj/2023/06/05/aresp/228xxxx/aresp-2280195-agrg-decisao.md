@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por GUSTAVO MATTHEUS DA SILVA SENA, contra decisão monocrática da lavra da MINISTRA PRESIDENTE desta Corte que não conheceu do agravo por ausência de impugnação de todos os fundamentos da decisão de admissibilidade.
+Em seu agravo regimental, a parte recorrente alega que houve impugnação específica de todos os fundamentos da decisão agravada.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Agrava-se da decisão que negou seguimento ao recurso especial interposto, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ fl. 42):
+EMENTA - AGRAVO REGIMENTAL. REVISÃO CRIMINAL. INICIAL. INDEFERIMENTO. FATO NOVO. AUSÊNCIA. IMPOSSIBILIDADE. Não existindo elemento apto a modificar a decisão que indeferiu liminarmente a petição inicial, impõe-se sua manutenção. Agravo conhecido e desprovido.
+No recurso especial, a defesa aponta violação do art. 59 do Código Penal, e dos arts. 33, § 4º e 40, inciso V, ambos da Lei n. 1.343/2006. Sustenta: (i) a pena-base imposta ao recorrente não observou os princípios da proporcionalidade e razoabilidade; (ii) falta de fundamentação idônea para aplicação da causa de aumento no patamar máximo; e (iii) aplicação da minorante do tráfico privilegiado considerando que a reincidência do apenado não é específica.
+Contrarrazões às e-STJ fls. 70/78.
+O recurso teve seu seguimento negado pelo Tribunal de origem por incidência de óbices prescritos em Súmulas desta Corte Superior.
+No agravo, o recorrente insiste na presença dos pressupostos de admissibilidade do recurso especial.
+O Ministério Público Federal se manifestou, às fls. 130/132, pelo não conhecimento do recurso.
+É o relatório. Decido.
+O agravo é cabível, tempestivo, e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+No que diz respeito à alegada violação do art. 59 do Código Penal, e dos arts. 33, § 4º e 40, inciso V, ambos da Lei n. 11.343/2006, observo que não houve o prequestionamento da matéria. Com efeito, pela leitura do acórdão verifica-se que a matéria em nenhum momento foi analisada pelo Tribunal de origem.
+No caso, o aresto recorrido cuidou da análise da revisão criminal, que foi liminarmente indeferida, ao fundamento de que "a revisão criminal não pode ser utilizada como terceiro recurso, sob pena de se eternizar a discussão das lides penais, gerando, assim, insegurança jurídica" (e-STJ fl. 18), destacando que não foram apresentados novos fatos aptos a autorizar a revisão pleiteada.
+Vale lembrar que a revisão criminal tem fundamentação vinculada, estabelecida no art. 621 do Código de Processo Penal, e não serve para rediscutir matéria já julgada, como se fosse um recurso extemporâneo.
+Nesse contexto, não é possível o exame das questões suscitadas no recurso especial pelo Superior Tribunal de Justiça, haja vista a manifesta ausência de prequestionamento da tese jurídica. Incide, na hipótese, o verbete n. 282 do Supremo Tribunal Federal, o qual disciplina ser "inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Como é de conhecimento, "para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgRg no AREsp n. 454.427/SP, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 19/2/2015).
+Ademais, o prequestionamento "constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg no HC n. 413.921/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/10/2017, DJe 18/10/2017).
+Ante o exposto, reconsiderando a decisão de e-STJ fls. 108/109, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
