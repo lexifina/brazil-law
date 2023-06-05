@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interno interposto por LUCIA MARIA HERRERA DE SOUZA contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 709):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+Nas razões recursais, alega a agravante que rebateu o único fundamento da decisão de inadmissibilidade do recurso especial proferida pelo TJRJ, consistente na demonstração da divergência jurisprudencial, nos moldes legais.
+Pleiteia, assim, a reconsideração da decisão agravada, a fim de que seja reconhecida a ocorrência da prescrição intercorrente.
+Impugnação apresentada às fls. 727-735 (e-STJ).
+Em novo exame da questão, após detida análise dos argumentos expendidos, reconsidero a decisão agravada, com base no art. 259, § 6º, do RISTJ, e passo a nova apreciação do mérito recursal.
+Na origem, a ação de execução proposta por Castello Indústria e Comércio S.A. contra Lucia Maria Herrera de Souza foi extinta, em razão do reconhecimento da prescrição intercorrente, com fulcro no art. 924, V, do CPC/2015.
+Interpostos recursos de apelação por ambas as partes, a Décima Nona Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro deu provimento ao apelo do autor, nos termos da ementa abaixo colacionada (e-STJ, fl. 461):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO POR TÍTULO EXECUTIVO EXTRAJUDICIAL. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO NO CURSO DO FEITO, POR TER O EXEQUENTE PERMANECIDO INERTE. DECRETAÇÃO DA PRESCRIÇÃO SEM PRÉVIA INTIMAÇÃO DO EXEQUENTE ERROR IN PROCEDENDO. PARA O RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE, FAZ-SE MISTER A PRÉVIA INTIMAÇÃO PESSOAL DO EXEQUENTE, NOS TERMOS DOS ARTIGOS 10 E 487, § ÚNICO DO CPC. ANULAÇÃO DA SENTENÇA PARA DETERMINAR O PROSSEGUIMENTO DO FEITO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE TRIBUNAL DE JUSTIÇA. DÁ-SE PROVIMENTO AO RECURSO DA PARTE AUTORA. RECURSO ADESIVO DA RÉ PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 488-492).
+Nas razões do apelo especial, Lucia Maria Herrera de Souza indicou divergência jurisprudencial, sob a assertiva de que não há necessidade de intimação pessoal do exequente para dar prosseguimento ao feito, devendo ser reconhecida a ocorrência da prescrição.
+Contrarrazões às fls. 643-649 (e-STJ).
+Juízo negativo de admissibilidade (e-STJ, fls. 651-654).
+Brevemente relatado, decido.
+O Tribunal de origem, ao reformar a sentença, concluiu pela necessidade de intimação pessoal do credor para dar andamento ao feito, sob os seguintes fundamentos (e-STJ, fls. 465-466, sem grifo no original):
+Cuida-se de execução de título extrajudicial ajuizada pelo apelante em face da executada, alegando em síntese que os mesmos restaram inadimplentes com o pagamento dos alugueres e seus acessórios.
+O magistrado destacou na sentença que o feito permaneceu paralisado em cartório, entendendo que a parte exequente não teria demonstrado afinco na perseguição de seu crédito.
+Impende ressaltar que a extinção da execução está regulada no artigo 924 do Código de Processo Civil, sendo certo que a execução somente pode ser extinta na hipótese de satisfação da obrigação, se o devedor obtiver, por transação ou por qualquer outro meio, a remissão total da dívida, se o credor renunciar ao crédito, ou, por fim, se ocorrer a prescrição intercorrente.
+( )
+Ocorre que, para que haja o reconhecimento da prescrição intercorrente, faz-se mister a prévia intimação pessoal do exequente para dar andamento à execução, além de ter permanecido inerte por prazo superior ao de prescrição do direito material, conforme exemplos jurisprudenciais a seguir mencionados ( ).
+In casu, a parte autora não foi intimada pessoalmente para dar andamento ao feito, motivo pelo qual, forçoso concluir pela ocorrência de error in procedendo, sendo necessária a anulação da sentença.
+Isto posto, VOTO NO SENTIDO DE DAR PROVIMENTO AO RECURSO, para anular a sentença e determinar o prosseguimento do feito.
+Com efeito, a Segunda Seção desta Corte, por ocasião do julgamento do Incidente de Assunção de Competência no REsp n. 1.604.412/SC, de relatoria deste signatário, em julgamento concluído em 27/6/2018, DJe de 22/8/2018, firmou entendimento no sentido de ser desnecessária a intimação prévia do credor para dar andamento ao processo, em caso de eventual reconhecimento, de ofício, da prescrição intercorrente, cabendo ao julgador, em respeito ao contraditório, assegurar-lhe oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição, mas não para promover extemporaneamente o andamento do processo.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. AUSÊNCIA DE PREQUESTIONAMENTO. PRESCRIÇÃO DE CRÉDITOS TRIBUTÁRIOS. INTIMAÇÃO DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. DESNECESSIDADE.
+(..)
+IV - Ademais, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que ocorre a prescrição intercorrente quando o exequente permanecer inerte por prazo superior ao da prescrição do direito material vindicado, sendo desnecessária a sua intimação pessoal prévia para dar andamento ao feito, bastando que seja respeitado o princípio do contraditório. In verbis: EDcl no REsp n. 1.816.373/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/11/2019, DJe 12/5/2020 e AgInt nos EDcl no AREsp n. 846.006/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 28/9/2020, DJe 01/10/2020.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.360.596/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. EXERCÍCIO DO CONTRADITÓRIO. NECESSIDADE. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL 1.604.412/SC. AGRAVO INTERNO IMPROVIDO.
+1. Consoante o entendimento consolidado pela Segunda Seção desta Corte, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002" (Incidente de Assunção de Competência no REsp 1.604.412/SC, Rel. Ministro Marco Aurélio Bellizze, julgado em 27/06/2018, DJe de 22/08/2018).
+2. A prescrição intercorrente independe de intimação pessoal para dar andamento ao processo.
+3. Mesmo sendo possível o reconhecimento de ofício da prescrição intercorrente, é necessário o prévio contraditório, não para que a parte promova, extemporaneamente, o andamento do processo, mas para assegurar a oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1.712.017/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 18/02/2020, DJe 12/03/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO PESSOAL. NOVA ORIENTAÇÃO. DESNECESSIDADE. IAC NO REsp 1.604.412/SC. EFEITOS. MODULAÇÃO. INEXISTÊNCIA. TESE. APLICAÇÃO IMEDIATA. NÃO PROVIMENTO.
+1. A Segunda Seção desta Corte firmou entendimento de que não há necessidade de intimação pessoal do exequente para que tenha curso a prescrição intercorrente.
+2. Entendimento que tem aplicação imediata, porquanto não houve modulação de efeitos.
+3. Agravo interno a que se nega provimento (AgInt no REsp 1.769.992/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/09/2019, DJe 24/09/2019).
+Na hipótese dos autos, conforme consta da sentença proferida pelo magistrado de primeiro grau (e-STJ, fl. 249):
+(..) a execução ficou paralizada por mais de 5 anos sem a manifestação da parte exequente, apesar de devidamente intimada em 18/11/2009, conforme index 185.
+Esta manifestou-se apenas em 27/01/2015, conforme index 188.
+Assim, considerando que o prazo prescricional para o ajuizamento seria de 5 anos, nos termos do art. 2.028 do Código Civil em vigor c/c o art. 178, §10, IV da Lei nº 3.071/1916, acolho a alegação de prescrição intercorrente e extingo a execução nos termos do art. 924, V do CPC.
+Dessa forma, a decisão recorrida não refletiu o entendimento desta Corte, razão pela qual merece reforma.
+Verifica-se, entretanto, que, no que se refere à prescrição intercorrente, além da alegação de falta de intimação pessoal, a agravada também sustentou que "tanto iniciando-se o prazo de 1 (um) ano para início da contagem do prazo da prescrição intercorrente em 18/11/2009 (index 185) quanto em 11/08/2010 (index 187), não estava prescrito o direito do Exequente-Apelante prosseguir com a presente Execução (no primeiro caso o prazo terminaria em 18/11/2015 e no segundo em 11/08/2016). Isto posto, tendo a Exequente-Apelante peticionado em 27/01/2015, não estava, em nenhum dos 2 (dois) casos de contagem acima expostos, configurada a prescrição intercorrente  .. " (e-STJ, fls. 352-353), argumento que não foi apreciado pelo acórdão recorrido (e-STJ, fls. 461-469).
+Assim, deve o processo retornar à origem, para que, superada a exigência de intimação pessoal, o Tribunal local prossiga no exame da apelação da agravada, na forma que entender de direito.
+Diante do exposto, conheço do agravo, mediante juízo de reconsideração, para dar provimento ao recurso especial, a fim de determinar o retorno dos autos à origem para que prossiga no julgamento da apelação, nos termos da fundamentação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. RECONSIDERAÇÃO DA DECISÃO ANTERIOR. NOVA ANÁLISE DO RECURSO. PRESCRIÇÃO INTERCORRENTE. NÃO NECESSIDADE DE INTIMAÇÃO DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
