@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão da Quarta Turma assim ementado (e-STJ fl. 450):
+AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCURSÃO NA ANÁLISE DE CLÁUSULAS CONTRATUAIS PACTUADAS ENTRE AS PARTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+A parte embargante afirma que houve negativa de prestação jurisdicional na decisão embargada. Alega que não cabe a incidência das Súmulas 5 e 7/STJ no caso. Sustenta que "questiona a completa omissão quanto aos demais 4 pontos, pertinentes ao Excesso de Execução (Sendo eles: Pela inclusão de todas as parcelas do contrato e não apenas aquelas efetivamente pagas; Pelo erro no termo a quo da correção monetária; Pelo erro no termo a quo dos juros de mora; Quanto aos honorários advocatícios calculados sobre os valores excedentes dispostos nos demais tópicos)" (fl. 463).
+Não foi apresentada impugnação pela parte requerida (fl. 468 e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCURSÃO NA ANÁLISE DE CLÁUSULAS CONTRATUAIS PACTUADAS ENTRE AS PARTES. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. OMISSÃO. FALTA DE COMPROVAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição, vícios inexistentes no acórdão embargado.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): Não se verifica a ocorrência de omissão, contradição, nem obscuridade.
+O julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela parte embargante, circunstância que não eiva o acórdão de nulidade.
+O Tribunal estadual enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Nesse sentido, verifico que a Corte local decidiu a questão tratada na presente demanda de forma fundamentada, conforme se depreende da leitura do seguinte trecho (fls. 326-327 e-STJ):
+Não obstante os argumentos expendidos pelo agravante, a insurgência não merece prosperar. Isso porque o agravante não trouxe argumentos novos capazes de alterar o entendimento firmado na decisão agravada.
+É que ao contrário do que sustenta o agravante em suas razões recursais, quando do julgamento do agravo de instrumento, todas as questões relevantes ao seu deslinde foram amplamente pesadas e sopesadas por este relator, que, naquela oportunidade, entendeu que o "  o agravante não logrou êxito em demonstrar a probabilidade do direito alegado (fumus boni iuris), razão pela qual não vislumbro a presença dos pressupostos autorizadores da concessão de efeito suspensivo ao presente agravo de instrumento, conforme previsão do art. 300 do CPC-201  .. " (decisão ID 2623749, p. 04, parágrafo 01).
+Além disso, a decisão atacada apresenta-se devidamente calcado nos fatos apresentados e na jurisprudência dos tribunais pátrios, mormente deste Eg. TJMA.
+Colho trecho do julgado:
+"  Como anteriormente dito, o ponto nevrálgico da presente lide gira em torno da necessidade ou não de liquidação por arbitramento no cumprimento de sentença.
+A decisão a quo agravada rejeitou a impugnação ao cumprimento de sentença, declarando a desnecessidade de liquidação de sentença, uma vez que a sentença condenou pagamento de valor que se pode determinar por meio da realização de simples cálculo.
+Ao ser analisado os autos, verifiquei a presença de recibos das prestações pagas pelo ora agravado, não se exigindo, assim, a liquidação por arbitramento, além disso, a existência de trânsito em julgado de decisão monocrática, a qual foi considerada como desnecessária a liquidação de sentença.
+Nesse sentido, o posicionamento do E. STJ e desta E. Corte Estadual, verbis:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. FORMA DE LIQUIDAÇÃO. ALTERAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. INEXISTÊNCIA. SÚMULA Nº 344/STJ. ELABORAÇÃO DE CÁLCULOS ARITMÉTICOS. SUFICIÊNCIA. SÚMULA Nº 83/STJ.
+1. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, bastando ao credor instruir o pedido com a memória discriminada e atualizada do cálculo. Ademais, não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos, mesmo porque a natureza do objeto do procedimento não o exige.
+2. Caso se mostrar mais adequada à apuração do quantum debeatur, pode- se optar pelo cumprimento de sentença já por cálculos aritméticos sem se proceder à passagem pela fase de liquidação, sobretudo porque, consoante jurisprudência pacífica deste Tribunal Superior. Súmula nº 344/STJ.
+3. Incide, na espécie, a Súmula nº 83/STJ.
+4. Agravo regimental não provido.
+(STJ, AgRg no AREsp 805.648/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+(..).
+Assim, reafirmo que o agravante não logrou êxito em demonstrar a probabilidade do direito alegado (fumus boni iuris), razão pela qual não vislumbro a presença dos pressupostos autorizadores da concessão de efeito suspensivo ao presente agravo de instrumento, conforme previsão do art. 300 do CPC-2015.
+Assim, observo que não se viabiliza o recurso especial pela indicada ofensa ao art. 1.022 do CPC/15, uma vez que, no presente caso, a Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção, com base nos elementos de prova que entendeu pertinentes. Se a decisão não correspondeu, no entanto, à expectativa da parte, não deve, por isso, ser imputado vício ao julgado.
+A propósito, nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ- FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. Revela-se inviável alterar o entendimento das instâncias ordinárias que, com apoio nos elementos de prova, concluíram pela inexistência de elementos capazes de desconstituir o acórdão rescindendo. Para tanto, foram considerados a existência de má-fé na posse do agravante e o fato de que as benfeitorias realizadas na área rural são úteis e não necessárias sendo, portanto, incabível a indenização pleiteada, ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.608.804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20.10.2016, DJe 27.10.2016.)
+Com efeito, anoto que o Tribunal estadual entendeu que ficou comprovada a presença de recibos das prestações pagas pelo ora agravado, reafirmando essa Corte que o agravante não logrou êxito em demonstrar a probabilidade do seu direito alegado (fumus boni iuris). Assim, a desconstituição das conclusões do acórdão recorrido, na forma pretendida, demandaria o exame do acervo fático e a análise das cláusulas contratuais celebradas entre as partes, procedimento que, em sede de especial, encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de omissão e contradição, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 19/12/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019.)
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
