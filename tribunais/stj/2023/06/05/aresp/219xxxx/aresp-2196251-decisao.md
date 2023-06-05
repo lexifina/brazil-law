@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MFB MARFRIG FRIGORÍFICOS BRASIL S/A. contra decisão que inadmitiu recurso especial em razão da incidência da Súmula n. 211 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, em apelação, assim ementado (fl. 342):
+AÇÃO REGRESSIVA DE COBRANÇA. PARTES DESTA DEMANDA QUE FIGURARAM COMO DEVEDORAS SUBSIDIÁRIAS EM RECLAMATÓRIA TRABALHISTA FRENTE AO DEVEDOR PRINCIPAL.
+Prescrição. Matéria rejeitada e não recorrida no curso da instrução. Preclusão. Caso em que autor e ré, tomadores de serviço, foram demandados em reclamatória trabalhista, tendo-lhes sido reconhecida responsabilidade subsidiária pelos créditos inadimplidos do trabalhador durante todo o período contratual. Na hipótese, aos tomadores de serviço fora atribuída responsabilidade subsidiária frente ao devedor principal. Porém, entre os primeiros há solidariedade caso o obrigado principal não honrasse o pagamento. Execução frustrada perante o empregador. Direcionamento da ação apenas em face do Condomínio autor, que pagou a integralidade do débito. Direito de demandar em regresso contra aquele que estava coobrigado solidariamente. Inteligência do artigo 283 do Código Civil.
+DERAM PROVIMENTO À APELAÇÃO. UNÂNIME.
+Os embargos declaratórios opostos foram acolhidos, sem efeitos infringentes (fl. 364).
+Nas razões do recurso especial, a parte recorrente aponta violação do artigo 844, caput e § 3º, do CC. Suscita a restrição dos efeitos da transação às partes signatárias.
+Sustenta a ocorrência de extinção da dívida com relação aos codevedores, em razão da transação realizada.
+Defende que é indevida a cobrança quanto ao ressarcimento de débito decorrente de transação da qual não participou.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 392-399 e o recurso especial foi inadmitido na origem (fls. 402-406).
+A contraminuta ao agravo foi oferecida às fls. 431-437.
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 340-341):
+As partes que compõem os polos desta demanda foram responsabilizadas a pagar dívida trabalhista de forma subsidiária.
+Proposta a execução em face do devedor principal, o credor não logrou obter a satisfação da obrigação, tendo sido direcionada a fase de satisfação contra o Condomínio Edifício Damasco, que acabou por firmar acordo com o trabalhador credor, pondo fim à dívida trabalhista.
+Do julgamento advindo da justiça laboral constou (Evento 1 - OUT9):
+ ..
+Como se vê, a Marfrig e o Condomínio E. Damasco estavam subsidiariamente obrigados em relação ao devedor principal.
+Mas entre eles a obrigação era solidária.
+Disso resulta que não obtido a pagamento junto ao devedor principal, restou possibilitado o prosseguimento da execução contra qualquer dos demais devedores (ou ambos).
+Por conveniência processual do credor, o redirecionamento ocorreu em face da parte aqui autora, que, por acordo judicial, efetuou o pagamento total da obrigação.
+Assim, nos termos do artigo 283 do Código Civil, ao Condomínio E. Damasco cabe o direito de exigir do codevedor solidário, no caso a Marfrig, metade do que pagou nos autos da reclamatória trabalhista, pois a dívida era de ambos e só foi exigida do primeiro.
+ ..
+Nesse sentido, a empresa apelada deve ressarcir ao Condomínio Apelante o valor de R$ 63.500,00, correspondente a metade da importância paga para a quitação de obrigação judicial imposta a ambos na reclamatória trabalhista nº 0001654-12.2012.5.04.0019. Essa quantia deve ser atualizada pelo IPCA-E, desde o desembolso, com acréscimo de juros legais, estes contados da citação.
+No julgamento dos embargos aclaratórios constou o seguinte (fl. 362):
+Ainda que a embargante não tenha participado do acordo celebrado entre a autora e credor trabalhista (Evento 1 - OUT8), não se pode perder de vista que ela estava solidariamente obrigada pel a dívida.
+Logo, aquele que pagou tinha a seu favor a faculdade de exigir do coobrigado.
+Relativamente à aventada violação do art. 844, caput e §3º, do CC, suscitado como supostamente ofendido pela parte recorrente, constata-se que a questão aventada não foi objeto de análise pelo Tribunal de origem, de modo que não houve o indispensável prequestionamento, nada obstante a oposição dos embargos de declaração.
+Caso, pois, de incidência da Súmula n. 282 do STF e da Súmula n. 211 do STJ.
+Segundo reiterada jurisprudência desta Corte Superior, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal estadual, emitindo juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Desse modo, para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar contrariedade ao art. 1.022 do CPC/2015, conforme demonstram o seguintes julgados:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/15. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZATÓRIA. RESPONSABILIDADE SOLIDÁRIA ADVOGADOS. VIOLAÇÃO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. INOCORRÊNCIA DO PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO NCPC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este agravo interno ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As matérias contidas nos arts. 513 e 523 do CPC/73, apontados como violados no recurso especial, não foram enfrentadas pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração.
+2.1. Caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre o tema, o que não ocorreu. Precedentes. Aplicação da Súmula nº 211 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no REsp n. 1.814.157/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIADO POLÍTICO. INDENIZAÇÃO POR DANO MORAL. ALEGADA VIOLAÇÃO DE SÚMULA. NÃO CABIMENTO NA VIA ESPECIAL. VIOLAÇÃO DOS ARTIGOS 398 E 395 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. De acordo com o entendimento desta Corte, o enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, "a", da CF.
+3. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração, ante a incidência da Súmula n. 211/STJ. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei, o que não ocorreu no presente caso.
+4. Agravo interno não provido. (AgInt no REsp n. 1.990.435/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Assim, como a diretriz jurisprudencial do STJ tem entendido pela imprescindibilidade do exame na origem das questões suscitadas pela parte na instância especial, é oportuno ressaltar que, a fim de reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015 e, consequentemente, superar o óbice da Súmula n. 211 do STJ, como pretendido nesta via recursal, caberia à parte alegar contrariedade ao art. 1.022 do diploma processual para viabilizar o conhecimento do apelo especial, o que não ocorreu na hipótese dos autos.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. TESES E DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF E 211/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem não analisou o conteúdo normativo dos arts. 9º; 10;141; 278, § 1º; 370; 480, § 1º; 492; 346, § 1º; 349; 507; 489, § 1º,III e IV; 873, I, do Código de Processo Civil, sob a perspectiva apontada pela recorrente em suas teses. Ademais, embora interpostos embargos de declaração, a parte não apontou violação ao art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Em razão de tais deficiências, o recurso especial não pôde ser conhecido. Aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal e 211 desta Corte.
+2. "O entendimento majoritário do Supremo Tribunal Federal e o Superior Tribunal de Justiça é no sentido de que, no âmbito dos recursos excepcionais, é indispensável o prequestionamento explícito ou implícito da questão objeto do recurso extraordinário ou especial" (AgInt no REsp 1765907/RS, minha relatoria, Segunda Turma, DJe 28/06/2019).
+3. Outrossim, quanto ao prequestionamento ficto (art. 1.025 do CPC), "não basta a simples interposição de embargos de declaração, é necessária a alegação de violação ao art. 1.022 do CPC nas razões do recurso especial e o reconhecimento por esta Corte da existência de qualquer dos vícios embargáveis pelos aclaratórios; o que não ocorreu no presente caso." (AgInt no REsp n. 1.983.070/CE, minha relatoria, Segunda Turma, DJe de 30/6/2022.)
+4. Agravo interno não provido. (AgInt no AREsp n. 2.062.460/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Assim, inviável o acolhimento da pretensão recursal.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
