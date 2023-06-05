@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto por BENHUR ANTÔNIO CRUZ DE LIMA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu de seu recurso em virtude da incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+A parte agravante afirma, em síntese, ser "descabida a exigência de recolhimento em dobro, bastando a determinação para a regularizar eventual divergência no prazo de 05 (cinco) dias a teor do Artigo 1007, §2º do CPC/2015" (fl. 1.012).
+Requer a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Com impugnação às fls. 1.025/1.030.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECOLHIMENTO DO PREPARO NÃO COMPROVADO. JUNTADA DE COMPROVANTE DE AGENDAMENTO. INTIMAÇÃO PARA SANAR O VÍCIO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. PROVIMENTO NEGADO.
+1. A decisão recorrida não conheceu do recurso em decorrência da incidência da Súmula 187 do Superior Tribunal de Justiça.
+2. O despacho que determina a intimação da parte para recolher as custas em dobro não possui conteúdo decisório, sendo, portanto, irrecorrível.
+3. A jurisprudência do STJ entende que a juntada de comprovante de agendamento bancário não comprova que o preparo foi devidamente recolhido. Assim, conforme previsão expressa do art. 1.007, § 4º, do Código de Processo Civil, deve o relator intimar a parte para sanar o vício, mediante o recolhimento em dobro do valor, sob pena de deserção do recurso.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A decisão recorrida não conheceu do recurso devido à incidência da Súmula 187/STJ.
+No caso, a parte agravante, no ato da interposição do recurso, juntou apenas o comprovante de agendamento (fl. 907).
+Verificado que o recolhimento do preparo não fora comprovado, foi determinada, nesta Corte Superior, a intimação da parte para o recolhimento em dobro do preparo, nos termos do art. 1.007, § 4º, do CPC (fl. 985).
+Todavia, a parte limitou-se a interpor recurso contra o despacho de regularização (fls. 987/994).
+Conforme consignado na decisão agravada, o despacho que determina a intimação da parte para recolher as custas em dobro não possui conteúdo decisório, sendo, portanto, irrecorrível. Nesse sentido: AgInt nos EDcl na PET nos EAREsp 1.209.653/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 06/11/2019, DJe de 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 22/10/2019, DJe de 28/10/2019.
+A jurisprudência do STJ entende que a juntada de comprovante de agendamento bancário não comprova que o preparo foi devidamente recolhido. Assim, conforme previsão expressa do art. 1.007, § 4º, do CPC, deve o relator intimar a parte para sanar o vício, mediante o recolhimento em dobro do valor, sob pena de deserção do recurso. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO, POR DESERÇÃO. PREPARO. AUSÊNCIA. NECESSIDADE DE COMPROVAÇÃO DO PREPARO, NO ATO DA INTERPOSIÇÃO DO RECURSO. AGENDAMENTO DE PAGAMENTO. IRRELEV NCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. SÚMULA 187/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater. Tal compreensão restou sumariada no Enunciado Administrativo 3/STJ ("Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC").
+III. Consoante o entendimento desta Corte, "a juntada de comprovante de agendamento não constitui meio apto à comprovação de que o preparo foi efetivamente recolhido, levando, portanto, à deserção do recurso" (STJ, AgRg no AREsp 743.163/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 17/11/2015). No mesmo sentido: STJ, AgInt no AREsp 1.056.512/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/05/2017; AgInt no AREsp 882.871/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 09/05/2017; AgInt no AREsp 993.958/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 20/02/2017; AgInt no AREsp 815.036/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/03/2018; AgRg nos EDcl no AREsp 667.347/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/02/2018; AgInt nos EDcl no AREsp 1.291.369/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 02/05/2019; AgInt no AREsp 1.224.605/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 30/05/2019.
+IV. No caso, a deserção foi declarada, porquanto o Recurso Especial não foi instruído, no momento de sua interposição, com o comprovante de pagamento das custas devidas ao STJ. Constatada a irregularidade, nesta Corte, a parte recorrente foi intimada para realizar o recolhimento do preparo, em dobro, nos termos do art. 1.007, § 4º, do CPC/2015, sob pena de não conhecimento do recurso. Não tendo sido cumprida a determinação, deve ser considerado deserto o Recurso Especial. Incidência da Súmula 187/STJ.
+V. Agravo interno improvido. (AgInt no AREsp n. 2.173.936/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. RECURSO ESPECIAL. PREPARO. RECOLHIMENTO NÃO COMPROVADO POR OCASIÃO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO NÃO ATENDIDA. AGENDAMENTO DE PAGAMENTO QUE NÃO PODE SER CONSIDERADA COMO PAGAMENTO EFETIVO. DESERÇÃO. SÚMULA N.º 187 DO STJ. JUÍZO DE PRELIBAÇÃO. BIFÁSICO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Na linha dos precedentes desta Corte Superior, o agendamento de pagamento não é suficiente para comprovar o pagamento do preparo.
+3. No caso dos autos, não comprovado o recolhimento do preparo no ato de interposição do recurso e a parte, intimada para efetuar o recolhimento em dobro, deixou de cumprir a determinação nos termos regulamentares.
+3. O juízo de prelibação é bifásico, ou seja, o primeiro juízo realizado no Tribunal estadual não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana em relação àquele.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.132.627/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Ressalto, por fim, que o disposto no art. 1.007, § 2º, do CPC aplica-se somente nos casos em que há insuficiência no valor do preparo e não quando a parte não comprova o pagamento, como foi o caso dos autos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
