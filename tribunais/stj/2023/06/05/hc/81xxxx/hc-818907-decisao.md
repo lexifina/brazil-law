@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Valdemir Martins da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que negou provimento ao Recurso em Sentido Estrito n. 0028717-45.1999.8.19.0004 (fls. 13/16).
+Extrai-se dos autos que o paciente foi pronunciado pelo Juízo da 4ª Vara Criminal da comarca de São Gonçalo/RJ, nos autos da Ação Penal n. 0028717-45.1999.8.19.0004, como incurso no art. 121, § 2º, II e IV, na forma do art. 14, II, ambos do Código Penal (homicídio qualificado tentado)
+No presente writ, a defesa sustenta a ocorrência de nulidade da citação por edital, ao argumento de que não foram esgotados os meios para localização do paciente.
+Afirma que o paciente informou o seu endereço por ocasião de sua oitiva em sede policial, em 23/2/1999. Todavia, em 26/11/2002, o mandado de citação retornou negativo, tendo o oficial de justiça certificado que deixou de intimar o acusado pois não encontrou a Rua Maria Izabel (fl. 3).
+Aduz, ainda, que, em razão de erro de grafia no nome do réu, os diversos ofícios enviados tentando localizá-lo para cumprimento do mandado de prisão restaram frustrados.
+Alega que está ausente o dolo de matar e, ainda que houvesse esse dolo, de rigor o reconhecimento da desistência voluntária, de modo que o delito de homicídio deve ser desclassificado para lesão corporal.
+Requer, em liminar, o sobrestamento do feito em primeira instância até o julgamento definitivo deste writ. Ao final, busca a anulação do processo desde a citação por edital, com o consequente reconhecimento da prescrição, ou, subsidiariamente, a desclassificação do crime de tentativa de homicídio para o de lesão corporal grave, em razão da falta do dolo de matar ou ainda em razão da desistência voluntária, com a consequente remessa dos a uma das varas criminais (fl. 5).
+Liminar indeferida às fls. 19/20.
+Informações prestadas às fls. 26/28 e 29/32.
+O Ministério Público Federal, às fls. 36/41, opinou pela denegação da ordem.
+É o relatório.
+In casu, a ordem não comporta concessão.
+Por oportuno, o Magistrado de primeiro grau pronunciou o paciente nos seguintes termos (fls. 10/11 - grifo nosso):
+ ..
+No tocante à preliminar arguida pela Defesa no index 513, como bem salientado pelo MP no index 524, tal questão já foi objeto de decisão anterior, ocasião em que foi rejeitado o pleito defensivo. Nesse sentido, pelos próprios fundamentos da decisão proferida no index 410, REJEITO A PRELIMINAR novamente arguida pela Defesa no index 513, considerando que o acusado foi citado regularmente por edital à época, consoante index 78 e 80, não tendo ocorrido qualquer vício capaz de ensejar a nulidade da citação editalícia, tendo sido realizada posteriormente a citação pessoal do mesmo por ocasião do cumprimento do mandado de prisão (index 388), não se verificando qualquer prova de violação de direito constitucional do acusado.
+ ..
+Registre-se que a conduta criminosa se encontra devidamente demonstrada nos autos pela prova testemunhal, bem como pelas provas técnicas.
+A questão, desta forma, apresenta-se apta ao julgamento popular, pois, diante da probabilidade de o acusado ser o autor dos fatos em comento, os jurados devem decidir o mérito da causa.
+Ressalte-se que nenhuma das hipóteses definidas no artigo 415, do CPP restou comprovado, de modo que o presente processo não admite a absolvição sumária
+ ..
+Por sua vez, o Tribunal de origem negou provimento ao recurso em sentido estrito interposto pela defesa, afastando as alegadas nulidades, com base na seguinte fundamentação (fls. 15/16 - grifo nosso):
+ ..
+SOBRE A ANULAÇÃO DO PROCESSO
+O réu não foi encontrado no endereço que indicou na fase inquisitorial, inviabilizando, destarte, a citação pessoal. Embora NÃO haja previsão legal, o juízo de primeira instância determinou a expedição de vários ofícios (fls. 64/70 e 197/210). Como não se localizou o acusado, a citação se deu por edital (art. 361 do Código de Processo Penal). Enfim, NÃO identifico nenhum vício no chamamento do réu a juízo, logo, rejeito a pretendida "anulação do processo".
+DO MÉRITO
+Ainda que o réu pudesse efetuar outros disparos de arma de fogo, isso é IRRELEVANTE, pois, sabemos, NÃO se cogita de "desistência voluntária" quando o agente EXTERNA CONDUTA CAPAZ DE PRODUZIR O RESULTADO, no caso concreto, a MORTE (TJMG, apelação criminal 1.0317.08.094378- 8/001). Vejamos: um dos projéteis atingiu o ABDÔMEN DA VÍTIMA, REGIÃO LETAL, provocando-lhe lesão corporal que exigiu INTERVENÇÕES CIRÚRGICAS e INTERNAÇÃO HOSPITALAR, inclusive em UNIDADE DE TERAPIA INTENSIVA (Laudos e boletins de atendimento médico - fls. 16, 29, 30, 99/131, 132/178 e 189).
+Enfim, ficou indiciada a prática do homicídio descrito na denúncia. Portanto, a tese defensiva deverá ser objeto de ampla cognição em plenário, perante o Tribunal do Júri. Ante o exposto, na esteira do parecer ministerial, DESPROVI o recurso.
+ ..
+Inicialmente, consta do acórdão vergastado que o Magistrado de primeira instância promoveu a citação por edital do paciente após emitir diversos ofícios de citação pessoal que restaram frustrados, pois o oficial de justiça não logrou êxito em encontrá-lo. Nesse contexto, para anuir ao fundamento da defesa, no sentido de que não foram esgotados os meios de localização do réu, seria imprescindível o reexame dos fatos e das provas do processo, circunstância incabível na via estreita do mandamus.
+A corroborar:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA CITAÇÃO POR EDITAL. NÃO OCORRÊNCIA. EXAURIMENTO DOS MEIOS PARA LOCALIZAR O ACUSADO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, verifica-se que não há constrangimento ilegal a ser reparado na determinação de citação por edital, na medida em que exauridos os meios de localização do paciente, segundo apontado pelas instâncias ordinárias. Como cediço, é dever do acusado, ciente da ação penal, a manutenção de seus dados atualizados perante o juízo pelo qual responde ao processo.
+2. O art. 366 do CPP dispõe que, "se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312 do CPP".
+3. Ademais, inviável, nesta sede, concluir pela nulidade da citação editalícia ao argumento de que que foi determinada sem qualquer diligência na tentativa de localização do recorrente, uma vez que demandaria o revolvimento do contexto fático-probatório, já que não localizado pelo oficial de justiça no endereço declinado, ainda havia nos autos a informação de que se encontrava foragido.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 99.338/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019 - grifo nosso).
+Ademais, registra-se, por oportuno, que o processo penal adota o princípio pas de nullité sans grief, pelo qual não se declara a nulidade sem a ocorrência de prejuízo ou quando o ato processual não houver influído na apuração da verdade substancial ou na decisão da causa. E, no caso, a defesa não comprovou o prejuízo, porquanto foi realizada a citação pessoal por ocasião do cumprimento de mandado de prisão.
+Noutro ponto, verifico que a alegada ausência de animus necandi - dolo de matar -, visando à desclassificação do delito de homicídio qualificado tentado para o crime de lesão corporal, não foi objeto de debate no acórdão impugnado, o que obsta a análise por este Tribunal Superior, porquanto é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Por outro lado, o Tribunal de origem destacou que a conduta capaz de produzir o resultado morte afasta a alegação de desistência voluntária, informando que a vítima foi atingida em região letal, sendo submetida a intervenções cirúrgicas e internação em unidade de terapia intensiva.
+Nesse toar, não restando demonstrada de modo incontroverso a ocorrência de desistência voluntária, deve o acusado ser submetido ao Tribunal do Júri, pois em sentença de pronúncia, o acolhimento de tese de desistência voluntária somente é cabível se for evidente da prova dos autos (AgRg no AREsp n. 1.392.381/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/11/2019).
+No mais, estou de acordo com a manifestação ministerial de que a alteração do julgado a fim de reconhecer que o paciente não cometeu o delito que lhe foi imputado, tal como pleiteado pela defesa em sua tese de reconhecimento de "desclassificação" da conduta ou da "desistência voluntária" demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, impossível nesta via (fls. 40/41).
+Em razão do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. CITAÇÃO POR EDITAL. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE DOLO DE MATAR. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESISTÊNCIA VOLUNTÁRIA. NÃO DEMONSTRADA DE MODO INCONTROVERSO. COMPETÊNCIA DO TRIBUNAL DO JÚRI PARA DIRIMIR A QUESTÃO. DESCLASSIFICAÇÃO DO DELITO PARA LESÃO CORPORAL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCOMPATIBILIDADE COM A VIA ELEITA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ parcialmente conhecido e, nessa extensão, ordem denegada.
