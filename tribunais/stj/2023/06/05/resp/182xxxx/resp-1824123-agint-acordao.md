@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA DA CONCEIÇÃO SILVA contra a decisão monocrática desta relatoria assim ementada (e-STJ, fl. 590):
+RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE QUE FORAM DEPOSITADOS VALORES A MENOR PELO BANCO CRUZEIRO DO SUL S. A. DÉBITO CONSIGNADO EM CONTA BANCÁRIA MANTIDA PELO BANCO DO BRASIL. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA QUE REALIZOU OS DESCONTOS. REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+Nas razões do agravo interno, a insurgente alega a inaplicabilidade da Súmula n. 7/STJ, visto que a ofensa ao art. 25, § 1º, do CDC prescinde de dilação probatória; a legitimidade passiva do Banco do Brasil para responder ao processo e, consequentemente, aos efeitos da condenação; bem como a violação ao Recurso Especial n. 1.199.782/PR, o qual trata da atribuição de responsabilidade subjetiva ao Banco do Brasil S.A.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE QUE FORAM DEPOSITADOS VALORES A MENOR PELO BANCO CRUZEIRO DO SUL S.A. DÉBITO CONSIGNADO EM CONTA BANCÁRIA MANTIDA PELO BANCO DO BRASIL. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA QUE REALIZOU OS DESCONTOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No que se refere à alegada legitimidade passiva do Banco do Brasil S.A., verifica-se que alterar o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, verifica-se que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, tendo em vista que, consoante bem salientado, mostra-se cristalina a incidência da Súmula n. 7/STJ à presente demanda.
+Ora, acerca da alegada legitimidade passiva do Banco do Brasil, o Tribunal de origem pronunciou-se nos seguintes termos (e-STJ, fls. 460-461; sem grifos no original):
+Passo a análise do recurso de apelo interposto por Maria da Conceição Silva, que recorre tão somente do acolhimento da preliminar de ilegitimidade passiva do Banco do Brasil S. A.
+Nas razões recursais, a apelante sustenta que o Banco do Brasil S. A. deve ser mantido no polo passivo da demanda, vez que o Banco não apenas recebeu aporte na conta bancária da recorrente via TED, como também realizou os descontos na folha de pagamento.
+Assevera que o extrato da empresa Consignum demonstra a previsão de 72 (setenta e duas) parcelas que passaram a ser descontadas da apelante, advindos do Governo de Mato Grosso, que ingressavam na conta bancaria junto ao Banco do Brasil, devendo ser reconhecida a responsabilidade solidária entre as instituições bancárias, decorrente da falha a prestação do serviço do Banco por não verificar se os descontos solicitados na conta da correntista era legítimo ou não.
+Em que pese a alegação da apelante, entendo que andou bem o douto magistrado ao considerar que o Banco do Brasil não é parte legitima para figurar no polo passivo da demanda, já que a conta bancária foi indicada pela própria recorrente para o desconto em folha, não havendo possibilidade de atribuir responsabilidade, já que todos os descontos foram realizados pelo Banco Cruzeiro, vejamos:
+"Ou seja, apenas e tão somente é legitimo para figurar no polo passivo da demanda o Banco Cruzeiro do Sul S/A, pois, os empréstimos questionados nos autos, descontados em folha de pagamento da parte autora é em favor da referida Instituição Financeira, sendo este legítimo para figurar como demandado em ação que visa à diferença apurada do valor que não foi creditado na conta bancária da parte autora, conforme pretendido na inicial.
+O Banco do Brasil apenas procedeu com a transação das transferências dos valores para conta bancária da parte autora, qual seja, Agencia 2363-9, conta: 207.704-x, conta esta na qual são creditados os valores mensais que recebe sua pensão, conforme ela mesma afirma em sua inicial." (id. 2565489)  ..
+Pelo exposto, NÃO CONHEÇO do recurso interposto pela Massa Falida do Banco Cruzeiro do Sul S. A. e CONHEÇO e NEGO PROVIMENTO ao aviado por Maria da Conceição Silva.
+Da leitura do fragmento transcrito, portanto, depreende-se que o Tribunal de origem concluiu pela ilegitimidade passiva do Banco do Brasil, sob o fundamento de que a recorrente indicou a conta bancária para o desconto em folha, não havendo, desse modo, como responsabilizar a mencionada instituição financeira, considerando-se que os descontos foram realizados pelo Banco Cruzeiro do Sul.
+Nessa esteira, vislumbra-se que, de fato, não merece acolhida a irresignação da agravante, uma vez que alterar o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7/STJ.
+Por fim, importa reiterar que não houve nenhuma violação ao Recurso Especial n. 1.199.782/PR, submetido à sistemática dos recursos repetitivos, pois o Tribunal de origem reconheceu a responsabilidade objetiva do Banco Cruzeiro do Sul -que contratou com a agravante, sendo a ilegitimidade passiva do Banco do Brasil reconhecida por outros fundamentos, conforme se verifica do trecho supracitado, e não porque sua responsabilidade seria subjetiva, como equivocadamente tenta convencer a agravante.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
