@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno, interposto por EVANDRO LUIS RINOLDI, contra decisão, da lavra deste signatário, que não conheceu do recurso especial.
+O apelo extremo, a seu turno, fundamentado no art. 105, III, "a", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL Interposição contra sentença que julgou extinto, com fundamento no artigo 485, VI, do Código de Processo Civil, cumprimento provisório de sentença. Intimação para complementação do valor do preparo não atendida. Aplicação da penalidade de deserção, que obsta o conhecimento das razões recursais. Imposição de honorários advocatícios para a fase recursal, nos termos do artigo 85, § 1º, do Código de Processo Civil. Apelação não conhecida.
+Em suas razões de recurso especial, a recorrente apontou, em síntese, que o acórdão infringiu o art. 99, caput e parágrafo 1º, 2º e 7º todo do CPC pois deveria ter sido concedido o prazo legal para a juntada de documentos que a Câmara entendesse necessários para posterior análise do pedido de concessão do benefício da justiça gratuita, quando, sendo indeferido, deveria ser reaberto prazo para recolhimento do preparo recursal.
+Em juízo de admissibilidade, admitiu-se o recurso especial, ascendendo os autos a esta Corte.
+Em decisão monocrática, este signatário não conheceu do recurso especial ante a ausência de prequestionamento (incidência das Súmulas 282 e 356 do STF).
+Irresignada, a recorrente manejou o presente agravo interno (fls. 820/836, e-STJ), no qual busca combater os retrocitados óbices.
+Impugnação às fls. 840/846, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A tese ventilada pela recorrente não foi analisada pelo acórdão recorrido, carecendo do necessário prequestionamento. Ademais a parte sequer opôs embargos de declaração buscando pronunciamento do Tribunal a quo sobre a matéria, incidindo, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+1. Com efeito, da leitura do acórdão recorrido, verifica-se que a alegação trazida pelo recorrente não foi analisada pelo acórdão recorrido.
+Portanto, incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a tese ventilada não foi objeto do competente juízo de valor aferido pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Vale lembrar que, no caso específico, deveria o recorrente ter manejado os embargos de declaração para sanar a omissão do tribunal local e, persistindo a omissão, ter invocado, no recurso especial, violação ao art. 1022 do CPC/15, o que não ocorreu, não tendo o ora recorrente sequer opostos embargos de declaração.
+Em outros termos, tampouco cabe falar em prequestionamento ficto face ao art. 1025 do NCPC.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito, até mesmo em razão de não terem sido sequer opostos embargos de declaração.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). 2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. 3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017). 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA CUMULADA COM NULIDADE DE ATO JURÍDICO E COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. REVISÃO DO JULGADO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. É inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem. Incidência das Súmulas n. 282 e 356/STF.
+ ..
+(AgRg no AREsp 748.084/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2015, DJe 27/11/2015);
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO FEDERAL. NÃO OCORRÊNCIA. REVISÃO CRIMINAL. VIOLAÇÃO AO ART. 621, I, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
+ ..
+2. Não se conhece da arguida violação ao art. 621, I, do Código de Processo Penal, ante a ausência de prequestionamento, requisito indispensável, a teor dos enunciados sumulares 282 e 356/STF.
+3. Segundo o entendimento desta Corte, ainda que a suposta violação de lei federal tenha surgido no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão, sob pena de não se ter por satisfeito o requisito do prequestionamento.
+4. Agravo regimental improvido.
+(AgRg no REsp 1.112.981/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/11/2015, DJe 23/11/2015)
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
