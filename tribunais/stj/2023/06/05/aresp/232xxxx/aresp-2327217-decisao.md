@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ARY KOLBERG, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: embargos de terceiro opostos por VALER FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS MULTISSETORIAL, em face do agravante.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+EMBARGOS DE TERCEIRO - Constituição de alienação fiduciária sobre imóvel - Ausência de averbação premonitória, ao tempo do registro do negócio jurídico Obtenção de certidões negativas - Regularidade do negócio jurídico - Aplicação da súmula 375 do STJ Posterior registro da existência de ação de execução em face do alienante - Negocio já concluído validamente - Cessão da alienação fiduciária ao embargante - Regularidade - Ausência de fraude - Negocio que já havia se constituído licitamente - Propriedade resolúvel que restou consolidada - Inexistência de fraude a execução - Impossibilidade de penhora - Embargos julgados procedentes - Sentença reformada - Verbas sucumbenciais invertidas - Recurso provido.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial interposto em razão da ausência de demonstração da violação dos arts. 792, II, IV, e §2º, 375 e 828, §4º, do CPC/15 e dos arts. 1º, §2º e §3º, da Lei 7.433/1985, além da incidência da Súmula 7/STJ.
+ARESP de ARY KOLBERG: além de defender a violação e o prequestionamento dos arts. 792, II, IV, e §2º, 375 e 828, §4º, do CPC/15 e dos arts. 1º, §2º e §3º, da Lei 7.433/1985, bem como que haveria fraude à execução, em relação à Súmula 7/STJ o agravante limita-se a sustentar a sua inaplicabilidade, sob o argumento de que não haveria a necessidade de revolvimento de fatos para julgamento do recurso especial e que todo o fundamento fático comprovaria o consilium fraudis, de modo que bastaria a valoração da respectiva prova, com a correta aplicação do direito ao caso (e-STJ, fls. 1087/1088).
+Assim, não demonstrou, de maneira consistente, a inaplicabilidade do óbice da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
