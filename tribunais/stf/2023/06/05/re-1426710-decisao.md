@@ -1,0 +1,53 @@
+Despacho: Trata-se de recurso extraordinário interposto em face de decisão da Turma Recursal do Tribunal Regional Federal da 4ª Região, que julgou procedente pedido revisão da renda mensal inicial dos proventos de aposentadoria por incapacidade permanente da parte recorrida. (eDOC 56 – ID: 09792530)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 2º do texto constitucional e ao art. 26, § 2º, III, e § 5º, da Emenda Constitucional 103/2019. (eDOC 63 – ID: 26f51ded)
+
+    Nas razões recursais, afirma-se que o acórdão recorrido declarou incidentalmente a inconstitucionalidade do art. 26, §§ 2º e 5º, da EC 103/2019 quanto à forma de cálculo dos proventos de aposentadoria por incapacidade permanente.
+
+    Aduz-se que “cumpre observar que a existência de regras diferenciadas para cálculo da aposentadoria dependendo da causa incapacitante não é novidade trazida pela Emenda Constitucional nº 103/2019, pois há muito a Constituição Federal, ao definir a proteção dos servidores públicos vinculados ao regime próprio de previdência, já faz essa distinção”.
+
+    É o relatório.
+
+    Decido.
+
+    Verifico que foi concedido, em 20/12/2018, o benefício por incapacidade temporária para a parte recorrida. Em 07/07/2021, o INSS, se valendo das novas regras instituídas pela EC 103/2019, converteu o benefício temporário do autor em aposentadoria por incapacidade permanente. Ocorre que, com a nova forma de cálculo da EC 103/2019, houve a redução do valor do benefício e o INSS realizou a cobrança dos valores pagos a maior.
+
+    A decisão recorrida entendeu que o benefício por incapacidade permanente deve ser calculado com base em 100% do salário de contribuição do segurado, concluindo pela inconstitucionalidade das regras de cálculo instituídas pela EC 103/2019. Consta da decisão recorrida:
+
+    “1. Trata-se de recurso inominado interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra sentença (evento 11, SENT1) que julgou procedente o pedido, determinando ao INSS a revisão da RMI da aposentadoria por incapacidade permanente NB 32/634.887.499-4, devendo o coeficiente corresponder a 100% (cem por cento) do salário de benefício e declarando a inexistência de débito referente às diferenças apuradas no período de 17/12/2020 a 07/07/2021.
+
+    Alega que a sentença foi extra petita, na medida que analisou matéria que não foi objeto da inicial. Refere necessidade de perícia judicial, para fixação da DII da incapacidade permanente. Entende possível o desconto dos valores, em face da vedação de enriquecimento ilícito. Sustenta que o cálculo do benefício de aposentadoria por inaptidão permanente deve observar as regras vigentes na data da eclosão da incapacidade, na hipótese as estatuídas pela Emenda Constitucional n. 103/2019.
+
+    É o relato em apertada síntese. Decido.
+
+    2. No caso, tenho que os argumentos articulados pela parte recorrente são inábeis para a reforma do julgado, devendo a sentença ser confirmada pelos seus próprios fundamentos, nos termos do art. 46 da Lei n. 9.099/1995, combinado com o art. 1.º da Lei n. 10.259/2001. Embora no pedido tenha constado requerimento no sentido de que o valor do benefício da aposentadoria por incapacidade permanente incida apenas a partir de 07/07/2021, considerando os fatos narrados e a causa de pedir, especialmente no que se refere à impossibilidade de diminuição do valor do benefício recebido a partir de 17/12/2021, entendo necessário o enfrentamento da questão envolvendo o cálculo da RMI da aposentadoria, tal como fez o eminente Magistrado de origem.
+
+    Tanto é assim que a matéria acerca da (in)aplicabilidade do §2º do art. 26 da EC 103/2019 foi amplamente tratada em sede de contestação.
+
+    Logo, não há falar em decisão extra petita.
+
+    Em relação ao mérito, este Colegiado, ciente dos efeitos draconianos decorrentes da aplicação do inciso III do § 2.º do art. 26 da Emenda Constitucional n. 103/2019, no que tange ao cálculo da renda mensal de aposentadoria por invalidez, consolidara o seguinte entendimento:
+
+    PREVIDENCIÁRIO. CONVERSÃO DE AUXÍLIO DOENÇA EM APOSENTADORIA POR INCAPACIDADE PERMANENTE. OPÇÃO PELA MANUTENÇÃO DO BENEFÍCIO ANTERIOR. VEDAÇÃO. ATO ADMINISTRATIVO VINCULADO À LEI. EC 103/2019. TEMPUS REGIT ACTUM. INCIDÊNCIA DAS REGRAS PREVISTAS NA NOVA EMENDA CONSTITUCIONAL. APLICABILIDADE IMEDIATA DO ARTIGO 26 DA EC 103/2019. REVOGAÇÃO TÁCITA DO ARTIGO 44 DA LEI 8213/91. AFRONTA AO PRINCIPIO DA IRREDUTIBILIDADE E DA PROPORCIONALIDADE DO VALOR DO BENEFÍCIO PREVIDENCIÁRIO. MANUTENÇÃO DA RM DO AUXÍLIO-DOENÇA. 1. Sendo a concessão de benefício previdenciário ato administrativo vinculado à lei, não é possível deferir amparo diverso do previsto em lei. Preenchidos os requisitos para aposentadoria por incapacidade permanente, não tem o segurado direito de optar pela manutenção do auxílio-doença. 2. Na conversão de auxílio-doença deferido antes da EC 103/2019 em aposentadoria por incapacidade permanente constatada após o seu advento, aplicam-se as novas normas nela estabelecidas em respeito ao princípio do tempus regit actum. 3. O artigo 26 da EC 103/2019 na parte em que estabelece a nova forma de cálculo das aposentadorias deferidas após a sua entrada em vigor tem aplicabilidade imediata, sendo tacitamente revogado o artigo 44, da Lei 8213/1991. 4. Na conversão de benefício por incapacidade temporária em permanente, o STF já entendeu ser indevido cálculo de novo salário-de-benefício, optando pelo caráter continuativo do benefício. 5. Hipótese em que o benefício transformado restou fixado em valor inferior ao anterior, afrontando o princípio da irredutibilidade, previsto no artigo 194, parágrafo único, inciso IV, da Constituição Federal de 1988, bem como o princípio da proporcionalidade, ante o caráter definitivo da restrição laboral. (Recurso Cível nº 5015021-19.2019.4.04.7112, 4ª Turma Recursal, sessão de 05/07/2021, Relatora Juiza Federal Marina Vasques Duarte) 6. Manutenção do valor da RM do auxílio-doença a título de aposentadoria por incapacidade permanente, reajustado nas mesmas épocas e índices de revisão dos benefícios previdenciários. 7. Recurso do INSS parcialmente provido para garantir a manutenção do valor do auxílio-doença/auxílio por incapacidade temporária NB 31/542.864.915-8 (DIB 29/09/2010) a título de aposentadoria por incapacidade permanente (DIB 29/08/2020), reajustado nos mesmos índices e periodicidade dos benefícios previdenciários (RI n. 5004228- 75.2020.4.04.7115, Quarta Turma Recursal do RS, Rel.ª Juíza MARINA VASQUES DUARTE, julgado em 16/02/2022).
+
+    Entretanto, recentemente a Turma Regional de Uniformização da 4.ª Região uniformizou sua orientação no sentido da inconstitucionalidade do inciso III do § 2.º do art. 26 da Emenda Constitucional n. 103/2019, consoante denota a ementa a seguir colacionada:
+
+    PREVIDENCIÁRIO. APOSENTADORIA POR INCAPACIDADE PERMANENTE. DISCRIMINAÇÃO ENTRE OS COEFICIENTES DA ACIDENTÁRIA E DA NÃO ACIDENTÁRIA. CÁLCULO DA RENDA MENSAL INICIAL. INCONSTITUCIONALIDADE DO ART. 26, § 2º, III, DA EC N.º 103/2019. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DA ISONOMIA, DA RAZOABILIDADE E DA IRREDUTIBILIDADE DO VALOR DOS BENEFÍCIOS E DA PROIBIÇÃO DA PROTEÇÃO DEFICIENTE. 1. A EC 103/2019 alterou a forma de cálculo dos benefícios previdenciários. Em relação a aposentadoria por incapacidade permanente não acidentária, estabeleceu, até o advento de lei posterior, que o seu cálculo, corresponda a 60% (sessenta por cento) da média aritmética simples dos salários de contribuição contidos no período de apuração, com acréscimo de 2% (dois por cento) para cada ano de contribuição que exceder o tempo de 20 anos de contribuição para os homens ou 15 anos de contribuição para as mulheres. 2. O art. 194, parágrafo único, IV, da CF/88, garante a irredutibilidade do valor dos benefícios. Como a EC 103/19 não tratou do auxílio-doença (agora auxílio por incapacidade temporária) criou uma situação paradoxal. De fato, continua sendo aplicável o art. 61 da LBPS, cuja renda mensal inicial corresponde a 91% do salário de benefício. Desta forma, se um segurado estiver recebendo auxílio doença que for convertido em aposentadoria por incapacidade permanente, terá uma redução substancial, não fazendo sentido, do ponto de vista da proteção social, que um benefício por incapacidade temporária tenha um valor superior a um benefício por incapacidade permanente. 3. Ademais, não há motivo objetivo plausível para haver discriminação entre os coeficientes aplicáveis à aposentadoria por incapacidade permanente acidentária e não acidentária. 4. Em razão da inconstitucionalidade do inciso III do § 2º do art. 26 da EC 103/2019, esta turma delibera por fixar a seguinte tese: "O valor da renda mensal inicial (RMI) da aposentadoria por incapacidade permanente não acidentária continua sendo de 100% (cem por cento) da média aritmética simples dos salários de contribuição contidos no período básico de cálculo (PBC). Tratando-se de benefício com DIB posterior a EC 103/19, o período de apuração será de 100% do período contributivo desde a competência julho de 1994, ou desde o início da contribuição, se posterior àquela competência (5003241-81.2021.4.04.7122, Turma Regional de Uniformização da 4.ª Região, Rel. Juiz DANIEL MACHADO DA ROCHA, juntado aos autos em 12/03/2022).
+
+    (...)”. (eDOC 56 – ID: 09792530)
+
+    Destaco que a questão relativa às alterações na forma de cálculo da RMI para a concessão do benefício de aposentadoria por incapacidade permanente, introduzidas pela EC nº 103/2021, é objeto do julgamento da ADI 6.279, Rel. Min. Roberto Barroso. Verifico, portanto, que matéria do presente feito guarda pertinência com o mérito da mencionada ADI.
+
+    A decisão a ser proferida no julgamento da referida ação direta poderá repercutir no julgamento do presente recurso extraordinário, sendo necessário, portanto, a suspensão do recurso, a fim de aguardar-se o pronunciamento definitivo do STF sobre o tema. No mesmo sentido, cito as seguintes decisões monocráticas em feitos que discutem matéria similar à ora apreciada: RE 1.402.092, Rel. Min. Edson Fachin, DJe 16.05.2023; ARE 1.431.979, Rel. Min. Cármen Lúcia, DJe 04.05.2023; RE 1.429.509, Rel. Min. Dias Toffoli, DJe 20.04.2023; RE 1.414.839, Rel. Min. Roberto Barroso, DJe 28.03.2023; RE 1.419.296, Rel. Min. Alexandre de Moraes, DJe 22.02.2023; e RE 1.428.687, Rel. Min. Nunes Marques, DJe 28.04.2023.
+
+    Ante o exposto, determino o sobrestamento deste feito até o julgamento definitivo da ADI nº 6.279/DF (art. 21, I, do RISTF).
+
+    Publique-se.
+
+    Brasília, 5 de junho de 2023.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
