@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 217):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ENRIQUECIMENTO SEM CAUSA. REEXAME FÁTICO- PROBATÓRIO. SÚMULA 7 DO STJ. ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. RESPONSABILIDADE PELO SERVIÇO DE ESGOTAMENTO SANITÁRIO QUESTÃO PRECUSÃO. ACÓRDÃO COM FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, sobre a matéria fática, especialmente no tocante à memória de cálculos, a fim de permitir verificar se os valores relativos as tarifas de regulação e do ICMS, enseja ou não em enriquecimento sem causa, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice da Súmula 7 do STJ.
+3. A tese contida no art. 884 do Código Civil, tal qual posta nas razões recursais, não foi apreciada pelo Tribunal de origem. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ.
+4. Nos termos da jurisprudência desta Corte, estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação específica do decisum, incide a Súmula 283 do STF.
+5. Agravo interno não conhecido.
+Em suas razões, a parte embargante alega que não há que se falar nos óbices das súmulas 211/STJ e 283/STF, "como se pode verificar das e- STJ fls. 66/68, amis especificadamente fl. 66 (item 4) e fl. 68 (item 14) dos embargos de declaração opostos perante a c. 17ª Câmara de Direto Privado (antiga 26ª Câmara Cível) afastando o óbice da Súmula 211/STJ" (fl. 231).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, considera-se obscura a decisão quando imprecisa, de difícil ou impossível compreensão. Contraditória quando contém, em si, afirmações ou fundamentos que estão em oposição ou que levam a resultados distintos ou inversos. Omissa quando faltar pronunciamento sobre ponto ou questão, isso é, ainda que não tenham controvertido as partes (questão), mas apenas uma delas tenha suscitado o fundamento (ponto), ou a respeito do qual deva o órgão jurisdicional pronunciar-se de ofício, ou em razão de requerimento da parte (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+No caso, sequer houve alegação de omissão, contradição, obscuridade ou erro material no acórdão recorrido, mas observa-se, a partir dos argumentos apresentados, apenas o inconformismo da parte quanto a aplicação das Súmulas 211 do STJ e 283 do STF e, como isso, buscando meramente a infringência do julgado.
+Contudo, os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018; EDcl no AgInt nos EREsp 703.188/SP, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 17/09/2019).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeitos os embargos de declaração.
+É como voto.
