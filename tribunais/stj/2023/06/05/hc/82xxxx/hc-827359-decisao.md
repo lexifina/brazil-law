@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VALERIO APARECIDO CALONACI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado ao cumprimento da pena de 5 (cinco) anos e 10 (dez) meses pelo crime de tráfico de drogas, porque, juntamente com um corréu, "transportaram entre Estados da Federação e traziam consigo, para entregar ou fornecer ao consumo de terceiros, ainda que gratuitamente, 01 (uma) mala de viagem com 03 ( três) invólucros plásticos contendo "Cannabis Sativa L", maconha, com peso líquido de 789g (setecentos e oitenta e nove gramas) (item 1), 06 (seis) invólucros plásticos contendo "Cannabis Sativa L", maconha, com peso líquido de 1.838kg (um quilo e oitocentos e trinta e oito gramas) (item 2), 06 (seis) invólucros plásticos contendo "Cannabis Sativa L", maconha, com peso líquido de 1.678kg (um quilo e seiscentos e setenta e oito gramas) (item 3), 06 (seis) invólucros plásticos contendo "Cannabis Sativa L", maconha, com peso líquido de 1.783kg (um quilo e setecentos e oitenta e três gramas) (item 4), sem autorização e em desacordo com determinação legal ou regulamentar." (e-STJ fl. 21).
+Irresignada, a defesa ingressou com recurso de apelação, o qual foi desprovido, nos termos do acórdão de e-STJ fls. 53/64.
+Na presente impetração, a defesa pugna pela revisão da dosimetria da pena, inclusive do regime carcerário aplicado.
+É, em síntese, o relatório.
+Decido.
+Depreende-se dos autos que o presente writ impugna o acórdão lavrado pela 10ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1500917-59.2021.8.26.0599 (e-STJ fls. 53/64).
+Ocorre que a causa de pedir e o pedido deste habeas corpus são idênticos aos do HC n. 815.398/SP, impetrado nesta Corte e também atribuído a esta relatoria, que igualmente impugna a mesma decisão prolatada pelo Tribunal de origem.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração do HC n. 815.398/SP, indefiro-o liminarmente, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
