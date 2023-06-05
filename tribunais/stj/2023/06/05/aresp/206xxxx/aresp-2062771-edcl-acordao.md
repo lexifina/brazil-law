@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por TVSBT CANAL 4 DE SÃO PAULO S/A contra o acórdão que negou provimento ao agravo interno que interpusera, conforme a seguinte ementa:
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. DIREITOS AUTORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃODOART.489DOCPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.5. Agravo interno não provido.
+Nas razões, alega, em síntese, que esta Corte não apreciou as irresignações deduzidas no agravo interno, porque se limitou a reproduzir o conteúdo da decisão monocrática. Discorre, ademais, sobre a não incidência do óbice da Súmula 7/STJ, uma vez que o quadro-fático está bem delineado no acórdão estadual.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DE QUESTÃO JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, n ão é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais (AgRg no AgRg nos EREsp n. 1.492.472/PR, Corte Especial).
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+De acordo com a jurisprudência desta Corte, "a reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais" (AgRg no AgRg nos EREsp n. 1.492.472/PR, Corte Especial, julgado em 4/12/2019, DJe de 19/12/2019.)
+Na mesma linha, há precedentes no sentido de que "ocorrendo a manutenção dos fundamentos que serviram de base para a decisão monocrática ou venha o recorrente a suscitar fundamentos insuficientes para mitigar as razões de decidir já explicitadas pelo julgador monocrático, apresenta-se válida a reprodução dos argumentos anteriormente expendidos, não estando caracterizada a inobservância do art. 1.021, § 3º, do CPC/2015 (EDcl no AgInt no REsp n. 1.687.409/MG, DJe 25/3/2019 e EDcl no AgInt nos EDcl no AREsp n. 1.227.019/SP, DJe 22/10/2018).
+Outrossim, nos termos da jurisprudência desta Corte, o órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte (AgInt no AREsp 1.442.379/CE, Quarta Turma, DJe 4.8.2020; AgInt no AREsp 1.500.162/SP, Terceira Turma, DJe 29.11.2019).
+Portanto, tendo sido examinadas todas as questões suscitadas no agravo interno interposto pela recorrente, não há que se falar em omissão.
+Por sua vez, no que tange à alegação de não incidência da Súmula 7 do STJ, a recorrente não aponta omissão, contradição ou obscuridade, pretendo, em verdade, a rediscussão de questão já decidida, o que é descabido na estreita via dos aclaratórios.
+Forte nessas razões, REJEITO os embargos de declaração.
