@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO INTER S.A., contra a decisão que, conhecendo de agravo, não conheceu do recurso especial que interpusera.
+Ação: de obrigação de fazer c/c pedidos de indenização por danos materiais e compensação por danos morais, ajuizada por ANA MARIA DE SOUSA SILVA em desfavor do ora agravante, na qual pleiteia a outorga e registro de escritura pública de compra e venda de imóvel, que foi adquirido da ré mediante leilão extrajudicial. Alternativamente, postula a rescisão do negócio firmado entre as partes, e a conversão da obrigação de fazer em perdas e danos.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar rescindido o contrato de compromisso de compra e venda formalizado entre as partes e condenar o agravante à restituição da quantia de R$ 286.246,29, devidamente acrescida de correção monetária e juros de mora, bem como ao pagamento de compensação por danos morais, no valor de R$ 8.000,00.
+Acórdão: negou provimento à apelação interposto pelo agravante, nos termos da seguinte ementa (e-STJ fl. 324):
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER, REPARAÇÃO POR PERDAS E DANOS C/C INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. COMPRA E VENDA DE IMÓVEL. ARREMATAÇÃO DO BEM POR TERCEIRO DE BOA-FÉ. ANULAÇÃO DE LEILÃO POR DECISÃO JUDICIAL. DIREITO AO RESSARCIMENTO DOS VALORES PAGOS PARA AQUISIÇÃO DO IMÓVEL. DANO MORAL CONFIGURADO. HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA.
+1. As instituições financeiras, ao ofertarem produtos ou serviços para as pessoas físicas, sujeitam-se às normas protetivas consumeristas, tanto que a matéria se encontra sumulada no enunciado 297 do Superior Tribunal de Justiça.
+2. O ordenamento jurídico deve conferir especial proteção à requerente/apelada, terceira de boa-fé, arrematante da unidade imobiliária, em detrimento dos prejuízos externos advindos da arrematação, como reforço da confiança nas relações negociais. Assim, com a rescisão do contrato, e, a consequente conversão da obrigação em perdas e danos, impõe-se a restituição dos valores pagos para a aquisição do imóvel arrematado. A responsabilidade da instituição financeira advém da devolução de montante pago por produto viciado, com esteio no artigo 18, § 1º, inciso II, do Código de Proteção e Defesa do Consumidor.
+3. O credor, ora recorrente, ao colocar à venda um imóvel, e, ainda, declarar que, sobre ele, não existem ônus ou ações reais ou pessoais reipersecutórias, assume, indubitavelmente, a responsabilidade civil perante terceiros. Diante de tal premissa, resta caracterizado o dano moral sofrido pela postulante.
+4. Verba honorária sucumbencial majorada, nos termos do artigo 85, § 11, do CPC/15.
+5. RECURSO DEAPELAÇÃO CONHECIDO E DESPROVIDO. SENTENÇA CONFIRMADA".
+Recurso especial: alegou violação dos arts. 485, VI, e 489, § 1º, IV do CPC e 927 do CC, sustentando que: (i) é parte ilegítima para responder pelo pedido de restituição dos valores que excederam o valor da arrematação, quais sejam, comissão de leiloeiro e despesas cartorárias; (ii) o acórdão recorrido não se manifestou acerca da responsabilidade da recorrida por ter arrematado o imóvel ciente de que ele estaria ocupado, tampouco acerca da impossibilidade de se determinar a restituição dos valores pagos, antes do trânsito em julgado das ações por meio das quais foi anulado o procedimento expropriatório; (iii) não houve dano moral indenizável.
+Prévio juízo de admissibilidade: o TJ/GO inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: conheceu do agravo para não conhecer do recurso especial, conforme ementa que se segue (e-STJ fl. 392):
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO POR PERDAS E DANOS, C/C INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c reparação por perdas e danos, c/c indenização por danos morais, materiais e lucros cessantes.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido".
+Agravo interno: nas razões do presente recurso, o agravante reitera sua ilegitimidade para responder pelo pedido de restituição da comissão de leiloeiro e despesas cartorárias.
+Repisa a negativa de prestação jurisdicional, aduzindo que o acórdão não examinou os argumentos postos na apelação, no tocante aos riscos assumidos pela agravada e à necessidade de se aguardar o desfecho das ações em que discutida a validade do procedimento expropriatório.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDIÇÃO. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. PRECLUSÃO LÓGICA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO QUE SE MOSTRA SUFICIENTE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c pedidos de indenização por danos materiais e morais.
+2. É inviável o conhecimento da suposta nulidade do acórdão recorrido por negativa de prestação jurisdicional (violação do art. 489, § 1º, do CPC) quando a parte recorrente sequer opôs embargos de declaração no Tribunal a quo, com vistas a suprir eventual vício do julgado.
+3. Hipótese dos autos em que, ademais, o acórdão recorrido apresenta fundamentação suficiente, com o exame de todos os pontos essenciais à integral resolução da controvérsia.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ilegitimidade passiva do agravante para responder por todas as despesas havidas pela consumidora na arrematação do imóvel, exige o reexame de fatos, o que é vedado na estreita via do recurso especial.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada, a par de conhecer do agravo, não conheceu do recurso especial ante a ausência de violação do art. 489 do CPC, bem como a incidência da Súmula 7/STJ.
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento hábil à modificação do decisum.
+Inicialmente, é imperioso destacar que o agravante, a despeito de defender negativa de prestação jurisdicional pelo Tribunal de origem, sequer opôs os competentes embargos de declaração perante aquela Corte, com vistas a suprir eventual vício do acórdão recorrido.
+Ora, se entende o agravante que o provimento jurisdicional prolatado pelo TJ/GO carece de fundamentação, cabia-lhe, ao menos, provocar o órgão julgador a complementar o julgado, mediante a oposição dos embargos de declaração. Não o fazendo, é inquestionável que houve a preclusão da irresignação.
+Não fosse o suficiente, é certo que o acórdão recorrido apresenta fundamentação completa, porquanto enfrentou todos os pontos essenciais à solução da controvérsia, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Ressalte-se que, ao contrário do sustentado pela parte agravante, não está o Tribunal de origem obrigado a rebater, um a um, todos os argumentos invocados pelas partes, "quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio" (AgInt no REsp 1.708.568/SP, 2ª Turma, DJe 10/03/2020), exatamente como ocorre na espécie.
+Ainda que não tenha sido da forma e modo pretendidos pelo agravante, o acórdão recorrido enfrentou as questões relativas à legitimidade passiva e à imediata restituição de valores à agravada, não resultando do acórdão qualquer nulidade pela ausência de explícita menção a cada um dos argumentos utilizados no exercício do direito de defesa.
+De outro turno, constata-se que eventual modificação do entendimento do acórdão recorrido, no que concerne à legitimidade passiva do agravante para responder por todos os valores despendidos pela agravada, demandaria desta Corte, inexoravelmente, a incursão na seara fático-probatória dos autos, o que é vedado na estreita via do recurso especial, conforme a Súmula 7/STJ.
+Com efeito, o recurso especial não é a via adequada para a revisão da conclusão alçada pelo Tribunal a quo, quando fundamentada exclusivamente em elementos fático-probatórios.
+Dessa maneira, em suma, a decisão agravada deve ser mantida integralmente.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
