@@ -1,0 +1,11 @@
+DECISÃO
+IURI OLIVEIRA DA COSTA, condenado por roubo circunstanciado ao cumprimento de 6 anos e 8 meses de reclusão, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve o regime fechado para o início do cumprimento de pena, o qual pretende, nesta oportunidade, seja modificado para o semiaberto.
+O caso comporta solução antecipada, visto que se trata de controvérsia com solução pacífica no âmbito desta Corte. Deveras, o acórdão impugnado, ao manter o regime fechado, embora cabível o s emiaberto, assinalou o seguinte (fl. 31):
+ ..
+Por fim, devidamente eleito o regime inicial fechado, consoante disciplina o artigo 33, §§ 2º e 3º, c.c. artigo 59, III, ambos do Código Penal, considerando-se ter sido o delito praticado com grave ameaça à pessoa, que também obstam a substituição da pena privativa de liberdade por restritiva de direitos, diante da vedação prevista no artigo 44 do Código Penal.
+Como se observa, não houve, na espécie, nenhuma indicação de circunstância concreta (fundamento idôneo) que justificasse a imposição de regime mais gravoso, visto que o réu foi condenado, na primeira etapa (pena-base), ao mínimo legal, isto é, com todas as circunstâncias judiciais favoráveis, além de não ser reincidente.
+É o caso de incidência da Súmula 440 deste Superior Tribunal: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Nesse sentido, ainda, apenas como reforço, o seguinte precedente: "Portanto, tendo em vista a quantidade da pena imposta e as circunstâncias judiciais favoráveis, bem como a ausência de indicação da eventual gravidade concreta da conduta, deve ser mantido o regime prisional inicial semiaberto, a teor do disposto nos arts. 33, §§ 2º, "b", e 3º, do Código Penal" (AgRg no HC n. 709463/SP, Rel. Ministro Reynaldo Soares da Fonseca, DJe 17/12/2021).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem in limine, a fim de fixar o regime semiaberto para o início do cumprimento da pena imposta ao paciente.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
