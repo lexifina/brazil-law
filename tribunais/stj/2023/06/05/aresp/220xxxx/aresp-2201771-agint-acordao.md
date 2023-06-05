@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Antônio Carlos Perini e outros contra decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 920):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE CONTRATUAL.1. VIOLAÇÃO AO ART. 489 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO NÃO CONFIGURADO.2. NEGÓCIO JURÍDICO, AUSÊNCIA DE VÍCIOS. MÁ-FÉ NÃO COMPROVADA. CONCLUSÕES PAUTADAS EM FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.3. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 974-977).
+Nas razões recursais (e-STJ, fls. 982-997), os agravantes alegam a necessidade de conversão do julgamento em diligência, com fulcro no art. 938 do CPC/2015, visto que o pedido de perda de objeto não foi acolhido por esta relatoria nem perante o magistrado de primeiro grau.
+Defendem a perda do objeto da ação, sob o argumento de que o espólio de Dayton renunciou, expressamente, a seu direito.
+Aduzem que deve ser reconhecida a validade da cessão dos direitos hereditários celebrada pelos ora agravantes.
+Pleiteiam, assim, a reconsideração da decisão agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO CUMULADA COM CANCELAMENTO DE REGISTRO IMOBILIÁRIO. PERDA DE OBJETO. JUÍZO COMPETENTE NA ORIGEM. VALIDADE DA CESSÃO DE DIREITOS HEREDITÁRIOS SOBRE IMÓVEIS AOS AGRAVANTES. IMPROCEDÊNCIA DO PEDIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de perda de objeto da ação ante a desistência do espólio de Dayton Aleixo de Souza Júnior - nos autos do inventário de Horácio e Maria da Glória Malanconi, de adjudicar os bens objeto da presente lide - deve ser analisada pelo juízo competente na origem.
+2. Não há como desconstituir o entendimento delineado no acórdão impugnado, a fim de reconhecer a validade da cessão de direitos hereditários sobre imóveis aos agravantes, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+De plano, indefiro o pedido de conversão do julgamento em diligência, por não se tratar da ocorrência de vício ou da necessidade de produção de prova, conforme disposto no art. 938, §§ 1º e 3º, do CPC/2015.
+A questão referente à perda de objeto foi suscitada nos embargos de declaração opostos ao acórdão recorrido (e-STJ, fls. 563-578), e enfrentada pela Corte origem, que consignou que, a despeito das alegações de suposta perda de objeto, os insurgentes mantiveram o interesse recursal, conforme excerto do voto abaixo transcrito (e-STJ, fls. 547-548):
+Não há que se falar em perda do objeto da ação, em razão da suposta desistência do coapelado Dayton (espólio), nos autos do inventário de Horácio, já que, em sede de contrarrazões nesta ação, manifestou-se o corréu Dayton (espólio) no sentido de não ter havido desistência, mas tão-somente desinteresse das herdeiras de Dayton na habilitação nos autos do inventário de Horácio (f. 465), o que não afasta o interesse nos imóveis em discussão.
+Quanto ao ponto, no entanto, os agravantes não apontaram a ocorrência de negativa de prestação jurisdicional ou apontaram dispositivo infraconstitucional tido por violado, razão pela qual a preliminar suscitada ultrapassa os limites da pretensão recursal deduzida no apelo extremo. Desse modo, o referido pleito não encontra amparo no âmbito de jurisdição desta Corte Superior, devendo tal pedido ser deduzido ao juízo competente na origem.
+Por outro lado, o colegiado estadual deixou de reconhecer a validade da cessão dos direitos hereditários, sob os seguintes fundamentos (e-STJ, fls. 549-551; sem grifo no original):
+Assim, em que pese ter havido dupla negociação dos direitos hereditários sobre os imóveis em questão, verifica-se que os demandantes não foram diligentes o bastante, na época da realização do negócio jurídico, pois deixaram de proceder ao registro da negociação.
+Tendo Horácio e sua esposa transacionado direitos hereditários sobre os imóveis em discussão por duas vezes e com pessoas diferentes, é assegurado o direito à manutenção do negócio daquele que procedeu ao registro na matrícula do imóvel.
+E segundo constou da sentença (f. 380, parte final, e f. 381, 1º parágrafo) "apesar dos autores alegarem que a cessão realizada entre os cessionários HORÁCIO e MARCIA REGINA teria se dado fraudulentamente para o agora falecido DAYTON, nota-se dos autos pelos documentos de fls. 220/253, que o negócio jurídico entabulado entre esses, nos idos de 1992 e 1993, não está maculado de vício algum, cuja prova cabia exclusivamente à parte autora que o alega e não o fez - sendo ato jurídico perfeito, acabado e, portanto, existente, válido e eficaz. Não bastasse isso, o cessionário DAYTON realizou o registro das transações junto às matrículas dos imóveis (fls. 256/269), providencia essa que, portanto, lhe garante primazia na compra dos imóveis".
+Neste sentido, precedente do STJ, nos autos do REsp nº 1113390-PR, no qual figurou como relator o Min. Sidnei Beneti:
+Respeitada a irresignação dos autores apelantes, não se nega que possam ter realizado o negócio jurídico de boa-fé. No entanto, considerando que a boa-fé é presumida e a má-fé deve ser provada, não se vislumbra elementos a demonstrar a má-fé por parte de Dayton (espólio), por ocasião do negócio por ele realizado com Horácio e esposa.
+É sabido que para que haja a declaração de nulidade de um negócio jurídico, necessário a existência de vício a macular a existência do negócio que busca se declarar nulo.
+Nos termos do art. 373, I, do CPC, o ônus da prova incumbe ao autor, em relação aos fatos constitutivos do seu direito. Instados os demandantes a especificarem as provas que pretendiam produzir (f. 351), aduziram ter produzido provas suficientes à procedência da pretensão declaratória do negócio jurídico em questão (f. 353/354).
+Contudo, como mencionado, em sendo a boa-fé presumida e não havendo prova da má-fé, e, ademais, devendo ser respeitada a negociação levada a registro por Dayton, não há como acolher a pretensão dos autores, que poderão, no máximo, requerer eventual indenização de quem dispôs do bem para mais de uma pessoa.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
