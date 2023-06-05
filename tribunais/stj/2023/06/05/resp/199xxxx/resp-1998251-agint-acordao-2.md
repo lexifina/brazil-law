@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Benedito Gonçalves.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pela Associação de Proprietários de Casas de Veraneios do Vale do Rio Ivinhema - APRORIO e outros contra decisão, assim ementada (fl. 4307):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EDIFICAÇÃO DE CASAS DE VERANEIO EM ÁREA DE PRESERVAÇÃO PERMANENTE. MARGENS DO RIO IVINHEMA/MS. IMPOSSIBILIDADE. ART. 61-A DA LEI N. 12.651/12. NÃO INCIDÊNCIA. RECURSO ESPECIAL PROVIDO.
+As partes agravantes opuseram Embargos de Declaração, com decisão assim ementada (fl. 4437):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Os agravantes sustentam que remanescem omissões na decisão agravada, em especial, no que diz respeito a: (a) superveniência da legislação permissiva para ocupação pela Deliberação Normativa CECA n. 26/2019; (b) a constitucionalidade declarada pelo STF na ADIN 4903 e na ADC 42, e (c) a suspensão do processo em razão do Tema 1.010/STJ.
+Ademais, sustentam que a decisão que julgou o recurso especial deve ser reformada, tendo em vista que: (a) houve a superveniência da legislação permissiva para ocupação de Área de Preservação Permanente, pela Deliberação Normativa CECA n. 26/2019; (b) houve a constitucionalidade do art. 61-A da Lei n. 12.651/2021, declarada pelo STF na ADIN 4903 e na ADC 42; (c) possibilidade de atribuição de efeito suspensivo ao processo, em razão do Tema 1.010/STJ; (d) o recurso especial não deveria ter sido conhecido, vez que incide ao caso a Súmula n. 7/STJ; (e) a inscrição no CAR está prorrogada pelo Decreto nº. 9.395, não havendo esgotamento do prazo para sua inscrição.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se vislumbra qualquer omissão, contradição, obscuridade ou erro material. Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido, pelo que se mantém o afastamento da ofensa ao artigo 1.022 do CPC/2015.
+3. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+4. Agravo interno parcialmente conhecido e não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, observa-se que o presente recurso não merece prosperar , tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+O agravante reitera a tese de que remanesce omissão na decisão ora agravada, no que tange à superveniência da legislação permissiva para ocupação pela Deliberação Normativa CECA n. 26/2019, a constitucionalidade declarada pelo STF na ADIN 4903 e na ADC 42 e a suspensão de processo por causa do Tema 1.010/STJ, todavia houve expressa manifestação nos aclaratórios a respeito dos questionamentos suscitados, não havendo que se falar em omissão.
+Confira-se (fl. 4437):
+Registra-se, por fim, que Deliberação Normativa não se enquadra no conceito de lei federal, a constitucionalidade do art. 61-A do Código Florestal não inclui edificação de veraneio e, ademais, o Tema 1.010 já se encontra julgado em 28/04/2021.
+No que diz respeito à decisão agravada propriamente dita, deu-se provimento ao recurso especial interposto pelo Ministério Público do Estado de Mato Grosso do Sul com base nos seguintes fundamentos: (a) "não há falar em direito adquirido à manutenção de situação que gere prejuízo ao meio ambiente"; (b) "nos termos da Súmula n. 613/STJ, não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental"; e (c) "Os efeitos do art. 61-A da Lei n. 12.651/12 não retroagem para permitir a manutenção de edificações de veraneio em Área de Preservação Permanente" (fl. 4308).
+Ocorre que os agravantes não impugnaram, especificamente, nenhum dos fundamentos da decisão, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Espe cial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, conheço parcialmente do agravo interno, para, na parte conhecida, negar-lhe provimento.
+É como voto.
