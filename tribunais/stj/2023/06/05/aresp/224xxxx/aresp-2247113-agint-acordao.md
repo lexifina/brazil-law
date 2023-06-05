@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 9.429/9.436) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 9.422/9.426).
+Em suas razões, a parte alega que "não se busca o reexame do conjunto probatório, ou nova discussão sobre as provas trazidas aos autos, uma vez que resta claro no presente caso que a discussão é apenas jurídica e não fática, ou seja, art. 373, II, do CPC e ao art. 5º, XXXVI, da CF/88, tendo em vista o pedido expresso de perícia, não sendo deferido, prejudicando o direito de defesa do Agravante" (e-STJ fl. 9.433).
+Acrescenta que "não se trata de rediscussão de cláusulas contratuais, não incidindo o disposto na Sumula 5 do STJ, tendo em vista que o objetivo do presente recurso, é discutir a violação do direito de defesa da Agravante" (e-STJ fl. 9.434).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 9.442).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PAGAMENTO DOS SERVIÇOS MÉDICO-HOSPITALARES. CERCEAMENTO DE DEFESA. NOVA PERICIA INDEFERIDA. DESCUMPRIMENTO CONTRATUAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela inexistência de cerceamento de defesa e pela comprovação do descumprimento do contrato de prestação de serviços de saúde. Entender de modo contrário demandaria nova análise do contrato e dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das referidas súmulas.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 9.422/9.426):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 9.361/9.364).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 9.271):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - REQUERIMENTO DE NOVA PROVA PERICIAL - AUSÊNCIA DE EXPERTISE DO PERITO NOMEADO -INDEFERIMENTO - CERCEAMENTO DE DEFESA - AUSÊNCIA -ALEGAÇÃO DE NULIDADE DA SENTENÇA - QUESITOS DEVIDAMENTE RESPONDIDOS SEM QUALQUER IMPUGNAÇÃO INICIAL DO TÉCNICO NOMEADO E SEM PEDIDO DE ESCLARECIMENTOS COMPLEMENTARES - PAGAMENTO DOS SERVIÇOS MÉDICO-HOSPITALARES PRESTADOS - GLOSA DE VALORES - LEGALIDADE DAS COBRANÇAS - AUSÊNCIA DE COMPROVAÇÃO DA REGULARIDADE DAS GLOSAS - SENTENÇA MANTIDA.
+- Quanto à necessidade de se realizar nova prova pericial, determina o Código de Processo Civil que caberá ao juiz, de ofício ou a requerimento da parte, quando a matéria não estiver suficientemente esclarecida.
+- Se a parte apenas questiona a suficiência de conhecimento técnico do profissional nomeado para realizar o exame pericial após a elaboração do laudo, com requerimento da realização de nova perícia, sem apresentação de quesitos suplementares, apenas com a indicação genérica de que a metodologia adotada não exprime a realidade da integralidade dos valores impugnados, não se verifica a violação aos princípios processuais existentes, ausentes a nulidade suscitada e o cerceamento do direito de defesa.
+- Ausente qualquer comprovação que demonstre a irregularidade da cobrança realizada ou que fundamente as glosas apresentadas, revela-se abusiva a negativa de pagamento dos valores exigidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 9.315/9.319).
+Nas razões do recurso especial (e-STJ fls. 9.328/9.342), fundamentado no art. 105, III, "a", da CF, a parte alega violação dos arts. 5º, XXXVI e LV, 93 da CF/88, 373, 489, § 1º, do CPC/2015, 421, 422 do CC/2002 e 32, § 7º, da Lei n. 9.656/1998.
+Aponta negativa de prestação jurisdicional e argumenta que "existe omissão expressa do MM. Juiz em analisar o conjunto fático-probatório para apreciação da demanda e o correto desfecho da linde, o que infringe os termos do art. 489 do CPC" (e-STJ fl. 9.336).
+Afirma que (e-STJ fl. 9.336):
+(..) imprescindível é a realização de nova perícia técnica, a fim de que seja empregada a metodologia correta e precisa para obter resultados mais transparentes e assertivos na apuração das glosas ocorridas, sob pena de evidente cerceamento ao direito de defesa desta Recorrente que se vê impossibilitada de comprovar a regularidade de sua conduta e absolutamente prejudicada pelo laudo produzido sob premissas equivocadas.
+Defende que (e-STJ fls. 9.339/9.341):
+(..) inegável o direito de glosa que a Recorrente possui, conforme já atestado na r. Sentença.
+Nesse sentido, ao contrário do disposto em sentença, os prestadores devem, para fins de faturamento, enviar à Postal Saúde uma documentação padrão, composta de formulários de capa de lote, de protocolos de guias eletrônicas, documentos relativos aos atendimentos de saúde realizado, todos de forma eletrônica e física.
+(..)
+Contudo, o que se depreende dos autos é que a Recorrida não demonstrou o envio de recursos na forma correta disposta em contrato e Manual do Credenciado, tendo apenas enviado e-mails, sem justificativa plausível para o recurso.
+Portanto, se o prestador apresenta os recursos de forma incorreta e sem condições de análise, não pode ser considerado que o prestador tenha atendido à cláusula contratual. O entendimento jurisdicional contrário viola diretamente liberdade contratual.
+(..)
+Portanto, se o prestador apresenta os recursos de forma incorreta e sem condições de análise, não pode ser considerado que o prestador tenha atendido à cláusula contratual.
+Desta forma, não basta encaminhar a cobrança, é necessário encaminhá-la segundo as regras também estabelecidas em contrato, observando prazos, documentação a ser encaminhada, formato de envio dos dados, dentre outros.
+Requer o provimento do recurso para determinar o "retorno dos autos à fase instrutória para confecção da nova prova pericial técnica, uma vez que a prova pericial colacionada nos autos foi realizada por métodos insuficientes para apuração concisa das glosas, possibilitando a ampla defesa desta Operadora, conforme preconizam os artigos 373, II, do CPC e art. 5º, XXXVI, da CF/88" (e-STJ fl. 9.342).
+No agravo (e-STJ fls. 9.367/9.379), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 9.408).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Inexiste afronta ao art. 489 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em deficiência de fundamentação.
+Quanto à alegação de cerceamento de defesa e à comprovação do descumprimento do contrato de prestação de serviços de saúde, consta nos autos que o Tribunal de origem entendeu que (e-STJ fls. 9.276/9.279):
+O laudo pericial foi impugnado pela parte ré, que requereu a designação de nova perícia para análise global das faturas, com substituição do profissional nomeado (ordem n. 365).
+Com base na perícia apresentada, o douto Juízo de origem julgou procedente o pedido inicial e considerou por devida a quantia exigida.
+Sobre a nulidade da sentença, diante da necessidade de realização de nova prova pericial, sabe-se que, apesar de ser de iniciativa das partes a instrução probatória, incumbe ao Juízo decidir, de modo fundamentado, sobre a necessidade e utilidade das provas requeridas para a solução das questões postas em debate na demanda.
+Nesses termos, dispõe o art. 370, parágrafo único, do CPC, que cabe ao Julgador, de ofício ou a requerimento das partes, ordenar a produção das provas necessárias à resolução da demanda, indeferindo as diligências inúteis ou meramente protelatórias.
+Mais especificamente quanto à prova pericial, incumbe ao Magistrado não só decidir sobre a pertinência de sua realização (art. 464, §1º, do CPC) e nomear o expert(art. 465 do CPC), mas também conduzir todo o procedimento de sua produção, indeferindo quesitos impertinentes e formulando que entender necessários (art. 470 do CPC).
+Acrescente-se que as conclusões do laudo pericial não vinculam o julgador, que, em virtude da adoção, pelo ordenamento jurídico pátrio, do sistema do livre convencimento motivado, pode valer-se de outros elementos constantes dos autos para fundamentar sua decisão.
+Ademais, quanto à necessidade de se realizar nova prova pericial, determina o CPC que caberá ao juiz, de ofício ou a requerimento da parte, quando a matéria não estiver suficientemente esclarecida (art. 480).
+No caso em tela, elaborado o laudo pericial, o apelante, que em nenhum momento havia questionado a suficiência de conhecimento técnico do profissional nomeado para realizar o exame, apresentou a impugnação de ordem n. 365, na qual alega que o perito não possui a expertise suficiente para elaboração do laudo, o que demanda a realização de nova perícia para que uma análise aprofundada fosse efetuada, sem apresentação de quesitos suplementares, apenas com a indicação de que a amostragem realizada não exprime a realidade da integralidade das glosas.
+Nessas circunstâncias, verifica-se que no laudo pericial, ao contrário do alegado, constou o perito, de forma clara, coerente e conclusiva o resultado do exame, respondendo todos os questionamentos que lhe foram apresentados pelas partes, sem a indicação de que os valores requeridos não poderiam ser apurados ou que demandavam novas documentações.
+Dessa forma, deve-se considerar que o laudo pericial, elaborado por profissional de confiança do Juízo, é suficiente à solução da controvérsia, sem que haja violação aos princípios processuais existentes, ausente a nulidade suscitada, isto é, o cerceamento do direito de defesa.
+Além disso, não merece reforma a r. sentença quanto ao mérito apreciado, pois as alegações apresentadas pela parte apelante não são suficientes para desconstituir a perícia realizada e, nem mesmo, para demonstrar a irregularidade dos procedimentos realizados pela autora/apelada, que justifique o não pagamento das notas objeto de glosas no valor requerido.
+Apesar da cláusula 7.5 do contrato não determinar o prazo para que a credenciante respondesse ou julgasse a contestação dos valores glosados, não se pode considerar que poderia ela deixar de se manifestar ou, até mesmo, utilizar-se de prazo indefinido para apresentar esclarecimento ou rever seus atos. Ademais, a ausência de prazo contratual não pode ser usada para justificar a omissão da ré para com a autora, que, corretamente, contestou as glosas realizadas, cumprindo com a sua obrigação, quedando-se na expectativa de solucionar a questão, inexistindo comprovação nos autos de que a resposta foi enviada em algum momento, o que se afigura clara violação à boa-fé objetiva e à lealdade contratual.
+Além disso, a mera a alegação de que a impugnação administrativa não seguiu a forma pactuada, com uso de e-mail, sem observar o item 19.4 do manual do credenciado, que exige procedimento próprio, não justifica a omissão na resposta dos recursos e na ausência de retorno quanto às glosas lançadas. Como se pode verificar, o item em questão é usado para processamento e pagamento e não para recursos interpostos. Ainda que assim não fosse, o item 19.4.2 prevê que "nos casos de apenas envio eletrônico, será realizada a devolução do arquivo pelo motivo de ausência de documentação física" o que, também, não foi feito pela apelante.
+Por fim, os questionamentos dos valores apresentados, como o uso de medicamento de alto custo, não foram objeto de alegação em quesitos apresentados ao perito técnico e, nem mesmo, requerimento de esclarecimento quando oportunizado para tanto, inexistindo comprovação da sua efetiva ocorrência.
+Sendo assim, não entendo merecer reforma a sentença de origem, pois não há, nos autos, qualquer comprovação da irregularidade da cobrança realizada pela parte autora e que fundamente as glosas apresentadas pela ré.
+Modificar o entendimento do acórdão impugnado, nesta hipótese, demandaria reexame das cláusulas contratuais e do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Conforme a decisão monocrática, rever a conclusão do acórdão, quanto à alegação de cerceamento de defesa e à comprovação do descumprimento do contrato de prestação de serviços de saúde, demandaria reavaliação da avença e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
