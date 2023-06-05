@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão do Presidente do STJ, proferida às fls. 389-390, que não conheceu do agravo em recurso especial em virtude da ausência de impugnação das Súmulas nºs. 7 e 83 do STJ e 280 e 283 do STF.
+O agravante sustenta que impugnou a decisão agravada, não merecendo prosperar seus fundamentos, por carência de amparo jurídico, devendo o recurso ser conhecido, processado e provido, face os fundamentos de fato e de direito, a seguir expostos (fl. 403):
+ ..  a insurgência não reúne condições para ascender, tendo em vista que o aresto hostilizado solucionou a controvérsia com fundamento na legislação local, atraindo, mutatis mutandis, a aplicação da Súmula nº. 280/STF. Contra a referida decisão foi interposto pelo Município o competente agravo em recurso especial ao STJ, com fundamento no artigo 1.042 do Código de Processo Civil.
+Posteriormente, concluiu o Presidente do Superior Tribunal de Justiça que a parte Agravante deixou de impugnar especificamente: Súmula 7/STJ. Dessa forma, a discussão cinge-se a este ponto específico.
+Finaliza a Presidente do STJ que: não se conhece de agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A decisão recorrida, mencionada pelo Relator (Presidente do STJ), foi prolatada pelo Desembargador Vice- Presidente do Tribunal de Justiça do Estado do Ceará, quando do exame da admissibilidade do Recurso Especial, momento em que equivocadamente entendeu por inadmitir o referido recurso.
+Na realidade, ínclitos Ministros, em decisão monocrática que carece de plausibilidade e sustentação jurídica, equivocadamente entendeu o Desembargador Vice-Presidente do Tribunal de Justiça do Estado do Ceará por INADMITIR o Recurso Especial interposto pelo Município de Camocim, alegando: o aresto hostilizado solucionou a controvérsia com fundamento na legislação local, atraindo, mutatis mutandis, a aplicação da Súmula nº.280/STF; o exame da pretensão recursal depende de prévia desconstituição das premissas a que chegaram as instâncias ordinárias no tocante às funções desempenhadas pela autora, o que demanda, é certo, o revolvimento do substrato fático dos autos, hipótese notoriamente descabida, a teor da Súmula nº 7/STJ, e por derradeiro entendeu ausente o prequestionamento da matéria.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A despeito do esforço argumentativo empreendido pelo agravante, o presente recurso não merece provimento, ao afirmar que impugnou os fundamentos da decisão de admissibilidade proferida no Tribunal de origem.
+No caso, em suas razões recursais, o agravante argumenta que, ao contrário do consignado na decisão agravada, impugnou de forma específica o fundamento de inadmissibilidade do recurso especial, em observância ao princípio da dialeticidade, quanto à incidência das Súmulas 7 e 83 do STJ e 280 e 283 do STF. Ocorre que a Vice-Presidência do TJ-CE fundamentou sua decisão nos seguintes termos (fl. 360-362):
+ ..
+Verifico, inicialmente, quanto à alegada contrariedade ao art. 1º do Decreto-Lei nº 4.657/1942, que o referido dispositivo não foi abordado no acórdão impugnado e o insurgente sequer opôs embargos de declaração para exigir que houvesse manifestação sobre o assunto, restando, pois, ausente o indispensável requisito do prequestionamento, no particular, o que atrai a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicáveis por analogia aos Recursos Especiais.
+Quanto à suposta afronta ao art. 169 da LRF e à situação financeira do Município, o colegiado decidiu em conformidade com a jurisprudência do STJ, a seguir ilustrada, o que faz incidir a Súmula 83 da mesma Corte, nesse tocante:
+ ..
+No tocante ao restante da insurgência, observo que a recorrente desprezou o fundamento do acórdão suficiente para mantê-lo, deixando de impugná-lo especificadamente, o que constitui deficiência na fundamentação recursal, atraindo, por analogia, a incidência da Súmula 283 do STF.
+ ..
+No que se refere à alegação de que a autora não ocupava nenhum cargo de direção, chefia ou assessoramento, seu exame esbarra no óbice da Súmula 7 do STJ.
+Por fim, o julgamento da lide com fundamento em norma municipal afasta a competência do STJ, atraindo, por analogia, a incidência da Súmula 280 do STF.
+O agravante, por sua vez, nas suas razões recursais, limitou-se a sustentar que (fl. 374):
+ ..
+Verifica-se que o Vice-Presidente do TJ/CE inadmitiu o recurso especial, nos seguintes termos:
+"Com efeito, antes de interpor o recurso extremo, incumbia à parte insurgente valer-se do agravo interno para instar o colegiado do Tribunal a quo a se manifestar, a fim de possibilitar o esgotamento das vias ordinárias, em consonância com o Enunciado da Súmula nº. 281, do Supremo Tribunal Federal, aplicado aos recursos especiais".
+Ora, percebe-se que tal fundamento não pode prosperar, tendo em vista que foi interposto Recurso Especial em face da decisão atacada, tendo como supedâneo a sua contrariedade com a lei Federal, não havendo impedimento de Ordem Legal para que seja obstada a sua análise pelo Egrégio Superior Tribunal de Justiça, que tem a competência constitucional, nos termos do Art. 105 da Constituição Federal de 1988, de conhecer de decisão que contraria Lei Federal.
+Consoante Daniel Amorim Assumpção Neves "Por razões de facilitação procedimental ou urgência da situação O RELATOR RECEBE DE FORMA DELEGADA DO ÓRGÃO COLEGIADO A COMPETÊNCIA PARA A PROLAÇÃO DE DECISÃO, OU SEJA, O PODER DE DECIDIR LEGITIMAMENTE. O RELATOR, NESSES CASOS ATUA COMO UM "PORTA VOZ AVANÇADO" DO ÓRGÃO COLEGIADO".
+Nesse sentido, percebe-se que o Relator age como órgão delegado, ou seja, possuindo legitimidade para julgar, mesmo sabendo que a regra é o julgamento pelo Colegiado, O QUE NÃO IMPEDE QUE A DECISÃO SEJA CONHECIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA, TENDO EM VISTA O ENQUADRAMENTO DO CASO ENTRE AS SUAS COMPETÊNCIAS DEFINIDAS PELA CONSTITUIÇÃO FEDERAL DE 1988.
+Além de tudo, em face de uma visão instrumentalista do processo, há de se ponderar que é viável a apreciação da matéria por parte do Superior Tribunal de Justiça, tendo em vista, como já evidenciado, a contrariedade da decisão ora atacada com a Lei Federal.
+Dessa forma, evidencia-se que o agravante, de fato, não impugnou o fundamento da decisão de inadmissão do recurso especial, descumprindo, assim, ao comando do artigo 932, III, do CPC/2015. Diante disso, correta, portanto, a decisão agravada que não conheceu do agravo em recurso especial, por ausência de impugnação específica aos fundamentos de inadmissibilidade do recurso especial.
+Por fim, registra-se que a impugnação específica aos fundamentos da decisão de inadmissão do recurso especial feita somente em sede de agravo interno não deve ser considerada, porque, além de preclusa a oportunidade, caracteriza indevida inovação recursal.
+Neste sentido: AgInt no AREsp 1.269.651/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 14/12/2018; AgInt no AREsp 1.160.531/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/03/2019; AgInt no AREsp 1.542.694/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 15/05/2020; e AgInt nos EDcl no AREsp 1.844.217/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/02/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
