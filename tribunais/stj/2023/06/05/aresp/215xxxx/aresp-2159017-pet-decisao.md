@@ -1,0 +1,22 @@
+DECISÃO
+A Presidência desta Corte Superior proferiu decisão não conhecendo do agravo em recurso especial interposto por ANDRE MONTEIRO GOMES contra a decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial dirigido contra acórdão proferido na Apelação Criminal n. 0004946-04.2016.8.24.0004. Houve a interposição de agravo regimental, a que a Sexta Turma negou provimento, em 19/12/2022, em acórdão da minha Relatoria, assim ementado (fl. 517):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 12 DA LEI N. 10.826/2003. ART. 29, § 1.º, INCISO III, DA LEI N. 9.605/1998, E ART. 180, CAPUT, DO CÓDIGO PENAL.EXCEÇÃO DE SUSPEIÇÃO. DECISÃO AGRAVADA. FUNDAMENTO.IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. RECURSO INTERNO.CORREÇÃO DAS DEFICIÊNCIAS DO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. MÉRITO DO APELO NOBRE. ANÁLISE. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE DOS AGRAVOS NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Se o presente agravo regimental não foi conhecido, ficando inalterado o não conhecimento do agravo em recurso especial, é inviável a análise das questões suscitadas no recurso especial inadmitido.
+4. Agravo regimental não conhecido."
+O referido acórdão foi publicado em 02/02/2023 (fl. 525).
+Em 1º/02/2023, a Defesa protocolou a presente petição, requerendo fosse declarada a extinção da punibilidade do Agravante, em razão do indulto natalino concedido por meio do Decreto n. 11.302/2022 (fls. 526-529).
+O Ministério Público Federal manifestou-se pelo desprovimento do pedido, sob o fundamento de que a sua análise, por esta Corte Superior, acarretaria indevida supressão de instância, devendo ser avaliado, primeiramente, pelo Juízo da Execução Penal (fls. 537-538).
+É o relatório. Decido.
+O pleito de concessão do indulto natalino deve ser apreciado, primeiramente, pelo Juízo da Execução Penal, nos termos do art. 66, incisos I e II, da Lei de Execução Penal, sob pena de indevida supressão de instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO RECURSO ESPECIAL. PLEITO PELO RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE DOS CRIMES DE CONTRABANDO E QUADRILHA EM RAZÃO DO INDULTO PREVISTO NO DECRETO PRESIDENCIAL N. 11.302/2022. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de concessão do indulto previsto no Decreto Presidencial n. 11.302/2022 desborda do escopo dos recursos apresentados a esta Corte Superior de Justiça e, ademais, não foi apreciado e decidido pelas instâncias ordinárias.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça "Compete ao Juízo da Execução Penal decidir sobre pedido de concessão de indulto, não cabendo a esta Corte se manifestar sobre o tema antes que as instâncias ordinárias o tenham feito, sob pena de indevida e ilegal supressão de instância." (AgRg no AREsp n. 1.264.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/5/2018, DJe de 9/5/2018).
+3. Agravo regimental desprovido." (AgRg nos EDcl na PET no REsp n. 1.908.093/PR, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 11/04/2023, DJe 18/04/2023.)
+Outrossim, observa-se não ter havido a interposição de nenhum recurso contra o acórdão desta Corte Superior que negou provimento ao agravo regimental dirigido contra a decisão que não conheceu do agravo em recurso especial, estando esgotada a jurisdição desse Tribunal Superior, e não houve se interpôs recurso extraordinário contra o acórdão proferido na apelação. Portanto, a condenação do Agravante transitou em julgado, devendo haver a imediata baixa dos autos.
+Ante o exposto, NÃO CONHEÇO do pedido e DETERMINO que, após a baixa dos autos à origem, o presente pedido de indulto seja analisado pelo Juízo da Execução Penal, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE INDULTO NATALINO. PENAL. APRECIAÇÃO DIRETA POR ESTA CORTE SUPERIOR. INVIABILIDADE. SUPRESSÃO DE INSTÃNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. PEDIDO NÃO CONHECIDO, COM DETERMINAÇÃO.
