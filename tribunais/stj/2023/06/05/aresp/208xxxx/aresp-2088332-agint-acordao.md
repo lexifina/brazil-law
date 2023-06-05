@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo ESTADO DO MARANHÃO contra  decisão  monocrática  de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) as sim ementada:
+CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXCLUSÃO DO IPI DA BASE DE CÁLCULO DO ICMS. MATÉRIA APRECIADA PELA CORTE DE ORIGEM SOB ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fls. 506/509).
+Em  suas  razões  recursais ,  a  parte  agravante  sustenta, em suma, que "a coincidência do art. 13, §2º da Lei Kandir com o dispositivo constitucional não lhe retira a natureza de norma infraconstitucional, bem como que o acórdão guerreado violou a legislação supra mencionada, uma vez que erroneamente aplicou o teor dessa norma a favor da agravada para determinar a exclusão do IPI da base de cálculo do ICMS em operações interestaduais de venda de bebidas a varejistas e atacadistas situados no Estado do Maranhão" (fl. 519).
+Impugnação apresentada (fls. 524/540).
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL.  AGRAVO  INTERNO  NO AGRAVO EM RECURSO  ESPECIAL.  MANDADO DE SEGURANÇA. EXCLUSÃO DO IPI DA BASE DE CÁLCULO DO ICMS. MATÉRIA APRECIADA PELA CORTE DE ORIGEM SOB ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1.  Ainda que a parte agravante tenha apontado violação a dispositivo infraconstitucional, a Corte de origem, ao julgar a controvérsia, conforme se observa pela leitura do acórdão recorrido, fundou seu entendimento em preceito de natureza constitucional, o que afasta a possibilidade de análise da pretensão recursal na via do recurso especial, sob pena de usurpação da competência do STF, por expressa determinação do art. 102, III, da Constituição Federal.
+2. Agravo  interno  a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste, porquanto os argumentos trazidos no recurso não são suficientes para infirmar a decisão agravada.
+Como  exposto  na  decisão  agravada, o Tribunal de origem assim se manifestou sobre o cerne da insurgência:
+Entendo que o ponto fulcral do presente mandado de segurança, extinto no juízo de primeiro grau sem resolução do mérito por inadequação da via eleita, restringe-se basicamente à verificação de se o IPI integra ou não a base de cálculo do ICMS, especificamente para a atividade desenvolvida pela agravada, de comércio atacadista de bebidas em geral.
+Conforme já afirmei quando do julgamento do agravo de instrumento nº 0803803-12.2017.8.10.0000, interposto pelo Estado do Maranhão contra decisão de base que, em princípio, concedera a liminar neste Mandado de Segurança, há de se observar que o ICMS (Imposto de Circulação de Mercadorias e Serviços) é um tributo não-cumulativo, sendo retirado pela própria Constituição Federal de sua base de cálculo a incidência de outros impostos indiretos, dentre os quais o IPI (Imposto sobre Produtos Industrializados), nos termos do art. 155, § 2º, inciso XI, da CF/88.
+Em atenção ao supracitado dispositivo constitucional, pois, para que o montante pago a título de IPI não integre a base de cálculo do ICMS, é necessário que a operação seja realizada entre contribuintes, que o objeto seja destinado à industrialização ou comercialização e que ocorra, in concreto, o fato gerador dos dois tributos, ICMS e IPI.
+Havendo, então, a conjugação desses três requisitos, a Constituição Federal determina a exclusão do IPI da base de cálculo do ICMS na operação. Transcrevo julgados do STF e do STJ sobre o tema, os quais não deixam margem a dúvidas acerca da efetiva aplicação do dispositivo constitucional:
+(..)
+In casu, a operação realizada pela apelante amolda-se claramente à previsão constitucional de não inclusão do IPI na base de cálculo do ICMS, sendo indevida sua cobrança pelo Estado.
+Infundado o argumento do apelado de que a decisão estaria concedendo isenção ou uma espécie de "benesse" fiscal, uma vez que apenas se está garantindo a aplicação de direito já previsto na Constituição, que estaria sendo infringida com a manutenção da cobrança do tributo nos moldes inicialmente efetuados pelo Estado (fls. 237/238, grifo nosso).
+Ainda que a parte agravante tenha apontado violação a dispositivo infraconstitucional, a Corte de origem, ao julgar a controvérsia, conforme se observa pela leitura do acórdão recorrido, fundou seu entendimento em preceito de natureza constitucional, o que afasta a possibilidade de análise da pretensão recursal na via do recurso especial, sob pena de usurpação da competência do STF, por expressa determinação do art. 102, III, da Constituição Federal. A propósito:
+PROCESSUAL CIVIL. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese concreta, não se mostra viável o conhecimento do Recurso Especial, sendo inaplicáveis os precedentes do STJ a respeito do tema. O acórdão hostilizado não solucionou a lide com base na exegese da legislação federal, mas sim na sua compatibilidade com a Constituição Federal de 1988. Com efeito, a Corte de origem consignou que, conforme entendimento fixado no STF no julgamento do RE 237.965, o art. 1º da Lei 5.724/1971 seria inconstitucional.
+2. O Recurso Especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme. Não é, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, segundo dispõe o art. 102, III, da Carta Magna.
+3. Agravo Interno não provido (AgInt no AREsp 1.739.782/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021).
+Ante  o  exposto,  nego provimento  ao  agravo  interno .
+É  o  voto.
