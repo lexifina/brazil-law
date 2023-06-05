@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ HENRIQUE PAIVA contra decisão monocrática, assim ementada (fl. 445):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. MANDADO DE SEGURANÇA INDIVIDUAL. FASE DE EXECUÇÃO JUDICIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VIOLAÇÃO DO ARTIGO 85, § 1º, DO CPC/2015. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O embargante sustenta que a decisão padece dos vícios da contradição e da omissão.
+Assim, fundamenta em que "a decisão incorre em contradição visto que a questão de fundo suscitada em recurso especial é justamente o fundamento principal do acórdão recorrido" (fl. 461).
+Por fim, que (fl. 463):
+ ..  a omissão e, consequentemente, violação aos arts. 489, §1º, IV, 1.022, II e 1.025, do Código de Processo Civil é evidenciada no próprio acórdão recorrido, pois o que o recorrente pretende é que se enfrente a questão principal relativa ao fato de que a origem do título ser irrelevante para fins de análise da sucumbência, sendo certo que o cumprimento de sentença, ainda que originário de ação mandamental, é regido pelo Código de Processo Civil.
+ ..
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, consta da decisão combatida que (fls. 446-448):
+ ..
+De início, afasta-se a alegada violação aos artigos 489, 1.022 e 1.025 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se ter a Corte local decidido que (fl. 310):
+ ..
+É pacífico o entendimento, na jurisprudência, do descabimento de honorários advocatícios em mandado de segurança, a teor do art. 25 da Lei nº 12.016/2009, dispositivo já previsto na revogada Lei nº 1.533/51, que regulava o mandado de segurança. Eis o dispositivo:
+Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé.
+Sobre o tema, foram expedidas as Súmulas nº 512, do Supremo Tribunal Federal, e nº 105 do Superior Tribunal de Justiça:
+Na ação de Mandado de Segurança não se admite condenação em honorários advocatícios. (Súmula 105/STJ)
+Não cabe condenação em honorários de advogado na ação de mandado de segurança. (Súmula 512/STF)
+Portanto, o fato de os autos se encontrarem em fase de execução não desqualifica a natureza da ação, que é mandamental. Nesse sentido, mutatis mutandis:
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa a referidos artigos.
+No mérito, revisitando o recurso especial, verifico que o apelo padece dos requisitos para o seu conhecimento.
+Isso porque o recorrente, ao indicar ofensa ao artigo 85, § 1º, do CPC/2015 e direcionar a sua tese no sentido do reconhecimento de que são devidos honorários advocatícios no cumprimento de sentença, ainda que o título executivo tenha sido formado em Mandado de Segurança, deixou de impugnar o fundamento do acórdão recorrido segundo o qual (fl. 310):
+ ..
+É pacífico o entendimento, na jurisprudência, do descabimento de honorários advocatícios em mandado de segurança, a teor do art. 25 da Lei nº 12.016/2009, dispositivo já previsto na revogada Lei nº 1.533/51, que regulava o mandado de segurança. Eis o dispositivo:
+Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé.
+Sobre o tema, foram expedidas as Súmulas nº 512, do Supremo Tribunal Federal, e nº 105 do Superior Tribunal de Justiça:
+Na ação de Mandado de Segurança não se admite condenação em honorários advocatícios. (Súmula 105/STJ)
+Não cabe condenação em honorários de advogado na ação de mandado de segurança. (Súmula 512/STF)
+Portanto, o fato de os autos se encontrarem em fase de execução não desqualifica a natureza da ação, que é mandamental. Nesse sentido, mutatis mutandis:
+ ..
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide ao caso a Súmula 283/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SUFICIÊNCIA DE PROVAS. SISTEMA DE COTAS. CRITÉRIO DE AVALIAÇÃO FENOTÍPICA. CONFORMIDADE COM O EDITAL. SÚMULAS 7 E 5/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há vulneração do art. 1.022 do CPC/2015, quando a controvérsia deduzida na origem é dirimida de modo claro e fundamentado, não podendo se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A questão controvertida implica análise do Edital de regência do processo seletivo e requer interpretação de suas cláusulas, bem como revolvimento do conjunto probatório, o que é vedado em Recurso Especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial.
+Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1900407/AL , Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/03/2022, DJe 30/03/2022) (grifo meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL. ANÁLISE VEDADA NESTA VIA RECURSAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Afasta-se, igualmente, a alegada afronta ao artigo 489 do CPC/2015, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Quanto aos arts. 110 do CTN; 3º, §1º, da Lei 9.718/98; 2º da Lei Complementar 70/91 e 3º da Lei 9.715/98, tem-se que"o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à COFINS é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial" (REsp 1.278.769/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2012).
+6.Agravo interno não provido.
+(AgInt no REsp 1859197/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 16/05/2022, Dje de 19/05/2022) (grifei).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 141 E 492 DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 211/STJ. ISS. RESPONSABILIDADE PELO PAGAMENTO DO TRIBUTO COMO SUBSTITUTA TRIBUTÁRIA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - In casu, rever o entendimento do tribunal de origem acerca da responsabilidade da ora Agravante pelo pagamento do tributo demandaria necessário revolvimento de cláusula contratual e matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 5 e 7 do STJ.
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional quando a parte recorrente deixa de proceder ao cotejo analítico entre os julgados confrontados, não demonstrando que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1971292/BA, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 25/04/2022, Dje de 27/04/2022) (grifei).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+ ..
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
