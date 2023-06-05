@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial por intempestividade.
+O agravante alega que o recurso é tempestivo, porquanto protocolado dentro do prazo em dobro, de 30 dias úteis, previsto no art. 229 do CPC/2015, observado que os procuradores dos litisconsortes são distintos.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISCONSÓRCIO. PROCURADORES DIVERSOS. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. INTEMPESTIVIDADE. PRAZO EM DOBRO. INAPLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte posicionou-se no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer. Precedentes.
+3. No caso, a decisão de inadmissibilidade do apelo especial foi publicada em 16/11/2021, iniciando-se o prazo recursal em 17/11/2021. O agravo em recurso especial, no entanto, foi interposto apenas em 1º/2/2022 quando já decorrido o prazo de 15 (quinze) dias úteis legalmente estabelecido.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque a decisão de inadmissibilidade do apelo especial foi publicada no DJe em 16/11/2021 (fl. 870), iniciando-se o prazo recursal em 17/11/2021. O agravo em recurso especial, no entanto, foi interposto apenas em 1º/2/2022 (fl. 906), quando já decorrido o prazo de 15 (quinze) dias úteis legalmente estabelecido.
+Assim, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do CPC/2015.
+Ressalte-se que a jurisprudência desta Corte posicionou-se no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer.
+Nesse sentido, com grifos nossos:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. O prazo em dobro previsto no art. 229 do CPC/2015 (art. 191 do CPC/1973) não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt nos EDv nos EAREsp 1.033.935/AM, rel. Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado em 07/04/2020, DJe 16/04/2020).
+2. Agravo interno desprovido (AgInt nos EDcl no AREsp n. 1.961.844/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/6/2022, DJe de 1/7/2022.)
+PROCESSO CIVIL. DIREITO DO CONSUMIDOR. AÇÃO CIVIL PÚBLICA. DANOS MATERIAIS E IMATERIAIS E LUCROS CESSANTES. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. LITISCONSÓRCIO COM PROCURADORES DISTINTOS. INAPLICABILIDADE DO ART. 229 DO CPC. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de ação civil pública julgada parcialmente procedente para condenar a ré ao pagamento de indenização por danos materiais, morais e emergentes e lucros cessantes causados pela interrupção dos serviços de internet no dia 03.07.2008. No Tribunal a quo, a apelação foi parcialmente provida.
+II - Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+III - Mediante análise do recurso de TELEFÔNICA BRASIL S.A., a parte recorrente foi intimada da decisão agravada em 30/11/2018, sendo o agravo somente interposto em 13/02/2019. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts.
+1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+IV - Cumpre esclarecer que "o prazo em dobro previsto no art. 229 do NCPC, correspondente ao art. 191 do CPC/73, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer". (AgInt no AREsp 1382406/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/4/2019).
+V - O entendimento acima citado, consolidado no âmbito deste STJ, amolda-se perfeitamente ao caso, porquanto, feito o juízo de inadmissibilidade em relação ao recurso especial anteriormente interposto, somente a agravante possuía interesse e legitimidade para recorrer da decisão proferida, não sendo os argumentos deduzidos no agravo interno suficientes para infirmar a conclusão alcançada.
+VI - Agravo interno improvido (AgInt no AREsp n. 1.933.361/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISCONSÓRCIO. PROCURADORES DIVERSOS. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. INTEMPESTIVIDADE. PRAZO EM DOBRO. INAPLICABILIDADE.
+1. A jurisprudência desta Corte posicionou-se no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer. Precedentes.
+2. No caso, a decisão de inadmissibilidade do apelo especial foi publicada em 16/3/2017, iniciando-se o prazo recursal em 17/3/2017. O agravo em recurso especial, no entanto, foi interposto apenas em 3/5/2017 quando já decorrido o prazo de 15 (quinze) dias úteis legalmente estabelecido.
+3. Agravo interno não provido (AgInt no AREsp n. 1.250.958/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/10/2018, DJe de 16/10/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
