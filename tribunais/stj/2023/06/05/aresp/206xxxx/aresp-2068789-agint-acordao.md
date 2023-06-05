@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por JFE 60 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. - EM RECUPERAÇÃO JUDICIAL (JFE 60) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MATERIAIS. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INICIATIVA DA ADQUIRENTE. TRANSAÇÃO ENTRE AS PARTES ACERCA DO MONTANTE A SER RESTITUÍDO ÀQUELA. INSURGÊNCIA. REVISÃO DE CONTRATOS FINDOS. CABIMENTO. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+Nas razões do presente inconformismo, defendeu que o distrato da promessa de compra e venda de apartamento em construção foi realizado, voluntariamente, entre as partes, por meio de concessões recíprocas (transação no campo dos direitos patrimoniais disponíveis), de modo que o arrependimento tardio pela recorrida não enseja a invalidação da vontade expressa no instrumento firmado em conjunto, sendo indevida a condenação da recorrente a restituir valor além daquele pactuado.
+Foi presentada contraminuta requerendo a aplicação da multa prevista no art. 1.021, § 4º, do NCPC (e-STJ, fls. 514/519).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INICIATIVA DA ADQUIRENTE. REVISÃO DE DISTRATO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou o entendimento de que é cabível a revisão de distrato de contrato de compra e venda de imóvel na hipótese em que, apesar de ter havido a quitação ampla, geral e irrevogável, fique constatada a existência de cláusula de decaimento abusiva, prevendo a perda total ou substancial das prestações pagas pelo comprador, em nítida afronta às disposições do Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Da revisão do distrato
+JFE 60 sustentou que o distrato da promessa de compra e venda de apartamento em construção foi realizado, voluntariamente, entre as partes, mediante concessões recíprocas (transação no campo dos direitos patrimoniais disponíveis), de modo que o arrependimento tardio pela recorrida não enseja a invalidação da vontade expressa no instrumento firmado em conjunto, daí ser indevida a sua condenação a restituir valor além daquele pactuado.
+Esta Corte Superior entende que é cabível a revisão de distrato de contrato de compra e venda de imóvel na hipótese em que, apesar de ter havido a quitação ampla, geral e irrevogável, fique c onstatada a existência de cláusula de decaimento abusiva, prevendo a perda total ou substancial das prestações pagas pelo comprador, em nítida afronta às disposições do Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. OMISSÃO. INEXISTÊNCIA. DISTRATO. REVISÃO. SÚMULAS 283 DO STF E 83 DO STJ. DANO MORAL CONFIGURADO NO CASO CONCRETO. SÚMULA 7 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+ ..
+3. "A jurisprudência desta Corte entende possível a revisão do pacto de distrato de compra e venda, quando observada a existência de cláusula abusiva, configurando nítida ofensa ao Código de Defesa do Consumidor e aos princípios da boa-fé e do equilíbrio contratual. Súmula n. 83/STJ." (AgInt no REsp 1849494/AM, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 01/03/2021, DJe 03/03/2021).
+4. Em relação aos danos morais, a jurisprudência desta Corte firmou- se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade.
+5. No caso concreto, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu pela existência de danos morais. Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+6. O valor arbitrado a título de danos morais pelo Julgador a quo observou os critérios de proporcionalidade e de razoabilidade, visto que o montante fixado não se revela exorbitante, e sua eventual redução demandaria reexame de provas (Súmula n. 7/STJ).
+7. Agravo interno não provido.
+(AgInt no AREsp 1.954.973/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 25/4/2022, DJe de 27/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM E PELA DECISÃO AGRAVADA. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. PACTO DE DISTRATO. REVISÃO. POSSIBILIDADE. SÚMULA N. 83/STJ. EXTINÇÃO POR CULPA DO COMPRADOR. PARCELAS PAGAS. PERCENTUAL DE RETENÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+ ..
+2. A jurisprudência desta Corte entende possível a revisão do pacto de distrato de compra e venda, quando observada a existência de cláusula abusiva, configurando nítida ofensa ao Código de Defesa do Consumidor e aos princípios da boa-fé e do equilíbrio contratual.
+Súmula n. 83/STJ.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir que a retenção de 10% (dez por cento) dos valores pagos seria suficiente para cobrir as despesas da empresa, principalmente porque o imóvel teria sido revendido. Alterar tal conclusão é inviável em recurso especial.
+5. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+6. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.849.494/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 1/3/2021, DJe de 3/3/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. RESCISÃO. PEDIDO DO COMPRADOR. RETENÇÃO. PERCENTUAL. CLÁUSULA. ABUSIVIDADE. DIVERGÊNCIA COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende ser cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, a despeito da quitação ampla, geral e irrevogável, exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+3. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp 1.701.206/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 1º/6/2021, DJe 17/6/2021.)
+No caso em análise, o Tribunal do Rio de Janeiro reconheceu a abusividade da cláusula que, na celebração de distrato formal entre as partes, impôs à compradora desistente a perda de 50% dos valores pagos, determinando a sua redução para 25% desse total, não comportando o acórdão recorrido nenhum reparo.
+Incide, à hipótese, o comando da Súmula n.º 568 do STJ.
+Da multa prevista no art. 1.021, § 4º, do NCPC
+Por derradeiro, conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, a aplicação da multa prevista no art. 1.021, § 4º, do NCPC não é automática, pois não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/8/2016, DJe 29/8/2016).
+Nessa toada, confiram-se os seguintes julgados: AgInt no AREsp 605.532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 31/8/2020, DJe 9/9/2020; e AgInt no AREsp 1.590.140/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 31/8/2020, DJe 3/9/2020.
+Assim, não há que se falar na aplicação da aludida multa, uma vez que, no caso, o manejo do agravo interno por JFE 60, por si só, não deve ser tido como abusivo ou protelatório.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
