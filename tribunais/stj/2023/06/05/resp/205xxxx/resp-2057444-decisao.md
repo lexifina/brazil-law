@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIANE CASSIA DE MOURA QUEIROZ LOTUFO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 30):
+AGRAVO DE INSTRUMENTO AÇÃO COMINATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA REJEIÇÃO DA IMPUGNAÇÃO ALEGAÇÃO DE NECESSIDADE DA INTIMAÇÃO PESSOAL DOS DEVEDORES SOBRE A OBRIGAÇÃO DE FAZER SOB PENA DE MULTA - QUESTÃO QUE DEVE SER ANALISADA CASO A CASO PRECEDENTE DO C. STJ (SÚMULA 410) - DESCABIMENTO INTIMAÇÃO QUE PODE SEDAR NA PESSOA DO ADVOGADO CIÊNCIA DA PARTE QUANTO ÀS SUAS OBRIGAÇÕES, BEM COMO DA MULTA EM CASO DE DESCUMPRIMENTO AINDA NA FASE DE CONHECIMENTO ALEGAÇÃO DE CUMPRIMENTO DA OBRIGAÇÃO EXECUTADOS QUE NÃO TROUXERAM DADOS CONCRETOS QUE INFIRMASSEMOS ARGUMENTOS DO JUÍZO SINGULAR - RECURSO NÃO PROVIDO, REVOGADA A LIMINAR
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 130):
+EMBARGOS DECLARATÓRIOS - AÇÃO COMINATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA REJEIÇÃO DA IMPUGNAÇÃO - INOCORRÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE - INFRINGÊNCIA QUE NÃO SE RESOLVE NESTA SEDE - PREQUESTIONAMENTO - EMBARGOS REJEITADOS
+Em suas razões de recurso especial (e-STJ, fls. 133-154), a recorrente alega violação dos arts. 9º, 10, 231, § 3º, 370, 405, 409, 489, § 1º, IV, 513, § 2º, I, 525, § 1º, VII, 815, 926, 927, IV e V, e 1.022 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, a necessidade de intimação pessoal para incidência da multa cominatória, em razão de se tratar de obrigação de fazer que deve ser cumprida pela parte, nos termos da Súmula n. 410 do STJ.
+Adverte a respeito da ocorrência de cerceamento de defesa.
+Requer, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 249-269).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 270-271).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese ora em análise, o Tribunal de Justiça do Estado de São Paulo, ao dirimir a controvérsia, assim consignou (e-STJ, fl. 32):
+Com efeito, em que pese o teor da Súmula n.º 410 do Colendo Superior Tribunal de Justiça que preceitua a necessidade de prévia intimação pessoal do devedor para cumprimento de obrigação de fazer, a aplicação desse posicionamento deve ser estudada caso a caso, até porque a própria Corte Superior já entendeu, em caso concreto, que a intimação da parte devedora para cumprimento de obrigação de fazer pode ser feita na pessoa do advogado, pela imprensa oficial.
+( )
+No caso dos autos, os réus tinham ciência da obrigação de fazer e da multa em caso de descumprimento, ainda na fase de conhecimento quando foi proferida a sentença.
+Diante disso, deve ser afastada a determinação de intimação pessoal dos devedores, sendo suficiente a intimação na pessoa do advogado.
+Do excerto acima transcrito, depreende-se que a solução conferida ao caso diverge da jurisprudência desta Corte Superior.
+Com efeito, a iterativa jurisprudência desta Corte se firmou no sentido de ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis 11.232/2005 e 11.382/2006, nos termos da Súmula n. 410/STJ, cujo teor permanece hígido também após a entrada em vigor do Código de Processo Civil de 2015.
+Nessa linha, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. AUSÊNCIA DE INTIMAÇÃO PESSOAL PARA O CUMPRIMENTO DA OBRIGAÇÃO. ASTREINTES. IMPOSSIBILIDADE. SÚMULA 410/STJ. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. MODIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula 410 do STJ, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor (CPC/1973). Esclarecimento do decidido pela Segunda Seção no Eag 857.758-RS"" (REsp 1.349.790/RJ, Relatora Ministra Isabel Gallotti, SEGUNDA SEÇÃO, DJe de 27.2.2014).
+3. Estando o acórdão estadual em consonância com a jurisprudência deste Tribunal, o recurso especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno desprovido (AgInt no AREsp 1.458.663/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 16/11/2020, DJe 14/12/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. CUMPRIMENTO DE DECISÃO. INTIMAÇÃO. NECESSIDADE. SÚMULA Nº 410/STJ.1.
+Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).2. É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis nºs 11.232/2005 e 11.382/2006, nos termos da Súmula nº 410/STJ, cujo teor permanece hígido também após a entrada em vigor do Código de Processo Civil de 2015.
+Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp 1.366.925/SE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/08/2019, DJe 27/08/2019).
+Nesse contexto, estando o acórdão recorrido em desconformidade com a jurisprudência desta Corte, torna-se imperiosa a sua reforma.
+Diante do exposto, dou provimento ao recurso especial para afastar a cobrança das astreintes ante a falta de intimação pessoal da devedora.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO COMINATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. COBRANÇA DE ASTREINTES. NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA CUMPRIMENTO DE OBRIGAÇÃO DE FAZER. NECESSIDADE. SÚMULA 410/STJ. INCIDÊNCIA MESMO APÓS A VIGÊNCIA DO CPC/2015. PRECEDENTE DA CORTE ESPECIAL DESTE TRIBUNAL. ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
