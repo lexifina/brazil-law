@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por VOTORANTIM CIMENTOS S/A INCORPORADOR DO CJ MINERAÇÃO LTDA contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Trigésima Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumento interposto pelo ora insurgente, nos termos da seguinte ementa (e-STJ, fl. 5.725):
+AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. Inicial ajuizada ainda na vigência do CPC/73. Consta que a agravada arrendou à agravante VOTORANTIM, sucessora da CJ MINERAÇÃO LTDA., todos os imóveis e ativos necessários para o bom desempenho de atividades de mineração. Em contrapartida, a agravante assumiu a obrigação de pagar 35% do lucro líquido obtido mensalmente em decorrência da exploração dos ativos arrendados. PROVA PERICIAL. Dever da agravante de apresentar os balancetes referentes aos anos de 2012 e seguintes, até o encerramento das atividades na mina, como forma de se apurar as contas exigidas. Cabimento. Com efeito, muito embora no tópico adequado da exordial não tenha havido a inclusão do pedido expresso tal como determinado pelo D. Juízo no período, é certo que a sua interpretação considerará o conjunto da postulação e observará o princípio da boa-fé, nos termos do art. 322, §2º, do CPC/15, aplicável à espécie, como regra interpretativa, não obstante o ajuizamento desta lide na vigência do CPC/73. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 5.768-5.771).
+Nas razões do apelo especial, fundado no art. 105, III, a, da Constituição Federal, a recorrente indicou ofensa ao art. 492 do CPC/2015.
+Sustentou, em síntese, a ocorrência de decisão extra petita, na medida em que a parte adversa postulou especificamente, em sua inicial da ação de prestação de contas, a apresentação dos demonstrativos referentes ao período de 05/2010 a 03/2013. No entanto, as instâncias originárias estenderam, para além do pedido, a exibição de balancetes que compreendam todo o período de exploração da mina.
+Foram apresentadas contrarrazões (e-STJ, fls. 5.863-5.870).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+A respeito da tese defendida no apelo excepcional, o Tribunal de origem assim se manifestou (e-STJ, fls. 5.728-5.729, sem grifos no original):
+Pois bem, constou da Cláusula 3.1 do contrato celebrado entre as partes que em contrapartida ao arredamento de bens móveis e imóveis descritos a fls.30/57, da origem, a agravada assumiu a obrigação de pagar 35% do lucro líquido obtido mensalmente em decorrência da exploração dos bens da agravada (fls. 18, da origem).
+O contrato foi pactuado pelo prazo de 20 anos e foi assinado em maio de 2010 (fls. 16/30, da origem).
+A r. decisão ora impugnada indicou que a agravante deve, em 60 dias, apresentar os balancetes referentes aos anos de 2012 e seguintes, até o encerramento das atividades na mina, como forma de se apurar as contas exigidas.
+Com efeito, muito embora no tópico adequado da exordial não tenha havido a inclusão do pedido expresso tal como determinado pelo D. Juízo no período, é certo que "a interpretação do pedido considerará o conjunto da postulação e observará o princípio da boa-fé", nos termos do art. 322, §2º, do CPC/15, aplicável à espécie, como regra interpretativa, não obstante o ajuizamento desta lide na vigência do CPC/73, e da previsão contida no art. 1046, § 1º, do CPC, uma vez que inserida no objeto do contrato em discussão e na pretensão descrita na petição inicial.
+Consta, ainda, nos aclaratórios, a seguinte fundamentação (e-STJ, fl. 5.770, sem grifos no original):
+Conforme constou, MINERAÇÃO AGUAÇU LTDA.-EPP, ora embargada, ajuizou ação de prestação de contas, ainda na vigência do CPC/73, em face de CJ MINERAÇÃO LTDA. e VOTORANTIM CIMENTOS BRASIL S/A. alegando que as partes celebraram instrumento particular de arrendamento de bens imóveis e móveis, direitos minerários e outras avenças, em 14.05.2010.
+Consta que por meio do referido instrumento, arrendou à embargante VOTORANTIM, sucessora da CJ MINERAÇÃO LTDA. (fls. 01) todos os imóveis e ativos necessários para o bom desempenho de atividades de mineração a ser exercida na Rodovia Cuiabá-Guia, Km 24, no distrito de Nossa Senhora da Guia, Cuiabá/MT, livres de quaisquer ônus, nos exatos termos do mencionado instrumento.
+Em contrapartida, a embargante assumiu a obrigação de pagar 35%do lucro líquido obtido mensalmente em decorrência da exploração dos ativos arrendados. Ocorre que, alegou a embargada que jamais recebeu qualquer relatório, mas apenas informações por meio de telefone no sentido de que as atividades não auferiam lucros.
+Na origem, indicou-se que a embargante deveria apresentar os balancetes referentes aos anos de 2012 e seguintes, até o encerramento das atividades na mina, como forma de se apurar as contas exigidas.
+Com efeito, conforme constou, muito embora no tópico adequado da exordial não tenha havido a inclusão do pedido expresso tal como determinado pelo D. Juízo no período, é certo que "a interpretação do pedido considerará o conjunto da postulação e observará o princípio da boa-fé", nos termos do art. 322, §2º, do CPC/15.
+Isso porque, pretende a embargada verificar a existência de lucro durante a exploração, para com isso se extrair eventual crédito nos termos contratados, conclusão que se extrai do contexto da exordial.
+Vê-se que o entendimento esposado pelo Tribunal local está em sintonia com a jurisprudência desta Corte Superior, no sentido de que não configura julgamento ultra e extra petita o provimento jurisdicional inserido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. SÚMULA N. 83/STJ. DECISÃO ULTRA E EXTRA PETITA. NÃO OCORRÊNCIA. ENRIQUECIMENTO INDEVIDO. AUSÊNCIA. DISPOSITIVO LEGAL VIOLADO. IMPERTINÊNCIA. SÚMULA N. 284/STF. EXAME DAS TESES JURÍDICAS. OMISSÃO. INEXISTÊNCIA.
+1. "O pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo tod o s os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos"" (REsp 120.299/ES, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 25/06/1998, DJ 21/09/1998, p. 173). Precedentes do STJ.
+1.1. No caso concreto, o TJMG interpretou os fatos e fundamentos jurídicos expostos na petição inicial para assim compreender a amplitude do pedido formulado pela agravada.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1450420/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022)
+RECURSO ESPECIAL. FALÊNCIA. PEDIDO DE PROVIDÊNCIAS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SUCESSÃO. FALHA NA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. COISA JULGADA. INEXISTÊNCIA. AÇÃO AUTÔNOMA. NECESSIDADE AFASTADA. PRESCRIÇÃO. DECADÊNCIA.
+(..)
+7. O entendimento do Superior Tribunal de Justiça é firme no sentido de que os pedidos formulados pelos recorrentes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+(..)
+9. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1943831/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Por conseguinte, estando o acordão recorrido em consonância com o entendimento do Superior Tribunal de Justiça sobre o tema, é de rigor que seja mantido. Incidência da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. DECISÃO EXTRA PETITA. NÃO OCORRÊNCIA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
