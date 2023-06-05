@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BANCO  SANTANDER  (BRASIL)  S. A.  e  BANESPREV  FUNDO  BANESPA  DE  SEGURIDADE  SOCIAL  contra  a  decisão  que  não  conheceu  dos  agravos  devido  à  aplicação  do  art.  932,  III,  do  Código  de  Processo  Civil  (fls.  1.162/1.164  e-STJ).
+Nas  presentes  razões  (fls.  1.167/1.194),  os  agravantes  sustentam  que
+"(..)
+O  Agravo  aponta  especificamente  que  a  violação  à  legislação  federal  está  bem  demonstrada  no  Recurso  Especial,  havendo  omissões  flagrantes  não  solucionadas  mesmo  após  a  oposição  de  Embargos  de  Declaração.
+Veja-se  que  o  recurso  destaca  razões  específicas  para  indicar  a  efetiva  violação  aos  arts.112,  114  e  1.022,  II  do  CPC,  art.  75  da  Lei  109/2001  e  art.  506  da  Lei  13.105/2015  (e-STJ  Fl.  1124).
+E,  ainda  que  tivesse  ocorrido  falta  de  impugnação  a  um  dos  fundamentos  da  decisão  de  admissão  do  Recurso  Especial  (violação  ao  art.  1.022  do  CPC  ou  matérias  rejeitadas  por  óbice  das  Súmulas  7/STJ,  282  e  284/STF),  em  sede  de  Agravo,  tal  NÃO  poderia  conduzir  ao  não  conhecimento  do  Agravo  como  um  todo,  pois  há  questão  autônoma,  que  impugna  capítulos  autônomos  dos  vv.  Acórdãos  Recorridos.
+A  falta  de  impugnação  a  uma  questão,  quando  muito,  poderia  levar  ao  não  conhecimento  dessa  questão,  mas  não  do  Agravo  como  um  todo,  dado  que  demais  questões  foram  devidamente  impugnadas".
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  FUNDAMENTO.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC,  C/C  ART.  253,  PARÁGRAFO  ÚNICO,  I,  DO  RISTJ. PRECEDENTES.
+1.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  CPC,  c/c  art.  253,  parágrafo  único,  I,  do  RISTJ).
+2  .  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  caso,  os  dois  agravos  interpostos  não  foram  conhecidos  por  falta  de  impugnação  específica  dos  fundamentos  da  decisão  agravada.
+Na  espécie,  o  agravante  BANCO  SANTANDER  (BRASIL)  S.  A.  deixou  de  refutar  especificamente  a  ausência  de  afronta  ao  art.  1.022  do  CPC,  a  ausência  de  prequestionamento  e  a  incidência  da  Súmula  nº  7/STJ.
+Já  o  agravante  BANESPREV  FUNDO  BANESPA  DE  SEGURIDADE  SOCIAL  não  rebateu  os  fundamentos  da  decisão  agravada  referentes  à  ausência  de  violação  do  art.  1022  do  CPC  e  à  ausência  de  prequestionamento.
+De  fato,  é  dever  do  agravante  demonstrar  o  desacerto  da  decisão  atacada,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  consoante  determinam  o  art.  932,  III,  do  CPC  e  a  Súmula  nº  182/STJ.
+A  propósito:  AgInt  no  AREsp  856.456/AL,  Rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  16/5/2016;  AgRg  no  AREsp  619.952/SP,  Rel.  Desembargador  convocado  Leopoldo  de  Arruda  Raposo,  Quinta  Turma,  DJe  de  17/8/2015;  AgRg  nos  EREsp  1.387.734/RJ,  Rel.  Ministro  Jorge  Mussi,  Corte  Especial,  DJe  de  9/9/2014,  e  AgRg  nos  EDcl  nos  EAREsp  402.929/SC,  Rel.  Ministro  João  Otávio  de  Noronha,  Corte  Especial,  DJe  de  27/8/2014.
+Cumpre  consignar  que  o  Superior  Tribunal  de  Justiça,  no  julgamento  dos  EAREsp  746.775/PR,  manteve  o  entendimento  de  que  é  necessária  a  impugnação  específica  de  todos  os  fundamentos  de  decisão  agravada,  sob  pena  a  incidência  da  Súmula  nº  182/STJ.
+Confira-se:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.
+1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,  II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator  "não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.
+2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.
+4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.
+5.  Embargos  de  divergência  não  providos"  (EAREsp  746.775/PR,  Rel.  p/  acórdão  Ministro  LUIS  FELIPE  SALOMÃO,  CORTE  ESPECIAL,  julgado  em  19/9/2018,  DJe  30/11/2018  -  grifou-se).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
