@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por Nelson Kamarowski, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região no Agravo de Execução Penal n. 5053390-25.2022.4.04.7000/PR (fls. 58/65):
+PENAL. PROCESSO PENAL. AGRAVO DE EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCOINICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES.
+1. A pretensão defensiva é descabida, porquanto o trânsito em julgado para a acusação ocorreu somente em 10/08/2021, o que indica que a pretensão executória permanece hígida. Ademais, o termo inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado para ambas as partes, momento em que surge o título penal passível de execução.
+2. Agravo de execução penal desprovido.
+No presente recurso especial, além de ser apontada a presença de dissídio jurisprudencial, é indicada a violação do art. 112, I, do Código Penal.
+Assevera o recorrente que a decisão hostilizada entendeu pela possibilidade de adotar-se um novo entendimento acerca da prescrição executória. Ocorre que, com a devida vênia, errônea foi a decisão, posto não se pode afastar um comando legal a fim de causar um prejuízo ao réu.  ..  O termo inicial da prescrição após a sentença condenatória irrecorrível inicia-se da data em que transita em julgado a sentença condenatória para a acusação, conforme o art. 112, I, do Código Penal.  ..  Porém, entendeu o tribunal a quo que o termo inicial da prescrição da pretensão executória deve-se iniciar com o trânsito em julgado para ambas as partes. Ou seja, uma interpretação fora do texto da lei e em prejuízo ao réu (fls. 74/75).
+Reforça que se faz necessário alterar a decisão do Tribunal a quo, que entendeu que a prescrição ocorre com o trânsito em julgado para ambas as partes, posto que tal entendimento instrumentaliza uma analogia in malam partem ao réu, a qual é vedada na seara penal (fl. 82).
+Ao final da peça recursal, requer o conhecimento do presente recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal de 1988, e, no mérito, seu provimento, para que seja concedida a prescrição da pretensão executória do Estado, na forma do art. 112, I do Código Penal (fl. 86).
+Oferecidas contrarrazões (fls. 93/98), o recurso especial foi admitido na origem (fl. 101).
+O Ministério Público Federal opina pelo desprovimento da insurgência (fls. 116/124):
+RECURSO ESPECIAL. ARTIGO 105, III, ALÍNEAS "A" E "C", DA CONSTITUIÇÃO FEDERAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. TEMA 788 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO QUE INTERROMPE O PRAZO PRESCRICIONAL. PRECEDENTES.
+Parecer pelo desprovimento do recurso.
+É o relatório.
+Para elucidação do quanto requerido, extrai-se do voto condutor do recorrido acórdão o seguinte fundamento (fl. 62 - grifo nosso):
+ ..
+No caso em questão, constato que a pretensão defensiva é descabida, porquanto o trânsito em julgado para a acusação ocorreu somente em 10/8/2021, consoante a certidão acostada no evento 44 - CERTTRAN8 da apelação criminal 5044447-92.2017.4.04.7000, o que indica que a pretensão executória permanece hígida. Ademais, mesmo que se considere as datas indicadas pela defesa, o que se admite somente a título de argumentação, tornou-se necessária a reinterpretação do disposto no art. 112, inciso I, do Código Penal, no sentido de que o prazo prescricional da pretensão executória tenha o seu transcurso a partir do trânsito em julgado para ambas as partes, que é o momento da formação do título imprescindível para o início da execução.
+A pretensão executória, assim, permanece hígida.
+ ..
+O acórdão não comporta reparos.
+Não há falar em prescrição da pretensão executória, porque, ainda que haja, no STF, reconhecimento de repercussão geral no STF - ARE n. 848.107/DF (Tema n. 788) -, pendente de julgamento,  o  Plenário do Supremo Tribunal Federal, no julgamento do AI 794971-AgR/RJ (Rel. para acórdão Ministro MARCO AURÉLIO, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes. Assim, por já ter havido manifestação do Plenário da Suprema Corte sobre a controvérsia e em razão desse entendimento estar sendo adot ado pelos Ministros de ambas as turmas do STF, essa orientação deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto (AgRg no RHC n. 163.758/SC, Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe 27/6/2022) (AgRg no REsp n. 2.000.360/PR, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 15/8/2022 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DO ART. 112, I, DO CP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. ENTENDIMENTO SUFRAGADO PELO STF. POSICIONAMENTO DA SEXTA TURMA DESTA CORTE.
+Recurso especial desprovido.
