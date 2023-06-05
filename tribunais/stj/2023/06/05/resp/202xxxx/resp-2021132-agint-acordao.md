@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão proferida Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. MANDADO DE SEGURANÇA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. FORMA DE CÁLCULO: DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA, LIMITADO A 4% DO IMPOSTO DEVIDO, APÓS A INCLUSÃO DO ADICIONAL. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+A parte agravante aduz, em suma, que após a alteração legislativa promovida pela Lei 9.532/1997 a dedução das despesas com o Programa de Alimentação do Trabalhador-PAT deve ser calculada sobre o imposto devido, sem dedução alguma sobre o seu adicional, conforme determina o § 4º do art. 3º da Lei 9.249/1995.
+Requer,  desse  modo,  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  feito  ao  órgão  colegiado  competente.
+Impugnação  ao recurso apresentada  às  fls.  495/501.
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROGRAMA  DE  ALIMENTAÇÃO  DO  TRABALHADOR-PAT.  FORMA  DE  CÁLCULO:  DEDUÇÃO  SOBRE  O  LUCRO  TRIBUTÁVEL  DA  EMPRESA . PROVIMENTO NEGADO.
+1. O entendimento do Superior Tribunal de Justiça é o de que o benefício fiscal instituído pelo a rt. 1º da Lei 6.321/1976, consubstanciado no desconto em dobro das despesas comprovadamente realizadas com o Programa de Alimentação do Trabalhador-PAT, deve-se dar sobre o lucro tributável da pessoa jurídica, resultando, assim, no lucro real, sobre o qual deverá recair o adicional do imposto de renda, de modo que as deduções realizadas no momento da apuração do lucro real não interfiram na integralidade prevista no § 4º do art. 3º da Lei 9.249/1995. Precedentes: AgInt no REsp 2.011.243/PR, de minha relatoria, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023; e AgInt no REsp 1.987.454/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023.
+2.  Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste,  porquanto  os  argumentos  trazidos  no  recurso  não  foram  suficientes  para  infirmar  a  decisão  agravada.
+O entendimento do Superior Tribunal de Justiça é o de que o benefício fiscal instituído pelo art. 1º da Lei 6.321/1976, consubstanciado no desconto em dobro das despesas comprovadamente realizadas com o Programa de Alimentação do Trabalhador-PAT, deve-se dar sobre o lucro tributável da pessoa jurídica, resultando, assim, no lucro real, sobre o qual deverá recair o adicional do imposto de renda, de modo que as deduções realizadas no momento da apuração do lucro real não interfiram na integralidade prevista no § 4º do art. 3º da Lei 9.249/1995. A propósito, confiram-se os recentes julgados:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. FORMA DE CÁLCULO: DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA LIMITADO A 4% DO IMPOSTO DEVIDO. AGRAVO INTERNO DESPROVIDO.
+1. As turmas de Direito Público do STJ, analisando todos os dispositivos legais pertinentes, pacificaram a orientação de que "os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional".
+2. O referido entendimento está calcado no fato de que em nenhum momento a legislação posterior alterou essa forma de cálculo, isso porque a integralidade mencionada no § 4º do art. 3º da Lei 9.249/1995 já é formada com as deduções antecedentes sobre o lucro tributável. Precedentes: AgInt no REsp 1.968.875/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/12/2022, DJe de 9/12/2022; e EDcl no AgInt no REsp 1.775.844/SC, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.
+3. Agravo interno da Fazenda Nacional a que se nega provimento. (AgInt no REsp n. 2.011.243/PR, de minha relatoria, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. DEDUÇÃO DAS DESPESAS. INCIDÊNCIA DIRETAMENTE SOBRE O LUCRO TRIBUTÁVEL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A jurisprudência desta Corte Superior está firmada no sentido de que as despesas com o Programa de Alimentação do Trabalhador - PAT devem ser deduzidas diretamente do lucro tributável e não do imposto de renda devido, o que gera reflexos necessários sobre o adicional do imposto de renda e afasta a suposta vedação contida no art. 3º, § 4º, da Lei 9.249/95. Precedentes desta Corte.
+III. Agravo interno improvido. (AgInt no REsp n. 1.987.454/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/3/2023, DJe de 21/3/2023.)
+Diante  dessas  considerações,  nego  provimento  ao  agravo  interno da FAZENDA NACIONAL .
+É  o  voto.
