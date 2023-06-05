@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.310/1.316) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 1.303/1.306).
+Em suas razões, a parte impugna a incidência das Súmulas n. 282 e 356 do STJ, aduzindo que "é implícito a discussão bem como o prequestionamento, diante da existência de frontal violação do §º 11, do artigo 85 do Código de Processo Civil, que em razão da falta de fixação de sucumbência no patamar máximo, deveria o r. acórdão, obrigatoriamente, majorar os honorários advocatícios, conforme bem demonstrado na peça do Recurso Especial" (e-STJ fl. 1.314).
+Assevera que "o exame das violações que serão demonstradas, não depende da revisitação aos fatos da causa, mas tão somente da sua valoração pela Corte Superior, bem como da apuração do flagrante error in judicando na decisão majoritária recorrida, conforme bastante demonstrado" (e-STJ fl. 1.315).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 1.322/1.325), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE INVESTIMENTOS. RESCISÃO. HONORÁRIOS. FALTA DE PREQUESTIONAMENTO. CERCEAMENTO DE DEFESA. PROVA PERICIAL. DESNECESSIDADE. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela desnecessidade da prova pericial e pela impossibilidade de aplicar a exceção do contrato não cumprido. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.303/1.306):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e de consonância do acórdão recorrido com entendimento firmado em julgamento de recurso repetitivo (Tema n. 970) (e-STJ fls. 1.252/1.253).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.175):
+APELAÇÃO CÍVEL. PRELIMINAR DE NULIDADE POR CERCEAMENTO DE DEFESA. REJEIÇÃO. CONTRATO DE INVESTIMENTOS. RESCISÃO PELO NÃO CUMPRIMENTO DE OBRIGAÇÃO DE UM DOS CONTRATANTES. POSSIBILIDADE NA FORMA DO ARTIGO 475 DO CÓDIGO CIVIL. DANO MORAL NÃO VERIFICADO. IMPOSSIBILIDADE DE CUMULAÇÃO DA MULTA CONTRATUAL COM LUCROS CESSANTES. SENTENÇA CONFIRMADA.
+- Mostrando-se a prova pericial desnecessária frente aos pedidos formulados e a sentença exigível, cumpre rejeitar a tese de nulidade por cerceamento de defesa.
+- Sendo o contrato escrito, com descumprimento de um dos contratantes a acerca de cláusula consignada no apontamento de obrigação a ser cumprida, cumpre validar a possibilidade de rescisão do contrato, na esteira do artigo 475 do Código Civil.
+- Tratando-se de descumprimento de obrigação em um contrato de investimentos, sem afetação de cunho psicológico e sem prova de ofensa a honra, confirma-se a sentença que julgou improcedente o pedido de dano moral.
+- Consoante precedentes do STJ, descabe a condenação conjunta de multa contratual com lucros cessantes.
+Nas razões do recurso especial (e-STJ fls. 1.201/1.228), fundamentado no art. 105, III, "a", da CF, a parte alega violação dos arts. 5º, LV, da CF/88, 85, 139 do CPC/2015 e 476 do CC/2002.
+Afirma que houve cerceamento de defesa e defende que a produção da prova pericial requerida "era imprescindível para o deslinde do feito, uma vez que demonstraria fielmente quais os valores que cada um deveria ter obtido" (e-STJ fl. 1.207).
+Assevera que (e-STJ fls. 1.222/1.223):
+(..) o Recorrido não se desincumbiu de seu ônus de provar a alegada transferência do apartamento nº 203 do Edifício Everaldo Milagres para a Apelante, muito menos de forma livre e desimpedida como se obrigara.
+Logo, estando o Recorrido inadimplente, não poderia jamais cobrar a obrigação da outra parte, o que afasta por completo sua pretensão exordial, como vem decidindo a jurisprudência deste Colendo Superior Tribunal de Justiça:
+Por fim, aduz que "o r. Acórdão combatido também violou o parágrafo 11 do artigo 85 do Código de Processo Civil, ao deixar de majorar a condenação dos honorários sucumbenciais fixados na sentença primeva, pelo que imperioso o provimento deste apelo extremo para que seja reformado também este ponto" (e-STJ fl. 1.227).
+No agravo (e-STJ fls. 1.256/1.263), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.271/1.282 (e-STJ).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Quanto à alegação de ofensa ao art. 85 do CPC/2015 não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Quanto ao cerceamento de defesa, consta nos autos que o Tribunal de origem concluiu que (e-STJ fls. 1.180/1.181):
+Sustenta o primeiro apelante que há nulidade da sentença em razão do cerceamento de defesa havido, ante o impedimento da realização da prova pericial. Apresenta como fundamento do cerceamento de defesa a necessidade de realizara prova pericial para apurar o resultado decorrente dos investimentos e a necessidade de averiguar a participação de cada uma das partes no resultado final, que pode ser de lucro ou prejuízo.
+A prova pericial se mostra desnecessária ao feito, na medida em que o pedido principal da ação proposta é de rescisão contratual e, portanto, os pedidos de condenação se resumem aos efeitos da rescisão, de restituição de valores gastos e danos materiais e morais, não englobando exigibilidade de apurar o resultado do pretenso investimento. Logo, pouco importa à lide, se houve ou não lucros pelos investimentos ocorridos, porquanto essa apuração não afeta a procedência ou improcedência dos pedidos levados a efeito e, portanto, desnecessária se mostra a prova requerida.
+Saliento que a rescisão contratual não conduz a efetivação do contrato, mas sim, ao desfazimento do contrato e, portanto, descabida a tese do apelante de ser necessária a realização de uma prova para demonstrar resultados que são próprios de uma finalização de contrato, se esta finalização não está abarcada pelo pedido inicial e nem há reconvenção com eventual pedido de reconhecimento de cumprimento de contrato.
+Modificar o entendimento do acórdão impugnado quanto à necessidade de produção da prova pericial, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+No que se refere à alegação de ofensa ao art. 476 do CC/2002, o aresto recorrido entendeu que (e-STJ fls. 1.185/1.186):
+Em outra tese do recurso da empresa Requerida, sustenta que deve ser reconhecida a exceção do contrato não cumprido, pelo fato do imóvel repassado pelo autor não estar livre e desembaraçado.
+A sentença quanto a este tópico, reconheceu que a parte apelante não realizou qualquer notificação do autor acerca de pretenso impedimento sobre o imóvel e, mais ainda, terminou reconhecendo que a construtora sempre teve conhecimento da pendência que recaía sobre o imóvel.
+De fato, a empresa apelante sempre teve conhecimento da pendência que recaía sobre o imóvel. E não bastasse, a prova carreada demonstra que a empresa apelante negociou o imóvel com terceiros estranhos à lide, não havendo apontamento de prejuízo ou de impedimento à consecução dos objetivos da empresa na obtenção de ativos frente ao imóvel negociado. E tanto assim o é, que a sentença reservou o direito da construtora apelante em restituir o imóvel negociado, caso a negociação feita com terceiros não tenha se concretizado.
+Portanto, o fato é que a parte apelante não comprovou a prévia notificação da parte autora, a fim de constituí-la em mora, e não comprovou a inutilidade do imóvel recebido como cumprimento de obrigação, por eventual pendência que recaísse sobre o mesmo, a fim de justificar o pleito de exceção do contrato não cumprido. Saliento inclusive que, a construção do empreendimento foi de fato efetivada em todos os seus termos, bem como, houve a venda de suas unidades pela parte Requerida, situação que efetivamente demonstra que aquela eventual pendência não teve qualquer efeito sobre o objeto central do contrato e mais, permite reconhecer claramente o cumprimento da obrigação pela parte autora.
+Por fim, a discussão não contempla os resultados dos investimentos, onde a parte apelante cita o artigo 476 do Código Civil. De forma contrária, a discussão processual é sobre a rescisão contratual, para restituição de valores desembolsados, com reconhecimento favorável ao apelante de possibilidade de devolução do pretenso imóvel que estaria com pendência.
+Fica pois, rechaçada a tese a tese da apelação de reconhecimento da exceção do contrato não cumprido, impondo-se a confirmação da sentença quanto a tal tópico. Saliento ainda que, de forma paralela com a prova documental apresentada, procedi com a devida análise da prova testemunhal produzida.
+Saliento que, dessa análise, não verifiquei indicativos de qualquer relato que contrariasse a negociação feita entre as partes. Na análise geral da prova oral, apenas restou confirmada a existência do contrato, restou confirmado o fato de que parte autora já havia feito outros investimentos e restou confirmado o fato de que a construtora tinha plena ciência da existência de uma garantia pendente sobre o imóvel que havia recebido do autor, para investimento na obra, tendo a construtora repassado o imóvel adiante, ciente de que poderia solicitar a baixa da garantia quando melhor lhe atendesse.
+Conforme se verifica do trecho transcrito, o acórdão recorrido, amparado no acervo fático-probatório dos autos, concluiu pela impossibilidade de aplicação da exceção do contrato não cumprido.
+Dissentir dessa conclusão esbarra no impedimento da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A alegação de ofensa ao art. 85 do CPC/2015 não foi analisada previamente pelo Tribunal de origem e não foram opostos embargos de declaração para tratar da matéria, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF .
+Reve r a conclusão do acórdão, quanto à desnecessidade da prova pericial e à impossibilidade de aplicar a exceção do contrato não cumprido, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
