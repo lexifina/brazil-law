@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. LEILÃO DE IMÓVEL. SUSPENSÃO. HONORÁRIOS. FIXAÇÃO POR EQUIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO NÃO ATACADA. INCIDÊNCIA DA SÚMULA N.º 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula n.º 283 do STF.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALEXIA DE OLIVEIRA GUERRA e EMANUEL DE OLIVEIRA GUERRA (ALEXIA e EMANUEL) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. LEILÃO DE IMÓVEL. SUSPENSÃO. HONORÁRIOS. FIXAÇÃO POR EQUIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO NÃO ATACADA. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 1.341).
+Nas razões do presente inconformismo, defenderam a inaplicabilidade da Súmula n.º 283 do STF por entender que impugnaram devidamente o fundamento do acórdão recorrido sobre fixação dos honorários advocatícios de sucumbência com base nos critérios de equidade, uma vez que a demanda foi ajuizada na vigência da legislação processual anterior, que a permitia; e a irregularidade do julgamento monocrático do recurso especial.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. LEILÃO DE IMÓVEL. SUSPENSÃO. HONORÁRIOS. FIXAÇÃO POR EQUIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO NÃO ATACADA. INCIDÊNCIA DA SÚMULA N.º 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula n.º 283 do STF.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3 . Agravo interno não provido.
+VOTO
+(1) Da incidência da Súmula n.º 283 do STF
+Nas razões do presente recurso, ALEXIA e EMANUEL alegaram a inaplicabilidade da Súmula n.º 283 do STF por entender que impugnaram devidamente o fundamento do acórdão recorrido sobre fixação dos honorários advocatícios de sucumbência com base nos critérios de equidade, uma vez que a demanda foi ajuizada na vigência da legislação processual anterior, que a permitia.
+Contudo, a decisão agravada merece ser mantida quanto a esse particular porque, nas razões do seu apelo nobre, ALEXIA e EMANUEL não infirmaram o fundamento central do acórdão estadual quanto ao cabimento da fixação da verba honorária por equidade.
+Os agravantes, em seu agravo interno, tecem considerações sobre a aplicabilidade obrigatória do § 2º do art. 85 do CPC/15, que trouxeram por ambas as alíneas do inciso III do art. 105 da CF, mas não demonstram a impugnação do fundamento do acórdão recorrido, que foi a incidência da legislação anterior para fixação da verba honorária, tendo em vista o ajuizamento da demanda em sua vigência.
+Assim, conforme anteriormente consignado, o acórdão recorrido reconheceu a possibilidade de fixação dos honorários advocatícios por equidade sob o entendimento de que a ação foi ajuizada sob a vigência do Código de Processo Civil de 1973.
+Por oportuno, transcreve-se:
+Ocorre que, no caso em questão, a ação foi ajuizada antes da vigência do NCPC, de forma que a fixação dos honorários em patamar elevado, tendo por base o valor atualizado da causa, não era prevista pelas partes, não sendo, portanto, legítimo frustrar a expectativa das partes de que os honorários seriam fixados por apreciação equitativa. (e-STJ, fl. 779).
+Anote-se que a divergência jurisprudencial também se limitou à inaplicabilidade do § 8º do art. 85 do NCPC no caso concreto, defendendo o prevalecimento da fixação em percentual prevista no §2º do mesmo dispositivo legal.
+Desse modo, o fundamento do acórdão recorrido não foi impugnado nas razões de recurso especial, seja pela alínea a, seja pela alínea c.
+Lembre-se, por fim, o entendimento desta Corte no sentido de que "não há qualquer irregularidade no julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do NCPC, combinados com a Súmula n. 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no REsp 1.488.076/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 11/12/2019).
+Confira-se, a propósito, o seguinte julgado deste Tribunal:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. 1. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. PRECEDENTE. 2. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. INTERESSE DE AGIR DO CONDOMÍNIO. CONTAS NÃO APRESENTADAS PELO EX-SÍNDICO ANTES DE DEIXAR O CARGO. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 4. AÇÃO DE PRESTAÇÃO DE CONTAS. NATUREZA PESSOAL. PRESCRIÇÃO DECENAL. PRECEDENTES. SÚMULA 83/STJ. 5. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 6. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior entende que "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019).
+2. O teor do art. 179 do CC/2002 não foi objeto de apreciação no decisum da Corte de origem, embora opostos e julgados os embargos de declaração. Ademais, não foi alegada ofensa ao art. 1.022 do CPC/2015 no apelo especial, quadro que enseja o óbice do texto da Súmula 211/STJ.
+3. De fato, entende-se que o interesse de agir do condomínio para a propositura da ação de prestação de contas em desfavor do síndico só se esvazia se prestadas as contas e aprovadas por assembleia.
+Contudo, na hipótese, as contas não foram prestadas pelo ex-síndico, circunstância que, inclusive, foi reconhecida em contestação pelo recorrente, estando o acórdão recorrido em consonância com a jurisprudência desta Corte. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+4. Com efeito, o entendimento proferido pelo Tribunal estadual está em consonância com a jurisprudência do Superior Tribunal de Justiça, a qual entende que a ação de prestação de contas tem por base a obrigação de natureza pessoal, a ela se aplicando a prescrição decenal prevista no art. 205 do Código Civil de 2002, o que atrai a incidência da Súmula 83/STJ, aplicável para ambas as alíneas do permissivo constitucional.
+5. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+6. Agravo interno improvido.
+(AgInt no REsp n. 1.924.285/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022 )
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
