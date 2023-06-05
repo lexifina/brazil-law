@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RESIDENCIAL BARCELONETA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Agravo em recurso especial interposto em: 08/02/2023.
+Concluso ao gabinete em: 23/05/2023.
+Ação: de nulidade de cláusula de convenção de condomínio c/c cobrança de taxa condominial, em fase de cumprimento de sentença, ajuizada por RESIDENCIAL BARCELONETA em face de BARROCO INCORPORAÇÕES E SERVIÇOS CONSTRUTIVOS LTDA em virtude de pagamentos de diferenças de cotas condominiais incidentes sobre as unidades não comercializadas.
+Impugnação ao cumprimento de sentença interposto por BARROCO INCORPORAÇÕES E SERVIÇOS CONSTRUTIVOS LTDA.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença.
+Acórdão: deu provimento ao agravo de instrumento interposto por BARROCO INCORPORAÇÕES E SERVIÇOS CONSTRUTIVOS LTDA, nos termos da seguinte ementa:
+"Agravo de instrumento. Cumprimento de sentença movido contra construtora para cobrar despesas condominiais de unidades não vendidas. Desconto de 70% previsto na convenção. Abusividade reconhecida. Cálculos do assistente técnico da construtora acolhidos. Recurso provido." (fl. 325, e-STJ).
+Embargos de declaração: opostos por RESIDENCIAL BARCELONETA, foram rejeitados.
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 99, § 3º, 489, § 1º, IV e VI, e 1.022, do CPC/2015.
+Sustenta, em síntese, i) a negativa de prestação jurisdicional, bem como deficiência de fundamentação no acórdão recorrido quanto à violação à coisa julgada; e ii) a violação à coisa julgada "ao validar o laudo pericial que adotou critérios diversos aos definidos no título executivo judicial" (fl. 363, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Nesse sentido, o Tribunal de origem ao julgar os embargos de declaração opostos pelo recorrente, já havia esclarecido o que segue:
+"Não há omissão, contradição ou obscuridade no julgado que objetivamente reduziu o crédito para R$174.390,31, nos seguintes termos: "A Executada fez inserir na convenção que as unidades não vendidas pagariam apenas 30% das cotas condominiais. O Exequente, inconformado com esta disposição, pediu a nulidade da cláusula e a condenação da Executada no pagamento das diferenças. A ação foi julgada procedente e a Executada condenada "ao pagamento do saldo remanescente de cada obrigação condominial ordinária das unidades de sua titularidade, desde a primeira exigência, cominando-se juros moratórios de 1% ao mês, correção monetária e multa de 2%, contados desde cada vencimento." O Exequente deu início ao cumprimento de sentença e apresentou crédito de R$580.459,75, atualizado até maio de 2020. Calculou o valor das cotas integrais e deduziu 30%, passando a exigir a diferença de 70% relativa ao período de desocupação das unidades não vendidas. Do que se extrai dos autos, o síndico, não se conformando com os descontos pre vistos para a Executada, estes que deviam incidir nas cotas ordinárias, passou a considerar muitas despesas como extraordinárias, e assim, lançava boletos com desconto muito pequeno em relação aos demais condôminos, mitigando a benesse prevista no regulamento. O laudo pericial confirmou o critério do Exequente e o juiz assim decidiu. Ocorre que o cálculo deve ser elaborado consoante às cotas condominiais efetivamente pagas pela Executada e não com base no valor dos descontos.
+O perito, então, apresentou nova tabela de cálculos e reconheceu que a Executada havia satisfeito quase a totalidade do crédito, faltando aproximados R$26.000,00.
+Entretanto, somente a assistente técnica da Executada apresentou o cálculo correto, isto é, deduziu do crédito aquilo que efetivamente foi pago e chegou ao saldo de R$174.390,31.
+Suas planilhas não excluíram as despesas que a Executada sustenta que não lhe podiam ser exigidas, antes elaborou o cálculo como ficou determinado no título judicial. A assistente, com acerto, deduziu das cotas os valores efetivamente pagos pela Executada e o saldo foi calculado consoante os demais condôminos, ficando acolhido o pedido subsidiário da Executada para reconhecer crédito equivalente a R$174.390,31."
+O julgado reconheceu a adequação dos cálculos ao título judicial e não há omissão neste ponto." (fls. 356/357, e-STJ).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, também, em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+2. Do reexame de fatos e provas
+No tocante à tese atinente à alegada violação à coisa julgada em fase de cumprimento de sentença, o acórdão recorrido assim se pronunciou:
+"A ação foi julgada procedente e a Executada condenada "ao pagamento do saldo remanescente de cada obrigação condominial ordinária das unidades de sua titularidade, desde a primeira exigência, cominando-se juros moratórios de 1% ao mês, correção monetária e multa de 2%, contados desde cada vencimento."
+O Exequente deu início ao cumprimento de sentença e apresentou crédito de R$ 580.459,75, atualizado até maio de 2020. Calculou o valor das cotas integrais e deduziu 30%, passando a exigir a diferença de 70% relativa ao período de desocupação das unidades não vendidas.
+Do que se extrai dos autos, o síndico, não se conformando com os descontos previstos para a Executada, estes que deviam incidir nas cotas ordinárias, passou a considerar muitas despesas como extraordinárias, e assim, lançava boletos com desconto muito pequeno em relação aos demais condôminos, mitigando a benesse prevista no regulamento.
+O laudo pericial confirmou o critério do Exequente e o juiz assim decidiu.
+Ocorre que o cálculo deve ser elaborado consoante às cotas condominiais efetivamente pagas pela Executada e não com base no valor dos descontos.
+O perito, então, apresentou nova tabela de cálculos e reconheceu que a Executada havia satisfeito quase a totalidade do crédito, faltando aproximados R$26.000,00.
+Entretanto, somente a assistente técnica da Executada apresentou o cálculo correto, isto é, deduziu do crédito aquilo que efetivamente foi pago e chegou ao saldo de R$174.390,31. Suas planilhas não excluíram as despesas que a Executada sustenta que não lhe podiam ser exigidas, antes elaborou o cálculo como ficou determinado no título judicial.
+A assistente, com acerto, deduziu das cotas os valores efetivamente pagos pela Executada e o saldo foi calculado consoante os demais condôminos, ficando acolhido o pedido subsidiário da Executada para reconhecer crédito equivalente a R$174.390,31." (fls. 326/328, e-STJ).
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+3. Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema acima mencionado que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+A propósito: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016; AgInt no AREsp 1306436/RJ, 1ª Turma, DJe 02/05/2019; AgInt no AREsp 1343289/AP, 2ª Turma, DJe 14/12/2018; REsp 1665845/RS, 2ª Turma, DJe 19/06/2017.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO C/C COBRANÇA DE TAXA CONDOMINIAL. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCOR EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Ação de nulidade de cláusula de convenção de condomínio c/c cobrança de taxa condominial, em fase de cumprimento de sentença.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
