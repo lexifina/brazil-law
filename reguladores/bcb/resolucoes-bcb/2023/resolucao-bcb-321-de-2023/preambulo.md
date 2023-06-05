@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 321, DE 2 DE JUNHO DE 2023
+Altera a Resolução BCB nº 264, de 25 de novembro de 2022, que dispõe sobre o registro de recebíveis decorrentes de transações no âmbito de arranjo de pagamento baseado em conta pós-paga e de depósito à vista integrante do Sistema de Pagamentos Brasileiro.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão extraordinária realizada em 2 de junho de 2023, com base nos arts. 9º da Lei nº 4.595, de 31 de dezembro de 1964, 28, inciso II, da Lei nº 12.810, de 15 de maio de 2013, 9º, incisos I e X, da Lei nº 12.865, de 9 de outubro de 2013, e 8º da Resolução nº 4.734, de 27 de junho de 2019, e tendo em vista o disposto no art. 2º, inciso II, alínea “b”, da Resolução nº 4.593, de 28 de agosto de 2017, e nos arts. 2º, 4º e 5º da Resolução nº 4.734, de 2019,
+R E S O L V E :
