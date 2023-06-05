@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por LAIS GALO VANZELLA e ROBERTA GALO VANZELLA contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 584-588):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE CONTRA CREDORES. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Irresignadas, as agravantes sustentam, em síntese, que não deveria incidir, no caso apreciado, o óbice da Súmula 7/STJ.
+Alegam que seria necessária apenas a revaloração da matéria, sem o reexame do acervo fático-probatório dos autos.
+Aduzem que as premissas fixadas pelas instâncias originárias não permitiriam concluir pela ocorrência de fraude à execução.
+Impugnação apresentada às fls. 605-613 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE CONTRA CREDORES. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, conforme dispõe a Súmula 7/STJ.
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+VOTO
+De fato, a decisão monocrática deve ser mantida.
+Com efeito, conforme asseverado na decisão agravada, depreende-se que rever a conclusão a que chegou o Tribunal de Justiça do Estado de São Paulo, reconhecendo a fraude à execução e declarando ineficaz o negócio jurídico avençado pelas ora agravantes, demandaria o reexame do acervo fático probatório dos autos.
+Para dirimir a questão, a Corte originária asseverou (e-STJ, fls. 244-246; sem grifos no original):
+As embargantes apresentaram os presentes embargos sustentando serem proprietárias e possuidoras do imóvel localizado na Rua Carlos Gomes, nº 1381, em Sertãozinho/SP, matriculado sob nº 50.171, do Cartório de Registro de Imóvel local, bloqueado nos autos de execução movida pelo fundo agravado.
+O imóvel em questão foi adquirido pelas filhas do executado, da Sra. Andreia Cristina da Silva Zamproni, em 24.08.2014, mediante escritura pública de compra e venda lavrada na mesma data, e de acordo com as embargantes, mediante pagamento em espécie.
+Entendo que evidenciada a fraude, pois além das embargantes serem filhas do executado, no mesmo ato da compra instituíram usufruto vitalício a seus genitores, na própria escritura, sendo certo que a compra se deu após a citação destes para ação executiva.
+Ademais, inquiridas sobre a existência de renda que possibilitasse a aquisição questionada, as embargantes apresentaram declarações de imposto de renda de fls. 35/52, que atestam que ambas adquirentes possuíam rendimento oriundo da empresa Equipalcool, também executada na ação que deu azo à constrição, condição que apenas corrobora o conhecimento da situação financeira dos executados e eventual comprometimento de bens caso seus genitores adquirissem o imóvel em nome próprio, corroborando a tese de conluio e fraude.
+O MM. Juiz foi preciso quando elencou a movimentação financeira das embargantes bem como as sucessivas transações entre as embargantes e seu ascendente e executado, demonstrando verdadeiro estratagema para desvio dos recursos financeiros em favor das embargantes para se furtar do pagamento a seus credores.
+Dessa forma, também é forçoso concluir pelo conhecimento da existência de ação executiva pelas adquirentes (relação de parentesco) no momento da alienação, a justificar a compra em seu nome para evitar futura constrição.
+(..)
+Além disso, a prova de pagamento não foi demonstrada documentalmente, sob o argumento de que teria sido efetuada por meio de dinheiro em espécie, alegação inverossímil diante do valor supostamente desembolsado pela avença (R$ 200.000,00).
+Estas circunstâncias impedem o acolhimento do pleito inicial.
+A alegação de impenhorabilidade nos termos do artigo 836 do CPC, em razão do valor irrisório do bem não pode ser aplicada ao caso vertente, porquanto o imóvel objeto foi adquirido por R$200.000,00, em agosto de 2014, condição que por si só afasta a aplicação do aludido dispositivo legal.
+Nesse contexto, embora as insurgentes afirmem, no agravo ora analisado, que possuíam aplicações financeiras suficientes para a aquisição do bem, o acórdão proferido pelo TJSP expressamente assevera que "a prova de pagamento não foi demonstrada documentalmente, sob o argumento de que teria sido efetuada por meio de dinheiro em espécie, alegação inverossímil diante do valor supostamente desembolsado pela avença (R$ 200.000,00)" (e-STJ, fl. 246).
+Destarte, forçoso reconhecer que não seria possível afastar a conclusão estadual acerca da ocorrência de fraude contra credores sem o revolvimento fático-probatório dos autos, procedimento que se encontra obstado nesta seara extraordinária, em virtude do óbice contido no verbete n. 7 da Súmula do Superior Tribunal de Justiça, tal como enfatizado anteriormente.
+Ilustrativamente (sem grifos nos originais):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. FRAUDE. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. QUESTÃO DE ORDEM PÚBLICA. JUROS DE MORA. AUSÊNCIA DE RECURSO. PRECLUSÃO. DECISÃO MANTIDA.
+1. Caso em que tanto a empresa atingida pela desconsideração inversa, constituída para blindar o patrimônio do coexecutado, como o imóvel utilizado para integralizar o capital social de tal empresa, segundo se extrai do acórdão proferido no julgamento do agravo de instrumento, pertencem ao referido codevedor, executado, o que caracteriza efetiva confusão patrimonial e desvio de finalidade.
+2. O Tribunal de origem analisou as provas contidas no processo para concluir pela existência de fraude, ressaltando inexistir comprovação de que a compra do imóvel se deu, também, com recursos das filhas do coexecutado, menores e que não trabalham. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial, a teor da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência do STJ, também a questão de ordem pública (juros de mora), quando objeto de decisão judicial, deve ser impugnada mediante recurso próprio, sob pena de preclusão.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1528074/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/9/2021, DJe de 27/9/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO PAULIANA. RECURSO DE PAULO HENRIQUE E OUTROS. TRÊS AGRAVOS INTERNOS. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO E DO TERCEIRO RECURSO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO. FRAUDE CONTRA CREDORES. DOAÇÃO DO IMÓVEL, OBJETO DE EXECUÇÃO, AOS FILHOS DO EXECUTADO. TRIBUNAL LOCAL QUE, COM BASE NOS FATOS DA CAUSA, RECONHECEU COMPROVADA A FRAUDE CONTRA CREDORES. REFORMA DO ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA PREVISTA NO ART. 1.021, § 4º DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. A multiplicidade de recursos interpostos pela mesma parte litigante, contra a mesma decisão, resulta no não conhecimento daqueles que foram protocolados por último, ante a incidência da preclusão consumativa. Precedentes.
+3. O Tribunal a quo reputou escorreita a sentença que reconheceu estar sobejamente comprovada a fraude contra credores, por meio de simulação da venda do patrimônio do devedor. A reforma desse entendimento esbarra no enunciado sumular nº 7 do STJ.
+4. Em virtude do não conhecimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide no caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1281247/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2018, DJe de 30/8/2018)
+Outrossim, consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, dada a situação fática de cada caso.
+Assim, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
