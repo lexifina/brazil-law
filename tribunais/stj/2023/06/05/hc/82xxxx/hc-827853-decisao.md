@@ -1,0 +1,8 @@
+DECISÃO
+A paciente alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Assinala que, para fins de detração, o tempo de prisão cautelar deve ser considerado como pena efetivamente cumprida e descontado do requisito objetivo da progressão de regime, e não ser abatido do total da condenação aplicada, como se fez na guia executória. Pede a retificação do cálculo de benefícios.
+Decido.
+A insurgência da defesa contra a forma de cálculo da detração penal (abatimento da pena ou desconto do montante para fins de progressão de regime) não foi deduzido perante a instância ordinária e, por tal motivo, deixou de ser enfrentada no apontado ato coator (fls. 34-38). A questão não foi ventilada em embargos de declaração e não consta, sobre ela, causa decidida em única ou última instância por Tribunal de Justiça.
+O Tribunal a quo, instado, se manifestou somente sobre a alegação de que na fase da execução, o Juiz "não considerou  ..  os períodos em que  a paciente  esteve presa". Nesse limite, o órgão assinalou que todos os lapsos "foram levados em consideração  ..  restando cumprido o disposto no artigo 42 do Código Penal" (fl. 37). Em nenhum momento houve discussão sobre a forma de cálculo e a retificação da guia penal.
+Assim, "O exame pelo Superior Tribunal de Justiça de matéria ainda não apreciada pelo Juiz ou pelo Tribunal de origem, enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
