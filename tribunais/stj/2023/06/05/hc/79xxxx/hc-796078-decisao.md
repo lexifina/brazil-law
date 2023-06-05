@@ -1,0 +1,31 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o HC n. 622.816/SP.
+Trata-se de habeas corpus impetrado em favor de Cleber Soares Quintino, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 1501378-15.2020.8.26.0066 - fls. 45/48), que deu provimento em parte ao recurso da defesa para reduzir as penas do réu, que passam a ser um todo de 9 meses e 10 dias de reclusão, substituída unicamente por prestação de serviços à comunidade, mais o pagamento de 7 dias-multa, mantidas, no mais, os demais termos da sentença (fl. 48) proferida pelo Juízo de Direito da 1ª Vara Criminal da comarca de Barretos/SP, em razão da prática do crime de furto simples (fls. 20/27).
+Pretende a defesa seja reconhecida a atipicidade material da conduta atribuída ao paciente Cleber Soares Quintino pela aplicação do princípio da insignificância ao delito de furto, absolvendo-o nos termos do art. 386, inciso III, do Código de Processo Penal. Subsidiariamente, quanto à dosimetria da pena, requer-se, na terceira fase, a elevação da redução pela tentativa para o patamar máximo de 2/3 (dois terços), uma vez demonstrado o iter criminis mais próximo dos atos executórios iniciais, ou, subsidiariamente, seja elevada a redução estabelecida a patamar intermediário (fls. 15/16).
+Liminar indeferida (fls. 51/52) e informações prestadas (fls. 56/59), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 63/71).
+É o relatório.
+O acórdão impugnado manteve a não aplicação do princípio da insignificância, pois, ainda que baixo o valor dos produtos subtraídos, trata-se de réu que ostenta, a um só tempo, mau antecedente e reincidência, esta última por crime igualmente patrimonial (estelionato). Observa-se que o réu, mesmo condenado definitivamente duas vezes (ainda que a penas restritivas de direitos nas duas ocasiões), parece não ter absorvido a terapêutica penal, de modo que voltou a delinquir, agindo, mais uma vez, sem o mínimo de respeito às regras de convivência em sociedade. Nesse contexto, uma absolvição com base no referido princípio soaria como um incentivo a reiteração delitiva. Definitivamente isso não pode ser permitido (fls. 47/48).
+Todavia, inobstante as relevantes considerações feitas pelas instâncias ordinárias, observo ser possível a incidência excepcional do princípio da insignificância ao caso dos autos, em razão da inexpressividade da lesão jurídica provocada, pois se trata de furto simples de 8 barras de chocolates, sendo 4 Galak, 3 Lacta e 1 Laka, e, ainda, 1 desodorante marca Dove (fl. 17 - grifo nosso), avaliados em R$ 58,91 (cinquenta e oito reais e noventa e um centavos), de acordo com a Defensoria Pública de São Paulo (fl. 5).
+Com efeito, em casos que tais, a jurisprudência desta Corte, na linha da orientação jurisprudencial do Supremo Tribunal Federal, vem admitindo a incidência do princípio da insignificância, ainda que se trate de réu com antecedentes criminais.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. REINCIDÊNCIA ESPECÍFICA E MAUS ANTECEDENTES. VALOR DA RES FURTIVA INFERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. POSSIBILIDADE. SITUAÇÃO EXCEPCIONAL. REDUZIDÍSSIMO GRAU DE REPROVABILIDADE DA CONDUTA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, o furto simples de 1 vidro de perfume, 1 mochila, 1 molho de chaves e diversos remédios, avaliados em aproximadamente R$ 60,00, valor esse que é equivalente a cerca de 6,3% do salário-mínimo vigente na época do fato, dado o reduzidíssimo grau de reprovabilidade da conduta, traz excepcionalidade que autoriza o reconhecimento da atipicidade material, mesmo diante dos maus antecedentes e da reincidência específica do Réu.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.250.624/MG, Ministra Laurita Vaz, Sexta Turma, DJe 23/5/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. INSIGNIFICÂNCIA. RÉU REINCIDENTE. VALOR NÃO EXPRESSIVO. ATIPICIDADE MATERIAL RECONHECIDA.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. A reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal.
+3. Na hipótese, apesar da reincidência, o valor da subtração foi de R$ 25,00 (vinte e cinco reais), equivalente a 2,4% do salário mínimo à data do fato, o que autoriza, de modo excepcional, a incidência do princípio da insignificância, diante da não relevante lesão ao bem jurídico tutelado.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.231.372/MG, Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, DJe 24/4/2023 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. DUAS PEÇAS DE PICANHA. VALOR SUBTRAÍDO SUPERIOR A 10% DO SALÁRIO MÍNIMO. ALEGAÇÃO DA ACUSAÇÃO PELA RECONSIDERAÇÃO DA DECISÃO. MANTIDA A ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO.
+1. Na hipótese, o paciente subtraiu duas peças de carne, e o fato de ser reincidente específico, por si só, não afasta o princípio da insignificância e não caracteriza que exista uma habitualidade criminosa.
+2. Agravo regimental improvido.
+(AgRg no HC n. 784.148/SP, de minha relatoria, Sexta Turma, DJe 20/4/2023).
+Ante o exposto, concedo a ordem a fim de, aplicando o princípio da insignificância, reconhecer a ausência de tipicidade material da conduta imputada ao paciente na ação penal de que tratam estes autos, determinando, por consequência, sua absolvição.
+Comu nique-se, com urgência, às instâncias ordinárias.
+Intim e-se o Ministério Público estadual.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. FURTO SIMPLES. CONDENAÇÃO. RÉU COM ANTECEDENTES CRIMINAIS. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. EXCEPCIONALIDADE. INEXPRESSIVIDADE DA LESÃO JURÍDICA. POSSIBILIDADE. APLICAÇÃO.
+Ordem concedida nos termos do dispositivo.
