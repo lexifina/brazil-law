@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por DIRECIONAL ESMERALDA EMPREENDIMENTOS LTDA. (CONSTRUTORA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. OFENSA AO ART. 1.022 DO CPC CONFIGURADA. OMISSÃO A RESPEITO DE TEMA RELEVANTE NÃO SANADA NO JULGAMENTO DOS ACLARATÓRIOS. NEGATIVA DE COMPLETA PRESTAÇÃO JURISDICIONAL VERIFICADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fls. 470/475).
+Nas razões do presente inconformismo, a CONSTRUTORA defendeu que o pedido rescisório foi negado, de modo que não há que se falar em devolução de valores, nem em aplicação de percentuais de retenção, tendo em vista a manutenção da relação contratual.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. OFENSA AO ART. 1.022 DO CPC CONFIGURADA. OMISSÃO A RESPEITO DE TEMA RELEVANTE NÃO SANADA NO JULGAMENTO DOS ACLARATÓRIOS. NEGATIVA DE COMPLETA PRESTAÇÃO JURISDICIONAL VERIFICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Restou evidenciada a existência de ofensa ao 1.022 do Código de Processo Civil, havendo a necessidade de retorno dos autos ao Tribunal estadual, a fim de que lá seja apreciada, na sua integralidade, a possibilidade de rescisão contratual com retenção de percentual pelas construtoras .
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+Como bem destacado na decisão recorrida, GERALDO ROGÉRIO RAMOS e MARIA DO SOCORRO QUEIROZ RAMOS (GERALDO e outra) ajuizaram ação de rescisão contratual contra as CONSTRUTORAS, alegando que as partes celebraram um contrato de compra e venda de imóvel e que a entrega foi efetivada dez meses após o prazo pactuado, de modo que pretenderam a rescisão do negócio jurídico, por culpa exclusiva da ré, consistente no atraso injustificado da entrega do bem.
+As instâncias ordinárias concluíram pela improcedência da pretensão de GERALDO e outra, sob o fundamento de que não ocorreu o descumprimento contratual no que diz respeito à prorrogação por 180 dias úteis para a efetiva entrega do imóvel.
+Ocorre que, nas razões de apelação, GERALDO e outra buscaram a análise de todas as hipóteses de rescisão contratual, consoante o seguinte trecho:
+Seja determinada a rescisão contratual por culpa das Apeladas, não sendo o caso, que a rescisão se dê por exceção de contrato não cumprido ou, em último caso, sucessivamente, seja dada a rescisão com possibilidade de retenção de 30% dos valores pagos pelos Apelantes; (e-STJ, fl. 257).
+De fato, ainda que as CONSTRUTORAS sejam consideradas isentas de culpa pelo suposto atraso na entrega do imóvel, a resolução do contrato continua sendo opção válida a GERALDO e outra, que poderão ter a devolução parcial dos valores pagos, nos termos da cláusula quinta do contrato firmado.
+Vale ressaltar que tal situação é regulada pela Súmula nº 543 do STJ, a qual prevê a restituição parcial das parcelas pagas pelo promitente comprador quando a resolução do contrato de compra e venda ocorre por sua culpa, em hipóteses como arrependimento, ou mesmo a sua recusa em receber o imóvel sem qualquer fundamentação. Nesses casos, a construtora poderá reter parte do valor pago para ressarcir-se das despesas de vendas, tais como corretagem, publicidade, despesas provenientes de abertura de crédito etc.
+Porém, verifica-se que o Tribunal local não abordou, efetivamente, o tema acima destacado, mesmo após a oposição de embargos de declaração, consoante consta no acórdão dos aclaratórios:
+Apontam omissões quanto aos seguintes pontos: 1) obtiveram uma carta de consórcio para a quitação do imóvel, cumprindo com suas obrigações contratuais; II) a contagem do prazo de tolerância por atraso da obra deveria considerar dias corridos, não úteis; III) possibilidade de rescisão contratual com retenção de percentual pelas Embargadas.
+(..)
+Sobre o pedido de rescisão contratual com retenção de percentual pelas Embargadas, cuidou-se de inovação recursal, pois não houve tal requerimento na exordial (e-STJ, fl. 358).
+Em que pese o entendimento da Corte mineira de que referido pedido se trata de inovação recursal, é indubitável que uma ação de rescisão contratual, por óbvio, objetiva a resolução do contrato, cabendo ao juízo auferir qual das partes é a responsável pela resolução para determinar o cabimento da retenção das parcelas pagas e a incidência de eventual cláusula penal.
+Assim, forçoso concluir que houve omissão quanto a tema necessário à solução completa da controvérsia, que foi levantado no momento processual adequado pelos recorrentes (tanto na apelação quanto nos aclaratórios), deixando o TJMG de oferecer, de forma clara, precisa e fundamentada, a prestação jurisdicional perseguida.
+Há, com efeito, violação ao comando do art. 1.022, II, do CPC, quando por ausência ou deficiência na fundamentação ou por omissão quanto a temas essenciais arguidos nos embargos de declaração, o órgão julgador deixa de apresentar, de forma clara e coerente, motivação adequada e suficiente para respaldar a conclusão adotada.
+A resposta do julgador ao vício apontado é essencial ao julgamento pelo menos parcial da lide apresentada, pois traz em seu bojo possível questão de direito que poderá ser enfrentada oportunamente por esta Corte Superior, até porque é condição sine qua non ao conhecimento do apelo nobre que a matéria de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Desse modo, estando evidenciada a existência do vício mencionado no recurso especial, é patente a necessidade de retorno dos autos ao Tribunal estadual, a fim de que lá seja apreciada, na sua integralidade, a possibilidade de rescisão contratual com retenção de percentual pelas CONSTRUTORAS, devidamente fundamentado.
+A propósito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp nº 1.829.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 20/4/2020, DJe de 27/4/2020 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE FAZER. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU A DENUNCIAÇÃO DA LIDE, NOMEAÇÃO À AUTORIA E PRODUÇÃO DE PROVA ORAL. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não podem ser examinados, de plano, na via estreita do recurso especial. Omitindo-se a Corte de origem em se manifestar sobre questões fáticas relevantes, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra as omissões existentes.
+2. Agravo interno provido para dar provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios, para que outro seja proferido e, assim, sanados os vícios constatados.
+(AgInt no REsp nº 1.681.636/PR, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 3/3/2020, DJe de 25/3/2020).
+Assim, como a CONSTRUTORA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o parcial provimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
