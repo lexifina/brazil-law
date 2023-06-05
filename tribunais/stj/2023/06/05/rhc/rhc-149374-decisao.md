@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Christian Jose Alves dos Santos contra o acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 90/91):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE REMARCAÇÃO DA DATA DE AUDIÊNCIA DE INSTRUÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. ATO PROCESSUAL QUE, AO ENSEJO DO JULGAMENTO DO WRIT, JÁ FORA REALIZADO. PERDA DE OBJETO. EXTINÇÃO DO FEITO SEM EXAME DO MÉRITO. HABEAS CORPUS PREJUDICADO.
+1. A impetração se insurgiu contra o indeferimento de pedido de remarcação da data (17.12.2020)designada para audiência de instrução no curso de ação penal, em desfavor do ora paciente, em tramitação na 16ª Vara Federal/PE;
+2. A liminar, então, foi indeferida, ao entendimento de que: a) não é plausível o uso de habeas corpus para impedir o regular andamento de ação penal quando não se vislumbra a ocorrência de nulidade; e b) inexiste nulidade pela ausência da Defensoria Pública da União em audiência de instrução em processo criminal, mormente quando previamente nomeado pelo Juízo um defensor para ad hoc atuar no ato (como ocorreu no caso dos autos);
+3.Sucede que, com o transcurso do tempo e como se verifica em consulta à movimentação processual dos autos originários, constata-se que já ocorreu (inclusive na data marcada) a audiência cujo adiamento se pretendia, com a presença do defensor nomeado para atuar na defesa do ora paciente (naquele ato), sem a ocorrência de qualquer prejuízo ou nulidade;
+4. In casu é forçoso reconhecer a perda de objeto do presente remédio heroico, em face do esvaziamento do pedido formulado na inicial acerca da não realização de audiência de instrução em ação penal, na data inicialmente designada (repita-se, 17.12.2020) uma vez que o ato processual já se realizou;
+5. Habeas Corpus prejudicado.
+Narram os autos que o recorrente foi denunciado como incurso nos crimes de estelionato majorado e inserção de dados falsos em sistema de informação, perante o Juízo de Direito da 16ª Vara Federal da Seção Judiciária de Pernambuco-Subseção de Caruaru/PE, que recebeu a inicial acusatória e determinou a citação do acusado para responder à acusação (Ação Penal n. 0801511-46.2020.4.05.8302).
+Ao argumento da ocorrência de nulidade na audiência de instrução e julgamento, a defesa impetrou habeas corpus na colenda Corte de origem, que afastou a alegação e julgou o writ prejudicado.
+Aqui, a defesa alega constrangimento ilegal na manutenção da ação penal contra o recorrente, eivada de nulidade, pois, com a manutenção da audiência de instrução e julgamento na data primordialmente fixada e com a nomeação de advogado ad hoc, houve a violação ao princípio do defensor natural, visto que a Defensoria Pública foi a instituição escolhida pelo ora paciente para assisti-lo em sua defesa, e não subsidiariamente intimada pelo Juízo diante da não habilitação de advogados pelo réu (fl. 141).
+Postula, então, seja reconhecido o erro material presente no acórdão recorrido, por fazer constar que a realização da audiência de instrução e julgamento em 17/12/2020 e a nomeação de advogado ad hoc não resultara em prejuízo ou nulidade ao paciente (fl. 143).
+Apresentadas contrarrazões (fls. 149/155), o Ministério Público Federal opinou pelo improvimento do recurso (fls. 177/182):
+RECURSO ORDINÁRIO. HABEAS CORPUS. PRINCÍPIO DO DEFENSOR NATURAL. VIOLAÇÃO. NÃO OCORRÊNCIA. NOMEAÇÃO DE DEFENSOR AD HOC. PREJUÍZO. AUSÊNCIA DE DEMONSTRAÇÃO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- A nomeação de defensor ad hoc para a prática de ato processual no qual a Defensoria Pública, devidamente intimada, não comparece, não ofende o direito conferido ao acusado de escolher patrono de sua confiança. Violação ao princípio do defensor natural não vislumbrada.
+- Nulidades. Princípio pas de nullité sans grief (art. 563 do CPP): não será declarada a nulidade do ato sem a efetiva comprovação do prejuízo experimentado pela parte, o que não ocorreu na espécie. Dessa forma, não demonstrado, concretamente, qualquer prejuízo que tenha sofrido o recorrente com a nomeação de defensor ad hoc para a audiência de instrução e julgamento, não há que se falar em manifesta ilegalidade a ser afastada.
+- Parecer pelo não provimento do recurso ordinário.
+É o relatório.
+O presente recurso não comporta acolhimento.
+Primeiro, porque o recorrente se limita a afirmar a ocorrência de nulidade por ofensa ao princípio do defensor natural, sem indicar e demonstrar o prejuízo decorrente da nomeação de defensor ad hoc, providência indispensável para o reconhecimento da nulidade.
+Depois, porque, em consulta à página eletrônica do Tribunal Regional Federal da 5ª Região, observa-se que sobreveio sentença condenatória e o feito se encontra em grau de apelação, de onde se infere que o tema, agora, deverá ser analisado pelo Tribunal em cognição mais ampla que a do habeas corpus.
+Em face do exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTELIONATO MAJORADO E INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÃO. NULIDADE. NOMEAÇÃO DE DEFENSOR AD HOC. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DO DEFENSOR NATURAL. PREJUÍZO. AUSÊNCIA DE DEMONSTRAÇÃO. SUPERVENIÊNCIA, ADEMAIS, DE SENTENÇA. TEMA QUE DEVERÁ SER OBJETO DE APELAÇÃO. COGNIÇÃO MAIS AMPLA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
