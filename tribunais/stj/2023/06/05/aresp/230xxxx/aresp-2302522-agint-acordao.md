@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por ANA CRISTINA DOS SANTOS SILVA LOPES, JOSE MANUEL BENTO LOPES e ANTONIO PEDROSO DA SILVA contra decisão unipessoal, proferida pela Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial que interpuseram.
+Ação: embargos à execução, opostos pelos agravantes, em face da agravada, nos quais alegam, dentre outros fundamentos, excesso de execução, considerando que não foi apresentada planilha de débito para que fossem conferidos os encargos aplicados sobre o valor devido, bem como que o valor referente às perdas e danos cobrados pela agravada retira a liquidez e certeza do título. Pleiteiam, portanto, a extinção da execução.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. RESCISÃO ANTECIPADA. MULTA CONTRATUAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO, FALTA DE CERTEZA E EXIGIBILIDADE DO TÍTULO, ALÉM DO DESCABIMENTO DA APLICAÇÃO DE MULTA CONTRATUAL E HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DOS EMBARGANTES QUE NÃO MERECE ACOLHIMENTO. REJEIÇÃO DA PRELIMINAR DE SENTENÇA CITRA PETITA. MAGISTRADA SENTENCIANTE ENTENDEU NÃO HAVER ABUSIVIDADE DAS CLÁUSULAS CONTRATUAIS E QUE A LIVRE INICIATIVA DEVE SER RESPEITADA, EM HOMENAGEM AO PRINCÍPIO DA PACTA SUNT SERVANDA, RAZÃO PELA, POR QUESTÃO LÓGICA, OS QUESTIONAMENTOS FORAM DECIDIDOS DE ACORDO COM A PREVISÃO CONTRATUAL. CONTRATO DE LOCAÇÃO. POSSIBILIDADE DE CUMULAÇÃO DE CLÁUSULA MORATÓRIA E COMPENSATÓRIA. AUSÊNCIA DE COMPROVAÇÃO. CLÁUSULAS CONVENCIONADAS. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO NÃO EVIDENCIADO. RESPONSABILIDADE DO LOCATÁRIO CERTIFICAR-SE QUANTO ÀS CONDIÇÕES DO IMÓVEL PARA O DESENVOLVIMENTO DE SUAS ATIVIDADES VISANDO A OBTENÇÃO DO ALVARÁ DE FUNCIONAMENTO. ATRIBUTOS DA EXIGIBILIDADE, CERTEZA E LIQUIDEZ DO TÍTULO EXECUTIVO DEVIDAMENTE CONFIGURADOS. AÇÃO EXECUTIVA LASTREADA NO CONTRATO DE LOCAÇÃO, TERMO DE DISTRATO, DEVIDAMENTE ASSINADOS, ALÉM DO BOLETO DE COBRANÇA E A PLANILHA DE CÁLCULOS DA DÍVIDA. INTELIGÊNCIA DO ARTIGO 784, VIII DO CPC. HONORÁRIOS ADVOCATÍCIOS CONVENCIONADOS. INCLUSÃO NO DÉBITO COM RESPALDO NO CÓDIGO CIVIL. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. MAJORAÇÃO DA VERBA HONORÁRIA EM SEDE RECURSAL. DESPROVIMENTO DO RECURSO. (e-STJ Fls. 436/437)
+Embargos de declaração: opostos pelo agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 489 e 1.022 do CPC/15, bem como dissídio jurisprudencial.
+Decisão unipessoal: proferida pela Ministra Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que a parte agravante não impugnou todos os fundamentos utilizados pelo TJ/RJ para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à parte agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
