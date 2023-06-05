@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto contra decisão que conheceu em parte do recurso especial e, nessa extensão, deu-lhe provimento para afastar a multa prevista no art. 1.026, § 2º, do CPC.
+Ação: civil pública ajuizada pelo Ministério Público do Estado de Minas Gerais, na qual o autor alega que diversos idosos analfabetos do Município de Rio Vermelho/MG têm sido prejudicados pela celebração de contratos nulos com as instituições financeiras requeridas, uma vez que as condições do ajuste violam flagrantemente os princípios da boa-fé, informação e transparência contratuais.
+O parquet assevera que as instituições financeiras, costumeiramente, valem-se da prática de celebrar contratos de empréstimo consignado com pessoas idosas, mediante descontos em seus benefícios previdenciários, sem que lhes sejam devidamente esclarecidas e informadas as condições e os ônus das contratações.
+Por fim, o requerente busca provimento jurisdicional que condene as requeridas a que se abstenham de realizar, na referida Comarca, contratos de empréstimos consignados com beneficiários idosos e analfabetos do INSS, sem que tais contratos sejam realizados por meio de escritura pública ou por procurador constituído por instrumento público, sob pena de incidência de multa no valor de R$ 20.000,00 (vinte mil reais) por cada contrato celebrado sem observância dessa determinação.
+Sentença: julgou procedente o pedido para determinar, na Comarca de Rio Vermelho/MG, que os requeridos apenas realizem contratos de empréstimo consignado com beneficiários do INSS idosos e analfabetos por escritura pública ou mediante procurador constituído por instrumento público, devendo, para tanto, inserir nos respectivos contratos de empréstimo consignado, celebrados com beneficiários idosos e analfabetos desta Comarca, cláusula que exija a lavratura de escritura pública ou a constituição de procurador por instrumento público, sob pena de nulidade contratual.
+O Juízo de 1º Grau fixou, ainda, multa diária no importe de R$ 20.000,00 (vinte mil reais) para cada contrato celebrado em desacordo com o provimento jurisdicional.
+Acórdão: deu parcial provimento aos recursos de apelação, nos termos da ementa abaixo transcrita (fl. e-STJ 730/746):
+AÇÃO CIVIL PUBLICA. DIREITO DO CONSUMIDOR. FALTA DE INTERESSE DE AGIR. CERCEAMENTO DE DEFESA. EMPRESTIMO CONSIGNADO. ANALFABETO. INSTRUMENTO PÚBLICO. DESNECESSIDADE. ASSINATURA A ROGO. PESSOA DE CONFIANÇA DO CONSUMIDOR ANALFABETO. IMPRESCINDIBILIDADE. O interesse processual está presente sempre que a parte tenha a necessidade de exercer o direito de ação (e, conseqüentemente, instaurar o processo) para alcançar o resultado que pretende, relativamente à sua pretensão e, ainda mais, sempre que aquilo que se pede no processo (pedido) seja útil sob o aspecto prático. Presente a necessidade e utilidade da presente ação, não há que se falar em falta de interesse de agir. Não há cerceamento de defesa quando a prova testemunhal pretendida é prescindível e inócua para desate da lide. A contratação de empréstimo consignado por consumidor analfabeto prescinde de instrumento público, todavia, os contratos bancários celebrados por consumidor analfabeto em que se exige apenas a inserção da impressão digital não são válidos, pois não demonstram que o consumidor conhecia e aderiu de forma consciente às cláusulas contratuais. Por essa razão, nesses casos, ao contratar o empréstimo, a Instituição Financeira deve, no mínimo, exigir que a pessoa analfabeta seja assistida por pessoa de sua confiança (art. 595 do Código Civil), sob pena de invalidade do negócio.
+Agravo interno (fl. e-STJ 909/924): alega, em síntese, que não incide a Súmula n. 283/STF em relação à apontada violação do art. 104 do Código Civil e reitera os argumentos deduzidos no recurso especial de que as pessoas não alfabetizadas e idosas não são consideradas incapazes.
+No que tange à suposta afronta ao art. 537, § 1º, do CPC, o agravante aduz que o valor fixado a título de astreintes destoa da jurisprudência do STJ, não havendo que se falar na aplicação da Súmula n. 7/STJ.
+Insurge-se quanto à incidência da Súmula n. 282/STF, sob o argumento de que a redução, aumento ou exclusão da multa diária pode ser reconhecida em qualquer tempo ou grau de jurisdição.
+Petição (fl. e-STJ 935/936): intimado, o agravado apresentou contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA DE OBRIGAÇÃO DE FAZER. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação civil pública com pedido de obrigação de fazer.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, não deve ser conhecido.
+3. A ausência de apreciação da tese discutida no recurso especial atrai a incidência da Súmula n. 282/STJ.
+4. Agravo interno conhecido em parte e, nessa extensão, não provido.
+VOTO
+No que tange à incidência das Súmulas de nºs 07/STJ e 283/STF, verifica-se que o agravante não impugnou especificamente os fundamentos adotados pela decisão recorrida, restando ausente pressuposto recursal genérico.
+No tocante à Súmula n. 282/STF, observa-se que a decisão merece ser mantida pelos próprios fundamentos, já que a parte deveria ter oposto embargos declaratórios para suscitar a questão perante a Corte de origem.
+Registre-se que, mesmo questões de ordem pública, demandam o prequestionamento em sede de recurso especial. Confira-se: AgInt no REsp n. 2.021.499/SP, Terceira Turma, DJe de 29/3/2023.
+Conclusão
+Forte nessas razões, nego provimento ao agravo regimental.
