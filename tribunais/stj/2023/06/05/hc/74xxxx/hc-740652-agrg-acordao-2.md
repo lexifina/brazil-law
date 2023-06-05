@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 30/05/2023 a 05/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Messod Azulay Neto.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+Cuida-se de agravo regimental interposto contra decisão de minha lavra, na qual concedi o efeito extensivo da absolvição de Vital Joaquim Poleto a Rodrigo Abib Poleto.
+O Ministério Público do Estado de Santa Catarina se insurge contra a extensão dos efeitos da absolvição, ao argumento de inexistência de identidade fática entre os agentes.
+Requer, assim, a reconsideração da decisão ou o provimento do recurso pelo colegiado.
+É o relatório.
+EMENTA
+AGRAV O REGIMENTAL NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS. LAVAGEM DE DINHEIRO. CONCESSÃO DE EFEITO EXTENSIVO A CORRÉU NA MESMA SITUAÇÃO FÁTICA DE AGENTE ABSOLVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, mostra-se válida a concessão do pedido de extensão, pois o ora agravado, encontra-se na mesma situação fática do corréu absolvido no presente mandamus.
+2. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Consta do bem elaborado parecer do Ministério Público Federal:
+"Trata-se de pedido de extensão constante das fls. 583/858 (e-STJ), no qual o corréu Rodrigo Abib Poleto requer que sejam a ele estendidos os efeitos da decisão desse STJ proferida no habeas corpus em epígrafe (e-STJ, fls. 563/567) que concedeu a ordem de ofício para absolver o paciente (Vital Joaquim Poleto) do delito de lavagem de capitais (art 1º, §1º,II, e §4º, da Lei n. 9.613/1998), estendendo a sentença absolutória proferida em favor do corréu Cláudio Alves da Silva, nos autos do processo nº 0013408-87.2016.8.24.0023.
+A defesa sustenta, em síntese que " h á no caso em tela similitude fática e jurídica entre o requerente e o paciente desta impetração em relação ao delito em questão, isso porque Rodrigo fora também condenado pelo delito de lavagem de capitais que envolvia o veículo VW Tiguan, que teve a atipicidade reconhecida por Vossa Excelência."
+ ..
+Temos que o pedido deve ser deferido. Segundos os autos, Rodrigo Abib Poleto e mais quatorze agentes foram denunciados pela prática de organização criminosa, associação para o tráfico de drogas e lavagem de dinheiro, conforme previsto no art. 2º, §3º e §4º, I e IV, da Lei nº 12.850/13, art.35 da Lei n. 11.343/06, e art. 1º, caput e §1º, II e §4º, da Lei n. 9.613/1998. Após regular instrução, o magistrado condenou o requerente a 60 anos e 24dias de reclusão, em regime inicial fechado, e ao pagamento de 4.950 dias-multa, no valor unitário de 1/10 do salário-mínimo vigente à época dos fatos, pela prática dos crimes previstos no arts. 33, por duas vezes, e 35 da Lei n. 11.343/06; art. 1º, § 1º, I c/c § 4º, e art. 1º, §1º, II c/c § 4º, todos da Lei n. 9.613/98; art. 311 do Código Penal, por três vezes, e art. 2º, §3º da Lei n. 12.850/13, na forma do art. 69 do Código Penal (e-STJ, fl. 605).
+ ..
+Com efeito, em razão da diversidade de réus, houve o desmembramento dos autos em relação ao corréu Cláudio Alves da Silva, o qual foi absolvido nos autos nº 0013408-87.2016.8.24.0023 do crime de lavagem de dinheiro, em razão da atipicidade da conduta, em acórdão assim ementado (e-STJ fl. 115):
+ ..
+Como se vê da transcrição, o TJSC reconheceu a atipicidade da conduta ao argumento de que as circunstâncias do caso são insuficientes para configurar o delito de lavagem de capitais. Em razão disso, a defesa de Vital Joaquim Poleto impetrou habeas corpus perante esse STJ, alegando que, por estar na mesma situação fática-processual que Claudio Alves da Silva, faz jus à extensão dos efeitos da sentença absolutória concedida ao corréu no que se refere ao crime de lavagem de dinheiro.
+Com efeito, a ordem foi concedida de ofício para estender os efeitos da decisão absolutória proferida em favor do corréu Cláudio Alves da Silva, nos seguintes termos (e-STJ, fl. 567):
+ ..
+De igual modo, temos que é o caso de estender os efeitos da decisão em benefício de Rodrigo Abib Poleto, visto que o requerente também foi condenado pelo delito de lavagem de capitais em relação ao veículo VW Tiguan, que teve a atipicidade reconhecida pelo TJSC.
+Realmente, o art. 580 do CPP prevê a possibilidade de aproveitamento do recurso interposto por um dos réus aos corréus no caso de concurso de agentes. Porém, exige-se que os motivos que justifiquem tal decisão não sejam de caráter exclusivamente pessoal, que é o caso, pois o acórdão considerou que, tal qual o voto vencido da relatora, a conduta imputada aos acusados é atípica, uma vez que não se tinha o propósito de ocultar a origem do veículo, tratando-se, tão somente, de proveito de crime antecedente (tráfico de drogas).
+Conclui-se, portanto, que, uma vez reconhecida a atipicidade da conduta, impõe-se, com fundamento no art. 580 do Código de Processo Penal, o deferimento do pedido de extensão do julgado que absolveu o corréu do crime de lavagem de dinheiro (art.1º da Lei n. 9.603/98).
+ ..
+É justo, pois, deferir o pedido de extensão ao requerente, Rodrigo Abib Poleto, nos termos do art. 580 do CPP, uma vez que ele se encontra na mesma situação processual de Vital Joaquim Poleto e do corréu Claudio Alves da Silva no que se refere ao delito de lavagem de dinheiro, permanecendo inalteradas as demais condenações." (fls. 657/663)
+Como visto, das bem lançadas razões da peça opinativa, as quais adotam-se como fundamentos para decidir, na hipótese deve ser mantida a concessão d o pedido de extensão, pois Rodrigo Abib Poleto, ora agravado, encontra-se na mesma situação fática do corréu Vital Joaquim Poleto, absolvido com a concessão da ordem no presente writ.
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
