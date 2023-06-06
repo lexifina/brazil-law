@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Wilmer Pablo Apaza - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2102003-96.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízo de Direito do Foro Central Criminal da Barra Funda da comarca de São Paulo/SP, ao argumento de que fundamentar a prisão preventiva apenas na garantia da ordem pública é o mesmo que dizer que o paciente cometerá novos delitos, sendo isso um pré-julgamento, além de imputar ao paciente o crime alegado, sem qualquer chance de defesa (fl. 9).
+Da atenta análise da decisão que converteu a prisão em flagrante em preventiva se observa que o Magistrado singular sustentou que a conduta delitiva do autuado é de acentuada gravidade e lesividade à saúde pública, considerando a apreensão de relevante quantidade de matéria prima para produção de crack e cocaína, que se tratam de entorpecentes dotados de extrema lesividade ao usuário, bem como diante das circunstâncias do flagrante, havendo indicativos de tráfico internacional/interestadual, praticado em transporte coletivo de passageiros, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade. Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer à ordem pública (fl. 153).
+Assim, inexiste o constrangimento ilegal alegado na inicial, até porque se trata do transporte interestadual de 85 kg de folhas de coca, 23 kg de material resinoso e 45 kg de insumos para preparação de cocaína e crack.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. TRANSPORTE DE MAIS DE 100 KG DE INSUMOS PARA O PREPARO DE COCAÍNA E CRACK. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
