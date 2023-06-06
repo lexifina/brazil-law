@@ -1,0 +1,45 @@
+DECISÃO
+Na origem trata-se de ação rito comum ajuizado por RONALDO CAMARGO FABEL contra o ESTADO DE RONDÔNIA, pretendendo o reenquadramento funcional mediante progressão funcional com reflexos e retroativo. Na sentença julgou-se procedente o pedido para condenar o ente público ao pagamento do retroativo e reflexos referentes a progressão funcional. No Tribunal a quo a sentença foi reformada para reconhecer a existência de coisa julgada.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO. SERVIDOR ESTADUAL. GRUPO OCUPACIONAL SAÚDE. MÉDICO. PROGRESSÃO VERTICAL. COISA JULGADA. RECONHECIMENTO. PROGRESSÃO HORIZONTAL. PRESCRIÇÃO NÃO CONFIGURADA. QUALIFICAÇÃO REQUISITO ESSENCIAL DO CARGO. PROGRESSÃO INDEVIDA. RECURSO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+No caso dos autos, o objeto da presente ação tratou da aplicação daprogressão horizontal e vertical.
+Muito embora fundamente o autor que o Estado de Rondônia não continuou a procederas progressões verticais conforme a legislação, entendo que eventual insurgência àquele julgado, deve sedar por meio de cumprimento de sentença naquele processo, uma vez que, conforme reconhecido por ambas as partes, houve sentença favorável ao autor a qual foi executada.
+Assim, acolho a preliminar arguida para reconhecer a coisa julgada com relação à discussão da progressão vertical, uma vez que tal demanda já concedeu tal direito, devendo a análise do recurso restringir-se à progressão horizontal.
+ ..
+O Estado de Rondônia defende que a Lei Estadual nº 1.993/08 revogou tacitamente as disposições contrárias da Lei Estadual nº 1.067/02 e alterações; inexiste amparo legal para a Progressão Funcional do cargo de Médico, visto que não foram editadas as tabelas de vencimentos e respectivas referências na Lei Estadual nº 1993/08.
+O apelado é servidor público estadual, integrante do Quadro Permanente de Pessoal Civil do Estado de Rondônia, desde 10/10/1994, possuindo contrato de 40 horas, sob a matrícula n.300021269, vinculado à Polícia Civil, onde exerce o cargo de Médico 40h.
+ ..
+Ocorre que a lei 1.993/2008, não trata sobre progressão, mas também em nenhum momento revoga de forma expressa as regras dadas pela Lei 1.067/2002 e pela lei 1.386/2004, entendendo-se que as duas primeiras apenas adequaram o piso salarial da categoria, mantendo-se as demais regras em face da progressão vertical e horizontal.
+ ..
+Assim, apesar de a lei 1.993/2008 apenas tratar sobre o piso salarial da categoria, as regras de progressão funcional dadas pela Lei 1.067/2002 e pela lei 1.386/2004encontram-se ainda vigentes, devendo serem observadas pela Administração Pública.
+ ..
+A progressão horizontal tem como finalidade estimular o aprimoramento profissional dos servidores da área da saúde por meio de curso de pós-graduação, ou seja, especialização/residência médica, mestrado e doutorado, estabelecendo, assim, a variação da classificação de acordo com o grau de especialização profissional do servidor. Contudo, verifica-se que o cargo provido pelo apelante, em 10/10/1994, foi o de médico especialidade em radiologia, conforme Decreto de nomeação n. 6522/1994 (ID 14997803). Acrescido a isso, de acordo com a documentação apresentada, o autor permanece na mesma função, inexistindo notícias de alteração, de acordo com a sua ficha funcional. Não se pode olvidar que ao ser empossado no cargo, o autor apresentou certificado de especialização (ID 14997795), emitido em 03.01.1979, o qual comprova a especialidade em radiologia, sendo o requisito inerente para o desempenho do cargo, o qual foi aprovado por meio de concurso no âmbito do serviço público estadual.
+ ..
+A norma que estabelece progressão funcional para os integrantes do Grupo Ocupacional Saúde é de eficácia plena, pois devidamente regulamentada pela Lei 1.607/2002, que permanece em vigor, não havendo falar em lacuna legislativa, tampouco em norma de eficácia limitada. A progressão horizontal decorrente da especialização na carreira é devida quando referida especialização não é pré-requisito para o cargo no qual o servidor foi nomeado.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei 1.067/2002 e lei 1.386/2004, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor d o Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
