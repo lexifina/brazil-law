@@ -1,0 +1,67 @@
+RECLAMAÇÃO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE GRATIFICAÇÃO COM PREVISÃO EM LEI ORGÂNICA MUNICIPAL. ALEGAÇÃO DE VIOLAÇÃO AO TEMA 223 DA REPERCUSSÃO GERAL. OCORRÊNCIA. RECLAMAÇÃO QUE SE JULGA PROCEDENTE.
+
+    DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Município de Assu/RN contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Norte, nos autos do Processo nº 0100373-47.2013.8.20.0100, sob a alegação de má-aplicação da tese vinculante fixada no RE 590.829 - Tema 223 da sistemática da repercussão geral.
+
+    Em síntese, narra o reclamante tratar-se na origem de ação ajuizada por Vera Lucia Silva de Oliveira, servidora do Município de Assu, objetivando a incorporação de gratificação, prevista no artigo 68, §3º, da Lei Orgânica do Município de Assu. Relata que a ação foi julgada procedente com a condenação do ente municipal à incorporação da referida gratificação, “correspondente a um quinto calculado sobre o valor médio do último ano de recebimento de gratificação do PSF, excluindo-se os períodos prescritos”. Discorre que, uma vez interposto agravo em recurso extraordinário, a Presidência do Supremo Tribunal Federal determinou a devolução dos autos ao tribunal de origem para a aplicação do Tema 223 da repercussão geral, contudo o TJRN deixou de exercer o juízo de retratação e manteve o entendimento de que o acórdão estaria em conformidade com o que decidido em sede de repercussão geral no julgamento do Recurso Extraordinário 590.829.
+
+    Alega que, ao permitir a incorporação de gratificação a servidor com previsão em lei orgânica, a decisão reclamada afronta a tese firmada no Tema 223-RG, segundo a qual “é inconstitucional, por afrontar a iniciativa privativa do Chefe do Poder Executivo, a normatização de direitos dos servidores públicos em lei orgânica do Município”. Argumenta, ademais, que o artigo 68, §3º da Lei Orgânica do Município de Assu é uma mera reprodução do artigo 28, §4º, da Constituição do Estado do Rio Grande do Norte, cujo dispositivo já foi declarado inconstitucional pelo STF no julgamento da ADI 1.353.
+
+    Requer, por estes fundamentos, a suspensão liminar da decisão impugnada e, no mérito, sua cassação definitiva.
+
+    Devidamente citada, a beneficiária da decisão reclamada apresentou contestação, alegando, em síntese, que não restou comprovado vício no processo legislativo, pois “não há indícios de que a mencionada Lei Orgânica do Município de Assú/RN, não tenha sido promulgada pelo Chefe do Poder Executivo” (doc. 18).
+
+    A Procuradoria-Geral da República manifestou-se pela improcedência da reclamação, em parecer assim ementado (doc. 25):
+
+    “RECLAMAÇÃO CONSTITUCIONAL. SUPOSTA AFRONTA AO TEMA 223. INICIATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO PARA DISPOR SOBRE DIREITOS DOS SERVIDORES PÚBLICOS MUNICIPAIS. VÍCIO DE INICIATIVA NÃO DEMONSTRADO. PARECER PELA IMPROCEDÊNCIA DA PRESENTE RECLAMAÇÃO”.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de aplicação indevida da tese vinculante fixada no julgamento do RE 590.829 - Tema 223 da sistemática da repercussão geral.
+
+    Passo à realização do cotejo entre a decisão reclamada e o paradigma invocado, consignando que, no julgamento do Recurso Extraordinário 590.829 de relatoria do Min. Marco Aurélio, o Plenário da Corte assentou que “é inconstitucional, por afrontar a iniciativa privativa do Chefe do Poder Executivo, a normatização de direitos dos servidores públicos em lei orgânica do Município”. O aludido julgado recebeu a seguinte ementa:
+
+    “CONTROLE DE CONSTITUCIONALIDADE – TRIBUNAL DE JUSTIÇA – ATUAÇÃO – REVISÃO. Ante a possibilidade de vir à balha entendimento que possua ligação com a Constituição Federal, como ocorre quanto aos preceitos sensíveis, de adoção obrigatória pela Carta estadual, admissível é o recurso extraordinário – Recurso Extraordinário nº 199.293/SP, de minha relatoria, e Questão de Ordem na Ação Direta de Inconstitucionalidade nº 1.529/MT, da relatoria do ministro Octavio Gallotti. LEI ORGÂNICA DE MUNICÍPIO – SERVIDORES – DIREITOS. Descabe, em lei orgânica de município, a normatização de direitos dos servidores, porquanto a prática acaba por afrontar a iniciativa do Chefe do Poder Executivo – Ações Diretas de Inconstitucionalidade nº 2.944/PR, relatada pela ministra Cármen Lúcia, 3.176/AP, 3.295/AM, relatadas pelo ministro Cezar Peluso, e 3.362/BA, de minha relatoria.” (RE 590.829, Tribunal Pleno, Rel. Min. Marco Aurélio, DJe de 30/3/2015).
+
+    Nesse contexto, a leitura dos acórdãos proferidos pelo Tribunal de Justiça do Estado do Rio Grande do Norte no presente caso concreto revela afronta ao conteúdo do paradigma mencionado, uma vez que permitiu a incorporação de gratificação a servidor, com fundamento em previsão da Lei Orgânica do Município de Assu, conforme se observa do seguinte excerto da decisão reclamada:
+
+    “[...]
+
+    Quanto à alegação de inconstitucionalidade da Lei Orgânica do Município de Assu por vício de iniciativa, não assiste razão ao apelante ao argumentar que tal norma viola o art. 61, § 1º, II, alínea c, da CF, por ter sido promulgada pela Câmara de Vereadores do Município a despeito de a iniciativa incumbir ao Chefe do Poder Executivo Municipal.
+
+    Isso porque tal argumentação decorre de equívoco quanto às fases do processo legislativo, quais sejam, as fases de iniciativa e de promulgação das leis;
+
+    No tocante à iniciativa, não há que se falar em inconstitucionalidade da Lei Orgânica do Município por ausência de provas nos autos no sentido de que o processo legislativo eventualmente não tenha sido iniciado pelo Chefe do Poder Executivo Municipal, o que supostamente violaria o art. 61, § 1º, inciso II, c, da Constituição Federal de 1988.
+
+    Quanto à promulgação, a Constituição Federal estabelece, em seu art. 66, § 7º, que, em regra, tal prerrogativa é do Chefe do Poder Executivo e, quando deixa de fazê-lo — nos casos de sanção tácita e de derrubada de veto —, pode ser feita pelo Poder Legislativo.
+
+    Entretanto, na hipótese, não há qualquer indício de que a Lei Orgânica do Município não tenha sido promulgada pelo Chefe do Poder Executivo. ” (doc. 4, p. 10 -11).
+
+    Saliento que, a meu sentir, a impossibilidade de previsão de direitos de servidores em lei orgânica municipal subsiste independentemente de quem tenha tido a iniciativa de alteração da LO. A forma constitucional própria para a previsão de direitos de servidores do Executivo é a aprovação de lei de iniciaitiva do Chefe do Poder Executivo, observados os ditames da responsabilidade fiscal.
+
+    Ex positis, com fundamento nos artigos 992 do Código de Processo Civil e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE a presente reclamação, para cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, nos autos do Processo nº 0100373-47.2013.8.20.0100, e determinar que outro seja proferido, em observância ao Tema 223 da repercussão geral.
+
+    Comunique-se o teor desta decisão ao Tribunal de Justiça do Estado do Rio Grande do Norte.
+
+    Publique-se.
+
+    Brasília, 6 de junho de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
