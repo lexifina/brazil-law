@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Patrícia Pereira de Almeida contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 657):
+AÇÃO DE EXIGIR CONTAS. CUMPRIMENTO DE SENTENÇA. Exceção de pré-executividade. Pedido de suspensão da execução mediante caução que foi indeferido. Oferecidas ações do "BESC - Banco do Estado de Santa Catarina", que não têm liquidez. Oposição da parte exequente. Precedentes do TJSP.
+Decisão mantida. Recurso não provido.
+O agravo interno manejado pela ora agravante não foi conhecido ante a sua prejudicialidade (e-STJ, fls. 717-719).
+Nas razões do recurso especial, a recorrente, alegou, além de divergência jurisprudencial, violação ao art. 805 do CPC/2015.
+Aduziu, em síntese que, em obediência ao princípio da menor gravosidade ou da menor onerosidade da execução, as ações do Banco do Estado de Santa Catarina (BESC) oferecidas como caução possuem liquidez, além de ter sido juntada farta documentação aos autos demonstrando a quantidade das ações nominais, o seu valor correspondente e a soma total dessas ações, não havendo óbice para sua aceitação.
+Ao final, pugnou pela concessão de efeito suspensivo ao recurso especial.
+Contrarrazões apresentadas às fls. 750-756 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de vulneração ao dispositivo tido por violado, bem como pela ausência de demonstração do dissídio jurisprudencial; de consequência, ficou prejudicado o pedido de efeito suspensivo (e-STJ, fls. 771-773).
+Brevemente relatado, decido.
+Observa-se que o acórdão recorrido decidiu pela manutenção da decisão unipessoal, com base nos seguintes fundamentos (e-STJ, fls. 658-659 - sem grifo no original):
+O recurso não merece provimento.
+Trata-se de ação de exigir contas em fase de cumprimento de sentença, em que se executa o valor de R$5.586.306,67 (fls. 05 do processo de origem).
+Houve exceção de pré-executividade, requerendo a suspensão da execução mediante prestação de caução real por meio de ações do BESC Banco do Estado de Santa Catarina.
+Insurge-se a executada Patrícia, contra decisão que indeferiu pedido de suspensão da execução e não aceitou a prestação de caução por meio das ações, "uma vez que às referidas ações não possuem liquidez imediata" (fls. 476 do processo de origem).
+Sem razão, contudo.
+Como se sabe, "quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado" (art. 805, caput, do CPC), sendo que "ao executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados" (art. 805, parágrafo único, do CPC).
+No entanto, não se pode ignorar que "realiza-se a execução no interesse do exequente" (art. 797, caput, do CPC), quem, no caso em tela, afirmou que "as ações apresentadas não possuem liquidez" (fls. 581) e se opôs à caução oferecida.
+Com efeito, as ações do "BESC Banco do Estado de Santa Catarina", oferecidas em caução pela parte executada, não são listadas na Bolsa de Valores, não restando demonstrada a necessária liquidez.
+Nesse sentido, e especificamente em relação às ações oferecidas, já decidiu reiteradamente este E. Tribunal de Justiça:
+(..)
+Assim, de rigor a manutenção da r. decisão.
+Para fins de prequestionamento, consideram-se incluídas no acórdão todas as matérias suscitadas pelas partes, objeto do presente recurso.
+Diante do exposto, nega-se provimento ao recurso.
+Com efeito, o entendimento jurisprudencial do Superior Tribunal de Justiça, se firmou "no sentido de que o objetivo primordial da execução é a satisfação do credor, admitindo-se excepcionalmente a substituição da penhora somente nas hipóteses em que efetivamente demonstrada a necessidade de aplicação do princípio da menor onerosidade ao executado" (AgInt no AREsp 1.667.194/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe de 1º/10/2020).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. SUBSTITUIÇÃO DA PENHORA. INVIABILIDADE. MAIOR EFETIVIDADE DA EXECUÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. INCIDENTE DE SUSPEIÇÃO. TRIBUNAL DE ORIGEM CONCLUIU QUE INEXISTEM MOTIVOS QUE DEMONSTREM O COMPROMETIMENTO DA IMPARCIALIDADE DA TURMA JULGADORA. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo. Novo exame do feito.
+2. Não se verifica violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+3. "O entendimento desta Corte Superior é no sentido de que o objetivo primordial da execução é a satisfação do credor, admitindo-se excepcionalmente a substituição da penhora somente nas hipóteses em que efetivamente demonstrada a necessidade de aplicação do princípio da menor onerosidade ao executado" (AgInt no AREsp 1.667.194/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 28/09/2020, DJe de 1º/10/2020).
+4. Na hipótese, o Tribunal de Justiça assentou, considerando a maior efetividade da execução, que "(..) os bens até agora penhorados (quantias em conta bancária e veículos) possuem maior liquidez do que o imóvel oferecido, o que torna inviável o pedido de substituição". Estando a decisão estadual de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+5. O Tribunal de origem, com arrimo no acervo fático-probatório, rejeitou o incidente de suspeição, por entender que não havia motivos aptos a afastar a imparcialidade do órgão julgador. Nesse contexto, a modificação do entendimento firmado demandaria o reexame de fatos e provas, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 1.697.151/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/2/2021, DJe de 23/2/2021 - sem grifo no original )
+Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da falta de demonstração da liquidez imediata das ações ofertadas, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+Outrossim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Em relação a reiteração do requerimento de efeito suspensivo de fl. 799 (e-STJ), constata-se que a recorrente apenas indicou de forma genérica seu pedido, circunstância que impede o seu conhecimento, segundo o teor do verbete sumular n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTRAS. CUMPRIMENTO DE SENTENÇA. 1. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA INVIABILIDADE DA SUBSTITUIÇÃO DA PENHORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 E 83/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. PRETENSÃO DE EFEITO SUSPENSIVO AO RECURSO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
