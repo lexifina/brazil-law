@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOAO PEREIRA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - JUSTIÇA GRATUITA - DECISÃO QUE INDEFERIU OS BENEFÍCIOS DA JUSTIÇA GRATUITA EM SEDE DE APELAÇÃO E DETERMINOU O RECOLHIMENTO DO PREPARO, SOB PENA DE DESERÇÃO - INCONFORMISMO - AGRAVANTES QUE NÃO COMPROVARAM A ALEGADA HIPOSSUFICIÊNCIA, COM RENDA E PATRIMÔNIO QUE CONTRADIZEM A ALEGADA MISERABILIDADE - DECISÃO MANTIDA - RECURSO IMPROVIDO, COM DETERMINAÇÃO.
+Quanto à controvérsia, alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne à presença dos requisitos para concessão do benefício da gratuidade de justiça à recorrente/pessoa jurídica, porquanto, não é possível arcar com as custas processuais sem o comprometimento da sua atividade profissional e sua função social. Apresenta os seguintes argumentos:
+Em que pese o inquestionável saber jurídico dos ilustres membros do Tribunal de Justiça de São Paulo, ousamos afirmar que tal decisão não considerou todas as nuances do processo.
+Entretanto, como demonstrado, a Recorrente necessita da concessão do benefício da assistência judiciária por não possuir condições de arcar com as custas processuais sem comprometer sua subsistência, tendo sido juntado documentos que comprovam a concessão da benesse.
+Sequer foi observado que a requerente Maria Aparecida é pessoa aposentada e que seus rendimentos estão comprometidos para seu próprio sustento, que a mesma possui empréstimo financeiro junto a instituição financeira pois o sr. João pereira necessitou de ajuda para o tratamento do câncer em sua esposa.
+Ainda, o respeitável Acordão, baseou-se em declaração de imposto de renda de tempo pretérito, ignorando totalmente o a drástica redução nos ganhos mensais dos requerentes, o que demonstra que os ganhos anteriormente recebidos HOJE não se perceber mais.
+Sabe-se que, o que deve ser analisado é o PERÍODO PRESENTE e a ATUAL SITUAÇÃO FINANCEIRA dos requerentes, independente se num período pretérito estes auferiam ganhos elevados. Ainda mais em um país com um sistema econômico que transforma pessoas de classe média em miseráveis do dia para noite, que tem uma taxa de desemprego que beira aos 18 milhões de pessoas ociosas e sem nenhuma renda, muito dessas pessoas até pouco tempo atras tinham renda e possivelmente viviam até com certo conforto, e hoje mendigam o pão de cada dia para sobreviver.
+ ..
+Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita.Logo, a recorrente, também fazem jus ao benefício, haja vista não terem condições de arcar com as despesas do processo sem prejuízo de sua manutenção.
+As consequências de uma decisão que indefere o pedido de justiça gratuita são totalmente manifestas, pois, não podendo a parte prover as custas processuais sem prejuízo de seu sustento, infelizmente verá seu direito de ação praticamente fulminado, em razão de impedimentos judiciais que a própria Lei não faz.
+Desta feita, totalmente claro que o indeferimento da concessão do benefício da justiça gratuita é uma restrição que nem a Constituição Federal e nem o CPC apresentam, ou seja, conclui-se que é o judiciário quem promove a dificuldade ao cidadão em buscar a tutela jurisdicional, bloqueando o acesso à justiça através do indeferimento do benefício à justiça gratuita de modo infundado.
+ ..
+De tal forma, não há que se falar que a recorrente não comprovou o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Juízo a quo para indeferimento.
+Reitera-se que, não importa a fase processual ou grau de jurisdição que foram acostados os documentos, haja vista que, o pedido de gratuidade pode ser feito em QUALQUER momento do processo.
+Nesta seara, pode-se dizer que, a juntada de documentos que comprovem a hipossuficiência de recursos também poderá ser acostada aos autos em qualquer momento, especialmente no momento em que se analisará tal mérito em sede de Agravo de Instrumento.
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária.
+ ..
+Também há a impossibilidade de impugnação da parte que deverá trazer aos autos elementos necessários que importe na revogação da benesse, ou seja, a própria lei dispõe de possibilidades de pagamento por aqueles que posteriormente possam ter sua situação financeira alterada, desde que comprovada a condição de custear tais despesas.
+Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária à recorrente, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades (fls. 497-503).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Em que pesem os novos argumentos apresentados, os agravantes não fazem jus aos benefícios da justiça gratuita.
+Tal benefício vem sendo indeferido desde o juízo de primeira instância e, até o momento, os agravantes não comprovaram que não possuem condições de arcar com as custas do processo sem prejuízo de sua própria subsistência.
+ ..
+Por sua vez, o § 3º do artigo 99 do CPC dispõe que presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+Todavia, essa presunção é relativa e cabe ao juiz, à luz das provas dos autos, conceder ou não tais benefícios desde que haja elementos que evidenciem a falta dos pressupostos legais para a sua concessão (art. 99, § 2º, CPC).
+Nesta esteira, não está demonstrada a alegada hipossuficiência, salientando-e que a declaração de pobreza possui presunção juris tantum.
+ ..
+Desta forma, não havendo elementos capazes de comprovar a hipossuficiência alegada pela parte agravante, de rigor o desprovimento do recurso (fls. 485-489, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
