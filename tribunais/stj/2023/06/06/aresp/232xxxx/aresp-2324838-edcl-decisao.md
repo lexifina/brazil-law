@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HOSPITAL SÃO DOMINGOS LTDA à decisão de fls. 586/587, que não conheceu do recurso.
+Sustenta a parte embargante que:
+ ..
+Entretanto, o Agravo em Recurso Especial fora protocolado tempestivamente, vez que os embargos declaratórios dantes opostos em face da decisão julgadora do Recurso Especial interrompem o prazo para a interposição recursal, nos termos do art. 1026, do CPC, o qual dispõe que "os embargos de declaração não possuem efeito suspensivo e INTERROMPEM O PRAZO PARA A INTERPOSIÇÃO DE RECURSO".
+De mais a mais, não há configuração de embargos manifestamente incabíveis, mormente pelo fato de que a própria corte estadual conheceu dos declaratórios opostos, in verbis:
+ ..
+De efeito, o marco inicial para interposição do Agravo em Recurso Especial é a publicação da decisão que conheceu e rejeitou os declaratórios, o que ocorreu em 27/01/2023, tendo-se como termo final o dia 17/02/2023, conforme se depreende do expediente eletrônico constante no sistema PJE do tribunal estadual prolator da decisão vergastada e respectiva movimentação processual, senão vejamos:
+ ..
+Evidencia-se, pois, que o próprio sistema ELETRÔNICO do TJ/MA registrou como termo final para interposição recursal o dia 17/02/2023.
+ ..
+Deveras, é manifesta a tempestividade do Agravo em Recurso Especial outrora interposto, pelo que merecem guarida os declaratórios opostos (fls. 592/595).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+Na espécie, os embargos de declaração (fls. 546/548) opostos à decisão que inadmitiu o recurso especial não são o recurso adequado, ou seja, não interrompem o prazo para a interposição do agravo em recurso especial, único recurso cabível no caso.
+Confiram-se os seguintes precedentes aplicados, inclusive, a agravos interpostos já na vigência do novo CPC:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE RECURSO CABÍVEL. CPC DE 2015. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL EM RELAÇÃO AO SISTEMA ANTERIOR. PRECEDENTES DO STJ E DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou-se no sentido de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis. Manutenção desse entendimento após a entrada em vigor do Código de Processo Civil de 2015.
+2. Hipótese dos autos em que, ademais, a decisão denegatória de trânsito do recurso especial está suficientemente fundamentada, não se demonstrando genérica a ponto de inviabilizar a impugnação ao seu conteúdo, de forma que inaplicável a ressalva a que alude o acórdão da Corte Especial nos EAREsp. 275.615/SP.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.737.166/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2022, DJe de 22/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREPARO. NÃO COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO, NOS TERMOS DO ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO DA DETERMINAÇÃO. DESERÇÃO. RECURSO CONTRA DECISÃO DE INADMISSÃO DO APELO NOBRE INTEMPESTIVO.
+ ..
+2. O prazo para a interposição do agravo em recurso especial não se interrompe quando opostos embargos de declaração incabíveis contra a decisão de inadmissão do apelo nobre. Nesse sentido, confiram-se: AgInt no AREsp 903.551/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 15/12/2016; AgInt no AREsp 1.496.919/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 20/2/2020.
+3. Agravo interno não provido.
+(AgInt no AREsp 1513691/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO MANIFESTAMENTE INCABÍVEL.INTERRUPÇÃO DO PRAZO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência dessa Corte é firme no sentido de que não são cabíveis embargos de declaração contra decisão que inadmite o recurso especial, de forma que sua oposição não interrompe o prazo para interposição do agravo em recurso especial.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1561419/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/2/2020.)
+Mesmo que assim não fosse, registre-se que não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020).
+No entanto, a indicação dessa data final levou em consideração a publicação da decisão dos embargos de declaração, que como esclarecido acima, não interrompe o prazo para a interposição do agravo.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
