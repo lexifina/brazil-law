@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por DIRCY IRMINA NEUWALD, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL , assim ementado:
+"APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR PRISÃO OCORRIDA DURANTE A DITADURA MILITAR. PERSEGUIÇÃO POR MOTIVOS MERAMENTE POLÍTICOS. PRÁTICA DE TORTURA PELOS AGENTES ESTATAIS. PRELIMINARES DE ILEGITIMIDADE ATIVA E PASSIVA AFASTADAS. PRETENSÃO IMPRESCRITÍVEL POR VIOLAÇÃO AO DIREITO FUNDAMENTAL DA DIGNIDADE DA PESSOA HUMANA.
+INDENIZAÇÃO ADMINISTRATIVA QUE NÃO AFASTA O PEDIDO DE COMPLEMENTAÇÃO DEDUZIDO JUDICIALMENTE. MANUTENÇÃO DO DIREITO SUBJETIVO À INDENIZAÇÃO NA INTEGRALIDADE DA EXTENSÃO DO DANO. QUANTUM INDENIZATÓRIO MANTIDO.
+CONSECTÁRIOS LEGAIS. SUCUMBÊNCIA RECÍPROCA AFASTADA.
+SÚMULA 326 DO STJ.
+APELAÇÕES PARCIALMENTE PROVIDAS" (fl. 717e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 731/735 e 739/740e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO OCORRIDA DURANTE A DITADURA MILITAR. PERSEGUIÇÃO POR MOTIVOS POLÍTICOS. PRÁTICA DE TORTURA. DIREITO SUBJETIVO À INDENIZAÇÃO. TERMO INICIAL JUROS MORATÓRIOS. DATA DA CITAÇÃO. SUCUMBÊNCIA RECÍPROCA NÃO CONFIGURADA. SÚMULA 362 DO STJ. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. REDISCUSSÃO DA MATÉRIA. DESCABIMENTO. PREQUESTIONAMENTO - ARTIGO 1.025 DO CÓDIGO DE PROCESSO CIVIL.
+1. Os Embargos de Declaração não constituem recurso idôneo para reabrir a discussão das questões já apreciadas e, tampouco, para veicular inconformidade com a interpretação dada pelo Colegiado aos preceitos legais que embasaram a decisão.
+2. Ausentes quaisquer das hipóteses previstas na lei processual, mostra-se incabível o manejo do incidente.
+3. Mesmo visando os aclaratórios o prequestionamento da matéria neles suscitada, devem estar presentes os requisitos previstos na legislação processual para que o recurso possa ser acolhido. Precedentes.
+EMBARGOS DECLARATÓRIOS DE AMBAS AS PARTES DESACOLHIDOS" (fl. 772e).
+Nas razões do Recurso Especial (fls. 788/806e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação ao art. 398 do CC.
+Sustenta que:
+"A decisão proferida, pela 10ª Câmara Cível do Egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, afrontou o teor do artigo 398 do Código Civil Brasileiro, ao incidir juros de mora a contar da data da citação.
+Nesse passo, entende-se que as demandas em que há condenação do Estado pelos danos morais decorrentes de perseguição política, os juros moratórios incidem desde a data do evento danoso, por se tratar de responsabilidade extracontratual, conforme a Súmula 54/STJ.
+Nesse contexto, cabe destacar que no caso dos autos não há vínculo contratual entre as partes. O presente feito envolve responsabilidade civil extracontratual, trata-se de indenização a título de danos morais decorrente de perseguição política, oriundos de injusta privação de liberdade e atentado à integridade física e psíquica da pessoa.
+A hipótese dos autos, portanto, é, sem dúvida, de responsabilidade extracontratual.
+Nesse sentido, o Código Civil estabelece em seu artigo 398, que os juros de mora incidem desde o evento danoso. Ressalta-se, que no âmbito desta Egrégia Corte Superior, a questão é pacífica na jurisprudência, tendo sido objeto de um dos seus primeiros enunciados sumulares, a Súmula 54/STJ" (fls. 793/794e).
+Aduz que:
+"De tal modo, conforme observa-se nas ementas supra colacionadas, nas ações de indenizações de danos morais suportados a época do regime militar, é pacífica a posição nesta Corte Superior de que o termo inicial dos juros moratórios incidem a contar do evento danoso" (fl. 801e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 843/846e).
+A irresignação merece prosperar.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fl. 768e):
+"Quanto ao juros moratórios, depreende-se inexistir qualquer vício de julgamento, pois há expressa referência quanto ao termo inicial de sua incidência, estabelecido na data da citação, momento no qual o ente estatal teve ciência de que deveria complementar a indenização paga administrativamente, na esteira de entendimento já firmado no âmbito dos Tribunais Superiores:
+PROCESSUAL CIVIL. ADMINISTRATIVO. NÃO VIOLAÇÃO DO ART. 535 DO C P C . PERSEGUIÇÃO POLÍTICA E TORTURA DURANTE O REGIME MILITAR. INDENIZAÇÃO CUMULADA. VALOR. REVISÃO DAS PREMISSAS DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. TUTELA ANTECIPADA. PRECATÓRIO NÃO ALIMENTAR. PRESTAÇÃO ÚNICA. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. JUROS DE MORA. CITAÇÃO. PRECEDENTES.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Quanto aos fundamentos do aresto para concluir o valor reparatório dos danos morais e materiais, a tese foi a de que o autor não demonstrou haver sido privado do exercício da advocacia, razão pela qual o montante indenizatório, com base na Lei n. 10.559/2002, deve ser de R$ 100.000,00. Inviável, portanto, a revisão da tese defendida pelo recorrente para majorar o valor da verba, por depender do revolvimento fático dos autos, em razão do óbice na Súmula n. 7/STJ.
+3. A tese estabelecida pelo Tribunal de origem segundo a qual a antecipação de tutela na espécie não tem natureza alimentar por se tratar de prestação única, que descaracteriza a hipótese de urgência, não foi rebatida pelo recorrente, que manifestou defesa em sentido diverso. A dissociação entre as razões do recurso especial e as do acórdão recorrido bem como a ausência de combate a fundamento suficiente do aresto obstam o conhecimento do recurso especial, incidindo as Súmulas 283 e 284/STF.
+4. O prazo inicial de incidência dos juros de mora e da atualização monetária foi decidido pelo Tribunal de origem em consonância com a jurisprudência do STJ, cujo termo é da citação.
+Agravo regimental improvido.
+(AgRg no REsp 1487012/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/04/2015, DJe 13/04/2015) grifei."
+O entendimento esposado no acórdão recorrido dissentiu do entendimento consolidado nesta Corte de Justiça, segundo o qual "em ações objetivando o pagamento de danos morais decorrentes de perseguição política durante o período do regime militar, os juros moratórios devem incidir a partir da data do evento danoso, nos termos da sua Súmula 54. Precedentes das 1ª e 2ª Turmas" (STJ, AgInt no REsp 1.977.324/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/12/2022).
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REGIME MILITAR. PRISÃO E DEMISSÃO. MOTIVAÇÃO POLÍTICA. DANOS MORAIS. JUROS MORATÓRIOS. TERMO INICIAL. EVENTO DANOSO. VALOR DA CONDENAÇÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Em se tratando de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso. Inteligência da Súmula n. 54/STJ.
+2. Em regra, não cabe ao STJ a análise da correção ou não do montante fixado a título de indenização por dano moral, por força da orientação estabelecida na Súmula n. 7/STJ. Apenas se admite a modificação quando aquele se mostrar irrisório ou exorbitante à luz da proporcionalidade e razoabilidade.
+3. No caso, o autor, ocupante de cargos de liderança sindical durante a primeira metade dos anos 60, foi demitido do Banco do Brasil por motivação política durante o regime militar, pelo qual, inclusive, foi submetido à prisão por 69 dias.
+4. O valor fixado pela origem, "ponderando a natureza e gravidade do dano, as circunstâncias do caso concreto, o princípio da razoabilidade e os parâmetros adotados em casos semelhantes  .. ", não se vislumbra excessivo, motivo pelo qual descabe sua revisão nessa sede.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.964.906/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/06/2022).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. OPOSIÇÃO AO REGIME MILITAR INSTAURADO EM 1964.
+PERSEGUIÇÃO POLÍTICA. DANOS MORAIS. IMPRESCRITIBILIDADE. DESRESPEITO À DIGNIDADE DA PESSOA HUMANA. CARACTERIZAÇÃO. FIXAÇÃO DO QUANTUM INDENIZATÓRIO. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Este Superior Tribunal de Justiça tem entendimento no sentido de que "a prescrição quinquenal, disposta no art. 1º do Decreto 20.910/1932, é inaplicável aos danos decorrentes de violação de direitos fundamentais, que são imprescritíveis, principalmente quando ocorreram durante o Regime Militar, época na qual os jurisdicionados não podiam deduzir a contento suas pretensões" (AgInt no REsp 1.648.124/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/6/2018, DJe 23/11/2018 ).
+3. O incontroverso quadro fático delineado pela Corte de origem evidencia, de parte do Estado brasileiro pós-1964, a existência de perseguição, tortura, prisão e imposição de uma vida clandestina em desfavor dos autores recorrentes, ex-militares, isso tudo por motivação política, em contexto indicador de violação da dignidade da pessoa humana e, por isso, caracterizador da ocorrência de dano moral.
+5. Arbitramento, a esse título, de verba indenizatória para cada um dos autores recorrentes, a ser corrigida monetariamente a partir da data deste julgamento (Súmula 362/STJ), acrescida de juros de mora desde os eventos danosos (Súmula 54/STJ).
+7. Recurso especial dos autores provido"
+(STJ, REsp 1.815.870/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/09/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de que os juros moratórios incidam a partir da data do evento danoso, a teor da Súmula 54/STJ.
+I.
