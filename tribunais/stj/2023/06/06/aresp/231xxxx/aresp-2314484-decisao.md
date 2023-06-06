@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO PAN S/A (BANCO PAN) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 1.369/1.370).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, BANCO PAN alegou a violação dos seguintes dispositivos legais (1) arts.138, 139, I, e 147 do vigente Código Civil, ao argumento de que houve um vício de consentimento que teria afetado o acordo celebrado entre as partes na medida em que o recorrido teria previamente levantado quantia sem a ciência do recorrente e ainda recebido o valor da transação, obtendo montante supostamente superior ao executado, estando caracterizado erro material que acarretaria a nulidade do negócio jurídico; e (2) art. 884 do citado diploma legal, ao sustentar que o recorrido teria percebido quantia acima da devida, gerando enriquecimento sem causa que deve ser restituído ao recorrente.
+(1) e (2) Do vício de consentimento
+Verifica-se que a Corte goiana entendeu pela rejeição do pedido de reconhecimento de erro material e consequente nulidade do acordo celebrado entre as partes e homologado judicialmente com esteio em circunstâncias particulares da controvérsia, aí incluídos os termos da composição e a existência de trânsito em julgado da decisão homologatória, conforme os seguintes trechos dos arestos recorrido e embargado, respectivamente:
+Cinge-se a insurgência do banco recorrente em relação à sentença homologatória de acordo, firmado entre as partes na fase de Cumprimento de Sentença, sob o fundamento de que houve levantamentos de valores depositados em juízo, pela parte autora/apelada, que a instituição financeira desconhecia, requerendo o reconhecimento da nulidade do acordo homologado.
+Em que pesem as argumentações do apelante, constato que razão não lhe assiste.
+É de se observar que as partes livremente pactuaram composição amigável extrajudicial, requerendo a homologação e consequente extinção da ação.
+Da análise da petição de fls. 693/695, verifica-se que as partes estabeleceram a quantia a ser paga pela instituição financeira ao autor (R$75.000,00), bem como a forma do pagamento (Transferência Bancária para a conta-corrente do autor).
+Consta, ainda, do pacto que:
+Concordam as partes que todos os valores eventualmente bloqueados e/ou depositados judicialmente nos autos do processo em epígrafe e/ou seus apensos serão levantados, na sua integralidade, em favor do patrono do Banco Pan S/A.
+Declara a autora/impugnada que desiste das demais ações promovidas em face do BANCO PAN S. A. relacionadas ao (s) contrato (s) discutidos na demanda em tela, servindo o presente termo como petição de desistência..
+E, também ajustaram, expressamente, a renúncia ao prazo recursal, nos seguintes termos:
+Ambas as partes, ademais, renunciam expressamente a prerrogativa de interposição de quaisquer recursos e de ações rescisórias, requerendo seja decretado o imediato trânsito em julgado da decisão que vier a homologá-la,o que fazem a luz das disposições contidas no art. 999 do CPC/15.
+Destarte, sem margem de dúvidas, não está a merecer reparos o ato judicial impugnado, porquanto proferido nos termos da lei, tendo o magistrado a quo declinado sua fundamentação, nos seguintes termos:.
+Observa-se do acordo apresentado que este preserva os direitos e interesses das partes, preenche as formalidades pertinentes e não há evidência de que tenha sido celebrado com infringência a qualquer dispositivo legal, de modo que não há óbice a que seja homologado.
+Ante o excerto e sem outras considerações, por desnecessário, HOMOLOGO o acordo informado às fls. 693/695 para que surta seus jurídicos e legais efeitos e, de consequência, JULGO EXTINTO o presente feito com resolução do mérito nos termos do artigo 487, inciso III, "b", do Código de Processo Civil.
+Custas finais e honorários advocatícios, conforme pactuado.
+Renunciado o prazo recursal, promova-se a baixa dos autos e arquivem-se observadas as cautelas de praxe.
+Publique-se. Registre-se. Intimem-se.
+Com efeito, se, de fato, houve descumprimento do acordado, em relação aos levantamentos das quantias depositadas em juízo, e observando-se a renúncia expressa à via recursal, com o consequente "trânsito em julgado" da respectiva sentença homologatória, cabe ao banco recorrente buscar a via adequada para dirimir a questão, qual seja, o ajuizamento da ação própria visando à sua desconstituição.
+(..)
+Portanto, diante da expressa dispensa do prazo recursal e consequente trânsito em julgado da sentença homologatória do acordo pactuado extrajudicialmente entre as partes, impede qualquer tipo ulterior de sua discussão e pretensão posterior de rediscussão da matéria e do respectivo pacto, por força da supremacia dos princípios da autonomia da vontade e pacta sunt servanda e respeito ao seu trânsito em julgado. (e-STJ, fls. 1.176/1.177 e 1.178).
+Por outro lado, narra o segundo embargante que houve omissão também referente a nulidade do acordo firmado entre as partes, em razão do vício de consentimento que maculou sua celebração.
+Sobre este ponto, como bem esclarecido no voto embargado, as partes livremente pactuaram, estabelecendo a quantia a ser paga e a forma de pagamento, não vislumbrando vício de consentimento.
+Ademais, não há prova de que o segundo embargado ardilosamente omitiu a informação de que já tinha levantado uma parte da quantia que garantia o juízo (R$ 73.327,11).
+Outrossim, também não verifico que houve enriquecimento indevido do segundo embargante, pois o pagamento da quantia foi realizado tendo em vista acordo celebrado entre partes.
+Portanto, deve ser mantido o voto que conheceu a apelação cível e negou-lhe provimento. (e-STJ, fl. 1.226).
+Outrossim, adotar conclusão diversa da que chegou o eg. TJSP, o qual rejeitou a ocorrência de vício de consentimento, seria inevitável o revolvimento do conjunto fático-probatório dos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõem as Súmulas n.º 5 e 7 desta Corte.
+Nesse sentido:
+DIREITO CIVIL. FAMÍLIA. RECURSO ESPECIAL. AÇÃO NEGATÓRIA DE PATERNIDADE C/C ANULAÇÃO DE REGISTRO DE NASCIMENTO. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. RELAÇÃO SOCIOAFETIVA. EXISTÊNCIA. JULGAMENTO: CPC/2015.
+1. Ação negatória de paternidade cumulada com anulação de registro de nascimento ajuizada em 02/09/2017, da qual foi extraído o presente recurso especial interposto em 01/03/2019 e atribuído ao gabinete em 31/05/2019.
+2. O propósito recursal é definir se é possível a declaração de nulidade do registro de nascimento do menor em razão de alegada ocorrência de erro e de ausência de vínculo biológico com o registrado.
+3. O art. 1604 do CC/02 dispõe que "ninguém pode vindicar estado contrário ao que resulta do registro de nascimento, salvo provando-se erro ou falsidade do registro". Vale dizer, não é possível negar a paternidade registral, salvo se consistentes as provas do erro ou da falsidade.
+4. Esta Corte consolidou orientação no sentido de que para ser possível a anulação do registro de nascimento, é imprescindível a presença de dois requisitos, a saber: (i) prova robusta no sentido de que o pai foi de fato induzido a erro, ou ainda, que tenha sido coagido a tanto e (ii) inexistência de relação socioafetiva entre pai e filho. Assim, a divergência entre a paternidade biológica e a declarada no registro de nascimento não é apta, por si só, para anular o registro. Precedentes.
+5. Na hipótese, apesar da inexistência de vínculo biológico entre a criança e o pai registral, o recorrente não se desincumbiu do ônus de comprovar a existência de erro ou de outra espécie de vício de consentimento a justificar a retificação do registro de nascimento do menor. Ademais, o quadro fático-probatório destacado pelo Tribunal local revela a existência de nítida relação socioafetiva entre o recorrente e a criança. Nesse cenário, permitir a desconstituição do reconhecimento de paternidade amparado em relação de afeto teria o condão de extirpar da criança preponderante fator de construção de sua identidade e de definição de sua personalidade.
+6. Recurso especial conhecido e desprovido.
+(REsp n. 1.814.330/SP, relatora Ministra Nancy Andrighi, Terceira Turma, j. 14/9/2021, DJe de 28/9/2021)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO MONITÓRIA. INSTRUMENTO DE DISTRATO. RESILIÇÃO BILATERAL. VÍCIO DE CONSENTIMENTO. NÃO COMPROVAÇÃO. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem, a partir da interpretação do distrato firmado, concluiu que o instrumento presume o consentimento e a vontade dos subscritores e substitui a avença anteriormente firmada. Constatou, ainda, inexistência de dolo ou má-fé por parte do agravado. Entender de modo diverso implicaria interpretação do instrumento firmado entre as partes, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.851.066/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, j. 16/8/2021, DJe de 19/8/2021)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMPRÉSTIMO CONSIGNADO PAGO ANTECIPADAMENTE. DESCONTOS QUE PERSISTIRAM APÓS A QUITAÇÃO. ACORDO CELEBRADO ENTRE AS PARTES. LEVANTAMENTO PRÉVIO DE VALORES PELO CONSUMIDOR. PRETENSÃO DE NULIDADE DA COMPOSIÇÃO. REJEIÇÃO COM BASE EM CIRCUNSTÂNCIAS PARTICULARES, INCLUSIVE OS TERMOS DO DOCUMENTO E A EXISTÊNCIA DE TRÂNSITO EM JULGADO DA DECISÃO HOMOLOGATÓRIA. CONCLUSÃO ALCANÇADA A PARTIR DE ELEMENTOS FÁTICOS. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
