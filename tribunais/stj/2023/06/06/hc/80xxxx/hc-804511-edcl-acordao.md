@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração no agravo regimental em habeas corpus (Petição n. 514.792/2022), tempestivo, opostos por Vitor Hugo Souza de Lima ao acórdão de minha relatoria (fls. 422/427), que deu parcial provimento ao recur so para afastar a substituição da pena privativa de liberdade por restritivas de direitos, a seguir ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (27,05 G DE MACONHA E 2,25 G DE CRACK). DOSIMETRIA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). AUSÊNCIA DE ELEMENTOS CONCRETOS QUE DEMONSTREM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PENA REDIMENSIONADA. FIXAÇÃO DO REGIME INICIAL SEMIABERTO E INDEFERIMENTO DE SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. NEGATIVAÇÃO DA CIRCUNSTÂNCIA JUDICIAL DE QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. POSSIBILIDADE.
+1. Deve ser mantida a decisão, quanto à aplicação da causa de diminuição de pena do tráfico privilegiado, uma vez que, tanto a natureza ou quantidade das drogas apreendidas, quanto a mera menção à apreensão de dinheiro em espécie, não são fundamentos suficientes para concluir que o agravante se dedique a atividades criminosas.
+2. Também não comporta reparos a fixação do regime inicial semiaberto, mas deve ser indeferida a substituição da pena privativa de liberdade por restritiva de direitos, considerando a existência de circunstância judicial negativa, em razão da quantidade e natureza da droga apreendida, e a reprimenda privativa de liberdade definitiva imposta (3 anos, 10 meses e 20 dias de reclusão).
+3. Agravo regimental parcialmente provido apenas para afastar a substituição da pena privativa de liberdade por restritivas de direitos na condenação do agravante proferida na Ação Penal n. 1501623-02.2022.8.26.0407, da 1ª Vara da comarca de Osvaldo Cruz/SP.
+Alega o embargante, em síntese, vício no acórdão hostilizado, assentando que não é a quantidade e natureza da droga apreendida que deve balizar a negativa de pena alternativa, mesmo porque a apreensão de drogas no delito de tráfico é elementar do tipo penal (fl. 436); e requer-se, assim, o conhecimento e o acolhimento dos presentes embargos para restabelecer a substituição de pena do embargante.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS PARCIALMENTE PROVIDO. TRÁFICO DE DROGAS (27,05 G DE MACONHA E 2,25 G DE CRACK). INDEFERIMENTO DE SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. NEGATIVAÇÃO DA CIRCUNSTÂNCIA JUDICIAL DE QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. POSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são acolhidos quando evidenciado vício no decisum recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 do CPP).
+No caso, é evidente o mero inconformismo do embargante com o resultado do julgamento de seu agravo regimental, não apresentando na peça em qual dos vícios a insurgência se baseia (obscuridade, contradição, ambiguidade ou omissão).
+Isso porque, diferentemente do alegado, a pretensão foi devidamente analisada, ao fundamento de que assiste razão ao recurso quanto ao indeferimento da substituição da pena privativa de liberdade por restritiva de direitos, em razão do citado fundamento utilizado para agravar o regime prisional (fl. 427).
+Assim, o que se tem é que a parte insiste em teses acerca das quais já foi afirmado, mais de uma vez, que não há evidência de constrangimento ilegal.
+Em razã o disso, rejeito os presentes embargos de declaração.
