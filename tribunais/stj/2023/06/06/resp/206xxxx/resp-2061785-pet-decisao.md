@@ -1,0 +1,8 @@
+DECISÃO
+Por decisão de fls. 401/403, determinei a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que os autos aguardassem sobrestados a publicação do acórdão do recurso extraordinário representativo da controvérsia relativo ao Tema n. 843/STF em observância à sistemática prevista nos arts. 1.040 e 1.041 do CPC.
+Petiona a recorrente às fls. 407/409, requerendo o prosseguimento do feito, ao argumento de que o Ministro André Mendonça, Relator da Medida Cautelar no RE 835.818/PR, por decisão publicada em 04/05/2023, teria reconsiderado em parte a medida concedida, tornando sem efeito a tutela provisória anteriormente prestada.
+É, no essencial, o relatório. Decido.
+Em que pese a reconsideração parcial da decisão em comento, foi mantida a suspensão dos processos pendentes, conforme item "68", reproduzido à fl. 408 nos seguintes termos:
+68. De todo modo, por prudência judicial e ex officio, julgo oportuno determinar a suspensão de tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão no território nacional, nos termos do art. 1.035, § 5º, do CPC. Por precisão, precaução e zelo argumentativo, é importante explicitar que referida ordem judicial cinge-se à seguinte questão, tal como enunciada pelo meu antecessor, o eminente Ministro Marco Aurélio: "possibilidade de exclusão da base de cálculo do PIS e da COFINS dos valores correspondentes a créditos presumidos de ICMS decorrentes de incentivos fiscais concedidos pelos Estados e pelo Distrito Federal" (grifo do original).
+Ante o exposto, indefiro o pedido de prosseguimento do feito.
+Baixem os autos à origem independentemente de publicação e/ou trânsito desta decisão.
