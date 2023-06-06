@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFFERSON LUIZ CUNHA contra decisão singular que rejeitou os embargos de declaração opostos pela defesa contra decisão que não conheceu do habeas corpus.
+O agravante, em síntese, reitera a tese de que a conduta do paciente, consistente na recusa de realização do trabalho interno, não caracteriza falta grave, devendo ser desclassificada para infração disciplinar média.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ART. 50, VI, C.C ART. 39, V, AMBOS DA LEI DE EXECUÇÃO PENAL - LEP. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O afastamento ou desclassificação da falta grave praticada pelo apenado (art. 50, VI, c.c art. 39, V, ambos da Lei de Execução Penal - LEP) demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+2. Ademais, há julgados de ambas as Turmas que analisam a matéria criminal considerando que a recusa pelo apenado à execução de trabalho interno caracteriza falta grave. Precedentes.
+3. Agravo desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Na hipótese, o Tribunal a quo manteve a decisão que reconheceu a infração disciplinar, sob a seguinte fundamentação:
+" ..
+Infere-se do presente recurso e também dos autos principais que o agravante cumpria pena em regime fechado no interior da Penitenciária Masculina de Itajaí e, nos dias 22, 23, 24, 25 e 26 de novembro de 2021, cometeu a falta grave tipificada no art. 50, inciso VI, c/c art. 39, inciso V, da Lei n. 7.210/84, uma vez que recusou-se sem justificativa a sair da cela para laborar na indústria Rovitex Costura, motivo pelo qual, foi instaurado o processo administrativo disciplinar de seq. 92.1 do PEC de origem (SEEU), objeto da Portaria nº 209/2021.
+Após elaboração do PAD, oitiva do reeducando na presença de defensora e apresentação de defesa escrita, o Diretor em exercício da Unidade Prisional reconheceu o cometimento da falta grave.
+ ..
+Isso porque, nos termos do Recurso Especial Representativo de Controvérsia n. 1.378.557/RS, julgado pelo Superior Tribunal de Justiça, compete a autoridade administrativa apurar e atribuir a prática da infração disciplinar cometida pelo detento, bem como verificar qual grau de periculosidade corresponde a falta, restando ao juiz da execução penal apenas o controle da legalidade dos atos e decisões proferidas no âmbito administrativo e a aplicação das sanções judiciais previstas na Lei n. 7.210/84 - tais como, a regressão de regime (art. 118, I), a revogação de saída temporária (art. 125), a perda dos dias remidos (art. 127) e a conversão de pena restritiva de direitos em privativa de liberdade (art. 181, § 1º, d, e § 2º)
+ ..
+Ora, a decisão administrativa que reconheceu o cometimento de falta grave por parte do recorrente encontra consonância com todo contexto apurado durante o procedimento.
+Com efeito, malgrado a defesa não concorde com a terminologia adotada pela lei, fato é que o art. 50, inciso VI, c/c art. 39, inciso V, da Lei n. 7.210/84 é claro ao prescrever: "Comete falta grave o condenado à pena privativa de liberdade que: inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei." E isso é exatamente o que se apurou no procedimento administrativo, tendo em vista que o apenado recusou-se sem justificativa a sair da cela para laborar na indústria Rovitex Costura, de modo que não há motivos para reforma da decisão.
+No aspecto, inclusive, como bem esclareceu o juízo de origem "não encontra respaldo a alegação da Defesa de que o apenado não teve opção quanto à prática da falta grave, ao passo que, conforme depoimento do policial penal presente no PAD, os apenados não aceitaram ir para a cela do seguro. Ou seja, mesmo quando ofertado a possibilidade de trabalharem e após serem encaminhados para outra cela, ainda assim não quiseram." E assim, vale destacar que"os agentes penitenciários gozam de fé- pública, de maneira que seus depoimentos possuem presunção juris tantum de veracidade, a revelar-se idôneos para apuração dos fatos" (Agravo de Execução Penal n. 0000112-71.2020.8.24.0018, rel. Antônio Zoldan da Veiga, j. 07-05-2020)." (fls. 56/60)
+Verifica-se que a origem, ao analisar as provas produzidas nos autos, entendeu que restou praticada a falta grave prevista no art. 50, VI, c/c art. 39, inciso V ambos da LEP. Foi ressaltado que, no procedimento administrativo disciplinar, ocorreu a devida individualização do ato do ora agravante e que para a formação da convicção foi levado em consideração, além da versão dos agentes penitenciários, a oitiva do apenado, a qual contou com a presença da defesa técnica e do Ministério Público.
+Assim, é inviável rever a individualização da conduta imputada ao apenado , a fim de afastar a infração ou promover a sua desclassificação, porquanto consubstanciaria indevida incursão no acervo fático-probatório, providência incabível na espécie.
+Nesse sentido os seguintes precedentes desta Corte Superior:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO. FALTA DISCIPLINAR DE NATUREZA GRAVE. VIOLAÇÃO DO ART. 50, III, DA LEP. POTENCIALIDADE LESIVA DE ESTOQUES TIPO "ESPETO", CONFECCIONADOS EM VERGALHÃO DE AÇO. PERÍCIA. PRESCINDIBILIDADE. DESCARACTERIZAÇÃO DA FALTA GRAVE. REEXAME DE FATOS. INADMISSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+ ..
+2. O Superior Tribunal de Justiça tem decidido que, para o reconhecimento da falta grave pelo apenado, é dispensável a realização de laudo pericial no objeto apreendido, a fim de perquirir sua potencialidade lesiva, por absoluta falta de previsão legal. Na hipótese, os objetos apreendidos com o paciente - dois estoques tipo "espeto", confeccionados em vergalhão de aço com cerca de 25 cm, instrumentos perfurocortantes - são aptos a ofender a integridade física de outrem, caracterizando, assim, a infração disciplinar prevista no art. 50, III, da Lei de Execução Penal.
+3. Não cabe, na via estreita do habeas corpus, a análise se o fato cometido pelo paciente configura-se ou não infração disciplinar de natureza grave, uma vez que indispensável o revolvimento do conteúdo fático-probatório dos autos. Precedentes.
+4. Habeas corpus não conhecido.
+(HC 301.626/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29/8/2016).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PROCESSO ADMINISTRATIVO DISCIPLINAR. COMETIMENTO DE FALTA GRAVE. DESCLASSIFICAÇÃO DA NATUREZA DA FALTA. IMPOSSIBILIDADE. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Na hipótese, consta dos autos a existência do procedimento administrativo disciplinar que apurou a falta grave, inexistindo, portanto, a nulidade por ausência ou cerceamento de defesa.
+3. É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias quanto a ocorrência da falta grave, pois a análise implicaria o reexame do conjunto fático-probatório dos autos, procedimento incompatível com os estreitos limites da via eleita.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a ilegalidade da decisão quanto a perda dos dias remidos.
+(HC 338.188/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 8/ 6/2016).
+Ademais, há julgados de ambas as Turmas que analisam a matéria criminal considerando que a recusa pelo apenado à execução de trabalho interno caracteriza falta grave.
+Confiram-se:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECUSA AO TRABALHO. RECONHECIMENTO DA INFRAÇÃO DISCIPLINAR DE NATUREZA GRAVE. ALEGAÇÃO DE QUE EXISTE REGULAMENTO ESTADUAL, DANDO A CONDUTA COMO MÉDIA. DEBATE DO TEMA PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. EXISTÊNCIA DE ENTENDIMENTO DO STJ NO SENTIDO DE QUE A RECUSA AO TRABALHO CONFIGURA FALTA GRAVE.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial quando verificado que a análise da pretensão configura indevida supressão de instância e contraria entendimento deste Superior Tribunal.
+2. A recusa pelo apenado à execução de trabalho interno regularmente determinado pelo agente público competente, não havendo falar na existência de flagrante ilegalidade no v. acórdão combatido, sobretudo porque, além de a medida não se confundir com a pena de trabalho forçado, vedada pela Constituição Federal (art. 5º, XLVIII, "c"), encontra previsão no art. 6º da Convenção Americana de Direitos Humanos (AgRg no HC n. 429.608/SP, Ministro Felix Fischer, Quinta Turma, DJe 27/4/2018).
+3. Agravo regimental improvido.
+(AgRg no HC n. 769.116/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. NULIDADE. RECUSA AO TRABALHO. ATIPICIDADE MATERIAL. NÃO ACOLHIMENTO. CONVENCIONALIDADE DO TRABALHO NA EXECUÇÃO DA PENA. POSSIBILIDADE. PERDA DE 1/3 DOS DIAS REMIDOS. AUSÊNCIA DE MANIFESTAÇÃO DO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Consoante previsão dos arts. 50, VI, e 39, V, ambos da LEP, configura falta grave a recusa pelo apenado, à execução de trabalho interno regularmente determinado pelo agente público competente, não havendo que se falar na existência de flagrante ilegalidade no v. acórdão combatido, sobretudo porque, além de a medida não se confundir com a pena de trabalho forçado, vedada pela Constituição Federal (art. 5º, XLVIII, "c"), encontra previsão no art. 6º da Convenção Americana de Direitos Humanos.
+II A insurgência contra a perda de 1/3 (um terço) dos dias remidos não foi examinada pelo eg. Tribunal de origem, o que inviabiliza o seu exame por esta Corte, sob pena de se incorrer em indevida supressão de instância.
+III - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 429.608/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 17/4/2018, DJe de 27/4/2018).
+Ante o exposto, voto pelo desprovimento do recurso.
