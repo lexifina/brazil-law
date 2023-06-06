@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual o Estado suíço (Ministério Público de Obwalden), valendo-se de acordo de cooperação jurídica internacional, solicita a intimação de NELSON NASSER para que proceda ao pagamento integral da multa penal e custas impostas em ação que o condenou pela prática do crime de condução de veículo acima da velocidade máxima permitida, com a advertência de que o inadimplemento poderá resultar na conversão da pena em prisão subsidiária (fls. 6-8).
+Concedido o exequatur (fls. 37-38), foram os autos remetidos à Seção Judiciária do Estado do Pará, tendo retornado acompanhados de certidão negativa, exarada nestes termos (fl. 59):
+Certifico e dou fé que deixei de dar cumprimento ao respeitável mandado retro, de origem no processo no proc. SEI de nº 6275-20.2023.4.01.8010, em virtude de não haver na ordem o nº do imóvel a ser diligenciado na via, o que torna impossível sua localização, considerando que a av. Serzedelo Corrêa tem mais de um quilômetro de extensão e é densamente povoada.
+Pelo exposto, verifica-se que as providências para intimação da parte interessada não foram frutíferas, razão pela qual determino a devolução da comissão, sem cumprimento, ao Juízo rogante, por intermédio da autoridade central, nos termos do art. 216-X, do RISTJ.
+Publique-se.
