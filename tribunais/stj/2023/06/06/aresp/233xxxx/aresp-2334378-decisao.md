@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, em face de acórdão assim ementado:
+Plano de Saúde - Obrigação de fazer c.c. repetição de indébito e indenização - Aplicação do Código de Defesa do Consumidor - Sentença de parcial procedência que determina que seja mantido ativo o contrato de plano de saúde de que é dependente a autora, arcando ela com metade do valor das mensalidades anteriormente pagas, condenando as rés, solidariamente, a restituírem as quantias pagas indevidamente - Irresignação que não comporta acolhida - Sentença mantida - Recurso desprovido (fl. 332 e-STJ).
+Os embargos declaratórios opostos foram rejeitados às fls. 437-439 e-STJ.
+A recorrente aponta ofensa ao art. 1.022 do código de Processo Civil e ao art. 30, §§ 1º e 3º, da Lei 9.656/98; sustenta, em síntese, que foi condenada a manter ativo o plano de saúde da recorrida, em razão do falecimento do titular e em valores reduzidos ao equivalente a uma pessoa. (fl. 343 e-STJ).
+As contrarrazões foram apresentadas às fls. 444-450 e-STJ.
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem firmado na incidência da Súmula 83/STJ, o que ensejou a interposição do presente agravo.
+Assim posta a questão, passo a decidir.
+No tocante às alegações de ofensa ao artigo 1022 do Código de Processo Civil, verifico que essas não merecem prosperar. Isso, porque, conforme entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que os argumentos do recorrente foram expressamente afastados pelo Tribunal de origem, de modo que não configura omissão ou negativa de prestação jurisdicional o fato do acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+A propósito, trago trecho do acórdão que julgou os embargos declaratórios às fls. 439 e-STJ que tratou do § 1º da Lei 9.656/98:
+O titular do plano de saúde, falecido, era beneficiário em razão de vínculo empregatício, portanto aplicável, por analogia, o artigo 30, § 3º, da Lei 9656/98, mesmo em se tratando de plano coletivo por adesão, devendo ser observado que não se fez menção ao § 1º, não havendo razão para pronunciamento quanto ao término de prazo para a manutenção da autora, no plano de saúde. - grifei -
+O artigo 30, §3º, da Lei nº 9.656/98 dispõe expressamente que, "Em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde, nos termos do disposto neste artigo".
+Outrossim, estatui o artigo 31, § 2º, da Lei nº 9.656/98 que, "Para gozo do direito assegurado neste artigo, observar-se-ão as mesmas condições estabelecidas nos §§ 2º, 3º, 4º, 5º e 6º do art. 30".
+Não bastasse, o artigo 8º da Resolução Normativa nº 279/11 da ANS determina que "Em caso de morte do titular é assegurado o direito de manutenção aos seus dependentes cobertos pelo plano privado de assistência à saúde, nos termos do disposto nos artigos 30 e 31 da Lei nº 9.656, de 1998".
+Logo, mostra-se ilegal a pretensão de cancelamento do plano da autora, conforme precedente daquela Câmara.
+No acórdão o Colegiado de origem entendeu que (fls. 333/334 e-STJ):
+A prova trazida aos autos indica que a autora era dependente de seu falecido marido, que por sua vez, foi beneficiário titular do plano de saúde oferecido originariamente pela Amesp e posteriormente pela apelante, através de seu empregador, o Senai, sendo inadmissível a imposição de contratação de um novo plano ou o cancelamento do existente, uma vez que ela deve nele permanecer, mesmo após o período de remissão, nas mesmas condições de atendimento e valores, conforme preconiza o artigo 30, § 3º, da Lei nº 9656/98, que preceitua:
+"Em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde, nos termos do disposto neste artigo".
+Oportuno ainda a aplicação Súmula Normativa 13,/10, da ANS, ainda que se trate de contrato coletivo por adesão, conforme julgados:
+(..)
+Assim, o certo é que o titular era beneficiário do plano de saúde ofertado pela ré, que se extinguiu com a sua morte, devendo sua dependente ser mantida no plano de saúde, nas mesmas condições, arcando ela com metade do pagamento das mensalidades, pois referente somente à uma vida, após o falecimento do titular.
+No mesmo sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. ALTERAÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. CONTRATO COLETIVO POR ADESÃO. ÓBITO DO TITULAR. MANUTENÇÃO DO DEPENDENTE APÓS O PRAZO DE REMISSÃO, COM A ASSUNÇÃO DAS OBRIGAÇÕES JÁ ASSUMIDAS. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. INFRINGÊNCIA DE DISPOSITIVO DE RESOLUÇÃO DA ANS. ANÁLISE EM RECURSO ESPECIAL. DESCABIMENTO. VIOLAÇÃO DO ART. 421 DO CC/02. FALTA DE PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Segundo o entendimento do STJ, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes. Incidência da Súmula nº 568 do STJ.
+4. Conforme disposto no art. 105, III, a, da CF/88, não é cabível recurso especial fundamentado em violação de ato normativo que não se enquadre no conceito de lei federal.
+5. Inviável o recurso especial por ofensa a dispositivo de lei que não foi objeto de deliberação no acórdão recorrido, sem que fossem opostos embargos de declaração a fim de suscitar sua discussão, ressentindo-se a questão do indispensável prequestionamento. Incide, à espécie, o óbice das Súmulas nºs 282 e 356 do STF.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido. (AgInt no REsp 1923124/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 22.4.2021) - grifei -
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE POR ADESÃO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. MORTE DO TITULAR. EXCLUSÃO DE DEPENDENTE, APÓS A REMISSÃO. DESCABIMENTO. PRECEDENTES. 3. HONORÁRIOS ADVOCATÍCIOS. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+(..)
+2. Com efeito, verifica-se que o acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que, mesmo nos contratos de saúde por adesão, após o óbito do beneficiário titular, seus dependentes possuem o direito de permanecer no plano de saúde coletivo, mantidas as condições anteriormente contratadas, assumindo as obrigações dele decorrentes.
+(..)
+4. Agravo interno improvido. (AgInt no AgInt no AREsp 1781617/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 13.8.2021) - grifei -
+Incidente, no ponto, o óbice da Súmula 83/STJ, aplicável tanto ao recurso especial interposto com base na alínea "a" como na "c" do inciso III do art. 105 da Constituição Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial .
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que já majorados pela Corte de Origem (fl. 338 e-STJ).
+Intimem-se.
