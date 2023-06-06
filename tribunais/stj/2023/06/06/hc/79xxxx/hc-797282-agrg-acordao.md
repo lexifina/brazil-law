@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DA DROGA TRANSPORTADA EM MALAS NO INTERIOR DE ÔNIBUS EM VIAGEM INTERESTADUAL. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas - vinte e um quilos e oitocentos gramas de maconha - que estavam sendo transportados entre estados da federação em três malas no interior de um ônibus de viagem, circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NATHAN MADEIRA CUTRIM, contra a decisão que não conheceu do denegou a ordem no habeas corpus impetrado contra acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins.
+Depreende-se dos autos que o agravante foi preso em flagrante pela prática, em tese, do delito de tráfico interestadual de drogas, e foi beneficiado pela liberdade provisória, mediante a imposição de medidas cautelares diversas pelo juízo de primeiro grau.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito perante o Tribunal de origem, que deu provimento para decretar a prisão preventiva do paciente nos termos do acórdão de fls. 14-20.
+No respectivo writ impetrado nesta Corte, a defesa requereu a concessão da ordem, para que fosse revogada a prisão preventiva, ou substituída por medida cautelar diversa, reforçando que o paciente possuiria condições pessoais favoráveis.
+Denegada a ordem, interpôs-se o presente agravo.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ denegado, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar.
+Alega que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, e que o agravante possuiria condições pessoais favoráveis.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DA DROGA TRANSPORTADA EM MALAS NO INTERIOR DE ÔNIBUS EM VIAGEM INTERESTADUAL. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas - vinte e um quilos e oitocentos gramas de maconha - que estavam sendo transportados entre estados da federação em três malas no interior de um ônibus de viagem, circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese. Precedentes.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar.
+Alega que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, e que o agravante possuiria condições pessoais favoráveis.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, a segregação cautelar do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas - vinte e um quilos e oitocentos gramas de maconha - que estavam sendo transportados entre estados da federação em três malas no interior de um ônibus de viagem, circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+A corroborar tal entendimento, os seguintes precedentes desta Corte: AgRg no HC n. 788.866/SP, Quinta Turma, de minha relatoria, DJe de 28/4/2023; AgRg no HC n. 798.056/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 26/4/2023; AgRg no HC n. 797.201/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no RHC n. 176.544/MG, Sexta Turma, Rel. Min.ª Laurita Vaz, DJe de 31/3/2023.
+Deve-se ressaltar, ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
