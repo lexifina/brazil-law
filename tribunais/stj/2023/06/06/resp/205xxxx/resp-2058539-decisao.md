@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIANE HERMÍNIA PAIXÃO CAETANO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (e-STJ, fls. 1017-1026).
+Em suas razões recursais aponta violação dos arts. 59, 33 e 44, todos do Código Penal. De acordo com a defesa, a culpabilidade da recorrente foi valorada de forma negativa sem uma fundamentação adequada, uma vez que não há evidências de que ela tenha se aproveitado da fragilidade da vítima, causada pela morte do filho, para cometer o delito. Além disso, não há indícios de que tenha havido um dolo prévio à contratação, já que não foi comprovado o envolvimento em estelionato.
+Nesse sentido, a morte do filho da vítima não pode ser considerada uma causa essencial para a conduta da recorrente, e, portanto, deve ser excluída da fase de dosimetria da pena. Alega-se ainda que, diante das circunstâncias judiciais favoráveis, a recorrente tem direito a ser submetida ao regime inicial de cumprimento da pena mais brando, o regime aberto, e também à substituição da pena.
+Com contrarrazões (e-STJ, fls. 1061-1067), o recurso especial foi admitido na origem (e-STJ, fls. 1070).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento e desprovimento do recurso (e-STJ, fls. 1149-1154).
+É o relatório.
+Decido.
+O recurso deve ser desprovido.
+Para subsidiar este julgamento, transcrevo os seguintes trechos do acórdão impugnado:
+"De outra banda, tem razão o Promotor recorrente, ao pleitear o aumento da pena-base em razão de circunstâncias desfavoráveis que, no caso, envolvem a culpabilidade das rés, que se aproveitaram de Juliana, pessoa que já se achava fragilizada pela morte do filho, cujos direitos buscou confiando nas rés.
+Destarte, mantenho a pena-base aplicada a ALESSANDRA inalterada e aumento a de JULIANE e, assim, as penas-base passam a perfazer, para cada uma das corrés, 1 ano e 4 meses de reclusão, mais o pagamento de 15 dias-multa, no piso.
+ ..
+Diante da continuidade delitiva, as reprimendas foram aumentadas de 1/6, totalizando, em definitivo, para ambas as corrés, 2 anos, 1 mês e 20 dias de reclusão, mais o pagamento de 15 dias-multa, no piso.
+Sobreveio a substituição da sanção carcerária por restritivas de direitos para ambas as corrés. Mas, essa substituição deve ser cancelada, exatamente como pede o Promotor de Justiça recorrente, não só em razão da gravidade do delito praticado por JULIANE e ALESSANDRA, mas também - insisto - pelas circunstâncias em que o crime foi cometido, o que indica que a referida substituição não é suficiente e, no caso, o artigo 44, inciso III do Código Penal impede a concessão desse benefício.
+Tenho que também assiste razão ao Parquet ao pleitear a fixação do regime semiaberto para as corrés, dado que o regime aberto, diante da gravidade do delito por elas praticado e de sua culpabilidade, também resultaria em resposta penal insuficiente. Destarte, com base no artigo 33, parágrafo 3º, e 59, inciso III, ambos do Código Penal, aplico o regime intermediário para o início do desconto das penas carcerárias para ambas as corrés." (e-STJ, fls. 1024-1025)
+Passo a analisar a legalidade da circunstância judicial da culpabilidade.
+A individualização da reprimenda é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do réu. Não se trata de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito, mas, sim, do grau de reprovação penal da conduta do agente, mediante demonstração de elementos concretos do delito.
+No caso, segundo as instâncias ordinárias, as rés aproveitaram-se da vítima, que se achava fragilizada pela morte do filho, cujos direitos buscou confiando nas rés, contudo, apropriaram-se indevidamente do crédito que fazia jus. Trata-se de circunstância extremamente reprovável, que transborda aquilo esperado pelo tipo penal.
+Ademais, aferir se esta circunstância era conhecida pela recorrente torna-se inviável nesta via, por demandar indevido revolvimento fático-probatório, nos termos da Súmula 7/STJ.
+Quanto à fixação do regime prisional e substituição da pena, sem razão a defesa.
+Com efeito, nos termos das Súmulas 440/STJ, 718/STF e 719/STF, a imposição de regime prisional mais severo do que o correspondente à pena aplicada, seguindo o escalonamento do art. 33, § 2º, do CP, exige fundamentação idônea, não bastando para tanto a opinião pessoal do julgador sobre a gravidade abstrata do delito.
+No presente caso, malgrado a primariedade do recorrente e a pena sido fixada inferior a 4 anos, verificam-se circunstâncias judiciais desfavoráveis, logo, deve ser fixado o regime prisional semiaberto, consoante o art. 33, § 2º, "c", e § 3º do CP.
+Pelo mesmo motivo, de rigor o afastamento da substituição da pena, conforme art. 44, III, do CP.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
