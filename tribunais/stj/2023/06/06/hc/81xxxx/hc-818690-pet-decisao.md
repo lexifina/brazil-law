@@ -1,0 +1,6 @@
+DECISÃO
+A defesa pede que "os autos sejam baixados a 2ª Vara Criminal de São Pedro de Aldeia  ..  para ser expedido a CES da ré SORAIA PEREIRA DA FONSECA ROCHA" (fl. 1.017).
+Nada a prover quanto ao pedido. A r. decisão de fls. 1006 transitou em julgado no dia 30/5/2023 e o habeas corpus não contém os documentos para a expedição da guia de execução. É irrelevante o envio de sua cópia ao Juízo da condenação.
+Se a paciente tem contra si condenação definitiva, deveria existir guia de execução, mas a defesa assinala que o documento não foi cadastrado pelo Juiz competente e a postulante está num limbo, enfrentando dificuldades para dar início ao resgate de suas penas. Além disso, se corréus recorreram e o processo ainda tramita nesta Corte, não é possível sua devolução à origem.
+Assim, não conheço da petição. Todavia, concedo ordem de habeas corpus, nos termos do art. 654, § 2º, do CPP, para que o Juízo de primeiro grau analise a situação da paciente e, uma vez constatado o trânsito em julgado de sua condenação sem a expedição da guia de execução, adote providências para confeccionar o documento e, se necessário for, encaminhe ofício a esta Corte (ou ao órgão onde está o processo principal) para requerer o envio das peças pertinentes à sua formação.
+Publique-se e intime-se.
