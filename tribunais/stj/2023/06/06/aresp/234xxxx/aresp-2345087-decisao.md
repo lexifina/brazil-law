@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - MATÉRIA FÁTICA - PROVA PRÉ CONSTITUÍDA - AUTO DE INFRAÇÃO RECEBIDO POR PROCURADOR SEM PODERES ESPECIAIS - NULIDADE - EXTINÇÃO DA EXECUÇÃO - RECURSO PROVIDO.
+- A exceção de pré-executividade somente é admissível em sede de execução fiscal para arguição de matérias cognoscíveis de ofício que não demandem dilação probatória.
+- Havendo prova pré-constituída das alegações fáticas que fundamentam a exceção de pré-executividade deve ser reformada a decisão agravada que a rejeitou.
+- Quando a assinatura do auto de infração e a defesa em processo administrativo são realizadas por procurador que não possuía poderes especiais para tanto, há que se reconhecer a nulidade do processo administrativo, da CDA e, por conseguinte, da execução fiscal.
+Alega violação do art. 105 do CPC, no que concerne à validade da procuração outorgada pela recorrida para fins de recebimento de citação e prosseguimento de processo administrativo relativo a auto de infração, trazendo os seguintes argumentos:
+O acórdão recorrido entendeu que os mesmos fundamentos da citação no processo judicial "se aplicam ao ato de recebimento do Auto de Infração, que instaura o procedimento administrativo, intima e designa prazo para o autuado oferecer resposta." Com esse argumento, entende que a procuração conferida pela Recorrida para seu procurador não autorizaria a assinatura do AI ou a apresentação de defesa.
+A procuração - evento 39 - é expressa, nos seguintes termos:
+" (..) dou plenos poderes ao Sr. Robson de Barros, eng. Civil, (..) para responder sobre assuntos pertinentes a Autorização Ambiental de Funcionamento, Outorga e APEF."
+Ora, o Código de Processo Civil, quando quis regular processos admnistrativos foi expresso em menicionar a particularidade da situação, os diferenciando dos processos judiciais, conforme se verifica em diversos artigos ao longo do texto. Cita-se, como por exemplo, o artigo 30, in verbis:
+Art. 30. Além dos casos previstos em tratados de que o Brasil faz parte, o auxílio direto terá os seguintes objetos:
+I - obtenção e prestação de informações sobre o ordenamento jurídico e sobre processos administrativos ou jurisdicionais findos ou em curso; (g.n.)
+Nota-se, com evidência, que a interpretação conferida pelo acórdão recorrido vai de encontro com o postulado no artigo 105 do CPC, negando-lhe vigência.
+Assim, por estar o acórdão combatido em desalinho com a legislação federal apresentada, o provimento do recurso especial é medida que se impõe. (fls. 336/337).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+É cediço que o Código de Processo Civil, em seu artigo 105, designa que "a procuração geral para o foro, outorgada por instrumento público ou particular assinado pela parte, habilita o advogado a praticar todos os atos do processo, exceto receber citação", dentre outros.
+O Superior Tribunal de Justiça já se manifestou afirmando que a procuração com poderes para responder citação deve ser expressa, como se vê do seguinte aresto:
+ ..
+Não se ignora que o caso não se amolda exatamente à hipótese de citação, por não se tratar de processo judicial. Contudo, os mesmos fundamentos se aplicam ao ato de recebimento do auto de infração, que instaura o procedimento administrativo, intima e designa prazo para o autuado oferecer resposta, em razão da equiparação feita pela Constituição Federal, qual seja:
+Art. 5º, LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes.
+Destarte, imperioso reconhecer que a assinatura de auto de infração e a defesa em processo administrativo realizadas por procurador que não possuía poderes especiais para tanto enseja, necessariamente, a nulidade do processo administrativo e, por conseguinte, da certidão de dívida ativa dele originada. (fls. 304/305, grifo meu).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
