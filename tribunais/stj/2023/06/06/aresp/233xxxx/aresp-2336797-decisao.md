@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo interposto por OSCAR HERMINIO FERREIRA FILHO e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de OSCAR HERMINIO FERREIRA FILHO e OUTROS, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo, Dr. Rafael Caputo Bastos Serra e do recurso especial, Dr. Guilherme Ribeiro Leite Jardim Cavalcante.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a apresentar petição às fls. 378/379, em que argumenta a existência de substabelecimento nos autos para o Dr. Guilherme Ribeiro Leite Jardim Cavalcante (fl. 300) e para o Dr. Rafael Caputo Bastos Serra (fl. 366).
+Verifica-se, no entanto, que não há a procuração originária para o primeiro substabelecente, Dr. Efraim Rodrigues Gonçalves, que substabeleceu poderes ao Dr. Henrique Luiz Ferreira Coelho, que assina o segundo instrumento.
+Registre-se que o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos (AgInt no AREsp 1823566/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/06/2021, DJe 21/06/2021).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Sú mula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
