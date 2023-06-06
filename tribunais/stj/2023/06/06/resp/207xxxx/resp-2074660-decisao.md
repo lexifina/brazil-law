@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com base no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ fl. 205):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SERVIDOR PÚBLICO ESTADUAL. TEMA 810 DO STF. INCONSTITUCIONALIDADE PARCIAL DO ART. 1º-F DA LEI Nº 9.494/97 RECONHECIDA PELO STF. CORREÇÃO MONETÁRIA PELA TR AFASTADA. DETERMINAÇÃO DE APRESENTAÇÃO DE NOVO CÁLCULO PELA EXEQUENTE (ART. 534 DO CPC), UTILIZANDO O IPCA-E (TEMA 905 DO STJ), E DE INTIMAÇÃO DO EXECUTADO, POSTERIORMENTE, PARA IMPUGNÁ-LO (ART. 535 DO CPC). APLICAÇÃO DO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. RECURSO PROVIDO.
+Os embargos de declaração opostos foram parcialmente acolhidos, nos termos do acórdão juntado às e-STJ fls. 280/288.
+Nas razões do recurso especial, o recorrente alega, dentre outras teses, violação aos arts. 502, 503 e 927, III, do CPC/2015, ao argumento de que deve ser mantida a TR para fins de correção monetária, índice expressamente fixado no título executado, em respeito ao princípio da coisa julgada material, em que pese o Supremo Tribunal Federal tenha declarado a inconstitucionalidade de referido índice no julgamento do Tema nº 810/STF.
+Sustenta que "a única interpretação possível dentro do Estado Democrático de Direito é da que a inconstitucionalidade da norma deve ser aplicada aos processos em curso e vindouros, mas não substituindo, por via transversa, processo em que imutabilizou a coisa julgada. Neste sentido se faz mister mencionar, tal como o fez o acórdão ora recorrido, o item 4 do Tema 905 do STJ, decisão de eficácia vinculante, que determina a necessária preservação da coisa julgada do título judicial quanto à correção monetária prevista na Lei n.º 9.494/1997, com a redação dada pela Lei 11.960/2009" (e-STJ fl. 312).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Decido.
+A matéria objeto do presente recurso especial foi afetada pelo Supremo Tribunal Federal para julgamento sob a sistemática da repercussão geral no Tema nº 1170/STF, tendo sido fixada a seguinte controvérsia: "Validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso".
+O reconhecimento da repercussão geral impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo do Supremo Tribunal Federal.
+Posteriormente, tais recursos devem ter seguimento negado (na hipótese de o acórdão recorrido coincidir com a orientação do Supremo Tribunal Federal) ou devem ser novamente examinados pelo Tribunal de origem (na hipótese de o acórdão recorrido divergir da orientação do Supremo Tribunal Federal).
+Desta forma, imperiosa a devolução dos autos ao Tribunal de origem.
+Ante o exposto, com fulcro no art. 256-L do RISTJ, determino a devolução dos autos ao Tribunal de origem para que o recurso especial fique sobrestado aguardando o julgamento do Tema nº 1170/STF, e, após, sejam adotadas as providências previstas no art. 1040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. RECURSO ESPECIAL. CORREÇÃO MONETÁRIA E COISA JULGADA. TEMA Nº 1170/STF. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
