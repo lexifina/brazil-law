@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 16/9/2022.
+Concluso ao gabinete em: 2/6/2023.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por S V M DE O, menor representada por P L M, em face da recorrente, em virtude da negativa de cobertura do tratamento para Diabetes Mellitus Tipo 1, com bomba de insulina integrado ao Sistema de Monitoração Contínuo de Glicose - SMCG.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para condenar a ré a: a) cobrir o tratamento com bomba de infusão contínua de insulina e sistema de monitoração contínua de glicose, na forma em que indicado pelo médico, tornando definitiva a medida de urgência concedida; e b) ao pagamento de R$ 10.000,00 a título de compensação por danos morais (e-STJ fls. 289/296).
+Embargos de declaração: opostos pela recorrente, foram rejeitados (e-STJ fl. 312).
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+Apelação - Plano de Saúde - Ação Cominatória c. c. Indenizatória - Sentença de parcial procedência - Criança diagnosticada com "Diabetes Melittus" (diabetes tipo 1) - Prescrição de tratamento pelo sistema de infusão contínua de insulina - Negativa indevida - Aplicação da Súmula 102 deste E. Tribunal - Plano de saúde não pode negar a cobertura ao tratamento e medicamentos prescritos pelo médico assistente - Tratamentos anteriores que se mostraram ineficazes - Direito do beneficiário de obter o tratamento mais avançado, para controle da doença - Julgados reiterados deste E. Tribunal com relação ao mesmo tratamento - Precedente da 4ª Turma do e. STJ (REsp 1.733.013/PR) que não possui efeito vinculante - Cobertura devida - Dano moral configurado - Negativa que se deu em meio à pandemia do COVID-19, quando ainda inexistente vacina - Criança pertencente ao grupo de risco - Dano moral manifesto - Sentença mantida - Recurso desprovido.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 1.022, II, do CPC/15; 10, VII e § 4º, da Lei 9.656/98; 51, IV, do CDC; 421 e 421-A do CC.
+Além da negativa de prestação jurisdicional, sustenta a legalidade da negativa de cobertura do tratamento ou material e insumo que não é coberto pelo contrato ou mesmo por força legal, em virtude da ausência de previsão no rol da ANS, que seria taxativo.
+Alega que, ainda, que a operadora de plano de saúde não tem obrigação de fornecer órteses ou prótese não ligadas ao ato cirúrgico, como a bomba de insulina.
+Parecer do Ministério Público Federal: da lavra do i. Subprocurador-Geral da República Antonio Carlos Martins Soares, opina pelo não provimento do recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC/15 quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC/15 residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela recorrente, não se manifestou acerca da arguição de violação dos arts. 10, VII e § 4º, da Lei 9.656/98, 421 e 421-A do CC e 51, IV do CDC, no que se refere à ausência de previsão de custeio/fornecimento de bomba de insulina no rol da ANS, e de que a referida órtese não está ligada a ato cirúrgico e, portanto, não possui cobertura pelo plano de saúde.
+Da análise do processo, constata-se que, de fato, o Tribunal de origem não analisou a questão relativa à bomba de insulina se tratar de órtese que não está ligada a ato cirúrgico e que, por essa razão, não possui cobertura pelo plano de saúde, em que pese tenha sido devidamente suscitada nas razões do recurso de apelação e nos embargos de declaração opostos pela recorrente.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado exame das demais questões trazidas nas razões deste recurso especial.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar a remessa dos autos ao TJ/SP, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela recorrente acima indicados. Por consequência, fica prejudicado o exame das demais questões aduzidas no recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Recurso especial conhecido e parcialmente provido.
