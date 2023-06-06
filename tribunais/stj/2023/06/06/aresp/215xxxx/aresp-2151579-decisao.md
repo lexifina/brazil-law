@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por MARCELO EDUARDO HENCKLEIN e RITA DE CÁSSIA DE OLIVEIRA HENCKLEIN contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 122):
+Apelação Cível Embargos à execução Embargantes que não declararam o valor que reputam correto e tampouco colacionaram demonstrativo discriminado e atualizado do débito Embargos corretamente rejeitados pela sentença Valor apontado para a quitação integral do imóvel que corresponde a preço à vista Saldo contratual que restou parcelado em 130 prestações Saldo devedor apontado à época da oposição dos embargos que, a princípio, não se apresenta desarrazoado Cálculo sobre 156 prestações que diz respeito ao demonstrativo do débito do contrato original Embargantes que assumiram apenas o saldo de parcelas inadimplidas, correspondente a 130 prestações Ausência de impugnação específica aos fundamentos da sentença Reprodução literal das razões expostas em peças anteriores que revela comodismo inaceitável Sentença mantida Recurso improvido.
+Sucumbência Recursal Honorários advocatícios Majoração do percentual arbitrado Observância do artigo85, §§ 2º e 11, do CPC Execução dos valores sujeita ao disposto no art. 98, §3º, do CPC.
+Sem embargos de declaração.
+No recurso especial, os recorrentes alegam violação do art. 786 do CPC.
+Sustenta, em síntese, ausência de liquidez do título que embasa a execução embargada.
+Foram oferecidas contrarrazões ao recurso especial (fls. 144-150).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 181-153), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 167-171).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Os recorrentes alegam ausência de liquidez do título executivo que embasa a presente execução.
+O Tribunal de origem, ao analisar a controvérsia, assim se manifestou (fls. 123-124):
+Em que pese a irresignação dos embargantes, nenhum reparo merece a solução empregada pela r. sentença que, concluindo que estes não declararam o valor que reputam correto e tampouco colacionaram demonstrativo discriminado e atualizado do débito, rejeitou os presentes embargos à execução, nos termos do artigo 917, §§ 3º e 4º, inciso I, ambos do Código de Processo Civil.
+Importa consignar que o valor de R$ 130.000,00para a quitação integral do imóvel, declarado pela embargada em 23/03/2015 (fl. 14), corresponde ao preço à vista àquela data, conforme esclarecido pela embargada em suas contrarrazões (fl. 114).
+Por outro lado, o valor do saldo contratual parcelado em 130 prestações foi estabelecido no contrato de transferência de direitos e obrigações firmado entre os embargantes e os cedentes com anuência da embargada (fls. 21/22), no importe de R$ 226.634,20.
+Isto considerado, a princípio, não se apresenta desarrazoado o saldo devedor apontado à época da oposição dos presentes embargos, correspondente a R$ 198.105,96 (fl. 106). De se ressaltar que, conforme concluiu o MM. Juízo "a quo", os embargantes não lograram êxito em apresentar o valor que reputam como correto, motivo pelo qual o acolhimento dos embargos à execução não se mostrava mesmo justificado.
+Outrossim, no que tange à quantidade de prestações faltantes, importa esclarecer que o cálculo sobre 156 prestações diz respeito ao demonstrativo do débito do contrato original e que, por seu turno, os embargantes assumiram apenas o saldo de parcelas inadimplidas, qual seja, 130 (fl. 22), não havendo controvérsia a este respeito.
+Desse modo, reformar o entendimento do Tribunal estadual acerca da presença dos requisitos necessários ao prosseguimento da execução (certeza, liquidez e exigibilidade) requer o reexame das provas juntada aos autos, o que é vedado a esta Corte, em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Nesse sentido, cito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. 2. TÍTULO EXECUTIVO. NOTA PROMISSÓRIA. NULIDADE AFASTADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (Súmula n. 211/STJ).
+1.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+2. Reverter a conclusão do colegiado originário (acerca da presença dos requisitos de exigibilidade e liquidez do título executivo) demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas contratuais, o que é vedado dada a natureza excepcional da via eleita, consoante o enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.977.474/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022 - grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. A análise dos fundamentos que ensejaram o reconhecimento da ausência de liquidez e exigibilidade do título que embasa a execução exige o reexame probatório dos autos e do instrumento contratual pactuado, inviável por esta via especial, ante o óbice das Súmulas 5 e 7 desta Corte. Precedentes.
+4. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+5. Agravo interno provido para reconsiderar a decisão de fls. 406-408 e-STJ, e, de plano, negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 2.001.968/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022 - grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
