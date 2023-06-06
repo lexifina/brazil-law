@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento ajuizado por RODRIGO SOBROSA MEZZOMO contra decisão que indeferiu o redirecionamento da execução fiscal movida pelo MUNICÍPIO DO RIO DE JANEIRO contra a Caixa Econômica Federal. Na sentença julgou-se o pedido. No Tribunal a quo a sentença foi . O valor da causa foi fixado em R$ .
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. MUNICÍPIO DO RIO DE JANEIRO. IMÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. PRETENSÃO DE INCLUSÃO DA CAIXA ECONÔMICA FEDERAL. INDEFERIMENTO. DESPROVIMENTO DO RECURSO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Nesse aspecto, a jurisprudência da Corte Superior, ao interpretar o art. 34 do CTN, reconhece não ser possível a sujeição passiva do proprietário despido dos poderes de propriedade, daquele que não detém o domínio útil sobre o imóvel ou do possuidor sem ânimo de domínio.
+ ..
+Trata-se de recurso interposto contra acórdão com o seguinte resumo de ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. MUNICÍPIO DO RIO DE JANEIRO. IMÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. PRETENSÃO DE INCLUSÃO DA CAIXA ECONÔMICA FEDERAL. INDEFERIMENTO. DESPROVIMENTO DO RECURSO.
+Verifico que a matéria tratada nos autos foi admitida para julgamento de uniformização jurisprudencial: Tema 1158/STJ.
+Eis a ementa do julgamento de afetação:
+TRIBUTÁRIO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015 C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/09/2016. CONTROVÉRSIA SOBRE A RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA DO CREDOR FIDUCIÁRIO E SUA LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DE EXECUÇÃO FISCAL EM QUE SE COBRA IPTU DE IMÓVEL OBJETO DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir se há responsabilidade tributária solidária e legitimidade passiva do credor fiduciário na execução fiscal em que se cobra IPTU de imóvel objeto de contrato de alienação fiduciária."
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016).
+(ProAfR no REsp n. 1.949.182/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 28/6/2022, DJe de 1/8/2022.)
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos dos art. 927, 1.036, 1.040 do CPC/2015, justifica o sobrestamento dos recursos especiais, na instância ordinária, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF ou STJ.
+Também a admissão do recurso, como repetitivo por esta Corte, autoriza o sobrestamento. A mesma sistemática deve ser adotada para os casos de admissão de Procedimento de Uniformização de Jurisprudência. Assim, a Corte de origem pode declarar prejudicados os recursos que se oponham a acórdão que se conforma com o decidido pelo STF e STJ ou se retratar. Nesse sentido: EDcl nos EDcl no AgInt no AREsp n. 1.666.390/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/3/2021, DJe 8/4/2021; AgInt no REsp n. 1.911.163/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/3/2021, DJe 5/4/2021; EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp n. 1.615.441/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe 17/12/2020; EDcl no REsp n. 1.792.034/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe 2/8/2019.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 927, 1.036 e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso especial ou extraordinário representativo da controvérsia, ou, ainda, de Procedimento de Uniformização de Jurisprudência, sobrestadas as demais matérias recorridas, caso não prejudicadas: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre a matéria.
+Publique-se. Intimem-se.
