@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROSELI ESPOSITO NUNES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2125560-15.2023.8.26.0000).
+A paciente foi condenada à pena de 5 anos e 10 meses de reclusão, em regime fechado, além do pagamento de 583 dias-multa, por infração ao art. 33, caput, c/c art. 40, III, da Lei 11.343/2006.
+A ordem impetrada na Corte de origem foi indeferida.
+O impetrante alega que a paciente tem direito ao cumprimento da pena em prisão domiciliar, por ser primária e "mãe de filho menor de doze anos, portador de enfermidade, que depende muito nesse momento da presença materna ao seu lado, auxiliando em seu tratamento" (e-STJ fl. 5); e b)
+Requer, liminar e definitivamente, deferimento da ordem para autorizar o cumprimento da pena em prisão domiciliar.
+É o relatório.
+Na presente hipótese, a defesa impetrou habeas corpus perante o Tribunal de origem que, por unanimidade, indeferiu liminarmente o writ, porque a tese apresentada  prisão domiciliar  não foi submetida a prévio exame do magistrado processante.
+A propósito, confira-se (e-STJ fls. 26-27):
+Com efeito, pretende o impetrante, segundo se depreende, seja a paciente colocada em prisão domiciliar ante a existência de filho menor de 12 anos de idade e portador de transtorno hipercinético a torná-lo dependente da genitora.
+De proêmio, anote-se o descabimento das alegações atreladas à concessão de benefícios diante de custódia cautelar (menção ao artigo 318 do CPP, diga-se), situação diversa da hipótese dos autos, a indicar ordem de prisão em face de decisão condenatória já transitada em julgado.
+E, porque ainda não cumprido o mandado de prisão, inexiste guia de execução definitiva a permitir a análise de pedidos de benesses ínsitas à fase executória pelo juízo competente, nada autorizando a apreciação inédita da matéria nesta oportunidade, sob pena de indevida supressão de instância.
+Recentíssimo julgado deste Egrégio Tribunal de Justiça voga nas mesmas águas, in verbis: "HABEAS CORPUS - PACIENTE CONDENADO AO CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE NO REGIME SEMIABERTO - PRETENDIDA A PROGRESSÃO AO REGIME ABERTO OU CONCESSÃO DA PRISÃO DOMICILIAR - CONDENAÇÃO COM TRÂNSITO EM JULGADO - MANDADO DE PRISÃO PENDENTE DE CUMPRIMENTO - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - Inadmissível a utilização do "habeas corpus" para reformar decisão já transitada em julgado. Necessário o cumprimento do mandado de prisão para que seja expedida a guia de recolhimento, com a qual será iniciada a fase de execução penal, cabendo ao Juízo da Execução decidir sobre os pedidos de progressão de regime e de prisão domiciliar, sob pena de supressão de instância. Inteligência do artigo 105 da Lei de Execução Penal e do artigo 674 do Código de Processo Penal. Ordem denegada" (TJESP, HC 2073552-66.2020.8.26.0000, Relator Desembargador LUIS AUGUSTO DE SAMPAIO ARRUDA, julgado em 26-06-2020, grifei e destaquei).
+Assim, sem se observar constrangimento ilegal de plano decorrente de ato da autoridade indicada como coatora, indefere- se o Habeas Corpus liminarmente, consoante artigo 663 do Código de Processo Penal.
+Em suas razões, todavia, a defesa deixou de impugnar especificamente o não conhecimento do mandamus pelo Tribunal de origem, e limitou-se a reiterar a tese meritória relativa ao cumprimento da pena em prisão domiciliar, que tampouco pode ser conhecida por esta Corte, para não incorrer em supressão de instância.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA DOMICILIAR NÃO AUTORIZADA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. INVIABILIDADE. RÉU FORAGIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O tema vertido no presente recurso, relativamente à nulidade pela busca domiciliar, não foi examinado no acórdão do habeas corpus impetrado na origem, que dele sequer conheceu, de modo que não é possível abordá-lo em sede recursal mandamental, sob pena de indevida supressão de instância.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no RHC 167.179/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+AGRAVO REGIMENTAL NA DECISÃO LIMINAR NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO QUE CONHECEU PARCIALMENTE DO RECURSO E NEGOU O PEDIDO LIMINAR NA PARTE CONHECIDA. MÉRITO. PLEITO DE NULIDADE DO INGRESSO DOMICILIAR. DEBATE E REVOLVIMENTO FÁTICO-PROBATÓRIO NÃO REALIZADO NO ACÓRDÃO. INDEVIDA SUPRESSÃO DE INSTÂNCIA POR MERA REITERAÇÃO DE PEDIDOS DESDE A ORIGEM. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, não foi constatada nenhuma flagrante ilegalidade de plano, pois, conforme já esclarecido na decisão agravada, a nulidade aventada no presente recurso ordinário sequer foi debatida na origem, tendo em vista que não passou de mera reiteração de pedidos realizada no eg. Tribunal a quo - o que foi expressamente consignado, à fl. 1212, em razão do anterior HC n. 2193735-32.2021.8.26.0000/TJSP.
+III - Nesse sentido, é firme o posicionamento desta Corte Superior de que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017).
+IV - Tudo o que, ao fim, enseja reconhecer a indevida supressão de instância, o que impede a apreciação da questão da nulidade diretamente nesta Corte Superior.
+V - Acerca da indevida supressão de instância, mesmo em matéria de ordem pública, "em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância (..) As questões de ordem pública, para estarem sujeitas à jurisdição do Superior Tribunal de Justiça na via do remédio heroico, também devem ultrapassar a formalidade processual acima. Precedentes" (AgRg no HC n. 521.849/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 19/8/2020).
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC 163.494/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 3/5/2022, DJe de 9/5/2022).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
