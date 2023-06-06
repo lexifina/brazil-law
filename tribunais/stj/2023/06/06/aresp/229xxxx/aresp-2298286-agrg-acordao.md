@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. APELO NOBRE E AGRAVO INTEMPESTIVOS. ALEGA DA CONTAGEM DO PRAZO RECURSAL EM DIAS ÚTEIS. IMPOSSIBILIDADE. ART. 798 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 255, § 4.º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula n. 568, também desta Corte Superior, pode o Relator, monocraticamente, dar provimento ao recurso especial quando o acórdão recorrido for contrário à jurisprudência consolidada neste Tribunal Superior. Além disso, a possibilidade de interposição de agravo regimental, com a submissão da insurgência ao Colegiado, esvazia a alegação de cerceamento de defesa.
+2. A jurisprudência desta Corte é firme no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017, grifei).
+3. A publicação do acórdão dos embargos de declaração ocorreu em 24/06/2022, mas o recurso especial foi interposto apenas em 14/07/2022, fora, portanto, do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal. De igual modo, a decisão de inadmissibilidade do recurso especial foi publicada em 21/10/2022, mas o agravo em recurso especial só foi interposto em 10/11/2022, fora, portanto, do prazo legal.
+4. Agravo regim ental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOCIENE SANTOS DA SILVA FERREIRA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu dos recursos por intempestividade (fls. 502-503).
+Nas razões do regimental, a Defesa aponta violação ao princípio da colegialidade (fls. 509-510). Refuta a intempestividade do apelo nobre e do agravo, pois, o prazo recursal de quinze dias deve ser contado em dias úteis (fls. 510-511).
+Requer, em suma, o provimento do regimental (fls. 511-512).
+O Ministério Público Estadual e o Ministério Público Federal pronunciaram-se pelo desprovimento do regimental (fls. 537-539 e 541-544).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. APELO NOBRE E AGRAVO INTEMPESTIVOS. ALEGA DA CONTAGEM DO PRAZO RECURSAL EM DIAS ÚTEIS. IMPOSSIBILIDADE. ART. 798 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 255, § 4.º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula n. 568, também desta Corte Superior, pode o Relator, monocraticamente, dar provimento ao recurso especial quando o acórdão recorrido for contrário à jurisprudência consolidada neste Tribunal Superior. Além disso, a possibilidade de interposição de agravo regimental, com a submissão da insurgência ao Colegiado, esvazia a alegação de cerceamento de defesa.
+2. A jurisprudência desta Corte é firme no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017, grifei).
+3. A publicação do acórdão dos embargos de declaração ocorreu em 24/06/2022, mas o recurso especial foi interposto apenas em 14/07/2022, fora, portanto, do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal. De igual modo, a decisão de inadmissibilidade do recurso especial foi publicada em 21/10/2022, mas o agravo em recurso especial só foi interposto em 10/11/2022, fora, portanto, do prazo legal.
+4. Agravo regimental desprovido.
+VOTO
+Consta nos autos que a Agravante JOCIENE SANTOS DA SILVA FERREIRA foi condenada a 1 (um) ano e 11 (onze) meses de reclusão, em regime semiaberto, e 193 (cento e noventa e três) dias-multa (fls. 332-337) pelo delito do art. 33, § 4.º, inciso III, da Lei de Drogas, caracterizado pela apreensão de 2,6 (dois gramas e seis decigramas) de maconha (fl. 329); bem como 3 (três) meses de detenção, em regime inicial aberto, como incursa no art. 349-A do Estatuto Repressor (fl. 337) ; substituída sanção corporal por restritivas de direitos (fls. 338 e 403).
+A Corte de justiça de origem negou provimento à apelação defensiva (fls. 391-413).
+Os embargos de declaração defensivos foram rejeitados (fls. 424-431).
+Nas razões do apelo nobre, a Defesa alegou, em suma, ausência de comprovação da materialidade delitiva (fls. 439-443); insuficiência probatória para condenar a Agravante pelo delito de tráfico de drogas ( fls. 443-451); existência de excludente da ilicitude da conduta configurada por grave crise financeira (fls. 451-454); e ausência de proporcionalidade na fixação do regime semiaberto (fls. 454-455).
+Contrarrazões às fls. 462-466.
+A Presidente do Superior Tribunal de Justiça, por meio da decisão de fls. 502-503, não conheceu do recurso por intempestividade do recurso especial.
+Daí a interposição do presente agravo regimental (fls. 508-513).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+Quanto à suposta violação ao princípio da colegialidade, nos termos do art. 255, § 4.º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, e da Súmula n. 568, também desta Corte Superior, pode o Relator, monocraticamente, dar provimento ao recurso especial quando o acórdão recorrido for contrário à jurisprudência consolidada neste Tribunal Superior. Além disso, a possibilidade de interposição de agravo regimental, com a submissão da insurgência ao Colegiado, esvazia a alegação de cerceamento de defesa.
+A propósito:
+" ..
+1. Não há óbice ao julgamento monocrático do recurso especial, conforme autoriza o RISTJ, bem como o art. 932 do CPC. Ademais, é possível interpretação extensiva do Regimento Interno para monocraticamente dar ou negar provimento a recurso contra decisão contrária ou em consonância com jurisprudência dominante.
+2. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+ ..
+8. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.526.001/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021.)
+" ..
+3. Segundo a orientação firmada nesta Corte Superior de Justiça, pode o relator, monocraticamente, dar ou negar provimento a recurso especial quando houver entendimento dominante sobre a matéria no Tribunal. É o que está sedimentado na Súmula n.º 568 do STJ. Ademais, a possibilidade de submeter a matéria ao exame do órgão colegiado por meio do agravo regimental afasta a arguida ofensa ao princípio da colegialidade. Precedentes.
+ ..
+10. Agravo regimental não conhecido." (AgRg no AREsp 1.337.066/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/10/2020, DJe 29/10/2020.)
+No mais, a decisão ora agravada considerou o recurso especial intempestivo nestes termos (fls. 502-503, sem grifos no original):
+"Mediante análise do recurso de JOCIENE SANTOS DA SILVA FERREIRA, a parte recorrente foi intimada do acórdão recorrido em 24/06/2022, sendo o recurso especial interposto somente em 14/07/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ademais, a parte recorrente foi intimada da decisão agravada em 21/10/2022, sendo o agravo somente interposto em 10/11/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Outrossim, a comprovação deve ser feita por documento idôneo (AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022; AgInt no AREsp n. 2.140.372/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+Em que pese os argumentos da Agravante, a insurgência não merece prosperar.
+No caso, a publicação do acórdão dos embargos de declaração ocorreu em 24/06/2022 (fl. 432), mas o recurso especial foi interposto apenas em 14/07/2022 (fl. 435), fora, portanto, do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+De igual modo, a decisão de inadmissibilidade do recurso especial foi publicada em 21/10/2022 (fl. 470), mas o agravo em recurso especial só foi interposto em 10/11/2022 (fl. 472), fora, portanto, do prazo legal.
+Ao contrário do asseverado pela Defesa, a jurisprudência desta Corte é firme no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+Ainda a propósito:
+" ..
+1. O recurso especial mostra-se intempestivo, uma vez que interposto fora do prazo de 15 dias, conforme o disposto nos arts. 798 do Código de Processo Penal e 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do Código de Processo Civil.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, " ..  em razão da disposição específica do art. 798, caput, do Código de Processo Penal, estabelecendo a fluência dos prazos processua is em dias corridos, não é aplicável, nos processos criminais, a contagem em dias úteis, prevista no art. 219, caput, do Código de Processo Civil" (AgRg no AREsp n. 1.792.396/BA, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 16/3/2021, DJe 25/3/2021).
+ ..
+4. Agravo regimental desprovido." (AgRg no AREsp n. 2.291.185/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/5/2023, DJe 05/05/2023, sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
