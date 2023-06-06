@@ -1,0 +1,9 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal, não especificado, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, na Apelação n. 1511552-90.2018.0248. Pede o envio dos autos principais a esta Corte, para "análise e novo proclamo", com "referência" ao "precedente  inelegível  no HC n. 769.783/MG", pois, "no caso em tela a prova foi toda coligida em reconhecimento fotográfico. O que torna a prova ilícita" (fl. 3).
+Decido.
+De plano, verifico que não foi trazida à colação cópia da sentença, de acórdão do Tribunal de Justiça e nenhum outro documento para demonstrar a ilegalidade ao direito de locomoção e a inauguração da competência prevista no art. 105 da CF para o deslinde da controvérsia, o que impede o conhecimento do habeas corpus.
+Apesar da informalidade do remédio constitucional, é "ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta dilação probatória. É obrigatório instruir o remédio constitucional com impressos que permitam a análise de existência, ou não, da aventada ilegalidade ou abuso de poder.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Por não estar o paciente assistido por advogado, intime-se a Defensoria Pública da União, para eventuais providências que entender cabíveis.
+Publique-se e intimem-se.
