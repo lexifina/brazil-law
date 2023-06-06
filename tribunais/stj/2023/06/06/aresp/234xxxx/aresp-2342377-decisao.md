@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CELY PASQUOTTO BELLOTTO, RENATO AUGUSTO BELLOTTO e ROSANA APARECIDA BELLOTTO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 9/3/2023.
+Concluso ao gabinete em: 2/6/2023.
+Ação: embargos de terceiros ajuizada pelos agravantes, em face de ACHÉ LABORATÓRIOS FARMACÊUTICOS S/A.
+Sentença: julgou parcialmente procedente o pedido formulado por CELY PASQUOTTO BELLOTTO, RENATO AUGUSTO BELLOTTO e ROSANA APARECIDA BELLOTTO para " ..  autorizar o levantamento da penhora que recaiu sobre o imóvel objeto da transcrição 314 (fls. 32), ou seja, a casa localizada na Rua Conselheiro Antônio Prado, 165. Mantenho, por outro lado, a penhora que recaiu sobre o imóvel rural  .. " (e-STJ fl. 942).
+Acórdão: deu parcial provimento à apelação do agravado, nos termos da seguinte ementa (e-STJ fl. 991):
+EMBARGOS DE TERCEIRO - Sentença acolhendo parcialmente o pedido inicial, afastando a constrição sobre bem de família - Apelação - Ausência de qualquer prova produzida pelo embargado de que o imóvel em questão não esteja protegido pelas disposições da lei 8009/90 - Exame da produzida durante a instrução processual que indica a ocupação do imóvel pela entidade familiar - Manutenção dos encargos processuais impostos ao recorrente, que decaiu de parte substancial da sua pretensão - Afastamento da gratuidade processual concedida aos recorridos - Apelo provido parcialmente.
+Embargos de declaração: opostos por ACHÉ LABORATÓRIOS FARMACÊUTICOS S/A, foram rejeitados.
+Recurso especial: alegam, além do dissídio jurisprudencial, violação aos artigos 98, 99, parágrafos 2º e 3º, 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015.
+Decisão de admissibilidade: não admitiu o recurso especial pela (i) inexistência de violação aos artigos 489 e 1.022 do CPC/2015; (ii) ausência de demonstração de afronta à legislação federal indicada; (iii) aplicação da Súmula n. 7/STJ; e (iv) impossibilidade de análise do dissídio jurisprudencial apontado, haja vista que não foram observadas as exigências dos artigos 1.029, § 1º, do CPC/2015 (correspondente ao artigo 541, parágrafo único, do CPC/1973) e 255, § 1º, do RISTJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nestes fundamentos: (a) inexistência de violação aos artigos 489 e 1.022 do CPC/2015; (b) ausência de demonstração de afronta à legislação federal indicada; (c) aplicação da Súmula n. 7/STJ; e (d) impossibilidade de análise do dissídio jurisprudencial apontado, haja vista que não foram observadas as exigências dos artigos 1.029, § 1º, do CPC/2015 (correspondente ao artigo 541, parágrafo único, do CPC/1973) e 255, § 1º, do RISTJ.
+Entretanto, a agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: (i) ausência de violação aos artigos 489 e 1.022 do CPC/2015; e (ii) aplicação da Súmula n. 7/STJ.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, a Súmula n. 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no artigo 932, III, do CPC/2015.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da causa (e-STJ fls. 990/993) para 20% (vinte por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
