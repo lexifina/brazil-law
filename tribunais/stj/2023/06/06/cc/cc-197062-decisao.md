@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito de Miguel Alves e o Juízo da 3ª Vara do Trabalho de Teresina nos autos da reclamação trabalhista proposta por Maria Francisca Rego da Silva contra o Município de Miguel Alves.
+Colhe-se dos autos que a irresignação da ex-servidora foi apresentada por meio de reclamação trabalhista em que houve decisão do juízo da 3ª Vara do Trabalho de Teresina pela sua incompetência.
+O Juízo Comum Estadual, às e-STJ fls. 41, declarou não haver vínculo jurídico de natureza pública (jurídico-administrativa) entre as partes, porque não houve a demonstração de qualquer processo seletivo que precedesse a contratação e porque não há lei específica para balizar as relações jurídicas entre municipalidade e agentes contratados.
+O Juízo Trabalhista declarou que a competência para o exame dessa reclamação envolve os efeitos jurídicos da nulidade da contratação havida entre as partes. Asseverou a impossibilidade de presumir que o vínculo entre quem presta serviços e a Administração esteja vinculada ao modelo jurídico próprio de direito privado. Ademais, ressaltou o entendimento do STF sobre a matéria na ADI 3.357, e que (e-STJ fl. 272):
+A circunstância da Autora não haver prestado concurso público não autoriza a submissão da relação jurídica havida entre as partes ao regime da CLT, até porque os efeitos da nulidade da contratação não são aferidos sob o viés da Consolidação das Leis do Trabalho, mas do artigo 37, II, § 2º, da Constituição Federal c/c o artigo 182 do Código Civil Brasileiro.
+O Ministério Público Federal em parecer manifestou-se pela competência da Justiça Comum Estadual.
+É o relatório. Passo a decidir.
+Infere-se não haver legislação específica determinando que o vínculo entre Município e seus servidores está submetido a regras celetistas. Também se observa a inexistência de contratação precedida de concurso público ou qualquer outro meio de processo seletivo. A regularidade do vínculo entre as partes é discutida.
+Ora, a contratação de pessoas pela administração pública, ainda que irregular, possui natureza de ato administrativo que atraí a competência da Justiça Comum. A esse respeito, o parecer do Ministério Público Federal:
+No mesmo sentido o Superior Tribunal de Justiça tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias dessa avença" (AgRg no CC 139.456/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 13/05/2015, DJe 19/05/2015).
+A propósito, os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade 3.395-DF, excluiu da expressão relação de trabalho prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça Comum, Estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias ou irregulares, caso dos autos.
+2. A Lei local que alterou o regime jurídico dos servidores para o celetista, no caso, impõe a contratação por meio de processo seletivo, o que não ocorreu na espécie dos autos, afastando assim a competência da Justiça Laboral para o exame da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 8/2/2017, DJe 14/2/2017)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO VERBAL, SEM CONCURSO PÚBLICO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato verbal e sem concurso público.
+2. A Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+3. A contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Precedentes.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/5/2016, DJe 1º/6/2016)
+Ante o exposto, conheço do presente conflito para declarar a competência da Justiça Comum Estadual .
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO DE AGENTE PÚBLICO. AUSÊNCIA DE CONCURSO PÚBLICO. AUSÊNCIA DE LEI ESPECÍFICA PELA INCIDÊNCIA DE REGRAS CELETISTAS. NULIDADE DA CONTRATAÇÃO. EVENTUAL DESNATURAÇÃO DO VÍNCULO JURÍDICO-ADMINISTRATIVO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
