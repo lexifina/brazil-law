@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por Refrigerantes Coroa Ltda., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 688-689):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DA ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP 903.394/AL - TEMA 173/STJ). NÃO CABIMENTO. PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A reclamação constitucional, prevista no art. 105, I, f, da Constituição Federal, e regulada nos arts. 988 a 993 do CPC/2015, constituição destinada a preservar a competência do Superior Tribunal de Justiça, a garantir a autoridade de suas decisões e a dar correta interpretação a acórdão proferido em julgamento de Incidente de Resolução de Demandas Repetitivas ou de Incidente de Assunção de Competência, destacando-se, no § 5º, II, do art. 988, que, nas hipóteses em que se postula a observância de julgamento proferido em recurso repetitivo, o esgotamento das instâncias ordinárias é pré-requisito para o recebimento da ação constitucional.
+2. Em interpretação ao referido art. 988 do CPC/2015, modificado pela Lei 13.256/2016,a Corte Especial do Superior Tribunal de Justiça, no julgamento da Rcl 36.476/SP, da relatoria da eminente Ministra NANCY ANDRIGHI, estabeleceu entendimento afirmando que a reclamação é incabível para o controle da aplicação, pelos Tribunais, de precedente qualificado do STJ adotado em julgamento de Recursos Especiais Repetitivos, ainda que esgotadas as instâncias ordinárias, considerando indevido o uso da reclamação - ação autônoma que inaugura nova relação processual - em vez do sistema recursal, ressalvada a via excepcional da ação rescisória.
+3. Na vertente hipótese, observa-se que a presente reclamação fora ajuizada com intuito de que esta Corte Superior averiguasse a correta aplicação de entendimento firmado no REsp 903.394/AL(Tema 173/STJ), julgado sob o rito dos recursos repetitivos, pelo Tribunal de origem.
+4. Dessa forma, não se revela caracterizada qualquer possibilidade de cabimento da reclamação, impondo-se a extinção do feito sem resolução de mérito, porquanto incabível para corrigir eventual aplicação errônea de teses repetitivas em casos concretos pelas instâncias ordinárias.
+5. Agravo interno do contribuinte a que se nega provimento.
+A parte recorrente sustenta a violação dos arts. 97 e 105, I, f, da CF, bem como da Súmula Vinculante n. 10 do STF. Aduz que haveria repercussão geral da matéria tratada.
+Defende, em suma, o cabimento da reclamação para garantir a autoridade de decisão proferida em recurso especial repetitivo e a existência de ofensa à cláusula de reserva de plenário.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 733-741.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão do cabimento da reclamação para corrigir eventual aplicação errônea de teses repetitivas pela instância ordinária, estando o acórdão recorrido assim fundamentado ( fl. 695):
+Na vertente hipótese, observa-se que a presente reclamação fora ajuizada com intuito de que esta Corte Superior averiguasse a correta aplicação de entendimento firmado no REsp 903.394/AL (Tema 173/STJ), julgado sob o rito dos recursos repetitivos, pelo Tribunal de origem.
+Dessa forma, não se revela caracterizada qualquer possibilidade de cabimento da reclamação, impondo-se a extinção do feito sem resolução de mérito, porquanto incabível para corrigir eventual aplicação errônea de teses repetitivas em casos concretos pelas instâncias ordinárias.
+Desse modo, a análise da matéria ventilada no recurso extraordinário depende do exame dos arts. 988 a 993 do Código de Processo Civil, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em casos semelhantes assim já decidiu a Suprema Corte, a propósito:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO DIRIGIDA AO SUPERIOR TRIBUNAL DE JUSTIÇA. CABIMENTO. PRESSUPOSTOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional.
+2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.
+(ARE n. 1.357.114-AgR, relator Ministro Luiz Fux - Presidente, Tribunal Pleno, julgado em 9/3/2022, DJe de 6/4/2022.)
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. CABIMENTO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 13.6.2013.
+Divergir do entendimento do Superior Tribunal de Justiça no tocante aos critérios de admissibilidade de Reclamação de sua competência demandaria a análise da legislação infraconstitucional (Resolução nº 12/2009) aplicável à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, "a", da Constituição Federal. Precedentes. Agravo regimental conhecido e não provido.
+(ARE n. 784.492-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 18/2/2014, DJe de 6/3/2014.)
+Agravo regimental em recurso extraordinário. Reclamação dirigida ao Superior Tribunal de Justiça. Violação dos princípios do devido processo legal, da ampla defesa e do contraditório. Ausência de repercussão geral. Cabimento. Pressupostos. Verificação. Impossibilidade. Precedentes.
+1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal - Tema nº 660 do quadro de temas de repercussão geral do Supremo Tribunal Federal.
+2. Segundo o entendimento da Corte, a verificação dos pressupostos autorizadores da reclamação dirigida ao Superior Tribunal de Justiça é matéria de índole eminentemente infraconstitucional, para cujo exame não se presta o recurso extraordinário.
+3. Agravo regimental não provido.
+4. Inaplicável o art. 85, § 11, do CPC, pois não houve o arbitramento de honorários advocatícios pela Corte de origem.
+(RE n. 1.315.670-AgR, relator Ministro Dias Toffoli, Primeira Turma, julgado em 29/11/2021, DJe de 15/3/2022.)
+DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECLAMAÇÃO. CABIMENTO. LEGISLAÇÃO INFRACONSTITUCIONAL. PRESCRIÇÃO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF.
+1. A jurisprudência desta Corte é no sentido de que a discussão acerca do cabimento de reclamação envolve a análise da legislação infraconstitucional. Precedentes.
+2. A discussão, nos termos trazidos pelo ora agravante, passa, necessariamente, pela análise da legislação infraconstitucional e por uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário.
+3. Agravo regimental a que se nega provimento.
+(ARE n. 909.522-AgR, relator Ministro Roberto Barroso, Primeira Turma, julgado em 28/6/2016, DJe de 9/8/2016.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IPI. RECLAMAÇÃO. ACÓRDÃO IMPUGNADO FUNDAMENTADO EM ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSO ESPECIAL REPETITIVO. DESCABIMENTO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
