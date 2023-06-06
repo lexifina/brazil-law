@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de Eduardo Luiz da Silva - cumprindo pena privativa de liberdade em razão de condenação pelo crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 2069537-49.2023.8.26.0000/50000), comporta pronto acolhimento.
+Com efeito, busca a impetração a concessão da prisão domiciliar humanitária ao paciente, ao argumento de que o apenado se encontra acometido de enfermidade incurável, progressiva e incapacitante, que, além de lhe causar muitas dores, tem evoluído a ponto de ele necessitar de assistência para realizar as tarefas básicas diárias.
+De fato, do relatório médico mais atual, constante de fls. 242/243, observa-se que são verdadeiras as alegações constantes da inicial, além de que não é necessária maior incursão sobre o estabelecimento prisional no qual o paciente se encontra custodiado para concluir que o Sistema Prisional brasileiro não possui condições de oferecer o tratamento médico digno e adequado, em face do reconhecido estado de coisas inconstitucional, reconhecido pelo Supremo Tribunal Federal no âmbito da ADPF 347.
+Ademais, consta de fl. 213 que a capacidade do estabelecimento prisional é de 751 detentos, mas se encontra com 1.070 custodiados, isso em dezembro de 2022.
+Assim, conclui-se que se trata de apenado que possui doença incurável, incapacitante e degenerativa que, além de lhe causar dor, afeta os seus movimentos e o impede de exercer tarefas básicas do dia a dia, como a própria locomoção, e que se encontra em estabelecimento prisional superlotado.
+A propósito:
+ ..
+4. Muito embora o art. 5º, III, da Resolução n. 62, de 18 de março de 2020, do CNJ não recomende a concessão de prisão domiciliar a condenado que cumpre pena em regime fechado, sobretudo quando responder por crime cometido com violência ou grave ameaça à pessoa e o art. 117 da Lei de Execução Penal somente permita a concessão de prisão domiciliar a executado que cumpre pena no regime aberto, a grave situação da saúde do executado, comprovada nos autos, configura nota de excepcionalidade que autoriza a concessão da prisão domiciliar como medida humanitária. Precedentes: HC 574.582/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020 e HC 577.832/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/06/2020, DJe 04/08/2020.
+- Segundo jurisprudência desta Corte, "é possível o deferimento de prisão domiciliar ao sentenciado recolhido no regime fechado ou semiaberto sempre que a peculiaridade concreta do caso demonstrar sua imprescindibilidade" (HC 404.006/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/11/2017, DJe 22/11/2017).
+(HC n. 646.490/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/3/2021 - grifo nosso)
+Em face do exposto, concedo liminarmente a ordem impetrada para substituir o cumprimento da pena privativa de liberdade imposta ao paciente por prisão albergue domiciliar, mediante condições a serem implementadas e fiscalizadas pelo Juízo da Execução Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. CUMPRIMENTO DE PENA PELA PRÁTICA DO CRIME DE ROUBO MAJORADO. PRETENSÃO DE PRISÃO DOMICILIAR HUMANITÁRIA. APENADO ACOMETIDO DE MOLÉSTIA GRAVE, INCURÁVEL E DEGENERATIVA, QUE, ALÉM DE CAUSAR DOR, LIMITA OS MOVIMENTOS. NECESSIDADE DE TRATAMENTO E ASSISTÊNCIA PARA A REALIZAÇÃO DE TAREFAS BÁSICAS. ESTABELECIMENTO PRISIONAL SUPERLOTADO. EXCEPCIONALIDADE CONFIGURADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
