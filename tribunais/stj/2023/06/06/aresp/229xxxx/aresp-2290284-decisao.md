@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por CONSTRUTORA E INCORPORADORA MERZIAN LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fl. 62):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DO VALOR INCONTROVERSO. NECESSIDADE DE PRÉVIA PERÍCIA QUALIFICADA. 1. Diante do impasse do valor a ser executado no cumprimento de sentença, o magistrado remeteu os autos à Contadoria Judicial, cujo corpo técnico indicou a necessidade de perícia a ser realizada por profissional altamente qualificado. 2. Quanto ao pedido de penhora on line sobre o valor incontroverso, deve ser ratificada a justificativa apresentada pelo magistrado singelo, de que a postergação da penhora para após a apuração do saldo devedor não trará prejuízos a parte exequente. 3. Não há, na decisão agravada, qualquer ilegalidade, teratologia ou abusividade que mereça corrigenda, mas apenas justa cautela, até porque é o juiz a quo o destinatário das provas produzidas nos autos, e resta comprovado que o processo está em curso regular e com a necessária celeridade. Agravo interno conhecido e desprovido.
+Nas razões do apelo especial, a recorrente apontou divergência jurisprudencial e violação ao art. 525, §6º do CPC/2015.
+Sustentou a ocorrência de violação ao texto legal, haja vista se tratar de cumprimento de sentença em que parte dos valores são tidos por incontroversos e sobre esses é permitida a execução parcial.
+Contrarrazões às fls. 88-95 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando as insurgentes a interpor o presente agravo, por meio do qual contesta a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no recurso, dou provimento ao agravo, com fulcro no art. 34, XVI, do RISTJ, para determinar a sua conversão em recurso especial, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Publique-se
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO PARCIAL DO DÉBITO. PROSSEGUIMENTO DA EXECUÇÃO. PENHORA DO VALOR INCONTROVERSO. NECESSIDADE DE MELHOR EXAME DOS AUTOS. AGRAVO PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
