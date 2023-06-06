@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO CRUZEIRO DO SUL S.A. - FALIDO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de BANCO CRUZEIRO DO SUL S.A. - FALIDO, o subscritor do recurso especial, Dr. Jorge Felipe Gomes, não possui poderes nos autos, uma vez que a procuração juntada às fls. 48/49 venceu em 31/12/2014.
+Outrossim, esse vício foi percebido na origem, que determinou a intimação da parte para regularizar o óbice (fl. 250). No entanto, conforme consignado na decisão agravada (fl. 260), na nova procuração, bem como nos substabelecimentos juntados às fls. 254/257 constaram assinaturas digitalizadas e/ou escaneadas.
+Conforme a jurisprudência do STJ, a "assinatura digitalizada ou escaneada, por se tratar de mera inserção de imagem em documento, não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade certificadora credenciada, prevista no art. 1º, § 2º, III, "a", da Lei n. 11.419/2006". (AgInt no AREsp 1173960/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 15/3/2018.)
+Ademais, ainda que se pudesse considerar válidas as assinaturas, os instrumentos não foram suficientes para completar a cadeia de representação, uma vez que não outorgaram poderes ao advogado subscritor do recurso. Incide, portanto, o enunciado da Súmula n. 115/STJ.
+Cumpre ainda registrar que o substabelecimento juntado, posteriormente, à fl. 271, não pode ser aceito, tendo em vista a preclusão consumativa.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
