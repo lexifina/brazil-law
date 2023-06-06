@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 15):
+HABEAS CORPUS CRIME. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DECRETADA PARA A GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDA E SUFICIENTEMENTE FUNDAMENTADA. CIRCUNSTÂNCIAS FÁTICAS DO CASO EM CONCRETO. PRESENTES OS PRESSUPOSTOS PARA A SEGREGAÇÃO CAUTELAR. ARTIGOS 312 E 313, DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente por suposta incursão no artigo 33, caput, da Lei nº 11.343/06.
+No presente writ, a impetrante alega que o decreto prisional carece de fundamentação idônea, além de aduzir a desproporcionalidade da prisão, pois, em caso de condenação, o regime a ser imposto seria menos gravoso.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva, ou sua substituição por medidas cautelares diversas.
+Na origem, Processo nº 0001052-41.2023.8.16.0119, verifica-se o recebimento da denúncia em 30/5/2023, conforme informação processual eletrônica extraída do site do Tribunal a quo em 2/6/2023.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+No entanto, não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Ressalte-se, inicialmente, que a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No mais, como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+In casu, a prisão preventiva foi decretada nos seguintes termos (fls. 22-23):
+No presente caso, verifico que estão presentes os pressupostos relativos ao fato, uma vez que a materialidade está demonstrada pelos documentos que instruem os autos, bem como há indícios suficientes de autoria, já que o acusado foi preso em flagrante.
+Igualmente, observo que o crime em tese praticado por VICTOR possui pena máxima superior a 4 anos, portanto verifico o preenchimento do pressuposto referente ao crime (art. 313, inc. I, do CPP).
+Da mesma forma, está presente um dos requisitos necessários à decretação da prisão preventiva, pois, neste momento processual, mostra-se imprescindível a segregação cautelar do flagrado para garantia da ordem pública.
+Conforme se estrai do laudo de constatação provisória, foram apreendidos dois tipos de entorpecentes, sendo 0,0137 quilogramas de CRACK e 0,0285 quilogramas de MACONHA.
+Além disso, foram apreendidas quantias em dinheiro e material que pressupõe a traficância dos entorpecentes.
+A quantidade de dinheiro e droga apreendida com o flagrado demonstra que o acusado se dedica a atividade criminosa, gerando risco a tranquilidade local, já que os fatos ocorreram no pequeno munícipio de Nova Esperança (com cerca de 30 mil habitantes).
+Assim, o fato de o acusado possivelmente se dedicar a atividade criminosa insinua que caso colocado em liberdade voltará a pratica delituosa.
+Da mesma forma, é possível concluir que medidas diversas da prisão não terão o condão de resguardar adequadamente a segurança da sociedade, já que não vão impedir a continuidade da prática de delitos.
+Ademais, destaco que o pacifico entendimento jurisprudencial evidencia que a mera existência de condições pessoais favoráveis não obsta o decreto cautelar, quando presentes os requisitos, conforme o caso dos autos.
+Dito isso, verifico que estão presentes o fumus comissi delicti e periculum libertatis.
+Logo, nos termos do art. 311, art. 312 e art. 313, inc. II, todos do CPP, DECRETO a prisão preventiva de VICTOR DANIEL DOS SANTOS PEREIRA.
+Como se vê, consta do decreto de prisão preventiva fundamentação que se mostra idônea, evidenciada na diversidade e quantidade dos entorpecentes apreendidos - 0,0137kg de crack e 0,0285gk de maconha -, além de "quantias em dinheiro e material que pressupõe a traficância dos entorpecentes".
+No entanto, as circunstâncias do caso não justificam a decretação da medida extrema em apreço, uma vez que na diligência que resultou no flagrante, em poder do paciente foi apreendida reduzida quantidade de entorpecente, a demonstrar que não se trata de tráfico de grande proporção, ou seja, a potencialidade lesiva da conduta em si considerada não pode ser tida como das mais elevadas.
+Além disso, nenhum outro fundamento idôneo foi apresentado para justificar a decretação da custódia cautelar.
+Esta Corte entende que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social. Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA. POUCA QUANTIDADE DE DROGA. PRIMARIEDADE. VALORAÇÃO POSITIVA. CONSTRANGIMENTO ILEGAL. RECURSO PROVIDO.
+1. O decreto prisional carece de fundamentação idônea. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF) que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+2. Caso em que o decreto que impôs a prisão preventiva ao recorrente não apresentou motivação individualizada e concreta, apta a justificar a segregação, tendo se limitado a abordar a adequação típica da conduta e, de modo genérico, a necessidade de garantia da ordem pública e a gravidade abstrata do delito.
+3. A necessidade de garantia da ordem pública e a gravidade abstrata do delito, dissociadas de elementos concretos e individualizados que indicassem a necessidade da rigorosa providência cautelar, não constituem fundamentação idônea para justificar a medida extrema, especialmente diante da quantidade de substância entorpecente apreendida (32 gramas de cocaína). Ademais, o recorrente é primário.
+4. As condições subjetivas favoráveis, conquanto não sejam garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando não for demonstrada a real indispensabilidade da medida constritiva, como ocorre no caso em apreço. Constrangimento ilegal configurado.
+5. Recurso conhecido e provido para revogar a prisão preventiva do recorrente, sob a imposição de medidas cautelares, a critério do Juízo de primeiro grau (RHC 136.241/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 03/11/2020.)
+Assim, não havendo no tema divergência na Sexta Turma deste Tribunal, desde logo deve ser reconhecida a ilegalidade.
+Ante o exposto, concedo liminarmente o habeas corpus para a soltura do paciente, se por outro motivo não estiver preso, podendo o juiz de primeiro grau, caso entenda necessário, aplicar outras medidas cautelares diversas da prisão, na forma do art. 319, do CPP .
+Comunique-se.
+Publique-se.
+Intimem-se.
