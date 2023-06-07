@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIS CESAR DA COSTA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+A ilustre jurista conheceu o Agravo para não conhecer o Recurso Especial sob a justificativa de que: "Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 284/STF em relação ao art. 47, § 4º, I, do Código de Defesa do Consumidor, uma vez que a parte recorrente indicou como violado dispositivo legal inexistente no ordenamento jurídico, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"
+No entanto, os dispositivos legais não são inexistentes. (fl. 375).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A decisão embargada foi clara e bem fundamentada quanto aos óbices de admissibilidade aplicados ao caso.
+Reitere-se que a Súmula n. 284/STF foi aplicada em razão de o recurso especial ter indicado como violado dispositivo legal inexistente no ordenamento jurídico, conforme observado no seguinte trecho do REsp:
+III. RAZÕES DO PEDIDO DE REFORMA DA DECISÃO RECORRIDA.
+DECISÃO CONTRÁRIA AOS ARTS. 47, § 4º, I e 6º, VIII do CÓDIGO DE DEFESA DO CONSUMIDOR
+Com relação à afirmação de que não incide, no caso concreto, o Código de Defesa do Consumidor,  ..  (fl. 320, grifo meu).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
