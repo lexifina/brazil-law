@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 4.005-4.006):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ALEGADA INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. PEDIDO DE APLICAÇÃO DA ORIENTAÇÃO FIRMADA NO INQ 4.435/STF. SENTENÇA CONDENATÓRIA COM EMENDATIO LIBELLI PARA O DELITO PREVISTO NO ART. 1º, I, DO DECRETO LEI N. 201/1967 C/C ART. 29 DO CÓDIGO PENAL. GÊNESE DA IMPUTAÇÃO QUE REMONTA À PRÁTICA DE CAIXA DOIS. CONTEXTO ELEITORAL. CRIMES CONEXOS. COMPETÊNCIA DA JUSTIÇA ESPECIALIZADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Plenário do Supremo Tribunal Federal firmou a tese de que compete à Justiça Eleitoral processar e julgar os crimes eleitorais e os crimes comuns que lhes forem conexos. Assim, constatada a existência de possível conexão entre crime de natureza comum e crime de natureza eleitoral, a questão deverá ser dirimida perante a Justiça Especializada.
+2. No caso dos autos, o próprio Ministério Público se manifestou sobre a provável ligação dos fatos narrados na inicial com possível crime eleitoral, havendo, ainda, expressa menção na sentença condenatória no sentido de que há forte indício de que o desvio da quantia pública operacionalizado por meio do falso certame visava a angariar fundos para a campanha de reeleição do então prefeito do município de Palhoça/SC, sobremaneira, porque a licitação em questão teve início em fevereiro de ano eleitoral (2008 - ano da reeleição do prefeito), tendo sido efetuado o pagamento irregular em 18/9/2008, apenas duas semanas antes do pleito eleitoral. Dessa forma, constata-se a existência de contexto anterior, mais amplo e específico, cuja análise não pode ser subtraída da Justiça Eleitoral.
+3. A prática conhecida por "caixa dois", ou seja, o emprego de valores, fruto de práticas delitivas, para o financiamento de campanha eleitoral, evidentemente não declarados à Justiça Eleitoral, sugere o cometimento do crime descrito no art. 350 do Código Eleitoral.
+4. Os indícios da prática de atos em conexão com crime eleitoral impedem a manutenção do feito no âmbito da Justiça Comum, estadual ou federal, haja vista a prevalência da competência absoluta da Justiça Especializada, nos termos do art. 78, inciso IV, do Código de Processo Penal.
+5. Verificada a efetiva indicação de crime eleitoral de "caixa 2" no contexto dos crimes imputados na presente ação penal, não é possível subtrair da Justiça Eleitoral o seu exame, em atenção, sobremodo, ao principio do juiz natural assegurado pelas regras de competência.
+6. Agravo regimental desprovido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, LIII, da CF e aduz que há repercussão geral da matéria tratada.
+Nesse sentido, argumenta que (fl. 4.082):
+ ..  no caso dos autos, nunca existiram elementos mínimos e aptos a conduzirem o deslocamento da competência para a Justiça Especializada.
+Da análise da denúncia (e-STJ fls. 506-513), verifica-se que há, apenas, a imputação do crime previsto no art. 312, § 1º, c/c os arts. 29 e 327, § 1º, todos do CP, com a acusação da subtração dos cofres públicos da importância de R$ 127.954,84, mediante processo licitatório fraudulento. Não há, na exordial acusatória, qualquer imputação de crime eleitoral, tampouco existe referência sobre qual foi a destinação dos ganhos ilícitos.
+Isso, por si só, já demonstra que não há sentido no deslocamento de competência para a Justiça Eleitoral.
+Além disso, pondera (fl. 4.083):
+De fato, não obstante a produção de diversas provas ao longo da persecução penal, não sobrevieram elementos mínimos para eventual imputação de crime eleitoral. O suposto direcionamento dos valores auferidos ilicitamente para campanha eleitoral foi, tão somente, mera especulação, sem qualquer aprofundamento sobre a questão.
+A especulação exposta na sentença, indicada pela decisão recorrida, por exemplo, limita-se a afirmar que há uma certa possibilidade de os valores ganhos terem sido direcionados para campanha em razão unicamente da proximidade temporal da licitação fraudulenta com o período eleitoral. Ora, se o Ministério Público apresentasse uma denúncia com base nesse argumento/prova pela prática do crime previsto no art. 350 do Código Eleitoral, certamente esta seria de plano rejeitada pela manifesta ausência de justa causa. Afinal, o crime eleitoral só estaria materializado com a efetiva utilização dos numerários para fins eleitorais, do que, no caso sob análise, não há, ao menos, indícios de sua ocorrência.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 4.100-4.104 e 4.107-4.110.
+É o relatório.
+O STF firmou entendimento de que a discussão sobre eventual ofensa ao princípio do juiz natural, de cunho processual (na hipótese, a partir das regras de competência por conexão ou continência insculpidas no Código de Processo Penal), tem natureza infraconstitucional, não legitimando a interposição do recurso extraordinário.
+Com efeito, em tais casos, a afronta à Constituição da República, se existente, seria indireta ou reflexa, consoante tem decidido a Suprema Corte. A propósito:
+Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Violação do princípio do juiz natural. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional.
+2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE n. 1.237.234-AgR, relator Ministro Dias Toffoli - Presidente, Tribunal Pleno, julgado em 20/12/2019, DJe de 10/3/2020.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGAÇÃO DE QUEBRA DE IMPARCIALIDADE DE DESEMBARGADOR FEDERAL. ALEGAÇÃO DE AMIZADE ÍNTIMA COM JUIZ EXCEPTO. OFENSA REFLEXA. MATÉRIA FÁTICO-PROBATÓRIA. DESPROVIMENTO.
+1. A jurisprudência desta Suprema Corte assentou que a discussão acerca de eventual violação ao princípio do juiz natural, quando o exame da pretensão recursal depender de prévia análise de normas infraconstitucionais, não admite processamento extraordinário, eis que a ofensa, se existente, seria indireta à Constituição Federal.
+2. Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+3. Agravo regimental desprovido.
+(ARE n. 1.117.192-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 23/8/2019, DJe de 3/9/2019.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO PRINCÍPIO DO JUIZ NATURAL. ART. 5º, LIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
