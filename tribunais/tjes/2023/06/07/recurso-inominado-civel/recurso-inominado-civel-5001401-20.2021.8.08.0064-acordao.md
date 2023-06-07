@@ -1,0 +1,79 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001401-20.2021.8.08.0064
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EMPRESA GONTIJO DE TRANSPORTES LIMITADA
+RECORRIDO: JOSE ANTONIO COSTA
+RELATOR(A):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5001401-20.2021.8.08.0064
+
+Recorrente: EMPRESA GONTIJO DE TRANSPORTES LTDA
+
+Recorrido: JOSÉ ANTÔNIO COSTA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇOS. ABANDONO DE PASSAGEIRO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. AUTOR, RELATA QUE, NO DIA 03 DE AGOSTO DE 2021, COMPROU PASSAGENS DE ÔNIBUS COM A RÉ, SAÍDA DE IBATIBA COM DESTINO A MARATAÍZES, SENDO O HORÁRIO DE EMBARQUE ÀS 01H40. OCORRE QUE À 01H (UMA HORA) DA MANHÃ DO DIA 04 DE AGOSTO DE 2021, PERGUNTOU SE O VEÍCULO QUE HAVIA ESTACIONADO IA PARA MARATAÍZES, RECEBENDO RESPOSTA NEGATIVA. O AUTOR, JÁ DE IDADE PROVECTA, CONTINUOU A ESPERAR DURANTE O RESTO DA MADRUGADA. PROCUROU A AJUDA DE TERCEIROS E REGISTROU BOLETIM DE OCORRÊNCIA PARA QUE CONSEGUISSE OUTRA PASSAGEM. POR TAL RAZÃO, ENTROU EM JUÍZO PLEITEANDO A RESTITUIÇÃO DO VALOR DA PASSAGEM, R$ 46,00 (QUARENTA E SEIS REAIS), E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A REQUERIDA A RESTITUIÇÃO DE R$92,00 (NOVENTA E DOIS REAIS) E AO PAGAMENTO DE R$4.000,00 (QUATRO MIL REAIS) A TÍTULO DE DANOS MORAIS. DANO MORAL CONFIGURADO. TRATA-SE DE VIAGEM DE UMA PESSOA IDOSA, NA QUAL O EMBARQUE SE DARIA EM HORÁRIO TARDIO. O ABANDONO DO PASSAGEIRO NESSE CASO CAUSA DANOS QUE VÃO ALÉM DO MERO DISSABOR, RESTANDO CONFIGURADA A RESPONSABILIDADE DA EMPRESA. NOTADAMENTE EM FUNÇÃO DA EXPOSIÇÃO A RISCO PESSOAL E DA ATITUDE DE MENOSCABO EM RELAÇÃO AO CONSUMIDOR HIPERVULNERÁVEL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO, APENAS NO TOCANTE AO RESSARCIMENTO. O VALOR ESTIMADO À GUISA DE DANO MATERIAL NÃO É PASSÍVEL DE RESTITUIÇÃO EM DOBRO, POIS A COBRANÇA NÃO SE AMOLDA À PREVISÃO DO ART. 42, P.UN., DO CDC. A INADIMPLÊNCIA CONTRATUAL, POR PARTE DA TRANSPORTADORA, NÃO EQUIVALE À AUSÊNCIA DE CAUSA JURÍDICA PARA A COBRANÇA JÁ ANTERIORMENTE EFETIVADA. RESTITUIÇÃO DOS VALORES EM FORMA SIMPLES, NO VALOR DE R$46,00 (QUARENTA E SEIS REAIS). REFORMA DA SENTENÇA APENAS PARA ALTERAR O QUANTUM DA RESTITUIÇÃO, A TÍTULO DO DANO MATERIAL, ADEQUANDO-O PARA O VALOR DE R$46,00 (QUARENTA E SEIS REAIS). MANUTENÇÃO, QUANTO AO MAIS, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, POIS A PARTE RECORRENTE SAGROU-SE VENCEDORA NA INST NCIA RECURSAL EM, AO MENOS, PARTE DE SEU PLEITO (ART. 55, DA LEI 9.099/95 E PEDIDO DE UNIFORMIZAÇÃO E INTERPRETAÇÃO DE LEI NOS AUTOS Nº 0000642-35.2017.808.9101, DISPONIBILIZADO NO EDIARIO EM 12/04/2018).
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Pelo exposto,
+CONHEÇO
+do recurso inominado e
+DOU-LHE PARCIAL PROVIMENTO
+para manter a sentença por seus próprios fundamentos,
+retificando apenas o
+quantum
+da indenização do dano material, adequando-o para o valor de R$
+46,00 (quarenta e seis reais)
+.
+Sem custas e honorários.
+
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
