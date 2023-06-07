@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se da Petição n. 254.805/2023 (e-STJ, fls. 349/357) apresentada pelo ora interessado Gleuton Rodrigues de Azevedo, na qual a parte apresenta "(..) sua manifestação/contestação aos pedidos formulados pela suscitando nos presentes autos..".
+Sustenta o ora interessado que o presente incidente não pode ser admitido, haja a vista que "(..) inexiste qualquer conflito positivo entre o juízo da recuperação judicial e o juízo trabalhista, vez que o juízo da recuperação judicial reconheceu expressamente o encerramento da recuperação judicial e que os créditos trabalhistas deveriam ser pleiteados pelas vias ordinárias, indeferindo o pedido de habilitação de crédito" (fls. 349/350).
+Requer, ao final, "(..) que seja inadmitido o conflito de competência, ante a ausência de conflito entre os juízos suscitados, e, sucessivamente, no mérito, requer a improcedência do presente incidente, por ser medida de direito e justiça" ( fl. 353).
+É, no essencial, o relatório.
+Considerando que por meio da decisão de fls. 334/341, o Ministro Paulo de Tarso Sanseverino conheceu do presente incidente para declarar a competência do Juízo da recuperação judicial "(..) para quaisquer exames relativos a pagamento de débitos exclusivamente da suscitante e constrição do seu patrimônio, relativos à Execução n. 000300-14.2017.5.11.0008 movida por GLEUTON RODRIGUES DE AZEVEDO", tendo referido julgado sido publicado em 21/3/2023 (e-STJ. fl. 344), antes, portanto, da apresentação da manifestação/contestação apresentada pelo ora interessado por meio da Petição n. 254.805/2023, em 28/3/2023, sem cunho recursal, esse pedido não pode ser acolhido.
+Ante o exposto, nada a deferir em relação à Petição n. 254.805/2023.
+Intimem-se.
