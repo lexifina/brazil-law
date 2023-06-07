@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BANCO ITAUCARD S.A. em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, interposto com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo T ribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 120, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE FINANCIAMENTO DE VEÍCULO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. ART. 485, IV, DO CPC. APELO DO AUTOR. A notificação extrajudicial foi realizada no endereço constante no contrato, contudo o aviso de recebimento foi devolvido com a informação "ausente". Mora não comprovada. Artigos 2º, § 2º e 3ª do decreto-lei 911/69. Súmulas 72 STJ e 283 TJRJ. Precedentes. Apelante que não esgotou as diligências e os meios necessários para a devida ciência do devedor. Sentença que se mantém. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 144-149, e-STJ).
+Nas razões do recurso especial (fls. 156-162, e-STJ), o recorrente aponta violação aos artigos 2º, § 2º e 3º, do Decreto-Lei n. 911/1969; 113 e 422, do CC; 319 e 320, do CPC. Sustenta a validade da notificação extrajudicial encaminhada ao endereço do consumidor indicado no contrato e não entregue por motivo de ausência.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 171-173, e-STJ ), dando ensejo na interposição do presente agravo (fls. 177-180, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+1. Discute-se no apelo nobre "se, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente, ou não, o envio de notificação extrajudicial ao endereço do devedor indicado no instrumento contratual, dispensando-se, por conseguinte, que a assinatura do aviso de recebimento seja do próprio destinatário", controvérsia afetada pela Segunda Seção desta Corte à sistemática de recursos repetitivos (Tema 1132).
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator; II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se, que segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Sobre o tema: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Minis tro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Ante o exposto, determina-se a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1132) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
