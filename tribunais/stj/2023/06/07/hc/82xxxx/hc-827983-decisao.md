@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEIVID DE MEDEIROS BATISTA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento do Habeas Corpus n. 5029297-21.2023.8.24.0000.
+Extrai-se dos autos que ao paciente foi imputada a prática do crime previsto no art. 155, caput, c/c art. 61, inciso I, ambos do Código Penal (e-STJ, fls. 23/24), tendo sido a denúncia recebida (e-STJ, fl. 34).
+Em razão da negativa do pedido de absolvição sumária pelo juízo de primeira instância (e-STJ, fls. 70/72), impetrou a defesa habeas corpus junto ao Tribunal local, que denegou a ordem (e-STJ, fls. 116/120), nos termos da ementa seguinte:
+HABEAS CORPUS. CRIME DE FURTO (ART. 155, CAPUT, DO CÓDIGO PENAL). DECISÃO QUE INDEFERIU PEDIDO DE ABSOLVIÇÃO SUMÁRIA. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA PELA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE NO CASO CONCRETO. PACIENTE REINCIDENTE ESPECÍFICO EM CRIMES DOLOSOS. POSSUIDOR DE TRÊS CONDENAÇÕES TRANSITADAS EM JULGADO, UMA DELAS POR FURTO, OUTRA POR TRÁFICO DE DROGAS E UMA POR ROUBO CIRCUNSTANCIADO. DELITO PRATICADO QUANDO CUMPRIA PENA PRIVATIVA DE LIBERDADE EM MEIO ABERTO. ADEMAIS, PACIENTE QUE POSSUI PROCESSO CRIMINAL EM ANDAMENTO, ONDE LHE É IMPUTADO O DELITO DE FURTO QUALIFICADO. ELEMENTOS QUE DEMONSTRAM HABITUALIDADE NA PRÁTICA DE CRIMES CONTRA O PATRIMÔNIO E A PERICULOSIDADE SOCIAL DA AÇÃO. REQUISITOS NÃO PREENCHIDOS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+No presente writ (e-STJ, fls. 3/9), a impetrante sustenta flagrante ilegalidade praticada pelo Tribunal de origem ao manter a negativa de absolvição sumária do paciente.
+Nesse sentido, aduz ser impositiva a aplicação do princípio da insignificância, em razão do reconhecimento da atipicidade da conduta, diante do irrisório valor da res furtiva: uma peça de carne avaliada em R$ 63,23.
+Acrescenta, ainda, que mesmo que o Paciente seja reincidente, por se tratar de um furto de item de valor ínfimo não dá azo para continuar com a ação criminal (e-STJ, fl. 7).
+Diante disso, requer, liminarmente, a suspensão da ação criminal movida contra o paciente, até o julgamento final do writ. No mérito, pede a concessão da ordem para que seja reconhecida a ilegalidade do acórdão impugnado, para o fim de aplicar o princípio da insignificância, nos termos do artigo 386, III, do CPP.
+É o relatório. Decido.
+De início, o presente habeas corpus não compor ta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora e ao Juízo de primeiro grau, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
