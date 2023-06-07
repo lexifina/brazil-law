@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de WANDERSON DE SOUZA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.058178-7/000).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o 40, inciso V, ambos da Lei n. 11.343/2006 (e-STJ fls. 336/357).
+Irresignado, o paciente manifestou o desejo de recorrer, encontrando-se o seu recurso de apelação em processamento na origem, conforme as informações prestadas pelo Juízo sentenciante (e-STJ fls. 383/387).
+Paralelamente, a defesa impetrou habeas corpus no Tribunal a quo, o qual não foi conhecido (e-STJ fls. 394/397), em acórdão assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - FEITO QUE JÁ SE ENCONTRA EXTINTO COM RESOLUÇÃO DO MÉRITO - CABIMENTO DA APELAÇÃO - NÃO CONHECIMENTO. 1. O estreito limite de conhecimento do writ não se revela a seara adequada para a discussão de decisão, proferida por juiz singular, com força de definitiva, a qual desafia o recurso de apelação criminal previsto nos art. 593, I, do CPP. 2. Writ não conhecido.
+No presente mandamus (e-STJ fls. 3/16), os impetrantes sustentam que o paciente sofre constrangimento ilegal, pois ele foi injustamente condenado. Aduzem que não há prova suficiente acerca da autoria delitiva, tampouco da traficância, razão pela qual o paciente deve ser absolvido ou, subsidiariamente, a sua conduta desclassificada para uso de entorpecentes.
+Ao final, pedem a concessão da ordem para que o paciente seja absolvido ou, subsidiariamente, para que a sua conduta seja desclassificada para a inscrita no art. 28 da Lei n. 11.343/2006.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, as razões da presente impetração e respectivos pedidos não foram objeto de debate pela Corte local, que entendeu pela inadequação da via eleita, na medida em que as matérias serão apreciadas no recurso de apelação que encontra-se em processamento na origem. No ponto, cumpre destacar que o paciente manifestou o desejo de recorrer, de forma que a sua apelação encontra-se em processamento na origem, com a oportuna abertura de vista para a apresentação de razões pela defesa técnica e de contrarrazões pelo Ministério Público, conforme bem esclareceu o Juízo sentenciante às e-STJ fls. 383/387.
+Nesse contexto, destaca-se a inviabilidade de exame das teses suscitadas pelos impetrantes no âmbito desta Corte, sob pena de supressão de instância.
+Ademais, tendo sido proposto simultaneamente habeas corpus e recurso de apelação em face da mesma sentença, não há falar em constrangimento ilegal praticado pelo Tribunal de origem que não conhece do writ (PET no HC n. 528.210/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 29/10/2019).
+Em hipótese análogas , decidiu esta Corte:
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. REGIME PRISIONAL. WRIT INDEFERIDO LIMINARMENTE NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO DE APELAÇÃO PENDENTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, pois em consonância com a jurisprudência desta Corte.
+2. Tratando-se de irresignação per saltum não cabe a esta Corte a análise inaugural da matéria, sobretudo na pendência de recurso de apelação, expediente adequado para análise do tema relativo ao regime prisional.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento (RCD no HC 544.240/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 13/12/2019).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI DE DROGAS. INAPLICABILIDADE AO DELITO EM APREÇO. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. TEMAS NÃO DEBATIDOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+ ..
+2. Os temas relativos à alteração do regime prisional e à substituição da pena reclusiva por restritivas de direitos não foram apreciados na origem, por ser o habeas corpus via inadequada, sobretudo quando pendente de julgamento recurso de apelação, o que impede a análise da questão diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+3. Agravo regimental parcialmente conhecido e não provido (AgRg no HC 539.401/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 18/11/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
