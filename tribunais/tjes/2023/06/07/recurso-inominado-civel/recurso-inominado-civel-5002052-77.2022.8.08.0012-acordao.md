@@ -1,0 +1,81 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002052-77.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ROGERIO CLAUDIO DE ARAUJO
+RECORRIDO: COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO: 5002052-77.2022.8.08.0012
+
+RECORRENTE: ROGERIO CLAUDIO DE ARAUJO
+
+RECORRIDO: COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO CESAN
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: ADEMAR JOÃO BERMOND
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE COBRANÇA INDEVIDA DE TARIFA DE ESGOTO. AUSÊNCIA DE VEROSSIMILHANÇA ENTRE OS FATOS NARRADOS E O LASTRO PROBATÓRIO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO/VOTO
+
+Relatório dispensado (Enunciado 92 do FONAJE).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da Justiça Gratuita à recorrente, na forma do art. 99, “
+caput
+”, § 3º, do CPC, isentando-a do recolhimento de preparo.
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+NARRA O AUTOR, EM SÍNTESE, QUE RECEBEU COBRANÇAS INDEVIDAS POR PARTE DA REQUERIDA DESDE AGOSTO DE 2009, REFERENTE A SERVIÇO DE TRATAMENTO DE ESGOTO REGULARIZADO APENAS EM 2020, BEM COMO O PAGAMENTO EM DUPLICIDADE DAS FATURAS DE 2011, 2012 E 2018. PEDE RESTITUIÇÃO EM DOBRO DOS VALORES PAGOS INDEVIDAMENTE E INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL, DIANTE DA AUSÊNCIA DE PROVAS SUFICIENTES ACERCA DOS FATOS NARRADOS.
+RECURSO INOMINADO DA AUTORA.
+PUGNA PELA REFORMA DA SENTENÇA PARA QUE SEJA RECONHECIDA A COBRANÇA INDEVIDA E QUE SEJAM JULGADOS PROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+
+NÃO OBSTANTE A RELAÇÃO ENTRE AS PARTES SE TRATE DE RELAÇÃO DE CONSUMO, ADMITINDO-SE A INVERSÃO DO ÔNUS DA PROVA, ENTENDO QUE A ALEGAÇÃO AUTORAL DEVA SER MINIMAMENTE VEROSSÍMIL, NECESSITANDO DE UM MÍNIMO LASTRO PROBATÓRIO. OCORRE QUE, DAS PROVAS ACOSTADAS AOS AUTOS NÃO RESTOU DEMONSTRADA A EXISTÊNCIA DE NEXO CAUSAL ENTRE OS FATOS NARRADOS E A CONDUTA DA REQUERIDA. COMO BEM DESTACADO PELO JUÍZO DE PISO: “
+INEXISTENTE A COMPROVAÇÃO DE QUALQUER ATO ILÍCITO NA CONDUTA DA REQUERIDA OU FALHA NA PRESTAÇÃO DOS SEUS SERVIÇOS QUANTO AOS FATOS NARRADOS PELO AUTOR, A IMPROCEDÊNCIA DO PEDIDO SE IMPÕE.”
+ADEMAIS, COADUNO COM O JUÍZO DE PISO, NO SENTIDO DE QUE, AINDA QUE O AUTOR NÃO TENHA UTILIZADO O SERVIÇO, A TARIFA DE ESGOTO É DEVIDA, POIS ESTA INCIDE A PARTIR DA PRESTAÇÃO DOS SERVIÇOS
+.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+“A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9.099/95, SEM NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.”.
+
+DISPOSITIVO
+
+Em face do exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+. Condeno a recorrente ao pagamento de custas processuais e de honorários advocatícios no percentual de 10% (dez por cento) sobre o valor da causa, na ausência de verba condenatória, nos moldes do art. 55 da Lei 9.099/95, suspensa a exigibilidade por força do disposto no § 3º, do art. 98, do CPC/2015.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
