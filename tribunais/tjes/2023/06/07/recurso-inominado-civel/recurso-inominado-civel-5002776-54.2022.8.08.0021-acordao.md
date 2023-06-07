@@ -1,0 +1,71 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002776-54.2022.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARIA NILZA ARPINI
+RECORRIDO: VIA VAREJO S/A e outros
+RELATOR(A):GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5002776-54.2022.8.08.0021
+Origem
+: Juízo de Guarapari - Comarca da Capital - 1º Juizado Especial Cível
+RECORRENTE
+: MARIA NILZA ARPINI
+RECORRIDOS
+: VIA VAREJO S/A, SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA.
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+DIREITO DO CONSUMIDOR. PRODUTO COM DEFEITO. A PARTE AUTORA AFIRMA TER COMPRADO NA LOJA DA 1ª RÉ (VIA VAREJO S/A)
+UMA TV 55” UHD 4K CRISTAL SAMSUNG NO VALOR DE R$ 3.099,00 (TRÊS MIL E NOVENTA E NOVE REAIS). ALEGA QUE O APARELHO APRESENTOU DEFEITO ALGUNS DIAS APÓS A SUA INSTALAÇÃO, MOTIVO PELO QUAL FOI ENTREGUE À RÉ, POR DUAS VEZES, PARA REPARO. APÓS DUAS TENTATIVAS FRUSTRADAS DE CONSERTO DA TV, A PARTE AUTORA SE DIRIGIU AO PROCON A FIM DE SOLUCIONAR O CONFLITO, TENDO EM VISTA QUE O PRODUTO AINDA ESTAVA COM RÉ. NO ENTANTO, SEM ÊXITO. ASSIM, PUGNA PELA CONDENAÇÃO DAS RÉS EM DANOS MATERIAIS E MORAIS. A SENTENÇA DE PISO ACOLHEU PARCIALMENTE A PRETENSÃO AUTORAL, CONDENANDO AS RÉS, SOLIDARIAMENTE, AO PAGAMENTO DE R$ 3.099,00 A TÍTULO DE DANOS MATERIAIS E R$ 2.000,00 A TÍTULO DE DANOS MORAIS. INCONFORMADA COM A SENTENÇA, A PARTE AUTORA INTERPÔS RECURSO INOMINADO A FIM DE MAJORAR O VALOR DA CONDENAÇÃO INDENIZATÓRIA. DA PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL QUE RESTOU LEVANTADA NAS CONTRARRAZÕES. NÃO OCORRÊNCIA. APESAR DA REPETIÇÃO DE ARGUMENTOS LANÇADOS NA PEÇA INICIAL, VÊ-SE NO RECURSO A IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA OBJURGADA. DO MÉRITO. EM RELAÇÃO AO VALOR ARBITRADO PELO JUÍZO
+A QUO
+A TÍTULO DE DANOS MORAIS, AO ANALISAR OS AUTOS, TEM-SE QUE O
+QUANTUM
+, NO PATAMAR DE R$ 2.000,00 (DOIS MIL REAIS), ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E A EXTENSÃO DO DANO. PORTANTO, NÃO É CASO DE QUALQUER ALTERAÇÃO DA REFERIDA CONDENAÇÃO, DEVENDO SER MANTIDO O VALOR DA VERBA INDENIZATÓRIA POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DE RAZOABILIDADE E PROPORCIONALIDADE.
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL
+(ART. 55, 2ª PARTE, DA LEI DOS JUIZADOS ESPECIAIS), CONDENA-SE A PARTE AUTORA NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO
+ESTES FIXADOS NO IMPORTE DE 20% SOBRE O VALOR DA CONDENAÇÃO.
+SUSPENDE-SE
+, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
