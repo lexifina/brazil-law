@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Sérgio Ricardo Boni contra decisão da Presidência do Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial, pelas seguintes razões: (I) aplicação da Súmula 211/STJ; (II) incidência da Súmula 7/STJ; (III) fundamentação deficiente; e (IV) ausência de comprovação adequada do dissídio jurisprudencial.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não provimento do agravo (fls. 493/501).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o inconformismo sequer ultrapassa a barreira do conhecimento.
+Note -se que nas razões do agravo em recurso especial, a parte ora agravante reprisa as teses apresentadas no recurso especial interposto às fls. 308/328, deixando de impugnar, de modo específico, os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo nobre, a saber, a incidência das Súmulas 7 e 211 do STJ, bem como a fundamentação deficiente do apelo nobre, em razão dos "argumentos expendidos pela parte agravante insuficientes para infirmar as conclusões do acórdão recorrido" (fl. 450).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
