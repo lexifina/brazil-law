@@ -1,0 +1,79 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5003538-97.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FRANCIELE ALMEIDA SANTOS DA CUNHA
+RECORRIDO: ASSOCIACAO VITORIANA DE ENSINO SUPERIOR-AVIES e outros
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO: 5003538-97.2022.8.08.0012
+
+RECORRENTE: FRANCIELI ALMEIDA SANTOS
+
+RECORRIDO: ASSOCIACAO VITORIANA DE ENSINO SUPERIOR - AVIES e VALENÇA E ASSOCIADOS RECUPERACAO DE CREDITO LTDA - EPP
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: LUCIANO COSTA BRAGATTO
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. INDENIZATÓRIA. ALEGAÇÃO DE NEGATIVAÇÃO INDEVIDA. ACORDO PACTUADO ENTRE AS PARTES. INADIMPLEMENTO. AUSÊNCIA DE VEROSSIMILHANÇA ENTRE OS FATOS NARRADOS E O LASTRO PROBATÓRIO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO/VOTO
+
+Relatório dispensado (Enunciado 92 do FONAJE).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da Justiça Gratuita à recorrente, na forma do art. 99, “
+caput
+”, § 3º, do CPC, isentando-a do recolhimento de preparo.
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL.
+AÇÃO INDENIZATÓRIA.
+NARRA O AUTOR, EM SÍNTESE, QUE TEVE SEU NOME NEGATIVADO PELA REQUERIDA AVIES, EM VIRTUDE DE DUAS COBRANÇAS DE R$ 394,67. CONTUDO, AFIRMA QUE REALIZOU ACORDO PARA ADIMPLEMENTO DOS DÉBITOS QUE POSSUÍA COM A AVIES, POR INTERMÉDIO DA CORRÉ VALÊNCIA, EFETUANDO O PAGAMENTO EM 16/11/2021, NO VALOR DE R$ 169,00. DIANTE DISSO, POSTULA A EXCLUSÃO DA RESTRIÇÃO E INDENIZAÇÃO POR DANOS MORAIS.
+SENTENÇA JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL, DIANTE DA AUSÊNCIA DE PROVAS SUFICIENTES ACERCA DOS FATOS NARRADOS.
+RECURSO INOMINADO DA AUTORA.
+PUGNA PELA REFORMA DA SENTENÇA PARA QUE SEJA RECONHECIDA A COBRANÇA INDEVIDA E QUE SEJAM JULGADOS PROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+
+NÃO OBSTANTE A RELAÇÃO ENTRE AS PARTES SE TRATE DE RELAÇÃO DE CONSUMO, ADMITINDO-SE A INVERSÃO DO ÔNUS DA PROVA, ENTENDO QUE A ALEGAÇÃO AUTORAL DEVA SER MINIMAMENTE VEROSSÍMIL, NECESSITANDO DE UM MÍNIMO LASTRO PROBATÓRIO. OCORRE QUE, DAS PROVAS ACOSTADAS AOS AUTOS NÃO RESTOU DEMONSTRADA A EXISTÊNCIA DE NEXO CAUSAL ENTRE OS FATOS NARRADOS E A CONDUTA DA REQUERIDA. COMO BEM DESTACADO PELO JUÍZO DE PISO:
+“OCORRE QUE A AUTORA NÃO PROVA A FORMALIZAÇÃO DE ACORDO PARA QUITAÇÃO DA DÍVIDA NEGATIVADA, COMO ADUZIDO NA INICIAL, E, AO QUE ME PARECE, O COMPROVANTE DE PAGAMENTO APRESENTADO NO ID. 12778335, NO VALOR DE R$ 169,00, DIZ RESPEITO À DÉBITO DIVERSO, VENCIDO EM 15/11/2021. ENTÃO, NÃO RESTANDO EVIDENCIADO QUE O PAGAMENTO EFETUADO SE CORRELACIONA AOS DÉBITOS NEGATIVADOS, NÃO HÁ COMO RECONHECER A IRREGULARIDADE DO APONTAMENTO E, POR CONSEGUINTE, A CONDUTA ILÍCITA DOS RÉUS”.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+“A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9.099/95, SEM NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.”.
+
+DISPOSITIVO
+
+Em face do exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+. Condeno a recorrente ao pagamento de custas processuais e de honorários advocatícios no percentual de 10% (dez por cento) sobre o valor da causa, na ausência de verba condenatória, nos moldes do art. 55 da Lei 9.099/95, suspensa a exigibilidade por força do disposto no § 3º, do art. 98, do CPC/2015.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
