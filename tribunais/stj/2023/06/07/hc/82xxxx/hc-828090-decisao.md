@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de MARCOS ANTONIO SIQUEIRA DA SILVA, condenado pela prática do delito descrito no art. 157, § 4º, I, do Código Penal, à pena de 2 anos, 4 meses e 24 dias de reclusão, mais 12 dias-multa (Processo n. 1528436-21.2022.8.26.0228, da 19ª Vara Criminal da comarca de São Paulo/SP).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que negou provimento ao apelo defensivo (fls. 51/56).
+Requer-se, em liminar e no mérito, a concessão da ordem para que seja determinada a fixação de regime mais brando. Para tanto, argumenta-se, em síntese, o seguinte (fl. 15):
+A pena aplicada ao paciente foi bem inferior a 4 anos de reclusão, o que permite o início do seu cumprimento no regime semiaberto, frisando-se que todas as circunstâncias judiciais foram consideradas positivamente, tanto que a pena base foi fixada no mínimo. Além disso, estamos diante de crime cometido sem violência ou grave ameaça à pessoa: crime de furto.
+É o relatório.
+No caso, existe constrangimento ilegal passível de ser reparado por meio da via eleita e imediatamente.
+Com efeito, não há motivação suficiente para manter o regime fechado para início do cumprimento da pena inferior a 4 anos de reclusão. Afinal, nos termos do § 3º do art. 33 do Código Penal, é possível a fixação de regime inicial de cumprimento de pena mais gravoso que aquele previsto para o quantum da sanção instituída pela sentença condenatória, desde que presentes motivação idônea a autorizá-lo. No entanto, observa-se que, na hipótese em análise, embora multirreincidente, as circunstâncias judiciais do art. 59 do Código Penal foram todas favoráveis ao paciente, restando a pena final fixada em 2 anos, 4 meses e 24 dias de reclusão. Assim, ele faz jus ao regime semiaberto de cumprimento de pena.
+Eis o que a Corte paulista disse a respeito desse ponto (fls. 55/56 - grifo nosso):
+A pena-base foi fixada no mínimo legal a míngua de maus antecedentes, em 2 anos de reclusão e 10 dias-multa em seu valor mínimo unitário.
+Na segunda fase da dosimetria, ante a circunstância agravante da multirreincidência específica, ainda que maior acréscimo fosse recomendável, fica mantido o aumento da pena em 1/5, ante o conformismo do representante do Ministério Público, resultando em 2 anos, 4 meses e 24 dias de reclusão, e 12 dias-multa em seu valor mínio unitário, de forma definitiva, porque inexistentes causas de aumento ou de diminuição.
+Por derradeiro, o regime inicial fechado é o único adequado à vida pregressa do apelante.
+Conquanto não se desconheça o teor da Súmula 269 do Superior Tribunal de Justiça, as circunstâncias judiciais são desfavoráveis ao acusado, pois as condenações penais anteriores não bastaram a que ele se emendasse, circunstâncias que também obstam a concessão de quaisquer benesses processuais.
+Nesse contexto, devem ser aplicados, à hipótese em apreço, os enunciados das Súmulas 269 e 440/STJ. Afinal, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. Até porque, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Pelo exposto, com base nas súmulas, concedo a ordem para fixar o regime inicial semiaberto para cumprimento da pena imposta ao paciente no Processo n. 1528436-21.2022.8.26.0228, da 19ª Vara Criminal da comarca de São Paulo/SP.
+Comunique-se o teor desta decisão com urgência também ao Juízo de Direito da Unidade Regional do Departamento Estadual de Execução Criminal DEECRIM 1ª RAJ, na comarca de São Paulo, a fim de que as devidas providências sejam adotadas no PEC n. 0005845-84.2023.8.26.0041.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO À PENA INFERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU MULTIRREINCIDENTE. IMPOSIÇÃO DO REGIME FECHADO. IMPOSSIBILIDADE. SÚMULA 269/STJ. GRAVIDADE ABSTRATA DO CRIME. SÚMULA 440/STJ. CONSTRANGIMENTO ILEGAL VERIFICADO.
+Ordem concedida para fixar o regime inicial semiaberto.
