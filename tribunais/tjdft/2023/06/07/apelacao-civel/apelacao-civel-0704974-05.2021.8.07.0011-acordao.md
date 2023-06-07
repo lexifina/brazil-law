@@ -1,0 +1,334 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0704974-05.2021.8.07.0011APELANTE(S)LB10 INVESTIMENTOS IMOBILIARIOS LTDA (EM RECUPERAÇÃO JUDICIAL) e BANCO DO BRASIL S/AAPELADO(S)CARLOS ALBERTO RODRIGUES TABANEZRelatoraDesembargadora LUCIMEIRE MARIA DA SILVA
+ Acórdão Nº1709668
+
+EMENTA
+
+APELAÇÕES CÍVEIS. CONSUMIDOR. ILEGITIMIDADE PASSIVA. CREDOR HIPOTECÁRIO. PRELIMINAR REJEITADA. OBRIGAÇÃO DE FAZER. BAIXA DA HIPÓTECA. SÚMULA 308 DO STJ. INCIDÊNCIA. IMÓVEIS COMERCIAIS. SOLIDARIEDADE. CREDOR HIPOTECÁRIO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. EQUIDADE. INAPLICABILIDADE. VALOR DA CAUSA. PATAMAR MÍNIMO. SENTENÇA MANTIDA.
+
+1. O credor hipotecário tem legitimidade para figurar no polo passivo da ação de obrigação de fazer que visa a obter a baixa do gravame incidente sobre imóvel, considerando que a garantia foi ofertada em favor da instituição financeira.
+
+2. A Súmula 308 do STJ orienta que “a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel”. De acordo com a jurisprudência do Superior Tribunal de Justiça, referido enunciado não se aplica a imóvel com destinação comercial.
+
+3. Todavia, existindo no contrato firmado entre as partes cláusula expressa na qual a construtora assume a obrigação de requerer o cancelamento da hipoteca após a quitação do preço, tal disposição deve prevalecer para todos os efeitos.
+
+4. As alegações de que o cancelamento da hipoteca sem a respectiva contraprestação dos valores das garantias seria medida que desrespeita disposições contratuais e de que a instituição financeira não teria anuído com a relação jurídica entre a construtora e o adquirente dos imóveis, o que afrontaria a disposição contida na Lei n° 4.591/64, dizem respeito à relação jurídica existente entre a construtora e o agente financeiro, não podendo ser impostas ao consumidor, adquirente da unidade.
+
+5. Diante da prova inequívoca de que houve a quitação do valor dos imóveis, deve ser assegurado ao adquirente o direito ao cancelamento da hipoteca incidente sobre os bens.
+
+6. Há solidariedade do banco na hipótese em que se discute o dever de baixa de gravame oriundo de relação jurídica entre ele e a construtora, pendente sobre o registro de imóveis devidamente quitados pelo consumidor, porquanto tal medida pressupõe a atuação de todos os fornecedores que integram a cadeia de consumo.
+
+7. O acolhimento do pedido autoral, com o reconhecimento da obrigação de fazer devida por ambos os réus na demanda, atrai a incidência do princípio da sucumbência, não havendo como se aplicar o princípio da causalidade.
+
+8. Diante da existência de uma das bases de cálculo previstas no art. 85, § 2º, do CPC, qual seja, o valor da causa, os honorários advocatícios não devem ser fixados com fundamento na equidade, e, sim, nos parâmetros definidos no art. 85, § 2º, do CPC.
+
+9. Somente se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo, não verificado no caso em análise. Tema 1076 do c. STJ.
+
+10. Verificada a baixa complexidade da causa e a curta duração da demanda, os honorários devem ser arbitrados no patamar mínimo, em consonância com os critérios previstos no art. 85, § 2º, do CPC.
+
+11. Preliminar rejeitada. Apelações conhecidas e não providas.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUCIMEIRE MARIA DA SILVA - Relatora, FERNANDO HABIBE - 1º Vogal e ARNOLDO CAMANHO - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: REJEITAR A PRELIMINAR. NEGAR PROVIMENTO AOS RECURSOS DOS RÉUS. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Junho de 2023
+
+Desembargadora LUCIMEIRE MARIA DA SILVARelatora
+
+RELATÓRIO
+
+Trata-se de apelações cíveis interpostas pelo BANCO DO BRASIL S/A e por LB10 INVESTIMENTOS IMOBILIÁRIOS LTDA, em face da r. sentença (ID 36317315) que, nos autos da ação de obrigação de fazer movida por CARLOS ALBERTO RODRIGUES TABANEZ em desfavor dos apelantes, julgou procedente o pedido inicial, nos seguintes termos (ID 36317315 – Pág. 2):
+
+“ANTE O EXPOSTO, dirimindo o mérito da demanda, julgo procedente o pedido (CPC, artigo 487, inciso I). Torno insubsistente o gravame hipotecário que pesa sobre os dois imóveis “sub judice”, cujas certidões das matrículas se divisam nos ids 109770539 e 109770539. Dê-se ciência, para averbação/registro, deste decisório à Serventia de Registro de Imóveis concernente, devendo os réus suportarem, à razão de 50% para cada um, com eventuais emolumentos. Arcarão os réus, à razão de 50% (cinquenta por cento) para cada um, com custas processuais e honorários advocatícios do patrono do autor, os quais arbitro em 10% (dez por cento) do valor atualizado atribuído à causa. P.R.I.C.”
+
+Nas razões recursais, o BANCO DO BRASIL S/A (ID 36317319 repetido no ID 36317320) sustenta, preliminarmente, a necessidade de concessão de efeito suspensivo ao recurso.
+
+Alega não ser parte legítima para figurar no polo passivo da presente ação, porquanto o negócio jurídico foi firmado apenas entre o autor e a empresa LB10 Investimentos Imobiliários, tendo a instituição financeira se limitado a financiar a incorporação imobiliária realizada. Por tal razão, requer a extinção do processo, sem resolução do mérito, com fulcro no art. 485, inciso VI, do CPC.
+
+Afirma que não restou configurada falha na prestação do serviço pelo Banco e que a hipoteca tem natureza jurídica de direito real sobre coisa alheia, de modo que o cancelamento dela sem a respectiva contraprestação dos valores das garantias é medida que desrespeita disposições contratuais.
+
+Destaca a ausência de anuência do Banco do Brasil na relação jurídica entre a construtora e o adquirente dos imóveis, o que afronta a disposição contida na Lei n° 4.591/64 e implica que o ajuste realizado entre eles não afeta o direito de garantia do banco.
+
+Aduz que não deu causa ao ajuizamento da ação, tendo agido no exercício do seu direito, razão pela qual a condenação aos ônus de sucumbência deve ser afastada.
+
+Requer a reforma da r. sentença, nos termos da fundamentação apresentada.
+
+Nas razões recursais de LB10 INVESTIMENTOS IMOBILIÁRIOS LTDA (ID 36317324), essa se insurge tão somente quanto aos honorários de sucumbência que foram estabelecidos na r. sentença.
+
+Defende a necessidade de fixação dos honorários sucumbenciais com base no §8° do art. 85 do CPC, ao argumento de que a demanda seria de baixa complexidade e que tramitou por curto período, de modo que o valor fixado na r. sentença seria desarrazoado e desproporcional.
+
+Pugna pela reforma da r. sentença, para que os honorários de sucumbência sejam arbitrados por equidade, com fulcro no §8° do art. 85 do CPC.
+
+Preparo comprovado pelo Banco do Brasil, nos IDs 36317321 e 36317322, e pela LB10 Investimentos Imobiliários, nos IDs 36317325 e 36317326.
+
+Contrarrazões do autor ao recurso do Banco do Brasil (ID 36317333) e ao recurso da LB10 Investimentos Imobiliários (ID 36317334), ambas pelo não provimento dos recursos.
+
+Diante da notícia nos autos de que haveria a possibilidade de acordo entre as partes, esta Relatora concedeu prazo para que elas realizassem as tratativas necessárias à autocomposição (ID 37129403). Contudo, no ID 37933204, o autor manifestou a impossibilidade de acordo e requereu o regular prosseguimento do feito.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - Relatora
+
+Primeiramente, no que tange ao pedido deduzido pelo Banco do Brasil, com vistas à concessão de efeito suspensivo ao recurso, nada a prover, porquanto esse efeito decorre da própria lei, nos termos do art. 1.012 do CPC.
+
+Presentes os pressupostos de admissibilidade, conheço das apelações no duplo efeito, nos termos do art. 1.012, caput, do CPC.
+
+Analisam-se os recursos separadamente.
+
+DO RECURSO DO BANCO DO BRASIL
+
+Nas razões recursais (ID 36317319 repetido no ID 36317320), o Banco do Brasil alega não ser parte legítima para figurar no polo passivo da presente ação, porquanto o negócio jurídico foi firmado apenas entre o autor e a empresa LB10 Investimentos Imobiliários, tendo a instituição financeira se limitado a financiar a incorporação imobiliária realizada. Por tal razão, requer a extinção do processo, sem resolução do mérito, com fulcro no art. 485, inciso VI, do CPC.
+
+Afirma que não restou configurada falha na prestação do serviço pelo Banco e que a hipoteca tem natureza jurídica de direito real sobre coisa alheia, de modo que o cancelamento dela sem a respectiva contraprestação dos valores das garantias é medida que desrespeita disposições contratuais.
+
+Destaca a ausência de anuência do Banco do Brasil na relação jurídica entre a construtora e o adquirente dos imóveis, o que afronta a disposição contida na Lei n° 4.591/64 e implica que o ajuste realizado entre eles não afeta o direito de garantia do banco.
+
+Aduz que não deu causa ao ajuizamento da ação, tendo agido no exercício do seu direito, razão pela qual a condenação aos ônus de sucumbência deve ser afastada.
+
+Todavia, razão não lhe assiste.
+
+Da Preliminar de Ilegitimidade Passiva
+
+Com fundamento na teoria da asserção, adotada pelo ordenamento jurídico brasileiro, a análise da legitimidade das partes deve ser feita a partir dos elementos contidos na petição inicial.
+
+Na hipótese em tela, os fatos narrados na exordial permitem concluir que o Banco do Brasil afigura-se o credor da hipoteca cujo cancelamento o autor pleiteia nos autos, de modo que se observa a pertinência da instituição financeira com a lide, hábil a possibilitar que ela figure no polo passivo da demanda.
+
+No mesmo sentido, eis julgado deste eg. TJDFT:
+
+“APELAÇÃO CÍVEL. AGRAVO INTERNO NA DECISÃO MONOCRÁTICA DE MÉRITO. ILEGITIMIDADE PASSIVA. PRELIMINAR REJEITADA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. UNIDADE IMOBILIÁRIA RESIDENCIAL. GRAVAME HIPOTECÁRIO. QUITAÇÃO DO PREÇO. BAIXA. SÚMULA 308/STJ. HONORÁRIOS ADVOCATÍCIOS. 1. Não há falar em desrespeito ao princípio da dialeticidade, como suscitado em contrarrazões, porque o agravante indicou as razões de seu inconformismo, trazendo impugnação específica e pedido de reforma da decisão. 2. As condições da ação devem ser analisadas pelos fatos narrados, conforme a teoria da asserção. O credor hipotecário, cujo gravame instituído sobre imóvel em construção foi efetivado em seu benefício, é legitimado para figurar no polo passivo de ação ajuizada pelos autores adquirentes objetivando o levantamento do gravame. 3. Verificado suficientemente o pagamento do preço da unidade imobiliária que permanece gravada com hipoteca, embora sem eficácia em relação ao adquirente do bem, cabível a baixa do registro, tendo em vista o enunciado da Súmula 308 do STJ. 4. Os honorários advocatícios e as demais despesas processuais têm disciplina no art. 82 e seguintes do CPC, bem como pelo princípio da causalidade, respondendo o vencido ou, quando ausente sucumbência, aquele que deu causa ao processo. Logo, constatado que o réu-agravante está em mora com os autores-agravados por não ter providenciado a devida baixa no gravame que recaiu sobre o imóvel por eles adquirido, dando causa a presente ação e sucumbindo, deve arcar com os honorários advocatícios. 5. Agravo interno conhecido e não provido.” (Acórdão 1429844, 07160439820208070001, Relator: FÁBIO EDUARDO MARQUES,  7ª Turma Cível, data de julgamento: 15/6/2022, publicado no PJe: 27/6/2022. Pág.:  Sem Página Cadastrada – grifou-se.)
+
+Rejeito, pois, a preliminar.
+
+Do Mérito
+
+No caso vertente, o autor ajuizou ação de obrigação de fazer, visando a compelir os réus a promoverem a baixa da hipoteca incidente sobre dois imóveis adquiridos por ele junto à construtora ré, descritos como Salas n° 518 e 807 do Lote 10 da Avenida Pau Brasil, no empreendimento denominado “Le Quartier Águas Claras Gallerie & Bureau”, em Águas Claras/DF.
+
+Na escritura pública de compra e venda dos imóveis, firmada entre o autor e a empresa LB10 Investimentos Imobiliários em 21/2/2020, constaram, na Cláusula Terceira, disposições relativas à existência de hipoteca sobre as citadas unidades imobiliárias, atestando o conhecimento pelo comprador da existência do gravame, bem como o comprometimento expresso da vendedora de providenciar a baixa dele em até 180 (cento e oitenta) dias a contar da data da escritura de compra e venda, in verbis (ID 36317202 – Pág. 2):
+
+“3. CLÁUSULA TERCEIRA – DO GRAVAME REAL HIPOTECÁRIO – Que o(s) imóvel(eis) ora transacionado(s) encontra(m)-se gravado(s) com hipoteca, de primeiro grau, constituída em favor do Banco do Brasil S/A, consoante se vê do registro R-4, Av. 6 e Av. 7, de sua(s) respectiva(s) matrícula(s), de cujo teor o(a, s) comprador(a, es) manifesta(m) expressamente conhecer, obrigando-se ela, vendedora, a providenciar junto ao credor a liberação do gravame real retromencionado bem como a sua respectiva averbação de baixa no competente serviço registral imobiliário, em até 180 (cento e oitenta) dias a contar da data da presente escritura.” (grifou-se)
+
+Afigura-se incontroverso o fato de que o autor adimpliu integralmente o preço ajustado no contrato, o que foi comprovado também nos documentos de IDs 36317290 e 36317291.
+
+Por outro lado, na matrícula dos imóveis, observa-se que, em 6/12/2021, quando já ultrapassado em muito os 180 dias previstos no instrumento que formalizou o negócio jurídico, o gravame incidente sobre os bens ainda permanecia hígido (IDs 36317260 e 36317261).
+
+Nesse contexto, reputo que deve ser mantida a conclusão adotada pelo d. magistrado de origem na r. sentença, que julgou procedente o pedido autoral.
+
+Com efeito, de acordo com a Súmula 308 do Superior Tribunal de Justiça, “a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel”.
+
+Em que pese, na hipótese dos autos, os imóveis sejam salas comerciais, em uma análise detida da jurisprudência, verifica-se que a situação versada no presente apelo não é nova no âmbito desta Corte, que registra precedentes quanto à aplicação do referido enunciado a casos similares, envolvendo contratos que têm por objeto imóvel com destinação comercial.
+
+A propósito, confiram-se os seguintes arestos:
+
+“APELAÇÃO CÍVEL. DIREITOS REAIS DE GARANTIA. HIPOTECA. IMÓVEL COMERCIAL. PAGAMENTO. SÚMULA 308 DO STJ. APLICABILIDADE. HONORÁRIOS DE SUCUMBÊNCIA. DANOS MORAIS. INOCORRÊNCIA.
+
+1. A hipoteca firmada entre a construtora e a instituição financeira, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel, conforme Súmula nº 308 do STJ, entendimento que também deve ser aplicado na hipótese de imóvel com destinação comercial.
+
+2. A fixação de honorários de sucumbência por apreciação equitativa apenas encontra fundamento nas específicas hipóteses do artigo 85, §8° do CPC.
+
+3. O descumprimento de cláusula contratual que prevê a obrigatoriedade de cancelamento do gravame hipotecário, por si só, não gera ofensa aos direitos da personalidade.
+
+4. Negou-se provimento aos apelos.”
+
+(Acórdão 1198568, 07278274320188070001, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 28/8/2019, publicado no DJE: 13/9/2019. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+“EMBARGOS DE DECLARAÇÃO. DIREITO CIVIL. DIREITO DO CONSUMIDOR. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. AQUISIÇÃO DE IMÓVEL. QUITAÇÃO DO PREÇO. EXISTÊNCIA DE HIPOTECA. SÚMULA Nº 308 DO STJ. IMÓVEL COMERCIAL. APLICABILIDADE. OMISSÃO. INEXISTENTE. REEXAME DA MATÉRIA. INVIÁVEL. RECURSO CONHECIDO E NÃO PROVIDO. ACÓRDÃO MANTIDO.
+
+1. Inexiste omissão, pois o acórdão analisou todas as alegações postas.
+
+2. No caso específico dos autos, o acórdão, de forma clara, concluiu que, que, ainda que se trate de unidade imobiliária comercial, não integrante do Sistema Financeiro de Habitação, é aplicável o entendimento esposado na Súmula nº 308 do STJ quanto à ineficácia da hipoteca, sem qualquer distinção, haja vista que a finalidade precípua do enunciado é a proteção do terceiro que adquire o imóvel de boa-fé e cumpre o contrato de compra e venda.
+
+3. A divergência com alguns posicionamentos dos Tribunais Superiores e até mesmo do próprio Tribunal prolator do acórdão não autoriza a alteração do julgado em sede de Embargos de Declaração, considerando a ausência de caráter vinculante dos mesmos.
+
+4. Pretensão de reexame da matéria foge à estreita via dos embargos declaratórios.
+
+5. Ausentes os vícios previstos no art. 1.022 do CPC, necessária a rejeição dos Embargos de Declaração, ainda que para fins de prequestionamento.
+
+6. Recurso conhecido e não provido. Acórdão mantido.”  (Acórdão 1293934, 07393805320198070001, Relator: ROMULO DE ARAUJO MENDES, 1ª Turma Cível, data de julgamento: 21/10/2020, publicado no DJE: 5/11/2020. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+“CIVIL. PROCESSO CIVIL. CONSUMIDOR. CONTRATO DE COMPRA E VENDA DE IMÓVEL. QUITAÇÃO. ATRASO NA BAIXA DA HIPOTECA. RESPONSABILIDADE DA VENDEDORA. NATUREZA DO IMÓVEL. COMERCIAL OU RESIDENCIAL. INDIFERENÇA. HONORÁRIOS. SUCUMBÊNCIA. SOLIDARIEDADE. EXISTÊNCIA. SENTENÇA MANTIDA.
+
+1. Constitui obrigação da vendedora e do ente financeiro providenciar, em prazo razoável, o cancelamento da hipoteca sobre unidade imobiliária quitada pelo adquirente.
+
+2. Curial que, quitado o preço da unidade imobiliária, eventual gravame sobre o bem deve ser substituído, não importando a natureza do imóvel, se residencial, comercial ou mista. Essa circunstância não tem o poder de alterar o direito do comprador, mormente quando este sequer tem relação jurídica direta com o apelante.
+
+3. Ainda que a hipoteca seja garantida por cédula de crédito bancário, regida pela Lei nº 10.931/2004, necessário acrescentar que tal normativo somente se aplica ao agente financeiro e a construtora/incorporadora, não alcançando o comprador da unidade imobiliária.
+
+4. Mesmo não havendo relação negocial entre o autor e o banco que instituiu o gravame hipotecário sobre o imóvel alienado pela construtora/incorporadora, a instituição financeira é responsável solidária no tocante à exigibilidade da verba sucumbencial.
+
+5. Recurso conhecido e improvido.”
+
+(Acórdão 1376939, 07037150520218070001, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 13/10/2021, publicado no DJE: 3/11/2021. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+“APELAÇÃO E RECURSO ADESIVO. PRELIMINARES. INCOMPETÊNCIA DO JUÍZO. CLÁUSULA DE ELEIÇÃO DE FORO. ILEGITIMIDADE PASSIVA. CREDOR HIPOTECÁRIO. REJEIÇÃO. OBRIGAÇÃO DE FAZER. PROMESSA DE COMPRA E VENDA. QUITAÇÃO DO PREÇO. OUTORGA DE ESCRITURA PÚBLICA. GRAVAME. LIBERAÇÃO DO ÔNUS. PREVISÃO CONTRATUAL. SÚMULA 308 DO STJ. INCIDÊNCIA. HONORÁRIOS. EQUIDADE. NATUREZA DECLARATÓRIA. POSSIBILIDADE. QUANTUM. REDUÇÃO.
+
+1. Rejeita-se a preliminar de incompetência do juízo ante a propositura da demanda em foro previsto na cláusula de eleição ajustada pelas partes no contrato.
+
+2. O credor hipotecário é parte legítima para figurar no polo passivo da ação que objetiva o cancelamento da hipoteca incidente sobre o imóvel.
+
+3. A quitação da integralidade do preço do imóvel pelo comprador acarreta a obrigação da promitente vendedora de desconstituir o gravame, conforme previsão contratual.
+
+4. A hipoteca firmada entre a construtora e a instituição financeira, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel. STJ, Súmula nº 308. Esse entendimento, inclusive, pode ser estendido no caso de imóveis com destinação comercial, já que o terceiro adquirente de boa-fé, que fomenta os negócios tanto do financiador (credor hipotecário) quanto da construtora não pode ser prejudicado por relação jurídica diversa da que aderiu.
+
+5. A liberação do ônus hipotecário tem natureza de ação declaratória, não constituindo um proveito econômico inovador para a parte autora, sendo cabível a fixação de honorários por apreciação equitativa.
+
+6. Considerando a baixa complexidade jurídica, o trâmite do processo, que não durou quatro meses, e a desnecessidade de dilação probatória, os honorários fixados devem ser reduzidos. 7. Preliminares rejeitadas. Recurso adesivo dos autores conhecido e não provido. Recurso do réu conhecido e parcialmente provido.”
+
+(Acórdão 1381196, 07078072620218070001, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 21/10/2021, publicado no PJe: 9/11/2021. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+Ocorre que o c. Superior Tribunal de Justiça vem reafirmando o entendimento de que a Súmula 308 não se aplica a contratos cuja garantia incida sobre imóvel comercial.
+
+Nesse sentido:
+
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HIPOTECA CONSTITUÍDA PELA CONSTRUTORA SOBRE UNIDADE OBJETO DE PROMESSA DE COMPRA E VENDA. IMÓVEL COMERCIAL. NÃO APLICAÇÃO DO DISPOSTO NA SÚMULA N. 308/STJ. PRECEDENTES. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. POSSIBILIDADE. ART. 259, § 6º, DO RISTJ. DISCUSSÃO ACERCA DE EVENTUAL CONLUIO. VIA INADEQUADA. ANÁLISE DA CONTROVÉRSIA TRAZIDA NO APELO ESPECIAL. DESNECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+
+1. Nos termos da jurisprudência desta Casa, o verbete n. 308 da Súmula do STJ se aplica às hipotecas que recaiam sobre imóveis residenciais, não incidindo nos casos em que a garantia recaia sobre imóvel comercial.
+
+2. O art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça faculta ao prolator da decisão reconsiderá-la, diante da interposição do agravo interno, não se exigindo a ocorrência de fatos novos para tanto.
+
+3. A presente via não é adequada para a discussão acerca de eventual conluio entre a construtora e funcionários da Caixa Econômica Federal.
+
+4. A análise da controvérsia trazida no apelo especial prescinde da interpretação de cláusulas contratuais e do reexame fático-probatório, porquanto todos os elementos necessários ao julgamento da demanda estão delineados no acórdão estadual.
+
+5. Agravo interno desprovido.”
+
+(AgInt nos EDcl no AgInt no REsp 1673235/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021) – Grifou-se.
+
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. IMÓVEL COMERCIAL. INAPLICABILIDADE DA SÚMULA 308/STJ. INSCRIÇÃO DA HIPOTECA E REGISTRO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. Esta Corte possui jurisprudência no sentido de não ser aplicável a Súmula 308/STJ nas hipóteses envolvendo contratos de aquisição de imóveis comerciais, portanto não submetidos ao Sistema Financeiro de Habitação - SFH.
+
+2. Mesmo que comprovada a boa-fé do terceiro adquirente, tal não é bastante para afastar a hipoteca firmada como garantia ao financiamento imobiliário de caráter comercial, como é a situação dos autos. Precedentes.
+
+3. Ultrapassar os fundamentos do acórdão acerca da inscrição e o registro da hipoteca demandaria a análise do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+
+4. Agravo interno a que se nega provimento.”
+
+(AgInt nos EDcl no AgInt no REsp 1290882/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 23/08/2018) – Grifou-se.
+
+Nesse contexto, alguns órgãos fracionários desta Casa têm perfilhado o entendimento de que, embora a orientação firmada na Súmula 308 do STJ não alcance contratos que envolvam imóvel comercial, existindo no referido pacto cláusula na qual a construtora assume expressamente a obrigação de requerer o cancelamento da hipoteca após a quitação do preço, tal disposição deve prevalecer para todos os efeitos.
+
+A propósito:
+
+“CIVIL E PROCESSUAL CIVIL. CONSUMIDOR. COMPRA E VENDA DE IMOVEL COMERCIAL. GRAVAME HIPOTECÁRIO. SÚMULA 308 DO STJ. INAPLICABILIDADE. DESCONSTITUIÇÃO DA HIPOTECA. PROMITENTE VENDEDORA. OBRIGAÇÃO. PREVISÃO CONTRATUAL. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. POSSIBILIDADE. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. CRITÉRIO DA EQUIDADE. POSSIBILIDADE. SENTENÇA REFORMADA EM PARTE.
+
+1. Cuida-se de apelação contra a sentença que julgou procedente o pedido inicial para condenar a parte requerida, solidariamente, a proceder a baixa da hipoteca que recai sobre o imóvel adquirido pelo autor,
+
+2. O enunciado 308 da Súmula da jurisprudência do STJ enuncia que, "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel". O entendimento sumular, todavia, não se aplica aos contratos de aquisição deimóveis comerciais. Precedentes.
+
+3. Havendo, todavia, cláusula expressa no contrato de compra e venda pela qual a construtora/incorporadora se compromete a requerer o cancelamento/baixa do gravame hipotecário, e a arcar com os respectivos custos, no prazo de até 180 (cento e oitenta) dias a contar da quitação do valor devido, deve prevalecer o contrato firmado entre as partes.
+
+4. Constatando-se que a estipulação da verba honorária em percentual sobre o valor da causa não espelha o proveito econômico obtido que, no caso, é inestimável, e resulta em montante desproporcional à complexidade da causa, impõe-se a sua redução.
+
+5. Apelação Cível conhecida e parcialmente provida.” (Acórdão 1250071, 07201889220198070015, Relator: CESAR LOYOLA, 2ª Turma Cível, data de julgamento: 20/5/2020, publicado no DJE: 2/6/2020. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+“PROCESSO CIVIL. CIVIL. APELAÇÃO CÍVEL. CANCELAMENTO DE HIPOTECA. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO POR VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. REJEIÇÃO. MÉRITO. SÚMULA 308 DO STJ. NÃO APLICABILIDADE A IMÓVEL COMERCIAL. EXCEÇÃO CONTRATUAL. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. BASE DE CÁLCULO. EQUIDADE. INVIABILIDADE. FIXAÇÃO SOBRE O VALOR DA CAUSA. PROPORCIONALIDADE E RAZOABILIDADE.
+
+1. Hipótese em que o apelante apresentou razões voltadas a rechaçar a conclusão adotada pelo juízo de origem. Se tais razões recursais hão de prosperar ou não, trata-se de análise a ser realizada no mérito. Preliminar de não conhecimento do recurso por violação ao princípio da dialeticidade afastada.
+
+2. O enunciado da Súmula 308 (A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel) não se aplica aos contratos de aquisição de imóveis comerciais. Precedentes do STJ. 2.1. "2. Ainda que a súmula 308do STJ não seja aplicável aos contratos relativos a imóveis comerciais, havendo previsão expressa no contrato de promessa de compra e venda de que após a quitação será realizada a baixa do gravame, deve prevalecer o contrato firmado entre as partes." (Acórdão 1165726, 07266963320188070001, Relator: SEBASTIÃO COELHO, 5ª Turma Cível, data de julgamento: 9/4/2019, publicado no DJE: 26/4/2019. Pág.: Sem Página Cadastrada.)
+
+3. "1. Aquele que deu causa ao ajuizamento da ação deve arcar com os ônus sucumbenciais, em razão do princípio da causalidade." (Acórdão 1254171, 07044293320198070001, Relator: DIAULAS COSTA RIBEIRO,8ª Turma Cível, data de julgamento: 3/6/2020, publicado no PJe: 15/6/2020. Pág.: Sem Página Cadastrada.). 3.1. No presente caso, comprovado que a instituição financeira deu causa ao ajuizamento da ação, uma vez não ter demonstrado atendimento à solicitação da imobiliária quanto ao pedido de liberação da hipoteca, correta a imposição dos ônus sucumbenciais exclusivamente em seu desfavor.
+
+4. Inexistente condenação, proveito econômico obtido com ocancelamentoda hipoteca que não pode ser mensurado, impossibilidade de equiparação ao valor do imóvel, correta a fixação dos honorários advocatícios com base no valor atribuído à causa, que se revela razoável e proporcional, condizente com o trabalho desenvolvido no feito.
+
+5. Recurso de DOTTI E ADVOGADOS conhecido. Preliminar de não conhecimento do recurso de ITAÚ UNIBANCO S.A rejeitada, recurso conhecido. No mérito, apelos desprovidos.”
+
+(Acórdão 1322484, 07047226620208070001, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 10/3/2021, publicado no DJE: 15/3/2021. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+“AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. TUTELA DE URGÊNCIA. PROBABILIDADE DO DIREITO. PERIGO DE DANO. IMÓVEL COMERCIAL. BAIXA DE GRAVAME HIPOTECÁRIO. NÃO APLICAÇÃO DA SÚMULA 308, DO STJ. QUITAÇÃO DA UNIDADE. REALIZAÇÃO DA BAIXA. OBRIGAÇÃO DA VENDEDORA. PREVISÃO CONTRATUAL. REVERSIBILIDADE DA TUTELA. MULTA COMINATÓRIA. RAZOABILIDADE.
+
+A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, nos termos do artigo 300, do Código de Processo Civil.
+
+A súmula 308, do Superior Tribunal de Justiça, não é aplicável ao caso de gravame hipotecário incidente sobre imóvel comercial. Contudo, ainda que o referido enunciado sumular não seja aplicável aos contratos relativos a imóveis comerciais, havendo previsão expressa no contrato de promessa de compra e venda de que após a quitação será realizada a baixa do gravame, deve prevalecer o contrato firmado entre as partes.
+
+Caracteriza perigo de dano o fato de que a vendedora do imóvel, a quem compete dar baixa ao gravame hipotecário, encontra-se em processo de recuperação judicial. Se improcedente a ação, o gravame será restabelecido e caberá aos recorrentes a reparação do prejuízo que a efetivação da tutela de urgência causar, independentemente da reparação por dano processual, na forma do artigo 302, inciso I, do Código de Processo Civil.
+
+O objetivo da fixação da multa cominatória não é outro senão incentivar o cumprimento da obrigação constante da determinação judicial, e seu valor deve obediência aos critérios de proporcionalidade e razoabilidade, com estabelecimento de limite. Julgado o agravo de instrumento, resta prejudicada a análise do agravo interno.”
+
+(Acórdão 1338272, 07509596420208070000, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 5/5/2021, publicado no DJE: 24/5/2021. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+Diante desse panorama, considerando as mencionadas premissas, bem como que a escritura pública de compra e venda dos imóveis, na supracitada Cláusula Terceira, foi clara quanto à obrigação assumida pela construtora de dar baixa na hipoteca, além do fato de que houve a quitação integral das unidades imobiliárias pelo autor, deve ser assegurado ao adquirente o direito ao cancelamento do gravame incidente sobre os bens.
+
+Ressalte-se que as alegações do Banco de que o cancelamento da hipoteca sem a respectiva contraprestação dos valores das garantias seria medida que desrespeita disposições contratuais e de que a instituição financeira não teria anuído com a relação jurídica entre a construtora e o adquirente dos imóveis, o que afrontaria a disposição contida na Lei n° 4.591/64, dizem respeito à relação jurídica existente entre a construtora e o agente financeiro, não podendo ser impostas ao consumidor, adquirente da unidade.
+
+Ademais, impende salientar a existência de solidariedade entre os réus para o cumprimento da obrigação, nos termos da orientação jurisprudencial, até porque a baixa do gravame pressupõe a atuação de todos os fornecedores que integram a cadeia de consumo, no caso, a construtora e o credor hipotecário.
+
+Nesse sentido:
+
+“CONSUMIDOR E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. QUITAÇÃO DO BEM. AUSÊNCIA DE TRANSFERÊNCIA DA PROPRIEDADE. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E ENTIDADE FINANCEIRA. RESPONSABILIDADE SOLIDÁRIA. ENUNCIADO Nº 308 DA SÚMULA DO STJ. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. APRECIAÇÃO EQUITATIVA. INAPLICABILIDADE. ALTERAÇÃO DA BASE DE CÁLCULO. IMPOSSIBILIDADE. PERCENTUAL ARBITRADO. REDUÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+
+1 - É nítida a existência de solidariedade entre a Construtora e o Banco no que diz respeito à obrigação de desconstituição das hipotecas existentes sobre os imóveis discutidos nos autos, nos termos dos artigos 7º, parágrafo único, e 14 do Código de Defesa do Consumidor, mormente por ser o Apelante o Credor Hipotecário e a parte Autora pretender justamente a baixa dos gravames averbados nas matrículas dos bens imóveis, alcançando a responsabilidade de ambos os Réus, de forma solidária.
+
+2 - A hipoteca firmada entre a Construtora e o Banco Réu não tem eficácia perante os promitentes compradores Autores, nos termos do disposto no enunciado nº 308 de Súmula do Superior Tribunal de Justiça: "A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel".
+
+3 - A despeito do entendimento do STJ de que o Enunciado de Súmula de Jurisprudência nº 308 não se aplica aos contratos de aquisição de imóveis comerciais (AgInt no REsp 1702163/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/10/2019, DJe 06/11/2019), a natureza mista dos imóveis em questão (apart-hotéis) não afasta a compreensão firmada na referida súmula, sobretudo porque não há prova nos autos de que sejam utilizados para fins comerciais.
+
+4 - Para a fixação dos honorários advocatícios, o Código de Processo Civil adotou, como regra geral, o princípio da sucumbência (art. 85, caput, do CPC) e não o da causalidade, que é utilizado pelo ordenamento jurídico para casos específicos (§ 10 do art. 85 do CPC e Enunciado nº 303 da Súmula do Superior Tribunal de Justiça, por exemplo). Se o caso concreto amolda-se à regra geral do caput do art. 85, deve reger a fixação dos honorários o princípio da sucumbência.
+
+5 - Não se tratando de causa de proveito econômico inestimável ou irrisório, ou de valor muito baixo, a ensejar a apreciação de forma equitativa (§ 8º do art. 85 do CPC), a fixação dos honorários advocatícios deve observar a forma prevista no § 2º do mesmo dispositivo legal.
+
+6 - O § 2º do art. 85 do CPC é claro ao dispor que os honorários advocatícios serão calculados sobre o valor atualizado da causa quando não houver condenação ou não for possível mensurar o proveito econômico obtido, o que é o caso dos autos, não sendo cabível, portanto, a alteração da base de cálculo da verba honorária.
+
+7 - Considerando a complexidade da causa, sua duração e o local da prestação do serviço, o valor dos honorários advocatícios arbitrado em desfavor dos Réus foi excessivo, sendo devida a sua redução, nos termos do § 2º do artigo 85 do CPC. Apelação Cível parcialmente provida.”
+
+(Acórdão 1383268, 07070659820218070001, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 10/11/2021, publicado no DJE: 17/11/2021. Pág.: Sem Página Cadastrada.)
+
+Indubitável, portanto, que a responsabilidade pela baixa do gravame recai tanto sobre a construtora, quanto sobre a instituição financeira, titular do direito real de hipoteca.
+
+Nesse descortino, o acolhimento do pedido autoral, com o reconhecimento da obrigação de fazer devida por ambos os réus na demanda, atrai a incidência do princípio da sucumbência, não havendo como se aplicar o princípio da causalidade, como quer fazer crer o apelante.
+
+Ressalte-se que, inclusive, o banco réu se insurgiu contra o pedido autoral, tendo apresentado contestação manifestando a sua contrariedade ao pleito deduzido na exordial, o que reforça que houve sucumbência dele na demanda.
+
+Assim, o recurso da instituição financeira não merece provimento.
+
+DO RECURSO DE LB10 INVESTIMENTOS IMOBILIÁRIOS
+
+Nas razões recursais (ID 36317324), LB10 Investimentos Imobiliários insurge-se tão somente quanto aos honorários de sucumbência que foram estabelecidos na r. sentença.
+
+Defende a necessidade de fixação dos honorários sucumbenciais com base no §8° do art. 85 do CPC, ao argumento de que a demanda seria de baixa complexidade e que tramitou por curto período, de modo que o valor fixado na r. sentença seria desarrazoado e desproporcional.
+
+Pugna pela reforma da r. sentença, para que os honorários de sucumbência sejam arbitrados por equidade, com fulcro no §8° do art. 85 do CPC.
+
+Contudo, sem razão.
+
+Na r. sentença, o d. magistrado condenou os réus ao pagamento das custas processuais e dos honorários advocatícios, esses fixados em 10% (dez por cento) sobre o valor atualizado atribuído à causa (ID 36317315).
+
+Nos termos da jurisprudência da Segunda Seção do c. Superior Tribunal de Justiça (REsp n. 1.746.072/PR), a fixação dos honorários advocatícios sucumbenciais possui como regra geral as balizas fixadas no § 2º do art. 85 do CPC/15, com a expressa definição pelo legislador da ordem decrescente de preferência de critérios acerca da base de cálculo da verba.
+
+Primeiro, havendo condenação, a verba sucumbencial deve ser arbitrada entre 10% (dez por cento) e 20% (vinte por cento) sobre o montante dessa. Segundo, ante a inexistência de condenação, a verba será fixada entre 10% (dez por cento) e 20% (vinte por cento) sobre o proveito econômico obtido pelo vencedor. No último caso, não sendo possível mensurar o proveito econômico obtido, será arbitrada sobre o valor atualizado da causa.
+
+Somente quando for inestimável ou irrisório o proveito econômico ou muito baixo o valor da causa, é que deverão ser fixados, excepcionalmente, por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/15.
+
+Na hipótese dos autos, o pedido consiste em obrigação de fazer (baixa da hipoteca incidente sobre a matrícula do imóvel), não havendo condenação ou proveito econômico, razão pela qual a verba honorária deve incidir sobre o valor da causa, nos termos da gradação contida no § 2º do art. 85 do CPC/15.
+
+Por oportuno, confira-se julgado desta eg. 4ª Turma Cível acerca da matéria:
+
+“APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA E OBRIGAÇÃO DE NÃO FAZER. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS NOS TERMOS DO ART. 85, § 8º, DO CPC. CRITÉRIO DA EQUIDADE. INAPLICABILIDADE. VALOR DA CAUSA. APLICAÇÃO DO ART. 85, § 2º, DO CPC. CAUSA DE BAIXA COMPLEXIDADE E CURTA DURAÇÃO. PATAMAR MÍNIMO. O art. 85, § 2º, do CPC dispõe que os honorários serão fixados entre o mínimo de dez por cento (10%) e o máximo de vinte por cento (20%) sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. O critério da equidade, conforme previsto no art. 85, § 8º, do CPC, tem aplicação apenas nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo. Diante da existência de uma das bases de cálculo previstas no art. 85, § 2º, do CPC, qual seja o valor da causa, os honorários advocatícios não devem ser fixados com base na apreciação equitativa, e sim nos parâmetros definidos no art. 85, § 2º, do CPC. Verificando-se a baixa complexidade da causa e a curta duração da demanda, os honorários devem ser arbitrados no patamar mínimo, em consonância com os critérios previstos no art. 85, § 2º, do CPC. Apeloprovido.” (Acórdão 1347924, 07235129820208070001, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 10/6/2021, publicado no DJE: 25/6/2021. Pág.: Sem Página Cadastrada.) – Grifou-se.
+
+Registre-se que, recentemente, a Corte Especial do Superior Tribunal de Justiça concluiu o julgamento do Tema 1.076 dos recursos repetitivos REsp n° 1.850.512/SP, REsp n° 1.877.883/SP e REsp n° 1.906.623/SP e, por maioria, definiu a inviabilidade de fixação de honorários de sucumbência por apreciação equitativa na hipótese em que o valor da condenação ou o proveito econômico forem elevados.
+
+O ministro Og Fernandes, relator dos recursos submetidos a julgamento, definiu duas teses: “1) não se permite fixação de honorários por apreciação equitativa quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. Mostra-se obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC), a depender da presença da Fazenda Pública no litígio, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa; 2) somente se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo” (grifou-se).
+
+Na espécie, por ser o valor da causa elevado, não seria possível fixar os honorários sucumbenciais de forma equitativa, mas, sim, consoante o preceituado no art. 85, § 2º, desse diploma legal, ou seja, entre os patamares de 10% (dez por cento) a 20% (vinte por cento) do valor da causa.
+
+Em se considerando que a causa não apresenta grande complexidade e que a tramitação do feito durou aproximadamente 6 (seis) meses, os honorários devem ser fixados no patamar mínimo de 10% (dez por cento) sobre o valor atualizado da causa, nos termos como entendeu o d. magistrado a quo.
+
+Portanto, o recurso de LB10 Investimentos Imobiliários não merece provimento.
+
+DO DISPOSITIVO
+
+Ante o exposto, conheço e NEGO PROVIMENTO às apelações dos réus, mantendo incólume a r. sentença.
+
+Em razão da sucumbência recursal, com fulcro no art. 85, § 11, do CPC, majoro os honorários advocatícios devidos pelos réus em 2% (dois por cento), estabelecendo-os em 12% (doze por cento) sobre o valor atualizado da causa, à razão de 50% (cinquenta por cento) para cada um.
+
+É como voto.
+
+O Senhor Desembargador FERNANDO HABIBE - 1º Vogal Com o relatorO Senhor Desembargador ARNOLDO CAMANHO - 2º Vogal Com o relator
+
+DECISÃO
+
+REJEITAR A PRELIMINAR. NEGAR PROVIMENTO AOS RECURSOS DOS RÉUS. UNÂNIME
