@@ -1,0 +1,15 @@
+DECISÃO
+BANCO RABOBANK INTERNATIONAL BRASIL S/A opõe embargos de declaração à decisão de fls. 2.272-2.275, que negou provimento ao agravo em recurso especial, em razão da inexistência de violação do art. 1.022, I, do CPC e, nos termos do art. 85, § 11, do CPC, majorou os honorários advocatícios em 10% sobre o valor arbitrado nas instâncias precedentes em seu desfavor.
+Em suas razões, o embargante alega omissão na decisão embargada, no ponto em que majorou os honorários advocatícios sucumbenciais em seu desfavor, pois não houve condenação deste à verba sucumbencial pela origem.
+Aduz que a sentença julgou improcedente os embargos à execução opostos pelos ora embargados, condenando-os ao pagamento de R$ 50.000,00 a título de honorários sucumbenciais. A apelação por eles interposta foi desprovida e os honorários majorados para R$ 52.000,00, de maneira que não houve qualquer condenação à sucumbência.
+Requer o acolhimento dos embargos de declaração para que seja sanado o vício apontado no julgado, afastando-se a majoração dos honorários advocatícios determinada pela decisão ora embargada.
+Foi apresentada impugnação aos embargos de declaração (fls. 2.310-2.314).
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Em exame da decisão embargada, verifica-se que, com a negativa de provimento do agravo em recurso especial, determinou-se a majoração dos honorários recursais em 10% sobre o valor já arbitrado pela origem. Todavia, reconheço a omissão apontada na decisão embargada.
+Mediante análise dos autos, verifica-se que inexistiu prévia fixação de verba sucumbencial em desfavor da instituição financeira, ora embargante, visto que os embargos à execução opostos pela parte ora embargada foram julgados improcedentes pelo Juízo de primeiro grau, sendo certo que apenas os ora embargados foram condenados ao pagamento dos honorários sucumbenciais, fixados em R$ 50.000,00 (fl. 665).
+Em apelação, o Tribunal de origem manteve a sentença de improcedência dos embargos à execução e majorou, em desfavor dos ora embargados, os honorários sucumbenciais para R$ 52.000,00.
+Com efeito, para haver a majoração dos honorários recursais é necessário o atendimento de três requisitos cumulativos, são eles: a) a decisão recorrida ter sido publicada a partir de 18/3/2016; b) o recurso não tiver sido conhecido ou desprovido; e c) houver condenação em honorários advocatícios fixada pela origem (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+Assim, é de rigor o afastamento da majoração dos honorários recursais determinada no último parágrafo da decisão embargada.
+Ante o exposto, acolho os embargos de declaração para sanar a omissão indicada e afastar a majoração dos honorários recursais, sem, contudo, atribuir ao recurso efeitos infringentes.
+Publique-se. Intimem-se.
