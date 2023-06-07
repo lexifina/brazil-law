@@ -1,0 +1,76 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5016106-13.2021.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JAIR JULIATTI JUNIOR
+RECORRIDO: BANCO SANTANDER (BRASIL) S.A.
+RELATOR(A):GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5016106-13.2021.8.08.0035
+ORIGEM:
+Juízo de Vila Velha - Comarca da Capital - 4º Juizado Especial Cível
+RECORRENTE:
+JAIR JULIATTI JUNIOR
+RECORRIDOS:
+BANCO SANTANDER (BRASIL) S.A.
+DATA DA SESSÃO DE JULGAMENTO
+: conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma).
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os
+pressupostos de admissibilidade.
+
+EMENTA:
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. BANCÁRIO. COBRANÇA DE TAXAS E TARIFAS BANCÁRIAS. SENTENÇA DE IMPROCEDÊNCIA, EM VIRTUDE DA INEXISTÊNCIA DE PROVAS QUE COMPROVEM O ILÍCITO PRATICADO PELA RÉ. INCONFORMADA COM A SENTENÇA, A PARTE AUTORA INTERPÔS RECURSO INOMINADO A FIM DE DESAFIÁ-LA, SOB A ALEGAÇÃO DE QUE AS PROVAS JUNTADAS AOS AUTOS SÃO SUFICIENTES PARA COMPROVAR O ALEGADO, OU SEJA, A PROMESSA DE INEXISTÊNCIA DE COBRANÇA DE TAXAS E TARIFAS JUNTO A RÉ, POR TAIS MOTIVOS, ENTENDE QUE É DEVIDA A RESTITUIÇÃO DOS VALORES PAGOS EM DOBRO, E TAMBÉM INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. DA IMPUGNAÇÃO DA GRATUIDADE DA JUSTIÇA, EM SEDE DE CONTRARRAZÕES.
+INEXISTÊNCIA DE ELEMENTO A EVIDENCIAR A FALTA DOS PRESSUPOSTOS LEGAIS PARA A CONCESSÃO DA GRATUIDADE. A AUTORA, NESSE SENTIDO, FAZ JUS AOS BENEPLÁCITOS DA JUSTIÇA GRATUITA.
+A SENTENÇA DEVE SER MANTIDA. AS PROVAS JUNTADAS AOS AUTOS, DE FATO, SÃO INSUFICIENTES PARA DEMONSTRAÇÃO DO PRETENSO FATO CONSTITUTIVO DO DIREITO DA PARTE AUTORA (CPC, ART. 373, INCISO I).
+NÃO SE DESCONHECE A INVERSÃO DO ÔNUS DA PROVA A BENEFICIAR O CONSUMIDOR. NO CASO DOS AUTOS, TODAVIA, CABIA AO AUTOR COMPROVAR A OCORRÊNCIA DE FATO A EXISTÊNCIA DE MEIO QUE COMPROVE A PROMESSA DE NÃO COBRANÇA DOS VALORES CITADOS, CAPAZ DE CONFIGURAR A DEVOLUÇÃO DOS VALORES, EM DOBRO, BEM COMO A INDENIZAÇÃO POR DANOS EXTRAPATRIMONIAIS, O QUE NÃO OCORREU. PELAS PROVAS APRESENTADAS, NÃO É POSSÍVEL AFIRMAR QUE O AUTOR FOI EXPOSTO À SITUAÇÃO VEXATÓRIA, OU A AINDA A ILICITUDE DA COBRANÇA DAS TARIFAS E TAXAS POR PARTE DO BANCO, QUE ULTRAPASSE O MERO DISSABOR
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. POR FORÇA DA SUCUMBÊNCIA
+,
+CONDENA-SE
+A PARTE AUTORA NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO
+
+OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA
+(ART. 55
+DA LEI 9.099/95).
+
+SUSPENDE-SE
+, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
