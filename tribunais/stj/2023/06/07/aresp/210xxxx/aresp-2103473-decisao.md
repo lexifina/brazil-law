@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial manejado por BANCO BRADESCO S.A. e por BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA. contra decisão do Tribunal de Justiça do Estado de Goiás que não admitiu recurso especial interposto contra acórdão assim ementado (fl. 122):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. RECURSO SECUNDUM EVENTUM LITIS. DECISÃO NÃO SURPRESA. PRORROGAÇÃO DA SUSPENSÃO DA AÇÃO DE BUSCA EAPREENSÃO DE VEÍCULO AUTOMOTOR (STAY PERIOD). LEI 11.101/02. BEM MÓVEL ESSENCIAL AO DESEMPENHODA ATIVIDADE DE VIGILÂNCIA PATRIMONIAL. DECISÃO AGRAVADA CONFIRMADA. 1. O agravo de instrumento é um recurso secundum eventum litis, razão pela qual o Tribunal de Justiça deve limitar-se ao exame do acerto ou desacerto da decisão agravada, sem analisar questões não apreciadas pelo Juízo de origem, sob pena de supressão de instância e afronta ao princípio do duplo grau de jurisdição. 2. Eventual manifestação das partes a respeito da essencialidade, ou não, do bem objeto da ação de busca e apreensão (veículo automotor), em nada influenciaria no decisum exarado pelo douto magistrado singular (Enunciado nº 3 da ENFAM), uma vez que é atribuição do Juízo da Recuperação Judicial avaliar essa qualidade. Sendo assim, não há se falar em decisão surpresa, na hipótese. 3. Comprovado nos autos que a empresa recuperanda presta serviço de vigilância patrimonial, situação em que o veículo é essencial para a atividade de deslocamento, segurança, fiscalização e ronda em proveito dos seus contratantes, há de se reconhecer a indispensabilidade do óbice aos atos de constrição na demanda de busca e apreensão pelo Decreto-Lei nº 911/69, decorrente da prorrogação do stay period pelo Juízo da Recuperação Judicial. 4. RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO AGRAVADA MANTIDA.
+Opostos embargos de declaração, foram rejeitados às fls. 141-151.
+Nas razões do recurso especial, manejado com fulcro nas alíneas a e c do permissivo constitucional, os recorrentes alegam, além de dissídio jurisprudencial, ofensa ao art. 49, § 3º, da Lei n. 11.101/2005.
+Afirmam que não foi comprovada, no caso, a essencialidade dos bens, ainda mais quando há elementos que evidenciam a existência de outros bens que podem ser utilizados para desenvolvimento das atividades.
+Argumentam que o juízo da recuperação apenas presumiu a essencialidade dos bens, sem que houvesse comprovação, salientando que os veículos nem sequer são utilizados na atividade-fim da empresa. Acrescentam que já escoou o prazo do stay period, de modo que é permitida ao credor a retomada dos bens dados em garantia fiduciária.
+Não foram apresentadas as contrarrazões.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 381-385).
+É, no essencial, o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Os recorrentes alegam que não estaria comprovada, nos autos, a essencialidade dos veículos para a atividade da sociedade recuperanda.
+O Tribunal de origem, no entanto, com base no acervo fático-probatório dos autos, concluiu justamente o contrário, conforme se depreende do seguinte trecho do acórdão recorrido (fl. 118):
+Ao analisar os elementos probatórios e factuais que permeiam a ação de recuperação judicial, registrada sob nº 5216260-06.2020.8.09.0051, nota-se que a parte agravada é uma empresa que presta serviço de vigilância patrimonial, circunstância em que o correspondente bem, citado alhures, é essencial para a atividade de deslocamento, segurança, fiscalização e ronda em favor dos contratantes.
+As fotografias consubstanciadas aos autos de origem (mov. 93, doc. 3), do respectivo veículo objeto da demanda de busca e apreensão, devidamente caracterizado, não deixa a menor fímbria de dúvida de que é indispensável à atividade empresarial.
+Sendo assim, elidir as conclusões do aresto impugnado quanto à comprovação da essencialidade dos bens demandaria, inevitavelmente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula n 7/STJ. Nesse sentido, cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DISCUSSÃO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE PARA O SUCESSO DA RECUPERAÇÃO JUDICIAL. EXCEPCIONAL IMPOSSIBILIDADE DE RETIRADA. PERÍODO DE SUSPENSÃO. PRORROGAÇÃO. VIABILIDADE. REEXAME DE FATOS. SÚMULAS 7 E 83/STJ.
+1. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidência do enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.827.401/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023, grifo meu.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Ausência de comprovação do alegado dissídio jurisprudencial, nos termos dos artigos 1.029, CPC/15 e 255 do RISTJ. Além de a parte recorrente não haver indicado, de maneira clara e expressa, os dispositivos de lei objeto de interpretação divergente pelo Tribunal de origem, o que atrai a incidência do óbice contido na Súmula 284/STF, também não realizou o necessário cotejo analítico dos arestos apontados como dissonantes, sendo certo que a mera transcrição de ementas não se revela suficiente para a consecução de tal finalidade.
+2. Incidência dos óbices contidos nas Súmulas 7 e 83/STJ à tese relacionada com a impossibilidade de constrição de bens que, embora amparados por garantia fiduciária, revelem-se essenciais para o sucesso do plano de soerguimento.
+3. Emprego do enunciado contido na Súmula 7/STJ à pretensão voltada para aferir a correção dos cálculos dos valores devidos ao banco insurgente.
+4. Impossibilidade de se majorar a verba honorária postulada em contrarrazões recursais, com amparo no art. 85, § 11, do CPC/15, porquanto não fixada na instância de origem.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.796.925/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/5/2019, DJe de 4/6/2019, grifo meu.)
+Dessarte, inviável a pretensão dos recorrentes.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
