@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DE SANTA CATARINA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+EMBARGOS DE DECLARAÇÃO. AÇÃO COLETIVA. ESTATUTO DOS POLICIAIS-MILITARES DO ESTADO DE SANTA CATARINA (LEI ESTADUAL N. 6.218/1983). IMPROCEDÊNCIA NA ORIGEM. ARESTO OBJURGADO MODIFICANDO A SENTENÇA. OMISSÃO QUANTO A DISCRICIONARIEDADE DA INDENIZAÇÃO DA LICENÇA ESPECIAL. DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA. ERRO MATERIAL NO ARBITRAMENTO DOS HONORÁRIOS. POSSIBILIDADE DE ARBITRAMENTO DA VERBA. TESES ENFRENTADAS. CORRETA APLICAÇÃO DA LEGISLAÇÃO E JURISPRUDÊNCIA. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA. PRESSUPOSTOS DO ARTIGO 1.022 DO CPC. INOBSERVÂNCIA. VIA RECURSAL IMPRÓPRIA. EMBARGOS DECLARATÓRIOS CONHECIDOS E REJEITADOS (fl. 292).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 18 da Lei nº 7.347/85 e art. 87 da Lei nº 8.078/90, no que concerne à necessidade de se afastar a condenação da parte recorrente ao pagamento de honorários advocatícios e custas processuais, em razão da simetria entre as partes, sob o fundamento de que os referidos dispositivos se aplicam tanto às ações civis públicas quanto às ações coletivas ordinárias. Aduz os seguintes argumentos:
+Assim, tanto às ações civis públicas, quanto às ações coletivas ordinárias, são aplicáveis os artigos 18 da Lei n.º 7.347/85 e 87 da Lei n.º 8.078/90, que assim dispõem, respectivamente:
+ ..
+Assim, não pode a associação autora ser condenada em honorários advocatícios, salvo comprovada má-fé.
+E conforme jurisprudência do Superior Tribunal de Justiça, diante da simetria, incabível a condenação do réu em honorários advocatícios sucumbenciais quando o autor é o vencedor da ação civil pública.
+ ..
+Portanto, resta evidente que o veredito a quo não pode prevalecer nesse ponto.
+Nesse contexto, o acórdão contraria os dispositivos legais mencionados, devendo ser reformado por essa Corte Superior a fim de que seja afastada a condenação em honorários advocatícios sucumbenciais e custas processuais (fls. 307- 308).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
