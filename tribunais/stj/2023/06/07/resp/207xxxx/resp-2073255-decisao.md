@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso e special interposto por Domingos Savio de Lacerda contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+ACIDENTE DO TRABALHO - AUXÍLIO-ACIDENTE Disacusia neurossensorial bilateral - Incapacidade parcial e permanente e nexo causal comprovados - Ação julgada parcialmente procedente para restabelecimento do auxílio-doença - Recurso obreiro parcialmente provido para concessão de auxílio-acidente, a partir da data da juntada do laudo pericial, reconhecida a procedência total da demanda - Cálculo da renda mensal inicial: observância dos mesmos índices previdenciários aplicados aos beneficios em manutenção - Atualização dos atrasados pela Lei n. 8.213/91 e alterações pertinentes - Recursos oficial e autárquico desprovidos.
+Em razões de recurso especial fundamentado na alínea "a" do permissivo constitucional, a recorrente aponta violação aos arts. 406 do CC; 161, §1º, do CTN; 20, §3º e §4º do CPC/1973.
+Pleiteia o provimento do recurso "condenando-se a autarquia pagar o benefício de auxílio-acidente a partir de 15.06.2006, observando-se a mesma data para contagem dos juros de mora e correção monetária, com honorários advocatícios a serem arbitrados em importe não inferior a R$ 3.500,00 (três mil e quinhentos reais), observando-se todo o zelo e trabalho realizado e que ainda será efetuado até o final da ação,".
+Não foram apresentadas contrarrazões.
+Em sede de reexame juízo de conformidade, o acórdão foi parcialmente modificado, restando determinado que: "considerando o termo inicial do benefício (30/01/2007), deve ser aplicado, para correção monetária, o INPC (Lei 11.430/2006) até o advento da Lei no 11.960/09, datada de 29 de junho de 2009, a partir de quando passará ela a ser feita pelo IPCA-E. Os juros de mora são de 1 % ao mês (artigo 406, do Código Civil de 2002 c/c artigo 161, § 1º do Código Tributário Nacional) até 30/06/2009; e, após, conforme o índice de remuneração das cadernetas de poupança (artigo 1º-F da Lei 9.494/97, com as alterações introduzidas pela Lei 11.960/2009, com vigência em 30/06/2009)".
+Após juízo positivo de admissibilidade do recurso especial, ascenderam os autos a esta Corte.
+É o relatório. Decido.
+Da leitura do inteiro teor do aresto recorrido verifica-se ausência de manifestação da Corte de origem sobre a tese recursal vinculada ao art. 20, §3º e §4º do CPC/1973.
+Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FALTA DE PREQUESTIONAMENTO. REEXAME PROBATÓRIO SÚMULAS 7/STJ, 284, 282 E 356/STF.
+1. A suscitada violação do art. 535 do Código de Processo Civil foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, a teor do que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 642.986/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/08/2015, DJe 31/08/2015).
+Em segundo lugar, a ausência de indicação de dispositivo infraconstitucional violado permite a apreciação da tese referente ao termo inicial do benefício. Incidência, no ponto, do óbice contido na Súmula 284/STF, segundo o qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o Tribunal de origem, ao realizar o juízo de adequação, determinou o cálculo dos juros de mora adotando-se os mesmos critérios postulados nas razões do apelo nobre, restando evidenciada a superveniente ausência de interesse recursal no ponto, uma vez que a pretensão deduzida já foi acolhida pelo Tribunal de origem.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AUXÍLIO-ACIDENTE. TERMO INICIAL. SÚMULA 284/STF. JUROS DE MORA. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
