@@ -1,0 +1,107 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0708581-68.2022.8.07.0018REPRESENTANTE LEGAL(S)SINDICATO DOS AUXILIARES DE ADMINISTRACAO ESCOLAR NO DFAPELANTE(S)JOVELINO SOARES DA SILVA NETO,JOVIANIO BIZERRA DUTRA DA SILVA,JUAREZ LOPES DE OLIVEIRA ARAUJO,JUDITH ALVES FONSECA,JUHA DOS SANTOS ZORANTE,JUSTINA DELFINO TINOCO DE OLIVEIRA,JUVERCI MARCIANO DA FONSECA,KATIA COELHO FERREIRA,KENIA DIAS LOURENCO DE ANDRADE e LAILSON GUERRA CRUZREPRESENTANTE LEGAL(S)DISTRITO FEDERALAPELADO(S)DISTRITO FEDERALRelatorDesembargador FÁBIO EDUARDO MARQUES
+ Acórdão Nº1709571
+
+EMENTA
+
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SUSPENSÃO DO FEITO. TEMA REPETITIVO 1.169. INAPLICABILIDADE. PRINCÍPIO DA DIALETICIDADE RECURSAL. OFENSA NÃO VERIFICADA. SINDICATO. LEGITIMAÇÃO ATIVA EXTRAORDINÁRIA. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO. SUBSTITUIÇÃO PROCESSUAL. FILIADOS. DIREITO INDIVIDUAL HOMOGÊNEO. SENTENÇA ANULADA.
+
+1. O caso em análise não se submete à determinação de suspensão processual determinada pelo Superior Tribunal de Justiça pela decisão de afetação do REsp 1.978.629/RJ, Tema Repetitivo 1.169, uma vez que não versa sobre a definição da necessidade de liquidação prévia para a propositura de cumprimento de sentença condenatória genérica proferida em demanda coletiva. O que se discute, em verdade, é a legitimidade ativa extraordinária do ente sindical para requerer cumprimento individual de sentença coletiva de seus substituídos processuais.
+
+2. Inexiste ofensa ao princípio da dialeticidade recursal quando os argumentos recursais confrontam os fundamentos da sentença recorrida, não se dissociando das teses da decisão combatida.
+
+3. O art. 8º, III da CF/88 estabelece que “ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas.”
+
+4. O STF no julgamento do RE 883.642/AL, em sede de repercussão geral, firmou entendimento no Tema 823 de que os sindicatos possuem legitimidade extraordinária ampla para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+
+5. Em regra, as ações ajuizadas pelo sindicato, na condição de substituto processual, aproveitam a todos os integrantes da categoria representada, filiados ou não, independente de prévia autorização dos substituídos. A legitimação do sindicato caracteriza-se como extraordinária, pois atua em nome próprio na defesa de direito alheio (CPC, art. 18).
+
+6. O Sindicato exequente ajuizou o cumprimento de sentença, como substituto processual, de 10 (dez) dos seus filiados, em estrita obediência aos regramentos legais e constitucionais relacionadas à legitimidade do sindicato na defesa dos interesses da categoria representada.
+
+7. O título executivo sob cumprimento está fundado em direito individual homogêneo, baseado na divisibilidade do direito vindicado, e protegido coletivamente.
+
+8. Inegável a legitimidade ativa do Sindicato exequente para ajuizar o cumprimento de sentença, decorrente da sentença coletiva, na qualidade de legitimado extraordinário.
+
+9. Apelação conhecida e provida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁBIO EDUARDO MARQUES - Relator, LUCIMEIRE MARIA DA SILVA - 1º Vogal e JOÃO LUIS FISCHER DIAS - 2º Vogal, sob a Presidência do Senhor Desembargador FÁBIO EDUARDO MARQUES, em proferir a seguinte decisão: CONHECER. DAR PROVIMENTO AO RECURSO. UNÂNIME , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Junho de 2023
+
+Desembargador FÁBIO EDUARDO MARQUESPresidente e Relator
+
+RELATÓRIO
+
+p{text-align: justify;}
+Cuida-se de apelação da r. sentença (id. 42489584) proferida em cumprimento de sentença que indeferiu a petição inicial e extinguiu o processo com fundamento no art. 924, inciso I, do CPC, diante da inércia da parte autora em atender à determinação de emenda da inicial.
+Embargos de declaração opostos pelos autores (id. 42489588) conhecidos e desprovidos (id. 42489594).
+Apelam os exequentes (id. 42489598).
+Sustentam que o presente cumprimento de sentença foi ajuizado com urgência, a fim de se evitar a prescrição, tendo em vista a tese firmada sob o Tema 880 do STJ, cuja modulação dos efeitos estabeleceu que o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017.
+Ressaltam que foi juntada à exordial a procuração outorgada pelo exequente na inicial da fase de conhecimento, que, de acordo com o § 4º do art. 105, do CPC, é eficaz para todas as fases do processo.
+Aduzem excesso de formalismo no indeferimento da petição inicial, em afronta aos princípios da instrumentalidade das formas, razoabilidade e proporcionalidade.
+Alegam que o prazo de emenda tem natureza dilatória, comportando a observância do princípio da primazia do julgamento do mérito.
+Defendem a legitimidade extraordinária dos sindicatos prevista constitucionalmente para a defesa dos interesses individuais ou coletivos da categoria.
+Pedem provimento ao recurso para anular a sentença e determinar o prosseguimento do feito na origem.
+Em contrarrazões (id. 42489606), o apelado defende, inicialmente, a necessidade de suspensão do feito, tendo em vista a decisão preferida pelo STJ no julgamento do Tema 1.169, bem como o não conhecimento do recurso, por ofensa ao princípio da dialeticidade recursal. No mérito, pugna pelo desprovimento do recurso.
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - Relatorp{text-align: justify;}
+SUSPENSÃO DO FEITO
+Em suas contrarrazões, o apelado defende, inicialmente, a necessidade de suspensão do feito, tendo em vista a decisão preferida pelo STJ no julgamento do Tema 1169.
+Sem razão.
+Eis o teor da questão submetida a julgamento pela Corte Especial nos autos dos Recursos Especiais Repetitivos nº. 1.978.627/RJ, 1.985.037/RJ e 1.985.491/RJ, todos de relatoria do eminente Ministro Benedito Gonçalves: “Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos”.
+A decisão de afetação considerou a suspensão dos processos que versam sobre a definição da necessidade de liquidação prévia para a propositura de cumprimento de sentença condenatória genérica proferida em demanda coletiva. Contudo, esse não é o caso dos autos, que, a rigor, discutem a legitimidade ativa extraordinária do ente sindical para requerer cumprimento individual de sentença coletiva de seus substituídos processuais.
+Ademais, em momento algum de sua impugnação nos autos de origem foi suscitada pelo Distrito Federal a inviabilidade do título executivo em razão da necessidade de prévio procedimento de liquidação.
+No que tange a uma possível exigência de liquidação prévia, o que não está sendo objeto de discussão nesse processo, importante frisar que a petição inicial do cumprimento individual de sentença coletiva foi instruída com planilha de cálculos aritméticos do valor da condenação para cada um dos substituídos processuais nestes autos.
+
+PRINCÍPIO DA DIALETICIDADE RECURSAL
+O apelado defende o não conhecimento do recurso, por ofensa ao princípio da dialeticidade recursal.
+Sem razão.
+O apelante indicou as razões de seu inconformismo, trazendo impugnação específica e pedido de reforma da sentença recorrida.
+Ademais, de acordo com a jurisprudência do STJ, a simples reiteração de peças processuais não impede o conhecimento da apelação, à medida que forem suficientes para demonstrar os motivos da irresignação, senão vejamos o precedente:
+
+[...] 1. Esta Corte possui entendimento assente de que, não obstante a legislação processual exija que a apelação contenha os fundamentos de fato e de direito, a parte não fica impedida de reiterar os fundamentos expendidos na inicial ou em outras peças processuais se estas forem suficientes para demonstrar os motivos da irresignação do insurgente, bem como do possível desacerto da decisão que se pretende desconstituir/modificar (AgRg no AgRg no REsp. 1.309.851/PR, Rel. Min. MARCO BUZZI, DJe 19.9.2013). [...] 4. Agravo Regimental dos Servidores desprovido. (AgRg no AREsp 272.809/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/09/2016, DJe 10/10/2016)
+
+Assim, presentes os pressupostos de admissibilidade, conheço do recurso.
+
+MÉRITO
+Releva notar que, embora o cumprimento de sentença tenha sido extinto em razão do indeferimento da petição inicial (art. 924, inciso I, do CPC), fundamentado na inércia do exequente em atender à ordem de emenda, a determinação judicial de emenda da inicial se deu em vista do entendimento do magistrado acerca da ilegitimidade do Sindicato exequente para promover o cumprimento individual de sentença coletiva.
+Assim, o cerne da controvérsia posta diz respeito à legitimidade do Sindicato exequente para propor o referido cumprimento individual de sentença coletiva.
+Estabelece o art. 8º, III da CF/88: “ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas”.
+O STF, no julgamento do RE 883.642/AL, em sede de repercussão geral, firmou a seguinte tese (Tema 823): “os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos”.
+Em regra, as ações ajuizadas por sindicato, na condição de substituto processual, aproveitam a todos os integrantes da categoria representada, filiados ou não, independente de prévia autorização dos substituídos. A legitimação de sindicato caracteriza-se como extraordinária, pois atua em nome próprio na defesa de direito alheio (CPC, art. 18).
+A ampla legitimação extraordinária, conferida a sindicato, encontra guarida no sistema jurídico para a qual foi criada, isto é, a defesa de interesses coletivos e individuais de toda a categoria que representa. "[...] a atuação do sindicato é prevista em dispositivo constitucional diverso e possui fundamento axiológico mais denso a defesa dos trabalhadores, categoria vulnerável com relação aos empregadores [...]".(Acórdão 1439020, 07187584820228070000, Relator Leonardo Bessa Roscoe Bessa, 6ª Turma Cível, data de julgamento 20/7/2022, publicado no DJE de 15/8/2022.)
+A interpretação ampliada, sustentada pelo apelante, de que a legitimação extraordinária alcançaria a propositura de ações individuais em favor de alguns de seus filiados (fracionada), encontra respaldo nos poderes conferidos constitucionalmente aos sindicatos, destinados a resguardar os interesses coletivos da categoria.
+O Sindicato exequente ajuizou o cumprimento de sentença, como substituto processual, de 10 (dez) dos seus filiados, em estrita obediência aos regramentos legais e constitucionais relacionadas à legitimidade do sindicato na defesa dos interesses da categoria representada.
+O título executivo sob cumprimento está fundado em direito individual homogêneo, baseado na divisibilidade do direito vindicado, mas protegido coletivamente.
+A propósito, confira-se o precedente do STJ:
+
+O interesse individual homogêneo é um direito individual que acidentalmente se torna coletivo e, pois, indisponível, quando transcender a esfera de interesses puramente particulares, envolvendo bens, institutos ou valores jurídicos superiores, cuja preservação importa à comunidade como um todo. (REsp 1586515/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/05/2018, DJe 29/05/2018)
+
+O art. 81, III do CDC dispõe que os direitos individuais homogêneos decorrem da mesma origem comum. No caso em análise, todos os integrantes da categoria sofreram lesão patrimonial em razão do descumprimento pelo Distrito Federal das regras que garantiam o pagamento do auxílio-alimentação aos servidores públicos, no período de 01/1996 a 05/2002. Essa é a origem comum dos direitos executados coletivamente.
+Assim como as demais espécies de direitos coletivos (difuso e coletivo em sentido estrito), os direitos individuais homogêneos são igualmente tutelados pelas entidades sindicais. "A jurisprudência desta Corte Superior é pacífica no sentido de que a legitimidade concedida aos sindicatos se estende tanto para a defesa de interesses coletivos quanto para a proteção de direitos individuais homogêneos, ainda que tais anseios não se configurem em relação de consumo".(AgInt no REsp n. 1.533.580/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2018, DJe de 26/9/2018.)
+Reconheço, assim, a legitimidade ativa do Sindicato exequente para ajuizar o cumprimento de sentença, decorrente da sentença coletiva, na qualidade de legitimado extraordinário. Por conseguinte, não há falar em irregularidade na representação processual que possa ensejar o indeferimento da petição inicial, pois foi juntada a procuração necessária, com a outorga de poderes de representação aos advogados que subscrevem o cumprimento individual de sentença.
+Nesse sentido, precedentes desta Corte:
+
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRELIMINAR DE OFENSA AO PRINCÍPIO DA NÃO SURPRESA. INSUBSISTÊNCIA. SERVIDORES AUXILIARES DA EDUCAÇÃO DO DISTRITO FEDERAL. SINDICATO. LEGITIMAÇÃO EXTRAORDINÁRIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA CASSADA. 1. Hipótese em que, antes da extinção do feito, o magistrado oportunizou ao exequente/apelante emenda à inicial para adequação do procedimento ao rito do cumprimento individual de sentença coletiva, consignada a necessidade de alteração do polo ativo da demanda. 2. Liquidação/execução de sentença genérica oriunda de ação coletiva sobre direitos individuais homogêneos, como os do caso vertente, pode ser proposta individualmente pelo beneficiário ou pelos legitimados extraordinários nos termos dos art. 97 e 98 do CDC nos termos do que definido pelo Supremo Tribunal Federal, Tema 823: "RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA.  I - Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos." (RE 883642 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 18/06/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-124 DIVULG 25-06-2015 PUBLIC 26-06-2015). 3. Recurso conhecido, preliminar rejeitada e provido. (Acórdão 1663021, 0708572-09.2022.8.07.0018, Rel. Desa. MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 15/2/2023, publicado no DJE: 1/3/2023)
+
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA.  SINDICATO. LEGITIMAÇÃO ATIVA. MATÉRIA DE ORDEM PÚBLICA. SUBSTITUIÇÃO PROCESSUAL. FILIADOS. DIREITO INDIVIDUAL HOMOGÊNEO. COMPETÊNCIA. PRESCRIÇÃO. SUSPENSÃO DO PROCESSO ATÉ DECISÃO DEFINITIVA DO SUPERIOR TRIBUNAL DE JUSTIÇA.    1. A legitimidade da parte é matéria de ordem pública, cognoscível de ofício, bem como alegada em qualquer tempo e grau de jurisdição.  2. O art. 8º, III da CF/88 estabelece que "ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas."      3. O STF no RE 883.642/AL, em repercussão geral, firmou entendimento no Tema 823 de que os sindicatos possuem legitimidade extraordinária ampla para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.     4.  Em regra, as ações ajuizadas pelo sindicato, na condição de substituto processual, aproveitam a todos os integrantes da categoria representada, filiados ou não, independente de prévia autorização dos substituídos. A legitimação do sindicato caracteriza-se como extraordinária, pois atua em nome próprio na defesa de direito alheio (CPC, art. 18).     5. O apelante ajuizou o cumprimento de sentença, como substituto processual, de 10 (dez) dos seus filiados, em estrita obediência aos regramentos legais e constitucionais relacionadas à legitimidade do sindicato na defesa dos interesses da categoria representada.     6. O título executivo sob cumprimento está fundado em direito individual homogêneo, baseado na divisibilidade do direito vindicado, e protegido coletivamente.     7. É cabível a suspensão do cumprimento de sentença, sem avançar na análise da prescrição, até a conclusão do julgamento, pelo Superior Tribunal de Justiça, dos Embargos de Divergência opostos no REsp nº 1.301.935/DF.     9. Recurso conhecido e provido, com modulação de efeitos (suspensão do processo). (Acórdão 1650523, 0708800-81.2022.8.07.0018, Rel. Des. DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 15/12/2022, publicado no PJe: 12/1/2023)
+
+APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUXÍLIO-ALIMENTAÇÃO. AÇÃO COLETIVA N. 59.888/96. VIOLAÇÃO À DIALETICIDADE RECURSAL. REJEITADA. LEGITIMIDADE EXTRAORDINÁRIA DO SINDICATO. RECONHECIDA. DESNECESSIDADE DE AUTORIZAÇÃO DOS SINDICALIZADOS PARA O CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. TEMA 823 DO STF. SENTENÇA ANULADA. REMESSA DOS AUTOS AO JUÍZO A QUO PARA REGULAR PROCESSAMENTO DO FEITO. 1. Trata-se de apelação contra a sentença que extinguiu sem resolução de mérito cumprimento individual de sentença coletiva relativa à ação n. 59.888/96, uma vez que o sindicato não cumpriu emenda à inicial para apresentar documentos e procurações dos substituídos.  2. Em que pese ter o sindicato defendido apenas em sede de apelo sua legitimação ativa extraordinária, trata-se de matéria de ordem pública que pode ser conhecida até mesmo de ofício. 2.1. Ademais, o fundamento adotado na sentença - descumprimento de emenda à inicial que determinava a regularização da representação dos credores no polo ativo - está diretamente relacionado à arguição recursal de legitimidade do Sindicato, cujo acolhimento implicará na desnecessidade de apresentação de procurações individualizadas dos substituídos. 2.2. Assim, o reconhecimento da legitimidade do sindicato, seja por se tratar de matéria de ordem pública cognoscível de ofício seja por estar diretamente relacionada ao fundamento da sentença, impõe a rejeição da preliminar de violação à dialeticidade recursal. 3. O art. 8º, III, da CF, confere aos sindicatos a legitimação extraordinária para a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas. 3.1. Os interesses envolvidos no presente cumprimento individual de sentença coletiva são da categoria individuais homogêneos (art. 81, III, do CDC), uma vez que possui titulares determinados ou determináveis (servidores substituídos pelo sindicato na ação coletiva n. 59.888/96) e decorrem de origem comum (suspensão do pagamento do tíquete alimentação). 3.2. Pela interpretação sistemática do Tema 823 do STF com o art. 97 do CDC, conclui-se que o sindicato é legitimado para ajuizar cumprimento individual de sentença coletiva, sendo dispensável a apresentação da autorização dos substituídos (AREsp n. 1.715.882/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/8/2022, DJe de 22/8/2022.).  4. Por conseguinte, não se constata irregularidade na representação processual que possa ensejar o indeferimento da petição inicial, pois foi juntada a procuração necessária, com a outorga de poderes de representação aos advogados que subscrevem o cumprimento individual de sentença. 5. Com a declaração de erro no procedimento em que incorreu o Juízo a quo ao não reconhecer a legitimidade ativa extraordinária do Sindicato, a preliminar de "error in procedendo" suscitada pelos Apelantes fica prejudicada, pois sequer era necessária a apresentação de procurações e documentos pessoais dos substituídos pelo Sindicato, o qual, por sua vez, está regularmente representado. 6. Apelo conhecido e provido. Sem honorários sucumbenciais e recursais, diante do provimento do apelo para determinar o retorno dos autos ao Juízo a quo para regular processamento do feito. (Acórdão 1676892, 0710299-03.2022.8.07.0018, Rel. Des. ROBERTO FREITAS FILHO, 3ª Turma Cível, data de julgamento: 22/3/2023, publicado no DJE: 28/3/2023)
+
+Dessa forma, a sentença deve ser anulada para o processamento do feito.
+Ante o exposto, dou provimento ao recurso.
+É como voto.
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 1º Vogal Com o relatorO Senhor Desembargador JOÃO LUIS FISCHER DIAS - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. DAR PROVIMENTO AO RECURSO. UNÂNIME
