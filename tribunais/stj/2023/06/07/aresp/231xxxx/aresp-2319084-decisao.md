@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDA TAMARA SIMÕES FAKHREDDINE, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, a agravante foi condenada pela prática do delito previsto no artigo 1º, I e III, da Lei 8.137/1990, na forma do art. 71 do Código Penal, às penas de 2 (dois) anos e 4 (quatro) meses de reclusão e prestação pecuniária no valor de 1 (um) salário-mínimo, em regime inicial aberto, substituída por restritivas de direitos consistente em prestação de serviços à comunidade.
+Com o trânsito em julgado da condenação, foi ajuizada revisão criminal cujo pedido foi indeferido pela Corte estadual (fls. 47-54).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição Federal, a insurgente alegou violação dos 1º, I e III, da Lei 8.137/1990; 29, caput, do Código Penal; e 621, I, do Código de Processo Penal, pois o Tribunal de origem considerou que a mera posição de sócia é suficiente para caracterizar a responsabilidade penal e a prática nuclear típica e não atentou para o fato de que inexistem provas contra a recorrente.
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja julgado procedente o pedido de revisão criminal e declarada a absolvição da recorrente.
+Apresentadas as contrarrazões (fls. 106-111), sobreveio juízo negativo de admissibilidade fundado: i) na deficiência de fundamentação nos moldes do artigo 1.029 do Código de Processo Civil; ii) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam revolvimento fático-probatório; e iii) na falta da demonstração do alegado dissídio jurisprudencial (fls. 114-115).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 118-129).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 152-155).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 7/STJ.
+A defesa nas razões de fls. 118-129, em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ alegou que a questão "pretende a recorrente em seu recurso especial ver reconhecido que a posição de sócia não atrai o elemento subjetivo do crime. Tal apreciação não depende de verificação de prova." (fl. 127).
+No caso, deveria a agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
