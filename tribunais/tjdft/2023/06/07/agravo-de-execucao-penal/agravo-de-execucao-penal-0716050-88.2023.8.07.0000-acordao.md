@@ -1,0 +1,130 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0716050-88.2023.8.07.0000AGRAVANTE(S)LUIZ HENRIQUE LAIA FERREIRAAGRAVADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatoraDesembargadora LEILA ARLANCH
+ Acórdão Nº1712162
+
+EMENTA
+
+AGRAVO EM EXECUÇÃO PENAL. REQUERIMENTO DE VISITAS. GENITOR DO APENADO. CUMPRIMENTO DE PENA. ABERTO. PORTARIA N. 8/2016-VEP. VEDAÇÃO. INDEFERIMENTO. LEGALIDADE DA DECISÃO.
+
+1. O artigo 41, inciso X, da Lei de Execução Penal, garante ao preso o direito de receber visita do cônjuge, da companheira, de parentes e amigos em dias determinados. O direito, contudo, não é absoluto e irrestrito, podendo ser limitado pelo Juízo das Execuções (parágrafo único do art.41- LEP).
+
+2. In casu, o pretendente à visitação, genitor do agravante, encontra-se em cumprimento de pena no regime aberto.
+
+3. A restrição estabelecida na Portaria n. 8/2016-VEP não é desarrazoada e desproporcional, uma vez que existe a possibilidade em concreto que a visitação venha frustrar a finalidade especial positiva e negativa da sanção penal – ressocializar e evitar reincidência, respectivamente – do reeducando que se encontra em etapa mais avançada da ressocialização, devendo ser evitada a interação com ambiente que possa gerar risco de nova incursão criminosa.
+
+4. Agravo em execução conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, LEILA ARLANCH - Relatora, GISLENE PINHEIRO - 1º Vogal e ASIEL HENRIQUE DE SOUSA - 2º Vogal, sob a Presidência da Senhora Desembargadora SIMONE LUCINDO, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Junho de 2023
+
+Desembargadora LEILA ARLANCHRelatora
+
+RELATÓRIO
+
+Trata-se de AGRAVO DE EXECUÇÃO PENAL interposto por LUIZ HENRIQUE LAIA FERREIRA contra decisão do Juízo de Execuções Penais que indeferiu pedido de visitas formulado por RICARDO ALEXANDRE DE PAULA FERREIRA, genitor do custodiado, nos seguintes termos, in verbis (ID46188512 - Pág. 43):
+
+Trata-se de pedido de visitas formulado por RICARDO ALEXANDRE DE PAULA FERREIRA(mov. 49.1), genitor do custodiado.
+
+Ouvido, o Ministério Público manifestou-se regularmente nos autos.
+
+Relatei.
+
+DECIDO.
+
+O pedido não comporta acolhimento.
+
+Com efeito, o art. 64, do Código Penitenciário do Distrito Federal, foi declarado inconstitucional em decisão proferida pelo TJDFT, nos autos da ADI 2017.00.2.020.824-6. A visitação, portanto, voltou a ser disciplinada pela Portaria VEP/DF nº 8/2016, que, em seu art. 6º, impede a visitação por quem está em cumprimento de pena em regime aberto, como é o caso em tela.
+
+Assim, INDEFIRO o pedido.
+
+Intimem-se.
+
+Após, não havendo novos requerimentos, arquivem o feito com as cautelas de praxe.
+
+O agravante cumpre pena de reclusão, pela prática do crime de tráfico de drogas, e atualmente se encontra no regime fechado.
+
+Foi requerido pela defesa, em favor de RICARDO ALEXANDRE DE PAULA FERREIRA, genitor do interno, autorização para visitação.
+
+Em sua decisão, o Juízo da VEP indeferiu o pleito de autorização de visitas com fulcro no art. 6º da Portaria VEP/DF nº 8/2016, que impede a visitação por quem está em cumprimento de pena em regime aberto, como é o caso em apreço.
+
+O agravante aduz (ID46188511 - Pág.9/16), em síntese: a) o impedimento da visita afronta direitos do apenado e de seu genitor; b) conforme a legislação referenciada nas suas razões, “o direito de visitas não encontra qualquer espécie de limitação prevista em norma, salvo a decorrente de expressa proibição judicial, o que não é o caso dos autos”; c) a Portaria é um ato administrativo que veicula norma hierarquicamente inferior à lei, de modo que o juiz não pode decidir com fulcro em ato que estabelece diretrizes contrárias às previstas em lei; d) “o contato com parentes e amigos é essencial para a manutenção da estabilidade emocional do detento” e, por conseguinte, contribui para a ressocialização do apenado.
+
+Pugna pelo conhecimento e provimento do recurso, para que seja autorizada a visita de RICARDO ALEXANDRE DE PAULA FERREIRA, genitor do apenado.
+
+O Ministério Público ofereceu contrarrazões (ID 46188512 - Pág. 64/68), pugnando pelo conhecimento do recurso interposto e, no mérito, o seu desprovimento.
+
+A Procuradoria de Justiça, anuindo com as contrarrazões oferecidas, reiterou os seus termos, pugnando pelo conhecimento e desprovimento do recurso (ID46528369).
+
+A decisão foi mantida pelo juízo a quo (ID46188512 - Pág. 70).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LEILA ARLANCH - Relatora Designada e Relatora
+
+Presentes seus pressupostos, conheço do presente agravo.
+
+Cuida-se de AGRAVO DE EXECUÇÃO PENAL interposto por LUIZ HENRIQUE LAIA FERREIRA contra decisão que indeferiu o pedido de visitas formulado por RICARDO ALEXANDRE DE PAULA FERREIRA, genitor do agravante (ID 46188512 - Pág. 43).
+
+Sustenta o agravante (ID46188511 - Pág.9/16), em síntese: a) o impedimento da visita afronta direitos do apenado e de seu genitor; b) conforme a legislação referenciada nas suas razões, “o direito de visitas não encontra qualquer espécie de limitação prevista em norma, salvo a decorrente de expressa proibição judicial, o que não é o caso dos autos”; c) a portaria é um ato administrativo que veicula norma hierarquicamente inferior à lei, de modo que o juiz não pode decidir com fulcro em ato que estabelece diretrizes contrárias às previstas em lei; d) “o contato com parentes e amigos é essencial para a manutenção da estabilidade emocional do detento” e, por conseguinte, contribui para a ressocialização do apenado.
+
+O Ministério Público, em contrarrazões (ID 46188512 - Pág. 64/68), aduz que: a) o TJDFT declarou a inconstitucionalidade do art. 64 do Código Penitenciário do Distrito Federal, voltado a viger a Portaria nº 8/2016-VEP; b) conforme o art. 6 da referida Portaria, é vedada a realização de visita por pessoa que esteja cumprindo pena em regime carcerário aberto ou em gozo de Livramento Condicional; c) o direito às visitas não é absoluto.
+
+Requer o conhecimento do recurso interposto e, no mérito, o seu desprovimento.
+
+A Procuradoria de Justiça, anuindo com as contrarrazões oferecidas, reiterou os seus termos, pugnando pelo conhecimento e desprovimento do recurso (ID46528369).
+
+Mérito Recursal.
+
+Acerca do direito à visitação cumpre destacar que a Lei de Execução Penal - LEP, em seu artigo 3º, estabelece que “ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei”, elencando, em seu artigo 41, X, entre os direitos do preso, a “visita do cônjuge, da companheira, de parentes e amigos em dias determinados”.
+
+Entretanto, embora seja relevante no processo de ressocialização do apenado, não se trata de direito absoluto, podendo-se impor limitações ao seu exercício conforme preconiza o parágrafo único do art. 41 da LEP, in verbis:
+
+Art. 41 - Constituem direitos do preso:
+
+X - visita do cônjuge, da companheira, de parentes e amigos em dias determinados;
+
+Parágrafo único. Os direitos previstos nos incisos V, X e XV poderão ser suspensos ou restringidos mediante ato motivado do diretor do estabelecimento. (GA).
+
+O direito às visitas voltou a ser regido pela Portaria n.º 8/2016 da Vara de Execuções Penais - VEP, após a declaração de inconstitucionalidade do art. 64, §1º, do Código Penitenciário do Distrito Federal, que vedava restrições de visitações àqueles condenados que estivessem vinculados à regime aberto, dentre outras (ADI 2017.00.2.020824-6).
+
+Acerca da restrição à visitação estabelecida na referida Portaria, esta Corte compreendeu pela sua compatibilidade com a Constituição Federal. In verbis:
+
+AGRAVO EM EXECUÇÃO PENAL. RESTRIÇÃO DO DIREITO DE VISITA AO PRESO. AMIGA DO INTERNO. VISITA A OUTRO APENADO. PORTARIA DA VEP/DF QUE PROÍBE A VISITAÇÃO A MAIS DE UM PRESO. ART. 41, X, DA LEI DE EXECUÇÃO PENAL. ART. 7º DA PORTARIA Nº 08/2016 DA VARA DE EXECUÇÕES PENAIS. PROIBIÇÃO DE VISITA. POSSIBILIDADE. DECISÃO MANTIDA. 1. A Lei de Execução Penal, em seu art. 3º, estabelece que "ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei", elencando em seu art. 41, X, entre os direitos do preso a "visita do cônjuge, da companheira, de parentes e amigos em dias determinados." 2. É certo que o direito à visitação não é absoluto e ilimitado, podendo ser suspenso ou restringido, consoante parágrafo único do art. 41 da LEP, importando observar outros princípios atinentes à execução penal, a exemplo da segurança e disciplina dentro dos presídios, assim como da integridade física dos detentos e dos visitantes. 3. Nos termos do artigo 7º da referida portaria, "é vedada a realização de visita a mais de um interno, ainda que em estabelecimentos prisionais distintos, salvo em caso de pai ou mãe, ou quando o visitante seja o único familiar a visitar pelo menos um deles." 4. O escopo da Portaria nº 8/2016 é conciliar o direito dos presos de receber visitar com a promoção de medidas assecuratórias da segurança individual e coletiva, disciplinando a entrada de visitantes nos estabelecimentos prisionais, de modo que a restrição ao direito de visita, consoante prescreve o art. 7º da mencionada Portaria, se revela proporcional e adequada, se coadunando com a Constituição Federal. Precedentes. 5. Impõe-se a manutenção de decisão que indeferiu o pedido de visita em razão de a interessada, amiga do recorrente, já realizar visitas a outro interno, como medida necessária à segurança individual e coletiva no estabelecimento prisional. 6. Agravo em execução penal conhecido e não provido. (Acórdão 1619286, 07282670320228070000, Relator: SIMONE LUCINDO,  1ª Turma Criminal, data de julgamento: 22/9/2022, publicado no PJe: 7/10/2022. Pág.:  Sem Página Cadastrada.). (GA).
+
+In casu, o pretendente à visitação, genitor do agravante, encontra-se em cumprimento de pena em regime aberto.
+
+A restrição estabelecida na Portaria n. 8/2016-VEP não é desarrazoada e desproporcional, uma vez que existe a possibilidade em concreto que a visitação venha frustrar a finalidade especial positiva e negativa da sanção penal – ressocializar e evitar reincidência, respectivamente – do reeducando que se encontra em etapa mais avançada da ressocialização, devendo ser evitada a interação com ambiente que possa gerar risco de nova incursão criminosa.
+
+Desse modo, tendo em vista já ter se envolvido em crime, impõe-se um dever maior de cautela na autorização de seu ingresso no estabelecimento prisional, como é o caso.
+
+A propósito, no mesmo sentido, confira-se a Jurisprudência desta Corte:
+
+PENAL E PROCESSO PENAL. AGRAVO EM EXECUÇÃO PENAL. AUTORIZAÇÃO DE VISITA. POSTULANTE EM CUMPRIMENTO DE PENA NO REGIME ABERTO. 1. O artigo 41, X, da LEP, arrola como um dos direitos do preso a "visita do cônjuge, da companheira, de parentes e amigos em dias determinados" com vistas a mitigar o natural distanciamento do núcleo familiar imposto pelo cumprimento da pena, medida também benéfica para sua ressocialização. 2. Também prevê a mesma norma a possibilidade de restrição de direitos do sentenciado, desde que devidamente fundamentada a decisão. 3. Plausível a denegação de ingresso de condenado que cumpre pena em regime aberto, em estabelecimento prisional, para visitar interno, tendo em vista o risco concreto de que tal contato prejudique a finalidade reparadora da sanção daquele em estágio mais avançado do processo de ressocialização. 4. Recurso desprovido.  (Acórdão 1690424, 07067328120238070000, Relator: ASIEL HENRIQUE DE SOUSA,  1ª Turma Criminal, data de julgamento: 20/4/2023, publicado no PJe: 27/4/2023. Pág.:  Sem Página Cadastrada.).(GA).
+
+AGRAVO EM EXECUÇÃO PENAL. REQUERIMENTO DE VISITAS. COMPANHEIRA E CORRÉ DO APENADO. CUMPRIMENTO DE PENA. INDEFERIMENTO. LEGALIDADE DA DECISÃO. O artigo 41, inciso X, da Lei de Execução Penal, garante ao preso o direito de receber visita do cônjuge, da companheira, de parentes e amigos em dias determinados. O direito, contudo, não é absoluto e irrestrito, podendo ser limitado pela administração penitenciária e pelo Juízo das Execuções, em situações excepcionais, tal qual na situação vertente, em que a companheira do apenado figurou como corré deste nos três crimes pelos quais está cumprindo pena. A concessão do pedido de visitação realizado por pessoa que está cumprindo pena encontra óbice no disposto no art.6º, da Portaria 008/2016 da VEP/DF.   (Acórdão 1672890, 07019442420238070000, Relator: ESDRAS NEVES,  1ª Turma Criminal, data de julgamento: 1/3/2023, publicado no PJe: 15/3/2023. Pág.:  Sem Página Cadastrada.).(GA).
+
+AGRAVO EM EXECUÇÃO PENAL. DIREITO DE VISITA. COMPANHEIRA EM CUMPRIMENTO DE PENA NO REGIME ABERTO. INDEFERIMENTO. PORTARIA VEP Nº 8, ART. 6º. VEDAÇÃO. DIREITO NÃO ABSOLUTO. DECISÃO MANTIDA. 1. O direito de visita aos internos não é absoluto, podendo ser restringido ou suspenso conforme as circunstâncias do caso concreto, nos termos do art. 41, parágrafo único, da LEP. 2. Mantém-se a decisão do Juízo da Vara de Execuções Penais que vedou o direito de visitas da companheira do interno, que se encontra em cumprimento de pena em regime aberto, a teor do que dispõe o art. 6º da Portaria nº 8/2016-VEP. Precedentes. 3. AGRAVO EM EXECUÇÃO PENAL CONHECIDO E NÃO PROVIDO. (Acórdão 1420255, 07081976220228070000, Relator: HUMBERTO ULHÔA,  1ª Turma Criminal, data de julgamento: 5/5/2022, publicado no PJe: 11/5/2022. Pág.:  Sem Página Cadastrada.).(GA).
+
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL. PLEITO DE AUTORIZAÇÃO DE VISITA EM ESTABELECIMENTO PRISIONAL. INDEFERIMENTO. AMIGO DO APENADO. POSTULANTE EM CUMPRIMENTO DE PENA EM REGIME ABERTO. VEDAÇÃO DE VISITA EM ATENDIMENTO AO ART. 5º DA CONSTITUIÇÃO FEDERAL, RESOLUÇÃO Nº 008/2016 DA VEP-DF C/C ART. 41, PARÁGRAFO ÚNICO, LEP. ART. 64 DO CÓDIGO PENITENCIÁRIO DO DISTRITO FEDERAL DECLARADO INCONSTITUCIONAL PELA ADI 2017.00.2.020.824-6. RECURSO DESPROVIDO. 1. O artigo 41, inciso X, da Lei de Execução Penal assegura ao preso o direito de receber visita do cônjuge, da companheira, de parentes e amigos em dias determinados. Tal dispositivo consagra a relevância da presença dos familiares e do apoio destes para a reeducação e reinserção do sentenciado na sociedade, pois a manutenção do convívio familiar é salutar e extremamente benéfica para a ressocialização do preso, constituindo, pois, direito a ser preservado e garantido ao encarcerado pelo Estado. 2. A Constituição Federal, por sua vez, assegura a assistência da família ao preso. Da mesma forma, as Regras Mínimas da ONU para o Tratamento de Reclusos e a Resolução nº 14 do Conselho Nacional de Política Criminal e Penitenciária buscam assegurar o direito de comunicação dos presos com familiares, parentes, amigos ou instituições idôneas, por correspondência ou por meio de visitas. 3. Saliente-se, entretanto, que o direito de visitas ao preso não é absoluto ou irrestrito, podendo ser restringido ou suspenso a depender das circunstâncias do caso concreto. 4. A circunstância de estar o postulante da autorização de visitação em estabelecimento prisional, cumprindo pena ou mesmo respondendo a processo criminal constitui óbice ao exercício do direito de visita, uma vez que, nessas hipóteses, há de preponderar a necessidade de preservação da instituição pública sobre o direito de visita do preso, que não é absoluto e irrestrito, conforme prevê o parágrafo único do artigo 41 da Lei nº 7.210/1984. 5. A Portaria nº 08/2016 da Vara de Execuções Penais do Distrito Federal regulamenta o ingresso de visitantes ordinários e extraordinários nos estabelecimentos prisionais, bem como a realização de visitas e pesquisas acadêmicas, no âmbito do sistema penitenciário do Distrito Federal, dispondo em seu art. 6º: "É vedada a realização de visita por pessoa que esteja cumprindo pena em regime carcerário aberto ou em gozo de Livramento Condicional."  6. Recurso CONHECIDO e DESPROVIDO. Decisão mantida. (Acórdão 1656541, 07348016020228070000, Relator: ROBSON BARBOSA DE AZEVEDO,  2ª Turma Criminal, data de julgamento: 26/1/2023, publicado no PJe: 9/2/2023. Pág.:  Sem Página Cadastrada.).
+
+EXECUÇÃO PENAL. AUTORIZAÇÃO DE VISITA. POSTULANTE CONDENADA EM REGIME ABERTO. INDEFERIMENTO. FINALIDADE REPARADORA DA SANÇÃO. DECISÃO MANTIDA. 1. O art. 41, inc. X, da LEP, elenca como um dos direitos do preso a "visita do cônjuge, da companheira, de parentes e amigos em dias determinados" com vistas a mitigar o natural distanciamento do núcleo familiar imposto pelo cumprimento da pena, medida também benéfica para sua ressocialização. 2. Entretanto, esse mesmo dispositivo também prevê a possibilidade de restrição de direitos do sentenciado, nessa e em outras hipóteses, desde que devidamente fundamentada (art. 41, incs. X e XV, LEP). 3. Não se mostra prudente a autorização de ingresso de condenada, que cumpre pena em regime prisional aberto, em estabelecimento prisional para visitar interno, tendo em vista o risco concreto de que tal contato prejudique a finalidade reparadora da sanção daquela em estágio mais avançado do processo de ressocialização. 4. Agravo conhecido e desprovido. (Acórdão 1650314, 07307605020228070000, Relator: JANSEN FIALHO DE ALMEIDA,  3ª Turma Criminal, data de julgamento: 7/12/2022, publicado no PJe: 19/12/2022. Pág.:  Sem Página Cadastrada.). .(GA).
+
+Assim, deve ser mantida a decisão que indeferiu o pedido de autorização de visita de RICARDO ALEXANDRE DE PAULA FERREIRA ao recluso LUIZ HENRIQUE LAIA FERREIRA.
+
+Pelo exposto, NEGO PROVIMENTO ao recurso.
+
+É como voto.
+
+A Senhora Desembargadora GISLENE PINHEIRO - 1º Vogal Com o relatorO Senhor Desembargador ASIEL HENRIQUE DE SOUSA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO. UNÂNIME
