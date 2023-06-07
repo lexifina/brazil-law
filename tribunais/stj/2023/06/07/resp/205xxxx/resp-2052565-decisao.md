@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por GUMERCINDO BARP, com fulcro no art. 105, III, a e c, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 62):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. PROCESSO ADMINISTRATIVO. DESPACHO ORDINATÓRIO. AUSÊNCIA DE INTERRUPÇÃO.
+1. A teor do que dispõe o artigo 1º, §1º, da Lei 9.873/99, restando paralisado o processo administrativo durante período superior a 3 (três) anos, fica configurada a prescrição intercorrente.2. Conforme precedentes desta Corte, meros despachos ordinatórios de encaminhamento ou impulso do processo administrativo não configuram causa interruptiva do prazo prescricional.
+3. Paralizado o processo administrativo por mais de 3 (três) anos sem que houvesse a prática de qualquer ato inequívoco que importe apuração do fato ou capaz de suspender ou interromper o curso do lapso prescricional, deve ser reconhecida a ocorrência da prescrição intercorrente.
+Embargos de declaração opostos e acolhidos com efeitos modificativos, conforme disposto na seguinte ementa (fl. 114):
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. PROCESSO ADMINISTRATIVO.
+1. A teor do que dispõe o artigo 1º, §1º, da Lei 9.873/99, restando paralisado o processo administrativo durante período superior a 3 (três) anos, fica configurada a prescrição intercorrente.
+2. Caso em que o despacho proferido pelo Superintendente do IBAMA foi condição para o encaminhamento do processo para instrução e julgamento na primeira instância, interrompendo a prescrição.
+3. Embargos de declaração providos, com efeitos infringentes.
+O recorrente alega violação do art.. 1.022, II, do CPC/2015, ao argumento de que "aquele colegiado ter sanada a omissão referente ao art. 942, § 3º, II do CPC com a convocação de outros julgadores para compor o colegiado ampliado" (fl. 160).
+Sustenta negativa de vigência aos arts. 942, § 3º, II, do CPC/2015; 1º, § 1º, da Lei n. 9.873/1999; 2º, I a IV, da Lei n. 9.873/1999; e 6º da Lei n. 9.605/1998 consignando em seus argumentos: (i) dada a sua natureza integrativa, o acolhimento dos embargos de declaração, com efeitos infringentes, em acórdão não unânime, enseja a aplicação da técnica de ampliação do colegiado; (ii) ocorrida a prescrição no processo administrativo, ao argumento de que o despacho ordinatório de encaminhamento para julgamento /impulso do processo administrativo não configuraria causa interruptiva da prescrição; (iii) a penalidade aplicada não observou os critérios legais de gradação. Aponta dissídio jurisprudencial quanto ao art. 1º, § 1º, da Lei n. 9.873/1999 aduzindo julgados no sentido de que o mero despacho de encaminhamento não representa impulso ao processo e, portanto, não interrompe o curso da prescrição.
+Contrarrazões a fls. 194-202.
+Juízo positivo de admissibilidade a fls. 205/206.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a apontada afronta ao art. 1.022, II, do CPC/2015, porquanto a Corte a quo, manifestou-se, de forma clara e fundamentada, sobre a questão aventada, posto tenha firmado entendimento diverso da tese pugnada pela parte - o que, por si só, não configura vício de omissão.
+Confira-se o entendimento expendido, in verbis (fl. 148):
+No caso concreto, ainda que a decisão tenha tratado do julgamento parcial do mérito, os votos majoritários não resultaram na reforma da decisão agravada.
+Logo, inaplicável a sistemática prevista no artigo 942 à hipótese, do que resulta a inexistência de omissão no julgado no tocante à possibilidade de sua aplicação.
+A técnica prevista no art. 942 do CPC/2015, denominada técnica de ampliação de colegiado, aplica-se às hipóteses de julgamento não unânime de recurso de apelação, de ação rescisória (quando o resultado for a rescisão da sentença) e de agravo de instrumento (quando houver reforma da decisão que julgou parcialmente o mérito), e é de observância automática e obrigatória.
+Na espécie, confere-se que a Corte a quo, ao julgar agravo de instrumento da parte ora recorrente, deu provimento ao recurso, reformando a decisão agravada, por unanimidade. Opostos embargos de declaração, o Tribunal de origem, por maioria, acolheu o recurso integrativo, com efeitos infringentes, modificando o acórdão principal quanto ao mérito (prescrição intercorrente), mantendo inalterada a decisão da primeira instância, ou seja: o agravo de instrumento foi não provido, por maioria, não havendo reforma da decisão agravada, para fins de aplicação da técnica do art. 942, § 3º, II, do CPC/2015.
+Nesse passo, em se tratando de julgamento de agravo de instrumento, a situação dos autos não enseja a aplicação da técnica do colegiado ampliado.
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ EXECUTIVIDADE.  ART. 942 DO CPC/15. TÉCNICA DO JULGAMENTO AMPLIADO.  DECISÃO RECORRIDA EM SINTONIA COM O ENTENDIMENTO DESTA CORTE. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+II - Quanto à matéria relacionada à alegação de violação do art. 942, caput e § 3º, II, do CPC/15, o Tribunal de origem, para decidir a controvérsia dos autos, firmou sua conclusão no sentido de que, "no caso dos autos, não se está diante de reforma da decisão que julgar parcialmente o mérito, não se aplicando, portanto, a sistemática prevista no artigo 942 do Código de Processo Civil."
+
+V - Ainda que fosse superado o referido óbice, observa-se que a decisão recorrida encontra-se em sintonia com o entendimento firmado nesta Corte Superior, no sentido de que a técnica do julgamento ampliado só tem aplicação, no caso do recurso de agravo de instrumento, quanto há a reforma da decisão que julgar parcialmente o mérito. Nesse sentido confiram-se: AgInt no AREsp n. 1.654.813/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/6/2020, DJe de 1/7/2020; REsp n. 1.960.580/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/10/2021, DJe de 13/10/2021 e AgInt no AREsp n. 1.555.524/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/5/2021, DJe de 4/6/2021.
+ ..
+(AgInt no AgInt no AREsp n. 1.987.518/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+ ..
+2. A técnica do julgamento ampliado em sede de agravo de instrumento, prevista no art. 942, § 3º, II, do CPC/2015, somente é cabível quando houver o provimento do recurso por maioria de votos e desde que a decisão agravada tenha julgado parcialmente o mérito. Precedentes.
+ ..
+(AgInt no AREsp n. 1.958.672/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022)
+PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.  ..  RECURSO JULGADO POR MAIORIA. APLICAÇÃO DA TÉCNICA DE JULGAMENTO AMPLIADO. ART. 942, § 3º, II, DO NCPC. POSSIBILIDADE. OBSERVADA, CONTUDO, A REFORMA DA DECISÃO QUE JULGAR PARCIALMENTE O MÉRITO. AUSÊNCIA DE REFORMA NO CASO EM COMENTO. AGRAVO DE INSTRUMENTO QUE NÃO FOI PROVIDO, POR MAIORIA.  ..  NECESSIDADE DE ANULAÇÃO DOS VOTOS PROFERIDOS EM SEDE DE JULGAMENTO AMPLIADO PARA FAZER PREVALECER O QUE FICOU DECIDIDO, POR MAIORIA DE VOTOS, PELO RELATOR, PRIMEIRO E SEGUNDO VOGAIS (NÃO PROVIMENTO DO AGRAVO DE INSTRUMENTO). RECURSO ESPECIAL PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Somente se admite a técnica do julgamento ampliado, em agravo de instrumento, prevista no art. 942, § 3º, II, do NCPC, quando houver o provimento do recurso por maioria de votos e desde que a decisão agravada tenha julgado parcialmente o mérito. Doutrina sobre o tema.
+3. Ausência, no caso dos autos, de provimento do agravo de instrumento, por maioria de votos, e de decisão agravada que tenha analisado o mérito da causa.
+4. Reconhecido que o julgamento ampliado se deu em confronto com a lei, devem ser anulados os votos proferidos na modalidade ampliada para prevalecer somente aqueles votos proferidos pelo Desembargador Relator e Primeiro Vogal, que o acompanhou, que entenderam, por maioria, em negar provimento ao agravo de instrumento.
+5. Recurso especial provido.
+(REsp n. 1.960.580/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/10/2021, DJe de 13/10/2021)
+Havendo conformidade do acórdão com a jurisprudência do STJ, ao recurso, no ponto, aplica-se o teor da Súmula 83STJ.
+A questão da multa carece do cumprimento do requisito do prequestionamento, incidindo, no ponto, o óbice da Súmula 282/STF.
+Quanto à questão da interrupção ou não do curso da prescrição, assim dispõe o § 1º do art. 1º da Lei n. 9.873/1998: "§ 1º Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.
+No caso, o órgão julgador dispôs no acórdão (fls. 119, com grifos nossos):
+No caso, a análise dos elementos probatórios existentes nos autos comprova a prescrição intercorrente: a o auto de infração foi lavrado em 01/06/2011,em 25/07/2011 o autuado apresentou defesa administrativa ( p. 28, OUT6,ev. 8) , em 28/09/2012 sobreveio decisão indeferindo a produção de provas(p. 14, OUT10, ev. 8), alegações finais apresentadas em 17/10/2012 (p. 10,OUT11, ev. 8) e, em 09/12/2015 foi proferida decisão administrativa de 1ªinstância (p. 21, OUT12, ev. 8).
+ ..
+Ocorre, na verdade, que no mês de janeiro de 2013 o Superintendente do IBAMA encaminhou o processo para instrução e julgamento em primeira instância, em observância às disposições acerca das competências estabelecidas na IN IBAMA nº 10/2012 (p.20 do processo 5013935-06.2020.4.04.7200/SC, evento 8, DOC12.
+Encaminhado o processo por decisão do Superintendente, na sequência, em dezembro de 2015, foi proferida decisão no processo administrativo. Como se vê, o processo efetivamente não restou paralisado por período superior a três anos.
+O despacho proferido pelo Superintendente foi condição para o encaminhamento do processo para instrução e julgamento na primeira instância, interrompendo a prescrição.
+Assim delineados os fatos, inviável a alteração da conclusão adotada pelo Tribunal a quo, sem o reexame da matéria fática considerada, providência vedada no âmbito do recurso especial, incidindo o óbice da Súmula 7/STJ, conforme jurisprudência do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE EM PROCESSO ADMINISTRATIVO. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. ÓBICE DA SÚMULA 7 DO STJ. AUTO DE INFRAÇÃO. LAVRATURA. COMPETÊNCIA DO IBAMA.
+1. A alteração das conclusões adotadas pelo Tribunal local, tal como colocada a questão nas razões recursais, no sentido de afirmar a não ocorrência de causa interruptiva da prescrição no curso do processo administrativo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+
+(AgInt no REsp n. 1.923.015/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AGÊNCIA NACIONAL DA SAÚDE. MULTA APLICADA COM BASE NA RESOLUÇÃO N. 24/2000. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA LEGALIDADE. PRESCRIÇÃO INTERCORRENTE ADMINISTRATIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. OCORRÊNCIA. REVISÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. RESOLUÇÃO ANS. ATO NORMATIVO QUE ESCAPA AO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme restou asseverado na decisão agravada, o Tribunal a quo, soberano na análise dos elementos probatórios dos autos, concluiu não ter havido a prescrição intercorrente porquanto comprovado que o processo administrativo não ficou paralisado por mais de três anos.
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+ ..
+(AgInt no REsp n. 2.002.984/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023)
+Prejudicado o dissídio quanto à questão sobre a qual se aplicou óbice sumular quando do seu exame pela alínea "a" do permissivo constitucional.
+Ante todo o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INEXISTÊNCIA DE VÍCIOS. ART. 942, § 3, II, DO CPC/2015. TÉCNICA DO JULGAMENTO AMPLIADO. HIPÓTESE NÃO CONFIGURADA. CONFORMIDADE DO ACÓRDÃO. SÚMULA 83/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PROCESSO ADMINISTRATIVO. PRESCRIÇÃO. NÃO INTERRUPÇÃO. REVISÃO DO JUÍZO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
