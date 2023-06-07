@@ -1,0 +1,59 @@
+DECISÃO
+GUSTAVO VITORIO RODRIGUES alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500628-31.2021.8.26.0081).
+Consta dos autos que o paciente, absolvido em primeiro grau, foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões da impetração, a defesa postula a absolvição, por ausência de provas da autoria do delito. Subsidiariamente pugna pela desclassificação da conduta para a do art. 28 da Lei n. 11.343/2006 ou, ainda, pelo redimensionamento da pena imposta, com a incidência da confissão, aplicação da causa de diminuição do art. 33, § 4º, da Lei de Drogas, abrandamento do regime e substituição da pena privativa de liberdade por restritivas de direitos.
+Indeferida a liminar, o  Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+I. Do crime de tráfico ilícito de entorpecentes
+Diz a denúncia que (fls. 282-283):
+2. Consta, também, que, no dia 16 de junho de 2021, por volta das 14h30, na Rua Sergipe, n. 300, Jardim Brasil, nesta cidade e comarca de Adamantina/SP, ANTÔNIO GUEDES ALECRIN e GUSTAVO VITORIO RODRIGUES guardavam/mantinham em depósito, para entrega a consumo de terceiros, 15 "invólucros", contendo 5,7g de Erythroxylum Coca L, droga vulgarmente conhecida por "cocaína", e venderam 02 "invólucros" com 0,8g da mesma droga para Helder Henri Benette, tudo sem autorização e em desacordo com determinação legal.
+Pelo que ficou apurado, os denunciados, pai e filho, uniram esforços para a prática de tráfico ilícito de drogas. Dentro da sociedade espúria a que se propuseram, cabia aos denunciados, em conjunto, a guarda e comercialização a terceiros usuários.
+Segue que a Polícia Militar recebeu notícia da traficância exercida por "Canguru" em sua própria residência. Então, na data do fato, militares postaram-se em local próximo e passaram a monitorar a movimentação, oportunidade em que visualizaram Helder chegar no local, descer do carro que dirigia, entrar na casa dos denunciados e sair logo em seguida.
+Caracterizada a movimentação típica de traficância, neste momento, policiais militares foram ao encalço de Helder e submeteram-no à revista pessoal, oportunidade em que foram encontradas duas porções de "cocaína".
+Na ocasião, Helder confirmou que comprou 2 invólucros de "cocaína" de ANTÔNIO, depois de tratativas preliminares com o denunciado GUSTAVO, pagando pela droga a quantia de R$100,00.
+Os militares, então, retornaram ao local, onde os denunciados foram abordados e indicaram a localização de outras 15 porções de cocaína  que guardavam dentro de um pote plástico, debaixo de algumas telhas no quintal  as quais estavam embaladas tal qual a droga anteriormente apreendida em poder do usuário.
+Durante as buscas, foi localizada, ainda, a quantia de R$1050,00, escondida dentro do forno do fogão a gás.
+A vultosa quantidade de droga apreendida, a forma de acondicionamento, bem como as demais circunstâncias da apreensão evidenciam que a droga estava na posse dos denunciados e que se destinava à traficância para a qual estavam associados.
+O Tribunal de origem, ao condenar o paciente pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, consignou (fls. 561-563, grifei):
+Acontece que a prova oral se mostrou bastante esclarecedora e convincente ao demonstrar que os réus, um aderindo a conduta delituosa do outro, praticaram o crime de tráfico de drogas.
+ ..
+Por outro lado, enquanto Antônio admitiu o comércio de drogas, dizendo que o fazia para pagar uma dívida decorrente de seu vício, o corréu Gustavo, que afirmou ter conhecimento sobre a atividade ilícita de seu pai, negou ter envolvimento com o crime.
+No entanto, importante destacar que o próprio réu Gustavo, em que pese tenha tentado convencer quanto a sua inocência, admitiu ter conduzido o usuário ao seu pai, que sabia ser traficante de drogas, a indicar, pois, que de alguma forma estava conluiado com Antônio no comércio nefasto.
+Destaca-se, ainda, que a despeito da testemunha Helder não ter se recordado da fisionomia de Gustavo em juízo, confirmou ter sido recebido no ponto de tráfico por um rapaz de pouca idade, que estava empinando pipa, e que, não bastasse no dia anterior ter se prontificado a providenciar os entorpecentes, no dia dos fatos o direcionou até o rapaz de mais idade (no caso, Antônio), de quem adquiriu as drogas. E, vale dizer, dúvidas não existem de que Gustavo era o tal rapaz de pouca idade indicado pela testemunha, seja porque o próprio réu confirmou estar empinando pipa quando Helder chegou ao local, seja porque os milicianos foram uníssonos ao afirmar tê-lo visto conversando com a testemunha no momento dos fatos.
+Assim, tendo em vista a dinâmica do ocorrido, que restou bem evidenciada pela prova oral coligida, e também estando comprovada a materialidade delitiva pelos laudos toxicológicos de fls. 214/216 e fls. 217/219, atestando que as substâncias apreendidas na posse eram cocaína, era mesmo imperiosa a condenação de ambos os acusados por infração ao artigo 33, "caput", da Lei de Drogas, salientando-se que não há dúvidas sobre a destinação ao consumo alheio, o que também foi presenciado pelos milicianos.
+Pelos trechos anteriormente transcritos, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa -, seria necessário, nesta oportunidade, realizar revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via estreita do habeas corpus.
+As duas Turmas que compõem a Terceira Seção desta Corte Superior entendem não ser cabível, no bojo do remédio heroico, o reexame aprofundado de fatos e provas para acolher o pedido de absolvição. Nesse sentido, cito o julgado a seguir:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016)
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destina a consumo pessoal, mas também o local e as condições em que se desenvolve a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+No caso em análise, apesar da pouca droga apreendida em poder do paciente, foi encontrado também relevante quantia em dinheiro e, após monitoração policial, foi avistado movimento típico de tráfico na localidade, inclusive com abordagem de testemunha que confirmou a compra de entorpecentes do corréu, "após tratativas preliminares com o denunciado GUSTAVO" (fl. 283).
+Diante de tais fundamentos, mostra-se inviável a absolvição ou a desclassificação da conduta imputada ao réu, sobretudo porque no processo penal vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no processo analisado.
+II. Confissão espontânea
+Não há confissão espontânea.
+De acordo com a sentença, o réu, em solo policial, afirmou que "não é usuário de drogas nem comercializa drogas" e que "não sabia que seu pai estava vendendo drogas e que tomou conhecimento no dia dos fatos" (ambos à fl. 421).
+Além disso, em juízo, o acusado manteve sua versão, ao assegurar que "não vende drogas e não tem nada a ver com a situação, pois quem vende drogas é seu pai" (fl. 422).
+Assim, não há constrangimento a ser sanado nesse particular.
+III. Aplicação da minorante do art. 33, § 4º, da Lei de Drogas
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+A Corte estadual negou a incidência do benefício ante a reincidência do réu (fl. 564).
+Nesse particular, esclareço que a instância de origem mencionou a certidão constante às fls. 170-172 dos autos originais (fls. 225-232 e-STJ) para justificar a conclusão pelos maus antecedentes e reincidência.
+Pela análise do referido documento percebe-se duas anteriores condenações com trânsito em julgado. A extinção da pena pelo cumprimento de tais condenações ocorreram em 8/8/2017 (Processo n. 0001305-82.2014.8.26.0081) e 21/11/2018 (Processo n. 0004167-26.2014.8.26.0081).
+Verifico, pois, que entre a extinção da pena pelo efetivo cumprimento das condenações anteriores e o fato que resultou na nova condenação (16/6/2021) não transcorreram os 5 anos relativos aos período depurador previsto no art. 64, I, do Código Penal, de modo que é idôneo o reconhecimento da reincidência.
+Além disso, no que tange à alegação de bis in idem, a jurisprudência desta Corte Superior é firme em assinalar que "não há se falar em bis in idem, sob o argumento de que a reincidência fora utilizada para agravar a pena na segunda fase da dosimetria e impedira a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006" (AgRg no HC n. 521.819/SP, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJPE), 5ª T., DJe de 29/10/2019). Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REINCIDÊNCIA. CONSIDERAÇÃO COMO AGRAVANTE E COMO IMPEDITIVO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4.º, DA LEI N. 11.343/2006. BIS IN IDEM. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. A reincidência obsta a aplicação da causa especial de diminuição de pena do art. 33, § 4.º, da Lei n. 11.343/2006, pois expressamente previsto em tal norma que tal benefício somente pode ser aplicado a agente primário, de bons antecedentes.
+2. Não constitui infração ao princípio do non bis in idem a utilização do instituto da reincidência, ao mesmo tempo, como agravante e como causa impeditiva da diminuição da pena.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 650.717/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 25/4/2022)
+Assim, não há como ser reconhecida a incidência do redutor em favor do paciente, haja vista a vedação expressa da concessão desse benefício ao acusados reincidentes, como é o caso do acusado.
+IV. Regime e substituição
+Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a imposição do regime inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal (sanção superior a 4 anos de reclusão, existência de circunstância judicial desfavorável e reincidência).
+Da mesma forma, também não há como ser determinada a substituição a reprimenda privativa de liberdade por restritiva de direitos, pois não está preenchido o requisito objetivo previsto no art. 44, I, do Código Penal (pena superior a 4 anos).
+V. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
