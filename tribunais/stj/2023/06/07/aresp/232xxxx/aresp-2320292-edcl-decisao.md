@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HAROLD LYRA VERGARA FILHO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+12. Com efeito, visando não ser posteriormente prejudicados pelo eventual pretexto de que a Decisão vergastada não tratou acerca da alegação de contrariedade, pelo Acórdão objeto do Recurso Especial, ao artigo 1.014 do CPC, mas apenas da negativa de vigência ao artigo 1.013, caput, do CPC, os Embargantes pugnam que Vossa Excelência DÊ PROVIMENTO aos Embargos de Declaração para reconhecer e corrigir o erro material constante no decisum de modo a substituir o trecho "a parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.013, caput e 1.013 do CPC, no que concerne à necessidade de conhecimento da apelação com relação à prescrição, por se tratar de matéria de ordem pública" pelo trecho "a parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.013, caput e 1.014 do CPC, no que concerne à necessidade de conhecimento da apelação com relação à prescrição, por se tratar de matéria de ordem pública", eliminando possível formalidade que possa ser invocada em seu desfavor quando da interposição de Agravo Interno (fls. 358/359).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos comportam acolhimento.
+Compulsando os autos, verifica-se que, de fato, houve erro material quanto à indicação dos artigos que foram indicados como violados no recurso especial.
+Portanto, onde se lê na decisão embargada: "A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.013, caput, e 1.013 do CPC  .. "; leia-se: "A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 1.013, caput, e 1.014 do CPC  .. ".
+Convém ressaltar, no entanto, que o teor da decisão de fls. 351-353, de não conhecimento do recurso especial, permanece incólume.
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para corrigir erro material verificado na decisão ora embargada, nos termos acima expostos, mantendo, porém, o conhecimento do agravo a fim de não conhecer do recurso especial (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
