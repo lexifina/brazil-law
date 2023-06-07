@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto por CLOTILDE DE SOUZA REIS e outras (CLOTILDE e outras), contra decisão de relatoria da Presidência do STJ, que não conheceu de agravo em recurso especial, em virtude de sua intempestividade.
+Os embargos de declaração opostos por CLOTILDE e outras foram rejeitados (e-STJ, fls. 890/894).
+Nas razões do presente inconformismo, defendeu que o recurso especial não era intempestivo, tendo em vista a suspensão dos prazos durante a pandemia do coronavírus (e-STJ, fls. 663/675).
+Foi apresentada contraminuta (e-STJ, fls. 916/925).
+É o relatório.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 849/850 e 890/894 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 798/821.
+Do agravo em recurso especial
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, CLOTILDE e outra alegaram a violação dos arts. 7º, 369 e 370, caput, do NCPC, aduzindo que (1) houve cerceamento de defesa, tendo em vista que foi indeferida a prova testemunhal requerida, a fim de demonstrar a falta de diligências para solucionar a controvérsia, relativa à venda de um único bem, pela via extrajudicial; e (2) indeferidas as provas requeridas, o pedido não poderia ter sido julgado improcedente por falta de provas (e-STJ, fls. 740/756).
+(1) Da inexistência de cerceamento de defesa
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do NCPC.
+No caso concreto, o Tribunal estadual afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide ao afirmar que era desnecessária a prova testemunhal para solução da controvérsia.
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável nesta esfera recursal.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. PRODUÇÃO DE PROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PENHORA. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA DE EMPRÉSTIMO EM FAVOR DA ENTIDADE FAMILIAR. CABIMENTO. RECURSO PROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. A jurisprudência desta Corte firmou-se no sentido de que a impenhorabilidade do bem de família não é oponível para obstar a execução de hipoteca sobre bem imóvel oferecido como garantia real hipotecária pelo casal ou entidade familiar. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1.682.003/PR, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 08/02/2021, DJe 23/02/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. RECUSA DE COBERTURA DE TRATAMENTO. DISPOSITIVO CONSTITUCIONAL. OFENSA. INVIABILIDADE. CERCEAMENTO DE DEFESA. JUIZ. DESTINATÁRIO FINAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+3. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de provas pericial e oral. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. Esta Terceira Turma tem entendimento de que é dispensável a previsão do procedimento no rol da ANS, de modo que sua falta não afasta do plano de saúde a obrigação de custear exame necessário ao tratamento de moléstia coberta contratualmente.
+5. Para comprovação da divergência jurisprudencial, é necessário que o recorrente proceda ao cotejo analítico, mediante a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.684.620/SP, de minha relatoria, Terceira Turma, j. em 15/12/2020, DJe 18/12/2020)
+Por fim, embora aduza que o pedido foi julgado improcedente, observa-se que o Tribunal estadual julgou a questão a partir das alegações de CLOTILDE e outras, ao salientar que a própria argumentação exposta por elas não apontava qualquer elemento que evidenciasse que o exequente as tivesse ludibriado a assinar contrato em termos diversos dos efetivamente pactuados, demonstrando insatisfação com o valor cobrado e com o serviço prestado. Além disso, o Tribunal estadual salientou que CLOTILDE e outras têm bom nível cultural e capacidade de compreensão de uma avença. A propósito:
+As embargantes tinham conhecimento, desde o início, dos termos do pacto com o embargado e, embora possam ter feito reserva mental sobre não concordar com a inclusão dos três imóveis, o fato é que estavam previstos no contrato, desde o começo, os exatos termos sobre os quais incidiriam os honorários contratuais.
+Não existe, na própria argumentação exposta pelas partes, qualquer elemento que demonstre que o exequente tenha ludibriado as executadas a assinar um contrato em termos distintos dos realmente avençados, mas a irresignação com o valor cobrado e a percepção de inadequação em relação ao serviço prestado.
+Tais termos devem ser discutidos antes da avença, antes da assinatura do contrato, e, a não ser que esteja patente o vício de lesão, não há se falar em desproporção tão somente pela percepção unilateral quando instadas ao adimplemento.
+Soma-se a isso o fato, reiterado pelo exequente, de as executadas terem bom nível cultural e capacidade de bem compreender um contrato (e-STJ, fls. 689/690 - sem destaques no original).
+Portanto, mostra-se dissociada do acórdão vergastado a argumentação de cerceamento de defesa pelo julgamento de não comprovação dos fatos alegados a despeito do indeferimento de provas.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de CLOTILDE e outras em 1%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSFO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. RECONSIDERAÇÃO. CERCEAMENTO DE DEFESA. JUIZ. DESTINATÁRIO DA PROVA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
