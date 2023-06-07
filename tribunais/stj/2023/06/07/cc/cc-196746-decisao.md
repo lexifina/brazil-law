@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo Federal da 3ª Vara de Santos e o Tribunal Regional do Trabalho da 2ª Região nos autos da reclamação trabalhista proposta por Carlos Fabiano Moreira Vieira contra Companhia das Docas do Estado de São Paulo.
+Na inicial, o reclamante narrou ter sido contratado para prestar serviços após nomeação em cargo em comissão ("Assessor do Diretor Presidente"). Argui ter sido nomeado para o exercício de outro cargo em comissão antes de ter sido "dispensado sem justa causa". Defende que teve remuneração reduzida indevidamente e visa à condenação da parte requerida ao pagamento de verbas trabalhistas e rescisórias, de indenização por dano moral, e de parcelas a título de correção monetária e juros.
+A Justiça do Trabalho declarou vínculo jurídico-administrativo entre as partes, porque o reclamante prestou serviços à Administração por ter sido, antes, nomeado para exercício de cargo em comissão.
+O Juízo Comum Federal ressaltou que o caso dos autos advém de um vínculo entre empresa estatal e um empregado contratado para exercer função de confiança. Tendo em vista o regime próprio das empresas privadas, reconheceu competência da Justiça Comum para o exame dos autos. Isso porque, "nas empresas estatais, que estão submetidas predominantemente ao direito privado (art. 173, § 2º, inciso II, da CF) só há empregos públicos, ou seja, vínculos regidos pela legislação trabalhista."
+O Ministério Público Federal, em parecer, manifestou-se pela competência da Justiça do Trabalho.
+É o relatório. Passo a decidir.
+A parte reclamante foi contratado por sociedade de economia mista. O vínculo entre essa entidade da Administração Pública Indireta é, necessariamente, o regime celetista. Isso porque a Constituição Federal de 1988 determina que a sujeição das sociedades de economia mista ao regime jurídico próprio de empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários. Vide o art. 173, § 1º, II, da CF/1988:
+Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.
+§ 1º A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre:
+ ..
+II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários;
+Dessa forma, como destacado pelo parecer do Ministério Público Federal, (e-STJ fl. 680): "é o caso de se reconhecer a competência da Justiça do Trabalho para processar e julgar a questão, uma vez que se tratada de uma reclamatória trabalhista ajuizada em face de uma empresa estatal, sociedade de economia mista, que adota o regime celetista para os empregos de confiança de sua estrutura."
+Em caso semelhante ao dos autos, confira-se a emente do seguinte precedente do STJ:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E DOTRABALHO. RECLAMAÇÃO TRABALHISTA. EMPRESA PÚBLICA. CONTRATAÇÃO SOB O REGIME CELETISTA. PEDIDO E CAUSA DE PEDIRQUE SE BASEIAM EM NORMAS TRABALHISTAS. AGRAVO REGIMENTAL DA EMEPA DESPROVIDO.
+1. A determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+2. No caso, o autor postula verbas de natureza trabalhistas, com base no reconhecimento da relação empregatícia celetista firmada com a EMPRESA ESTADUAL DEPESQUISA AGROPECUÁRIA DA PARAÍBA - EMEPA.
+3. Ainda que dos documentos contidos nos autos não houvesse como se inferir a natureza da relação de trabalho, outra não poderia ser a conclusão senão a de que ela tinha caráter celetista, em função do disposto no art. 173, § 1º, inciso II da Constituição Federal. Desse modo, sendo a ré empresa pública, os contratos de trabalho por ela firmados submetem-se inevitavelmente ao regime jurídico da CLT, não havendo falar, portanto, em vínculo jurídico administrativo.
+4. Como cediço, a definição da competência jurisdicional se dá em razão dos elementos identificadores ou constitutivos da demanda, a dizer, as partes, o pedido e a causa de pedir. No caso da Justiça do Trabalho, a causa de pedir é o elemento que atrai sua competência, esta relacionada com a fundamentação jurídica.
+5. Assim, tendo em conta que o pedido e a causa de pedir da parte autora se baseiam em normas celetistas, é manifesta a competência da Justiça do Trabalho para o processamento e julgamento do feito.
+6. Agravo Regimental da EMEPA desprovido
+(AgRg no CC 130.453/PB, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA SEÇÃO, DJe de 18/10/2017).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Trabalhista.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EMPREGADO PÚBLICO. ENCERRAMENTO DO VÍNCULO COM EMPREGADO PÚBLICO. SEM JUSTA CAUSA. REGIME JURÍDICO ENTRE AS PARTES. CELETISTA. ART. 173, § 2º, II, DA CF/1988. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
