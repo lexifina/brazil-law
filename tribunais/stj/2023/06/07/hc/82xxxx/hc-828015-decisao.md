@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de Rodrigo Valentim dos Santos - condenado por incurso no art. 171, caput, por três vezes, e no art. 171, caput, c/c o art. 14, II, na forma do art. 71, todos do Código Penal, à pena de 2 anos e 26 dias de reclusão, em regime inicial semiaberto, mais 20 dias-multa -, em razão do acórdão da Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que negou provimento à Apelação n. 0001395-86.2016.8.26.0189.
+Com o argumento de ilegalidade decorrente da ausência de fundamentação idônea para a imposição de regime inicial mais gravoso do que o cabível em razão da pena imposta e para a não aplicação do disposto no art. 44 do Código Penal, requer-se a concessão liminar da ordem para que seja modificado o regime para o aberto ou, ao menos, para que seja substituída a pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Não há constrangimento ilegal a ser sanado por esta via.
+Isso porque, além de a questão referente à substituição da pena não ter sido nem sequer suscitada perante a Corte local, a atrair o óbice da supressão de instância, aplicável à hipótese a sólida jurisprudência desta Casa segundo a qual é incabível a substituição da pena privativa de liberdade por restritivas de direitos diante da presença de circunstância judicial desfavorável ao réu (AgRg no AREsp n. 1.373.881/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/6/2020) e, uma vez estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta (AgRg no HC n. 742.751/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe 14/6/2022).
+A propósito, ver também: RCD no HC n. 617.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2021; e AgRg no HC n. 778.761/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2022.
+No caso, consignou o sentenciante que a pena base deve ser estabelecida substancialmente acima do mínimo legal em razão da culpabilidade ímpar e enorme prejuízo à vítima, tendo sido um golpe muito bem engenhado, com esforço grande dos réus, a revelar intensidade incomum do dolo (fl. 55).
+À vista do exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se .
+EMENTA
+HABEAS CORPUS. ESTELIONATO. PRETENSÃO DE MODIFICAÇÃO DO REGIME PRISIONAL OU DE SUBSTITUIÇÃO DA PENA. INVIABILIDADE EM RAZÃO DA EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA DEVIDAMENTE CONSIDERADA NA PRIMEIRA FASE DA DOSIMETRIA. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
