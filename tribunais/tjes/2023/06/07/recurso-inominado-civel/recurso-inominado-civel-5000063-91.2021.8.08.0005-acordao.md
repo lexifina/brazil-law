@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000063-91.2021.8.08.0005
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO
+RECORRIDO: ADEMILTON DE OLIVEIRA BOTELHO
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO
+Nº 5000063-91.2021.8.08.0005
+
+RECTE.: COMPANHIA ESPÍRITO SANTENSE DE SANEAMENTO - CESAN
+
+RECDO.: ADEMILTON DE OLIVEIRA BOTELHO
+
+RELATOR: THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: Dr.
+EVANDRO COELHO DE LIMA
+
+VOTO
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVAÇÃO INDEVIDA. SEM COMPROVAÇÃO. NARRA A PARTE AUTORA TER SIDO COBRADO INDEVIDAMENTE PELA RECORRENTE, QUE IMPÔS AO RECORRIDO UMA COBRANÇA DE CONSUMO DE ÁGUA EM VALOR EXORBITANTE E CLARAMENTE INCOMPATÍVEL COM A MÉDIA DE CONSUMO DA RESIDÊNCIA DO RECORRIDO. APÓS O RECEBIMENTO DA COBRANÇA, O RECORRIDO REALIZOU UMA RECLAMAÇÃO JUNTO A EMPRESA RECORRENTE, MAS A MESMA MANTEVE A COBRANÇA INDEVIDA. SENTENÇA DE PISO QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL, PARA DECLARAR INEXISTENTE O DÉBITO ENTRE AS PARTES ORIUNDO NO VALOR DE R$ 777,48 E DECLARAR DEVIDO PELA REQUERENTE O VALOR DE R$ 43,87 PELO MÊS DE JULHO/2021 EM QUE HOUVE QUESTIONAMENTO ACERCA DO AUMENTO DO CONSUMO, ALÉM DE CONDENAR A RÉ, A PAGAR À AUTORA O VALOR DE R$1.000,00 A TÍTULO DE REPARAÇÃO DE DANO MORAL. RECURSO DA PARTE RÉ PUGNANDO PELA REFORMA DA SENTENÇA JULGAR IMPROCEDENTE O PEDIDO RELATIVO AOS DANOS MORAIS ELABORADO NA INICIAL.
+RECURSO CONHECIDO E PROVIDO
+. O AUTOR JUNTA AOS AUTOS APENAS CONTAS DE ÁGUA E PROTOCOLO DE RECLAMAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DA NEGATIVAÇÃO. AUSÊNCIA DE QUALQUER COMPROVAÇÃO DE DANO MORAL AO AUTOR. DANO MORAL INEXISTENTE.
+
+ISSO POSTO, CONHEÇO DO RECURSO E DOU-LHES PARCIAL PROVIMENTO PARA REFORMAR A SENTENÇA PARA JULGAR IMPROCEDENTE O PEDIDO DE DANO MORAL
+. MANTENDO-SE INCÓLUME A R. SENTENÇA RECORRIDA POR SEUS PRÓPRIOS FUNDAMENTOS NO TOCANTE ÀS DEMAIS MATÉRIAS. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
