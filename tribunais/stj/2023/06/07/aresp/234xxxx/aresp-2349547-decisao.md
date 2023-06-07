@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ALBERTO VIEIRA BORGES JUNIOR e SONIA APARECIDA PEREIRA BORGES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/04/2023.
+Concluso ao gabinete em: 02/06/2023.
+Ação: obrigação de fazer cumulada com indenização por danos materiais e promessa de terceiros, ajuizada por EDSON ANTÔNIO GOMES, em face dos agravantes.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para condenar os agravantes ao pagamento, a título de perdas e danos por cláusula do Termo de Devolução de Área em Trindade c/c Termo de Quitação de Área em Taquaral, do valor de R$ 2.333.333,30; condenou, ainda, os agravantes ao pagamento do correspondente a 1/3 do valor mensal do aluguel do imóvel, desde 13 de novembro de 2013 até a presente data. Julgou improcedentes os pedidos da reconvenção. Condenou os agravantes ao pagamento das custas processuais e honorários advocatícios de sucumbência fixados em R$ 50.000,00.
+Acórdão: deu parcial provimento à apelação interposta pelos agravados, para condenar os agravantes ao pagamento dos honorários advocatícios em 10% sobre o valor da condenação e acrescer os honorários advocatícios em razão da improcedência da reconvenção, os quais fixo em 10% sobre o valor atualizado da causa, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MATERIAIS E PROMESSA DE TERCEIROS. PEDIDO DE INDEFERIMENTO DE PEDIDO DE CESSÃO DE QUOTA HEREDITÁRIA. HONORÁRIOS DECORRENTES DE RECONVENÇÃO - CABIMENTO. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DA EQUIDADE. TEMA 1.076 DO STJ. 1 - Incabível a cessão de quota hereditária, conforme pretendido, ante a não comprovação dos requisitos estabelecidos nos arts.1.791 a 1.797 do Código Civil. 2 - Nos termos do § 1º do art. 85 do CPC são devidos honorários advocatícios na reconvenção. 3 - Conforme decidido pelo STJ no Tema 1.076, apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo, não se aplicando em caso de valores exorbitantes. Apelação conhecida e parcialmente provida.
+Recurso especial: alegam violação dos arts. 85, §2º, e 499 do CPC/15. Sustentam que: i) a conversão da obrigação de fazer em perdas e danos só é possível quando inexigível a obrigação estipulada; ii) a dação em pagamento de cota da herança não impede a exigibilidade do débito, ainda não submetida ao procedimento de inventário, muito menos a torna impossível; iii) a soma dos honorários sucumbenciais da ação principal e da reconvenção não podem ultrapassar o teto de 20% do valor da causa principal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 499 do CPC, indicado como violado, não tendo os agravantes oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da Súmula 568/STJ
+Ao decidir acerca da fixação dos honorários advocatícios, o TJ/GO aplicou corretamente a jurisprudência do STJ no sentido de que os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta (AgInt no AREsp n. 2.061.422/SP, 4ª Turma, DJe de 15/9/2022; e AgInt no AREsp n. 2.010.556/SP, 3ª Turma, DJe de 11/5/2022).
+Na hipótese, tendo os honorários advocatícios sido aferidos separadamente na ação principal e na demanda reconvencional, não ultrapassam os limites de 10% a 20% da base de cálculo da verba honorária, previstos no art. 85, §2º, do CPC/15.
+Logo, o recurso especial não merece provimento, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% sobre o valor da condenação na ação principal e em 5% sobre o valor atualizado da causa na reconvenção (e-STJ fl. 1108).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E PROMESSA DE TERCEIROS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. RECONVENÇÃO. AÇÃO AUTÔNOMA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e promessa de terceiros.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Os honorários na reconvenção são independentes daqueles fixados na ação principal, independentes, inclusive, do resultado e da sucumbência desta. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
