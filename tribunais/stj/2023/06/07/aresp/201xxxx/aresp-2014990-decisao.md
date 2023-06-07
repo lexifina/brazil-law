@@ -1,0 +1,6 @@
+DECISÃO
+Chamo o feito à ordem.
+Tendo em vista que houve "provimento parcial à apelação de G.G para, acolhendo a preliminar suscitada, reconhecer a nulidade da sentença integrativa, determinar o retorno dos autos à primeira instância para que ocorra a prévia intimação dos réus cuja penas o MINISTÉRIO PÚBLICO FEDERAL pleiteou o acréscimo, com o consequente novo julgamento dos embargos de declaração", e que tal provimento não foi cumprido, devem os autos retornar à origem a fim de que sejam julgados os referidos aclaratórios.
+Torno, ainda, sem efeito a decisão anterior que conhecia do agravo para não conhecer do recurso especial (fls. 30251-30266), eis que não há neste momento processual interesse recursal para discussão das nulidades não acolhidas por ocasião do julgamento da apelação, uma vez que os autos retornarão novamente para outro julgamento pelo Tribunal de origem, após encerramento do feito na primeira instância.
+Ante o exposto, não conheço do recurso em razão de ausência de interesse recursal e determino que os autos retornem à primeira instância para que os réus sejam intimados para apresentação de contrarrazões aos embargos declaração, os quais deverão ser novamente apreciados, bem co mo para que, em sequência, sejam todas as teses eventualmente apresentadas nas razões de apelação analisadas pelo Tribunal a quo.
+P.I.
