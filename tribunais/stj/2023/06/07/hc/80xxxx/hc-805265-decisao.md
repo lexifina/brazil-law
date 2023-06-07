@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBSON BARBOSA COSTA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, dos delitos de furto, ameaça e dano.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 11-23.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na conversão da prisão em flagrante em preventiva, alegando, nesse sentido, que o Ministério Público requereu apenas a imposição de medidas cautelares diversas.
+Requer, ao final, a revogação da prisão preventiva.
+A liminar foi indeferida e as informações foram prestadas às fls. 183-326.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem, nos termos do parecer de fls. 328-338.
+É o relatório.
+Decido.
+In casu, o Ministério Público requereu a imposição de medidas cautelares ao paciente, e o Juízo de primeiro grau determinou sua prisão preventiva por julgar insuficientes as medidas cautelares diversas ante o histórico criminal do paciente, ressaltando que "A FAC e CAC do autuado apontam sua reincidência específica, ostentando condenações penais com trânsito em julgado pela prática dos delitos de tráfico ilícito de entorpecentes, furto simples e furto qualificado, estando, inclusive, em cumprimento de pena. Além disso, o autuado responde a ações penais pela suposta prática dos delitos de roubo impróprio, resistência, furto, ameaça e roubo majorado. Como se não bastasse, o autuado foi beneficiado com o deferimento de liberdade provisória por este Juízo em cinco oportunidades sucessivas, nas datas de 19/02/2020, 22/05/2020, 06/12/2021, 25/06/2022 e 28/09/2022. Nesta última ocasião foi preso em flagrante pela prática dos delitos de furto e ameaça, ocasião em que lhe foram impostas medidas cautelares diversas da prisão, dentre elas, o recolhimento domiciliar com monitoração eletrônica, as quais se mostraram inócuas em afastá-lo da prática delitiva."
+Com efeito, é firme o entendimento firmado neste Superior Tribunal de Justiça, no sentido de que "A determinação do Magistrado, em sentido diverso do requerido pelo Ministério Público, pela autoridade policial ou pelo ofendido, não pode ser considerada como atuação ex officio, uma vez que lhe é permitido operar conforme os ditames legais, desde que previamente provocado, no exercício de sua jurisdição" (AgRg no RHC n. 177.535/MA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 26/4/2023).
+Portanto, não se verifica, na hipótese, a ocorrência de qualquer constran gimento ilegal a ser sanado pela presente via.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento a o recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+Ante o exposto denego a ordem.
+P. e I.
