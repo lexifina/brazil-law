@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de reconsideração protocolado por RODRIGO PROBST contra a decisão de fls. 650/652, pela qual indeferi liminarmente o writ em virtude da instrução deficiente do feito.
+Às fls. 653/658 a defesa promove a juntada da ementa e do extrato de ata de julgamento do Habeas Corpus Criminal n. 5028273-55.2023.8.24.0000/SC, pleiteando a reconsideração da decisão mencionada e o deferimento da medida liminar.
+É o relatório.
+Decido.
+Constatada, inicialmente, a instrução deficiente da impetração, correta a decisão que indeferiu liminarmente a ordem, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Diante da ulterior juntada de cópia da documentação faltante, em homenagem ao princípio da economia processual, viável reconsiderar a decisão de fls. 650/652 e determinar o prosseguimento do feito.
+Como explicitado a seguir, entretanto, o mandamus não medra, sequer sendo possível apreciar os temas defensivos, de ofício.
+Na inicial, a defesa narra que o paciente foi denunciado e pronunciado como incurso nas sanções do art. 121, § 2º, II e IV, c/c o art. 14, inciso II, do Código Penal - CP (homicídio qualificado tentado), argumentando que " ..  a  decisão que manteve a prisão preventiva, assim como a que converteu a prisão em flagrante em preventiva, carecem de fundamentação idônea, submetendo o paciente em segregação máxima  ..  (fl. 6).
+Com a impetração objetiva a revogação da prisão, em síntese, sob os argumentos de carência de fundamentação da prisão preventiva e de ausência de demonstração da insuficiência das cautelares menos gravosas.
+Todavia, do exame atento do feito, evidencia-se que o Tribunal a quo não examinou as teses deduzidas pela defesa.
+O acórdão contestado apenas conheceu parcialmente da ação, relativamente à alegação de operação de excesso de prazo, e denegou a ordem nesta extensão, não se debruçando, em virtude da reiteração de pedidos, acerca das aventadas inidoneidade da fundamentação da custódia cautelar e possibilidade de aplicação de cautelares alternativas, ainda que indicada a presença de predicados subjetivos favoráveis do agente.
+Forçoso concluir, assim, a inviabilidade da presente impetração, pois consoante pacífico entendimento desta Corte Superior de Justiça não se conhece originariamente de tema não apreciado e decidido pelas instâncias inferiores, nem mesmo quando se trate de matéria de ordem pública ou nulidade absoluta. Cito precedentes:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO CAUTELAR. FUNDAMENTAÇÃO E REQUISITOS. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. APLICAÇÃO DO VERBETE SUMULAR N.º 52 DO STJ. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. As alegações de falta de fundamentação do decreto prisional e de não preenchimento dos requisitos previstos no art. 312 do Código de Processo Penal não foram objeto de conhecimento pelo Tribunal de origem, razão pela qual não podem ser apreciadas por este Superior Tribunal, sob pena de indevida supressão de instância.
+ ..
+4. Recurso ordinário parcialmente conhecido e, nessa parte, desprovido, com a recomendação de urgência na conclusão do feito.
+(RHC n. 94.577/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/10/2018, DJe de 22/10/2018)
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS . TENTATIVA DE HOMICÍDIO QUALIFICADO. DECISÃO QUE DECRETOU PRISÃO PREVENTIVA. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. RÉU PRESO DESDE 04.08.2013. CONSTRANGIMENTO ILEGAL CARACTERIZADO. RECURSO EM HABEAS CORPUS NÃO PROVIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. As matérias alegadas pelo recorrente relativas à ilegalidade da prisão preventiva sob o fundamento de ausência de motivação idônea para a manutenção da medida constritiva de liberdade, ausência dos requisitos autorizadores da custódia cautelar e excesso de prazo para formação da culpa não foram objeto de análise pelo Tribunal de origem, o que impede a sua análise por este Superior Tribunal de Justiça, cujo entendimento é no sentido de que o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte
+ ..
+4. Recurso em habeas corpus não provido. Ordem concedida, de ofício, para relaxar a prisão preventiva do recorrente, devendo ser expedido alvará de soltura em seu favor, com a imposição de medidas cautelares diversas da prisão a serem determinadas pelo juízo de origem, salvo se, por outro motivo, estiver preso.
+(RHC n. 72.582/CE, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/8/2017, DJe de 28/8/2017)
+Ante o exposto, reconsidero a decisão, todavia, com fulcro no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
