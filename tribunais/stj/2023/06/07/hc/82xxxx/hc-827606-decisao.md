@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Andesson Souza de Oliveira (ou Anderson Souza de Oliveira) - condenado pelo crime de furto qualificado a 2 anos e 4 meses de reclusão, em regime inicial aberto, e 12 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 398/408) que redimensionou a reprimenda imposta e afastou a substituição da pena, referente à sentença condenatória prolatada na Ação Penal n. 070/2.17.0003583-5 (fls. 253/261 - CNJ n. 0008472-22.2017.8.21.0070), da 2ª Vara Criminal da comarca de Taquara/RS.
+Alega-se constrangimento ilegal consistente no indeferimento da substituição da pena privativa de liberdade por restritiva de direitos - ao argumento de que se trata de paciente primário que cometeu delito sem violência e/ou grave ameaça à pessoa (fl. 6) - e requer-se, então, a concessão da ordem, inclusive em caráter liminar, para que seja substituída a pena.
+É o relatório.
+A despeito da alegação, tem-se que razão não assiste à impetração, uma vez que a fundamentação de indeferimento da substituição da pena privativa de liberdade por restritivas de direitos está de acordo com o entendimento desta Corte Superior.
+Confira-se:
+a) na sentença, na qual a pena definitiva fora fixada em 3 anos e 5 meses de reclusão, e 15 dias-multa - com negativação, na primeira fase, dos vetores personalidade, conduta social e circunstâncias do delito (fl. 259) -, houve a substituição da pena privativa de liberdade pelas penas restritivas de direitos de prestação pecuniária e prestação de serviços à comunidade, ao seguinte fundamento: não obstante os antecedentes criminais, tenho como medida socialmente recomendável a substituição da pena privativa de liberdade aplicada (fl. 259); e
+b) no acórdão da apelação, que redimensionou a pena para 2 anos e 4 meses de reclusão, e 12 dias-multa - afastando, na primeira fase, a valoração negativa dos vetores personalidade e conduta social (fl. 404) -, foi afastada a substituição da pena ao fundamento de que o réu não preenche os requisitos do art. 44 do CP, notadamente porque teve a análise negativa das circunstâncias do art. 59 do CP, devendo ser alterada a sentença neste ponto para afastar a substituição (fl. 404).
+Entretanto, não há ilegalidade no indeferimento da substituição de pena privativa de liberdade por restritiva de direitos, em razão da negativação do vetor circunstância, por expressa previsão legal (art. 44, III, do CP). Confira-se: AgRg no HC n. 793.772/SP, de minha relatoria, Sexta Turma, julgado em 20/3/2023, DJe 23/3/2023.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. NEGATIVA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTO IDÔNEO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
