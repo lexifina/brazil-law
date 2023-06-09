@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 373):
+Apelação - Plano de saúde - Ação de Obrigação de Fazer - Sentença de improcedência em relação à Unimed de Andradina - Cooperativa do Trabalho Médico e de extinção sem resolução do mérito quanto à Unimed de São José do Rio Preto - Cooperativa do Trabalho Médico - Legitimidade passiva da Unimed de São José do Rio Preto - Sistema de cooperativa que é formado por unidades autônomas integrantes de um sistema único - Aplicação da teoria da aparência que implica reconhecimento da responsabilidade solidária entre as unidades integrantes do Sistema Unimed - Precedentes do c. STJ e desta e. Corte - Preliminar acolhida - Mérito - Negativa indevida de cobertura de cirurgia renal laparoscópica assistida por robô - Aplicação do CDC - Rol orientador da ANS prevê apenas cobertura mínima obrigatória - Súmula n. 102 da Subseção de Direito Privado I deste Tribunal - Somente ao médico que acompanha o caso é dado estabelecer qual o tratamento adequado para alcançar a cura ou amenizar os efeitos da enfermidade que acomete o paciente - Necessidade de custeio integral pelas Rés - Entendimento jurisprudencial deste E. Tribunal - Sentença reformada - Recurso provido.
+No recurso especial (e-STJ fls. 388/398), a parte recorrente alega dissídio jurisprudencial e violação do art. 10, § 4º, da Lei n. 9.656/1998, afirmando ser legítima a limitação da cobertura de procedimento terapêutico (custeio da cirurgia necessária ao tratamento do câncer renal) não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa.
+Foram apresentadas contrarrazões (e-STJ fls. 403/416).
+O recurso foi admitido na origem (e-STJ fls. 417/419).
+É o relatório.
+Decido.
+Conforme a jurisprudência desta Corte Superior, a natureza taxativa ou exemplificativa do rol da ANS é irrelevante à análise do dever de cobertura de medicamentos e procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+Precedentes.
+1.1. Considera-se abusiva a negativa de cobertura do tratamento consistente no uso off label de medicamento que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.016.867/CE, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO PRESCRITO POR MÉDICO ASSISTENTE. CÂNCER. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. DANOS EXTRAPATRIMONIAIS CARACTERIZADOS. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO> (..)
+2. Segundo a jurisprudência desta Corte, o plano de saúde deve custear o tratamento de doença coberta pelo contrato, porquanto as operadoras não podem limitar a terapêutica a ser prescrita, por profissional habilitado, ao beneficiário para garantir sua saúde ou sua vida, esclarecendo, ainda, que tal não é obstado pela ausência de previsão no rol de procedimentos da ANS.
+3. No âmbito do REsp 1.733.013/PR, a eg. Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n. 1.949.270/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.987.435/DF, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6/3/2023, DJe de 9/3/2023.)
+O Tribunal de origem determinou o custeio, pelo plano de saúde, do procedimento cirúrgico necessário ao tratamento do câncer, conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior (e-STJ fls. 379/385).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
