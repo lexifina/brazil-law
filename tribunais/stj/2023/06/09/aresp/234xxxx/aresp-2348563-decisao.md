@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por MAC COMERCIAL DE GAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA JUSTIÇA GRATUITA. PESSOA JURÍDICA. INTIMAÇÀO REALIZADA PARA COMPROVAR NOS AUTOS A HIPOSSUFICIÊNCIA SUSCITADA. AUSÊNCIA DE DOCUMENTOS CONTÁBEIS OU FISCAIS IDÔNEOS. HIPOSSUFICIÊNCIA NÀO COMPROVADA. GRATUIDADE JUDICIÁRIA NÀO CONCEDIDA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO RECORRIDA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 do CPC, no que concerne à comprovação da hipossuficiência financeira da recorrente, razão pela qual faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+Segundo o entendimento do Des. Relator, a Recorrente não juntou documentos que comprovam sua hipossuficiência financeira, afirmando que deveria ter juntado cópia de declaração do imposto de renda, balanço contábil e/ou outro documento que comprove os rendimentos da empresa, o que não ocorreu.
+ ..
+Veja que, a violação ao dispositivo legal acima mencionado ocorreu porque a empresa Recorrente comprovou através de documentação hábil a sua hipossuficiência financeira, não havendo motivo para seu indeferimento.
+ ..
+Tais documentos demonstraram de forma inequívoca que a Recorrente não possui condições de arcar com as custas processuais, sem prejuízo de seu sustento.
+ ..
+Sendo assim, o simples fato de ser inscrita no simples nacional, pela orientação jurisprudencial acima, já seria suficiente para o deferimento da assistência judiciária gratuita, entretanto, há outros documentos relevantes que foram anexados aos autos.
+Os documentos II e III, que dizem respeito, respectivamente, a extrato mensal da movimentação de outubro de 2019 e demonstrativo de receitas e despesas de janeiro a abril de 2020, são documentos claros no sentido de demonstrar a incapacidade da ora peticionante dE arcar com as custas dos embargos a execução.
+ ..
+Analisando tais documentos fica totalmente incompreensível o julgador de piso e o TJ/CE ter indeferido o pleito de assistência judiciária gratuita, vez que não há como se entender razoável exigir que uma empresa de pequeno porte - que tem uma média de lucro mensal de R$ 2.882,43 (dois mil, oitocentos e oitenta e dois reais e quarenta e três centavos)  pague custas processuais de R$ 6.013,16 (seis mil e treze reais e dezesseis centavos).
+(fls. 221/224).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Em que pese a irresignação da agravante, vislumbro que o juízo de primeiro grau agiu corretamente. Explico.
+No caso em exame, cumpre esclarecer que a recorrente nem ao menos juntou aos autos um único documento comprovando que eventualmente se encontre na condição de hipossuficiência financeira, posto que não trouxe aos autos nenhum documento que demonstre o balanço patrimonial anual da empresa e muito menos as declarações de imposto sobre a renda, limitando-se a trazer documentos que demostram a situação financeira da empresa em meses específicos, o que não tem o condão de demostrar a alegada hipossuficiência da empresa recorrente.
+Com efeito, é ônus da pessoa jurídica comprovar, através de documentos hábeis, a existência da hipossuficiência financeira que lhe impeça arcar com as custas do processo, pois, não basta a simples afirmação da carência de meios, devendo ficar demonstrada a hipossuficiência.
+ ..
+Assim, para o deferimento da gratuidade judiciária à pessoa jurídica, não basta a simples declaração de pobreza, sendo imprescindível a demonstração de sua insuficiência financeira, pelo que a jurisprudência vem exigindo a juntada dos balanços, livros comerciais devidamente formalizados, documentos fiscais, declaração de rendas ou declaração de seu contador, comprovando que, efetivamente, não tem a entidade condições financeiras para arcar com as despesas processuais e honorários advocatícios, sem o comprometimento de suas atividades empresariais.
+Ademais, o simples fato da agravante ser optante do regime de tributação Simples Nacional não comprova que esta não possua condições de suportar as despesas do processo, assim como a demonstração de débitos financeiros não comprovam a hipossuficiência alegada, posto que tal fato é inerente a atividade empresarial desenvolvida.
+ ..
+Dessa forma, é de suma importância que, quem pleiteia as benesses da gratuidade judiciária, caso o juízo determine que comprove a hipossuficiência, que faça da melhor forma, através de documentos, a qual ateste, de forma efetiva, a respectiva situação alegada.
+Portanto, não havendo a juntada de cópia da Declaração de Imposto de Renda, do balanço contábil ou de outro documento válido para comprovar os rendimentos da empresa, não há, nos autos, prova da hipossuficiência financeira da agravante (fls. 187/191).
+Tal o contexto , incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
