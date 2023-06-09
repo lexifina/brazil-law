@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em favor de CRISTIANO MARIANO DA SILVA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"Agravo em Execução Penal da Defesa - Falta grave apurada em sindicância - Subversão da ordem e disciplina - Consistentes depoimentos dos agentes de segurança penitenciária - Negativa do agravante não acolhida - Inteligência do artigo 50, incisos I e VI, combinado com o artigo 39, incisos I e IV, ambos da Lei de Execução Penal - Impossibilidade de absolvição por insuficiência de provas - Interrupção do prazo para a progressão de regime e perda dos dias remidos - Consequências legais da prática de falta grave - Recurso de agravo em execução desprovido." (e-STJ, fl. 90).
+Neste writ, a impetrante alega a existência de constrangimento ilegal causado ao paciente, em decorrência de lhe ter sido imputada a prática de falta disciplinar de natureza grave - subversão à ordem e à disciplina.
+Defende, em síntese, a inexistência de provas da responsabilização do reeducando.
+Requer, ao final, a concessão da ordem para se desconsiderar a falta anotada no prontuário do paciente. Subsidiariamente, pede para que a infração disciplinar seja desclassificada para a de natureza média ou leve.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal Estadual manteve a decisão do Juízo da execução que reconheceu a falta grave praticada pelo reeducando, aos seguintes fundamentos:
+"O incidente ocorrido em 28 de junho de 2022, apurado em procedimento disciplinar e classificado como falta grave pelas autoridades administrativas, decorreu de ato de subversão da ordem e disciplina no estabelecimento prisional, por parte do agravante CRISTIANO MARIANO DA SILVA, que participou do evento que resultou na apreensão de cinco "chips" de aparelho de telefone celular, bem como exerceu liderança negativa perante os demais sentenciados, articulando planos para desestabilizar a segurança e a disciplina da unidade prisional e nela inserir materiais ilícitos como aparelhos de telefone celular e seus acessórios, além de substâncias entorpecentes.
+Os agentes de segurança penitenciária Marco Aurélio dos Santos e Ivan da Silva Maciel deram conta de que durante ronda rotineira sobre os telhados da unidade prisional localizaram uma linha artesanal lançada entre os pavilhões habitacionais IV e VI, e nela estava acoplado um envelope contendo cinco chips de telefonia celular e dois bilhetes, nos quais eram mencionadas as alcunhas de alguns detentos.
+Esclareceram ainda que, identificados os sentenciados mencionados nos bilhetes, em conversas com eles e com outros detentos, tomaram conhecimento acerca do envolvimento de diversos sentenciados que ali cumpriam suas penas dentre eles o agravante , os quais exerciam liderança negativa no interior da unidade prisional e instigavam os demais a inserir materiais ilícitos no local, tais como aparelhos de telefone celular e seus acessórios, bem como substâncias entorpecentes, com a finalidade de desestabilizar a segurança e fortalecer a facção criminosa da qual eram integrantes.
+Ouvido em sindicância, acompanhado de sua advogada constituída, o agravante negou a infração, afirmando que não tinha conhecimento da posse de "chips" de telefonia móvel por outros detentos, bem como que não integrava organização criminosa e que não exercia qualquer tipo de liderança negativa na unidade prisional, limitando-se a cumprir as ordens que lhe eram passadas pelos agentes de segurança penitenciária.
+Contudo, vale ressaltar que os relatos dos agentes de segurança penitenciária envolvidos na ocorrência são coerentes, não se observando qualquer discrepância capaz de gerar suspeitas em seus depoimentos, mesmo porque não consta dos autos que eles tivessem algum motivo para injustamente acusarem o sentenciado.
+A palavra de agentes de segurança penitenciária e de outros agentes do serviço público não pode ser infirmada sem motivo comprovado. O simples fato de exercerem a função de segurança não lhes retira a possibilidade de prestar depoimento em processo administrativo ou em juízo, nem afasta automaticamente a credibilidade de suas narrativas.
+Portanto, tais agentes não estão impedidos de depor, nem se pode lançar suspeição sobre suas declarações se para tanto não existirem razões plausíveis.
+Deste modo, o reconhecimento da falta disciplinar de natureza grave era mesmo de rigor, a teor do disposto no artigo 50, incisos I e VI, combinado com o artigo 39, incisos I e IV, não havendo que se falar em absolvição por insuficiência de provas." (e-STJ, fls.
+Com respaldo no artigo 127 da Lei de Execução Penal, a declaração de perda de 1/6 dos dias remidos é mera consequência lógica do quanto regularmente apurado na sindicância, e essa fração foi aplicada à luz dos parâmetros do artigo 57 da legislação pertinente mediante fundamentação adequada." (e-STJ, fls. 91-93).
+Da leitura do trecho acima transcrito, verifica-se que foi bem caracterizada a falta grave prevista no art. 50, I e VI, c. c. o art. 39, I e IV, da LEP, não havendo, pois, que se falar em sua desclassificação para a de natureza leve ou média, considerando que a conduta do reeducando se amolda perfeitamente ao aludido tipo disciplinar, in verbis:
+"Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+I - incitar ou participar de movimento para subverter a ordem ou a disciplina;
+ ..
+VI - inobservar os deveres previstos nos incisos II e V, do artigo 39 desta Lei."
+"Art. 39. Constituem deveres do condenado:
+I - comportamento disciplinado e cumprimento fiel da sentença;
+ ..
+IV - conduta oposta aos movimentos individuais ou coletivos de fuga ou de subversão à ordem ou à disciplina;
+Vale acrescentar que o exame da tese de que não ocorreu a prática de falta grave não se coaduna com a via estreita do habeas corpus, dada a necessidade, na espécie, de incursão na seara fático-probatória, incabível nesta sede.
+Do mesmo modo, a análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, também demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Sobre o tema, os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. DESOBEDIÊNCIA. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. DIAS REMIDOS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A conduta descrita é prevista como falta grave no art. 50, VI, c/c. o art. 39, II e V, ambos da LEP e não há que se falar em ofensa ao princípio da legalidade. De acordo com a moldura fática do aresto, não se pode cogitar a absolvição ou a desclassificação da falta disciplinar.
+2. A insubordinação externada pela recusa não é insignificante, pois prejudica a boa ordem, a segurança e a disciplina na unidade prisional. Justamente por observar o princípio da proporcionalidade, o legislador qualificou o comportamento como falta grave.
+ ..
+4. Agravo regimental não provido." (AgRg no HC n. 605.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020, DJe de 1º/9/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESOBEDIÊNCIA. CARACTERIZAÇÃO. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO. VIA IMPRÓPRIA. PERDA DOS DIAS REMIDOS. INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+2. Conforme precedentes desta Corte Superior, condutas como desobediência ao servidor ou às ordens recebidas constitui falta de natureza grave, nos termos do art. 50, inciso VI, da Lei de Execução Penal.
+3. "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+ ..
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido." (AgRg no HC n. 560.935/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/6/2020, DJe de 23/6/2020).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. AGRESSÕES MÚTUAS ENTRE DETENTAS E DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. RECONHECIMENTO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP. DECISÃO FUNDAMENTADA. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pela apenada, consistente em mútua agressão entre as detentas acrescida da desobediência aos agentes penitenciários, nos termos do artigo 50, incisos I e VI, combinado com o artigo 39, incisos II e V, ambos da Lei n. 7.210/1984.
+2. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+ ..
+5. Agravo regimental não provido." (AgRg no HC n. 516.423/SP, deste relator, Quinta Turma, julgado em 10/12/2019, DJe de 17/12/2019).
+Nesse contexto, não se verifica flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
