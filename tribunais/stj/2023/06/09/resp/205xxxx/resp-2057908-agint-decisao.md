@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de agravo interno no recurso especial interposto por INSTITUTO ANA PAULA PUJOL em face de decisão monocrática que conheceu e proveu o recurso especial contra ela interposto.
+Em suas razões, aduz o agravante que as intimações a ele destinadas que foram realizadas por este STJ se endereçaram a advogado sem poderes para tanto (e-STJ fls. 795-805), razão pela qual pleiteia (I) a nulidade de todas as intimações realizados por esta Corte Superior, (II) a regularização processual e (III) a reabertura de prazo recursal.
+Em razão da alegação de nulidade das intimações realizadas por este Superior Tribunal de Justiça, determino o encaminhamento deste processo para a Coordenadoria de Processamento de Feitos de Direito Privado para que se manifeste quanto ao tema e adote as providências necessárias.
