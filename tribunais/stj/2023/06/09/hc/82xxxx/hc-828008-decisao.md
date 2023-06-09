@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONARDO RAMOS DE SOUSA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do HC n. 5079839-76.2023.8.21.7000.
+Neste habeas corpus, a Defesa sustenta a necessidade de substituição da prisão cautelar por domiciliar, termos em que pede a concessão da ordem.
+É o necessário a relatar. Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, verifico que o Impetrante não juntou aos autos a cópia do decreto de prisão preventiva, nem das decisões do Juízo de primeiro grau indeferitórias da prisão domiciliar.
+Ocorre que, como se sabe, a "adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, o pedido não pode ser conhecido, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos. No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019 .
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem- se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSEN CIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
