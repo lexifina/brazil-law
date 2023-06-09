@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo EMILIO LUIZ KLUSENER e PRISCILA SOARES PINTO com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1035826-77.201 7.8.26.0001), nos autos de ação revisional monitória.
+O julgado foi assim ementado (fl. 465):
+Apelação Cível. Contrato bancário. Ação monitória. Sentença de procedência, com rejeição dos embargos monitórios. Inconformismo dos réus, embargantes. Alegação que deve ser aplicada a Taxa Selic como critério único de atualização dos valores em que foram condenados. Descabimento da utilização da taxa Selic. Inteligência dos artigos 406 do CC e 161, §1º do CTN. Enunciados nº 20 e nº 164 do CEJ. Atualização monetária que deve observar os índices da tabela prática desta E. Corte. Juros de mora à base legal. Sentença mantida. Recurso não provido.
+No presente recurso especial, apontam os recorrentes violação do art. 406 do Código Civil, ao argumento de que o montante objeto da condenação está sujeito à aplicação da taxa SELIC como índice de juros, sem a cumulação com qualquer outro índice de correção.
+As contrarrazões foram apresentadas às fls. 506-519.
+Admitido o apelo extremo (fls. 533-534), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Consta dos autos que a ação monitória foi julgada parcialmente procedente para declarar constituído o título executivo relacionado ao produto "Crédito Parcelado", determinando a intimação dos réus, ora recorrentes, ao pagamento de R$31.008,36, a ser atualizado desde outubro de 2017 e acrescido de juros legais desde a citação.
+Interposta apelação questionando os critérios para fixação da atualização dos valores, a qual foi desprovida.
+O Tribunal de origem afastou a utilização da taxa SELIC como critério único de atualização dos valores, consignando que o cálculo da atualização monetária deve observar os índices da tabela prática daquele tribunal, nestes termos (fls. 466-467):
+No caso, não se discute mais que os apelantes devem pagar o valor de R$ 31.008,36 à autora, uma vez ser leitura na r. sentença que ficou consentida por eles ao não recorrerem deste ponto.
+Eles se insurgem somente em relação aos critérios para fixação da atualização dos valores objeto da condenação. Alegam que deve ser aplicada a taxa SELIC, sem qualquer outro índice.
+No entanto, não merece prosperar tal alegação.
+Como se sabe, ao contrário do que afirmam, a taxa de juros legais a que se refere o art. 406 do Código civil não é a taxa SELIC sem cumulação com qualquer outro índice.
+Dispõe o artigo 406 do Código Civil que: "quando os juros moratórios não forem convencionados, ou o forem sem taxa estipulada, ou quando provierem de determinação da lei, serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional".
+Sobreveio recurso especial em que se aponta violação do art. 406 do Código Civil, ao argumento de que a taxa de juros moratórios a que se refere o artigo em referência, segundo precedentes desta Corte Superior, é a SELIC.
+A esse respeito, "a Corte Especial no julgamento de recurso especial repetitivo entendeu que por força do art. 406 do CC/02, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, a qual deve ser utilizada sem a cumulação com correção monetária por já contemplar essa rubrica em sua formação" (AgInt no REsp n. 1.794.823/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2020, DJe de 28/5/2020, destaquei).
+No mesmo sentido: AgInt no REsp n. 2.022.568/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.966.743/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2022, DJe de 17/8/2022; e AgInt no REsp n. 1.792.993/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.
+Assim, verifica-se que o acórdão recorrido diverge da jurisprudência do STJ, devendo ser provido o recurso especial para haver a substituição da correção monetária pela Tabela Prática do Tribunal de Justiça e dos juros de mora de 1% a.m. pela taxa SELIC, vedada a cumulação com a correção monetária.
+Ante o exposto, conheço do recurso especial para dar-lhe provimento, a fim de substituir a taxa dos juros de mora de 1% a.m. pela taxa SELIC, vedada a cumulação com correção monetária.
+Publique-se. Intimem-se.
