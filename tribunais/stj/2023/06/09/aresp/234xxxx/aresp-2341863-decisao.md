@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 1.100/1.107) que negou seguimento ao recurso especial pelos seguintes fundamentos: (a) incidência da Súmula n. 7 do STJ, e (b) falha na comprovação da divergência.
+O acórdão está assim ementado (e-STJ fls. 1.016/1.017):
+APELAÇÃO CÍVEL. COMPLEMENTAÇÃO PREVIDENCIÁRIA. DECISÃO QUE INDEFERIU O PEDIDO DE DENUNCIAÇÃO À LIDE. AGRAVO RETIDO. O VÍNCULO ENTRE A EMBRATEL E O AUTOR CESSOU COM A APOSENTAÇÃO, SENDO CERTO QUE A PRESENTE AÇÃO NÃO SE ENCONTRA LASTREADA EM ILÍCITO PRATICADO PELA PATROCINADORA, MAS SIM PELA RÉ, QUE É A RESPONSÁVEL POR ADMINISTRAR O PLANO DE PREVIDÊNCIA PRIVADA. MATÉRIA PACIFICADA, PELO STJ, NO RESP Nº 1370191/RJ, JULGADO SOB O TRÂMITE DOS RECURSOS REPETITIVOS. SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM. POR FORÇA DE "DECISUM" DEFINITIVO DA JUSTIÇA FEDERAL, FOI RECONHECIDO O DIREITO DO AUTOR À APOSENTADORIA INTEGRAL. EM DECORRÊNCIA DO DESEMPENHO, POR CERTO PERÍODO, DE ATIVIDADE LABORAL INSALUBRE OU PERIGOSA, OPEROU-SE A CONTAGEM DIFERENCIADA DO TEMPO DE SERVIÇO DO AUTOR, PERFAZENDO 36 ANOS, 02 MESES E 18 DIAS. SALIENTA-SE QUE O TEMPO DE SERVIÇO ESPECIAL APLICA-SE À COMPLEMENTAÇÃO DA APOSENTADORIA, VISTO QUE, NO CONTRATO CELEBRADO ENTRE O AUTOR E A RÉ, HÁ CLÁUSULA EXPRESSA NESSE SENTIDO. AO CONTRÁRIO DO QUE AFIRMA A RÉ, NÃO SE TRATA DE TEMPO DE SERVIÇO FICTÍCIO, HAJA VISTA QUE O AUTOR TINHA DIREITO ADQUIRIDO À APOSENTADORIA ESPECIAL, EMBORA ESTE SOMENTE TENHA SIDO RECONHECIDO, POSTERIORMENTE, POR MEIO DE AÇÃO JUDICIAL. ADEMAIS, O AUTOR CONTRIBUIU, PARA A RÉ, DE 1975 ATÉ 2002, OU SEJA, POR PERÍODO MUITO SUPERIOR A DEZ ANOS. TAIS CIRCUNSTÂNCIAS DESMONTAM A ASSERTIVA DA RÉ DE QUE A COMPLEMENTAÇÃO PREVIDENCIÁRIA INSTADA PELO AUTOR ACARRETARIA IMPACTO ATUARIAL E FINANCEIRO. LOGO, POR FORÇA CONTRATUAL, O AUTOR FAZ JUS À COMPLEMENTAÇÃO DA APOSENTADORIA ESPECIAL, CORRESPONDENTE A 90% DO VALOR DO SALÁRIO DE PARTICIPAÇÃO.
+APELO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.042/1.046).
+No recurso especial (e-STJ fls. 1.048/1.059), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 1º da LC n. 109/2001 e 884 do CC, sustentando, em síntese, que "o E. Tribunal a quo, ignorando as regras da obrigatoriedade do custeio, condenou a Recorrente, no âmbito de uma previdência privada a reajustar o valor do benefício do Recorrido, que, a seu turno, não contribuiu o suficiente para viabilizar o pagamento/recebimento de valores além do que ora aufere" (e-STJ fl. 1.054).
+No agravo, refuta os fundamentos da decisão que inadmitiu o recurso (e-STJ fls. 1.172/1.177).
+Foi apresentada contraminuta (e-STJ fls. 1.203/1.216).
+É o relatório.
+Decido.
+O acórdão recorrido manteve a condenação da recorrente à complementação da aposentadoria especial, conforme estabelecida pela sentença, pelos seguintes fundamentos (e-STJ fls. 1.025/1.026):
+Salienta-se que o tempo de serviço especial aplica-se à complementação da aposentadoria, visto que, no contrato celebrado entre o Autor e a Ré, há cláusula expressa nesse sentido.
+O artigo 6º, § 3º, do Regulamento Básico de fls. 115/150, onde se estabelece o Plano de Benefício Definido - figurando o Autor como participante-fundador -, determina que as complementações concedidas pela TELOS guardarão conformidade com os benefícios constantes da Consolidação das Leis da Previdência social.
+No art. 16, § 1º, do Capítulo VI, consta que o cálculo das complementações referidas nos incisos I e II do artigo 15 - dentre elas a complementação da aposentadoria especial (item "d") - far-se-á com base no salário de participação de referência do contribuinte. Entende-se por salário de participação de referência o valor do salário de participação em vigor no mês anterior ao do início da vigência da complementação.
+O art. 25, do Capítulo VII, Seção I, que trata da Complementação da Aposentadoria por Tempo de Serviço Especial, estabelece que a complementação da aposentadoria especial será devida ao contribuinte que contar pelo menos 10 anos de contribuição à TELOS, desde que lhe tenha sido concedida, pelo INSS, a aposentadoria especial.
+Além disso, o parágrafo primeiro do aludido artigo reza que, quando se tratar de contribuinte fundador, como no caso do Autor, a carência referente ao tempo de contribuição à TELOS será reduzida para 05 anos. Finalmente, o terceiro parágrafo conclui que "a complementação da aposentadoria especial consistirá numa renda mensal vitalícia correspondente ao excesso de 90% (noventa por cento) do salário de participação de referência sobre o valor da aposentadoria previdencial ".
+Com efeito, conforme destacado no Julgado do TRF, o Autor faz jus à conversão de tempo comum em especial até 28/04/95, véspera da vigência da Lei nº 9.032/95, que estabeleceu outros requisitos para o reconhecimento da atividade insalubre ou perigosa (fls. 197/202).
+Ao contrário do que afirma o Réu, não se trata de tempo de serviço fictício, haja vista que o Autor tinha direito adquirido à aposentadoria especial, embora este somente tenha sido reconhecido posteriormente, por meio de ação ajuizada em face do INSS.
+Ademais, o Autor contribuiu, para a Ré, de 1975 até 2002, ou seja, POR PERÍODO MUITO SUPERIOR A DEZ ANOS (pasta 186).
+Tais circunstâncias desmontam a assertiva da Ré de que a complementação previdenciária instada pelo Autor acarretaria impacto atuarial e financeiro, sendo certo que, como demonstrado acima, o Regulamento da Telos prevê a hipótese de aposentadoria especial.
+Logo, por força contratual, o Autor faz jus à complementação da aposentadoria especial, correspondente a 90% do valor do salário de participação.
+Como se vê, não houve pronunciamento do Tribunal a quo a respeito dos temas insertos nos arts. 1º da LC n. 109/2001 e 884 do CC.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ.
+Além disso, observa-se que a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de norma, sem argumentação clara e associada às razões de decidir do aresto impugnado. A esse respeito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+(..)
+2. A jurisprudência deste Tribunal Superior é pacífica no sentido de que a alegação genérica de violação à lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 864.145/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir o teor da Súmula n. 284 do STF.
+Ademais, constata-se que, nas razões do especial, não foram especificamente impugnados os principais fundamentos do acórdão recorrido, relativos à existência de cláusula contratual expressa prevendo a complementação de aposentadoria pretendida e ao efetivo cumprimento, pelo recorrido, dos requisitos exigidos para a concessão do benefício. Incide a Súmula n. 283/STF.
+Por fim, cumpre observar que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do artigo de lei ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+No caso, o recorrente apenas transcreveu trechos dos julgados supostamente divergentes, sem indicar os dispositivos de interpretação controvertida nem demonstrar a similitude fática e as divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF - AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL - DECISÃO AGRAVADA MANTIDA IMPROVIMENTO.
+(..)
+2.- Não houve demonstração de dissídio jurisprudencial, diante da falta do exigido cotejo analítico entre os julgados mencionados, bem como pela ausência de similitude fática, de maneira que inviável o inconformismo apontado pela alínea "c" do permissivo constitucional.
+(..)
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 488.145/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 19/5/2014.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
