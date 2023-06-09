@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Anderson Menezes da Silva contra o acórdão proferido pelo Tribunal de Justiça do Ceará (Habeas Corpus n. 0625282-46.2023.8.06.0000) que manteve incólume a condenação proferida contra o recorrente na Ação Penal n. 0049562-11.2015.8.06.0001, nos termos da seguinte ementa (fl. 68):
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ILEGALIDADE NA FUNDAMENTAÇÃO DA SENTENÇA CONDENATÓRIA. NÃO CONHECIMENTO. INADEQUAÇÃO DA VIA ELEITA. NECESSÁRIA DILAÇÃO PROBATÓRIA E ANÁLISE DE MÉRITO INCOMPATÍVEIS COM O RITO DE HABEAS CORPUS. SENTENÇA TRANSITADA EM JULGADO. TESE QUE DEVE SER ARGUIDA EM SEDE DE REVISÃO CRIMINAL. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DE RECURSO PELO HABEAS CORPUS. ORDEM NÃO CONHECIDA.
+1.Como relatado, busca a defesa, através da presente ação constitucional, o relaxamento da prisão preventiva do paciente alegando a ocorrência de constrangimento ilegal decorrente da ocorrência de ilegalidades na fundamentação da sentença condenatória.
+2.Inicialmente, observo que há óbice para o conhecimento da ordem, uma vez que não há nos autos prova pré-constituída a amparar as alegações feitas, bem como em razão de que a presente ação constitucional não comporta dilação probatória, o que, à toda evidência, seria necessário para que se pudesse eventualmente se constatar os vícios alegados. Dessa forma, o habeas corpus não se mostra como meio adequado para discutir as referidas teses, pois pressupõem análise aprofundada de mérito e necessária incursão probatória, o que somente é possível no curso da ação penal. Precedentes TJCE.
+3. Ademais, tendo em vista que a sentença impugnada já transitou em julgado, a via adequada para arguição da presente tese seria a Revisão Criminal, nos termos do art. 621 do Código de Processo Penal, dessa forma, tem-se, ainda, a impossibilidade da utilização de Habeas Corpus como sucedâneo recursal. precedentes STJ e TJCE.
+4. Ordem não conhecida.
+A defesa aponta constrangimento ilegal em razão da nulidade das provas que embasaram a condenação, obtidas mediante busca pessoal realizada sem a devida fundada suspeita prévia.
+Alega, ainda, flagrante ilegalidade na dosimetria da pena, ante o não reconhecimento da atenuante da confissão espontânea.
+Requer a concessão da liminar no sentido de reconhecer as provas colhidas de forma ilícita, a teor do que dispõe o art. 157 e seu § 1º, do CPP, como inadmissíveis, de maneira que elas sejam desentranhadas do processo, por violação às normas constitucionais e legais, com a consequente absolvição do recorrente, na forma do art. 386, incisos II ou VII, do CPP; subsidiariamente, na eventualidade de a colenda Câmara não vislumbrar a citada ilegalidade, o que de fato não se espera, se promover o reconhecimento da circunstância atenuante da confissão espontânea e a sua compensação com a agravante da reincidência (fls. 97/98).
+É o relatório.
+O recurso é manifestamente descabido.
+Com efeito, as matérias aventadas no recurso não foram decididas no acórdão ora impugnado, sobretudo porque o writ lá impetrado foi substitutivo de revisão criminal, sendo ressaltada pela Corte estadual a impossibilidade do revolvimento do conjunto fático-probatório na via eleita.
+Por conseguinte, tratando-se de questões não apreciadas pelas instâncias ordinárias, resta obstado o conhecimento da quaestio iuris por esta Corte Superior, sob pena de configurar a indevida e vedada supressão de instância.
+Ante o exposto, com base no art. 210 do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ILEGALIDADE DA BUSCA PESSOAL E DA DOSIMETRIA DA PENA. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL IMPETRADO NO TRIBUNAL DE ORIGEM. QUESTÕES NÃO ENFRENTADAS PELA CORTE ESTADUAL. ANÁLISE PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA.
+Recurso não conhecido.
