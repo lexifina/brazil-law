@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA DOS SANTOS DA SILVA, contra decisão que negou seguimento a recurso especial fundamentado na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/05/2023.
+Concluso ao gabinete em: 07/06/2023.
+Ação: declaratória de nulidade/inexigibilidade de desconto em folha de pagamento cumulada com repetição de indébito e compensação por danos morais, ajuizada pela agravante, em face de BANCO VOTORANTIM S.A., em razão de suposta invalidade de contrato de empréstimo consignado.
+Sentença: julgou improcedente o pedido. Condenou a agravante e seu procurador, solidariamente, ao pagamento de multa por litigância de má-fé, arbitrada em 10% sobre o valor da causa, devidamente atualizada.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANO MORAL. EMPRÉSTIMO CONSIGNAÇÃO. CONTRATO REGULAR. DANO MORAL INDEVIDO. REPETIÇÃO DE INDÉBITO. INDEFERIDO. LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DOS FATOS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Constatada por meio de prova documental a regularidade da contratação do empréstimo consignado, não há que se falar em dano moral ou repetição de indébito.
+A alteração da verdade dos fatos, enseja a condenação em litigância de má-fé.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 77, §6º, 79, 80, 81, 489, §1º, e 1.022, II, e parágrafo único, II, do CPC/15, e 32 da Lei 8.906/94, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) é incabível a condenação do patrono ao pagamento da multa por litigância de má-fé, porquanto os danos processuais porventura causados pelo advogado devem ser aferidos em ação própria; ii) o fato de terem sido ajuizadas demandas autônomas contra a mesma instituição financeira, referentes aos mesmos fatos, porém a contratos diversos, a que se atribuiu a designação de "fracionamento de ações" e conotação jurídica de verdadeiro abuso do direito de demandar, não se enquadra no conceito jurídico de "litigância de má-fé".
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do Tribunal de origem residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, ficou silente no que concerne ao argumento de que é incabível a condenação do patrono ao pagamento da multa por litigância de má-fé, porquanto os danos processuais porventura causados pelo advogado devem ser aferidos em ação própria.
+Da análise do processo, constata-se que o TJ/MT, ao julgar os embargos de declaração interpostos pela agravante, foi omisso quanto a este argumento. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios interpostos.
+É firme a jurisprudência do STJ no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe de 20/10/2017; e AgInt no AREsp 429.547/RJ, 4ª Turma, DJe de 8/9/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo, portanto, a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os embargos de declaração interpostos pela agravante; b) determinar a remessa dos autos ao TJ/MT, a fim de que se pronuncie, na esteira do devido processo legal, a respeito do argumento de que é incabível a condenação do patrono ao pagamento da multa por litigância de má-fé, porquanto os danos processuais porventura causados pelo advogado devem ser aferidos em ação própria.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. SUPOSTA INVALIDADE DE CONTRATO DE EMPRÉSTIMO CONSIGNADO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação declaratória de nulidade/inexigibilidade de desconto em folha de pagamento cumulada com repetição de indébito e compensação por danos morais em razão de suposta invalidade de contrato de empréstimo consignado.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 na hipótese em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo conhecido. Recurso especial provido.
