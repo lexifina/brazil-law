@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por RITA DE CASSIA QUERINO DE MORAES com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 38):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DIFERENÇA. RECURSO DO INSS PROVIDO.
+1 - É expressa a previsão legal de arbitramento de honorários advocatícios na fase de cumprimento de sentença, conforme art. 85, §1º, do CPC.
+2 - Figurando a Fazenda Pública como parte, a verba honorária deverá observar os critérios estabelecidos no §3º do já citado art. 85, mormente considerando que as condenações pecuniárias da autarquia são suportadas por toda a sociedade.
+3 - Incidência dos honorários advocatícios sobre o valor da diferença havida entre os valores efetivamente acolhidos e aqueles apurados pelo INSS. Precedente desta 7ª Turma.
+4 - Agravo de instrumento interposto pelo INSS provido.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, I e II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: "o acórdão persistiu omisso relativamente ao fato de que incide o Tema 973/STJ no caso concreto, o qual reconhece que os honorários sucumbenciais a serem pagos pela Fazenda Pública, inclusive em cumprimento individual de sentença coletiva - impugnado ou não - devem ser calculados sobre o valor da condenação, conforme art. 85, §§2º e 3º, do CPC" (fl. 93).
+Quanto à questão de fundo, sustenta ofensa ao artigo 85, §§ 1º, 2º e 3º do CPC/2015 e dissídio jurisprudencial, ao argumento de que " ..  a base de cálculo para os honorários a serem arcados pela Autarquia nos cumprimentos individuais de sentença coletiva é sempre o valor da condenação (i.e., o valor homologado pelo juízo) e não a "diferença havida entre os valores efetivamente acolhidos e aqueles apurados pelo INSS", como decidido pelo acórdão recorrido. Em suma, o acórdão recorrido afasta do cálculo dos honorários o valor incontroverso ("apurado pelo INSS"), o que contraria a própria lógica do Tema 973/STJ" (fl. 267) (grifos no original).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 125-128.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+Cinge-se a controvérsia recursal no reconhecimento do desacerto da decisão impugnada, no que diz com a base de cálculo de incidência da verba honorária, a qual entende deva ser limitada à diferença entre a conta por ele apresentada, e aquela acolhida pela decisão agravada.
+O Acórdão recorrido estabeleceu "a fixação dos honorários advocatícios em 10% (dez por cento) sobre o valor da diferença havida entre os valores efetivamente acolhidos e aqueles apurados pelo INSS" (fl. 37).
+Evidenciado que o acórdão recorrido dirimiu a controvérsia adotando posicionamento em consonância com a orientação desta Corte, que possui o entendimento de que a condenação em honorários advocatícios deve recair sobre o valor controverso da Execução.
+Veja-se:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. Consoante o entendimento do STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a Execução não tiver sido impugnada e seu pagamento ocorrer por precatório.
+2. No entanto, oferecida resistência à Execução da Sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+3. Insurge-se a parte exequente, ora agravante, contra a base de cálculo dos honorários, pugnando pela adoção do valor total do cumprimento de sentença, e não sobre o valor do excesso apresentado na impugnação.
+4. Todavia, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que admite a condenação em honorários advocatícios sobre o valor controverso da Execução, que, no caso, é o excesso de Execução apresentado na impugnação rejeitada.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDENIZAÇÃO DE LICENÇA-PRÊMIO. BASE DE CÁLCULO. VERBAS DE CARÁTER PERMANENTE. HONORÁRIOS ADVOCATÍCIOS DE EXECUÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+(..)
+VII - Acerca dos honorários, é entendimento desta Corte Superior que devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa. Nesse sentido: AgInt no REsp n. 1.897.903/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe 24/2/2022; e AgInt nos EDcl no REsp n. 1.885.625/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2021, DJe 1ª/6/2021.
+VIII - Assim, os honorários advocatícios devem ser fixados apenas sobre o valor controvertido, alvo da impugnação, ou, no caso de acolhimento da impugnação, sobre o valor decotado do inicialmente cobrado.
+IX - Agravo interno improvido. (AgInt no REsp n. 1.988.577/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/10/2022, DJe de 27/10/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PROVIMENTO PARCIAL PELAS INSTÂNCIAS ORDINÁRIAS. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DA PARTE IMPUGNADA, ORA AGRAVANTE. CABIMENTO. PRINCÍPIO DA SUCUMBÊNCIA. MATÉRIA EMINENTEMENTE DE DIREITO. INAPLICABILIDADE DA SÚMULA 7/STJ.
+(..)
+3. De fato, segundo o entendimento desta Corte Superior, ""o reconhecimento do excesso de execução em sede de impugnação do cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação de honorários advocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015" (AgInt no AREsp 1724132/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2021, DJe 24/05/2021)" (EDcl no AgInt no AREsp 1.704.142/SP, Rel. Ministro LUIS FELIPE SALOMÃO).
+4. Agravo interno não provido. (AgInt no REsp n. 1.897.903/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Ademais, quanto ao dissídio jurisprudencial, este não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE NÃO PROVIDO.
