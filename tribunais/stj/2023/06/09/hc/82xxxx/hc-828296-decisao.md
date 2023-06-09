@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Danilo Rodrigues de Souza e Marcelo Alves Feitosa - presos preventivamente pela prática, em tese, dos crimes de tráfico de drogas e associação para o mesmo fim -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2038016-86.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da segregação cautelar ou o trancamento da ação penal que tramita no Juízo de Direito da 1ª Vara Criminal da comarca de Votuporanga/SP (Autos n. 1500046-78.2023.8.26.0560), ao argumento de nulidade do cumprimento do mandado de busca e apreensão domiciliar, uma vez que cumprido fora do horário legal (após as 22h).
+Ocorre que, conforme ressaltou o Tribunal de origem, a entrada nas residências estava sob o respaldo da investigação criminal pela DISE e pelo cumprimento do mandado de busca e apreensão (Medida Cautelar n. 4004905/23-Processo n. 1500137-50.2023.8.26.0664 - fls. 20/22) dentro do horário estipulado por lei (que não se confunde evidentemente com o horário em que foi lavrado o boletim de ocorrência), não havendo que se falar em nulidade nas provas apreendidas, nem em trancamento da ação penal, como já explanado por esta relatoria em despacho liminar. Portanto, a alegação do impetrante de que a prisão foi ilegal, baseada na invasão injustificada, deve ser afastada (fl. 23).
+Ademais, alcançar conclusão inversa demanda reexame de provas, inviável na via estreita do writ.
+Os fundamentos da segregação cautelar dos pacientes já foi objeto de análise em outros habeas corpus impetrados em seu favor (HCs n. 825.791/SP e n. 828.295/SP).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL E DE LIBERDADE PROVISÓRIA. NULIDADE DO CUMPRIMENTO DO MANDADO DE BUSCA E APREENSÃO DOMICILIAR. INFORMAÇÃO NOS AUTOS DANDO CONTA DE QUE O CUMPRIMENTO OCORREU DENTRO DO HORÁRIO LEGAL. CONCLUSÃO INVERSA. REEXAME DE PROVAS. FUNDAMENTOS DO DECRETO DE PRISÃO JÁ ANALISADOS QUANDO DA ANÁLISE DOS HABEAS CORPUS N. 825.791/SP E N. 828.295/SP. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
