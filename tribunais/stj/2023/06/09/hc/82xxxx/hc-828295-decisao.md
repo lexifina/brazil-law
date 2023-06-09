@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Danilo Rodrigues de Souza - preso preventivamente pela prática, em tese, dos crimes de tráfico de drogas e associação para o mesmo fim -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2054216-71.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal da comarca de Votuporanga/SP (Autos n. 1500046-78.2023.8.26.0560), ao argumento de que a quantidade apreendida não é por demais vultosa. Logo, a acusação não traz, concretamente, gravidade fora do normal, a qual justifique a decretação de prisão preventiva, de acordo com o juízo de razoabilidade que deve permear a decisão judicial, derivado do devido processo legal substantivo (fl. 8).
+Ocorre que, da análise da decisão que decretou a prisão preventiva, observa-se que o Magistrado singular logrou fundamentar a necessidade da custódia para a garantia da ordem pública, ao evidenciar, além da diversidade e da quantidade de droga apreendida (8.547,84 g de maconha; 416,79 g de cocaína; 4.884,43 g de maconha; 126,85 g de cocaína; 24,06 g de cocaína; e 149,84 g de cocaína), o fato de que o paciente ostenta antecedente criminal pela prática de c rime idêntico (fl. 39).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. EXISTÊNCIA. ACUSADO QUE, ALÉM DE TER SIDO APREENDIDO COM CONSIDERÁVEL QUANTIDADE DE DROGA, DE MAIS DE UMA ESPÉCIE, OSTENTA ANTECEDENTE CRIMINAL POR CRIME IDÊNTICO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
