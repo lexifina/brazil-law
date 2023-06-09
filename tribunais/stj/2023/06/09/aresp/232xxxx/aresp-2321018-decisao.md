@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MARIA PEREIRA, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado (e-STJ, fl. 222):
+APELAÇÃO CÍVEL (PARTE REQUERIDA) - AÇÃO ANULATÓRIA DE COBRANÇA DE SEGURO DE VIDA, C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - IMPUGNAÇÃO À VERACIDADE DA ASSINATURA (ART. 429, II, DO CPC) - INÉRCIA DA PARTE REQUERIDA - DECLARAÇÃO DE INEXISTÊNCIA DE CONTRATO DE SEGURO MANTIDA - RESTITUIÇÃO A SER REALIZADA NA FORMA SIMPLES - DANOS MORAIS REDUZIDOS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. Como a Apelante não se desincumbiu do ônus de comprovar a veracidade dos documentos apresentados (art. 429, II, DO CPC), há que serem presumidos verdadeiros os fatos articulados na inicial, no sentido de que não houve contratação com a Autora/Apelada.
+II. Ainda que declarada a ilegalidade dos descontos a título de seguro, cabível a restituição na forma simples, porquanto não comprovada a má-fé por parte da Seguradora/Recorrente.
+III. Considerando a intensidade do dano e a repercussão da ofensa, bem como as condições econômicas das partes, o quantum indenizatório deve ser reduzido para R$ 3.000,00 (três mil) reais, montante esse razoável dentro das circunstâncias do caso.
+IV. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 246-249).
+Em suas razões de recurso especial (e-STJ, fls.251-278), a agravante alegou violação aos arts. 6º, VI e 14 do Código de Defesa do Consumidor; e 186, 927 e 944 do Código Civil.
+Insurgiu-se, em suma, contra a conclusão do acórdão recorrido, que, nos autos da ação anulatória de cobrança de seguro de vida cumulada com pedido de repetição de indébito e danos morais, reduziu o quantum indenizatório fixados a título de dano moral de R$ 10.000,00 (dez mil reais) para o valor de R$ 3.000,00 (três mil reais).
+Argumentou que a quantificação do dano extrapatrimonial deve considerar os critérios de razoabilidade adequados à condição econômica do agente causador do ato ilícito, sendo ínfima a quantia arbitrada, levando-se em conta que é pessoa idosa e que recebe mensalmente um salário mínimo, advindo de sua aposentadoria por idade.
+Foram apresentadas contrarrazões (e-STJ, fls. 379-388).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar a apelação da parte ora recorrida e apreciar o pedido de redução do valor fixado a título de danos morais, deixou assentados os seguintes fundamentos (e-STJ, fls. 227-228):
+Entrementes, e aqui analisando o pleito subsidiário da Recorrente, firme e coerente com os posicionamentos deste colegiado, entende-se que os danos morais devem ser reduzidos.
+Com efeito, inexiste no ordenamento jurídico vigente parâmetros legais objetivos para se estabelecer o valor a ser fixado a título de indenização por dano moral. Assim, o valor devido está dentro de um juízo de ponderação do Magistrado condutor do feito, que deve apenas obedecer alguns critérios estabelecidos pela doutrina e jurisprudência, a exemplo da capacidade econômica das partes, a extensão do dano e repercussão da ofensa, de modo a servir como um lenitivo para o sofrimento a vítima e, ao mesmo tempo, como fator de desestímulo para o autor da ofensa.
+In casu, a extensão do dano foi de pequena monta, haja vista que os dois descontos efetuados, somados, alcançam a cifra de R$ 144,00 (cento e quarenta e quatro reais), pouco acima de 10% sobre o salário mínimo vigente. Nesse espectro, e considerando a capacidade econômica das partes, a sentença deve ser reformada para que o dano extrapatrimonial seja fixado na ordem de R$ 3.000,00 (três mil) reais, montante esse condizente com a realidade da causa e demais elementos constantes dos autos.
+ ..
+Assim, deve ser reduzido os danos morais para R$ 3.000,00 (trêsmil) reais, montante razoável para restabelecer a ordem jurídica violada.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de indenização por danos morais quando este se revelar ínfimo ou exagerado, ou seja, somente quantias desarrazoadas, diante dos valores comumente estabelecidos em situações similares, são aptas à revisão por este Tribunal.
+Na espécie, a Corte local, diante das peculiaridades fáticas do caso reputou adequada e consentânea com às finalidades punitiva e compensatória da indenização por danos morais, a manutenção da quantia em R$ 3.000,00 (três mil reais), ressaltando-se que "a extensão do dano foi de pequena monta, haja vista que os dois descontos efetuados, somados, alcançam a cifra de R$ 144,00 (cento e quarenta e quatro reais)" (e-STJ, fl. 227).
+Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado estadual implicaria no reexame do conjunto fático-probatório, o que é vedado pela Súmula 7 deste Tribunal.
+A título exemplificativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO. DESCONTOS INDEVIDOS EM CONTA CORRENTE. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRETENSÃO DE MAJORAÇÃO. QUANTUM NÃO IRRISÓRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SUMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+2. No caso, o montante fixado em R$ 3.000,00 (três mil reais) não se mostra irrisório nem desproporcional aos danos causados à agravante, em razão dos descontos indevidos em sua conta corrente.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.107.190/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+Impende registrar que, uma vez aplicado o enunciado n. 7 da Súmula do STJ quanto à alínea a, fica prejudicada a análise do recurso quanto à divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE COBRANÇA DE SEGURO DE VIDA CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRETENSÃO DE MAJORAR VALOR FIXADO A TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. QUANTUM QUE, CONSIDERADAS AS PARTICULARIDADES DO CASO, NÃO REVELA IRRISORIEDADE OU EXORBITÂNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
