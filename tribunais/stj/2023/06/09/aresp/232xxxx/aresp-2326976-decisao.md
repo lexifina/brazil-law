@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por DOUGLAS DOS SANTOS AGUIAR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO MONITORIA - CONTRATO DE ABERTURA DE CRÉDITO - PRESCRIÇÃO - INOCORRÊNCIA PRORROGAÇÃO AUTOMÁTICA DA DÍVIDA.
+Quanto à controvérsia, alega violação do art. 206, § 5º, I, do CC, no que concerne ao reconhecimento da ocorrência da prescrição, pois a lei preconiza expressamente que a cobrança de dívidas líquidas constantes de instrumento público prescreve em 5 anos, trazendo o(s) seguinte(s) argumento(s):
+Insta salientar que o acórdão ora vergastado, proferido pelo egrégio TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, acabou por violar, data venia, o art. 206, § 5º do Código de Civil, que determina que a cobrança de dívidas líquidas constantes de instrumento particular prescreve em 5 anos
+ ..
+Ora, Exas., tal decisão não pode prosperar, concessa venia, pois a lei preconiza expressamente que a cobrança de dívidas líquidas constantes de instrumento público prescreve em 5 anos.
+Este é exatamente o caso dos presentes autos, já que o instrumento no qual se embasa a pretensão do Banco Recorrido, celebrado entre partes em 02 de fevereiro de 2010, estabeleceu-se, na cláusula décima terceira do contrato, que, na data do vencimento, qual seja, 28 de janeiro de 2011, o Financiado pagará todas as responsabilidades dele oriundas, ou seja, a integralidade da dívida contraída.
+ ..
+Veja-se que o parágrafo único da cláusula décima terceira do contrato registra que "na falta de pagamento do saldo devedor e dos encargos existentes na data de vencimento normal ou antecipado deste instrumento, passarão a incidir sobre todo o saldo devedor da conta de abertura de crédito vinculada os encargos previstos na cláusula "ENCARGOS FINANCEIROS DE INADIMPLEMENTO"", o que corrobora no entendimento de que o dia 28 de janeiro de 2011 deve ser considerado como início do prazo prescricional, ante o vencimento da dívida.
+Destaque-se que fato de o contrato prever a renovação automática não basta, por si só, para estender o termo inicial para a contagem do prazo prescricional, devendo haver provas da renovação, consoante as jurisprudências consolidadas do egrégio TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 1467-1469).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em apreço, depreende-se que as partes celebraram, em 02/02/2010, Contrato de Abertura de Crédito - BB Giro Empresa Flex, para disponibilização de um crédito rotativo de até o limite de R$300,000 (trezentos mil reais), com vencimento normal em 28/01/2011, caso não tenha havido sua renovação (cód. 15).
+Ainda observa-se pelos extratos juntados, que o contrato foi renovado por mais de uma vez, sem manifestação contrária de qualquer parte, notando-se que houve utilização do crédito até 15/02/2014 (cód.19).
+Nesse aspecto, verifica-se que o contrato supramencionado prevê expressamente na cláusula Décima Quarta que, não havendo manifestação em contrário de qualquer das partes, o prazo do contrato poderá ser sucessivamente prorrogados iguais por períodos de 360 dias
+ ..
+Frisa-se que o prazo prescricional para o ajuizamento de ação de monitória baseada em cédula de crédito bancário, para fins de abertura de crédito rotativo renovável, é contado a partir da apuração da dívida final e não a partir da data do primeiro vencimento.
+Assim, embora conste data de vencimento em 28/01/2011, as sucessivas renovações do crédito e seu uso pela parte agravante, afastam, a princípio, a prescrição relativa à data do vencimento.
+Logo, considerando como termo inicial do prazo prescricional o dia 15/02/2014 e, tendo em vista que a ação foi ajuizada em 23/06/2017, não há que se falar na ocorrência da prescrição, vez que ainda não havia decorrido o prazo quinquenal (fls. 1456-1458).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
