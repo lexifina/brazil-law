@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONEL MARTINS FERREIRA, contra acórdão proferido pelo Tribunal de Justiçado Estado de São Paulo, que desproveu agravo em execução da defesa, mantendo a decisão que reconheceu a prática de falta grave pelo apenado, assim ementado:
+"Agravo em execução. Nulidade de faltas disciplinares anotadas no Boletim Informativo. Recurso não instruído com cópias necessárias. Sentença condenatória transitada em julgado supre procedimento disciplinar para apuração de falta disciplinar consistente em prática de fato definido como crime doloso. Não provimento ao recurso." (e-STJ, fl. 230)
+Neste writ, o impetrante alega a decisão que reconheceu a ocorrência de faltas graves ofendeu o devido processo legal, uma vez que não houve a instauração prévia do respectivo procedimento administrativo disciplinar.
+Requer o afastamento das faltas graves.
+O pedido de liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, no mérito, pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O acórdão impugnado assim fundamentou a questão quanto à apontada nulidade (e-STJ, fls. 233-234):
+"em relação ao pedido de declaração de nulidade das faltas disciplinares de natureza grave decorrentes dos crimes praticados em "05/01/2006, 03/11/2004,28/11/2007, 31/07/2005, 3/01/2007, 05/01/2006,02/12/2008, 07/03/2005, respectivamente, das GR"s 4, 5, 6, 7, 8, 9, 10 e 11", em que pese, repita-se, ausência de cópias essências, registre-se que: 1. trata-se de registro de falta disciplinar com base no artigo 52 da Lei de Execução Penal;2. eventual ausência de procedimento administrativo, no âmbito disciplinar interno, para apuração da falta consistente na prática de fato definido como crime doloso, é suprida por sentença condenatória transitada em julgado, proferida pelo Juízo de Conhecimento que analisou o fato com observância do contraditório e a ampla defesa; . nesse sentido já se manifestou o Supremo Tribunal Federal (RE nº 776.823-RS, Rel. Min. Edson Fachin, Tribunal Pleno, j. em 07.12.2020)"
+Como visto, o acórdão atacado dispensou a necessidade de prévio procedimento administrativo para a homologação da falta grave, em virtude do paciente já ter sido condenado com sentença transitado em julgado pela prática de novo crime, o que está de acordo com a jurisprudência desta Corte.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. PRÁTICA DE NOVO CRIME. CONDENAÇÃO. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RE 972.598/RS. REPERCUSSÃO GERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte Constitucional, no julgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena (Tema 941/STF).
+2. No caso em análise, o agravante cometeu falta de natureza grave, consubstanciada na prática de novo crime, tendo sido condenado em ação penal, não havendo, assim, necessidade de instauração de PAD.
+3. Nos termos da Súmula n. 526/STJ, o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato (Terceira Seção, julgado em 13/5/2015, DJe 18/5/2015).
+4. Agravo regimental não provido."
+(AgRg no REsp n. 1.984.418/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
