@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de LUCAS HENRIQUE DE SOUZA (PEC n. 0000692-32.2017.8.26.0154), no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Agravo de Execução Penal n. 0012368-93.2022.8.26.0576).
+Alega-se, em síntese, o seguinte (fls. 3/9):
+LUCAS, cumpre pena em regime aberto e requereu ao juízo da execução a unificação de sua pena, mas teve seu pleito negado por ele e pelo Tribunal de Justiça do Estado de São Paulo, assim, submetido a pena maior do que tem direito, busca a correção dessa ilegalidade por meio deste habeas corpus.
+Uma das penas impostas ao paciente trata de dois crimes de estelionato praticados em continuidade delitiva: fatos ocorridos em 25/2/2014 e 18/12/2014.
+Estes crimes apresentam características idênticas a outros dois estelionatos praticados em 20/5/2014 e 23/9/2014, estes, conduto, geraram condenações independentes.
+O paciente pretende o tratamento isonômico a situações similares e, com isso, manter a coerência da execução de sua pena e do ordenamento jurídico penal.
+Os quatro crimes são da mesma espécie (estelionato) e foram praticados pelos mesmos agentes com utilização do mesmo modus operandi, nos mesmos pontos de referência da cidade de Novo Horizonte/SP: agência da Caixa Econômica Federal e Posto de Atendimento ao Trabalhador-PAT.
+ ..
+Não há como ignorar as semelhanças entre os quatro fatos.
+O acórdão do tribunal paulista, no entanto, afirma que "os crimes não resultaram de um único propósito previamente elaborado pelo Agravante", contudo a simples leitura das denúncias e das sentenças aponta em sentido contrário.
+Os crimes aqui tratados constituíram desdobramentos de um mesmo desígnio, de uma única preparação, de um só planejamento que se articulou em várias execuções, porém todas estas estavam entrelaçadas pelo mesmo propósito.
+ ..
+Todos os requisitos legais para reconhecimento da continuidade delitiva estão presentes.
+Requer-se (fl. 9):
+Concessão da ordem para que seja declarada a continuidade delitiva e o juízo da execução faça a unificação das penas das execuções criminais no 001009-93.2018.8.26.0154 e 0001164-33.2017.8.26.0154 à pena da execução no 0002631-47.2017.8.26.0154.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Pelo que consta do acórdão ora impugnado, o Tribunal estadual decidiu conforme a firme jurisprudência desta Casa, segundo a qual a caracterização da continuidade delitiva pressupõe a existência de ações praticadas em idênticas condições de tempo, lugar e modo de execução (requisitos objetivos), além de um liame a indicar a unidade de desígnios entre os delitos cometidos (requisito subjetivo). A esse respeito, entre inúmeros outros: AgRg no HC n. 470.124/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/6/2019.
+In casu, as instâncias ordinárias foram taxativas no afastamento do requisito subjetivo, afirmando que (fls. 89 e 12/13 - grifo nosso):
+Pois bem. Da análise dos autos verifica-se que, embora os delitos referentes às execuções sejam de mesma espécie, e tenham sido praticados em um mesmo contexto de tempo, lugar e modo de execução, não passam de mera reiteração criminosa.
+O que se constata é que entre um delito e outro inexistiu qualquer liame subjetivo, haja vista que entre os crimes não ficou caracterizado o desdobramento ou prolongamento de um em relação ao outro, um dos requisitos necessários para o reconhecimento da continuidade delitiva. Pelo contrário, o que se observa é que se trata de crimes totalmente autônomos, que guardam total independência entre si, o que configura a reiteração delitiva e não a continuação entre eles.
+Portanto, não há como acolher o pleito de reconhecimento do crime continuado, eis que ausentes os requisitos necessários para o reconhecimento do referido instituto.
+De fato, conforme se vê das cópias encartadas (fls.10/74): 1. os crimes datam de 20.05.2014, 23.09.2014 e 18.12.2014 (este em continuidade delitiva com crimes datados de 25.02.2014 e 01.12.2014), e, apesar de certa proximidade entre os fatos, há distância temporal suficiente para romper qualquer possibilidade de liame comum ou sequencial; 2. as vítimas são diferentes, sem qualquer indicação de que haja liame vinculativo entre elas; 3. os crimes não resultaram de um único propósito previamente elaborado pelo Agravante, mas sim da vontade deliberada e autônoma de praticar mais de um crime, sem qualquer correlação entre eles.
+Neste caso, a única conclusão lógica e possível é de que a prática de um crime não é subsequente a outro, de modo que não há como se reconhecer a hipótese de continuidade delitiva.
+O Agravante é, em verdade, agente profissional do ilícito, com péssimos antecedentes criminais e com extenso repertório de crimes demonstrativos de sua persistência em delinquir, altamente perigoso e que nitidamente necessita de reprimenda efetiva e enérgica, não sendo as hipóteses pelas quais foi processado, eventuais ou ocasionais, o que justificaria a incidência do instituto do crime continuado.
+E a alteração desse entendimento, na forma em que pleiteada pela defesa, demandaria, necessariamente, amplo reexame do acervo fático-probatório das ações penais em questão, providência totalmente descabida na via eleita. Em outras palavras, também nos termos da jurisprudência desta Corte, a pretensão de incidência da continuidade delitiva não pode ser conhecida, já que a aferição da unidade de desígnios e dos elementos objetivos do art. 71 do CP demandaria evidente reexame dos fatos e provas da causa (AgRg no AREsp n. 1.759.955/MT, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/5/2021).
+Ainda este precedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DIREITO PENAL. CRIMES DE ESTELIONATO. UNIFICAÇÃO DE PENAS. REITERAÇÃO CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. CONTINUIDADE DELITIVA. INEXISTÊNCIA DOS REQUISITOS NECESSÁRIOS. DECISÃO FUNDAMENTADA. IMPOSSIBILIDADE DE REVISÃO, NO ÂMBITO DO WRIT. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+1. A Primeira Turma do Supremo Tribunal Federal e ambas as Turmas desta Corte, após evolução jurisprudencial, passaram a não mais admitir a impetração de habeas corpus em substituição ao recurso ordinário, nas hipóteses em que esse último é cabível, em razão da competência do Pretório Excelso e deste Superior Tribunal tratar-se de matéria de direito estrito, prevista taxativamente na Constituição da República.
+2. Esse entendimento tem sido adotado pela Quinta Turma do Superior Tribunal de Justiça também nos casos de utilização do habeas corpus em substituição ao recurso especial, com a ressalva da posição pessoal desta Relatora, sem prejuízo de, eventualmente, se for o caso, deferir-se a ordem de ofício, em caso de flagrante ilegalidade.
+3. Para o reconhecimento da continuidade delitiva, exige-se, além da comprovação dos requisitos objetivos, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados. Ou seja, a conduta posterior deve constituir um desdobramento da anterior.
+4. Se as instâncias ordinárias reconheceram que existe, de fato, a reiteração de delitos e a habitualidade na prática criminosa, mostra-se irrepreensível a conclusão de refutar a aplicação do art. 71 do Código Penal. Entender diversamente, outrossim, implicaria acurada avaliação probatória, o que, na angusta via do habeas corpus, não se admite.
+5. Ordem de habeas corpus não conhecida.
+(HC n. 282.845/SP, Ministra Laurita Vaz, Quinta Turma, DJe 7/3/2014)
+P elo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. CRIMES DE ESTELIONATO. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. INEXISTÊNCIA DE LIAME SUBJETIVO. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A FIRME JURISPRUDÊNCIA DO STJ. REITERAÇÃO CRIMINOSA. RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO DESAUTORIZADO.
+Petição inicial indeferida liminarmente.
