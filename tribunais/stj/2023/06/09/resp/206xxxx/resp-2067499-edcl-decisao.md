@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COOPERATIVA DE CRÉDITO E INVESTIMENTOS DE LIVRE ADMISSÃO AGROEMPRESARIAL -SICREDI AGROEMPRESARIAL PR/SP contra decisão unipessoal que deu provimento ao recurso especial nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS. CEDULA DE CREDITO RURAL. CEDULA DE CREDITO BANCÁRIO. CDI. ABUSIVIDADE. NÃO CONFIGURADA. TAXA MÉDIA DE MERCADO. 1. Cuida-se de ação revisional de contrato. 2. É entendimento desta Corte Superior que, em se tratando de cédula de crédito bancário, não há vedação à adoção da variação da CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado na hipótese, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie. 3. No que tange às cédulas de crédito rural, tem sido firme este STJ no sentido de que a mera indexação da CDI não configura abusividade, haja vista que o consignado nesta Corte Superior é que a limitação deve ser de 12% ao ano.4. Recurso especial provido.
+Aduz a embargante que o acórdão incorreu em omissão ao não considerar que o acórdão do Tribunal de origem teria se manifestado sobre os juros moratórios, razão pela qual sustenta que é desnecessário o retorno dos autos ao Tribunal de origem.
+RELATADO O PROCESSO, DECIDE-SE.
+Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (art. 1022 do CPC/15), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Na presente hipótese, o vício de omissão não se mostra presente.
+De fato, conforme alega o embargante, o Tribunal de origem se manifestou a respeito dos juros de mora. Tanto é assim que a decisão embargada fez referência ao trecho do acórdão que versa sobre esse tema (e-STJ Fl.3909).
+Nada obstante, o fato de ter tratado a respeito dos juros de mora não inibe a razão pela qual se entendeu que os autos deveriam retornar ao Tribunal de origem.
+O que justifica o retorno dos autos ao Tribunal de origem foi o fato de o acórdão recorrido não ter sido claro ao definir se a configuração da mora decorreu de haver elementos outros na pactuação da taxa de juros, que não a CDI, que demonstrem efetiva abusividade.
+Ademais, relembra-se que, segundo a jurisprudência desta Corte, a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, 3ª Turma, DJe 3/3/2021).
+Desse modo, não se verifica omissão no acórdão embargado que afastou as teses recursais aduzidas pelo embargante, uma vez que julgou integralmente a matéria submetida a esta Corte e solucionou a controvérsia de forma fundamentada e suficiente, ainda que de maneira contrária à pretensão do embargante.
+Portanto, não havendo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos presentes embargos declaratórios.
+Forte nessas razões, REJEITO os embargos de declaração no recurso especial.
+Previno o embargante que a oposição de novos embargos, se declarados manifestamente protelatórios, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC/15.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC/15, constituem recurso de natureza integrativa destinado a sanar os seguintes vícios: obscuridade, contradição, omissão ou erro material. Descabe seu acolhimento quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
