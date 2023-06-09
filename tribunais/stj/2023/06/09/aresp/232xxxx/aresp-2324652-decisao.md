@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por NOVA DISTRIBUIDORA LTDA. contra a decisão de fls. 237-238 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 187, e-STJ):
+AGRAVO DE INSTRUMENTO. Contrato de distribuição. Abordagem declaratória, com pedido cautelar de suspensão de demanda executiva, já em fase expropriatória. Tutela de urgência, indeferida. Recurso desprovido.
+Nas razões do recurso especial (fls. 190-210 , e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 313 e 921 do Código de Processo Civil de 2015.
+Sustentou, em suma, a ocorrência de violação ao devido processo legal, em virtude do indeferimento do pedido de suspensão do procedimento executório (expropriação de bens), pois, uma vez intentada ação declaratória para comprovação de descumprimento contratual pela parte adversa, não há se falar em prosseguimento da execução.
+Aduz, outrossim, que, encontrando-se o recorrido inadimplente, não pode exigir da recorrente a contraprestação devida.
+Em juízo de admissibilidade (fls. 237-238, e-STJ), a Corte de origem negou o processamento do recurso especial ante a aplicação da Súmula 735/STF, pois o reclamo foi manejado contra decisão que indeferiu tutela provisória pleiteada.
+Irresignada (fls. 241-264, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 267-287 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, cumpre ressaltar que a jurisprudência do Superior Tribunal de Justiça é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária.
+Ou seja, o recurso especial é tirado de agravo de instrumento interposto contra a decisão concessiva da tutela antecipada, o que encontra óbice na Súmula n. 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Este Superior Tribunal somente pode ser instado para avaliar a afronta à legislação federal quando a causa tenha sido decidida de modo exauriente, não lhe cabendo analisar verossimilhança da afronta à legislação federal.
+Na mesma linha de cognição:
+Na mesma linha de cognição:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE. TUTELA PROVISÓRIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ. MANDATO. PRESENÇA NOS AUTOS. REVERSÃO DO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada a reintegração de posse dos imóveis objeto da lide principal.
+3. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+4. A efetiva presença da procuração nos autos, apontada a ausência por certidão, conduz ao não provimento do recurso, revertido o julgamento pelo não conhecimento.
+5. Agravo interno parcialmente provido (AgInt no AREsp n. 2.105.524/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+3. Não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, tampouco foi comprovado qualquer erro material.
+4. Embargos de declaração rejeitados (EDcl no AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+Na hipótese, o Tribunal de origem consignou os seguintes fundamentos para indeferir a concessão da tutela de urgência pleiteada (e-STJ, fls. 187-188, sem grifos no original):
+Agravo de instrumento, autora, em ação declaratória, a questionar direitos e obrigações compreendidos em contrato de distribuição, a agravante renova argumentos, à busca de tutela cautelar, para aplacar andamento em processo de execução, já em fase expropriatória.
+(..)
+Ajuizamento de demanda declaratória, a questionar alcance de direitos e obrigações compreendidos em contrato de distribuição de produtos, ao menos por ora, não se dispõe de melhor embasamento, permitindo identificar requisito de verossimilhança da arguição, bastante para inibir cobrança aparelhada contra a autora, em processo de execução, tomando a mesma relação jurídica.
+Assim sendo, vale ressaltar que a análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 deste Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE DISTRIBUIÇÃO. TUTELA DE URGÊNCIA INDEFERIDA. NATUREZA PRECÁRIA E PROVISÓRIA DO JULGADO QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. CASO TAMBÉM DE INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
