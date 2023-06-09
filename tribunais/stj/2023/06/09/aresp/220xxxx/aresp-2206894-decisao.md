@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LE GRAND ATLAS CONDOMÍNIO RESORT contra decisão que inadmitiu o recurso especial ante a ausência de afronta aos arts. 489 e 1.022 do CPC e a incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Afirma que demonstrou ofensa aos artigos arrolados no recurso especial e que a questão não demanda reexame de provas.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 303):
+EMENTA: EMBARGOS À EXECUÇÃO. APELAÇÃO CÍVEL. PRELIMINAR DE INTEMPESTIVIDADE. REJEIÇÃO. PRELIMINAR DE INOVAÇÃO RECURSAL. REJEIÇÃO. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. BEM IMÓVEL ALIENADO FIDUCIARIAMENTE. PENHORA SOBRE OS DIREITOS AQUISITIVOS DO DEVEDOR. POSSIBILIDADE. EXCESSO DE EXECUÇÃO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. VALOR RAZOÁVEL. MANUTENÇÃO. RECURSOS DESPROVIDOS.
+1. Não há que se falar em intempestividade do recurso de apelação interposto dentro do prazo de 15 dias contados da data da publicação da sentença.
+2. Inexiste inovação recursal se a tese trazida pelo apelante é relativa à impenhorabilidade do bem, matéria que é de ordem pública e cognoscível até mesmo de ofício.
+3. Sendo o bem dado em garantia fiduciária impenhorável, visto que o credos fiduciante é o proprietário do mesmo até o adimplemento integral do contrato, a penhora pode recair tão somente sobre os direitos do devedor.
+4. Não há excesso de execução se os cálculos ofertados pelo exequente contemplam, tão somente, os verdadeiros valores da dívida.
+5. Se os honorários advocatícios foram fixados em patamar justo e razoável, impõe-se a sua manutenção.
+Os embargos de declaração opostos foram rejeitados (fls. 344-350).
+Opostos novos embargos de declaração, os quais foram rejeitados (fls. 378-384).
+Nas razões do recurso especial, a parte recorrente aponta violação dos seguintes artigos: 489, §1º, IV, e 1.022, II, do CPC; 8º do CPC; e 827, 2º, do CPC.
+Alega omissão e falta de fundamentação, pois "não há se falar ARBITRAMENTO de honorários sobre o valor da causa dos embargos à execução, mas em MAJORAÇÃO dos honorários da própria execução" (fl. 396).
+Sustenta que (fl. 400):
+ ..  a legislação pátria é cristalina no sentido de que é devida a MAJORAÇÃO dos honorários quando rejeitados os embargos à execução opostos, não havendo absolutamente nenhuma justificativa legal para o arbitramento em percentual sobre o valor da causa a título de honorários sucumbenciais.  ..
+Requer o conhecimento e provimento do recurso para que seja anulado o acórdão recorrido. Sucessivamente, pleiteia sejam majorados os honorários advocatícios fixados na execução para o importe de 20% sobre o valor atualizado do débito.
+É o relatório. Decido.
+Afasta-se a alegada ofensa aos arts. 489 e 1.022, parágrafo único, II, do CPC, porquanto a Corte de origem examinou e decidiu as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, os embargos à execução opostos por Leonardo Tadeu Dudário Pinheiro foram julgados improcedentes e, em razão da sucumbência, a parte embargante foi condenada ao pagamento das custas processuais e honorários advocatícios, estes que fixados em 10% sobre o valor da causa, nos termos do art. 85, §2ª, do CPC.
+A jurisprudência do STJ entende pela possibilidade de fixação dos honorários sucumbenciais, de forma autônoma, na ação de execução e nos embargos à execução. A respeito, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SUMULA N. 182/STJ. DISPOSITIVO LEGAL VIOLADO. IMPERTINÊNCIA. SÚMULA N. 284/STF. COISA JULGADA. INTERPRETAÇÃO. OFENSA. INEXISTÊNCIA. REEXAME. SÚMULA N. 7/STJ. EXECUÇÃO DE TÍTULO JUDICIAL E EMBARGOS DO DEVEDOR. AUTONOMIA. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+1.1. A decisão agravada afirmou precluso o tema relacionado à ordem para a exibição de documentos, fundamento não impugnado nas razões do agravo interno.
+2. Incide a Súmula n. 284 do STF na falta de pertinência entre a tese sustentada e o normativo apontado no recurso especial.
+2.1. Para afastar a incidência do art. 1º do Dec. n. 22.626/1933, o TJ local afirmou que o percentual de juros contratado não poderia ser modificado por traduzir ato jurídico perfeito. O agravante não contrariou esse fundamento com suporte em tese de que violada norma jurídica correlacionada ao tema, ensejando a inaptidão do recurso excepcional 2.2. Da mesma forma, a Corte local afirmou que a matéria estava preclusa, não cuidando o recorrente de suscitar violação de dispositivo que versa sobre preclusão.
+3. Não viola a coisa julgada a interpretação do título judicial para definir seu alcance e extensão.
+3.1. As instâncias ordinárias interpretaram a decisão anterior e dela extraíram o entendimento de que se faz possível a cobrança dos juros pactuados pelo período do inadimplemento, não se sujeitando ao período da contratação.
+3.2. O reexame dessa interpretação, feita à luz dos elementos fático-probatórios dos autos, esbarra no óbice da Súmula n. 7/STJ.
+4. "Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973" (REsp n. 1.520.710/SC, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 18/12/2018, REPDJe de 2/4/2019, DJe de 27/02/2019).
+4.1. Ante a autonomia do processo incidental dos embargos e considerando que na execução o percentual da verba honorária recairá sobre o quantum efetivamente devido, não há falar em sucumbência recíproca no feito executivo.
+4.2. Na execução, subsistindo da dívida, quem se coloca na condição de sucumbente é o devedor.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.952.020/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/73. EMBARGOS À EXECUÇÃO. POSSIBILIDADE DE CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS NA EXECUÇÃO E NOS EMBARGOS DE DEVEDOR. ADMISSIBILIDADE DE FIXAÇÃO DE UMA CONDENAÇÃO ÚNICA, DESDE QUE RESPEITADOS DETERMINADOS CRITÉRIOS. DETERMINAÇÃO DE RETORNO DOS AUTOS A ORIGEM PARA NOVO JULGAMENTO COM OBSERVÂNCIA DESSE ENTENDIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A Corte Especial do STJ, no julgamento do REsp 1.520.710/SC, apreciado sob o rito dos recursos repetitivos, admitiu a cumulação de honorários advocatícios sucumbenciais na ação de execução e de embargos à execução, desde que respeitados os limites de repercussão recíproca entre essas ações, não excedido o limite máximo previsto no § 3º do art. 20 do CPC/1973.
+3. Nada obstante, o órgão julgador pode arbitrar verba de sucumbência única, abrangendo ambas as ações, se o fizer de forma expressa.
+4. Impõe-se, no caso, o retorno dos autos à origem para novo julgamento da causa, com observância dessa orientação específica.
+7. Agravo interno não provido. (AgInt no REsp n. 1.661.899/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NATUREZA JURÍDICA DE AÇÃO. PROCEDÊNCIA DOS PEDIDOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. POSSIBILIDADE. CUMULAÇÃO COM HONORÁRIOS FIXADOS NA AÇÃO DE EXECUÇÃO. EXTINÇÃO DA AÇÃO DE EXECUÇÃO. IRRELEVÂNCIA. HONORÁRIOS. PERCENTUAL. LIMITE. OBSERVÂNCIA. SOMATÓRIO.
+Embargos à execução dos quais foi extraído o presente recurso especial interposto em 07/06/2021 e concluso ao gabinete em 27/01/2022.
+O propósito recursal consiste em definir se a extinção da ação de execução, em virtude do julgamento de total procedência dos pedidos formulados nos embargos à execução, obsta a cumulação dos honorários advocatícios fixados na ação de execução com os dos embargos à execução.
+A cumulação dos honorários sucumbenciais fixados na ação de execução e nos embargos à execução é possível tanto na hipótese de procedência quanto na de improcedência dos pedidos neles formulados.
+Permitir a cumulação apenas na hipótese de improcedência dos pedidos formulados nos embargos privilegiaria os advogados dos exequentes, o que não se admite, porquanto tal entendimento violaria a paridade de tratamento que deve ser conferida às partes.
+Da mesma forma que o advogado do exequente fará jus à cumulação de honorários se forem julgados improcedentes os pedidos formulados nos embargos à execução, se procedentes os pedidos para extinguir a ação de execução, o advogado do executado também deverá usufruir desse direito.
+Nos termos do Tema 587/STJ, a única limitação para a cumulação dos honorários advocatícios firmados na ação de execução com os dos embargos à execução é que seja respeitado o limite do art. 85, §2º, do CPC/2015.
+Tendo em vista que a Corte Especial do STJ afastou o arbitramento dos honorários por equidade, se o juiz entender que a atuação do advogado do executado foi irrisória na ação de execução, poderá arbitrar um percentual assim compatível, pois somente o somatório dos honorários advocatícios fixados na ação de execução com o dos embargos à execução deverá respeitar o limite mínimo de dez por cento determinado pelo art. 85, §2º, do CPC/2015.
+Recurso especial provido. (REsp n. 1.980.956/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/12/2022, DJe de 9/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PARCIALMENTE PROCEDENTES. REDUÇÃO DO VALOR EXECUTADO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO PATRONO DO EXECUTADO. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Os embargos à execução são ação de conhecimento incidental à execução, razão por que os honorários advocatícios podem ser fixados em cada uma das duas ações de forma autônoma e independente.
+Precedentes.
+2. "Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC" (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 1º/08/2011, DJe de 21/10/2011).
+3. Agravo interno provido para, reconsiderando a decisão agravada, dar provimento ao recurso especial. (AgInt no AREsp n. 616.724/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/5/2020, DJe de 1/6/2020.)
+Assim, o entendimento da in stância local encontra-se em consonância com o STJ, o que atrai a incidência da Súmula n. 83 do STJ ao caso concreto.
+Por fim, eventual revisão do percentual fixado pelas instâncias ordinárias de honorários sucumbenciais demandaria reexame de provas, o que encontra óbice na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
