@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  benefício  de  Nerivaudo Rosa da Silva,  apontando-se  como  autoridade  coatora  o  Tribunal  de  Justiça  de São Paulo,  que  denegou  o  HC  n.  2131865-15.2023.8.26.0000 - fl. 14:
+"Habeas Corpus". Execução Criminal. Impetração se insurgindo contra decisão do juízo da execução. Ação constitucional incabível como sucedâneo da via recursal adequada, no caso, o agravo em execução. Pedido de livramento condicional. Análise da questão a exigir exame de matéria atrelada ao merecimento do preso e sua situação processual, com produção e interpretação de provas, algo impossível de ocorrer pela via estreita do writ. Ordem indeferida liminarmente, dispensados parecer da Procuradoria de Justiça e informações da autoridade apontada como coatora (artigo 663 do CPP).
+Aqui, a defesa aduz que formulou pedido de Livramento Condicional perante o Juízo de primeiro grau, pois cumpriu o lapso necessário e ostenta bom comportamento carce rário, e exame criminológico favorável. Não obstante a manifestação favorável do Ministério Público, o juízo de 1º grau concedeu-o o beneficio do regime Semiaberto em total desconformidade ao pedido inicial, o que acarreta a perda de direitos que o livramento condicional o proporcionaria. Nesse sentido, não se conformando com a decisão impetrou Habeas Corpus junto ao Tribunal de Justiça de São Paulo, onde foi indeferido in limine pela 6ª Câmara de Direito Criminal do Tribunal de Jus3ça de São Paulo (fl. 5).
+Argumenta, então, que o artigo 83 do Código Penal não reclama a necessidade de o penitente permanecer por certo período no regime semiaberto para então obter o livramento condicional (fl. 5).
+Requer, em liminar e no mérito, a concessão da ordem para reconhecer que o paciente cumpriu o requisito objetivo, não havendo progressão por salto, e conceder, mediante "teoria da causa madura", prevista no artigo 1.013, § 3º, do CPC a concessão do livramento condicional, ou, subsidiariamente, que o MM. Juiz analise os demais requisitos do pedido de livramento condicional, superando o entendimento temporal/progressão por salto (fl. 10).
+É o relatório.
+A insurgência merece prosperar.
+De início, observo que o pedido de concessão do livramento condicional, por esta Corte Superior, não comporta acolhimento. Isso porque a decisão do Juízo da execução não apreciou tal pedido (fls. 38/39), sendo vedada a pretendida supressão de instância.
+No entanto, como destacou a defesa do paciente, conquanto tenha sido efetuado o pedido de livramento condicional ao Juízo da execução, foi deferida apenas a progressão de regime. Frise-se, embora os documentos que instruem os autos demonstrem que houve petição postulando o benefício (fls. 26/27) e manifestação favorável do Ministério Público (fl. 37), o fato é que a decisão do Magistrado singular, de fls. 38/39, não apreciou o pedido da defesa.
+Então, no ponto, verifica-se o constrangimento ilegal na ausência de manifestação a respeito do pedido de livramento condicional, o que autoriza a concessão da ordem in limine.
+Ante o exposto, concedo liminarmente a ordem para determinar que o Juízo da execução analise o pedido de livramento condicional como entender de direito.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO INSURGINDO-SE CONTRA DECISÃO DO JUÍZO DA EXECUÇÃO, QUE, NÃO OBSTANTE O PEDIDO DE CONCESSÃO DO LIVRAMENTO CONDICIONAL, CONCEDEU A PROGRESSÃO DE REGIME AO PACIENTE. PEDIDO DE LIVRAMENTO CONDICIONAL NÃO APRECIADO PELO MAGISTRADO SINGULAR. DETERMINAÇÃO DE ANÁLISE DO BENEFÍCIO POSTULADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
