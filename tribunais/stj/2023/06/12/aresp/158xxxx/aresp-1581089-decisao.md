@@ -1,0 +1,6 @@
+DECISÃO
+Vistos.
+Observo que a discussão relativa à competência interna para julgamento das ações relativas a contrato de seguro vinculado a mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, em decorrência do risco ou impacto jurídico ou econômico ao Fundo de Compensação de Variações Salariais - FCVS, encontra-se pendente de análise pela Corte Especial deste Tribunal, nos autos dos Conflitos de Competência ns. 148.188/DF e 140.456/RS, este suscitado em Questão de Ordem aprovada pela 1ª Turma, na sessão de 07.05.2015 no Recurso Especial n. 1.509.072/RS.
+Assim, considerando que, em decorrência do conflito negativo suscitado, a 1ª Turma desta Corte, em duas oportunidades (17.12.2015 e 20.09.2016 - REsp 1.553.991/RS e AREsp 140.456/RS, respectivamente) concluiu pela suspensão do julgamento do tema, até que solucionado o mencionado incidente processual, de rigor se aguarde a definição dos mencionados conflito de competência, evitando-se, assim, posterior alegação de nulidade.
+Desse modo, DETERMINO o sobrestamento do presente feito na Coordenadoria de Feitos de Direito Público até a conclusão do julgamento dos Conflitos de Competência ns. 140.456/RS e 148.188/DF. Postergada a análise da Petição n. 01177608/2022 (fls. 320/336 e) e 00154852/2023 (fls. 342/349e).
+Publique-se e intimem-se.
