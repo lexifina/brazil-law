@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA LUCIA NOBREGA DE LIMA, LEANDRO NOBREGA DE CARVALHO, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+"DIREITO PROCESSUAL CIVIL E DEFESA DO CONSUMIDOR. APELAÇÕES SIMULTÂNEAS. COMPRA DE IMÓVEL NA PLANTA. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ENTREGA DAS CHAVES NÃO EFETIVADA DENTRO DO PRAZO CONTRATADO. CULPA EXCLUSIVA DA CONSTRUTORA. CASO FORTUITO OU FORÇA MAIOR. INOCORRÊNCIA. CLÁUSULA DE TOLERÂNCIA. LEGALIDADE. CONDENAÇÃO POR DANOS MATERIAIS. LUCROS CESSANTES. POSSIBILIDADE. ALTERAÇÃO DO TERMO AD QUEM. LIMITE AO PEDIDO EXORDIAL QUE NÃO INCLUIU AS PARCELAS VINCENDAS. IMUTABILIDADE. ATUALIZAÇÃO DA "PARCELA MÓVEL". POSSIBILIDADE. DANO MORAL. QUANTUM. R$ 10.000,00 (DEZ MIL) PARA CADA AUTOR. RAZOABILIDADE E PROPORCIONALIDADE. PRELIMINAR. REJEIÇÃO. SENTENÇA MANTIDA.
+I - São partes legítimas para figurarem no polo passivo da ação em que se pretende a revisão do contrato e a indenização por danos materiais e morais, as empresas que participaram da negociação do imóvel objeto do contrato de promessa de compra e venda ou que fazem parte do mesmo grupo econômico. PRELIMINAR REJEITADA.
+II - Não se revela abusiva a estipulação de um prazo de tolerância para a entrega do imóvel em construção, contado do término do prazo de entrega de normalidade. Contudo, o termo inicial para cômputo da indenização relativa ao atraso na entrega de imóvel é a data prevista para a conclusão e entrega deste, acrescido do prazo de tolerância de cento e oitenta (180) dias, conforme deferido na sentença.
+III - In casu, não comprovada a ocorrência de caso fortuito ou de força maior, a orientação do STJ é no sentido de que "não entregue pela vendedora o imóvel residencial na data contratualmente ajustada, o comprador faz jus ao recebimento, a título de lucros cessantes, dos aluguéis que poderia ter recebido e se viu privado pelo atraso" (AgRg no Ag 692543/RJ).
+IV - Escorreita a imposição de danos materiais, na modalidade lucros cessantes à construtora, correspondente aos alugueis que os consumidores pagaram, ante a não fruição do imóvel, ou do seu proveito econômico, durante o período da mora da promitente vendedora. Todavia, o pedido exordial não constou as parcelas vincendas, sendo vedado condenação fora dos limites do pedido, não havendo reparo a ser feito no decisum.
+V - Escorreitamente foi determinado que a correção da "parcela móvel", no importe de R$ 10.213,61 (dez mil, duzentos e treze reais e sessenta e um centavos) deve ser corrigida pelo INCC, até o mês de setembro de 2012 (incluído neste período a cláusula de tolerância), a partir de quando deverá incidir o IPCA, salvo se o INCC ou IGP-M for menor.
+VI - É indubitável o ato ilícito perpetrado e de seus efeitos na vida do comprador que adquiriu e pagou o valor exigido e não recebeu o imóvel que almejava morar, na data aprazada, configurando o dano moral indenizável, que ora se mantém.
+VII - A indenização por dano moral foi fixada no valor de R$ 10.000,00 (dez mil reais), para cada Autor, em consonância com os princípios da proporcionalidade e da razoabilidade, à luz dos precedentes deste Tribunal e do STJ, razão pela qual se preserva.
+VIII - O ônus sucumbencial foi arbitrado corretamente, sendo os honorários advocatícios de 15%(quinze por cento), fixados sobre o valor da condenação, em consonância com os termos do art. 85, 2º do Código de Processo Civil/2015, ensejando a preservação.
+IX - Fixam-se em 5% (cinco por cento) os honorários recursais, com base no 11º do art. 85 do CPC, totalizando 20%(vinte por cento) sobre o valor da condenação, a serem arcados pela Ré.
+PRELIMINAR REJEITADA. RECURSOS NÃO PROVIDOS" (fls. 571-572 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 615-623 e-STJ).
+No seu arrazoado (fls. 626-636 e-STJ), os recorrentes alegam a violação dos artigos 323 do Código de Processo Civil e 186 do Código Civil.
+Afirmam que os danos materiais não foram computados corretamente, visto que o período de 8 (oito) meses posterior à expedição do Habite-se ficaram de fora do cálculo.
+Alegam que indicaram na petição inicial a pretensão ao recebimento de parcelas vencidas e vincendas.
+Contrarrazões juntadas às fls. 712-717 (e-STJ).
+O recurso especial foi admitido pela decisão de fls. 737-740 (e-STJ).
+É o relatório.
+DECIDO.
+Os pressupostos para conhecimento do recurso especial encontram-se presentes.
+A insurgência não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia acerca dos alugueis com base nos seguintes fundamentos:
+"(..)
+Contudo, os Apelantes/Autores pretendem a condenação da Ré ao ressarcimento das despesas referentes ao pagamento de aluguéis durante todo o período de atraso da obra até a entrega do bem, mas dispensaram os valores, quando não constaram no pedido a indenização equivalente às parcelas vincendas e, ainda, delimitaram o valor a ser recebido.
+Ademais, os Autores anexaram aos autos contrato de locação (fls.61/64), declaração de recebimento de aluguéis e comprovantes de sua transferência (106/116, 361/373 e 387/388), sendo, portanto, vedada a condenação em valor superior ao pedido, sob pena de julgamento ultra petita.
+Assim, coaduno com o entendimento sentencial de que os Autores devem ser ressarcidos do pagamento de aluguéis desde outubro de 2012 (mês seguinte ao término do prazo para a entrega da obra), limitado, todavia, ao importe de R$ 30.486,00 (trinta mil, quatrocentos e oitenta e seis reais)" (fl. 588 e-STJ).
+Verifica-se, ainda, que remanesceu íntegro um dos fundamentos adotados pela Corte de origem, qual seja, de que os autores delimitaram os valores que pretendiam receber a título de danos materiais, atraindo a incidência da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, rever o entendimento firmado pelas instâncias ordinárias demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS INDICADOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECISÃO ULTRA PETITA. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. COMPROVAÇÃO DO DIREITO. IMPOSSIBILIDADE DE ANÁLISE DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A análise das razões apresentadas pela recorrente - quanto à ocorrência de decisão ultra petita - demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que o recorrido cumpriu com o ônus de comprovar o fato constitutivo de seu direito. Sem reexame de provas, não é possível alterar o entendimento de que o ora agravado demonstrou a existência de dano material. Da mesma forma, a apreciação de eventual equívoco no laudo pericial implicaria análise do conjunto probatório dos autos, inviável em recurso especial (Súmula n. 7 do STJ).
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.680.531/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022 - grifou-se).
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da co ndenação, não cabendo a majoração estabelecida no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
