@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por aplicação da Súmula n. 7/STJ (e-STJ fls. 519/520).
+O acórdão recorrido está assim ementado (e-STJ fl. 315):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DECISÃO QUE DETERMINOU O SOBRESTAMENTO DO FEITO ATÉ JULGAMENTO DE AÇÃO CIVIL PÚBLICA ENVOLVENDO A LIDE. DEMANDA JULGADA E TRANSITADA EM JULGADO. INSUBSISTÊNCIA DOS FUNDAMENTOS. MANUTENÇÃO DA SUSPENSÃO POR OUTROS FUNDAMENTO. ACORDO FIRMADO NA AÇÃO COLETIVA. PRAZO ESTABELECIDO PARA COMPENSAÇÃO FINANCEIRA, INCLUSIVE REPARAÇÃO MORAL, QUE AINDA NÃO SE ESGOTOU. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 325/335), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes apontaram ofensa aos arts. 337, §§ 1º, 2º e 3º, do CPC/2015 e 81 e 104 do CDC. Sustentaram também a inaplicabilidade do Tema n. 675/STF ao caso. Alegaram que não há falar em sobrestamento da ação, especialmente em razão de sua discordância, haja vista que a suspensão depende de pedido expresso. Destacaram que a existência de ação coletiva não induz a imediata suspensão das ações individuais nem a ocorrência de litispendência. Aduziram que o prosseguimento das ações individuais não causará nenhum prejuízo.
+Contrarrazões às fls. 477/489 (e-STJ).
+No agravo (e-STJ fls. 522/525), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 530/534).
+É o relatório.
+Decido.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 319/322):
+15 Com efeito, filiei-me ao entendimento do Supremo Tribunal Federal, consolidado no tema 675, no qual o referido Tribunal entende que, ajuizada ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva, e assim procedi ao sobrestamento de alguns recursos envolvendo a demanda.
+16 Não obstante isso, constato que o fundamento que até então empregado não mais subsiste, pois, ao exame daqueles autos, verifiquei estar homologado o acordo extrajudicial nos autos da referida ação, extinguindo-a sem resolução do mérito por sentença proferida em 06/01/2021, a qual, inclusive, já transitou em julgado, em 23/02/2021, conforme se pode verificar no PJE 2 .
+17 Assim, certo de que o evento condicionante, anteriormente motivador do sobrestamento, já se realizou, entendi razoável que o feito voltasse a sua regular tramitação, e assim determinei em sede liminar.
+18 Em que pese o referido raciocínio até então empregado, em atenção ao princípio da colegialidade, e considerando que em sessão especializada cível realizada em 07/02/22, restou decidido pela manutenção do sobrestamento das ações envolvendo essa temática, concluo o presente pela manutenção da decisão impugnada, ainda que por fundamento diverso. Explico.
+19 Na ação de origem os Autores/Recorrentes objetivam a condenação da Demandada à reparação moral, estando prevista compensações dessa natureza no termo de acordo (fls. 743/756 - dos autos de origem) cuja Cláusula 13 restou assim redigida:
+CLÁUSULA 13ª. Observadas as cláusulas do Capítulo X deste TERMO sobre a existência, por ora, de responsabilidade da BRASKEM e não reconhecimento de responsabilidade por parte dela, para viabilizar a desocupação prevista no presente TERMO, a BRASKEM compromete-se pagar valores equivalentes aos danos morais e materiais dos proprietários e moradores dos imóveis desocupados nas ÁREAS DE RISCO; (ii) dos indivíduos que exerciam atividade econômica nas ÁREAS DE RISCO ("BENEFICIÁRIOS"), conforme acordos individuais entre os BENEFICIÁRIOS e a BRASKEM, que serão homologados pelo Juízo da 3ª Vara Federal da Seção Judiciária de Alagoas, nos mesmos critérios adotados no Programa de Compensação Financeira e Apoio à Realocação da população situada na ÁREA DE RESGUARDO.  ..
+20 Apesar disso, restou firmado no segundo termo aditivo do acordo (fls.770/776 do processo do primeiro grau) que as ações para cumprimento do plano de compensação financeira deveriam ser concluída até dezembro de 2022.
+21 Eis o teor da Cláusula 5.:
+CLÁUSULA 5. As Partes concordam em alterar a redação do caput da CLÁUSULA SEGUNDA do TERMO DE ACORDO, a qual passará a ter a disposição a seguir.
+"CLÁUSULA SEGUNDA. O presente TERMO DE ACORDO tem como objetivo a regulamentação de ações cooperativas para a desocupação das áreas do Mapa de Linhas de Ações Prioritárias Versão 4, com estimativa de que as ações sejam concluídas até dezembro de 2022, devendo a priorização dessas ações ser definida pelos signatários deste TERMO DE ACORDO com base em critérios de risco."
+22 Assim, diante desse contexto, mostra-se cauteloso que as ações individuais, como no caso a demanda originária, permaneçam sobrestadas, objetivando, sobretudo, o cumprimento do prazo acima referido.
+ ..
+24 Ante o exposto, CONHEÇO o presente recurso para, no mérito, NEGAR- LHE PROVIMENTO, mantendo a decisão que determinou o sobrestamento do feito, com vistas a propiciar o cumprimento do calendário acordado entre a Braskem, Ministério Público Federal e Estadual, além da Defensoria Pública Federal e Estadual no âmbito da Justiça Federal de Alagoas.
+Os artigos de lei apontados como violados não foram objeto de exame pela Corte local que entendeu pelo sobrestamento da ação a fim de "propiciar o cumprimento do calendário acordado entre a Braskem, Ministério Público Federal e Estadual, além da Defensoria Pública Federal e Estadual no âmbito da Justiça Federal de Alagoas" (e-STJ fl. 322).
+De outro lado, as razões do especial não rebatem os fundamentos do acórdão recorrido.
+Com efeito, a deficiência na fundamentação do recurso, que apresenta argumentos dissociados do que foi decidido pelo acórdão recorrido, deixando de impugnar os fundamentos adotados pelo Tribunal de origem, obsta o conhecimento do recurso especial.
+Aplicáveis as Súmulas n. 282, 283 e 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
