@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em recurso ordinário em habeas corpus interposto em favor de MADSON GERALDO ARCANJO contra decisão de minha lavra em que neguei provimento ao recurso em decisum assim relatado:
+Trata-se de recurso em habeas corpus com pedido liminar interposto por MADSON GERALDO ARCANJO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.18.136751-7/000).
+Depreende-se dos autos que o recorrente responde à ação penal com diversos réus. Em razão de o corréu Philipe Lima Moreira estar foragido, o Desembargador relator do Tribunal de origem concedeu liminar tão somente em favor do réu foragido, no habeas corpus impetrado pela sua defesa, para suspender a audiência de instrução.
+Como consequência, a Magistrada processante desmembrou o feito em relação ao réu foragido e manteve a audiência em relação aos demais réus.
+Impetrado prévio writ na origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fl. 285):
+PECULATO E CRIMES DAS LEIS DE LICITAÇÕES E CONTRATOS E DE ORGANIZAÇÃO CRIMINOSA - SUSPENSÃO DA AÇÃO PENAL ATÉ O JULGAMENTO DO MÉRITO DESTA IMPETRAÇÃO - IMPOSSIBILIDADE -ALEGAÇÃO SUPERADA - DECLARAÇÃO DE NULIDADE DO DESMEMBRAMENTO DO FEITO E DO INTERROGATÓRIO DO ACUSADO - DESCABIMENTO - IMPROPRIEDADE DA VIA ELEITA - NÃO COMPARECIMENTO DOS CAUSÍDICOS EM AUDIÊNCIA - AUSÊNCIA DE PREJUÍZO OU DE CARACTERIZAÇÃO DE CERCEAMENTO DE DEFESA - NOMEAÇÃO DE DEFENSOR D ATIVO PARA ACOMPANHAMENTO DO ATO PROCESSUAL - ORDEM DENEGADA. 1- Mantidos os atos praticados e realizados na audiência da qual se pretende anular, é de se manter, no mérito, o indeferimento da liminar pretendida na inicial. 2- Em relação aos pleitos de nulidade do desmembramento do feito e do interrogatório do acusado. reiteradamente entendo inviável o exame de tais teses processuais em sede de Habeas Corpus, principalmente diante da necessidade de uma análise mais rigorosa dos elementos fático-probatórios. salvo quando transcorrida incontestável nulidade dos atos processuais. 3- Como os defensores foram intimados acerca da audiência de continuação a tempo e modo também não há que se falar em cerceamento de defesa ou em prejuízo, eis que nomeado defensor dativo para exercer a defesa técnica do paciente.
+V. V. - Determinado, em liminar por este Tribunal o sobrestamento do trâmite do processo de origem, constitui constrangimento ilegal a decisão que suspende o feito apenas em relação a um dos acusados e determina prosseguimento em relação aos corréus.
+- Constitui patente cerceamento de defesa a decisão que, desobedecendo comando de sobrestamento do trâmite do processo, determina, na véspera, a manutenção da audiência, nomeando defensores dativos aos acusados sem seus advogados que comprovadamente não puderam comparecer ao ato processual.
+- Ampla defesa em processo penal não constitui apenas estar acompanhado de um advogado, no sentido formal, mas estar acompanhado de defesa que escolheu (em sendo regular - como no caso, o é - o patrocínio), com as estratégias defensivas por ela elaboradas. Caso contrário, trata-se de esvaziar o conteúdo garantista da norma constitucional, o que é vedado.
+Alega o recorrente que "a decisão que determinou o desmembramento do processo e designou o interrogatório para o dia 28/11 é manifestamente nula" (e-STJ fl. 3).
+Aponta que, "determinada a suspensão do andamento do processo, já não era mais possível a prática de qualquer ato processual, em razão da ausência de jurisdição por parte da Autoridade Coatora" (e-STJ fl. 3).
+Aduz que, "dessa forma, desprezando-se a decisão liminar desse eg. Tribunal, realizou-se no dia de ontem, 28/11, o interrogatório do paciente Madson sem a presença dos seus advogados constituídos, tendo sido nomeado advogado ad hoc para esse importantíssimo ato processual. O prejuízo para o paciente é evidente e concreto, pois, em razão da ausência de seus advogados, preferiu o silêncio a ter de responder questões que poderia explicar. E nem se diga o quão robusta é a nulidade, ante a sua evidência, pois o ato de interrogatório é o principal da defesa. Ademais, segundo se vê, até mesmo a oportunidade de requerer diligências eventuais em face da instrução (art. 402, CPP), foi suprimida da defesa" (e-STJ fls. 3/4).
+Acrescenta que "a aparente ilegal decisão que determinou o desmembramento do processo e designou o interrogatório do Paciente para o dia 28/11 foi publicada no DJe do dia 28/11 (DOC. 4). Ou seja, não houve intervalo razoável entre o chamamento ao processo e a realização do ato processual, que se deu no mesmo dia, em claro e manifesto cerceamento de defesa" (e-STJ fl. 4).
+Requer, diante disso, seja concedida a liminar, a fim de suspender a ação penal; e, no mérito, seja declarado nulo o desmembramento do processo e do interrogatório.
+A liminar foi indeferida (e-STJ fls. 338/341).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 389/393).
+É o relatório.
+No presente agravo, repisa a parte as alegações de cerceamento de defesa pela realização de interrogatório do réu sem a presença dos patronos constituídos.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. PECULATO. CRIMES DA LEI DE LICITAÇÕES E CONTRATOS. ORGANIZAÇÃO CRIMINOSA. NULIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ADVOGADOS DEVIDAMENTE INTIMADOS PARA INTERROGATÓRIO. NOMEAÇÃO DE DEFENSOR DATIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática pelo relator, notadamente pela possibilidade de submissão da controvérsia ao colegiado, por meio da interposição de agravo regimental.
+2. Havendo, em ata, intimação prévia dos advogados do réu, o seu não comparecimento em audiência posterior importa na nomeação de defensores dativos para o ato, da mesma forma que procedeu o Magistrado singular no feito, o que afasta qualquer alegação de nulidade.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+Preliminarmente, cumpre relembrar que não constitui ofensa ao princípio da colegialidade a análise monocrática pelo relator, notadamente pela possibilidade de submissão da controvérsia ao colegiado, por meio da interposição de agravo regimental.
+Logo, estando o acórdão hostilizado em consonância com a jurisprudência desta Corte, nega-se provimento ao recurso especial monocraticamente, conforme expressa disposição da Súmula n. 568/STJ, cujo teor passo a colacionar:
+O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(Súmula n. 568, Corte Especial, julgado em 16/3/2016, DJe de 17/3/2016.)
+Quanto à alegação de cerceamento de defesa, melhor sorte não assiste ao agravante.
+Isso, porque, conforme informado pelo Juízo singular, " n o dia 28 de novembro de 2018, os advogados de todos os réus, salvo o Dr. Hemerson Menezes Camilo, embora intimados no dia 21 de novembro de 2018, em ata, não compareceram à audiência de continuação, tendo sido nomeados advogados dativos para o ato e colhidos os interrogatórios dos réus Madson Geraldo Arcanjo, Maria Aparecida Ferreira da Silva e Silva e Luiz Fernando Hosken Fonseca, com o encerramento da instrução processual e abertura de vista para alegações finais" (e-STJ fls. 357/358, grifei).
+Ora, havendo intimação em ata dos advogados do réu, o seu não comparecimento em audiência posterior importa na nomeação de defensores dativos para o ato, da mesma forma que procedeu o Magistrado singular no feito, o que afasta qualquer alegação de nulidade.
+No mesm o sentido:
+RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. INÉRCIA DA DEFESA. FALTA DE INTIMAÇÃO DO RÉU PARA CONSTITUIR NOVO ADVOGADO. NULIDADE. NÃO OCORRÊNCIA. INTIMAÇÃO DOS RÉUS NO ENDEREÇO CONSTANTE DOS AUTOS. REVELIA DECRETADA. NECESSIDADE DE INDICAÇÃO DE PREJUÍZO CONCRETO. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. DESCUMPRIMENTO DAS MEDIDAS CAUTELARES IMPOSTAS. RECURSO NÃO PROVIDO.
+1. Consoante entendimento jurisprudencial desta Corte Superior, constatada a inércia do advogado constituído, o réu deve ser intimado para indicar novo patrono de sua confiança, antes de proceder-se à nomeação da Defensoria Pública ou de defensor dativo para o exercício do contraditório.
+2. Contudo, a prática de ato processual em desconformidade com tal orientação deve ser analisada à luz das peculiaridades de cada processo e das normas que norteiam o sistema de nulidades, cabendo ao julgador verificar a conveniência de retirar-lhe a eficácia.
+3. Na hipótese, conforme bem destacado pelo Tribunal de origem, os recorrentes responderam soltos ao processo e "ficaram intimados, juntamente com o seu advogado constituído, em audiência realizada na data de 17.11.2015, para o prosseguimento da instrução, designada para o dia 10.03.2016. Contudo, não compareceram e nem apresentaram qualquer justificativa para as suas ausências".
+4. Nesse cenário, não se justifica a anulação do processo, desde o início da instrução, ante a falta de intimação dos réus para exercer seu direito de escolher novo defensor, antes da nomeação da Defensoria Pública, mormente porque foram reconhecidos como revéis.
+5. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+6. Diante das circunstâncias narradas, é válida a decretação da custódia provisória, que foi determinada em razão do descumprimento de cautelares anteriormente impostas, dado suficiente, nos termos da jurisprudência desta Corte Superior, para lastrear a aplicação da medida mais gravosa.
+7. Recurso não provido.
+(RHC n. 135.700/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+No mesmo sentido o parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fl. 392):
+Fica claro que apesar de a defesa alegar cerceamento de defesa por ausência dos defensores constituídos, não há que se falar em nulidade do ato. Isso porque os advogados do réu foram devidamente intimados, não compareceram à audiência de instrução e assim foi nomeado defensor dativo para acompanhar o ato processual. Não se verifica prejuízo ao réu, pois a defesa técnica foi exercida por defensor dativo.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
