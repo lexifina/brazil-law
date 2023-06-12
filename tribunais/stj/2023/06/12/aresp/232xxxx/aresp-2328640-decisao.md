@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por JOSÉ IZAIAS FELIPE DE OLIVEIRA, contra decisão que não admitiu recurso especial (fls. 80/83 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 49, e-STJ):
+AÇÃO RESCISÓRIA. DESCONSTITUIÇÃO DA COISA JULGADA MATERIAL, COM FUNDAMENTO NO ART. 966, INC. V, DO CPC. AÇÃO INDENIZATÓRIA NA QUAL FOI RECONHECIDA A PRESCRIÇÃO.
+1. A irresignação do autor encerra, na realidade, sua pretensão de reexame, em sede de ação rescisória, da justiça do decisum, o que é vedado pelo ordenamento jurídico.
+2. A violação de lei que autoriza a rescisória e conduz à procedência do pedido nela deduzido é somente aquela tida como aberrante, flagrante, direta, manifesta e patente, sendo certo que não se enquadram nessas hipóteses as decisões proferidas com base em interpretação divergente da adotada pelas correntes doutrinárias e jurisprudenciais majoritárias, ou mesmo as embasadas em fatos do caso concreto posto em juízo, mesmo incorretas ou injustas, sob pena de transfigurarem a rescisória em nova fase recursal.
+3. Preservação da segurança jurídica advinda da coisa julgada material. IMPROCEDÊNCIA QUE SE IMPÕE.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 206, § 3º, V, 205 do CC. Sustenta, em síntese, que o acórdão rescindendo partiu da falsa premissa ao considerar que o caso se adequa à regra da prescrição trienal, quando na verdade se submete ao prazo prescricional decenal.
+Sem contrarrazões, o apelo não foi admitido na origem (fls. 80/83, e-STJ), dando ensejo ao agravo (fls. 88/96, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local consignou (fl. 55, e-STJ):
+Importa salientar que a alegação foi devidamente rechaçada1 e o demandante sequer interpôs o competente recurso. Portanto, não está evidenciada a suposta violação manifesta à norma jurídica (CPC/2015, art. 966, V), sendo certo que a presente demanda revela o mero inconformismo no tocante ao decisum e deve ser julgada improcedente, sob pena de transfigurar a rescisória em nova fase recursal.
+Nesse sentido, como esse fundamento (ausência de violação à norma jurídica) é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+Com efeito, da leitura das razões de recurso especial, extrai-se que o agravante não suscitou sequer a violação ao disposto no art. 966, V, do CPC, medida necessária, por se tratar de ação rescisória na origem.
+Ainda que assim não fosse, "a ação rescisória, ajuizada com base no art. 485, V, do CPC/1973 ("violar literal disposição de lei"), somente se revela viável quando o desrespeito à lei for flagrante, ou seja, quando o acórdão rescindendo conferir interpretação manifestamente contrária ao seu conteúdo, não sendo admitida a sua utilização como sucedâneo recursal" (AR n. 5.691/DF, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 6/11/2018), como no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JUSTIÇA GRATUITA. DEFERIMENTO TÁCITO. VIOLAÇÃO LITERAL DE DISPOSIÇÃO DE LEI. ERRO DE FATO. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO. DISTRIBUIÇÃO. ÔNUS PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo a jurisprudência desta Corte Superior, "a ação rescisória, ajuizada com base no art. 485, V, do CPC/1973 ("violar literal disposição de lei"), somente se revela viável quando o desrespeito à lei for flagrante, ou seja, quando o acórdão rescindendo conferir interpretação manifestamente contrária ao seu conteúdo, não sendo admitida a sua utilização como sucedâneo recursal" (AR n. 5.691/DF, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 6/11/2018).
+3. E ainda, a "jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a alegação de violação literal a dispositivo de lei deve ser "direta, evidente, que ressai da análise do aresto rescindendo" e "se, ao contrário, o acórdão rescindendo elege uma dentre as interpretações cabíveis, ainda que não seja a melhor, a ação rescisória não merece vingar, sob pena de tornar-se um mero "recurso" com prazo de "interposição" de dois anos"" (AgInt no REsp n. 1.960.713/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/3/2022).
+4. "Nos termos da jurisprudência desta Corte, não configura julgamento ultra/extra petita quando o Tribunal local decide questão que é reflexo do pedido na exordial, pois o pleito inicial deve ser interpretado em consonância com a pretensão deduzida como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento ultra ou extra petita" (AgInt no AREsp n. 1.428.896/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/05/2019, DJe 03/06/2019).
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+6. No caso concreto, a reforma do acórdão recorrido, quanto à distribuição do ônus probatório e à ausência de presunção de má-fé, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.238.929/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+Assim, inexistindo violação direta e evidente à norma jurídica, a conclusão do acórdão recorrido deve ser mantida, atraindo, outrossim, o óbice do verbete sumular 83/STJ.
+2 . Do exposto, com fundamento no art. 932 do NCP C c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Sem honorários advocatícios recursais, pois não foram fixados na origem.
+Publique-se. Intimem-se.
