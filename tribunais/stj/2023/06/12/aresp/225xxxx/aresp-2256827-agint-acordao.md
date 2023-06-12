@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo ESTADO DO MARANHÃO contra decisão de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula 284/STF (fls. 300/301).
+A parte agravante alega que foi demonstrada, nas razões do recurso especial, a violação dos arts. 489 e 1.022 do CPC/2015, devendo ser afastado o óbice da Súmula 284/STF.
+ Requer,  ao  final,  a reconsideração do decisum agravado ou a submissão do feito à Turma julgadora.
+Não houve  impugnação  ao  recurso  (fl.  317).
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA RECURSAL. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022, II, do CPC, visto que o Tribunal de origem apreciou devidamente a matéria em debate de forma clara e adequada, não se podendo, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O STJ tem o firme posicionamento de que, se a parte recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Não prospera a alegada violação dos arts. 489 e 1.022 do CPC ao argumento de que o Tribunal de origem não se manifestou quanto às questões postas nos embargos de declaração, uma vez que deixou de se pronunciar expressamente sobre a aplicação do IAC 18193/2018. Isso porque o Tribunal de origem apreciou devidamente a matéria em debate de forma clara e adequada. Na verdade, a questão não foi decidida como objetivava a parte agravante, uma vez que foi aplicado entendimento diverso.
+É cediço, no STJ, que o órgão julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que, no presente caso, de fato ocorreu.
+A Corte a quo consignou expressamente que:
+Contra referida decisão monocrática - repito: que não conheceu do Agravo de Instrumento interposto - insurge-se agora o Estado do Maranhão, para o que aduz que não foi conferido efeito suspensivo ao agravo de instrumento e que este teria sido omisso quanto à aplicação da tese fixada no IAC nº18193/2018, bem assim que "não pode subsistir a decisão que simplesmente afirma que o título seria exigível, mas sem adentrar nas razões levantadas pelo agravante" com relação à intitulada coisa julgada inconstitucional. Ao final, pede, como provimento recursal, que se reconheça a inexigibilidade do título exequendo, nos termos do art. 535, §5º, CPC", e, subsidiariamente, "a remessa dos autos à Contadoria Judicial para apuração do valor devido conforme a delimitação temporal".
+Ora, aqui, como antes, quando da interposição do Agravo de Instrumento não conhecido, o Estado do Maranhão tenta reformar a decisão que lhe foi desfavorável sem impugnar "especificadamente os fundamentos da decisão agravada", em indubitável afronta aos arts. 1.021, CPC, e 641, RITJMA, acima transcritos.
+Em verdade, mais do que deixar de impugnar especificadamente os fundamentos da decisão recorrida, o agravante submete à análise desta Corte matéria totalmente alheia e desvinculada do conflito de interesses em discussão.
+O Agravo de Instrumento não foi conhecido. E, não tendo sido conhecido: i) a ele não poderia ter sido "conferido efeito suspensivo"; ii) a decisão não pode ter sido omissa quanto à aplicação de tese fixada em IAC; iii) nem, menos ainda, acatado a coisa julgada inconstitucional.
+O agravo interno reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos da decisão agravada, consoante expressa previsão contida nos arts. 1.021, CPC, e 641, RITJMA, ônus do qual não se desincumbiu o agravante, de modo que outra solução não resta senão inadmitir o presente recurso, na forma da mais remansosa jurisprudência (fl. 174).
+Logo, em virtude da não ocorrência de negativa de prestação jurisdicional no julgado, não se verifica afronta às normas ora invocadas.
+Com relação à aplicação da Súmula 284 do STF, tal como dito na decisão agravada, as razões recursais delineadas no recurso especial estão dissociadas dos fundamentos utilizados no acórdão recorrido, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos.
+O STJ tem o firme posicionamento de que, se a parte recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RAZÕES DISSOCIADAS DO FUNDAMENTO DA DECISÃO RECORRIDA DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A apresentação de razões recursais dissociadas da fundamentação adotada na decisão agravada configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Aplicação das Súmulas 283 e 284 do STF, por analogia.
+3. Agravo interno não conhecido. (AgInt no AREsp 1.911.163/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2022.)
+Ante  o  exposto,  nego  provimento  ao  agravo  interno  .
+ É  o  voto.
