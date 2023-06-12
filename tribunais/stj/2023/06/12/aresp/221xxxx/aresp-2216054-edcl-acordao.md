@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuidam-se de embargos de declaração no agravo interno no agravo em recurso especial, opostos por JONATHAS DE SOUZA BRAGA, contra acórdão que negou provimento ao agravo interno que interpusera, e que foi assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO APÓS INTIMAÇÃO. DESERÇÃO.
+1. Ação de cobrança, fundada na prestação de serviços advocatícios.
+2. Os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção. Precedentes.
+3. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015. Precedentes.
+4. O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal. Precedentes.
+5. Agravo interno no agravo em recuso especial não provido. (e-STJ Fl. 1.438)
+No presente recurso, aponta o embargante possível equívoco do aresto embargado, sob o fundamento de que o pedido de gratuidade de justiça formulado no agravo interno não foi devidamente analisado. Alega que, "em relação à deserção, cumpre reiterar que foram pagas em dobro no prazo determinado (Id. 35718994), conforme o teor do comprovante de pagamento incluso ao Id. 36159944, e guia de recolhimento que possui o mesmo número do código de barras (Id. 37017066)." (e-STJ Fl. 1.453)
+É o breve relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGARVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
+VOTO
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+No que tange ao pedido de gratuidade de justiça formulado no agravo interno, esta Corte não se manifestou acerca do pedido em virtude de ser despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual, pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte recorrente das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. CIVIL. EMBARGOS DE TERCEIRO. IMÓVEL. CONFUSÃO PATRIMONIAL. CONDOMÍNIO HORIZONTAL. BENFEITORIAS. DESCONTO. IMPROCEDÊNCIA DOS PEDIDOS. JUSTIÇA GRATUITA. INDEFERIMENTO. RECURSO ESPECIAL. DESERÇÃO. APLICAÇÃO DA SÚMULA N. 187 DO STJ.
+I - Na origem, trata-se de embargos de terceiros opostos contra a Associação de Moradores do Condomínio Ville de Montaigne e Companhia Imobiliária de Brasília - Terracap objetivando questionar a confusão patrimonial gerada na Fazenda Taboquinha pelo fato de a Terracap colocar o condomínio embargado em sua totalidade como sua propriedade, para efeito de regularização, sem, contudo, provar seu domínio e individualizar os valores referentes às benfeitorias indenizáveis.
+II - Na sentença, julgaram-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+IV - O recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+V - Considerando a revogação do benefício da gratuidade, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não o regularizou, deixando o prazo transcorrer in albis.
+VI - É despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte recorrente das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt no AREsp 1.619.350/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1.820.544/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/3/2020; e AgInt no AREsp 1.215.154/RJ, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 24/10/2019.) VII - Agravo interno improvido.
+(AgInt no AREsp n. 2.089.357/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Em que pese alegue o embargante que, "em relação à deserção, cumpre reiterar que foram pagas em dobro no prazo determinado (Id. 35718994), conforme o teor do comprovante de pagamento incluso ao Id. 36159944, e guia de recolhimento que possui o mesmo número do código de barras (Id. 37017066) " (e-STJ Fl. 1.453), verifica-se que o recurso especial não foi devidamente instruído com as guias do recolhimento do preparo.
+Embora intimada para a regularização do vício, a parte não efetuou o recolhimento em dobro das custas, não cumprindo com o que determina o § 4º do art. 1.007 do CPC/2015, sofrendo, pois, a pena da deserção (Súmula 187/STJ).
+É pacífica a jurisprudência do STJ é no sentido de que os recursos especiais devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível. A juntada apenas do comprovante de pagamento das custas, sem a respectiva guia de recolhimento, configura ausência de regular comprovação do preparo.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que o embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+DISPOSITIVO
+Forte em tais razões, REJEITO os embargos de declaração.
