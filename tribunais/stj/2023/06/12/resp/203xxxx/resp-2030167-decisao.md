@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAMAO JUCILEI FERREIRA DE MORAES, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"EMENTA - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE VALIDADE DE NEGÓCIO JURÍDICO C/C ADJUDICAÇÃO COMPULSÓRIA - DECADÊNCIA - NEGÓCIO NULO - NÃO SUJEITO A PRESCRIÇÃO E DECADÊNCIA - COMPRA E VENDA DE IMÓVEL SEM OUTORGA UXÓRIA - VENDEDOR CASADO SOB O REGIME DA COMUNHÃO PARCIAL DE BENS - NULIDADE DA AVENÇA POR AUSÊNCIA DE REQUISITO ESSENCIAL DE EXISTÊNCIA - INDENIZAÇÃO POR BENFEITORIAS - NÃO INDICADAS E PROVADAS - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+O negócio jurídico que padece de nulidade absoluta não é suscetível de confirmação, tampouco se convalesce pelo decurso do tempo, nos termos do art. 169, do CC, razão pela qual não há falar em decadência ou prescrição para a respectiva ação declaratória de nulidade.
+A ausência de consentimento de um consorte em contrato de compra e venda de bem imóvel celebrado pelo outro torna o negócio jurídico nulo. Inexistindo comprovação da realização de benfeitorias, não há que se cogitar na pretendida restituição de valores" (fls. 214/226 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 243/255 e-STJ).
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação dos seguintes artigos:
+a) 489, § 1º, IV, e 373, I, do Código de Processo Civil, argumentando que as provas apresentadas nos autos demonstravam a ciência da recorrida sobre a venda do imóvel e que o tribunal de origem valorou inadequadamente as provas apresentadas ao manter a sentença que ensejou a apelação; e
+b) 1.571, I, 1.647 e 1.649 do Código Civil, sob o argumento de que a ausência de outorga uxória não nulifica a venda do imóvel, mas torna a venda anulável até dois anos depois do término da sociedade conjugal, sendo que a recorrida, porém, requereu a anulação da venda cinco anos após a morte de seu cônjuge.
+Requer que seja reconhecida a validade da compra de seu imóvel, e a adjudicação compulsória do mesmo.
+O recurso especial foi admitido pela decisão de fls. (e-STJ).
+É o relatório.
+DECIDO.
+Não assiste razão ao recorrente.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Nesse contexto, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa ao art. 489 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal de origem, o qual afirmou expressamente que a perícia não constatou a invalidez total do autor, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. O Tribunal local, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção de prova oral. O acolhimento da pretensão recursal demandaria revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2.1. Não há como aferir eventual ofensa ao art. 373 do CPC/ 15 sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame. (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+3. A ausência de debate, pelo Tribunal de origem, acerca do conteúdo normativo dos arts. 6º do CDC, 341 do CPC/15 e 760 do Código Civil impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+3.1. Consoante entendimento firmado nesta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 489 do CPC/15, uma vez que, no caso em tela, a alegada negativa de prestação jurisdicional refere-se a tese distinta daquela reputada não prequestionada. Precedentes.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.185.389/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023 - grifou-se).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESBULHO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE ANTERIOR. PEDIDO DE NOVA PERÍCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. O julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Alterar a conclusão do acórdão do tribunal a quo acerca da análise das provas e da necessidade de nova perícia demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.099.855/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022).
+No que se refere à ofensa ao art. 1.649, do CC, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, carecendo, ainda, do devido cotejo analítico. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF.
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ademais, o acórdão recorrido adotou a seguinte fundamentação sobre a existência de nulidade n a venda do imóvel:
+"A outorga conjugal, classificada em outorga uxória e marital, tem previsão legal no artigo 1.647, do Código Civil e estabelece, entre outros casos, que, ressalvado o disposto no art. 1.648, nenhum dos cônjuges pode, sem autorização do outro, exceto no regime da separação absoluta, alienar ou gravar de ônus real os bens imóveis.
+Seus efeitos são nulos, salvo aqueles excepcionalmente apontados pela doutrina e jurisprudência, inaplicáveis ao caso versando. Consoante artigo 166, incisos IV e V, do Código Civil, que elenca as hipóteses de nulidade, considerar-se-á nulo o ato quando não revestir a forma prescrita em lei ou quando for preterida alguma solenidade que a lei considere essencial para a sua validade" (fl. 220 e-STJ).
+A conclusão sobre a nulidade do ato com base nas regras gerais do artigo 166, incisos IV e V, do Código Civil não foi objetivamente impug nada, atraindo a incidência da Súmula nº 283/STF.
+Ante o exposto, conheço em parte do recurso especial e, nesta parte, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
