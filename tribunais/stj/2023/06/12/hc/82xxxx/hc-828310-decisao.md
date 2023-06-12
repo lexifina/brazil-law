@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CRISTINA APARECIDA GUIMARAES COUTO e DANILO DA SILVA MIRANDA, contra acórdão profe rido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2101247-87.2023.8.26.0000).
+Narram os autos que os pacientes foram presos em flagrante pela suposta prática do crime de furto, qualificado pelo concurso de agentes, de objetos avaliados em R$ 71,78 (uma garrafa de vinho Santa Julia e uma garrafa de cachaça Velho Barreiro).
+Na sequência, o Ministério Público promoveu o arquivamento do inquérito, considerando tratar-se de fato insignificante. Todavia, o juízo de primeiro grau determinou a remessa destes autos à Procuradoria Geral de Justiça do Ministério Público, nos termos do artigo 28 do Código de Processo Penal.
+O Ministério Público então ofereceu denúncia, que foi recebida pelo juízo de primeiro grau. Após, a acusação ofereceu acordo de não persecução penal, que foi aceito pelos acusados e homologado.
+Inconformada com o oferecimento de acordo de não persecução penal por fato atípico, a defesa ajuizou habeas corpus na origem, o qual não foi conhecido por supressão de instância, embora a defesa tenha ajuizado o writ em face de decisão do juízo de primeiro grau.
+Assim, no HC n. 826.408/SP, concedi a ordem para que o Tribunal paulista analisasse o mérito do habeas corpus, o que foi efetuado sob a seguinte ementa:
+Habeas corpus - Furto qualificado - Pretendido o trancamento da ação penal - Alegação de insignificância do valor do bem subtraído - Descabimento - Medida excepcional, viável apenas quando constatável, de pronto, atipicidade da conduta, ausência de indício de autoria e prova da materialidade ou causa extintiva da punibilidade - Impossibilidade de reconhecimento da alegada atipicidade material, diante das circunstâncias do crime - Impossibilidade de reconhecimento do Princípio da Insignificância na hipótese de furto qualificado - Entendimentos dos C. STJ e STF - Inexistência de abuso de autoridade ou ilegalidade manifesta - Ordem denegada.
+Nesta nova impetração, a defesa alega, em síntese, a existência de constrangimento ilegal diante do não reconhecimento de incidência do princípio da insignificância no caso.
+Exalta a atipicidade do fato pela insignificância da conduta, nos termos do entendimento inicial do Ministério Público que promoveu pelo arquivamento.
+Requer, liminarmente, a suspensão do cumprimento do acordo de não persecução penal e, no mérito, "que seja trancada a persecução penal, declarando-se a ilegalidade do acordo de não persecução penal sobre fato atípico (insignificante)" (fl. 8).
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior de Justiça possui entendimento no sentido de que o trancamento da ação penal é medida excepcional somente admitida quando comprovado, de forma clara e precisa, a ausência de justa causa, em razão da atipicidade da conduta supostamente praticada pelos acusados, pela ausência de indícios de autoria ou de prova da materialidade do crime, ou, ainda, pela incidência de extinção da punibilidade.
+Na presente hipótese, destacou a Corte de origem que (fls. 291-292):
+Contudo, é possível constatar de plano, pelo exame dos autos, que foi atribuída aos Pacientes conduta, prima facie, típica, qual seja, furto de duas garrafas de bebida alcoólica, qualificado pelo concurso de agentes; que há lastro probatório mínimo de autoria e materialidade, visto que foram flagrados pelo representante da empresa vítima realizando as subtrações e, após, pelos policiais militares, nas imediações do marcado vítima, em posse da res furtiva (fls. 07/14).
+Outrossim, não se verifica causa extintiva da punibilidade.
+Ademais, a apuração da atipicidade material da conduta e do cabimento da incidência do princípio da insignificância, enseja o exame aprofundado das circunstâncias dos fatos e pessoais do acusado, que só é possível no processo de conhecimento, incabível por meio de habeas corpus.
+Por outro lado, vale consignar que o entendimento da 5ª Turma do colendo Superior Tribunal de Justiça é no sentido de que não se admite a aplicação do "Princípio da Bagatela" quando se trata de furto qualificado, como no caso dos autos.
+(..)
+Assim, as circunstâncias recomendam aguardar o desfecho do processo, uma vez que não se verifica, de imediato, a atipicidade material da conduta - uma vez que imputado aos Pacientes a prática de furto qualificado - e, consequentemente, a falta de justa causa para a ação penal, de forma que não há que se falar em trancamento da ação penal.
+Ante o exposto, pelo meu voto, DENEGA-SE A ORDEM impetrada.
+Tal como decidiu o Tribunal estadual, o Superior Tribunal de Justiça possui o entendimento de que:
+"a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (AgRg no AgRg no AREsp n. 2.213.101/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023, grifei).
+Nesse sentido: AgRg no HC n. 795.899/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 19/4/2023; AgRg no HC n. 777.493/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 23/3/2023 e AgRg no HC n. 744.150/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 9/3/2023.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada, mesmo porque o pleito afronta a jurisprudência dominante nesta Corte a respeito do tema.
+Ante o exposto, não conheço do presente habeas corpus.
+P. I.
