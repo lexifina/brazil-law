@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por TRANSFORMADORES E SERVIÇOS DE ENERGIA DAS AMÉRICAS S.A. contra decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, com fundamento na incidência da Súmula 7/STJ (e-STJ, fls. 1.171-1174).
+A agravante defende a não aplicação do óbice da referida súmula ao recurso, alegando tratar-se de controvérsia unicamente de direito (e-STJ, fls. 1.178-1.184).
+Impugnação apresentada (e-STJ, fls. 1.190-1.191).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS. QUANTIFICAÇÃO DO QUANTUM DEBEATUR EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem decidiu, de forma fundamentada e baseando-se no arcabouço probatório que integra os autos, pela manutenção dos termos da sentença proferida no primeiro grau.
+2. É pacífico o entendimento desta Corte de que, "não estando o juiz convencido da extensão do pedido certo, pode remeter as partes à liquidação de sentença, devendo o art. 459, parágrafo único do CPC, ser aplicado em consonância com o princípio do livre convencimento (art. 131, do CPC" (AgRg no AREsp 474.912/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 05/09/2014).
+3. O acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+4. A respeito da análise sobre a suficiência de provas carreadas aos autos capazes de comprovar a existência ou não do dano material alegado, indispensável se faz a investigação do substrato fático-probatório dos autos, o que é inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada pelos próprios fundamentos.
+Na origem, trata-se de ação indenizatória ajuizada por R.P.E. EQUIPAMENTOS E SERVIÇOS LTDA., em desfavor de TRANSFORMADORES E SERVIÇOS DE ENERGIA DAS AMÉRICAS S.A. e PETRÓLEO BRASILEIRO S.A, cuja sentença de mérito julgou procedente o pedido inicial em relação à ré TRANSFORMADORES E SERVIÇOS DE ENERGIA DAS AMÉRICAS S.A., condenando-a ao pagamento de indenização pelo dano material causado à parte autora, em valor a ser apurado em sede de liquidação de sentença.
+O eg. Tribunal de origem, em sede de apelação, manteve a decisão enunciada pelo Juízo a quo, negando provimento ao recurso intentado pela parte agravante.
+A propósito, confiram-se trechos da fundamentação do acórdão recorrido (e-STJ, fls. 995-1.010):
+"Em busca da reforma da sentença, a TOSHIBA iniciou alegando que não haveria prova alguma de que serviços foram prestados  e funcionários foram contratados.
+ ..
+Ocorre que há nos autos prova documental produzida pela Autora capaz de evidenciar, minimamente, os supostos prejuízos por ela suportados (vide mov. 6.21), prova esta que foi devidamente corroborada por ao menos alguns das oitivas realizadas durante a instrução.
+Não merece guarida, portanto, a primeira alegação da TOSHIBA, no sentido da inexistência de provas do fato constitutivo do direito autoral (CPC, art. 373, I)
+ ..
+Ressalte-se: o objeto da demanda é verificar se a Autora deve ser indenizada pela execução de serviços não previstos no contrato e contratação de profissionais adicionais. Nessa medida, se a própria TOSHIBA, diante da alegada má execução dos serviços contratados, alega que teve que refazer alguns deles diante da insatisfação da cliente final (Petrobras), trata-se, novamente, de discussão alheia à questão controvertida.
+Em síntese, em que pesem os argumentos da TOSHIBA, a prova documental e oral revelou, com efeito, a efetiva prestação de serviços extras por parte da RPE.
+No tocante à contratação de profissionais extras, relembre-se que o contrato celebrado entre as partes previu, para a realização do objeto, a necessidade da seguinte mão de obra: um encarregado, um administrativo de obra e um engenheiro de obra, além de quatro montadores de andaime e vinte eletricistas (vide mov. 6.4, p. 1).
+Porém, também foram contratados um Supervisor e um Engenheiro full time (vide planilha e Lista de Alojamento de mov. 6.21, p. 6-17)  e isso em contrariedade ao contrato, que, além de prever a presença do último apenas esporadicamente, não previu a necessidade do primeiro.
+Note-se que a prova oral também ratifica a existência da prestação de serviços fora do contrato e, ainda, a contratação de profissionais adicionais (realcei):
+Antônio Hélio Bernardo, testemunha arrolada pela autora, relatou  mov. 157.2 :"que presta serviços para empresa RPE; que participou desde o início do contrato da RPE com a Toshiba; que é engenheiro, fazia avanços de obra; que faltava bastante material, que a Toshiba era a responsável pelos materiais; que a RPE entrou com prestação de serviço, eletromecânica, simplesmente montagem; Toshiba ficou responsável pelo fornecimento dosmateriais; o planejamento da obra era da Toshiba; que a RPE fazia requisição de materiais através do almoxarifado da Toshiba; com a entrega do material fazia a guarda e depois a montagem; faltava bastante consumíveis como porca, cabos, "amufra" e que faltava bastante andaimes; que os montadores da RPE montavam os andaimes e às vezes a Toshiba fazia desmontá-los para outra frente, que nem era da RPE; que a RPE executava obras de outras empresas repassados pela Toshiba; não tinha opção de não fazer; que a medição dos materiais eram relacionados com a documentação do planejamento da Toshiba, suportes, anilhas; que a empresa RPE sempre cumpriu todas as obrigações; que o avanço da obra era feito com planejamento da Toshiba, que sempre atrasava, desde a medição até pagamento final; que mesmo quando emitida a nota fiscal para a Toshiba, atrasava o pagamento; que tinham pedido apenas um encarregado para subestação, porém colocaram mais funcionários; que obra era relatada diariamente, "RDO"; que havia fiscalização da Petrobrás na obra; que não teve erro documentado da RPE; que montava andaimes para outras frentes; que RPE sofreu muitos prejuízos, que nos documentos "DE/PARA" realizou trabalho para outras empresas".
+José Martins de Souza, testemunha arrolada pela autora, relatou  mov. 112.2 : "que é supervisor de elétrica; que trabalhava para a RPE; que a Petrobrás fiscalizava a obra; que havia muita falta de material; que havia atraso de pagamento; que executava serviços fora do escopo comolançamento de cabos; que eram registrados em RDO, relatório diário de obra, que espelham a verdade da obra; que tinha uma equipe da RPE que montava andaime, que sempre faltava material, que refletia no atraso da obra; que estava na obra desde o início até o final, 6 meses; que eram entregues no almoxarifado para fazer as medições, mas faltavam materiais; a medição de material estava correta no papel, mas no físico não existia".
+ ..
+A apuração do quantum debeatur  que, naturalmente, envolverá a precisa definição da sua extensão  será objeto de liquidação de sentença.
+ ..
+Destarte, mostra-se, a meu ver, escorreita a sentença que reconhece o direito da Autora de ser indenizada não só pela prestação de serviços fora do contrato como, também, pelos custos que teve com profissionais adicionais, sob pena de indevido enriquecimento ilícito (CC, art. 884).
+Assim, voto no sentido de negar provimento à Apelação."
+Como visto, o Tribunal de origem decidiu, de forma fundamentada e baseando-se no arcabouço probatório que integra os autos, pela manutenção dos termos da sentença proferida no primeiro grau, estando nítido como se deu a construção de seu livre convencimento.
+Contudo, o apelo nobre ponderou que acórdão teria presumido o dano material sofrido pela parte autora da lide, não havendo efetiva prova de sua existência nos autos, alegando ainda que a decisão da sentença, mantida pelo aresto, de postergar a apuração do montante devido para fase de liquidação de sentença, evidenciaria a incerteza quanto à real ocorrência do dano, configurando afronta aos arts. 373, I, do CPC/2015; 186, 884 e 927 do CC/2002.
+Com relação à liquidação do montante devido, é importante ressaltar que é pacífico o entendimento desta Corte de que, "não estando o juiz convencido da extensão do pedido certo, pode remeter as partes à liquidação de sentença, devendo o art. 459, parágrafo único do CPC, ser aplicado em consonância com o princípio do livre convencimento (art. 131, do CPC" (AgRg no AREsp 474.912/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 05/09/2014).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DEMORA NO ENFRENTAMENTO DE INFECÇÃO. SÚMULA 7 DO STJ. APURAÇÃO DOS DANOS RELEGADA PARA LIQUIDAÇÃO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão acerca da responsabilidade subjetiva do médico recorrente pela demora no enfrentamento da infecção, quando constatada, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. Rever o acórdão que afastou o cerceamento de defesa implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+3. A jurisprudência desta Casa entende que, não estando o juiz convencido da extensão do pedido certo, pode remeter as partes à liquidação de sentença, devendo o art. 459, parágrafo único do CPC, ser aplicado em consonância com o princípio do livre convencimento (art. 131, do CPC/73).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.377.652/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/5/2019, DJe de 4/6/2019.)
+Assim, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+A respeito da análise sobre a suficiência de provas carreadas aos autos capazes de comprovar a existência ou não do dano material alegado, indispensável se faz a investigação do substrato fático-probatório dos autos, o que é inviável no recurso especial, a teor do disposto na Súmula 7 do STJ. Inviável, pois, a alteração do acórdão recorrido.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
