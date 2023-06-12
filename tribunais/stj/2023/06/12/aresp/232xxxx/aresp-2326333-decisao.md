@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da similitude fática entre os acórdãos recorrido e paradigma (e-STJ fls. 153/154).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 97):
+Indenização por danos morais - Nome inscrito em órgão de proteção ao crédito - Questão da ausência de prévia comunicação que foi decidida em processo outro, limitando-se esse ao pedido de indenização - Danos morais não configurados - Autor que em nenhum momento demonstrou que o débito apontado é indevido - Sentença de improcedência mantida - Apelo desprovido.
+Nas razões do recurso especial (e-STJ fls. 104/111), interposto com fundamento no art. 105, III, "c", da CF, a parte alegou divergência jurisprudencial quanto à interpretação do art. 43, § 2º, do CDC, uma vez que "a falta da comunicação prévia, por si só enseja em indenização por danos morais, não sendo necessário provar a irregularidade do débito que deu ensejo ao registro desabonador" (e-STJ fl. 110).
+No agravo (e-STJ fls. 157/163), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contram inuta.
+É o relatório.
+Decido.
+O acórdão recorrido, apesar de reconhecer a existência de prévia ação declaratória em que foi reconhecida a ilegitimidade da inscrição do nome da parte recorrente em cadastro de proteção ao crédito, por inobservância do comando legal estabelecido no art. 43, § 2º, do CDC, entendeu que não é cabível a pretendida indenização por danos morais, "pois não se demonstrou a ilegalidade das anotações,  ..  observando-se que o autor  ..  não se preocupou em demonstrar que o débito ali anotado é ilegítimo" (e-STJ fls. 98/99).
+Tal entendimento está em dissonância com a tese firmada pela Segunda Seção deste Tribunal na análise do Tema Repetitivo n. 40, segundo a qual "a ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, § 2º, do CDC, enseja o direito à compensação por danos morais".
+Por outro lado, o arbitramento de indenização a título de danos morais neste momento processual não se mostra possível, porquanto não se extrai dos fatos delineados pelo acórdão recorrido a existência ou não, em nome do agravante, de inscrições legítimas e preexistentes àquelas que compõem o objeto da presente demanda, o que afastaria a caracterização do dano extrapatrimonial alegado, conforme tese firmada pela Segunda Seção desta Corte Superior na análise do Tema Repetitivo n. 41.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial a fim de determinar o reto rno dos autos à origem para que examine, à luz da jurisprudência qualificada do STJ, a caracterização ou não dos danos morais, a partir das peculiaridades da hipótese concreta.
+Publique-se e intimem-se.
