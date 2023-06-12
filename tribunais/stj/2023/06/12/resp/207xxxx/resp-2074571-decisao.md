@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por IZAURA LENEDER SPINELI, fundamentado exclusivamente na alínea "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 23/06/2022.
+Concluso ao Gabinete em: 05/06/2023.
+Ação: declaratória de inexistência de relação jurídica cumulada com compensação de danos morais, ajuizada pela recorrente, em desfavor de BANCO DAYCOVAL S.A., em virtude de descontos indevidos em seu benefício previdenciário, decorrentes de suposto empréstimo bancário não contratado entre as partes.
+Sentença: julgou procedentes os pedidos para: i) declarar a inexistência de relação jurídica entre as partes, bem como, por consequência, inexigíveis os débitos decorrentes de tal pactuação; e ii) condenar o recorrido ao pagamento de R$ 5.000,00 (cinco mil reais) a título de danos morais.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, a fim de afastar a condenação a título de danos morais. O acórdão foi assim ementado:
+BANCÁRIO - Ação declaratória de inexistência de relação jurídica c/c cancelamento de descontos e indenização por danos morais - Sentença de procedência - Preliminar de violação ao princípio da dialeticidade, rejeitada - Celebração de contrato com descontos de parcelas em benefício previdenciário - Aplicação do CDC - Hipótese em que o banco réu apresentou contrato, requisição de portabilidade e declaração de residência - Impugnação das assinaturas constantes dos documentos - Banco que não se interessou em produzir prova de perícia grafotécnica, de seu ônus (NCPC, art. 428, II e 429, II) - Banco que não se desincumbiu do ônus de provar a contratação geradora do débito - Relação jurídica inexistente e débito inexigível - Descontos indevidos - Devolução cabível - Retorno das partes ao status quo ante - Compensação determinada na sentença - Danos morais - Inocorrência - Indenização descabida - Ação julgada parcialmente procedente - Decaimento recíproco - Adequação dos ônus - Sentença parcialmente modificada - Recurso parcialmente provido (e-STJ fl. 177).
+Recurso especial: com base em dissídio jurisprudencial, sustenta que a conduta da instituição financeira - de forjar um empréstimo não solicitado e averbá-lo perante a folha de pagamento do INSS, enseja dano moral suscetível de ser compensado. Aduz a recorrente que teve seu benefício previdenciário indevidamente invadido por um instrumento contratual fraudulento, sendo inegável o grande abalo moral sofrido. Afirma que, na espécie, o dano moral é presumido (in re ipsa).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+De acordo com a jurisprudência perfilhada por esta Corte Superior, a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade, de forma que a fraude bancária, por si só, não pode ser considerada suficiente para a caracterização do dano moral. Nesse sentido: AgInt no AREsp 2.157.547/SC, 4ª Turma, DJe 14/12/2022; AgInt nos EDcl no REsp 1.948.000/SP, 4ª TUrma, DJe 23/06/2022; AgInt nos EDcl no AREsp 1.669.683/SP, 3ª Turma, DJe 30/11/2020.
+Nessa perspectiva, tendo em vista a consonância entre o entendimento firmado neste STJ e o acórdão recorrido, aplica-se a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/SP assim se manifestou a respeito da alegada ocorrência de danos morais:
+Noutro vértice, no tocante aos danos morais, verifica-se que eles não foram comprovados, na medida em que os descontos no valor de R$ 65,76 no benefício previdenciário não comprometeram o sustento da requerente e de sua família e tampouco implicaram na negativação de seu nome em órgãos de proteção ao crédito (e-STJ fl. 180).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (mil reais) (e-STJ fl. 180) para R$ 1.500,00 (mil e quinhentos reais), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM COMPENSAÇÃO DE DANOS MORAIS. DESCONTO. BENEFÍCIO PREVIDENCIÁRIO. EMPRÉSTIMO NÃO CONTRATADO. DANOS MORAIS. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória de inexistência de relação jurídica cumulada com compensação de danos morais, em virtude de suposta fraude bancária.
+2. A caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
