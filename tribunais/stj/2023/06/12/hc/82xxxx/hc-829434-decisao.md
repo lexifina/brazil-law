@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de ELIAS RODRIGUES NUNES, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, no julgamento do HC n. 0753156-78.2023.8.18.0000.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006 (e-STJ fls. 105/114).
+Irresignada, a defesa impetrou prévio mandamus perante a Corte estadual, que denegou a ordem (e-STJ fls. 21/25), em acórdão assim ementado:
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. COMPATIBILIDADE DE APLICAÇÃO DA PRISÃO PREVENTIVA E REGIME FECHADO. REVISÃO DE DOSIMETRIA -IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO PARCIALMENTE CONHECIDO. ORDEM DENEGADA.
+1. A revisão da dosimetria de pena exige aprofundamento no arcabouço probatório e valoração de condutas, procedimentos não viáveis em sede de Habeas Corpus;
+2. A via eleita não pode ser usada como substitutiva de recurso próprio, no caso Apelação Criminal;
+3. A prisão preventiva é plenamente compatível com o regime fechado de cumprimento de pena e, assim, não se verifica irregularidade a ser sanada pela via eleita;
+4. Ordem parcialmente conhecida e conhecida negada, em consonância com o parecer ministerial.
+No presente writ (e-STJ fls. 3/13), o impetrante, em confuso arrazoado, afirma que o paciente faz jus à incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.3432/2006, pois as circunstâncias não desbordam de um possível tráfico eventual de pequena monta não denotando dedicação nem mesmo justificando o afastamento da causa de diminuição (e-STJ fl. 9).
+Desse modo, pugna a defesa pela reforma da sentença para que seja aplicada a causa de diminuição da pena do § 4º do art. 33 da Lei n. 11.343/2006, em sua fração máxima (2/3), considerando que, além do preenchimento dos demais requisitos, não há prova idônea da dedicação a atividades criminosas (e-STJ, fl. 10).
+Ademais, alega que pelas mesmas razões acima alinhavadas (primariedade do agente e valoração favorável das circunstâncias judiciais), é cabível a substituição da pena privativa de liberdade por restritivas de direitos, e o abrandamento do regime prisional (e-STJ, fl. 12).
+Diante disso, requer, liminarmente e no mérito (e-STJ, fl. 13):
+a) A imediata expedição de ALVARÁ DE SOLTURA, aplicando a causa de diminuição da pena do § 4º do art. 33 da Lei n. 11.343/2006, em sua fração máxima (2/3);
+b) Seja reconhecida a extensão da recente decisão do STJ no Habeas Corpus n. 812180 -PI (2023/0103218-8);
+c) Considerada a ilegalidade na fixação do regime fechado, devendo no mínimo ser fixado o regime semiaberto para cumprimento da pena;
+d) Seja reconhecida a ilegalidade no não reconhecimento da aplicação do § 4 º do art. 33 da Lei n. 11.343/2006;
+e) Que seja CONCEDIDA a presente Ordem de Habeas Corpus, ratificando-se a LIMINAR.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque, verifico que as insurgências suscitadas não foram analisadas pela Corte estadual, tratando-se, portanto, de matéria nova, somente aventada nesta impetração, o que impossibilita a análise das supostas ilegalidades diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+Ilustrativamente:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. RECEPTAÇÃO. OCORRÊNCIA DE BIS IN IDEM NA IMPUTAÇÃO CONCOMITANTE DOS CRIMES DE ASSOCIAÇÃO E ORGANIZAÇÃO CRIMINOSA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Inviável a apreciação da alegação de bis in idem na imputação simultânea ao réu da prática pelos crimes de associação para o tráfico e de organização criminosa, sob pena de se incidir em indevida supressão de instância, pois os temas não foram analisados no aresto combatido.
+PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DO MATERIAL TÓXICO APREENDIDO. GRAVIDADE CONCRETA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. DESPROPORCIONALIDADE DA CONSTRIÇÃO. INADEQUAÇÃO DA VIA ELEITA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PROVIDÊNCIAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECLAMO DO QUAL PARCIALMENTE SE CONHECE E, NA EXTENSÃO, NEGA-SE-LHE PROVIMENTO.
+ ..
+2. No caso, a quantidade da substância tóxica apreendida em poder do agente somada às circunstâncias em que se deu o delito - os estupefacientes individualizados, embalados e transportados do Estado de Goiás ao Maranhão em uma caminhonete, declarada pelo agente como possível fruto de roubo - são elementos que revelam o possível tráfico em grande escala e o maior envolvimento com a narcotraficância, o que autoriza a manutenção da constrição processual, com o fim de evitar que, solto, continue a delinquir.
+3. Não se pode dizer que a medida é desproporcional em relação a eventual condenação que poderá sofrer ao final do processo, pois não há como, em âmbito de recurso ordinário em habeas corpus, concluir que ao réu será imposto regime menos gravoso que o fechado ou deferida a substituição de penas, especialmente em se considerando as particularidades do delito denunciado.
+ ..
+6. Recurso ordinário do qual parcialmente se conhece e, na extensão, nega-se-lhe provimento (RHC n. 115.593/MA, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 10/9/2019, DJe 23/9/2019, grifei).
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. ATUAÇÃO DE ADVOGADO NO PRIMEIRO GRAU COM PODERES PARA ATUAÇÃO APENAS NO SEGUNDO GRAU. AUSÊNCIA DE PREJUÍZO. TESE DE FALTA DE JUSTA CAUSA. PACIENTE JÁ PRONUNCIADA E CONDENADA. CONSEQUÊNCIAS DA ABSOLVIÇÃO DOS CORRÉUS QUANTO À QUALIFICADORA DA PROMESSA DE RECOMPENSA. SUPRESSÃO DE INSTÂNCIA. PLEITO DE SUSPENSÃO DA EXECUÇÃO PROVISÓRIA DA PENA. RÉ QUE RESPONDEU EM LIBERDADE À AÇÃO PENAL. PRISÃO DETERMINADA UNICAMENTE EM FUNÇÃO DO ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. ORDEM PARCIALMENTE CONCEDIDA.
+ ..
+4. É defeso a esta Corte pronunciar-se sobre matéria não apreciada pela instância ordinária. Assim, uma vez que o Tribunal de origem não discutiu a tese defensiva de que a absolvição dos corréus quanto à qualificadora da promessa de recompensa implicaria a absolvição da paciente da acusação de ser a mandante do crime, não pode o STJ analisar a questão, sob pena de incidir em indevida supressão de instância.
+5. Em 7/11/2019, o Supremo Tribunal Federal decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena. O art. 283 do CPP está em conformidade com a garantia prevista no art. 5º, LVII, da Constituição Federal.
+6. A Sexta Turma do STJ, ao examinar o assunto, concluiu que, com a mudança do entendimento do STF, a segregação advinda do esgotamento da jurisdição ordinária, determinada pelo Tribunal de origem, tornou-se ilegal, situação que enseja a intervenção imediata desta Corte.
+7. Na hipótese, tendo em vista que a paciente respondeu solta a toda a ação penal e que sua prisão decorreu unicamente da finalização da jurisdição ordinária, a sua soltura é medida que se impõe.
+8. Ordem parcialmente concedida a fim de determinar a soltura da paciente, em conformidade com a decisão do Supremo Tribunal Federal proferida em controle concentrado no julgamento das ADCs 43, 44 e 54 (HC n. 517.752/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 3/12/2019, DJe 11/12/2019, grifei).
+Inobstante isso, o Tribunal piauiense informa que a defesa do paciente interpôs recurso de apelação, já contra-arrazoado, o qual é cópia da petição inicial do mandamus originário, contendo todas as teses defensivas que se pretende analisar de forma antecipada nesta oportunidade.
+Desse modo, constato que em breve, as insurgência da defesa serão analisadas pela via processual adequada, não havendo a necessidade de intervenção precoce desta Corte Superior.
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
