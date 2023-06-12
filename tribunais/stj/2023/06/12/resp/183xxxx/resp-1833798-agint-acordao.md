@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pela  UNIÃO contra  a  decisão  que  negou provimento  ao  recurso  especial  que, por sua vez, fora interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+ADMINISTRATIVO. ESCRIVÃO DE POLÍCIA FEDERAL. PAGAMENTO DE DIÁRIAS. DESLOCAMENTO VARA, MUNICÍPIOS ABRANGIDOS PELA CIRCUNSCRIÇÃO DA UNIDADE A QUAL ESTÁ VINCULADO O SERVIDOR. PAGAMENTO INDEVIDO.
+I - Os deslocamentos feitos pelos policiais federais como atribuições do cargo que ocupam podem ensejar despesas extraordinárias referentes à hospedagem, alimentação e locomoção, as quais, se efetivamente ocorridas, devem ser arcadas pela União Federal, nos moldes dos artigos 51, inciso II e 58 da Lei n.º 8.112/90.
+II - Há previsão expressa no sentido de que as diárias, como regra, devem ser pagas antecipadamente e de uma só vez, excetuando-se apenas as situações elencadas em seus incisos I (as situações de urgência caracterizadas) e/ou II (quando o afastamento compreender período superior a quinze dias, caso em que poderão ser pagas parceladamente).
+III- Apelação e remessa oficial desprovidas (fl. 295).
+Em  suas  razões  recursais,  aduz que: (a) "conforme fartamente exposto pela União ao longo da marcha processual, para o pagamento de diárias é imprescindível o acúmulo de dois requisitos, quais sejam: a) o deslocamento de sua sede funcional, em caráter eventual e transitório, para outro ponto do território nacional ou para o exterior; e b) custear despesas extraordinárias do servidor com hospedagem, alimentação e locomoção urbana" (fl. 409); (b) "eventual impossibilidade de pagamento antecipado de diárias de viagem guarda estreita relação com Operações policiais de grande porte e/ou relevância, de modo que a recusa de servidores no cumprimento das OMP"s respectivas, por conta de eventual não pagamento antecipado das diárias de viagem, implica em consequências nefastas e irremediáveis, que podem comprometer substancialmente os resultados da Operação Policial a que se referem, em face do seu caráter emergencial, e que se ajustam à exceção prevista no inc. I, art. 5º, do Decreto n" 5.992/2006" (fl. 410).
+Impugnação do recurso apresentada às fls. 416/419  .
+É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DELEGADOS DA POLÍCIA FEDERAL. PAGAMENTO DE DIÁRIAS. DESLOCAMENTO DO SERVIDOR. PAGAMENTO DEVIDO. PROVIMENTO NEGADO.
+1. Trata-se, na origem, de ação ajuizada com a pretensão de ser reconhecido o direito ao pagamento antecipado das diárias, espécie de indenização prevista no art. 51, II, da Lei 8.112/1990.
+2. A regra é o pagamento antecipado das diárias ao servidor, que admite exceções a depender da peculiaridade do deslocamento (REsp 1.566.957/RS, Ministro Napoleão Nunes Maia Filho, relatora p/acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 5/5/2016, DJe de 19/5/2016).
+3. Agravo interno da União a que se nega provimento.
+VOTO
+Não merece reforma a decisão agravada.
+Trata-se, na origem, de ação ajuizada com a pretensão de ser reconhecido o direito ao pagamento antecipado das diárias, espécie de indenização prevista no art. 51, II, da Lei 8.112/1990.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Portanto, anoto que há previsão expressa no sentido de que as diárias, como regra, devem ser pagas antecipadamente e de uma só vez, excetuando-se apenas as situações elencadas em seus incisos I (as situações de urgência caracterizadas) e/ou II (quando o afastamento compreender período superior a quinze dias, caso em que poderão ser pagas parceladamente), motivo pelo qual fica mantida a r. sentença tal como lançada.
+Por derradeiro, ressalte-se que o caso em discussão não se insere no âmbito de incidência da Súmula 339 do Supremo Tribunal Federal, pois não se cuida de aumento de vencimentos de servidor público, não havendo que se cogitar de violação ao princípio da separação dos poderes. Trata-se apenas de assegurar direito reconhecido, em aplicação de norma regulamentar ajustada à * garantia constitucional da isonomia, de modo a evitar seja conferido tratamento idêntico para situações não equivalentes (fl. 293 - sem destaque no original).
+Ficou expressamente fundamentado que a regra seria o pagamento antecipado, que admite exceções a depender da peculiaridade do deslocamento.
+O entendimento está alinhado com a jurisprudência desta Corte:
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO COLETIVA. SINDICATO DOS POLICIAIS FEDERAIS NO ESTADO DO PARANÁ. PRETENSÃO DE PAGAMENTO ANTECIPADO DAS DIÁRIAS, NOS TERMOS DO ART. 5º DO DECRETO N. 5.992/06, E ABSTENÇÃO DA UNIÃO EM PUNIR POLICIAL DESIGNADO PARA MISSÃO SEM A ANTECIPAÇÃO DAS DIÁRIAS. INVIABILIDADE DO JUDICIÁRIO DEFINIR ANTECIPADAMENTE AS SITUAÇÕES DE URGÊNCIA. PROVIMENTO QUE DEPENDE DA ANÁLISE DO CASO CONCRETO. RECURSO ESPECIAL IMPROVIDO.
+I - Ação coletiva do Sindicato dos Policiais Federais no Estado do Paraná visando tutela judicial para garantir, a seus representados, o pagamento antecipado das diárias, nos termos do art. 5º do Decreto n. 5.992/06, e a abstenção da União em punir policiais convocados para missões sem a antecipação da diária para despesa de locomoção, que, em razão disso, não consigam se deslocar para o local designado.
+II - A pretensão do sindicato só poderia ser concedida após análise de cada caso concreto, em que se demonstre a ausência das exceções previstas no Decreto n. 5.992/06, não sendo possível o acolhimento do pedido de forma genérica. Não cabe ao judiciário definir antecipadamente as hipóteses em que há ou não urgência, pois tal decisão dependerá das circunstâncias de cada operação policial.
+III - Recurso especial improvido (REsp 1566957/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/05/2016, DJe 19/05/2016).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
