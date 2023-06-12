@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por RESIDENCIAL MAXIMO INDEPENDENCE SPE LTDA EM RECUPERACAO JUDICIAL contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento.
+Ação: de cobrança de taxas condominiais ajuizada por RESIDENCIAL MAXIMO INDEPENDENCE em face da agravante e de MARCOS ARANTES COSTA RESENDE.
+Sentença: julgou procedente o pedido formulado na exordial para condenar a agravante ao pagamento de R$ 3.537,51, bem como aos valores referentes as taxas condominiais vencidas no decorrer da presente lide. Extinguiu o feito sem resolução do mérito no tocante ao demandado Marcos Arantes Costa Resende.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. COBRANÇA DE TAXA CONDOMININAL. TEMA 886/STJ. DECISÃO MANTIDA.
+1. É cediço que os encargos de condomínio possuem natureza de obrigações reais ou "propter rem", aderem à coisa independentemente de quem seja o seu proprietário no momento da cobrança, acompanhando o bem e visando a sua própria preservação e conservação, devendo ser assumidas pelos adquirentes dos imóveis desde o momento em que recebem sua posse direta.
+2. O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de venda e compra, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do Condomínio acerca da transação. Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto. Se restar comprovado: (i) que o promissário comprador imitira-se na posse; e (ii) o Condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que aposse foi exercida pelo promissário comprador.
+3. A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor:(a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa (TEMA 1076/STJ).
+4. Honorários advocatícios majorados, nos termos do § 11, do artigo 85, do CPC. RECURSO CONHECIDO E DESPROVIDO. (e-STJ fl.639)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS. RELEVÂNCIA DA QUESTÃO DE DIREITO AINDA PENDENTE DE REGULAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OBSERVADA. TEMA 886 DOSTJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. JUSTIÇA GRATUITA INDEFERIDA.
+1. Ação de cobrança de taxas condominiais.
+2. A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+4. Tema 886 do STJ: a) o que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de venda e compra, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do Condomínio acerca da transação; b) Havendo compromisso de compra e venda não levado a registro, a responsabilidade pelas despesas de condomínio pode recair tanto sobre o promitente vendedor quanto sobre o promissário comprador, dependendo das circunstâncias de cada caso concreto; c) Se restar comprovado: (i) que o promissário comprador imitira-se na posse; e (ii) o Condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador."
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido. Indeferido o pedido de justiça gratuita. (e-STJ fl. 933/934)
+Agravo interno: a agravante alega não incidir o óbice da Súmula 7/STJ, bem como assevera violação do art. 85, § 10, do CPC.
+É o relatório.
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Da análise das razões deduzidas neste agravo interno, verifica-se que a recorrente deixou de rebater pontualmente os fundamentos da decisão contra a qual se insurge.
+Com efeito, limitando-se a tecer argumentação acerca da não incidência do óbice da Súmula 7/STJ, a agravante nada argumentou acerca dos demais fundamentos utilizados na decisão agravada. Por conseguinte, o conhecimento do presente agravo interno se mostra inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+De mais a mais, tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso à unanimidade, fixo multa de 3% sobre o valor atualizado da causa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de cobrança de taxas condominiais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não conhecido, com aplicação de multa.
