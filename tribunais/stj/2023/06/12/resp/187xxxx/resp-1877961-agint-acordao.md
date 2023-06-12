@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que deu provimento ao Recurso Especial.
+Inconformada, sustenta a parte agravante que:
+"A Lei dispensa o mesmo tratamento ao crédito da Fazenda Pública, seja a dívida de índole tributária, ou não tributária.
+Assim, a suspensão do crédito não tributário requer o oferecimento de garantia idônea e suficiente na forma da Lei. A forma de garantia, no particular, está prevista no art. 38 da Lei nº 6.830/80, o qual dispõe sobre a cobrança judicial de dívida ativa da Fazenda Pública, e consiste no depósito do montante integral (em dinheiro) do valor do débito.
+(..)
+A utilização de outras modalidades de garantias, como a fiança bancária e o seguro garantia ou mesmo o oferecimento de bem imóvel, não é acolhida pela jurisprudência do Superior Tribunal de Justiça quando utilizadas como mecanismo de caucionamento de ação anulatória de débito fiscal, que é exatamente a hipótese presente" (fl. 198/199e).
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO ADMINISTRATIVO. MULTA ADMINISTRATIVA. SEGURO GARANTIA. SUSPENSÃO DA EXIGIBILIDADE DE CRÉDITO NÃO TRIBUTÁRIO. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, a parte agravante interpôs Agravo de Instrumento contra decisão proferida em Ação Ordinária movida contra a Agência Nacional de Saúde Suplementar - ANS, que indeferira o pedido de antecipação dos efeitos da tutela, a fim de obter a suspensão da exigibilidade de crédito não tributário, mediante a apresentação de seguro garantia. O Tribunal de origem negou provimento ao Agravo de Instrumento.
+III. O acórdão recorrido está em dissonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, "quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade, não se aplicando a Súmula 112/STJ" (STJ, AgInt no REsp 1.919.016/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021). Nesse sentido: STJ, AgInt no REsp 1.915.046/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/07/2021; AgInt no AREsp 1.683.152/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/03/2021; AgInt no REsp 1.612.784/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/02/2020; REsp 1.381.254/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 28/06/2019.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): O recurso não merece prosperar.
+Na origem, a parte agravante interpôs Agravo de Instrumento contra decisão proferida em Ação Ordinária movida contra a Agência Nacional de Saúde Suplementar - ANS, que indeferira o pedido de antecipação dos efeitos da tutela, a fim de obter a suspensão da exigibilidade de crédito não tributário, mediante apresentação de seguro garantia.
+O Agravo de Instrumento foi improvido, pelo Tribunal de origem, em acórdão assim fundamentado:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. LEI N.º 4.320/1964.
+- DE ACORDO COM A LEI N.º 4.320, DE 17 DE MARÇO DE 1964, O CRÉDITO PROVENIENTE DE MULTA POR INFRAÇÃO ADMINISTRATIVA INTEGRA A "DÍVIDA ATIVA NÃO TRIBUTÁRIA", NOS TERMOS DO § 2º DO ART. 39.
+- OS CRÉDITOS DA FAZENDA PÚBLICA, SEJAM ELES TRIBUTÁRIOS OU NÃO, SÃO COBRADOS JUDICIALMENTE POR EXECUÇÃO FISCAL, CONFORME A LEI N.º 6.830/80, QUE DISPÕE SOBRE A COBRANÇA DE DÍVIDA ATIVA DA FAZENDA.
+- AO CONTRÁRIO DO QUE OCORRE COM OS CRÉDITOS TRIBUTÁRIOS DA FAZENDA PÚBLICA (ART. 151 DO CTN), NÃO HÁ PREVISÃO LEGAL PARA A SUSPENSÃO DA EXIGIBILIDADE DE CRÉDITOS NÃO TRIBUTÁRIOS.
+- O DEPÓSITO DO CRÉDITO TRIBUTÁRIO, CONSOANTE PACIFICADO NO ENUNCIADO N.º 112 DA SÚMULA DO STJ, SOMENTE SUSPENDE A EXIGIBILIDADE DO CRÉDITO SE FOR INTEGRAL E EM DINHEIRO. E SOMENTE O DEPÓSITO EM DINHEIRO, NA FORMA DO ART. 32 DA LEI N.º 6.830/80, FAZ CESSAR A RESPONSABILIDADE PELA ATUALIZAÇÃO MONETÁRIA E JUROS DE MORA, SEGUNDO A DICÇÃO DO ART. 9º, § 4º E DO ART. 38 DO MESMO DIPLOMA LEGAL.
+- RECURSO IMPROVIDO" (fl. 78e).
+Irresignada, a parte agravante interpôs Recurso Especial, alegando além da divergência jurisprudencial, violação aos arts. 9º, § 3º, da Lei 6.830/80 e 835, § 2º, do CPC/2015, defendendo a possibilidade de suspensão do crédito mediante apresentação de seguro garantia até o julgamento final da ação anulatória.
+Com efeito, o acórdão recorrido está em dissonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, "quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade, não se aplicando a Súmula 112/STJ" (STJ, AgInt no REsp 1.919.016/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021).
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ANULATÓRIA. DÉBITO NÃO TRIBUTÁRIO. MULTA. SEGURO GARANTIA. CAUÇÃO IDONÊA. OBSERVÂNCIA.
+1. O seguro garantia e a fiança bancária, desde que suficientes para saldar o valor da dívida, constituem instrumentos idôneos de caução para fins de suspensão da exigibilidade do crédito não tributário, vale dizer, da prática de qualquer ato executivo, pois garantem segurança e liquidez ao crédito do exequente, sem comprometer o capital do executado, produzindo os mesmos efeitos jurídicos que o dinheiro, nos termos do disposto nos art. 835, §2º, e 848, parágrafo único, do CPC/2015.
+2. A ordem de preferência estabelecida no art. 835, I, do CPC/2015 e no art. 11, I, da Lei n. 6.830/1980 não exclui o direito do devedor de garantir o juízo de forma antecipada, após o vencimento da sua obrigação e antes da execução, para o fim de suspender a cobrança da multa administrativa, a inscrição do seu nome no CADIN ou obter certidão positiva com efeito de negativa.
+3. É inegável que o seguro garantia e a fiança bancária ganharam maior importância com a grave crise econômica decorrente da pandemia do COVID-19, porquanto equilibram o princípio da máxima eficácia da execução para o credor e o princípio da menor onerosidade para executado, constituindo instrumentos determinantes para a manutenção das atividades de muitas empresas.
+4. Agravo interno desprovido" (STJ, AgInt no REsp 1.915.046/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/07/2021).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA ADMINISTRATIVA. SEGURO GARANTIA. FIANÇA BANCÁRIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO NÃO TRIBUTÁRIO. POSSIBILIDADE. AFSTAMENTO DA SÚMULA 112/STJ.
+1. O entendimento firmado na Súmula 112/STJ é no sentido de que o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro.
+2. Entretanto, a jurisprudência desta Corte assentou o posicionamento de que, quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade, não se aplicando a Súmula 112/STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.683.152/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 22/03/2021).
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA ADMINISTRATIVA. AÇÃO ANULATÓRIA. APRESENTAÇÃO DE SEGURO-GARANTIA. ANTECIPAÇÃO DA TUTELA CONCEDIDA PELO JUÍZO DE PRIMEIRO GRAU PARA SUSPENDER OS EFEITOS DA NOTIFICAÇÃO DE APLICAÇÃO DE PENALIDADE. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO NÃO TRIBUTÁRIO. POSSIBILIDADE.
+1. De acordo com recente julgado desta Primeira Turma, "o entendimento contemplado no Enunciado Sumular 112 do STJ, segundo o qual o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro, que se reproduziu no julgamento do Recurso Representativo da Controvérsia, nos autos do REsp. 1.156.668/DF, não se estende aos créditos não tributários originários de multa administrativa imposta no exercício do Poder de Polícia" (REsp 1.381.254/PR, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/6/2019).
+2. Na mesma ocasião, o Colegiado asseverou ser "cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação da fiança bancária e do seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento, nos moldes previstos no art. 151, inciso II, do CTN, c/c o art. 835, § 2º, do Código Fux, e o art. 9º, § 3º, da Lei 6.830/1980, uma vez que não há dúvida quanto à liquidez de tais modalidades de garantia, permitindo, desse modo, a produção dos mesmos efeitos jurídicos do dinheiro".
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.612.784/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/02/2020).
+Assim sendo, mostra-se acertada a decisão de fls. 189/191e que deu provimento ao Recurso Especial, a fim de reconhecer a possibilidade de suspensão da exigibilidade do crédito não tributário, mediante oferecimento de seguro garantia, na forma da fundamentação, cabendo às instâncias ordinárias o exame das demais questões relacionadas à idoneidade da garantia, no caso concreto, e aos requisitos para a antecipação dos efeitos da tutela.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
