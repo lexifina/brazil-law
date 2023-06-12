@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela UNIÃO em face de acórdão proferido pela Segunda Turma deste Tribunal assim ementado (e-STJ fl. 1065):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. MILITAR. DEVOLUÇÃO DOS AUTOS PARA EVENTUAL JUÍZO DE RETRATAÇÃO EM FACE DO TEMA Nº 839/STF. RE 817.388/DF. ART. 1040, II, DO CPC/2015. VIOLAÇÃO AO ART. 54 DA LEI Nº 9.784/99. ANISITIA CONCEDIDA AOS CABOS DA AERONÁUTICA COM BASE NA PORTARIA Nº 1.104-GM3/64. DECADÊNCIA. AFASTAMENTO. POSSIBILIDADE SE COMPROVADA A AUSÊNCIA DE ATO COM MOTIVAÇÃO EXCLUSIVAMENTE POLÍTICA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO DO RECURSO DE APELAÇÃO. JUÍZO DE RETRATAÇÃO EXERCIDO. AGRAVO REGIMENTAL PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Esta Turma Julgadora manteve a decadência quando do julgamento do agravo regimental no recurso especial, com base na jurisprudência então pacífica deste Tribunal, aduzindo que a anistia do recorrido teria sido concedida em 22/12/2003, por meio da Portaria nº 2.610-MJ, já tendo decorrido mais de 5 (cinco) anos quando da edição da Portaria nº 509/2012.
+2. Contudo, o Supremo Tribunal Federal, ao julgar o Tema nº 839/STF (RE nº 817.388/DF), fixou a seguinte tese: "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas."
+3. Considerando que o Tribunal de origem limitou-se a reconhecer a decadência em razão do transcurso do lapso temporal superior a 5 (cinco) anos a partir do ato de concessão da anistia, não apreciando se referido ato teria ou não motivação exclusivamente política, cuja análise demanda, necessariamente, amplo reexame do conjunto fático-probatório dos autos, procedimento inviável em sede de recurso especial ante o óbice previsto na Súmula nº 7/STJ, imperiosa a devolução dos autos à Corte Regional para novo julgamento do apelo, observando-se a tese fixada no Tema nº 839/STF.
+4. Agravo regimental provido para dar provimento ao recurso especial, em juízo de retratação, com base no art. 1040, II, do CPC/2015.
+Nas razões dos declaratórios (e-STJ fls. 1094/1096), a embargante alega, em síntese, que o acórdão ora embargado padeceria de equívoco.
+Sustenta que "incorreu em equívoco a decisão tendo em vista que o fundamento que levou à conclusão de procedência do pedido autoral, em sentença proferida em primeiro grau, foi exclusivamente a decadência. O recurso de apelação interposto pela União também se pautou unicamente no afastamento da decadência, em razão dos fundamentos da sentença. Sendo assim, diante do cenário processual que se desenrolou nas instâncias ordinárias, e da necessária aplicação do Tema 839/STF, afastando-se a decadência, o pleito autoral deve ser julgado inteiramente improcedente com o provimento do recurso especial da União. Se assim não entender a Eminente Segunda Turma, que os autos retornem à primeira instância, para que seja proferida nova sentença, afastando-se a decadência, retornando-se o status quo, qual seja, validade da portaria anistiadora do senhor João Nunes, até julgamento final do processo" (e-STJ fl. 1095).
+Impugnação aos embargos apresentada às e-STJ fls. 1101/1110.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. No presente caso, a embargante não indicou qual teria sido o vício constante do acórdão ora embargado que justificasse a oposição dos aclaratórios, carecendo o recurso da devida fundamentação, o que impede o conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+VOTO
+O recurso não comporta conhecimento.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+No presente caso, a embargante não indicou qual teria sido o vício constante do acórdão ora embargado que justificasse a oposição dos aclaratórios, carecendo o recurso da devida fundamentação, o que impede o conhecimento dos embargos.
+Nesse sentido os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIO. FUNDAMENTAÇÃO DEFICIENTE. IMPUGNAÇÃO TARDIA, EM SEDE DE EMBARGOS DE DECLARAÇÃO, DA DECISÃO DE INADIMISSIBILIDADE DO RECURSO ESPECIAL. INVIABILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. No presente caso, o embargante não indicou qual teria sido o vício constante do acórdão ora embargado que justificasse a oposição dos aclaratórios, carecendo o recurso da devida fundamentação, o que impede o conhecimento dos embargos.
+3. A tentativa de suprir falha de impugnação, através de embargos de declaração, de fundamento do juízo negativo de admissibilidade não impugnado nas razões do agravo em recurso especial constitui verdadeira inovação recursal, inviável em razão da ocorrência da preclusão consumativa.
+4. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AgInt no AREsp n. 1.857.693/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/2/2022, DJe de 2/3/2022)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE.
+1. Sem apontar contradição, omissão, obscuridade ou erro material no acórdão, o embargante limita-se a reiterar a alegação de que seu Recurso é tempestivo, aduzindo que "o prazo indicado pelo sistema eletrônico do tribunal possui fé pública". Também repete o argumento de que os honorários não deveriam ser majorados porque "o recurso especial foi o primeiro recurso direcionado a esta Corte Superior".
+As duas alegações já foram enfrentadas na decisão embargada.
+2. O mero inconformismo da parte não autoriza a oposição de Embargos de Declaração com o fim de rediscutir matérias já apreciadas e julgadas. Nesse sentido: EDcI no Aglnt no AREsp 875.208/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20.9.2016; EDcl no AgRg no AREsp 381.524/CE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 1º.6.2018; EDcl no REsp 1810599/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11.10.2019.
+3. Os Aclaratórios são recurso de fundamentação vinculada, de rígidos contornos, de modo que, para o seu conhecimento, é imprescindível que a parte desenvolva argumentação alusiva aos vícios constantes em sua regra de regência.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.490.104/AP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/10/2021, DJe de 16/12/2021)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
