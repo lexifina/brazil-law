@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interno interposto por COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNIÃO DE ESTADOS RIO GRANDE DO SUL, SANTA CATARINA E MINAS GERAIS - SICREDI UNIESTADOS contra decisão da Presidência do STJ que não conheceu do recurso especial que interpusera, em razão da deserção.
+Ação: embargos à execução, opostos por MAURO ANTÔNIO SCHMITZ E CIA LTDA - ME, SÍLVIA BEVILAQUA e MAURO ANTÔNIO SCHMITZ, em face da agravante, fundada na abusividade contratual.
+Acórdão: deu provimento às apelações interpostas pela agravante e pelos agravados, nos termos da seguinte ementa:
+APELAÇÕES BANCÁRIOS. CÍVEIS. NEGÓCIOS JURÍDICOS EMBARGOS DO DEVEDOR DE CUNHO REVISIONAL. VERIFICADA OMISSÃO NA SENTENÇA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. JULGAMENTO NESTE GRAU DE JURISDIÇÃO. RENEGOCIAÇÃO DA DÍVIDA. REVISÃO DOS CONTRATOS ORIGINÁRIOS. POSSIBILIDADE.
+A sentença parcialmente desconstituída, diante da omissão relativa à revisão dos contratos originários. Todavia, por força da aplicação do princípio da Teoria da Causa Madura, este Tribunal deve decidir, de forma direta, o mérito da questão nos termos do artigo 1.013, § 3º, IV, CPC Neste rumo, em observância ao entendimento do Superior Tribunal de Justiça assentado na Súmula 286, é possível a revisão dos contratos que originaram a renegociação da dívida em execução.
+JUROS REMUNERATÓRIOS.
+Consoante entendimento firmado pelo Superior Tribunal de Justiça no julgamento do RESP n.º 1061530 / RS, realizado sob a sistemática dos recursos repetitivos, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada, fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. No caso em apreço, os juros foram fixados em percentual levemente superior à taxa praticada pelo mercado, não ficando demonstrada mencionada condição.
+JUROS REMUNERATÓRIOS SOBRE AS PARCELAS VINCENDAS.
+Não há qualquer prova nos autos que demonstre que a cooperativa embargada haja aplicado juros remuneratórios nas parcelas vincendas. Pelo contrário, o cálculo que lastreia a execução comprova que estes apenas incidiram nas parcelas já vencidas quando do ajuizamento da ação.
+PERÍODO DE INADIMPLÊNCIA. APLICAÇÃO DO CDI. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 176 DO STJ.
+Consoante entendimento firmado pelo Superior Tribunal de Justiça na súmula 176, "é nula a clausula contratual que sujeita o devedor a taxa de juros divulgada pela ANBID/CETIP", razão pela qual vai declarada a abusividade da sua incidência nos contratos originários, havendo de ser aplicado o IGP-M em substituição. Todavia, no tocante ao contrato executado, não obstante a sua previsão, a embargante não aplicou qualquer correção monetária, consoante se verifica pelo cálculo que lastreou a inicial executiva, de modo que, relativamente a este título em específico, não há revisão a ser efetivada.
+JUROS MORATÓRIOS.
+Consoante entendimento exarado pelo Superior Tribunal de Justiça no julgamento do Recurso Especial n. 2 1.061.530/RS realizado sob o rito dos recursos repetitivos e assentado no enunciado da Súmula 379 de tal Corte Suprema, os juros moratórias podem ser convencionados até o limite de 1% ao mês nos contratos bancários não regidos por legislação específica. No presente caso, os juros moratórias foram estabelecidos em taxa superior a 1% ao mês, razão pela qual se justifica sua revisão, especificamente para os contratos originários. Entretanto, relativamente ao título exequendo, muito embora haja tal previsão contratual, já foi observado o patamar máximo, de sorte que, em relação a este, não há nada a alterar.
+TARIFAS ADMINISTRATIVAS.
+A previsão contratual da tarifa de abertura de crédito (TACI, ou outra denominação para o mesmo fato gerador, é válida apenas nos títulos bancários anteriores ao início da vigência da Resolução-CMN n. 3.518/2007, em 30/4/2008. Orientação sufragada no enunciado da Súmula 565 do ST . Alo caso concreto, há pactuação e prova de cobrança neste sentido, de modo que aquelas exigidas deverão ser ressarcidas/compensadas.
+COBRANÇA DE DESPESAS DE TERCEIROS.
+Havendo prova de desconto de taxa de serviços de terceiros para cobrança de título sem, entretanto, esclarecimento ou demonstração a que efetivamente se referem, vai declarada a abusividade desta e determinada a sua restituição ou compensação.
+COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS.
+Não há qualquer documento nos autos que comprove que efetivamente houve alguma cobrança a título de honorários advocatícios, não estando estes incluídos no cálculo que embasou a execução.
+DESCARACTERIZAÇÃO DA MORA E REPETIÇÃO DE INDÉBITO/COMPENSAÇÃO.
+No caso em exame, devida tocante à ausência de revisão contratual no aos encargos incidentes no período de normalidade da operação de crédito em execução, não há falar em descaracterização da mora. Entretanto, cabível a repetição ou compensação dos valores eventualmente pagos a maior no período de Inadimplência dos contratos originários, no qual incidiu índice de correção e taxa de juros moratórios abusivos ora revisados, além da cobrança ilegal de TAC e despesas de terceiros.
+RECURSOS DE APELAÇÃO PARCILMENTE PROVIDOS.
+Decisão agravada: não conheceu do recurso, em razão da deserção.
+Razões do recurso: Nas razões do presente recurso a agravante afirma que teria efetuado o pagamento do preparo do recurso de forma tempestiva, na data de interposição do recurso especial, uma hora antes de seu protocolo.
+Aduz que, em razão de problemas na juntada dos documentos, a guia de recolhimento estaria desacompanhada do comprovante, o que configuraria erro sanável. Além disso, argumenta que, diante do recolhimento tempestivo, não haveria a necessidade de intimação para recolhimento em dobro do preparo, mas apenas para sua comprovação, o que teria ocorrido.
+Assim, defende que, diante do tempestivo recolhimento das custas, o que teria sido comprovado após a intimação, deveria ser afastada a deserção.
+Por fim, após ressaltar, mais uma vez, a existência de problemas na juntada de documentos, sustenta que os documentos de fls. 884/895 (e-STJ), indicados na decisão agravada, teriam sido juntados posteriormente e não corresponderiam aos documentos efetivamente juntados ao agravo em recurso especial (comprovantes de feriados locais, de pagamento do preparo do recurso especial e certidão de comprovação do recolhimento tempestivo do preparo), razão pela qual o agravo em recurso especial deveria ser novamente apreciado.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO APÓS INTIMAÇÃO. DESERÇÃO.
+1. Embargos à execução.
+2. Os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção. Precedentes.
+3. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015. Precedentes.
+4. O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal. Precedentes.
+5. Agravo interno no agravo em recuso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do recurso interposto pelo agravante, em razão da deserção.
+Veja-se o que constou na decisão (e-STJ fls. 919/920):
+Mediante análise do recurso de COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE ASSOCIADOS DO NORTE DO RIO GRANDE DO SUL E OESTE DE SANTA CATARINA - SICREDI NORTE RS/SC, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer às fls. 869/870 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar o recolhimento em dobro, nos termos do art. 1.007, § 4º do CPC.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+E ainda (e-STJ fls. 942/946):
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem comprovante de recolhimento das custas judiciais.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp n. 2.126.505/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023 e AgInt no RMS n. 68.922/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que limitou-se a trazer às fls. 869/870 o comprovante de pagamento referente à guia anteriormente apresentada, sem, contudo, realizar o recolhimento em dobro, nos termos do art. 1.007, § 4º do CPC.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+(..)
+Do mesmo modo, a certidão de fl. 884 não afasta a necessidade de comprovação do preparo no ato da interposição, conforme já exposto.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+(..)
+Quanto ao pedido de fls. 931/938, resta prejudicado, uma vez que os documentos se encontram às fls. 884/895 dos autos.
+- Do preparo recursal
+Nos termos da jurisprudência do STJ, os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção (AgInt no AREsp 1.650.747/SP, 3ª Turma, DJe de 7/10/2020; e AgInt no REsp 1.870.574/MG, 4ª Turma, DJe de 22/9/2020).
+Da análise dos autos, verifica-se que a petição de recurso especial foi protocolada em 13/06/2022 (e-STJ, fl. 806), apenas com a guia de recolhimento das custas devidas ao STJ, sem o seu respectivo comprovante de pagamento (e-STJ, fls. 828/829).
+Verificada a irregularidade no preparo pelo Tribunal de origem, foi determinada a intimação do agravante para regularização, com recolhimento em dobro do valor do preparo, sob pena de deserção, nos termos do art. 1.007, §4º, do CPC/15 (e-STJ, fls. 861/863).
+Ato seguinte, o agravante realizou a juntada da guia de recolhimento das custas devidas ao STJ e do seu respectivo comprovante de pagamento de forma simples, datado de 13/06/2022, data de interposição do recurso especial (e-STJ, fls. 865/870).
+Dessa forma, conclui-se que, de fato: i) o recurso especial não foi instruído com o comprovante de pagamento da guia de recolhimento das custas devidas ao STJ; ii) diante de tal irregularidade, o agravante foi intimado para recolhimento em dobro do valor do preparo, nos termos do art. 1.007, §4º, do CPC/15; e iii) o agravante não atendeu a tal determinação, limitando-se a juntar o comprovante de pagamento de forma simples, o qual teria sido realizado na data de interposição do recurso especial.
+Assim, o Tribunal de origem inadmitiu o recurso especial em razão da deserção (e-STJ, fl. 873/875).
+Em seguida, quando da interposição do agravo em recurso especial, foram juntados os documentos de fls. 884/895 (e-STJ), que, apesar das alegações da agravante em sentido contrário, correspondem ao já mencionado comprovante de pagamento de forma simples, ao comprovante de feriados locais e à certidão de comprovação do recolhimento tempestivo do preparo.
+Com efeito, conforme jurisprudência desta Corte, "não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015" (AgInt no AREsp n. 2.057.426/SP, 4ª Turma, DJe de 29/6/2022).
+Ainda nesse sentido: AgInt no AREsp 1833742/MG, 3ª Turma, DJe de 23/02/2022; e AgInt no AgInt no REsp 1718692/RO, 4ª Turma, DJe de 02/05/2019.
+Cumpre ressaltar ainda o entendimento desta Corte no sentido de que "o recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, 4ª Turma DJe de 02/10/2017). Também nesse sentido: AgInt no AREsp n. 1.872.212/SP, 4ª Turma, DJe de 28/6/2022; e AgInt no AREsp n. 1.984.651/PR, 3ª Turma, DJe de 23/3/2022.
+Portanto, a despeito das alegações da agravante, inclusive quanto aos documentos juntados com o agravo em recurso especial, descumprida a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso especial e não atendida a determinação legal de recolhimento em dobro, após intimada, é de rigor que à parte ora agravante seja imposta a pena de deserção do recurso, incidindo na espécie o disposto na Súmula 187/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
