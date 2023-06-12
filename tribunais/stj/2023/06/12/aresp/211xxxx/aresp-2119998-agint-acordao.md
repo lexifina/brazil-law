@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se do agravo interposto pela SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, contra decisão unipessoal que conheceu do agravo que interpusera, para não conhecer do recurso especial.
+Ação: de cobrança de indenização securitária, ajuizada por EDIVALDO DE ARAÚJO PEREIRA e OUTRSO, em face da agravante.
+Decisão interlocutória: o Juiz Federal declinou da competência para processar e julgar a ação, ante a inexistência de interesse da Caixa Econômica Federal.
+Acórdão: não conheceu do agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+PROCESSUCAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. COMPETÊNCIA. SEGURO HABITACIONAL. APÓLICE PÚBLICA. AUSÊNCIA DE LEGITIMIDADE DA SEGURADORA PARA RECORRER. REMESSA DA VICE-PRESIDÊNCIA DESTE TRF, SOB O RITO DO ART. 1.040, II, DO CPC. ANÁLISE DO ACÓRDÃO RECORRIDO À LUZ DO ENTENDIMENTO ADOTADO PELO STF NO RE 827.996/PR (Tema 1011). AGRAVO DE INSTRUMENTO NÃO CONHECIDO.
+1. Autos encaminhados a esta Relatoria pela Vice-Presidência desta Corte, sob o rito do art. 1.040, II, do CPC, para realizar eventual juízo de retratação ante a decisão proferida pelo Supremo Tribunal Federal no RE 827.996/PR (Tema 1011), que tem como questão controvertida o interesse da CEF em demandas envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro e, consequentemente, a competência da Justiça Federal.
+2. O acórdão ora reapreciado concluiu que não comporta conhecimento o Agravo de Instrumento interposto pela Seguradora contra decisão interlocutória proferida pelo Juízo Federal no sentido de que, no caso concreto, não há interesse da Caixa na demanda em que se pretende a obtenção de indenização securitária por dano em imóvel financiado pelo SFH.
+3. O STF, no julgamento RE 827.996/PR (Tema 1011), firmou a tese no seguinte sentido: "1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e 2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+4. É forçoso reconhecer que, a despeito do pronunciamento do Supremo Tribunal Federal, a questão atinente à legitimidade da Caixa, não pode ser apreciada no presente caso concreto, tendo em vista a falta de pressuposto intrínseco de admissibilidade recursal, qual seja, o interesse em recorrer da seguradora, que impede o pronunciamento sobre as questões jurídicas versadas no presente Agravo de Instrumento.
+5. Julgamento que não se encontra em dissonância com a decisão proferida pelo egrégio STF, não sendo o caso de retratação do acórdão turmário.
+6. Agravo de instrumento não conhecido.
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 45 do CPC; 1º e 1º-A da Lei 12.409/11; e 3º, 4º e 5º da Lei 13.000/14. Sustenta a existência de interesse da CEF em integrar o polo passivo da lide.
+Decisão agravada: conheceu do agravo para não conhecer do recurso especial, tendo em vista a ausência de impugnação específica de fundamento suficiente para a manutenção do acórdão recorrido.
+Agravo interno: argumenta, genericamente, que impugnou todos os fundamentos do acórdão recorrido e que as súmulas do STF não se aplicam aos recursos especiais.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação de cobrança de indenização securitária.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a ausência de impugnação específica de fundamento suficiente para a manutenção do acórdão recorrido.
+Da análise do presente recurso, verifica-se que a agravante se limitou a trazer alegações genéricas, mas não demonstrou, pontualmente, que nas razões do recurso especial teria impugnado o fundamento no sentido de que:
+(..) a despeito do pronunciamento do Supremo Tribunal Federal, a questão atinente à legitimidade da Caixa, não pode ser apreciada no presente caso concreto, tendo em vista a falta de pressuposto intrínseco de admissibilidade recursal, qual seja, o interesse em recorrer da seguradora, que impede o pronunciamento sobre as questões jurídicas versadas no presente Agravo de Instrumento. (-e-STJ fl. 1.682)
+Consoante entendimento pacífico desta Corte, não merece conhe cimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto no art. 253, parágrafo único, I do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1 % sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
