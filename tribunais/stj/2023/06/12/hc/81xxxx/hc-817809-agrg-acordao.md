@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO RICARDO ALVES LOURENÇO contra a decisão que não conheceu do writ, ficando mantido o óbice à conversão da pena corporal em restritiva de direitos.
+Em razões, a defesa reitera o pleito de concessão do benefício do art. 44 do CP, por considerar preenchidos todos os requisitos legais.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO TENTADO. DOSIMETRIA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. MAUS ANTECEDENTES. ÓBICE À CONVERSÃO DA PENA PRETENDIDA. AGRAVO DESPROVIDO.
+1. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. o art. 44 do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente". No caso em análise, o Tribunal de origem asseverou não ser admissível a concessão do benefício, em razão das circunstâncias concretas, considerando os maus antecedentes do réu, que já fora condenado pelo crime de roubo, sem que possa inferir arbitrariedade em tal conclusão.
+3. Agravo desprovido.
+VOTO
+Razão não assiste ao agravante.
+Conforme o reconhecido no decisum ora impugnado, esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ainda, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+Quanto à alegada ilegalidade do óbice à substituição da pena corporal por restritiva de direitos, faz-se necessário expor excertos do acórdão:
+" C om a desclassificação da conduta, tem-se que reavaliar a dosimetria da pena. Na sentença, na primeira fase, todas as circunstâncias judiciais foram consideradas neutras. Todavia, observa-se que o apelante possui antecedentes criminais (5013882-27, roubo majorado, data do fato: 13/01/2021, trânsito em julgado: 03/02/2023), devendo a pena-base deve ser fixada no mínimo legal, acrescida da fração de 1/6, perfazendo 1 ano e 2 meses de reclusão. Não obstante a menoridade relativa do apelante na época dos fatos e ter confessado a prática do crime, a pena intermediária deve ser fixada em 1 ano de reclusão, a teor da súmula 231 do STJ. Na terceira fase, reconhecida a tentativa e ponderando o iter criminis, haja vista que assim que o apelante rompeu o cadeado, já lhe foi dada voz de prisão, deve ser diminuída da fração de 2/3 (CP, art. 14, parágrafo único), totalizando 4 meses de reclusão. O regime inicial é o aberto (CP, art. 33, §2, c). Inaplicável a substituição por restritiva de direitos, por não se mostrar socialmente recomendável, tendo em vista os maus antecedentes (condenação por roubo). Inviável a concessão de sursis por não atender aos requisitos do artigo 77 do Código Penal".
+Com efeito, o art. 44 do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. REGIME SEMIABERTO. LEGALIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (MAUS ANTECEDENTES). FUNDAMENTO IDÔNEO PARA JUSTIFICAR O RECRUDESCIMENTO DO REGIME PRISIONAL E PARA NEGAR A SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS.
+1. Presente circunstância judicial negativa, qual seja, os maus antecedentes (duas condenações transitadas em julgado por tentativa de furto e tráfico ilícito de entorpecentes) está justificada a aplicação do regime inicial mais gravoso, nos moldes do art. 33, §§ 2º e 3º, do Código Penal, bem como a negativa de substituição da pena privativa de liberdade por penas restritivas de direito (art. 44, III, do CP).
+2. Agravo regimental improvido.
+(AgRg no HC n. 793.772/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023.);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍ CULO AUTOMOTOR. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. DESPROVIMENTO DO AGRAVO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede seu formal conhecimento.
+2. A fixação do regime inicial semiaberto para o cumprimento da reprimenda se deu fundamentadamente considerando a presença de circunstância judicial negativa.
+3. A substituição da pena privativa de liberdade por restritiva de direitos não se mostra suficiente para prevenção e repressão do delito perpetrado em razão da valoração negativa da circunstância judicial relativa aos antecedentes, a teor do disposto no art. 44, III, do Código Penal.
+4. Agravo regimental desprovido"
+(AgRg no HC n. 756.973/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.).
+No caso em análise, o Tribunal de origem asseverou não ser admissível a concessão do benefício, em razão das circunstâncias concretas, considerando os maus antecedentes do réu, que já f ora condenado pelo crime de roubo, sem que possa inferir arbitrariedade em tal conclusão.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
