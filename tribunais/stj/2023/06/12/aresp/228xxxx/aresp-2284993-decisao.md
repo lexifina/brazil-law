@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO ROBERTO DA SILVA JUNIOR contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim ementado (e-STJ fl. 413):
+PENAL E PROCESSUAL PENAL. APCRIM. TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/06). ÉDITO PUNITIVO. ROGO ABSOLUTÓRIO POR AUSÊNCIA DE PROVA. MATERIALIDADE E AUTORIA DEMONSTRADAS QUANTUM SATIS. PROVA DOCUMENTAL E DEPOIMENTOS DOS AUTORES DO FLAGRANTE, HARMÔNICOS E COERENTES ENTRE SI. TESE IMPRÓSPERA. SÚPLICA OBJETIVANDO O BENEFÍCIO DO § 4º DO ART. 33 DA LAD. PRESSUPOSTOS ENSEJADORES DA MINORANTE NÃO PREENCHIDOS. DESCABIMENTO. SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ÓBICE DO ART. 44, I, DO CP. DECISUM MANTIDO. PRECEDENTES DO STJ E DESTA CÂMARA CRIMINAL. CONHECIMENTO E DESPROVIMENTO.
+O agravante foi condenado à pena de 5 anos e 10 meses de reclusão no regime fechado, além do pagamento de 583 dias-multa, pela prática do crime previsto no art. 33 da Lei 11.343/2006.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 413-416).
+Nas razões do recurso especial, alega violação do art. 33, caput e § 4º, da Lei 11.343/2006, pois: a) "os fatos e provas existentes nos autos nos mostram que, se por um lado existia a droga, por outro, inexistiu prova do comércio", razão pela qual deve ser absolvido, com fundamento no princípio do in dubio pro reo (e-STJ fl. 452); e b) cabível a aplicação do redutor do tráfico privilegiado, tendo em vista que a reincidência utilizada como fundamento para afastar a causa de diminuição de pena não é específica.
+Contrarrazões apresentadas às e-STJ fls. 494-503.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 516-545).
+Parecer do Ministério Público Federal pelo provimento parcial do agravo para aplicar o redutor do tráfico privilegiado e adequar o regime de cumprimento da pena (e-STJ fls. 595-598).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever a fundamentação utilizada pelo Tribunal estadual acerca da tese de absolvição e da aplicação do redutor do tráfico privilegiado (e-STJ fls. 414-416):
+Com efeito, malgrado a sustentativa absolutória por ausência de prova (item 3.1), tenho por sólida a materialidade e autoria, consubstanciadas, precipuamente, no Termo de Apreensão, Laudo de Exame Químico Toxicológico (799,0g - setecentos e noventa e nove gramas de cannabis sativa L.) e depoimentos dos autores do flagrante (IDs 13283973, p. 11 e 13283997, p. 1-2):
+ ..
+Daí, inolvidável o acerto da subsunção levada a efeito na origem, onde os relatos dos agentes de segurança se acham em harmonia com as demais premissas materializadas, consoante externado no parecer do órgão atuante neste grau:
+ ..
+Consequentemente, é impróspera a tese absolutória.
+No alusivo ao rogo objetivando o benefício do § 4º do art. 33 da LAD (item 3.2), também se acha infrutífero, porquanto o apelante é reincidente e possui maus antecedentes (execução penal nº 5000018-59.2020.8.20.0144/ação penal de origem nº 0101062-56.2013.8.20.0144), além da quantidade de narcótico apreendido (799,00g - setecentos e noventa e nove gramas de cannabis sativa L.).
+O Tribunal de origem, após percuciente reexame do delineamento fático e probatório coligido aos autos, reconheceu a prática do crime imputado ao agravante.
+Desconstituir o julgado, no intuito de abrigar o pleito de absolvição, não encontra espaço na via eleita, porquanto seria necessário revolvimento do contexto fático-probatório, providência obstada pela Súmula 7/STJ.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PEDIDO ABSOLUTÓRIO OU DESCLASSIFICATÓRIO. NÃO CONHECIMENTO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL -STF. RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA PARA O AFASTAMENTO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto ao pleito de desclassificação do delito ou de absolvição, o recurso especial não foi conhecido, de vez que não houve indicação do dispositivo legal supostamente violado pelo acórdão recorrido.
+Incidência da Súmula n. 284 do Supremo Tribunal Federal..
+2. No caso, o juiz sentenciante deixou de aplicar a minorante do tráfico privilegiado, porquanto os elementos concretos do caso conduziram à conclusão de que as agravantes dedicavam-se a atividades ilícitas, em razão da quantidade e natureza de drogas apreendidas, aliadas às características do local da ocorrência do crime, aos depoimentos policiais acerca do envolvimento das acusadas em organização criminosa, ao concurso de agentes e aos maus antecedentes (Mari Tânia). Essa orientação está em consonância com o entendimento firmado por esta Corte, no sentido de que a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, depende do convencimento do Magistrado de que o apenado, primário e de bons antecedentes, não se dedique a atividades delituosas, nem integre organização criminosa.
+3. A modificação deste entendimento demandaria necessariamente revolvimento fático-probatório, vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo regimental desprovido.
+(AgRg no REsp 2.002.201/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Não prospera, de igual modo, alegação de que a reincidência não específica não pode ser utilizada como fundamento para afastar o redutor do tráfico privilegiado, porquanto a jurisprudência do STJ orienta "que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado, consoante previsto no art. 33, § 4º, da Lei 11.343/2006" (AgRg no AREsp 1.810.760/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/11/2021, DJe de 16/11/2021).
+Ademais, verifica-se que o afastamento da causa especial de diminuição de pena foi fundamentado, também, nos mau s antecedentes do agravante.
+Com fundamento no art. 253, parágrafo único, I e II, b, do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
