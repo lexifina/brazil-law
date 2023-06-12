@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARIA LUIZA FRANCISCA DANTAS DONDA impugna a decisão de fls. 246-249, em que neguei provimento ao recurso ordinário.
+A agravante é investigada pela suposta prática do crime de uso de documento falso. A defesa pugna pelo trancamento do inquérito policial, sob o argumento de que "o documento não foi apto a ludibriar, enganar, iludir, o agente público e, por isso, não há falar-se na incidência do artigo 304" (fl. 257).
+Requer, dessa forma, a reconsideração ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. TRANCAMENTO DO INQUÉRITO POLICIAL. DESCABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+O trancamento prematuro de persecução penal, sobretudo em fase embrionária como a do inquérito policial e pela via estreita do writ, é medida deveras excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a absoluta falta de justa causa, a atipicidade da conduta ou a extinção da punibilidade.
+No caso, a conduta atribuída à insurgente, em tese, pode configurar crime, de tal sorte que, formalmente, nada obsta o procedimento investigativo. Além disso, existe justa causa para a deflagração do inquérito e não é inequívoca a tese de atipicidade da conduta.
+Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos argumentos lançados pela agravante, considero que deve ser mantida a decisão combatida.
+O trancamento prematuro de persecução penal, sobretudo em fase embrionária como a do inquérito policial e pela via estreita do writ, é medida deveras excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a absoluta falta de justa causa, a atipicidade da conduta ou a extinção da punibilidade.
+No caso, o decisum recorrido foi claro ao mostrar que a conduta atribuída à insurgente, em tese, pode configurar crime, de tal sorte que, formalmente, nada obsta o procedimento investigativo. Além disso, apontou que existe justa causa para a deflagração do inquérito e não é inequívoca a tese de atipicidade da conduta. Confira-se (fls. 246-248, grifos no original):
+A paciente é investigada pela suposta prática do crime de uso de documento falso. A defesa busca o trancamento do "Inquérito Policial n.º 1507949-65.2021.8.26.0066, em tramite na 2ª Vara Criminal da Comarca de Barretos, São Paulo, diante da atipicidade da conduta" (fl. 222).
+ ..
+O trancamento prematuro de persecução penal, sobretudo em fase embrionária como a do inquérito policial e pela via estreita do writ, é medida deveras excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a absoluta falta de justa causa, a atipicidade da conduta ou a extinção da punibilidade, o que não ocorreu na espécie.
+A Corte estadual, ao denegar a ordem, consignou (fls. 208-211, grifei):
+Os documentos juntados aos autos dão conta de que em 1º de dezembro de 2021, a paciente foi presa em flagrante delito pela prática do crime de falsificação de documento público, conforme Boletim de Ocorrência: "Comparece a diretora do Detran de Barretos noticiando que a indiciada compareceu naquela unidade visando a renovação de sua CNH. Após consultas de praxe, verificou que ela não possuía registro, ou seja, a CNH apresentada era falsa, sendo que acionou a Polícia Militar que, por sua vez, conduziu todos ao Plantão de Polícia Judiciária. Nesta Delegacia, constatou-se que a indiciada não possuía CNH e disse ter obtido tal documento junto a um despachante de Matão/SP, não sabendo precisar nome e nem indicar como localizá-lo. Afirmou que pagou cerca de R$ 2.500,00 ou R$ 3.000,00 pelo documento. O Delegado de Polícia que esta subscreve, ante o evidente uso de documento falso, deliberou pela lavratura do auto de prisão pelo crime de uso de documento público falso, não se arbitrando fiança criminal em razão de que a pena máxima supera o teto do artigo 322 do CPP" (fls. 15/16).
+Foi concedida a liberdade provisória à suplicante em 2 de dezembro de 2021 (fls. 63/64).
+ ..
+Inicialmente, tocante aos argumentos trazidos na impetração quanto à ausência de justa causa, e que discutem a atipicidade da conduta pela ocorrência de crime impossível, observo que se referem ao mérito da ação, cuja discussão ou obtemperação a respeito é incabível por meio desta via estreita e limitada do habeas corpus, que se afigura inapropriada para a análise de elementos subjetivos e probantes constantes dos autos ou, ainda, para a valoração de testemunhos, estando tal exame exclusivamente reservado para sede do processo, com garantia do contraditório e da ampla defesa, em respeito ao princípio constitucional do devido processo legal.
+ ..
+No caso, em análise perfunctória, existem elementos indicativos suficientes da autoria e materialidade delitiva, bem como da tipicidade da conduta.
+Observa-se que, pela conclusão do laudo pericial, a falsificação não era grosseira, tanto que somente notada depois de terem sido feitas pesquisas no sistema do Detran para localizar o registro da paciente, porém sem sucesso. De acordo com o laudo: "Apesar do espelho possuir elementos de segurança característicos de documentos verdadeiros, o documento possui sinais de adulteração sendo observados desgastes de lavagem química, afetando a tinta reagente a luz UV; película transparente não fosca; qualidade de impressão diversa dos padrões originais" (fls. 82/84).
+De outra parte, deve-se ressaltar que a paciente alegou ter obtido sua CNH na Auto Escola Objetivo; contudo, seu nome não estava registrado nos documentos do estabelecimento, conforme declarado pelo seu atual proprietário, em declarações policiais (fls. 105).
+Destarte, não há elementos de que tenha ocorrido crime impossível, sobretudo considerando-se o laudo pericial que atestou a falsidade, registrando, contudo, que o espelho do documento possuía elementos de segurança característicos de documentos verdadeiros, somente se verificando a falsificação por meio da utilização de tinta reagente à luz UV.
+No mais, a medida de exceção do trancamento somente se afigura razoável à vista, primus ictus oculi, de manifesta e induvidosa erronia no tocante à figura do agente ou no caso de ser irrecusável, certa e inquestionável a presença de justificativa excludente da tipicidade ou de dirimente prejudicial da punibilidade, o que não ocorre in casu.
+Como se observa, a conduta atribuída a insurgente, em tese, pode configurar crime, de tal sorte que, formalmente, nada obsta o procedimento investigativo.
+Além disso, existe justa causa para a deflagração do inquérito e não é inequívoca a tese de atipicidade da conduta. O acórdão recorrido evidenciou que, "em análise perfunctória, existem elementos indicativos suficientes da autoria e materialidade delitiva, bem como da tipicidade da conduta. Observa-se que, pela conclusão do laudo pericial, a falsificação não era grosseira, tanto que somente notada depois de terem sido feitas pesquisas no sistema do Detran para localizar o registro da paciente, porém sem sucesso" (fl. 210).
+Por certo, a alegação de crime impossível por falsificação grosseira demanda a análise valorativa de elementos probatórios nem sequer finalizados ou submetidos ao contraditório, providência manifestamente incabível na via estreita do remédio constitucional, não destinado à resolução de controvérsia sobre fatos.
+Nesse sentido:
+ ..
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que o trancamento de inquérito policial ou de ação penal em sede de habeas corpus é medida excepcional, só admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito (RHC n. 43.659/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 4/12/2014, DJe 15/12/2014)
+ ..
+(AgRg no RHC 161.050/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 31/3/2022, destaquei).
+Portanto, ausentes fatos novos ou teses jurídicas diversas, a permitir a análise do caso sob outro enfoque, deve ser mantida a decisão impugnada.
+À vista do exposto, nego provimento ao agravo regimental.
