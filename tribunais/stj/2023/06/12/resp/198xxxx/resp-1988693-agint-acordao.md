@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 227):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO DO EXECUTIVO FEDERAL. CESSÃO PARA OCUPAR FC-03, FC-04 E FC-05 EM ÓRGÃO DO PODER JUDICIÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE PLANO GERAL DE CARGOS DO PODER EXECUTIVO - GDPGPE. LEI Nº 11.357/2006. ACÓRDÃO RECORRIDO NA ORIGEM. EXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 126 DO STJ. RECURSO NÃO CONHECIDO.
+Nas razões do agravo interno, a parte agravante sustenta, em suma, que não se trata de matéria Constitucional, não havendo "uma forte violação à isonomia digna de ser levada ao Supremo - na realidade, não há ofensa alguma - mas apenas uma legitima escolha normativa por parte dos Poderes democráticos eleitos, que também são atores constitucionais e legítimos intérpretes da Constituição" (fl. 239).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CESSÃO PARA OCUPAR FUNÇÃO COMISSIONADA EM ÓRGÃO DO PODER JUDICIÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE PLANO GERAL DE CARGOS DO PODER EXECUTIVO - GDPGPE. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA N. 126 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamento constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. Incidência da Súmula n. 126 do STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na hipótese, cuida-se de pedido de concessão da Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo - GDPGPE a servidora cedida para o Poder Judiciário Federal.
+Em que pese a argumentação da agravante de que o presente caso não se trata de matéria Constitucional, tem-se que o Tribunal de origem negou provimento à apelação da União, utilizando-se de interpretação extensiva, com base no princípio da isonomia, ao assentar o seguinte (fls. 95-96):
+ ..  Como adrede mencionado, trata-se de recurso interposto contra sentença a qual julgou procedente o pedido de declaração do direito de recebimento da Gratificação de Desempenho de Plano Geral de Cargos do Poder Executivo - GDPGPE, a partir de janeiro de 2009, e que a União seja condenada a pagar os valores atrasados da referida gratificação, observado o limite de 05 anos anteriores ao ajuizamento da ação.
+ ..
+Esta a redação da legislação ora em voga:
+"Art. 7º-E. Os titulares dos cargos de provimento efetivo integrantes do PGPE quando não se encontrarem em exercício no respectivo órgão ou entidade de lotação somente farão jus à GDPGPE quando:
+I - requisitados pela Presidência ou Vice-Presidência da República ou nas hipóteses de requisição previstas em lei, situação na qual perceberão a GDPGPE calculada com base nas regras aplicáveis como se estivessem em efetivo exercício no respectivo órgão ou entidade de lotação . (Incluído pela Lei nº 11.907, de 2009) II- cedidos para órgãos ou entidades da União distintos dos indicados no inciso I do caput deste artigo e investidos em carpo de Natureza Especial, de provimento em comissão do Grupo-Direção e Assessoramento Superiores - DAS, níveis 6, 5. 4 ou equivalentes, e perceberão a GDPGPE calculada com base no resultado da avaliacão institucional do período; e (Incluído pela Lei nº 11.907. de 2009) III - cedidos para órgão ou entidade do Poder Executivo Federal e investidos em cargo em comissão DAS-3, DAS-2, DAS-1 ou em função de confiança ou equivalentes e perceberão a GDPGPE como disposto no inciso I do caput deste artigo".
+Do que se vê, o art. 7º-E da supramencionada lei autoriza a percepção da gratificação em discussão para servidores cedidos a órgãos da União não integrantes do Poder Executivo somente quando investidos/designados para cargos comissionados/funções equivalentes DAS 4 ou superior.
+Malgrado haja entendimento em sentido oposto, penso que a melhor solução ao caso foi dada em sentença proferida em caso análogo, pelo então magistrado da 23ª Vara da Seção Judiciária de Brasília, Vallisney de Souza Oliveira, nos autos da Ação Ordinária nº 2009.34.00.908062-5, cuja fundamentação para o deferimento do pedido fora o de que o estabelecimento de critérios para a percepção da gratificação em virtude do cargo/função exercido(a) pelo servidor deflagra evidente afronta ao comando constitucional da isonomia:
+"a situação dos cedidos iguala os servidores, individualizando-os nessa condição perante a administração pública. Portanto, não haveria ofensa à Constituição se a lei estabelecesse que todos os servidores cedidos não perceberiam a GDPGPE. Ao contrário, a lei estabelece hipótese em que servidores cedidos não receberão a gratificação e outras hipóteses em que os servidores cedidos não receberão, o que atenta contra o tratamento isonômico exigido pela Carta Magna.
+Observa-se que não se trata de critério meritório de avaliação de desempenho de servidor, mas de mero critério objetivo que trata desigualmente servidores em igual condição".
+Enfatize-se que a sentença paradigma ora em exposição foi mantida pela 2ª Turma Recursal de Brasília, situação em que culminou na interposição do ARE 741035/DF, distribuído à Ministra Rosa Weber, que lhe negou seguimento (trânsito em julgado em 18 AGO 2015).
+Nesse contexto, sem razão a agravante, pois a partir da leitura do acórdão recorrido, observa-se que a Corte decidiu a controvérsia, efetivamente, sob a ótica constitucional, baseada no princípio da isonomia, indicando precedente jurisprudencial do STF, e infraconstitucional, situação que exige o manejo não só do Recurso Especial, mas também do Recurso Extraordinário, o que não ocorreu, atraindo a aplicação da Súmula 126 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. NEPOTISMO. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. VERBETE SUMULAR N. 126/STJ.
+ ..
+4. "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamento constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Súmula n. 126 do STJ).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.522.453/SE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AFASTAMENTO SEM PREJUÍZO DA REMUNERAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 20, § 4º, DA LEI N. 8.112/1990. ACÓRDÃO RECORRIDO NA ORIGEM. EXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 126 DO STJ. INEXISTÊNCIA DE EQUÍVOCA NA ESCOLHA RECURSAL. INAPLICABILIDADE DO ART. 1.032 DO CPC. AGRAVO INTERNO IMPROVIDO.
+ ..
+II - O Tribunal de origem, ao analisar a controvérsia, asseverou que: "Esta Corte tem se posicionado no sentido de que, embora haja omissão da lei quanto a servidor federal aprovado em concurso para outro cargo na Administração Pública Estadual, o direito à percepção dos vencimentos do cargo deve ser deferido, em homenagem ao princípio da isonomia. (..) Portanto, "O funcionário público federal, ainda que em estágio probatório, tem direito de afastar-se do exercício do cargo, com opção pela remuneração respectiva, para participar de curso de formação profissional para provimento de cargo da administração estadual, em homenagem ao princípio da isonomia"  .. ."
+III - Constata-se que, além de fundamento infraconstitucional, a decisão recorrida contém fundamento constitucional suficiente para mantê-la.
+IV - Não obstante tal fundamentação, nem sequer foi apresentado recurso extraordinário em desfavor do acórdão recorrido. Assim, o exame da questão é obstado pelo disposto na Súmula n. 126/STJ: "É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."  ..  VII - Agravo interno improvido.
+(AgInt no AREsp n. 1.683.812/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONCURSO PÚBLICO. EXAME FÍSICO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. FUNDAMENTOS CONSTITUCIONAIS.
+SÚMULA 126/STJ.
+ ..
+2. Observa-se na leitura do acórdão objurgado que a Corte a quo decidiu a controvérsia sob a ótica constitucional - princípios da isonomia e da impessoalidade, juntando precedente jurisprudencial do STF - e infraconstitucional, situação que exige o manejo não só do Recurso Especial, mas também do Recurso Extraordinário. Entretanto o recorrente não interpôs o cabível Apelo Extraordinário, atraindo a aplicação da Súmula 126 do STJ.
+3. Assim, é inviável o exame dos argumentos deduzidos no Agravo Interno, uma vez que a decisão está bem fundamentada e consonante com a jurisprudência do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.836.918/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2020, DJe de 1/10/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
