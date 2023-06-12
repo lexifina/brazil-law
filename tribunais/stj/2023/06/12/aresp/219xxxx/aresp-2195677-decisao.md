@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por SUL AMERICA COMPANHIA DE SEGURO SAUDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 70):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE RECONHECIMENTO DE QUE OS CÁLCULOS EFETUADOS PELA CONTADORIA E HOMOLOGADOS NA ORIGEM ESTÃO EIVADOS DE EXCESSO. QUESTÃO NÃO SUBMETIDA A ANÁLISE PELO JUÍZO "A QUO". SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO CONHECIDO.
+Rejeitados os embargos de declaração opostos (fl. 107).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 757 do CC e 502 e 505 do CPC, pois o acórdão teria determinado reembolso acima do previsto no contrato e no título executivo judicial.
+Ademais, argumenta que o art. 884 do CC teria sido violado, pois o excesso de execução configuraria enriquecimento ilícito.
+Foram oferecidas contrarrazões ao recurso especial (fls. 113-121).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 124-126), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 142-149).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não prospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a aduzir o excesso de execução e a alegar, genericamente, ofensa ao art. 1.022 do CPC, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Quanto à alegada violação do art. 1.022 do CPC/2015, a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão que supostamente teriam ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Tal circunstância atrai, portanto, a incidência da Súmula n. 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(AgInt no REsp n. 1.684.404/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 27/6/2022.)
+V - Ademais, quanto à alegação de negativa de prestação jurisdicional, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente, além de ter apontado violação genérica do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia. Nesse sentido, o Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018.)
+ ..  (AgInt no AREsp n. 1.985.639/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/6/2022.)
+Da análise do acordão recorrido, observa-se que o Tribunal de origem não conheceu do agravo de instrumento do recorrente a respeito do excesso de execução tendo em vista que a parte não se insurgiu quanto aos cálculos oportunamente no juízo de primeiro grau, permitindo a preclusão da matéria.
+Veja-se o que constou do acórdão recorrido (fl. 71):
+Após a elaboração dos cálculos pela contadoria (pág. 437 dos autos de origem), as partes foram intimadas e a agravante, em duas oportunidades, manifestou ciência sobre referido documento (págs. 440 e 447 dos autos de origem), não apresentando qualquer insurgência acerca do montante apurado. Por este motivo, o Juízo a quo homologou os cálculos (pág. 59). Agora, nas razões recursais, a agravante sustenta que o valor apurado não está correto, asseverando que já quitou o montante devido nos limites contratuais e do que foi determinado judicialmente. Todavia, essa matéria não foi arguida na origem e, portanto, não pode esta C. Corte analisá-la, sob pena de incorrer em indesejável supressão de instância.
+Assim , verifica-se que a Corte de origem não analisou, s equer implicitamente, os arts. 757 e 884 do CC e 502 e 505 do CPC, nem analisou o excesso de execução, para não incorrer em supressão de instância.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal:
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Neste sentido:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
