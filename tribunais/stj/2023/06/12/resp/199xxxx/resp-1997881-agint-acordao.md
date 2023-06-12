@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ELZIRA ALBERTO (ELZIRA) ajuizou ação de ressarcimento e indenização por danos materiais e morais contra BROOKFIELD SPE SP-7 S.A./TGSP-7 SPE EMPREENDIMENTOS IMOBILIÁRIOS LTDA./ERBE INCORPORADORA 067 LTDA. (BROOKFIELD) e CONDOMÍNIO DOCE LAR BELLA COLONIA (CONDOMÍNIO), diante do atraso na entrega de imóvel adquirido.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para condenar BROOKFIELD a pagar a ELZIRA a) a título de lucros cessantes, a prestação mensal no valor correspondente a 0,5% do valor atualizado do contrato, desde a data em que deveria ter sido entregue (dezembro/2014) até quando efetivamente o foi (20 de dezembro de 2016), considerando-se o valor médio de mercado para locação, incidindo correção monetária pela Tabela Prática do TJSP a partir do efetivo vencimento, acrescidas de juros de mora de 1% ao mês desde a citação; e b) as taxas condominiais cobradas e pagas anteriormente à imissão na posse (meses de julho/2015 a janeiro/2017), de forma simples, conforme os parâmetros previstos nesta sentença, corrigidas dos efetivos desembolsos e juros legais a partir da citação. Com relação aos ônus sucumbenciais, ELZIRA foi condenada a arcar com 60% das despesas processuais e verba honorária de 10% sobre o valor atualizado da causa e a parte ré com 40% daquele encargo e verba advocatícia de 20% da condenação (e-STJ, fls. 482/502).
+Os embargos de declaração opostos pelo CONDOMÍNIO foram rejeitados (e-STJ, fl. 536/537).
+Irresignados, BROOKFIELD, de um lado, e CONDOMÍNIO, de outro, interpuseram apelações, sendo a daquela desprovida e a desta provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Desembargador COSTA NETTO, assim ementado:
+APELAÇÃO - AÇÃO DE RESSARCIMENTO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - ATRASO NA ENTREGA DE CHAVES - Mora da ré verificada - Data do habite-se ou dificuldade em contratar mão-de-obra irrelevantes - Documento juntado pela ré que comprova o pagamento sempre em dia pela autora - Lucros cessantes presumidos - Súmula 162, deste TJSP - Encargos devidos pela construtora até a data de entrega de chaves - Ilegitimidade do Condomínio - Acolhimento - Sentença reformada em parte - Recurso do condomínio réu provido e da ré incorporadora desprovido (e-STJ, fl. 609).
+Os embargos de declaração opostos pelo CONDOMÍNIO foram acolhidos para sanar omissão referente ao reconhecimento da ilegitimidade da parte, impondo a ELZIRA o reembolso das despesas processuais que teve e o pagamento de honorários advocatícios sucumbenciais correspondentes a 10% do valor atualizado da causa (e-STJ, fls. 656/658).
+O apelo nobre interposto por BROOKFIELD não foi provido, nos termos da decisão monocrática de minha relatoria, assim ementada:
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. OPERAÇÃO ANTERIOR À LEI Nº 13.786/2018. (1) LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. PRECEDENTES. (2) MARCO DA ENTREGA DA OBRA. PRETENSÃO DE SER ADOTADA A EXPEDIÇÃO DO HABITE-SE. ARESTO QUE FIXOU A EFETIVA IMISSÃO NA POSSE PELA COMPRADORA. MODIFICAÇÃO DA CONCLUSÃO. NEGATIVA DE CABIMENTO. SÚMULA Nº 7 DO STJ. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. CORTE BANDEIRANTE QUE CONSIDEROU QUE HOUVE O CUMPRIMENTO REGULAR DO CONTRATO CELEBRADO ENTRE AS PARTES PELA ADQUIRENTE DOS BENS. REVISÃO. SÚMULAS NºS 5 E 7 DO STJ. RESPONSABILIDADE PELAS TAXAS CONDOMINIAIS ANTERIORES À ENTREGA DAS CHAVES. INCORPORADORA. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO
+Nas razões do presente agravo interno, BROOKFIELD sustentou (1) ser incabível a incidência de lucros cessantes na medida em que a) suportou dupla penalização pelo mesmo fato na medida em que já havia previsão contratual de cláusula penal moratória (Tema n.º 970 do STJ); b) não foram provados; e (2) houve infringência ao princípio do pacta sunt servanda, pois o contrato firmado estabelecia que eventual condenação pelo atraso na entrega deveria se limitar à data da expedição do habite-se.
+Não foi apresentada impugnação (e-STJ, fl. 709).
+É o relatório.
+EMENTA
+CIVIL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. OPERAÇÃO ANTERIOR À LEI N.º 13.786/2018. EXISTÊNCIA DE CLÁUSULA PENAL QUE IMPOSSIBILITA OS LUCROS CESSANTES E CONDENAÇÃO QUE DEVE SE LIMITAR À EXPEDIÇÃO DE HABITE-SE. INOVAÇÃO RECURSAL. LUCROS CESSANTES DEVIDOS. PRESUNÇÃO DE EXISTÊNCIA DE PREJUÍZO. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inviável a análise das questões atinentes à impossibilidade de condenação em lucros cessantes tendo em vista existência de cláusula penal e limitação da condenação até a data da expedição do habite-se, por se tratarem de matéria que foi suscitada apenas em agravo interno, constituindo, portanto, inovação recursal.
+2. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n.º 568 do STJ.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, BROOKFIELD alegou (1) ser incabível a incidência de lucros cessantes na medida em que 1.a) suportou dupla penalização pelo mesmo fato na medida em que já havia previsão contratual de cláusula penal moratória (Tema n.º 970 do STJ); 1.b) não foram provados; e (2) que houve infringência ao princípio do pacta sunt servanda, pois o contrato firmado estabelecia que eventual condenação pelo atraso na entrega deveria se limitar à data da expedição do habite-se.
+Inicialmente, quanto aos pedidos de 1.a) afastamento dos lucros cessantes porque não podem eles incidirem quando há previsão contratual de cláusula penal moratória, sob pena de incidir dupla penalização pelo mesmo fato (Tema n.º 970 do STJ), e de (2) infringência ao princípio do pacta sunt servanda, pois o contrato firmado estabelecia que eventual condenação pelo atraso na entrega deveria se limitar à data da expedição do habite-se, verifica-se que tais alegações não foram apreciadas na decisão agravada tendo em vista que não foram objeto, nos moldes como agora levantadas, das razões do recurso especial anteriormente interposto por BROOKFIELD.
+Diz-se isso uma vez que, em seu apelo nobre, BROOKFIELD defendeu a inexistência de lucros cessantes sob o enfoque de ausência de prova dos mencionados danos e que o princípio do pacta sunt servanda teria sido violado ao defender que havia cláusula contratual prevendo a responsabilidade dos adquirentes pelas taxas condominiais anteriores a entrega das chaves.
+Desta feita, inviável a análise das questões acima destacadas, por se tratar de matéria que foi suscitada apenas em agravo interno, constituindo, portanto, inovação recursal.
+Nesse sentido, veja-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CÉDITO RURAL. OBRIGAÇÃO CONTIDA NA SENTENÇA COLETIVA. LIQUIDAÇÃO. NECESSIDADE. INOVAÇÃO RECURSAL. INVIABILIDADE.
+ ..
+3. Fica inviabilizado o conhecimento de matéria suscitada somente no agravo interno, por se tratar de indevida inovação recursal. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.002.360/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022 - destacou-se)
+(1.b) Da incidência dos lucros cessantes
+BROOKFIELD também sustentou a ilegalidade da incidência dos lucros cessantes na presente hipótese, tendo em vista que ELZIRA não os comprovou.
+Sobre o tema, o v. acórdão recorrido entendeu serem eles presumidos ao consignar que:
+Quanto aos lucros cessantes, estes decorrem do simples fato de não poder o adquirente usar de sua propriedade.
+Cumpre dizer: não apenas a posse, mas também a impossibilidade de uso, gozo, e fruição do imóvel justificam referida modalidade indenizatória.
+Por isto, a jurisprudência pacífica considera presumidos os danos indenizados a este título, entendimento este encartado na Súmula162, deste E. Tribunal de Justiça:
+Súmula 162 - Descumprido o prazo para a entrega do imóvel objeto do compromisso de venda e compra, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, independentemente da finalidade do negócio (e-STJ, fls. 612/613).
+Como se vê dos fundamentos transcritos, o conteúdo decisório do Tribunal estadual está em harmonia com o entendimento desta Corte Superior, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promitente-comprador.
+Nesse sentido, vejam-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADIMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. SÚMULA 568/STJ. MULTA DO ART. 1.021, §4º, DO CPC. INAPLICABILIDADE.
+ ..
+5. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente da Segunda Seção do STJ.
+6. Quanto à multa estabelecida no § 4º do art. 1.021 do CPC, a Segunda Seção deste STJ definiu que sua aplicação "pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp 1.120.356/RS, 2ª Seção, DJe de 29/08/2016), o que não se verifica na hipótese.
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.047.783/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE IMÓVEL. JULGAMENTO EXTRA PETITA. SÚMULAS 282 E 356/STF. AUSÊNCIA DE ATRASO NA ENTREGA DA OBRA. SÚMULAS 5 E 7/STJ. LUCROS CESSANTES. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário-comprador.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.975.781/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 13/2/2023, DJe de 28/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA. CULPA. PROMITENTE VENDEDOR. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ. LUCROS CESSANTES. PRESUNÇÃO.
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese em que o atraso na entrega do imóvel ocorre por culpa do promitente vendedor, o prejuízo do promitente comprador é presumido, o que enseja o pagamento de lucros cessantes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.974.111/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022)
+Assim, aplicável, na espécie, a Súmula n.º 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o agravo.
