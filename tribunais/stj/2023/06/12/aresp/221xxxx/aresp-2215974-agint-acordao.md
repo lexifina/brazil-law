@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  contra  decisão que negou provimento ao  agravo em recurso  especial  em  razão  da  deserção.
+A parte agravante sustenta que poderia ter sido aplicado ao caso o "art. 932, parágrafo único do CPC, porquanto não se tratou de hipótese de não recolhimento do preparo, mas sim erro sanável decorrente do equívoco da não juntada do comprovante de pagamento das custas estaduais, pois juntou apenas o comprovante de agendamento" (fl. 1.479).
+Requer o  provimento  do  agravo  interno  para  o  devido  processamento  e  provimento  do  recurso  especial ou que seja o recurso levado a julgamento pelo órgão colegiado.
+Contrarrazões não apresentadas (fl. 1.487).
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal. Súmula n. 187 do STJ
+2. Agravo interno desprovido.
+VOTO
+O  recurso  não  reúne  condições  de  êxito.
+Verifica-se que a decisão agravada negou provimento ao agravo em recurso especial, pois, quando da interposição do recurso especial, não foi devidamente comprovado o recolhimento do preparo recursal.
+Determinou-se, ainda no Tribunal de origem, a intimação da parte para apresentar o comprovante de pagamento e recolher as custas em dobro, na forma do § 4º do art. 1.007 do Código de Processo Civil (fl. 1.426).
+A parte recorrente, por sua vez, limitou-se a argumentar que os documentos juntados aos autos eram aptos para comprovar o pagamento do preparo e a requerer o recebimento do recurso com o recolhimento simples (fls. 1.428-1.430).
+O recurso especial foi considerado deserto pela Vice-Presidência do Tribunal de origem, ensejando a interposição de agravo em recurso especial, direcionado ao STJ.
+Como visto, a parte agravante , embora regularmente intimada para sanar o vício em questão, não atendeu à integralidade da determinação, pois se limitou a efetuar a complementação simples do preparo, quando era necessário o recolhimento em dobro, conforme prevê o art. 1.007, § 4º, do CPC. Portanto, o recurso não foi devida e oportunamente regularizado.
+É firme o entendimento do STJ de que a comprovação do preparo do recurso especial se faz mediante a juntada das guias de recolhimento devidamente preenchidas e dos respectivos comprovantes de pagamento, de forma legível e visível, no momento da interposição, sob pena de não conhecimento.
+Dessa forma, considera-se deserto o recurso se, após realizada a intimação nos termos do art. 1.007, § 4º, do CPC, a parte recorrente não comprovar a complementação do preparo mediante o pagamento em dobro.
+Correta, pois, a aplicação da Súmula n. 187 do STJ.
+A propósito, confiram-se os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. CUSTAS ESTADUAIS. GRERJ. VALOR INSUFICIENTE, MESMO APÓS INTIMAÇÃO PARA REGULARIZAÇÃO DO RECOLHIMENTO. RECURSO ESPECIAL DESERTO.
+1. De acordo com a jurisprudência deste Superior Tribunal, é considerado deserto o recurso especial quando a parte recorrente, mesmo após ser devidamente intimada para efetuar o recolhimento das custas processuais estabelecidas em ato normativo da Corte estadual, realiza pagamento insuficiente. Aplicação da Súmula 187/STJ.
+2. A análise da questão do preparo no Tribunal de origem remete à análise de norma local, o que atrai a incidência da Súmula 280/STF.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.056.840/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/6/2020, DJe de 18/6/2020, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. RECURSO ESPECIAL. PREPARO. RECOLHIMENTO NÃO COMPROVADO POR OCASIÃO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO NÃO ATENDIDA. AGENDAMENTO DE PAGAMENTO QUE NÃO PODE SER CONSIDERADA COMO PAGAMENTO EFETIVO. DESERÇÃO. SÚMULA N.º 187 DO STJ. JUÍZO DE PRELIBAÇÃO. BIFÁSICO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Na linha dos precedentes desta Corte Superior, o agendamento de pagamento não é suficiente para comprovar o pagamento do preparo.
+3. No caso dos autos, não comprovado o recolhimento do preparo no ato de interposição do recurso e a parte, intimada para efetuar o recolhimento em dobro, deixou de cumprir a determinação nos termos regulamentares.
+3. O juízo de prelibação é bifásico, ou seja, o primeiro juízo realizado no Tribunal estadual não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana em relação àquele.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.132.627/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022, destaquei.)
+PROCESSUAL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. PREPARO. CUSTAS ESTADUAIS. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 187 DO STJ. PRECLUSÃO LÓGICA. VENIRE CONTRA FACTUM PROPRIUM. PEDIDO POSTERIOR QUE NÃO AFASTA A DESERÇÃO JÁ RECONHECIDA DIANTE DA IRRETROATIVIDADE DE SEUS EFEITOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recolhimento parcial das custas se mostra incompatível com o pleito de concessão dos benefícios da assistência judiciária gratuita. Aplicação do venire contra factum proprium.
+3. Se após intimada, a parte não recolheu importância devida a título de custas, de acordo com a legislação local, deve ser declarada a deserção do recurso especial, aplicando-se a Súmula nº 187 do STJ.
+4. Nos termos da jurisprudência desta Corte, o deferimento da assistência judiciária gratuita não possui efeito retroativo. Precedentes.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.164.394/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2018, DJe de 5/4/2018, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DO COMPROVANTE DE PAGAMENTO DO PREPARO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHER EM DOBRO. RECOLHIMENTO SIMPLES. INCIDÊNCIA DA SÚMULA 187/STJ. DESERÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, quando da interposição do recurso especial, não foi comprovado o pagamento do preparo recursal, apesar de juntada a guia de recolhimento. Por isso, a parte recorrente foi intimidada para realizar o recolhimento em dobro do preparo recursal, nos termos do art. 1.007, §4º, do CPC.
+2. Ocorre que a parte recorrente não atendeu no prazo estipulado a integralidade da determinação da Presidência, uma vez que, em que pese tenha juntado o comprovante de pagamento que faltava, deixou de trazer aos autos comprovante de pagamento do complemento do preparo, uma vez que era necessário seu recolhimento em dobro, na forma do artigo 1.007, §4, do CPC.
+3. Registra-se que não há falar em enriquecimento ilícito na exigência de recolhimento do preparo em dobro no caso de irregularidade do preparo anterior, por conta da ausência do comprovante de pagamento por ocasião da interposição do recurso especial.
+4. O Superior Tribunal de Justiça firmou entendimento no sentido de que é imprescindível que os recursos interpostos para esta Corte Superior estejam acompanhados não só das guias de recolhimento devidamente preenchidas, mas também dos comprovantes de pagamento, sob pena de deserção. Destarte, conclui-se que, de fato, se fazia devido o comprovante de pagamento em dobro do preparo recursal, sendo insuficiente o comprovante do preparo simples.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.946.252/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. PREPARO. DESPACHO. REGULARIZAÇÃO. ACLARATÓRIOS. DESCABIMENTO. PAGAMENTO EM DOBRO. ARTIGO 1007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte para regularizar o preparo recursal, uma vez que tal ato não possui natureza decisória. Precedentes.
+3. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para a sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC/2015, sob pena de deserção.
+Precedentes.
+4. No caso, ao constatar que o recurso em mandado de segurança foi protocolado, na origem, sem as guias de recolhimento do preparo, apesar de presente o comprovante de pagamento, a Presidência desta Corte proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC/2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+5. Agravo interno não provido. (AgInt nos EDcl no RMS n. 67.687/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022, destaquei.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. COMPROVANTE DE RECOLHIMENTO DE CUSTAS ILEGÍVEL. ART. 1.007, § 4º, DO CPC/2015. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO, COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ.
+1. Como cediço, uma vez deferido prazo para regularização das custas, com o recolhimento em dobro, conforme previsto no art. 1.007, § 4º, do CPC/2015, a insuficiência do preparo provoca a deserção do recurso, e mostra-se inviável a concessão de nova oportunidade de retificação, nos termos do disposto no § 7º do referido preceito legal.
+2. Caso concreto em que, nada obstante deferido ao agravante prazo para regularização do preparo, mediante seu recolhimento em dobro, limitou-se ele a juntar cópia, desta feita legível, do comprovante de recolhimento de custas, sem, contudo, realizar a complementação do referido preparo, nos termos do § 4º do art. 1.007 do CPC/2015, como havia sido determinado no despacho de fl. 497.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.842.869/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/9/2021, DJe de 14/9/2021, destaquei.)
+Assim,  considerando  que  a  parte  agravante  não  comprovou  devidamente  o  recolhimento  do  preparo,  é  de  rigor  a  manutenção  da  decisão  que  não  conheceu  do  recurso  em  razão  d e sua  deserção.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
