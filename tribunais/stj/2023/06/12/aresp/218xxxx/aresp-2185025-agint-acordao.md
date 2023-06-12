@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE em face de decisão assim ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE ILEGALIDADE. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULAS 283/STF. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante destacada que impugnou de maneira suficientes todos os fundamentos do acórdão recorrido, de modo que não haveria falar em incidência da Súmula 283/STF. Ademais, aponta que não pretende o revolvimento de fatos e provas, buscando afastar o óbice da Súmula 7/STJ.
+A parte agravada apresentou contraminuta às fls. 892/903 e 906/908 e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE ILEGALIDADE. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULAS 283/STF. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Ministério Público do Estado do Rio Grande do Norte ajuizou ação civil pública por ato de improbidade administrativa em razão da frustração da licitude ou da dispensa indevida de processo licitatório que teriam culminado em lesão ao erário.
+2. O Tribunal de origem concluiu pela improcedência da demanda à consideração de que "a conduta das empresas recorrentes não passou de mera irregularidade, visto que, além da existência de recursos públicos para a contratação, as contratadas cumpriram os termos do contrato a que estavam sujeitos, de modo que não justifica a condenação a elas imposta" (fl. 786 e-STJ).
+3. No recurso especial, por sua vez, o recorrente tão somente alega que a contratação direta mediante dispensa indevida de licitação seria suficiente para a procedência da demanda. Assim sendo, o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmu la 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+4. O Tribunal de origem pautou sua conclusão a partir das provas juntadas aos autos, de modo que não é possível o reconhecimento da tese do recorrente no sentido de que , o que, como cediço, é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+Como bem destacado na decisão agravada, na hipótese dos autos, o Ministério Público do Estado do Rio Grande do Norte ajuizou ação civil pública por ato de improbidade administrativa em razão da frustração da licitude ou da dispensa indevida de processo licitatório que teriam culminado em lesão ao erário.
+O Tribunal de origem reformou a sentença de procedência da ação à consideração de que não houve prejuízo ao erário. A propósito, os seguintes fundamentos (fl. 786 e-STJ):
+Percebe-se nos autos que, de fato, havia recursos suficientes para a execução do contrato de prestação dos serviços publicitários de propaganda institucional, tanto que o serviço de publicidade foi efetivamente prestado por parte das embargantes.
+A conduta apurada revolve a matéria relativa à prorrogação do contrato de prestação de serviço por meio de aditivos contratuais, já que os embargantes, agências de publicidade, submeteram ao processo de concorrência pública destinado à contratação do serviço de publicidade, sendo apenas os aditivos dispensados do certame.
+Com efeito, diante dessa constatação, é imperioso considerar que a conduta das empresas recorrentes não passou de mera irregularidade, visto que, além da existência de recursos públicos para a contratação, as contratadas cumpriram os termos do contrato a que estavam sujeitos, de modo que não justifica a condenação a elas imposta.
+Dessa forma, está-se a sanar a omissão apontada pelo Superior Tribunal de Justiça, no Recurso Especial interposto pela ARMAÇÃO PROPAGANDA & VIALINEAR EVENTOS LTDA., BRIZA PROPAGANDA E PROMOÇÕES LTDA. E RAF COMUNICAÇÃO & MARKETING LTDA e, por conseguinte, reconhecer que a conduta apurada não consistiu improbidade administrativa.
+Verifica-se, portanto, que o Tribunal de origem não reconheceu a prática de ato de improbidade administrativa ante a ausência de ilegalidade na hipótese, pois havia recursos público para a contratação e o serviço foi integralmente prestado.
+No recurso especial, por sua vez, o recorrente tão somente alega que não se afigura possível admitir a existência de contratação direta mediante dispensa indevida de licitação - fato tido por inquestionável no acórdão - e, ao mesmo tempo, entender pelo não enquadramento da conduta no art. 10, VIII, da Lei 8.429/92 (fl. 803 e-STJ).
+Dessa forma, reitera-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Com efeito, os fundamentos em destaque no agravo interno ora em julgamento não buscam desconstituir tais peculiaridades presentes no acórdão recorrido e que ensejaram a improcedência da ação. Afinal, apenas busca o reconhecimento da tese de que a improbidade decorreria diretamente da ilegalidade decorrente da dispensa indevida de licitação.
+A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO.
+RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..  3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Ademais, o Tribunal de origem pautou sua conclusão a partir das provas juntadas aos autos, de modo que não é possível o reconhecimento da tese do recorrente no sentido de que , o que, como cediço, é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+Quanto ao ponto, também deve ser mantida a decisão agravada, eis que conclusão contrária à expendida no acórdão recorrido não decorre de sua interpretação, de modo que não há falar em revaloração possível em sede de recurso especial.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+IMPROBIDADE ADMINISTRATIVA. MALFERIMENTO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REVISÃO DO ELEMENTO SUBJETIVO DA CONDUTA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Em relação ao art. 1.022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão ou ausência de fundamentação, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe de 17/6/2016; REsp 1.078.082/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 2/6/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 9/5/2016; REsp 1.583.522/SP, Rel.
+Ministro Humberto Martins, Segunda Turma, DJe de 22/4/2016.
+2. Relativamente às condutas descritas na Lei n. 8.429/1992, esta Corte Superior possui firme entendimento de que a tipificação da improbidade administrativa, para as hipóteses dos arts. 9º e 11, reclama a comprovação do dolo e, para as hipóteses do art. 10, ao menos culpa do agente.
+3. Na espécie, o Tribunal de origem consignou que não houve ato de improbidade administrativa por parte do demandado e que não ficou demonstrado o elemento subjetivo em sua conduta.
+4. A modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, conforme teor da Súmula 7/STJ.
+5. Ressalto que esta Corte Superior tem a diretriz de que improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo, sendo indispensável, para a caracterização de improbidade, que a conduta do agente seja dolosa para a tipificação das condutas descritas nos arts. 9º e 11 da Lei n.
+8.429/1992, ou, pelo menos, eivada de culpa grave nas do art. 10 (AIA 30/AM, Rel. Min. Teori Albino Zavascki, DJe 28/9/2011). O que não ocorreu na hipótese.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.928.057/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/9/2021, DJe de 8/10/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
