@@ -1,0 +1,111 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  porela  COMPANHIA  BRASILEIRA  DE  DISTRIBUIÇÃO  contra  decisão  de  minha  lavra,  e-STJ  fls.  1.293/1.300,  em  que  neguei  provimento  à  parte  conhecida  do  recurso  especial.
+Na  decisão  agravada,  destaquei  a  ausência  de  vício  de  integração  no  julgado  de  origem,  a  incidência  da  Súmula  211  do  STJ,  das Súmulas  283  e  284  do  STF,  e  a  existência  de  fundamentação  constitucional  no  julgado  recorrido.
+Nas  razões  de  agravo  interno  (e-STJ  fls.  1.305/1.313),  a  agravante:
+(i) reitera a alegação de omissão no julgado recorrido em relação à aplicação, ao caso, do decidido "no mandado de segurança nº 0022299- 89.2012.8.26.0053, o qual estabeleceu que os débitos tributários estaduais devem ser atualizados pela Selic";
+(ii) procura afastar a incidência da Súmula 283 do STF, dizendo que impugnou a fundamentação do julgado recorrido ao apontar que a Portaria CAT n. 99/05, que alterou os padrões dos arquivos magnéticos, "  não  estava  vigente  à  época  da  confecção  dos  arquivos";
+(iii) afirma que a argumentação do recurso é suficiente para  rechaçar  o  fundamento  do  acórdão  recorrido,  em especial quando aponta violação do art. 100, parágrafo único, do CTN;
+(iv) entende ser processualmente viável a análise do alegado desrespeito ao art. 97 do CTN, pois "a reprodução da regra constitucional não afasta o fato de que a discussão versa sobre legislação federal";
+(v) defende a inaplicabilidade, ao caso, da Súmula 211/STJ, pois teria desenvolvido tópico específico no recurso para tratar da questão e opôs "os competentes embargos de declaração em face do acórdão, inclusive para fins de prequestionamento, trazendo o aludido artigo indicado na decisão ora agravada".
+Sem  impugnação  (e-STJ  fl.  1.318).
+É  o  relatório
+EMENTA
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO OCORRÊNCIA.  FUNDAMENTO  INATACADO.  IRRESIGNAÇÃO.  DEFICIÊNCIA. QUESTÃO CONSTITUCIONAL. EXAME. INADEQUAÇÃO. PREQUESTIONAMENTO.  AUSÊNCIA.
+1.  Inexiste  ofensa  ao  art.  1.022  do  CPC/2015  quando  o  Tribunal  de  origem  se  manifesta  de  modo  fundamentado  acerca  das  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  porquanto  julgamento  desfavorável  ao  interesse  da  parte  não  se  confunde  com  negativa  ou  ausência  de  prestação  jurisdicional.
+2. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, e a tese recursal destoa do decidido pela Corte de origem.
+3. Tendo o Tribunal local dirimido a questão com base em fundamentação constitucional (princípio da l egalidade), evidencia-se a inviabilidade do manejo do recurso especial, sob pena de usurpação da competência da Suprema Corte.
+4.  O STJ  tem  firme  posicionamento  pela  natureza  constitucional  da  tese  de  violação  do  art.  97  do  CTN,  tendo  em  vista  reproduzir  a  norma  do  art.  150  da  Constituição  Federal  .
+5.  Há  manifesta  ausência  de  prequestionamento,  a  atrair  a  aplicação  da  Súmula  211  do  STJ,  quando  o  conteúdo  do  preceito  legal  tido  por  contrariado  não  é  examinado  na  origem,  mesmo  após  opostos  embargos  de  declaração.
+6.  Agravo  interno  desprovido.
+VOTO
+Em  que  pesem  os  fundamentos  deduzidos  no  recurso,  a  parte  agravante  não  trouxe  nenhum  argumento  capaz  de  alterar  o  decisum  atacado.
+Na  origem,  a  recorrente  ajuizou  embargos  à  execução  para  discutir  a legalidade da aplicação da multa que lhe foi imposta (ao deixar de apresentar os arquivos magnéticos no formato determinado pela Portaria CAT n. 99/05, para comprovar a origem dos créditos de ICMS aproveitados), bem como a forma de atualização monetária da penalidade prevista na  Lei  estadual  n.  13.918/2009  de  São  Paulo.
+Os  pedidos  foram  julgados  improcedentes  em  primeiro  grau  de  jurisdição  (e-STJ  fls.  1.089/1.091).
+O  Tribunal  de  origem  negou  provimento  ao  recurso  de  apelação  com  apoio  nos  seguintes  fundamentos  do  julgado  (e-STJ  fls.  1.142/1.161):
+Quanto  ao  mérito,  ressalta-se,  que  o  débito  é  proveniente  da  lavratura  do  AIIM  de  nº  3.078.786-5  (fls.  101/104)  em  razão  de  creditamentos  procedidos  pela  empresa  embargante,  que  não  foram  comprovados,  portanto,  não  preencheu  aos  requisitos  da  Portaria  CAT  17/99.
+Outrossim,  não  merece  guarida  alegação  no  tocante  ao  layout  dos  arquivos  magnéticos  a  serem  apresentados  à  fiscalização,  quanto  às  alterações  contidas  pela  Portaria  CAT  99/05  na  Portaria  CAT  17/99,  vez  que  não  há  que  se  falar  em  retroatividade  tributária.
+No  caso  em  escopo,  o  que  ocorreu  foi  uma  simples  atualização  no  tocante  à  forma  do  cumprimento  de  obrigação  acessória  tributária.
+Assim,  o  art.  113,  §  2º,  do  CTN,  prevê:
+ ..
+Portanto,  as  Portarias  CAT  sendo  uma  espécie  das  fontes  da  legislação  tributária  (art.  96),  estão  sujeitas  ao  princípio  do  tempus  regit  actum  (art.  105  do  CTN).
+Ademais,  as  Portarias  CAT  não  diz  respeito  ao  fato  gerador,  propriamente  dito,  tão  somente,  definem  os  padrões  dos  arquivos  magnéticos  onde  devem  ser  incluídas  as  informações  atinentes  ao  fato  gerador,  desse  modo,  não  há  que  se  cogitar  a  ilegalidade  da  CAT  99/05.
+Para  tanto,  destaca-se,  pois,  trechos  da  r.  sentença  monocrática  (fls.  1.089/1.091),  "in  verbis":
+" ..
+O  mérito  da  presente  demanda  cinge-se  à  cobrança  da  multa  punitiva  e  dos  juros  de  mora  aplicados  mediante  Auto  de  Infração  3.078.786-5,  salientando  a  embargante  que  a  discussão  acerca  da  incidência  do  imposto  é  objeto  de  processo  diverso  (embargos  à  execução  fiscal  nº  0146237-77.2012.8.26.0100,  correlato  à  execução  Fiscal  nº  0613285-56.0089.8.26.0014).
+Assim,  passo  a  análise  da  alegada  ilegalidade  da  multa  imposta.
+No  caso,  suscita  a  embargante  a  ilegalidade  na  capitulação  da  multa  fixada  com  base  no  art.  527,  II,  "j",  do  RICMS,  argumentando  que  o  dispositivo  fere  o  princípio  da  legalidade  por  punir  a  conduta  em  outras  hipóteses  que  não  as  especificadas  nos  itens  anteriores.
+A  alegação  não  prospera,  pois  há  descrição  expressa  na  norma  legal  acerca  da  infração  geradora  da  multa,  de  modo  que  há  observância  ao  princípio  da  legalidade.
+Ainda,  no  que  diz  respeito  à  penalidade,  como  visto,  já  é  pacífico  o  entendimento,  capitaneado  pelo  Supremo  Tribunal  Federal,  de  que  é  absolutamente  possível  o  controle  judicial  da  razoabilidade  e  proporcionalidade  da  multa  punitiva  aplicada,  por  não  ostentar  caráter  tributário,  e  em  prestígio,  por  outro  lado,  da  garantia  constitucional  de  não  confisco.
+No  presente  caso,  a  multa  imposta  teve  por  fundamento  legal  o  art.  527,  inciso  II,  alínea  "j",  do  RIMCS,  que  prevê,  para  o  creditamento  indevido,  multa  de  100%  sobre  o  valor  do  imposto  devido,  o  que,  à  evidência,  não  consubstancia  confisco.  Nesse  sentido:
+ ..
+Por  fim,  sendo  a  multa  pecuniária  dívida  de  valor,  seu  inadimplemento  atrai  as  regras  da  mora,  sendo  lícita  e  justa  a  incidência  de  juros  pelo  período  em  que  constituída  e  exigível  a  dívida  deixa  o  devedor  de  solvê-la.
+No  mais,  no  tocante  à  aplicabilidade  da  Lei  13.918/09,  verifico  que  a  matéria  já  foi  decidida  em  mandado  de  segurança,  cabendo  apenas  o  pedido  de  cumprimento  do  decisum  na  execução,  vedada  a  reanálise  do  tema  nesta  sede.  .. .".
+Assim,  o  conjunto  probatório  carreado  aos  autos,  corroborou  para  que  a  juíza  a  quo  proferisse  com  exatidão  a  r.  sentença,  que  por  sua  vez  bem  fundamentada,  analisou  in  casu  todos  os  elementos  fático-jurídicos  alegados  pelas  partes.
+ ..
+Enquanto  a  multa  é  aplicada  como  penalidade  pelo  não  cumprimento  da  obrigação  tributária  no  prazo  estipulado  pelo  ente  tributante,  os  juros  moratórios  mostram-se  como  uma  espécie  de  indenização  devida  ao  credor  pela  demora  no  pagamento.  Em  vista  disso,  decidiu  o  Egrégio  STJ  que  "é  legítima  a  cumulação  da  multa  fiscal  com  os  juros  moratórios",  por  não  configurar  bis  in  idem.
+Assim,  "não  pago  o  tributo  no  prazo  legal,  corre  contra  a  devedora  multa,  juros  e  correção  monetária,  incidindo  esta  sobre  a  totalidade  do  débito.  A  multa  é  devida,  tendo  caráter  punitivo,  não  se  confundindo  com  os  juros".
+A  multa  aqui  exigida,  de  seu  turno,  não  é  de  natureza  moratória,  e  sim  propriamente  punitiva,  sancionatória,  e  sua  exigência  acha-se  ao  amparo  do  princípio  da  legalidade.  Como  decidido  pelo  E.  Superior  Tribunal  de  Justiça  em  caso  análogo:
+ ..
+É  certo  que  a  tese  do  confisco  também  não  encontra  guarida  na  boa  doutrina,  conforme  a  lição  de  HUGO  DE  BRITO  MACHADO  (Curso  de  Direito  Tributário,  15ª.  Ed.Malheiros,  p.  37/38):
+ ..
+In  casu  consimili,  já  decidiu  este  Egrégio  Tribunal  de  Justiça  do  Estado  de  São  Paulo:
+ ..
+No  mesmo  sentido,  é  o  entendimento  do  ilustre  Desembargador  José  Maria  Câmara  Junior,  da  Egrégia  8ª  CÂMARA  DE  DIREITO  PÚBLICO,  deste  E.  TJSP,  conforme  trecho  da  Ementa  do  v.  Acórdão:
+ ..
+Ainda  do  Colendo  Supremo  Tribunal  Federal,  os  seguintes  precedentes:
+ ..
+Portanto,  fica  mantida  em  100%  (cem  por  cento)  a  multa  tributária  (AIIM  -  fls.  101/104  e  r.  sentença  -  fls.  1.089/1.091).
+Além  disso,  admite-se  a  cumulação  da  penalidade  com  os  juros  vez  que  estes  têm  função  remuneratória  do  capital  e  aquela,  como  já  dito,  punitiva.
+Quanto  aos  juros  de  mora,  destaca-se,  pois,  trechos  da  r.  sentença  recorrida,  in  verbis:
+" .. .
+No  mais,  no  tocante  à  aplicabilidade  da  Lei  13.918/09,  verifico  que  a  matéria  já  foi  decidida  em  mandado  de  segurança,  cabendo  apenas  o  pedido  de  cumprimento  do  decisum  na  execução,  vedada  a  reanálise  do  tema  nesta  sede.
+ .. .".
+ ..
+Ressalta-se,  ainda,  que  a  empresa  embargante/apelante  não  fez  prova  do  fato  constitutivo  de  seu  direito.
+O  inciso  I,  do  artigo  373,  do  Código  de  Processo  Civil,  estabelece:
+"Art.  373.  O  ônus  da  prova  incumbe:
+I  -  ao  autor,  quanto  ao  fato  constitutivo  de  seu  direito.".
+Assim,  a  empresa  recorrente  não  se  desincumbiu  do  ônus  de  provar  fato  constitutivo  de  seu  direito  (artigo  373,  inciso  I,  do  CPC),  razão  pela  qual  a  improcedência  do  pedido  é  de  rigor.
+Os  embargos  de  declaração  foram  rejeitados  (e-STJ  fls.  1.205/1.213).
+No  apelo  raro  (e-STJ  fls.  1.169/1.182),  a  recorrente  apontou  violação  dos  arts.  3º,  97  e  100,  do  CTN  ,  e  dos  arts.  489,  §  1º,  e  1.022,  II,  do  CPC/2015.
+Pois  bem.
+O  recurso  não  comporta  acolhimento  e  a  decisão  agravada  deve  ser  mantida  por  seus  próprios  fundamentos.
+De  fato,  não  há  ofensa  aos  arts.  489,  §  1º,  e  1.022  , II,  do  CPC/2015  quando  o  Tribunal  de  origem  se  manifesta  de  modo  fundamentado  acerca  das  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  não  se  podendo  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional.  A  esse  respeito,  vide:  AgInt  no  REsp  1.949.848/MG,  rel.  Ministro  Benedito  Gonçalves,  Primeira  Turma,  julgado  em  13/12/2021,  DJe  15/12/2021;  AgInt  no  AREsp  1.901.723/PE,  rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  07/12/2021,  DJe  10/12/2021;  AgInt  no  REsp  1.813.698/MG,  rel.  Ministro  Sérgio  Kukina,  Primeira  Turma,  julgado  em  06/12/2021,  DJe  09/12/2021;  AgInt  no  AREsp  1.860.227/RS,  rel.  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  22/11/2021,  DJe  10/12/2021.
+No  caso  dos  autos,  acerca  da  questão  que  a  recorrente  tem  por  não  examinada  -  (observância  da  decisão  transitada  em  julgado  no  "Mandado  de  Segurança  no  0022299-89.2012.8.26.0053,  segundo  a  qual  os  débitos  tributários  estaduais  devem  ser  atualizados  pela  Selic"  e  não  pelos  índices  contidos  na  Lei  estadual  n.  13.918/2009;  e-STJ  fl.  1.173)  -,  o  Tribunal  de  origem  confirmou  a  decisão  de  primeiro  grau,  proferida  nos  seguintes  termos  (e-STJ  fl.  1.090):
+No  mais,  no  tocante  à  aplicabilidade  da  Lei  13.918/09,  verifico  que  a  matéria  já  foi  decidida  em  mandado  de  segurança,  cabendo  apenas  o  pedido  de  cumprimento  do  decisum  na  execução,  vedada  a  reanálise  do  tema  nesta  sede.
+No  caso,  é possível observar que a questão foi analisada pela Corte a quo. Ainda  que  a  recorrente  entenda  de forma diversa, o fato é que o julgado recorrido examinou a matéria,  chancelando  o  entendimento  do  Magistrado  de  Primeiro  Grau  que determinou  a  resolução  do  tema  no  âmbito  do  processo  de  execução.
+Assim,  não  há  falar  em  negativa  de  prestação  jurisdicional  ou  omissão,  pois  o  tema  foi  objeto  de  análise  e  é  possível  verificar  que  a  fundamentação  contida  no  julgado  a  quo  é  clara  e  permite  sua  inteira  compreensão.
+Com  relação  à  incidência  da  Súmula  283  do  STF,  a  decisão  agravada apontou a falta de impugnação do  seguinte  fundamento  do  aresto  recorrido  (e-STJ  fl.  1.143):
+Portanto,  as  Portarias  CAT  sendo  uma  espécie  das  fontes  da  legislação  tributária  (art.  96),  estão  sujeitas  ao  princípio  do  tempus  regit  actum  (art.  105  do  CTN).
+No  agravo  interno,  a  recorrente  diz  que  "  esclareceu  a  equivocada  interpretação  do  Tribunal  a  quo  ao  aclarar  que  a  Portaria  CAT  n.  99/2005  não  estava  em  vigor  quando  do  cumprimento  da  CAT  nº .  17/1999"  , o que seria "suficiente  para  inquinar  os  fundamentos  do  v.  aresto  recorrido,  uma  vez  que  a  Portaria  CAT  99/2005  que  alterou  os  padrões  dos  arquivos  magnéticos  não  estava  vigente  à  época  da  confecção  dos  arquivos"  (e-STJ  fl.  1.309).
+No  entanto,  a  argumentação  da  recorrente  não  afasta  a  incidência  da  Súmula  283  do  STF,  pois  a  afirmação  de  que  os  arquivos  não  teriam  sido  confeccionados  na  vigência  da  Portaria  CAT  99/05  não  foi  acompanhada  de  qualquer  indicação de elemento  temporal  que  pudesse  atestar  a  ocorrência  do  alegado,  motivo  pelo  qual  não  se  revela  apta  a  infirmar  o  fundamento  do  julgado.
+É  que,  segundo a  orientação  jurisprudencial  do  STJ,  em  observância  ao  princípio  da  dialeticidade,  a  impugnação  deve  ser  feita  de  forma  específica,  concreta  e  pormenorizada  e  relativamente  a  todos  os  fundamentos  adotados  pela  decisão  a  quo,  trazendo  argumentações  capazes  de  demonstrar  o  seu  desacerto,  " ..  não  bastando  à  parte,  para  assentar  a  viabilidade  do  apelo,  desdizer  as  palavras  de  julgamento,  tal  como  ocorrido"  (AREsp  212.401,  rel.  Ministro  Mauro  Campbell  Marques,  DJe  de  22/06/2022).
+Assim,  nos  termos  da  decisão  agravada,  a  falta  de  impugnação  de  todos  os  fundamentos  em  que  se  apoia  o  acórdão  recorrido  tem  por  consequência  a  incidência,  por  analogia,  da  Súmula  283  do  STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles."
+Nesse  sentido:
+PROCESSUAL  CIVIL.  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  FALTA  DE  PREQUESTIONAMENTO  DOS  ARTS.  3º,  113  E  128  DO  CÓDIGO  TRIBUTÁRIO  NACIONAL.  INCIDÊNCIA,  POR  ANALOGIA,  DA  SÚMULA  N.  282/STF.  AUSÊNCIA  DE  COMBATE  A  FUNDAMENTOS  AUTÔNOMOS  DO  ACÓRDÃO.  APLICAÇÃO  DO  ÓBICE  DA  SÚMULA  N.  283/STF.  AUSÊNCIA  DE  COMANDO  NORMATIVO  EM  DISPOSITIVO  LEGAL  APTO  A  SUSTENTAR  A  TESE  RECURSAL.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  INCIDÊNCIA,  POR  ANALOGIA,  DA  SÚMULA  N.  284/STF.  MULTA  DO  ART.  1.026  DO  CPC.  APLICAÇÃO  NÃO  ADEQUADA  NA  ESPÉCIE.
+ ..  III  -  A  falta  de  combate  a  fundamento  suficiente  para  manter  o  acórdão  recorrido  justifica  a  aplicação,  por  analogia,  da  Súmula  n.  283  do  Supremo  Tribunal  Federal.
+IV  -  A  jurisprudência  desta  Corte  considera  deficiente  a  fundamentação  do  recurso  quando  os  dispositivos  apontados  como  violados  não  têm  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  aresto  recorrido,  circunstância  que  atrai,  por  analogia,  a  incidência  do  entendimento  da  Súmula  n.  284  do  Supremo  Tribunal  Federal.
+V  -  O  Agravante  não  apresenta  argumentos  suficientes  para  desconstituir  a  decisão  recorrida.
+ ..  VII  -  Agravo  Interno  improvido.
+(AgInt  no  REsp  1.714.321/SP,  Rel.  Ministra  REGINA  HELENA  COSTA,  PRIMEIRA  TURMA,  julgado  em  22/05/2018,  DJe  1º/06/2018).
+Vale  acrescentar  que  também  não  é  possível  conhecer  do  recurso  especial  quando  o  artigo  de  lei  apontado  como  violado  nas  razões  do  apelo  não  contém  comando  normativo  capaz  de  infirmar  o  fundamento  do  acórdão  atacado,  o  que  atrai  a  aplicação,  por  analogia,  da  Súmula  284  do  STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Sobre  a  questão:
+PROCESSUAL  CIVIL.  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ..  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  APLICAÇÃO,  POR  ANALOGIA,  DA  SÚMULA  N.  284/STF.  ..  AUSÊNCIA  DE  COMBATE  A  FUNDAMENTOS  AUTÔNOMOS  DO  ACÓRDÃO.  RAZÕES  RECURSAIS  DISSOCIADAS.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  INCIDÊNCIA,  POR  ANALOGIA,  DAS  SÚMULAS  N.  283  E  284/STF
+ ..
+II  -  A  jurisprudência  desta  Corte  considera  deficiente  a  fundamentação  do  recurso  quando  os  dispositivos  apontados  como  violados  não  têm  comando  normativo  suficiente  para  infirmar  os  fundamentos  do  aresto  recorrido,  circunstância  que  atrai,  por  analogia,  a  incidência  do  entendimento  da  Súmula  n.  284  do  Supremo  Tribunal  Federal  ..  VIII  -  Agravo  Interno  improvido.
+(AgInt  no  REsp  1.656.968/SP,  Rel.  Ministra  REGINA  HELENA  COSTA,  PRIMEIRA  TURMA,  julgado  em  06/06/2017,  DJe  16/06/2017).
+Há,  ainda,  mais  um  óbice  ao  conhecimento  do  recurso,  uma  vez  que  a  Corte  de  origem  se  apoiou  em  fundamentação  constitucional  para  reconhecer  a  validade  da  cobrança  da  multa,  motivo  pelo  qual  o  recurso  especial  deixa  de  ser  o  instrumento  processual  adequado  para  rever  essa  conclusão.
+De  fato,  o  Tribunal  consignou  que:
+a  multa  aqui  exigida,  de  seu  turno,  não  é  de  natureza  moratória,  e  sim  propriamente  punitiva,  sancionatória,  e  sua  exigência  acha-se  ao  amparo  do  princípio  da  legalidade.
+Dessa forma, fica prejudicada a análise de violação do art. 100, parágrafo único, do CTN.
+Como  se  sabe,  "o  recurso  especial  possui  fundamentação  vinculada,  não  se  constituindo  em  instrumento  processual  destinado  a  revisar  acórdão  com  base  em  fundamentos  eminentemente  constitucionais,  tendo  em  vista  a  necessidade  de  interpretação  de  matéria  de  competência  exclusiva  da  Suprema  Corte"  (AgInt  no  REsp  1.938.321/SP,  relatora  Ministra  Regina  Helena  Costa,  Primeira  Turma,  julgado  em  26/9/2022,  DJe  de  28/9/2022.)
+Acrescento,  por  oportuno,  que  "este  Tribunal  Superior  tem  firme  posicionamento  pela  natureza  constitucional  da  tese  de  violação  do  art.  97  do  CTN,  tendo  em  vista  reproduzir  a  norma  do  art.  150  da  Constituição  Federal"  (AgInt  no  REsp  1.634.773/RS,  relator  Ministro  Gurgel  de  Faria,  Primeira  Turma,  julgado  em  25/9/2018,  DJe  de  25/10/2018.)"  (AgInt  no  AREsp  1.834.884/SP,  de  minha  relatoria,  Primeira  Turma,  julgado  em  19/9/2022,  DJe  de  3/10/2022.).
+No  que  concerne  à  alegada  violação  do  art.  3º  do  CTN,  verifico  que  o  acórdão  de  origem  não  tratou  do  tema  , o que  evidencia  a  falta  de  prequestionamento  da  matéria,  a  despeito  da  oposição  de  embargos  de  declaração,  e  a  incidência,  ao  caso,  da  Súmula  211  do  STJ  ("Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo").
+No ponto, reitero que "a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211 do STJ" (AgInt no AREsp n. 2.191.437/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/3/2023, DJe de 31/3/2023.).
+Por  fim,  embora  não  merecedor  de  acolhimento,  tenho  que  o  presente  inconformismo  não  representa  interposição  de  agravo  interno  manifestamente  inadmissível  ou  improcedente,  a  ensejar,  por  decisão  unânime  do  Colegiado,  a  multa  processual  prevista  no  §  4º  do  art.  1.021  do  CPC/2015.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo  interno.
+É  como  voto.
