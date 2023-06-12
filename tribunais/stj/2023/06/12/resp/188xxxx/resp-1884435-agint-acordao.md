@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FLUMINENSE FOOTBALL CLUB (FLUMINENSE) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. RECURSO ESPECIAL. 1. VIOLAÇÃO DOS ARTS. 489 e 1.022 do CPC. OMISSÃO, CONTRADIÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. INTIMAÇÃO FEITA PELO PORTAL ELETRÔNICO. VALIDADE. PEDIDO DE NOVA INTIMAÇÃO PELO DIÁRIO OFICIAL. INADMISSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fls. 873/879).
+Nas razões do presente inconformismo, defendeu que (1) houve negativa de prestação jurisdicional; (2) a parte foi induzida ao erro, pois somente recebeu um comunicado pelo sistema "push" informando o "envio de documento eletrônico", sem qualquer eficácia legal; (3) somente a publicação no DJETJ valida a contagem dos prazos, nos termos do art. 205, parágrafo 3º, do CPC, confirmado pelo art. 6º, I da Resolução 234 do CNJ, afastando o disposto no art. 5º, caput, e parágrafo 3º da Lei nº 11.419/06; (4) deve ser reconhecida a ocorrência de "justa causa" para a ausência da prática do ato processual, quando houver informação processual equivocada no site do Tribunal estadual; (5) o CPC e a Lei nº 11.419/06 coexistem no sistema jurídico de forma harmônica naquilo que se complementam e não no que divergem, devendo prevalecer a norma processual em caso de colisão, por ser posterior; (6) é necessária a intervenção do Conselho Federal da OAB como amicus curiae; e (7) não restou caracterizada a litigância de má-fé.
+Foi apresentada contraminuta (e-STJ, fls. 919/929).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. 1. VIOLAÇÃO DOS ARTS. 489 e 1.022 do CPC. OMISSÃO, CONTRADIÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. INTIMAÇÃO FEITA PELO PORTAL ELETRÔNICO. VALIDADE. PEDIDO DE NOVA INTIMAÇÃO PELO DIÁRIO OFICIAL. INADMISSIBILIDADE. 3. INTERVENÇÃO DO CONSELHO FEDERAL DA OAB COMO AMICUS CURIAE. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça do Rio de Janeiro dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A insistência da necessidade da intimação ser feita pelo Diário Oficial não encontra respaldo jurídico, pois o Tribunal estadual pode utilizar uma das formas legais para promover a publicação dos seus atos processuais, o que efetivamente ocorreu no caso em tela.
+3. A matéria referente à intervenção do Conselho Federal da OAB como amicus curiae não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+4. Agravo interno não provido.
+VOTO
+(1) Da negativa de prestação jurisdicional
+Alega FLUMINENSE que era indispensável a análise da regra contida no art. 205, § 3º, do CPC, bem como a contradição relacionada ao art. 270 do CPC.
+Como ressaltado na decisão monocrática impugnada, o fato de ter sido aplicado o artigo 270 do CPC em detrimento de outros dispositivos indicados pelo recorrente está longe de caracterizar a contradição caracterizadora dos embargos de declaração.
+No mais, o Tribunal se pronunciou sobre temas essenciais levantados pelo recorrente, conforme trecho do voto que ora se repete:
+Dessa forma, visto que o recorrente foi devidamente intimado pelo portal, inexistindo qualquer comprovação de que houve falha no sistema informatizado, não deve prevalecera alegação de nulidade por ausência de intimação no diário de justiça eletrônico (e-STJ, fls. 81)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se novo precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. CUPLA EXCLUSIVA DA VÍTIMA. REVISÃO. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. SÚMULA 7/STJ, TERMO INICIAL. JUROS DE MORA. SÚMULA 54/STJ. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da alegada culpa exclusiva da vítima e do direito à indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Na hipótese de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso (óbito), nos termos da Súmula 54 deste Tribunal.
+4. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+5. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.983.815/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, sem destaque no original.)
+Não se conhece, portanto, da violação dos artigos 11, 489 e 1.022 do NCPC
+(2) Da validade da intimação pelo portal eletrônico
+Como emana dos autos, GRÊMIO FOOTBALL PORTO ALEGRENSE (GRÊMIO) ingressou com a presente ação de cobrança com lastro em Instrumento Particular de Transação, firmado em 4/5/2015.
+Referida demanda foi julgada parcialmente procedente para condenar FLUMINENSE ao pagamento de R$ 2.344.227,33, cujo montante deve ser pago em 10 parcelas mensais e consecutivas, com intervalo mínimo de 30 dias entre elas, incidindo correção monetária pelo IGP-M, desde 31/04/2016 até o dia do efetivo pagamento da primeira das dez parcelas, e juros de mora de 1% ao mês a contar da mesma data (31/04/2016).
+Ficou esclarecido ainda que a primeira parcela deveria ser paga em até quinze dias a contar do trânsito em julgado e as demais no mesmo dia dos meses subsequentes. Foi registrado que o inadimplemento de cada uma delas implicaria na correção da quantia pelo índice acima indicado desde o vencimento até a data do efetivo pagamento, com acréscimo de juros de mora de 1% ao mês a contar do vencimento proposto (e-STJ, fls. 253/256).
+FLUMINENSE opôs embargos de declaração (e-STJ, fls. 269/278), que foram rejeitados (e-STJ, fls. 284/285), o que gerou a intimação eletrônica (e-STJ, fls. 289/290) e a certidão informando que o advogado da parte tinha sido tacitamente intimado pelo portal em 29/7/2019, na forma prevista no art. 5º, § 3º, da Lei nº 11.419/2006 (e-STJ, fls. 293/294).
+Não obstante FLUMINENSE insistir na necessidade da intimação ser feita pelo Diário Oficial, não há como ignorar que o Tribunal estadual pode utilizar uma das formas legais para promover a publicação dos seus atos processuais, tendo em vista que ambas são válidas e previstas pela lei.
+Veja-se novamente a fundamentação do acórdão:
+Na hipótese, o patrono do réu efetuou cadastramento presencial a fim de viabilizar o seu acesso ao sistema de processos eletrônicos deste Tribunal de Justiça, o que o tornou apto a receber intimações por meio do portal eletrônico, atos que são considerados válidos, na forma da lei.
+Às fls. 255 dos autos do processo originário, foi exara da certidão que informa sobre a regularidade da intimação eletrônica do advogado do recorrente, que se deu de forma tácita, considerando que ele não abriu o portal eletrônico, aplicando-se o disposto no parágrafo 3º do artigo 5º da Lei nº 11.419/2006 (e-STJ, fl. 80).
+Inócua a discussão no sentido que o Código de Processo Civil prevaleceria sobre a Lei nº 11.419/2006, pois ambas as leis coexistem de forma harmônica no sistema jurídico, com previsão de duas formas válidas de intimação.
+Portanto, não obstante o art. 224, § 2º, do CPC prever que Considera-se como data de publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça eletrônico, isso não exclui outras formas de comunicação dos atos processuais, como aquelas feitas por meio do portal eletrônico.
+Aliás, esse é o entendimento pacífico desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTIMAÇÃO DA PARTE PELO PORTAL ELETRÔNICO. ART. 5º DA LEI N. 11.419/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias, nos termos do art. 1.003, § 5º, do CPC.
+2. A Corte Especial desta Corte Superior, no julgamento do EARESP n. 1.663.952/RJ, concluiu que "sempre que a modalidade de intimação pelo Portal Eletrônico (art. 5º da Lei 11.419/2006) for prevista e aplicável em determinado Tribunal para os advogados devidamente cadastrados, deve esta prevalecer sobre a tradicional intimação pelo DJe".
+3. Na espécie, ocorreu intimação via Portal Eletrônico e, após o decurso do prazo de 10 dias para leitura do ato, considerou-se a ocorrência de intimação tácita e teve início o prazo para a eventual interposição de recurso.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.157.048/SC, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 13/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO HÁBIL NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. DUPLICIDADE DE INTIMAÇÕES ELETRÔNICAS. PORTAL ELETRÔNICO PREVALECE SOBRE O DIÁRIO DA JUSTIÇA ELETRÔNICO. ENTENDIMENTO DA CORTE ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA INTIMAÇÃO PELO PORTAL ELETRÔNICO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DA INTERPOSIÇÃO DO RECURSO. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+2. A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que havendo duplicidade de intimações eletrônicas nos autos, prevalece a feita pelo portal eletrônico em detrimento àquela realizada pelo Diário de Justiça eletrônico (EAREsp n. 1.663.952/RJ).
+3. Todavia, ausente nos autos documento hábil à comprovar a alegada data de publicação pelo sistema PJe não bastando, para tanto, a simples alegação ou o print de tela ou imagem de página extraída da internet, inseridos no corpo da petição do recurso.
+4. A decisão de admissibilidade na origem não vincula o Superior Tribunal de Justiça, que promoverá nova análise dos pressupostos recursais dos casos que lhe são submetidos.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.915.567/DF, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022 - sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. VALIDADE DA INTIMAÇÃO REALIZADA VIA DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTES.
+1. No caso, a decisão de inadmissibilidade foi publicada, no Diário de Justiça eletrônico, em 18/8/2020 - na vigência do CPC/2015 -, sendo o agravo em recurso especial interposto somente em 15/9/2020, após o transcurso do prazo recursal de quinze dias úteis. Não foi realizada a intimação via portal eletrônico.
+2. De acordo com a orientação fixada em atual precedente da Corte Especial (EAREsp n. 1.663.952/RJ, relator Ministro Raul Araújo, julgado em 19/5/2021, DJe 9/6/2021), "aLei n. 11.419/2006 prevê dois tipos de intimações criados para atender a evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais".
+3. Ambas as formas de intimação descritas são igualmente aptas a ensejar a válida intimação das partes e de seus advogados.
+4. Logo, na hipótese, a intimação realizada por meio do Diário de Justiça é plenamente válida, não havendo que se cogitar de ausência de intimação, conforme alega a agravante.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.783.625/RJ, relator Ministro OG FERNANDES, Segunda Turma, julgado em 16/8/2022, DJe de 6/9/2022 - sem destaques no original.)
+Importante consignar que o documento juntado pelo FLUMINENSE às, e-STJ, fls. 310/312, trata de mero extrato de movimentação processual que não tem o condão de comprovar qualquer irregularidade, tanto que foi certificado expressamente pelo Tribunal que:
+não assiste razão ao embargado, tendo em vista que seu advogado foi intimado regularmente pelo DCP andamento 68, e não abriu o portal, eis que lá informa que a intimação foi tácita, e e desta data que corre tanto o prazo para embargos quanto para eventual apelação (e-STJ, fl . 340).
+(3) Do ingresso do Conselho Federal da OAB como amicus curiae
+A alegação genérica e sem qualquer fundamento de que é necessária a intervenção do Conselho Federal da OAB como amicus curiae também não merece ser acolhida.
+Com efeito, de uma simples leitura dos arestos recorridos, pode-se observar que a referida intervenção não foi apreciada pelo TJRJ e os embargos de declaração opostos pelo FLUMINENSE não abordou a matéria.
+Não houve, portanto, o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional. Inafastável, assim, a incidência das Súmulas nºs 282 e 356 do STF.
+A propósito, vejam-se os acórdãos:
+EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. OMISSÃO. EXISTÊNCIA. PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356/STF. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Erro material verificado no acórdão embargado, no que toca à aplicação do princípio da unirrecorribilidade, o que enseja a apreciação do agravo interno da embargante.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no AREsp n. 1.742.605/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022.)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
