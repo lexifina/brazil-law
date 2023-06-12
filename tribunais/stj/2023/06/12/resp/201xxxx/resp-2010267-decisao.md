@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no artigo 105, inciso III, alínea a, do permissivo constitucional, contra acórdão prolatado pelo eg. Tribunal de Justiça da mesma unidade federativa, que, por unanimidade, deu parcial provimento ao recurso da Defesa para, mantida a condenação, redimensionar a pena do ora recorrido para 02 (dois) anos, 09 (nove) meses e 10 (dez) dias de reclusão, no regime inicial semiaberto, além do pagamento de 13 (treze) dias-multa.
+Nas razões recursais (fls. 293/301), o recorrente aponta violação ao artigo 61, inciso II, alínea j, do Código Penal, uma vez que "(..) a "mens legis" do dispositivo é justamente punir com mais rigor aquele que se determina à prática de crimes em período em que há maior vulnerabilidade social à prática delitiva e a vigilância das forças de segurança pública encontram-se em maior dificuldade de atuação ou repressão ao crime." (fl. 297). Pretende, pois, o restabelecimento da agravante genérica.
+Apresentadas as contrarrazões (fls. 310/317), foi o recurso admitido na origem (fl. 333).
+O Ministério Público Federal opinou pelo provimento da insurgência (fls. 343/345).
+É o relatório.
+Decido.
+No que concerne à alegação de restabelecimento da agravante prevista no art. 61, inc. II, alínea j, do CP, em razão da calamidade pública decorrente da pandemia do novo coronavírus, identifico que o recurso não merece provimento.
+Por oportuno, transcrevo o seguinte trecho do v. acórdão recorrido: "Na segunda etapa, a agravante do estado de calamidade pública, prevista no artigo 61, inciso II, alínea "j" do Código Penal será afastada, eis que não há nos autos comprovação de que a pandemia tenha facilitado ou influenciado a ação do apelante, desarrazoada a sua aplicação automática, sob pena de responsabilização objetiva." (fl. 279, grifei).
+A questão está afeta à análise da Terceira Seção, na sistemática dos recursos repetitivos, consoante Tema 1185: "Incidência da circunstância agravante prevista no art. 61, II, j, do Código Penal, independentemente de nexo causal entre o estado de calamidade pública e o fato delitivo."
+A este respeito, a jurisprudência dominante deste Sodalício trilha no sentido de que a incidência da referida agravante pressupõe a comprovação de que o acusado tenha se valido da pandemia para a prática delitiva, o que não ocorreu na espécie.
+Com efeito, "No que se refere ao agravamento da pena decorrente do estado de calamidade pública gerado pela pandemia do coronavírus, esta Corte já se manifestou no sentido de que sua incidência requer nexo entre tal circunstância e a conduta do agente, o que não se vislumbra na hipótese sob análise" (AgRg no AREsp n. 2.271.617/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/3/2023, DJe de 28/3/2023).
+Nesse sentido: AgRg no HC 655.339/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 19/04/2021; AgRg no HC n. 669.508/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/06/2021.
+Por essas razões, deve ser mantido o afastamento da agravante descrita no artigo 61, inciso II, alínea j, do Código Penal.
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+P. e I.
+EMENTA
+PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO MINISTERIAL. RESTABELECIMENTO DE QUALIFICADORA INSERTA NO ART. 61, INC. II, J, DO CP. CALAMIDADE PÚBLICA DECORRENTE DA PANDEMIA DO NOVO CORONAVÍRUS. FALTA DE NEXO DE CAUSALIDADE. INCIDÊNCIA DA SÚMULA 568/STJ. RECURSO ESPECIAL DESPROVIDO.
