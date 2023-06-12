@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Felipe Andres Jara Vasquez e Jonathan Andres Cerda Alvarez, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2246441-55.2022.8.26.0000).
+Em 12/10/2022, os pacientes foram autuados em flagrante delito pela suposta prática do crime de furto qualificado. Posteriormente, a prisão preventiva foi decretada.
+Neste mandamus, os impetrantes alegam, em síntese, ausência de fundamentação concreta para a prisão cautelar, destacando que o simples de fato de os pacientes serem estrangeiros e não comprovarem atividade laborativa lícita, por si só, não justifica a imposição da medida mais gravosa.
+Ademais, o objeto do furto, um aparelho celular, foi imediatamente restituído à vítima.
+Requerem, inclusive em liminar, a concessão da liberdade provisória aos pacientes, cumulada ou não com a aplicação de outras medidas cautelares.
+Deferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Maria Emília Moraes de Araújo, pela concessão do habeas corpus (fls. 205/207).
+É o relatório.
+In casu, a ordem deve ser concedida, confirmando-se a liminar.
+Eis o que asseverou o Magistrado a quo (fls. 100/101 - grifo nosso):
+ ..
+Em que pese o delito tenha sido praticado sem o emprego de violência ou grave ameaça, os autuados estão no país há apenas três dias. Ademais, o delito de reveste de maior gravidade em concreto, eis que se trata de furto de celular, objeto que contém dados sensíveis da vítima, inclusive aplicativos bancários, podendo causar prejuízos muito maiores do que a perda do aparelho em si.
+NÃO há, ainda, comprovação de exercício de atividade laboral remunerada, de modo que as atividades ilícitas porventura sejam fonte ao menos alternativa de renda (modelo de vida), pelo que a recolocação em liberdade neste momento (de maneira precoce) geraria presumível retorno às vias delitivas, meio de sustento.
+ ..
+Há, na jurisprudência deste Superior Tribunal, um sem-número de precedentes, todos exigindo que a prisão provisória venha, sempre e sempre, calcada com bons elementos de convicção, fatores concretos que justifiquem, efetivamente, a imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção. Não é suficiente, evidentemente, a reportação, pura e simples, à existência de indícios de autoria e à materialidade delitiva; há que se demonstrar o periculum libertatis, o que, na espécie, não ocorreu, uma vez que nem a gravidade abstrata do delito nem ilações e conjeturas servem para demonstrar a real necessidade da extrema cautela.
+E, aparentemente, a decisão de prisão preventiva carece da devida fundamentação, pois não cuidou de indicar elementos concretos aptos a manter a segregação dos acusados.
+Com efeito, no entendimento desta Corte Superior de Justiça, a privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do art. 312 do Código de Processo Penal. A gravidade abstrata do delito não autoriza a decretação ou a manutenção da prisão cautelar (HC n. 370.658/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/2/2017). E mais: HC n. 510.968/SP, de minha relatoria, Sexta Turma, DJe 29/8/2019.
+Assim, entendo devida a concessão da liberdade provisória com medidas cautelares diversas, uma vez que o crime foi cometido sem violência e grave ameaça, não consta dos autos que os pacientes são reincidentes, não há indicativo de que eles participem de organização criminosa e as circunstâncias do flagrante não denotam grande periculosidade dos réus, já que foram flagrados por policiais que estavam trabalhando à paisana (fl. 100).
+Ademais, sabe-se que a inexistência de comprovação de trabalho lícito e de residência fixa não constitui fundamentação idônea para a prisão.
+Nesse sentido, a propósito, tem-se que os meros fatores de viver em situação de rua e não possuir atividade laboral remunerada, de acordo com a orientação desta Corte Superior, não são capazes, por si sós, de arrimar idoneamente a cautelar mais extremada - sobretudo porque as circunstâncias do crime, in casu, não ultrapassam aquela própria para o cometimento de delito desta natureza, a infração não envolveu arma de fogo, e o paciente é primário (HC n. 580.715/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2020 - grifo nosso).
+Com razão a nobre parecerista quando destacou, em seu parecer, que não existe risco de reiteração delitiva baseado na reincidência ou maus antecedentes. Conforme se verifica das folhas de antecedentes criminais (fls. 93/94), os pacientes são primários, não havendo sequer registro de inquéritos policiais a eles associados (fl. 207).
+Ante o exposto, à vista do parecer, concedo a ordem a fim de, confirmando-se a medida liminar, sob o compromisso de comparecimento a todos os atos processuais, substituir a custódia cautelar dos pacientes por medidas alternativas a serem fixadas e fiscalizadas pelo Juiz da causa.
+Comunique -se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA . PRIMARIEDADE. SEM ANTECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENTE. PARECER ACOLHIDO. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
