@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por EDUARDO CALDEIRA contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 256):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE SOCIEDADE DE FATO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS INICIAIS - INCONFORMISMO DA PARTE REQUERIDA - PLEITO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM SEDE RECURSAL - ACOLHIDO - DOCUMENTOS QUE COMPROVAM A INSUFICIÊNCIA DE RECURSOS - NULIDADE DA SENTENÇA - CERCEAMENTO DE DEFESA - DECRETAÇÃO DE REVELIA DO REQUERIDO SEM QUE ANTES FOSSE ANALISADO O PEDIDO DA PARTE DE SUSPENSÃO DOS ATOS PROCESSUAIS - RECURSO PROVIDO.
+Os dois embargos de declaração opostos foram parcialmente acolhidos para sanar erro material (e-STJ, fls. 293-299).
+Nas razões do recurso especial (e-STJ, fls. 422-442), o recorrente apontou violação aos arts. 10, 221, caput e parágrafo único, 223, 344, 489, § 1º, II, e 1.022, caput, II, e parágrafo único, II, do CPC/2015.
+Afirmou que, após a citação do réu ocorrida em 20/2/2021, houve pedido de suspensão do processo para apresentação de contestação, com base na Resolução 314/2020 do CNJ, referente à suspensão dos prazos processuais, até o dia 4/5/2020, em razão da pandemia do Covid-19, ou seja, a solicitação do recorrido ocorreu após o prazo determinado na referida resolução.
+Sustentou, em síntese: i) negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido quanto ao reconhecimento de cerceamento de defesa; ii) a ocorrência de nulidade da sentença por fundamento novo, sem a oportunização de manifestação da parte a respeito do argumento; iii) não há fundamento legal para suspensão do feito; iv) que o transcurso do prazo extingue de plano o direito de a parte realizar o ato processual; e iv) a impossibilidade de se afastar os efeitos da revelia, mesmo sem ter sido apresentada contestação.
+Sem contrarrazões (e-STJ, fl. 360).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem anulou a decisão que decretou a revelia e determinou abertura de novo prazo para apresentação da contestação, sob os seguintes fundamentos (e-STJ, fl. 262, sem grifo no original):
+Compulsando-se os autos, é possível extrair que o requerido foi citado, em 21 de janeiro de 2020, para, querendo, apresentar defesa às alegações do autor (mov. 36.1).
+O ora apelante, então, requereu, em caráter de urgência, a suspensão dos atos processuais, com base no art. 3º, § 3º, da Resolução nº314/2020 do Conselho Nacional de Justiça (mov. 37.1). 3
+Desta petição, a parte autora foi intimada ao mov. 48.1, tendo pleiteado o indeferimento da suspensão do feito e a decretação de revelia do demandado.
+O pedido do requerido, no entanto, não foi apreciado pelo juízo de origem, que proferiu sentença com fundamento na revelia da parte (mov. 51.1).
+Sobre o assunto, não se olvida que o prazo de vigência da referida Resolução encerrou-se em 14 de junho de 2020, isto é, 8 (oito) meses antes da apresentação do pedido de suspensão pelo requerido, como dispõe o art. 1º da Portaria nº 79 do CNJ. 4
+Tampouco se descuida que a parte deveria ter justificado, de forma clara e pormenorizada, a sua impossibilidade de realizar os atos processuais necessários à demanda.
+No entanto, a decretação de revelia do requerido sem que antes fosse analisado o pedido de suspensão do feito resultou em cerceamento do direito de defesa da parte, que restou impossibilitada de apresentar contestação, pelo que a sentença deve ser declarada nula.
+Portanto, é o voto pelo provimento do Recurso de Apelação, para o fim de declarar nula a sentença, retornando os autos ao juízo de origem para que seja oportunizado ao requerido a apresentação de contestação.
+Entretanto, observa-se que agravado foi devidamente citado, em 20 de janeiro de 2021 (e-STJ, fl. 46). Assim, ciente da ação declaratória de inexistência de sociedade de fato ajuizada por Eduardo Caldeira, em vez de apresentar contestação, limitou-se a pedir a suspensão do prazo, com base na Resolução 314/2020, que já não possuía eficácia.
+Confira-se excerto da sentença proferida pelo magistrado de primeiro grau (e-STJ, fls. 80-81):
+Pugnou a parte ré pela suspensão do feito e, consequentemente, do prazo de contestação (ref. 37.1). Razão, todavia, não lhe socorre.
+Como é possível perceber da singela leitura da Resolução 314/2020 do CNJ, em seu artigo 3º, o prazo de suspensão previsto na respectiva resolução se limitou até a data de 04/05/2020, o que, evidentemente, não se aplica ao vertente caso.
+Veja-se:
+Art. 3º Os processos judiciais e administrativos em todos os graus de jurisdição, exceto aqueles em trâmite no Supremo Tribunal Federal e no âmbito da Justiça Eleitoral, que tramitem em meio eletrônico, terão os prazos processuais retomados, sem qualquer tipo de escalonamento, a partir do dia 4 de maio de 2020, sendo vedada a designação de atos presenciais.
+Destarte, a parte ré foi citada para apresentar defesa em 20/01/2021 (ref. 35), ou seja, muito tempo após a referida resolução não ter mais eficácia, não se verificando hipótese de suspensão do prazo para apresentar contestação.
+Ademais, a título de argumentação, a parte ré em momento algum citou quais seriam as diligências necessárias para colheita prévia de elementos de prova, deixando de justificar o pedido de suspensão, denotando o caráter genérico da alegação.
+Da mesma forma, não há que se falar em nova abertura de prazo para possibilitar a apresentação da defesa, eis que decorre da lei, e como já dito, não havendo justificativa para sua reabertura, inviável o acolhimento do pleito.
+Rejeito, portanto, a preliminar.
+Cabe destacar que "a citação não é um fim em si mesmo. Ela está voltada à cientificação do réu acerca da ação contra ele ajuizada, oportunizando-lhe, uma vez assim o queira, defender-se. Aliás, o ato de contestar, por isso mesmo, configura-se também um ônus. O demandado, ineludivelmente ciente da ação contra ele movida, terá a faculdade de apresentar defesa e, se não o fizer ou em o fazendo intempestivamente, arcará com os ônus daí decorrentes" (REsp n. 1.625.033/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/5/2017, DJe de 31/5/2017, sem grifo no original)
+Destarte, devidamente oportunizado prazo para apresentação da contestação pelo ora agravado, não há que se falar em cerceamento de defesa.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, com a devolução dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento, como entender de direito.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE SOCIEDADE DE FATO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
