@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em razão da incidência da Súmula n. 7 do STJ, bem como por inexistência de violação dos arts. 489 e 1.022 do CPC/2015 (e-STJ fls. 390/394).
+O Tribunal de origem deu parcial provimento ao apelo da recorrida, em julgado que recebeu a seguinte ementa (e-STJ fl. 243):
+APELAÇÃO - RÉ - AÇÃO DECLARATÓRIA C.C. INDENIZAÇÃO - NULIDADE DA CONTRATAÇÃO. Paralelamente à incapacidade civil do autor (circunstância esta que seria suficiente para invalidar qualquer contrato por ele firmado), no que diz respeito à inexigibilidade da dívida discutida nos autos, é de se identificar que, de qualquer forma, a ré deixou de demonstrar a existência da efetiva relação jurídica entre as partes. Em consequência, a decisão de 1º grau deve ser mantida em relação à inexistência de relação jurídica entre as partes e à inexigibilidade da dívida ora discutida. - DANOS MORAIS - INOCORRÊNCIA. Embora tenha sido vítima de uma conduta inaceitável por parte da ré, que insistiu na cobrança de valor sem qualquer amparo em uma contratação válida, o autor não experimentou abalo a" sua honra, na medida em que não houve negativação de seu nome, protesto de título ou qualquer outro prejuízo demonstrado nos autos, razão pela qual a situação experimentada não ultrapassa o mero dissabor não indenizável. RECURSO PARCIALMENTE PROVIDO.
+RECURSO ADESIVO - AUTOR - AÇÃO DECLARATÓRIA C.C. INDENIZAÇÃO - DEVOLUÇÃO EM DOBRO. Impossibilidade. Ausência de prova da má-fé da ré e do efetivo pagamento por parte do autor dos valores discutidos nos autos. RECURSO IMPROVIDO.
+SENTENÇA MANTIDA - RECURSO DA RÉ PARCIALMENTE PROVIDO - RECURSO DO AUTOR IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 294/298).
+Nas razões do especial (e-STJ fls. 305/369), fundamentado no art. 105, III, "a" e "c", da CF, apontaram os recorrentes violação dos arts. 489, II, IV e VI, e 1.022 do Código de Processo Civil, alegando negativa de prestação jurisdicional com a rejeição dos embargos de declaração. Sustentaram, nesse contexto, que o Tribunal de origem não analisou devidamente os documentos apresentados nos autos, os quais traduzem uma cobrança pública por si só.
+Indicou, além de dissídio jurisprudencial, ofensa aos arts. 6º, VI, 42 e 43, § 4º, do CDC, 20, 22, 29 e 31 da Lei n. 9.492/1997, 16 e 17 da Lei n. 6.015/1973, 12, 17, 186, 927 e 944 do CC/2002, ressaltando que a publicidade da cobrança gera dano moral in re ipsa.
+Ofereceram-se contrarrazões (e-STJ fls. 372/381).
+No agravo (e-STJ fls. 396/463), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 466/476).
+É o relatório.
+Decido.
+I - Da negativa de prestação jurisdicional
+Quanto à preliminar, não observo falha na fundamentação ou negativa de prestação jurisdicional no acórdão, senão julgamento contrário aos interesses dos agravantes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação da norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação suficiente em relação à ausência de prova de que teria ocorrido ofensa à honra dos autores/recorrentes devido à conduta da ré/recorrida.
+II - Dos danos morais
+Quanto à inexistência dos danos morais, assim decidiu a Corte de origem (e-STJ fls. 245/246):
+Por outro vértice, respeitado o entendimento do Juízo a quo, a sentença comporta reforma quanto ao dano moral alegado pelo autor.
+Ainda que tenha sido declarada a inexistência da relação jurídica entre as partes e, consequentemente, a inexigibilidade do débito discutido nos autos, não se vislumbra de forma nítida o elemento fundamental a efetiva concretização do dano moral.
+Isto porque, os documentos de fls. 31/32 não possuem força probatória suficiente para comprovar que o nome do autor tenha sido inscrito no rol dos inadimplentes ou que tenha ocorrido o efetivo protesto de título.
+De fato, embora tenha sido vítima de uma conduta inaceitável por parte da ré, que insistiu na cobrança de valor sem qualquer amparo em uma contratação válida, o autor não experimentou abalo a sua honra, na medida em que não houve negativação de seu nome, protesto de título ou qualquer outro prejuízo demonstrado nos autos, razão pela qual a situação experimentada não ultrapassa o mero dissabor não indenizável.
+A desconstituição do entendimento firmado pelo Tribunal de origem demandaria o reexame de aspectos fáticos da lide, providência in viável em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Por fim, quanto ao dissídio jurisprudencial, a mesma súmula impede seu exame, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual se deu solução à causa.
+Ante o exposto, NEGO PROVIME NTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 47), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
