@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por ERICH GUSTAVO LOURENCO GARCIA - condenado à pena de 1 mês e 26 dias de detenção, em regime semiaberto, pela prática do delito capitulado no art. 340 do Código Penal (fl. 71) - contra a decisão, de lavra da Ministra Presidente deste Superior Tribunal, que indeferiu liminarmente o writ impetrado a favor do ora agravante (fls. 71/73 e 81/82).
+Alega a parte agravante, em suma, que teve contra si prolatada sentença condenatória: a) reconhecendo-lhe a prática do crime descrito no artigo 340 do Código Penal, com pena privativa de liberdade fixada em 1 mês e 26 dias de detenção, a ser cumprida em regime inicial semiaberto - paciente foi intimado por oficial de justiça, no entanto; b) não lhe foi ofertado o termo de recurso, havendo irregularidade na intimação da sentença, que deveria ser reiterada, mas nova oportunidade foi negada pelo juízo a quo; c) apresentado termo de recurso de apelação tempestivo no juízo de origem, todavia desprovido da juntada das razões recursais, a teor do artigo 600, § 4º, do Código de Processo Penal; d) está sendo submetido a constrangimento ilegal e abusivo, porquanto lhe foi negado o seguimento do recurso interposto, tido como intempestivo pelo juízo de origem, eis que desacompanhado das razões recursais.
+Requer-se, no agravo regimental, o seguinte (fls. 92/93):
+ ..  Por essas razões, pede-se, primeiro, a reconsideração da decisão agravada a fim de que seja afastado o constrangimento ilegal que não recebeu o recurso defensivo, determinando que o Juízo de primeiro grau se abstenha em expedir mandado de prisão em face do Agravante nos autos da ação penal n. 0002779-24.2019.8.16.0168 e de início a execução da pena, até o julgamento de mérito do writ, mas, caso assim não ocorra, seja o agravo levado ao órgão colegiado competente, para a reforma da decisão agravada.
+ ..
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. AUTO-ACUSAÇÃO FALSA. ART. 340 DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. SUPOSTA NULIDADE DA INTIMAÇÃO DO DECISUM CONDENATÓRIA. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+Nesse contexto, as Turmas integrantes da Terceira Seção do Superior Tribunal de Justiça, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, sobre a inexistência de irregularidades processuais, a decisão monocrática explicitou (fls. 66/68):
+ ..  2. Para a concessão da medida é necessário que se demonstre cabalmente a prática de um ato ilegal ou abusivo pela autoridade coatora, capaz de representar verdadeiro perigo ou efetiva lesão à liberdade de locomoção do cidadão-paciente.
+In casu, não se vislumbra, ao menos em caráter inicial, qualquer ato ilegal, ou abuso de autoridade pelo Juiz de Direito do Juizado Especial Criminal de Terra Roxa, em razão do não recebimento do recurso de apelação interposto pela r. Defesa, não obstante as consequências processuais que possam advir em razão de referido contexto processual.
+Veja-se que o paciente, na origem, é representado por r. Defensor regularmente constituído, razão pela qual é dispensável a intimação pessoal do acusado, sobre a sentença contra si prolatada. O artigo 392, inciso II, do Código de Processo Penal, é claro ao delinear que, estando o réu solto, é suficiente a intimação do defensor constituído a respeito da sentença condenatória, inexistindo exigência de intimação pessoal.
+ ..
+Por conseguinte, ainda que a intimação do réu tenha sido desacompanhada do respectivo termo, inexiste necessidade de reiteração do ato, haja vista a intimação do defensor constituído durante o curso processual regular.
+Por outro lado, não há se falar em ato coator pelo reconhecimento intempestivo do recurso de apelação interposto pela r. Defesa, porquanto conforme se observa dos autos, foi interposto desprovido das razões correspondentes.
+Sobre o tema, é pacificado o entendimento sobre a existência de regra específica no sistema recursal da Lei n. 9.099/1995, determinando que o recurso seja interposto juntamente com as razões, não se aplicando subsidiariamente a disciplina do Código de Processo Penal, como pretendeu o impetrante.
+São os muitos os precedentes da Turma Recursal nesse sentido, in verbis:
+ ..
+Assim, considerando que não houve prima facie qualquer ato ilegal ou abusivo da autoridade impetrada, indefiro a liminar pleiteada.
+ ..
+É pacífico o entendimento deste Superior Tribunal que considera que, sendo o defensor dativo devidamente intimado acerca do acórdão que confirmou a sentença penal condenatória, inexiste a obrigatoriedade de intimação pessoal do réu, uma vez que, cons oante o art. 392, inciso I, do Código de Processo Penal, a intimação pessoal somente é exigida da sentença que condena o réu preso, não se aplicando aos demais julgados (HC n. 617.116/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/10/2020.)
+Nesse sentido: AgRg no HC n. 782.323/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/4/2023, PExt no HC n. 662.298/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/2/2023 e AgRg no HC n. 788.802/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2022.
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
