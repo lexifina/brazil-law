@@ -1,0 +1,8 @@
+DECISÃO
+LUCAS VIEIRA DONATI apresenta pedido de reconsideração às fls. 321-326 em face de decisão que indeferi liminarmente o habeas corpus com fundamento no enunciado da Súmula n. 691 do Supremo Tribunal Federal.
+Decido.
+Nada a prover quanto ao pleito defensivo, porquanto as informações mencionadas pelo requerente são incapazes de ilidir a conclusão de fls. 310-317.
+Naquela ocasião, registrei que não compete a esta Corte "conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (fl. 311) e que inexiste teratologia na decisão impugnada. Além disso, consignei que o "pleito defensivo demanda o exame acurado dos autos, que será analisado em momento oportuno, quando serão minuciosamente examinados os fundamentos da pretensão pela instância ordinária" (fl. 317).
+Com efeito, em relação ao pedido de prisão domiciliar pautado na doença do filho, o Tribunal estadual asseverou que, "ainda que efetivamente o paciente tenha demonstrado o envolvimento com seu filho, portador de transtorno do espectro autista, certo é que realiza frequentes viagens internacionais e também dentro do território nacional. Ainda que eventualmente tenha levado a criança consigo quando da realização de eventual deslocamento turístico, não se mostra verossímil que tal estratégia tenha pautado todas as viagens realizadas, seja porque há evidências de que a finalidade era ilícita, seja pela necessidade de manutenção de rotina para crianças, especialmente tratando-se de portadora de TEA" (fl. 114, grifei).
+À vista do exposto, mantenho a decisão de fls. 310-317.
+Publique-se e intime-se.
