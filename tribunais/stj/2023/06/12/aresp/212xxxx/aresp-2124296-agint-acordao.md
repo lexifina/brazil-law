@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 606/610, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, argumentou não serem aplicáveis os óbices das Súmulas 5, 7 e 83/STJ. Sustentou que o medicamento requerido - Enoxaparina - não é de uso domiciliar. Aduziu se tratar de uma substância injetável e que a sua aplicação "mais se assemelha a um procedimento ambulatorial ou clínico" (fl. 617, e-STJ).
+Assinalou que a escolha do procedimento para tratamento da enfermidade é do médico, e não da operadora de plano de saúde e que, assim, é abusiva a negativa do medicamento que lhe fora prescrito.
+Ressaltou, por fim, que o recurso especial não objetiva o reexame de provas, tampouco a interpretação de cláusulas do contrato.
+A parte agravada não apresentou contrarrazões, conforme certidões de fls. 625 e 626, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Com efeito, a Corte local, ao analisar a controvérsia, manteve a improcedência dos pedidos formulados na inicial, de condenação da recorrida ao custeio do medicamento Enoxaparina (Clexane) 40mg e ao pagamento de compensação por danos morais, expondo os seguintes fundamentos (fls. 444/446, e-STJ):
+A presente reclamação visa combater o acórdão que desproveu o recurso inominado, confirmando a sentença, no sentido de julgar improcedentes os pedidos iniciais.
+De início, observo que o acórdão recorrido tomou como premissas interpretativas que: a) a relação travada entre as partes é de natureza consumerista; b) que o medicamento indicado é de uso domiciliar e não foi prescrito em regime de "home care"; c) que há previsão expressa no contrato no sentido de excluir o fornecimento de medicamentos para tratamento domiciliar, com exceção de antineoplásicos; d) que a aludida exclusão de cobertura não é abusiva; e) Enoxaparina não demanda a utilização de equipamento ou serviço hospitalar ou ambulatorial ou a supervisão de profissional de medicina e pode ser obtido através do SUS.
+A reclamante, então, combate o referido acórdão, afirmando existir afronta ao tema 990 do STJ, segundo o qual "após o registro pela ANVISA, a operadora de plano de saúde não pode recusar o custeio do tratamento com o fármaco indicado pelo médico responsável pelo beneficiário".
+A esse respeito, analisando detidamente os autos, verifico que as premissas adotadas no acórdão estão corretas, eis que, de fato, trata-se de relação de consumo, há previsão de exclusão do fornecimento de medicamentos para tratamento domiciliar e não foi indicado tratamento de "home care". Cumpre, então, perquirir se tal exclusão é válida e se há ou não violação ao tema 990 do STJ.
+A esse respeito, tenho que a jurisprudência desta Corte já reconheceu válida a aludida exclusão com base no artigo 10, VI, da Lei 9.656/98, senão vejamos:
+(..)
+Assim sendo, a exclusão do fornecimento de medicamentos para tratamento domiciliar não é motivo para reforma do acórdão impugnado.
+Quanto à alegada violação ao Tema 990 do STJ, tenho que no julgamento dos REsp n. 1712163/SP e REsp n. 1726563/SP, firmou-se, para fins de precedente obrigatório a tese de que "As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA." O trecho trazido pela reclamante não foi alçado a tese de precedente obrigatório, constando na ementa do aludido julgado de forma apenas explicativa, senão vejamos:(..)
+Não há que se falar, portanto, em violação ao precedente indicado, eis que o ponto destacado pela reclamante não é de observância obrigatória pelos órgãos judiciais. Ademais, é de se observar que os aludidos julgados impõem à operadora do plano de saúde o custeio do tratamento com o fármaco indicado pelo médico responsável, mas não há qualquer exigência de que se supere a cláusula de exclusão contratual para fornecimento de medicamentos para tratamento domiciliar.
+No caso, havendo expressa exclusão de tratamento domiciliar no tratamento indicado para a reclamante e não havendo recomendação médica para tratamento "home care", entendo que o acórdão recorrido corretamente manteve a sentença que julgou improcedentes os pedidos iniciais.
+Note-se que, tal como mencionado no acórdão ora questionado, caso a reclamante pretendesse obter o custeio de seu tratamento, deveria ter direcionado seu pedido ao sistema público de saúde, propondo a ação contra um dos entes federados, uma vez que a cláusula de exclusão, de fato, afasta a obrigatoriedade do plano de saúde de fazer tal cobertura.
+Não é possível, portanto, acolher o pleito inicial.
+Ante o exposto, julgo improcedente a presente reclamação, mantendo inalterado o acórdão recorrido, eis que não comprovado o ferimento da jurisprudência deste Tribunal e da Corte Superior.
+A orientação adotada pelo TJGO não destoa da jurisprudência deste Superior Tribunal de Justiça, segundo a qual "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+No mesmo sentido, cito os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. MEDICAMENTO DE USO DOMICILIAR. NÃO ENQUADRAMENTO COMO ANTINEOPLÁSICO, COMO MEDICAÇÃO ASSISTIDA (HOME CARE) NEM ESTÁ ENTRE OS INCLUÍDOS NO ROL DA ANS PARA ESSE FIM. COBERTURA LEGAL OBRIGATÓRIA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, é lícita a exclusão da cobertura, nos contratos de plano de saúde, de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, nem como medicação assistida (home care). Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.939.779/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES. EQUIPAMENTO DE MONITORAMENTO DE GLICOSE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXCEÇÃO. TRATAMENTO DOMICILIAR. EQUIPAMENTO NÃO LIGADO A ATO CIRÚRGICO. RECUSA DE COBERTURA DEVIDA.
+1. Segundo a jurisprudência desta Corte, é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. Hipótese em que são pleiteados equipamentos para monitoramento de glicose, os quais são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura.
+3. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO INDENIZATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte, é lícita a exclusão da cobertura, nos contratos de plano de saúde, de medicamento de uso domiciliar que não se enquadre como antineoplástico oral, nem como medicação assistida (home care). Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.058.484/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Inafastável, portanto, o óbice da Súmula 83/STJ.
+Ressalto, também, que a alteração das premissas firmadas pelo Tribunal de origem, de que houve, no contrato, a exclusão do fornecimento de medicamentos para tratamento domiciliar - hipótese dos autos - e de que não foi indicado, à segurada, tratamento "home care", exigiria a interpretação de cláusulas do contrato e o reexame de provas, providências vedadas em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Fica prejudicada, portanto, a análise do pedido de fixação de compensação por danos morais.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
