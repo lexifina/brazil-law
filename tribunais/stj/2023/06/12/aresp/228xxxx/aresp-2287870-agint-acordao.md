@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo in terno interposto por BANCO DO BRASIL SA, contra a decisão unipessoal que, conhecendo de agravo, conheceu em parte do recurso especial que interpusera, negando-lhe provimento.
+Ação: de prestação de contas, em segunda fase, ajuizada por FRIGOPAM FRIGORIFICO PORTAL DA AMAZONIA LTDA FALIDO em desfavor do ora agravante, tendo por objeto lançamentos em conta corrente bancária.
+Sentença: declarou o crédito em favor do agravado no valor de R$ 1.146.320,89.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa (e-SJ fl. 1.578):
+"AÇÃO DE PRESTAÇÃO DE CONTAS - Condições da ação - Pretensão de que seja extinto o processo, sem resolução de mérito - Impossibilidade - Hipótese em que a matéria relacionada com as condições da ação já foi decidida na primeira fase - PRELIMINAR REJEITADA.
+AÇÃO DE PRESTAÇÃO DE CONTAS - PRESCRIÇÃO - Pretensão do réu de que seja reconhecida a prescrição da pretensão da autora, com fulcro na previsão do artigo 206, §30, do atual Código Civil - Descabimento - Hipótese em que, objetivando a ação de prestação de contas uma verificação da legalidade da cobrança, este direito pessoal submete-se ao mesmo prazo prescricional decenal - Precedentes do Eg. Superior Tribunal de Justiça - Contrato de trato sucessivo, cujo prazo prescricional tem início apenas ao fim das renovações sucessivas; ou seja, quando encerrado o contrato - RECURSO DESPROVIDO.
+AÇÃO DE PRESTAÇÃO DE CONTAS - Laudo pericial -Pretensão de que sejam afastadas as conclusões periciais, pois a autora não impugnou de forma especificada as contas prestadas pelo banco e não houve a apresentação dos livros fiscais da autora ao perito - Descabimento -Hipótese em que as contas foram devidamente impugnadas, de modo que foi nomeado perito judicial para uma análise contábil, visando a solução do litígio - Documentos solicitados ao banco não apresentados - Conclusão pericial correta em relação aos débitos não comprovados -RECURSO DESPROVIDO".
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 240, § 1º, 513, § 1º, 523 e 1.022 do CPC/2015, e 206, § 3º, IV, do CC/02 sustentando, além de negativa de prestação jurisdicional, que: (i) aplica-se à pretensão de restituição de valores debitados em conta corrente o prazo prescricional de 3 anos; (ii) está prescrito o pleito de restituição de valores de lançamentos anteriores ao decênio que precedeu a data de ajuizamento da ação; (iii) incumbe ao recorrido promover o cumprimento de sentença, de modo que, somente após o seu requerimento cabe a intimação do recorrente para pagamento voluntário, sob pena de pagamento de multa e honorários advocatícios.
+Prévio juízo de admissibilidade: o TJ/SP inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: a par de conhecer do agravo, conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, conforme a ementa que se segue (e-STJ fl. 1.745):
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. VIOLAÇÃO DOS ARTS. 513, § 1º, 523 E 1.022 do CPC/2015. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. DECENAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. TERMO INICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de prestação de contas, em segunda fase.
+2. Não está caracterizada, na hipótese dos autos, a violação dos arts. 513, § 1º, 523 e 1.022 do CPC/2015, porquanto o Tribunal de origem, ao apreciar os embargos de declaração, sanou a omissão contida no acórdão recorrido quanto ao ponto, esclarecendo que o prazo para pagamento voluntário do débito apenas se iniciará após o requerimento de cumprimento de sentença por parte do credor.
+3. O Tribunal de origem alinhou-se à jurisprudência desta Corte ao decidir que a pretensão de exigir contas está sujeita ao prazo prescricional geral de 10 anos, ante a ausência de previsão de prazo específico no ordenamento jurídico. Precedentes.
+4. A ausência de decisão acerca dos argumentos invocados pelo recorrente quanto ao termo inicial da prescrição impede o conhecimento do recurso especial quanto ao ponto, em que pese a oposição de embargos de declaração. Aplicação da Súmula 211/STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido".
+Agravo interno: nas razões do presente recurso, o agravante insurge-se contra a aplicação da Súmula 211/STJ.
+Aduz que, consoante o art. 1.025 do CPC, é admitido o prequestionamento ficto, e, no mais, reitera que a obrigação de prestar contas não alcança lançamentos feitos há mais de 10 anos antes do ajuizamento da ação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. PRESCRIÇÃO. TERMO INICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de prestação de contas, em segunda fase.
+2. Em que pese a oposição de embargos de declaração, a ausência de decisão do acórdão recorrido acerca dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial. Aplicação da Súmula 211/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada, na parte em que impugnada pelo agravante, não conheceu do recurso especial com fundamento na Súmula 211/STJ.
+Pela análise das razões recursais apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento apto à modificação do decisum.
+Com efeito, consoante asseverado na decisão impugnada, o acórdão recorrido, em que pese a oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo Banco quanto ao art. 240, § 1º, do CPC/2015, o que impede o conhecimento do recurso especial quanto ao ponto, pois não satisfeito o requisito do prequestionamento.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Ao STJ cabe, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Por essa mesma razão é que não basta à satisfação do requisito do prequestionamento a mera oposição de embargos de declaração na origem. Inclusive, foi com o desiderato de sintetizar essa orientação que o STJ editou a Súmula 211/STJ, que prevê a inadmissibilidade do recurso especial por falta de prequestionamento ainda que opostos aclaratórios no Tribunal a quo.
+No tocante ao argumento do agravante quanto à incidência do art. 1.025 do CPC/15, cabe ressaltar que o referido dispositivo estabelece que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o Tribunal Superior considere existentes erro, omissão, contradição ou obscuridade.
+Entretanto, na situação posta em análise, não se vislumbrou qualquer desses vícios no acórdão recorrido, conforme asseverado na decisão agravada, sendo oportuno destacar que o ora agravante sequer suscitou eventual negativa de prestação jurisdicional especificamente quanto ao art. 240, § 1º, do CPC/2015 ou quanto à forma de contagem do prazo prescricional.
+Assim, mostra-se inviável superar a exigência do requisito do prequestionamento, devendo ser mantida a incidência da Súmula 211 do STJ à espécie.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
