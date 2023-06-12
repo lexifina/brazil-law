@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso ordinário, impetrado em favor de WESLEY CAMILO GONCALVES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, 03/03/2023, pela suposta prática do crime previsto no art. 171, § 4º, por 2 (duas) vezes, na forma do art. 69, ambos do Código Penal- fl. 17.Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão preventiva ao fundamento de que -
+"Resta explicitada, assim, a organização do grupo na prática do delito, ocasionando prejuízo exacerbado à vítima, além de haver indícios da suposta atuação pretérita do paciente em outro crime de igual modus operandi, no estado de Sergipe. Outrossim, extraem-se da Certidão de Antecedentes Criminais e da Folha de Antecedentes Criminais do paciente (ord. 39/40), diversas anotações pretéritas, o que indica que, caso seja solto, poderá voltar a delinquir" - fl. 23.
+A ordem foi denegada em acórdão de fls. 16-28.
+Postula a defesa, no presente writ, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente em razão ausência de fundamentação idônea da decisão que decretou a segregação cautelar, ausência de autoria delitiva, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostentaria condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Aduz que, em caso de condenação, terá direito a regime diverso do fechado.
+É o breve relatório.
+Decido.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois a cópia do inteiro teor da decisão que converteu a prisão em flagrante em prisão preventiva acostada às fls. 178-185 está ilegível.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:"Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apres entar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE,Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 15/12/2022.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+P. e I.
