@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 1.646-1.647):
+AGRAVO DE INSTRUMENTO. CEF. VÍCIOS DE CONSTRUÇÃO. AÇÃO INDENIZATÓRIA. INTERVENÇÃO NA LIDE. COMPETÊNCIA. AGRAVO PROVIDO EM PARTE.
+- Para a configuração do interesse da Caixa Econômica Federal como parte no processo, é necessário que o contrato tenha sido celebrado entre 02.12.1988 e 29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA.
+- Depreende-se dos documentos que instruem o presente recurso, que em relação aos agravados Diego Tauá Alves da Silva e Jurema Aparecida de Paula, que os contratos firmados pelos mesmos não possuem cobertura pelo FCVS (fls. 273 e 275 dos autos de origem), o que enseja, a ausência interesse da CEF em intervir na lide e, por conseguinte, a manutenção da decisão que determinou a remessa dos autos à Justiça Estadual.
+- Em relação às partes agravadas Antonio José de Paula Filho, Eduardo dos Santos Neto e Horst Gunther Muller, depreende-se dos documentos de fls. 274, 275 e 299 dos autos de origem, que os contratos respectivos foram firmados em 01/08/1989, 01/03/1997 e 01/10/1994, e que possuem cobertura pelo FCVS, o que torna de rigor a parcial reforma da decisão recorrida, uma vez que configura-se o interesse da CEF em intervir na lide, com a manutenção do feito na Justiça Federal em relação aos mencionados autores.
+- Não evidenciado nos autos elementos que possam identificar o interesse da CEF em intervir na lide em relação à parte agravada Euza Barbosa de Moura.
+- Agravo de instrumento a que se dá parcial provimento.
+Interpostos embargos de declaração, esses foram rejeitados pelo Tribunal de origem (fls. 2.013-2.015).
+No presente recurso especial, o recorrente suscita violação da Lei n. 12.409/2011 e da MP n. 633/2013, recentemente convertida na Lei n. 13.000/2014, sustentando, em síntese, o seguinte (fl. 2.040):
+A intervenção da CEF é imprescindível no caso dos autos. Isto porque, com a natureza pública das apólices contratadas pelos Agravados, em sendo proferida sentença condenatória, o FCVS suportará diretamente toda e qualquer despesa vinculada ao seguro habitacional do SFH, relativamente às apólices públicas do Seguro Habitacional do Ramo 66, ficando a CAIXA ECONÔMICA FEDERAL (CAIXA) responsável pela regulação e cobertura dos sinistros, na qualidade de Administradora do FCVS, tanto na esfera administrativa quanto na judicial.
+Aduz que a Caixa Econômica Federal possui efetivo interesse na causa em razão do possível comprometimento do FCVS, motivo pelo qual a competência deve ser mantida na Justiça Federal.
+O recorrido ofereceu contrarrazões ao recurso especial (fls. 2.141-2.162).
+Sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 2.169-2.175).
+É, no essencial, o relatório.
+Verifica-se a existência de controvérsia acerca da competência interna das Seções do STJ.
+Discute-se nos autos questionamento a respeito da legitimidade da Caixa Econômica Federal e da competência da Justiça Federal no que concerne a contratos vinculados ao Sistema Financeiro da H abitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+A matéria foi objeto de discussão no âmbito do Supremo Tribunal Federal, com o julgamento do Tema n. 1.011/STF, em repercussão geral no RE n. 827.996, que foi no seguinte sentido:
+Recurso extraordinário. Repercussão geral.
+2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) - Apólices públicas, ramo 66.
+3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica.
+5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente.
+6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse.
+7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010.
+8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na forma do parágrafo único do art. 5º da Lei 9.469/1997.
+(RE n. 827.996, relator GILMAR MENDES, Tribunal Pleno, julgado em 29/6/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-208 DIVULG 20/8/2020 PUBLIC 21/8/2020.)
+Entretanto, verifica-se que a competência interna do Superior Tribunal de Justiça para o julgamento de tais questões ainda não está pacificada, pois a Corte Especial não concluiu o julgamento dos CCs n. 140.456 e 148.188. Logo, esta Corte ainda não definiu sequer qual a Seção desta Corte é o juízo natural para o exame da presente demanda.
+Assim, visando à segurança jurídica e à pacificação dos conflitos, necessário se faz o sobrestamento do presente feito até que seja fixada a competência interna para o julgamento do feito. Nesse sentido, cito o REsp n. 2.068.161, Ministro Mauro Campbell Marques, DJe de 18/5/2023.
+Ante o exposto, de termino o sobrestamento do feito até a conclusão do julgamento dos CCs n. 140 .456 e 148.188 pela Corte Especial deste Tribunal.
+Publique-se. Intimem-se.
