@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS EDUARDO SANTOS DA PACIÊNCIA fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado (e-STJ fls. 156):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO. ERRO NA DOSIMETRIA DA PENA. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. PENA-BASE FIXADA NO MÍNIMO LEGAL. SUPERVENIÊNCIA DA LEI Nº 13.654/2018. REVOGAÇÃO DO INCISO I DO § 2º DO ART. 157 DO CP. ROUBO COM EMPREGO DE ARMA BRANCA. CIRCUNSTÂNCIA QUE NÃO MAIS SE SUBSUME ÀS MAJORANTES DO ROUBO. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. REDIMENSIONAMENTO DA PENA FIXADA NA SENTENÇA QUE SE IMPÕE. REDUÇÃO DA PENA DE MULTA QUE SE FAZ DE OFICIO. APELO PARCIALMENTE PROVIDO.
+1 - As atenuantes do art. 65, do Código Penal, nunca podem levar a pena privativa de liberdade para nível aquém do mínimo legal que é, até aí, a reprovação mínima estabelecida no tipo legal. Incidência da Súmula 231 do STJ.
+II - A Lei nº 13.654, de 23 de abril de 2018, revogou o inciso I do artigo 157 do CP, de modo que o emprego de arma branca não se subsume mais a qualquer uma das majorantes do crime de roubo. Assim, uma vez que o caso dos autos é de roubo com emprego de arma branca (facão artesanal), impõe-se a redução da pena na terceira fase da dosimetria, em observância ao princípio da retroatividade da lei penal mais benéfica.
+Precedentes STJ.
+O recorrente foi condenado à pena de 5 anos e 4 meses de reclusão em regime semiaberto, além do pagamento de 106 dias-multa, por infração ao art. 157, § 2º, I, do Código Penal.
+O Tribunal de origem deu parcial provimento ao apelo da defesa para redimensionar a pena para 4 anos de reclusão e 10 dias-multa (e-STJ fls. 148/166).
+Os embargos de declaração opostos pelo ora recorrente foram rejeitados (e-STJ fls. 190/208).
+O recorrente alega violação do art. 33, § 2º, c, do Código Penal, pois "é primário, foi fixada a pena-base no mínimo legal diante da análise positiva de todas as circunstâncias judiciais, pena esta que foi mantida ao final, estão preenchidos os requisitos do art. 33, § 2º, c, devendo ser fixado o regime de cumprimento aberto" (e-STJ fl. 218).
+Contrarrazões apresentadas às e-STJ fls. 224/231.
+Juízo prévio de admissibilidade (e-STJ fl. 234).
+Parecer do Ministério Público Federal pelo provimento recurso especial (e-STJ fls. 249/250).
+É o relatório.
+Preenchidos os requisitos de admissibilidade, passa-se ao exame recursal.
+Na primeira instância, o magistrado, na terceira fase da dosimetria da pena, considerou a causa de aumento específica de "emprego de arma nos termos do art. 157, § 2º, inciso I, do CPB, devendo, no presente caso, o aumento ser no mínimo legal, ou seja, em 1/3" (e-STJ fls. 94/102).
+No acórdão impugnado, todavia, o Tribunal de origem, consignou (e-STJ fl. 161):
+Nesta terceira fase da dosimetria, verifica-se que o douto magistrado exasperou a pena intermediária em razão da majorante "emprego de canivete" (arma branca).
+A Lei n. 13.654, de 23 de abril de 2018, revogou o inciso I do artigo 157 do CP, de modo que o emprego de arma branca não se subsume mais a qualquer uma das majorantes do crime de roubo. Em havendo a superveniência de novatio legis in mellius, ou seja, sendo a nova lei mais benéfica ao réu, é de rigor que ela retroaja para beneficiar o acusado, ora apelante.
+A jurisprudência desta Corte orienta que o deferimento do regime aberto se dá desde que preenchidos os requisitos constantes do art. 33, § 2º, c, e § 3º, c/c art. 59 do Código Penal, quais sejam, ausência de reincidência, condenação por um período igual ou inferior a 4 anos de reclusão e inexistência de circunstância judicial desfavorável.
+No caso, não foram reconhecidas circunstâncias judiciais desfavoráveis, tampouco a reincidência, bem como inexiste fundamentação concreta a justificar o agravamento do regime.
+A conclusão adotada pelo Tribunal a quo destoa da jurisprudência do STJ sobre o tema, conforme se verifica dos seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. LEI N. 13.654/2018. NOVATIO LEGIS IN MELLIUS. ARMA BRANCA (FACA). CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AFASTAMENTO. AUSÊNCIA DE MAIOR REPROVABILIDADE. REGIME ABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se nos autos que o delito em análise foi praticado com o emprego de arma branca (faca), situação não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do §2º do art. 157 do CP. Assim, tendo em vista a abolitio criminis, promovida pela referida lei, e em observância ao art. 5º, inciso XL, da Constituição Federal, é de rigor a aplicação da novatio legis in mellius, devendo ser excluída a causa de aumento do art. 157, §2º, inciso I, do CP do cálculo dosimétrico.
+2. O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 436.314/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 16/8/2018, DJe 21/8/2018).
+3. No presente caso, pela leitura da denúncia, da sentença condenatória e do acórdão recorrido, verifica-se que, no caso concreto, não foi apontada qualquer circunstância que demonstrasse a maior reprovabilidade da conduta pelo uso da arma branca (faca) a justificar o aumento da pena-base, configurando a referida ameaça inerente ao tipo penal de roubo. Necessário, portanto, o decote de referida exasperação da pena-base.
+4. Estabelecida a pena definitiva do acusado em 4 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regime aberto é o adequado à prevenção e reparação do delito.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1.847.944/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021.)
+Incide, no ponto, a Súmula 568/STJ, segundo a qual o relator poderá dar ou negar provimento ao recurso, monocraticamente, quando houver entendimento dominante desta Corte acerca do tema.
+Com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, do u provimento ao recurso especial para reformar fixar o regime aberto para o cumprimento da pena.
+Publique-se. Intimem-se.
