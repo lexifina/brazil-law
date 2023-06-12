@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO. PEDIDO RECU RSAL NÃO CONHECIDO.
+1. Hipótese em que o Agravante não impugnou o fundamento consignado na decisão agravada de que, tendo concluído o ensino fundamental completo ao tempo da sua prisão, o Reeducando não tem direito à benesse, pois não atendido o requisito previsto no § 5.º do art. 126 da LEP, que somente admite a remição por conclusão de ensino durante o cumprimento da pena. Precedentes.
+2. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+3. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+4. Recurso não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDERSON LUIZ SILVA BUDOIA contra a decisão de fls. 279-282, em que deneguei a ordem de habeas corpus. O decisum foi assim ementado (fl. 279):
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO EXAME NACIONAL DE ENSINO MÉDIO - ENEM. INCENTIVO AO ESTUDO E À RESSOCIALIZAÇÃO COMO FINALIDADE PRECÍPUA DA PENA. REEDUCANDO QUE, SEGUNDO AS INSTÂNCIAS ORDINÁRIAS, JÁ HAVIA CURSADO O ENSINO MÉDIO ANTERIORMENTE AO INÍCIO DA EXECUÇÃO. ART. 126, § 5.º, DA LEP. EXIGÊNCIA DE CONCLUSÃO DO ENSINO FUNDAMENTAL, MÉDIO OU SUPERIOR DURANTE O CUMPRIMENTO DA PENA. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA."
+As razões recursais sustentam que o Agravante " i nfirmou todos os fundamentos do decisum recorrido, do que, a decisão não foi conhecida pelo presidente do STJ, nos termos da Súmula 07 do Superior Tribunal de Justiça, combinado com art. 932, inciso III, do CPC; consoante art. 21-E, inciso V, art. 253, parágrafo único, incisoI, ambos do RISTJ; Súmula n. 182/STJ, e art. 85, § 11, e §§ 2º e 3º do CPC, c/c e paradigma, EAREsp 746.775-PR, relator Ministro João Otavio de Noronha, relator para Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018" (fl. 293).
+Requerem a reconsideração da decisão agravada ou a submissão do feito ao Órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO. PEDIDO RECU RSAL NÃO CONHECIDO.
+1. Hipótese em que o Agravante não impugnou o fundamento consignado na decisão agravada de que, tendo concluído o ensino fundamental completo ao tempo da sua prisão, o Reeducando não tem direito à benesse, pois não atendido o requisito previsto no § 5.º do art. 126 da LEP, que somente admite a remição por conclusão de ensino durante o cumprimento da pena. Precedentes.
+2. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+3. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+4. Recurso não conhecido.
+VOTO
+A pretensão recursal não pode ser analisada.
+No ato ora agravado, ao denegar a ordem, ressaltei que, "tendo concluído o ensino médio ao tempo da sua prisão, o Reeducando não tem direito à benesse, pois não atendido o requisito previsto no § 5.º do art. 126 da LEP, que somente admite a remição por conclusão de ensino durante o cumprimento da pena" (fl. 281). A esse respeito, destaquei os seguintes precedentes, mutatis mutandis:
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE.
+1. Visando à ressocialização do apenado e tendo como base o direito fundamental à Educação, o Conselho Nacional de Justiça (CNJ), por meio da Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021 -, estabeleceu a possibilidade de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio - ENEM.
+2. Com efeito, o propósito da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento, mas, sobretudo, fomentar a aquisição de novos conhecimentos e ferramentais educacionais por parte do apenado, de modo a facilitar a sua reintegração social.
+3. No caso, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio, visto que tal situação destoa do escopo da norma.
+4. Ordem denegada." (HC n. 705.708/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/02/2022, DJe 25/02/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR ESTUDOS. ENSINO FUNDAMENTAL, MÉDIO OU SUPERIOR. CONCLUSÃO DURANTE O CUMPRIMENTO DA PENA. OBRIGATORIEDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A remição da pena por estudos decorre da conclusão de ensino fundamental, médio ou superior, durante o cumprimento da pena. Precedente.
+2. Agravo regimental desprovido." (AgRg no HC n. 659.906/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2021, DJe 17/09/2021.)
+Em conclusão, deneguei a ordem porque o Agravante já havia concluído o ensino médio no ano de 1982, portanto, antes do seu ingresso no sistema penitenciário ocorrido em 2015, e, a reforma dessa conclusão sem a apreciação do acervo fático-probatório, é providência incabível no âmbito do habeas corpus.
+O Agravante, todavia, não infirmou o referido fundamento nas suas razões recursais, limitando-se a fazer menção a Súmulas e dispositivos legais que sequer constam da decisão agravada. Ocorre que o princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos. E, no caso, em que as presentes razões estão dissociadas dos fundamentos do decisum ora recorrido, há violação do Art. 1.021, § 1.º, do Código de Processo Civil, in litteris (sem grifos no original):
+"Art. 1.021. Cont ra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Essa norma, a propósito, foi identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, como se vê: " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Por pertinente, cito também os seguintes precedentes, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É ônus do agravante impugnar os fundamentos da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ.
+2. O agravo regimental possui razões de pedir dissociadas do ato judicial combatido e não fez oposição aos motivos que ensejaram o indeferimento liminar do habeas corpus.
+3. Não há ilegalidade a ser sanada de ofício. O writ tutela a liberdade de locomoção. Se foi declarada extinta a punibilidade do postulante, em razão da prescrição executória, inexiste ameaça ou lesão a direito de ir e vir e, portanto, está ausente a condição para o exercício do direito de ação.
+4. Agravo regimental não conhecido." (STJ, AgRg no HC 525.324/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO. PEDIDO RECURSAL NÃO CONHECIDO.
+1. Hipótese na qual o Ministro Presidente, na decisão ora agravada, não analisou o fundo da controvérsia, ante a incompetência do Superior Tribunal de Justiça. Nas presentes razões recursais, o Agravante deixou de impugnar o fundamento da decisão ora recorrida, limitando-se a reiterar as alegações meritórias ventiladas na inicial deste feito.
+2. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, em que se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+3. Pedido recursal não conhecido." (AgRg no HC 637.769/ MG , Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021.)
+O mesmo entendimento prevalece no âmbito do Supremo Tribunal Federal, conforme se infere dos seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. INCOGNOSCIBILIDAE. DIALETICIDADE. AUSÊNCIA. HOMICÍDIO QUALIFICADO. FEMINICÍDIO. OCULTAÇÃO DE CADÁVER. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Na esteira da pacífica jurisprudência desta Corte, a interposição de agravo regimental demanda a mínima articulação de argumentos aptos a infirmar a decisão arrostada, não sendo suficiente a mera reiteração dos termos aduzidos na inicial do writ.
+2. A ausência de impugnação específica aos fundamentos da decisão unipessoal conduz à imediata e integral incognoscibilidade do agravo, por violação ao princípio da dialeticidade recursal.
+3. Agravo regimental não conhecido." (HC 209.857-AgR, Relator EDSON FACHIN, Segunda Turma, julgado em 16/05/2022, DJe 01/06/2022; sem grifos no original.)
+"Agravo regimental no habeas corpus. 2. Recurso que não impugna os fundamentos da decisão agravada. Violação ao princípio da dialeticidade. 3. Agravo não conhecido." (HC 214.066-AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 23/05/2022, DJe 25/05/2022; sem grifos no original.)
+Portanto, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que denegou a ordem de habeas corpus seus próprios fundamentos.
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
