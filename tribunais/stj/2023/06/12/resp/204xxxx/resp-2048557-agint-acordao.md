@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que deu provimento ao recurso especial, fundamentado no art. 105, III, a, da CF/1988, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+CUMPRIMENTO DE SENTENÇA. Obrigação de fazer. Pedido de fornecimento de medicamentos. Falecimento da autora no curso da demanda. Extinção do processo, sem julgamento de mérito. Pretensão de execução das astreintes. Inadmissibilidade. Multa que tem caráter coercitivo e personalíssimo; não indenizatório, sendo, pois, intransmissível. Recurso não provido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial, com determinação de devolução dos autos ao Tribunal de origem para o regular prosseguimento do feito."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Sucede que o Tribunal de origem rejeitou a pretensão do recorrente não somente porque entendeu que o referido direito é intransmissível, mas também porque concluiu que não estavam presentes os requisitos para a incidência da multa diária na espécie.
+ ..
+Portanto, o acórdão de origem afastou a pretensão do recorrente também por considerar que a Fazenda Estadual não descumpriu a ordem judicial, e portanto não estaria sujeita à incidência da multa diária. Trata-se de fundamento autônomo adotado pelo Tribunal a quo, cujo afastamento esbarra na súmula 7/STJ, e que sequer fora impugnado nas razões do recurso de revista.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. MULTA DIÁRIA. DESCUMPRIMENTO DE ORDEM. FORNECIMENTO DE MEDICAMENTOS. FALECIMENTO. SUSCESSORES. DIREITO DE TRANSMISSIBILIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de cumprimento de sentença em ação de obrigação de fazer em que se pleiteia a cobrança de multa diária imposta em razão de descumprimento de ordem de fornecimento de medicamento. Na sentença, julgou-se extinto o processo e declarou-se a inexigibilidade das astreintes executadas. No Tribunal a quo, a sentença foi mantida. Opostos embargos de declaração, foram rejeitados. Interposto recurso especial, foi provido para determinar a devolução dos autos ao Tribunal de origem para o regular prosseguimento do feito executivo.
+II - O entendimento desta Corte é no sentido quanto à possibilidade de reconhecimento do direito dos sucessores ao recebimento do quantum devido a título de multa diária em caso do falecimento da parte autora quando fixados anteriormente em tutela antecipatória. Nesse sentido: EREsp n. 1.795.527/RJ, relatora Ministra Laurita Vaz, relator para acórdão Ministro Og Fernandes, Corte Especial, julgado em 3/8/2022, DJe de 21/11/2022; e AgInt no REsp n. 1.761.086/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020.
+III - Correta a decisão que deu provimento ao recurso especial no sentido de reconhecer o direito de transmissibilidade aos herdeiros de multas diárias (astreintes) e podendo ser por eles executada e determinando o retorno dos autos ao Tribunal de origem para o prosseguimento do feito, ficando prejudicada a matéria concernente ao pagamento das verbas sucumbenciais.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O entendimento desta Corte é no sentido quanto à possibilidade de reconhecimento do direito dos sucessores ao recebimento do quantum devido a título de multa diária em caso do falecimento da parte autora quando fixados anteriormente em tutela antecipatória. Nesse sentido:
+PROCESSUAL CIVIL. ASTREINTES. TRANSMISSIBILIDADE AOS HERDEIROS. CABIMENTO.
+1. No caso autos, discute-se a transmissibilidade aos herdeiros de astreintes em caso do falecimento da parte autora quando fixados anteriormente em tutela antecipatória.
+2. O fato de a obrigação material não mais poder ser cumprida por ser personalíssima (como é a hipótese dos autos, que versa sobre tratamento médico) não ocasiona a extinção da multa, que já se incorporou ao patrimônio dos beneficiados pela frustração da ordem judicial.
+3. Embargos conhecidos e providos para reconhecer a transmissibilidade das astreintes para os herdeiros do autor falecido.
+(EREsp n. 1.795.527/RJ, relatora Ministra Laurita Vaz, relator para acórdão Ministro Og Fernandes, Corte Especial, julgado em 3/8/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAÇÃO. FALECIMENTO DA AUTORA. PERDA DE OBJETO. SENTENÇA DE EXTINÇÃO - ART. 267, IV, DO CPC. IRRESIGNAÇÃO. PRETENSÃO PELA HABILITAÇÃO E COBRANÇA DE MULTA COMINATÓRIA. TRANSMISSIBILIDADE AOS HERDEIROS. CRÉDITO DE NATUREZA PATRIMONIAL, QUE NÃO APRESENTA O MESMO CARÁTER PERSONALÍSSIMO DA OBRIGAÇÃO DE FORNECER TRATAMENTO MÉDICO OU MEDICAMENTO. POSSIBILIDADE DE PROSSEGUIMENTO DA EXECUÇÃO PELOS SUCESSORES DA PARTE DEMANDANTE.
+I - Na origem, trata-se de ação objetivando compelir os réus à obrigação de fornecimento do medicamento. A ação foi julgada extinta sem resolução do mérito, por perda do objeto, em decorrência do falecimento superveniente da autora. Posteriormente, acolhendo os embargos de declaração opostos, com efeitos infringentes, a sentença foi modificada para decotar de seu teor a condenação à verba honorária.
+II - O Tribunal de Justiça do Estado de São Paulo, em via recursal, negou provimento ao recurso de apelação mantendo o quanto decidido nos aclaratórios infringentes.
+III - É plenamente possível o reconhecimento do direito dos sucessores ao recebimento do quantum devido a título de multa diária, visto que, segundo entendimento do STJ, nas demandas cujo objetivo é a efetivação do direito à saúde, a multa diária prevista no art. 461, §§ 4º a 6º, do CPC/1973 (correspondente ao art. 537 do CPC/2015), não se reveste da mesma natureza personalíssima que possui a pretensão principal, representando, em verdade, crédito patrimonial, de modo que é plenamente transmissível aos herdeiros, podendo ser por eles executada. Nesse sentido: AgInt no AREsp n. 1.139.084/SC, relator Ministro Napoleão Nunes Maia Filho, Órgão Julgador T1 - Primeira Turma, DJe 28/3/2019.
+IV - Outrossim, incabível à parte recorrente suscitar o óbice do art. 537, § 1º, do CPC, pois, além de configurar inovação recursal, tal dispositivo se aplica às multas vincendas, e não às multas vencidas, que constituem direito patrimonial transmissível aos sucessores. Aliás, tal argumento também também atrai o disposto na Súmula n. 284/STF.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.761.086/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020.)
+Correta a decisão que deu provimento ao recurso especial no sentido de reconhecer o direito de transmissibilidade aos herdeiros de multas diárias (astreintes) e podendo ser por eles executada e determinando o retorno dos autos ao Tribunal de origem para o prosseguimento do feito, ficando prejudicada a matéria concernente ao pagamento das verbas sucumbenciais.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
