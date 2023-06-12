@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 84-90, em que concedi, in limine, o habeas corpus a fim de estender ao agravado os efeitos da decisão proferida no HC n. 446.931/ES, para fixar o patamar de exasperação das penas-base pelos crimes de tráfico e associação para o tráfico em 3/5 acima do mínimo legal e a fração de acréscimo em decorrência da majorante para o mínimo legal, por conseguinte, readequar as penas impostas ao acusado, de modo a torná-las definitivas em 14 anos, 11 meses e 6 dias de reclusão e 1.940 dias-multa.
+Assere que a decisão agravada, "além de admitir equivocadamente o uso do writ como sucedâneo recursal e descumprir as balizas do princípio da individualização da pena, incidiu em nulidade diante da ausência de prévia manifestação do Ministério Público e da necessária notificação da autoridade coatora para prestar informações" (fl. 99).
+Salienta também que "as situações dos réus não podem ser, singelamente, igualadas, mesmo que tenham praticado crimes similares" (fl. 100).
+Requer, assim, a reconsideração do decisum a submissão do feito para julgamento na Sexta Turma.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. POSSIBILIDADE SUPOSTA OFENSA AO CONTRADITÓRIO. INOCORRÊNCIA. SOLICITAÇÃO DE INFORMAÇÕES. ÂMBITO DE DISCRICIONARIEDADE DO JULGADOR. ABERTURA DE VISTA TARDIA AO MINISTÉRIO PÚBLICO. FINALIDADE ATINGIDA. PRONUNCIAMENTO EM AGRAVO REGIMENTAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que diz respeito à impossibilidade de manejo do habeas corpus como sucedâneo de revisão criminal, a jurisprudência desta Corte Superior é firme ao asseverar a possibilidade de conhecimento do habeas corpus substitutivo de revisão criminal, sempre que constatada flagrante ilegalidade nos autos, como na hipótese. Precedentes.
+2. A possibilidade de requisição de informações antes do julgamento do habeas corpus é instrumento disponível ao arbítrio do julgador caso acredite ser necessário, consoante previsto no art. 662 do Código de Processo Penal, de modo que não se traduz, assim como apontado pelo agravante, como exercício de eventual contraditório pela autoridade coatora.
+3. A abertura de vista para manifestação do Ministério Público como custos legis, ainda que tardia, alcançou sua finalidade, pois houve a interposição de agravo regimental.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações do agravante, não vejo como alterar a conclusão já manifestada.
+Inicialmente, no que diz respeito à impossibilidade de manejo do habeas corpus como sucedâneo de revisão criminal, destaca-se que a jurisprudência desta Corte Superior é firme ao asseverar a possibilidade de conhecimento do habeas corpus substitutivo de revisão criminal, sempre que constatada flagrante ilegalidade nos autos, como na hipótese. A propósito:
+ ..
+1. Consoante entendimento e prática consolidada neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade do exame aprofundado de provas ou a necessidade de dilação fático-probatória.
+2. Mostra-se perfeitamente possível, ao menos em princípio, o conhecimento do habeas corpus impetrado nesta Corte, pois, não obstante tenha sobrevindo o trânsito em julgado da condenação, é possível verificar, em consulta processual realizada na página eletrônica do TJSP, que não há nenhum registro de revisão criminal ajuizada em favor do ora recorrente.
+ ..
+9. Agravo regimental provido, a fim de reconhecer a incidência do redutor previsto no § 4º do art. 33 da Lei de Drogas em favor do réu, aplicá-lo no patamar máximo de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; b) fixar o regime inicial aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado (condenação objeto do Processo n. 1502450-22.2020.8.26.0362).
+(AgRg no HC n. 761.799/SP, Rel. Ministro Sebastião Reis Júnior, Rel. para acórdão Ministro Rogerio Schietti, 6ª T., DJe 9/2/2023, grifei)
+ ..
+1. Mesmo que não se admita o habeas corpus como sucedâneo de revisão criminal, por configurar usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal, deve ser concedida a ordem, de ofício, se demonstrada a presença de manifesta arbitrariedade na dosimetria da pena (AgRg no HC n. 135.137/PB, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/12/2020).
+2. Agravo regimental improvido.
+(AgRg no HC n. 777.680/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 14/12/2022, destaquei)
+Além disso, é imperioso destacar que, a despeito das alegações apresentadas pelo Parquet, não é forçoso ao julgador a requisição de informações, que são a ele dirigidas caso entenda necessários maiores esclarecimento, porquanto, consoante a leitura do art. 662 do Código de Processo Penal, " s e a petição contiver os requisitos do art. 654, § 1º, o presidente, se necessário, requisitará da autoridade indicada como coatora informações por escrito. Faltando, porém, qualquer daqueles requisitos, o presidente mandará preenchê-lo, logo que Ihe for apresentada a petição" (destaquei).
+Em seguida, a teor do art. 34, XVIII, "b", do RISTJ, urge destacar que é atribuição do relator dar provimento à insurgência se o acórdão recorrido for contrário a jurisprudência dominante acerca do tema. A Súmula n. 568 do STJ também autoriza a decisão monocrática nessa mesma situação.
+O avanço para julgamento in limine de questões amplamente discutidas e pacificadas pela Terceira Seção está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa otimizar o processo e seus atos, de forma a concretizar o princípio de sua razoável duração e concentrar esforços em outras tantas postulações encaminhadas a este Superior Tribunal.
+De todo modo, a abertura de vista para manifestação do Ministério Público, ainda que tardia, sempre ocorre e, na hipótese, alcançou sua finalidade, pois oportunizou a interposição de agravo regimental. A matéria será submetida a julgamento da Sexta Turma, sem nenhum prejuízo ao órgão.
+Quanto à extensão dos efeitos concedida, ao contrário do que alega o Ministério Público, entendo que o ora agravado está em idêntica situação fático-processual ao corréu e paciente no HC n. 446.931/ES, uma vez que foi adotada a mesma fundamentação para o estabelecimento da pena-base acima do mínimo legal e para o estabelecimento da fração da causa de aumento de pena prevista no art. 40, V, da Lei n. 11.343/2006.
+À vista do exposto, nego provimento ao recurso.
