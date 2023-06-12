@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 451/455, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, sustentou que o atraso na entrega de imóvel, como ocorrido no caso dos autos, não gera danos morais, por se tratar de mero inadimplemento contratual. Requereu, nesse sentido, o reconhecimento da improcedência do pedido de fixação de compensação por danos morais.
+A parte agravada não apresentou contrarrazões, conforme certidão de fl. 521, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. ATRASO EXPRESSIVO NA ENTREGA DO IMÓVEL. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. Conforme a jurisprudência pacífica do STJ, o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+O Tribunal de Justiça de Goiás, à vista do conjunto fático-probatório produzido, entendeu estarem configurados os danos morais decorrentes do atraso na entrega do imóvel e fixou a compensação, por esse motivo, no valor de seis mil reais. Consignou o colegiado que o prazo para conclusão das obras era 30/10/2015, mas o imóvel foi entregue à parte autora somente em 24/3/2017, após dezessete meses da data pactuada (fls. 354/358, e-STJ):
+Analisando a avença firmada entre as partes verifico que constou prazo de tolerância de 180 (cento e oitenta) dias para a entrega dos serviços e obras de infraestrutura, conforme inserto na cláusula 7.3.1.1, como se vê da página 73, arquivo 6, evento 1. Observa-se outrossim que no item XVII do contrato a conclusão da obra foi prevista para o mês de abril de 2015 (pg. 38, arquivo 6, evento 1).
+Adicionando o prazo de tolerância, chega-se ao prazo final em outubro de 2015.
+Entretanto, conforme se infere dos autos, no referido mês as obras do empreendimento não encontravam-se integralmente concluídas, demonstrando sem sombra de dúvidas o descumprimento contratual por parte da ré/apelante.
+Embora sustente a ré que o atraso se deu por razões alheias a sua vontade, caberia diligenciar para concluir a avença na data prevista no contrato, mormente considerando a cláusula de tolerância pactuada, não sendo demonstrado nos autos a ocorrência de nenhum fato imprevisível para o atraso na entrega superior aos 180 (cento e oitenta) dias.
+Registro, por oportuno, que a previsão de cláusula de tolerância de 180 (cento e oitenta dias) nos contratos imobiliários já foi considerada válida pelo colendo Superior Tribunal de Justiça, conforme se infere do seguinte julgado, verbi gratia:
+(..) Na esteira do entendimento do Superior Tribunal de Justiça, este egrégio Sodalício Goiano tem jurisprudência firmada no sentido de que os fortuitos internos incluem- se no risco da atividade empresarial e, da mesma maneira, incluem-se no prazo de tolerância, conforme se depreende do seguinte julgado:
+(..) No caso concreto, conforme dito acima, a cláusula de tolerância está prevista no contrato firmado entre as partes. Tendo sido livre e expressamente pactuada, não configura qualquer abusividade, uma vez desprovida de conteúdo capaz de colocar o consumidor em desvantagem exagerada na relação negocial.
+Desse modo, assim como não há nulidade em sua pactuação, a cláusula de tolerância não pode servir de subterfúgio para a ré extrapolar a data de entrega, como pretende a apelante ao arguir que o atraso se deu por conta de demora na expedição do habite-se, de escassez de mão de obra ou excesso de chuvas, uma vez que tais fatos integram a oferta feita ao autor/recorrido e o fortuito interno arguido inclui-se no risco da atividade empresarial, sendo abrangido pelo prazo de tolerância de 180 (cento e oitenta) dias, assim, atraso superior não pode ser imputado ao consumidor.
+Quanto ao inconformismo da apelante atinente ao pedido de alteração do termo inicial para a indenização por danos materiais, vejo que merece guarida. Isso porque o Superior Tribunal de Justiça firmou o posicionamento no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador, in verbis:
+(..) Na espécie, o prazo final para a requerida entregar a unidade imobiliária à parte autora era 30/10/2015, todavia, o imóvel só foi entregue à parte autora em 24/3/2017, após dezessete meses da data pactuada, quando há muito expirado o prazo de 180 dias previsto na cláusula de tolerância. Nesse contexto, o termo inicial do pagamento dos lucros cessantes deve ser o dia seguinte ao final do cômputo dos cento e oitenta dias de tolerância para a entrega do imóvel, consoante acordado pelas partes no contrato, e o termo final, a data da entrega das chaves.
+(..) Por fim, em relação a inexistência de dano moral indenizável, importante ressaltar que, de acordo com o STJ, o simples fato de a apelante ter descumprido o prazo previsto no contrato para a entrega da imóvel não acarreta, por si só, danos morais (Agint no Resp 1.684.398, Rel. Ministro Ricardo Villas Bôas Cueva, julgado em 20/03/2018).
+É certo que, em situações excepcionais é cabível a condenação por danos morais, desde que devidamente comprovada a ocorrência de uma significativa e anormal violação a direito da personalidade do adquirente (STJ. 3ª. Agint no REsp 1.693.221/SP, Rel. Min. Nancy Andrighi, julgado em 20/03/2018).
+Da análise das razões do presente recurso, constata-se que não se trata de mero atraso de dezessete meses na entrega de imóvel, mas de frustração a legítima expectativa de posse e direitos do autor, mormente considerando o pagamento do preço realizado à vista. O inadimplemento contratual da apelante no presente caso, deveras, aumentou a angústia e frustração do direito do autor e não pode ser interpretado como mero dissabor advindo de corriqueiro inadimplemento de cláusula contratual, ensejando, assim, o ressarcimento do dano moral.
+(..) Assim, ao cotejar a condição econômica da apelante e do autor, bem assim a angustia e o sofrimento vivenciado, entendo que deve ser mantida a compensação por danos morais fixada no valor de R$ 6.000,00 (seis mil reais), indicado pelo juízo a quo.
+O Tribunal de origem, dessa forma, decidiu em conformidade com a jurisprudência desta Corte, no sentido de que "o atraso significativo na entrega do imóvel é capaz de caracterizar a lesão extrapatrimonial indenizável" (AgInt no AREsp 1763536/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/5/2021, DJe 24/5/2021).
+De igual teor:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. INCIDÊNCIA. DANO MORAL. ATRASO POR TEMPO EXPRESSIVO. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. CABIMENTO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+1. A jurisprudência do STJ é firme no sentido de que a demora na entrega do imóvel na data previamente acordada resulta no dever de reparação por lucros cessantes pela não fruição do imóvel durante o tempo em que a vendedora permaneceu em mora, por presunção de prejuízo do promitente- comprador. Precedentes.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial.
+3. Na hipótese, o atraso de mais de 19 meses, após o período de tolerância, na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais.
+Precedentes.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para conhecer do recurso especial e negar-lhe provimento.
+(AgInt no AREsp 1939935/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe 4/4/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. OCORRÊNCIA. VALOR. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme a jurisprudência pacífica do STJ, o atraso expressivo na entrega de empreendimento imobiliário pode configurar dano ao patrimônio moral do contratante, circunstância que enseja a reparação.
+2. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+3. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1949682/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. ATRASO EXPRESSIVO NA ENTREGA DO IMÓVEL. DANO MORAL CARACTERIZADO. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial.
+2. Na hipótese, o atraso de mais de 2 (dois) anos, após o prazo pactuado, supera o mero inadimplemento contratual, levando-se em consideração os fatos descritos pelas instâncias ordinárias, visto que a situação exposta nos autos denota circunstância excepcional que enseja a reparação por danos morais. Precedentes.
+3. Agravo interno provido para negar provimento ao recurso especial, mantendo-se a indenização por danos morais fixada pelas instâncias ordinárias.
+(AgInt no REsp 1943771/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/10/2021, DJe 17/11/2021)
+Incidente, portanto, a Súmula 83/STJ.
+Registro, também, que a alteração das conclusões adotadas pela Corte local, a fim de concluir pela não configuração dos danos morais demandaria o reexame de provas, o que não é permitido em recurso especial, a teor da Súmula 7/STJ.
+Cumpre registrar, por fim, que os recursos interpostos com fundamento no art. 105, III, alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+(..)
+2. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+3. Agravo não provido.
+(AgRg no AREsp 494.763/RS, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2014, DJe 18/8/2014)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
