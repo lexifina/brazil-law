@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ALBERTO DE SOUZA DIAS contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 233):
+Tráfico de drogas - Coesão e harmonia do quadro probatório - Validade dos depoimentos policiais - Condenação mantida.
+Pena-base - Natureza das drogas apreendidas que autoriza a exasperação levada a efeito na fase inicial do cálculo dosimétrico, consentâneo o patamar eleito a esse título. Aplicação do § 4º, do artigo 33, da Lei nº 11.343/06 - Processo em andamento - Claro indicativo da dedicação do réu a atividade criminosa - Benesse da lei especial - Aplicação Impossibilidade - Precedente do C. STJ - Peculiaridades do caso, ademais, que, de qualquer modo, não recomendam a aplicação do benefício.
+Conversão da privativa de liberdade em restritivas de direitos - "Quantum" da pena, alinhado às peculiaridades do caso que não a recomendam.
+Regime prisional fechado - Gravidade concreta do delito perpetrado, que contou com a apreensão de expressivas quantidades de drogas, de diversas naturezas, reconhecidos nocividade e alto poder viciante, certos seu potencial de disseminação e sua natureza desagregadora, a isso se alinhando a comprovada dedicação do réu à ilícita atividade.
+Apelo defensivo improvido.
+O agravante foi condenado à pena de 5 anos e 10 meses de reclusão no regime fechado, além do pagamento de 583 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/06.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 232/237).
+No recurso especial, alega-se violação do art. 33, § 4º, da Lei 11.343/2006, pois: a) o Tribunal de origem criou novos requisitos para aplicação da minorante ao afirmar que a existência de ação penal em andamento seria indicativo de dedicação a atividades criminosas; b) presentes os requisitos para incidência da causa de diminuição em seu patamar máximo, substituição da pena corporal por restritivas de direitos e fixação de regime diverso do fechado.
+Contrarrazões apresentadas às e-STJ fls. 257/260
+O Tribunal a quo inadmitiu o apelo extremo por incidência das Súmulas 7, 282, 283 e 356/STJ, fundamentos contra os quais se insurge a parte agravante (e-STJ fls. 271/274).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 295/302).
+É o relatório.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à alegada ofensa ao art. 33, § 4º, da Lei 11.343/2006, ao argumento de estarem presentes os requisitos para sua aplicação, verifica-se que esta questão não foi apreciada pelo Colegiado de origem.
+Este Superior Tribunal de Justiça orienta que "o prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento" (AgRg no REsp 1.939.244/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+No mesmo sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APELO NÃO CONHECIDO PELA DIVERGÊNCIA. COTEJO ANALÍTICO NÃO REALIZADO. NULIDADE DAS PROVAS. MATÉRIA NÃO PREQUESTIONADA. INSUFICIÊNCIA DE PROVAS. SÚMULA 7/STJ. DOSIMETRIA DA PENA. INEXISTÊNCIA DE ILEGALIDADE. APLICAÇÃO DA CAUSA DE AUMENTO JÁ APRECIADA EM HABEAS CORPUS. RESTITUIÇÃO DE BENS APREENDIDOS. ORIGEM ILÍCITA DOS VALORES E UTILIZAÇÃO DOS BENS PARA PRÁTICA DELITIVA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não se revela cognoscível a interposição do apelo nobre com base na alínea "c", do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas. Precedentes.
+2. Se o Tribunal de Justiça não analisou a questão da nulidade das provas, asseverando que a matéria foi indevidamente inaugurada pela defesa em sede de embargos de declaração, não está preenchido o requisito do prequestionamento. Súmulas 282/STF e 211/STJ.
+ ..
+6. Agravo regimental não provido.
+(AgRg no AREsp 1486412/RS. Quinta Turma. Rel. Ministro Ribeiro Dantas. Dje de 06/04/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E RESISTÊNCIA. OMISSÃO. RECURSO CABÍVEL. EMBARGOS DE DECLARAÇÃO. NÃO OPOSIÇÃO. INVIABILIDADE. VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. DOSIMETRIA. QUANTIDADE DE DROGA . AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+I - O recurso cabível para suscitar eventual ambiguidade, obscuridade, contradição, omissão ou erro material são os embargos de declaração, a teor do art. 619, do CPP e do art. 1022, inciso III, do CPC. Sendo assim, mostra-se inviável a apreciação de omissão da decisão agravada em sede de agravo regimental, como na hipótese vertente.
+II - Em verdade, com os aclaratórios opostos na origem, o recorrente pretendeu, como bem reconheceu a eg. Corte estadual, veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+III - Da análise do acórdão reprochado, verifica-se que a tese referente ao incremento da pena-base do delito de tráfico com fundamento na desconsideração da circunstância preponderante - natureza da droga -, não foi alvo de debate no Tribunal de origem.
+Desta feita, o recorrente não atuou de forma a viabilizar o conhecimento do recurso especial, acarretando a incidência dos óbices contidos nas das Súmulas 282 e 356 do Supremo Tribunal Federal Agravo regimental desprovido.
+(AgRg no AgRg no AREsp 2.063.560/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 2/8/2022, DJe de 15/8/2022).
+Se a parte recorrente entendesse haver algum vício no acórdão impugnado, deveria ter apresentado embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso. Caso persistisse omissão, seria imprescindível alegação de violação ao art. 619 do CPP, por ocasião da interposição do recurso especial, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, sob pena de incidir o intransponível óbice da ausência de prequestionamento.
+Dessa forma, não tendo sido a matéria em apreço debatida na instância ordinária, mostra-se inviável o seu exame nesta via especial ante o óbice das Súmulas 282 e 356 do STF.
+Com fulcro no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
