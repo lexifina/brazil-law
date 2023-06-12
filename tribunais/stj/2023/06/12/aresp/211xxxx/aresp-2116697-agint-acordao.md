@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CELG DISTRIBUICAO S. A. -CELG D contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do seu agravo em recurso especial em razão da incidência da Súmula 182 do STJ.
+A parte agravante afirma que no recurso interposto impugnou de forma precisa e especifica todos os fundamentos da decisão recorrida, não devendo incidir a Súmula 182 do STJ no caso em apreço.
+Requer a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Impugnação não apresentada conforme certidão de fl. 434.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 282/STF . IMPUGNAÇÃO GENÉRICA. SÚMULA 182/STJ. DECISÃO MONOCRÁTICA MANTIDA. PROVIMENTO NEGADO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 282/STF. Por conta disso, consignou-se a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+2. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+5. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ, aplicável por analogia.
+6. No agravo em recurso especial, a parte limitou-se a rebater suposta falta de prequestionamento que sequer foi fundamento de inadmissão do recurso; correta, portanto, a incidência da Súmula 182 do STJ no caso em questão.
+7 . Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ, aplicável por analogia. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+Na hipótese dos autos, a Corte de origem não admitiu o recurso especial ante o óbice contido na Súmula 282/STF. No agravo em recurso especial, a parte limitou-se a afirmar que o art. 6º da Lei 8.987/1995 foi amplamente discutido no acórdão recorrido. No entanto, esse dispositivo sequer foi mencionado na decisão agravada. Correta, portanto, a incidência da Súmula 182 do STJ no caso em questão.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
