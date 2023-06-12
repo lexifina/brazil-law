@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ODETE SOARES contra decisão de minha lavra de fls. 1.829/1.836, em que, com base nos arts. 932, inciso III, do CPC e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça -RISTJ, não conheci do agravo em recurso especial, visto que não foram impugnados os fundamentos da decisão de inadmissibilidade proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP, incidindo, in casu, a Súmula n. 182 do STJ.
+No presente regimental, a agravante afirma que impugnou especificamente todos os fundamentos da decisão recorrida e reitera os termos do seu recurso especial.
+R equer o provimento do agravo regimental para dar provimento ao recurso especial.
+Em contrarrazões, o Ministério Público Federal - MPF pugnou pelo não conhecimento do agravo regimental; se conhecido, pelo seu desprovimento. Requereu, ainda, prioridade no julgamento (fls. 1.893/1.901).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ÓBICE NÃO ATACADO NO REGIMENTAL. NOVA INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Agravo em recurso especial não conhecido, em razão da ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade da origem, incidindo, in casu, a Súmula n. 182 do STJ. No caso, a defesa não atacou especificamente o fundamento da decisão de inadmissibilidade proferida pelo Tribunal de origem, tendo se restringido a realizar mera afirmação de não ser o caso de incidência do óbice da Súmula n. 7/STJ e a reproduzir os termos do seu recurso especial.
+2. No presente regimental, a defesa apenas afirma que impugnou todos os fundamentos da decisão recorrida, limitando-se novamente a reproduzir os termos do seu recurso especial. De novo, a mera afirmação em sentido contrário, como a realizada no presente agravo regimental, não serve para desconstituir a decisão que se pretende ver reformada, o que impõe a manutenção do decisum. Trata-se de alegação genérica que é incapaz de demonstrar o equívoco da decisão contra a qual se insurge. Incidência, novamente, da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido.
+VOTO
+Não conheço do agravo regimental, uma vez que não impugna os fundamentos da decisão agravada.
+A agravante não rebate os fundamentos utilizados pela decisão de inadmissibilidade do agravo em recurso especial proferida por este juízo monocrático.
+Esta relatoria não conheceu do agravo em recurso especial, porque a defesa deixou de infirmar os fundamentos da decisão de inadmissibilidade proferida no TJSP, em atenção à necessária dialeticidade recursal, incidindo, in casu, a Súmula n. 182 do STJ (fls. 1.829/1.836).
+No caso, a defesa não atacou, de forma concreta, específica e pormenorizada, o fundamento da decisão de inadmissibilidade proferida pelo Tribunal de origem, qual seja, incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ, tendo se restringido a afirmar genericamente não ser o caso da incidência do referido óbice e, na sequência, a reproduzir os termos do seu recurso especial.
+Nesse passo, salientei que, segundo entendimento desta Corte, " p ara afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Vale a transcrição do excerto:
+"Na espécie, a defesa deixou de impugnar de forma concreta os fundamentos da decisão de inadmissibilidade da origem, já que se limitou a afirmar genericamente não ser hipótese de incidência do óbice da Súmula n. 7 do STJ e, em seguida, a reproduzir os termos do seu recurso especial.
+Conforme é cediço, faz-se necessária a impugnação específica, concreta e pormenorizada dos fundamentos da decisão agravada, não sendo suficiente a mera afirmação de não ser caso de incidência de determinado óbice, sem explicitar-se as razões que sustentariam tal alegação.
+Sobre o óbice da Súmula n. 7 do STJ, a parte restringe-se a afirmar que " a o contrário do entendimento firmado acima, não estamos tratando aqui tratando de nova reexame de provas, inexistindo fundamentação expressa neste sentido" (fl. 1706).
+Contudo, é firme o entendimento desta Corte no sentido de que " p ara afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa." (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022)." (fl. 1.834)
+Entendi, assim, ser hipótese de incidência do óbice da Súmula n. 182 do STJ.
+Contudo, contra essa fundamentação, no presente regimental, a defesa apenas afirma que impugnou todos os fundamentos da decisão recorrida, limitando-se novamente a reproduzir os termos do seu recurso especial.
+De novo, a mera afirmação em sentido contrá rio, como a realizada no presente agravo regimental, não serve para desconstituir a decisão que se pretende ver reformada, o que impõe a manutenção da decisão agravada.
+Em outras palavras, alegações genéricas a respeito de inaplicabilidade de óbices não são capazes, pela sua generalidade, de demonstrar o equívoco da decisão recorrida.
+Desse modo, o agravo regimental apresentado não ultrapassa o juízo de admissibilidade igualmente em razão da incidência da Súmula 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISLUMBRADA. RECURSO NÃO CONHECIDO.
+1. Hipótese em que o Agravante não impugnou o fundamento, consignado na decisão agravada, quanto à incognoscibilidade do habeas corpus impetrado contra acórdão transitado em julgado, em substituição à revisão criminal.
+2. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+3. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+4. Não há ilegalidade flagrante na aplicação do regime inicial fechado ao Réu reincidente, quando presente circunstância judicial desfavorável, ainda que a pena seja inferior a quatro anos de recl usão.
+5. Outrossim, havendo "circunstância judicial desfavorável (antecedentes) e sendo o acusado reincidente, ainda que não específico, incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP)" (AgRg no AREsp n. 2.172.247/DF, relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1.ª Região -, Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022).
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 798.579/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+ ..
+2. A ausência de impugnação específica aos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ, e da Súmula nº 182 desta Corte, aplicável por analogia.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 2008006/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 7/4/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Inviável a análise do mérito do recurso especial que não ultrapassou o juízo de admissibilidade.
+2. Não se conhece de agravo regimental que não impugna, especificamente, o fundamento da decisão agravada. Incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 2018698/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 18/3/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei n. 8.038/90 e 258, caput, do RISTJ.
+2. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 936.228/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/5/2017, DJe de 25/5/2017).
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. INTERPOSIÇÃO VIA FAX. INTEMPESTIVIDADE. AGRAVO. FUNDAMENTO NÃO ATACADO. SÚMULA 182/STJ. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INSUFICIÊNCIA DE PROVAS. CONJUNTO PROBATÓRIO. SÚMULA 7/STJ. FUNDAMENTO NÃO ATACADO NO REGIMENTAL.
+ ..
+2. Quando da interposição do agravo, o agravante não cuidou de rebater, de forma específica e eficiente, nenhum dos fundamentos da decisão que inadmitiu o recurso especial. Da mesma forma, aplica-se a Súmula 182/STJ ao agravo regimental.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 560.827/MG, relator Ministro Sebastião Reis Júnior , Sexta Turma, julgado em 4/12/2014, DJe 18/12/2014).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
