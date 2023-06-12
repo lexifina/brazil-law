@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES E RESISTÊNCIA. VIOLAÇÃO AO ART. 156 DO CÓDIGO DE PROCESSO PENAL. INVERSÃO DO ÔNUS DA PROVA. NÃO OCORRÊNCIA. TESE ABSOLUTÓRIA QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DOS STJ.
+I - As instâncias ordinárias, amparadas no acervo probatório, demonstraram que a materialidade e a autoria do delito imputado ao agravante estariam evidenciadas em razão da apreensão da res furtiva em seu poder e do corréu - cabos e conduítes, tendo alguns inscritos com a palavra Anatel, vários ainda embalados e aparentemente novos -, de maneira que, tendo os réus alegado que um terceiro havia lhes dado a quantia de cem reais (R$100,00) para que o material fosse queimado e retirassem apenas o cobre, caberia à própria defesa a comprovação de tal alegação, nos termos do disposto no art. 156 do Código de Processo Penal.
+II - Desse modo, evidente que a absolvição postulada pela Defesa demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RONALDO PEDRO ANTÃO, contra a decisão de fls. 371-373, por meio da qual foi negado provimento ao agravo em recurso especial.
+Consta dos autos que o eg. Tribunal de origem deu parcial provimento ao apelo da Defesa para reduzir a pena imposta ao apelante para um (01) ano, quatro (04) meses e dez (10) dias de reclusão, e dois (02) meses e vinte e sete (27) dias de detenção, em regime semiaberto, além do pagamento de quatorze (14) dias-multa, pela prática dos delitos previstos nos artigos 155, caput, e 329, na forma do artigo 69, todos do CP.
+Nas razões do recurso especial (fls. 306-314), o agravante alega violação dos arts. 155, caput, do Código Penal e 156 do Código de Processo Penal, defendendo que a condenação ocorreu "meramente por se presumir que ele subtraiu, para si, coisa alheia móvel" (fl. 314). O apelo foi inadmitido ante o óbice da Súmula 7 do STJ.
+Nesta Corte, o agravo em recurso especial foi desprovido, ante o óbice da Súmula 7 do STJ.
+No regimental (fls. 379-385), sustenta a Defesa que a controvérsia apresentada não envolve a reanálise de fatos e provas, mas apenas questões de direito, de má aplicação da lei federal.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES E RESISTÊNCIA. VIOLAÇÃO AO ART. 156 DO CÓDIGO DE PROCESSO PENAL. INVERSÃO DO ÔNUS DA PROVA. NÃO OCORRÊNCIA. TESE ABSOLUTÓRIA QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DOS STJ.
+I - As instâncias ordinárias, amparadas no acervo probatório, demonstraram que a materialidade e a autoria do delito imputado ao agravante estariam evidenciadas em razão da apreensão da res furtiva em seu poder e do corréu - cabos e conduítes, tendo alguns inscritos com a palavra Anatel, vários ainda embalados e aparentemente novos -, de maneira que, tendo os réus alegado que um terceiro havia lhes dado a quantia de cem reais (R$100,00) para que o material fosse queimado e retirassem apenas o cobre, caberia à própria defesa a comprovação de tal alegação, nos termos do disposto no art. 156 do Código de Processo Penal.
+II - Desse modo, evidente que a absolvição postulada pela Defesa demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida, na medida em que não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Sobre a tese absolutória as instâncias ordinárias, amparadas no acervo probatório, demonstraram que a materialidade e a autoria do delito imputado ao agravante estariam evidenciadas em razão da apreensão da res furtiva em seu poder e do corréu - cabos e conduítes, tendo alguns inscritos com a palavra Anatel, vários ainda embalados e aparentemente novos -, de maneira que, tendo os réus alegado que um terceiro havia lhes dado a quantia de cem reais (R$100,00) para que o material fosse queimado e retirassem apenas o cobre, caberia à própria defesa a comprovação de tal alegação, nos termos do disposto no art. 156 do Código de Processo Penal.
+A jurisprudência desta Corte é no sentido de que "Nos termos do art. 156 do Código de Processo Penal, a prova da alegação incumbirá a quem a fizer. Nesse sentido, não há que se falar em nulidade por inversão do ônus da prova na espécie, visto que caberia ao agravante no mínimo a declinação de mais detalhes acerca da pessoa que lhe teria feito a venda, o que não ocorreu, tendo o paciente sido encontrado pouco depois do furto em local próximo e na posse do bem subtraído, corroborando o que já havia constado dos relatos da testemunha e termos de apreensão e restituição" (AgRg no HC n. 396.385/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 16/6/2021).
+Em casos semelhantes, aliás, esta Corte decidiu da mesma forma, senão vejamos: HC n. 348.374/SC, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 16/3/2016; HC n. 413.696/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/10/2017 e HC n. 390.920/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017.
+Desse modo, evidente que a absolvição postulada pela Defesa, para afastar a conclusão das instâncias ordinárias que concluíram pela comprovação da materialidade e da autoria do crime de furto, demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.279.939/GO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/4/2023 e AgRg no AREsp n. 1.847.763/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/8/2021.
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
