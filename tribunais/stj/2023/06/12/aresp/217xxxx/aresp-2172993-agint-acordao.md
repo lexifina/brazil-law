@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por TCHO TCHO RESTAURANTES, ORGANIZAÇÃO DE FESTAS E PUBLICIDADE LTDA. - MICROEMPRESA contra decisão singular, desta relatoria, que negou provimento ao agravo em recurso especial, em razão da ausência de violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015 (e-STJ fls. 774/776).
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante que (e-STJ fls. 781/782):
+ ..
+Ocorre, Eminentes Ministros, ao contrário do que extrai da decisão agravada, não há razões jurídicas para o não provimento do Agravo em Recurso Especial, eis que, como se verá abaixo, manifesta infração a dispositivos de Lei Federal.
+ ..
+Se infere da decisão agravada que negou provimento ao agravo de que não há infração aos dispositivos constantes dos arts. 489, § 1º e 1.022, II, do CPC, pois o Tribunal "a quo" teria dirimido toda questão.
+Sem razão a decisão agravada, "data máxima vênia".
+É que a decisão agravada se limitou a dizer que não há omissão/nulidade do julgado "a quo", mas apenas julgamento contrário as seus interesses, e porque o Tribunal de origem teria fundamentado todas as questões trazidas e que o Estado Juiz não está obrigado a pronunciar acerca de todas as questões suscitadas pelas partes.
+Todavia, a decisão agravada não fez qualquer juízo de valor específico quanto as fáticas e de direito capazes de infirmar a conclusão adotada pelo julgado, sendo: a) enfretamento das provas de que o corréu, Marcos Paulo Silva, foi agredido com ofensas racistas, a justificar o acatamento da tese de culpa exclusiva da vítima, bem como a provas, teses de precedentes da comprovação da culpa concorrente (tese subsidiária); b) Que o v. acórdão recorrido também foi manifestamente omisso quando o enfrentamento das provas robustas acerca do comportamento da recorrida que se mostrou contraditório e incompatível com o pedido de indenização por danos morais.
+Ao contrário, se limitou a decisão agravada a afirmar genericamente, "data máxima vênia", que toda matéria foi enfrentada pelo Tribunal "a quo".
+No caso em vertente, não se aplica o precedente invocado na decisão agravada, eis que a ausência de obrigação do Estado Juiz em se manifestar com relação a todos os pontos invocados pelas partes, não incluiu as questões fáticas e de direito, capazes de infirmar a conclusão adotada pelo julgador, a teor do que preleciona o art. 489, II, § 1º, IV, do CPC.
+ ..
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 778/791).
+Impugnação às fls. 802/807 (e-STJ), em que se pleiteia a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil de 2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do estatuto processual civil de 2015.
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisada caso a caso.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Cumpre transcrever, inicialmente, a ementa do acórdão recorrido do Tribunal de Justiça do Estado de Minas Gerais (e-STJ fl. 580):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. AGRESSÃO FÍSICA. TESE DE CULPA EXCLUSIVA DA VÍTIMA OU CONCORRENTE. AFASTADAS. EXCESSO NA CONDUTA DO SEGURANÇA. DANOS MORAIS. MANUTENÇÃO. FIXAÇÃO DO QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. CIRCUNSTANCIAS DO CASO EM CONCRETO. MAJORAÇÃO. Caracterizada a responsabilidade dos réus, bem como, o dano de ordem moral, considerando o excesso na conduta do segurança do estabelecimento, deve ser mantida a indenização. A fixação do quantum a ser solvido a tal título deve ser feita com lastro nas circunstâncias do caso em concreto e em observância aos princípios da razoabilidade e proporcionalidade.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente apontou violação aos artigos 1.022, II, e parágrafo único, II, e 489, II, e § 1º, IV e VI, do Código de Processo Civil de 2015; 14, § 3º, da Lei n. 8.078/1990 - Código de Defesa do Consumidor (e-STJ fls. 631/654).
+Aduziu, em síntese, ter havido omissões e ausência de fundamentação na decisão recorrida, relativamente a questões relevantes para o deslinde da causa, pois, a despeito da oposição dos embargos de declaração, o Colegiado local " ..  deixou de enfrentar pontos e provas cruciais  .. " (e-STJ fl. 645) capazes de infirmar a conclusão adotada pelo Juízo, no sentido de que " ..  o corréu, Marcos Paulo Silva, foi agredido com ofensas racistas, a justificar o acatamento da tese de culpa exclusiva da vítima  .. " (e-STJ fl. 643) ou da culpa concorrente (tese subsidiária), além de não considerar o comportamento da recorrida, que se mostrou contraditório e incompatível com o pedido de indenização por danos morais.
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+No presente caso, quanto à alegada violação aos artigos 489 e 1.022 do Código de Processo Civil de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Assim, consoante entendimento consolidado desta Corte Superior, não é omissa, contraditória e obscura nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: EDcl no AgInt nos EAREsp n. 931.889/MG, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 13/8/2019, DJe 20/8/2019; EDcl no AgInt nos EREsp n. 1.330.215/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/6/2019, DJe 28/6/2019; entre inúmeros outros.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+Portanto, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do artigo 1.021, § 4º, do Código de Processo Civil de 2015, requerida pela parte ora agravada em sua impugnação às fls. 802/807 (e-STJ), a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ARESTOS CONFRONTADOS. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+2. "A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe de 29/8/2016).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EREsp n. 1.401.943/DF, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/4/2019, DJe 25/4/2019).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
