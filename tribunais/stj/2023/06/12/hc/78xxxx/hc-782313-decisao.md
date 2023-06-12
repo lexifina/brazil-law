@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS EDUARDO GUILHERME contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da apelação n. 1500207-39.2021.8.26.0599.
+Depreende-se dos autos que o paciente foi condenado à pena de 4 anos de reclusão e 20 dias-multa, em regime inicial aberto, como incurso no art. 14, caput, da Lei 10.826/03 e art. 32, §1º-A, da Lei 9.605/08. (fls. 23-32).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 33-52).
+Na hipótese, a impetrante aponta constrangimento ilegal na negativa de absolvição do paciente do crime previsto no art. 32, §1º-A da Lei n. 9.605/98, diante da ausência de provas da materialidade e autoria do crime.
+Afirma que "o réu confessou a prática delitiva do Porte de armas, e por isso faz jus a atenuante prevista no Art 65, III, "d" do Código Penal" (fl. 10).
+Declara, ainda, a necessidade de substituição da pena corporal por penas restritivas de direitos.
+Requer, ao final, "a absolvição quanto ao delito previsto no artigo 32, §1º-A da lei 9.605/98; o reconhecimento da atenuante da confissão relativamente ao crime previsto no Artigo 14, da Lei 10.826/03; e a substituição da pena privativa de liberdade em restritiva de direitos por ser medida suficiente considerando se tratar de Réu primário e sem antecedentes" (fl. 10).
+Informações prestadas às fls. 59-105 e 106-141.
+Parecer do Ministério Público Federal às fls. 145-154.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração: i) a absolvição do paciente do crime previsto no art. 32, §1º-A da Lei n. 9.605/98; ii) o reconhecimento da atenuante da confissão espontânea, em relação ao crime previsto no art. 14, caput, da Lei 10.826/03; e iii) a substituição da pena privativa de liberdade por penas restritivas de direitos.
+No presente caso, a Corte de origem, diante do contexto de fatos e provas dos autos, chegou à conclusão de ser inegável a condenação do paciente pela prática do delito previsto no art. 32, §1º-A da Lei n. 9.605/98, destacando que "em que pese a negativa dos acusados de que os animais foram usados para caçar javalis, ou "javaporcos", verifica-se que os cães apresentavam diversas lesões pelo corpo, inclusive às fls.126 relata-se lesão produzida por instrumento como "faca, peixeira e canivete" nesse ponto, importante ressaltar que não há no laudo pericial em questão instrumento da alegação defensiva de que o corte era de data anterior, e que todos os sinais demonstravam ter sido produzidos por animais selvagens" (fl. 47).
+Consignando, ainda, que "os réus usaram os animais, sem qualquer preocupação com sua saúde eis que desnutridos e magros, sem portar qualquer atestado de saúde ou acompanhamento veterinário que permitisse o manejo desses animais para caça de javalis" (fl. 49).
+Ademais, a pretendida reforma do acórdão ora atacado, com pedido de reavaliação de todo o conjunto fático-probatório para que haja a absolvição ou desclassificação do crime, e qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Nesse sentido, mutatis mutandis: AgRg no HC n. 797.738/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023 e AgRg no HC n. 799.710/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 31/3/2023.
+Por fim, no tocante aos pedidos de reconhecimento da atenuante da confissão espontânea (crime previsto no art. 14, caput, da Lei 10.826/03) e substituição da pena corporal por penas restritivas de direitos, verifico que as referidas teses não foram enfrentadas pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre os referidos temas expostos na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
