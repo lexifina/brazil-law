@@ -1,0 +1,45 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0718942-41.2022.8.07.0020EMBARGANTE(S)BANCO SANTANDER (BRASIL) SAEMBARGADO(S)SILVIO VALERIANO DA MOTARelatorJuiz DANIEL FELIPE MACHADO
+ Acórdão Nº1713841
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. VÍCIOS INEXISTENTES. PRÉ-QUESTIONAMENTO. REDISCUSSÃO DA MATÉRIA. EMBARGOS IMPROVIDOS.
+
+1. Constitui pressuposto intrínseco dos Embargos de Declaração a existência de obscuridade, contradição, omissão, erro material ou dúvida (arts. 48, da Lei nº 9.099/95 e 1.022 do CPC).
+
+2. Cuida-se de Embargos de Declaração sustentando a ocorrência de obscuridade, contradição e omissão do julgado e com a finalidade de pré-questionamento.
+
+3. O acórdão embargado fundamentou todas as questões apresentadas no Recurso, especialmente com relação à análise dos fatos apresentados, que ora pretende reanálise o embargante. Ademais, afirmações genéricas sobre a existência de vícios no julgado, sem indicar em que consistem as contradições, omissões e obscuridades alegadas, não ensejam o acolhimento dos embargos.
+
+4. O mero inconformismo da parte com o resultado do julgamento do recurso inominado não é alcançado pela via dos embargos declaratórios.
+
+5.  O requisito do pré-questionamento resta satisfeito de acordo com a fundamentação exarada na decisão recorrida, sendo, portanto, desnecessário que o julgador faça expressa referência a dispositivos legais ou constitucionais.
+
+7. EMBARGOS CONHECIDOS E IMPROVIDOS.
+
+8. Decisão proferida nos termos do art. 46, da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, DANIEL FELIPE MACHADO - Relator, FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal e CARLOS ALBERTO MARTINS FILHO - 2º Vogal, sob a Presidência da Senhora Juiza EDI MARIA COUTINHO BIZZI, em proferir a seguinte decisão: EMBARGOS CONHECIDOS. REJEITADOS. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 16 de Junho de 2023
+
+Juiz DANIEL FELIPE MACHADORelator
+
+RELATÓRIO
+
+Dispensado o relatório, nos termos do art. 46 da Lei 9.099/95.
+
+VOTOS
+
+O Senhor Juiz DANIEL FELIPE MACHADO - RelatorDecisão proferida na forma do art. 46 da Lei 9.099/95, servindo a ementa como acórdão.
+O Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal Com o relatorO Senhor Juiz CARLOS ALBERTO MARTINS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+EMBARGOS CONHECIDOS. REJEITADOS. UNANIME.
