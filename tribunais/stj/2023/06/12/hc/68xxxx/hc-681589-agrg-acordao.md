@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUBMISSÃO A NOVO JÚRI. MATÉRIA NÃO DEBATIDA NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. REITERAÇÃO DE PEDIDOS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, conforme já esclarecido na decisão agravada, não se mostrou possível a análise do alegado constrangimento ilegal pela submissão do acusado a novo júri, por força do Tema de Repercussão Geral n. 1.087 do Supremo Tribunal Federal, na medida em que fora invocado em indevida supressão de instância, diante da inexistência do efetivo debate da matéria pelas instâncias ordinárias.
+III - Assim, não demonstrada a flagrante ilegalidade, de plano, não há que se conceder a ordem, nem mesmo de ofício, quando em supressão de instância. Verbis: "No seio de habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância. (..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017).
+IV - Evidencia-se deste recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, da aventada inidoneidade da submissão do paciente a novo júri, o que indica o não cabimento da nova insurgência em exame. Sob tal contexto, torna-se inviável o conhecimento do pedido no qual se reitera o pleito já analisado em outro processo. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SIDNEI RIBEIRO DA SILVA, em face de decisão proferida pelo Ministro João Otávio de Noronha, às fls. 1.768-1.770, que indeferiu liminarmente o habeas corpus.
+No presente recurso, a parte agravante argumenta, em síntese, que o reconhecimento da repercussão geral pelo Supremo Tribunal Federal (Tema 1.087) caracteriza fato novo a ensejar a análise do mérito do writ, não havendo supressão de instância e nem reiteração de pedidos.
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo regimental (fls. 1.801-1.804).
+Às fls. 1.818-1.820, a defesa apresentou memoriais escritos.
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUBMISSÃO A NOVO JÚRI. MATÉRIA NÃO DEBATIDA NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. REITERAÇÃO DE PEDIDOS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No presente caso, conforme já esclarecido na decisão agravada, não se mostrou possível a análise do alegado constrangimento ilegal pela submissão do acusado a novo júri, por força do Tema de Repercussão Geral n. 1.087 do Supremo Tribunal Federal, na medida em que fora invocado em indevida supressão de instância, diante da inexistência do efetivo debate da matéria pelas instâncias ordinárias.
+III - Assim, não demonstrada a flagrante ilegalidade, de plano, não há que se conceder a ordem, nem mesmo de ofício, quando em supressão de instância. Verbis: "No seio de habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância. (..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017).
+IV - Evidencia-se deste recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, da aventada inidoneidade da submissão do paciente a novo júri, o que indica o não cabimento da nova insurgência em exame. Sob tal contexto, torna-se inviável o conhecimento do pedido no qual se reitera o pleito já analisado em outro processo. Precedentes.
+Agravo regimental desprovido.
+VOTO
+C onheço do agravo regimental.
+No presente recurso, o agravante reitera os argumentos lançados anteriormente e pede a reversão do julgado ora agravado.
+Da decisão impugnada, entretanto, colhe-se a análise de forma devidamente fundamentada dos pontos apresentados.
+Vejamos o seguinte excerto do decisum questionado (fls. 1.768-1.770):
+"Verifica-se que a matéria de fundo não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância. Confira-se precedente sobre a questão:
+(..)
+Infere-se, ainda, que além deste mandamus foi interposto neste Sodalício o REsp 1.714.503/RS, também buscando a não submissão do paciente a novo julgamento pelo tribunal de júri.
+Embora os acórdãos impugnados neste remédio constitucional e no aludido recurso sejam distintos, observa-se que ambos versam sobre a mesma matéria, tratando-se, assim, de simples reiteração de pedido, não tendo a defesa trazido qualquer fato capaz de dar ensejo à nova análise por este Tribunal do mencionado pleito, verificando-se, portanto, a inadmissibilidade da presente ação.
+(..)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus."
+No presente caso, conforme já esclarecido na decisão agravada, não se mostrou possível a apreciação do alegado constrangimento ilegal pela submissão do acusado a novo júri, por força do Tema de Repercussão Geral n. 1.087 do Supremo Tribunal Federal, na medida em que fora invocado em indevida supressão de instância, diante da inexistência do efetivo debate da matéria pelas instâncias ordinárias.
+Quanto à alegação trazida em memoriais escritos a respeito da influência da opinião pessoal da magistrada no novo julgamento plenário, a tese é inovadora, posto que não foi analisada sob esse prisma pelas instâncias ordinárias.
+Assim, não demonstrada a flagrante ilegalidade, de plano, não há que se conceder a ordem, nem mesmo de ofício, quando em supressão de instância.
+É assente no Superior Tribunal de Justiça que: "No seio de habeas corpus, não é possível conhecer de temas não tratados na origem, sob pena de supressão de instância. (..)" (AgRg no HC n. 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017). Ainda nesse sentido: AgRg no HC n. 804.815/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 18/4/2023.
+Outrossim, foi consignado na decisão agravada que o presente habeas corpus configura reiteração de pedidos com relação ao REsp 1.714.503/RS, no qual foi reputada válida a submissão do paciente a novo júri em julgado transitado em julgado, razão pela qual a decisão combatida não merece reforma. Quanto ao ponto, a defesa assere que a Repercussão Geral do Tema 1.087 do STF ensejaria o fato novo a diferenciar este writ daquele recurso.
+Todavia, a tese defensiva não prospera e não caracteriza fato novo apto a acarretar novo julgamento, haja vista que a mencionada supressão de instância impede a análise da questão nesta Corte e também considerando que o julgado de reconhecimento da repercussão geral no Tema n. 1.087 pelo STF não determinou a suspensão dos processos em curso. Nesse contexto, deve ser mantida a observância da jurisprudência do Superior Tribunal de Justiça quanto ao ponto, no sentido de que: "As decisões proferidas pelo conselho de sentença não são irrecorríveis ou imutáveis, podendo o Tribunal ad quem, nos termos do art. 593, III, d, do CPP, quando verificar a existência de decisão manifestamente contrária às provas dos autos, cassar a decisão proferida, uma única vez, determinando a realização de novo julgamento, sendo vedada, todavia, a análise do mérito da demanda" (HC n. 313.251/RJ, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 27/3/2018).
+A esse respeito: AgRg no HC n. 792.486/RJ, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 20/3/2023; AgRg no HC n. 769.080/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/12/2022; e AgRg no HC n. 739.305/RS, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/8/2022.
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provi mento ao presente agravo regimental.
+É o voto.
