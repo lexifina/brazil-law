@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JOSEPH PAULO DE ALMEIDA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consoante se extrai dos autos, o agravante foi condenado pela prática do delito descrito no artigo 157, § 2º, incisos I e II, do Código Penal, por duas vezes, na forma do artigo 70, do mesmo Diploma Legal, às penas de 10 (dez) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e ao pagamento de 105 (cento e cinco) dias-multa (fls. 11-28), que transitou em julgado (fls. 29-30).
+Em segunda instância, o eg. Tribunal a quo julgou improcedente o pedido de revisão criminal formulado (fls. 906-912).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição Federal, o insurgente alegou violação do artigo 5º, LXIII, da Constituição Federal, sustentando a ocorrência de cerceamento de defesa, o que implica a decretação da nulidade do processo (fl. 927).
+Além disso, aduziu ter ocorrido ofensa aos artigos 155, 266 e 267, todos do Código de Processo Penal, pois a decisão baseou-se exclusivamente em elemento informativo colhido durante a investigação e o reconhecimento do réu pelas vítimas não obedeceu os requisitos exigidos pela lei.
+Apresentadas as contrarrazões (fls. 1.797-1.803), sobreveio juízo negativo de admissibilidade fundado: i) na falta de competência do Superior Tribunal de Justiça para analisar ofensa a dispositivo constitucional; e ii) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam revolvimento fático-probatório (fls. 1.806-1.810).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 1.816-1.822).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 1.842-1.846).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da inviabilidade de análise de violação a dispositivo da Constituição Federal, bem como em virtude da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com relação ao óbice da Súmula 7/STJ, em síntese, a parte limitou-se a afirmar o que segue (fl. 1.822): "No caso em tela, se pleiteia apenas outra conclusão jurídica, a partir de questões jurídicas e revaloração do conjunto probatório, devendo ser afastado o óbice do reexame de provas. Por fim, vale destacar que, os julgados mencionados na decisão de inadmissão -com o fim apenas de corroborar a suposta incidência da Sumula 7 do STJ, não guardam similitude com o caso em tela, pois, conforme explana do, não se trata de reexame do caderno probatório para acolhimento do pleito".
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Ademais, registro que o insurgente, nas razões recursais, não teceu impugnação quanto à impossibilidade de análise de violação a dispositivo de extração constitucional no recurso especial, conforme se constata da petição do agravo em recurso especial de fls. 1.816-1.822.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
