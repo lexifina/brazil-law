@@ -1,0 +1,73 @@
+DECISÃO
+BRUNO LOPES DE ALENCAR alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0019152-28.2018.8.26.0576).
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso da defesa e deu provimento ao apelo do Ministério Público a fim de redimensionar a reprimenda para 8 anos, 10 meses e 20 dias de reclusão, em regime fechado, mais multa.
+Nas razões da impetração, a defesa sustenta a ilegalidade na pena-base fixada, sob a tese de que um dos processos valorados remetem a condenação muito antiga e o outro remete a conduta praticada posteriormente ao presente caso.
+Afirma que "A imputação de duas reincidências específicas pelo Ministério Público deu- se erroneamente, já que o processo nº 0003157-16.2017.8.26.0509 é o cumprimento da pena privativa de liberdade relacionada a ação pena nº 0000368-59.2015.8.26.0559, PORTANTO, NÃO HÁ QUE SE FALAR EM DUPLA REINCIDÊNCIA ESPECÍFICA" (fl. 14).
+Destaca que os outros processos são relativos à condenação por uso de drogas, "cujo o trânsito em julgado se deu em 30/04/2019 (0010674-61.2014.8.26.0482 - fls. 141) e 18/12/2018 (0008349-88.2015.8.26.0576 - fls. 143), PORTANTO POSTERIOR AO COMETIMENTO DO DELITO EM QUESTÃO (25/04/2018), incapaz de configurar REINCIDÊNCIA" (fl. 15).
+Requer, portanto, o redimensionamento da pena imposta.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela concessão em menor extensão, sem reflexo na dosimetria da pena.
+Às fls. 66-67, a defesa pleiteou a reconsideração da decisão liminar.
+Decido.
+I. Maus antecedentes
+O Tribunal a quo assim se pronunciou sobre os antecedentes do paciente (fls. 46-47, destaquei):
+As penas, contudo, comportam modificação, tal como pleiteado pelo órgão ministerial.
+No caso, o i. Magistrado fixou a pena-base em 1/6 acima do mínimo legal, em face dos maus antecedentes e da natureza e quantidade de droga apreendida.
+Todavia, consoante bem observou o d. Promotor de Justiça, a pena-base merece maior elevação diante da enorme quantidade de droga apreendida mais de 3 quilos de maconha de maconha bem como por haver comprovação dos maus antecedentes (Processos nºs 0000235-33.2010.8.26.0481 e 1500372-17.2018.8.26.0559 fls. 140 e 144).
+Ressalte-se que é perfeitamente possível a consideração da quantidade e natureza da droga para justificar a fixação da pena-base acima do mínimo legal. Aliás, o artigo 42, da Lei n. 11.343/2006, determina que o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Destarte, a básica é ora fixada em 1/3 acima do mínimo legal, ou seja, 06 anos e 08 meses de reclusão, mais 666 dias-multa, nos termos pleiteados pelo representante do Parquet.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+No caso, a instância de origem majorou a reprimenda em razão da quantidade de drogas apreendidas - em obediência ao disposto no art. 42 da Lei n. 11.343/2006 - e dos maus antecedentes. Para tanto, o Tribunal de origem destacou as anteriores condenações nas Ações Penais n. 0000235-33.2010.8.26.0481 (fl. 23) e 1500372-17.2018.8.26.0559 (fl. 27).
+Quanto ao registro constante no Processo n. 1500372-17.2018.8.26.0559, o crime relacionado à ação penal foi praticado em 9/10/2018 e consoante a firme jurisprudência desta Corte, registros criminais por crimes posteriores não se prestam a comprovar maus antecedentes, personalidade ou conduta social negativa.
+Ilustrativamente:
+ ..  1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula desta Corte. 2. Consoante orientação sedimentada nesta Corte Superior, inquéritos policiais ou ações penais em andamento ou sem certificação do trânsito em julgado, ou mesmo condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base". 3. Agravo regimental a que se nega provimento. Habeas Corpus concedido de ofício. (AgRg no AREsp n. 894.405/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/6/2016)
+Entretanto, em que pese a condenação constante dos autos n. 1500372-17.2018.8.26.0559 não se valer à configuração dos maus antecedentes, a análise da desfavorável da vetorial deve ser mantida. Isso porque, quanto à condenação na Ação Penal n. 0000235-33.2010.8.26.0481, é certo que, por ocasião do julgamento do RE n. 593.818/SC, com repercussão geral reconhecida, o Supremo Tribunal Federal decidiu, fixando o Tema 150:
+"Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal, podendo o julgador, fundamentada e eventualmente, não promover qualquer incremento da pena-base em razão de condenações pretéritas, quando as considerar desimportantes, ou demasiadamente distanciadas no tempo, e, portanto, não necessárias à prevenção e repressão do crime, nos termos do comando do artigo 59, do Código Penal. "
+Considero que eternizar a valoração negativa dos antecedentes para ensejar o aumento da pena-base, sem nenhuma ponderação sobre as circunstâncias do caso concreto, não se coaduna com os fins do Direito Penal. Esta Corte Superior tem decidido no mesmo sentido: "A tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação à data da condenação, qual seja, menos de 10 anos" (AgRg no AgRg no HC n. 698.747/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 1º/4/2022, destaquei).
+Importante esclarecer que o interregno considerado para tanto é o intervalo entre a data da extinção da pena anteriormente fixada e a prática do novo fato delituoso. Nesse sentido:
+ ..  2. Sobre a valoração negativa dos antecedentes criminais, o Supremo Tribunal Federal decidiu, em recurso extraordinário com repercussão geral, que "não se aplica aos maus antecedentes o prazo quinquenal de prescrição previsto para a reincidência (art. 64, I, do Código Penal)" (RE n. 593.818, relator ROBERTO BARROSO, Tribunal Pleno, julgado em 18/8/2020, processo eletrônico, REPERCUSSÃO GERAL - MÉRITO, DJe-277, divulgado em 20/11/2020, publicado em 23/11/2020).
+Contudo, segundo a jurisprudência desta Corte, "quando os registros da folha de antecedentes do réu são muito antigos  .. , admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento" (REsp n. 1.707.948/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/4/2018, DJe de 16/4/2018.). Nesse contexto, "o cômputo do prazo do para aplicação do direito ao esquecimento em relação aos antecedentes é realizado entre extinção da pena anteriormente imposta e a prática do novo delito" (EDcl no AgRg no HC n. 696.253/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.). Precedentes.  ..  6. Agravo regimental desprovido. (AgRg no REsp n. 1.924.064/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/10/2022, grifei)
+No caso con creto, verifico que entre a extinção da punibilidade pela condenação anterior (2013) e o fato que resultou na nova condenação (25/4/2018), passaram-se aproximadamente 5 anos, lapso insuficiente para aplicação do direito ao esquecimento.
+Logo, mantenho a pena-base aplicada.
+II. Reincidência
+Verifico que o Tribunal de origem, na segunda fase da dosimetria, considerou que (fl. 47, grifei):
+Na segunda fase, a reprimenda é ora acrescida de 1/3 e não de 1/6, como constou na sentença porquanto comprovada a existência de cinco condenações configuradoras da reincidência, duas delas específicas (Processos nºs 0000368-59.2015.8.26.0559 e 0003157-16.2017.8.26.0509 fls. 141/142 e 142/143), a ensejar maior rigor na punição.
+Aqui, ao contrário do alegado, acertou o juízo monocrático ao considerar as condenações em etapas diversas da dosimetria.
+O fato de o réu ostentar mais de uma ocorrência em seu histórico criminal indica sim tenha ele um perfil desfavorável no que toca às circunstâncias judiciais (CP, artigo 59).
+Na fase intermediária, procedeu-se a novo aumento, agora por conta do artigo 61, inciso I, do Código Penal, vale dizer, em momento diverso do cálculo e sob fundamentação legal independente.
+O raciocínio é tranquilo na jurisprudência e não pede outras justificações.
+À míngua de causas modificadoras, a pena é, então, tornada definitiva em 08 anos, 10 meses e 20 dias de reclusão, mais 888 diárias.
+Pela leitura do trecho transcrito, noto que a instância de origem majorou a reprimenda por entender configurada a "dupla reincidência específica" (fl. 47). Pela análise da certidão de antecedentes do paciente, observo, além dos feitos indicados para caracterizar os maus antecedentes, os seguintes processos:
+1) 0010674-61.2014.8.26.0482: não caracterizada a reincidência, pois esta Corte Superior de Justiça possui o entendimento de que: "se contravenções penais, puníveis com prisão simples, não têm o condão de gerar reincidência (art. 63 do Código Penal), também o crime de posse de drogas para consumo próprio, punível com medidas muito mais brandas, não deve gerar tal efeito. Nesse passo, se a condenação não se presta para configurar reincidência, também não pode, pelo mesmo raciocínio, configurar antecedente criminal desfavorável" (AgRg no HC n. 520.646/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/10/2019).
+2) 0014260-14.2011.8.26.0482: extinta a punibilidade em 19/2/2013, não caracterizada a reincidência em razão de transcorrido o prazo depurador;
+3) 0018983-47.2009.8.26.0482: extinta a punibilidade em 22/8/2012, não caracterizada a reincidência em razão de transcorrido o prazo depurador;
+4) 0000368-59.2015.8.26.0559: condenação pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, com trânsito em julgado em 21/10/2016. Caracterizada a reincidência;
+5) 0003157-16.2017.8.26.0509: não caracterizada a reincidência, por se tratar de processo de execução criminal relativo ao feito 0000368-59.2015.8.26.0559;
+6) 0007198-87.2015.8.26.0576: não caracterizada a reincidência, por se tratar de inquérito arquivado;
+7) 0008349-88.2015.8.26.0576: não caracterizada a reincidência, por se tratar de condenação pelo art. 28 da Lei de Drogas;
+8) 0010328-85.2015.8.26.0576: medidas protetivas de urgência;
+9) 0013595-65.2015.8.26.0576: não caracterizada a reincidência. Processo em grau de recurso;
+10) 0015730-50.2015.8.26.0576: sentença absolutória;
+11) 0019152-28.2018.8.26.0576: ação penal objeto deste mandamus;
+12) 0026718-96.2016.8.26.0576: não caracterizada a reincidência, por se tratar de condenação pelo art. 28 da Lei de Drogas;
+13) 0008349-88.2015.8.26.0576: execução da pena;
+14) 0001533-56.2019.8.26.0154: execução de pena;
+15) 3005161-95.2013.8.26.0482: extinção da pena (art. 107, IV, do Código Penal).
+Observo, portanto, que apenas a condenação pela prática do delito previsto no art. 33, § 4º, da Lei n. 11.343/2006, com trânsito em julgado em 21/10/2016, constante dos autos n. 0000368-59.2015.8.26.0559, é geradora da reincidência.
+Sobre o aumento de pena efetivado em decorrência da agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer qualquer menção ao quantum de redução.
+Nesse sentido, a doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação
+de fração superior a 1/6 exige motivação concreta e idônea. Além disso, considera idôneo o aumento com base na reincidência específica. Nesse sentido, menciono:
+ ..
+3. Nos termos da jurisprudência desta Corte, a reincidência específica do réu constitui fundamento idôneo para justificar o incremento da pena em patamar acima de 1/6.
+ ..
+(AgRg no AREsp n. 1.865.956/SP, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª região), 6ª T., DJe 22/10/2021)
+No caso, conforme analisado acima, remanesce uma condenação específica geradora da reincidência. Portanto, afastada a dupla reincidência específica mencionada pela instância ordinária, mas presente a reincidência específica, entendo ser proporcional o aumento em 1/5.
+Assim, em razão da modificação efetivada anteriormente, deve ser realizada a nova dosimetria da pena.
+III. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, verifico que a reprimenda-base ficou estabelecida acima do mínimo legal: em 6 anos e 8 meses de reclusão e pagamento de 666 dias-multa. Na segunda fase, nos termos acima, aumento a pena em 1/5 pela reincidência e, ausentes atenuantes, a sanção totaliza 8 anos de reclusão e 799 dias-multa, montante que torno definitivo à míngua de causas de aumento e de diminuição.
+IV. Dispositivo
+À vista do exposto, concedo em parte a ordem, a fim de afastar a dupla reincidência e tornar a reprimenda imposta ao réu definitiva em 8 anos de reclusão e 799 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intim em-se.
