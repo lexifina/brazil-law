@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto por contra decisão de minha lavra na qual indeferi liminarmente o habeas corpus.
+No presente recurso, reitera as alegações de que não teria sido comprovada a comercialização de drogas, afirmando que o réu seria mero usuário de drogas, pelo que faz jus à desclassificação do delito para a conduta prevista no art. 28 da Lei n. 11.343/2006. Salienta, ainda, que a quantidade de entorpecente encontrada em sua posse foi ínfima.
+Requer, assim, o provimento do presente agravo a fim de que seja concedida a ordem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28 DA LEI DE DROGAS. INVIABILIDADE. ANÁLISE FÁTICO-PROBATÓRIA. INADMISSIBILIDADE NA VIA ELEITA. RECURSO DESPROVIDO.
+1. É inadmissível o enfrentamento da alegação acerca da desclassificação para o delito de porte de substância entorpecente para uso próprio, ante a necessária incursão probatória, incompatível com a via estreita do habeas corpus.
+2. As instâncias ordinárias, após detida análise da prova colacionados no autos, chegou a conclusão de que estavam presentes elementos suficientes que permitiam concluir pela prática do delito de tráfico de drogas. No ponto, destacou, além da prova testemunhal, a forma como acondicionados os entorpecentes e as circunstâncias da abordagem. Afastar tais conclusões, acolhendo a tese defensiva de que a droga apreendida se destinava a consumo pessoal, demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via eleita.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Consoante destacado, após analisar as provas de autoria e materialidade do delito, o acórdão impugnado assim consignou:
+"A materialidade delitiva encontra-se devidamente demonstrada pelo auto de prisão em flagrante (fls. 02/08), boletim de ocorrência (fls. 10/12), autos de exibição e apreensão (fls. 13/14), laudo de constatação (fls. 15) e de exame químico toxicológico (fls. 138/145), os quais confirmaram a natureza entorpecente das substâncias apreendidas.
+A autoria também restou devidamente comprovada.
+Os depoimentos judiciais foram gravados em mídia.
+As testemunhas e policiais civis José Eduardo Trevisan e Marcio Waldemir Balivo, de forma uníssona e nas duas oportunidades em que foram ouvidos, informaram que havia informações sobre o acusado, de que desde que ele deixou a prisão, passou a residir no local dos fatos e a vender drogas. Na data da abordagem, com ele foram encontradas as 16 porções de "crack", além de uma pequena porção de maconha. Com sua companheira, nada de irregular foi localizado. Indagado, JÚLIO afirmou que estava comercializando o entorpecente para pagar algumas contas, mas disse que sua amásia não tinha nada a ver com a venda de drogas. Interrogado na fase inquisitiva, JULIO CESAR DASILVA FERNANDES manteve-se em silêncio (fl. 08).
+Em juízo, sob o crivo do contraditório e amparado pela ampla defesa, negou os fatos. Disse que estava no local dos fatos e foi abordado pelos policiais, momento em que entregou uma porção de maconha. Não sabe nada sobre a 16 (dezesseis) porções de crack, apenas ficou sabendo da existência delas quando foi intimado para esta audiência. Disse que trabalha como servente de pedreiro, mas não soube precisar ao juízo onde exercia a atividade no momento da prisão. Afirmou que o dinheiro se referia a este trabalho, o qual realizara na semana da prisão.(fls. 38/56).
+Pois bem.
+Em que pese o louvável esforço defensivo, a versão apresentada pelo acusado não convence.
+Da detida análise dos autos, restou sobejamente comprovada a responsabilidade criminal do acusado.
+A prova é robusta ao imputar a ele a prática do delito tipificado no caput do artigo 33 da Lei de Drogas.
+O laudo toxicológico confirmou a natureza entorpecente do material apreendido em seu poder.
+A quantidade e a forma como estavam embalados as drogas dão conta do espúrio objetivo do acusado. Conquanto tenha negado o tráfico, asseverando ser usuário e que a droga encontrada, apenas a porção de maconha em sua versão, era destinada a seu próprio consumo, não encontra absolutamente qualquer respaldo nos autos.
+Uma vez que o ônus de provar é daquele que alega, nos moldes do artigo 156 do Código de Processo Penal, tais teses ficaram perdidas e vazias no feito.
+Os policiais, por outro lado, foram categóricos ao afirmar que, após encontrar os entorpecentes, JÚLIO, de pronto, assumiu a propriedade e a traficância, tentando, ainda, eximir sua companheira de qualquer responsabilidade.
+ ..
+No caso, tem-se que a conduta do réu subsume-se a, pelo menos, três núcleos do tipo penal em comento, quais sejam: trazer consigo, guardar e ter em depósito.
+Frisa-se, ainda, que a mera condição de usuário não exclui automaticamente a traficância, pois nada impede que o sujeito seja dependente de drogas e que também as comercialize, inclusive, para sustentar seu vício.
+Por isso, não se mostra possível a desclassificação da conduta para aquela prevista no artigo 28 da Lei 11.343/06.
+A forma como estavam embaladas as drogas, sua quantidade e a dinâmica da abordagem não deixam dúvidas de que os entorpecentes encontrados se destinavam ao tráfico de drogas. O ato de trazer drogas consigo, de fato, pode configurar as condutas previstas nos artigos 33 ou 28 da Lei 11.343/06, a depender da finalidade pretendida pelo agente, exigindo do julgador o dever de observar a natureza e a quantidade da substância apreendida, bem como a conduta e os antecedentes do réu para determinar se a droga era destinada ou não ao consumo pessoal (artigo 28, § 2º, da Lei11.343/06).
+Não há fórmula ou critério decisivo para o enquadramento das condutas, devendo ser sopesado, no caso concreto, cada um dos critérios relacionados na lei.
+Na hipótese, ficou claro que os entorpecentes encontrados eram destinados para a mercancia. Pelo contexto em que a droga foi encontrada com o réu, seu pedido para desclassificação para o crime de posse para uso próprio é inviável, uma vez escancarado o objetivo de difusão ilícita.
+Anota-se que a quantidade isolada de entorpecentes não é hábil a afastar a caracterização do tráfico, como também nada impede que um usuário seja também traficante, utilizando-se da atividade espúria exatamente para poder sustentar seu vício. Os elementos de convicção trazidos aos autos (prisão em flagrante, apreensão de substâncias entorpecentes, laudos, etc), além dos depoimentos firmes e harmônicos das testemunhas, são robustos, suficientes e idôneos para comprovar que a conduta praticada pelo apelante enquadra-se perfeitamente no tipo penal descrito no artigo 33,caput, da Lei 11.343/06." (fls. 15/18)
+Como visto, o Tribunal de origem, após detida análise da prova colacionados no autos, chegou a conclusão de que estavam presentes elementos suficientes que permitiam concluir pela prática do delito de tráfico de drogas. No ponto, o Tribunal de origem destacou a forma como acondicionados os entorpecentes e a prova testemunhal.
+Afastar tais conclusões, acolhendo a tese defensiva de que a droga apreendida se destinava a consumo pessoal, demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. QUEBRA DE SIGILO TELEFÔNICO. FUNDAMENTAÇÃO ADEQUADA E SUFICIENTE. REVELIA. ART. 367 DO CPP. VERIFICAÇÃO. RÉU INTIMADO QUE NÃO COMPARECE À AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. NÃO REALIZAÇÃO DE LAUDO PERICIAL DA DROGA APREENDIDA. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO. AUTORIA COMPROVADA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. DECISÃO FUNDAMENTADA. MULTA. PRECARIEDADE FINANCEIRA DO RÉU. NÃO COMPROVAÇÃO. PENA MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal estadual, mediante decisão fundamentada e em consonância com entendimento jurisprudencial desta Corte, concluiu pela suficiência dos fundamentos da decisão que decretou a quebra de sigilo telefônico do réu, ainda que concisa, posto que demonstrada a imprescindibilidade da medida.
+2. Deve ser reconhecida a revelia, assim como feito pela Corte local, posto que intimado pessoalmente, o réu não compareceu à audiência de instrução e julgamento nem justificou sua ausência, atraindo a incidência do art. 367 do CPP.
+3. Acerca da alegada nulidade por ausência de laudo pericial, uma vez não abordado o tema pelo Tribunal de origem, torna-se inviável e vedada a análise da matéria por esta Corte, sob pena supressão de instância.
+4. Relativamente à autoria, a Corte de origem, com base no conjunto fático-probatório produzido, concluiu pela efetiva prática do delito de tráfico por parte do ora paciente. Dessa forma, rever os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela absolvição - como requer a defesa - sob a alegação de que não há provas de que tenha ele participado do crime, importa revolvimento de matéria fático-probatória, vedado na presente sede.
+5. Afigura-se correta a exasperação da pena-base, fundamentadamente, com base na natureza da droga apreendida - cocaína - e a expressiva quantidade do entorpecente - aproximadamente 1,350 quilo -, e nas circunstâncias do delito, posto que indicam a prática de tráfico regional, realizado entre municípios de comarca vizinhas, Votuporanga e Fernandópolis, ampliando o número de pessoas atingidas pela atividade criminosa.
+6. Deve ser mantida a pena de multa fixada no valor mínimo e proporcionalmente às sanções carcerárias, mediante observação do sistema trifásico. A alegada incapacidade financeira, não demonstrada, não é apta a modificar a pena de multa fixada, consoante precedentes desta Corte.
+7. Agravo regimental improvido.
+(AgRg no HC n. 691.051/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/8/2022).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. CONDENAÇÃO FUNDAMENTADA EM ELEMENTOS SUFICIENTES. REVOLVIMENTO FÁTICO PROBATÓRIO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. No caso, a condenação do paciente pelos delitos de tráfico de drogas, de associação para o tráfico de drogas e de lavagem de dinheiro está amparada na prova oral produzida nos autos, em dados extraídos de interceptações telefônicas, bem como em laudos periciais, sendo atribuído ao grupo criminoso a apreensão de 90kg de cocaína.
+2. Apoiada a condenação pelo delito de tráfico de entorpecentes em prova suficiente, o acolhimento do pedido de absolvição do delito do art. 33, caput, da Lei n. 11.343/2006, demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 744.894/SE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/8/2022).
+Desse modo, não se verifica a existência de ilegalidade que justifique a reforma da decisão impugnada.
+Ante o exposto, voto no sentido negar provimento ao presente agravo regimental.
