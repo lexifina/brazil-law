@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por Zélia Reginaldo dos Santos Aurélio contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 284 do STF (e-STJ fls. 502/503).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 467):
+EMENTA- RECURSO DE APELAÇÃO DA PARTE EMBARGADA - EMBARGOS À EXECUÇÃO - INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE - RECURSO NÃO CONHECIDO. O princípio da dialeticidade impõe ao apelante o dever de expor as razões de fato e de direito de seu inconformismo contra o ato judicial impugnado, contrastando a decisão recorrida com outros argumentos suficientes a levar o Tribunal a adotar um outro entendimento. Sem tais razões, revela-se impossível estabelecer a extensão do recurso, total ou parcial, e o apelado de a ele responder, impossibilitando sua apreciação pelo Tribunal.
+RECURSO DE APELAÇÃO DOS EMBARGANTES - EMBARGOS À EXECUÇÃO - PRETENSÃO AO PARCELAMENTO DA DÍVIDA - ONEROSIDADE EXCESSIVA NÃO DEMONSTRADA - RECURSO CONHECIDOE NÃO PROVIDO. Não restou demonstrada nenhuma situação fática excepcional e imprevisível, posterior à sua formalização, à configuração da onerosidade excessiva aos embargantes, para justificar o reparcelamento da dívida, na forma do art. 478 do CC, bem assim, incabível a aplicação da Resolução n.º 4.755 do Banco Central do Brasil, uma vez que o crédito discutido nos presentes autos refere-se à financiamento de construção de edificação comercial. Portanto, não se pode obrigar o credor a receber de forma diversa da pactuada, nos termos do art. 314 do Código Civil.
+Os embargos de declaração foram rejeitados (e-STJ fls. 527/530).
+No recurso especial (e-STJ fls. 482/486), fundamentado no art. 105, III, "a", da CF, a parte recorrente apontou violação do art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional quanto à aplicação do art. 493 do CC/2015.
+Alegou afronta ao art. 493 do CPC/2015, afirmando que "posteriormente ao ajuizamento da demanda houve a ocorrência de fato superveniente e constitutivo do direito da recorrente (Pandemia COVID-19) que não foi levada em consideração no acórdão embargado" (e-STJ fl. 485).
+No agravo (e-STJ fls. 505/509 ), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos os requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 513/516).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 529/530):
+Na espécie, limitou-se em fazer alegações genéricas sobre a existência de defeito na prestação jurisdicional, demonstrando que entendeu perfeitamente a solução apontada na decisão recorrida, apenas não concordando com essa, o que não implica na existência de omissões, obscuridades ou contradições a serem sanadas.
+O acórdão embargado bem fundamentou a inexistência de prova de qualquer situação excepcional ou imprevisível à configuração de onerosidade excessiva do contrato em análise.
+Conforme bem salientado no acórdão embargado:
+Não restou demonstrada nenhuma situação fática excepcional e imprevisível, posterior à sua formalização, à configuração da onerosidade excessiva aos embargantes, para justificar o reparcelamento da dívida, na forma do art. 478 do CC.
+Bem assim, incabível a aplicação da Resolução n.º 4.755 do Banco Central do Brasil, que regulamenta a composição de dívidas decorrentes de operações de crédito rural contratadas por produtores rurais ou suas cooperativas de produção, uma vez que o crédito discutido nos presentes autos refere-se à financiamento de construção de edificação comercial. Portanto, como bem fundamentado na sentença, não se pode obrigar o credor a receber de forma diversa da pactuada, nos termos do art. 314 do Código Civil.
+Modificar o entendimento do acórdão impugnado quanto à existência de fato superveniente capaz de influir no julgamento de mérito, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
