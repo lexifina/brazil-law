@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de embargos de declaração opostos por TOKIO MARINE SEGURADORA S/A contra acórdão proferido pela egrégia Quarta Turma do Superior Tribunal de Justiça, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO POR AUSÊNCIA DE TÍTULO. TRANSAÇÃO EXTRAJUDICIAL NÃO HOMOLOGADA. AUSÊNCIA DE FORMAÇÃO DE TÍTULO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, "A ausência de homologação judicial do instrumento de transação, por si só, não retira do documento o caráter de título executivo, embora lhe subtraia a possibilidade de execução como título judicial" (REsp 1.061.233/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2011, DJe de 14/9/2011).
+2. Agravo interno desprovido.
+Nas razões dos embargos de declaração, sustenta a embargante que o acordo para satisfação da obrigação de pagar não se traduz em título de crédito, mas mero negócio processual, sem constituir nova obrigação; as manifestações de vontades no acordo para satisfação da obrigação de pagar não retiraram a executoriedade do título executivo judicial.
+Reforça que os precedentes colacionados no acórdão embargado não se assemelham ao caso concreto, o qual revela que a obrigação de pagar foi consubstanciada em sentença judicial transitada em julgado, havendo entre credor e devedor ajuste para a satisfação da referida obrigação mediante parcelamento do débito e pequena redução dos juros, tendo ainda estabelecido que, em caso de inadimplemento, a obrigação deveria ser paga integralmente, estabelecendo ainda multa pelo inadimplemento e honorários em execução, nos exatos ditames do artigo 523, § 1º, do CPC/2015.
+O prazo para impugnação do presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VÍCIOS NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O acórdão ora embargado reiterou decisão que assentou o entendimento de que o Tribunal a quo não dissentiu da orientação do Superior Tribunal de Justiça, que se firmou no sentido de que "a ausência de homologação judicial do instrumento de transação, por si só, não retira do documento o caráter de título executivo, embora lhe subtraia a possibilidade de execução como título judicial" (REsp 1.061.233/SP, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1º/9/2011, DJe de 14/9/2011).
+Deveras, no presente caso, o Tribunal a quo manteve a sentença extintiva do processo de cumprimento de sentença, asseverando que o cumprimento de sentença não corresponde ao título executivo judicial, e que o acordo noticiado e não homologado não pode ser considerado título executivo judicial. E concluiu que a falta de título executivo impede o prosseguimento do feito.
+Busca a parte embargante fazer compreender que, entre o trânsito em julgado e a distribuição do incidente de cumprimento de sentença, as partes ajustaram a forma de cumprimento da obrigação de pagar, não constituíram um novo título, inexistindo a sub-rogação, tampouco se formou uma nova obrigação, na medida em que o acordo entabulado tratava especificamente da forma de satisfação da obrigação de pagar fixada na sentença. Assim, não houve acordo estabelecendo uma obrigação de pagar, mas um acordo para estabelecer a forma de satisfação da obrigação de pagar fixada na sentença, o qual fixou prestações, uma vez que o Código de Processo Civil não prevê a possibilidade de parcelamento compulsório, tal qual no título executivo de origem extrajudicial.
+Confira-se, por oportuno, trecho esclarecedor do voto condutor do acórdão recorrido, in verbis:
+"Cuida-se de recurso de apelação cível interposto por Tokio Marine Seguradora S.A., em face da sentença prolatada pelo Magistrado a quo que declarou nulo o cumprimento de sentença por si formulado em desfavor de Wagner Nereu Pereira e Estrela Azul Corretora de Seguros Ltda., condenando-a ao pagamento de custas processuais e honorários advocatícios, estes fixados em 10% (dez por cento) do valor da causa.
+A apelante defendeu ser adequada a interposição do presente cumprimento de sentença, porquando o acordo realizado entre as partes, e que não restou cumprido, decorre do título executivo judicial correspondente a ação de conhecimento n. 0300054- 39.2014.8.24.0039.
+Razão não lhe assiste.
+Isto porque, da análise dos autos, verifica-se que Tokio Marine Seguradora S/A (apelante) interpôs "ação de ressarcimento de danos causados em acidente de veículos ajuizada pela via regressiva" (autos n. 0300054-39.2014.8.24.0039) em face de Wagner Nereu Pereira e Estrela Azul Corretora de Seguros Ltda, que foi julgada procedente na data de 26-11-2015 (..)
+Referida sentença foi confirmada em grau recursal na data de 19-9-2019, consoante decisão acostada no evento 1, documentação 11.
+Ato subsequente, as partes realizaram acordo extrajudicial na data de 3-2-2020, visando satisfazer referida condenação (evento 1, documentação 10), em que pese os executados não tenham cumprido integralmente o referido pacto.
+Partindo das referidas premissas, conclui-se que é exatamente o referido acordo que é objeto do presente cumprimento de sentença, já que incluíram na presente demanda as penalidades previstas no acordo não homologado.
+(..)
+Efetivamente, tanto a decisão judicial, quanto o posterior acordo extrajudicial, têm a mesma origem, qual seja, pagar o débito decorrente da ação de conhecimento autuada sob o n. 0300054-39.2014.8.24.0039.
+Contudo, por mais que a apelante sustente que a composição não altera o sentido da decisão judicial, por certo as partes tiveram a intenção de novar quando do acordo, considerando que na própria exordial consta que foi concedido um batimento na dívida, (..)
+No mais, perceba-se dos termos do acordo que se estabeleceu em caso de descumprimento da composição multa penal compensatória, além da possibilidade de inscrição do nome dos devedores em rol de inadimplentes, entre outras providências.
+Portanto, resta evidente que foram estipuladas condições diferentes daquelas contidas na decisão exarada no processo de conhecimento, ou seja, ocorreu a troca do débito anterior (decisão judicial) pela atual (acordo extrajudicial, ainda que não homologado até o momento), de modo que ficou configurado o animus novandi, a teor do art. 360, inc. I, do Código Civil" (Destaques nossos)
+O Tribunal a quo reiterou que o objeto de cumprimento de sentença não corresponde ao título executivo judicial decorrente dos autos n. 0300054-39.2014.8.24.0039, como quer fazer crer a ora embargante, porquanto possui ajustes diversos do lá contido, que correspondem ao acordo extrajudicial posterior. Além disso, assentou de forma expressa estar configurado no caso o animus novandi, e que, em razão da não homologação, não pode ser considerado título executivo judicial, mantendo, por conseguinte, a extinção do cumprimento de sentença.
+Confira-se ainda:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. EXECUÇÃO. ACORDO NÃO HOMOLOGADO JUDICIALMENTE. IMPOSSIBILIDADE DE EXECUÇÃO COMO TÍTULO JUDICIAL. 2. AGRAVO DE INSTRUMENTO. SUSTENTAÇÃO ORAL NÃO PREVISTA. NULIDADE DO JULGAMENTO. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULLlTÉ SANS GRIEF. 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Casa dispõe no sentido de que "a ausência de homologação judicial do instrumento de transação, por si só, não retira do documento o caráter de título executivo, embora lhe subtraia a possibilidade de execução como título judicial" (REsp n. 1.061.233/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2011, DJe 14/9/2011).
+2. O sistema das nulidades processuais é informado pela máxima pas de nullité sans grief, segundo a qual não se decreta nulidade sem prejuízo.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1098396/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/6/2018, DJe de 29/6/2018)
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/2015. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É como voto.
