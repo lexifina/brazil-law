@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. DECISÃO QUE DEFERIU A MEDIDA LIMINAR. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. PRETENSA FLUÊNCIA DOS PRAZOS PARA A APRESENTAÇÃO DA DEFESA E DE PURGAÇÃO DA MORA A CONTAR DA DATA DA EXECUÇÃO DA MEDIDA LIMINAR. TESE REJEITADA. CIÊNCIA DO DEVEDOR SOBRE O CUMPRIMENTO DA MEDIDA QUE SE FAZ NECESSÁRIA AO INICIO DA CONTAGEM DO PRAZO LEGAL PARA A PURGA DA MORA, SOB PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. ADEMAIS, APRESENTAÇÃO DA DEFESA QUE DEVE OCORRER EM CONSONÂNCIA COM O DISPOSTO NO ART. 231, II, DO CPC/15. PRECEDENTES DESTA CÂMARA. RECURSO CONHECIDO E DESPROVIDO" (fl. 88 e-STJ).
+Não foram interpostos embargos de declaração.
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, que os artigos 3º, caput e 2º, § 2º, do Decreto-Lei Federal nº 911/1969 foram violados pelo acórdão recorrido quando entendeu que a notificação não recebida pelo motivo "mudou-se" não se prestava para a constituição em mora do devedor.
+Não foram apresentadas contrarrazões.
+O recurso especial foi admitido pela decisão de fls. 173/174 (e-STJ).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Conforme jurisprudência consolidada dessa Corte, para a devida comprovação do devedor em mora, é indispensável o envio de notificação extrajudicial para o domicílio do devedor.
+Sobre esse entendimento:
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE BUSCA E APREENSÃO - DECISÃO MONOCRÁTICA DO MINISTRO PRESIDENTE DO STJ NEGANDO PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. A jurisprudência desta Corte firmou-se no sentido de que, em caso de alienação fiduciária, a mora deve ser comprovada por meio de notificação extrajudicial realizada por intermédio do Cartório de Títulos e Documentos a ser entregue no domicílio do devedor, sendo dispensada a notificação pessoal, nos termos da Súmula n. 72/STJ.
+Caso em que o Tribunal a quo reconheceu não ter havido a entrega no endereço do devedor da notificação extrajudicial para o fim de constitui-lo em mora. Impossibilidade de reenfrentamento do acervo fático probatório dos autos a fim de verificar a adequada comprovação da mora ante a incidência do óbice da súmula 7/STJ.
+2. Em observância ao princípio da unirrecorribilidade das decisões judiciais e da ocorrência da preclusão consumativa, o segundo agravo regimental apresentado não merece ser conhecido.
+3. Primeiro agravo regimental desprovido e segundo agravo regimental não conhecido, por força de preclusão consumativa" (AgRg no AREsp n. 694.566/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/2/2016, DJe de 24/2/2016).
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DO DEVEDOR.
+1. Nos termos da orientação jurisprudencial firmada por este Superior Tribunal de Justiça, em caso de alienação fiduciária, a mora pode ser comprovada por meio de notificação extrajudicial realizada por intermédio do cartório de títulos e documentos a ser entregue no domicílio do devedor, sendo dispensada a notificação pessoal ou protesto do título. Precedentes.
+2. Conforme entendimento consolidado pela Segunda Seção desta Colenda Corte, firmado no âmbito de recurso especial representativo da controvérsia (artigo 543-C do CPC/73), "nos contratos firmados na vigência da Lei 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária" (REsp 1.418.593/MS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14.05.2014, DJe 27.05.2014).
+3. Agravo regimental desprovido" (AgRg no AgRg no AREsp n. 548.299/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2017, DJe de 23/8/2017).
+A tese defensiva da recorrente, segundo a qual "a decisão do Tribunal a quo contrariou os ditames do Decreto-Lei nº. 911/69, especificamente, em seu artigo 3º e artigo 2º, § 2º ao entender que a notificação não recebida pelo motivo "mudou-se" não se presta a comprovar sua mora" (fl. 107 e-STJ - grifou-se ), não foi devidamente discutida na origem, o que faz com que o recurso encontre óbice na Súmula nº 282/STF.
+Neste sentido, de acordo com a jurisprudência desta Corte:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO EMBARGANTE.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a falta de comprovação da divergência jurisprudencial, não incidindo, portanto, o óbice da Súmula 182/STJ.
+2. Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15.
+2.1. Hipótese em que a Corte de origem acolheu os embargos de declaração, com efeitos infringentes, em razão de erro material.
+3. Conforme o entendimento consolidado neste Tribunal, não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição. Precedentes.
+4. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu no caso sob julgamento no tocante ao artigo 122 do Código Civil. Incidência da Súmula 282/STF.
+5. A Corte local afastou a alegada inexigibilidade do título executivo, de maneira que rever tal entendimento demandaria o reexame do arcabouço fático probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+6. O recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Iss o porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+7. Agravo interno provido para reconsiderar a decisão da Presidência e, de plano, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento" (AgInt nos EDcl no AREsp n. 1.732.159/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Ante o exposto, não conheço do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em agravo de instrumento sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
