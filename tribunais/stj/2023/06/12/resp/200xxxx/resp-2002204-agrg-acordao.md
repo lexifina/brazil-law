@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer dos agravos regimentais, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravos regimentais contra decisão que deu provimento ao recurso especial para absolver o recorrente quanto à imputação relativa aos crimes dos arts. 14 da Lei n. 10.826/2003 e 28 da Lei n. 11.343/2006 (art. 386, II e VII - CPP), determinando a sua imediata soltura.
+Sustenta o agravante, às fls. 503-513, que a quantidade e variedade das drogas apreendidas autoriza a aplicação da minorante do tráfico privilegiado no patamar de 1/6, requerendo o provimento do recurso para o redimensionamento da pena.
+No agravo de fls. 515-530, sustenta a legalidade da busca pessoal e a existência de fundadas razões, requerendo a reforma da decisão agravada para considerar a legalidade da apreensão da munição e da droga, negando provimento ao recurso especial defensivo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTERPOSIÇÃO DE DOIS AGRAVOS REGIMENTAIS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula n. 182/STJ.
+2. Interpostos dois agravos regimentais, pela mesma parte, contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício.
+3. Agravos regimentais não conhecidos.
+VOTO
+Assim como relatado, a decisão agravada deu provimento ao recurso especial para absolver o recorrente quanto à im putação relativa aos crimes dos arts. 14 da Lei n. 10.826/2003 e 28 da Lei n. 11.343/2006 (art. 386, II e VII - CPP), determinando a sua imediata soltura (fls. 492-496).
+No agravo regimental, o agravante sustenta que a quantidade e variedade das drogas apreendidas autoriza a aplicação da minorante do tráfico privilegiado no patamar de 1/6, requerendo o provimento do recurso para o redimensionamento da pena (fls. 503-513).
+Tal circunstância, como cediço, atrai a incidência do enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Assim, verificada esta hipótese - ausência de impugnação dos fundamentos da decisão agravada - o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte. Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA N. 182/STJ. PENITENCIÁRIA FEDERAL. PRORROGAÇÃO DE PRAZO DE PERMANÊNCIA QUE JÁ SE EXPIROU. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Inadmitido o recurso especial com base na Súmula 83/STJ, cabe à parte agravante indicar os precedentes contemporâneos ou supervenientes aos citados no recurso ou na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior sobre o tema suscitado.
+3. Ademais, o agravante insurge-se contra a renovação de sua permanência na Penitenciária Federal de Catanduvas, prorrogada por mais 360 dias a contar de 16/06/2019, prazo este que já se expirou, estando, pois, prejudicada a insurgência defensiva.
+4. Agravo regimental não conhecido. (AgRg no AREsp n. 1694191/PR, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe 13/8/2020.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1) FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ART. 1.021, §1º, CÓDIGO DE PROCESSO CIVIL DE 2015 - NCPC. 2) CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. 3) AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Descabido o conhecimento do agravo regimental quando o agravante deixa de impugnar especificamente fundamento adotado na decisão monocrática agravada.
+2. "É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (Precedentes)" (EDcl no AgRg nos EREsp n. 1488618/RS, relator Ministro Felix Fischer, Terceira Seção, DJe 27/10/2015).
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1281242/TO, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 23/5/2019.)
+Ademais, verifica-se que o Ministério Público protocolou dois agravos regimentais contra a mesma decisão, situação que, "ante o princípio da unirrecorribilidade recursal e da preclusão consumativa, impede a análise da segunda insurgência" (AgRg no AREsp n. 940.135/AC, Quinta Turma, rel. Min. Jorge Mussi, DJe de 12/9/2018).
+Destarte, interpostos dois agravos regimentais, pela mesma parte, contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental). A propósito:
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO. INTERPOSIÇÃO SIMULTÂNEA DE DOIS AGRAVOS REGIMENTAIS CONTRA O MESMO ATO JUDICIAL E PELO MESMO AGRAVANTE. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. EMBARGOS DECLARATÓRIOS OPOSTOS NA ORIGEM. INTEMPESTIVIDADE. PRAZO. INTERRUPÇÃO. NÃO OCORRÊNCIA. RECURSO ESPECIAL INTEMPESTIVO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão impede o conhecimento do segundo, em razão da preclusão consumativa e do princípio da unirrecorribilidade das decisões.
+2. Embargos de declaração intempestivos não interrompem o prazo para a interposição de outros recursos, motivo pelo qual é constatada a intempestividade do recurso especial. Precedentes. 3. Agravo regimental de e-STJ fls. 631/642 não conhecido e agravo regimental de e-STJ fls. 619/630 desprovido. (AgRg no AREsp n. 2.134.313/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+Diante do exposto, não conheço dos agravos regimentais.
+É o voto.
