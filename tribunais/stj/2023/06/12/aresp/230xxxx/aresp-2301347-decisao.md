@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por OI S.A. contra decisão que inadmitiu recurso especial por: (i) inexistência de violação dos arts. 489 e 1.022 do CPC/2015, e (ii) aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 589/594).
+O Tribunal de origem negou provimento ao agravo da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 401):
+AGRAVO DE INSTRUMENTO. CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. LEVANTAMENTO DE VALORES. RECONHECIMENTO DA INEXISTÊNCIA DO ATO PRATICADO PELO PROCURADOR DA PARTE AUTORA, QUANDO DA REALIZAÇÃO DE ACORDO ENTRE AS PARTES, NÃO SE PODENDO CREDITAR A TAL OCORRÊNCIA QUALQUER AFETAÇÃO AO DIREITO DA PARTE CREDORA. PROBABILIDADE DO DIREITO ALEGADO E PERIGO DE DANO OU RESULTADO ÚTIL AO PROCESSO NÃO DEMONSTRADOS. DECISÃO MANTIDA.
+LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA.
+UNÂNIME. NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 443/446).
+No recurso especial (e-STJ fls. 466/499), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou:
+(i) violação dos arts. 489, § 1º, III e IV, e 1.022, I e II, do CPC/2015, alegando negativa de prestação jurisdicional por omissão,
+(ii) ofensa aos arts. 6º, 10, 49 e 59 da Lei n. 11.101/2005, tendo em vista que (e-STJ fls. 486/487):
+ ..  como já adiantado, trata-se de caso peculiar. Em primeiro lugar, porque, muito embora o depósito judicial tenha sido efetuado antes do deferimento da recuperação judicial da Cia., o bloqueio sofrido não teve natureza de pagamento, mas, sim, propósito de servir de garantia ao juízo, pressuposto necessário para apresentação do incidente de impugnação ao cumprimento de sentença, nos termos do que exigia o antigo Código de Processo Civil.
+Em segundo lugar, porque a discussão sobre a possibilidade do levantamento somente se encerrou no momento em que transitou em julgado a sentença anulatória do acordo, em 2020.
+Nesse contexto, insurgiu-se contra a liberação de valores em favor da parte recorrida.
+Nas contrarrazões, os recorridos defenderam a inadmissão do recurso e a condenação da recorrente por litigância de má-fé (e-STJ fls. 541/548, 550/574 e 576/581).
+No agravo (e-STJ fls. 617/637), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminutas apresentadas (e-STJ fls. 671/674 e 678/697).
+É o relatório.
+Decido.
+I - Do pedido de condenação em litigância de má-fé
+Inicialmente, quanto ao pedido de condenação da recorrente nas penas da litigância de má-fé, cumpre destacar que o Superior Tribunal de Justiça possui o entendimento da "impossibilidade de se apreciar a presença de litigância de má-fé, sugerida em contrarrazões, pois não há como, por meio da referida via processual, piorar a situação da recorrente" (AREsp 571705, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 2/6/2016), servindo tal peça processual "apenas para impugnar os fundamentos de eventual recurso interposto, com o intuito de manutenção da decisão exarada" (AgInt no REsp 1591925/RS, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/03/2018, DJe 20/03/2018).
+II - Da negativa de prestação jurisdicional
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+III - Do levantamento de valores
+Quanto aos demais artigos, também não prospera o inconformismo.
+A Corte de origem concluiu pela possibilidade de levantamento dos valores pela parte agravante, com base na análise do plano de recuperação judicial, conforme o seguinte excerto (e-STJ fls. 392/398):
+Já de início, consigno ser o caso de manutenção da decisão agravada, confirmando-se o entendimento expresso quando da análise preliminar do recurso (evento 8, DESPADEC1).
+Por pertinentes, transcrevo, na sequência, os fundamentos que sustentaram o indeferimento liminar da ordem, adotando-os como razões de decidir:
+Incontroverso nos autos o fato de que o depósito dos valores pela devedora, bem como o trânsito em julgado da impugnação ao cumprimento de sentença, ocorreram anteriormente ao ingresso do pedido de recuperação judicial da agravante, restringe-se a presente discussão aos efeitos advindos, quanto à possibilidade de levantamento de valores, da decisão proferida no agravo de instrumento nº 70068787332, a qual transitou em julgado em 10.03.2020, assim ementada:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. ACORDO QUE SE REVESTIU DE VERDADEIRA RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. ANTIGO PROCURADOR SEM PODERES ESPECÍFICOS PARA RENUNCIAR. ATO INEXISTENTE. DESCONSTITUIÇÃO DA SENTENÇA HOMOLOGATÓRIA DO ACORDO. O contexto fático delineado nos autos deixou claro que a transação realizada entre as partes, levada a cabo pelo antigo procurador da parte autora, em verdade, se revestiu de verdadeira renúncia ao direito dos exequentes, pois através de tal acordo abriram mão de metade do valor que tinham direito a receber. Não é crível que, após o ajuizamento da execução, definição do valor efetivamente devido pela parte executada e bloqueio da quantia correspondente, a vontade efetiva da parte executada fosse renunciar à metade do seu crédito, especialmente quando não há nos autos qualquer indício de que tenha, ao menos, tomado ciência dos termos do acordo, antes de sua homologação. E, nesta senda, considerando que o antigo causídico não tinha poderes para renunciar, imperioso reconhecer que a suposta transação por ele efetivada com a ré é inexistente perante a parte autora, nos termos dos artigos 37, parágrafo único e 38, ambos do CPC/73. De consequência, não subsiste a sentença homologatória, porquanto teve como objeto ato inexistente. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.(Agravo de Instrumento, Nº 70068787332, Vigésima Terceira Câmara Cível, Tribunal de Justiça do RS, Relator: Martin Schulze, Julgado em: 31-05-2016)
+Do corpo da decisão acima citada se verifica que houve o reconhecimento da inexistência do ato praticado pelo procurador da parte autora, quando da realização de acordo entre as partes, não se podendo creditar a tal ocorrência qualquer afetação ao direito da parte credora. Transcrevo trecho do referido julgado, o qual evidencia o aqui posto:
+(..)
+Com efeito, diante do contexto fático delineado, entendo estar claro que a transação realizada entre as partes, levada a cabo pelo antigo procurador da parte autora, em verdade, se revestiu de verdadeira renúncia ao direito dos exequentes, pois através de tal acordo abriram mão de metade do valor que tinham direito a receber.
+Ora, não é crível que, após o ajuizamento da execução, definição do valor efetivamente devido pela parte executada e bloqueio da quantia correspondente, a vontade efetiva da parte executada fosse renunciar à metade do seu crédito, especialmente quando não há nos autos qualquer indício de que tenha, ao menos, tomado ciência dos termos do acordo, antes de sua homologação.
+E, nesta senda, considerando que o antigo causídico não tinha poderes para renunciar, conforme procuração de fl. 111, imperioso reconhecer que a suposta transação por ele efetivada com a ré é inexistente perante a parte autora, nos termos do art. 37, parágrafo único do CPC/73, in verbis:
+ ..
+Isso porque, conforme preceitua o art. 38 do CPC/73, é necessária a indicação específica na procuração de concessão do poder de renunciar:
+ ..
+Logo, sendo inexistente o ato praticado pelo procurador da parte autora, porque não tinha poderes específicos para renunciar ao direito sobre que se funda a ação, não subsiste a sentença homologatória de fl. 762.
+(..)
+E, diante disso, possível a manutenção da decisão que deferiu o levantamento dos valores pelos credores, consoante se extrai do Ofício 613/2018/OF, de 07.05.2018, expedido pelo Juízo da 7ª Vara Empresarial do Rio de Janeiro, nos autos da Recuperação Judicial do Grupo Oi/Telemar, tombada sob o nº 0203711-65.2016.8.19.0001:
+ ..
+Destaco que diante da natureza concursal do crédito, necessário verificar as circunstâncias do caso concreto, sob à ótica das orientações constantes no Aviso nº 2018 do Presidente do Tribunal de Justiça do Rio de Janeiro e no Ofício - Circular nº 042/2018 do Tribunal de Justiça do Rio Grande do Sul, vejamos:
+ ..
+Assim, levando-se em conta que os valores foram depositados pela agravante antes de 21/06/2016, bem como o trânsito em julgado a decisão final da impugnação ao cumprimento de sentença igualmente antes de referida data, inexiste impedimento ao levantamento dos valores.
+ ..
+Diante disso, recebo o recurso, porém deixo de atribuir-lhe o efeito suspensivo postulado por não verificar, no caso concreto, a plausibilidade do direito alegado e tampouco inequívoco perigo de dano grave ou de difícil e incerta reparação em desfavor da parte agravante.
+Com base em tais fundamentos, verificando-se ausente, ainda qualquer alteração no contexto fático ou probatório destes autos que se preste à modificação da decisão anteriormente lançada, vai desprovida a irresignação.
+A convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria o reexame do plano de recuperação judicial, bem como a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/15. ALEGADA OMISSÃO. NÃO OCORRÊNCIA. COMPETÊNCIA EXCLUSIVA. FALTA DE PREQUESTIONAMENTO. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES. REQUISITOS. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. AGRAVO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 CPC/15 quando a matéria alegadamente omissa, relativa à questão do preenchimento dos requisitos para o levantamento de valores, foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. A matéria relativa à alegação de competência exclusiva não foi apreciada pela Corte local, carecendo do indispensável prequestionamento.
+3. O exame da pretensão recursal de reforma do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que decisão monocrática proferida por Relator não é admitida para fins de comprovação do dissídio jurisprudencial, pois a manifestação unipessoal do relator não compreende o conceito coletivo de "tribunal" almejado pela Constituição Federal" (AgInt no REsp 1765964/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2018, DJe 14/12/2018).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.815.501/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/4/2021, DJe de 3/5/2021.)
+Ademais, analisando-se os fundamentos do acórdão recorrido, constata-se que, entre outras razões, concluiu-se pela possibilidade de levantamento dos valores, tendo em vista que a avença realizada entre o ex-procurador da parte recorrida e a recorrente foi considerado juridicamente inexistente. Nesse contexto, consignou-se que o direito aos respecti vos créditos surgiu muito antes do trânsito em julgado do acórdão proferido pelo TJRS que decidiu pela inexistência do ato praticado pelo ex-procurador, quando da realização de acordo entre as partes.
+Verifica-se, portanto, que a parte não impugnou fundamento do acórdão recorrido. Incidem as Súmulas n. 283 e 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
