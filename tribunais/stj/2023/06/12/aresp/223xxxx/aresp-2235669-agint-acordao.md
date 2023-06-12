@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por Premiere - Gestão de Franchising LTDA, contra a decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial pela incidência das Súmulas n. 7/STJ e 735/STF.
+Em suas razões recursais, a agravante sustenta que, ainda que proferida em sede de cognição sumária, o acórdão combatido violou a legislação federal, razão pela qual é cabível o recurso especial sob pena de violação à garantia constitucional do acesso à justiça, sendo inaplicável a Súmula n. 735/STF.
+Ademais, argumenta que não pretende o reexame dos fatos e provas produzidos no curso dos autos, mas tão somente a sua revaloração, não incidindo a Súmula n. 7/STJ.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. OFENSA AOS ARTS. 151, V, DO CTN E 300 DO CPC.. AUSÊNCIA DE DEFINITIVIDADE. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULAS N. 7/STJ E 735/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de agravo de instrumento interposto pela ora agravante contra decisão que, nos autos de ação anulatória, indeferiu o pleito liminar.
+2. Mantida a decisão agravada por ausência dos requisitos autorizadores da tutela de urgência, foi interposto recurso especial no qual a parte apontou violação dos arts. 151, V, do Código Tributário Nacional e 300 do Código de Processo Civil, aduzindo direito à concessão da tutela antecipada para suspensão do crédito tributário.
+3. Este Superior Tribunal de Justiça possui firme entendimento no sentido da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão dos óbices das Súmulas n. 7/STJ e 735/STF.
+4. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, de agravo de instrumento interposto pela ora agravante contra decisão que, nos autos de ação anulatória, indeferiu o pleito liminar.
+Mantida a decisão agravada por ausência dos requisitos autorizadores da tutela de urgência, foi interposto recurso especial no qual a parte apontou violação dos arts. 151, V, do Código Tributário Nacional e 300 do Código de Processo Civil, aduzindo direito à concessão da tutela antecipada para suspensão do crédito tributário.
+No presente, pretende afastar a incidência das Súmulas n. 7/STJ e 735/STF, aplicadas na decisão agravada.
+O pleito não comporta acolhida.
+Este Superior Tribunal de Justiça possui firme entendimento no sentido da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão dos óbices das Súmulas n. 7/STJ e 735/STF.
+No mesmo sentido, os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INCIDENTE DE DESCONSIDERAÇÃO DA PESSOA JURÍDICA. DESNECESSIDADE. CONFUSÃO PATRIMONIAL. GRUPO ECONÔMICO DE FATO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Na execução fiscal, a ocorrência das hipóteses descritas nos arts. 134 e 135 do CTN autoriza o redirecionamento do processo executivo, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica.
+III - In casu, rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de desautorizar o redirecionamento da execução, bem como reconhecer a ocorrência de preclusão consumativa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+V - É entendimento pacífico desta Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, quando ausente a similitude fático/jurídica entre os julgados confrontados.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.030.869/ES, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PROBABILIDADE DO DIREITO ALEGADO. DECISÃO LIMINAR. AUSÊNCIA DE DEFINITIVIDADE. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA Nº 735 DO STF, POR ANALOGIA. ANÁLISE DE DIREITO LOCAL. SÚMULA Nº 280 DO STF. CRITÉRIOS PARA CONCESSÃO OU NÃO DE TUTELA ANTECIPADA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA Nº 7 DO STJ.
+1. Não merecem acolhida as alegações de ofensa aos arts. 489 e 1.022 do CPC, vez que se depreende do acórdão recorrido fundamentação suficiente e adequada para o deslinde da controvérsia. Relembre-se, conjuntamente, que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+2. A negativa de concessão da tutela de urgência para suspender a exigibilidade do crédito tributário ocorreu na origem com base na ausência de probabilidade do direito alegado, eis que a legislação local (Lei nº 2.657/1996) dispõe sobre o regime de substituição tributária na hipótese em tela, não sendo possível a esta Corte, em sede de recurso especial, revisar tal entendimento, seja em razão da incidência da Súmula nº 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), seja em razão do óbice da Súmula nº 280 do STF (Por ofensa a direito local não cabe recurso extraordinário).
+3. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de que não cabe recurso especial contra decisão que aprecia liminar ou antecipação dos efeitos da tutela, por se tratar de pronunciamento provisório, lastreado em cognição perfunctória, modificável inclusive de ofício pelas instâncias de origem, nos termos da Súmula nº 735 do STF, por analogia. Além disso, a jurisprudência desta Corte é uníssona no sentido de que para avaliar os critérios adotados pela instância ordinária, que ensejaram a concessão ou não da tutela antecipada, é necessário o reexame do acervo probatórios dos autos, o esbarra no óbice da Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.234.684/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, nego provimento ao agravo interno. É o voto.
