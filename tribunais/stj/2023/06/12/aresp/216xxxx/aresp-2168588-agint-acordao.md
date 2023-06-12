@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno manejado por FÁBIO VETTORI e OUTROS contra decisão de minha lavra (e-STJ fls. 899/904), em que conheci do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: i) na ação de desapropriação é defeso discutir sobre a existência de utilidade pública (Súmula 83 do STJ); e ii) a análise da adequação dos critérios utilizados pelas instâncias ordinárias na fixação do valor da indenização exige a apreciação das circunstâncias da causa (Súmula 7 do STJ).
+Em suas razões, os agravantes reiteram os argumentos veiculados no apelo especial no sentido de que "não se trata de discutir a utilidade pública do decreto expropriatório, mas de sanar vício processual consistente na ausência de interesse de agir" (e-STJ fl. 911).
+Defendem, ainda, a inaplicabilidade da Súmula 7 do STJ quanto à nulidade do laudo pericial, afirmando que não se trata de reexame de provas, mas, revaloração destas.
+Requerem , assim, a reconsideração do decisum impugnado para que seja provido o recurso especial.
+Decorrido o prazo sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. DESVIO DE FINALIDADE E INTERESSE DE AGIR. REEXAME FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INDENIZAÇÃO. CRITÉRIO DE CÁLCULO. ANÁLISE. VEDAÇÃO.
+1. A ação de desapropriação possui objeto limitado, cingindo-se ao exame de eventuais vícios processuais e ao preço do imóvel, não cabendo ao Poder Judiciário imiscuir-se em questionamentos sobre a existência de utilidade pública ou de nulidade do decreto.
+2. Hipótese em que o Tribunal de origem decidiu a controvérsia com base nos arts. 9º e 20 do Decreto-lei n. 3.365/1941, asseverando que a suposta ausência de interesse de agir do expropriante, em razão das obras públicas terem sido concluídas sem a utilização da área expropriada, deve ser discutida em ação própria.
+3. A alegação de suposto desvio de finalidade na desapropriação do imóvel encontra óbice na Súmula 7 do STJ, pois, na falta de delineamento fático suficiente no acórdão recorrido, não é possível eventual conclusão nesse sentido sem o exame de fatos e provas.
+4. Dissentir da conclusão adotada pelo acórdão recorrido, de modo a reconhecer a inadequação da metodologia empregada pelo perito judicial para a confecção do laudo, demandaria a incursão no conjunto fático probatório, o que é inviável no âmbito do recurso especial ante o óbice estampado na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+Trata-se, na origem, de ação de desapropriação por utilidade pública interposta pelo Departamento de Estradas de Rodagem - DER que objetiva desapropriar imóvel pertencente aos ora agravantes, para execução do melhoramento público "Rodoanel Metropolitano de São Paulo - Trecho Norte".
+Os agravantes defendem a perda superveniente do objeto da ação de desapropriação, visto que as obras públicas "foram concluídas sem qualquer uso do imóvel para o fim a que se destinaria", afirmando que o processo deve ser extinto sem julgamento de mérito.
+Quanto à suposta perda superveniente do interesse de agir, o Tribunal de origem rechaçou a tese dos agravantes, consignando o seguinte (e- STJ fl. 798):
+Alegam os expropriados como fato superveniente que as obras do Rodoanel não utilizaram a área desapropriada e, com isso, requerem a inexistência de utilidade pública no Decreto Expropriatório que fundamentou a presente ação e, consequentemente, a extinção do feito por ausência de interesse de agir.
+O Decreto 3.365/41 tem previsão específica para a situação:
+Art. 9º - Ao Poder Judiciário é vedado, no processo de desapropriação, decidir se se verificam ou não os casos de utilidade pública.
+Além disso, a norma legal em apreço deve ser analisada em confronto com o disposto no artigo 20, do mesmo diploma:
+Artigo 20 A contestação só poderá versar sobre vício do processo judicial ou impugnação do preço; qualquer outra questão deverá ser decidida por ação direta.
+Da leitura conjunta dos dispositivos supracitados, depreende-se que é vedado a discussão sobre tais questões no feito expropriatório devendo a questão ser objeto de ação própria com a devida instrução probatória.
+Conforme explicitado na decisão agravada, a Corte a quo decidiu a controvérsia com base nos arts. 9º e 20 do Decreto-lei n. 3.365/1941, asseverando que o inconformismo dos expropriados deve ser objeto de ação própria, pois, no processo judicial de desapropriação, é defeso discutir sobre a existência de utilidade pública.
+De fato, a ação de desapropriação possui objeto limitado, cingindo-se ao exame de eventuais vícios processuais e ao preço do imóvel, não cabendo ao Poder Judiciário imiscuir-se em questionamentos sobre a existência de utilidade pública ou de nulidade do decreto.
+A propósito:
+ADMINISTRATIVO. DESAPROPRIAÇÃO. EXTENSÃO. ÁREA CONTÍGUA. IMPOSSIBILIDADE. ATUALIZAÇÃO MONETÁRIA. PARÂMETRO. ÚLTIMO LAUDO JUDICIAL. JUROS COMPENSATÓRIOS. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS.
+MAJORAÇÃO.
+1. O art. 20 do Decreto n. 3.365/1941 reserva às ações próprias as discussões que vão além das alegações sobre vícios processuais e impugnação quanto à avaliação do imóvel expropriado.
+2. Há violação aos limites das matérias que podem ser discutidas em desapropriação direta quando se admite o debate - e até mesmo indenização - de área diferente da verdadeiramente expropriada, ainda que vizinha.
+3. No caso, o órgão julgador de origem entendeu que a indenização deveria incluir (por lucros cessantes) área de seringal diretamente afetada pela desapropriação, embora não fosse a mesma gleba da inicial, violando os limites da lide.
+4. Não tratou a decisão recorrida de indenizar a depreciação de área remanescente, art. 27 do Decreto n. 3.365/1941, mas de produzir efeitos semelhantes ao de verdadeira desapropriação indireta, ampliação objetiva não admitida.
+5. O art. 26, § 2º, do Decreto n. 3.365/1941, deve ser interpretado no sentido de que o valor (parâmetro) que deverá ser atualizado no momento do pagamento da indenização é o da última avaliação do imóvel, a qual foi a que embasou a fixação do quantum devido, e não o da avaliação preliminar.
+6. No particular, uma vez suprimida a indenização pela área do seringal (adjacente), não cabe mais qualquer discussão sobre a incidência ou não dos juros compensatórios em relação à área efetivamente expropriada, pois jamais conflitaria com "lucro cessante", o qual foi reservado à área excluída do pagamento.
+7. Os honorários advocatícios devem ser majorados na espécie, notadamente porque a diferença entre o valor ofertado e o fixado no acórdão reduzirá significativamente após o presente julgamento, tornando diminuta a verba advocatícia.
+8. Recursos especiais conhecidos em parte e, nessa extensão, parcialmente providos.
+(REsp n. 1.577.047/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/5/2022, DJe de 25/5/2022.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE RECONVENÇÃO OU PEDIDO CONTRAPOSTO EM AÇÃO DE DESAPROPRIAÇÃO. PRECEDENTES. DESAPROPRIAÇÃO DE IMÓVEL JÁ PERTENCENTE AO PRÓPRIO ENTE DESAPROPRIANTE. INDENIZAÇÃO PELAS BENFEITORIAS. IMPOSSIBILIDADE. MERA DETENÇÃO DE BEM PÚBLICO. PRECEDENTES.
+1. Trata-se de desapropriação movida pelo Município do Rio de Janeiro, na qual se constatou, no curso do processo, que o imóvel pertente ao próprio Município.
+2. O Superior Tribunal de Justiça entende ser incabível a reconvenção ou pedido contraposto em ação de desapropriação, uma vez que a desapropriação é de interesse exclusivo do ente público e que as matérias passíveis de discussão são limitadas, nos moldes do art. 20 do Decreto-Lei 3.365/1941 (REsp 1737864/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29.5.2019; e AgRg no AREsp 94.329/PR, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 18.10.2013).
+3. Está consignado no acórdão recorrido que o imóvel objeto da ação de desapropriação pertence ao próprio Município do Rio de Janeiro. Dessa forma, a ocupação por particulares caracteriza mera detenção.
+4. O STJ entende ser incabível o pagamento de indenização em virtude de detenção de bem público, independentemente da boa ou má-fé do ocupante, sob pena de se reconhecer, por via indireta, a posse privada de bem coletivo. Precedentes: AREsp 1.725.385/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.4.2021; AgInt no AREsp 1.564.887/MT, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 10.3.2020; AgInt no AREsp 460.180/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18.10.2017; e AgRg no AREsp 362.913/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 12.5.2016.
+5. Registre-se que a existência de acordos indenizatórios com outros moradores da localidade não influi na presente demanda, uma vez que seria necessário averiguar, em cada um desses casos de acordo, se as hipóteses fáticas são as mesmas da presente demanda, qual seja: desapropriação de imóvel pertencente ao próprio Município do Rio de Janeiro, o que não consta no acórdão de origem.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.944.329/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022.).
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a alegação de ausência do interesse de agir, ante a ocorrência de suposto desvio de finalidade na desapropriação do imóvel , encontra óbice na Súmula 7 do STJ, pois, na falta de delineamento fático suficiente no acórdão recorrido, não é possível eventual conclusão nesse sentido sem o exame de fatos e provas.
+Ilustrativamente, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA. RESCISÃO CONTRATUAL FUNDADA EM INADIMPLEMENTO. INÉPCIA DA INICIAL. SÚMULA Nº 7 DO STJ. ILEGITIMIDADE DA PARTE. SÚMULAS 5 E 7 DO STJ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. NÃO OCORRÊNCIA. INTERESSE DE AGIR. SÚMULA Nº 7 DO STJ. TEORIA DA ASSERÇÃO. SÚMULAS 282 E 356 DO STF. PRESCRIÇÃO. NÃO INCIDÊNCIA. AUSÊNCIA DE INADIMPLEMENTO. SÚMULAS 5 E 7 DO STJ.
+1. A Corte de origem salientou que a petição inicial não é inepta, pois da narração dos fatos decorre a lógica conclusão, cristalizada no próprio pedido de solução de continuidade do compromisso de compra e venda de imóvel, cujos direitos foram cedidos ao apelado pela vendedora em instrumento contratual específico. Em outras palavras, afastar a conclusão de que a ação não padece de inépcia perpassa pela análise fático-probatória da causa, situação que encontra óbice nesta Corte Superior, conforme o entendimento consolidado na Súmula nº 7 do STJ.
+(..)
+4. O acórdão estadual afastou o argumento de falta de interesse de agir, sob o fundamento de que estava presente o binômio necessidade-adequação, de modo que reconhecer a referida ausência demandaria a incursão no contexto fático-probatório, prática vedada pela Súmula nº 7 do STJ.
+5. A tese consistente na aplicação da teoria da asserção não foi objeto de apreciação pela Corte de origem, tornando-se inviável o debate hodierno, com o fim de evitar-se a supressão de instâncias. Incidência das Súmulas 282 e 356 do STF.
+(..)
+8. Agravo interno não provido. (AgInt no AREsp 912.820/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/09/2018).
+Por outro lado, como é cediço, nas ações de desapropriação e servidão administrativa, vige o princípio constitucional do justo preço para apurar o quantum indenizatório, a fim de que o patrimônio do expropriado e do proprietário da área serviente seja recomposto com quantia correspondente aos danos e restrições sofridas em seu direito de propriedade.
+Outrossim, segundo a jurisprudência desta Corte de Justiça, a análise da adequação dos critérios utilizados pelas instâncias ordinárias na fixação do valor da indenização nem sempre exige a apreciação das circunstâncias da causa, mormente quando a pretensão do recorrente limitar-se à interpretação da legislação aplicada.
+No caso, o Tribunal de origem manteve a sentença, entendendo correto o laudo pericial produzido, pontuando o seguinte, no que importa (e-STJ fl. 799):
+O perito utilizou como base o estudo realizado pela Comissão de Peritos da CAJUFA, no qual foram selecionados anteriormente os elementos comparativos necessários para a aferição dos valores de referência contidos no referido estudo.
+Ao utilizar o estudo adotado pela referida comissão, o perito judicial está dispensado de selecionar outros elementos comparativos pois isso já foi realizado na confecção do estudo.
+Ainda, quanto à alegação de desvalorização da área remanescente do terreno, esta também não merece provimento.
+O expert considerou que as áreas remanescentes não perderam a sua capacidade de aproveitamento e, por isso, não houve depreciação, nem, tampouco, encravamento, sendo que não foram juntadas quaisquer comprovações sobre inviabilidade de uso ou depreciação, permanecendo totalmente utilizável a área.
+O perito judicial, respondeu devidamente em seus esclarecimentos (fls. 611/621), todas as impugnações apresentadas pelos assistentes técnicos não restando qualquer fundamento para nulidade do laudo definitivo.
+Nessa quadra, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+A propósito, veja-se:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDÃO ADMINISTRATIVA. INDENIZAÇÃO FIXADA COM BASE EM PERÍCIA REGULAR. REVISÃO DO VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Se as instâncias ordinárias reconheceram como razoável o valor apresentado pela perícia, para fins de indenização, após a análise técnica elaborada pelo perito judicial, considerando "os efeitos da servidão administrativa na propriedade. Somado a isso, o estudo foi feito de forma clara e fundamentada, levando em consideração as perguntas e ponderações das partes, auxiliando a julgadora a compreender os fatos. Assim, como bem determinou a decisão recorrida, deve prevalecer o valor encontrado pelo perito nomeado e, não, o montante informado unilateralmente pela CODEMIG.", a análise da pretensão recursal, com a consequente reversão do entendimento do acórdão recorrido, exige, necessariamente, o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7 desta Corte Superior.
+Agravo regimental improvido.
+(AgRg no AREsp 727.641/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/08/2015, DJe 1º/09/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDÃO ADMINISTRATIVA. CONSTRUÇÃO E PASSAGEM DE MINERODUTO. LAUDO PERICIAL. VALOR DA INDENIZAÇÃO. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem, com base no substrato fático-probatório, entendeu que o laudo pericial judicial reflete o preço justo para fins de indenização, sendo que a reforma de tal entendimento, no caso, esbarraria na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 729675/MG, Relator Ministro SÉRGIO KUKINA, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 21/08/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. ÁREA REMANESCENTE. DEPRECIAÇÃO. INDENIZAÇÃO DEVIDA. DESVALORIZAÇÃO. REVISÃO. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. De acordo com a jurisprudência desta Corte, é devida indenização pela limitação ao direito de propriedade decorrente de desapropriação de bem imóvel.
+3. Hipótese em que o Tribunal de origem consignou que a parte expropriada suportou prejuízo pela desapropriação promovida em seu imóvel, razão pela qual deve haver reparação econômica pela área remanescente que sofreu comprometimento em razão do ato expropriatório, sendo certo que a revisão de tal entendimento atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 948.951/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/06/2018, DJe 08/08/2018).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno .
+É como voto.
