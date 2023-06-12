@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto cont ra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a e c, da CF/88, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim resumido:
+I - AGRAVO DE INSTRUMENTO. ICMS. EXECUÇÃO FISCAL. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DA OCORRÊNCIA DA PRESCRIÇÃO PROCESSUAL. II - DEMANDA AJUIZADA APÓS A LEI COMPLEMENTAR 118/05. INTERRUPÇÃO QUE SE DARIA COM O DESPACHO QUE ORDENOU A CITAÇÃO. EXEQUENTE QUE NÃO PROMOVEU A CITAÇÃO NO PRAZO DE 90 DIAS, CONTADOS DA CERTIDÃO. INTELIGÊNCIA DOS §§ 2º, 3º E 4º, DO ART. 219 DO CPC. ESGOTAMENTO DO PRAZO CITAÇÃO NÃO REALIZADA QUINQUENAL DO ART. 174 DO CTN. DENTRO DO PRAZO. PRESCRIÇÃO CONSUMADA. III - RECURSO PROVIDO. A FAVOR DA EMBARGADA. III - RECURSO PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O Eminente Relator, então, não conheceu do REsp, considerando a questão da ocorrência da prescrição presente o óbice da Súmula n. 283 e 282 do STF.
+ ..
+A tese defendida pelo Estado do Paraná é no sentido de que a determinação para a citação interrompe a prescrição, bem como que a Fazenda Pública só tomou ciência da citação frustrada em 2017, logo, não se daria prescrição intercorrente como decretada na origem.
+É isto que busca o Estado do Paraná, tese que não pode ser simplesmente afastada pelo óbice da Súmula n. 283 do STF, uma vez que inaplicável neste caso.
+ ..
+O acórdão não deu importância ao momento em que a Fazenda Pública tem ciência, pela primeira vez, da citação frustrada. Eis porque a decisão é equivocada neste aspecto. O citado dispositivo processual não se aplica à execução fiscal, que tem como disciplina a norma do artigo 40 e § 1º da Lei n. 6.830/80.
+ ..
+Conclui-se, então, que merece reconsideração a decisão proferida no presente REsp, devendo ser afastada a prescrição, bem como os óbices sumulares como fundamentado na decisão ora agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE POR NÃO RECONHECER A PRESCRIÇÃO. AGRAVO PROVIDO. RECONHECIMENTO DA PRESCRIÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283/STF E DA SÚMULA N. 282/STF.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução fiscal, rejeitou a exceção de pré-executividade por não reconhecer a ocorrência da prescrição. No Tribunal a quo, o agravo foi provido para reconhecer a prescrição e extinguir a execução. Opostos embargos de declaração, foram rejeitados. Interposto recurso especial, não foi conhecido.
+II - Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a Jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; e AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+III - Quanto à alegação de falta de ciência da Fazenda Pública sobre a diligência frustrada, verifica-se que a tese não foi objeto de juízo de valor pelo acórdão hostilizado. Perquirir, nesta via estreita, a ofensa à referida tese, sem que se a tenha explicitado no juízo a quo, sem sequer suscitá-la por meio de embargos declaratórios, implica falta de prequestionamento, atraindo o óbice contido na Súmula n. 282/STF. Julgados nesse sentido: AgInt no REsp n. 2.030.485/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023; e AgInt no AREsp n. 2.170.174/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a Jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; e AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+Quanto à alegação de falta de ciência da Fazenda Pública sobre a diligência frustrada, verifica-se que a tese não foi objeto de juízo de valor pelo acórdão hostilizado. Perquirir, nesta via estreita, a ofensa à referida tese, sem que se a tenha explicitado no juízo a quo, sem sequer suscitá-la por meio de embargos declaratórios, implica falta de prequestionamento, atraindo o óbice contido na Súmula n. 282/STF. Julgados nesse sentido: AgInt no REsp n. 2.030.485/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023; e AgInt no AREsp n. 2.170.174/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
