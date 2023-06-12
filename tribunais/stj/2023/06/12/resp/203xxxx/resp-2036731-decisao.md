@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RODRIGO DE LACERDA PEREIRA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que deu provimento ao agravo de instrumento, nos termos da seguinte ementa (fl. 52):
+AGRAVO DE INSTRUMENTO. CONDOMÍNIO. CUMPRIMENTO DESENTENÇA. NOS TERMOS DO ART. 1.345, DO CÓDIGO CIVIL, AS DESPESASCONDOMINIAIS CONSISTEM EM OBRIGAÇÃO PROPTER REM, OU SEJA,ESTÃO ATRELADAS AO IMÓVEL, SENDO POSSÍVEL A PENHORA DO BEM QUE ORIGINOU A DÍVIDA, AINDA QUE OBJETO DE ALIENAÇÃO FIDUCIÁRIA. JURISPRUDÊNCIA DA CORTE. DERAM PROVIMENTO AO RECURSO. UNÂNIME.
+Na origem, cuida-se de pedido de cumprimento de sentença requerido em desfavor de Rodrigo Lacerda Pereira, que determinou o recaimento da penhora apenas sobre direitos e ações do executado relacionados ao imóvel. O Tribunal de origem deu provimento ao agravo de instrumento interposto para, reformando a sentença de primeiro grau, permitir a penhora sobre a integralidade do imóvel.
+Rejeitados os embargos de declaração opostos (fls. 81-85).
+No presente recurso especial, o recorrente alega violação dos artigos 1.361 e 1.368 do Código Civil.
+Aduz impossibilidade da penhora de imóvel alienado fiduciariamente em razão de débitos decorrentes de inadimplemento de cotas condominiais. Aponta divergência jurisprudencial.
+Sustenta, outrossim, que "a unidade imobiliária não pode ser penhorada em sua integralidade para responder por suas dívidas, ainda que as despesas condominiais possuam natureza propter rem, pois não é possível a constrição do patrimônio de quem não é parte da demanda, no caso, o agente financeiro" (fl. 109).
+Apresentadas as contrarrazões (fls. 142-152), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 155-157).
+É, no essencial, o relatório.
+Assiste razão ao recorrente.
+O entendimento manifestado pelo Tribunal de origem dissona da jurisprudência deste STJ, segundo a qual "não se admite penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária".
+A propósito, cito a ementa do referido julgado:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. BEM IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS DO DEVEDOR FIDUCIANTE. PENHORA. IMPOSSIBILIDADE. BEM DE FAMÍLIA LEGAL. LEI Nº 8.009/1990.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se os direitos (posse) do devedor fiduciante sobre o imóvel objeto do contrato de alienação fiduciária em garantia podem receber a proteção da impenhorabilidade do bem de família legal (Lei nº 8.009/1990) em execução de título extrajudicial (cheques).
+3. Não se admite a penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária. Precedentes.
+4. A regra da impenhorabilidade do bem de família legal também abrange o imóvel em fase de aquisição, como aqueles decorrentes da celebração do compromisso de compra e venda ou do financiamento de imóvel para fins de moradia, sob pena de impedir que o devedor (executado) adquira o bem necessário à habitação da entidade familiar.
+5. Na hipótese, tratando-se de contrato de alienação fiduciária em garantia, no qual, havendo a quitação integral da dívida, o devedor fiduciante consolidará a propriedade para si, deve prevalecer a regra de impenhorabilidade.
+6. Recurso especial provido.
+(REsp 1.677.079/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 1º/10/2018.)
+Nesse mesmo sentido, cito:
+1. Nos contratos de alienação fiduciária em garantia de bem imóvel, a responsabilidade pelo pagamento das despesas condominiais recai sobre o devedor fiduciante enquanto estiver na posse direta do imóvel. Precedentes.
+2. Nos termos da jurisprudência pacífica do STJ, como a propriedade é do credor fiduciário, inviável recair a penhora sobre o próprio imóvel para saldar dívida do devedor fiduciante, ressalvando-se, contudo, a possibilidade de constrição dos direitos decorrentes do contrato de alienação fiduciária pelas vias ordinárias. Precedentes.
+(AgInt no REsp n. 1.485.972/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 17/6/2021.)
+2. Como a propriedade do bem é do credor fiduciário, não se pode admitir que a penhora em decorrência de crédito de terceiro recaia sobre ele, mas podem ser constritos os direitos decorrentes do contrato de alienação fiduciária. Incidência da Súmula 83/STJ.
+(AgInt no REsp n. 1.832.061/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 24/4/2020.)
+1. O entendimento deste Superior Tribunal de Justiça é no sentido pelo qual "não é possível penhorar imóvel alienado fiduciariamente, em execução promovida por terceiros contra o devedor fiduciante, haja vista que a propriedade do bem pertence ao credor fiduciário; no entanto, esta Corte autoriza a penhora dos direitos decorrentes do contrato de alienação fiduciária, uma vez que gozam de expressão econômica (AgInt no AREsp 1.370.727/SP, Terceira Turma, julgado em 25/03/2019, DJe de 28/03/2019; AgInt no AREsp 644.018/SP, Quarta Turma, julgado em 02/06/2016, DJe de 10/06/2016; REsp 1.646.249/RO, Segunda Turma, julgado em 3/4/2018, DJe 24/5/2018). Esse entendimento deve ser também aplicado à regra da impenhorabilidade quando o bem de família é dado em garantia de contrato de alienação fiduciária.". (REsp 1629861/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/08/2019, DJe 08/08/2019).
+(AgInt no REsp 1992074/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 15/8/2022.)
+Ante o exposto, dou parcial provimento ao recurso especial para, reformando o acórdão recorrido, desconstituir a penhora sobre a integralidade do bem, determinando que esta recaia apenas sobre direitos e ações do recorrente, Rodrigo de Lacerda Pereira, relacionados ao imóvel (direito real de aquisição).
+Publique-se. Intimem-se.
