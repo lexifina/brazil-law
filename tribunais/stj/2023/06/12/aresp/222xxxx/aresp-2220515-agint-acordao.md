@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por ELIETE SILVA SOUSA DE OLIVEIRA para desafiar decisão proferida às e-STJ fls. 503/507, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, considerando a ausência de violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015 e a incidência das Súmulas 7 (em relação às alíneas "a" e "c" do permissivo constitucional) e 126 do STJ.
+A parte agravante alega, em síntese, que (a) houve negativa de prestação jurisdicional da Corte local, uma vez que foi omissa quanto à preclusão da tese de ilegitimidade da parte e quanto à inexistência de sindicato mais específico, tratando-se de mera associação; (b) não se pretende impugnar o princípio da unicidade sindical, pois o sindicato indicado como mais específico não abrange o cargo da parte exequente, e o Tribunal de origem foi omisso em relação ao aludido fato; (c) não é necessário o reexame de matéria fática.
+Impugnação às e-STJ fls. 529/537, em que a parte adversa pugna pelo não conhecimento do agravo e, subsidiariamente, pelo seu desprovimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. INOVAÇÃO RECURSAL. VEDAÇÃO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO. AUSÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste contrariedade aos arts. 1.022 e 489, § 1º, IV, do CPC/2015, quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+3. O aresto combatido se apoia em fundamentação constitucional e infraconstitucional, não tendo a parte recorrente manejado o correspondente recurso extraordinário, o que torna preclusa a matéria e inócuo o recurso especial, nos termos da Súmula 126 do STJ.
+4. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No caso, o Tribunal a quo decidiu integralmente a controvérsia relativa à tese de preclusão da alegação de ilegitimidade, nos seguintes termos (e-STJ fls. 336/337 e 341/342):
+ ..
+De início, cumpre destacar que, conforme já debatido quando do julgamento do Apelo e ao contrário do sustentado na peça recursal, tratando-se de norma de ordem pública, não há o que se falar em preclusão quanto a análise da legitimidade dos exequentes.
+ ..
+Em relação à alegada omissão e obscuridade ditos existentes no Acórdão combatido, razão não assiste aos Embargantes, vez que restou plenamente consignado que:
+"Com efeito, diante do arcabouço juntado aos autos entendo não ter a apelante legitimidade para executar o título judicial oriundo da Ação Coletiva nº 6542/2005, na medida em que o Acórdão que reconheceu o direito aos servidores estaduais a diferença do percentual de 11,98% limita-se aos substituídos processuais filiados ao SINTSEP.
+Analisando os autos de forma detida, verifico que, por fazer parte da categoria de servidores que abrange Professores, Especialistas, Técnicos em Educação e Servidores de Apoio de qualquer nível e função da Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão, a exequente é representada pelo SINPROESEMMA e não pelo SINTSEP.
+Por oportuno vale dizer que, admitir que a apelante execute título de sindicato da qual não pertençam viola o princípio da unicidade sindical. Em que pese o SINTSEP representar os servidores públicos do Estado do Maranhão, por óbvio que tal representatividade condiciona-se a todos os seus filiados, não de forma indistinta e geral.
+ ..
+Em que pese a desnecessidade de expressa autorização para que o Sindicato represente seus sindicalizados, o STJ e o STF entenderam que é essencial que o filiado integre categoria específica da qual aquele Sindicato represente, vejamos trecho do Voto da Ministra Carmen Lúcia em caso análogo, inclusive de sindicatos do Maranhão:
+ ..
+Nesse contexto, penso que os integrantes de determinada categoria de servidores, não associados ou filiados até a propositura da ação, pertencentes a uma categoria específica, não podem requerer em nome próprio a execução de sentença coletiva.
+ ..
+Destacou-se, ainda, que: "Com efeito, diante do arcabouço juntado aos autos entendo não ter a apelante legitimidade para executar o título judicial oriundo da Ação Coletiva nº 6542/2005, na medida em que o Acórdão que reconheceu o direito aos servidores estaduais a diferença do percentual de 11,98% limita-se aos substituídos processuais filiados ao SINTSEP."
+Ora, não se discute nos presentes autos a distinção entre a natureza jurídica de associação representativa e entidade sindical, sendo destacado apenas a ilegitimidade da exequente, já que ainda vigora no ordenamento jurídico pátrio o princípio da unicidade sindical.
+Assim, sendo reconhecido que a legitimidade ativa da Embargante é aferida quando do ajuizamento do cumprimento de sentença individual, bem como o fato de resta latente a obrigatoriedade de comprovação da filiação, não há que se falar em desrespeito ao entendimento firmado pelo STF quando da análise do Tema 733. (Grifos acrescidos).
+Impende consignar, ainda, que a tese da agravante de que houve omissão do Tribunal de origem quanto à inexistência de sindicato mais específico, uma vez que aquele que foi apontado pelo decisum recorrido trata de mera associação e não abrange o cargo da parte exequente não pode ser analisada no presente agravo interno.
+Em relação ao ponto, nas razões do recurso especial, a parte ora agravante somente alegou omissão quanto à preclusão da aferição da ilegitimidade, considerando a lista que demonstrou a homologação do crédito individualizado da parte recorrente em liquidação, momento processual oportuno para aferição da legitimidade, sem qualquer irresignação pelo recorrido, e quanto à "inaplicabilidade de entendimento jurisprudencial relativo às associações, utilizado pelo juízo para justificar a suposta necessidade de filiação da parte exequente ao sindicato autor da coletiva. Essa exigência é descabida, pois somente se aplica às associações, e não aos sindicatos, os quais atuam em substituição processual de toda a categoria representada" (e-STJ fl. 369).
+Assim, em nenhum momento houve a alegação de omissão do juízo de origem quanto à tese de inexistência de sindicato mais específico, uma vez que aquele que foi apontado pelo decisum recorrido trata de mera associação e não abrange o cargo da parte exequente.
+Esta Corte tem o entendimento de que é defeso examinar em sede de agravo interno argumentos não suscitados oportunamente pelas partes nas razões recursais, dada a inovação recursal e a preclusão consumativa. Nesse sentido, merecem destaque julgados desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Nas razões dos presentes aclaratórios, sustenta-se que a decisão embargada deixou de se manifestar acerca do art. 374, II e III, do CPC, suscitado no agravo interno. O dispositivo de fato não foi analisado na decisão embargada.
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 19/12/2022). (Grifos acrescidos)..
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. DILIGÊNCIAS INFRUTÍFERAS. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INOVAÇÃO DE TESE RECURSAL EM AGRAVO INTERNO. EXAME. IMPOSSIBILIDADE
+1. O Superior Tribunal de Justiça tem entendido que "requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não suspendem nem interrompem o prazo de prescrição intercorrente."
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a interrupção da prescrição demanda o reexame de fatos e provas, o que é vedado no âmbito do recurso especial. Súmula 7/STJ.
+3. Nos termos da jurisprudência desta Corte, "é vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa" (AgInt nos EDcl no REsp n. 1.949.934/MG, relator Ministro Gurgel de Faria, Primeira Turma, DJe 3/10/2022).
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.909.848/PR, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 30/11/2022). (Grifos acrescidos).
+Nota-se, quanto ao mérito, que a instância ordinária dirimiu a controvérsia, relativa à ilegitimidade ativa, utilizando-se de fundamentos constitucionais (unicidade sindical) e infraconstitucionais (ausência de preclusão e coisa julgada formada no título executivo), suficientes e autônomos à preservação do acórdão recorrido. Contudo, o ora recorrente não cuidou de interpor o devido recurso extraordinário, atraindo, assim, a incidência da Súmula 126 do STJ.
+Ademais, a modificação do julgado, a fim de perquirir se a liquidação já transitada em julgado reconheceu crédito em favor da ora recorrente, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
