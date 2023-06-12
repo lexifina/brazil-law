@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, impetrado em favor próprio por WALLISSON WILLIAN DA SILVA PEREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação n. 1500176-07.2021.8.26.0603.
+Consta dos autos que o paciente foi condenado, em segundo grau, a 5 anos e 10 meses de reclusão, no regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33, caput, c.c art. 40, VI, ambos da Lei n. 11.343/06).
+O impetrante sustenta que a causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas deixou de ser aplicada com base em fundamentação inidônea.
+Requer a concessão da ordem nesse sentido.
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+A Terceira Seção desta Corte firmou o entendimento "de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração" (EREsp n. 1.916.596/SP, de minha relatoria, relatora para acórdão Ministra Laurita Vaz, Terceira Seção, julgado em 8/9/2021, DJe de 4/10/2021).
+No caso, o Tribunal a quo afastou a incidência da referida minorante destacando, dentre outros elementos, a existência de registro de anteriores práticas de atos infracionais pelo ora paciente. Do documento remetido pela Corte estadual (disponível no site do Tribunal de origem), verifica-se que o paciente praticou diversos atos infracionais, inclusive, um análogo ao crime de roubo menos de um ano antes do delito de tráfico discutido nestes autos. Assim, ausente flagrante ilegalidade a ser sanada por esta Corte.
+Confira-se, a propósito, o seguinte trecho do acórdão impugnado:
+" ..
+No entanto, entendo que, in casu, não é possível aplicar o beneficio previsto no artigo 33, § 4", da Lei riº 11.343/06, uma vez que, de acordo com o referido dispositivo legal, o Magistrado "poderá" reduzir a pena fixada ao agente, de um sexto a dois terços, desde que este seja primário, não possua antecedentes criminais, não se dedique a atividades criminosas, nem integre organização criminosa. No caso dos autos, porém, muito embora o acusado seja primário e não possua maus antecedentes, restou amplamente demonstrado que ele se dedicava à atividade criminosa, pois, além de ele já ter respondido por atos infracionais na Vara da Infância e Juventude (fis. 30), não se pode imaginar que traficante iniciante e eventual tivesse em seu poder tamanha quantidade de drogas (54 porções de cocaína - substância que gera dependência química rápida), além de quantia em dinheiro, produto da venda de outras porções, o que afasta definitivamente o reconhecimento de tal beneficio.
+Nesse contexto, nesta fase da dosimetria, atendendo ao apelo Ministerial, afasto a incidência do redutor previsto no § 4º do artigo 33 da Lei nº 11.343/06, resultando a pena em 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa, no valor unitário mínimo legal, pena essa que torno definitiva, à mingua de outras causas modificativas" (fls. 21/22).
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se.
+Intimações necessárias.
