@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ARR ATIVIDADES ESPORTIVAS LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECURSO Apelação - Princípio da dialeticidade observado - Sentença suficientemente impugnada - Recurso da ré - reconvinte conhecido.
+DIREITOS AUTORAIS - ECAD - Cobrança excessiva - Tutela antecipada concedida em sede de sentença para determinar a abstenção de execução de obras musicais em academia de ginástica - Lesão irreparável ou de difícil reparação ao ECAD não verificado - Execução não autorizada que é passível de reversão, mediante ressarcimento patrimonial - Revogação da tutela antecipada determinada - Apelação da autora reconvinda provida em parte.
+DIREITOS AUTORAIS - ECAD - Cobrança excessiva - Contribuição devida pela sonorização de ambientes de academia de ginástica - Súmula 63 STJ - Débito exigível, porém passível de revisão - Hipótese em que, por perícia, constatou-se que a área sonorizada era bastante inferior à aferida pelo ECAD, ajustando-se o valor do débito conforme base de cálculo apurada no laudo - Condenação da empresa no pagamento das prestações vencidas e vincendas - Pedido principal provido em parte - Reconvenção provida em parte - Sentença reformada - Sucumbência recíproca mantida - Honorários advocatícios majorados por equidade - Recursos providos em parte" (e-STJ fl. 650).
+Nas razões do recurso especial (fls. 699/715 e-STJ), a recorrente alega que o acórdão recorrido violou o art. 373, incisos I e II, do CPC, ao legitimar cobrança embasada em relatório de inspeção elaborado pelo ECAD, cujo documento foi feito de maneira unilateral e sem qualquer participação do preposto da empresa e/ou testemunhas, situações essas constatadas através de competente perícia técnica, a qual concluiu pela cobrança indevida.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem decidiu a controvérsia com base nos seguintes argumentos:
+Sabidamente, "São devidos direitos autorais pela retransmissão radiofônica de músicas em estabelecimentos comerciais" (Súmula 63, STJ).
+Insiste, porém, a autora-reconvinda na inexigibilidade total da cobrança em razão da inconsistência do lançamento do débito pelo ECAD. Tal raciocínio seria legítimo se o crédito em questão tivesse natureza tributária, o que não é o caso.
+Frise-se que "O ECAD é associação civil responsável para promover a cobrança de direitos autorais devidos em razão de retransmissão de músicas, sendo desnecessário provar a filiação dos compositores, bem como sua autorização para o ingressoem juizo" (REsp. nº 262.839 PB, 4ª Turma do Superior Tribunal de Justiça, v. un., Rel. Min. Sálvio de Figueiredo Teixeira, em13/9/00, DJ de 16/10100, pág. 317).
+(..) Com efeito, a remuneração aos direitos autorais estabelecida pelo ECAD é atividade privada, não vinculada. Como afirma a autora-reconvinda, seus fiscais não gozam de fé pública. Consequentemente, o dever de prévio pagamento da contribuição mensal traz implícita a cláusula rebus sic stantibus, o que viabiliza a revisão dos valores cobrados, sem cogitar-se de nulidade de lançamento ou inexigibilidade total do débito por falha técnica de aferição, independentemente de ter ou não havido acompanhamento da parte interessada.
+E, no caso, o perito judicial constatou que houve excesso por parte do ECAD, que aferiu área sonorizada muito acima da realidade, devendo, assim, ser ajustada a cobrança para o quanto apurado no laudo, isto é, 401,8m.
+O valor da prova pericial é inconteste, nada justificando que se atribua metragem diversa, indicada pela empresa. Neste aspecto, a sentença não merece nenhuma censura.
+E é dever da autora-reconvinda arcar com o período que realizou a transmissão musical sem a prévia remuneração dos titulares dos direitos autorais, além das prestações vincendas na forma pretendida pelo ECAD" (fls. 651/653 e-STJ).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% o valor dos honorários advocatícios anteriormente fixados em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do CPC, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
