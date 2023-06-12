@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por JHONATAN LANDULFO DOS SANTOS contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ fl. 228 ):
+APELAÇÃO CRIMINAL - CRIME AMBIENTAL - ARTIGO 65, "CAPUT", DA LEI Nº 9.605/98 - ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA, COM BASE NO PRINCÍPIO DA INSIGNIFICÂNCIA - IMPOSSIBILIDADE - Tendo o conjunto probatório sido uníssono em demonstrar a materialidade e a autoria do delito, cuja tipicidade - sob os critérios objetivo e subjetivo - também ficou evidenciada, sem a presença de qualquer excludente da ilicitude ou da culpabilidade, impõe-se manutenção da condenação. Conduta que não pode ser considerada insignificante ou irrisória. Ausência dos requisitos do denominado princípio da insignificância. Recurso parcialmente provido, somente para reduzir as à penas.
+O agravante foi condenado à pena de 4 meses de detenção no regime aberto, além do pagamento de 15 dias-multa, substituída por restritiva de direito, pela prática do crime previsto no art. 65, caput, c/c art. 15, II, i, da Lei 9.605/98.
+O Tribunal de origem deu parcial provimento ao apelo da defesa para reduzir a pena para 3 meses de detenção e 10 dias-multa, mantida, no mais, a sentença de primeiro grau (e-STJ fls. 227/241).
+No recurso especial, alega violação do art. 44, § 2º, do Código Penal pois: a) não há fundamento para que se vede a substituição da pena exclusivamente por multa; e b) o recorrente é primário e as circunstâncias judiciais foram consideradas favoráveis.
+Contrarrazões apresentadas às e-STJ fls. 260/264.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula 182/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 273/276).
+Parecer do Ministério Público Federal pelo conhecimento do agravo e desprovimento do recurso especial (e-STJ fls. 300/302).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Quanto à alegação de ausência de fundamento para a substituição da pena restritiva de direitos por multa, percebe-se que o dispositivo apontado como violado (art. 44, § 2º, do Código Penal) não possui comando normativo suficiente para, por si só, infirmar os fundamentos do acórdão guerreado de que não se mostra suficiente para a reprovação da conduta do réu.
+Clara a deficiência na fundamentação do recurso especial no ponto, inviável o seu conhecimento por esta Corte, em virtude do óbice da Súmula 284 do Supremo Tribunal Federal.
+Nesse mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. ROUBO SIMPLES. PRETENSÃO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. ART. 65, INCISO III, ALÍNEA "D", DO CÓDIGO PENAL. CONFISSÃO PARCIAL NÃO UTILIZADA COMO FUNDAMENTO PARA A CONDENAÇÃO. SÚMULA N. 545/STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, a parte recorrente, nas razões do recurso especial, não demonstrou de forma clara, direta e particularizada como o acórdão recorrido violou os dispositivos de lei federal indicados (arts. 59 e 67, ambos do CP e art. 40, inciso VI, da Lei n. 11.343/2006), além de indicar como supostamente violados dispositivos de lei sem correlação com a controvérsia recursal (aplicação da atenuante da confissão espontânea) e sem comando normativo específico, exigindo a combinação com outros dispositivos legais. Nesse contexto, a pretensão recursal esbarra no óbice da Súmula n. 284/STF, segundo a qual não se conhece de recurso quando a deficiência em sua fundamentação impede a exata compreensão da controvérsia. Precedentes.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 2092605/MG. Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe de 13/06/2022).
+PENAL. PROCESSO PENAL. OPERAÇÃO LAVA JATO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. PRECLUSÃO. AUSÊNCIA DO COMADO NORMATIVO. SÚMULA 284/STF. PENA DE MULTA. INDULTO. DECRETO 9.246/2017. LIMITE DE VALOR. REGÊNCIA. PORTARIA/MF 75, DE 22.03.2012. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE TIDO POR VIOLADO. SÚMULA 284/STF. MEDIDAS ASSECURATÓRIAS. FUNDAMENTAÇÃO IDÔNEA. ART. 4º DA LEI N. 9.613/98. CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA. POSSIBILIDADE QUANDO UTILIZADA PARA OCULTAÇÃO DE BENS PROVENIENTES DE ILÍCITO. INDÍCIOS DA ORIGEM ILÍCITA DOS BENS. REEXAME PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MANTIDA.
+I - O Agravo Regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração objetivam extirpar da decisão reprochada eventual ambiguidade, obscuridade, contradição ou omissão. Os aclaratórios não constituem, segundo a iterativa jurisprudência dos Tribunais Superiores, via adequada para a veiculação de mero inconformismo com os fundamentos de decidir.
+III - Resulta cristalino que o preceito mencionado, tido isoladamente, não possui comando normativo capaz de alterar a conclusão a que chegou o eg. Tribunal de origem, em relação à arguição de afastamento da preclusão.
+ ..
+Agravo Regimental desprovido.
+(AgRg no REsp 1920586/PR. Quinta Turma. Rel. Desembargador Convocado Jesuíno Rissato. DJe de 15/12/2021).
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
