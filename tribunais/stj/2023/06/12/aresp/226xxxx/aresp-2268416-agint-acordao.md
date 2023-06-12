@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno manejado por José Moreira do Nascimento contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial.
+Em razões, o agravante postula a reconsideração da decisão ora agravada aduzindo, para tanto, que: (i) "é cediço na jurisprudência que não é necessário que haja um documento comprobatório para cada trabalhado no campo, pois presume-se a continuidade nos períodos imediatamente próximos, haja vista a informalidade e escassez de documentos inerente a atividade campesina"; (ii) "não se pleiteia o simples reexame de prova, mas sim a valoração da prova material acostada, eis que diante da oitiva satisfatória, deveria ter sido aplicada a Súmula 577 do STJ e reconhecido todo período rural pleiteado".
+O prazo para resposta transcorreu in albis.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RURÍCOLA. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL CORROBORADA POR PROVA TESTEMUNHAL AFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo, a partir da análise do acervo probatório, concluiu que não houve a apresentação de início de prova material hábil a amparar o pleito recursal. Impossibilidade de reversão de entendimento em razão da necessidade de reexame de matéria de prova. Incidência da Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+A insurgência não merece ser acolhida.
+A jurisprudência Superior Tribunal de Justiça está assim assentada: (i) é possível o reconhecimento de tempo de serviço rural mediante a apresentação de um início de prova material, corroborado por prova testemunhal firme e coesa, que pode estender a validade da prova material tanto para períodos anteriores como posteriores ao documento mais antigo apresentado (Recurso Especial Repetitivo 1.348.633/SP); (ii) o início de prova material do exercício de atividade rural nem sempre se refere ao período imediatamente anterior ao requerimento do benefício rural (Recurso Especial Repetitivo 1.354.908/SP); (iii) considerando a inerente dificuldade probatória da condição de trabalhador campesino, a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal (Recurso Especial Repetitivo 1.321.493/PR); (iv) admite-se como início de prova material as certidões de casamento e nascimento dos filhos, nas quais conste a qualificação como lavrador e, ainda, contrato de parceria agrícola em nome do segurado, desde que o exercício da atividade rural seja corroborado por idônea e robusta prova testemunhal.
+No caso dos autos, a sentença concluiu que não houve a apresentação de início de prova material e que o acolhimento da pretensão com amparo em prova apenas testemunhal é vedado pela Súmula 149/STJ, nos seguintes termos:
+Com relação ao período de atividade rural, o artigo 106 da Lei nº 8.213/91 enumera de forma sucinta e simplificada o rol de possibilidades para comprovação de atividade rural, não criando óbice a outros meios de prova admitidos pelos nossos Tribunais.
+Embora referida norma não especifique a natureza de início razoável de prova material, quer em sua potencialidade, quer em sua eficácia, a prerrogativa de decidir sobre a validade dos documentos e concluir pela sua aceitação, ou não, cabe ao juiz. Qualquer que seja ela e particularmente a escrita, deve levar à convicção sobre o fato probando, isto é, além de pertencer à época dos fatos, deve fornecer indicações seguras de que houve o evento que se pretende provar.
+Verifico que foram juntados aos autos os seguintes documentos: declaração de exercício de atividade rural expedido pelo Sindicato dos Trabalhadores Rurais de Araruna -PB (fls. 25/26); declaração do senhor Francisco Nunes de Araújo (fl. 28) e certidão de registro de imóveis expedida pelo Cartório de Registro de Imóveis de Araruna (fls. 29/32), documento de informação e atualização cadastral (fl. 33) e certificado de dispensa de incorporação (fl. 96).
+Entretanto, a declaração sindical juntada às fls. 25/26 não se presta à comprovação do período, pois não foi devidamente homologada pelo INSS, consoante passou a exigir a Lei no 9.063, de 14.6.95. A declaração de fl. 28, também não se presta para a comprovação do período rural, posto que se trata de ato unilateral e o documento de fls. 29/32, também, não comprova que o autor laborou nas lides rurais.
+Assim, não restou comprovado o exercício de atividade rural referente a todo período pleiteado, porque baseada somente em prova testemunhal, sem início de prova material (entendimento da Súmula 149 do STJ "a prova exclusivamente testemunhal não basta a comprovação da atividade ruricola, para efeito da obtenção de beneficio previdenciário"). Somente o ano de 1973 poderá ser reconhecido, diante do certificado de dispensa de incorporação (fl. 96).
+O acórdão recorrido, por sua vez, consignou que:
+A parte autora, nascida em 23/10/1955, trouxe aos autos, para comprovar o exercício de atividade rural:
+- certificado de dispensa de incorporação expedido em 31/12/1973, em que é qualificado como lavrador (fls. 56).
+Com relação às declarações do proprietário do imóvel rural, onde o autor teria atuado, pondero que estas não possuem valor probante, visto que não foram produzidas contemporaneamente ao período que se deseja provar, sendo datadas do ano de 2001 (fls. 28 e 101).
+Afasto o valor probante dos documentos de fls. 29/35 e 102/106 devido a estes dizerem respeito a terceiros, não possuindo nenhum vínculo com o suposto trabalho rural da parte autora.
+A declaração de exercício de atividade rural emitida pelo Sindicato de Santa Cruz do Descalvado (fls. 25/26 e 100) também não configura início de prova material, pois em desacordo com o disposto no artigo 106, III, da Lei nº 8.213/91, que em sua redação original exigia, para sua validade, homologação pelo Ministério Público e após a alteração legislativa em 2008 passou a exigir homologação do INSS.
+As testemunhas às fls. 426 e 432, por sua vez, puderam confirmar o labor rural diário do autor, na cultura de milho e feijão, tendo presenciado o trabalho do autor, indicando o dono da propriedade e o início aproximado das atividades, na década de 1960.
+Todavia, pela análise do conjunto probatório, verifico que não é possível o reconhecimento do alegado exercício de atividade rural, pois os documentos apresentados como início de prova material da atividade rural são insuficientes para a comprovação de trabalho rural sem registro em carteira.
+Nesse contexto, conforme consignado pela decisão ora agravada, o acolhimento da pretensão recursal demanda o revolvimento do conjunto fático dos autos, o que é inviável em sede de recurso especial nos termos da Súmula 7/STJ.
+Assim, não tendo o agravante apresentado qualquer argumento apto a infirmar os fundamentos da decisão hostilizada, deve ser mantida a incidência do mencionado enunciado sumular.
+Sobre o tema:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. AUXÍLIO-ACIDENTE. NATUREZA INDENIZATÓRIA. PERÍODO. CONTAGEM. INVIABILIDADE.
+1. Na esteira do REsp n. 1.348.633/SP, da Primeira Seção, para efeito de reconhecimento do labor agrícola, mostra-se desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.
+2. Caso em que o Tribunal a quo considerou indevida a aposentadoria por idade rural por concluir que o início de prova documental da atividade campesina não foi corroborado por prova testemunhal, sendo certo que a inversão do julgado esbarra no óbice da Súmula 7 do STJ.
+(..)
+4. Agravo interno desprovido. (AgInt no REsp 1802867/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+A decisão agravada, portanto, merece ser mantida por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
