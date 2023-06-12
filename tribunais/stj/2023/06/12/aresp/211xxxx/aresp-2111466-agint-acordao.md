@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por JOAO FORTES CONSTRUTORA LTDA contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a agravante alega, em síntese, que o recurso especial interposto pela ora agravante não encontra óbice nas Súmulas 5 e 7 do STJ, pois, como se depreende da simples leitura do acórdão agravado, os dados objeto de análise por esta Corte constam de modo expresso na referida decisão, o que afasta a necessidade de exame dos demais fatos e provas.
+Reitera a alegada violação dos arts. 489, § 1º, IV e VI, e 1.022, II, ambos do CPC, sustentando que o Tribunal a quo deixou de observar o entendimento jurisprudencial de que é razoável e proporcional a cláusula penal de de 0,5% sobre o valor pago, e do art. 413 do CC, sustentando que houve fixação de penalidade extremamente excessiva à recorrente como cláusula penal, encontrando-se apartada dos princípios da razoabilidade e da proporcionalidade.
+Ao final, requer a reconsideração da decisão agravada, ou sua reforma pela Turma Julgadora.
+Intimada, a parte agravada não apresentou manifestação (e-STJ, fls. 2144/2145).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. ATRASO NA ENTREGA DO IMÓVEL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. MULTA CONTRATUAL. RAZOABILIDADE E PROPORCIONALIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que a cláusula penal imposta à recorrente encontra amparo no contrato firmado entre as partes e não se mostra abusiva ou desproporcional. A modificação de tal entendimento demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): A irresignação não merece prosperar.
+Conforme constou na decisão agravada, não prospera a alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, ambos do CPC, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia relativa ao percentual fixado a título de cláusula penal, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+O Tribunal de origem, no que diz respeito ao montante da cláusula penal, expressamente consignou o seguinte:
+"Ao contrário do que afirma a embargante, não há que se falar em desrespeito aos princípios da razoabilidade e da proporcionalidade, muito menos se decidiu contrariamente ao entendimento da Corte Especial. Isso porque, como devidamente esclarecido no Acórdão embargado, não se tratou de inversão de cláusula penal pela demora na entrega dos imóveis.
+No caso, existe previsão contratual que fixou os termos da indenização em caso de mora pelo promitente vendedor, o que apenas foi seguido pelo julgador.
+A propósito, transcreve-se o seguinte trecho do acórdão embargado:
+"(..)
+No que tange à multa, foi condenada a apelante conforme expressa previsão contratualmente estabelecida, assim redigida:
+Na hipótese de descumprimento pela VENDEDORA do prazo estabelecido no subitem "4.4.2" acima, excetuados os serviços extraordinários, acessórios e complementares, e após ultrapassado o prazo de carência lá ajustado, fica estabelecida uma multa no valor de 1% (um por cento) sobre o valor do imóvel aqui objetivado, por mês de atraso na entrega da obra pela VENDEDORA."
+Dessa forma, a multa imposta à recorrente, ao contrário do que afirma, não foi criada pelo apelado, nem pelo magistrado julgador, mas contratualmente pré- estabelecida, sendo risco de sua atividade empresarial a entrega das chaves com atraso injustificado.(..)" " (e-STJ, fls. 1992/1993 - grifei)
+Como visto, a Corte de origem, analisando as peculiaridades do caso concreto, concluiu que a cláusula penal imposta à recorrente encontra amparo no contrato firmado entre as partes e não se mostra abusiva ou desproporcional.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. COMPROMISSO DE COMPRA E VENDA. ENTREGA DE IMÓVEL FORA DO PRAZO ESTIPULADO. DESNECESSIDADE DE OUTRAS PROVAS. INCIDÊNCIA DE CLÁUSULA PENAL. POSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, cumpre ao magistrado, destinatário da prova, valorar a necessidade de sua produção, conforme o princípio do livre convencimento motivado.
+3. Não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere a produção de provas, seja ela testemunhal, pericial ou documental. Precedentes.
+4. O Tribunal a quo considerou proporcional o valor fixado em cláusula penal, com fulcro no instrumento contratual e nas provas colacionadas aos autos. Dessa forma, o acolhimento da pretensão recursal, no sentido de desonerar os recorrentes ou de reduzir o montante fixado relativo à cláusula penal, esbarraria no óbice das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.334.161/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. TRANSAÇÃO HOMOLOGADA JUDICIALMENTE. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 632 E 633 DO CPC/1973. RECONHECIMENTO DA PRECLUSÃO PELO ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. MULTA CONVENCIONADA PELAS PARTES EM TRANSAÇÃO JUDICIAL. NÃO CARACTERIZAÇÃO DE ASTREINTE. NATUREZA JURÍDICA DE CLÁUSULA PENAL. REDUÇÃO A QUALQUER TEMPO. DEVER DO JUIZ. ART. 413 DO CC/2002. NORMA COGENTE E DE ORDEM PÚBLICA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA.
+(..)
+5. A multa prevista em transação homologada judicialmente tem natureza jurídica de multa contratual (cláusula penal) e não de astreinte, porquanto esta tem caráter processual e decorre de imposição pelo Judiciário e aquela configura instituto de direito material e tem origem na vontade das partes.
+6. Nas hipóteses do art. 413 do CC/2002, o abrandamento do valor da cláusula penal é norma cogente e de ordem pública, consistindo em dever do juiz e direito do devedor que lhe sejam aplicados os princípios da boa-fé contratual e da função social do contrato. Precedentes.
+7. Assim, a despeito da formação de coisa julgada pela decisão que homologa a transação entabulada entre as partes, a cláusula penal nela prevista deve ser reduzida pelo juiz, mediante o princípio da equidade, se a obrigação tiver sido parcialmente cumprida ou se o valor for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio, por força do art. 413 do CC/2002, bem como em observância à origem eminentemente contratual da transação.
+8. A conclusão de que a multa é manifestamente excessiva não decorre do simples fato de seu valor ser elevado, mas do cotejo entre o seu montante e as circunstâncias da hipótese concreta, de modo que a análise de eventual desproporcionalidade na cláusula penal fixada entre as partes tem caráter excepcional em sede de recurso especial, diante da incidência das Súmulas 5 e7 do STJ.
+9. Hipótese em que (I) a recorrente sustenta a possibilidade de redução da multa exclusivamente sob o fundamento de que se trata de astreinte, incidindo, segundo alega, o art. 537, § 1º, do CPC/2015; (II) todavia, a multa foi pactuada pelas partes em transação homologada judicialmente, de modo que tem natureza jurídica de cláusula penal e não de astreinte, sendo suas hipóteses de redução aquelas previstas no CC/2002; (III) ademais, no particular, o mero fato de a multa ter ultrapassado R$ 85.000,00 não demonstra a sua excessividade, sobretudo considerando que o descumprimento da obrigação foi reconhecido por decisão transitada em julgado.
+10. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.999.836/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE COMPRA E VENDA DE NOME FANTASIA. DESCUMPRIMENTO PARCIAL. REDUÇÃO PROPORCIONAL DA MULTA CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. O Tribunal de origem aplicou o artigo 413 do Código Civil determinando a redução proporcional da multa, incidente sobre o valor total do contrato, ao cumprimento parcial da obrigação, estipulando que a multa deve incidir apenas sobre os valores não pagos.
+2. A pretensão de que o montante da penalidade continua excessivo encontra óbice nas Súmulas 5 e 7 do STJ, pois é inviável nesta instância especial revisar o juízo de razoabilidade da instância ordinária que justificou a redução da multa contratual.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 904.769/PR, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 7/6/2018, DJe de 13/6/2018.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
