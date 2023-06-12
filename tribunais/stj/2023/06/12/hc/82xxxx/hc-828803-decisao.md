@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LEONILDO ROCHA DE ALMEIDA SANTANA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA (Recurso em Sentido Estrito n. 7002874-58.2021.8.22.0018).
+Depreende-se dos autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º, I, III e IV do Código Penal (homicídio qualificado pelo motivo torpe, meio cruel e recurso que impossibilitou a defesa do ofendido) - tudo o que foi mantido em recurso em sentido estrito pelo Tribunal de origem por maioria de votos.
+Daí o presente habeas corpus, no qual a Defesa busca desconstituir a pronúncia imposta por falta de provas da autoria.
+Explica que "Extrai-se do voto do Desembargador JOSÉ JORGE RIBEIRO DA LUZ, redator para o acórdão, entendimento justamente no sentido de que os depoimentos dos policiais militares e civis ouvidos em juízo, de fato, SÃO TESTEMUNHOS INDIRETOS, POR OUVIR DIZER, pois apenas reproduziram aquilo que ouviram dizer de terceiro "desconhecido no processo" (fl. 7).
+Requer, inclusive liminarmente, "revogar a prisão cautelar do paciente LEONILDO ROCHA DE ALMEIRA SANTANA, colocando-o em liberdade incontinenti; no MÉRITO, requer a concessão da ordem para DESPRONUNCIAR o paciente" (fl. 34).
+É o breve relatório.
+Decido.
+Na hipótese vertente, tem-se que o recurso em sentido estrito julgado por maioria de votos ainda pende de julgamento dos seus embargos infringentes, veja-se: "a pendência do julgamento dos embargos infringentes interpostos perante o TJ/RO (..)" (fl. 33).
+Nesse contexto, a presente impetração não atende ao requisito da necessidade de manifestação prévia da Corte de origem, com o indispensável esgotamento da jurisdição a quo.
+Corroborando:
+"Pendente de julgamento o recurso de embargos infringentes e de nulidade no Tribunal de origem, o que evidencia que o pronunciamento das instâncias ordinárias ainda não é definitivo, inviável a apreciação, em sede mandamental, de tema cujo resultado do julgamento poderá influir no que será decidido por esta Corte Superior." (AgRg no HC n. 772.940/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 18/10/2022, grifei).
+"Tratando-se de acórdão proferido por maioria de votos em recurso em sentido estrito, torna-se imprescindível a oposição de embargos infringentes para configurar-se o exaurimento de instância, pressuposto de admissibilidade do apelo excepcional, a teor da Súmula n. 207/STJ" (AgRg no AREsp n. 2.185.690/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/10/2022, grifei).
+"(..) tal possibilidade afigura-se ilegal diante da existência e pendência de julgamento de recurso de embargos de declaração, conforme entendimento da Sexta Turma desta Corte" (HC 359.256/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 24/8/2016, grifei).
+"(..) O simples fato de a questão haver sido suscitada na instância de origem o não é suficiente para que possa ser debatida por esta Corte Superior de Justiça, pois, diante da omissão da autoridade impetrada em examiná-la, cumpria à defesa opor os competentes embargos de declaração. Precedentes" (AgRg no HC 563.607/ES, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 20/4/2020, grifei).
+"(..) "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a Defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior." (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/03/2018, DJe 05/04/2018)" (EDcl no AgRg no HC 553.293/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 21/5/2020, grifei).
+Tudo o que impede a análise aqui posta, pois a falta de manifestação a quo, em definitivo, esgotando-se a instância ordi nária nos possíveis efeitos infringentes, torna ineficaz qualquer manifestação desta Corte Superior.
+Entendimento contrário impediria, de forma prematura, a oportunidade de manifestação do juízo da causa, assim como visa a evitar que possa haver manifestação conflitante com o novo título que está por vir.
+Ante o exposto, não conheço do presente mandamus.
+Dê-se vista ao Ministério Público Federal.
+P. I.
