@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno manejado pela GREIF EMBALAGENS INDUSTRIAIS DO BRASIL LTDA. contra acórdão da Primeira Turma assim ementado (e-STJ fl. 437):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2.  Inexiste  ofensa  ao art. 535 do CPC/1973  quando  o Tribunal  de  origem  se  manifesta  de  modo  fundamentado  acerca  das  questões que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta nos  autos,  porquanto  julgamento  desfavorável  ao  interesse  da  parte  não  se confunde  com  negativa  de  prestação  jurisdicional.
+3. Quando os dispositivos indicados como violados não contêm comando normativo capaz de infirmar os fundamentos do acórdão recorrido ou de amparar a tese recursal, não se conhece de recurso especial com arrimo na Súmula 284 do STF.
+4. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica de fundamento autônomo adotado pelo órgão judicial a quo.
+5. Agravo interno desprovido.
+Em suas razões (e-STJ fls. 439/443) , a embargante indica vício de omissão no acórdão combatido e alega, em resumo, que não foram examinados todos os argumentos levantados no agravo interno.
+Afirma que "a omissão incorrida pelo E. Tribunal de Origem, mesmo após a oposição dos competentes Embargos de Declaração, configura evidente violação ao art. 535 do CPC/73, devendo ser reconhecida a nulidade do v. acórdão recorrido. Esse provimento jurisdicional, contudo, encontra-se novamente obstado em razão de nova omissão, dessa vez incorrida no julgamento do Agravo Interno interposto, mas passível de saneamento através do acolhimento dos presentes Embargos de Declaração" (e-STJ fl. 450).
+Defende, em relação à Súmula 284 do STF, que "se pleiteia que a controvérsia seja solucionada à luz dos mencionados dispositivos, pois estes veiculam a disciplina específica da anistia cuja aplicação aqui se busca" (e-STJ fl. 450).
+Ressalta que, conforme alegou no agravo interno quanto à aplicação da Súmula 283 do STF, que, "Conforme evidenciado naquela oportunidade, a impugnação do referido fundamento decorre da própria demonstração da necessidade de aplicação da MP n. 66/2002, que, uma vez admitida, levaria à incidência automática da disciplina da legislação específica" (e-STJ fl. 451).
+Impugnação não apresentada (certidão à e-STJ fl. 461).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, ante o devido enfrentamento dos tópicos trazidos no agravo interno.
+3. Consoante a jurisprudência pacífica do Superior Tribunal de Justiça, o julgador não está obrigado a rebater, um a um, todos os argumentos ou apreciar todos dispositivos de lei invocados pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia. Precedentes.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), vícios esses inexistentes na espécie.
+Vale pontuar que as questões trazidas no agravo interno, em que a parte defendeu a violação do art. 535 do CPC/1973 e à inaplicabilidade das Súmulas 283 e 284 do STF, foram devidamente enfrentadas no acórdão embargado, consoante se extrai da respectiva fundamentação (e-STJ fls. 442/443):
+Como bem registrado na decisão ora combatida, não se constata quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso, houve expresso pronunciamento acerca da impossibilidade de o Poder Judiciário chancelar a quitação dos débitos em substituição à Administração Fazendária, à qual caberá analisar a aplicação das regras previstas na Medida Provisória 66/2002 à situação da contribuinte, ora agravante.
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+No tocante à aplicação da Súmula 284 do STF, vale salientar que o art. 21 da Medida Provisória n. 66/2002, tendo em conta o fundamento utilizado pela Corte regional, de que a contribuinte deve buscar o meio próprio - pedido administrativo - para a aplicação dos ditames previstos na medida provisória, efetivamente não se mostra apto a infirmar essa conclusão, esposada no julgado de origem, o que demonstra a correta incidência daquele verbete sumular.
+Por fim, a motivação adotada no acórdão recorrido, quanto à necessidade de que a aplicação das regras previstas na Medida Provisória n. 66/2002 seja pleiteada na via própria, não foi objeto de impugnação no recurso especial, o que atrai o óbice da Súmula 283 do STF, devidamente imposto na espécie.
+Em atenção às alegações da embargante, registro que, consoante a jurisprudência pacífica do Superior Tribunal de Justiça, o julgador não está obrigado a rebater, um a um, todos os argumentos ou apreciar todos dispositivos de lei invocados pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia. Deve, assim como no acórdão embargado, enfrentar as questões relevantes imprescindíveis à resolução do caso. (AgInt no REsp 1.956.268/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/4/2022).
+Nesse sentido: AgInt no AREsp 1.575.315/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020; REsp 1.719.219/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018; AgInt no REsp n. 1.757.501/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n. 1.609.851/RR, relatora Ministra Regina Helena Costa, Primeira Turma, Dje 14/08/2018.
+Ponderados esses elementos, tenho que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
