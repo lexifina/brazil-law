@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 826/828).
+O acórdão recorrido ficou assim ementado (e-STJ fl. 726):
+EMENTA: APELAÇÃO CÍVEL - RESCISÃO CONTRATO DE COMPRA E VENDA DE IMÓVEL - CESSÃO DE CRÉDITO - RESPONSABILIDADE SOLIDÁRIA -TEORIA DA APARÊNCIA - LEGITIMIDADE RECONHECIDA -CDC - CONSUMIDOR. IMÓVEL. CONTRATO DE PROMESSA DE COMPRA E VENDA. LOTEAMENTO. CONSTRUÇÃO DE INFRAESTRUTURA. DESCUMPRIMENTO. RESCISÃO DO INSTRUMENTO POR CULPA DA CONSTRUTORA. POSSIBILIDADE. DEVOLUÇÃO DOS VALORES PAGOS.
+-Segundo a teoria da asserção, a análise da legitimidade da parte realiza-se em abstrato, conforme os fatos narrados na petição inicial.
+-Pelo fato da apelante IBIPORÃ NEGÓCIOS IMOBILIÁRIOS S/A ter adquirido os direitos creditórios da ré Parques do Vale, esta passou a figurar como titular de direitos, tornando-se responsável pelo recebimento dos valores oriundos do contrato celebrado entre a autora e a cedente sendo incontestável a sua legitimidade para a presente ação de rescisão contratual c/c devolução de parcelas pagas c/c danos materiais e morais.
+-Ademais, em se tratando de relação de consumo, cedente e cessionário respondem solidariamente pelos danos causados ao consumidor.
+-Não tendo a apelante comprovada que efetuou as obras de infraestrutura do loteamento a tempo e modo deve ela ser considerada culpada pela rescisão do contrato.
+-O enunciado da súmula nº. 543, editada pelo Colendo Superior Tribunal de Justiça, estabelece que "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador -integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Os embargos de declaração foram parcialmente acolhidos sem efeitos infringentes (e-STJ fls. 776/780).
+No recurso especial (e-STJ fls. 787/797), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além de divergência jurisprudencial, violação do art. 286 do CC/2002, argumentando sua ilegitimidade passiva.
+Sustenta, em síntese, que "NÃO houve a cessão do empreendimento, que consistiria em uma cessão dos contratos de compra e venda de imóveis, com todos os seus direitos e obrigações neles previstos" (e-STJ fl. 792) e que deve ser reconhecida "ausência de transferência das obrigações e das responsabilidades da cedente para a cessionária em uma CESSÃO DE CRÉDITOS" (e-STJ fl. 794).
+No agravo (e-STJ fls. 831/839), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos os requisitos legais para recebimento do especial.
+É o relatório.
+Decido.
+No caso, o TJMG, com base nas peculiaridades do caso, afastou a tese de ilegitimidade passiva da parte ora recorrente, decidindo com base nos seguintes fundamentos (e-STJ fls. 732/733):
+No caso em estudo, constata-se que a apelante IBIPORÃ NEGÓCIOS IMOBILIÁRIOS S/A (atual denominação de PDV Loteamento e Empreendimentos Imobiliários S/A) adquiriu direitos creditórios da ré Parques do Vale.
+E, pelo fato da apelante IBIPORÃ NEGÓCIOS IMOBILIÁRIOS S/A ter adquirido os direitos creditórios da ré Parques do Vale, esta passou a figurar como titular de direitos, tornando-se responsável pelo recebimento dos valores oriundos do contrato celebrado entre a autora e a cedente sendo incontestável a sua legitimidade para a presente Ação de Rescisão Contratual c/c Devolução de Parcelas Pagas c/c Danos Materiais e Morais.
+Ademais, em se tratando de relação de consumo, cedente e cessionário respondem solidariamente pelos danos causados ao consumidor.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que em se tratando de relação de consumo, cedente e cessionário respondem solidariamente pelos danos causados ao consumidor. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, modificar o entendimento do acórdão impugnado quanto à legitimidade passiva da parte recorrente, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
