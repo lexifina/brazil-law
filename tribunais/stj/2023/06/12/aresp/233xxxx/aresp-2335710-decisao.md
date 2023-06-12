@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por INCORPORACAO TROPICALE LTDA EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÀO DE COBRANÇA DE TAXAS CONDOMINIAIS. PETIÇÃO INICIAL DA AÇÀO DE EXECUÇÃO ACOMPANHADA DE DOCUMENTOS QUE DEMONSTRAM A EXISTÊNCIA DO CRÉDITO. TESE DE NULIDADE DA EXECUÇÃO AFASTADA COM ACERTO PELO JUÍZO DE ORIGEM.
+Quanto à controvérsia, alega violação do art. 784, X, do CPC, no que concerne à nulidade da ação de execução ante a ausência de interesse processual da parte recorrida, porquanto, o título extrajudicial trazido aos autos carece de certeza, liquidez e exigibilidade. Apresenta os seguintes argumentos:
+O Recorrido requereu a execução das taxas de condomínio, alegando serem título executivo extrajudicial, visando o adimplemento de prestações condominiais supostamente inadimplidas, referentes aos anos de 2014 a 2019, totalizando em suas contas R$ 22.125,13 (vinte e dois mil cento e vinte e cinco reais e treze centavos).
+ ..
+Daí, conquanto a lei admita a propositura de ação de execução de título extrajudicial fundada em despesas condominiais, necessário que o respectivo título apresente os requisitos da certeza, liquidez e exigibilidade, situação não verificada na espécie.
+Ora, Nobres Ministros, não há liquidez dos títulos apresentados, assim não se pode considerar o crédito referente às contribuições ordinárias ou extraordinárias em questão título executivo extrajudicial, ao passo que a verba condominial em litígio deve ser cobrada mediante ação de cobrança e, não por meio de ação de execução.
+ ..
+Os boletos de cobrança de condomínio, a despeito de serem títulos executivos extrajudiciais, não são títulos de crédito dotados de abstração ou autonomia. Eles devem estar lastreados pelo documento que autorizaram e estipulam o valor para a cobrança, no caso, a Ata das Assembleias Gerais Ordinárias, para cada ano de cobrança.
+No caso dos autos, o conjunto probatório carece dos requisitos da certeza e de liquidez, nos termos já expostos, o que impõe a nulidade da execução em virtude da ausência de título executivo (fls. 302-305).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Tratando-se de execução na qual se busca a satisfação de crédito decorrente de taxas de condomínio, mostra-se imprescindível a juntada da convenção ou da ata da assembleia geral que fixou os valores da contribuição, para fins de averiguação da certeza, liquidez e exigibilidade da obrigação.
+ ..
+Para escorar a pretensão executiva, o recorrente apresentou, com a inicial, cópias da ata relativa à eleição da síndica, da convenção do condomínio e da matrícula do imóvel sobre o qual incide a taxa condominial, bem como os boletos vencidos e não pagos e a planilha de evolução do débito (evento n. 1).
+Apesar da recorrida afirmar que a execução é nula, pelo fato de não ter sido acostada a ata da Assembleia Geral em que se aprovou o valor da taxa condominial geradora do crédito exequendo (o que, aliás, não faz muito sentido, eis que o valor em comento varia mês a mês, a depender dos gastos tidos, ordinários ou extraordinários), conforme é pacífico neste Tribunal de Justiça, tal documento é prescindível para instrumentalizar a execução das taxas condominiais inadimplidas, bastando, para tanto, precisamente, os documentos que foram zelosamente apresentados pelo Condomínio agravado.
+ ..
+Destarte, mostra-se equivocada o acolhimento da exceção de pré-executividade, no que pertine à referida tese de nulidade da execução originária (fls. 287-289, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O acolhimento da pretensão recursal sobre a existência de liquidez, certeza e exigibilidade do título executivo extrajudicial demandaria o reexame de matéria fática e das demais provas constantes dos autos, atraindo o óbice da Súmula 7/STJ." (AgInt no AREsp n. 628.985/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
