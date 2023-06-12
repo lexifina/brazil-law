@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/06/2023 a 12/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 3.798/3.0803) interposto contra decisão desta relatoria que negou provimento ao agravo.
+Em suas razões, a agravante alega que "o REsp não foi declarado pelo MM. Relator nem inadmissível, nem prejudicado nem carente de impugnação dos fundamentos da decisão recorrida. Ao contrário, o MM. Relator, ao julgar o mérito do agravo, declarou expressamente que não se tratava de afronta ao art. 489, § 1º, IV, do CPC, que é, no contexto, o fundamento do próprio REsp. Significa dizer que o mérito do REsp foi enfrentado, mas monocraticamente" (e-STJ fl. 3.802).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fls. 3.810/3.812).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada (art. 1.021, § 1º, CPC/2015).
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 3.789/3.794):
+Trata-se de agravo interno (e-STJ fls. 3.774/3.777) interposto contra decisão da Presidência do STJ que não conheceu do agravo nos próprios autos.
+Em suas razões, a parte argumenta com a tempestividade do recurso especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram oferecidas contrarrazões (e-STJ fls. 3.782/3.784).
+É o relatório.
+Decido.
+Tendo em vista os argumentos apresentados pela parte recorrente, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo ao exame do especial.
+O acórdão recorrido está assim ementado (e-STJ fls. 1.122/1.125):
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS - ACIDENTE DE TRÂNSITO. APELAÇÃO CÍVEL (2) - COLISÃO FRONTAL, ENTRE UM CAMINHÃO DA EMPRESA TRANSPORTADORA E O VEÍCULO CONDUZIDO PELA VÍTIMA, ACOMPANHADA DE PASSAGEIRO TAMBÉM FALECIDO NO MOMENTO DO ACIDENTE  CAMINHÃO QUE, NA TENTATIVA DE REALIZAR MANOBRA DE ULTRAPASSAGEM. INVADE PISTA CONTRÁRIA E OBSTRUI A PASSAGEM DO AUTOMÓVEL, O QUAL EFETUAVA MANOBRA DE DESVIO PARA A ESQUERDA, EM VEZ DA DIREITA, ONDE HAVIA ACOSTAMENTO, INVADINDO A CONTRAMÃO DE DIREÇÃO E COLIDINDO FRONTALMENTE COM OUTRO CAMINHÃO DA MESMA EMPRESA RÉ  CULPA CONCORRENTE EVIDENCIADA  REDISTRIBUIÇÃO DA CULPA: 70% PARA A TRANSPORTADORA E 30% PARA O CONDUTOR DO AUTOMÓVEL  REDUÇÃO PROPORCIONAL DAS CONDENAÇÕES  PENSIONAMENTO DEVIDO AOS GENITORES  PRESUNÇÃO DE DEPENDÊNCIA ECONÔMICA PAGAMENTO ATÉ QUANDO O DE CUJUS COMPLETARIA 65 ANOS (CONFORME ESTIPULAÇÃO IRRECORRIDA DA SENTENÇA) OU ATÉ O FALECIMENTO DO BENEFICIÁRIO  REDUÇÃO DO VALOR DO PENSIONAMENTO  DESCABIMENTO  CORREÇÃO MONETÁRIA E JUROS DE MORA INCIDENTES DESDE O VENCIMENTO DE CADA PRESTAÇÃO (JUROS ALTERADOS DE OFÍCIO)  REDUÇÃO/MAJORAÇÃO DO MONTANTE INDENIZATORIO A TÍTULO DE DANOS MORAIS  IMPOSSIBILIDADE  PARTICULARIDADES DO CASO CONCRETO CONSTITUIÇÃO DE CAPITAL  MANUTENÇÃO DIFICULDADE DE INCLUSÃO EM FOLHA DE PAGAMENTO, EM RAZÃO DE SE TRATAR DE EMPRESA ESTRANGEIRA  INTELIGÊNCIA DA SÚMULA Nº 313 DO STJ  REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS PARCIAL PROCEDÊNCIA DE AÇÃO DE RESSARCIMENTO MOVIDA PELA TRANSPORTADORA EM FACE DO CONDUTOR DO AUTOMÓVEL NA PROPORÇÃO DA CULPA APURADA  PROCEDÊNCIA DA LIDE SECUNDÁRIA  APELO (2) A QUE SE DÁ PARCIAL PROVIMENTO COM MODIFICAÇÃO, DE OFÍCIO, DO TERMO INICIAL DOS JUROS DE MORA SOBRE O PENSIONAMENTO - APELO (1) A QUE SE NEGA PROVIMENTO.
+Os primeiros embargos de declaração opostos pelas partes foram rejeitados (e-STJ fls. 1.244/1.305).
+Os segundos embargos de declaração dos recorridos foram acolhidos com efeitos infringentes, nos termos da ementa a seguir (e-STJ fl. 1.331):
+EMBARGOS DE DECLARAÇÃO - PREMISSA FÁTICA EQUIVOCADA ADOTADA QUANDO DO CÁLCULO DA PENSÃO DEVIDA - VÍCIO SANADO - EMBARGOS ACOLHIDOS, COM EXCEPCIONAL EFEITOS INFRINGENTES.
+Os segundos aclaratórios da recorrente foram rejeitados (e-STJ fls. 1.359/1.369).
+No recurso especial (e-STJ fls. 3.419/3.436), fundamentado no art. 105, inc. III, alínea "a", da CF, a parte recorrente apontou ofensa ao art. 489, § 1º, IV, do CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional, pois o acórdão recorrido não teria se manifestado a respeito das seguintes questões (e-STJ fls. 3.422/3.423):
+1 A omissão quanto as especificidades do sinistro relatadas no boletim de ocorrência que embora seja um documento coberto pela presunção de veracidade, fora totalmente descartado pelo magistrado.
+2. Em continuidade, o v. acórdão deixa de enfrentar as alegações do recurso de apelação no que tange aos depoimentos das testemunhas, principalmente referente as irregularidades, incongruências e incompatibilidade das afirmações entre si, que acabou por criar um evidente cenário tático ilusório e dissonante da realidade. Ademais, para embasar a decisão e reforçar os argumentos, os depoimentos do motorista da Recorrente e do policial foram sumariamente descartados, uma vez que, evidentemente, contradiziam a fantasiosa tese criada pelos Recorridos.
+3 Mais adiante, o il. Retator decide pela manutenção do pensionarnento a Sra. Ntinan Bindemann e para os Srs. Atertina Brondani Morgan e Ademar Luis Morgan, atribuindo somente a redução no importe de 30% (trinta por cento) referente a atribuição de culpa concorrente Contudo, novamente não há o enfrentamento das questões trazidas no recurso interposto pela Recorrente, que alegou a ausência de provas com relação a renda mensal, hipossuficiência dos Recorridos e consequente necessidade de fixação de pensão.
+4 Ainda, fora suscitada a questão da fixação equivocada da pensão com base no faturamento total da empresa da vitima Renato Morgan, e o fato de que tal empresa continuará a distribuir os lucros para os sócios que, diante da fatalidade, passou a ser os herdeiros Com relação ao pensionamento, fora questionada a idade fixada como termo final de 65 (sessenta e cinco) anos, questão esta também não debatida no acórdão.
+5. Por fim, com relação aos honorários advocatícios, não há qualquer enfrentamento dos questionamentos levantados pela Recorrente, principalmente no que concerne a alegação de desproporção entre valores fixados e a sucumbência dos Recorridos.
+Foram oferecidas contrarrazões (e-STJ fls. 3.441/3.502).
+Passo à análise da insurgência.
+A irresignação não merece prosperar.
+O Tribunal "a quo" decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte recorrente, deixando claros os motivos pelos quais, após uma análise minuciosa das provas dos autos, reconheceu a culpa concorrente das partes, fixando o pensionamento e a verba honorária, nos seguintes termos (e-STJ fls. 1.157/1.186):
+(..) é imperioso o reconhecimento da culpa concorrente.
+Quanto ao dimensionamento da culpa, tem-se que o acidente de trânsito, frente ao entendimento acima exarado, foi de fato ocasionado pelo preposto da transportadora, motorista do caminhão que invadiu a contramão de direção para efetuar ultrapassagem, pois quem deu efetiva causa ao encadeamento dos fatos, contribuindo em maior porcentagem - 70% (setenta por cento).
+Já o condutor da Dodge Dakota, Renato Morgan, mostrou-se culpado ao efetuar a manobra evasiva equivocada, em desacordo com as boas normas de condução, agravando as consequências do evento danoso, sendo sua parcela de culpa correspondente a 30% (trinta por cento). Dá-se, portanto, provimento ao recurso da transportadora para reconhecer a culpa concorrente na proporção de 70% para a transportadora e 30% para Renato Morgan.
+- Danos materiais - pensionamento
+Autos nº 278/2007 - Mirian Bindemann x Transportadora Astudillo y Hijas
+A transportadora, em seu recurso, afirmou que não há prova da dependência econômica da genitora, devendo-se afastar a condenação. Alternativamente, o pagamento da pensão deve se limitar até o momento em que a vítima completaria 25 anos.
+Sem razão.
+Primeiramente, cumpre esclarecer que a dependência econômica dos pais é presumida, no caso de Richard e Mirian Bindemann. Isso porque se observa dos elementos juntados que se trata de família de baixa renda (mãe viúva e do lar), ou seja, nos núcleos familiares de renda escassa há ajuda mútua entre seus membros, presumindo-se que o filho contribuía com as despesas do lar, principalmente porque restou comprovado que Richard trabalhava e auferia um salário mínimo mensal à época do acidente, como assistente administrativo (fl. 44 dos autos nº 278/2007).
+É o entendimento desta Câmara:
+(..)
+Por outro lado, é entendimento pacífico na jurisprudência que deve ser arbitrada em 2/3 do salário mínimo até que a vítima completasse 25 anos:
+(..)
+Também é de entendimento desta Corte, que a pensão aos pais deve ser fixada em 2/3 do salário mínimo até a data em que completaria 25 anos (como fez a sentença) e, após isso, deve ser reduzida para 1/3 do salário mínimo, até a idade dita na sentença (65 anos), ou, em se tratando de genitores, até o falecimento destes. Confira-se:
+(..)
+Portanto, deve ser mantido o pensionamento a partir da data em que Richard Bindemann completaria 25 anos em 1/3 do salário mínimo, até a data em que a vítima completaria 65 anos (vez que, apesar de a expectativa de vida do brasileiro ser, atualmente, de 74,9 anos, a sentença pôs termo final aos 65 anos, o que não foi objeto de recurso), ou até o falecimento de seus genitores. No entanto, deve-se proceder à redução do pensionamento conforme o grau de culpa atestado na espécie. O pagamento, então, pela transportadora, deve-se limitar a 70% do total que seria devido, Tal corresponde a 0,4666 salário mínimo, até os 25 anos do de cujus, e a 0,2333 salário mínimo, após os 25 anos. Os 30% restantes poderão ser pleiteados em face do espólio de Renato Morgan, responsável, nesta proporção, pelo acidente.
+(..)
+Autos nº 9499-43.2007 - Albertina e Ademar Morgan x Transportadora Atudillo y Hijas S/A
+A transportadora efetuou os mesmos questionamentos quanto à dependência econômica da genitora e o termo final da pensão mensal. Conforme já esposado, restou comprovado que a mãe de Renato Morgan, também viúva e do lar, dele dependia economicamente, sendo igualmente devido o pensionamento até que o falecido completasse 65 anos de idade ou até o falecimento da beneficiária.
+No que diz respeito ao valor mensal fixado para o pensionamento, a sentença o fixou em 1/3 de 3,9 salários mínimos, não de 11,7, como defendeu a apelante. Os comprovantes de rendimentos se encontram às fls. 169/172, corroborando com o que constou da sentença.
+A empresa de Renato Morgan era laborada por ele e seu irmão (fl. 165). Com o óbito, é sim possível que a empresa venha a se desfazer. Certamente a genitora, pessoa de idade, não deverá assumir o lugar do filho.
+Por tais razões, mantém-se o valor e as condições da pensão mensal em favor de Albertina Morgan tal qual fixado em sentença.
+No entanto, deve-se proceder à redução do pensionamento conforme o grau de culpa atestado na espécie. O pagamento, então, pela transportadora, deve-se limitar a 70% do total que seria devido, o que corresponde a 0,91 salário mínimo (70% x 1/3 de 3,9 salários mínimos = 0,91 salário mínimo).
+(..)
+Na lide primária, diante da sucumbência recíproca, condena-se a parte autora ao pagamento de 85% (oitenta e cinco por cento) das custas processuais e honorários advocatícios em favor do patrono da parte contrária, incumbindo ao espólio o pagamento dos 15% (quinze por cento) restantes das mesmas verbas.
+No que diz respeito à verba honorária, tem-se que a remuneração do patrono deve ser arbitrada em respeito ao princípio da razoabilidade, considerando para tanto, os critérios de tempo, complexidade e o trabalho do profissional com a demanda, sem, com isso, onerar em demasia a parte contrária ou remunerar injustamente o procurador. Neste sentido:
+(..)
+Diante deste quadro e sopesando a alta complexidade do feito, tem-se que o montante fixado deve ser fixado em 20% (dez por cento) sobre o valor da condenação, mostrando-se este valor condizente com o trabalho exercido, nos termos do artigo 85, §2º, do Novo Código de Processo Civil, observado o grau de zelo do profissional (sucumbência recíproca), o lugar da prestação do serviço (Curitiba), o vulto e a complexidade da causa (ação de ressarcimento de valores em razão de acidente de trânsito), o trabalho e o tempo despendidos (demanda em trâmite desde 2004), valor da condenação e as condições econômicas das partes, além da competência e o renome dos profissionais envolvidos.
+Na lide secundária, cabe à seguradora o pagamento das custas processuais impostas ao réu nesta demanda, contudo, tendo em vista a ausência de resistência, deixa-se de condenar a denunciada ao pagamento de honorários advocatícios, na esteira da jurisprudência reiterada do STJ e desta Corte
+Assim, não incorreu em negativa de prestação jurisdicional.
+Desse modo, quanto à alegada afronta ao art. 489, § 1º, IV, CPC/2015, não assiste razão à parte.
+Diante do exposto, DOU PROVIMENTO ao agravo interno, para reconsiderar a monocrática da Presidência do STJ (e-STJ fls. 3.769/3.771), e NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal, o agravo previsto no art. 1.021 do CPC/2015 deve refutar, de forma específica, os motivos apresentados pelo relator para negar provimento ao agravo em recurso especial, conforme o parágrafo primeiro do mesmo dispositivo legal.
+No agravo interno (e-STJ fls. 3.789/3.803), a agravante insurge-se contra o resultado que lhe foi adverso sem, entretanto, proceder à impugnação específica dos fundamentos da decisão monocrática, limitando-se sustentar o descabimento do exame do mérito do recurso especial em decisão monocrática do relator, nada mencionando acerca da suposta negativa de prestação jurisdicional.
+Deixando a parte recorrente de rebater especificamente cada ponto da decisão ora agravada, incide a Súmula n. 182/STJ.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PETIÇÃO DE AGRAVO INTERNO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Na espécie, a agravante não impugnou o fundamento adotado na decisão agravada, no sentido de que o agravo em recurso especial não poderia ser conhecido ante a falta de impugnação aos fundamentos adotados na decisão proferida pelo Presidente do Tribunal a quo que negou seguimento ao seu recurso especial. Desse modo, a pretensão à reconsideração não pode ser conhecida, em observância da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 882.607/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/4/2016, DJe 3/5/2016.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
