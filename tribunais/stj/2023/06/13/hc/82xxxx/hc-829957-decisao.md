@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de VICTOR BARROS DA SILVA OLIVEIRA, no qual a defesa alega, em síntese, a operação de excesso de prazo para a remessa, ao Tribunal de Justiça do Estado de São Paulo, de recurso de apelação contra sentença proferida pelo Juízo da 16ª Vara Criminal do Foro Central Criminal Barra Funda/SP, nos autos da ação penal n. 1511960-05.2022.8.26.0228.
+Roga, em liminar, seja assegurado ao paciente o direito de aguardar em liberdade o processamento deste writ. No mérito, in verbis: " ..  Requer a Vossa Excelência seja Reconhecido flagrante o Excesso de prazo, seja CONCEDIDA A ORDEM DE HABEAS CORPUS ao Impetrante VICTOR BARROS DA SILVA OLIVEIRA, determinando a expedição de ofícios de praxe, com a competente comunicação a unidade prisional com máxima urgência  .. " (fl. 13).
+É o breve relatório.
+Decido.
+O mandamus não prospera.
+Não se depreende dos autos que a defesa tenha suscitado previamente a questão do excesso de prazo perante o Juízo de Segundo Grau. Inexiste comprovação, no feito, acerca da inauguração da competência desta Corte Superior para apreciação da insurgência, a teor do art. 105, I, c, Constituição federal - CF.
+Enfatizo que " a  competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus e do recurso ordinário, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas "b" e "c", da Carta Maior." (RHC n. 97.773/RS, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/6/2018, DJe de 1/8/2018).
+Na mesma toada, ilustrativamente, confiram-se precedentes da Quinta e Sexta Turmas deste STJ:
+AGRAVO REGIMENTAL CONTRA O INDEFERIMENTO LIMINAR DE HABEAS CORPUS. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. WRIT IMPETRADO CONTRA ATO DO JUÍZO DE PRIMEIRA INSTÂNCIA. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA. ART. 105, I, "c", DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL POR ESSA VIA. INDEFERIMENTO LIMINAR. APLICAÇÃO DO ART. 210 DO REGIMENTO INTERNO DESTA CORTE.
+1. Não ofende o princípio da colegialidade a análise monocrática do habeas corpus pelo relator "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos", a teor do art. 210 do RISTJ (AgRg no HC n. 258.964/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 3/8/2015).
+2. O art. 105, I, "c", da Magna Carta dispõe que compete a esta Corte processar e julgar habeas corpus quando o coator for Tribunal sujeito à sua jurisdição. Contudo, não constam dos autos elementos que demonstrem a existência de decisão ou acórdão do Tribunal a quo apreciando a questão objeto deste writ.
+3. No tocante à pretensão de atribuir efeito suspensivo ao Resp 1.386.237/SP, sabe-se que "o habeas corpus não é a via adequada para buscar a atribuição de efeito suspensivo a recurso especial ou ao agravo interposto contra a decisão que o inadmitiu" (HC 206.403/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 14/12/2011).
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 354.996/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/6/2016, DJe de 30/6/2016)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO EM FLAGRANTE. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE JUIZ DE PRIMEIRO GRAU. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA LOCAL. PRECEDENTE DO STJ. TESE DE EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. ESVAZIAMENTO DO OBJETO.
+1. Não cabe a esta Corte conhecer habeas corpus no qual se objetiva desconstituir ato proferido por magistrado de primeiro grau de jurisdição, tendo em vista a sua manifesta incompetência, nos termos do que dispõe o art. 105, inciso I, alínea c, da Constituição da República. Precedente do STJ.
+2. Noticiada a prolação de sentença penal condenatória em desfavor do Paciente, verifica-se o esvaziamento do objeto da impetração, na medida em que, de um lado, há novo título judicial a justificar a prisão cautelar; e, de outro lado, resta superado eventual excesso de prazo.
+3. Writ não conhecido.
+(HC n. 45.937/SP, relatora Ministra LAURITA VAZ, QUINTA TURMA, julgado em 11/10/2005, DJ de 14/11/2005, p. 363).
+Por tais razões, nos termos do artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
