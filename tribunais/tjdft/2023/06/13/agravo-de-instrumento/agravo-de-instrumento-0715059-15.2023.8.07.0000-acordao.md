@@ -1,0 +1,100 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0715059-15.2023.8.07.0000AGRAVANTE(S)MAFALDA DO COUTO,RONALDO DO COUTO,ROSANE DO COUTO FURTADO e RUBENS MITSUR MAEDAAGRAVADO(S)BANCO DO BRASIL S/ARelatorDesembargador JOSE FIRMO REIS SOUB
+ Acórdão Nº1715062
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA DE CRÉDITO RURAL. DIFERENÇA DE EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO POR ARBITRAMENTO. DECLÍNIO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. NÃO CABIMENTO. CONDENAÇÃO SOLIDÁRIA. LITISCONSÓRCIO PASSIVO DESNECESSÁRIO. PRERROGATIVA DE ESCOLHA DO CREDOR. INSTITUIÇÃO FINANCEIRA QUE NÃO FIGURA NO ART. 109, I, CF. COMPETÊNCIA DA JUSTIÇA ESTADUAL. DECISÃO REFORMADA.
+
+1. A despeito da condenação solidária do Banco do Brasil, Banco Central e União na ação coletiva, objeto da liquidação provisória, não há litisconsórcio passivo necessário, cabendo ao credor a escolha contra qual ou quais devedores pretende litigar, nos termos do disposto no art. 272, do Código Civil.
+
+2. A escolha de apenas um devedor dispensa a inclusão dos demais, visto que a solidariedade garante o direito de regresso entre os devedores, mostrando-se natural que o credor tenha preferência por litigar com a instituição financeira, com a qual contratou, sem participação direta da União ou do Banco Central.
+
+3. Sendo a liquidação ajuizada tão somente contra o Banco do Brasil, por imposição legal, não pode tramitar na Justiça Federal, vez que não figura no feito qualquer ente público constante do art. 109, I, da CF.
+
+4. “A competência da Justiça Federal é ratione personae, daí decorrendo que nela só podem litigar os entes federais elencados no artigo 109, inciso I, da Constituição Federal, conforme consolidado nos enunciados constantes nas Súmulas 150, 224 e 254 do STJ. Dessa forma, não se justifica o deslocamento da competência do feito e a remessa dos autos à Justiça Federal, quando figura como parte apenas o Banco do Brasil, instituição financeira que celebrou a avença com a parte recorrida, sendo competente, portanto, a Justiça Estadual Comum” (REsp n. 1.948.316/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/11/2021, DJ-e de 29/11/2021.)
+
+5. AGRAVO CONHECIDO E PROVIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO DA LIQUIDAÇÃO.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOSE FIRMO REIS SOUB - Relator, CARMEN BITTENCOURT - 1º Vogal e EUSTAQUIO DE CASTRO - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON TEIXEIRA DE FREITAS, em proferir a seguinte decisão: AGRAVO CONHECIDO E PROVIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO DA LIQUIDAÇÃO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Junho de 2023
+
+Desembargador JOSE FIRMO REIS SOUBRelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento interposto por MAFALDA DO COUTO e OUTROS contra decisão proferida pelo Juízo da 4ª Vara Cível de Brasília que, nos autos do procedimento de liquidação e cumprimento provisório de sentença instaurado em face do título executivo judicial formado em desfavor do Banco do Brasil na ação civil pública n. 0008465-28.1994.4.01.3400, declinou da competência em favor da 3ª Vara Federal da Seção Judiciária do Distrito Federal.
+
+Informam os agravantes, em breve síntese, que ajuizaram liquidação provisória de sentença coletiva pautada em decisão proferida no REsp nº 1.319.232, decorrente de Ação Civil Pública ajuizada pelo Ministério Público contra o Banco do Brasil S/A, que condenou o Banco Agravado na restituição da diferença entre o IPC de 84,32%, aplicado em março de 1990, e o índice devido, BTN de 41,28%.
+
+Esclarecem que o feito teve trâmite normal, com a citação do requerido, apresentação de contestação, extratos e cálculos, impugnação, ocasião em que proferida a decisão agravada declinando a competência para a 3ª Vara Federal da Seção Judiciária do Distrito Federal, por ser o local onde tramitou a ação coletiva.
+
+Salientam que se a demanda foi ajuizada estritamente contra o Banco requerido e não estando ele entre as pessoas descritas no art. 109, CF, compete à Justiça Comum Estadual processar e julgar a presente lide, nos termos das Súmulas 508/STF e 42/STJ.
+
+Citam diversos julgados do Superior Tribunal de Justiça, envolvendo demanda idêntica à presente, entendendo pela competência do Juízo da Vara Cível Estadual.
+
+Afirmam que, apesar do disposto no inciso II do artigo 516 do CPC, o STJ vem admitindo que os efeitos de decisões proferidas em demandas coletivas, da qual emanem direitos metaindividuais, transbordem os limites do Juízo prolator, admitindo o ajuizamento da liquidação perante outros foros, uma vez que os efeitos da sentença não estão adstritos a lindes geográficas territoriais (REsp nº 1.243.887/PR).
+
+Colacionam jurisprudência desta Corte de Justiça e destacam a necessidade de concessão do efeito suspensivo ao presente recurso, objetivando evitar a remessa dos autos à 3ª Vara Federal da Seção Judiciária do Distrito Federal e a tramitação do feito com a prática de atos ineficazes e nulos.
+
+Requerem, liminarmente, a atribuição de efeito suspensivo ao presente recurso, para suspender a decisão agravada, determinando o prosseguimento do feito na origem. No mérito, pugnam pelo provimento do agravo para declarar a competência do Juízo a quo e da Justiça Estadual de Brasília.
+
+Preparo regular (ID 45968945).
+
+Pela decisão de ID 46013881, deferi a atribuição do efeito suspensivo requerido.
+
+Contrarrazões ofertadas (ID 46733148), pelo não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador JOSE FIRMO REIS SOUB - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Com efeito, nesse momento, cumpre ratificar os fundamentos por mim exarados quando do deferimento do efeito suspensivo pleiteado, visto que suficientes também à análise do mérito do presente recurso.
+
+Reitero, inicialmente, que a conclusão declinada na decisão impugnada, se distancia das recentes decisões proferidas por esta Corte de Justiça, em inúmeros julgados tratando da mesma questão, envolvendo o litisconsórcio passivo entre Banco do Brasil, Banco Central e União.
+
+Na origem, cuida-se liquidação provisória de sentença coletiva proferida na ação civil pública nº 0008465-28.1994.4.01.3400, na qual figuram como devedores solidários o Banco do Brasil, o Banco Central e a União, tendo o magistrado a quo declinado da competência em favor da 3ª Vara Federal da Seção Judiciária do Distrito Federal, após citação do requerido, apresentação de contestação, extratos, cálculos e impugnação ofertada.
+
+Consoante consignado por esta relatoria, quando do exame da liminar, a despeito da condenação solidária decorrente da ação coletiva citada, não há, na hipótese, litisconsórcio passivo necessário, cabendo ao credor a escolha contra qual ou quais devedores pretende litigar, nos termos do disposto no art. 272, do Código Civil.
+
+Trata-se, em verdade, de prerrogativa do credor que, escolhendo apenas um dos devedores solidários, como no caso, dispensa a inclusão dos demais no polo passivo da liquidação.
+
+Vale lembrar que a solidariedade garante o direito de regresso entre os devedores, razão pela qual prescinde de uma eventual interpretação de extensão da obrigação imposta aos demais devedores, que, frise-se, não fazem parte da presente liquidação provisória de sentença.
+
+Cumpre recordar que, a contratação em casos como o que ora se analisa ocorreu diretamente entre a instituição financeira e os agravantes, sem participação direta da União e do Banco Central, sendo natural que a parte tenha preferência por litigar com quem celebrou a avença.
+
+Sobre o tema ora analisado, confira-se precedentes dessa Corte de Justiça, verbis:
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA.  PROCESSO MOVIDO CONTRA O BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. LITISCONSÓRCIO PASSIVO NECESSÁRIO DA UNIÃO E DO BANCO CENTRAL. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. NÃO CONSTATAÇÃO. ARGUIÇÃO DE INÉPCIA DA PETIÇÃO INICIAL E DE FALTA DE INTERESSE DE AGIR. PROVA DA RELAÇÃO DE CRÉDITO RURAL NO PERÍODO DISPOSTO NA SENTENÇA COLETIVA. CONSTATAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA NO CASO CONCRETO. DECISÃO MANTIDA. 1. É improcedente a argumentação sustentada para promover a intervenção da União Federal e de Banco Central do Brasil no feito, pois, tendo a sentença fixado obrigação solidária, não está o recorrente obrigado a litigar contra os coobrigados, sendo legítimo o exercício da pretensão executória apenas contra o banco agravante, na forma do artigo 275 do Código Civil. 1.1. O Superior Tribunal de Justiça sedimentou em sede de recursos repetitivos o entendimento de que havendo responsabilidade solidária da União, mas optando o credor por exigir a dívida apenas de outro devedor, que não integra o rol do art. 109 da Constituição Federal, compete à Justiça Comum Estadual o conhecimento da ação. (REsp 1145146/RS) 2. Ao contrario do alegado no recurso, está comprovada a existência de relação jurídica que, em tese, é passível de ensejar a aplicação do comando contido na sentença exarada na Ação Civil Pública nº 94.008514-1, que tramitou na 3ª Vara Federal de Brasília, pois foi juntada com a petição inicial cópia da Cédula Rural e o próprio banco agravante juntou extrato da operação no curso do processo, pelo qual se verifica a vigência do ajuste ao tempo da incidência indevida correção monetária reconhecida na sentença coletiva, razão pela qual rejeito as arguições de inépcia da petição inicial e de falta de interesse de agir. 3. Também não assiste razão ao agravante quanto pretende afastar a incidência das disposições do Código de Defesa do Consumidor da relação jurídica litigiosa, estando consolidado no Superior Tribunal de Justiça a incidência do estatuto consumerista nos litígios derivados de cédula de crédito rural por instituições financeiras, nos termos da Súmula 297 do STJ, quando constatada a manifesta hipossuficiência técnica e probatória por parte do mutuário. 4. Agravo de instrumento desprovido.  (Acórdão 1656098, 07338714220228070000, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 25/1/2023, publicado no PJe: 7/2/2023. Pág.: Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. DEVEDORES SOLIDÁRIOS. LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO CONFIGURADO. CHAMAMENTO AO PROCESSO. INCOMPATIBILIDADE. PRERROGATIVA DO CREDOR. COMPETÊNCIA. PREQUESTIONAMENTO.  1. O instituto do chamamento ao processo não se mostra compatível com a fase de liquidação individual de sentença, quando os devedores formaram litisconsórcio passivo na ação civil pública originária e foram condenados solidariamente.  2. O Superior Tribunal de Justiça firmou entendimento de que, uma vez reconhecida a solidariedade entre União, Banco Central e o Banco do Brasil, ora agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.  3. Diante da prerrogativa do credor em promover a liquidação de sentença ou a execução em face de um dos devedores ou em face de todos, nos termos do artigo 275, do CC e dos artigos 771 e 779, inciso I, do CPC, não há que se falar em litisconsórcio passivo necessário.  4. Inexistindo litisconsórcio passivo necessário e considerando que o autor agravado optou por ajuizar ação apenas contra o Banco agravante, uma sociedade de economia mista, não há que se falar em chamamento ao processo da União e do Banco Central, tampouco em competência da Justiça Federal para processar e julgar o feito.  5. O prequestionamento pretendido para fins de interposição de recursos extraordinários exige tão somente que a causa tenha sido decidida e fundamentada no julgado, não havendo necessidade de pronunciamento expresso sobre todos os dispositivos legais mencionados pela parte.  6. Agravo de instrumento conhecido e não provido. (Acórdão 1628201, 07262101220228070000, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 13/10/2022, publicado no PJe: 21/10/2022. Pág.: Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. LIQUIDAÇÃO INDIVIDUAL PROVISÓRIA DA SENTENÇA PROFERIDA NA AÇÃO CIVIL PÚBLICA Nº 94.0008514-1. DEMANDA EM FACE DO BANCO DO BRASIL. CHAMAMENTO DOS DEVEDORES SOLIDÁRIOS AO PROCESSO. LIQUIDAÇÃO PELO PROCEDIMENTO COMUM. CABIMENTO. CONTRADITÓRIO E AMPLA DEFESA. REPÚDIO AO ENRIQUECIMENTO SEM CAUSA. DECISÃO PARCIALMENTE REFORMADA.  1. A questão controvertida versa sobre a possibilidade de chamamento ao processo da União Federal e do Banco Central do Brasil e sobre a competência da Justiça Comum do Distrito Federal para o processamento de Liquidação Individual Provisória de Sentença Coletiva, proferida pela Justiça Federal na Ação Civil Pública nº 94.00.08514, na qual foram condenados, solidariamente, o Banco do Brasil e os dois entes referidos.  2. Embora por força da condenação na ação coletiva sejam devedores solidários o Banco do Brasil, a União Federal e o Banco Central do Brasil, é facultado à parte credora, ora Agravada, fazer uso da prerrogativa que lhe é conferida por lei (art. 275 do CC) para ajuizar a liquidação em desfavor somente do Banco do Brasil, pois não se trata de hipótese de litisconsórcio passivo necessário.  3. Optando a parte Autora por incluir no polo passivo do feito apenas o Banco do Brasil, não incide o disposto no artigo 109, inciso I, da Constituição Federal, tendo em vista a ausência de qualquer das pessoas ali previstas.  4. Inaplicável, na presente demanda, o instituto do chamamento ao processo em relação aos devedores solidários (União e BACEN), pois se trata de modalidade de intervenção de terceiros restrita, em regra, à fase de conhecimento.  5. A sentença proferida em ação civil coletiva possui conteúdo altamente genérico, cuja liquidação deve ser feita pelo Procedimento Comum, garantido o exercício de contraditório e ampla defesa às partes, de modo a definir o quantum debeatur e afastar possível enriquecimento sem causa por qualquer das partes. Precedentes do STJ.  6. O Código de Defesa do Consumidor incide sobre os financiamentos abarcados pela ACP nº 94.0008514-1. A matéria, inclusive, já foi decidida pelo c. STJ por ocasião do julgamento do REsp.1.319.232/DF e não comporta mais questionamento no âmbito do cumprimento de sentença.   7. Agravo de Instrumento conhecido e parcialmente provido. (Acórdão 1611377, 07154353520228070000, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 30/8/2022, publicado no DJE: 13/9/2022. Pág.:  Sem Página Cadastrada.)
+
+Nesse contexto, inexistindo necessidade de chamamento ao processo da União e do Banco Central, sendo a ação ajuizada tão somente contra o Banco do Brasil, não incide a regra do art. 109, I, da Constituição Federal, afastando, por certo, a competência da Justiça Federal.
+
+Ademais, importa considerar que, por imposição legal, a presente liquidação provisória não poderia tramitar na Justiça Federal, justamente por não figurar no feito qualquer ente público constante do artigo 109, I, da CF. É dizer: o declínio da competência para a Vara Federal retira do credor a prerrogativa de escolha prevista no art. 272 do CC, uma vez que o obriga a litigar com outros devedores solidários.
+
+Ressalto, por oportuno, o entendimento do Superior Tribunal de Justiça quanto à possibilidade de tramitação na Justiça Estadual das liquidações provisórias e cumprimentos de sentença coletiva proferida pela Justiça Federal, verbis:
+
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CÉDULA DE CRÉDITO RURAL. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. PLANO COLLOR I. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXTINÇÃO OU SUSPENSÃO DO PRESENTE JULGAMENTO. IMPOSSIBILIDADE. JULGAMENTO DO ERESP 1.319.232-DF. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. JUSTIÇA COMPETENTE. DEVER DE GUARDA DE DOCUMENTOS. SÚMULAS 282 E 356 DO STF. PRÉVIA LIQUIDAÇÃO POR PROCEDIMENTO COMUM. PARÂMETROS PARA A REALIZAÇÃO DA LIQUIDAÇÃO. ATUALIZAÇÃO MONETÁRIA. JUROS DE MORA. JUROS REMUNERATÓRIOS. 1- Recurso especial interposto em 21/2/2020 e concluso ao gabinete em 22/7/2021. 2- Cuida-se de cumprimento provisório de sentença coletiva (proferida na Ação Civil Pública n. 94.0008514-1, proposta pelo Ministério Público Federal, em curso na 3ª Vara Federal da Seção Judiciária do Distrito Federal), intentada pelo ora recorrido, com o objetivo de obter a restituição das diferenças resultantes da aplicação de índice incorreto de expurgos inflacionários em caderneta de poupança, relativo a saldo devedor em cédula de crédito rural. 3- O propósito recursal consiste em dizer se: a) todas as ações de cumprimento ou de liquidação de sentença, independentemente de terem sido propostas apenas contra o Banco do Brasil, deveriam ser suspensas até o julgamento final do referido recurso especial; b) haveria a necessidade de formação de litisconsórcio passivo, tendo em vista que o Banco do Brasil, a União e o Banco Central do Brasil foram condenados de forma solidária; c) seria da competência exclusiva da Justiça Federal apreciar a matéria em mote, tendo em vista que a ação civil pública que deu origem à sentença coletiva objeto de liquidação/cumprimento de sentença tramita na Justiça Federal; d) o dever de guarda de documentos pelo Banco do Brasil deveria exaurir-se juntamente com o prazo prescricional para a ação de cobrança; e) nas execuções individuais de sentença proferida em ações coletivas, seria necessário promover a liquidação do valor a ser pago e a individualização do crédito, com a demonstração da titularidade do direito do exequente; e f) como deveriam ser fixados os parâmetros referentes à atualização monetária, aos juros de mora e aos juros remuneratórios na liquidação. 4- Com o julgamento do mérito dos EREsp 1.319.232-DF, não há falar em extinção ou suspensão do presente feito, por efeito da concessão de tutela provisória nos embargos de divergência, tampouco na Reclamação n. 34.966-RS, que, inclusive, restou prejudicada por perda superveniente de objeto, em decisão já transitada em julgado. 5- Não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Assim, reconhecida a solidariedade entre a União, o Banco Central e o Banco do Brasil, é possível direcionar o cumprimento provisório da sentença a qualquer um deles. 6- A competência da Justiça Federal é ratione personae, daí decorrendo que nela só podem litigar os entes federais elencados no artigo 109, inciso I, da Constituição Federal, conforme consolidado nos enunciados constantes nas Súmulas 150, 224 e 254 do STJ. Dessa forma, não se justifica o deslocamento da competência do feito e a remessa dos autos à Justiça Federal, quando figura como parte apenas o Banco do Brasil, instituição financeira que celebrou a avença com a parte recorrida, sendo competente, portanto, a Justiça Estadual Comum. 7- (...) 12- Recurso especial parcialmente provido, para que o cumprimento de sentença seja precedido de liquidação pelo procedimento comum. (REsp n. 1.948.316/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021.)
+
+Ante o exposto, DOU PROVIMENTO ao presente agravo de instrumento para reformar a decisão impugnada e declarar a competência da 4ª Vara Cível de Brasília (Justiça Estadual) para o processamento da liquidação de sentença nº 0747120-57.2022.8.07.0001.
+
+É como voto.
+
+A Senhora Desembargadora CARMEN BITTENCOURT - 1º Vogal Com o relatorO Senhor Desembargador EUSTAQUIO DE CASTRO - 2º Vogal Com o relator
+
+DECISÃO
+
+AGRAVO CONHECIDO E PROVIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO DA LIQUIDAÇÃO. UNÂNIME
