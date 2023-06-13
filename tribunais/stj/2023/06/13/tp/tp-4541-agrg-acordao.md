@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por PAULO FELIZARDO PRIMO contra decisão de minha lavra que indeferiu o pedido de concessão de efeito suspensivo ao habeas corpus impetrado em seu favor.
+Noticiou o requerente, ora agravante, que, após ter sido certificado o trânsito em julgado da condenação na qual lhe foi imposta a pena de 3 anos e 24 dias de reclusão, a ser cumprida no regime aberto, substituída por duas restritivas de direitos, ajuizou revisão criminal.
+E, em razão de ter sido determinado o cumprimento da pena, a defesa impetrou habeas corpus na origem, o qual não foi admitido, em acórdão assim ementado (e-STJ fl. 40):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. SUBSTITUTO DO RECURSO CABÍVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA. 1. De decisão que denega recurso interposto ou obsta seu seguimento é cabível, em regra, Carta Testemunhável, nos termos do artigo 639, do Código de Processo Penal, não podendo o habeas corpus operar como substituto do recurso cabível. 2. Em sendo previsto recurso específico no sistema processual penal para impugnar específico ato judicial, descabe ao agente valer-se de habeas corpus como substitutivo do recurso cabível com o mesmo pedido, pois, em razão da natureza jurídica deste remédio constitucional (ação autônoma de impugnação), obsta, por si só, a incidência do princípio da fungibilidade recursal à espécie. 3. Ordem denegada.
+Aduziu o requerente que "o habeas corpus impetrado tem como única finalidade assegurar o direito do impetrante de cumprir a pena somente após o julgamento da Ação de Revisão Criminal proposta, com a suspensão do ato coator em sede liminar" (e-STJ fl. 9).
+Destacou, ainda, que "a questão principal ventilada na Revisão Criminal nº 5021642-50.2022.4.03.0000 diz respeito ao fato de que, nos autos do Agravo de Instrumento n. 5006121-70.2019.4.03.0000, interposto por M.M. & PRIMO COMÉRCIO E REPRESENTAÇÕES EIRELI, empresa da qual o recorrente é sócio houve determinação judicial de sobrestamento dos autos quando do julgamento de admissibilidade do Recurso Extraordinário interposto, em razão da incidência do Tema nº 111 do STF, que trata da aplicabilidade imediata do art. 78, § 2º, do ADCT para fins de compensação de débitos tributários com precatórios de natureza alimentar" (e-STJ fl. 9).
+Assim, asseverou ser indispensável o sobrestamento da execução enquanto pendente de solução o referido recurso extraordinário.
+Requereu, ao final, fosse determinada a suspensão da execução da pena.
+Contra a decisão de fls. 69/71 interpõe-se o presente agravo regimental, no qual se alega que, "no caso sub judice, o fumus boni iuris se evidencia, pois o fato tributário que deu origem à imputação de cometimento do crime contra a ordem tributária ainda se encontra em análise (Mandado de Segurança nº 0004188- 59.2014.403.6100 e Agravo de Instrumento nº 5006121-70.2019.4.03.0000, atualmente AREsp n. 2.250.835/SP)" - e-STJ fl. 78.
+Além disso, destaca-se que "o principal fundamento da Revisão Criminal diz respeito ao fato de que, muito antes do oferecimento da denúncia pelo Ministério Público, o agravante já vinha tentando efetuar a compensação tributária com precatórios de natureza alimentar, conforme art. 78, § 2º, do ADCT, e a questão possui com repercussão geral reconhecida no RE 970.343/PR (Tema nº 111/STF)" - e-STJ fl. 81.
+Aponta-se o advento da prescrição da pretensão punitiva.
+Ao final, assevera-se que "o pedido de efeito suspensivo não decorre do mero ajuizamento da Revisão Criminal, mas sim das particularidades do caso e da inegável incidência de tema de repercussão geral à presente demanda" (e-STJ fl. 83).
+Requer-se o provimento do recurso.
+É, em síntese, o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO PEDIDO DE TUTELA PROVISÓRIA. AUSÊNCIA DE DEMONSTRAÇÃO DO FUMUS BONI IURIS. PEDIDO INDEFERIDO.
+1. Não está evidenciado o fumus boni iuris apto a autorizar o deferimento do pedido. No caso, a condenação imposta ao requerente já transitou em julgado e a subsequente revisão criminal foi julgada improcedente. Ademais, as teses defensivas não revelam probabilidade de êxito capaz de justificar a excepcional concessão de efeito suspensivo ao recurso.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não assiste razão ao agravante.
+No caso, após o trânsito em julgado da condenação, busca a defesa, por diversas vias, impedir a execução da pena imposta.
+Não obstante, a Corte de origem, no julgamento da revisão criminal lá ajuizada, demonstrou que as teses defensivas, renovadas neste recurso, não se revelam admissíveis, razão pela qual julgou improcedente o pedido defensivo. Confira-se:
+Cumpre salientar, de plano, que, a despeito da ausência de previsão legal nesse sentido, tanto doutrina como jurisprudência admitem como possível a formulação de pleito liminar em sede de Revisão Criminal, que somente será deferida acaso presentes nos autos o periculum in mora e o fumus boni iuris.
+Todavia, analisando os argumentos expendidos nesta senda processual, não se vislumbra a presença do mencionado fumus boni iuris tendo em vista que o feito não está prescrito. Isso porque, o revisionando fora condenado à pena corporal de 03 (três) anos e 24 (vinte e quatro) dias de reclusão, que prescreve em 08 (oito) anos (at. 109, IV, CP). Considerando-se que o tributo foi definitivamente lançado em 25.09.2011, marco inicial para a consumação do delito, nos termos da Súmula Vinculante 24 do E. STF, bem como tendo em vista que a denúncia foi recebida em 13.03.2017, a r. sentença publicada em 08.06.2018 e o v. acórdão que confirmou a r. sentença condenatória exarado em 02.07.2019, não há falar no decurso do prazo depurativo a autorizar eventual reconhecimento da prescrição da pretensão punitiva, na modalidade retroativa, ao menos neste juízo perfunctório.
+No mais, a tese de que o crédito tributário encontrava-se em processo de compensação à época em que ofertada a r. exordial-incoativa, restou analisada no feito subjacente, oportunidade em que foi refutada nos termos que seguem (excerto extraído do v. acórdão proferido na Ação Penal n. 0008454-25.2010.403.6102, que, apesar de não colacionado nestes autos digitais, é passível de ser acessado pelos sistemas dessa E. Corte Regional):
+(..) Não obstante, também não prospera a tese defensiva de atipicidade da conduta, por falta de dano ao erário público, sob o fundamento de que os créditos tributários teriam sido objeto de compensação antes do recebimento da denúncia, vez que não há nos autos nenhuma prova que demonstre ter havido a referida compensação do crédito tributário, pelo contrário, a própria defesa revela que tal pleito foi indeferido e para tanto, foi proposto o mandado de segurança nº 0004188-59.2014.403.6100 distribuído para a 19º Vara Federal de São Paulo (..) (ID 262002965 - fl. 128).
+Ressalte-se, por oportuno, a teor do predominante entendimento jurisprudencial acerca do tema, a impossibilidade de se compreender a Revisão Criminal como sucedâneo recursal a fim de se rediscutir temas já apreciados sob o manto da coisa julgada material..
+Assim, o requerente não demonstrou a flagrante ilegalidade na condenação imposta, apenas aduzindo que há um tema em debate no Supremo Tribunal Federal, em repercussão geral, que pode vir a beneficiar a defesa.
+Tal afirmação, por demais genérica, não evidencia estar configurado o requisito do fumus boni iuris.
+Ademais, o mero ajuizamento do pedido de revisão criminal, no caso já julgada improcedente, por si só, não obsta o prosseguimento da execução penal, na linha da pacífica orientação do Superior Tribunal de Justiça.
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REVISÃO CRIMINAL. PEDIDO LIMINAR INDEFERIDO NA ORIGEM. PEDIDO DE SUSPENSÃO DA EXECUÇÃO DA PENA. INDEFERIMENTO LIMINAR DO HABEAS CORPUS. SUPERAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. "O ajuizamento da revisão criminal não obsta a execução da sentença condenatória, tendo em vista a ausência de efeito suspensivo" (AgRg no HC n. 391.687/PR, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/4/2017, DJe de 26/4/2017).
+3. A decisão que indeferiu o pedido liminar contido na Revisão Criminal não ostenta ilegalidade evidente e apta a desafiar o controle antecipado por este Superior Tribunal, pois, numa análise própria do pedido liminar, encontra-se suficientemente fundamentada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 715.677/GO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022, grifei.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+R elator
