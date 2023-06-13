@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se, na origem, de ação de cobrança ajuizada por CLÁUDIO ANTÔNIO DA SILVA (ora recorrente) em desfavor de MAPFRE SEGUROS GERAIS S.A., a qual foi julgada parcialmente procedente.
+Interpostas as apelações pelas partes, a Vigésima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais deu provimento ao recurso interposto pela seguradora e julgou prejudicada a apelação do autor, nos termos da ementa (e-STJ, fl. 531):
+APELAÇÕES CÍVEIS - DIREITO CIVIL - AÇÃO DE COBRANÇA DE SEGURO DE VEÍCULO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - OCORRÊNCIA - FURTO - VEÍCULO DEIXADO ABERTO COM CHAVES NA IGNIÇÃO - CULPA GRAVE - INCREMENTO DO RISCO - CIRCUNSTÂNCIAS FÁTICAS - PONDERAÇÕES - EXCLUDENTE DE COBERTURA - PREVISÃO LEGAL E CONTRATUAL - NEGATIVA AMPARADA NAS CONDIÇÕES GERAIS DO SEGURO - PEDIDO IMPROCEDENTE - SENTENÇA REFORMADA. A apólice do seguro delimita as obrigações, conceitua as garantias, estabelece os riscos cobertos e os excluídos. Havendo previsão nas condições gerais do seguro de exclusão de cobertura na hipótese de concorrência do segurado com culpa grave para o agravamento do risco e restando inequívoco que o veículo foi deixado na via pública, aberto, com as chaves na ignição, a negativa de pagamento de indenização securitária reveste de legalidade. Verificada a negligência grave a partir da atuação consciente dos perigos de deixar o veículo aberto com as chaves no seu interior, considera-se incrementado o risco contratual de maneira desarrazoada a amparar a excludente de cobertura.
+Opostos os embargos de declaração pelo ora recorrente, o Tribunal de origem os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fl. 575):
+EMBARGOS DE DECLARAÇÃO - DIREITO PROCESSUAL CIVIL - VÍCIOS NÃO DEMONSTRADOS. Os embargos de declaração se prestam a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material nas decisões judiciais (CPC, art. 1.022), sendo inadmissível a sua interposição para provocar novo julgamento da lide.
+Contra o acórdão, CLÁUDIO ANTÔNIO DA SILVA, com fulcro no art. 105, III, a e c, da Constituição Federal, interpôs recurso especial, apontando violação ao art. 768 do Código Civil.
+Em suas razões, alegou o recorrente (a) a interpretação extensiva do dispositivo invocado, pois, não obstante o suposto agravamento do risco por sua culpa (negligência), inexistira dolo em sua conduta, de modo que o aludido incremento de risco não ocorrera de forma intencional; e (b) existência de dissídio jurisprudencial.
+Foram apresentadas as contrarrazões (e-STJ, fls. 677-686).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 e 83 deste Superior Tribunal (e-STJ, fls. 690-692), o que ensejou a interposição do presente agravo (e-STJ, fls. 695-702).
+Brevemente relatado, decido.
+A controvérsia recursal versa sobre o pagamento de indenização securitária decorrente de furto de veículo segurado.
+Depreende-se da leitura do aresto fustigado que o recorrente ajustou com a seguradora recorrida um contrato de seguro de automóvel com cobertura básica de colisão/incêndio/roubo/furto, obrigando-se ao pagamento de prêmio.
+Ocorre que, quando entregava as mercadorias na residência de um cliente, o recorrente teve o aludido veículo furtado.
+Solicitada a cobertura securitária e pagamento contratado para a hipótese de furto, a recorrida recusou o atendimento sob o argumento de que o insurgente concorrera com culpa grave para o agravamento do risco.
+Ao apreciar a questão, o Tribunal de origem consignou que, a despeito da inexistência de má-fé por parte do recorrente, este atuara consciente dos riscos, configurando a culpa grave ao deixar o veículo estacionado aberto com chaves na ignição. Outrossim, asseverou que a negativa de cobertura encontrava respaldo tanto na lei como no contrato pactuado.
+Veja-se (e-STJ, fls. 538-539, sem grifos no original):
+De início, incontroverso que o furto ocorreu quando o Autor/Apelante realizava entrega domiciliar de mercadorias do seu supermercado e deixou o veículo aberto com a chave na ignição.
+Ora, o favorecimento do Segurado para o incidente não compreende, de imediato, negligência grave a ensejar perda da garantia; porém essa gravidade pode ser constatada através das particularidades que envolvem o caso. E sobre elas passa a tecer considerações.
+Observa-se que o furto aconteceu no período noturno, às 21h30min, conforme registrado no boletim de ocorrência. Dada às condições reduzidas de visibilidade, é notório que neste período a atuação de oportunistas e criminosos aumenta sobremaneira.
+Por sua vez, o veículo do Autor/Apelante consistia em um Saveiro Cross, da categoria pick-up leve nacional, sobre o qual se verifica um interesse maior na região diante da atividade comum exercida na localidade, agropecuária.
+Além disso, frisa-se que ao preencher o "questionário de avaliação de riscos" e responder "não" à pergunta "o veículo é utilizado mais que dois dias da semana para visitar clientes e/ou fornecedores ou prestar serviços próprios e/ou a terceiros ", o Autor/Apelante prestou informação inverídica, pois os elementos documentais dos autos registram o uso do veículo na entrega de mercadorias e desempenho da profissão.
+Ademais, em audiência de instrumento e julgamento foi realizada a oitiva do policial que lavrou REDS na condição de testemunha, o qual registrou que acontecimentos dessa espécie (furtos/roubos) ocorriam na rodovia MGT464 no entorno de Jubaí. Diante da proximidade entre a rodovia e o local do fato, possível esperar dos moradores do distrito, inclusive do segurado, atenção, vigilância e cuidado com os seus pertences.
+O meio empregado na ocorrência foi "abuso de confiança" porque o Autor/Apelante confiou de maneira volitiva em deixar o veículo no local com as chaves na ignição sem acionar a tranca.
+À luz dessas circunstâncias, conclui-se que o Segurado incrementou, de forma desarrazoada, o risco contratual.
+Com efeito, apesar de inexistente a má-fé, constata-se a atuação consciente dos riscos, logo, a culpa grave do Segurado ao deixar o seu veículo estacionado aberto com as chaves na ignição.
+Portanto, na hipótese, a negativa de cobertura encontra respaldo tanto na lei (art. 768 do CC) como no contrato (cls 30.1, alíneas "m" e "o" das condições gerais do seguro) não tendo o Autor/Apelante direito à garantia e à reparação civil de danos na medida em que inexistente a ilegalidade do ato da Ré/Apelante.
+Diante disso, não procede a pretensão autoral cabendo a improcedência dos pedidos com imputação integral dos ônus de sucumbência ao Autor.
+Em contrariedade ao atendimento adotado pela Corte de origem, insurgiu-se o recorrente argumentando a ocorrência de interpretação extensiva, pois a literalidade da norma prevê que somente o agravamento intencional do risco enseja a perda do direito.
+Sobre a questão controvertida, esta Corte Superior já decidiu que a boa-fé objetiva dos contratantes impõe ao segurado o dever de cuidado, de modo a abster-se de tudo quanto possa agravar o risco de ocorrência do evento assegurado, sob pena de perda do direito à cobertura securitária. Ademais, o agravamento intencional de que trata o art. 768 do Código Civil envolve tanto o dolo quanto a culpa grave.
+Confira-se (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE COBRANÇA. SEGURO DE AUTOMÓVEL. AGRAVAMENTO DO RISCO. INDENIZAÇÃO INDEVIDA. SÚMULA 7/STJ.
+1. A Corte local concluiu ser indevida a indenização securitária, tendo em vista o agravamento do risco. Neste contexto, a revisão do entendimento encontra óbice na Súmula 7/STJ.
+2. O agravamento intencional de que trata o art. 768 do CC envolve tanto o dolo quanto a culpa grave do segurado, que tem o dever de vigilância (culpa in vigilando) e o dever de escolha adequada daquele a quem confia a prática do ato (culpa in eligendo)" (REsp 1.485.717/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/11/2016, DJe 14/12/2016)
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.302.619/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 1/7/2019, DJe de 2/8/2019.)
+Além disso, conforme entendimento jurisprudencial albergado neste Superior Tribunal, é legitima a negativa da seguradora à cobertura na hipótese de exclusão ou limitação de cobertura.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO. FURTO. VEÍCULO SEGURADO COM RESTRIÇÕES JUDICIAIS E ADMINISTRATIVAS. RECUSA DE PAGAMENTO DA INDENIZAÇÃO. CLÁUSULA DE PERDA DO DIREITO REDIGIDA COM DESTAQUE. LEGALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. É legítima a negativa da seguradora à cobertura na hipótese de exclusão ou limitação expressa de cobertura, porquanto as cláusulas do contrato de seguro devem ter interpretação restritiva.
+Precedentes.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.567.271/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Na hipótese, tendo o Colegiado de origem constatado, à luz das provas dos autos, a ocorrência de culpa grave do recorrente para o agravamento do risco e a existência de cláusulas de negativa de cobertura em situações como a dos autos, não pode esta Corte Superior proceder ao revolvimento do acervo fático-probatório, tampouco realizar interpretação de cláusulas contratuais a fim de adotar conclusão diversa.
+Assim, considerando a natureza excepcional do recurso especial, o acolhimento da pretensão recursal é providência inviável. Incidem, portanto, os enunciados das Súmulas n. 5 e 7/STJ.
+Registra-se, ainda, não ser o ser caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Por fim, a análise de divergência jurisprudencial, alegada com fundamento na alínea c do permissivo constitucional, fica prejudicada quando a tese sustentada no reclamo especial esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido (sem grifos no original):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO QUANTO À ANÁLISE DO DISSÍDIO JURISPRUDENCIAL. SUPRIMENTO DO VÍCIO. RECURSO ESPECIAL NÃO CONHECIDO PELA ALÍNEA "A". DIVERGÊNCIA PREJUDICADA. MANUTENÇÃO DO RESULTADO DO JULGAMENTO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição, omissão ou erro material, de maneira a permitir o exato conhecimento do teor do julgado.
+2. É pacífico o entendimento desta Corte Superior no sentido de que os mesmos óbices impostos à admissão do recurso pela alínea a do
+permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo lei federal apontado como violado ou à tese jurídica.
+3. Embargos de declaração acolhidos, sem efeitos infringentes, para suprir a omissão apontada, mantendo-se o resultado do julgamento.
+(EDcl no AgInt no AREsp n. 1.459.125/PE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. APELAÇÃO CÍVIL. DIREITO CIVIL. 1. VIOLAÇÃO AO ART. 768 DO CÓDIGO CIVIL. CULPA GRAVE. PRETENSÃO RECURSAL QUE DEMANDA A INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. 2. ANÁLISE DE DISSÍDIO PREJUDICADA. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
