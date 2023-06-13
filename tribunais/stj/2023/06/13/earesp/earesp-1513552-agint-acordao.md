@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/06/2023 a 13/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno aviado por CLAUDETE CARVALHO CANEZIN contra decisão que inadmitiu seus embargos de divergência ao seguinte fundamento:
+Os embargos de divergência não merecem conhecimento.
+Nos termos do arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência objetivam uniformizar os julgados dos seus órgãos fracionários.
+Com efeito, como já decidido por esta Corte Superior, "os Embargos de Divergência somente serão cabíveis quando - além da comprovação e da demonstração da divergência jurisprudencial, na forma prevista na legislação processual, bem como da configuração da similitude fático-jurídica entre os casos confrontados - os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do Recurso Especial, houver apreciado a controvérsia" (AgInt nos EREsp 1.517.101/PE, relator Ministro Og Fernandes, Corte Especial, DJe 10/04/2018, destaquei).
+Nada obstante, o embargante não indica paradigmas divergentes, apenas afirma que há, em algum ponto, divergência com um julgado da Sexta Turma.
+Não fez transcrições das ementas, cotejo analítico com indicações de similitudes e divergências - nada. Portanto, não se encontram evidenciados, na espécie, os requisitos de admissibilidade dos embargos de divergência.
+Ademais, a finalidade dos embargos de divergência não é a de corrigir eventual incorreção ou injustiça do acórdão embargado, e sim a de pacificar a jurisprudência deste Tribunal. E, na verdade, o embargante aviou seu recurso como se de recurso ordinário se tratasse, manifestando mero inconformismo com o resultado da demanda.
+Assim, inviável o conhecimento do presente recurso, por não preencher os requisitos de admissibilidade previstos no § 4º do art. 1.043 do CPC/2015.
+Dessa vez, a recorrente sustenta que tudo o que "foi apontado como ausente (transcrição de ementa, cotejo analítico e indicação de divergência entre os entendimentos atacado e paradigma) está bem delineado na petição de Embargos de Divergência".
+Afirma que o cotejo analítico se faz presente, na medida em que ambas as decisões são comparadas, concluindo-se pela adoção de teses contrárias, e que, ademais, a simples transcrição do julgado, no caso em tela, dá conta da existência de dissídio jurisprudencial notório a ensejar a interposição de embargos de divergência.
+Requer, ao final, que "seja dado provimento ao Agravo, a fim de que a r. decisão monocrática objurgada (proferida em sede de Embargos de Divergência em Agravo em Recurso Especial) seja cassada ou reformada para que se dê seguimento aos Embargos de Divergência, julgando-se o mesmo em seu mérito e dando-se ao mesmo provimento, permitindo-se ao e. Superior Tribunal de Justiça julgar o mérito do Recurso Especial".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. AGRAVO INTERNO DESPROVIDO.
+1. A interposição do recurso de Embargos de Divergência somente tem êxito quando o acórdão recorrido, posto em confronto com exemplares da jurisprudência do STJ, revela discrepância de solução judicial dada a casos processuais que guardem entre si similitude fática/jurídica, de tal modo que fique em evidência a discrepância entre os julgados confrontados. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+Em que pese os argumentos da recorrente, a decisão agravada deve permanecer hígida.
+Em primeiro lugar, o agravo interno não merece prosperar, por lhe faltar regra técnica de interposição: ausência de impugnação à decisão recorrida. A embargante nada disse sobre a decisão impugnada, no que tange aos requisitos de admissibilidade previstos no § 4º do art. 1.043 do CPC/201, limitando-se a afirmar que fez o cotejo analítico e que este sobressaí apenas da transcrição os julgados. Também nada disse sobre seu recurso ter revelado mero inconformismo com o julgado embargado, como se de recurso ordinário se tratasse.
+Não fosse por isso, ressalta-se que os embargos de divergência são recursos de fundamentação vinculada, cuja função é a de uniformizar a jurisprudência interna do Superior Tribunal, de modo a superar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Por isso, a utilização desse recurso somente tem êxito quando o acórdão recorrido, posto em confronto com precedentes do STJ, revela discrepância de solução judicial dada a casos processuais que guardem entre si similitude fática e jurídica.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Su perior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
