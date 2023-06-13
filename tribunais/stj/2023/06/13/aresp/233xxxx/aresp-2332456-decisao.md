@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DISAM DISTRIBUIDORA DE INSUMOS AGRÍCOLAS SUL AMÉRICA LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 6/2/2023.
+Concluso ao gabinete em: 12/6/2023.
+Ação: rescisão contratual cumulada com declaração de inexistência de débito e compensatória por danos morais ajuizada pela agravante, em face de OCTANTE SECURITIZADORA S/A e PENÍNSULA INTERNATIONAL S/A (massa falida).
+Sentença: julgou procedentes os pedidos formulados por DISAM DISTRIBUIDORA DE INSUMOS AGRÍCOLAS SUL AMÉRICA LTDA. para declarar " ..  a inexigibilidade do débito impugnado na inicial e condenado as requeridas, de forma solidária, ao pagamento de indenização por danos morais, no total de R$ 20.000,00  .. " (e-STJ fl. 1.463).
+Acórdão: deu provimento às apelações das agravadas, nos termos da seguinte ementa (e-STJ fl. 1.880):
+APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. APELO 1. PLEITO DE GRATUIDADE DA JUSTIÇA E DE AFASTAMENTO DA CONDENAÇÃO POR DANOS MORAIS. JUSTIÇA GRATUITA. PESSOA JURÍDICA (MASSA FALIDA). POSSIBILIDADE DE CONCESSÃO DESDE QUE COMPROVADA A IMPOSSIBILIDADE DE ARCAR COM OS ENCARGOS PROCESSUAIS (STJ, SÚMULA 481). DEMONSTRAÇÃO INEQUÍVOCA DA HIPOSSUFICIÊNCIA FINANCEIRA. PEDIDO DEFERIDO. APELO 2. PLEITO DE RECONHECIMENTO DA EXIGIBILIDADE DO DÉBITO DECORRENTE DE DUPLICATA COM ACEITE E AFASTAMENTO DA CONDENAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE FERTILIZANTES. TRADIÇÃO SIMBÓLICA E CONSTITUTO POSSESSÓRIO. CESSÃO DOS DIREITOS DE CRÉDITO PARA EMISSÃO DE CERTIFICADOS DE RECEBÍVEIS DO AGRONEGÓCIO. REGULARIDADE DA CESSÃO. ENTREGA PARCIAL DOS PRODUTOS E EVENTUAL EXISTÊNCIA DE OUTRO CONTRATO COM A EMPRESA CEDENTE QUE NÃO AFASTAM A EXIGIBILIDADE DO TÍTULO NO CASO CONCRETO. INOPONIBILIDADE DE EXCEÇÕES PESSOAIS A TERCEIROS DE BOA-FÉ. A DUPLICATA COM ACEITE AFASTA A INVESTIGAÇÃO DO NEGÓCIO CAUSAL. PRINCÍPIO DA ABSTRAÇÃO. INSCRIÇÃO DO NOME DA DEVEDORA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. EXERCÍCIO REGULAR DE DIREITO. DANOS MORAIS. NÃO CONFIGURAÇÃO. PRECEDENTES DESTA CORTE E DO STJ. SENTENÇA REFORMADA, PARA JULGAR IMPROCEDENTES OS PEDIDOS DA AUTORA NO PROCESSO ORIGINÁRIO. ÔNUS SUCUMBENCIAL. INVERSÃO. RECURSOS CONHECIDOS E PROVIDOS.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação ao artigo 294 do CC/2002, bem como aduz a ocorrência de dano moral.
+Decisão de admissibilidade: não admitiu o recurso especial pela incidência das Súmulas n. 5, 7 e 568 do STJ e, por analogia, 284/STF.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nestes fundamentos: aplicação dos verbetes sumulares n. 5, 7 e 568 do STJ e, por analogia, 284/STF.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência das Súmulas n. 5/STJ e, por analogia, 284/STF.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, a Súmula n. 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no artigo 932, III, do CPC/2015.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da causa (e-STJ fls. 1.880/1.890) para 15% (quinze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
