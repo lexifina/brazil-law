@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/06/2023 a 13/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GISELE DE OLIVEIRA LIMA contra acórdão que desproveu o agravo regimental, mantendo a decisão que negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fls. 2.298-2.299):
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DOSIMETRIA. REGIME PRISIONAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. TEMA N. 182/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. DECISÃO HÍBRIDA. PARCIAL NEGATIVA DE SEGUIMENTO E INADMISSÃO DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL E AGRAVO EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃOSIMULTÂNEA. RECLAMO CONHECIDO EM PARTE E DESPROVIDO.
+1. O Supremo Tribunal Federal, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que "não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional" (Tema n. 182/STF).
+2. A alegada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660/STF).
+3. Conforme a jurisprudência dos Tribunais Superiores, a decisão de natureza híbrida, que em parte nega seguimento e, parcialmente, inadmite recurso extraordinário, enseja a interposição simultânea de agravo regimental e agravo em recurso extraordinário. Exceção ao princípio da unirrecorribilidade que se agasalha na interpretação dos §§ 1º e 2º do art. 1.030 do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal.
+4. Agravo regimental conhecido parcialmente e, nessa extensão, improvido.
+Sustenta a parte embargante que o acórdão impugnado seria contraditório e que seriam inaplicáveis os temas que obstaram o provimento do recurso extraordinário, salientando que "há error in judicando do STJ no tocante à valoração das circunstâncias judiciais do art. 59 do CP em relação aos princípios constitucionais invocados e arguidos no recurso extraordinário" (fl. 2.328).
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+As contrarrazões foram apresentadas às fls. 2.337-2.345.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para corrigir eventual erro material na decisão embargada.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. Embargos de declaração rejeitados.
+VOTO
+No que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+AGRAVO INTERNO. RECLAMAÇÃO. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. RE N. 632.853/CE - TEMA N. 485. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. ART. 1.030, I, DO CPC. EXERCÍCIO DA COMPETÊNCIA DAS CORTES DE ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. NÃO CABIMENTO DA RECLAMAÇÃO CONSTITUCIONAL.
+1. O Juízo reclamado, ao obstar seguimento ao agravo interno interposto contra a decisão pela não admissão do apelo extremo, utilizou precedentes de repercussão geral que guardam similitude e adequação com a espécie dos autos. Usurpação da competência desta Suprema Corte não demonstrada.
+2. Agravo interno a que se nega provimento, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.
+(Rcl n. 38.945-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 15/4/2020, DJe de 13/5/2020.)
+Quanto aos demais aspectos, o art. 619 do Código de Processo Penal disciplina que, "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado (fls. 2.305-2.036):
+ ..  a individualização da pena foi decidida com base nas circunstâncias judiciais do art. 59 do Código Penal, o que enseja a aplicação do Tema n. 182/STF.
+Além disso, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a alegação de cerceamento de defesa, em razão da suposta falta de envio de link para realização da sustentação oral, demandaria a análise das disposições do Regimento Interno do Superior Tribunal de Justiça, assim como da Resolução STJ/GP n. 9, de 25/3/2022 e da Lei n. 14.365-2022, razão pela qual incide a aludida conclusão adotada no Tema n. 660/STF.
+Por fim, quanto a alegada aplicabilidade do princípio da consunção, observa-se que a decisão agravada inadmitiu o recurso extraordinário ante os óbices dos enunciados 282 e 356 da Súmula da Suprema Corte.
+Nesse contexto, não é possível conhecer do agravo regimental, no ponto, ante a necessidade do manejo concomitante do agravo em recurso extraordinário no atinente ao tema em questão.
+Ademais, a decisão que nega seguimento e inadmite em parte o recurso extraordinário possui natureza híbrida e, portanto, desafia a interposição simultânea de agravo regimental e agravo em recurso extraordinário.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
