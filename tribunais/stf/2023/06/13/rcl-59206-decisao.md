@@ -1,0 +1,85 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO. TERCEIRIZAÇÃO. RESPONSABILIDADE DO PODER PÚBLICO. ÔNUS DE PROVA DA CULPA IN VIGILANDO DA ADMINISTRAÇÃO. DECISÃO RECLAMADA QUE NEGA SEGUIMENTO A RECURSO DE REVISTA SOB O FUNDAMENTO DE AUSÊNCIA DE TRANSCENDÊNCIA DA MATÉRIA. AFRONTA À AUTORIDADE DA DECISÃO PROFERIDA POR ESTA SUPREMA CORTE NO RE 1.298.647 - TEMA-RG 1.118. RECLAMAÇÃO QUE SE JULGA PARCIALMENTE PROCEDENTE.
+
+    Decisão: Trata-se de reclamação ajuizada pelo Estado do Amazonas contra decisão proferida pelo Tribunal Superior do Trabalho, nos autos do Processo nº 0000610-85.2020.5.11.0017, sob a alegação de inobservância da decisão vinculante proferida pelo Plenário deste Supremo Tribunal Federal no julgamento da Ação Direta de Constitucionalidade 16, bem como da tese fixada sob o Tema 246 da sistemática da repercussão geral.
+
+    Em síntese, narra o Estado autor ter sido demandado na origem por particular empregado de empresa terceirizada, contratada pela Administração Pública, com vistas à condenação subsidiária ao pagamento de verbas trabalhistas devidas pela empresa interposta. Relata ter sido condenado nas instâncias ordinárias e que, tendo interposto recurso de revista perante o Tribunal Superior do Trabalho, foi o mesmo inadmitido por ausência de transcedência da matéria, haja vista que “teria sido demonstrada a culpa do Ente Público”.
+
+    Sustenta que a decisão em comento afronta diretamente a tese vinculante fixada sob o Tema 246 da sistemática da repercussão geral, vez ter havido uma indevida inversão dos ônus da prova. Aduz que não se poderia considerar válida interpretação que cria uma culpa presumida da Administração, visto que a responsabilidade subsidiária do ente público só poderá existir se caracterizada a culpa in vigilando ou in eligendo, o que não ocorreu no caso concreto.
+
+    Requer, por estes fundamentos, a procedência da reclamação, a fim de que seja determinada a admissão do recurso de revista.
+
+    Em que pesem devidamente citada, a beneficiária da decisão reclamada deixou de apresentar contestação (docs. 19/20).
+
+    Dispensa-se, no caso concreto, a manifestação da Procuradoria-Geral da República, em homenagem ao princípio da celeridade processual e com esteio no art. 52, parágrafo único, do RISTF.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de má-aplicação da tese vinculante fixada no julgamento do RE 760.931 - Tema 246 da sistemática da repercussão geral.
+
+    Pontuo desde logo, estar satisfeito in casu o requisito de cabimento do esgotamento das instâncias ordinárias (art. 988, §5º, II, do CPC), haja vista a irrecorribilidade da decisão do Tribunal Superior do Trabalho que nega seguimento a recurso de revista por ausência de transcedência da matéria controvertida (art. 896-A, §5º, da CLT), nos termos da jurisprudência da Primeira Turma:
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. VIOLAÇÃO AO QUE DECIDIDO NA ADC 16 E NO RE 760.931 TEMA 246-RG. DECISÃO IMPUGNADA QUE ATRIBUIU RESPONSABILIDADE SUBSIDIÁRIA À RECLAMANTE SEM A DEMONSTRAÇÃO DE COMPORTAMENTO SISTEMATICAMENTE NEGLIGENTE OU DE NEXO DE CAUSALIDADE ENTRE A CONDUTA DO PODER PÚBLICO E O DANO SOFRIDO PELO TRABALHADOR. SUPERADA A AUSÊNCIA DE TRANSCENDÊNCIA DO RECURSO DE REVISTA (ART. 896-A DA CLT) POR ABSOLUTA INCOMPATIBILIDADE COM AS DECISÕES DESTA CORTE SOBRE A TEMÁTICA. RECURSO PROVIDO PARA AFASTAR A RESPONSABILIDADE DA RECORRENTE.
+
+    1. O SUPREMO TRIBUNAL FEDERAL reconheceu a Repercussão Geral sobre a questão de responsabilidade subsidiária da administração pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço na ADC 16 e no RE 760.931 Tema 246-RG. Mostra-se incompatível com tais precedentes, portanto, o reconhecimento, pelo TST, da ausência de transcendência da matéria, motivo pelo qual supero a questão para analisar a questão de fundo.
+
+    2. Por ocasião do julgamento do RE 760.931, sob a sistemática da Repercussão Geral, o Plenário desta SUPREMA CORTE afirmou que inexiste responsabilidade do Estado por débitos trabalhistas de terceiros, alavancada pela premissa da inversão do ônus da prova em favor do trabalhador.
+
+    3. No caso sob exame, não houve a comprovação real de um comportamento sistematicamente negligente da agravante, tampouco há prova do nexo de causalidade entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador, a revelar presunção de responsabilidade da reclamante, conclusão não admitida por esta CORTE quando do julgamento da ADC 16.
+
+    4.Recurso de agravo ao qual se dá provimento, afastando, desde já, a responsabilidade da parte recorrente.” (Rcl 40.652-AgR, redator p/ o acórdão Min. Alexandre de Moraes, Primeira Turma, DJe de 5/11/2020 - grifei).
+
+    Prosseguindo na análise do mérito da presente reclamação, passo à realização do cotejo entre a decisão reclamada e o paradigma invocado, consignando que, no julgamento do RE 760.931, o Plenário desta Corte fixou a seguinte tese:
+
+    Tema-RG 246: “O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93”.
+
+    Pois bem. Na espécie, o Tribunal Superior do Trabalho reputou incabível na espécie recurso de revista, por entender ausente a transcendência política, jurídica, econômica e social da matéria uma vez que a culpa da Administração Pública teria sido comprovada (doc. 09).
+
+    Lado outro, transcreve-se o seguinte excerto do acórdão em recurso ordinário proferido pelo Tribunal Regional do Trabalho da 11ª Região (doc. 02, p. 250):
+
+    “(...) In casu, apesar da regularidade do procedimento licitatório, pelo menos não há nos autos nada que o macule, entendo que a recorrente mostrou-se omissa no seu dever de fiscalização do contrato administrativo, sobretudo no tocante ao cumprimento das obrigações trabalhistas por parte de sua contratada (arts. 58, III, e 67, caput e §§ 1º e 2º, todos da Lei nº 8.666 /1993), eis que não há nos autos prova cabal de que a Entidade pública recorrente exercia efetivamente a fiscalização da execução do contrato, pelo contrário, há provas do total menoscabo para com o cumprimento das obrigações rescisórias ao término do contrato dos terceirizados, caso da reclamante.
+
+    Dessa forma, a situação em exame revela omissão por parte da recorrente, comportamento administrativo que não se coaduna com a aplicação dos ditames da Lei nº 8.666/1993, pelo que fica caracterizada a sua culpa in vigilando, não havendo que se falar em transferência automática da responsabilidade ao Poder Público.
+
+    Aliás, não há como eximir a Entidade Pública da responsabilidade pelos encargos trabalhistas inadimplidos pela contratada, pois não pode usufruir da força de trabalho de empregado, mesmo que vinculado à 1ª reclamada, sem assumir nenhuma responsabilidade nas relações jurídicas das quais participe. Ademais, a contratação de trabalhadores pela empresa terceirizante é de interesse público, pois a terceirizada prestou seus serviços em nome da Administração Pública, favorecendo toda a coletividade.
+
+    Destarte, tal perspectiva atrai a incidência da Súmula nº 331 do Tribunal Superior do Trabalho, que nos seus incisos IV, V e VI, impõe a responsabilidade daquele que, de alguma forma, se beneficiou do trabalho humano, ainda que por intermédio de empresa terceirizada (...)”
+
+    Em que pese o entendimento adotado pelo TST, a leitura do acórdão regional revela, a meu sentir, que a condenação imposta ao Estado reclamante se deu, sobretudo, a partir de um entendimento de que os ônus probatórios da fiscalização eram dele, Ente Público.
+
+    Dado o contexto, vislumbro o desacerto da decisão reclamada, a ensejar a procedência parcial da presente reclamação, se não pela ofensa ao Tema 246 da sistemática da repercussão geral, por certo pela inobservância do Tema 1.118 (RE 1.298.647), que ainda pende de julgamento e que restou assim descrito:
+
+    “Ônus da prova acerca de eventual conduta culposa na fiscalização das obrigações trabalhistas de prestadora de serviços, para fins de responsabilização subsidiária da Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246)”.
+
+    Deveras, ante a controvérsia acerca da distribuição dos ônus probatórios surgida da aplicação do Tema 246 aos casos concretos, o Plenário deste Supremo Tribunal Federal houve por bem admitir novo tema de repercussão geral, com o fito de esclarecer a matéria. Referido tema, como se vê, se adéqua perfeitamente ao caso concreto, na medida em que a decisão reclamada tem por objeto justamente a questão da existência ou não de presunção de culpa in vigilando da Administração em relação as empresas terceirizadas que contrata.
+
+    Neste cenário, não poderia o Tribunal Superior do Trabalho inadmitir o recurso de revista pelo fundamento utilizado. A negativa de seguimento a recurso de revista pelo não reconhecimento de existência de transcendência da matéria em hipótese acerca da qual o Supremo Tribunal Federal declarou a existência de repercussão geral implica em usurpação da competência de guardião da Constituição do Supremo Tribunal Federal (CF, art. 102, caput), pois significa, na prática, a atribuição da última palavra acerca das questões constitucionais a outro órgão jurisdicional que não esta Suprema Corte.
+
+    Saliento, no ponto, que o art. 896-A, §1º, II, da CLT, estatui haver transcendência da matéria, a viabilizar o cabimento do recurso de revista, toda a vez que a decisão recorrida estiver em dissonância com jurisprudência vinculante do Supremo Tribunal Federal.
+
+    Constada, pois, a não observância, no caso concreto, de decisão proferida por este Supremo Tribunal Federal em recurso extraordinário submetido à sistemática da repercussão geral, impõe-se a procedência em parte da presente ação, com vistas à cassação da decisão impugnada e o sobrestamento do recurso de revista de origem, na forma prevista para os recursos extraordinários e especiais no art. 1.030, III, do CPC, até o julgamento do recurso paradigma no âmbito deste Supremo Tribunal.
+
+    Ex positis, JULGO PARCIALMENTE PROCEDENTE a presente reclamação, para determinar que o Tribunal Superior do Trabalho admita o Recurso de Revista interposto no Processo nº 0000610-85.2020.5.11.0017, mantendo-o sobrestado até o julgamento do RE 1.298.647 (Tema-RG 1.118).
+
+    Publique-se.
+
+    Brasília, 13 de junho de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
