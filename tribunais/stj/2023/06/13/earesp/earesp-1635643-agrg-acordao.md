@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/06/2023 a 13/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RENE JOSE PAMATO ALVES contra decisão proferida pelo Ministro Herman Benjamin, que negou seguimento ao recurso extraordinário em razão da incidência dos Temas n. 339, 181 e 660 do STF (fls. 1.279-1.281).
+O agravante esclarece que "o recurso extraordinário de cuja negativa de seguimento se agrava foi interposto contra decisão proferida em embargos de divergência" (fl. 1.285).
+Argumenta que (fls. 1.285-1.286):
+13. Os embargos manejados revelavam divergência entre acórdãos oriundos do Excelso Superior Tribunal de Justiça, notadamente no que diz respeito ao prazo para regularização processual.
+14. O acórdão paradigma, orientado pelo artigo 76 do Código de Processo Civil ("CPC"), fixou prazo de 10 (dez) dias para regularização processual do Agravante; o acórdão recorrido, fixou prazo de apenas 5 (cinco) dias para regularização processual.
+15. Não obstante a relevância da matéria levantada, os embargos foram monocraticamente rejeitados sob o argumento de que, apesar de ter citado o acórdão paradigma, o Agravante teria deixado de fazer prova da divergência, o que configuraria vício insanável.
+16. Todavia, ao contrário do que assentou a referida decisão, a ausência de comprovação de divergência constitui vício formal sanável, de modo que o Agravante deveria ter sido intimado para fazê-lo.
+17. Até mesmo porque, o ato praticado cumpriu com a finalidade de denotar a divergência suscitada, de sorte que superado o vício sob o prisma do princípio da instrumentalidade das formas.
+Aponta a existência de violação dos arts. 5º, XXXV e LIV, e 93, IX, da Constituição Federal e aduz que a matéria impugnada seria dotada de repercussão geral.
+Reclama que, "da forma como proferida, a decisão acarreta usurpação de competência do Excelso Supremo Tribunal Federal pelo Excelso Superior Tribunal de Justiça" (fl. 1.287).
+Refere, também, que "a decisão adota em sua ratio as teses firmadas em recursos repetitivos com repercussão geral sem demonstrar sua adequação ao caso em tela" (fl. 1.289).
+Afirma que os temas n. 181, 339 e 660 do STF não seriam aplicáveis na hipótese dos autos e que houve violação do pr incípio da colegialidade.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.314-1.319.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade dos embargos de divergência, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+5. Agravo regimental a que se nega provimento.
+VOTO
+Inicialmente, no que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+AGRAVO INTERNO. RECLAMAÇÃO. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. CABIMENTO DO AGRAVO INTERNO. RE N. 632.853/CE - TEMA N. 485. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. ART. 1.030, I, DO CPC. EXERCÍCIO DA COMPETÊNCIA DAS CORTES DE ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. NÃO CABIMENTO DA RECLAMAÇÃO CONSTITUCIONAL.
+1. O Juízo reclamado, ao obstar seguimento ao agravo interno interposto contra a decisão pela não admissão do apelo extremo, utilizou precedentes de repercussão geral que guardam similitude e adequação com a espécie dos autos. Usurpação da competência desta Suprema Corte não demonstrada.
+2. Agravo interno a que se nega provimento, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.
+(Rcl n. 38.945-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 15/4/2020, DJe de 13/5/2020.)
+Outrossim, é mister consignar que a possibilidade de impugnação da decisão monocrática por agravo regimental afasta a alegada ofensa ao princípio da colegialidade.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, hipótese que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o agravo regimental foi desprovido, mantendo-se a decisão que indeferiu liminarmente os embargos de divergência, valendo destacar os seguintes trechos (fls. 616-618):
+A decisão proferida pela Presidência desta Corte Superior (fls. 571-574) indeferiu liminarmente os embargos de divergência interpostos pelo ora agravante, porque não foi comprovado o dissídio jurisprudencial.
+Em novo exame das razões dos embargos de divergência, bem como dos argumentos expostos na minuta do presente agravo interno, verifica-se não ser hipótese para a reforma da decisão.
+Deveras, o recurso de embargos de divergência, juntado às fls. 553-565, não cumpriu o que dispõem os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RI/STJ. Segundo os referidos normativos, o recorrente provará a divergência por meio de certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, o que não ocorreu no caso dos autos.
+Por oportuno, faz-se necessário assentar que a Corte Especial deste Tribunal Superior assentou compreensão segundo a qual a não comprovação do dissídio jurisprudencial no ato da interposição dos embargos de divergência constitui vício substancial insanável. Assim, não são aplicáveis à hipótese os arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DESATENDIMENTO DOS REQUISITOS PARA COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. AUSÊNCIA DE OPORTUNA JUNTADA DE INTEIRO TEOR DO ACÓRDÃO PARADIGMA. DIÁRIO OFICIAL NÃO É REPOSITÓRIO OFICIAL DE JURISPRUDÊNCIA. VÍCIO SUBSTANCIAL INSANÁVEL. INAPLICAÇÃO DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de oportuna juntada de cópia do inteiro teor do acórdão paradigma, para a demonstração do dissídio alegado, desatende a exigência legal e regimental (art. 1.043, § 4.º, do CPC, e art. 266, § 4.º, do RISTJ) para admissão dos embargos de divergência. Trata-se de vício substancial e, portanto, insanável, consoante farta e uníssona jurisprudência desta Corte Superior, sendo inaplicável o parágrafo único do art. 932 do CPC.
+2. Agravo interno desprovido(AgInt nos EAREsp 1.575.376/RJ, Rel. Min. Laurita Vaz, Corte Especial, DJe 22/3/2021).
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSÍDIO. DEMONSTRAÇÃO. AUSÊNCIA. NÃO CONHECIMENTO DOS EMBARGOS DE DIVERGÊNCIA. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NA HIPÓTESE DE NÃO TER SIDO ANALISADO O MÉRITO DO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE ANALISOU PARCIALMENTE O MÉRITO. SÚMULA 315/STJ. NÃO INCIDÊNCIA. AGRAVO INTERNO A QUE SE DÁ PARCIAL PROVIMENTO.
+1. São inadmissíveis os embargos de divergência quando a parte recorrente deixa de comprovar a alegada divergência nos termos do art. 1.043, § 4º, do CPC e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça. Não incidência do comando inserto no parágrafo único do art. 932 do CPC. Precedentes.
+2. Como bem observado na decisão agravada, da petição de e-STJ, fls. 3.809-3.817, não se pode conhecer em razão da preclusão consumativa.
+3. O recurso merece parcial provimento no que tange à incidência da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Isso porque o acórdão embargado analisou parcialmente o mérito, como se lê às e-STJ, fls. 3.766-3.777, "a parte dispositiva do julgado deve ser alterada para constar que o recurso foi parcialmente conhecido e, nessa parte, não provido".
+4. Agravo interno a que se dá parcial provimento, sem alteração do resultado do não conhecimento dos embargos de divergência (AgInt nos EREsp 1757948/DF, Rel. Min. Og Fernandes, Corte Especial, DJe 1/02/2021).
+ ..
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
+Com efeito, demonstrada a ocorrência da prestação jurisdicional, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como consignado na decisão agravada, revela que o pronunciamento questionado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantida a decisão monocrática que indeferiu liminarmente os embargos de divergência, posto que o recorrente não logrou comprovar o dissenso interpretativo nos moldes estabelecidos nos arts. 1.043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Como se vê, o mérito da insurgência não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a ausência de superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso anterior, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
