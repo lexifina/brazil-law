@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por CLAP INDUSTRIAL DE ALIMENTOS LTDA. EOUTROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE cuja ementa guarda os seguintes termos (fl. 419):
+CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL EM EMBARGOS ÀEXECUÇÃO. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS EMBARGOS. EXECUÇÃODE TÍTULO EXTRAJUDICIAL. INSTRUMENTO PARTICULAR DE TRANSAÇÃO DEDÍVIDA. PRELIMINAR DE NULIDADE POR CERCEAMENTO DE DEFESA. REJEIÇÃO. QUE NÃO SE CONFUNDE COMMÉRITO. OPERAÇÃO DE FOMENTO MERCANTILOPERAÇÃO DE . FACTORINGREGULARIDADE DA CLÁUSULA , PORPRO SOLVENDO FALTA DE ENTREGAEXPRESSA AUTORIZAÇÃO LEGAL E PREVISÃO CONTRATUAL. DAS MERCADORIAS QUE ENSEJOU NO INADIMPLEMENTO DOS RECORRENTES. INTELIGÊNCIA DO ARTIGO 295 DO CÓDIGO CIVIL EXCESSO EXECUTIVOPARCIALMENTE ADMITIDO EM RELAÇÃO AO PERCENTUAL COBRADO A TÍTULO RECURSO CONHECIDO E DESPROVIDO. DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA MANTIDA.
+Sem embargos de declaração rejeitados.
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022, inciso II, do Código de Processo Civil, ao sustentar que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta, ainda, afronta aos arts. 370 e 369 do Código de Processo Civil, ao defender, em síntese, a ocorrência do cerceamento de defesa, considerando que a prolação da sentença foi prematura quando não se procedeu à intimação das partes para manifestarem interesse na produção de outras provas, em especial as requeridas na exordial.
+Suscita também dissídio jurisprudencial com aresto de outro tribunal.
+Sem contrarrazões ao recurso especial .
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 477-481), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 498-504).
+É, no essencial, o relatório.
+No caso dos autos, pleiteiam os recorrentes o reconhecimento de ocorrência de cerceamento de defesa não se procedeu à intimação das partes para manifestarem interesse na produção de outras provas, em especial as requeridas na exordial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao assentar pela inexistência de cerceamento de defesa, considerando que a parte silenciou sobre a necessidade de produção de provas , firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do referido acórdão (fls. 428):
+Ab initio, com relação ao suposto cerceamento de defesa, destaque-se que e os recorrentes silenciaram acerca da necessidade de produção de prova quando devidamente intimados na pessoa do advogado Dr. Tristão Tavares dos Santos, conforme pleiteado pelos próprios recorrentes no documento de ID nº 7478175.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. OMISSÃO. AUSÊNCIA. INCONFORMISMO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO DA DÍVIDA. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que era desnecessária a dilação probatória. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. O prazo prescricional não tem sua contagem iniciada a partir do vencimento antecipado 4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.219.123/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
