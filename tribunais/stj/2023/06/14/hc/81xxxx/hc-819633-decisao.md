@@ -1,0 +1,15 @@
+DECISÃO
+PAULO FHILIPPE NUNES DOS SANTOS, acusado por tráfico de drogas e corrupção de menores, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Indeferida a liminar (fls. 71-72) e prestadas as informações (fls. 80-83), foram os autos ao Ministério Público Federal, que opinou pela denegação da ordem, notadamente porque a decisão constritiva se encontra devidamente fundamentada, sobretudo pela reiteração delitiva (fls. 85-88).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão que homologou o flagrante e decretou a prisão preventiva, a seguinte passagem (fls. 52, destaquei):
+ ..
+Denota-se que o conduzido se encontra recolhido por força de prisão em flagrante pela prática, em tese, de delitos cuja soma das penas máximas suplanta o patamar de 4 anos. Ainda, é reincidente em crime doloso, em vista da condenação criminal nos autos n. 50079578020208240079, transitada em julgado em 24/06/2021 (evento 4, vídeo 4).
+O acórdão impugnado, por sua vez, ressaltou no particular (fl. 67, grifei): "Ademais, a reincidência do paciente e o fato de ter processos em andamento, inclusive por tráfico de drogas, evidenciam que a prisão, de fato, se faz necessária para evitar a reiteração criminosa".
+Como se observa, a despeito da quantidade de droga apreendida no caso não ser expressiva, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou que o paciente é reincidente e possui processos em andamento, inclusive pela prática de tráfico de drogas, da mesma forma que o objeto da ação penal de que tratam os autos.
+Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva, máxime se considerado o fato de que houve a participação, coonestada pelo acusado, de menor de idade.
+Nessa direção, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
