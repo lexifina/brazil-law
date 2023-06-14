@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Augusto Cesar da Cunha Paiva, Abnoam Gomes da Silva, Albani Jose Nunes, Jose de Arimateia Jeronimo Santos, Jose Fernandes de Moura e Maria Jose dos Santos Carneiro à decisão da minha lavra, na qual decretei a extinção de sua punibilidade pelo reconhecimento da prescrição da pretensão punitiva, assim ementada (fl. 849):
+PENAL. PEDIDO DE EXTENSÃO EM HABEAS CORPUS. PECULATO. RECONHECIMENTO DA ATENUANTE DA REPARAÇÃO DO DANO COM A CONSEQUENTE EXTINÇÃO DA PUNIBILIDADE PELO ADVENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA. IDENTIDADE DE SITUAÇÕES CONFIGURADA. CONCESSÃO QUE SE IMPÕE.
+Pedido de extensão deferido nos termos do dispositivo.
+Alegam os embargantes, em síntese, a ocorrência de erro material na decisão, uma vez que constou da decisão embargada, dando a entender, que seria a decisão proferida, nestes autos destinado, a todos NA Ação Penal n. 0001176-11.2009.8.17.0370, quando: - Apenas o paciente Gesse Valério e o Requerente José Feliciano de Barros Júnior, fazem parte da Ação Penal n. 0001176-11.2009.8.17.0370, tendo os embargantes respondido a outras duas ações penais (n. 0008551-63.2009.8.17.0370 e n. 0008552-48.2009.8.17.0370) que não constam da decisão embargada.
+Postulam, então, o conhecimento e o acolhimento dos presentes embargos para fazer constar na decisão embargada que a extensão, redimensionamento da condenação e extinção da punibilidade atinge: os Requerentes JOSE DE ARIMATEIA JERONIMO SANTOS, ALBANI JOSE NUNES e MARIA JOSE DOS SANTOS CARNEIRO, que são réus na Ação Penal n. 0008551-63.2009.8.17.0370 e os Requerentes AUGUSTO CESAR DA CUNHA PAIVA, JOSE FERNANDES DE MOURA e ABNOAM GOMES DA SILVA, que são réus na Ação Penal nº. 0008552-48.2009.8.17.0370, comunicando o Tribunal de Justiça do Estado de Pernambuco (fl. 855).
+É o relatório.
+Os presentes embargos comportam acolhimento, apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+De fato, faltou no dispositivo a menção às ações penais decorrentes do desmembramento de ação original.
+Em face do exposto, acolho os embargos de declaração para esclarecer que a extinção da punibilidade dos embargantes Jose de Arimateia Jeronimo Santos, Albani Jose Nunes e Maria Jose dos Santos Carneiro se refere à Ação Penal n. 0008551-63.2009.8.17.0370; e dos embargantes Augusto Cesar da Cunha Paiva, Jose Fernandes de Moura e Abnoam Gomes da Silva, à Ação Penal n. 0008552-48.2009.8.17.0370, sem atribuição de efeitos modificativos.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM PEDIDO DE EXTENSÃO EM HABEAS CORPUS. CONCESSÃO DA EXTENSÃO PARA REDUZIR A PENA DOS EMBARGANTES. RECONHECIMENTO DA ATENUANTE DA REPARAÇÃO DO DANO. CONSEQUENTE EXTINÇÃO DA PUNIBILIDADE PELO ADVENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA (RETROATIVA). ERRO MATERIAL. FALTA DE MENÇÃO NO DISPOSITIVO DA DECISÃO DO NÚMERO DA AÇÃO PENAL RESPECTIVA, DECORRENTE DO DESMEMBRAMENTO DA ORIGINAL. ACOLHIMENTO QUE SE IMPÕE. ESCLARECIMENTO SEM EFEITOS MODIFICATIVOS.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
