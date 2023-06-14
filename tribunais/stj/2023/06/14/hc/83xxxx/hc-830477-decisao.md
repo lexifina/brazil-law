@@ -1,0 +1,26 @@
+DECISÃO
+WELLINGTON DIEGO RIBEIRO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500279-30.2021.8.26.0630).
+Consta dos autos que o paciente foi condenado a 7 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que foi excessivo o aumento da pena-base em razão da quantidade de droga apreendida.
+Pugna pelo redimensionamento da reprimenda, com a redução da pena-base ao mínimo legal, incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas e abrandamento do regime.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal, e todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Ainda, segundo o disposto no art. 42 da Lei n. 11.343/2006,"O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No caso em exame, o Magistrado assim argumentou, ao fixar a pena-base do réu (fl. 27, destaquei):
+ ..  ante a quantidade de substância entorpecente encontrada, bem como o mau antecedente pela prática do mesmo delito, exaspero, por isso, a pena base em 1/4 (um quarto), considerado o mínimo, delimitando-a em seis anos e três meses de reclusão e seiscentos e vinte e cinco dias multa.
+Assim, uma vez que foram apontados argumentos concretos e idôneos dos autos - apreensão de significativa quantidade de drogas (cerca de 3,9 kg de maconha) e maus antecedentes - para a fixação da pena-base acima do mínimo legal - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte Superior simplesmente se imiscuir no juízo de proporcionalidade feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015). Entretanto, não verifico caracterizada nos autos tal situação excepcional.
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+A Corte estadual manteve a negativa da incidência do benefício ante a reincidência do réu (fls. 57-58).
+Logo, verifico que não há como ser reconhecida a incidência do redutor em favor do paciente, haja vista a vedação expressa da concessão desse benefício ao acusados reincidentes, como é o caso.
+III. Regime de cumprimento da pena
+Em relação ao modo inicial de cumprimento de pena, também não há ilegalidade a ser reconhecida. Deveras, a reprimenda final do agente foi fixada em 7 anos de reclusão e as instâncias ordinárias consignaram que o réu, que teve circunstâncias judiciais desfavoráveis, é reincidente (fl. 58), motivos que autorizam a fixação do regime inicial fechado.
+Nesse sentido: "Mostra-se correto o regime inicial fechado por ser a pena
+superior a quatro anos e o réu reincidente" (AgRg no HC n. 811.732/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 31/5/2023) e "Por se tratar de réu reincidente e condenado a pena privativa de liberdade superior a 4 anos de reclusão, mostra-se legal e adequada a imposição do regime inicial fechado, pois não atendidos os requisitos do art. 33, § 2º, "b", do CP" (AgRg no HC n. 726.927/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 27/6/2022).
+IV. Dispositivo
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
