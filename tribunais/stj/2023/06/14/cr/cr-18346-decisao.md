@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Juízo Central Cível de Santa Maria da Feira, Juiz 1 do Tribunal Judicial da Comarca de Aveiro) solicita que se proceda à inquirição de GILSON OLIVEIRA SOUZA e JORDI CODINA SATORRAS na audiência de julgamento a realizar-se por videoconferência, por meio da plataforma Cisco Webex, perante aquele Tribunal, no dia 5 de junho de 2023, "às 9h30 e às 14h no fuso horário de Portugal", nos autos do Processo n. 3466/21.1T8VFR.
+Segundo as informações da Justiça Federal às fls. 150 e 156, a Justiça rogante cancelou a audiência e informou às testemunhas . Portanto, devolvam-se os autos à Justiça rogante, sem cumprimento, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ), independentemente do trânsito em julgado.
+Publique-se.
