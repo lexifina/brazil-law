@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (e-STJ fls. 329/336) contra decisão monocrática de e-STJ fls. 319/322, que conheceu do agravo para conhecer parcialmente e, nessa parte, negar provimento ao seu recurso especial. .
+A parte agravante alega que o Tribunal a quo foi omisso ao não analisar os seguintes elementos probatórios: (i) confissão do recorrido sobre a propriedade da droga apreendida (mais de 13 kg de maconha); (ii) depoimento judicial de Policial militar, de forma segura e coesa, de como se deu a apreensão da droga nos fundos da casa do réu, local esse que não era de acesso público; e (iii) flagrante precedido de mandado de busca e apreensão, bem como de informação do setor de inteligência da polícia militar de que o recorrido é tio do gerente de um grupo de traficantes atuantes na região e estaria envolvido com o tráfico.
+Sustenta: (i) a não incidência da Súmula 7/STJ; (ii) a existência de elementos de prova para a condenação do acusado pela prática do delito de tráfico.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. AUSÊNCIA DE OMISSÃO PELA CORTE DE ORIGEM. ART. 619 DO CPP. ABSOLVIÇÃO. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao contrário do que sustenta a parte recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, não emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado pelo delito de tráfico. Assim, por mais que o Ministério Público estadual se esforce em demonstrar o contrário, almejando a condenação do agravado, rever os fundamentos utilizados pela Corte Estadual, para afastar a absolvição, como requer a acusação, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3.Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+De início, ao contrário do que sustenta a parte recorrente, não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+Verifica-se, portanto, que, diferentemente do que alega o recorrente, a Corte local examinou em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas, razão pela qual foram rejeitados os aclaratórios. Dessarte, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte com o entendimento apresentado na decisão, situação que não autoriza a oposição de embargos de declaração.
+Nesse contexto, tem-se que o fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, por certo não revela violação do art. 619 do Código de Processo Penal.
+Prosseguindo, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, não emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado pelo delito de tráfico, conforme trecho abaixo (e-STJ fls. 243/246):
+A materialidade do crime de tráfico de drogas está devidamente comprovada pelo boletim de ocorrência (fls. 18123), auto de apreensão 1 (fl. 24) e laudo toxicológico preliminar (fls. 30131) laudo toxicológico definitivo (fls. 1161117).
+Por outro lado, em relação à autoria, a prova carreada no processo não indica o acusado como traficante. O acusado, Carlos Augusto, em juízo (mídia - fl. 102), nega veemente os fatos narrados na denúncia.
+O acusado, Silvoni de Souza Oliveira, ouvido perante autoridade judiciária (mídia  fI. 102), confirma que foi encontrada a droga próximo a sua residência. Todavia, os estupefacientes não são de sua propriedade.
+A testemunha, Arthur José Simões, sob crivo do contraditório (mídia - fl. 85), informa quê a droga foi encontrada em um terreno próximo a casa dos acusados, mas que com os acusados nada foi encontrado.
+A testemunha, Seleste Aparecida da Silva Esteves, sob amparo da ampla defesa (mídia - fi. 85), descreve que é vizinha dos acusados e que os acusados são pessoas do bem e trabalhadoras, assegura que o lote em que a droga foi localizada é acessível a qualquer pessoa.
+Depreende-se que o policial militar ouvido no processo não esclareceram nada sobre o envolvimento do acusado com o tráfico de drogas.
+O policial, José Gilton Domingos, em sede judicial (mídia - fi. 85),. relata que os investigados não são conhecidos no meio policial e que no dia dos fatos foi cumprir um mandado de busca e apreensão relacionada ao tráfico de drogas. Assevera que a droga foi encontrada em um lote próximo a casa dos acusados.
+Contudo, não obstante a possibilidade de o apelante ter praticado o crime em questão, é certo que nos autos não há prova contundente da autoria.
+Não se desconhece que os depoimentos dos policiais são de grande relevância e auxiliam o convencimento do magistrado em casos como tais. Contudo, observa-se que o referido depoimento não trouxe um alicerce seguro acerca do tráfico de drogas pelo apelante, motivo, pelo não é cabível a condenação empreendida na sentença.
+Como é sabido, o agente não precisa ser surpreendido em pleno ato de mercancia para que se configure o tráfico, mas, na espécie, repita-se não há nenhuma prova que indique que as substâncias; tóxicas apreendidas realmente pertenciam ao réu e que possuíam uma finalidade mercantil.
+Importante salientar, ademais, que a droga foi encontrada em um lote próximo a casa do réu e de fácil acesso para qualquer individuo, além de não ter sido vislumbrada ação comum de venda de drogas e não ser conhecido no meio policial. Soma-se a isso o fato de não ter sido abordado e qualificado usuários que pudessem ter adquirido drogas com o apelante.
+Assim, o Ministério Público não se desincumbiu de seu ônus de comprovar o exercício da mercancia de drogas por parte do apelante, sendo de rigor absolvição do acusado.
+ ..
+Dessa feita, embora existam indícios, é necessário reconhecer, em homenagem ao principio in dubio pro reo, que as provas são insuficientes para a conservação da condenação pelo delito de tráfico de drogas.
+Assim, por mais que o Ministério Público estadual se esforce em demonstrar o contrário, almejando a condenação do agravado, rever os fundamentos utilizados pela Corte Estadual, para afastar a absolvição, como requer a acusação, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
