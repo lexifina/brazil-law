@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES, CHL DESENVOLVIMENTO IMOBILIÁRIO S/A, BENTO LISBOA PARTICIPAÇÕES LTDA., NATÁLIA MARIA FERNANDES PIRES, ROBERTO GIARELLI, GOLD GANA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., LEONARDO FUCHS PILOTO, AURÉLIO DE LUCA MIRANDA, ANTÔNIO FERNANDO GUEDES e GOLDFARB INCORPORAÇÕES E CONSTRUÇÕES LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/05/2022.
+Concluso ao gabinete em: 12/06/2023.
+Ação: incidente de desconsideração da personalidade jurídica, requerido por ENIO KIMYTE DOY, em face de PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES, CHL DESENVOLVIMENTO IMOBILIÁRIO S/A, BENTO LISBOA PARTICIPAÇÕES LTDA., NATÁLIA MARIA FERNANDES PIRES, ROBERTO GIARELLI, GOLD GANA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., LEONARDO FUCHS PILOTO, AURÉLIO DE LUCA MIRANDA, ANTÔNIO FERNANDO GUEDES e GOLDFARB INCORPORAÇÕES E CONSTRUÇÕES LTDA.
+Decisão interlocutória: julgou procedente o incidente de desconsideração da personalidade jurídica, para determinar a inclusão de NATÁLIA MARIA FERNANDES PIRES, ROBERTO GIARELLI, ANTÔNIO FERNANDO GUEDES, AURÉLIO DE LUCA MIRANDA, PDG REALTY S/A EMPREENDIMENTOS E PARTICIPAÇÕES, BENTO LISBOA PARTICIPAÇÕES LTDA. e CHL DESENVOLVIMENTO IMBILIÁRIO S/A no polo passivo da ação em face de cumprimento de sentença de autos sob o nº 1080245-84.2014.8.26.0100.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+"Agravo de Instrumento. Incidente de desconsideração da personalidade jurídica. Insurgência contra a r. decisão de procedência. Não acolhimento. Relação de consumo. Simples dificuldade de recebimento do crédito objeto de título judicial a possibilitar o emprego do art. 28, par. 5º, do CPC. Aplicação da teoria menor. Arguição de nulidade. Descabimento. Questão concernente à natureza do crédito (concursal ou extraconcursal) que não pertinente ao incidente de desconsideração da personalidade jurídica e já foi decidida por decisão preclusa, o que impede sua revisão (art. 505, do CPC). Decisão mantida. Agravo desprovido." (e-STJ fl. 1094)
+Recurso especial: alega violação dos arts. 28, Lei 8.078/90, 50, § 4º, CC/02, 134, § 4º, 320, 321, CPC/15, sustentando que: i) não pode a inexistência e/ou não localização de bens embasar a desconsideração da personalidade jurídica; e, ii) não há qualquer indício de confusão patrimonial, tendo em vista que o mero inadimplemento não é suficiente para a caracterização deste quadro; e, iii) a recorrente BENTO LISBOA PARTICIPAÇÕES LTDA. sequer é sócia das pessoas jurídicas executadas, por isso, ao autorizar a desconsideração da personalidade jurídica com base somente no inadimplemento e na existência de grupo econômico, a Corte local acabou por violar a legislação que trata da matéria; e, iv) o recorrido requereu a instauração do incidente sem sequer demonstrar que as recorrentes tenham abusado de sua personalidade jurídica.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 50, § 4º, CC/02, 320, 321, CPC/15, indicados como violados, não tendo os agravantes opostos embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+Os agravantes não impugnaram o fundamento utilizado pelo TJ/SP, no sentido de que a desconsideração da personalidade jurídica requerida foi deferida porque, de alguma forma, houve obstáculo ao ressarcimento de prejuízos causados ao agravado, conforme preceitua ao art. 28, § 5º, Lei 8.078/90, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que, em que pese a alegação de que não foram esgotadas as pesquisas patrimoniais, restou incontroversa a falta de bens para satisfação do crédito e a dificuldade financeira que os agravantes têm enfrentado, ressaltando-se que não foram indicados bens à penhora pelos agravantes, tudo a obstaculizar o sucesso da execução, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Incidente de desconsideração da personalidade jurídica.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
