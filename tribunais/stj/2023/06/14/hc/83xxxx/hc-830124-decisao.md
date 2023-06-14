@@ -1,0 +1,19 @@
+DECISÃO
+O presente writ, impetrado em benefício de Melissa Caroline da Silva Santos - condenada como incursa no crime de tráfico de drogas majorado (interestadual) - contra o ato coator do Tribunal de Justiça de São Paulo (Ação Penal n. 0001393-28.2018.8.26.0616), comporta pronto acolhimento.
+Com efeito, busca a impetração o redimensionamento da reprimenda imposta à paciente pelo Juízo de Direito da Vara Única da comarca de Guarema/SP, ao argumento de que, em que pese o art. 42 da Lei n. 11.343/2006 estabelecer que o julgador na fixação das penas poderá preponderar sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou produto, a personalidade e a conduta social do agente (fl. 6).
+De fato, da análise da sentença condenatória observa-se que o Magistrado singular, ao afastar o redutor (art. 33, § 4º, da Lei n. 11.343/2006), limitou-se a afirmar que as acusadas estavam se dedicando a atividades criminosas e considerando-se a quantidade de droga transportada (37 tijolos), pretendendo inclusive ingressar em outro estado da Federação (fls. 22/23).
+Ocorre que a consideração da quantidade de droga apreendida não é suficiente, por si só, para afastar a minorante, e o tráfico entre estados da Federação já foi abstratamente punido pelo tipo penal violado, razão pela qual inexiste fundamento para o afastamento do redutor.
+A propósito: A Terceira Seção desta Corte, no julgamento do REsp n. 1.887.511/SP, de relatoria do Min. João Otávio de Noronha, decidiu acerca das regras a serem observadas na dosimetria da pena, no que se refere à natureza e quantidade de drogas apreendidas, dentre elas, de que podem ser utilizadas na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2016, apenas quando esse vetor for conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa (AgRg no HC n. 770.752/ES, Ministro Messod Azulay Neto, Quinta Turma, DJe 2/6/2023).
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a fixação da pena-base em 5 anos de reclusão e 500 dias-multa, na segunda etapa, inexistem agravantes a considerar.
+Na terceira etapa, incide o redutor do tráfico privilegiado em 1/5 (considerando a quantidade de droga apreendida - 41 kg de maconha), resultando a reprimenda em 4 anos de reclusão e 400 dias-multa. Incidindo a majorante do delito entre estados da Federação em 1/6, resulta a pena em 4 anos e 8 meses de reclusão, e 466 dias-multa, a qual torno definitiva.
+Considerando a primariedade da acusada, a fixação da pena-base no mínimo legal e a reprimenda definitiva imposta, cabível o regime inicial semiaberto, nos termos do art. 33, § 3º, c/c o art. 59, ambos do Código Penal.
+A corré Camila Kely Rodrigues Feitosa se encontra em situação fático-processual idêntica, porque condenada na mesma ação penal e mediante sentença que lhe fixou reprimenda idêntica sob os mesmos fundamentos.
+Assim, não tendo a presente decisão se vinculado a circunstâncias de caráter exclusivamente pessoal, devem ser estendidos seus efeitos, nos termos do art. 580 do Código de Processo Penal.
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer a minorante do tráfico privilegiado, redimensionando-se a reprimenda imposta à paciente para 4 anos e 8 meses de reclusão, no regime inicial semiaberto, e 466 dias-multa, com extensão integral à corré Camila Kely Rodrigues Feitosa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. DOSIMETRIA DA PENA. REDUTOR DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO ADEQUADA. QUANTIDADE DE DROGAS APREENDIDAS. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. CONSTRANGIMENTO EVIDENCIADO.
+Ordem liminarmente concedida, com extensão integral à corré Camila Kely Rodrigues Feitosa.
