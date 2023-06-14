@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO JULGAMENTO DE RECURSO REPETITIVO. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO CONFIGURADA.
+1. A embargante, vitoriosa no julgamento do Recurso Especial, aponta omissão relativamente ao arbitramento dos honorários de sucumbência.
+2. A demanda foi ajuizada em agosto de 2018 e a parte autora atribuiu à causa o valor de R$67.075,49 (fl. 10, e-STJ). Com o acórdão que lhe foi favorável, proferido no julgamento do Recurso repetitivo no STJ, no sentido de declarar a inexistência de relação jurídica e, concomitantemente, de condenar a recorrida à restituição dos valores indevidamente recolhidos, observado o prazo prescricional, assiste razão ao apontar o vício do art. 1.022 do CPC.
+3. Diante do conteúdo condenatório, o parâmetro primordial para o arbitramento dos honorários de sucumbência é o valor da condenação (proveito econômico), afastando-se a possibilidade de aplicação do art. 85, § 8º, do CPC, conforme ficou decidido, com a ressalva do meu ponto de vista, pela Corte Especial no julgamento do Tema Repetitivo 1.076/STJ.
+4. Nos termos requeridos pela embargante, nas razões do Recurso Especial, os honorários de sucumbência deverão ser arbitrados nas instâncias de origem, por ocasião da liquidação de sentença, observado o disposto nos §§ 3º e 4º do art. 85 do CPC.
+5. Embargos de Declaração acolhidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça: "A Primeira Seção, por unanimidade, acolheu os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão que, conhecendo parcialmente do Recurso Especial, deu-lhe provimento nos seguintes termos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO COM ACOLHIMENTO DA PROPOSTA DE AFETAÇÃO PARA JULGAMENTO NO RITO DOS RECURSOS REPETITIVOS. TAXA DE SAÚDE SUPLEMENTAR, DEVIDA POR PLANO DE SAÚDE (ART. 20, I, DA LEI 9.961/2000). DEFINIÇÃO DA BASE DE CÁLCULO. ART. 3º DA RESOLUÇÃO 10/2000. VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE ESTRITA (ART. 97, IV, DO CTN). DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+HISTÓRICO DA DEMANDA
+1. A recorrente ajuizou Ação Coletiva para discutir a ilegalidade da exigência, pela Agência Nacional de Saúde - ANS, da Taxa de Saúde Suplementar. Sustentou que a base de cálculo do aludido tributo foi concretamente estabelecida apenas por meio do art. 3º da Resolução RDC 10, afrontando o princípio da legalidade estrita, fixado no art. 97, IV, do CTN. Pediu o julgamento de procedência do pedido, para reconhecer a inexistência de relação jurídica tributária entre a ANS e as filiadas da autora, bem como a condenação à Repetição do Indébito (valores recolhidos antes do ajuizamento da demanda e durante sua tramitação).
+2. O juízo de primeiro grau acolheu a pretensão deduzida em juízo, condenando a parte demandada à Repetição do Indébito dos valores recolhidos até cinco anos anteriores ao ajuizamento do feito, ao fundamento de que "a pretexto de regulamentar a Lei n.º 9.961/00, a Resolução RDC n.º 10/2000, (revogada pelas RN n.ºs 7 e 89/2005), em seu artigo 3.º, afrontou o princípio da legalidade estrita, porquanto dispôs sobre a base de cálculo da Taxa de Saúde Suplementar" (fl. 186, e-STJ).
+3. No Tribunal de origem, a sentença foi reformada diante do entendimento de que a substituição do termo "número médio de usuários" (previsto no art. 20, I, da Lei 9.961/2000) pela expressão "média aritmética do número de usuários" (art. 3º da Resolução RDC 10/2000) não representa inovação na disciplina da lei em sentido restrito.
+ADMISSIBILIDADE DO RECURSO
+4. Preliminarmente, rejeita-se a preliminar de ausência de prequestionamento, veiculada nas contrarrazões do Recurso Especial.
+5. A questão controvertida foi objeto de análise no acórdão hostilizado, que de modo expresso identificou o objeto litigioso (exigibilidade da Taxa de Saúde Suplementar, instituída nos termos do art. 20, I, da Lei 9.961/2000, e ilegalidade da definição concreta da base de cálculo por meio de atos infralegais).
+6. O tema relacionado com a violação da norma federal (art. 97 do CTN), nas condições acima, foi valorado no decisum, o que enseja o reconhecimento do denominado prequestionamento implícito.
+7. De outro lado, observa-se que o apelo raro foi interposto com base nas alíneas "a" e "c", mas a parte recorrente não demonstrou o preenchimento dos requisitos legais concernentes ao dissídio jurisprudencial. A singela indicação de precedentes jurisprudenciais em sentido oposto ao adotado no acórdão recorrido é deficiente, pois não houve realização de cotejo analítico, com transcrição de trechos dos arestos confrontados, para o fim de destacar a similitude fática e jurídica, motivo pelo qual, no ponto, o Recurso não ultrapassa o juízo de admissibilidade.
+JURISPRUDÊNCIA DO STJ
+8. A exegese adotada na Corte regional é diametralmente oposta à orientação do STJ, onde está pacificado o entendimento de que apenas com o art. 3º da Resolução RDC 10/2000 é que efetivamente foi estabelecida a base de cálculo da Taxa de Saúde Suplementar - TSS, não sendo possível admitir a fixação de base de cálculo por outro instrumento normativo que não a lei em seu sentido formal, sob pena de infringência à norma do art. 97, IV, do CTN.
+9. Confira-se ampla gama de precedentes: AREsp 1.551.000/RJ, Rel. Min. Herman Benjamin, DJe 19.12.2019; AREsp 1.507.963/RJ, Rel. Min. Francisco Falcão, DJe 16.9.2019; AgInt no REsp 1.276.788/RS, Rel. Min. Regina Helena Costa, DJe 30.3.2017; AgRg no REsp 1.231.080/RJ, Rel. Min. Sérgio Kukina, DJe 31.8.2015; AgRg no AgRg no AREsp 616.262/PE, Rel. Min. Benedito Gonçalves, DJe 12.5.2015; AgRg no AREsp 608.001/RS, Rel. Min. Og Fernandes, DJe 4.2.2015; AgRg no AREsp 552.433/RS, Rel. Min. Assusete Magalhães, DJe 11.12.2014; e AgRg no REsp 1.434.606/PB, Rel. Min. Mauro Campbell Marques, DJe 30.9.2014.
+10. Não havendo outros elementos valorativos no acórdão hostilizado, tampouco argumentação relevante nas razões do Recurso Especial, deve ser preservada a coesão da jurisprudência já estabelecida no STJ (art. 926 do CPC).
+TESE REPETITIVA
+11. Adota-se a seguinte tese: "O art. 3º da Resolução RDC 10/2000 estabeleceu, em concreto, a própria base de cálculo da Taxa de Saúde Suplementar - especificamente na modalidade devida por plano de saúde (art. 20, I, da Lei 9.961/2000) -, em afronta ao princípio da legalidade estrita, previsto no art. 97, IV, do CTN".
+CONCLUSÃO DO CASO CONCRETO
+12. Recurso Especial parcialmente conhecido e, nessa extensão, provido.
+A embargante afirma que ocorreu omissão relativamente ao capítulo decisório concernente aos honorários advocatícios.
+Não houve impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8 de março de 2023.
+Merecem acolhida os Aclaratórios.
+Com o provimento do Recurso Especial, reconheceu-se a inexistência de relação jurídica entre as partes e, nos termos da r. sentença proferida no juízo de primeiro grau, igualmente ficou restabelecida a condenação da embargada à restituição do indébito, observada a prescrição quinquenal.
+A demanda foi ajuizada em agosto de 2018, e a parte autora atribuiu à causa o valor de R$67.075,49 (fl. 10, e-STJ).
+Diante do conteúdo condenatório, o parâmetro primordial para o arbitramento dos honorários de sucumbência é o valor da condenação (proveito econômico), afastando-se a possibilidade de aplicação do art. 85, § 8º, do CPC, conforme ficou decidido, com a ressalva do meu ponto de vista, pela Corte Especial no julgamento do Tema Repetitivo 1.076/STJ.
+Nos termos requeridos pela embargante, nas razões do Recurso Especial, os honorários de sucumbência deverão ser arbitrados nas instâncias de origem, por ocasião da liquidação de sentença, observado o disposto nos §§ 3º e 4º do art. 85 do CPC.
+Com essas considerações, acolho os Embargos de Declaração.
+É como voto.
