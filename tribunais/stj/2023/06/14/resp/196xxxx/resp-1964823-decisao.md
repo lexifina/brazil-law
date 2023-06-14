@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por HEDGE DESENVOLVIMENTO URBANO LTDA. com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul, assim ementado:
+EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃO CONTRATUAL - COMPROMISSO DE COMPRA E VENDA - LOTE DE TERRENO URBANO NÃO EDIFICADO - RESCISÃO POR CULPA DOS COMPRADORES - PRELIMINAR DE NULIDADE DA SENTENÇA - AFASTADA- NÃO CUMULAÇÃO DAS ARRAS COM A CLÁUSULA PENAL COMPENSATÓRIA - TAXA DE FRUIÇÃO - RETENÇÃO DE IPTU - FORMA DE RESTITUIÇÃO DOS VALORES - TERMO INICIAL DOS JUROS - RECURSOS PARCIALMENTE PROVIDOS.
+1 - Se inexiste na inicial qualquer ponto acerca da comissão de corretagem, de modo que competiria a requerida aventar acerca da necessária dedução em sede de reconvenção, peça processual específica para sua derradeira pretensão, não há vício na sentença que deixa de enfrentar o ponto, dada a sua obediência ao princípio da adstrição ou congruência.
+2 - Como as arras possuem também o caráter indenizatório, descabe a sua cumulação com a cláusula penal compensatória, em razão da proibição do bis in idem, pois a haveria incidência de duas sanções de natureza indenizatória em razão do mesmo fato, qual seja o descumprimento integral do contrato. Entendimento em conformidade com a orientação da Corte Superior no julgamento do Resp nº 1.617.652/DF.
+3 - Tratando-se de contrato anterior à Lei nº 13.786, de 27/12/2018,que alterou as Lei nº 6.766/79, descabe a sua aplicação na hipótese dos autos, notadamente quanto ao cabimento da taxa de fruição e de fixação do percentual de 10%de retenção (art. 32-A), em observância ao princípio da irretroatividade das leis que preserva o ato jurídico perfeito consubstanciado no contrato celebrado.
+4 - Sendo contrato anterior à Lei nº 13.786/2018, é indevida a incidência de taxa de fruição atinente a lotes de terreno não edificados quando inexiste a demonstração de proveito econômico proporcionado pelo imóvel, bem como ausentes evidências de que o vendedor tenha deixado de auferir lucro em razão da privação da posse do imóvel.
+5 - Sendo anterior à Lei nº 13.786/18, com acerto a sentença que reduz a retenção do montante adimplido a 20%, pois refere-se a percentual dentro da proporcionalidade estabelecida pela jurisprudência do Superior Tribunal de justiça:Confira-se:"2. A jurisprudência desta Corte consolidou-se no sentido da razoabilidadede retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), de acordo com as circunstâncias do caso concreto.(AgInt no Resp 1688214/DF).
+6 - Com a rescisão contratual retorna-se ao status quo ante e, tratando-se de IPTU, encargos que têm natureza propter rem, não há falar em retenção/cobrança de valores, pois o imóvel pertence ao patrimônio da vendedora.
+7 - Deve ser fixado o trânsito em julgado como termo inicial dos juros de mora incidentes sobre o montante a ser restituído aos compradores, consoante precedente vinculativo da Corte Superior, apreciado sob o rito dos recursos repetitivos:"1. Para os fins dos arts. 927 e 1.036 a 1.041 do CPC, fixa-se a seguinte tese: - Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão.(..)" (Resp 1740911/DF).
+8 - Recursos parcialmente providos.
+Os embargos declaratórios opostos foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL - OMISSÃO NO ACÓRDÃO - INEXISTENTE - EMBARGOS REJEITADOS.
+1 - Os embargos de declaração têm como requisito de admissibilidade a indicação de algum dos vícios previstos no art. 1.022 do CPC, constantes do decisum embargado.
+2 - Ausentes quaisquer dos vícios apontados na norma processual, a rejeição dos embargos de declaração é medida que se impõe.
+Nas razões do recurso, alegou-se violação do art. 1.022, II, do CPC, sob o argumento de omissão por parte do acórdão recorrido, porquanto, mesmo instado, não se manifestou acerca da aplicação dos arts. 32 e 34 do CTN e do art. 32-A da Lei n.º 6.766/79.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da omissão no acórdão recorrido
+HEDGE DESENVOLVIMENTO URBANO LTDA., em suas razões recursais, alegou violação do art. 1.022, II, do CPC, sob o argumento de omissão por parte do acórdão recorrido, porquanto, mesmo instado, não se manifestou acerca da aplicação dos arts. 32 e 34 do CTN e do art. 32-A da Lei n.º 6.766/79.
+De fato, o TJMS, mesmo instado, não se manifestou acerca das questões suscitadas nos embargos declaratórios, incorrendo, dessa forma, em omissão e negativa de prestação jurisdicional.
+Esclareça-se ser condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+A propósito, veja-se o seguinte precedente:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais questões.
+Nessas condições, DOU PROVIMENTO ao presente recurso especial e determino o retorno dos autos ao TJMS para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA. QUESTÕES SUSCITADAS NOS EMBARGOS DECLARATÓRIOS. NÃO MANIFESTAÇÃO. OMISSÃO. CONFIGURAÇÃO. RETORNO DOS AUTOS PARA APRECIAÇÃO DOS PONTOS OMISSOS. RECURSO ESPECIAL PROVIDO.
