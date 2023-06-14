@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS. INDEFERIMENTO PELO JUÍZO. AUSÊNCIA DE RECURSO. PRECLUSÃO PRO JUDICATO CARACTERIZADA.
+IMPOSSIBILIDADE DE MODIFICAÇÃO POSTERIOR DA VERBA HONORÁRIA.
+DECISÃO QUE INDEFERE HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS AO TEMPO DA APRESENTAÇÃO DO PEDIDO DE CUMPRIMENTO DE SENTENÇA, CONTRA A QUAL NÃO HOUVE INTERPOSIÇÃO DE RECURSO, IMPLICA PRECLUSÃO PARA POSTERIOR NOVO PEDIDO DE ARBITRAMENTO DAQUELES HONORÁRIOS, RAZÃO PELA QUAL NÃO PODERIA O JUÍZO, INADVERTIDAMENTE, E SEM SE ATER À CIRCUNSTÂNCIA DE QUE HÁ DECISÃO ANTERIOR NOS AUTOS, OS CONCEDER AGORA, SOBRETUDO QUANDO AUSENTE FATO NOVO A JUSTIFICAR ALTERAÇÃO DA DECISÃO ORIGINÁRIA. PRECLUSÃO PRO JUDICATO RECONHECIDA.
+AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.
+Nas suas razões, a parte recorrente aponta que houve violação dos arts. 85, § 7º, 502, 503 e 506, do CPC/2015, por não ter sido impugnado o cumprimento de sentença, e que não há falar em preclusão, uma vez que se trata de decisão interlocutória.
+Passo a decidir.
+Observa-se que o presente apelo nobre carece do requisito constitucional do prequestionamento, porquanto "não há que se falar em preclusão, em quaisquer de suas modalidades, quando a matéria tiver sido decidida em sede de decisão interlocutória, devendo esta ser alegada somente quando oriunda de sentença definitiva, esta que produz coisa julgada material e deve seguir".
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o referido óbice. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Por fim, fica prejudicada a análise da divergência jurisprudencial porque, além de a parte recorrente não ter atendido os requisitos previstos no art. 255 do RISTJ, "a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
