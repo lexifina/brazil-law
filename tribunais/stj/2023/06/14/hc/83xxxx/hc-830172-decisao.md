@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDIMILSON VIEIRA DA SILVA contra decisão do Desembargador plantonista do Tribunal de Justiça do Estado de Goiás, que indeferiu pedido liminar formulado nos autos do HC 5143153-21.2023.8.09.0051 (e-STJ, fls. 131-132).
+Consta dos autos que, na data de 10/6/2023, o paciente foi preso, em flagrante, pela suposta prática dos crimes previstos no art. 303, caput, e 306, caput, ambos do Código de Trânsito Brasileiro.
+Em 11/6/2023, o Juízo de Direito plantonista homologou a prisão em flagrante, concedendo a liberdade provisória ao acusado, condicionando, contudo, a sua soltura ao pagamento de R$ 2.640,00, a título de fiança (e-STJ, fls. 114-117). O paciente, todavia, permaneceu preso, diante da impossibilidade de arcar com o valor da garantia estipulada.
+A defesa impetrou prévio habeas corpus, perante o Tribunal de origem, que indeferiu a liminar pleiteada (e-STJ, fls. 131-132).
+Nesta impetração, pugnando pela superação do Enunciado Sumular n. 691 do STF, a impetrante sustenta, em síntese, a existência de constrangimento ilegal, visto que o paciente não possui condições financeiras para providenciar o pagamento da fiança no valor arbitrado, já que "está formalmente desempregado e sobrevive graças ao seu ofício como serralheiro autônomo que lhe rende a quantia mensal de aproximadamente de R$ 2.000,00 (dois mil reais)" (e-STJ, fl. 7).
+Cita precedentes jurisprudenciais deste Superior Tribunal de Justiça.
+Requer a concessão da ordem, inclusive liminarmente, com a expedição de alvará de soltura, sem fiança. Subsidiariamente, pugna pleiteia o redimensionamento do valor da fiança "ao patamar mínimo possível" (e-STJ, fl. 17).
+É o relatório.
+Decido.
+Esta Corte possui entendimento reiterado de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia (Súmula 691/STF AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/8/2014; AgRg no HC 321.554/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/05/2015).
+Na hipótese em exame, entendo que se encontram presentes as circunstâncias autorizadoras para a superação da referida súmula.
+Na hipótese, verifica-se que estão presentes as circunstâncias autorizadoras da concessão da ordem, de ofício, diante da ocorrência de constrangimento ilegal imposta ao paciente.
+Ora, de acordo com o art. 350 do Código de Processo Penal, "nos casos em que couber fiança, o juiz, verificando ser impossível ao réu prestá-la, por motivo de pobreza, poderá conceder-lhe a liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328 deste Código e a outras medidas cautelares, se for o caso".
+Sobre o tema:
+"HABEAS CORPUS. APROPRIAÇÃO INDÉBITA E COMUNICAÇÃO FALSA DE CRIME OU CONTRAVENÇÃO. CONCESSÃO DA LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. AFASTADA A NECESSIDADE. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA.
+1. De acordo com a jurisprudência desta Corte Superior, "afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, especialmente quando se alega impossibilidade de fazê-lo e estão ausentes os requisitos exigidos pelo art. 312 do CPP" (HC n. 362.907/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/10/2016, DJe de 8/11/2016).
+2. O Superior Tribunal de Justiça tem jurisprudência de que não cabe habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), tal como se verifica na espécie. Isso, porque a prisão preventiva perdura apenas em razão de o paciente não possuir condições de adimplir com o valor arbitrado a título de fiança (R$ 12.120,00), o que viola a jurisprudência pacífica desta Corte Superior.
+3. Ordem concedida, ratificada a liminar."
+(HC n. 728.814/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+"HABEAS CORPUS. RECEPTAÇÃO E LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. INDEFERIMENTO DA LIMINAR NO PRÉVIO WRIT. SÚMULA 691. EXISTÊNCIA DE ILEGALIDADE PATENTE. LIBERDADE PROVISÓRIA DEFERIDA. FIANÇA NÃO PAGA. MANUTENÇÃO DA CUSTÓDIA. ILEGALIDADE. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. ORDEM CONCEDIDA.
+1. A aceitação de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros da Súmula 691 do STF, somente afastada no caso de excepcional situação, o que se verifica na hipótese dos autos.
+2. Com o advento da Lei n.º 12.403/11, externaram-se os comandos constitucionais que identificam na prisão provisória o caráter de ultima ratio.
+3. Não é razoável manter o paciente preso cautelarmente apenas em razão do não pagamento de fiança, especialmente quando se alega impossibilidade de fazê-lo e estão ausentes os requisitos exigidos no art. 312 do Código de Processo Penal.
+4. In casu, o paciente é assistido pela Defensoria Pública na ação penal que corre em primeira instância, portanto, presumivelmente pobre, sendo caso de aplicação do disposto no art. 350 do Código de Processo Penal.
+5. Ordem concedida, confirmando a liminar deferida, para garantir a liberdade ao paciente, dispensando-o, por hora, do pagamento da fiança, se por outro motivo não estiver preso, com manutenção das medidas cautelares de comparecimento mensal em juízo para informar e justificar as suas atividades; recolhimento domiciliar das 21 horas às 6 horas e nos dias de folga; e comparecimento a todos os atos do processo, conforme estabelecido pelo juízo de primeiro grau."
+(HC 380.709/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 14/02/2017, DJe 22/02/2017.)
+"PROCESSUAL PENAL. INDEFERIMENTO DA LIMINAR NO PRÉVIO WRIT. SÚMULA 691. AFASTAMENTO. EXCEPCIONALIDADE. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. FURTO QUALIFICADO. LIBERDADE PROVISÓRIA DEFERIDA COM ARBITRAMENTO DE FIANÇA. ACUSADOS JURIDICAMENTE POBRES. APLICAÇÃO DO ART. 350 DO CÓDIGO DE PROCESSO PENAL. ORDEM CONCEDIDA. LIMINAR RATIFICADA.
+ ..
+2. A teor do art. 350 do Código de Processo Penal, nos casos em que couber fiança, o juiz, verificando ser impossível ao réu prestá-la, por motivo de pobreza, poderá conceder-lhe a liberdade provisória, sujeitando-o às obrigações constantes dos arts. 327 e 328.
+3. Na espécie, a imposição da fiança, quando afastada pelo Juízo de 1º grau os requisitos/pressupostos da prisão preventiva, não tem o condão de justificar a manutenção da prisão cautelar, em especial quando o réu declarou-se pobre e é defendido pela Defensoria Pública.
+4. Ordem concedida para, ratificando a liminar, garantir a liberdade provisória aos pacientes, independentemente do pagamento de fiança."
+(HC 326.829/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, SEXTA TURMA, DJe 1º/9/2015.)
+Ante o exposto, não conheço do habeas corpus, contudo, concedo a ordem de ofício, para conceder a liberdade provisória sem fiança ao paciente, ficando a cargo do Juízo processante, caso entenda necessário, a imposição de outras medidas além daquelas que, porventura, já tenham sido estabelecidas.
+Comunique-se ao Tribunal de Justiça do Estado de Goiás e o Juízo de primeiro grau.
+Publique-se. Intimem-se.
