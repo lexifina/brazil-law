@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de WILLAMS TORRES DOS SANTOS contra acórdão da 3ª Câmara Criminal do Tribunal de Justiça do Estado de Pernambuco (HC n. 0020885-84.2022.8.17.9000).
+Extrai-se dos autos que o paciente foi preso em flagrante em 17/11/2020 pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006. A custódia foi convertida em preventiva.
+Alegando excesso de prazo da custódia, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo em acórdão assim ementado (e-STJ fls. 94/101):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INEXISTENTE. TRÂMITE REGULAR. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+No presente writ, a Defensoria Pública do Estado de Pernambuco alega que " n o caso concreto, não há óbices ao desenvolvimento contínuo da marcha processual, uma vez que a ação penal é desprovida de complexidade. Trata-se de processo com dois réus apenas, além de um só delito, inexistindo qualquer incidente instaurado, além de que não se fez necessária a expedição de cartas precatórias" (e-STJ fl. 6).
+Requer, assim, o relaxamento da prisão preventiva.
+A liminar foi indeferida às e-STJ fls. 114/115.
+Informações às e-STJ fls. 123/126.
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 130/131).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação". No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Assim, segundo a jurisprudência desta Corte e do Supremo Tribunal Federal, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Acerca da alegação, assim se manifestou o Tribunal (e-STJ fl. 94/101):
+O impetrante aduz que o paciente vem sofrendo constrangimento ilegal, pois está há mais de 02 (dois) anos preso provisoriamente, encontrando-se o processo originário, desde 22/05/2022, carente de sentença.
+Tal alegação, contudo, não merece prosperar.
+Conforme consulta ao sistema Judwin deste Tribunal, bem como levando em consideração as informações prestadas pela autoridade apontada como coatora (Id. 24842623), diferentemente do arrazoado pelo impetrante, verifica-se que o feito vem tramitando com regularidade, sem indicações de que tenha havido desídia da Juíza processante nem, tampouco, inércia da secretaria da vara. Vejamos:
+O paciente foi preso em flagrante em 17/11/2020, tendo sido submetido à audiência de custódia, ocasião em que a prisão em flagrante foi convertida em prisão preventiva. Houve recebimento da inicial acusatória em 02/02/2022, por restarem preenchidos os pressupostos de admissibilidade dispostos no art. 41 do CPP.
+Observo, ainda, a ausência de violação ao parágrafo único do art. 316 do CPP, haja vista ter a prisão provisória sido reavaliada e mantida em 21/12/2022.
+Nesse trilhar, é imperioso destacar, também, que o prazo para a conclusão da instrução criminal não tem as características da fatalidade e da improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+(..)
+Vale ressaltar, ainda, a Súmula nº 84 deste Tribunal, assim redigida: "Os prazos processuais na instrução criminal não são peremptórios, podendo ser ampliados dentro de parâmetros de razoabilidade e diante das circunstâncias do caso concreto".
+Ademais, conforme apontado pela autoridade coatora em suas informações (Id.24842623), bem como em consulta ao sistema Judwin, é possível constatar que em 08/06/2022 houve carga à Defensoria Pública para apresentação de alegações finais por memoriais, só tendo havido devolução dos autos em 30/11/2022. Tendo havido nova carga em 03/01/2023, os autos se encontram com a Defensoria Pública até a presente data. Como bem asseverado pela Douta Procuradora de Justiça em sua manifestação, "não pode alegar a defesa prejuízo ao paciente o retardo na conclusão do processo se é a própria impetrante que está ocasionando o retardo processual".
+Ante tal relato, percebe-se que não há demora injustificada a implicar em coação ilegalpor excesso de prazo.
+De fato, não se verifica o alegado constrangimento ilegal.
+O exame do trâmite processual não revela morosidade ou lentidão excessiva. Ao contrário, observa-se que o magistrado impulsionou o feito de forma adequada, já tendo sido encerrada a instrução criminal, o que atrai ao caso a incidência do enunciado nº 52 da Súmula desta Corte: "encerrada a instruçao criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Além disso, consta que foi feita carga pela Defensoria Pública em 8/6/2022 para apresentação de alegações finais, com devolução dos autos em 30/11/2022, sem a referida peça. Em 3/1/2023 foi efetuada nova carga pela defesa. Segundo as informações prestadas às e-STJ fls. 123/126, " o s autos já foram cobrados ao referido órgão para devolução, sendo cobrados novamente na data de hoje, porém ainda não foram devolvidos".
+Ora, o processo encontra-se com a instrução encerrada há mais de 1 ano, todavia paralisado em razão da não apresentação de alegações finais pela Defensoria Pública. Não obstante, a própria Defensoria impetrou o presente writ alegando excesso de prazo da custódia.
+Nos termos do enunciado nº 64 da Súmula desta Tribunal, "não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa".
+Portanto, não se verifica a existência de ilegalidade a ser sanada.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
