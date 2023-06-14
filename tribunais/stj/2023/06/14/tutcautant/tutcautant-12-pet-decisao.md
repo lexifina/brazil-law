@@ -1,0 +1,5 @@
+DECISÃO
+HEBER PARTICIPAÇÕES S. A., em recuperação judicial, e outras, por meio de sua advogada, Dra. Mariana Ávilla Paldês Rodrigues Davidovich, alegaram a existência de prevenção desta tutela cautelar com o AREsp nº 1.922.733/SP e REsp nº 2.040.597/SP, requerendo a sua distribuição urgente ao Exmo. Ministro MARCO AURÉLIO BELLIZZE, a teor do art. 71 do Regimento Interno do STJ.
+Em resposta ao meu despacho, a Coordenadoria de Processos Originários identificou que haveria impedimento deste Relator para julgar esta ação em virtude de o interessado CONSÓRCIO BDOPRO, Administrador Judicial, ser representado pela Sociedade de Advogados Hasson Sayeg e Novaes Advogados, que consta em sua lista de impedimentos, motivo pelo qual os supracitados processos foram distribuídos ao Exmo. Ministro MA RCO AURÉLIO BELLIZZE (STJ, fl. 3.388).
+Assim sendo, por cautela, consulto S. Exa. acerca de eventual prevenção para a relatoria e processamento deste processo, razão pela qual determino que se lhe encaminhem os autos para apreciação.
+Publique-se. Intimem-se.
