@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JOSÉ DE PAULA FERREIRA FILHO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/02/2023.
+Concluso ao gabinete em: 30/05/2023.
+Ação: de conhecimento, pelo rito ordinário, ajuizada por JULIANA DE PAULA FERREIRA COSTA, MARIA CAROLINA DE PAULA FERREIRA, JÚNIA DE PAULA FERREIRA COSTA e MARCOS DE PAULA FERREIRA, em face do ora agravante.
+Em síntese, os autores narram que as partes são todas herdeiras de José de Paula Ferreira, que, quando faleceu, deixou herança constituída de diversos bens móveis e imóveis. Afirma que o réu, ainda em vida, foi nomeado inventariante, em 1985, e depois destituído, em 1994, por má-gestão, tendo se apropriado de diversas rendas pertencentes ao espólio, sobretudo alugueis de imóveis. Alegam que ele, no entanto, mesmo após esse período, e por cerca de 18 anos, recebeu de má-fé os alugueis dos imóveis, sem informar aos demais herdeiros, conforme apurado em inquérito policial, razão pela qual postulam a condenação do réu: (i) ao pagamento do valor de R$ 2.350.000,00, acrescido dos consectários legais, a partir de 31 de agosto de 2004, pelos valores não repassados entre 1985 e 1995; (ii) ao pagamento de 73,33% de tudo quanto houver recebido a título de alugueis dos imóveis em questão nos 18 anos que antecederam a propositura da ação; (iii) ao pagamento de compensação por danos morais em valor equivalente a 100 salários mínimos, para cada autor.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar o agravante ao pagamento: (i) do valor histórico de R$ 2.350.000,00, devidamente atualizado e acrescido de juros de mora dede 31/08/2004; (ii) da fração de 73,33% dos alugueis indevidamente recebidos entre 2000 e 2013, a ser apurada considerando o valor locatício de 2 salários mínimos, em relação a quinze contratos locatícios diversos, conforme a média de ocupação do período, também acrescido dos consectários legais.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa (e-STJ fl. 1.529):
+"APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - DIREITOS DO ESPÓLIO -APROPRIAÇÃO INDEVIDA DO INVENTARIANTE - PRESCRIÇÃO DA PRETENSÃO DECENAL - CAUSA INTERRUPTIVA COMPROVADA -PREJUDICIAL REJEITADA -PREJUDICIALIDADE COM AÇÕES DE USUCAPIÃO -QUESTÃO DECIDIDA EM DECISÃO INTERLOCUTÓRIA - REAPRECIAÇÃO - IMPOSSIBILIDADE - LIQUIDAÇÃO DE SENTENÇA COMUM - DESNECESSIDADE - MEROS CÁLCULOS
+-O prazo prescricional é àquele vigente à época em que o direito foi violado, sendo vintenário para as ações fundadas em direito pessoal, por força do disposto no art. 177 do Código Civil de 1916.
+-O ajuizamento de ação cautelar de produção de prova é suficiente para interromper a contagem do prazo prescricional decenal e, considerando que entre o trânsito em julgado daquela sentença e o ajuizamento da presente ação não havia transcorrido o prazo, a rejeição da prejudicial deve ser mantida.
+-É vedado ao magistrado reapreciar e proferir nova decisão acerca de matéria já analisada e transitada em julgado, nos termos do art. 471 do Código de Processo Civil, sob pena de afrontar a preclusão pro judicato.
+-Precedendo à ação ordinária, cautelar de produção de prova, no âmbito da qual foi oportunizada ao réu a comprovação dos valores por ele recebidos, a liquidação de sentença deve ser promovida por meros cálculos, nos termos impostos na origem".
+Embargos de declaração: os embargos opostos pelo agravante foram rejeitados; os embargos opostos por CIMON HENDRIGO RURMANN DE SOUZA, seu procurador, foram parcialmente acolhidos, para sanar erro material relativo à majoração dos honorários advocatícios.
+Recurso especial: alega violação dos arts. 206, § 3º, IV e V, do CC/02, 509 do CPC, sustentando que: (i) aplica-se à demanda o prazo de prescrição trienal, por se tratar de pretensão fundada em enriquecimento ilícito; (ii) no tocante aos valores supostamente recebidos pelo recorrente a partir do ano de 2000, deve ser determinada a liquidação pelo procedimento comum, ante a necessidade de prova de fato novo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+O agravante não impugnou, de maneira específica, o fundamento utilizado pelo TJ/MG no sentido de que a pretensão posta nos autos equipara-se à sonegação dos frutos dos bens que compõem a herança, a atrair a incidência do prazo de prescrição decenal.
+Dessa maneira, não rebatido fundamento autônomo do acórdão recorrido, suficiente para a sua manutenção, o conhecimento do recurso especial é inadmissível quanto ao ponto, ante o disposto na Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à viabilidade da liquidação por meros cálculos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa para 15%, esclarecendo que o acréscimo deverá ser suportado exclusivamente pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de conhecimento, pelo rito ordinário, ajuizada em face de co-herdeiro em razão da apropriação indevida de valores pertencentes ao espólio.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
