@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Bruna Marie da Silva Soares (ou Alan Bruno da Silva Soares) - condenada como incursa nos crimes de roubo circunstanciado (por duas vezes) e associação criminosa -, em que se aponta como autoridade coatora o Tribunal de Ju stiça do Rio de Janeiro (Revisão Criminal n. 0064366-77.2022.8.19.0000), não comporta processamento.
+Com efeito, busca a impetração a absolvição da condenação imposta pelo Juízo de Direito da 5ª Vara Criminal da comarca da Capital/RJ ao argumento de que a condenação se encontra fundamentada única e exclusivamente na prova produzida pela acusação não levando em consideração todo conjunto probatório e evidencia nos autos de que a paciente, não cometeram o crime de roubo no qual se encontra condenadas, indo de encontro ao princípio do in dubio pro reo e do art. 386, inciso VII, do CPP (fl. 28).
+Ao que se tem dos autos, a defesa optou por utilizar indevidamente o writ como forma de revisar, pela quarta vez, a condenação imposta e mantida pelas instâncias ordinárias, o que, além de ser inadmissível, é fato que termina por contribuir para o acúmulo de processos sem decisão definitiva.
+Ademais, o acórdão a quo encontra-se em conformidade com a jurisprudência do STJ ao consignar que a decisão protegida pela coisa julgada, garantida constitucionalmente (art. 5º, XXXVI, da CF), somente pode ser rescindida, parcial ou integralmente, quando houver evidente erro judiciário, o que, no caso vertente, não se logrou sequer apontar, sendo certo que a revisão criminal não tem o condão de modificar o livre convencimento que arrimou o juízo de condenação, confirmado na instância revisional, sem a existência de elementos mínimos a demonstrar que a prova não foi devidamente apreciada (fl. 190).
+Assim, inexiste sequer coação ilegal a justificar a concessão de ordem de ofício.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (POR DUAS VEZES) E ASSOCIAÇÃO CRIMINOSA. CONDENAÇÃO. UTILIZAÇÃO INDEVIDA DO WRIT. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. FALTA DE CABIMENTO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
