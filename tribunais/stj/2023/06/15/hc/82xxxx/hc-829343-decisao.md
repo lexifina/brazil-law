@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de FERNANDO DOS SANTOS DE SOUZA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento à Apelação n. 1500872-20.2022.8.26.0567 (fl. 33):
+Apelação. Tráfico de drogas. Recurso do réu Fernando buscando a absolvição por insuficiência probatória e, subsidiariamente, a fixação da pena-base no mínimo legal, aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, abrandamento do regime prisional e a substituição da pena corporal por restritiva de direitos. Recurso ministerial buscando a exasperação das penas básicas. Impossibilidade. Autoria e materialidade comprovadas. Conjunto probatório robusto, suficiente para sustentar a condenação do réu pelo crime de tráfico. Pena - base mantida tal como fixada na r. sentença monocrática, porque bem justificada. Circunstâncias dos fatos que inviabilizam a aplicação do redutor previsto no artigo 33, § 4º, da Lei de Drogas, bem como a substituição da pena corpórea por restritivas de direitos. Recursos não providos.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, no regime inicial fechado, por infração do art. 33, caput, da Lei n. 11.343/2006, por trazer consigo e ter em depósito 4.547,9 g de maconha e 390,07 g de cocaína.
+Busca-se a redução da pena, mediante aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Primeiramente, a sentença condenatória transitou em julgado em 17/3/2023. Nesse caso, o presente writ é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ademais, quanto à dosimetria da pena, consta do acórdão impugnado que, não obstante a grande quantidade de entorpecentes, condição já abordada em fase distinta, temos que o réu mantinha em sua residência várias balanças de precisão, embalagens, a demonstrar que ali se processa e fraciona drogas para posterior distribuição, nos termos das declarações dos policiais militares (fl. 40).
+Afora isso, para que fosse possível a análise do tema, seria imprescindível o reexame de elementos fáticos da lide, o que é inviável na estreita via eleita, que possui rito célere e co gnição sumária.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DROGAS. TRÁFICO. SUCEDÂNEO DE REVISÃO CRIMINAL.
+Habeas corpus não conhecido.
