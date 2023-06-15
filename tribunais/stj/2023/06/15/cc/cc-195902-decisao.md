@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante TESE - TERCEIRIZAÇÃO DE SERVIÇOS LTDA. e suscitados o JUÍZO DE DIREITO DA VARA DE FALÊNCIAS, RECUPERAÇÕES JUDICIAIS, INSOLVÊNCIA CIVIL E LITÍGIOS EMPRESARIAIS DE BRASÍLIA - DF e o JUÍZO DA 14ª VARA DO TRABALHO DE BRASÍLIA - DF.
+Ação em trâmite na Justiça Comum do DF: recuperação judicial da suscitante.
+Ação em trâmite na Justiça do Trabalho: execução trabalhista n. n. 0000746-21.2020.5.10.0014, ajuizada por THAYNARA SALES MATIAS MONTEIRO.
+Conflito de competência: alega, em síntese, que o juízo recuperacional é o único competente para decidir acerca do destino do acervo patrimonial de empresas em recuperação judicial. Aduz que o juízo do trabalho não tem competência para exigir o depósito do seguro da seguradora, tendo em vista que o sinistro somente teria ocorrido após o pedido de recuperação judicial da suscitante.
+Tutela antecipada: deferida às fls. 128/129, e-STJ.
+Parecer do MPF: opinou pela declaração da competência do juízo universal.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência desta Corte assinala que, no curso de execução trabalhista, o depósito da indenização (seguro garantia judicial), pela seguradora, somente pode ser exigido na hipótese de o sinistro ter ocorrido em momento anterior ao deferimento do pedido de recuperação judicial (CC 161.667/GO, Segunda Seção, DJe 31/8/2020).
+Consoante estabelecido no referido julgado: "o pagamento da indenização, pela seguradora, poderá ser determinado (i) se ficar caracterizado o sinistro e (ii) se este tiver ocorrido antes do deferimento do processamento do pedido de recuperação judicial", até mesmo porque essa deliberação de pagamento "não acarreta a diminuição do patrimônio da empresa recuperanda, visto que a incumbência do depósito recairá sobre a companhia seguradora".
+Quanto à configuração do sinistro, consta do precedente ora mencionado que, "uma vez aceito o seguro-garantia, o pagamento da indenização vai depender da ocorrência do fato previsto na apólice como sinistro ou de uma das situações já predeterminadas nas normas da SUSEP: (i) não renovação da apólice ou renovação extemporânea e (ii) inadimplemento das obrigações do tomador cobertas pelo seguro (que não está condicionado ao trânsito em julgado da impugnação, mas à decisão fundamentada do juízo determinando o pagamento)".
+Assim, de acordo com as balizas acima descritas, observa-se que o depósito da indenização pode ser exigido da seguradora na execução trabalhista de que tratam os autos. Isso porque o fato previsto na apólice como sinistro ocorreu antes do deferimento da recuperação judicial da suscitante.
+De fato, a Apólice n. 017412021000107750032872 (e-STJ, fls. 106/120), contratada para assegurar a interposição de recurso ordinário, nos autos da Reclamação Trabalhista n.º 0000746-21.2020.5.10.0014, prevê a caracterização do sinistro nos seguintes casos:
+"Com o não pagamento, pelo Tomador, em razão do trânsito em julgado de decisão ou em razão de determinação judicial, após o julgamento dos recursos garantidos para tanto, nos termos do art. 10, II, "a" do Ato Conjunto TST/CSJT/CGJT nº 1; ou
+b) Com o não cumprimento, pelo Tomador, da obrigação de, em até 60 (sessenta) dias antes do fim de vigência da apólice, não renovar esta apólice ou sua substituí-la por nova garantia suficiente e idônea, nos termos do art. 10, II, "b" do Ato Conjunto TST/CSJT/CGJT nº 1" (e-STJ, fl. 110).
+Logo, como o sinistro (trânsito em julgado do recurso garantido) ocorreu em 28/9/2022, portanto, antes do deferimento do pedido de recuperação judicial da recorrente, em 2/12/2022 (e-STJ, fl. 138), pode o Juízo Laboral exigir o depósito da indenização, não merecendo ser acolhido o conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência e revogo a liminar anteriormente concedida.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. SEGURO GARANTIA JUDICIAL. SINISTRO. OCORRÊNCIA. POSSIBILIDADE DE EXECUÇÃO, PELO JUÍZO LABORAL. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. Nos termos da jurisprudência desta Corte, o depósito da indenização (seguro-garantia judicial), pela seguradora, no curso de execução trabalhista, somente pode ser exigido na hipótese de o sinistro ter ocorrido em momento anterior ao deferimento do pedido de recuperação judicial da empresa executada, como no caso.
+2. Conflito de competência não conhecido. Revogada a liminar anteriormente deferida.
