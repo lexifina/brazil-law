@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE DIADEMA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 320):
+APELAÇÃO CÍVEL EMBARGOS À EXECUÇÃO FISCAL MUNICÍPIO DE DIADEMA INSURGÊNCIA CONTRA R. SENTENÇA QUE EXTINGUIU OS EMBARGOS DEVIDO À AUSENCIA DE GARANTIA INTEGRAL DO JUIZO EXECUTIVO NÃO CABIMENTO DA EXTINÇÃO EXISTÊNCIA DE PENHORA REALIZADA POR MEIO DO SISTEMA BACENJUD EVENTUAL INSUFICIÊNCIA QUE DEMANDA A INTIMAÇÃO DO EMBARGANTE PARA REALIZAR O REFORÇO - PRECEDENTES DO COL. STJ PROSSEGUIMENTO DO FEITO QUE SE IMPÕE SENTENÇA REFORMADA - RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 342/347).
+No especial obstaculizado (e-STJ fls. 349/360), o Município aponta violação do art. 16, § 1º, da Lei n. 6.830/1980 e do art. 485, IV, do CPC/2015. Defende, em síntese, a extinção dos embargos à execução diante da "flagrante insuficiência da garantia", uma vez que "não se encontra atendida condição essencial ao processamento dos embargos" (e-STJ fls. 358/359).
+As contrarrazões foram oferecidas às e-STJ fls. 363/375.
+O recurso não foi admitido diante de ausência de "desrespeito à legislação enfocada" e por encontrar "amparo em entendimento adotado pelo Col. Superior Tribunal de Justiça" (e-STJ fls. 376/377).
+No agravo em recurso especial (e-STJ fls. 380/391), o Município impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+Ao julgar o recurso de apelação, a Corte de origem apoiou-se nos seguintes fundamentos (e-STJ fls. 321/324):
+Pretende a parte embargante que sejam processados seus embargos, ao argumento de que a garantia do juízo necessária para a oposição de embargos à execução foi prestada, ainda que parcialmente.
+Com razão.
+Em primeiro lugar, importa consignar que o disposto no art. 16 da Lei 6830/80 (LEF) é norma especial em relação a disposições existentes no Código Processo Civil e em normas esparsas. Por essa razão, a exigência de garantia do juízo como requisito de admissibilidade da ação, tal como previsto no §1º do mencionado artigo, é devida.
+Não há qualquer contrariedade do disposto na LEF em relação aos princípios do contraditório ou da ampla defesa, previstos no art. 5º, LV, da CF, na medida em que a Carta Cidadã traça apenas normas gerais e abstratas que são garantidas por meio da legislação infraconstitucional e tendem a dar aplicabilidade aos preceitos referidos.
+No caso dos autos, observa-se, tal como alegado pela apelante, que houve o bloqueio de bens do autor por meio do sistema bacenjud no valor de R$ 207.200,43, como se extrai do documento de fls. 148/150, inclusive com o depósito dos valores em conta judicial vinculada ao feito (fls. 153).
+Muito embora o Município apelado tenha acenado pela ausência de penhora integral, por entender que o valor correto referente às execuções apensadas era de R$ 232.115,61, requereu a intimação do executado para a complementação do valor.
+Contudo, não se verifica nos autos que tenha havido referida providência. A consulta aos autos, ademais, revela que inicialmente considerou a suficiência da garantia (fls. 170) e, após impugnação do Município, determinou a suplementação (fls. 204).
+O embargante, por sua vez, em que pese sustente a suficiência do recurso, ressalta que o Município não apontou o valor devido e acresceu que "uma vez constatada a insuficiência da garantia do juízo da execução, deve ser dada à embargante a oportunidade de complementar a garantia, antes da medida extrema de extinção dos embargos do devedor" (fls. 211).
+A despeito disso, houve a prolação da r. sentença de extinção do feito sem que tenha sido analisado o pedido veiculado pelo embargante.
+Com efeito, antes de ser reconhecida a extinção do feito deve ser concedido ao embargante, caso demonstrada a insuficiência de garantia, prazo para que realize a complementação, nos termos do requerido a fls. 206/223.
+Não é demais lembrar que tanto a norma processual vigente quanto a jurisprudência iterativa dos tribunais estaduais e superiores vão no sentido de que deve ser privilegiado o julgamento de mérito das questões em detrimento de formalidade de somenos importância, em especial quando não causar prejuízo às partes.
+De outro giro, importa lembrar que, ainda que tenha sido parcial o bloqueio, nem por isso devem ser rejeitados os embargos à execução, sendo dispensável em alguns casos inclusive o reforço de penhora. Esse, aliás, o sentido do REsp 1127815/SP, submetido ao regime de recursos repetitivos (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 24/11/2010, DJe 14/12/2010).
+Por essas razões, a r. sentença deve ser reformada, de modo a que os embargos à execução opostos sejam processados.
+Vale frisar não estar o feito apto a pronto julgamento, nos termos do art. 1.013, §3º, do CPC, na medida em que sequer houve o devido processamento dos embargos, com a manifestação adequada do Município.
+Por fim, para viabilizar eventual acesso às vias extraordinária e especial, considera-se prequestionada toda a matéria suscitada, observando-se que o art. 1.025, do Código de Processo Civil estabelece que "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados..", e o entendimento do STJ no sentido de que "há falar em negativa de prestação jurisdicional ante a análise das questões necessárias à solução da controvérsia, não configurando negativa de prestação jurisdicional a ausência de prequestionamento numérico." (AgInt nos EDcl no REsp 1787184/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+Ante o exposto, dou provimento ao recurso.
+Pois bem.
+O apelo não pode ser conhecido, uma vez que a seguinte fundamentação do julgado recorrido não foi objeto de impugnação nas razões do recurso especial deduzido pelo Município (e-STJ fls. 323/324):
+De outro giro, importa lembrar que, ainda que tenha sido parcial o bloqueio, nem por isso devem ser rejeitados os embargos à execução, sendo dispensável em alguns casos inclusive o reforço de penhora. Esse, aliás, o sentido do REsp 1127815/SP, submetido ao regime de recursos repetitivos (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 24/11/2010, DJe 14/12/2010).
+Por essas razões, a r. sentença deve ser reformada, de modo a que os embargos à execução opostos sejam processados.
+Vale frisar não estar o feito apto a pronto julgamento, nos termos do art. 1.013, §3º, do CPC, na medida em que sequer houve o devido processamento dos embargos, com a manifestação adequada do Município.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
