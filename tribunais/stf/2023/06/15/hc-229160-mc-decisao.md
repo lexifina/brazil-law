@@ -1,0 +1,27 @@
+Decisão: Decisão: 1. Trata-se de habeas corpus impetrado contra acórdão que, proferido no âmbito do Superior Tribunal de Justiça, restou assim ementado (eDOC 3):
+
+    PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/06. DESCABIMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE COMPROVADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME PRISIONAL ADEQUADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. SUBSTITUIÇÃO DA PENA CORPORAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. II - O Tribunal de origem apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente. III - Para tanto, destacou a sentença condenatória, o modus operandi do crime onde a corré "transportava a droga escoltada por dois outros veículos ocupados pelos demais denunciados, que os conduziam em frente a ela. Dessa forma, motivados por denúncias anônimas, os policiais militares montaram blitz no pedágio instalado no km 581 + 700m, no município de Lucélia, ali foram abordados 03 veículos [...] No veículo COROLA estavam os ALLEF, LETÍCIA e VALDEMIR, que tentou empreender fuga, inclusive jogando o veículo na direção dos dois policiais" (fl. 36). IV - Consignando, ainda, a Corte de origem que "tendo em vista as circunstâncias que envolveram a prisão dos réus, em especial a quantidade e a situação da droga encontrada - repito -, em grande quantidade destinada a abastecer a rede de tráfico, não há dúvida que ALLEF, MATEUS, JAQUELINE, STEPHANIE, CÉSAR, LETÍCIA e VALDEMIR possuem sério envolvimento com a máquina criminosa que movimenta o comércio ilícito de entorpecentes" (fl. 32). V - Outrossim, insta consignar que "não há bis in idem na dosimetria da pena, quando, para justificar a impossibilidade de aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, são mencionados, além da quantidade de drogas apreendidas, outros elementos concretos dos autos que permitem a conclusão de que o agente se dedica a atividades criminosas ou integra organização criminosa" (AgRg no HC n. 728.459/MT, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/6/2022, grifei). VI - Assim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus. VII - No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal. VIII - In casu, verifico que inexiste flagrante ilegalidade a ensejar a concessão da ordem de ofício, uma vez que a valoração negativa das circunstâncias judicias indicadas no acórdão, justifica a fixação do regime fechado para o início do cumprimento da pena. IX - Mantida pena superior a 4 anos de reclusão, não há se falar em substituição da corporal por restritiva de direito, nos termos do art. 44, inciso I, do Código Penal. Agravo regimental desprovido.
+
+    Buscam os impetrantes, em suma, inclusive em caráter liminar, o redimensionamento da pena e a modificação do regime inicial impostos ao paciente pela prática do crime de tráfico de drogas, sob a assertiva de que ausente fundamentação idônea a amparar a inaplicabilidade do privilégio previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+
+    É o relatório. Decido.
+
+    2. O deferimento da tutela de urgência, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (fumus boni juris), de um lado; e a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora), de outro. Sem que concorram esses dois requisitos, essenciais e cumulativos, não se legitima a concessão da medida liminar.
+
+    Outrossim, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, que somente se justifica – sobretudo quando de caráter exauriente, como in casu - quando a situação demonstrada nos autos representar manifesto constrangimento ilegal.
+
+    3. Em um juízo de cognição sumária do caso, porém, próprio desta fase processual, não depreendo ilegalidade flagrante a justificar a concessão da tutela de urgência.
+
+    Sendo assim prima facie, sem prejuízo de ulterior reapreciação da matéria no julgamento final da presente reclamação, indefiro a liminar.
+
+    4. Suficientemente instruídos, encaminhem-se os autos ao Ministério Público Federal.
+
+    Publique-se.
+
+    Brasília, 15 de junho de 2023.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
