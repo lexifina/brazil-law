@@ -1,0 +1,37 @@
+DECISÃO
+FÁBIO AUGUSTO CASTRO CARREIRA interpõe recurso especial com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1506087-26.2019.8.26.0132.
+Consta dos autos que o ora recorrente foi condenado à pena de 5 anos de reclusão, no regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação aos arts. 33, § 4º, e 42 da Lei n. 11.343/2006 e aos arts. 33, § 2º, 44 e 59 do Código Penal. Sustenta ser de rigor o reconhecimento do privilégio no tráfico, com a consequente fixação do regime aberto e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decisão de admissibilidade à fl. 602.
+Instado a se manifestar, o Ministério Público Federal opinou pelo des provimento do recurso especial.
+Decido.
+I. A minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+A Corte estadual afastou o privilégio no tráfico com base nos fundamentos seguintes (fl. 186):
+Prejudicada a circunstância atenuante da confissão (Súmula/STJ 231), na terceira fase, considerando que "o acusado é primário, não possui antecedentes criminais e não há prova de seu envolvimento em organização criminosa ou que se dedique a atividade criminosa", foi aplicado o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na proporção de 1/2.
+Nessa quadra, com todo o respeito, de rigor o afastamento da benesse, diante da significativa quantidade de produtos apreendidos com o Apelante, que o desclassifica como traficante eventual, não havendo que se falar em bis in idem.
+Com efeito, tal circunstância não foi considerada quando da pena-base e, ainda que o fosse, prevalece que:
+ ..
+Força, portanto, a manutenção da pena, como de início arbitrada e que, assim, estabiliza em 5 anos de reclusão, e 500 dias-multa, no valor de piso.
+No caso, conforme visto, o Tribunal de origem considerou indevida a aplicação do redutor com fundamento na apreensão de grande quantidade de drogas com o réu. Tal circunstância levou à conclusão de que o réu dedicar-se-ia a atividades criminosas, especialmente ao narcotráfico.
+Contudo, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Assim, uma vez que, no caso, a quantidade da droga apreendida foi sopesada para, isoladamente, levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Ante a ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve o recurso ser provido nesse ponto, a fim de aplicar, em favor do acusado, o referido benefício.
+Destaco, ademais, que, ao tempo do delito, o réu era tecnicamente primário e possuidor de bons antecedentes e que, no contexto da prisão em flagrante, não foram apreendidos outros apetrechos destinados à traficância, anotações relativas ao comércio reiterado de drogas ou rádio transmissor.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Destarte, aplico a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas no patamar de 2/3. Isso porque, além de haver sido apreendida droga de natureza menos deletéria, a quantidade não foi excessiva: 174,7 gramas de maconha.
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via recursal. O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos que já estão delineados nos autos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Nova dosimetria
+Realizo, portanto, nova dosimetria.
+Na primeira fase, a reprimenda-base foi estabelecida no mínimo legal. Na segunda fase, a circunstância atenuante da confissão não tem o condão de reduzir a pena aquém do mínimo. Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+III. Consectários - regime e substituição
+Como consectário da redução efetivada na pena do recorrente, deve ser procedido ao ajuste no regime inicial do seu cumprimento.
+Uma vez que ele foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, confessou a prática delitiva, teve a pena-base fixada no mínimo legal, foi beneficiado com o privilégio no tráfico e foi apreendido com quantidade de drogas não excessiva, deve ser estabelecido o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal, de maneira que deve ser concedido o habeas corpus também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+IV. Dispositivo
+À vista do exposto, dou provimento ao recurso, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 no patamar de 2/3. Redimensiono, assim, e a reprimenda do réu para 1 ano e 8 meses de reclusão, no regime inicial aberto (determinando que se proceda à substituição da pena) e pagamento de 166 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as prov idências cabíveis.
+Publique-se e intimem-se.
