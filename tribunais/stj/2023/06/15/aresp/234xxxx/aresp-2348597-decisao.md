@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA LUCIMAR DE OLIVEIRA DE JESUS, FERNANDA OLIVEIRA DE JESUS, FLAVIA FRANCESCA OLIVEIRA DE JESUS e FRANCIANE OLIVEIRA DE JESUS, contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alegam as agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0015423-43.2011.8.19.0023) assim ementado (fl. 2.783):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS. RESCISÃO CONTRATO DE LOCAÇÕES DE IMÓVEL DESTINADO A FINS COMERCIAIS. RESPONSABILIDADE CIVIL. CONTAMINAÇÃO DO SOLO E LENÇOL FREÁTICO. RESCISÃO DE CONTRATO DE LOCAÇÃO EM VIRTUDE DE AUSÊNCIA DE LICENÇA AMBIENTAL E HABITE-SE. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DAS AUTORAS E PRIMEIRA RÉ. AUTORAS apelam alegando a responsabilidade solidária da segunda ré e a ocorrência de danos morais indenizáveis ante a rescisão contratual de locador comercial devido a contaminação no solo promovida pela primeira ré. PRIMEIRO RÉU apela alegando ausência de nexo de causalidade entre os danos ambientais por ele causados e rescisão contratual com locatário. Sentença reformada. Recursos conhecidos, improvido o apelo das autoras e provido o do primeiro réu, nos termos do voto do Desembargador Relator.
+Os embargos de declaração opostos foram rejeitados (fls. 2.833-2.836).
+No recurso especial, as recorrentes  apontam violação dos seguintes artigos: 3º, caput, IV, e 14, § 1º, da Lei n. 6.938/1981; 942 do CC; e 18, § 1º, da Lei n. 9.847/1999. Defendem , em síntese, a responsabilidade objetiva e solidária entre as recorridas pelos danos ambientais sofridos, tanto moral quanto material.
+Aduzem ainda dissídio jurisprudencial.
+Requer  em  o  conhecimento  e  o  provimento  do  recurso.
+As contrarrazões foram apresentadas (fls. 829-838).
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o Tribunal de origem analisou as questões e, assim, decidiu (fls. 2.793-2.794):
+No entanto, o que se extrai dos autos é ausência de comprovação do nexo causal que vincule possível conduta da segunda ré, COSAN LUBRIFICANTES E ESPECIALIDADES S. A., ao dano suportado pelas autoras. Nesse mesmo sentido, não restou provado pelas autoras a conduta culpa (latu sensu) da segunda ré, seja por dolo, negligência, imprudência ou imperícia.
+ ..
+Na mesma lógica, não se debate aqui a responsabilidade solidária no âmbito do Direito Ambiental, que com fundamento no art. 3º, IV da Lei 6.938/1981, qualifica poluidor como, in verbis, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental.
+A presente lide versa sobre a responsabilidade civil solidária dos danos sofrido por terceiros como consequência de danos ambientais causados pela atividade econômica explorada pelo primeiro réu. Aqui, as questões ambientais são secundárias, a pesada importância da questão ambiental envolvida, da extensão dano a ele causado e a seriedade que o tema deva ser tratado.
+Portanto, admitir uma possível solidariedade entre os réus no caso em voga, violaria toda a lógica de um ordenamento jurídico civilista, além de compelir terceiro de boa-fé a responder por um dano o qual não causara de forma direta devido à ausência de nexo e culpa, essenciais para o dever de indenizar.
+No que se refere ao dano moral carece as autoras apelantes de fundamento com base nos mesmos argumentos expostos quanto a ausência dos requisitos do dever de indenizar na responsabilidade civil.
+Isso porque constatado ausência de nexo e de culpa, não há em que se falar em dever de indenizar, ainda que moralmente.
+Adicionalmente ao argumento já discorrido, extrai-se dos fatos narrados pelas autoras, ora apelantes, ausência de violação de quaisquer direitos inerentes personalidade capaz de acarretar dor, transtorno, aflição ou abalo capaz de ensejar danos morais requeridos. Em que pese o descontentamento da rescisão do contrato de aluguel entre as autoras e o Banco Santander, os danos perfazem apenas a órbita material pois limitam-se tipicamente a esfera patrimonial.
+Quanto à alegação de ofensa violação dos arts. 3º, caput, IV, e 14, §1º, da Lei n. 6.938/1981, 942 do CC e 18. § 1º, da Lei n. 9.847/1999, a Corte de origem concluiu que inexiste responsabilidade solidária, assim como inexiste danos morais indenizáveis, razão pela qual consignou que "admitir uma possível solidariedade entre os réus no caso em voga, violaria toda a lógica de um ordenamento jurídico civilista" e que, a pesar do "o descontentamento da rescisão do contrato de aluguel entre as autoras e o Banco Santander, os danos perfazem apenas a órbita material pois limitam-se tipicamente a esfera patrimonial" (fl. 2.794).
+Nesse contexto, a adoção de conclusões diversas daquelas a que chegou o acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DOS DEMANDANTES.
+ ..
+6. Nos termos da jurisprudência desta Corte a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, incidindo o óbice da Súmula 7/STJ.
+ ..
+8. Agravo interno parcialmente provido, tão somente para que os juros de mora sobre a verba indenizatória incidam desde o evento danoso. (AgInt no REsp n. 1.679.413/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SEGUIMENTO NEGADO COM FUNDAMENTO NO ART. 1.030, I, B, DO CPC/2015. INTERPOSIÇÃO DE AGRAVO NOS TERMOS DO ART. 1.042 DO CPC/2015, AO INVÉS DE AGRAVO INTERNO. CONFIGURAÇÃO DE ERRO GROSSEIRO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA . 3. OFENSA A RESOLUÇÃO. NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. 4. HORAS EXTRAS. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. EQUILÍBRIO ATUARIAL E FONTE DE CUSTEIO. OBSERVÂNCIA. 5. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. 6. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Modificar o entendimento do Tribunal local (acerca do percentual fixado como honorários advocatícios e da distribuição da sucumbência) exigiria reexame de matéria fático-probatória, também inviável devido ao óbice da Súmula 7/STJ.
+ ..
+7 . Agravo interno desprovido. (AgInt no REsp n. 2.004.199/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 17% sobre o valor atualizado da causa.
+Publique-se.  Intimem-se.
