@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BANCO DO BRASIL SA, contra decisão que não admitiu recurso especial (fls. 430/431 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 375, e-STJ):
+APELAÇÃO AÇÃO CIVIL PÚBLICA EXPURGOSINFLACIONÁRIOS CUMPRIMENTO DE SENTENÇA Matérias aduzidas em sede de impugnação, previamente decididas e sem interposição de recurso Apelo em que se apresentam nas razões recursais as mesmas matérias anteriormente debatidas e solucionadas em primeiro grau Decisão anterior que se apresenta irrecorrível Impossibilidade de retroceder no tempo para ver a argumentação reapreciada Preclusão. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 384/386, e-STJ).
+Nas razões do apelo extremo (fls. 388/420, e-STJ), o Recorrente aponta ofensa aos artigos 369, 17, 18, 240, 485, inciso VI, 509, 515, 516, 783, 917, 1.036 do CPC/2015; 16 da Lei nº 7347/1985; 95, 97 e 98 do CDC, 405 do CC, 5º, XXI, da CF. Sustenta, em síntese: (i) a necessidade de suspensão dos processos que tenham por objeto matéria sobre expurgos inflacionários; (ii) cerceamento de defesa por não ter sido enfrentadas as questões suscitadas; (iii) a ilegitimidade ativa dos poupadores por ausência de comprovação de vínculo associativo ao IDEC; (iv) a inexigibilidade da sentença coletiva fora dos limites territoriais do órgão prolator; (v) a impossibilidade de condenação ao pagamento dos honorários advocatícios; (vi) o marco inicial para a incidência dos juros de mora é a citação para a liquidação de sentença; e (vii) a inaplicabilidade da Tabela Prática para atualização das contas de poupança, devendo ser utilizados os índices de remuneração próprios das cadernetas de poupança.
+Sem contrarrazões (fl. 429, e-STJ), o apelo não foi admitido na origem (fls. 430/431, e-STJ), dando ensejo ao agravo (fls. 529/543, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 608, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Cabe destacar, no tocante à dita ofensa ao art. 5º, XXI, da Constituição Federal, que a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Por fim, constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca dos arts. 369, 17, 18, 240, 485, inciso VI, 509, 515, 516, 783, 917, 1.036 do CPC/2015; 1 6 da Lei nº 7347/1985; 95, 97 e 98 do CDC, 405 do CC, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial, porquanto a Corte local entendeu que as matérias foram apreciadas em sede de impugnação, restando, portanto, preclusas (fl. 376, e-STJ).
+Saliente-se, ainda, que o agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de atender ao aludido requisito de admissibilidade ou à pretensa alegação de negativa de prestação jurisdicional.
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
