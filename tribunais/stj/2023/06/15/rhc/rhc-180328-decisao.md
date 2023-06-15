@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Marcelo Valle Silveira Mello, contra acórdão do Tribunal Regional Federal da 3ª Região proferido no julgamento do HC n. 5030186-27.2022.4.03.0000.
+Consta dos autos que o Juízo Corregedor da Penitenciária Federal de Campo Grande/MS indeferiu o pedido do recorrente de progressão de regime prisional.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual foi indeferido liminarmente em decisão monocrática, confirmada pelo órgão colegiado, nos termos do acórdão assim ementado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PEDIDO DE PROGRESSÃO DE REGIME INDEFFERIDO. IMPETRAÇÃO NÃO CONHECIDA. UTILIZAÇÃO INADEQUADO DO REMÉDIO CONSTITUCIONAL DE HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+- O conhecimento e análise do objeto da impetração, quando utilizada pela via de habeas corpus, configura desvio de finalidade do próprio remédio constitucional.
+- Prejudicado também o devido processo legal, pois com a interposição do recurso previsto em lei, no caso, o Agravo em Execução, o órgão do Ministério Público Federal, oficiante em primeiro grau pode novamente se manifestar sobre o caso em concreto, bem como o MM. Juízo a quo pode rever sua decisão. Decisão fundamentada.
+- Pedido de progressão de regime prisional do ora paciente indeferido, após manifestação do Ministério Público Federal pela não concessão do benefício, em razão dele possuir má conduta carcerária, conforme certidão encaminhada pelo Diretor do Presídio de Campo Grande/MS.
+- Paciente que não cumpriu os requisitos objetivos para concessão do benefício, em razão da sua má conduta carcerária, não havendo constrangimento ilegal a ser sanado de ofício.
+- Reanalisar o posicionamento adotado implicaria um exame aprofundado do conjunto probatório dos autos originários, tanto que foi anexado ao presente a íntegra do writ processo de execução penal e outros documentos, totalizando mais de 2800 (duas mil e oitocentos) páginas, providência incabível na via estreita do habeas corpus.
+- Agravo regimental desprovido." (fl. 2.896).
+No presente recurso, a defesa aduz a ocorrência de ilegalidade na decisão que indeferiu o pleito de progressão de regime do apenado.
+Assevera que "não há como argumentar que deveria o ora recorrente ter manejado agravo de execução, ao invés de habeas corpus. Com efeito, o habeas corpus é o instrumento constitucional dado ao preso que, não raro mergulhado na desesperança, tem em tal ação o seu derradeiro baluarte" (fl. 2.910).
+Por tal razão, "requer o conhecimento e provimento do presente recurso de modo que seja determinada a análise do mérito do habeas corpus pelo Tribunal Regional Federal da 3ª Região, uma vez que patente o cabimento do writ para esse fim" (fl. 2.911).
+O Ministério Público Federal opinou pelo não conhecimento do recurso ou, se conhecido, pelo provimento para determinar ao TRF 3º Região que analise o mérito das questões apresentadas no writ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Verifico que as irresignações da defesa não foram debatidas no acórdão atacado, o qual entendeu pelo descabimento da análise dessas questões no âmbito de mandamus. Assim, fica inviabilizado o exame direto das referidas questões por esta Corte Superior, sob pena de incidir em indevida supressão de instância. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE MORA NA APRECIAÇÃO DO PEDIDO. EXCESSO DE PRAZO DEVIDAMENTE JUSTIFICADO. SUPERVENIENTE EXAME PELO JUÍZO DA EXECUÇÃO. PLEITO PREJUDICADO. DESPROVIMENTO DO RECLAMO.
+1. A via eleita revela-se inadequada para insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede seu formal conhecimento.
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+3. Quanto ao excesso de prazo na apreciação do pedido de progressão, verificou-se que a demora foi devidamente justificada e, posteriormente, o pleito foi examinado, tornando prejudicado o pedido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) - ENSINO FUNDAMENTAL. INSURGÊNCIA CONTRA A QUANTIDADE DE DIAS REMIDOS NÃO ANALISADA PELO ACÓRDÃO IMPUGNADO. IMPOSSIBILIDADE DE ANÁLISE, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. CURSO PROFISSIONALIZANTE. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. INIDONEIDADE DO CERTIFICADO APRESENTADO. REVISÃO. IMPOSSIBILIDADE ANTE A INVIÁVEL REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS NA VIA DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de constrangimento ilegal relativo ao número de dias de remição em razão da aprovação no ENCCEJA não foi apreciada pelo acórdão impugnado, ao argumento de que a remição foi concedida pela primeira instância há tempo demasiadamente longo, não comportando mais ser reformada. Desse modo, o agravo em execução interposto na origem não foi conhecido quanto ao tema, que não pode, portanto, ser revisado por esta Corte Superior, sob pena de supressão de instância.
+2. Nos termos do § 2.º do art. 126 da Lei de Execuções Penais e do inciso I do art. 1.º da Resolução n. 44/2013 do CNJ, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim.
+3. Na hipótese dos autos, o Juízo das Execuções Criminais, referendado pelo Tribunal de origem, adotou a compreensão de que "não há informações de que o Instituto que ministrou o curso profissionalizante cursado pelo Reeducando seja conveniada com o Poder Público". Ademais, o acórdão impugnado deixou assentado que a declaração de conclusão de curso apresentada é precária, pois não consta todas as informações necessárias.
+4. Mesmo que se considerasse desnecessário o credenciamento da instituição de ensino, a inidoneidade da declaração de conclusão do curso profissionalizante afirmada pela origem é um dado que, para ser revisto, demanda o imprescindível reexame do acervo fático-probatório dos autos, o que é inviável na estreita via do habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 574.605/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/9/2020, DJe de 22/9/2020.)
+De outra parte, registra-se a impossibilidade de se determinar que o Tribunal de origem aprecie o mandamus lá impetrado, pois a análise da tese da defesa, como bem anotado na decisão agravada demandaria o exame aprofundado de provas, providencia incabível na via eleita.
+Por tais razões, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
