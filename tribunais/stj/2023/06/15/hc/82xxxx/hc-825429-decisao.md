@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Luis Ricardo Ferrari, no qual se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a Revisão Criminal n. 2035107-71.2023.8.26.0000, referente à Ação Penal n. 1500630-32.2020.8.26.0567.
+Aqui, a defesa alega que o paciente sofre constrangimento ilegal, pois a busca pessoal realizada pelos guardas que serviram como testemunhas é antinormativa. Ademais, estes guardas municipais que serviram como testemunhas atualmente estão sendo processados por crime de tortura praticado durante o exercício do múnus público (fl. 5).
+Afirma que, para além da situação pessoal das testemunhas, o paciente também sofre constrangimento ilegal porque a busca pessoal, que levou ao posterior encontro de drogas, não observou as determinações dos arts. 240, § 2º, e 244 do CPP. Isso acarreta a exclusão da prova da autoria e materialidade (fl. 8).
+Requer, assim, concessão da ordem de habeas corpus em favor LUIS RICARDO FERRARI, diante da nulidade da prova, quer porque a Defesa comprova a falta de credibilidade das testemunhas em razão de descobertas recentes de que eram envolvidas, na qualidade de servidores públicos, em ilícitos, quer porque houve mudança jurisprudencial a respeito da forma de atuação da Guarda Municipal. Consequentemente, espera-se a absolvição com fulcro no art. 386, inciso II, do CPP (fl. 12).
+Informações prestadas (fls. 218/286), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 288/292).
+Este processo foi a mim distribuído em razão do HC n. 663.756/SP.
+É o relatório.
+Busca-se, na presente impetração, a declaração de nulidade das provas obtidas mediante diligência realizada pela Guarda Municipal.
+O Tribunal a quo, no acórdão ora impugnado, afirmou que (fls. 115/119 - grifo nosso):
+ ..
+Nessa análise, verifica-se ser de todo improcedente a arguição de nulidade por suposta ilegalidade na abordagem dos guardas municipais.
+Conforme dispõe o art. 240, § 2º, do Código de Processo Penal, para a realização de busca pessoal é necessária a presença de fundada suspeita de que a pessoa abordada "oculte consigo arma proibida" ou esteja na posse de "coisas achadas ou obtidas por meios criminosos", "instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos", "armas e munições, instrumentos utilizados na prática de crime ou destinados a fim delituoso", "objetos necessários à prova de infração ou à defesa do réu", "cartas, abertas ou não, destinadas ao acusado ou em seu poder, quando haja suspeita de que o conhecimento do seu conteúdo possa ser útil à elucidação do fato" e para " colher qualquer elemento de convicção".
+Realmente, é o que aqui se verifica, segundo se colhe dos autos, o réu foi visto em local conhecido como ponto de venda de drogas, fazendo contato com um indivíduo numa motocicleta, sendo que ambos tentaram fugir ao notarem a presença da viatura, tendo o acusado dispensado uma pochete debaixo de um carro, o que causou estranheza aos agentes, que por isso decidiram realizar a abordagem, ocasião em que localizaram os entorpecentes.
+Com efeito, a despeito das ponderações tecidas na revisão criminal, os guardas civis municipais estão autorizados e legitimados, dentro do princípio de autodefesa da sociedade, a prender quem se encontrar em flagrante delito e, também, nessas circunstâncias, a apreender objetos e instrumentos do crime, a teor do que dispõem a Constituição Federal em seu art. 5º, LXI e o Código de Processo Penal, no art. 301.
+ ..
+Assim, não há falar em ilegalidade da conduta dos guardas municipais e da consequente prisão em flagrante do peticionário e apreensão dos tóxicos que ele portava.
+Portanto, nesse aspecto não prospera a revisão criminal intentada.
+ ..
+Pois bem. Nesta Corte, é pacífica a orientação de que os integrantes da Guarda Municipal têm função delimitada, não tendo atribuição de policiamento ostensivo, podendo, todavia, atuar em situação de flagrante delito, respaldada no comando legal do art. 301 do Código de Processo Penal. Nesse sentido: AgRg no HC n. 711.356/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/4/2022, DJe 3/5/2022.
+No presente não ficou consignado que os policiais haviam presenciado o paciente vendendo entorpecentes ou mesmo praticando qualquer outro delito que justificasse sua apreensão. Nesse contexto, não se pode admitir que a posterior situação de flagrância, por se tratar o tráfico de delito que se protrai no tempo, justifique a atuação dos guardas municipais realizada ilegalmente.
+Sobre o tema, confiram-se:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. QUANTIDADE DE DROGAS E GERENCIAMENTO DO TRÁFICO NA LOCALIDADE. PRISÃO EM FLAGRANTE. GUARDA MUNICIPAL. DENÚNCIA ANÔNIMA. INVESTIGAÇÃO CRIMINAL. ILEGALIDADE. INEFICÁCIA DA PROVA. ORDEM CONCEDIDA. EFEITO EXTENSIVO.
+1. Consta do decreto prisional fundamentação que em princípio deve ser considerada idônea, com esteio na quantidade de droga apreendida com a paciente - 104,60g de maconha e 112,24g de cocaína - e no fato de (supostamente) gerenciar o tráfico de drogas na localidade.
+Precedentes.
+2. Na hipótese, entretanto, os guardas municipais "receberam denúncia anônima no sentido de que no endereço  ..  estaria ocorrendo uma reunião de dirigentes do tráfico de drogas de Sertãozinho e que lá estaria guardada grande quantidade de drogas, razão pela qual se dirigiram ao local".
+3. Desempenhada atividade de investigação criminal pela guarda municipal, deflagrada mediante denúncia anônima, desbordante da situação de flagrância (art. 302 - CPP), o que não lhe compete (art. 144, § 8º - CF), deve ser reconhecida a ilegalidade por ilicitude da prova, mormente pelo ingresso no domicilio sem ordem judicial.
+4. Habeas corpus concedido para declarar ilegal a apreensão das drogas e, consequentemente, trancar a ação penal ajuizada contra a paciente KATIANE LOURDES DE OLIVEIRA, com extensão do resultado aos demais corréus (art. 580 - CPP). (HC n. 667.461/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, julgado em 14/9/2021, DJe 17/9/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. PROVA ILÍCITA. REVISTA PESSOAL E VEICULAR REALIZADA POR GUARDA MUNICIPAL. SITUAÇÃO DE FLAGRÂNCIA. JUSTA CAUSA NÃO VERIFICADA. ILEGALIDADE. OCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Considera-se ilícita a busca pessoal, domiciliar e veicular executadas por guardas municipais sem a existência de elementos reais e necessários para a efetivação da medida invasiva, nos termos do art. § 2º do art. 240 do CPP.
+2. A busca pessoal e veicular ocorridas apenas com base em denúncia anônima, sem a indicação de dado concreto sobre a existência de justa causa para autorizar a medida invasiva, impõe o reconhecimento da ilicitude das provas.
+3. Agravo regimental improvido.
+(AgRg no HC n. 679.430/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/9/2021, DJe 27/9/2021)
+HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA ILÍCITA. REVISTA PESSOAL. AUSÊNCIADE FUNDADAS SUSPEITAS. ILEGALIDADE. OCORRÊNCIA. ABSOLVIÇÃO. HABEAS CORPUS CONCEDIDO.
+1. Considera-se ilícita a revista pessoal realizada sem a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. § 2º do art. 240 do CPP, bem como a prova derivada da busca pessoal.
+2. Se não havia fundadas suspeitas para a realização de busca pessoal no acusado, não há como se admitir que a mera constatação de situação de flagrância, posterior à revista do indivíduo, justifique a medida. Assim, o fato de o acusado se amoldar ao perfil descrito em denúncia anônima e ter empreendido fuga ante a tentativa de abordagem dos policiais militares, não justifica, por si só, a invasão da sua privacidade, haja vista a necessidade de que a suspeita esteja fundada em elementos concretos que indiquem, objetivamente, a ocorrência de crime no momento da abordagem, enquadrando-se, assim, na excepcionalidade da revista pessoal.
+3. Habeas corpus concedido para reconhecer a nulidade das provas obtidas a partir da busca pessoal realizada, bem como as delas derivadas, anulando-se a sentença para que outra seja prolatada, com base nos elementos probatórios remanescentes. (HC n. 625.819/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2021)
+Portanto, deve ser acolhido o pleito de decretação de nulidade da diligência realizada pelos guardas municipais, bem como de ilicitude da prova resultante (apreensão de drogas), absolvendo o paciente.
+Ante o exposto, concedo a ordem para, reconhecendo a nulidade das provas obtidas na busca pessoal, bem como as delas derivadas, absolver o paciente, com fundamento no art. 386, II, do Código de Processo Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS OBTIDAS. ATUAÇÃO DOS GUARDAS MUNICIPAIS COMO POLÍCIA OSTENSIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
