@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por DINAH DOS SANTOS LEAL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão do Tribunal Regional Federal da 2ª Região.
+Narram os autos que a ora recorrente impetrou o subjacente mandado de segurança em face do DIRETOR DO SERVIÇO DE VETERANOS E PENSIONISTAS DA MARINHA DO BRASIL, objetivando provimento jurisdicional para que a autoridade impetrada se abstenha de cancelar a pensão militar recebida pela parte impetrante - na condição de viúva - que vem recebendo desde 1978, posteriormente acumulada com pensão especial de ex-combatente (na condição de filha) e aposentadoria por idade, paga pelo INSS.
+A sentença que denegou a segurança foi confirmada pelo Tribunal de origem, nos termos da ementa que segue (fl. 150):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PENSÃO MILITAR. INCIDÊNCIA DA LEI3.765/60. SÚMULA 60 DO TRF2. TRÍPLICE CUMULAÇÃO. IMPOSSIBILIDADE. DECADÊNCIA DODIREITO DE A ADMINISTRAÇÃO ANULAR OS PRÓPRIOS ATOS. ART. 54 DA LEI 9.784/1999. INOCORRÊNCIA. APELAÇÃO DESPROVIDA.
+1. Trata-se de Apelação em face da Sentença que denegou a segurança nos autos de Mandado de Segurança em que a Impetrante objetivava a manutenção do pagamento da Pensão Militar oriunda do falecimento de seu cônjuge.
+2. A Impetrante é aposentada por idade pelo INSS, beneficiária de pensão especial de ex-combatentes da Segunda Guerra Mundial, além de perceber pensão pela morte do cônjuge militar, benefício, este, objeto do litígio.
+3. Consoante orientação firmada pelo Supremo Tribunal Federal, o evento material que importa no surgimento do direito do dependente à fruição de uma pensão é a morte do indivíduo de quem dependia, tenha sido ele servidor civil, militar ou segurado da Previdência Social.
+4. O ex-militar, cônjuge da Impetrante, faleceu em 19/08/1978, ou seja, a legislação que regia a matéria, à época, era a Lei nº 3.765/60, em sua redação original, segundo a qual a Demandante satisfazia a condição de herdeira.
+5. A legislação de regência limita a cumulação de pensão militar a um só outro benefício (pensão ou aposentadoria), vedando, assim, a tríplice acumulação. Além de o Enunciado Sumular nº 60 desta E. Corte reconhecer expressamente a impossibilidade de cumulação da pensão de ex-combatente com qualquer outro benefício.
+6. Não se pode falar em direito adquirido por parte da Impetrante, nem mesmo na ocorrência de decadência administrativa, uma vez que a manutenção da concessão ilegal de benefício consiste em ato nulo, e não anulável, devendo ser invalidado a qualquer tempo. Por essa razão, não se convalida pelo decurso de tempo, sendo inaplicável o prazo decadencial de cinco anos previsto no artigo 54 da Lei nº 9.784/99, restrito apenas aos atos anuláveis.
+7. Apelação desprovida.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 205/207).
+Sustenta a parte recorrente violação ao art. 54 da Lei 9.784/1999, ao argumento de que após mais de 40 (quarenta) anos recebendo a pensão por morte, não poderia ser ela cancelada pela Administração em face da decadência.
+No mérito, alega que o art. 29 da Lei 3.765/1960 não desautoriza que a pensão militar por morte o benefício do INSS seja recebidos cumulativamente com a pensão especial de ex-combatente, haja vista que tal dispositivo (fl. 236):
+ ..  em sua redação original, não se refere em momento algum à pensão especial de ex-combatente, mas a v. decisão, ao que indica, considerou-a como integrante da regra de proibição de acumulação contida na citada lei, de forma a negar o direito da Recorrente. No entanto, a pensão especial de ex-combatente é nominada como especial exatamente por isso. Trata-se de um benefício gracioso, de caráter assistencial, e não deve ser considerado exatamente para prejudicar seus beneficiários. Não houve qualquer ilegalidade na concessão da Pensão Militar.
+De outro lado, afirma a inaplicabilidade do art. 30 da Lei 4.242/1963, haja vista que tal dispositivo legal "rege tão somente a pensão especial de ex-combatente, e não a pensão militar como afirma a r. decisão recorrida, sendo esta regida pela lei 3765/1963 (lei da pensão militar)" (fl. 245).
+Segue afirmando, outrossim, que (fl. 245):
+ ..  a questão relativa a pensão especial de ex-combatente prevista na lei 4242/63 foi objeto do MS nº2002.02.01.007494-0, da 14ª Vara Federal do TRF2, cuja sentença reconheceu o direito das filhas em perceber a pensão de ex-combatente.
+Tal decisão após a apresentação dos recursos previstos na lei processual, foi confirmada pelo TRF2 e por esse E Tribunal, em decisão unânime, tendo transitado em julgado em 03 de março de 2004. Trata-se, pois, de ato jurídico perfeito, e de coisa julgada assim definido pelo § 1º do art 6º da lei de Introdução as Normas do Direito Brasileiro. Portanto, a decisão ora recorrida afronta frontalmente o disposto no art 5º, inciso XXXVI da CF/88.
+Por sua vez, aduz que a Lei 3.765/1960 (na redação dada pela MP 2.215-10, de 18/8/2001) não se aplica ao caso concreto, haja vista que a pensão por morte foi instituída em 14/6/1978.
+Requer, assim, o provimento do recurso especial.
+Contrarrazões às fls. 258/260.
+Em juízo negativo de retratação, a Corte regional confirmou o acórdão recorrido (fls. 283/284, 287/288 e 301).
+Recurso admitido na origem (fls. 314/316).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, não se presta o recurso especial ao exame de suposta ofensa a dispositivo constitucional, sob pena de invasão da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da CF/1988.
+Por sua vez, proceder o juízo negativo de retratação, a Corte de origem reiterou a compreensão de inaplicabilidade do prazo decadencial previsto no art. 54 da Lei 9.784/1999, sob o fundamento de que "o motivo da caracterização da ilegalidade, no entanto, ocorreu somente em 2009, com a obtenção de aposentadoria por idade junto ao INSS (tríplice cumulação). Ou seja, a ilegalidade é posterior à análise inicial pela Corte de Contas" (fl. 284).
+Sucede que tal fundamento não foi especificamente impugnado pela parte ora recorrente, o que atrai a incidência da Súmula 283/STF.
+De outro lado, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 6/5/2021).
+In casu, o Tribunal de origem não emitiu nenhum juízo de valor quanto à tese de que pensão especial de ex-combatente teria sido reconhecida em favor da ora recorrente por força de decisão judicial transita em julgado. Assim, incide na espécie a Súmula 211/STJ.
+A seu turno, há que se considerar que a remissão contida no acórdão recorrido a respeito do eventual não cabimento da pensão especial de ex-combatente da qual goza a parte ora recorrente possui natureza meramente obiter dictum, haja vista que a controvérsia diz respeito exclusivamente à possibilidade, ou não, de a Administração cancelar o pagamento da pensão militar também recebida pela recorrente.
+Dito isto, é firme o entendimento deste Superior Tribunal no sentido de que o art. 29 da Lei 3.765/1960, mesmo em sua redação original, não autorizava a tríplice acumulação de benefícios pagos pela Administração. Senão vejamos:
+Art. 29. É permitida a acumulação:
+a) de duas pensões militares;
+b) de uma pensão militar com proventos de disponibilidade, reforma, vencimento, aposentadoria ou pensão proveniente de um único cargo civil;
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR. ACUMULAÇÃO DE BENEFÍCIOS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ART. 29 DA LEI 3.765/1960. ACUMULAÇÃO TRÍPLICE. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. A Lei 3.765/1960, com redação anterior à MP 2215-10/2001, veda a acumulação tríplice de proventos oriundos dos cofres públicos ao dispor que a pensão militar poderá ser percebida com outra pensão militar ou com um dos seguintes benefícios: proventos de disponibilidade, reforma, vencimentos, aposentadoria ou pensão proveniente de um único cargo civil.
+3. A redação original, aplicável ao caso, embora permita o recebimento de duas pensões militares, não autoriza a percepção de pensão militar com dois benefícios previdenciários (aposentadoria e suplementação de aposentadoria) em decorrência do impedimento à tríplice acumulação.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.170.721/RJ, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/5/2023.) - Grifo nosso
+ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. FALECIMENTO APÓS A NOVA REDAÇÃO DO ARTIGO 29 DA LEI N. 3.765/60. PENSÃO PÓS-MORTE. CUMULAÇÃO COM OUTROS DOIS BENEFÍCIOS PREVIDENCIÁRIOS. IMPOSSIBILIDADE.
+1. Com o advento da Medida Provisória nº 2215-10, de 31.08.2001, o art. 29 da Lei n. 3.765/60 passou a autorizar a acumulação de pensão militar somente com (i) proventos de disponibilidade, reforma, vencimento ou aposentadoria; (ii) com pensão de outro regime. Não mais se contempla a hipótese de acumulação, pelo beneficiário do militar falecido, de duas pensões militares, sendo permitida a acumulação "de uma pensão militar com a de outro regime".
+2. Não houve, todavia, a exclusão da limitação "de um único cargo civil" existente na parte final da redação original do referido art. 29 da Lei n. 3.765/60, a fim de ampliar a incidência da norma e criar uma terceira hipótese de acumulação de benefício, de pensão militar com dois benefícios previdenciários (aposentadoria e pensão por morte).
+3. Neste panorama jurídico-processual, à míngua de autorização legal, não é lídima a pretensão da recorrida à tríplice acumulação - de pensão militar pelo falecimento de seu genitor, pensão do IPERJ pelo falecimento de sua genitora e aposentadoria da Prefeitura da Cidade do Rio de Janeiro.
+4. Recurso especial provido.
+(REsp n. 1.208.204/RJ, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 9/3/2012.)
+Por fim, incide na espécie a Súmula 83/STJ.
+Destarte, a irresignação da recorrente limita-se ao seu mero inconformismo com o resultado do julgamento, porquanto desfavorável à sua pretensão.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
