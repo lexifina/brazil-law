@@ -1,1 +1,0 @@
-Art. 40. A defesa dos interesses e direitos dos torcedores em juízo observará, no que couber, a mesma disciplina da defesa dos consumidores em juízo de que trata o Título III da Lei no 8.078, de 11 de setembro de 1990.
