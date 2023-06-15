@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CHRISTINO AUREO DA SILVA opõe embargos contra o acórdão de fls. 4.981-4.991, em que a Sexta Turma negou provimento ao agravo regimental para manter hígida a decisão monocrática em que deneguei o habeas corpus, refutando a tese de ausência de justa causa para o prosseguimento da ação penal.
+Para tanto, assere que, "quanto à tese de violação ao princípio da obrigatoriedade da ação penal pública, suscitada perante o Tribunal a quo e, portanto, presente desde a impetração deste habeas corpus, o Voto condutor do acórdão embargado, com todas as devidas vênias, não enfrentou a tese suscitada em sede de agravo,  ..  Todavia, diferentemente do aduzido no julgado embargado, a referida tese foi sim levada ao conhecimento do Tribunal a quo" (fls. 4.998-4.999).
+Aguarda, assim, "o conhecimento e provimento dos presentes embargos, para, sanando a omissão apontada, conhecer do Agravo Regimental interposto no ponto de interesse, o que, confia-se, há de se resultar, ao fim e ao cabo, no seu provimento neste particular" (fl. 5.000).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO DEMONSTRADA A OCORRÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam nova apreciação do caso.
+2. Consoante apontado no acórdão embargado, a irresignação quanto ao rol de denunciados não foi objeto de exame pelo Tribunal a quo. Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+É imperioso salientar também que " o s embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada" (EDcl no AgRg nos EDcl no AREsp n. 1.644.500/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 3/6/2020, destaquei).
+Não se pode olvidar que " s em a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/6/2021, destaquei).
+Consoante apontado no acórdão embargado, a irresignação quanto ao rol de denunciados não foi objeto de exame pelo Tribunal a quo. Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância.
+Com efeito, ao sintetizar os pleitos defensivos, destacou a Corte de origem que a defesa impetrou habeas corpus, "pugnando pelo trancamento da Ação Penal por falta de justa causa. Subsidiariamente, requereu a nulidade da Decisão que ratificou o recebimento da denúncia e a concessão de prazo para o oferecimento da resposta à acusação" (fl. 87).
+Analisou, portanto, o Tribunal local "a alegação de falta de justa causa para a Ação Penal suscitada pelo Paciente" (fl. 87) e " a  arguição de nulidade da ratificação da denúncia" (fl. 89), de modo que não foi analisado pela Corte estadual o ponto aqui questionado.
+Em conjuntura assemelhada, já salientou o Superior Tribunal de Justiça que " a  apontada ilicitude das provas que lastrearam a condenação do paciente - tese de falta de justa causa para a busca pessoal - não foi analisada nem pelo Juiz sentenciante nem pelo Tribunal de origem, o que impede o exame dessa matéria diretamente por esta Corte, sob pena de, assim o fazendo, incidir na indevida supressão de instância" (AgRg no HC n. 718.020/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 22/3/2022, sublinhei.)
+No mesmo sentido:
+ ..
+I - O pedido de trancamento da ação penal por ausência de justa causa não pode ser examinado no presente recurso, pois verifica-se, de plano, que tal matéria não foi analisada na origem, porquanto o eg. Tribunal a quo não se manifestou sobre o ponto, razão pela qual não cabe a esta Corte Superior de Justiça manifestar-se sobre o tema, sob pena de indevida supressão de instância. (Precedentes)  ..  (RHC n. 123.891/MG, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 18/3/2020.)
+À vista do exposto, rejeito os embargos.
