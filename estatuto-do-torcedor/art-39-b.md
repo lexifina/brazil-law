@@ -1,1 +1,0 @@
-Art. 39-B. A torcida organizada responde civilmente, de forma objetiva e solidária, pelos danos causados por qualquer dos seus associados ou membros no local do evento esportivo, em suas imediações ou no trajeto de ida e volta para o evento.
