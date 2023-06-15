@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por Carlos Henrique Barbosa da Silva, com fundamento na alínea a do permissivo constitucional, contra o acórdão do Tribunal de Justiça de São Paulo na Apelação Criminal n. 1501908-27.2021.8.26.0537 (fls. 284/304):
+Tráfico de Drogas - Recurso da Defesa - Absolvição -Impossibilidade - Depoimentos dos policiais, coerentes e sem desmentidos - Condenação mantida - Dosimetria - Primeira fase - Cometimento de diversos atos infracionais que, a despeito de não serem considerados como maus antecedentes ou reincidência, revelam conduta social desajustada - Pena-base fixada 1/6 acima do mínimo legal - Segunda fase - Agravante da reincidência integralmente compensada pela atenuante da menoridade relativa - Terceira Fase - Impossibilidade de aplicação da causa de diminuição da pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, uma vez que o recorrente é reincidente - Fixação de regime inicial fechado - Reincidência somada à natureza das drogas apreendidas e gravidade concreta do delito - Inaplicável a substituição da pena privativa de liberdade por restritivas de direitos - Detração penal que deve ser analisada pelo Juízo da Execução - Recurso não provido.
+Aponta o recorrente que houve desrespeito ao disposto no art. 33, § 2º, "b" e § 3º, do Código Penal, porque a Corte recorrida houve por bem manter o regime inicial fechado para cumprimento da pena com base apenas na gravidade em abstrato do delito.  ..  Houve ainda negativa de vigência do art. 387, § 2º, do Código de Processo Penal, porque a Corte recorrida decidiu abster-se de aplicar a detração penal quando da imposição do regime prisional (fls. 313/314).
+Ao final da peça recursal, requer seja recebido e processado o presente recurso especial, para que, no final, seja provido, com o intuito de: (i) Reconhecer a negativa de vigência do art. 33, § 2º, "b", do CP, e art. 387, § 2º, do CPP, e fixar ao recorrente regime inicial semiaberto, bem como aplicar a detração penal, ou remeter os autos ao Tribunal de Justiça de São Paulo para que o faça (fl. 319)
+Oferecidas contrarrazões (fls. 323/329), o recurso especial foi parcialmente admitido na origem (fl. 332).
+O Ministério Público Federal opina pelo conhecimento e desprovimento da insurgência recursal (fls. 341/344):
+Recurso especial. Tráfico de drogas.
+I - Regime inicial fechado. Alteração. Impossibilidade. Pena entre 4 e 8 anos. Reincidência. Incidência do artigo 33 - § 2º do CP.
+II - Detração (artigo 387 - § 2º do CPP). Impossibilidade. Regime inicial fixado não só com base na quantidade de pena, mas também na reincidência.
+- Promoção pelo conhecimento e desprovimento do recurso especial.
+É o relatório.
+Razão não assiste ao recorrente.
+Para elucidação do quanto postulado no presente recurso, extrai-se do combatido aresto o seguinte trecho (fls. 300/303 - grifo nosso):
+ ..
+Na segunda fase, o juízo "a quo" compensou integralmente a agravante da reincidência (Processo criminal nº 1501693-85.2020.8.26.0537, com trânsito em julgado em 24/03/2021, à fl. 46), com a atenuante da menoridade relativa (nascimento em 21/12/2001), permanecendo a pena no patamar alcançado na fase anterior.
+ ..
+Derradeiramente, considerando-se as circunstâncias do caso concreto e, ainda, a reincidência do réu, era de fato necessária a fixação de regime mais gravoso para o cumprimento da pena, salientando-se, ainda, que o tráfico de drogas é equiparado aos crimes hediondos, o que demonstra a necessidade de atuação mais ostensiva do Estado na fixação do regime inicial para cumprimento da reprimenda. Nesse sentido, insista-se que o réu tinha a posse de quantidade significativa de entorpecente (41 invólucros de maconha e 14 invólucros de cocaína), capaz, portanto, de atingir número inestimável de pessoas e, com isso, causar grande prejuízo à saúde pública, tornando-o merecedor, portanto, da fixação do regime fechado para início do cumprimento da pena que lhe foi imposta.
+ ..
+Tenho que o referido pleito de abrandamento do cárcere não comporta provimento, notadamente diante da constatada reincidência do recorrente, o que, por si só, diante da pena cominada, entre 4 e 8 anos de reclusão, justifica o regime inicial fechado.
+A propósito, colaciono julgados de ambas a Turmas que compõem a Terceira Seção desta Corte de Justiça:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. MAUS ANTECEDENTES. CONDENAÇÃO TRANSITADA EM JULGADO ATINGIDA PELO PRAZO DEPURADOR DE CINCO ANOS. MOTIVAÇÃO IDÔNEA PARA INCREMENTO DA PENA-BASE. CULPABILIDADE ACENTUADA. MAIOR GRAU DE CENSURA EVIDENCIADO. COMPENSAÇÃO INTEGRAL ENTRE A CONFISSÃO ESPONTÂNEA E A REINCIDÊNCIA. POSSIBILIDADE. PACIENTE COM UMA CONDENAÇÃO TRANSITADA EM JULGADO A SER SOPESADA NA SEGUNDA FASE DA DOSIMETRIA. REGIME PRISIONAL SEMIABERTO. RÉU COM MAUS ANTECEDENTES. PENA INFERIOR A 4 ANOS. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. REINCIDÊNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. INCABÍVEL. POSSIBILIDADE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+7. Em pese tenha sido imposta reprimenda inferior a 4 anos, tratando-se de réu reincidente e com circunstâncias judiciais do art. 59 do Código Penal desfavoravelmente valoradas, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "c", do Estatuto Repressor.
+ ..
+9. Writ não conhecido. Ordem concedida, de ofício, para que seja restabelecida a pena imposta ao paciente na sentença condenatória.
+(HC n. 455.412/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018 - grifo nosso).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INOCORRÊNCIA DE EFEITO SUSPENSIVO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. REGIME MAIS BRANDO. IMPOSSIBILIDADE. REINCIDÊNCIA. PROGRESSÃO DE REGIME. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Superior Tribunal de Justiça firmou o entendimento de que é possível a execução provisória da pena, prolatado o juízo condenatório por Tribunal de Apelação.
+2. De acordo com a jurisprudência deste Tribunal Superior, a simples interposição de recursos especial ou extraordinário, sem a concessão de efeito suspensivo, não obsta a execução provisória da pena privativa de liberdade. Precedentes.
+3. Correta a fixação de regime inicial semiaberto para réu reincidente cuja pena é inferior a 4 anos, nos termos do art. 33, §§1º e 2º, b, e § 3º.
+4. A matéria referente à progressão de regime não foi examinada pelo Tribunal de 2º Grau, não podendo esta Corte Superior apreciá-la, diretamente, sob pena de indevida supressão de instância.
+5. Agravo regimental improvido.
+(AgRg no HC n. 426.076/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/9/2018 - grifo nosso).
+Por fim, não se desconhece que, no que diz respeito ao pedido de detração penal, para efeitos de estipulação do regime inicial, nos termos da nova redação do art. 387, § 2º, do Código de Processo Penal, dada pela Lei n. 12.736/2012, o Superior Tribunal de Justiça já assentou ser competência do juízo sentenciante a verificação da detração do tempo de prisão cautelar para efeitos de abrandamento do regime inicial.
+A propósito:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO. QUANTUM DE INCIDÊNCIA. VARIEDADE DAS DROGAS. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. DETRAÇÃO. COMPETÊNCIA DO JUÍZO SENTENCIANTE. NÃO CONHECIMENTO. CONCESSÃO, DE OFÍCIO.
+1. O estabelecimento do redutor na fração de 1/6 não se mostrou, de modo flagrante, desarrazoado, diante da variedade das drogas apreendidas - cocaína, crack e maconha - a atrair a incidência do art. 42 da Lei n.º 11.343/2006. O quantum de redução aplicado fica indene ao crivo do habeas corpus, pois é matéria que demanda revolvimento fático-probatório. Precedentes desta Corte e do Supremo Tribunal Federal.
+2. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos. Na espécie, tendo a reprimenda final alcançado 4 anos e 2 meses de reclusão, não é possível a pretendida substituição.
+3. O § 2.º do art. 387 do Código de Processo Penal diz respeito ao regime inicial de cumprimento de pena, razão pela qual, após a inclusão referido dispositivo legal pela Lei n.º 12.736/2012, a competência para examinar, num primeiro momento, a detração penal, passou a ser do Juízo sentenciante.
+4. Habeas corpus, não conhecido. Ordem concedida, de ofício, a fim de determinar ao Magistrado de primeira instância que reavalie o regime inicial de cumprimento de pena à luz do disposto no art. 387, § 2º, do Código Penal.
+(HC n. 357.440/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/8/2016 - grifo nosso).
+Contudo, melhor sorte não assiste ao recorrente, notadamente diante da já mencionada constatada reincidência.
+Mantida a referida agravante, não há interesse recursal no que se refere à suposta violação do art. 387, § 2º, do Código de Processo Penal, pois a detração do tempo de prisão cautelar não ensejaria o abrandamento do regime fixado no guerreado aresto.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. POSSE OU PORTE ILEGAL DE ARMA DE USO RESTRITO. REINCIDÊNCIA. CONSULTA AO SÍTIO ELETRÔNICO. DETRAÇÃO. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Considerando o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebem-se os embargos de declaração como agravo regimental.
+2. "A jurisprudência desta Corte tem entendido desnecessária a juntada de certidão cartorária como prova de maus antecedentes ou reincidência, admitindo, inclusive, informações extraídas do sítio eletrônico de Tribunal como evidência nesse sentido" (AgRg no AREsp 549.303/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/5/2015, DJe 29/5/2015).
+3. Mostra-se irrelevante a detração do período de prisão cautelar, nos termos do art. 387, § 2º, do CPP, considerando que o regime prisional mais gravoso foi estabelecido em virtude dos antecedentes e da reincidência do réu. Precedentes.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(AgRg no AREsp n. 2.286.371/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/5/2023 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DOS ARTS. 33, § 2º, B, E § 3º, DO CP; 387, § 2º, DO CPP. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. PENA DEFINITIVA ENTRE 4 E 8 ANOS DE RECLUSÃO. CONSTATADA A REINCIDÊNCIA DO RECORRENTE. APLICAÇÃO DA DETRAÇÃO, COM VIÉS DE ABRANDAMENTO DO REGIME PRISIONAL. IMPOSSIBILIDADE EM FACE DA CONSTATADA REINCIDÊNCIA DO RECORRENTE. FALTA DE INTERESSE RECURSAL. MANUTENÇÃO DO REGIME FECHADO QUE SE IMPÕE.
+Recurso especial desprovido.
