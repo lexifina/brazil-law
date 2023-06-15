@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por EUCLIDES DE LIMA MIRANDA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0009173-36.2020.8.19.0004.
+Consta dos autos que o Recorrido foi denunciado pela suposta prática do crime previsto no art. 138, c.c. o art. 141, inciso II, ambos do Código Penal, pois, nos autos do Agravo de Instrumento n. 0076146-19.2019.8.19.0000, o Acusado, que é advogado, "com vontade livre e consciente, imputou falsamente ao Juiz de Direito EUCLIDES DE LIMA MIRANDA fato definido como crime, qual seja, furto ao dizer que o Magistrado teria invadido a conta bancária do Agravante, cliente do denunciado, bloqueando e subtraindo a importância de R$16.175,35" (fl. 2).
+O Juízo singular condenou o Recorrido à pena de 1 (um) ano de detenção, em regime inicial semiaberto, mais o pagamento de 17 (dezessete) dias-multa, pela prática do crime de calúnia apontado na peça acusatória. Também condenou o Acusado ao pagamento de indenização correspondente à reparação por danos morais à Vítima, nos termos do art. 387, inciso IV, do Código de Processo Penal, fixada no valor mínimo de R$ 30.000,00 (trinta mil reais).
+Contra a sentença a Defesa interpôs apelação, que foi parcialmente provida para "reduzir, ex officio, a fração de exasperação, pela incidência da agravante da reincidência, para 1/6 (um sexto), acomodando a final em 09 (nove) meses, 10 (dez) dias de detenção e 14 (quatorze) dias-multa, à razão unitária mínima, no regime semiaberto, além de excluir a condenação por danos morais" (fl. 629).
+Os embargos de declaração opostos foram rejeitados (fls. 741-749).
+Nas razões do recurso especial, o Recorrente, vítima do delito, alega ofensa ao art. 387, inciso IV, do Código de Processo Penal.
+Argumenta que " é  indiscutível a grave lesão à honra do recorrente, por meio da prática de um crime de calúnia; isso restou devidamente comprovado nos autos após o exercício do contraditório" (fl. 822).
+Aduz que, " c omo consequência do reconhecimento da lesão (que foi objeto do contraditório), nasce o dever de indenização pelos danos morais, que pode e deve ser fixada em valor mínimo pelo magistrado, com base no art. 387, IV, do Código de Processo Penal" (fl. 822).
+Assevera que "o acórdão reconhece que foi feito na exordial acusatória pedido expresso de fixação de valor mínimo a ser pago a título de danos morais, inclusive com indicação de valor, mas, ainda assim, decidiu reformar a sentença" (fl. 814).
+Requer o provimento do recurso "para reformar o acórdão guerreado especificamente no que tange à exclusão do valor mínimo indenizatório, restabelecendo nesse ponto a sentença que condenou o recorrido ao pagamento de valor mínimo R$ 30.000,00 (trinta mil reais) de indenização a título de danos morais" (fl. 825).
+O Ministério Público do Estado do Rio de Janeiro apresentou contrarrazões às fls. 920-924, opinando pelo provimento do recurso. O Recorrido, a despeito de devidamente intimado, não apresentou contrarrazões (fl. 1034).
+O recurso foi admitido na origem (fls. 1032-1042).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 1584-1588).
+Às fls. 1595-1614, a Defesa apresentou 4 (quatro) petições de idêntico teor, em que argumenta que a "questão nuclear do fato, que a Ação Cível nem sequer foi proposta, bem como não existindo a informação de qual teria sido o prejuízo do Magistrado" (fl. 1595).
+Assinala que, " c onsiderando-se que a questão sobre o fato, tido por delituoso, e sua autoria são prejudiciais de questão civil, impõe-se o sobrestamento no andamento do processo até que se pronuncie o STF no Processo Crime" (fl. 1596).
+É o relatório.
+Decido.
+Inicialmente, não conheço do pedido formulado pelo Recorrido às fls. 1595-1614, pois, a despeito de devidamente intimado, o Acusado não apresentou, no momento adequado, as contrarrazões a este recurso especial. Outrossim, a Parte sequer indica qual o recurso pendente de análise perante o Supremo Tribunal Federal que justificaria o sobrestamento deste feito, sendo certo que o recurso extraordinário interposto pela Defesa contra o acórdão ora recorrido não foi admitido e nem mesmo foi interposto agravo em recurso extraordinário no prazo legal.
+De outra parte, o Juízo singular fixou o valor mínimo a título de compensação por danos morais em favor do Recorrente nos seguintes termos (fl. 377; sem grifos no original):
+"DA REPARAÇÃO À VÍTIMA:
+Cabível, no caso em tela, a reparação por dano moral, conforme requerido pelo Parquet.
+ ..
+A situação vivenciada pela vítima claramente extrapola os limites do mero aborrecimento e caracteriza lesão a direito da personalidade.
+Por certo, a conduta praticada pelo réu maculou a honra objetiva do ofendido, mormente por ser este servidor público e ter atuado no exercício de suas funções.
+Dano moral caracterizado, sendo certo que este juízo considera que a quantia de R$ 30.000,00 é o mínimo necessário à sua reparação, sem prejuízo da busca de quantia maior no juízo cível.
+ ..
+Condeno o réu, ainda, ao pagamento de indenização correspondente à reparação por danos morais à vítima, nos termos do art. 387, IV, do CPP, fixada no valor mínimo de R$ 30.000,00."
+O Tribunal de origem, por sua vez, excluiu a condenação por danos morais com base na seguinte fundamentação (fl. 628; sem grifos no original):
+"Noutro viés, deve ser acolhida a pretensão de exclusão da reparação por danos morais no valor de R$ 30.000,00 (trinta mil reais), à míngua de elementos suficientes para a constatação e dimensionamento do valor para a sua fixação, mesmo que no patamar mínimo.
+Ademais, embora haja pedido expresso na exordial acusatória, com espeque no artigo 387, inciso IV, do CPP, além de pleito de indenização no valor de R$ 70.000,00 (setenta mil) reais, por parte do ofendido (i.e. 06), certo é que nenhum valor fora debatido ao longo da instrução criminal, de modo a garantir o exercício do contraditório e da ampla defesa pelo recorrente, obstando o acolhimento da aludida pretensão, podendo ser buscada e discutida na esfera cível."
+A conclusão a que chegou o Tribunal de Justiça do Estado do Rio de Janeiro destoa da jurisprudência do Superior Tribunal de Justiça, estabelecida no sentido de que a fixação de valor mínimo para reparação dos danos morais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e a instrução probatória específica.
+In casu, como houve o pedido de indenização por danos morais na denúncia (fl. 3) e a Vítima indicou o valor pretendido (R$ 70.000,00 (setenta mil reais) - fl. 8), não há falar em violação ao princípio do devido processo legal e do contrad itório, pois a Defesa pôde se contrapor desde o início da ação penal, cuja exordial acusatória, vale repisar, já trazia o pleito.
+No mesmo sentido:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. REPARAÇÃO DE DANO MORAL. PEDIDO EXPRESSO NA DENÚNCIA. CABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a fixação de valor mínimo para reparação dos danos morais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e a instrução probatória específica. No caso dos autos, como houve o pedido de indenização por danos morais na denúncia, não há falar em violação ao princípio do devido processo legal e do contraditório, pois a Defesa pôde se contrapor desde o início da ação penal" (AgRg no REsp n. 1.940.163/TO, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022).
+3. Agravo regimental improvido." (AgRg no HC n. 725.075/MS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 22/5/2023, DJe de 25/5/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 387, IV. DO CPP. PEDIDO INDENIZATÓRIO FORMULADO NA DENÚNCIA. FIXAÇÃO DE VALOR MÍNIMO A TÍTULO DE DANOS MORAIS. INDICAÇÃO DE VALOR A SER FIXADO.
+1. "A fixação de valor mínimo para reparação dos danos morais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e a instrução probatória específica. No caso dos autos, como houve o pedido de indenização por danos morais na denúncia, não há falar em violação ao princípio do devido processo legal e do contraditório, pois a Defesa pôde se contrapor desde o início da ação penal" (AgRg no REsp 1940163/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022).
+ ..
+3. Agravo regimental improvido." (AgRg no REsp n. 1.973.602/SC, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022; sem grifos no original.)
+Ante o e xposto, DOU PROVIMENTO ao recurso especial a fim de restabelecer a reparação por danos morais fixada na sentença.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. CALÚNIA. VIOLAÇÃO AO ART. 387, INCISO IV, DO CÓDIGO DE PROCESSO PENAL. FIXAÇÃO DE DANOS MORAIS. POSSIBILIDADE. DESNECESSIDADE DE INSTRUÇÃO PROBATÓRIA PRÓPRIA. SUFICIÊNCIA DO PEDIDO DE INDENIZAÇÃO NA DENÚNCIA. PRECEDENTES. RECURSO PROVIDO.
