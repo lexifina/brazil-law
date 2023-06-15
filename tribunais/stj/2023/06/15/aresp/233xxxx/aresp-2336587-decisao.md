@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por M. M. DE L., P. DE A. M. DE L. e LEONARDO MERCHAN DE LIMA contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ e na prejudicialidade da análise do recurso especial apresentado com fundamento na alínea c, haja vista a incidência da Súmula n. 7 do STJ pela alínea a.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso, em agravo de instrumento, nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fls. 364-365):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ALEGAÇÃO DE HIPOSSUFICIÊNCIA TÉCNICA PERANTE EMPRESA DE PLANO DE SAÚDE - VEROSSIMILHANÇA DA ALEGAÇÃO NÃO DEMONSTRADA - INVERSÃO DO ÔNUS PROBATÓRIO - IMPOSSIBILIDADE - RECURSO NÃO PROVIDO.
+A inversão do ônus da prova é aplicável quando há relação de consumo e restar demonstrada a hipossuficiência técnica, sob pena de indeferimento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, os ora agravantes apontam violação dos arts. 2º, 3º, 4º e 6º, VIII, do CDC e 373, §§ 1º e 2º, do CPC, bem como dissídio jurisprudencial.
+Afirmam ser necessária a inversão do ônus probatório, haja vista a sua hipossuficiência técnica e econômica em face da operadora do plano de saúde.
+Aduzem estarem presentes todos os requisitos necessários para o deferimento da inversão do ônus da prova na presente demanda.
+Requerem o provimento do recurso para reformar o acórdão recorrido, a fim de deferir o pedido de inversão do ônus da prova. Subsidiariamente, caso entendida a falta de prequestionamento, pleiteiam seja reconhecida a violação do art. 1.022 do CPC.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, concluiu pela impossibilidade de inversão do ônus da prova, haja vista a inexistência de demonstração dos requisitos para o seu deferimento. Observe-se (fl.367):
+No caso em análise, o fato dos agravantes alegarem que contendem com a maior empresa de administração de planos de saúde do país, por si só, não demonstra a existência da hipossuficiência técnica quanto ao contrato que rege a presente relação, sequer evidenciando sua vulnerabilidade no feito ou mesmo afasta qualquer inviabilidade de produção probatória apta a autorizar a inversão do ônus probandi previsto no art. 6º, VIII do CDC.
+Rever a referida conclusão demandaria a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 1022 DO CPC. NÃO CONFIGURADA. MERO INCONFORMISMO. INVERSÃO DO ÔNUS DA PROVA. CONSUMIDOR POR EQUIPARAÇÃO. POLUIÇÃO AMBIENTAL E SONORA. PRECEDENTES DESTA CORTE. VIABILIDADE DE INVERSÃO. SÚMULA 83 DO STJ. HIPOSSUFICIÊNCIA CARACTERIZADA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de agravo de instrumento interposto em face de decisão que redistribuiu e inverteu o ônus da prova.
+2. No caso concreto, o Tribunal local manteve a decisão que inverteu o ônus da prova, considerando a parte agravada consumidora por equiparação e hipossuficiente. Interpretação do art. 6º, VIII, do CDC.
+3. É possível a aplicação do CDC em se tratando de dano ambiental àqueles que não se insiram na cadeia de consumo, ante a previsão do art. 17 do CDC, que estabelece a aplicação do microssistema consumerista a todas as vítimas do evento danoso, considerados como bystanders. Precedentes. Incidência da Súmula 83 do STJ.
+4. Não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte.
+5. A verificação da presença dos requisitos estabelecidos no art. 6º, VIII, do CDC (verossimilhança das alegações e hipossuficiência) exige o reexame de matéria fática, providência vedada em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.138.785/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023, destaquei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. TÍTULO EXECUTIVO. DEMONSTRATIVO DE EVOLUÇÃO DO DÉBITO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. SÚMULA. VIOLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA. ALEGAÇÕES. VEROSSIMILHANÇA. NÃO DEMONSTRAÇÃO. REEXAME. SÚMULA Nº 7/STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que a cédula de crédito bancário é título executivo, apto a instruir a ação de cobrança ou de execução, ainda que o débito tenha origem em contrato de abertura de crédito, porém, a inicial deverá vir acompanhada também de demonstrativo da evolução da dívida.
+3. Na espécie, rever o entendimento d o tribunal de origem , que afastou a alegada ausência de documentos indispensáveis para o ajuizamento da ação de cobrança, demanda ria o reexame do contexto fático-probatório , procedimento inadmissível em recurso especial ante o óbice da Súmula nº 7/STJ.
+4. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+5. Não compete ao STJ apreciar violação de enunciado de súmula em recurso especial, pois o verbete não se insere no conceito de lei federal previsto no art. 105, III, "a", da Constituição Federal.
+6. A discussão acerca do cabimento ou não da regra inerente à inversão do ônus da prova enseja a apreciação da hipossuficiência do consumidor e da verossimilhança das alegações deduzidas, o que, no presente caso, reclama o reexame do conteúdo fático-probatório dos autos, providência inviável em recurso especial (Súmula nº 7/STJ).
+7. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 1.955.527/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022, destaquei.)
+Quanto ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Por fim , a alegada violação do art. 1.022 do CPC não enseja o êxito do recurso especial, pois a parte recorrente, limitando-se a indicar, de modo genérico, afronta ao mencionado dispositivo legal, não demonstrou em que ponto o acórdão proferido nos embargos de declaração permanecera omisso, obscuro e/ou contraditório.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se ao cas o o disposto na Súmula n. 284 do STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
