@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto diretamente nesta Corte Superior por Cesar Jose de Moraes Severino, atacando-se o acórdão proferido pelo Tribunal de Justiça de Pernambuco (HC n. 0000799-58.2023.8.17.9000 - fls. 22/28) que manteve a conversão da prisão em flagrante do recorrente - ocorrida, em 9/9/2022, pela prática, em tese, do crime de tráfico de drogas (670 g de maconha - fl. 134) - em preventiva, nos Autos n. 0001796-77.2022.8.17.4990 (fls. 186/188), da 3ª Vara Criminal da comarca de Olinda/PE.
+Aduz-se ilegalidade manifesta consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, o conhecimento e o provimento do recurso, inclusive em caráter liminar, a fim de que o recorrente seja posto em liberdade.
+É o relatório.
+Inicialmente, tem-se que a petição, denominada erroneamente pela defesa de recurso em habeas corpus, constitui, na verdade, requerimento originário de habeas corpus.
+Entretanto, razão assiste à impetração, uma vez que o decreto preventivo não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, apenas destacando a gravidade abstrata do delito - em razão da narcotraficância trazer a reboque a prática de outros delitos, além de o caso exigir uma resposta judicial adequada para impedir a reiteração delitiva (fls. 187/188) -, carecendo, assim, de elementos aptos a consubstanciar a prisão.
+A propósito: a fundamentação com base na gravidade abstrata do delito, sem a indicação de motivação concreta para a custódia, com a utilização de conceitos jurídicos indeterminados e de circunstâncias já elementares do delito, além de presunções e conjecturas, não é suficiente para justificar a decretação da prisão preventiva (REsp n. 1.861.350/RS, Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/8/2020, DJe 4/9/2020). Também: AgRg no RHC n. 178.339/RS, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Sexta Turma, julgado em 29/5/2023, DJe 1º/6/2023.
+Em razão disso, recebo o pedido como habeas corpus originário e concedo liminarmente a ordem para revogar a prisão preventiva imposta ao paciente nos Autos n. 0001796-77.2022.8.17.4990, da 3ª Vara Criminal da comarca de Olinda/PE.
+Intime-se o Ministério Público de Pernambuco.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS RECEBIDO COMO HABEA S CORPUS. TRÁFICO DE DROGAS (670 G DE MACONHA). PRISÃO PREVENTIVA. RISCO DE ESTADO DE LIBERDADE DO RECORRENTE PARA A ORDEM PÚBLICA. FUNDAMENTAÇÃO GENÉRICA. REVOGAÇÃO QUE SE IMPÕE.
+Pedido recebido como habeas corpus originário . Ordem concedida liminarmente nos termos do dispositivo.
