@@ -1,1 +1,0 @@
-Art. 3º Para todos os efeitos legais, equiparam-se a fornecedor, nos termos da Lei nº 8.078, de 11 de setembro de 1990, a entidade responsável pela organização da competição, bem como a entidade de prática desportiva detentora do mando de jogo.

@@ -1,1 +1,0 @@
-Art. 7º É direito do torcedor a divulgação, durante a realização da partida, da renda obtida pelo pagamento de ingressos e do número de espectadores pagantes e não-pagantes, por intermédio dos serviços de som e imagem instalados no estádio em que se realiza a partida, pela entidade responsável pela organização da competição.

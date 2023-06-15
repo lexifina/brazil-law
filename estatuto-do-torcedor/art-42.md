@@ -1,1 +1,0 @@
-Art. 42. O Conselho Nacional de Esportes - CNE promoverá, no prazo de seis meses, contado da publicação desta Lei, a adequação do Código de Justiça Desportiva ao disposto na Lei nº 9.615, de 24 de março de 1998, nesta Lei e em seus respectivos regulamentos.

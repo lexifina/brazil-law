@@ -1,1 +1,0 @@
-Art. 19. As entidades responsáveis pela organização da competição, bem como seus dirigentes respondem solidariamente com as entidades de que trata o art. 15 e seus dirigentes, independentemente da existência de culpa, pelos prejuízos causados a torcedor que decorram de falhas de segurança nos estádios ou da inobservância do disposto neste capítulo.

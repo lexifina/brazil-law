@@ -1,1 +1,0 @@
-Art. 41-A. Os juizados do torcedor, órgãos da Justiça Ordinária com competência cível e criminal, poderão ser criados pelos Estados e pelo Distrito Federal para o processo, o julgamento e a execução das causas decorrentes das atividades reguladas nesta Lei.
