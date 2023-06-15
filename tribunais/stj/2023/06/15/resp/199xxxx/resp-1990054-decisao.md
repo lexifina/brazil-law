@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NIDCE VERIDIANA FUNCKE TARTA E OUTRO contra acórdão do TJRS que deu provimento à apelação interposta por CONDOMINIO EDIFICIO SUTAION e julgou prejudicada a sua apelação, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONDOMÍNIO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS.
+NÃO HÁ DÚVIDA QUE AS DÍVIDAS ORIUNDAS DE TAXAS E DESPESA CONDOMINIAIS DE IMÓVEIS TÊM NATURE ZA PROPTER REM, OU SEJA, PERSEGUEM A COISA, E PODEM SER COBRADAS DO PROPRIETÁRIO REGISTRAL DO BEM. OCORRE QUE A RESPONSABILIDADE DO NOVO PROPRIETÁRIO E SUA LEGITIMIDADE VINCULA-SE AO CONDOMÍNIO, A TEOR DO QUE PRECONIZA O ART. 1.235 DO CC, O QUE NÃO OBSTA, TODAVIA, O DIREITO DE REGRESSO DAQUELE PERANTE O VERDADEIRO RESPONSÁVEL PELO DÉBITO, PROMITENTE VENDEDOR DO IMÓVEL.
+SUCUMBÊNCIA REDIMENSIONADA NOS TERMOS DA FUNDAMENTAÇÃO.
+DERAM PROVIMENTO À APELAÇÃO DO DEMANDANTE E JULGARAM PREJUDICADA A APELAÇÃO MANEJADA PELOS PROPRIETÁRIOS REGISTRAIS. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente apontou ofensa aos seguintes dispositivos: (i) arts. 489, § 1º, IV e VI, e 1.022, I, II, III e parágrafo único, II, do CPC, em razão da omissão do acórdão recorrido em apreciar as razões dos embargos de declaração; (ii) art. 492 do CPC, alegando que a sua condenação ao pagamento das dívidas condominiais na condição de devedores solidários extrapola os pedidos da inicial, na qual foram indicados a compor o polo passivo apenas para permitir a penhora do imóvel gerador da dívida condominial.
+Contrarrazões ao recurso especial às fls. 422/429.
+É, no essencial, o relatório.
+O presente recurso especial merece parcial provimento.
+Quanto à apontada violação dos arts. 489, § 1º, IV e VI, e 1.022, I, II, III e parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, na sentença e no acórdão que decidem de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, tanto o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, notadamente em relação à alegada ilegitimidade passiva dos recorrentes, inclusive examinando a jurisprudência do STJ a respeito do tema, consignando que (e-STJ, fls. 495-349):
+A demanda foi proposta contra a proprietária registral, que, no caso, é parte legítima para figurar no polo passivo da ação, pois se tratando de cotas condominiais de obrigação propter rem, existe solidariedade passiva em relação a elas entre o proprietário registral do imóvel e o possuidor direto do bem, sendo uma faculdade do condomínio escolher a quem demandar para a realização de sua cobrança.
+O débito decorrente de taxas condominiais, tendo natureza propter rem, persegue a coisa, de modo que legítima a presença no polo passivo dos proprietários registrais, como é o caso dos apelados, consoante dá conta a matrícula anexada ao evento 1, matrímovel4, autos originários.
+ ..
+Não se desconhece que o Superior Tribunal de Justiça assentou entendimento no sentido de que para o afastamento da responsabilidade do proprietário registral, necessário se faz haja a prova da imissão dos promitentes-compradores, bem como a cientificação do condomínio acerca da realização do negócio jurídico. Entretanto, tal hipótese não se coaduna com o caso em análise, pois não comprovada a cientificação do condomínio demandante, tampouco registrada a promessa de compra e venda do apartamento objeto da ação no cartório de imóveis.
+ ..
+Portanto, tal jurisprudência trata de situação distinta, não sendo o caso dos autos. Nesse sentido, colaciono os seguintes arrestos:
+ ..
+Cumpre sinalar, por oportuno, que consoante preconiza o art. 1.235, do CC, "o adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multas e juros moratórios", o que não obsta, todavia, o direito de regresso daquele perante o verdadeiro responsável pelo débito.
+Como se vê, a negativa de prestação jurisdicional não restou configurada, pois o mero inconformismo da parte com o julgamento contrário a sua pretensão não caracteriza falta de prestação jurisdicional.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489 e 1.022 do CPC.
+Quanto à apontada violação do art. 492 do CPC, a jurisprudência desta Corte pontua que, segundo o princípio da congruência ou da adstrição, salvo hipóteses específicas, previstas em lei, o juiz deve observar o pedido formulado pelas partes sob pena de, ultrapassando-o, proferir decisão em error in procedendo, caracterizada como ultra ou extra petita.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. CONVERSÃO EM AÇÃO DE EXIBIÇÃO DE DOCUMENTOS E DE COBRANÇA. AUSÊNCIA DE PEDIDO. IMPOSSIBILIDADE, ANTE A VEDAÇÃO AO JULGAMENTO EXTRA PETITA. INTERPOSIÇÃO DE NOVO AGRAVO INTERNO. INADMISSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE.
+ ..
+2. O princípio da congruência ou adstrição está previsto no art. 141 do CPC/2015 e impõe ao julgador a observância do pedido. Por sua vez, o art. 492 do mesmo diploma legal estabelece que "é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado". Portanto, caso o juiz ultrapasse os limites do pedido e não se trate de hipótese excepcionada pela lei, a decisão será proferida com error in procedendo, caracterizando-se como ultra ou extra petita.
+ ..
+(AgInt no AREsp n. 2.139.988/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INSTITUIÇÃO DE PASSAGEM FORÇADA. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO VERIFICADA. VIOLAÇÃO DOS ARTS. 141 E 492 DO CPC. FIXAÇÃO DE INDENIZAÇÃO. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NECESSIDADE DE PRODUÇÃO DE PROVA. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA N. 7 DO STJ. OFENSA AOS ARTS. 85 E 86 DO CPC. HONORÁRIOS SUCUMBENCIAIS. VALOR ARBITRADO. EQUIDADE. PROVEITO ECONÔMICO BAIXO. SUMÚLA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ../
+3. É vedado ao juiz proferir decisão de natureza diversa da pedida, bem com condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+ ..
+(AgInt no AREsp n. 2.050.458/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Na presente hipótese, conforme conta na moldura fática delimitada pelo acórdão recorrido, "o condomínio ingressou com a presente ação de cobrança contra a promitente compradora Juliana Aguirre Coelho, bem como, incluiu os proprietários registrais Nidce Veridiana Funcke Tarta e Alexandre Tarta no polo passivo da presente ação, em razão destes figurarem como proprietários no registro de imóveis, requerendo sua condenação limitada exclusivamente à possibilidade da penhora do imóvel gerador do débito" (e-STJ, fl. 346, g.n.), de forma que a solidariedade com o débito condominial imposta aos recorrentes pelo Tribunal de origem extrapola os limites do pedido, merecendo o acórdão recorrido reforma no ponto.
+Nessas circunstâncias, a 3ª Turma já decidiu que "a consequência do reconhecimento do vício de julgamento por ter sido ultra petita não é a nulidade do acórdão, mas somente a extirpação do excesso" (REsp n. 1.539.428/RJ, relator Ministro RICARDO VILLAS B ÔAS CUEVA, Terceira Turma, julgado em 16/2/2016, DJe de 26/2/2016.). Na mesma linha: AgInt no AREsp n. 1.339.385/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/4/2019, DJe de 12/4/2019.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para limitar a condenação dos recorrentes à possibilidade de penhora do imóvel gerador do débito.
+Publique-se. Intimem-se.
