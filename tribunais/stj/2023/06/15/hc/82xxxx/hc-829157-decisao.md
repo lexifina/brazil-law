@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO FELLIPE RIBEIRO NAVARRO contra decisão monocrática do Desembargador Relator do HC 2131566-38.2023.8.26.0000, que tramita no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta que o Paciente foi preso em flagrante, em 28/05/2023, com posterior conversão da custódia em preventiva (fls. 74-77), em razão da suposta prática dos ilícitos tipificados nos arts. 302 e 303 do Código de Trânsito Brasileiro, em tese, ao conduzir embriagado e em alta velocidade um veículo automotor, perdeu o controle do automóvel, "subiu em um canteiro da avenida e chocou-se com um "toten", causando a morte da vítima A.O.A. e lesões, a toda evidência, de natureza grave, no adolescente G.O.V., o qual se encontra internado, apresentando lesão na coluna" (fl. 75).
+A Defesa, pugnando pela revogação da custódia preventiva, impetrou habeas corpus na Corte de origem, tendo o Desembargador relator indeferido o pedido liminar (fls. 81-83).
+Neste writ, a Parte Impetrante sustenta, em suma, que: (i) o Paciente possui as condições pessoais favoráveis; (ii) os crimes em debate são culposos, o que torna proibitiva a prisão preventiva do Investigado à luz do Código de Processo Penal; (iii) a imposição da medida extrema é desproporcional, pois, em caso de eventual condenação, a reprimenda a ser imposta será mais branda do que o cárcere; (iv) não estão presentes na hipótese os requisitos legais autorizadores da prisão preventiva; e (v) a adoção de medidas cautelares alternativas ao cárcere é suficiente à preservação da ordem pública.
+Requer, em medida liminar e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares diversas.
+É o relatório.
+Decido.
+De  início,  pontuo que no HC 827.582/SP, do qual também sou relatora, foi formulada pretensão idêntica à veiculada nesta impetração, em favor do mesmo Paciente, que pugnava pelo reconhecimento da eventual ilegitimidade da prisão preventiva em comento.
+Na oportunidade, em 06/06/2023, concedi a ordem de habeas corpus "para determinar a revogação da prisão preventiva do Paciente, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão preventiva com os requisitos necessários ou a fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada".
+Em consulta ao site da Corte de origem, pude constatar que, em 12/06/2023, a Magistrada de primeiro grau exarou despacho nos autos da Ação Penal em comento (Ação Penal n. 1517687-08.2023.8.26.0228), no qual afirma (sem grifos no original):
+"Verifico constar o cumprimento da liminar deferida nos autos de Habeas Corpus n. 827582-SP (2023/0186673-0) pelo E. STJ, tendo sido expedido Alvará de Soltura clausulado (fls.105/106), que, inclusive, consta como cumprido (fls. 113/115)."
+Dessarte, tenho que esta impetração, além de indevida reiteração de pedido, sequer possui o objeto quanto ao pedido liminar de concessão de liberdade provisória.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial .
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE TRÂNSITO. HOMICÍDIO E LESÃO CORPORAL CULPOSOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO JÁ ANALISADO NO HC 827.582/SP. ORDEM DE HABEAS CORPUS JÁ CONCEDIDA. INFORMAÇÃO DA INSTÂNCIA ORDINÁRIA DE QUE ALVARÁ DE SOLTURA JÁ CUMPRIDO. PETIÇAO INICIAL LIMINARMENTE INDEFERIDA.
