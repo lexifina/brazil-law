@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Álamo Construtora e Incorporadora Ltda. e Mário César da Silveira, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fls. 232-233):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. EMBARGOS A EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. REVISIONAL.
+1. A utilização dos embargos do devedor não é o meio adequado para a embargante promover a revisão de contratos pretéritos, ainda que deles tenham originado o título exequendo, uma vez que seu processamento desvirtua a finalidade da ação de execução, diante do efeito protelatório da instrução probatória exigida para o conhecimento da questão. Registre-se que não se está negando ao embargante a possibilidade de revisar judicialmente em ação específica os contratos anteriores com a finalidade de afastar eventuais ilegalidades praticadas pelo agente financeiro, conforme faculta o enunciado da Súmula n.º 286 do STJ. Sendo a execução baseada em título autônomo (cédula de crédito bancário), os pertinentes embargos só podem versar sobre defeitos ou vícios extrínsecos de sua natureza.
+2. Conforme prevê o art. 28 da Lei nº 10.931/2004, a cédula de crédito bancário tem natureza jurídica de título executivo extrajudicial, pois vinculada a contrato de financiamento pelo qual a instituição financeira empresta um valor certo ao mutuário com prévia fixação do prazo para pagamento e do valor das parcelas é revestido de liquidez, certeza e exigibilidade.
+3. É pacífico o entendimento de que se aplica o CDC às relações contratuais firmadas com as instituições financeiras, tendo em vista o disposto na Súmula 297 do STJ. Todavia, daí não resulta a automática inversão do ônus da prova, para o que se impõe a comprovação da hipossuficiência do devedor, além da plausibilidade da tese defendida por ele.
+4. Não há conexão entre ação de execução de título extrajudicial e ação que visa apurar eventuais créditos e ilegalidades existentes em contratos que não é objeto da execução.
+5. De acordo com o Código de Processo Civil (art. 919, §1º), os embargos à execução não terão efeito suspensivo, a menos que assim requeira o embargante e que restem preenchidos os requisitos para a concessão da tutela provisória, bem como garantida a integralidade da execução, tratando-se de requisitos cumulativos.
+6. A capitalização mensal dos juros é admitida, tanto nos contratos de mútuo bancário comum firmados após a Medida Provisória n.º 1.963-17/2000 (reeditada pela MP nº 2.170-36/2001), quanto na cédula de crédito bancário celebrada após a Medida Provisória n.º 1.925/1999, mediante expressa pactuação pelas partes. Inteligência da Súmula 541 do STJ. Não havendo pactuação, somente se admite capitalização anual.
+7. Havendo caracterizada a incidência de capitalização mensal de juros sem a devida pactuação, é devido o afastamento dos encargos moratórios.
+Opostos embargos declaratórios em sequência, estes foram rejeitados.
+Nas razões do apelo especial, os recorrentes indicaram contrariedade aos arts. 85, § 2º, 489, § 1º e seu inciso VI, 919, § 1º, e 1.022, I, do CPC/2015.
+Sustentaram a existência de contradição no acórdão regional.
+Relataram que o título executivo seria ilíquido, razão pela qual seria necessário suspender a execução até que seja recalculado o quantum debeatur.
+Argumentaram não ser possível o arbitramento dos honorários sucumbenciais de forma equitativa.
+Requereram a concessão de efeito suspensivo ao feito.
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando os insurgentes a interpor o presente agravo, por meio do qual contestam a aplicação dos óbices apontados na decisão de admissibilidade.
+Nesta instância, foi indeferido o pedido de efeito suspensivo.
+Brevemente relatado, decido.
+De início, é importante assinalar que a contradição trazida no art. 1.022 do CPC/2015 é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada na própria decisão, não sendo capaz de ensejar a oposição dos aclaratórios eventual contradição entre o julgado e o entendimento da parte.
+Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGADA CONTRARIEDADE À JURISPRUDÊNCIA DESTA CORTE. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(..)
+3. A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado.
+(..)
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl na Rcl n. 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023.)
+Sendo assim, não há como se reconhecer, no caso concreto, a presença do vício de contradição, de que trata o art. 1.022, I, do CPC/2015.
+No mais, observa-se que o Tribunal a quo considerou que "o fato de ser dado provimento em algum dos pontos suscitados nos embargos à execução não é fator determinante para conceder-lhe efeito suspensivo, tão pouco para considerar o título inexequível" (e-STJ, fl. 274).
+O entendimento acima se encontra em consonância à jurisprudência do STJ, de acordo com a qual a constatação de excesso de execução, por cobrança de encargos indevidos, não retira, por si só, a liquidez do título executivo, devendo os eventuais excessos serem decotados do montante exequendo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO D O CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. RECÁLCULO DETERMINADO DE OFÍCIO. POSSIBILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a constatação de excesso de execução por cobrança de encargos indevidos, por si só, não retira a liquidez do título executivo e não autoriza a extinção automática da execução, devendo os excessos serem decotados do montante devido.
+2. Ademais, "o magistrado pode, de ofício, ordenar o recálculo do montante devido quando identificar excesso de execução, pois se trata de matéria de ordem pública." (AgInt no REsp n. 1.949.049/TO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021.) 3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.104.330/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 31/3/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. INEXIGIBILIDADE PARCIAL DO TÍTULO EXECUTIVO. ILIQUIDEZ AFASTADA. DECOTE DO EXCESSO POR SIMPLES CÁLCULO ARITMÉTICO. JURISPRUDÊNCIA PACÍFICA. INCIDÊNCIA DA SÚMULA 7/STJ. ÓBICES DAS SÚMULAS 168 E 315/STJ.
+(..)
+3. Pacífico o entendimento segundo o qual a alteração do valor constate da CDA em decorrência da configuração do excesso de execução não macula a liquidez nem a exigibilidade do referido título executivo, contanto que a quantia devida possa ser aferida por meros cálculos aritméticos, hipótese em que o valor excessivo deve ser decotado do débito cobrado, sem a necessidade de retificação ou substituição da certidão. Precedentes: REsp 1.115.501/SP (repetitivo), Rel. Ministro Luiz Fux, Primeira Seção, DJe 30/11/2010; AgInt no AREsp 1.426.290/SP, Rel. Ministro Fransciso Falcão, Segunda Turma, DJe 29/4/2021; AgInt no AREsp 1.478.079/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2020; REsp 1.811.226/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/8/2020; AgRg no REsp 1.176.709/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28/10/2011. Aplicação do óbice da Súmula 168/STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.878.663/RJ, relator Ministro Og Fernandes, Primeira Seção, julgado em 14/9/2021, DJe de 16/9/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SUPOSTA NEGATIVA DE PRESTAÇÃO JURISDICIONAL PERPETRADA NA ORIGEM. INOVAÇÃO RECURSAL. AÇÃO REVISIONAL. ILIQUIDEZ DE TÍTULO EXEQUENDO. NÃO OCORRÊNCIA. MERA ADEQUAÇÃO DA EXECUÇÃO AO MONTANTE APURADO NA REVISIONAL. PRECEDENTES. ALEGADA AUSÊNCIA DE TÍTULOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO, COM APLICAÇÃO DE MULTA.
+(AgRg no AREsp n. 337.482/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/8/2014, DJe de 4/9/2014.)
+Dessa forma, por estar o acórdão vergastado em consonância ao posicionamento desta Casa, de rigor a aplicação, à espécie, do verbete n. 83 da Súmula do STJ.
+Quanto aos honorários sucumbenciais, verifica-se que a Corte regional decidiu pelo seu arbitramento de forma equitativa, em razão do "elevado valor da ação de execução" (e-STJ, fl. 274).
+Esse posicionamento, contudo, não se harmoniza com a jurisprudência deste Tribunal Superior, firmada no sentido de que o § 8º do art. 85 do CPC/2015 incide apenas quando o valor da causa é muito baixo, ou quando o proveito econômico experimentado é irrisório ou inestimável, o que não se verifica nos autos.
+Assim, caberia à segunda instância fixar a verba honorária com base no valor do proveito econômico e em observância aos limites impostos pelo § 2º do art. 85 do CPC/2015.
+Oportunamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SOB O RITO DOS RECURSOS REPETITIVOS. ART. 85, §§ 2º, 3º, 4º, 5º, 6º E 8º, DO CPC. HONORÁRIOS SUCUMBENCIAIS. VALORES DA CONDENAÇÃO, DA CAUSA OU PROVEITO ECONÔMICO DA DEMANDA ELEVADOS. IMPOSSIBILIDADE DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. RECURSO ESPECIAL CONHECIDO E PROVIDO. RECURSO JULGADO SOB A SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015, C/C O ART. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.
+(..)
+24. Teses jurídicas firmadas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+25. Recurso especial conhecido e provido, devolvendo-se o processo ao Tribunal de origem, a fim de que arbitre os honorários observando os limites contidos no art. 85, §§ 3º, 4º, 5º e 6º, do CPC, nos termos da fundamentação.
+26. Recurso julgado sob a sistemática do art. 1.036 e seguintes do CPC/2015 e art. 256-N e seguintes do Regimento Interno do STJ.
+(REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022.)
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de redimensionar os honorários sucumbenciais devidos pela parte adversa, fixando-os no patamar de 10% (dez por cento) sobre o valor do proveito econômico.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. DECISÃO RECORRIDA. CONTRADIÇÃO INTERNA. INEXISTÊNCIA. 2. EXCESSO DE EXECUÇÃO. ILIQUIDEZ DE TÍTULO EXEQUENDO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. 3. HONORÁRIOS SUCUMBENCIAIS. APLICAÇÃO DA EQUIDADE PREVISTA NO ART. 85, § 8º, DO CPC/2015. IMPOSSIBILIDADE. PRECEDENTE. 4. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
