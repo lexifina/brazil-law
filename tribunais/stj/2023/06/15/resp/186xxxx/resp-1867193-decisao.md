@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOÃO FERNANDES COELHO com fundamento na alínea "a" do permissivo constitucional.
+O acórdão prolatado na origem pelo egrégio Tribunal de Justiça do Estado de São Paulo está assim ementado (fl. 239):
+- Previdência privada Ação que visa restituição de todas as mensalidades pagas pelo autor "seja para o plano de previdência privada, seja para o plano de seguro de vida" Documentos apresentados pelo autor demonstram que o contrato "conjugado" foi alterado e mantido apenas o contrato de seguro a partir de, pelo menos, 2002 Prova da ciência inequívoca do autor acerca das coberturas relativas, exclusivamente, a contrato de risco e de pecúlio Prescrição de dez anos ocorrida Recurso provido.
+Nas razões do seu recurso especial, JOÃO FERNANDES COELHO, com fundamento na alínea "a" do permissivo constitucional, disse violados os arts. 6º, 31, 38, 46, e, 54, § 4º, do Código de Defesa do Consumidor.
+Aduziu, em síntese, que "A decisão do Tribunal "a quo" ignora a aplicação bem realizada em primeiro grau das premissas e dispositivos do CDC, afastando o direito do consumidor e relegando-o à sorte de estar em pé de igualdade com seu poderoso oponente, perante o poder judiciário. Afastado o CDC, como fez, o acórdão combatido, o autor restou vulnerável, posto que, segundo o relator deveria ter entendido o comunicado recebido, por ser fácil de entender, em 2002, data em que, segundo os julgadores teria tido início o prazo prescricional para reclamar a alteração promovida unilateralmente pela recorrida" (fls. 251-252).
+Houve apresentação de contrarrazões às fls. 255-268.
+O recurso foi admitido na origem.
+É, no essencial, o relatório.
+O presente recurso não ultrapassa a barreira do conhecimento.
+Inicialmente, verifica-se que não houve o prequestionamento da alegação de ofensa aos arts. 6º, 31, 38, 46, e, 54, § 4º, do Código de Defesa do Consumidor, formulada sob o argumentos de que "A decisão do Tribunal "a quo" ignora a aplicação bem realizada em primeiro grau das premissas e dispositivos do CDC, afastando o direito do consumidor e relegando-o à sorte de estar em pé de igualdade com seu poderoso oponente, perante o poder judiciário. Afastado o CDC, como fez, o acórdão combatido, o autor restou vulnerável, posto que, segundo o relator deveria ter entendido o comunicado recebido, por ser fácil de entender, em 2002, data em que, segundo os julgadores teria tido início o prazo prescricional para reclamar a alteração promovida unilateralmente pela recorrida" (fls. 251-252).
+Com efeito, essa tese não foi objeto de análise pelo Tribunal de origem no acórdão recorrido contra o qual sequer foram opostos embargos de declaração. Portanto, em face da ausência de prequestionamento, revela-se inviável o seu conhecimento, nos termos das Súmulas n. 282 e 356 do Supremo Tribunal Federal, aplicáveis por analogia.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. ESQUECIMENTO DE CORPO ESTRANHO NA CAVIDADE ABDOMINAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DANO MORAL. VALOR. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas . 282 e 356 do STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1509917/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. IMPENHORABILIDADE DE IMÓVEL BEM DE FAMÍLIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1683495/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019.)
+No mais, ainda que superados referidos óbices, exsurge deficiente a fundamentação recursal, pois o recorrente se limitou a indicar os dispositivos supostamente violados, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, dando azo à aplicação, por analogia, do óbice da Súmula n. 284/STF.
+Com efeito, "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/9/2017, DJe de 15/9/2017).
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 12% sobre o valor da causa , observada a eventual e anterior concessão da gratuidade judiciária.
+Diante do exposto, não conheço do recurso especial.
+Intimem-se.
