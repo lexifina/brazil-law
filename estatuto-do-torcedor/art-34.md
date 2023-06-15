@@ -1,1 +1,0 @@
-Art. 34. É direito do torcedor que os órgãos da Justiça Desportiva, no exercício de suas funções, observem os princípios da impessoalidade, da moralidade, da celeridade, da publicidade e da independência.

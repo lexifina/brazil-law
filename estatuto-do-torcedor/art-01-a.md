@@ -1,1 +1,0 @@
-Art. 1º-A. A prevenção da violência nos esportes é de responsabilidade do poder público, das confederações, federações, ligas, clubes, associações ou entidades esportivas, entidades recreativas e associações de torcedores, inclusive de seus respectivos dirigentes, bem como daqueles que, de qualquer forma, promovem, organizam, coordenam ou participam dos eventos esportivos.
