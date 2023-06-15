@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e CAIXA DE PREVIDÊNCIA DOS FUNCS. DO BANCO DO BRASIL (MULTIPLAN e outra) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, MULTIPLAN e outra alegaram a violação dos arts. 489, § 1º, IV, e 1.022, II, do NCPC; 54 da Lei n.º 8.245/91; e 364, 421, parágrafo único, e 422 do CC. Sustentaram, em síntese, (1) omissão do acórdão recorrido acerca da impossibilidade de afastamento dos encargos expressamente previstos no contrato locatício sobre as parcelas do parcelamento do débito; e (2) a necessidade de aplicação das penalidades decorrentes do descumprimento do contrato de locação originário, com vistas à atualização do débito que foi parcelado por força de acordo entabulado entre as partes, em observância aos princípios da boa-fé objetiva e pacta sunt servanda, bem como por não ter ficado caracterizado, no caso, a ocorrência de novação.
+(1) Da violação dos arts. 489, § 1º, IV, e 1.022, II, do NCPC
+Nas razões do recurso especial, MULTIPLAN e outra sustentaram, preliminarmente, que o aresto recorrido deixou de pronunciar sobre a impossibilidade de afastamento dos encargos expressamente previstos no contrato de locação para a hipótese de inadimplemento.
+Contudo, sem razão.
+Sobre o tema, ao julgar os embargos de declaração opostos pelas ora insurgentes, o TJDFT assim consignou:
+Verifica-se não haver omissão no julgado, pois houve o estabelecimento expresso da responsabilidade dos fiadores frente aos valores já concedidos na sentença (ID 99545725). Nesse aspecto, a sentença condenou as partes "ao pagamento do valor de R$ 46.889,78 (quarenta e seis mil, oitocentos e oitenta e nove reais e setenta e oito centavos) referente as parcelas dos meses de setembro e outubro de 2019, corrigidas monetariamente e acrescidas de juros de 1% ao mês desde seus respectivos vencimentos até a data do efetivo pagamento (planilha ID 40124513 - Pág. 6)". Eis as razões de decidir do juízo sentenciante:
+ ..
+O acordo realizado entre as partes teve por intenção extinguir a obrigação pela facilitação do pagamento, a partir de concessões, especialmente com relação ao prazo (parcelamento) e ao valor da dívida (sem os encargos). No parcelamento oferecido, conforme consta nos autos, não houve a cobrança dos encargos contratuais, como de praxe, e nem a sinalização de que seriam posteriormente cobrados. Por isso, não houve surgimento de nova obrigação, como nos casos de novação, mas apenas flexibilização da dívida, de modo que a cobrança dos encargos originais significa comportamento contraditório ("venire contra factum proprium") porque viola a boa-fé objetiva e a lealdade contratual (e-STJ, fls. 739/740).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do NCPC, o que buscam MULTIPLANe outra é apenas manifestar o seu inconformismo com o resultado do julgamento que lhes foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original.)
+Não houve, assim, a apontada ofensa à lei processual.
+(2) Da incidência dos encargos contratuais
+Por sua vez, as ora insurgentes defenderam a necessidade de aplicação das penalidades decorrentes do descumprimento do contrato de locação originário, com vistas à atualização do débito que foi parcelado por força de acordo entabulado entre as partes, em observância aos princípios da boa-fé objetiva e pacta sunt servanda, bem como por não ter ficado caracterizado, no caso, a ocorrência de novação.
+Todavia, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que a conclusão firmada pela Corte local, no sentido do afastamento dos encargos previstos, originalmente, no contrato locatício que ensejou o ajuizamento da ação monitória ora em discussão, decorreu da análise dos elementos fáticos da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Nessas condições, CON HEÇO do agravo de MULTIPLAN e outra para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE LOCAÇÃO. ACORDO PARA PARCELAMENTO DA DÍVIDA. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. (2) INCIDÊNCIA DOS ENCARGOS PREVISTOS NO CONTRATO ORIGINÁRIO. QUESTÃO DECIDIDA A PARTIR DOS ELEMENTOS FÁTICOS DA CAUSA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE MULTIPLAN e outra PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
