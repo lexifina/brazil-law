@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Presidente Prudente contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 248):
+CUMPRIMENTO DE SENTENÇA SINTRAPP -Intempestividade da impugnação Irrelevância Matéria de ordem pública, sujeita à apreciação a qualquer momento GEIA Gratificação pro labore faciendo Caráter transitório Impossibilidade de inclusão no cálculo da execução Agravo de instrumento não provido.
+Opostos embargos declaratórios pela parte agravada os quais foram parcialmente acolhidos, sem efeito infringente, para alterar a redação do dispositivo, que passa a ser esta: "Ante o exposto, por meu voto nego provimento ao agravo, com observação de a impugnação ao cumprimento de sentença ser intempestiva". (fls. 264/266).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, e parágrafo único, II, c/c art. 489, § 1º, IV, do CPC e 5º, §§ 1º e 3º, da Lei n. 11.419/06. Sustenta, além de negativa de prestação jurisdicional, que seja reconhecido "a tempestividade da impugnação ao cumprimento de sentença apresentado." (fl. 342).
+Contrarrazões às fls. 358/371.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 1.022, II, e parágrafo único, II, c/c art. 489, § 1º, IV, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 265/266):
+De fato, não houve pronunciamento explícito quanto à intempestividade da impugnação ao cumprimento de sentença oposto pelo Município de Presidente Prudente. A manifestação está, de fato, fora do prazo.
+A publicação da decisão que concedeu prazo de 90 dias para impugnar foi publicada no dia 22 de março de 2021, tendo se encerrado no dia 3 de agosto do mesmo ano. A impugnação de fls. 180/188, no entanto, foi protocolada em 5 de agosto de 2021. Intempestivamente, portanto.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, no sentido da intempestividade da impugnação ao cumprimento de sentença, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2.IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. TERMO INICIAL. INTERPRETAÇÃO DOS ARTS. 523 E 525 DO CPC/2015. PRAZOS SUCESSIVOS. 3. INTEMPESTIVIDADE AFASTADA. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Com efeito, após a intimação do devedor para o cumprimento de sentença, nos termos do art. 523 do CPC/2015, abrem-se dois prazos sucessivos: i) 15 (quinze) dias para pagamento voluntário do débito; e, na sequência, ii) mais 15 (quinze) dias para a apresentação de impugnação ao cumprimento de sentença, independentemente de nova intimação ou penhora.
+2.1. Na hipótese, não merece reforma o acórdão recorrido, na medida em que decidiu com amparo na melhor interpretação dos arts. 523 e 525 do CPC/2015, conforme entendimento já firmado por esta Corte, no sentido de que, nos termos do art. 525 do CPC/2015, "transcorrido o prazo previsto no art. 523 sem o pagamento voluntário, inicia-se o prazo de 15 (quinze) dias para que o executado, independe ntemente de penhora ou nova intimação, apresente, nos próprios autos, sua impugnação" (REsp 1.833.935/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/5/2020, DJe 11/5/2020).
+3. A revisão do julgado a quo acerca da tempestividade da impugnação ao cumprimento de sentença com suporte no entendimento asseverado anteriormente exigiria o revolvimento do conjunto fático-probatório dos autos, o que não se admite em recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.689.760/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/11/2020, DJe de 20/11/2020. g.n)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
