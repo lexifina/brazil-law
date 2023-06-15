@@ -1,4 +1,0 @@
-Art. 17. É direito do torcedor a implementação de planos de ação referentes a segurança, transporte e contingências que possam ocorrer durante a realização de eventos esportivos.
-§ 1º Os planos de ação de que trata o caput serão elaborados pela entidade responsável pela organização da competição, com a participação das entidades de prática desportiva que a disputarão e dos órgãos responsáveis pela segurança pública, transporte e demais contingências que possam ocorrer, das localidades em que se realizarão as partidas da competição.
-§ 2º Planos de ação especiais poderão ser apresentados em relação a eventos esportivos com excepcional expectativa de público.
-§ 3º Os planos de ação serão divulgados no sítio dedicado à competição de que trata o parágrafo único do art. 5º no mesmo prazo de publicação do regulamento definitivo da competição.

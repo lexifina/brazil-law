@@ -1,1 +1,0 @@
-Art. 21. A entidade detentora do mando de jogo implementará, na organização da emissão e venda de ingressos, sistema de segurança contra falsificações, fraudes e outras práticas que contribuam para a evasão da receita decorrente do evento esportivo.

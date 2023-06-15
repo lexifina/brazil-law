@@ -1,9 +1,0 @@
-Art. 41-B. Promover tumulto, praticar ou incitar a violência, ou invadir local restrito aos competidores em eventos esportivos:.
-Pena - reclusão de 1 (um) a 2 (dois) anos e multa.
-§ 1º Incorrerá nas mesmas penas o torcedor que:.
-I - promover tumulto, praticar ou incitar a violência num raio de 5.000 (cinco mil) metros ao redor do local de realização do evento esportivo, ou durante o trajeto de ida e volta do local da realização do evento;.
-II - portar, deter ou transportar, no interior do estádio, em suas imediações ou no seu trajeto, em dia de realização de evento esportivo, quaisquer instrumentos que possam servir para a prática de violência.
-§ 2º Na sentença penal condenatória, o juiz deverá converter a pena de reclusão em pena impeditiva de comparecimento às proximidades do estádio, bem como a qualquer local em que se realize evento esportivo, pelo prazo de 3 (três) meses a 3 (três) anos, de acordo com a gravidade da conduta, na hipótese de o agente ser primário, ter bons antecedentes e não ter sido punido anteriormente pela prática de condutas previstas neste artigo.
-§ 3º A pena impeditiva de comparecimento às proximidades do estádio, bem como a qualquer local em que se realize evento esportivo, converter-se-á em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta.
-§ 4º Na conversão de pena prevista no § 2º, a sentença deverá determinar, ainda, a obrigatoriedade suplementar de o agente permanecer em estabelecimento indicado pelo juiz, no período compreendido entre as 2 (duas) horas antecedentes e as 2 (duas) horas posteriores à realização de partidas de entidade de prática desportiva ou de competição determinada.
-§ 5º Na hipótese de o representante do Ministério Público propor aplicação da pena restritiva de direito prevista no art. 76 da Lei nº 9.099, de 26 de setembro de 1995, o juiz aplicará a sanção prevista no § 2º.
