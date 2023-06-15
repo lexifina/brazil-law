@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GABRIEL PEDRO JANUÁRIO NEVES em face da decisão proferida às e-STJ fls. 84/87.
+Em suas razões (e-STJ fls. 91/93), o embargante alega que a confissão extrajudicial foi alvo de habeas corpus na origem, tendo sido aquele wr it não conhecido pelo Desembargador Relator Hermann Herschander, da 14º Câmara de Direito Criminal, sendo certo que este fato foi apontado na petição inicial (e-STJ fl. 92). Também argumenta que a jurisprudência do Superior Tribunal de Justiça, compreende que mesmo sendo Habeas Corpus sucedâneo de revisão criminal, cabe ao tribunal dar origem à análise dos pedidos sob risco de violação ao princípio da inafastabilidade da jurisdição (e-STJ fl. 92).
+Ao final, pede o acolhimento dos presentes embargos, com efeitos modificativos.
+É o relatório. Decido.
+É ressabido que os embargos de declaração são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso, inexiste omissão, contradição, obscuridade ou ambiguidade a ser dirimida, tendo em vista que, de fato, a confissão do paciente não foi objeto de exame pela Corte local, seja no julgamento da apelação interposta pela defesa, seja no julgamento do habeas corpus posteriormente impetrado e decidido por meio de decisão monocrática. Em relação ao mandamus impetrado na origem, cabe destacar, ademais, o não exaurimento da instância originária, posto que a defesa não se insurgiu, perante o órgão colegiado do próprio Tribunal a quo, contra a decisão monocrática que não examinou o mérito da pretensão então formulada.
+Nesse contexto, além de o mérito do pedido de reconhecimento da atenuante da confissão espontânea não ter sido efetivamente debatido na origem, conforme consta da decisão retro, a defesa do paciente não se desincumbiu do dever de exaurir a instância originária, o que constitui óbice adicional à pretensão deduzida no presente writ.
+Portanto, os presentes embargos declaratórios não comportam acolhimento, na medida em que a decisão embargada não incorreu em nenhum vício que demande integração.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
