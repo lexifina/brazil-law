@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CELSO CARVALHO DO AMARAL à decisão de fls. 1150/1151, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A v. decisão monocrática comporta duas interpretações, relativamente ao montante final da majoração dos honorários (ao se conjugar a carga decisória deste E. STJ com os decisum do Tribunal a quo), razão pela qual deve ser sanada tal dúvida (obscuridade), através dos presentes embargos de declaração.
+ ..
+Outrossim, ao aplicar a carga decisória v. da decisão monocrática, proferida por este E. STJ, em sede de agravo em recurso especial, surge dúvida se ocorreu a majoração dos honorários de 10% (dez por cento) para 11,5% (onze e meio por cento) ou se os honorários foram majorados para 20% (vinte por cento), considerado o limitador de majoração existente junto ao art. 85, § 11, do CPC.
+Assim, a dúvida reside no fato de que se há soma do percentual de 15% (quinze) por cento, ao percentual já existente e previamente fixado de 10% (dez por cento); o que resultaria no montante de 25% (vinte e cinco por cento) e - via de consequência - reduzido a 20% (vinte por cento) pelo art. 85, § 11, do CPC; ou se haveria a aplicação do percentual de 15% (quinze por cento) sobre o percentual já fixado, o que majoraria apenas 1,5% (um e meio por cento); resultando no percentual final de 11,5% (onze e meio por cento) - 1155/1156.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que os honorários recursais foram fixados em desfavor da parte embargada de forma clara, no importe de 15% sobre o montante já arbitrado, ou seja, os honorários sucumbenciais fixados nas instâncias ordinárias, seja de forma equitativa, seja em percentual sobre o valor da condenação, da causa ou do proveito econômico obtido, servirão como base de cálculo sobre a qual incidirão os 15% da majoração, observados, sempre que aplicáveis, os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
