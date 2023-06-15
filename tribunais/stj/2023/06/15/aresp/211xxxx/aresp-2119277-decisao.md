@@ -1,0 +1,47 @@
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, JACQUELINE alegou a violação dos arts. 489, §1º, IV e V, 550 do CPC, 4.º, IV, 6.º, III, do CDC, ao sustentar que (1) há omissão no acórdão recorrido; (2) o BANCO deve prestar contas de forma mercantil, contábil e cronológica acerca dos lançamentos descritos na inicial; e (3) o correntista tem direito de solicitar informações sobre lançamentos realizados unilateralmente pelo banco em sua conta corrente.
+(1) Da alegada afronta ao art. 489 do NCPC.
+No pertinente à apontada vulneração dos mencionados dispositivos legais, a interpretação que se extrai é que a parte se limitou a manifestar sua irresignação, não tendo declinado as correspondentes razões de forma específica.
+Ressalta-se que o mero inconformismo sem especificar de que modo teria concretamente ocorrido a violação de normativo federal, não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula nº 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 170, §1º, DA LEI Nº 6.404/76, 467 E 471 DO CPC DE 1973. SÚMULA 284 DO STF. SÚMULA 371 DO STJ. VALOR PATRIMONIAL DA AÇÃO. INVIABILIDADE DE VIOLAÇÃO DE SÚMULA DE TRIBUNAL SUPERIOR E FALTA DE PREQUESTIONAMENTO. VALOR CORRETO DA COTAÇÃO DA AÇÃO. SÚMULA 7 DO STJ. RENDIMENTOS DOS DIVIDENDOS. SÚMULA 284 DO STF.
+1. Em relação à alegada ofensa aos arts. 170, §1º, da Lei nº 6.404/76, 467 e 471 do CPC/73, não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+2. "Incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior". (AgRg no AREsp 462.700/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/05/2014, DJe 05/06/2014).
+3. A matéria referente ao critério do balancete mensal para a apuração do valor patrimonial da ação não foi apreciada pelo Tribunal de origem, carecendo do indispensável prequestionamento.
+4. O acolhimento da pretensão recursal acerca do correto valor da cotação da ação demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. No tocante ao tema dos rendimentos dos dividendos, a ausência de indicação de dispositivo de lei federal tido por violado caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 802.042/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DANOS MATERIAIS E MORAIS. REEXAME DE PROVAS.SÚMULA Nº 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Rever as conclusões do acórdão recorrido acerca da ocorrência dos danos materiais e morais demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no AREsp 473.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 20/6/2016)
+(2) e (3) Da prestação de contas.
+Sob a questão o TJSP, consignou:
+O pedido inicial da demanda não pode ser conhecido por ser genérico. A autora/agravada fundamenta seu pedido em dúvidas acerca do sistema de créditos e débitos realizados em relação ao capital administrado pelo réu/agravante. No entanto, não demonstra com clareza quais os pontos de divergência, condição necessária para a ação de prestação de contas.
+A irresignação da autora/agravada, nestes termos, por si só, não tem o condão de justificar a propositura da prestação de contas, pois abrange período extenso da relação contratual entre as partes, sem descrever a conduta concreta e duvidosa do agravante em relação à movimentação específica da conta, o que dificulta inclusive o contraditório. Cumpre salientar que a simples menção da data, a movimentação e o valor da operação não suprem a ausência de indicação clara do pedido e causa de pedir para a exigência de contas referentes aos lançamentos meramente listados no laudo constante da inicial, sem a descrição, exata e precisa de conduta duvidosa do réu/agravante.
+Carece, pois, a autora/agravada de interesse processual (e-STJ, fl. 133, sem destaque no original).
+De acordo com a jurisprudência desta Corte, o correntista possui interesse processual para exigir a prestação de contas, sendo, contudo, imprescindível que aponte concreta e fundamentadamente as irregularidades detectadas, não bastando a mera referência genérica a respeito, como se verificou no presente caso.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INÉPCIA DA INICIAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO GENÉRICO. FALTA DE INTERESSE PROCESSUAL CONFIGURADO. PRECEDENTES. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A Segunda Seção desta Corte firmou entendimento de que, a despeito de ser cabível a ação de prestação de contas pelo titular de conta corrente (Súmula nº 259 do STJ), é imprescindível que o autor aponte, em sua inicial, o período exato em que ocorreram lançamentos duvidosos, com exposição de motivos consistentes que justifiquem a provocação do Poder Judiciário.
+4. Impõe a extinção da demanda, por falta de interesse de agir, a apresentação de pedido genérico, no qual se inclui aqueles como o dos autos, em que se pleiteia a prestação de contas referente a todo o período da contratação.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp n. 1.175.258/PR, de minha relatoria, Terceira Turma, julgado em 14/8/2018, DJe de 24/8/2018.)
+Dessa maneira, constata-se a carência da ação pela falta do interesse de agir da autora, ao não apresentar pedido delimitado para a prestação de contas, pugnando, genericamente, pela apresentação das contas de todo o período. Merece, portanto, ser mantido o acórdão recorrido.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da JACQUELINE, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão da justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. ART. 489 DO NCPC. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284 DO STF. PEDIDO GENÉRICO. OCORRÊNCIA. CARÊNCIA DE AÇÃO. FALTA DE INTERESSE PROCESSU AL CONFIGURADO. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+Trata-se de agravo em recurso especial interposto por JACQUELINE DE OLIVEIRA RODRIGUES (JACQUELINE) contra decisão que negou seguimento ao seu apelo nobre.
