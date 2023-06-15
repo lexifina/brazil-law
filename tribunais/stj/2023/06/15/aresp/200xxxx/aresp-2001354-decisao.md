@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por WALDEMAR NAVES DO AMARAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO GOIÁS cuja ementa guarda os seguintes termos (fl. 1175):
+GRAVO INTERNO EM AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVORECURSAL NEGADO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA.
+1. Para a concessão do efeito suspensivo postulado, é necessária a presença concomitante de 02 (dois) requisitos delineados no art. 995, parágrafo único, do atual CPC, quais sejam: a) a demonstração da probabilidade de provimento do recurso (fumus boni iuris); e b) a constatação de que, prevalecendo a decisão impugnada, poderá a parte agravante experimentar dano grave, de difícil ou impossível reparação (periculum in mora).
+2. Se faltar quaisquer dos pressupostos citados, como no caso ocorrera, o indeferimento da suspensividade recursal é medida que se impõe.
+3. Não havendo nos autos argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, é de rigor a sua manutenção.
+AGRAVO INTERNO DESPROVIDO."
+Embargos de declaração rejeitados (fls. 1208/1226).
+No recurso especial, alega a recorrente afronta aos arts. 505, 507 e 508 do Código de Processo Civil, ao defender em síntese, a ocorrência de coisa julgada formal e de preclusão pro judicato, no caso dos autos, em ofensa ao princípio da segurança jurídica, "cerca de um ano depois do levantamento do numerário, como estampam os eventos 88, que culminou com a expedição dos alvarás dos eventos 145, 146 e 147, todos de 10 de outubro de 2019, decididas pelo Juiz Willian Melo, é que sobreveio a Exceção de Não Executividade, do evento 156, inadequadamente decidida no evento de n. 174, pelo Magistrado Pedro Corrêa" (fl. 1233).
+Não foram apresentadas contrarrazões ao recurso especial (fls. 1256)
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1259-1261), o que ensejou a interposição do presente agravo.
+Suscita, outrossim, divergência jurisprudencial.
+Não foi apresentada contraminuta do agravo (fls. 1294).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo à análise do recurso especial.
+Não merece prosperar o recurso.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento a agravo interno no agravo de instrumento interposto pelo ora recorrente, não apreciou questão referente a eventual ocorrência de coisa julgada formal e de preclusão pro judicato, em relação a levantamento do numerário, e respectiva expedição de alvarás.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ. (AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos. (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso. (AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito. (AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
