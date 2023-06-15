@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por ADÃO LEMES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 261):
+AÇÃO DE ANULAÇÃO DE CONTRATO DE EMPRÉSTIMO CONSIGNADO, COMBINADA COM REPETIÇÃO DE INDÉBITO (PELA DOBRA) E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. DEPÓSITO DO SALDO NA CONTA DA PARTE AUTORA, A QUAL, POR SUA VEZ, NÃO EXIBIU O EXTRATO DE CONTA CORRENTE DO PERÍODO. ATO ILÍCITO NÃO DEMONSTRADO. AUSÊNCIA DE PROVA DOS DANOS MATERIAIS E MORAIS. IMPOSIÇÃO, DE OFÍCIO, DE MULTA POR LITIGÂNCIA DE MÁ-FÉ, PELA TENTATIVA DE ALTERAÇÃO DA VERDADE DOS FATOS. RECURSO DESPROVIDO.
+Na origem, cuida-se de ação de restituição de valores e indenização por dano moral relativo a contrato de empréstimo consignado que o ora agravante afirma não ter contratado. O Juízo de primeiro grau julgou improcedentes os pedidos. O Tribunal de origem julgou improcedente a apelação e condenou o ora agravante por litigância de má-fé.
+Sem embargos de declaração.
+No recurso especial, alega o recorrente, preliminarmente, ofensa aos arts. 489, II e § 1º, IV e VI, e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 79, 80 e 81 do CPC.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 321-331).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 334-335), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 357-361).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não comporta conhecimento a alegada violação dos arts. 489 e 1.022 do CPC, visto que embasada na alegação de vícios no julgado que não foram sanados no julgamento dos embargos de declaração, sendo que não houve o manejo do referido recurso de declaratórios na origem a revelar que as razões do especial estão dissociadas das circunstâncias fáticas dos autos, atraindo ao ponto a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+3. No mais, em relação à ofensa aos arts. 11 e 489, § 1º, IV, do CPC/2015, em decorrência da suposta ausência de enfrentamento de argumentos deduzidos no processo, verifica-se que a parte recorrente não opôs embargos de declaração na origem a fim de provocar a Corte de origem a se manifestar sobre eventuais omissões no julgado. Nesse contexto, considerando que não houve a necessária oposição de embargos de declaração sobre o tema, o exame da nulidade do julgado encontra-se inviabilizado em razão do óbice contido na Súmula 284/STF. (AgInt no AREsp n. 1.455.291/CE, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 2/6/2022.)
+II - Inviável a apreciação de alegação de violação aos arts. 489 e 1.022 do CPC/2015, uma vez que não foram opostos embargos de declaração em face do acórdão recorrido, circunstância que atrai a incidência da Súmula 284/STF, porquanto deficiente a fundamentação do recurso. (AgInt nos EDcl no REsp n. 1.967.752/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 12/5/2022.)
+1. Os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF. (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Com efeito, observa-se que a Corte de origem reconheceu a validade do empréstimo consignado, pois comprovou-se a existência do contrato e a disponibilização do crédito nos seguintes termos (fl. 262):
+Diante da exibição do contrato, a acionante não demonstrou o desrespeito às formalidades essenciais para a validade do ato, limitando-se a assentar, de forma aleatória e enigmática, que fora vítima de fraude.
+Não há na causa de pedir ou nas demais manifestações explicação sobre a forma da fraude, nem sobreo eventual vício de consentimento, o qual, de resto, não foi comprovado.
+Além disso, a ré mencionou a disponibilização da quantia mutuada em favor da parte autora mediante o depósito do saldo na conta corrente dela, exibindo o comprovante constante no evento 32, "Outros 4".
+A parte autora ignorou a tese defensiva, não informando se a conta apresentada pelo réu é sua e tampouco trouxe aos autos extratos demonstrando a movimentação do período, ônus que lhe competia, nem aludiu a eventual impossibilidade de fazê-lo, razão pela qual considero o ponto incontroverso.
+ ..
+Esse o quadro, havendo contrato regularmente assinado, existindo documento comprobatório da transferência bancária, tenho que os pedidos iniciais são improcedentes, devendo a sentença ser mantida.
+No que concerne à condenação por litigância de má-fé, o Tribunal de origem formou sua convicção à luz do conjunto probatório dos autos, fundamentando os motivos que levaram à condenação. Nesse sentido, destacou a origem (fl. 263):
+Após a contestação, deparou-se com cópia do ajuste e mesmo assim seguiu litigando, apresentando longa impugnação e insistindo na existência de um fantasioso golpe, sem nem sequer carrear aos autos cópia da sua movimentação financeira.
+O uso abusivo do processo é latente, com clara tentativa de alteração da verdade dos fatos e uso do Poder Judiciário para conseguir objetivo ilegal, nos termos do artigo 80, II e III, do CPC15.
+Para acolher a tese recursal de que a recorrida não agiu com litigância de má-fé, alterando a verdade dos fatos para a obtenção de vantagem ilegal, seria necessário reexaminar os fatos e as provas, o que é vedado em recurso especial ante a incidência da Súmula n. 7/STJ.
+Nesse sentido, trago julgados :
+1. O tribunal de origem formou sua convicção à luz do acervo probatório dos autos, fundamentando os motivos que levaram à condenação, de forma que a intervenção desta Corte quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ.
+4. O acolhimento da tese recursal de que a recorrida agiu com litigância de má-fé ao alterar a verdade dos fatos, esbarra na redação da Súmula nº 7/STJ, porquanto ensejaria a análise de fatos e de provas por esta Corte Superior.
+(AgInt no AREsp n. 2.105.442/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/5/2023.)
+4. A questão relativa à a condenação da parte por litigância de má-fé não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ).
+(AgInt no AREsp n. 2.072.100/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 10/5/2023.)
+3. A alteração da orientação firmada no aresto impugnado, acerca da inexistência de coisa julgada, da nulidade do título executivo e da ocorrência de litigância de má-fé, só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo e do reexame das cláusulas contratuais, providências vedadas nesta instância extraordinária em decorrência do disposto nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+(AgInt no AREsp n. 2.239.805/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/5/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
