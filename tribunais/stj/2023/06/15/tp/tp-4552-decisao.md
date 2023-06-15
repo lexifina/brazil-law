@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória de urgência proposta por PRISCILA TATIANE DE MELO FONSECA e WILSON RODRIGUES FONSECA (PRISCILA e WILSON) objetivando a concessão de efeito suspensivo ao agravo em recurso especial interposto, em trâmite perante o Tribunal de Justiça do Estado de São Paulo/SP.
+Esclarecem que PAULA SADIE KALOUSSE ME e GEORGES NADIM KALOUSSE (EXEQUENTES) ajuizaram execução por título extrajudicial contra WA EVENTOS E ARTIGOS DE FESTAS EIRELLI e WA ARTIGOS DE FESTA E DESCARTÁVEIS LTDA ME (EXECUTADOS).
+Informam que, diante das frustradas tentativas de penhora de bens e por não terem eles sido encontrados nos endereços indicados, configurando a dissolução irregular da sociedade, foi instaurado incidente de desconsideração da personalidade jurídica, julgado procedente pelo TJSP, ensejando o manejo de recurso especial por violação dos arts. 49-A e 50 do CC/02, sob o argumento que a falta de informação sobre a alteração do endereço e do tipo societário não são aptos para a responsabilização dos sócios.
+Noticiam que com a publicação do acórdão, postularam em primeiro grau solicitando a pesquisa bens e bloqueio de valores, cujo pedido foi deferido e obtido êxito, circunstância que causa dano irreparável ou de difícil reparação por influenciar no desenvolvimento de suas atividades empresariais.
+Requerem, ao final, a concessão de tutela de urgência para atribuir imediatamente efeito suspensivo ao recurso especial suspendendo a possibilidade de realização ou prosseguimento de quaisquer atos executórios e revogação dos já realizados em face dos requerentes até o final julgamento do recurso especial; (e-STJ, fl. 19).
+É o relatório.
+A concessão de tutela antecipada se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Compulsando os autos, verifico que provido o agravo de instrumento para deferir a desconsideração da personalidade jurídica dos EXECUTADOS, objeto do agravo em recurso especial ao qual se pretende a concessão de efeito suspensivo, PRISCILA e WILSON foram incluídos na parte passiva da execução e tiveram ativos financeiros bloqueados.
+Todavia, não se verifica que houve autorização de levantamento do numerário, tão pouco demonstrado que os valores objeto da constrição pudessem prejudicar o desenvolvimento da atividade empresarial.
+Dessa forma, em uma análise perfunctória, própria das liminares, não antevejo, primo ictu oculi, o alegado periculum in mora, pressuposto indispensável à concessão da medida urgente.
+Pelo exposto, com fundamento no art. 34, XVIII, "a", primeira parte, do RISTJ, INDEFIRO o pedido.
+Por oportuno, previno a parte de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. intimem-se.
