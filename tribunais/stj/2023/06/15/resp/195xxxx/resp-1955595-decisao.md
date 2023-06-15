@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo POSTO & HOTEL RONDON LTDA. com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará (Apelação n. 0001674-09.2011.8.14.0046) nos autos da medida cautelar incidental.
+O julgado foi assim ementado (fls. 280-281):
+AGRAVO INTERNO EM DECISÃO MONOCRÁTICA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM APELAÇÃO: RECURSO QUE, EM ÚLTIMA ANÁLISE PRETENDE A REFORMA DE DECISÃO DE NEGATVA AO PRIMEIRO AGRAVO INTERNO INTERPOSTO NO FEITO - JULGAMENTO COLEGIADO DA APELAÇÃO QUE TORNA INADMISSÍVEL A INTERPOSIÇÃO DE AGRAVO INTERNO EM FACE DE ACÓRDÃO - ADVOGADO INTIMADO DA PAUTA DE JULGAMENTO, CONFORME CONSULTA AO PJE - TRAMITAÇÃO PROCESSUAL QUE DEMONSTRA A OBSERVÂNCIA DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL - IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO AGRAVANTE, PORQUANTO SUCUMBENTE - MANUTENÇÃO DA DECISÃO AGRAVADA - RECURSO CONHECIDO E IMPROVIDO.
+1. Agravo Interno em Decisão Monocrática em Embargos de Declaração em Agravo Interno em Apelação:
+2. Insurge-se o agravante contra a Decisão Monocrática exarada por esta relatora que negou provimento aos Embargos de Declaração por si interpostos em face da Decisão que negou seguimento ao Agravo Interno ID 2414775 por sua vez interposto em face do Acórdão ID 2350576.
+3. A Decisão Agravada  que integra por meio de Embargos de Declaração a Decisão de Negativa de Seguimento do Agravo Interno interposto em face do Acórdão - tão somente segue as determinações do art. 932, III, do Código de Processo Civil, uma vez que a interposição de Agravo Interno em face de Decisão Colegiada afigura-se inadmissível, sendo impossível no caso concreto a fungibilidade, como expressamente restou consignado.
+4. Em que pese a argumentação do recorrente, não há qualquer violação ao devido processo legal, uma vez que todos os recursos que interpôs observaram as regras processuais e regimentais atinentes à matéria.
+5. Quanto à alegação de que a Decisão de negativa de seguimento ao Agravo Interno fora julgada monocraticamente e redacionada de forma unipessoal, denota-se que o voto condutor do Acórdão fora lavrado por esta Magistrada e, acompanhado pelas Desembargadoras Edineia Oliveira Tavares e Gleide Moura, não havendo qualquer vedação para o uso do vernáculo em primeira pessoa, com a ressalva de que o julgamento fora colegiado, conforme acima destacado.
+6. Quanto ao pedido de fixação de honorários advocatícios em favor do recorrente, observa-se a tentativa de rediscussão de matéria já decidida pelo Colegiado, que decidiu no sentido de impossibilidade face a extinção do feito sem resolução do mérito por iniciativa da parte autora e, em razão da Apelação ter sido por esta interposta, restou consignada a impossibilidade de reforma prejudicial (Princípio do Non Reformatio in Pejus).
+7. Impossibilidade de fixação de honorários em favor do recorrente, observando que o fundamento da sentença fora alterado do inciso VI do art. 485 para o inciso VIII do mesmo dispositivo, uma vez que as partes compuseram acordo extrajudicialmente, o que fez erigir a desistência da presente Medida Cautelar e, considerando a ausência de fatos novos capazes de infirmar a Decisão agravada, esta deve ser mantida.
+8. Recurso conhecido e improvido.
+Nas razões do recurso especial, alega a parte recorrente dissídio jurisprudencial a respeito da aplicação dos arts. 20 do CPC de 1973 e 85, § 2º, do CPC de 2015 no tocante ao princípio da causalidade.
+Afirma que foi o recorrido quem deu causa à propositura da demanda, na medida em que não cumpriu o acordo realizado entre as partes, pois demorou a dar baixa no gravame após a quitação do acordo.
+Discorre sobre a natureza dos honorários advocatícios e sobre o que ficou decidido no julgamento do REsp n. 1.746.072, pleiteando que a verba honorária seja fixada em valor digno e proporcional à causa.
+Aponta também contradição no acórdão recorrido, porquanto se valeu de tese defendida pela parte recorrente para não reconhecer o direito dela ao recebimento de honorários advocatícios. Reitera que foi a parte recorrida quem deu causa à instauração da lide.
+Requer o provimento do recurso para para que sejam arbitrados honorários sucumbenciais em desfavor da parte ora recorrida.
+As contrarrazões foram apresentadas às fls. 384-389.
+Admitido o apelo extremo (fls. 395-397), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
