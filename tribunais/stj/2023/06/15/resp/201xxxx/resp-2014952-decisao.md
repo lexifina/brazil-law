@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARIA LUCIA DAS GRAÇAS FGUEIREDO com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 4/11/2020.
+Concluso ao gabinete em: 29/7/2022.
+Ação: "revisional de instrumento contratual de prestação de serviços advocatícios, cumulado com restituição de valores e danos morais" (fl. 1) ajuizada pela recorrente.
+Sentença: julgou procedentes os pedidos para: "a) DECLARAR a nulidade do contrato de evento 1.5, fixando o percentual devido no importe de 25% sobre o proveito econômico obtido naqueles autos, com a consequente devolução do valor excedente; b) CONDENAR a requerida ao pagamento de danos morais devidos a parte autora no importe total de R$ 10.000,00 (dez mil reais); c) CONDENAR a parte ré ao pagamento das custas processuais e honorários advocatícios no importe de 20% sobre o valor da condenação" (fls. 1274-1275).
+Acórdão: por unanimidade, deu provimento ao recurso de apelação, para acolher a alegação de prescrição, nos termos da seguinte ementa:
+Apelação cível. Prestação de serviços. Abusividade na pactuação dos honorários contratuais. Cláusula quota litis. Procedência na instância originária. Irresignação. Prejudicial de mérito. Prescrição. Acolhimento. Prazo prescricional que se inicia na data de celebração do contrato. Demanda ajuizada após o transcurso do prazo decenal do art. 205 do Código Civil. Precedentes deste Colegiado. Inversão do ônus sucumbencial. Apelo conhecido, prejudicial acolhida e mérito prejudicado.1. Somente haveria de se cogitar na aplicação do prazo decadencial previsto no art. 178, inciso II, do Código Civil - com a eventual modulação do seu termo inicial - nas pretensões de reconhecimento de nulidade do negócio jurídico, o que, todavia, não é o caso dos autos, em que se pretende tão somente o reconhecimento da abusividade de determinada disposição contratual. Precedentes deste Colegiado.2."A pretensão de discussão de cláusulas contratuais, presentes desde a assinatura do contrato, possui como termo inicial do prazo prescricional a data em que firmada a avença".(Apelação Cível, Nº 70075475939, Vigésima Terceira Câmara Cível, Tribunal de Justiça do RS, Relator: Ana Paula Dalbosco, Julgado em: 12-12-2017).3. No caso concreto, o contrato em discussão fora celebrado em 26 de junho de 2008 e a presente ação somente intentada em 20 de agosto de 2018, quando já transcorrido o prazo prescricional decenal do art. 205 do Código Civil.
+(fl. 1274)
+Embargos de declaração: opostos, foram rejeitados (fls. 1337-1339).
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa aos arts. 205 e 206, §5º, II, do Código Civil e ao art. 25 do Estatuto da OAB, ao argumento de que: a) o prazo prescricional incidente na espécie seria de 10 (dez) anos contado da celebração do contrato, motivo pelo qual não estaria configurada a prescrição; b) subsidiariamente, o prazo prescricional incidente seria o de 5 (cinco) anos contado da data da conclusão dos serviços ou da cessação dos respectivos contratos ou mandatos, motivo pelo qual não estaria configurada a prescrição; e c) é abusiva a fixação de remuneração ad exitum de 50% em favor do advogado
+Prévio juízo de admissibilidade: o TJPR admitiu o recurso especial interposto (fls. 1429-1431).
+É o relatório.
+DECIDO.
+1. AUSÊNCIA DE PREQUESTIONAMENTO
+1. No que diz respeito à tese relativa ao caráter abusivo da cláusula contratual, tem-se, no ponto, inviável o debate, pois não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+2. DO PRAZO PRESCRICIONAL DECENAL
+2. Sustenta a parte recorrente que o prazo prescricional incidente na espécie seria de 10 (dez) anos contado da celebração do contrato, motivo pelo qual não estaria configurada a prescrição.
+3. Compulsando os autos, no entanto, extrai-se do acórdão recorrido que o contrato foi celebrado em 26/6/2008 e que a presente ação foi ajuizada somente em 20/8/2018. Veja:
+Veja-se que, como ressaltado pela julgadora de primeiro grau, o contrato ora em discussão foi formulado em 26 de junho de 2008 e a presente ação somente foi intentada em 20 de agosto de 2018(mov. 37.1), após, portanto, o transcurso dos dez (10)anos a que alude o art. 205 da Lei Civil.
+(fl. 1277)
+4. Assim, ainda que se acolhesse o argumento ora examinado, a tese recursal não socorreria o recorrente, pois, no momento do ajuizamento da ação já havia se esgotado o prazo prescricional de 10 (dez) anos.
+5. Além disso, derruir a conclusão a que chegou o Tribunal a quo, examinando a data da efetiva celebração do contrato, demandaria o reexame de fatos e provas e a análise do próprio instrumento contratual, o que é vedado pelas Súmulas 5 e 7 do STJ.
+3. DO PRAZO PRESCRICIONAL QUINQUENAL - SÚMULA 284 DO STF
+6. Por fim, subsidiariamente, aduz a parte recorrente ofensa ao art. 206, §5º, II, do Código Civil, pois o prazo prescricional incidente seria o de 5 (cinco) anos contado da data da conclusão dos serviços ou da cessação dos respectivos contratos ou mandatos, motivo pelo qual não estaria configurada a prescrição.
+7. Nesse contexto, importa consignar que a Súmula 284/STF estabelece que, para que seja admitido o recurso especial, é necessário que o recorrente demonstre como o acórdão recorrido violou dispositivo de lei federal, o que não foi feito pelo recorrente, uma vez que os argumentos invocados não se relacionam diretamente ao artigo mencionado.
+8. Com efeito, o referido dispositivo legal trata do prazo prescricional que possuem os profissionais liberais para a cobrança de honorários dos respectivos clientes, não se relacionando, portanto, com a pretensão à revisão do próprio contrato celebrado ou com a pretensão à declaração de nulidade de cláusulas negociais, o que atrai a incidência da Súmula 284 do STF.
+Forte nessas razões, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursais, tendo em vista o seu arbitramento em patamar máximo nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CARÁTER ABUSIVO DE CLÁUSULA CONTRATUAL. PREQUESTIONAMENTO. AUSÊNCIA. DATA DA CELEBRAÇÃO DO CONTRATO. REEXAME. IMPOSSIBILIDADE. SÚMULA 5 DO STJ. SÚMULA 7 DO STJ. DISPOSITIVO LEGAL APONTADO COMO VIOLADO. AUSÊNCIA DE CORRELAÇÃO. SÚMULA 284 DO STF.
+1. No que diz respeito à tese relativa ao caráter abusivo da cláusula contratual, tem-se, no ponto, inviável o debate, pois não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+2. Ainda que se acolhesse o argumento expendido pelo recorrente, a tese recursal não o socorreria, pois, no momento do ajuizamento da ação já havia se esgotado o prazo prescricional de 10 (dez) anos.
+3. Derruir a conclusão a que chegou o Tribunal a quo, examinando a data da efetiva celebração do contrato, demandaria o reexame de fatos e provas e a análise do próprio instrumento contratual, o que é vedado pelas Súmulas 5 e 7 do STJ.
+4. A Súmula 284/STF estabelece que, para que seja admitido o recurso especial, é necessário que o recorrente demonstre como o acórdão recorrido violou dispositivo de lei federal, o que não foi feito pelo recorrente, uma vez que os argumentos invocados não se relacionam diretamente ao artigo mencionado.
+5. Recurso especial não conhecido.
