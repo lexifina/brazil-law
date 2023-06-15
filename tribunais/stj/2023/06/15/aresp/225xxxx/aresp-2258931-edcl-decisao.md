@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos por Serviço Nacional de Aprendizagem Rural Senar, contra decisão proferida às fls. 1.010/1.013 (e-STJ), cuja ementa assim estabelece, in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, DO CPC/2015. NÃO CARACTERIZAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS REFLEXOS DO AVISO PRÉVIO INDENIZADO (13º SALÁRIO). INCIDÊNCIA. PRECEDENTES. AGRAVO CONHECIDO PARA SE CONHECER DO RECURSO ESPECIAL E NESSA EXTENSÃO DOU-LHE PROVIMENTO PARCIAL.
+Nas razões dos aclaratórios, a embargante pugna por sanar contradição e omissão da decisão recorrida, por entender que parcela da pretensão examinada na decisão recorrida, não se encontra na lide proposta nos autos em epígrafe.
+Não houve a impugnação dos aclaratórios.
+É o relatório. Passo a decidir.
+Deveras, a pretensão não merece prosperar.
+Com efeito, os embargos de declaração têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material.
+O objetivo dos embargos não podem ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Portanto, os embargos de declaração não servem para que se adeque os fundamentos do acórdão, ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Ilustrativamente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial. 2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração. 3. Embargos de declaração rejeitados. (EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+Ante o exposto, no mérito, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
