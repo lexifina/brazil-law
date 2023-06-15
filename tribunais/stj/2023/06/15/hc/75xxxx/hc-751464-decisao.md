@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO HELIO FORTE VIANA FILHO contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no Habeas Corpus n. 0624178-53.2022.8.06.0000.
+Colhe-se nos autos que o Paciente foi preso em flagrante, em 28/10/2017, pela suposta prática dos crimes previstos no art. 33 e no art. 35 da Lei n.º 11.343/2006, por ter sido surpreendido com 145 quilogramas de maconha, 500 comprimidos de ecstasy, 25 unidades de LSD e 46 vidros de citrato de fentanila. O Juízo de primeira instância converteu a prisão em flagrante em preventiva.
+Consta que, no dia 24/03/2020, foi relaxada a prisão provisória do Paciente, com a aplicação de medidas cautelares diversas, em virtude do reconhecimento do excesso de prazo na formação da culpa.
+Em 16/09/2021, o Ministério Público requereu a decretação da prisão preventiva do Paciente, tendo em vista as informações da Secretaria de Administração Penitenciária Estadual a respeito do rompimento da tornozeleira eletrônica.
+O Juízo processante decretou, então, no dia 30/09/2021, a prisão preventiva do Paciente, "com esteio nas disposições do art. 282, §4º e art. 312, §1º, ambos do CPP, considerando que o paciente descumpriu as medidas cautelares anteriormente impostas" (fl. 40).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões do writ, a Parte Impetrante alega, em suma, que o Paciente sofre constrangimento ilegal, consubstanciado no excesso de prazo para a formação da culpa, tendo em vista que se encontra preso cautelarmente por mais de 4 (quatro) anos.
+Aduz, ainda, que o Paciente faz jus ao benefício da prisão domiciliar, por possuir uma filha de quase 6 (seis) anos de idade.
+Ressalta, por fim, ser cabível a substituição da custódia por medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+Requer, em liminar e no mérito, seja relaxada a prisão preventiva do Paciente ou, de modo subsidiário, substituída a segregação por medidas cautelares alternativas.
+O pedido liminar foi indeferido nos termos da decisão de fls. 64-67.
+As informações solicitadas foram prestadas às fls. 70-76.
+O Ministério Público Federal manifestou-se às fls. 78-80, opinando pela denegação da ordem.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifica-se que já foram apresentados os memoriais finais pelas partes. Desse modo, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO SIMPLES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REINCIDENTE ESPECÍFICO. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO PARA CONCLUSÃO DO FEITO. NÃO OCORRÊNCIA. FEITO EM FASE DE ALEGAÇÕES FINAIS. SÚMULA N. 52/STJ. AGRAVO DESPROVIDO.
+ ..
+4. No que se relaciona ao alegado excesso de prazo, verifica-se dos autos que a prisão em flagrante ocorreu em 6/2/2022 e a instrução criminal foi encerrada em audiência de 25/8/2022, já apresentadas as alegações finais pelas partes, em 19/9/2022, conforme consulta ao processo de origem n. 0005492-38.2022.8.27.2729. Tal contexto faz incidir ao caso o enunciado da Súmula n. 52, segundo o qual: "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (TERCEIRA SEÇÃO, julgado em 17/9/1992, DJ 24/9/1992, p. 16.070).
+5. Agravo regimental desprovido." (AgRg no HC n. 762.738/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/11/2022, DJe 30/11/2022; sem grifos no original.)
+No tocante ao pedido de prisão domiciliar, a Corte estadual salientou que "não merece guarida, pois apesar de constar nos autos documento de identidade da infante (pág. 36), não restou comprovado nos autos que o paciente seria o único responsável por seus cuidados, motivo pelo qual não restam satisfeitos os requisitos para concessão da prisão domiciliar previstos no art. 318, inciso VI, do CPP" (fl. 51).
+Nesse cenário, verifico que a pretensão formulada neste writ não deve ser acolhida, pois, consoante a jurisprudência desta Corte, embora todo pai seja indispensável à criação de seus filhos, o benefício previsto no art. 318, inciso VI, do Código de Processo Penal não possui aplicação automática, sendo necessário que o homem comprove ser o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS . TRÁFICO DE DROGAS. PLEITO DE PRISÃO DOMICILIAR. GENITOR DE CRIANÇA MENOR DE DOZE ANOS DE IDADE. ARTS. 318, VI, DO CPP. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA. ACUSADO REINCIDENTE ESPECÍFICO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ ..
+2. Consoante precedentes desta Corte, o preenchimento apenas do requisito objetivo previsto no inciso VI do art. 318 do CPP não é suficiente para a concessão da prisão domiciliar, pois é necessária a demonstração de que o pai é o único responsável pelos cuidados do menor, o que não foi comprovado nos autos (HC n. 636.968/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021).
+3. Agravo regimental improvido" (AgRg no HC 606.777/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/04/2021, DJe 16/04/2021; sem grifos no original.)
+Registro, por fim, que, demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, como constatado na hipótese, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Nesse sentido: RHC 144.071/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; HC 601.703/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021.
+Ante o exposto, JULGO PREJUDICADO em parte o habeas corpus e, nessa extensão, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ALEGAÇÃO SUPERADA. INCIDÊNCIA DA SÚMULA N. 52/STJ. PRISÃO DOMICILIAR POR POSSUIR FILHA MENOR DE 12 (DOZE) ANOS. DESCABIMENTO. AUSÊNCIA DE COMPROVAÇÃO DE QUE O GENITOR SEJA O ÚNICO RESPONSÁVEL PELOS CUIDADOS DA CRIANÇA. MEDIDAS CAUTELARES INSUFICIENTES, NA HIPÓTESE. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
