@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RENE DE FIGUEIREDO CUNHA LIMA, com fundamento nas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+AGRAVO INTERNO. DECISÃO QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO. RECURSO QUE VISOU COMBATER DECISÃO QUE INDEFERIU A JUSTIÇA GRATUITA E DETERMINOU O PAGAMENTO DO PREPARO RECURSAL EM APELAÇÃO CÍVEL.
+IMPUGNÁVEL POR MEIO DE AGRAVO INTERNO. ART. DECISUM 284 DO RITJPB. ERRO GROSSEIRO. AUSÊNCIA DE DÚVIDA OBJETIVA. MANUTENÇÃO DA DECISÃO. DESPROVIMENTO.
+- Segundo o art. 284 do Regimento Interno do Tribunal de Justiça da Paraíba, "Ressalvadas as exceções previstas em lei e neste Regimento, são impugnáveis por agravo interno, no prazo de quinze dias, os despachos e decisões do relator e dos Presidentes do Tribunal, do Conselho da Magistratura, das Seções Especializadas e das Câmaras, que causarem prejuízo ao direito da parte.".
+- A parte que pretende recorrer, há de usar a figura recursal apontada pela lei para o caso; não podendo substituí-la por figura diversa.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 377/391).
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 5º, XXXV, da CF e 277, 283 e 1022 do CPC, sustentando negativa de prestação jurisdicional e que não há óbice para o recebimento de Agravo de Instrumento como Agravo Interno, com fundamento na fungibilidade recursal e instrumentalidade das formas.
+É, no essencial, o relatório.
+A irresignação não merece prosperar.
+Preliminarmente, em recurso especial não cabe invocar ofensa à norma constitucional, razão pela qual o presente recurso não pode ser conhecido relativamente à apontada violação dos artigos 5º, LIXV da Constituição Federal.
+Quanto à violação dos artigos 489 e 1022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem julgou com fundamentação suficiente a matéria devolvida à sua apreciação, conforme de depreende dos acórdãos às fls. e-STJ 347/357 e 377/391.
+Destarte, não justifica a alegação de violação dos artigos 489 e 1.022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. QUANTUM DEBEATUR. COISA JULGADA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. O acórdão embargado foi claro ao afirmar que não houve violação dos arts. 165, 458 e 535 do Código de Processo Civil, uma vez que o Tribunal de origem, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pela ora embargante, adotou fundamentação suficiente para decidir de modo integral a controvérsia.
+3. Segundo a jurisprudência do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo bastante para proferir a decisão.
+4. Na espécie, o que se pretende, nesta via, é emprestar efeito infringente ao recurso, para que seja rediscutido o mérito da questão, providência incompatível com a sua natureza.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1096906/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2013, DJe 29/11/2013)
+PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. PREPARO. INTIMAÇÃO. ADVOGADO SUBSTABELECIDO. POSSIBILIDADE.AUSÊNCIA DE INDICAÇÃO DE PUBLICAÇÃO EM NOME DE DETERMINADO PROCURADOR. NULIDADE. INEXISTENTE. SÚMULA 83/STJ.
+1. Inexistente a alegada violação dos arts. 535, II, 458 e 165 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2. Na verdade, a questão não foi decidida conforme objetivava a agravante, uma vez que foi aplicado entendimento diverso. É cediço que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. A Corte Especial firmou entendimento no sentido de que "havendo mais de um advogado constituído, é válida a intimação feita em nome de qualquer deles, independentemente da sede de sua atuação profissional, desde que não haja pedido expresso no sentido de que seja realizada em nome de terminado patrono" (AgRg nos EREsp 700.245/PE, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 2/8/2010, DJe 23/8/2010). Precedentes.
+Agravo regimental improvido.
+(AgRg no AREsp 288.708/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/03/2013, DJe 02/04/2013)
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido. (AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido. (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014)
+Quanto ao cabimento do recurso interposto, o Tribunal de origem concluiu que, nos termos do artigo 284 do RITJPB, não há previsão de interposição do Agravo de Instrumento contra despacho e decisão do relator, sendo o recurso correto o Agravo Interno, nestes termos:
+O Recurso de Agravo de Instrumento não foi conhecido, por ser via eleita inadequada.
+Ora, da leitura do Art. 284 do RITJPB, constata-se que não há previsão de interposição do Agravo de Instrumento contra despacho e decisão do Relator. Na espécie, o recurso correto é o Agravo Interno.
+: Verbis "Art. 284. Ressalvadas as exceções previstas em lei e neste Regimento, são impugnáveis por agravo interno, no prazo de quinze dias, os despachos e decisões do relator e dos Presidentes do Tribunal, do Conselho da Magistratura, das Seções Especializadas e das Câmaras, que causarem prejuízo ao direito da parte." Desse modo, impõe-se o não conhecimento do recurso, porquanto, como bem ressalta Humberto Theodoro Júnior, "quem quiser recorrer, há de usar a figura recursal apontada pela lei para o caso; não podendo substituí-la por figura diversa" (Curso de Direito Processual Civil, Editora Forense, 2.006, vol. I, p. 621).
+Observo, também, não haver espaço para o princípio da fungibilidade ou instrumentalidade das formas, aplicável apenas quando o recorrente não comete erro grosseiro.
+Para que o equívoco na interposição de recurso seja escusável, é necessário que haja dúvida objetiva, ou seja, divergência atual na doutrina ou na jurisprudência acerca do recurso cabível. Se, ao contrário, não existir dissonância ou já estiver ultrapassado o dissenso entre os comentadores e os tribunais sobre o recurso adequado, não há que se invocar o princípio da fungibilidade recursal. (e-STJ fl. 351).
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, que não há óbice para o recebimento de Agravo de Instrumento como Agravo Interno, com fundamento na fungibilidade recursal e instrumentalidade das formas.
+Diante desse contexto, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, in v erbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
