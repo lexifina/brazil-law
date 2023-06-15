@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE VICTOR CORNETO FERNANDES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0012769-93.2022.8.26.0996.
+Consta dos autos que o Juízo das Execuções Penais indeferiu o pedido de retificação do cálculo para fins de progressão de regime formulado pelo Ministério Público (fls. 73-75).
+Inconformado, o Ministério Público interpôs agravo em execução, que foi provido pelo Tribunal de origem, a fim de determinar que o lapso objetivo para fins de progressão de regime seja a data de realização do exame criminológico favorável. O julgado foi assim ementado (fls. 106-107):
+"PENAL. PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. MARCO INICIAL PARA A PROGRESSÃO DE REGIME. RECURSO MINISTERIAL.
+Pretendida cassação da decisão, com retificação dos cálculos em execução, para se fixar como data-base aquela em que o sentenciado alcançou o último dos requisitos, objetivo ou subjetivo. Pertinência.
+Marco inicial para obtenção de benefícios. Turma Especial da Seção Criminal deste Egrégio Tribunal de Justiça do Estado de São Paulo que, para uniformizar as decisões, reconheceu tratar-se de decisão declaratória, contudo, devendo ser observada a data em que, atingido o último dos requisitos, restariam ambos (objetivo e subjetivo) preenchidos. No caso em análise, o marco temporal foi atingido em 30/12/2021, enquanto o exame criminológico favorável, lançado em 26/08/2022, foi o último requisito preenchido, urgindo definir a retrotração dos efeitos, para fins de cálculo, àquele derradeiro marco concreto.
+Provimento."
+Neste writ, a Parte Impetrante alega que "não se pode estabelecer como data do preenchimento do requisito subjetivo para a progressão de regime de cumprimento de pena a data do exame criminológico. Este posicionamento caracteriza ficção totalmente desprovida de qualquer contato com a realidade, que causa enorme prejuízo ao sentenciado, que apesar de possuir aptidão psicológica para a progressão de regime de cumprimento de pena em data anterior à sua submissão ao exame criminológico, tem a fixação da data-base para a progressão ao regime semiaberto de cumprimento de pena condicionada à sua submissão ao referido exame" (fl. 6).
+Requer, liminarmente e no mérito, que seja fixado "o termo inicial para concessão ao regime aberto a data do preenchimento do requisito objetivo para progressão ao regime intermediário" (fl. 9).
+É o relatório. Decido.
+Registro que, no HC n. 815.690/SP, foi formulada idêntica pretensão à veiculada neste feito, em favor do mesmo Reeducando (pleito de fixar como termo inicial para concessão ao regime aberto a data do preenchimento do requisito objetivo para progressão ao regime intermediário). Naquele mandamus, foi denegada a ordem de habeas corpus em decisão proferida em 17/04/2023, e o trânsito em julgado operou em 25/04/2023.
+A presente impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, sendo inadmissível, portanto.
+No mesmo sentido, v.g.: AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, D Je 19/02/2019; HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DO PEDIDO FORMULADO NO HC N.º 815.690/SP. COISA JULGADA. WRIT INDEFERIDO LIMINARMENTE.
