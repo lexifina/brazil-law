@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por CHARLES FELIPE SCHNEIDER GONCALVES contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos condenação do recorrente à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado, e 6 (seis) meses de detenção, em regime aberto, pela prática dos crimes de roubo majorado e de condução inabilitada de veículo automotor, édito mantido íntegro pelo eg. Tribunal de origem que negou provimento ao recurso defensivo e rejeitou seus embargos declaratórios.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação ao art. 309 do CTB, porquanto "nos crimes de roubo, ou furto, de veículo automotor, o delito de direção inabilitada é fase normal de execução do roubo, devendo, assim, ocorrer a absorção do primeiro pelo segundo com amparo no principio da consunção, devendo o agente ser absolvido da pratica do delito previsto no art. 309 do CTB" (fl. 264).
+Apresentadas as contrarrazões (fls. 274-277), sobreveio juízo negativo de admissibilidade fundado na Súmula 7/STJ (fls. 281-284).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 288-292).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 309-312).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à incidência (ou não) do princípio da consunção.
+Acerca da temática recursal, o eg. Tribunal de origem assim dispôs:
+"Neste ponto, o apelante roga pelo reconhecimento do concurso formal de crimes, em vez do material consignado na sentença, o que, data venia, se revela impossível, tendo em vista que duas foram as ações delitivas perpetradas pelo apelante: em um primeiro momento, abordou a vítima e, empregando grave ameaça com arma de fogo, dela subtraiu o veículo e outros pertences; e, noutro, conduziu o automóvel sem possuir habilitação, gerando efetivo perigo à incolumidade.
+Conclui-se, portanto, que Charles, mediante mais de uma ação, praticou o roubo majorado e a condução inabilitada de veículo automotor; em nítida situação de concurso material de crimes, restando inafastável o somatório das penas respectivas, tal como promovido na origem" (fl. 242).
+A Corte local ainda reforçou nos embargos declaratórios:
+"De todo modo, o tema foi enfrentado em sede do julgamento nesta Instância, ainda que superficialmente, ao se rejeitar o pleito defensivo de aplicação do concurso formal. Na ocasião, ao sustentar o cúmulo material, este eg. Tribunal de Justiça, exclusivamente com esteio nas provas colhidas nos autos, deixou evidente que o embargante, atuando com desígnios autônomos, cometeu duas ações delitivas distintas: "em um primeiro momento, abordou a vítima e, empregando grave ameaça com arma de fogo, dela subtraiu o veículo e outros pertences; e, noutro, conduziu o automóvel sem possuir habilitação, gerando efetivo perigo à incolumidade" (fls. 162).
+E, aqui, saliento que o princípio da consunção somente incide se o crime meio for necessário para se atingir a conduta delituosa final, o que não se verifica no caso em testilha. De fato, ao dirigir de forma perigosa, sem habilitação para tanto, praticou crimes distintos, com desígnios autônomos, não estando a direção inabilitada na escala de desdobramento necessário do delito patrimonial" (fls. 254-255).
+Como se denota, o eg. Tribunal de origem afastou o princípio da consunção diante dos desígnios autônomos das condutas praticadas.
+Desta forma, entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se aplicar o princípio da consunção demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, contrariamente, "Para rever o entendimento firmado pelas instâncias ordinárias e aplicar o princípio da consunção também seria necessário o reexame de provas, óbice contido na Súmula n. 7/STJ" (AgRg no AREsp n. 1.650.008/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 29/6/2020).
+E mais: REsp n. 1.497.041/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 9/12/2015.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E CONDUÇÃO INABILITADA DE VEÍCULO AUTOMOTOR. PRINCÍPIO DA CONSUNÇÃO. REEXAME FACTUAL. SÚMULA 7/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
