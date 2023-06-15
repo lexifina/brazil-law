@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por TICKET SOLUCOES HDFGT S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 247):
+APELAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXCESSO. TERMO DE CONFISSÃO DE DÍVIDA. INADIMPLEMENTO. VENCIMENTO ANTECIPADO. ANTECIPAÇÃO DAS PARCELAS NÃO PAGAS. CUMPRIMENTO INTEGRAL DO DÉBITO. AMORTIZAÇÃO. REDUÇÃO DO VALOR TOTAL DA DÍVIDA. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA, DA EXCEPCIONALIDADE DA REVISÃO CONTRATUAL, DA FORÇA OBRIGATÓRIA DOS CONTRATOS E DA IGUALDADE. AUSÊNCIA DE VIOLAÇÃO. SUCUMBÊNCIA RECÍPROCA.
+1. O vencimento antecipado é o fenômeno contratual que antecipa a data do vencimento das parcelas não pagas, possibilitando ao credor exigir o cumprimento integral do débito, a fim de protegê-lo de maiores prejuízos. A exigibilidade integral do débito, no entanto, refere-se ao montante das parcelas vincendas, as quais foram antecipadas, e não àquilo que já foi pago ao tempo e modo acordado pelas partes.
+2. A amortização constitui processo de redução do valor total da dívida mediante pagamentos periódicos, resultando em sua quitação.
+3. O vencimento antecipado é instrumento garantidor das boas relações creditórias e, revestindo-se de finalidade social, não pode transforma-se em ferramenta para legitimar o enriquecimento indevido de um dos contratantes.
+4. De acordo com o artigo 86 do Código de Processo Civil, se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas custas e pelos honorários advocatícios.
+5. Recursos conhecidos e não providos.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 280-288).
+Nas razões do recurso especial (e-STJ, fls. 292-320), a ora agravante apontou divergência jurisprudencial e violação dos arts. 489, IV, e 1.022, I e II, e parágrafo único, II, do CPC/2015; 104, 421, parágrafo único, e 421-A, do CC/2002; e 1º, §§ 2º e 3º, V e VIII, da Lei 13.874/2019.
+Alegou, em caráter preliminar, negativa de prestação jurisdicional; no mérito, sustentou que as instâncias ordinárias infringiram os princípios da pacta sunt servanda, da intervenção mínima e da liberdade negocial ao afastar o critério de cálculo estabelecido claramente em cláusula contratual, legitimamente pactuada entre as partes.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+É consabido que a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Assim sendo, cumpre registrar que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 249-251, sem grifos no original):
+1. Sumário dos Fatos.
+A TICKET SOLUÇÕES HDFGT S/A promoveu Ação de Execução n. 0714251-75.2021.8.07.0001 lastreada em Termo de Confissão de Dívida no valor de R$ 672.382,59 (seiscentos e setenta e dois mil trezentos e oitenta e dois reais e cinquenta centavos).
+Opostos Embargos, foi reconhecido excesso de execução, declarando como correto o valor de R$ 128.948,75 (cento e vinte e oito mil novecentos e quarenta e oito reais e setenta e cinco centavos) na data de 17.11.2020.
+Em consequência da sucumbência recíproca e não havendo como calculá-la de imediato, as partes foram condenadas, igualitariamente, ao pagamento das custas processuais e honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor da causa.
+Irresignadas, as partes recorreram.
+Pois bem.
+2. Do Mérito
+2.1 Do Excesso de Execução
+A primeira apelante afirma que a Sentença afastou indevidamente a aplicação da cláusula quarta do Instrumento Particular de Confissão e Parcelamento de Dívida, violando os Princípios da Intervenção Mínima, da Excepcionalidade da Revisão Contratual, da força obrigatória dos contratos e da igualdade.
+A referida cláusula previa que (ID 90373751):
+"Cláusula Quarta: A falta de pagamento de qualquer quantia no seu vencimento ou o descumprimento de qualquer outra obrigação pactuada no presente instrumento e em todas as demais hipóteses previstas nos artigos 333 e 1425 do Código Civil, facultará a CREDORA o direito de considerar vencida e imediatamente exigível a totalidade da dívida confessada na cláusula primeira, deduzindo-se eventuais pagamentos, com os encargos e acréscimos previstos na cláusula subsequente, independentemente de aviso ou notificação".
+Na Inicial da execução, a recorrente informa que foram adimplidas 19 (dezenove) das 25 (vinte e cinco) parcelas estabelecidas no referido Instrumento, restando o pagamento de 5 (cinco) delas, cada uma no valor de R$ 25.789,75 (vinte e cinco mil, setecentos e oitenta e nove reais e setenta e cinco centavos), totalizando R$ 128.948,75 (cento e vinte e oito mil, novecentos e quarenta e oito reais e setenta e cinco centavo.
+Constatada a inadimplência, a credora efetuou a atualização do valor total confessado no aludido instrumento, deduzindo a quantia amortizada de R$ 438.226,25 (quatrocentos e trinta e oito mil duzentos e vinte e seis reais e vinte e cinco centavos) sem a incidência de correção, acrescendo-se ao resultado juros e atualização, chegando a um valor de R$ 672.382,59 (seiscentos e setenta e dois mil trezentos e oitenta e dois reais e cinquenta e nove centavos), montante superior a dívida original de R$ 618.954,11 (seiscentos e dezoito mil novecentos e cinquenta e quatro reais e onze centavos).
+No caso dos autos, a matéria devolvida à análise repousa na interpretação conferida pela credora à Cláusula Quarta do Instrumento Particular de Confissão e Parcelamento de Dívida.
+O vencimento antecipado é o fenômeno contratual que antecipa a data do vencimento das parcelas não pagas, possibilitando ao credor exigir o cumprimento integral do débito, a fim de protegê-lo de maiores prejuízos.
+A exigibilidade integral do débito, no entanto, refere-se ao montante das parcelas vincendas, as quais foram antecipadas, e não àquilo que já foi pago ao tempo e modo acordado pelas partes.
+É que a amortização constitui processo de redução do valor total da dívida mediante pagamentos periódicos, resultando em sua quitação.
+Logo, não há razão, lógica ou jurídica, para que a credora proceda como procedeu, realizando a atualização da dívida em sua totalidade para, só então, realizar os abatimentos relativos às parcelas amortizadas sem correção.
+O vencimento antecipado é instrumento garantidor das boas relações creditórias e, revestindo-se de finalidade social, não pode transformar-se em ferramenta para legitimar o enriquecimento indevido de um dos contratantes.
+Diante desse cenário, não há que se falar em violação aos Princípios da Intervenção Mínima, da Excepcionalidade da Revisão Contratual, da força obrigatória dos contratos e da igualdade.
+Assim, não há falar em negativa de prestação jurisdicional ou em falta de fundamentação apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto à questão de fundo, nota-se que o argumento do Tribunal de origem está baseado na equivocada interpretação da aplicabilidade do vencimento antecipado constante da cláusula quarta do Instrumento Particular de Confissão e Parcelamento de Dívida.
+A leitura mais atenta das razões recursais revela que tal fundamento, não foi rebatido pela recorrente. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, que priorizou considerações secundárias não apreciadas pelo Tribunal de origem, a autorizar a aplicação, no particular, das Súmulas 283 e 284 do STF.
+Diante da aplicação dos referidos enunciados sumulares, fica prejudicada a suscitada divergência jurisprudencial.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% sobre o valor da causa.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO EVIDENCIADAS. VENCIMENTO ANTECIPADO. ANTECIPAÇÃO DAS PARCELAS NÃO PAGAS. EQUIVOCADA INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
