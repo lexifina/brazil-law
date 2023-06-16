@@ -1,0 +1,59 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0746730-42.2022.8.07.0016RECORRENTE(S)NATALIA SILVA DOS SANTOSRECORRIDO(S)SV VIAGENS LTDA e TRANSPORTES AEREOS PORTUGUESES SARelatorJuiz ANTONIO FERNANDES DA LUZ
+ Acórdão Nº1717943
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. PASSAGEM AÉREA. CANCELAMENTO DE VOO. DEMORA EXCESSIVA PARA RESTITUIÇÃO DE VALORES OU REMARCAÇÃO DE VOO.RESPONSABILIDADE SOLIDÁRIA. DESVIO PRODUTIVO. DANO MORAL. CABIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. Acórdão lavrado de acordo com a disposição inserta nos artigos 2º e 46, da Lei 9.099, de 26.09.1995 e artigo 60, §§ 1º e 2º, do Regimento Interno das Turmas Recursais. Presentes os pressupostos específicos, conheço do recurso.
+
+2. Recurso inominado interposto pela autora/recorrente visando a reforma da sentença que julgou parcialmente os pedidos autorais para condenar as rés/recorridas a restituírem à autora/recorrente o valor de R$ 6.120,36 (seis mil, cento e vinte reais e trinta e seis centavos), indeferindo o pedido referente a indenização por danos morais.
+
+3. Conforme exposto na inicial, em 12/12/2020 a recorrente adquiriu da ré/recorrida SV VIAGENS passagens aéreas com destino a Paris, a serem operadas pela ré/requerida Transportes Aéreos Portugueses – TAP, na data de 28/04/2021. Pelo serviço, pagou a quantia de R$ 6.120,36 (seis mil, cento e vinte reais e trinta e seis centavos). Relata que, tendo em vista o agravamento da pandemia causada pela Covid-19, os voos foram antecipados para dia 27/04/2021. Narra ainda que não tinha possibilidade de embargar naquela data, razão pela qual solicitou reembolso, tendo a ré/recorrida SV VIAGENS afirmado que o faria em até 01 (um) ano. Relata, no entanto, que a quantia referente às passagens aéreas não foi devolvida, motivo pelo qual pediu a restituição dobrada, bem como valor não inferior a R$ 10.000,00 (dez mil reais), a título de indenização por danos morais, tendo em vista a alegada perda de tempo útil para solução do problema.
+
+4. O Juízo de primeiro grau concluiu que: “(...) Entrementes, não há dano moral indenizável, posto que a conduta das rés foi pautada no normativo em vigor e, ademais, não causou abalos aos direitos da personalidade da autora”.
+
+5. Nas razões recursais, a recorrente sustenta que a pretensão reparatória não se funda no cancelamento do voo, mas em razão de grave falha na prestação do serviço. Outrossim, aduz que a perda de tempo útil, a fim de solucionar a questão referente às passagens aéreas, causou-lhe danos morais, na medida em que houve o transcurso de mais de 1 (um) ano sem o desfecho do caso, pois não houve a restituição da quantia paga. Ao final requer a reforma da sentença para que seja indenizada por danos morais, nos termos requeridos na inicial, em valor não inferior a R$10.000,00 (dez mil reais).
+
+6. A recorrida TAP, em sede de contrarrazões, aduz que efetivou o estorno das passagens aéreas no prazo legal previsto, mas que tal valor não foi repassado pela empresa SV Viagens. Afirma que não restou comprovado qualquer ato ilícito por ela praticado, bem como não houve comprovação dos alegados danos morais. Por fim, salienta que o valor da indenização requerido extrapola os limites da prudência e bom senso.
+
+7. A recorrida SV VIAGENS alega não caber a aplicação da legislação consumerista, uma vez que a lide trata de caso fortuito externo/força maior, não contendo fundamento legal nas Leis nº 14.034/20 e 14.046/2020. Assevera que não houve comprovação de eventual dano moral sofrido, não se operando, na hipótese, in re ipsa. Por fim, impugna “pedido de gratuidade de justiça”.
+
+8. A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a lide ser solucionada sob a ótica do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei n. 8.078/1990). Embora a requerida SV VIAGENS alegue não caber indenização por danos morais com supedâneo no art. 5º da Lei nº 14.046, fato é que não se trata de indenização em decorrência do cancelamento ou adiamento do voo, mas sim em razão da demora em efetuar o ressarcimento do valor atinente às passagens cujo cancelamento foi requerido, aplicando-se, ao caso, as normas consumeristas.
+
+9. Embora a recorrida TAP alegue não ter ocasionado dano à recorrente por eventuais falhas na prestação dos serviços, eis que efetivou o estorno prontamente à recorrida SV VIAGENS, fato é que possui responsabilidade solidária, nos termos do §1º do art. 25 do CDC, não havendo que afastar-se seu dever de indenizar, conforme restará demonstrado. Quanto à impugnação a pedido de gratuidade de justiça, registre-se que a parte recorrente efetuou o recolhimento de custas e preparo recursal, não tendo formulado qualquer pedido dessa natureza, razão pela qual deixo de apreciá-la.
+
+10. Segundo a teoria do desvio produtivo, a desnecessária perda de tempo útil imposta pelo fornecedor para o reconhecimento do direito do consumidor configura abusividade e enseja indenização por danos morais. Nesse sentido: Acórdão 1336845, 07102445120198070020, Relator: MARIA DE LOURDES ABREU, Terceira Turma Cível, data de julgamento: 28/4/2021, publicado no DJe: 17/5/2021; Acórdão 1608298, 07599200920218070016, Relator: AISTON HENRIQUE DE SOUSA, Primeira Turma Recursal, data de julgamento: 23/8/2022, publicado no PJe: 12/9/2022. Pág.: Sem Página Cadastrada.
+
+11. No caso, restou evidenciada a perda de tempo útil para solução do problema, pois as passagens foram adquiridas em 2020 e até o ajuizamento da ação, em 29/08/2022, ainda não havida sido efetivado o ressarcimento, cuja obtenção, pela via administrativa, enfrentou diversos obstáculos impostos, conforme demonstram os documentos que instruem a inicial. Assim, resta configurado o citado desvio produtivo, de modo a amparar a pretensão de reparação por dano extrapatrimonial.
+
+12. A fixação do valor a título de dano moral deve levar em conta critérios doutrinários e jurisprudenciais, tais como o efeito pedagógico e inibitório para o ofensor e a vedação ao enriquecimento sem causa do ofendido ou empobrecimento do ofensor. Ainda, a indenização deve ser proporcional à lesão à honra, à moral e à dignidade do ofendido, às circunstâncias que envolvem o fato, às condições pessoais e econômicas dos envolvidos, e à gravidade objetiva do dano moral. Sob tais critérios, arbitro o valor da indenização em R$ 3.000,00 (três mil reais).
+
+13. Conheço do recurso e lhe dou parcial provimento. Sentença reformada para condenar as rés/recorridas a pagarem, solidariamente, a quantia de R$ 3.000,00 (três mil reais) para a recorrente, a título de indenização por danos morais, corrigida pelo INPC desde o arbitramento (Súmula 362 do STJ) e acrescida de juros de mora de 1% (um por cento) desde a citação.
+
+14. Sem condenação em custas processuais e honorários advocatícios, nos termos do artigo 55, da Lei n.º 9.099, de 26.09.1995.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, ANTONIO FERNANDES DA LUZ - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e EDILSON ENEDINO DAS CHAGAS - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Junho de 2023
+
+Juiz ANTONIO FERNANDES DA LUZRelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorO Senhor Juiz EDILSON ENEDINO DAS CHAGAS - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNANIME.
