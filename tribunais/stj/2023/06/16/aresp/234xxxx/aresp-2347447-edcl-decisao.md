@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EMERSON DE SOUSA VIANA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  desde o Recurso Especial o EMBARGANTE vem sustentando que o provimento do apelo, e desprovimento dos embargos de declaração que lhe foram opostos, incidiu em erro de direito, e a decisão ora embargada, d.m.v, omitiu-se quando deixou de analisar a argumentação dos embargantes ao apontarem a inaplicabilidade do enunciado da súmula 07 e o conflito com o acórdão paradigma.
+O Egrégio Tribunal a quo incidiu em error iuris ao negar provimento ao apelo do EMBARGANTE sem examinar corretamente os fatos em causa (erro na subsunção), conforme razões de agravo em recurso especial, sendo esse o seu cerne, e assim é plenamente cabível recebimento e acolhimento nesta via. (fl. 949).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, Súmula 7/STJ (art. 70, da Lei n. 4.117/62 e art. 183 da Lei 9.472/97), Súmula 83/STJ e Súmula 7/STJ (identidade de partes e causa de pedir ou dos ilícitos penais ), conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
