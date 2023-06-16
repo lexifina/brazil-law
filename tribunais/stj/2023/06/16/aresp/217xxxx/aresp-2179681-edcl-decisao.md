@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GUILHERME BERNARDO SANTANA contra decisão que conheceu agravo para negar provimento ao recurso especial.
+Nas razões deste recurso, a defesa sustenta omissão quanto ao pedido subsidiário de concessão de ordem de ofício para anulação da condenação pelo crime de receptação, nos autos da Ação Penal n. 1503768-43.2018.8.26.0125, porquanto relativos ao mesmo fato, caracterizando bis in idem.
+Por fim, pugna pelo acolhimento dos embargos, para que seja sanada a eiva delineada.
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+No caso em exame, a parte aponta omissão quanto ao pleito de habeas corpus de ofício, formulado em sede de recurso especial, em que postulava a "anulação da condenação de receptação dos autos do processo nº 1503768-43.2018.8.26.0125, eis que atinente aos mesmos fatos aqui tratados" (fl. 532).
+Vale registrar que a decisão embargada conheceu do agravo para negar provimento ao recurso especial. Com relação ao ponto ora em referência, observa-se que o eg. Tribunal de origem não apreciou o mérito da questão, porquanto "deve ser debatido na Vara das Execuções Criminais, pois, salvo entendimento em contrário é o juízo em que melhor poderá decidir essa questão diante da existência dos feitos devidamente transitados em julgado e dos elementos que compõem cada uma das referidas ações penais" (fl. 467).
+Embora com razão quanto à eiva, não comporta acolhimento a sua pretensão. Isso porque, por um lado, é descabida a referida postulação como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção. Por outro, a matéria carece do devido prequestionamento, esbarrando no óbice contido nas Súmulas 282 e 356/STF.
+Com efeito, "É descabido postular a concessão de habeas corpus de ofício para que sejam supridas falhas na admissibilidade, uma vez que essa medida é concedida sponte propria pelo órgão julgador, quando constata a existência de ilegalidade flagrante" (AgRg no AREsp n. 820.484/AM, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 14/3/2016).
+Em reforço: AgRg no AREsp n. 1.898.696/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 13/10/2021; AgRg no AREsp n. 1.760.437/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 04/03/2021; AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016.
+Acolho os embargos declaratórios, sem empregar-lhes efeitos infringentes.
+P. e I.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. OMISSÃO. EIVA CONFIGURADA. PLEITO QUE NÃO REVERBERA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
