@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ARACELLE DELANE SILVA DE CARVALHO e OUTROS contra acórdão prolatado, por maioria, pela 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento de Apelação, assim ementado (fls. 1.334/1.354e):
+APELAÇÃO CÍVEL. DIREITO CIVIL. CÓDIGO DE PROCESSO CIVIL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINAR. ILEGITIMIDADE PASSIVA DO ENTE PÚBLICO CONCEDENTE. AFASTADA. MÉRITO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE DOS RÉUS. DEMONSTRAÇÃO. DANOS MATERIAIS. PENSÃO POR MORTE. VALOR MENSAL. FIXAÇÃO EM 2/3 (DOIS TERÇOS) DOS RENDIMENTOS BRUTOS DO DE CUJUS. TERMO FINAL. DURAÇÃO PROVÁVEL DA VIDA DA VÍTIMA. DADOS ESTATÍSTICOS DO IBGE OU ANTERIOR FALECIMENTO DA BENEFICIÁRIA. CUMULAÇÃO COM PENSÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DIVERSA. POSSIBILIDADE. DANOS MORAIS. CONFIGURAÇÃO. QUANTUM. ADEQUAÇÃO. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA. SENTENÇAPARCIALMENTE REFORMADA.
+1. Segundo a Teoria da Asserção, a análise das condições da ação deve ocorrer em abstrato, levando-se em consideração as afirmações contidas na inicial. Nesse contexto, a legitimidade passiva deve ser reconhecida se da causa petendi é possível extrair a existência de vínculo jurídico-material entre as partes.
+2. O fato de a responsabilidade ser subsidiária não implica a ilegitimidade passiva do Distrito Federal e a consequente exclusão dele do feito, na medida em que o DF, na condição de poder concedente de serviço público, poderá responder pela dívida em caso de inadimplência dos demais Requeridos.
+3. A condenação dos Réus ao pagamento de pensão mensal à esposa da vítima deve ser mantida, uma vez que a dependência econômica, na hipótese, é presumida e não foi afastada pelas provas dos autos.
+4. Uma vez que se presume a utilização de 1/3 da renda para gastos pessoais do provedor, a pensão deve ser fixada no percentual de 2/3 (dois terços) dos rendimentos mensais brutos do falecido, até a data em que a vítima atingiria idade correspondente à expectativa média de vida do brasileiro prevista no momento do óbito dela, conforme a tabela do IBGE, ou até o falecimento da beneficiária, o que vier a ocorrer primeiro.
+5. É possível a cumulação do benefício previdenciário com a pensão decorrente de ilícito civil, pois ambos são autônomos e possuem natureza diversa.
+6. Na fixação dos danos morais, o magistrado deve observar os princípios da razoabilidade e da proporcionalidade, de modo a reparar adequadamente o dano suportado pelo ofendido, sem, porém, implicar o enriquecimento indevido desse ou onerar sobremaneira o ofensor de forma desnecessária.
+7. O valor da indenização, na hipótese de óbito em acidente de trânsito, merece ser reduzido para R$ 25.000,00 (vinte e cinco mil reais) para cada Demandante.
+8. "Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca" (Súmula 326 do c. STJ).
+9. Apelações conhecidas e parcialmente providas. Preliminar rejeitada.
+Opostos embargos de declaração, foram rejeitados (fls. 1.317/1.328e).
+Com amparo no art. 105, III, c, da Constituição da República, aponta divergência jurisprudencial ao art. 944 do Código Civil, alegando-se, em síntese, o direito à majoração do valor fixado a título de danos morais em razão do acidente de trânsito narrado nos autos, que resultou em vítima fatal, por ofensa aos princípios da razoabilidade e proporcionalidade.
+Com contrarrazões (fls. 1.364/1.376e e 1.378/1.387e), o recurso foi inadmitido (fls. 1.391/1.393e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.445e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.463/1.466e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a razoa bilidade e proporcionalidade do valor fixado a título de danos morais, nos seguintes termos (fls. 1.255/1.257e):
+No que se refere ao quantum indenizatório, o d. Juízo a quo condenou o Réu ao pagamento de indenização no valor de R$ 35.000,00 (trinta e cinco mil reais) para cada Demandante, num total de R$ 175.000,00 (cento e setenta e cinco mil reais).
+É cediço que, na fixação dos danos morais, o magistrado deve observar os princípios da razoabilidade e da proporcionalidade, de modo a reparar adequadamente o dano suportado pelo ofendido, sem, porém, implicar o enriquecimento indevido desse ou onerar sobremaneira o ofensor de forma desnecessária.
+Para tanto, deve avaliar as circunstâncias específicas delineadas em cada caso.
+O magistrado de origem estabeleceu a condenação por danos morais em R$ 35.000,00 (trinta e cinco mil reais) para cada Demandante, mas, atentando aos critérios de razoabilidade e de proporcionalidade, considerando a condição econômica das partes, a vedação ao enriquecimento ilícito dos ofendidos e, especialmente, a extensão do dano causado, o montante estabelecido afigura-se elevado, devendo ser revisto.
+Em situações semelhantes à dos autos, em que os parentes de vítima fatal de acidente automobilístico pretendem indenização por danos morais, esta eg. 8ª Turma Cível tem estabelecido indenizações nos valores entre R$ 20.000,00 (vinte mil reais) e R$ 30.000,00 (trinta mil reais), consoante se denota da leitura do inteiro teor dos acórdãos a seguir ementados:
+ ..
+Nessa esteira, a quantia de R$ 25.000,00 (vinte e cinco mil reais) para cada Demandante, num total de R$ 125.000,00 (cento e vinte e cinco mil reais), está mais condizente com os princípios norteadores anteriormente mencionados.
+Ressalte-se que o magistrado de origem, em atenção ao teor da Súmula 246 do c. STJ, adequadamente determinou que o valor eventualmente recebido a título de seguro obrigatório (DPVAT) deve ser deduzido da indenização fixada em favor dos Autores, a carecer de interesse recursal o 1º Réu nesse ponto.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, a fim de aferir o valor devido em decorrência do referido sinistro, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. EXORBITÂNCIA. NÃO OCORRÊNCIA. REVISÃO. EXAME DE PROVA. INADMISSIBILIDADE. JUROS MORATÓRIOS. TERMO INICIAL. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. PENSIONAMENTO. IDADE LIMITE. CONDICIONAMENTO À MATRÍCULA E À FREQUÊNCIA A CURSOS DE ENSINOS PROFISSIONALIZANTES OU SUPERIOR. INEXISTÊNCIA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. O termo inicial da incidência dos juros moratórios na condenação ao pagamento de indenização por danos morais é data da prática do ato ilícito. Precedentes.
+3. O recurso especial não é via adequada à pretensão de redução da indenização por danos morais, notadamente quando não verificada exorbitância no montante arbitrado pelas instâncias ordinárias.
+Observância da Súmula 7 do STJ. Precedentes.
+4. O Superior Tribunal de Justiça possui pacífica orientação jurisprudencial no sentido de ser devido pensionamento aos filhos menores até a data em que completem 25 anos de idade, não condicionado à matrícula ou à participação em cursos educacionais.
+Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.117.074/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. ALEGADO EXCESSO NA ATUAÇÃO DOS POLICIAIS MILITARES. AGRAVO INTERNO EM RECURSO ESPECIAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É pacífico nesta Corte o entendimento no sentido de que afastar a ocorrência dos danos morais importa no revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+2. É pacífico, também, o entendimento no sentido de que a fixação dos valores referentes a danos morais e materiais cabe às instâncias ordinárias, uma vez que resulta de apreciação de critérios da razoabilidade e da proporcionalidade do valor fixado, compatível com a extensão do dano causado, razão pela qual insuscetível de revisão em recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.227.944/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023).
+Por fim, sublinho estar, in casu, impossibilitada a majoração de honorários, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015, e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
