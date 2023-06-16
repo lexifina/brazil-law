@@ -1,0 +1,9 @@
+DECISÃO
+Por meio deste writ, busca-se a imediata revogação da prisão preventiva de Francisco Gabriel Bernardino de Paula no Processo n. 0281821-65.2021.8.06.0001, da Vara de Delitos de Organizações Criminosas da comarca de Fortaleza/CE, sob os argumentos, em suma, de ausência de indícios suficientes de autoria e de excesso de prazo na formação da culpa.
+Sucede que, tal como consignado pelo Tribunal a quo, a tese de fragilidade probatória não se compatibiliza com a via eleita, pois, conforme reiterados julgados, se as instâncias ordinárias vislumbram a existência de prova suficiente para instaurar a ação penal, com o recebimento da denúncia, reconhecer que os indícios de autoria do crime são insuficientes para justificar a custódia cautelar implicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus (AgRg no HC n. 727.071/SP, Ministra Laurita Vaz, Sexta Turma, DJe 8/4/2022).
+E, quanto ao alegado excesso de prazo, basta para o afastamento do pleito a constatação de que o réu se encontra na situação de foragido, em local incerto e não sabido (fl. 25). Ora, há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal (RHC n. 174.115/PI, da minha relatoria, Sexta Turma, DJe 29/3/2023).
+À vista do exposto, indefiro liminarmente o writ, nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO ANULLARE. CRIMES DO ART. 2º, § 2º, DA LEI N. 12.850/2013, E DO ART. 35 DA LEI N. 11.343/2006. CUSTÓDIA PREVENTIVA. INDÍCIOS SUFICIENTES DE AUTORIA. VIA INADEQUADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. RÉU FORAGIDO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. ACÓRDÃO IMPUGNADO ALINHADO À JURISPRUDÊNCIA DO STJ.
+Writ indeferido liminarmente.
