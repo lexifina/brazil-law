@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Jose Alan Ferreira da Silva contra o acórdão da Terceira Câmara Criminal do Tribunal de Justiça do Ceará que denegou a ordem lá impetrada (Habeas Corpus n. 620744-22.2023.8.06.0000), mantendo a decisão do Juízo da Vara de Delitos de Organizações Criminosas da comarca de Fortaleza/CE que, nos autos da Ação Penal n. 0638015-15.2021.8.06.0000, determinou a prisão preventiva do recorrente pela suposta prática dos crimes de tráfico de drogas e organização criminosa.
+Neste recurso, busca-se a revogação da medida, alegando-se, para tanto, excesso de prazo na formação da culpa.
+Requer-se, assim, o provimento do recurso no ensejo de Relaxar a Prisão Preventiva do recorrente em razão do excesso de prazo para formação da culpa, e subsidiariamente determinar a substituição de sua prisão preventiva por medidas cautelares diversas (fls. 165/166).
+O Ministério Público Federal emitiu parecer pelo desprovimento do recurso, à vista dos fundamentos sintetizados na seguinte ementa (fl. 188):
+PENAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NÃO EVIDENCIADO. INSTRUÇÃO PROCESSUAL EM CURSO. NECESSIDADE DA PRISÃO PREVENTIVA DEVIDAMENTE DEMONSTRADA. GARANTIA DA APLICAÇÃO DA LEI PENAL. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+O recurso pretende a revogação da prisão preventiva, haja vista o constrangimento ilegal por excesso de prazo.
+O Tribunal local afastou o excesso de prazo aos seguintes termos (fls. 156/158):
+Destaque-se ainda, no tocante ao excesso de prazo na formação da culpa, que se trata de feito complexo, em contexto de organização criminosa pela prática de crimes de tráfico de drogas e associação para o tráfico, pluralidade de réus (16), com procuradores distintos, expedição de cartas precatórias, análise de diversos incidentes/diligências, o que atrai a incidência da súmula 15 do TJCE, in verbis: "Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais."
+Nesse contexto, embora reconheça que tenha ocorrido demora no recebimento da denúncia, há de se considerar que a denúncia já fora recebida, estando atualmente aguardando a citação e resposta de um dos corréus, bem como o decurso do prazo do edital de citação de outros, para que seja possível a inclusão do feito em pauta de audiência de instrução processual.
+Demais disso, o Paciente teve a prisão preventiva reanalisada aos 9/1/2023, oportunidade em que foi mantida para garantia da ordem pública:
+ ..
+O excesso de prazo, segundo pacífico entendimento do Superior Tribunal de Justiça, deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais.
+Confiram-se, dentre vários, estes julgados: RHC n. 62.264/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/6/2016; HC n. 351.491/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 3/5/2016; RHC n. 67.680/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/6/2016; AgRg no HC n. 567.286/PB, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020; e HC n. 528.005/PE, de minha relatoria, Sexta Turma, DJe 2/3/2020.
+Não se mostra desarrazoado o atraso no encerramento da instrução criminal nem há demonstração de desídia na condução do processo, sobretudo porque as informações obtidas no portal do Tribunal de Justiça cearense dão conta de que a prisão do acusado foi reavaliada e a audiência de instrução e julgamento realizada em 25/5/2023, incidindo, assim, na espécie, a Súmula 52/STJ.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO CARROCINHA. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA . PRISÃO PREVENTIVA. EXCESSO DE PRAZO. VIOLAÇÃO DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE NÃO OCORRIDA. PROCESSO EM TRÂMITE COMPATÍVEL COM A COMPLEXIDADE. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA. SÚMULA 52/STJ.
+Recurso improvido.
