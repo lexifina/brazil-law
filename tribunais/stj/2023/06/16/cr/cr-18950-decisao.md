@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Porto - Juízo Central Criminal de Vila Nova e Gaia - Juiz 3) solicita que se proceda à intimação de GLEYCE CARMO PEREIRA SILVA, para que tome conhecimento do conteúdo da acusação proferida nos autos de n.º 794/03.1PAVNG, para requerer, caso queira, a abertura da instrução (fls. 5-11).
+No mesmo ato, a justiça rogante solicita a notificação do interessado de que "se não requerer a abertura de instrução deverá então comparecer neste Tribunal, no próximo dia 27-09-2023, pelas 09:45 a fim de ser ouvida em audiência de julgamento", com a advertência de que poderá ser representado pelo defensor e o ato poderá ser adiado para o dia 4/10/2023.
+Concedido o exequatur (fls. 89-90), foram os autos remetidos à Seção Judiciária do Estado de Goiás. O juízo federal noticiou o cumprimento da comissão e acostou aos autos certidão positiva exarada pelo oficial de justiça, na data de 29/5/2023 (fl. 220).
+Diante de todo o exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se. Intimem-se.
