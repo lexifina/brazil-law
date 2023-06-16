@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não enfrentou adequadamente as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE MARTINS PEREIRA contra a decisão (fls. 977-978) que não conheceu do agravo em recurso especial.
+Consta dos autos que o agravante foi condenado como incurso nas penas do art. 33, caput, da Lei n. 11.343/06, e art. 307, do CP, à pena total de 01 (um) ano e 11 (onze) meses de reclusão, em regime inicial aberto, e pagamento de 166 (cento e sessenta e seis) dias-multa (fls. 343-346).
+O Tribunal de origem, por maioria, negou provimento ao recurso da defesa (fls. 486-519).
+Os embargos infringentes opostos foram, por maioria, rejeitados (fls. 689-705).
+Os embargos de declaração opostos foram, por unanimidade, rejeitados (fls. 564-568).
+Interposto recurso especial, com fundamento nas alíneas "a" e "c", do permissivo constitucional, a defesa alegou, além de divergência jurisprudencial, violação ao art. 28, §2º, da Lei de Drogas, e arts. 156 e 315, § 2º, inciso IV, ambos do Código de Processo Penal, porquanto as provas dos autos são ínfimas para embasar a condenação dos réus ao crime de tráfico de drogas; bem como que houve verdadeira inversão no ônus da prova (fls. 578-629).
+O recurso especial foi inadmitido em razão do óbice da Súmula 7/STJ, ausência do devido cotejo analítico e consonância do acórdão recorrido com jurisprudência desta Corte Superior (fls. 737-741).
+No Superior Tribunal de Justiça, o agravo em recurso especial não foi conhecido ante a ausência de impugnação específica de parte dos fundamentos da decisão de inadmissão do apelo nobre, qual seja, a consonância do acórdão recorrido com jurisprudência desta Corte Superior (fls. 877-878).
+No regimental (fls. 927-975), a defesa repisa os argumentos do recurso especial e sustenta que o verbete sumular restou plena e satisfatoriamente impugnado nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. E, assim, pede a reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo regimental (fls. 989-992).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, o agravante não enfrentou adequadamente as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que o agravante não enfrentou as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada nesta Corte.
+Em relação à consonância do acórdão recorrido com jurisprudência desta Corte Superior, a defesa afirmou, em síntese, que (fl. 342):
+"(n)a decisão que negou seguimento ao Recurso Especial, o Ilustre Desembargador Presidente do Egrégio TJMG consignou que a decisão encontraria amparo nos precedentes do próprio STJ e sobre a parte em que alegou-se a violação e negativa ao comando legal sobredito, limitou-se a asseverar que a análise do dispositivo em questão atém-se a uma perspectiva de reexame do caderno probatório, o que não condiz com a verdade."
+No entanto, caberia ao agravante comprovar, por meio da indicação de precedentes do Superior Tribunal de Justiça, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal de origem.
+A jurisprudência deste Tribunal é firme no sentido de que, para afastar a Súmula nº. 83, STJ, não basta a mera alegação. Ao revés, incumbe à parte indicar, de modo preciso, precedentes contemporâneos ou supervenientes aos colacionados na decisão recorrida, e que demonstrem o desacerto da inadmissão do recurso interposto. Veja-se:
+" ..  Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, incumbe à parte interessada apontar julgados deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada. Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie" (AgInt nos EDcl no AREsp n. 1.842.229/PR, Primeira Turma, Rel. Min. Paulo Sérgio Domingues, DJe de 11/5/2023).
+Consoante orientação jurisprudencial já consolidada, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Nesse sentido: AgRg na RvCr n. 5.740/RS, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 3/4/2023; EDcl no AgRg na RvCr n. 4.570/DF, Terceira Seção, Rel. Min. Sebastião Reis Júnior , DJe de 14/5/2019.
+Ademais, rechaçar as argumentações utilizadas pela decisão que inadmitiu o recurso especial a destempo, na via do regimental, como ora pretende a parte agravante, é inadequado, porquanto tal impugnação deveria ter sido ventilada justamente no bojo do agravo em recurso especial.
+Verifico, pois, que houve manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto do juízo de admissibilidade efetuado pela Presidência deste Tribunal, o que reclama a aplicação, por analogia, da Súmula n.º 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
