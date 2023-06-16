@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, sem pedido de liminar, impetrado em benefício de JOSÉ PEREIRA DA SILVA NETO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido na Apelação Criminal n. 1.0024.16.075228-3/001.
+Extrai-se dos autos que o paciente foi condenado pelo Tribunal do Júri, tendo-lhe sido aplicada pelo MM. Juiz de primeiro grau a pena de 27 (vinte e sete) anos e 9 (nove) meses de reclusão, em regime inicialmente fechado, pela prática do delito tipificado no art. 121, §2º, incisos II, III e IV, do Código Penal (homicídio qualificado).
+Irresignada, a defesa interpôs recurso de apelação perante a Corte estadual, a qual deu parcial provimento ao recurso, para reduzir a reprimenda do paciente para 20 (vinte) anos e 3 (três) meses de reclusão, em regime inicialmente fechado, mantendo, no mais, os exatos termos da r. sentença hostilizada, por seus próprios fundamentos, nos termos do acórdão assim ementado:
+"APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - REDUÇÃO DA PENA - NECESSIDADE - DECOTE DA REINCIDÊNCIA - DESCABIMENTO - RECURSO PARCIALMENTE PROVIDO. 1- Somente a decisão que não encontre menor respaldo nos elementos de convicção carreados aos autos pode ser tida como manifestamente contrária à prova. 2- Constatado que as penas-base foram aplicadas com excessivo rigor e em dissonância dos elementos extraídos dos autos, de rigor a sua redução. 3- Considerando que o réu ostenta inúmeras condenações com trânsito em julgado para defesa e acusação, por fatos anteriores ao que está em análise, não há que se falar em decote da reincidência" (fl. 1.373).
+Opostos embargos declaratórios pela defesa, estes foram rejeitados (fls. 1367/1.371).
+No presente writ, a defesa sustenta que o paciente foi condenado com base em testemunhos indiretos de "ouvir dizer".
+Requer, assim, a nulidade do processo desde a decisão de pronúncia, e a impronúncia do paciente, pois alega ausência de indícios de autoria para submetê-lo ao julgamento pelo tribunal do júri.
+Não houve pedido de liminar.
+O Ministério Público se manifestou pelo não conhecimento do habeas corpus (fls. 1.389/1.392).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Conforme relatado, busca-se, no presente writ, a cassação da sentença sob a alegação de que a decisão é manifestamente contrária às provas dos autos.
+Ocorre que, no caso em apreço, a alegação trazida no presente writ, referente à impossibilidade da condenação baseada em depoimentos indiretos, não foi levada para apreciação pelo Tribunal de origem, no julgamento do recurso de apelação (fls. 1.373/1.378), o que obsta a análise por este Tribunal Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+Confiram-se os seguintes precedentes do STJ, nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. LATROCÍNIO. ALEGAÇÃO DE CONDENAÇÃO FUNDADA EM ELEMENTOS EXTRAJUDICIAIS. DEPOIMENTOS JUDICIAIS APONTADOS COMO ELEMENTOS DE PROVA A SUSTENTAR A CONDENAÇÃO. PREMISSA FÁTICA-JURÍDICA ATESTA PELA CORTE ORIGINÁRIA. TESE DE QUE OS DEPOIMENTOS JUDICIAIS SERIAM TESTEMUNHOS DE "OUVI DIZER". TEMA NÃO ABORDADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - É cediço que, "conforme a jurisprudência desta Corte Superior, em atenção ao disposto na lei processual penal (art. 155 - CPP), não se admite a condenação embasada apenas em provas colhidas no inquérito policial, não submetidas ao devido processo legal, com observância dos princípios do contraditório e da ampla defesa" (HC n. 691.058/SP, Sexta Turma, Rel. Min. Olindo Menezes - Desembargador Convocado do TRF 1ª Região, DJe de 28/10/2021). In casu, ao contrário do que fora alegado pela defesa, o Tribunal de origem afirmou que a condenação está fundada em depoimentos colhidos em juízo. Assim, não há se falar em ilegalidade.
+III - Registre-se que não foi enfrentada pela Corte originária a tese defensiva de que os depoimentos judiciais, na verdade, estão eivados, pois, os depoentes não tiveram acesso aos fatos, razão pela qual fizeram declarações com base em informações colhidas por terceiros - testemunhos de "ouvi dizer". Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 698.244/AL, relator Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe de 14/3/2022).
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE. FUNGIBILIDADE RECURSAL. ALEGADO EXCESSO DE PRAZO DAS MEDIDAS CAUTELARES ALTERNATIVAS. MATÉRIA NÃO ANALISADA PELA INSTÂNCIA DE ORIGEM. SUPRESSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausentes os requisitos do art. 619 do CPP, observada a tempestividade recursal e aplicado o princípio da fungibilidade, os embargos de declaração devem ser recebidos como agravo regimental.
+2. O STJ não pode conhecer de matéria não apreciada pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+3. Agravo regimental desprovido.
+(AgRg no HC 577.034/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 05/03/2021).
+Ante exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
