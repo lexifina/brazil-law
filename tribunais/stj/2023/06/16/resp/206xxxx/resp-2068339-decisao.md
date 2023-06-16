@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de pedido de tutela provisória incidentalmente apresentado por COMPANHIA VALE DO RIO DOCE, objetivando a atribuição de efeito suspensivo a recurso especial admitido na origem.
+Colhe-se dos autos que a recorrida M. L. do C. S., menor devidamente representada por J. A. de A. S., promoveu a execução do Termo de Ajustamento de Conduta (TAC) firmado pela Companhia ora recorrente e a Defensoria Pública do Estado de Minas Gerais, pleiteando a reparação por danos decorrentes do rompimento da Barragem da Mina do Córrego do Feijão ocorrido na cidade de Brumadinho-MG, acidente ambiental amplamente divulgado e conhecido nacional e internacionalmente.
+Contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais, que deu provimento ao recurso de apelação interposto pela exequente, a VALE interpôs recurso especial, apontando a violação dos artigos 7º, 9º, caput, 10, 17, 141, 331, §1º, 337, §3º, 485, 492, 783 e 786, caput, e 917, I, do Código de Processo Civil de 2015, e do art. 5º, §6º, da Lei nº 7.347/85.
+Em suas razões, a ora requerente sustenta a ilegitimidade da parte para executar o TAC, uma vez que esta não integrou a relação jurídica que o originou e defende a inadequação da via eleita, haja vista que o referido título não goza de certeza, liquidez ou exigibilidade.
+Com vistas à demonstração da plausibilidade de suas razões recursais, a requerente invoca a existência de precedente desta Corte Superior a amparar a sua tese.
+Além disso, defende a urgência do pleito, pois, "em caso de bloqueio e liberação de valores à Exequente, jamais retornará aos cofres da executada, quando, ao final da demanda, o presente recurso for provido, e a execução declarada extinta" (fl. 792 e-STJ).
+Ao final, requer seja concedido efeito suspensivo ao presente apelo nobre, para suspender o feito executivo até o julgamento final da lide.
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, I, do Código de Processo Civil/2015, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso vertente, o recurso especial foi admitido pelo juízo prévio de admissibilidade, estando evidente a competência dessa Corte para o exame do pedido formulado.
+No exercício desse mister, ao menos num juízo sumário, próprio da via, constata-se a plausibilidade do recurso especial, pois conforme alegado, esta Corte Superior já se pronunciou a respeito do tema no sentido de que "apenas os legitimados ao ajuizamento da ação civil pública que detenham condição de órgão público podem tomar das partes termos de ajustamento de conduta (arts. 5º e 6º da Lei 7.347/85), não há como se chegar a outra conclusão que não a que somente esses órgãos poderão executar o referido termo, em caso de descumprimento do nele avençado." (REsp n. 1.020.009/RN, relator Ministro Benedito Gonçalves, PrimeiraTurma, julgado em 6/3/2012, DJe de 9/3/2012, grifou-se).
+Da mesma forma, a urgência da medida também está suficientemente demonstrada, diante da iminência da efetivação do levantamento dos valores executados.
+Nesse contexto, estando presentes os requisitos autorizadores da tutela de urgência, é de rigor o deferimento do pedido.
+Ante o exposto, defiro a liminar pleiteada para emprestar efeito suspensivo ativo ao recurso especial, a fim de suspender a execução do TAC, bem como o eventual levantamento dos valores almejados pela parte exequente, até o julgamento definitivo da demanda.
+Encaminhe-se cópia da presente decisão ao Juízo da execução com urgência.
+Intime-se.
+Cumpra-se.
