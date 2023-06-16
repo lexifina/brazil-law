@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por ENGIE BRASIL ENERGIA S.A., contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. RECLAMO CONTRA DECISÃO INTERLOCUTÓRIA QUE DELIMITOU O OBJETO DA EXECUÇÃO. CUMPRIMENTO DA OBRIGAÇÃO DE DESOCUPAÇÃO DO IMÓVEL E DESFAZIMENTO DE LIGAÇÕES ELÉTRICAS E HIDRÁULICAS SUBTERRÂNEAS, CHUVEIRO E PARCELA DE QUIOSQUE, DENTRE OUTROS. TÍTULO JUDICIAL QUE, ALÉM DE DETERMINAR A REINTEGRAÇÃO DE POSSE, PREVIA APENAS A REMOÇÃO DE TRAPICHE MÓVEL E ACESSÕES (RAMPA DE ACESSO E PASSEIO DE PEDESTRES). AGRAVANTE QUE, EM VERDADE, OBJETIVA A IMPOSIÇÃO DE DEVERES NÃO ABARCADOS PELA SENTENÇA. PRETENSÃO QUE DEVE SER BUSCADA EM AÇÃO JUDICIAL PRÓPRIA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a agravante alegou ofensa ao art. 1.022 do CPC/2015, por omissão do acórdão recorrido.
+Afirma terem sido ofendidos os arts. 505, 507, 515, I, e 560 do CPC/2015, 1.228 do CC/2002, defendendo a possibilidade de ampliação do objeto do cumprimento de sentença. Assevera (e-STJ, fls. 228/230):
+25. Conforme narrado acima, o presente recurso objetiva cessar violação à efetividade do título executivo judicial (art. 515, I, do CPC); resguardar a autoridade da coisa julgada material (arts. 505 e 507 do CPC); e garantir a efetividade da tutela da posse reconhecida por sentença transitada em julgado (artigos 1.228 do CC e 560 do CPC), todos violados pelo acórdão recorrido.
+26. Isto ocorreu porque o acórdão recorrido confirmou decisão proferida em sede de cumprimento de sentença, que indeferiu pedido da recorrente para que os recorridos/esbulhadores fossem intimados para cumprir a obrigação de fazer atinente à desocupação do imóvel sub judice, cuja posse foi reintegrada à recorrente, não bastando, para tanto, remover apenas as construções citadas na sentença, mas também deveriam remover outras construções "novas" que foram erigidas no curso da ação.
+(..)
+28. No entanto, conforme se extrai dos julgados supra reproduzidos, o acórdão entendeu que a pretensão da recorrente-de intimar os recorridos para remover novo esbulho perpetrado na área objeto da reintegração de posse concedida na sentença, não merece acolhida, porque supostamente extrapolaria o objeto da ação principal (ação de reintegração de posse julgada procedente e transitada em julgado).
+29. Entretanto, esse entendimento não procede.
+30. Afinal, da ordem de reintegração de posse decorre, por óbvio, a obrigação de fazer (desocupar o imóvel invadido) e de não fazer (não voltar a esbulhar). Daí porque é inadmissível o entendimento do acórdão recorrido, que confirmou a decisão interlocutória do juízo da execução, no sentido de que a obrigação de fazer determinada na sentença de reintegração de posse estaria limitada na remoção das construções invasivas citadas expressamente no dispositivo da sentença, ficando permitida a manutenção de outras construções irregulares erigidas posteriormente pelos recorridos no curso da ação, tão somente porque não foram mencionadas na sentença.
+31. É absurdo pensar que, a cada nova construção ou ato de invasão perpetrado pelos recorridos, a recorrente tenha que ajuizar nova ação possessória, como se o título judicial já preexistente (que reconheceu a posse em favor da recorrente e o esbulho praticado pelos recorridos) não valesse coisa alguma.
+32. A obrigação constante do título executivo judicial diz com a necessidade de respeito à posse da recorrente (tutela mandamental de não fazer), como consequência lógica da aplicação dos artigos 560 do CPC e 1.228 do CC, sob pena de malferi-los. Portanto, na medida em que os recorridos esbulharam voltaram/continuaram esbulhando aposse e, mesmo depois da sentença transitada em julgado, voltaram a construir obras irregulares sobre área já reconhecida como sendo de posse da recorrente, por evidente descumpriram a ordem judicial, dando ensejo ao cumprimento de sentença apresentado no juízo a quo.
+Foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial por inexistência de violação do art. 1.022 do CPC/2015 e por óbice da Súmula n. 211/STJ.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo e não conhecimento do recurso especial.
+É o relatório.
+Passo a decidir.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade, passo à análise do recurso especial.
+A recorrente afirma ter havido omissão do acórdão recorrido, aduzindo ofensa ao art. 1.022 do CPC/2015. Todavia, conforme se infere dos autos, verifica-se que nem sequer foram opostos embargos declaratórios ao acórdão proferido pelo Tribunal de origem.
+Dessa forma, a parte apresentou razões dissociadas do conteúdo dos autos, o que importa o reconhecimento da deficiência da fundamentação do recurso especial. Assim, incidente o óbice da Súmula n. 284/STF.
+Ao decidir pelo cumprimento de sentença, nos limites do quanto estabelecido no título executivo judicial, o Tribunal de origem assentou (e-STJ, fl. 186):
+E como bem observou o representante do Parquet, "o cumprimento de sentença possui um objetivo bem específico: possibilitar o cumprimento voluntário de obrigação previamente reconhecida em título executivo judicial e, não ocorrendo o desejado adimplemento, promover a constrição e expropriação do patrimônio devedor. Em sede de cumprimento de cumprimento de sentença, portanto, não há margem para dilação probatória ou para discussões quanto ao acerto, desacerto ou incompletude da decisão que deu origem ao título" (Ev. 29, p. 3).
+Desse modo, não há razão para se modificar o decisum a quo.
+O entendimento adotado pela Corte local coincide com a jurisprudência do STJ, no sentido de que o cumprimento de sentença deve se restringir aos limites da determinação na fase de conhecimento, sob pena de ofensa à coisa julgada. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÍNDICE DE CORREÇÃO MONETÁRIA. PRESERVAÇÃO DA COISA JULGADA. TEMA 733/STF E 905/STJ
+1. No tocante à citada ofensa aos arts. arts. 489, § 1º, IV, e 1.022 do CPC/2015, o apelo não comporta provimento. O Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução. O aresto manifestou-se expressamente quanto à tese de impossibilidade de alteração dos critérios fixados no títutlo judicial e quanto ao tema 733 do STF.
+2. No mais, a irresignação prospera, porque o aresto recorrido destoa da jurisprudência do STJ de que, acerca da correção monetária e aplicação do 905/STJ, é necessário preservar os efeitos da coisa julgada que tenha determinado a aplicação de índice diverso. Assim, se a decisão acobertada pela coisa julgada não for desconstituída, não é cabível alterar os parâmetros estabelecidos no título judicial, em cumprimento de sentença, ainda que no intuito de adequá-los à decisão vinculante do STF. Precedentes.
+3. Recurso Especial parcialmente provido.
+(REsp n. 2.030.290/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. SUBSCRIÇÃO DE AÇÕES. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VALOR PATRIMONIAL. APURAÇÃO DO NÚMERO DE AÇÕES. DECISÃO TRANSITADA EM JULGADO.
+1. Ação de indenização, em cumprimento de sentença.
+2. Ausentes os vícios do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+3. O cumprimento da sentença deve observar exatamente o que foi estabelecido no título judicial, sob pena de violar a coisa julgada.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.570.659/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/11/2019, DJe de 27/11/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JUROS LEGAIS. TÍTULO EXECUTIVO. COISA JULGADA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, em respeito à coisa julgada, não é possível alterar, na fase de liquidação ou no cumprimento de sentença, os critérios estabelecidos no título executivo.
+2. "Nos termos da jurisprudência do STJ: proferida a sentença após a entrada em vigor do Código Civil de 2002, é inviável a alteração do percentual fixado a título de juros moratórios na execução, sob pena de ofensa à coisa julgada" (AgInt nos EDcl no REsp n. 1.955.190/RJ, Relatora Ministra NANCY AN3DRIGHI, TERCEIRA TURMA, julgado em 13/12/2021, DJe de 15/12/2021).
+3. A simples indicação do dispositivo legal tido por violado, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211 do STJ).
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+5. No caso concreto, para alterar a conclusão da Corte estadual de que os cálculos apresentados pelo exequente estão em conformidade com o título executivo, seria necessária análise de matéria fática, vedada em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.163.752/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Dessa forma, incidente o óbice da Súmula n. 568/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço do agravo para não conhecer do recurso especial .
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE ESBULHO POSSESSÓRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. AMPLIAÇÃO DO OBJETO DA SENTENÇA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO PARA CONHECER NÃO CONHECER DO RECURSO ESPECIAL.
