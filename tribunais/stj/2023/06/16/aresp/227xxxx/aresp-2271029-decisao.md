@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ APARECIDO TENÓRIO DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, o agravante foi condenado pela prática do crime descrito no art. artigo 312, caput, do Código Penal, às penas de 8 (oito) anos de reclusão, em regime inicial fechado, e ao pagamento de 40 (quarenta) dias-multa (fls. 1.088-1.105), que foi modificada para 4 (quatro) anos de reclusão, em regime inicial aberto, e 20 (vinte) dias-multa pelo Tribunal local no julgamento da apelação (fls. 1.371-1.386).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação dos artigos 315, VI, e 386, VII, do Código de Processo Penal, pois ficou caracterizada a ausência de fundamentação, além de ser mantida a condenação sem a prova material do crime.
+Apresentadas as contrarrazões (fls. 1.465-1.470), o Tribunal de origem negou seguimento ao recurso especial com aplicação do Tema 184 do Supremo Tribunal Federal, nos termos do artigo 1030, I, b, do Código de Processo Civil e o inadmitiu fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fls. 1.473-1.474).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 1.479-1.485).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 1.521-1.528).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Inicialmente, conforme mencionado, o Tribunal de origem negou seguimento ao recurso especial no que atine ao Tema 184 do Supremo Tribunal Federal, nos termos do artigo 1030, I, b, do Código de Processo Civil.
+Consoante o disposto no art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento exarado no julgamento de recursos repetitivos.
+Ademais, o art. 1.042 do CPC/2015 prescreve que "cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos".
+Conclui-se, portanto, que, nessa hipótese, a interposição de agravo em recurso especial caracteriza erro grosseiro, o que afasta a aplicação do princípio da fungibilidade recursal.
+Nesse sentido: AgRg no AREsp 1330687/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 10/12/2018 e AgRg no AREsp n. 1.074.088/BA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 15/02/2018.
+Além disso, conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em virtude da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+Com relação ao óbice da Súmula 7/STJ, em síntese, a parte limitou-se a afirmar que a "violação exposta não necessita de reexame de prova, pois a violação além de decorrer de direta afronta ao texto infraconstitucional, se tornando imprescindível o conhecimento nesse aspecto, seria passível no máximo na revaloração da prova" (fl. 1.483).
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu, tendo ainda repisado os argumentos apresentados na petição do recurso especial.
+É entendimento desta Corte Superior que:
+"inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Nesse mesmo sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quita Turnma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. PECULATO . NEGATIVA DE SEGUIMENTO DE PARTE DO RECURSO ESPECIAL. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
