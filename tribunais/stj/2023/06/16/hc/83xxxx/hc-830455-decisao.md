@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de Maxwel da Silva Estanislau e Caio Baltar Martins - condenados como incursos nos crimes de tráfico de drogas e associação para o mesmo fim - contra ato coator do Tribunal de Justiça do Rio de Janeiro (Apelação Criminal n. 023497-40.2020.8.19.0001), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta aos pacientes pelo Juízo de Direito da 2ª Vara Criminal da comarca de Três Rios/RJ, argumentando a necessidade de absolvição dos delitos de tráfico de drogas e associação para o tráfico, em relação a Caio, e absolvição do delito de associação e revisão da dosimetria, em relação ao Maxwel, aos argumentos de possibilidade de incidência da minorante relativa à menoridade e do redutor do art. 33, § 4º, da Lei n. 11.343/2006, com aplicação dos consectários legais (fixação do regime inicial mais brando e substituição da pena privativa de liberdade por restritiva de direitos).
+Ocorre que a via eleita foi indevidamente utilizada como espécie de "segunda apelação", visando debater os fundamentos de condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Outrossim, consta da sentença que dúvidas não há acerca da prática dos crimes descritos na denúncia, sendo que os próprios acusados admitiram informalmente aos policiais não só a venda como também a associação, afirmando que trabalhavam por plantão e que Caio era a pessoa responsável pelo fornecimento da droga, o que foi verificado pelos agentes da lei durante a campana (fl. 96).
+Também se extrai do acórdão a quo que, conquanto se vislumbre, efetivamente, a presença da circunstância atenuante da menoridade penal do acusado Maxsuel (sic), impossível se mostra a sua efetiva repercussão sobre a reprimenda, uma vez que as penas basilares do mesmo já foram fixadas nos pisos mínimos previstos em lei (fls. 49/50).
+Assim, o constrangimento alegado não se mostra com a nitidez imprimida na inicial, ainda em relação ao pleito de incidência da minorante do tráfico privilegiado, pois a condenação pelo crime de associação é suficiente para demonstrar a dedicação a atividades criminosas, afastando a aplicação da benesse suscitada.
+Prejudicados os pedidos de fixação de regim e diverso do fechado e de substituição da privativa de liberdade por restritiva de direitos.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. UTILIZAÇÃO INDEVIDA DO WRIT. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
