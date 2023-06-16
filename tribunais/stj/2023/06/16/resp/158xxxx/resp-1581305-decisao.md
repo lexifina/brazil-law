@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Companhia do Metropolitano de São Paulo, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 780):
+APELAÇÃO - DESAPROPRIAÇÃO - INDENIZAÇÃO FIXADA EM MONTANTE ADEQUADO. JUROS COMPENSATÓRIOS DE 12% AO ANO - ADMISSIBILIDADE - SÚMULA 618, DO E. SUPERIOR TRIBUNAL DE JUSTIÇA, INCIDENTES SOBRE A DIFERENÇA ENTRE O VALOR LEVANTADO PELOS EXPROPRIADOS, DE FORMA ATUALIZADA E O VALOR INDENIZATÓRIO FIXADO NA SENTENÇA. MAJORAÇÃO DA HONORÁRIA ARBITRADA NA DIFERENÇA ENTRE O VALOR OFERECIDO E A INDENIZAÇÃO DEVIDA DE 1% PARA 5% QUE SE IMPÕE. SENTENÇA PARCIALMENTE REFORMADA.
+RECURSOS PARCIALMENTE PROVIDOS.
+Opostos embargos declaratórios, foram rejeitados (fls. 794/800).
+Inconformada, a parte recorrente aponta violação aos arts. 15-A, 29 e 33 do Decreto-Lei n. 3.365/41; 708 e 1.219 do CPC; e 186 e 334 do CC. Para tanto, sustenta que "cumpriu com sua obrigação de pagar o valor indenitário devido, descapitalizou o seu patrimônio, efetuou dois depósitos, (oferta e seu complemento), em 100%, logo todo valor indenitário a ser recebido pelos Recorridos está à disposição do Juízo, em estabelecimento bancário, gerando juros e correção monetária" (fl. 811), de modo que não seria cabível a incidência de juros compensatórios sobre os 20% (vinte por cento) dos depósitos que ficaram retidos em conta judicial.
+Parecer Ministerial às fls. 836/840, pelo não conhecimento do recurso especial e, se acaso conhecido, pelo seu desprovimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta êxito, pois a jurisprudência do Superior Tribunal de Justiça trilha no sentido de que, ainda que tenha havido o depósito integral do valor da indenização, antes mesmo da imissão na posse, o expropriado somente poderá levantar 80% do referido montante, pelo que os juros compensatórios devem incidir sobre a parcela de 20% da indenização indisponível.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO PARA UTILIDADE PÚBLICA. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE 80% DO VALOR DA OFERTA INICIAL E A INDENIZAÇÃO FIXADA JUDICIALMENTE.
+1. O STF, no julgamento da ADI 2.332 - 2/DF, Rel. Min. Moreira Alves, deu ao art. 15-A do Decreto-lei 3.365/1946 interpretação conforme a Constituição para que a base de cálculo dos juros compensatórios seja a diferença eventualmente apurada entre 80% (oitenta por cento) do preço ofertado e o valor do bem fixado em sentença.
+2. A interpretação parte da premissa de que o desapropriado fez o levantamento de 80% (oitenta por cento) do valor da oferta, devendo os juros incidir sobre os 20% (vinte por cento) restantes e o que a mais for fixado pela sentença. Precedentes do STJ: REsp 1.455.588/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 26/2/2018;
+AgInt no REsp 1.494.690/AL, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12/3/2018.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.996.315/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. VALOR FIXADO NA SENTENÇA IGUAL AO OFERTADO PELO EXPROPRIANTE. JUROS COMPENSATÓRIOS. INCIDÊNCIA SOBRE A PARCELA INSUSCETÍVEL DE LEVANTAMENTO. ACÓRDÃO DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO PELO STJ. AGRAVO INTERNO DO INCRA DESPROVIDO. 1. Na hipótese de depósito inicial idêntico ao valor da condenação, os compensatórios incidem sobre 20% desse montante, pois os expropriados só podem levantar imediatamente 80% do depósito inicial. Precedentes: AgRg nos EDcl no AREsp. 91.096/TO, Rel. Min. BENEDITO GONÇALVES, DJe 5.11.2014; AgRg no REsp. 1.442.358/CE, Rel. Min. HUMBERTO MARTINS, DJe 16.9.2014; AgRg no AREsp. 502.430/CE, Rel. Min. HERMAN BENJAMIN, DJe 18.8.2014; REsp. 1.111.210/BA, Rel. Min. CASTRO MEIRA, DJe 5.11.2010.
+2. Agravo Interno do INCRA desprovido.
+(AgInt no AREsp n. 493.438/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/5/2019, DJe de 20/5/2019.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
