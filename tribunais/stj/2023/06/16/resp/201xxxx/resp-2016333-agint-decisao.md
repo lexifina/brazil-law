@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial, fundamentado na alínea "a" do permissivo constitucional, interposto por VALE S/A.
+Recurso especial interposto em: 17/03/2022.
+Concluso ao gabinete em: 08/05/2023.
+Ação: de indenização por danos materiais e compensação por danos morais ajuizada por Soraia Pacheco da Silva e Outros contra a VALE S/A, na qual os autores alegam que, em razão de acordo firmado entre a referida empresa, fazem jus ao pagamento de indenização emergencial, sob o argumento de que residem a menos de 200 (duzentos) metros da calha do rio Paraopeba, local afetado pelo rompimento da barragem pertencente à requerida.
+Pugnam, ao final, pela condenação da empresa ao pagamento de indenização por danos materiais, retroativa à data do fato, e de compensação por danos morais, a serem arbitrados pela autoridade judiciária.
+Decisão (fl. e-STJ 406/411): o Juízo de 1º Grau deferiu a tutela provisória pleiteada, determinando a realização do pagamento de auxílio emergencial referente aos valores retroativos, devidamente corrigidos.
+Acórdão (fl. e-STJ 320/325): o TJ/MG negou provimento ao agravo de instrumento interposto pela empresa VALE S/A, nos termos da ementa a seguir transcrita:
+AGRAVO DE INSTRUMENTO -AÇÃO INDENIZATÓRIA -ROMPIMENTO DA BARRAGEM DE REJEITOS DA MINA CÓRREGO DO FEIJÃO EM BRUMADINHO -AUSÊNCIA DE PERDA DE OBJETO -TUTELA DE URGÊNCIA -PAGAMENTO DE AUXÍLIO FINANCEIRO EMERGENCIAL ASSUMIDO PELA MINERADORA EM TERMO DE ACORDO PRELIMINAR -PROBABILIDADE DO DIREITO INVOCADO E "PERICULUM IN MORA" -VERIFICAÇÃO -PERIGO DE IRREVERSIBILIDADE -MITIGAÇÃO.
+I. Não há perda de objeto da tutela de urgência em razão do eventual término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP), que apenas implicaria o encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência da tutela provisória;
+II- Segundo o art. 300, "caput", do CPC, a concessão de tutela provisória de urgência depende, de forma geral, da presença de elementos evidenciando a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo;
+III- Se os elementos até então constantes dos autos evidenciam a probabilidade do direito invocado pela parte requerente e o "periculum in mora", deve ser deferido o requerimento de tutela de urgência atinente à determinação a empreendedora minerária responsável pela barragem de rejeitos da mina Córrego do Feijão, em Brumadinho, rompida em 25 de janeiro de 2019, de pagamento das parcelas mensais do auxílio emergencial assumido pela mesma no Termo de Acordo Preliminar (TAP) firmado nos autos 5010709-36.2019.8.13.0024 (PJe);
+IV- A regra do art. 300, § 3º, do CPC não é absoluta, podendo ser mitigada em hipóteses excepcionais.
+Embargos de declaração (fl. e-STJ 801/806): opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação do art. 300 do CPC e do art. 843 do Código Civil, sustentando que o Termo de Ajuste Preliminar firmado entre a recorrente, o Estado de Minas Gerais, o Ministério Público Estadual, a Defensoria Pública Estadual, o Ministério Público Federal, a Defensoria Pública da União e a Advocacia-Geral da União não pode ser interpretado extensivamente.
+Afirma que os recorridos não apresentaram documento que comprove a residência a menos de 1.000 metros das margens do rio Paraopebas, quando da data do rompimento da barragem, e aduz que apenas aqueles interessados que cumprirem com as cláusulas do citado termo fazem jus ao recebimento do auxílio emergencial.
+Decisão de admissibilidade do TJ/MG: admitiu o recurso especial da recorrente.
+Parecer do MPF: manifestou-se pelo não conhecimento do recurso especial.
+Decisão (fl. e-STJ 1.073/1.077): o e. Min. Francisco Falcão não conheceu do recurso especial.
+Petição (fl. e-STJ 1.080/1.270): inconformada, a VALE S/A interpôs agravo interno, no qual requer a reforma do decisum, asseverando que a pretensão recursal não demanda reexame de provas e que a matéria suscitada pode ser conhecida de ofício, nos termos do art. 485, V, § 3º, do CPC.
+Petição (fl. e-STJ 1.274/1.297): intimada, a parte contrária apresentou impugnação.
+Decisão (fl. e-STJ 1.308/1.309): o Min. Francisco Falcão determinou a redistribuição do processo à Segunda Seção do STJ, com esteio no art. 9º, § 2º, III, do RISTJ, em razão da demanda versar sobre responsabilidade civil.
+RELATADO O PROCESSO. DECIDE-SE.
+Verifica-se que compete ao e. Min. Francisco Falcão conhecer do agravo interno interposto contra decisão de sua lavra, decisum no qual Sua Excelência não conheceu do recurso especial. Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA QUE JULGA O RECURSO ESPECIAL OU O AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA DA TURMA DA QUAL É INTEGRANTE O MINISTRO RELATOR. ART. 13, IV, A E C, C/C OS ARTS. 15, I, 258 E 259 DO RISTJ. 2. DECISÃO QUE ARBITRA ASTREINTES. COISA JULGADA NÃO FORMADA. POSSIBILIDADE DE ALTERAÇÃO A QUALQUER TEMPO, INCLUSIVE, DE OFÍCIO. 3. RAZOABILIDADE E PROPORCIONALIDADE DO VALOR DA MULTA COMINATÓRIA. AFERIÇÃO. ANALISADO O VALOR DIÁRIO DA PENALIDADE, E NÃO O TOTAL ATINGIDO PELO DESCUMPRIMENTO REITERADO DA ORDEM JUDICIAL. 4. MODIFICAÇÃO DA MONTA DIÁRIA FIXADA NA ORIGEM. NECESSIDADE DE REDUÇÃO. EXORBITÂNCIA VERIFICADA. ADEQUAÇÃO AO PATAMAR RAZOÁVEL E PROPORCIONAL. 5. AGRAVO INTERNO DESPROVIDO.
+1. A competência para julgamento do agravo interno interposto contra decisão monocrática que apreciou o recurso especial ou agravo em recurso especial é da Turma que integra o Ministro prolator do julgado agravado, nos termos do art. 13, IV, a e c, c/c os arts. 15, I, 258 e 259 do RISTJ. (..)
+(AgInt nos EDcl no AgInt no REsp n. 1.589.503/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2017, DJe de 23/6/2017.)
+Nos termos da competência funcional vertical, compete ao e. Relator, em sede de agravo interno e detectando a incompetência da Primeira Seção do STJ para processar o recurso, tornar sem efeito o decisum impugnado e determinar a consequente redistribuição do processo.
+Dispositivo
+Forte nessas razões, RESTITUO os autos à Sua Excelência, o Min. Francisco Falcão, a fim de que o agravo de fl. e-STJ 1.080/1.270 seja examinado pelo eminente Relator e, caso determinada a redistribuição do processo à Segunda Seção do STJ, retorne m os autos conclusos à minha Relatoria.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. COMPETÊNCIA FUNCIONAL VERTICAL.
