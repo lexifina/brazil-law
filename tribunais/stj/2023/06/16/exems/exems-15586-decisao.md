@@ -1,0 +1,12 @@
+DECISÃO
+Em atenção ao despacho de fl. 175, a UNIÃO (fls. 179-186) aludiu à necessidade de maior prazo para reformular e concluir os procedimentos de revisão instaurados, tendo em vista a reestruturação da Comissão de Anistia neste ano de 2023. Nesse sentido, pugnou pelo deferimento de novo prazo para "conclusão dos trabalhos" .
+Na hipótese dos autos, embora reporte-se à instauração de nova revisão com esteio na Instrução Normativa nº 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos, verifica-se que a executada não atendeu ao que lhe fora determinado.
+Em consulta ao processo administrativo, por meio do link de acesso externo (https://tinyurl.com/3uvj58hb), observa-se que, de fato, o exequente foi notificado e apresentou defesa administrativa. Contudo, a partir daí, a Administração quedou-se inerte, e não envidou esforços para dar significativo prosseguimento ao procedimento revisional. Não há movimentação processual na esfera administrativa desde 13/10/2022.
+Enfim, a argumentação apresentada não autoriza que se suspenda, ainda mais, o pagamento do requisitório expedido.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução - tendo em vista concordância manifestada à fl. 21 -, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação na prática deduzida pela executada (ainda que não tenha sido oposta formalmente).
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, e determino o afastamento da suspensão do pagamento do precatório expedido.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial). Para pagamento da verba sucumbencial, determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC.
+Atestado o cumprimento dos requisitórios, incluindo o referente aos honorários advocatícios sucumbenciais, voltem-me conclusos para extinção da execução.
+Traslade-se cópia da presente decisão para os autos do Prc 5786/DF.
+Publique-se. Intimem-se.
