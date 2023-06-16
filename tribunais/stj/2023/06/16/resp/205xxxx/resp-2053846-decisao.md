@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  CONSÓRCIO URB TOPO ENGENHARIA EPC ,  fundamentado  no  artigo  105,  inciso  III,  alínea "a",  da  Constituição  Federal,  impugnando  acórdão  proferido  pelo  Tribunal  de Justiça do Estado de Minas Gerais assim  ementado:
+"APELAÇÃO CÍVEL -EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -RECUPERAÇÃO JUDICIAL - CRÉDITO - SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL - DATA DO FATO GERADOR - EXTINÇÃO DA EXECUÇÃO - INADIMITIDA- SUSPENSÃO DO CURSO DA EXECUÇÃO -NECESSIDADE - EXCESSO DE EXECUÇÃO - NÃO CONFIGURAÇÃO. O momento em que o crédito decorrente de fato ocorrido antes do pedido de recuperação judicial deve ser considerado existente para o fim de submissão a seus efeitos, é a data do fato gerador ou do trânsito em julgado da sentença que o reconhece. Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador (REPETITIVO - TEMA 1.051 -REsp 1843332/RS). A ausência de indicação pelo devedor em processo de recuperação judicial de inclusão na planilha de credores desautoriza a extinção da execução. Ademais, tem o credor individual a prerrogativa de habilitar-se no bojo do processo de recuperação judicial e/ou aguardar a finalização do prosseguimento do processo de soerguimento. Configurada sujeição aos efeitos da recuperação judicial, determina-se a suspensão da ação de execução de título extrajudicial, de modo a evitar tratamento diferenciado, em detrimento dos demais credores habilitados. Deve ser rejeitada a alegação de excesso de execução quando o embargante não demonstra, mediante juntada de planilha de débito, o real valor devido" (fl. 200  e-STJ).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  230/239 e-STJ).
+No  recurso  especial,  o recorrente aponta  as  seguintes  violações:
+(i)  artigos 489, §1º, IV, e 1.022, parágrafo único, II, do  Código  de  Processo  Civil  -  negativa  de  prestação  jurisdicional, e
+(ii) artigos 49 e 59 da Lei nº 11.101/2005 - o processo executivo deveria ser extinto.
+O  recurso  especial  foi  admitido.
+
+Parecer do Ministério Público Federal pelo provimento do recurso.
+É  o  relatório.
+DECIDO.
+A  alegação  de  negativa  de  prestação  jurisdicional  merece  prosperar.
+De  fato,  verifica-se  que,  não  obstante  a  oposição  de  declaratórios,  a  Corte  local  permaneceu  silente  quanto  ao  seguinte  ponto:
+
+  "(..)  ao rejeitar o denunciado excesso de execução, o v. acórdão embargado consignou que:
+"Por fim, em análise ao pedido sucessivo, no que permite ao reconhecimento do excesso de execução, sem razão a apelante.
+Como bem decidiu o juízo de 1º grau, a apelante, conquanto alegue excesso de execução, não cuidou de planilha de débito indicando o valor que entendesse devido, ou mesmo discriminar o valor que achasse justo. É essa disposição do art. 917, inc. III, §3º, do CPC." (Destacamos)
+Com a devida venia, o Embargante requer a integração do julgado, nesse particular, na medida em que os Embargos à Execução foram manejados ainda sob a égide do Código de 1973, o qual não trazia essa exigência do novo art. 917, § 3º, do CPC/15, para fins de impugnação do excesso de execução."  (fl. 216 e-STJ).
+O  artigo  1.022,  parágrafo  único,  II,  do  CPC,  remetendo-se  ao  artigo  489,  §  1º,  IV,  determina  ser  omissa  a  decisão  que  "(..) não  enfrentar  todos  os  argumentos  deduzidos  no  processo  capazes  de,  em  tese,  infirmar  a  conclusão  adotada  pelo  julgador".
+Assim,  não  tendo  o  Tribunal  local  enfrentado  a alegação de que seria inaplicável ao caso o disposto no artigo 917, § 3º, do CPC/2015, uma vez que os embargos à execução foram protocolados antes da vigência do Novo Código de Processo Civil,  resta  impossibilitado  o  acesso  à  instância  extrema,  cabendo  à  parte  vencida  invocar,  como  no  caso,  a  transgressão  ao  art.  1.022  do  CPC , a  fim  de  anular  o  acórdão  recorrido  para  suprir  a  omissão  existente.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  PLANO  DE  SAÚDE  COLETIVO  EMPRESARIAL.  EX-EMPREGADO  APOSENTADO.  REGIME  DE  CUSTEIO.  DIVISÃO  DE  CATEGORIAS.  OMISSÃO  E  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  VERIFICADAS.  VÍCIOS  NÃO  CORRIGIDOS  NO  JULGAMENTO  DOS  ACLARATÓRIOS.  QUESTÕES  RELATIVAS  AO  CERNE  DA  CONTROVÉRSIA.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022,  AMBOS  DO  NCPC.  ANULAÇÃO  DO  ACÓRDÃO  ESTADUAL  E  RETORNO  DOS  AUTOS  À  INSTÂNCIA  DE  ORIGEM.  DECISÃO  MANTIDA.  AGRAVO  NÃO  PROVIDO.
+(..)
+2.  Quando  o  tema  suscitado  nos  embargos  de  declaração  é  relevante  ao  deslinde  da  controvérsia,  e  o  Tribunal  de  origem  não  se  pronunciou  sobre  ele,  imprescindível  a  anulação  do  acórdão  para  que  outro  seja  proferido,  ante  a  contrariedade  ao  art.  1.022  do  NCPC.
+3.  No  caso,  foi  constatado  que  houve  prestação  jurisdicional  incompleta  no  que  concerne  a  legalidade  da  mudança  da  forma  de  contribuição  para  o  novo  modelo  por  faixa-etária  e  a  inexistência  de  discriminação  ao  ex-empregado  aposentado,  por  se  tratar  de  plano  único.
+4.  Por  ora,  apesar  da  manifesta  inadmissibilidade  deste  recurso,  e  da  anterior  advertência  em  relação  à  aplicação  do  NCPC,  deixo  de  aplicar  a  multa  prevista  no  art.  1.021,  §  4º,  do  NCPC.
+5.  Agravo  interno  não  provido"  (AgInt  nos  EDcl  no  AgInt  no  REsp  1.728.492/SP,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  10/9/2019,  DJe  13/9/2019).
+"PROCESSUAL  CIVIL.  VIOLAÇÃO  DO  ART.  1022  DO  CPC/2015.  OMISSÃO.  NULIDADE  DO  JULGADO.  RETORNO  DOS  AUTOS.  NECESSIDADE.
+1.  Existindo  na  petição  recursal  alegação  de  ofensa  ao  art.  1.022  do  CPC/2015,  a  constatação  de  que  o  Tribunal  de  origem,  mesmo  após  a  oposição  de  Embargos  Declaratórios,  não  se  pronunciou  sobre  pontos  essenciais  ao  deslinde  da  controvérsia  autoriza  o  retorno  dos  autos  à  instância  ordinária  para  novo  julgamento  dos  aclaratórios  opostos.
+2.  Nesse  contexto,  deve  ser  dado  provimento  ao  Recurso  Especial  a  fim  de  que  os  autos  retornem  ao  Tribunal  de  origem  para  que  este  se  manifeste  sobre  a  matéria  articulada  nos  Embargos  de  Declaração,  em  face  da  relevância  da  omissão  apontada.
+3.  Recurso  Especial  provido,  determinando  o  retorno  dos  autos  à  Corte  de  origem,  para  novo  julgamento  dos  Embargos  de  Declaração"  (REsp  1.642.708/SC,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  16/2/2017,  DJe  17/4/2017).
+Ante  o  exposto,  dou  provimento  ao  recurso  especial , a  fim  de  determinar  o  retorno  dos  autos  ao  Tribunal  de  origem  para  que  seja  apreciada  a  matéria  suscitada  nos  declaratórios  de  fls.  212/217 (e-STJ),  como  entender  de  direito,  prejudicada  a  análise  das  demais  questões.
+Publique-se.
+Intimem-se.
