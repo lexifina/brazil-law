@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por PEDRO ERNY RENZ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA. AÇÃO DECLARATÓRIA DE INEXIG1B1L1DADE DE COBRANÇA C/C REPETIÇÃO DO INDÉBITO E DANO MORAL. INCIDÊNCIA DA PRESCRIÇÃO DECENAL. SENTENÇA REFORMADA, NO PONTO. EXIBIÇÃO DE FATURAS E DEMONSTRAÇÃO DE PAGAMENTOS. ÔNUS DA PARTE AUTORA. INDENIZAÇÃO POR DANO MORAL. AUSÊNCIA DE DEMONSTRAÇÃO DE QUALQUER DANO SOFRIDO. READEQUAÇÃO DA SUCUMBÊNCIA. DESCABIMENTO. DESCABIMENTO. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 524, §§ 4º e 5º do CPC, no que concerne à necessidade de exibição pela parte recorrida dos documentos comuns necessários à apuração dos cálculos, trazendo a seguinte argumentação:
+NOBRES JULGADORES (AS), o presente Recurso Especial visa a reforma do acórdão que, em benefício exclusivo da OI S.A. ao ponto de acarretar locupletamento, afastou o encargo processual que toda fornecedora possui, concernente a exibição em juízo, dos documentos necessários à apuração do valor da condenação.
+ ..
+Em primeiro lugar, data vênia ao que fora equivocadamente julgado, mas o fato das faturas terem sido remetidas a residência do Autor, não revela argumento jurídico a indeferir o pedido, pelo contrário. Se foram enviados ao consumidor, se tratam de documentos comuns às partes, motivo pelo qual, inadmissível a rejeição do dever exibitório.
+Respeita-se o saber jurídico dos julgadores. Contudo, é totalmente teratológico reconhecer que os documentos são comuns às partes e mesmo assim indeferir a exibição! (fls. 331-332).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto ao pedido de ordem para exibição das faturas e indicação dos valores cobrados indevidamente pela parte ré, entendo que não merece prosperar.
+Isso porque as faturas do serviço de telefonia são remetidas mensalmente ao consumidor, sendo consideradas uma prov a de fácil acesso ao demandante, incumbindo a esse, portanto, a sua obtenção.
+ ..
+Logo, não há que se exigir da parte ré a demonstração dos montantes adimplidos nos últimos dez anos antecedentes ao ajuizamento da ação, tampouco a indicação dos valores indevidamente adimplidos, pois evidente que os recibos de pagamento estiveram ao alcance da parte autora (fls. 316-317).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "A conclusão do Tribunal de origem no sentido de que os documentos cuja exibição se pretende são comuns às partes é imune ao crivo do recurso especial, haja vista as disposições do enunciado n. 7 da Súmula desta Corte." (AgInt no AREsp n. 756.561/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/9/2016, DJe de 15/9/2016.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
