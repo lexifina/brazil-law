@@ -1,0 +1,7 @@
+DECISÃO
+O Estado de Minas Gerais, em resposta ao despacho de fl. 599, atravessa petição à fl. 605 asserindo que, "Como informado às fl. 596, o contribuinte formulou renúncia ao Direito sobre o qual se funda a ação nos autos (físicos) dos Embargos à Execução; renúncia acolhida por sentença (doc. anexo)  ..  Assim, o Agravo Interno interposto pelo ente público (fl. 588 e s.), em face da decisão que não conheceu do seu Recurso Especial, e no qual se discutia a questão de fundo dos Embargos à Execução Fiscal (qual seja, o crédito tributário), perdeu o objeto".
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Por meio da decisão de fls. 583/584, não se conheceu do recurso especial do Estado de Minas Gerais, contra a qual foi manejado o agravo interno de fls. 588/591.
+Considerando que a parte agravante expressamente afirmou que "o Agravo Interno interposto pelo ente público (fl. 588 e s.), em face da decisão que não conheceu do seu Recurso Especial, e no qual se discutia a questão de fundo dos Embargos à Execução Fiscal (qual seja, o crédito tributário), perdeu o objeto" (fl. 605), é de se reconhecer que houve, em verdade, pleito pela desistência do agravo interno por ela manejado nos autos (fls. 588/591).
+ANTE O EXPOSTO, homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do agravo interno (fls. 588/591) formulado à fl. 605, nos termos dos arts. 998 do CPC e 34, IX, do RISTJ.
+Publique-se.
