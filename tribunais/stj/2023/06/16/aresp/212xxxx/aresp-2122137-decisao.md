@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interposto por ASSOCIAÇÃO DE AUTOMÓVEIS E VEÍCULOS PESADOS - AUTO-TRUCK contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos termos da seguinte ementa (fl. 237):
+DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - ASSOCIAÇÃO DE PROTEÇÃO VEICULAR - APLICAÇÃO DAS REGRAS ATINENTES AO CONTRATO DE SEGURO -POSSIBILIDADE - RECUSA DE COBERTURA, MOTIVADA EM CANCELAMENTO AUTOMÁTICO DO VÍNCULO, POR FALTA DE PAGAMENTO DO PRÊMIO - IMPOSSIBILIDADE - AUSÊNCIA DE COMPROVAÇÃO DE PRÉVIA COMUNICAÇÃO DO SEGURADO ACERCA DO INADIMPLEMENTO -INTELIGÊNCIA DO ENUNCIADO DE N.º 616 DA SÚMULA DE JURISPRUDÊNCIA DOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+-Ainda que não se trate de seguradora, a associação que presta, aos associados, serviço de proteção automotiva contra sinistros, mediante contraprestação, exerce atividade que contém todas as características de típico contrato de seguro, devendo ser regida pelas mesmas normas -previstas nos artigos 757 e seguintes do Código Civil -diante da inexistência de regramento legal específico.
+-Nos termos do entendimento expresso no Enunciado de n.º 616 da Súmula de Jurisprudência do Superior Tribunal de Justiça, a indenização securitária é devida quando ausente a comunicação prévia do segurado acerca do atraso no pagamento do prêmio, por constituir requisito essencial para a suspensão ou resolução do contrato de seguro.
+Rejeitados os embargos de declaração opostos (fls. 266-272).
+Nas razões do recurso especial (fls. 275-294), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 421, 422, 425 e 476 do Código Civil, sustentando que a inadimplência obsta o direito a recebimento de indenização.
+Sem contrarrazões (fl. 324), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 325-326), o que ensejou a interposição do presente agravo (fls. 329-338).
+Sem contraminutas do agravo (fl. 341).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem entendeu que não é cabível a recusa da cobertura securitária, diante da ausência de comprovação prévia da comunicação do segurado (fl. 241).
+A parte recorrente, por sua vez, apenas repete as razões iniciais, afirmando que a inadimplência impede o recebimento da indenização.
+Quando as razões do recurso especial estão dissociadas dos fundamentos utilizados no acórdão, em que a parte recorrente não impugna, de forma específica, os seus fundamentos, aplica-se, por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, confiram-se precedentes : AgInt no AREsp n. 702.411/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/3/2023, DJe de 31/3/2023; AgInt no AREsp n. 2.113.758/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no AREsp n. 2.130.305/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023; AgInt no AREsp n. 2.088.436/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
