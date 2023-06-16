@@ -1,0 +1,49 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0754645-45.2022.8.07.0016RECORRENTE(S)CAMILA GONCALVES REIS BENACRECORRIDO(S)DEPARTAMENTO DE TRANSITO DO DISTRITO FEDERAL - DETRANRelatorJuiz FLÁVIO FERNANDO ALMEIDA DA FONSECA
+ Acórdão Nº1718189
+
+EMENTA
+
+ JUIZADO ESPECIAL. FAZENDA PÚBLICA. ADMINISTRATIVO. PRELIMINAR DE SENTENÇA CITRA PETITA ACOLHIDA. CAUSA MADURA. INFRAÇÃO DE TRÂNSITO. 165-A DO CTB. PROCESSO ADMINISTRATIVO. SUSPENSÃO DO DIREITO DE DIRIGIR. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. REGULARIDADE DO AUTO DE INFRAÇÃO. DEVOLUÇÃO DO VALOR DA MULTA DE TRÂNSITO. IMPOSSIBILIDADE. RECURSO CONHECIDO. PRELIMINAR ACOLHIDA E PROVIDO EM PARTE.
+
+I. Trata-se de recurso interposto pela parte autora em face da sentença que julgou improcedente o pedido formulado na inicial consistente na restituição do valor pago a título de multa por infração de trânsito. Em seu recurso aduz preliminar de sentença citra petita, visto que formulou três pedidos na inicial, mas apenas um deles foi apreciado. Para tanto, assinala que elencou pretensões consistentes em (i) que fosse declarada a prescrição da pena de suspensão do direito de dirigir, bem como da infração de trânsito em si; (ii) que fosse declarado nulo o auto de infração de trânsito por descumprimento dos procedimentos legais; e (iii) a restituição do valor pago pela multa. Assim, assinala que embora o Detran tenha reconhecido na contestação a prescrição punitiva daquela infração de trânsito, a sentença deixou de afastar as consequências decorrentes de prescrição reconhecida na contestação, em especial que seja afastada a eventual penalidade de suspensão da CNH. Ainda, discorre acerca da nulidade do auto de infração de trânsito face a ausência da descrição do cenário observado e também da marca, modelo e do número de série do etilômetro, além de ressaltar que não foi demonstrada a recusa da parte autora em se submeter ao teste tampouco em realizar outros procedimentos a fim de apurar eventual embriaguez. Enfim, salienta que eventual reconhecimento da nulidade do auto de infração de trânsito gera efeitos ex-tunc, a ensejar a devolução do valor pago pela multa de trânsito. Ademais, ressalta que os efeitos da prescrição são distintos no direito público em face do direito privado, devendo ser observado o artigo 2º do Decreto nº 20.910/32, de modo que a prescrição deve resultar na devolução do valor pago a título de multa por infração de trânsito.
+
+II. Recurso próprio, tempestivo e com preparo regular. Contrarrazões apresentadas.
+
+III. A parte recorrida defende que “quanto à prescrição da penalidade de suspensão, inexiste interesse em recorrer. A documentação anexada à defesa atesta que houve o reconhecimento administrativo da prescrição da penalidade de suspensão” (ID 45526344, pág. 3). Todavia, quando do ajuizamento da demanda a parte autora demonstrou que havia recebido recente notificação de instauração de processo administrativo para a suspensão do direito de dirigir (ID 45526315), enquanto que nas informações que acompanharam a contestação a parte ré inicialmente afirmou que aquele processo para aplicação da penalidade de suspensão do direito de dirigir estava na fase de instrução com prazo para apresentação de defesa, enquanto que posteriormente mencionou que foi proferido despacho naquele processo para o seu arquivamento face o reconhecimento da prescrição da pretensão punitiva (ID 45526325, pág. 5). Todavia, e ainda que na contestação a parte ré tenha reforçado que foi reconhecida a prescrição daquela pretensão punitiva (ID 45526324), não foi juntado aos autos o despacho comprobatório neste sentido proferido no processo administrativo, de modo que necessário a existência de decisão de mérito sobre o tema na presente demanda, inclusive para elucidar os efeitos decorrentes daquela mencionada prescrição. Constata-se, portanto, que o pedido para que fosse reconhecida a prescrição e seus efeitos não foi apreciado na sentença. Do mesmo modo, também há pedido para a declaração de nulidade do auto de infração, de modo a subsidiar a pretensão para restituir o valor adimplido a título de multa por infração de trânsito, que também não foi analisado na sentença. Preliminar de sentença citra petita acolhida.
+
+IV. Contudo, não há necessidade de devolução da questão para análise pelo Juízo originário, uma vez que a situação processual permite o pronto julgamento do mérito pela Turma Recursal, com base na aplicação da Teoria da Causa Madura (CPC, artigo 1.013, § 3º, III).
+
+V. No mérito, conforme elencado no item III, a parte ré reconhece a prescrição da pretensão punitiva, inclusive mencionando a existência de despacho de arquivamento neste sentido no processo administrativo. Desse modo, deve a sentença ser reformada para reconhecer a prescrição da pretensão punitiva de suspensão do direito de dirigir decorrente do processo administrativo nº 0055-034512/2017. Todavia, cuida-se se reconhecimento da prescrição relativa à suspensão do direito de dirigir, em conformidade com a Resolução nº 723/2018 do Contran, o que não impede os demais efeitos e regularidade do auto de infração, de modo que não é fundamento apto para afastar a penalidade de aplicação de cobrança da multa pela infração de trânsito, que se mantém devida, não sendo o caso de restituição do valor adimplido. No mesmo sentido: (Acórdão 1180780, 07494753420188070016, Relator: FERNANDO ANTONIO TAVERNARD LIMA, Terceira Turma Recursal, data de julgamento: 25/6/2019, publicado no PJe: 2/7/2019. Pág.: Sem Página Cadastrada.)
+
+VI. A parte autora também defende que caberia a devolução do valor da multa face a existência de irregularidades no auto de infração ID 45526314, págs. 5/6. Inicialmente, não prospera a tese elencada em contrarrazões de que “a recorrente não impugna a decisão quanto à não devolução dos valores pagos” (ID 45526344, pág. 2), visto que há evidente pretensão recursal da parte autora na restituição daqueles valores. Quanto ao auto de infração, inicialmente é importante pontuar que o artigo 165-A do CTB estabelece como infração de trânsito a conduta de “Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277”. Ainda, o §3º do artigo 277 esclarece que: “§ 3º Serão aplicadas as penalidades e medidas administrativas estabelecidas no art. 165-A deste Código ao condutor que se recusar a se submeter a qualquer dos procedimentos previstos no caput deste artigo”.
+
+VII. Não obstante os questionamentos da parte autora acerca do preenchimento do auto de infração, é possível apurar que há regular indicação naquele AIT do aparelho disponibilizado para o teste, suficiente para confirmar a regularidade da fiscalização de trânsito, não existindo nulidade nas informações indicadas. Ainda, quanto à tese de que não há comprovação acerca da recusa ao teste, relembra-se que há presunção de veracidade e legitimidade dos atos administrativos, o que somente pode ser elidido por meio de prova robusta em sentido contrário, o que ausente no caso concreto. Enfim, a infração elencada consiste tão somente na recusa em ser submetido ao teste exigido no momento da abordagem, sendo que o mencionado dispositivo constitui uma infração administrativa autônoma do estado de embriaguez, o que afasta a obrigação de efetivo teste/exame para consumar a infração ou maiores detalhes acerca da condição da pessoa que estava conduzindo o veículo, de modo que ausente nulidade no auto de infração de trânsito elencado. No mesmo sentido, foi editada a Súmula 16 da Turma de Uniformização dos Juizados Especiais, nos seguintes termos: “A recusa do condutor de veículo, abordado na direção de veículo em via pública e/ou que tenha se envolvido em acidente de trânsito, em realizar o teste do etilômetro, por si só, configura a infração de trânsito prevista no art.165-A do Código de Trânsito Brasileiro, independentemente da elaboração de auto de constatação”. Diante de todo o exposto, não há amparo para a tese de nulidade do auto de infração, devendo ser mantida a sentença de improcedência do pedido de devolução do valor decorrente da multa aplicada.
+
+VIII. RECURSO CONHECIDO. PRELIMINAR DE SENTENÇA CITRA PETITA ACOLHIDA. PROVIDO EM PARTE. Sentença reformada para reconhecer a prescrição da pretensão punitiva de aplicação da penalidade de suspensão do direito de dirigir em face da parte autora decorrente do processo administrativo nº 0055-034512/2017. Sem custas e honorários advocatícios, face a ausência de recorrente vencido (artigo 55 da Lei nº 9.099/95).
+
+IX. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator, EDILSON ENEDINO DAS CHAGAS - 1º Vogal e ANTONIO FERNANDES DA LUZ - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PRELIMINAR ACOLHIDA. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Junho de 2023
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECARelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - 1º Vogal Com o relatorO Senhor Juiz ANTONIO FERNANDES DA LUZ - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PRELIMINAR ACOLHIDA. PROVIDO EM PARTE. UNÂNIME.
