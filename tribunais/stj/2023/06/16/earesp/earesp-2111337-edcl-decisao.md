@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS RODOLFO VACCANI DA MOTTA REZENDE E OUTROS em face da decisão que indeferiu liminarmente os embargos de divergência em razão da apresentação de paradigma monocrático.
+Em suas razões, sustenta a parte embargante que "a decisão é contraditória e obscura e deve ser integrada, sob pena de os Embargantes suportarem ônus desproporcional" já que "o paradigma utilizado como divergência, no presente incidente, foi proferido pela Terceira Turma deste mesmo Egrégio Superior Tribunal de Justiça, pelo que ressoa contraditória e obscura a assertiva de que não poderiam ser colacionados acórdãos de outros tribunais" (fl. 1546).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consoante explicitado na decisão embargada, o embargante apresentou como paradigma decisão monocrática (fl.1509/1511).
+Registre-se que conforme dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça, somente "cabem embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro órgão Jurisdicional deste Tribunal".
+No mesmo sentido, o inciso I do art. 1.043 do Código de Processo Civil de 2015, estabelece que é embargável o acórdão de órgão fracionário que "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito."
+Logo, não se admite como paradigma julgado decorrente de decisão singular ou monocrática proferida pelo Relator.
+Além disso, também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas (Recurso Especial Cível n. 0030585-32.2020.8.19.0001, proferido pela Terceira Vice-Presidência do TJRJ, fl. 1453/1458). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE CONHECIMENTO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA DE SIMILITUDE FÁTICA E DE COTEJO ANALÍTICO. PARADIGMA. DECISÃO MONOCRÁTICA. ACÓRDÃO DE TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+(..)
+2. "Os embargos de divergência têm como escopo a uniformização da jurisprudência dos órgãos julgadores desta Corte, garantindo aos jurisdicionados uma única e correta interpretação da legislação infraconstitucional federal. Assim, mostra-se inviável a busca da pacificação da jurisprudência desta Corte com a jurisprudência de outros tribunais" (AgRg nos EDcl nos EAREsp 471.430/SP, relator Ministro Gurgel De Faria, Terceira Seção, julgado em 13/5/2015, DJe de 26/5/2015).
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1297581/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 11/11/2020, DJe 16/11/2020)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA PARA DISCUTIR ACERTO OU DESACERTO DE REGRA TÉCNICA DE CONHECIMENTO DE RECURSO ESPECIAL.
+(..)
+IV - Em relação aos paradigmas proferidos por outras Cortes de Justiça, cumpre destacar que os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas. Nesse sentido:AgRg nos EAREsp 822.087/GO, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 22/3/2017, DJe de 27/3/2017; AgRg nos EDcl nos EAREsp 471.430/SP, relator Ministro Gurgel De Faria, Terceira Seção, julgado em 13/5/2015, DJe de 26/5/2015 e AgRg nos EAg 1171821/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/3/2012, DJe de 9/4/2012.
+V - Agravo interno improvido.
+(AgInt nos EAREsp 1440776/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgInt nos EDcl no AREsp n. 883535/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
