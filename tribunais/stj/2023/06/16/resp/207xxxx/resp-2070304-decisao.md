@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESPÓLIO DE MYRIAN BECK OLIVEIRA (ESPÓLIO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, da relatoria da Desembargador BAETA NEVES, assim ementado:
+AGRAVO DE INSTRUMENTO -PRELIMINAR -DESCUMPRIMENTO DO ART. 1.018 DO CPC -REJEIÇÃO -AÇÃO DE EXECUÇÃO HIPOTECÁRIA -TÍTULO EXECUTIVO EXTRAJUDICIAL -EXCEÇÃO DE PRÉ-EXECUTIVIDADE -PRESCRIÇÃO INTERCORRENTE -CONFIGURAÇÃO -INÉRCIA DO EXEQUENTE NA PROMOÇÃO DA CITAÇÃO DE UMA DAS EXECUTADAS -AUSÊNCIA DE ÔNUS SUCUMBENCIAIS PARA AS PARTES -NOVA REDAÇÃO DO ART.921, §5º, DOCPC-RECURSO PARCIALMENTE PROVIDO. Tendo o agravante comunicado sobre a interposição recursal dentro do prazo previsto no §2º do art. 1.018 do CPC, não há que se cogitar da inadmissibilidade do recurso. Nos termos do art. 206, §5º, inciso I, do Código Civil, prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento particular. Constatada a demora de quase vinte anos na citação de uma das executadas, devido à inércia da exequente, é imperioso o reconhecimento da prescrição intercorrente em relação a essa executada, nos moldes das teses firmadas pelo STJ no incidente de assunção de competência no REsp 1604412/SC. Na ocasião da prolação da decisão agravada, já estava vigente o novo art. 921, §5º, do CPC, com redação dada pela Lei nº 14.195, de 2021, o qual dispõe que "o juiz, depois de ouvidas as partes, no prazo de quinze dias, poderá, de ofício, reconhecer a prescrição no curso do processo e extingui-lo, sem ônus para as partes". Norma de natureza processual com aplicabilidade imediata. (e-STJ, fl. 1168).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1212/1217).
+Nas razões do presente recurso, ESPÓLIO alegou a violação aos arts. 85, §2º, e 921, §5º, do NCPC, ao sustentar que não houve intervenção judicial, de ofício, no caso presente, pois houve sucumbência efetiva do BANCO, por duas vezes, em sede de exceção de pré-executividade resistida, e de agravo de instrumento. Defende a necessidade de condenação do BANCO às verbas sucumbenciais pelo acolhimento da exceção de pré-executividade e extinção do processo de execução, fixando-se os honorários de sucumbência no mínimo de 10% sobre o valor da causa executiva. Indica precedente em apoio a sua tese.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da sucumbência
+A respeito da prescrição intercorrente e afastamento da sucumbência, os julgadores esclareceram:
+ ..  deve ser mantido o reconhecimento da prescrição intercorrente em relação à agravada, por todos esses motivos expostos.
+Porém, no que se refere à fixação de honorários advocatícios, entendo que a decisão agravada foi equivocada e comporta reparos.
+Como bem ressaltado pelo agravante, na ocasião da prolação da decisão "a quo", já estava vigente o novo art. 921, §5º, do CPC, com redação dada pela Lei nº 14.195, de 2021, a qual dispõe que "o juiz, depois de ouvidas as partes, no prazo de 15 (quinze) dias, poderá, de ofício, reconhecer a prescrição no curso do processo e extingui-lo, sem ônus para as partes". O referido dispositivo legal está localizado especificamente em um capítulo que versa sobre a suspensão e a extinção de processos de execução, o que denota seu perfeito enquadramento ao caso (e-STJ, fl. 1178).
+Com efeito, o entendimento desta Corte é nesse sentido. Anotem-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem negou provimento ao recurso de apelação da parte recorrente com fundamento no não cabimento da verba honorária de sucumbência por se tratar de extinção do processo de execução em virtude da prescrição intercorrente.
+2. O entendimento adotado no acórdão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual a decretação da prescrição intercorrente não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente.
+3. Agravo interno a que se nega provimento .
+(AgInt no REsp n. 1.947.854/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/5/2023, DJe de 29/5/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA . PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. REDISTRIBUIÇÃO. ÔNUS SUCUMBENCIAIS. PROVIMENTO PARCIAL. RECURSO ESPECIAL. CONSEQUÊNCIA LÓGIGA. DECISÃO MANTIDA.
+1. "O entendimento adotado pelas Turmas que compõem a Segunda Seção do STJ, é no sentido de que em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente.
+Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa" (AgInt no AgInt no AREsp n. 2.037.941/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/9/2022, DJe de 30/9/2022).
+2. "A redistribuição dos ônus sucumbenciais, com a alteração dos honorários advocatícios sucumbenciais fixados na origem, é mera consequência lógica do provimento parcial do recurso e do decaimento da autora em parte de seu pedido" (AgInt no AgInt no AREsp n. 1.997.699/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2022, DJe de 24/10/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.109.395/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/5/2023, DJe de 29/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO EM DESFAVOR DO EXEQUENTE. PRINCÍPIO DA CAUSALIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. PRINCÍPIO DO NON REFORMATIO IN PEJUS. DISSÍDIO NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Ação de cobrança. Cumprimento de sentença.
+2. Em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional).
+3. Observância ao princípio do non reformatio in pejus, em razão da falta de impugnação do agravado quando da fixação dos honorários sucumbenciais.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.180.877/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Incidência da Súmula nº 568 do STJ.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS. CAUSALIDADE. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
