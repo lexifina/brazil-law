@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Nelson Laurentino da Silva contra acórdão proferido pela Primeira Turma, assim ementado (fl. 228):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, a totalidade dos fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência da Súmula 182 do STJ.
+2. Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP (DJe 30/11/2018).
+3. Agravo interno a que se nega provimento.
+Sustenta o ora embargante (I) haver omissão quanto ao fundamento que não teria sido impugnado por seu recurso e que (II) a incidência da Súmula 182/STJ no agravo interno teria sido superada pelo entendimento firmado pela Corte Especial deste Superior Tribunal, quando do julgamento dos EREsp 1.424.404/SP , da relatoria do Ministro Luís Felipe Salomão.
+Intimada, permaneceu silente a autarquia embargada (fl. 243).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. OMISSÃO. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. NOVO ENTENDIMENTO DA CORTE ESPECIAL. INAPLICABILIDADE AO CASO.
+1. O acórdão embargado foi claro ao indicar a deficiência de cotejo analítico como fundamento não enfrentado pelo agravo em recurso especial, não havendo falar em omissão.
+2. A alegada superação de entendimento para afastar a incidência da Súmula 182/STJ quando o recurso não enfrenta todos os fundamentos da decisão é relativa ao agravo interno, não ao agravo em recurso especial, como no caso. Precedente: EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O recurso não merece êxito.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, não procede a alegada omissão, pois o voto condutor do acórdão ora embargado indicou a deficiência de cotejo analítico como o fundamento que não foi enfrentado pelo agravo em recurso especial, nesses termos (fl. 230):
+No caso dos autos, a monocrática ora hostilizada concluiu que o agravo em recurso especial não rebateu, de modo específico, um dos fundamentos utilizados pelo Tribunal de origem para não admitir o apelo nobre, a saber: deficiência de cotejo analítico.
+Em suas razões de agravo interno, a parte agravante sustenta que "procedeu à impugnação específica dos fundamentos utilizados para inadmitir o recurso especial no tocante à súmula 7 do STJ e ainda demonstrou de forma clara e detalhada os dispositivos violados" (fl. 211).
+Em que pese às razões do agravo interno, a aplicação da Súmula 182/STJ é mesmo de medida de rigor, pois, nada obstante a parte ter alegado genericamente, em seu agravo em recurso especial, não ser o caso de incidência da Súmula 7/STJ, deixou, efetivamente, de impugnar os demais motivos pelos quais o seu recurso especial não foi admitido (deficiência de cotejo analítico).
+Já quanto à incidência da Súmula 182/STJ, o entendimento firmado nos EREsp 1.424.404/SP não socorre o embargante, pois trata das hipótese de aplicação daquela súmula ao agravo interno. Veja-se a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO. DESNECESSIDADE DE IMPUGNAÇÃO DE TODOS OS CAPÍTULOS AUTÔNOMOS E/OU INDEPENDENTES DA DECISÃO MONOCRÁTICA AGRAVADA. INAPLICABILIDADE DA SÚMULA 182/STJ.
+1. A regra da dialeticidade - ônus do recorrente de apresentar os fundamentos de sua irresignação - constitui reflexo do princípio constitucional do contraditório e da necessária interação dialógica entre as partes e o magistrado, revelando-se como a outra face da vedação do arbítrio, pois, se o juiz não pode decidir sem fundamentar, "a parte não pode criticar sem explicar" (DOTTI, Rogéria. Todo defeito na fundamentação do recurso constitui vício insanável  Impugnação específica, dialeticidade e o retorno da jurisprudência defensiva. In: NERY JUNIOR, Nelson; ALVIM, Teresa Arruda; OLIVEIRA, Pedro Miranda de  coord. . Aspectos polêmicos dos recursos cíveis e assuntos afins. Volume 14  livro eletrônico . São Paulo: Thomson Reuters Brasil, 2018).
+2. Tal dever de fundamentação da pretensão de reforma do provimento jurisdicional constitui requisito extrínseco de admissibilidade dos recursos, que se enquadra na exigência de regularidade formal.
+3. Nada obstante, via de regra, é possível eleger, em consonância com o interesse recursal, quais questões jurídicas - autônomas e independentes - serão objeto da insurgência, nos termos do artigo 1.002 do CPC de 2015. Assim, "considera-se total o recurso que abrange "todo o conteúdo impugnável da decisão recorrida", porque toda ela pode não ser impugnável; e parcial o recurso que, por abstenção exclusiva do recorrente, "não compreenda a totalidade do conteúdo impugnável da decisão"" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 4. ed. São Paulo: Thomson Reuters Brasil, 2021).
+4. O citado dispositivo legal - aplicável a todos os recursos - somente deve ser afastado quando há expressa e específica norma em sentido contrário, tal como ocorre com o agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no artigo 253, parágrafo único, inciso II, alínea "a", do RISTJ, segundo o qual compete ao relator não conhecer do agravo "que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+5. Sobre a aludida modalidade de recurso - agravo do artigo 544 do CPC de 1973, atualmente disciplinado pelo artigo 1.042 do CPC de 2015 -, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+6. Como se constata, essa orientação jurisprudencial se restringe ao Agravo em Recurso Especial (AREsp) - ante a incindibilidade da conclusão exarada no juízo prévio negativo de admissibilidade do apelo extremo -, não alcançando, portanto, o Agravo Interno no Recurso Especial (AgInt no REsp) nem o Agravo Interno no Agravo em Recurso Especial (AgInt no AREsp), haja vista a possibilidade, em tese, de a decisão singular do relator ser decomposta em "capítulos", vale dizer unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso.
+7. A autonomia dos capítulos da sentença - lato sensu - apresenta dois significados: (i) o da possibilidade de cada parcela do petitum ser objeto de um processo separado, sendo meramente circunstancial a junção de várias pretensões em um único processo; e (ii) o da regência de cada pedido por pressupostos próprios, "que não se confundem necessariamente nem por inteiro com os pressupostos dos demais" (DINAMARCO, Cândido Rangel. Capítulos de sentença. São Paulo: 2002, Malheiros, pp. 43-44).
+8. O renomado autor aponta, ainda, a possibilidade de a decisão judicial conter "capítulos independentes" e "capítulos dependentes".
+Nessa perspectiva, destaca que a dependência entre capítulos sentenciais se configura: (i) quando constatada relação de prejudicialidade entre duas pretensões, de modo que o julgamento de uma delas (prejudicial) determinará o teor do julgamento da outra (prejudicada); e (ii) entre o capítulo portador do julgamento do mérito e aquele que decidiu sobre a sua admissibilidade (DINAMARCO, Cândido Rangel. Op. cit., pp. 44-46).
+9. Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ.
+10. Ressalte-se, contudo, o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016).
+11. Embargos de divergência providos para afastar a aplicação da Súmula 182/STJ em relação ao agravo interno, que deve ser reapreciado pela Primeira Turma desta colenda Corte.
+(EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021.)
+No caso, a Súmula 182/STJ foi aplicada para manter o não conhecimento do agravo em recurso especial, não do agravo interno, tanto que este teve seu mérito analisado e o provimento negado.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
