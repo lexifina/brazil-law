@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno ajuizado em face da decisão proferida pelo Presidente desta Corte às fls. 464-467 (e-STJ), o qual conheceu do agravo para não conhecer do recurso especial interposto pela parte ora recorrente.
+Nas razões do presente recurso, a parte agravante afirma que não cabe a incidência da Súmula 7/STJ no caso. Sustenta que "Notem, Excelências, que o fato de agravado não residir no imóvel é incontroverso e não compõem a matéria em debate no recurso especial. Uma vez sedimentado a ausência de moradia, não há que se falar em reexame de provas, mas, primordialmente, dar cumprimento ao artigo 1º da Lei nº 8.009, de 29 de março de 1990 pela qual é requisito expresso de que os proprietários "nele residam" (fl. 471 e-STJ).
+Alega que "Nos parece muito claro que a parte agravada escolheu o meio mais oneroso e, por essa escolha, deve arcar com as custas que gerou por mera liberalidade. Ao inverter essa responsabilidade e condenar a agravante aos ônus sucumbenciais, o tribunal estadual violou o artigo 85, §1º, do Código de Processo Civil, atraindo o provimento desse agravo, com análise e procedência do recurso especial principal" (fl. 472 e-STJ).
+Foi apresentada impugnação pela parte recorrida (fls. 477-484 e-STJ) requerendo "A Condenação da Agravante/Requerente a multa prevista no art. 1.021 § 4º do Código de Processo Civil em razão da interposição de recurso de caráter meramente protelatório" (fl. 484 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O agravo interno não merece prosperar.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos (fl. 405):
+Nos embargos à execução, em síntese, discute-se o reconhecimento da impenhorabilidade do bem imóvel descrito na inicial, no qual reside a família do embargante, e sofreu atos de constrição em virtude de deferimento de penhora na ação de execução de título extrajudicial movida pelo banco embargado (Processo nº 1007274-32.2016.8.26.0068).
+No que diz respeito à pretensão recursal de afastamento da impenhorabilidade do imóvel constrito, razão não assiste ao apelante.
+Ainda que se entenda que o executado não reside no local como afirmado nas razões de recurso e infirmado pela prova considerada pela sentença, restou comprovado nos autos que o imóvel penhorado se destina à residência da família do embargante e merece proteção, nos termos do art. 1º da Lei nº 8.009/90. (grifo meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, Dje de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos (fl. 407):
+Com relação ao afastamento dos ônus sucumbenciais, tal assertiva também não merece acolhida, na medida em que, se é certo que a matéria podia ser discutida por simples petição nos autos da execução, não menos certo é que o apelante houve por bem impugnar os embargos, o que segundo a noção de causalidade enseja a imposição dos ônus da sucumbência, conforme o artigo 85 do CPC.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "rever o entendimento consignado pelo acórdão recorrido quanto à aplicação do princípio da causalidade requer revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ." (AgInt no AREsp n. 1.913.455/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2022, DJe de 12/4/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
