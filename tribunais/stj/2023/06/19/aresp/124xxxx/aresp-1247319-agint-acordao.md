@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Cuida-se  de  agravo  interno  interposto  pela COMPANHIA DO METROPOLITANO DE SAO PAULO contra  a  decisão  monocrática  de relatoria do Ministro Napoleão Nunes Maia Filho assim ementada (fl. 591):
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. CONTRATO ADMINTRATIVO. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC/1973. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. REPACTUAÇÃO EM MOMENTO ANTERIOR. AGRAVO EM RECURSO ESPECIAL DA COMPANHIA DO METROPOLITANO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+A  parte  agravante, nas  razões  do  agravo  interno  , refuta  os  fundamentos  da  decisão  agravada  alegando haver a violação do art. 535 do CPC/1973, atual 1.022 do CPC, porquanto o Tribunal de origem não se pronunciou sobre o pedido de produção de provas, incorrendo em contrariedade aos arts. 332, 333, I e II, 420 do CPC e 5º, LIV e LV, da CF ao indeferir a produção de prova pericial.
+Repisa os fundamentos do recurso especial.
+ Postula, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+Impugnação apresentada às fls. 632/641.
+ É  o  relatório.
+EMENTA
+PROCESSO CIVIL.  DIREITO ADMINISTRATIVO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. CONTRATO ADM INISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC/1973, ATUAL ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÃO. INDEFERIMENTO DE PROVA PERICIAL. ANÁLISE DA CONTROVÉRSIA DE ACORDO COM PROVAS JÁ EXISTENTES NOS AUTOS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1.  Cuida-se na origem de ação declaratória proposta pela ora agravada visando a anulação de nota de crédito que revia valores devidos em URV/Real em contratos administrativos.
+2. Observo que, ao contrário do alegado, o Tribunal de origem pronunciou-se sobre as questões levantadas e entendeu que houve termo aditivo pactuado entre as partes que já contemplava reajuste no Plano Real. Percebo, assim, que não há omissão, mas que a matéria foi decidida de forma diferente da que pretendia a parte recorrente.
+3.  É pacífico o entendimento desta Corte de Justiça de que não há cerceamento de defesa quando o magistrado indefere a produção de provas que considera protelatórias ou inúteis, porquanto analisou a controvérsia e formou sua convicção à luz das provas já existentes nos autos.
+4.  Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+Cuida-se na origem de ação declaratória proposta pela ora agravada visando a anulação de nota de crédito que revia valores devidos em URV/Real em contratos administrativos.
+Inexiste a alegada violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Saliento que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Nos exatos termos do acórdão recorrido, o Tribunal estadual assim se manifestou sobre a questão (fls. 395/397):
+2. Como se percebe dos autos, autora e ré celebraram contrato, após regular procedimento licitatório, para prestação de serviços de engenharia. Em 18/9/2004, a apelante enviou à autora nota de débito, resultante de alteração no valor contratado, com expurgo da previsão inflacionária. Daí a presente ação, em que a autora pretende ver reconhecida a ilegalidade dessa alteração de valores do contrato.
+A Resolução Conjunta PGE-2, de 1995, que embasou a expedição daquela nota de crédito, no entanto, não poderia ter sido aplicada ao contrato firmado entre as partes, sob pena de ofensa ao ato jurídico perfeito.
+Não se há falar - e não há prova neste sentido nos autos -da real ocorrência de previsão inflacionária no contrato celebrado entre as partes, que passou, inclusive, por prorrogações.
+Ora, nas prorrogações contratuais certamente foi levada em conta eventual previsão inflacionária, que restou expurgada. Tanto o contrato, como as prorrogações, resultaram da convergência de vontade dos contratantes. E era o momento adequado para o expurgo inflacionário.
+A ré, inclusive, emitiu o Aditivo n.5, contendo critérios de repactuação contratual, registrando os valores contratuais em URV, com base em 1/4/94, conforme lei federal n. 8.808/94.
+Não se pode, em momento posterior, depois de as partes, livremente, terem firmado pacto aditivo e modificativo, para adequação ao Plano Real, onde evidentemente se efetivou expurgo de inflação prevista, pretender efetivar novo expurgo, com base naquela Resolução conjunta.
+Ao firmarem aquele termo aditivo e modificativo, as partes, de comum acordo, pactuaram o valor que entenderam devido, já sob a égide do Plano Real.
+Não pode a apelada, em momento posterior modificar, unilateralmente, o valor acertado como devido. Por isso, equivocada a improcedência.
+Em embargos de declaração esclareceu que (fl. 412):
+O acórdão questionado julgou recurso de apelação da embargada, afirmado pela embargante, em contrarrazões, a regularidade da sentença proferida sem instrução probatória (fls. 304).
+Agora, diante do resultado desfavorável, a embargante aponta contradição no julgado, indicando a necessidade de produção de prova pericial, o que não é reconhecido.
+A controvérsia foi dirimida consoante as provas documentais ofertadas e não impugnadas, concluindo-se pela impossibilidade de nova revisão da conversão da URV/Real no contrato questionado, considerando a existência de aditivo anterior já contemplando o reajuste (em especial fls. 353).
+A recorrente não concorda com a conclusão alcançada, todavia, divergência em relação à motivação não caracteriza -omissão, contradição, obscuridade, erro ou mesmo violação aos artigos de lei citados.
+Observo que, ao contrário do alegado, a Corte de origem pronunciou-se sobre as questões levantadas e entendeu que houve termo aditivo pactuado entre as partes que já contemplava reajuste no Plano Real. Percebo, assim, que não há omissão, mas que a matéria foi decidida de forma diferente da que pretendia a parte recorrente.
+Ademais, é pacífico o entendimento desta Corte de Justiça de que não há cerceamento de defesa quando o magistrado indefere a produção de provas que considera protelatórias ou inúteis, porquanto analisou a controvérsia e formou sua convicção à luz das provas já existentes.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA E ESGOTO. COBRANÇA. ALEGAÇÕES GENÉRICAS. SUFICIÊNCIA DAS PROVAS DOS AUTOS PARA FORMAÇÃO DA CONVICÇÃO DO JULGADOR. CERCEAMENTO DE DEFESA. AUSÊNCIA. INDEFERIMENTO DE PROVA DESNECESSÁRIA. REVISÃO DO JUÍZO. SÚMULA 7/STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 284/STF E 283/STF.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Não se conhece do recurso quanto aos arts. 11, 141, 489 e 1.022 do CPC/2015, quando as razões recusais cingem-se à alegação genérica de violação e não indicam, de forma clara e objetiva, as questões acoimadas de vício, com a demonstração de sua relevância para o deslinde da causa, a ensejar o rejulgamento dos aclaratórios na origem. Incidência do óbice da Súmula 284/STF.
+3. O órgão julgador decidiu a questão da cobrança do consumo de água e da coleta de esgoto à luz do suporte documental dos autos e da legislação estadual aplicável ao caso, afastando a alegação de cerceamento de defesa, indeferindo produção da prova requerida sem pertinência.
+4. Isso considerado, entendimento diferente do disposto no acórdão requer o reexame do suporte fático e a interpretação da legislação local que suporta a conclusão firmada no acórdão - ambas as medidas inviáveis no âmbito do recurso especial, por força das Súmulas 7/STJ e 280/STF.
+5. A jurisprudência pacífica do STJ é no sentido de que inexiste cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de provas inúteis ou protelatórias. Precedentes.
+6. Configura deficiência da fundamentação recursal a apresentação de razões dissociadas, que não impugnam fundamentação do acórdão por si só suficiente para manter o entendimento expendido. Aplicação das Súmulas 284 e 283 do STF.
+7. Agravo interno não provido. (AgInt no AREsp n. 1.797.792/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. ENERGIA ELÉTRICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. DÍVIDA NÃO RECONHECIDA. DANOS MORAIS. PARCELAMENTO UNILATERAL. CERCEAMENTO DE DEFESA. REEXAME. NÃO CABIMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando que seja declarada a inexistência de dívida e, posteriormente, o recebimento de indenização por danos morais. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi reformada.
+II - Sobre o alegado cerceamento de defesa, a Corte a quo analisou as alegações da parte com os seguintes fundamentos: "Portanto, cabe ao juiz decidir quais as provas pertinentes ao deslinde da controvérsia e quais devem ser indeferidas, por desnecessárias, não constituindo cerceamento de defesa o seu indeferimento, quando julgar conveniente. Além do que, o indeferimento de provas reputadas inúteis ou protelatórias decorre do princípio da celeridade da prestação jurisdicional."
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido. (AgInt no AREsp n. 2.117.591/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Ante  o  exposto,  nego  provimento  ao  agravo  interno .
+É  o  voto.
