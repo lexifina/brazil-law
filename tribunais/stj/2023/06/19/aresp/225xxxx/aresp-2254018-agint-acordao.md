@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, c, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+EMBARGOS DE TERCEIRO - IMPENHORABILIDADE DO BEM DE FAMÍLIA EMBARGANTE COMODATÁRIO - LEGITIMIDADE ATIVA RECONHECIDA - PRECEDENTE JURISPRUDENCIAL NO MÉRITO, IMPENHORABILIDADE GARANTI- DA A UM ÚNICO IMÓVEL RESIDENCIAL DO DEVEDOR/EXECUTADO IMPOSSIBI- LIDADE DE EXTENSÃO DA IMPENHORABILIDADE A UM SEGUNDO IMÓVEL DE PROPRIEDADE DO DE -EDOR/EXECUTADO - EXEGESE DOS ARTIGOS IO E 5O DA LEI FEDERAL Nº 8.009/1990 - APELAÇÃO DO EMBARGANTE NÃO PROVIDA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Nas razões do recurso especial, ratificadas nas razões do agravo de instrumento, o recorrente esclareceu pormenorizadamente a divergência jurisprudencial entre o acórdão recorrido e a posição sedimentada neste C. STJ. O fez pelo confronto de casos idênticos, demonstrada em quadros explicativos, da seguinte forma:
+ ..
+Ou seja: ao contrário do afirmado na decisão recorrida, as razões do recurso especial trouxeram o devido cotejo analít ico. Não se restringiram a transcrever trechos dos acórdãos paradigmas, mas esclareceram que eles tratam de situação idêntica à deste caso.
+E mais: as razões explicitaram a retidão do posicionamento daqueles julgados, muito mais ajustados ao princípio ao qual o instituto da impenhorabilidade do bem de família deve obediência: o da moradia digna, art. 6º, da CF, como corolário do princípio da dignidade da pessoa humana, art. 1º, III, da CF.
+ ..
+2.1 E mais ainda: é sabido que o processo é mero instrumento de realização do Direito Material. Negar seguimento a recurso por eventual detalhe de formatação é impor o formalismo em detrimento da essência; é sobrepor as normas instrumentai sem detrimento da relevância do Direito Material invocado.
+No caso concreto, é permitir a expropriação forçada de um imóvel manifestamente protegido pela impenhorabilidade do bem de família, tudo por conta de uma suposta deficiência técnica formal do recurso.
+Afinal de contas, não tivesse havido o cotejo analítico nos moldes pretendidos, como argumentou a decisão impugnada, ainda assim o dissídio jurisprudencial é de uma clareza de doer os olhos!
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE TERCEIRO. LEVANTAMENTO DE PENHORA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO COMPROVAÇÃO DA DIVERGÊNCIA.
+I - Na origem, trata-se de embargos de terceiro objetivando o levantamento da penhora realizada sobre o bem de propriedade dos embargante. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+III - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
