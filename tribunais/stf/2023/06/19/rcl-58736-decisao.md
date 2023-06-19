@@ -1,0 +1,91 @@
+DECISÃO: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pela Empresa Brasileira de Pesquisa Agropecuária – Embrapa em face da decisão proferida pela 7ª Turma do Tribunal Regional do Trabalho da 3ª Região, nos autos do Recurso Ordinário na Reclamação Trabalhista 0011234-61.2020.5.03.0036, que, ao deixar de aplicar à ora reclamante os benefícios próprios da Fazenda Pública no tocante ao pagamento de sua dívidas judiciais, teria violado a autoridade das decisões desta Corte na ACO 3469, nas ADPFs 33, 114, 250, 275, 405, 437, 485, 513, 524, 530, 542, 556, 616, 620, 664, 670, 789, 890 e 1012, bem como nas Reclamações 52170, 52791, 52921, 52953, 52956, 52957, 52958, 52959, 53131, 53126, 53281, 53283, 53284, 53285, 53286, 53310, 53429, 53394, 53638, 54062, 54072, 54162, 54193, 54796, 54928 e 55052, 56399 e 58366.
+
+    A reclamante alega, em síntese, ser empresa pública prestadora de serviços públicos essenciais, exclusivos e não-concorrenciais, desfrutando as prerrogativas fazendária, condição reconhecida pelo Supremo Tribunal Federal quando do julgamento da ACO 3469.
+
+    Aduz que “o STF tem entendimento consolidado (vinculante, e com efeitos erga omnes) no sentido de que empresas públicas que prestem serviços públicos não podem ter seu patrimônio invadido por ordens judiciais para satisfação de créditos de natureza trabalhista ou de qualquer outro juízo”.
+
+    Requer, liminarmente, a suspensão do ato reclamado e seja determinada a devolução de valores depositados ou penhorados e, no mérito, seja cassada a decisão determinando-se ao juízo observar “a natureza jurídica de prestadora de serviços públicos essenciais, exclusivos e não-concorrenciais da Embrapa, bem como quanto à necessária observância do regime da Fazenda Pública e em especial quanto à observância do disposto nos artigos 534 e seguintes do Código de Processo Civil e da desnecessidade de depósito para garantia do juízo, isenção de custas processuais (CLT, artigo 790-A/CLT), necessidade de expedição de precatórios/RPV (artigo 100 e seguintes da CF) e determinando a integral e imediata devolução à Embrapa de todos os recursos financeiros eventualmente disponibilizados pela ora Reclamante e/ou desconstituídas as penhoras e constrições realizadas, nos moldes do que, com louvável esmero, fora deferido outrora na ADPF 437, por ser de direito e, ainda, seja concedida ordem de sequestro de eventuais quantias já liberadas ao empregado público, ou, ainda, seja determinado sequestro de tantos bens quantos bastem para garantir a efetividade da ordem judicial postulada, ante a natureza pública e indisponível de tais valores e da necessidade de observância do regime de precatórios e dos princípios da impessoalidade e da ordem cronológica de pagamentos”.
+
+    Em despacho de 29.03.2023, posterguei o exame da liminar para colher prévias informações e citar a parte beneficiária da decisão reclamada (eDoc 79).
+
+    As informações foram prestadas (eDoc 82).
+
+    A parte beneficiária apresentou contestação (eDoc 85).
+
+    A Procuradoria-Geral da República opinou pela procedência da reclamação, em parecer com a seguinte ementa (eDoc 91):
+
+    “RECLAMAÇÃO CONSTITUCIONAL. VIOLAÇÃO DAS DECISÕES PROFERIDAS NAS ADPFS 275/PB, 387/PI, 437/CE, 485/AP, 530/PA, 556/RN. 588/PB E 789/MA. APLICABILIDADE DA SISTEMÁTICA DOS PRECATÓRIOS. OFENSA CONFIGURADA.
+
+    1. Conforme posicionamento firmado, pelo STF, nas ADPFs 275/PB, 387/PI, 437/CE, 485/AP, 530/PA, 556/RN, 588/PB e 789/MA, o pagamento dos débitos judiciais de sociedades de economia mista e de empresas públicas prestadoras de serviço público próprio do estado, sem intuito lucrativo, em regime de exclusividade e não concorrencial, e inteiramente dependentes do repasse de recursos públicos, sujeita-se ao regime de precatórios previsto no art. 100 da Constituição Federal.
+
+    — Parecer pela procedência do pedido.”
+
+    É o relatório. Decido.
+
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l , CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+
+    Inicialmente, em relação a alegada violação às decisões proferidas em outras Reclamações (52.170, 52.791, 52.921, 52.953, 52.956, 52.957, 52.958, 52.959, 53.126, 53.281, 53.284, 53.285, 53.286, 53.310, 53.429 e 53.394), essa ação é inviável por esbarrar na firme jurisprudência desta Suprema Corte que considera incabível seu manejo fundada em afronta a paradigma sem efeito vinculante e relativo a processo do qual o reclamante não participou. Vejam-se, por todos, os seguintes julgados:
+
+    “Direito Constitucional e Processual Civil. Agravo Interno em Reclamação. Alegação de afronta ao direito objetivo. Inadmissibilidade. 1. A reclamação a esta Corte só é cabível quando se tratar de usurpação de sua competência ou de ofensa à autoridade de suas decisões (art. 102, I, l, da Constituição). A alegação de ofensa ao direito objetivo ou a enunciado de súmula sem efeito vinculante não dá ensejo à propositura de reclamação. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (Rcl 6563 AgR, Rel. Min. Roberto Barroso, Primeira Turma, julgado em 20.04.2018).
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL. AFRONTA À DECISÃO TOMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. PROCESSO DE ÍNDOLE SUBJETIVA DA QUAL NÃO FIGUROU COMO PARTE O RECLAMANTE. DECISÃO QUE NÃO TEM EFEITO VINCULANTE E EFICÁCIA ERGA OMNES. SUCEDÂNEO DE RECURSO. NECESSIDADE DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO CABIMENTO. 1. A tese jurídica definida por esta Suprema Corte é no sentido de que não cabe reclamação constitucional, com a finalidade de preservar autoridade de decisão, por inobservância de súmula da jurisprudência predominante do Supremo Tribunal Federal destituída de efeito vinculante ou decisão tomada no âmbito de julgamento de recurso extraordinário com repercussão geral reconhecida, sem o necessário esgotamento das instâncias ordinárias. 2. O acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia erga omnes e efeito vinculante, no qual não figurou como parte o reclamante. 3. Para a aplicação de norma jurídica, resultante de processo interpretativo levado a cabo em julgamento de recurso extraordinário com repercussão geral reconhecida, faz-se necessário o percusso, e esgotamento, das instâncias ordinárias, por meio da sistemática recursal, cuja finalidade é assegurar o controle do erro e acerto da aplicação do direito. 4. O manejo de reclamação, ação constitucional de fundamentação vinculada, é restrito às hipóteses expressamente previstas nos arts. 102, I,l, e 103-A, § 3º, da Constituição da República, de modo que é incabível a sua utilização como sucedâneo de recurso ou atalho processual. 5. Agravo regimental conhecido e não provido.” (Rcl 20.631 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 13.3.2017). (grifou-se)
+
+    Assim, nesse ponto, a parte reclamante carece de interesse processual, na modalidade da adequação, para o uso da ação escolhida (CPC, art. 485, VI), devendo valer-se dos meios e recursos próprios, que se lhe convenham à situação e não tenham ainda sido usados. Afinal, é remansosa a jurisprudência do Supremo Tribunal Federal no sentido de que a reclamação não pode ser usada como sucedâneo de recurso próprio, nem de ação rescisória.
+
+    Convém ressaltar, contudo, que a controvérsia relativa à aplicabilidade do regime de precatórios às entidades da Administração Indireta prestadoras de serviços públicos essenciais foi tratada por esta Corte no Tema 253 da sistemática da repercussão geral, cujo piloto é o RE-RG 599.628, de relatoria do Ministro Ayres Britto e com redação para acórdão do Ministro Joaquim Barbosa, Tribunal Pleno, DJe 17.10.2011:
+
+    “FINANCEIRO. SOCIEDADE DE ECONOMIA MISTA. PAGAMENTO DE VALORES POR FORÇA DE DECISÃO JUDICIAL. INAPLICABILIDADE DO REGIME DE PRECATÓRIO. ART. 100 DA CONSTITUIÇÃO. CONSTITUCIONAL E PROCESSUAL CIVIL. MATÉRIA CONSTITUCIONAL CUJA REPERCUSSÃO GERAL FOI RECONHECIDA. Os privilégios da Fazenda pública são inextensíveis às sociedades de economia mista que executam atividades em regime de concorrência ou que tenham como objetivo distribuir lucros aos seus acionistas. Portanto, a empresa Centrais Elétricas do Norte do Brasil S.A. - Eletronorte não pode se beneficiar do sistema de pagamento por precatório de dívidas decorrentes de decisões judiciais (art. 100 da Constituição). Recurso extraordinário ao qual se nega provimento.”
+
+    Por sua vez, o Supremo Tribunal Federal, no âmbito do julgamento da ADPF 387, da relatoria do Ministro Gilmar Mendes, DJe 25.10.2018, assim concluiu:
+
+    “Arguição de descumprimento de preceito fundamental. 2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI). 3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes. 4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes. 5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF). 6. Arguição de descumprimento de preceito fundamental julgada procedente.”
+
+    Ao julgar a ADPF-MC 437, a Min. Rosa Weber argumentou:
+
+    “12. Verifico a prevalência, no âmbito do Tribunal Regional do Trabalho da 7ª Região, do entendimento de que incabível a sujeição da Empresa de Assistência Técnica e Extensão do Ceará (EMATERCE) ao regime de precatórios assegurado pelo art. 100 da Lei Maior às Fazendas Públicas Federal, Estaduais, Distrital e Municipais, por se tratar de ente dotado de personalidade jurídica de direito privado.
+
+    A teor do art. 173, § 1º, II, da Constituição da República, a empresa pública ou a sociedade de economia mista que explora atividade econômica de produção ou comercialização de bens ou de prestação de serviços está sujeita ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários.
+
+    (…)
+
+    Extraio da documentação trazida aos autos que a EMATERCE, embora constituída sob a forma de empresa pública, não explora atividade econômica em sentido estrito, em regime de mercado. Antes, desempenha atividade de Estado, em regime de exclusividade e sem finalidade de lucro, dependendo integralmente do repasse de recursos públicos. A teor do art. 80, II, da Lei nº 13.875/2007 do Estado do Ceará, que procedeu à reestruturação da Administração Estadual, a Empresa de Assistência Técnica e Extensão Rural do Ceará EMATERCE integra a estrutura administrativa do Poder Executivo, tendo por finalidades institucionais a promoção e execução da política agrícola estadual, compreendendo o desenvolvimento das atividades relativas à assistência técnica e à extensão rural sustentável do Estado, utilizando processos educativos que assegurem a apropriação de conhecimento e informações a estes produtores e suas organizações, bem como regulamentar os regulares atendimentos técnicos e integrados nas gestões municipais e entidades privadas quando componentes de políticas subsidiadas com recursos públicos.”
+
+    No que tange à empresa reclamante, esta Corte, mediante decisão da lavra da Ministra Cármen Lúcia, por ocasião do julgamento da ACO 3469, DJe 12.05.2021, assentou possuir ela objetivos e finalidades muito semelhantes aos da Emater/DF, o que realça sua natureza de empresa pública prestadora de serviço público essencial, exclusiva e não concorrencial. Naquela oportunidade, a ação foi julgada procedente para reconhecer a autora a imunidade tributária previstano art. 150, VI, a, da Constituição Federal.
+
+    Interposto agravo regimento dessa decisão, o Plenário a ele negou provimento fixando o seguinte entendimento:
+
+    “EMENTA: AGRAVO REGIMENTAL NA AÇÃO CÍVEL ORIGINÁRIA. EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA – EMBRAPA. EMPRESA PÚBLICA PRESTADORA DE SERVIÇO PÚBLICO. IMPOSTO SOBRE SERVIÇOS – ISS. IMUNIDADE TRIBUTÁRIA RECÍPROCA (AL. A DO INC. VI DO ART. 150 DA CONSTITUIÇÃO DA REPÚBLICA). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ACO 3469 AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 3.9.2021).
+
+    Assentadas as premissas teóricas, depreende-se, como premissas fáticas, que a reclamante é empresa pública, prestadora de serviço público essencial, exclusivo e não submetido ao regime concorrência, além de ser uma empresa pública dependente do Tesouro Nacional e que não distribui lucros.
+
+    Logo, no que tange ao pagamento de suas dívidas judiciais, a Embrapa submete-se ao regime dos precatórios, nos termos do que decido por esta Corte nas ADPFs 275, 387, 437, 485, 530, 588 e 789.
+
+    Não obstante o que decidido pelo Supremo Tribunal Federal nas citadas ADPFs, o juízo reclamado assim decidiu (eDoc 76, p. 2-3):
+
+    “(...) MÉRITO
+
+    A embargante argumenta que há omissão e obscuridade no v. Acórdão em relação à gratuidade de justiça, vales-transporte, proibição de licitação e contratação da empresa de transporte, execução por precatórios, imunidade tributária e dispensa de pagamento de custas e depósito recursal.
+
+    Registre-se, em relação à execução por precatórios, imunidade tributária e dispensa de pagamento de custas e depósito recursal, que os temas são totalmente inovatórios, e não integraram nem a contestação (id. 4f449a2), tampouco as contrarrazões ofertadas ao apelo obreiro (id. 0e48cd3), cujo parcial acolhimento ensejou a reversão da improcedência da reclamação.
+
+    Não obstante a inovação aos limites da litiscontestatio esclareço à parte que os privilégios aludidos retratam prerrogativas destinadas somente à Fazenda Pública, conceito que não abrange as empresas públicas, caso da embargante, a qual não presta serviços típicos do Estado em caráter de exclusividade e se submete à forma de execução das empresas privadas (artigo 173, § 1º, II, da Constituição). Equivale dizer, a reclamada, na condição de pessoa jurídica de direito público, exploradora de atividade econômica, está sujeita ao mesmo regime jurídico das empresas privadas. (...) ”
+
+    Desse modo, a decisão reclamada vulnerou o que decidido por esta Corte nos paradigmas de julgamento invocados. Confira-se, a propósito, o seguinte acórdão:
+
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. CONSTITUCIONAL. EMPRESA PÚBLICA. REGIME DE MONOPÓLIO. EXECUÇÃO. MEDIDAS CONSTRITIVAS DE BENS. ALEGAÇÃO DE AFRONTA À AUTORIDADE DAS DECISÕES DO SUPREMO TRIBUNAL FEDERAL PROFERIDAS NAS ARGUIÇÕES DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL 387 E 437. PRESTAÇÃO DE SERVIÇO PÚBLICO DE NATUREZA NÃO CONCORRENCIAL. REGIME DE PRECATÓRIO. AGRAVO REGIMENTAL A QUE SE DÁ PROVIMENTO. 1. A reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, da Constituição da República, além de salvaguardar o estrito cumprimento dos enunciados de Súmula Vinculante, nos termos do artigo 103-A, § 3º, da Constituição, incluído pela Emenda Constitucional 45/2004. 2. No julgamento da ADPF 387, esta Suprema Corte se manifestou no sentido da aplicabilidade do regime de precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado, em regime de monopólio. 3. In casu, a agravante é empresa pública prestadora de serviço público essencial, cuja finalidade é a prestação de serviço de assistência técnica e extensão rural gratuitas, a benefício dos pequenos e médios produtores, aos trabalhadores rurais, suas famílias e suas organizações, de modo que a ela se aplica o regime de precatórios. 4. Agravo a que se dá provimento, para cassar a decisão reclamada e determinar que sejam aplicados à agravante os critérios de pagamento fixados nos julgamentos das Arguições de Descumprimento de Preceito Fundamental 387 e 437.” (Rcl 41.420-AgR, Rel. p/ Acórdão Min. Luiz Fux, Primeira Turma, DJe 28.9.2020)
+
+    Na mesma senda, as seguintes decisões monocráticas: Rcl 53.606, Rel. Minª. Cármen Lúcia, DJe 30.5.2022; Rcl 54.162, Rel. Min. Ricardo Lewandowski, DJe 2.8.2022; Rcl 54.193, Rel. Min. Dias Toffoli, DJe 30.6.2022; e Rcl 52.170, Rel. Min. Gilmar Mendes, esta última assim ementada:
+
+    “Embargos de declaração na reclamação. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, §3º, do CPC. 2. Direito Constitucional e Administrativo. 3. EMBRAPA. Empresa pública prestadora de serviço público e de natureza não concorrencial. Precedente do Pleno. Incidência do regime constitucional de precatórios. 4. Ofensa à autoridade de decisões proferidas por esta Suprema Corte no julgamento das ADPFs 275 e 387. Reclamação julgada procedente. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.”
+
+    Ante o exposto, conheço parcialmente da reclamação e, na parte conhecida, julgo procedente o pedido para, nos termos dos arts. 21, § 1º, e 161, parágrafo único, do RISTF, cassar o ato reclamado e determinar a submissão do valor do débito à execução pela sistemática de precatórios, na forma do art. 100 da Constituição Federal, em observância do que decidido nas ADPFs 387 e 437, bem como a integral devolução à reclamante do recursos financeiros por ela disponibilizados nos autos da reclamatória trabalhista.
+
+    Publique-se.
+
+    Brasília, 19 de junho de 2023.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
