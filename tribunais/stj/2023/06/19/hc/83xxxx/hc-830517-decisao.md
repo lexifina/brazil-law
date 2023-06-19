@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+Habeas corpus. Tentativa de feminicídio. Preventiva autônoma. Sustenta: ausência de animus necandi; carência de fundamentação; ausência dos requisitos da prisão; suficiência de medidas cautelares diversas; condições pessoais favoráveis; prisão domiciliar. (1) A medida extrema está suficientemente fundamentada na gravidade da conduta imputada, pois, segundo os elementos de informação constantes dos autos, o paciente frequentemente ameaçava de morte a vítima e sempre portava arma de fogo, sendo que no dia do evento realizou disparo de arma de fogo contra a mesma tendo o projétil atingido o seu pescoço. Além disso, o paciente foi preso em momento diverso do fato, porém, quando também estaria utilizando arma de fogo, circunstâncias que evidenciam o receio de perigo gerado pelo estado de liberdade, sendo, por isso, insuficientes medidas cautelares diversas da prisão. (2) O paciente não comprovou que os filhos menores dependem exclusivamente de seus cuidados, razão pela qual não deve ser concedida a prisão domiciliar. (3) Ordem conhecida e denegada.
+Narram os autos que o paciente foi preso preventivamente pela suposta prática do crime previsto no art. 121, § 2º, II, IV, e VI, c/c art. 14, II, do Código Penal.
+Sustenta a defesa, em suma, ausência dos requisitos autorizadores da prisão preventiva, requerendo, liminarmente e no mérito, a revogação da custódia, com ou sem a imposição de medidas cautelares diversas da prisão.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, a defesa não colacionou aos autos a cópia do decreto prisional, de forma que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ.
+A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
