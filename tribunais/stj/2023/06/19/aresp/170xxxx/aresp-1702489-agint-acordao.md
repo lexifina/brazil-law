@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interp osto por CLARO S.A contra decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) proferida com a seguinte ementa:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO E OPERAÇÃO DE ESTAÇÃO RÁDIO-BASE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. ANTECIPAÇÃO DE TUTELA. COGNIÇÃO SUMÁRIA. SÚMULA 735/STF. AGRAVO EM RECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fls. 1.098/1.102).
+Inconformada, a parte agravante reitera as alegações de ofensa aos arts. 489 e 1.022, II, ambos do Código de Processo Civil.
+Argumenta que os arts. 3º, I, 12, III, 4º e 8º, todos da Lei 13.116/2015, autorizam a instalação de estações de telecomunicações em áreas residenciais.
+Sustenta que a proibição de funcionamento de estações de telecomunicações exclusivamente motivada por riscos decorrentes da exposição a campos eletromagnéticos encontra expressa vedação no art. 19, § 2º, da Lei 13.116/2015.
+Considera ser inaplicável ao caso concreto a incidência da Súmula 735/STF, uma vez que o recurso especial comporta exame quando destinado à verificação do preenchimento dos requisitos legais de concessão da tutela.
+Impugnação apresentada às fls. 1.117/1.126 .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFERIMENTO DE PEDIDO DE ANTECIPAÇÃO DE TUTELA. MANUTENÇÃO. DECISÃO PRECÁRIA. COGNIÇÃO SUMÁRIA. SÚMULA 735/STF. INCIDÊNCIA, POR ANALOGIA.
+1. Na espécie, a decisão impugnada é marcada pela precariedade, dado o juízo de cognição sumária inerente às tutelas de urgência. Não se tratando de pronunciamento definitivo, não se pode considerar que tenha ocorrido a violação da legislação federal. Incide no caso, por aplicação analógica, a Súmula 735 do Supremo Tribunal Federal, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. É importante frisar, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+É firme o entendimento desta Corte de que, em recurso especial interposto contra acórdão que concede ou nega pedido de antecipação de tutela, não é possível discutir os dispositivos legais referentes ao mérito da ação, devendo restringir-se à análise de eventual ofensa aos requisitos necessários para a antecipação da tutela. Nesse contexto, a precariedade da decisão liminar, via de regra, não possibilita a discussão de mérito na via especial, consoante disposto na Súmula 735/STF ("não cabe recurso extraordinário contra acórdão que defere medida liminar") aplicável, por analogia, aos recursos especiais.
+Sobre o tema, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AMBIENTAL. AGRAVO DE INSTRUMENTO. REVOGAÇÃO TUTELA DE URGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA DO ENUNCIADO N. 735 DA SÚMULA DO STF.
+I - Na origem, trata-se de agravo de instrumento objetivando reformar decisão com a revogação da tutela de urgência deferida pelo juiz primevo. No Tribunal a quo, negou-se provimento ao recurso.
+II - De regra geral, esta Corte de Justiça não analisa recursos especiais interpostos contra decisões interlocutórias que tenha deliberado sobre medida liminar, em razão dos óbices das Súmulas n. 7/STJ e 735/STF. Nesse sentido: AgInt no AREsp n. 1.875.200/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/5/2022, DJe de 27/5/2022; AgInt no AREsp n. 1.726.525/SE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/9/2021, DJe de 4/10/2021.
+III - Em situações excepcionais, entretanto, cabe o respectivo debate nesta instância.
+IV - Ocorre que a hipótese dos autos, a despeito da argumentação expendida pela recorrente em sentido contrário, amolda-se à regra do entendimento jurisprudencial do STJ.
+V - Não há como acolher a pretensão recursal, in casu, e afastar os citados óbices sumulares, uma vez que o acórdão recorrido, forte no acervo probatório dos autos, considerou o devido preenchimento dos requisitos do TAP por parte dos autores para o fim colimado.
+VI - A Vale, ao interpor o recurso de agravo, já afirmava que o particular " ..  deveria apresentar um dos documentos elencados no rol taxativo do TAP, além de comprovar, ainda, que a sua residência estaria localizada até um quilômetro do Rio Paraopeba" (fl. 59).
+VII - O acórdão recorrido é firme no sentido de que os autores produziram a respectiva prova.
+VIII - Em situações análogas, são os seguintes precedentes monocráticos desta Corte de Justiça: REsp n. 2.005.280/MG, relator Ministro Benedito Gonçalves, DJe 12/8/2022, AREsp n. 2.131.508/MG, relator Ministro Humberto Martins, DJe 8/8/2022, REsp n. 2.009.097/MG, relator Ministro Sérgio Kukina, DJ 3/8/2022.
+IX - Agravo interno improvido. (AgInt no REsp n. 2.017.691/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+TRIBUTÁRIO. PROCESSO CIVIL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. DEFERIMENTO DE PEDIDO DE ANTECIPAÇÃO DE TUTELA. MANUTENÇÃO. DECISÃO PRECÁRIA. RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA 735/STF. REQUISITOS. VERIFICAÇÃO. NECESSIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. VIOLAÇÃO À SÚMULA DO STJ. APRECIAÇÃO. IMPOSSIBILIDADE. SÚMULA 518/STJ.
+1. Não ocorre ofensa ao art. 1.022 do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. Pacífica a jurisprudência do STF e do STJ pelo não cabimento de recursos extraordinários contra acórdão que defere ou indefere liminar ou antecipação de tutela, haja vista a precariedade de tal decisão. Inteligência da Súmula 735/STF. Precedentes: STJ: AgInt no AREsp 1.034.741/PI, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/9/2018, DJe 25/9/2018; AgInt no AREsp 235.368/MA, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 16/2/2017, DJe 23/2/2017; AgInt no AREsp 1.182.599/PB, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2018, DJe 2/8/2018; e REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 8/5/2006; STF: RE 612.687 AgR, Relator Min. Roberto Barroso, Primeira Turma, julgado em 27/10/2017, Acórdão eletrônico DJe-258 Divulg 13-11-2017 Public 14-11-2017; RE 931.822 AgR, Relatora Min. Cármen Lúcia, Segunda Turma, julgado em 15/03/2016, Acórdão eletrônico DJe-060 Divulg 1º-4-2016 Public 4-4-2016.
+3. No caso vertente, para se chegar à conclusão diversa da adotada pelo órgão julgador de origem, quanto ao preenchimento dos requisitos da tutela de urgência pleiteada, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+4. Não é cabível recurso especial fundado em alegada violação de enunciado de súmula, para fins do art. 105, III, a, da Constituição Federal. Incidência, à espécie, da Súmula 518/STJ.
+5. Inviável o conhecimento do recurso especial na hipótese em que as alegações trazidas nas razões recursais mostram-se dissociadas dos alicerces do acórdão recorrido, revelando-se deficiente a fundamentação do recurso. Incidência da Súmula 284/STF.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.146.110/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
