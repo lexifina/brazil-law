@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por APORTE NUTRICIONAL LTDA. em contrariedade à decisão proferida por esta relatoria, assim ementada (e-STJ, fl. 1.035):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. COMPROVAÇÃO DE RECEBIMENTO DAS MERCADORIAS. AUSÊNCIA. NÃO DEMONSTRAÇÃO DO CRÉDITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 1.044-1.054), a agravante insiste na alegação de negativa de prestação jurisdicional, visto que o Tribunal de origem, mesmo instado a se manifestar nos aclaratórios, não apreciou devidamente as provas carreadas aos autos que poderiam conduzir a um resultado diferente na demanda.
+Salienta, ademais, a inaplicabilidade do óbice sumular n. 7/STJ, pois a análise da controvérsia não implica revolvimento de fatos e provas, mas, tão somente, revaloração dos elementos provatórios incontroversos juntados ao processo.
+Ressalta que o "TJMG desconsiderou completamente, entre outras provas constantes dos autos a adiante discriminadas, as prescrições médicas que instruíram a peça exordial, realizadas por escrito, assinadas pelos médicos da agravante e que correspondem exatamente às mercadorias, de caráter essencialíssimo, descritas nas notas fiscais entregues pela agravante à agravada" (e-STJ, fl. 1.049).
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 1.061-1.066).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. COMPROVAÇÃO DE RECEBIMENTO DAS MERCADORIAS. AUSÊNCIA. NÃO DEMONSTRAÇÃO DO CRÉDITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de maneira fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido de forma contrária à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão divergente aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentos.
+2. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No tocante à suposta negativa de prestação jurisdicional, cabe pontuar que "o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Na espécie, verifica-se que o Tribunal a quo se manifestou de forma expressa e fundamentada acerca da controvérsia, com a aplicação do direito que entendeu cabível à hipótese.
+Por oportuno, colhem-se do julgado recorrido os seguintes fundamentos acerca da existência do débito (e-STJ, fls. 900-902):
+Em sequência, busca a parte autora da ação monitória o recebimento de valores referentes ao fornecimento de dietas nutricionais aos pacientes da parte ré, tendo por fundamento principalmente as prescrições médicas de dietas nutricionais acompanhadas das notas fiscais respectivas.
+( )
+Nos embargos monitórios, a parte ré se defendeu no sentido de que não há comprovação documental que os produtos foram entregues ou enviados pela autora, ausente assinatura nas notas fiscais; sustenta que há apenas comprovação de que dietas foram prescritas, o que não acarreta por si só o recebimento de mercadoria (ordem 87).
+O principal argumento da parte autora consiste na identidade entre as prescrições médicas fornecidas pela parte ré e as notas fiscais que instruem o feito, mesmo que ausentes assinaturas.
+Em princípio, considerando a natureza da relação jurídica continuada entre as partes poder-se-ia destacar que o não fornecimento dos objetos constantes das prescrições nutricionais parenterais recitadas aos pacientes do hospital réu implicaria em duas situações: ou foram obtidos de outro fornecedor, ou não foram ministrados aos pacientes, em latente prejuízo à recuperação de sua saúde.
+Todavia, no intuito de corroborar a referida situação foi determinada a intimação das partes no intuito de que fosse aclarada a praxe comercial existente entre as partes. Se não fosse usual a assinatura de funcionários atestando o recebimento dos itens constantes nas notas fiscais - as dietas nutricionais - restaria corroborada a presunção acerca da argumentação desenvolvida pela parte autora.
+Nada obstante, demonstrada que a praxe era mesmo o devido recebimento da mercadoria por funcionários do hospital, mediante o lançamento de assinatura passível de identificação, não se sustenta a presunção suprarreferida.
+As simples prescrições, associadas às notas fiscais, mas sem o comprovante de recebimento das mercadorias, não são suficientes para embasar o pleito monitório, quando a prática comercial das partes está incompatível com a prova que instrui o feito.
+Neste interim, merece destaque o fato de que foram apresentadas notas fiscais referentes a prescrições nutricionais diversas daquelas reclamadas na presente ação monitória, em que os canhotos foram devidamente assinados com a indicação do recebimento e assinatura identificando o recebedor da mercadoria.
+Confira-se os canhotos com expressa menção a notas fiscais diversas daquelas reclamadas no feito sub judice (ordem 144/145):
+( )
+Deste modo, a despeito da argumentação desenvolvida, se no âmbito da própria relação jurídica desenvolvida entre as partes há indicação do recebimento das mercadorias com expressa referência à nota fiscal respectiva, se afigura inviável o acolhimento do pedido deduzido. Vale dizer, restou devidamente infirmada a presunção de fornecimento das dietas nutricionais que poderia advir da apresentação das prescrições.
+Nesse contexto, é certo que foram examinados todos os pontos relevantes para a solução da causa, não havendo como reconhecer a propalada ofensa aos arts. 489 e 1.022 do CPC/2015.
+A propósito:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+Outrossim, constata-se que o colegiado estadual concluiu que não ficou comprovado nos autos o efetivo recebimento das mercadorias, dada a ausência do comprovante nesse sentido, afastando, por conseguinte, a pretensão da parte autora, na ação monitória, de recebimento do alegado débito.
+Assim, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, analisados de forma objetiva. Logo, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Lado outro, a pretensão recursal é de alterar as conclusões sobre os fatos e provas do processo, para alcançar resultado favorável na demanda. Isso nada mais é do que o revolvimento do que já foi soberanamente julgado pelas instâncias ordinárias.
+O Superior Tribunal de Justiça, pela via extraordinária do recurso especial, não é terceira instância revisora e, portanto, não pode rejulgar a prova, como quer a agravante. As alegações de ofensa à lei federal, no caso, atreladas a essa descabida pretensão, encontram óbice intransponível na Súmula 7/STJ.
+À guisa de exemplo:
+(..) XI - À vista disso, acolher a tese do recorrente a fim de analisar a questão relativa à negativa de vigência aos arts. 4º, 6º, 9º, 10 e 1.013, todos do CPC, e ao art. 17, § 11, da Lei n. 8.429/92, demandaria inconteste reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7 do STJ. Afinal de contas, não é função desta Corte atuar como uma terceira instância na análise dos fatos e das provas. Cabe a ela dar interpretação uniforme à legislação federal a partir do desenho de fato já traçado pela instância recorrida. XII - Agravo interno improvido.(AgInt no AREsp 1575315/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+Desse modo, tendo em vista que as ponderações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
