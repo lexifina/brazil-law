@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  LUIZ  FONTANELLI  -  ESPÓLIO  (representado  por:  LUIZ  AUGUSTO  TRENTO  FONTANELLI  -  INVENTARIANTE)  contra  o  acórdão  proferido  pela  Terceira  Turma  desta  Corte  assim  ementado:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SESSÃO  VIRTUAL.  PEDIDO  DE.  RETIRADA.  PETIÇÃO.  POSTERIOR.  PAUTA.  PUBLICAÇÃO.  PREJUÍZO.  AUSÊNCIA  DE  DEMONSTRAÇÃO.  MÉRITO.  ANÁLISE.  AUSÊNCIA.  SÚMULAS  Nº  7/STJ  e  Nº  282/STF.  EMBARGOS  REJEITADOS.  MULTA  INAPLICÁVEL.  ART.  1.026,  §  2º,  DO  CPC/2015.
+1.  Conforme  a  jurisprudência  da  Segunda  Seção,  considera-se  precluso  o  pedido  de  retirada  de  agravo  interno  do  plenário  virtual  formulado  pela  parte  somente  após  a  publicação  da  respectiva  pauta  de  julgamento,  devendo  o  requerimento  ser  realizado  nas  razões  do  recurso,  de  forma  a  garantir  a  preservação  do  trâmite  regular  dos  feitos  no  Superior  Tribunal  de  Justiça.
+2.  A  oposição  ao  julgamento  virtual  prevista  no  art.  184-D,  parágrafo  único,  II,  do  RISTJ  deve  ser  manifestada  de  forma  fundamentada  pela  parte,  circunstância  não  configurada  no  caso  dos  autos.
+3.  A  mera  alegação  de  que  a  alteração  introduzida  pela  Lei  nº  14.365/2002,  que  entrou  em  vigor  em  13.6.2022,  implementou  a  possibilidade  de  sustentação  oral  perante  o  Superior  Tribunal  de  Justiça,  não  configura,  nos  termos  do  art.  184-D,  parágrafo  único,  II,  do  RISTJ,  fundamento  apto  a  justificar  a  oposição  ao  julgamento  virtual  do  agravo  interno.  Prejuízo  não  demonstrado.
+4.  Na  hipótese,  não  configurado  o  caráter  manifestamente  protelatório  dos  embargos,  não  há  falar  em  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC/2015"  (fls.  632-633  e-STJ).
+Em  suas  razões  (fls.  644-657  e-STJ),  o  embargante  sustenta  a  existência  de  omissão  no  tocante  à  alegada  falha  no  sistema  desta  Corte  que  impediu  o  envio  de  vídeo  com  a  sustentação  oral,  provocando  a  nulidade  do  julgamento  do  agravo  interno.
+Pondera  que  ,
+"(..)
+em  razão  de  um  problema  naquele  sistema  que,  além  de  ter  sido  informado  no  processo,  também  foi  comunicado  por  um  e-mail  endereçado  ao  STJ  com  a  solicitação  do  envio  da  mídia  de  uma  outra  maneira  (e-mail  que,  contudo,  jamais  foi  respondido  -  fls.  570),  o  Embargante  teve  ceifado  o  seu  direito  legal  de  acessar  os  e.  Ministros  através  da  sustentação  oral,  o  que,  inclusive,  lhe  é  plenamente  garantido  também  no  âmbito  do  agravo  interno"  (fl.  645  e-STJ).
+Defende,  ainda,  que  não  houve  apreciação  acerca  dos  efeitos  da  simulação  na  presente  lide,  ponto  sobre  qual,  segundo  argumenta,  não  incidem  os  óbices  das  Súmulas  nº  7/STJ  e  nº  282/STF.
+Destaca  que
+"(..)  é  primordial  que  essa  e.  Turma  supra  a  omissão  acerca  do  tópico  acima,  que  comprovou  como  o  dolo  dos  simuladores  jamais  foi  um  ponto  controvertido  da  lide,  bem  como  que  a  terceira  prejudicada  pelo  negócio  também  não  integra  o  processo  e  jamais  reclamou  quaisquer  prejuízos,  fazendo  com  que  o  dolo  não  precise  ser  analisa  dopara  que  se  decidam  as  violações  aos  arts.  167  e  168  do  CC  trazidas  no  Especial.
+Sanando  essas  omissões  é  que,  naturalmente,  se  afastará  o  óbice  da  Súmula  07  e  o  da  Súmula  282,  abrindo  a  via  para  que  essa  e.  Corte  responda  ao  simples  questionamento  de  ordem  JURÍDICA  que  foi  alavancado  pelo  Embargante  no  seguinte  sentido:  é  possível  que  um  dos  simuladores  defenda  a  nulidade  do  negócio  simulado  frente  ao  outro,  sobretudo  quando  existe  o  evidente  enriquecimento  ilícito  de  uma  das  partes "  (fl.  655  e-STJ).
+Requer,  por  fim,  o  acolhimento  dos  presentes  declaratórios.
+Impugnação  às  fls.  661-667  (e-STJ),  na  qual  a  parte  contrária  postula  a  aplicação  de  multa  diante  do  caráter  protelatório  da  insurgência.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ERRO  MATERIAL,  OMISSÃO,  CONTRADIÇÃO  E  OBSCURIDADE  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  corrigir  o  erro  material,  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+A irresignação  não  merece  prosperar.
+A  indisponibilidade  em  sistema  de  peticionamento  eletrônico  desta  Corte  Superior  deve  ser  comprovada  no  momento  oportuno e por meio de  documento  idôneo.
+A propósito:
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INTEMPESTIVIDADE  DO  ARESP.  PRAZO  DE  15  (QUINZE)  DIAS  CORRIDOS.  RECESSO  FORENSE.  ALEGAÇÃO  DE  INDISPONIBILIDADE  DA  DECISÃO  NO  SISTEMA  E-SAJ.  NÃO  COMPROVAÇÃO.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  O  agravo  em  recurso  especial  se  revela  manifestamente  intempestivo,  porquanto  interposto  fora  do  prazo  de  15  (quinze)  dias  corridos,  nos  termos  do  art.  994,  VI,  c/c.  o  art.  1.003,  §  5º,  do  CPC,  bem  como  do  art.  798  do  CPP.  A  parte  recorrente  foi  intimada  da  decisão  agravada  em  03/02/2021,  sendo  o  agravo  somente  interposto  em  22/02/2021.
+2.  A  alegada  indisponibilidade  da  decisão  no  sistema  e-SAJ  deve  ser  comprovada,  no  momento  oportuno,  por  documento  idôneo,  o  que  não  ocorreu  no  caso  dos  autos.
+3.  Agravo  regimental  não  provido"  (AgRg  no  AREsp  2.092.649/SP,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  Quinta  Turma,  julgado  em  7/6/2022,  DJe  de  13/6/2022  -  grifou-se).
+Na  hipótese,  o  embargante  apenas  colaciona  aos  autos  cópia  de  e-mail  enviado  ao  Superior  Tribunal  de  Justiça  contendo  a  captura  de  tela  de  computador  (print).  Todavia,  tal  documento  não  serve  para  comprovar  a  indisponibilidade  do  sistema.
+Ademais,  em  consulta  ao  Sistema  de  Indisponibilidade  de  Sistemas  do  STJ,  verifica-se  que  não  houve  problemas  no  Sistema  de  Sustentação  Oral  e  Preferência  de  Julgamento  no  dia  e  horário  indicado  pelo  recorrente  (https://www.stj.jus.br/out/in/indisponibilidade/lista/ aplicacao=indisponibilidade.  Acessado  em  24/4/2023  às  14h46).
+Em  relação  ao  mérito,  da  decisão  monocrática  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (fls.  508-510  e-STJ)  aos  acórdãos  proferidos  posteriormente,  ficou  expressamente  assentado  que  a  tese  acerca  da  simulação  e  da  legitimidade  para  requerer  a  nulidade  da  avença  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  obscuridade,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Confira-se:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1022  do  CPC.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  DJe  9/8/2016).
+Por  fim,  registra-se  que  a  reiteração  do  mesmo  recurso,  com  objetivo  claramente  protelatório,  estará  sujeita  à  multa  prevista  no  art.  1.026,  §  2º,  do  Código de Processo Civil.
+  Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
