@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pela AMIG - ASSOCIAÇÃO DOS MUNICIPIOS MINERADORES DE MINAS GERAIS E DO BRASIL contra decisão de minha lavra em que se conheceu do agravo para, com base na Súmula 282 do STF, não se conhecer de recurso especial no qual se  sustenta que a negativa de inclusão da associação como assistente simples na ação de origem representa cerceamento de direito dos municípios.
+A parte agravante alega, em síntese, que a Corte estadual teria apreciado em seu acórdão devidamente o tema suscitado, tendo expressamente afastado a legitimidade da associação para intervir no processo por incompatibilidade da sua natureza com as prerrogativas da FAZENDA PÚBLICA.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ASSOCIAÇÃO DE MUNICÍPIOS. INTERVENÇÃO DE TERCEIROS. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Ausente o prequestionamento da tese recursal, uma vez que a questão suscitada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente (violação do art. 119 do CPC/2015 e do art. 3º da Lei complementar n. 63/1990, uma vez que a negativa de inclusão da associação como assistente simples na ação de origem representa cerceamento de direito dos municípios representados).
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Como assinalado na decisão agravada, o recurso especial se origina de agravo de instrumento interposto contra decisão em ação ordinária que indeferiu a inclusão da associação recorrente, em representação processual dos municípios mineradores do Estado de Minas Gerais, como assistente simples da VALE S.A.
+Na origem, trata-se de ação de obrigação de fazer movida pelo município fluminense contra a VALE S.A. para que esta retifique Declaração Anual do ano de 2008 para apuração de índice de Participação de Municípios, o que pode acarretar diminuição significativa dos montantes decorrentes da repartição de receitas de ICMS da atividade mineradora a serem recebidos pelos municípios mineiros representados pela associação.
+O Tribunal fluminense negou provimento ao agravo ao argumento de que a associação recorrente não possui legitimidade para pleitear em representação processual direito dos municípios, em razão da incompatibilidade da natureza jurídica da associação com as prerrogativas processuais dos municípios.
+Opostos embargos de declaração, foram eles rejeitados.
+No  especial,  a  parte  alega  violação  do  art. 119 do CPC/2015 e do art. 3º da Lei complementar n. 63/1990.
+ Sustenta,  em  síntese, que a negativa de inclusão da associação como assistente simples na ação de origem representa cerceamento de direito dos municípios.
+Como afirmado no decisum ora agravado, ressente-se o recurso especial do devido prequestionamento, já que s obre as normas do art. 119 do CPC/2015 e do art. 3º da Lei complementar n. 63/1990 e a tese a elas vinculadas não houve emissão de juízo pelo acórdão recorrido, fazendo incidir in casu o óbice constante na Súmula 282 do STF.
+Em atenção à alegação formulada no agravo interno, reconheço que a questão da legitimidade da associação para intervir em ação como representante de entes federados foi analisada pelo Tribunal a quo, mas não pelo viés suscitado no recurso especial, segundo o qual a negativa de inclusão da associação como assistente simples na ação de origem representa cerceamento de direito material dos municípios, tese resumida no recurso especial nos seguintes termos (e-STJ fl. 519):
+17. Essas circunstâncias, por si só, já justificariam a intervenção da AMIG no processo de origem, tendo em vista que o art. 119 do CPC é cristalino no sentido de que "Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la".
+18. Segundo CÂNDIDO D1NAMARCO , "O interesse que legitima a assistência é sempre representado pelos reflexos jurídicos que os resultados do processo possam projetar sobre a esfera jurídica de direitos do terceiro. Esses possíveis reflexos ocorrem quando o terceiro se mostra titular de algum direito ou obrigação cuja existência ou inexistência depende do julgamento da causa pendente, ou vice-versa"1.
+19. Em outras palavras, também segundo DINAMARCO, "Ao afirmar ou negar o direito do autor, de algum modo o juiz estará colocando premissas para a afirmação ou negação do direito ou obrigação do terceiro - e daí o interesse deste em ingressar. Ingressa em auxílio de uma parte, mas não por altruísmo - e sim para prevenir-se contra declarações que no futuro possam influir em sua própria esfera de direitos"2.
+20. É exatamente esta a hipótese dos autos, sendo evidente o interesse jurídico da AMIG na presente lide, com vistas a demonstrar ao MM. Juízo de 1º grau que os seus associados são os únicos destinatários legítimos da parcela do ICMS repassada aos Municípios, por conta do critério do "valor adicionado"  ocorrido exclusivamente nos territórios de seus associados, no que tange à atividade minerária desenvolvida pela VALE.
+Assim, mesmo após a nova análise provocada pela interposição do agravo interno, observo que a decisão deve ser mantida neste ponto.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
