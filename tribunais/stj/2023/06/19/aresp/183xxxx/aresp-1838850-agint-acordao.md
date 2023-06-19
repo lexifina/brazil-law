@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se  de  agravo  interno  interp  osto  pelo  ESTADO  DO  PARANÁ  contra  decisão  do  Ministro  Manoel  Erhardt  (Desembargador  Convocado  do  TRF  da  5ª  Região)  proferida  com  a  seguinte  ementa:
+ADMINISTRATIVO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  ANULATÓRIA.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.  PRESCRIÇÃO  INTERCORRENTE.  DECRETO  20.910/1932.  INAPLICABILIDADE.  SÚMULA  83/STJ.  ACÓRDÃO  RECORRIDO.  FUNDAMENTO  EXCLUSIVAMENTE  CONSTITUCIONAL.  NÃO  CABIMENTO.  USURPAÇÃO  DA  COMPETÊNCIA  DO  STF.  AGRAVO  EM  RECURSO  ESPECIAL  DO  ESTADO  CONHECIDO  PARA  CONHECER  PARCIALMENTE  DO  RECURSO  ESPECIAL  E,  NESSA  EXTENSÃO,  NEGAR-LHE  PROVIMENTO  (fls.  837/844).
+Inconformada,  a  parte  agravante  reitera  a  alegação  de  ofensa  ao  art.  1º  do  Decreto  20.910/1932,  argumentando,  em  síntese,  que  tal  dispositivo  não  se  aplica  à  prescrição  intercorrente.
+Impugnação  apresentada  às  fls.  862/872.
+É  o  relatório.
+EMENTA
+ADMINISTRATIVO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  ANULATÓRIA.  PRESCRIÇÃO  INTERCORRENTE.  ACÓRDÃO  RECORRIDO  COM  FUNDAMENTO  EMINENTEMENTE  CONSTITUCIONAL.  ANÁLISE.  INVIABILIDADE.  USURPAÇÃO  DE  COMPETÊNCIA  DO  STF.  PROVIMENTO NEGADO.
+1.  A  via do recurso especial não se mostra adequada para revisão de controvérsia em que o aresto atacado apresenta fundamento eminentemente constitucional.
+2.  Hipótese em que o acórdão recorrido possui como fundamento o art. 5º, LXX II, da Constituição Federal .
+3.  Agravo  interno  a  que  se  nega  provimento.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  mérito  recursal,  o  Tribunal  de  origem  assim  se  manifestou  sobre  a  prescrição  intercorrente:
+Neste  contexto,  em  razão  da  impossibilidade  de  adoção  da  Lei  nº  9.873/1999  e  do  Decreto  nº  20.910/32  para  fins  de  verificação  da  chamada  "prescrição  intercorrente",  esta  C.  5ª  Câmara  Cível  passou  a  analisar  o  trâmite  dos  procedimentos  administrativos  perante  o  Procon  sob  a  ótica  constitucional  da  "duração  razoável  do".  processo".
+Portanto,  o  entendimento  majoritário  que  vigora  nesta  c.  Câmara  é  de  que,  não  obstante  a  falta  de  regramento  específico,  o  processo  administrativo  não  pode  ser  eterno.  Ou  seja,  é  imprescindível  que  a  Administração  Pública  observe  o  postulado  constitucional  da  duração  razoável  do  processo  e  apure  eventual  infração  consumerista  em  prazo  adequado  conforme  às  peculiaridades  do  caso  concreto.
+Busca-se  evitar  que  o  processo  perdure  indefinidamente,  gerando  morosidade  para  a  Administração  como  um  tudo,  e  criando  uma  verdadeira  "pena  perpétua"  ao  administrado.
+ ..
+Trazendo  esse  entendimento  ao  caso  concreto,  forçoso  reconhecer  a  nulidade  da  penalidade  administrativa  aplicada,  em  razão  da  inobservância  da  duração  razoável  do  processo,  conforme  art.  5º,  inc.  LXXII,  da  Carta  Magna.
+Neste  caso  concreto,  os  processos  administrativos  nº  40597/2009;  nº  69819/2009;  67644/2009;  102228/2009  foram  instaurados  no  ano  de  2009.
+Após  apresentação  de  impugnação  pela  fornecedora  em  cada  um  dos  processos  individuais  e  realização  infrutífera  de  audiências  de  conciliação,  o  Procon,  concluindo  pela  ausência  de  resolução  das  reclamações,  promoveu,  em  27/07/2010,  a  inclusão  de  cada  um  dos  autos  no  cadastro  de  defesa  do  consumidor,  bem  como  a  reunião  de  todas  as  reclamações  em  um  único  ato  de  ofício  coletivo,  protocolado  sob  nº  66841/2010  (movs.1.3;  17.2/17.10).
+Após  esta  situação,  o  Procon  somente  em  12/09/2016  proferiu  decisão  administrativa  cominando  a  penalidade  de  multa  à  apelada  Claro  S/A  (mov.  1.3).
+Denota-se,  portanto,  que  os  processos  administrativos  em  questão  permaneceram  sem  movimentação  por  período  superior  a  cinco  anos,  já  que,  após  sua  inclusão  no  "cadastro  de  defesa  do  consumidor"  e  reunião  pelo  ato  de  ofício  coletivo  nº  66841/2010  em  27/07/2010,  o  Procon  somente  promoveu  o  julgamento  dos  feitos  em12/09/2016.
+Com  efeito,  a  paralisação  do  processo  administrativo  por  mais  de  cinco  anos,  decorreu  exclusivamente  da  inércia  do  PROCON  Estadual,  que  não  deu  qualquer  andamento  ao  feito.
+A  atitude,  ou  melhor,  a  falta  de  atitude  do  PROCON  Estadual  viola  o  direito  fundamental  do  administrado  da  razoável  duração  do  processo,  seja  ele  judicial  ou  administrativo.
+Não  é  legítimo  que  a  Fazenda  Pública,  com  todos  os  privilégios  que  possui,  descuide  dos  seus  deveres,  notadamente  no  tocante  aos  prazos,  uma  vez  que  as  partes  se  devem  mútuo  respeito.
+ ..
+Assim,  não  há  como  afastar  o  reconhecimento  da  afronta  ao  princípio  da  razoável  duração  do  processo,  porquanto  o  processo  administrativo,  desde  a  sua  instauração,  ficou  paralisado  por  mais  de  cinco  anos  em  razão  da  inércia  exclusiva  do  Procon  Estadual  (fls.  551/554).
+No  caso  em  questão,  embora  a  parte  recorrente  tenha  indicado  nas  razões  do  recurso  especial  violação  de  dispositivos  de  lei  federal,  é  incabível  o  recurso  especial  pois  interposto  contra  acórdão  com  fundamento  eminentemente  constitucional.
+O  Tribunal  de  origem  afastou  a  pretensão  autoral  fundamentado  na  violação  do  princípio  da  razoável  duração  do  processo.
+Dessa  forma,  é  forçoso  reconhecer  que,  possuindo  o  acórdão  recorrido  fundamento  eminentemente  constitucional,  revela-se  descabida  sua  revisão  pela  via  do  recurso  especial,  sob  pena  de  usurpação  de  competência  do  Supremo  Tribunal  Federal,  prevista  no  art.  102  da  Constituição  Federal.
+Nesse  sentido,  cito  os  seguintes  julgados  do  Superior  Tribunal  de  Justiça:
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ICMS.  BASE  DE  CÁLCULO.  PIS  E  COFINS.  NÃO  INCIDÊNCIA.  FORMA  DE  CÁLCULO.  ICMS  DESTACADO  NAS  NOTAS  FISCAIS  VERSUS  ICMS  A  RECOLHER  NA  COMPETÊNCIA.  ACÓRDÃO  RECORRIDO  FUNDADO  EM  PRECEDENTE  DO  SUPREMO  TRIBUNAL  FEDERAL  EM  REPERCUSSÃO  GERAL.  AGRAVO  INTERNO  DA  FAZENDA  NACIONAL  A  QUE  SE  NEGA  PROVIMENTO.
+ ..
+2.  O  Tribunal  de  origem  apenas  interpretou  o  precedente  do  Supremo  Tribunal  Federal  em  repercussão  geral  para  aplicá-lo  ao  caso  concreto,  razão  pela  qual  não  cabe  ao  Superior  Tribunal  de  Justiça  dirimir  a  controvérsia  em  sede  de  Recurso  Especial  no  pertinente  à  interpretação  constitucional  do  referido  RE  574.706  RG/PR,  sob  pena  de  usurpação  da  competência  do  Supremo  Tribunal  Federal  prevista  no  art.  102  da  Constituição  Federal.
+3.  Agravo  Interno  da  FAZENDA  NACIONAL  a  que  se  nega  provimento.  (AgInt  no  AREsp  n.  1.578.077/SP,  Ministro  Manoel  Erhardt  -  Desembargador  Convocado  do  TRF  da  5ª  Região,  Primeira  Turma,  julgado  em  19/4/2021,  DJe  de  29/4/2021  -  sem  destaques  no  original.)
+ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PENSÃO  MILITAR.  FILHA.  REQUISITOS  DO  ART.  7º  DA  LEI  3.765/60  C/C  LEI  8.216/91.  ALEGADA  OMISSÃO  ACERCA  DE  VIOLAÇÃO  A  DISPOSITIVOS  CONSTITUCIONAIS.  AFERIÇÃO.  IMPOSSIBILIDADE  DE  ANÁLISE,  EM  SEDE  DE  RECURSO  ESPECIAL.  ALEGADA  OFENSA  AO  ART.  535  DO  CPC/73.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  INDICAÇÃO  DO  DISPOSITIVO  LEGAL  QUE,  EM  TESE,  TERIA  RECEBIDO  INTERPRETAÇÃO  DIVERGENTE  DAQUELA  FIRMADA  POR  OUTROS  TRIBUNAIS.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF,  APLICADA  POR  ANALOGIA.  IMPOSSIBILIDADE  DE  APRECIAÇÃO  DE  MATÉRIA  CONSTITUCIONAL,  EM  SEDE  DE  RECURSO  ESPECIAL,  SOB  PENA  DE  USURPAÇÃO  DA  COMPETÊNCIA  DO  STF.  AGRAVO  INTERNO  IMPROVIDO.
+ ..
+V.  Do  exame  do  julgado  combatido  e  das  razões  recursais,  verifica-se  que  a  solução  da  controvérsia  possui  enfoque  eminentemente  constitucional.  Dessa  forma,  compete  ao  Supremo  Tribunal  Federal  eventual  reforma  do  acórdão  recorrido,  no  mérito,  sob  pena  de  usurpação  de  competência  inserta  no  art.  102  da  Constituição  Federal.  Precedentes  do  STJ  (AgRg  no  AREsp  584.240/RS,  Rel.  Ministro  BENEDITO  GONÇALVES,  PRIMEIRA  TURMA,  DJe  de  03/12/2014;  AgRg  no  REsp  1.473.025/PR,  Rel.  Ministro  HUMBERTO  MARTINS,  SEGUNDA  TURMA,  DJe  de  03/12/2014).
+VI.  Agravo  interno  improvido.  (AgInt  no  REsp  n.  1.377.313/CE,  relatora  Ministra  Assusete  Magalhães,  Segunda  Turma,  julgado  em  18/4/2017,  DJe  de  26/4/2017  -  sem  destaques  no  original.)
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+  É  o  voto.
