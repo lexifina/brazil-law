@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 5ª Região, assim resumido:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIO. EMENDASCONSTITUCIONAIS 20/98 E 41/2003. RENDA MENSAL INFERIOR AO TETO QUANDO DACONCESSÃO DO BENEFÍCIO. IMPROVIMENTO À APELAÇÃO.
+1. O Supremo Tribunal Federal, quando do julgamento do Recurso Extraordinário 564.354, de relatoria da Ministra Cármen Lúcia, ao apreciar o tema acerca da aplicação do novo valor teto definido nas Emendas Constitucionais 20/98 e 41/2003, entendeu ser devida a revisão para a adoção dos novos tetos apenas para os segurados que percebem seus benefícios com base em limitador anterior, levando-se em conta os salários de contribuição que foram utilizados para os cálculos iniciais, ou seja, deverá ser observado se o salário de benefício resultou em valor superior ao teto da época e, por isso, sofreu limitação.
+2. Da análise dos documentos colacionados aos autos (carta de revisão/memória de cálculo; CONREAJ, CONBAS), consta que o benefício do autor, com DIB em 16/02/1989, não sofreu limitação ao teto, pois, após revisão, a RMI resultou em NCz$ 670,96 e o salário de benefício em NCz$ 729,31, inferior ao tetoda época, que, segundo consta da planilha anexada pelo próprio apelante era de NCz$ 734,80, gozando tais documentos de presunção de veracidade, não ilidida pela parte autora, não merecendo, portanto, nenhuma censura a decisão atacada.
+3. Apelação não provida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso".
+Não se conheceu do recurso diante da sua intempestividade.
+Foi interposto agravo interno contra esta decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. RENDA MENSAL INFERIOR AO TETO NA OCASIÃO DA CONCESSÃO DO BENEFÍCIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INTEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Na origem, trata-se de ação comum, objetivando provimento jurisdicional que garanta a revisão do valor da Renda Mensal Atual - RMA de benefício de Aposentadoria por Invalidez Previdenciária, n. 084.693.697-6, com DIB em 16/2/1989, de modo a readequar o seu valor mensal de acordo com os novos limites máximos fixados pelas Emendas Constitucionais n. 20/98 e 41/03, conforme decidido pelo Pleno do STF no julgamento do RE 564.354, com recuperação do excedente desprezado pela limitação. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Aplica-se ao recurso o Enunciado Administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+III - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso.
+IV - Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de segunda-feira de carnaval.
+V - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+VI - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado de carnaval, é aplicável a jurisprudência desta Corte no sentido já indicado acima de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
