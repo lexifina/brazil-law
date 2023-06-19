@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+DANIELE KAROLINE CEGLAREK interpõe agravo regimental contra a decisão em que a Presidência desta Corte Superior, ao indeferir liminarmente o writ, deixou de superar o óbice da Súmula n. 691 do STF.
+Neste writ, a impetrante alega que a paciente sofre constrangimento ilegal em razão do indeferimento do pedido do pedido de indulto, formulado com base no art. 5º do Decreto n. 11.302/2022.
+Narra a defesa que, apresentado pedido para que o indulto natalino fosse deferido, uma vez que a Paciente preenche os requisitos dispostos no Decreto n. 11.302, editado em 22 de dezembro de 2022, "o Ministério Público manifestou parecer favorável à Paciente, pelo deferimento do indulto natalino". Todavia, "o Magistrado cometeu ilegalidade ao indeferir o benefício à Paciente, visto o disposto no art. 12 do Decreto".
+Sustenta que "a Paciente é primária, e o Ministério Público não interpôs recurso contra a sentença condenatória".
+Requer o indulto da pena privativa de liberdade com base no art. 5º do Decreto presidencial n. 11.302/2022.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE SUPERAÇÃO DO ÓBICE DA SÚMULA N. 691 DO STF. INDULTO. DECRETO N. 11.302/2022. NÃO PREENCHIMENTO DO REQUISITO RELATIVO À PENA MÁXIMA EM ABSTRATO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+2. Em verdade, o habeas corpus não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade da paciente. Somente em tal hipótese a jurisprudência, tanto do Superior Tribunal de Justiça quanto do Supremo Tribunal Federal, admite o excepcional afastamento do rigor da Súmula n. 691 do STF.
+3. O art. 5º do Decreto n. 11.302/2022 prevê que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+4. Portanto, se a paciente foi condenada pelo crime de furto qualificado, cuja pena máxima em abstrato é de 8 anos, evidencia-se o não preenchimento do requisito previsto no caput do art. 5º do Decreto n. 11.302/2022.
+5. Agravo regimental não provido.
+VOTO
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do pacie nte.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores: HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020; HC n. 182.390 AgR, Rel. Ministro Cármen Lúcia, 2ª T., DJe 24/4/2020; AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020; AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020.
+II. Ato apontado como coator
+Verifico que, na espécie, o Juiz de primeiro grau indeferiu o pedido de indulto nos seguintes termos:
+DANIELE KAROLINE CEGLAREK foi condenada ao cumprimento da pena de 2 (dois) anos de reclusão e 10 (dez) dias-multa, no valor individual de 1/30 do salário mínimo vigente à época dos fatos, por infração ao art. 155, § 4º, inciso IV, do Código Penal, conforme sentença de Evento 266. Certificado o trânsito em julgado para a acusação, a defesa interpôs recurso de apelação (Evento 289), o qual foi improvido (Evento 304).
+A defesa postulou a concessão do indulto natalino à apenada (Evento 327). O Ministério Público se manifestou pela concessão do indulto em favor da apenada, com base no Decreto Presidencial nº 11.302/2022, aduzindo que a apenada preenche o requisito para o deferimento do benefício (Evento 330). Relatei o essencial.
+Decido.
+Analisando-se o Decreto nº 11302/2022 se constata pela leitura do seu art. 5º, que será concedido indulto natalino àspessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Note-se que, no caso dos autos, a apenada foi condenada por crime de furto qualificado (art. 155, § 4º, inciso IV, do CP),cuja pena em abstrato é de reclusão, de dois a oito anos.
+Assim, no caso sob análise, em que pese o parecer ministerial de Evento 330, a apenada não faz jus à concessão do indulto eis que expressamente previsto no referido decreto de que o indulto será concedido às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Portanto, tendo em vista a existência de expressa vedação para a obtenção do benefício, somente resta indeferir o pedido pela ausência do requisito objetivo. Isto posto, INDEFIRO o indulto à DANIELE KAROLINE CEGLAREK.  ..  (fl. 43)
+Impetrado habeas corpus perante o Tribunal local, houve decisão monocrática do Desembargador-relator, vazada nos seguintes termos:
+ ..
+E, conforme já assentou este e. Tribunal, "Os crimes de receptação qualificada (CP, art.180, § 1º), furto qualificado (CP, art. 155, § 4º), associação criminosa circunstanciada (CP, art. 288,parágrafo único), falsificação de documento público (CP, art. 297), adulteração de sinal identificadorde veículo automotor (CP, art. 311, caput) e roubo circunstanciado (CP, art. 157, § 2º) trazem, emseus preceitos secundários, penas em abstrato superiores a 5 anos e, por isso, são insuscetíveis de serem alvo da clemência prevista no art. 5º do Decreto 11.302/22" (TJSC, Agravo de Execução Penaln. 8000153-91.2023.8.24.0018, do Tribunal de Justiça de Santa Catarina, rel. Sérgio Rizelo, SegundaCâmara Criminal, j. 21-03-2023). Desta feita, ausente flagrante constrangimento ilegal, a matéria ventilada no presenteremédio constitucional deve impugnada por meio do recurso apropriado, previsto no art. 197 da Leide Execuções Penais.  ..  (fls. 43-44)
+Busca a impetrante a concessão de indulto ao paciente, com base no Decreto n. 11.302 de 22 de dezembro de 2022, pois estaria cumprido o requisito objetivo e subjetivo.
+Dispõe o art. 5º do Decreto n. 11.302/2022 que:
+Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal.
+Portanto, se a paciente foi condenada pelo crime de furto qualificado, cuja pena máxima em abstrato é de 8 anos, evidencia-se o não preenchimento do requisito previsto no caput do art. 5º do Decreto n. 11.302/2022.
+Assim, não identifico ilegalidade manifesta no ato, fazendo a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+III. Dispositivo
+Não identifico, portanto, manifesta ilegalidade que permita inaugurar a competência constitucional deste Tribunal Superior.
+Ante o exposto, nego provimento ao agravo regimental.
