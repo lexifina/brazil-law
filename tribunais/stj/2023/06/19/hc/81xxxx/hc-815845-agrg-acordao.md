@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EVERTON CORDEIRO PINTO, de decisão na qual não conheci do habeas corpus (e-STJ, fls. 68-73).
+A defesa aduz, em suma, que "o Ente Coator, no julgamento de recurso interposto pela defesa, procurou acrescer e cimentar novos argumentos para legitimar a dosimetria fixada em primeiro grau." (e-STJ, fl. 82)
+Assevera a ausência de fundamentação idônea para o aumento da pena-base em 1/2.
+Argumenta a possibilidade de reconhecimento do redutor do tráfico privilegiado, uma vez que "é evidente que o paciente foi contratado ocasionalmente para transportar drogas do ponto A ou ponto B, sem que haja acusação de dedicação às atividades criminosas." (e-STJ, fl. 89)
+Sustenta que o réu atuou na condição de "mula", razão pela qual "não há presunção de habitualidade delitiva, situação, portanto, insuficiente para afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006." (e-STJ, fl. 91)
+Aponta que, "nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006, o regime adequado e proporcional ao paciente para início de cumprimento de pena é o semiaberto" (e-STJ, fl. 92).
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Sob o aspecto da extensão e da profundidade do efeito devolutivo na apelação, o Superior Tribunal de Justiça já se manifestou que é permitido ao Tribunal de origem agregar novos fundamentos para manter a dosimetria fixada em primeiro grau, sem se falar em ofensa ao princípio da reformatio in pejus, desde que se valha de elementos contidos na sentença condenatória e não agrave a situação do réu.
+3. Hipótese em que as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade da droga apreendida - 390,9kg de maconha - para elevar a pena-base do delito de tráfico de drogas em 2 anos e 6 meses de reclusão, o que não se mostra desarrazoado, a autorizar a intervenção excepcional desta Corte.
+4. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+5. Hipótese em que a Corte de origem manteve afastado o redutor do tráfico privilegiado, por entender que, além da apreensão de 390,9kg de maconha, o modus operandi do delito revela que o réu estava inserido em organização criminosa. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+6. Embora o paciente seja primário e a pena tenha sido estabelecida em patamar inferior a 8 anos, as instâncias ordinárias justificaram a escolha do regime inicial fechado, com fundamento nas circunstâncias concretas do delito - especialmente a quantidade de drogas apreendidas (390,9kg de maconha) que foi inclusive valorada na primeira fase da dosimetria, conforme autoriza o art. 33, §2º e 3º, III, "a", do CP.
+7 . Agravo regimental não provido.
+VOTO
+O agravante não trouxe argumentos para infirmar a decisão impugnada razão pela qual mantenho-a por seus próprios fundamentos:
+" ..
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+No caso, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade da droga apreendida - 390,9kg de maconha - para elevar a pena-base do delito de tráfico de drogas em 2 anos e 6 meses de reclusão.
+Tendo sido apresentado elemento idôneo para a majoração da reprimenda básica, elencado inclusive como circunstância preponderante, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos) não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+ ..
+Ademais, cumpre anotar que, sob o aspecto da extensão e da profundidade do efeito devolutivo na apelação, o Superior Tribunal de Justiça já se manifestou que é permitido ao Tribunal de origem agregar novos fundamentos para manter a dosimetria fixada em primeiro grau, sem se falar em ofensa ao princípio da reformatio in pejus, desde que se valha de elementos contidos na sentença condenatória e não agrave a situação do réu (HC 374.006/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/11/2016, DJe 18/11/2016; HC 349015/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2016).
+Logo, o Tribunal estadual, ao exercer sua soberania para dizer o direito, pode, em recurso exclusivo da defesa, manter a pena aplicada ao réu com base em elementos diversos do que os valorados pelo juiz sentenciante, desde que seja respeitada a imputação deduzida pelo órgão de acusação.
+Quanto ao pedido de reconhecimento do tráfico privilegiado, também, não assiste razão à defesa.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+In casu, observa-se que as instâncias ordinárias não reconheceram a minorante, por entenderem que, além da apreensão de 390,9kg de maconha, o modus operandi do delito revela que o réu estava inserido em organização criminosa.
+O Tribunal de origem ressaltou que "além da grande quantidade de droga apreendida, o relatório de extração dos dados de aparelho celular e as circunstâncias do caso demonstram não ser o primeiro transporte de drogas pelo apelante." (e-STJ, fl. 44) Desse modo, assentado pelas instâncias antecedentes, soberanas na análise dos fatos, que o paciente é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+ ..
+Saliente-se, que não há que se falar em bis in idem na hipótese, pois há nos autos outros elementos que evidenciam a habitualidade delitiva do paciente no tráfico de drogas além da quantidade do entorpecente apreendido. Nesse sentido: (AgRg no HC 589.121/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021; AgRg no REsp 1879829/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+O pedido de alteração do regime prisional, também, não merece acolhimento.
+Embora o paciente seja primário e a pena tenha sido estabelecida em patamar inferior a 8 anos, as instâncias ordinárias justificaram a escolha do regime inicial fechado, com fundamento nas circunstâncias concretas do delito - especialmente a quantidade de drogas apreendidas (390,9kg de maconha) que foi inclusive valorada na primeira fase da dosimetria, conforme autoriza o art. 33, §2º e 3º, III, "a", do CP.
+A seguir os julgados que respaldam esse entendimento:
+ .. ." (e-STJ, fls. 70-72)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
