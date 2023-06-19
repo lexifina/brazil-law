@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LCC EMPREENDIMENTOS E CONSTRUCAO LTDA. contra decisão monocrática do Ministro Paulo de Tarso Sanseverino, na qual negou provimento ao agravo em recurso especial (fls. 310-315).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 149):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. DECISÃO DE INCLUSÃO DE PRESTAÇÕES VENCIDAS AO LONGO DO TRÂMITE PROCESSUAL. CIÊNCIA DO EXECUTADO. TRANSCURSO DE PRAZO SEM MANIFESTAÇÃO. PRECLUSÃO. LAUDO PERICIAL. IMPUGNAÇÃO. REJEIÇÃO. HOMOLOGAÇÃO. ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. A ausência de impugnação tempestiva acerca da decisão que deferiu a inclusão de parcelas vencidas no escopo da ação de execução configura preclusão consumativa, nos termos do artigo 507, do Código de Processo Civil, não podendo a matéria ser rediscutida nesta oportunidade. Não há nulidade na decisão que examina, de forma concisa, o objeto da demanda, respeitado o disposto no artigo 93, inciso IX, da Constituição Federal, o qual exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas apresentadas pelas partes. Com o julgamento de mérito do agravo de instrumento, fica prejudicado o agravo interno interposto contra a decisão liminar.
+Sem embargos de declaração.
+Alega a agravante que (fls. 326-327):
+ ..  uma vez que a executada/recorrente se manifestou sobre os cálculos, na data de 03/02/2020 (id 55211823) - conforme apontado no v. Acórdão, FOI CLARAMENTE TEMPESTIVA A MANIFESTAÇÃO, não havendo que se falar em preclusão, tal como erroneamente apontado pelo Egrégio TJDFT.
+29-Trata-se, portanto, de claro e evidente error in procedendo (violação aos arts. 278 e 507 do CPC/2015) que não pode chancelado por essa Colenda Corte de Justiça, mormente por suposta impossibilidade de revisão de fatos e provas, pois, na verdade, trata-se de evidente nulidade processual do v. Acórdão, impassível de convalidação, cujo reconhecimento, por essa Corte de Justiça, não encontra óbice na alegada súmula7/STJ  .. .
+Aduz, ainda, que deve ser reformada a decisão recorrida para que seja dado provimento ao recurso especial, com a consequente cassação do acórdão recorrido por error in procedendo, a fim de que se determine o retorno dos autor à origem para novo julgamento (fl. 327).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada, instado a manifestar-se, apresentou contrarrazões (fls. 332-335).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. PRECLUSÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Na origem, cuida-se de agravo de instrumento interposto contra decisão que, nos autos de ação de execução, homologou laudo pericial e determinou a alienação de bem imóvel por leilão judicial.
+2. O agravo em recurso especial não foi provido com fundamento na ausência de fundamentação deficiente e na incidência da Súmula n. 7/STJ.
+3. No caso, a recorrente não apresentou fundamentação suficiente para alterar a decisão agravada.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo de instrumento interposto por LCC EMPREENDIMENTOS E CONSTRUCAO LTDA. contra decisão que, nos autos de ação de execução movida pela COMPANHIA IMOBILIÁRIA DE BRASÍLIA TERRACAP, homologou laudo pericial e determinou a alienação de bem imóvel por leilão judicial.
+Quando do julgamento do agravo de instrumento, o Tribunal de origem negou-lhe provimento, por entender que a decisão agravada está devidamente fundamentada (fls. 148-157), o que ensejou a interposição de recurso especial.
+O Tribunal de origem inadmitiu o recurso especial com fundamento na ausência de prequestionamento do art. 505 do CPC, na incidência da Súmula n. 7/STJ quanto aos arts. 278 e 507 do CPC e na ausência de violação dos arts. 9º, 10, 489, § 1º, incisos II e IV, e 1.022, do CPC (fls. 235-237).
+O Ministro Paulo de Tarso Sanseverino conheceu do agravo em recurso especial para negar-lhe provimento, tendo em vista o óbice da Súmula n. 7/STJ e a ausência de negativa de prestação jurisdicional (fls. 310-315), ensejando a interposição do presente agravo interno.
+A irresignação recursal não merece prosperar.
+De início, inexiste vício de deficiência de fundamentação, visto que o Tribunal de origem efetivamente enfrentou as impugnações ao laudo suscitadas pela agravante. E, a propósito do contexto recursal, destacou a origem (fls. 155-156):
+Nesse aspecto, na origem, a agravante apresentou petição de impugnação ao laudo (ID 65502786), refutando: (i) o método evolutivo escolhido pelo perito para avaliação do imóvel; (ii) o valor atribuído ao bem, pois utilizou como parâmetro imóveis residenciais, desconsiderando que o terreno em questão é comercial/institucional e; (iii) a composição do custo das benfeitorias.
+Acerca dos pontos de insurgência da executada/agravante, houve expressa dicção do perito judicial, mediante elaboração de estudo complementar (ID 65773921 do processo de origem).
+Adiante, foi proferida a decisão que homologou o laudo pericial, na qual constou o seguinte (ID 67175225):
+ ..
+Apesar de as partes terem apresentado impugnações, ID 62451342 e 65773921, verifica-se que o perito judicial ofereceu esclarecimentos quanto às divergências, conforme laudos complementares, ID 64337861 e 65773921.
+Dessa forma, nota-se que tanto o laudo pericial inicialmente oferecido, como os complementares foram confeccionados de maneira fundamentada e dentro das normas legais.
+1 _ Assim, homologo o laudo pericial, ID 60932401
+ ..
+Opostos embargos de declaração, o Juiz da causa se pronunciou, consignando que (ID 70949081 do processo de origem):
+No que toca a avaliação do imóvel, finalmente, o laudo pericial já foi homologado. O senhor Perito indicou a contento a metodologia de cálculo, a aplicação da NBR 146653-2/2011 e modelos matemáticos de correlação estatística, tomando como base 13 amostras de mercado. Assim, a impugnação ventilada pelo requerido não é hábil a infirmar as bem lançadas conclusões do Senhor Perito.
+A agravante alega a ausência de fundamentação na decisão agravada, em relação à rejeição dos argumentos expostos na impugnação, que seriam hábeis a desqualificar o laudo apresentado, uma vez que teria demonstrado que o perito ignorou a prova apresentada quanto ao valor de mercado do terreno em comparação com imóveis de mesmas características.
+Entretanto, conforme se verifica dos trechos transcritos, o Magistrado apreciou e fundamentou a decisão de homologar o laudo, sobretudo diante dos esclarecimentos prestados pelo Expert acerca do método utilizado para avaliação do terreno, que convém aqui destacar (ID 65773921 do processo de origem):
+ ..
+Evidentemente, o fato de não ter havido pronunciamento acerca de todas as alegações da agravante não caracteriza nulidade, de certo que o julgador somente deve enfrentar as questões capazes de infirmar a conclusão adotada.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1/9/2022). No mesmo sentido:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021. (EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+Quanto ao mérito, da análise das razões recursais, percebe-se que a agravante reforça a impossibilidade de provimento do agravo em recurso especial, pois para evidenciar pretenso desacerto em relação ao reconhecimento da preclusão, apresenta excertos de decisões proferidas no curso do processo, estampando estar-se diante da necessidade de uma reavaliação do acervo fático-probatório.
+Ademais, a agravante reforça que o juízo a quo não teria apreciado peças processuais, conforme trecho do agravo interno (fl. 320):
+8 - Ocorre, porém, que o referido petitório não foi apreciado pelo douto Juízo e, ato contínuo, foi proferida a r. decisão (id 67175225) homologando o laudo pericial posto no id 60932401, que estabeleceu o valor do imóvel (a despeito das impugnações das partes), determinando, ainda, a designação de data para leilão do bem objeto da lide. Eis os termos da r. decisão, que foi objeto dos Embargos de Declaração postos no id 679209051  ..
+Percebe-se que as conclusões a que chegou o Tribunal de origem quanto à preclusão decorreram da análise de todo o acervo probatório dos autos, conforme trechos do aresto impugnado (fl. 153):
+Tendo em mente o teor dos citados dispositivos, verifica-se que a discussão estabelecida pela agravante, acerca da inclusão de parcelas vencidas no escopo na ação de execução que tramita na origem, resta absolutamente preclusa.
+É que, compulsando os autos, infere-se que, no dia 10/10/2019, a Terracap peticionou na ação de execução, informando que, vencida a última parcela do contrato firmado entre as partes, consolidou-se a inadimplência da agravante/devedora em relação à totalidade das 120 prestações pactuadas, razão pela qual pleiteou a inclusão, na execução, das parcelas que venceram ao longo da tramitação processual, ocasião em que também juntou a planilha atualizada de débitos (ID 46885491 dos autos de origem).
+Em seguida, foi proferida a decisão de ID 50897784, no dia 28/11/2019, pela qual o Magistrado da causa, nos termos do artigo 323, do Código de Processo Civil, deferiu o pedido da credora, para inclusão das parcelas que venceram durante o curso da ação judicial.
+A agravante teve ciência da aludida decisão no dia 04/12/2019 e, após esta data, manifestou-se nos autos em duas oportunidades, sem nada falar a respeito daquela decisão (IDs 51879144 e 52471916, dos autos de origem).
+Somente em 03/02/2019 a agravante compareceu aos autos, impugnando a inclusão daquelas parcelas vencidas no escopo da execução (ID 55211823, do processo de origem).
+Notadamente, naquele momento, a oportunidade de manifestação da agravante em relação à decisão de ID 50897784 já se encontrava totalmente preclusa, de certo que, apesar de intimada do seu teor, a devedora deixou transcorrer o prazo recursal, sem a interposição de recurso.
+Portanto, modificar o acórdão recorrido nos moldes pretendidos pela recorrente, no sentido de afastar a preclusão, dependeria do reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, conforme a Súmula n. 7/STJ. Confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. MINISTÉRIO PÚBLICO. MANIFESTAÇÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. NULIDADE DE ATO PROCESSUAL. DEMONSTRAÇÃO DE PREJUÍZO. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso concreto, o reconhecimento da preclusão se deu após exame do contexto fático-probatório dos autos. Alterar esse entendimento demandaria reexame de fatos e provas, o que é incabível no especial.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.048.678/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023, grifo meu.)
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 60 DO RITJAM. ANÁLISE. INVIABILIDADE. SÚMULA N.º 518 DO STJ. COMPETÊNCIA RELATIVA. ALEGAÇÃO TARDIA DE PREVENÇÃO. PRECLUSÃO. OCORRÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. VERIFICAÇÃO. INVIABILIDADE. SÚMULA N.º 7 DO  ..
+4. A reanálise do entendimento de que ocorrida a preclusão da pretensão, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.183.183/AM, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023, grifo meu.)
+Diante da ausência de argumentos suficientes para a reforma do julgado, prevalece o entendimento firmado na decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
