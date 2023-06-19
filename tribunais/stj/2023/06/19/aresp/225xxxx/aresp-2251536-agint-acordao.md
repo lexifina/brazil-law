@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por São Francisco Sistemas de Saúde Sociedade Empresária Ltda. contra decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, por ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial (e-STJ, fls. 451-453).
+Em seus argumentos, a agravante alega a impossibilidade de fornecimento de medicamentos off-label; a impossibilidade de cobertura para tratamentos considerados experimentais; a taxatividade do rol da ANS; e o risco do desequilíbrio econômico-financeiro para, ao final, pedir o conhecimento e provimento do agravo interno (e-STJ, fls. 455-471).
+Impugnação apresentada às fls. 475-488 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO PROFERIDA PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Incumbe à parte recorrente, em agravo interno, demonstrar o equívoco na subsunção realizada pela Presidência do Superior Tribunal de Justiça, indicando de forma clara e objetiva em qual trecho da peça do agravo em recurso especial foi impugnado o fundamento do Tribunal a quo.
+3. Agravo interno não conhecido.
+VOTO
+A decisão da Presidência desta Corte não conheceu do agravo interposto, sob o argumento de que a agravante deixou de impugnar especificamente as Súmulas 5/STJ e 7/STJ e o não cabimento de recurso especial por ofensa a norma diversa de tratado ou lei federal, de acordo com os trechos abaixo reproduzidos (e-STJ, fls. 451-453 - sem grifo no original):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 282/STF, ausência de afronta a dispositivo legal, Súmula 5/STJ, Súmula 7/STJ e não cabimento de REsp por ofensa a norma diversa de tratado ou lei federal.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 5/STJ, Súmula 7/STJ e não cabimento de REsp por ofensa a norma diversa de tratado ou lei federal.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Veja-se que, no âmbito de agravo interno, a recorrente padeceu na dialeticidade recursal.
+Incumbe à parte recorrente, em agravo interno, demonstrar o equívoco na subsunção realizada pela Presidência do Superior Tribunal de Justiça, indicando de forma clara e objetiva em quais os trechos da peça do agravo em recurso especial foi impugnado o fundamento do Tribunal a quo.
+Verifica-se da leitura da petição de agravo interno que a recorrente não se ateve a demonstrar um possível equívoco da decisão da Presidência desta Corte. Na verdade, apenas reforça os argumentos anteriormente trazidos de impossibilidade de fornecimento de medicamentos off-label; a impossibilidade de cobertura para tratamentos considerados experimentais; a taxatividade do rol da ANS; e o risco do desequilíbrio econômico-financeiro, que não guardam nenhuma relação com a decisão da Presidência do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA LAVRA DESTE RELATOR QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. "Mediante a interpretação sistemática dos artigos 932, inciso IV, e 1.042, § 5º, do CPC/2015, depreende-se não existirem óbices para que o relator julgue conjuntamente, de forma monocrática, o agravo e o recurso especial quando esses sejam contrários a jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. 1.1. Não se pode perder de vista, ainda, que essa orientação não ocasiona prejuízo às partes, porquanto resguardada a possibilidade de interposição do agravo interno objetivando forçar o exame da matéria pelo Colegiado competente". (AgInt no AREsp 767.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+2. No mais, inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 1.299.735/SP, Relator o Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/9/2018, DJe 17/9/2018)
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte recorrente, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão recorrida, o que, na hipótese dos autos, não foi atendido.
+Ante o exposto, não conheço do agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
