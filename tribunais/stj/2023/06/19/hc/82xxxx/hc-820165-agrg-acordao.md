@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+JEANERSON OLIVEIRA SANTOS e MARILENE DOS SANTOS interpõem agravo regimental contra a decisão que indeferiu liminarmente o writ, por deficiência de instrução.
+A defesa sustenta que "resta patente que a presente ação mandamental resta devidamente instruída com os documentos essênciais (sic) à aferição da flagrante ilegalidade da decisão que decretou a preventiva, quais seja, a decisão de primeiro grau que decretou a preventiva e a decisão da corte de origem que negou a liminar".
+Pugna "seja o presente Agravo Interno conhecido e provido, a fim de que concedido a liminar do Habeas Corpus".
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PEDIDO DE SUPERAÇÃO DA SÚMULA N. 691 DO STF. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Pelo contrário, ao invés de juntar o auto de prisão em flagrante, o que poderia ensejar a reconsideração da decisão ora impugnada, preferiu limitar-se a sustentar, neste agravo, que o o referido documento não é necessário.
+3. A lealdade processual é dever das partes, a quem se impõe conduta compatível com o dever de cooperação e com a boa-fé durante a prática de atos postulatórios. Assim, espera-se que a defesa, que suporta o ônus de bem instruir essa ação mandamental que é o habeas corpus, ofereça todos os elementos necessários para que a autoridade judicial possa contextualizar devidamente o alegado constrangimento ilegal, sem omissões que possam comprometer a justa e correta prestação jurisdicional.
+4. O recurso - cujo pedido cinge-se ao afastamento do indeferimento do direito de recorrer em liberdade - não foi instruído com cópia do autos de prisão em flagrante, o que inviabiliza o exame da ilegalidade suscitada nestes autos.
+5. Agravo regimental não provido.
+VOTO
+A decisão ora impugnada, ao verificar que este mandamus - em que a defesa pleiteia a superação da Súmula n. 691 do STF - foi deficientemente instruído, pela ausência de cópia do auto de prisão em flagrante, indeferiu liminarmente o writ.
+A defesa, ao invés de juntar o auto de prisão em flagrante, o que poderia ensejar a reconsideração da decisão ora impugnada, preferiu limitar-se a sustentar, neste agravo, que o referido documento não é necessário.
+De fato, trata-se de recurso contra denegação de writ cujo objeto é o indeferimento do direito de recorrer em liberdade, sendo forçoso salientar que a partir da documentação dos autos revela-se inviável compreender as peculiaridades que cercaram a prisão dos pacientes, sequer a quantidade de droga apreendida (ou se houve eventual apreensão).
+No caso, forçoso relembrar qu e a lealdade processual é um dever das partes, a quem se impõe conduta proba e reta em todas as suas intervenções no processo, pautando-se na boa-fé durante a prática de atos, vedada, por isso mesmo, a utilização de omissões relevantes para proveito próprio ou alheio.
+A confiança, elemento central do princípio da boa-fé processual, impõe a todos os sujeitos do processo posturas condizentes com o dever geral de cooperação, que, na espécie, traduz-se na expectativa de que a defesa, que suporta o ônus de bem instruir essa ação mandamental que é o habeas corpus, ofereça todos os elementos necessários para que a autoridade judicial possa contextualizar devidamente o alegado constrangimento ilegal. Daí porque não deve ser a defesa a decidir qual documento não precisa ser juntado ao processo, após essa relatoria salientar a importância do decreto preventivo.
+À vista do exposto, nego provimento ao agravo regimental.
