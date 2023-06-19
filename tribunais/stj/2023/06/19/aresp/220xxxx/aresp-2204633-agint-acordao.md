@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial em virtude do óbice da Súmula 284/STF, diante da ausência de indicação de dispositivo federal violado (e-STJ, fls. 485/486).
+O recurso especial foi interposto em face de acórdão assim ementado (e-STJ, fl. 233):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. DESCARACTERIZAÇÃO DA MORA. COMPENSAÇÃO E/OU REPETIÇÃO DE VALORES.
+REVISÃO DE CONTRATOS FINDOS. É cabível a revisão de contratos extintos pelo pagamento, novação e/ou renegociação. Súmula 286 do STJ.
+JUROS REMUNERATÓRIOS. A cobrança de juros remuneratórios em valor acima de 20% da taxa média divulgada pelo BACEN configura abusividade a autorizar a limitação do encargo. Abusividade reconhecida.
+DESCARACTERIZAÇÃO DA MORA. A mora só fica descaracterizada quando há cobrança de encargos abusivos durante o período da normalidade contratual, sendo inafastável pela mera propositura da ação revisional. Reconhecida a abusividade de encargos da normalidade, resta afastada a mora.
+REPETIÇÃO E COMPENSAÇÃO DE VALORES. Reconhecida a abusividade de encargos contratuais, é possível a restituição de valores na forma simples, mediante prévia compensação dos valores devidos.
+PRESCRIÇÃO. Inocorrência. Incidência do prazo prescricional de dez anos, previsto no artigo 205 do CC, cujo termo inicial para a contagem do lapso temporal aplicável é a data de vencimento da última parcela do contrato.
+APELO DESPROVIDO.
+A parte agravante, nas razões do agravo interno, sustenta que a fundamentação do recurso especial permite a total compreensão da controvérsia, o que afasta a incidência da Súmula 284 do STF.
+Afirma ainda a existência de precedente da Corte especial que deve ser aplicado ao presente caso, no sentido de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso (alíneas a, b e c do inciso III do artigo 105) implica o seu não-conhecimento pela incidência da Súmula 284 do STF, salvo se, em caráter excepcional, as razões recursais conseguem demonstrar de forma inequívoca a hipótese ou cabimento" (e-STJ, fl. 493).
+Alega que "o cerne da discussão do presente feito diz respeito à aplicação de presunção de abusividade na contratação de empréstimo bancário diante de mera comparação entre taxas, olvidando-se de analisar os requisitos impostos pelo artigo 51, IV e §1º, III do Código de Defesa do Consumidor, que exige a avaliação da natureza do caso, do conteúdo, do interesse das partes, entre outras peculiaridades para validade de abusividade contratual"" (e-STJ, fls. 493/494).
+Argumenta que, "muito embora o instrumento recursal não tenha feito menção expressa ao artigo de lei tido por violado, este delimita a controvérsia sobre a discussão em torno do artigo 51, IV e §1º, III do Código de Defesa do Consumidor, não havendo que se falar em mácula ao contraditório ou ampla defesa, uma vez conferida admissibilidade ao recurso especial intentado" (e-STJ, fl. 495)
+Intimada, a parte agravada não apresentou impugnação (e-STJ, fl. 498).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE CONTRATO. JUROS REMUNERATÓRIOS. FALTA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AGRAVO NÃO PROVIDO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+2. Ainda que superado o óbice da Súmula 284/STF, o recuro especial não merece conhecimento em razão da incidência das Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente recurso não se prestam a modificar os fundamentos da decisão agravada.
+No caso em exame, a Presidência desta Corte não conheceu do recurso especial em virtude do óbice da Súmula 284 do STF diante da ausência de indicação do dispositivo federal violado.
+De fato, da leitura do recurso especial, não se verifica a indicação de dispositivo da legislação infraconstitucional que seria objeto de violação por parte do Tribunal local.
+A parte agravante menciona, nas razões do seu agravo interno, precedente oriundo desta Corte especial que, no julgamento dos EAREsp n. 1.672.966/MG, firmou o entendimento no sentido de que " a  falta de indicação expressa da norma constitucional que autoriza a interposição dos recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (julgado em 20/4/2022, Rel. Ministra LAURITA VAZ).
+Ocorre que tal precedente diz respeito à ausência de indicação de norma constitucional que autoriza a interposição de recurso especial, o que não se aplica à hipótese do caso.
+Nos termos do entendimento desta Corte, os recursos interpostos tanto pela alínea "a" quanto pela alínea "c" do art. 105, III, da Constituição Federal exigem a indicação do dispositivo legal violado ou ao qual foi atribuída interpretação divergente. Nesse sentido:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE. AUSÊNCIA DE INFORMAÇÃO AOS BENEFICIÁRIOS. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE INDICAÇÃO DOS ARTIGOS DE LEI SUPOSTAMENTE VIOLADOS. SÚMULA N. 284/STF. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. (..)
+4. Nos termos da jurisprudência do STJ, é imprescindível que no recurso especial sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula n. 284 do STF (AgInt no AREsp 1.621.098/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2022, DJe 18/3/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.965.721/RJ, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 9/5/2022, DJe de 16/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO PROCESSUAL CIVIL. 1. VIOLAÇÃO AOS ARTS. 369 E 477, § 1º, DO CPC/2015. RAZÕES DISSOCIADAS. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI. SÚMULA 284/STF. 3. AGRAVO INTERNO IMPROVIDO.
+1. Quanto à alegada violação aos arts. 369 e 477, § 1º, CPC/2015, ratifica-se a aplicação do óbice da Súmula n. 284 do STF, tendo em vista que os agravantes não relacionaram a contento a tese recursal com a ofensa aos dispositivos mencionados no recurso.
+2. É firme o entendimento de que a ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea c do inciso III do art. 105 da Constituição Federal.
+Incidência, por analogia, da Súmula 284 do STF.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.552.950/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/5/2020, DJe de 8/5/2020.)
+Dessa forma, diante de toda a argumentação ora apresentada, é de rigor a incidência do enunciado sumular n. 284 do Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, ainda que superado referido óbice, o recurso não merece conhecimento.
+Com relação à alegada divergência jurisprudencial quanto à limitação dos juros remuneratórios em razão da abusividade da taxa pactuada, o Tribunal de origem, com amparo no conjunto fático-probatório dos autos, afirmou existir significativa discrepância entre a taxa média de mercado indicada pelo Banco Central e o índice celebrado entre as partes no contrato em questão. Assim consignou o acórdão recorrido (e-STJ, fl. 228):
+No caso em exame, o contrato revisando nº 3802080561, firmado entre as partes em 02/09/2015 (fl. 1, evento 18, CONTR4, processo de origem), prevê a cobrança de juros remuneratórios no patamar de 4,83% ao mês e 76,23% ao ano, o que se afigura abusivo, já que a tabela do BACEN prevê, para o período, uma taxa anual de 28,12% para a hipótese de crédito pessoal destinado à composição de dívida (série 20746), autorizando a limitação do encargo, já que a taxa contratual excede o limite de tolerância de 20%.
+Em relação ao segundo contrato, acostado na fl. 2, do evento 18, CONTR4), firmado em maio/20, há expressa previsão de juros remuneratórios de 4,68% ao mês e 73,03% ao ano, o que se afigura abusivo, já que a tabela do BACEN prevê, para o período, uma taxa anual de 39,74% para a hipótese de crédito pessoal destinado à composição de dívida (série 20743), autorizando a limitação do encargo, já que a taxa contratual excede o limite de tolerância de 20%.
+Considerando que não houve interposição de recurso quanto às taxas aplicadas, mas verificada a abusividade dos juros remuneratórios, resta desprovido o apelo, aplicando-se as taxas reconhecidas na sentença.
+Na espécie, alterar a conclusão da Corte local, no sentido de que os juros remuneratórios são abusivos quando comparados à taxa de mercado, demandaria reexame de provas, bem como a interpretação de cláusulas contratuais, providência vedada nos termos das Súmulas 5 e 7/STJ. Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO PARA AFASTAR A CAPITALIZAÇÃO DE JUROS NÃO CONTRATADA - INSURGÊNCIA RECURSAL DA AUTORA.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. A Súmula 284/STF deve ser afastada, pois os dispositivos legais citados - arts. 47 do CDC, 112 e 113 do CC/02 - possuem carga normativa apta para permitir a análise da questão atinente à limitação dos juros à taxa média de mercado.
+2.1 Para acolher a pretensão de limitar a taxa de juros remuneratórios à taxa média de mercado, ante a alegada abusividade na pactuação de taxa variável, assim como a alegação acerca da devolução dos lançamentos indevidos, seria necessário interpretar as cláusulas contratuais e reexaminar o acervo fático-probatório dos autos, providências vedadas na via eleita, a teor dos óbices das Súmulas 5 e 7 do STJ.
+3. Conforme entendimento do STJ " ..  não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe de 13/9/2017)"
+(AgInt no AREsp 1609768/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/05/2020, DJe 04/06/2020).
+Assim, as razões do agravo interno não apresentaram argumentos aptos a infirmar os fundamentos da decisão agravada, que deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
