@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por FERNANDA CRISTINA FREIRE contra acórdão assim ementado (fls. 221/222):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CANCELAMENTO DA AUDIÊNCIA DE CONCILIAÇÃO. SUBSISTÊNCIA DE FUNDAMENTO BASTANTE POR SI SÓ PARA MANTER INCÓLUME A DECISÃO RECORRIDA. PEDIDO DE APLICAÇÃO DE EFEITO SUSPENSIVO AO FEITO. SÚMULA 7/STJ.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. "A atribuição de eficácia suspensiva ou a antecipação dos efeitos de recurso especial é medida excepcional, que somente se justifica diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos. No caso concreto, o acolhimento da tese jurídica deduzida no recurso especial exige o reexame de elementos fático-probatórios dos autos, o que é vedado na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ" (AgInt no TP 2.631/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020). AGRAVO A QUE SE NEGA PROVIMENTO.
+Em suas razões recursais a parte alega que houve omissão quanto a análise do polo passivo da demanda, pois "por se tratar de correição parcial cível, quem deve figurar como Agravado/Embargado é a 15ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba-Pr" (fl. 981), além de omissão quanto ao julgamento de matéria de ordem pública.
+Impugnação, fls. 239/240.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER VÍCIOS NO JULGADO. REJULGAMENTO. IMPOSSIBILIDADE.
+Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos de declaração não devem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Nas razões do declaratório, a parte alega que existe omissão na ausência de julgamento de matéria de ordem pública por esta Corte.
+Inicialmente, no que concerne a alegação de necessidade de correção do polo passivo da demanda, é de se observar que a jurisprudência desta Corte é uníssona no sentido de ser incabível a análise de tese não exposta nas razões do especial e invocada apenas em recursos posteriores, pois configura indevida inovação recursal.
+No mais, reanalisando os autos observo que quanto à alegação de violação dos arts. 231, §1º, 334, 335, I e III, do CPC, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula n. 283/STF. Dado que o acórdão recorrido foi claro ao consignar que "por se tratar de uma pluralidade de réus (seis) a demora na citação, aliada ao fato de que não estão sendo realizadas audiências presenciais devido às medidas de contenção da Covid-19, tornaria muito difícil o procedimento do ato processual por meios virtuais. O processo seria ainda mais demorado, uma vez que a realização do ato somente poderia ocorrer após a citação de todos os réus, o que, a toda evidência, está levando tempo e retardando o andamento processual, sem justificativa plausível" - fl. 59.
+Entretanto, a recorrente argumentou, tão somente, o malferimento dos referidos artigos, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, qual seja: as peculiaridades do caso diante da pandemia de COVID19. Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Advirta-se quanto ao disposto no art. 1.026, § 3º, do CPC/2015.
+É como penso. É como voto.
