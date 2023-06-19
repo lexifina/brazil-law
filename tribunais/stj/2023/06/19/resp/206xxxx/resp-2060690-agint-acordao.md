@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por KALLAS VENDAS LTDA e SOFFIO EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão unipessoal que não conheceu do recurso especial que interpuseram.
+Ação: rescisão contratual cumulada com devolução de valores pagos, ajuizada por HENRIQUE JORGE ARIMATEIRA DO NASCIMENTO, em desfavor das agravantes, tendo em vista compromisso de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos para i) declarar resilido o contrato firmado entre as partes; e ii) condenar as agravantes à restituição de 75% (setenta e cinco por cento) dos valores pagos pelo recorrido, excluindo-se o valor pago a título de comissão de corretagem.
+Acórdão: negou provimento às apelações interpostas pelas agravantes e pelo agravado, nos termos da seguinte ementa:
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA RESOLUÇÃO MOTIVADA PELO ADQUIRENTE DEVOLUÇÃO DOS VALORES PAGOS, COM RETENÇÃO PROCEDÊNCIA INCONFORMISMO DAS PARTES - REJEIÇÃO Legalidade da transferência ao consumidor da cobrança da corretagem quando previamente informado do preço total da venda com destaque para a parcela da comissão Comissão devida pela intermediação útil no negócio Não configurado qualquer situação de prejuízo decorrente de má prestação do serviço de corretagem, nos termos do art. 723 do CC Distrato solicitado pelo adquirente em razão de sua dificuldade financeira para quitar as prestações Na hipótese de arrependimento de alguma das partes, a comissão de corretagem é devida Art. 725 do CC - Abusividade da incidência da cláusula penal que resulta em descontos excessivos para o caso de resolução contratual por culpa do adquirente - Contrato firmado sob a égide da Lei 13.786/2018, mas que não observa os pressupostos nela estabelecidos - Nova regra que impõe patamar máximo de retenção, permitindo a fixação em percentual inferior ao previsto, ainda que se trate de incorporação imobiliária sob regime de afetação Possibilidade de redução equitativa da cláusula penal manifestamente excessiva - Sentença mantida NEGARAM PROVIMENTO AOS RECURSOS (e-STJ fl. 311).
+Recurso especial: apontam a violação dos arts. 394, 395, 396, 472 e 473 do CC/02. Pugnam pela aplicação imediata da Lei 13.786/18, que dispõe, em seu art. 67-A, que, nos casos em que a construtora/incorporadora está submetida ao regime do patrimônio de afetação, deve haver retenção de 50% (cinquenta por cento) dos valores pagos pelo adquirente, bem como dos valores pagos a título de comissão de corretagem.
+Decisão monocrática: não conheceu do recurso especial interposto pelas agravantes ante a incidência das Súmulas 283 e 284/STF.
+Agravo interno: sustentam as agravantes que, no recurso especial, demonstraram em que termos o acórdão recorrido teria importado na negativa de vigência à lei federal. Aduzem que não pretendem o reexame fático-probatórios dos autos. Por fim, insurgem-se contra a aplicação da Súmula 283/STF, uma vez que a matéria controvertida - restituição dos valores decorrentes da rescisão do contrato firmado sob a vigência da Lei 13.786/18 - foi devidamente exposta na petição, atendendo ao requisito do prequestionamento.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação de rescisão contratual cumulada com devolução de valores pagos, tendo em vista compromisso de compra e venda de imóvel firmado entre as partes.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A decisão agravada não conheceu do recurso especial interposto pelas agravantes ante a incidência das Súmulas 283 e 284/STF.
+Pela análise das razões recursais apresentadas, verifica-se que as agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugnam, consistentemente, os fundamentos da decisão ora agravada relativos à incidência da Súmula 283/STF, aplicada em razão da ausência de impugnação específica aos argumentos trazidos pela Corte local referentes à necessidade de adequação da redação das cláusulas contratuais, nos termos da nova lei (Lei 13.786/18), e à ausência de comprovação de que efetivamente houve a afetação do patrimônio na realização do empreendimento.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
