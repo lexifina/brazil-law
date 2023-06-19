@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 1.840-1.843, por meio da qual neguei provimento ao agravo em recurso especial interposto pela parte ora recorrente.
+A parte agravante sustenta que não incide a Súmula 7/STJ, no caso na hipótese dos autos. Alega que o dissídio jurisprudencial foi demonstrado no caso. Argumenta que "Ocorre, entretanto, que não há discussão de matéria de fatos ou provas, resumindo o empasse à possibilidade de início do Cumprimento de Sentença do valor que a própria Agravada entende incontroverso. Nesta toada, vejamos a petição da Agravada (fls. 1645/1655 dos autos da Liquidação de Sentença), em que admite a existência de valor incontroverso" (fl. 1.849).
+Aponta que, "Excelência, a possibilidade do reconhecimento de valor incontroverso, apto ao início de Cumprimento de Sentença, é evidente, principalmente quando há manifestação da parte confirmando a existência deste saldo. Isso porque não há mais qualquer debate acerca da quantia, tendo esta sido dada como incontestavelmente devida. Nesse sentido, a situação aqui existente é análoga ao levantamento de valor incontroverso nos autos de Cumprimento de Sentença. Isso porque a discussão passa a tangenciar exclusivamente questões relacionadas ao excedente" (fl. 1.850).
+Não foi apresentada impugnação pela parte agravada (fl. 1.861 e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O inconformismo não merece prosperar.
+Verifico que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão adotada na decisão impugnada, razão pela qual o presente recurso não merece provimento.
+Extrai-se que no acórdão recorrido ficou estabelecido o seguinte (fls. 1.742-1.743):
+Depreende-se dos autos que, na petição de emenda à inicial, doc. 983, a Agravada requereu a homologação dos cálculos apresentados que indicam que a Recorrida é credora da importância de R $2.380.483,79 em razão da sentença proferida nos autos da ação de indenização, e é devedora da quantia de R$3.208.554,07, em decorrência da ação de cobrança manejada pela Agravante em seu desfavor.
+Não obstante a manifestação da Agravada indicando os valores que entende serem devidos, o processo se encontra em fase de liquidação de sentença pelo procedimento comum, em que as partes controvertem a respeito dos danos materiais indica dos pela Recorrida.
+Ressalte-se que, em impugnação, a Agravada sustenta a ausência de valor incontroverso, posto que ainda será apurado pelo presente procedimento.
+Não sendo o caso de condenação em quantia certa, posto que ainda pendente de apuração em liquidação, e inexistindo decisão sobre parcela incontroversa, não é possível o cumprimento de sentença quanto à quantia apontada pela Agravante.
+Conforme consignado no acórdão recorrido, o Tribunal de origem, após a análise dos elementos fático-probatórios dos autos, concluiu que, "Estando o valor do débito pendente de verificação através de liquidação pelo procedimento comum, não há quantia incontroversa a ser reconhecida, sendo incabível o cumprimento de sentença da referida importância" (fl. 1.740).
+Com efeito, alterar o entendimento do acórdão recorrido sobre os cálculos realizados demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA.ADEQUAÇÃO DOS CÁLCULOS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE.REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Para alterar a conclusão das instâncias de origem, de que os cálculos homologados estão de acordo com o determinado no título executivo, seria imprescindível exceder os fundamentos do acórdão atacado e adentrar no exame das provas, o que é vedado em recurso especial, a teor da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+(AgInt no REsp 1597130/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/02/2017, DJe 01/03/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Segundo a jurisprudência do STJ, há "limitação da cognição na fase de liquidação de sentença à apuração do quantum debeatur, não sendo cabível diferir a essa fase processual verificação da própria existência do direito" (REsp n. 1.541.031/RJ, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/5/2016, DJe 5/9/2016).
+2. "O juízo de liquidação pode interpretar o título formado na fase de conhecimento, com o escopo de liquidá-lo, extraindo-se o sentido e alcance do comando sentencial mediante integração de seu dispositivo com a sua fundamentação, mas, nessa operação, nada pode acrescer ou retirar, devendo apenas aclarar o exato alcance da tutela antes prestada" (AgInt no REsp n. 1.599.412/BA, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/12/2016, DJe 24/2/2017).
+3. O Tribunal de origem, após a análise dos elementos fático-probatórios dos autos, concluiu pela anulação da pericia, e elaboração de novo laudo pericial sob o seguinte fundamento: " O acórdão apontou inconsistências nos cálculos realizados, referente à aplicação dos índices de crescimento de mercado, indicando, inclusive que o perito não atendeu aos critérios definidos na sentença, sem apontar explicações adequadas de como chegou aos três fatores explanados, de modo que o cálculo deverá ser refeito, nos termos apontados na decisão recorrida.". Dessa forma, alterar o entendimento do acórdão recorrido sobre a perícia demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.518.576/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/10/2019, DJe de 6/11/2019.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. IMPROCEDÊNCIA DO PEDIDO. CUMPRIMENTO DE SENTENÇA PARA COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. ILIQUIDEZ DO TÍTULO EXECUTIVO AFASTADA PELO TRIBUNAL A QUO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM APELAÇÃO, PELA EXPRESSA INVERSÃO DOS ÔNUS SUCUMBENCIAIS ESTABELECIDOS NA SENTENÇA REFORMADA. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "A melhor interpretação do título executivo judicial se extrai da fundamentação que dá sentido e alcance ao dispositivo do julgado, observados os limites da lide, em conformidade com o pedido formulado no processo. Não viola a coisa julgada a interpretação razoável e possível de ser extraída do título judicial" (AgInt no REsp 1.432.268/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 29/3/2019).
+2. No caso, verifica-se que a interpretação dada pela Corte estadual foi no sentido de dar efetividade ao que expressamente constou do título judicial, conferindo-lhe a melhor interpretação possível, dadas as circunstâncias da causa, não se verificando, na hipótese, violação à coisa julgada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.178/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe de 1/12/2021.)
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que s e funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Nesse sentido, não trazendo a parte recorrente fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
