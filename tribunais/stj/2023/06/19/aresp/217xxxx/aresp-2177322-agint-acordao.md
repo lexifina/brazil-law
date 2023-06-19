@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 448-451 (e-STJ), por meio da qual neguei provimento ao agravo em recurso especial ajuizado pela parte recorrente (fls. 448-451).
+A parte agravante afirma que não se aplicam as Súmulas 5 e 7/STJ e 284/STF, na hipótese. Alega que "Não houveram dúvidas, entretanto, ante as regras de hermenêutica e do princípio da especialidade, que a lei especial prevalece sobre a lei geral, ou seja, havendo um conflito aparente de normas, a norma especifica irá se sobrepor sobre a norma geral" (fl. 456).
+Argumenta que, "No presente caso, propriamente dito, a intenção é que a Lei 6.766/79 (artigo 32-A) seja reconhecida como privilegiada em relação ao Código de Defesa do Consumidor, já que especial" (fl. 459).
+A parte agravada não apresentou contrarrazões (fl. 476 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCURSÃO NA ANÁLISE DE CLÁUSULAS CONTRATUAIS PACTUADAS ENTRE AS PARTES. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. A ausência da devida demonstração de ofensa aos dispositivos legais apontados como violados evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Com efeito, a Corte local, ao julgar a causa, concluiu que (fls. 328-331):
+Pois bem. Inicialmente, não há que se discutir a aplicabilidade ao caso das disposições do Código de Defesa do Consumidor, pois o próprio contrato faz menção ao art. 53 do referido diploma legal na Cláusula XVI, que fala da hipótese de rescisão (mov. 1.21).
+Não pode a ré/apelante, portanto, pretender aplicar ao caso as disposições do Código Civil em detrimento do Código de Defesa do Consumidor, pois o próprio instrumento contratual indica o CDC como legislação aplicável para a hipótese.
+No que diz respeito à Cláusula XVII, fica clara sua inaplicabilidade ao caso, pois não ficou demonstrado que a vendedora tenha cumprido seu dever de interpelar a compradora por Cartório de Títulos e Documentos, formalizando a interpelação "com planilha da dívida, detalhada com o valor do principal, e, mais correção monetária, juros, multa e eventuais encargos contratados", e muito menos que tenha concedido prazo de 15 dias para a devedora purgar a mora.
+Além disso, cumpre destacar que, ao contrário do que defende a apelante, ficou demonstrada a incapacidade da autora de arcar com as parcelas do financiamento, pois encontra-se desempregada (mov. 10.2). Evidente, portanto, a condição de hipossuficiência e vulnerabilidade da autora diante da ré, o que corrobora com a conclusão do juízo de primeiro grau, no sentido de aplicar ao caso a interpretação mais favorável à consumidora.
+De fato, tem-se que as disposições do CDC preponderam sobre a disciplina geral do Código Civil, sendo clara a ordem que de seu art. 53 emana, vedando a retenção integral das parcelas pagas nos contratos de compra e venda de imóveis.
+A partir disso, indispensável que se encontre o equilíbrio nos efeitos financeiros da quebra de contrato, de modo a não resultar em enriquecimento ilícito à adquirente que desiste do financiamento, nem em desproporcional sanção que se reverta em ganho ao alienante.
+Neste ponto, há que se reconhecer o acerto do douto juízo monocrático na apreciação das disposições contratuais, deixando de aplicar a retenção de 10% do valor do a título de despesas administrativas e tributárias, bem como a retenção de 4% a título contrato de despesas de comercialização, posto que não houve qualquer comprovação neste sentido pela ré, e os danos materiais devem ser cabalmente demonstrados, não podendo ser presumidos.
+Também não se justifica a pretensão da apelante de retenção integral do sinal (arras), posto que, no caso em análise, o sinal corresponde a aproximadamente 40% do valor total pago, de modo que sua retenção seria excessivamente onerosa à consumidora.
+Ademais, correta a conclusão sentencial no que diz respeito à aplicação do entendimento mais recente desta Corte e do STJ quanto ao tema, que admite a retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+Nos termos do posicionamento firmado pelo STJ quanto ao tema, o percentual de retenção deve ser arbitrado entre 10% e 25%, devendo o magistrado apurar o percentual que entende justo, de acordo com as circunstâncias do caso concreto.
+(..).
+No caso, considerando-se o já mencionado fato de que a ré/apelante não comprovou quaisquer das despesas (de comercialização, administrativas e tributárias) previstas na Cláusula XVI do contrato, correta a aplicação do percentual mínimo de retenção.
+Também não se justifica o pagamento da condenação de forma parcelada, pois inequívoca a vulnerabilidade da consumidora, que se encontra desempregada, e que vem buscando a devolução de seu investimento desde abril de 2019 (mov. 1.14)
+Por fim, correto o entendimento de que a loteadora não faz jus à indenização pelo período em que a adquirente permaneceu na posse do imóvel.
+Isso porque, de fato, não há notícias de que o lote (sem qualquer edificação) encontrava-se apto à efetiva exploração comercial/residencial, para fins de caracterização do enriquecimento ilícito por parte da autora. (grifos nossos).
+No acórdão proferido em embargos declaratórios, o Colegiado local entendeu que (fl. 375):
+Verifica-se, portanto, que a aplicação ao caso das disposições do CDC estava prevista no próprio instrumento contratual, não podendo a parte se insurgir do fato pretendendo a aplicação de outra legislação quando ela mesma delimitou em contrato a legislação incidente ao caso, e especificamente na hipótese de rescisão.
+Também não se verifica qualquer omissão no que diz respeito à forma de restituição dos valores, pois rejeitada de forma explícita e fundamentada a pretensão de pagamento da condenação de forma parcelada.
+Assim, constato que o Tribunal estadual entendeu que "não houve qualquer comprovação neste sentido pela ré, e os danos materiais devem ser cabalmente demonstrados, não podendo ser presumidos" (fl. 329). A Corte local também considerou que "a ré/apelante não comprovou quaisquer das despesas (de comercialização, administrativas e tributárias) previstas na Cláusula XVI do contrato" (fls. 330-331). Por fim, o Colegiado de origem ainda concluiu que "correto o entendimento de que a loteadora não faz jus à indenização pelo período em que a adquirente permaneceu na posse do imóvel. Isso porque, de fato, não há notícias de que o lote (sem qualquer edificação) encontrava-se apto à efetiva exploração comercial/residencial, para fins de caracterização do enriquecimento ilícito por parte da autora"" (fl. 331).
+Assim, a alteração dessas premissas firmadas pela Corte estadual esbarraria nas vedações de nova incursão nas cláusulas contratuais pactuadas entre as partes e de reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência das Súmulas 5 e 7 desta Corte, no caso.
+Quanto ao pedido de redução do percentual ora arbitrado, a parte recorrente limita-se a requerer tal solicitação, sem, contudo, indicar quais dispositivos legais estariam violados no caso, nem se incumbir de alegar divergência jurisprudencial, o que faz atrair o óbice do enunciado 284 da Súmula do STF, no ponto.
+Dessa forma, não tendo a parte recorrente trazido nenhum fundamento capaz de modificar a decisão agravada, deve ela prevalecer nos termos em que proferida.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
