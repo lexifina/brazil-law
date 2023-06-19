@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+Apelação Cível. Ação de Obrigação de Fazer c/c Cobrança. Direito Administrativo. Policial Militar. Averbação de tempo de aluno aprendiz, com consequente cômputo de triênios. Alegação de supressão posterior dos pagamentos relativos ao tempo averbado. Sentença que declara a prescrição do fundo de direito. Reforma que se impõe. Inocorrência da prescrição de fundo de direito. Incidência, na hipótese, do lapso temporal quinquenal previsto no artigo 1º, do Decreto nº 20.190/32. Aplicação da Súmula n.85 do E. TJRJ. Impossibilidade de adoção da Teoria da Causa Madura e julgamento na forma do art.1.103, I, do CPC. Apreciação pelo Juízo a quo da matéria objeto do pedido que não pode ser suprimida. Necessidade de dilação probatória. Anulação da r. Sentença que se impõe. Afastamento da prescrição. Prosseguimento do feito. Jurisprudência e precedentes citados:0001942-10.2017.8.19.0053 -APELAÇÃO. Des(a). CINTIA SANTAREM CARDINALI -Julgamento: 15/07/2020 -VIGÉSIMA QUARTA CÂMARA CÍVEL0001871-64.2019.8.19.0044 -APELAÇÃO. Des(a). FERNANDO FOCH DE LEMOS ARIGONY DA SILVA -Julgamento: 31/05/2021 -TERCEIRA CÂMARA CÍVEL; 0007292-17.2019.8.19.0050 -APELAÇÃO. Des(a). ALCIDES DA FONSECA NETO - Julgamento: 24/02/2021 VIGÉSIMA QUARTA CÂMARA CÍVEL; 0010122- 30.2020.8.19.0014 -APELACAO / REMESSA NECESSARIA. Des(a). JOÃO BATISTA DAMASCENO -Julgamento: 15/09/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL.
+PROVIMENTO DO RECURSO.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida. Confira-se:
+ ..
+A r. decisão agravada aplicou ao caso concreto o óbice da Súmula 83/STJ.
+Aduziu que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte, no sentido da não ocorrência da prescrição do fundo de direito das ações em que se pleiteia o pagamento dos adicionais por tempo de serviço.
+Ocorre que há julgados mais recentes desta Corte Superior - ou seja, proferidos depois dos acórdãos citados na r. decisão impugnada - com entendimento exatamente na linha do sustentado no recurso especial (ou seja, em sentido contrário ao do acórdão recorrido e da r.
+decisão impugnada).
+ ..
+Trata-se, portanto, de questão exclusivamente jurídica, relativa à correta interpretação do art. 1º do Decreto nº 20.910/1932 em ações que versem sobre a pretensão de restabelecimento do adicional por tempo de serviço reduzido ou suprimido pela Administração Pública em razão de ter sido constatado o cômputo indevido de certo período.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. DIREITO ADMINISTRATIVO. POLICIAL MILITAR. AVERBAÇÃO DE TEMPO DE ALUNO APRENDIZ, COM CONSEQUENTE CÔMPUTO DE TRIÊNIOS. ALEGAÇÃO DE SUPRESSÃO POSTERIOR DOS PAGAMENTOS RELATIVOS AO TEMPO AVERBADO. SENTENÇA QUE DECLARA A PRESCRIÇÃO DO FUNDO DE DIREITO. REFORMA QUE SE IMPÕE. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Ademais, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Por fim, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+VI - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+ ..
+De início, importa dizer que a averbação ora em discussão encontra-se alicerçada na previsão contida na Súmula nº 96 do TCE.
+ ..  Assim, a jurisprudência do E. STJ vem entendendo que há possibilidade de averbação quando comprovada, direta ou indiretamente, a existência de vínculo empregatício e retribuição pecuniária (..).
+ ..  Com efeito, a hipótese é de obrigação com prestação de trato sucessivo, o que faz com que a pretensão seja renovada a cada não pagamento do adicional postulado (triênio), por força da averbação pedida.
+Incide, pois, a Súmula n.º 85 do E. STJ.
+ ..  No caso concreto, não houve ato administrativo comissivo no sentido de suprimir o direito autoral, mas apenas a omissão genérica da Administração Pública, que a partir de determinada data cessou o pagamento do adicional objeto da lide. Portanto, o direito pleiteado não foi atingido, mas apenas as parcelas não pagas, estas atingidas pela prescrição quinquenal.
+ ..  Inaplicável, no caso concreto, a Teoria da Causa Madura, de que trata o art.1.013, §3º, do CPC, eis que o Juízo a quo não apreciou a matéria objeto do pedido inicial, bem como há necessidade de dilação probatória.
+ ..
+Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ademais, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
