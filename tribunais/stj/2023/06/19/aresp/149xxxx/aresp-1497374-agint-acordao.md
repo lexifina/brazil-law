@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FORD  CREDIT  HOLDING  LTDA.,  incorporadora  de  BANCO  FORD  S.A.,  contra  a  decisão  monocrática  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  dar-lhe  parcial  provimento,  apenas  para  determinar  a  incidência  dos  juros  moratórios,  a  partir  da  vigência  do  Código  Civil  de  2002,  segundo  a  variação  da  Taxa  Selic,  vedada  a  sua  incidência  cumulativa  com  qualquer  outro  índice  de  atualização  monetária.
+Os  subsequentes  embargos  de  declaração  foram  monocraticamente  rejeitados.
+No  presente  recurso  (e-STJ  fls.  2.784-2.792),  a  agravante  afirma,  em  síntese,  que  incide  na  espécie  a  prescrição  trienal  de  que  trata  o  art.  206,  §  3º,  IV,  do  Código  Civil,  aplicável  à  pretensão  de  ressarcimento  de  enriquecimento  sem  causa.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  o  processamento  do  agravo  interno  perante  o  órgão  colegiado.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às  fls.  2.795-2.820  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  BANCÁRIO.  AÇÃO  REVISIONAL.  PRESCRIÇÃO  VINTENÁRIA.  SÚMULA  Nº  83/STJ.
+1.  A  pretensão  revisional  de  contrato  bancário,  à  míngua  de  previsão  legal  específica,  prescreve  em  10  (dez)  anos  (sob  a  égide  do  Código  Civil  vigente)  ou  20  (vinte)  anos  (na  vigência  do  revogado  Código  Civil  de  1916).
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Na  origem,  SENAP  -  SERVIÇO  NACIONAL  DE  AUTOMÓVEIS  E  PEÇAS  S.A.,  antiga  denominação  de  SENAP  DISTRIBUIDORA  DE  VEÍCULOS  LTDA.,  propôs  ação  revisional  de  contrato  cumulada  com  pedido  de  repetição  de  indébito  contra  o  BANCO  FORD  S.A.,  posteriormente  incorporado  por  FORD  CREDIT  HOLDING  LTDA.,  na  qual  questiona,  essencialmente,  a  incidência  de  juros  de  forma  capitalizada.
+Além  da  repetição  dos  valores  que  reputa  indevidos,  a  autora  pede  a  condenação  da  parte  ré  ao  pagamento  de  lucros  cessantes  e  danos  morais.
+Na  inicial,  a  autora  afirma  que
+"(..)  para  adquirir  os  veículos  Ford  para  sua  concessionária,  a  Ré  concedia  à  Autora  -  e  demais  concessionários  da  rede  -  linhas  de  capital  de  giro  (floorplan)  para  o  financiamento  dos  veículos,  em  cujos  contratos  era  aplicado  o  índice  remuneratório  denominado  QC  (quoeficiente  de  conversão),  cuja  variação  era  diária  e  se  dava  de  forma  capitalizada,  implicando  em  um  enorme  ônus  para  a  concessionária  e  no  enriquecimento  indevido  do  financiador"  (e-STJ  fl.  6  -  grifou-se).
+No  tocante  ao  prazo  prescricional,  o  entendimento  desta  Corte  Superior  é  de  que  a  pretensão  revisional  de  contrato  bancário,  à  míngua  de  previsão  legal  específica,  prescreve  em  10  (dez)  anos  (sob  a  égide  do  Código  Civil  vigente)  ou  20  (vinte)  anos  (na  vigência  do  revogado  Código  Civil  de  1916),  pois  fundada  em  direito  pessoal.
+Nesse  sentido :
+"PROCESSO  CIVIL.  AGRAVO  INTERNO.  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL.  CAPITALIZAÇÃO  MENSAL  DE  JUROS.  MEDIDA  PROVISÓRIA  2.170-36/2001.  MATÉRIA  OBJETO  DE  RECURSO  REPETITIVO.  FALTA  DE  PACTUAÇÃO  EXPRESSA.  SÚMULA  7  DO  STJ.  PRAZO  PRESCRICIONAL  DECENAL.  INTERRUPÇÃO  DA  PRESCRIÇÃO  COM  A  CITAÇÃO  NA  AÇÃO  DE  PRESTAÇÃO  DE  CONTAS  ANTERIOR.
+1.  A  jurisprudência  da  Segunda  Seção,  em  sede  de  recurso  repetitivo  da  controvérsia,  erigiu-se  no  sentido  de  que:  (a)  "É  permitida  a  capitalização  de  juros  com  periodicidade  inferior  a  um  ano  em  contratos  celebrados  após  31.3.2000,  data  da  publicação  da  Medida  Provisória  n.  1.963-17/2000  (em  vigor  como  MP  2.170-36/2001),  desde  que  expressamente  pactuada";  e  (b)  "A  capitalização  dos  juros  em  periodicidade  inferior  à  anual  deve  vir  pactuada  de  forma  expressa  e  clara.  A  previsão  no  contrato  bancário  de  taxa  de  juros  anual  superior  ao  duodécuplo  da  mensal  é  suficiente  para  permitir  a  cobrança  da  taxa  efetiva  anual  contratada"  (REsp  973.827/RS,  Rel.  p/  acórdão  Ministra  MARIA  ISABEL  GALLOTTI,  SEGUNDA  SEÇÃO,  julgado  em  08/08/2012,  DJe  de  24/09/2012).
+2.  No  caso  concreto,  o  Tribunal  de  origem  concluiu  pela  ausência  de  previsão  expressa  de  capitalização  mensal  de  juros.  Alterar  esse  entendimento  demandaria  o  reexame  das  provas  produzidas  nos  autos,  o  que  é  vedado  em  recurso  especial.  Inteligência  da  Súmula  7  do  STJ.
+3.  A  jurisprudência  desta  Corte  Superior  se  firmou  no  sentido  de  ser  aplicável  às  ações  revisionais  de  contrato  bancário  o  prazo  prescricional  vintenário  na  vigência  do  CC/1916,  ou  o  decenal  quando  vigente  o  CC/2002.
+4.  A  citação  válida  em  ação  de  prestação  de  contas  anteriormente  ajuizada,  no  prazo  e  na  forma  da  lei  processual  é  suficiente  para  interromper  a  prescrição  para  o  ajuizamento  de  ação  de  revisão  de  cláusulas  contratuais  referente  ao  mesmo  contrato.  Precedentes.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.990.413/PR,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  28/3/2022,  DJe  de  30/3/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  AGRAVANTE.
+1.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  o  prazo  prescricional  para  as  ações  revisionais  de  contrato  bancário,  nas  quais  se  pede  o  reconhecimento  da  existência  de  cláusulas  contratuais  abusivas  e  a  consequente  restituição  das  quantias  pagas  a  maior,  é  vintenário  (sob  a  égide  do  Código  Civil  de  1916)  ou  decenal  (na  vigência  do  Código  Civil  de  2002),  porquanto  fundadas  em  direito  pessoal.  Incidência  da  Súmula  83  STJ.
+2.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.678.611/PR,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  16/11/2020,  DJe  23/11/2020  -  grifou-se).
+"DIREITO  CIVIL.  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CONTRATO  BANCÁRIO.  CÉDULAS  DE  CRÉDITO  RURAL.  PRESCRIÇÃO.  AÇÃO  PESSOAL.  VINTENÁRIA  SOB  A  ÉGIDE  DO  CC/16.  DECENAL  A  PARTIR  DO  INÍCIO  DA  VIGÊNCIA  DO  CC/02.  TERMO  INICIAL.  DATA  EM  QUE  O  CONTRATO  FOI  FIRMADO.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.
+1.  Ação  revisional  de  contratos  de  cédula  de  crédito  rural,  ajuizada  em  11.03.2008,  da  qual  foi  extraído  o  presente  recurso  especial,  concluso  ao  Gabinete  em  05.09.2012.
+2.  Determinar  o  termo  inicial  do  prazo  prescricional  da  ação  revisional  de  cláusulas  de  cédula  de  crédito  rural.
+3.  As  ações  revisionais  de  contrato  bancário  são  fundadas  em  direito  pessoal,  motivo  pelo  qual  o  prazo  prescricional,  sob  a  égide  do  Código  Civil  de  1.916  era  vintenário,  e  passou  a  ser  decenal,  a  partir  do  Código  Civil  de  2.002.
+4.  A  pretensão  se  refere  às  cláusulas  contratuais,  que  podem  ser  discutidas  desde  a  assinatura  do  contrato,  motivo  pelo  qual  o  termo  inicial  do  prazo  prescricional  é  a  data  em  que  o  contrato  foi  firmado.
+5.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+6.  Negado  provimento  ao  recurso  especial"  (REsp  1.326.445/PR,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  4/2/2014,  DJe  17/2/2014  -  grifou-se).
+
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
