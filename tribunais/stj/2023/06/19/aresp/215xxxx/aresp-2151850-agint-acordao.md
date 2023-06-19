@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto por CELG DISTRIBUICAO S.A. - CELG D contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer de seu recurso especial com os seguintes fundamentos: a) violação de lei indireta ou meramente reflexa; e b) ausência de prequestionamento (Súmulas 282 e 356 do STF).
+Em suas razões recursais, a parte agravante afirma que o art. 188 do Código Civil foi prequestionado, ao menos fictamente, nos termos do art. 1.025 do CPC/2015.
+Requer a retratação da decisão para que seja processado e provido o recurso especial interposto.
+Impugnação ao recurso apresentada às fls. 465/46 7.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ E APLICAÇÃO DO DISPOSTO NO ART. 932, III, C/C O ART. 1.021, § 1º, AMBOS DO CPC. RECURSO NÃO CONHECIDO.
+1. As razões do agravo interno não impugnam especificamente todos os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da parte agravante. Incidência da Súmula 182/STJ e aplicação do disposto no art. 932, III, c/c o art. 1.021, § 1º, ambos do Código de Processo Civil.
+2. Agravo interno não conhecido.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A decisão agravada conheceu do agravo para não conhecer do recurso especial com os seguintes fundamentos: a) violação de lei indireta ou meramente reflexa; e b) ausência de prequestionamento (Súmulas 282 e 356 do STF).
+Nas razões do agravo interno, a parte agravante apenas rebate a ausência de prequestionamento, sem nada tratar acerca do outro óbice aplicado à mesma controvérsia.
+À luz do princípio da dialeticidade, constitui ônus da parte agravante expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando todos os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, o entendimento jurisprudencial consagrado na Súmula 182/STJ é de que compete à parte agravante, sob pena de não conhecimento de seu agravo, impugnar especificamente os fundamentos da decisão hostilizada.
+Cito, a propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ÓBICE DA SÚMULA 182 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. RECURSO REPETITIVO. SOBRESTAMENTO DO FEITO.
+1. Não se conformando com a decisão, a recorrente interpôs Agravo repetindo os argumentos expostos no Recurso Especial; contudo, não impugnou de maneira eficiente todas as razões do decisum - em especial a aplicação da Súmula 182 do STJ.
+2. É inviável o Agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182/STJ.
+3. É pacífico o entendimento no STJ de que, escolhido o Recurso Especial para ser julgado no rito dos repetitivos (art. 543-C do CPC), não haverá sobrestamento dos rec ursos que tramitam no STJ. AgRg nos EDcl nos EREsp 1352046/RS, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 3/2/2014.
+4. Agravo Regimental não conhecido. (AgRg nos EDcl no AREsp 734.905/SP,
+relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2015, DJe 5/2/2016.)
+Ademais, a necessidade de impugnação aos fundamentos da decisão agravada está expressamente disposta no art. 932, III, c/c o art. 1.021, § 1º, ambos do CPC/2015.
+Pelas considerações expostas, não conheço do agravo interno.
+É o voto.
