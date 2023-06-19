@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Jean Marcos Cordeiro Ribeiro contra a decisão monocrática que proferi às fls. 498/501, assim ementada:
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DO REPOUSO NOTURNO PARA O CRIME DE FURTO QUALIFICADO. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO.
+Writ não conhecido.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara Criminal da comarca de Itajaí/SC a 1 ano e 4 meses de reclusão, em regime semiaberto, e a 6 dias-multa, pelo crime de tentativa de furto qualificado pelo emprego de escalada durante o repouso noturno. O recurso defensivo foi desprovido pela Segunda Câmara Criminal da Corte estadual (fls. 396/401). No dia 16/9/2021, fora certificado o trânsito em julgado dessa condenação.
+Em 22/3/2023, a Defensoria Pública estadual impetrou habeas corpus pleiteando fosse reconhecida a ilegalidade do acórdão estadual para afastar a causa de aumento do repouso noturno, diante da incompatibilidade com o furto qualificado, com a redução das penas para 1 ano de reclusão e 6 dias-multa.
+Ao julgar o mérito da impetração, na data de 27/4/2023, não conheci do writ.
+Daí as razões do presente recurso, em que o agravante alega que a jurisprudência desta Corte Superior não afasta, de forma absoluta, a retroatividade do entendimento jurisprudencial mais benéfico. Veja-se o julgamento na RvCr n. 5.627/DF, oportunidade na qual Terceira Seção deste Superior Tribunal de Justiça flexibilizou o entendimento sobre a retroatividade da jurisprudência penal mais benéfica (fl. 512).
+Defende que o novo entendimento, firmado por este Tribunal Superior na sistemática de recursos repetitivos, é, por excelência, entendimento pacífico e relevante, e dotado de eficácia vinculante, de modo que necessária a extensão dos efeitos da uniformização promovida pela Terceira Seção do Superior Tribunal de Justiça ao caso dos autos.
+Ao final, requer a retratação da decisão recorrida ou seja o agravo submetido à apreciação da Sexta Turma, a fim de que seja provido para reconhecer a apontada ilegalidade.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. DOSIMETRIA. AFASTAMENTO DA CAUSA DE AUMENTO DO REPOUSO NOTURNO PARA O CRIME DE FURTO QUALIFICADO. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO.
+1. Hipótese em que se buscava o afastamento da causa de aumento do repouso noturno para o crime de furto qualificado referente a condenação com trânsito em julgado anterior à mudança do entendimento jurisprudencial.
+2. No entanto, a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia (AgRg no HC n. 779.647/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 6/12/2022, DJe 15/12/2022) - (AgRg no HC n. 795.226/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 19/4/2023).
+3. Agravo regimental desprovido.
+VOTO
+Não assiste razão ao agravante.
+Conforme consignado na decisão ora hostilizada, embora atualmente a orientação do Superior Tribunal de Justiça seja de que a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º) - (REsp n. 1.888.756/SP, Ministro João Otávio de Noronha, Terceira Seção, DJe 27/6/2022), o pleito da defesa não se revela admissível, por se pretender a aplicação retroativa de novo entendimento jurisprudencial a condenação já transitada em julgado, o que não se admite.
+Com efeito, o que se pretende neste feito é a desconstituição dos efeitos da coisa julgada com fundamento na posterior alteração de entendimento jurisprudencial que é mais favorável ao Sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia. (AgRg no HC n. 779.647/SC, Ministra Laurita Vaz, Sexta Turma, DJe 15/12/2022).
+Em outras palavras, a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica (AgRg no HC n. 782.558/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+Ante o exposto, nego provimento ao agravo regimental.
