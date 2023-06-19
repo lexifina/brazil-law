@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trago à análise da Turma agravo regimental interposto por Deniz Mussato Frez contra a decisão, de fls. 95/96, mediante a qual rejeitei os embargos de declaração opostos à decisão de não conhecimento do recurso em habeas corpus.
+O agravante buscava o provimento do recurso em habeas corpus para que fosse revogada sua custódia cautelar, em razão de suposta nulidade havida quando da prisão em flagrante, diante da indevida atuação da Polícia Militar no caso. Porém, não conheci do pedido, pois não houve esgotamento da instância ordinária, na medida em que não se interpôs ao colegiado da Primeira Câmara do Criminal do Tribunal de Justiça do Paraná o devido recurso contra a decisão monocrática do relator.
+Sobreveio a oposição de embargos de declaração. Referindo-se ao acórdão acostado à fl. 45 (relacionado ao Recurso em Sentido Estrito n. 0001023-11.2022.8.16.0156), aduziu a defesa que a decisão embargada, de modo contraditório, suscitou que tratou de decisão monocrática e, portanto, sem o exaurimento da instância antecedente, que como consequência, culminou no não conhecimento recursal. Porém, o esgotamento da instância ordinária é latente, o que faz seja necessário aclarear a decisão embargada (fl. 92).
+Rejeitei os aclaratórios, pois além de a decisão colegiada apontada pelo embargante não ter analisado as questões levantadas na petição às fls. 62/70, configura erro grosseiro a interposição de recurso ordinário em habeas corpus para atacar acórdão que decidiu o recurso em sentido estrito, já que a via recursal adequada seria o recurso especial.
+Diante disso, agora, o agravante aduz que opôs a defesa recurso ordinário, não em razão da pronúncia e/ou da causa de decidir do recurso em sentido estrito, mas das questões de ordem pública debatidas no writ, vez mais indeferido, motivo pelo qual, opôs embargos de declaração que em acórdão constou tratar de erro grosseiro a discussão da matéria pela via eleita (fl. 104).
+Requer a reconsideração da decisão impugnada ou seja o recurso submetido à apreciação do colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS NÃO CONHECIDO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fl. 96):
+A decisão ora embargada não padece de nenhuma contradição, pois o recurso em habeas corpus fora interposto contra a decisão monocrática proferida pelo Desembargador Relator no HC n. 0020363-84.2023.8.16.0000 (fl. 71).
+O documento a que se refere a defesa, à fl. 45, diz respeito a acórdão que julgou o recurso em sentido estrito interposto contra a sentença de pronúncia, cujo trânsito em julgado se deu no dia 4/4/2023.
+Com efeito, além de a decisão colegiada apontada pelo embargante não ter analisado as questões suscitadas na petição às fls. 62/70, configura erro grosseiro a interposição de recurso ordinário em habeas corpus para atacar acórdão que decidiu o recurso em sentido estrito, já que a via recursal adequada seria o recurso especial.
+Ante o exposto, rejeito os embargos de declaração.
+Convém transcrever, ainda, a decisão por meio da qual não conheci do recurso ordinário em habeas corpus (fl. 86):
+O presente recurso foi interposto contra decisão monocrática proferida pelo relator do writ no Tribunal de origem (fls. 53/54).
+Ora, a jurisprudência desta Corte Superior é pacífica no sentido de não ser cabível habeas corpus contra decisão monocrática de Desembargador Relator, porquanto ausente manifestação colegiada do órgão de origem, pendente o esgotamento da instância a quo (AgRg no RHC n. 144.722/RR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/8/2021).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. TESE DE NULIDADE PELO INDEFERIMENTO DE OITIVA DE TESTEMUNHAS ARROLADAS EXTEMPORANEAMENTE. RECURSO MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o presente recurso ordinário em habeas corpus foi manejado contra decisão singular do Desembargador Relator que não admitiu prévia impetração no Tribunal de origem, não tendo havido a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado.
+2. Ausente o exaurimento da instância ordinária e não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento do presente recurso.
+ ..  4. Agravo regimental desprovido. (AgRg no RHC n. 150.349/PR, Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021 - grifo nosso).
+Com efeito, como bem ponderou o parecerista, não houve esgotamento da instância ordinária, na medida em que o recorrente não interpôs ao colegiado da Primeira Câmara do Criminal do Tribunal de Justiça do Paraná o devido recurso contra a decisão monocrática do relator, inviabilizando a análise deste recurso ordinário por parte do Superior Tribunal de Justiça (fls. 81/82).
+Ante o exposto, não conheço do recurso.
+Caberia ao agravante, nas razões do regimental, rebater esses fundamentos, o que não se verifica da leitura da peça. Limitou-se a repetir, de forma bem genérica, a tese lançada na petição às fls. 62/70.
+É inviável, portanto, o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+De mais a mais, o Desembargador relator, ao indeferir liminarmente o prévio writ, não se aprofundou na análise da suscitada tese de nulidade dos elementos indiciários que deram ensejo à prisão preventiva do recorrente. Longe disso, afirmou ser, no caso, facilmente identificável a "nulidade de algibeira", irregularidade da qual, tendo o réu pleno conhecimento, aguarda ele o momento que melhor lhe convém para invocá-la, em clara afronta aos preceitos processuais penais (fl. 54).
+Assim, " a inda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 10/10/2019)" (AgRg no HC 666 .908/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/08/2021).
+Ante o exposto, não conheço do agravo regimental.
