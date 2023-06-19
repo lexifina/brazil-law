@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno manejado por VICENTINA DE FÁTIMA FERNANDES BUENO desafiando decisão de fls. 183/187, que negou provimento ao agravo em recurso especial, uma vez que o Tribunal de origem, com base no conjunto probatório do feito, concluiu que não ficou demonstrada a condição de segurada da parte autora, em regime de economia familiar, no período de carência, de modo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do material probante dos autos, providência vedada em sede de apelo nobre, conforme a Súmula 7/STJ.
+A parte agravante, em suas razões, assevera que "O que se pretende é a revaloração da prova, notadamente porque a mesma existe nos autos, e foi arbitrariamente desconhecida no julgado. Não se venha alegar que a revaloração é impossível em sede de recurso ao E. STJ., notadamente porque revalorar a prova é conceito completamente diverso de reexaminar a prova. REEXAMINAR é fazer uma incursão detalhada ao mundo da prova que foi utilizada, o que não se admite, a teor da Súmula 7 do E. STJ" (fl.191).
+Devidamente intimada, a parte recorrida não impugnou, conforme certidão de fl.202.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA. ATIVIDADE RURÍCOLA. INÍCIO DE PROVA MATERIAL CONTEMPORÂNEA AO PERÍODO DE CARÊNCIA. AUSÊNCIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. No caso, o Tribunal de origem, em conformidade com a jurisprudência desta Corte, concluiu que o acervo probatório se revelou insuficiente à comprovação de trabalho rural, em regime de economia familiar, ante a ausência de início de prova material no período de carência.
+2. Nesses termos, não se vislumbra, de plano, qualquer violação à lei federal, de modo que a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Em que pese aos argumentos deduzidos nas razões recursais, não há como acolher a irresignação.
+Conforme afirmado na decisão agravada, o labor campesino, para fins de percepção de aposentadoria rural por idade, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência (AgRg no REsp 1.309.591/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/06/2012, DJe 29/06/2012).
+No caso, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu pela não comprovação da condição de rurícola da parte autora, diante da ausência de início de prova material contemporâneo ao período de carência, nos seguintes termos (fl. 128/129):
+Como início de prova material, apresentou os documentos acima mencionados. Quanto à prova testemunhal, vejo que ela foi assim resumida pela decisão de primeiro grau: "(..)As testemunhas afirmaram que conhecem a autora por volta de.30 anos e que ela sempre trabalhou em atividades rurais.(..)"
+E nada mais.
+Pois bem. Da análise do conjunto probatório, entendo assistir razão ao INSS, uma vez que o conjunto probatório não comprova o exercício de atividade campesina pela autora durante o necessário período de carência e no período imediatamente anterior ao implemento do requisito etário.
+De início, vejo que a peça inaugural não esclareceu por quanto tempo a autora teria laborado como trabalhadora rural, e nem por quanto tempo isso perdurou.
+Buscou, apenas, a extensão da condição de lavrador do esposo, para tentar comprovar uma alegada atividade campesina por ela exercida.
+Para tanto, trouxe aos autos alguns documentos para indicar o início de prova material requerido pela jurisprudência, sendo o mais recente datado de 1990, ou seja, documentos muito antigo para comprovar atividade rural até o implemento do requisito et ário, ocorrido apenas em 2012.
+E, nesse ponto, oportuno consignar que a extensão da qualificação profissional do cônjuge para a autora está prejudicada, uma vez que o CNIS dele aponta para o abandono das lides campesinas já há bastante tempo, consoante ali observado (ID 252549789 - pags. 22/23).
+E a prova testemunhal, por fim, não apresentou a robustez e consistência que seriam necessárias para traduzir entendimento diverso.
+Dessa forma, por não se desincumbir do ônus probatório que lhe competia, pois insuficiente o apurado no processado, a reforma da r. sentença seria medida imperativa.
+Portanto, como já consignado na decisão impugnada, ao que se percebe, o acórdão recorrido está de acordo com a jurisprudência desta Corte no sentido de que deve existir início de prova material contemporâneo ao período de carência.
+Nesse sentido, anote-se o seguinte julgado:
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. INÍCIO DE PROVA MATERIAL. DESNECESSIDADE DE CORRESPONDER A TODO PERÍODO EQUIVALENTE À CARÊNCIA. NECESSIDADE, ENTRETANTO, DE SER AO MENOS PARCIALMENTE CONTEMPORÂNEO AO PERÍODO EQUIVALENTE À CARÊNCIA. ANULAÇÃO DO ACÓRDÃO QUE JULGOU O RECURSO ESPECIAL DA SEGURADA EM VIRTUDE DA INCOMPATIBILIDADE COM O JULGAMENTO DO RECURSO ESPECIAL DO INSS ORA REALIZADO.
+I - Na aposentadoria rural por idade, o segurado deve comprovar o exercício de atividade rural por tempo equivalente ao período de carência, nos termos do art. 143 da Lei n. 8.213/91.
+II - A comprovação da atividade rural deve ocorrer mediante a apresentação de início de prova material, a qual pode ser corroborada por prova testemunhal que lhe amplie a eficácia.
+III - O início de prova material não precisa abranger todo o período de carência, de forma a ser comprovado ano a ano, entretanto, deve ser produzido, ao menos parcialmente, dentro do período equivalente à carência. Precedentes: Pet 7.475/PR, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 9/11/2016, DJe 29/11/2016; AR 3.994/SP, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 23/9/2015, DJe 1º/10/2015.
+IV - O referido entendimento é aplicável inclusive em relação aos boias-frias, conforme já se decidiu no REsp 1.321.493/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2012, submetido ao rito do art. 543-C.
+V - In casu, sendo o início de prova material apresentado totalmente extemporâneo ao período equivalente à carência, deve o recurso da autarquia ser provido para indeferir o pedido de aposentadoria rural por idade.
+VI - O recurso especial da segurada já foi julgado por esta Segunda Turma, sob relatoria anterior, tendo sido o recurso provido para afastar a incidência do art. 1º-F da Lei n. 9.494/97 dos consectários legais devidos à segurada, tendo em vista o provimento da sua apelação e o deferimento da aposentadoria rural por idade na instância ordinária.
+VII - O julgamento do referido recurso, entretanto, não observou a existência do recurso especial da autarquia, que é ora provido. VIII - Diante do provimento do recurso especial do INSS, não mais subsiste o direito da segurada à aposentadoria rural por idade e ao pagamento de atrasados, sendo assim, o acórdão anteriormente proferido deve ser anulado, para que o recurso da segurada seja considerado prejudicado.
+IX - Recurso especial do INSS conhecido e provido e julgamento do recurso especial da segurada anulado para considerá-lo prejudicado, bem como também prejudicados os embargos de divergência pendentes de julgamento.
+(REsp n. 1.466.842/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/3/2018, DJe de 27/3/2018.)
+PREVIDENCIÁRIO. SEGURADO ESPECIAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR TESTEMUNHOS IDÔNEOS NO PERÍODO DE CARÊNCIA. OCORRÊNCIA.
+1. Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n. 8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+2. Para o reconhecimento do labor agrícola é desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido,
+desde que a eficácia daquele (início) seja ampliada por prova testemunhal.
+3. Caso em que as instâncias ordinárias concluíram pela comprovação da condição de segurado especial do autor mediante início de prova documental contemporânea ao período postulado, o qual foi amparado em testemunhos idôneos, na esteira do REsp n. 1.348.633/SP e da PET n. 7.475/PR, ambos da Primeira Seção.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.579.587/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 21/09/2017)
+Nesse contexto, como asseverado na decisão impugnada, de plano, não se constata qualquer violação à lei federal, de modo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do material probante dos autos, providência vedada em sede de recurso especial, conforme a Súmula 7/STJ.
+Em reforço:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. TRABALHADOR RURAL. BOIA-FRIA. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Ao decidir a controvérsia, o Tribunal a quo consignou: "A alegação do INSS, de que não existiria prova material apta a comprovar o exercício da atividade rural no período de carência, não merece prosperar, pois os documentos juntados consubstanciam início de prova material suficiente, que corroborada pela prova oral colhida confirmam o trabalho rural da parte autora."
+3. Com efeito, considerando a fundamentação do aresto recorrido, que concluiu pela comprovação de labor rural pelo período legalmente exigido, e, portanto, pela existência dos requisitos para concessão do benefício previdenciário, este somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que encontra óbice na Súmula 7/STJ.
+4. Ademais, o Superior Tribunal de Justiça entende ser desnecessária a contemporaneidade da prova material com todo o período do exercício de atividade rural que se pretende comprovar, devendo haver ao menos um início razoável de prova material contemporânea aos fatos alegados, desde que complementada mediante depoimentos de testemunhas.
+5. No caso dos autos, o Tribunal a quo atestou que o início de prova material é corroborado por outros elementos, como a prova testemunhal, motivo pelo qual a conclusão da Corte de origem não merece reparos.
+6. Recurso Especial não provido.
+(REsp nº 1.767.337/RS, Rel. Min. HERMAN BENJAMIN, DJe de 16/11/2018)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É com o voto.
