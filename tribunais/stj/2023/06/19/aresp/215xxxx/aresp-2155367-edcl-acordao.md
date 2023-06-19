@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/06/2023 a 19/06/2023, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MARIA UMBELINA DE LIMA SILVEIRA, contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 948):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO DE DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de compensação por danos morais e indenização de danos materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O reexame de fatos e provas em recurso especial é inadmissível.5. Agravo interno não provido".
+Nas razões do presente recurso, a embargante aduz que o acórdão embargado foi omisso quanto ao pedido formulado, no bojo do agravo interno, de concessão da gratuidade de justiça.
+Afirma que é pensionista e se mantém apenas com os proventos recebidos em decorrência do falecimento de seu marido, sendo diversas as despesas com seu próprio sustento (e-STJ fls. 960/964).
+À fl. 976 (e-STJ), a embargante foi intimada a juntar aos autos documentos que atestassem a mudança em sua situação financeira após o indeferimento do benefício nas instâncias ordinárias, pelo que juntou aos autos a petição de fls. 979/980, bem como os documentos de fls. 981/993 (e-STJ).
+De seu turno, a parte embargada peticionou às fls. 996/1.008 (e-STJ), sustentando, em síntese, que a embargante não comprovou fazer jus à gratuidade, sendo que, outrossim, a mesma declara imposto de renda anualmente, tem propriedade de veículos e, ainda, é titular do Cartório de Registro Civil das Pessoas Naturais e Tabelionato de Notas da Cidade de Alterosa/MG. Requer, assim, o indeferimento do pedido, além da condenação da embargante às penas por litigância de má-fé.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CARACTERIZADA. GRATUIDADE DE JUSTIÇA. RENOVAÇÃO DO PEDIDO NESTE STJ. ALTERAÇÃO DA SITUAÇÃO FINANCEIRA DA REQUERENTE. NÃO COMPROVAÇÃO. INDEFERIMENTO.
+1. Acolhem-se os embargos de declaração para sanar omissão do acórdão embargado quanto ao pedido de concessão da gratuidade de justiça formulado no bojo da petição do agravo interno.
+2. Conquanto a jurisprudência deste Tribunal admita a renovação, no ato da interposição do recurso, do pedido de gratuidade de justiça que foi anteriormente denegado nas instâncias ordinárias, exige-se do requerente que comprove a mudança na sua situação econômica, o que não foi observado na hipótese dos autos. Pedido de concessão da gratuidade de justiça indeferido.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+O acórdão embargado, ao negar provimento ao agravo interno interposto pela ora embargante, realmente deixou de se manifestar acerca do pedido de concessão da gratuidade de justiça formulado no bojo da petição recursal, razão pela qual passa-se a sanar a omissão, nos termos a seguir.
+Consoante a jurisprudência desta Corte, embora admitida a renovação, no ato de interposição do recurso a este Tribunal, do pedido de gratuidade de justiça que foi denegado nas instâncias ordinárias, é imprescindível que a parte requerente comprove a mudança na situação econômico-financeira, trazendo elementos novos que não foram previamente considerados, capazes de demonstrar a necessidade do benefício.
+A propósito, confiram-se os seguintes julgados, dentre tantos outros: RCD na PET nos EAREsp n. 1.369.585/DF, Corte Especial, DJe de 29/11/2022; EDcl no AgInt no AREsp n. 2.106.850/PR, Terceira Turma, DJe de 28/9/2022; AgInt nos EDcl no AREsp n. 1.908.161/DF, Terceira Turma, DJe de 24/3/2022; AgInt no AgInt no AREsp n. 1.916.722/SP, Terceira Turma, DJe de 18/3/2022; AgInt no AREsp n. 2.125.708/SP, Quarta Turma, DJe de 13/10/2022.
+Na hipótese dos autos, por meio da decisão de fl. 976 (e-STJ), foi dada oportunidade à embargante para demonstrar a alteração de sua situação financeira após o indeferimento do pedido pelo juiz do 1º grau de jurisdição, porém a parte não trouxe qualquer elemento capaz de indicar que tenha havido piora em sua capacidade financeira. Os documentos juntados às fls. 981/993 apenas indicam uma série de despesas, de caráter ordinário, não tendo a embargante sequer informado o valor de seus proventos de pensão, com a juntada dos respectivos comprovantes.
+Chama a atenção, outrossim, que a embargante sequer informou que é titular do Ofício de Registro Civil das Pessoas Naturais e Tabelionato de Notas de Alterosa/MG, como comprovado pela parte embargada.
+Esse quadro fático demonstra que a embargante não logrou comprovar que jus à concessão do benefício, que deve, portanto, ser indeferido.
+Por fim, cumpre salientar que, apesar da incompletude das informações prestadas pela embargante acerca de sua situação econômico-financeira, não se observa, ao menos por ora, elementos indicadores de litigância de má-fé, razão pela qual deixa-se de aplicar as penalidades requeridas pela parte embargada.
+Forte nessas razões, ACOLHO os presentes embargos de declaração para sanar a omissão relativa à concessão da gratuidade de justiça, porém indeferindo o pedido.
