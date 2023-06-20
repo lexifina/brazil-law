@@ -1,0 +1,6 @@
+Art. 20. Fica instituído o Adicional Complementar para Famílias Beneficiárias do Programa Auxílio Gás dos Brasileiros.
+§ 1º O adicional complementar consiste no pagamento bimestral do valor monetário correspondente a um adicional de 50% (cinquenta por cento) da média do preço nacional de referência do botijão de 13 kg (treze quilogramas) de gás liquefeito de petróleo, estabelecido pelo Sistema de Levantamento de Preços (SLP) da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), nos 6 (seis) meses anteriores, às famílias beneficiárias do Programa Auxílio Gás dos Brasileiros, instituído pela Lei nº 14.237, de 19 de novembro de 2021.
+§ 2º Terão direito ao adicional complementar as famílias beneficiárias cujo benefício esteja liberado ou temporariamente bloqueado na data da geração da folha de pagamentos da competência do benefício.
+§ 3º O adicional complementar será limitado a um benefício por família.
+§ 4º O adicional complementar terá caráter temporário e será pago até que novo programa venha a substituir o Programa Auxílio Gás dos Brasileiros.
+§ 5º As despesas para o pagamento e a operacionalização do adicional complementar destinado às famílias beneficiárias do Programa Auxílio Gás dos Brasileiros correrão à conta das dotações orçamentárias consignadas ao referido Programa.

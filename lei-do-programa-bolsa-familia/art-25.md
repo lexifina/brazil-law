@@ -1,0 +1,1 @@
+Art. 25. Com a finalidade de garantir a continuidade do atendimento às famílias beneficiárias do Programa Auxílio Brasil, os contratos vigentes para a sua operacionalização poderão ser aditados no âmbito do Programa Bolsa Família.

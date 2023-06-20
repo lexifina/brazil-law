@@ -1,0 +1,4 @@
+Art. 1º Fica instituído o Programa Bolsa Família, no âmbito do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, em substituição ao Programa Auxílio Brasil, instituído pela Lei nº 14.284, de 29 de dezembro de 2021.
+§ 1º O Programa Bolsa Família constitui etapa do processo gradual e progressivo de implementação da universalização da renda básica de cidadania, na forma estabelecida no parágrafo único do art. 6º da Constituição Federal e no caput e no § 1º do art. 1º da Lei nº 10.835, de 8 de janeiro de 2004.
+§ 2º Os critérios, os parâmetros, os mecanismos e os procedimentos para adequação dos benefícios do Programa Auxílio Brasil ao Programa Bolsa Família serão estabelecidos nesta Lei e em seus regulamentos.
+§ 3º Ato do Poder Executivo federal regulamentará o disposto nesta Lei.

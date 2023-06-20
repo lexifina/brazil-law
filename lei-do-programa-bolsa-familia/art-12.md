@@ -1,0 +1,3 @@
+Art. 12. A execução e a gestão do Programa Bolsa Família são públicas e governamentais e ocorrerão de forma descentralizada, por meio da conjugação de esforços entre os entes federativos, observados a intersetorialidade, a participação comunitária e o controle social.
+§ 1º A execução e a gestão descentralizadas a que se refere o caput deste artigo serão implementadas por meio de adesão voluntária dos Estados, do Distrito Federal e dos Municípios ao Programa Bolsa Família, realizada na forma estabelecida em regulamento.
+§ 2º Até que as adesões de que trata o § 1º deste artigo sejam formalizadas, ficam convalidados os termos de adesão ao Programa Auxílio Brasil firmados pelos Estados, pelo Distrito Federal e pelos Municípios.

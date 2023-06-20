@@ -1,0 +1,2 @@
+Art. 22. Aplica-se, no que couber, o disposto na Lei nº 14.237, de 19 de novembro de 2021, e nos seus regulamentos ao adicional complementar de que trata o art. 20 desta Lei.
+Parágrafo único. Ato do Ministro de Estado do Desenvolvimento e Assistência Social, Família e Combate à Fome poderá definir procedimentos para a gestão e a operacionalização do adicional complementar de que trata o art. 20 desta Lei.
