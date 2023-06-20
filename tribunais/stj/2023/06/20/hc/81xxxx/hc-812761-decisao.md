@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar impetrado em favor de RANGEL DIAS MARAIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos do Agravo de Execução nº 1.0024.18.096140-1/001.
+Depreende-se dos autos que o Juízo das execuções deferiu o pedido de declaração de extinção de punibilidade formulado pela defesa, uma vez que havia "transcorrido o prazo da suspensão condicional da pena sem suspensão ou interrupção" (fls. 16-17).
+Inconformado, a Ministério Público interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao recurso, para afastar a decisão que extinguiu a punibilidade do paciente, conforme ementa abaixo (fl.18) :
+"AGRAVO EM EXECUÇÃO PENAL - SUSPENSÃO CONDICIONAL DA PENA -EXTINÇÃO DA PUNIBILIDADE -NÃO CABIMENTO -DESCUMPRIMENTO DAS CONDIÇÕES FIXADAS. Não basta o simples transcurso do prazo legal da suspensão condicional da pena para que seja extinta a punibilidade do sentenciado, sendo necessário analisar se as condições foram cumpridas. Assim, descumpridas as determinações durante o período de prova, cabível a revogação do benefício. V. V. Transcorrido o prazo do sursis sem revogação ou suspensão, o reconhecimento da extinção de punibilidade é medida que se impõe, nos termos do art. 82 do Código Penal. "
+No presente writ, a defesa sustenta, em apertada síntese, que o paciente está submetido a constrangimento ilegal, pois deve ser declarada extinta a punibilidade, já que já foi transcorrido o prazo de suspensão condicional da pena sem suspensão ou interrupção, nos termos do artigo 82 do Código Penal.
+Argumenta que: "Verifica-se, pois, que a decisão do Tribunal de Justiça de Minas Gerais é equivocada, uma vez que a ausência de suspensão ou revogação da suspensão condicional da pena antes do término do período de prova, resulta na extinção da pena pelo cumprimento, nos moldes do art. 82 do Código Penal" (fl. 7).
+Pedido liminar indeferido às fls. 40-41.
+As informações foram prestadas às fls. 47-58.
+O Ministério Público Federal, às (fls.60-64), manifestou-se pela concessão da ordem para restabelecer a decisão do Juízo de primeiro grau que concedeu o livramento condicional ao paciente, consoante a seguinte ementa (fl.60):
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINARIO. DESCABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÁTICA DE NOVO DELITO NO PERÍODO DE PROVA. REVOGAÇÃO DO BENEFÍCIO APÓS ESCOADO O REFERIDO PERÍODO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. NÃO CONHECIMENTO DO WRIT E CONCESSÃO DE HABEAS CORPUS DE OFÍCIO."
+É o relatório.
+Decido.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, verifica-se a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da parte paciente.
+Em 20/01/2020, foram estabelecidas as condições para o sursis do apenado:
+1) fica o apenado proibido de frequentar bares, boates, prostíbulos e similares, bem como casas de jogos e similares;
+2) fica o sentenciado obrigado a comparecer pessoal, a partir desta data, e mensalmente, em juízo, para informar e justificar suas atividades. (seq. 37.1).
+Em 18/04/2022, o Juízo da execução extinguiu a punibilidade do paciente, de acordo com a decisão embasada nos fundamentos abaixo (fls. 16-17):
+No caso dos autos o Sentenciado recebeu o benefício de "sursis", com alguns encargos por dois anos. Neste prazo houve o transcurso do tempo da suspensão, quando inclusive o prédio do fórum esteve fechado à presença de público, limitando sobremaneira o atendimento, tudo contra a vontade de todos. Mas o momento era de política de saúde pública, e esta corretamente esteve à frente.
+Pois bem, agora transcorrido o tempo da suspensão da pena, e mesmo em fase de atendimento restrito ao público, o Ministério Público insiste revogação do benefício. No entanto, sem razão o Dr. Promotor de Justiça, "data vênia".
+Afinal de contas não há qualquer outro registro criminal em desfavor do Sentenciado no curso da suspensão da pena privativa de liberdade, que foi capaz de desafiar a interrupção ou prorrogação do prazo de prova. Aliás este, mostrou-se minimamente satisfatório para os fins pedagógicos da reprimenda.
+São em situações como essa, que o legislador entendeu como suficiente a extinção da pena privativa de liberdade quando transcorrido o prazo de "sursis. Neste sentido a jurisprudência do Superior Tribunal de Justiça,"verbis":
+(..)
+Anote-se ainda, que o processo de execução não pode ser maior do que a própria pena, tornando-se desproporcionalmente oneroso ao apenado (dois anos com restrições à sua cidadania) e ao Estado, que seguramente deve se ater a processos daqueles que ainda estão em cumprimento de pena.
+Isso posto, transcorrido o prazo da suspensão condicional da pena sem suspensão ou interrupção, hei por bem em julgar extinta a punibilidade do Réu, nos termos do artigo 82 do Código Penal.
+O Tribunal de origem revogou o benefício e afastou a extinção da pena com destaque para os seguintes fundamentos (fls. 18-25):
+Em 31/08/2020, sobreveio a informação de que o sentenciado não compareceu ao juízo em fevereiro/2020, ressaltando que de março a setembro daquele ano, o comparecimento foi suspenso em virtude da pandemia do coronavírus (seq. 38.1).
+Nesse cenário, o representante do Ministério Público pugnou, em 13/03/2021, ou seja, ainda durante o período de prova, pela revogação do sursis e consequente início do cumprimento da pena no regime fixado na sentença condenatória (seq. 42.1).
+Verifica-se que os fundamentos utilizados pelo Tribunal de origem não apresentam idoneidade apta ao afastamento da decisão do magistrado do 1º grau.
+Com efeito, não há que se falar em impossibilidade da declaração de extinção de punibilidade se não houve prorrogação ou revogação do período de prova e o Ministério Público não se insurgiu contra eventual indeferimento do pedido de revogação do benefício.
+Por conseguinte, conclui-se que o acórdão do Tribunal de origem utilizou argumentos inidôneos para afastar o reconhecimento da extinção de punibilidade, que deve ser declarada, inexistindo a suspenção cautelar ou revogação do livramento em caso de condenação irrecorrível durante a vigência do benefício .
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da S úmula 617/STJ, in verbis: "A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena".
+Outrossim, mister destacar o parecer ministerial favorável à concessão da ordem no caso concreto, verbis (fls. 60-64):
+No entendimento plasmado no enunciado 617 desse e. STJ "A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena".
+No caso em análise, o livramento condicional deveria ter sido suspenso cautelarmente, ainda durante o seu curso, situação que se manteria até o trânsito em julgado de eventual sentença condenatória, hipótese na qual ocorreria sua revogação, por força do art. 89 do Código Penal.
+Inexistindo, na espécie, a suspensão cautelar, transcorreu sem óbice o prazo do livramento, cujo termo, sem revogação, implica extinção da pena. Assim sendo, a concessão da ordem é medida que se impõe, ante a ocorrência de flagrante ilegalidade.
+Ante o exposto, concedo a ordem de habeas corpus, cassando o acórdão proferido pelo Tribunal de origem, a fim de restabelecer a decisão do Juízo da Vara das Execuções que declarou extinta a punibilidade do paciente.
+P. I.
