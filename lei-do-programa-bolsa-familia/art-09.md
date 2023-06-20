@@ -1,0 +1,2 @@
+Art. 9º A identificação dos integrantes das famílias que se inscreverem no CadÚnico será realizada, preferencialmente, por meio do número de inscrição no Cadastro de Pessoas Físicas (CPF) da Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda.
+Parágrafo único. Ato do Poder Executivo federal disporá sobre a utilização de documentos alternativos ao CPF, como o Número de Identificação Social (NIS) e o Registro Administrativo de Nascimento do Indígena (Rani), para fins de identificação dos integrantes das famílias registradas no CadÚnico.

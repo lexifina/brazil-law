@@ -1,0 +1,1 @@
+Art. 24. As famílias beneficiárias do Programa Auxílio Brasil deixarão de receber os benefícios financeiros do referido Programa quando passarem a receber os benefícios do Programa Bolsa Família, sem prejuízo das regras de elegibilidade e de manutenção de benefícios do Programa Bolsa Família.

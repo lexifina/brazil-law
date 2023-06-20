@@ -1,0 +1,1 @@
+Art. 13. Fica criada a Rede Federal de Fiscalização do Programa Bolsa Família e do CadÚnico, sob a coordenação do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, na forma estabelecida em regulamento. ()

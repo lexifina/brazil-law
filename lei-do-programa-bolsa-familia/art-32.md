@@ -1,0 +1,1 @@
+Art. 32. As agências financeiras oficiais de fomento desenvolverão, de forma integrada e articulada, instrumentos de crédito específicos para a inclusão produtiva das famílias beneficiárias do Programa Bolsa Família.
