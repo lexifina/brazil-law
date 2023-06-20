@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 3.147-3.259) interposto por CICANORTE INDÚSTRIA DE CONSERVAS ALIMENTÍCIAS S.A., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 3.092-3.093):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NOS EDCL NOS EARESP 790.288/PR.
+1. A Primeira Seção desta Corte, na assentada de 10/11/2021, no julgamento dos EDCL nos EARESP 790.288/PR, de minha relatoria para o acórdão, firmou a compreensão no sentido de que o contribuinte credor que tiver conquistado, em juízo, o reconhecimento à percepção da diferença de correção monetária não considerada por ocasião da conversão de seu crédito em ações terá essa parcela acrescida dos incidentes juros remuneratórios, mas somente até a data da correspondente AGE. Daí em diante, o débito assim consolidado será acompanhado apenas dos consectários próprios dos débitos judicialmente reconhecidos.
+2. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 3.133-3.138).
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 3º, II e III, 150, IV, da Constituição Federal e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, argumenta que teria havido afronta ao princípio constitucional do não confisco pela não incidência dos juros remuneratórios reflexos previstos em lei sobre o crédito dos contribuintes ainda devido pela Eletrobrás.
+Pondera que a diferença conceitual entre os juros remuneratórios pagos e os reflexos é essencial para compreender em que parte o acórdão teria se equivocado. Assim, esclarece que sobre a parcela do principal, convertida em ações na ocasião da AGE, não deveria mais incidir juros remuneratórios porque seriam remuneradas pelos dividendos e sobre essa questão não há discussão.
+No entanto, sustenta que o saldo não convertido em ações por ocasião da AGE, isto é, a diferença de correção monetária sobre o principal que foi reconhecida pelo título executivo, deveria ter tido um tratamento diferente. Entende que sobre esse saldo deveria incidir correção monetária e juros remuneratórios até o seu efetivo pagamento e que não teria havido alteração da natureza jurídica desse crédito.
+Ademais, argumenta que não haveria vedação à cumulação de tais juros remuneratórios reflexos com juros de mora, sendo um inerente ao empréstimo compulsório pela indisponibilidade do capital emprestado e o outro sendo um encargo típico de condenações judiciais pela impontualidade no pagamento.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 3.267).
+É o relatório.
+O Supremo Tribunal Federal, por ocasião do julgamento do AI n. 735.933/RG, na sistemática da repercussão geral, firmou a seguinte tese (Tema 319/STF):
+A questão da incidência e dos índices de correção monetária para a devolução de empréstimo compulsório sobre o consumo de energia elétrica tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+Confira-se a ementa do precedente paradigma:
+EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. LEI 4.156/62. RESTITUIÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA.
+Colhem-se os seguintes trechos da manifestação do relator, Ministro Gilmar Mendes:
+Verifico que a controvérsia relativa aos critérios de correção monetária utilizados para a devolução do empréstimo compulsório incidente sobre o consumo de energia elétrica, instituído pela Lei n. 4.156/62 é matéria de índole infraconstitucional. Eventual ofensa à Constituição Federal, se houvesse, seria de forma indireta, hipótese que impede a admissão do recurso extraordinário.
+ ..
+Assim, neste caso, ante a impossibilidade do exame por esta Corte de matéria infraconstitucional em sede de recurso extraordinário, manifesto-me pela inexistência de repercussão geral da questão posta.
+No caso em análise, assim manifestou-se o relator no voto do acórdão recorrido (fls. 3.100-3.102):
+A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+ ..
+Conforme consignado na decisão agravada, no julgamento dos Edcl nos EAREsp 790.288/PR houve a concessão de efeitos modificativos aos referidos embargos de divergência em razão da necessidade de se readequar a subsunção do caso concreto à já mencionada tese repetitiva desta Primeira Seção, no sentido de que o contribuinte credor que tiver conquistado, em juízo, o reconhecimento à percepção da diferença de correção monetária não considerada por ocasião da conversão de seu crédito em ações terá essa parcela acrescida dos incidentes juros remuneratórios, mas somente até a data da correspondente AGE, sem que a releitura jurídica daí extraída pelo Colegiado tenha incorrido em aviltamento ao caráter vinculante das decisões colegiadas repetitivas.
+Há de se observar, ainda, que a divergência jurisprudencial apresentada pela Eletrobrás foi no sentido da proibição de cumulação de juros remuneratórios com juros de mora, sendo a data das assembleias gerais os marcos consolidadores da dívida, cessando a partir de então a aplicação dos juros remuneratórios, uma vez que ali se consolidou a dívida.
+Da análise dos autos, verifica-se que a discussão cinge-se sobre a incidência de juros remuneratórios em relação ao direito, conquistado em juízo, de percepção da diferença de correção monetária não considerada por ocasião da conversão de seus créditos em ações. Ainda, trata sobre a possibilidade de cumulação de juros remuneratórios reflexos com juros de mora.
+Não é possível, portanto, a análise da violação constitucional alegada no recurso extraordinário, tendo em vista que a matéria ventilada possui nítida índole infraconstitucional, motivo pelo qual incide o Tema n. 319/STF.
+Assim, afastada a repercussão geral, consoante a tese fixada no Tema n. 319/STF, de observância cogente (CPC, art. 927, III, parte final), inviável a própria apreciação do mérito recursal.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. DECRETO-LEI N. 1.512/1976. RESTITUIÇÃO. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS EM RELAÇÃO AOS CRÉDITOS CONSTITUÍDOS. TEMA N. 319/STF. NATUREZA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
