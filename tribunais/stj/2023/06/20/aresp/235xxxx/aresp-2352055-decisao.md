@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por WELLINGTON ANACLETO SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS DE TERCEIRO EM AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE IMÓVEL OBJETO DE INSTRUMENTO DE COMPROMISSO DE COMPRA E VENDA. FALTA DE REGISTRO DO INSTRUMENTO DE COMPROMISSO DE COMPRA E VENDA FIRMADO ENTRE A EMPRESA RÉ (EXECUTADA) E O EMBARGANTE DE TERCEIRO.
+ ..
+FIXAÇÃO DA SUCUMBÊNCIA PARA O CASO EM QUE OS EMBARGOS DE TERCEIRO FORAM JULGADOS PROCEDENTES. Ônus de sucumbência que deve ser fixado com base no princípio da causalidade. Em se tratando de embargos de terceiro envolvendo indisponibilidade de bem, o C. STJ firmou o entendimento de que a responsabilidade recai àquele que possuía o dever de atualizar os dados cadastrais do imóvel objeto da constrição judicial. Observância do enunciado da Súmula nº 303 do C. STJ. Dever do embargante de proceder ao registro do compromisso de compra e venda, para dar publicidade a terceiros.
+Não tendo se desincumbindo de tal obrigação, deve arcar com o pagamento das custas e honorários advocatícios, pois deu causa à efetivação da indisponibilidade, observando-se a gratuidade de justiça concedida. Acolhimento do apelo da Municipalidade neste tocante.
+R. sentença procedência parcialmente reformada.
+RECURSO DE APELAÇÃO DO MUNICÍPIO DE SÃO PAULO PARCIALMENTE PROVIDO.
+Alega divergência de interpretação jurisprudencial com relação ao art. 85, caput e § 3º, I, do CPC, no que concerne à necessidade de inversão dos ônus sucumbenciais, em virtude da aplicação do princípio da sucumbência, tendo em vista que a Fazenda Pública, parte ora recorrida, teria resistido aos embargos de terceiro, insistido na penhora e se tornado, ao fim, a parte sucumbente, o que seria caso de inaplicabilidade da Súmula n. 303 do STJ, trazendo os seguintes argumentos:
+E certo que os ônus sucumbenciais devem ser fixados na sentença, quando serão observados os princípios da sucumbência e da causalidade.
+Conforme exposto anteriormente, a fixação das verbas sucumbenciais em embargos de terceiro é objeto da Súmula nº. 303, do colendo Superior Tribunal de Justiça.
+O entendimento consubstanciado pelo Superior Tribunal, encontra amparo no princípio da causalidade, segundo o qual aquele que deu causa à propositura da ação deve arcar com o pagamento das custas processuais e dos honorários advocatícios.
+Nos termos do artigo 85 do CPC, tem-se que "a sentença condenará o vencido a pagar honorários ao advogado do vencedor". No caso, a sucumbência referente à Fazenda Pública, está prevista no § 3º, inciso I, de referido artigo.
+Vê-se que aquele que deu causa ao início do processo litigioso deve arcar com as despesas processuais dele decorrentes.
+Analisando os autos, verifica-se que recorrente adquiriu o imóvel objeto de restrição, mas não efetuou o registro no Cartório de Registro de Imóveis.
+Assim, em princípio, foi o embargante, ora recorrente, quem deu causa ao ajuizamento da ação de embargos de terceiro.
+Não obstante, o embargado, ora recorrido, ao tomar ciência do ajuizamento destes embargos de terceiro, insistiu na manutenção da penhora, conforme se verifica da contestação e recurso de apelação, atraindo a aplicação do princípio da sucumbência que prevalece frente ao princípio da causalidade.
+Nesse sentido, o colendo Superior Tribunal de Justiça, na tese firmada quando do julgamento do REsp de nº 1.452.840/SP de que o embargado deve responder pela verba sucumbencial: (fls. 265).
+Tanto no julgado do TJMG, quanto no presente caso, discute-se a responsabilidade quanto ao pagamento dos honorários de sucumbência.
+Não é demais frisar: fazendo o confronto entre os dois acórdãos, tem-se que tanto o acórdão recorrido, quanto o acórdão paradigma, enfrentam a seguinte indagação: o recorrido, ao enfrentar o mérito dos embargos, sendo esse julgado procedente, atrai para si a sucumbência
+No entendimento do TJMG, a resposta desta pergunta é sim, uma vez que "não se aplica a súmula 303 do STJ, quando o embargado apresenta resistência à pretensão do terceiro embargante, hipótese em que prevalece o princípio da sucumbência para fins de imposição da condenação ao pagamento dos ônus sucumbenciais". (fls. 269).
+É, no essencial, o relatório. Decido.
+Na espécie, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés de que a resistência da parte recorrida, in casu, atrairia para si a aplicação do princípio da sucumbência, conforme pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
