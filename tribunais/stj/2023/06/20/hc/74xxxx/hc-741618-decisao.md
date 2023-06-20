@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOAO BATISTA DE OLIVEIRA JUNIOR, FRANCISCO MARCOS SANTOS SILVA e GEOVANE DA SILVA, apontando-se como autoridade coatora o Tribunal de Justiça de Goiás (Apelação Criminal n. 5346392-53.2021.8.09.0137 - fls. 21/31).
+Narram os autos que GEOVANE DA SILVA, FRANCISCO MARCOS SANTOS SILVA e JOAO BATISTA DE OLIVEIRA JUNIOR foram condenados, os dois primeiros, pela prática do delito previsto no art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, à pena idêntica de 8 anos, 10 meses e 20 dias de reclusão, mais 21 (vinte e um) dias-multa, à razão mínima, e o último dos crimes descritos nos arts. 157, §§ 2º, inciso II, e 2º-A, inciso I, do Código Penal, e 14 da Lei n. 10.826/2003, à pena total de 10 anos, 10 meses e 20 dias de reclusão, mais 31 dias-multa, à razão mínima, todos em regime fechado (fl. 24).
+Aponta-se, em síntese, que o Magistrado a quo se limitou a simplesmente aplicar as duas causas de aumento de pena previstas na parte especial, descrevendo- as, e não fundamentando em nenhum momento o motivo de fazê-las (fl. 8).
+Requer-se, em liminar, a atribuição de efeito suspensivo à decisão impugnada e, no mérito, a concessão da ordem para a correta aplicação da terceira fase da dosimetria da pena, visto ser a decisão de apelação, seguindo a decisão de primeiro grau completamente carente de fundamentação, devendo, portanto, ser considerado o artigo 68 do Código Penal, e ser aplicada apenas a maior das majorantes (fl. 20).
+Liminar indeferida às fls. 47/48.
+Informações prestadas às fls. 51/71 e 73/92.
+Parecer do Ministério Público Federal, às fls. 95/100, pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório.
+A matéria aqui suscitada é a mesma tratada no AREsp n. 2.165.422/GO, em que já houve decisão definitiva, transitada em julgado.
+Constata-se, assim, tratar-se de mera reiteração de pedido, o que não é admitido nesta Corte.
+Anote-se o precedente:
+REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. REITERAÇÃO DE PEDIDO. NULIDADE DO PAD. OITIVA DE TESTEMUNHAS SEM A PRESENÇA DA DEFESA TÉCNICA. RECONHECIMENTO EM HC ANTERIOR. IMPOSSIBILIDADE DE REEXAME. AGRAVO DESPROVIDO.
+I - Inviável o reexame da alegada nulidade do PAD que reconheceu a prática de falta grave pelo paciente, no curso da execução penal, quando a matéria foi apreciada em habeas corpus anteriormente julgado, no qual foi decretada a nulidade do procedimento administrativo em razão da oitiva de testemunhas sem que estivesse presente a Defesa técnica.
+II - Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ.
+III - Agravo regimental desprovido.
+(AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018)
+Ademais, importante ressaltar que houve a interposição de recurso especial na origem com o mesmo pedido; e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Ainda que assim não fosse, verifica-se que, assim como decidido no AREsp n. 2.165.422/GO, aqui a defesa só impugnou os fundamentos lançados na sentença para aplicação cumulativa das majorantes do crime de roubo; não deduziu argumentos no sentido de demonstrar a ilegalidade da fundamentação lançada no acórdão para a manutenção desse tópico da sentença (fls. 29/30 - grifo nosso):
+ ..
+No caso em exame, deve ser mantido o acréscimo decorrente da causa de aumento do concurso de agentes, a par do emprego de arma de fogo, porquanto o crime de roubo foi praticado de forma premeditada por 3 (três) autores, um deles já tinha trabalhado com a vítima Juarez na construção civil e detinha informações privilegiadas para a consecução da conduta ilícita, notadamente o local, dia e horário que ocorriam o pagamento dos funcionários, durante a ação, um dos autores (JOÃO BATISTA) desferiu um soco no adolescente P. H. P. M., filho da vítima Beatriz, que o fez cair ao chão, as consequências advindas do fato se mostraram desabonadoras pelos danos patrimonial e psicológicos acarretados aos ofendidos, que não recuperaram o valor de R$ 8.780,00 (oito mil, setecentos e oitenta reais) do montante subtraído, necessitaram contrair empréstimo para pagar o restante dos funcionários e mudaram a rotina/logística para pagamento, circunstâncias que transcendem ao resultado típico, contexto apto a demonstrar especial reprovabilidade que referenda a aplicação cumulativa das majorantes.
+ ..
+Assim, considerando a ausência de impugnação do fundamento primário daquele aresto, não há como conhecer da presente insurgência.
+Nesse sentido, confira-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. PRISÃO PREVENTIVA. ALEGADA FALTA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL E DOS REQUISITOS DISPOSTOS NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. PLEITO DE REVOGAÇÃO DA CONSTRIÇÃO PROVISÓRIA NÃO ANALISADO PELO TRIBUNAL DE ORIGEM, POR SE TRATAR DE REITERAÇÃO DE PEDIDO FORMULADO EM OUTRO HABEAS CORPUS. FUNDAMENTO NÃO IMPUGNADO. RAZÕES DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO COMBATIDA. IMPOSSIBILIDADE DE SE ANÁLISE DO CONSTRANGIMENTO ILEGAL NARRADO. REQUERIMENTO DE PRISÃO DOMICILIAR. AUSÊNCIA DE COMPROVAÇÃO DA EXTREMA DEBILIDADE POR MOTIVO DE DOENÇA GRAVE E DA INCOMPATIBILIDADE ENTRE O TRATAMENTO MÉDICO E O ENCARCERAMENTO. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO ORDINÁRIO EM HABEAS CORPUS PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, DESPROVIDO.
+1. Quanto ao pleito de revogação da prisão preventiva, em decorrência da falta de fundamentação idônea do decreto prisional e da ausência dos requisitos autorizadores, o Tribunal de origem não conheceu desse requerimento, por se tratar de reiteração de pedido formulado em outro habeas corpus impetrado anteriormente e já julgado pela mesma Corte estadual - fundamento que não foi impugnado. Dessa forma, as razões apresentadas em relação a esse pleito estão dissociadas da motivação da decisão combatida, motivo pelo qual não é possível analisar o referido constrangimento suscitado.
+ ..
+5. Recuso ordinário em habeas corpus parcialmente conhecido e, nessa extensão, desprovido.
+(RHC n. 116.543/MS, Ministra Laurita Vaz, Sexta Turma, DJe 30/9/2019 - grifo nosso)
+Por fim, quanto ao pedido de detração da pena cumprida preventivamente pelos pacientes, não verifico ilegalidade no decisum impugnado, pois se o período de prisão provisória cumprido não é capaz de alterar o regime inicial, não há ilegalidade a ser sanada.
+Salienta-se que, de acordo com o § 2º do art. 387 do Código de Processo Penal, o juiz, ao proferir a sentença condenatória, computará o tempo de prisão provisória apenas para os fins de determinação do regime inicial de pena privativa de liberdade.
+Dessa forma, considerando-se que a insurgência, se provida, não resultaria em nenhuma modificação na situação dos pacientes, não existiria interesse no provimento do recurso.
+Ademais, incabível o provimento do recurso, quanto a este ponto, nesta Corte Superior de Justiça, pois necessárias informações exatas acerca do tempo de prisão provisória cumprido.
+Ante o exposto, denego a ordem.
+Pu blique-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DAS RAZÕES VEICULADAS EM ARESP ANTERIOR. INADMISSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSTO RECURSO ESPECIAL COM O MESMO PEDIDO. TESE SUBSIDIÁRIA: NÃO IMPUGNAÇÃO DO FUNDAMENTO PRIMÁRIO DO ARESTO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Ordem denegada.
