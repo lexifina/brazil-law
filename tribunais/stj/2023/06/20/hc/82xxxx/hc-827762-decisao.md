@@ -1,0 +1,10 @@
+DECISÃO
+JOAO PAULO DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 1500824-08.2019.8.26.0360, em que foi negado provimento ao recurso para manter "a sentença  ..  que o condenou como incurso nas sanções do artigo 180, "caput", do Código Penal, ao cumprimento de 01 (um) ano e 02 (dois) meses de reclusão e pagamento de 11 (onze) dias-multa, fixados em 1/30 do salário-mínimo em vigor na data dos fatos" (fl. 8).
+Assere a defesa que "o MM Juízo da 2ª Vara do Foro de Mococa/SP fixou a pena corporal em 01 ano e 02 meses, no regime inicial semiaberto, por infração ao artigo 180, caput, do Código Penal, mas nada impede a fixação do regime inicial aberto, após o exame minucioso das circunstâncias judiciais e dos dispositivos que regem a matéria" (fl. 5).
+Todavia, no caso, o Juízo singular, " a nte a quantidade de pena ora aplicada e a reincidência do acusado,  fixou  o regime inicial SEMIABERTO para o cumprimento da pena" (fl. 28).
+A Corte de origem, ao minudenciar os fatos, também salientou que, " q uanto ao regime prisional imponível à espécie, insta conservar-se a adoção da modalidade inicial semiaberto, pois tem-se que a opção pelo regime prisional semiaberto atendeu, sobretudo em virtude da reincidência do agente em crime doloso, ao disposto no artigo 33, § terceiro, do Código Penal" (fl. 19).
+De fato, a circunstância agravante da reincidência constitui fundamento que, segundo o entendimento consolidado do Superior Tribunal de Justiça, permite o estabelecimento de regime inicial mais gravoso, in verbis:
+ ..
+IV - Na hipótese, inexiste constrangimento ilegal a ser sanado, eis que a paciente é reincidente, sendo aplicável, destarte, o regime mais gravoso sequente, qual seja, o semiaberto, nos termos do art. 33, parágrafo 2º, alínea b, do Código Penal  ..  (AgRg no HC n. 708.627/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 27/4/2022).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
