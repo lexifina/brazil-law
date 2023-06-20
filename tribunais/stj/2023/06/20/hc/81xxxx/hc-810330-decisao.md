@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL CARREIRO DA SILVA ESTABEL, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem do habeas corpus, nos termos da seguinte ementa:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. FUNDAMENTAÇÃO CONCRETA DA CUSTODIA. PACIENTE MANTIDO PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. REQUERIMENTO DE PRISÃO DOMICILIAR EM RAZÃO DO ESTADO DE SAÚDE DO PACIENTE, ACOMETIDO COM TUBERCULOSE. AUSÊNCIA DE DEMONSTRAÇÃO DA EXTREMA DEBILIDADE DO PACIENTE PELA DOENÇA OU DE QUE A UNIDADE PRISIONAL NÃO ESTEJA APTA PARA O TRATAMENTO NECESSÁRIO. ORDEM CONHECIDA E DENEGADA, COM RECOMENDAÇÃO.
+PRELIMINAR DE NÃO CONHECIMENTO POR SUPRESSÃO DE INSTÂNCIA. REJEIÇÃO.
+Preliminar de não conhecimento aduzida pela Procuradora de Justiça. Preliminar de não conhecimento. Rejeição. O Habeas Corpus tem previsão no inciso LXVIII do artigo 5º da Constituição Federal, sendo o instrumento contemporaneamente capaz de alcançar qualquer ato constritivo que ameace direta ou indiretamente, de forma atual ou iminente, a liberdade do cidadão. Nada impede, no entanto, que este Tribunal verifique a ocorrência de constrangimento ilegal, até porque os benefícios da execução penal devem ser examinados de ofício, a teor do artigo 195 da Lei nº 7.210/84, permitindo-se o exame quanto ao excesso de prazo ou excesso na execução. Superveniência de formulação do pedido, pelo impetrante, ao juízo da execução. Ordem conhecida.
+Sentença. A dosimetria levou em consideração a quantidade de entorpecente, impondo a pena adequada e fixando o regime o regime semiaberto.
+Higidez da prisão preventiva já examinada por esta colenda Câmara Criminal em Habeas Corpus anterior. Agora, a prisão está sendo mantida na sentença. Tendo o paciente permanecido preso durante toda a instrução processual, pertinente a manutenção da prisão, até porque mostram-se inalteradas as circunstâncias que justificaram a custódia.
+Precedentes.
+Quanto ao estado de saúde do paciente, indica o impetrante como autoridade coatora o juízo que já encerrou a sua jurisdição, com a prolação da sentença. Posteriormente, requereu os benefícios pretendidos ao juízo da execução, ainda pendente de exame.
+Não demonstrado suficientemente neste writ, a gravidade do estado de saúde do paciente, tampouco que o estabelecimento prisional onde se encontra não te m condições de atendimento adequado, além do que existem receituários médicos com medicação adequada ao caso, mostrando a princípio atendimento médico do paciente sendo que o juízo da Vara de Execuções Penais está tomando as providências necessárias para análise do pleito defensivo . Constrangimento ilegal que não se verifica.
+Ordem conhecida e denegada. Unânime."
+Consta nos autos que o paciente foi condenado, em primeiro grau, à pena de 6 anos de reclusão, no regime inicial semiaberto, e ao pagamento de 700 dias-multa, no valor unitário mínimo, como incurso no art. 33, caput, da Lei 11.343/2006.
+Aduz a defesa que o paciente está submetido a constrangimento ilegal na manutenção da prisão preventiva, pois:
+"In casu, a decisão que mantem o paciente preso não possui qualquer justificativa, em concreto, apresentada pelo magistrado; e o tempo extenso da prisão preventiva se tornou desproporcional ante o caso concreto. Ademais, há informação, por parte da mãe do paciente que ele se encontra muito debilitado por conta de uma TUBERCULOSE (informações do juiz da Execução em anexo).
+09. Outrossim, a quantidade de entorpecentes apreendidos 202,9g (duzentos e dois gramas e nove decigramas) não evidencia se tratar de tráfico de grandes proporções.
+Além disso, as peculiaridades envolvendo a prisão não desbordam dos elementos caracterizadores do próprio tipo penal" (e-STJ, fl. 6).
+Aduz, ainda que:
+"os r. Desembargadores justificam o excesso de tempo da prisão pelo fato de que, durante a instrução, o réu permaneceu preso, desconsiderando-se as peculiaridades do caso concreto, notadamente, o fato de que, se for julgada procedente o recurso de apelação, o paciente terá sua pena diminuída pelo art.
+33 § 4º da Lei nº 11.343/06." (e-STJ, fl. 4)
+O pedido de medida liminar foi indeferido (e-STJ, fl. 44).
+Informações prestadas (e-STJ, fls. 57-62).
+O MPF manifestou-se pela denegação da ordem (e-STJ, fls. 69-72).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgad o em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A lei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrênci a de constrangimento ilegal imposto ao réu.
+A prisão preventiva encontra-se devidamente fundamentada.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso, tendo em vista a gravidade concreta da conduta do paciente, que foi preso em decorrência da apreensão do total de 202,9g de cocaína, acondicionados em mais de 400 pinos com dizeres do CV, e 11,7g de maconha, acondicionados em 19 tabletes, também com dizeres da referida facção (e-STJ, fl. 60), a preservação da garantia da ordem pública exige a manutenção da prisão cautelar.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais. eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva (AgRg no HC n. 773.086/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022).
+Por fim, "não há falar em desproporcionalidade entre o decreto prisional preventivo e eventual condenação, tendo em vista ser inadmissível, em habeas corpus, a antecipação da quantidade de pena que eventualmente poderá ser imposta, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado" (AgRg no RHC n. 170.235/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
