@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - Penhora de ativos financeiros da pessoa jurídica executada - Impenhorabilidade - Inexistência - A executada não se desincumbiu do ônus de comprovar que a quantia constrita seria utilizada para o pagamento de dívidas trabalhistas - Inaplicabilidade do art. 833, X, do CPC, pois este tem a finalidade de proteger somente o devedor pessoa física e sua família - Malgrado a alegação de que tenha indicado um imóvel como garantia da execução, o exame dos autos revelou a ausência de juntada da matrícula e da propalada avaliação - Montante bloqueado que não se afigura irrisório, diante da obrigação exequenda - Decisão mantida - Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Não merece reforma a decisão agravada.
+Com efeito, verifico que o Tribunal de origem negou seguimento ao recurso especial com base nas Súmulas 284/STF e 7/STJ (decisão de fls. 426-428/e-STJ).
+Ocorre que a ora agravante não enfrentou especificamente a incidência dos referidos óbices, que permanecem hígidos, limitando-se a repisar os argumentos do recurso especial. Assim, a hipótese é de aplicação da Súmula 182/STJ e do artigo 932, III, do Código de Processo Civil.
+Ainda que assim não fosse, melhor sorte não socorreria à agravante, na medida em que as razões de recurso especial deixaram de impugnar os fundamentos do acórdão recorrido que ora transcrevo, atraindo a incidência da Súmula 283/STF:
+Malgrado a empresa executada teça considerações a respeito da propalada impenhorabilidade, seja porque seria impenhorável com base na interpretação do art. 833, X, do C. STJ, ou porque seria destinada ao pagamento de verba salarial, inexistem quaisquer documentos que pudessem comprovar a natureza do numerário constrito.
+Com efeito, a parte sequer trouxe o extrato bancário, a fim de viabilizar o exame da movimentação financeira, bem como de demonstrar a finalidade de poupar da quantia. Ademais, não juntou prova documental de que o valor seria destinado ao pagamento dos supostos acordos trabalhistas.
+Sobreleva acrescentar que a única documental anexada à impugnação à penhora (fls. 139/165) diz respeito aos propalados prejuízos decorrentes da pandemia de covid-19, não tendo, pois, relação com o ato de apreensão e com a matéria aduzida para fundamentar a impenhorabilidade do montante.
+Outrossim, no presente agravo de instrumento, a parte não apresentou adminículos probatórios que pudessem comprovar a fundamentação recursal, para a pretendida reforma do pronunciamento judicial impugnado.
+Assim, o agravante não se desincumbiu do ônus de provar a impenhorabilidade da quantia bloqueada (art. 854, §3º, I, do CPC), sendo, pois, incontornável a manutenção do bloqueio.
+(..)
+Além disso, ad argumentandum tantum, no tocante ao art. 833, X, do Código de Processo Civil, esta previsão de impenhorabilidade tem a finalidade de proteger o devedor pessoa física e sua família, de modo que não abrangeria a pessoa jurídica:
+(..)
+Cumpre obtemperar, ainda, que, de fato, a executada indicou um imóvel para garantia do juízo, assim descrito à fl. 67 dos autos da execução: "Um imóvel de matrícula nº 6.688, da 2ª CRI de Franca/SP, sito na Av. Rio Branco, sob os nºs 745 e 807, avaliado em R$180.547.402,81, confor me avaliação realizada nos autos da Execução fiscal nº 0002193-40.2012.4.03.6113, em trâmite junto à Egrégia 3ª Vara Federal de Franca/SP".
+Todavia, verifica-se a ausência da matrícula do bem e de sua avaliação, motivo pelo qual, diante da inexistência desses elementos mínimos que norteariam o exame da indicação do imóvel como garantia do juízo, não prospera a assertiva de que o valor constrito deva ser liberado, pois o imóvel serviria para a satisfação do crédito.
+Deveras, com a juntada da documentação que comprove a titularidade do bem, é possível, em tese, a penhora deste para satisfação do crédito exequendo, porém, à luz da carência de informações do bem, nada obsta a prática de atos processuais, visando à excussão de outros bens do patrimônio da agravante.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
