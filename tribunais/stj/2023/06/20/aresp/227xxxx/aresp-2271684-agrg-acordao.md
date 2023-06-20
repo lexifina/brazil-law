@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO PENAL MILITAR. CONSTRANGIMENTO ILEGAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. SÚMULA 284, STF. INVIABILIDADE DO RECURSO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 7, STJ.
+I - A aplicação, por analogia, da Súmula nº 284, STF decorre da constatação de que o conteúdo normativo do dispositivo apontado como violado nas razões do recurso especial está dissociado da tese recursal.
+II - Na hipótese dos autos, houve mero inconformismo da parte recorrente com o desfecho do processo, não tendo sido constatada a alegada violação ao art. 381, inciso III, do Código de Processo Penal.
+III - Conquanto a jurisprudência do Superior Tribunal de Justiça admita a discussão sobre a definição jurídica dada aos fatos incontroversos e expressamente reconhecidos pela instância de origem, incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa da adotada, não bastando mera alegação de que o recurso especial visa ao reenquadramento jurídico dos fatos. Precedentes.
+IV - Uma vez que o acórdão de apelação apontou os motivos pelos quais o agravante foi condenado, a tese recursal só seria viável mediante a reapreciação de fatos e provas, o que é inviável em sede de recurso especial. Inteligência da Súmula nº 7, STJ.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE RODRIGUES CRUZ contra decisão que não conheceu do recurso especial.
+O agravante foi condenado como incurso no art. 222 do Código Penal Militar, à pena de 30 (trinta) dias de detenção em regime inicial aberto (fls. 393-410).
+O Tribunal de Justiça do Distrito Federal e Territórios negou provimento à apelação da defesa que visava à absolvição por insuficiência de provas (fls. 496-514).
+Os embargos de declaração interpostos pelo agravante foram desprovidos (fls. 551-562 e 640-652).
+Inconformada, a defesa interpôs recurso especial para, com fundamento no art. 105, inciso III ,alínea "a", da Constituição Federal, alegar violação ao disposto no art. 381, inciso III, do Código de Processo Penal, pois, a seu juízo, a decisão recorrida não teria indicado com precisão os motivos de fato e de direito capazes de fundamentar a condenação (fls. 593-603).
+O recurso foi inadmitido na origem devido ao óbice da Súmula nº 7/STJ (fls. 681-682).
+O agravo em recurso especial da defesa foi conhecido, mas desprovido em virtude do disposto nas Súmulas nº 284/STF e nº 7/STJ (fls. 704-710).
+Nas razões do presente agravo regimental, a defesa sustenta que não há vícios na fundamentação do recurso e requer o afastamento da Súmula nº 284/STF. Acrescenta, ainda, que a pretensão se destina à revaloração de fatos e provas (fls. 713-721).
+O Ministério Público Federal se manifestou pelo não provimento do agravo regimental em virtude do óbice da Súmula nº 7/STJ (fls. 730-733).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO PENAL MILITAR. CONSTRANGIMENTO ILEGAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. SÚMULA 284, STF. INVIABILIDADE DO RECURSO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 7, STJ.
+I - A aplicação, por analogia, da Súmula nº 284, STF decorre da constatação de que o conteúdo normativo do dispositivo apontado como violado nas razões do recurso especial está dissociado da tese recursal.
+II - Na hipótese dos autos, houve mero inconformismo da parte recorrente com o desfecho do processo, não tendo sido constatada a alegada violação ao art. 381, inciso III, do Código de Processo Penal.
+III - Conquanto a jurisprudência do Superior Tribunal de Justiça admita a discussão sobre a definição jurídica dada aos fatos incontroversos e expressamente reconhecidos pela instância de origem, incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa da adotada, não bastando mera alegação de que o recurso especial visa ao reenquadramento jurídico dos fatos. Precedentes.
+IV - Uma vez que o acórdão de apelação apontou os motivos pelos quais o agravante foi condenado, a tese recursal só seria viável mediante a reapreciação de fatos e provas, o que é inviável em sede de recurso especial. Inteligência da Súmula nº 7, STJ.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que a decisão recorrida deve ser mantida por seus próprios fundamentos. Em que pesem os argumentos da defesa, as razões do recurso especial apontam para a violação da norma do art. 381, inciso III, do Código de Processo Penal, in verbis:
+"Art. 381. A sentença conterá:  ..  III - a indicação dos motivos de fato e de direito em que se fundar a decisão."
+Ocorre que, da leitura da sentença e do acórdão de apelação, observo mero inconformismo da parte recorrente com o desfecho do processo. Conforme se depreende dos argumentos defensivos, as instâncias ordinárias fundamentaram a decisão na palavra da vítima, o que a defesa reputou ser inadequado (fl. 600):
+"Embora a palavra da vítima seja de extrema importância para apuração dos fatos, ela não pode ser usada como base exclusiva de uma condenação criminal, sob pena de ocasionar a inutilidade do devido processo legal. Ademais, em tal caso, o processo penal sempre seria inútil, dado que bastaria a mera acusação pela vítima, para que uma dada pessoa fosse condenada ao cárcere. Assim, para que a palavra da vítima seja usada como fundamento de uma condenação criminal, ela deve ser, no mínimo, corroborada com as outras provas coligidas aos autos, o que não ocorreu nos acórdãos contestados."
+Nada obstante, há contradição entre a narrativa da defesa e os registros processuais. Isso porque outros elementos de prova, além da palavra da vítima, foram considerados para manter a condenação do agravante. Veja-se (fl. 505, grifei):
+"Por outro lado, a vítima declarou ter sido agredida por todos os integrantes da guarnição policial. Afirmou que quem lhe chutou e estapeou eram sargentos, enquanto os cabos lhe agrediram com os bastões táticos. Assim, consoante evidenciam os vídeos do sistema de segurança, a versão vitimária e o depoimento da testemunha, a condenação dos réus como incursos no artigo 222 do Código Penal Militar é medida que se impõe. Explico. Mesmo sem oferecer resistência e após ser brutalmente derrubada, a vítima foi agredida com golpes de bastões tácticos pelos cabos Marcos Silva Pinto e Jarbas Gabriel Alves de Jesus e com chutes pelo 2º Sargento Sérgio Pereira da Silva. Ademais, conforme bem salientado na decisão objurgada, o 3º sargento Alexandre Rodrigues Cruz desferiu um tapa no rosto da vítima quando esta já se encontrava algemada."
+Assim, a manutenção da Súmula nº 284/STF é medida que se impõe, pois a tese recursal está dissociada do dispositivo legal apontado como violado, uma vez que a decisão condenatória foi devidamente fundamentada.
+Na mesma linha, não deve prevalecer o argumento de que o recurso visa tão somente à revaloração das provas dos autos.
+Conquanto a jurisprudência do Superior Tribunal de Justiça admita a discussão sobre a definição jurídica dada aos fatos incontroversos e expressamente reconhecidos pela instância de origem, incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa da adotada, não bastando mera alegação de que o recurso especial visa ao reenquadramento jurídico dos fatos.
+Nesse sentido:
+" ..  A revaloração da prova delineada no próprio decisório recorrido, suficiente para a solução do caso, é, ao contrário do reexame, permitida no recurso especial" (REsp n. 831.058/RS, Quinta Turma, Rel. Min. Felix Fischer, DJ de 12/11/2007, p. 276).
+" ..  inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Conforme já demonstrado, o acórdão de apelação apontou os motivos pelos quais o agravante foi condenado, de modo que o acolhimento da pretensão defensiva pressupõe, necessariamente, a reapreciação do caso para atribuir juízo de valor distinto aos fatos e às provas que constam dos autos.
+Logo, a pretensão do agravante esbarra, ne cessariamente, no óbice da Súmula nº 7 desta Corte, conforme já havia sido constatado na decisão que inadmitiu o recurso especial na origem.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
