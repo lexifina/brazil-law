@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GABRIEL EDUARDO SILVA DE JESUS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Depreende-se dos autos que o ora paciente teve sua prisão em flagrante convertida em preventiva na data de 23/10/2022, pela prática, em tese, do delito de furto qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava o relaxamento da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 22-29.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado no excesso de prazo para a formação da culpa e na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Requer, ao final, o relaxamento ou a revogação da prisão preventiva, ou, subsidiariamente, sua substituição por medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida e as informações foram prestadas às fls. 50-91.
+O Ministério Público Federal manifestou-se pela denegação da ordem, com recomendação de celeridade, nos termos do parecer de fls. 94-95.
+É o relatório.
+Decido.
+Na hipótese, a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, seja pela forma na qual os delitos foram em tese praticados, consistentes em diversos furtos qualificados, cometidos em concurso de agentes, no qual o paciente:
+"foi preso em posse de diversos bens apreendidos, sendo realizados vários furtos na cidade de Nossa Senhora Glória/SE, no dia da festa conhecida como CARNAFORRO, furtos praticados com o arrombamento de veículo e invasão de casas  ..  sendo que as 3(três) pessoas praticaram os furtos, arrombando cerca de 05 (cinco) veículos e 01 (uma) casa." (fl. 33);
+Seja em razão de o paciente responder a outro processo criminal, circunstâncias que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar. em virtude do fundado receio de reiteração delitiva.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg no HC n. 802.845/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 792.071/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no HC n. 795.867/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023; DJe de 24/4/2023; AgRg no RHC n. 178.042/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023.
+Deve-se ressaltar, ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Quanto ao alegado excesso de prazo para a formação da culpa, o habeas corpus está prejudicado, tendo em vista que, em consulta ao sítio eletrônico do Tribunal de origem verifica-se que, em 18/04/2023, foi realizada audiência de instrução ao fim da qual foi encerrada a instrução criminal e concedido à defesa o prazo de cinco dias para apresentação de suas alegações finais.
+Assim, estando o feito em fase de alegações finais, após a realização da audiência de instrução, incide, na hipótese, o teor da Súmula n. 52/STJ, segundo a qual "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto denego a ordem.
+P. e I.
