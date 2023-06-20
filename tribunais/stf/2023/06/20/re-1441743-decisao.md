@@ -1,0 +1,79 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 7, p. 2):
+
+    “APELAÇÃO CÍVEL - Embargos à execução fiscal - Município de Queluz - ISS do exercício de 2012 - Companhia de Desenvolvimento Agrícola de São Paulo - CODASP - Sociedade de economia mista - Não existência de imunidade recíproca – ISS incidente sobre serviços de construção civil - A base de cálculo do imposto é o preço do serviço - Possibilidade de exclusão dos valores referentes aos materiais utilizados na prestação - Precedentes dos Tribunais Superiores e da 15ª Câmara de Direito Público deste Tribunal de Justiça - Sucumbência recíproca – Recurso parcialmente provido.”
+
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 150, VI, a, do Texto Constitucional.
+
+    Nas razões recursais, sustenta-se, em síntese, que (eDOC 12, p. 5-7):
+
+    “Ora, é pacífica a jurisprudência do Supremo Tribunal Federal que sociedades de economia mista que prestam serviço público são abrangidas pela imunidade recíproca:
+
+    (…)
+
+    É certo que a empresa embargante, CODASP, não é negociada em bolsa de valores. Também não é voltada à remuneração de seus acionistas privados, até porque o Estado de São Paulo tem 99,9999% das ações.
+
+    Também não serve à remuneração do Estado de São Paulo.
+
+    Pode-se ver que a empresa, que está em liquidação, foi incluída entre as empresas a serem extintas e liquidadas na Lei Estadual nº 17.056. Note-se que não houve previsão para sua privatização, mas sim liquidação, tendo em vista que não atrairia nenhum investidor privado, já que não é voltada ao lucro, e apenas exerce atividades de serviço público de caráter não concorrencial, vedadas à iniciativa privada, exceto por concessão.
+
+    Em 2012, ano base da cobrança da exação em discussão, e também no ano anterior de 2011 houve na verdade prejuízo da empresa.
+
+    Esses prejuízos foram de quase 30 milhões nesses dois anos.
+
+    (…)
+
+    Quanto à prestação de serviço público, em caráter não concorrencial, é indiscutível, tendo em vista que a exação teve origem no programa estadual Programa Melhor Caminho, para conservação de estradas rurais, por meio de delegação do Estado de São Paulo, no Decreto nº 41.721/97:”
+
+    Observo que este feito já havia subido ao Supremo Tribunal Federal como ARE 1.370.947 de minha relatoria, oportunidade em que determinei a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do CPC, nos termos do art. 328 do RISTF, tendo em conta os Temas 385, 437 e 508 da repercussão geral, que trataram da possibilidade de extensão da imunidade recíproca às sociedades de economia mista (eDOC 21).
+
+    Na ocasião, considerei também que vários aspectos fáticos exigidos pela jurisprudência da Corte para aplicar essa imunidade para pessoa jurídica de direito privado não tinham sido examinados na origem, em razão de questões preliminares a essa análise.
+
+    Reexaminando a questão, a Corte de origem manteve o acórdão recorrido em julgado, cuja ementa, transcrevo abaixo (eDOC 25, p. 2):
+
+    “APELAÇÃO CÍVEL Embargos à execução fiscal Município de Queluz ISS do exercício de 2012 Companhia de Desenvolvimento Agrícola de São Paulo - CODASP Sociedade de economia mista - Não existência de imunidade recíproca Interposição de recurso extraordinário - Recurso devolvido à Turma Julgadora para eventual adequação da fundamentação e/ou manutenção da decisão, nos termos do artigo 1.030, inciso II, do Código de Processo Civil - Acórdão compatível com o entendimento exarado nos Temas nºs 385, 437 e 508 do STF acerca da possibilidade da cobrança - Manutenção da conclusão do julgamento anterior.”
+
+    Por oportuno, destaco o seguinte trecho do voto condutor do acórdão (eDOC 25, p. 4-5):
+
+    “A hipótese em discussão não se mostra incompatível com o entendimento esposado no RE nº 594.015/SP (Tema nº 385), RE nº 601.720/RJ (Tema nº 437) e RE nº 600.867/SP (Tema nº 508) ao decidir pela não existência de imunidade recíproca em favor das sociedades de economia mista voltada à remuneração do capital de seus acionistas ou controladores.
+
+    Conforme explicitado no acórdão, a imunidade recíproca foi afastada por se tratar a CODASP de sociedade de economia mista, sujeita, portanto, ao regime jurídico de direito privado, de modo que ela não goza de privilégio fiscal típico de entidades públicas, ainda que se trate de atividade vinculada ao Estado.”
+
+     É o relatório. Decido.
+
+    A irresignação merece prosperar em parte.
+
+    Inicialmente, verifico que o acórdão recorrido destoa da jurisprudência pacífica da Corte sobre a possibilidade de extensão da imunidade tributária recíproca à sociedade de economia mista delegatária de serviço público essencial, desde que atendidos os requisitos estabelecidos pela jurisprudência do tribunal. Nesse sentido, destaco os seguintes julgados:
+
+    “DIREITO TRIBUTÁRIO. APELAÇÃO E REEXAME NECESSÁRIO. EXECUÇÃO FISCAL. COBRANÇA IPTU. EMBASA. SOCIEDADE DE ECONOMIA MISTA. PRESTAÇÃO DE SERVIÇOS PÚBLICOS. IMUNIDADE TRIBUTÁRIA. PREENCHIMENTO DOS REQUISITOS. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como o revolvimento do quadro fático delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido.” (ARE 1.401.311-AgR, de relatoria da Min. Rosa Weber, Pleno, DJe 6.6.2023)
+
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO DE TRANSMISSÃO DE ENERGIA ELÉTRICA. IMUNIDADE RECÍPROCA. INCIDÊNCIA. JURISPRUDÊNCIA DESTA SUPREMA CORTE. TEMA 508 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. 1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015. 2. O Juízo de origem consignou que se aplica o Tema 235 da repercussão geral, no sentido de que a imunidade tributária prevista na alínea “a” do art. 150, VI, da Constituição Federal alcança a sociedade de economia mista prestadora de serviço público essencial sem caráter concorrencial, desse modo, enquanto ente da Administração Pública indireta, prestadora exclusiva do serviço de geração e transmissão de energia elétrica, a CESP, é alcançada pela imunidade tributária recíproca em relação à cobrança do IPTU do imóvel em questão. 3. Inaplicabilidade, ao caso, do que foi decidido por esta CORTE nos Temas 235 (Imunidade tributária das atividades exercidas pela Empresa Brasileira de Correios e Telégrafos - ECT) e 508 (Imunidade tributária recíproca para sociedade de economia mista com participação acionária negociada em bolsa de valores). 4. O caso ora em análise refere-se à incidência da imunidade tributária recíproca prevista no art. 150, VI, “a”, da Constituição Federal às sociedades de economia mista delegatárias de serviços públicos essenciais relativamente ao IPTU. Trata-se de hipótese distinta das versadas nos referidos precedentes paradigmas. 5. O acórdão recorrido encontra-se alinhado à jurisprudência desta SUPREMA CORTE, no sentido de que as sociedades de economia mista delegatárias de serviços públicos essenciais são beneficiárias da imunidade tributária recíproca prevista no art. 150, VI, “a”, da Constituição Federal. 6. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento.” (RE 1.380.136, de relatoria do Min. Alexandre de Moraes, Primeira Turma, DJe 28.11.2022
+
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPANHIA PAULISTA DE TRENS METROPOLITANOS. IPTU. IMUNIDADE RECÍPROCA. PRECEDENTES. 1. O acórdão recorrido está em harmonia com precedentes do Supremo Tribunal Federal, no sentido de que a Companhia Paulista de Trens Metropolitanos goza da imunidade prevista no art. 150, inc. VI, al. “a”, da Constituição da República, no tocante ao IPTU incidente sobre os imóveis destinados à respectiva atividade-fim. 2. Agravo regimental a que se nega provimento.” (ARE 1.080.156-AgR-segundo, de relatoria do Min. André Mendonça, Segunda Turma, DJe 3.8.2022)
+
+    “Direito administrativo e tributário. Ação cível originária. Sociedade de economia mista integrante da Administração indireta de Estado-membro. Imunidade recíproca. 1. Ação cível originária ajuizada pela Companhia de Saneamento de Sergipe em face da União, na qual postula o reconhecimento de imunidade tributária recíproca quanto aos impostos federais incidentes sobre seu patrimônio, renda ou serviços, vinculados a suas finalidades essenciais ou às delas decorrentes. 2. Em casos análogos, o Supremo Tribunal Federal tem reconhecido sua competência, por estar em jogo questão ligada à imunidade tributária recíproca (art. 150, VI, a, da Constituição), indispensável à preservação do pacto federativo. 3. A imunidade tributária prevista na alínea a do art. 150, I, da Constituição Federal, alcança empresas públicas e sociedades de economia mista prestadoras de serviços públicos essenciais e exclusivos, desde que não tenham intuito lucrativo, enquanto mantidos os requisitos. 4. Pedido procedente.” (ACO 3410, de relatoria do Min. Roberto Barroso, Pleno, DJe 3.5.2022)
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. SERVIÇO PÚBLICO ESSENCIAL. EXTENSÃO. POSSIBILIDADE. 1. A jurisprudência do Supremo Tribunal Federal se consolidou no sentido de que as empresas públicas e sociedades de economia mista delegatárias de serviços públicos de prestação obrigatória e exclusiva do Estado são beneficiárias da imunidade tributária recíproca prevista no art. 150, VI, a, da Constituição Federal. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.349.669-AgR, de relatoria do Min. Roberto Barroso, Primeira Turma, DJe 16.3.2022)
+
+    “Segundo agravo regimental em ação cível originária. Direito tributário. Imunidade tributária recíproca. Artigo 150, inciso VI, a, da CF/88. Possibilidade de reconhecimento a sociedade de economia mista, atendidos os pressupostos fixados pelo Supremo Tribunal Federal. 1. Nos autos do RE nº 253.472/SP, a Corte firmou o entendimento de que é possível a extensão da imunidade tributária recíproca às sociedades de economia mista prestadoras de serviço público, desde que observados os seguintes parâmetros: (i) a imunidade tributária recíproca, quando reconhecida, se aplica apenas à propriedade, aos bens e aos serviços utilizados na satisfação dos objetivos institucionais imanentes do ente federado; (ii) atividades de exploração econômica destinadas primordialmente a aumentar o patrimônio do Estado ou de particulares devem ser submetidas à tributação, por se apresentarem como manifestações de riqueza e deixarem a salvo a autonomia política; e c) a desoneração não deve ter como efeito colateral relevante a quebra dos princípios da livre concorrência e do exercício de atividade profissional ou econômica lícita. 2. É possível o reconhecimento da imunidade tributária recíproca em favor da Companhia de Edição, Impressão e Publicação de Alagoas (CEPAL), sociedade de economia mista, pois: i) executa serviço público essencial, relativamente às suas atribuições de imprensa oficial do Estado de Alagoas; (ii) realiza suas atividades de modo exclusivo à luz das leis estaduais; (iii) o percentual de participação do Estado de Alagoas no capital social da empresa é de 99,7%; (iv) trata-se de empresa de capital fechado. 3. O reconhecimento do direito da autora à imunidade de impostos é restrito ao patrimônio, renda ou serviços “vinculados a suas finalidades essenciais ou às delas decorrentes” (art. 150, § 2º, da CF), ficando excluídos do beneplácito constitucional eventuais patrimônio, renda e serviços que visem exclusivamente ao aumento patrimonial da autora e, por consequência, dos entes que detêm seu controle acionário. 4. Agravo regimental não provido. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, § 11, do CPC).” (ACO 3254-AgR-segundo, de relatoria do Min. Dias Toffoli, Pleno, DJe 21.3.2022)
+
+    Sobre os requisitos estabelecidos pela jurisprudência da Corte, reitero referência registrada pelo Min. Joaquim Barbosa no julgamento do tema 508, ao rememorar um teste constitucional de três estágios, para aferir a aplicabilidade da imunidade tributária recíproca, para os casos em que houvesse dúvida sobre o risco de a aplicação da salvaguarda violar outros valores constitucionais relevantes proposto no julgamento do RE 600.867:
+
+    “1.1. A imunidade tributária recíproca se aplica à propriedade, bens e serviços utilizados na satisfação dos objetivos institucionais imanentes do ente federado, cuja tributação poderia colocar em risco a respectiva autonomia política. Em conseqüência, é incorreto ler a cláusula de imunização de modo a reduzi-la a mero instrumento destinado a dar ao ente federado condições de contratar em circunstâncias mais vantajosas, independentemente do contexto.
+
+    1.2. Atividades de exploração econômica, destinadas primordialmente a aumentar o patrimônio do Estado ou de particulares, devem ser submetidas à tributação, por apresentarem-se como manifestações de riqueza e deixarem a salvo a autonomia política.
+
+    1.3. A desoneração não deve ter como efeito colateral relevante a quebra dos princípios da livre-concorrência e do exercício de atividade profissional ou econômica lícita. Em princípio, o sucesso ou a desventura empresarial devem pautar-se por virtudes e vícios próprios do mercado e da administração, sem que a intervenção do Estado seja favor preponderante.”
+
+    Conforme se extrai do acórdão recorrido e do acórdão que reexaminou o feito, o Tribunal a quo se limitou a considerar que a imunidade recíproca não é extensível a sociedade de economia mista.
+
+    Ante o exposto, nos termos do art. 21, § 2º, do RISTF, dou parcial provimento ao recurso extraordinário apenas para reconhecer a possibilidade de aplicação da imunidade recíproca a sociedade de economia mista, devendo a Corte de origem prosseguir no julgamento, para aferir os demais requisitos para usufruto da exoneração tributária.
+
+    Publique-se.
+
+    Brasília, 20 de junho de 2022.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
