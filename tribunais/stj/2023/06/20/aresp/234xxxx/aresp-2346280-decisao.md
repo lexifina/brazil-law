@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de ação rescisória. Na decisão, julgou-se improcedente o pedido, mantendo-se a denegação da ordem. No Tribunal a quo, a decisão foi mantida e ação julgada improcedente. O valor da causa foi fixado em R$ 10.000,00 (dez mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+AÇÃO RESCISÓRIA - PRETENSÃO À RESCISÃO DA DECISÃO COLEGIADA E REALIZAÇÃO DE NOVO JULGAMENTO, COM FUNDAMENTO NO ARTIGO 966. INCISO V. DO CPC (MANIFESTA VIOLAÇÃO À NORMA JURÍDICA) - IMPROCEDÊNCIA DA AÇÃO QUE SE IMPÕE  INEXISTÊNCIA DE MÁCULA A REDUNDAR NO ACOLHIMENTO DAS TESES ESBOÇADAS NA INICIAL - AÇÃO QUE TEM POR OBJETIVO REEXAME DA MATÉRIA DE DIREITO APRESENTADA NA AÇÃO ORIGINÁRIA - INADMISSIBILIDADE - PREVALECIMENTO DA COISA JULGADA  AÇÃO JULGADA IMPROCEDENTE.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+bem de se observar que a compensação parte do pressuposto jurídico-fático de mitigar os efeitos da construção civil na região, o que é de todo razoável. Aliás, houvesse desproporcionalidade ou falta de relação entre a fórmula questionada e os verdadeiros impactos de vizinhança, isso poderia ter sido muito bem denotado na demanda originária.
+(..)
+no caso em tela, a decisão rescindenda não foi contrária à disposição de texto legal, já que o julgado apenas tomou como certa uma interpretação coerente, conforme os elementos de convicção acostados ao feito. Para que a ação rescisória comporte guarida, mister se faz que a interpretação acolhida pela decisão seja de tal modo absurda que viole o dispositivo legal em sua literalidade.
+(..)
+A bem da verdade, o que o autor pretende é discutir novamente a matéria posta nos autos. Entretanto, a questão suscitada já foi apreciada e decidida pelo v. acórdão rescindendo, não havendo se falar em violação a literal disposição de lei.
+(..)
+A bem da verdade, o que o autor pretende é discutir novamente a matéria posta nos autos. Entretanto, a questão suscitada já foi apreciada e decidida pelo v. acórdão rescindendo, não havendo se falar em violação a literal disposição de lei.
+(..)
+Portanto, não havendo que se falar em violação manifesta à norma jurídica, e levando-se em conta que o r. decisum impugnado não contém mácula capaz de desconstituir a coisa julgada, ausente o pressuposto indispensável ao manejo da ação rescisória, nos termos do art. 966, do Código de Processo Civil.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
