@@ -5,4 +5,3 @@ Art. 5º-B. É facultado ao TAC contratar pessoa jurídica para administrar seus
 I - controlar, emitir e gerir os documentos, inclusive fiscais, inerentes à operação de transporte;
 II - reter e recolher os tributos incidentes, bem como encaminhar ao TAC os comprovantes de pagamento.
 § 4º A pessoa jurídica de que trata o caput deste artigo não poderá ser ou estar vinculada como administradora ou sócia, direta ou indireta, de empresa distribuidora de combustíveis, de rede de revendedores ou de revendedor varejista de combustíveis.
-§ 5º Fica vedado ao contratante ou subcontratante dos serviços de transporte de cargas atuar, na mesma operação, como administrador dos serviços de transporte de que trata o caput, de forma direta ou indireta, inclusive por meio de empresa à qual esteja vinculado como administrador ou sócio ou que integre o mesmo grupo econômico.
