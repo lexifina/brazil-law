@@ -27,3 +27,4 @@ XV - pessoas físicas ou jurídicas que atuem na promoção, intermediação, co
 XVI - as empresas de transporte e guarda de valores;
 XVII - as pessoas físicas ou jurídicas que comercializem bens de alto valor de origem rural ou animal ou intermedeiem a sua comercialização; e
 XVIII - as dependências no exterior das entidades mencionadas neste artigo, por meio de sua matriz no Brasil, relativamente a residentes no País.
+XIX - as prestadoras de serviços de ativos virtuais.
