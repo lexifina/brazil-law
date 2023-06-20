@@ -1,0 +1,16 @@
+DECISÃO
+ANTONIO VICTOR DOS SANTOS, condenado por lesões corporais, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que, além de majorar a pena-base, impôs o regime semiaberto para o início do cumprimento da pena, modificações que pretende a defesa sejam afstadas, com o restabelecimento da sentneça condenatória.
+O caso enseja o julgamento antecipado do habeas corpus, visto que a questão nele ventilada encontra pacífica orientação desta Corte. Deveras, extrai-se dao acórdão impugnado, que, diga-se de passagem, transitou em julgado, no que interessa, que a pena-base foi majorada e o regime semiaberto foi imposto ao paciente, nestes termos (fls. 31-32, destaquei):
+ ..
+De fato, as circunstâncias em que os crimes ocorreram ensejam o incremento da pena inicial. Veja-se, como bem apontou o Ministério Público, que o acusado não permitiu que a vítima, sua própria filha de dois meses de idade, fosse levada ao médico no exato momento em que sofreu as lesões, decorrentes, em parte, de agressão contra a própria companheira, que a tinha no colo. Como não bastasse, o fato de ter pedido à esposa que não contasse a verdade aos médicos, aos pais e aos vizinhos, pode ter causado agravamento do quadro clínico, além da permanência da dor da criança.
+ ..
+Pelas circunstâncias expostas, fixa-se a pena-base em 1/2 acima do mínimo, ou seja, 1 ano e 6 meses de reclusão.
+ ..
+Incabível a substituição da pena por restritivas de direitos, uma vez que se trata de delito praticado mediante violência, nos termos do artigo 44, inciso I, do Código Penal. Além disso, as circunstâncias judiciais não favorecem o acusado.
+Finalmente, tendo em vista a ponderação largamente desfavorável das circunstâncias judiciais, o regime inicial semiaberto se mostra adequado ao caso.
+Como se observa, as circunstâncias do crime, consideradas desfavoráveis, foram devidamente valoradas pelo acórdão, o qual se lastreou, sobretudo, no desenrolar do crime, indiscutivelmente dotado de maior censurabilidade, sobretudo se considerado que a vítima tinha apenas 2 meses de idade e necessitava de cuidados médicos.
+O mesmo se diga em relação ao regime mais gravoso, que se mostra adequado e proporcional ao caso. A despeito da existênncia de apenas uma circunstância judicial desfavorável, o quadro fático delineado pelo Tribunal de origem, no particular, mostra-se suficiente para justificar a adoção do semiaberto, não só diante do modus operandi com que praticado o delito, mas, sobretudo, porque cometido na condição de genitor da vítima.
+Consoante entendimento desta Corte, "Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena" (AgRg no HC n. 482.345/SP, Rel. Ministro Rogerio Schietti, DJe 23/9/2019, destaaquei), tal como se deu na espécie.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
