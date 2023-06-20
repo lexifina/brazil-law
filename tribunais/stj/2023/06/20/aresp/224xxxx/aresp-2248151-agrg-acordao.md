@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental de fls. 503/510 interposto por ALEXANDRE EUGENIO BRAZ em face de decisão de folhas 487/492 que conheceu do agravo em recurso especial para conhecer do recurso especial subjacente e negar-lhe provimento. De ofício, foi reformado o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG no julgamento de apelação criminal n. 1.0693.19.005100-5/001 para afastar a causa de aumento do repouso noturno.
+Consta dos autos que o agravante e corréu foram condenados pela prática do delito tipificado no art. 155, § 1º e § 4º, II e IV, do Código Penal - CP (furto durante repouso noturno mediante concurso de pessoas com escalada). A pena do agravante ficou em 1 ano e 24 dias de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, e 13 dias-multa. (fls. 305/307).
+Recurso de apelação interposto pela defesa do agravante foi desprovido, enquanto que o interposto pela defesa de corréu foi parcialmente provido para fixar honorários advocatícios ao defensor dativo. De ofício, houve ajuste na quantidade de dias-multa (fl. 413).
+Em sede de recurso especial (fls. 422/427), a defesa apontou violação ao art. 155, § 4º, do CP, porque o TJMG deixou de aplicar o princípio da insignificância. Destacou que foi aplicado o privilégio do art. 155, § 2º, do CP; que o objeto do furto foram produtos de limpeza avaliados em R$ 17,00 (dezessete reais); e que o princípio da insignificância pode incidir em furto qualificado, sendo o agravante primário.
+Requereu a absolvição.
+Contrarrazões (fls. 442/445).
+O recurso especial foi inadmitido no TJMG em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ; e b) óbice da Súmula n. 83 do STJ (fls. 447/449).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 453/459).
+Contraminuta (fls. 462/464).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo ou pelo não conhecimento do recurso especial (fls. 477/485).
+Sobreveio a decisão agravada que, em síntese, diante de precedentes do STJ, manteve inaplicável o princípio da insignificância ao caso em tela.
+No presente agravo regimental, a defesa insiste na aplicação do princípio da insignificância em razão daquilo que já constou no recurso especial, notadamente pelo objeto do delito, subtração de produtos de limpeza avaliados em R$ 17,00 (dezessete reais).
+Requereu a reconsideração ou o provimento do agravo com provimento do recurso especial para fins de reconhecimento da atipicidade da conduta.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 155, § 1º E § 4º, II E IV, DO CÓDIGO PENAL - CP. FURTO DURANTE REPOUSO NOTURNO MEDIANTE CONCURSO DE PESSOAS COM ESCALADA. BEM SUBTRAÍDO AVALIADO EM R$ 17,00 (DEZESSETE REAIS). PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVI DO.
+1. Consoante precedentes, não é insignificante o cometimento de furto durante o repouso noturno, em concurso de pessoas e mediante escalada, ainda que o objeto da subtração seja de inexpressivo valor econômico.
+2. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo, impugna de forma específica a decisão agravada, nos limites da matéria deduzida no recurso especial, razão pela qual deve ser conhecido.
+Quanto ao mérito, a decisão monocrática agravada deve ser ratificada por seus próprios fundamentos, eis que lastreada em precedentes desta Corte, embora o valor da res furtiva tenha sido avaliado em apenas R$ 17,00 (dezessete reais).
+Sobre a aplicação do princípio da insignificância, o TJMG asseverou:
+"No caso em exame, conquanto se confirme o valor reduzido da res furtiva (Laudo de Avaliação de fls. 24/26), data vênia, não se pode afastar a reprovabilidade do comportamento dos acusados.
+Isso porque, conforme remansosa jurisprudência, a prática de furto qualificado por escalada, mediante concurso de pessoas e durante o repouso noturno, indica a especial reprovabilidade da conduta, razão suficiente para afastar a aplicação do princípio da insignificância." (fl. 406)
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois inaplicável o princípio da insignificância para furto cometido durante o repouso noturno, em concurso de pessoas e mediante escalada. No mesmo sentido, citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO MAJORADO PELO REPOUSO NOTURNO E QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO E CONCURSO DE PESSOAS (ART. 155, § 1º E § 4º, INCS. II E IV DO CP). PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A orientação do Supremo Tribunal Federal e do Superior Tribunal de Justiça é no sentido de que, para a aplicação do princípio da insignificância, é necessário que estejam configurados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social na ação; c) reduzidíssimo grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada.
+III - Não se aplica o princípio da insignificância ao furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de pessoas, durante o repouso noturno, dada a especial reprovabilidade da conduta.
+Agravo regimental desprovido.
+(AgRg no HC n. 721.216/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. FURTO QUALIFICADO. DELITO COMETIDO COM ROMPIMENTO DE OBSTÁCULO E ESCALADA. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. INVIABILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A aplicabilidade do princípio da insignificância no delito de furto é cabível quando se evidencia que o bem jurídico tutelado (no caso, o patrimônio) sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade social.
+2. No caso, o delito de furto foi perpetrado mediante escalada e rompimento de obstáculo. Outrossim, a baixa expressividade do prejuízo foi meramente circunstancial, haja vista a indicação de que o Agravante buscou por outros itens no interior do imóvel.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, " a  prática de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, em concurso de pessoas e durante o repouso noturno, indica a especial reprovabilidade da conduta, razão suficiente para afastar a aplicação do princípio da insignificância" (AgRg no HC 649.588/SP, Rel. Ministro JOÃO OTÁVIO NORONHA, QUINTA TURMA, julgado em 21/09/2022, DJe 24/09/2021).
+4. Além disso, segundo o entendimento desta Corte Superior, "a reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância, por evidenciar maior grau de reprovabilidade da conduta do acusado, ressalvada excepcional peculiaridade do caso penal" (AgRg no AREsp 904.286/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/12/2016).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.885.147/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe de 25/11/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO COMETIDO EM PERÍODO NOTURNO COM ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. DOSIMETRIA DA PENA. FIGURA PRIVILEGIADA. REDUÇÃO DE 1/2. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DE CONVERSÃO DAS PENAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Interpostos dois agravos regimentais pela defesa contra a mesma decisão, pelo princípio da unirrecorribilidade e pela preclusão consumativa, deve ser analisado apenas o primeiro deles (AgRg no REsp n. 1.860.523/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/9/2020).
+2. A jurisprudência reconhece a maior gravidade do furto qualificado, impedindo a aplicação do princípio da insignificância nos casos em que o furto é praticado mediante escalada, concurso de pessoas, arrombamento ou rompimento de obstáculo (AgRg no HC n. 550.972/SC, Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/2/2020, DJe 28/02/2020) - (AgRg no AREsp n. 1.627.582/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/8/2020).
+3. A pena foi reduzida em 1/2, tendo em vista se tratar de furto cometido com rompimento de obstáculo, o que demonstra a maior periculosidade do agente.
+4. Como não há critério exato para opção entre as formas de incidência do privilégio, não há constrangimento ilegal a ser sanado na escolha da fração redutora, já que devidamente fundamentada, sendo que a dosimetria da pena se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, inexistentes, no caso.
+5. O fato de se tratar de furto qualificado pelo rompimento de obstáculo, cometido em período noturno, não recomenda a redução da reprimenda na fração máxima.
+6. Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal). (AgRg no AREsp n. 1.058.790/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2018, DJe 9/8/2018) - (AgRg no HC n. 527.992/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/12/2019).
+7. Agravo regimental de fls. 379/385 improvido.
+Agravo regimental de fls. 389/395 não conhecido.
+(AgRg no HC n. 447.973/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2020, DJe de 19/10/2020).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
