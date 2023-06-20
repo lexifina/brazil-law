@@ -1,0 +1,8 @@
+DECISÃO
+A Confederação Nacional dos Trabalhadores em Educação - CNTE , com fundamento no art. 138 do CPC/2015, formula, às fls. 1.237-1.254, pedido de ingresso nestes autos na condição de amicus curiae, em razão da afetação do presente feito à sistemática dos recursos repetitivos (Tema 1.169).
+A requerente afirma que representa a categoria dos trabalhadores da educação básica pública nas redes estaduais, municipais e distrital e que o seu interesse encontra-se demonstrado e consubstanciad o no sentido de contribuir para a melhor tese a ser firmada no Tema 1169, a fim de resguardar direitos constitucionais e infraconstitucionais que regem o processo de execução no direito pátrio.
+É o relatório. Decido.
+Nos termos do art. 138 do CPC/2015, os critérios para a admissão da entidade como amicus curiae são a relevância da matéria, a especificidade do tema objeto da demanda, a repercussão social da controvérsia, a pertinência temática (correspondência entre a finalidade institucional da entidade e o objeto da lide) e a representatividade adequada, de âmbito nacional, do ente ora interessado.
+No caso em tela, observa-se que foi devidamente demonstrado o interesse na resolução da controvérsia, bem assim a representatividade necessária à intervenção.
+Ante o exposto, nos termos do art. 138, § 2º, do CPC/2015, defiro o pleito para conferir à Confederação Nacional dos Trabalhadores em Educação - CNTE, na qualidade de amicus curiae, os poderes de apresentar memoriais e manifestações escritas, bem como realizar sustentação oral (esta última, desde que observados os procedimentos regimentais que disciplinam a matéria).
+Publique-se. Intimem-se.
