@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado contra o acórdão exarado no HC n. 0039011-49.2022.8.16.0000, e m que se req uer a revogação da prisão preventiva, perdeu o seu objeto diante da superveniente alteração fático-processual de Erika Patricia Ramos de Moraes.
+De acordo com a s inform ações obtidas na página eletrônica do Tribunal de Justiça do Paraná, nos autos da Ação Penal n. 0005014-97.2022.8.16.0025, da 6ª Vara Criminal de Curitiba/PR, sobreveio a prolação de sentença em 16/11/2022. Na oportunidade, foi julgada parcialmente procedente a pretensão punitiva estatal para condenar a ora paciente pelo delito de tráfico de drogas às penas de 8 anos e 2 meses de reclusão, em regime inicial fechado, mais pagamento de 817 dias-multa. Ainda, foi negado à ré o direito de recorrer em liberdade, tendo o Magistrado de origem agregado novo fundamento ao decreto prisional, diferente dos constantes das fls. 14/19 destes autos.
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação - tendo sido acentuado o fato de a ré estar foragida, inclusive, o Juiz ressaltou que, em audiência de instrução e julgamento, a sentenciada relatou que estava ciente da existência de mandado de prisão em seu desfavor, afirmando categoricamente que não pretendia se apresentar, permanecendo como foragida, razão pela qual está presente o risco a aplicação da lei penal -, cujo requisito específico desafia impugnação própria no Tribunal de origem.
+Nesse sentido , os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Assi m, perdeu o objeto o presente writ; julgo-o, consequentemente, prejudicado.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE N EGADO. NO VO TÍTULO JUDICIAL. ACRÉSCIMO DE FUNDAMENTO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Writ prejudicado.
