@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/06/2023 a 20/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que denegou a segurança.
+Nas razões do recurso (fls. 129-135, e-STJ), o impetrante reitera os fundamentos do mandamus.
+Impugnação às fls. 144-150, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENA DE DEMISSÃO EMBASADA EM MAIS DE UM FUNDAMENTO LEGAL. CAUSA DE PEDIR DO MANDAMUS DISSOCIADA DAS RAZÕES DO ATO APONTADO COMO COATOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Consignou-se na decisão agravada: "O impetrante afirma que foi demitido por ter cometido ato de improbidade administrativa. Sustenta que a Lei 14.230/2021, ao revogar o inciso I do art. 11 da Lei 8.429/1992, afastou também a ilicitude disciplinar que motivou a sua demissão. (..) Como pontuado quando do indeferimento da liminar, a demissão do impetrante não teve como fundamento, apenas, o inciso IV do art. 132 da Lei 8.112/1990 ("improbidade administrativa"), mas também o inciso IX do art. 117 ("valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública"), conduta punível com demissão, nos termos do art. 132, XIII, do referido Estatuto. É o que consta na Portaria n. 1611/2021, subscrita pelo Ministro de Estado da Controladoria-Geral da União (fl. 39, e-STJ, grifei): (..) "Aplicar a penalidade de demissão ao Senhor ERVES DUCATI, com fundamento no artigo 127, inciso III c/c o 129, parte final, por ter descumprido os deveres contidos nos incisos I, II, III e IV do artigo 116, infringido o disposto nos incisos IX e XVIII, do artigo 117 e IV, do artigo 132, da Lei nº 8.112,de 11 de dezembro de 1990 combinado com o artigo 11, "caput" e inciso I, da Lei nº 8.429, de 2 de junho de 1992." (..). A causa de pedir do presente mandamus, portanto, é infundada, porquanto dissociada dos reais motivos que levaram à demissão do impetrante."
+2. No Agravo Interno, a parte reitera os argumentos do mandamus sem impugnar especificamente os fundamentos da decisão agravada.
+3. A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19.5.2023.
+Ao denegar a segurança, consignei:
+O impetrante afirma que foi demitido por ter cometido ato de improbidade administrativa. Sustenta que a Lei 14.230/2021, ao revogar o inciso I do art. 11 da Lei 8.429/1992, afastou também a ilicitude disciplinar que motivou a sua demissão. Ao final, pede:
+(..)
+A irresignação não merece prosperar.
+Como pontuado quando do indeferimento da liminar, a demissão do impetrante não teve como fundamento, apenas o inciso IV do art. 132 da Lei 8.112/1990 ("improbidade administrativa"), mas também o inciso IX do art. 117 ("valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública"), conduta punível com demissão, nos termos do art. 132, XIII, do referido Estatuto.
+É o que consta na Portaria n. 1611/2021, subscrita pelo Ministro de Estado da Controladoria-Geral da União (fl. 39, e-STJ, grifei):
+O MINISTRO DE ESTADO DA CONTROLADORIA-GERAL DA UNIÃO, SUBSTITUTO, no exercício das atribuições conferidas pelos arts. 51 e 52 da Lei nº 13.844, de 18 de junho de 2019, pela Lei nº 8.112, de 11 de dezembro de 1990, e pelo Decreto nº 3.035, de 26 de abril de 1999, adota, como fundamento deste ato, em parte, o Relatório da Comissão de Processo Administrativo Disciplinar, bem como o Parecer nº 00314/2020/CONJUR-CGU/CGU/AGU, aprovado pelos Despachos de nºs 00453/2021/CONJUR-CGU/CGU/AGU e 00460/2021/CONJUR-CGU/CGU/AGU, da Consultoria Jurídica junto a esta Controladoria-Geral da União, nos autos do Processo Administrativo Disciplinar nº 23080.007962/2019-61, resolve:
+Aplicar a penalidade de demissão ao Senhor ERVES DUCATI, com fundamento no artigo 127, inciso III c/c o 129, parte final, por ter descumprido os deveres contidos nos incisos I, II, III e IV do artigo 116, infringido o disposto nos incisos IX e XVIII, do artigo 117 e IV, do artigo 132, da Lei nº 8.112,de 11 de dezembro de 1990 combinado com o artigo 11, "caput" e inciso I, da Lei nº 8.429, de 2 de junho de 1992.
+A causa de pedir do presente mandamus, portanto, é infundada, porquanto dissociada dos reais motivos que levaram à demissão do impetrante.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo Interno contra decisão monocrática que não combate especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação.
+Assim, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. RAZÕES QUE NÃO I MPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+(..)
+IX. Com efeito, a parte agravante tem o ônus da impugnação específica de todos os fundamentos da decisão agravada. Não basta repetir as razões já expendidas, no momento anterior, ou limitar-se a infirmar, genericamente, o decisum. É preciso que o Agravo interno impugne, dialogue, combata, enfim, demonstre o desacerto do que restou decidido.
+X. Sendo assim, o Agravo interno não impugna, especificamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+XI. Agravo interno não conhecido.
+(AgInt na AR n. 6.060/SP, Rel. Min. Assusete Magalhães, Primeira Seção, DJe de 22/11/2022)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. DECISÃO MANTIDA.
+(..) 4. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+5. Assim, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 6. Agravo Interno não conhecido.
+(AgInt no AREsp 1314827/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.4.2021)
+Ante o exposto, não conheço do Agravo Interno.
+É como voto.
