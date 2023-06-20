@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por CLEIDNÉIA SILVA ROCHA e VALDENIR ROCHA contra decisão que não admitiu recurso especial interposto com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 315):
+COMPROMISSO DE VENDA E COMPRA - RESCISÃO - m RESTITUIÇÃO DE QUANTIAS PAGAS - Rescisão por impossibilidade de obtenção de financiamento - Culpa pela rescisão que não pode ser atribuída à vendedora - Resolução determinada - Ausência de pagamento relativamente ao compromisso de compra e venda - Impossibilidade de devolução de valores relativos à cessão de direitos - Sentença reformada - Recurso parcialmente provido
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 390-394).
+No recurso especial (e-STJ, fl. 398-407), os recorrentes alegaram violação aos arts. 396, 399, III e 400, II, do Código de Processo Civil de 2015.
+Insurgiram-se, em suma, contra a conclusão do acórdão recorrido em declarar rescindido o compromisso de compra e venda firmado entre as partes, afastando a restituição de valores atinentes à cessão de direitos.
+Pugnaram, ao final, pelo provimento do recurso, a fim de julgar procedente o pedido de restituição de valores pagos a título de sinal à recorrida Carioba.
+Contrarrazões às fls. 423-429 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+Ao dirimir a controvérsia acerca da rescisão contratual do compromisso de compra e venda, o TJSP declinou a seguinte fundamentação (e-STJ, fls. 316-318, sem grifos no original):
+Trata-se de compromisso de compra objeto de cessão de direito, tendo os autores assumido o lugar no cedente enquanto compradores do imóvel objeto dos autos, os quais pretendem rescindir diante da impossibilidade de aprovação de financiamento e ainda requerem a devolução dos valores pagos por ocasião da cessão.
+Ante a ausência de demonstração, pelos autores, que a obtenção do financiamento foi frustrada por culpa da corré Carioba, o caso deve ser interpretado como desistência dos compradores, por motivação econômica considerável a justificar seu inadimplemento.
+ ..
+No entanto, em que pese os argumentos do douto magistrado, incabível a condenação da apelante em valores que sequer teriam sido recebidos por ela. Isso porque o instrumento contratual relativo à cessão de direitos sobre o imóvel prevê que o cedente seria o destinatário da quantia paga pelos autores, no montante de R$ 25.000,00, a qual segundo consta dos autos sequer teria sido recebido por ele e sim por uma corretora de imóveis independente de nome Shirley (fis. 18).
+Atento às circunstâncias do caso concreto, não houve sequer sinal de pagamento efetivado em nome da apelante, uma vez que essa somente atuou no contrato como anuente, não demonstrado os autores o pagamento de quaisquer parcelas do contrato relativo ao compromisso de compra e venda do imóvel diretamente para a incorporadora ré.
+Desse modo, não havia como a recorrente provar através de prova negativa nos autos não ter recebido os valores narrados pelos autores, de modo que indevida a condenação imposta a ela, eis que o único demonstrativo de pagamento foi efetivado em nome de terceiro estranho à lide e que poderá ter que reparar tais valores em ação autônoma.
+Destarte, a declaração acerca da rescisão do compromisso de compra e venda é correta diante da ausência de formalização da mesma, uma vez que não restou comprovado nos autos a efetiva rescisão entre as partes.
+Por outro lado, não há como determinar a devolução de valores que sequer foram recebidos pela corré e que não se referiam a quitação do contrato de compra do imóvel e sim a cessão de direitos firmada entre os autores e o corréu Leonardo.
+Assim, deve ser o feito julgado parcialmente procedente, apenas para decretar a rescisão do compromisso de compra e venda.
+Reformada a r. sentença e, diante da sucumbência recíproca, cada parte deverá arcar com metade das custas e despesas processuais, bem como honorários advocatícios de 15% sobre o valor da causa em favor da parte contrária, observada a gratuidade.
+Diante do exposto, dá-se parcial provimento ao recurso.
+Examinando as razões expendidas, depreende-se que o acórdão recorrido embasou suas convicções com amparo nos elementos fático-probatórios dos autos, ressaltando que não haveria como "determinar a devolução de valores que sequer foram recebidos pela corré e que não se referiam a quitação do contrato de compra do imóvel e sim a cessão de direitos firmada entre os autores e o corréu Leonardo" (e-STJ, fl. 317), concluindo, assim pela rescisão do compromisso de compra e venda e pela impossibilidade de devolução de valores relativos à cessão de direitos.
+Dessa forma, a revisão das conclusões alcançadas demandaria a incursão no acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de CLEIDNÉIA SILVA ROCHA e VALDENIR ROCHA
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida aos recorrentes.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO. IMPOSSIBILIDADE DE DEVOLUÇÃO DOS VALORES. REVISÃO DO JULGADO. IMPOSSIBILDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE CLEIDNÉIA SILVA ROCHA e VALDENIR ROCHA.
