@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. - Não se conhece de recurso que deixa de impugnar, especificamente, os fundamentos do julgado. Ofensa ao princípio da dialeticidade recursal. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega ofensa aos seguintes dispositivos legais: arts. 1.022 do CPC, 13, parágrafo único, inciso II, da Lei n. 9.656/1998 e 186 e 478 do CC.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou a respeito do seguinte ponto relevante: "a recorrente não comercializa planos na modalidade individual, de modo que não poderia, então, ofertá-lo à recorrida" (fl. 420).
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese: (I) inexistência de previsão legal que obrigue a operadora comercializar plano individual; (II) impossibilidade de migração para o plano individual com a manutenção do preço praticado no plano coletivo; (III) "que a condenação em danos morais é absolutamente indevida, com o devido respeito, na medida em que não houve qualquer ilicitude na rescisão contratual" (fl. 428).
+É, no essencial, o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Cinge-se a controvérsia à migração para plano de saúde individual em razão da rescisão do contrato de plano coletivo.
+Na hipótese dos autos, não há falar em contrariedade ao art. 1.022 do CPC/2015.
+A suposta omissão por parte do Tribunal de origem estaria relacionada à ausência de apreciação de alegação sobre a operadora recorrente não comercializar plano de saúde individual, sendo assim, não poderia ofertá-lo à recorrida. Contudo, verifica-se que não houve a análise do mérito recursal pela Corte de origem, tendo em vista o não conhecimento da apelação por ausência de dialeticidade recursal (fl. 363):
+Pois bem. À luz das normas inseridas em nosso ordenamento jurídico pelo CPC/2015, se não houve impugnação específica dos fundamentos da decisão, fica impedido o conhecimento do recurso, diante da ausência de requisito formal (art. 1.016, III, do CPC).
+No caso em julgamento, não foi possível identificar a impugnação específica dos fundamentos utilizados pelo juízo ao condenar a ré a oferecer à autora, a possibilidade de um contrato individual.
+Note-se que o juízo não se manifestou sobre a legitimidade ou não do cancelamento do plano de saúde coletivo. Essa matéria foi decidida anteriormente, em demandas diversas, conforme relatado, e está acobertada pelo manto da coisa julgada.
+Por ocasião do julgamento dos embargos de declaração, reforçaram-se os seguintes fundamentos (fl. 408):
+No mérito, considero que não assiste razão ao Recorrente, uma vez que o aresto sob foco não padece de qualquer vício a ensejar sua integração.
+A análise do recurso sob exame revela que a Embargante parte da premissa, equivocada, de que o seu recurso não fora conhecido porque teria se limitado a reproduzir os argumentos lançados na contestação. Não foi o que ocorreu.
+A decisão ora embargada foi clara ao dispor que não se conhecia do recurso porque "não foi possível identificar a impugnação específica dos fundamentos utilizados pelo juízo ao condenar a ré a oferecer à autora, a possibilidade de um contrato individual".
+Não se verifica a alegada omissão, uma vez que o mérito recursal não foi sequer analisado pelo Tribunal de origem em decorrência do não conhecimento da apelação por ausência de dialeticidade.
+Nesse cenário, para modificar as conclusões acima e afastar a ofensa ao princípio da dialeticidade reconhecida pelo Tribunal de origem, seria necessário o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial pela Súmula n. 7/STJ.
+No que tange à alegada violação do art. 478 do CC, tem-se que sobre a matéria de que trata não houve emissão de juízo pelo acórdão recorrido, tampouco oposição dos embargos de declaração sobre o tema, fazendo incidir a orientação disposta na Súmula n. 282 do STF.
+No tocante ao suposto desrespeito ao art. 13, parágrafo único, inciso II, da Lei n. 9.656/1998, observa-se que a recorrente se limitou a mencionar o referido dispositivo, sem fundamentar de que forma esse dispositivo da legislação infraconstitucional teria sido contrariado pelo acórdão recorrido, incidindo, na espécie, o impedimento contido na Súmula n. 284 do Supremo Tribunal Federal.
+De outra parte, a Turma julgadora concluiu que "a condenação ao pagamento de danos morais decorreu da inobservância, pela apelante, das normas contidas no artigo 1º da Resolução nº 19/1999 do CONSU, e nos artigos 13 e seguintes da Resolução nº 254/2011 da ANS, e não do cancelamento do plano coletivo" (fl. 363).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente insurgiu contra a condenação por danos morais alegando a ausência de ilicitude na rescisão contratual.
+Ante o exposto, conheço do agravo para, desde logo, conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenad a a operadora recorrente na origem em 5%, totalizando 15%, mantida a base de cálculo, observada a eventual e anterior concessão da gratuidade judiciária.
+Intimem-se.
