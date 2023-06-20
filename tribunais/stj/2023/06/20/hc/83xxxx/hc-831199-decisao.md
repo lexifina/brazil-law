@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RICARDO ARIZONI RODRIGUES contra acórdão do Tribunal Regional Federal da Quarta Região que não conheceu da ação revisional (Revisão Criminal n. 5007104-03.2023.8.04.0000/RS - e-STJ fls. 21/45).
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas às penas de 11 anos, 3 meses e 10 dias de reclusão, no regime fechado, e pagamento de 1.489 dias-multa. A condenação transitou em julgado em 28/1/2019.
+Ajuizada revisão criminal, a defesa alegou que (i) a condenação está fundamentada exclusivamente em elementos da fase indiciária; (ii) não há provas da ligação entre o revisionando e o telefone interceptado; e (iii) os encontros ocorridos com o corréu não se relacionavam a condutas ilícitas. No entanto, a Corte de origem não conheceu do pedido, uma vez que os temas já haviam sido examinados pela Oitava Turma daquele sodalício.
+No presente writ, sustenta a defesa que "não há prova robusta da participação do paciente nos fatos descritos na denúncia. A autoria lhe foi atribuída por elementos informativos da investigação policial que não se confirmaram em juízo." (e-STJ fl. 12)
+Requer, ao final, seja o paciente absolvido do crime de tráfico de drogas.
+É o relatório. Decido.
+De início, observa-se que as teses apresentadas pela defesa não foram decididas pela Corte de origem na ação de revisão criminal, o que impede este Superior Tribunal de Justiça de conhecer as premissas fáticas necessárias para a solução de mérito da impetração.
+Por outro lado, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Na espécie, a defesa apresentou tão somente o acórdão de revisão criminal, deixando de colacionar aos autos peças fundamentais para o exame dos temas, tais como: denúncia, sentença condenatória, acórdão de apelação, o que impede esta Corte Superior de examinar as matérias suscitadas.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
