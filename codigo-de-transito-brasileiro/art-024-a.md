@@ -1,0 +1,2 @@
+Art. 24-A. Compete concorrentemente aos órgãos e entidades executivos de trânsito dos Estados, do Distrito Federal e dos Municípios executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas neste Código, observado o disposto no § 2º do art. 22 e no § 4º do art. 24 deste Código.
+Parágrafo único. As competências privativas previstas no § 2º do art. 22 e no § 4º do art. 24 podem ser delegadas por meio do convênio de que trata o art. 25 deste Código.
