@@ -1,0 +1,5 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015: "Definir se são eficazes os pagamentos de FGTS realizados na vigência da redação dada, ao art. 18 da Lei 8.036/90, pela Lei 9.491/97, diretamente ao empregado, em decorrência de acordo celebrado na Justiça do Trabalho, ao invés de efetivados por meio de depósitos nas contas vinculados do titular". Tema n. 1.176/STJ REsp n. 2.003.509/RN, REsp n. 2.004.215/SP e REsp n. 2.004.806/SP , com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos repetitivos, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
