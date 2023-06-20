@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELMO SILVA LOPES JUNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO na Apelação Criminal Nº 0007359-96.2020.8.08.0035.
+Depreende-se dos autos que o Juízo a quo condenou a parte paciente, nos termos dos artigos 329, 304 c/c 297, 333 e 299 (duas vezes), todos do Código Penal, à pena de 9 (nove) anos e 6 (seis) meses de reclusão e 1 (um) ano de detenção e 360 (trezentos e sessenta dias-multa), em regime inicial fechado e, determinou a perda dos objetos em favor da FUPEN, dentre os quais encontra-se 1 (um) veículo Land Rover Evoque Prestige.
+Inconformada, a Defesa apelou perante o Tribunal de origem, que julgou a interpelação nos termos da documentação parcialmente acostada (fls. 40-46).
+No presente writ, a Defesa sustenta, em apertada síntese, que o paciente está submetido a constrangimento ilegal, ao argumento de violação de domicílio.
+Explica que o cumprimento de ordem de prisão não autorizaria a entrada no quarto do hotel, a despeito de o acórdão de origem ter consignado a prática de novo crime na frente dos policiais.
+Aduz no título: "III - DA ABSORÇÃO DO CRIME DE USO DE DOCUMENTO FALSO, FALSIDADE IDEOLOGIA E FALSIFICAÇÃO DE DOCUMENTO", sem demais argumentos próprios.
+Invoca a tese de falsificação grosseira (fls. 29-30).
+Por fim, espera a restituição dos bens apreendidos em sede de habeas corpus.
+Requer, inclusive LIMINARMENTE, a concessão da ordem para, verbis: "ABSOLVER o paciente da imputação relativa ao crime de uso de documento falso, falsidade ideológica, falsificação de documento, corrupção ativa e resistência, ante a ilicitude das provas. Em caráter subsidiário, requer a aplicação do princípio da absorção dos crimes de uso de documento falso, falsificação de documento e falsidade ideológica, requerendo ainda a restituição dos bens apreendidos" (fl. 38).
+É o relatório.
+Decido.
+De pronto, verifico que o writ em comento é uma mera reiteração do HC n. 800.129/ES, indeferido liminarmente nesta Corte por padecer do mesmo problema que o atual, a falta de instrução adequada.
+Veja-se o que foi explicado na impetração conexa:
+"No caso, o presente habeas corpus não comporta sequer conhecimento, primeiro, porque substitutivo de recurso próprio; e, segundo, em razão da ausência de instrução adequada. Ora, o acórdão objurgado é uma simples transcrição parcial do julgamento, sem relatório e ementa (se houver). Não consta sequer a certidão de julgamento. Embora a d. Defesa também afirme o trânsito em julgado (fl. 3), não menciona se ocorreu para a d. Defesa, colacionando as certidões."
+Por tais motivos, a impetração conexa foi liminarmente indeferida em 6/2/2026 e arquivada definitivamente em 15/2/2023, por falta de recurso.
+Acerca da falta de instrução, a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Nesse sentido, precedentes do col. Supremo Tribunal Federal: HC 137315, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/2/2017; e AgRg no HC 130240, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/12/2015.
+Igualmente, decide esta Corte de Justiça: AgRg no HC 451.403/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2018; AgRg no HC 381.729/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/6/2017; AgRg no RHC 82.676/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2017; e AgInt no HC 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017.
+Sobre a mera reiteração de pedidos, os seguintes julgados deste STJ bem explicam a impossibilidade de reapreciação da matéria : AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 16/8/2017; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no HC 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017.
+No mesmo sentido, o col. Supremo Tribunal Federal: AgRg no RHC 147748, Segunda Turma, Rel. Min. Dias Tóffoli, DJe de 4/4/2018.
+Ante o exposto, não conheço do presente habeas corpus.
+P. I.
