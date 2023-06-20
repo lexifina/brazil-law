@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/06/2023 a 20/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou conflito de competência, para declarar a competência da Justiça Estadual do Pará (Juízo da Vara da Região de Castanhal/PA).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço do conflito, para declarar a competência da Justiça Estadual do Pará (Juízo da Vara Agrária da Região de Castanhal/PA) para processar e julgar o feito."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Conforme se se verifica da leitura dos autos, a ação de Interdito Proibitório se origina de uma complexa situação envolvendo, de um lado, os efeitos da atuação empresarial da autora sobre terras da comunidade indígena Tembé de Tomé-Açu; e, de outro lado, alegados ataques da referida comunidade indígena às propriedades da empresa Brasil Bio Fuels Reflorestamento, Indústria e Comércio S/A. Como se vê, trata-se de uma intensa disputa envolvendo terras indígenas, da qual se originaram 630 boletins de ocorrência apenas nos últimos dois anos (conforme narrado pela suscitante).
+O art. 231, da CF/88 dispõe que: "São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens."
+Conforme se verifica, a defesa das terras indígenas compete à União, o que atrai a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, veja-se:
+ ..
+Retornando ao art. 231 da Constituição, percebe-se que seu parágrafo único vai além, definindo as terras indígenas como, inclusive, aquelas que forem indispensáveis à preservação dos recursos ambientais necessários ao bem-estar da comunidade indígena. Veja-se:
+ ..
+Como se não bastassem todas estas disposições, o art. 109, XI, da CF/88 dispõe, ainda, que compete à Justiça Federal o julgamento de demandas envolvendo direitos indígenas:
+ ..
+Não por acaso, o Juízo da Vara Agrária de Castanhal noticia a existência, na origem, de subatancioso parecer do Ministério Público Federal, opinando pela remessa dos autos à Justiça Federal. Ademais, o art. 232 da CF/88 consagra a legitimidade processual dos indígenas, devendo o Ministério Público intervir em todos os passos do processo. Confira-se:
+ ..
+Tendo em vista que o conflito que originou a demanda gira em torno de disputa sobre terras indígenas (de um lado, os efeitos da atuação empresarial da autora sobre terras da comunidade indígena Tembé de Tomé-Açu; e, de outro lado, ataques da referida comunidade indígena às propriedades da empresa Brasil Bio Fuels Reflorestamento, Indústria e Comércio S/A), há interesse da comunidade indígena e responsabilidade da União Federal e do Ministério Público Federal no acompanhamento do caso, o que, por determinação constitucional atrai a competência da Justiça Federal (art. 109, I, XI; 231, §1º e 232, todos da CF/88).
+Este é, inclusive, o entendimento do STJ. Veja-se:
+ ..
+É imperativo, pois, o reconhecimento da competência da Justiça Federal para processar e julgar a presente demanda.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. DIREITOS INDÍGENAS. CONFLITO DE COMPETÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Nesta Corte, trata-se de conflito de competência suscitado entre o Juízo da Vara Agrária da Região de Castanhal/PA e o Juízo da 2ª Vara da Justiça Federal da Seção Judiciária do Pará, no âmbito do Processo n. 0803776-94.2022.8.14.0015, no qual a parte ajuizou Ação de Interdito Proibitório. Declarou-se a competência da Justiça Estadual do Pará.
+II - O Ministério Público Federal apresentou a petição (fls. 68 e ss), requerendo o declínio de competência do processo originário para a Justiça Federal, considerando que, no Agravo de Instrumento n. 1002201-11.2022.4.01.0000, foi deferido o pedido de antecipação de tutela recursal para declarar a Justiça Federal como a competente para processar e julgar pleito semelhante. No caso, em consulta ao sítio eletrônico do Tribunal Regional Federal, é possível verificar que o citado agravo foi interposto em ação de reintegração de posse ajuizada pela ora requerente contra indígenas da etnia Tembé, em que se busca a concessão de provimento judicial, no sentido de que seja assegurada à suplicante a reintegração na posse do imóvel descrito nos autos, constituído pela Fazenda Campos Belo, localizada na Rodovia PA-140, Ramal da Vila do Socorro, Km 17, Bairro Zona Rural, Tomé-Açu/PA. Entretanto, as áreas objeto de ambos os processos são diferentes: no presente processo, a área de litígio é da Rodovia PA-140, Ramal da Mariquita, Km 31, Fazenda Vera Cruz; enquanto no Agravo de Instrumento n. 1002201-11.2022.4.01.0000, a área é da Rodovia PA-140, Ramal da Vila do Socorro, Km 17, Bairro Zona Rural, Tomé-Açu/PA, Fazenda Campos Belo.
+III - Ademais, conforme entendimento dessa Corte, adotado no CC 189.661/MS, relatora Ministra Nancy Andrighi, Publicação 29/8/2022: "dada a ausência de elementos que demonstrem que a área objeto de reintegração de posse envolva disputa sobre direitos indígenas, até mesmo porque não existe processo administrativo de demarcação no imóvel em questão, remanesce a competência da Justiça Estadual para o julgamento da demanda".
+IV - Na presente hipótese, não foi comprovado nos autos que os ataques praticados pelas comunidades indígenas e quilombolas à propriedade da autora referem-se a questões de disputa de terra. Desse modo, a competência para tratar do processo deve permanecer no Juízo estadual.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Ministério Público Federal apresentou a petição (fls. 68 e ss) requerendo o declínio de competência do processo originário para a Justiça Federal, considerando que, no Agravo de Instrumento n. 1002201-11.2022.4.01.0000, foi deferido o pedido de antecipação de tutela recursal para declarar a Justiça Federal como a competente para processar e julgar pleito semelhante.
+No caso, em consulta ao sítio eletrônico do Tribunal Regional Federal, é possível verificar que o citado agravo foi interposto em ação de reintegração de posse ajuizada pela ora requerente contra indígenas da etnia Tembé, em que se busca a concessão de provimento judicial, no sentido de que seja assegurada à suplicante a reintegração na posse do imóvel descrito nos autos, constituído pela Fazenda Campos Belo, localizada na Rodovia PA-140, Ramal da Vila do Socorro, Km 17, Bairro Zona Rural, Tomé-Açu/PA.
+Entretanto, as áreas objeto de ambos os processos são diferentes: no presente processo, a área de litígio é da Rodovia PA-140, Ramal da Mariquita, Km 31, Fazenda Vera Cruz; enquanto no Agravo de Instr umento n. 1002201-11.2022.4.01.0000, a área é da Rodovia PA-140, Ramal da Vila do Socorro, Km 17, Bairro Zona Rural, Tomé-Açu/PA, Fazenda Campos Belo.
+Ademais, conforme entendimento dessa Corte, adotado no CC n. 189.661/MS, relatora Ministra Nancy Andrighi, Publicação 29/08/2022: "dada a ausência de elementos que demonstrem que a área objeto de reintegração de posse envolva disputa sobre direitos indígenas, até mesmo porque não existe processo administrativo de demarcação no imóvel em questão, remanesce a competência da Justiça Estadual para o julgamento da demanda".
+Na presente hipótese, não foi comprovado nos autos que os ataques praticados pelas comunidades indígenas e quilombolas à propriedade da autora referem-se a questões de disputa de terra.
+Desse modo, a competência para tratar do processo deve permanecer no Juízo estadual.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
