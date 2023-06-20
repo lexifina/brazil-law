@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIZABETH PEREIRA SAMPAIO e EUZENIR NUNES SARNO contra acórdão do Tribunal Regional Federal da 2ª Região, que confirmou a condenação das recorrentes por atos de improbidade administrativa.
+As recorrentes apontaram contrariedade ao art. 942 do CPC/2015, porque, apesar da divergência do entendimento, o Tribunal de origem encerrou o julgamento da apelação por simples maioria, não aplicando a técnica de julgamento ampliado.
+Admissão recursal (e-STJ fls. 1.098/1. 101).
+Passo a decidir.
+Inicialmente, observo que o Tribunal de origem, por maioria de votos, negou provimento ao recurso de apelação, deixando de aplicar a técnica de julgamento ampliado.
+Sobre o tema, o Superior Tribunal de Justiça possui o entendimento de que "o art. 942 do CPC/2015 não estabelece uma nova espécie recursal, mas, sim, uma técnica de julgamento, a ser aplicada de ofício, independentemente de requerimento das partes, com o objetivo de aprofundar a discussão a respeito de controvérsia, de natureza fática ou jurídica, acerca da qual houve dissidência" (REsp 1.762.236/SP, relator p/ acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 15/03/2019).
+Dessa forma, a técnica de ampliação do colegiado deve ser aplicada quando apresentado voto divergente, independentemente de ser o julgamento pela reforma ou manutenção da sentença.
+A propósito:
+RECURSO ESPECIAL. PROCESSO CIVIL. CPC/2015, ART. 942. TÉCNICA DE AMPLIAÇÃO DE JULGAMENTO. DECISÕES COM MAIOR GRAU DE CORREÇÃO E JUSTIÇA. ECONOMIA E CELERIDADE. APELAÇÃO NÃO UNÂNIME QUE REFORMA OU MANTÉM A SENTENÇA IMPUGNADA. EMPREGO AUTOMÁTICO E OBRIGATÓRIO.
+1. Nos termos do caput do art. 942 do CPC/2015, quando o resultado da apelação for não unânime, o julgamento terá prosseguimento em sessão a ser designada com a presença de outros julgadores, em número suficiente para garantir a possibilidade de inversão do resultado inicial.
+2. A técnica de ampliação do julgamento prevista no CPC/2015 possui objetivo semelhante ao que possuíam os embargos infringentes do CPC/1973, que não mais subsistem, qual seja a viabilidade de maior grau de correção e justiça nas decisões judiciais, com julgamentos mais completamente instruídos e os mais proficientemente discutidos, de uma maneira mais econômica e célere.
+3. Contudo, diferentemente dos embargos infringentes do CPC/1973 - que limitava, no caso da apelação, a incidência do recurso aos julgamentos que resultassem em reforma da sentença de mérito -, a técnica de julgamento prevista no CPC/2015 deverá ser utilizada quando o resultado da apelação for não unânime, independentemente de ser julgamento que reforma ou mantém a sentença impugnada.
+4. A forma de julgamento prevista no art. 942 do CPC de 2015 não se configura como espécie recursal nova, porquanto seu emprego será automático e obrigatório, conforme indicado pela expressão "o julgamento terá prosseguimento", no caput do dispositivo, faltando-lhe, assim, a voluntariedade e por não haver previsão legal para sua existência (taxatividade).
+5. Recurso especial provido.
+(REsp 1.733.820/SC, Relator Ministro LUIS FELIPE SALOMÃO,QUARTA TURMA, DJe 10/12/2018).
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. ART. 942, CAPUT, DO CPC. JULGAMENTO NÃO UNÂNIME DE QUESTÃO PRELIMINAR. APELAÇÃO ADESIVA. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO. INOBSERVÂNCIA. NULIDADE.
+1. Ação de indenização ajuizada contra os recorrentes visando à reparação de danos morais.
+2. Controvérsia em torno da necessidade de aplicação da técnica de ampliação do colegiado, prevista no art. 942 do CPC, na hipótese em que não há unanimidade no juízo de admissibilidade recursal.
+3. Proclamado o resultado do julgamento das apelações no dia 9/6/2016, não há dúvidas acerca da incidência das normas insertas no Código de Processo Civil de 2015.
+4. Consoante entendimento de ambas as Turmas que compõem a 2ª Seção do STJ, diferentemente dos embargos infringentes regulados pelo CPC/73, a nova técnica de ampliação do colegiado é de observância automática e obrigatória sempre que o resultado da apelação for não unânime e não apenas quando ocorrer a reforma de sentença.
+5. O art. 942 do CPC não determina a ampliação do julgamento apenas em relação às questões de mérito.
+6. Na apelação, a técnica de ampliação do colegiado deve ser aplicada a qualquer julgamento não unânime, incluindo as questões preliminares relativas ao juízo de admissibilidade do recurso.
+7. No caso, o Tribunal de origem, ao deixar de ampliar o quórum da sessão realizada no dia 9/6/2016, diante da ausência de unanimidade com relação à preliminar de não conhecimento da apelação interposta de forma adesiva pelo autor, inobservou o enunciado normativo inserto no art. 942 do CPC, sendo de rigor declarar a nulidade por "error in procedendo".
+8. Ainda que a preliminar acolhida pelo voto minoritário careça de previsão legal, inviável ao Superior Tribunal de Justiça sanar a nulidade apontada, pois o art. 942 do CPC enuncia uma técnica de observância obrigatória pelo órgão julgador, devendo ser aplicada no momento imediatamente posterior à colheita dos votos e à constatação do resultado não unânime quanto à preliminar.
+9. Uma vez ampliado o colegiado, os novos julgadores convocados não ficam adstritos aos capítulos em torno dos quais se estabeleceu a divergência, competindo-lhes também a apreciação da integralidade das apelações.
+10. RECURSO ESPECIAL PROVIDO PARA DECLARAR A NULIDADE DO JULGAMENTO DAS APELAÇÕES, DETERMINANDO O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE SEJA CONVOCADA NOVA SESSÃO PARA PROSSEGUIMENTO DO JULGAMENTO.
+(REsp 1.798.705/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 28/10/2019).
+No mesmo sentido, confiram-se: REsp 1.835.674, Relator Ministro MAURO CAMPBELL MARQUES, Data da publicação: 05/02/2020, e REsp 1.707.823, Relatora Ministra REGINA HELENA COSTA, Data de Publicação: 14/04/2020.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem p ara que , diante da existência de voto divergente na apreciação do recurso de apelação, seja aplicada a técnica do julgamento ampliado prevista no art. 942 do CPC/2015.
+Publique-se. Intimem-se.
