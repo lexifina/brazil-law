@@ -1,0 +1,1 @@
+Art. 77. As competências de que tratam os incisos VI e VIII do caput do art. 8º desta Lei poderão ser extraordinariamente atribuídas, no todo ou em parte, a órgão específico da estrutura da Presidência da República, conforme dispuser o regulamento.

@@ -1,0 +1,2 @@
+Art. 16. O Conselho da República e o Conselho de Defesa Nacional, com a composição e as competências previstas na Constituição Federal, têm a organização e o funcionamento definidos nas Leis nºs 8.041, de 5 de junho de 1990, e 8.183, de 11 de abril de 1991, respectivamente.
+Parágrafo único. As regras de funcionamento do Conselho da República e do Conselho de Defesa Nacional serão definidas em ato do Poder Executivo federal.
