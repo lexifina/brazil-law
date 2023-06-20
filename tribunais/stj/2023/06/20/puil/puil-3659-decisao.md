@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei interposto pelo Estado de Mato Grosso do Sul contra acórdão proferido pela 2ª Turma Recursal Mista dos Juizados Especiais do Estado, assim ementado (fl. 242):
+EMENTA- RECURSOINOMINADO - POLICIAL MILITAR DA RESERVA -DESCONTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA -NOVA ALÍQUOTA INSTITUÍDA NA LEI FEDERAL Nº 13.954/2019 - APLICAÇÃO DO PERCENTUAL DE 9,5% SOBRE O VALOR TOTAL DOS SUBSÍDIOS - IMPOSSIBILIDADE -INCONSTITUCIONALIDADE DA REFERIDA LEI RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NO TEMA 1.177 - MODULAÇÃO DOS EFEITOS PARA PRESERVAR A HIGIDEZDOS RECOLHIMENTOS DA CONTRIBUIÇÃO DE MILITARES EFETUADOS NOS MOLDES DA LEI Nº 13.954/2019 ATÉ 1º DE JANEIRO DE 2023 - REPETIÇÃO INDEVIDA -SENTENÇA REFORMADA - RECURSO PARCIALMENTE PROVIDO.
+Alega que foi ajuizada na origem, ação declaratória c/c cobrança e obrigação de fazer objetivando a parte autora desconsiderar o teor da Lei Federal 13.954/2019, que determina a incidência da alíquota de contribuição previdenciária calculada sobre o total de proventos de todos os militares.
+A sentença julgou procedentes os pedidos, tendo sido confirmada pela 2ª Turma Recursal Mista, nos termos da ementa acima citada.
+Afirma que há divergência sobre o tema entre as 1ª e 2ª Turmas do mesmo Estado dos Juizados Especiais de Mato Grosso do Sul, devendo ser resolvido em reunião conjunta das Turmas em conflito, para que possa exercer seu mister, aplicando a correta aplicação dos dispositivos constitucionais.
+É o relatório. Passo a decidir.
+Observa-se, no caso, que o presente pedido foi direcionado ao Presidente da Turma de Uniformização dos Juizados Especiais de Mato Grosso do Sul (fl. 254), com fundamento no art. 18, § 1º, da Lei 12.153/2009, objetivando o processamento e julgamento em reunião conjuntadas Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+Nesse contexto, o encaminhamento dos autos a esta Corte Superior ocorreu por equivoco, de forma que devem os autos retornar ao Tribunal de origem.
+Ante o exposto, determino o retorno dos autos ao Tribunal de Justiça do Estado de Mato Grosso do Sul para oportuna análise do incidente a ela direcionado.
+Publique-se. Intimem-se.
