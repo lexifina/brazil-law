@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DO JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DO STJ. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A interposição de habeas corpus contra decisão proferida pelo juízo de primeiro grau não é cabível por incompetência do Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição da República.
+III - A regressão cautelar a regime mais gravoso devido ao suposto descumprimento das condições fixadas para o regime semiaberto não revela patente ilegalidade para que se conceda habeas corpus de ofício. Ademais, esta Corte de Justiça já se manifestou no sentido de que nem mesmo a nulidade absolut a pode ser declarada em supressão de instância.
+IV- A defesa limitou-se a insistir na existência de ilegalidade da decisão do juízo de primeiro grau, nos mesmos moldes da petição inicial, repisando os argumentos do habeas corpus, o que atrai o enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAIMUNDO JOSÉ DOS REIS FILHO contra a decisão monocrática de fls. 18-19, proferida pela Presidente do Superior Tribunal de Justiça, que indeferiu liminarmente o presente habeas corpus.
+Nas razões de agravo, a Defesa sustenta equívoco na decisão agravada, porquanto estaria sofrendo constrangimento ilegal consistente na regressão cautelar do paciente ao regime fechado, embora a condenação tenha fixado o regime inicial semiaberto.
+Requer, ao final, o provimento do agravo, a fim de que seja concedida a ordem de habeas corpus nos moldes pugnados na inicial.
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DO JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DO STJ. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - A interposição de habeas corpus contra decisão proferida pelo juízo de primeiro grau não é cabível por incompetência do Superior Tribunal de Justiça, a teor do art. 105, I, "c", da Constituição da República.
+III - A regressão cautelar a regime mais gravoso devido ao suposto descumprimento das condições fixadas para o regime semiaberto não revela patente ilegalidade para que se conceda habeas corpus de ofício. Ademais, esta Corte de Justiça já se manifestou no sentido de que nem mesmo a nulidade absolut a pode ser declarada em supressão de instância.
+IV- A defesa limitou-se a insistir na existência de ilegalidade da decisão do juízo de primeiro grau, nos mesmos moldes da petição inicial, repisando os argumentos do habeas corpus, o que atrai o enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Em que pesem os argumentos defensivos, o agravo não comporta provimento, porquanto a parte agravante não trouxe argumentos capazes de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, que deve ser mantida, máxime porque embasada no entendimento pacificado desta Corte Superior de Justiça.
+Com efeito, a decisão impugnada acertadamente indeferiu liminarmente o writ, por ser inviável o conhecimento de habeas corpus ajuizado diretamente contra decisão monocrática proferida pelo juízo da execução penal.
+Observa-se que não houve a interposição de recurso cabível na origem, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Com efeito, segundo disposição do art. 105, I, "c", da Constituição da República, este Superior Tribunal de Justiça é competente para conhecer do habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição.
+No caso em foco, portanto, falece competência a este Superior Tribunal de Justiça para julgar habeas corpus impetrado contra decisão monocrática de juiz de primeiro grau.
+Em obediência ao sistema recursal estabelecido pelo ordenamento pátrio, as instâncias ordinárias devem primeiro conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, de modo que fica inviabilizado o conhecimento deste habeas corpus.
+Registre-se que não se afigura patente teratologia para se conceder a ordem de ofício, uma vez que o STJ entende que "não se constata ilegalidade na decisão do juízo da execução que determina a regressão a regime mais rigoroso do que o fixado na sentença ante o cometimento de falta grave, na espécie, descumprimento dos requisitos do regime semiaberto - réu não retornou nos dias e horários ao centro de reclusão. Precedentes" (AgRg no HC n. 594.122/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 23/9/2020).
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que nem mesmo a nulidade absoluta pode ser declarada em supressão de instância, verbis: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023).
+No mais, a Defesa limitou-se a insistir na existência de ilegalidade da decisão do juízo de primeiro grau, nos mesmos moldes da petição inicial, repisando os argumentos do habeas corpus, o que enseja a aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, S exta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao presente agravo regimental.
+É o voto.
