@@ -15,7 +15,7 @@ h) técnicas especializadas, no âmbito de projetos de cooperação com prazo de
 i) técnicas especializadas necessárias à implantação de órgãos ou entidades ou de novas atribuições definidas para organizações existentes ou as decorrentes de aumento transitório no volume de trabalho que não possam ser atendidas mediante a aplicação do art. 74 da Lei nº 8.112, de 11 de dezembro de 1990;
 j) técnicas especializadas de tecnologia da informação, de comunicação e de revisão de processos de trabalho, não alcançadas pela alínea i e que não se caracterizem como atividades permanentes do órgão ou entidade;
 l) didático-pedagógicas em escolas de governo; e
-m) de assistência à saúde para comunidades indígenas; e
+m) de assistência à saúde para povos indígenas e de atividades temporárias de apoio às ações de proteção etnoambiental para povos indígenas; e
 n) com o objetivo de atender a encargos temporários de obras e serviços de engenharia destinados à construção, à reforma, à ampliação e ao aprimoramento de estabelecimentos penais;
 VII - admissão de professor, pesquisador e tecnólogo substitutos para suprir a falta de professor, pesquisador ou tecnólogo ocupante de cargo efetivo, decorrente de licença para exercer atividade empresarial relativa à inovação.
 VIII - admissão de pesquisador, de técnico com formação em área tecnológica de nível intermediário ou de tecnólogo, nacionais ou estrangeiros, para projeto de pesquisa com prazo determinado, em instituição destinada à pesquisa, ao desenvolvimento e à inovação;
