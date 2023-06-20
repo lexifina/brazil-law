@@ -1,3 +1,3 @@
 Art. 36. O Conselho Nacional de Recursos Hídricos será gerido por:
-I - um Presidente, que será o Ministro de Estado do Meio Ambiente e Mudança do Clima;
-II - um Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério do Meio Ambiente e Mudança do Clima responsável pela gestão dos recursos hídricos.
+I - 1 (um) Presidente, que será o Ministro de Estado da Integração e do Desenvolvimento Regional;
+II - 1 (um) Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério da Integração e do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.
