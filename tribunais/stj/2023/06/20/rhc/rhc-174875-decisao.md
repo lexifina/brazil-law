@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por IVANILDO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS proferido no julgamento do HC n. 0807080-82.2022.8.02.0000.
+Extrai-se dos autos que o recorrente teve sua prisão temporária convertida em preventiva, em 7/12/2021, em razão da suposta prática do crime previsto no art. 121, § 2º, II, e IV, do Código Penal (homicídio qualificado).
+Irresignada, a defesa im petrou habeas corpus perante o Tribunal de origem, sendo denegada a ordem, nos termos do acórdão que restou assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS TENTATIVA DE HOMICÍDIO. ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA. TESE NÃO VISLUMBRADA. DECISÃO DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE ACAUTELAMENTO DA ORDEM PÚBLICA E DE GARANTIA DA APLICAÇÃO DA LEI PENAL. ORDEM CONHECIDA E DENEGADA. 1 - Os pressupostos e requisitos necessários à decretação da prisão preventiva do paciente foram devidamente demonstrados, considerando a constatação de indícios suficientes de materialidade e autoria, assim como a necessidade de resguardar a ordem pública, considerando a periculosidade do paciente que, malgrado tecnicamente primário, possui histórico de violência e prisão. 2 - Ademais, supostamente, o paciente se evadiu do distrito da culpa, numa tentativa de se furtar à aplicação da Lei Penal. 3 - Ordem conhecida e, no mérito, denegada" (fl. 196).
+Daí o presente recurso, no qual a defesa sustenta a ausência de fundamentação idônea que justifique a manutenção prisão preventiva após a decisão de pronúncia, baseada exclusivamente na gravidade abstrata do delito.
+Aponta não estarem presentes os requisitos autorizadores da custódia antecipada dispostos no art. 312 do CPP.
+Destaca fazer jus a aplicação de medidas cautelares alternativas (art. 319 do CPP).
+Pleiteia, assim, a expedição de alvará de soltura em favor do recorrente.
+Indeferido o pedido de liminar (fl. 234), as informações foram devidamente prestadas (fls. 238/240); e o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 244/247).
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Isso porque, em consulta ao site do Tribunal de Justiça do Estado de Alagoas, verifica-se que foi proferida sentença de pronúncia no processo n. 0700528-79.2021.8.02.0016, sendo, inclusive, interposto recurso em sentido estrito, recebido pelo TJ/AL em 3/2/2023. Todavia, não foi disponibilizado o teor do julgado.
+É cediço que a egrégia Quinta Turma desta Corte Superior firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus/recurso em habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+Todavia, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso em habeas corpus que busca revogá-la -, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete aos pacientes, a estes incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente recurso em habeas corpus.
+Constatado o silêncio do recorrente quanto a aludida sentença que foi proferida, afigura-se forçoso entender pela perda de objeto do presente recurso em habeas corpus, diante da prolação de novo título.
+Por adotar idêntico raciocínio, faço menção à decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5/2/2016.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
