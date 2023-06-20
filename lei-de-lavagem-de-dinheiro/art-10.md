@@ -1,6 +1,6 @@
 Art. 10. As pessoas referidas no art. 9º:
 I - identificarão seus clientes e manterão cadastro atualizado, nos termos de instruções emanadas das autoridades competentes;
-II - manterão registro de toda transação em moeda nacional ou estrangeira, títulos e valores mobiliários, títulos de crédito, metais, ou qualquer ativo passível de ser convertido em dinheiro, que ultrapassar limite fixado pela autoridade competente e nos termos de instruções por esta expedidas;
+II - manterão registro de toda transação em moeda nacional ou estrangeira, títulos e valores mobiliários, títulos de crédito, metais, ativos virtuais, ou qualquer ativo passível de ser convertido em dinheiro, que ultrapassar limite fixado pela autoridade competente e nos termos de instruções por esta expedidas;
 III - deverão adotar políticas, procedimentos e controles internos, compatíveis com seu porte e volume de operações, que lhes permitam atender ao disposto neste artigo e no art. 11, na forma disciplinada pelos órgãos competentes;
 IV - deverão cadastrar-se e manter seu cadastro atualizado no órgão regulador ou fiscalizador e, na falta deste, no Conselho de Controle de Atividades Financeiras (Coaf), na forma e condições por eles estabelecidas;
 V - deverão atender às requisições formuladas pelo Coaf na periodicidade, forma e condições por ele estabelecidas, cabendo-lhe preservar, nos termos da lei, o sigilo das informações prestadas.
