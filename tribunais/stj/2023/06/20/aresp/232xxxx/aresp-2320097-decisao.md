@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO (UNIMED CAMPINAS) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, UNIMED CAMPINAS alegou, a par de dissídio jurisprudencial, a violação dos arts. 14 e 17 do CPC, 265 do CC e 265, 266 e 267 da Lei 6.404/76; sustentando, em síntese, (1) ilegitimidade passiva da recorrente para responder sobre cláusulas contratuais, com quem jamais contratou; (2) não cabimento da condenação por danos morais.
+(1)  Da  ilegitimidade passiva
+Nas  razões  do  recurso  especial,  UNIMED CAMPINAS  sustentou que é parte ilegítima para figurar no polo passivo da ação.
+TJSP  soberano  na  análise  do  acervo  fático-probatório  dos  autos,  concluiu  o  seguinte:
+Inicialmente, a preliminar de ilegitimidade passiva da UNIMED deve ser AFASTADA, uma vez que compõe o mesmo grupo econômico da CENTRAL NACIONAL UNIMED.
+Desta forma, ainda que as cooperativas sejam constituídas de trabalho médico distinto, formam um grupo econômico identificador com o propósito e atuação das empresas, se distanciando apenas nas respectivas áreas (e-STJ, fl. 510.).
+Assim, para rever as conclusões quanto à legitimidade da parte, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. CIVIL. PENHORA INDEVIDA. INDENIZAÇÃO. OMISSÃO. AFASTAMENTO. ILEGITIMIDADE PASSIVA AD CAUSAM. RECONHECIMENTO. DANO INDENIZÁVEL. CONFIGURAÇÃO. DANO MORAL. QUANTUM. ADEQUAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. PERCENTUAL. CONDENAÇÃO. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA Nº 284/STF. LUCROS CESSANTES. CONDENAÇÃO. INTERESSE DE AGIR. AUSÊNCIA.
+1. Recursos especiais interpostos contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia, considerando-se as alegações contidas nos apelos nobres interpostos por ambas as partes, à verificação i) da ocorrência ou não de negativa de prestação jurisdicional; ii) da legitimidade passiva ad causam do banco réu; iii) da ocorrência de dano indenizável; iv) da adequação do montante fixado a título de danos morais e de honorários advocatícios sucumbenciais e v) da presença dos pressupostos para a fixação de lucros cessantes.
+3. Não se verifica a negativa de prestação alegada quando o Tribunal de origem indica adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e soluciona a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+4. A jurisprudência do Superior Tribunal de Justiça tem entendido que o simples apontamento indevido de bens à penhora pelo exequente já é suficiente para ensejar o dano indenizável. Precedentes.
+5. No caso, a revisão das conclusões do Tribunal de origem, no tocante à legitimidade passiva da instituição financeira e à presença dos pressupostos do dever de indenizar no caso concreto, demandaria o reexame dos elementos de convicção produzidos nos autos, procedimento defeso em recurso especial, nos termos da Súmula nº 7/STJ.
+6. No tocante ao valor fixado pelas instâncias ordinárias a título de danos morais, esta Corte Superior converge quanto à compreensão de que a revisão do montante da indenização só é possível na via especial quando for manifestamente exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade.
+7. No caso concreto, a quantia arbitrada pelo Tribunal de origem destoa dos valores estabelecidos nos demais precedentes firmados no âmbito desta Corte Superior em casos assemelhados, envolvendo penhoras indevidas.
+8. É deficiente a fundamentação recursal que, apesar de apontar o malferimento à legislação federal, é incapaz de evidenciar as ofensas aos dispositivos legais invocados (Súmula nº 284/STF).
+9. Falece o interesse recursal do recorrente quando a pretensão deduzida no recurso já foi atendida na origem.
+10. Recurso especial interposto por BANCO DO NORDESTE DO BRASIL S.A.
+conhecido e parcialmente provido. Recurso interposto por SEBASTIÃO FERRAZ DE CASTRO não conhecido.
+(REsp 1.799.642/PI, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 22/3/2022, DJe 31/3/2022)
+(2)  Do  dano  moral.
+UNIMED CAMPINAS, por fim,  sustentou  que  não existem quaisquer dos elementos necessários à imposição do dever de indenizar.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n.º 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Da leitura das razões do especial, verificou-se que UNIMED CAMPINAS não indicou clara e precisamente os artigos tidos por contrariados, considerando que se limitou o não cabimento dos danos morais, ou, alternativamente, reduzir seu valor, sem apontar dispositivos de lei ofendidos ou argumentos claros e concatenados a fim de se demonstrar sua irresignação ao que ficou decidido pelo Tribunal estadual, o que acarreta a aplicação da Súmula n.º 284 do STF.
+Sobre o tema, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. 1. REDUÇÃO DO DANO MORAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL PORVENTURA VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. ARGUMENTAÇÃO DEDUZIDA SOMENTE NAS RAZÕES DO AGRAVO INTERNO. ANÁLISE INVIÁVEL. INOVAÇÃO RECURSAL. 3. SUCUMBÊNCIA RECÍPROCA EM DANOS MORAIS, À LUZ DO NOVO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à pleiteada redução indenizatória, os agravantes não apontaram nenhum dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, cuja providência é obrigatória para os reclamos interpostos pelas alíneas a e c do permissivo constitucional. Dessarte, constata-se que a argumentação apresentada no recurso revela-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. A alegação, somente na ocasião do agravo interno, de que houve ofensa a dispositivo legal, constitui indevida inovação recursal e torna inviável a análise do pleito, ante a configuração da preclusão consumativa.
+3. Verifica-se que a tese relativa à não incidência da Súmula 326/STJ, em face da atual legislação processual civil, não foi objeto de debate no acórdão impugnado, tampouco foram opostos embargos de declaração quanto ao ponto específico, carecendo, com isso, do indispensável prequestionamento, o que atrai a aplicação das Súmulas 282 e 356 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.473.694/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/3/2020, DJe 13/3/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO INDICAÇÃO INEQUÍVOCA DOS ARTIGOS DE LEI VIOLADOS. SÚMULA 284/STF. ALEGAÇÃO DE AFRONTA A SÚMULAS DE TRIBUNAL. IMPOSSIBILIDADE. ENUNCIADOS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA 518/STJ.
+1. Considerando que o recurso especial tem como escopo a defesa da higidez do direito objetivo e a unificação da jurisprudência em matéria infraconstitucional, é imprescindível que a parte recorrente exponha precisamente os dispositivos legais supostamente violados pela instância de origem.
+2. Analisando o recurso especial de fls. 1165-1175, verificou-se que a parte recorrente não indicou, de maneira clara, precisa e inequívoca, os artigos de lei que teriam sido contrariados, o que atrai o óbice da Súmula 284/STF.
+3. Conforme orientação desta Corte Superior, "a mera menção a dispositivos de lei federal ou mesmo a narrativa acerca da legislação que rege o tema em debate, sem que se aponte a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenchem os requisitos formais de admissibilidade recursal" (REsp 1.672.425/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 08/08/2017, DJe 12/09/2017).
+4. De acordo com o previsto na Súmula 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula". Assim sendo, é indadmissível a análise, por esta Corte Superior, de eventual ofensa às Súmulas 233 e 247/STJ, uma vez que tais enunciados não se enquadram no conceito de lei federal.
+5. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente, o que não ocorreu na espécie. Aplica-se, mais uma vez, o óbice da Súmula 284 do STF ao presente caso.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.362.936/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 20/5/2019, DJe 28/5/2019 - sem destaque no original.).
+  Portanto,  não  merece  reforma  o  acórdão  recorrido  quanto  a  indenização  por  danos  morais.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial de UNIMED CAMPINAS.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ILEGITIMIDADE DA PARTE. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.  DANOS  EXTRAPATRIMONIAIS  CARACTERIZADOS.  NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL DE UNIMED CAMPINAS NÃO COHECIDO.
