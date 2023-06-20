@@ -16,6 +16,6 @@ III - importa ou exporta bens com valores não correspondentes aos verdadeiros.
 I - utiliza, na atividade econômica ou financeira, bens, direitos ou valores provenientes de infração penal;
 II - participa de grupo, associação ou escritório tendo conhecimento de que sua atividade principal ou secundária é dirigida à prática de crimes previstos nesta Lei.
 § 3º A tentativa é punida nos termos do parágrafo único do art. 14 do Código Penal.
-§ 4º A pena será aumentada de um a dois terços, se os crimes definidos nesta Lei forem cometidos de forma reiterada ou por intermédio de organização criminosa.
+§ 4º A pena será aumentada de 1/3 (um terço) a 2/3 (dois terços) se os crimes definidos nesta Lei forem cometidos de forma reiterada, por intermédio de organização criminosa ou por meio da utilização de ativo virtual.
 § 5º A pena poderá ser reduzida de um a dois terços e ser cumprida em regime aberto ou semiaberto, facultando-se ao juiz deixar de aplicá-la ou substituí-la, a qualquer tempo, por pena restritiva de direitos, se o autor, coautor ou partícipe colaborar espontaneamente com as autoridades, prestando esclarecimentos que conduzam à apuração das infrações penais, à identificação dos autores, coautores e partícipes, ou à localização dos bens, direitos ou valores objeto do crime.
 § 6º Para a apuração do crime de que trata este artigo, admite-se a utilização da ação controlada e da infiltração de agentes.
