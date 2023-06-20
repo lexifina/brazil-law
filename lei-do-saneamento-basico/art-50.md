@@ -4,8 +4,8 @@ a) desempenho do prestador na gestão técnica, econômica e financeira dos serv
 b) eficiência e eficácia na prestação dos serviços públicos de saneamento básico;
 II - à operação adequada e à manutenção dos empreendimentos anteriormente financiados com os recursos mencionados no caput deste artigo;
 III - à observância das normas de referência para a regulação da prestação dos serviços públicos de saneamento básico expedidas pela ANA;
-IV - ao cumprimento de índice de perda de água na distribuição, conforme estabelecido em ato do Ministro de Estado do Meio Ambiente e Mudança do Clima;
-V - ao fornecimento de informações atualizadas para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério do Meio Ambiente e Mudança do Clima;
+IV - ao cumprimento de índice de perda de água na distribuição, conforme estabelecido em ato do Ministro de Estado das Cidades;
+V - ao fornecimento de informações atualizadas para o Sinisa, conforme critérios, métodos e periodicidade estabelecidos pelo Ministério das Cidades;
 VI - à regularidade da operação a ser financiada, nos termos do inciso XIII do caput do art. 3º desta Lei;
 VII - à estruturação de prestação regionalizada;
 VIII - à adesão pelos titulares dos serviços públicos de saneamento básico à estrutura de governança correspondente em até 180 (cento e oitenta) dias contados de sua instituição, nos casos de unidade regional de saneamento básico, blocos de referência e gestão associada; e
