@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por GIOVANI ANDREW COSTA DE ARAÚJO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fl. 277):
+APELAÇÃO CRIMINAL  LESÃO CORPORAL GRAVE  PRELIMINAR  CASSAÇÃO DA SENTENÇA NÃO OFERECIMENTO DE SUSPENSÃO CONDICIONAL DO PROCESSO PELO MINISTÉRIO PÚBLICO AUSÊNCIA DE IRRESIGNAÇÃO DEFENSIVA NO MOMENTO OPORTUNO PRECLUSÃO  PREFACIAL REJEITADA. - Eventual Omissão do Ministério Público no oferecimento da suspensão condicional do processo deve ser arguida pela Defesa no momento oportuno, sob pena de preclusão.
+Nas razões do recurso especial (e-STJ, fls. 290/295), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 383 e 492 do Código de Processo Penal, e da Súmula 337 do STJ, pois, "mesmo diante da desclassificação, o Juiz a quo proferiu sentença condenatória sem oferecer ao acusado o benefícios da suspensão condicional do processo" (e-STJ, fl. 294).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ, fls. 331/332).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula 283 do STF (e-STJ, fls. 304/306)
+Não obstante, nas razões do agravo (e-STJ, fls. 308/312), a parte agravante não apresentou impugnação específica ao referido fundamento, limitando-se reiterar as razões do recurso especial.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia" (AgRg no AREsp n. 2.102.665/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023 ).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
