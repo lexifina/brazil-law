@@ -1,0 +1,11 @@
+DECISÃO
+Às fls. 1.254-1.265, o Sindicato dos Trabalhadores em Educação da Universidade Federal do Rio de Janeiro - SINTUFRJ/RJ postulou o seu ingresso no feito na qualidade de amicus curiae, sob o argumento de que " ..  representa categoria de servidores públicos atingidos diretamente pela norma impugnada nestes recursos especiais de repercussão geral, que afetam demandas judiciais coletivas".
+É o breve relatório. Decido.
+A participação do amicus curiae tem por escopo propiciar a participação de segmentos da sociedade na formação dos precedentes das Cortes de Justiça, de forma a garantir o diálogo entre as plurais visões sobre o tema em debate no intuito de melhor respaldar a decisão judicial que irá dirimir a controvérsia posta nos autos.
+A esse respeito, a Suprema Corte já decidiu que "Conforme o art. 138 do CPC/15, os critérios para admissão de entidades como "amicus curiae" são a relevância da matéria, especificidade do tema ou repercussão social da controvérsia, assim como a representatividade adequada do pretendente" (RE 705.423 AgR-segundo/SE. Rel. Ministro Edson Fachin, DJe 15/12/2016).
+Nesse sentido, a admissão de amicus curiae no âmbito desta Corte Superior de Justiça, notadamente com relação aos recursos repetitivos, exige, em regra, a presença de dois requisitos: a representatividade e a pertinência com a questão discutida.
+No caso em tela, não obstante a demonstração de que a atividade institucional do requerente guarda pertinência com o tema afetado, falece, no entanto, da presença de representatividade suficiente para sua admissão.
+Com efeito, tendo o Superior Tribunal de Justiça jurisdição em todo território nacional e aplicando, por analogia, o art. 103, IX, da Constituição Federal, exige-se, em regra, abrangência nacional das entidades de classe que buscarem ingressar como amicus curiae, que deve ser comprovada no ato em que se pede o ingresso no feito.
+No caso concreto, infere-se do documento acostado à fl. 1.360 que o requerente possui abrangência intermunicipal e tem como base territorial o Rio de Janeiro.
+Isso posto, indefiro o pedido de ingresso como amicus curiae formulado pelo Sindicato dos Trabalhadores em Educação da Universidade Federal do Rio de Janeiro - SINTUFRJ/RJ.
+Publique-se. Intimem-se.
