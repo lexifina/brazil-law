@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DAVID DOS SANTOS FREIRE apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0735953-46.2022.8.07.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente por ser, em tese, líder de organização criminosa que cometeu 37 delitos de estelionato, 13 de falsidade ideológica, 3 de falsificação de documento público e 13 de uso de documento falso, além de lavagem de dinheiro (e-STJ fl. 30).
+O Tribunal de origem denegou a ordem (e-STJ fls. 29/33).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Argumenta estar configurado constrangimento ilegal pelo excesso de prazo para o encerramento da instrução criminal.
+Assere que é pai de 4 crianças menores de idade, com uma delas em estado crítico em UTI.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa (e-STJ fls. 22/23).
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Preliminarmente, verifica-se que o colegiado a quo não examinou a tese relativa aos fundamentos da prisão preventiva, ante o reconhecimento da reiteração de pedido já analisado em impetração anterior. Entretanto, o referido acórdão que examinou o tema não foi acostado ao presente writ, o que, a toda evidência, impede o exame da tese suscitada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Noutro ponto, o argumento de ser provedor de quatro filhos menores de idade, um deles em estado de saúde grave, não foi debatido pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância. Não reconheço, ademais, flagrante ilegalidade nesse ponto, haja vista que, em relação ao estado de saúde da criança, há apenas uma decisão de 31/3/2022 (e-STJ fls. 42/44), não havendo elemento contemporâneo que justifique a concessão da ordem de ofício.
+No tocante ao alegado excesso de prazo para a formação da culpa, extrai-se das informações do Juízo de origem que a "instrução processual está em andamento, com audiências realizadas em 14/09/2022, 04/11/2022, 25/11/2022 e 09/01/2023. O ora paciente foi interrogado nesta última data, confessando parcialmente os fatos. Foi designado o dia 02/02/2023 para a conclusão dos interrogatórios" (e-STJ fl. 126).
+Ora, ao que tudo indica a instrução já foi encerrada, o que apenas não foi possível confirmar em razão da indisponibilidade do sistema de consulta processual eletrônica do Tribunal de origem.
+De todo modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo teve regular andamento na origem. Ademais, eventual delonga para o seu término se deve à complexidade do feito, a que respondem 12 réus com representantes distintos, além da apuração de diversos crimes, com necessidade de oitiva de diversas testemunhas, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO TENTADO E HOMICÍDIO QUALIFICADO TENTADO. (I) PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. (II) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PLURALIDADE DE RÉUS. EXPEDIÇÃO DE CARTAS PRECATÓRIAS. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. (III) CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. (IV) MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIENTES PARA RESGUARDAR A ORDEM PÚBLICA.
+ ..
+5. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC-331.669/PR, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+6. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o Magistrado singular procura imprimir à ação penal andamento regular.
+ ..  (HC n. 369.976/MG, de minha relatoria, SEXTA TURMA, julgado em 6/12/2016, DJe 16/12/2016.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE INJUSTIFICADO EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO OCORRÊNCIA. DILIGÊNCIAS ESPECÍFICAS. INSTRUÇÃO PRÓXIMA DE ENCERRAMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. RECURSO ORDINÁRIO DESPROVIDO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, o Tribunal de origem entendeu que o processo tramita dentro do princípio da razoabilidade, sem registro de qualquer atraso relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão. O recorrente encontra-se preso desde 6/11/2016, com denúncia oferecida em 13/12/2016 e resposta à acusação apresentada em 28/7/2016, sendo que, a despeito da necessidade da expedição de cartas precatórias, os autos receberam marcha célere, com designação de audiência de instrução e julgamento para o dia 19/4/2017, somente não realizada devido à não apresentação do acusado pela Secretaria de Ressocialização. Não obstante, a instrução encontra-se na iminência de seu encerramento, com a audiência redesignada para o dia 17/8/2017.
+ ..  (RHC n. 82.958/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+Soma-se a isso o fato de não haver manifesta desproporcionalidade no lapso transcorrido desde a efetivação da custódia cautelar até o presente momento, mormente se tratando de imputação de ser, em tese, líder de organização criminosa que cometeu 37 delitos de estelionato, 13 de falsidade ideológica, 3 de falsificação de documento público e 13 de uso de documento falso, além de lavagem de dinheiro.
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem, acolhido o parecer ministerial.
+Publique-se. Intimem-se.
