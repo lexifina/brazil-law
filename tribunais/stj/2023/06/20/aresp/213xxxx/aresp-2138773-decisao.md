@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por PANINI BRASIL LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 180):
+DISTRIBUIÇÃO Ação de cobrança Autora que não se desincumbiu, minimamente, de comprovar fato constitutivo de seu direito, correspondente à efetiva entrega à ré dos produtos apontados nos documentos que instruíram a inicial, todos unilateralmente elaborados pela primeira Notas fiscais sem prova de recebimento de mercadoria -Reforma da sentença, para julgamento de improcedência da ação, em relação a todos os réus, nos moldes do art. 1.005 do CPC, ante a solidariedade passiva, e para condenar a autora nas despesas processuais e honorários advocatícios Recurso da ré pessoa jurídica não conhecido. Recurso dos réus pessoas físicas provido.
+Embargos de declaração não conhecidos (fls. 194-198).
+No recurso especial, alega a recorrente afronta aos arts. 373, I, e 374, II, do Código de Processo Civil, ao defender, em síntese, que desincumbiu-se do ônus probatório de demonstrar o fato constitutivo de seu direito, tendo em vista que os próprios recorridos confessaram a existência da dívida reclamada. Aduz que fez prova de que as publicações reclamadas foram efetivamente entregues e recebidas pelos recorridos.
+Sem contrarrazões o recurso especial (fls. 216).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 217-218), o que ensejou a interposição do presente agravo.
+Sem contraminuta o agravo (fls. 233).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo à análise do recurso especial.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao apreciar as questões referentes à prova e ao ônus da prova, firmou entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 182):
+Isso porque, realme nte, não se desincumbiu a autora, minimamente, do ônus de comprovar a efetiva entrega dos produtos apontados nas notas fiscais que instruíram a petição inicial, o que é veementemente negado pelos réus, diga-se, e corroborado, aliás, pelo fato de se encontrarem em branco, os campos de tais documentos, relativos ao recebimento dos produtos (fls. 38/50).
+A par disso, não se pode desconsiderar, evidentemente, a total impossibilidade de os réus procederem à comprovação de fato negativo, é dizer, a ausência de recebimento dos produtos apontados nos documentos que instruíram a petição inicial.
+O fato de haver distrato com prazo de 90 dias para a consumação da contratação não isentava a autora de comprovar a entrega de mercadoria,
+Nesse contexto, respeitada a convicção do i. juiz da causa, não há como concluir, mediante presunção, pela efetiva entrega dos produtos relacionados nos documentos unilateralmente elaborados pela autora à pessoa jurídica demandada (fls. 28/50), o que obsta, evidentemente, o acolhimento do pedido inicial, em relação a qualquer dos réus.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. ARTIGO 1.025 DO CPC/2015. APLICAÇÃO. ALEGAÇÕES RELEVANTES. TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA. CARACTERIZAÇÃO. ÔNUS DA PROVA. INVERSÃO. CRITÉRIO DO JUIZ. REVISÃO. IMPOSSIBLIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Para que o artigo 1.025 do CPC/2015 seja aplicado , é necessário que, além de ter havido oposição de aclaratórios na origem e indicação de violação do art. 1.022 do CPC/2015 no recurso especial, as alegações da recorrente sejam relevantes e pertinentes com a matéria, o que não se verifica no presente caso.
+4. O aresto recorrido está de acordo com a jurisprudência desta Corte no sentido de que a teoria finalista deve ser mitigada nos casos em que a pessoa física ou jurídica, ainda que não seja destinatária final do produto, apresente-se em estado de vulnerabilidade ou hipossuficiência técnica em relação ao fornecedor.
+5. A inversão do ônus da prova fica a critério do juiz , que deve apreciar, a partir do substrato fático-probatório dos autos, a verossimilhança das alegações do consumidor e a sua hipossuficiência, o que não pode ser revisto no recurso especial diante do óbice da Súmula nº 7/STJ.
+6. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias acerca da caracterização da vulnerabilidade da pessoa jurídica , a ensejar a aplicação da teoria finalista mitigada, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial pelo óbice da Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.008.484/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, obser vados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
