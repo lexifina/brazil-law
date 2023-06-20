@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRAYAN PETERSON GURGEL apontando como autoridade coatora o juízo da 1ª Vara Criminal da Comarca de Ipatinga, Estado de Minas Gerais, no julgamento da Ação Penal n. 0313.20.003524-1 (CNJ n. 0035241-34.2020.8.13.0313).
+O Ministério Público ofereceu denúncia contra o paciente porque, em 7 de junho de 2020, ele foi flagrado conduzindo veículo automotor em via pública com capacidade psicomotora alterada em razão de influência de álcool. Após o encerramento da fase instrutória, o paciente foi condenado a 6 (seis) meses de detenção, e 10 (dez) dias-multa, além da suspensão do direito de dirigir veículo automotor pelo prazo de dois meses (e-STJ, fls. 93-96).
+Em suas razões, os impetrantes alegam constrangimento ilegal, causado pelo fato de o equipamento responsável pela aferição do estado etílico do paciente não se prestava para tal comprovação, uma vez que o exame foi realizado após a data de sua aferição anual, de maneira que não havia como verificar se o aparelho atendia os requisitos exigidos pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO).
+Diante disso, requer a concessão da ordem para que seja reconhecida a irregularidade do teste de alcoolemia, para absolvê-lo do crime imputado, nos termos do art. 386, incisos II e III, do Código de Processo Penal.
+Não há pedido liminar.
+É o relatório. Passo a decidir.
+Não é possível dar seguimento ao presente recurso.
+A irresignação se dirige a ato proferido por Juízo de primeiro grau em sede de sentença condenatória, o que evidencia a incompetência do Superior Tribunal de Justiça para apreciar e julgar originariamente a causa, nos termos do art. 105, inciso II, da Constituição Federal.
+Nesse sentido, mutatis mutandis:
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRETENSÃO ABSOLUTÓRIA POR INSUFICIÊNCIA DE PROVAS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO CRIMINAL. AUTORIDADE COATORA. JUIZ DE DIREITO. WRIT NÃO CONHECIDO. 1. Este Superior Tribunal de Justiça não tem competência para apreciar Habeas Corpus impetrado contra ato de Juiz de Direito. 2. Parecer pelo não conhecimento do Habeas Corpus ou, alternativamente, que seja julgado prejudicado. 3. Writ não conhecido. (HC 84.947/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Quinta Turma, DJe 31/3/2008).
+Ainda que assim não fosse, ao que se tem dos autos, os temas aduzidos nas razões deste writ não foram levados a conhecimento das instâncias antecedentes, que, sobre elas, não se manifestaram, o que reforça a impossibilidade de exame de tais alegações diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Assim, não se constata constrangimento ilegal causado por Tribunal de Justiça ou Tribunal Regional Federal apto a autorizar o processamento e julgamento deste habeas corpus pelo Superior Tribunal de Justiça.
+Ante o exposto, com esteio no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
