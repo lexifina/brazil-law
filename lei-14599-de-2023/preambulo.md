@@ -1,0 +1,2 @@
+Posterga a exigência do exame toxicológico periódico para obtenção e renovação da Carteira Nacional de Habilitação; e altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), a Lei nº 11.442, de 5 de janeiro de 2007, para dispor sobre seguro de cargas, e a Lei nº 11.539, de 8 de novembro de 2007, para dispor sobre a carreira de Analista de Infraestrutura e o cargo isolado de Especialista em Infraestrutura Sênior.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
