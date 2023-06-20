@@ -1,0 +1,2 @@
+Art. 12. Ao Conselho do Programa de Parcerias de Investimentos da Presidência da República compete assessorar o Presidente da República nas políticas de ampliação e de fortalecimento da interação entre o Estado e a iniciativa privada para a execução de empreendimentos públicos de infraestrutura e de outras medidas de desestatização, nos termos do art. 7º da Lei nº 13.334, de 13 de setembro de 2016.
+Parágrafo único. As regras de funcionamento do Conselho do Programa de Parcerias de Investimentos da Presidência da República serão definidas em ato do Poder Executivo federal.

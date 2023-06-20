@@ -1,0 +1,2 @@
+Art. 13. Ao Conselho Nacional de Segurança Alimentar e Nutricional compete assessorar o Presidente da República na formulação de políticas e na definição de diretrizes para a garantia do direito humano à alimentação e integrar as ações governamentais com vistas ao atendimento da parcela da população que não dispõe de meios para prover suas necessidades básicas, especialmente o combate à fome.
+Parágrafo único. As regras de funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional serão definidas em ato do Poder Executivo federal.

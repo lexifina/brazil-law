@@ -1,0 +1,2 @@
+Art. 71. Ficam transferidos e incorporados aos órgãos que absorverem as competências, os direitos, os créditos e as obrigações decorrentes de lei os atos administrativos ou os contratos, inclusive as receitas e as despesas, e o acervo documental e patrimonial dos órgãos e das entidades extintos ou transformados nesta Lei.
+Parágrafo único. O disposto no art. 60 da Lei nº 14.436, de 9 de agosto de 2022, aplica-se às dotações orçamentárias dos órgãos e das entidades de que trata o caput deste artigo.

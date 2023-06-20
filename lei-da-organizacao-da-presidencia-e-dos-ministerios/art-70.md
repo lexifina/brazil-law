@@ -1,0 +1,1 @@
+Art. 70. As competências e as incumbências estabelecidas para os órgãos extintos ou transformados nesta Lei, bem como para os seus agentes públicos, ficam transferidas para os órgãos e os agentes públicos que receberem as atribuições.

@@ -1,0 +1,3 @@
+Art. 60. O caput do art. 3º da Lei nº 9.984, de 17 de julho de 2000, passa a vigorar com a seguinte redação:
+"Art. 3º Fica criada a Agência Nacional de Águas e Saneamento Básico (ANA), autarquia sob regime especial, com autonomia administrativa e financeira, integrante do Sistema Nacional de Gerenciamento de Recursos Hídricos e vinculada ao Ministério da Integração e do Desenvolvimento Regional, com a finalidade de implementar, em sua esfera de atribuições, a Política Nacional de Recursos Hídricos e de instituir normas de referência para a regulação dos serviços de saneamento básico.
+........................................................................................................................................." (NR)
