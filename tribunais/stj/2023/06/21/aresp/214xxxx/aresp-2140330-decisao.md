@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Sergipe e pelo Instituto de Previdência dos Servidores do Estado de Sergipe contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 219):
+AGRAVO REGIMENTAL - DECISÃO QUE DETERMINOU A SUSPENSÃO DO FEITO EM VIRTUDE DE IRDR - INTERPOSIÇÃO DE RECURSO ESPECIAL E EXTRAORDINÁRIO PELOS LITIGANTES - APLICAÇÃO DO DISPOSTO NO ARTIGO 982, §5º DO CPC - SUSPENSÃO DO RECURSO ATÉ O TRÂNSITO EM JULGADO DA DECISÃO - MANUTENÇÃO DA DECISÃO - RECURSO DESPROVIDO - DECISÃO UNÂNIME.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 987, §2º, do CPC. Sustenta que "Não há dúvidas que o v. acórdão ora atacado contrariou frontalmente o disposto em lei federal, in casu , o art. 987, § 2º do CPC." (fl. 227).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, com relação ao art. 987, §2º, do CPC, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
