@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por HARLY AUGUSTO PICCOLOTTO DA SILVA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO PREVIDENCIÁRIA. CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO. PATOLOGIA NÃO DECORRENTE DE ACIDENTE LABORAL. CONCLUSÃO DO LAUDO PERICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO CONHECIDO E DESPROVIDO.
+1. Compete à Justiça Estadual julgar as ações acidentárias decorrentes de acidente de trabalho, nos moldes do art. 109, I da CF e Súmulas 235 e 501 do STF;
+2. Na hipótese, o laudo pericial aponta que a patologia não decorreu de acidente laboral, logo, afasta-se a competência da Justiça Estadual para julgar a presente demanda;
+3. Recurso conhecido e desprovido.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente relata que interpôs agravo de instrumento contra decisão que extinguiu o feito e o encaminhou à justiça federal, em razão da constatação de ausência de competência, ante o reconhecimento de que o benefício previdenciário que se busca não tem causa acidentária a justificar a competência estadual.
+No Tribunal a quo a decisão foi mantida.
+Sustenta o recorrente que ao assim proceder houve violação ao artigo 129, II, da Lei 8.213/91, segundo o qual os litígios sobre acidente do trabalho serão apreciados na justiça estadual. Argumenta que a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+Por fim, aponta divergência jurisprudencial com julgado do TJ-SC, segundo o qual a jurisprudência do STJ entende que a competência da justiça estadual para julgar ação que se discute acidente do trabalho é aferida pelo pedido e causa de pedir.
+Sem contrarrazões, o Tribunal de origem inadmitiu o recurso especial à consideração de que a análise do caso encontra óbice na Sumula 126/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+No caso dos autos, a questão controversa a respeito da competência para a causa, foi decidida da seguinte forma, in verbis:
+Compulsando os autos, verifica-se que a agravante ajuizou ação de concessão de auxílio-acidente, sucessivamente o restabelecimento de auxílio doença e sucessivamente a aposentadoria por invalidez, noticiando ter sido acometida por patologias decorrentes de atividades laborais.
+Entretanto, a perícia médica constatou que as patologias são degenerativas, além de não restar comprovado que as moléstias decorreram do labor.
+Diante da ausência de acidente de trabalho ou mesmo de doença ocupacional equiparada a este, a questão discutida na demanda foge da competência desta justiça, nos termos do ar. 109, I da CF: (..)
+Não se desconhece que há neste STJ julgados proferidos em Conflito de Competência em que já se decidiu que a competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+Diferentemente, no caso dos autos, não se trata de processo de conflito de competência, mas sim de recurso especial. E o fundamento do acórdão recorrido, conforme se observa do excerto acima transcrito tem fundamento eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido quanto ao ponto, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ANUIDADES. AUSÊNCIA DE OMISSÃO. NORMA INCONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. SUBSTITUIÇÃO DA CDA INVIÁVEL. NOVO LANÇAMENTO. SÚMULAS 392/STJ E 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.  ..  3. Não obstante tenham sido invocadas normas federais, é notório que se mostra indissociável a análise de suas possíveis violações com a ponderação constitucional conferida pelo STF, a quem compete exclusivamente tal análise, segundo dispõe o art. 102, III, da Carta Maior, razão pela qual não é possível averiguar a tese recursal.  ..  7. Recurso Especial parcialmente conhecido, apenas quanto à preliminar de omissão e, nesse ponto, negado provimento. (REsp 1822887/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 11/10/2019)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIARIO. PROCESSUAL CIVIL. AÇÃO PREVIDENCIÁRIA. PRETENSÃO DE RECEBIMENTO DE BENEFÍCIO POR INCAPACIDADE LABORAL DECORRENTE DE ACIDENTE DO TRABALHO. CAUSA ACIDENTÁRIA NÃO RECONHECIDA NA ORIGEM. ACÓRDÃO DO TRIBUNAL A QUO QUE DECLINA DA COMPETENCIA ANTE O TEOR DO DO ART. 109, I DA CF/88. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
