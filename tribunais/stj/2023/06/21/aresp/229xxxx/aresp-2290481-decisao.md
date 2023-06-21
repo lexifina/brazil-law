@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de THIAGO ANTONIO FREITAS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1.0000.22.086334-4/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157 do Código Penal - CP (roubo), à pena de 4 anos e 6 meses de reclusão, em regime inicial fechado, e 12 dias-multa (fls. 138/139).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"EMENTA: APELAÇÃO CRIMINAL - ROUBO - PENA - REDUÇÃO DA PENA-BASE-DESCABIMENTO -CULPABILIDADE - CONSIDERAÇÃO DO MAIOR GRAU DE REPROVABILIDADE - CIRCUNSTÂNCIAS JUDICIAIS DO ARTIGO 59 DO CÓDIGO PENAL CORRETAMENTE EXAMINADAS EM PRIMEIRO GRAU. - É possível a avaliação desfavorável da culpabilidade em razão de o agente ter praticado o delito com intensa violência, que, inclusive, causou a fratura do osso nasal da ofendida, evidenciando a maior reprovabilidade da conduta. -Analisadas correta e fundamentadamente as circunstâncias judiciais do artigo 59 do Código Penal em primeira instância, não há qualquer reparo a ser feito por esta instância revisora, mantendo-se a pena-base fixada em primeiro grau, porquanto atendidos os critérios da necessidade e suficiência para os fins de reprovação e prevenção do delito." (fl. 197).
+Em sede de recurso especial (fls. 212/218), a defesa apontou violação ao art. 59 do CP, porque o sentenciante se utilizou da violência contra a vítima, elementar do tipo penal, para valorar negativamente a vetorial da culpabilidade. Destaca que a vítima não ficou com sequelas da fratura nasal.
+Requer seja afastada a valoração negativa da culpabilidade.
+Contrarrazões (fls. 222/224).
+O recurso especial foi inadmitido no TJMG em razão de óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ, bem como do acórdão estar em consonância com precedentes do STJ (fls. 227/230).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 236/242).
+Contraminuta (fls. 246/248).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 261/265).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a violação ao art. 59 do CP, o TJMG manteve a valoração negativa da culpabilidade nos seguintes termos do voto do relator (grifos nossos):
+"Pugna a Defesa apenas pela redução da pena-base, com a valoração favorável da culpabilidade.
+Verifica-se, a propósito, que na primeira fase da dosimetria o magistrado singular considerou como desfavorável apenas a culpabilidade, sob o seguinte fundamento:
+ ..  Analisando as circunstâncias judiciais do artigo 59 do CP, tem-se que a culpabilidade do agente é superior à espécie devendo ser considerada como desfavorável, tendo em vista a gravidade da lesão causada na vítima. Nesta medida, o exame corporal indicou que houve a fratura do osso nasal, o que, embora não tenha deixado sequelas, demonstra a intensa violência empregada, o que sobreleva a censurabilidade da conduta.  ..
+Nesse sentido, salienta-se que a avaliação da culpabilidade na primeira fase da dosimetria deve ocorrer em relação ao grau de censurabilidade da conduta, em vista da situação em que ocorreu a prática delituosa e do comportamento do réu. Assim, não é cabível, neste momento, a verificação sob a perspectiva da culpabilidade enquanto elemento constitutivo do crime, mas sim, do grau de reprovação penal da conduta, mediante demonstração de circunstâncias concretos do delito.
+De fato, constata-se que a culpabilidade foi acertadamente reconhecida em desfavor do réu no presente caso, visto que o agente praticou o delito com intensa violência, que, inclusive, causou a fratura do osso nasal da ofendida. Trata-se, evidentemente, de circunstância a evidenciar a maior reprovabilidade da conduta, em valoração amparada pela jurisprudência do Superior Tribunal de Justiça:
+ ..
+Portanto, analisadas correta e fundamentadamente as circunstâncias judiciais do artigo 59 do Código Penal em primeira instância, não há qualquer reparo a ser feito por esta instância revisora, mantendo-se a pena-base fixada em 04 anos e 06 meses de reclusão e 12 dias-multa, porquanto atendidos os critérios da necessidade e suficiência para os fins de reprovação e prevenção do delito." (fls. 199/201).
+Tem-se no trecho acima que as instâncias ordinárias invocaram a fratura do osso nasal da vítima para fins de considerar mais reprovável a prática do delito de roubo, pois evidenciada intensa violência.
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois, embora violência seja inerente ao tipo penal, no caso concreto mostrou-se exorbitante. Nesse sentido, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. ROUBO. DOSIMETRIA. BIS IN IDEM. NÃO OCORRÊNCIA. AGRAVANTE DE CARÁTER OBJETIVO. IDADE DA VÍTIMA. MERO REFORÇO ARGUMENTATIVO DAS CIRCUNSTÂNCIAS DO DELITO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO INTEGRATIVO DO ACÓRDÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, não há de se falar em bis in idem, porquanto a agravante de delito praticado contra idoso é de caráter objetivo, e tal circunstância foi considerada apenas como reforço argumentativo na primeira fase para exasperar a pena-base, visto que os delitos foram cometidos em concurso de agentes contra duas vítimas mulheres, uma delas idosa, que foi arremessada ao solo dada a violência do arrebatamento de sua bolsa.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.533.195/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. NULIDADE DO MANDADO DE INTIMAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. SUPRESSÃO DE INSTÂNCIA. 2. PACIENTE NÃO ENCONTRADO. NOMEAÇÃO DE DEFENSOR DATIVO. ALEGADA NULIDADE. NÃO VERIFICAÇÃO. MUDANÇA DE ENDEREÇO. NÃO COMUNICAÇÃO. VERNIRE CONTRA FACTUM PROPRIUM. 3. DEFESA DEFICIÊNCIA. NÃO OCORRÊNCIA. DIVERGÊNCIA DE ESTRATÉGIAS. PREJUÍZO NÃO DEMONSTRADO. SÚMULA 523/STF. 4. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS JUDICIAIS CONCRETAMENTE VALORADAS. CRIME DE ROUBO. EXCESSIVA VIOLÊNCIA. 5. CAUSA DE AUMENTO. PATAMAR ACIMA DO MÍNIMO. FUNDAMENTAÇÃO CONCRETA. 6. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. As circunstâncias do crime, em razão de ter sido "praticado de forma excessivamente violenta", bem como as consequências sofridas na vida pessoal e profissional das vítimas, são circunstâncias que desbordam do tipo penal, autorizando, dessa forma, a elevação da pena-base. Relevante anotar que o que foi sopesado na pena-base não foi a violência por si só, circunstância que, de fato, compõe o tipo penal de roubo, mas sim a excessiva violência, circunstância que, portanto, desborda do tipo penal, em razão de sua maior intensidade.
+5. Com relação à causa de aumento, esta foi igualmente mantida no patamar de 1/2, haja vista o roubo ter sido praticado com emprego de duas armas de fogo e em concurso de quatro agentes, em contexto que revelou efetiva maior gravidade do crime, encontrando-se, portanto, concretamente motivada a escolha de fração superior à mínima.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 687.010/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Havendo fundamentação concreta para o aumento da pena-base, a revelar maior reprovabilidade da conduta, não há falar em violação das regras atinentes ao cálculo da pena-base.
+2. Não há ilegalidade no v. acórdão recorrido que, analisando o art. 59 do CP, verifica a existência de circunstância judicial desfavorável apta a manter a fixação da pena-base acima do mínimo legal, como no caso, em que valorou-se negativamente a culpabilidade, em virtude da excessiva violência empregada, a ultrapassar o tipo penal. (Precedentes). (AgRg no REsp 1594699/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/06/2016, DJe 22/06/2016.)
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.658.708/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/6/2020, DJe de 29/6/2020.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
