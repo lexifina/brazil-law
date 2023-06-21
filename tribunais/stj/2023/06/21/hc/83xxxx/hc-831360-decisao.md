@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de Khawan Junior Monteiro Silva (ou Khawan Junior Monteiro da Silva), em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1517306-83.2022.8.26.0050).
+Consta dos autos que o paciente foi condenado às penas de 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, e 24 dias-multa, pela prática do crime descrito no art. 157, § 2º, II e § 2º-A, I, por duas vezes, pelo Juízo da 19ª Vara Criminal da comarca de São Paulo/SP. Na ocasião, foi negado ao réu o direito de apelar em liberdade (fls. 28/42).
+O Tribunal estadual, em 30/5/2023, deu parcial provimento à apelação defensiva apenas para redimensionar o quantum de aumento da reprimenda e fixar a pena definitiva em 7 anos, 9 meses e 10 dias de reclusão, e pagamento de 18 dias-multa, mantendo o regime fechado para cumprimento da privativa de liberdade (fls. 68/76).
+Daí o presente writ, no qual a defesa pretende, no âmbito liminar e no mérito, a fixação do regime semiaberto para o início do cumprimento da pena , alegando para tanto que as instâncias ordinárias teriam fixado o regime fechado com fundamento na gravidade abstrata do delito, mesmo o paciente possuindo predicados favoráveis, como primariedade e bons antecedentes, bem como a pena-base ter sido fixada no mínimo legal, afrontando as Súmulas 718/STF, 719/STF e 440/STJ.
+É o relatório.
+Verifico a existência de manifesta ilegalidade a justificar, de pronto, a concessão da ordem.
+O Tribunal a quo, ao justificar a manutenção do regime prisional imposto na sentença condenatória, concluiu que o regime inicial fechado se mostra o compatível com a extrema gravidade do crime e a violência inusitada empregada pelos réus em face das vítimas, nos termos do art. 33, § 3º, do Código Penal (fl. 75).
+Ocorre que a jurisprudência desta Corte diz que é necessária, para a fixação de regime de cumprimento mais gravoso do que o previsto para o quantum de pena, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência. A propósito, há as Súmulas 440/STJ, 718/STF e 719/STF.
+Vê-se, no caso, que as instâncias ordinárias fundamentaram o regime inicial fechado em face da gravidade abstrata do delito, inclu sive, trazendo elementos do tipo do roubo majorado como motivação.
+Ora, a grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no art. 33, § 2º, b, do CP (AgRg no AREsp n. 1.761.566/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 15/12/2021 - grifo nosso).
+Dessa forma, não tendo sido indicados elementos concretos diversos das elementares do delito para a fixação do regime fechado, impõe-se a fixação do regime semiaberto, pois a pena-base foi fixada no mínimo legal em face de réu primário e a reprimenda foi definitivamente estabelecida em patamar inferior a 8 anos (AgRg no HC n. 644.572/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/3/2021).
+Por tais razões, concedo liminarmente a ordem a fim de alterar para o semiaberto o regime inicial de cumprimento da pena imposta ao paciente na Ação Penal n. 1522315-74.2022.8.26.0228.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. PENA INFERIOR A 8 ANOS. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. SÚMULAS 440/STJ E 718 E 719/STF. MOTIVAÇÃO INIDÔNEA. ELEMENTOS CARACTERIZADORES DO CRIME. GRAVIDADE ABSTRATA DO DELITO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
