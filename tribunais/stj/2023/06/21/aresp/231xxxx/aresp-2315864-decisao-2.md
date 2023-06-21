@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por APARECIDA REGINA PACHECO (APARECIDA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Goiano, assim ementado:
+DUPLA APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ESCRITURA PÚBLICA DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA. CÓDIGO DE DEFESA DE CONSUMIDOR. CAPITALIZAÇÃO MENSAL DE JUROS. TABELA PRICE. COEFICIENTE DE EQUALIZAÇÃO DE TAXAS (CET). ÍNDICE DE CORREÇÃO MONETÁRIA. SEGURO HABITACIONAL. HONORÁRIOS ADVOCATÍCIOS. 1. O CDC não se aplica aos contratos previdenciários celebrados com entidades fechadas. Súmula 563/STJ. 2. Apenas após a vigência da Lei 11.977/2009, é admitida a capitalização mensal de juros em contratos regidos pelas normas do Sistema Financeiro de Habitação. 3. Restando afastada a possibilidade de capitalização mensal de juros na avença, também não é admitida a utilização da Tabela Price, haja vista que a sua aplicação acarreta o denominado anatocismo, ou seja, implicaa contagem de juros sobre juros, prática vedada no nosso ordenamentojurídico. 4. A previsão contratual do Coeficiente de Equalização de Taxas(CET), tem por finalidade evitar a existência de saldo devedor ao final dofinanciamento, não havendo que falar-se em abusividade do encargoquando regularmente previsto no contrato. 5. A aplicação do IGP-M,índice livremente pactuado pelos contratantes, não acarreta desequilíbrio contratual, haja vista que a correção monetária consiste em mero mecanismo para evitar a corrosão do poder aquisitivo da moeda, sem, contudo, acrescer o valor original da dívida. 6. Em contratos habitacionais, como é o caso, é legal a contratação de seguro para finsde resguardar o imóvel garantidor de riscos, restando afastada a abusividade na exigibilidade na contratação de seguro quando a indicação de corretora específica teve o intuito de baratear o custo doencargo para os associados, mormente quando não se trata de contratonão regido pelo CDC. 7. A verba honorária fixada na origem é suficiente para remunerar o trabalho realizado pelo procurador da parte,considerando o seu grau de zelo com o processo, a natureza e a importância da causa, não havendo como acolher o pleito de majoração deste. RECURSOS CONHECIDOS. 1º APELO DESPROVIDO. 2ºAPELO PARCIALMENTE PROVIDO. (e-STJ, fl. 411).
+Os embargos de declaração opostos por APARECIDA foram rejeitados (e-STJ, fls. 502/513).
+Irresignada, APARECIDA interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 489, 494, 1.013 e 1.022 do NCPC; 39 e 51 do CDC, ao sustentar (1) a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração sem a correção das omissões apontadas (reformatio in pejus, aumento dos juros e abusividade da cláusula penal, e abusividade do valor do seguro e de venda casada); (2) a aplicabilidade do CDC à relação jurídica, o que desborda na caracterização da cobrança abusiva dos encargos e do seguro.
+O recurso não foi admitido pelo Tribunal Goiano (e-STJ, fls. 711/713).
+Nas razões do presente agravo, APARECIDA alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 732/751).
+Não foi apresentada contraminuta (e-STJ, fl. 777).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+Nas razões do presente recurso, APARECIDA alegou a negativa de vigência dos arts. 489 e 1.022 do nCPC, sustentando que a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração sem a correção das omissões apontadas, isto é, a existência de reformatio in pejus em relação à aplicabilidade do CDC à relação jurídica, aumento dos juros e abusividade da cláusula penal, e abusividade do valor do seguro e de venda casada.
+Contudo, verifica-se que o TJGO se pronunciou sobre os temas consignando (i) que a questão da aplicabilidade do CDC é de ordem pública e que não houve insurgência oportuna em relação aos encargos apontados, confira-se:
+No que tange à alegação de que o acórdão embargado incidiu em reformatio in pejusao afastar a aplicabilidade da Lei Consumerista a hipótese vertente, impende registrar que,tratando-se de matéria de ordem pública, que pode ser conhecida de ofício pelo juízo emqualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado da decisão, adivergência acerca da aplicabilidade do CDC não está sujeita à preclusão e, portanto, nãoconfigura reformatio in pejus.
+(..)
+Quanto à suposta omissão em relação ao aumento da taxa de juros e cobrança abusivade pena convencional, impende frisar que a matéria não foi suscitada no apelo, já que a apelante/embargante em momento algum indicou os motivos de fato e de direito pelos quais pretende a reforma da sentença guerreada nesse sentido, atacando as razões de decidir adotadas pelo julgador de origem, se limitando a requerer a reforma da sentença pra julgar totalmente procedentes os embargos à execução. (e-STJ, fls. 506/507)
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Do CDC e sua aplicação às entidades de previdência privada fechada
+APARECIDA aduziu que não é cabível a aplicação do CDC ao caso.
+Ocorre que a jurisprudência do STJ consolidou o entendimento de que não incide o CDC nos contratos previdenciários celebrados com entidades fechadas, mesmo em se tratando de contrato de mútuo.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE MÚTUO. ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Código de Defesa do Consumidor não incide nos contratos previdenciários celebrados com entidades fechadas, mesmo em se tratando de contrato de mútuo. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.797.836/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 9/3/2020, DJe 13/3/2020)
+Referido entendimento ficou consolidado no enunciado sumular nº 563/STJ:
+O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+Estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, incide o enunciado n. 83 da Súmula do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DISPOSITIVO LEGAL. ALEGAÇÃO. PERTINÊNCIA TEMÁTICA. AUSÊNCIA. SÚMULA Nº 284 DO STF. ATO JURÍDICO PERFEITO. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. CAPITALIZAÇÃO DE JUROS. DISPOSITIVO DE LEI VIOLADO. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
