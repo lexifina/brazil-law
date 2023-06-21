@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNITAH EMPREENDIMENTOS E PARTICIPACOES SPE S.A., contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ e 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1004469-10.2021.8.26.0011) assim ementado (fl. 479):
+LOCAÇÃO NÃO RESIDENCIAL. Centro comercial. Espaço em estação de ônibus/metrô. Denúncia do vínculo, com pedido de restituição de valores pagos à rubrica de res sperata. Juízo de improcedência. Apelo do autor. Provimento.
+Opostos embargos de declaração, foram rejeitados (fls. 252-254).
+No recurso especial (fls. 256-268), a parte recorrente  aponta violação dos seguintes artigos:
+a) 1.022, II, do Código de Processo Civil, sustentando a persistência de vícios de omissão arguidos nos embargos de declaração; e
+b) 54 da Lei de Locações, defendendo que o "o negócio jurídico celebrado entre EDERSON e a UNITAH foi bastante expresso e claro ao consignar, em sua cláusula 7.5, que não seria devida qualquer indenização ou restituição de valores por ocasião de rescisão, seja motivada ou imotivada" (fl. 266).
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o Tribunal de origem analisou as questões deduzidas e assim decidiu (fl. 241):
+Incúria da ré, empreendedora de centro comercial, sem efetiva conclusão das obras, tanto quanto prometido, ademais ao conduzir a formalização do vínculo em período de pandemia, ensejando-lhe pretextar com excludente de imprevisão (fortuito ou força maior), assim em descompasso com limites de boa-fé objetiva, acrescendo-se relevante modificação de layout (alteração da frente da loja, que deixou de estar voltada para área de trânsito de pedestres), diversamente do que constou de folheto promocional, aquela informação a induzir o interesse do autor.
+Tais os contornos, perfeitamente justificada a denúncia do contrato, em abordagem resilitória, e, nessa circunstância, em contraponto ao enriquecimento sem causa, legitimando comandar a restituição de montante adiantado pelo autor, a título de res sperata, com correção monetária da data do respectivo desembolso, e com juros de mora, de um por cento ao mês, desde a citação.
+No tocante à alegada contrariedade ao art. 1.022, II, do Código de Processo Civil (item a), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Quanto à violação do art. 54 da Lei de Locações (item b), a Corte de origem concluiu que, no presente caso, diante da alteração da frente da loja, que deixou de estar voltada para área de trânsito de pedestres, ficou "justificada a denúncia do contrato, em abordagem resilitória, e, nessa circunstância, em contraponto ao enriquecimento sem causa, legitimando comandar a restituição de montante adiantado pelo autor" (fl. 241).
+Nesse contexto, a adoção de conclusão diversa da do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco de crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes.
+4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão
+recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ).
+5. Agravo interno não provido. (AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 10%, percentual arbitrado na instância de origem, para 13% sobre o valor atualizado da causa .
+Publique-se.  Intimem-se.
