@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR HENRIQUE DA SILVA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fls. 766):
+REVISÃO CRIMINAL - JÚRI - HOMICÍDIO QUALIFICADO - ABSOLVIÇÃO E EXCLUSÃO DE QUALIFICADORA - INADMISSIBILIDADE - PRETENSÃO DE REEXAME DA PROVA - IMPOSSIBILIDADE - AÇÃO PENAL CONSTITUTIVA QUE NÃO POSSUI A MESMA NATUREZA DA APELAÇÃO CRIMINAL. - Não tendo a questionada decisão popular se afastado da prova produzida na ação penal originária e nem o peticionário comprovado, de modo irretorquível, a injustiça da condenação que sofreu pela prática do crime de homicídio qualificado, inviável o acolhimento da pretensão revisional.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls.815/819).
+Nas razões do recurso especial (e-STJ fls. 828/847), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 155, 156, 226 e 593, inciso III, alínea "d", do CPP. Sustenta: (i) a absolvição do acusado, tendo em vista a ausência de prova concreta para a condenação; (ii) que o reconhecimento realizado pela mãe da vítima não obedeceu as formalidades do art. 226 do CPP.
+Apresentadas contrarrazões (e-STJ fls. 851/855), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 858/860), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 899/901).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, ao indeferir o pedido de revisão criminal, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos d e prova aptos a manter a condenação do envolvido pelo delito do artigo 121, §2º, inciso I, do CP (e-STJ fls. 768/772).
+Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova concreta acerca da prática delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ademais, conforme consignado pelo Ministério Público Federal, em seu parecer, observa-se que o Tribunal estadual afastou a alegação de nulidade, deduzida com base na violação ao art. 226 do CPP, porque o reconhecimento fotográfico na delegacia não foi o único elemento de prova que embasou a condenação, uma vez que corroborado por outras provas produzidas em juízo (e-STJ, fls. 768-772) (e-STJ fls. 901).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
