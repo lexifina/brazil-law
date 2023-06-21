@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Rosalino de Brito Vanderley contra decisão de fls. 250-251, mediante a qual indeferi a petição inicial do presente feito, por ausência dos pressupostos de constituição e desenvolvimento válido e regular do processo (art. 485, inc. IV, do CPC c/c o art. 34, inc. XVIII, do RISTJ).
+Sustenta a embargante que "gostaria de ver sopesado no r. julgado o foro que seria competente para julgar a presente ação judicial. Contudo, se o foro devera era incompetente, verifica-se que a petição inicial foi indeferida, sem que houvesse o referido declínio de competência", razão pela qual considera que "houve uma contradição, pois, quem deveria ter julgado o processo, extinguindo-o, deveria ser o do juízo tido como competente".
+Acrescenta que a decisão agravada, "mesmo declarando-se incompetente, contrariou o mérito da presente ação, pois (..) mencionou tempo - mais de trinta anos, como se tivesse vislumbrado decadência do direito" e há que ficar claro que, a verdade dos fatos, segundo o artigo 504 do Código de Processo Civil".
+Impugnação do embargado às fls. 268-271.
+Assim delimitada a questão, observo que não têm pertinência alguma as alegações da embargante.
+Diz-se isso porque a decisão embargada limitou-se a verificar a ausência dos pressupostos de constituição e desenvolvimento válido e regular do processo (CPC, art. 485, inc. IV) e a ressaltar que o desaforamento suscitado pelo requerente não tem relação alguma com a matéria em discussão na presente petição e, portanto, ao contrário do que afirma o embargante, em momento algum examinou o mérito da ação.
+Observo, ademais, que as razões do indeferimento da inicial não foram sequer ventiladas nas razões dos embargos de declaração, a revelar que a pretensão do embargante não é a correção dos vícios referidos no art. 535 do CPC/1973, reproduzido no art. 1.022 do CPC/2015, mas a modificação da conclusão da decisão embargada, o que é incompatível com a natureza dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
