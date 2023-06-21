@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GUILHERME SILVA COMITO contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, ao fundamento de que inexiste interesse da defesa em pleitear a alteração de data-base para a progressão de regime se já consta no cálculo de sua pena a data que ela sustenta ser a correta.
+Nos presente aclaratórios, a defesa reconhece que, com efeito, a data-base para progressão de regime está correta, mas afirma que "Contudo, o cálculo da pena para promoção ao regime aberto está sendo computada de maneira diversa desta que está correta" (e-STJ fl. 75).
+Assevera que, "se considerado o cálculo a partir do dia 27/7/2021, que é data do exame criminológico, direito adquirido, conforme decisão da própria autoridade coatora, o paciente já estaria em regime aberto desde o mês de abril do corrente ano" (e-STJ fl. 75).
+Pede, assim, "o recebimento e provimento dos Embargos de Declaração para, em atribuindo efeito infringente, conhecer do habeas corpus ou conceder a ordem de ofício para que novo cálculo seja elaborado contando a partir de 27/7/2021, em que o paciente realmente estará em regime aberto" (e-STJ fl. 75).
+É o relatório. Passo a decidir.
+Como se sabe, os embargos de declaração são recurso que somente se presta a corrigir errores in procedendo do julgado embargado, quando demonstrado que o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso concreto, a par de não indicar qual o vício do qual padeceria a decisão embargada, a defesa aponta erro no cálculo de pena do reeducando, sem especificar que erro seria esse, o que consubstancia, na realidade, indevida alteração do pedido formulado na inicial do presente habeas corpus.
+Veja-se que, na petição inicial, o pedido formulado pela defesa era no sentido de "determinar a retificação do cálculo da pena considerando a data já fixada no primeiro agravo, qual seja, a partir de 27/7/2021" (e-STJ fl. 7).
+De se pontuar, inclusive, que foi esse o pedido examinado pelo Tribunal de Justiça como se vê da ementa do acórdão proferido no Agravo de Execução Penal n. 0001325-21.2023.8.26.0158, que transcrevo a seguir:
+Agravo em Execução Penal - Retificação de cálculos - Pleito de que a data-base para a progressão ao regime aberto seja reconhecida como sendo 27 de julho de 2021, nos termos do que restou decidido no Agravo em execução nº 0013468-21.2021.8.26.0996 - Data-base pleiteada que consta expressamente no cálculo de liquidação de penas impugnado - Inocuidade do pedido - Reconhecimento - Decisão mantida - Agravo desprovido.
+(Agravo de Execução Penal n. 0001325-21.2023.8.26.0158, Rela. Desa. CLAUDIA FONSECA FANUCCHI, 5ª Câmara de Direito Criminal do TJ/SP, unânime, julgado em 7/6/2023)
+Tem-se, assim, que, se erro houve no cálculo de penas, não foi objeto de prévio debate pelas instâncias ordinárias, o que impede a manifestação desta Corte sobre o tema, sob pena de indevida supressão de instância.
+Não existindo, no caso concreto, nenhum dos vícios previstos no art. 619 do Código de Processo Penal, nã o há como se acolher os aclaratórios.
+Ante o exposto, conheço dos embargos de declaração porque tempestivos, mas para rejeitá-los.
+Intimem-se.
