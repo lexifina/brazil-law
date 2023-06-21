@@ -1,0 +1,10 @@
+DECISÃO
+O presente mandado de segurança, impetrado por Jefferson Lucas, contra ato da Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, não comporta processamento.
+Com efeito, insurge-se o impetrante contra o acórdão prolatado pelo Tribunal estadual, nos autos da Apelação Criminal n. 0014026-74.2022.8.26.0602 (fls. 16/21), que manteve a decisão indeferitória proferida pelo Juízo de Direito da 2ª Vara Criminal da comarca de Sorocaba/SP quanto ao pedido de restituição do aparelho de DVR, apreendido nos autos da ação principal (Processo n. 1504832-78.2019.8.26.0602).
+Ocorre que compete ao Superior Tribunal de Justiça, consoante definição constitucional, processar e julgar originariamente os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal (art. 105, I, b, da CF).
+A regra de competência originária é reforçada, ainda, pelo que exara a Súmula 41/STJ, a qual dispõe que o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos. Quer dizer, o mandado de segurança não é o meio processual adequado para se questionar, como na espécie, ato do Tribunal estadual. A propósito, menciono, por oportuno, os seguintes precedentes: RCD no MS n. 29.132/ES, Ministra Laurita Vaz, Terceira Seção, DJe 3/4/2023; AgRg no MS n. 29.236/SP, Ministro Messod Azulay Neto, Terceira Seção, DJe 22/3/2023; AgRg no MS n. 29.133/GO, Ministro Messod Azulay Neto, Terceira Seção, DJe 22/3/2023; AgRg nos EDcl no MS n. 28.674/ MS, Ministro Jorge Mussi, Terceira Seção, DJe 16/12/2022; e AgRg no MS n. 28.770/MG, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 16/11/2022.
+Em face do exposto, com fulcro no art. 212 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE BEM (APARELHO DVR) APREENDIDO NA PRÁTICA DO CRIME. INSURGÊNCIA CONTRA DECISÃO DO TRIBUNAL ESTADUAL. FALTA DE CABIMENTO. SÚMULA 41/STJ. APLICABILIDADE.
+Inicial indeferida liminarmente.
