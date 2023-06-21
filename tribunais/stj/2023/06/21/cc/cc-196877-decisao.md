@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 16ª VARA CRIMINAL DO RIO DE JANEIRO - RJ suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE CAMPINAS - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de medidas judiciais que se façam necessárias em investigação deflagrada pela suposta prática de estelionato tentado.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 4ª Vara Criminal de Campinas - SP (fls. 170-174).
+Decido.
+Com razão o Ministério Público Federal.
+A despeito das modificações operadas pela Lei n. 14.155/2021, que inseriu o § 4º no art. 70 do CPP e estabeleceu que a competência deve ser firmada em função do local do domicílio da vítima, nas hipóteses em que o estelionato for praticado mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, o caso não se adequa a referida previsão legal.
+Deveras, extrai-se dos autos que houve uma tentativa de estelionato, consubstanciado no envio de documentos falsificados a determinada seguradora, com a finalidade de receber, indevidamente, seguro obrigatório de danos pessoais causados por veículos automotores. Observa-se, portanto, que o caso não se enquadra em nenhuma das hipóteses previstas no § 4º no art. 70 do CPP.
+Logo, como bem pontuou o Parquet Federal, "o § 4º do art. 70 do Código de Processo Penal, incluído pela Lei n. 14.155/2021, o qual fixa a competência do domicílio da vítima nos casos de transferências bancárias concretizadas, não se aplica ao caso, de forma que a presente investigação deve permanecer em andamento na Comarca de São Paulo/ SP, visto que a competência será determinada, no caso de tentativa, pelo lugar em que for praticado o último ato de execução" (fl. 173).
+De fato: "não identificadas as hipóteses descritas no § 4º do art. 70 do CPP deve incidir o teor do caput do mesmo dispositivo legal, segundo o qual "a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução"" (CC n. 185.983/DF, Rel. Ministro Joel Ilan Paciornik, DJe 13/5/2022).
+Assim, como na espécie o último ato de execução ocorreu em Campinas - SP, deve a competência ser firmada em perante o Juízo suscitado, isto é, perante o Juízo de Direito da 4ª Vara Criminal de Campinas - SP.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 4ª Vara Criminal de Campinas - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
