@@ -1,0 +1,31 @@
+DECISÃO
+JONATHAN FABIANO SILVA LOPES alega sofrer coação em seu direito de locomoção diante de acórdão do Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1501233-43.2021.8.26.0544.
+Nas razões deste mandamus, o impetrante sustenta a desclassificação da conduta para a do delito de receptação - art. 180 do Código Penal.
+Subsidiariamente, aponta constrangimento ilegal, em tese, suportado pelo postulante, ao apontar ilegalidade no cômputo da pena privativa de liberdade. Para tanto, requer o afastamento das majorantes do delito de roubo.
+Trata-se de réu condenado à pena de 8 anos de reclusão, a ser cumprida no regime inicial fechado, mais 19 dias-multa, à razão mínima - art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Instado a se manifestar, o Ministério Público Federal opinou, preliminarmente, pelo não conhecimento do writ e, no mérito, pela denegação da ordem.
+Decido.
+I. Contextualização
+Infere-se dos autos que o acusado foi condenado, pelo crime de roubo majorado, à pena de 8 anos de reclusão, a ser cumprida no regime inicial fechado, mais 19 dias-multa, à razão mínima - art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+Em consulta aos autos, observa-se que o Tribunal negou provimento ao apelo defensivo que visava, em suma, a absolvição ou nova classificação da conduta.
+Excetuados os casos de patente ilegalidade ou de abuso de poder, é vedado, na via estreita do habeas corpus, o amplo reexame do conjunto fático-probatório.
+A tese de absolvição por ausência de provas ou a de nova classificação da conduta perpetrada pelo postulante não encontra espaço no âmbito do writ, haja vista que a aferição da alegada fragilidade probatória exigiria incursão no conjunto fático-probatório dos autos, o que não está ao alcance deste instrumento processual, especialmente quando se trata de condenação transitada em julgado. A propósito: AgRg no HC n. 730.818/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 6/5/2022 e AgRg no HC n. 642.726/RS, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/3/2021.
+E adito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REVISÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE NA VIA CÉLERE DO HABEAS CORPUS. DOSIMETRIA. PENA-BASE DO DELITO DE TRÁFICO DEVIDAMENTE MAJORADA COM BASE NA NATUREZA E QUANTIDADADE DA DROGA APREENDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+2. Na hipótese, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de tráfico de drogas imputados ao agravante, ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+3. Nos termos da jurisprudência firmada neste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem fundamentos idôneos para justificar a exasperação da pena-base.
+4. Agravo regimental desprovido (AgRg no HC n. 776.446/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/4/2023, destaquei).
+No tocante à dosimetria, nota-se que as circunstâncias do art. 59 do CP se revelam norteadoras, a fim de auxiliar o magistrado a modular a pena-base. Tais circunstâncias, denominadas judiciais, são cotejadas mediante o juízo de valor realizado caso a caso pelo juiz, com a delimitação da gravidade concreta do crime, cujo exercício interpretativo está abalizado por certo grau de discricionariedade, pois informada por princípios jurídicos e critérios de razoabilidade, proporcionalidade, igualdade e sensatez, motivo pelo qual afirma-se ser a discricionariedade vinculada (HC n. 585.731/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 1º/7/2022, grifei).
+Quanto ao pleit o para o afastamento das majorantes do delito em comento, não constato ilegalidade a ser sanada.
+Nota-se que a pena basilar foi fixada no mínimo legal de 4 anos de reclusão. Na fase seguinte, ausentes atenuantes ou agravantes. Na derradeira etapa, a sanção foi exasperada em 2/3 pelo concurso de pessoas e pelo uso de arma de fogo, razão pela qual a reprimenda totalizou 6 anos e 8 meses de reclusão.
+Devido ao reconhecimento do concurso formal de crimes, aplicou-se a fração de 1/5, estabilizando-a em 8 anos de reclusão, a ser cumprida no regime fechado, mais 19 dias multa.
+Rever as premissas fáticas que conduziram o Tribunal de origem a optar pelo referido patamar diante da constatação do uso de arma e do concurso de pessoas para a consumação das empreitadas criminosas, com reflexo no quantum da pena aplicada, demandaria o amplo reexame probatório, procedimento inviável na via excepcional do habeas corpus.
+Nesse sentido:
+ ..  se as instâncias ordinárias, com fundamento em elementos de convicção colhidos durante o inquérito e em juízo, reconheceram que o réu agiu em concurso com outros agentes, para afastar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, providência que não se coaduna com a via do writ, ficando, portanto, mantida a incidência da causa de aumento da comparsaria (CP, art. 157, § 2º, II)  ..  (HC n. 493.590/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019).
+Ademais, conforme a jurisprudência desta Corte Superior, não há de se falar em crime único quando, num mesmo contexto fático, são subtraídos bens pertencentes a vítimas distintas que, na hipótese, foram três, a caracterizar o concurso formal, pois patrimônios diversos foram atingidos, nos moldes do art. 70 do Código Penal.
+Assim, não se verifica ilegalidade na aplicação da pena, porquanto a conclusão adotada pela Corte local, além de ater-se a elementos concretos, encontra-se em harmonia com o entendimento firmado pelo STJ de que incide a regra prevista na primeira parte do art. 70 do CP quando, no mesmo contexto fático, a ação criminosa atinge bens de vítimas distintas.
+Ausente, portanto, notória ilegalidade a justificar a concessão da ordem.
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
