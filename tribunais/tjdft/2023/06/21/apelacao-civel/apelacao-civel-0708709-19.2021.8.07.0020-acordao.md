@@ -1,0 +1,120 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0708709-19.2021.8.07.0020APELANTE(S)SPE 4 SUDOESTE 1 LTDAAPELADO(S)MARCIO CAMPOS MARQUES e MARCIO CAMPOS MARQUESRelatorDesembargador JOAO EGMONT
+ Acórdão Nº1721921
+
+EMENTA
+
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO REGRESSIVA. PROVA DO PAGAMENTO. NECESSIDADE.  FUTUROS PAGAMENTOS. CONDENAÇÃO EM OUTRO PROCESSO. VALORES ILÍQUIDOS. IMPOSSIBILIDADE DE ACOLHIMENTO DO PEDIDO. ALEGAÇÃO DE PAGAMENTO. AUSÊNCIA DE PROVAS. DOCUMENTOS DE FÁCIL ACESSO A AUTORA. COMPROVANTE DE PAGAMENTO OU DA CONDENAÇÃO JUDICIAL A SER RESSARCIDA. INEXISTENTE. ÔNUS DA AUTORA. ART. 373, I, CPC. HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE FIXAÇÃO NA ORIGEM. MAJORAÇÃO RECURSAL. IMPOSSIBILIDADE. APELO IMPROVIDO.
+
+1. Apelação interposta contra sentença proferida em ação regressiva, que julgou procedentes os pedidos iniciais para condenar os réus pagarem a quantia de R$ 97.125,00, referente ao ressarcimento do valor devido em razão dos processos trabalhistas de responsabilidade dos réus. 1.1. O apelante requer a reforma da sentença. Alega que, no processo trabalhista (processo nº 0000561-90.2019.5.10.0022) em trâmite na 22ª Vara Trabalhista, ainda não houve liquidação da sentença, tendo até aquela data da propositura da ação (9/6/2021). Aduz que comprovou que houve o pagamento da importância adicional, não contemplada no valor inicialmente cobrado, de R$ 28.098,12, totalizando o prejuízo de R$ 125.223,12.
+
+2. A matéria devolvida a esta Corte de Justiça se refere ao segundo pedido da autora em relação ao ressarcimento das despesas do processo trabalhista ainda não concluído na data da propositura da ação.
+
+3. Restou incontroverso que no momento da propositura da inicial ainda não havia pagamento a respeito “2.2. DO PROCESSO TRABALHISTA AINDA NÃO CONCLUÍDO”, uma vez que a própria autora afirma que “ainda não houve liquidação da sentença, tendo até a presente data apenas o valor provisório da condenação qual seja: R$ 15.000,00. 3.1. Diferentemente da ação de consignação em pagamento, em que se pode depositar parcelas vincendas, na ação regressiva a prova do pagamento é requisito essencial para o acolhimento do pedido, não se admitindo a condenação no pagamento de valor que eventualmente venha a ser devido no curso do processo, como consta do pedido item 4.3. 3.2. Com razão a sentença quando afirma que os débitos trabalhistas já estão sendo discutidos no foro competente, como exposto na inicial, por isso devem aguardar julgamento. 3.3. Veja: “Nesse contexto, resta à embargante, caso queira, agitar suas pretensões na via adequada, pois esta já se encontra cerrada com a entrega da prestação jurisdicional, materializada na decisão proferida, a qual não está a merecer nenhum retoque em sede de embargos de declaração, à míngua de omissões ou obscuridades a serem supridas e tampouco de contradições a sanar.” 3.4. Nesse sentido, julgados deste TJDFT: “(...) I. A prova das despesas efetuadas pela seguradora é necessária para a sub-rogação no direito de crédito no caso de ação regressiva desta contra o causador do dano, tornando prescindível a apresentação da apólice de seguro. (...)” (20000110187057APC, Relator: Wellington Medeiros, 3ª Turma Cível, DJU Seção 3: 29/11/2000).
+
+4. Em relação à alegação da apelante que comprovou que houve o pagamento da importância adicional, não prosperam as suas alegações. 4.1. Quando da propositura da inicial, a autora não juntou nenhum documento a respeito do processo, somente informou na planilha o “valor provisório da condenação de R$ 15.000,00 - ainda não tem valor definitivo” e na coluna referente à “data do pagamento” estava indicado “data ainda desconhecida”. 4.2. Após a sentença, nos embargos de declaração, foram juntadas algumas cópias do referido processo trabalhista, consistentes em: a) “planilha de atualização de cálculo” do “saldo devedor em 01/06/2022”; b) uma tela com o saldo dos depósitos judiciais referentes ao processo no valor de R$ 27.321,08; c) alvará de transferência ao reclamante do saldo sobejante da executada, aqui apelante, referente a garantia do juízo transferida de processo da 5ª Vara do Trabalho não especificando o número do processo, nem o valor; e d) uma planilha de cálculo atualizada até 20/10/2022 de R$ 28.098,12, referente ao valor aqui pleiteado. 4.3. O alvará se refere a depósito realizado em outro processo e que foi transferido para garantia do juízo, portanto, o valor, que também não é indicado, pode já estar incluindo em algumas das condenações anteriores referentes aos demais processos trabalhistas. 4.4. A tela da Caixa Econômica Federal com o saldo dos depósitos judiciais referentes ao processo no valor de R$ 27.321,08, não comprova que a autora foi quem realizou o depósito, ou seja, o dano a ser ressarcido. 4.5. Dessa forma, resta claro que a autora não fez prova do seu direito, com a juntada de alguns dos documentos citados, que se encontram facilmente a sua disposição, o que poderia ter sido feito sem maiores problemas, não se desincumbindo, portanto, do seu ônus processual de comprovar os fatos constitutivos do seu direito, de acordo com o artigo do art. 373, inciso I, do Código de Processo Civil.
+
+5. Diante da inexistência de condenação da autora em honorários advocatícios de sucumbência na origem, impossível aplicar a majoração recursal a que se refere o §11 do art. 85 do CPC.
+
+6. Apelo improvido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOAO EGMONT - Relator, ALVARO CIARLINI - 1º Vogal e RENATO RODOVALHO SCUSSEL - 2º Vogal, sob a Presidência do Senhor Desembargador JOAO EGMONT, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 03 de Julho de 2023
+
+Desembargador JOAO EGMONTPresidente e Relator
+
+RELATÓRIO
+
+Cuida-se de apelação interposta por SPE 4 SUDOESTE 1 LTDA contra a sentença de ID 44690647, proferida em ação de conhecimento proposta contra MARCOS CAMPOS MARQUES – ME e MARCIO CAMPOS MARQUES.
+
+De acordo com a inicial, a autora pediu a condenação dos réus para: a) ressarcirem todo o valor devido em razão dos processos trabalhistas de responsabilidade dos réus, no importe de R$ 97.125,60 (noventa e sete mil, cento e vinte e cinco reais e sessenta centavos), corrigido monetariamente desde a data de desembolso das parcelas até a data do efetivo pagamento; e b) ressarcir todo o valor eventualmente pago indevidamente pela autora no curso do processo, devendo ainda arcar com o pagamento dos débitos discutidos no processo nº 0000561-90.2019.5.10.0022, promovido por Luiz Gonzaga dos Santos. Afirmou que, de acordo com o instrumento contratual de nº 45, celebrado entre as partes litigantes, em 13/11/2017, a empresa ré se comprometeu a realizar o fornecimento de mão de obra e materiais/insumos para execução de limpeza na obra Sonnata Residencial, sito na SQSW 301, Bloco F, Sudoente, Brasília/DF, pelo valor global de R$ 156.606,79 (cento e cinquenta e seis mil, seiscentos e seis reais e setenta e nove centavos), tendo sido concedido prazo de até o dia 31/01/2018 para a conclusão dos serviços contratados. Sustenta que, nos termos do contrato celebrado entre as partes, os funcionários contratados estavam sob subordinação da requerida, inexistindo entre os colaboradores e a requerente qualquer vínculo de natureza empregatícia, sobretudo porque a autora nunca gerenciou a execução dos trabalhos, tampouco manteve qualquer relação empregatícia com os empregados contratados. Alegou que a empresa ré não honrou com suas obrigações perante alguns de seus funcionários, que trabalharam no referido empreendimento, tendo ela sido acionada na Justiça Trabalhista para responder solidariamente pelo pagamento das verbas trabalhistas, assumindo assim involuntariamente um prejuízo financeiro de R$ 97.125,60 (noventa e sete mil, cento e vinte e cinco reais e sessenta centavos) já atualizados e corrigidos pelo INPC/IGBE, acrescido de juros de 1% mora. Informou que os processos em que houve pagamentos realizados no Tribunal Regional do Trabalho da 10ª Região são os seguintes: 1) Processo n° 0000393-49.2018.5.10.0014 (R$ 19.400,00); 2) Processo n° 0000369-45.2018.5.10.0006 (R$ 10.865,40); 3) Processo n° 0001160-11.2018.5.10.0104 (R$ 11.353,25); 4) Processo n° 0000733-80.2019.5.10.0103, (R$ 7.169,34); 5) Processo n° 0000741-88.2018.5.10.0104, (R$ 8.927,58); e 6) Processo n° 0000404-78.2018.5.10.0014, (R$ 12.000,00). Asseverou que no processo trabalhista ajuizado pelo Luiz Gonzaga dos Santos (processo nº 0000561-90.2019.5.10.0022), em trâmite na 22ª Vara Trabalhista, ainda não houve liquidação da sentença, tendo até aquela data da propositura da ação (9/6/2021) apenas o valor provisório da condenação qual seja: R$ 15.000,00 (quinze mil reais). Sustentou que considerando se tratar de uma responsabilidade da empresa ré, Márcio Campos Marques – Me, deve ser compelida a diligenciar junto ao referido processo e efetuar o pagamento da dívida de sua responsabilidade e, caso o pagamento do processo em epígrafe recaia sobre a autora, requer seja acrescido na condenação (ID 44690560).
+
+Citados, os réus não contestaram a ação (IDs 44690641 e 44690598).
+
+Por meio da sentença, os pedidos autorais foram julgados totalmente procedentes para condenar os réus a pagarem à autora a quantia de R$ 97.125,00 (noventa e sete mil cento e vinte e cinco reais), corrigida monetariamente e atualizada pelo INPC e acrescida de juros de mora de 1% ao mês desde os vencimentos das obrigações correspondentes. O feito foi extinto, com julgamento de mérito, nos termos do art. 487, I, do CPC. Em relação à sucumbência, os réus foram condenados ao pagamento das custas e dos honorários advocatícios, estes fixados em 10% (dez por cento) sobre o valor atualizado da causa, indicado na inicial como R$ 97.125,60, nos termos do art. 85, §2º, do CPC (ID 44690647).
+
+Opostos embargos de declaração (ID 44690650), estes foram rejeitados (ID 44690658).
+
+Em sua apelação, a autora requer a reforma da sentença “para que seja incluído no valor da condenação todas as verbas trabalhistas pagas no curso do processo, conforme expressamente requerido na peça de ingresso, somando o prejuízo causado pela Apelada, e que portanto deve ser integralmente ressarcido sob pena de configurar enriquecimento sem causa, o valor de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos), conforme efetivamente provado nos autos (...)”. Afirma que o artigo 927, do Código Civil estabelece que aquele que, por ato ilícito, causar dano a outrem, fica obrigado a repará-lo, persistindo a obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem. Sustenta que o artigo 934 afirma que aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou relativamente incapaz. Alega que no item 2.2 da petição inicial, no momento do ajuizamento da ação, havia um processo trabalhista que ainda não tinha sido concluído, o qual fora ajuizado por empregado da apelada, o Sr. Luiz Gonzaga dos Santos (processo nº 0000561-90.2019.5.10.0022) e que estava em trâmite na 22ª Vara Trabalhista, aguardando a liquidação da sentença, por isso pediu que a recorrida fosse compelida a diligenciar junto ao referido processo e efetuar o pagamento da dívida e caso o pagamento do processo recaísse sobre a recorrente, rogou que fosse acrescido o valor pago ao débito cobrado nos presentes autos. Aduz que comprovou que houve o pagamento da importância adicional, não contemplada no valor inicialmente cobrado, de R$ 28.098,12 (vinte e oito mil e noventa e oito reais e doze centavos), totalizando o prejuízo de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos). Assevera que restou demonstrado que, em razão da conduta negligente de não promover o pagamento das verbas devidas aos seus funcionários, a apelada causou um prejuízo financeiro à apelante de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos), não apenas de R$ 97.125,00 (noventa e sete mil e cento e vinte e cinco reais), não podendo a recorrente ficar sujeita ao prejuízo financeiro causado por culpa, única e exclusiva, da recorrida. Defende que não há qualquer óbice ao pedido de restituição de valores pagos no curso da lide, sobretudo pelos princípios da celeridade e economicidade processual, que devem ser prestigiados no processo, visto que exigir da apelante o ajuizamento de nova ação relativa ao mesmo negócio jurídico realizado sobrecarregaria o Judiciário desnecessariamente (ID 44690662).
+
+Preparo recolhido (ID 44690663).
+
+Sem contrarrazões (ID 44690668).
+
+É o relatório.
+
+Peço dia.
+
+VOTOS
+
+O Senhor Desembargador JOAO EGMONT - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do apelo.
+
+Cuida-se de apelação interposta por SPE 4 SUDOESTE 1 LTDA contra a sentença de ID 44690647, proferida em ação regressiva proposta contra MARCOS CAMPOS MARQUES – ME e MARCIO CAMPOS MARQUES.
+
+Por meio da sentença, os pedidos autorais foram julgados totalmente procedentes para condenar os réus a pagarem à autora a quantia de R$ 97.125,00 (noventa e sete mil cento e vinte e cinco reais), corrigida monetariamente e atualizada pelo INPC e acrescida de juros de mora de 1% ao mês desde os vencimentos das obrigações correspondentes. O feito foi extinto, com julgamento de mérito, nos termos do art. 487, I, do CPC. Em relação à sucumbência, os réus foram condenados ao pagamento das custas e dos honorários advocatícios, estes fixados em 10% (dez por cento) do valor atualizado da causa indicado na inicial como R$ 97.125,60, nos termos do art. 85, §2º, do CPC (ID 44690647).
+
+Em sua apelação, a autora requer a reforma da sentença “para que seja incluído no valor da condenação todas as verbas trabalhistas pagas no curso do processo, conforme expressamente requerido na peça de ingresso, somando o prejuízo causado pela Apelada, e que portanto deve ser integralmente ressarcido sob pena de configurar enriquecimento sem causa, o valor de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos), conforme efetivamente provado nos autos (...)”. Afirma que o artigo 927, do Código Civil estabelece que aquele que, por ato ilícito, causar dano a outrem, fica obrigado a repará-lo, persistindo a obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem. Sustenta que o artigo 934 afirma que aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou relativamente incapaz. Alega que no item 2.2 da petição inicial, no momento do ajuizamento da ação, havia um processo trabalhista que ainda não tinha sido concluído, o qual fora ajuizado por empregado da apelada, o Sr. Luiz Gonzaga dos Santos (processo nº 0000561-90.2019.5.10.0022) e que estava em trâmite na 22ª Vara Trabalhista, aguardando a liquidação da sentença, por isso pediu que a recorrida fosse compelida a diligenciar junto ao referido processo e efetuar o pagamento da dívida e caso o pagamento do processo recaísse sobre a recorrente, rogou que fosse acrescido o valor pago ao débito cobrado nos presentes autos. Aduz que comprovou que houve o pagamento da importância adicional, não contemplada no valor inicialmente cobrado, de R$ 28.098,12 (vinte e oito mil e noventa e oito reais e doze centavos), totalizando o prejuízo de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos). Assevera que restou demonstrado que, em razão da conduta negligente de não promover o pagamento das verbas devidas aos seus funcionários, a apelada causou um prejuízo financeiro à apelante de R$ 125.223,12 (cento e vinte e cinco mil, duzentos e vinte e três reais e doze centavos), não apenas de R$ 97.125,00 (noventa e sete mil e cento e vinte e cinco reais), não podendo a recorrente ficar sujeita ao prejuízo financeiro causado por culpa, única e exclusiva, da recorrida. Defende que não há qualquer óbice ao pedido de restituição de valores pagos no curso da lide, sobretudo pelos princípios da celeridade e economicidade processual, que devem ser prestigiados no processo, visto que exigir da apelante o ajuizamento de nova ação relativa ao mesmo negócio jurídico realizado sobrecarregaria o Judiciário desnecessariamente (ID 44690662).
+
+De acordo com os autos, a autora celebrou contrato de prestação de serviços com a empresa ré em que esta ficou responsável por todas as despesas trabalhistas de sua atividade como empresa terceirizada de limpeza, com base na cláusula IV, “c”, do contrato (ID 44690564, pág. 4).
+
+Uma vez descumprida essa obrigação, a autora pleiteou nos presentes autos o ressarcimento de despesas que arcou nos processos trabalhistas em razão das condenações sofridas com fundamento na sua responsabilidade solidária.
+
+Tendo os réus sido revéis nesta ação, a sentença às condenou ao pagamento do valor de R$ 97.125,60 (noventa e sete mil, cento e vinte e cinco reais e sessenta centavos), referente aos processos da Tribunal Regional do Trabalho da 10ª Região seguintes: 1) Processo n° 0000393-49.2018.5.10.0014 (R$ 19.400,00); 2) Processo n° 0000369-45.2018.5.10.0006 (R$ 10.865,40); 3) Processo n° 0001160-11.2018.5.10.0104 (R$ 11.353,25); 4) Processo n° 0000733-80.2019.5.10.0103, (R$ 7.169,34); 5) Processo n° 0000741-88.2018.5.10.0104, (R$ 8.927,58); e 6) Processo n° 0000404-78.2018.5.10.0014, (R$ 12.000,00).
+
+A matéria devolvida a esta Corte de Justiça se refere ao segundo pedido da autora em relação ao ressarcimento das despesas do processo trabalhista ainda não concluído na data da propositura da ação, nos seguintes termos:
+
+“4.3. condene a Requerida a ressarcir todo e qualquer valor eventualmente pago indevidamente pela Requerente no curso do processo, devendo ainda aquela arcar com o pagamento dos débitos discutidos no processo nº 0000561-90.2019.5.10.0022, promovido Luiz Gonzaga dos Santos;”
+
+Na inicial, a autora asseverou que no processo trabalhista ajuizado pelo Luiz Gonzaga dos Santos (processo nº 0000561-90.2019.5.10.0022), em trâmite na 22ª Vara Trabalhista, ainda não houve liquidação da sentença, tendo até aquela data da propositura da ação (9/6/2021) apenas o valor provisório da condenação qual seja: R$ 15.000,00 (quinze mil reais). Sustentou que considerando se tratar de uma responsabilidade da empresa ré, Márcio Campos Marques – Me, deve ser compelido a diligenciar junto ao referido processo e efetuar o pagamento da dívida de sua responsabilidade e, caso o pagamento do processo em epígrafe recaia sobre a autora, requereu fosse acrescido na condenação.
+
+Dessa forma, restou incontroverso que no momento da propositura da inicial ainda não havia pagamento a respeito “2.2. DO PROCESSO TRABALHISTA AINDA NÃO CONCLUÍDO”, uma vez que a própria autora afirma que “ainda não houve liquidação da sentença, tendo até a presente data apenas o valor provisório da condenação qual seja: R$ 15.000,00 (quinze mil reais).” (ID 44690560, P. 9).
+
+Diferentemente da ação de consignação em pagamento, em que se pode depositar parcelas vincendas, na ação regressiva a prova do pagamento é requisito essencial para o acolhimento do pedido, não se admitindo a condenação no pagamento de valor que eventualmente venha a ser devido no curso do processo, como consta do pedido item 4.3 (ID 44690560, P. 12).
+
+Com razão a sentença quando afirma que os débitos trabalhistas já estão sendo discutidos no foro competente, como como exposto na inicial, por isso devem aguardar julgamento.
+
+Vale citar os termos da sentença que julga os embargos de declaração (ID 44690658):
+
+“Nesse contexto, resta à embargante, caso queira, agitar suas pretensões na via adequada, pois esta já se encontra cerrada com a entrega da prestação jurisdicional, materializada na decisão proferida, a qual não está a merecer nenhum retoque em sede de embargos de declaração, à míngua de omissões ou obscuridades a serem supridas e tampouco de contradições a sanar.”
+
+Nesse sentido, julgados deste TJDFT:
+
+“DIREITO PROCESSUAL CIVIL.  AÇÃO REGRESSIVA. SEGURO. SUB-ROGAÇÃO.  PROVA DE PAGAMENTO. I. A prova das despesas efetuadas pela seguradora é necessária para a sub-rogação no direito de crédito no caso de ação regressiva desta contra o causador do dano, tornando prescindível a apresentação da apólice de seguro. (...)” (20000110187057APC, Relator: Wellington Medeiros, 3ª Turma Cível, DJU Seção 3: 29/11/2000) -g.n.
+
+“(...) 1 - A apólice de seguro é prescindível na ação regressiva da seguradora contra o causador do dano. Basta a prova do pagamento para que haja sub-rogação no direito de crédito. (...)” (19980110042453APC, Relator: Jair Soares, 5ª Turma Cível, DJU Seção 3: 9/6/1999. Pág.: 61) -g.n.
+
+Em relação à alegação da apelante que comprovou que houve o pagamento da importância adicional, não prosperam as suas alegações.
+
+Quando da propositura da inicial, a autora não juntou nenhum documento a respeito do processo, somente informou na planilha o “valor provisório da condenação de R$ 15.000,00 - ainda não tem valor definitivo” e na coluna referente à “data do pagamento” estava indicado “data ainda desconhecida” (ID 44690560, pág. 2).
+
+Após a sentença, nos embargos de declaração, foram juntadas algumas cópias do referido processo trabalhista, consistentes em: a) “planilha de atualização de cálculo” do “saldo devedor em 01/06/2022” (ID 44690651, pág. 2/7); b) uma tela com o saldo dos depósitos judiciais referentes ao processo no valor de R$ 27.321,08 (ID 44690651, pág. 9); c) alvará de transferência ao reclamante do saldo sobejante da executada, aqui apelante, referente a garantia do juízo transferida de processo da 5ª Vara do Trabalho não especificando o número do processo, nem o valor (ID 44690651 - Pág. 11, 14/15); e d) uma planilha de cálculo atualizada até 20/10/2022 de R$ 28.098,12, referente ao valor aqui pleiteado.
+
+O alvará de ID 44690651 - Pág. 11, 14/15 se refere a depósito realizado em outro processo e que foi transferido para garantia do juízo, portanto, o valor, que também não é indicado, pode já estar incluindo em algumas das condenações anteriores referentes aos demais processos trabalhistas.
+
+A tela da Caixa Econômica Federal com o saldo dos depósitos judiciais referentes ao processo no valor de R$ 27.321,08, de ID 44690651, pág. 9, não comprova que a autora foi quem realizou o depósito, ou seja, o dano a ser ressarcido.
+
+Dessa forma, fica claro nos autos que a autora não comprovou se realizou o pagamento, prova que seria muito fácil com a juntada do comprovante de depósito.
+
+As informações não são claras e os autos estão instruídos com cópias apenas de algumas peças do processo trabalhista, dificultando a comprovação do direito da autora.
+
+Assim, a autora não fez a prova mínima do seu direito, com a juntada de alguns dos documentos citados, que se encontram facilmente a sua disposição, o que poderia ter sido feito sem maiores problemas, não se desincumbindo, portanto, do seu ônus processual de comprovar os fatos constitutivos do seu direito, de acordo com o artigo do art. 373, inciso I, do Código de Processo Civil.
+
+NEGO PROVIMENTO ao recurso.
+
+Diante da inexistência de condenação da autora em honorários advocatícios de sucumbência na origem, impossível aplicar a majoração recursal a que se refere o §11 do art. 85 do CPC.
+
+É como voto.
+
+O Senhor Desembargador ALVARO CIARLINI - 1º Vogal Com o relatorO Senhor Desembargador RENATO RODOVALHO SCUSSEL - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
