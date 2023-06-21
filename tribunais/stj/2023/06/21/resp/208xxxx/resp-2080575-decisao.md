@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadimitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+"APELAÇÃO. CUMPRIMENTO DE SENTENÇA. Insurgência da exequente quanto à decisão que, ao acolher a impugnação apresentada pela Fazenda, determinou que o termo inicial de incidência dos juros de mora incidentes sobre os honorários advocatícios sucumbenciais executados fosse a data do trânsito em julgado da decisão que os fixou. Alegação de preclusão consumativa, uma vez que o Ente Público apresentou manifestação anterior à impugnação, concordando com os cálculos ofertados pela exequente. Decisum mantido, com acréscimo de fundamento. Questão que é de ordem pública e poderia ter sido apreciada até mesmo de ofício. Precedentes do Superior Tribunal de Justiça. Manutenção da r. decisão que determinou o início da fluência dos juros moratórios a partir do trânsito em julgado da sentença. Previsão expressa do artigo 85, §16, do CPC. Recurso desprovido."
+Embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos arts. 489 e 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts 16º, 489, §1º, 507, sustentando que "é inequívoco que ocorreu o trânsito em julgado da parte do v. acórdão proferido no processo de conhecimento que fixou honorários devidos pela Fazenda do Estado no importe de R$ 200.000,00, tratando-se portanto de parte incontroversa, a qual é sim passível de imediata execução nos termos do Tema 28 do C. STF, com incidência dos juros moratórios desde a data do respectivo trânsito em julgado (artigo 85, § 16 do CPC)" (fl. 2438).
+Ademais, argui que "matéria de ordem pública não pode ser alegada a qualquer tempo caso já tenha ocorrido a preclusão consumativa, enquanto o v. acórdão recorrido mesmo reconhecendo a existência de preclusão consumativa no caso concreto" (fl. 2467).
+O recurso especial foi inadmitido pelo Tribunal de origem (fls. 2547-2549 e- STJ).
+Nas suas razões de agravo, o agravante impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+É o relatório. Passo a decidir.
+Considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
