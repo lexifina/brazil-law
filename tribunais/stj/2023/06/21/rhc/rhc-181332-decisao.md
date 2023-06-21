@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Ryan dos Santos Fernandes - preso em flagrante pela suposta prática do crime de tráfico de drogas (Ação Penal n. 0715408-15.2023.8.07.0001, da 2ª Vara de Entorpecentes do Distrito Federal - fls. 59/61) - contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios que denegou a ordem no HC n. 0713729-80.2023.8.07.0000 (fls. 158/164), mantendo a prisão preventiva.
+Aqui, a defesa alega, em suma, ausência de fundamentos válidos para decretação da prisão preventiva.
+Afirma que recorrente é primário e que o modo de execução, a natureza e a quantidade de entorpecentes apreendidos são inerentes ao tipo penal, não agregando maior gravidade à conduta. Assim, fica evidente o descompasso e a desproporcionalidade entre a manutenção da prisão cautelar diante do caso concreto e das condições pessoais do recorrente (fl. 181).
+Requer, assim, o provimento do recurso, a fim de que seja concedida a liberdade provisória ao recorrente, com a fixação de outras medidas cautelares diversas da prisão, expedindo-se o competente alvará de soltura (fl. 183).
+Liminar indeferida (fls. 194/196).
+Informações prestadas (fls. 203/221), o Ministério Público Federal ofereceu parecer pelo não provimento do recurso (fls. 223/227).
+É o relatório.
+O Tribunal a quo manteve a segregação cautelar asseverando que (fls. 140/142 - grifo nosso):
+ ..
+Na hipótese, verifico que referidas premissas foram observadas na decisão proferida pelo juízo do NAC, que se apoiou em elementos concretos e em critérios objetivos, não em mero juízo de valor, ao converter a prisão em flagrante em prisão preventiva, salientando que é a terceira vez, em intervalo inferior a dois anos, que o paciente é preso pelo mesmo delito, evidenciando que a liberdade provisória e a aplicação de outras medidas cautelares não se mostraram suficientes para frear a senda criminosa. Confira-se (ID 155231310):
+ ..  O fato demonstra a necessidade da prisão do autuado, sobretudo diante da reiteração delitiva contundente. Em que pese jovem, com 18 anos, é a terceira vez que vai preso após a maioridade e especificadamente pelo tráfico de drogas. O apresentado foi preso em agosto de 2022 e colocado em liberdade provisória. O processo está em curso. Após, o apresentado foi preso em janeiro de 2023 e colocado em liberdade provisória. O processo está em curso. Desse modo, é a terceira vez que o autuado vem preso. Aliado a outros elementos dos autos, como as denúncias anônimas juntadas pelos policiais, é possível afirmar que o apresentado se dedica à prática de tráfico de drogas. Neste diapasão, a concessão de liberdade provisória ou a aplicação de medidas cautelares não são recomendáveis diante da gravidade concreta do caso e do risco de reiteração delitiva.
+Neste contexto, mostram-se presentes os pressupostos - certeza da materialidade e indícios de autoria - e fundamentos para decretação da prisão preventiva do indiciado, já que efetiva a presença do "fumus commissi delicti" e do "periculum libertatis", esse último, representado, fundamentalmente, como forma de salvaguardar a ordem pública.
+O crime praticado possui pena máxima superior a quatro anos, encontra-se, portanto, no rol do art. 313, I, CPP, restando preenchidas as condições de admissibilidade da prisão preventiva.
+Acrescento, por fim, que a afirmação de residência fixa, família constituída e ocupação lícita, mesmo que confirmada, não ostenta força capaz de infirmar o decreto de prisão preventiva, quando presentes os seus pressupostos, consoante vem decidindo, inclusive, o egrégio Superior Tribunal de Justiça.
+Ressalto, por fim, que medidas cautelares diversas da prisão (art. 319, CPP) não se mostram adequadas e suficientes à hipótese.
+Verifica-se, assim, que a decisão está suficientemente fundamentada e amparada na prova incipiente produzida nos autos, preenchendo os requisitos do art. 315 do CPP, bem como a exigência contida no art. 93, IX, da Constituição Federal.
+ ..
+Quanto ao periculum libertatis, esse igualmente se faz presente, devido à reiteração delitiva em crime da mesma natureza, voltando a delinquir no curso de liberdade provisória concedida em outros dois processos, tudo a indicar o seu descaso com as ordens judiciais e o risco à ordem pública, pouco importando a natureza e a quantidade da droga apreendida em poder do paciente.
+Essas circunstâncias autorizam a manutenção de sua prisão preventiva, sendo desaconselhada a aplicação de outras medidas cautelares previstas no art. 319 do CPP.
+ ..
+Dos excertos transcritos verifica-se que não há ilegalidade no decreto de prisão preventiva, visto que devidamente fundamentado na reiteração delitiva - foi preso em agosto de 2022 e colocado em liberdade provisória. O processo está em curso. Após, o apresentado foi preso em janeiro de 2023 e colocado em liberdade provisória. O processo está em curso. Desse modo, é a terceira vez que o autuado vem preso.
+Como sedimentado em farta jurisprudência do Superior Tribunal de Justiça, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 789.267/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe 25/5/2023).
+Considerada a real possibilidade de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal (AgRg no HC n. 747.174/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe 27/6/2022).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS . TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO VÁLIDA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
