@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado por Carlos Mil Bonifacio com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 63):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. RENÚNCIA AO CRÉDITO EXCEDENTE. HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS. BASE DE CÁLCULO. PROVEITO ECONÔMICO. OS HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS FORAM FIXADOS SOBRE O VALOR EXEQUENDO, O QUAL CORRESPONDE AO PROVEITO ECONÔMICO AUFERIDO PELA PARTE CREDORA. NA HIPÓTESE DE RENÚNCIA AO CRÉDITO QUE EXCEDE AO TETO PARA PAGAMENTO POR RPV, O PROVEITO ECONÔMICO AUFERIDO CORRESPONDERÁ AO VALOR DA RPV, SOBRE O QUAL OS HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS DEVERÃO SER CALCULADOS. PRECEDENTES DESTA 25ª CÂMARA CÍVEL. RECURSO PROVIDO. UNÂNIME.
+Não foram opostos embargos declaratórios.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 23 da Lei nº 8.906/94 e 85, §14, do CPC. Sustenta que "sendo uma relação jurídica distinta da perseguida pela parte exequente na ação, bem como considerando que a verba honorária sucumbencial é direito autônomo do advogado, totalmente independente do direito do autor, pertencente exclusivamente ao advogado, não se pode nomear os honorários de sucumbência como "acessório do principal"; portanto, a renúncia expressa do(a) parte ao valor excedente para fins de RPV não atinge os honorários sucumbenciais do advogado, justamente pela relação jurídica distinta." (fl. 79).
+Defende que "é de cristalina clareza que a parte não é titular dos honorários de sucumbência, os quais se tratam de créditos exclusivos dos advogados, de modo que não é possível o oferecimento de renúncia de crédito alheio." (fl. 80).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, as matérias pertinentes aos arts. 23 da Lei nº 8.906/94 e 85, §14, do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
