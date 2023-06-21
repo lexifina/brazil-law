@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ FERNANDO PATRICIO LEGUIZAMON no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0015346-06.2022.8.26.0071).
+Consta dos autos que o paciente cumpria a pena de 01 ano, 03 meses e 16 dias de reclusão em regime aberto pela prática de delito de furto qualificado.
+O Juízo de primeira instância, compreendendo ter sido integralmente cumprida a pena aplicada, extinguiu a punibilidade do paciente (e-STJ fls. 33-35).
+Irresignado, o Ministério Público estadual ingressou com agravo em execução penal, provido, nos termos da ementa ora transcrita (e-STJ fl. 47):
+AGRAVO EM EXECUÇÃO. Regime aberto. Reconhecimento da extinção da pena privativa de liberdade. Descumprimento de condição do regime referente ao comparecimento em juízo. Impossibilidade de reconhecimento da extinção da pena. Período de descumprimento da condição de comparecimento que não deve ser computado como pena cumprida. Recurso provido.
+Neste writ, sustentou a defesa o constrangimento ilegal em razão da cassação da decisão que julgou extinta a punibilidade pelo integral cumprimento da pena do paciente.
+Argumentou, nesse sentido, que "embora tenha sido noticiado o descumprimento de uma das oito condições impostas, não houve, em nenhum momento durante o cumprimento da reprimenda, notícias de que o paciente estaria descumprindo as condições impostas, sem qualquer intercorrência que desabonasse sua conduta" (e-STJ fl. 6).
+Defende que "caso haja descumprimento das condições do regime aberto, a revogação deve ocorrer durante o prazo em que o reeducando encontra em gozo da benesse, não depois do cumprimento integral da pena" (e-STJ fl. 6).
+Requer, ao final, a concessão da ordem para restabelecer a decisão de primeira instância.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fls. 67/70):
+O agravado cumpria a pena de 01 ano, 03 meses e 16 dias de reclusão em regime aberto pela prática de delito de furto qualificado, transcorrido o período da reprimenda, o Juízo das Execuções Criminais reconheceu a extinção da punibilidade pelo integral cumprimento. Insurge-se o Ministério Público contra essa decisão, aduzindo que o sentenciado descumpriu uma das condições fixadas para o regime aberto, o comparecimento mensal em juízo para fiscalização da execução da pena. Assim, o presente recurso discute a possibilidade de extinção da pena mesmo diante do descumprimento de condições do regime aberto. Sobre o tema destaco que a jurisprudência do Col. Superior Tribunal de Justiça foi formado no sentido de que se o sentenciado não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida.
+Aponto que, a despeito de inexistir decisão anterior de sustação cautelar do regime aberto, o descumprimento se caracteriza pelo não comparecimento do reeducando, e não pela decisão que o reconheça, hipótese na qual a decisão tem natureza meramente declaratória e não constitutiva. Dessa forma, considerando que a não apresentação do sentenciado em juízo se equipararia à fuga, deve haver a interrupção da execução da pena no período em que o sentenciado deixou de se apresentar, não se computando esse período como pena efetivamente cumprida.
+Nesse sentido, confira-se:
+ ..
+Assim, considerando a comprovação do não comparecimento do agravado em juízo pela informação de fls. 17, o período no qual foi constatado o descumprimento da condição do regime aberto não deve ser computado como pena cumprida.
+Assim, se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida. Logo, não há falar em extinção da pena pelo cumprimento da pena remanescente.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO DA PENA. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS NO REGIME ABERTO. NÃO COMPARECIMENTO EM JUÍZO. PERÍODO DE PENA NÃO COMPUTADO COMO PENA CUMPRIDA. FRUSTRAÇÃO DA FINALIDADE DA EXECUÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos. Precedente do STJ. (HC 380.077/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+3. No caso, o paciente descumpriu uma das condições que lhe foi imposta para cumprimento no regime aberto, qual seja, o comparecimento trimestral, tendo ficado foragido desde 30/6/2016 até 23/5/2017, dia em que foi preso em flagrante. Dessa forma, não só cometeu falta grave (art. 50, V, LEP), como também crime, tendo frustrado, assim, por duas vezes, os fins da execução, demonstrando que a autodisciplina e a reponsabilidade exigidas no regime aberto não foram atendidas pelo paciente, como mencionou o Tribunal coator.
+4. Habeas corpus não conhecido.
+(HC 482.915/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/06/2019, DJe 27/06/2019, grifou-se)
+Não vislumbro, portanto, o alegado constrangimento ilegal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
