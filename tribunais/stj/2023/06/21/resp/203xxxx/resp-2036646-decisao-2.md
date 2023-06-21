@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por Robson Garcia dos Santos contra a decisão do Tribunal de Justiça de São Paulo que, em juízo de admissibilidade, inadmitiu o recurso especial por ele interposto contra o acórdão proferido na Apelação Criminal n. 0000338-98.2015.8.26.0599, assim ementado (fl. 1.251):
+Receptação Qualificada - Apelação - Preliminar - Nulidades não configuradas - Rejeição - Conjunto probatório suficiente para o reconhecimento da prática delitiva - Absolvição - Descabimento - Dosimetria penal - Pena adequada e motivadamente dosada, necessária e suficiente para reprovação e prevenção do delito - Sentença mantida - Recurso do réu Robson desprovido.
+No recurso especial, a defesa apontou violação do art. 212 do Código de Processo Penal, sob o argumento de que o Juiz de primeira instância formulou perguntas às testemunhas antes mesmo das partes (fl. 1.316).
+Asseverou que se trata de nulidade absoluta, pois, além de quebrar o sistema acusatório adotado pela Constituição Federal de 1988 (art. 129, inciso I), infringe o princípio constitucional do devido processo legal. Ainda que, em sede de nulidade absoluta o prejuízo é presumido, ou seja, não precisa ser demonstrado, destacamos que tal está presente pelo atentado à necessidade de uma postura do juiz coerente com o sistema acusatório de total imparcialidade (fl. 1.317).
+Ressaltou que é evidenciado o prejuízo do apelante, afrontado o princípio do devido processo legal, sendo que, o entendimento dos Tribunais é que fora abolida do nosso ordenamento jurídico o sistema Presidencialista, vigendo assim, o sistema Acusatório, ademais, outro prejuízo presente é pelo atentado à necessidade de uma postura do juiz coerente com o sistema acusatório de total imparcialidade (fl. 1.320).
+Ao final da peça recursal, pugnou pelo provimento da insurgência, com a anulação a audiência de instrução e julgamento reclamada e os demais atos subsequentes, determinando que outra seja realizada, nos moldes do contido no art. 212 do CPP (fls. 1.321/1.322).
+Apresentadas contrarrazões (fls. 1.342/1.352), o Tribunal de origem não admitiu o recurso com suporte nas Súmulas 182 e 7/STJ (fls. 1.365/1.366).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 1.369/1.375).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo, nos termos da seguinte ementa (fl. 1.394):
+PENAL. RECURSO ESPECIAL. PEDIDO DE COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL. AGRAVANTE QUE NÃO LOGROU REBATER AS TESES DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO SUFICIENTE. ENUNCIADOS Nº 284 DO STF E 182 DO STJ.
+1. O recorrente pede a compensação da agravante da reincidência com a atenuante da confissão espontânea. OSTJ tem entendimento pacificado pela Terceira Seção deque a confissão espontânea, mesmo que parcial, deve ser compensada com a agravante da reincidência.
+2. Em relação ao pedido de substituição da pena privativa de liberdade por penas restritivas de direitos, o pedido não deve prosperar. O recorrente é reincidente e, portanto, não preenche um dos requisitos do art. 44 do Código Penal.
+3. Já o agravante não logrou rebater as teses expostas na decisão que negou seguimento ao recurso especial de forma suficientemente esperada.
+4. Incide no caso, por analogia, o enunciado n. 284 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." e o enunciado nº 182 da Súmula do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+- Parecer pelo conhecimento e pelo provimento parcial do recurso especial e pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prospera a tese apresentada pela defesa.
+Quanto à violação do art. 212 do Código de Processo Penal, do combatido aresto extraem-se os seguintes fundamentos (fls. 1.259/1.262 - grifo nosso):
+ ..  Do mesmo modo, não lhe assiste razão ao pretender a nulidade da audiência por ausência de observância ao devido processo legal, no que tange à ordem de inquirição das testemunhas.
+A norma contida no art. 212 do Código de Processo Penal, possibilita, somente, que as partes perguntem diretamente, não retirando do magistrado a possibilidade de realizar perguntas para seu convencimento. Afinal, este é o objetivo da produção de provas.
+ ..
+Saliente-se que, ainda que o novo sistema de inquirição não tivesse sido observado, não houve qualquer insurgência da Defesa nas audiências, restando preclusa a pretensão ora deduzida.
+Não obstante, observada a regra ínsita no art. 563 do Código de Processo Penal, não se demonstrou concreto prejuízo para declaração de nulidade, valendo ressaltar que às partes se garantiu o direito de formular em reperguntas, não havendo qualquer registro de que tenha sido obstaculizada a busca da verdade real.
+ ..
+Ademais disso tudo, não demonstrado ou constatado eventual prejuízo aos recorrentes, impossível o reconhecimento das nulidades alvitradas, diante da indissociável aplicação da máxima pas de nullité sans grief.
+ ..
+Observa-se do trecho acima que a Corte de origem afastou a alegada nulidade por inobservância da forma de inquirição das testemunhas porque: (i) a defesa não se insurgiu contra tal procedimento no momento oportuno; (ii) e não foi demonstrado efetivo prejuízo, tendo em vista que se garantiu o direito das partes de realizarem seus questionamentos.
+Com efeito, verifica-se que tal entendimento se coaduna com a jurisprudência desta Corte, segundo a qual as eventuais nulidades por inobservância do art. 212 do Código de Processo Penal possuem natureza relativa, reclamando alegação oportuna e demonstração do prejuízo, o que não ocorreu no caso concreto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ARGUIÇÃO DE NULIDADE. INVERSÃO DA ORDEM DO INTERROGATÓRIO. VIOLAÇÃO AO ART. 400 DO CPP. AUSÊNCIA DE MANIFESTAÇÃO TEMPESTIVA. PRECLUSÃO. PREJUÍZO NÃO DEMONSTRADO.
+1. A orientação jurisprudencial do Supremo Tribunal Federal que deve ser seguida pelo STJ é a que aponta que a concretização do interrogatório do réu antes da oitiva das testemunhas e da vítima lhe priva do acesso à informação, promovendo nítido enfraquecimento dos princípios constitucionais do "contraditório" e da "ampla defesa".
+2. Dessa forma, a regra excepcional do § 1º do art. 222 do CPP não autoriza a realização de interrogatório do réu em momento diverso do disposto no art. 400 do mesmo diploma legal, antes do final da instrução, haja vista que esta exceção aplica-se ao interrogatório das testemunhas, e não do réu, que, por sua vez, não se confunde com aquele ato processual - inquirição das testemunhas - porque não é produção de prova, mas sim exercício da "ampla defesa" e do "contraditório". Precedentes.
+3. Destaca-se ainda que no julgado mais recente da Terceira Seção (RvCr 5.563/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 12/05/2021, DJe 21/05/2021), ainda que se tenha reconhecida a nulidade da inversão da ordem de interrogatório, conclui-se que essa nulidade, por ser relativa, "é necessário que o inconformismo da Defesa tenha sido manifestado tempestivamente, ou seja, na própria audiência em que realizado o ato, sob pena de preclusão. Além disso, necessária a comprovação do prejuízo que o réu teria sofrido com a citada inversão" (HC 446.528/SP, Rel. p/ acórdão Ministro FELIX FISCHER, j. 11/9/2018, DJe 20/9/2018).
+4. Conforme extrai-se dos autos, a Defesa não se insurgiu contra a inversão da ordem das inquirições durante a audiência. Ademais, não restou demonstrado o efetivo prejuízo, não havendo falar, portanto, em nulidade.
+5. Agravo Regimental improvido.
+(AgRg no HC n. 732.518/SC, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 10/2/2023 - grifo nosso).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL ESTADUAL. PLEITO DE RECONHECIMENTO DE NULIDADES NA PROVA. INTERCEPTAÇÃO TELEFÔNICA. INOCORRÊNCIA DE VÍCIOS. NECESSIDADE DE EXAME APROFUNDADO DO ACERVO PROBATÓRIO PRODUZIDO. IMPOSSIBILIDADE NA VIA ELEITA. INTELIGÊNCIA DA SÚMULA 7/STJ. PREJUÍZO NÃO DEMONSTRADO PELA DEFESA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+8. Por fim, nos termos da uníssona jurisprudência deste Superior Tribunal de Justiça, eventual inobservância ao disposto no art. 212 do Código de Processo Penal gera nulidade meramente relativa, sendo necessário para seu reconhecimento a alegação no momento oportuno e a comprovação do efetivo prejuízo (AgRg no AREsp 1741471/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021).
+9. No presente caso, a defesa não logrou demonstrar prejuízo, não havendo, pois, falar em nulidade do ato impugnado.
+10. Agravo regimental não provido.
+(AgRg no AREsp n. 2.176.259/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/5/2023 - grifo nosso).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 212 DO CPP. TESTEMUNHAS. INQUIRIÇÃO PELO JUIZ. NULIDADE RELATIVA. ALEGAÇÃO OPORTUNA. DEMONSTRAÇÃO DO PREJUÍZO. NECESSIDADE. PAS DE NULLITÉ SANS GRIEF.
+Agravo conhecido para negar provimento ao recurso especial .
