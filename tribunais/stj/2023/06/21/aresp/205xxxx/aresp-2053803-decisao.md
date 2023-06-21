@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por HANDEL CORTE GONÇALVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO GOIÁS cuja ementa guarda os seguintes termos (fl. 295):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PERDA DO OBJETO. AUSÊNCIADE FATO NOVO.
+1. Ausentes argumentos novos que demonstrem o desacerto dos fundamentos utilizados na decisão monocrática, mostra-se imperioso o desprovimento do agravo regimental, mormente quando não há, nas razões do agravo interno trazido, qualquer novo argumento que justifique a modificação da decisão vergastada.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega o recorrente afronta aos arts. 3º, 139, I, e 1.012 do Código de Processo Civil, ao defender, em síntese, que, no caso, não foram apreciadas as teses alusivas à aplicabilidade da Lei da Inquilinato, assim como à insuficiência da caução. Aduz que a Lei do Inquilinato Urbano fora aplicável ao cumprimento imediato da ordem de despejo, no entanto, para o deferimento da caução, tornou-se inaplicável, em evidente violação da isonomia processual entre as partes, e que inexiste justificativa para o magistrado de primeiro grau determinar o cumprimento provisório do despejo, porquanto necessária aguardar o trânsito em julgado da sentença.
+Apresentadas contrarrazões ao recurso especial (fls. 358-367).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 370-371), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 399-407).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo à análise do recurso especial.
+No caso dos autos, insurge-se o recorrente contra o entendimento das instâncias ordinárias de que estaria prejudicado o agravo de instrumento, diante da perda superveniente de seu objeto.
+Não merece prosperar o recurso.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento a agravo interno no agravo de instrumento interposto pelo ora recorrente, não apreciou questão com base nos artigos de lei apontados por violados. Com efeito, entendeu a Corte a quo, em confirmação da decisão, que estava prejudicado agravo de instrumento, diante da perda superveniente de seu objeto, considerando que fora proferida sentença nos autos principais.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se o recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, confiram-se precedentes:
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1º/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
