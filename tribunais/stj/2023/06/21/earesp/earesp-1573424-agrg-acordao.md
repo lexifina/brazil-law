@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Batista Moreira (Desembargador convocado do TRF1), Sebastião Reis Júnior, Rogerio Schietti Cruz e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CAMILA DELLA VALENTINA contra decisão da minha lavra que indeferiu liminarmente os embargos de divergência em razão da ausência de divergência entre as teses fixadas no acórdão embargado e no paradigma (e-STJ fls. 1.214/1.218).
+No presente agravo regimental, a agravante alega que "é evidente que para o acórdão embargado a natureza permanente, in casu, é motivo jurídico para configurar justa causa para invasão domiciliar; ao passo que para o v. acórdão paradigma "não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial" (e-STJ fl. 1.229).
+Assim, requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO DESPROVIDO.
+1. Os embargos de divergência objetivam estancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Não se prestam, portanto, a corrigir suposto erro de julgamento do recurso especial.
+2. Nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; devem-se expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e os paradigmas com tratamento jurídico diverso, o que, contudo, não configura a hipótese dos autos.
+3. In casu, as teses jurídicas manifestadas no acórdão embargado e no paradigma não são divergentes, sendo certo que a solução adotada por eles é diversa em virtude da dessemelhança entre os suportes fáticos de cada um. Não há, efetivamente, divergência entre os julgados a respeito da necessidade de fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto para que o ingresso forçado em domicílio sem mandado judicial seja considerado legítimo, nos termos do RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe 8/10/2010.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que essa deve ser integralmente mantida.
+Conforme consignado na decisão agravada, os embargos de divergência objetivam est ancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação, o que não ocorre quando o acórdão impugnado não analisa o mérito do recurso especial em razão da falta dos requisitos de admissibilidade.
+Ademais, cabe à parte embargante a comprovação do dissídio pretoriano nos moldes do art. 266, § 4º, do RISTJ, que assim dispõe:
+Art. 266 - § 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Destarte, nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; devem-se expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e o paradigma com tratamento jurídico diverso.
+No caso, contudo, as teses jurídicas manifestadas no acórdão embargado e no paradigma não são divergentes, sendo certo que a solução adotada por eles é diversa em virtude da dessemelhança entre os suportes fáticos de cada um.
+Com efeito, não há, efetivamente, divergência entre as turmas da Terceira Seção a respeito da necessidade de fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto para que o ingresso forçado em domicílio sem mandado judicial seja considerado legítimo, nos termos do RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe 8/10/2010.
+Partindo dessa premissa, o acórdão embargado concluiu que "o Tribunal a quo, ao decidir pela inexistência de ofensa à garantia constitucional da inviolabilidade domiciliar e pela ilicitude das provas, consignou a presença de fundadas razões a justificar a conduta dos policiais, uma vez que houve a efetiva apreensão prévia de entorpecentes em poder do corréu Renato, no ato da abordagem, circunstância que ensejou a diligência realizada (e-STJ fl. 747). Nesse contexto, devidamente configurada a justa causa para o ingresso dos policiais na residência do corréu, não havendo se falar em violação de domicílio" (e-STJ fls. 1.029/1.030).
+Por sua vez, o acórdão paradigma, também amparado na orientação jurisprudencial do citado RE n. 603.616/RO, consignou que não foram demonstrados indícios mínimos de que, naquele momento, dentro da residência, estar-se-ia diante de situação de flagrante delito e concluiu que "ausente, assim, justa causa para o ingresso domiciliar, sem consentimento do morador nem autorização judicial, quando o agente empreende fuga, refugiando-se na residência, ainda que obtido êxito na apreensão de droga" (e-STJ fl. 1.183).
+Na verdade, da leitura das razões dos embargos de divergência e do presente agravo regimental, constata-se que a intenção da embargante é corrigir suposto erro de julgamento do recurso especial, finalidade a que não se prestam os embargos de divergência.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
