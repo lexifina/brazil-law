@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de GLACIVALDO DA SILVA SOUZA que aponta como autoridade coatora a "1ª CÂMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA - PE" (fl. 3).
+Em síntese, segundo a inicial, o paciente sofre constrangimento ilegal consistente na manutenção de sua prisão preventiva, decretada em 16/8/2021, em decisão alegadamente genérica e abstrata proferida pelo Juízo da Vara Criminal da Comarca de Goiana/PE.
+A defesa narra que foi impetrado habeas corpus perante a Corte estadual, contudo, " ..  O Relator em decisão terminativa, alegou que constituía uma reiteração de um pedido de um outro Habeas Corpus, que já teria sido objeto de análise  .. " (fl. 4).
+Argumenta que " ..  o relator cometeu um equívoco quando diz que o pedido é igual, sendo que em um habeas Corpus o pedido foi pela revogação de prisão pelo não cabimento da prisão preventiva  .. " (fl. 5).
+Requer " ..  seja o presente habeas corpus conhecido e provido, que seja concedida a Ordem de Habeas Corpus, para reconhecer o direito para que seja revogada a prisão do paciente, já que não subsiste fundamento para que persista a preventiva, pois o processo se findou e não existem motivos para manutenção da prisão  .. " (fl. 11).
+Os autos foram instruídos com cópias de 1) decisão monocrática de Desembargador do TJPE que não conheceu do HC n. 0006757-25.2023.8.17.9000 (fls. 12/15); 2) acórdão de proferido pela 1ª Câmara Criminal - Recife do TJPE nos autos do HC n. 0000005-21.2021.8.17.9901 (fls. 16/22); 3) decisão de Juízo de primeiro grau que indeferiu, em 1/6/2022, requerimento de revogação de prisão preventiva (fls. 24/28); 4) decisão que, dentre outros, em 16/8/2021, decretou a segregação cautelar (fls. 30/40); e 5) decisão que indeferiu revogação da prisão em 16/1/2023 (fls. 43/46).
+É o relatório.
+Decido.
+Esta ação mandamental não prospera.
+Em 25/4/2023 o paciente, por intermédio do mesmo representante, protocolou no Superior Tribunal Justiça writ análogo, autuado sob o n. HC 818.670/PE, no qual tencionou "seja o presente habeas corpus conhecido e provido, que seja concedida a Ordem de Habeas Corpus, para reconhecer o direito para que seja revogada a prisão do paciente, já que não subsiste fundamento para que persista a preventiva, pois o processo se findou e não existem motivos para manutenção da prisão".
+Naquele mandamus, de minha relatoria, indeferi liminarmente a impetração consignando que não se conhece de habeas corpus que desafia decisão monocrática, incumbindo ao interessado impugnar o decisum por meio de recurso próprio antes de submeter seu pedido ao STJ. Referida decisão transitou em julgado em 9/5/2023.
+Apesar disso, sucessivamente, a defesa protocolou outros três habeas corpus neste Tribunal, idênticos.
+Indeferi liminarmente o HC 829.678/PE, autuado em 9/6/2023, diante de deficiência na instrução.
+O HC 823.120/PE, de 15/05/2023, também foi indeferido, de plano, destacada a reiteração de pedidos e a inviabilidade da impetração, sob qualquer aspecto, uma vez que a argumentação da inicial estava dissociada do acórdão colacionado à inicial e não foi juntada cópia do decreto prisional.
+A mesma sorte deve seguir esta impetração, por constituir mera reiteração dos pedidos formulados nos HC 818.670/PE, HC 829.678/PE e HC 823.120/PE, constatada ainda a identidade de partes e de causa de pedir, controvérsia defensiva cujo cerne foi rechaçado, a contento, em decisão transitada em julgado. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. ANÁLISE DE PLEITO CONSTANTE DE RECURSO ANTERIOR. REITERAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. RE VOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Nos termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ.
+ ..
+5. Agravo regimental de fls. 154-163 não conhecido e agravo regimental de fls. 144-153 desprovido.
+(AgRg no RHC n. 162.232/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe de 13/5/2022).
+Oportuno registrar a insistência da defesa em buscar acessar a via extraordinária desta Corte sob análogas razões de fato e de direito já apreciadas por este Sodalício, em prejuízo às atividades do Tribunal da Cidadania, do Parquet e dos jurisdicionados.
+Como decidido, " é  direito do advogado atuar, livremente, em defesa de seu cliente e fazer uso de suas prerrogativas legais para tanto. Também é direito e dever do advogado lutar pela correta aplicação da lei e pelo hígido e eficaz funcionamento do Poder Judiciário, condição sine qua non para que não se negue jurisdição a quem dela necessita. Porém, assim como qualquer relação existente na sociedade, deve a atuação do advogado se cercar de decoro, ética, lealdade e boa-fé para com todos os sujeitos processuais.  .. " (AgRg no HC n. 754.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 23/8/2022).
+Ante o exposto, com fulcro no art. 210, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, indefiro a impetração.
+Publique-se.
+Intimem-se.
