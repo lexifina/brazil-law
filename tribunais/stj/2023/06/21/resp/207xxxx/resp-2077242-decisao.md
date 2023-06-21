@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ESTADO DE MATO GROSSO DO SUL, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - REJEIÇÃO À IMPUGNAÇÃO - COBRANÇA DE ASTREINTES - ALEGAÇÃO DE INEXIGIBILIDADE E INEXEQUIBILIDADE DO TÍTULO - OCORRÊNCIA DE PRECLUSÃO - AUSÊNCIA DE INSURGÊNCIA DA PARTE SOBRE O ASSUNTO NO MOMENTO OPORTUNO - RECURSO NÃO CONHECIDO.
+A teor do art. 507, do Código de Processo Civil, o debate acerca da exigibilidade de multa diária aplicada pelo descumprimento de obrigação de fazer fica acobertado pelo manto da preclusão se a parte devedora, intimada das decisões sobre o assunto, manteve-se inerte" (fl. 33e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 47/50e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OMISSÃO - VÍCIO NÃO CONSTATADO - CLARA PRETENSÃO DE REDISCUSSÃO DA MATÉRIA - INCONFORMISMO DA PARTE COM O JULGAMENTO PROFERIDO - EMBARGOS REJEITADOS.
+Os embargos de declaração têm aplicação estrita e taxativa, nos termos do art. 1.022, do CPC, e não se prestam à rediscussão do mérito da causa, conforme jurisprudência sedimentada por esta Corte de Justiça Estadual e pelo Superior Tribunal de Justiça" (fl. 68e).
+Nas razões do Recurso Especial (fls. 80/90e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 537, § 1º, I, do CPC/2015.
+Sustenta que:
+"O Estado entende que a multa fixada deveria ser revista, o que foi obstado pelas instâncias ordinárias em clara violação à lei e também com ofensa ao entendimento consolidado por este E. Tribunal, o que abre a oportunidade de conhecimento e provimento do recurso pela alínea c, do permissivo constitucional.
+Identifiquemos, então, esta divergência.
+(..)
+Dúvida não há, portanto, de que o v. Acórdão recorrido expressamente deixou de aplicar ao caso a tese fixada no julgamento do tema 706, por este E. Superior Tribunal de Justiça.
+No entanto, a tese é clara ao pugnar inexistir preclusão ou coisa julgada em hipóteses tais as dos autos.
+(..)
+Como se vê, não há exceção à regra acerca da não preclusão, porquanto o caso é de avaliação de um instrumento de coerção legal, cuja dinâmica a própria lei tornou sujeita a revisão permanente.
+Resta clara e bem demonstrada, portanto, a divergência, donde caber o provimento do recurso também por este fundamento" (fls. 88/90e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 96/99e).
+A irresignação não merece conhecimento.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 35/38e):
+"Consta do feito principal que fora determinado ao Estado e ao Município de Aparecida do Taboado o fornecimento de medicamentos ao agravado, sob pena de multa, ordem que restou ao final cumprida, porém com excessivo atraso.
+Inclusive, diante do cumprimento da obrigação, o Juízo de origem revogou a multa diária anteriormente arbitrada, tema que foi objeto de discussão no Agravo de Instrumento n.º 1414019-55.2019.8.12.0000, julgado por esta Primeira Câmara Cível, ocasião em que se deu provimento ao reclamo do agravado para manter a penalidade, ficando consignado em voto de minha relatoria o atraso exagerado para o atendimento da ordem judicial e a ausência de motivos aptos a justificar tal demora (f.
+448-51 da ação principal).
+É possível observar que contra tal decisum não houve a interposição de recurso pelo Estado de Mato Grosso do Sul, fato, aliás, expressamente afirmado na petição acostada às f. 455 do feito de origem.
+O cenário verificado revela clara impossibilidade de instaurar discussão sobre a questão nesse momento, por força da preclusão temporal.
+(..)
+Com efeito, entendo correto o posicionamento do juiz singular ao asseverar que a rediscussão do assunto ensejaria malferimento à boa-fé processual, uma vez que o ente estatal foi intimado da ordem de fornecimento da medicação na ação n.º 0801245-04.2018.8.12.0024, posteriormente o autor ingressou com cumprimento provisório de sentença, sendo a matéria efetivamente decidida no agravo de instrumento supracitado, sem que sobreviesse posterior insurgência ao pronunciamento deste Órgão ad quem.
+A ocorrência de preclusão, nestas circunstâncias, é evidente, o que acarreta o não conhecimento do recurso.
+Destaco não desconhecer o posicionamento do Superior Tribunal de Justiça em julgamento sob o rito dos recursos representativos da controvérsia, no sentido de que "A decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada" (REsp n.º 1333988/SP; Rel. Ministro Paulo de Tarso Sanseverino; 2.ª Seção: J. DJe 11.4.2014).
+Ocorre que tal entendimento não pode ser aplicado de modo absoluto, devendo-se apreciar, caso a caso, a controvérsia instaurada, mormente porque a discussão sobre as astreintes deve ser reservada para aquelas situações em que a multa tem de ser alterada porque seu valor tornou-se insuficiente ou excessivo, ou mesmo às situações em que fatores supervenientes levam à necessidade de sua adequação, o que não se constata na hipótese concreta.
+In casu, o agravante sustenta a inexigibilidade da multa diária por ausência de intimação pessoal, fato anterior ao momento da discussão judicial sobre o assunto e que não torna necessária, agora, a revisão da penalidade.
+Ademais, ainda que assim não o fosse, é de se reconhecer que o C. STJ tem manifestado entendimento de que "embora a matéria de ordem pública possa ser arguida em qualquer momento, uma vez decidida e não havendo recurso das partes, ocorre a preclusão" (AgInt nos EDcl no REsp n.º 1613722 / PR; Ministro Marco Aurélio Bellizze; 3.ª Turma; DJe 1.6/2017).
+(..)
+Sendo assim, considero inequívoca a preclusão da matéria ora discutida, haja vista que o agravante teve outras oportunidades para defender a inexigibilidade e inexequibilidade das astreintes."
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Por fim, deve-se ressaltar que o Recurso Especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade, pelo próprio advogado, ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 541, parágrafo único, do CPC/73 e art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos, nos termos legais e regimentais, não bastando a mera transcrição de ementas.
+Nesse sentido:
+"PROCESSUAL CIVIL. DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPROCEDÊNCIA DO PEDIDO. REDUÇÃO DE PROVENTOS AO TETO CONSTITUCIONAL. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. INVOCADA DECADÊNCIA PARA A ADMINISTRAÇÃO PÚBLICA. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICÁVEL. OFENSA A PRINCÍPIOS CONSTITUCIONAIS. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE CONSTITUCIONAL. REVISÃO POR MEIO DE RECURSO ESPECIAL. INVIÁVEL. AUSÊNCIA DE DEMONSTRAÇÃO DE COTEJO ANALÍTICO. AGRAVO INTERNO IMPROVIDO.
+I - No que concerne ao ausência de prequestionamento, verifica-se que a Corte de origem não se pronunciou, ainda que implicitamente, acerca do art. 2º da Lei n. 9.784/99. A análise da controvérsia foi feita, na verdade, sob perspectiva constitucional, mediante análise do dispositivo do art. 37, inciso XI, da Constituição Federal e princípios como o direito adquirido, ato jurídico perfeito e irredutibilidade de vencimentos. Assim, incide no caso o enunciado da Súmula 211 do Superior Tribunal de Justiça.
+II - De outra sorte, o Tribunal de origem, ao decidir a controvérsia, assim o fez com suporte em preceitos eminentemente constitucionais. Incabível a análise da decisão combatida pela via eleita, pois, nos termos do art. 105, III, da CF/88, o recurso especial destina-se à uniformização do direito federal infraconstitucional, sendo reservada ao STF a análise de possível violação de matéria constitucional.
+III - Ademais, o recurso não pode ser conhecido pela divergência, pois os recorrentes não realizaram o necessário cotejo analítico, bem como não apresentaram, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementas, deixaram de demonstrar as circunstâncias identificadoras da divergência entre o caso confrontado e os arestos paradigmas.
+IV - Agravo interno improvido" (STJ, AgInt no AREsp 1.145.301/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/03/2018).
+Na hipótese, contudo, a parte recorrente não se desincumbiu de seu ônus, porquanto não realizou o cotejo analítico entre os julgados trazidos como paradigmas e o acórdão impugnado, mediante a indicação de circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
