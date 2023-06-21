@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por WELLINGTON DEIVIDSON BARBOSA com fundamento no art. 105, III, alínea "a" da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CRIMINAL  FURTO QUALIFICADO  EMPREGO , DE CHAVE FALSA  QUALIFICADORA MANTIDA. Presente a qualificadora relativa ao uso de chave falsa, conforme atestado pela prova testemunhal, impossível seu decote. Desprovimento ao recurso que se impõe. (e-STJ fl. 529)
+A defesa aponta a violação dos arts. 59 do CP e 155, § 4º, III e 158, ambos do CPP, alegando, em síntese, que a confissão do recorrente, por si só, não permite o reconhecimento da qualificadora do emprego de chave falsa, sendo necessária a realização de perícia, sobretudo porque as chaves foram apreendidas.
+Contra-arrazoado (e-STJ fls. 566/570) e admitido (e-STJ fls. 572/573), manifestou-se o Ministério Público Federal, nesta instância, pelo desprovimento do recurso (e-STJ fls. 586/589)
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 4 anos e 7 meses de reclusão, em regime fechado, pelo cometimento do crime do art. 155, § 4 º, III, por seis vezes, e artigo 155, § 4º, III c/c artigo 14, II, todos do Código Penal.
+A defesa se insurge contra o reconhecimento da qualificadora do emprego de chave falsa, diante da não realização da pericia. Sobre o tema, o TJMG assim se pronunciou:
+A qualificadora do emprego de chave falsa está comprovada pela prova oral.
+O próprio acusado admitiu que "confirma a prática dos delitos em tela, esclarecendo que agiu sozinho, sem violência ou emprego de grave ameaça, utilizando-se de uma chave veicular que tinha em casa, haja vista que já teve um veículo FIAT/UNO, o qual vendeu, porém ficou com a chave reserva." (fl.08)
+A respeito da qualificadora de utilização de chave falsa, a doutrina elucida:
+"Considera-se chave falsa: a) a imitação da verdadeira, obtida de forma clandestina (cópia feita sem autorização); b) qualquer instrumento, com ou sem forma de chave, capaz de abrir uma fechadura sem arrombá-la: grampos, "mixas", chaves de fenda, tesouras etc." (GONÇALVES, Victor Eduardo Rios. Dos Crimes contra o Patrimônio. 5ª ed. São Paulo: Saraiva, 2002, p. 15/16).
+Dessa forma, não há como afastar o reconhecimento da qualificadora referente ao emprego de chave falsa, porque o autor utilizou-se de uma chave veicular para abrir os veículos e ligá-los, conseguindo, assim, furtar os veículos das vítimas.
+Destarte, não fosse a utilização da chave falsa, não teria o acusado sequer logrado subtrair os automóveis.
+Evidenciada a qualificadora através da prova oral, desnecessária a existência do laudo pericial para atestá-la, mesmo porque nem sempre a utilização da chave falsa deixará vestígios. (e-STJ fl. 532)
+Esta Corte possui entendimento no sentido de que a necessidade de realização do exame pericial à constatação da qualificadora de uso de chave falsa (art. 155, § 4º, inciso III, do Código Penal) dependerá das circunstâncias fáticas de cada caso. Se houver vestígios, a perícia é imprescindível, na forma do art. 158 do Código de Processo Penal. Naqueles em que não forem eles verificados ou se já desaparecidos, a prova oral poderá suprir a técnica, conforme disposto no art. 167 do Código de Processo Penal (ut, AgRg nos EAREsp n. 886.475/SC, Relator Ministro JORGE MUSSI, Terceira Seção, DJe de 12/3/2019).
+No caso concreto, consta da sentença (e- STJ fl. 408) que com o recorrente foram apreendidas duas chaves de veículos, tendo ele confessado que abria os automóveis utilizando a chave reserva de outro.
+Nesse contexto, não se verifica nenhuma razão para a não realização da perícia, sendo necessária a desclassificação do delito para a sua forma simples. A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO QUALIFICADO (EMPREGO DE CHAVE FALSA). AFASTAMENTO DA QUALIFICADORA POR AUSÊNCIA DE PERÍCIA. POSSIBILIDADE. FURTO SIMPLES. DOSIMETRIA. READEQUAÇÃO DA PENA. REINCIDÊNCIA. REGIME SEMIABERTO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - In casu, o eg. Tribunal de origem manteve a qualificadora do emprego de chave falsa com base em depoimentos testemunhais.
+Todavia, a substituição do laudo pericial por outros meios de prova apenas pode ocorrer se o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a realização da perícia, o que não foi demonstrado no presente caso, haja vista que o artefato apreendido poderia ter sido facilmente submetido a perícia, razão pela qual faz-se necessário o afastamento da qualificadora, desclassificando-se a conduta para o tipo legalmente previsto no art. 155, caput, do Código Penal, ou seja, furto simples.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a reprimenda do paciente para 1 (um) ano, 1 (um) mês e 10 (dez) dias de reclusão, mais pagamento de 11 (onze) dias-multa, pelo delito tipificado no art. 155, caput, do Código Penal, estabelecendo, ainda, o regime inicial semiaberto para o início de resgate da pena. (HC n. 404.342/SC, relator Ministro Felix Fischer, Quinta Turma, DJe de 21/9/2017)
+Operada a desclassificação, a pena do recorrente para cada crime de furto consumado fica estabelecida em 1 ano, 4 meses e 15 dias de reclusão. Para o delito tentado, fixa-se a pena em 8 meses e 7 dias de reclusão.
+Mantida a fração de 2/3 pela continuidade delitiva, a pena final atinge o montante de 2 anos, 3 meses e 15 dias de reclusão.
+Em que pese a pena imposta tenha sido inferior a 4 anos, a pena-base foi fixada acima do mínimo legal tendo em vista o reconhecimento de circunstância judicial desfavorável e o recorrente é reincidente, o que autoriza a fixação do regime inicial fechado, consoante pacífica jurisprudência desta Corte.
+Pelas mesmas razões não se admite a substituição da pena corporal por restritiva de direitos.
+Ante o exposto, nos termos do art. 932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial para reduzir a pena do recorrente para 2 anos, 3 meses e 15 dias de reclusão.
+Intimem-se.
