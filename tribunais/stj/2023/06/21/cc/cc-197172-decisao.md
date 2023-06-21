@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo Federal da 15ª Vara Criminal de Brasília/SJ-DF e suscitado o Juízo de Direito da 1ª Vara Criminal e Tribunal do Júri de Santa Maria/DF.
+A Polícia Civil do Distrito Federal instaurou inquérito para apurar a prática, em tese, de crimes de falsificação de documento particular e de uso de documento falso perante o Instituto Nacional do Seguro Social (INSS), com o propósito de obtenção de auxílio-doença.
+O juízo suscitado consignou que a competência para processamento e julgamento é da Justiça Federal, por consistir o INSS uma autarquia federal, nos termos do art. 109, IV, da Constituição Federal.
+O juízo suscitante recusou a competência por entender que não chegou a ocorrer prejuízo a bens, interesses ou serviços da União. Assinalou que o INSS "rejeitou o laudo apresentado pela falta de informações necessárias a análise do pedido de auxilio doença" (e-STJ fl. 321), sem ter naquele momento identificado a falsidade agora sob investigação.
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitante (e-STJ fls. 334-341).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para processo em que se apura eventual prática dos crimes dos arts. 298 e 304 do Código Penal foi estabelecida entre o Juízo Federal da 15ª Vara Criminal de Brasília/SJ-DF, suscitante, e o Juízo de Direito da 1ª Vara Criminal e Tribunal do Júri de Santa Maria/DF, suscitado.
+De acordo com a dinâmica dos fatos até então apurados na origem, a investigada "apresentou junto ao INSS, em uma ação de auxílio-doença, um atestado médico supostamente contrafeito" (e-STJ fl. 302).
+Não prevalece o fundamento adotado pelo juízo suscitante de que o INSS indeferiu o pedido da investigada com base em outro fundamento que não a falsidade do atestado usado para subsidiar o requerimento, porquanto "é pacífico o entendimento neste Superior Tribunal de Justiça de que, tratando-se de crime formal, o delito tipificado no artigo 304 do Código Penal consuma-se com a utilização ou apresentação do documento falso, não se exigindo a demonstração de efetivo prejuízo à fé pública nem a terceiros" (AgInt no AREsp 1.229.949/RN, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 06/03/2018, DJe 14/03/2018)" (AgRg no AREsp n. 656.601/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2018, DJe de 31/10/2018).
+O STJ consolidou na Súmula 546 a orientação de que "A competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedidor".
+Confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. USO DE DOCUMENTO FALSO NA JURISDIÇÃO FEDERAL TRABALHISTA. HIPÓTESE DE CONEXÃO OBJETIVA COM DELITOS DE APROPRIAÇÃO INDÉBITA E PATROCÍNIO INFIEL. ART. 76, II, DO CP. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 122/STJ.
+1. A jurisprudência desta Corte vem entendendo que o critério a ser utilizado para a definição da competência para julgamento do delito de falso "define-se em razão da entidade, ou do órgão ao qual foi apresentada, porquanto são estes quem efetivamente sofrem os prejuízos em seus bens ou serviços" (STJ, CC 99.105/RS, Rel. Ministro JORGE MUSSI, Terceira Seção, DJe de 27/2/2009).
+2. Independentemente do momento processual em que ocorreu, a apresentação de recibo de quitação forjado perante a Justiça do Trabalho constituiria uso de documento falso perante autoridade federal, atraindo, por consequência, a competência da Justiça Federal para o julgamento da ação penal. Precedentes: CC 141.661/SP e CC 142.804/SP, Rel. Min. REYNALDO FONSECA, Rel. para o acórdão Min. NEFI CORDEIRO, julgados em 28/10/2015, maioria, publicados no DJe de 30/11/2015.
+Ressalva do entendimento pessoal do Relator, no ponto.
+3. Uma vez que a apresentação do falso teve por finalidade encobrir delitos prévios de apropriação indébita e de patrocínio infiel, tem-se hipótese de conexão objetiva (art. 76, II, do CP), devendo todos os fatos serem reunidos e julgados no foro federal, nos termos da Súmula 122 desta Corte.
+4. Conflito conhecido, para declarar a competência do Juízo Federal da 2ª Vara Criminal da Subseção Judiciária de Franca/SP, o suscitado.
+(CC 144.862/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 27/4/2016, DJe de 4/5/2016.)
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo Federal da 15ª Vara Criminal de Brasília/SJ-DF , suscitante.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
