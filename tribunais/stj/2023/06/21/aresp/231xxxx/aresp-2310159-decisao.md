@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo, manejado por CONSELHO REGIONAL DE QUÍMICA DA QUINTA REGIÃO, desafiando decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial com base na aplicação da Súmula 83/STJ.
+Nas razões do agravo, a parte sustenta que: (I) "o RESP foi inadmitido pois supostamente estaríamos barrando n Sumula 7 do STJ." (fl. 97), de modo que "a decisão recorrida, ao decidir por desconstituir o título executivo, sem que intimasse o executado para se manifestar, uma vez que é sabido que mediante citação há um grande número de acordos extrajudiciais, exarou entendimento divergente de acórdãos de outros Tribunais (art. 105, III, "c", CF). Isso porque o Superior Tribunal de Justiça (STJ) já analisaram caso idêntico e decidiram de forma inversa. Vejamos o teor do RECURSO ESPECIAL Nº 1.386.229 -PE (2013/0170295-0)" (fls. 97/98); e (II) "Se o Poder Judiciário possui interesse em reduzir o número de executivos fiscais, que o faça dentro da Lei. Não há argumento que justifique o Exequente ser i ntimado para demonstrar a presunção de liquidez e exigibilidade da CDA. Esta tarefa é do executado. A decisão que inadmitiu o recurso especial não se atentou para esse fato, inadmitindo-o." (fl. 102).
+Sem contraminuta.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
