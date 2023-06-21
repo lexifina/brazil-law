@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado por SPE Accordes Universita Empreendimentos Imobiliários Ltda. e outra no qual apontam como suscitados o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e o Juízo de Direito da 15ª Vara Cível de Aracajú/SE.
+Sustentam, em síntes, que, "não obstante o MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo/SP ter DEFERIDO em 29/09/2022 o processamento do pedido de recuperação judicial (doc. 02), e ter determinado a SUSPENSÃO das ações promovidas em face do Grupo Rossi, o MM. Juízo Suscitado tem ignorado tal determinação, o que vem causando, portanto, decisões conflitantes, além de uma enorme instabilidade jurídica e econômica em todas as partes envolvidas" (e-STJ, fl. 4).
+Intimada a complementar a documentação acostada aos autos, as suscitantes informaram que "após a comunicação ao Juízo de origem acerca do deferimento da Recuperação Judicial das suscitantes e a manifestação do credor informando que irá promover a habilitação de seu crédito" (e-STJ, fl. 74), foi proferida decisão em embargos de declaração determinando a suspensão do processo pelo prazo de 180 (cento e oitenta) dias ou até que haja nova determinação do Juízo da recuperação.
+Brevemente relatado, decido.
+Nos termos do art. 66 do Código de Processo Civil de 2015, há conflito de competência quando (i) dois ou mais juízes se declaram competentes; (ii) dois ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência; ou (iii) entre dois ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Na hipótese, sustentam as suscitantes que, apesar da determinação do Juízo recuperacional de suspensão de todas as execuções movidas em desfavor da
+recuperanda pelo prazo de 180 (cento e oitenta) dias, na Ação n. 0002602-56.2021.8.25.0001, em andamento no Juízo de Direito da 15ª Vara Cível de Aracajú/SE e promovida por Vitor Guimarães de Oliveira, foi determinada a penhora de bem imóvel de titularidade das suscitantes.
+Contudo, como assinalado pelas próprias suscitantes, após a manifestação do credor informando que irá promover a habilitação de seu crédito, o Juízo da execução determinou a suspensão do processo pelo prazo de 180 (cento e oitenta) dias ou até que haja nova determinação do Juízo da recuperação, de modo que não se vislumbra, ao menos neste momento, nenhum conflito de competência entre os Juízos suscitados.
+Ante o exposto, não conheço do conflito de competência.
+Fique a parte cientificada de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Dê-se ciência aos juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE BENS DAS RECUPERANDAS. DETERMINAÇÃO DE SUSPENSÃO DO PLEITO EXECUTÓRIO. AUSÊNCIA DE DECISÕES CONFLITANTES. INCIDENTE NÃO CONHECIDO.
