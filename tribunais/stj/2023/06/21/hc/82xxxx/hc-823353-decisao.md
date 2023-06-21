@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Carlos Eduardo Andrade Pereira, apon tando-se como autoridade coatora o Tribunal de Justiça da Bahia, que denegou a ordem no HC n. 8003202-28.2023.8.05.0000 (fls. 141/ 147).
+Narram os autos que o paciente foi autuado em flagrante delito, em 6/1/2023, pela suposta prática dos crimes de latrocínio tentado. Posteriormente, a prisão foi convertida em preventiva.
+Neste mandamus, o impetrante alega, em apertada síntese, a ausência de fundamentos concretos para a prisão preventiva, destacando que o paciente não resistiu à prisão, tem ocupação lícita, residência fixa, possui bons antecedentes, e não consta dos autos ser periculoso (fl. 6).
+Menciona que o obj eto da res furtivae foi recuperado e devolvido às vítimas (fl. 8). Ressalta a suficiência das medidas cautelares alternativas.
+Requer, inclusive em liminar, a revogação da prisão, expedindo-se o competente alvará de soltura.
+A liminar foi por mim indeferida (fls. 162/163), as informações foram prestadas (fls. 168/177) e o Ministério Público manifestou-se pela extinção do writ sem resolução do mérito ou pela denegação da ordem (fls. 179/185).
+Em consulta à ação penal na página eletrônica do Tribunal de origem, a instrução ainda não foi finalizada.
+É o relatório.
+Quanto aos motivos para a decretação da prisão preventiva, o Juízo de primeiro grau fundamentou da seguinte forma (fls. 80/82 - grifo nosso):
+ ..
+Extrai-se, ainda, dos autos que, no mesmo dia, por volta das 10h00, em uma fazenda chamada de Pedra Rajada, o flagranteado, também em comunhão de desígnios com outro indivíduo, subtraiu coisa móvel alheia, consistente em uma motocicleta Honda/POP 100, de placa NZL8481, mediante violência à pessoa, uma vez que efetuou disparos de arma de fogo em direção à vítima, o Sr. Cosme Valeriano da Cruz, atingindo-o de raspão em sua mão, apenas não tendo o matado por circunstâncias alheias à sua vontade.
+ ..
+Além disso, é evidente o perigo gerado pelo estado de liberdade do imputado, bem como que sua custódia cautelar é necessária para assegurar a ordem pública, visto que o autuado e stá sendo acusado pela prática de dois crimes de latrocínio tentado, delitos estes que se revestem de extrema gravidade e que, por isso, exige uma reposta energética das autoridades públicas responsáveis pelo combate à criminalidade, sob pena de fomentar novas práticas criminosas, não se mostrando prudente, ao menos a princípio, a imposição de medidas alternativas à prisão preventiva do autuado.
+No que pertine aos fundamentos da custódia cautelar ou ao periculum libertatis, entende esta Magistrada, comungando com o posicionamento externado pelo MP, ser imperiosa a utilização de tal remédio jurídico, vez que a garantia da ordem pública se impõe, já que inegável que as ações imputadas ao Inculpado revelam alto grau de periculosidade, exigindo rigor na sua apuração, trazendo sério risco à ordem pública.
+Com efeito, o modus operandi e as circunstâncias dos delitos acima relatados indicam a perigosidade real do agente, restando plenamente legitimada a decretação da prisão preventiva.
+ ..
+O Tribunal local, por sua vez, concluiu pela manutenção da custódia asseverando, ratificando a necessidade de se garantir a ordem pública em razão da gravidade concreta dos delitos (fls. 141/147) .
+Realmente, verifica-se que a custódia cautelar está fundamentada em elementos concretos das circunstâncias dos crimes, reveladores da especial gravidade das condutas do paciente, o qual , ao lado de outra pessoa, subtraiu as motocicletas das vítimas, mediante disparos de arma de fogo contra elas, sendo que uma das vítimas foi atingida na mão (fl. 77) , o que demonstra a periculosidade do agente e o risco ao meio social, sendo necessária a constrição para a garantia da ordem pública.
+Nesse sentido, é a jurisprudência desta Corte Superior conforme os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. SUM. 691/STF. LATROCÍNIO. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DO DELITO. ILEGALIDADE. AUSÊNCIA. INDEFERIMENTO LIMINAR. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada nas circunstâncias fáticas, já que o agravante foi denunciado pela prática do crime de latrocínio tentado, em concurso de agentes, um deles com 16 anos de idade, e com emprego de arma de fogo, não se verifica manifesta ilegalidade.
+2. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+3. Agravo regimental improvido.
+(AgRg no HC n. 564.491/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2020 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO E DIREÇÃO PERIGOSA. PRISÃO PREVENTIVA. REAVALIAÇÃO. INOVAÇÃO RECURSAL. REQUISITOS DO ART. 312 DO CPP. MODUS OPERANDI. GRAVIDADE CONCRETA DA CONDUTA. PERICULOSIDADE SOCIAL DO AGENTE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ART. 319 DO CPP. INSUFICIÊNCIA. HOMOLOGAÇÃO DA PRISÃO EM FLAGRANTE. CONVERSÃO EM CUSTÓDIA PREVENTIVA. SUPERAÇÃO DE EVENTUAIS NULIDADES. NOVO TÍTULO. AGRAVO DESPROVIDO.
+1. De início, em relação à alegação de estar o réu preso preventivamente há mais de 90 dias sem que tenha ocorrido o reexame da necessidade da manutenção da custódia, observa-se que tal matéria não foi examinada pela decisão combatida, eis que não trazida no arrazoado da petição de habeas corpus, configurando-se hipótese de inovação recursal, o que impede sua análise em sede de agravo regimental. Precedentes.
+2. Havendo prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do paciente está evidenciada no modus operandi do ato criminoso.
+Segundo delineado pelas instâncias ordinárias, o réu, em tese, praticou o crime de crime de latrocínio tentado, após o qual, perseguido pelos policiais, realizou disparos de arma de fogo contra os militares, atentando contra suas vidas e colocando em risco transeuntes e condutores que passavam pelo local, só não logrando êxito no objetivo fatal por circunstâncias alheias à sua vontade.
+4. Nesse contexto, tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agente indicam que a ordem pública não estaria acautelada com sua soltura. Precedentes.
+5. O fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça.
+6. Segundo entendimento desta Corte Superior, "com a homologação da prisão em flagrante e sua conversão em custódia preventiva, restam superadas eventuais nulidades ocorridas no flagrante, eis que há novo título para justificar a segregação cautelar". Precedentes.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 781.189/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/3/2023 - grifo nosso)
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evide nc iam que as pr ovidências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pela Subprocuradora-Geral da República Elizeta Maria de Paiva Ramos (fls. 179/185), o qual também adoto como razão de decidir.
+P elo exposto, co m base n a jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE LATROCÍNIO TENTADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE SOCIAL DO AGEN TE. MODUS OPERANDI. MOTIVAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PARECER MINISTERIAL ACOLHIDO. INEVIDÊNCIA DE ILEGALIDADE.
+Ordem denegada.
