@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Everton Felipe da Silva - condenado pelo crime de furto simples a 8 meses de reclusão, em regime inicial aberto, substituída pela pena restritiva de direitos de prestação de serviços à comunidade, e 6 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 35/39) que redimensionou a pena fixada na sentença condenatória prolatada na Ação Penal n. 1501287-47.2022.8.26.0617 (fls. 14/21), da 4ª Vara Criminal da comarca de São José dos Campos/SP.
+Alega-se constrangimento ilegal consistente na condenação pelo crime de furto simples - ao argumento de atipicidade da conduta, por aplicação do princípio da insignificância - e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que seja cassada a decisão impugnada, trancando a ação penal por atipicidade da conduta (fl. 9).
+É o relatório.
+Razão assiste à impetração, uma vez que as instâncias ordinárias não demonstraram fundamentos capazes de afastar os postulados da insignificância - mínima ofensividade da conduta, nenhuma periculosidade social da ação, reduzidíssimo grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada -, especialmente em razão do valor de res furtivaE (cinco metros de cabo de energia e um cano de ferro, medindo aproximadamente 1,20m  ..  avaliados em R$ 100,00 - fls. 37/38) e primariedade do paciente (fl. 19).
+Confira-se:
+a) na sentença - embora o material em si não tenha grande valor para quem vende, é de grande valor para quem perde, porque além de ver o fornecimento de energia interrompido, ainda terá de buscar a reparação com a compra de material e a contratação de pessoal especializado, sem falar o período em que o comércio não poderá estar em pleno funcionamento (fl. 18); e
+b) no acórdão da apelação - não se pode falar em insignificância da infração, pois os objetos foram avaliados em R$ 100,00 (fl. 47), afastando-se do que se entende por lesão jurídica inexpressiva, ainda que de pequeno valor (fl. 38).
+Isso porque o valor do bem furtado não ultrapassa o valor de 10% do salário mínimo vigente ao tempo dos fatos (R$ 1.212,00, mil, duzentos e doze reais - 2022). Nesse sentido: AgRg no REsp n. 2.059.442/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe 29/5/2023.
+Em razão disso, concedo liminarmente a ordem impetrada para absolver o paciente do crime de furto, em razão da aplicação do princípio da insignificância, referente à imputação objeto da Ação Penal n. 1501287-47.2022.8.26.0617, da 4ª Vara Criminal da comarca de São José dos Campos/SP.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+PENAL. HABEAS CO RPUS. FURTO SIMPLES. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE DA CONDUTA. INEXPRESSIVIDADE DA LESÃO JURÍDICA PROVOCADA (RES FURTIVAE AVALIADA EM R$ 100,00). CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
