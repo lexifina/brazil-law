@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ANULAÇAO DE LANÇAMENTO DE ICMS. MULTA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação de rito comum objetivando anulação de lançamento de cobrança de ICMS. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada para reduzir o percentual da multa aplicada.
+II- Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+JUROS - CORREÇÃO DE CDAS - POSSIBILIDADE - LIQUIDEZ QUE NÃO DESNATURA O TÍTULO - CORREÇÃO PELA SELIC - MULTA MORATÓRIA - CONFISCO - TAXA ABUSIVA DOS JUROS JÁ RECONHECIDA NA SENTENÇA - VALOR SUPERIOR AO DEVIDO, NÃO DESNATURA A CDA OU A TORNA ILÍQUIDA - REDUÇÃO DA MULTA - IMPOSIBILIDADE - RECURSO OFICIAL IMPROVIDO E RECURSO DA AUTORA APELANTE PARCIALMENTE PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+4.2. Ora, conforme se pode ver sobre as matérias suscitadas, o conhecimento do Recurso Especial não requer reexame de provas ou fatos(Súmula 07do STJ), porque toda a base empírica está posta nas decisões proferidas pela Corte de origem, tratando-se de matérias exclusivamente de direito. O que se pretende é um posicionamento deste E. Superior Tribunal de Justiça sobre a correta interpretação dos artigos tidos por violados.
+ ..
+4.4. Muito pelo contrário. Levando-se em consideração os fatos admitidos pelo v. acórdão e reiterados na r. decisão agravada, foi demonstrada a ofensa perpetrada aos dispositivos de lei federal. Portanto, a discussão proposta pela agravante é unicamente jurídica, sendo que todas as questões constam da fundamentação (base empírica) dos v. acórdãos recorridos.
+ ..
+4.10. In casu, basta examinar os fatos colocados e admitidos na base empírica do v. acórdão recorrido e, a partir deles, verificar as ofensas apontadas, sem ser necessário o reexame de provas ou de cláusulas contratuais. De fato, vislumbra-se um posicionamento deste C. Superior Tribunal de Justiça acerca das violações aos preceitos legais demonstrados.
+ ..
+4.19. Assim, estão presentes os pressupostos para se abrir a via especial, reiterando-se que a matéria em questão é exclusivamente de direito, constando na fundamentação do v. acórdão recorrido, complementado pelo acórdão que julgou os embargos declaratórios, não sendo necessário examinar quaisquer provas contidas nos autos e, assim, não incidindo a Súmula 7 do E. Superior Tribunal de Justiça.
+ ..
+5.1. Todavia, ao contrário do que fundamentou a r. decisão agravada, A AGRAVANTE PREQUESTIONOU SIM, através de EMBARGOS DECLARATÓRIOS, os artigos 19 e 20 da Lei Complementar nº 87/96; (b) artigo 24, caput e incisos, inclusive III 87/96; (c) artigos 2º e 13º da Lei Complementar 87/96; (d) artigos 113, §1º, 114 e 161 do Código Tributário Nacional; (e) artigo 24 da Lei de Introdução às Normas do Direito Brasileiro), não devendo ser aplicada a Súmula 211 do C. Superior Tribunal de Justiça.
+ ..
+5.3. Ora, um dos motivos de violação dos artigos 489 e 1.022 do Código de Processo Civil foi exatamente o fato do v. acórdão que julgou os Embargos Declaratórios não ter enfrentado os artigos apontados como violados no recurso especial, ficando, portanto, totalmente impugnada a afirmação da r. decisão agravada de que os referidos artigos, tidos como violados nas razões do reclamo especial, padecem do requisito do prequestionamento, vez que deixaram de ser suscitados nos embargos de declaração, eis que é indubitavelmente equivocada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ANULAÇAO DE LANÇAMENTO DE ICMS. MULTA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação de rito comum objetivando anulação de lançamento de cobrança de ICMS. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada para reduzir o percentual da multa aplicada.
+II- Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Insiste a recorrente no fato de que as CDAs não poderiam subsistir, em razão da ilegalidade de sua cobrança, sendo seus valores incertos e ilíquida a sua exigência.
+Afirma que os juros cobrados, segundo a taxa Selic, são indevidos, e que não poderia haver cobrança de multa moratória, pois configuraria confisco.
+A taxa abusiva dos juros já foi acolhida na sentença.
+A ilegalidade da autuação, consolidada nas CDAs não pode ser reconhecida. Como constou dos autos a apelante recebeu saldo credor de ICMS em situação não permitida. Não está sendo cobrada de imposto não pago, mas por atuação decorrente de creditamento que não poderia realizar.
+A contrariedade ao apelo bem mostrou que a cumulação de saldo credor, na forma realizada, é vedada pelo artigo 99 e seu parágrafo único do Regulamento do ICMS. E o artigo 25 da lei complementar 87/96 limita a compensação dos créditos tributários, situação não obedecida pela apelante.
+Por isso não cabe a análise da existência ou não de prejuízo ao erário, pois a obrigação tributária foi descumprida e desafiava a aplicação de penalidade, cobrada agora pela CDA atacada. De outro lado, o fato de haver a cobrança de juros moratórios em valor superior ao devido, não desnatura a CDA ou a torna ilíquida, bastando que sejam realizadas simples correções, com afastamento de juros ou da multa acimadaquela permitida.
+Relativamente à multa imposta, não diz a apelante de quanto ela é. Fala apenas em confisco quando ela é superior a 30% do valor do tributo. A CDA trazida com a inicial mostra aplicação de multa no valor de 100% do tributo. Esta Câmara tem entendido que o valor da multa, máxime no caso dos autos onde houve descumprimento de regra tributária tão somente, não ultrapasse os 30% do valor do tributo. Por isso fica ela reduzida a esse montante.
+Dessarte nega-se provimento ao recurso oficial e dá-se parcial provimento ao recurso da autora apelante. Fica mantida a solução relativamente à sucumbência.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
