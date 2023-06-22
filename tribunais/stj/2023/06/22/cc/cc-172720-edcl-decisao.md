@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS ALBERTO DE LIMA BATISTA E OUTRA à decisão que acolheu agravo interno interposto pela parte adversa e limitou o prazo de suspensão da ação de imissão na posse (Processo n. 0805088-02.2019.814.0051), em trâmite no Juízo de Direito da 1ª Vara Cível e Empresarial de Santarém (PA), ao período de 1 ano.
+Alegam os embargantes que a decisão padece de obscuridade por não deixar claro o termo inicial do referido prazo ânuo.
+Assim, requerem o acolhimento dos presentes embargos declaratórios para sanar o vício apontado.
+É o relatório. Decido.
+O Ministro Luis Felipe Salomão conheceu do presente conflito de competência às fls. 143-147, a fim de declarar a competência do Juízo Federal da 1ª Vara de Santarém (SJPA) para analisar ação anulatória de arrematação extrajudicial cumulada com pedido de tutela de urgência (Processo n. 002266-42.2019.4.01.3902) e determinar a suspensão do andamento de ação de imissão de posse (Processo n. 0805088-02.2019.8.14.0051), em trâmite no Juízo de Direito da 1ª Vara Cível e Empresarial de Santarém, até o trânsito em julgado daquela.
+A decisão desafiou embargos de declaração, recebidos como agravo interno, que foi acolhido para fins de reconsiderar sua parte final, dispondo que a ação de imissão de posse deveria permanecer suspensa pelo prazo máximo de 1 ano.
+A parte ora embargante vislumbra obscuridade no decisum quanto ao termo inicial do referido prazo ânuo, pugnando seja esclarecido se deve ser considerado o dia em que prolatada a decisão que suspendeu a ação de imissão de posse até o trânsito em julgado ou o dia em que prolatada a decisão que fixou o prazo ânuo.
+Como a decisão ora embargada reconsiderou em parte a anterior tão somente para alterar seu provimento acessório, tem natureza integrativa, pois não substituiu completamente a decisão anterior. Assim, o termo inicial do prazo de 1 ano deve ser considerado como o dia em que prolatada a decisão que determinou a suspensão do prazo da ação de imissão de posse. Não por outra razão, o Ministro Luis Felipe Salomão valeu-se da expressão "permaneça suspenso".
+Ante o exposto, acolho os embargos de declaração para sanar a obscuridade apontada, nos termos da fundamentação acima .
+Publique-se. Intimem-se.
