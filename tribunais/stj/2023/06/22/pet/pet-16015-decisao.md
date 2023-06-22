@@ -1,0 +1,19 @@
+DECISÃO
+Nos termos da decisão liminar de fls. 67-75 (e-STJ), proferida nos autos da ação reivindicatória movida por Luzia Queiroz Dimas e Marlene Scheid contra José Roberto de Araújo (Processo n. 5203462-49.2021.8.13.0024), o Juízo de Direito da 9ª Vara Cível de Belo Horizonte - MG deferiu o pedido de imissão na posse do imóvel formulado pelas autoras.
+Contra essa decisão, o réu interpôs apelação, mas de tal recurso o relator, Desembargador Roberto Soares de Vasconcellos Paes, não conheceu, em deliberação unipessoal, por entendê-lo inadmissível.
+Seguiu-se a isso a interposição de agravo interno, que também não chegou a ser conhecido pela Décima Sétima Câmara Cível do Tribunal de Justiça de Minas Gerais, tendo ocorrido a imposição de multa ao agravante. A ementa desse julgado foi assim redigida:
+AGRAVO INTERNO - APELAÇÃO - AÇÃO REIVINDICATÓRIA - PRELIMINAR DE NÃO CONHECIMENTO DO REGIMENTAL - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - DESCUMPRIMENTO DO DISPOSTO NO § 1º, DO ART. 1.021, DO CÓDIGO DE PROCESSO CIVIL - ACOLHIMENTO - RECURSO MANIFESTAMENTE INADMISSÍVEL - PRÉVIA INTIMAÇÃO DA PARTE, COM BASE NO PRINCÍPIO DA NÃO SURPRESA - DESNECESSIDADE - APLICAÇÃO DE MULTA - CABIMENTO.
+- Nos termos do § 1º, do art. 1.021, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada".
+- Conquanto o Recorrente tenha sido devida e previamente advertido sobre a possibilidade de aplicação de sanção, o reconhecimento da manifesta inadmissibilidade das teses recursais, com a aplicação da multa, prescinde da prévia intimação pelo Princípio da Não Surpresa, especialmente porque se trata de mero enquadramento jurídico e de vício insanável.
+Pretendendo submeter a sua irresignação ao Superior Tribunal de Justiça, o réu/apelante, invocando o art. 1.027 do CPC/2015, ingressou com o recurso ordinário de fls. 333-343 (e-STJ).
+Brevemente relatado, decido.
+É manifesta a falta de cabimento do presente recurso ordinário.
+Conforme relatado, o recurso em questão foi interposto contra acórdão proferido no julgamento de um agravo interno em apelação cível.
+Dados esses contornos, e pretendendo a parte submeter o seu inconformismo à apreciação do Superior Tribunal de Justiça, somente poderia fazê-lo por meio do recurso especial previsto no inciso III do art. 105 da Constituição Federal.
+Quanto ao recurso ordinário cível mencionado no CPC/2015, tem ele as suas hipóteses de cabimento bem especificadas no próprio texto legal, quais sejam, contra as decisões denegatórias de mandados de segurança proferidas em única instância pelos Tribunais Regionais Federais ou pelos Tribunais de Justiça, ou contra as decisões proferidas nos processos em que forem partes, de um lado, Estado estrangeiro ou organismo internacional e, de outro, Município ou pessoa residente ou domiciliada no País.
+Ante a clareza da lei processual civil acerca das hipóteses de cabimento dos recursos destinados ao Superior Tribunal de Justiça, não há dúvida de que o recorrente incorreu em erro grosseiro ao ingressar com o recurso ordinário em lugar do cabível recurso especial.
+Presentes essas razões, não conheço do recurso ordinário.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO CÍVEL. AÇÃO REIVINDICATÓRIA. DEFERIMENTO DE LIMINAR PARA ASSEGURAR A IMISSÃO NA POSSE DE IMÓVEL. DECISÃO ATACADA POR APELAÇÃO. RECURSO NÃO CONHECIDO PELO RELATOR, EM DECISÃO UNIPESSOAL, SOB O FUNDAMENTO DE INADMISSIBILIDADE. SUBSEQUENTE AGRAVO INTERNO IGUALMENTE NÃO CONHECIDO PELO COLEGIADO ESTADUAL. RÉU/APELANTE QUE, PRETENDENDO SUBMETER SUAS RAZÕES DE INCONFORMISMO AO STJ, INGRESSA COM O RECURSO ORDINÁRIO DOS ARTS. 994, V, E 1.027, II, DO CPC/2015. MANIFESTA FALTA DE CABIMENTO. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM LUGAR DO RECURSO ESPECIAL. ERRO GROSSEIRO, ANTE A CLAREZA DAS HIPÓTESES DE CABIMENTO DEFINIDAS PELA LEI PROCESSUAL CIVIL.
+Recurso ordinário não conhecido.
