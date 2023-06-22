@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por EDER LUCIO GARCIA PAES, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, constata-se que o agravante, por meio de uma única petição (fls. 1079/1087), interpôs conjuntamente os recursos extraordinário e especial, o que, além de contrariar texto expresso da legislação processual, não encontra guarida nesta Corte Superior.
+Conforme dispõe o art. 1.029 do Código de Processo Civil, "o recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas (..)."
+Nesse mesmo sentido, veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO CUMULADAS EM UMA ÚNICA PETIÇÃO. ARTS. 541 DO CPC/73 E 26 DA LEI 8.038/90, ENTÃO VIGENTES. DESCUMPRIMENTO. AUSÊNCIA DE REGULARIDADE FORMAL. RECURSO ESPECIAL NÃO CONHECIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática, publicada em 16/05/2016, que, por sua vez, julgara Recurso Especial e o respectivo Agravo, interpostos, respectivamente, contra acórdão e decisão publicados na vigência do CPC/73. Incidência do Enunciado Administrativo 2/2016, aprovado pelo Pleno do STJ em 09/03/2016 ( "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+II. No caso, o recorrente cumulou, em uma única peça, as razões do Recurso Especial e do Recurso Extraordinário, em desconformidade com o disposto nos arts. 541 do CPC/73 e 26 da Lei 8.038/90, vigentes quando da publicação do acórdão de 2º Grau e da decisão que inadmitiu o Especial.
+III. Ausente a regularidade formal, exigida pelos arts. 541 do CPC/73 e 26 da Lei 8.038/90, então vigentes, não merece censura a decisão que conheceu do Agravo, para não conhecer do Recurso Especial. Nesse sentido: STJ, AgRg no AREsp 398.176/SP, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, DJe de 29/08/2014; AgRg no REsp 1.151.399/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 10/02/2010; AgRg no REsp 745.601/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2009.
+IV. Agravo interno improvido.
+(AgInt no AREsp 907262/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 22/11/2016)
+Outrossim, ainda que ultrapassado o referido óbice, o recurso não pode ser conhecido, porquanto manifestamente inadmissível.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
