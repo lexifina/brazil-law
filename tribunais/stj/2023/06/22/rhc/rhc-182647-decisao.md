@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JAMILE ROLIM DA SILVA contra acórdão do Tribunal de Justiça do Estado do Ceará proferido no julgamento do HC n. 0625157-78.2023.8.06.0000.
+Extrai-se do acórdão atacado que a Recorrente foi presa em flagrante, em 08/11/2021 (convertido o flagrante em prisão preventiva), e posteriormente denunciada como incursa no art. 121, § 2.º, incisos II e IV, c.c. o art. 211, ambos c.c. art. 29, todos do Código Penal.
+Não foi juntada aos autos a cópia da decisão que decretou a prisão preventiva.
+Impetrado habeas corpus na origem, a Corte local conheceu parcialmente da ordem e a denegou, em julgamento realizado no dia 03/05/2023.
+Nesta insurgência, a Defesa sustenta excesso de prazo na formação da culpa, "especialmente no que pertine à demora injustificada em pronunciar a ré" (fl. 63), bem como a inexistência dos requisitos autorizadores da prisão preventiva, ressaltando que a Recorrente ostenta condições pessoais favoráveis. Afirma a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, a expedição do alvará de soltura, com a aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Em consulta ao sítio eletrônico mantido pela Corte de origem (Autos n. 0055814-25.2021.8.06.0064), verifica-se que, em 23/05/2023, posteriormente ao julgamento do writ originário, o Juízo de primeira instância pronunciou a Recorrente e um corréu como incursos no 121, §2.º, incisos II e IV, c.c. art. 211, ambos c.c. art. 29, todos do Código Penal.
+Na ocasião, o Magistrado singular manteve a prisão preventiva da Recorrente assinalando que " c onsiderando que os acusados se encontram recolhidos, considerando, ainda, o caso em espécie, a gravidade do caso em tela, traduzida pela forma como o delito foi praticado contra recém nascido, a prisão cautelar deve ser mantida, como uma forma de impedir que os agentes em liberdade pratiquem delitos assim como ofendendo bens jurídicos fundamentais ao bom convívio social. Logo, mantenho a prisão cautelar dos réus Jamile Rolim da Silva e Antônio José Cardoso Cunha, como garantia da ordem pública" (sem grifos no original).
+Assim, tendo em vista que o acórdão recorrido foi proferido antes da referida sentença de pronúncia, eventual existência de constrangimento ilegal praticado pelo Juízo de primeira instância ao manter a prisão preventiva na pronúncia deve ser suscitado primeiramente perante a Corte estadual, sob pena de indevida supressão de instância, considerando que se tratará de novo ato coator.
+É certo, ainda, que, com a prolação da sentença de pronúncia, incide na espécie o Enunciado n. 21 da Súmula desta Corte, de seguinte teor: " p ronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Nesse sentido:
+" ..  6. Com o advento da pronúncia, restam superadas as alegações de constrangimento por excesso de prazo, nos termos do enunciado n. 21 da Súmula do STJ  .. . Recurso ordinário desprovido" (RHC 131.415/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/08/2021, DJe 16/08/2021.)
+" ..  2 - É pacífico o entendimento de que a alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia (RHC 131.559/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/12/2020)  .. . Agravo Regimental improvido" (AgRg no RHC 133.372/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/06/2021, DJe 15/06/2021.)
+Ante o exposto, JULGO PREJUDICADO o pedido recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E DESTRUIÇÃO, SUBTRAÇÃO OU OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA QUE MANTEVE A CUSTÓDIA. NOVO ATO COATOR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUMÚLA N. 21/STJ. RECURSO PREJUDICADO.
