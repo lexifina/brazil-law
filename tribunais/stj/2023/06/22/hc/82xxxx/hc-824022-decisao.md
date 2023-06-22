@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 31):
+AGRAVO EM EXECUÇÃO PENAL - PRISÃO DOMICILIAR -IRRESIGNAÇÃO MINISTERIAL - REVOGAÇÃO DO BENEFÍCIO - NECESSIDADE -ARTIGO 117 DA LEP - ROL TAXATIVO - RECURSO PROVIDO. As hipóteses de prisão domiciliar, elencadas no art. 117 da Lei de Execução Penal, são taxativas e, não estando o sentenciado inserido em nenhuma dessas hipóteses, inviável a concessão de tal benefício. V. V. A ausência de estabelecimento adequado para o cumprimento da pena no regime semiaberto possibilita a concessão da prisão domiciliar, uma vez que não se justifica a manutenção do condenado em estabelecimento prisional inadequado quando houve a progressão para regime prisional menos gravoso.
+Consta dos autos que o juízo da execução deferiu o pleito de prisão domiciliar diante da ausência de vagas em estabelecimento prisional adequado ao regime semiaberto. Interposto agravo ministerial, deu-se provimento ao recurso para revogar o benefício.
+Sustenta a defesa, em síntese, que " n ão é lícito exigir do condenado que cumpra sua pena de forma mais grave do que a que lhe foi imposta, mormente quando a impossibilidade do cumprimento no regime estabelecido advém da ineficiência do próprio Estado em providenciar meios para que suas decisões sejam adequadamente cumpridas" (fl. 9), requerendo a prisão domiciliar com monitoração eletrônica ou a fixação do regime aberto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Constou da decisão do juízo da execução (fls. 15-17):
+ ..  Conforme consta no feito que o reeducando encontra-se cumprindo sua reprimenda em regime semiaberto, contudo, tem residência comprovada na comarca de Itanhandu/MG.
+A Lei de Execuções Penais, Lei Federal 7.210/1984, estabelece:
+ ..
+Dessa forma, vê-se que a unidade prisional desta comarca - presídio - não conta com colônia agrícola ou industrial. Ademais, é público e notório que se encontra com superlotação carcerária.
+Certo é que no regime semiaberto, conforme artigos 37 e 91 da LEP, os reeducandos devem cumprir a pena recolhidos em colônia agrícola, industrial ou estabelecimento similar e se dedicar ao trabalho durante o período diurno.
+É o que vinha sendo feito, de forma precária, admitindo que os condenados em regime semiaberto, cumprissem sua reprimenda com as regras do regime aberto, trabalhando durante o dia e recolhendo-se ao presídio no período noturno.
+Tal cumprimento se mostra precário, porque não há na comarca Casa do Albergado, razão pela qual os reeducandos eram obrigados a recolherem-se em celas no presídio, local destinado aos presos provisórios e em cumprimento de pena no regime fechado.
+Vale lembrar, ainda, que o reeducando não possui vínculos familiares e sociais nesta localidade, logo será muito difícil que se desenvolva o trabalho extramuros, sem contar a necessidade de gasto para se deslocar do local onde mora e trabalha para comparecer diariamente ao pernoite na unidade prisional desta comarca.
+Não é por outro motivo que, recentemente, no RE nº 641.320/RS, o Ministro Gilmar Mendes teceu severas críticas ao sistema penitenciário nacional, enaltecendo o seguinte:
+ ..
+Portanto, ao prover parcialmente o citado Recurso Extraordinário, o Plenário do STF fixou os seguintes critérios para nortear o juiz em futuras decisões:
+1) a falta de estabelecimento adequado não autoriza a manutenção do condenado em regime prisional mais gravoso;
+2) os juízes da execução penal poderão avaliar os estabelecimentos para definir se eles são adequados aos regimes semiaberto e aberto.
+3) havendo déficit de vagas, deverá determinar-se: a) a saída antecipada de sentenciado no regime com falta de vagas; b) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; c) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.
+O objetivo dessas medidas é afastar o excesso na execução - manutenção do preso em regime mais severo - e desenvolver soluções que minimizem a insuficiência da execução.
+Assim sendo, o reeducando deverá permanecer em prisão domiciliar (regime aberto-domiciliar) até que surja vaga em estabelecimento prisional para regime semiaberto. ..
+Sobre o tema, o Tribunal de origem assim se manifestou (fls. 33-34):
+ ..  Como visto, em 19 de julho de 2022, foi concedida ao sentenciado a prisão domiciliar, uma vez que a comarca em questão não conta com colônia agrícola ou industrial, tampouco com Casa de Albergado, além de estar a unidade prisional em estado de superlotação, o que ensejou a interposição do presente recurso pelo Ministério Público. (documento de ordem nº 3).
+Tenho que razão assiste ao agravante, uma vez que o reeducando não preenche os requisitos legais constantes no art. 117 da LEP, o qual é taxativo e estabelece as únicas hipóteses em que é permitido o cumprimento da pena em regime aberto, em residência particular, in verbis:
+ ..
+Todavia, no presente caso, o reeducando não preenche nenhuma das hipóteses acima elencadas, não havendo que se falar, portanto, na obtenção do benefício da prisão domiciliar, vez que ele se encontra em cumprimento de pena em regime semiaberto.
+Registre-se, ademais, que, ainda que inexista na comarca estabelecimento adequado para o cumprimento da pena em regime semiaberto, tal fato não autoriza a concessão da prisão domiciliar ao condenado, se ele não preenche os requisitos previstos no art. 117 da Lei de Execução Penal.
+ ..
+Sendo assim, inviável a concessão da prisão domiciliar, uma vez que, do contrário, estar-se-ia invadindo a esfera de atuação do Poder Legislativo, o que, por óbvio, não é permitido em função dos princípios da autonomia e separação dos poderes. Além disso, deve o condenado cumprir a pena efetivamente imposta, sendo esta consequência da prática de ilícito penal, com caráter aflitivo, e o seu cumprimento deverá ocorrer da mesma forma que cumprem os demais apenados em situação idêntica.
+Imperioso salientar, por fim, que não há que se falar em cumprimento de pena em regime mais gravoso, eis que, como é cediço, o que diferencia os regimes fechado e semiaberto é o grau de vigilância exercida sobre os condenados, já que, em ambos os regimes, os presos são submetidos a tratamento idêntico, permanecendo reclusos durante o dia, exceto quando beneficiados com o trabalho externo, saídas temporárias ou permissão de saída.
+Diante do exposto, DOU PROVIMENTO AO RECURSO MINISTERIAL para revogar o benefício de prisão domiciliar concedido ao reeducando. ..
+O tema objeto deste writ foi submetido pela Terceira Seção desta Corte Superior à sistemática dos recursos especiais repetitivos - "Tema 993: (Im)possibilidade de concessão da prisão domiciliar, como primeira opção, sem prévia observância dos parâmetros traçados no RE 641.320/RS".
+"Em outras palavras, foi firmado o entendimento de que a inexistência de vaga em estabelecimento prisional adequado não autoriza a imediata colocação do apenado em prisão domiciliar, sendo imprescindível que tal medida seja precedida de outras providências, tais como a saída antecipada de outros sentenciados no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de ingressar no regime" (AgRg no HC n. 792.765/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Na espécie, o juízo da execução citou o decidido no RE n. 641.320/RS, ressaltando que "não há na comarca Casa do Albergado, razão pela qual os reeducandos eram obrigados a recolherem-se em celas no presídio, local destinado aos presos provisórios e em cumprimento de pena no regime fechado" (fl. 16).
+Assim, na ausência de estabelecimento adequado na comarca respectiva, sequer seria possível àquele juízo efetivar a abertura de novas vagas por meio da saída antecipada de outros sentenciados.
+Outrossim, segundo o entendimento jurisprudencial, não constitui exigência para a concessão do benefício o cumprimento dos requisitos para o regime menos gravoso, bastando a ausência de vaga em estabelecimento adequado após a realização de procedimentos que possam permitir a abertura de vagas no regime devido.
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão do juízo da execução que deferiu a prisão domiciliar ao paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
