@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina (Juzgado de Primeira Instancia n.º 2 de la Ciudad de Concepcion del Uruguay - Provincia Entre Rios - República Argentina) solicitou a intimação de JOSÉ ELDER PINTO QUINTANA, PAN AMERICANA AGENCIAMENTO E TRANSPORTE LTDA e OYAMA BRAZEIRO CIOCCA para ciência de decisão proferida em primeira instância (fl. 8).
+Concedido o exequatur (fls. 155-156) foram os autos remetidos à Seção Judiciária do Rio Grande do Sul e após a intimação de José Elder Pinto Quintana, retornaram a esta Corte.
+Em despacho proferido no dia 12/6/2019, a Presidência desta Corte considerou concretizado o objeto da rogatória e determinou a devolução dos autos à Justiça rogante (fl. 173).
+O Ministério da Justiça, por meio do ofício de n.º 20140034/2022, datado de 10/10/2022, requereu fosse retomado o cumprimento da diligência solicitada uma vez que a intimação se deu apenas quanto a um dos envolvidos, restando o cumprimento quanto aos demais interessados.
+Concedido o exequatur para o cumprimento das diligências restantes, os autos foram remetidos às Seções Judiciárias dos Estados do Tocantins e do Rio Grande do Sul (fls. 262-263).
+Na data de 19/6/2023, os autos retornaram a essa Corte acompanhados de diversos documentos, dentre os quais certidões positivas de intimação. A empresa Pan Americana Agenciamento e Transporte Ltda foi intimada na pessoa de José Anaurelino Carloto, seu representante legal, em 6/6/2023 (fl. 320). O interessado Oyama Brazeiro Ciocca foi intimado via aplicativo de mensagens whatsapp, na data de 9/6/2023, tendo sido acostada captura de tela da referida conversa realizada em meio digital (fls. 326-329).
+Uma vez que a intimação do terceiro interessado já havia acontecido (fl. 169) e o que motivou o retorno dos autos foi o cumprimento quanto aos demais interessados (fl. 181), entendo que o objeto da demanda está exaurido.
+Diante de todo o exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Em tempo, oficie-se à Seção Federal Judiciária do Estado de Tocantins a fim de informar o encerramento da comissão.
+Publique-se. Intimem-se.
