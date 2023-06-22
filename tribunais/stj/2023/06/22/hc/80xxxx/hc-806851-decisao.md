@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MARLON DOS SANTOS RODRIGUES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA no julgamento do HC n. 0829661-31.2022.8.15.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 03/12/22, por ter supostamente praticado os delitos tipificados no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas), no art. 16 da Lei n. 10.826/03 (posse de munições de uso restrito) e no art. 180 do Código Penal - CP (receptação). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. Prisão preventiva. Recepção, tráfico de drogas e posse ilegal de arma de fogo de uso restrito. Fundamentação concreta. Gravidade do delito. Condições subjetivas do segregado. Análise isolada que não permite a revogação da custódia cautelar. Insuficiência e inadequação de medidas cautelares diversas da prisão constatada. Constrangimento ilegal não configurado. Denegação.
+- Se reveste de fundamentação adequada a decisão que, com arrimo em elementos concretos dos autos, decreta a prisão preventiva do paciente para preservação da garantia da ordem pública, sobretudo quando restarem evidentes a materialidade delitiva e indícios suficientes de autoria de crimes dolosos punidos com pena superior a 4 (quatro) anos.
+- As condições pessoais favoráveis do paciente não são suficientes, por si sós, à desconstituição da prisão preventiva que se revela concretamente necessária.
+-Inviável a aplicação das medidas cautelares previstas no art. 319 do CPP quando a manutenção da prisão preventiva se mostrar mais recomendável.
+- Ordem denegada". (fls. 14/15)
+No presente writ, a defesa alega que a prisão preventiva do paciente foi decreta com fundamento em argumentos abstratos e genéricos.
+Afirma que o Tribunal de origem, ao apreciar o habeas corpus, apresentou fundamentos novos para manter a custódia cautelar do acusado.
+Entre tais fundamentos, assinalou equivocadamente que haveria gravidade em razão da posse de arma de fogo de uso restrito, quando, em realidade, apenas foi apreendida munição.
+Outrossim, o acórdão alegou que o paciente teria aparente personalidade voltada ao crime, quando é ele primário e com bons antecedentes, além de possuir residência fixa e ocupação lícita.
+Requer, assim, a revogação da custódia cautelar do paciente. Subsidiariamente, pleiteia pela substituição da prisão por medidas cautelares alternativas.
+Indeferida a liminar (fls. 65/66), as informações foram devidamente prestadas (fls. 74/78, 79/87 e 90/103) e o Ministério Público Federal opinou pela denegação da ordem (fls. 111/113).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, no presente writ, a revogação da custódia cautelar do paciente.
+O writ encontra-se prejudicado.
+Isso porque, de acordo com andamento processual obtido na página eletrônica do Tribunal de Justiça do Estado da Paraíba, verifica-se que, em 29/3/2023, foi proferida sentença condenando o paciente pela prática dos delitos previstos no art. 33 da Lei de Drogas e art. 12 do Estatuto do Desarmamento, à pena de 6 anos de reclusão, e pagamento de 510 dias-multa, em regime inicial semiaberto, negado o direito de recorrer em liberdade (Ação penal n. 801423-37.2022.8.15.044).
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tomar prejudicado o writ/recurso em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rei. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença condenatória que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do paciente, agregando fundamentos novos ao decreto prisional, tendo ressaltado que:
+"Não poderá o acusado recorrer em liberdade, visando com a medida resguardar a aplicação da lei penal e garantir a ordem pública. Inclusive, conforme reiteradas decisões do Supremo Tribunal Federal, o direito de recorrer em liberdade não se aplica ao réu preso em flagrante delito ou preventivamente, que é condenado posteriormente no respectivo processo, através de sentença judicial, visto que o escopo principal do benefício referido é o de abrandar a necessidade de se custodiar o réu que, já estando em liberdade por ocasião do julgamento, pretende apelar da condenação imposta. CONTUDO, sigo o entendimento do Superior Tribunal de Justiça, adequando a constrição da liberdade dos acusados ao modo de execução estabelecido nesta sentença, qual seja: REGIME SEMIABERTO, mantendo, por conseguinte a prisão preventiva a ser cumprida nos moldes do regime semiaberto."
+Confira-se o julgado desta Corte no mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA COM AGREGAÇÃO DE NOVOS FUNDAMENTOS, NÃO IMPUGNADOS PELO IMPETRANTE. NEGATIVA DE RECORRER EM LIBERDADE. PEDIDO RECURSAL PREJUDICADO. AGRAVO DESPROVIDO.
+1. A superveniência de sentença de pronúncia, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Agravo regimental desprovido.
+(AgRg no RHC 112.178/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
