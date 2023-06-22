@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 36):
+EMENTA: PENAL - PRELIMINAR - NULIDADE DA SENTENÇA - OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ - INOCORRÊNCIA - MÉRITO - TRÁFICO DE ENTORPECENTES - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - REDUÇÃO DA PENA DE MULTA - ADEQUAÇÃO AO PATAMAR ESTABELECIDO PARA A PENA PRIVATIVA DE LIBERDADE - RECURSO PROVIDO EM PARTE. - julgamento da causa por juiz diverso daquele que presidiu a Instrução não ofende a garantia da Identidade física do juiz (art. 399, §2º, do CPP) se o Magistrado titular estava em período de férias individual, situação que se enquadra nas ressalvas do art. 132 do CPC, dispositivo de aplicação subsidiária. - A apreensão de droga na residência do acusado, diante das circunstâncias fáticas e da prova testemunhal produzida, constituem elementos suficientes para manutenção da condenação do réu pelo delito do art. 33 da Lei no. 11.343106, inibindo o pedido absolutório. - Na fixação da pena para o delito de tráfico de drogas, o patamar estabelecido para a reprimenda privativa de liberdade deve guardar relação lógica com o quantum da pena de multa.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 4 meses de reclusão, em regime inicial fechado, além do pagamento de 880 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/2006.
+Interposta a apelação, foi provida para reduzir tão somente a pena de multa para 663 dias-multa.
+Sustenta o impetrante, em síntese, indevida a majoração da pena-base quanto à culpabilidade, personalidade e consequências do crime. Alega também que a quantidade de drogas apreendidas não é relevante a ponto de determinar acrescimento à pena-base.
+Requer, assim, seja afastada a valoração negativa das circunstâncias judiciais consignadas acima, readequando, assim, a pena-base aplicada.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento do presente habeas corpus.
+Na hipótese, constata-se que a matéria não foi apreciada pelo Tribunal de Justiça de origem. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obsta da sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SE XTA TURMA, julgado em 7/12/2020, DJe 16/12/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
