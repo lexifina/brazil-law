@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de EVANDRO RAMOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática do crime de homicídio qualificado, ressaltando o juízo de primeiro grau que:
+"O periculum libertatis está demonstrado através da necessidade de se resguardar a ordem pública, tendo em vista que os elementos de informação colhidos na fase do inquérito apontam que acusado possui envolvimento com o tráfico de drogas nos distritos de Vila do Riacho e Barra do Sahy, tendo sido este o motivo pelo qual a vítima Carlos André Mattos da Silva, que também possuia envolvimento com o tráfico de drogas, teria sido assassinada. Também há que se registrar que o acusado, logo após o fato criminoso, se mudou para a cidade de Serra/ES evidenciando certa preocupação com a indicação de seu nome como um dos suspeitos do crime" (fl. 328).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, mantendo a prisão preventiva, conforme acórdão de fls. 43-46.
+No presente writ, postula a Defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do Paciente em razão da ausência de fundamentação idônea da decisão que decretou a segregação cautelar, ponderando acerca da ausência de indícios de autoria, aduzindo a falta de contemporaneidade da prisão.
+Requer, assim, a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 334-336.
+Informações prestadas, às fls. 342-496. O Ministério Público Federal, às fls. 500-508, manifestou pelo "não conhecimento, ou pela denegação, da ordem de habeas corpus", (fl. 508).
+É o relatório.
+Decido.
+In casu, a prisão cautelar se encontra justificada para a garantia da ordem pública, considerando a gravidade concreta da conduta e a periculosidade do Paciente, pois:
+"O periculum libertatis está demonstrado através da necessidade de se resguardar a ordem pública, tendo em vista que os elementos de informação colhidos na fase do inquérito apontam que acusado possui envolvimento com o tráfico de drogas nos distritos de Vila do Riacho e Barra do Sahy, tendo sido este o motivo pelo qual a vítima Carlos André Mattos da Silva, que também possuia envolvimento com o tráfico de drogas, teria sido assassinada. Também há que se registrar que o acusado, logo após o fato criminoso, se mudou para a cidade de Serra/ES evidenciando certa preocupação com a indicação de seu nome como um dos suspeitos do crime" (fl. 328).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.).
+Outrossim, cumpre consignar que, de acordo com a jurisprudência desta Corte, a perscrutação acerca de fragilidade probatória, mormente, no que tange à ausência de indícios de autoria, demanda o revolvimento de matéria fático-probatória, inviável na presente via:
+"digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via augusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório" (RHC 56.155/MT, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 24/5/2017).
+No mais, no que pertine à asserção acerca da ausência de contemporaneidade:
+"o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Com a análise do writ, julgo prejudicado o pedido de fls. 510-515.
+P. I.
