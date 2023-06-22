@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONSTRUTORA RIO BRANCO LTDA. contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 do STJ e 284 do STF, bem como na impossibilidade de apreciação de normas constitucionais em recurso especial.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n. 2175801-61.2021.8.26.0000) assim ementado (fl. 129):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Termo inicial da incidência dos juros de mora - O título executivo judicial é o V. Acórdão, diante do efeito substitutivo à sentença, de maneira que prevalece o que nele foi decidido, ainda que tenha constado que nessa parte manteve a sentença, mas alterou-a - Coisa julgada material - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 175-179).
+No recurso especial, a parte recorrente alega negativa de vigência dos seguintes artigos:
+a) "1.022, II, parágrafo único, inciso IV e 489, § 1º, IV do CPC ao se omitirem no enfrentamento das matérias alusivas aos artigos 141, 489, §3º, 492 e 1.013 DO CPC" (fl. 150);
+b) "1.013 do CPC, pois nenhuma das partes recorreu quanto ao tópico da sentença de 1ª instância (fls. 62/73) que fixou o mês de julho de 2012 como marco inicial para o cômputo da indenização por perdas e danos" (fl. 152); e
+c) "1.008 do CPC, como também os artigos 141, 492, 502, 503, 507, 508 e 1.013 do CPC" (fl. 159), sob o argumento de que o acórdão não substituiu a sentença de primeiro grau.
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+É  o  relatório.  Decido.
+No presente caso, o Tribunal de origem analisou as questões e assim decidiu (fls. 130-131):
+O recurso cinge-se ao capítulo da decisão que dispôs sobre o termo inicial da indenização por perdas e danos, entendendo que deve prevalecer o contido na sentença, em 07/2012, nada pedindo acercado percentual dos juros neste recurso. Conforme constou da decisão do presente relator que deferiu a liminar, o título executivo judicial é o V. Acórdão (Rel. Des. TEIXEIRA LEITE), diante do efeito substitutivo à sentença, de maneira que prevalece o que nele foi decidido, ainda que tenha constado que nessa parte manteve a sentença, mas alterou-a.
+Assim, conforme decidiu, a "reparação é devida a partir da data que a casa deveria ser entregue, e, ainda, essa obrigação deve ser mantida até a data da efetiva entrega das chaves, ou seja ,quando foi disponibilizado o bem" (fls.28 do incidente), não se podendo alegar julgamento extra petita, diante da coisa julgada, e nem consistiu em mero erro material, ficando mantido o termo inicial em 30/04/2010.
+No que se refere à alegada violação dos arts. 1.022, II, parágrafo único, IV, e 489, § 1º, IV do CPC (item a), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se os seguintes precedentes: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Quanto à alegação de ofensa aos arts. 141, 492, 502, 503, 507, 508, 1.008 e 1.013 do CPC (itens b e c), a Corte de origem concluiu que não há falar em ofensa à coisa julgada "diante do efeito substitutivo à sentença, de maneira que prevalece o que nele  acórdão  foi decidido, ainda que tenha constado que nessa parte manteve a sentença, mas alterou-a" (fls. 130-131)", tendo em vista o fato de que constou do acórdão da apelação que a ""obrigação deve ser mantida até a data da efetiva entrega das chaves, ou seja, quando foi disponibilizado o bem" (fls. 28 do incidente), não se podendo alegar julgamento extra petita" (fl. 131).
+Nesse contexto, rever essa conclusão demandaria amplo revolvimento do quadro fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDANTE.
+ ..
+4. Para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido da inexistência de intimação, bem como quanto à legalidade da doação, seria imprescindível o reexame do conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+5. Agravo interno desprovido. (AgInt no AREsp n. 779.797/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. FRAUDE À EXECUÇÃO. SÚMULA 375/STJ. REGISTRO DA PENHORA OU PROVA DE MÁ-FÉ DO ADQUIRENTE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+4. Alterar o decidido no acórdão impugnado, no que se refere à caracterização da má-fé da adquirente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.579.277/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2020, DJe de 10/6/2020.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se.  Intimem-se .
