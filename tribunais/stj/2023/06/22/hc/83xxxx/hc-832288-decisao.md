@@ -1,0 +1,6 @@
+DECISÃO
+JOSE LEANDRO DE LIMA alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1001313-66.2018.8.26.0157.
+De plano, observo que o inicial não foi instruída com cópia da sentença condenatória, o que inviabiliza a análise acerca da identidade entre a situação do ora paciente e do corréu beneficiado com a concessão da ordem no HC n. 702.442/SP, para fins de extensão dos efeitos daquele decisum, diante da alegação defensiva de que "os fundamentos que levaram ao reconhecimento da incidência da majorante são os mesmos que embasaram a exasperação da pena-base o que evidencia a ocorrência de bis in idem na hipótese, conforme acórdão em anexo proferido por esta corte" (fl. 4).
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
