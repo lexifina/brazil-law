@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 213/218) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial (e-STJ fls. 206/209).
+Em suas razões, o embargante aponta obscuridade na decisão embargada, alegando o seguinte (e-STJ fl. 216):
+Como se observa do v. acórdão proferido na Origem, o Egr. TJDFT deu parcial provimento ao Agravo de Instrumento para permitir penhora da remuneração da devedora, mas a limitou para o pagamento somente do débito referente aos honorários advocatícios.
+Logo, em verdade, a insurgência do embargante é justamente para que o Superior Tribunal de Justiça aplique o seu recente entendimento para permitir a penhora de parte do salário da devedora para PAGAMENTO DE TODA A DÍVIDA EXEQUENDA, E NÃO SOMENTE DOS HONORÁRIOS ADVOCATÍCIOS.
+O que se objetiva demonstrar com o Recurso Especial é exatamente que o v. acórdão de Origem está em total dissonância do atual entendimento do C. Superior Tribunal de Justiça ao limitar a penhora da remuneração da devedora para pagamento unicamente dos honorários advocatícios.
+Não foi apresentada impugnação (e-STJ fl. 227).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+In casu, verifico a ocorrência de obscuridade quanto aos fundamentos de ausência de interesse recursal do embargante e aplicação da Súmula n. 7 do STJ no decisum impugnado, razão pela qual passo à nova análise do recurso.
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 1.022 do CPC/2015 e incidência da Súmula n. 7 do STJ (e-STJ fls. 158/160).
+O acórdão recorrido está assim ementado (e-STJ fls. 48/49):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. DÉBITO REFERENTE A HONORÁRIOS ADVOCATÍCIOS. VERBA DE CARÁTER ALIMENTAR. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PERCENTUAL.
+1. O Superior Tribunal de Justiça, órgão constitucionalmente incumbido do papel de uniformizar a interpretação da legislação infraconstitucional, tem jurisprudência consolidada no sentido de que honorários advocatícios (contratuais ou sucumbenciais) têm natureza alimentícia, inclusive para fins do disposto no art. 833, § 2º do CPC/2015, sendo possível penhora dos valores previstos no art. 833, IV do CPC para o seu pagamento. Conquanto ainda não assentada em julgamento sob a sistemática de recursos repetitivos, a primazia pela congruência e uniformidade no sistema de precedentes imprime às instâncias inferiores o dever funcional de observância do entendimento reiteradamente adotado pela Corte Superior, notadamente por se tratar de matéria exclusivamente de direito. Por esse motivo, na linha da jurisprudência do STJ, honorários advocatícios são considerados prestação de natureza alimentícia, sendo possível penhora dos valores previstos no art. 833, IV do CPC para o seu pagamento.
+2. Uma vez reconhecida a possibilidade de penhora de vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões do devedor para o pagamento do crédito exequendo (honorários advocatícios), caberá ao juízo a quo a avaliação e definição do limite da constrição de forma que não comprometa a subsistência da parte devedora.
+3. Agravo de instrumento conhecido e parcialmente provido.
+Os embargos de declaração não foram providos (e-STJ fls. 86/99).
+No recurso especial (e-STJ fls. 107/118), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 833, IV, § 2º, e 1.022 do CPC/2015.
+Insurgiu-se contra o acórdão recorrido que concluiu que não há indicação suficiente de que eventual penhora deferida sobre os rendimentos da parte devedora comprometa gravemente sua subsistência.
+Sustentou que esta Corte Superior "firmou o entendimento de que é possível a penhora do salário do devedor para pagamento de dívidas não alimentícias desde que preservado o suficiente para garantir a sua subsistência digna e a de sua família" (e-STJ fl. 113).
+Defendeu a penhora de 30% (trinta por cento) dos rendimentos da parte devedora para a quitação de toda a dívida, e não apenas para a quitação do débito referente aos honorários advocatícios, sem que implique em afronta à sua dignidade.
+Foram apresentadas contrarrazões (e-STJ fls. 150/154).
+No agravo (e-STJ fls. 166/177), afirma a presença de todos os requisitos de admissibilidade do especial e reitera razões de mérito do recurso.
+Foi oferecida contraminuta (e-STJ fls. 183/184).
+Juízo negativo de retratação (e-STJ fl. 187).
+É o relatório.
+Decido.
+Quanto à impenhorabilidade, o Tribunal de origem, por maioria, assim decidiu (e-STJ fl. 54):
+Do que se tem nos autos até o momento, não há indicação suficiente de que eventual penhora deferida sobre os rendimentos da parte devedora PATRICIA MAIA GOMES PEREIRA em percentual que a jurisprudência do Superior Justiça e deste Tribunal define como razoável (até 30%) comprometa gravemente sua subsistência.
+Por isto que se reconhece a possibilidade de incidência de penhora nos rendimentos da agravada PATRICIA MAIA GOMES PEREIRA (rendimentos mensais brutos em torno de R$ 8.949,04 - ID 107221304 dos autos de origem) para satisfação do crédito exequendo no que se refere a honorários advocatícios (no valor de R$ 4.639,61 - ID 68764395 dos autos de origem), deferindo-se ao juízo a quo a avaliação e definição dos limites da constrição de forma a não comprometer a subsistência da parte devedora.
+Ante o exposto, conheço do agravo de instrumento e dou-lhe parcial provimento para reconhecer possibilidade de incidência de penhora nos rendimentos da agravada PATRICIA MAIA GOMES PEREIRA para o pagamento do crédito exequendo no que relativo a honorários advocatícios, deferindo ao juízo a quo a avaliação e definição dos limites (percentual) da constrição de forma a não comprometer a subsistência da agravada PATRICIA MAIA GOMES PEREIRA.
+Sobre o tema, esta Corte considera que a regra geral d a impenhorabilidade pode ser excetuada, ainda que para satisfazer crédito não alimentar, desde que ressalvado percentual para manter a dignidade do devedor e de sua família. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.819.394/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE NATUREZA NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o entendimento da Corte Especial do STJ, a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada, ainda que para fins de satisfação de crédito não alimentar, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A revisão da conclusão do Tribunal de origem (acerca da razoabilidade do percentual a ser penhorado) demandaria o reexame do conjunto fático-probatório dos autos, o que não é possível no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.906.957/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE DEVOLUÇÃO DE VALORES. VIOLAÇÃO DO ART. 10 DO CPC. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PENHORA. 20% DA REMUNERAÇÃO. CABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem assentou ter sido aberto prazo à recorrente para impugnação à penhora, bem como foi intimada para apresentação de documentos que comprovassem a alegada hipossuficiência econômica.
+2. A revisão das premissas lançadas pelo v. aresto hostilizado, nos moldes em que ora postulada, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. A Corte Especial deste Tribunal, no julgamento dos EREsp 1.582.475/MG, da relatoria do eminente Ministro Benedito Gonçalves, firmou o entendimento de que a regra geral de impenhorabilidade de vencimentos pode ser excepcionada a fim de garantir a efetividade da tutela jurisdicional, desde que observado percentual capaz de assegurar a dignidade do devedor e de sua família.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.690.961/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.645.585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia.
+3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido.
+(EREsp n. 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018.)
+Assim, possível a penhora dos rendimentos da agravada para a quitação integral do débito, mante ndo-se a dignidade do devedor e de sua família.
+Ante a impossibilidade de análise de elementos de prova nesta sede, devem os autos retornarem ao Tribunal de origem para que novamente seja examinada a controvérsia, aplicando-se o entendimento jurisprudencial desta Corte ao caso concreto.
+Com essas considerações, ACOLHO os embargos de declaração, com efeitos modificativos, a fim de CONHECER do agravo e DAR PROVIMENTO ao recurso especial para determinar o retorno do processo ao TJDFT, de modo que, analisando os autos, aplique a regra da impenhorabilidade nos termos da jurisprudência do STJ.
+Publique-se e intimem-se.
