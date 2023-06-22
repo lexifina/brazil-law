@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. MUNICÍPIO DE ANAPURUS/MA. NOMEAÇÃO DE CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS NO PRAZO DE VALIDADE DO CERTAME. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária acerca de preterição na nomeação em concurso público contra o Município de Anapurus/MA, objetivando a nomeação do autor para o cargo para o qual foi aprovado. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "In casu, se faz desnecessário a instrução processual quando as provas acostadas aos autos se mostram suficientes para resolve o litígio, não havendo que se falar em cerceamento de defesa na hipótese. Nesse sentido é o entendimento jurisprudência (..) o candidato aprovado em concurso público tem direito subjetivo de ser nomeado de acordo com a ordem de classificação. Outro não é o entendimento firmado no âmbito do STJ (..) na existência do direito a nomeação, deveria o Município Apelante instaurar procedimento administrativo assegurando o contraditório e a ampla defesa, isso porque a homologação torna concretos, para os aprovados, os efeitos da aprovação, de maneira que a anulação do ato administrativo repercute imediata e diretamente sobre suas esferas jurídicas individuais. De igual modo é o entendimento no âmbito do STJ (..)". Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Maranhão, assim resumido:
+APELAÇÃO CÍVEL. PROCESSO CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. ABREVIAMENTO DA INSTRUÇÃO PROCESSUAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. CONCURSO PÚBLICO. DIREITO SUBJETIVO À NOMEAÇÃO DO CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS NO PRAZO DE VALIDADE DO CERTAME. ANULAÇÃO DO CONCURSO. EXERCÍCIO DA AUTOTUTELA SUJEITO ÀS GARANTIAS DO CONTRADITÓRIO E DA AMPLA DEFESA. VIOLAÇÃO. APELO CONHECIDO E NÃO PROVIDO.
+1 - Não merece acolhimento a tese de cerceamento de defesa em face do julgamento antecipado da lide, uma vez que concluída a fase postulatória cumpre ao juiz verificar se já há nos autos elementos suficientes para o julgamento do mérito ou se há necessidade de produção de provas em audiência.
+2 - In casu, se faz desnecessário a instrução processual quando as provas acostadas aos autos se mostram suficientes para resolve o litígio, não havendo que se falar em cerceamento de defesa na hipótese.
+3 - No que concerne ao Decreto 43/2019, anulando o concurso em questão, saliente que a referida norma é posterior a homologação do certame que se deu através do Decreto 21/2016, momento em que nasceu o direito subjetivo a nomeação pleiteada pela Autora/Apelada.
+4 - Na existência do direito a nomeação, deveria o Município Apelante instaurar procedimento administrativo assegurando o contraditório e a ampla defesa, isso porque a homologação torna concretos, para os aprovados, os efeitos da aprovação, de maneira que a anulação do ato administrativo repercute imediata e diretamente sobre suas esferas jurídicas individuais.
+5 - Apelação conhecida e nãoprovida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+No que concerne os fundamentos da decisão agravada, não é objeto do enunciado da Súmula 07 do STJ. O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada no enunciado da Súmula 07, desta Corte Superior -STJ.
+ ..
+Data vênia, resta evidenciado no caso dos autos errônea valoração das provas, haja vista que a ora agravada juntou documentos que não comprovam o seu direito pretendido, porém, tais provas foram reconhecidas e resultaram equivocadamente na procedência da ação, o que ensejou na violação ao art. 373, I, CPC/15, conforme entendimento jurisprudencial:
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. MUNICÍPIO DE ANAPURUS/MA. NOMEAÇÃO DE CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS NO PRAZO DE VALIDADE DO CERTAME. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária acerca de preterição na nomeação em concurso público contra o Município de Anapurus/MA, objetivando a nomeação do autor para o cargo para o qual foi aprovado. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - A Corte a quo analisou as alegações da parte com os seguintes fundamentos: "In casu, se faz desnecessário a instrução processual quando as provas acostadas aos autos se mostram suficientes para resolve o litígio, não havendo que se falar em cerceamento de defesa na hipótese. Nesse sentido é o entendimento jurisprudência (..) o candidato aprovado em concurso público tem direito subjetivo de ser nomeado de acordo com a ordem de classificação. Outro não é o entendimento firmado no âmbito do STJ (..) na existência do direito a nomeação, deveria o Município Apelante instaurar procedimento administrativo assegurando o contraditório e a ampla defesa, isso porque a homologação torna concretos, para os aprovados, os efeitos da aprovação, de maneira que a anulação do ato administrativo repercute imediata e diretamente sobre suas esferas jurídicas individuais. De igual modo é o entendimento no âmbito do STJ (..)". Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+In casu, se faz desnecessário a instrução processual quando as provas acostadas aos autos se mostram suficientes para resolve o litígio, não havendo que se falar em cerceamento de defesa na hipótese.
+Nesse sentido é o entendimento jurisprudência (..).
+(..)
+(..) o candidato aprovado em concurso público tem direito subjetivo de ser nomeado de acordo com a ordem de classificação.
+Outro não é o entendimento firmado no âmbito do STJ (..).
+(..)
+(..) na existência do direito a nomeação, deveria o Município Apelante instaurar procedimento administrativo assegurando o contraditório e a ampla defesa, isso porque a homologação torna concretos, para os aprovados, os efeitos da aprovação, de maneira que a anulação do ato administrativo repercute imediata e diretamente sobre suas esferas jurídicas individuais.
+De igual modo é o entendimento no âmbito do STJ (..).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
