@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 2.868/2.877) opostos à decisão desta relatoria que tornou sem efeito as decisões de fls. 2.760/2.764 (e-STJ) e deu parcial provimento "ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação" (e-STJ fls. 2.860).
+A parte embargante sustenta que "remanesce obscuridade da decisão objeto dos embargos declaratórios quanto aos fundamentos que motivaram o d. Relator a dispensar o e. Tribunal de Origem da necessidade de apreciação das omissões relevantes ocorridas a respeito da capacidade da área coberta do estádio (e, consequentemente, da aventada venda de ingressos superior à capacidade da área coberta), que se mostra ponto central para o adequado deslinde da causa" (e-STJ fl. 2.869).
+Busca que seja dado "provimento dos aclaratórios, para sanar obscuridade na decisão embargada, tal como explanado na fundamentação, com a aplicação dos consequentes efeitos modificativos, para que seja determinado que o TJPR, no novo julgamento que será proferido, juntamente com as questões indicadas na decisão embargada, também o conteúdo dos depoimentos prestados em juízo pelo policial militar que subscreveu o Laudo de Segurança da PMPR (CORONEL ANTONIO ROBERTO DOS ANJOS PADILHA) e do Capitão do Corpo de Bombeiros (SANDRO RODRIGUES GERALDO)" (e-STJ fl. 2.877).
+Impugnação apresentada às fls. 2.889/2.896 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Sob pretexto de suposta obscuridade, busca a parte, na verdade, desconstituir o entendimento de ausência de deficiência na prestação jurisdicional quanto à capacidade na área coberta, assim decidida (e-STJ fls. 2.856/2.857):
+(i) Da capacidade na área coberta
+A parte alega omissão relativa a supostas provas, buscando, para tanto, desconstituir a afirmação contida no acórdão recorrido de que caberia, com segurança, apenas 4.000 (quatro mil) torcedores na área coberta do estádio.
+Contudo, o Tribunal de origem não restringiu a análise da ilegalidade quanto à limitação de 4.000 (quatro mil) torcedores na área coberta, tendo afirmado que, mesmo, "se considerarmos que as cadeiras são cobertas por cinco dos arcos, o "setor coberto" poderia abrigar 7.265 (sete mil, duzentos e sessenta e cinco) espectadores - muito aquém dos 8.084 (oito mil e oitenta e quatro) ou 7.853 (sete mil, oitocentos e cinquenta e três) ingressos. Isso, sem contar os acessos graciosos de menores de 12 anos e maiores de 65 anos (em número vendidos de 555 na conta da FEDERAÇÃO PARANAENSE DE FUTEBOL), cuja entrada era garantida por normas legais independentemente da aquisição de ingresso" (e-STJ fl. 2.013 - grifei).
+E ainda, o excesso na ocupação foi verificado pela análise fotográfica do estádio, reproduzida no próprio acórdão (e-STJ fls. 2.012/2.013):
+As duas primeiras fotografias mostram o setor coberto (cadeiras  arquibancada) totalmente tomado por torcedores. Nas cadeiras, obviamente mais procuradas pelos primeiros espectadores que entraram, nenhum espaço restou. Dezenas de pessoas podem ser vistas absolutamente "apinhadas" em pé na parte do setor mais afastada do campo.
+ ..  Outras imagens da intensa lotação daquele espaço podem ser vistas do Relatório Circunstanciado apresentado pela PMPR (mov. 1.27, pp. 10/11).
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
