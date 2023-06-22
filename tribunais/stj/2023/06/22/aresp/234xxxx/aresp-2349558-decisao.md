@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 609/618).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 497):
+Apelação Cível. Ação de Cobrança. Alegação de valores a receber relacionados a contrato de prestação de serviço em manutenção e instalação de aparelhos de ar condicionado. Ausência dos requisitos essenciais (não comprovação de realização de serviços adicionados posteriormente ao contrato inicial). Ônus da prova não demonstrado. Inobservância do regramento legal previsto no art. 373, I, do NCPC. Requerimento de valores supostamente retidos indevidamente a título de retenção tributária. Prescrição. Cobrança alusiva a tributo não repassado devidamente à Fazenda Pública. Ilegitimidade ativa. Manutenção da sentença . a quo Recurso conhecido e desprovido. À unanimidade.
+Os embargos de declaração foram acolhidos (e-STJ fls. 692/701 e 734/742).
+Nas razões do recurso especial (e-STJ fls. 534/561), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação do arts. 371, 489, § 1º, V, e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional.
+Segundo afirmou, "o Órgão Julgador a quo não analisou a decisão que excluiu a CEHOP do polo passivo, os documentos anexados à Contestação, bem como o Contrato nº 25/2009, as Notas Fiscais nºs. 214, 217 e 225, o Extrato de Contrato de 28/09/2010, a Ref. Ofício nº BTU & BTU -001/2012, os E-mails, as Planilhas, a Ref. Segunda Planilha de Rerratificação Aditivada, as Solicitação de Pagamento de Serviços Extracontratuais Autorizados Conforme Planilha de Rerratificação, a Declaração de19/11/2012 assinada por Francisco Rubens Balbino dos Santos, a 36ª Fatura nº 00548/2010, as Notas Fiscais de 15/03/2010ede10/05/2010,a Ref. Relatório de Reunião para Análise de Aditivo com Efeito de Solicitação de Pagamento dos Serviços de Ar Condicionado do Hospital de Lagarto-SE, a Ref. Solicitação de Faturas da Construtora JJ Ltda, Referente ao Sistema de Ar Condicionado do Hospital de Lagarto e o Pedido de Declaração de 15/01/2013, que instruíram a Inicial" (e-STJ fl. 544).
+Aponta ofensa ao art. 371 do CPC/2015, destacando que "provou o fato constitutivo de seu direito de receber o pagamento pelos serviços adicionais prestados (relativos às duas rerratificações), no importe de R$ 254.233,88" (e-STJ fl. 547).
+No agravo (e-STJ fls. 624/642), afirma-se a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 644/650 (e-STJ).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts . 489 e 1022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 499).
+Já em relação à cobrança dos valores relacionados aos aditivos contratuais, entendo que a autora não comprovou os fatos alegados, na medida em que não apresentou documentação suficiente referentes à prestação do serviço, apesar de oportunizado pelo julgador monocrático.
+Assim, tem-se que o apelante/requerente não se desincumbiu de provar o fato constitutivo de seu direito, nos termos do art. 373, I, do CPC, não tendo sido minimamente demonstrado nos autos prova concreta de que a requerida/apelada é, de fato, titular do crédito requerido.
+Ausente suficiente prova do fato constitutivo do direito autoral, impõe-se a improcedência do pedido.
+Modificar o entendimento do acórdão impugnado quanto à ausência de comprovação do fato constitutivo do direito autoral, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+O recurso especial fundado na alínea "c" do permissivo constitucional também não reúne condições de êxito, ante a inexistência de similitude fática entre os acórdãos tidos por divergentes.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
