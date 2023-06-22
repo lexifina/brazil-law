@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado na Apelação n. 0148801-04.2019.8.09.0085.
+Depreende-se dos autos que o Juiz natural absolveu a ré da imputação de haver cometido furto por cinco vezes em continuidade delitiva.
+O Tribunal de origem negou provimento à apelação ministerial.
+Nas razões do especial, alegou a acusação a violação do art. 155, caput, do CP, ao argumento de que é indevido o reconhecimento da bagatela, haja vista o valor dos bens furtados.
+Requereu fosse afastada a incidência do princípio da insignificância.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Segundo denúncia, a ré era recepcionista de um posto de saúde nesta Capital e, aproveitando-se da dispersão das outras servidoras, subtraiu a quantia aproximada de R$ 400,00, fatos ocorridos entre os meses de maio e julho/2019. Apurou-se que a ré subtraiu R$ 120,00, pertencente à vítima Sara; R$ 150,00, pertencente à vítima Vanessa e R$ 100,00, da vítima Tatiane, quantias estas que foram ressarcidas posteriormente.
+ ..
+No caso dos autos, a sentença descreveu que a ré estava passando por dificuldades financeiras e psicológicas. Em razão disto, subtraiu os valores das vítimas, ressarcindo-as integralmente do prejuízo sofrido. Pontuou que a ré continuou a trabalhar no mesmo local, mantendo convivência harmônica com as vítimas.
+Ainda, a ré não apresenta outros registros criminais, comprovando que não é contumaz na prática delitiva. Assim, embora a ré tenha praticado os crimes em continuidade delitiva e os valores subtraídos excedam a 10% do salário-mínimo, vigente à época dos fatos, as condutas perpetradas não apresentam grau de lesividade suficiente para atrair a incidência da norma penal, pois nenhum interesse social existe na onerosa intervenção estatal.
+(fls. 183-184, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registros de vida pregressa devem ser entendidos como elementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal - que pode ser incompatível com a exclusão da punibilidade - e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se com o princípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o próprio legislador penal confere importância aos registros na folha de antecedentes para o cômputo da reprimenda, como ocorre na privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses para agentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade de individualizar a pena.
+Na espécie, a ré foi acusada de haver subtraído, em continuidade delitiva, de pessoas físicas, valores que somam R$ 370,00, equivalentes a 37,07% do salário mínimo vigente na época dos fatos.
+Em que pese primariedade da acusada, o valor dos bens subtraídos não pode ser considerado insignificante e justifica o prosseguimento da atividade punitiva estatal.
+Cumpre ressaltar que, neste processo, os valores dos bens furtados devem ser somados em consequência da continuidade delitiva, que implica a análise das condutas no todo, como crime único, que é ainda mais reprovável.
+Nesse sentido, "Quando a empreitada criminosa se dá com o reconhecimento da ficção jurídica da continuidade delitiva,  ..  evidencia o maior grau de reprovabilidade da conduta do agente, sendo inviável a aplicação do princípio da insignificância (HC n. 351.207/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 1º/8/2016, grifei).
+Assim, condeno a denuciada pela prática de furto continuado, cuja pena será computada pela instância antecedente, levando em conta as circunstâncias específicas da agravante e dos fatos por ela praticados.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, com a finalidade condenar a ré pela prática de furto continuado e determino o retorno dos autos à origem para que seja dimensionada a reprimenda.
+Publique-se e intimem-se.
