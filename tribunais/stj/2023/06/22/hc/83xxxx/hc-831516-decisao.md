@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SEBASTIÃO FERREIRA DOS SANTOS FILHO, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Narra a Impetrante que o Juízo de primeiro grau absolveu o Paciente, tendo a Corte local negado provimento ao apelo da Acusação.
+Nos autos do Recurso Especial n. 1.814.040/MG, dei provimento ao recurso para determinar a devolução dos autos ao Tribunal de origem para q ue julgasse, como entendesse de direito e com base nas provas acostadas aos autos, a materialidade delitiva e as demais teses veiculadas na apelação interposta pelo Parquet.
+Posteriormente, o Paciente foi condenado, em segunda instância, à pena de 8 (oito) anos e 7 (sete) meses de reclusão, em regime inicial fechado, e ao pagamento de 801 (oitocentos e um) dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Afirma a Impetrante que a condenação transitou em julgado e que a Defesa ajuizou revisão criminal, que ainda está pendente de julgamento.
+Requer, em liminar e no mérito, seja concedido o direito de aguardar em liberdade o julgamento da revisão criminal, com a expedição de alvará de soltura em seu favor.
+É o relatório. Decido.
+Conforme informando pela Defesa, ocorreu o trânsito em julgado da condenação, tendo sido ajuizada revisão criminal. Assim, a prisão questionada nestes autos é definitiva, e não cautelar.
+Com efeito, nos termos da jurisprudência desta Corte, " o  ajuizamento da revisão criminal não obsta a execução da sentença condenatória, tendo em vista a ausência de efeito suspensivo (AgRg no HC n. 391.687/PR, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/4/2017, DJe de 26/4/2017)" (AgRg no HC n. 715.677/GO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 15/03/2022, DJe 21/03/2022).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR FORMULADO EM REVISÃO CRIMINAL AJUIZADA NA ORIGEM. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL DESTE HABEAS CORPUS. APLICAÇÃO ANALÓGICA DA SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em mandamus manejado na origem, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência da Súmula 691/STF.
+2. Não há falar em presunção de inocência ou em concessão de liberdade provisória no caso de condenação transitada em julgado, o que reforça a inviabilidade da pretensão de aguardar em liberdade o julgamento da revisão criminal ajuizada na origem. Precedentes.
+3. Hipótese em que a decisão que indeferiu o pedido liminar na origem encontra-se suficientemente motivada e não apresenta ilegalidade patente para justificar a mitigação do óbice da Súmula 691/STF, aplicável por analogia.
+4. Agravo regimental não provido." (AgRg no HC n. 527.788/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/9/2019, DJe de 12/9/2019; sem grifos no original)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. SÚMULA N. 691/STF. SUPERAÇÃO. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. INDEFERIMENTO DO PEDIDO LIMINAR EM REVISÃO CRIMINAL. PRETENSÃO DE AGUARDAR EM LIBERDADE O JULGAMENTO DA AÇÃO REVISIONAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão impugnada por seus próprios fundamentos.
+II - Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar na origem, sob pena de se configurar indevida supressão de instância (Súmula 691 do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação.
+III - Na hipótese, não se denota teratologia na decisão impugnada, pois a jurisprudência desta Corte de Justiça é firme no sentido de que o pedido para se aguardar em liberdade o julgamento da revisão criminal se mostra juridicamente impossível, "pois o encarceramento na hipótese de revisão decorre de título definitivo, em cumprimento à sanção criminal imposta por sentença transitada em julgado e não se confunde com a prisão preventiva, medida cautelar de natureza pessoal utilizada para garantir a efetividade do processo penal" (AgRg no HC n. 347.878/RJ, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 18/4/2016).
+IV - Não se verifica, portanto, a ocorrência de flagrante ilegalidade capaz de determinar o conhecimento da impetração, em afronta ao disposto na Súmula 691 do STF.
+Agravo regimental desprovido"(AgRg no HC n. 474.174/SP, relator Ministro FELIX FISCHER , Quinta Turma, julgado em 6/11/2018, DJe de 14/11/2018; sem grifos no original; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO PARA AGUARDAR EM LIBERDADE O JULGAMENTO DA REVISÃO CRIMINAL. IMPOSSIBILIDADE. TÍTULO CONDENATÓRIO DEFINITIVO, E NÃO CAUTELAR. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
