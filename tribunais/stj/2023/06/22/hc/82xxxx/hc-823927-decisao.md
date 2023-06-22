@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 51):
+TRÁFICO DE ENTORPECENTES Materialidade e autoria bem comprovadas. Sentença confirmada por seus próprios fundamentos. PENAS E REGIME PRISIONAL Corretamente fixados. Apelo desprovido.
+O paciente foi condenado a 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, e ao pagamento de 1.036 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, II, j, do Código Penal.
+A defesa alega que deve ser afastada a agravante prevista no art. 61, II, j, dada a ausência de nexo de causalidade entre a conduta do paciente e aquela agravante, afirmando, ainda, que a exasperação da pena em 1/3, na segunda fase, em razão da reincidência específica, revela-se desproporcional, requerendo que seja aplicada a fração jurisprudencial de 1/6.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela "concessão parcial da ordem, apenas para se decotar a agravante da calamidade pública" (fl. 128).
+Consta do acórdão recorrido (fls. 57-61):
+ ..  A majoração das básicas foi adequada ao caso concreto e bem fundamentada.
+Isto porque, além de o apelante ostentar maus antecedentes (fls. 40 e 41/42), a Lei nº 11.343/06, no art. 42, estabelece que "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Nesse passo, considerando os maus antecedentes, bem como a quantidade, que não se mostra desprezível, sendo capaz de atingir grande número de pessoas, além da natureza das substâncias apreendidas, em especial a cocaína, com alto poder viciante e de destruição do organismo, que ultrapassa a esfera da normalidade, sendo merecedora de maior reprovação, de modo que fundamentado está o aumento da reprimenda, em atenção à expressa determinação legal.
+Ademais, não restou a pena-base majorada em razão de ter sido apreendido "droga" com o apelante, mas sim, em atenção, a quantidade e variedade de substâncias entorpecentes, em estrita observância ao artigo 42, da Lei 11.343/06, jamais podendo esse aumento ser considerado bis in idem.
+ ..
+Na segunda fase, verificada a reincidência específica (fls. 40/41), foi a pena majorada de 1/3.
+No caso, a reincidência do réu é específica e, em linha com o que entende esta C. Câmara, não obstante condenado anteriormente pelo mesmo crime, o acusado voltou a desafiar o ordenamento em clara demonstração de que a resposta anterior dada não lhe serviu de freio ao impulso criminoso.
+Reincidir na mesma conduta indica insistência deliberada na prática delitiva e aposta na impunibilidade, situação bem diferente daquele que, em contextos diferentes e por instintos outros, acaba por praticar delitos de naturezas diversas.
+Assim, clara está a necessidade de repressiva mais significativa quando se trata de reincidência específica, justificando o aumento aplicado.
+Por fim, o caso é de manutenção do aumento de 1/6 em razão da agravante genérica da calamidade pública.
+A prática de crime em cenário no qual toda a população passa por privações e incertezas em meio a diversas recomendações de recolhimento domiciliar e restrição de atividades de toda ordem é ainda mais reprovável e merece resposta penal diferenciada.
+ ..
+Assim, como esta Relatoria já teve oportunidade ressaltarem outras oportunidades, a lei não estabelece nenhuma outra condição para a incidência da agravante do art. 61, II, j, do Código Penal que não a simples prática do delito em ocasião de calamidade pública.
+E o estado de calamidade pública, no Estado de São Paulo, decorrente da pandemia do COVID-19, foi reconhecido por meio do Decreto nº 64.879, de 20 de março de 2020, que ainda se encontra em vigência, diante de sucessivas prorrogações. Nesse passo, sendo certa tal situação, juridicamente declarada, na época dos fatos, não há necessidade de se demonstrar sua relevância para a prática do delito, uma vez que ela se presume pelo próprio cenário estabelecido. ..
+Vê-se que a pena-base merece reparo, uma vez que a quantidade de entorpecentes - 136,3g de cocaína, 4,8g de maconha e 0,05g de substância sintética (fl. 57) - não se revela expressiva o suficiente para ensejar o recrudescimento da pena, remanescendo a exasperação em 1/6, a título de maus antecedentes.
+Além disso, é pacífico na jurisprudência desta Corte, o entendimento de que "a incidência da agravante do art. 61, inciso II, alínea "j", do Código Penal - prática do delito durante estado de calamidade pública gerado pela pandemia do coronavírus - exige nexo entre tal circunstância e a conduta do agente" (AgRg no HC n. 717.298/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/2/2022, DJe 2/3/2022), o que não foi demonstrado nos autos.
+Em relação à agravante da reincidência, " a  jurisprudência desta Corte é no sentido que a aplicação de patamar superior a 1/6 em razão da incidência de agravante exige que o julgador apresente fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica" (AgRg no HC n. 668.427/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022), como contrariamente entendeu o Tribunal local, merecendo reparação a dosimetria também nesse ponto.
+Passa-se, assim, à nova dosimetria.
+Afastada a vetorial relativa à quantidade da droga apreendida, mantenho a majoração da pena-base em 1/6 acima do mínimo legal, em razão dos maus antecedentes do paciente - 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Na segunda fase, afasto a agravante do art. 61, II, j, do Código Penal e aplico o patamar de 1/6, a título de reincidência, resultando em 6 anos, 9 meses e 20 dias de reclusão, e 680 dias-multa, tornando-se definitiva na ausência de causas de aumento e de diminuição.
+Mantido o regime fechado, diante da reincidência do paciente, na medida em que " e mbora a pena aplicada seja superior a 4 (quatro) anos e não exceda a 8 (oito) anos, a presença de reincidência justifica o agravamento do regime prisional" (AgRg no HC n. 737.128/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/6/2023, DJe de 14/6/2023).
+Ante o exposto, concedo o habeas corpus para fixar a pena definitiva de EDVALDO FOSTINO DOMINGOS DA SILVA no total de 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, além de 680 dias-multa (Processo nº 1501465-45.2022.8.26.0536 - 1ª Vara Criminal de São Vicente/SP).
+Comunique-se.
+Publique-se.
+Intimem-se.
