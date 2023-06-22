@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TB SERVIÇOS TRANSPORTE, LIMPEZA, GERENCIAMENTO E RECURSOS HUMANOS S/A, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/2/2023.
+Concluso ao gabinete em: 13/6/2023.
+Ação: de arbitramento de honorários advocatícios, ajuizada por PAULO CESAR DOS REIS em face da agravante.
+Sentença: julgou parcialmente procedente o pedido, para condenar a ré a pagar ao autor a quantia de R$ 744.613,79 e, considerando que a ré decaiu de parcela mínima do pedido, condenou o autor ao pagamento das custas, despesas processuais e honorários advocatícios, estres fixados em R$ 100.000,00.
+Acórdão: deu parcial provimento ao apelo interposto por PAULO e negou provimento ao apelo interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. ARBITRAMENTO DE HONORÁRIOS. AFASTADA A PRELIMINAR DE ILEGITIMIDADE PASSIVA. EMPRESAS PERTENCENTES AO MESMO GRUPO ECONÔMICO. PRESCRIÇÃO. INOCORRÊNCIA. TERMO INICIAL PARA CONTAGEM É O ENCERRAMENTO DA RELAÇÃO CONTRATUAL ENTRE AS PARTES. PRESTAÇÃO DE SERVIÇOS INCONTROVERSA. CONCLUSÕES DO LAUDO PERICIAL QUE SÃO APTAS A FUNDAMENTAR A SENTENÇA. ESTABELECIDA JUSTA REMUNERAÇÃO PELOS TRABALHOS PRESTADOS. SUCUMBÊNCIA RECÍPROCA E NÃO EQUIVALENTE. DISTRIBUIÇÃO DAS CUSTAS E DESPESAS PROCESSUAIS E FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS DE FORMA PROPORCIONAL. SENTENÇA PARCIALMENTE REFORMADA. RECURSO DO AUTOR PARCIALMENTE PROVIDO. RECURSO DA RÉ NÃO PROVIDO.
+Embargos de declaração: opostos por PAULO e pela agravante, ambos foram rejeitados, com esclarecimento.
+Recurso especial: aponta violação aos arts. 485, VI, 1.022 e 1.023 do CPC/15; 25, III, do Estatuto da OAB; e 206, § 5º, do CC, além de dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que a ação deveria ter sido extinta, sem julgamento do mérito, por falta de interesse de agir do recorrido e ilegitimidade passiva da recorrente.
+Afirma, ainda, que eventual direito do recorrido estaria prescrito.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base i) na ausência de violação dos arts. 1.022 e 1.023 do CPC/15; ii) na ausência de demonstração da alegada vulneração dos dispositivos tidos por violados; e iii) na incidência da Súmula 7 do STJ.
+No entanto, no agravo em recurso especial, a agravante não impugnou adequadamente, de maneira específica e consistente, o óbice da Súmula 7 do STJ, alegando, de forma genérica, sua inaplicabilidade.
+Ressalte-se que, quanto ao óbice da Súmula 7 do STJ, não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a revaloração ou a correta aplicação da legislação que entende violada, devendo ser demonstrada a efetiva desnecessidade do reexame, especialmente na hipótese em que o Tribunal de origem declara que "ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça" (e-STJ fl. 1558), o que não foi feito.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III do CPC/15.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
