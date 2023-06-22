@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça colombiana (Juíza Coordenadora do Centro de Serviços Judiciais do Sistema Penal Acusatório de Bogotá) solicita que se proceda à notificação de MANUEL RICARDO CABRAL XIMENES e AMILTON HIDEAKI SENDAI para comparecerem à audiência virtual designada para o dia 7 de junho de 2023, às 8h (hora colombiana), nos autos do Processo n. 110016000102 2022 00231 00 - NI 428820, que apura suposta prática de "delitos de Contrato sem Cumprimento de Requisitos Legais (Art. 410 C.P.)" (fl. 8).
+Considerando o decurso da data marcada da audiência e as informações prestadas pela Justiça Federal às fls. 49-50, julgo prejudicada a comissão e determino a devolução dos autos à Justiça rogante, por intermédio da autoridade central competente (art. 216-X do RISTJ). Registre-se que cabe a o Juízo rogante designar nova data de audiência, sem prejuízo da reapresentação.
+Comunique-se, com urgência, ao Juízo da 4ª Vara Federal de São Paulo, a perda do objeto da referida comissão.
+Publique-se.
