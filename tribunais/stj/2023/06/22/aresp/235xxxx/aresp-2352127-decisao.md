@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por TEREZA PEREIRA MENDES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO - SENTENÇA DE IMPROCEDÊNCIA - AUSÊNCIA DOS REQUISITOS ENSEJADORES DA PRESCRIÇÃO AQUISITIVA, PREVISTOS NO ART. 1.238 E PARÁGRAFO ÚNICO DO CC - ALEGADO EXERCÍCIO DA POSSE MANSA E PACÍFICA, COM ANIMO DE DONO, PELO PERÍODO DESDE 2008, DESPROVIDO DE COMPROVAÇÃO - SENTENÇA MANTIDA - RECURSO NÃO PROIIDO (fl. 190).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 319, VI, do CPC, sob o argumento de que trouxe aos autos provas documentais e de que a prova oral é a única para demonstrar a posse da parte recorrente e o lapso de tempo suficiente para gerar a usucapião, trazendo a seguinte argumentação:
+A recorrente instruiu o pedido inicial, além daqueles que são obrigatórios, com fotos da casa, construída na área usucapienda e demonstração da existência da família. Os filhos da recorrente nasceram no local.
+Entre os requisitos da petição, há o inciso VI, do artigo 319, do CPC, que preceitua a obrigatoriedade de o autor indicar as provas com as quais pretende demonstrar os fatos alegados.
+
+Violou-se o artigo 319, VI, do CPC, pois a prova oral é a única para demonstrar a posse da recorrente e o lapso de tempo suficiente para gerar a usucapião.
+
+E como a recorrente poderia trazer aos autos prova documental, tais como: tarifas de energia elétrica, IPTU e outros documentos. Ora, como dito na petição inicial, o imóvel situa-se na zona rural e é uma ocupação familiar.
+
+Nos itens  1  ,  2  ,  3  ,  4  e  5  , a recorrente demonstrou a origem da posse, a ocupação de área certa, observando-se que os antecessores, pais da autora, faleceram, respectivamente em julho de 1.984 e 1.997.
+A recorrente, diga-se, nem precisa provar a posse de seus pais, pois basta a posse de dez anos, tendo em vista que mora no imóvel com os filhos.
+Daí, a importância da produção da prova oral, pedido expressamente feito na petição inicial (fls. 198/199).
+É, no essencial, o relatório. Decid o.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se sabe, são requisitos para a usucapião extraordinária, a posse mansa e pacífica e ininterrupta, dotada de "animus domini", pelo período de quinze anos (art. 1.238, CC), independentemente de justo título e boa-fé. Referido prazo diminui para dez anos, consoante o disposto no parágrafo único do citado artigo legal.
+Pois bem.
+O exercício da posse é demonstrado por meio de uso, gozo ou fruição do bem.
+A despeito das manifestações de fls. 70 e 137/139 dos confrontantes, não se opondo à pretensão da autora, o que poderia até mesmo ser considerado para confirmar a sua posse, certo é que não se pode atestar desde quando esta ocorre, se de fato desde 2008 e em que condições.
+Como se infere dos autos, a autora afirma exercer a posse mansa e pacífica, em continuidade à posse anterior de seus genitores, entretanto, limitou-se a juntar aos autos, além do memorial descritivo e planta topográfica de fls. 11/16, as fotos de fls. 17 e 18, documentos esses que não se mostram suficientes a corroborar o aduzido.
+E ainda que desnecessário o justo título para a aquisição, nos termos do artigo 1.238 do Código Civil, como se verá adiante, não há elementos nos autos a corroborar o exercício da posse desde 2008, muito menos o anterior período da suposta posse de seus genitores a que pretende se somar, tempo necessário para a configuração da usucapião, ônus do qual não se desincumbiu a autora, nos termos do art. 373, I, CPC.
+Não parece crível que, diante da alegação do exercício da posse desde 2008, não tivesse a autora outros documentos a corroborar o alegado, tais como contas de consumo do referido período, de impostos, ou similares, ou mesmo fotos demonstrando a posse exercida. Aliás, a autora sequer descreve como se dava o exercício da posse.
+Como se vê, não foram atendidos os requisitos necessários à usucapião, sobretudo a posse e também lapso temporal, o que inviabiliza a prescrição aquisitiva.
+Repita-se, é requisito essencial para a obtenção de sucesso na ação de usucapião, a comprovação do efetivo exercício da posse no bem em que se pretende a declaração do domínio. Desta forma, conclui-se que não ficou demonstrado o exercício de qualquer dos poderes inerentes à propriedade, ou em outras palavras o exercício da posse, ou seja, o uso, gozo, fruição do bem, o que sem qualquer dificuldade poderia ser comprovado nos autos, como dito, ônus do qual não se desincumbiu a autora, nos termos do art.
+373, I, CPC E nem se diga que houve cerceamento de defesa. Isto porque, a própria autora, às fls. 156/157, afirma não ser necessária perícia, bem como não haver dúvidas a serem sanadas, e no item 7 requer o julgamento antecipado da lide, de forma que não se mostra verdadeira a afirmação de que não foi ouvida acerca do julgamento antecipado da lide (fls. 191/193).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
