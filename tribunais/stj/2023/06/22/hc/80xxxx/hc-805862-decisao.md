@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOAO ANTONIO CHAVES SOUTO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0012556-77.2022.8.26.0482).
+Depreende-se dos autos que "o sentenciado cumpria pena de reclusão em regime semiaberto (execuções de 1 a 4 - fls. 44/55), quando sobreveio nova condenação à pena de 8 anos, 7 meses e 13 dias de reclusão, em regime fechado (execução 5 - fls. 44/55)" (e-STJ fl. 63).
+Assim, o Juízo das execuções proferiu decisão fixando o regime mais gravoso para cumprimento de todas as suas penas.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, nos termos da ementa de e-STJ fl. 62:
+Execução de penal - Cumprimento de penas em regime semiaberto - Superveniência de condenação a pena de reclusão, em regime fechado - Unificação - Fixação de regime fechado para cumprimento - Cabimento - Hipótese do art. 111 da Lei de Execuções Penais - Recurso improvido.
+Daí o presente writ, no qual alega a defesa que, ainda que considerada a nova condenação no curso da execução, estão preenchidos os requisitos objetivo e subjetivo para a progressão ao regime intermediário.
+Em que pese a necessidade de impor o regime fechado após a unificação das penas, aduz que permanece hígido o lapso temporal necessário para a progressão, uma vez que "o Paciente possui mérito objetivo superado desde 26/05/2021, ou seja, a MAIS DE 1 ANO no direito de estar em regime semiaberto" (e-STJ fl. 6, sic).
+Em relação ao requisito subjetivo, assere que o paciente obteve parecer favorável no exame criminológico ao qual foi submetido.
+Requer, liminarmente e no mérito, seja restabelecida a decisão concessiva do regime semiaberto.
+Indeferida a liminar (e-STJ fls. 68/69) e prestadas as informações (e-STJ fls. 73/74 e 75/84), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 88):
+Habeas corpus substitutivo de recurso ordinário. Inadmissibilidade. Execução penal. Cumprimento de pena em regime semiaberto. Superveniência de condenação. Unificação das penas. Regressão para o regime fechado. Acórdão em conformidade coma jurisprudência do STJ. Ausência de manifesta ilegalidade. Parecer pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Infere-se dos autos que o paciente estava cumprindo penas em regime semiaberto, cujo término estava previsto para 18/7/2025, quando sobreveio nova condenação à pena de 8 anos, 7 meses e 13 dias de reclusão, em regime inicial fechado. Fixou-se, assim, o regime fechado para o cumprimento de todas as penas, nos termos do artigo 111 da Lei de Execução Penal.
+E veja o que disse o Tribunal a quo, ao negar provimento ao agravo em execução da defesa (e-STJ fls. 63/65):
+Na verdade, o agravante, na esperança de ver preservado o regime de cumprimento de pena mais brando, alega que ostenta os requisitos - objetivo e subjetivo - para permanecer no regime semiaberto.
+Sem razão, no entanto.
+É que o advento de mais uma condenação agora em regime de maior gravidade repercute no âmbito da execução penal, trazendo outra situação jurídica que demanda uma nova análise para que o sentenciado faça jus à nova progressão.
+Por outro lado, é muito clara, inadmitindo outra interpretação, a disposição do art. 111, caput, da Lei de Execução Penal, pois, dispõe que "quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+ ..
+É exatamente esta a hipótese dos autos, onde o Magistrado determinou a unificação das penas de reclusão impostas, em conformidade com o disposto no art. 111 da Lei 7.210/84, no âmbito do Juízo das Execuções Criminais.
+Bem por isso, o improvimento do recurso é medida que se impõe à correta solução do caso em questão.
+Diante do exposto, NEGA-SE PROVIMENTO AORECURSO.
+O acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que "a superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal". (AgRg no RHC n. 169.094/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 6/10/2022.)
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. DETRAÇÃO. TEMPO DE PRISÃO PROVISÓRIA COMPUTADO COMO PENA EFETIVAMENTE CUMPRIDA. DUPLA DETRAÇÃO. ARTIGO 42 DO CP. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer, ainda, que o § 2º do art. 387 do CPP dispõe que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade. O referido preceito normativo não se refere à progressão de regime prisional, instituto próprio da execução penal, mas, sim, à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do Código Penal.
+2. A legislação penal não determina a consideração, em duplicidade, do art. 42 do CP, na sentença e na fase da sua execução. Assim, são duas as situações diferentes que podem surgir, a depender da autoridade que realizou a detração penal.
+3. As alterações trazidas pelo referido diploma legal não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência.
+4. Pela leitura do acórdão recorrido, verifica-se que, possuindo o acusado três condenações definitivas, houve a unificação das reprimendas para se aferir o regime prisional correspondente ao total de sanção, bem assim os benefícios da fase executória, nos termos do parágrafo único do artigo 111 da LEP, in verbis: "sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime". Ficou consignado, também, que o período de prisão preventiva de 07/01/2016 a 03/08/2016 fora descontado do saldo total de pena, ou seja, tal período fora contabilizado como pena efetivamente cumprida.
+5. Dessa forma, por mais que se possa debater o momento devido de incidência do instituto previsto no art. 42 do CP, por outro lado, descabe cogitar a sua dupla aplicação, visto que tal providência implicaria em indevido benefício ao reeducando, que cumpriria menos tempo no regime mais severo do que prevê a lei para ser transferido ao modo prisional mais brando.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 2.054.749/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 111 DA LEP. UNIFICAÇÃO DE PENAS. RECLUSÃO COM DETENÇÃO. REPRIMENDAS DA MESMA NATUREZA. SOMATÓRIO. POSSIBILIDADE.
+I - "A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade" (AgRg no HC n. 473.459/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 01/03/2019). Precedentes do STF e desta Corte Superior de Justiça;
+II - O Recurso Especial não constitui via adequada para a análise de eventual ofensa a enunciado sumular, por não estar este compreendido na expressão "lei federal". Nesse sentido, a Súmula 518 /STJ: "Para fins do artigo 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.007.173/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 22/2/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ADVENTO DE NOVAS CONDENAÇÕES NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DAS PENAS. TOTAL SUPERIOR A 4 ANOS. AGRAVANTE QUE OSTENTA A CONDIÇÃO DE REINCIDENTE. FIXAÇÃO DE REGIME INICIAL FECHADO. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+(AgRg no HC n. 730.696/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Diante do exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
