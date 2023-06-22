@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CONDOMINIO RESIDENCIAL PORTO RICO, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 31/03/2022.
+Concluso ao gabinete em: 24/04/2023.
+Ação: de cobrança de despesas condominiais, em fase de cumprimento de sentença, ajuizada por CONDOMINIO RESIDENCIAL PORTO RICO em desfavor de Francisco Alves Rodrigues, que faleceu no curso da lide, vindo a ser sucedido por suas filhas VERIDIANNA MARTINHO RODRIGUES TEIXEIRA e ANNA BEATRIZ MARTINHO RODRIGUES.
+Decisão interlocutória: rejeitou as impugnações apresentadas por VERIDIANNA MARTINHO RODRIGUES TEIXEIRA e ANNA BEATRIZ MARTINHO RODRIGUES, em que alegaram que a execução supera o valor da herança e que é indevida a inclusão, no montante do débito, de honorários advocatícios de 20%, previstos em convenção condominial.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto por VERIDIANNA e ANNA BEATRIZ, para excluir do cálculo os valores correspondentes aos honorários advocatícios previstos na Convenção do Condomínio, nos termos da seguinte ementa (e-STJ fl. 151):
+"AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. Insurgência das executadas, filhas e herdeiras do devedor originário, contra decisão interlocutória que deixou de acolher suas impugnações, mantendo a penhora do imóvel gerador dos débitos. Alegação de excesso de execução, além das forças da herança, bem como de inexigibilidade de pagamento dos honorários contratuais previstos na convenção do condomínio. Preliminar de prejudicialidade do recurso suscitada pelo condomínio agravado, sob a alegação de que opôs embargos de declaração contra a decisão agravada, ainda pendentes de julgamento. Preliminar afastada. Questão discutida nos embargos diversa daquelas debatidas no presente agravo. Penhora do imóvel gerador do débito que não configura excesso de execução. Averbação da penhora ocorrida 4 anos antes do falecimento do executado. Obrigação de natureza propter rem. Propriedade transferida às herdeiras de acordo com o princípio da saisine (art. 1.784, CC). Honorários contratuais que, contudo, devem ser excluídos do montante total do débito. Custos decorrentes de contratação de advogado para ajuizamento de ação que não são, por si sós, indenizáveis. Precedentes do C. STJ e desta C. 27ª Câmara de Direito Privado. RECURSO PARCIALMENTE PROVIDO".
+Embargos de declaração: os embargos opostos por VERIDIANNA e ANNA BEATRIZ, foram acolhidos, com efeitos infringentes, para sanar omissão acerca da fixação de honorários advocatícios em razão do acolhimento parcial da impugnação. Os embargos opostos pelo CONDOMINIO PORTO RICO, foram rejeitados.
+Recurso especial de CONDOMINIO RESIDENCIAL PORTO RICO: alega violação dos arts. 1.022 do CPC, 104, 107, 113, § 2º, 389, 395, 404 e 1.333 do CC/02, sustentando, além de negativa de prestação jurisdicional, que é legítima a inclusão dos honorários advocatícios, previstos na Convenção Condominial, no montante do débito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial interposto por CONDOMINIO RESIDENCIAL PORTO RICO, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários advocatícios ora fixados em 10% do proveito econômico obtido na impugnação para 11%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DÉBITOS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. 211/STJ.
+1. Ação de cobrança de débitos condominiais, em fase de cumprimento de sentença.
+2. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Recurso especial não conhecido.
