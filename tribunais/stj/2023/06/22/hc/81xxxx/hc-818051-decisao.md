@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 38):
+APELAÇÃO CRIMINAL Tráfico de drogas Autoria e materialidade delitiva comprovadas Decisão condenatória que se impõe Penas readequadas Aumento da pena-base afastado - Impossibilidade de aplicação da causa especial de diminuição de pena prevista no § 4º, do artigo 33, da Lei de Drogas Réu reincidente - Regime inicial fechado devido Recurso provido em parte.
+O paciente foi condenado a 5 anos de reclusão, no regime fechado, e 500 dias-multa, nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Sustenta a defesa que deve ser aplicada a causa especial de redução de pena prevista na Lei de Drogas, a alteração do regime prisional e a substituição das penas, buscando-se, ainda, a detração do tempo em que o paciente esteve preso cautelarmente.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se "pela extinção do processo sem resolução de mérito ou pela denegação da ordem" (fl. 86).
+Sobre o redutor do tráfico, consta do acórdão (fl. 42):
+ ..  Na terceira e derradeira etapa, o apelante não faz jus ao redutor, pois é reincidente o que por si só afasta a causa de diminuição da pena prevista no § 4º, do artigo 33, da Lei 11.343/11  ..
+O entendimento acima está em consonância com o disposto no art. 33, § 4º, da Lei n. 11.343/2006, o qual exige a primariedade para a concessão do benefício.
+No mesmo sentido, entende a jurisprudência desta Corte que a reincidência é fator impeditivo ao reconhecimento do tráfico privilegiado. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. APLICAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. ACUSADA REINCIDENTE. REINCIDÊNCIA NÃO ESPECÍFICA. IRRELEVÂNCIA. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. "O entendimento desta Corte Superior é no sentido de que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado, consoante previsto no art. 33, § 4º, da Lei 11.343/2006, inexistindo bis in idem ante a utilização concomitante na segunda e terceira fases da dosimetria. Precedentes" (AgRg no AREsp 1.810.760/PR, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO, SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021).
+3. Agravo regimental desprovido. (AgRg no 786.591/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe 15/12/2022).
+No que se refere ao regime, o Tribunal de origem entendeu que "deve ser mantido o fechado, considerando-se aqui, além do apelante ser reincidente (cf. fls. 116/118), a gravidade e nocividade concreta da conduta evidenciada pela quantidade e pela natureza da droga apreendida em poder do recorrente" (fl. 42).
+Assim o entendimento do Tribunal a quo vai ao encontro da jurisprudência desta Corte, uma vez que, a despeito de a pena aplicada ao paciente permitir a aplicação do regime semiaberto, a reincidência constitui fator legal para a fixação do regime mais gravoso. Nesse sentido: HC 363.531/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 04/10/2016; HC 299.215/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 28/09/2016; HC 358.927/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 01/09/2016.
+Sobre a detração, respectiva matéria não foi apreciada pelo Tribunal de origem, de modo que não cabe a esta Corte analisá-la, sob pena de indevida supressão de instância.
+Além disso, " c onforme jurisprudência dominante do STJ, o abatimento do tempo de prisão provisória do total da condenação (art. 42, do CP) é medida que compete ao juízo das execuções penais, a quem será levada a questão após o trânsito em julgado do processo de conhecimento" (AgRg no AREsp 1247250/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/12/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
