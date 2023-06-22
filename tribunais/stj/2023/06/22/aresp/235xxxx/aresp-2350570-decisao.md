@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VALE VERDE EMPREENDIMENTOS AGRÍCOLAS LTDA. (EM RECUPERACAO JUDICIAL) contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0003236-57.2007.8.20.0106) assim ementado (fl. 231):
+CIVIL E PROCESSO CIVIL. AÇÃO DE EXECUÇÃO. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO. PRESCRIÇÃO INTERCORRENTE CARACTERIZADA. AUSÊNCIA DE CITAÇÃO VÁLIDA. INOCORRÊNCIA DE SUSPENSÃO OU INTERRUPÇÃO APTAS A SEREM APLICADAS SUFICIENTEMENTE AO CASO, QUANDO INEXISTENTE POSTERIOR CITAÇÃO. LAPSO TEMPORAL DE MAIS DE 10 (DEZ) ANOS DESDE O AJUIZAMENTO DA AÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE DE JUSTIÇA. CONHECIMENTO E IMPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados (fls. 271-278).
+No recurso especial, a parte recorrente  aponta violação dos arts. 11, 489 e 1.022, I, II e III, parágrafo único, II, do Código de Processo Civil, 18 da Lei n. 5.474/1968 e 617 do CPC de 1973.
+Defende, em síntese, o seguinte:
+a) "os embargos restaram rejeitados sem que fossem enfrentados os argumentos do recurso, imprescindíveis para o deslinde da controvérsia" (fl. 292);
+b) a ação executiva foi proposta dentro do prazo trienal e o art. 617 do CPC de 1973 "previa que com "a propositura da execução, deferida pelo juiz, interrompe a prescrição, mas a citação do devedor deve ser feita com observância do disposto no art. 219"" (fl. 293); e
+c) a "prescrição não se aplica no presente caso, isso porque, o recorrente realizou todas as medidas cabíveis para viabilizar a citação da empresa ré" (fl. 294).
+Requer  o  conhecimento  e  o  provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o Tribunal de origem analisou as questões deduzidas e assim decidiu (fls. 233-236):
+Da análise dos autos, os títulos juntados aos autos têm vencimento em março de 2007 (Id. 4008423, pág. 16/24) e ação de execução foi ajuizada em agosto do mesmo ano (Id. 4008423, pág. 26).
+Com isso, num primeiro momento, o ingresso da ação obedeceu ao prazo prescricional, nisso não há dúvidas.
+Porém, no decorrer do processo, como salientado pelo juízo de direito de primeiro grau, sucessivos pedidos de suspensão do processo e outras diligências foram solicitadas e deferidas ao apelante, que logrou citar a sucessora da apelada apenas em junho de 2019, conforme certidão de Id. 4008446, pág. 01.
+ ..
+Logo, incumbia à apelante adotar as providências necessárias para viabilizar a citação, nos termos do art. 240, § 2º, c/c art. 802, ambos do Código de Processo Civil, a fim de suspender ou interromper a prescrição:
+ ..
+Tem-se, portanto: 1) ausência de culpa exclusiva ao Judiciário; 2) menção nos autos do falecimento da executada, sem que esta tenha sido anteriormente citada e angularizada a relação processual; 3) a apelante não se desincumbiu do ônus processual de promover a citação da herdeira, à tempo, o que só ocorreu em junho de 2019; e 4) apesar de regulamente intimada a apelante para regularizar a angularização do processo com a citação da executada, tal fato perfectibilizou-se, apenas, em mais de 10 (dez) anos do ajuizamento da ação.
+No que se refere à alegada violação dos arts. 11, 489 e 1.022, I, II e III, parágrafo único, II, do Código de Processo Civil (item a), não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Quanto à alegada violação dos arts. art. 18 da Lei n. 5.474/1968 e 617 do CPC de 1973 (itens b e c), o Tribunal a quo concluiu que, apesar da ação executiva ter sido proposta em agosto de 2007, a recorrente "logrou citar a sucessora da apelada apenas em junho de 2019" (fl. 233) e que "incumbia à apelante adotar as providências necessárias para viabilizar a citação  ..  a fim de suspender ou interromper a prescrição" (fl. 234), porque, apesar de regulamente intimada para regularizar "a angularização do processo com a citação da executada, tal fato perfectibilizou-se, apenas, em mais de 10 (dez) anos do ajuizamento da ação (fl. 236).
+Dessa forma, a adoção de conclusões diversas das assentadas pelo acórdão recorrido demandaria o revolvimento do quadro fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. PRESCRIÇÃO. OCORRÊNCIA. INTERRUPÇÃO. AFRONTA AO ART. 240, §§ 1º, 2º E 3º, DO CPC. NÃO VERIFICAÇÃO. CITAÇÃO NÃO PERFECTIBILIZADA. RETROATIVIDADE. IMPOSSIBILIDADE. DESÍDIA DO CREDOR. AVERIGUAÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. NÃO PROVIMENTO.
+1. A reanálise do entendimento de que inviável a interrupção da prescrição por ausência de citação no prazo legal, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n.º 83 do STJ, no sentido de que não se dando a citação no prazo legal, por desídia da parte credora, não cabe a interrupção da prescrição com efeitos retroativos à data da propositura da ação.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.959.427/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL C/C PEDIDO DE REPETIÇÃO DE INDÉBITO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante iterativa jurisprudência desta Corte Superior de Justiça, as ações propostas pelo devedor que importem em impugnação ao crédito são aptas a interromper a prescrição. Incidência da Súmula 83 do STJ. Precedentes.
+2. Para alterar as conclusões contidas no decisum, no sentido de aferir a ocorrência da prescrição no caso concreto, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.895.909/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/10/2021, DJe de 21/10/2021.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, deixo de majorar, em favor da parte ora recorrida, os honorários de sucumbência, diante da ausência de fixação pel a instância de origem.
+Publique-se.  Intimem-se.
