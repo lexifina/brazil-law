@@ -1,0 +1,13 @@
+DECISÃO
+CLAUDIO DOS SANTOS DUARTE JUNIOR alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 5120399-89.2022.8.24.002.
+A defesa postula, em liminar, a suspensão da decisão que determinou o início do cumprimento de pena em regime semiaberto. No mérito, requer seja concedida a ordem para alterar o regime inicial de cumprimento de pena para o aberto.
+Decido.
+O requerente foi condenado em pri meiro grau à pena de 2 anos, 5 meses e 4 dias de reclusão, em regime inicialmente semiaberto, pela prática do crime previsto no art. 157 c/c o art. 14, II, ambos do Código Penal. Em relação ao regime, o Juízo a quo assim se manifestou: "Ante a quantidade da pena aplicada, a primariedade técnica do acusado e a existência de circunstância judicial desfavorável, fixo o regime inicial semiaberto (artigo 33 do Código Penal)" (fl. 209, grifei).
+O Tribunal estadual manteve o regime semiaberto, in verbis: "O regime continua sendo o semiaberto, diante da presença de circunstância desfavorável, o que, somado ao emprego de grave ameaça, veda a substituição da sanção corporal por penas restritivas de direitos e a suspensão condicional da pena" (fl. 48, destaquei).
+Infere-se do trecho transcrito que a pena-base foi fixada acima do mínimo legal em virtude da presença de circunstância judicial desfavorável.
+Nesse contexto, observo que a decisão da Corte de origem está em consonância com o art. 33, § 3º, do Código Penal, que estabelece que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+A jurisprudência desta Corte é firme em legitimar a fixação do regime prisional semiaberto quando as circunstâncias judiciais não são integralmente favoráveis ao acusado, ainda que a sanção seja fixada em patamar inferior a 4 anos.
+Exemplificativamente: "A pena-base foi aplicada acima do mínimo, diante da presença dos maus antecedentes do agravante, o que justifica, adequadamente, o regime prisional semiaberto" (AgRg no AREsp n. 1.758.292/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/12/2020); "Quanto ao regime prisional, estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (HC n. 613.453/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/11/2020).
+À vista do exposto, inexiste ilegalidade a ser sanada.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
