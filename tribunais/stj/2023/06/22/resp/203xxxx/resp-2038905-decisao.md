@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça mineiro nos Embargos Infringentes na Apelação Criminal n. 1.0363.19.002238-6/002 (fls. 520/525):
+EMBARGOS INFRINGENTES - TRÁFICO DE DROGAS - RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DO ARTIGO 33, § 4º, DA LEI 11.343/06 - NECESSIDADE. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE POR RESTRITIVAS DE DIREITOS - VIABILIDADE. EMBARGOS INFRINGENTES ACOLHIDOS. Tratando-se de agente primário, de bons antecedentes e que não se dedica às atividades criminosas nem integre organização criminosa, deve ser reconhecida a causa de diminuição de pena prevista no § 4º, do art. 33, da Lei 11.343/06.
+Opostos embargos de declaração (fls. 528/537), foram rejeitados (fls. 542/546):
+EMBARGOS DE DECLARAÇÃO CRIMINAL - INEXISTÊNCIA DA ALEGADA OBSCURIDADE OU OMISSÃO - EMBARGOS DE DECLARAÇÃO REJEITADOS. Não se admite, em sede de embargos declaratórios, o reexame das teses anteriormente levantadas e satisfatoriamente debatidas na decisão vergastada, vez que os embargos não têm o condão de fazer com que o recurso interposto satisfaça as expectativas da parte vencida.
+No recurso especial, é indicada a violação dos arts. 33, caput e § 4º, e 42, ambos da Lei n. 11.343/2006.
+Expõe o recorrente que a Câmara Criminal aplicou na 3ª fase da dosimetria da pena a causa de diminuição do privilégio no tráfico aos ora recorridos, porém desconsiderou elementos de prova que impedem a incidência da benesse do art. 33, § 4º, da Lei n. 11.343/2006, qual seja, a dedicação dos réus a atividades criminosas (fl. 553).
+Ao final da peça recursal, o Ministério Público de Minas Gerais pugna: pelo conhecimento do presente recurso especial, já que atendidos todos os pressupostos de admissibilidade aplicáveis, sendo a via adequada para enfrentamento da violação arts. 33, caput e § 4º, e 42, ambos da Lei n. 11.343/2006, e art. 489, § 1º, VI, do CPC; pelo provimento do presente recurso, para que seja reformado o acórdão proferido pela Corte de origem, restabelecendo-se a vigência dos dispositivos legais mencionados, para que seja decotada a minorante do § 4º do art. 33 da Lei n. 11.343/2006 concedida aos recorridos, aplicando-se, destarte, as consequências legais cabíveis à espécie, com fixação da reprimenda e regime nos moldes da bem lançada sentença primeva (fl. 559).
+Oferecidas contrarrazões (fls. 563/566 e 569/574), o recurso especial foi admitido na origem (fls. 576/579).
+O Ministério Público Federal opina pelo não conhecimento da insurgência (fls. 591/596):
+PENAL e PROCESSUAL PENAL. REsp. Tráfico de drogas. Pedido de afastamento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006. Necessidade de revolvimento do acervo fático-probatório dos autos. Óbice da Súmula 7/STJ. Não conhecimento do recurso especial.
+É o relatório.
+Razão não assiste ao recorrente.
+Ao reconhecer o privilégio, assim se manifestou a Corte mineira (fls. 522/523 - grifo nosso):
+ .. , a defesa pretende resgatar o voto minoritário, que reconheceu em favor dos embargantes Matheus e Cláudio a causa de diminuição de pena prevista no § 4º, do art. 33, da Lei 11.343/06, aplicou a fração de redução de 2/3 (dois terços), abrandou o regime prisional e substituiu as penas privativas de liberdade por restritivas de direitos.
+E, a meu ver, a pretensão dos embargantes deve ser acolhida.
+Isto porque, conforme consignou o d. Relator no voto minoritário, Matheus e Cláudio são primários e possuidores de bons antecedentes (CACS de fls. 104 e 105) e não há nos autos provas de que se dediquem a atividade criminosa ou integrem organização criminosa.
+Ressalte-se que, embora conste notícias de que os embargados estavam envolvidos com o tráfico de drogas antes dos fatos aqui discutidos, tais notícias não foram comprovadas nos autos, não tendo sido evidenciadas pelas provas colhidas nas duas fases de persecução penal.
+Verifica-se, ademais, que a fração de redução de 2/3 (dois) terços foi escolhida levando-se em consideração o disposto no artigo 42 da Lei 11.343/06, visto que as circunstâncias judiciais foram favoráveis e a quantidade de drogas apreendidas não foi exacerbada, tratando-se da apreensão de 4,15g (quatro gramas e quinze centigramas) de maconha, 0,60g (sessenta centigramas) de Skank e outra porção de 3,82g (três gramas e oitenta e dois gramas) de maconha.
+ ..
+Inviável a desconstituição do quanto aferido pelo Tribunal de origem, ante a necessidade de incursão na seara fático-probatória, vedada na via eleita por conta do óbice da Súmula 7/STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. PLEITO DE DECOTE DESSA MINORANTE. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. No caso dos autos, o colegiado estadual, respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, entendeu que inexistiam nos autos provas que demonstrassem a dedicação dos agravados a atividades criminosas ou de que integrassem organização criminosa e, tendo em vista a quantidade de drogas apreendida, fixou a minorante na fração de 1/6.
+2. Nesse contexto, para que fosse possível a análise da pretensão recursal de decote dessa minorante, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 683.282/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/3/2021 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. CONDENAÇÕES ANTERIORES. ART. 157, § 2.º, INCISO II, C.C. O ART. 14, INCISO II, DO CÓDIGO PENAL E ART. 12 DA LEI N. 6.368/1976. EXTINÇÃO DA PUNIBILIDADE MAIS DE 10 (DEZ) ANOS ANTES DO NOVO FATO DELITUOSO. DIREITO AO ESQUECIMENTO. PRECEDENTES. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. PLEITOS PELO RECRUDESCIMENTO DO REGIME PRISIONAL E AFASTAMENTO DA SUBSTITUIÇÃO DA REPRIMENDA CORPORAL POR RESTRITIVAS DE DIREITOS. MANTIDO O QUANTUM DA PENA PRIVATIVA DE LIBERDADE, INSUBSISTENTES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. As instâncias ordinárias, soberanas na análise da matéria fática, ao apreciar as circunstâncias do caso concreto, inclusive a quantidade de drogas apreendidas, entenderam que não seria o caso de deixar de aplicar a causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006, mas apenas de fazê-la incidir em patamar diverso do máximo. Assim, para rever a conclusão, no sentido de aferir dedicação a atividades criminosas, seria necessário o reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+8. Agravo regimental desprovido.
+(AgRg no REsp n. 1.875.382/MG, Ministra Laurita Vaz, Sexta Turma, DJe 29/10/2020 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO PRIVILEGIADO DE DROGAS (7,97 G DE MACONHA; E 0,60 G DE SKANK). VIOLAÇÃO DOS ARTS . 33, CAPUT E § 4º, E 42, AMBOS DA LEI N. 11.343/2006. PLEITO DE DECOTE DO RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA. PREENCHIMENTO DOS REQUISITOS AFERIDO PELA CORTE DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO DE ENTENDIMENTO NA VIA ELEITA. ÓBICE DA SÚMULA 7/STJ. JULGADOS DA SEXTA TURMA.
+Recurso especial não conhecido.
