@@ -1,0 +1,67 @@
+DECISÃO
+LUIS HENRIQUE PEREZ (LUIS HENRIQUE) promoveu ação de rito ordinário contra CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI) e BANCO DO BRASIL S.A. (BB), pleiteando a suplementação dos valores pagos a título de aposentadoria privada em função de diferenças salariais reconhecidas como devidas pela Justiça do Trabalho.
+Em primeira instância, a sentença julgou parcialmente procedentes os pedidos iniciais (e-STJ, fls. 850/862 e 897).
+O Tribunal de Justiça do Distrito Federal e dos Territórios deu provimento ao apelo do BB; parcial provimento ao da PREVI e negou provimento ao recurso de LUIS HENRIQUE, nos termos do seguinte sumário:
+APELAÇÃO CIVIL. DIREITO CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. BENEFÍCIO PREVIDENCIÁRIO. PEDIDO DE REVISÃO. BANCO DO BRASIL. PREVI. RELAÇÃO TRABALHISTA. HORAS EXTRAS. INTEGRAÇÃO NO SALÁRIO DE PARTICIPAÇÃO. TEMAS 936, 955 e 1021 DO STJ.
+1. A prescrição quinquenal para o pedido de complementação do benefício previdenciário somente se inicia após reconhecido o direito de o trabalhador receber a verba trabalhista incidente sobre o salário de contribuição. Enunciados 291 e 427 do c. STJ.
+2. O c. Superior Tribunal de Justiça, por meio da sistemática do recurso repetitivo, fixou teses acerca dos pedidos de revisão de benefício previdenciário expostas nos Temas 936, 955 e 1021.
+3. O Patrocinador é parte ilegítima na ação de revisão de benefício. Aos participantes e assistidos em prejuízo abre-se o caminho da ação judicial de reparação contra o ex- empregador.
+4. No item III do Tema 955, o c. STJ modulou os efeitos do julgado, garantido o direito a revisão em favor dos participantes que já tivessem ajuizado a demandas com esse propósito até 8.8.2018, orientado, ainda, que se observe a utilidade da medida conforme as peculiaridades da causa.
+5. Observado o limite temporal, mostra-se cabível a revisão do benefício, sob as condições apontadas no Tema 955, quais sejam: a) a previsão regulamentar (expressa ou implícita) e b) a recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso.
+6. Considerando que o benefício temporário é constituído de verba decorrente de período superavitário, descabe impor a revisão, em razão da própria brevidade do fundo.
+7. Conforme entendimento firmado pelo c. STJ no REsp. 1.312.736, a revisão do benefício previdenciário condiciona-se à prévia recomposição da reserva matemática.
+Desse modo, a obrigação a ser cumprida pelo Ente de previdência complementar somente será exigível após efetuado o respectivo aporte.
+8. Recurso do Banco do Brasil S.A. conhecido e provido. Recursos do Autor e da PREVI conhecidos e não providos (e-STJ, fls. 1.059/1.063).
+Os embargos de declaração interpostos por LUIS HENRIQUE foram rejeitados e os da PREVI foram parcialmente acolhidos (e-STJ, fls. 1.159/1.181).
+Inconformado, LUIS HENRIQUE manifestou recurso especial com base no art. 105, III, alíneas a e c, da CF, sustentando, além de dissídio, a violação dos arts. (1) 17, e 485, VI, ambos do CPC; 1º, 2º, 9º, 18, 19, 21, 32 e 68, todos da Lei Complementar n.º 109/2001; 3º e 6º, ambos da Lei Complementar n.º 108/2001; e 186 e 927, ambos do CC/02; defendendo que, tendo o BB praticado ato ilícito que deu origem à necessidade de recomposição da reserva matemática junto à PREVI, este é parte legítima passiva e deve ser condenado a recompor sua reserva matemática junto à citada entidade fechada de previdência complementar; e (2) 186 e 927, ambos do CC/02, defendendo que, se houvesse recebido as horas extras que lhe eram devidas ao tempo e modo devidos, a PREVI também teria recebido as contribuições sobre tais verbas e, portanto, as contribuições teriam o efeito de majorar tanto o benefício principal do demandante quanto o Benefício Especial Temporário-BET (e-STJ, fls. 1.183/1.203).
+As contrarrazões foram apresentadas.
+O apelo nobre foi admitido pelo TJDFT (e-STJ, fls. 1.461/1.462 ).
+É o relatório.
+DECIDO.
+O apelo nobre não merece acolhimento.
+(1) Da ilegitimidade passiva da patrocinadora
+O acórdão recorrido está em consonância com a jurisprudência atual do STJ quanto à ausência de legitimidade passiva da patrocinadora em demandas, como a presente, voltadas, essencialmente, à revisão de benefício previdenciário complementar.
+Com efeito, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+A propósito, confiram-se precedentes de ambas as Turmas que compõem a Segunda Seção do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO PARA REVISÃO DE BENEFÍCIOS DE PREVIDÊNCIA COMPLEMENTAR EM RAZÃO DO RECONHECIMENTO, PELA JUSTIÇA TRABALHISTA, DE VERBAS INCREMENTADAS AO SALÁRIO DE PARTICIPAÇÃO DO ASSISTIDO. PREVIDÊNCIA COMPLEMENTAR. HORAS EXTRAS. JUSTIÇA LABORAL. ILEGITIMIDADE DA PATROCINADORA.
+1. Ação para revisão de benefícios de previdência complementar em razão do reconhecimento, pela Justiça Trabalhista, de verbas incrementadas ao salário de participação do assistido.
+2. A jurisprudência do STJ é no sentido de que o patrocinador não possui legitimidade passiva para litígios que envolvam participante/ assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma. Precedentes do STJ.
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Agravo interno não provido.
+(REsp 1.967.153/DF, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 12/5/2022 sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. OBRIGAÇÃO DE RECÁLCULO DO BENEFÍCIO CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma."(REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1/8/2018).
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada." Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.942.900/DF, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022 - sem destaque no original)
+(2) Do Benefício Especial Temporário (BET)
+Quanto ao ponto, o Tribunal distrital consignou que
+ ..  No que se refere ao Benefício Especial de Remuneração e Especial Temporário, cumpre observar que tal valor decorre de fundos específicos e não perenes.
+Considerando, de ssa forma, que o benefício temporário é constituído de verba decorrente de período superavitário, de fato, descabe impor que se proceda sua revisão, em razão da própria brevidade do fundo.
+Não existindo mais o fundo, não há como promover a recomposição da reserva, de modo que a solução do presente litígio não estaria respeitando as condicionantes do Tema 955, oriundo do julgamento do REsp 1370191-RJ.
+ ..
+Logo, inviável o acolhimento do pedido de revisão levando em consideração também o Benefício Especial Temporário (BET)  e-STJ, fl. 1.072/1.073 - sem destaques no original  .
+Como se sabe, o STJ já decidiu, em recurso repetitivo, ser vedado o repasse de abono ou vantagens para benefícios de previdência privada em manutenção, notadamente a partir da Lei Complementar n.º 108/2001, a despeito de eventual previsão regulamentar ou estatutária, pois a previdência complementar tem como fundamento a capitalização, por meio da acumulação de reservas, para garantir os futuros benefícios.
+A propósito:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+(REsp 1.425.326/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 28/5/2014, DJe 1º/8/2014)
+Destaca-se, ainda, que a jurisprudência do Superior Tribunal de Justiça entende que no regime de previdência privada não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME - RMNR. CONCESSÃO AOS EMPREGADOS ATIVOS. CONVENÇÃO COLETIVA DE TRABALHO. EXTENSÃO AOS PROVENTOS COMPLEMENTARES. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA.
+1. No regime de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios. Precedentes da Segunda Seção.
+2.  ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.017.916/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/3/2019,DJe 28/3/2019 - sem destaque no original)
+Nesse panorama, conforme ressaltado no acórdão recorrido, tendo em conta o exaurimento do cenário de superávit, o simples aporte de valores para incremento das reservas e em prol exclusivamente de um participante ou assistido não gera o aumento suficiente para o ressurgimento desse benefício, pago de forma transitória e sob condições especiais, o que, ao fim e ao cabo, implica reconhecer a improcedência deste pedido específico, em atenção à necessidade de se preservar o equilíbrio atuarial dos planos de benefícios.
+Inafastável, no caso em tela, a incidência da Súmula n.º 568 do STJ, ao preceituar que O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da PREVI, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. LUIS HENRIQUE. AÇÃO DE REVISÃO DE BENEFÍCIO COMPLEMENTAR. PREVIDÊNCIA PRIVADA FECHADA. HORAS EXTRAS RECONHECIDAS NA JUSTIÇA LABORAL. REFLEXO NO CÁLCULO DO BENEFÍCIO. ILEGITIMIDADE DA PATROCINADORA. BENEFÍCIO ESPECIAL TEMPORÁRIO - BET. AUSÊNCIA DE FONTE DE CUSTEIO. NECESSIDADE DE PRESERVAÇÃO DO EQUILÍBRIO ATUARIAL. PRECEDENTES DO STJ. RECURSO ESPECIAL DESPROVIDO.
