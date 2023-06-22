@@ -1,0 +1,46 @@
+DECISÃO
+Na origem trata-se de mandado de segurança ajuizado por MARLI TEREZINA FANI contra o Prefeito do MUNICÍPIO DE ANITA GARIBALDI/SC, pleiteando a restituição da complementação de aposentadoria concedida pela Portaria 262/2020, anulando-se o Decreto 2.951/2021. Na sentença julgou-se o pedido. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 818,04 (oitocentos e dezoito e quatro centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, contra acórdão com o seguinte resumo de ementa:
+MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO MUNICIPAL - APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL - COMPLEMENTAÇÃO DE VENCIMENTOS - DECISÃO ADMINISTRATIVA DE SUSPENSÃO DO PAGAMENTO - FALTA DE INTIMAÇÃO PARA DEFESA - SERVIDORA QUE IMEDIATAMENTE SE INSURGIU ADMINISTRATIVAMENTE - IMPET RAÇÃO DESTA AÇÃO EM SEGUIDA - AUSÊNCIA EVIDENTE DO DIREITO MATERIAL - FALTA DE LEI ESPECÍFICA E DOS REQUISITOS PARA APOSENTADORIA COM PROVENTOS INTEGRAIS PELO REGIME PRÓPRIO - PARTICULARIDADES QUE PERMITEM A AVALIAÇÃO DA QUESTÃO DE FUNDO - DENEGAÇÃO DA ORDEM RATIFICADA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial deve ser conhecido e provido .
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Aqui, a servidora se aposentou pelo Regime Geral de Previdência Social em abril de 2018 (evento 1,DOC6, fl. 13), mas obteve, em maio de 2020, a complementação dos proventos por meio da Portaria 262/2020(evento 1, DOC6, fl. 14). Em março de 2021 foi editado o Decreto 2.951, o qual, diante de nova orientação jurídica sobre o tema, suspendeu esses pagamentos (evento 1, DOC8). Não há demonstração, no entanto, de que essa revisão do ato administrativo tenha sido precedida de procedimento que garantisse o exercício do contraditório pela impetrante.
+ ..
+Como a servidora se aposentou após a vigência da EC 41/2003, é mesmo imprescindível haver lei municipal autorizando a complementação dos proventos recebidos pelos servidores aposentados pelo INSS, a qual, todavia, não existe no Município de Anita Garibaldi.
+Sob esse ângulo, o Município de Anita Garibaldi não conta com lei específica estabelecendo como sedará o custeio da complementação relativa à diferença havida entre os proventos satisfeitos pelo INSS e aqueles que seriam devidos pelas regras do regime próprio.
+O art. 209, III, a, da Lei Municipal 1.013/1991 apenas assegura a percepção de proventos integrais, deforma genérica, quando cumpridos os requisitos para aposentadoria voluntária por tempo de contribuição, sem mencionar o direito à complementação:
+Art. 209º - O servidor será aposentado:
+(..)
+III - voluntariamente:
+a) após trinta e cinco anos de serviço se homem, e aos trinta, se mulher, com proventos integrais;
+Dessa forma, a falta de lei específica capaz de preservar o caráter contributivo e o equilíbrio financeiro e atuarial do regime previdenciário obsta a complementação pretendida.
+ ..
+E no acórdão de embargos de declaração na origem:
+ ..
+3. Por outro lado, não é possível defender que o art. 2º, parágrafo único, incisos VII, VIII e X, da Lei 9.784/1999 influam aqui. Em momento algum se negou vigência àqueles dispositivos.
+O que houve, na realidade, foi o reconhecimento de que a falta de prévio contraditório não causou prejuízo à defesa da servidora, uma vez que manifestou ciência do ato, provocando, em seguida, nova decisão do Poder Público, além de ingressar com este mandado de segurança, o que trasladou o debate para a esfera judicial, quando se permitiu avaliar que a impetrante manifestamente não tinha direito ao benefício "suspenso".
+ ..
+A situação dos autos é verificável de plano, sem adentrar-se na análise de provas, mas tão somente na revaloração dos fatos que foram descritos no texto do acórdão, merecendo reforma o acórdão recorrido.
+É fato que a cassação do ato que determinou a complementação de aposentadoria da impetrante lhe causou prejuízo, ao contrário do que faz crer o acórdão recorrido.
+E nessas circunstâncias, o Superior Tribunal de Justiça e o Supremo Tribunal Federal (Tema 138/STF) possuem entendimento consolidado de que se, eventualmente, houver possibilidade de revogação ou anulação de ato de efeitos favoráveis aos administrados, é necessário a prévia instauração de procedimento administrativo que propicie contraditório e ampla defesa.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO DO TRIBUNAL DE JUSTIÇA DA BAHIA. REDUÇÃO DA VANTAGEM PESSOAL DE EFICIÊNCIA (VPE). PROCESSO ADMINISTRATIVO. NECESSIDADE DE HAVER CONHECIMENTO PRÉVIO.
+1. Trata-se de Agravo Interno em Recurso Ordinário em Mandado de Segurança provido para determinar à autoridade coatora que se abstenha de alterar o valor da Vantagem Pessoal de Eficiência da recorrente, garantindo a ampla defesa e o contraditório no processo administrativo.
+2. Consoante a Súmula 473/STF, a Administração, com fundamento no seu poder de autotutela, pode anular seus próprios atos, desde que ilegais. Ocorre que, quando tais atos produzem efeitos na esfera de interesses individuais, mostra-se necessária a prévia instauração de processo administrativo, garantindo-se a ampla defesa e o contraditório, nos termos dos arts. 5º, LV, da Constituição Federal, 2º da Lei 9.784/1999 e 35, II, da Lei 8.935/1994.
+3. Pacífica é a jurisprudência desta Corte no sentido de que "a Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido." (AgRg no RMS 30.555/MG, Rel. Min. Og Fernandes, Sexta Turma, DJe de 1º.8.2012).
+4. Deveria a parte ter rebatido os fundamentos determinantes dos julgados apontados como precedentes, com a demonstração de que eles não se aplicam ao caso concreto ou de que há julgados do STJ contemporâneos ou posteriores em sentido diverso. Tal situação caracteriza a ausência de impugnação específica dos fundamentos da decisão recorrida.
+5. Os argumentos expendidos não são suficientes para infirmar as conclusões do decisum, cuja fundamentação é adequada para lhe dar respaldo, tampouco ficou evidenciada a suposta afronta às normas legais enunciadas.
+6. Agravo Interno não provido.
+(AgInt no RMS n. 65.606/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/3/2021, DJe de 6/4/2021.)
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. URP. INCORPORAÇÃO DO REAJUSTE DE 26,05% RECONHECIDA POR SENTENÇA TRABALHISTA. SUPERVENIÊNCIA DE DECISÃO JUDICIAL, EM SEDE DE EXECUÇÃO, EM SENTIDO CONTRÁRIO. POSSIBILIDADE DE SUPRESSÃO DA RUBRICA SEM A NECESSIDADE DE INSTAURAÇÃO DE PRÉVIO PROCEDIMENTO ADMINISTRATIVO. O PRAZO DECADENCIAL PREVISTO NO ART. 54 DA LEI 9.784/99, QUANTO AOS ATOS ADMINISTRATIVOS ANTERIORES À SUA PROMULGAÇÃO, INICIA-SE A PARTIR DA DATA DE SUA ENTRADA EM VIGOR. DECADÊNCIA NÃO CONFIGURADA DO ATO ADMINISTRATIVO DE REVISÃO. EMBARGOS DO ANDES REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade, eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+3. Não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara e expressa, asseverou que a Corte de origem consignou que a parcela era paga em razão de decisão judicial. Ainda que assim não fosse, o objetivo do Sindicato com tal alegação é buscar o reconhecimento da decadência da Administração em revisar o ato, argumento rechaçado ao fundamento de que o art. 54 da Lei 9.784/1999 não poderia ser aplicado retroativamente para limitar a atuação da Administração com relação à anulação dos atos por ela praticados antes de sua vigência, cujo prazo decadencial previsto no referido artigo somente pode ser contado a partir da entrada em vigor daquele diploma legal.
+4. Embargos de Declaração do ANDES rejeitados.
+(EDcl no AgInt no AREsp n. 169.867/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/9/2017, DJe de 9/10/2017.)
+No caso dos autos, o Tribunal afirma que o contraditório somente ocorreu com o ajuizamento do presente mandamus, além do fato de que o ato concessivo da vantagem possui amparo no art. 209, III, a, da Lei Municipal 1.013/1991, conforme texto expresso do acórdão que, de forma aparentemente contraditória, concluiu pela denegação da segurança.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, para anular os atos de anulação da cessação da complementação da aposentadoria da impetrante, facultando ao ente público municipal a abertura de procedimento administrativo, assegurado o contraditório e ampla defesa.
+Publique-se. Intimem-se.
