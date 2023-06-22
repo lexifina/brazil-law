@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS ITAMAR NUNES DA ROCHA, contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino, em que não conheceu do agravo em recurso especial (fls. 831-835).
+A parte embargantes alega que "conforme se demonstra nas razões recursais inseridas no referido agravo, se verifica o atendimento de tal pressuposto de admissibilidade, cujo entendimento contrário, com a mais alta vênia, incide a omissão, contradição e erro material, razão para conhecimento e provimento destes aclaratórios, como medida de inteira justiça e prestação jurisdicional plena."(fl. 832):
+Sustenta, por fim, que "Os entendimentos exarados em sede de recurso especial e respectivo agravo, com a merecida vênia, não merecem prosperar porquanto não é objeto do especial o "revolvimento do conjunto fático-probatório dos autos", mas sim a nulidade do julgamento e por conseqüência do acórdão recorrido, tendo em vista os seguintes aspectos, os quais foram exaustivamente contemplados nas razões recursais." (fls. 839-840)
+Foram apresentadas impugnações - fls. 865-868.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Os embargos de declaração opostos não merecem acolhimento.
+A decisão embargada consignou que (fl. 1.531):
+Com efeito, o recurso especial foi inadmitido em razão de que, em sede de recurso especial, não se admite discussão acerca da ofensa a resoluções, portarias, circulares, súmulas, regimento interno e regulamentos, bem como da incidência das Súmulas N. 07/STJ e 280/STF.
+A parte agravante, no entanto, limitou-se a alegar que não há falar em reexame do conjunto fático-probatório dos autos. Reitera, ainda, as razões expendidas no bojo do recurso especial. (fl. 832)
+Verifica-se que a parte agravante não rebateu especificamente os referidos fundamentos da decisão ora agravada.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Além disso, p ara que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa. A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
