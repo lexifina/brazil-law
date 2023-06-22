@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DIEGO DE OLIVEIRA DIAS apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás (Apelação Criminal n. 0069633-71.2019.8.09.0175).
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 16, III, da Lei n. 10.826/2003, à pena de 5 (cinco) anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 10 (dez) dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade (e-STJ fls. 22/41).
+Irresignada, a defesa do ora paciente interpôs recurso de apelação no Tribunal de origem, que lhe deu parcial provimento, "a fim de abrandar a sua pena, para 3 (três) anos e 6 (seis) meses de reclusão, e 10 (dez) dias-multa, e alterar o regime inicial para o modo semiaberto, mantida a denegação do direito de recorrer em liberdade, com determinação de expedição da guia de execução penal provisória retificadora, a fim de que a sua prisão preventiva seja adequada ao artigo 35 do Código Penal" (e-STJ fl. 20).
+No presente writ, a defesa afirma que o paciente está sendo submetido à constrangimento ilegal, "consistente no fato de ter sido preso por força de decisão exarada na sentença penal condenatória, mesmo tendo permanecido em liberdade durante toda a instrução processual e, ainda, submetido à pena privativa de liberdade a ser expiada em regime semiaberto" (e-STJ fl. 3).
+Alega que "a decisão que manteve a prisão preventiva do paciente, a um só momento, (i) viola a contemporaneidade entre a prisão e os motivos ensejadores, (ii) viola o princípio da homogeneidade que deve existir entre a medida cautelar, a pena e o regime efetivamente fixados contra o paciente e, ainda, (iii) viola o princípio da motivação das decisões judiciais na medida em que foram acrescidos motivos à manutenção da prisão não expressamente contidos na decisão proferida pelo juízo de piso, em clara e manifesta reformatio in pejus realizada em recurso exclusivo da defesa" (e-STJ fl. 6).
+Acrescenta que "a autoridade coatora complementou os motivos apresentados pelo juízo de piso à decretação da prisão preventiva, operando reformatio in pejus na medida em que, conforme demonstrado, tratava-se de recurso exclusivo da defesa. No caso em comento, enquanto o juízo de piso tivesse decretado a prisão do paciente ao argumento de tratar-se de pessoa reincidente, a autoridade coatora, extrapolando os limites impostos pelo juízo devolutivo próprio do recurso de apelação, indicou a existência de "alto risco de reiteração delitiva, haja vista que o segundo apelante (o paciente, acresceu-se) já cometeu delito equiparável a hediondo"" (e-STJ fl. 9).
+Por isso, requer, liminarmente, "que a prisão preventiva resulte substituída por cautelares diversas, expedindo-se alvará de soltura e determinando-se o recolhimento da guia de cumprimento provisório de pena expedida em desfavor do paciente", e, no mérito, a sua revogação (e-STJ fl. 11).
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente inconformismo.
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso, porque as informações extraídas do endereço eletrônico do Tribunal de Justiça noticiaram o trânsito em julgado da condenação, certificado em 21/5/2023.
+Assim, patente que o presente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
