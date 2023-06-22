@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO LUIZ CORREA SANT"ANNA contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, apresentado em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Revisão Criminal n. 0051408-69.2019.8.26.0000.
+Consta nos autos que o Agravante foi condenado como incurso no art. 155, § 4.º, incisos I e IV, do Código Penal, às penas de 6 (seis) anos de reclusão, em regime inicial fechado, e 30 (trinta) dias-multa.
+Transitado em julgado o acórdão apelatório, a Defesa ajuizou revisão criminal no Tribunal de origem, que foi julgada improcedente (fls. 50-65).
+Nas razões do recurso especial, alega-se violação do art. 59 do Código Penal, sob o argumento de que o fato de a vítima ser instituição financeira, por si só, não constitui fundamento válido para a majoração da pena-base.
+O recurso especial foi inadmitido pelo Tribunal de origem diante dos óbices previstos nas Súmulas n. 7 e 182 desta Corte Superior (fls. 84-85).
+O Ministério Público Federal opinou pelo não conhecimento ou desprovimento do recurso especial (fls. 119-123).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, razão pela qual passo à análise do recurso especial.
+No que interessa, transcrevo os fundamentos do acórdão recorrido:
+"Contudo, com a devida venia, a douta maioria indeferiu o pedido revisional, divergindo do eminente Relator sorteado somente quanto à dosimetria penal e quanto ao regime prisional fixado.
+A maioria entendeu corretos as penas e o regime prisional impostos pelo Magistrado de primeiro grau e mantidos por ocasião do recurso de apelação, fundamentados nos seguintes termos:
+ ..  bem sopesados os elementos norteadores do artigo 59, do Código Penal, utilizo uma das qualificadoras para fixar a pena base e a outra para majorá-la. Cumpre reconhecer, ainda, a ocorrência de significativo prejuízo na espécie, pois foi subtraído grande quantia de dinheiro, R$ 77.310,00 (setenta e sete mil e trezentos e dez reais). A circunstância de uma das vítimas ser um banco é outro fator que aumenta a culpabilidade dos réus, pois o delito abala o sistema financeiro e, por conseguinte, toda a sociedade. As consequências do delito, uma vez que os bens não foram recuperados, a extrema exposição a perigo da incolumidade pública, pois o crime foi praticado mediante utilização de explosivos em um posto de gasolina, bem como a audácia e destemor dos réus, que praticaram o delito na via pública principal da cidade, a poucos metros da sede da Polícia Federal e da Guarda Civil Metropolitana, também são fatores que aumentam a culpabilidade, pois tornam sua conduta mais reprovável.
+ ..
+Destarte, verifica-se que o montante da pena fixada e o regime prisional mais gravoso apresentam-se proporcionais à gravidade concreta da conduta praticada pelo peticionário." (fls. 63-65 - sem grifos no original).
+Como se sabe, a revisão criminal somente é cabível nas hipóteses taxativamente previstas no art. 621 do Código de Processo Penal, não se prestando para simples rediscussão de aspectos já decididos na ação penal e alcançados pela coisa julgada. Por essa razão, a jurisprudência desta Corte Superior orienta no sentido de que, "em relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade." (AgRg no REsp n. 1.805.996/SP, Ministro RIBEIRO DANTAS, Quinta Turma, DJe 29/3/2021).
+No caso, a instância ordinária demonstrou concretamente a especial culpabilidade do agente. Com efeito, o Recorrente optou por cometer o delito em face de instituição financeira, o que revela maior ousadia e destemor na empreitada criminosa, bem como tem efeitos reflexos sobre todo o sistema financeiro nacional, em prejuízo da coletividade.
+De fato, os elementos apontadas no acórdão estadual não são simples considerações abstratas, mas cir cunstâncias concretas do caso e não inerentes ao tipo penal, aptos a demonstrar a maior censurabilidade da conduta individualizada do Recorrente, motivo pelo qual não se constata nenhuma ilegalidade flagrante na majoração da pena-base.
+Nesse sentido, mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OBTENÇÃO FRAUDULENTA DE FINANCIAMENTO. PENA-BASE. EXASPERAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena somente é passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+2. Na sentença, mantida pelo Tribunal de origem, foram observadas as circunstâncias relacionadas no art. 59 do Código Penal e analisadas de forma desfavorável a culpabilidade e as consequências do crime com lastro em dados concretos dos autos, não inerentes ao tipo penal, o que justifica a mais severa individualização da pena.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 697.300/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/03/2022, DJe 28/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. POSSE ILEGAL DE ARMA DE FOGO. JULGAMENTO MONOCRÁTICO. SÚMULA N.º 568/STJ. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. REINCIDÊNCIA. AUSÊNCIA DE BIS IN IDEM. INSTITUTO PENAL PLENAMENTE COMPATÍVEL COM A ORDEM JURÍDICO-CONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há nenhum impedimento para a análise monocrática do recurso especial quando há entendimento dominante acerca do tema no Superior Tribunal de Justiça. Este procedimento está amparado na legislação processual pátria e é ratificado pelo Enunciado Sumular n.º 568 desta Corte Superior.
+2. Não há ofensa ao art. 59 do Código Penal se as instâncias ordinárias majoram a pena-base com amparo em fundamentos concretos, não inerentes ao tipo penal abstrato, e que demonstram a maior censurabilidade da conduta. No caso, o fato de o armamento ilícito destinar-se especificamente à prática de inúmeras outras condutas delitivas autoriza a exasperação da sanção.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp 1.760.185/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/03/2019, DJe 23/04/2019; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. PENA-BASE. VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIA JUDICIAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
