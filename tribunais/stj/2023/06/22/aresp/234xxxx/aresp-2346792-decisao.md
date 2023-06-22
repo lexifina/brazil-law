@@ -1,0 +1,32 @@
+DECISÃO
+LUCAS VINICIUS MACIEL agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação Criminal n. 0001616-49.2017.8.16.0145.
+Consta dos autos que o ora agravante foi condenado pela prática do crimes previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 33 e 28 da Lei de Drogas e requer, em síntese, que a conduta imputada ao réu seja desclassificada para o delito descrito no art. 28, § 2º, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Tribunal de origem concluiu que ficou devidamente caracterizado o tráfico de drogas com base nos seguintes argumentos (fls. 444-453, destaquei ):
+Em que pesem os argumentos da defesa, não há como se acolher a pretensão absolutória ou desclassificatória, pois é hígido e suficiente o conjunto probatório produzido a fim de demonstrar que ele efetivamente praticou o delito de tráfico.
+Em juízo, os policiais militares Ilson e Silvio foram firmes e coerentes no sentido de que havia diversas denúncias de que o recorrente estaria praticando o tráfico de drogas na sua residência e, em razão disso, deslocaram-se até o local e avistaram o usuário Cristiano trocando alguma coisa com o réu, sendo ele abordado quando saiu da residência e com ele encontrada uma porção de maconha, que alegou ter adquirido para o consumo pessoal.
+Contaram que, diante disso, foram até a residência do recorrente e localizaram com ele 11 gramas de maconha, dividida em três porções, uma balança de precisão e R$ 124,00 em espécie, ressaltando, ademais, que Thaís, esposa do recorrente, confirmou que ele estaria comercializando a droga
+ ..
+E não obstante o usuário Cristiano e Thaís, esposa do réu, tenham alterado suas versões em juízo, na delegacia, ou seja, no calor dos fatos e sem terem tempo de combinarem as versões ,apresentaram versões que convergem com os depoimentos dos policiais.
+Com efeito, na delegacia Thais contou que suspeitava que seu esposo estava traficando, pois percebeu grande movimentação de pessoas na casa durante a noite toda, sendo que ele ia até o portão atender a pessoa e logo retornava para casa. Falou, ademais, que quando indagava o recorrente ele negava, mas que mesmo assim o advertia, veja:
+ ..
+O usuário Cristiano afirmou expressamente na delegacia que comprou a droga apreendida do réu, veja:
+ ..
+Desse modo, analisando o conjunto probatório como um todo, não há como se acolher o pleito absolutório ou desclassificatório.
+ ..
+Ainda, é certo que embora haja pequenas divergências nos depoimentos prestados pelos agentes policiais, o que é plenamente compreensível já que a abordagem de criminosos é atividade cotidiana, além do lapso temporal decorrido entre a data dos fatos e suas oitivas em juízo, fato é que, ao contrário do entendimento do recorrente, as provas produzidas no inquérito foram ratificadas em juízo pelos policiais militares, que asseguraram com firmeza terem encontrado 03 porções de maconha, dinheiro trocado e balança na posse do recorrente para fins de tráfico.
+ ..
+Nesse quadro, as declarações prestadas na fase inquisitorial por Cristiano e Thaís é prova suficiente a fundamentar a sua responsabilização pelo delito de tráfico de drogas, sobretudo porque corroborada pelos depoimentos prestados pelos policiais militares em juízo.
+ ..
+Logo, não há como se acolher a pretensão do recorrente, pois os depoimentos prestados pelos policiais responsáveis pela apreensão foram harmônicos e consistentes ao afirmarem que havia denúncias de que o recorrente estava traficando, bem como que o usuário afirmou ter adquirido a droga do réu. Note-se que o tráfico ilícito de drogas muitas vezes se caracteriza pelas circunstâncias e características do ato, uma vez que muitas vezes não há vítimas diretas. Outrossim, não há necessidade de flagrância de ato de mercancia das substâncias entorpecentes, quando as circunstâncias demonstram a intenção de destinação a terceiros.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença e do acórdão recorrido, verifico que a Corte estadual, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Ademais, esclareço que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Por fim, esclareço que, para entender-se pela desclassificação da conduta para o delito descrito no art. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+À vista do exposto, con heço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
