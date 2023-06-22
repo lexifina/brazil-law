@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SERGIO ALBERTO PADILHA BETTIO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 283/284, in verbis:
+Trata-se de agravo em recurso especial interposto à base do artigo 105, inciso III, alínea a, da CF/88 contra aresto (e-STJ, fls. 191/204) do Tribunal de Justiça do Estado de São Paulo que desproveu apelação defensiva para manter condenação de SERGIO ALBERTO PADILHA BETTIO a penas definitivas de 2 anos e 8 meses de reclusão sob regime aberto, substituída por penas restritivas de direitos, e 12 dias-multa, por prática de crime tipificado no artigo 155, §§3º e 4º, II, do CP, com esta ementa (e-STJ, fl. 192):
+"PRELIMINAR insignificância inocorrência alto valor da res e expressivo valor da conduta afastamento. FURTO QUALIFICADO materialidade alteração no relógio de energia que caracteriza o delito de furto qualificado prova oral e laudos periciais que comprovam tal fato. FURTO QUALIFICADO autoria réu que apresentou versão isolada no caso dos autos e que não merece acolhimento de mais testemunhas que comprovam a adulteração no relógio e a prática delitiva que o réu tinha conhecimento validade dos depoimentos dos policiais que confirmaram a autoria do acusado. PENAS base acima do mínimo maus antecedentes demais fases ausentes circunstâncias modificadoras da pena continuidade delitiva aumento mantença reprimenda mantida. REGIME aberto substituição por restritiva de direitos - mantença improvimento ao recurso".
+A diligente defesa interpôs recurso especial sustentando contrariedade aos artigos 155, §§3º e 4º, e 71 do CP por não ter sido reconhecido o furto de energia como crime permanente (sic, e-STJ, fls.223/236). Houve contrarrazões ministeriais (e- STJ, fls. 240/245).
+Inadmitido na origem por ausência de prequestionamento (e- STJ, fls. 248/249), adveio agravo legal (e-STJ, fls. 252/262), contraminutado (e-STJ, fls. 265/270), apôs-se neste instância certidão cartorária "com fé pública" de "vista pessoal legal" ministerial "para parecer" em 04/05/2023 (e-STJ, fl. 282).
+Ao final, o Parquet opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial. No entanto, ao fazê-lo, verifico que de fato o recurso especial não comporta conhecimento, haja vista a ausência de prequestionamento da matéria deduzida nas razões do apelo nobre.
+Com efeito, na dosimetria da pena realizada pelo Tribunal a quo, assim se consignou (e-STJ fl. 204):
+Da dosimetria da pena.
+Na primeira fase, mantem-se a pena base fixada acima do mínimo legal em um sexto em virtude dos maus antecedentes ostentados pelo réu (folhas 133). Como já exposto acima, por se tratar de crime de contravenção penal, ele não é apto a caracterizar reincidência, devendo ser valorado nesta fase. Assim, a pena base do réu será fixada em 2 ano e 4 meses de reclusão e 11 dias-multa.
+Na segunda e terceira fases da dosimetria, não há circunstâncias a serem consideradas.
+Por fim, reconhecida a continuidade delitiva, uma vez que o delito foi cometido entre os meses de dezembro de 2019 e janeiro de 2021, ou seja, por mais de 1 ano, a r. sentença acertadamente exasperou as penas do acusado em um sexto, estabelecendo-as finalmente em 2 anos, 8 meses e 20 dias de reclusão, além do pagamento de 12 dias-multa.
+A r. sentença substituiu a pena carcerária, não havendo que se falar em modificação. Nos termos do artigo 44 e seguintes do Código Penal, substituiu-se a pena privativa por prestação de serviços à comunidade, pelo mesmo prazo da pena restritiva de liberdade, e por outra pena de prestação pecuniária no valor de 3 salários-mínimos, devendo iniciar o cumprimento da pena no regime aberto, no caso de revogação do benefício. (Grifei.)
+Verifica-se, portanto, da leitura do excerto acima transcrito, que a tese deduzida no recurso especial - o eventual caráter permanente do delito de furto de energia elétrica - não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento.
+Destarte, no ponto, tem incidênci a a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2017, DJe 17/3/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
