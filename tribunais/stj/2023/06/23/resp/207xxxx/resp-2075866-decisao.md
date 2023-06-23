@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por FUNDACAO CHESF DE ASSISTENCIA E SEGURIDADE SOCIAL FACHESF, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (fls. 373-381 e-STJ), assim ementado:
+APELAÇÃO CÍVEL. RECÁLCULO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA. DECADÊNCIA DO FUNDO DE DIREITO AFASTADA. SUPLEMENTAÇÃO QUE DEVE TER COMO PARÂMETRO O VALOR DA RENDA MENSAL INICIAL CONCEDIDA PELA PREVIDÊNCIA SOCIAL. ITEM 48 DO REGULAMENTO 002 DA FACHESF. PEDIDO SUBSIDIÁRIO DE MAJORAÇÃO DA CONTRIBUIÇÃO ESTATUTÁRIA. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. De início, adiante-se que a alegada decadência do fundo de direito não merece ser acolhida, eis que a Segunda Seção da Corte Cidadã firmou o entendimento segundo o qual somente nas demandas cuja pretensão revisional do benefício de previdência privada tem como pressuposto necessário a anulação do contrato ou transação extrajudicial, por vício de consentimento, é que estão sujeitas ao prazo decadencial de 4 anos, não sendo o caso discutido nos presentes autos.
+2. No que toca ao mérito, a controvérsia reside em aferir se a apelante procedeu de forma devida à implantação da aposentadoria complementar cuja revisão é perseguida na presente ação.
+3. A recorrente alega que o cálculo do benefício de suplementação está em conformidade com os termos do Regulamento 002 e que o valor utilizado como parâmetro é aquele efetivamente pago pelo INSS na data do desligamento do obreiro da Chesf.
+4. In casu, constata-se que o valor percebido do INSS na data do efetivo desligamento do autor, em outubro de 1997, era de R$ 975,93 (fl. 194). Contudo, a apelante considerou, para efeito de desconto do salário real de benefício, o valor de R$ 983,61 (fls. 33), superior àquele, o que nitidamente ocasionou prejuízo ao apelado, visto que teve o valor da sua suplementação de aposentadoria minorado.
+5. Por fim, não merece prosperar o pedido subsidiário de majoração da contribuição estatutária mensal, para o percentual de 3,08%, sobretudo porque aquele vigente à data do cumprimento das exigências para concessão do benefício, era de 2,8% sobre o valor da suplementação, consoante art. 64, II do Regulamento 002.
+6. Recurso improvido.
+Opostos embargos declaratórios (fls. 387-394 e-STJ), restaram desacolhidos na origem (fls. 404-409 e-STJ).
+Nas razões do especial (fls. 411-426 e-STJ), a insurgente alega, além de dissídio jurisprudencial, violação aos artigos 6º e 7º da Lei Complementar n. 108/01 e 18 da Lei Complementar n. 109/01, aduzindo a possibilidade de alteração do percentual de contribuição, não havendo direito adquirido ao regime de custeio.
+Transcorrido o prazo para contrarrazões (fl. 448 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal deve prosperar.
+1. A decisão proferida pela Corte de origem - ao entender pela existência de direito adquirido ao percentual de contribuição vigente à época da implementação dos requisitos para obtenção do benefício - destoa da jurisprudência deste STJ:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PLANO DE BENEFÍCIOS. ALTERAÇÃO. ALÍQUOTAS DE CONTRIBUIÇÃO. MAJORAÇÃO. POSSIBILIDADE. PLANO DE CUSTEIO. DIREITO ADQUIRIDO. NÃO EXISTÊNCIA.
+1. A jurisprudência do STJ reconhece a possibilidade de majoração de alíquotas de contribuição de filiados e assistidos com a finalidade de manter o equilíbrio financeiro e atuarial do plano de benefício definido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.848.021/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA. CARÁTER ESTATUTÁRIO DO PLANO. REAVALIAÇÃO ATUARIAL PERIÓDICA. LÓGICA DO SISTEMA DE CAPITALIZAÇÃO. MAJORAÇÃO DE CONTRIBUIÇÕES. POSSIBILIDADE. BUSCA DO EQUILÍBRIO FINANCEIRO E ATUARIAL DO FUNDO PREVIDENCIÁRIO. RESULTADO DEFICITÁRIO. ÔNUS DE PATROCINADORES, PARTICIPANTES E ASSISTIDOS. MUTUALIDADE.
+1. Pelo regime de capitalização, o benefício de previdência complementar será decorrente do montante de contribuições efetuadas e do resultado de investimentos, podendo haver, no caso de desequilíbrio financeiro e atuarial do fundo, superávit ou déficit, a influenciar os participantes do plano como um todo, já que pelo mutualismo serão beneficiados ou prejudicados, de modo que, nessa última hipótese, terão que arcar com os ônus daí advindos.
+2. É assegurada ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria. Todavia, disso não decorre nenhum direito adquirido a regime de custeio, o qual poderá ser alterado a qualquer momento para manter o equilíbrio atuarial do plano, sempre que ocorrerem situações que o recomendem ou exijam, obedecidos os requisitos legais.
+3. O resultado deficitário nos planos ou nas entidades fechadas será suportado por patrocinadores, participantes e assistidos, devendo o equacionamento ser feito, dentre outras formas, por meio do aumento do valor das contribuições, instituição de contribuição adicional ou redução do valor dos benefícios a conceder, observadas as normas estabelecidas pelo órgão regulador e fiscalizador (art. 21, § 1º, da Lei Complementar nº 109/2001).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 541.301/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2015, DJe de 30/9/2015.)
+Portanto, deve prevalecer o percentual vigente à época do pagamento de cada prestação.
+1.1. Mantida a parcial procedência da demanda, diante da revisão do cálculo do benefício exposta no item (b) do dispositivo da sentença (fl. 311 e-STJ) - no que foi confirmada pela Corte de origem, não tendo o recurso especial tratado desta matéria.
+Considerando que a petição inicial sequer tratava do percentual de contribuição, bem como que não houve contrarrazões aos recursos interpostos pela fundação, não se vislumbra fundamento para redistribuir a sucumbência.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se provimento ao recurso especial, para reconhecer possibilidade de alteração do percentual de contribuição, afastando a redução do desconto ao valor vigente à época da implementação dos requisitos para obtenção do benefício.
+Acolhida a insurgência, não há falar em majoração de honorários (AgInt nos EAREsp 762.075/MT, Corte Especial, DJe 07/03/2019). Descabe, ademais, redistribuição dos ônus sucumbenciais.
+Publique-se.
+Intimem-se.
