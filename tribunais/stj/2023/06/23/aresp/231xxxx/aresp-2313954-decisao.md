@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRUNO DARIO WERNECK contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. TAXA ANUAL DEHECTARE. PRESCRIÇÃO, NULIDADE DA CDA E ILEGITIMIDADE PASSIVA AD CAUSAM. MATÉRIAS JÁ ANALISADAS E AFASTADAS EM JULGAMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECLUSÃO. INEXISTÊNCIA DA DÍVIDA. NÃO COMPROVAÇÃO. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação do art. 135 e 174 do Código Tributário Nacional - CTN, sustentando, em síntese (fls. 875/897):
+Pretende o Recorrente o afastamento da responsabilidade que lhe foi atribuída com fulcro no artigo 135,inciso III do Código Tributário Nacional, pois (i) o ilícito que ensejou a responsabilização pessoal (presunção de dissolução irregular) ocorreu após o seu desligamento da sociedade e (ii) o despacho que determinou o redirecionamento da execução fiscal foi prolatado após o decurso do respectivo prazo prescricional  ..  é importante rememorar que este E. SUPERIOR TRBUNAL DE JUSTIÇA, no julgamento dos Recursos Especiais Repetitivos n.ºs 1.787.156/RS e 1.776.138/RJ (TEMA 962), pacificou o entendimento de que a execução fiscal não pode ser redirecionada ao sócio ou administrador que se retirou antes da dissolução irregular  ..  Com relação à prescrição para o redirecionamento, cinge-se à controvérsia em verificar-se qual seria o dies a quo e a interrupção do respectivo prazo prescricional, sendo que este E. SUPERIOR TRIBUNAL DE JUSTIÇA, no julgamento do Recurso Especial Repetitivo n.º 1.201.993/SP (TEMA 444), pacificou o entendimento de que o prazo da prescrição para o redirecionamento inicia-se com a intimação do exequente acerca da não localização do devedor principal e interrompe-se apenas com o despacho que ordenar o redirecionamento  ..  entre o dies a quo e o marco interruptivo da execução fiscal decorreram 5 ANOS E TRÊS MESES o que é mais do que suficiente para demonstrar-se a prescrição do redirecionamento.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice nas Súmulas 7 e 83 do STJ (fls. 926/927), o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende não ser o caso para observância dos referidos óbices sumulares (fls. 939/962).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Preenchidos os requisitos de admissibilidade, o Agravo em Recurso Especial deve ser conhecido; Não obstante, o recurso especial não pode ser conhecido, pois o delineamento fático descrito no acórdão recorrido revela a ausência de impugnação específica à fundamentação do acórdão recorrido, bem como a inexistência de prequestionamento dos dispositivos legais tidos por violados.
+A propósito, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 817/823):
+Conforme relatado, trata-se de julgar apelação interposta em face de sentença que julgou improcedentes os embargos à execução pelos quais o executado objetivava a declaração de nulidade da CDA que embasa a execução fiscal e a sua consequente extinção, bem como o reconhecimento de inexistência do débito; da prescrição do redirecionamento e a ilegitimidade por ausência de gestão.
+Inicialmente, cumpre ressaltar que o Superior Tribunal de Justiça já firmou o entendimento de que ocorre preclusão consumativa mesmo com relação às matérias de ordem pública, nos casos em que tenha havido a sua devida apreciação judicial, razão pela qual as alegações de nulidade da CDA e de ilegitimidade passiva ad causam, inclusive quanto à alegada dissolução irregular da sociedade executada, não devem ser novamente analisadas em sede de embargos à execução quando já o foram quando da oposição de exceção de pré-executividade pelo executado.
+ ..
+Em 19/11/2018, o Executado, ora Embargante, protocolou exceção de pré-executividade, Evento 101 da Execução Fiscal, na qual alegou: prescrição para o redirecionamento; nulidade da CDA, por ausência de indicação do exercício ou competência do crédito supostamente devido, ausência da indicação da origem e do embasamento jurídico genérico; inexistência do débito; ausência de exercício de poderes de gestão.
+ ..
+O supracitado acórdão transitou em julgado em 15/04/2021.
+A questão da legitimidade do ora Embargante, para responder pelo débito de TAH, na Execução Fiscal, restou definitivamente decidida, não podendo mais ser rediscutida, sob qualquer motivo.
+Outrossim, as matérias decididas na decisão da exceção de pré-executividade - prescrição para o redirecionamento e nulidade da CDA - também são insuscetíveis de rediscussão.
+ ..
+A alegação de reconhecimento, pelo DNPM, da ilegitimidade do Embargante, em outras Execuções Fiscais igualmente não pode ser rediscutida, pois foi o próprio Exequente que interpôs o Agravo de Instrumento em face da decisão na exceção de pré-executividade, não cabendo a este juízo reformar a decisão proferida em sede recursal, que acolheu a pretensão do Exequente, confirmando a legitimidade passiva do ora Embargante.
+Assim, a única matéria, em que pese alegada na exceção de pré-executividade, mas não decidida é a de inexistência do débito
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 861/864).
+Pois bem.
+Como se observa, o órgão julgador a quo não decidiu as questões relacionadas à legitimidade passiva e à prescrição porque já haviam sido objeto de apreciação judicial e, por isso, alcançadas pela preclusão.
+Entretanto, nas razões do especial, a parte recorrente não ataca esse fundamento, limitando-se à tese de violação dos arts. 135 e 174 do CTN.
+Nesse contexto, o conhecimento do recurso encontra óbice nas Súmulas 282 e 283 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO E DE IMPUGNAÇÃO ESPECÍFICA À FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
