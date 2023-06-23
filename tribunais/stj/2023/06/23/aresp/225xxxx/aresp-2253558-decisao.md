@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravos interpostos por MILTON ALVES DE ALMEIDA FILHO E OUTROS contra decisão que inadmitiu os recursos especiais, aviados com arrimo no permissivo constitucional, em face do acórdão assim ementado (e-STJ fl. 1393):
+Ação civil pública. Improbidade administrativa. Violação aos princípios da Administração Pública. Condenação. Dano. Ressarcimento ao erário. Dano moral. Incabível. A ação civil pública deve vir instruída com documentos e indícios suficientes de atode improbidade e quando demonstrada a violação aos princípios que regem a Administração Pública e prejuízo ao erário, existe a necessidade de condenação para reparação. O dano moral em ação civil pública de improbidade apenas se faz presente quando as provas dos autos comprovam efetivo dano à coletividade, que ultrapasse a mera insatisfação com a atividade administrativa. Recurso parcialmente provido.
+No recurso especial obstaculizado, os recorrentes defendem que o acórdão recorrido violou o art. 11 da Lei n. 8.429/1992.
+Sustentam que o elemento subjetivo da conduta não ficou evidenciado.
+Manifestação M inisterial pelo não conhecimento do apelo nobre, à vista da aplicação da Súmula 7 do STJ. (e-STJ fls. 2.222/2.229).
+Passo a decidir.
+No exame da questão, verifico que o Supremo Tribunal Federal, por ocasião do julgamento do Tema 1.199, submetido ao regime da repercussão geral, assentou as seguintes teses:
+1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos atos de improbidade administrativa, exigindo-se - nos artigos 9º, 10 e 11 da LIA - a presença do elemento subjetivo - DOLO;
+2) A norma benéfica da Lei 14.230/2021 - revogação da modalidade culposa do ato de improbidade administrativa -, é IRRETROATIVA, em virtude do artigo 5º, inciso XXXVI, da Constituição Federal, não tendo incidência em relação à eficácia da coisa julgada; nem tampouco durante o processo de execução das penas e seus incidentes;
+3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente; e
+4) O novo regime prescricional previsto na Lei 14.230/2021 é IRRETROATIVO, aplicando-se os novos marcos temporais a partir da publicação da lei. (Grifos acrescidos).
+No presente caso, o Tribunal de origem não externou a sua posição a respeito do elemento subjetivo da conduta dos recorrentes, de modo a considerar verdadeira responsabilidade objetiva, vedada pela jurisprudência da Suprema Corte firmada sob os auspícios da repercussão geral (Tema 1.199), sendo de rigor a baixa dos autos para a definição dessa circunstância, de acordo com o item 3 das teses firmadas pelo STF acima transcritas .
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravos para DAR PROVIMENTO aos recursos especiais, de modo a determinar baixa ao Tribunal de origem para que examine a questão alusiva ao elemento subjetivo da conduta perpetrada pelos recorrentes .
+Publique-se. Intimem-se.
