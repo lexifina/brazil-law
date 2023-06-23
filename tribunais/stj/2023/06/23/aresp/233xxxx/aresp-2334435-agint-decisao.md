@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANTÔNIA EDUARDO contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do RIST, em razão da incidência, por analogia, da Súmula n. 182/STJ (e-STJ fls. 370/372).
+Como a parte agravante impugnou todos os fundamentos da decisão recorrida, reconsidero a decisão de fls. 370/372 (e-STJ), e passo à análise do agravo em recurso especial, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/6/2022.
+Concluso ao gabinete em: 21/6/2023.
+Ação: rescisão contratual cumulada com reintegração de posse ajuizada por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU, em face da agravante.
+Sentença: julgou procedentes os pedidos formulados pela agravada.
+Acórdão: negou provimento à apelação de ANTÔNIA EDUARDO, nos termos da seguinte ementa (e-STJ fls. 242/243):
+CERCEAMENTO DE DEFESA. Tese de nulidade da sentença em função da não realização de audiência de conciliação. Conciliação que pode ser promovida a qualquer tempo. Pretendida nulidade do julgado que requer a identificação em concretude de prejuízo processual. Aplicação do adágio pas de nullité sans grief. Prejuízo não demonstrado. Tese rejeitada.
+PRESCRIÇÃO. Compromisso de compra e venda de bem imóvel. CDHU. Rescisão contratual. Prescrição decenal da lesão não consumada (art. 205 do CC). Preliminar rejeitada.
+RESCISÃO CONTRATUAL C.C. REINTEGRAÇÃO DE POSSE. Contrato habitacional. CDHU. Compromisso de compra e venda. Mora dos promitentes-compradores. Inadimplemento prolongado (169 parcelas). Negócio jurídico que confere concretude ao direito social de moradia a famílias de baixa renda (art. 6º da CF). Restituição das partes ao estado anterior. Indenização da promitente-vendedora pelas perdas e danos experimentados com a ocupação indevida do bem imóvel. Parcelas de valor módico. Hipótese concreta que autoriza a retenção da integralidade dos valores pagos. Inaplicabilidade do art. 53 do CDC. Vedação ao enriquecimento sem causa (art. 884 do CC).
+BENFEITORIAS. Descrição pormenorizada não realizada e ausência de comprovação da real introdução e dispêndio pecuniário. Sentença mantida.
+USUCAPIÃO. Posse ad usucapionem que não pode ser oposta à promitente-vendedora enquanto não saldado o preço do imóvel.
+Sentença mantida. Recurso desprovido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega, além do dissídio jurisprudencial, violação aos artigos 98, 1.200 e 1.242 do CC/2002.
+Sustenta, exclusivamente, que constituindo a " ..  ré como sociedade de economia mista durante todo o tempo em que o autor ocupou o imóvel, com personalidade jurídica eminentemente de direito privado, a ela não se aplica a proteção constitucional insculpida nos arts. 183, § 3º e 191, que veda a usucapião de bens públicos  .. ", visto que os " ..  bens das entidades privadas são suscetíveis ao exercício da posse por terceiros e a meu aviso, podem ser objeto de reconhecimento de propriedade pelo decurso do tempo  .. " (e-STJ fl. 264).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da alegação genérica de ofensa à lei.
+Com relação à afronta aos artigos 98, 1.200 e 1.242 do CC/2002, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+O entendimento desta Corte Superior, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula n. 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AgInt no AREsp n. 2.106.824/RJ, Terceira Turma, DJe de 18/11/2022; e AgInt no AREsp n. 2.239.372/MG, Quarta Turma, DJe de 17/5/2023.
+- Do dissídio jurisprudencial.
+O recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois a parte recorrente, para demonstrar o dissídio jurisprudencial, trouxe como paradigma julgado proferido pelo Tribunal prolator do acórdão recorrido, devendo, portanto, incidir a orientação da Súmula n. 13 desta Corte Superior.
+Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça: AgInt no AREsp n. 1.755.766/MT, Terceira Turma, DJe de 25/3/2021; e AgInt no AREsp n. 1.741.821/DF, Quarta Turma, DJe de 20/5/2021.
+Além disso, o recurso especial não pode ser também conhecido com fundamento no artigo 105, III, "c", da Constituição Federal, pois a parte recorrente não comprovou a divergência jurisprudencial, visto que não foi cumprido nenhum dos requisitos previstos nos artigos 1.029, § 1º, do CPC/2015, e 255, § 1º, do RISTJ.
+Da mesma forma, os seguintes precedentes desta Corte: AgInt no AREsp n. 1.615.607/SP, Terceira Turma, DJe de 20/5/2020; e AgInt no AREsp n. 2.042.384/PR, Quarta Turma, DJe de 4/10/2022.
+Forte nessas razões, nos termos do parágrafo 2º do artigo 1.021 do CPC/2015, reconsidero a decisão de fls. 370/372 (e-STJ), ficando, por conseguinte, prejudicado o agravo interno de fls. 375/390 (e-STJ), CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.500,00 (dois mil e quinhentos reais) (e-STJ fls. 241/250) para R$ 3.500,00 (três mil e quinhentos reais), observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECONSIDERAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. PARADIGMA JULGADO PELO PRÓPRIO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA N. 13/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO DOS REQUISITOS. AUSÊNCIA.
+1. Ação de rescisão contratual cumulada com reintegração de posse.
+2. A alegação genérica de violação a dispositivos de lei, sem a demonstração, de forma clara e precisa, de que modo o aresto os teria contrariado, atrai, por analogia, a Súmula n. 284/STF. Precedentes.
+3. É entendimento pacífico desta Corte que o recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, porquanto a parte recorrente, para demonstrar o dissídio jurisprudencial, trouxe como paradigma julgado proferido pelo Tribunal prolator do acórdão recorrido, incidindo na espécie a orientação da Súmula n. 13/STJ. Precedentes.
+4. Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos artigos 1.029, § 1º, do CPC/2015, e 255, § 1º, do RISTJ. Precedentes.
+5. Reconsiderada a decisão de fls. 370/372 (e-STJ) reconsiderada), ficando, por conseguinte, prejudicado o agravo interno de fls. 375/390 (e-STJ). Agravo conhecido. Recurso especial não conhecido.
