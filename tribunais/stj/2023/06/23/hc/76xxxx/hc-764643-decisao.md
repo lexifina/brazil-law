@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Fernando Alexandre Balarin de Melo Junior, em que se aponta como autoridade coatora a Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 1500080-93.2021.8.26.0052) que o paciente foi pronunciado pelo Juízo da 2ª Vara do Júri para ser submetido a julgamento do Tribunal Popular, como incurso no art. 121, § 2º, I, II e IV, c/c o art. 61, II, e, ambos do Código Penal (fls. 115/131).
+Em sede de recurso em sentido estrito, a defesa apontou ausência de provas suficientes para a pronúncia. A Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 175/202).
+No presente wri t, a defesa aponta que devem ser afastadas as qualificadoras de motivo fútil e torpe no crime de homicídio. Sustenta que não houve comprovação de fatos que demonstrem a aplicação dessas qualificadoras (fls. 3/9).
+Parecer ministerial opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 209/214).
+É o relatório.
+Verifica-se que, na denúncia, o Ministério Público estadual apresentou, dentre outros, os seguintes fatos (fl. 57):
+ ..
+Assim, quando passaram a residir juntos, o denunciado e a vítima começaram a ter conflitos relacionados à indisposição de FERNANDO JUNIOR a se submeter à autoridade do pai, a quem pertencia a casa onde eles moravam e que exigia que o indiciado contribuísse com as despesas do lar. Além disso, a vítima Fernando possuía uma arma de fogo e não gostava quando o indiciado a pegava sem autorização, assim como outros bens de sua propriedade, o que também gerava brigas entre eles.
+Neste contexto, para se livrar do controle e das exigências de seu genitor e, também, no intuito de herdar a casa e demais bens dele, o indiciado FERNANDO JUNIOR decidiu matá-lo.
+Para tanto, no dia 13 de dezembro de 2020, à tarde, o indiciado FERNANDO JUNIOR saiu de casa para trabalhar durante a noite e só deveria retornar ao imóvel na manhã seguinte. Contudo, no meio do turno de trabalho da madrugada, FERNANDO JUNIOR deixou seu posto e se dirigiu até a casa em que morava com a vítima, ingressando no imóvel sem chamar a atenção desta, através da varanda, afastando uma porta com defeito ali existente.
+Em seguida, de posse de uma arma de fogo e aproveitando-se do fato da vítima estar entorpecida com drogas e não esperar pela presença dele, FERNANDO JUNIOR efetuou um disparo contra a cabeça de seu genitor, provocando-lhe traumatismo cranioencefálico, que causou sua morte.
+ ..
+Na sentença de pronúncia, o Magistrado faz a transcrição dos fatos ocorridos, bem como de diversos depoimentos, e trouxe elementos que demonstram a existência de indícios de autoria do crime, quais sejam (fls. 199/200):
+ ..  E isto se extrai (i) do desaparecimento da arma de fogo do palco dos acontecimentos, havendo registro de que o réu pode ter sido o responsável por retirar o revólver da cena do crime; (ii) da divergência da versão inicialmente apresentada pelo acusado às testemunhas, ora falando que o genitor tinha cometido suicídio e, depois, que alguém teria entrado no imóvel para praticar o crime; (iii) da ausência do réu de seu posto de trabalho durante a madrugada por relevante período de tempo; (iv) do fato de ter apagado mensagens do celular do seu genitor; (v) da forma como o tiro foi dado (na testa), o que torna duvidosa a tese de suicídio (o delegado informou que em casos de suicídio normalmente o disparo não é dado na testa, por se tratar de um tiro difícil).
+Esses indícios não permitem afastar, desde logo, a participação do réu no evento criminoso, devendo a matéria ser examinada pelos jurados, que são os juízes naturais da causa. Caberá, então, aos julgadores leigos, o exame mais aprofundado das provas e, após os debates, dar seu veredicto.
+ ..
+Não há juízo de certeza, uma vez que será durante o julgamento popular que as provas serão devidamente analisadas. Quanto ao pedido de afastamento das qualificadoras, não há constrangimento ilegal, pois presentes indícios de autoria e materialidade e também há indícios de que o réu pode ter matado o pai para não se submeter à autoridade dele e às regras domiciliares impostas (motivo fútil) e que ele tinha interesse em ficar com o patrimônio do genitor (motivo torpe). Além disso, é possível que o ofendido não tenha tido chance de se defender, por estar sob efeito de drogas, tendo sido colhido de surpresa pelo filho (fl. 201).
+Nesses termos, como as qualificadoras não se mostram manifestamente improcedentes, inexistente qualquer ilegalidade que mereça a intervenção desta Corte Superior . Ademais, mostra-se inviável o reexame de como os fatos se sucederam, já que esta Corte recebe os fatos tais como delineados pela instância ordinária.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PEDIDO DE EXCLUSÃO DE QUALIFICADORAS. IMPOSSIBILIDADE. AUSÊNCIA DE MANIFESTA IMPROCEDÊNCIA DAS QUALIFICADORAS. PRONÚNCIA FEITA NOS TERMOS DA DENÚNCIA E DAS PROVAS INDICIÁRIAS. COMPETÊNCIA DO TRIBUNAL DO JÚRI.
+Ordem denegada.
