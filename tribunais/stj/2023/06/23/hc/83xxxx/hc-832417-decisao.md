@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de KAUA MACIEL , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL  (HC 1410155-67.2023.8.12.0000).
+O paciente está preso preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, 34 e 35 da Lei 11.343/2006, e art. 180 do Código Penal.
+A defesa alega: a) a fundamentação da prisão preventiva é inidônea, pois se baseia unicamente na gravidade abstrata do delito e na reiteração delitiva, sem considerar os requisitos previstos no art. 312 do Código de Processo Penal; b) quantidade irrisória de droga apreendida, que não justifica a manutenção da preventiva; c) condições pessoais favoráveis à soltura do paciente, notadamente, primariedade técnica e comprovação de residência fixa; e d) há possibilidade de substituição da prisão cautelar por medidas diversas.
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 321):
+Com efeito, depreende-se dos autos que o decisum impugnado não se mostra, primo icto oculi, desarrazoado ou, muito menos, carente de fundamentação, uma vez que foram delineados pela autoridade coatora os motivos, condições e pressupostos que deram ensejo à imposição da custódia processual.
+Nesse contexto, o pedido é de ser indeferido, pois dos argumentos e documentos vindos com a inicial não se extrai a necessidade de concessão da tutela de urgência, ao menos sob a análise perfunctória deste momento, de maneira que a tutela liminar confunde-se com o próprio mérito da impetração, exigindo análise mais cautelosa, a ser realizada pelo órgão colegiado após prestadas as informações necessárias pela autoridade indigitada e o parecer da Procuradoria de Justiça.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
