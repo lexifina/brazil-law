@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. (BANCO SANTANDER) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, BANCO SANTANDER alegou a violação dos arts. 1.022, II, e 373, §§ 1º e 2º, do CPC, ao sustentar, em síntese, (1) há omissão no acórdão recorrido pois o Tribunal não se manifestou sobre o fato de que as planilhas unilateralmente elaboradas pelos recorridos não se prestam, sequer em tese, à demonstração do fato constitutivo de seu direito e de que o BANCO não possui elementos para avaliar as planilhas; e (2) ausência de fundamentação e de preenchimento dos requisitos necessários para a redistribuição do ônus da prova.
+(1) Da alegada violação do art. 1.022, II , do CPC.
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+(2) Da alegada violação dos arts. 373, §§ 1º e 2º, do CPC.
+BANCO SANTANDER sustentou ausência de fundamentação e de preenchimento dos requisitos necessários para a redistribuição do ônus da prova.
+A Corte estadual, após análise do conjunto fático probatório dos autos, concluiu que não concordando o BANCO com as informações fornecidas pelas recorridas, cabe a ele a respectiva contraprova. Confira-se o aresto recorrido:
+No mérito, a questão relativa à complementação da prova pericial pende por iniciativa das agravadas, sendo certo que o agravante expressamente se deu por satisfeito com a prova produzida (fls. 12344/12347 da origem, item 7).
+Contudo, como bem pontuado na decisão de fls. 12550, a complementação da prova demanda a apresentação dos documentos solicitados no termo de diligência de fls. 12057 (demonstrativos anexos a cada uma das faturas emitidas entre janeiro/2009 e dezembro/2015, detalhando os serviços prestados por local, o número de postos cobertos e a composição dos preços faturados, especificando as quantias individuais e totais devidas, a quantidade e valor dos serviços extraordinários e de postos eventuais, as deduções por faltas ou atrasos e demais verbas).
+Ora, se tais informações deixaram de ser enviadas pelo réu às autoras para fins de faturamento detalhado a partir de 2013, as notas fiscais constantes nos autos deverão ser conferidas e apreciadas pela perita em conjunto com os demais elementos que as partes tiverem em seu poder para sustentar os valores envolvidos na demanda.
+Por seu turno as agravadas elaboraram planilhas conforme os dados que tinham ao seu dispor, não se podendo delas exigir informações comuns quando expressamente negadas a sua existência por fato imputado ao agravante.
+De outra banda, não concordando o recorrente com os dados fornecidos pelas autoras, dele é o ônus de impugna-los mediante a respectiva contraprova, seja ela qual for, nos termos do art. 373, inciso II, do CPC.
+Tanto é assim que a decisão de fls. 12565 foi expressa em determinar a apresentação de planilhas, pelo réu, com "referidas informações de acordo com seus registros internos, tal como feito pela autora".
+Se o requerido passou a adotar outro formato de planilha menos detalhado a partir de 2013, ausente afirmação em sentido contrário, deverá arcar como ônus do seu comportamento, sujeitando-se ao que se puder apurar com a prova pericial. Ademais, não há que se falar em prova diabólica quando a própria ausência de elementos detalhados nos faturamentos decorreu de alteração da postura da parte em simplificar as informações repassadas ao prestador de serviços.
+Observado isto, de se notar que, não detendo o réu outras informações que possam colaborar na realização da prova, nada apresentará e o trabalho adicional da jusperita se circunscreverá ao que estiver nos autos para posterior apreciação pelo MM. Juiz que preside o feito.
+(e-STJ, fls. 603/604 - sem destaque no original).
+Assim, não há como modificar as premissas e conclusões adotadas pelo TJSP sem o necessário revolvimento do conjunto fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula nº 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÔNUS PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. DANOS MATERIAIS E MORAIS. INEXISTÊNCIA. REVISÃO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICOPROBATÓRIA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Conforme preceitua o art. 373, I e II, do CPC/2015, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado, ao passo que cabe ao réu o ônus de demonstrar a ocorrência de algum fato impeditivo, modificativo ou extintivo do direito do autor. 2. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório que recaiu sobre a recorrente, pois essa providência demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Não se conhece do recurso pela alínea c quando aplicada a Súmula 7/STJ quanto à alínea a, tendo em vista o prejuízo da divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+3. A revisão do julgado, com relação ao cabimento aos danos materiais e morais, com o consequente acolhimento da pretensão recursal, demandaria necessariamente o reexame do acervo fáticoprobatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice disposto na Súmula 7/STJ.
+4. Em recurso especial, não é possível rever os critérios adotados pelo julgador na fixação dos honorários advocatícios, por importar no reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+5. Agravo interno improvido.
+(AgInt no AREsp 1.530.095/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 10/2/2020, DJe 13/2/2020).
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC QUE NÃO SE VERIFICA. ÔNUS DA PROVA. REEXAME DE CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
