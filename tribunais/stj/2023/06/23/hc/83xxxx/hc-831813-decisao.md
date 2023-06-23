@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GENÉSIO SIMÃO EDUARDO FILHO apontando como autoridade coatora "Juiz de 1º e 2º Grau e Ministério Público" (fl. 3).
+Colhe-se nos autos que o Paciente foi condenado como incurso no art. 330 do Código Penal, à pena de 16 (dezesseis) dias de detenção, em regime semiaberto, e pagamento de 11 (onze) dias-multa, por desobedecer ordem de parada policial, no escopo de realizar os atos fiscalizatórios rotineiros, fugindo em alta velocidade porque havia mandado de prisão expedido em seu desfavor.
+O recurso de apelação foi desprovido pela Turma Recursal do Grupo Jurisdicional de Pouso Alegre/MG, em acórdão assim ementado (fl. 47): "APELAÇÃO CRIMINAL. INDULTO. SÚMULA 631 DO STJ. NÃO INCIDÊNCIA DO DECRETO FEDERAL 11.302/2022. SENTENÇA MANTIDA."
+Sustenta o Impetrante, ao que se dessume da inicial, que o Paciente faz jus ao regime inicial aberto de cumprimento de pena, a despeito de sua reincidência, diante dos princípios da proporcionalidade e da dignidade da pessoa humana. Aduz, ainda, a irrelevância penal da conduta e que o Réu não fez jus ao indulto presidencial previsto na Lei n. 11.302/2022, já que não foi sentenciado antes de 25/12/2022, unicamente por ineficiência judicial.
+Busca, assim, a concessão liminar da ordem para (fl. 19):
+"  RECONHECIMENTO do indulto presidencial com sua justa ordem; OU  ABSOLVER o paciente pelo Princípio da Insignificância da conduta; OU  ALTERNATIVAMENTE reconheça a ferida ora aberta no princípio da proporcionalidade e reconheça o regime aberto ao paciente."
+É o relatório. Decido.
+O pedido é incognoscível.
+Compete ao Tribunal de Justiça estadual julgar o habeas corpus impetrado contra decisões proferidas pelas Turmas Recursais dos Juizados Especiais Criminais.
+Sobre o tema, confira-se:
+"PENAL E PROCESSO PENAL. 1. HABEAS CORPUS CONTRA DECISÃO DE TURMA RECURSAL. INCOMPETÊNCIA DO STJ. ART. 105, I, "C", DA CF. 2. MANDAMUS QUE DEVE SER MANEJADO PERANTE O TRIBUNAL DE ORIGEM. ENTENDIMENTO SEDIMENTADO DO STF E DO STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível conhecer do mérito da presente impetração. Conforme verificado, trata-se de mandamus impetrado contra decisão proferida por Juízes de Direito que compõem a Turma Recursal Cível e Criminal do Colégio Recursal de Jaboticabal/SP. Como é cediço, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art. 105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ.
+2. Conforme entendimento há muito sedimentado pelo Supremo Tribunal Federal, o habeas corpus contra as decisões de turmas recursais deve ser impetrado perante o Tribunal de Justiça, uma vez que os Juízes que compõem as Turmas Recursais estão subordinados ao respectivo Tribunal. Assim, apenas após o exame da alegada ilegalidade pelo respectivo Tribunal de origem, é que se tornará possível o manejo de mandamus perante esta Corte.
+3. Agravo regimental improvido." (AgRg no HC 421.161/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/11/2017, DJe 13/11/2017, sem grifos no original).
+"RECURSO ORINÁRIO EM HABEAS CORPUS. WRIT NÃO CONHECIDO PELO TRIBUNAL A QUO. REMÉDIO CONSTITUCIONAL AJUIZADO EM FACE DE DECISÃO ORIUNDA DE TURMA RECURSAL. CANCELAMENTO DO ENUNCIADO N.º 690 DA SÚMULA DO STF. COMPETÊNCIA DA CORTE ESTADUAL PARA APRECIAR O MANDAMUS.
+1. Diante do cancelamento do enunciado n.º 690 da Súmula do Supremo Tribunal Federal, compete ao Tribunal de Justiça do Estado apreciar e julgar ato acoimado de ilegal oriundo de Turma Recursal.
+2. Recurso provido para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito da impetração registrada sob o nº 0302936-42.2011.8.26.0000." (RHC 33.018/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/10/2012, DJe 05/11/2012, sem grifos no original).
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. PEDIDO DEDUZIDO CONTRA A TURMA RECURSAL. COMPETÊNCIA. TRIBUNAL DE JUSTIÇA. SUPERAÇÃO DA SÚMULA Nº 690/STF.
+1. Compete ao Tribunal de Justiça o julgamento dos pedidos de habeas corpus quando a autoridade coatora for Turma Recursal dos Juizados Especiais.
+2. Com o entendimento firmado no julgamento do Habeas Corpus nº 86.834/SP pelo STF e tendo em vista a jurisprudência já assentada nesta Corte Superior, a competência para apreciar as decisões das Turmas Recursais é dos Tribunais de Justiça e não mais da Corte Suprema, como anteriormente vinha sendo decidido, restando, pois, superado o entendimento firmado pela Súmula n.º 690 daquela Corte.
+3. Ordem concedida para que o Tribunal a quo examine o mérito da impetração como entender de direito." (HC 122.126/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 27/10/2009, DJe 16/11/2009, sem grifos no original).
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE DESOBEDIÊNCIA. WRIT IMPETRADO CONTRA ACÓRDÃO DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS CRIMINAIS. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA. PRECEDENTES. INICIAL LIMINARMENTE INDEFERIDA.
