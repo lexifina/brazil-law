@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL . EXECUÇÃO PENAL. PRISÃO DOMICILIAR. CONCESSÃO. PARTICULARIDADES. REEXAME DE PROVAS. OMISSÃO. INEXISTÊNCIA .
+1. Os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo. Os embargos declaratórios constituem instrumento de colaboração no processo, de efetivo aperfeiçoamento da tutela jurisdicional.
+2. O texto do decisum é suficiente à sua compreensão e inexiste vício a ser sanado. O julgado decidiu a controvérsia de maneira fundamentada, porém contrária aos interesses do embargante.
+3. No mais, esta Corte Superior entende que "a apreciação da tese ministerial com o fim de revogar a prisão domiciliar deferida ao recorrido incorre, necessariamente, o reexame dos fatos e provas dos autos, providência vedada pela Súmula n. 7/STJ". (AgRg no REsp n. 1.922.168/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/5/2021, DJe de 26/5/2021.)
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão da Sexta Turma do Superior Tribunal de Justiça, ementado nos seguintes termos (e-STJ fl. 423):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 112 E 117 DA LEP. PRISÃO DOMICILIAR. CONCESSÃO EM VIRTUDE DE PROPOSTA DE EMPREGO EM EMPRESA PRIVADA. PARTICULARIDADES DO CASO CONCRETO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem deferiu a prisão domiciliar ao recorrido, em face de proposta de trabalho externo em empresa privada. Destacou, na oportunidade, que ele apresentava bom comportamento carcerário, sem pendência de faltas graves. Ressaltou a excepcionalidade do caso concreto.
+2. Não cabe ao Superior Tribunal de Justiça adotar entendimento diverso, por demandar necessariamente o reexame da matéria fático-probatória dos autos, providência vedada em recurso especial, em face da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+Alega o embargante que o acórdão é omisso, pois não adentrou nos argumentos suscitados pelo Ministério Público.
+Prossegue dizendo que, "para se atender a pretensão recursal do Parquet, não há necessidade de reexame fático probatório, haja vista que, todos do elementos apontados pelo ministério público, estão devidamente expressos nas decisões de origem, fazendo, inclusive, referência à sentença no acórdão, o que é permitido" (e-STJ fl. 440, grifei).
+Pugna, ao final, pelo provimento dos embargos para que lhes sejam conferidos efeitos infringentes, debatendo-se todos os elementos apontados pelo Ministério Público.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL . EXECUÇÃO PENAL. PRISÃO DOMICILIAR. CONCESSÃO. PARTICULARIDADES. REEXAME DE PROVAS. OMISSÃO. INEXISTÊNCIA .
+1. Os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo. Os embargos declaratórios constituem instrumento de colaboração no processo, de efetivo aperfeiçoamento da tutela jurisdicional.
+2. O texto do decisum é suficiente à sua compreensão e inexiste vício a ser sanado. O julgado decidiu a controvérsia de maneira fundamentada, porém contrária aos interesses do embargante.
+3. No mais, esta Corte Superior entende que "a apreciação da tese ministerial com o fim de revogar a prisão domiciliar deferida ao recorrido incorre, necessariamente, o reexame dos fatos e provas dos autos, providência vedada pela Súmula n. 7/STJ". (AgRg no REsp n. 1.922.168/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/5/2021, DJe de 26/5/2021.)
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Sem razão o embargante.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo. Os embargos declaratórios constituem instrumento de colaboração no processo, de efetivo aperfeiçoamento da tutela jurisdicional.
+Acerca do vício da omissão, diz a doutrina:
+7. Omissão: é a lacuna ou o esquecimento. No julgado, traduz-se pela falta de abordagem do magistrado acerca de alguma alegação ou requerimento formulado, expressamente, pela parte interessada, merecedor de apreciação.
+8. Não caracterização da omissão: não se configura lacuna na decisão o fato de o juiz deixar de comentar argumento por argumento levantado pela parte, pois, no contexto geral do julgado, pode estar nítida a sua intenção de rechaçar todos eles. (Guilherme de Souza Nucci, in Código de Processo Penal Comentado, 17ª edição, págs. 1427/1428, grifei)
+No caso, veja o que consta do acórdão (e-STJ fls. 426/429):
+Isso, porque a Corte de origem deferiu a prisão domiciliar ao recorrido, em face de proposta de trabalho externo em empresa privada. Destacou, na oportunidade, que ele apresentava bom comportamento carcerário, sem pendência de faltas graves. Concluiu, ainda, pela excepcionalidade do caso concreto em conceder a prisão domiciliar, para evitar o excesso na execução e o contágio no interior da unidade prisional em que se encontrava.
+Veja os fundamentos (e-STJ, fls. 303/309):
+No mérito, entendo que razão assiste ao agravante.
+Assim dispõe o art. 5º da Recomendação nº 62/2020 do CNJ a respeito da implementação de providências urgentes face à pandemia causada pelo novo coronavírus:
+ ..
+Percebe-se, pois, que a citada Recomendação possui orientação no sentido da concessão da prisão domiciliar aos presos do regime aberto e do semiaberto em todo o território nacional enquanto perdurar a pandemia. Mesmo que o ato infralegal não possua caráter vinculante, é possível que o juiz o aplique caso considere necessário.
+Com efeito, verifico que, tão logo instaurada a situação de emergência em saúde pública que se estende desde março do presente ano, foram adotadas diversas medidas de contenção ao contágio de covid-19 no âmbito do sistema prisional de Minas Gerais. Em diversas comarcas, foi determinada a suspensão de visitas e de benefícios afetos à execução, como as saídas temporárias e o trabalho externo.
+Todavia, em que pese a necessidade de se adotar as mencionadas medidas com o fim de resguardar a saúde e a integridade física das pessoas em privação de liberdade, entendo que elas não podem ensejar, por tempo indeterminado, a equiparação de regimes prisionais mais brandos ao fechado, sob pena de se onerar os sentenciados por situações a eles alheias, caracterizando-se excesso na execução.
+Nesse sentido, mormente diante da longa extensão temporal da situação de calamidade em saúde pública, entendo que inexiste fundamento legal para a vedação do exercício de trabalho externo aos reeducandos que se encontram no regime intermediário.
+No entanto, para que não se frustrem as próprias medidas de contenção à disseminação do novo coronavírus, não é razoável que os apenados que se ausentarem das unidades prisionais para o trabalho retornem diariamente para o presídio, de forma a aumentar a circulação de pessoas e facilitar o contágio de covid-19, colocando em risco as pessoas em privação de liberdade e os servidores atuantes nos estabelecimentos penais.
+Mencionado raciocínio está de acordo com o entendimento de que, na ausência de vaga em estabelecimento adequado ou outra forma de cumprimento de pena assemelhada, impossível manter os sentenciados segregados em modalidade mais gravosa.
+A esse propósito, enuncia a Súmula Vinculante nº 56 que "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS." ..
+Assim, embora a prisão domiciliar na execução penal, em regra, somente seja concedida ante a subsunção da condição do reeducando às hipóteses descritas no rol do art. 117 da LEP, admite-se o deferimento do benefício também em situações excepcionais, ainda que em regime diverso do aberto, como se observa no caso em exame.
+Ora, se assim não o fosse, estaríamos diante de interpretação demasiadamente formalista da lei, em nítida ofensa aos princípios constitucionais que devem ser aplicados ao processo executório da pena privativa de liberdade.
+Aliás, em resposta a pedido formulado pela Defensoria Pública nos autos habeas corpus nº 575495-MG/STJ, foram estendidos os efeitos da decisão originária, para impor "regime domiciliar, especificamente aos reeducandos do sistema prisional do Estado de Minas Gerais que cumprem pena em regime semiaberto e aberto, que tiveram suspenso o exercício do trabalho externo, como medida preventiva de combate à pandemia", a partir do seguinte raciocínio:
+ ..
+Com efeito, mencionada decisão somente alcança, de forma inconteste, os reeducandos que, estando em gozo dos regimes semiaberto ou aberto, tiveram suspenso o exercício do trabalho externo, alterando-se sua situação fática. Não obstante, a ausência de exercício efetivo do benefício não é suficiente para afastar a concessão da benesse, caso demonstrada sua necessidade, em análise fundamentada do caso concreto e em conformidade com as disposições da Recomendação nº 62/CNJ/2020.
+In casu, verifico que o reeducando apresenta bom comportamento carcerário, sem pendência de faltas graves, e apresentou, na origem, proposta de trabalho externo em empresa privada; inexistindo, portanto, qualquer fundamento idôneo para negar-lhe o exercício da ocupação lícita.
+Além disso, uma vez concedida autorização para o trabalho, deve ser deferida a prisão domiciliar ao reeducando, para evitar o excesso na execução e o contágio no interior da unidade prisional em que ele se encontra recluso.
+Nesse sentido, a possibilidade cautelar de autorização da prisão domiciliar, cumulada com as Recomendação nº 62/CNJ/2020 saídas para exercício do trabalho, é medida que se impõe e que está em consonância com as disposições da Recomendação nº 62/CNJ/2020 e da Súmula Vinculante nº 56.
+Ante o exposto, dou provimento ao recurso defensivo para autorizar a prisão domiciliar ao agravante, cumulada com o exercício do trabalho externo, nas condições a serem definidas pelo Juízo da execução.(Grifei.)
+Pela leitura dos trechos acima transcritos, verifica-se que, diante da excepcionalidade do caso concreto, foi deferida a prisão domiciliar ao recorrido, com proposta de trabalho externo em empresa privada.
+Assim, não cabe ao Superior Tribunal de Justiça adotar entendimento diverso, por demandar necessariamente o reexame da matéria fático-probatória dos autos, providência vedada em recurso especial, em face da sua Súmula n. 7.
+ ..
+Ressalte-se, por fim, que, em consulta ao SEEU, o recorrido permanece em prisão domiciliar, não havendo registro de nenhuma falta por ele praticada.
+Não há no acórdão embargado nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+O texto do decisum é suficiente à sua compreensão e inexiste vício a ser sanado. O julgado decidiu a controvérsia de maneira fundamentada, porém contrária aos interesses do embargante.
+Percebe-se, sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Nesse sentido:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. "Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgRg no HC n. 678.355/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.) 3. Embargos de declaração rejeitados.
+(EDcl no RHC n. 173.448/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/5/2023, DJe de 19/5/2023.)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Na linha dos precedentes desta Corte, "a parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias transversas, alcançar a análise de suas teses. O "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1777820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021)" (AgRg no AREsp n. 1.450.671/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe 14/5/2021).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.274.684/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/4/2023, DJe de 10/5/2023.)
+Vale lembrar que "o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento" (AgRg no AREsp n. 2.218.757/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+No mais, o Superior Tribunal de Justiça entende que "a apreciação da tese ministerial com o fim de revogar a prisão domiciliar deferida ao recorrido incorre, necessariamente, o reexame dos fatos e provas dos autos, providência vedada pela Súmula n. 7/STJ". (AgRg no REsp n. 1.922.168/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/5/2021, DJe de 26/5/2021.)
+Diante do exposto, rej eito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
