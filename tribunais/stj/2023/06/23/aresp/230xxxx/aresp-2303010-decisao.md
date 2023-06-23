@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ESPÓLIO DE EURÍPEDES DO AMARAL VARGAS contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INTERDITO PROIBITÓRIO. SENTENÇA DE PROCEDÊNCIA. CARÊNCIA DE AÇÃO. NÃO VERIFICADA. REQUISITOS DA POSSE COMPROVADOS PELO AUTOR/APELADO. ARTIGO 561 E 567 DOCPC. SENTENÇA MANTIDA.
+1. O cerne da controvérsia reside em avaliar a comprovação ou não dos requisitos da posse por parte do autor/apelado.
+2 A posse é situação fática, sendo irrelevante o direito de propriedade ou mesmo documentos relativos a tal direito,cabendo ser demonstrado nos autos quem efetivamente exerce a posse do bem com animus dominum.
+3. In casu, o apelado é quem comprova que exerce posse sobre o imóvel, de modo que deve ser nela mantido.
+4. Recurso conhecido e desprovido" (fl. 527, e-STJ).
+Nas razões do recurso especial (fls. 570/582 e-STJ), o recorrente alega que o acórdão recorrido deu interpretação diversa aos artigos 1.210 do Código Civil e 567 do Código Processo Civil, que dispõe acerca da ação de interdito proibitório.
+Sustenta que
+"não há a configuração do justo receio, considerando que o provimento judicial proferido em uma outra ação não pode ser considerado ato de violência e, além disso, uma decisão judicial emitida por uma autoridade judicial nos autos de um processo com trâmite regular não se configura como injusta, ilícita e violenta".
+Sem as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem decidiu a controvérsia com base nos seguintes argumentos:
+"Como se observa dos autos, o autor/apelado alega que está na posse do imóvel, que se trata de uma propriedade ruralcom área de 1.000 hectáres devidamente individualizada e encravada em uma área maior de 3.300 hectáresdenominada Gleba Correntão, localizada na Data Criméia, Serra da Bacaba, Município de Alto Parnaíba, pois o adquiriu mediante contrato de compra e venda feita com o senhor Adalto Gomes da Silva em 21 de março de 2010, que por suavez adquiriu o imóvel desde 19 de janeiro de 2005 do senhor Eurípedes do Amaral, aqui representado pelo seu espólio,destacando assim que a posse do Senhor Adalto era exercida por longos anos sem nenhuma oposição, assim como aposse do autor/recorrente, até o ajuizamento desta demanda em 2012.
+Lado outro, os demandados/apelantes afirmam que nunca houve posse mansa e pacífica do senhor Adalto Gomes eque os recorrentes exercem posse sobre a área há mais de 3 décadas, inclusive a posse dos recorrentes foireconhecida em Ação de Manutenção de Posse ajuizada pelo ora apelantes contra o senhor Adalto (Processo nº 147-55.2012.8.10.0065), sendo nesse sentido os depoimentos testemunhais e provas documentais colacionadas aos autos.
+Com efeito, cumpre destacar que a posse é matéria fática, sendo irrelevante o direito de propriedade ou mesmodocumentos relativos a tal direito, cabendo ser demonstrado nos autos quem efetivamente exerce a posse do bem com animus dominum.
+No que concerne aos requisitos autorizadores da reintegração de posse, destaco que conforme disciplina o artigo 561 do CPC, incumbe ao autor provar, a sua posse, a turbação ou o esbulho praticado pelo réu, a data da turbação ou do esbulho, a continuação da posse, embora turbada, na ação de manutenção, ou a perda da posse, na ação dereintegração.
+Já, se for o caso de o possuidor estar na posse do imóvel sofrendo ameaça de esbulho ou turbação o CPC dispõe em seu artigo 567 que "O possuidor direto ou indireto que tenha justo receio de ser molestado na posse poderá requerer aojuiz que o segure da turbação ou esbulho iminente, mediante mandado proibitório em que se comine ao réu determina da pena pecuniária caso transgrida o preceito".
+Como bem pontuado na sentença refutada, encontra-se nos autos o documento de COMPROMISSO PARTICULAR DE CESSÃO E TRANSFERÊNCIA DE DIREITOS SOBRE IMÓVEL RURAL, celebrado entre os requerentes, ora apelados,e o senhor Adalto Gomes (fls. 261/264 do pdf. geral) datado de 21 de março de 2010) e tal documento foi registrado na Serventia Extrajudicial do 1º Ofício de Alto Parnaíba-MA, o que demonstra que o negócio se revestiu de legalidade e publicidade.
+Ademais, o depoimento do próprio vendedor do imóvel, senhor Adalto Gomes corrobora para demonstração de que efetivamente adquiriu o imóvel do senhor Eurípedes ora representado pelo seu espólio.
+Outrossim, o depoimento da testemunha Hariwald Busse confirma que os apelados exerciam posse sobre o imóvel, notoriamente, quando afirmam "(..) que após a aquisição da área pelos requerentes, via trabalhadores limpando o terreno nas divisas, dando a entender que estavam se apossando do terreno (..) que conhece o senhor Adalto Gomes; que ouviu falar que o Senhor Adalto comprou terras do Sr. Eurípedes; que seu imóvel limita com a área do Sr. Adalto; que o imóvel foi ocupado pelos requerentes há mais ou menos 5 anos (..)".
+Portanto, constato que quem melhor comprova o exercício efetivo da posse é o parte autora/apelada que reside no imóvel desde o ano de 2010 exercendo poderes típicos de proprietário, em exercício concreto da posse direta, a qual decorre de negócio válido sobre o qual inexiste prova de que tenha havido fraude.
+Desse modo, entendo que quem melhor comprova sua posse é o recorrido, logo, a parte recorrente não faz jus a reintegração de posse no imóvel em questão" (fls. 529/530, e-STJ - grifou-se).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre o valor da causa).
+Publique-se.
+Intimem-se.
