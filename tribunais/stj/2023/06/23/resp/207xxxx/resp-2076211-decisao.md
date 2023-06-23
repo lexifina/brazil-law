@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por Carmel Comércio Varejista Ltda., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 449):
+Ação declaratória. Discussão sobre a validade dos reajustes por sinistralidade aplicados pela seguradora a contrato de saúde coletivo calculado com base no VCMH. Sentença de parcial procedência para reconhecer a abusividade do reajuste e determinar a incidência dos índices da ANS, com restituição dos valores cobrados a maior. Recurso da ré. Reajuste por sinistralidade que, em princípio, não precisa observar os índices autorizados pela ANS. Necessidade, no entanto, de comprovação de que o aumento foi necessário para restabelecer o equilíbrio econômico financeiro do contrato, em razão de aumento de sinistralidade. Valores previstos em contrato (cláusula 26) e livremente pactuados entre a estipulante (Carmel) e seguradora. Documentos que comprovam os cálculos atuariais. Recurso provido.
+Os embargos de declaração opostos foram parcialmente acolhidos, conforme se verifica da seguinte ementa (e-STJ, fl. 458):
+EMBARGOS DE DECLARAÇÃO. Alegação de omissão no voto condutor que, embora tenha dado provimento ao recurso de apelação da embargante, alterando o resultado da sentença, deixou de inverter os ônus sucumbenciais e majorar os honorários, nos termos do art. 85, §11, CPC. Omissão quanto a inversão dos ônus sucumbenciais. Recurso acolhido, neste ponto, para sanar o erro material. Impossibilidade de majorar os ônus sucumbenciais em caso de provimento do recurso (EDcl no AgInt no REsp n. 1.573.573/RJ). Embargos acolhidos para sanar erro material, sem alteração no resultado do julgado.
+Em suas razões de recurso especial (e-STJ, fls. 462-467), a recorrente alega violação do art. 1.007, § 2º, do CPC de 2015.
+Sustenta, em síntese, que o preparo foi recolhido de modo insuficiente, sendo que não foi apresentada a guia de complementação das custas, devendo, portanto, ser reconhecida a deserção do recurso de apelação.
+Requer, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 472-478).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 472-478).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Apesar de toda a argumentação expendida no recurso especial, o conteúdo normativo referente ao art. 1.007, § 2º, do CPC de 2015 não foi debatido na origem, não tendo o referido dispositivo legal servido de base à conclusão adotada pela Corte local e não foram sequer opostos embargos de declaração a fim de ver sanada a suposta omissão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência das Súmulas 282 e 356/STF.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem com a finalidade de sanar eventual omissão, o que, na espécie, não ocorreu.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DECISÃO MONOCRÁTICA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 568/STJ. JULGAMENTO SINGULAR. ALEGAÇÃO DE FATO NOVO EXCLUSIVAMENTE EM RECURSO ESPECIAL. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. DOCUMENTOS. JUNTADA EXTEMPORÂNEA. CONTRADITÓRIO. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Consoante entendimento desta Corte Superior, é possível a juntada extemporânea de documentos ao processo, desde que exercido o contraditório pela parte adversa e inexistência de ocultação premeditada ou de surpresa para o Juízo. Precedentes.
+3. Agravo interno improvido. (AgInt no AREsp 1.831.357/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/11/2021, DJe 2/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. TELEFONIA. PLANO DE EXPANSÃO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. ALEGADA NÃO ENTREGA DE AÇÕES INTEGRALIZADAS. RESPONSABILIDADE CONTRATUAL. PRESCRIÇÃO. VINTENÁRIA. TERMO INICIAL. DATA DA LESÃO INDEPENDENTEMENTE DE CIÊNCIA. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO. INCIDÊNCIA SÚMULA 283/STF.
+ ..
+2. Em relação aos artigos 247 e 884 do Código Civil e ao art. 35, §1º, da Lei n. 6.404/76, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Ausente o necessário prequestionamento a atrair a incidência dos óbices contidos nas Súmulas 282 e 356/STF.
+ ..
+8. Agravo interno não provido. (AgInt no REsp 1.922.705/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2021, DJe 29/6/2021)
+Ante o exposto, não conheço do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA N. 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO .
