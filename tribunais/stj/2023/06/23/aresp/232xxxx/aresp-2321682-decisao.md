@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se  de  agravos de ITAÚ UNIBANCO S.A. e do MUNICÍPIO DE BELO HORIZONTE, com os quais objetivam admissão  de  recursos especiais interpostos  contra  acórdão  do TJMG assim  ementado:
+EMENTA: APELAÇÃO CÍVEL - EMABARGOS À EXECUÇÃO FISCAL - ISSQN - SERVIÇOS BANCÁRIOS - ANÁLISE EMERGENCIAL DE RISCO - ATIVIDADE MEIO OPERAÇÕES DE CRÉDITO-TARIFAS E COMISSÕES - NATUREZA DE SERVIÇO MULTA MORATÓRIA - LIMITE  VINTE POR CENTO DO CRÉDITO TRIBUTÁRIO. - A análise de riscos pata a concessão de crédito emergencial, quando realizada pela própria instituição financeira responsável pela concessão do crédito, caracteriza atividade meio e não se sujeita à incidência do ISSQN. - As rendas reportadas como operações de crédito, quando possuírem natureza de tarifas e comissões destinadas à remuneração de um serviço e não de juros resultantes das operações de empréstimo e financiamento, se sujeitam à incidência do ISS e não o IOF. - Admite-se aplicação de multa moratória até o limite máximo de 20% sobre o valor do crédito tributário, enquanto a multa de caráter punitivo é admissível até o valor de 100% do crédito ou da operação
+No  especial,  a entidade bancária alega  violação dos arts. 110 do CTN e 15 da Lei complementar n. 116/2003, aduzindo a inocorrência do fato gerador do ISSQN nas operações registradas com nas subcontas COSIF 7.308. XXX e 7.350. XXX.
+Sustenta que estas atividades, assim como as demais já reconhecidas na origem, não constituem prestação de serviço autônomo a terceiro, mas atividade acessória vinculada e condicionada à liberação de crédito, não sendo objeto da incidência do ISSQN sobre serviços bancários.
+Por fim, sustenta a existência de dissídio jurisprudencial.
+A edilidade alega violação dos arts. 489 e 1.022 do CPC/2015, item 15 da Lista anexa da Lei Complementar n. 116/2003 e arts. 97 e 142 do CTN.
+Alega a existência de vício de integração no acórdão que teria falhado em demonstrar os fundamentos para excluir a tributação de alguns dos serviços autuados.
+ Sustenta, ainda, que as subcontas  COSIF 7.086 XXX e 7.313. XXX devem ser tributadas pelo ISSQN uma vez que se configuram como serviços que proporcionam lucro ao ente bancário, remunerados por tarifas pagas pelos seus clientes, sendo atividade finalística.
+Por fim, sustenta a impossibilidade de alteração da multa moratória, tendo em vista que o percentual da multa observa a atividade vinculada do FISCO de promover a fiscalização, identificar as infrações tributárias e aplicar as penalidades estritamente previstas na legislação local.
+Nesse ponto, alega que a multa aplicada observa tanto a previsão da Lei federal no que concerne à legalidade tributária, quanto a previsão da legislação local que define a tipificação da conduta e os percentuais das penalidades.
+O recurso do banco foi inadmitido por aplicação do óbice da Súmula 7 do STJ, por ausência de similitude fática do precedente paradigma com o caso dos autos, e ausência de indicação do dispositivo cuja interpretação teria se dado de forma diversa por diferentes tribunais, fundamentos devidamente atacados no agravo.
+O recurso especial da edilidade foi inadmitido por ausência de vício de integração, por aplicação da Súmula 7 do STJ e da Súmula 283 do STF.
+O agravo foi interposto pela edilidade no prazo legal.
+Passo a decidir.
+O recurso especial se origina de embargos à execução fiscal de crédito de ISSQN sobre serviços bancários.
+Discute-se, na origem, a não incidência do tributo municipal sobre os serviços registrados como TARIFA. SOBRE CONTRATACÃO DE OPERACÕES ATIVAS (subcontas COSIF n. 7.308. xxx; 3.313. xxx; 7.350. xxx;), RENDAS DE OPERACÕES DE CRÉDITO (subcontas COSIF n. 7.077. xxx e 7.086.. xxx), bem como sobre a inaplicabilidade da multa aplicada com efeitos de confisco.
+No primeiro grau de jurisdição, a ação foi julgada improcedente.
+O Tribunal a quo acolheu parcialmente à apelação para reformar a sentença e reconhecer, com fundamento na orientação jurisprudencial do STJ, a não incidência do ISSQN sobre a análise de riscos para a concessão de crédito emergencial, quando realizada pela própria instituição financeira responsável pela concessão do crédito, uma vez que se configuraria como atividade meio sem autonomia necessária para a incidência do ISSQN.
+Assim, afastou a tributação pelo imposto municipal dos serviços descritos nas subcontas COSIF n. 7.086. XXX e 7.313. XXX.
+Consignou, ainda, que o percentual da multa aplicada deveria ser reduzido a percentual não confiscatório e que a exação deveria permanecer quanto às subcontas n. 7.350. XXX e 7.308. XXX já que se configurariam como serviço autônomo não tributado pelo IOF, segundo se verificaria da produção da prova pericial.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Inicialmente, examino o agravo fazendário.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: ausência de vício de integração, por aplicação do óbice da Súmula 7 do STJ e da Súmula 283 do STF.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente a incidência do óbice da Súmula 7 do STJ.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Assim, não sendo essa circunstância verificada nos autos, é o caso de não conhecer o agravo da edilidade.
+Passo, doravante, ao exame do agravo do ente bancário.
+Como bem consignado no Tribunal a quo, a Primeira Seção desta Corte, no julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que "é taxativa a Lista de Serviços anexa ao Decreto-lei n. 406/1968, para efeito de incidência de ISS, admitindo-se, aos já existentes apresentados com outra nomenclatura, o emprego da interpretação extensiva para serviços congêneres".
+Vale acrescentar o disposto na Súmula 424 do STJ, segundo a qual "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987".
+Do que se observa, a Corte local adotou essa diretriz jurisprudencial e amparou-se em elementos fáticos descritos nos autos para, analisando cada uma das rubricas discutidas, decidir pela incidência ou não do ISS. Assim, alterar a conclusão alcançada no acórdão recorrido demandaria necessariamente o revolvimento do material probatório dos autos, providência vedada em sede de recurso especial, diante do óbice da Súmula 7 do STJ.
+ Ante  o  exposto:
+(i)  com  base  no  art.  253,  parágrafo  único,  I,  do  RISTJ,  NÃO  CONHEÇO  do  agravo  em  recurso  especial da edilidade; e
+(ii) com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial do banco.
+No tocante aos honorários advocatícios, o Tribunal de origem, com fundamento no art. 85, § 4º, II, do CPC/2015, decidiu relegar à fase de liquidação a fixação do percentual da verba honorária devida às partes em sucumbência recíproca. Assim, em respeito ao disposto no art. 85, § 11, do CPC, a verba honorária deverá ser majorada em face do não conhecimento do agravo em recurso especial fazendário e do não conhecimento do recurso especial do particular, competindo ao juízo da liquidação proceder a esse acréscimo depois de definir os percentuais a incidirem originariamente sobre o proveito econômico efetivamente obtido.
+Publique-se. Intimem-se.
