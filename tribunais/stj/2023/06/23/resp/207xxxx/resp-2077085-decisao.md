@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., com fulcro no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (e-STJ, fls. 219-220):
+DIREITO DO CONSUMIDOR. Apelação Cível. Ação interposta perante o Juizado Especial cível. Declaração de ilegalidade de cobrança de tarifas. Coisa julgada. Inocorrência. O acessório segue o principal. Reconhecimento da ilegalidade dos juros cobrados sobre as tarifas ilegais. Devolução, na forma simples. Majoração de honorários advocatícios sucumbenciais. Desprovimento do recurso.
+- Não há que se falar em coisa julgada material entre ações com causa de pedir diversa.
+- Tendo em vista o reconhecimento de cobrança ilegais de tarifas contratuais, os juros incidentes sobre tais tarifas também devem ser declarados ilegais, devendo os juros indevidamente cobrados ser devolvidos, de forma simples.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente indica divergência jurisprudencial e violação ao art. 337, §§ 1º, 2º e 4º, do CPC/2015.
+Alega que, em ação pretérita, a parte já havia pleiteado a declaração de nulidade de tarifa, o que abarcaria, por consectário, os juros e acréscimos derivados, não sendo possível, sob pena de ofensa à coisa julgada, discutir, em nova ação, os juros remuneratórios incidentes sobre a supracitada tarifa.
+Contra-arrazoado o feito (e-STJ, fls. 318-328), o recurso especial foi admitido na origem (e-STJ, fls. 333-336), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+O Tribunal de origem, ao analisar a controvérsia, concluiu pela possibilidade de ajuizamento de nova ação para obter a declaração de nulidade dos juros remuneratórios incidentes sobre tarifas que já teriam sido declaradas ilegais em ação pretérita, nos termos da seguinte fundamentação (e-STJ, fl. 224):
+Infere-se que o apelado ajuizou no 4º Juizado Especial Cível, processo n. 200.2011.944.170-3, "ação de repetição de indébito", cujo pedido limitou-se na devolução, em dobro, dos valores referentes as tarifas que foram declaradas ilegais, não havendo pedido acerca dos juros pagos sobre tais tarifas, conforme sentença relativa a este processo (ID 4300864 - fls. 28).
+Portanto, o pedido contido na presente ação, consubstanciado na declaração de nulidade dos juros remuneratórios sobre as tarifas declaradas ilegais, mais a devolução, em dobro de tais valores, constitui pedido diverso da ação já julgada com o trânsito em julgado (fls. 30), de maneira que o pedido contido nestes autos não está amparado pela coisa julgada material.
+De fato, a apreciação do pedido desta demanda não interfere no teor discutido e decidido na ação ajuizada no Juizado Especial Cível, por se tratar de causas de pedir diversas (art. 502, CPC).
+O entendimento acima, contudo, diverge da orientação desta Corte de Justiça, segundo a qual "o pedido de devolução dos valores referentes às tarifas bancárias - declaradas abusivas em outra demanda ajuizada em sede de juizado especial cível - abrange, por corolário lógico, os juros remuneratórios, pois estes são acessórios àqueles (principal), havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada" (AgInt no REsp n. 2.048.812/PB, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. RECONSIDERAÇÃO. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A discussão em apreço cinge-se a definir se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do Juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros acessórios da obrigação principal.
+3. Esta Corte vem decidindo que "o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria" (REsp 1.899.115/PB, Relator Ministro Marco Aurélio Bellizze, Terceira Turma).
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp n. 2.045.088/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. PREQUESTIONAMENTO DA MATÉRIA. PRESENTE. AUSÊNCIA DE INTERESSE DE RECORRER. INOVAÇÃO RECURSAL. PEDIDO DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS. EXISTÊNCIA DE COISA JULGADA. REVALORAÇÃO DAS PROVAS. CABIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ANÁLISE DE DISPOSTIVO CONSTITUCIONAL. NÃO CABIMENTO.
+(..)
+4. Há entendimento no âmbito da Terceira Turma do Superior Tribunal de Justiça no sentido de que o pedido de devolução em dobro de todos os valores pagos em razão da declaração de nulidade das tarifas bancárias, abarca também os encargos incidentes sobre as respectivas tarifas.
+(..)
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 2.017.311/PB, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022.)
+Diante do exposto, dou provimento ao recurso especial para, reformando o acórdão recorrido, reconhecer a existência de coisa julgada material, extinguindo o feito, sem resolução de mérito, nos termos do art. 485, V, do CPC/2015.
+Fica a parte autora condenada ao pagamento das custas e honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor atualizado da causa, observado , se for o caso, o deferimento do benefício da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADO NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
