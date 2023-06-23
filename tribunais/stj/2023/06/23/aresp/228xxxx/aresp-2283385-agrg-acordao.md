@@ -1,0 +1,19 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Dimitry Girao de Souza contra decisão monocrática da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial por ele manejado em razão da incidência da Súmula 7/STJ (fls. 327/331).
+Em suas razões, o agravante sustenta, em suma, que o pedido formulado à Corte Superior prescinde de reexame fático para a sua apreciação e provimento (fl. 337), na medida em que casos como esse não necessitam de reexame de prova, mas tão somente a revaloração jurídica consistente no acórdão e na sentença (fl. 338).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ESCALADA. CONDENAÇÃO PELO TRIBUNAL DE ORIGEM. PLEITO DEFENSIVO DE ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA. PRETENSÃO QUE DEMANDARIA O REEXAME DA PROVA COLIGIDA. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. A insurgência recursal, nos moldes em que se encontra delineada, almeja que esta Corte de Justiça substitua as instâncias ordinárias, desconstituindo a conclusão do Tribunal de origem, estabelecida a partir do exame da prova coligida, providência inviável na via eleita, ante a vedação contida na Súmula 7/STJ.
+2. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida, uma vez que a pretensão deduzida realmente exige indevido revolvimento fático, o que encontra óbice no teor da Súmula 7/STJ.
+Não obstante o réu tenha sido absolvido pelo magistrado, o qual entendeu não existirem provas seguras de que o réu concorreu para a prática de furto descrito na denúncia (fl. 131), concluiu a Corte de origem pela condenação, ao considerar que a materialidade e a autoria restaram suficientemente comprovadas pela prova produzida nos autos do acórdão recorrido (fl. 233).
+Segundo consta do acórdão recorrido, em que pese a negativa de autoria do acusado,  ..  constata-se através das declarações dos Policiais Militares que atenderam a ocorrência  ..  que os objetos subtraídos da residência das vítimas foram encontrados com o acusado, logo após ao registro da ocorrência do delito, em local próximo à residência das vítimas, sem que ele tenha apresentado qualquer justificativa plausível para estar na posse daqueles bens (fl. 236). Concluiu-se, assim, que as provas reunidas no caderno processual são mais que suficientes para a condenação do réu pelo crime a ele imputado (idem).
+E, nesse contexto, tenho que a insurgência recursal, nos moldes em que se encontra delineada, almeja que esta Corte de Justiça substitua as instâncias ordinárias, desconstituindo a conclusão apresentada pelo Tribunal a quo; e emita um novo pronunciamento jurisdicional, o que se mostra incabível por meio da via eleita.
+Com efeito, quando o Tribunal de origem, instância soberana na análise das provas, conclui estarem presentes indícios suficientes da autoria delitiva e prova da materialidade, reconhecendo comprovada a prática do crime de furto, não cabe ao STJ rever essa conclusão, tendo em vista a necessidade de incursão no conjunto fático-probatório dos autos, vedado pela Súmula n. 7 do STJ (AgRg no AREsp n. 1.940.600/DF, Ministro João Otávio de Noronha, Quinta Turma, DJe 26/5/2022).
+Nesse mesmo sentido, confiram-se: AgRg no AgRg no AREsp n. 2.026.865/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 15/8/2022 e AgRg no REsp n. 1.954.332/RN, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 8/10/2021.
+Ante o exposto, nego provimento ao agravo regimental.
