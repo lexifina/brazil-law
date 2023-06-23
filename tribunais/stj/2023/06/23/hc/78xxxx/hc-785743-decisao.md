@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Marcelo da Silva Chaves, condenado pela prática do delito descrito no art. 157, § 2º, II e V, do Código Penal, à pena de 6 anos, 7 meses e 6 dias de reclusão, em regime inicial fechado, e ao pagamento de 16 dias-multa (Processo n. 1501643-10.2021.8.26.0542, da 27ª Vara Criminal da comarca de São Paulo/SP - fls. 45/54).
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo no julgamento da Apelação Criminal n. 1501643-10.2021.8.26.0542 (fls. 15/23).
+Alega-se, em síntese, constrangimento ilegal, decorrente da nulidade da prova produzida com violação do art. 226 do Código de Processo Penal; equívoco na dosimetria da pena, sendo o caso de afastamento da causa de aumento de pena do art. 157, § 2º, V, do Código Penal; desproporcionalidade da majoração da pena, na terceira fase da dosimetria, com violação do art. 68, parágrafo único, do Código Penal, e do disposto na Súmula 443/STJ; e ilegalidade na fixação do regime inicial fechado para cumprimento da pena (fls. 5/13).
+Requer-se, em liminar, que o paciente aguarde o julgamento do presente writ em liberdade, ou, no máximo, em regime aberto, e, no mérito, a concessão da ordem para: i) absolver o paciente, por força da nulidade da prova produzida em violação do art. 226 do Código de Processo Penal; ii) afastar a majorante pela restrição da liberdade da vítima; iii) reduzir o quantum de majoração da pena de 3/8 para 1/3; e iv) fixar o regime inicial semiaberto para o paciente (fl. 14).
+Liminar indeferida (fls. 66/67).
+Informações prestadas (fls. 71/113), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 117/124).
+É o relatório.
+De pronto, verifica-se que a alegada violação do art. 226 do Código de Processo Penal não foi objeto de debate pelo Tribunal a quo, fato que impede a análise por esta Corte, sob pena de supressão de instância.
+No que diz respeito às majorantes, o Juízo sentenciante assim decidiu (fls. 50/52 - grifo nosso):
+ ..
+Evidenciado, ainda, que o acusado e seu comparsa privaram a vítima de sua liberdade, na medida em que a mantiveram em seu poder para que pudessem realizar a subtração e garantir a posse do produto do crime
+Assim, a despeito da alegação da defesa, ficou evidenciado que o ofendido teve liberdade cerceada por tempo juridicamente relevante, considerando no mínimo cerca de 10 minutos do trajeto do veículo e mais ao menos 10 minutos de permanência no cativeiro, no matagal, tempo além do suficiente para a tomada do bem, caracterizando a incidência da majorante prevista no art. 157, § 2º, V, do Código Penal.
+ ..
+Configuradas na espécie as causas de aumento da pena arroladas pelo inciso II e V, do parágrafo segundo do art. 157, as quais restaram amplamente comprovadas. Dessa forma, aumento a pena aplicada em 3/8, considerando serem duas as causas verificadas, perfazendo o total de 6 (seis) anos, 7 (sete) meses e 6 (seis) dias de reclusão, e ao pagamento de 16 (dezesseis) dias-multa.
+Justifico a exasperação acima da fração mínima considerando ser o roubo duplamente qualificado, ensejando maior temor à vítima, que foi abordada por dois indivíduos, com restrição de sua liberdade, conduta a merecer maior censurabilidade.
+ ..
+O Tribunal a quo manteve a sentença asseverando que (fls. 19/20 ):
+ ..
+No mais, as causas de aumento do concurso de agentes e da restrição da liberdade das vítimas restaram demonstradas a partir das provas carreadas aos autos, notadamente no depoimento da vítima que afirmou ter sido abordada por dois indivíduos e que teria permanecido cerca de 30 minutos sob o jugo dos agentes, sendo que permaneceu em um matagal por aproximadamente 15 minutos, com sua liberdade o tempo todo vigiada por um dos roubadores.
+ ..
+No que concerne às reprimendas impostas, verifica-se que foram criteriosamente dosadas, em respeito aos critérios de razoabilidade e proporcionalidade, tendo sido estipuladas em 1/5 acima do mínimo legal, em razão dos maus antecedentes (fl. 58 proc. n. 0082930-66.2016.8.26.0050) e das consequências do delito que atingiu patrimônio de duas vítimas diversas (motorista e empresa de carga). A seguir, a confissão foi compensada integralmente com a reincidência (fl. 57 proc. n. 0082381-56.2016.8.26.0050). A seguir, pelas causas de aumento de pena, as sanções foram majoradas em 3/8 - e não na fração mínima já que tais circunstâncias revelaram maior grau de reprovabilidade na conduta do agente, assim como maior risco à vítima. Nada há, portanto, a ser alterado.
+ ..
+Segundo a jurisprudência desta Corte Superior, a teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais (AgRg no HC n. 644.572/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/3/2021).
+No entanto, optando o Magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente
+fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa (HC n. 501.063/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 4/9/2020).
+No caso, verifica-se que foi apresentada motivação concreta para o cúmulo das causas de aumento, com referência a peculiaridades do caso em comento - 2 agentes, vítima privada de sua liberdade, ficando em cativeiro em matagal -, demonstrando que o modus operandi do delito refletiu especial gravidade, o que encontra guarida na jurisprudência desta Corte Superior. Sobre o tema: HC n. 528.733/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 7/10/2019.
+Ademais, inviável o acolhimento do pedido de exclusão da majorante relativa à restrição da liberdade da vítima, uma vez que afastar o entendimento adotado pela instância de origem no tocante à sua incidência, fatalmente obrigaria o revolvimento fático-probatório, providência incompatível com a via estreita do habeas corpus, marcado por cognição sumária e rito célere (HC n. 445.326/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018).
+Por fim, os maus antecedentes e da reincidência justificam o recrudescimento do regime prisional. Nesse sentido: AgRg no HC n. 795.247/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 20/4/2023).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. VIOLAÇÃO DO ART. 226 DO CPP. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. TERCEIRA ETAPA. MAJORANTES DO CONCURSO DE PESSOAS E RESTRIÇÃO DA VÍTIMA. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. CÁLCULO CUMULATIVO. POSSIBILIDADE. INDICAÇÃO DE MOTIVAÇÃO CONCRETA. PRECEDENTES. REGIME PRISIONAL MAIS GRAVOSO. REINCIDÊNCIA E MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
