@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 138):
+ADMINISTRATIVO. MILITAR. ALUNO DO NPOR. TEMPO DE SERVIÇO. CONTAGEM INTEGRAL.
+1. O tempo de serviço prestado pelos alunos dos Centros de Preparação de Oficiais da Reserva ou Núcleo de Preparação de Oficiais da Reserva (CPOR ou NPOR) deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido o aluno, pois sua condição de militar é ínsita à inscrição, à frequência e ao próprio tempo pelo qual esteve incorporado ao curso de preparação.
+2. Determinado à administração militar que proceda à expedição de certidão militar com a contagem do tempo integral do NPOR, e não com base na respectiva carga horária.
+Embargos de declaração rejeitados (e-STJ fls. 164/168).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 1.022, II, do CPC/2015, 63 da Lei n. 4.375/1964, 134, § 2º, e 136 , § 2º, da Lei n. 6.880/1980 e 24 e 198 do Decreto n. 57.654/1966, sustentando a negativa de prestação jurisdicional e que (e-STJ fl. 180):
+ ..
+O tempo de serviço de alunos matriculados em Núcleo de Preparação de Oficiais da Reserva (NPOR) ou em Centros de Preparação de Oficiais da Reserva (CPOR) é calculado na forma do art. 134, §2º da Lei 6880/80, a qual estipula o computo, apenas para a Inatividade, de 1 (um) dia para cada período de 8 (oito) horas de instrução, tendo em vista que a jornada de trabalho do aluno de NPOR/CPOR é de 4 (quatro) horas diárias.
+Contrarrazões às e-STJ fls. 229/239.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 251/254.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Em relação à alegada ofensa ao art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.416.310/SP, Relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+No caso, o Tribunal de origem assentou que (e-STJ fl. 142):
+Entende-se que o artigo 136, da Lei nº 6.880/80, que dispõe sobre a contagem do tempo de serviço para fins de inatividade deve ser interpretado de maneira isonômica, de forma a englobar aqueles militares que, em prol do aperfeiçoamento da defesa nacional, prestaram cursos preparatórios e estiveram sujeitos às mesmas regras e normatizações disciplinares impostas aos seus colegas de armas, ficando também à disposição dos serviços militares.
+Portanto, o tempo de serviço prestado pelos alunos dos Centros de Preparação de Oficiais da Reserva (CPOR ou NPOR) deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido o aluno, pois sua condição de militar é ínsita à inscrição, à frequência e ao próprio tempo pelo qual esteve incorporado ao curso de preparação. (Grifos acrescidos).
+No mérito, tampouco assiste razão à parte insurgente.
+Conforme se observa do trecho transcrito, o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (isonomia), cuja apreciação compete à Suprema Corte, por meio de recurso extraordinário. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NOVO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. NÃO INCIDÊNCIA NO PERÍODO DE TRAMITAÇÃO DO PRECATÓRIO. CONTROVÉRSIA DIRIMIDA COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A aplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. É incabível recurso especial interposto contra acórdão que decide a controvérsia a partir de fundamento exclusivamente constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.137.723/RS, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 17/11/2022) (Grifos acrescidos)
+PROCESSO CIVIL E ADMINISTRATIVO. OMISSÃO. VERIFICAÇÃO. NÃO CABIMENTO. EMBARGOS DECLARATÓRIOS. INADMITIDA A MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. SENTENÇA. SÚMULA VINCULANTE 17. ACÓRDÃO COM ENFOQUE CONSTITUCIONAL. INVIABILIDADE DE DISCUSSÃO EM RECURSO ESPECIAL.
+1. A alegação de nulidade do acórdão recorrido, em virtude de ter deixado de apreciar questão de natureza constitucional, refoge à competência do Superior Tribunal de Justiça. Com efeito, a jurisprudência do STJ orienta que não lhe cabe, a pretexto de examinar suposta ofensa ao art. 535, II, do CPC/73, aferir a existência de omissão do Tribunal de origem acerca de matéria constitucional, sob pena de usurpar a competência reservada ao Supremo Tribunal Federal (REsp 1.601.539/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, REPDJe 18/3/2020, DJe de 25/11/2019.)
+2. Da leitura do acórdão recorrido depreende-se que foi debatida matéria com fundamento estritamente constitucional, sendo a sua apreciação de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal, razão por que não é possível analisar a tese recursal.
+3. Agravo Interno não provido.
+(AgInt no AREsp 2.110.279/RS, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/02/2023).
+Convém registrar, por fim, que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos n os §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
