@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO MINEIRO DE GESTÃO DAS ÁGUAS - IGAM, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJ fl. 165):
+EMENTA: AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - REJEIÇÃO - FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA - IMPOSSIBILIDADE.
+A rejeição da exceção de pré-executividade não acarreta em condenação ao pagamento de honorários sucumbenciais.
+Embargos de declaração rejeitados (e-STJ fls. 189/197).
+Em suas razões, a parte recorrente aponta violação do art. 1.022, I, do CPC/2015, em razão da contrariedade existente no acórdão recorrido no sentido de que os honorários foram arbitrados na forma do art. 827 do CPC/2015, de modo que não há falar em arbitramento em razão de improcedência da exceção de pré-executividade. Suscitou, ainda, contrariedade do art. 827 do CPC/2015, argumentando que a fixação de honorários realizada pelo Juiz a quo não decorreu da improcedência da exceção de pré- executividade e com ela não possui relação, tratando-se apenas de ausência de fixação de honorários no despacho inicial, consoante dispõe o aludido dispositivo legal, tendo a fixação ocorrido em momento posterior (e-STJ fls. 200/206).
+Sem contrarrazões (e-STJ fl. 210).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 211/212.
+Passo a decidir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+In casu, verifica-se que o Tribunal de origem incorreu, de fato, em contradição ao estabelecer que "o magistrado singular fixou a verba em 10%, com apoio no art. 827 do CPC", mas logo após conclui que a verba honorária seria proveniente de "condenação em honorários advocatícios em exceção de pré-executividade", o que não seria cabível (e-STJ fl. 167).
+Nada obstante, o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", ao prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Assim, à luz no novel regramento processual, as questões trazidas à instância excepcional podem ser examinadas e decididas à luz dos dispositivos tidos por violados, desde que versem acerca de questão exclusivamente de direito e, por óbvio, não imponham a esta Corte a análise ou reexame de elementos fático-probatórios dos autos.
+A exegese do art. 1.025 do CPC/2015 "é aquela compatível com a missão constitucional atribuída ao Superior Tribunal de Justiça, isto é, a de uniformizar a interpretação das leis federais em grau recursal nas causas efetivamente decididas pelos Tribunais da República (CR, art. 105, III), não podendo, portanto, sofrer modificação por legislação infraconstitucional" (REsp 1.670.149/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 13/03/2018, DJe 22/03/2018).
+Passa-se, portanto, à análise da questão.
+Conforme disciplina o art. 827 do CPC/2015, "ao despachar a inicial, o juiz fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado", sendo certo que, nos termos do §1º, "no caso de integral pagamento no prazo de 3 (três) dias, o valor dos honorários advocatícios será reduzido pela metade", o que não se confunde com verba sucumbencial em exceção de pré-executividade.
+A fixação dos honorários a que se refere o art. 827 do CPC/2015 "trata-se de um comando imperativo, a ser efetuado no despacho inicial da execução" (AgInt no REsp 1.967.099/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/2022), não havendo exceção legal para sua exclusão, mas tão somente, consoante destacado alhures, para sua redução caso o devedor cumpra com a obrigação dentro do prazo de 3 (três) dias.
+Os honorários fixados nos autos pelo Juízo de piso são aqueles disciplinados pelo art. 827 do CPC/2015, conforme bem assentou o Tribunal de origem e conforme se vê do despacho constante à e-STJ fl. 110.
+O que ocorreu, em verdade, foi que o Juízo olvidou-se em fixar a quantia honorária quando do despacho da inicial (e-STJ fl. 13), fazendo-o apenas posteriormente (e-STJ fl. 110).
+Esse fato, contudo, não descaracteriza a natureza da verba honorária fixada, qual seja, aquela disciplinada no art. 827 do CPC e de comando imperativo, ou seja, cujo arbitramento é obrigatório pelo magistrado.
+Outrossim, observa-se que, quando do julgamento da exceção de pré-executividade, não houve fixação de verba honorária (e-STJ fls. 38/40), o que reforça ainda mais a conclusão no sentido de que os honorários foram corretamente arbitrados segundo os termos do art. 827 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para restabelecer a fixação de honorários em 10% a serem pagos pelo executado na forma do art. 827 do CPC/2015, conforme despacho de e-STJ fl. 110.
+Publique-se. Intimem-se.
