@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por EVAIR BRAS GOMES LOPES, com base nas alíneas a e c do permissivo constitucional, contra acórdão proferido Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fls. 503):
+APELAÇÃO CÍVEL. DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. COMPRA E VENDA DE IMÓVEL RURAL. PARCIAL PROCEDÊNCIA DA PRETENSÃO INICIAL. APELO DO RÉU. NULIDADES. FALTA DE CITAÇÃO DO ESPÓLIO E DE TODOS OS CO-HERDEIROS. LITISCONSÓRCIO NECESSÁRIO. NÃO OCORRÊNCIA. CADA HERDEIRO TEM LEGITIMIDADE PARA PLEITEAR A ANULAÇÃO DE CONTRATO PACTUADO PELO AUTOR DA HERANÇA. EFICÁCIA DA SENTENÇA FAVORÁVEL AO PATRIMÔNIO DO ESPÓLIO. AUDIÊNCIA DE CONCILIAÇÃO. DESNECESSIDADE NO CASO CONCRETO. AUTORES MANIFESTARAM, NA EXORDIAL, DESINTERESSE NA AUTOCOMPOSIÇÃO. FLAGRANTE ANIMOSIDADE ENTRE AS PARTES. PREJUÍZO INEXISTENTE. VÍCIOS PROCESSUAIS NÃO CONFIGURADOS. INVALIDADE DO NEGÓCIO JURÍDICO. VENDA DE LOTE DE TERRA PELA SOGRA AO GENRO. PREÇO VIL. AUSÊNCIA DE PROVA DO PAGAMENTO. SIMULAÇÃO CARACTERIZADA. MANUTENÇÃO DA DECISÃO RECORRIDA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 542):
+EMBARGOS DE DECLARAÇÃO. ALEGADAS OMISSÃO E CONTRADIÇÃO. LITISCONSÓRCIO NECESSÁRIO. NÃO OCORRÊNCIA. CADA HERDEIRO TEM LEGITIMIDADE PARA PLEITEAR A ANULAÇÃO DE CONTRATO PACTUADO PELO AUTORDA HERANÇA. EFICÁCIA DA SENTENÇA FAVORÁVEL AO PATRIMÔNIO DO ESPÓLIO. DESNECESSIDADE DE INCLUSÃO DOS DEMAIS HERDEIROS NO POLO PASSIVO DA DEMANDA. VÍCIOS INEXISTENTES. EMBARGOS REJEITADOS.
+Nas razões do recurso, o recorrente alega divergência jurisprudencial e violação aos arts. 114 e 116 do CPC/2015.
+Sustenta a nulidade processual por ausência na formação de litisconsórcio necessário. Afirma que, na ação de anulação de contrato de compra e venda de imóvel, é obrigatória a participação no processo do vendedor e do comprador.
+Sendo assim, requer o provimento do presente recurso especial.
+Contrarrazões às fls. 573-598 (e-STJ).
+Decisão de admissibilidade às fls. 599-602 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos às decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da necessidade de formação de litisconsórcio necessário na ação de anulação de contrato de compra e venda do imóvel, o Tribunal estadual assim se manifestou (e-STJ, fl. 507):
+Esse o quadro, tem-se como desnecessária a formação de litisconsórcio na espécie, uma vez que, na forma do art. 1.784 do Código Civil, aberta a sucessão - o que se verifica com a morte da pessoa -, "a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários" - aplicação da máxima droit de saisine.
+Além disso, de acordo com o art. 1.791 do mesmo diploma normativo, " a  herança defere-se como um todo unitário, ainda que vários sejam os herdeiros" (caput), e, " a té a partilha, o direito dos co-herdeiros, quanto à propriedade e posse da herança, será indivisível, e regular-se-á pelas normas relativas ao condomínio" (parágrafo único) - trata-se do condomínio eventual (ou incidente) pro indiviso.
+E, conforme art. 1.314, caput, da lei civil, "cada condômino pode usar da coisa conforme sua destinação, sobre ela exercer todos os direitos compatíveis com a indivisão, reivindicá-la de terceiro, defender a sua posse e alhear a respectiva parte ideal, ou gravá-la".
+Logo, os herdeiros têm legitimidade para, individualmente, pleitear a anulação de contrato de compra e venda pactuado pelo autor da herança, em especial para proteger o patrimônio do espólio.
+Do excerto acima transcrito, destaca-se que o Tribunal a quo reconheceu a desnecessidade de formação do litisconsórcio, uma vez que, na anulação de contrato de compra e venda de imóvel submetido a inventário, os herdeiros possuem legítimo interesse de, individualmente, requererem a nulidade do negócio jurídico.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Em virtude da aplicação do supracitado enunciado sumular, fica prejudicada a análise da divergência jurisprudencial apontada.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ANULAÇÃO DE CONTRATO DE COMPRA E VENDA. IMÓVEL SUBMETIDO A ACERVO DO ESPÓLIO. LEGITIMIDADE INDIVIDUAL DOS HERDEIROS. LITISCONSÓRCIO PASSIVO NÃO CONFIGURADO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
