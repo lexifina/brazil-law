@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S/ A (SANTANDER), contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado.
+Nas razões do presente inconformismo, defendeu que (1) não houve qualquer deficiência na fundamentação do Agravo em Recurso Especial que pudesse implicar em sua inadmissibilidade; (2) os artigos violados foram expressamente impugnados; (3) não incide a multa processual prevista no art. 1.021, § 4º, CPC.
+Não foi apresentada contraminuta (e-STJ, fls. 2.276).
+É o relatório.
+DECIDO.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 2.255/2.257 e passo a novo exame do recurso interposto às e-STJ, fls. 2.226/2.244.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, SANTANDER alegou a violação dos arts. 189, 205 e 206 do CC, 447,480, 489, 494, 509, § 4º, 1.022, do CPC ao sustentar que (1) ocorrência de prescrição, já que a ação foi proposta em 2014 e o laudo pericial recalculou os extratos desde 1974, implicando em um período de mais de 40 anos de revisão contratual; (2) houve omissão quanto ao recálculo realizado em perícia judicial, que extrapolou os limites fixados na fase de conhecimento, tendo em vista que a decisão determinou apenas o afastamento da capitalização mensal dos juros, ao passo que laudo expurgou também a capitalização anual, em evidente erro material; (3) o perito não se manifestou sobre as impugnações apresentadas pelo banco após nova elaboração do laudo, que aumentou o suposto valor devido de R$ 1.606.402,59 para R$ 2.292.634,09; (4) o procedimento adotado pelo perito extrapola os limites da revisão, ferindo a coisa julgada. Suscitou ainda a existência de dissídio jurisprudencial no que tange (A) à ausência de preclusão para análise de erros de cálculos, (B) à possibilidade de reconhecimento da prescrição em sede de liquidação de sentença, (C) à necessária remessa dos autos ao perito oficial, quando houver impugnação das partes.
+Foram apresentadas contrarrazões (e-STJ, fls. 2.211/2.219).
+É o relatório.
+Como se vê dos autos, o banco ingressou com o presente recurso especial com o intuito de discutir a decisão de primeiro grau que homologou os cálculos periciais e declarou como devido o montante de R$ 2.292.634,09 em favor de SIDNEI ALZIDIO PINTO (SIDNEI), o que foi confirmado pelo Tribunal de Justiça Paulista (e-STJ, fls. 2.109/2.2114 e 2.145/2.149).
+Entretanto, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, foi possível verificar que as partes entabularam acordo nos autos do cumprimento de sentença nº 0001538-74.2017.8.26.0081, com a consequente extinção do processo com fundamento no art. 924, II, CPC, sendo a decisão publicada em 18.11.2021.
+Tendo em vista que o referido cumprimento de sentença foi extinto em decorrência de acordo entre as partes, necessário o reconhecimento da perda superveniente do objeto . Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO PROFERIDA EM AGRAVO DE INSTRUMENTO QUE TRATOU DA COMPETÊNCIA PARA JULGAMENTO DO FEITO. TRÂNSITO EM JULGADO DA DECISÃO. PERDA DO OBJETO DO RECURSO ESPECIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o entendimento desta Corte Superior, "o trânsito em julgado da decisão que pôs fim ao processo em que proferida a decisão impugnada no agravo de instrumento acarreta a perda do objeto do recurso especial contra ela interposto" (AgInt no AREsp 2005199/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 03/05/2022) .
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.087.926/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACORDO ENTRE AS PARTES HOMOLOGADO EM JUÍZO. EXTINÇÃO DA EXCEÇÃO DE SUSPEIÇÃO NA ORIGEM. PERDA SUPERVENIENTE DE OBJETO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO PROVIDO.
+1. A homologação de acordo celebrado entre as partes que extinguiu a exceção de suspeição na origem enseja superveniente perda de objeto do agravo de instrumento e recursos interpostos contra decisão que entendeu não demonstrada a suspeição do magistrado.
+2. Agravo interno provido para reconhecer a perda superveniente de objeto do recurso especial na parte em que discutida a suspeição.
+(AgInt no REsp n. 1.742.131/CE, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 18/9/2018, DJe de 26/9/2018.)
+Assim sendo, verifica-se que o recuso especial em análise perdeu seu objeto em razão da extinção do cumprimento de sentença pelo acordo entre as partes.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo em recurso especial, para JULGAR PREJUDICADO o apelo nobre.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. ACORDO ENTRE AS PARTES. EXTINÇÃO DO PROCESSO COM FUNDAMENTO NO ART. 924, II, CPC. PERDA SUPERVENIENTE DO OBJETO RECURSAL. RECONHECIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL PREJUDICADO.
