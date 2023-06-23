@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ESMERALDA EMPREENDIMENTOS E CONSTRUTORA LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. SENTENÇA DE PROCEDÊNCIA. ATRASO NA ENTREGA DO IMÓVEL. MORA DAS RÉS. INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO DA 2ª RÉ. DANOS MORAIS CONFIGURADOS E ARBITRADOS EM R$ 10.000,00. MANUTENÇÃO. INVERSÃO DA CLÁUSULA PENAL. CONVERSÃO EM PERDAS E DANOS QUE DEVE SER VERIFICADA EM CUMPRIMENTO DE SENTENÇA. NEGADO PROVIMENTO AO RECURSO DE APELAÇÃO DA APELANTE 1. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO DA APELANTE 2. 1-Trata-se de ação na qual alega o autor que celebrou com as rés Contrato Particular de Promessa de Compra e Venda de unidade imobiliária, pelo preço global de R$ 106.900,00. Sustenta que o imóvel não foi entregue na data ajustada. Requer a condenação das rés ao pagamento do equivalente a 0,5% sobre o valor do imóvel, por mês de atraso, e a condenação das demandadas ao pagamento de indenização por danos morais; 2-Sentença que julgou procedente o pedido; 3-Revelia das rés; 4-Intempestividade do recurso de apelação interposto pela 2ª ré; 5-Mora da parte ré que restou incontroversa; 6-Registre-se que a apelante 1 alega a impossibilidade de cumprimento da obrigação de entregar o imóvel, sob o argumento de que a construtora se encontra em recuperação judicial. Ocorre que a parte ré não comprovou a suposta impossibilidade do cumprimento de obrigação de entregar o imóvel, mas nada impede que, em sede de cumprimento de sentença, esse tema seja discutido e, eventualmente, venha a se demonstrar a alegada impossibilidade, a qual, caso apurada, ensejará a conversão em perdas e danos, nos termos do art. 499 do CPC; 7-Danos morais configurados e devidamente fixados em R$ 10.000,00. Imóvel que ainda não foi entregue; 8-Manutenção da sentença; 9-Precedentes: 0022255-82.2012.8.19.0209 -APELAÇÃO Des(a). MARIO ASSIS GONÇALVES -Julgamento: 04/08/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL e 0040904-87.2015.8.19.0210 -APELAÇÃO Des(a). MARIANNA FUX -Julgamento: 30/06/2021 -VIGÉSIMA QUINTA CÂMARA CÍVEL; 0015924-60.2018.8.19.0052 -APELAÇÃO Des(a). MURILO ANDRÉ KIELING CARDONA PEREIRA -Julgamento: 23/03/2022 -VIGÉSIMA TERCEIRA CÂMARA CÍVEL; 10-Negado provimento ao recurso de apelação da apelante 1 e não conhecimento do recurso de apelação da apelante 2" (fls. 301/303, e-STJ).
+No seu arrazoado, a parte recorrente alega a violação dos artigos 186 e 248 do Código Civil e 499 do Código de Processo Civil.
+Sustenta a necessidade de conversão da obrigação de fazer em perdas e danos, considerando que o cumprimento da obrigação tornou-se impossível.
+Além disso, defende ser incabível a condenação por danos morais exclusivamente pela demora na entrega do imóvel.
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Em relação ao art. 499 do CPC, consta o seguinte no acórdão recorrido:
+"(..)
+Assim, torna-se cabível a inversão da cláusula penal, visando o equilíbrio contratual entre consumidor e vendedor, conforme previsto contratualmente e fixado na sentença, no percentual de 0,5% por mês.
+Registre-se que a apelante 1 alega a impossibilidade de cumprimento da obrigação de entregar o imóvel, sob o argumento de que a construtora se encontra em recuperação judicial. Ocorre que a parte ré não comprovou a suposta impossibilidade do cumprimento de obrigação de entregar o imóvel, mas nada impede que, em sede de cumprimento de sentença, esse tema seja discutido e, eventualmente, venha a se demonstrar a alegada impossibilidade, a qual, caso apurada, ensejará a conversão em perdas e danos, nos termos do art. 499 do CPC.
+Destaque-se que eventual impossibilidade no cumprimento da obrigação de fazer que enseje a conversão em perdas e danos deve ser aferida em sede de cumprimento de sentença, porquanto se trata da ocasião em que haverá a necessária apuração do quantum debeatur.
+(..)" (fl. 310, e-STJ).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias, de que não restou comprovada a impossibilidade de cumprimento da obrigação, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Quanto aos danos morais, o Tribunal de origem entendeu que estes são cabíveis, nos seguintes termos:
+"(..)
+No entanto, na hipótese aqui analisada, não estamos diante de um pequeno atraso, mas sim de uma mora presente até os dias de hoje, uma vez que o imóvel sequer foi entregue.
+E, considerando-se tal cenário, entendo que a verba indenizatória fixada em R$ 10.000,00, se encontra razoável.
+(..)" (fl. 313, e-STJ).
+De fato, tendo o Tribunal de origem, a partir da incursão nos aspectos fático-probatórios dos autos, concluído que o atraso na entrega do imóvel gerou dano moral indenizável não há como acolher a tese recursal pela incidência da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO . INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Ao contrário do que alegou a parte recorrente, o percentual de 0, 5% sobre o valor do imóvel é cabível nos casos em que o Tribunal fixa lucros cessantes que equivalem ao locativo. Entretanto, no caso concreto, a Corte aplicou a multa contratual. A modificação de tal entendimento não está ao alcance desta Corte, por demandar o reexame do conjunto fático-probatório dos autos e a interpretação de cláusula contratual, providências vedadas nesta instância especial, nos termos das Súmulas 5 e 7/STJ.
+2. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+2.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+2.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido" (AgInt no AgInt no AREsp n. 2.176.209/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais devem ser majorados para 20% (vinte por cento) sobre o valor da condenação, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
