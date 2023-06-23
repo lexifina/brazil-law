@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (e-STJ fl. 603):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCUÇÃO FISCAL E EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO. POSSIBILIDADE. ATUAÇÃO EM AMBOS OS FEITOS. EXIGÊNCIA.
+1. É possível a cumulação dos honorários advocatícios fixados na execução com aqueles arbitrados nas ações antiexacionais (embargos à execução ou ação anulatória), desde que a soma das condenações não ultrapasse o limite máximo de 20% (vinte por cento). Precedentes do STJ e da Terceira Turma Especializada deste Sodalício.
+2. Na espécie, tendo em vista que a presente execução foi extinta por mero desdobramento lógico do acolhimento dos embargos do devedor, sem que houvesse atuação efetiva do advogado na execução fiscal, não há que se falar em condenação em honorários neste feito.
+3. Apelação da UNIÃO FEDERAL/FAZENDA NACIONAL provida para afastar a sua condenação ao pagamento de honorários advocatícios na presente execução fiscal.
+O recorrente sustenta ofensa aos artigos 10, 85, §§1º, 2º e 3º, 141 e 492 do CPC/15 , sob os seguintes argumentos:
+(a) é plenamente cabível a fixação de honorários em ação de execução fiscal e em ação de embargos à execução, cumulativamente, independente do nível de atuação do patrono nos autos da execução fiscal.
+(b) o Tribunal a quo proferiu acórdão baseado exclusivamente em fundamento jamais enfrentado pelos recorrentes, qual seja, de que a extinção da execução como desdobramento do acolhimento dos embargos à execução deveria afastar, integralmente, a fixação de honorários de sucumbência, violando dessa forma o artigo 10 do CPC/15;
+(c) o INSS interpôs apelação requerendo a reforma da sentença para reduzir os honorários de sucumbência arbitrados, a fim de que fossem fixados por equidade, e não para afastá-los integralmente. No entanto, o acórdão recorrido deu provimento à apelação para afastar a condenação em honorários advocatícios, com base em outro fundamento, jamais tratado pelo INSS, muito embora seja isso diverso e superior ao postulado pelo próprio recorrido em seu recurso, violando, dessa forma, os artigos 141 e 492 do CPC, eis que houve extrapolação do pedido formulado pelo INSS em sua apelação.
+Com contrarrazões.
+Juízo negativo de retratação. (e-STJ fls. 682-684)
+Juízo positivo de admissibilidade às fls. 707-708.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No presente caso, a Corte de Origem deixou de fixar honorários na presente execução fiscal porque não houve atuação efetiva do advogado da apelada na execução fiscal apta a justificar condenação da União Federal em honorários advocatícios, tendo sido fixado apenas nos Embargos à Execução.
+Entretanto, o entendimento deste Superior Tribunal de Justiça é no sentido de ser possível a cumulação das condenações em honorários advocatícios fixados em execução fiscal e na ação conexa que se funda na desconstituição do crédito executado, por constituírem ações autônomas, em observância aos limites legalmente previstos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA NA EXECUÇÃO FISCAL E NA AÇÃO QUE VISA DESCONSTITUIR O CRÉDITO EXECUTADO. POSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Esta Corte tem o entendimento segundo o qual é possível o arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido. (AgInt no REsp n. 1.971.570/PE, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 11/4/2022, DJe de 22/4/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. ÔNUS SUCUMBENCIAIS. CUMULAÇÃO. POSSIBILIDADE. AÇÕES AUTÔNOMAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO. 1. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de possibilitar a fixação cumulada da verba honorária em execução fiscal e na ação conexa que visa a desconstituição do crédito executado, ante a natureza autônoma das ações.
+2. Na hipótese, tendo sido a execução fiscal extinta em razão de decisão proferida em ação ordinária, onde reconheceu-se a inexigibilidade do crédito executado, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, respeitados os limites legalmente previstos .
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.820.812/PR, Rel. Ministro Manoel Erhardt (DESEMBARGADOR CONVOCADO DO TRF5), Primeira Turma, julgado em 29/11/2021, DJe 01/12/2021)
+Citem-se, ainda, as seguintes monocráticas: REsp n. 2.071.720, Ministro Sérgio Kukina, DJe de 25/05/2023 e AgInt no REsp n. 2.059.339, Ministra Regina Helena Costa, DJe de 12/06/2023.
+Assim, tendo sido extinta a execução fiscal em decorrência do provimento dos embargos, deve-se perquirir quem deu causa ao feito executivo, a fim de imputar-lhe o ônus de pagar os honorários, em face do princípio da causalidade.
+Ante o exposto, dou provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento de honorários advocatícios, nos termos da fundamentação, respeitados os limites legalmente previstos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA NA EXECUÇÃO FISCAL E NA AÇÃO QUE VISA DESCONSTITUIR O CRÉDITO EXECUTADO. POSSIBILIDADE. RECURSO PROVIDO.
