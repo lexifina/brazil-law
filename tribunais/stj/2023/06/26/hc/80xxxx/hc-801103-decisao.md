@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 37):
+AGRAVO. EXECUÇÃO PENAL. RETIFICAÇÃO DO CÁLCULO DE PENAS. Indeferimento. Recurso ministerial. Termo inicial de contagem de tempo para fins de progressão ao regime aberto. Data da implementação dos requisitos objetivo e subjetivo previstos no artigo 112 da Lei nº 7.210/1984, pelo sentenciado, à progressão ao regime intermediário. Natureza declaratória da decisão que defere a progressão prisional. Precedentes dos Colendos Supremo Tribunal Federal e Superior Tribunal de Justiça, bem como deste Egrégio Tribunal de Justiça. Hipótese em que o preenchimento do último requisito apenas restou constatado quando da realização do competente exame criminológico. Decisão reformada. RECURSO PROVIDO.
+Consta dos autos que o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público para fixar, como data-base para a progressão de regime do paciente, a data em que preenchidos os requisitos subjetivo e objetivo.
+Sustenta a defesa, em suma, que, "no exame criminológico, não há interferência dos peritos de modo a alterar as condições psicológicas do sentenciado. Eles apenas verificam essas condições" (fl. 5), logo "não se pode estabelecer como data do preenchimento do requisito subjetivo para a progressão de regime de cumprimento de pena a data do exame criminológico" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem "ADOTANDO-SE COMO DATA-BASE PARA O CÁLCULO DO LAPSO TEMPORAL PARA A PROGRESSÃO AO REGIME ABERTO A DATA EM QUE O PACIENTE PREENCHEU O LAPSO TEMPORAL (REQUISITO OBJETIVO) PARA A PROGRESSÃO AO REGIME SEMIABERTO, E, SIMULTANEAMENTE, OSTENTOU BOM COMPORTAMENTO CARCERÁRIO, INDEPENDENTEMENTE DA DATA DE SUA SUBMISSÃO AO EXAME CRIMINOLÓGICO" (fl. 8).
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+O Tribunal local deu provimento ao agravo em execução do Ministério Público aos seguintes fundamentos (fls. 38-46 ):
+Conheço do recurso, presentes os requisitos de desenvolvimento válido e regular e de admissibilidade para, no mérito, dar-lhe provimento.
+Segundo se depreende de consulta ao PEC principal, CESAR AUGUSTO cumpre pena de 10 (dez) anos, 4 (quatro) meses e 13 (treze) dias de reclusão pela prática de roubos majorados, com término previsto para 2 de julho de 2025.
+Realizado pedido de retificação do cálculo pelo órgão ministerial para que a data-base para o regime aberto seja o dia da conclusão do exame criminológico (idem, fls. 903 e 930), o Magistrado a quo manteve como marco inicial a data do preenchimento do requisito objetivo para a promoção ao regime intermediário (fls. 16/18); daí exsurgindo o inconformismo.
+(..)
+Tal julgado, que tem caráter vinculante para os órgãos fracionários deste Egrégio Tribunal, consoante previsão inserta no artigo 985 do Código de Processo Civil, mais uma vez ressaltou a natureza meramente declaratória da decisão que concede a progressão de regime, de modo que a fixação do marco inicial para futura progressão deve ser a data do efetivo preenchimento de ambos os requisitos previstos no artigo 112 da Lei de Execução Penal pelo sentenciado, conforme posicionamento pacífico dos Tribunais Superiores sobre a matéria, a exemplo dos a seguir ementados:
+(..)
+No caso em epígrafe, o agravado implementou o pressuposto temporal para progredir ao regime intermediário em 30 de abril de 2021.
+Entretanto, houve realização de exame criminológico, considerado favorável ao benefício em 1º de dezembro de 2021 (fls. 5/12).
+Após detida reflexão sobre os fundamentos em que se apoia o presente recurso, revejo entendimento anterior e reconheço que a solução que considera como data-base aquela da conclusão da perícia criminológica é a mais acertada, posto ser a única em que se tem, com segurança, a comprovação da satisfação do requisito subjetivo.
+(..)
+Portanto, apenas em 1º de dezembro de 2021 é que o reeducando comprovou que também satisfazia o requisito subjetivo para a progressão ao regime intermediário.
+Por tais razões, esta última data deve ser considerada como marco inicial para a contagem do lapso para a progressão ao regime aberto.
+Ante o exposto, DOU PROVIMENTO ao recurso ministerial para determinar que seja refeito o cálculo de penas do sentenciado CESAR AUGUSTO, qualificado nos autos, tomando-se como data-base para a progressão ao regime aberto o dia 1º de dezembro de 2021.
+Como se vê, o Tribunal de origem deu provimento ao recurso do Ministério Público ao entendimento de que a data de implementação do último requisito (subjetivo ou objetivo) deve ser tida como termo inicial para a concessão de nova progressão de regime, que, no presente caso, corresponde ao dia em que realizado o exame criminológico.
+Sobre a controvérsia, a jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido de que "A data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício" (AgRg no HC 654.153/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021).
+No mesmo sentido: AgRg no HC 662.270/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; (AgRg no HC 689.642/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021).
+Portanto, havendo a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
