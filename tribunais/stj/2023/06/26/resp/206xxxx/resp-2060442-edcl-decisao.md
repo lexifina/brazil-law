@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática que negou provimento ao Recurso Especial (fls. 1.378-1.380, e-STJ).
+A embargante aduz que houve omissão. Afirma:
+A primeira omissão se destaca do não enfrentamento da tese trazida nos parágrafos 41. até 43. do tópico "III", item "a", do Recurso Especial interposto (Contrariedade e negativa de vigência de lei federal), segundo a qual ficou demonstrado que o Acórdão recorrido ignorou por completo que a hipótese vertente não comporta cabimento nos termos dos arts. 525, §15 e 535, § 8º do CPC/2015, mormente poque o julgado rescindendo está e sempre esteve em consonância a orientação fixada pelo STF no que diz respeito ao Tema 69, ou seja, tanto o Acórdão rescindendo quanto a orientação fixada pelo STF no RE 574.706 (Tema 69) reconhecem a inexigibilidade desta incidência tributária, não sendo esta a hipótese prevista nos arts. 525, §15 e 535, § 8º do CPC/2015.
+(..)
+Ademais disso, resta claro que o Acórdão embargado tampouco se manifestou sobre pedido de suspensão da presente ação enquanto pendente julgamento dos Temas 881 (RE 949.297) e 885 (RE 955.227), não tendo se manifestado sobre tal pedido, o que, por derradeiro, resvala na previsão do art. 313, V, "a", do CPC, a qual determina a suspensão quando o processo:
+"depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente", havendo aqui a segunda omissão passível de saneamento.
+(..)
+A terceira omissão reside na não observância do pedido subsidiário aventado nos parágrafos 140. até 155. do tópico "IV.II" das Razões para Reforma do Acórdão Recorrido, bem como manifestado no item "b.4" do rol de pedidos finais do Recurso Especial.
+(..)
+Nesse compasso, verifica-se também a quarta omissão, na medida que o Acórdão embargado também não se manifestou sobre a aplicação do art. 146 do CTN, que dispõe acerca da irretroatividade da alteração de critério jurídico introduzido pela modulação de efeitos.
+(..)
+No que concerne a quinta omissão identificada, resta claro que o Acórdão embargado também não se manifestou sobre o dissídio jurisprudencial alegado, no qual, no julgamento do Acórdão paradigma do AR 6010, este egrégio Superior Tribunal de Justiça decidiu que o fato de ter havido a modulação dos efeitos não altera a solução de mérito apta a ensejar o cabimento de ação rescisória, sobretudo se no momento da prolação do aresto rescindendo ainda não havia sido realizado o julgamento da respectiva modulação dos efeitos
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.6.2023.
+Os Aclaratórios não prosperam.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e se destinam a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Na decisão embargada ficou consignado:
+É pacífica a orientação do STJ, consolidada na Súmula 343 do STF, de que a utilização de tese jurídica razoável, notadamente na hipótese em que o tema for controvertido à época do julgamento, impede a rescisão do acórdão.
+A propósito, ao julgar o RE 590.809/RS em Repercussão Geral, o Tribunal Pleno do Supremo Tribunal Federal decidiu que a referida Súmula deve ser observada também nas demandas de natureza constitucional - o que deve ser seguido, ainda que haja alteração superveniente da jurisprudência daquela Corte (Tema 136 do STF).
+Importante registrar que o STF, ao esclarecer o alcance da tese jurídica firmada no mencionado Recurso Extraordinário, tem manifestado entendimento segundo o qual, para a correta observância da Súmula 343/STF, em matéria , há necessidade de verificar se a matéria constitucional era controvertida no âmbito do STF e se a decisão rescindenda estava em consonância com sua diretriz à época. Nessa esteira: "Consolidada jurisprudência desta Corte no sentido da inaplicabilidade da Súmula nº 343/STF quando a matéria versada nos autos for de índole constitucional, mesmo que a decisão objeto da rescisória tenha sido fundamentada em interpretação controvertida em outros Tribunais judiciários ou anterior à orientação fixada pelo Supremo Tribunal Federal, ressalvadas as hipóteses acima explicitadas" (RE 1.389.170 AgR, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 19/9/2022, DJe-189).
+No caso dos autos, a União ajuizou Ação Rescisória com vistas a rescindir decisum que determinou a não inclusão do ICMS nas bases de cálculo da contribuição ao PIS e da COFINS em virtude da modulação realizada pelo Supremo Tribunal Federal no RE 574.706, que postergou a produção dos efeitos da respectiva tese jurídica para 15.3.2017, "ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento".
+Logo , considerado o fato de o aresto rescindendo ser anterior à tese jurídica firmada pelo Supremo Tribunal Federal e, à época, não haver jurisprudência constitucional consolidada, o acórdão recorrido está em conformidade com pacífica orientação daquela Corte quanto à inaplicabilidade da Súmula 343/STF.
+Observa-se que o decisum impugnado está bem fundamentado e a controvérsia foi integralmente julgada e solucionada. Desse modo, inexistem quaisquer dos vícios previstos no aludido dispositivo legal. A pretensão da recorrente consiste em reabrir a discussão já julgada do mérito - o que deve ser feito pela via adequada.
+Por fim, vale destacar que o inconformismo da parte não tem o condão de tornar cabíveis o presente recurso, que serve ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. ALEGAÇÃO EM EMBARGOS DE DECLARAÇÃO. COISA JULGADA. AUSÊNCIA DE REESTRUTURAÇÃO DA CARREIRA.
+1. Não se configura a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Ademais, verifica-se que o acórdão impugnado está bem fundamentado, e nele não inexiste omissão ou contradição. Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+(..)
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.925.155/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3/8/2021.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONFLITO DE COMPETÊNCIA. DIREITO À SAÚDE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Na espécie, o acórdão embargado foi expresso quanto ao exame da controvérsia, adotando o posicionamento então dominante nesta Primeira Seção segundo o qual se deve conhecer do conflito e reconhecer a competência da Justiça estadual para o processamento e julgamento da controvérsia.
+3. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no CC 186.983/SC, Rel. Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 2/3/2023.)
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
