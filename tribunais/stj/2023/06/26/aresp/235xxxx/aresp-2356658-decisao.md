@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por PDG BH INCORPORACOES S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO  AÇÃO DE REPARAÇÃO CIVIL POR DANOS MORAIS E MATERIAIS  ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO  REJEIÇÃO  GRATUIDADE DE JUSTIÇA -PESSOA JURÍDICA-IMPRESCINDIBILIDADE DE COMPROVAÇÃO DEHIPOSSUFICIÊNCIA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 do CPC, no que concerne à existência de provas nos autos que demonstram sua hipossuficiência financeira e que, portanto, faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+O v. acordão recorrido utilizou como fundamento para dar provimento ao recurso, que a Recorrente requereu a justiça gratuita somente sob o argumento de que o grupo econômico do qual faz parte está em recuperação judicial, o que não reflete a realidade.
+ ..
+Isso porque, antes de proferir a decisão que deferiu a justiça gratuita, o Magistrado a quo intimou a Recorrente para apresentar documentos que demonstrassem a real condição econômica e financeira (Id. 8182643066).
+Desse modo, se torna claro que a decisão de 1º instância se baseou nos documentos contábeis juntados pela Recorrente (Id. 8903678040), que demonstram que a empresa possui somente ativos não circulantes e que seu patrimônio liquido se baseia em capital social. Inclusive, no balanço patrimonial a demonstração do resultado mostra claramente a hipossuficiência financeira da Requerida, que praticamente não possui lucro.
+Sendo assim, o v. acordão recorrido ao afirmar que a situação não condiz om a situação de hipossuficiente somente analisando a informação de que o grupo econômico do qual faz parte a Recorrente se encontra em recuperação judicial, não pode ser base para indeferir a justiça gratuita a Recorrente.
+Tendo em vista que, está comprovado nos autos por documentos contábeis (demonstrativo financeiro, balanço e declaração de imposto de renda) a hipossuficiência financeira da Recorrente, o indeferimento da justiça gratuita à Recorrente viola o art. 98 do CPC.
+(fls. 920/921).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Pelo que se denota, a situação não condiz com a situação de hipossuficiente ao ponto de ser efetivamente afetada pelo pagamento das custas, o que consolida o entendimento de que a agravada possui condições de suportar encargos decorrentes da ação e que, a rigor, não são vultosas no contexto. Nada decorre objetivamente, de que o pagamento das custas atingiria efetivamente a sobrevivência financeira da postulante da gratuidade.
+Nesse contexto, com base nos elementos dos autos, entendo que a agravante, nesta fase processual, não se enquadra na condição legal de financeiramente hipossuficiente, razão pela qual a reforma da decisão agravada é medida adequada, resguardando-se o seu direito constitucional de petição.
+Lado outro, decorre que objetiva a agravada se esquivar do pagamento de honorários de sucumbência. É certo que o benefício pode ser requerido a qualquer tempo, porém, tem efeitos ex nunc, ou seja, não retroage para alcançar encargos processuais anteriores.
+No caso, a postulação de justiça gratuita só foi feita depois da condenação ao pagamento das custas finais, de modo que eventual decisão concedendo o benefício só alcançaria os atos processuais posteriores à sua concessão.
+ ..
+Ante o exposto, REJEITO PRELIMINAR E DOU PROVIMENTO AO RECURSO, para indeferir o pedido de justiça gratuita à empresa agravada (fls. 911/914).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
