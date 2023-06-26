@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE desafiando decisão pela qual neguei provimento ao agravo, por entender que (I) o Tribunal de origem, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, não examinou a controvérsia sob o enfoque da tese de que o Provimento nº 92 do TJRJ determina a realização de perícia contábil em casos como o dos autos, contexto no qual caberia à parte, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, providência da qual não se desincumbiu (Súmula 211/STJ); e (II) a alteração das conclusões adotadas demandaria novo exame do acervo fático-probatório constante do feito, providência vedada em recurso especial (Súmula 7/STJ).
+Em suas razões, a parte agravante sustenta que: (I) "a discussão é meramente de direito, cingindo-se à aplicação incorreta dos artigos 156, 368, 369 e 535 § 3º, todos do CPC, bem como do artigo 4º do decreto 22.626/33 e art. 884 do CC/02, na medida em que claramente deveria ser realizada a perícia técnica contábil, além de existirem os elementos que autorizam a compensação dos valores devidos por ambas as partes" (fl. 261); e (II) "resta comprovada a impossibilidade da aplicação do enunciado 211 desta e. Corte, pois é de clareza solar que toda a matéria referente a necessidade de retorno dos autos para realização de perícia, foi corretamente suscitada pela Agravante em sede Recursal" (fl. 263).
+Impugnação às fls. 278/286.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Segundo o comando contido no art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta conhecimento.
+Conforme compreensão firmada por esta Corte, o § 1º do art. 1.021 do CPC traz para a parte agravante o dever de combater os motivos adotados na decisão singular - e não basta, para tanto, a alegação genérica de que é necessária a reforma do decisum, pois é impositiva a demonstração da situação particular que justifique o afastamento dos fundamentos utilizados.
+Como se observa, nas razões do agravo interno, não foram impugnados , de modo específico, os motivos adotados por esta Corte Superior para não conhecer do recurso especial.
+De fato, "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp n. 2.140.411/MG, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022 ).
+Ademais, é certo que "A mera alegação genérica da existência de prequestionamento não é suficiente para impugnar o óbice da Súmula 211/STJ, sendo imprescindível a efetiva demonstração quanto ao modo como teria havido a apreciação pelo Tribunal de origem, notadamente por meio da transcrição dos excertos do acórdão recorrido" (AgInt no AREsp n. 1.724.002/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Dessa forma, não há como conhecer do presente agravo interno, pois o comando contido no art. 1.021, § 1º, do CPC impõe ao recorrente o ônus de impugnar especificamente todos os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
