@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SAPIRANGA INDÚSTRIAS QUÍMICAS LTDA. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 578):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. DIREITO PROCESSUAL CIVIL. ORDEM PREFERENCIAL. PENHORA SOBRE O FATURAMENTO DA EMPRESA. PRETENSÃO QUE DEMANDA REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.7/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+Em suas razões, a agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta a inaplicabilidade da Súmula 7/STJ, na medida em que o seu recurso não tem como objetivo o reexame de provas, mas sim a correta valoração das provas apresentadas.
+Renova, ainda, a argumentação quanto às seguintes teses relacionadas ao mérito da questão: a) exorbitância da penhora sobre o faturamento bruto da empresa; b) ausência de esgotamento das diligências para a localização de outros bens passíveis de penhora; c) inobservância da ordem de preferência estabelecida no código de ritos; e d) violação ao princípio da menor onerosidade ao executado.
+Foi apresentada impugnação ao recurso às fls. 603-608 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. DIREITO PROCESSUAL CIVIL. ORDEM DE PREFERÊNCIA LEGAL. MITIGAÇÃO. PENHORA DE PERCENTUAL SOBRE O FATURAMENTO DE PESSOA JURÍDICA. POSSIBILIDADE. PRECEDENTES. CRITÉRIOS ENSEJADORES DA EXCEPCIONALIDADE. SÚMULA N. 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A gradação legal estabelecida no art. 835 do CPC/2015, estruturado de acordo com o grau de aptidão satisfativa do bem penhorável, embora seja a regra, não tem caráter absoluto, podendo ser flexibilizada, em atenção às particularidades do caso concreto, sopesando-se, necessariamente, a potencialidade de satisfação do crédito, na medida em que a execução se processa segundo os interesses do credor (art. 797), bem como a forma menos gravosa ao devedor (art. 805).
+2. A jurisprudência deste Superior Tribunal é firme quanto à possibilidade de fixação de penhoras no percentual de 5% a 10% do faturamento bruto da empresa, com vistas a, por um lado, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir forma idônea e eficaz para a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução.
+3. Na hipótese, tendo a Corte estadual, à luz das provas existentes nos autos, alcançado o entendimento pela aplicação da medida excepcional a fim de assegurar a satisfação do crédito, não pode este Superior Tribunal revolver o acervo fático-probatório para adotar conclusão diversa. Assim, dada a excepcionalidade da via eleita, o acolhimento da pretensão recursal é providência inviável, incidindo o enunciado da Súmula n. 7/STJ, não sendo o caso, também, de revaloração da prova.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, apesar das alegações deduzidas pela agravante, conforme consignado na decisão de fls. 578-583 (e-STJ), após afastar a alegação de negativa de prestação jurisdicional, constatou-se que o art. 835, caput, do CPC/2015 estabelece uma ordem preferencial, a qual pode ser alterada pelo magistrado diante das particularidades do caso concreto, não havendo caráter absoluto. Tal entendimento encontra ressonância nesta Corte Superior.
+Ilustrativamente (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ORDEM DE PREFERÊNCIA LEGAL. BENS PENHORÁVEIS. MITIGAÇÃO. BAIXA LIQUIDEZ. DIFICULDADE NA EXPLORAÇÃO COMERCIAL DO IMÓVEL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO EXEQUENTE NÃO VERIFICADA. SÚMULA N. 7 DO STJ. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+ ..
+3. A ordem de preferência de penhora estabelecida no art. 835 do CPC não é absoluta, podendo ser mitigada à luz das circunstâncias do caso concreto.
+ ..
+10. Agravo interno parcialmente conhecido e desprovido.(AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. SÚMULA N. 182/STJ. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. PENHORA. FATURAMENTO. SÚMULAS N. 7 E 83 DO STJ E 283 DO STF. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. ..
+2. A "gradação legal estabelecida no art. 835 do CPC/2015, estruturado de acordo com o grau de aptidão satisfativa do bem penhorável, embora seja a regra, não tem caráter absoluto, podendo ser flexibilizada, em atenção às particularidades do caso concreto, sopesando-se, necessariamente, a potencialidade de satisfação do crédito, na medida em que a execução se processa segundo os interesses do credor (art. 797), bem como a forma menos gravosa ao devedor (art. 805)" (AgInt no AREsp n. 1.401.034/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/3/2019, DJe 28/3/2019).
+ ..
+7 . Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.(AgInt no AREsp n. 1.922.992/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+Nesse contexto, a jurisprudência deste Superior Tribunal é firme quanto à possibilidade de fixação de penhoras no percentual de 5% a 10% do faturamento bruto da empresa, com vistas a, por um lado, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir forma idônea e eficaz para a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução.
+Na mesma linha de cognição (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE DO FATURAMENTO DA DEVEDORA. POSSIBILIDADE. VIOLAÇÃO AO ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. NÃO RECONHECIDA. MODIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+3. O STJ, por vários dos seus precedentes, tem mantido penhoras fixadas no percentual de 5% a 10% do faturamento, com vistas a, por um lado, em não existindo patrimônio outro suficiente, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir forma idônea e eficaz para a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução, caso dos autos. Precedentes.
+ ..
+6. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.062.230/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RECUPERAÇÃO JUDICIAL. PENHORA DE ATIVOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. NATUREZA DO CRÉDITO EXECUTADO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. PENHORA DE 10% DO FATURAMENTO MENSAL DA EMPRESA RECUPERANDA. POSSIBILIDADE. PRECEDENTES. TRIBUNAL A QUO CONCLUIU QUE PERCENTUAL NÃO INVIABILIZA O CUMPRIMENTO DO PLANO DE RECUPERAÇÃO JUDICIAL. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. JULGAMENTO EXTRA PETITA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. AGRAVO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Rejeita-se a apontada violação do art. 1.022 do CPC/2015, pois o acórdão recorrido não possui vício de omissão, obscuridade ou contradição, mas mero julgamento em desconformidade com os interesses da agravante.
+2. A ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. Conforme orientação deste Sodalício, é possível fixar percentual de penhora do faturamento mensal de empresa em recuperação judicial.
+Precedentes.
+4. Hipótese em que o Tribunal estadual, examinando as peculiaridades do caso concreto, concluiu que a penhora de 10% do faturamento mensal da recuperanda não inviabilizaria o cumprimento do plano de recuperação judicial. A modificação desse entendimento demandaria revolvimento fático e probatório dos autos, providência incompatível com o recurso especial, conforme Súmula 7/STJ.
+5. Consoante entendimento do Superior Tribunal de Justiça, o pedido deve ser interpretado em consonância com a causa de pedir, mediante método lógico-sistemático. Precedentes.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.587.872/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/10/2022, DJe de 28/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. FATURAMENTO. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever o entendimento do tribunal de origem, segundo o qual a penhora deve recair sobre 30% (trinta por cento) do faturamento da agravante, a fim de examinar a alegada inobservância do princípio da menor onerosidade, demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula nº 7/STJ.
+3. O Superior Tribunal de Justiça entende não ferir o princípio da menor onerosidade na execução, observadas as cautelas legais, a penhora sobre o faturamento da empresa.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.091.054/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/9/2018, DJe de 21/9/2018.)
+Na hipótese dos autos, nota-se que, em observância às provas dos autos, o Tribunal local fixou a penhora em 10% do faturamento bruto da empresa, considerando que o referido valor se mostrava adequado e proporcional, sopesados o interesse do credor na satisfação do crédito e o princípio da preservação da atividade empresarial. Além disso, consignou várias tentativas infrutíferas de localizar bens passíveis de penhora.
+Veja-se (e-STJ, fls. 395-397):
+Conforme reconhecido pela própria agravante em seu recurso, a agravada: ajuizou ação de execução de título extrajudicial embasada em duplicatas mercantis inadimplidas cujo débito somava, na época do ajuizamento da ação, a importância de R$ 80.210,00 (oitenta mil, duzentos e dez reais); requereu a realização de pesquisas de bens ativos por meio dos sistemas BACENJUD, RENAJUD e INFO JUD; foi efetuado o bloqueio de R$ 7.433,04, em conta da executada (o qual foi posteriormente desbloqueado, por se tratar de verba impenhorável, pois destinada ao pagamento de salários dos seus empregados); requerida, novamente, pesquisas de bens e ativos por meio dos sistemas BACENJUD, RENAJUD e INFOJUD, na oportunidade, foi bloqueado o valor de R$ 181,20; que, caso impenhorável será liberado.
+Como se pode perceber a agravada apenas requereu a penhora sobre o faturamento da empresa, após várias tentativas de localização de bens à penhora, sem êxito.
+Como sabido, a penhora sobre o faturamento da empresa executada, embora medida excepcional, é inteiramente possível, especialmente quando não houve êxito na penhora de dinheiro e não foram localizados outros bens passíveis de penhora, o que, como visto, ocorreu no caso concreto. Assim, não há elementos para afastar a penhora tal como efetivada, até porque não há nos autos qualquer indício de prova de que a constrição sobre o faturamento da empresa possa inviabilizar o seu funcionamento.
+Neste sentido, precedentes desta Corte:
+(..)
+Ademais, não verifico abusividade no percentual fixado, especialmente quando não há elementos que indiquem o contrário.
+Outrossim, não é o caso de afastar a inclusão do nome da executada dos cadastros de inadimplentes, o que foi efetuado com fulcro no art. 782, § § 3º e 5º do CPC, sendo que, uma vez efetuado o pagamento ou garantido o juízo, será a inscrição imediatamente cancelada, na forma do estabelecido no § 4º, do referido artigo.
+Por fim, a indicação de imóvel à penhora (sede da empresa) deve ser direcionada ao juízo de piso, para que a parte exequente possa se manifestar acerca da indicação.
+Assim, não se visualiza elementos a ensejar a modificação da decisão agravada.
+Destarte, tendo a Corte estadual, à luz das provas existentes nos autos, alcançado o entendimento pela aplicação da medida excepcional a fim de assegurar a satisfação do crédito, não pode este Superior Tribunal revolver o acervo fático-probatório para adotar conclusão diversa. Assim, dada a excepcionalidade da via eleita, o acolhimento da pretensão recursal é providência inviável, incidindo o enunciado da Súmula n. 7/STJ.
+Também, não é caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, que tenha sido suficientemente reconhecido pelas instâncias ordinárias.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVOGAÇÃO DE DOAÇÃO. ATOS DE INGRATIDÃO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. PRETENDIDO REEXAME DE PROVAS CONSTANTES DOS AUTOS NÃO SE CONFUNDE COM NOVA QUALIFICAÇÃO JURÍDICA DE FATOS ASSENTADOS NO ACÓRDÃO RECORRIDO. AGRAVO NÃO PROVIDO.
+(..)
+2. No caso dos autos, as instâncias de origem entenderam, com fundamento na prova dos autos, que a conduta das recorridas não poderia ser classificada como "ato de ingratidão" a que se refere a lei como requisito para a revogação da doação. A pretensão recursal voltada à revisão dessa conclusão choca-se frontalmente com a Súmula 07/STJ.
+3. A revaloração da prova, permitida no âmbito do recurso especial, consubstancia-se em atribuir o devido valor jurídico a fato incontroverso, reconhecido pelo acórdão recorrido, ou seja, é a requalificação jurídica dos fatos, quando suficientes para a solução da questão, tal qual assentados pelo acórdão do Tribunal de origem, não se confundindo, portanto, com a necessidade de verificar a existência ou não de determinado fato, como na presente hipótese.
+4. Se para a verificação de violação à legislação federal apontada for necessária, como no presente caso, a análise das provas carreadas aos autos, e não a análise dos fatos assentados de maneira incontroversa no acórdão recorrido, estar-se-á diante da hipótese típica de incidência do enunciado da Súmula 7 desta Corte Superior.
+5. Agravo interno não provido. (AgInt no AgInt no AREsp 1.593.194/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 26/4/2021).
+Dessa maneira, considerando que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
