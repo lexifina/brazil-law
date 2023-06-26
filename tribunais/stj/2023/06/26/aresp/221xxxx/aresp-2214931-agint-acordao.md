@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Carpenedo & Cia. Ltda. contra decisão, assim ementada (fls. 1.941-1.942, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ANÁLISE DE CULPA CONCORRENTE. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante alega que a Corte de origem violou o artigo 1.022 do CPC/2015, pois não se pronunciou acerca da negativa de vigência do artigo 945 do Código Civil, consubstanciada na existência de culpa concorrente dos passageiros no evento danoso. Adiante, defende que o alegado dissídio jurisprudencial foi devidamente demonstrado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISSIDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do artigo 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, apenas não adotando a tese defendida pelo recorrente.
+3. O alegado dissídio jurisprudencial não se encontra devidamente comprovado, porquanto não se vislumbra similitude fática entre os acórdão confrontados, já que a jurisprudência arrolada está lastreada em matéria fática específica de cada caso concreto. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque se afasta a alegada violação do artigo 1.022 do CPC/2015, uma vez que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se, quanto à interpretação do art. 945 do Código Civil (Se a vítima tiver concorrido culposamente para o evento danoso, a sua indenização será fixada tendo-se em conta a gravidade de sua culpa em confronto com a do autor do dano.), a seguinte fundamentação trazida pela Corte local (fl. 1.453, e-STJ):
+Também há que se concluir que tanto a subempreira quanto o Município respondem pelo evento danoso. A subempreiteira pela sinalização precária na rodovia e o Município, por sua vez, pelo fato de não exigir a colocação de cinto de segurança dos passageiros do ônibus escolar.
+Ainda, na decisão proferida quando do julgamento dos aclaratórios, o Tribunal a quo assim se manifestou (fl. 1.621, e-STJ):
+Em relação ao argumento deduzido tanto pela CARPENEDO & CIA LTDA. quanto pelo DNIT de que deve ser reconhecida a culpa concorrente da vítima, verifico que o voto condutor do acórdão embargado assim analisou a questão (evento 34, RELVOTO1):
+(..)
+(3) dano causado pela ausência de colocação de cinto de segurança dos passageiros do ônibus escolar
+Também há que se concluir que tanto a subempreira quanto o Município respondem pelo evento danoso. A subempreiteira pela sinalização precária na rodovia e o Município, por sua vez, pelo fato de não exigir a colocação de cinto de segurança dos passageiros do ônibus escolar.
+Como se vê, tratando-se de transporte escolar municipal, entendeu o Órgão Colegiado que a responsabilidade pela efetiva utilização do cinto de segurança pelos passageiros e sua conseguinte fiscalização incumbia ao Município, ente responsável pelo serviço público, ao qual foi atribuída a culpa pelos danos causados em razão desse fato, não havendo que se falar em vício do julgado quanto ao ponto.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Além disso, como já bem salientado na decisão ora recorrida, para alterar a conclusão do Tribunal de origem e reconhecer a responsabilidade da vítima, a fim de reduzir o valor da indenização, como requer o agravante, seria imprescindível nova análise de toda a matéria fática dos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Por fim, ao contrário do afirmado pelo agravante, o dissídio jurisprudencial foi devidamente analisado na decisão ora agravada e afastado ante a ausência de cotejo analítico entre os casos confrontados, como também ante a ausência de similitude fática entre os julgados que, por certo, se basearam nas circunstâncias fáticas específicas de cada caso concreto para concluir pela ocorrência ou não de culpa concorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDORA PÚBLICA. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULAS 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Consoante entendimento firmado pelo Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.184.159/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ANULATÓRIA. PROCESSO ADMINISTRATIVO. REINTEGRAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. DISPOSITIVO CONSTITUCIONAL. NÃO COMPROVAÇÃO DA DIVERGÊNCIA.
+ ..
+III - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+V - Agravo interno improvido. (AgInt no AREsp n. 2.247.870/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Ante o exposto, nego provimento ao agravo interno .
+É como voto.
