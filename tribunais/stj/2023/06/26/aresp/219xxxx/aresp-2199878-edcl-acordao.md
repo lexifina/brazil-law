@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especial interposto pelo INSS, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos assim ementados:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DEDESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL - GDASS. PATAMAR MÍNIMO DE 70 PONTOS. PARIDADE REMUNERATÓRIAATIVOS E INATIVOS. ARTIGO 11, § 1º, DA LEI Nº 10.855/2004. ALTERAÇÃO LEGISLATIVA. LEI Nº 13.324/2016.
+1. A controvérsia cinge-se em verificar o direito da parte autora, servidor(a) público(a) aposentado(a) do INSS, ao recebimento da Gratificação de Desempenho de Atividades do Seguro Social - GDASS, no patamar mínimo de 70 (setenta) pontos, e não mais 50 (cinquenta) pontos, pois até aquele patamar a gratificação teria caráter geral, em razão da alteração promovida pela Lei nº 13.324/2016 no artigo 11, §1º, da Lei nº 10.855/2004, com fundamento na paridade remuneratória em relação aos servidores ativos.
+2. De fato, a Lei nº 13.324, de 29 de julho de 2016, alterou a redação do §1º do artigo 11 da Lei nº 10.855/2004, passando a assegurar aos servidores em atividade o pagamento do limite mínimo de 70 pontos a título de GDASS, independentemente da efetiva avaliação de desempenho institucional e pessoal.
+3. A referida modificação normativa, ao garantir que todos os servidores ativos recebam a gratificação no valor correspondente ao mínimo de 70 pontos, impôs à parcela em questão natureza indiscutivelmente genérica, invariável e impessoal, já que seu pagamento não ficará sujeito à avaliação de desempenho, de modo que referido patamar deve ser assegurado aos aposentados e pensionistas com direito à paridade remuneratória, sob pena de violação ao art. 40, §§ 4º e 8º, da CF/88, em sua redação original.
+Na origem, trata-se de ação ajuizada por Matilde Goretti Borges contra o INSS objetivando o reconhecimento do direito ao recebimento da Gratificação de Desempenho de Atividades do Seguro Social - GDASS equivalente ao patamar mínimo assegurado aos servidores ativos (de 70 pontos).
+Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, o INSS alega ofensa aos arts. 1.022 do CPC/2015; 11 e 16 da Lei n. 10.844/2004; 98 da Lei n. 13.324/1916.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DO SEGURO SOCIAL. PATAMAR MÍNIMO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando o reconhecimento do direito ao recebimento da Gratificação de Desempenho de Atividades do Seguro Social - GDASS, a partir de 1º/8/2015, em valor equivalente ao patamar mínimo assegurado aos servidores ativos (de 70 pontos), diante da paridade remuneratória, com fundamento na Lei n. 13.324/2016, que alterou o § 1º do art. 11 da Lei n. 10.855/2004. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada para reconhecimento do direito à GDASS no mesmo patamar repassado aos ativos (70 pontos) desde 1º/8/2015.
+II - Não há violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+.. requer o conhecimento e provimento dos presentes Embargos de Declaração, por omissão, para determinar o sobrestamento dos presentes autos até o trânsito em julgado do PUIL nº 5010596-85.2020.4.02.5101/RJ (Tema 294/TNU) e o julgamento definitivo do Tema nº 1251 pelo Supremo Tribunal Federal, conferindo-se, ainda, efeitos infringentes ao presente recurso de Embargos de Declaração para adequar o acórdão recorrido à tese a ser fixada pela Corte Superior.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADES DO SEGURO SOCIAL. PATAMAR MÍNIMO. EQUIPARAÇÃO. PROCEDÊNCIA DO PEDIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada contra o INSS objetivando o reconhecimento do direito ao recebimento da Gratificação de Desempenho de Atividades do Seguro Social - GDASS equivalente ao patamar mínimo assegurado aos servidores ativos (de 70 pontos).
+II - Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante relacionados ao mérito recursal não foram analisados pelo acórdão embargado, uma vez que a Corte de origem decidiu a controvérsia levando-se em consideração os fatos e provas, o que não é passível de revisão por esta Corte Superior, a teor da Súmula n. 7/STJ, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante relacionados ao mérito recursal não foram analisados pelo acórdão embargado, uma vez que a Corte de origem decidiu a controvérsia levando-se em consideração os fatos e provas, o que não é passível de revisão por esta Corte Superior, a teor da Súmula n. 7/STJ, o que afasta a alegação de omissão, nos termos assim expostos:
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
