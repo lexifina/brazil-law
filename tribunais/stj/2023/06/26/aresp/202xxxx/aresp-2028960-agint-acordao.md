@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que não conheci do recurso especial (e-STJ fls. 565/569).
+Sustenta a parte recorrente que a omissão foi devidamente caracterizada no apelo especial e que nenhuma das súmulas indicadas como óbices ao conhecimento do mérito em si do recurso eram aplicáveis no particular.
+Sem impugnação ao recurso.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO DA ORIGEM. OMISSÃO. INEXISTÊNCIA. DECISÃO CENTRADA EM MAIS DE UM FUNDAMENTO. IMPUGNAÇÃO PARCIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO . IMPOSSIBILIDADE.
+1. Quanto à alegada ofensa ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No caso dos autos, colhe-se da decisão de origem o fundamento de que não teria ocorrido a perda automática dos efeitos da decisão precária porque a apelação teria sido recebida em seu duplo efeito, e assim mantida no Tribunal, argumento não infirmado no apelo especial, o que justifica a aplicação da Súmula 283 do STF.
+3. Ainda que assim não fosse, seria necessário revolver o acervo fático-probatório para entender por que, mesmo tendo julgado improcedente o pedido, o julgador recebeu a apelação em seu duplo efeito, assim como a Corte local; isto é, não se trata de matéria exclusivamente de direito (definir os efeitos em geral da tutela ou seu conhecimento de ofício), já que o caso envolve peculiaridades fáticas cuja revisão esbarra no óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+Adianto que o agravo não merece acolhimento.
+Em relação à alegada violação do art. 1.022, II, do CPC, reitero que:
+Quanto à perda da eficácia da decisão liminar, em face da superveniência de sentença que julgou improcedente o pedido autoral, observa-se que o Tribunal de origem entendeu que tal alegação constitui, claramente, inovação recursal, anotando, in verbis (e-STJ fls. 494/495):
+13. a) Acerca da perda da eficácia da decisão liminar, em face da superveniência de sentença julgando improcedente o pedido autoral, cumpre registrar, de saída, que tal alegação constitui, claramente, inovação recursal, posto que arguida apenas quando do manejo do Agravo Interno, já que o Agravo de Instrumento trouxe em suas razões recursais apenas a insurgência do Estado no que diz respeito às astreintes.
+E ainda que assim não o fosse, tal insurgência se encontra albergada pela preclusão temporal na medida em que o Estado não a arguiu no momento oportuno, mais precisamente quando da prolação da decisão que recebeu o apelo em seu duplo efeito e determinou o cumprimento do que restou decidido pelo TJPE no AI nº 0324084-4, a despeito da superveniência da sentença de improcedência da ação.
+Observe-se, ainda que, após a ciência de tal decisum, e aquiescendo com a referida determinação, o Estado de Pernambuco, ao invés de questionar a subsistência dos efeitos da decisão ad quem justamente sob o fundamento da perda de sua eficácia, em razão da sentença de improcedência da pretensão autoral, peticionou nos autos, apresentando apenas justificativa para o seu não cumprimento, pugnando pelo bloqueio da verba, de modo que tal postura revela, a toda evidência, incompatibilidade com a vontade de recorrer, retirando-lhe, inclusive, interesse recursal, com configuração de preclusão lógica no que tange ao ponto. (Grifos acrescidos).
+Rejeitados os embargos de declaração (e-STJ fls. 386/393). o Superior Tribunal de Justiça, por meio do provimento do Agravo em Recurso Especial n. 1.228.217/PE, determinou a realização de novo julgamento dos declaratórios.
+A Corte de origem acolheu parcialmente o aludido recurso, a fim de sanar a omissão no que tange à majoração da multa cominatória, reduzindo o valor diário das astreintes de R$ 2.000,00 (dois mil reais) para R$ 1.000,00 (mil reais).
+Nessa quadra, quanto à alegada ofensa ao art. 1.022 do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No que toca à aplicação dos óbices sumulares, entendo que, de um lado, tem razão a agravante quand o alega não ser aplicável ao caso a Súmula 284 do STF, uma vez que, realmente, clara a pretensão recursal, centrada na alegação de que a perda dos efeitos da tutela precária poderia ser conhecida de ofício.
+De outra banda, tenho que se mantém incólume a aplicação da Súmula 283 do STF, cuja incidência explico com mais clareza nesta oportunidade.
+Colhe-se da decisão de origem que, independentemente de ser inovação recursal ou de se aplicar a preclusão, não teria ocorrido a perda automática dos efeitos da decisão precária porque a apelação teria sido recebida em seu duplo efeito, e assim mantida no Tribunal.
+Vale dizer: a postergação dos efeitos da tutela, aparentemente, ocorreu não "automaticamente", mas por força de determinação nesse sentido, sendo que esse argumento não foi infirmado no apelo especial.
+E, ainda que superada essa questão, seria necessário revolver o acervo fático-probatório para entender por que, mesmo tendo julgado improcedente o pedido, o julgador recebeu a apelação em seu duplo efeito, assim como a Corte local.
+Isto é, não se trata de matéria exclusivamente de direito (definir os efeitos em geral da tutela ou seu conhecimento de ofício), porque o caso envolve peculiaridades fáticas cuja revisão esbarra no óbice da Súmula 7 do STJ.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
