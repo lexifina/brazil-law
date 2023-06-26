@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. (segunda agravante), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/05/2022.
+Concluso ao gabinete em: 26/05/2023.
+Ação: declaratória de invalidade de rescisão unilateral cumulada com obrigação de fazer e compensação por danos morais, ajuizada por LUANA MARIA DA SILVA, em face de AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., na qual alega ilegalidade na rescisão do contrato de saúde, em razão de a beneficiária estar em tratamento de saúde.
+Sentença: julgou parcialmente procedente o pedido para: (a) condenar a ré a disponibilizar à autora plano individual ou familiar equivalente ao coletivo, nos termos acima; (b) condenar a ré a pagar à autora o valor de R$10.000,00 (dez mil reais), a título de compensação moral.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. Ação de obrigação de fazer. Rescisão unilateral de plano coletivo empresarial. Sentença de procedência para condenar a ré a disponibilizar à autora plano individual ou familiar equivalente ao coletivo, além do pagamento por danos morais, no valor de R$ 10.000,00 (dez mil reais). Inconformismo da requerida. Não acolhimento. Ainda que válida a rescisão unilateral do contrato coletivo por adesão, ineficaz a rescisão do contrato em relação à autora, que estava em meio a tratamento de grave doença (câncer), o que lhe confere o direito de permanecer no seguro saúde até eventual alta médica. Incidência dos artigos 421 e 422 do CPC, artigo 4º, inciso III e 51, inciso IV, §1º, I a III do CDC, e, ainda, do artigo13, parágrafo único, inciso III da Lei 9.656/98, aplicável por analogia. Requerida que sequer lhe disponibilizou a contratação de plano individual ou familiar, nos termos do artigo 1º da Resolução CONSU 19/99. Danos morais cabíveis. Indenização arbitrada em valor que se coaduna com os princípios da proporcionalidade e da razoabilidade e com as circunstâncias do caso concreto. Inconformismo da parte autora. Não acolhimento. Documentos juntados aos autos que comprovam a efetiva migração da autora para plano individual, o qual se encontra ativo, mas com comercialização suspensa. Sentença mantida. RECURSO DESPROVIDO.
+Embargos de Declaração: opostos pela AMIL, foram rejeitados.
+Recurso especial interposto por AMIL: alega violação dos arts. 1.022 do CPC, 13, parágrafo único, II, e 186, 188, I, 927 e 478 do CC. Além da negativa de prestação jurisdicional, sustenta que ao fim do contrato coletivo a operadora do plano de saúde não tem mais responsabilidade contratual com os beneficiários, ainda que se encontrem em curso de tratamento. Assevera que não disponibiliza plano individual. Afirma a impossibilidade de caracterização do dano moral, visto que não houve prática de ato ilícito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da existência de fundamento não impugnado
+A agravante não impugnou os seguintes fundamentos utilizados pelo TJ/SP (e-STJ fls. 294/295; e 297):
+No caso concreto, vê-se que a rescisão do contrato coletivo se deu em virtude da extinção da empresa contratante, a qual se encontra com a situação de "baixa" perante a Receita Federal.
+Vale dizer: a pessoa jurídica que contratou o plano da qual era Luana beneficiária deixou de existir, razão pela qual não há de se falar em ilegalidade no encerramento do plano coletivo empresarial.
+De todo modo, a despeito de válida a rescisão unilateral do contrato coletivo por adesão de que era beneficiária a autora, ineficaz a rescisão do contrato em relação a ela, porquanto o caso em tela esbarra na impossibilidade de ofensa à boa-fé objetiva.
+Isso porque restou devidamente comprovado nos autos que a autora se encontrava em tratamento de grave doença, a saber, câncer de mama, o que obsta o cancelamento deste, ao menos até a sua alta definitiva, aplicando-se, por analogia, o quanto disposto no artigo 13, inciso III da Lei 9.656/98. Embora o mencionado artigo se refira apenas aos contratos individuais e familiares, sua aplicação por analogia aos contratos coletivos decorre da finalidade precípua deste dispositivo, que é a de evitar que o beneficiário do plano de saúde tenha o tratamento de moléstia interrompido.
+Além disso, há de se convir que o direito de permanência no seguro saúde até eventual alta médica se fundamenta, ainda, no quanto disposto nos artigos 421 e 422 do Código Civil e nos artigos 4º, III, e 51, IV, § 1º, I a III, do Código de Defesa do Consumidor.
+(..)
+Outrossim, não se pode ignorar a fragilidade da argumentação desenvolvida pela operadora, seja porque, bem ou mal, Luana foi inserida em plano individual ativo, ainda que suspenso, seja porque há inúmeros precedentes deste E. Tribunal de Justiça no sentido de possibilidade de conversão do plano coletivo em individual quando da denúncia unilateral do plano de saúde coletivo. Confira-se: (..)
+Desse modo, quanto aos pontos, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 299/300):
+No que diz respeito à indenização por danos morais, é certo que tal situação submeteu a demandante a sério abalo emocional e inegável angústia e frustração, especialmente porque já se encontrava ela em meio a tratamento de grave doença.
+Há de se ressaltar que Luana tentou resolver a questão de forma administrativa, tendo sido completamente ignorada pela operadora-requerida: não só não obteve resposta à notificação extrajudicial de fls. 33, como também não teve disponibilizada, nos termos da legislação vigente, a contratação de plano individual ou familiar que lhe era devida.
+Assim, é evidente que a condição em que colocada a autora não pode ser tida como simples melindre ou mero incômodo, insuscetível de reparação.
+Desse modo, alterar o decidido no acórdão impugnado, quanto à caracterização do dano moral na espécie, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fls. 187) para 12% (doze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INVALIDADE DE RESCISÃO UNILATERAL CUMULADA COM OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória de invalidade de rescisão unilateral cumulada com obrigação de fazer e compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
