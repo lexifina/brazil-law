@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática que decidiu recurso especial interposto por Josefina de Jesus Santos com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª região, assim ementado:
+PREVIDENCIÁRIO: TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL INSUFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. RESP REPETITIVO 1352721/SP. HONORÁRIOS ADVOCATÍCIOS.
+1. A ausência de prova material apta a comprovar o exercício da atividade rural caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a sua extinção sem exame do mérito.
+2. Honorários de advogado mantidos a cargo da autora, que deu causa à extinção do processo sem resolução do mérito, observada a gratuidade da Justiça deferida nos autos.
+3. De ofício, processo extinto sem resolução de mérito. Apelação prejudicada.
+No presente recurso especial, a recorrente aponta como violados os arts. 48, 142 e 143 da Lei n. 8.213/91, sustentando, em síntese, que apresentou robusta prova material corroborada por idônea prova testemunhal do exercício do labor rural. Indica divergência jurisprudencial com julgado do Tribunal Regional Federal da 3ª Região e do Superior Tribunal de Justiça.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+EMENTA
+PREVIDENCIÁRIO. TRABALHO RURAL. AUSÊNCIA DE PROVA MATERIAL. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - A pretensão recursal no sentido de analisar a apresentação de "robusta prova material" do labor rural teria necessariamente que passar pela revisão de todo o conjunto fático-probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias, confirme enunciado da Súmula n. 7/STJ.
+II - A interposição de recurso especial com base na alínea c do permissivo constitucional exige a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração, o que não ocorreu no caso.
+III - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sobre a comprovação do trabalho rural da recorrente, o Tribunal de origem consignou à fl. 146:
+A parte autora deveria ter comprovado o labor rural, mesmo que de forma descontínua, no período imediatamente anterior ao implemento da idade , ao longo de, ao menos, 180 meses, conforme determinação contida no art. 142 da Lei nº 8.213/91. Considerando que o conjunto probatório foi insuficiente à comprovação da atividade rural pelo período previsto em lei, seria o caso de se julgar improcedente a ação, não tendo a parte autora se desincumbido do ônus probatório que lhe cabe, ex vi do art. 373, I, do CPC/2015.
+A pretensão recursal no sentido de analisar a apresentação de "robusta prova material" do labor rural teria necessariamente que passar pela revisão de todo o conjunto fático-probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Sendo assim, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático-probatório inviável em recurso especial ante o óbice da Súmula n. 7/STJ.
+No tocante à parcela recursal referente ao art. 105, III, c, da Constituição Federal, verifica-se que o recorrente não efetivou o necessário cotejo analítico da divergência entre os acórdãos em confronto, o que impede o conhecimento do recurso com base nessa alínea do permissivo constitucional.
+Conforme a previsão do art. 255 do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+Nesse mesmo diapasão, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO DESPROVIDO.
+1. Não cabe sustentação oral no julgamento de agravo interno contra decisão proferida no exercício da competência recursal.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal Superior.
+3. A admissibilidade do recurso especial pela alínea "c" do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.029.493/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE E/OU APOSENTADORIA POR INVALIDEZ. DOENÇA DO TRABALHO. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA A. AUSÊNCIA DE ARGUMENTAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO COMPROVAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA DOS ACÓRDÃOS CONFRONTADOS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O recorrente fundamenta o recurso especial na alínea a do art. 105, III, da CF, alegando violação dos arts. 371, 477, §2º e 480 do CPC/2015, sem, no entanto, apresentar argumentos e teses jurídicas que apontem de que forma teria o acórdão recorrido violado ou negado vigência a tais dispositivos legais. Portanto, as razões recursais apresentam-se deficientes, o que atrai o óbice da Súmula 284 do STF.
+2. A divergência jurisprudencial deve estar amparada no necessário cotejo analítico entre acórdãos confrontados e na comprovação da similitude fática, de forma apta a permitir o exame do recurso especial com base no dissídio pretoriano. A falta do cotejo analítico e a ausência da similitude fática, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio, porquanto violam o disposto no art. 1.029, § 1º, do CPC/2015.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula 7 do STJ. No caso, a Corte de origem com base na situação fática e nas provas dos autos, concluiu pela inexistência de incapacidade seja parcial ou total, temporária ou definitiva para o trabalho, bem como de que inexiste nexo causal entre as alegas enfermidades e o ambiente laboral que as classifique como doença laboral ou acidente de trabalho. Alterar esse entendimento demanda reexame do conjunto fático-probatório dos autos, vedado em recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo nos próprios autos para não conhecer do recurso especial.
+(AgInt no AREsp 1595312/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
