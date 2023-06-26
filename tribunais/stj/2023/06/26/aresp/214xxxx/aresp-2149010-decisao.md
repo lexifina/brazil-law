@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto CLARO S.A. contra a decisão que inadmitiu o recurso especial em razão da ausência de violação do art. 489 do Código de Processo Civil e da incidência das Súmulas n. 356 do STF, 211 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram preenchidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Agravo de Instrumento n. 0079665-31.2021.8.19.0000) assim ementado (fl. 25):
+Agravo de Instrumento. Recurso que ataca decisão que determinou a baixa e arquivamento do feito. Sentença que extinguiu o feito por inércia do autor não recorrida. Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 489 § 1º, IV e VI, do Código de Processo Civil, alegando que o acórdão recorrido não está minimamente fundamentado e não enfrentou os argumentos levantados, especialmente quanto ao "cabimento do agravo de instrumento como recurso adequado para combater a decisão interlocutória que manteve a extinção do processo sem resolução do mérito" (fls. 34-35).
+Afirma que citou diversas jurisprudências oriundas do Superior Tribunal de Justiça e do próprio Tribunal de Justiça do Estado do Rio de Janeiro, nas quais foram anuladas sentenças que extinguiram o processo sem resolução do mérito, com fundamento no art. 485, III, do CPC, sem a devida intimação pessoal.
+b) 485, § 1º, do CPC, asseverando que o processo foi extinto por abandono, conforme disposição do art. 485, III, do CPC, porém não houve a devida intimação pessoal da iminente extinção do processo.
+Narra que, contra a decisão que extinguira o feito, elaborou pedido de reconsideração e que, contra a decisão que respondera a esse pedido, interpôs agravo de instrumento, que, contudo, foi desprovido pelo Tribunal a quo ao fundamento de que as matérias deveriam ter sido arguidas em apelação.
+Defende a primazia do mérito e a ilegalidade da extinção do processo sem resolução do mérito, salientando o prejuízo acarretado com tal decisão.
+Aduz que o Tribunal de origem deveria ter reformado a decisão do Juízo singular - a qual jamais poderia ter extinguido o processo sem resolução de mérito -, mas não o fez, de modo que, diante do "conhecimento do Agravo de Instrumento, e a manifesta questão de ordem pública que circunda a presente lide, bem como a clara ilegalidade suportada pela recorrente, a 10ª Câmara Cível do Estado do Rio de Janeiro negou vigência ao parágrafo 1º do artigo 483, III do Código de Processo Civil" (fl. 40).
+Requer o conhecimento e provimento do recurso "para desconstituir o acórdão recorrido e determinar a intimação pessoal da autora, ora recorrente, no processo n. 0150175-03.2020.8.19.0001, conforme mandamento legal" (fl. 43).
+As contrarrazões não foram apresentadas.
+É o relatório. Decido.
+Na origem, o agravo de instrumento interposto contra a decisão que determinou o arquivamento e a baixa de feito extinto por inércia da parte autora foi desprovido pelo Tribunal de origem pelas razões seguintes (fl. 26):
+4. O presente recurso merece ser desprovido.
+5. O feito de origem foi extinto, sem julgamento do mérito, por sentença que transitou em julgado (fls. 85 e 88).
+6. Logo, a determinação de arquivamento e baixa se afigura correta.
+7. Os argumentos trazidos no presente recurso deveriam ter sido deduzidos em sede de apelação, único recurso capaz de provocar a revisão da sentença extintiva.
+Vê-se, assim, que a alegada afronta ao art. 489, § 1º, IV e VI, do CPC não merece prosperar.
+O acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo falar em negativa de prestação jurisdicional, pois não ocorreu o vício previsto no referido dispositivo legal.
+Registre-se que a exigência de demonstração de distinção ou superação de precedente, invocada pela parte, somente se aplica às sumulas e aos precedentes vinculantes.
+Nada obstante as alegações da parte recorrente, não há vício no julgado, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, com enfrentamento e solução da questão pertinente à lide.
+Sendo os fundamentos apresentados suficientes, por si sós, para manter a sentença, seria desnecessário o Tribunal de origem examinar todos os argumentos levantados pela parte, os quais não seriam capazes de infirmá-la.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AOS PRECEITOS DO DIREITO DE VIZINHANÇA. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao percentual de reparação a ser custeado pelo ora recorrido. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Rever a conclusão a que chegou o Tribunal de origem e entender, como quer a parte recorrente, que houve malferimento da legislação que regulamenta o despejo de águas em imóvel inferior, pois os danos em seu imóvel decorreram exclusivamente de conduta do ora recorrido, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.083.838/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Confiram-se ainda estes julgados: AgInt no REsp n. 1.942.363/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no AREsp n. 1.957.754/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022; AgInt no REsp n. 2.000.968/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+A questão infraconstitucional relativa à violação do art. 485, § 1º, do CPC não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+A alegação de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação.
+No caso, a parte recorrente deixou de indicar os dispositivos de lei tidos por violados que embasariam a tese recursal de cabimento do recurso de agravo de instrumento em homenagem à primazia do mérito.
+Além disso, apesar de ter apontado negativa de "vigência ao parágrafo 1º do artigo 483, III do Código de Processo Civil" (fl. 40), não existe o referido § 1º e o dispositivo legal em questão trata de inspeção judicial, matéria completamente estranha à aludida no presente recurso.
+Nesse contexto, tem aplicação a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SALÁRIO. PERCENTUAL. IMPENHORABILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Su premo Tribunal Federal.
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.283.401/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
