@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUANA MARIA DA SILVA (primeira agravante), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/05/2022.
+Concluso ao gabinete em: 26/05/2023.
+Ação: declaratória de invalidade de rescisão unilateral cumulada com obrigação de fazer e compensação por danos morais, ajuizada por LUANA MARIA DA SILVA, em face de AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., na qual alega ilegalidade na rescisão do contrato de saúde, em razão de a beneficiária estar em tratamento de saúde.
+Sentença: julgou parcialmente procedente o pedido para: (a) condenar a ré a disponibilizar à autora plano individual ou familiar equivalente ao coletivo, nos termos acima;(b)condenar a ré a pagar à autora o valor de R$10.000,00 (dez mil reais), a título de compensação moral.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. Ação de obrigação de fazer. Rescisão unilateral de plano coletivo empresarial. Sentença de procedência para condenar a ré a disponibilizar à autora plano individual ou familiar equivalente ao coletivo, além do pagamento por danos morais, no valor de R$ 10.000,00 (dez mil reais). Inconformismo da requerida. Não acolhimento. Ainda que válida a rescisão unilateral do contrato coletivo por adesão, ineficaz a rescisão do contrato em relação à autora, que estava em meio a tratamento de grave doença (câncer), o que lhe confere o direito de permanecer no seguro saúde até eventual alta médica. Incidência dos artigos 421 e 422 do CPC, artigo 4º, inciso III e 51, inciso IV, §1º, I a III do CDC, e, ainda, do artigo13, parágrafo único, inciso III da Lei 9.656/98, aplicável por analogia. Requerida que sequer lhe disponibilizou a contratação de plano individual ou familiar, nos termos do artigo 1º da Resolução CONSU 19/99. Danos morais cabíveis. Indenização arbitrada em valor que se coaduna com os princípios da proporcionalidade e da razoabilidade e com as circunstâncias do caso concreto. Inconformismo da parte autora. Não acolhimento. Documentos juntados aos autos que comprovam a efetiva migração da autora para plano individual, o qual se encontra ativo, mas com comercialização suspensa. Sentença mantida. RECURSO DESPROVIDO.
+Embargos de Declaração: opostos pela AMIL, foram rejeitados.
+Recurso especial interposto por LUANA: alega violação dos arts. 492 e parágrafo único do CPC; 248 do CC; e 6º, VIII, do CDC. Afirma que a "Sentença não colocou fim à demanda, já que decidiu pela condenação futura da recorrida, em relação a obrigação de fazer, caso não cumpra a decisão" (e-STJ, fls. 299). Assevera ainda que "provada a migração do plano, como de fato não o foi, a r. Sentença deveria ter sido anulada pelo v. acórdão recorrido" (e-STJ, fls. 300).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 492 e parágrafo único do CPC; 248 do CC; e 6º, VIII, do CDC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Para a admissibilidade de um recurso especial é necessário que o recorrente demonstre a existência de violação ao dispositivo de lei federal invocado no recurso. O agravante, portanto, deverá comprovar que o acórdão recorrido violou dispositivo de lei federal, relacionando-o diretamente aos artigos mencionados. Caso contrário, o recurso será inadmitido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem, em desfavor da parte ora agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INVALIDADE DE RESCISÃO UNILATERAL CUMULADA COM OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+1. Ação declaratória de invalidade de rescisão unilateral cumulada com obrigação de fazer e compensação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo conhecido. Recurso especial não conhecido.
