@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo, manejado por M C ROCHA CALDEIRARIA LTDA - EMPRESA DE PEQUENO PORTE, desafiando decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de violação aos arts. 489 e 1.022 do CPC; e (II) aplicação da Súmula 83/STJ quanto ao entendimento no sentido de que o pagamento de parcela ínfima, insuficiente para a quitação do parcelamento tributário, configura situação equiparável à inadimplência para efeito de legitimar a exclusão do contribuinte do programa.
+Nas razões do agravo, a parte sustenta que: (I) " ao deixar de enfrentar as questões ora expostas, a c. Turma Julgadora, ao reverso do consignado na r. decisão ora agravada, não só afrontou os dispositivos legais ora invocados, como coloca em xeque o próprio Estado Democrático de Direito" (fl. 606); e (II) "a medida imposta à Agravante mostra-se desproporcional, e deve ser imediatamente revogada, admitindo a reinclusão no programa especial de parcelamento" (fl. 619).
+Contraminuta à fl. 640.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base, para além da ausência de violação aos arts. 489 e 1.022 do CPC, a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
