@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEX EDUARDO DE CAMARGO NUNES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado às penas de 06 (seis) anos, 05 (cinco) meses e 23 (vinte e três) dias de reclusão, em regime inicial fechado, e ao pagamento de 777 (setecentos e setenta e sete) dias-multa, por infração ao disposto no art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 14-19.
+No presente writ, o impetrante sustenta que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06.
+Requer, ao final, a concessão da liminar e da ordem, definitivamente, para que incida o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/2006, em seu patamar máximo (fls. 3-8).
+O pedido liminar foi indeferido.
+As informações foram prestadas às fls. 28-52.
+O Ministério Público Federal, às fls. 56-57, manifestou-se pela denegação da ordem.
+É o breve relatório.
+Decido.
+O impetrante sustenta que não houve justificação adequada a ensejar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+O parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, ao contrário do que aduz a defesa, houve fundamentação suficiente, concreta e idônea, para o afastamento do tráfico privilegiado, lastreada, não somente na grande quantidade de droga apreendida (205kg de maconha e 757g de skunk), mas, em especial, nas circunstâncias concretas da prisão do paciente e da apreensão das drogas.
+Com efeito, a Corte de origem, ao afastar o reconhecimento da redutora em pauta, concluiu, fundamentadamente, que o paciente não atuou meramente como mula, mas sim como membro efetivo do grupo criminoso para o qual se colocou a servir, sendo ainda assistido na e mpreitada, por mais dois carros, que atuavam na função de batedores, elementos idôneos a ensejar a dedicação às atividades criminosas.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Nesse sentido: "Não foram atendidas as diretrizes previstas para o reconhecimento do privilégio, uma vez que as instâncias de origem reconheceram expressamente que o paciente contribuiu para uma organização criminosa, não apenas em virtude da expressiva quantidade de drogas apreendidas - 413 kg de maconha e 18,2kg de skank (e-STJ, fl. 356) -, mas principalmente devido ao modus operandi da conduta delitiva - tráfico de entorpecentes entre os estados de Mato Grosso do Sul e São Paulo, em veículo previamente preparado, produto de furto/roubo na Comarca de domicílio do paciente (Sorocaba/SP), com as drogas escondidas no assoalho, entre o banco traseiro e dianteiro, além do porta-malas do veículo (e-STJ, fls. 292/293) -, tudo isso a indicar que ele não era mula ou traficante eventual, não fazendo, portanto, jus à referida minorante. Precedentes." (AgRg no HC n. 595.452/MS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 13/10/2020, grifei)
+Em reforço: AgRg no HC n. 689.616/SP, Sexta Turma, Rel. Ministro Antonio Saldanha Palheiro, DJe de 18/2/2022; e AgRg no AREsp n. 2.205.414/MS, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 19/12/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I
