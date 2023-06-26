@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL ao acórdão assim ementado:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. LOCAÇÃO. IMÓVEL COMERCIAL. DEPRECIAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INDENIZAÇÃO. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ.1. Não há falar em negativa de prestação jurisdicional se o tribunal motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial devido à incidência da Súmula nº 7/STJ. 3. Agravo interno não provido" (fl. 628 e-STJ).
+Em suas razões (fls. 637-641 e-STJ), a agravante sustenta a existência de omissão no julgado, não tendo o acórdão embargado se manifestado acerca dos argumentos apresentados no agravo interno.
+Afirma que
+"(..) demonstrou que o acórdão recorrido, proferido pelo Tribunal Estadual, analisa detalhadamente e extrai suas conclusões a partir do conjunto fático-probatório carreado aos autos, circunstância que em tudo recomenda a revaloração dos fatos incontroversos delineados pelas instâncias ordinárias, sendo plenamente possível aferir com exatidão - o que já reconhecido nas decisões proferidas nos autos -, não ter sido o imóvel devolvido nas condições em que foi locado, reconhecendo o acórdão do Tribunal Estadual que o valor médio de mercado do imóvel era de R$ 4.666.910,00 sendo vendido o bem por R$ 4.400.000,00, de modo que, no mínimo, deveria ter sido atribuído a agravada a obrigação de ressarcimento da diferença entendida como devida (R$ 266.910,00 - relativo a depreciação do bem), mas jamais manter a improcedência da demanda, resultando na redistribuição dos ônus sucumbenciais, nos termos do que disciplina o artigo 86 do CPC1, o que afasta o óbice pela Súmula 7 do STJ (fls. 638-639 e-STJ).
+Reitera que o recurso especial apontou a violação dos artigos 371, 374, 489, § 1º, IV, 1.022, II, do Código de Processo Civil de 2015; 113, 186, 187, 422, 569, IV, 570, 927 e 944 do Código Civil e 23, III, da Lei nº 8.245/1991.
+A parte contrária não apresentou impugnação (fl. 646 e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não procede a inconformidade veiculada nos presentes aclaratórios.
+Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão a respeito da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+No entanto, ao contrário do que foi alegado pela embargante, as questões suscitadas não constituem omissão, mas mero inconformismo com os fundamentos adotados pelo órgão colegiado, o que inviabiliza o seu exame no atual momento processual.
+Conforme decidido no agravo interno, não houve a alegada negativa de prestação jurisdicional, visto que o tribunal de origem decidiu o caso com a aplicação do direito cabível à hipótese, tendo se manifestado acerca de todos os pontos fundamentais para o deslinde da controvérsia e, quanto ao mérito, entendeu ser aplicável o óbice da Súmula nº 7/STJ.
+Assim, a usentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 será aplicada.
+É o voto.
