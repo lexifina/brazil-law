@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LILIANA BRAGA DE SOUSA FARIAS, interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba (TJ-PB), assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS. JUROS REMUNERATÓRIOS SOBRE TAXAS CONSIDERADAS ILEGAIS EM AÇÃO DIVERSA. SENTENÇA DE PROCEDÊNCIA PARCIAL. OCORRÊNCIA DA PRESCRIÇÃO. ENTENDIMENTO RECENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. ACOLHIMENTO DA PREFACIAL. PREJUDICADOS OS APELOS".
+- Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato (REsp 1444255/MS Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/04/2020, DJE 04/05/2020)" (fl.333)
+Opostos embargos de declaração, foram rejeitados (fls. 377/383).
+Em suas razões recursais (fls. 394/425), a parte recorrente alega, preliminarmente, ofensa aos arts. 489,§1º, IV e 1.022, II, do Código de Processo Civil, afirmando que o eg. TJ-PB não sanou os vícios suscitados nos embargos de declaração, essenciais ao julgamento da lide, no que tange à responsabilidade pelo insucesso da demanda.
+Ultrapassada a preliminar, aponta violação do art. 202, I, do Código Civil, sustentando, em síntese, que: a) houve negativa de prestação jurisdicional quanto a análise da causa interruptiva da prescrição, uma vez que o termo inicial do prazo prescricional se dá na data de vencimento da última parcela do contrato; b) a tramitação de demanda anterior, com citação válida, é causa interruptiva do prazo prescricional; c) não ocorreu o prazo prescricional decenal, a contar do conclusão do contrato, devendo ser afastada a prescrição no caso concreto; e d) o direito à declaração de nulidade das obrigações acessórias se originou no momento em que transitou em julgado a decisão que declarou nulas as obrigações principais.
+Apresentada contrarrazões às fls. 428/436.
+É o relatório. Passo a decidir.
+Inicialmente, não se viabiliza o recurso especial pela indicada violação dos arts. 489 §1º, IV e 1.022, I, do CPC, uma vez que, embora rejeitados os embargos de declaração opostos, o Tribunal de origem indicou expressa e adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU EM PARTE DO RECLAMO E NA PARTE CONHECIDA NEGOU-LHE PROVIMENTO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. É incabível a interposição do agravo em recurso especial contra decisão denegatória do recurso especial fundamentada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), pois o recurso cabível é o agravo interno dirigido ao próprio Tribunal de origem, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015.
+2. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+3. Conforme jurisprudência reiterada desta Corte, a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento de matéria fática, impossível na presente via, conforme dispõe a Súmula 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.919.770/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022, g.n.)
+De qualquer sorte, a Corte de origem, além de analisar detidamente o argumento de prescrição, asseverou que não era o caso de reconhecer-se causa interruptiva, porquanto, no momento da assinatura do contrato, surgiu o direito de ação tanto para reclamar as taxas entendidas como indevidas, como os juros incidentes sobre elas. Dessa forma, ante a expressa análise da matéria pelo TJ-PB, afasta-se a violação dos arts. 489 e 1.022 do CPC.
+Quanto a alegada violação do art. 202, I, do Código Civil, insurge-se a parte sobre o fato de o Tribunal a quo ter acolhido a preliminar de prescrição e julgado extinto o feito com resolução do mérito, declarando prejudicado a análise dos recursos interpostos pelas partes. Com efeito, o TJ-PB decidiu no seguinte sentido :
+"Analisando os autos, verifico assiste razão ao Banco apelante no que pertine ao fenômeno prescricional, conforme explico a seguir.
+A pretensão se refere às cláusulas contratuais, que podem ser discutidas desde a assinatura do contrato, motivo pelo qual o termo inicial do prazo prescricional é de 10 (dez) anos, porém o termo inicial para a sua contagem é a data em que o contrato foi firmado
+É esse o entendimento mais recente da Corte Cidadã:
+"Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. " (REsp 1444255/MS Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/04/2020, DJE 04/05/2020)
+Dito isto, no caso em tela, observa-se que o contrato de financiamento foi firmado em 30 de ABRIL de 2009, ao passo em que a exordial foi protocolada em 20 de SETEMBRO 2019, portanto, após o lapso temporal decenal." (fls. 336/337).
+Nos aclaratórios integrativos, o Tribunal ainda confirmou:
+"Ademais, ressalto que a discussão apresentada (prescrição) já fora enfrentada pela decisão vergastada.
+Outrossim, não há que se falar em causa interruptiva, porquanto, no momento da assinatura do contrato, surgiu o direito de ação tanto para reclamar as taxas entendidas como indevidas, bem como os juros incidentes sobre elas.
+Portanto, a insatisfação do recorrente com o julgamento contrário aos seus interesses não encontra amparo na via dos embargos declaratórios, sendo vedado, inclusive, inovar em argumentações"(fl.381).
+Esta Corte Superior tem entendimento pacífico no sentido de que, no reconhecimento da prescrição em contrato de trato sucessivo ou execução continuada, o termo inicial para a contagem da prescrição é a data da assinatura do contrato. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DECENAL DA AÇÃO DE REVISÃO CONTRATUAL. NOVAÇÃO DE DÍVIDAS E RENOVAÇÃO DOS CONTRATOS. POSSIBILIDADE DE INFLUENCIAR NA AVERIGUAÇÃO DA PRESCRIÇÃO. TERMO INICIAL. DATA DE ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. AGRAVO INTERNO DESPROVIDO.
+1. Entende o Superior Tribunal de Justiça que, em ação revisional de contrato, "o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Súmula 568/STJ" (AgInt nos EDcl no REsp 1.897.309/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 15/3/2021, DJe 18/3/2021).
+2. Consoante o aresto, houve sucessão negocial com a repactuação das dívidas. Esse quadro revela a necessidade apuração da data da assinatura do último contrato renovado para verificar a ocorrência, ou não, de prescrição.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.920.171/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DO AUTOR.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+2. As matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas de ofício e a qualquer tempo nas instâncias ordinárias. Incidência da Súmula 83 do STJ.
+2.1. Conforme entendimento firmado no STJ, o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, deve-se considerar como termo inicial do prazo prescricional, nas ações de revisão de contrato bancário, a data da assinatura do contrato. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.043.145/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA REVISIONAL. CONTRATO BANCÁRIO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. "Conforme entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes" (AgInt nos EDcl no REsp 1917613/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/6/2021, DJe 21/6/2021).
+2. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência pacífica do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.015.484/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. REPACTUAÇÃO DOS CONTRATOS. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. SUCESSÃO NEGOCIAL.
+1. Ação revisional de contratos.
+2. A jurisprudência desta Corte é firme em determinar que o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+3. Havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.966.860/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Dessa forma, estando a orientação em consonância com a jurisprudência desta Corte o apelo nobre encontra óbice na Súmula 83/STJ:
+Diante do exposto, nos termos d o art. 255, § 4º, III, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
