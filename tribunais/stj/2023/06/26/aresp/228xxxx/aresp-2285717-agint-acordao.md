@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno (fls. 2-40, e-STJ - expediente avulso), interposto por HAPVIDA ASSISTENCIA MEDICA S.A., em face da decisão de fls. 712-713, e-STJ, da lavra do eminente Ministro Presidente desta Corte, que não conheceu do agravo da ora insurgente.
+O referido julgado aplicou o teor da Súmula 284/STF, ante a indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo.
+Inconformada, a parte insurgente interpôs o presente agravo interno (fls. 2-40, e-STJ - expediente avulso), no qual a insurgente sustenta a inaplicabilidade do referido óbice.
+Sem impugnação (fls. 45, e-STJ - expediente avulso).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO APELO.
+INSURGÊNCIA RECURSAL DA AGRAVADA .
+1. Não se conhece do agravo interno por intempestividade quando interposto após escoado o prazo legal de 15 dias úteis, nos termos do art. 1021 c/c art. 1070, CPC/15.
+2. Agravo interno não conhecido.
+VOTO
+O agravo interno não merece ser conhecido, por ser intempestivo.
+1. Com efeito, a decisão agravada, acostada às fls. 712-713, foi disponibilizada no Diário da Justiça Eletrônico em 16/03/2023, com publicação em 17/03/2023, cujo prazo recursal teve início no dia útil seguinte - 20/03/2023 -, conforme art. 4º, § 4º, da Lei 11.419/2006.
+Verifica-se, pois, que o prazo fatal para interpor o agravo interno se deu em 12/04/2023 - quarta-feira -, enquanto o recurso foi interposto apenas em 17/04/2023 - segunda-feira -, conforme protocolo contido na primeira folha do agravo interno (e-STJ, fl. 02 - expediente avulso), quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, § 2º, do CPC/2015, conforme certidão juntada às fls. 41 (e-STJ - expediente avulso).
+Ademais, nos termos da jurisprudência desta Corte, a ocorrência de feriado local, que implique a ausência de expediente forense no Tribunal Estadual, não influi na contagem do prazo para a interposição de agravo interno perante o Superior Tribunal de Justiça.
+No mesmo sentido:
+PROCESSO CIVIL. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO. ART. 1.021, C/C OS ARTS. 219, 1.003, § 5º, e 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015. I - O recurso não merece ser conhecido. A interposição de agravo interno, após o prazo legal de 15 dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. II - Nesse sentido: AgInt no AREsp n. 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp n. 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp n. 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017. III - Agravo interno não conhecido. (AgInt nos EAREsp n. 1.441.712/SP, relator Ministro Francisco Falcão, Corte Especial, julgado em 7/6/2022, DJe de 10/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO. EXISTÊNCIA DE FERIADO LOCAL QUE NÃO INFLUENCIA NA CONTAGEM DE PRAZO NO STJ. RECURSO NÃO CONHECIDO. 1. A decisão agravada foi disponibilizada no Diário da Justiça Eletrônico em 15/02/2022, com publicação em 16/02/2022, cujo prazo recursal teve início no dia útil seguinte, conforme art. 4º, § 4º, da Lei 11.419/2006. 2. O prazo fatal para interpor o agravo interno se deu em 11/03/2022 - sexta-feira -, enquanto o recurso foi interposto apenas em 14/03/2022, quando decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, § 2º, do CPC/2015. Assim, o agravo interno é intempestivo. 3. Ademais, nos termos da jurisprudência desta Corte, "a ocorrência de feriado local, que implique a ausência de expediente forense no Tribunal Estadual, não influi na contagem do prazo para a interposição de agravo interno perante o Superior Tribunal de Justiça" (AgInt no REsp 1.899.757/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe de 28/05/2021). 4. Agravo interno não conhecido. (AgInt no AREsp n. 2.037.758/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/5/2022, DJe de 29/6/2022.)
+De rigor o não conhecimento do recurso em razão da sua intempestividade.
+2. Ante o exposto, não conheço do agravo interno.
+É como voto.
