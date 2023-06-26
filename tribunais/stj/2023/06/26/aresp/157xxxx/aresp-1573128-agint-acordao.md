@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça de São Paulo, conforme acórdão assim ementado:
+EMBARGOS À EXECUÇÃO  Multa por descumprimento de obrigação de fazer e não fazer, fixada em sentença proferida nos autos de Ação Civil Pública  Competência de uma das Câmaras da Primeira Subseção de Direito Privado, nos termos do acórdão proferido pelo órgão Especial deste E. Tribunal de Justiça  Multa referente ao período posterior à execução anteriormente proposta  Período não abarcado na execução anterior  Ausência de duplicidade de cobrança - OBRIGAÇÃO DE NÃO FAZER  Município que foi condenado a abster-se de lançar esgoto in natura no Rio Pirajubu e esgoto tratado nos Ribeirões Varejão, Tapera Grande e Sanatório  Laudo que constatou a ausência de tratamento de esgoto lançados nos ribeirões  Descumprimento da obrigação de não fazer  Possibilidade de execução da multa  Inaplicabilidade do princípio da reserva possível  Descaso do Município em efetuar o tratamento do esgoto, prejudicando a população, descumprindo comando judicial transitado em julgado - Valor de multa reduzido pela r. sentença, que deve ser mantido - OBRIGAÇÃO DE FAZER  Atraso na regularização do loteamento  Inexistência de culpa exclusiva do Município - Sentença que reduziu o valor da multa, observando Princípios Constitucionais  Sentença mantida  Recurso desprovido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Foi interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. OBRIGAÇÃO DE FAZER E NÃO FAZER. LANÇAMENTO DE ESGOTOS. LOTEAMENTO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de embargos à execução, objetivando reduzir o valor da multa executada pelo Ministério Público de São Paulo, referente ao não cumprimento de obrigação de fazer do embargante em proceder ao registro de loteamentos Cidade Nova I e II e obrigação de não fazer quanto ao lançamento de esgoto in natura no Rio Pirajabu, bem como esgoto tratado nos Ribeirões Varejão, Tapera Grande e Sanatório, pleiteando multas do período de 21.12.98 a 31.3.99 e 21.12.98 a 28.5.99. Na sentença os pedidos foram julgados parcialmente procedentes. No Tribunal a quo, a sentença foi mantida.
+II - A decisão recorrida, que não conheceu do recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento da incidência do enunciado n. 7 da Súmula do STJ e, no caso específico, ainda a análise de lei local, incidindo também o óbice do enunciado n. 280 da Súmula do STF.
+III - Por outro lado, em seu agravo interno, a parte agravante traz alegações não acompanhadas de contraposição clara e específica a todos os fundamentos da decisão recorrida.
+IV - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+V - Agravo interno não conhecido.
+VOTO
+O agravo interno não merece conhecimento.
+A decisão recorrida, que não conheceu do recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento da incidência do enunciado n. 7 da Súmula do STJ e, no caso específico, ainda a análise de lei local, incidindo também o óbice do enunciado n. 280 da Súmula do STF.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações não acompanhadas de contraposição clara e específica a todos os fu ndamentos da decisão recorrida.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
