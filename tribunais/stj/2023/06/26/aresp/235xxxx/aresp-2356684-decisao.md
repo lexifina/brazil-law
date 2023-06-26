@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS (EXCELSIOR) contra decisão que negou seguimento ao seu apelo nobre.
+Não apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a da CF, EXCELSIOR alegou ofensa aos arts. (1) 1º, da Lei Federal nº 12.409/2011, nos termos do qual seria necessário reconhecer o interesse da Caixa Econômica Federal e, por conseguinte, a competência da Justiça Federal para processar e julgar o feito; (2) 7, 18, 320, 321, 373, I, 434, 435 e 485 do NCPC, pois a recorrida, TAIZ REGINA GARCIA MACEDO (TAIZ), não teria comprovado sua condição de mutuária, não ostentando, portanto, legitimidade para pleitear a indenização securitária; (3) 47 do CPC/73, pois seria necessário reconhecer o litisconsórcio passivo necessário com o agente financeiro; (4) 757 do Código Civil, pois o contrato de seguro não cobria vícios construtivos; (5) 373 I, do CPC, pois seria ônus da recorrida, TAIZ, comprovar os danos experimentados; (6) 412 do CC, pois a multa decendial, além de inaplicável seria, ainda, excessiva, merecendo, por isso, redução equitativa; (7) 206, § 1º, e 771 do CC e 487 do CPC, pois estaria prescrita a pretensão de cobrança.
+(1) Competência
+A respeito da competência para processar e julgar esses feitos, o STF fixou a Tese 1011 com as seguintes orientações vinculantes:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e 2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+No caso, o acórdão recorrido, que julgou o mérito da causa, foi prolatado aos 25/10/2017, ou seja, antes de publicado a tese repetitiva em comento, justificando-se, nessa medida, o prosseguimento do feito na Justiça Comum Estadual.
+(2) legitimidade ativa
+A Corte Especial do STJ assinalou que, ocorrendo a cessão do contrato de mútuo após 25/10/96 e sem anuência da instituição financeira, não estará o cessionário autorizado a discutir ou exigir o cumprimento das obrigações originariamente assumidas pelo cedente.
+Confira-se:
+RECURSO ESPECIAL. REPETITIVO. RITO DO ART. 543-C DO CPC. SISTEMA FINANCEIRO DA HABITAÇÃO. LEGITIMIDADE ATIVA DO CESSIONÁRIO DE CONTRATO DE MÚTUO. LEI Nº 10.150/2000. REQUISITOS.
+1.Para efeitos do art. 543-C do CPC: 1.1 Tratando-se de contrato de mútuo para aquisição de imóvel garantido pelo FCVS, avençado até 25/10/96 e transferido sem a interveniência da instituição financeira, o cessionário possui legitimidade para discutir e demandar em juízo questões pertinentes às obrigações assumidas e aos direitos adquiridos.
+1.2 Na hipótese de contrato originário de mútuo sem cobertura do FCVS, celebrado até 25/10/96, transferido sem a anuência do agente financiador e fora das condições estabelecidas pela Lei nº 10.150/2000, o cessionário não tem legitimidade ativa para ajuizar ação postulando a revisão do respectivo contrato.
+1.3 No caso de cessão de direitos sobre imóvel financiado no âmbito do Sistema Financeiro da Habitação realizada após 25/10/1996, a anuência da instituição financeira mutuante é indispensável para que o cessionário adquira legitimidade ativa para requerer revisão das condições ajustadas, tanto para os contratos garantidos pelo FCVS como para aqueles sem referida cobertura.
+2. Aplicação ao caso concreto: 2.1. Recurso especial parcialmente conhecido e nessa parte provido.
+Acórdão sujeito ao regime do artigo 543-C do Código de Processo Civil e da Resolução STJ nº 8/2008.
+(REsp n. 1.150.429/CE, relator Ministro RICARDO VILLAS BÔAS CUEVA, Corte Especial, julgado em 25/4/2013, DJe de 10/5/2013.)
+De rigor, assim o restabelecimento da sentença que, justamente, extinguiu o feito por falta de legitimidade ativa.
+(3) a (7) Demais temas
+Acolhida a alegação de ilegitimidade ativa, fica prejudicado o exame dos demais temas suscitados no recurso especial.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. CESSÃO DO CONTRATO DE MÚTUO OCORRIDA APÓS 1996 E SEM ANUÊNCIA DO AGENTE FINANCEIRO. ILEGITIMIDADE ATIVA DO MUTUÁRIO PARA EXIGIR O PAGAMENTO DA INDENIZAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
