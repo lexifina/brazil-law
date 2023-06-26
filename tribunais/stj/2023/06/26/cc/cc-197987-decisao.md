@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por INSTITUTO METODISTA BENNETT - EM RECUPERAÇÃO JUDICIAL, ASSOCIAÇÃO DA IGREJA METODISTA ("AIM-NACIONAL") e ASSOCIAÇÃO DA IGREJA METODISTA - PRIMEIRA REGIÃO ECLESIÁSTICA ("AIM-1ª-RE") em face do d. Juízo de Direito da 2ª Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre/RS e do d. Juízo da 75ª Vara do Trabalho do Rio de Janeiro/RJ.
+Sustenta a inicial que, apesar de a parte suscitante estar submetida a processo de recuperação judicial em trâmite perante o d. Juízo de Direito da Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre/RS, o d. Juízo do Trabalho Suscitado, embora ciente desse fato, promoveu a continuidade de execução trabalhista movida em face das recuperandas (nas fls. 51).
+Aduz, assim, que o conflito de competência está caracterizado, porque compete ao Juízo da Recuperação Judicial estabelecer, em harmonia com o plano de soerguimento, a forma como serão satisfeitos os créditos requeridos em face de recuperandos.
+Requer, em sede de liminar, a suspensão da decisão do d. Juízo exequente suscitado e, no mérito, seja declarada a competência do d. Juízo da Recuperação Judicial.
+Todavia, destacando que o d. Juízo do Trabalho suspendeu a execução contra o INSTITUTO METODISTA BENNETT - EM RECUPERAÇÃO JUDICIAL, verifica-se que a decisão do d. Juízo de Direito da Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre/RS deferindo a recuperação judicial da ASSOCIAÇÃO DA IGREJA METODISTA ("AIM-NACIONAL") e da ASSOCIAÇÃO DA IGREJA METODISTA - PRIMEIRA REGIÃO ECLESIÁSTICA ("AIM-1ª-RE") não foi juntada aos autos.
+Ante o exposto, tragam as suscitantes, no prazo de 10 (dez) dias úteis documentos hábeis a comprovar a caracterização do alegado conflito de competência.
+A liminar será apreciada oportunamente.
+Publique-se.
