@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 1.384-1.388, e-STJ) que conheceu do Agravo de Tigre S.A. Participações para não conhecer do Recurso Especial.
+Na origem, o Recurso Especial foi inadmitido em virtude da consonância do acórdão recorrido com o posicionamento desta Corte Superior, o que fez incidir a Súmula 83/STJ.
+Na decisão de minha relatoria, foi aplicada a Súmula 182/STJ por não ter a recorrente combatido efetivamente o referido enunciado obstativo.
+Em seu Agravo Interno, a empresa afirma que o precedente utilizado destoa do objeto em discussão, e assevera que impugnou efetivamente o óbice recursal, uma vez que colacionou julgado atual e contemporâneo.
+A agravante sustenta (fl. 1.421, e-STJ):
+Deveras, a Agravante demonstrou que (i) o precedente firmado no REsp 1.109.2984, único citado pela decisão que inadmitiu o recurso especial interposto pela Agravante, não tem por objeto a questão sub judice, razão pela qual não se presta a justificar a aplicação da Súmula 83; e (ii) o acórdão recorrido, em rigor, diverge da jurisprudência do STJ, ilustrada pelo entendimento firmado no REsp 1.350.2075, o que também afasta a incidência do óbice previsto na Súmula 83 dessa Corte.
+A parte requer o provimento do Recurso Especial.
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos nesta Gabinete em 31 de maio de 2023.
+De início, esclareço que assiste razão à agravante quando alega que impugnou especificamente o impedimento que ensejou a negativa de seguimento ao seu apelo especial. De fato, constato a presença de precedente recente, conforme se extrai do rodapé da fl. 1.332, e-STJ.
+Por esse motivo, reconsidero a decisão agravada e passo, desde logo, a nova análise do recurso.
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão assim ementado (fl. 1.119, e-STJ):
+APELAÇÕES CÍVEIS SIMULTÂNEAS. EMBARGOS À EXECUÇÃO FISCAL. ICMS. SAÍDA DE MERCADORIA PARA ESTABELECIMENTO LOCALIZADO EM OUTRO ESTADO, PERTENCENTE AO MESMO TITULAR. BASE DE CÁLCULO DO TRIBUTO. INTERPRETAÇÃO RESTRITIVA DO ART. 13, § 4º, II, DA LC 87/96. SENTENÇA MANTIDA NO PONTO. APELO DO ENTE ESTATAL. HONORÁRIOS SUCUMBENCIAIS. FIXAÇÃO DE ACORDO COM A REGRA ESTABELECIDA NO ARTIGO 85, §3º, II, DO CPC. NECESSÁRIA CORREÇÃO DO PERCENTUAL ESTABELECIDO NA SENTENÇA. RECURSO DA PARTE EMBARGANTE NÃO PROVIDO. APELO DO ESTADO DA BAHIA PROVIDO.
+Os Embargos de Declaração não foram acolhidos (fl. 1.240, e-STJ).
+Em seu Recurso Especial, a agravante aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015; e 13, § 4º, II, da LC 87/1996.
+Contrarrazões às fls. 1.296-1.310, e-STJ.
+Juízo negativo de admissibilidade (fl. 1.311-1.314, e-STJ) deu ensejo à interposição do presente Agravo (fls. 1.323-1.333, e-STJ).
+Contraminuta às fls. 1.365-1.372, e-STJ.
+Na origem, cuida-se de Embargos à Execução Fiscal opostos por Tigre S.A. Participações contra o Estado da Bahia com vistas à desconstituição do Auto de Infração que não reconheceu crédito fiscal de ICMS na operação de circulação de mercadorias entre estabelecimentos da mesma empresa em diferentes Estados da Federação.
+Ao julgar a controvérsia, a Corte local consignou (fls. 1.123-1.130, e-STJ):
+Da análise dos elementos informativos presentes nos autos, depreende-se que as assertivas sentenciais devem ser mantidas no ponto em que não acolheu os embargos à execução, senão vejamos.
+Os Embargos à Execução Fiscal de origem objetivam desconstituir o Auto de Infração nº 206891.0008/15-9, lavrado em razão de suposta apropriação indevida de créditos de ICMS, decorrentes de desvalorização da base de cálculo do referido tributo em operações de remessas interestaduais de mercadorias advindas de estabelecimentos próprios situados em outros Estados da Federação, ensejando o recolhimento, a menor, do imposto ao erário baiano, durante o período de janeiro a dezembro de 2011.
+Defende a embargante/apelante que o custo com energia elétrica, bem como manutenção, depreciação e outros devem integrar a base de cálculo para a apuração do ICMS, sob a tese de que tais despesas estariam inseridas no conceito de insumo de produção tratado na Lei Complementar nº 87/96.
+(..)
+Na espécie, a circulação da mercadoria assume relevância para configuração da incidência do imposto, a fim de que não ocorram distorções na arrecadação das diversas entidades da federação.
+Com efeito, o § 4º do art. 13 da Lei Complementar nº 87/96 estabelece que, na saída de mercadoria, ainda que para outro estabelecimento do mesmo titular, em unidade distinta da federação, a base de cálculo é o custo da mercadoria produzida.
+(..)
+Pacífica a compreensão adotada pelo Superior Tribunal de Justiça no sentido de que a regra contida no dispositivo acima transcrito deve ser interpretada de forma restritiva quando do exame do que deve ser considerado como custo da mercadoria produzida, excluindo-se, portanto, as despesas de manutenção, depreciação, energia elétrica e outros que não devem integrar a base de cálculo do ICMS entre Estados.
+(..)
+Observa-se, desse modo, que a interpretação da norma deve ser restritiva, sob pena de ampliação indevida das exceções, uma vez que a Lei estabeleceu bases de cálculo adotadas em situações excepcionais.
+Nos Embargos Declaratórios, a parte aduz que o tema debatido não foi enfrentado no acórdão embargado, de modo que este incorreu em omissão fundamental para o deslinde da controvérsia. Senão, vejamos (fls. 1.151-1.153, e-STJ):
+Primeira: Conforme se depreende do precedente invocado pela Embargante em seu recurso de apelação (Id.9391261-Pág.7), o SUPERIOR TRIBUNAL DE JUSTIÇA (STJ), em acórdão já transitado em julgado1, firmou o entendimento de que ".. a genérica afirmação de que a legislação comporta interpretação restritiva não autoriza a adequada solução da lide, pois é necessário que o Tribunal a quo valore, à luz do art. 13, § 4º, II, da LCF 87/1996, se as despesas apontadas pela empresa recorrente caracterizam apenas nomen iuris diferente ou possuem, realmente, natureza estranha ao conceito de "custo da mercadoria produzida"".
+(..)
+Segunda: A despeito de a Embargante aduzir em seu recurso de apelação que os gastos com manutenção, depreciação, energia elétrica e outros estão inseridos no conceito de material secundário e mão-de-obra, em consonância com o disposto no art. 13, §4º, II, da LC 87/96(verdadeira causa de pedir principal -Id.9391261-Pág.6/10), o acórdão embargado restringiu-se a analisar o ".. a regra contida no dispositivo acima transcrito deve ser interpretada de forma restritiva quando do exame do que deve ser considerado como custo da mercadoria produzida, excluindo-se, portanto, as despesas de manutenção, depreciação, energia elétrica e outros que não devem integrar a base de cálculo do ICMS entre Estados"
+(..)
+Terceiro: O acórdão embargado também não apreciou as causas de pedir relativas à (i) nulidade do auto de infração sub judice à luz do art. 13, § 1º, do Decreto-lei 1.598/1977,do Regulamento do ICMS da Bahia, o art. 290 do Decreto Federal 3.000/1999(vigente à época das operações autuadas), e os arts. 20, § 5º, I, e 33, II, "b", da Lei Complementar 87/1996(Id.9391261-Pág.13/14); e (ii)indiscutível boa-fé da Embargante, eis que ela não poderia supor a invalidade da mensuração da base de cálculo do ICMS, amparada no art. 13, § 1º, do Decreto-lei1.598/1977, art. 183, II e IV, da Lei Federal 6.404/1976, na ciência da contabilidade, e nos atos e decisões de natureza jurídica que objetivaram definir estes conceitos, aí se incluindo a Decisão Normativa 5/2005, da CAT da SEFAZ/SP(Id.9391261-Pág.14/15).
+(..)
+Quarto: Em suas contrarrazões (Id.9391269-Pág.3/4), a Embargante sustentou que a simples análise da legislação indicada pelo próprio ESTADO DA BAHIA-art. 1º do Decreto Estadual 25.602/1977, art. 17 da Lei Estadual 3.017/1972e art. 11 da Lei Complementar 43/2017 - comprova que a verba honorária incluída na Certidão de Dívida Ativa(CDA) tem a mesma natureza jurídica dos honorários advocatícios devidos em razão da sucumbência processual, razão pela qual não devem ser incluídos na base de cálculo dos honorários sucumbências, sob pena de bis in idem.
+Observo que não houve manifestação sobre os pontos ventilados pela recorrente e indispensáveis à apreciação do Recurso Especial. Apesar de opostos aclaratórios, a Corte b aiana se valeu dos mesmos argumentos anteriormente apresentados para não acolher a insurgência.
+Verifico que a questão central da lide consiste em avaliar se as despesas incluídas pela empresa contribuinte extrapolam o conceito de custo de produção da mercadoria.
+Esta Corte já se pronunciou nesse sentido em caso idêntico:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. MULTA POR INFRAÇÃO À LEGISLAÇÃO TRIBUTÁRIA. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. ICMS. TRANSFERÊNCIA DE MERCADORIA ENTRE UNIDADES ESTABELECIDAS EM DIFERENTES ESTADOS-MEMBROS. BASE DE CÁLCULO. EXEGESE DO ART. 13, § 4º, II, DA LC 87/1996.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incide, por analogia, a Súmula 284/STF.
+2. Quanto à aplicação de multa, a Corte local solucionou a lide mediante interpretação exclusivamente da legislação local, o que atrai a incidência da Súmula 280/STF.
+3. Em relação ao mérito, o Tribunal de origem limitou-se a, genericamente, concluir que a regra do art. 13, § 4º, II, da LC 87/1996 comporta interpretação restritiva. Tal entendimento, embora convergente com a orientação que o STJ atribui, não se revela suficiente para compor a lide, pois a controvérsia não consiste em identificar a natureza restritiva ou não da norma, mas se as características das despesas denominadas MOI (mão de obra indireta), GGF (gastos gerais de fabricação) e DPF (despesas fixas), a despeito do nomen iuris, permitem o seu rigoroso enquadramento no conceito de custos, estabelecido na norma em tela, de modo a integrar a base de cálculo do ICMS.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, provido para anular o acórdão hostilizado.
+(REsp. 1.350.207/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/11/2015)
+Desse modo, reconheço a omissão quanto ao exame de matéria relevante para a solução do conflito.
+Portanto, justifica-se a devolução dos autos à origem para novo julgamento dos aclaratórios.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1.465.390/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 2/3/2021)
+Diante do exposto, conheço do Agravo Interno para, em juízo de retratação, reconsiderar as decisões proferidas às fls. 1.384-1.388 e 1.406-1.408, e-STJ, conhecer do Agravo para dar parcial provimento ao Recurso Especial e determinar o retorno dos autos ao Tribunal a quo a fim de que este proceda a novo julgamento dos Embargos de Declaração. Ficam prejudicadas as questões meritórias.
+Publique-se.
+Intimem-se.
