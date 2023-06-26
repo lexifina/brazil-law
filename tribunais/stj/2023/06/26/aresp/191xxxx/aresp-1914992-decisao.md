@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSÉ ANTONIO DE MOURA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 245):
+AGRAVO DE INSTRUMENTO - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - CITAÇÃO EDITALÍCIA DECLARADA NULA - AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL TRIENAL - PRESCRIÇÃO RECONHECIDA - RECURSO PROVIDO. Consoante entendimento jurisprudencial, a declaração de nulidade da citação editalícia não interrompe a fluência do prazo prescricional. Considerando que o comparecimento espontâneo da requerida ocorreu em data posterior ao transcurso do prazo prescricional trienal, é de rigor o reconhecimento da prescrição para a cobrança dos valores referentes aos aluguéis.
+Sem embargos de declaração.
+No recurso especial, insurge-se o recorrente contra o entendimento do Tribunal de origem que, em reforma da sentença, reconheceu a ocorrência da prescrição para que se proceda à cobrança dos valores referentes aos aluguéis em questão, em razão da nulidade da citação da recorrida. Defende que não se aplica ao caso o art. 240, § 2º, do CPC, mas o § 1º do mesmo artigo, e que a anulação da citação editalícia não torna a ação prescrita.
+Apresentadas contrarrazões ao recurso especial (fls. 287-290).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 308/310), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 326-327).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+Mostra-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender pela ocorrência da prescrição, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do referido acórdão (fls. 247-249):
+Como é cediço, a prescrição é interrompida com a citação válida, a qual ocorrerá a partir do despacho ordenando-a e dentro do prazo previsto no art. 240do CPC.
+Por sua vez, consoante entendimento jurisprudencial, não esgotados os meios necessários para a citação editalícia e, sendo esta declarada nula, por certo que não há falar em interrupção da prescrição. Confira:
+(..)
+No caso em apreço, verifica-se que a citação por edital foi declarada nula porque não estavam presentes os requisitos necessários para tanto, de forma que descabe falar em interrupção retroativa da prescrição à data da propositura da ação.
+(..)
+No caso em apreço, o agravado ajuizou a ação de despejo por falta de pagamento c/c cobrança de aluguéis atrasados referentes aos meses de março a dezembro de 2012 (f. 28/40). Assim, verifica-se que a ação foi proposta dentro do prazo prescricional legal (30.01.2013).
+Todavia, com a nulidade da citação editalícia, percebe-se que a citação válida somente ocorreu como comparecimento espontâneo da agravante/requerida em 06.08.2018, conforme regras contidas no art. 239, §§ 1º e 2º, do CPC, que assim estabelecem:
+(..)
+Logo, considerando que o comparecimento espontâneo da requerida ocorreu em data posterior ao transcurso do prazo prescricional trienal é de rigor o reconhecimento da prescrição para a cobrança dos valores referentes aos aluguéis.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE CRÉDITO EDUCATIVO. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. ALEGAÇÃO DE PRESCRIÇÃO AFASTADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. CONCLUSÃO ACERCA DA INEXISTÊNCIA DE EXCESSO DE EXECUÇÃO, ALÉM DE QUE A ALEGAÇÃO DE ABUSIVIDADE SE DEU DE FORMA GENÉRICA. SÚMULAS 5 E 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+2. Com efeito, o entendimento adotado pela Corte de origem de que o prazo quinquenal não estaria implementado e que o vencimento antecipado da obrigado não modifica o início do prazo prescricional coaduna com a jurisprudência firmada por este Tribunal Superior, a ser contado desde a data do vencimento certo indicado no título, o que atrai o óbice da Súmula 83/STJ.
+2.1. Na hipótese, reverter a conclusão do colegiado originário (acerca da não configuração do prazo prescricional), demandaria necessariamente o revolvimento do acervo fático-probatório, o que é vedado em virtude da natureza excepcional da via eleita, conforme a Súmula n. 7 do Superior Tribunal de Justiça.
+3. A modificação do entendimento alcançado pelo acordão estadual, quanto à inexistência de excesso na execução, além de que o agravante deixou de apontar os valores que efetivamente entendeu devidos para que fosse examinada eventual abusividade, demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.209.599/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
