@@ -1,0 +1,261 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 7
+
+26/06/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.421.026 R IO
+DE JANEIRO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: ITAPEBI GERACAO DE ENERGIA SA
+: ALESSANDRA BITTENCOURT DE GOMENSORO
+: ARIANE COSTA GUIMARAES
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+EMENTA
+
+DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IMPOSTO DE
+RENDA. MULTA DE OFÍCIO E JUROS ISOLADOS. REVISÃO.
+AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. OFENSA REFLEXA
+NÃO VIABILIZA O APELO EXTREMO. REELABORAÇÃO DA
+MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não
+alcança estatura constitucional. Não há falar em afronta aos preceitos
+constitucionais indicados nas razões recursais. Compreensão diversa
+demandaria a análise da legislação infraconstitucional encampada na
+decisão da Corte de origem, bem como o revolvimento do quadro fático
+delineado, a tornar oblíqua e reflexa eventual ofensa à Constituição,
+insuscetível, bem com, de viabilizar o conhecimento do recurso
+extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior,
+nos termos da jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada.
+3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso,
+majorará os honorários fixados anteriormente levando em conta o trabalho
+adicional realizado em grau recursal, observando, conforme o caso, o disposto nos
+§§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários
+devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA7A-53DB-D37D-E72F e senha 3CC5-EBB3-BDD1-58A5
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 7
+
+ARE 1421026 AGR / RJ
+nos §§ 2º e 3º para a fase de conhecimento”.
+4. Agravo interno conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal em conhecer do agravo e negar-lhe
+provimento, nos termos do voto da Relatora e por unanimidade de votos,
+em sessão virtual do Pleno de 16 a 23 de junho de 2023, na conformidade
+da ata do julgamento. Não participou deste julgamento a Ministra
+Cármen Lúcia.
+Brasília, 26 de junho de 2023.
+Ministra Rosa Weber
+Presidente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA7A-53DB-D37D-E72F e senha 3CC5-EBB3-BDD1-58A5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 7
+
+26/06/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.421.026 R IO
+DE JANEIRO
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: ITAPEBI GERACAO DE ENERGIA SA
+: ALESSANDRA BITTENCOURT DE GOMENSORO
+: ARIANE COSTA GUIMARAES
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Presidente): Trata-se de agravo
+interno manejado contra decisão da Presidência desta Suprema Corte
+pela qual negado seguimento ao recurso, ao fundamento de que “para
+ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a
+causa à luz da interpretação dada à legislação infraconstitucional pertinente e
+reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso
+extraordinário”.
+A parte agravante ataca a decisão impugnada ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Afirma que o recurso extraordinário reúne todos os requisitos para sua
+admissão. Insurge-se contra a aplicabilidade da Súmula nº 279/STF.
+Reitera as razões do apelo extremo. Requer o provimento do agravo
+(09d583cb).
+O Tribunal de origem julgou a controvérsia em decisão cuja ementa
+reproduzo:
+“TRIBUTÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO
+FISCAL. IRRF. NATUREZA DE ANTECIPAÇÃO. RETENÇÃO.
+OBRIGAÇÃO DA FONTE PAGADORA. AUSÊNCIA. MULTA
+DE OFÍCIO E JUROS ISOLADOS. RESPONSABILIDADE DO
+CONTRIBUINTE. SUBMISSÃO DOS RENDIMENTOS À
+TRIBUTAÇÃO.”
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AE3C-5F28-DC3C-3FD3 e senha 58EE-FC31-87DC-DC59
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 7
+
+ARE 1421026 AGR / RJ
+Intimada, a parte agravada não apresentou contraminuta (fbe1266d).
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AE3C-5F28-DC3C-3FD3 e senha 58EE-FC31-87DC-DC59
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 7
+
+26/06/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.421.026 R IO
+DE JANEIRO
+VOTO
+A Senhora Ministra Rosa Weber (Presidente): Preenchidos os
+pressupostos genéricos, conheço do agravo interno e passo ao exame do
+mérito.
+Negado seguimento ao recurso ao fundamento de que “para
+ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a
+causa à luz da interpretação dada à legislação infraconstitucional pertinente e
+reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso
+extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta
+ou reflexa e a Súmula 279 desta Corte impede o reexame de provas”.
+Irrepreensível a decisão agravada.
+Consoante consignado no decisum impugnado, a suposta afronta aos
+postulados constitucionais invocados no apelo extremo somente poderia
+ser constatada a partir da análise da legislação infraconstitucional
+aplicável e do revolvimento do quadro fático delineado, a tornar oblíqua
+e reflexa eventual ofensa à Constituição, insuscetível, como tal, de
+viabilizar o conhecimento do recurso extraordinário. Nesse sentido:
+“Segundo
+
+agravo
+regimental
+em
+recurso
+extraordinário com agravo. Tributário. Regime de
+apuração
+do
+lucro.
+Questão
+infraconstitucional.
+Enquadramento da atividade na hipótese legal. Fatos e
+provas. Súmula nº 279/STF. Princípio da legalidade.
+Súmula nº 636/STF. 1. É infraconstitucional e depende do
+revolvimento fático e probatório dos autos (Súmula nº
+279/STF) a controvérsia atinente ao enquadramento da
+agravante nas hipóteses previstas no art. 14, inciso VI, da
+Lei nº 9.718/98 e no Parecer Normativo COSIT nº 5/14. 2.
+Não cabe recurso extraordinário por contrariedade ao
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3ECD-CA86-324D-CD50 e senha 8E4F-CC38-FD87-551D
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 7
+
+ARE 1421026 AGR / RJ
+princípio da legalidade quando sua verificação
+pressuponha rever a interpretação dada a normas
+infraconstitucionais pela decisão recorrida, nos termos da
+Súmula nº 636/STF. 3. Agravo regimental ao qual se nega
+provimento, com imposição de multa de 1% (um por
+cento) do valor atualizado da causa (art. 1.021, § 4º, do
+CPC). Sem majoração de honorários advocatícios,
+conforme a Súmula nº 512/STF” (RE 1347210 AgRsegundo, Rel. Min.: Dias Toffoli, 1ª Turma, DJe-14. 3.2022).
+“Agravo regimental no recurso extraordinário. 2.
+
+Direito Tributário. 3. Antecipação e retenção de tributo.
+Pedido de juros moratórios ou correção monetária com
+base na Selic. 4. Controvérsia que se limita ao plano da
+legislação infraconstitucional. Precedentes. 5. Alegação de
+negativa de prestação jurisdicional e ausência de
+fundamentação.
+Não
+ocorrência.
+Fundamentação
+suficiente. Precedentes. 6. Agravo regimental a que se nega
+provimento” (RE 814258 AgR, Rel. Min. Gilmar Mendes, 2ª
+Turma, julgado DJe- 20.4.2016).
+Honorários advocatícios majorados em 10% (dez por cento), em
+desfavor da parte recorrente, caso fixada a verba honorária na origem,
+observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC, bem
+como a eventual concessão do benefício da gratuidade da Justiça.
+Agravo interno conhecido e não provido.
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3ECD-CA86-324D-CD50 e senha 8E4F-CC38-FD87-551D
+
+Supremo Tribunal Federal
+Extrato de Ata - 26/06/2023
+
+Inteiro Teor do Acórdão - Página 7 de 7
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.421.026
+PROCED. : RIO DE JANEIRO
+RELATORA : MINISTRA PRESIDENTE
+AGTE.(S) : ITAPEBI GERACAO DE ENERGIA SA
+ADV.(A/S) : ALESSANDRA BITTENCOURT DE GOMENSORO (64600/BA,
+41494/DF, 108708/RJ, 336159/SP)
+ADV.(A/S) : ARIANE COSTA GUIMARAES (29766/DF, 68210/GO, 226490/RJ,
+430298/SP)
+AGDO.(A/S) : UNIÃO
+ADV.(A/S) : PROCURADOR-GERAL DA FAZENDA NACIONAL (00000/DF)
+Decisão: O Tribunal, por unanimidade, conheceu do agravo e
+negou-lhe provimento, nos termos do voto da Relatora, Ministra
+Rosa Weber (Presidente). Não participou deste julgamento a
+Ministra Cármen Lúcia. Plenário, Sessão Virtual de 16.6.2023 a
+23.6.2023.
+Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes,
+Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson
+Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4D47-0B1F-79DB-2ACF e senha 2471-DA11-E5BF-0744
