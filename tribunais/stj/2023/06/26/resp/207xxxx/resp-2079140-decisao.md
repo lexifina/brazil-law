@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de consulta realizada pela eminente Ministra Nancy Adrighi, fl. 1.652, acerca de eventual prevenção para a relatoria deste recurso especial, por anterior distribuição do REsp 2.008.150/MG, que teve trâmite nesta Corte sob minha relatoria.
+Todavia, após analisar o caso, verifiquei que, em datas posteriores ao julgamento do REsp 2.008.150/MG, foram distribuídos à Segunda Seção desta Corte os seguintes feitos: REsp 2058041, Relator Ministro Moura Ribeiro, data da publicação 21/06/2023; REsp 2058041, Relator Ministro Moura Ribeiro, data da publicação 21/06/2023; Aresp 2290737, Relatora Ministra Maria Isabel Gallotti, data da publicação 02/06/2023; Aresp 2285848, Relatora Ministra Maria Isabel Gallotti, data da publicação 01/06/2023; Resp 2068059, Relator Ministro Paulo Sérgio Domingues, data da publicação 30/05/2023; Resp 2051866, Relator Ministro Marco Aurélio Bellizze, data da publicação 25/05/2023.
+À vista do exposto, não aceito a prevenção e restituo os autos à Sua Excelência, a Ministra Nancy Andrighi.
+Publique-se. Intimem-se.
