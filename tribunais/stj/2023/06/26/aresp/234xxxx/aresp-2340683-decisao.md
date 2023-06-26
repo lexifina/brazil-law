@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto a acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. SUCUMBÊNCIA PROPORCIONALMENTE DISTRIBUÍDA. HONORÁRIOS RECURSAIS INCABÍVEIS.
+-São devidos honorários advocatícios por parte da Fazenda Pública na fase de cumprimento de sentença, quando oferecer impugnação, como foi o caso, que devem ser fixados tendo por base a diferença entre os valores acolhidos e os apresentados pela parte vencida.
+-Por outro lado, tendo ambas as partes sucumbido, não se tratando de sucumbência mínima de quaisquer delas, já que acolhidos os cálculos da Contadoria Judicial no valor de , ao R$ 175.483,56 (valor principal) passo que o exequente apresentou o valor de (principal) e o executado, R$ 181.434,71 R$ 172.670,96 , vencedor e vencido devem ser condenados, proporcionalmente, às verbas de sucumbência, (principal) nos termos do caput do art. 86 do CPC: "Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas." -Por tais razões, exequente e executado devem ser condenados na verba honorária , que fixo em 10% do valor da diferença entre os valores efetivamente acolhidos e aqueles apresentados por cada uma das partes, observando-se o art. 98, §3º, do CPC para a parte exequente.
+- Considerando que o INSS foi condenado em honorários apenas neste momento, não há como majorá-los pela aplicação do art. 85, § 11, do CPC, que pressupõe a fixação de honorários anteriormente.
+Os Embargos de Declaração foram rejeitados.
+Em seu Recurso Especial, o agravante alega violação do art. 85, § 11, do CPC/2015. Em suma, sustenta (fls. 102-103, e-STJ):
+(..), não se pode dizer que, quando o acórdão decidiu sobre os consectários legais ao julgar o agravo de instrumento, não havia decisão em primeira instância fixando honorários sucumbenciais. Isso porque, a decisão prolatada em primeira instância foi substituída pela decisão do Tribunal, essa fixando honorários. Com isso, é devida a majoração da verba honorária, nos exatos termos do previsto no art. 85, § 11, do Código de Processo Civil.
+(..)
+Por outro lado, os honorários sucumbenciais são uma justa remuneração pelo trabalho do Advogado. No caso, o "normal" seria o Juízo de Primeiro Grau fixar honorários, pois a decisão que não fixou é ilegal conforme reconhecido pelo acórdão ora impugnado. Dessa forma, o Advogado teve trabalho adicional para fazer prevalecer seu direito, recolheu custas, etc., e de acordo com o acórdão esse trabalho não teria nenhum valor, em afronta direta e literal ao disposto no art. 85, § 11, do Código de Processo Civil.
+Dessa forma, o julgado afronta ao disposto no art. 85, § 11, do Código de Processo Civil, devendo o recurso especial ser julgado procedente para determinar ao Tribunal de Origem prolatar nova decisão, agora fixando a verba honorária sucumbencial em função do provimento do agravo de instrumento.
+Sem contrarrazões.
+A inadmissão do Recurso (fls. 130-136, e-STJ) deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de junho de 2023.
+De início, esclareço que o juízo de admissibilidade do Recurso Especial é bifásico. A decisão proferida pelo Tribunal a quo, bem como a certidão expendida, não vinculam o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do apelo nobre. Isso porque compete a esta Corte, órgão destinatário do Recurso Especial, o juízo definitivo mediante nova análise dos pressupostos recursais.
+Visto que o Recurso Especial foi interposto sob a égide do CPC/2015 e que foi devidamente comprovada a suspensão do prazo quando de sua interposição (fls. 92-93, e-STJ), há de ser afastada a sua intempestividade.
+Cuida-se, na origem, de Agravo de Instrumento interposto contra decisão, proferida em Cumprimento de Sentença, que acolheu os cálculos da Contadoria Judicial e condenou a parte exequente em honorários advocatícios, porém se omitiu em fixar os honorários sucumbenciais devidos ao advogado pelo INSS, não obstante ter sido reconhecida a improcedência parcial da impugnação à Execução.
+A Corte regional deu parcial provimento ao recurso sob os seguintes fundamentos (fls. 42-43, e-STJ, grifei):
+Com efeito, o artigo 85, §1º, do CPC/2015, estabelece que "São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente".
+Nesse passo, o art. 85, §7º, do CPC, excepciona a hipótese em que não serão devidos honorários por parte da Fazenda Pública: "Não serão devidos honorários no cumprimento de sentença contra Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. " Logo, são devidos honorários advocatícios por parte da Fazenda Pública na fase de cumprimento de sentença, quando oferecer impugnação, como foi o caso, que devem ser fixados tendo por base a diferença entre os valores acolhidos e os apresentados pela parte vencida.
+Por outro lado, tendo ambas as partes sucumbido, não se tratando de sucumbência mínima de quaisquer delas, já que acolhidos os cálculos da Contadoria Judicial no valor de R$ 175.483,56 (valor principal) ao passo que o exequente apresentou o valor de (principal) e o executado, R$ 181.434,71 R$ 172.670,96, vencedor e vencido devem ser condenados, proporcionalmente, às verbas de sucumbência, (principal) nos termos do caput do art. 86 do CPC: "Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas."
+Por tais razões, entendo que exequente e executado devem ser condenados na verba honorária , que fixo em 10% do valor da diferença entre os valores efetivamente acolhidos e aqueles apresentados por cada uma das partes, observando-se o art. 98, §3º, do CPC para a parte exequente.
+(..)
+Por fim, considerando que o INSS foi condenado em honorários apenas neste momento, não há como majorá-los pela aplicação do art. 85, § 11, do CPC, que pressupõe a fixação de honorários anteriormente.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça assentou o entendimento de que é devida a majoração dos honorários com base no art. 85, § 11, do CPC/2015 somente quando estiverem presentes três requisitos cumulativos:
+a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b) Recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e
+c) condenação em honorários advocatícios desde a origem no feito em que interposto o Recurso.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO DA ELETROBRÁS. OMISSÃO QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NO ACOLHIMENTO PARCIAL DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA ONDE SÃO EXECUTADAS DIFERENÇAS NA DEVOLUÇÃO DO EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO ENERGIA ELÉTRICA. JULGAMENTO DE RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA INTEGRAÇÃO DO JULGADO.
+1. Há omissão no julgado que acolhe, ainda que parcialmente, a impugnação ao cumprimento de sentença, mas deixa de fixar honorários em favor do advogado da parte impugnante.
+2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, apenas quando estiverem presentes os seguintes requisitos, simultaneamente:
+a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+3. Precedentes: AgInt no AREsp 1519033 / AL, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 04.02.2020; AgInt nos EDcl no AREsp 1343527 / RS, Primeira Turma, Rel. Min. Gurgel de Faria, julgado em 19.11.2019; EDcl no REsp 1804904 / SP, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 17.09.2019; AgInt nos EREsp 1539725 / DF, Segunda Seção, Rel. Min. Antonio Carlos Ferreira, julgado em 09.08.2017.
+4. Caso em que não ocorreram as situações previstas nas alíneas "b" e "c" descritas acima. Sendo assim, não é o caso de majoração da verba com a fixação de honorários sucumbenciais recursais.
+5. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no REsp 1.822.085/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/10/2022, grifei.)
+No caso em apreço, os referidos requisitos não foram devidamente preenchidos. Assim, incabível o peito nesse sentido.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil em virtude da interposição do apelo especial nos autos de Agravo de Instrumento, recurso que ataca decisão interlocutória.
+Ante o exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
