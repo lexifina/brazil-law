@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ZURICH SANTANDER BRASIL SEGUROS E PREVIDENCIA S.A. em face da decisão acostada às fls. 703-705 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 590-602 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PREVIDÊNCIA PRIVADA ABERTA AÇÃO DECLARATÓRIA, C.C OBRIGAÇÃO DE FAZER E PERDAS E DANOS LEGITIMIDADE PASSIVA DO BANCO CORRÉU Reconhecimento Empresas que fazem parte do mesmo grupo financeiro e econômico TENTATIVA DE RESGATE DO VALOR INVESTIDO FRUSTRADA PELOS RÉUS Alegação dos demandados de que o valor aplicado em plano de previdência privada na modalidade PGBL somente pode ser resgatado em 2039 VIOLAÇÃO AO DEVER DE INFORMAÇÃO Ocorrência Sentença mantida Majoração dos honorários de sucumbência devidos pelos réus para 12% sobre a condenação (art. 85, § 11, do CPC).
+PRELIMINAR REJEITADA RECURSOS DESPROVIDOS.
+Opostos embargos declaratórios (fls. 599-615 e-STJ), restaram desacolhidos na origem (fls. 616-620 e-STJ).
+Nas razões de recurso especial (fls. 637-661 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 489 e 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii) artigos 7º e 485 do CPC/15, aduzindo a ilegitimidade do Banco Santander; (iii) artigos 14 e 15 da Lei Complementar n. 109/2001, arguindo a impossibilidade de resgate, por se tratar de verba advinda de plano de previdência fechada; (iv) artigos 6º, inc. III, do CDC, 421 e 422 do CCB, sustentando ter sido o consumidor devidamente informado da restrição.
+Contrarrazões às fls. 683-693 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 710-733 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 749-755 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal prospera parcialmente.
+1. A insurgente alega, preliminarmente, que o acórdão proferido pela Corte de origem padece dos seguintes vícios:
+(a) omissão e contradição em relação a decisão anterior da mesma câmara em que se afastou a legitimidade da casa bancária;
+(b) omissão quanto à impossibilidade de resgate de valores portados de entidade fechada para aberta, por expressa previsão legal (artigos 14, notadamente § 4º, e 15 da Lei Complementar n. 109/2001, justamente no intuito de evitar a ocorrência de portabilidades fraudulentas, para obtenção de benefícios a que não teriam direito;
+(c) omissão quanto à existência de documento, firmado pelo autor, registrando a impossibilidade de resgate em letras garrafais e em negrito, o que afasta a ocorrência de violação ao direito à informação;
+(d) omissão quanto à alegação de que o autor, por trabalhar no ramo bancário, possui nível de conhecimento necessário para entender os termos contratuais e legais a que estava submetido;
+(e) obscuridade e contradição quanto ao prazo de carência estabelecido no contrato.
+2. De início, registra-se que o reconhecimento de negativa de prestação jurisdicional pressupõe, dentre outros requisitos que a questão tenha sido levantada oportunamente, bem como a oposição de aclaratórios apontando, em específico, a ocorrência do vício.
+Nesse sentido: EDcl no AgInt no AREsp 1207830/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018; AgInt no AREsp 1294687/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018; EDcl no AgInt no REsp 1659455/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1497035/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017; EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016.
+Na hipótese, a matéria objeto do item (d) acima não foi tratada na apelação originária, nem nos aclaratórios opostos na origem - o que afasta a ocorrência de negativa de prestação jurisdicional sobre o tema.
+Afasta-se, portanto, parte da alegada violação aos artigos 489 e 1.022 do CPC/15.
+3. No mais, ainda no âmbito preliminar, assiste razão à insurgente.
+Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia, ou deixa de sanar outro vício previsto no artigo 1.022 do CPC/15.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. ART. 1.022 DO CPC. VIOLAÇÃO.
+1. Configura-se a violação do artigo 1.022 do Código de Processo Civil quando o Tribunal de origem, a despeito da oposição de embargos de declaração, deixa de examinar questão relevante para o deslinde da controvérsia.
+2. "Nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, é imperioso o retorno do feito à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ." (AgInt nos EDcl no REsp 1754743/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2019, DJe 12/12/2019) 3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1831870/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp 1754832/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+Na hipótese, fazem-se presentes, notadamente, os vícios (a), (b) e (c) acima listados - cabendo à origem, ademais, enfrentar os vícios de que trata o item (e).
+Em relação à legitimidade da instituição financeira (item a), tendo a parte invocado precedente do mesmo Colegiado, cabe ao órgão julgador, ao aplicar entendimento diverso, fundamentar a existência de distinção ou superação (art. 489, § 1º, inc. VI, do CPC/15) - o que não ocorreu.
+Quanto ao mérito da demanda, a Corte de origem deixou de enfrentar duas alegações aptas, ao menos em tese, a modificar a conclusão do julgamento, pautada em suposta violação ao direito de informação do consumidor.
+Conforme item (b) acima, alega a insurgente que a impossibilidade de resgate estaria prevista em lei - e não apenas no contrato. A tese apresenta notória relevância, inclusive porque "ninguém se escusa de cumprir a lei, alegando que não a conhece" (art. 3º da LINDB). Ademais, a previsão legal, ao menos em tese, e segundo alega a insurgente, busca evitar a obtenção de vantagens indevidas, a que o beneficiário não teria direito no regime de previdência privada fechada - o que poderia indicar prejuízo a este plano, constituído por contribuições do empregado e do empregados, e à coletividade de participantes. De fato, omisso acórdão proferido pelo Tribunal local quanto à matéria.
+Observa-se, ainda, a alegação de que a impossibilidade de resgate decorreria, também, de previsão do regulamento do plano de previdência privada fechada de onde advêm os créditos - questão igualmente relevante, notadamente pela inaplicabilidade do CDC naquele âmbito (Súmula 563/STJ).
+Ademais, a agravante alega (c) que o consumidor foi devidamente informado, tendo assinado documento onde a impossibilidade de resgate constava expressamente, com destaque. A Corte de origem, todavia, não fez qualquer referência ao documento invocado, deixando de analisá-lo.
+A análise desta alegação faz-se necessária tanto para apurar o cumprimento ou não do dever de informação, como para que se possa perquirir eventual vício de consentimento, cuja alegação é implícita na exordial, mas que importaria na anulação do ato (art. 171 do CC).
+Por fim, considerando que a matéria tratada no item (e) refere-se ao mesmo tema, ora devolvido à origem, deverá a instância ordinária, ao menos, enfrentar os vícios alegados - o que não foi atendido no aresto que rejeitou os aclaratórios.
+3.1. A manifestação acerca destas questões, ainda que para delas não conhecer ou para rechaçá-las, de forma fundamentada, é necessária para a correta prestação jurisdicional - inclusive para possibilitar eventual acesso às instâncias superiores, se for o caso.
+Imperioso, portanto, o reconhecimento da existência de violação aos artigos 489 e 1.022 do CPC/15.
+4. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção dos vícios inferidos, fica prejudicada a análise das demais questões veiculadas no recurso especial.
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo e, de plano, dá-se parcial provimento ao recurso especial, para cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se os vícios acima verificados .
+Publique-se.
+Intimem-se.
