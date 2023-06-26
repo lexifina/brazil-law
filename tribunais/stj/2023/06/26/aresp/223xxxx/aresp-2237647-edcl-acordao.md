@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por HÉLIO ANTÔNIO CAMPOS ABREU e SIMONE ROCHA CAMPOS ABREU ao acórdão proferido pela Terceira Turma desta Corte nos termos da seguinte ementa (e-STJ, fls. 962-963):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. PRODUÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA AFASTADO. AUSÊNCIA DE BENFEITORIAS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+2.1. Modificar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção da perícia técnica (para fins de apuração do quantum indenizatório) e pelo cabimento das benfeitorias, tal como buscam os insurgentes, não prescindiria do revolvimento fático-probatório dos autos, procedimento vedado pelo óbice da Súmula n. 7 desta Corte.
+3. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+4. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 976-980), os embargantes sustentam ter havido omissão no julgado quanto à argumentação deduzida no agravo interno, reiterando a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+Sem impugnação (e-STJ, fl. 985).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, vale rememorar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situações não observadas na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Nesse contexto, verifica-se inexistir, no acórdão impugnado, algum vício ou erro material a merecer a necessária integração por esta Turma julgadora. Ficou assentado que o Tribunal de Justiça do Estado de Minas Gerais decidiu de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, logo inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão dos recorrentes.
+No caso, foi consignado que, para infirmar o entendimento alcançado pelo acórdão estadual, amparado nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção da perícia técnica (para fins de apuração do quantum indenizatório) e pelo cabimento das benfeitorias, tal como buscam os insurgentes, seria imprescindível o revolvimento fático-probatório dos autos, procedimento vedado pelo óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Por fim, foi salientado que o dissídio jurisprudencial suscitado não foi demonstrado conforme estabelecido nos arts. 1.029, III, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+A demonstração da divergência jurisprudencial não se perfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Na hipótese, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados, além de não haver similitude fática entre os arestos.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Com esses fundamentos, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
