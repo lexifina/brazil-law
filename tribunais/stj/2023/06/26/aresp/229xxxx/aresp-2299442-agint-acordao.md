@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 349/361) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega a existência de julgados idênticos ao debatido nos autos afirmando que "consistente em alegada utilização indevida de imagem em livro ilustrado, com reconhecimento de que são dotados de conteúdo informativo, histórico, cultural e bibliográfico e foram produzidos em homenagem às instituições esportivas, situações que dispensam a necessidade de autorização expressa das pessoas retratadas, inexistindo utilização indevida de imagem ou violação de direitos personalíssimos" (e-STJ fl. 352).
+Sustenta que "a questão posta para admissibilidade do recurso não é a discussão de fato, mas de direito, inexistindo controvérsia que exija nova análise dos fatos alegados e provas produzidas. O que se espera deste Egrégio Tribunal Superior é que a lei seja corretamente aplicada e que haja a correta valoração do quanto existente nos autos, fazendo-se a necessária Justiça, sob pena de manutenção de condenação equivocada, tendo-se com conta que a atuação recorrente se situou dentro dos limites legais" (e-STJ fl. 354).
+Ao final, aduz que "o valor indenizatório deferido/arbitrado também se mostra excessivo, em desacordo com o quanto disposto nos artigos 884 e 944 do Código Civil, sendo absolutamente certa a inexistência de qualquer exposição vexatória ou menção desabonadora ao agravado. Reitere-se: não foi o agravado a razão de ser publicação, sendo sua imagem utilizada para retratar fato marcantes que contam a história do futebol baiano, de modo que sua supressão consistiria em adulteração de documento histórico. Contudo, a decisão conforme exarada tangencia e omite todo os julgados recentes deste e. STJ, inclusive os desdobramentos que o tema ganhou nesta Corte" (e-STJ fl. 358).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 364/367).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 341/345):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 207):
+APELAÇÃO CÍVEL. Direito de imagem. Ação de indenização. Acolhimento do pedido. Impugnação. Necessário rechaço. Inépcia da inicial. Inocorrência. Tema relacionado ao mérito da causa. Rejeição. Utilização não autorizada da imagem do autor. Violação de direito fundamental (Código Civil, art. 11). Regência da Súmula 403 do Colendo Superior Tribunal de Justiça. Doutrina e prévios desta Elevada Corte. Dano moral. Caracterização. Valor. Adequação aos predicados do Honrado Tribunal da Cidadania. Juros de mora. Responsabilidade extracontratual. Fluência a contar do evento danoso. Incidência do verbete da Súmula 54 do Colendo Superior Tribunal de Justiça. Sentença mantida. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 229/236).
+Nas razões do recurso especial (e-STJ fls. 238/254), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 186 e 927 do CC/2002, alegando que não teria praticado ato ilícito "já que sua conduta situou-se dentro dos limites do exercício regular de um direito, da mesma maneira que ausentes os requisitos da responsabilidade civil, necessários para que haja o dever de indenizar, o que no caso em tela, não restou observado pelo Tribunal a quo" (e-STJ fl. 242),
+(ii) arts. 884 e 944 do CC/2002, afirmando que o acórdão "proferido pela instância revisora violou o quanto disposto no artigo 884 e no artigo 944, ambos do Código Civil, tendo-se em conta que o valor indenizatório por danos morais arbitrado/deferido se mostra excessivo, não tendo sido observados os princípios da razoabilidade e proporcionalidade, merecendo, em sendo o caso, redução para valor mais adequado a situação ocorrida e de eventual repercussão negativa experimentada" (e-STJ fl. 242),
+(iii) arts. 20 e 21 do CC/2002, sustentando que, "em se tratando de publicação de conteúdo histórico, bibliográfico e informativo, ainda que dotada de interesse econômico/financeiro, não é exigida, nem necessária a autorização expressa da pessoa retratada, menos ainda em se tratando de figura pública e notória, como é o caso do recorrido" (e-STJ fl. 242).
+Busca, em suma, o provimento do recurso especial para o fim de (e-STJ fl. 253):
+ ..  reformar o v. Acórdão recorrido, haja vista a inexistência de conduta irregular perpetrada, com decretação de improcedência da ação e consequente afastamento da condenação imposta.
+E caso assim também não entendam Vossa Excelência, o que, evidentemente, não se espera, REQUER a recorrente seja ao menos reduzido o valor indenizatório deferido/arbitrado em benefício do recorrido, adequando-o ao quanto debatido/existente nos autos e à eventual repercussão danosa, considerando-se os princípios da razoabilidade e da proporcionalidade, por medida de Justiça!
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 279/284).
+No agravo (e-STJ fls. 296/306), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 322/327).
+É o relatório.
+Decido.
+Quanto à ocorrência de dano moral indenizável decorrente da exploração do direito de imagem de atleta profissional em álbum de figurinhas sem expressa anuência, o TJSP entendeu o seguinte (e-STJ fls. 213/214):
+Aqui, o núcleo do debate se concentra no uso indevido da imagem do autor, cuja exibição dependia sim de sua expressa autorização.
+Calha trazer, inclusive para servir de novo padrão a ser adotado pela ré, no futuro, a doutrina de Gustavo Tepedino (Código Civil interpretado conforme a Constituição da República. São Paulo: Ed. Renovar. 2004, Vol. I, pág. 52), no sentido de que "(..)o consentimento para utilização da imagem deve ser interpretado restritivamente, considerando, por exemplo, que a autorização para ser fotografado não inclui a publicação da fotografia e, à semelhança do que ocorre com o direito autoral, que a autorização para uma dada publicação não abrange outras utilizações. (..)".
+A imagem, enquanto elemento personalíssimo de cada indivíduo, não pode ser usada sem sua manifesta licença, mormente quando relacionada a divulgação de qualquer espécie.
+E nem se argumente com a tese de haver tácita autorização ante o fato de o autor ser pessoa pública, haja vista que o caráter comercial da publicação afasta tal inusitada permissão, tanto quanto a afasta o curioso raciocínio de a ausência da imagem do autor constituiria adulteração ilícita, porquanto bastaria à ré obter e remunerar alvará do autor ou se valer de outra fotografia em que ele não estivesse.
+Induvidoso, pois, o ultraje à legislação em vigor(Código Civil, art. 11), que determina, como característica dos direitos de personalidade, serem eles "(..)intransmissíveis e irrenunciáveis, não podendo o seu exercício sofrer limitação voluntária. (..)", representando inequívoca ofensa moral.
+O acórdão recorrido não destoa da orientação que se firmou na jurisprudência deste Tribunal Superior a respeito do tema do uso de imagem de jogador de futebol em álbum de figurinhas. Confiram-se os seguintes precedentes, nos quais se consagrou a tese de que o uso não autorizado de imagem dá ensejo ao pagamento de indenização:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO - PUBLICAÇÃO NÃO AUTORIZADA DE IMAGEM DE JOGADOR DE FUTEBOL EM ÁLBUM DE FIGURINHAS - DANO MORAL - CARACTERIZAÇÃO - PRECEDENTES - QUANTUM INDENIZATÓRIO - RAZOABILIDADE - DISTRIBUIÇÃO DA SUCUMBÊNCIA - SÚMULA 7/STJ - RECURSO IMPROVIDO.
+(AgRg no AREsp n. 14.595/RS, relator Ministro Massami Uyeda, Terceira Turma, julgado em 20/11/2012, DJe de 4/12/2012 - g.n.)
+RESPONSABILIDADE CIVIL. DIREITO DE IMAGEM. ÁLBUM DE FIGURINHAS. AUSÊNCIA DE AUTORIZAÇÃO DE JOGADOR DE FUTEBOL NO USO DE SUA IMAGEM. AÇÃO INDENIZATÓRIA PROCEDENTE.
+A exploração não autorizada da imagem de jogador de futebol em álbum de figurinhas, publicado com intuito comercial, constitui prática ilícita, que enseja reparação do dano.
+Impossível a fixação do valor do dano diretamente por esta Corte, à vista da ausência, na petição inicial e na contrariedade, nem, ainda, na sentença e no Acórdão, de valor ou critério precisos, de modo que inviável o uso da faculdade do art. 257 do RISTJ, remetendo-se, pois, a fixação do valor à liquidação por arbitramento.
+Recurso Especial provido.
+(REsp n. 1.219.197/RS, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 4/10/2011, DJe de 17/10/2011 - g.n.)
+INDENIZAÇÃO. DIREITO À IMAGEM. JOGADOR DE FUTEBOL. ÁLBUM DE FIGURINHAS. ATO ILÍCITO. DIREITO DE ARENA.
+-É inadmissível o recurso especial quando não ventilada na decisão recorrida a questão federal suscitada (súmula nº 282-STF).
+- A exploração indevida da imagem de jogadores de futebol em álbum de figurinhas, com intuito de lucro, sem o consentimento dos atletas, constitui prática ilícita a ensejar a cabal reparação do dano.
+- O direito de arena, que a lei atribui às entidades desportivas, limita-se à fixação, transmissão e retransmissão de espetáculo esportivo, não alcançando o uso da imagem havido por meio da edição de "álbum de figurinhas". Precedentes da Quarta Turma.
+Recursos especiais não conhecidos.
+(REsp n. 67.292/RJ, relator Ministro Barros Monteiro, Quarta Turma, julgado em 3/12/1998, DJ de 12/4/1999, p. 153 - g.n.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Além disso, o Tribunal de origem assentou que, "malgrado a ré se utilize de argumentos sedutores (contexto bibliográfico, histórico, informativo e cultural; impossibilidade de se impedir a edição de biografia; ser o autor figura pública; e a venda da obra não desnaturar os conteúdos acima indicados), o contorno de sua conduta não tem como ser aceito", concluindo que (e-STJ fl. 211/213):
+Em primeiro lugar, sem embargo de que tal aspecto não se constituiria alforria à ré, há de se afastar a ideia de a obra ser biográfica.
+Muito embora a apelante pretenda dar caráter enciclopédico (!) ao seu produto, é visível que o seu trabalho nada mais representa que simples álbum de figurinhas. Confira-se, a esse turno, o esclarecimento feito ao público consumidor (fls. 45/46), verbis:
+" ..
+Panini lança álbum histórico de figurinhas "Flamengo Sempre Eu Hei De Ser"
+(..)
+o álbum apresenta informações sobre os ídolos que fizeram história no clube, escalações que marcaram época, jogos inesquecíveis e destaca quais foram as camisas que marcaram a trajetória do Flamengo. O livro ilustrado, que conta com as versões capa dura e brochura, possui mais de 50 paginas e 300 cromos, muitos deles especiais, uma seleção de figurinhas em tecido, metalizadas, tamanhos diferentes e com a tecnologia de realidade (camisas nº 1 e 2 do Brasileirão).
+Como ação de sampling, a Panini distribuirá os exemplares gratuitamente em parceria com o JORNAL EXTRA, na cidade do Rio de Janeiro e Baixada, no domingo, 02 de junho, além de promover outras ativações do produto.
+O álbum e envelopes de figurinhas serão comercializados em bancas de jornal e nas melhores lojas do estado do Rio de Janeiro, nas regiões Norte e Nordeste do Brasil. No Centro-Oeste, os produtos estarão disponíveis principalmente em Brasília (DF). Já no Sul será distribuído no Paraná e em Santa Catarina. E no Sudeste, os torcedores poderão adquirir a coleção em Juiz de Fora (MG) e em São Paulo. Nenhum fã da imensa Nação Rubro-Negra vai ficar de fora deste lançamento histórico, além de todos os pontos de venda o álbum e figurinhaspoderão ser comprados no site www. lojapanini. com. br(http://www. lojapanini. com. br).
+ .. "
+Nesse passo, o fato de ter sido produzido com a colaboração do clube de futebol não autoriza posicioná-lo num contexto bibliográfico, histórico, informativo e cultural, pois, diga-se vez mais, o produto tem índole de singelíssimo álbum de figurinhas, com o exclusivo fito de venda ao público em geral.
+Em tal cenário, inexiste espaço à aproximação de mencionado álbum a obra literária de biografia, vetor a impedir o alcance do recente pronunciamento da Suprema Corte nacional acerca do art. 20 do Código Civil.
+No caso, tendo a Corte de origem se pronunciado pelo caráter comercial do material, direcionado à obtenção de lucros, não pode este Superior Tribunal acolher a pretensão recursal a fim de adotar entendimento diverso, porquanto seria necessário o revolvimento do acervo fático-probatório. Assim, não sendo a reapreciação de fatos e provas a finalidade precípua da via especial, incide o enunciado da Súmula n. 7/STJ.
+O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa, de sorte que apenas comporta revisão pelo Superior Tribunal de Justiça quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, quando, na instância originária, foi arbitrado em R$ 8.000,00 (oito mil reais), diante das especificidades do caso concreto.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-s e.
+Como visto, a decisão recorrida não destoa da jurisprudência desta Corte, no sentido de que "A exploração não autorizada da imagem de jogador de futebol em álbum de figurinhas, publicado com intuito comercial, constitui prática ilícita, que enseja reparação do dano" (REsp n. 1.219.197/RS, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 4/10/2011, DJe de 17/10/2011).
+Como dito anteriormente, o Tribunal de origem concluiu que o valor dos danos morais foi estabelecido atendendo às circunstâncias da causa. Considerou, com base nos fatos e na razoabilidade, ser plausível o quantitativo arbitrado em R$ 8.000,00 (oito mil reais).
+Assim, para que se acolha a pretensão recursal, quanto ao valor arbitrado a título de danos morais, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
