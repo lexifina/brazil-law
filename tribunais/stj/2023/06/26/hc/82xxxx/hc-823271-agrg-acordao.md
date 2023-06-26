@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO MATO GROSSO DO SUL de decisão na qual "concedi a ordem, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena do ora agravante - pelo delito de tráfico de drogas - para 1 ano, 11 meses e 10 dias de reclusão, em regime semiaberto, mais pagamento de 194 dias-multa. E, nos termos do art. 580 do CPP, estendi os efeitos dessa decisão à corré HELOÍSA FELICIANO, resultando definitiva sua pena - pelo delito de tráfico de drogas - em 2 anos, 3 meses e 7 dias de reclusão, em regime semiaberto, mais 227 dias-multa."
+O agravante afirma que a decisão impugnada incorreu em erro, pois "as circunstâncias do delito indicam, de maneira inconteste, que o Paciente João Pedro da Silva e a Interessada Heloisa Feliciano da Silva Rosa se dedicavam à prática de atividades criminosas, não só pela quantidade da droga apreendida, mas também pelo contexto de como se deram os fatos."
+Pontua que "É completamente sem sentido acreditar que tanto o Paciente, como a Interessada se tratavam de meras "mulas do tráfico" no momento em que foram presos em flagrantes portando arma de fogo com numeração raspada, acompanhada de dois carregadores e diversas munições, ou seja, a pronto emprego para eventual troca de tiros."
+Ressalta que "não compete ao Superior Tribunal de Justiça (por meio de Habeas Corpus ou ainda por Recurso Especial), a análise do conjunto probatório colhido, mas sim eventuais descumprimentos aos preceitos infraconstitucionais, o que não é o caso dos autos."
+Requer o provimento do agravo.
+É o relatório.
+EMENTA
+PENAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. APLICAÇÃO. ATENDIDO OS REQUISITOS LEGAIS. RECURSO NÃO PROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que, embora o juiz sentenciante tenha afirmado a ausência de prova da habitualidade delitiva dos agentes, e tenha certificado a primariedade deles, o Tribunal de origem negou o tráfico privilegiado tão somente com base no contexto fático dos autos, o que se mostra manifestamente ilegal.
+3. Agravo regimental não provido.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+No caso, o Juiz sentenciante afirmou que não haveria prova da habitualidade delitiva dos agentes e aplicou a redutora especial da Lei de Drogas em 1/2 tendo como fundamento a quantidade de droga apreendida.
+Vejamos:
+ ..  Também não está devidamente indicado e comprovado nos autos que são pessoas dedicadas à prática de atividades criminosas, inclusive porque, ao menos até aqui e pelo que consta oficialmente nos autos (prova em sentido oposto competia ao Ministério Público), são primário a e de bons antecedentes, a despeito de entendimentos (no meu sentir, equivocados, data máxima venia) em sentido oposto pela quantidade (relativamente expressiva)de drogas apreendida com eles. A quantidade de droga apreendida pode, e no meu sentir, deve, ser levada em conta no momento da dosagem da pena, mais especificamente quando da indicação do quantum da redução na hipótese do art. 33, §4º, da Lei de Drogas.
+ ..
+Por todas estas razões, e reafirmando que o ônus da prova, mesmo que por via indireta (provado não preenchimento), em casos que tais, continua sendo do órgão acusador, e como não se admite, em matéria probatória, presunção em desfavor do réu, que conta ao seu lado com a presunção de inocência (em toda sua extensão),tenho que a aludida minorante há de ser reconhecida em favor do acusado, todavia, por razões óbvias, quantidade de drogas, não em seu grau máximo.
+O Tribunal de origem, por sua vez, ao acolher o pleito ministerial, afastou o tráfico privilegiado sob o entendimento de que o contexto fático da atividade criminosa indicaria a reiterada conduta delitiva do agente, uma vez que eles - um casal - foram surpreendidos transportando em uma mochila, no bagageiro de ônibus interestadual, expressiva quantidade de droga e uma arma de fogo com carregador e munições.
+Como se verifica, a Corte estadual não indicou dado concreto algum que comprove estar o réu se dedicando a atividade delitiva. Houve apenas a descrição fática do delito, e, segundo afirmado pelos agentes na fase policial, eles estariam apenas fazendo o transporte dos ilícitos mediante a promessa de pagamento. Logo, uma vez certificada a primariedade e os bons antecedentes dos réus, correta a decisão impugnada que aplicou o redutor em 2/3.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
