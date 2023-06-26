@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ""BRAGA NASCIMENTO E ZILIO ADVOGADOS ASSOCIADOS"", contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/11/2022.
+Concluso ao gabinete em: 23/02/2023.
+Ação: de cobrança ajuizada por JOSÉ FLÁVIO BRAGA NASCIMENTO FILHO em face dos agravantes.
+Sentença: julgou procedente o pedido, para condenar os agravantes a pagar ao agravado a quantia de R$ 160.393,43 (cento e sessenta mil, trezentos e noventa e três reais e quarenta e três centavos).
+Acórdão: negou provimento à apelação dos agravantes, nos termos da seguinte ementa:
+Apelação. Ação de Cobrança. Sentença que julgou procedente a ação para condenar a sociedade ré ao pagamento de valores referentes à parcela dos honorários advocatícios recebidos em feito diverso, ante o reconhecimento da validade probatória da cópia do contrato apresentado pelo autor. Insurgência da Ré. Pretensão à reforma. Desacolhimento. Ausência de pedido de instauração de incidente de falsidade ou mesmo de alegação específica em sede de contestação. Aplicabilidade do parágrafo único do art. 436 do CPC. Existência de outro contrato, firmado com terceiro em termos diversos daquele apresentado pelo autor, que não é suficiente a comprovar a invalidade ou revogação do contrato firmado entre as partes. Precedentes deste E. TJSP. Sentença mantida. Recurso não provido. (e-STJ fl. 1152)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 6º, 7º, 139, I, 141, 371, § 1º, 428, I, 489, § 1º, IV, 492 e 1.022 do CPC.
+Sustentam indevida distribuição do ônus probatório, uma vez que o magistrado se omitiu em determinar a exibição de documento controvertido nos autos, não obstante terem sinalizado seu caráter não verossímil. Insurgem -se contra o entendimento proferido por esse Juízo de que a apresentação de documento original seria desnecessária.
+Nessa senda, aduzem ter sido atribuído aos agravantes o ônus de produzirem prova negativa ou "diabólica".
+Salientam a existência de documento diverso do apresentado pelo recorrido e que não reconhecem o escrito juntado pelo agravado.
+Asseveram, ainda, a necessidade de produção de provas antes da prolação da sentença e que sequer houve despacho saneador. Por conseguinte, arguem cerceamento de defesa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC/2015, quando o Tribunal de origem examina "de forma fundamentada a questão submetida à apreciação judicial, na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+Da mesma forma, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, motivada e expressamente, acerca dos questionamentos apresentados pelos agravantes:
+No mérito, compulsado os autos, verifica-se que o escritório réu não apresentou alegação específica de inexistência do contrato apresentado pelo autor às p. 20, mas se limitou a questionar a qualidade da cópia juntada e a existência de rasura, além de afirmar, de forma genérica que sobre o documento de p. 20 "pairam dúvidas de veracidade e autenticidade." (p. 128), sem, contudo, afirmar quais os vícios existentes, ou afirmar, de forma categórica, pela falsidade ou inexistência do mesmo.
+O documento em questão foi juntado em qualidade suficiente para identificação de se conteúdo, bem como das assinaturas, não havendo nos autos alegação de falsidade das mesmas. Ao contrário, afirma o apelante em suas razões recursais que "As assinaturas lançadas no documento de fls. 20 parecem verdadeiras,(..)".
+ ..
+O próprio apelante afirma que "não alegou expressamente a falsidade através de incidente próprio (..)", sob a justificativa de que planejava fazer tal alegação após a juntada do documento original. Contudo, o art. 430 do CPC1 é claro ao afirmar que a arguição de falsidade deve ser apresentada com a contestação, ou no prazo de 15 dias a contar da intimação da juntada do documento nos autos. Por sua vez, o parágrafo único do art. 436 do CPC2 veda a apresentação de alegação genérica de falsidade de documento.
+Ademais, nos termos do art. 424 do CPC3, a cópia do documento particular possui o mesmo valor probatório do original.
+Por todo o exposto, há que se reconhecer que não houve alegação específica de falsidade, a justificar a determinação da juntada do original do documento de p. 20, ou afastar o seu valor probatório, não estando configurado o cerceamento de defesa.
+ ..
+No mais, no tocante à alegada divergência de conteúdo entre o contrato de p. 20 com aquele de p. 178, ao que tudo indica não se trata do mesmo contrato (com conteúdo diverso), mas sim de contrato referente a obrigação diversa.
+Isso porque, comparando ambos os documentos, é possível verificar que há divergência não apenas na indicação do autor como beneficiário de parcela dos honorários advocatícios, mas também no campo "Participação no trabalho", bem como nas assinaturas (tanto no tocante a ordem das assinaturas, quanto em relação a quem assinou cada documento), tudo a indicar que, conforme bem reconhecido pelo juízo de origem, não se trata do mesmo contrato, mas de contrato diverso (que não se mostram incompatíveis), o qual, por si, não é suficiente para afastar as obrigações assumidas por meio do primeiro instrumento, especialmente quando se considera que o autor desta ação não participou do segundo contrato, tendo em vista que não é mencionado no mesmo.
+Por fim, não se verifica no caso concreto a imposição de produção de prova vil ao réu, mas sim a ausência de alegação específica quanto à falsidade ou inexistência do documento apresentado pelo autor, apta a elidir sua validade probatória. (e-STJ fls. 1154/1157)
+E ainda em Embargos de Declaração:
+Note-se que restou perfeitamente esclarecido que não se verificou a imposição ao réu de produção de prova negativa (prova vil), mas sim o reconhecimento de que a parte deixou de alegar no tempo oportuno, e de forma específica, os vícios que acreditava haver no referido documento, a justificar sua apresentação, se limitando a apresentar alegações genéricas e que, nos termos da legislação vigente, não são suficientes para afastar sua validade probatória. (e-STJ fl. 1167)
+Assim, os embargos de declaração opostos, de fato, não comportavam acolhimento.
+Observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamento não impugnado
+Os agravantes não impugnaram os seguintes fundamentos utilizados pelo TJ/SP:
+O próprio apelante afirma que "não alegou expressamente a falsidade através de incidente próprio (..)", sob a justificativa de que planejava fazer tal alegação após a juntada do documento original. Contudo, o art. 430 do CPC1 é claro ao afirmar que a arguição de falsidade deve ser apresentada com a contestação, ou no prazo de 15 dias a contar da intimação da juntada do documento nos autos. Por sua vez, o parágrafo único do art. 436 do CPC2 veda a apresentação de alegação genérica de falsidade de documento.
+ ..
+Por todo o exposto, há que se reconhecer que não houve alegação específica de falsidade, a justificar a determinação da juntada do original do documento de p. 20, ou afastar o seu valor probatório, não estando configurado o cerceamento de defesa.
+ ..
+No mais, no tocante à alegada divergência de conteúdo entre o contrato de p. 20 com aquele de p. 178, ao que tudo indica não se trata do mesmo contrato (com conteúdo diverso), mas sim de contrato referente a obrigação diversa. Isso porque, comparando ambos os documentos, é possível verificar que há divergência não apenas na indicação do autor como beneficiário de parcela dos honorários advocatícios, mas também no campo "Participação no trabalho", bem como nas assinaturas (tanto no tocante a ordem das assinaturas, quanto em relação a quem assinou cada documento), tudo a indicar que, conforme bem reconhecido pelo juízo de origem, não se trata do mesmo contrato, mas de contrato diverso (que não se mostram incompatíveis), o qual, por si, não é suficiente para afastar as obrigações assumidas por meio do primeiro instrumento, especialmente quando se considera que o autor desta ação não participou do segundo contrato, tendo em vista que não é mencionado no mesmo.
+Por fim, não se verifica no caso concreto a imposição de produção de prova vil ao réu, mas sim a ausência de alegação específica quanto à falsidade ou inexistência do documento apresentado pelo autor, apta a elidir sua validade probatória. (e-STJ fls. 1155/1157)
+Destarte, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e pr ovas
+Na espécie, o Tribunal a quo, analisando as circunstâncias fáticas específicas destes autos, bem como os elementos probatórios que instrui o feito, entendeu devidamente demonstrada a obrigação de pagamento pretendida pelo agravado.
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, providência obstada pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 1157) para 18%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OBSERVADA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1022 do CPC/15.
+3. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
