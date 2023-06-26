@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CAIXA SEGURADORA S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Agravo de Instrumento n. 5057492-84.2021.8.24.0000) nos autos do Cumprimento de Sentença n. 5001853-03.2019.8.24.0081.
+O julgado foi assim ementado (fl. 130):
+AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL DO SISTEMA FINANCEIRO DA HABITAÇÃO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA.
+INSURGÊNCIA DA SEGURADORA. MULTA DECENDIAL. ALEGADA IMPOSSIBILIDADE DO CÔMPUTO DE JUROS DE MORA NO CÁLCULO DA MULTA DECENDIAL. AFASTAMENTO. APLICAÇÃO AO CASO DA ENUNCIADO 16 DA SÚMULA DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA. EXCESSO NÃO CARACTERIZADO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a recorrente aponta violação do art. 412 do CC, além de divergência jurisprudencial, defendendo que a multa decendial não pode exceder o valor da obrigação principal sem prejuízo da aplicação da correção monetária cabível, isto é, deve ser aplicada sobre o valor devidamente corrigido sem inclusão dos juros de mora.
+Requer, assim, o provimento do recurso especial com a condenação dos recorridos aos honorários de sucumbência.
+As contrarrazões foram apresentadas às fls. 185-201.
+Admitido o apelo extremo (fls. 221-223), os autos ascenderam ao Superior Tribunal de Justiça.
+Às fls. 242-244 (Pet n. 00129441/2023), a parte requer o reconhecimento da competência da Justiça Federal para julgamento da demanda, já que o caso tem como fundamento apólice pública do seguro habitacional do SFH e há manifestação de interesse da CEF.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+A Corte a quo entendeu ser possível a incidência da multa decendial mais juros de mora. Confira-se (fl. 133):
+E isso porque, segundo entendimento desta Corte de Justiça, nos litígios que versem sobre o Sistema Financeiro da Habitação aplica-se o Enunciado 16 da Súmula do Tribunal de Justiça de Santa Catarina que estabelece que "A multa cominatória a que se referiam os artigos 916 e seguintes do Código Civil revogado (objeto dos artigos 408 e seguintes do Novo Código Civil), incide sobre o valor da obrigação principal, corrigido, acrescido dos juros impostos na sentença, quando o litígio versar sobre seguro habitacional".
+Logo, possível a incidência cumulada da multa decendial e juros de mora.
+Entretanto, nos termos do art. 412 do CC, a multa decendial pactuada para o atraso do pagamento da indenização limita-se ao montante da obrigação principal, sem acréscimo de juros moratórios. Nessa direção:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. PEDIDO DE SUSPENSÃO DO FEITO. DESCABIMENTO. NÃO AFETAÇÃO DO CASO AO REGIME DOS RECURSOS REPETITIVOS. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO RECURSAL. PRECLUSÃO. MULTA DECENDIAL. INCIDÊNCIA DE JUROS DE MORA. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A questão relativa à incidência de juros moratórios sobre a multa decendial não foi, até o momento, afetada pela Segunda Seção, sendo incabível, portanto, o pleito de suspensão do julgamento do presente recurso (AgInt nos EDcl no AREsp n. 1.954.796/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/5/2022, DJe de 30/5/2022).
+2. Não é possível conhecer da alegação de negativa de prestação jurisdicional, uma vez que ela não foi aduzida no apelo especial sob o enfoque ora trazido, qual seja, de que o colegiado estadual não teria enfrentado a tese de ofensa ao art. 781 do Código Civil, constituindo, portanto, indevida inovação recursal.
+3. A jurisprudência desta Corte de Justiça é firme no sentido de que, no seguro habitacional, a multa decendial deve se limitar ao valor da obrigação principal, sem o acréscimo de juros moratórios.
+Incidência do enunciado sumular n. 83/STJ.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AgInt no AREsp n. 1.943.017/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.
+SEGURO HABITACIONAL. INEXISTÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC. MULTA DECENDIAL. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL, SEM O ACRÉSCIMO DE JUROS. PRECEDENTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. ALEGADA OFENSA À COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+INCIDÊNCIA DA SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 1.916.254/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+Em relação à Pet n. 00129441/2023, verifica-se que a matéria ali apresentada não foi suscitada nas razões do apelo especial. Desse modo, o pedido não formulado no recurso especial e invocado apenas por meio de petição avulsa não é passível de conhecimento, tendo em vista a indevida inovação recursal. Nesse sentido: AgInt nos EDcl no REsp n. 1.882.950/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022; AgRg no REsp n. 1.637.132/RO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/6/2017, DJe de 21/6/2017.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para determinar que os juros de mora sejam excluídos do montante que corresponde à multa decendial.
+Nas hipóteses de acolhimento da impugnação ao cumprimento de sentença, ainda que parcial, é cabível a fixação de verba honorária de sucumbência em benefício do executado (AgInt nos EDcl no AREsp n. 1.946.498/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022).
+Desse modo, condeno a parte recorrida ao pagamento das custas processuais correspondentes à impugnação ao cumprimento de sentença e, com fundamento no art. 85, § 2º, do CPC, de honorários advocatícios, que fixo em 10% sobre o valor do proveito econômico obtido (valor excluído da execução), a ser apurado por cálculo na origem, ressalvada eventual concessão de gratuidade de justiça (art. 98, § 3º, do CPC) e vedada a compensação (art. 85, § 14, do CPC).
+Publique-se. Intimem-se.
