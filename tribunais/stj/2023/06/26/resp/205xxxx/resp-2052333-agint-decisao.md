@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo Interno interposto contra decisão que negou provimento ao Recurso Especial.
+A agravante sustenta:
+(..)
+Como dito, versa o presente mandamus sobre o direito ao não recolhimento da contribuição previdenciária patronal, contribuição para o RAT e contribuições devidas a terceiros (Sistema S, SEBRAE, INCRA e salário-educação) sobre o valor antecipado ao segurado empregado a título de despesas médicas/plano de saúde relativo à sua quota- parte no custeio compartilhado desse benefício, com a consequente declaração do direito à compensação dos valores recolhidos indevidamente.
+(..)
+Nesse seguimento, em 12/04/2023 (Acórdão ainda não publicado e Certidão de Julgamento anexa - Doc. 04), a Primeira Seção, por unanimidade, determinou o apensamento dos autos dos Recursos Especiais integrantes do Tema Repetitivo GRC- STJ - 22 aos recursos abrangidos pelo Tema Repetitivo nº 1174/STJ, nos termos da questão de ordem proposta pelo Sr. Ministro Relator:
+(..)
+Nesse sentido, em razão da determinação exarada nos autos dos Processos nº 5023186-96.2021.4.04.7108 (REsp nº 2023016/RS), nº 5052681-58.2020.4.04.7000 (REsp nº 2027411/PR) e nº 5011877-14.2021.4.04.7000 (REsp nº 2027413/PR), selecionados como representativos de controvérsia, bem como em virtude da deliberação da C. Primeira Seção do E. STJ de apensamento dos referidos recursos à sistemática dos repetitivos submetida a julgamento no Tema Repetitivo nº 1.174, a AGRAVANTE vem requerer seja suspensa a tramitação do presente feito até a definição da matéria pelo Superior Tribunal de Justiça, nos termos do artigo 314 do CPC.
+A parte pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.6.2023.
+Com efeito, a matéria versada no apelo foi afetada para julgamento sob o rito dos Recursos Repetitivos (Tema 1.174/STJ), como se pode conferir abaixo:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL, SAT E CONTRIBUIÇÕES DE TERCEIROS. NÃO INCLUSÃO, NA BASE DE CÁLCULO, DOS VALORES RELATIVOS À CONTRIBUIÇÃO AO INSS DEVIDA PELOS SEGURADOS (EMPREGADO E TRABALHADOR AVULSO) E AO IMPOSTO DE RENDA (PESSOA FÍSICA) RETIDO NA FONTE. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Possibilidade de excluir os valores relativos à contribuição previdenciária do empregado e trabalhador avulso e ao imposto de renda de pessoa física, retidos na fonte pelo empregador, da base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao SAT/RAT".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão de todos os processos pendentes no território nacional, inclusive daqueles em curso nos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada.
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta dos Recursos Especiais autuados sob n. 2.005.029/SC, 2.005.087/PR, 2.005.289/SC e 2.005.567/RS).
+(ProAfR no REsp 2.005.029/SC, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 5/12/2022, grifei.)
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/5/2012.)
+Ante o exposto, torno sem efeito a decisão das fls. 1.513-1.516, e-STJ, julgo prejudicado o presente Agravo Interno e determino a devolução dos autos à Corte regional, com a devida baixa, para que esta, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
