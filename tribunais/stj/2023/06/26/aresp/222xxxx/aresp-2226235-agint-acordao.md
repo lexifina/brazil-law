@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Estado do Maranhão contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+O agravante sustenta inicialmente que estaria caracterizada a estrita aderência entre o presente caso e o Tema 1.033/STJ, em que se analisa a "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas". Pugna, assim, o sobrestamento do feito até o julgamento final dos Recursos Especiais n. 1.801.615/SP e 1.774.204/RS.
+Acerca da violação dos arts. 197 e 204, argumenta que, ao contrário do consignado na decisão agravada, não incide o óbice da Súmula 284/STF, visto que o seu recurso especial está fundamentado na prescrição do fundo de direito, e que as referidas normas do Código Civil dispõem exatamente sobre as hipótese pelas quais a prescrição é suspensa ou interrompida.
+No que se refere ao art. 1º do Decreto n. 20.910/1932, diz que a questão federal posta em debate foi, sim, expressamente decidida pelo Tribunal estadual, o que também afasta o óbice da Súmula 282/STF.
+Requer, assim, a reconsideração da decisão agravada, dando provimento ao recurso especial para reformar o acórdão recorrido.
+Impugnação às fls. 576-594.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. PRESCRIÇÃO. SENTENÇA ILÍQUIDA. IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Consoante jurisprudência dessa Corte, a liquidação da sentença ilíquida é fase de cognição do processo, de maneira que o prazo prescricional para a execução do título judicial só começa a correr da data em que este esteja efetivamente aperfeiçoada. Precedentes.
+3. Na hipótese, o Tribunal de origem assentou, à luz da prova dos autos, que se fez necessária efetiva fase de liquidação da sentença coletiva em execução, não sendo a hipótese de confecção de meros cálculos para a obtenção do valor exequendo. Assim, para rever a conclusão da Corte e apreciar as alegações do apelo nobre, seria necessário incursionar no acervo probatório da causa, o que é vedado na via especial, em virtude do óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Indefere-se inicialmente o pedido de sobrestamento, visto que o caso dos autos cuida do do início do prazo prescricional na hipótese de sentença ilíquida (coletiva), ou seja, a matéria é diversa do Tema 1.033/STJ, em que se analisa a "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+No mais, o recurso não merece êxito. Vejamos.
+O Tribunal estadual deu provimento à apelação da exequente, anulando a sentença e determinando o retorno dos autos ao Juízo de origem para regular prosseguimento do feito ao entendimento de que, tratando-se de sentença ilíquida, o prazo inicial da prescrição se inicia da efetiva liquidação, e não do trânsito em julgado da demanda. Confira-se:
+No presente caso, a sentença proferida na Ação Coletiva 6542/2005, ajuizada pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP, transitou em julgado em 05 de novembro de 2008. Contudo, tratava-se de sentença ilíquida, não funcionando como termo inicial para a contagem do prazo prescricional.
+A liquidação da mencionada sentença ocorreu apenas em 15/10/2018, conforme decisão de homologação dos cálculos, de modo que, a partir daí, na esteira do entendimento firmado pelo STJ, iniciou-se a contagem do prazo prescricional.
+Assim, o presente cumprimento de sentença foi ajuizado na data de 11 de maio de 2018, dentro, portanto, do prazo prescricional de 05 (cinco) anos a contar da data da liquidação da sentença.
+Ante o exposto, conheço e dou provimento ao Apelo, anulando a sentença e determinando o retorno dos autos ao Juízo de base para regular prosseguimento do feito. (fl. 380, e-STJ)
+O recorrente sustenta violado os artigos 197 e 204 do Código Civil. Confira-se a literalidade dos referidos artigos:
+Das Causas que Impedem ou Suspendem a Prescrição
+Art. 197. Não corre a prescrição:
+I - entre os cônjuges, na constância da sociedade conjugal;
+II - entre ascendentes e descendentes, durante o poder familiar;
+III - entre tutelados ou curatelados e seus tutores ou curadores, durante a tutela ou curatela.
+Das Causas que Interrompem a Prescrição
+Art. 204. A interrupção da prescrição por um credor não aproveita aos outros; semelhantemente, a interrupção operada contra o co-devedor, ou seu herdeiro, não prejudica aos demais coobrigados.
+Assim sendo, evidencia-se que a decisão agravada não merece reparos, visto que, de fato, incide o óbice da Súmula 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados para dar respaldo à tese deduzida e infirmar os fundamentos do acórdão recorrido.
+Consoante jurisprudência dessa Corte, "quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, configura deficiência de fundamentação, circunstância que atrai, por analogia, a aplicação da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 2.045.556/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+No que se refere ao artigo 1º do Decreto n. 20.910/1932, o recorrente argumenta que, no caso, "a liquidação aqui tratada é apenas por cálculos aritméticos, por parte da Contadoria Judicial", e que "não houve produção probatória, não houve necessidade de realização de prova pericial, oitivas, controvérsias a serem decididas judicialmente, nada disso" (fl. 436).
+Nesse contexto, o recurso igualmente não merece êxito. Isso porque para rever a conclusão do acórdão recorrido e apreciar as alegações do apelo nobre, passa, necessariamente, por incursionar no acervo probatório da causa, o que é vedado na via especial. Incide, na espécie, o óbice da Súmula 7/STJ. No mesmo sentido, com idêntica temática dos autos, destaca-se julgados de ambas as Turmas de Direito Público:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO DOS FUNDAMENTOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRAZO PRESCRICIONAL. INÍCIO APÓS LIQUIDAÇÃO DO TÍTULO. SIMPLES CÁLCULOS ARITMÉTICOS. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Hipótese em que a decisão agravada consignou: "Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (fl. 311, e-STJ).
+2. Assiste razão ao agravante no que se refere à inexistência de deficiência nas razões recursais, pois bem delimitada a tese apresentada acerca da contagem do prazo prescricional. Afasta-se, portanto, o óbice apontado e passa-se a analisar as razões recursais.
+3. O Tribunal de origem afastou a alegação de prescrição do agravante por considerar que o início do prazo para o cumprimento individual de sentença coletiva se dá com a homologação dos cálculos de liquidação.
+4. O Superior Tribunal de Justiça consignou, nos Embargos de Divergência no REsp 1.426.968/MG: "a Primeira Seção, no REsp 1.336.026/PE, julgado sob o rito do art. 543-C do Código de Processo Civil de 1973, assentou que "o entendimento externado pelo STF leva em conta que o procedimento de liquidação, da forma como regulado pelas normas processuais civis, integra, na prática, o próprio processo de conhecimento. Se o título judicial estabelecido no processo de conhecimento não firmara o quantum debeatur, somente efetivada a liquidação da sentença é que se poderá falar em inércia do credor em propor a execução, independentemente de tratar-se de liquidação por artigos, por arbitramento ou por cálculos"." (EREsp 1.426.968/MG, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 22/6/2018).
+5. No mais, aferir se a liquidação de sentença depende, de fato, apenas de simples cálculo aritmético, como defendido nas razões recursais, demanda reexame probatório, o que é vedado pela Súmula 7/STJ.
+6. Agravo Interno provido para conhecer do Agravo do art. 1.042 do CPC e negar provimento ao Recurso Especial.
+(AgInt no AREsp n. 2.188.688/MA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/3/2023, DJe de 27/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA COLETIVA. PRESCRIÇÃO. SENTENÇA ILÍQUIDA. IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A jurisprudência desta Corte Superior consolidou-se na compreensão de que a liquidação da sentença ilíquida é fase de cognição do processo, de maneira que o prazo prescricional para a execução do título judicial só começa a correr da data em que este esteja efetivamente aperfeiçoada. Precedentes do STJ.
+2. Na hipótese, o Tribunal de origem assentou, à luz da prova dos autos, que se fez necessária efetiva fase de liquidação da sentença coletiva em execução, não sendo a hipótese de confecção de meros cálculos para a obtenção do valor exequendo. Assim, para rever a conclusão da Corte e apreciar as alegações do apelo nobre, seria necessário incursionar no acervo probatório da causa, o que é vedado na via especial, em virtude do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.983.153/MA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 2/5/2022, DJe de 4/5/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
