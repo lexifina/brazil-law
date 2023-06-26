@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO TOCANTINS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da CF/1988, contra acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 389):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO. RESTABELECIMENTO DE QUANTITATIVO SALARIAL RETIRADO DOS MILITARES. PRESCRIÇÃO AFASTADA. REAJUSTE INCORPORADO A REMUNERAÇÃO. MATÉRIA NÃO ANALISADA NA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA E VIOLAÇÃO DO DUPLO GRAU DE JURISDIÇÃO. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO NA PARTE CONHECIDA.
+1. O objeto do agravo de instrumento restringe-se à análise da legalidade ou ilegalidade da decisão agravada, devendo o Tribunal de Justiça abster-se de incursões profundas na seara meritória a  m de não antecipar o julgamento do mérito da demanda, perpetrando a vedada e odiosa supressão de instância.
+2. Considerando que o último prazo no Mandado de Segurança nº 689/93 (processo eletrônico n.º 5000002-05.1993.827.0000) transcorreu em 16/06/2021, e a parte agravada interpôs o cumprimento de sentença na data de 14/07/2021, não decorreu o prazo prescricional de cinco anos em favor da Fazenda Pública, como defende o ora agravante.
+3. Não há como apreciar o mérito da impugnação nesta esfera recursal, sob pena de supressão de instância, já que a questão apresentada pelo agravante não foi objeto de análise pelo juízo de origem.
+4. Recurso parcialmente conhecido e não provido na parte conhecida.
+No recurso inadmitido, sustenta a parte ora agravante violação ao art. 1º do Decreto n. 20.910/1932, ao argumento de que a pretensão executória da parte agravada foi alcançada pela prescrição do fundo de direito.
+A tanto, assevera "que o prazo prescricional para ajuizamento da presente execução individual de acórdão coletivo é de 5 (cinco) anos a partir do trânsito em julgado do MSC698/93(5000002-05.1993.8.27.0000)" que, por sua vez, teria ocorrido em 17/3/2004, após, "No Excelso Pretório, a Min. Ellen Gracie, relatora do recurso  ter negado  seguimento ao apelo interposto" (fl. 402).
+As contrarrazões foram ofertadas às fls. 408/419.
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, especialmente porque a questão sub judice é exclusivamente de direito, devendo ser afastado o óbice da Súmula 7/STJ (fls. 520/525).
+Contraminuta às fls. 531/540.
+Em 1º/2/2023, a em. Ministra Presidente deste Superior Tribunal proferiu decisão unipessoal conhecendo do agravo para não conhecer do recurso especial (fls. 572/575).
+Contra esse decisum foi interposto agravo interno (fls. 580/586).
+O Ministério Público Federal, em parecer ofertado às fls. 597/601, opinou pelo desprovimento do recurso.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, em juízo de retratação, torno sem efeito a decisão de fls. 572/575 para proceder a novo exame deste agravo em recurso especial.
+Da leitura do acórdão recorrido, extrai-se que o Tribunal de origem entendeu não ter ocorrido a prescrição da pretensão executória, uma vez que "o último prazo no Mandado de Segurança nº 689/93 (processo eletrônico n.º 5000002-05.1993.827.0000) antes de sua baixa transcorreu em 16/06/2021, e a parte agravada interpôs o cumprimento de sentença na data de 12/07/2021" (fl. 381).
+Logo, para se adotar a premissa fática defendida pelo recorrente afastando - - no sentido de que o título executivo judicial transitou em julgado em 17/3/2004 -, seria necessário o revolvimento do conjunto probatório dos autos, o que esbarra no obstáculo da Súmula 7/STJ.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Na espécie, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, não acolhida a pretensão recursal da parte ora agravante, cabível a sua condenação em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal.
+2. Embargos de declaração acolhidos.
+(EDcl no AREsp n. 1.679.208/RS, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe de 3/12/2020)
+PROCESSUAL CIVIL. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. ART. 85, §11, DO CPC/2015. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/2015. POSSIBILIDADE.
+1. Hipótese em que foi dado provimento a recurso da Fazenda Nacional para reconhecer a possibilidade de majoração dos honorários recursais, no âmbito do STJ, na forma do art. 85, §11, do CPC/2015.
+2. Conforme consignado no decisum agravado, "não seria a data do ato judicial decisório que determinaria a aplicação do art. 85, § 11, do CPC de 2015, mas a data em que publicada a decisão contra a qual é interposto o recurso" (EDcl no AREsp 1.752.269/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7.4.2021).
+3. "É devida a fixação de honorários recursais no âmbito do STJ quando o acórdão recorrido do Tribunal de origem tenha sido prolatado na vigência do Código Fux, ainda que a sentença tenha sido publicada à luz do Código Buzaid" (AgInt nos EDcl no AREsp 1.424.412/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26.11.2019).
+4. Agravo Interno não provido.
+(AgInt no AgInt nos EDcl no AREsp n. 1.805.836/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/12/2021) - Grifo nosso
+ANTE O EXPOSTO, reconsidero a decisão de fls. 572/575 para, em novo exame, negar provimento ao agravo em recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios r ecursais arbitrados, nos termos do art. 85, § 11, do CPC, em 10% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal. Prejudicado o agravo interno de fls. 580/586.
+Publique-se.
