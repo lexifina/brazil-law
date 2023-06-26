@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Fábio Almansa Lopes e Maria Elisete Pulcinelli interpuseram recurso especial contra o acórdão de fls. 238-246 (e-STJ), prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUERES E MULTA. DESOCUPAÇÃO DO IMÓVEL LOCADO. Esclarecimentos prestados pelo z. oficial de justiça que permitem aferir que o imóvel em que se operou a citação não se confunde com a res locata. Recorridos, inclusive, que reconheceram expressamente a desocupação na peça exordial. RECUSA DOS LOCADORES PARA O RECEBIMENTO DAS CHAVES. Incontroversa recusa dos locadores em receber as chaves, condicionando a providência a reparos no imóvel. Abusividade. Desrespeito ao direito potestativo do locatário inscrito no art. 6º da Lei do Inquilinato. Precedentes desta E. Corte e do E. STJ. Alugueres devidos até o mês subsequente à ciência do intento de denúncia, por força da necessidade de pré-aviso em locações por prazo indeterminado. Sentença reformada. SUCUMBÊNCIA. Decaimento mínimo dos apelantes. Inversão do ônus sucumbencial. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 248-264), apontaram os insurgentes a existência de violação dos arts. 86, 1.013, § 1º, e 1.014 do CPC/2015. Sustentaram, em síntese: i) que o erro de fato alegado no recurso de apelação trata de inovação recursal, resultando em supressão de instância, estando preclusa a matéria; e ii) necessidade de revisão da distribuição dos ônus sucumbenciais, porquanto houve sucumbência recíproca.
+Foram apresentadas contrarrazões às fls. 270-278 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) descabimento do recurso especial contra suposta violação da Constituição Federal; b) apreciação suficiente das teses recursais; c) incidência da Súmula 7/STJ, no tocante à pretensa revisão da distribuição dos ônus da sucumbência; e d) não demonstração da violação ao art. 1.014 do CPC/2015, cumulada com a incidência da Súmula 7/STJ.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 328-331 (e-STJ), esta relatoria conheceu do agravo para não conhecer do recurso especial.
+Daí sobreveio este agravo interno (e-STJ, fls. 335-353), no qual defendem os agravantes a não incidência da Súmula 7/STJ.
+Sem impugnações (e-STJ, fls. 357-359).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS E MULTA. PRECLUSÃO, INOVAÇÃO RECURSAL, SUPRESSÃO DE INSTÂNCIA E REVISÃO DA DISTRIBUIÇÃO DA SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões a que chegou o Tribunal de origem, sobre a não ocorrência de preclusão, inovação recursal e supressão de instância, bem como pela distribuição da sucumbência, esbarra no óbice da Súmula 7/STJ.
+2. Não procede o argumento dos agravantes de que basta a revaloração dos fatos para o acolhimento das teses recursais.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do recurso especial, tendo em vista a incidência da Súmula 7/STJ.
+Veja-se às fls. 329-330 (e-STJ):
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal de origem concluiu pela não ocorrência de preclusão, inovação recursal ou supressão de instância, bem como pela sucumbência mínima dos recorridos.
+Veja-se às fls. 241 e 246 (e-STJ):
+De proêmio, a preliminar de inovação recursal não merece ser acolhida. Isso porque o apelo está exclusivamente a combater a valoração que o D. Magistrado a quo levou a efeito sobre a certidão de fls. 66, não o documento em si. Evidente, portanto, que a contraposição apenas poderia se dar nesta oportunidade, já que, em momento anterior, o I. Magistrado não havia emitido juízo de percepção sobre o tema, inexistindo hipótese de preclusão a ser reconhecida. Modificado o resultado do julgado, ante a sucumbência mínima dos recorrentes, caberá à parte apelada arcar com as custas, as despesas processuais e a verba honorária, arbitrada em 10% do valor atualizado da causa.
+A revisão das conclusões a que chegou a Corte estadual sobre a inexistência de preclusão, inovação recursal e supressão de instância esbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório dos autos.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO PELO TRIBUNAL DO JÚRI. DESAFORAMENTO. IMPARCIALIDADE DOS JURADOS SOB SUSPEITA. MATÉRIA DE FATO. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO REGIMENTAL DESPROVIDO.1. A pretensão de simples reexame de prova não enseja recurso especial (Súmula n. 7 do STJ).2. A incidência da Súmula n. 7 do STJ, de modo a obstar o conhecimento do recurso especial pela alínea a do permissivo constitucional, torna prejudicada a apreciação da divergência jurisprudencial uma vez que não é possível encontrar similitude fática entre os arestos confrontados, cujas conclusões decorrem da análise das circunstâncias de cada caso examinado, e não de entendimento diverso sobre a mesma questão de direito.3. Agravo regimental desprovido.(AgRg no AREsp 1.770.614/MS, Rel. Ministro João Otávio de Noronha, Quinta Turma, julgado em 08/06/2021, DJe 10/06/2021)
+Também entende esta Corte Superior que incide a Súmula 7/STJ a obstar a pretensão de revisão do grau de sucumbência.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DECISÃO MONOCRÁTICA. CABIMENTO. PIS. COFINS. CRÉDITO PRESUMIDO. RESSARCIMENTO. COMPENSAÇÃO. PRAZO PRESCRICIONAL. TERMO INICIAL. MP N. 517/2010. ÔNUS DA SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE.1. Nos termos da Súmula 568 desta Corte e do art. 255, § 4º, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver entendimento dominante sobre o tema.2. A Primeira Turma desta Corte Superior, ao julgar o AgInt nos EDcl no REsp 1.693.878/RS (rel. p/ acórdão Min. Gurgel de Faria, Primeira Turma, julgado em 19/05/2020, DJe 12/06/2020), firmou o entendimento de que deve ser considerado como termo a quo do prazo prescricional, de que trata o art. 1º do Decreto n. 20.910/1932, aquele estabelecido na MP n. 517/2010, convertida na Lei n. 12.431/2011, qual seja, 1º/01/2011 para os créditos de 2006 a 2008, de modo que, quando do ajuizamento da ação ordinária, em 24/06/2016, essa parte do pedido estava prescrita.3. O Superior Tribunal de Justiça tem entendido incabível, em recurso especial, a aferição do grau de sucumbência para fins de fixação da verba honorária, porquanto demandaria o reexame de provas, providência que encontra óbice na Súmula 7 do STJ.4. Agravo interno desprovido.(AgInt no REsp n. 1.779.156/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Na presente insurgência, defendem os agravantes a não incidência da referida súmula. Sustentam que, para o acolhimento das teses recursais, basta a revaloração dos fatos.
+Ora, revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias e constante no acórdão recorrido.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. Rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da ante possessória demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+2. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial. Entretanto, na hipótese dos autos, para reverter a conclusão da Corte local, a fim de que se reconheça a presença dos pressupostos que ensejam a demanda reintegratória, necessário seria o reexame das provas colacionadas aos autos, providência vedada a esta Corte Superior, em sede de recurso especial.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 51.977/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2016, DJe 29/04/2016).
+No caso em apreço, almejam os agravantes, na verdade, a revisão das conclusões a que chegou a Corte de origem, sem contudo haver na decisão recorrida elementos que amparem tal revisão.
+Assim, sem razão os agravantes quando defendem a não incidência da Súmula 7/STJ.
+Dessa forma, prevalece o fundamento da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
