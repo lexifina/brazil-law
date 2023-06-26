@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão assim ementado:
+PROCESSUAL CIVIL. SÚMULA 284/STF. DISPOSITIVO LEGAL SEM COMANDO PARA INFIRMAR O ACÓRDÃO RECORRIDO.
+1. Caso em que o acórdão recorrido consignou que, uma "vez que nos incisos III e IV do artigo 1º das mencionadas leis estaduais possuíam como termo inicial os meses de novembro de 2016 e 2017, não há falar na incorporação ao patrimônio dos servidores de tais reajuste e, por conseguinte, no pagamento, em sede de cumprimento de sentença, das diferenças de acordo com o escalonamento originário, já que válida as modificações relativas a esses períodos. (..) Assim, como pela Lei Estadual n.º 19.122/2015 se adiou para dezembro de 2016 o segundo reajuste, mantendo-o até a nova data de pagamento do terceiro (dezembro de 2017), impende discordar da interpretação da magistrada a quo ao rejeitar a impugnação feita pelo ente público por suposto efeito cascata, uma vez que isso ocorreria se eventualmente houvesse declaração de ilegalidade das demais alterações (de 11/2016 para 12/2017, e 11/2017 para 12/2018), o que não é o caso".
+2. O art. 489, § 3º, do CPC não tem comando para infirmar as conclusões do acórdão. Reza o referido dispositivo infraconstitucional: "§ 3º A decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé". Aplicação, no ponto, por analogia, da Súmula 284/STF.
+3. Agravo Interno não provido.
+A parte embargante alega (fls. 232-:
+Primeiramente, cumpre destacar que, embora tenha o (a) Ilustre Ministro (a) Relator (a) entendido que a Ação Coletiva de n.º 0440990.61.2015.8.09.0051 tinha como objeto exclusivamente o recebimento do inciso II, do artigo 1º das Leis estaduais nos 18.419/2014, 18.420/2014 e 18.421/2014, deixou de observar que a demanda coletiva, a bem da verdade, tinha como objeto GARANTIR QUE O ESTADO DE GOIÁS CUMPRISSE, NA INTEGRALIDADE, O REAJUSTE ANUAL DE 12,33% CONFORME ESTABELECIDO NAS LEIS ESTADUAIS DE N.º 18.419/2014, 18.420/2014 e 18.421/2014, ou seja, realizar o pagamento como havia sido previsto nas referidas leis, de forma que, em 2017, o salário dos servidores estaria reajustado em 55,49%, o que não ocorreu em razão da ilegalidade perpetrada pelo Executado e reconhecida pelo Juízo da 6ª Vara da Fazenda Pública do Estado de Goiás.
+(..)
+Deste modo, restou claro que a postergação do inciso II, do artigo 1º das Leis Estaduais objeto da lide acarretou redução vencimental a qual, somente foi regularizada, no ano de 2018, quando efetivamente o subsídio dos servidores foram reajustados nos moldes das supracitadas leis, razão pela qual, o pagamento das diferenças salariais decorrentes da ilegal postergação, até 2018, quando efetivamente paga, é medida que se impõe.
+Portanto, não há dúvidas de que toda a demanda se pautou no cumprimento integral das Leis Estaduais n.º 18.419/2014, 18.420/2014 e 18.421/2014.
+Impugnação às fls. 352-355, e-STJ.
+Pleiteia o acolhimento do Recurso com efeitos infringentes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que ficou consignado: a) o acórdão recorrido expôs que, uma "vez que nos incisos III e IV do artigo 1º das mencionadas leis estaduais possuíam como termo inicial os meses de novembro de 2016 e 2017, não há falar na incorporação ao patrimônio dos servidores de tais reajuste e, por conseguinte, no pagamento, em sede de cumprimento de sentença, das diferenças de acordo com o escalonamento originário, já que válida as modificações relativas a esses períodos. (..) Assim, como pela Lei Estadual n.º 19.122/2015 se adiou para dezembro de 2016 o segundo reajuste, mantendo-o até a nova data de pagamento do terceiro (dezembro de 2017), impende discordar da interpretação da magistrada a quo ao rejeitar a impugnação feita pelo ente público por suposto efeito cascata, uma vez que isso ocorreria se eventualmente houvesse declaração de ilegalidade das demais alterações (de 11/2016 para 12/2017, e 11/2017 para 12/2018), o que não é o caso"; b) o art. 489, § 3º, do CPC não tem comando para infirmar as conclusões do acórdão. Reza o referido dispositivo infraconstitucional: "§ 3º A decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé". Aplicação, no ponto, por analogia, da Súmula 284/STF.
+2. A Turma desproveu o Recurso com fundamento claro e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+3. Os argumentos do embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11.5.2023.
+A irresignação não merece prosperar.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+O acórdão embargado expôs o consignado pela Corte a quo:
+Isso porque, além da ampla jurisprudência pátria no sentido de inexistir direito adquirido a regime jurídico, o que, inclusive, fora ressaltado pelo julgador na fundamentação da sentença, como a publicação da Lei n.º 19.122/2015 ocorreu em 15/12/2015, ou seja, após o termo inicial da eficácia financeira dos reajustes previstos para novembro do mesmo ano, concluiu-se que a nova redação dada, especificamente aos destacados dispositivos (artigo 1º, inciso II, das Leis Estaduais n.º 18.419/2014, 18.420/2014 e 18.421/2014), viola o preceito constitucional referente a irredutibilidade de subsídios e vencimentos (artigo 37, XV, da Constituição da República Federativa do Brasil de 1988).
+De outra banda, vez que nos incisos III e IV do artigo 1º das mencionadas leis estaduais possuíam como termo inicial os meses de novembro de 2016 e 2017, não há falar na incorporação ao patrimônio dos servidores de tais reajuste e, por conseguinte, no pagamento, em sede de cumprimento de sentença, das diferenças de acordo com o escalonamento originário, já que válida as modificações relativas a esses períodos. Veja-se:
+(..)
+Assim, como pela Lei Estadual n.º 19.122/2015 se adiou para dezembro de 2016 o segundo reajuste, mantendo-o até a nova data de pagamento do terceiro (dezembro de 2017), impende discordar da interpretação da magistrada a quo ao rejeitar a impugnação feita pelo ente público por suposto efeito cascata, uma vez que isso ocorreria se eventualmente houvesse declaração de ilegalidade das demais alterações (de 11/2016 para 12/2017, e 11/2017 para 12/2018), o que não é o caso.
+(..)
+Tanto na peça exordial do Sindicato dos Policiais Civis do Estado de Goiás - SINPOL/GO como em sua réplica à contestação, os argumentos se voltaram a questionar a mudança legislativa mencionada quanto ao reajuste inicialmente fixado para novembro/2015, haja vista que esse marco temporal já havia se alcançado, porquanto anterior à vigência da lei modificativa do texto originário.
+Destarte, tendo a discussão se limitado a tal período, eventual reconhecimento de efeito patrimonial para além do previsto no inciso II do artigo 1º das Leis Estaduais n.º 18.419/2014, 18.420/2014 e 18.421/2014, como se fez na decisão recorrida, representa violação à coisa julgada, uma vez que não se questionou a validade das modificações relativas aos incisos III e IV.
+Isso, inclusive, está claramente estampado na fundamentação feita pelo julgador de mérito do título exequendo, conforme se depreende dos trechos a seguir:
+(..)
+Logo, assiste razão ao ente público em apontar o excesso de execução do cálculo, porquanto os servidores receberam valores a menos do que o devido apenas no período de novembro de 2015 a novembro de 2016, motivo pelo qual impende acolher a impugnação ao cumprimento de sentença, para o fim de reconhecer o excesso de execução apresentado pelo executado.
+Frente ao resultado do recurso e a procedência da impugnação, necessária a condenação da parte agravada nos honorários de sucumbência em 10% sobre o proveito econômico obtido (excesso verificado), nos termos do artigo 85, §§ 2º e 3º, inciso I, do CPC.
+Com efeito, o art. 489, § 3º, do CPC não tem comando para infirmar as conclusões do acórdão. Reza o referido dispositivo infraconstitucional:
+Art. 489. São elementos essenciais da sentença:
+(..)
+§ 3º A decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé.
+Aplicação, no ponto, por analogia, da Súmula 284/STF. A jurisprudência do STJ é pacífica nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. (..) DISPOSITIVOS LEGAIS, TIDOS COMO CONTRARIADOS, QUE NÃO POSSUEM COMANDO NORMATIVO SUFICIENTE PARA INFIRMAR O FUNDAMENTO DO ACÓRDÃO RECORRIDO. (..)
+(..)
+V. Os arts. 462 do CPC/73 e 66, caput e § 3º, da Lei 8.383/91, apontados como violados, pela parte agravante, por si só, não têm comando normativo suficiente para infirmar a conclusão - certa ou errada - a que chegou o Tribunal de origem, no sentido de que "os índices que não foram especificados na inicial nem discutidos no curso da ação, devem ser definidos na fase de execução da condenação". Nesse contexto, incide, na espécie, por analogia, a Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..) (REsp 1.369.462/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/11/2020)
+Ademais, o conhecimento do feito exige análise da violação à legislação estadual, o que é obstado em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário".
+Não verifico na espécie sub judice qualquer omissão, obscuridade ou contradição no acórdão embargado, senão o intuito de rediscutir matéria já decidida, emprestando-lhe o efeito infringente.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, os Embargos de Declaração, ante a ausência de omissão, obscuridade ou contradição no acórdão embargado, não constituem instrumento adequado ao prequestionamento com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
