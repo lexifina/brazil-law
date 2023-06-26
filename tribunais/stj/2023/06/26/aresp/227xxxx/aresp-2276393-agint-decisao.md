@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão que confirmou a intempestividade declarada pelo do Tribunal de Justiça do Estado de Goiás.
+Defende Bradesco Saúde S.A.:
+Em juízo de admissibilidade, a Vice-Presidência do Tribunal a quo deixou de admitir o recurso sob o insustentável argumento de intempestividade (e-STJ fls. 312/316), compreendendo que a ora Agravante não teria comprovado, no ato de interposição do recurso, a ocorrência de feriado local, especificamente em relação ao "Aniversário de Goiânia - 24.10.2022" e o "Dia do Servidor Público - 28.10.2022", cuja suspensão do expediente consta de forma expressa no próprio Regimento Interno, bem como no calendário oficial disponibilizado no site do Tribunal de Justiça de Goiás.
+ ..
+14. A discussão voltada a este momento processual, portanto, evoca matéria exclusivamente de direito, relativa à confiabilidade e prestabilidade das informações e documentos veiculados pela página eletrônica do próprio Tribunal.
+Impugnação às fls. 617-625, e-STJ.
+Memoriais às fls. 630-634, e-STJ
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7 de junho de 2023.
+Em recente julgado o Superior Tribunal de Justiça entendeu pela idoneidade do "calendário judicial obtido no sítio do Tribunal de origem" para a comprovação da suspensão do prazo recursal. Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. TEMPESTIVIDADE COMPROVADA. AÇÃO INDENIZATÓRIA. CERCEAMENTO DE DEFESA. ART. 489, § 1º, IV, DO CPC. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284 DO STF. OCORRÊNCIA DE ATO ILÍCITO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. SÚMULA 283 DO STF. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que a agravante demonstrou a tempestividade da interposição do agravo, juntando aos autos cópia do calendário judicial obtido no sítio do Tribunal de origem - documento reconhecido como idôneo à comprovação da suspensão do prazo recursal pelo Supremo Tribunal Federal, no julgamento do RMS 36.114/AM, e pelo Superior Tribunal de Justiça, no julgamento do AREsp 1.526.182/SE.
+2. Nos termos da jurisprudência desta Corte, "a indicação de dispositivo legal sem pertinência temática e a menção a artigo de lei, desprovida de clareza e sem fundamentação precisa para remover a razão de decidir do acórdão recorrido, revelam a patente falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal" (AgInt no AREsp 1.317.496/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 16.12.2021).
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inviável a apreciação de divergência jurisprudencial quanto ao valor fixado a título de danos morais, porquanto, ainda que haja semelhança em relação a alguns aspectos dos acórdãos confrontados, cada qual apresenta peculiaridades específicas e contornos fáticos próprios considerados pela instância ordinária ao arbitrar o valor da indenização.
+5. Agravo interno provido, para, em nova decisão, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 2.235.139/SP, Relator Ministro Raul Araújo, Quarta Turma, DJe 25.5.2023)
+Reputo tempestivo o recurso e, portanto, reconsidero o decisum presidencial. Passo a análise dos demais pressupostos.
+Em seu Recurso Especial, o recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, IV, 805 e 1.022 do CPC; e 9º, § 3º, da Lei 6.830/1980, com redação dada pela Lei 13.043/2014. Sustenta que o seguro-garantia é meio capaz de garantir a Execução Fiscal.
+Verifica-se que a recusa do seguro-garantia, pela Municipalidade, se deu em razão de:
+a) não cobrir o valor do débito;
+b) a nova apólice foi ofertada de forma extemporânea,
+c) o devedor não fez prova de onerosidade excessiva da garantia em dinheiro;
+d) a parte detém condição econômica para suportar a penhora de bens na modalidade de pagamento em dinheiro;
+e) não foi apresentado pelo devedor uma justificativa concreta que justifique a incidência do princípio da menor onerosidade para afastar a ordem legal;
+f) a ordem de preferência deve ser observada,
+g) não basta apenas invocar a regra prevista pelo artigo 805 do CPC.
+Diante da negativa do Município, o acórdão negou provimento ao Agravo de Instrumento. Entendeu ser imprescindível a expressa anuência do exequente - que foi recusada - e, ainda, a demonstração da necessidade de aplicação do princípio da menor onerosidade, o que não restou satisfatoriamente demonstrado.
+Aplicável o óbice das Súmulas 182/STJ e 284/STF, uma vez que as razões recursais delineadas no REsp estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte não combate, de forma específica, os seus fundamentos.
+O Superior Tribunal de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Ademais, a garantia da execução fiscal por fiança bancária ou seguro garantia não pode ser feita exclusivamente por conveniência do devedor, podendo a Fazenda Pública recusar tanto a oferta da penhora em detrimento do dinheiro quanto à pretensão de substituição do bem penhorado, cabendo à devedora demonstrar a necessidade de aplicação do princípio da menor onerosidade. Nessa linha:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. SEGURO-GARANTIA. DIREITO DE RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. OBSERVÂNCIA DA ORDEM LEGAL DE PREFERÊNCIA. REPETITIVO RESP N. 1.337.790/PR.
+1. A Primeira Seção, no julgamento do REsp 1.337.790/PR, sob o regime dos recursos repetitivos, sedimentou o entendimento segundo o qual a Fazenda Pública pode recusar bem oferecido à penhora, quando não observada a ordem legal de preferência, sendo ônus da parte executada comprovar a necessidade de afastá-la, inexistindo a preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre a efetividade da tutela executiva.
+2. Agravo interno não provido. (AgInt nos EDcl no REsp 1.852.289/SE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. CARTA FIANÇA. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que, em execução fiscal de crédito de PIS e IRRF, indeferiu a substituição da penhora no rosto dos autos por carta de fiança bancária. No Tribunal a quo, a decisão foi mantida.
+II - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a garantia da execução fiscal por carta de fiança bancária ou seguro garantia não pode ser feita exclusivamente por conveniência do devedor, quando a Fazenda Pública recusar em detrimento do dinheiro, o que só pode ser admitido se a parte devedora demonstrar a necessidade de aplicação do princípio da menor onerosidade, situação que não é o caso dos autos. Precedentes: AREsp 1.547.429/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/12/2019, DJe 25/5/2020 e AgInt no AREsp 649.912/ES, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020.
+III - Agravo interno improvido. (AgInt no AREsp 1.947.228/SP, Relator Ministro Francisco Falcão, Segunda Turma, DJe de 26.5.2022.)
+O acolhimento da pretensão recursal também demandaria o reexame do acervo fático-probatório juntado aos autos. Incide o óbice da Súmula 7 do STJ.
+Assim, reconsiderado o decisum presidencial quanto à tempestividade, todavia, não conhecido o Recurso Especial, seja pela pacífica jurisprudência em harmonia com o acordão, no sentido de que a garantia da Execução Fiscal por carta de fiança bancária ou seguro-garantia não pode ser feita exclusivamente por conveniência do devedor, seja porque rever o entendimento a respeito da preponderância da menor onerosidade ou os motivos para a recusa do seguro-garantia, envolvem matéria fática, inviável, portanto, sua análise na via eleita.
+Por tudo isso, não conheço do Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
