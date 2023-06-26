@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  por  VIGZUL  TECNOLOGIA  E  MONITORAMENTO  S.A.  contra  a  decisão  (fls.  486/488)  que  conheceu  parcialmente  do  recurso  especial  e, nessa extensão,  negou -lhe provimento.
+Em  suas  razões,  a  agravante  defende  que  não  foi pactuada a  incidência  dos  encargos  moratórios  em  caso  de  condenação  por  falha  na  prestação  de  serviços.  Assim,  sustenta  a  utilização  da  Taxa  Selic.
+Sem  impugnação  (certidão  de  fls.  503/504).
+É  o  relatório.
+DECIDO.
+De  início,  conforme  defendido  pela  agravante,  não  se  verificou  a  previsão  dos  encargos  moratórios.  Desse  modo,  a  decisão  agravada  merece  ser  reconsiderada  em  parte  e  passa-se,  desde  já,  à  análise  do  recurso  especial.
+No  que  concerne  à  indenização,  o  Tribunal  de  origem,  à  luz  da  prova  dos  autos,  concluiu  pelo  seu  cabimento,  conforme  se  extrai  da  leitura  do  voto  condutor,  merecendo  destaque  o  seguinte  trecho:
+"(..)
+No  caso  em  exame,  o  apelado  comprovou  que  a  apelante  lhe  impingiu  um  dano  material  na  ordem  de  R$  20.249,00  (mov.  1,  arqs.  12/17,  pp.  54/64),  relativo  aos  equipamentos  furtados  do  interior  do  edifício  cujas  instalações  foram  invadidas  por  elemento  ignorado.
+Por  sua  vez,  para  se  desincumbir  do  seu  ônus  probatório,  a  apelante  deveria  ter  trazido  ao  processo  qualquer  prova  quanto  à  existência  de  fato  impeditivo,  modificativo  ou  extintivo  do  direito  do  apelado  (CPC,  art.  373,  II),  incumbência  da  qual  ela  se  descurou.
+Dessarte,  a  sua  responsabilidade  (que  no  caso  é  subjetiva)  é  inconteste,  estando  comprovado  que  induvidosamente  ela  foi  desidiosa  no  cumprimento  do  seu  encargo  acertado  no  contrato  firmado  com  o  apelado,  circunstância  que  contribuiu  decisivamente  para  o  furto  resultante  do  ingresso  desautorizado  de  pessoa  estranha  nas  dependências  do  edifício  guarnecido  com  alarme  monitorado  pela  agravante,  que  resultou  no  prejuízo  de  R$  20.249,00,  devendo  responder  pelas  consequências  jurídicas  disso"  (fl.  425).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+De  outro  lado,  assiste  razão  à  recorrente  no  que  diz  respeito  à  tese  de  que  a  correção  monetária  da  indenização  por  danos  materiais  deve  ser  feita  utilizando  a  Taxa  Selic,  conforme  se  observa  dos  seguintes  precedentes  do  Superior  Tribunal  de  Justiça:
+"AGRAVO  INTERNO.  RECURSO  ESPECIAL.  RESTITUIÇÃO  DE  VALORES  RETIDOS  INDEVIDAMENTE  POR  INSTITUIÇÃO  FINANCEIRA.  PEDIDO  DE  UTILIZAÇÃO  DOS  MESMOS  CRITÉRIOS  DE  CÁLCULO  ESTABELECIDOS  NO  CONTRATO.  IMPOSSIBILIDADE.  PRERROGATIVA  EXCLUSIVA  DAS  INSTITUIÇÕES  FINANCEIRAS.  APLICAÇÃO  DA  TAXA  SELIC.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AGRAVO  INTERNO  NÃO  CONHECIDO.
+1.  Nos  termos  do  art.  1.021,  §  1º,  do  Código  de  Processo  Civil/2015  e  da  Súmula  182/STJ,  é  inviável  o  agravo  interno  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada.
+2.  "A  restituição  dos  frutos  do  capital  retido  indevidamente  por  instituição  financeira  não  deve  ser  feita  simplesmente  com  o  emprego  das  mesmas  taxas  por  ela  praticadas,  visto  que  estas  operam  por  regras  específicas  que  não  têm  como  ser  aplicadas  a  terceiros  como  medida  de  ressarcimento"  (AgInt  no  REsp  1.519.968/SP,  Rel.  p/  Acórdão  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  DJe  3/9/2018).
+3.  "A  Corte  Especial  no  julgamento  de  recurso  especial  repetitivo  entendeu  que  por  força  do  art.  406  do  CC/02,  a  atualização  dos  débitos  judiciais  deve  ser  efetuada  pela  taxa  referencial  do  Sistema  Especial  de  Liquidação  e  Custódia  -  SELIC,  a  qual  deve  ser  utilizada  sem  a  cumulação  com  correção  monetária  por  já  contemplar  essa  rubrica  em  sua  formação"  (AgInt  no  REsp  1.794.823/RN,  Rel.  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  28/5/2020).
+4.  Agravo  interno  não  conhecido"  (AgInt  no  REsp  1.966.743/AM,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  15/8/2002,  DJe  17/8/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  TAXA  DE  JUROS  DE  MORA.  SUBSTITUIÇÃO  PELA  SELIC.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  taxa  de  juros  moratórios  a  que  alude  o  art.  406  do  Código  Civil  é  a  Selic.
+2.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.611.330/MS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  14/9/2020,  DJe  21/9/2020).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  AGRAVADO.
+1.  Esta  Corte  firmou  entendimento  no  sentido  de  que  a  fixação  da  taxa  dos  juros  moratórios,  a  partir  da  entrada  em  vigor  do  artigo  406  do  Código  Civil  de  2002,  deve  ser  com  base  na  taxa  Selic,  podendo  essa  tese  ser  aplicada  inclusive  nos  casos  em  que  se  discute  a  execução  de  honorários.  Precedentes.
+2.  O  termo  inicial  dos  juros  moratórios  deve  ser  determinado  a  partir  da  natureza  da  relação  jurídica  mantida  entre  as  partes.
+2.1.  No  caso,  tratando-se  de  mandato,  a  relação  jurídica  tem  natureza  contratual,  sendo  o  termo  inicial  dos  juros  moratórios  a  data  da  citação.  Incidência  da  Súmula  83/STJ.
+(..)
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.180.613/MS,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  21/10/2019,  DJe  23/10/2019  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  CONTRATO  DE  PRESTAÇÃO  DE  SERVIÇOS  ADVOCATÍCIOS.  RESCISÃO  UNILATERAL.  JUROS  MORATÓRIOS.  TAXA  APLICÁVEL.
+1.  Nas  ações  envolvendo  responsabilidade  contratual,  os  juros  moratórios,  devidos  a  partir  da  citação,  incidem  à  taxa  de  0,5%  ao  mês  (art.  1.062  do  CC/1916)  até  a  vigência  do  Código  Civil  de  2002;  após  10/1/2003,  devem  incidir  segundo  os  ditames  do  art.  406  do  referido  diploma  legal.
+2.  Na  ausência  de  convenção  em  sentido  contrário,  a  partir  da  vigência  do  Código  Civil  de  2002,  os  juros  moratórios  devem  incidir  segundo  a  variação  da  Taxa  Selic.
+(..)
+4.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.599.906/MT,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  26/9/2017,  DJe  10/10/2017  -  grifou-se).
+Ante  o  exposto,  reconsidero  a  decisão  de  fls.  486/488,  conheço  parcialmente  do  recurso  especial  e, nessa extensão,  dou-lhe  provimento  para  determinar  a  substituição  dos  encargos  moratórios  fixados  na  origem  pela  incidência  da  Taxa  Selic.
+  Publique-se.
+Intimem-se.
