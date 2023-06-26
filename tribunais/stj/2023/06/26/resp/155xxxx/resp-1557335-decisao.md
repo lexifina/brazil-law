@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por MIRIAM RODRIGUES CARDOSO em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. PRELIMINAR DE NULIDADE. PRINCÍPIO DA IDENTIDADE FÍSICA DO JUÍZ. EMBARGOS DE DECLARAÇÃO. NÃO APLICAÇÃO. SUBSTITUIÇÃO DE PARTE. ESTABILIDADE SUBJETIVA DA DEMANDA. PEDIDO DE GRATUIDADE DE JUSTIÇA. RECOLHIMENTO DO PREPARO. PRECLUSÃO LÓGICA. CONDOMÍNIO IRREGULAR. TITULAR DE DIREITOS SOBRE O LOTE. RESPOSABILIDADE PELO PAGAMENTO DAS TAXAS ORDINÁRIAS E EXTRAORDINÁRIAS. SENTENÇA MANTIDA.
+1 - A competência para julgar Embargos de Declaração é do Juízo onde foi prolatada a sentença e não do Juiz. Assim, não há violação ao princípio da identidade física do Juiz se o recurso for julgado por Magistrado diverso daquele que proferiu a sentença.
+2 - Em atenção ao princípio da estabilidade subjetiva da demanda, insculpido nos artigos 41 e 264 do Código de Processo Civil, em regra, após a citação válida não mais é possível a alteração dos pólos da relação jurídica processual.
+3 - O recolhimento do preparo configura preclusão lógica, uma vez que o recolhimento do preparo se mostra incompatível com a condição de hipossuficiência que deve ser comprovada pela parte a fim de obter o benefício. Pedido prejudicado.
+4 - A irregularidade da constituição da associação não configura óbice à cobrança, dos associados, do pagamento das taxas ordinárias e extraordinárias, tampouco exime estes do adimplemento destas.
+5 - Não é imprescindível, para a cobrança de taxas "condominiais", que o associado tenha aderido à associação, bastando que sua unidade imobiliária seja contemplada com os serviços disponibilizados pelo ente coletivo, ainda que destes não tenha usufruído o associado.
+6 - Peculiaridades do Distrito Federal, onde ocorreu ocupação irregular de solo público, com a formação de centenas de imensos núcleos habitacionais.
+Apelação -Cível desprovida." (fls. 167/168)
+A recorrente aponta ofensa aos arts. 7º, 42, § 1º, 132, 264, parágrafo único, 333, II, do CPC/73, à Lei n. 4.591/64, bem como dissídio jurisprudencial, sustentando, em síntese, (a) nulidade da decisão de 1º grau que apreciou os embargos de declaração opostos em face da sentença, tendo em vista que proferida por juiz substituto, e não pelo juiz que havia assinado a sentença, (b) inexiste óbice à alteração do polo passivo da demanda, para a inserção da Sr. Casimira Rodrigues Nepomuceno, no lugar da ora recorrente (ré originária), se não houver alteração do pedido ou da causa de pedir e (c) é indevida a cobrança de taxa associativa, promovida por associação de moradores de loteamento residencial, em face de quem não é associado.
+Contrarrazões às fls. 260/287.
+É o relatório.
+A tese de nulidade da decisão que julgou os embargos de declaração, opostos em face da sentença, é despropositada, seja porque confunde a figura do Juízo com a do magistrado regularmente investido no ofício, seja porque não apresenta nenhum efetivo prejuízo experimentado pela parte, o que impede o reconhecimento da nulidade. Nesse sentido: "O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief)." (AgInt nos EDcl no AREsp n. 854.863/PR, desta relatoria, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.).
+Não se conhece da tese de sucessão processual, tendo em vista que a recorrente, nesse ponto, deixou de impugnar o fundamento do acórdão recorrido, relativo à impossibilidade de se apreciar o tema exclusivamente em sede de apelação, sem que tenha sido previamente debatido na 1º instância.
+Incidente, assim, o óbice da Súmula n. 283/STF.
+Quanto à questão de fundo, o eg. TJDFT validou a cobrança de taxa de associação de moradores de loteamento residencial, mesmo em face da ora recorrente, que é associada à entidade, nestes termos:
+"Com efeito, o condomínio ou associação de moradores tem legitimidade para demandar a cobrança de taxas fixadas nas atas de suas assembléias.
+Sendo titular de fração ideal na Associação Apelada, a Apelante deve arcar com o pagamento das despesas "condominiais", ainda mais quando se pode extrair da documentação acostada à inicial que os valores das taxas "condominiais", ordinárias e extraordinárias, eram destinados à realização de melhorias no "condomínio".(..)
+É consabido, ademais, que a circunstância de se tratar de condomínio irregular não obsta a cobrança das taxas correlatas daqueles que se beneficiam dos serviços comuns oferecidos pelo ente coletivo. Esse é o entendimento esposado por esta Casa de Justiça, consoante se depreende dos recentes julgados, a seguir transcritos:
+(..)
+Tem-se, assim, ser desinfluente a efetiva adesão de determinado associado à associação, uma vez que, na esteira do raciocínio dos precedentes acima transcritos, a responsabilidade decorre da fruição, efetiva ou potencial, dos serviços oferecidos pelo "Condomínio"/Associação." (fls. 183/185)
+A conclusão do Tribunal de origem, entretanto, contraria a tese firmada pelo STJ no Tema n. 882, assim definida:
+"As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+O acórdão merece reforma, portanto.
+Ante o exposto, dou provimento ao recurso especial a fim de julgar improcedentes os pedidos da ação de cobrança.
+Condeno a autora ao pagamento das custas e dos honorários de sucumbência, arbitrados em R$ 3.000,00, na forma do art. 85, § 8º, do CPC/15.
+Publique-se.
