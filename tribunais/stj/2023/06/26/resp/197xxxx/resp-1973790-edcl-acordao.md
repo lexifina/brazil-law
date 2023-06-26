@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Ricardo Cabral de Moura e Wilton Cunha da Silva opõem embargos de declaração aos acórdãos da Sexta Turma que negaram provimento aos agravos regimentais por eles interpostos, ementados nos seguintes termos (fls. 5.641 e 5.643):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. ESTELIONATO. LAVAGEM DE DINHEIRO. RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. DESCABIMENTO. SÚMULA 7/STJ. ARTS. 315, § 2º, DO CPP, 288 DO CP, 1º, § 1º, E 2º, CAPUT, DA LEI N. 12.850/2013. FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. HABITUALIDADE CRIMINOSA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. ESTELIONATO. LAVAGEM DE DINHEIRO. RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. DESCABIMENTO. SÚMULA 7/STJ. ARTS. 315, § 2º, DO CPP, 288 DO CP, 1º, § 1º, E 2º, CAPUT, DA LEI N. 12.850/2013. FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. HABITUALIDADE CRIMINOSA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+Reputa a parte embargante, em síntese, a existência de omissão no julgado, visto que se olvidou a Turma de enfrentar a tese firmada pelo Supremo Tribunal Federal, nos autos do AgR HC n. 208.817/RJ, em 13 de abril de 2023, referente à possível ocorrência da extinção da punibilidade quanto ao crime de estelionato, tendo em vista a ausência de representação das vítimas, nos termos do § 5º do art. 171 do Código Penal, a qual é imprescindível mesmo em ações penais em curso (fls. 5.685/5.686).
+Requer, ao final, em respeito ao princípio da retroatividade da norma penal mais benéfica - consolidado na Constituição Federal, em seu artigo 5º, inciso XL, e no Código Penal, em seu artigo 2º, parágrafo único - e ao precedente firmado pelo Plenário da Suprema Corte nos autos do HC n. 208.817 AgR  ..  o conhecimento e provimento dos presentes embargos de declaração para que se proceda à intimação das supostas vítimas para que se manifestem em trinta dias se dispõe de interesse no prosseguimento da ação penal, sem o qual deverá ser anulada a condenação dos embargantes pelos crimes de estelionato, nos termos do art. 171, § 5º, CP (fl. 5.693).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ESTELIONATO. ALEGAÇÃO DE OMISSÃO. TESE FIRMADA PELO STF. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO EX OFFICIO. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 619 DO CPP. PRETENSÃO DE MODIFICAR O JULGAMENTO. DESCABIMENTO.
+1. A inexistência dos vícios consagrados no art. 619 do Código de Processo Penal importam o desacolhimento dos embargos de declaração.
+2. Inviável a concessão do excepcional efeito modificativo quando, sob o pretexto de ocorrência de omissão na decisão embargada acerca de matéria de ordem pública, busca a parte ver reexaminada e decidida a controvérsia de acordo com tese distinta, consubstanciando, a pretensão, mera insatisfação com o resultado da demanda.
+3. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, cumpre anotar que os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o Juiz de ofício ou a requerimento e/ou corrigir erro material.
+Para a configuração dos vícios elencados no art. 619 do Código de Processo Penal, necessário que algum fundamento relevante para o julgamento da controvérsia não tenha sido objeto de apreciação pelo órgão julgador ou que a omissão, a contradição e a obscuridade, suscetíveis de serem afastadas por meio de embargos declaratórios, estejam contidas entre os próprios termos do dispositivo ou entre a fundamentação e a conclusão do acórdão embargado.
+No caso, não se constata nenhuma das hipóteses ensejadoras dos embargos de declaração, pois, na espécie, os acórdãos impugnados examinaram em detalhe todos os argumentos defensivos, apresentando fundamentos suficientes e claros para refutar as alegações deduzidas.
+Ainda que se alegue que os presentes embargos têm como objeto matéria de ordem pública que pode implicar na extinção da punibilidade dos ora embargantes, o que deve ser reconhecido inclusive de ofício, em respeito ao art. 61, CPP (fl. 5.687), não há como abrigar a pretensão da parte, no sentido de aplicação da tese firmada pelo STF no julgamento do HC n. 208.817. Explico.
+No caso em tela, não há falar em ausência de condição de procedibilidade para a ação penal, pois, além de os estelionatos terem sido praticados contra pessoas idosas e vulneráveis (art. 171, § 4º, do CP), a hipótese diz respeito à exceção prevista no inciso IV do § 5º do art. 171 do Código Penal, in verbis:
+§ 5º Somente se procede mediante representação, salvo se a vítima for:
+ ..
+IV - maior de 70 (setenta) anos de idade ou incapaz.
+Com efeito, em diversas passagens, a sentença traz registros da condição de vulnerabilidade das vítimas, tendo em vista que os acusados praticaram o delito contra pessoas idosas, vulneráveis em face da avançada idade (fls. 1.504; 1.508; 1.509; 1.511; 1.517; e 1.518), mencionando expressamente a idade de uma delas: 83 anos (fl. 1.509).
+Além disso, há, nos autos, manifestação exarada por uma das vítimas, idosa de 74 anos, na delegacia, circunstância apta a indicar a inequívoca manifestação de vontade de ver apurado o fato delituoso, sendo desnecessária representação formal (fls. 24/28).
+Seguindo esse entendimento: AgRg no RHC n. 168.517/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/10/2022; HC n. 610.201/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 8/4/2021; AgRg no AREsp n. 1.781.548/MS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/2/2021; HC n. 602.601/SP, Ministro Felix Fischer, Quinta Turma, DJe 17/12/2020; AgRg no HC n. 435.751/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/9/2018; e AgRg no AREsp n. 1.350.443/MG, de minha relatoria, Sexta Turma, DJe 13/11/2018.
+Como se percebe, o caso dos autos encontra-se na exceção especificada no inciso IV do § 5º do art. 171 do Código Penal , não sendo o caso, pois, de aplicação incontinenti da mesma ratio decidendi do AgR no HC n. 208.817/RJ.
+Deste modo, não se verifica omissão na prestação jurisdicional, mas mera irresignação da parte, situação que não autoriza a oposição de embargos de declaração (EDcl no HC n. 522.584/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 22/11/2019).
+Impertinente, portanto, a pretensão da parte embargante.
+Em face do exposto, rejeito os embargos de declaração.
