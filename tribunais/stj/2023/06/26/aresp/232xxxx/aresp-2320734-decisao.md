@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 5 anos de reclusão, pela prática do crime do art. 33 da Lei n. 11.343/2006, e deu parcial provimento ao recurso ministerial para fixar o regime fechado para o cumprimento da pena.
+A defesa aponta a violação dos arts. 33, § 4º da Lei n. 11.343/2006 e 33, § 2º, do Código Penal, alegando, em síntese, que a apreensão de drogas e petrechos do tráfico não são elementos aptos a evidenciar a dedicação à atividade criminosa, afastando a minorante. Com a aplicação do redutor, pede o abrandamento do regime prisional.
+Contrarrazões às e-STJ fls. 576/583.
+Manifestação do Ministério Público Federal às e-STJ fls. 664/668.
+É o relatório. Decido.
+Verifica-se que o recurso especial está prejudicado.
+O recorrente impetrou o HC n. 714.322/SP, no qual foram suscitadas as mesmas teses expostas no presente recurso. O writ foi analisado por esta Corte e publicado em 16/3/2022.
+Interposto agravo regimental, a decisão foi confirmada pelo órgão colegiado, acórdão publicado em 25/4/2022 , com a seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA DA PENA. APREENSÃO DE APETRECHOS RELACIONADOS AO TRÁFICO. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI N. 11.343/2006). PRESENÇA DE OUTROS ELEMENTOS EVIDENCIADORES DA DEDICAÇÃO A ATIVIDADE CRIMININOSA OU DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dosimetria da reprimenda penal, atividade jurisdicional caracterizada pelo exercício de discricionariedade vinculada, realiza-se dentro das balizas fixadas pelo legislador.
+2. O tratamento legal conferido ao crime de tráfico de drogas traz peculiaridades a serem observadas nas condenações respectivas; a natureza desse crime de perigo abstrato, que tutela o bem jurídico saúde pública, fez com que o legislador elegesse dois elementos específicos  necessariamente presentes no quadro jurídico-probatório que cerca aquela prática delituosa, a saber, a natureza e a quantidade das drogas  para utilização obrigatória na primeira fase da dosimetria.
+3. O tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual.
+4. No julgamento do RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese n. 712), o STF fixou o entendimento de que a natureza e a quantidade de entorpecentes não podem ser utilizadas em duas fases da dosimetria da pena.
+5. A Terceira Seção do STJ, no julgamento do REsp n. n. 1.887.511/SP (DJe de 1º/7/2021), partindo da premissa fixada na Tese n. 712 do STF, uniformizou o entendimento de que a natureza e a quantidade de entorpecentes devem ser necessariamente valoradas na primeira etapa da dosimetria, para modulação da pena-base.
+6. Não há margem, na redação do art. 42 da Lei n. 11.343/2006, para utilização de suposta discricionariedade judicial que redunde na transferência da análise dos vetores "natureza e quantidade de drogas apreendidas" para etapas posteriores, já que erigidos ao status de circunstâncias judiciais preponderantes, sem natureza residual.
+7. A natureza e a quantidade das drogas apreendidas podem ser utilizadas, supletivamente, na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2016, apenas quando esse vetor for conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+8. Agravo regimental desprovido.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial.
+Intimem-se.
