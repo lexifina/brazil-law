@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO AMAZONAS contra decisão que conheceu do agravo para negar provimento ao especial, sob o fundamento de que não houve negativa de prestação jurisdicional da Corte de origem.
+A parte agravante, repisando os argumentos defendidos no especial, defende que houve ofensa ao art. 1.022 do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Verifica-se que a parte recorrente não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior.
+Com efeito, conforme consignado no decisum atacado, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação, também não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Nesse contexto, mostra-se pertinente a transcrição do excerto do julgado integrativo exarado pelo Tribunal a quo, em que a questão foi expressamente resolvida. Confira-se:
+Na hipótese sub judice, o acórdão embargado afastou a preliminar apresentada pelo Município Apelado, ora Embargante, discorrendo que os autos dispensam dilação probatória complementar, o que evidencia a adequação da via mandamental.
+Outrossim, no mérito, também foi apresentada fundamentação correlata, suficiente e clara, no sentido de que, exigida, pelo Edital de concurso público, a realização de exames médicos como requisito para ingresso no cargo, a eliminação do(a) candidato(a) deve ser motivada e respeitar o princípio da razoabilidade, de forma que evidencie a incompatibilidade da condição de saúde constatada com as atribuições do cargo pretendido.
+Confira-se trecho do acórdão embargado (fls. 21/23):
+"No caso, a candidata atendeu previsão expressa do Edital, no item 11.2.1, apresentou documentação demonstrando a sua aptidão física para ingressar no cargo pleiteado, assim como, atendeu a solicitação de apresentação de documentos complementares, exigidos pela junta médica, tais como Ecocardiograma e Teste de Esforço, este último não previsto no Edital.
+Após a apresentação destes últimos exames, a junta se posicionou pela inaptidão da Impetrante, que ficou impedida de ingressar no cargo para o qual foi aprovada.
+Conforme se extrai da fl. 68, a decisão baseou-se no fato de que o cargo pleiteado "tem como atribuição a visita aos domicílios da comunidade atendida pelo programa, o que exige deslocamento em áreas com ladeiras, escadarias e longas caminhadas. (..) De fato, a candidata é portadora de obesidade grau HI, aliada à diabetes, hipertensão e artrose nos joelhos.
+Quanto à diabetes e hipertensão, ambas enfermidades que atingem grande parte da população brasileira e mundial, estas podem ser controladas por meio de medicamentos, não sendo impeditivas para o exercício do cargo.
+De outro lado, o problema ortopédico apontado também não é impeditivo, uma vez que se trata de paciente assintomática, que labora na mesma função pelo Estado da Bahia, na Unidade Hospitalar do Hospital Geral Roberto Santos  1º DIRES, conforme se infere do Atestado de fl.
+41 e do Relatório Médico de fls. 56/57.
+Sendo assim, o único motivo razoável a justificar o impedimento do ingresso da Impetrante no cargo de Técnica de Enfermagem seria o risco que o alto esforço físico inerente à função lhe representaria.
+Contudo, o Relatório de Teste Ergométrico juntado à fl. 66, concluiu negativo para isquemia, até a fase de esforço alcançada, com aptidão cardiorrespiratória boa. Ademais, não é possível concluir, a partir da análise dos itens do Edital, que a atividade a ser desenvolvida exige esforço físico intenso.
+Pelo contrário, o Parecer nº 024/2016, emitido pela Procuradoria do Município de Salvador após interposição de recurso pela candidata, ante a reprovação no referido exame médico, afirma que a análise das atribuições do cargo contidas nos itens 2.5.1 e 2.5.1.1.2 do Edital é inconclusiva quanto à exigência física das atividades desempenhadas pelo técnico de enfermagem investido no cargo.
+Ademais, conforme se infere do documento de fl. 80 dos autos, à Procuradoria do Município afirmou ser "necessário perceber que diante de inúmeras atividades previstas legalmente para o cargo de enfermeiro, ao que tudo está a indicar, a grande maioria delas não está diretamente ligada a uma eventual circunstância de deslocamento direcionado a lugares ou terrenos íngremes, acidentados ou de difícil acesso. Ao revés, quando a norma menciona expressamente a pos sibilidade de exercício fora do ambiente do posto físico, a USF, ela o faz na condição de excepcionalidade, de algo que fugiria da rotina de atribuições e atividades na própria unidade de saúde, não nos parecendo adequado e quiçá razoável definir um padrão de comportamento ou 199 conduta pela exceção e não pela regra".
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
