@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa, Juízo Local de Pequena Criminalidade de Lisboa, Juiz 5) solicita que se proceda à localização e notificação pessoal de WESLWY LUIS MARQUES LIMA para tomar ciência da sentença proferida no Processo n. 1333/20.5SILSB, bem como de que tem o prazo de 30 dias, a contar da presente notificação, para exercer o direito de recurso da referida sentença, devendo para o efeito contatar com o seu defensor: Dra. Carla Pinho Quaresma, Endereço: Rua de Olivença, n.0 11, 1º Dtº., 2800-183 Almada.
+Tendo em vista que a diligência foi cumprida (certidão de fls. 87-88) , determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
