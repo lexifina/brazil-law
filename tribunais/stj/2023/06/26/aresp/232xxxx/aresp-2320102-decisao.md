@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+AGRAVO. TRIBUTÁRIO. IRPJ/CSLL INCIDENTE SOBRE VALORES RESULTANTES DA TAXA SELIC APLICADA EM INDÉBITOS TRIBUTÁRIOS. TEMA 962 DO STF. PREJUÍZO (DANOS EMERGENTES). IMPETRAÇÃO ANTERIOR A 17.09.21. PIS/COFINS. SELIC SOBRE INDÉBITOS TRIBUTÁRIOS. RECEITA. INGRESSO. MANUTENÇÃO DA INCIDÊNCIA. SITUAÇÃO DISTINTA DA TRATADA NO TEMA 962 DO STF. RECURSO DESPROVIDO.
+Os Embargos de Declaração não foram providos, com imposição de multa.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação, em preliminar, do arts. 489, § 1º, IV, 1.022, 1.025 e 1.026, § 2º, do CPC/2015; e, no mérito, dos arts. 3º da Lei 9.718/1998; 1º das Leis 10.637/2002 e 10.833/2003; 12 do Decreto-Lei 1.598/1977; e 110 do CTN. Requer que seja afastada a multa aplicada no julgamento dos Embargos de Declaração, bem como garantido o direito de afastar a incidência do PIS e da COFINS sobre os valores recebidos a título de SELIC nas restituições de indébito.
+Contrarrazões apresentadas às fls. 5.793-5.806, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.6.2023.
+Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+Outrossim, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese. Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14.9.2021)
+No enfrentamento da matéria, a Corte a quo apresentou os seguintes fundamentos:
+A tributação do PIS/COFINS segue destino diverso daquele traçado no tema 962 do STF. Enquanto contribuições incidentes sobre a receita ou faturamento, conceito jurídico mais amplo que o da renda, e configurados os valores da SELIC como ingressos positivos em nome da impetrante, ficam esses valores sujeitos à tributação das contribuições.
+(..)
+O STJ tem julgados mantendo sua jurisprudência no tema, sob o entendimento de que os valores compõem a receita empresarial:
+(..)
+Pelo exposto, nego provimento aos agravo.
+É como voto.
+Com efeito, incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário. Vejam-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E À COFINS. INCIDÊNCIA SOBRE OS JUROS E CORREÇÃO MONETÁRIA EQUIVALENTES À TAXA SELIC RECEBIDOS NA RESTITUIÇÃO DE INDÉBITO TRIBUTÁRIO. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DO STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Mandado de Segurança, visando assegurar o alegado direito líquido e certo "a não incidência do IRPJ, da CSLL, do PIS e da COFINS sobre a parcela recebida a título de taxa SELIC recebida na repetição de indébito". O Juízo de 1º Grau denegou a segurança. Interposta Apelação, pela impetrante, o Tribunal de origem deu provimento ao recurso, para conceder a segurança pleiteada. Opostos Embargos de Declaração, pelo ente público, em 2º Grau, foram eles rejeitados. Interpostos Recursos Especial e Extraordinário, o ente público, no Especial, apontou violação aos arts. 1.022, II, do CPC/2015, 43, 111 e 176 do CTN, 2º da Lei 7.689/88, 7º e 8º da Lei 8.541/92, 41 da Lei 8.981/95, 1º das Leis 10.637/2002 e 10.833/2003 e 1º e 14, § 4º, da Lei 12.016/2009, sustentando a nulidade do acórdão dos Embargos de Declaração, por supostas omissões não supridas, e além disso, a incidência de IRPJ, CSLL, PIS e COFINS sobre os juros e correção monetária equivalentes à Taxa Selic recebidos na repetição do indébito tributário e, ainda, a inadequação do Mandado de Segurança para pleitear efeitos patrimoniais referentes a período anterior ao ajuizamento da inicial. Nesta Corte o Recurso Especial foi parcialmente conhecido, e, nessa extensão, parcialmente provido, para determinar a incidência do PIS e da COFINS sobre os valores referentes à Taxa Selic na repetição de indébito, ensejando a interposição do presente Agravo interno, pela impetrante.
+III. Nos termos da jurisprudência dominante do STJ, os valores referentes à incidência da Taxa Selic (correção e juros), na repetição do indébito devem integrar a base de cálculo da contribuição ao PIS e à COFINS. Nesse sentido: STJ, AgInt no REsp 1.906.715/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/06/2021; AgInt nos EDcl no REsp 1.848.930/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/02/2021; AgInt no REsp 1.899.938/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/06/2022; EDcl no AgInt no REsp 1.916.374/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 22/06/2022; AgInt no REsp 1.960.914/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/06/2022).
+IV. Agravo interno improvido.
+(AgInt no REsp 2.029.652/PE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/3/2023.)
+PROCESSUAL CIVIL. TAXA SELIC. EXCLUSÃO DA BASE DE CÁLCULO DO PIS E COFINS. IMPOSSIBILIDADE. PRECEDENTES DO STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança objetivando seja reconhecido seu direito de não sofrer a incidência do IRPJ, da CSLL, do PIS e da COFINS sobre os valores decorrentes da aplicação da taxa SELIC nas restituições de tributos declarados indevidos ou pagos a maior, na esfera judicial e administrativamente. O juízo denegou a segurança. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+III - Quanto aos demais artigos suscitados por violados, a jurisprudência desta Corte Superior é pacífica no sentido de que, no âmbito da repetição do indébito tributário, os valores da Taxa Selic (correção monetária e juros de mora) integram a base de cálculo do PIS e da COFINS, entendimento que não sofreu alteração em virtude do julgamento do Tema n. 962/STF. (AgInt no REsp n. 1.967.695/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022 e AgInt no REsp n. 1.960.914/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022.) IV - Agravo interno improvido.
+(AgInt no REsp 2.024.159/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 16/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. PIS/COFINS. BASE DE CÁLCULO. INCLUSÃO. CONFORMIDADE DO ACÓRDÃO RECORRIDO. SÚMULA 83/STJ.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência assente do STJ é no sentido de que incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário.
+3. Incide o teor da Súmula 83/STJ, quando o acórdão recorrido expende entendimento em conformidade com a orientação jurisprudencial do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 2.022.851/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 165 DO CTN. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. SELIC. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO DO PIS E DA COFINS. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - É firme a orientação deste Superior Tribunal de Justiça segundo a qual os valores decorrentes da aplicação da taxa Selic na restituição do indébito tributário devem compor a base de cálculo do PIS e da COFINS.
+IV - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no REsp 2.014.242/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/3/2023.)
+Ressalte-se que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do REsp pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Quanto ao pedido de exclusão da multa aplicada pelo Colegiado regional com lastro no art. 1.026, § 2º, do CPC/2015, a irresignação merece prosperar.
+Da leitura dos Embargos de Declaração, constata-se que os Aclaratórios foram manifestados, também, com o intento de prequestionar a matéria a ser enfocada no âmbito do Apelo Nobre, razão pela qual não há por que inquiná-los de protelatórios. Aplicável ao caso a previsão constante da Súmula 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". Nesse sentido:
+RECURSO ESPECIAL. PROCESSO CIVIL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA POR SUBSTITUTO PROCESSUAL. COMPETÊNCIA. FORO DO DOMICÍLIO DO CONSUMIDOR OU DO LOCAL EM QUE PROFERIDO O TÍTULO EXECUTIVO JUDICIAL. ALEATORIEDADE NA ESCOLHA. IMPOSSIBILIDADE. MULTA DO ART. 1.026, § 2º, do CPC/2015. AFASTAMENTO. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+(..)
+3. A multa não será cabível quando os embargos de declaração têm o objetivo prequestionatório, consoante dispõe a Sú mula 98/STJ. Na espécie, não se verifica o propósito protelatório dos embargos opostos na origem, devendo ser afastada a sanção.
+4. Recurso especial conhecido e parcialmente provido.
+(REsp 1.866.440/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 12/5/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORA PÚBLICA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. FGTS. COBRANÇA DE VALORES NÃO PAGOS. OBSERVÂNCIA AO ARE 709.212/DF. PARA OS CASOS EM QUE O PRAZO PRESCRICIONAL JÁ ESTEJA EM CURSO, APLICA-SE O QUE OCORRER PRIMEIRO: 30 ANOS, CONTADOS DO TERMO INICIAL, OU 5 ANOS, A PARTIR DESTA DECISÃO. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ E DO STF. EMBARGOS DE DECLARAÇÃO OPOSTOS COM PROPÓSITO PREQUESTIONADOR. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/15. AFASTAMENTO. SÚMULA 98/STJ.
+(..)
+6. A multa imposta com base no art. 1.026, § 2º do CPC/15 deve ser afastada quando os Embargos de Declaração tenham sido opostos com visível propósito de prequestionamento, de modo a elidir seu caráter protelatório, como assentado na Súmula 98 do STJ e na jurisprudência consolidada do STJ.
+7. Recurso Especial parcialmente provido, apenas para afastar a multa do artigo 1.026, § 2º, do CPC/2015.
+(REsp 1.895.949/PI, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/4/2021.)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, dar-lhe parcial provimento apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+Intimem-se.
