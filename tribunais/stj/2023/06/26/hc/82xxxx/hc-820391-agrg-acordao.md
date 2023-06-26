@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não há flagrante ilegalidade a ser sanada de ofício, pois, no caso, as alegações de que o Agravante não foi encontrado na posse de drogas e não ostenta reincidência específica nem sequer foram apreciadas no acórdão impugnado, obstando o exame inicial nesta Corte Superior, por indevida supressão de instância, além de esbarrar em evidente reexame fático-probatório, inviável na via eleita.
+3. Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que indeferiu liminarmente o pedido de habeas corpus por seus próprios fundamentos.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WALLACE DIAS MOREIRA DA SILVA contra decisão de minha lavra, na qual indeferi liminarmente a petição inicial, nos termos da seguinte ementa (fl.58):
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE."
+Consta nos autos que o Paciente, ora Agravante, foi condenado em primeiro grau às penas de 11 (onze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 1.166 (mil cento e sessenta e seis) dias-multa, como incurso no art. 33, caput, c.c. o art. 40, inciso V, ambos da Lei n. 11.343/2006 (fl. 49). Segundo os autos, foram apreendidos mais de 40kg (quarenta quilos) de maconha e mais de 4kg (quatro quilos) de cocaína (fl. 44).
+O Sentenciado interpôs apelação criminal, que foi desprovida pela Corte local (fls. 15-25).
+No writ, o Impetrante alegou desproporcionalidade na exasperação da pena-base. Aduziu que o ora Agravante não foi encontrado com entorpecente.
+Sustentou que o aumento aplicado em razão da reincidência e do reconhecimento da causa de aumento prevista no art. 40, inciso V, da Lei n. 11.343/2006 deveria ser estabelecido em fração mais benevolente. Ponderou que o ora Agravante não seria reincidente específico.
+Requereu, inclusive liminarmente, a concessão da ordem para afastar a valoração negativa das circunstâncias judiciais da natureza e quantidade da droga apreendida, e readequar as frações de aumento de pena aplicada nas três fases do procedimento dosimétrico.
+Na decisão de fls. 58-63, indeferi liminarmente a petição inicial.
+Daí o presente recurso, no qual, das intrincadas razões, extrai-se que o Agravante afirma que "não fora encontrado entre fronteiras com qualquer entorpecente" (fl. 70), nem ser reincidente especifico (fl. 69).
+Requer "seja afastada a fração de 2 (dois) anos, 06 (seis) meses, em razão da reincidência especifica  .. , bem como a fração de 01 (hum) ano, 08 (oito) meses, em razão de fronteira, artigo 40, inciso V, da Lei de Drogas" (fl. 71).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não há flagrante ilegalidade a ser sanada de ofício, pois, no caso, as alegações de que o Agravante não foi encontrado na posse de drogas e não ostenta reincidência específica nem sequer foram apreciadas no acórdão impugnado, obstando o exame inicial nesta Corte Superior, por indevida supressão de instância, além de esbarrar em evidente reexame fático-probatório, inviável na via eleita.
+3. Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que indeferiu liminarmente o pedido de habeas corpus por seus próprios fundamentos.
+4. Agravo regimental desprovido.
+VOTO
+A irresignação não prospera.
+Consoante destacado na decisão impugnada, a inicial do writ foi impetrada contra acórdão já transitado em julgado. Nesse contexto, não deve ser conhecido o habeas corpus, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Sobre a questão, confiram-se os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO. ACORDO DE NÃO PERSECUÇÃO PENAL. DENÚNCIA RECEBIDA. REPRESENTAÇÃO DA VÍTIMA. RETROATIVIDADE. IMPOSSIBILIDADE. LEI N. 13.964/2019. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+ ..
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido." (AgRg no HC 641.684/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 03/08/2021, DJe 06/08/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO STJ. TESE QUE PREVALECE NO ÂMBITO DESTA CORTE SUPERIOR DE JUSTIÇA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. QUESTÃO ANALISADA EM HABEAS CORPUS ANTERIOR. REITERAÇÃO DE PEDIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, tendo em vista que o writ é mera reiteração de pedido anterior, cuja decisão já transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão.
+3. Agravo regimental improvido." (AgRg no HC 633.925/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/05/2021, DJe 04/06/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE JULGADO NO STJ. INCOMPETÊNCIA. DESACATO. REGIME INICIAL. PENA IGUAL OU INFERIOR A 4 ANOS. REINCIDÊNCIA.FLAGRANTE ILEGALIDADE NÃO VERIFICADA. SÚMULA N. 269 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. O óbice acima apontado só pode ser superado quando demonstrado, de plano, uma das hipóteses previstas no art. 621 do CPP.
+2. Na espécie, a condenação do agravante transitou em julgado e não há, no STJ, julgamento de mérito passível de revisão, o que denota a incompetência deste Tribunal para o processamento do presente pedido. Não há também manifesta ilegalidade a autorizar a concessão da ordem de ofício.
+3. É idônea a fixação do regime inicial semiaberto ao reincidente condenado a pena de 10 meses e 15 dias de detenção, a teor da Súmula n. 269 do STJ.
+4. Agravo regimental não provido." (AgRg no HC 649.369/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/04/2021, DJe 15/04/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+5. Tendo sido proferida em consonância com o entendimento jurisprudencial adotado neste Sodalício deve ser mantida a decisão impugnada, pelos seus próprios fundamentos.
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019; sem grifos no original.)
+Ademais, não constato, no caso, manifesta ilegalidade apta a ensejar a concessão de habeas corpus, de ofício.
+No caso, reafirmo que as alegações de que o Agravante não foi encontrado na posse das drogas e não ostenta reincidência específica nem sequer foram apreciadas no acórdão impugnado, obstando o exame inicial nesta Corte Superior, por indevida supressão de instância, além de esbarrar em evidente reexame fático-probatório, inviável na via eleita.
+Em verdade, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que indeferiu liminarmente o pedido de habeas corpus por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
