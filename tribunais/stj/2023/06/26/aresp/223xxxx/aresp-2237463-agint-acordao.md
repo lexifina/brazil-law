@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto GENERALI BRASIL SEGUROS S A, contra decisão que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: de cobrança de indenização securitária movida por FRANCISCO FERREIRA SANTOS, contra a agravante.
+Sentença: julgou improcedentes os pedidos da inicial.
+Acórdão: deu provimento à apelação do agravado, nos termos da ementa:
+"EMENTA - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DEINDENIZAÇÃOS SECURITÁRIA - SENTENÇA IMPROCEDENTE - RECURSOINTERPOSTO PELO SEGURADO - APRESENTA DOENÇA DE CHAGAS E OUTROS TRANSTORNOS DE DISCOS INTERVERTEBRAIS - IDOSO (71ANOS) - RECEBE BENEFICIO DE APOSENTADORIA - CONSTATADA A INVALIDEZ TOTAL E PERMANENTE PARA O TRABALHO PELO PERITO - EXISTÊNCIADECOBERTURAPARAA INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA DOENÇA - CONSTATADA A INVALIDEZ PARA TODA E QUALQUER ATIVIDADEPROFISSIONAL - INDENIZAÇÃO DEVIDA - RECURSO CONHECIDO E PROVIDO. Conforme posicionamento do STJ, a cobertura por invalidez funcional permanente total por doença é aquela em que o segurado reste inválido para toda e qualquer atividade profissional, e não apenas para o exercício daquela função que vinha desempenhando." e-STJ fl. 380)
+Recurso especial: alega violação do Tema 1068/STJ, bem como dissídio jurisprudencial. Sustenta que a Corte de origem decidiu em contrariedade à tese definida no Tema 1068/STJ. Defende que não há ilegalidade ou abusividade na cobertura de seguro IFPD ou IFPTD e que a mesma não é incompatível com a Legislação Protetiva do Consumidor. Arremata ao defender que "Assim tanto pela divergência a Tese 1.068 do E. STJ decorrente dos julgamentos dos Recursos Especiais Repetitivos 1.845.943/SP e REsp 1.867.199/SP, julgados em 13/10/2021 com trânsito em julgado em 12/11/2021, quanto pelo dissídio jurisprudencial apontado entre o acórdão do TJMS e do TJRJ, o segundo diante do quadro análogo negando a cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD ou IPD-F) segue o entendimento do STJ." (e-STJ fl. 412)
+Decisão Monocrática: conheceu do agravo para não conhecer do recurso especial interposto pela agravante, com fundamento no art. 932, III, do CPC/15.
+Agravo interno: sustenta que " ..  está equivocada a afirmação da decisão ora recorrida de que o julgamento do Recurso Especial encontra óbice na súmula 7 desse E. STJ, pois nada há que se reanalisar ou valorar, o quadro fático e as circunstâncias contratuais estão delineadas nas decisões restando apenas a divergência dos efeitos jurídicos dos fatos ante as clausulas securitárias já definidas nas decisões." (e-STJ fl. 505)
+Verbera ainda que "Ademais, no que tange à divergência jurisprudencial, estase constata diante das mesmas circunstâncias fáticas que tribunal diverso tenha decidido de maneira diametralmente oposta, mesmo que aplicando cláusula de securitária atinente a Invalidez Funcional de forma diametralmente oposta e em consonância com esse E. STJ." (e-STJ fl. 506)
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. Ação de cobrança de inde nização securitária.
+2. É inepta a petição de agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pela parte agravante, com fundamento no art. 932, III e IV, "a", do CPC/15, em razão da incidência de (I) Súmula 284/STF (ausência de indicação do dispositivo de lei federal) e (II) ausência de indicação do dispositivo de lei federal objeto do dissídio jurisprudencial.
+Todavia, nas razões do agravo interno, a parte agravante limitou-se a alegar a ausência de incidência da Súmula 7/STJ e existência de dissídio jurisprudencial, argumentos que não guardam qualquer relação com a decisão ora agravada. Nesse sentir, a parte não impugnou os óbices invocados pela decisão agravada para a admissibilidade do recurso especial que interpusera.
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo interno, tendo em vista a ausência de impugnação específica e consistente de todos os fundamentos contidos na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
