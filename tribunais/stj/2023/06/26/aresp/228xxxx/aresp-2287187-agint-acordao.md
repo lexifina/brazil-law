@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por GEAP AUTOGESTAO EM SAUDE contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+Ação: de obrigação de fazer c/c danos morais ajuizada por VALDETE PINHO RODRIGUES em face da agravante, visando o fornecimento do medicamento AVELUMABE (BAVENCIO) para tratamento de câncer de rim metastático para o fígado.
+Sentença: julgou procedente a demanda para condenar a agravante no fornecimento da medicação prescrita bem como no pagamento de compensação por danos morais no valor de R$ 10.000,00.
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA PARA O FORNECIMENTO DO MEDICAMENTO PRESCRITO PELO MÉDICO. ROL DA ANS. PRELIMINAR DE DIALETICIDADE AFASTADA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DOMINANTE DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+Recurso especial: alega violação dos arts. 10 da Lei 9656/98 e 421 e 422 do CC. Sustenta a legalidade da exclusão de cobertura de medicamento não previsto no rol de coberturas obrigatórias editado pela ANS, de natureza taxativa, ou no contrato firmado entre as partes.
+Decisão unipessoal: conheceu do agravo para negar provimento ao recurso especial ante a incidência da Súmula 568/STJ quanto à obrigação de a operadora custear o tratamento de câncer.
+Agravo interno: o agravante defende a inaplicabilidade da Súmula 568/STJ, uma vez que a partir do julgamento dos Embargos de Divergência no Resp 1.886.929-SP, firmou-se o entendimento nesta Corte Superior de Justiça sobre a taxatividade do Rol da ANS, de modo que não há obrigatoriedade de custeio de tratamento não previsto no referido Rol, como é o caso dos autos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. FORNECIMENTO DE MEDICAMENTOS. MEDICAMENTOS REGISTRADOS NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer visando o fornecimento de medicamento antineoplásico.
+2. Segundo a jurisprudência do STJ, " é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Hipótese em que o acórdão recorrido está em consonância com a orientação desta Corte no sentido de que há obrigatoriedade de fornecimento medicamentos para o tratamento de câncer. Precedentes.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+De início, frise-se que o acórdão recorrido está em harmonia com a jurisprudência desta Corte, no sentido de que "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, 3ª Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, 3ª Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, 4ª Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, 4ª Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente porque, na hipótese, os medicamentos pleiteados se mostravam imprescindíveis à conservação da vida e saúde da beneficiária, conforme registrado na decisão agravada.
+Tem-se, após consulta ao bulário da Anvisa, que o medicamento Bavencio (nome comercial do Avelumabe), obteve o devido registro em 04/06/2018 e é indicado para o tratamento de carcinoma de células renais, entre outros.
+Nessa toada, frise-se que as duas Turmas que compõem a Segunda Seção do STJ entendem que é obrigatório o fornecimento de medicamento antineoplásico oral, como se destaca dos seguintes precedentes: REsp 1.883.654/SP, 4ª Turma, DJe 02/08/2021; REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1.911.407/SP, 3ª Turma, DJe 24/05/2021; AgInt no REsp 1.889.213/SP, 3ª Turma, DJe 29/10/2020.
+Registre-se, por relevante, que a Lei 14.307, de 03/03/2022, tornou obrigatória a cobertura de medicamentos antineoplásicos no âmbito da saúde suplementar, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades, não havendo vinculação ao rol da ANS.
+Outrossim, cabe salientar que, ainda no âmbito da Segunda Seção do STJ, firmou-se entendimento de que, independentemente da discussão a respeito da natureza do rol da ANS, há obrigatoriedade de fornecimento de medicamentos para o tratamento de câncer, porquanto em relação a estes há apenas uma diretriz na resolução normativa, como se verifica dos seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Nos termos da jurisprudência do STJ, não há falar em rol de cobertura no que se refere aos medicamentos para tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS - devendo ser fornecidos, pela operadora de plano de saúde, conforme prescrição do médico assistente. Precedentes.
+2. No mais, o acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral, bem como a revisão dos parâmetros utilizados para arbitramento da indenização - que, no caso, não se mostra excessiva ou irrisória. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.946.731/SP, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022 - sem grifos no original)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PEDIDO DE CUSTEIO DE MEDICAMENTO. RECUSA DE COBERTURA. TRATAMENTO DE CÂNCER. DEVER DE COBERTURA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM ENTENDIMENTO DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Apesar do entendimento da Quarta Turma em sentido contrário, a Terceira Turma mantém a orientação firmada há muito nesta Corte de que a natureza do rol de procedimentos e eventos em saúde da ANS é meramente exemplificativa.
+3. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 2.001.199/SP, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022 - sem grifos no original)
+Nesse mesmo sentido, destacam-se: AgInt no REsp 1.956.632/SP, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022; AgInt no REsp 1.946.731/SP, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022; AgInt no REsp 1.949.278/SP, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022; AgInt no REsp 1.999.983/DF, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022; AgInt no REsp 1.937.594/DF, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022; e AgInt no AREsp 2.052.964/SP, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.
+Logo, inafastável a incidência da Súmula 568/STJ na hipótese.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
