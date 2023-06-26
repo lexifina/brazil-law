@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Anderson Rodrigo de Lima Lopes Cavalcante - condenado à pena de 5 anos e 10 meses de reclusão pela prática de tráfico de entorpecentes (fls. 385/498) - ao acórdão que negou provimento ao agravo regimental, assim ementado (fl. 612):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. AUSÊNCIA DE P ROVAS LÍCITAS. DENÚNCIA ANÔNIMA. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+O embargante alega que o acórdão seria omisso, nestes termos (fl. 620):
+ ..  Mesmo assim, tomou-se o agravo regimental como se estivesse atacando decisão sobre supressão de instância, quando o cerne da questão é outro TOTALMENTE DIVERSO!
+O presente habeas corpus é tirado CONTRA SENTENÇA COM TRÂNSITO EM JULGADO, conforme se observa na terceira folha do remédio constitucional e fls. 514 dos autos originais.
+Desta feita registra-se a OMISSÃO na presente decisão ao não rebater os argumentos mensurados no AGRAVO REGIMENTAL, ou seja, houve a clara ausência de se demonstrar a argumentação contra factual justamente no ponto que concerne aos pedidos, tanto no habeas corpus, como também no agravo, quais sejam:
+1 - RECONHECIDA A ILEGALIDADE DA INVASÃO DE DOMICÍLIO;
+2 - de forma subsidiária, o NÃO RECONHECIMENTO DA REINCIDÊNCIA.
+Desta feita, observa-se claramente a OMISSÃO alegada, visto que, a decisão agravada não vislumbrou os fatos narrados no agravo regimental.
+ ..
+A parte embargante almeja o acolhimento do seu recurso com a análise dos pedidos realmente levados a essa Corte Superior (fl. 621).
+Dispensou-se a oitiva da parte contrária.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. AUSÊNCIA DE PROVAS LÍCITAS. DENÚNCIA ANÔNIMA. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. Nos limites estabelecidos pelo art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+2. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+3. No procedimento do habeas corpus, não se permite a produção de provas, tendo-se em conta que essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva controvertidas. As alegações quanto a esse ponto, portanto, não devem ser conhecidas (AgRg no HC n. 674.586/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 17/9/2021).
+4. Este Superior Tribunal consolidou jurisprudência de que a contradição ou a obscuridade não implicam que o Tribunal deva acolher a tese apresentada pelo recorrente: o fato de a solução adotada pelo Tribunal não ser a que satisfaça o recorrente em nada invalida a decisão atacada (EDcl no REsp n. 1.359.810/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2017).
+5. Embargos de declaração rejeitados.
+VOTO
+Nos limites estabelecidos pelo art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+No caso, apesar das argumentações, o embargante não apontou efetivamente a existência de nenhuma omissão ou contradição no corpo do acórdão embargado.
+Insta salientar que as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Superado esse aspecto, registre-se que, no procedimento do habeas corpus, não se permite a produção de provas, tendo-se em conta que essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva controvertidas. As alegações quanto a esse ponto, portanto, não devem ser conhecidas (AgRg no HC n. 674.586/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 17/9/2021).
+Inclusive, in casu, o decisum singular prolatado pelo eminente Relator não se manifestou acerca da licitude das provas dispostas nos autos, ao ressaltar o seguinte (fls. 275/276):
+ ..  A liminar, em sede de remédio constitucional, não tem previsão legal, sendo criação pretoriana para os casos de urgência, necessidade e relevância da medida, quando se mostrem evidenciadas de maneira indiscutível na própria inicial do "mandamus" e nos elementos de prova que a instruem.
+Não se olvide existirem julgados no sentido de que "o exame dos requisitos ensejadores da medida liminar está afeto ao juízo monocrático; à instância recursal revisora compete reapreciá-lo desde que a situação dos autos possa indicar exemplo teratológico não resolvido por aquele." (AI n 2 92.010-5/2 Rel. Des. Vallim Bellocchi, J. de 11.11.98 e AI n 2 315.636-5/2 Rel. Des. Coimbra Schmidt, J. de 10.03.03, dentre inúmeros outros no mesmo sentido).
+Daí, isso porque, a esta altura pelo seja tomado como formação menos e sem que de convencimento sobre o mérito, é que se indefere a medida liminar.
+ ..
+Com efeito, este Superior Tribunal, por determinação constitucional, não se manifesta acerca de quaestio irresoluta da instância de origem, em razão do óbice oriundo da supressão de instância.
+De mais a mais, na sentença c ondenatória, sobre a necessidade da decretação de prisão cautelar, o Juízo de Direito da Vara Criminal da comarca de Tupã/SP explicitou (fl. 210):
+ ..  Por fim, em razão da prolação de sentença condenatória - que eleva o grau de certeza quando à prática criminosa - associada ao fato superveniente de que o réu, depois de ser posto em liberdade, vem reiteradamente sendo delatado por populares à Corporação Policial de QUEIROZ/SP em razão da persistência na prática do tráfico, tendo sido mesmo abordado pela testemunha JAMES PORCEL DE COUTO em local conhecido pela prática de tráfico, em companhia de pessoa já presa pela prática de fatos de tal natureza, tenho por imperiosa a segregação cautelar do réu, na forma do art. 312 do CPP, a fim de garantir a ordem pública naquele reduzido município, vulnerado pela prática do tráfico. Além disso, com a prolação de sentença condenatória, se vê incrementado o risco de evasão por parte daquele que se vê na iminência de dar início ao cumprimento de extensa pena privativa de liberdade.
+ ..
+Este Superior Tribunal consolidou jurisprudência de que a contradição ou a obscuridade não implicam que o Tribunal deva acolher a tese apresentada pelo recorrente: o fato de a solução adotada pelo Tribunal não ser a que satisfaça o recorrente em nada invalida a decisão atacada (EDcl no REsp n. 1.359.810/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2017).
+Na verdade, o que transparece dos presentes aclaratórios é o mero inconformismo da parte com o resultado do julgamento, não sendo possível, nesta via, rediscutir o entendimento adotado.
+Ante o exposto, rejeito os embargos de declaração.
