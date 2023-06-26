@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAMPANHA NACIONAL DE ESCOLAS DA COMUNIDADE - CNEC em face de decisão proferida por esta Relatoria (fls. 1.111/1122), que negou provimento ao recurso especial, a fim de manter o acórdão do Tribunal a quo, no que tange, em síntese, à indenização a título de danos morais, materiais, bem como pensionamento em favor dos recorridos.
+Em suas razões, a parte ora embargante sustenta, em síntese, que não houve o pronunciamento acerca de teses relevantes para o deslinde da controvérsia, inclusive, sobre a violação do art. 489 do CPC.
+Os embargados não apresentaram impugnação aos presentes aclaratórios, conforme atesta a certidão de fls. 1.178-1.179.
+É o relatório. Passo a decidir.
+Os embargos de declaração são cabíveis quanto houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC/15, sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese dos autos, é possível verificar que a decisão embargada (e-STJ, fls.1111/1122) foi clara ao indicar que:
+" No que tange a alegada violação dos arts. 5º, LV, 93, IX e 100, §12 da CF, não é cabível recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal, logo seria caso de usurpação de competência.(fls.1112).
+ ..
+O eg. Tribunal de origem, ao julgar a apelação dos autores, ora recorridos, afastou a culpa exclusiva da vítima reconhecida na sentença, concluindo que houve violação do dever de segurança pela instituição de ensino, caracterizando falha na prestação de serviços, o que contribuiu para o falecimento de Suzane - filha dos recorridos - após sofrer uma queda na escadaria da faculdade. (fls 1112)
+ ..
+Nos termos da jurisprudência do STJ, as instituições de ensino possuem dever de segurança em relação a seus alunos enquanto estes estiverem em suas dependências, submetidos às rotinas típicas da atividade discente, respondendo objetivamente pelos danos causados à sua incolumidade física nesse período. (fls. 1113)
+ ..
+Sobre a pensão, a orientação está em consonância com a jurisprudência desta Corte, que entende que, em regra, o pensionamento devido aos pais pela morte do filho deve ser o equivalente a 2/3 do salário mínimo ou do valor da remuneração deste até quando completaria 25 anos de idade e, a partir daí, reduzido para 1/3 até a data correspondente à expectativa média de vida da vítima, ou até o falecimento dos beneficiários, o que ocorrer primeiro. (fls1118)
+ ..
+Ocorre, que, ao arbitrar os danos materiais e morais o eg. Tribunal de origem consignou expressamente que foi observada a circunstância da culpa concorrente na fixação das indenizações.(fls1122)
+ ..
+Nesse contexto, quantia arbitrada em R$ 25.000,00 (vinte e cinco mil reais) para cada um dos genitores, a título de danos morais, não se mostra exorbitante ou desarrazoada, considerando que o dano moral adveio de acidente de consumo que resultou no falecimento da filha dos recorridos, de modo que, tendo o eg. Tribunal a quo expressamente consignado que a culpa concorrente das partes foi levada em consideração quando do arbitramento dos valores, não há motivos para a intervenção do STJ no caso. (fls. 1122)
+Dessa forma, todos os pontos trazidos no apelo nobre foram debatidos, não restando configurada ofensa ao art. 1.022 do CPC, uma vez que não houve omissão ou qualquer outro vício na decisão unilateral proferida alhures. Corrobora tal entendimento:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+2.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a aflição suportada pelo promitente-comprador e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais .
+2.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Consoante entendimento firme do STJ, somente em casos excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, permite-se o afastamento do óbice da Súmula 7/STJ para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra desarrazoado nem desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.216.512/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023 - sem grifo no original).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E INDENIZAÇÃO DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO OCORRÊNCIA. REVISÃO DO JUGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADOS N.º 7/STJ.
+1. Não há falar em ofensa aos arts. 489 e 1.022, do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos.
+2. A convicção a que chegou o acórdão acerca da inexistência de danos morais decorreu da análise do conjunto fático-probatório.
+Dessa forma, o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, providência que encontra óbice no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO."
+(AgInt no REsp n. 2.020.835/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023 - sem grifo no original).
+Ademais, não ocorreu, na hipótese vertente, vício ao art. 489 do CPC, notadamente porque, conforme demonstrado acima, o acórdão adotou fundamentação suficiente para o deslinde da controvérsia.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.5.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 2.5.2005. Veja-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015 INEXISTENTE. DECISÃO FUNDAMENTADA EM PACÍFICA JURISPRUDÊNCIA DO STJ. ENTENDIMENTO CONTRÁRIO AO INTERESSE PARTE.
+1. Ao contrário do que aduzem os agravantes, a decisão objurgada é clara ao consignar que a jurisprudência do STJ é remansosa no sentido de que o décimo terceiro salário (gratificação natalina) reveste-se de caráter remuneratório, o que legitima a incidência de contribuição previdenciária sobre tal rubrica, seja ela paga integralmente ou proporcionalmente.
+2. O fato de o aviso prévio indenizado configurar verba reparatória não afasta o caráter remuneratório do décimo terceiro incidente sobre tal rubrica, pois são parcelas autônomas e de natureza jurídica totalmente diversas, autorizando a incidência da contribuição previdenciária sobre esta e afastando a incidência sobre aquela. Inúmeros precedentes.
+3. Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada.
+Agravo interno improvido.
+(AgInt no REsp 1584831/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/06/2016, DJe 21/06/2016)  g.n.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeito os embargos de declaração.
