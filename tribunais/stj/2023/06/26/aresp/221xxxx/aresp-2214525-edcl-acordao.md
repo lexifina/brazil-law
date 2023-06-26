@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fls. 1.810-1.811):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE PENSÃO POR MORTE. CÁLCULO DO BENEFÍCIO PAGO PELA ENTIDADE DE PREVIDÊNCIA. MANUTENÇÃO DO CRITÉRIO APLICADO NAS INSTÂNCIAS ORDINÁRIAS. CONFORMIDADE COM A DIRETRIZ DO ART. 32 DO REGULAMENTO DA PETROS. ALTERAÇÃO DESSE ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE FONTE DE CUSTEIO. TESE AFASTADA. NÃO OBSERVÂNCIA PELA REQUERIDA DAS REGRAS POR ELA MESMA ESTABELECIDAS. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Ao analisar o cálculo do suplemento do valor de pensão, o Tribunal de origem, sopesando os elementos probatórios e as circunstâncias fáticas dos autos, notadamente o Regulamento do Plano de Benefícios, asseverou que o valor do benefício deve ser mensurado segundo a diretriz do art. 32 desse Regulamento.
+2. Para modificar a conclusão exarada no acórdão objurgado e acolher a tese defendida pela demandante (no sentido de que a forma correta de cálculo do benefício deve ser verificada através da análise conjunta dos dispositivos do Regulamento do Plano de Benefícios), seria imprescindível a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório do processo em voga, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula 283/STF.
+4. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 1.821-1.839), a embargante sustenta ter havido omissão e obscuridades no julgado quanto à argumentação deduzida no agravo interno acerca da inaplicabilidade dos óbices atinentes às Súmulas 7/STJ e 283/STF.
+Assevera que "a peça recursal cuidou de destrinchar, minuciosa e detalhadamente, as ofensas a dispositivo de lei federal perpetradas pelo acórdão do TJRJ, inclusive pela tese de que o benefício não careceria de fonte de custeio, de modo que não merece prosperar o entendimento exarado, por medida de lídima justiça" (e-STJ, fl. 1.826).
+Pondera que não busca nova análise de provas e que todas as premiss as fáticas necessárias ao rejulgamento da causa foram estabelecidas pelo próprio acórdão estadual.
+Impugnação às fls. 1.843-1.848 (e-STJ), em que a parte agravada requer o não conhecimento ou o desprovimento do recurso, bem como aplicação da multa por litigância de má-fé.
+Foi apresentada impugnação ao recurso às fls. 1.843-1.848 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO JULGADO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os embargos de declaração.
+3. Conforme entendimento deste Tribunal Superior, "a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo" (EDcl no AgInt no AREsp 1.704.723/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/06/2021, DJe 22/06/2021).
+4. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, vale rememorar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situações não observadas na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. BEM DE FAMÍLIA. IMPENHORABILIDADE. OFERECIMENTO EM FAVOR DE PESSOA JURÍDICA POR APENAS UM DOS SÓCIOS. BENEFÍCIO FAMILIAR. PRESUNÇÃO. INEXISTÊNCIA. COMPROVAÇÃO PELO CREDOR. NECESSIDADE. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, tampouco foi comprovado qualquer erro material.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AgInt no AREsp n. 1.896.997/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Verifica-se inexistir, no acórdão impugnado, algum vício ou erro material a merecer a necessária integração por esta Turma julgadora, tendo sido os fundamentos apresentados de forma clara e sólida no tocante à incidência das Súmulas 5 e 7/STJ à espécie.
+Na ocasião, registrou-se que, para modificar a conclusão exarada no acórdão objurgado e acolher a tese defendida pela demandante (no sentido de que a forma correta de cálculo do benefício deve ser verificada através da análise conjunta dos dispositivos do Regulamento do Plano de Benefícios), seria imprescindível a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório do processo em voga, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Outrossim, foi ponderado que, embora defenda a não incidência da Súmula 283/STF, que obstou o conhecimento do seu recurso, a agravante deixou de demonstrar, naquele agravo, em que trecho da sua insurgência teria impugnado o fundamento do acórdão recorrido (acerca de ter sido o custeio realizado e que teria ocorrido, na verdade, a inobservância das regras estabelecidas no regulamento para o cálculo da suplementação da pensão).
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Portanto, da leitura das razões dos embargos de declaração opostos, observa-se que, na verdade, a embargante busca, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Quanto ao reconhecimento da litigância de má-fé do recorrente, cabe ressaltar que, conforme entendimento desta Corte, "a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo" (EDcl no AgInt no AREsp 1.704.723/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/06/2021, DJe 22/06/2021).
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista nos art. 1.026, § 2º, do CPC/2015.
+É como voto.
