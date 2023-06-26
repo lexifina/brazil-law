@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelos patronos de CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA em face da decisão acostada às fls. 956-960 e-STJ, da lavra deste signatário, em que se proveu o recurso especial da referida parte.
+Nas razões dos aclaratórios (fls. 1008-1012 e-STJ) os embargantes alegam omissão no decisum impugnado quanto à impossibilidade de fixação dos honorários por equidade, pugnando pela fixação sobre o valor atualizado da causa, em atenção à norma processual e à tese firmada em recurso repetitivo (Tema 1076/STJ).
+Impugnação às fls. 1017-1019 e-STJ.
+É o relatório.
+Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgInt no AREsp 1488352/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020; EDcl no AgInt no AREsp 1649618/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; EDcl no AgInt no AREsp 895.807/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020; EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+No caso em tela, os embargantes alegam omissão no decisum impugnado quanto à impossibilidade de fixação dos honorários por equidade, pugnando pela fixação sobre o valor atualizado da causa.
+De fato, a norma processual, bem como a tese firmada pela Corte Especial deste STJ, autorizam o arbitramento da verba honorária por equidade somente quando o proveito econômico obtido pelo vencedor for inestimável ou irrisório e o valor da causa for muito baixo.
+No caso, todavia, necessário observar que houve condenação, pois a ação originária foi julgada procedente em face da parte codemandada, com fixação de honorários em 10% (dez por cento) do valor da condenação, os quais restaram majorados para 11% nesta instância especial (fl. 964 e-STJ).
+Assim, os limites (de 10 a 20%) estabelecidos pelo artigo 85, § 2º, do CPC/15 devem ser atendidos pela sucumbência global da demanda, e não em relação à cada parte vencedora/vencida.
+Ou seja, a somatória de todos os honorários sucumbenciais fixados na demanda é que devem observar os limites de 10 a 20%, e não a parcela devida a cada parte vencedora.
+Portanto, não há necessidade de observância do patamar mínimo de 10% (dez por cento) em favor apenas da ora embargante.
+Fosse o caso de improcedência da demanda em face de ambas as demandadas - como, de fato, ocorreu em primeira instância - o percentual mínimo seria observado em favor de ambas. Tanto que a sentença, ao julgar improcedente a demanda, fixou a verba sucumbencial em 10% do valor da causa para ambas as requeridas - ou seja, 5% para cada uma.
+Por tais razões, ainda que a verba sucumbencial tenha sido fixada, em favor da ora embargante, em quantia certa, não houve desrespeito aos limites estabelecidos pelo artigo 85, § 2º, do CPC/15, e o valor da causa foi efetivamente considerado no arbitramento, ainda que de forma implícita.
+De todo modo, assiste parcial razão aos insurgentes, pois a fixação da verba em percentual é medida que melhor atende o espírito da lei processual - ainda que, pelos fundamentos acima expostos, não haja, no caso, limite de percentual mínimo a ser observado.
+Diante destas particularidades, portanto, mostra-se adequada a fixação em 6% (seis por cento) do valor atualizado da causa, observado o patamar mínimo de R$ 2.000,00 (dois mil reais) - seja pela vedação à refomatio in pejus, seja para garantir que o arbitramento não resulte em quantia irrisória.
+2. Do exposto, acolhem-se parcialmente os embargos de declaração para fixar os honorários devidos pelo autor aos patronos da CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA em 6% (seis por cento) do valor atualizado da causa, observado o patamar mínimo de R$ 2.000,00 (dois mil reiais).
+Publique-se.
+Intimem-se.
