@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO RESPECTIVO ESTADO.
+Consoante se extrai dos autos, o agravado foi condenado pela prática do delito previsto no art. 155, § 1º e 4º, inc. IV, c/c o art. 61, I e II, j, ambos do Código Penal, à pena de 4 (quatro) anos, 6 (seis) meses e 20 (vinte) dias de reclusão, no regime inicial fechado (fls. 340-355).
+Em segunda instância, o eg. Tribunal a quo, por maioria, deu provimento à apelação da Defesa para absolver o agravado Luciano Cardoso de Souza com fundamento no art. 387, inc. VII, do Código de Processo Penal (fls. 437-460).
+Foram opostos embargos de declaração, os quais não foram acolhidos (fls. 496-499).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o Parquet estadual alegou violação "art. 155, § § 1º e 4º, Inc. IV, do Código Penal e os arts. 155, 239 e 386, Inc. VII e 619, esses do Código de Processo Penal" (fl. 506).
+Para tanto, menciona que "o Tribunal Mineiro não atribuiu o devido valor probatório aos testemunhos de Marina Barbosa Perdigão, Carlos Felippe Ribas Faria, à apreensão de ferramentas aptas à prática do delito üa forma em que foi praticado e, ainda, da resfuniva na posse do recorrido e, ainda, às contradições observadas em sua versão." (fl. 516).
+Aduz, outrossim, que "não se revela acertada a decisão do Tribunal Mineiro, pois, conforme acima mencionado, o arcabouço fático-probatório refere-se claramente à existência de elementos probatórios produzidos na fase inquisitorial e judicial, que, nos termos do art. 155 do CPP, mostram-se suficientes para a condenação, não havendo que se falar em absolvição por ausência de provas." (fl. 522).
+Por fim, a Defesa pleiteou o restabelecimento da condenação do ora agravante pelo delito de furto qualificado nos termos da sentença primeva.
+Apresentadas as contrarrazões (fls. 529-535), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório (537-539).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 542-548).
+O Ministério Público Federal apresentou parecer pelo não provimento do agravo em recurso especial (fls. 567-571).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Consoante se depreende dos autos, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 7/STJ.
+A parte recorrente, nas razões de fls. 609-615, em uma breve explanação, em síntese, quanto à incidência da Súmula 7/STJ alegou, tão somente, que " ..  o reexame de provas é inviável em sede de recurso especial, a revaloração jurídica dos elementos fático-probatórios delineados pela decisão recorrida, escopo perseguido pelo Ministério Público, é sim, perfeitamente, cabível nesse apelo e no extraordinário" (fl. 546).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que efetivamente não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
