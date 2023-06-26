@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por DPE ENGENHARIA E MANUTENÇÃO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 522):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C PEDIDO DE DANOS MORAIS EPEDIDO LIMINAR. COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE SIMULAÇÃO E NULIDADE DO NEGÓCIO PARA GARANTIA E CAMUFLAGEM DE EMPRÉSTIMO COM AGIOTAGEM. SENTENÇA DE PROCEDÊNCIA DECLARANDONULO O NEGÓCIO. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. INOCORRÊNCIA. INSURGÊNCIA RECURSAL DOS RÉUS. AUSÊNCIA DE PROVA DO EMPRÉSTIMO. AUSÊNCIA DEPROVA DE SIMULAÇÃO DA COMPRA E VENDA. IMPROCEDÊNCIA DOS PEDIDOS EXORDIAIS. RECURSO PROVIDO. INSURGÊNCIA RECURSAL DOS AUTORESPUGNANDO DANOS MORAIS. PEDIDO PREJUDICADO. APELO DE ADEMILSON E JENNY PROVIDO. APELO DE EDNALDO E LUCIMARA PREJUDICADO.
+Embargos de declaração rejeitados (fls. 598-604).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489, §1º, I, III, §1º, I, III, IV, e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido, e que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta, ainda, afronta ao art. 373, I e II, do CPC, ao defender a distribuição equivocada do ônus da prova pelo Tribunal de origem, quando determinou de forma indevida a inversão do ônus da prova.
+Apresentadas contrarrazões ao recurso especial (fls. 662-673).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 831-833), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo (fls. 907-916).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo à análise do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das demais alegações da recorrente, considerando que a Corte de origem assentou, com base nas provas dos autos, a falta de comprovação dos vícios alegados na sentença. Confira-se o seguinte excerto do voto condutor (fl. 1.404):
+Volvendo os olhos ao acervo probatório, é possível verificar que:
+(..)
+Tais provas - da relação trabalhista (poder do Sr. Gilberto em comprar material, receber, assinar notas fiscais, etc.), das notas fiscais emitidas e com aceite exarado e pagamento de parte dos títulos, demonstram à inequívoca certeza, que inexiste vício na sentença primeva que mereça reforma desta instância revisora.
+Confira-se, também, o seguinte excerto do acórdão dos embargos de declaração (fls. 1.459):
+Isso porque, do que se depreende das razões do recurso, é forçoso reconhecer que a irresignação se volta exclusivamente à sentença primeva quando, em verdade, deveria apontar na decisão colegiada de Segundo Grau quaisquer dos vícios que autorizam o processamento do presente recurso horizontal; ônus do qual não se desincumbiu; sobretudo quando esta fora clara ao indicar quais as provas que revestiram de legalidade o apontamento restritivo promovido pela embargada.
+Ademais, rever entendimento do Tribunal de origem, com base no contexto fático-probatório dos autos, acerca de distribuição de ônus da prova e de inversão do referido ônus, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. ARTIGO 1.025 DO CPC/2015. APLICAÇÃO. ALEGAÇÕES RELEVANTES. TEORIA FINALISTA MITIGADA. VULNERABILIDADE TÉCNICA. CARACTERIZAÇÃO. ÔNUS DA PROVA. INVERSÃO. CRITÉRIO DO JUIZ. REVISÃO. IMPOSSIBLIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Para que o artigo 1.025 do CPC/2015 seja aplicado , é necessário que, além de ter havido oposição de aclaratórios na origem e indicação de violação do art. 1.022 do CPC/2015 no recurso especial, as alegações da recorrente sejam relevantes e pertinentes com a matéria, o que não se verifica no presente caso.
+4. O aresto recorrido está de acordo com a jurisprudência desta Corte no sentido de que a teoria finalista deve ser mitigada nos casos em que a pessoa física ou jurídica, ainda que não seja destinatária final do produto, apresente-se em estado de vulnerabilidade ou hipossuficiência técnica em relação ao fornecedor.
+5. A inversão do ônus da prova fica a critério do juiz , que deve apreciar, a partir do substrato fático-probatório dos autos, a verossimilhança das alegações do consumidor e a sua hipossuficiência, o que não pode ser revisto no recurso especial diante do óbice da Súmula nº 7/STJ.
+6. Na hipótese, rever as conclusões firmadas pelas instâncias ordinárias acerca da caracterização da vulnerabilidade da pessoa jurídica , a ensejar a aplicação da teoria finalista mitigada, demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial pelo óbice da Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.008.484/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, obser vados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
