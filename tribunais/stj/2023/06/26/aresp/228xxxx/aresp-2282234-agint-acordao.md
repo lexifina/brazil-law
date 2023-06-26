@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por Abel Fernandes Nogueira, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 3ª Região, nos termos assim ementados:
+PREVIDENCIÁRIO - AGRAVO DE INSTRUMENTO - HONORÁRIOS ADVOCATÍCIOS - LEGITIMIDADE ATIVA RECURSAL - JUSTIÇA GRATUITA - RECEBIMENTO DE VALORES BRUTOS SUPERIORES A RS 3.000,00.
+Na origem, trata-se de agravo de instrumento interposto por Abel Fernandes Nogueira contra decisão que, nos autos do cumprimento de sentença ajuizado pelo INSS, rejeitou o pedido de impugnação, determinando a intimação do executado para o pagamento dos honorários advocatícios devidos ao INSS.
+No Tribunal a quo a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Abel Fernandes Nogueira alega ofensa aos arts. 98, § 3º e 1.022, II, ambos do CPC/2015.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. ainda que o julgador originário não seja obrigado a rebater todas as questões suscitadas pelas partes, é certo que - ainda assim - quedou-se omisso a respeito da questão essencial para a solução do litígio (acima delineada), sendo evidente a violação ao dispositivo do art. 1.022 do CPC. (..)
+.. é certo que o objeto recursal não esbarra no óbice da Súmula 7/STJ, pois NÃO SE PRETENDE o "simples reexame de prova", mas sim que seja declarado nulo o v. acórdão de segundo grau, pela exaustivamente demonstrada ofensa direta ao artigo 1.022, II, do Código de Processo Civil - cuja vigência foi negada - sem que se extraia do recurso trancado discussões acerca dos fatos e provas relacionados à matéria discutida nos autos. (..)
+.. não há que se falar na incidência da Súmula 83/STJ, uma vez que o Tribunal de Origem não observa a pacificada jurisprudência desta E. Corte Superior, fato que impede a inadmissão do Recurso Especial sob tal fundamento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. INSS. HONORÁRIOS DE SUCUMBÊNCIA. JUSTIÇA GRATUITA. IMPUGANAÇÃO AO CUMPRIMENTO DE SENTENÇA. IMPROCEDÊNCIA DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos do cumprimento de sentença ajuizado pelo INSS, rejeitou o pedido de impugnação, determinando a intimação do executado para o pagamento dos honorários advocatícios devidos ao INSS.
+II - No Tribunal a quo a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "(..) As despesas apontadas pelo executado são compatíveis com sua renda e não podem ser consideradas excepcionais. Não há prova da hipossuficiência atual."
+IV - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+V - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+VI - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+VII - O Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+VIII - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A apresentação de mera Declaração de hipossuficiência não é apta, por si só, a demonstrar a impossibilidade da parte requerente arcar com os ônus processuais. Nesse campo, conforme vem decidindo o STJ:
+(..)
+No caso concreto, o executado está aposentado e, conforme extrato do CNIS, percebeu benefício de aposentadoria por tempo de contribuição em janeiro/2021, no valor de R$ 3.175,57 (três mil, cento e setenta e cinco reais e cinquenta e sete centavos).
+Ainda, verifica-se que, no mesmo período, recebeu remuneração decorrente de vínculo de emprego no valor de R$ 6.582,15 (seis mil, quinhentos e oitenta e dois reais e quinze centavos).
+As despesas apontadas pelo executado são compatíveis com sua renda e não podem ser consideradas excepcionais.
+Não há prova da hipossuficiência atual.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
