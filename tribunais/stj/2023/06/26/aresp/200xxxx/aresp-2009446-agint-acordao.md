@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+RELATÓRIO
+Trata-se de agravo interno interposto por OSNI MUCCELLIN ARRUDA contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 1.513):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OFENSAS OCORRIDAS EM AÇÃO DE EXECUÇÃO FISCAL POR PROCURADOR DA FAZENDA NACIONAL. NÃO CONFIGURAÇÃO DE DANO MORAL INDENIZÁVEL. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO DA UNIÃO CONHECIDO PARA NÃO SE CONHECER DO SEU ANTERIOR RECURSO ESPECIAL.
+O agravante sustenta a desnecessidade de reexame de matéria fático-probatória para a análise do mérito do recurso especial.
+A parte adversa apresentou impugnação (fls. 1.535/1.551).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OFENSAS PROFERIDAS EM PROCESSO JUDICIAL. ACÓRDÃO QUE CONSIGNA A AUSÊNCIA DE DANO MORAL INDENIZÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. O Tribunal de origem reconheceu não ter havido dano moral indenizável. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (1.378/1.379):
+O que se percebe é que a manifestação em discussão neste processo foi feita pelo Procurador da Fazenda Nacional que atuava no processo de execução, em tese o destinatário das increpações dirigidas pelo ora autor na petição por ele firmada em causa própria, e como retorsão à referida peça.
+Excessos houve, e pelo visto de ambas as partes. De todo modo, tudo se deu no âmbito do processo de execução, à época físico por sinal, sem maiores repercussões extra-autos.
+Dessa maneira, não havendo demonstração de efetivo intuito calunioso ou injurioso da manifestação do agente público em processo judicial, a utilização de vocabulário inadequado no caso - atitude repudiável que deve ser repreendida nos próprios autos - não se presta a configurar dano moral indenizável. Houve na verdade debate no âmbito do processo, com excesso de ambas as partes.
+Como afirmado pela Magistrada na sentença, o autor não foi submetido a situação vexatória ou constrangedora durante o processo judicial. Vinha o próprio autor em suas manifestações promovendo discussões acaloradas chegando a sustentar na peça de embargos de declaração a "existência de "construção maliciosa", sob a acusação de que o Fisco teria se utilizado de documentos que não são verídicos, "falsas premissas", "expediente ardil", "argumentos absurdos" além de afirmar a atuação "desidiosa" e a utilização de "manobra ardil, mesquinha e covarde" da Exequente".
+Ademais, não restou comprovado o efetivo dano, já que não reportou o apelante consequências negativas à sua reputação pelos termos utilizados nos autos, não se cogitando de dano in re ipsa na utilização de termos ou expressões em sede judicial, uma vez que a conduta das partes deve ser avaliada no caso concreto.
+Portanto, embora tenha havido manifestação com emprego de expressões inadequadas e desnecessárias à descrição dos fatos, não vislumbro a ocorrência de dano indenizável.
+O Tribunal de origem reconheceu não ter havido dano moral indenizável. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
