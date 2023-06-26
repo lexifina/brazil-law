@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pelo FUNDAÇÃO CEEE DE SEGURIDADE SOCIAL ELETROCEEE contra decisão monocrática por mim proferida, no exercício da presidência do STJ, por meio da qual apliquei a Súmula n. 182 do STJ (fls. 1.257-1.259).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 868-890):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. INCORPORAÇÃO DAS PARCELAS REMUNERATÓRIAS RECONHECIDAS NA JUSTIÇA DO TRABALHO. MODULAÇÃO. TEMA 955. RECOMPOSIÇÃO PRÉVIA E INTEGRAL RESERVAS MATEMÁTICAS.
+Do cerceamento de defesa
+1. Desnecessidade de realização de perícia técnica, pois foram acostadas ao feito documentação suficiente para o deslinde do litígio, mostrando-se desnecessária a produção da prova técnica pretendida.
+2. Ademais, o Juiz é o destinatário das provas, cabendo a ele aferir sobre a necessidade ou não de sua produção, a teor do que estabelece o art. 370, parágrafo único, do novel Código de Processo Civil.
+Da inexistência de prescrição do direito de ação
+3. Tratando de demanda relativa às prestações decorrentes de diferenças de benefício atinentes à previdência privada, aplica-se a prescrição qüinqüenal somente nos cinco anos anteriores ao ajuizamento da demanda, a teor do que estabelece o art. 75 da Lei Complementar n 2 109/2001. Súmula n 2 291 do Superior Tribunal de Justiça. Hipótese que não se configurou no presente feito, ao menos quanto às parcelas em discussão que não ultrapassaram este lapso temporal
+4. Ademais, a obrigação é de ordem alimentar e de trato sucessivo, cuja prescrição ocorre apenas quanto às parcelas anteriores a propositura da ação e não relativamente ao fundo do direito, é possível reivindicar a correta aplicação das normas contratuais, sob pena se perpetrar a iniqüidade com a utilização de um subterfúgio de processual, em flagrante desatendimento a regulação do caso dos autos. Mérito do recurso em análise
+5. O Superior Tribunal de justiça no julgamento do Recurso Especial n. 2 1.312.736, afeto pelo TEMA 955, estabeleceu que não é possível a incorporação de parcelas, mesmo atinentes a remuneração, ao benefício complementar previdenciário, diante da ausência de prévio custeio.
+6. Por outro lado, aquela Corte Superior definiu que a todas as demandas propostas até a data da prolação do julgado deve ser aplicada a modulação dos efeitos da decisão, de sorte a possibilitar aos participantes incluir os reflexos das parcelas remuneratórias reconhecidas como devida pela Justiça do Trabalho no benefício previdenciário, desde que haja a recomposição prévia e integral das reservas matemáticas para formação do fundo custeio, a ser apurado em estudo técnico atuarial.
+7. Assim, considerando que a presente demanda se enquadra na exceção específica ressalvada pelo Superior Tribunal de Justiça no julgado precitado, uma vez que proposta a referida ação até a data de 08/08/2018, bem como constatado o interesse da parte demandante, entendo que cabível a aplicação da modulação estabelecida por aquela Corte de Justiça no caso em tela. Isso a fim de possibilitar que a parte autora, em sede de liquidação de sentença, esclareça eventuais aportes que deva fazer para formação plena do fundo das reservas matemáticas e opte por incorporar as parcelas reconhecidas na Justiça Trabalhista ou não, de acordo com seus interesses.
+8. Desse modo, cabível a inclusão das parcelas reconhecidas como devidas na Justiça do Trabalho no cálculo do benefício inicial da parte autora, diante da natureza remuneratória daquelas, desde que haja a recomposição das reservas matemáticas, cuja diferença deverá ser apurada em sede de liquidação de sentença mediante perícia técnica atuarial.
+Afastada a preliminar suscitada, desprovido o agravo retido e dado parcial provimento aos apelos das partes.
+Acolhidos em parte os embargos de declaração opostos sem efeitos infringentes (fls. 924-934).
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ, porquanto afirma que impugnou de forma específica a ausência de violação do art. 1.022, II, do CPC.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, apresentou impugnação (fls. 1.274-1.280).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar.
+O Tribunal de origem inadmitiu o recurso especial por entender que o acórdão recorrido não violou o art. 1.022, II, do CPC.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a ausência de violação do art. 1.022.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito : AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
