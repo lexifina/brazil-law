@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL - UFRGS contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECLAMATÓRIA TRABALHISTA. COMPETÊNCIA. JUSTIÇA DO TRABALHO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente sustenta violação aos seguintes dispositivos legais: (a) art. 1.022, II, do CPC, alegando que a Corte de origem não se pronunciou sobre os seguintes pontos: i) a lide existe não é entre o empregado e a empresa prestadora de serviço ou tomadora de serviço, mas sim entre a autarquia e a prestadora de serviço; ii) não havendo discussão de relação de emprego, mas condenação da autarquia em caráter subsidiário, a ação regressiva contra a prestadora de serviço detém natureza civil; iii) prequestionamento dos seguintes preceitos legais: art. 71, §1º, da Lei nº 8.666/93, art. 132 c/c 778, IV do CPC c/c art. 346 III, c/c art. 934 do Código Civil c/c art. 109, I da CF; (b) arts, 71, §1º, da Lei nº 8.666/93, 132 c/c 778, IV, do CPC c/c 346 III, c/c 934 do Código Civil c/c 109, I da CF, aduzindo que: i) o art. 71, §1º, da Lei nº 8.666/93 exime o ente público contratante de qualquer débito ou mesmo responsabilidade pelos créditos trabalhistas inadimplidos pela empresa contratada pela Administração Pública com relação a seus empregados; ii) o ordenamento prevê direito de regresso do responsável que pagou pelo débito alheio em face de quem praticou os atos que ensejaram a responsabilização; iii) nos termos do art. 132 do Código de Processo Civil, a sentença proferida na reclamatória trabalhista constitui título executivo em favor da autarquia que pagou a dívida; iv) ao pagar o débito trabalhista, a autarquia se sub-rogou nos direitos de crédito do reclamante, conforme art. 346 III, do Código Civil, sendo que o dever legal do executado em ressarcir o dano também decorre do art. 934 do mesmo diploma legal - há título executivo judicial amparando a presente execução a ser promovida na justiça federal por força do art. 109, I da CF.
+Não foram apresentadas contrarrazões.
+Decisão de admissibilidade à fl. 79-80.
+É o relatório. Decido.
+A irresignação merece acolhida em relação à preliminar de ofensa ao art. 1.022 do CPC.
+A recorrente afirma que o Juízo a quo incorreu em omissão com relação aos seguintes argumentos:
+a-) Conforme devidamente assinalado no recurso da autarquia a lide existe não é entre o empregado e a empresa prestadora de serviço ou tomadora de serviço mas sim entre a autarquia e a prestadora de serviço. Não havendo discussão de relação de emprego, mas condenação da autarquia em caráter subsidiária, a ação regressiva contra a prestadora de serviço detém natureza civil;
+b-) prequestionamento dos preceitos legais art. 71, §1º, da Lei nº 8.666/93, art. 132 c/c 778, IV do CPC c/c art. 346 III, c/c art. 934 do Código Civil c/c art. 109, I da CF
+Verifica-se que essas questões não foram avaliadas pelo Tribunal de origem, mesmo que em embargos de declaração. No caso, não está claro no acórdão da Corte Regional o tipo de relação jurídica apresentada no cumprimento de sentença, bem como o objetivo da execução, aspecto importante para o deslinde da controvérsia. Nesse sentido, é de se reconhecer a deficiência na prestação jurisdicional.
+É cedido que os embargos de declaração são a via adequada para levar a conhecimento do Tribunal as questões tidas por omissas, obscuras ou contraditórias, sobretudo quando a manifestação sobre tais questões for relevante para a solução da lide, tal qual ocorreu no caso dos autos.
+A jurisprudência deste Superior Tribunal de Justiça está no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estreita do especial, por falta de prévio questionamento.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Caracterizado o vício de omissão, error in procedendo, forçoso reconhecer a ofensa ao comando normativo inserto no artigo 1.022 do CPC, e, por conseguinte, a necessidade de anulação do aresto para que outro seja proferido, em novo julgamento na origem.
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA. RECURSO ESPECIAL CONHECIDO E PROVIDO.
