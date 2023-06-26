@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL ALEGADO. SÚMULA 284, STF.
+I - A jurisprudência desta Corte é uníssona quanto à necessidade de fundamentação adequada do recurso especial, com a devida indicação do dispositivo de lei tido por violado e a demonstração efetiva do dissídio jurisprudencial alegado. Precedentes.
+II - Na hipótese dos autos, a petição do recurso especial não apontou com clareza qual o dispositivo legal tido por violado, nem demonstrou, de modo efetivo, a existência de divergência interpretativa acerca da matéria controvertida, de modo que a manutenção do óbice da Súmula nº 284/STF é medida que se impõe.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por OVIDIO PEREIRA DA SILVA JUNIOR contra decisão que não conheceu do agravo em recurso especial.
+O agravante foi condenado como incurso no art. 33, c/c. art. 40, inciso I, da Lei nº 11.343/2006 e no art. 183 da Lei nº 9.472/1997, à pena de 15 (quinze) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 1.371 (mil trezentos e setenta e um) dias-multa (fls. 1.105-1.212).
+O Tribunal Regional Federal da 3ª Região procedeu à emendatio libelli de ofício e ajustou a classificação jurídica da conduta contra as telecomunicações como prática do delito previsto no art. 70 da Lei nº 4.117/62. Ademais, deu parcial provimento ao apelo defensivo para redimensionar a pena do agravante, fixando-a em 11 (onze) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 1 (um) ano de detenção, em regime inicial aberto, e 1.166 (mil cento e sessenta e seis) dias-multa (fls. 6.313-6.356).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, requerer a absolvição do agravante por insuficiência de provas (fls. 6.453-6.460).
+O recurso foi inadmitido na origem sob o fundamento de que as teses recursais encontravam óbice na Súmula nº 284/STF (fls. 6.517-6.533).
+Em face disso, a defesa interpôs agravo em recurso especial (fls. 6.538-6.543), o qual deixou de ser conhecido pela ausência de impugnação específica dos fundamentos da decisão recorrida (fls. 6.608-6.617).
+Nas razões do presente agravo regimental, a defesa sustenta que a afirmação de existência dos requisitos constitucionais e de que teria ocorrido dissídio jurisprudencial seriam suficientes para a admissão do recurso, além de reiterar o mérito da controvérsia (fls. 6.621-6.625).
+O Ministério Público Federal se manifestou pelo desprovimento do agravo regimental, com a manutenção da decisão recorrida por seus próprios fundamentos (fls. 6.61-6.635).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL ALEGADO. SÚMULA 284, STF.
+I - A jurisprudência desta Corte é uníssona quanto à necessidade de fundamentação adequada do recurso especial, com a devida indicação do dispositivo de lei tido por violado e a demonstração efetiva do dissídio jurisprudencial alegado. Precedentes.
+II - Na hipótese dos autos, a petição do recurso especial não apontou com clareza qual o dispositivo legal tido por violado, nem demonstrou, de modo efetivo, a existência de divergência interpretativa acerca da matéria controvertida, de modo que a manutenção do óbice da Súmula nº 284/STF é medida que se impõe.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que a decisão agravada deve ser mantida por seus próprios fundamentos. Isso porque a petição do recurso especial não apontou com clareza qual o dispositivo legal tido por violado, nem demonstrou, de modo efetivo, a existência de divergência interpretativa acerca da matéria controvertida.
+Segundo a defesa, a Súmula nº 284/STF deveria ser afastada porque teriam sido satisfeitos os requisitos de admissibilidade recursal (fl. 6.610):
+"Outrossim, o Recurs o Defensivo encontrava-se diante de respaldo legal e doutrinário para admissão, uma vez que NELSON NERY JUNIOR e ROSA AMRIA ANDRADE NERY são explícitos ao doutrinar que: não é preciso discutir o mérito do recurso, bastando recorrente sustentar a existência dos requisitos constitucionais para o cabimento do RE ou do Resp.
+A efetiva violação da CF ou da lei federal é o mérito do recurso, que deverá ser analisado em outro tópico das razões recursais. (in Código de Processo Civil comentado). Ainda cediço que na hipótese prevista na alínea C, do artigo 105, inciso III, da Constituição Federal, exige-se apenas uma afirmação convincente de que tenha ocorrido a divergência de entendimento entre Tribunais."
+Ao contrário do afirmado, a jurisprudência desta Corte é uníssona quanto à necessidade de fundamentação adequada do recurso especial, com a devida indicação do dispositivo de lei tido por violado e a demonstração efetiva do dissídio jurisprudencial alegado.
+Nesse sentido:
+"RECURSO ESPECIAL REPETITIVO. PROCESSO CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO COMO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NOTÓRIA. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CONVERSÃO DE VENCIMENTOS EM URV. APLICAÇÃO DA LEI FEDERAL Nº 8.880/94. DATA DO EFETIVO PAGAMENTO. COMPENSAÇÃO COM OUTROS REAJUSTES. IMPOSSIBILIDADE. NATUREZA DISTINTA.
+1. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a conseqüente demonstração do que consistiu a eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório, com o não conhecimento do recurso no que toca à alínea "a" do permissivo constitucional" (REsp n. 1.101.726/SP, Terceira Seção, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 14/8/2009)
+"PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. FGTS. EXECUÇÃO DE SENTENÇA. TERMO INICIAL DA INCIDÊNCIA DE CORREÇÃO MONETÁRIA.
+1. A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida teria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal, o que não se verifica na hipótese dos autos. A deficiência na fundamentação do recurso no pertinente ao afastamento de multa por litigância de má-fé inviabiliza a exata compreensão da controvérsia, atraindo, portanto, a Súmula n. 284 do STF" (REsp n. 1.112.413/AL, Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe de 1/10/2009)
+Desse modo, a defesa não apresentou argumentos aptos a infirmar os fundamentos da decisão recorrida, de modo que a manutenção do óbice da Súmula nº 284/STF é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
