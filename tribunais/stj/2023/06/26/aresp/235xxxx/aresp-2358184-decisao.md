@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por AUDAX EMPREENDIMENTOS IMOBILIÁRIOS LTDA em face de decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do art. 105, III, da Constituição, interposto contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Justiça gratuita. A renovação do pedido de gratuidade é admissível, desde que haja a alteração da situação financeira e patrimonial do postulante, sob pena de tornar o segundo pedido de gratuidade em uma revisão da decisão de indeferimento outrora proferida. Elementos fáticos retratados nos autos revelam a ausência dos requisitos para o deferimento. Pedido de gratuidade indeferido. Fixação de prazo para realização do preparo recursal. Recurso não conhecido, por ora, com determinação.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 99, § 2º, 1.022, II, do Código de Processo Civil de 2015, sustentando isto: (I) negativa de prestação jurisdicional por omissão e contradição, pois "foram interpostos embargos de declaração, acostando inúmeros documentos que comprovavam cabalmente as condições precárias da apelante, ora recorrente, consoante faculta o art. 99, § 2º do CPC/15, salientando que o indeferimento somente poderia ocorrer acaso existissem elementos que evidenciasse a falta de pressuposto legais para sua concessão, consoante se transcreve: (..) Não obstante, não restaram apreciados os documentos encartados com os embargos de declaração, sendo certo que foi decidido nos embargos de declaração que a pretensão era de rejulgamento da matéria" (fls. 1025-1026); (II) "(..) o V. Acórdão negou vigência/contrariou o art. 99 do CPC/15, mas desta vez, foi o § 2º o malferido, haja vista que, sem qualquer elemento que evidenciasse a falta de pressupostos legais, indeferiu a gratuidade, sob o argumento de que esta não restou comprovada" (fl. 1030).
+É o relatório. Passo a decidir.
+O apelo merece prosperar no tocante à ofensa ao art. 1.022 do CPC/2015.
+Compulsando os autos, infere-se que nos embargos de declaração (fls. 932-937) fo i requerida a análise de pontos como se infere da leitura do seguinte excerto das razões recursais:
+"Primeiramente, "data máxima vênia", olvidou-se o Ilmo. Relator do disposto no art. 99, § 2º do CPC/15, ora transcrito:
+(..)
+Nesse contexto, para suprir tal mácula, requer a juntada da documentação em anexo, que comprova cabalmente a falta de condições.
+Com efeito, a requerida apresenta seus 03 (três) últimos balanços patrimoniais, aonde amarga um prejuízo acumulado de mais de R$ 15.000.000,00 (quinze milhões de reais), salientando-se que o prejuízo acumulado supera em cerca de 04 (quatro) vezes o valor do capital social.
+Ainda, requer-se a juntada dos últimos extratos de conta da embargante, salientando-se que todas as contas em instituições financeiras encontram-se encerradas em razão de débitos.
+Por fim, apresenta as declarações de IR da sócia da empresa, relembrando também que esta encontra-se com todo o seu patrimônio imobiliário bloqueado pela Justiça Laboral e Federal, bem como, esclarece que não possui cartões de crédito.
+Gize-se que, em novembro de 2.021 (proc. nº 1023057-79.2016.8.26.0451, após analisar a documentação ora acostada, concluiu que a recorrente, ora embargante, não tem condições de arcar com as custas processuais. (..)
+De fato, com a devida vênia, a eg. Corte Estadual rejeitou os aclaratórios sem examinar as referidas teses, que podem vir a influenciar no desate da presente lide.
+Por sua vez, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/2015, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao debate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DE COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD) E INVALIDEZ LABORATIVA PERMANENTE TOTAL POR DOENÇA (ILPD). INTERPRETAÇÃO RESTRITIVA. APOSENTADORIA. ÓRGÃO PREVIDENCIÁRIO. PERÍCIA. NECESSIDADE.
+(..)
+4. O acórdão recorrido não se manifestou sobre questões essenciais para o julgamento da causa, pressuposto indispensável para o exame do recurso especial, motivo pelo qual reconhece-se a ofensa ao art. 535 do Código de Processo Civil.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 952.515/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017 - grifou-se)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Violação ao art. 535 do Código de Processo Civil configurada. Acórdão estadual que não enfrentou todos os aspectos essenciais à resolução da controvérsia. Existência de ponto omisso relativamente à conduta da agravada, cuja elucidação mostra-se relevante para o deslinde da controvérsia, a qual gira em torno da existência de responsabilidade da empresa de transporte com relação aos eventos danosos suportados pela agravada
+2. Agravo regimental desprovido."
+(AgRg no AREsp 197.146/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 23/02/2016 - grifou-se)
+Nesse senda, deve ser reconhecida a violação ao art. 1.022 do CPC/2015, para anular o v. acórdão que julgou os aclaratórios, e determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando as omissões e contradições ora reconhecidas.
+Resta prejudicada a análise das demais teses em razão do provimento do recurso especial.
+Ante o exposto, dou parcial provimento ao recurso especial a fim apenas de reconhecer a violação ao art. 1.022 do CPC/2015, anulando-se o v. acórdão de fls. 1017-1020 e determinando-se o retorno dos autos ao eg. Tribunal de origem para promover novo julgamento dos embargos de declaração, como entender de direito.
+Publique-se.
