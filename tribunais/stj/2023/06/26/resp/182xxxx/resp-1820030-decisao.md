@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 200, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECÁLCULO DOS DÉBITOS PARA EXCLUIR A INCIDÊNCIA DA LEI 13.918/2009. NECESSIDADE DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, POR EQUIDADE DADA AS PECULIARIDADES DO CASO. AUSÊNCIA DE ATO CONSTRITIVO A JUSTIFICAR A SUSPENSÃO DO PROCESSO (TEMA 987 DO STJ). RECURSO NÃO PROVIDO.
+Não houve interposição de Embargos de Declaração.
+A parte recorrente alega violação ao art. 85, § 3º, do CPC. Pugna pela aplicação do referido dispositivo legal, para majorar a verba honorária fixada em R$ 500,00 (quinhentos reais) (fl. 212, e-STJ).
+Contrarrazões apresentadas às fls. 221-230, e-STJ.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 12.6.2023.
+A irresignação merece acolhida.
+Trata-se, na origem, de Agravo de Instrumento interposto contra decisão que condenou o agravado ao pagamento de honorários sucumbenciais, fixados pela Corte a quo em R$ 500,00 (quinhentos reais) pela simplicidade da matéria envolvida, com fundamento no art. 85, § 8º, III, do CPC.
+Quanto ao thema decidendum (critérios para arbitramento de honorários advocatícios de sucumbência por equidade), a Corte Especial do STJ, quando do julgamento dos Recursos Repetitivos, por meio dos REsps 1.850.512/SP, 1.877.883/SP, 1.906.618/SP e 1.906.623/SP, definiu a exegese do art. 85, § 8º, do CPC, isto é, se a norma desse dispositivo legal é aplicável nas hipóteses em que a adoção dos parâmetros estabelecidos nos §§ 2º e 3º do mesmo artigo poderia resultar no estabelecimento de verba exorbitante ou excessiva ou, por qualquer modo, desproporcional.
+O julgamento do Tema 1.076/STJ ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi concluído com o estabelecimento das seguintes teses:
+I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação, ou (b) do proveito econômico obtido, ou (c) do valor atualizado da causa; e II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O acórdão proferido no julgamento de cada um dos Recursos Especiais acima indicados foi publicado no DJe de 31.5.2022 e, como consequência: "As teses fixadas nos julgamentos vinculativos deste Superior Tribunal de Justiça e do Supremo Tribunal Federal podem ser aplicadas imediatamente nos feitos respectivos, ainda que não tenha ocorrido o trânsito em julgado dos precedentes de observância obrigatória e mesmo na pendência de eventuais Aclaratórios. Precedentes do STJ e do STF." (AgInt nos EmbExeMS n. 6.318/DF, Rel. Ministro Jorge Mussi, Terceira Seção, julgado em 22.8.2018, DJe de 3.9.2018.)
+In casu, a decisão adotada nas instâncias de origem não se encontra em sintonia com a orientação do STJ, razão pela qual - ressalvados o meu posicionamento a respeito desse ponto e a análise da compatibilidade da norma com a Constituição Federal de 1988 - merece reforma o acórdão hostilizado.
+Diante do exposto, dou provimento ao Recurso Especial, para que sejam restabelecidos os critérios fixados pelo Juízo de primeiro grau, quanto ao arbitramento de honorários advocatícios, com fulcro no art. 932 do CPC.
+Publique-se.
+Intimem-se.
