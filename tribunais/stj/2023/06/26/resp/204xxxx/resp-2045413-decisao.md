@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim sintetizado:
+"CONTRATO Prestação de serviços Plano de saúde Segurada, diagnosticada com Esclerose Múltipla Remitente Recorrente (CID-10 G35), havendo indicação, pelo médico que o assiste, de uso do medicamento Cladribina 10 mg Negativa no fornecimento do tratamento Inadmissibilidade Inclusão, na apólice, de terapia para a moléstia, devendo toda e qualquer medida tendente a minimizá-la ou eliminá-la ser coberta Inteligência Súmulas nº 96 e 102 deste Tribunal Recurso improvido." (fl. 297).
+Os embargos de declaração foram rejeitados (fls. 308-311).
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 10, § 4º, da Lei n. 9.656/98; e art. 4º, III, da Lei n. 9.961/00; sustentando, em síntese, "o medicamento Cladribina pleiteado pela Recorrida não consta no referido rol de procedimento obrigatórios definido pela ANS, o que, nos termos da Lei 9656/98, legitima a negativa de cobertura, ainda mais considerando-se o fato de que haviam alternativas eficazes de tratamento previstas no referido rol, que poderiam ser cobertas pela ora Recorrente." (fls. 323-324).
+Apresentadas contrarrazões ao apelo nobre (fls. 401-414).
+É o relatório.
+No caso, o eg. Tribunal de origem concluiu pela obrigatoriedade de fornecimento do medicamento "Cladribina" para o tratamento de esclerose múltipla recorrente que acomete a autora, ora agravada.
+A título elucidativo, transcreve-se o seguinte trecho do v. acórdão estadual:
+"No caso dos autos, a segurada foi diagnosticada com Esclerose Múltipla Remitente Recorrente (CID-10 G35), havendo indicação, pelo médico que o assiste, de uso do medicamento Cladribina 10 mg, daí decorrendo a necessidade de se submeter ao tratamento, não cabendo à operadora estabelecer o modo e tempo em que o segurado estará sendo tratado, mas ao médico que o assiste e que é o profissional habilitado para tanto.
+Igualmente, trata-se de entendimento já sumulado por esta Corte:
+Súmula 96: Havendo expressa indicação médica de exames associados a enfermidade coberta pelo contrato, não prevalece a negativa de cobertura do procedimento.
+Súmula 102: Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS." (fls. 299-300).
+Nesse contexto, o apelo nobre merece parcial provimento.
+Isso porque, a eg. Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe 3/8/2022).
+Com efeito, o eg. Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente, mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+"(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS."
+No caso concreto, todavia, o julgamento das instâncias ordinárias não avançou para aferir o preenchimento desses requisitos, fundamentando-se no caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Nesse contexto, haja vista a impossibilidade do reexame das cláusulas contratuais e dos demais elementos fático-probatórios (Súmulas n. 5 e 7 do STJ), devem os autos retornar à instância de origem para que a Corte local examine se estão presentes os critérios definidos pela Segunda Seção - ou, se for o caso, na forma prevista e autorizada pelo art. 938, § 3º, do CPC/2015, converter o julgamento em diligência para que as partes apresentem provas, no próprio Tribunal ou em primeira instância, de fatos que demonstrem ou afastem o preenchimento daqueles requisitos.
+Registre, por fim, que na pendência do julgamento do presente recurso, sobrevieram as Leis n. 14.307/2022 e 14.454/2022, alterando o art. 10 da Lei 9.656/1998, nos seguintes termos:
+"Art. 10
+(..)
+(..)
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais. (NR)
+ ..
+§ 6º As coberturas a que se referem as alíneas c do inciso I e g do inciso II do caput do art. 12 desta Lei são obrigatórias, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades, observado o disposto no § 7º deste artigo."
+Assim, tendo em vista a retroatividade mínima da lei, havendo discussão nos autos acerca de tratamento de caráter continuado, caberá ao Juízo de origem observar os critérios estipulados na mencionada norma.
+Ante o exposto, dou parcial provimento ao recurso especial para, cassando o acórdão recorrido, determinar o retorno dos autos à instância originária a fim de que, em novo exame, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada - tal como delineados pela Segunda Seção do Superior Tribunal de Justiça -, julgando o pedido inicial como entender de direito.
+Publique-se.
