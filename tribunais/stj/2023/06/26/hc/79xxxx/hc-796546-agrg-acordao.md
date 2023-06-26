@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão que concedeu o habeas corpus e, afastando os maus antecedentes, reconheceu o tráfico privilegiado e redimensionou a pena da agravada.
+Em síntese, o Ministério Público argumenta que "condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de 5 (cinco) anos, nos termos do art. 64, inc. I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes, possibilitando a exasperação da pena-base acima do mínimo legal" (fl. 215).
+Desse modo, entende ser correto o afastamento da minorante do tráfico privilegiado pelo Tribunal de origem, bem como a fixação do regime inicial fechado, "considerando a presença dos maus antecedentes e a natureza das drogas apreendidas (cocaína e crack)" (fl. 2.019).
+Busca a reconsideração ou a remessa do feito ao colegiado, de modo a prover o agravo para restabelecer a condenação proferida pelo Tribunal estadual.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MAUS ANTECEDENTES. CONDENAÇÕES MUITO ANTIGAS. DIREITO AO ESQUECIMENTO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Constatado o decurso de grande período de tempo, como no caso dos autos - condenações extintas pelo cumprimento há mais de 10 anos -, o STJ tem mitigado os efeitos das sentenças condenatórias anteriores, para o fim de reconhecimento de maus antecedentes, aplicando o direito ao esquecimento.
+2. Ambas as Turmas que compõem a Terceira Seção desta Corte Superior entendem que "a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos" (AgRg no AREsp n. 2.300.832/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/4/2023).
+3. Agravo regimental improvido.
+VOTO
+No que interessa, a decisão combatida assim dispôs:
+Em síntese, a defesa argumenta que as referidas condenações, ocorridas há mais de dez anos, foram atingidas pelo período depurador e não podem servir para aumentar a pena-base. Busca o restabelecimento da sentença condenatória.
+Prestadas informações, o Ministério Público Federal sugeriu o não conhecimento da impetração.
+No que interessa, o Tribunal de origem assim dispôs (fl. 101):
+Adiante, a dosimetria penal aplicada deve ser corrigida, tal como almeja o apelo ministerial.
+Com efeito, os maus antecedentes, constituído pelas condenações definitivas certificadas às fls. 130/138, foram olvidados pela r. sentença condenatória.
+Portanto, de rigor o alteamento da penitência no patamar de 1/6 (um sexto), o que encerra 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, no menor valor legal.
+Razão assiste à defesa.
+Nos termos da jurisprudência desta Casa, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 16/4/2018).
+No caso, verifica-se que as referidas condenações foram extintas pelo cumprimento em 27/4/2010 (fls. 27/28), ou seja, há mais de 10 anos, o que exige seu afastamento e consequente retorno da pena-base ao mínimo legal; ergo, não há óbice à incidência da privilegiadora, tal como procedido na sentença.
+Não vislumbro motivo para conclusão diversa.
+Como se vê, a decisão antecedente indicou que "as referidas condenações foram extintas pelo cumprimento em 27/4/20210 (fls. 27/28), ou seja, há mais de 10 anos, o que exige seu afastamento e consequente retorno da pena-base ao mínimo legal".
+É pacífico o entendimento, de ambas as Turmas que compõem a Terceira Seção desta Corte Superior, de que "a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido entre extinção da pena anteriormente imposta e a prática do novo delito, qual seja mais de 10 anos." (AgRg no AREsp n. 2.300.832/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/4/2023.)
+Nesse sentido:
+HABEAS CORPUS. DIREITO PENAL. ROUBO. INDIVIDUALIZAÇÃO DA PENA. MAUS ANTECEDENTES. CONDENAÇÃO QUE NÃO MAIS CONFIGURA REINCIDÊNCIA. UTILIZAÇÃO. POSSIBILIDADE, SALVO EXCEPCIONAIS PECULIARIDADES DO CASO CONCRETO. CONDENAÇÃO PRETÉRITA REFERENTE A FATO COMETIDO HÁ MAIS DE 11 (ONZE) ANOS ANTES DA DATA DO CRIME EM JULGAMENTO. APLICAÇÃO DA TEORIA DO DIREITO AO ESQUECIMENTO QUE SE MOSTRA ADEQUADA. PENA-BASE. MÍNIMO LEGAL. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. É certo que nesta Corte Superior de Justiça é pacífica a jurisprudência de que as condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de 05 (cinco) anos previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes.
+2. Contudo, há julgados no sentido de que os maus antecedentes, quando os registros forem muito antigos, podem sofrer relativização, admitindo-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento (REsp 1.707.948/RJ, Rel. Ministro Rogerio Schietti Cruz, DJe 16/  4/2018).
+3. No caso, o Paciente - condenado pelo crime de roubo praticado em 09/02/2017 - possui uma condenação anterior pelos delitos previstos nos arts. 10, caput, da Lei n. 9.437/1997 e 180, caput, do Código Penal, em concurso material, com trânsito em julgado em 02/06/2005.
+4. É certo que o Supremo Tribunal Federal, em sessão de julgamento realizada em 18/08/2020 e quando da análise do RE n. 593.818/SC, sob o rito de repercussão geral, cujo acórdão ainda está pendente de publicação, firmou a Tese n. 150 - "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" -, o que, contudo, não afasta a possibilidade do decote da avaliação negativa dos antecedentes, em razão das peculiaridades do caso concreto, especialmente o extenso lapso temporal transcorrido.
+5. Além disso, o art. 5.º, inciso XLVII, alínea b, da Constituição da República estabelece a vedação de penas de caráter perpétuo, o que inviabiliza a valoração negativa dos antecedentes criminais sem qualquer limitação temporal.
+6. Ordem de habeas corpus concedida para excluir a negativação da vetorial antecedentes e, por conseguinte, reduzir a pena definitiva do Paciente para 4 (quatro) anos de reclusão, em regime inicial aberto, com as condições a serem especificadas pelo Juízo das Execuções, além do pagamento de 10 (dez) dias-multa. (HC n. 547.465/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020.)
+Em conclusão: o agravante não apresentou fatos novos ou teses jurídicas diversas que permitam analisar o caso sob ótica diferente; logo, deve ser mantida incólume a decisão agravada.
+Ante o exposto , nego provimento ao agravo regimental.
+É o voto.
