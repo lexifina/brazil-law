@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta pela União, com fundamento no art. 988, IV, do CPC/2015, contra decisão proferida pelo Tribunal Regional Federal da 4ª Região.
+Sustenta o ente federal que a Corte a quo violou o que decidido no Incidente de Assunção de Competência nº 14, julgado pela Primeira Seção, já que determinou a sua permanência como legitimado passivo em ação na qual o particular postula o fornecimento de medicamento, ainda que, originalmente, proposta apenas contra o Estado do Rio Grande do Sul e o Município de Viamão.
+Narra que a ação foi distribuída perante a 3ª Vara Cível da Comarca de Viamão/RS; o juízo estadual, todavia, determinou a inclusão da União no polo passivo da demanda e declarou a incompetência da Justiça Estadual.
+Recebido o processo na Justiça Federal, o juízo federal determinou o prosseguimento do feito e a citação dos réus.
+A União interpôs agravo de instrumento contra a citada decisão, oportunidade na qual o TRF - 4 manteve o processo na Justiça Federal, sob a alegação de que o medicamento requerido pela parte autora, na ação originária, não é padronizado no âmbito do SUS, de forma que há necessidade de a União compor o polo passivo da demanda - conforme estabelecido pelo Tema de repercussão geral 793, no âmbito do STF, sendo obrigatória, portanto, a competência daquela Justiça para o processamento da causa.
+A reclamante defende, assim, que deve ser privilegiado o foro eleito pela parte autora, razão pela qual requer a devolução dos autos à Justiça Estadual.
+É o relatório. Decido.
+Entendo que os requisitos necessários para a concessão da liminar pleiteada pela União não se encontram presentes.
+Conforme narrado, o ente federal pretende que os autos originários retornem para a Justiça Estadual, diante dos parâmetros estabelecidos por este Tribunal, no julgamento do IAC 14, instaurado nos autos dos CC"s n. 187.276/RS, 187.533/SC e 188.0002/SC, relator Ministro Gurgel de Faria.
+A Primeira Seção do Superior Tribunal de Justiça, em sessão realizada em 12/04/2023, procedeu ao julgamento de mérito do referido incidente, e, por unanimidade, firmou as seguintes teses:
+a. Nas hipóteses de ações relativas à saúde intentadas com o objetivo de compelir o Poder Público ao cumprimento de obrigação de fazer consistente na dispensação de medicamentos não inseridos na lista do SUS, mas registrado na ANVISA, deverá prevalecer a competência do juízo de acordo com os entes contra os quais a parte autora elegeu demandar;
+b. as regras de repartição de competência administrativas do SUS não devem ser invocadas pelos magistrados para fins de alteração ou ampliação do polo passivo delineado pela parte no momento da propositura da ação, mas tão somente para fins de redirecionar o cumprimento da sentença ou determinar o ressarcimento da entidade federada que suportou o ônus financeiro no lugar do ente público competente, não sendo o conflito de competência a via adequada para discutir a legitimidade ad causam, à luz da Lei n. 8.080/1990, ou a nulidade das decisões proferidas pelo Juízo estadual ou federal, questões que devem ser analisada no bojo da ação principal.
+c. a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, é determinada por critério objetivo, em regra, em razão das pessoas que figuram no polo passivo da demanda (competência ratione personae), competindo ao Juízo federal decidir sobre o interesse da União no processo (Súmula 150 do STJ), não cabendo ao Juízo estadual, ao receber os autos que lhe foram restituídos em vista da exclusão do ente federal do feito, suscitar conflito de competência (Súmula 254 do STJ).
+(CC 187276/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 18/04/2023.)
+Na presente hipótese, o autor da ação originária requer o fornecimento do fármaco USTEQUINUMABE, que não consta na lista de remédios disponibilizados no SUS.
+Por se tratar de remédio não incorporado ao SUS, o TRF- 4 decidiu pela manutenção do processo na Justiça Federal, considerando que compete à União o fornecimento do fármaco.
+Outrossim, cabe a incidência da alínea c das teses fixadas no IAC 14: c. a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, é determinada por critério objetivo, em regra, em razão das pessoas que figuram no polo passivo da demanda (competência ratione personae), competindo ao Juízo federal decidir sobre o interesse da União no processo (Súmula 150 do STJ)  .. .
+A súmula 150 do STJ é clara ao determinar que "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+No caso em exame, o Juízo Federal entendeu pela legalidade do ente federal no polo passivo, na esteira, portanto, da Súmula n. 150/STJ, não restando caracterizado, assim, o desrespeito a decisões proferidas por este Tribunal Superior.
+Ante o exposto, indefiro o pedido de liminar.
+Citem-se os interessados, nos termos do art. 989, III, do CPC/2015.
+Solicitem-se informações ao reclamado.
+Após, abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
