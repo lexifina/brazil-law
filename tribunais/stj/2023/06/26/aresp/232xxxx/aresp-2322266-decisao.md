@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CENTROALCOOL S/A (em recuperação judicial), contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/3/2023.
+Concluso ao gabinete em: 31/5/2023.
+Ação: cumprimento de sentença ajuizada por CIAPETRO DISTRIBUIDORA DE COMBUSTÍVEIS LTDA., em face da agravante.
+Decisão interlocutória: rejeitou o pedido de exceção de pré-executividade formulado por CENTROALCOOL S/A (em recuperação judicial).
+Acórdão: negou provimento ao agravo de instrumento da agravante, nos termos da seguinte ementa (e-STJ fl. 59):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE CONCURSALIDADE DO CRÉDITO POR FATO SUPERVENIENTE. AFASTADA. COISA JULGADA. DECISÃO MANTIDA. 1. A sentença é o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios sucumbenciais e, na hipótese em apreço, ela foi proferida após o processamento do pedido de recuperação judicial. 2. A aprovação e consolidação de aditivo ao plano de recuperação judicial não é fato hábil a alterar o marco legal da sujeição dos créditos, qual seja, a data do pedido da recuperação judicial (art. 49, Lei 11.101/2005). 3. Inafastável a coisa julgada formada acerca da natureza extraconcursal dos honorários advocatícios executados, conclusão firmada no âmbito do Agravo de Instrumento nº 5417875.74.2018.8.09.0000, de forma que, admitir-se nova discussão acerca do tema afrontaria o princípio da segurança jurídica, previsto no artigo 5º, inciso XXXVI, da Constituição Federal de 1988. 4. Ausente qualquer teratologia, abusividade ou ilegalidade na decisão agravada, a sua confirmação é medida que se impõe. RECURSO CONHECIDO E DESPROVIDO.
+Recurso especial: alega violação ao artigo 49 da Lei n. 11.101/2005.
+Sustenta que " ..  todo o crédito do Recorrido foi classificado como crédito concursal junto à Recuperação Judicial proposta em 2014, portanto a sentença posterior com a condenação dos respectivos honorários sucumbenciais encontra-se vinculados a condição CONCURSAL, sob pena de ofensa ao princípio da igualdade dos credores concursais  .. " e, portanto, " ..  ainda que o crédito tenha sido constituído posterior ao processamento da Recuperação Judicial 02/07/2014, fato é que se encontra vinculado a processo de execução concursal  .. " (e-STJ fl. 82).
+Postula, ao final, que seja sanada a " ..  violação de LEI FEDERAL de n. 11.101/2005, para reconhecer que os honorários sucumbenciais fixados em sentença são créditos CONCURSAIS - classe I, diante da aprovação da PLANO de Recuperação, em Assembleia Geral de Credores  .. " (e-STJ fl. 89).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas.
+Quanto às questões aventadas pela parte recorrente, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 62/63):
+ ..  desnecessário adentrar à discussão acerca da natureza do crédito, quando o fato superveniente aventado pelo recorrente não infirma a conclusão de que a sentença é o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios sucumbenciais, e que, na hipótese em apreço, ela foi proferida após o processamento do pedido de recuperação judicial.
+Assim, é certo que a aprovação e consolidação de aditivo ao plano de recuperação judicial, em janeiro de 2020, não é fato hábil a alterar o marco legal da sujeição dos créditos à recuperação judicial (art. 49, Lei 11.101/2005), qual seja, a data do pedido.
+Em outras palavras, não ficou evidenciada circunstância que afaste a conclusão, firmada no âmbito do Agravo de Instrumento nº 5417875.74.2018.8.09.0000, de que se trata de "crédito constituído após o deferimento do processamento da recuperação judicial (crédito extraconcursal)" e portanto, "está excluído do plano e de seus efeitos (art. 49, caput, da Lei nº 11.101/2005)".
+Com efeito, como bem reconheceu o juízo singular, operou-se a coisa julgada quanto à questão posta em análise pelo excipiente/agravante, de forma que, admitir-se nova discussão acerca do tema afrontaria o princípio da segurança jurídica, previsto no artigo 5º, inciso XXXVI, da Constituição Federal de 1988  ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AREsp n. 182.361/SP, Terceira Turma, DJe de 10/5/2016; AgInt no AREsp n. 1.698.665/SP, Quarta Turma, DJe de 18/11/2020; e AgInt no AREsp n. 1.621.499/DF, Quarta Turma, DJe de 24/9/2020.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, nos termos do artigo 85, § 11, do CPC/2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE.
+1. Cumprimento de sentença.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
