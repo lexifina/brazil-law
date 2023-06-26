@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CLEIDE MOREIRA DOS SANTOS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/06/2022.
+Concluso ao gabinete em: 1º/03/2023.
+Ação: de declaração de ineficácia de sentença e nulidade ajuizada pela agravante em face de DÉCIO CORDEIRO LEMOS e DANIEL FERREIRA DOS SANTOS.
+Sentença: julgou extinto o processo com fundamento no art. 485, V e VI, do CPC.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+LOCAÇÃO - Ação declaratória de ineficácia de sentença proferida em embargos à execução e de nulidade de penhora - Coisa Julgada - Questões já suscitadas em diversas demandas e recursos propostos tanto pela esposa quanto por seu marido e até seus filhos ao longo de mais de 20 anos de tramitação processual, esgotadas todas as possibilidades de rediscussão, devidamente certificado o trânsito em julgado em todas as demandas anteriores - Provimento posterior do Supremo Tribunal Federal que, aliás, sequer tem efeito vinculante para os casos em que ainda é passível de discussão da matéria - Evidente inaplicabilidade a casos em que já foi definitivamente analisada a questão, não se justificando a nova tentativa de rediscussão dos temas sob o argumento de mudança de posicionamento jurisprudencial - Precedentes - Extinção do processo sem julgamento de mérito correta, com base no art. 485, V e VI, do Código de Processo Civil - Sentença mantida.
+Honorários advocatícios de sucumbência majorados, em aplicação ao disposto no artigo 85, §11, do Novo Código de Processo Civil, observada a gratuidade concedida.
+Apelação não provida. (e-STJ fl. 446)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 485, V e VI, 489, § 1º, II e IV, 492, 506 e 1.022 do CPC.
+Elucida que o feito de origem refere-se à embargos à execução. Segundo a recorrente, fora determinada a penhora de bem de família, no entanto não teria sido incluída para compor o polo passivo da demanda, não obstante exigência legal. Assim, sustenta a impossibilidade de existir coisa julgada material em seu desfavor.
+Assevera ter ingressado em juízo para discutir o vício, no entanto as ações ajuizadas foram extintas sem resolução do mérito e sem que tenha havido a devida prestação jurisdicional, o que ocasionou o cerceamento de sua defesa.
+Insta que o imóvel está prestes a ser expropriado, o que demonstra a urgência na apreciação da demanda.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Nesse sentido, já entendeu esta Corte não haver ofensa ao art. 489 do CPC/2015, quando o Tribunal de origem examina "de forma fundamentada a questão submetida à apreciação judicial, na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no REsp 1.956.582/RJ, 3ª Turma, DJe 9/12/2021). No mesmo sentido: REsp 1.996.298/TO, 3ª Turma, DJe 1º/9/2022; e AgInt no AREsp 1.954.373/RJ, 4ª Turma, DJe 7/10/2022.
+Da mesma forma, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu acerca dos pretensos vícios alegados pela agravante:
+De fato, impressiona a estratégia processual da apelante e de sua família, objetivando criar obstáculos há mais de 20 anos em face do apelado Décio, em decorrência da execução de um contrato de locação comercial firmado entre este e a empresa DIGILENE TELECOMUNICAÇÕES LTDA (anteriormente denominada LINEAR TELECOMUNICAÇÕES LTDA), do qual a apelante Cleide e seu marido Daniel (aqui curiosamente participante como réu/apelado) foram fiadores.
+Consta dos autos que o apelado Décio moveu ação de execução de título extrajudicial em julho de 1999(autos nº 0357883-39.1999.8.26.0009), discutindo a inadimplência que já somava mais de R$ 100.000,00 àquela época, decorrente do aluguel de salas comerciais e um terreno, firmado em outubro de 1997. Conforme se observa dos autos digitais originais, este contrato foi aditado em janeiro de 1998 apenas para se alterar a denominação social e endereço da locatária Digilene, que se chamava Linear, como acima mencionado, sem qualquer alteração quanto ao restante.
+Determinada a citação dos executados, consta às fls. 39 dos autos originais a citação tanto da apelante Cleide quanto do apelado Daniel, seu marido, em 20.09.99, sendo penhorado o imóvel pertencente ao casal de fiadores (fls. 40/42 daqueles autos).
+Embora devidamente citados, apenas o apelado Daniel apresentou embargos à execução (autos nº 1058/99 daquela época), nos quais já suscitadas as teses de nulidade e de proteção ao bem de família, dentre outras questões.
+ ..
+Da mesma forma, já se deixou claro que a eventual mudança de entendimento jurisprudencial sobre tema decidido de acordo com o posicionamento da época não implica em rediscussão da questão e alteração de acordo com o novo ponto de vista.
+Ainda, a despeito do entendimento adotado pela maioria da 1ª Turma do Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 605.709, o provimento jurisdicional, além de não unânime, não foi proferido em julgamento de recurso submetido ao rito das demandas repetitivas, não possuindo efeito vinculante.
+ ..
+Realmente, as questões objeto desta lide já foram definitivamente decididas nas diversas ações precedentes acima elencadas, desnecessários maiores esclarecimentos sobre as razões de manutenção da r. sentença, prejudicado o conhecimento dos demais temas suscitados pela apelante em seu recurso, sem violação a qualquer princípio ou dispositivo legal citado expressamente no apelo.
+A apelante já obteve pronunciamento judicial a respeito de todas as suas teses, suscitadas tanto por ela sozinha quanto em conjunto com seu marido Daniel, assim como com seus filhos, na mesma linha de raciocínio originalmente levantada por seu marido desde os embargos por ele opostos à execução em 1999 e que foram devidamente rejeitados. (e-STJ fls. 447/451)
+Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamentos não impugnados
+A agravante não impugnou os seguintes fundamentos utilizados pelo TJ/SP:
+Consta dos autos que o apelado Décio moveu ação de execução de título extrajudicial em julho de 1999(autos nº 0357883-39.1999.8.26.0009), discutindo a inadimplência que já somava mais de R$ 100.000,00 àquela época, decorrente do aluguel de salas comerciais e um terreno, firmado em outubro de 1997. Conforme se observa dos autos digitais originais, este contrato foi aditado em janeiro de 1998 apenas para se alterar a denominação social e endereço da locatária Digilene, que se chamava Linear, como acima mencionado, sem qualquer alteração quanto ao restante.
+Determinada a citação dos executados, consta às fls. 39 dos autos originais a citação tanto da apelante Cleide quanto do apelado Daniel, seu marido, em 20.09.99, sendo penhorado o imóvel pertencente ao casal de fiadores (fls. 40/42 daqueles autos).
+Embora devidamente citados, apenas o apelado Daniel apresentou embargos à execução (autos nº 1058/99 daquela época), nos quais já suscitadas as teses de nulidade e de proteção ao bem de família, dentre outras questões
+ ..
+Acolher a tese da apelante seria privilegiar a insegurança de todo o sistema jurídico, considerando os diversos pronunciamentos definitivos contrários às suas pretensões ao longo de tão grande período, apenas claramente objetivando retardar a satisfação do crédito inquestionável do apelado Décio, que já remonta a quantia milionária, como consta dos autos da execução original, conforme cálculo por ele apresentado já em outubro de 2019 (fls. 164 da ação original),causando estranheza a insistência na repetição dos mesmos argumentos por mais de 20 anos.
+Assim, era mesmo o caso de extinção da presente ação sem julgamento de mérito, nos termos do art. 485, V e VI, do Código de Processo Civil, já que as questões postas estão acobertadas pela coisa julgada, evidente a falta de interesse processual em buscar rediscutir questões decididas definitivamente há tanto tempo.(e-STJ fls. 448/452)
+Destarte, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17% sobre o valor da causa (e-STJ fl. 452) para 20%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEFICÁCIA DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OBSERVADA. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF.
+1. Ação de declaração de ineficácia de sentença.
+2. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+3. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
