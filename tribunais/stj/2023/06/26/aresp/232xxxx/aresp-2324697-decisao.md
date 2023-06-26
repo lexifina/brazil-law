@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "c", da Constituição Federal, interposto por BANCO SAFRA S A, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Execução de Título Extrajudicial. Decisão que determinou o imediato desbloqueio do valor de R$ 6.057,17, novamente bloqueado. Inconformismo. Constrição de salário. Entendimento anterior de não ser viável a mitigação da norma do artigo 833, IV, do CPC, para a penhora, ainda que parcial de salário, porquanto, possui natureza alimentar e por este motivo não poderia considerá-la passível de ser fracionada. Impenhorabilidade que abrangia a sua integralidade, pois se trata de contrapartida do trabalho da pessoa e servir à sua sobrevivência e de sua família. Evolução normativa, contudo, que cerca o tema, não se podendo deixar de observar a alteração semântica que houve entre o "caput" do artigo 649 do CPC/1973 ("São absolutamente impenhoráveis"), com o "caput" do artigo 833 do CPC/2015 ("São impenhoráveis"). Inserção do § 2o no artigo 833 do CPC. Leitura elementar, na vigência do novo CPC, que a despeito do teto, os vencimentos ou salários passaram a ser penhoráveis. Precedente do STJ. Caso concreto, todavia, que não permite a aplicação da mitigação. Decisão mantida. Agravo não provido."
+Nas razões do recurso especial, o agravante alega divergência jurisprudencial, sustentando, em síntese, a possibilidade de penhora de 30% dos vencimentos da parte agravada.
+É o relatório.
+Decido.
+O recurso não merece prosperar pela alínea "c" do permissivo constitucional em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
