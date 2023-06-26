@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. (HAPVIDA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. REQUISITOS PRESENTES. DESCONSTITUIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fl. 409).
+Nas razões do presente inconformismo, defendeu a inaplicabilidade da Súmula n.º 735 do STF, sob o entendimento de que, em situações de excepcionalidade, é cabível a interposição de recurso especial referente à antecipação de tutela.
+Não foi apresentada contraminuta (e-STJ, fl. 455.).
+É o relatório.
+DECIDO.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE CIRURGIA. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE INDEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ E DA SÚMULA N.º 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula n.º 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+2. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente agravo interno, PIETRO sustentou a inaplicabilidade das Súmulas n.ºs 7 do STJ e 735 do STF, pugnando pela condenação da HAPVIDA à cobertura da cirurgia porque a sua não realização pode lhe causar danos psíquicos e sociais, já que as mamas não são compatíveis com sua identidade de gênero.
+Como constou na decisão agravada, o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula n.º 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Ainda que assim não fosse, sobre a antecipação da tutela no presente caso, o TJSE consignou que:
+Nos termos do que dispõe o do artigo 300 do Código de Processo Civil de 2015, a tutela de urgência (meio apto a permitir que o Judiciário efetive, de modo célere e eficaz, a proteção a direitos em via de serem violados) será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Antes de adentrar no cerne da questão, mister fazer uma retrospectiva dos fatos que antecederam a interposição do recurso.
+Narram os autos que Malu do Nascimento Hora é titular do plano saúde HAPIVIDA ASSISTENCIA MÉDICA LTDA, foi diagnosticada com diabetes mellitus tipo 1 entre os meses de setembro/outubro de 2020, sendo recomendado pelo profissional médico responsável a utilização de sensores e equipamentos específicos para a doença, que melhoraram de forma inequívoca o seu gráfico glicêmico para dentro dos padrões normais.
+Que sem o tratamento, a condição de saúde da segurada se encontra em risco de graves complicações. Todavia, ao solicitar junto ao Plano de Saúde o fornecimento do tratamento indicado, recebeu a negativa, estando sem realizar o seu tratamento em virtude de não possuir condições financeiras de realizar a compra destes.
+Diante do acima exposto, ingressou com a presente demanda objetivando o fornecimento dos materiais de monitoramento de glicemia sanguínea, a qual foi deferida a tutela, ensejando a interposição do presente recurso.
+Pois bem. Em análise detida dos autos de origem, verifica-se que o quadro de saúde apresentado pela infante é muito grave, apresentando diabetes mellitus tipo 01. No relatório de fl. 59, apresentado pela médica responsável pelo tratamento da autora, Drª Mariana Varela - CRM 4261/SE atesta que:
+"O uso de sensor de monitorização contínua de glicose acrescenta vantagens à monitorização da glicemia capilar, pois avalia os valores de glicemia a cada 5 minutos e mostra setas de tendências (glicemia estável, aumentando ou diminuindo), o que possibilita ação antecipada para prevenir hipoglicemias ou hiperglicemias. O uso do sensor reduz a necessidade de medidas de glicemia capilar diária para, em média 2-3 vezes ao dia.
+O dispositivo Free Style Libre Flash Glucose Monitoring System (Abbott) realiza essa monitorização continua através de sensor instalado no braço do paciente que se conecta com um leitor ou aplicativo de celular. Com este aparelho, a glicemia pode ser verificada a qualquer momento do dia, sem a necessidade de furar o dedo, com acesso ao gráfico de glicemias do dia e às setas de tendência.
+Diversas evidências científicas mostram redução de hipoglicemias e maior tempo de glicemia dentro do alvo recomendado com o uso deste dispositivo. Cada sensor de monitorização dura 14 dias e seu uso deve ser contínuo."
+Vale registrar que a recorrida possui apenas três anos de idade. O fato do plano de saúde não aprimorar os seus quadros e a sua assistência médico-terapêutica na mesma velocidade em que se desenvolvem os tratamentos, não implica dizer que a aplicação mais indicada para cada situação, deva ser sonegada ao demandante em prejuízo de seu desenvolvimento.
+Como em quaisquer demandas de saúde, quem prescreve os tratamentos são os médicos e demais profissionais da área da saúde, que apontam as necessidades do paciente.
+Aliás, não se deve esquecer que o bem discutido em tela é a saúde. E a vida humana não pode ser objeto de negociação. A dignidade da pessoa humana, fundamento da República Federativa Brasileira, constitucionalmente garantida não pode ser relegada.
+O intuito da Carta Magna foi o de assegurar a todo cidadão, independentemente de sua condição econômica e social, o direito à saúde.
+É certo que o legislador permitiu que a assistência à saúde também fosse prestada através da livre iniciativa, porém, ressalvando, com o objetivo a evitar os abusos do setor privado, que tais serviços assumam o de relevância para o poder público, a fim de que este possa status fiscalizá-los e controlá-los.
+Desse modo, à luz da norma constitucional ora invocada, a atividade aberta à iniciativa privada relacionada à saúde tem por obrigação, , também, ser um meio fundamental de se garantir o direito à vida e à dignidade humana.
+Por isso, entendo que cláusulas de adesão, como as entabuladas nos contratos firmados entre planos de saúde e usuários devem ser interpretadas de forma restrita, em benefício do paciente, consoante inteligência do art. 47 do Código de Defesa do Consumidor.
+No presente caso concreto, a alegação de que o tratamento ora indicado não há evidências científicas de eficácia, sendo pesquisas realizadas de baixa qualidade, não merece prosperar.
+Existindo no Plano de Saúde da Autora cobertura para a enfermidade que acomete a agravada deve prevalecer o entendimento de que, se existe cobertura para tal patologia, a forma de tratamento necessário à recuperação da Demandante também se encontra coberta.
+Já está sedimentado o entendimento jurisprudencial segundo o qual a operadora de plano de saúde, ao oferecer contratualmente a cobertura para uma comorbidade, não pode criar obstáculos ao tratamento indicado pelo médico que assiste o segurado contratante do plano e seus dependentes (e-STJ, fls 201/202).
+Dessa forma, rever as conclusões adotadas pelo Tribunal estadual, quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula n.º 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. DECISÃO ANTECIPATÓRIA DE TUTELA DEFERIDA PARA QUE A RECORRENTE AUTORIZE A INTERVENÇÃO CIRÚRGICA DA RECORRIDA. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. EXAURIMENTO DA INSTÂNCIA RECURSAL ORDINÁRIA. EXISTÊNCIA. LIMINAR DE NATUREZA ANTECIPATÓRIA. LIMITES DA SUA REVERSIBILIDADE POR RECURSO ESPECIAL. INVIABILIDADE. SÚMULA 735 DO STF. PRECEDENTES. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A instância recursal ordinária está exaurida ainda que inexista a interposição de agravo interno contra a decisão monocrática de rejeição dos embargos de declaração opostos ao julgado colegiado, salvo se o recurso especial impugnar matéria tratada apenas na decisão singular dos aclaratórios. Precedente: EREsp 884.009/RJ, Rel. Ministro HAMILTON CARVALHIDO, CORTE ESPECIAL, julgado em 15/09/2010, DJe 14/10/2010.
+2. Esta Corte Superior, em sintonia com o disposto na Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Isso porque, não representa pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, não possui o condão de ensejar ofensa a legislação federal. Precedentes.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 1.908.912/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. REQUISITOS DO ART. 300 DO CPC. REEXAME. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 735 DO STF. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.850.814/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/9/2021, DJe de 23/9/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TUTELA D E URGÊNCIA INDEFERIDA. SÚMULA 735/STF.
+1. Ação de obrigação de fazer c/c compensação por danos morais, em decorrência de negativa de cobertura de procedimento cirúrgico para tratamento de doença coberta.
+2.Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Precedentes.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.786.627/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/4/2021, DJe de 28/4/2021)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
