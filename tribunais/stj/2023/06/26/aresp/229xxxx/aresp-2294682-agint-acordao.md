@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão de fls. 449-451, e-STJ, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo previsto no art. 1.042 do CPC/2015, ante a falta de impugnação de todos os fundamentos da decisão agravada (Súmula 182/STJ).
+No Agravo Interno, o insurgente alega, em suma (fl. 457, e-STJ):
+Com todo o respeito, o Estado se encoraja a pedir a reconsideração da decisão, o provimento do presente agravo interno. Isso porque o fundamento de violação ao art. 1022 não é prejudicial ao conhecimento da violação aos demais dispositivos de mérito. Ou seja, se este Colendo Tribunal deixar de reconhecer a nulidade do acórdão, não estará impedido de apreciar a violação aos demais dispositivos tidos por violados, entre eles a inadequação do mandado de injunção para reclamar alteração ou aperfeiçoamento de norma já existente; ou a não incidência da Consolidação das Leis do Trabalho para suprir matéria já regulamentada em norma própria e específica.
+O eventual provimento do recurso especial, cm seu mérito, com a mais respeitosa vênia, não é impedido pela superação ou mesmo a preclusão do pedido de anulação, por prestação jurisdicional incompleta.
+Transcorreu o prazo legal sem apresentação de contraminuta.
+O agravante pleiteia a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Recurso Especial do agravante foi inadmitido com base nos seguintes argumentos: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC e Súmula 280/STF. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao art. 1.022 do CPC. " (fl. 449, e-STJ).
+2. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Min.Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018).
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não obstante os argumentos expendidos, o inconformismo não merece guarida.
+O Recurso Especial do agravante não foi admitido com base nos seguintes argumentos (fl. 449, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC e Súmula 280/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao art. 1.022 do CPC.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Constata-se que, na petição de Agravo em Recurso Especial (fls. 334-351, e-STJ), não há impugnação sobre a ausência de afronta ao art. 1.022 do CPC, ante a inexistência de negativa de prestação jurisdicional no acórdão recorrido.
+O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+Com efeito, sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+No mesmo sentido: AgInt no REsp 1.783.482/MS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.
+Ademais, consigno ser necessária a impugnação de todos os capítulos da decisão negativa de admissibilidade do Recurso Especial, mesmo em se tratando do capítulo que aponta ausência de negativa de prestação jurisdicional, pois não há falar em capítulos autônomos nessa decisão.
+De todo o exposto, conclui-se que o Agravo em Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
