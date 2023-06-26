@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Cuida-se de agravo interno, interposto por BANCO DO BRASIL, contra decisão monocrática da Presidência desta Corte (fls. 183-184, e-STJ), que não conheceu do agravo em recurso especial da ora insurgente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 57-70, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO E INDIVIDUAL DESENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. DIFERENÇAS IPC E BTN. COMPETÊNCIA. INTERESSES METAINDIVIDUAIS. CONDENAÇÃO SOLIDÁRIA. EXECUÇÃO APENAS EM FACE DE SOCIEDADE DEECONOMIA MISTA. POSSIBILIDADE. JUSTIÇA COMUM. COMPETÊNCIA DA JUSTIÇAFEDERAL. AUSÊNCIA DE PRESSUPOSTO.
+1. Trata-se de agravo de instrumento interposto contra decisão que, nos autos de cumprimento provisório de sentença coletiva, firmou a competência desta Justiça para processar e julgar a ação.
+2. N aborda-se cumprimento provisório de sentença oriundo de acórdão proferido em sede de a origem, Recurso Especial na Ação Civil Pública n.º 94.008514-1, o qual condenou, solidariamente, a União, o Banco Central do Brasil e o Banco do Brasil S/A ao pagamento de diferenças apuradas entre o IPC de março de 1990 (84,32%) e o BTN fixado em idêntico período (41,28%), nos empréstimos de agricultores junto ao Banco do Brasil na modalidade Cédula de Crédito Rural.
+3. Nos termos do artigo 275 do Código Civil, o credor tem direito a exigir e receber de um ou de alguns dos devedores solidários a dívida em comum.
+4. Por sua vez, a teor do artigo 516, II, do Código de Processo Civil, o cumprimento de sentença efetuar-se-á, como regra, perante o juízo que decidiu a causa no primeiro grau de jurisdição.
+5. Tratando-se de execução individual de ação civil coletiva, a jurisprudência do STJ admite que os efeitos da coisa julgada da qual emanem direitos metaindividuais produzidos em processos coletivos transbordem os limites do juízo prolator, passando a ser aceito o ajuizamento da liquidação ou da execução individual do julgado perante outros foros.
+6. A consequência do ajuizamento de ação por cada um dos atingidos pelo fato apreciado na demanda coletiva é a dissociação dos atributos do processo coletivo para o individual - fazendo com que as avaliações acerca da legitimidade, interesse, competência (absoluta e relativa) sejam levadas a cabo à luz da execução individual, e não em consideração estrita ao processo coletivo.
+7. A referida dissociação, aliada ao fato de não integrar a parte demandada o rol das pessoas e/ou das situações que a Constituição Federal definiu para processamento perante a Justiça Federal, nos termos de seu artigo 109, afasta a competência da referida Justiça em razão da ausência de pressuposto.
+8. Segundo o STJ. "a competência da Justiça Federal é ratione personae, portanto nela somente podem litigar os entes federais elencados no art. 109, inciso I, da Constituição Federal, conforme está - assim, tendo a parte ajuizado a consolidado nos Enunciados 150, 224 e 254 da Súmula do STJ" execução apenas em face do Banco do Brasil, sociedade de economia mista, é competente a Justiça Distrital para processamento do feito.
+9. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 81-88, e-STJ).
+Nas razões do recurso especial (fls. 90-104, e-STJ), a insurgente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(i) 516, II, do CPC/2015, sob o fundamento de que o cumprimento de sentença deveria ser realizado perante o juízo federal, e não na justiça comum;
+Contrarrazões às fls. 132-144, e-STJ.
+Em juízo de admissibilidade (fls. 145-146, e-STJ), negou-se processamento ao reclamo, com amparo na Súmula 83/STJ.
+Em decisão monocrática (fls. 183-184, e-STJ), negou-se conhecimento ao agravo em recurso especial, ante sua intempestividade.
+Daí o presente agravo interno (fls. 188-190, e-STJ), no qual a agravante pontua que, distintamente do consignado pela Presidência desta Corte, a intimação da agravante ocorreu em 17.05.2019, o que denotaria a tempestividade do apelo.
+Impugnação às fls. 203-205, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A Corte Especial, no julgamento do EAREsp 1.663.952/RJ, em 19/5/2021, firmou entendimento de que, na hipótese de duplicidade de intimações, deve prevalecer a intimação eletrônica sobre a publicação no Diário de Justiça eletrônico. Necessária reconsideração da decisão da Presidência que reconhecia a intempestividade do agravo, com a consequente análise, de plano, do referido recurso.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, compete à Justiça Estadual o processamento de execução/liquidação de sentença coletiva direcionado apenas contra sociedade de economia mista, nas hipóteses em que o título executivo inclui, igualmente, pessoas jurídicas listadas no art. 109, I, da Constituição na qualidade de devedores solidários. Incidência da Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência de fls. 183-184, e-STJ. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+VOTO
+O agravo interno merece acolhida, porquanto os argumentos tecidos pela agravante são capazes de infirmar a decisão agravada.
+1. Conforme se depreende da certidão de fls. 199, e-STJ, a despeito da informação de que a decisão que inadmitiu o recurso especial foi disponibilizada em 07.05.2019 (fl. 147, e-STJ), a instituição financeira somente teve ciência do aludido decisum em 17.05.2019.
+Com efeito, segundo a jurisprudência desta Corte, "há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do mesmo artigo atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas. Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é provável que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica, posterior" (EAREsp n. 1.505.088/RJ, relator Ministro Raul Araújo, Segunda Seção, julgado em 26/4/2023, DJe de 3/5/2023.)
+Nesse contexto, prevalecendo a intimação pessoal, via sistema eletrônico, o prazo recursal deve ser contado a partir do dia 17.05.2019, o que denota a tempestividade do apelo.
+Logo, de rigor o afastamento da intempestividade do agravo, com a consequente análise, de plano, do recurso especial.
+A irresignação não merece prosperar.
+2. Segundo a jurisprudência desta Corte, compete à Justiça Estadual o processamento de liquidação/execução de sentença coletiva direcionado apenas em face de sociedade de economia mista, nas hipóteses em que haja em que houve, igualmente, a condenação de entes dispostos no art. 109, I, da CF, na condição de devedores solidários. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.309.643/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/4/2019, DJe de 2/5/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. SUSPENSÃO DO PROCESSO. AFASTAMENTO. VIOLAÇÃO AO ART 1.022 DO NCPC. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O JULGAMENTO DA EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DEMANDA DIRIGIDA EXCLUSIVAMENTE EM FACE DO BANCO DO BRASIL S/A. CHAMAMENTO AO PROCESSO. DESCABIMENTO. OBRIGAÇÃO SOLIDÁRIA PASSIVA. CREDOR PODE REQUERER O CUMPRIMENTO DA PRESTAÇÃO DE QUALQUER DOS DEVEDORES. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que compete à Justiça Estadual o processamento do feito ajuizado em face de sociedade de economia mista e, ainda, a possibilidade de o credor escolher cobrar a condenação de quaisquer dos devedores solidários.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.898.289/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 17/12/2021.)
+No caso em tela, a Corte local, ao assentar a competência do juízo estadual (fl. 65, e-STJ):
+Dito isso, as avaliações acerca da legitimidade, interesse, competência (absoluta e relativa) devem ser levadas a cabo à luz da execução individual - e com maior flexibilização, a fim de facilitar a tutela concreta dos interessados - e não em consideração estrita ao processo coletivo. No mais, repisa-se que o agravado ingressou apenas em desfavor do Banco do Brasil, sociedade de, vale dizer, inexiste a participação da União ou do Banco Central no pólo passivo economia mista.
+Tratando-se de condenação solidária, tampouco é necessário expor que pode o credor escolher contra quem litigar, a teor do que estatui o art. 275 do Código Civil - não havendo se falar em chamamento ao processo.
+Chama a atenção, portanto, que a parte demandada nos autos não integra o rol das pessoas e/ou das situações que a Constituição Federal definiu para processamento perante a Justiça Federal, nos termos de seu artigo 109.
+Logo, inviável o acolhimento da pretensão recursal, nos termos da Súmula 83/STJ.
+3. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão da Presidência de fls. 183-184, e-STJ, e, de plano, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
