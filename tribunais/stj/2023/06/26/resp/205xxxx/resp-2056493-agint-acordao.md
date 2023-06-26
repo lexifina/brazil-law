@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial, ante a incidência das Súmulas 280/STF e 7/STJ.
+Nas razões do recurso (fls. 184-191, e-STJ), alega-se:
+Portanto o que se espera é a aplicação do artigo 489 do Código de Processo Civil, bem como dos precedentes do Superior Tribunal de Justiça, no sentido de que a sentença deve ser interpretada não pela leitura de seu dispositivo, mas integrada a todos os elementos, em, principalmente, com base no princípio da boa-fé, destacando que, no presente caso, conforme foi o entendimento do Juízo da 6ª Vara da Fazenda Pública do Estado de Goiás, bem como da maioria dos Desembargadores do Egrégio Tribunal de Justiça do Estado de Goiás, no sentido de que os servidores representados pelo Sindicato dos Policiais Civis do Estado de Goiás fazem jusao recebimento da diferença salarial em razão do não pagamento do reajuste de 12,33% previsto no inciso II, do artigo 1º das Leis Estaduais n.º 18.419/2014, 18.420/2014 e 14.421/2014, de novembro de 2015 a novembro de 2018 em razão do "efeito cascata" já demonstrado nos autos.
+Impugnação às fls. 200-206, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. REAJUSTE DE 12,33%. LEI LOCAL. SÚMULA 280/STF. VIOLAÇÃO À COISA JULGADA. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Ao decidir a controvérsia, consignou o Tribunal estadual: "Compulsados os autos, verifica-se que a sentença prolatada na Ação Coletiva n. 0440990-61.2015.8.09.0051 julgou procedente o pedido para condenar o Estado de Goiás ao pagamento do reajuste de 12,33%, previsto nas Leis Estaduais ns. 18.419/2014, 18.420/2014 e 18.421/2014, no tocante ao pagamento previsto nos artigos 1º, incisos II, de cada uma das normas supracitadas, os quais deveriam ser pagos em novembro de 2015. Os artigos 1º, incisos II, das referidas legislações estaduais, estabelecem como percentuais e datas de vigências: (..) Volvendo ao caso vertente, após detida análise dos cálculos apresentados pelas partes, constata-se que aqueles lançados pelo exequente/agravado e homologados pelo Juízo a quo, de fato, extrapolam os limites da coisa julgada".
+3. A análise da controvérsia demandaria o exame de legislação local, providência vedada nesta via recursal, conforme Súmula 280/STF. Com efeito, da forma como definido pelo Colegiado a quo, seria imprescindível a análise das Leis estaduais 18.419/2014, 18.420/2014 e 18.421/2014.
+4. Outrossim, "a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do Recurso Especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 22.3.2012).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5.6.2023.
+A irresignação não merece prosperar, pois não foram apresentados argumentos suficientes para a reforma da decisão agravada.
+Em síntese, o recorrente defende que a interpretação conferida pelo Tribunal de Justiça do Estado de Goiás ao título executivo judicial, formado no processo n. 0440990.61.2015.8.09.0051, está equivocada.
+Ao decidir a lide, assim se manifestou a Corte local:
+Compulsados os autos, verifica-se que a sentença prolatada na Ação Coletiva n.0440990-61.2015.8.09.0051 julgou procedente o pedido para condenar o Estado de Goiás ao pagamento do reajuste de 12,33%, previsto nas Leis Estaduais ns. 18.419/2014, 18.420/2014 e 18.421/2014, no tocante ao pagamento previsto nos artigos 1º, incisos II, de cada uma das normas supracitadas, os quais deveriam ser pagos em novembro de 2015.
+Os artigos 1º, incisos II, das referidas legislações estaduais, estabelecem como percentuais e datas de vigências:
+(..)
+À luz dessa compreensão, a sentença proferida na ação coletiva reconheceu o direito dos servidores ao recebimento, exclusivamente, do reajuste de 12,33% que deveria ter sido implementado em novembro/2015, ou seja, antes mesmo do advento da lei revogadora (dezembro/2015), que o postergou para novembro/2016, malferindo, assim, direito adquirido (pois incorporado no patrimônio dos servidores)."
+Volvendo ao caso vertente, após detida análise dos cálculos apresentados pelas partes, constata-se que aqueles lançados pelo exequente/agravado e homologados pelo Juízo a quo, de fato, extrapolam os limites da coisa julgada.
+Isso porque a planilha colacionada nos autos do cumprimento de sentença discrimina, como período das diferenças, os valores devidos e recebidos de 10/2015 até 11/2018. Contudo, a sentença coletiva (título executivo que embasa a execução individual) reconhece o dever de pagamento de reajuste no percentual e período de 11/2015 a 11/2016.
+Por isso, não há como incluir no cálculo as parcelas referentes aos artigos 1º, incisos III e IV, das leis supracitadas (como demonstrou o cálculo do exequente), sob pena de violação à coisa julgada e ao princípio da segurança jurídica, previstos nos artigos 502 e 503 do Códex Processual Civil e no artigo 5º, inciso XXXVI, da Lei Maior.
+A análise da controvérsia demandaria o exame de legislação local, providência vedada nesta via recursal, conforme a Súmula 280/STF. Com efeito, da forma como definido pelo Colegiado a quo, seria imprescindível a análise das Leis estaduais 18.419/2014, 18.420/2014 e 18.421/2014.
+Outrossim, "a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do Recurso Especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 22.3.2012).
+Por fim, rejeito o pedido de suspensão do processo até o julgamento do IRDR n. 5557428-97.2022.8.09.0000, uma vez que eventual decisão proferida pela Corte local, nesse caso, não terá influência sobre as conclusões aqui lançadas, que dizem respeito à admissibilidade do Apelo Especial.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
