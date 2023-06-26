@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por CLARION S/A AGROINDUSTRIAL E OUTRAS, contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 316):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO DE 1º GRAU QUE DETERMINOU O DESMEMBRAMENTO DO PROCESSO E REMETEU OS AUTOS ÀS COMARCAS DAS RESPECTIVAS SEDES ESTATUTÁRIAS OU CONTRATUAIS. DECISÃO REFORMADA. COMPETÊNCIA DO JUÍZO DO LOCAL DO PRINCIPAL ESTABELECIMENTO DO DEVEDOR. ART. 3º, LEI Nº 11.101/2005. PRECEDENTES DO STJ. RECURSO PROVIDO. O principal estabelecimento do devedor, para fins do disposto no art. 3º da Lei nº 11.101/2005, não é, necessariamente, aquele formalmente constante no estatuto ou contrato social, mas sim o local onde são exercidas as principais atividades da empresa.
+Opostos embargos de declaração, foram rejeitados (fl. 342):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DECLINADA. DECISÃO REFORMADA PELO ACÓRDÃO EMBARGADO. ALEGAÇÃO DE OMISSÃO. ART. 535, II, CPC. INOCORRÊNCIA. EMBARGOS REJEITADOS. Os embargos de declaração são cabíveis somente para sanar omissão, obscuridade ou contradição contida no decisum ou, para sanar erro material, conforme art.535 do Código de Processo Civil.
+Afirmam as recorrentes que o acórdão recorrido viola o art. 3º da Lei 11.101/2005, porquanto a comarca de Ibaiti/PR seria a competente para as suas recuperações judiciais.
+Salientam que o Tribunal de origem não teria levado "em consideração que todas as recuperandas participaram do agravo, seja como "agravadas", seja como interessadas, e encontram-se na mesma situação fática e documental, de modo que também mantêm o seu principal estabelecimento na Comarca de Ibaiti (PR), a qual, dessa forma, é o Juízo competente para os processos de recuperação judicial de todas elas, a teor do disposto noartigo 3º da Lei n. 11.101/2005." (fl. 392)
+Aduzem (fl. 396):
+Os sócios, os administradores e a maior parte de seus funcionários (90%) estão alocados na cidade de Ibaiti (PR). Aliás, é nessa cidade que foram (e são) tomadas todas as decisões administrativas, financeiras e operacionais das recorrentes, como revelam os anexos documentos. É na cidade de Ibaiti (PR), também, que se encontram a maior parte dos bens patrimoniais e as receitas de todas as recuperandas- é a unidade de Ibaiti responsável por quase todo o faturamento das empresas e de onde se pagam todas as contas (salários, fornecedores etc.).
+3.5. E como se disse na inicial do pedido de recuperação judicial: a única unidade produtiva e responsável por quase a totalidade do faturamento das recuperandas está localizada na cidade de Ibaiti.
+3.6. As recuperandas, ora recorrentes, portanto, dependem econômico-financeiramente das atividades desenvolvidas na cidade de Ibaiti. Por isso, a cidade de Ibaiti passou a ser o centro vital da tomada de todas as decisões administrativas e estratégicas das recorrentes, tornando-se, com toda a certeza, a força atrativa e motriz deste pedido de recuperação judicial.
+Logo, do ponto de vista econômico, a Comarca de Ibaiti atrai a competência para o processamentodo pedido de recuperação judicial das recorrentes.
+Verberam ainda que, embora tenha o julgamento atacado reconhecido, pelo quadro fático dos autos, que o seu principal estabelecimento está na cidade de Ibaiti/PR, limitou essa conclusão apenas às sociedades empresárias integrantes do Grupo Econômico Manacá: Manacá Agropecuária Ltda., Manacá Transportes Ltda, Agroindustrial e Mineração Diacal Ltda e Manacá S/A Armazéns Gerais e Administração.
+Não foram apresentadas contrarrazões (fl. 416).
+O especial não foi admitido na origem por falta de prequestionamento (fls. 417-418).
+É o relatório. Decido.
+Intimadas as agravantes a dizerem se ainda tinham interesse recursal, quedaram-se inertes (fls. 502-515).
+A súplica, em tal contexto, encontra-se prejudicada, por falta de objeto.
+Ante o exposto, nos termos do art. 932, III, do CPC c/c o art. 34, XVIII, a, do RISTJ, não conheço do recurso.
+Publique-se.
