@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado (fls. 352-353, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO EMBARGOS À EXECUÇÃO FISCAL. ISS. NULIDADE DA CDA. NÃO VERIFICADA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. DESNECESSÁRIA A EMENDA DA CDA. COMPETÊNCIA PARA A COBRANÇA DO ISS. PAGAMENTO DEVIDO AO MUNICÍPIO ONDE SEDIADO O ESTABELECIMENTO DO PRESTADOR. MUNICÍPIO DE SÃO PAULO. FATO GERADOR OCORRIDO ANTES DA LC 116/2003. VERBAS SUCUMBENCIAIS. SENTENÇA REFORMADA. APELOS CONHECIDOS E PROVIDOS EM PARTE.
+1. Mostra-se como requisito essencial à regularidade da Certidão de Dívida Ativa a indicação da origem e da natureza do crédito, indicando especificamente os dispositivos de lei em que a execução encontra-se fundada, consoante previsão dos art. 202, inciso III, do CTN e art. 2.º, § 5.º, inc. III, da Lei n.º 6.830/1980.
+2. No caso, a Certidão de Dívida Ativa informa claramente os dispositivos legais que fundamentam a execução, podendo-se depreender que o crédito tributário foi constituído por meio de auto de infração, com valores original e atualizados do débito, trazendo expresso os dispositivos legais que alicerçam a cobrança, não se podendo falar em nulidade, remanescendo a presunção de liquidez e certeza da CDA.
+3. De acordo com o art. 2.º, § 8.º da LEF e a Súmula 392 do STJ a CDA não pode ser emendada ou substituída após a decisão de primeira instância. Ademais, tendo em vista que consta na CDA todos os requisitos indispensáveis, esta não goza de nulidade, não havendo que se falar na sua emenda ou substituição.
+4. O STJ, no julgamento do REsp n.º 1.060.210/SC, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, regra geral, o município competente para a cobrança do ISS é aquele onde sediado o estabelecimento do prestador.
+5. Dessa forma, apenas depois da vigência da LC 116/2003 é que município competente para exigir o imposto sobre serviço de qualquer natureza é aquele no qual se situa o estabelecimento do prestador. Antes disso, como no caso, a competência é município competente para a cobrança do ISS é aquele onde sediado o estabelecimento do prestador, no caso, o município de São Paulo.
+6. Tendo em vista que o município competente para a cobrança do ISS é aquele onde sediado o estabelecimento do prestador, no caso, o município de São Paulo e considerando que o ISS destacado naquelas notas foi declarado e pago ao município de São Paulo-SP, não há razão para a aplicação das multas correspondentes.
+7. Por fim, considerando que a embargante Alcatel-Lucent Brasil S/A sucumbiu em parte mínima dos pedidos, condena-se o Município do Salvador ao pagamento dos honorários advocatícios, fixados em 5% (cinco por cento) sobre o valor atualizado da causa, com fundamento no art. 85, §§ 2.º e 3.º, III, do CPC.
+Os Embargos de Declaração foram acolhidos sem alteração do resultado, conforme a ementa abaixo transcrita (fls. 385-390, e-STJ):
+EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. COMPETÊNCIA PARA A COBRANÇA DO TRIBUTO. MUNICÍPIO DE SÃO PAULO. LEI COMPLEMENTAR 113/03. ENTENDIMENTO DO STJ. VERIFICADA CONTRADIÇÃO. INEXISTÊNCIA DE OMISSÕES. EMBARGOS CONHECIDOS E PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+O agravante afirma:
+É incontroverso nos autos que a recorrida também possuia estabelecimento em Salvador. Sobre esse estabelecimento em Salvador, discute-se apenas qual era a sua função. A recorrida afirmou, na inicial dos seus embargos à execução, que " o estabelecimento da EMBARGANTE em Salvador não executava qualquer dos serviços indicados, somente efetivava os contratos comerciais"(fl.2).
+(..)
+O Município recorrente não quer que o STJ analise a prova pericial. Apenas transcreve trechos da sentença de primeiro grau para demonstrar que a discussão acerca das atividades desenvolvidas nos estabelecimentos de Salvador e de São Paulo é fundamental para a solução do caso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.6.2023.
+A irresignação não merece acolhida.
+O Tribunal a quo consignou (fls. 352-359, e-STJ):
+O Superior Tribunal de Justiça, no julgamento do REsp n.º 1.060.210/SC, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, regra geral, o município competente para a cobrança do ISS é aquele onde sediado o estabelecimento do prestador
+(..)
+Tendo em vista que o município competente para a cobrança do ISS é aquele onde sediado o estabelecimento do prestador, no caso, o município de São Paulo e considerando que o ISS destacado naquelas notas foi declarado e pago ao município de São Paulo-SP, não há razão para a aplicação das multas correspondentes.
+Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado estadual julgou integralmente a lide e solucionou a controvérsia em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+Como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses do recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Diante do exposto, conheço do Agravo para negar provimento a o Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
