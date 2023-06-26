@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 22/08/2022.
+Concluso ao Gabinete em: 14/06/2023.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada por SERGIO MARCOS SOUZA DE MORAES em desfavor de GUAIUBA TRANSPORTES LTDA.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+AÇÃO INDENIZATÓRIA. Responsabilidade civil. Fortuito interno. Transporte coletivo de passageiros. A responsabilidade objetiva do transportador de pessoas está delineada no CDC e nos artigos 734 e 735, do Código Civil. Falha na prestação de serviço. Constatada a imperícia e imprudência do motorista. Dever de transportar pessoas de modo que cheguem incólumes ao seu destino. Danos materiais. Reembolso de apenas um medicamento receitado pelo médico. Danos morais in re ipsa. Indenização fixada de acordo com os princípios da proporcionalidade e razoabilidade. Precedentes. Obrigação solidária das rés. A Seguradora responderá nos limites da apólice contratada. Afastada a incidência de juros de mora sobre o montante devido pela Seguradora em liquidação extrajudicial. Incidência do artigo 18, "d", da Lei nº 6.024/1974. Juros que não fluem no período, e são devidos somente após o pagamento dos credores, caso haja saldo positivo. Precedentes STJ e desta Corte. Sentença reformada. RECURSO PARCIALMENTE PROVIDO. (e-STJ Fl. 689)
+Recurso especial: alega ofensa aos arts. 768 e 944 do CC/02, 8º do CPC/15, e 3º da Lei nº 6.194/74. Insurge-se contra o arbitramento de compensação por danos morais na hipótese, deduzindo a desproporcionalidade do valor fixado.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido em razão dos seguintes fundamentos: a) ausência de demonstração da alegada vulneração dos arts. 768 e 944 do CC, 3º da Lei 6.194/1974 e 8º do CPC/15; b) incidência da Súmula 7/STJ; e c) falta de comprovação do dissídio jurisprudencial.
+Entretanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, a par de não refutar todos os fundamentos dispostos, a agravante cinge-se a apontar genericamente a inaplicabilidade da Súmula 7/STJ à hipótese.
+Cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se, ainda quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente dos fundamentos da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e no art. 932, III, do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente (e-STJ Fl. 710).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
