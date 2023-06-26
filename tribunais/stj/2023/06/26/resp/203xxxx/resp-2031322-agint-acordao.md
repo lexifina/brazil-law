@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, contra decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA E DE RECOMPOSIÇÃO DA RESERVA MATEMÁTICA CORRESPONDENTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA282/STF. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. TEMA 955/STJ. INADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL.
+1. Ação de complementação de aposentadoria c/c recomposição da reserva matemática correspondente.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Não há interesse recursal da PREVI em pleitear o afastamento de compensação de valores das cotas patronal e do participante, com valores a serem recebidos com a revisão do benefício complementar, quando o Tribunal de origem decidiu que "não há pertinência em se falar em compensação".
+4. De acordo com a orientação da Segunda Seção, "contra a decisão da Presidência do Tribunal de origem que nega seguimento ao recurso especial ou extraordinário, ao argumento de que o acórdão recorrido estaria em conformidade com entendimento firmado em recurso repetitivo ou em repercussão geral, cabe apenas agravo interno, sendo inadmissível o agravo em recurso especial (art. 1.030, § 2º, do CPC/2015)".
+5. Agravo conhecido em parte. Recurso especial não conhecido.
+Sustenta a agravante que a decisão que negou seguimento ao recurso especial se fundamenta "tanto pelo art. 1.030, I, b, quanto pelo art. 1.030, v, do CPC, motivo pelo qual a Previ interpôs simultaneamente agravo interno (art. 1.021) e agravo em recurso especial (art. 1.042)" (fl. 2.114, e-STJ) e que, assim, "resta demonstrado que a Previ agiu nos termos da interpretação dada pelo próprio STJ aos §§ 1º e 2º do art. 1.030,do CPC, portanto não há dúvidas quanto ao cabimento do Agravo em Recurso Especial" (fl. 2.115, e-STJ).
+Alega que "não se pode falar de ausência de prequestionamento aos artigos apontados como violados no especial, notadamente porque esta Egrégia Corte Superior já decidiu, por vezes, pela desnecessidade de que os dispositivos legais tidos por violados constem, expressamente, no acórdão recorrido, sendo suficiente que o Tribunal de origem tenha emitido juízo de valor sobre a questão federal em debate" (fl. 2.116, e-STJ).
+Afirma que "o Tribunal de origem extrapolou a tese firmada ao condenar a Previ em honorários de sucumbência" porque "antes da liquidação de sentença e subsequente opção do demandante por recompor ou não a reserva matemática, não é possível declarar a Previ como sucumbente" (fl. 2.120, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA E DE RECOMPOSIÇÃO DA RESERVA MATEMÁTICA CORRESPONDENTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA282/STF. RECURSO ESPECIAL INADMITIDO NA ORIGEM. TEMA 955/STJ. INADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL.
+1. Ação de complementação de aposentadoria c/c recomposição da reserva matemática correspondente.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. De acordo com a orientação da Segunda Seção, "contra a decisão da Presidência do Tribunal de origem que nega seguimento ao recurso especial ou extraordinário, ao argumento de que o acórdão recorrido estaria em conformidade com entendimento firmado em recurso repetitivo ou em repercussão geral, cabe apenas agravo interno, sendo inadmissível o agravo em recurso especial (art. 1.030, § 2º, do CPC/2015)".
+4. Agravo interno não provido.
+VOTO
+Quanto ao cabimento do agravo em recurso especial, para examinar a aplicação do tema 955/STJ, a jurisprudência desta Corte orienta que "contra a decisão da presidência do Tribunal de origem que nega seguimento ao recurso especial ou extraordinário, ao argumento de que o acórdão recorrido estaria em conformidade com entendimento firmado em recurso repetitivo ou em repercussão geral, cabe apenas agravo interno, sendo inadmissível o agravo em recurso especial (art. 1.030, § 2º, do CPC/2015)" (REsp n. 1.890.526/GO, Terceira Turma, julgado em 14/3/2023, DJe de 23/3/2023). No mesmo sentido: AgInt no AREsp n. 1.231.524/PE, Quarta Turma, julgado em 25/9/2018, DJe de 28/9/2018).
+No particular, ao julgar o agravo interno interposto pela PREVI, simultaneamente ao agravo em recurso especial, contra a decisão que inadmitiu o seu recurso especial, registrou o TJ/DFT que o acórdão recorrido "coincide com as citadas orientações do STJ" (fl. 2.060, e-STJ), referindo-se às teses contidas no tema 955/STJ.
+Logo, o agravo em recurso especial é inadequado para discutir, nesta instância, a aplicação do tema 955/STJ, como pretende a PREVI.
+Com relação à incidência da súmula 282/STF, constata-se que os arts. 884 e 885 do CC/2002 e o art. 85, § 2º, do CPC/2015 não foram examinados pelo TJ/DFT, tampouco a agravante se desincumbiu do ônus de demonstrar que as respectivas questões foram debatidas na origem , de modo a impugnar, devidamente, a aplicação do óbice.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
