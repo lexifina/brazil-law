@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, a parte agravante não enfrentou adequadamente as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo re gimental interposto por LUIS ANTONIO LOBO CARDOSO e RUDNEY LOPES DE SOUZA contra a decisão (fls. 1.564-1.566) que não conheceu do agravo em recurso especial.
+Consta dos autos que os agravantes foram condenados como incursos na pena do artigo 305 (concussão) c/c artigo 70, inciso II, letra "I", todos do Código Penal Militar, às penas de 08 (oito) anos de reclusão, em regime inicial fechado, o que foi modificado pelo Tribunal de origem, alterando às penas de ambos para 8 (oito) anos e 08 (oito) meses de reclusão, em regime inicial fechado.
+Os embargos de declaração (fls.1382-1394), opostos foram, por unanimidade, rejeitados (fls.1404-1410).
+Interposto recurso especial, as defesas alegaram violação aos artigos 2º, inciso II da lei federal n. 9296/96, 5º da Lei 9296/96, e artigo 500, inciso I do Código de Processo Penal Militar, ao argumento de que a quebra de sigilo telefônico, que deu início a toda a investigação, bem como as prorrogações das interceptações, foi realizada de maneira irregular.
+O recurso especial foi inadmitido em razão dos óbices das Súmulas n. 7 do STJ, e n. 284 do STF.
+No Superior Tribunal de Justiça, o agravo em recurso especial não foi conhecido ante a ausência de impugnação específica dos fundamento da decisão de inadmissão.
+No regimental (fls. 1569-1576), a defesa sustenta que os verbetes sumulares restaram plena e satisfatoriamente impugnados nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. E, assim, pede a reconsideração da decisão impugnada e, sucessivamente, a apresentação do recurso ao Colegiado.
+O Ministério Público Federal opinou pelo não provimento do agravo regimental (fls. 1.586-1.589).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Incidência da Súmula n.º 182 do STJ. Precedentes.
+II - Na hipótese dos autos, a parte agravante não enfrentou adequadamente as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que os agravantes não enfrentaram as teses que levaram ao não conhecimento do agravo em recurso especial, tendo se limitado a manifestar seu inconformismo com o mérito da controvérsia e com a dinâmica de admissibilidade recursal adotada no Superior Tribunal de Justiça.
+Em relação à incidência da Súmula n. 7, STJ, em síntese, os recorrentes se limitaram a repetir os argumentos do recurso especial e aduzir que (fls. 1.573-1.574):
+"Dos fundamentos da decisão agravada, nãoé objeto do enunciado da Súmula 07 do STJ. O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustadano enunciado da Súmula 07, desta Corte Superior -STJ.
+Busca-se o reconhecimento do direito, que foram violados, conforme dispositivos legais de norma federal, quais sejam: art. ART. 2º, INCISO II DA LEI 9296/96 e artigo5º DA LEI 9296/96, além do incisoI, doartigo500, DO CÓDIGO DE PROCESSO PENAL MILITAR, razão pela qual, faz se necessária a revaloração jurídica dos fatos, com a devida aplicação do direito ao caso concreto, conforme precedentes dessa Corte Superior.
+(..)
+Ademais, o STJ reiteradamente admite a revaloração jurídica dos fatos, com a devida aplicação do direito ao caso concreto, conforme precedentes sobre o tema (..)."
+Como se sabe, é dever da parte demonstrar a eventual desnecessidade da análise do conjunto fático-probatório para o deslinde da questão, deixando claro que os fatos foram devidamente consignados no acórdão impugnado, o que não ocorreu na hipótese. Isso porque, a simples assertiva genérica de que se trataria de matéria exclusivamente de direito e que não seria necessário revolvimento fático-probatório não é suficiente para o conhecimento do recurso especial. Precedentes: AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016). No mesmo sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Já quanto ao óbice da Súmula 284 do STF, a defesa menciona brevemente que (fl. 1.573):
+""(d)os fundamentos da decisão agravada, não é objeto do enunciado da Súmula 284do STF. Foi atacado todos os fundamentos da decisão agravada. O princípio da dialeticidade, está presente no AREsp, foi especificadamente, infirmado.""
+Neste ponto, não basta o mero apontamento da inaplicabilidade do óbice sumular. A parte deve esclarecer o rechaço aos pontos esteares da decisão de admissibilidade, bem como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Consoante orientação jurisprudencial já consolidada, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia. Nesse sentido: AgRg na RvCr n. 5.740/RS, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 3/4/2023; EDcl no AgRg na RvCr n. 4.570/DF, Terceira Seção, Rel. Min. Sebastião Reis Júnior , DJe de 14/5/2019.
+Verifico, pois, que houve manifesta ofensa ao princípio da dialeticidade, por ausência de demonstração do desacerto do juízo de admissibilidade efetuado pela Presidência deste Tribunal, o que reclama a aplicação, por analogia, da Súmula n.º 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
