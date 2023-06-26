@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto de decisão monocrática que conheceu do Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+A parte agravante sustenta:
+Não se olvida que o DF utilizou dos aclaratórios em conformidade com o disposto no art. 1.022 do CPC, na medida em que apontou a existência de omissões e erro material no acórdão de apelação.
+Nesse sentido configura-se a negativa de prestação jurisdicional, uma vez que o Tribunal de origem se quedou inerte diante das omissões e do erro material questionados pelo DF em sede de embargos de declaração.
+(..)
+O E. TJDFT, em sede de apelação, deu parcial provimento ao apelo para declarar a não incidência do ISS sobre a atividade exercida pelo agravado bem como para determinar a restituição dos valores cobrados e pagos, observando-se o prazo prescricional de cinco anos.
+Todavia, como evidenciado, a Turma julgadora, ao dar provimento ao apelo do recorrente, excedeu os pedidos iniciais determinando a restituição dos valores pagos em observação ao prazo prescricional de cinco anos.
+Em atenção ao princípio da congruência, o juiz ou órgão julgador fica limitado ao pedido formulado pela parte autora, e, caso decida fora dos limites propostos incorrerá em julgamento ultra petita.
+(..)
+Nesse sentido, considerando que o pedido inicial do ora agravante limitava-se ao pedido de restituição dos valores pagos à título de ISS referentes apenas aos parcelamentos 4106272155 e 7475550779, o acórdão de apelação abordou a determinação de restituição dos valores de forma imprecisa, possibilitando a restituição de outros valores, que não pleiteados pelo recorrente em sua exordial, no período em que o prazo prescricional não se findaria.
+(..)
+Especificamente em relação à omissão "iii", foi atribuída a incidência do óbice da Súmula nº 284/STJ, em decorrência de suposto não reconhecimento, por parte do DF, do fato de que o acórdão recorrido, embora não tenha delimitado o critério de correção monetária, determinou "que a restituição dos valores cobrados e pagos indevidamente" deveria ser realizada na fase de cumprimento de sentença.
+Ora, com a vênia devida, o fato de o acórdão recorrido ter definido que a apuração dos valores devidos deveria ser realizada na fase de cumprimento de sentença não altera a circunstância de que o acórdão recorrido não definiu o critério de correção monetária do título executivo que embasará a estipulação do quantum debeatur.
+É que o critério de correção monetária é um elemento do próprio título, o qual deve ser considerado quando da elaboração dos cálculos na fase de cumprimento de sentença. Exatamente por isso, o critério de correção monetária deve ser estabelecido na fase de conhecimento, para que ele possa embasar a conta da condenação, que é um simples cálculo.
+(..)
+Logo, os apontamentos de omissão em relação à necessidade de definição do critério de correção monetária, bem como da violação ao art. 491, §1º, do CPC, diante do não cumprimento do comando, ensejaram a interposição do recurso especial. E o fato de o acórdão recorrido ter mencionado que a apuração do valor devido seria feita em cumprimento de sentença não supre a omissão perpetrada pelo acórdão recorrido.
+É possível que se discorde da posição do DF, mas, com a vênia devida, não é possível aplicar ao caso o óbice da Súmula nº 284/STJ, na medida em que a pretensão recursal foi deduzida de forma suficientemente clara e justificada: o acórdão deveria ter estabelecido o critério de correção monetária, em atenção ao art. 491, §1º, do CPC, mas não cumpriu com sua obrigação.
+Da mesma maneira, a pretensão de saneamento dessa omissão não obsta o reconhecimento do julgamento ultra petita, na medida em que que são capítulos distintos da mesma decisão.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 362-369, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA ENTRE AS RAZÕES DE DECIDIR E OS FUNDAMENTOS FORNECIDOS PELO RECURSO. SÚMULA 284 DO STF. ALEGAÇÃO DE JULGAMENTO ALÉM DOS LIMITES DO PEDIDO FORMULADO NA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. ATIVIDADE DESEMPENHADA PELA RECORRENTE. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porquanto não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+2. A ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+3. Não obstante as razões explicitadas pela instância originária, no sentido de que a restituição dos valores cobrados e pagos indevidamente serão apurados na fase de Cumprimento de Sentença, a parte recorrente alega omissão referente ao índice de correção monetária a ser adotado. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado. Logo, aplica-se na espécie, por analogia, a Súmula 284 do STF, ante a deficiência na motivação.
+4. Quanto à alegação de existência de condenação além dos limites do pedido formulado na petição inicial, conforme os arts. 141 e 492 do CPC/2015, o vício de julgamento extra petita não se vislumbra na hipótese em que o juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, procede à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu.
+5. O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico-sistemática da peça inicial aquilo que se pretende obter com a demanda.
+6. O órgão julgador decidiu a questão relativa à atividade desempenhada pela recorrente após percuciente análise dos fatos e das provas relacionados à causa e é certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado passa por revisitar o acervo fático-probatório, o que é vedado na via eleita, de acordo com a Súmula 7/STJ.
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.5.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porquanto não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+A ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 14.9.2021)
+No enfrentamento da matéria, a Corte a quo apresentou os seguintes fundamentos:
+A autora, ora apelante, ajuizou ação de repetição de indébito em que pleiteia a devolução de parcelas relativas ao ISS, recolhidas em sede de REFIS-DF.
+Com efeito, de acordo com o entendimento do colendo Superior Tribunal de Justiça, a veiculação de publicidade e propaganda não atrai a incidência do ISS, por ausência de previsão legal.
+(..)
+No presente caso, não há controvérsia sobre o fato de que a atividade desempenhada pela autora é de veiculação de propaganda. Inegável, portanto, o caráter publicitário da atividade da autora.
+Desse modo, o reconhecimento de não incidência do ISS é medida que se impõe.
+Por fim, conforme dispõe o art. 168, do CTN, a prescrição da pretensão à devolução das parcelas de tributo pago de forma indevida é quinquenal. Assim, a restituição dos valores pagos, in casu, deve alcançar somente as parcelas pagas nos últimos cinco (5) anos que antecedem o ajuizamento da presente demanda (30/09/2020).
+Dispositivo
+Dessa forma, dou parcial provimento ao recurso da autora para, reformando a sentença, declarar a não incidência de ISS sobre a atividade da recorrente, bem como para determinar a restituição dos valores cobrados e pagos indevidamente, que devem ser apurados na fase de cumprimento de sentença, observando-se o prazo prescricional de cinco (5) anos.
+Da leitura dos autos, depreende-se:
+a) "No presente caso, não há controvérsia sobre o fato de que a atividade desempenhada pela autora é de veiculação de propaganda. Inegável, portanto, o caráter publicitário da atividade da autora.";
+b) "Desse modo, o reconhecimento de não incidência do ISS é medida que se impõe.";
+c) "(..) a restituição dos valores pagos, in casu, deve alcançar somente as parcelas pagas nos últimos cinco (5) anos que antecedem o ajuizamento da presente demanda (30/09/2020)"; e,
+d) "(..) a restituição dos valores cobrados e pagos indevidamente, que devem ser apurados na fase de cumprimento de sentença.";
+Não obstante as razões explicitadas pela instância originária, no sentido de que a restituição dos valores cobrados e pagos indevidamente serão apurados na fase de Cumprimento de Sentença, a parte recorrente alega omissão referente ao índice de correção monetária a ser adotado. Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, aplica-se na espécie, por analogia, a Súmula 284 do STF, ante a deficiência na motivação. Nessa esteira:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. RECURSO QUE NÃO PROMOVE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DISSOCIAÇÃO LÓGICA. NÃO CONHECIMENTO .
+1. O Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 25.11.2020).
+2. Agravo interno não conhecido.
+(AgInt no PUIL 2.406/DF, relator Ministro Manoel Erhardt, Primeira Seção, DJe de 5/5/2022.)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RAZÕES. DEFICIÊNCIA.
+(..)
+3. "A apresentação de razões recursais dissociadas da fundamentação adotada na decisão agravada configura fundamentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Aplicação da Súmula 284 do STF, por analogia. Precedentes." (AgInt no REsp 1.888.452/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/11/2021).
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.903.995/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 30/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RAZÕES DISSOCIADAS DO JULGADO. NÃO CONHECIMENTO.
+1. Os argumentos expendidos no agravo interno estão dissociados da fundamentação que ampara a decisão agravada, incidindo in casu, por analogia, a Súmula 284 do STF.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.961.336/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 28/3/2022.)
+Quanto à alegação de existência de condenação além dos limites do pedido formulado na petição inicial, conforme os arts. 141 e 492 do CPC/2015, o vício de julgamento extra petita não se vislumbra na hipótese em que o juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, procede à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu.
+O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico-sistemática da peça inicial aquilo que se pretende obter com a demanda. Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. DECISÃO ULTRA PETITA. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. FORTES ENCHENTES NA ÁREA DO HOTEL. CHUVAS ANÔMALAS. AUSÊNCIA DE RESPONSABILIDADE MUNICIPAL. REVISÃO DAS CONCLUSÕES ADOTADAS PELA CORTE DE ORIGEM. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC.
+2. Trata-se, na origem, de Ação de Indenização por danos decorrentes de fortes enchentes que assolaram a área do hotel, ora recorrente, durante os meses de janeiro de 2010 e janeiro de 2011, ocasionando transtornos aos proprietários e hóspedes.
+3. Não há falar em violação dos arts. 141, 492 e 503 do CPC. Isso porque a Corte estadual, ao contrário do que faz crer o agravante, não extrapolou os pedidos apresentados no recurso formulado pelo município recorrido. Consoante a jurisprudência do STJ, "os pedidos devem ser interpretados lógica e sistematicamente, cabendo ao magistrado proceder à análise ampla e detida da relação jurídica posta." (AgInt no REsp 1.804.826/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/5/2020). No caso, a decisão foi exarada nos exatos limites do pedido, elaborado pela parte contrária, de declaração de "ausência de responsabilidade por parte da Municipalidade, ante a ocorrência de caso fortuito e força maior (..), denegando os danos não provados, os danos morais por incabíveis e os lucros cessantes." (fl. 3950, e-STJ).
+4. Na hipótese dos autos, o Tribunal de origem concluiu estarem ausentes os requisitos ensejadores do dever de indenizar, tendo em vista a seguinte fundamentação: "Em suma, o laudo pericial constatou que em 2010 e 2011 houve chuvas anormais que elevaram o nível do Rio Atibaia (fls. 3973). À municipalidade não pode ser imputado o dever de indenizar, visto que pelas provas apresentadas é inequívoco que não houve omissão ou conduta reprovável que tenha contribuído para o danoso, tampouco possui a municipalidade atribuição para realizar obras em área quase rural de Rio de domínio estadual." (fls. 4026-4045, e-STJ).
+5. Como se observa claramente do trecho acima transcrito, rever o entendimento, consignado pelo acórdão recorrido, quanto à ausência de responsabilidade da municipalidade, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 1.547.421/MS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 20/5/2020; REsp 1.675.095/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/09/2017; AgRg no AREsp 659.655/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/10/2015.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.714.098/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 19.3.2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. ITBI. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM SINTONIA COM O ATUAL POSICIONAMENTO DO STJ.
+1. Consoante os arts. 128 e 460 do CPC/1973, atuais 141 e 492 do CPC/2015, o vício de julgamento extra petita não se vislumbra na hipótese em que o juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, procede à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu. O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito apenas ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico-sistemática da peça inicial aquilo que se pretende obter com a demanda.
+2. Na hipótese dos autos, o Tribunal de origem consignou: "(..) não há que se falar em julgamento extra petita, enquanto se verifica a fls. 08, item c, da inicial, como pedido alternativo ao valor expresso, a condenação do apelante à repetição da quantia correspondente à diferença entre o valor recolhido e aquele a ser apurado" (fl. 172, e-STJ). Sendo assim, não há violação ao regramento legal, mas correta observância a ele.
+3. Recurso Especial não provido.
+(REsp 1.803.155/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe 31.5.2019)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ALTERAÇÃO DOS CRITÉRIOS DE REMUNERAÇÃO. CIRCUNSTÂNCIA NÃO DEMONSTRADA PERANTE AS INSTÂNCIAS ORDINÁRIAS. REEXAME DE CLÁUSULAS CONTRATUAIS E DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+(..)
+3. Não ocorre julgamento ultra petita se a Corte local decide questão que é reflexo do pedido na exordial. O pleito inicial deve ser interpretado em consonância com a pretensão deduzida na inicial como um todo, sendo certo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita.
+4. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto nas Súmulas 5 e 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.188.230/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 1º.4.2019)
+Por fim, observa-se que o órgão julgador decidiu a questão relativa à atividade desempenhada pela recorrente após percuciente análise dos fatos e das provas relacionados à causa e é certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado passa por revisitar o acervo fático-probatório, o que é vedado na via eleita, de acordo com a Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
