@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por ARLANXEO BRASIL S.A, contra decisão monocrática de fls. 209-212 que conheceu do agravo para não conhecer do recurso especial ante a incidência das Súmulas 7/STJ e 282 e 356/STF às alegações recursais.
+Irresignada, a parte embargante alega omissão na decisão ao deixar de julgar o recurso especial pela alínea "c" do permissivo constitucional .
+A parte embargada apresentou impugnação.
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso dos autos, sem razão à parte embargante ao apontar a existência de omissão no julgado ao deixar de julgar o recurso especial pela divergência jurisprudencial, pois prejudicado o conhecimento do recurso pela alínea c do permissivo constitucional, uma vez que conforme reiteradamente decidido no âmbito desta Corte, "A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos declaratórios.
+Publique-se.
