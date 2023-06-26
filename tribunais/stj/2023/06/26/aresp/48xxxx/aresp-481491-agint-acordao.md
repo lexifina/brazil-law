@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator:
+Trata-se de agravo interno interposto por FERNANDO MOREIRA D"AFFONSECA - espólio contra decisão que negou provimento a seu recurso especial, em síntese, por incidência das Súmulas 7 e 83/STJ (e-STJ, fls. 798-803).
+A parte agravante insiste na alegação de negativa de prestação jurisdicional pelo eg. Tribunal a quo, além de se insurgir contra a desconsideração da personalidade jurídica, afirmando a ausência dos requisitos do art. 50 do Código Civil.
+Impugnação da parte agravada às fls. 820-822 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC/1973. RECONHECIMENTO. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO EM PARTE.
+1. Fica configurada a ofensa ao art. 535 do CPC/1973 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifestou sobre tema relevante para o deslinde da controvérsia.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, dar parcial provimento ao recurso especial.
+VOTO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator:
+Afiguram-se relevantes as alegações do presente recurso. Dessa forma, reconsidera-se a decisão hostilizada.
+No recurso especial, a parte sustentou violação dos arts. 398, 472 e 535, I e II, do CPC/73 e 50 do CC, em síntese, insurgindo-se contra a desconsideração da personalidade jurídica.
+As razões do recurso especial apontaram, no acórdão recorrido, duas omissões e uma contradição, nos seguintes termos:
+19. A primeira omissão foi arguida em razão do v. acórdão recorrido não ter se pronunciado sobre a aplicação à hipótese dos autos das normas contidas no inciso LV, do art. 5º, da Constituição, e no art. 472, do CPC, cuja observância se inclui dentre os requisitos essências de validade da decisão que decreta a desconstituição da personalidade jurídica.
+20. A segunda, em razão do mesmo acórdão não ter atentado para o fato de não ter sido dado oportunidade para o recorrente se manifestar sobre o referido documento de fls. 236 a 149  copia do acórdão do TRF 2R que julgou apelação nº 0004031-94.2000.4.02.5101 , como determina o art. 398, do CPC, inobstante a importância que lhe foi atribuída pelo v. acórdão recorrido para o julgamento da questão.
+21. A contradição apontada decorre do fato de que o v. acórdão recorrido, por um lado, afirma o primado a Teoria Maior da Desconsideração da Personalidade Jurídica, consagrado pelo art. 50, do Código Civil. Por outro, confirma defere a desconsideração da personalidade jurídica da empresa em razão de simples inadimplemento, que não se inclui dentre as hipóteses elencadas na referida norma para permitir uma medida de caráter tão extremo, como acontece no caso (fls. 315/316).
+Do trecho em destaque se extrai que a primeira omissão e a contradição dizem respeito aos requisitos para desconsideração da personalidade jurídica, que, no caso, o acórdão recorrido entendeu preenchidos, não havendo que se falar em negativa de prestação jurisdicional.
+A segunda omissão apontada, todavia, está relacionada à ausência de oportunidade para o recorrente se manifestar sobre documento novo, e que seria relevante para o julgamento da causa.
+Na espécie, o Tribunal de origem, ao concluir pela presença dos requisitos para decretar a desconsideração da personalidade jurídica, considerou caracterizado o desvio de finalidade, consubstanciado no ato intencional dos sócios de fraudar terceiros, assinalando que a condenação na esfera federal corrobora a gestão fraudulenta, conforme se verifica no seguinte trecho do acórdão recorrido:
+"E essa constatação foi corroborada no julgamento da apelação n.º 0004031-94.2000.4.02.5101, no Tribunal Regional Federal da 2a Região, que responsabilizou os sócios pela prática de ato com desvio de finalidade, consubstanciado na retenção indevida das contribuições previdenciárias dos empregados da sociedade empresária. Confira-se:
+(..)
+Considero, assim, que a sociedade foi utilizada como inaceitável instrumento contra terceiros de boa fé, com manifesta gestão fraudulenta.
+A prática desse ilícito é suficiente para embasar também neste feito a desconsideração da personalidade jurídica, pois, repita-se, o que se analisa é a gestão da sociedade, que, por evidente, não constitui um ato isolado.
+Assim, a desconsideração da personalidade jurídica é medida que se mostra necessária à satisfação do crédito exequendo." (e-STJ, fls. 267/268)
+O recurso especial aponta omissão sobre o argumento de que não lhe foi dada a oportunidade de se manifestar sobre o aludido documento, como determina o art. 398 do CPC, a despeito da importância que lhe foi atribuída pelo acórdão recorrido para o julgamento da questão, tendo em vista que "ensejou o indeferimento do agravo de instrumento" (fl. 318) interposto pelo ora recorrente.
+Nesse contexto, é forçoso reconhecer que a Corte a quo, não obstante devidamente provocada, deixou de examinar questão relevante ao deslinde da causa.
+Com efeito, da leitura do acórdão dos embargos de declaração, constata-se que a eg. Corte de origem se manteve inerte no exame de matéria significativa para a solução da controvérsia, que foi devidamente suscitada nas razões dos embargos de declaração, e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da ausência de prequestionamento.
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar, fundamentadamente, sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 535 do CPC/1973, a fim de anular o v. acórdão recorrido para que seja suprido o vício existente.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DIÁRIA. MONTANTE. PRECLUSÃO. NÃO OCORRÊNCIA. OMISSÃO RELEVANTE. ART. 1.022 DO CPC. VIOLAÇÃO. NÃO PROVIMENTO. (..)
+2. Considera-se violado o artigo 1.022 do Código de Processo Civil quando o Tribunal de segundo grau, instado a se manifestar sobre questão relevante ao deslinde da controvérsia por meio dos competentes e oportunos embargos de declaração, deixa de se pronunciar a respeito.
+3. Quando "a aplicação do direito à espécie pressupõe o exame de matéria de fato, faz-se necessário o retorno dos autos ao Tribunal de origem, para ultimação do procedimento de subsunção das circunstâncias fáticas da causa às normas jurídicas incidentes, na espécie" (EDcl no REsp 1.308.581/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 17/3/2016, DJe 29/3/2016).
+4. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.987.800/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 17.8.2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATORIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL INSURGÊNCIA RECURSAL DA PARTE RÉ .
+1. Há violação dos arts. 489 e 1.022 do CPC/15 quando, apesar do requerimento da parte, por meio de embargos declaratórios, a Corte de origem se recusa a se manifestar sobre questão que lhe foi apresentada por ocasião dos embargos de declaração, relevante ao deslinde da controvérsia. Nessa hipótese, o processo deve retornar à Corte local para que a omissão seja suprida. Precedentes.
+2. Agravo interno desprovido." (AgInt no AREsp n. 1.992.917/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, DJe de 31.3.2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, 1.022, PARÁGRAFO ÚNICO, II, DO CPC DE 2015. OCORRÊNCIA. OMISSÃO DO ACÓRDÃO ACERCA DE QUESTÕES FUNDAMENTAIS À DEVIDA APRECIAÇÃO DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA SUPRIR OMISSÃO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre questão federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência dos arts. 489 e 1.022 do CPC/2015, a fim de anular o acórdão recorrido para que o Tribunal a quo supra a omissão existente.
+2. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.672.108/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, DJe de 9.12.2021)
+Dessa forma, está caracterizada a alegada ofensa ao art. 535 do CPC/73 suscitada pela parte ora agravante em seu recurso especial, ante a omissão da colenda Corte de origem em examinar fundamentadamente a questão suscitada.
+Nesse cenário, o reconhecimento de violação ao art. 535 do CPC/73 enseja a anulação do v. acórdão que julgou os embargos de declaração opostos pela parte ora agravada, bem como o retorno dos autos ao eg. TJ-RJ para que promova o novo julgamento dos declaratórios, como entender de direito, sanando a omissão ora reconhecida.
+Fica prejudicado o exame das demais questões articuladas nas razões recursais.
+Ante o exposto, dá-se provimento ao agravo interno para reconsiderar a decisão de fls. 798-803 (e-STJ) e, em novo julgamento, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de anular o acórdão dos embargos de declaração e determinar, por conseguinte, a remessa dos autos ao eg. Tribunal de origem para sua nova apreciação, à luz do devido processo legal.
+É como voto.
