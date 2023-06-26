@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de SUIANNI ANGELICA MARQUES RAMOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, proferido no julgamento da Apelação Criminal n. 029859-23.2018.8.16.0030.
+Extrai-se dos autos que o Juízo de primeiro grau condenou a paciente, em concurso material, pela prática dos delitos descritos no art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/06 (tráfico de drogas e associação para o tráfico), à pena total de 8 anos de reclusão, em regime inicial fechado, mais 1200 diárias de multa, sendo 5 anos de reclusão e 500 diárias pelo crime de tráfico de entorpecentes e 3 anos de reclusão e 700 diárias pelo crime de associação ao tráfico, conforme sentença de fls. 516/532 .
+Interposta apelação pela defesa, o Tribunal a quo negou provimento ao recurso, em julgamento assim resumido (fl. 16):
+"APELAÇÃO CRIMINAL. ARTIGOS 33 E 35 DA LEI 11.343/2006. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARATRÁFICO. SENTENÇA CONDENATÓRIA. APELAÇÃO DOS RÉUS MAICON MAIA E SAIANNI ANGELICA MARQUES RAMOS. PUGNOU PELA ABSOLVIÇÃO DO CRIME DE TRÁFICO E DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. MATERIALIDADE DO CRIME E AUTORIA DOS RÉUS DEMONSTRADOS. VÍNCULO ESTÁVEL E PERMANENTE A FIM DE PROMOVER O NARCOTRÁFICO. SENTENÇA MANTIDA. APELAÇÃO DO MINISTÉRIO PÚBLICO. PLEITO PELA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE NA PENA-BASE DOS RÉUS. SEM CABIMENTO. AUSÊNCIA DE COMPROVAÇÃO QUANTO AO COMPORTAMENTO DOS ACUSADOS NA INSTIGAÇÃO DO CACHORRO PARA COM ATAQUE AOS POLICIAIS. PEDIDO DE VALORAÇÃO NEGATIVA QUANTO AS CIRCUNSTÂNCIAS DO CRIME NO TOCANTE A CONDUTA DO RÉU MAICON MAIA. SEM RAZÃO. DISPENSA DAS DROGAS QUE NÃO ENSEJAM MAJORAÇÃO DA PENA. RECURSOS CONHECIDOS E NÃO PROVIDOS."
+Daí o presente writ, no qual a Defesa assevera que o decreto condenatório não demonstrou a presença dos requisitos da estabilidade e permanência, necessários à configuração do delito de associação para o tráfico.
+Pugna pela concessão da ordem, para afastar a condenação pelo crime de associação para o tráfico e, por consequência, aplicar o redutor descrito no artigo 33, § 4º, da Lei n. 11.343/06, fixar regime prisional menos gravoso e substituir a reprimenda por medidas restritivas de direitos.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Destarte, a pretensão será analisada mais detalhadamente na oportunidade de seu julgamento definitivo, após a manifestação do Parquet federal.
+Por tais razões, indefiro o pedido de liminar.
+Devidamente instruído, dispenso a requisição de informações.
+Encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
