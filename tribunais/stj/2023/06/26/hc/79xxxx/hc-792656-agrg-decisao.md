@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LEANDRO DAMASCENO SANTANA, contra decisão de fls. 522-524, a qual não foi conhecido o habeas corpus.
+Depreende-se dos autos que o Agravante se encontra preso preventivamente pela prática, em tese, do crime previsto no art. 171, § 2º, c.c art. 69, do Código Penal (fl. 25), porque o Agravante fazia proposta de investimentos com promessa de lucros consideráveis, sendo que não pagava o retorno prometido, causando enorme prejuízo às vítimas, e passou a residir em lugar incerto e não sabido - fls. 164-166.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva fundamentada na necessidade de garantia da ordem pública,conforme acórdão de fls. 24-31, tendo em vista a fuga do distrito da culpa, bem como o risco da sua reiteração delitiva, salientando-se que:
+"o paciente permaneceu foragido por mais de 2 (dois) meses, além de responder a outro processo por delito idêntica natureza, nos autos tombados sob nº 0721085- 98.2022.8.02.0001, que corre na 2ª Vara Criminal da Capital, revelando assim uma tendência à reiteração criminosa"- fl- 30.
+Ressai das alegações aventadas pelo agravante, a pretensão de que seja efetivado o juízo de retratação reiterando os motivos alegados no writ, sustentando que:
+a) "não fora exposta pelo d. Julgador quais elementos seriam estes a recomendar a manutenção da medida extrema, portanto, trata-se de fundamentação genérica, sabidamente vedada pelo ordenamento jurídico"- fl. 529; b) "Afere-se na decisão que decretou a prisão preventiva que o agravante estaria em lugar incerto e não sabido, contudo, o agravante constituiu advogado ainda na fase administrativa, este que se manifestou no inquérito policial informando que o agravante somente falaria em juízo"- fl. 529.
+Com essas considerações, pugna pela reconsideração ou que o presente recurso seja submetido ao julgamento pelo Colegiado.
+É o relatório.
+Decido.
+Reconsidero a decisão de fls. 522-524, ten do em vista que não foi discutido o mérito do processo e passo à análise ho habeas corpus.
+In casu, consta do decreto prisional, bem como da decisão que manteve a sua prisão preventiva que:
+"Vale destacar que o denunciado responde a outro processo criminal pelo crime de estelionato aos autos tombados de nº 0721085-98.2022.8.02.0001, na 2ª Vara Criminal da Capital"-fl. 290,  ..  "Fica demonstrado que existem subsídios que demonstram a premente necessidade da decretação da prisão preventiva do acusado para garantia da ordem pública e da asseguração da lei penal, vez que o denunciado se encontra em local incerto e não sabido, tendo vitimado diversas vítimas"-fl. 186.
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023 ) .
+Ressalte-se, ainda, o fato do paciente ter permanecido "foragido por mais de 2 (dois) meses"- fl.30.
+Nesse sentido:
+"Tais circunstâncias, somadas ao fato de que o agravante encontra-se foragido até o presente momento, demonstra a intenção de furtar-se à aplicação da lei penal. Nesse contexto é recomendável a manutenção da prisão preventiva para garantia da ordem pública e para assegurar a aplicação da lei penal." (AgRg no RHC n. 172.422/GO, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 16/3/2023).
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+P.I.
