@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/06/2023 a 26/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A em face da decisão monocrática que não conheceu parcialmente e, nessa parte, negou provimento ao recurso especial que interpusera.
+Ação: de obrigação de fazer com pedido de tutela de urgência, ajuizada por APARECIDA PRIETO ZANETTI em face da agravante, na qual alega que diagnosticada com NEOPLASIA MALIGNA DO CÓLON EC IV, COM METÁSTASES PARA PULMÃO E FÍGADO - CID 10 C 18 e que lhe foi indicado o tratamento com os quimioterápicos DEXAMETASONA, CLORIDRATO DE ONDANSETRONA, OXALIPLATINA, LEUCOVORINA e FLUORURACILA, via Cateter Venoso Central, cuja cobertura foi negada pela operadora de plano de saúde.
+Sentença: julgou procedente o pedido inicial, para confirmar a tutela de urgência anteriormente deferida e determinar que a parte ré autorize e custeie o tratamento da autora, preferencialmente junto ao HOSPITAL PAULISTANO, onde o tratamento já se iniciou, ou em outra instituição a ser indicada pela ré, no prazo máximo de 05 (cinco) dias, sob pena de, em sendo descumprida a ordem judicial aqui passada, ser a ré multada em R$ 2.000,00 diários, limitados inicialmente a 15 (quinze) dias, sem prejuízo de revisão e majoração do valor acaso o tratamento continue a ser negado.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. Pretensão da autora de ver a ré obrigada a autorizar o tratamento quimioterápico preferencialmente no Hospital Paulistano, onde já iniciado o tratamento, ou em outra instituição a ser indicada pela ré, com fornecimento dos medicamentos necessários (Dexametasona, Cloridrato de Ondansetrona, Oxaliplatina, Leucovorina, Fluoruracila). Negativa de cobertura indevida e abusiva. Inteligência do CDC e das Súmulas nº 95 e 102 deste E. Tribunal. Contrato estabelecido entre as partes cujo bem a ser tutelado é a vida e a saúde do contratante, razão pela qual possível mitigar em parte o princípio do pacta sunt servanda, em prestígio ao princípio da boa-fé e função social do contrato. Precedente. Sentença de procedência mantida. Recurso não provido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta violação aos arts. 1022, II do CPC/15 e 12, VI da Lei 9656/98.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que o reembolso deve ser limitado à relação de preços de serviços médicos e hospitalares prevista no contrato.
+Decisão monocrática: não conheceu do recurso especial interposto pela agravante, em virtude da ausência de violação do art. 1.022, II, do CPC/15 e do óbice da Súmula 211/STJ.
+Agravo interno: nas razões do presente recurso, a agravante defende a existência de negativa de prestação jurisdicional e o prequestionamento da matéria.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+Com efeito, constata-se que o art. 1022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o TJ/SP, embora tenha apreciado toda a matéria posta a desate, tratou das questões alegadas pela parte agravante, especialmente quanto à manutenção da sentença que determinou que a agravante autorizasse e custeasse o tratamento da agravada, preferencialmente junto ao Hospital Paulistano, onde o tratamento já se iniciou, ou em outro a ser indicada pela agravante, registrando, inclusive, que a referida parte não demonstrou a existência de outro nosocômio disponível, tendo, na verdade, quando do cumprimento da ordem judicial, concedido autorização para continuidade do tratamento da agravada no próprio Hospital Paulistano, não obstante a possibilidade de eleição de outro hospital da rede credenciada, sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+A propósito, confira-se: AgInt no AREsp 1.833.510/MG, 3ª Turma, DJe de 19/8/2021; AgInt no REsp 1.846.186/SP, 4ª Turma, DJe de 11/6/2021; EDcl no AgInt no MS 24.113/DF, Corte Especial, DJe de 13/9/2019; REsp 1.761.119/SP, Corte Especial, DJe de 14/8/2019.
+Logo, quanto ao ponto, não merece reforma a decisão agravada.
+Além disso, da renovada análise dos autos, constata-se que o recurso especial, de fato, não poderia ser conhecido, pois os argumentos invocados pela agravante nas razões do seu recurso especial quanto ao art. 12, VI da Lei 9656/98, indicado como violado, realmente não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da oposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Acerca do prequestionamento ficto previsto no art. 1.025 do CPC/15, mencionado pela agravante, tem-se que esse só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente venha a suscitar devidamente a violação do art. 1.022 do CPC/15, porquanto, somente dessa forma poderá o órgão julgador verificar a existência do vício e proceder à supressão de grau, o que não ocorreu na hipótese dos autos. Nesse sentido: AgInt no REsp 1.855.026/MA, 3ª Turma, DJe de 10/6/2020 e AgInt no AREsp 1.206.045/RN, 4ª Turma, DJe de 10/9/2018.
+Não há, portanto, qualquer reparo a ser feito na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
