@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra o acórdão do egrégio Tribunal de Justiça do Estado de São Paulo cuja ementa está assim redigida:
+APELAÇÃO - Plano de saúde coletivo por adesão. Ação de revisão de cláusulas contratuais c. c repetição de indébito. Sentença de improcedência. Inconformismo. Relação jurídica de consumo. Reajustes por faixa etária, sinistralidade/anual. Possibilidade. Previsão contratual. Base atuarial. Necessidade, contudo, de apuração dos índices de reajuste em sede de liquidação de sentença. Precedentes. Sentença parcialmente reformada. Restituição simples dos valores pagos em excesso para o período. Recurso parcialmente provido.
+Os embargos de declaração opostos pela recorrente foram rejeitados.
+Em suas razões de recurso especial, a recorrente aponta violados os arts. 1.022 do CPC, 35-E, § 2º, da Lei n. 9.656/98 e 478 do Código Civil. Sustenta, inicialmente, que o acórdão recorrido fora omisso sobre a licitude do reajuste de plano de saúde coletivo com base em índice de sinistralidade, sendo inaplicável o índice previsto para os planos individuais definidos pela Agência Nacional de Saúde Suplementar - ANS
+No mérito, sustenta a impossibilidade da limitação do reajuste por sinistralidade no contrato coletivo de plano de saúde aos índices autorizados pela ANS para os planos individuais.
+O recurso foi admitido pela Corte de origem (fls. 463-464).
+É, no essencial, o relatório.
+O recurso merece provimento.
+O Superior Tribunal de Justiça possui orientação no sentido de que é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, descabendo, contudo, a limitação dos reajustes aos índices autorizados pela ANS.
+A propósito, confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO SINGULAR. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. AFRONTA AO ARTIGO 1.022, I E II, DO CPC/15. AUSÊNCIA. PLANO DE SAÚDE COLETIVO. REAJUSTE ANUAL. SINISTRALIDADE. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. PRECEDENTES. APURAÇÃO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA.
+1. O relator está autorizado a decidir singularmente recurso (artigo 932, do Código de Processo Civil de 2015, antigo 557). Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em sede de agravo interno.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+4. O Superior Tribunal de Justiça possui orientação no sentido de que, no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.894.750/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1º/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA NO CASO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ÍNDICES ESTABELECIDOS PELA ANS. INAPLICABILIDADE AOS CONTRATOS COLETIVOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade. Precedentes.
+2. Na hipótese, o Tribunal de origem afastou a índole abusiva do reajuste por sinistralidade do valor da mensalidade do plano de saúde coletivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, no plano coletivo empresarial, o reajuste anual é apenas acompanhado pela Agência Nacional de Saúde Suplementar, para fins de monitoramento da evolução dos preços e de prevenção de abusos, prescindindo, entretanto, de sua prévia autorização.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.400.251/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/12/2020, DJe de 1º/2/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE DECLARADA. ÍNDICES DA ANS E INDEXADORES DE INFLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A majoração das mensalidades do plano de saúde em virtude da sinistralidade é possível, a partir de estudos técnico-atuariais, para buscar a preservação da situação financeira da operadora. O reajuste não pode, no entanto, ser declarado abusivo apenas com base nos índices de majoração anuais divulgados pela ANS e nos indexadores que medem a inflação, sob pena de ferir o equilíbrio atuarial do plano.
+3. Agravo interno não provido. (AgInt no REsp n. 1.852.390/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/9/2020, DJe de 28/9/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE. LIMITE DO AUMENTO AOS ÍNDICES ESTABELECIDOS PELA ANS. INAPLICABILIDADE AOS PLANOS COLETIVOS. ALEGAÇÃO DE FRAUDE NA CONTRATAÇÃO. NULIDADE DO TERMO DE ADESÃO AFASTADA PELA SENTENÇA. PRECLUSÃO. AGRAVO INTERNO IMPROVIDO.
+1. As discussões atinentes à fraude na contratação do plano de saúde coletivo bem como a nulidade do termo de associação ao "Sindicato de Micro e Pequena Indústria do Estado de São Paulo" foram afastadas pela sentença de primeiro grau por ausência de comprovação das alegações formuladas. Não tendo sido a matéria objeto de irresignação por meio de apelação ou recurso anterior, é de se reconhecer a preclusão quanto aos referidos temas.
+2. O Superior Tribunal de Justiça possui orientação no sentido de que, no plano coletivo empresarial, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, prescindindo, entretanto, de sua prévia autorização.
+3. Agravo interno improvido. (AgInt no AREsp n. 1.269.614/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2018, DJe de 29/6/2018.)
+No caso dos autos, o Tribunal local, embora tenha reconhecido a possibilidade de reajuste por sinistralidade nos contratos coletivos, concluiu que não há esclarecimento quanto à base atuarial aplicada e determinou que o percentual deveria ser apurado em liquidação de sentença, no entanto limitou o reajuste aos índices da ANS enquanto pendente a lide.
+Confira-se:
+De acordo com a documentação acostada aos autos, há previsão contratual do reajuste de sinistralidade; anual e por faixa etária,fls.148/149, com índices especificados na tabela de fls.164.
+Nesse aspecto, esclarece a ré os aumentos que houve, durante o ano de 2016 - 22,49%, 2017 - 19,63% e 2018 - 19,95%, reajustes conforme previstos em contrato.
+Entretanto, no que tange ao reajuste por sinistralidade, não há esclarecimento quanto à base atuarial aplicada.
+Não se desconhece que é válida a previsão de reajuste por sinistralidade/anual, desde que pactuada com clareza, demonstradas ainda as variações indicadas e a existência de desequilíbrio financeiro no contrato.
+(..)
+Entretanto, no presente caso, há necessidade de se apurara adequação dos valores reajustados aos reais percentuais para verificação de eventuais abusos, nos reajustes por sinistralidade em fase de liquidação.
+(..)
+Enquanto pendente a lide, devem, contudo, e excepcionalmente, ser aplicados os índices da ANS, evitando-se prejuízos à apelada, ressalvado o direito de cobrança das diferenças pela apelada. (fls. 419-421)
+Desse modo, estando a decisão recorrida em dissonância com a jurisprudência desta Corte, conforme acima declinado, é impositiva a reforma do acórdão recorrido.
+Em face do provimento do recurso especial, fica prejudicada a análise da omissão alegada.
+Ante o exposto, conheço do recurso especial e, nesta extensão, dou-lhe provimento apenas para afastar a aplicação do índice de reajuste divulgado pela ANS para os planos de saúde individuais nos termos da fundamentação.
+Intimem-se.
