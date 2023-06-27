@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 921-932):
+"RECURSO EM SENTIDO ESTRITO HOMICÍDIO QUALIFICADO DECISÃO DE PRONÚNCIA PRESERVAÇÃO DA COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI IMPOSSIBILIDADE DE ABSOLVER SUMARIAMENTE OS RÉUS POR NÃO HAVER PROVA ESCORREITA DE QUE NÃO FORAM OS AUTORES DO DELITO EXISTÊNCIA DE PROVA DA MATERIALIDADE DELITIVA E DE INDÍCIOS SUFICIENTES DA AUTORIA DESPRONÚNCIA INVIÁVEL IMPOSSIBILIDADE DE AFASTAMENTO DAS QUALIFICADORAS DO MOTIVO TORPE E DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA QUALIFICADORA DO EMPREGO DE MEIO DO QUAL RESULTOU PERIGO COMUM AFASTADA POR MANIFESTAMENTE IMPROCEDENTE SENTENÇA DE PRONÚNCIA PARCIALMENTE REFORMADA.
+RECURSOS DAS DEFESAS PARCIALMENTE PROVIDOS".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 970-973).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 121, § 2º, II, do CP; e 74, § 1º, 413, caput e § 1º, e 619 do CPP. Aduz para tanto, em síntese, que: (I) o Tribunal local teria se omitido sobre os argumentos apresentados nos aclaratórios da acusação; e (II) seria necessário incluir na pronúncia a qualificadora do perigo comum, por não ser manifestamente improcedente, sob pena de invasão da competência dos jurados.
+Com contrarrazões (e-STJ, fls. 1.005-1.013), o recurso especial foi admitido na origem (e-STJ, fls. 1.056-1.060).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 1.079-1.081).
+É o relatório.
+Decido.
+Este recurso especial encontra-se prejudicado, porque o acórdão ora recorrido foi cassado no julgamento do HC 771.514/RS, em que concedi a ordem de ofício, nos termos do art. 654, § 2º, do CPP, para impronunciar os réus. Minha decisão monocrática foi confirmada pela Quinta Turma em sede de agravo regimental, cujo acórdão recebeu a seguinte ementa:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA BASEADA EM ELEMENTOS DO INQUÉRITO E EM TESTEMUNHOS INDIRETOS (HEARSAY TESTIMONY). VIOLAÇÃO AO ART. 155 DO CPP. PROVAS IRREPETÍVEIS. FONTE DE PROVA NÃO VALORADA PELO JUÍZO PROCESSANTE. AGRAVO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias pronunciaram o paciente baseando-se em depoimentos extrajudiciais, os quais não foram confirmados em juizo e em depoimento de ouvir dizer.
+2. Essa Corte Superior possui entendimento de que a pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, sem que estes tenham sido confirmados em juízo e, tampouco em depoimento de ouvir dizer.
+3. Quanto à alegação de que houve retratação dos depoimentos em juízo por força de ameaças e termor de represálias por parte dos acusados, trata-se apenas de hipótese levantada pela acusação, eis que não ficou comprovado nos autos. Demais disso, convém registrar que, com a ocorrência de noticiada ameaça, é mister a colocação de proteção estatal das testemunhas, ônus do qual não se desincumbiu o Parquet ou o autoridade policial (AgRg no HC n. 718.113/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+4. Quanto às provas irrepetíveis, análise de conversa do celular da vítima, verifica-se tal perícia não foi valorada pelo Juízo pronunciante, que apenas levou-a em consideração, ou seja, extraiu conclusões advindas de outra fonte de prova, o depoimento policial.
+Com efeito a apreensão do carro é uma prova irrepetível, diferentemente porém da vinculação do carro à cena do crime, que é um fato demonstrável por prova repetível, qual seja, a prova testemunhal. Na espécie, diante da ausência da confirmação testemunhal em juízo da vinculação do referido veículo ao crime, é patente a ofensa ao art. 155 do CPP.
+5. Agravo regimental desprovido".
+(AgRg no HC n. 771.514/RS, de minha relatoria, Quinta Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+Logo, não mais existindo o objeto cuja reforma pontual o Parquet busca (qual seja, o aresto proferido pelo TJ/RS no julgamento de recurso em sentido estrito), fica obviamente prejudicado este recurso especial.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
