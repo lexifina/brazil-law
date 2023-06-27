@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/06/2023 a 27/06/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAQUEL DE LUCCAS FORTES contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 632):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte agravante sustenta que as alegações trazidas no recurso extraordinário não estariam em confronto com o Tema n. 339/STF, salientando que (fl. 643):
+ ..  é nítida a diferença entre fundamentação pormenorizada sobre uma determinada matéria - o que de fato alcançaria o teor do tema 339/STF- e a completa ausência de manifestação sobre as principais teses arguidas em sede de agravo regimental, como é o caso dos autos.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 652-664 e 670.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Agravo regimental a que se nega provimento.
+VOTO
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais foi negado provimento ao agravo regimental e mantida a decisão agravada, qual seja, a incidência do óbice da Súmula n. 7 do STJ, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 558-561):
+Não obstante os esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Extrai-se dos autos que o agravado foi condenado, em primeiro grau, às penas de 8 meses de detenção, no regime aberto, e de 13 dias-multa, pela prática do delito previsto no art. 138 c/c o art. 141, III, do Código Penal. A sanção privativa de liberdade foi substituída por uma restritiva de direitos (fls. 285-288).
+O Tribunal de origem, por sua vez, deu provimento à apelação defensiva para absolver o réu, com amparo no art. 386, III, do Código de Processo Penal, sob a seguinte fundamentação ((fls. 403-406, grifei):
+Não se vislumbra, no entanto, o animus caluniani na conduta de Lenine.
+Destacou o I. Promotor de Justiça, Dr. Leonardo D"Angelo Vargas Pereira, quando de sua manifestação ao fim da fase de instrução, que "a instrução processual criminal revelou que a absolvição, de fato, se revela a medida consentânea porque muito embora uma conduta possa caracterizar ilícito civil nem sempre ela poderá se amoldar ao tipo penal, tal como ocorrera no caso em apreço" (fls.279).
+Com efeito, ainda que tenha Lenine afirmado, perante terceiros, que Raquel sumiu com as pastas conduta esta que, em tese, configuraria o crime do artigo 305, do Código Penal -, não imputou a ela suposta prática delitiva com descrição mínima dos fatos, o que não se mostra suficiente à condenação pelo tipo do artigo 138, do estatuto repressivo, não bastando afirmações genéricas.
+ ..
+Dessa forma, ainda que tenha Lenine proferido palavras que chegaram a atingir a honra de Raquel, tanto que condenado na Justiça Cível ao pagamento de indenização a título de danos morais, não se pode afirmar ter ele praticado o crime de calúnia, vez que teceu declarações deveras genéricas, o que não configura o tipo pelo qual se viu processado, conforme o precedente acima destacado.
+No caso, observa-se que a instância antecedente, após minucioso exame do acervo probatório, concluiu pela inexistência de elementos concretos e coesos a ensejar a condenação do agravado pelo delito de calúnia.
+A Corte de origem destacou que em nenhum momento foi demonstrado que o acusado agiu com animus caluniandi, ou seja, não se verificou a presença do dolo. Assentou que, apesar de ter proferido palavras que seriam ofensivas à honra da vítima, "não imputou a ela suposta prática delitiva com descrição mínima dos fatos, o que não se mostra suficiente à condenação pelo tipo do artigo 138, do estatuto repressivo" (fl. 404).
+Dessa forma, rever o entendimento manifestado no aresto impugnado, a fim de condenar o agravado pela prática do delito previsto no art. 138 c/c o art. 141, III, do Código Penal, tal como pretendido pela agravante, demandaria o reexame de provas, providência vedada no recurso especial, a teor do enunciado sumular n. 7 do STJ, in litteris: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+Logo, reafirmo que não é viável, em recurso especial, desconstituir a conclusão alcançada no acórdão vergastado, uma vez que ficou expresso não haver provas suficientes para a condenação.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 581-582):
+Conforme o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso. Sob essas premissas, constato que, no caso em análise, o julgado não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes aclaratórios.
+O julgado embargado consignou expressamente que, "a instância antecedente, após minucioso exame do acervo probatório, concluiu pela inexistência de elementos concretos e coesos a ensejar a condenação do agravado pelo delito de calúnia" (fl. 559).
+Asseverou que " a  Corte de origem destacou que em nenhum momento foi demonstrado que o acusado agiu com animus caluniandi, ou seja, não se verificou a presença do dolo" e que, "apesar de ter proferido palavras que seriam ofensivas à honra da vítima, não imputou a ela suposta prática delitiva com descrição mínima dos fatos, o que não se mostra suficiente à condenação pelo tipo do artigo 138, do estatuto repressivo" (fl. 559).
+Finalmente, assentou que "rever o entendimento manifestado no aresto impugnado, a fim de condenar o agravado pela prática do delito previsto no art. 138 c/c o art. 141, III, do Código Penal, tal como pretendido pela agravante, demandaria o reexame de provas, providência vedada no recurso especial, a teor do enunciado sumular n. 7 do STJ" (fl. 559).
+Assim, noto que a irresignação da embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+Com efeito, demonstrada a ocorrência da prestação jurisdicional, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
