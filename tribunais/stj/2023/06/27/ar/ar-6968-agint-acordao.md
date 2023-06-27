@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 21/06/2023 a 27/06/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS ALBERTO FRANZONI contra acórdão que julgou improcedente ação rescisória e foi assim ementado (e-STJ fls. 676/677):
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO RESCISÓRIA. INCOMPETÊNCIA. EXAME. INVIABILIDADE. DECADÊNCIA. AUSÊNCIA. EDIFICAÇÕES ERGUIDAS EM ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO. VIOLAÇÃO DA COISA JULGADA E OFENSA A DISPOSITIVO LEGAL. NÃO OCORRÊNCIA. ERRO DE FATO E PROVA NOVA. INEXISTÊNCIA. SUCEDÂNEO RECURSAL. INADEQUAÇÃO.
+1. A Primeira Seção do Superior Tribunal de Justiça tem reputado inadequada e equivocada a arguição de conflito de competência entre o STJ e o Tribunal de Justiça de Mato Grosso do Sul, como preliminar de ação rescisória, ante o manifesto erro grosseiro e a flagrante ausência de previsão constitucional nesse sentido.
+2. Para a propositura da ação rescisória no tribunal que proferiu decisão posteriormente substituída por julgado de outro tribunal, o CPC/2015 trouxe previsão expressa no sentido de admitir a emenda da inicial pelo autor da demanda, com posterior remessa dos autos à Corte competente para examinar o pleito, consoante o art. 968, §§5º e 6º, do CPC/2015.
+3. Essa previsão normativa vem ao encontro das diretrizes processuais trazidas no novo diploma processual civil, entre elas, o prestígio ao modelo do processo cooperativo e ao princípio da primazia do mérito, estampados no art. 6º do CPC/2015, segundo o qual "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva."
+4. In casu, a rescisória foi proposta no Tribunal de Justiça do Estado de Mato Grosso do Sul dentro do lustro decadencial, tendo ocorrido a posterior remessa dos autos a esta Corte Superior.
+5. A Teoria da Relativização da Coisa Julgada tem aplicação "em situações absolutamente excepcionais, em que a segurança jurídica, princípio informador do instituto da coisa julgada, sucumbe diante de valores que, num juízo de ponderação de interesses e princípios, devem a ela sobrepor-se" (REsp 1.782.867/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 06/08/2019, DJe 14/08/2019) e não para os casos em que se questiona eventual injustiça da decisão rescindenda ou se busca corrigir erro de julgamento, como na hipótese presente.
+6. A admissão de ação rescisória ajuizada com fulcro no 966, V, do CPC/2015 (art. 485, V, do CPC/1973) pressupõe a demonstração clara e inequívoca de que a decisão rescindenda contenha motivação manifestamente contrária às normas, princípios e regras que orientam o ordenamento jurídico, sendo inadequada a ação rescisória para o simples fim de rever decisum respaldado em interpretação razoável.
+7. No caso, a interpretação adotada na decisão rescindenda, oriunda da Segunda Turma do STJ, ao restabelecer sentença em que se determinou ao promovente a obrigação de demolir e remover edificações erguidas em área de preservação permanente (margens do rio Ivinhema/MS), não pode ser considerada absolutamente insustentável de forma a embasar a procedência da rescisória.
+8. Incabível a ação rescisória por violação literal de dispositivo de lei quando a matéria suscitada não foi debatida no acórdão rescindendo.
+9. A prova nova apta a aparelhar a ação rescisória, fundada no art. 966, VII, do Código de Processo Civil de 2015, diz respeito àquela que, já existente à época da decisão rescindenda, era ignorada pelo autor ou do qual não pôde fazer uso, por motivos alheios à sua vontade, apta, por si só, de lhe assegurar um pronunciamento jurisdicional distinto daquele proferido, situação aqui não verificada.
+10. Para a configuração do erro de fato apto a ensejar a propositura da rescisória, é necessário a) que o julgamento rescindendo tenha sido fundado no erro de fato; b) que o erro possa ser apurado com base nos documentos que instruem os autos do processo originário; c) que ausente controvérsia sobre o fato; e d) que inexista pronunciamento judicial a respeito do fato.
+11. Na hipótese, a situação retratada na exordial não se amolda à presença de erro de fato apto a rescindir o julgado rescindendo, pois se volta a questionar as consequências fáticas da reparação do dano ambiental constatado na sentença, com vistas a reparar a coisa julgada formada.
+12. A aplicação ao caso concreto das disposições da Lei de Parcelamento do Solo e da Lei de regularização fundiária urbana (Lei n. 13.465/2017), no tocante à observância da distância de 30 metros dos cursos d"água para edificações em área urbana consolidada, denota a utilização indevida da rescisória como sucedâneo recursal.
+13. Pedido improcedente. Embargos de declaração prejudicados.
+Nas suas razões (e-STJ fls. 701/712), a parte agravante reitera razões anteriormente esboçadas, no tocante à suspensão do feito com a necessidade de acolhimento do conflito de competência entre a Corte estadual e o STJ, a ser dirimido pelo STF.
+A parte agravada apresentou impugnação (e-STJ fls. 717/728).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO COLEGIADA. ERRO GROSSEIRO. MULTA.
+1. Incabível agravo interno contra decisão colegiada, conforme dispõem o art. 1.021 do CPC/2015 e o art. 259 do RISTJ, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes.
+2. "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa" (art. 1.021, § 4º, do CPC/2015).
+3. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+O recurso não merece ser conhecido.
+É incabível agravo interno contra decisão colegiada, conforme dispõem o art. 1.021, caput, do CPC/2015 e o art. 259 do RISTJ, constituindo essa interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade.
+Acerca da hipótese:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCABÍVEL. DECISÃO COLEGIADA. ERRO GROSSEIRO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra acórdão da Segunda Turma do STJ, publicado
+em 27/11/2017.
+II. Conforme os arts. 1.021, caput, do CPC/2015 e 259 do RISTJ, o Agravo interno somente é cabível das decisões proferidas pelo Presidente da Corte Especial, de Seção, de Turmas ou de Relator, não sendo possível a sua interposição contra julgamento colegiado, tal como ocorreu, no caso.
+III. Em razão da clareza dos dispositivos em questão, resta impossibilitada a aplicação, na espécie, do princípio da fungibilidade recursal, por se tratar de erro grosseiro. Precedentes: STJ, AgRg no AgRg nos EDcl nos EAREsp 539.126/ES, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 02/09/2015; AgRg no AgRg nos EDcl nos EDv no AgRg no CC 134.824/GO, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 31/03/2015; PET no AgRg no AREsp 687.943/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/08/2015; AgRg no AgRg no AREsp 663.451/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/05/2015.
+IV. Agravo interno não conhecido. (AgInt no AgInt no AREsp 1095558/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+Conferir ainda: AgInt no AgInt no AREsp n. 1.916.106/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/5/2022, DJe de 19/5/2022 e AgInt no AgInt nos EDcl no REsp n. 1.931.034/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022.
+Por se tratar de agravo interno manifestamente incabível, é o caso de aplicação da multa processual prevista no art. 1.021, § 4º, do CPC, a qual fixo em 1% (um por cento) do valor atualizado da causa.
+Nesse sentido, refiro-me aos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. ERRO GROSSEIRO.
+1. Incabível agravo interno contra decisão colegiada, conforme dispõem os arts. 1.021 do CPC/2015 e 259 do RISTJ, constituindo tal interposição erro grosseiro, que inadmite aplicação do princípio da fungibilidade. Precedentes.
+2. "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa" (art. 1.021, § 4º, do CPC/2015).
+3. Agravo interno não conhecido, com aplicação de multa. (AgInt no AgInt no AREsp 1.568.374/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA ACÓRDÃO DA PRIMEIRA SEÇÃO DO STJ. RECURSO MANIFESTAMENTE INCABÍVEL. COMINAÇÃO DE MULTA. ERRO GROSSEIRO CARACTERIZADO.
+1. Cuida-se de Agravo Interno contra "acórdão" da Primeira Seção do STJ que rejeitou os Embargos de Declaração em Conflito de Competência.
+2. É incabível Agravo Interno contra decisão colegiada, conforme dispõe o art. 259 do Regimento Interno do Superior Tribunal de Justiça.
+3. O Agravo Interno só pode ser interposto contra decisão monocrática de relator ou do Presidente de qualquer dos Órgãos Julgadores do STJ. Assim, torna-se evidente a impropriedade da via utilizada pelo ora agravante, não sendo o caso de aplicação do princípio da fungibilidade recursal, por se tratar de erro grosseiro, de acordo com o que dispõe o Código de Processo Civil de 2015 em seu art. 1.021.
+4. Tendo em vista o recurso ser manifestamente inadimissível, caberá a condenação do agravante no pagamento ao agravado de multa fixada em 1% do valor atualizado da causa, em conformidade com o art. 259, § 4º, do Regimento Interno do STJ.
+5. Agravo Interno não conhecido, com aplicação de multa de 1% sobre o valor atualizado da causa. (AgInt nos EDcl no CC 173.384/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+Ante o exposto, NÃO CONHEÇO do agravo interno, com aplicação ao agravante de multa processual de 1% (um por cento) do valor atualizado da causa (R$ 3 0 mil).
+É como voto.
