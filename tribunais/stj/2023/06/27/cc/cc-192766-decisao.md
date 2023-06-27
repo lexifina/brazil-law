@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por GOLD ARGÉLIA EMPREENDIMENTOS IMOBILIÁRIOS SPE S.A - EM RECUPERAÇÃO JUDICIAL em que aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO (SP) e o JUÍZO DE DIREITO DA 2A VARA DO JUIZADO ESPECIAL DE CAMPO GRANDE (MS).
+Narra a suscitante que encontra-se em recuperação judicial (Processo n. 1016422-34.2017.8.26.0100) e, tendo em vista a impossibilidade de habilitação do crédito oriundo de cumprimento de sentença em razão do empreendimento objeto da controvérsia na origem ser vinculado a patrimônio de afetação, o Juízo da execução (Processo n. 0814042-45.2018.8.12.0110) penhorou o bem imóvel com determinação da realização de leilão.
+Refere que "(..) o crédito havia sido excluído da recuperação judicial diante da existência de patrimônio de afetação", contudo "(..) posteriormente, o patrimônio líquido do patrimônio de afetação se tornou negativo, passando o crédito a ostentar a natureza de concursal" (fl. 4).
+Aduz que após peticionar ao juízo do cumprimento de sentença noticiado esse fato novo e requerendo a extinção da execução, tal pleito foi indeferido ao fundamento de que a questão estava preclusa.
+Sustenta que "(..) mesmo quando há patrimônio de afetação, certos créditos continuam a ostentar natureza concursal" (fl. 5).
+Nessa linha, argumenta que:
+"(..)
+18. Antes da constituição do patrimônio de afetação e após sua extinção (art. 31-E, da Lei nº 4.591/64) existe apenas o patrimônio do incorporador, único e indivisível, responsável por todos os direitos e obrigações contraídas.
+19. Ora, extinto o patrimônio de afetação, quem responde pelo pagamento do débito é o patrimônio do incorporador - em recuperação judicial. Do mesmo modo, os créditos afetos à patrimônios de afetação serão concursais quando os passivos do empreendimento superarem os passivos.
+20. No caso em referência, o crédito executado relaciona-se ao patrimônio de afetação do empreendimento imobiliário denominado "Residencial Bela Vista", em que se encontra unidade que havia sido adquirida pela Suscitada.
+21. O referido empreendimento tem mais passivos do que ativos, conforme depreende-se do Balanço Financeiro do exercício findo em março de 2022.
+(..)
+22. Consequentemente, o presente caso enquadra-se na hipótese do PRJ mencionado no item "i" supra. Ou seja, por ser negativo o patrimônio líquido do Empreendimento, o crédito exequendo está integralmente sujeito à recuperação judicial, nos termos da cláusula "1.6.30" do PRJ (vide doc. 02).
+23. Vê-se, assim, que o crédito da Suscitada está sujeito à RJ PDG, pois (i) seu fato gerador é anterior à RJ PDG conforme será demonstrado a seguir e (ii) o patrimônio líquido do patrimônio de afetação a que estava vinculado é negativo."
+Reforça sua argumentação ao aduzir que "Ademais, a extinção do patrimônio de afetação representa modificação do estado de fato e de direito, a exigir nova análise da questão, conforme prevê o artigo 505, inciso I, do Código de Processo Civil" (fl. 11). E defende que o Juízo do cumprimento de sentença usurpou a competência do juízo da recuperação judicial.
+Requer, ao final, o conhecimento do conflito para:
+(i) reconhecer a competência exclusiva do Juízo da 1ª Vara de Recuperações e Falências da Comarca de São Paulo/SP (responsável pelo processamento da recuperação judicial das Suscitantes e demais empresas do "Grupo PDG") para a definição dos critérios para a aferição da natureza dos créditos e para a prática de qualquer ato de constrição patrimonial em desfavor da Suscitante, e;.
+(ii) consequentemente, seja a nulidade dos atos de constrição praticados pela 2ª Vara do Juizado Especial Central da Comarca de Campo Grande/MS, nos autos do Cumprimento de Sentença movido por Aline Cristina Merlos (autos nº 0814042-45.2018.8.12.0110).
+Autuado o presente incidente nesta corte superior e determinada a abertura de vista ao MPF, o Parquet manifestou-se pelo não conhecimento do conflito por ser mera reiteração do CC 179.456/SP (fls. 622-624).
+É, no essencial, o relatório.
+O presente conflito não pode ser conhecido.
+Com efeito, como bem observado pelo representante do Ministério Público Federal, a análise sobre eventual incompetência do Juízo do cumprimento de sentença para os executórios relativos ao imóvel da ação na origem já foi objeto de julgamento pelo STJ quando não conheceu do CC n. 179.456/SP, com decisão transitada em julgado na data de 26/8/2021. Confira-se trecho desse julgado:
+"(..)
+Embora a GOLD ARGELIA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA esteja com sua recuperação judicial deflagrada (e-STJ, fls. 76/82), conforme informações prestadas pelo juízo do cumprimento de sentença às fls. 64/67 (e-STJ), a determinação de penhora recaiu sobre imóvel vinculado a patrimônio de afetação excluído da recuperação judicial do Grupo PDG. Confira-se, a seguir, no que interessa, trecho das informações prestadas pelo referido juízo:
+"(..) Ante a inadmissão da habilitação retardatária promovida pela autora pelo d. Juízo da 1a Vara de Falências e Recuperações Judiciais da comarca de São Paulo/SP, sob fundamento de estar o patrimônio de afetação excluído da Recuperação Judicial do Grupo PDG, conforme decisão proferida a f. 15 dos autos it 1001263-80.2019.8.12.0110. datada de 13.07.2020. a autora requereu o cumprimento de sentença. que foi recebido por este Juizado aos 24.07.2020.
+A executada deixou decorrer o prazo assinalado para cumprimento voluntário da obrigação, tendo sido então, por indicação da exequente, determinada a penhora da unidade autônoma que foi objeto da rescisão do contrato celebrado pelas partes, não tendo sido realizada em cumprimento à determinação de Vossa Excelência, de suspensão do processo.
+Nesse contexto, especialmente atento à prévia manifestação do i. Juízo no qual se processa a Recuperação Judicial da empresa suscitante, e ao disposto no art. 3º, § I, da Lei n. 9.099.95, que atribui aos Juizados Especiais a competência para execução de seus julgados, parece-me, s. m. j., incumbir a este Juízo a execução da sentença proferida nos autos n. 0814042-45.2018.8.12.0110 no que se refere exclusivamente ao patrimônio de afetação da empresa suscitante." (grifei)
+Verifica-se, portanto, que o imóvel objeto de penhora por parte do juízo do cumprimento de sentença pertence a patrimônio de afetação excluído da recuperação judicial do Grupo PDG. Tal circunstância impede a configuração do conflito, na medida em que não houve usurpação de competência do juízo da recuperação judicial, pois, como ressaltado, o referido patrimônio não se submete à recuperação judicial da suscitante."
+(..)
+Desse modo, a extinção do presente conflito é medida que se impõe.
+Ante o exposto, não conheço do conflito de competência."
+Destaco que, ao rejeitar os embargos à execução da exequente, o Juízo de Direito da 2ª Vara do Juizado Especial de Campo Grande (SP) aduziu o seguinte (fls. 22-23):
+"(..)
+Oportuno mencionar quanto a penhora do imóvel, objeto da rescisão contratual, o Superior Tribunal de Justiça apreciou o Conflito de Competência nº 179456-SP (2021/0143267-9), suscitado pela embargante, decidindo que o imóvel objeto de penhora por parte do juízo de cumprimento de sentença pertence ao patrimônio de afetação excluído da recuperação judicial do Grupo PGD, cuja circunstância impede a configuração do conflito, ressaltando que o patrimônio não se submete a recuperação judicial da suscitante, ora embargante, não conhecendo do conflito de competência (fl. 394/398)."
+Desse modo, já tendo sido apreciada a controvérsia no CC 179.456/SP, o presente incidente não pode ser conhecido.
+Ante o exposto, não conheço do conflito com a advertência de que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Comunique-se o teor da presente decisão aos juízos suscitados.
+Publique-se. Intimem-se.
