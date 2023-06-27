@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 164, e-STJ):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PARA O PIS E COFINS. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. VENDA DE CIGARROS. SUBSTITUIÇÃO TRIBUTÁRIA. TEMA Nº 228 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. BASE DE CÁLCULO DAS OPERAÇÕES INFERIOR À PRESUMIDA. PREÇO FINAL TABELADO. ILEGITIMIDADE DO SUBSTITUÍDO TRIBUTÁRIO. PARECER DA PROCURADORIA GERAL DA FAZENDA NACIONAL (PGFN). FALTA DE INTERESSE DE AGIR NÃO CONFIGURADA.
+O direito à restituição da diferença da contribuição ao PIS e da COFINS recolhida a mais, no regime de substituição tributária, na hipótese de a base de cálculo presumida ser superior à efetiva, reconhecido pelo Supremo Tribunal Federal no julgamento do Tema nº 228 da Repercussão Geral, é inaplicável ao setor de cigarros, para o qual há regramento específico com preço tabelado, não se cogitando de falta de interesse de agir do contribuinte quando parecer da Procuradoria Geral da Fazenda Nacional (PGFN) reconhece apenas em tese a aplicação do entendimento do STF a outros setores econômicos sujeitos ao regime de substituição tributária.
+A parte recorrente, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 62 da Lei 11.196/2005; 165 do CTN; 3º da LC 70/1991 e 150, § 7º, da Constituição Federal. Defende, em suma, preencher os requisitos ao reconhecimento do direito à restituição tributária. Aduz (fl. 188, e-STJ):
+(..)
+Nessa análise, o acórdão proferido no evento nº 27, equivocou-se ao dizer que: "Ora, sendo tributado o produto pelo preço final tabelado, não se cogita de base de cálculo presumida superior à efetiva, condição estabelecida para o reconhecimento do direito à restituição." Haja vista que, o tema debatido no presente recurso não se trata de uma venda realizada abaixo do preço final tabelado e sim de um recolhimento a maior em virtude dos fatores multiplicadores, conforme demonstrado pela tabela de detalhamento em anexo.
+Contrarrazões apresentadas às fls. 209-217, e-STJ.
+Decisão de admissibilidade do recurso às fls. 234-235, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.6.2023.
+A irresignação não merece prosperar.
+Trata-se, na origem, de Mandado de Segurança impetrado pela recorrente visando à compensação administrativa das contribuições ao PIS e da Cofins recolhidas antecipadamente no regime de substituição tributária, referente à venda de cigarros no varejo, considerando a diferença entre base de cálculo presumida e efetiva.
+De início, não se presta o Recurso Especial ao exame de suposta afronta a dispositivos constitucionais, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+Na hipótese dos autos, o Tribunal a quo, ao dirimir a controvérsia, concluiu ser inaplicável o Tema 228/STF à parte demandante, porquanto não ficou demonstrada a condição estabelecida pela Suprema Corte para o reconhecimento do direito à restituição.
+Merece transcrição o seguinte excerto do acórdão recorrido (fls. 160-163, e-STJ; grifos acrescidos):
+Evidentemente, esse reconhecimento de que se aplica a tese firmada pelo STF aos setores ainda submetidos ao regime de substituição tributária se deu apenas em tese, cabendo, em cada caso, examinar se a base de cálculo efetiva das operações foi de fato inferior à presumida, condição que consta expressamente da tese firmada no Tema nº 228 da Repercussão Geral ("..se a base de cálculo efetiva das operações for inferior à presumida").
+Ocorre que, no caso da importação, fabricação e comercialização de cigarros, há todo um regramento específico em que o preço final é tabelado e, por isso mesmo, antevisto por ocasião da antecipação do tributo pelos substitutos tributários, conforme didaticamente exposto em voto apresentado pelo Juiz Federal Alexandre Rossato da Silva Ávila na Apelação Cível nº 5007424-37.2021.4.04.7206, julgada pela 2ª Turma, na sessão de 10-05- 2022:
+(..)
+O Tema 228 do STF ("É devida a restituição da diferença das contribuições para o Programa de Integração Social - PIS e para o Financiamento da Seguridade Social - Cofins recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à presumida") não se aplica à hipótese dos autos.
+De fato, o caso julgado pelo STF refere-se ao PIS/COFINS que eram exigidos dos postos de gasolina em um determinado período. Os postos de gasolina passaram a recolher as contribuições que antes eram devidas pelas refinarias, apuradas de acordo com uma base de cálculo estimada, ou seja, presumível preço de venda. No entanto, como as vendas dos combustíveis acabaram ocorrendo em valor inferior àquele estimado, o STF decidiu que os postos teriam direito à restituição, interpretando o art. 150, §7º da CF.
+No caso dos autos - ao contrário do que tinha acontecido com os postos de gasolina - os comerciantes varejistas nada recolhem a título de PIS/COFINS com as vendas de cigarros, uma vez que a tributação, na verdade, está concentrada no fabricante, importador ou comerciante atacadista.
+Assim, na venda de cigarros, o comerciante varejista, na condição de substituído tributário, não tem legitimidade para postular a restituição do PIS/COFINS recolhido pelo substituto quando o preço de venda for inferior ao tabelado.
+Ora, sendo tributado o produto pelo preço final tabelado, não se cogita de base de cálculo presumida superior à efetiva, condição estabelecida para o reconhecimento do direito à restituição.
+(..)
+Nota-se que o órgão julgador decidiu a vexata quaestio com base no suporte fático-probatório dos autos para concluir, à luz do entendimento do STF (Tema 228), pela ausência de condição estabelecida para o reconhecimento do direito à restituição. Com efeito, é evidente que rever as conclusões obtidas demanda o reexame de fatos e provas, inadmissível na via especial ante o óbice da Súmula 7/STJ. Afasta-se, assim, a ideia de simples valoração da prova.
+Consigna-se que o Mandado de Segurança possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para dilação probatória. Com efeito, para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido.
+Ademais, verifica-se que o embasamento adotado pelo acórdão recorrido quanto à existência de distinguishing a impossibilitar a aplicação do Tema 228 do Supremo Tribunal Federal não foi devidamente rechaçado nas razões do Recurso Especial. Permanece tal embasamento incólume, a atrair a incidência do óbice, por analogia, da Súmula 283/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS E MATERIAIS.(..) FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+(..)
+4. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1701653/SP, Rel. Ministro RICARDO VILLAS BOAS CUEVA, TERCEIRA TURMA, DJe 25/03/2021)
+Por fim, no que concerne à apontada divergência jurisprudencial, saliento que esta deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do Voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
