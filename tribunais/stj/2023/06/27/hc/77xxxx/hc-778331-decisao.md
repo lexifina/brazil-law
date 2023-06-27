@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de RICARDO DA SILVA DIAS, originalmente, no Supremo Tribunal Federal, e que foi remetido ao Superior Tribunal de Justiça em razão da decisão exarada pelo Ministro Luiz Fux (fls. 462/468).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, ante o julgamento proferido na Apelação Criminal n. 1502487-97.2019.8.26.0616 (fls. 399/404).
+Alega-se que a condenação transitada em julgado às penas de 5 anos e 10 meses de reclusão, inicialmente, em regime fechado, e de 583 dias-multa, pela prática do delito descrito no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, não se sustenta nos elementos probatórios da ação penal; e que o paciente se enquadra no disposto no art. 33, § 4º, da Lei de Drogas.
+Requer-se o restabelecimento da sentença que havia aplicado as penas de 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, mais pagamento de 193 dias-multa, e substituída a pena privativa de liberdade por restritivas de direitos, consistente na prestação de serviços à comunidade e limitação de sair de sua residência, nos finais de semana, das 22 às 6h . Busca-se, ainda, a imediata expedição de alvará de soltura em favor do paciente.
+Depois de indeferido o pedido liminar (fls. 476/477) e de prestadas informações (fls. 480/493), houve parecer desfavorável do Ministério Público Federal (fl. 500).
+É o relatório.
+Este writ não merece prosperar.
+Primeiro, o habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Segundo, a ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto a linha de entendimento adotada pelo Tribunal local no acórdão ora impugnado encontra respaldo na firme jurisprudência do STJ, sobretudo no que diz respeito ao cometimento do delito nas imediações de estabelecimento escolar, bem como à aplicação do redutor e à dedicação do agente à atividade criminosa.
+A propósito, entre outros, o AgRg no AREsp n. 1.842.386/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 28/10/2022.
+Terceiro, a pretensão esbarra no inadmissível revolvimento do conjunto fático-probatório da ação penal. O writ não é a ferramenta processual adequada para desconstituição do acórdão impugnado.
+Como bem observou o Subprocurador-Geral da República Antônio Carlos Pessoa Lins, o acórdão que julgou a apelação do MP local alterou a dosimetria da pena anteriormente aplicada, ante a qualificadora do art. 40, III, da Lei n. 11.343/06 (tráfico nas proximidades de estabelecimento de ensino) bem como afastou o benefício do tráfico privilegiado em razão do envolvimento do paciente com a atividade criminosa (fl. 500).
+Por essas razões, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. TRÁFICO DE DROGAS NAS PROXIMIDADES DE ESTABELECIMENTO DE ENSINO. DOSIMETRIA DA PENA. APROFUNDADO EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. PARECER ACOLHIDO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
