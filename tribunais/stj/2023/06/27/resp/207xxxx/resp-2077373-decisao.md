@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro cuja ementa é a seguinte:
+Apelação cível. Ação de obrigação de fazer cumulada com indenizatória. Pretensão de fornecimento de água a imóvel localizado em loteamento irregular. Prevalência do direito constitucional à moradia assim como da dignidade da pessoa humana. Imposição da obrigação de fazer à empresa ré com o fornecimento provisório de água por meio de carros-pipa. Fixação de astreintes a ser realizada oportunamente em sede de execução. Dano moral que se verifica.
+1. A causa de pedir se funda na recusa da empresa ré em prestar o serviço de fornecimento de água à residência dos autores conquanto as solicitações apresentadas.
+2. A essencialidade do serviço público de abastecimento de água potável, sem o qual o direito constitucional à moradia (art. 6º da C.R.F.B.) ficaria seriamente comprometido, deve prevalecer sobre a irregularidade no loteamento onde se encontra o imóvel indicado na inicial. A empresa ré não fica tolhida, caso entenda pertinente, de acionar judicialmente o loteador para se ressarcir dos gastos incorridos.
+3. O fato de se cuidar de um loteamento irregular não impede a prestação do serviço público essencial postulado pois não demonstrado impedimento à regularização do imóvel conclusão que se reforça diante do princípio da dignidade da pessoa humana (artigo 1º, III, da C.R.F.B.) 4. Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, na forma do artigo 6º, caput, da Lei 8.987/95 e artigo 6º, inciso X, e artigo 22 do Código de Defesa do Consumidor. Por força do artigo 6º, § 2º, da Lei 8.987/95, cumpre também essa finalidade a melhoria e expansão do serviço.
+5. A recusa em fornecer o serviço público concedido somente se opera em situações excepcionais, mormente quando se trata de serviço vital ao consumidor. Não demonstrando, por exemplo, que o contrato administrativo firmado com o Poder Concedente a exonerava de expandir a rede até o logradouro em que se acha o imóvel.
+6. Conquanto inexistente rede de abastecimento no local e observada a necessidade de obras de grande monta para atendimento da localidade, o fornecimento de água pode ser realizada por meio alternativo como o envio de caminhões pipa periodicamente, até o implemento do abastecimento na localidade. Impõe-se ao consumidor a implementação de meios de receber e armazenar o precioso líquido (com instalação de caixas d"água ou cisternas suficientes) assim como a apresentação das solicitações de envio à empresa, devendo a obrigação ser cumprida pela empresa no prazo de 5 dias a partir da solicitação.
+7. Necessário prontifique-se a parte autora ao cadastramento junto à empresa como cliente assim como arcando pontualmente com as contraprestações mensais inerentes ao serviço.
+8. A eventual impossibilidade de cumprimento da obrigação por circunstâncias imputáveis exclusivamente a parte autora não ensejará a incidência em multa por descumprimento. A fixação das astreintes far-se-á em sede de execução (art. 557, caput, §1º incisos I e II do NCPC).
+8. Aplica-se por analogia o entendimento cristalizado no verbete sumular nº 192 deste Tribunal ("A indevida interrupção na prestação de serviços essenciais de água, energia elétrica, telefone e gás configura dano moral") cabível assim seja a parte autora indenizada por dano moral.
+Adequado ao caso o valor de R$5.000,00 arcando ainda a ré com os ônus da sucumbência.
+9. Recurso parcialmente provido.
+A recorrente alega:
+A decisão recorrida de fls., com a devida venia, merece ser reformada, eis que afronta a disposição literal de lei, bem como desafiam a mansa e pacífica jurisprudência desse Egrégio Superior Tribunal de Justiça, conforme restará demonstrado ao final.
+Deve-se esclarecer que essa recorrente postulou ao Tribunal Local que enfrentasse todos os temas apresentados, explique-se: a alegada violação aos arts. 22, IV, 29, I c/c 30, I da Lei 11.445/2007, artigo 248, CC/02, a fim de que fossem decididas as questões, sob pena de configurar-se omissão no julgado e, por consequência, violação ao art. 1.022, II, do Código de Processo Civil.
+(..)
+A questão jurídica não está restrita ao reexame da prova produzida, não havendo motivo algum para a aplicação da Súmula 07 desse Egrégio Tribunal.
+A recorrente não pretende em nenhum momento modificar a versão fática existente no processo. Ao revés, a intenção da mesma é deixar claro que a discussão eminentemente jurídica existente no bojo do Recurso Especial se fez mediante as premissas fáticas, expressamente admitidas no acórdão recorrido, não havendo de se cogitar de reexaminar a prova para se obter conclusão diversa de que proclamada pelo Tribunal Local.
+(..)
+Observa-se que o acórdão recorrido dispõe que os recorridos não podem ser privados do fornecimento, contudo, não reconhece que a recorrente não pode ser condenada a realizar obras de infraestrutura de grande porte que englobe questões públicas, competindo ao município esta questão.
+Deve ser salientado que, apesar da condenação à recorrente a fornecer o serviço por vias alternativas, o próprio laudo pericial produzido nos autos demonstra às fls. 266 deixa clara a inexistência de cisterna no local.
+(..)
+Conforme é atestado no laudo pericial, o imóvel mencionado na inicial não possui qualquer condição de recebimento de abastecimento, "habite-se" ou cadastramento na municipalidade, não havendo obras estruturais para tal, e, tampouco, cisterna, de forma que a obrigação alternativa de fornecimento por carro pipa também é impossível, ante a ausência de reservação (cisterna).
+No mais, a recorrente traz aos autos fato novo no que tange à obrigação de fornecimento do serviço, eis que não possui mais a concessão, tornando-se a obrigação de fazer impossível, na forma do art. 248, CC/02.
+(..)
+Inicialmente, convém esclarecer que em 2021 ocorreu um fato novo, que inevitavelmente mudou a relação jurídica até aqui existente no que tange ao objeto da presente demanda.
+É fato público e notório a realização do leilão de parte dos serviços outrora concedidos à CEDAE 1 e, diante disso, uma nova concessionária passou a executar parte dos serviços hoje prestados pela Companhia. Trata-se de decisão tomada pelo Estado do Rio de Janeiro, pela Região Metropolitana do Estado do Rio de Janeiro e, ainda, por Municípios diversos do Estado, sobre a qual a CEDAE não possui qualquer ingerência.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.6.2023.
+Ao decidir a vexata quaestio, o Tribunal de origem consignou:
+A essencialidade do serviço público de abastecimento de água potável, sem o qual o direito constitucional à moradia (art. 6º da C.R.F.B. 3 ) ficaria seriamente comprometido, deve prevalecer sobre a irregularidade no loteamento onde se encontra o imóvel indicado na inicial.
+A empresa ré não fica tolhida, caso entenda pertinente, de acionar judicialmente o loteador para se ressarcir dos gastos incorridos.
+Note-se que inexistem pareceres dos órgãos ambientais, municipais e/ou estaduais, no sentido da inexistência de qualquer impedimento de ordem ambiental que possa comprometer os imóveis ou a regularização do loteamento.
+O fato, pois, de se cuidar de um loteamento irregular não impede a prestação do serviço público essencial postulado pois não demonstrado impedimento à regularização do imóvel, como dito, conclusão que se reforça diante do princípio da dignidade da pessoa humana, forte no artigo 1º, III, da C.R.F.B.
+Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, na forma do artigo 6º, caput, da Lei 8.987/95 5 e artigo 6º, inciso X, e artigo 22 do Código de Defesa do Consumidor 6 . Em tais disposições legais, são enumeradas condições que atendam à satisfação de adequação do serviço, como regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas. Por força do artigo 6º, § 2º, da Lei 8.987/95, cumpre também essa finalidade a melhoria e expansão do serviço.
+Ora, a regra é que o serviço seja prestado adequadamente a quem dele necessite, desde que cumpra com sua obrigação de pagar e com as condições de ordem técnica ou de segurança das instalações.
+A recusa em fornecer o serviço público concedido somente se opera em situações excepcionais, mormente quando se trata de serviço vital ao consumidor. Não demonstrando, por exemplo, que o contrato administrativo firmado com o Poder Concedente a exonerava de expandir a rede até o logradouro em que se acha o imóvel.
+Conquanto inexistente rede de abastecimento no local e observada a necessidade de obras de grande monta que venha a atender a parte autora mas também a toda a localidade, o fornecimento de água pode ser realizada por meio alternativo como o envio de caminhões pipa periodicamente, o que poderia ser implementado até o dia em que venha a localidade a ser atendida com a extensão do ramal de abastecimento.
+Cabível, portanto, a imposição do fornecimento de água à parte autora mediante o envio de carros pipas ao local diante de solicitações apresentado pela mesma, obviamente impondo à consumidora a implementação de meios de receber e armazenar o precioso líquido a ser entregue (com instalação de caixas d"água ou cisternas suficientes), devendo a obrigação ser cumprida pela empresa ré no prazo de 5 dias a partir da solicitação apresentada pela autora junto à empresa.
+Necessário, por óbvio, prontifique-se a autora ao cadastramento junto à empresa como cliente assim como arcando pontualmente com as contraprestações mensais inerentes ao serviço.
+A eventual impossibilidade de cumprimento da obrigação retro por circunstâncias imputáveis exclusivamente à autora não ensejarão a incidência em multa por descumprimento.
+(..)
+Preliminarmente, a parte insurgente sustenta que o art. 1.022, II, do CPC/2015 foi violado, mas não aponta, de forma clara, o vício em que teria incorrido o aresto impugnado. Assevera apenas ter oposto Embargos de Declaração, sem indicar a tese ou as matérias sobre as quais deveria pronunciar-se a instância ordinária nem demonstrar a sua relevância para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, o embargante alega ocorrência de contradição na decisão embargada, sem, contudo, explicitar em que consistiria o alegado vício, tecendo argumentos genéricos e desconectados da alegada ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.801.722/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/3/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1.817.079/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019)
+Nota-se ainda que a obrigação de fazer imposta à concessionária está fundamentada em disposição da Constituição Federal, e sua análise é descabida no STJ por ser de competência do STF.
+Ademais, extrai-se do acórdão recorrido e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do acervo fático-probatório dos autos, mormente para avaliar se o loteamento possui condições para armazenamento de água e para perscrutar acerca da legitimidade da parte recorrente, o que é vedado pela Súmula 7/STJ.
+Saliente-se, por fim, que a eventual impossibilidade de cumprimento da obrigação por circunstâncias imputáveis exclusivamente à parte autora não ensejará a incidência em multa por descumprimento.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
