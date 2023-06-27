@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OI S. A. - EM RECUPERAÇÃO JUDICIAL (OI) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 1.591/1.596).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, OI alegou ofensa aos arts. 1.022, I e II, do NCPC, 884 e 886 do CC/2002 e 170, § 1º, da Lei nº 6.404/1976. Sustentou que (1) o aresto recorrido foi omisso, porque não se manifestou acerca da necessária apuração dos dividendos de forma proporcional; (2) o acórdão rechaçado ainda foi omisso, uma vez que não se pronunciou sobre a apuração de valores das ações VIVO; (3) o aresto objurgado foi igualmente omisso, pois deixou de observar o grupamento de ações; (4) o acórdão vergastado foi omisso, já que não se manifestou quanto à fixação dos honorários advocatícios; e, (5) a não observância dos parâmetros ocasiona o enriquecimento ilícito da parte adversa.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.543/1.548).
+Da eventual assertiva de omissões no aresto recorrido
+OI alegou ofensa ao art . 1.022, I e II, do NCPC. Sustentou que (1) o aresto recorrido foi omisso, porque não se manifestou acerca da necessária apuração dos dividendos de forma proporcional; (2) o acórdão rechaçado ainda foi omisso, uma vez que não se pronunciou sobre a apuração de valores das ações VIVO; (3) o aresto objurgado foi igualmente omisso, pois deixou de observar o grupamento de ações; e, (4) o acórdão vergastado foi omisso, já que não se manifestou quanto à fixação dos honorários advocatícios.
+Sobre o tema, a Corte local assim consignou:
+PROPORCIONALIDADE DOS DIVIDENDOS.
+A tese defendida pela agravante é de que os agravados deveriam receber dividendos somente na proporção dos meses do exercício em que figuraram como acionistas da companhia.
+Ocorre que não há previsão estatutária nesse sentido, devendo haver distribuição dos dividendos em sua forma integral.
+ ..
+Complementa tal raciocínio a lição de Fábio Ulhoa Coelho
+"A distribuição do dividendo obrigatório somente não será feita em duas hipóteses: se os órgãos da administração informarem à Assembleia Geral Ordinária que a situação financeira da companhia não é compatível com o seu pagamento; ou por deliberação da Assembleia Geral de companhia fechada, se não houver oposição de qualquer dos acionistas presentes. Nestas situações, os lucros não distribuídos constituirão reserva especial, e serão atribuídos aos acionistas se e quando o possibilitar a situação financeira da companhia".
+Não se configurando hipótese de não pagamento ou de pagamento proporcional, atrai-se a regra: são devidos in totum os dividendos.
+PARCELA DE AÇÕES DA VIVO.
+Consoante bem referiu a decisão agravada, está preclusa a discussão deste tópico, uma vez que os agravados apresentaram os cálculos no cumprimento de sentença com base em informações cadastrais fornecidas pela companhia ora agravante quando este feito ainda se encontrava na fase de conhecimento.
+Aliás, tal pretensão sequer foi objeto do recurso de apelação manejado pela companhia contra a sentença que encerrou a fase cognitiva.
+AÇÕES DA TELEFONIA FIXA. GRUPAMENTO ACIONÁRIO. Descreve a companhia agravante que os cálculos de indenização das ações apresentados pelos agravados fazem a transformação das ações CRT para Brasil Telecom, numa operação de multiplicação por 48,56495196, sucedendo uma divisão de ações da Brasil Telecom por mil, sendo o produto de tudo isso multiplicado pela cotação das ações em 13/02/2017. Sustenta que não foi obedecido o agrupamento por lote de 10 ações, ocorrido em 22/12/2014.
+Compulsando os cálculos das fls. 1107-1139 destes autos eletrônicos, não encontrei o apontado equívoco. Assim sendo, em harmonia com o que estabeleceu a decisão recorrida, considero correto o grupamento acionário aplicado nos cálculos impugnados.
+HONORÁRIOS.
+Adoto como razões de decidir os irretocáveis fundamentos desenvolvidos pelo MM. Magistrado singular Celso Roberto Mernak Fialho Fagundes:
+Os honorários impostos aos autores excluídops da lide (vide fl. 449v) não devem ser incluídos no cálculo do valor devido aos demais demandantes, cabendo à ré, se for o caso, requerer o cumprimento de sentença contra os devedores da verba (e-STJ, fls. 1.444/1.448).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJRS emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que não existe previsão estatutária de recebimento de dividendos proporcionalmente aos meses do exercício em que os agravados figuraram como acionistas da companhia, devendo haver distribuição dos dividendos de forma integral. Ademais, ficou evidenciado estar preclusa a discussão acerca de parcela de ações da VIVO. Além disso, observou-se que tal pretensão sequer foi objeto do recurso de apelação. Outrossim, ficou assentado haver correção quanto aos cálculos do grupamento acionário. Por fim, ficou explicitado que os honorários impostos aos autores excluídos da lide não devem ser incluídos no cálculo do valor devido aos demais demandantes.
+O que se vê, na verdade, é a irresignação da OI com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto no art. 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no mencionado artigo.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+No tocante à violação dos arts. 884 e 886 do CC/2002 e 170 da Lei nº 6.404/1976
+OI alegou ofensa aos arts. 884 e 886 do CC/2002 e 170, § 1º, da Lei nº 6.404/1976. Sustentou que a não observância dos parâmetros ocasiona o enriquecimento ilícito da parte adversa.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que OI não apresentou argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a indicar a violação do art. 170, § 1º, da Lei nº 6.404/1976 e a afirmar que a não observância dos parâmetros ocasiona o enriquecimento ilícito da parte adversa.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+Nessas condições, CONHEÇO do agravo para CONHECER em parte do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar terma referente à majoração da verba honorária, porque não fixada nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. AGRAVO DE INSTRUMENTO. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE, E NESTA, NÃO PROVIDO.
