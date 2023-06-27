@@ -1,0 +1,18 @@
+DECISÃO
+Na origem trata-se de embargos à execução. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 10.000,00 (dez mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. TERMO DE AJUSTAMENTO DE CONDUTA. PRELIMINAR DE ILEGITIMIDADE PASSIVA ANALISADA COMO MÉRITO. EXIGIBILIDADE DA MULTA. DESCUMPRIMENTO DOS TERMOS NEGOCIADOS ENTRE AS PARTES OCORRÊNCIA. EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO. NÃO COMPROVAÇÃO. IRREGULARIDADES PRATICADAS PELA APELANTE ENSEJOU AUTUAÇÃO. MANUTENÇÃO DA SENTENÇA QUE JULGOU IMPROCEDENTES OS EMBARGOS OPOSTOS À EXECUÇÃO, TAMBÉM POR SEUS FUNDAMENTOS ADOTADOS COMO RAZÃO DE DECIDIR, NOS TERMOS DO ART. 252 DO REGIMENTO INTERNO DESTE TJSP. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A preliminar de ilegitimidade passiva se confunde com o mérito e com ele será analisada.
+(..)
+o entendimento da r. sentença deve prosperar, não trazendo a parte apelante elementos suficientes a ilidir seu embasamento. Ressalte-se, inicialmente, que a apelante presta serviços, ainda que através de outra empresa, integrando, portanto, a cadeia de consumo, o que afasta a alegação de ilegitimidade passiva. No mais, trata-se de empresa que explora o ramo de serviços funerários e, nessa condição, tem diversificado suas atividades, anunciando e comercializando os denominados "cartões de descontos" para consultas médicas e exames laboratoriais, dentre outros serviços de saúde.
+(..)
+como bem observou o juízo sentenciante: "a prática da embargante acabou por violar o termo de ajustamento de conduta firmado, nada havendo que possa obstar a exigibilidade do título executivo, por parte do Ministério Público." As singelas assertivas da apelante não se sustentam. E como já diziam os romanos "allegare nihil et allegatum non probare paria sunt", vale dizer alegar e não provar equivale a nada alegar.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
