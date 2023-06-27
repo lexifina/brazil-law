@@ -1,0 +1,77 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. TRE. OBRA PÚBLICA. ATRASO NA CONCLUSÃO DOS SERVIÇOS. APLICAÇÃO DE PENALIDADES. MULTA COMINATÓRIA E MULTA MORATÓRIA. CULPA DA CONTRATADA. RAZOABILIDADE NOS PERCENTUAIS DAS MULTAS FIXADAS.
+
+    1. Apelação interposta pela Empresa Autora em face de sentença que julgou improcedentes os pedidos, quais sejam, o de anulação do ato administrativo que aplicou a ela multas em razão de suposto atraso na execução de contrato firmado com o Tribunal Regional Eleitoral de Sergipe, bem como o de reforma do aludido ato administrativo para que sejam excluídas as referidas multas, imputando-lhe apenas pena de advertência, em respeito aos princípios da razoabilidade e da proporcionalidade. A Empresa Demandante foi condenada no pagamento de honorários sucumbenciais fixados em 10% sobre o valor atualizado da causa.
+
+    2. O referido contrato foi celebrado em 06/09/2019 para o fornecimento de sistemas de energia solar fotovoltaica ON-GRID para 11 (onze) fóruns eleitorais do interior do estado de Sergipe, tendo valor global de R$ 474.566,66 (quatrocentos e setenta e quatro mil, quinhentos e sessenta e seis reais e sessenta e seis centavos), com prazo de vigência de 210 (duzentos e dez) dias, que se iniciou a partir de 09/09/2019, data estabelecida na Ordem de Serviço.
+
+    3. As multas aplicadas, após o devido processo administrativo, foram as seguintes: "a) multa moratória, a razão de 10% (dez por cento) sobre o montante de R$ 326.674,53, que corresponde à R$ 32.667,45, pelo atraso no cumprimento do objeto contratual referente aos Cartórios Eleitorais dos municípios de Estância, Gararu, Tobias Barreto, Itaporanga D' Ajuda, Nossa Sra. do Socorro, Boquim, Simão Dias e Itabaiana, com fundamento nos itens 8.2, 8.4 e 8.12 (e seus subitens) do Contrato 8/2019 e art. 86, § 1o da Lei 8.666/1993; b) multa compensatória, a razão de 4,5 % (cinco por cento) sobre o valor de R$ 326.674,53, equivalente à R$ 14.700,35, pelo prejuízo causado à Administração decorrente do atraso verificado, com fundamento nos itens 8.1, 8.1.2, 8.1.2.3, 8.4, 8.6 e 8.12 (e seus subitens) do Contrato 8/2019 e art. 87, II da Lei 8.666/1993;".
+
+    4. Considerando que o Supremo Tribunal Federal já firmou posicionamento de que a motivação referenciada "per relationem" não constitui negativa de prestação jurisdicional, tendo-se por cumprida a exigência constitucional da fundamentação das decisões judiciais (HC 160.088 AgR, Rel. Ministro Celso de Mello, Segunda Turma, julgado em 29/03/2019, Processo Eletrônico DJe-072, Public 09-04-2019; e AI 855.829 AgR, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 20/11/2012, Public 10-12-2012), adota-se como razões de decidir os fundamentos da sentença.
+
+    5. "Aponta, em síntese, a ocorrência de força maior para justificar a mora na execução da obra, qual seja, a pandemia da Covid 19."
+
+    6. "As penalidades impostas à autora tiveram por fundamento o previsto no Contrato de Prestação de Serviços n. 8/2019, que firmou com a União, por intermédio do Tribunal Regional Eleitoral de Sergipe, mais precisamente na cláusula oitava, (...)".
+
+    7. "Com efeito, as multas previstas no art. 86 da Lei 8.666/93 estão relacionadas ao descumprimento dos prazos contratuais. Trata-se, portanto, de multas moratória e sancionatória, de natureza pecuniária. O escopo da multa não é outro senão o penalizar o causador do atraso, permitindo, de outro lado, que o contrato seja ultimado - - com a entrega da obra contratada." in casu
+
+     8. "Nesse passo, identificada a licitude da imposição da multa, resta agora apurar se a aplicação da sanção pela autoridade administrativa é legítima tendo em conta as razões apontadas pela autora, que indicam a existência de força maior, caracterizada pela pandemia, bem como a falta de comunicação entre as partes envolvidas."
+
+    9. "O prazo fixado para a execução dos serviços foi de 120 dias contados a partir de 09/09/2019, conforme data estabelecida na Ordem de Serviço. Assim, o prazo final para que a autora entregasse todo o serviço contratado foi em 06/01/2020. O estado pandêmico somente foi decretado em 20/03/2020, através do Decreto Legislativo nº 06, ou seja, dois meses após o término do prazo contratual. Ao contrário, o que se vê de tudo que está contido nos autos, é que a empresa autora somente concluiu o serviço em 15/07/2020, isto é, 192 dias após a data fixada contratualmente para o cumprimento do objeto pactuado. Assim, a alegação da pandemia não se sustenta."
+
+    10. "Ora, a autora alega demora do TRE para prestar informações que seria de obrigatoriedade da própria empresa contratante, a exemplo de fotos de disjuntores, do norte magnético, das estruturas dos telhados dentre outros dados. Acaso a autora tivesse vistoriado os imóveis previamente já saberia de antemão o que deveria ser providenciado para o perfeito andamento da obra. A primeira vistoria realizada pelo engenheiro da empresa contratante somente ocorreu a partir de 30/09/2019, ou seja, vinte dias após a assinatura da ordem de serviço. Vê-se de logo que não pode imputar a demora à entidade pública."
+
+    11. "Em que pese impute à entidade pública demora no reforço dos telhados, este foi concluído em novembro de 2019, não concorrendo para o atraso da conclusão do serviço, já que a instalação das placas fotovoltaicas ocorreram no dia 03 de dezembro."
+
+    12. "Outra alegação da empresa demandante diz respeito à demora nas assinaturas das ARTs, quando ela própria enviou a documentação sem a sua assinatura, sendo a responsável técnica pelo projeto."
+
+    13. "Em relação à aquisição dos equipamentos, a ré não pode ser responsabilizada pela necessidade de substituição do fabricante e modelo dos painéis. Os modelos e especificações estavam previstos e aprovados durante o procedimento licitatório ocorrido em agosto de 2019, sendo de responsabilidade da autora a sua aquisição, tão logo assinasse a ordem de serviço. Ainda que tal "imprevisto" tenha causado retardamento para cumprimento do objeto contratual, não justifica os 192 dias de atraso. Ressalte-se que 192 dias de atraso supera e muito o tempo de 120 dias fixados para execução do contrato. O objeto do contrato terminou sendo cumprido em 312 dias!!"
+
+    14. "Ora, quando um órgão público firma um contrato administrativo, ainda mais se tratando de órgão vinculado à União, ele possibilita ao contratante todas as ferramentas possíveis para a fiel execução do objeto contratado. No presente caso não houve desculpas para que a empresa contratante pudesse executar bem o seu serviço, mesmo porque todas os pontos foram previamente estabelecidos, a exemplo das especificações de materiais, valor contratado, prazo fixado e suporte para a perfeita execução do serviço através de uma comissão de fiscalização."
+
+    15. "A bem da verdade o que se percebe é que não houve um planejamento da empresa contratante para a execução do serviço dentro do prazo previsto em contrato."
+
+    16. Restou claro que não houve violação à ampla defesa e ao contraditório, nos autos do Processo Administrativo, uma vez que a Empresa Contratada foi devidamente intimada para apresentar defesa prévia e, ao final, para recorrer, tendo se manifestado nesses dois momentos com a apresentação dos seus argumentos de defesa.
+
+    17. Não obstante o atraso de 192 dias para a conclusão da obra, somente foram considerados para o cálculo da multa de mora o total de 62 dias de mora, denotando a devida proporcionalidade e razoabilidade na fixação dessas penalidades. Nesses cálculos, levou-se em consideração que a compra dos inversores somente ocorreu 4 dias antes do prazo final da execução do objeto contratual (em 02/01/2020). Portanto, ainda que não ocorressem quaisquer problemas relacionados à instalação das placas fotovoltaicas, a conclusão do serviço sofreria atraso significativo. Consoante informação contida no PA, os inversores foram entregues no Tribunal em 14/06/2020 e a conclusão da obra ocorreu em 15/07/2020, 32 dias depois. Além do mais, considerou o tempo necessário de trânsito dos equipamentos entre a China e Aracaju/SE, entendendo que levariam, ao menos, 30 dias para chegar ao Tribunal, mesmo que não estivesse em pandemia. Ao todo, portanto, seriam 62 dias de atraso para fins de cálculo da multa de mora.
+
+    18. Ainda é importante ressaltar que a própria Empresa Contratada, ora Apelante, reconheceu, nas suas razões recursais, que a Administração Pública permitiu a execução dos serviços durante o período de recesso de Natal e Ano Novo, mas que esses serviços não foram executados porque "os trabalhadores destinados mereciam também estar com a família", mostrando que a paralisação dos serviços nessa época ocorreu por decisão e conveniência da própria Contratada.
+
+    19. Também não há ilegalidade na escolha da penalidade de multa cominatória, ao invés de advertência, uma vez que a multa é exatamente para as hipóteses de não cumprimento de prazos, como ocorreu no presente caso.
+
+    20. No que toca aos critérios para a fixação dos percentuais de multa, também não houve qualquer ilegalidade no ato administrativo perpetrado pelo TRE, porquanto estabelecidos em consonância com a legislação vigente e com o contrato administrativo. A Recorrente, por sua vez, não indica onde estariam os excessos perpetrados pela Administração Pública na tarefa de fixação das multas. De qualquer forma, vale a pena esclarecer os motivos que levaram o Contratante a estabelecer tais valores.
+
+    21. Quanto à multa de mora, foram excluídos os valores correspondentes às etapas referentes aos Fóruns de Lagarto e Porto da Folha, num total de R$ 100.435,52, uma vez que foram concluídas tempestivamente. A esse montante, somou-se o valor correspondente aos projetos aprovados (R$ 47.456,61). Considerando o valor total do contrato - R$ 474.566,66 - e abatendo-se R$ 147.892,13 (soma dos dois itens acima), a base de cálculo da multa de mora, prevista no item 8.2 da avença, é de R$ 326.674,53, que representa a soma das etapas não concluídas no prazo contratual. No caso, o pacto previu multa moratória de 0,2% (dois décimos por cento) sobre o valor de cada etapa da contratação, por cada dia de atraso na finalização da respectiva etapa, limitada ao percentual máximo de 10% (dez por cento). Assim, aplicou-se a multa em seu valor máximo, tendo em vista que o atraso extrapolou 50 dias.
+
+    22. Por sua vez, a multa compensatória foi prevista, no item 8.1.2.3 do contrato, em até 15% para os casos de não cumprimento de obrigações, especificações, projetos ou prazos. Ademais, também foi considerado o prejuízo causado à Administrativo que deixou de economizar, por 62 dias, nos valores das contas de energia dos TREs dos Municípios onde houve atraso na conclusão da obra. Assim, o Contratante fixou essa multa em 4,5% também sobre o valor de R$ 326.674,53 (soma das etapas não concluídas no prazo contratual), que equivale a R$ 14.700,35, percentual este bem inferior ao teto máximo previsto, o que se mostra suficiente para refutar a alegação de violação aos princípios da razoabilidade e da proporcionalidade.
+
+    23. As duas espécies de multa, portanto, foram estabelecidas de forma justa e razoável.
+
+    24. Apelação improvida. Condenação da Apelante no pagamento de honorários recursais, ficando majorados em 1% (um por cento) os honorários sucumbenciais fixados na sentença, nos termos do art. 85, § 11, do CPC.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III e IV; e 3º, II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.Nesse sentido, ARE 715.689, Rel. Min. Roberto Barroso, DJede 6/2/2014, AI 768.630, Rel. Min. Gilmar Mendes, DJede 25/6/2011, e ARE 1.277.514-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJede 28/9/2020, esse último, assim ementado:
+
+    “CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULAS 279 E 454 DO STF. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas e das cláusulas contratuais. Incidem, portanto, os óbices da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) e 454 (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário), ambas desta Corte. 5. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário)”.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de junho de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
