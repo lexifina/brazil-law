@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por DIJORAH MORAES DE ARAUJO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 147-155):
+APELAÇÃO - Ação de indenização por danos morais - Transporte aéreo Voo doméstico - Atraso e perda de voo em conexão - Chegada ao destino final após 13 horas do horário contratado - Sentença de improcedência com condenação da autora em multa por litigância de má-fé - Ré que suscita ocorrência de problema técnico operacional - Motivo que caracteriza fortuito interno e não exclui a responsabilidade objetiva do transportador - Falha na prestação dos serviços, de fato, configurada - Situação, contudo, que, em tese, não basta para configurar dano de natureza moral - Ônus da autora de fazer prova de eventual transtorno que ultrapasse à média das situações cotidianas - Inteligência do disposto no artigo 373, inciso I do CPC - Descumprimento - Ré que, por outro lado, comprova ter fornecido assistência material à demandante a despeito de sua negativa - Litigância de má-fé devidamente reconhecida - Multa corretamente aplicada - Sentença de improcedência mantida - Recurso desprovido, com majoração da verba honorária de sucumbência.
+Não foram interpostos embargos de declaração.
+No recurso especial, o recorrente alega, no mérito, que o acórdão recorrido violou os arts. 6º, VI, 14 e 30 do CDC e 186, 734, 737 e 927 do Código Civil, pois a recorrida deveria ser condenada a indenizar por danos morais a ora recorrente em razão da eventual falha na prestação de serviços aéreos.
+O recorrido ofereceu contrarrazões ao recurso especial (fls. 171-183).
+Sobreveio o juízo de admissibilidade negativo na instância de origem pelo óbice da Súmula n. 7/STJ (fls. 184-185), o que ensejou a interposição do presente agravo.
+O agravado apresentou contraminuta do agravo (fls. 204-214).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, não merece conhecimento o apelo nobre quanto à suscitada violação dos arts. 6º, VI, 14 e 30 do CDC e 186, 734, 737 e 927 do Código Civil, relativos à ocorrência ou não do dano moral.
+Ocorre que, da análise do acórdão recorrido, verifica-se que o Tribunal de origem decidiu a lide com base no conjunto fático-probatório carreado aos autos nos seguintes termos (fls. 151-153):
+Na hipótese dos autos, a intercorrência em comento não bastou para configurar dano de natureza moral, ainda que consideradas as condições físicas da autora.
+Isto porque a apelada não submeteu a apelante a qualquer situação vexatória ou constrangedora a ponto de violar os chamados direitos da personalidade que interferem diretamente no princípio da dignidade da pessoa humana.
+Anote-se que a despeito de alegar longa espera no aeroporto em fila com mais de 100 pessoas, não é o que se observa das gravações por ela providenciadas, com links de acesso disponibilizados a fls. 85/87.
+Era seu o ônus de fazer prova de eventual transtorno que ultrapassa à média das situações do dia a dia nesse campo, à luz do disposto no artigo 373, inciso I do CPC.
+Contudo, dele não se desincumbiu, não se inferindo dos autos sofrimento físico ou psicológico aptos a configurar dano de natureza imaterial.
+Noutro giro, restou comprovado pela ré a prestação de assistência material à autora, consistente no fornecimento de hospedagem e alimentação no período de espera pelo novo voo (fls. 84).
+Ora, não ficou a demandante à mercê da própria sorte como sinaliza ao negar, em réplica, qualquer assistência por parte da requerida.
+E em que pese a ausência de comprovação de fornecimento de traslados de ida e volta aeroporto/hotel/aeroporto, cujo reembolso de despesas sequer fora pleiteado nesta demanda, tem-se que os fatos não imprimiram na recorrente grave perturbação e/ou sofrimento a ponto de atingi-la em seu equilíbrio. Em suma, em que pesem os transtornos vivenciados, não ficou a demandante lançada ao léu.
+Ao contrário, recebeu da requerida a devida assistência que se mostrava possível e razoável naquele momento, não passando os fatos de contratempos suportáveis, sem qualquer marca de sofrimento, humilhação e constrangimento que dão ensejo à indenização.
+ ..
+Nesse sentido, considerando que rever as conclusões do Tribunal de origem acerca da ocorrência ou não do dano moral demandaria nova incursão no conjunto fático-probatório, as razões recursais esbarram no óbice da Súmula n. 7/STJ.
+Cito precedente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO DE VÔO. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela inexistência de dano moral. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte. 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.296.620/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2019, DJe de 30/5/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO. ATRASO DE VOO. APLICABILIDADE DO CDC. TEMA 210/STF. NÃO INCIDÊNCIA DO ACORDO INTERNACIONAL EM RELAÇÃO AO DANO MORAL. SÚMULA 83 DO STJ. DANO MORAL CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. "No precedente firmado em sede de repercussão geral (RE 646.331/RJ - Tema 210/STF) o STF afastou expressamente a aplicação da Convenção de Montreal ao dano moral, uma vez que não estaria regulado pelo acordo aludido, atraindo a aplicação da lei geral, no caso, o CDC. No caso, a pretensão deduzida na origem diz respeito unicamente à compensação por dano moral por atraso em voo. Desse modo, ausente regulação da matéria em acordo internacional, aplica-se o lustro prescricional previsto no art. 27 do CDC" (AgInt no REsp 1.944.539/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe de 25/11/2021).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de danos morais em virtude da má prestação do serviço (atraso de voo, superior a seis horas) e da ausência de qualquer conduta tendente a minimizar os transtornos dos passageiros. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial. Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.151.537/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 20/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos pr évia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
