@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Edson Moreira de Assis, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2082252-26.2023.8.26.0000).
+Verifica-se dos autos que o paciente foi preso em flagrante delito pela suposta prática dos crimes de receptação, resistência, embriaguez ao volante e dirigir veículo automotor, em via pública, sem habilitação. Posteriormente, a prisão preventiva foi decretada.
+Neste mandamus, alega o impetrante que os crimes imputados ao paciente são sem violência e grave ameaça à pessoa, que ele é primário, sem antecedentes, tem residência fixa e emprego lícito.
+Requer, inclusive em liminar, a concessão da liberdade provisória ou, subsidiariamente, a substituição da prisão por outras medidas cautelares.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Moacir Mendes Sousa, pelo não conhecimento da impetração (fls. 185/190).
+É o relatório.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, a ordem não comporta concessão.
+In casu, há referência, na origem, à gravidade concreta da conduta. Vejamos, no ponto, o que consta do acórdão impugnado (fls. 15/17 - grifo nosso):
+ ..
+O paciente foi preso em flagrante e está sendo processado porque, em 22 de março de 2023, por volta das 21h30min, recebeu, em proveito próprio, um estepe e um triângulo ambos de veículo Chery/Tiggo 2, uma babá eletrônica, um assento infantil para veículo, uma bolsa, uma blusa, dois cobertores e uma mochila infantil, coisas que sabia se produto de crime, em prejuízo a Ana Carolina Fernandes Ramos.
+Segundo os policiais que atenderam a ocorrência irradiada via COPOM, avistaram o veículo Tiggo, produto de roubo, estacionado e abandonado e, posteriormente, aproximou-se o veículo fiat Siena cor escura (que estaria escoltando o veículo Chery/Tiggo roubado) em tese conduzido pelo paciente, e teria retornado, realizando manobra brusca e perigosa, ao visualizar a guarnição policial, ensejando o acompanhamento dos agentes.
+Quando por fim abordado, o paciente desceu do veículo "bastante alterado, com sintomas de embriaguez, e logo no início da abordagem desacatou os policiais dizendo "gordo, te conheço, conheço sua família, sei onde você mora, isso não ficará assim" "quer ver eu tentar quebrar vocês dois aqui "" (fls. 29/30).
+Iniciada a vistoria veicular, no interior do Fiat/Siena, foram encontrados uma blusa vinho, uma mochila infantil prata de asinha de borboleta, uma bolsa térmica, dois cobertores para doação, uma babá eletrônica, um assento infantil, um pneu estepe e um triângulo. Questionado acerca daqueles objetos ali localizados, declarou que teria recebido de um desconhecido momentos antes da abordagem.
+A vítima, contudo, reconheceu os objetos na delegacia (fl. 39) como sendo produto de roubo sofrido apenas cerca de dez minutos antes dos fatos.
+ ..
+Com efeito, em que pese tratar-se de crime sem violência ou grave ameaça, consta que o veículo que o paciente conduzia teria abordado e fechado o veículo da vítima, segundo suas declarações (fl. 32), sendo o paciente surpreendido poucos momentos após o crime de roubo e na posse dos bens de propriedade da vítima.
+Portanto, considerando as circunstâncias subjetivas do paciente, nota-se que não se mostram suficientes, in casu, as medidas alternativas previstas no art. 319 do Código de Processo Penal, pois verificada a necessidade da segregação cautelar em prol da garantia da ordem pública.
+ ..
+Com efeito, ao decretar a prisão preventiva disse o Magistrado que, embora a liberdade de locomoção seja a regra mesmo na pendência de apuração criminal, por força do devido processo legal e da presunção de inocência de que trata o art. 5º, incisos LIV e LVII, da Constituição Federal, no caso, a medida se mostra necessária para garantir a ordem pública, verificando-se perigo concreto provocado pelo estado de liberdade dos custodiados. No caso, há indicativos suficientes de que o custodiado tenha praticado o crime com grave ameaça contra pessoa, escolhida vítima sozinha, apenas com seu filho de 7 anos, e especialmente vulnerável, atuando com o emprego ao menos de um simulacro de arma de fogo. Depois, empreendida fuga em estado de embriaguez e em alta velocidade, pôs em risco a incolumidade pública. E, abordado, ainda mostrou desacato, ameaçando os policiais (fl. 82 - grifo nosso).
+Da leitura dos trechos acima não se vislumbra ilegalidade da decisão combatida, uma vez que concretamente fundamentada na garantia da ordem pública, considerando a gravidade dos delitos e as circunstâncias em que praticados.
+Ademais, com razão o Ministério Público Federal quando destacou que as medidas cautelares diversas de prisão não se mostram adequadas e suficientes para a efetividade do processo, mormente por se encontrarem presentes os requisitos autorizadores da prisão preventiva, sendo de rigor, portanto, a manutenção da custódia cautelar do acusado (fl. 190).
+Ante o exposto, à vista do parecer, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO, RESISTÊNCIA, EMBRIAGUEZ AO VOLANTE E DIRIGIR VEÍCULO AUTOMOTOR, EM VIA PÚBLICA, SEM HABILITAÇÃO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
