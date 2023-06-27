@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WALLACE ARMANDO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do Agravo em Execução n. 7000367-45.2022.8.26.0482.
+Depreende-se dos autos que o juízo da execução indeferiu a progressão de regime ao paciente pelo não preenchimento do requisito subjetivo.
+No presente writ, a defesa sustenta, em síntese, a inidoneidade dos fundamentos utilizados para o indeferimento da progressão.
+Assere que o paciente preenche os requisitos exigidos para a obtenção da benesse e, inclusive, possui ótimo comportamento carcerário.
+Requer, liminarmente e no mérito, a promoção do apenado ao regime semiaberto.
+É o relatório.
+Decido.
+No caso em análise, a defesa pretende, em síntese, a concessão da progressão de regime.
+In casu, o juízo da execução penal indeferiu o pleito defensivo sob os seguintes fundamentos (fl. 23):
+Em que pese a atual boa conduta carcerária e o preenchimento do requisito objetivo, o sentenciado, com longa pena por cumprir (26/08/2054), não reúne méritos subjetivos suficientes para a imediata progressão de regime, eis que cumpre pena por crimes praticados com violência contra a pessoa (latrocínio tentado e roubos), inclusive após liberdades provisórias, revelando-se tratar de pessoa perigosa, corrompida pelo submundo do crime e nociva à sociedade, sendo indispensável a manutenção de sua segregação no regime fechado por maior período, visando a necessária e adequada reeducação penal para, posteriormente, revelar seu merecimento a futura progressão a regime mais brando.
+Vale dizer, diante da situação específica do sentenciado, apesar do atestado de bom comportamento carcerário, não se pode dizer somente com base nele que está preenchido o requisito subjetivo, eis que deve demonstrar de forma clara que conseguiu desenvolver senso de responsabilidade para sua autocontenção diante das frustrações normais da vida e, por óbvio, frear os seus instintos primitivos para suportar as regras da vida com vigilância mais branda.
+Por sua vez, o Tribunal de origem chancelou a decisão singular a teor dos excertos abaixo, no que interessa (fl. 58):
+Quanto ao requisito subjetivo, o comportamento carcerário do agravante é considerado ótimo (fls. 03). Contudo, depreende-se dos autos que o sentenciado cumpre pena de 42 (quarenta de dois) anos, 04 (quatro) meses e 08 (oito) dias de reclusão. em regime fechado (fls. 04), tendo iniciado o cumprimento da pena em 02 de abril de 2009, com o término do cumprimento da pena previsto para 26 de agosto de 2054, devido à prática de delitos praticados com violência e grave ameaça à pessoa, latrocínio tentado e roubo (fls. 03/08).
+Destaca-se que o boletim informativo dispõe que o comportamento carcerário do sentenciado é ótimo (fls. 03), todavia, o bom comportamento carcerário nem sempre basta para preencher o requisito subjetivo indispensável à progressão, pois não pode ser confundido com aptidão ou adaptação e, não obrigatoriamente, serve como índice fiel de sua readaptação social. Não se pode olvidar que se recuperou só porque possui bom comportamento.
+Ora, em termos legais, a progressão de regime está condicionada ao preenchimento dos requisitos objetivo e subjetivo.
+Na hipótese vertente, tendo o paciente alcançado o requisito temporal e em havendo reconhecimento do seu "ótimo comportamento" carcerário durante o período da execução da pena, não se mostra possível o indeferimento da benesse, ao fundamento de necessidade de maior tempo no regime mais gravoso ou de longa pena a cumprir ou mesmo de gravidade abstrata dos crimes cometidos.
+Tudo, claro, pois, não indicados elementos desabonadores da conduta e extraídos da própria execução penal (HC n. 341.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/8/2016; e HC n. 125.958/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 3/11/2009).
+No caso vertente, tanto da decisão quanto do acórdão confirmatório não se extraem fundamentos oriundos da própria execução penal, o que acarreta constrangimento ilegal ao paciente aferível de plano.
+Ante o exposto, concedo a ordem de habeas corpus para cassar a decisão e o acórdão a quo e determinar que o Juízo da Execução, em nova análise atualizada, reaprecie o pedido de progressão de regime, respeitando os termos da presente decisão, de forma a afastar os pontos aqui rechaçados como parâmetros ineptos a denegar o benefício.
+Intime-se, com urgência, a origem para cumprimento.
+P. I. C.
