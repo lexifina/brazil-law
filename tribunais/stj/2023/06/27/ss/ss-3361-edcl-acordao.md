@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/06/2023 a 27/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por OMEGA MEDICINA DIAGNÓSTICA LTDA. contra o acórdão que negou provimento a agravo regimental interposto contra decisão monocrática proferida pela Presidência desta Corte.
+O processo sob análise refere-se a pedido de suspensão de segurança apresentado pelo Ministério Público Federal, com fundamento nos artigos 15, caput e § 4º, da Lei n. 12.016/2009 e 271 do Regimento Interno do Superior Tribunal de Justiça, objetivando suspender a eficácia de medida liminar concedida nos autos do Mandado de Segurança n. 1044666-69.2021.4.01.0000 pelo Tribunal Regional Federal da 1ª Região, que determinou a suspensão de medidas assecuratórias decretadas pelo Juízo de origem em desfavor de BIOMEGA MEDICINA DIAGNÓSTICA LTDA. (Ação Penal n. 1021215-97.2021.4.01.3400), entre as quais o bloqueio de R$ 18.632.289,39, encontrados em contas bancárias de titularidade da empresa referida.
+O aresto embargado foi assim ementado:
+(..) AGRAVO REGIMENTALNA SUSPENSÃO DE SEGURANÇA. EMPRESA UTILIZADA PARA A PRÁTICA DOS CRIMES EM LICITAÇÕES E CONTRATOS. BLOQUEIO DE VALORES FINANCEIROS. COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA. 1. Admissibilidade de suspensão em demandas de natureza criminal somente em caso em que configurada presente excepcionalidade em razão da gravidade manifesta dos fatos, que ocasiona violação do direito coletivo à segurança, conforme entendimento jurisprudencial do Supremo Tribunal Federal.
+2. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.
+3. Caracterizada a lesão à ordem pública e à economia pública, na medida em que é possível a perda de bens da pessoa jurídica, ainda que esta não conste do polo passivo da investigação penal, em decorrência da verificação de indícios de que tenha sido utilizada para a prática dos crimes em licitações e contratos, podendo ser a destinatária e beneficiária dos proveitos de tais crimes.
+4. Não apontou a parte agravante situações específicas ou dados concretos que efetivamente pudessem demonstrar que o comando judicial atual não deve prevalecer com relação ao não reconhecimento de violação dos bens jurídicos tutelados pela legislação de regência. Agravo regimental improvido.
+Aduz a embargante que o acórdão impugnado seria omisso, por ter supostamente contrariado orientação firmada pelo Supremo Tribunal Federal nos autos da suspensão de liminar n. 1.581, sobre o descabimento de suspensão de segurança em sede penal.
+Alega ainda que não consta dos autos os votos divergentes, o que, no seu entender, configuraria omissão sanável por meio dos presentes aclaratórios.
+Requer o provimento do recurso, conferindo-se efeitos infringentes aos presentes embargos, "para consagrar a orientação firmada pela Instância Superior no julgamento da SL 1.581, dando provimento ao agravo interposto".
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. MERO INCONFORMISMO COM A DECISÃO EMBARGADA. AUSÊNCIA DE INTERESSE NA ADEQUAÇÃO. EMBARGOS NÃO CONHECIDOS.
+1.Os embargos de declaração são o meio posto à disposição de qualquer das partes, voltado ao esclarecimento de dúvidas surgidas no decisum, quando configurada ambiguidade, obscuridade, contradição ou omissão, permitindo o efetivo conhecimento do teor do julgado, facilitando a sua aplicação e proporcionando, quando for o caso, a interposição do recurso cabível.
+2.Hipótese em que não está o embargante expressando que não entendeu o julgamento, buscando tão somente rediscutir a controvérsia dirimida por meio do decisum impugnado, traduzindo meramente a inconformidade com o decidido.
+Embargos de declaração não conhecidos.
+VOTO
+O presente recurso não preenche os requisitos de admissibilidade.
+Consoante a interpretação do artigo 1022, do Código de Processo Civil, os embargos de declaração são o meios postos à disposição de qualquer das partes, voltados ao esclarecimento de dúvidas surgidas no decisum, quando configurada ambiguidade, obscuridade, contradição ou omissão, permitindo o efetivo conhecimento do teor do julgado, facilitando a sua aplicação e proporcionando, quando for o caso, a interposição do recurso cabível.
+Nos autos ora analisados, não está o embargante expressando que não entendeu o julgamento, tampouco aponta a falta de pronunciamento judicial sobre ponto ou questão suscitada pelas partes, ou que deveria ter sido discutida de ofício, mas busca tão somente rediscutir a controvérsia dirimida por meio do aresto impugnado, traduzindo meramente a inconformidade com o decidido.
+Ausente o interesse na adequação, não merecem ser conhecidos os presentes embargos.
+Ante o exposto, não conheço dos embargos de declaração.
