@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interposto por JESSE SCARPA, contra decisão que não admitiu recurso especial, ofertado com fundamento na alínea "a" do permissivo constitucional, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação. Crime de tráfico de drogas. Sentença condenatória. Recurso da defesa. PRELIMINAR. 1. Decisão judicial que determinou a realização de busca e apreensão que veio apoiada em dados empíricos que justificavam a medida, indicativos de que um cenário de fundada suspeita de que o apelante praticava o tráfico de drogas. MÉRITO. 1. Quadro probatório suficiente a ensejar a condenação. Autoria e materialidade comprovadas. 2. Sanção que não comporta alteração.
+Recurso desprovido." (e-STJ, fl. 627).
+A defesa aponta ofensa aos arts. 157, §1º, 240, §1º, do Código de Processo Penal, alegando a ilegalidade da busca e apreensão no imóvel do recorrente, requerendo seja declarada sua nulidade e, por conseguinte, inadmissível a prova ilícita por derivação (apreensão de drogas, petrechos e celulares), com a consequente absolvição quanto ao delito que lhe é imputado.
+Aduz, ainda, contrariedade ao art. 33, §4º, da Lei nº 11.343/06, art. 33, §2º, "b" e "c", do Código Penal, e art. 44, do Código Penal, pleiteando seja reconhecido o tráfico privilegiado, bem como alterado o regime inicial de cumprimento de pena para o aberto (se aplicada a minorante no patamar máximo) ou semiaberto (se aplicada a minorante em patamar intermediário ou mínimo, bem como se mantido o quantum de pena fixado no v. acórdão) e, ainda, substituída a pena privativa de liberdade por penas restritivas de direitos (na hipótese de, após redimensionamento, a reprimenda ficar aquém de quatro anos) (e-STJ, fls. 646-674).
+Foram apresentadas as contrarrazões (e-STJ, fls. 679-693).
+O recurso foi inadmitido (e-STJ, fls. 696-697). Daí o presente agravo (e-STJ, fls. 700-708).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 738-744).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+Consoante se verifica dos autos, o réu foi condenado às penas de 6 anos de reclusão, em regime inicial fechado, e ao pagamento de 600 dias-multa, como incurso no artigo 33, "caput", da Lei 11.343/06.
+No tocante à suscitada nulidade da busca e apreensão ocorrida na residência do recorrente, o Tribunal de origem assim se manifestou:
+"(..)
+3. Não assiste razão à defesa na questão suscitada a título de preliminar.
+A decisão judicial que determinou a realização da busca e apreensão domiciliar encontra-se fundamentada em dados empíricos, tendo feita referência à existência de relatório de investigação a lastrear a medida cautelar (fls. 16/18).
+E, de fato, o relatório policial contém dados a avalizar a deliberação judicial (fls. 02/05 dos autos nº 1519674-23.2021.8.26.0625), constando do documento que:
+(i) os policiais civis do DEIC obtiveram informações de que ocorreria o tráfico de drogas no lava rápido do acusado, e que, em diligências pelo local, "em dias e horários alternados", puderam verificar "movimentação atípica e suspeita, característica ao comércio de entorpecentes";
+(ii) que o suspeito se tratava do acusado Jessé Scarpa, que já havia sido preso por posse ilegal de arma de fogo;
+(iii) que o acusado estaria na posse de "grande quantidade de drogas" e possuiria uma arma de fogo.
+Ouvido em juízo (mídia digital fls. 353/354), o policial civil Ariel, que participou das investigações, confirmou a realização de campanas e a existência de movimentações suspeitas nos endereços indicados.
+E não se pode ignorar que, cumprida a ordem, as suspeitas levantadas foram parcialmente confirmadas, com a apreensão de 1.099,68 gramas de maconha e 17,74 gramas de "crack".
+Anote-se que, diversamente do indicado pela combativa defesa, o policial militar Richardson não afirmou em juízo que, ao comentar com o delegado André sobre a existência de informações relativas ao acusado, este teria dito que "estavam pensando" em iniciar as investigações, mas sim que ele teria dito que já estava "investigando isso aí" (05:39).
+Dentro deste espectro, tinha-se um cenário a descortinar fundada suspeita de que o apelante praticava o crime de tráfico de drogas, a emprestar juridicidade à decisão judicial. Em outras palavras, presentes, na espécie, o "fumus boni juris" e o "periculum in mora" (este último marcado pela possibilidade de que as drogas não mais estivessem no local se a ação não fosse realizada) enquanto requisitos de uma medida cautelar.
+Destarte, descabido falar-se em prova ilícita." (e-STJ, fls. 628-629, grifou-se).
+Como se vê, no caso em apreço, é possível afirmar que havia fundada suspeita do cometimento de tráfico ilícito de entorpecentes no domicílio do réu. Isso porque policiais foram averiguar a veracidade de informação anônima recebida acerca da existência de tráfico de drogas naquela localidade, tendo montado campana nas redondezas para investigar e, constatada "movimentação atípica e suspeita, característica ao comércio de entorpecentes", obtiveram ordem judicial para efetuar busca e apreensão no imóvel.
+Nesse contexto, não se observa a existência da apontada nulidade.
+Corrobora:
+" ..
+V - Conforme assentado na decisão recorrida, a expedição de ordem judicial de busca e apreensão se deu mediante denúncia anônima e diligências complementares policiais prévias no local, inclusive, com a oitiva de vizinhos que confirmaram os fatos. Não há, pois, falar em invasão de domicílio ou em qualquer outra ilegalidade.
+VI - In casu, como se observou, a apreensão de material ilícito no domicílio do corréu (que trouxe os indícios de autoria contra o ora agravante) ocorreu com esteio em uma ordem judicial de busca e apreensão, e não de forma aleatória. Ademais, o mandado foi expedido sob fundamentação concreta e cumprido em horário forense, como relatado pela origem.
+VII - Com efeito, a jurisprudência desta Corte Superior firmou-se no sentido de que a cadeia de custódia consiste no caminho idôneo a ser percorrido pela prova até sua análise pelo expert, de modo que a ocorrência de qualquer interferência indevida durante sua tramitação probatória pode resultar em sua imprestabilidade para o processo de referência.
+VIII - No caso concreto, não houve comprovação pela d. Defesa de qualquer circunstância capaz de sugerir a adulteração da prova, ou mesmo a interferência indevida em seu caminho, capaz de invalidá-la. De qualquer forma, mesmo que assim o fosse, "Não se trata (..) de nulidade processual, senão de uma questão relacionada à eficácia da prova, a ser vista em cada caso. Não é o que se tem no caso dos autos, em que não houve comprovação por parte da defesa acerca de qualquer adulteração no iter probatório" (AgRg no HC 665.948/MS, Sexta Turma, Rel. Min. Olindo Menezes, Des. Convocado do TRF da 1ª Região, DJe de 30/8/2021).
+IX - Ainda, a eg. Corte de origem explicou que a prova foi efetivamente extraída e analisada por corpo técnico policial: "(..) as imagens capturadas analisadas pelo Núcleo Audiovisual da Delegacia de Homicídios da Capital. Os Inspetores de Polícia E M F e L F de S prestaram o compromisso de bem e fielmente desempenhar o encargo, na falta de perito oficial, apondo ao documento juntado às fls. 77/152 suas respectivas assinaturas. Posteriormente, o aparelho celular foi encaminhado ao Instituto de Criminalística Carlos Éboli - ICCE, com a finalidade de que fossem pesquisadas e listadas todas as ligações efetuadas, recebidas e/ou não atendidas do aparelho examinado, bem como "o conteúdo da agenda eletrônica e o número da linha do aparelho examinado". Estando todo o procedimento de impressão e análise das imagens do aparelho celular devidamente alicerçado em mandado judicial autorizador, sendo a colheita do material realizada por equipe técnica da Delegacia de Homicídios, e estando demonstrada a história cronológica do vestígio coletado, vale dizer, do celular apreendido, não se verifica a alegada quebra da cadeia de custódia. Portanto, rejeitam-se todas as preliminares suscitadas (..)" (fl. 78).
+X - Assim, não se constatou nenhuma flagrante ilegalidade de plano. Importante então esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal.
+XI - Por fim, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido."
+(AgRg no HC n. 764.760/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023, grifou-se).
+Noutro giro, em relação ao pleito de reconhecimento de tráfico privilegiado, melhor sorte não assiste à defesa.
+De acordo com o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Como é cediço, o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida.
+No caso, a 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo apurou que o acusado, além de possuir maus antecedentes, dedicava-se à prática da traficância. Veja-se, por pertinente, o seguinte trecho do aresto impugnado:
+" ..
+6. Não é o caso de aplicação da causa de diminuição de pena prevista no artigo 33, par. 4º, da Lei nº 11.343/06.
+O acusado é portador de maus antecedentes (fls. 35/36), o que, na dicção do dispositivo legal em apreço, obsta o reconhecimento do benefício.
+Além, disso o teor dos depoimentos dos policiais e os objetos apreendidos (com destaque para as anotações, a movimentação financeira) indicam que se cuida de uma pessoa com acentuado envolvimento no tráfico de drogas.
+Enfim, trata-se de pessoa dedicada às atividades criminais." (e-STJ, fl. 639).
+Desse modo, demonstrada a dedicação do réu à prática criminosa, não há falar na aplicação do referido benefício.
+Ademais, para alterar a conclusão a que chegou o TJSP, no caso, seria necessário o reexame do material fático e probatório dos autos, o que não é possível nesta via especial, tendo em vista o óbice da Súmula 7/STJ.
+Nesse sentido:
+" ..
+2. Conforme a jurisprudência desta Corte, a quantidade e a natureza das drogas apreendidas aliadas às circunstâncias do crime indicativas de que o acusado se dedica à atividades criminosas impedem a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas.
+2.1. No caso, a causa de diminuição não foi aplicada justificadamente em razão da quantidade das drogas apreendidas (90g de cocaína e 1g de crack) e das circunstâncias da prisão, ocasião em que o réu foi flagrado por policiais conversando com olheiros por meio de rádio comunicador enquanto segurava uma sacola plástica contendo drogas; após tentativa de fuga da abordagem policial, ofereceu resistência à prisão, agredindo um dos policiais com socos na cabeça. Destarte, o pleito defensivo de aplicação do referido redutor, esbarra no óbice da Súmula n. 7 do STJ.
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 1.946.666/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+" ..
+1. A Corte de origem obstou a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n.º 11.343/2006 em razão de as Agravantes se dedicarem habitualmente ao crime, tendo em vista não apenas a quantidade e diversidade de drogas apreendidas na espécie - 502,4g de maconha, 20,1g de crack e 46,2g de cocaína -, mas também as demais circunstâncias concretas do crime, o qual foi cometido em concurso de pessoas, com participação de adolescente e com a apreensão de diversos objetos indicativos da contumácia criminosa, entre eles balança de precisão e caderno com anotações de tráfico.
+2. Uma vez constatada, pela instância ordinária, com amparo em elementos concretos presentes nos autos, a dedicação habitual a atividades criminosas, a modificação deste entendimento, com o objetivo de fazer incidir a causa de diminuição de pena do tráfico privilegiado, exigiria reexame fático-probatório, o que não é possível no recurso especial, nos termos da Súmula n.º 7/STJ.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1583667/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/05/2020, DJe 28/05/2020).
+Quanto ao regime prisional, embora a sanção final seja inferior a 08 anos de reclusão, a existência de circunstâncias judiciais desfavoráveis, como ocorrido na espécie (maus antecedentes e quantidade de droga apreendida), autoriza o estabelecimento do regime imediatamente mais grave segundo o quantum de pena aplicado.
+A propósito:
+" ..
+6. Consoante entendimento jurisprudencial desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado.
+Omissis.
+8. Agravo regimental a que se nega provimento." (AgRg no HC n. 775.522/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/10/2022, DJe de 7/11/2022.)
+Por fim, uma vez mantido o quantum da sanção corporal em patamar superior a 04 anos de reclusão, é inadmissível a substituição da pena privativa de liberdade por restritivas de direi to, pela falta do preenchimento do requisito objetivo (art. 44, I, do Código Penal).
+Ante o exposto, nos termos do art. 932, VIII, do Código de Processo Civil, c/c art. 253, parágrafo único, II, a e b, do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
