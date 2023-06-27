@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por CARLOS EDUARDO DE SOUZA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu parcial provimento à apelação defensiva para reduzir as penas pelos crimes de roubo e extorsão (e-STJ, fls. 578-584).
+Em suas razões recursais, a parte recorrente aponta violação do art. 386, I, do CPP. Aduz para tanto, em síntese, que "sua intenção, bem como a de seu comparsa era a realização tão somente do delito de roubo dos bens constantes do imóvel" (e-STJ, fl. 597), mas nunca praticou o delito de extorsão. Afirma que "a vítima Adriana foi apenas o meio para assegurar o delito de roubo e a forma como ocorreram os fatos denotam isso", porém "nunca teve o dolo de cometer o crime de extorsão" (e-STJ, fl. 597).
+Com contrarrazões (e-STJ, fls. 602-605), o recurso especial foi inadmitido na origem (e-STJ, fls. 608-609), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 638-640).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não supera o juízo de admissibilidade.
+Afinal, não há prequestionamento da tese de ausência de dolo, pois a matéria não foi objeto de exame pelo acórdão recorrido. Nenhum dos aspectos mencionados pela defesa chegou a ser analisado pelo Tribunal local, que se deteve basicamente sobre a dosimetria da pena, que foi aliás o único aspecto abordado na apelação defensiva (e-STJ, fls. 529-536). Para não deixar dúvidas, transcrevo tudo o que disse o TJ/SP sobre a existência dos delitos (e-STJ, fl. 580):
+"2. Autoria e materialidade delitivas, bem como o dolo com que o apelante agiu são incontroversos e ficaram demonstrados pelo conteúdo da prova reunida na instrução do processo, notadamente a prisão em flagrante, a confissão judicial dele e os firmes e harmônicos relatos dos policiais militares inquiridos e das vítimas ouvidas, que o reconheceram como um dos autores dos delitos descritos na denúncia, tudo a bem revelar ter sido correta a imposição do decreto condenatório (fls. 3/8 e 168/170 e registro digital).
+Aliás, tanto foi justa a condenação, que o apelante contra ela não se insurgiu propriamente, pois em seu recurso pugna unicamente pela redução das penas".
+É evidente que esse trecho não fornece nenhum elemento fático para se analisar os argumentos referentes à pretendida absolvição do delito de extorsão, que nem sequer chegaram a ser apreciados pelo Tribunal de apelação. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
