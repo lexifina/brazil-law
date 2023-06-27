@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2145, de 26 de junho de 2023
+Altera a Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, que dispõe sobre a retenção de tributos nos pagamentos efetuados pelos órgãos da administração pública federal direta e indireta e demais pessoas jurídicas que menciona pelo fornecimento de bens e serviços.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, e no Parecer SEI nº 5744/2022/ME, de 14 de abril de 2022, da Procuradoria-Geral da Fazenda Nacional, resolve:
