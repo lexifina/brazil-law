@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto em benefício de FREDSON BEZERRA COSTA, impugnando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, em julgamento do HC n. 2078518-67.2023.8.26.0000.
+Extrai-se do acórdão coator que em decisão proferida no bojo da Execução Penal n. 0013697-71.2022.8.26.0502, o Juiz(a) de Direito do Deecrim 4ª RAJ da Comarca de Campinas regrediu cautelarmente o recorrente ao regime fechado de pena.
+Contra a decisão, a defesa impetrou habeas corpus, perante a Corte de origem, que não conheceu do writ (e-STJ fls. 71/75). O acórdão recebeu a seguinte ementa (e-STJ, fl. 72):
+Habeas Corpus Falta disciplinar apurada em procedimento administrativo Procedimento em pleno andamento no Juízo das Execuções Criminais Inexistência de Flagrante ilegalidade Via inadequada ORDEM NÃO CONHECIDA.
+Neste recurso (e-STJ, fls. 81/88),  a  defesa  alega inexistência de motivação para a regressão de regime.
+Diante  disso,  requer o retorno do apenado ao regime semiaberto.
+O Ministério Público federal opinou pelo desprovimento do recurso (e-STJ, fls. 109/113).
+É  o  relatório.  Decido.
+Regressão cautelar de regime
+O Tribunal teceu as seguintes considerações sobre o assunto, no que interessa (e-STJ, fl. 74):
+ ..
+que houve decisão motivada da Autoridade Judiciária apontada como coatora, ao sustar cautelarmente o regime intermediário do paciente (folha 133 da origem). E se observa, nos autos de origem, um Procedimento Administrativo Disciplinar que seguiu, desde sua instauração até a conclusão, com oitivas das pessoas envolvidas e pareceres técnicos devidamente fundamentados(folhas 113/139 dos autos principais da execução).
+Ponto de toque, é que ainda não há decisão da Autoridade Judiciária sobre a conclusão do referido Procedimento Administrativo Disciplinar. A Autoridade judiciária, antes de sua decisão, em pleno respeito à ampla defesa, determinou que a Defesa do ora paciente se manifestasse nos autos, o que foi feito (folhas 163 e 168/178 da origem); inclusive, com a determinação de diligências pertinentes para elucidação do caso (folhas 180 e 181 da origem).
+Dessa forma, ainda não é possível constatar flagrante ilegalidade, na decisão cautelar atacada, inexistindo, no momento, elementos aptos a comprovar que tal decisão deva ser cassada, com o retorno do paciente ao regime intermediário de cumprimento de pena.
+ ..
+Segundo informações do Juízo de origem, de 17/4/2013, após a juntada de PAD, o MP pleiteou a sua homologação; com isso, foi determinada a intimação da defesa para que se manifeste sobre o PAD (e-STJ, fl. 59).
+Portanto, tal como descreveu a autoridade coatora, realmente ainda não há decisão do Juiz executório sobre o processo de sindicância. E até o momento, ele agiu da forma correta, intimando a defesa, em respeito ao princípio do contraditório e ampla defesa
+Em consulta ao site do Tribunal coator, 1ª instância, verifiquei que após a intimação, já houve manifestação da defesa e o Juízo, em 28/4/2023, requisitou laudo toxicológico da substância apreendida. Depois disso, houve manifestação das partes e os autos encontram-se conclusos para decisão quanto ao PAD desde 22/6/2023, estando preste, assim, a ser proferida.
+Portanto, como bem concluído no voto acima, não há qualquer ilegalidade, uma vez que nem decisão definitiva judicial quanto ao PAD há.
+Segundo a autoridade coatora, o Juiz executório sustou cautelarmente o regime intermediário do executado, o que é perfeitamente cabível pela jurisprudência desta Corte, a qual autoriza a regressão cautelar de regime, inclusive sem prévia oitiva judicial:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR. SUSTAÇÃO CAUTELAR DO BENEFÍCIO. POSSIBILIDADE. DECISÃO DEVIDAMENTE FUNDAMENTADA. REVISÃO DO JULGADO. VIA IMPRÓPRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência desta Corte é firme no sentido de ser possível a regressão cautelar, inclusive ao regime prisional mais gravoso, diante da prática de infração disciplinar no curso do resgate da reprimenda, sendo desnecessária até mesmo a realização de audiência de justificação para oitiva do apenado, exigência que se torna imprescindível somente para a regressão definitiva" (RHC 81.352/MA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/04/2017, DJe 28/04/2017; sem grifos no original.) 2. Devidamente fundamentada a decisão que sustou a prisão domiciliar, apoiada no descumprimento das condições antes estabelecidas, o habeas corpus não é a via adequada para a análise das alegações do Apenado, de forma que a matéria probatória será melhor examinada pelo Magistrado de primeiro grau, após a oitiva do Agravante.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 743.857/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO. MODALIDADE PRISÃO ALBERGUE DOMICILIAR. DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS. NÃO COMPARECIMENTO EM JUÍZO. FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. CABIMENTO. JUSTIFICATIVA PARA O DESCUMPRIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONCESSÃO DE INDULTO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. Evidenciando-se a prática de falta grave, consistente no descumprimento das condições imposta ao regime aberto, na modalidade prisão albergue domiciliar, é cabível a regressão cautelar do regime prisional pelo Juiz das execuções, sem a exigência da oitiva prévia do sentenciado, necessária apenas para a regressão definitiva ao regime mais severo.
+2. Os argumentos apresentados pela defesa do agravante de que ele teria sido induzido a erro pelo cartório judicial, ao afirmar a desnecessidade de nova apresentação em juízo, não foram comprovados pelo sentenciado, e tampouco foram considerados pelas instâncias precedentes para justificar o não comparecimento em juízo na data aprazada.
+3. A fim de desconstituir o entendimento do Tribunal de origem acerca da configuração da falta disciplinar imputada ao condenado, seria necessário o revolvimento fático-probatório, vedado na presente via.
+4. O eventual direito do agravante à concessão do indulto previsto no Decreto Presidencial n.º 9.246/2017, não foi examinado pelo Tribunal de origem, o que obsta a análise do tema por esta Corte Superior de Justiça, sob pena de atuar em indevida supressão de instância.
+5. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível. 6. Agravo regimental desprovido.
+(AgRg no HC n.º 438.243/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. MONITORAMENTO ELETRÔNICO. DESCUMPRIMENTO. REGRESSÃO CAUTELAR DE REGIME DO CUMPRIMENTO DE PENA. OUVIDA PRÉVIA DO APENADO. PRESCINDIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+2. Tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (precedentes.).
+3. É possível, após o cumprimento do mandado de prisão e com a retomada do cumprimento da pena, seja designada audiência de justificação, ocasião na qual o apenado poderá justificar-se, exercendo, assim, o pleno exercício do seu direito de defesa.
+4. Ademais, o exame dos motivos pelos quais o agravante teria descumprido as regras da monitoração eletrônica demanda revolvimento fático-probatório, inviável na estreita via do habeas corpus (precedentes).
+5. Agravo regimental desprovido.
+(AgRg no HC n.º 449.364/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2018, DJe 1/2/2019)
+Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o provimento do recurso.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, nego provimento a este recurso em habeas corpus.
+Intimem-se.
