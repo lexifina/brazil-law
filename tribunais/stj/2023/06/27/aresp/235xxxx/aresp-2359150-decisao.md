@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE GONZAGA DA SILVA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ, fls. 236):
+APELAÇÃO CRIMINAL - Embriaguez ao volante - Materialidade e autoria comprovadas - Alteração da capacidade psicomotora que pode ser apurada por meio de sinais que a indiquem nos termos do art. 306, §2º, do CTB, e Resolução CONTRAN nº 432/13 - Estado de embriaguez apurado pelo exame clínico e pela prova oral - Crime formal, de perigo abstrato (ou presumido) - Condenação mantida - Penas bem dosadas - RECURSO DEFENSIVO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 619 do Código de Processo Penal e 316 do Código de Trânsito. Afirma que no momento da abordagem policial o ora recorrente estava fora do veículo, o qual estava estacionado. Pugna pela absolvição porque para "existir o crime de embriaguez ao volante deve ser caracterizada a condução de veículo, o que não é caso dos autos" (e-STJ fl. 259). Alega que a questão não foi devidamente analisada no aresto recorrido, implicando em negativa de prestação jurisdicional.
+Apresentadas contrarrazões (e-STJ, fls. 280/286), o Tribunal a quo não admitiu o recurso especial (e-STJ, fls. 289/290), tendo sido interposto o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso (e-STJ, fls. 301/303).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, contudo, não merece acolhida.
+No caso dos autos, o Tribunal de origem reputou o conjunto fático-probatório robusto e hábil a corroborar a condenação do recorrente pela prática do delito tipificado no artigo 306, §1º II, do Código de Trânsito Brasileiro.
+Sobre a alegação de que o recorrente não estaria conduzindo o veículo porque foi abordado pelo policiais quando já havia estacionado o veículo, a Corte de origem expressamente esclareceu que "O argumento de que o acusado não dirigiu o veículo foi desmentido por ele próprio em pretório e também pelo depoimento do policial Márcio, que o viu dirigindo e estacionando o carro" (e-STJ fl. 240).
+Assim sendo, inviável, entender de modo diverso ao estabelecido na origem, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Vale lembrar que É pacífica a jurisprudência deste Superior Tribunal de Justiça, no sentido de que os depoimentos prestados por policiais têm valor probante, na medida em que seus atos são revestidos de fé pública, sobretudo quando se mostram coerentes  ..  e ausentes quaisquer indícios de motivos pessoais para a incriminação injustificada do investigado, como na espécie. Precedentes. (AgRg no AREsp n. 1.997.048/ES, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/2/2022) - (AgRg no HC n. 716.902/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022).
+Ante o expo sto, conheço do agravo para negar-lhe provimento.
+Intimem-se.
