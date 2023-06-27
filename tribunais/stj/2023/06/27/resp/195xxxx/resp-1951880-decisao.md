@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recursos Especiais (art. 105, III, "a", da Constituição Federal) interpostos de acórdão assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. VEÍCULOS COM EXCESSO DE PESO. TUTELA INIBITÓRIA. RESPONSABILIDADE CIVIL PELOS DANOS MATERIAIS E MORAISCOLETIVOS CAUSADOS. IMPROCEDÊNCIA. INFRAÇÃO REGRADAPELO DIREITO ADMINISTRATIVO. AUSÊNCIA DOS ELEMENTOSCARACTERIZADORES DA RESPONSABILIDADE CIVIL.
+1. Há, no ordenamento jurídico, norma legal destinada a coibir/inibira conduta de transitar com o veículo com excesso de peso, mediante a aplicação de sanção administrativa (multa). Ao menos em princípio, o legislador considerou a previsão normativa contida no art. 231, V, do CTB adequada à prevenção e repressão do ilícito sancionado.
+2. A ausência de demonstração do nexo de causalidade específico entre as condutas da parte ré e os possíveis danos materiais causados a estradas e rodovias impede a condenação ao pagamento de indenização por danos materiais.
+3. A conduta da ré individualmente considerada não é suficiente para causar dano à coletividade, porquanto ela está inserida num contexto em que diversas situações convergem para o problema, sem que se possa destacar uma como de maior relevância.
+Nos seus Recursos, o Ministério Público Federal e o Departamento Nacional de Infraestrutura de Transportes - DNIT defendem, como questão principal, a possibilidade do reconhecimento da responsabilidade civil da empresa recorrida pelo transporte de cargas com excesso de peso.
+Observo que a matéria teve acolhida proposta de afetação para julgamento no rito dos Recursos Repetitivos (Tema 1.104). Cito a ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038 DO CPC/2015 C/C ART. 256-I DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/09/2016. AÇÃO CIVIL PÚBLICA. TRANSPORTE DE CARGAS COM EXCESSO DE PESO EM RODOVIA. IMPOSIÇÃO DE TUTELA INIBITÓRIA. RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS COLETIVOS.
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Definir a possibilidade de imposição de tutela inibitória, bem como de responsabilização civil por danos materiais e morais coletivos causados pelo tráfego com excesso de peso em rodovias".
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art.256-I do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016). (ProAfR no REsp 1.908.497/RN, Rel. Min. Assusete Magalhães, Primeira Seção, DJe 10/9/2021)
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1.040 e seguintes do CPC/2015, conforme o caso.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
