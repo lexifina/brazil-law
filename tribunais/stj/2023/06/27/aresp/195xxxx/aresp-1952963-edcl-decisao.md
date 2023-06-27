@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ELGIN HDB REFRIGERAÇÃO LTDA. e por HEATCRAFT DO BRASIL LTDA. contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino, por meio da qual não conheceu do recurso especial (fls. 1.530-1.534).
+As embargantes alegam que (fl. 1.542):
+ ..  os três fundamentos adotados pela origem para trancar o processamento do apelo extremo foram objeto de impugnação nas razões postas no agravo em recurso especial, as quais, repita-se, não foram analisadas pela r. decisão embargada (omissão - art. 1.022, II, CPC/2015).
+Sustentam, em relação às Súmulas n. 5 e 7/STJ, que (fl. 1.545):
+24. A par da existência de tópico específico acerca da "inexistência de violação às súmulas nº 5 e 7 do STJ", foram desenvolvidos argumentos que, de fato, afastam a aplicação dos óbices sumulares.
+25. A uma, porque não há qualquer discussão acerca de cláusulas contratuais, jamais houve. A duas, porque toda a matéria fática restou delimitada pelos acórdãos recorrido, de forma que nunca se pretendeu acrescentar ou rever fatos.
+26. Em verdade, como destacado nas razões do agravo em recurso especial - argumento recursal que não foi analisado pela r. decisão agravada e, por isso, legitima os presentes embargos de declaração - a pretensão deduzida em sede de recurso especial se limitou à revaloração de matéria fática incontroversa que, à luz dos argumentos lançados no apelo nobre, foram sopesados pela origem de forma afrontosa ao ordenamento jurídico de regência.
+Requerem, por fim, a reforma da decisão embargada, por entenderem ser indevida a aplicação da Súmula n. 182/STJ.
+A embargada, instada a manifestar-se, apresentou contrarrazões (fls. 1.554-1.559). Alega que as embargantes não impugnaram especificamente os fundamentos da decisão de inadmissibilidade. Sustenta, ainda, erro material, tendo em vista que foram publicadas duas decisões idênticas, exceto qu anto à majoração dos honorários sucumbenciais, razão pela qual pugna pela manutenção da decisão de fls. 1.535-1.538.
+É, no essencial, o relatório.
+De início, chamo o feito à ordem para tornar sem efeito a decisão de fls. 1.535-1.538, tendo em vista a publicação de decisão em duplicidade, e considero prejudicadas as alegações da parte embargad a quanto ao valor dos honorários recursais, que devem permanecer no patamar de 13%.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Os embargos de declaração opostos não merecem acolhimento.
+A decisão embargada consignou que (fl. 1.531):
+As partes agravantes, no entanto, limitaram-se a repisar as razões do apelo nobre e a tecer alegações genéricas no que toca à incidência dos citados óbices sustentando, em síntese, que "o que se busca no caso é o reconhecimento de error in judicando (por atribuir à prova incontroversamente existente consequência jurídica inadequada) e o error in procedendo (erro no proceder, notadamente na fundamentação) pelo Acórdão, questões essas que podem ser objeto de recurso especial. "  sic  (e-STJ fl. 1.505)
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa. A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
