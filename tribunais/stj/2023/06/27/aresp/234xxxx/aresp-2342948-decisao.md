@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TAG CORRETORA DE SEGUROS DE VIDA LTDA. (TAG) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, TAG alegou a violação dos arts. 46 e 53 do CPC, sob o argumento de que apesar de ambas as litigantes serem pessoas jurídicas, flagrante é o desequilíbrio da relação em favor da Recorrida, PREVISUL, que se trata de empresa com elevado poder capital, poder diretivo, relevante domínio de mercado e significativo porte empresarial, contando com diversas filiais espalhadas por todo Brasil e controlada pela holding francesa CNP ASSURANCES, líder em seguros de vida na França. Assim, é mais que evidente a vulnerabilidade da Corretora Recorrente na presente relação contratual e demanda judicial, devendo ser declarada nula e ilegal a cláusula contratual que prevê o foro de eleição no Estado do Rio Grande do Sul (e-STJ, fl. 193.).
+A propósito do tema, o TJRS destacou o seguinte:
+ ..  via regra geral, nos casos em que não envolvem uma relação de consumo - como o presente - e existe cláusula contratual de eleição de foro, via de regra, essa deve prevalecer. Basta verificar que no evento 1, CONTR6 a cláusula nº 20 prevê expressamente que o foro eleito para dirimir qualquer controvérsia é o da Comarca de Porto Alegre.
+Nesse sentido, de posse dos autos, percebo que as alegações de que a parte agravada/ré passa por período de dificuldade (fato que daria supedâneo à decretação de nulidade da cláusula supra) não se mostram presentes presentes de maneira satisfatória.
+ ..
+Inclusive, a Corte Superior tem entendimento consolidado no sentido de que "a diferença de porte econômico entre os contratantes não importa, por si só, abusividade da cláusula de eleição de foro. A propósito: EREsp 1.707.526/PA, 2ª SEÇÃO, DJe 01/06/2020; REsp 1685294/MA, 3ª TURMA, DJe 03/09/2018 e AgRg no AREsp 201.904/MS, 4ª TURMA, DJe 30/05/2014".
+Ainda, não posso olvidar do fato de que a distância entre Brasília/DF e Porto Alegre/RS não delineia dificuldade do exercício do direito de defesa, porquanto no Tribunal de Justiça do Rio Grande do Sul, o processo tramita eletronicamente.
+Sintetizando: A cláusula de eleição de foro, convencionada entre as partes sobre o foro competente para dirimir as questões oriundas do negócio jurídico somente pode ser afastada quando reconhecida a sua abusividade ou resultar na inviabilidade ou especial dificuldade de acesso ao Poder Judiciário. Abusividade não reconhecida no caso concreto. A mera diferença de porte econômico entre os contratantes não importa, por si só, abusividade da cláusula de eleição de foro.
+Assim, há a necessidade de observância da regra geral de que, em se tratando de discussão que envolve direito pessoal, de natureza obrigacional, que não está submetida à legislação consumerista, deve ser observada a regra geral disposta no art. 46, caput, do CPC, bem como a regra especial contida no art. 53, III, "a", do CPC. Decisão reformada. Cláusula de eleição de foro, mantida (e-STJ, fls. 174/175, sem destaques no original).
+Contudo, a conclusão adotada na origem encontra-se em harmonia com a jurisprudência deste Superior Tribunal de Justiça, que já se pronunciou no sentido de que A diferença de porte econômico entre as sociedades empresárias não é suficiente para caracterizar hipossuficiência para afastar a cláusula de eleição de foro (AgInt no AREsp n. 1.917.902/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022).
+Na mesma direção:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NATUREZA DO CONTRATO. REPRESENTAÇÃO DE CONTRATO DE SEGURO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE E EFICÁCIA. INAPLICABILIDADE DO ART. 39 DA LEI N. 4.886/65. HIPOSSUFICIÊNCIA. AUSÊNCIA.
+1- Recurso especial interposto em 29/11/2019 e concluso ao gabinete em 21/10/2020.
+2- O propósito recursal consiste em dizer se é válida e eficaz cláusula de eleição de foro pactuada no âmbito de contrato de representação de seguro, ainda que estipule como competente foro diverso daquele previsto no art. 39 Lei n. 4.886/65.
+3- Na hipótese em exame é de ser afastada a existência de omissões no acórdão recorrido, à consideração de que as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+4- Não há que se confundir o contrato de representação de seguro, que é espécie de contrato de agência, com o contrato de representação comercial regulado pela Lei n. 4.886/65, de modo que não se aplica, nem por analogia, àquele o disposto no art. 39 da referida lei.
+5- Ainda que incidisse, na espécie, o art. 39 da Lei n. 4.886/65, deve-se ter presente que o mencionado dispositivo legal define hipótese de competência relativa, que pode, portanto, ser afastada pela vontade das partes por meio de cláusula de eleição de foro, como na hipótese dos autos.
+6- Na espécie, a cláusula de eleição de foro somente poderia ser afastada se constatada a hipossuficiência de um dos figurantes do negócio entabulado, condição peculiar que diz respeito "à assimetria econômica e jurídica entre as partes contratantes, dificultando até mesmo a compreensão das condições naturais e jurídicas envolvidas na relação" (REsp 1761045/DF, TERCEIRA TURMA, julgado em 05/11/2019, DJe 11/11/2019).
+7- Na hipótese dos autos, o Tribunal estadual afastou os efeitos da cláusula de eleição de foro pactuada em virtude de suposta hipossuficiência das recorridas. Tal conclusão fundou-se na diferença de porte econômico entre as sociedades empresárias, o que não é suficiente para caracterizar hipossuficiência apta a afastar a eficácia da mencionada cláusula contratual.
+8-Tratando-se de contrato de representação de seguro e não restando caracterizada a hipossuficiência de qualquer das partes, é imperioso concluir que é válida e eficaz a cláusula de eleição de foro livremente pactuada.
+9- Recurso especial provido.
+(REsp n. 1.897.114/PA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe de 16/8/2021)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. CONTRATO DE DISTRIBUIÇÃO. AÇÃO DE INDENIZAÇÃO. CONTRATO DE ADESÃO. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS E PROVIDOS.
+1. A jurisprudência desta Corte preconiza que, via de regra, para que se declare a invalidade de cláusula de eleição de foro, é necessária a presença conjunta de, ao menos, três requisitos: a) que a cláusula seja aposta em contrato de adesão; b) que o aderente seja reconhecido como pessoa hipossuficiente (de forma técnica, econômica ou jurídica); e c) que isso acarrete ao aderente dificuldade de acesso à Justiça.
+2. Ademais, a mera desigualdade de porte econômico entre as partes proponente e aderente não caracteriza automática hipossuficiência econômica ensejadora do afastamento do dispositivo contratual de eleição de foro.
+3. Na espécie, equivocou-se o v. acórdão embargado, pois não fora adequadamente justificado, nas instâncias ordinárias, o reconhecimento da hipossuficiência do aderente.
+4. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.707.526/PA, relator Ministro Raul Araújo, Segunda Seção, julgado em 27/5/2020, DJe de 1º/6/2020)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no s arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE. HIPOSSUFICIÊNCIA TÉCNICA ENTRE AS EMPRESAS. AFASTAMENTO. NÃO CABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL NÃO PROVIMENTO.
