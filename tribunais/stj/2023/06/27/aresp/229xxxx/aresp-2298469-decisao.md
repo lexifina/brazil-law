@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por SERGIO BARBOSA DA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fls. 531-540):
+TENTATIVA DE HOMICÍDIO QUALIFICADO - Apelo do Ministério Público - Pleito de nulidade da decisão popular, que desclassificou a imputação reconhecida na pronúncia, condenando o réu por incurso no art. 129, § 1º c.c. o art. 129, §9º do Estatuto Repressivo - Viabilidade - Decisão manifestamente contrária à evidência dos autos - Vítimas golpeadas com uma marreta em região vital - A quantidade e extensão das lesões indicam que a conduta criminosa extrapolou a intenção de meramente ferir - Acusado, portanto, que deverá ser submetido a novo julgamento perante o Tribunal Popular  Recurso de Sérgio prejudicado em razão do provimento do apelo ministerial.
+RECURSO MINISTERIAL PROVIDO E PREJUDICADO O APELO DEFENSIVO."
+Em suas razões recursais, a parte recorrente aponta violação do art. 15 do Código Penal.
+Aduz, em síntese, que deve ser restabelecida a sentença proferida pelo Conselho de Sentença, que reconheceu a desistência voluntária e desclassificou a conduta para o crime de lesão corporal. Subsidiariamente pretende que o recurso de apelação seja conhecido e apreciado.
+Com contrarrazões (e-STJ, fls. 571-577), o recurso especial foi inadmitido na origem (e-STJ, fls. 580 ), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (e-STJ, fls. 633-639).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Constato a falta de prequestionamento do art. 15, pois a matéria nele tratada não foi objeto de exame pelo acórdão recorrido. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Outrossim, c omo se vê, as instâncias ordinárias concluíram no sentido da contrariedade dos jurados com a prova dos autos, o que levou à anulação dos Júri. Isso porque, o próprio recorrente admitiu as lesões provocadas, de modo que a gravidade delas é incompatível, de fato, com a tese da desistência voluntária.
+Desse modo, evidente que o afastamento dessas conclusões demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+Quanto ao capítulo de julgamento da apelação defensiva, não pode ser conhecido o questionamento, pois o recurso, neste ponto, não indicou especificamente quais seriam os dispositivos de lei federal afrontados pelo acórdão recorrido. Tal circunstância configura deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF.
+Ressalte-se que o recurso especial é meio de impugnação de fundamentação vinculada, e por isso exige a indicação ostensiva dos textos normativos federais a que negou vigência o aresto impugnado. Não basta, para tanto, a menção en passant a leis federais, tampouco a exposição do tratamento jurídico da matéria que o recorrente entende correto, como se estivesse a redigir uma apelação. Para inaugurar a instância especial, é imprescindível que o recurso especial aponte, com precisão, quais dispositivos legais teriam sido violados pela Corte de origem, o que não foi feito no presente caso.
+O tema é bem explicado no seguinte precedente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INCLUSÃO DA ESPOSA NO POLO PASSIVO DECORRENTE DA AÇÃO DE DESAPROPRIAÇÃO INDIRETA QUE OSTENTA NATUREZA REAL. ROL DE DISPOSITIVOS AFRONTADOS, SEM INDIVIDUALIZAÇÃO. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. O recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF.
+2. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 583.401/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/03/2015, DJe 25/03/2015)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
