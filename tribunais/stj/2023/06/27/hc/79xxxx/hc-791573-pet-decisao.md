@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Petição n. 601.341/2023, na qual a defesa de Amaury Santos Marinho Junior alega que foi proferida decisão pelo Colegiado de Juízes que compõem a 1ª Vara Criminal da comarca de Palmas/TO, em 15/6/2023, a qual revogou a prisão preventiva decretada em desfavor do ora paciente (fl. 1.786), motivo pelo qual requer a desistência do presente feito (extinção do processo).
+A impetração se volta contra o acórdão proferido pelo Tribunal de Justiça do Tocantins que manteve incólume a prisão preventiva (HC n. 0011919-41.2022.8.27.2700).
+Narram os autos que o Juízo Colegiado da 1ª Vara Criminal de Palmas/TO, nos autos da Ação Penal n. 0027009-02.2022.8.27.2729, decretou a prisão preventiva do paciente e seus comparsas pela prática dos crimes previstos no art. 121, § 2º, incisos I (motivo torpe), III (perigo comum) e IV (recurso que dificultou a defesa das vítimas), e § 6º (grupo de extermínio), do Código Penal, por duas vezes; art. 121, § 2º, incisos I (motivo torpe) e IV (recurso que dificultou a defesa das vítimas) e § 6º (grupo de extermínio), por três vezes, na forma do art. 29, caput, ambos do Código Penal, e art. 2º, caput, c/c os §§ 2º, 3º e 4º, inciso II, da Lei nº 12.850/2013, tudo na forma do art. 69 do Código Penal, tratando-se, portanto, de crimes aos quais é cominada pena máxima superior a quatro anos de privação de liberdade (art. 313, I, do CPP) - (fl. 81 - grifo nosso).
+Aponta-se constrangimento ilegal na segregação cautelar do paciente, diante da falta de requisitos e ausência de fundamentação e de contemporaneidade, além do excesso de prazo e não ocorrência de descumprimento das medidas cautelares alternativas anteriormente fixadas.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva.
+Indeferido o pedido liminar (fls. 1.395/1.396), prestadas as informações (fls. 1.403/1.406), a Subprocuradoria-Geral da República opinou pelo não conhecimento do writ (fls. 1.776/1.784).
+É o relatório.
+A concessão da liberdade provisória do paciente, com a imposição de medidas cautelares alternativas, pelo Juízo de origem acarreta a perda superveniente do interesse de agir na ação constitucional, cujo objeto era revogar a prisão preventiva.
+Homologo, portanto, o pedido, nos termos do art. 34, IX, do RISTJ, para que produza os seus efeitos legais.
+Publique-se.
