@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravos interpostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL e por VITOR DE SOUZA, ambos contra decisões do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu os recursos especiais, fundados, respectivamente, na alínea "a" e nas alíneas "a" e "c" do art. 105, III, da Constituição Federal de 1988, os quais desafiam acórdão assim ementado (e-STJ fl. 556):
+PREVIDENCIÁRIO. AGRAVO LEGAL. ART. 557 DO CPC. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO -DOENÇA. ARTIGOS42 A 47 E 59 A 62 DA LEI Nº 8.213, DE 24.07.1991. TERMO INICIAL DO BENEFÍCIO. HONORÁRIOS ADVOCATÍCIOS. AGRAVO DA PARTE AUTORA PARCIALMENTE PROVIDO. AGRAVO DO INSS DESPROVIDO.
+1. O termo inicial do benefício deve ser mantido na data da citação ,nos termos do disposto no art. 219, do Código de Processo Civil, por ter sido a partir deste momento que se constituiu em mora da autarquia nos presentes autos.
+2. Honorários advocatícios fixados no percentual de 10% sobre o valor das prestações vencidas até a Sentença, a teor do que dispõe a Súmula nº111 do STJ, bem como em consonância com o entendimento desta Turma.
+3. Percentual dos juros de mora não questionado em sede de apelação. Matéria preclusa.
+4. Agravo legal da parte Autora a que se dá parcial provimento.
+5. Agravo legal do INSS a que se nega provimento.
+Embargos de declaração rejeitados (e-STJ fls. 573/580).
+No recurso especial obstaculizado, a parte autora apontou dissídio jurisprudencial e violação dos arts. 5º, X, e 37, § 6º, da CF/1988 e dos arts. 186, 187 e 927 do Código Civil, argumentando que "a invalidez e a incapacidade do Agravante já eram latentes quando da entrada do primeiro requerimento", motivo pelo qual sua aposentadoria por invalidez deveria ter sido concedida desde a cessação do benefício, em 03/05/1998 (e-STJ fl. 564).
+A autarquia, por sua vez, alegou preliminar de afronta ao art. 535, II, do CPC/1973, pela omissão quanto à questão da necessidade de reexame necessário. No mérito, aduziu que, no caso em tela, a sentença prolatada é ilíquida, o que, por si só, sujeita o recurso ao reexame necessário, na forma do art. 475 do CPC/1973 e da Súmula 490 do STJ.
+Requereu que haja reforma do acórdão para aplicar o art. 1º-F da Lei n. 9.494/1997, após a vigência da Lei n. 11.960/2009, ou que o julgado seja anulado para análise do reexame necessário.
+Sem contrarrazões. Ambos os apelos nobres receberam juízos negativos de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos das aludidas decisões atacados somente no recurso do segurado.
+Passo a decidir os recursos em separado.
+Registro, inicialmente, que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Do Recurso da Parte Autora
+No pertinente aos arts. 5º, X, e 37, § 6º, da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+No mais, mediante análise dos autos, verifico que a inadmissão do especial deu-se com base na incidência da Súmula 7 do STJ. Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido concluiu que "o conjunto probatório demonstra que a incapacidade do autor subsiste a vários anos" (e-STJ fl. 555), sem exprimir, contudo, juízo de valor acerca da circunstância alegada de que a incapacidade seria "latente desde a entrada do primeiro julgamento" (e-STJ fl. 564).
+Assim, o conhecimento do recurso especial a fim de modificar a conclusão do Tribunal de origem demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial, sendo certo que o apelo nobre nem sequer suscitou eventual omissão do acórdão recorrido.
+Do Recurso da Autarquia
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão de origem, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: ausência de afronta ao artigo 1.022 do CPC/2015, Súmula 7 do STJ, Temas 491, 492, 905 do STJ e Tema 810 do STF.
+Entretanto, a parte agravante insurgiu-se apenas contra o fundamento acerca do reexame de matéria fática.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 15/0 8/2022, DJe de 17/08/2022.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo do segurado para NÃO CONHECER do recurso especial.
+E, com amparo no art. 253, parágrafo único, II, "a", do RISTJ, NÃO CONHEÇO do agravo do INSS.
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito especial deduzido na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
