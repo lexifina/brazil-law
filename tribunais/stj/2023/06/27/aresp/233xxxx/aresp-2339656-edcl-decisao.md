@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO PAULO OLIVEIRA DE LIMA em face da decisão de fls. 400/401, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+No caso, o erro material consiste no fato de que no Agravo em Recurso Especial (Fls. 07) foi demonstrado em que medida o Tribunal de Justiça Potiguar se afastou da aplicação dos dispositivos infra legais referentes aos artigos 158 e 171 do Código Penal:
+ ..
+Da leitura acima, é possível perceber que o inconformismo com a desclassificação dos fatos do Art. 158 para o Art. 171 do Código Penal transbordou "a mera citação de artigo de lei na peça recursal", esclarecendo as razões pelas quais deveria ser considerado o delito de estelionato ao invés do delito de extorsão, qual seja, a ausência de comprovação nos autos da grave ameaça supostamente empreendida pelo Embargante em desfavor da vítima.
+Tendo em vista essa questão ter sido expressamente debulhada no Agravo em Recurso Especial, é evidente que também foi superado o óbice contido na Súmula 284 do Supremo Tribunal Federal, eis que restou muito clara "a exata compreensão da controvérsia".
+Diante da demonstração do erro material contido na decisão que não conheceu o Recurso Especial, requer-se, muito respeitosamente, a Vossa Excelência, O CONHECIMENTO E O PROCESSAMENTO DO RECURSO ESPECIAL INTERPOSTO EM FAVOR DO SR. JOÃO PAULO OLIVEIRA LIMA (fls. 407/408).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Por fim, consigne-se que não prosperam os argumentos do embargante quanto à indicação dos artigos de lei violados, uma vez que foram mencionados somente na petição de agravo em recurso especial. Neste ponto, impende salientar que se mostra inviável a indicação posterior do dispositivo violado na medida em que os requisitos do recurso especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
