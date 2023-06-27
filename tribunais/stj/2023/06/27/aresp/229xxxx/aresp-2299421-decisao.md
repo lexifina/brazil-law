@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DAISY MALDAUN, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/04/2022.
+Concluso ao gabinete em: 10/03/2023.
+Ação: de revisão de contrato c/c repetição de indébito ajuizada pela agravante em face de NOTRE DAME SEGURADORA SOCIEDADE ANÔNIMA, se insurgindo contra o reajuste em seu contrato de plano de saúde.
+Sentença: julgou improcedente a demanda.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO. Seguro Saúde. Impugnação aos reajustes aplicados. (1) DA PRELIMINAR DE NULIDADE PROCESSUAL, POR CERCEAMENTO DE DEFESA: Rejeitada. Procedimento de Primeiro Grau que contemplou ampla abertura ao contraditório, permitindo à partes manifestações acerca do laudo pericial e suas complementações, antes e depois da homologação judicial. (2) DO MÉRITO: Improcedência mantida. Incidência do CDC (Súmula 608 do Colendo Superior Tribunal de Justiça). Reajuste anual e por sinistralidade. Nulidade das cláusulas. Não verificação. Prova técnica (atuarial) que, com clareza, evidenciou terem sido corretamente calculados e aplicados os índices de reajuste impugnados, como forma de manter-se o equilíbrio financeiro do contrato coletivo. Sentença correta e, assim, confirmada. (3) DOS ÔNUS SUCUMBENCIAIS: Conservados tal qual definidos em Primeiro Grau, apenas com aumento da verba honorária (art. 85, § 11, CPC), para 12% do valor atualizado da causa. RECURSO DESPROVIDO, uma vez rejeitada a preliminar e majorada a verba honorária.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 317, 373, II, 464, §1º, I, 473, IV, §1º, 477, §3º, 479 e 480 do CPC, 6º, III, V e CIII e 51, IV e X, do CDC, e 422 e 478 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a ilegitimidade do reajuste aplicado ante a ausência da prova de sua necessidade, por meio de cálculos ou apresentação de desequilíbrio. Aduz a vantagem exagerada imposta ao consumidor ao majorar a mensalidade de seu plano de saúde em 58%, sendo necessária a inversão do ônus para que a operadora comprovasse a necessidade do percentual aplicado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reajuste por sinistralidade
+A legalidade da cláusula contratual de reajuste por sinistralidade ou por variação dos custos médico-hospitalares encontra-se em conformidade com a jurisprudência do STJ, consolidada no sentido de que "é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, 3ª Turma, DJe de 10/6/2015). Nessa mesma linha: AgInt no REsp 1.883.615/SP, 3ª Turma, DJe 12/2/2021 e AgInt no AREsp 1.696.601/SP, 4ª Turma, DJe 20/10/2020.
+Na hipótese, verifica-se que a Corte de origem, a partir do exame do conteúdo fático-probatório dos autos, concluiu que a cláusula contratual e aos cálculos atuariais eram suficientes a demonstrar a legalidade do reajuste. E tendo sua legalidade sido aferida em razão da demonstração dos critérios utilizados para a sua fixação - imutável por força do óbice da Súmula 7/STJ.
+Do mesmo modo, inviável alterar o decidido no acórdão impugnado, no que se refere à não ocorrência de cerceamento de defesa, ante a suficiência e o equilíbrio das provas produzidas, por exigir o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 665) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO C/C REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE AFASTADA. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de revisão de contrato c/c repetição de indébito.
+2. Segundo a jurisprudência do STJ, é possível o reajuste de contratos de plano de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
