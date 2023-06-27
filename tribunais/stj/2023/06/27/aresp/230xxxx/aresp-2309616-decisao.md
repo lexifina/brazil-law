@@ -1,0 +1,21 @@
+DECISÃO
+Na origem trata-se de ação rescisória ajuizada por MARCELO CAVALLI contra a UNIÃO, pretendendo a desconstituição de acórdão proferido em agravo de instrumento que extinguiu o cumprimento de sentença. Alegou-se que a lei que isentou dos honorários foi posterior ao Juízo de retratação da ação principal. No Tribunal a quo a rescisória foi julgada improcedente . O valor da causa foi fixado em R$ 7.971,64 (sete mil, novecentos e setenta e um reais e sessenta e quatro centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AÇÃO RESCISÓRIA. "FATO NOVO" E VIOLAÇÃO A NORMA JURÍDICA.
+1. Não se admite a ação rescisória fundada em alegação de "fato novo", já que não se trata de hipótese prevista no art. 966 do Código de Processo Civil, que autorize a propositura da ação rescisória.
+2. Impõe-se julgar improcedente a ação rescisória, fundada em alegação de violação a norma jurídica, quando a interpretação conferida pela decisão rescindenda é razoável.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Enfim, é certo que o art. 5º da Lei nº 13.606, de 2018, autoriza a dispensa do pagamento apenas nos casos dos honorários que seriam devidos na forma do art. 90 do Código de Processo Civil, pela parte que desistiu da demanda e renunciou ao direito sobre o qual se fundava a ação, oque não é o caso dos autores, que persistiram na demanda e tiveram decisão judicial desfavorável transitada em julgado, tendo lhes sido imputados honorários na forma do art. 85 do Código de Processo Civil, por serem a parte que restou "vencida" na demanda.
+ ..
+Com efeito, agora em juízo de cognição exauriente, não se verifica a alegada violação a norma jurídica, impondo-se julgar improcedente a ação rescisória e imputar à demandante o pagamento das custas do processo e dos honorários advocatícios que, nos termos do art. 85, § 4º, III, do Código de Processo Civil, vão fixados em 10% sobre o valor da causa (=R$ 10% de R$7.971,64 - sete mil, novecentos setenta e um reais e sessenta e quatro centavos em outubro de 2021) atualizado pelo IPCA-E. Cumpre observar, entretanto, que os autores são beneficiários da gratuidade de justiça, caso em que fica suspensa a exigibilidade do pagamento das custas, honorários e multa de que trata o art. 968, II, do Código de Processo Civil.
+ ..
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O tribunal expressamente assentou que o art. 5º da Lei n. 13.606/2018 não se aplica à parte, porquanto esta não desistiu da ação, prosseguindo no feito, até o trânsito em julgado que lhe foi desfavorável.
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
