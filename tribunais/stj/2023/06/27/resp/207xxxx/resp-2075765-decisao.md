@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. IMPORTAÇÃO DE VINHOS. LAVRATURA DE AUTO DE INFRAÇÃO. EXIGÊNCIA DE TRIBUTOS. INAPLICABILIDADE DA MARGEM DE PREFERÊNCIA INDICADA PELO IMPORTADOR. MULTA DO ART. 711 DO REGULAMENTO ADUANEIRO. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO MONETÁRIA. IPCA-E.
+A recorrente alega violação dos arts. 11, 489, II, 490 e 1.022, II, do CPC; dos arts. 2º e 3º, e Anexos 6 e 7, do ACE 35 (introduzido pelo Decreto 2.075/1996); do art. 1º, caput e "a", do Trigésimo Protocolo Adicional do ACE 35 (introduzido pelo Decreto 4.404/2002); dos arts. 1º e 2º do Decreto 4.404/2002; do art. 45, III, do Decreto 4.544/2002, e dos arts. 48, III, e 617, I, do Decreto 7.212/2010.
+Foram apresentadas genericamente as contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de junho de 2023.
+A matéria dos autos é bastante específica, não tendo sido analisada de modo aprofundado, com a devida vênia, nas instâncias de origem.
+A empresa recorrente procedeu à importação de vinhos de origem chilena, nos anos de 2009 e 2010. A controvérsia diz respeito ao lançamento realizado pelo Fisco, relativo a diferenças de Imposto de Importação (IPI), além dos acréscimos, como juros e multa.
+Invocando a existência do Trigésimo Protocolo Adicional ao Acordo de Complementação Econômica 35, aprovado pelo Decreto 4.404/2002, o estabelecimento empresarial defende a tese de que inexistiriam diferenças relativas ao Imposto de Importação (e, por consequência, dos reflexos no IPI), na medida em que teria direito à desgravação de 100% dos vinhos chilenos.
+Em síntese, a questão essencial a ser definida na presente lide diz respeito à tese de que o Anexo 1 do Protocolo Adicional aprovado pelo Decreto 4.404/2002 teria revogado as disposições originais do Anexo 7 do ACE 35, aprovado pelo Decreto 2.075/1996. A recorrente aduz que houve aceleração da desgravação dos vinhos importados.
+À fl. 1.842, e-STJ, o Tribunal de origem, de modo bastante genérico, consignou:
+É bem verdade que o Trigésimo Protocolo Adicional, de 30-08-2002, aumentou para 100% a margem de preferência dos produtos previstos no Anexo 7 do ACE 35. Ocorre que, ao contrário do que alega a embargante, não houve alteração do prazo de vigência das disposições estabelecidas no Anexo 7, de modo que a margem de preferência de 100% vigorou apenas até 31-12- 2006.
+Como se vê, o órgão julgador claramente registrou seu entendimento de que o Trigésimo Protocolo Adicional não alterou o prazo de vigência das disposições estabelecida no Anexo 7 do ACE 35, mas não fundamentou as razões pelas quais chegou a essa conclusão.
+Provocado pela parte interessada, que opôs Embargos de Declaração especificando os dispositivos legais que, no seu entender, demonstrariam que a margem de preferência de 100% teria sido estabelecida em 2002, encontrando-se vigente alegadamente até os dias atuais, o Tribunal de origem acolheu o recurso aclaratório de modo parcial, pronunciando-se exclusivamente a respeito da multa do art. 44, I, da Lei 9.430/1996.
+Veja-se que a menção genérica à existência do Protocolo Adicional e do Decreto que aprovou sua incorporação no ordenamento jurídico interno não basta para justificar a conclusão adotada pelo Tribunal a quo. Assim como são deficientes, para fins de Recurso Especial, as razões que apontam a violação da legislação federal sem individualização do dispositivo legal alegadamente infringido, também é viciada por omissão (ausência de fundamentação - isso está dito literalmente no art. 489, § 1º, I, c.c. art. 1.022, parágrafo único, II, do CPC) a decisão que apenas faz referência abstrata a determinado ato normativo, sem especificar o dispositivo legal específico atinente à matéria e sua relação com a solução do litígio.
+No caso concreto, a recorrente opôs Embargos de Declaração e individualizou dispositivos que, a seu ver, amparam a tese de que a margem de preferência de 100% permaneceu válida desde 2002 até os dias atuais, revogando o Anexo 7 do ACE 35.
+Torna-se indispensável que o Tribunal de origem se manifeste sobre a tese de revogação acima indicada, que deve ser enfrentada mediante análise específica dos dispositivos normativos apontados pela recorrente.
+Diante do exposto, dou parcial provimento ao Recurso Especial, nos termos acima.
+Publique-se.
+Intimem-se.
