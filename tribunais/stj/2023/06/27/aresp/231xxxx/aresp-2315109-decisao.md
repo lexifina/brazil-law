@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por OCEAN NETWORK EXPRESS (LATIN AMERICA) AGENCIA MARITIMA LTDA, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 340, e-STJ):
+Ação de obrigação de fazer. Transporte marítimo. Liberação da carga no Porto de Paranaguá/PR. Procedência parcial. Liberação condicionada à apresentação da via original do conhecimento de embarque ou prestação de garantia Abusividade - Contratação do serviço que se deu com cláusula de não negociabilidade - Inviabilidade de endosso a terceiro - Pagamento do frete comprovado Retenção indevida - Hipótese dos autos que não se enquadra no disposto no artigo 7º, do Decreto-Lei nº nº 116 de 25 de janeiro de 1967, repetida no artigo 40 da Instrução Normativa da SRF 800/07 Liberação das mercadorias que era de rigor Indenização por perdas e danos Inadmissibilidade - Documentos juntados somente em sede recursal Preclusão da prova Litigantes que tiveram parte de suas pretensões rejeitadas, configurada a sucumbência recíproca Recurso da autora improvido e provido em parte o da ré.
+Os embargos de declaração foram rejeitados (fls. 391-395, e-STJ).
+Nas razões do recurso especial (fls. 397-418, e-STJ), a insurgente alega que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigos 489, § 1º, IV e 1.022, I, II e III do CPC, aduzindo omissão no julgado, e ii) artigos 519, 566, 575, 580, 586 e 587 do Código Comercial, 188, I, e 754, do CC, e artigo único do Decreto 21.736/32, postulando se declare a legalidade da retenção da mercadoria até que seja prestada a caução/fiança em virtude do extravio do conhecimento de embarque.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 466-468, e-STJ), dando ensejo a interposição do presente agravo (fls. 474-497, e- STJ).
+Não foi apresentada contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A recorrente aponta violação aos artigos 489, § 1º, IV e 1.022, I, II e III do CPC, sob o argumento de que o Tribunal local incorreu em omissão quanto à análise da alegação, segundo a qual, as cautelas exigidas pelo transportador são legítimas para liberação de mercadorias com consignação nominal.
+Da leitura do aresto embargado, verifica-se que a alegada violação não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu de forma clara e integralmente a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela parte recorrente, como se vê dos seguintes trechos do decisum (fl. 343, e-STJ, grifou-se):
+É de se verificar que a fundamentação da r. sentença recorrida é suficiente para abranger todas as matérias postas na inicial e contestação, apontando a douta Magistrada as razões pelas quais concluiu pela procedência parcial da ação. Se a recorrente entende que não teria respondido adequadamente as matérias versadas na contestação, isto seria questão atinente ao mérito do presente recurso que implicaria unicamente na reforma da r. sentença, não no reconhecimento de sua nulidade, por falta de fundamentação.
+Quanto ao mais, restou incontroversa a existência de relação jurídica entre as partes, bem como a retenção das mercadorias com a exigência da apresentação da via original do conhecimento de embarque (Bill of Lading).
+Entretanto, não se mostra cabível condicionar a liberação das mercadorias à apresentação do documento original, se demonstrada a quitação das respectivas taxas locais e de frete, como no caso.
+Como visto, a tese da parte insurgente foi apreciada pelo Tribunal a quo, que a afastou apontando os fundamentos jurídicos para tal. Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)  grifou-se
+AGRAVO INTERNO. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. NEXO CAUSAL. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR. VERIFICAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA. MONTANTE, PERCENTUAL E DECAIMENTO. AVERIGUAÇÃO. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. CONCLUSÕES ADOTADAS COM FASE EM ELEMENTOS FÁTICOS DOS AUTOS. JUROS E CORREÇÃO MONETÁRIA DOS HONORÁRIOS ADVOCATÍCIOS. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não configurada a alegada omissão, contradição ou obscuridade, tendo em vista que houve manifestação suficiente e clara acerca dos temas postos em discussão desde a origem.
+2. A reanálise das conclusões acerca do nexo causal, dano moral, valor da indenização, montante, decaimento e percentual de sucumbência e à litigância de má-fé, fundamentadas nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF.
+4. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.139.665/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CONFIGURADAS. ERRO MATERIAL CONSTATADO. MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos .
+(EDcl no AgInt no AREsp n. 1.979.004/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)  grifou-se
+Afasta-se, portanto, a alegada ofensa aos artigos 489, § 1º, IV e 1.022, I, II e III do CPC.
+2. Por fim, a recorrente aponta ofensa aos artigos 519, 566, 575, 580, 586 e 587 do Código Comercial, 188, I, e 754, do CC, e artigo único do Decreto 21.736/32, postulando se declare a legalidade da retenção da mercadoria até que seja prestada a caução/fiança em virtude do extravio do conhecimento de embarque.
+A esse respeito, assim concluiu o Tribunal de origem (fls. 343-345, e-STJ, grifou-se):
+É de se verificar que a fundamentação da r. sentença recorrida é suficiente para abranger todas as matérias postas na inicial e contestação, apontando a douta Magistrada as razões pelas quais concluiu pela procedência parcial da ação. Se a recorrente entende que não teria respondido adequadamente as matérias versadas na contestação, isto seria questão atinente ao mérito do presente recurso que implicaria unicamente na reforma da r. sentença, não no reconhecimento de sua nulidade, por falta de fundamentação.
+Quanto ao mais, restou incontroversa a existência de relação jurídica entre as partes, bem como a retenção das mercadorias com a exigência da apresentação da via original do conhecimento de embarque (Bill of Lading).
+Entretanto, não se mostra cabível condicionar a liberação das mercadorias à apresentação do documento original, se demonstrada a quitação das respectivas taxas locais e de frete, como no caso.
+De acordo com o art. 7º, do Decreto-Lei nº 116/67:
+"Ao armador é facultado o direito de determinar a retenção da mercadoria nos armazéns, até ver liquidado o frete devido ou o pagamento da contribuição por avaria grossa declarada".
+Ademais, a contratação do serviço se deu com cláusula de não negociabilidade (non-negotiable unless made out to order fls. 36 e 37), o que impede o endosso a terceiros.
+(..)
+Assim, a retenção da mercadoria condicionada a exibição da via original do BL ou caução, após pagamento do frete e taxas, realmente se mostra abusiva, como bem decidiu a douta Magistrada.
+Assim, derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de se verificar a necessidade da apresentação do documento original do conhecimento de embarque, já assentado como incabível, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à necessidade de apresentação do conhecimento de embarque em sua via original, de prestação de caução ou de assinatura de termo de compromisso para a liberação da carga transportada, demandaria o reexame da matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.671.377/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.)
+No mesmo sentido as seguintes decisões monocráticas: REsp n. 1.621.605, Ministro Antonio Carlos Ferreira, DJe de 17/12/2020, e AREsp n. 656.884, Ministro Ricardo Villas Bôas Cueva, DJe de 08/05/2015.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
