@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, interposto contra acórdão que deu parcial provimento ao recurso de apelação defensivo para reduzir as penas.
+Nas razões do especial, alega o recorrente, em suma, violação dos arts. 33, §4º, e 42, da Lei n. 11.343/06, ante a falta de fundamentação para a negativa da minorante do tráfico privilegiado, que importou, inclusive, em bis in idem, porquanto a quantidade da droga apreendida teria sido utilizada na primeira e na terceira fases da dosimetria.
+Requer, assim, o provimento do recurso, a fim de que seja aplicada a minorante no patamar máximo.
+Contrarrazoado, manifestou-se o Ministério Público Federal pelo parcial provimento do recurso.
+Consta dos autos que juízo sentenciante condenou o recorrente, como incurso no art. 33, caput, da Lei 11.343/06, às penas de 5 anos, 6 meses e 20 dias de reclusão, em regime fechado, e 555 dias-multa.
+Interposta apelação foi provido em parte o recurso defensivo para reduzir as penas a 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, e 485 dias-multa.
+Acerca da minorante do tráfico privilegiado, extrai-se do acórdão recorrido (fls. 209-217):
+Na terceira fase, a causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, não pode ser reconhecida porque demonstrado que o apelante se dedica a atividades criminosas, impedimento legal para a concessão do benefício. Pela grande quantidade da droga apreendida com ele, é patente, que ele não fazia isto pela primeira vez, pois nenhum grande traficante confiaria esta tarefa, com alto valor econômico envolvido (basta calcular o valor que essa quantidade da droga tem no mercado espúrio) a um novato na criminalidade.
+Nem se diga que há bis in idem porque já levada em conta a quantidade de droga para o acréscimo das penas-base. Neste momento, não é a quantidade de drogas, em si, o motivo justificador do aumento, mas apenas constitui elemento de prova que permite formar a convicção no sentido de que o apelante se dedicava a práticas criminosas. Este sim, motivo para o impedimento da benesse prevista no art. 33, § 4º, da Lei de Drogas.
+Ausentes outras causas de aumento ou de diminuição, tornam-se as penas definitivas nos patamares acima fixados.
+Vê-se que a minorante restou afastada essencialmente em razão da quantidade e natureza das drogas apreendidas.
+Não obstante, tendo em conta a quantidade de droga apreendida (1.428g de maconha), que não é particularmente relevante, embora não desprezível e, ausentes circunstâncias adicionais desfavoráveis e idôneas, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga ou mesmo petrechos, entre outras, não se justifica o afastamento da minorante do tráfico. Nesse sentido: AgRg no AREsp 1679878/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2 020; AgRg no HC 554.893/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.
+Nesse contexto, além de não se tratar de quantidade relevante, que sequer justifica a exasperação da pena-base, já tendo sido utilizada na primeira etapa da dosimetria para exasperar a pena-base, não se justificaria, de qualquer sorte, a utilização do mesmo fundamento para a fixação de fração aquém da máxima legal, pela minorante do tráfico privilegiado.
+Assim, reduz-se, de ofício, a pena-base ao mínimo legal, a qual permanece no mesmo patamar na segunda fase, não obstante a atenuante da confissão espontânea, nos termos da Súmula 231/STJ. Por fim, reduz-se a pena de 2/3 na terceira fase, pela minorante, totalizando 1 ano e 8 meses de reclusão e 166 dias-multa.
+Ante a redução ora implementada, faz jus o recorrente ao regime aberto e à substituição das penas.
+Ante o exposto, dou provimento ao recurso especial, a fim de reduzir as penas a 1 ano e 8 meses de reclusão, e 166 dias-multa, fixando o regime aberto para o cumprimento da pena reclusiva e substituindo-a por restritivas de direitos a serem estabelecidas pelo juízo das execuções .
+Comunique-se.
+Publique-se.
+Intimem-se.
