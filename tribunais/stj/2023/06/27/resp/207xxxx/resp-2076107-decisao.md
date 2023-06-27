@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por BOA VISTA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA., com amparo nas alíneas "a" e "c" do permissivo constitucional, em desafio ao acórdão exarado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 789, e-STJ):
+Compromisso de compra e venda de bem imóvel Aquisição por meio do Programa Minha Casa Minha Vida Atraso na entrega do imóvel Justificativa do atraso calcada no ato da Municipalidade que cancelou o processo de desmembramento da gleba com a consequente suspensão dos alvarás de aprovação e execução Risco do empreendedor Não comprovação de ocorrência de força maior para o descumprimento da obrigação Inteligênciada Súmula 161 emitida pela Turma Especial da Seção de Direito Privado-Subseção I, deste Tribunal de Justiça Lucros cessantes devidos Inteligência da Súmula 162 e posicionamento firmado pela Turma Especial da Seção de Direito Privado-Subseção I, deste Tribunal de Justiça, em Incidente de Resolução de Demandas Repetitivas 0023203-35.2016.8.26.0000 (Tema05), além do entendimento fixado pelo STJ quando do julgamento do REsp 1.729.593-SP (Tema 996 Tese 1.2) Legitimidade da ré apelante para responder ao pedido de devolução de "juros de obra" por integrar a cadeia de fornecimentoTaxa de evolução da obra inaplicável durante o período de atraso Inteligência da Súmula 163, posicionamento firmado pela Turma Especial da Seção de Direito Privado-Subseção I, deste Tribunal de Justiça, em Incidente de Resolução de Demandas Repetitivas 0023203-35.2016.8.26.0000 (Tema 06) e entendimento fixado pelo STJ quando do julgamento do REsp 1.729.593-SP (Tema 996 Tese 1.3) Incabível indenização por danos morais diante da frustração do negócio imobiliário Recurso parcialmente provido.
+Embargos de declaração rejeitados (fls. 803/807, e-STJ).
+Nas razões do recurso especial (fls. 809/824, e-STJ), a insurgente aponta, além de dissídio jurisprudencial, vulneração aos artigos 421 e 422 do CC e 14, §3º, II, do CDC, sustentando, em suma, que o atraso na entrega da obra se deu por culpa exclusiva de terceiro, no caso, o Município de Campinas, que cancelou o processo desmembramento da gleba e suspendeu os alvarás de aprovação e execução anteriormente expedidos.
+Contrarrazões às fls. 851/869 (e-STJ).
+Recurso especial admitido às fls. 870/872 (e-STJ).
+É o relatório.
+Decide-se.
+A pretensão não merece acolhimento.
+1. A insurgente sustenta a ocorrência de culpa de terceiro pelo atraso na entrega da obra. Afirma que havia tomado todas as cautelas legais e mesmo assim o Município de Campinas cancelou o processo desmembramento da gleba e suspendeu o alvará de aprovação e execução anteriormente expedidos.
+No ponto, concluiu a Corte de origem (fl. 792, e-STJ):
+O atraso na entrega da obra é questão incontroversa, sendo absolutamente descabidos os argumentos trazidos pela apelante para justificar o atraso, pois os entraves burocráticos, inclusive o cancelamento do processo de desmembramento da gleba,fazem parte do dia a dia e são de pleno conhecimento das empresas que atuam no setor de empreendimentos imobiliários.
+Nesse contexto, o reconhecimento de caso fortuito, força maior, culpa de terceiro ou fortuito externo pelo atraso da entrega do imóvel, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. CASO FORTUITO. SÚMULA 7/STJ. INDENIZAÇÃO. TERMO FINAL. ENTREGA DAS CHAVES. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. CORREÇÃO MONETÁRIA. INCC. INAPLICABILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO
+1. Na hipótese, o Tribunal de origem não constatou a ocorrência de excludente de nexo de causalidade, apta a justificar o atraso na entrega do imóvel, pois configurado fortuito interno, inerente ao risco do empreendimento. Incidência da Súmula 7 do STJ.
+2. "Cabimento de indenização por lucros cessantes até a data da efetiva disponibilização das chaves por ser este o momento a partir do qual os adquirentes passam a exercer os poderes inerentes ao domínio, dentre os quais o de fruir do imóvel" (REsp 1.796.760/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 2/4/2019, DJe de 5/4/2019).
+3. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar lesão extrapatrimonial, como reconhecido, na hipótese dos autos, pela Corte de origem.
+4. Nos termos da jurisprudência desta Corte, não se aplica o INCC para correção do saldo devedor após o transcurso da data-limite para a entrega da obra. Incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.853.965/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 2/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. FORÇA MAIOR. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. JUROS DE MORA. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem reputou não configurada a hipótese de caso fortuito ou de força maior, hábil a justificar o descumprimento do prazo estabelecido no contrato para entrega da obra. Nesse contexto, rever a conclusão da Corte a quo demandaria a incursão no acervo probatório dos autos, providência vedada a teor da Súmula 7/STJ.
+2. O STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. No caso de ilícito contratual, os juros de mora são devidos a partir da citação. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.815.791/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2020, DJe de 2/2/2021.)
+Logo, quanto ao ponto, de rigor a aplicação da Súmula 7 do STJ, cuja incidência prejudica a análise do apontado dissídio jurisprudencial.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao recurso especial.
+Publique-se.
+Intimem-se.
