@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AFONSO ALVES DA CRUZ (e-STJ fls. 480/487) contra decisão monocrática de e-STJ fls. 473/475, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega, em síntese, violação ao princípio da colegialidade.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. FALTA GRAVE. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que conc erne à aduzida usurpação de competência dos órgãos colegiados, como é cediço, é possível o julgamento monocrático quando manifestamente inadmissível, prejudicado, com fundamento em súmula ou, ainda, na jurisprudência dominante desta Corte Superior, como no caso vertente, exegese do art. 932, inciso III, do CPC c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ e da Súmula n. 568/STJ. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova que comprovam que o ora agravado praticou falta disciplinar de natureza grave consistente na participação de movimento de subversão à ordem à disciplina da unidade prisional (artigo 50, I, da Lei de Execução Penal). Assim, rever os fundamentos utilizados pela Corte Estadual, para desconstituir a decisão ora impugnada, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+De início, no que concerne à aduzida usurpação de competência dos órgãos colegiados, como é cediço, é possível o julgamento monocrático quando manifestamente inadmissível, prejudicado, com fundamento em súmula ou, ainda, na jurisprudência dominante desta Corte Superior, como no caso vertente, exegese do art. 932, inciso III, do CPC c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ e da Súmula n. 568/STJ. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova que comprovam que o ora agravado praticou falta disciplinar de natureza grave consistente na participação de movimento de subversão à ordem à disciplina da unidade prisional (artigo 50, I, da Lei de Execução Penal).
+Abaixo, trecho do acórdão recorrido (e-STJ fls. 375/376):
+Isto porque, no caso telado, verifica-se que o sentenciado, ora agravado praticou falta disciplinar de natureza grave consistente na participação de movimento de subversão à ordem à disciplina da unidade prisional (artigo 50, I, da Lei de Execução Penal).
+Com efeito, os documentos acostados às fls. 06/337, especialmente a comunicação de evento (fls.06/07), os depoimentos dos agentes penitenciários, Márcio Ruiz Ubeda e Marcelo Aparecido Tavares (fls. 168/173), o relatório da equipe apuradora (fls. 313/334) e a decisão do Diretor (fls. 335/337), não deixam dúvidas acerca da conduta atribuída ao ora agravado, constituindo provas hábeis à caracterização da infração disciplinar de natureza grave, restando cabalmente demonstrado que o agravado participou de movimento de subversão à ordem à disciplina da unidade prisional, ao pedir atendimento médico e junto com outros sentenciados sair das celas de forma abrupta, munidos de cabos de vassoura e arremessar objetos contra a gaiola, onde estavam os funcionários, amotinando-se e forçando a abertura do portão de acesso para quebrá-lo e alcançar seu interior, onde os funcionários estavam, sem sucesso, travar a porta da cela e passar a carregar e amontoar colchões na porta da gaiola e atear fogo, ocasionando tumulto generalizado.
+A prova oral colhida é coerente e harmônica, não apresentando divergências nos depoimentos dos Agentes Penitenciários. Além disso, não existe nenhum indício nos autos que coloque em dúvida a sua veracidade, eis que narraram de forma minuciosa os acontecimentos.
+Assim sendo, o fato atribuído ao ora agravado, encontra-se tipificado no art. 50, I, da Lei de Execuções Penais, como falta disciplinar de natureza grave o que, pese o entendimento da culta Magistrada, afasta a possibilidade de desclassificação da conduta para média.
+De rigor, portanto, a reforma da decisão para reconhecer a conduta do agravado como falta disciplinar de natureza grave.
+Assim, rever os fundamentos utilizados pela Corte Estadual, para desconstituir a decisão ora impugnada, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
