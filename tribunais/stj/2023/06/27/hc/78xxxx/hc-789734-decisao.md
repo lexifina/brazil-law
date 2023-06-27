@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NICOLAS MENDES ANELI contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o paciente foi denunciado pela prática do crime tipificado no art. 306, §1º, II, e §2º, do Código de Trânsito Brasileiro.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 128-134, com a seguinte ementa:
+HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. ART. 306 DA LEI Nº 9.503/97. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA. INOCORRÊNCIA.
+O trancamento da ação penal é medida de caráter excepcional, aplicável quando verificada, de pronto, a inexistência de qualquer prova da materialidade ou de indícios da autoria, quando manifesta a ocorrência de causa excludente de ilicitude, de extinção da punibilidade ou a atipicidade do fato, o que não é o caso dos autos. Na espécie, nos termos expressos do art. 306, § 1º, inciso III, e § 2º, do CTB, possível a comprovação da alteração da capacidade psicomotora por prova testemunhal. Além disso, a alteração da capacidade psicomotora promovida pela ingestão alcoólica foi, justamente, o fundamento que levou o legislador a tipificar a conduta como crime e ocorre com qualquer dosagem alcoólica, mesmo que a alteração não seja, ainda, perceptível. Dessa forma, presentes evidências concretas da ingestão alcóolica pelo paciente, pelos sinais visíveis de embriaguez verificados pelos agentes públicos quando da abordagem e, mesmo, pelo perito oficial, havendo prova da materialidade e indícios suficientes da autoria e da configuração do crime de embriaguez ao volante, existente justa causa para a ação penal, não se podendo cogitar de seu trancamento. Ausente constrangimento ilegal.
+ORDEM DENEGADA. POR MAIORIA.
+No presente writ, o impetrante sustenta que o tipo penal do art. 306 do CTB prevê a alteração da capacidade psicomotora como núcleo do tipo penal, "o que não ocorreu em decorrência da perícia realizada, pois, se a capacidade psicomotora do acusado não estava alterada por influência do álcool que ingerira, não há falar em prática do crime previsto no art. 306 do CTB volante, porque não é a presença do álcool, por si só, que o caracteriza, mas o comprometimento, pelo seu uso, da capacidade psicomotora do condutor" (fl. 17).
+Destaca que "o TIPO PENAL não se satisfaz com a comprovada condução sob efeito de álcool ou substância análoga, o que constitui infração administrativa, mas sim exige a ALTERAÇÃO DA CAPACIDADE PSICOMOTORA EM RAZÃO DESSAS SUBSTÂNCIAS  .. " (fl. 22).
+Alega que "a peça acusatória, tão pouco a decisão coatora (evento nº 31 do processo originário) NÃO descreveu a alteração da capacidade psicomotora do condutor do veículo, ou seja, a peça inicial carece de aptidão a desencadear um processo criminal. O artigo 306 do Código de Trânsito f oi alterado, incluindo o elemento normativo "capacidade psicomotora alterada"" (fl. 29).
+Requer, liminarmente, a suspensão da ação penal e, no mérito, o trancamento da ação penal.
+O pedido liminar foi indeferido.
+As informações foram prestadas às fls. 387-390, 391-425 e 442-444.
+Em 19/6/2023, a defesa juntou aos autos petição reiterando os argumentos aduzidos na inicial, bem como documentos extraídos da ação penal.
+O Ministério Público Federal, às fls. 429-435, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. EMBRIAGUEZ AO VOLANTE. PRETENSÃO DE TRANCAMENTO DA AÇÃ O PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. MEDIDA EXCEPCIONAL. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. DENÚNCIA QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o breve relatório.
+Decido.
+Pretende a defesa o trancamento da ação penal em razão da ausência de justa causa. Todavia, consta das informações juntadas pela defesa nas fls. 485-499 que foi prolatada sentença condenatória. Assim, diante da superveniência de sentença condenatória, a pretensão aduzida pela defesa se torna prejudicada.
+Com efeito, " a  A jurisprudência desta eg. Corte Superior é firme no sentido de que "(..) a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC n. 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017).
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CRIME DE TORTURA. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. FALTA DE INDIVIDUALIZAÇÃO DA CONDUTA. AUSÊNCIA DE JUSTA CAUSA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. SÚMULA 648 DO STJ. NULIDADE. RECONHECIMENTO FOTOGRÁFICO E PESSOAL. NÃO OCORRÊNCIA. CONDENAÇÃO. OUTROS ELEMENTOS DE PROVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia. A teor da Súmula n. 648 do STJ, " a  superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+ .. "
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 801.384/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+Assim, a sentença condenatória deve ser objeto de impugnação específica pela via recursal adequada (apelação criminal), evitando-se, assim, indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
