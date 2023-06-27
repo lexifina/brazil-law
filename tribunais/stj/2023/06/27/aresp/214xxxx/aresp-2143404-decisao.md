@@ -1,0 +1,22 @@
+DECISÃO
+Diante da notícia do falecimento dos autores JUEFERSON SILVA, PEDRO MOTTA DE MENDONÇA e ROBERTO UCHÔA PASSOS, informada pela UNIÃO, às e-STJ fls. 620/624, foi determinada a intimação dos espólios ou os sucessores desses autores, a fim de que regularizassem o feito, com a adoção das providências necessárias às habilitações, com a ressalva de que o descumprimento da determinação implicaria a extinção do processo sem resolução de mérito - art. 313, § 2º, II, do CPC/2015 (e-STJ fls. 634/635).
+Apesar da regular intimação por meio de carta com aviso de recebimento (e-STJ fls. 653/654 e 660/661) e por edital (e-STJ fls. 668/670), não houve nenhuma manifestação (e-STJ fl. 673).
+Passo a decidir.
+Nos termos do art. 313, § 2º, II, do CPC/2015, havendo a morte do autor e sendo transmissível o direito em litígio, o espólio, o sucessor ou os herdeiros serão intimados para que manifestem interesse na sucessão processual e promovam a respectiva habilitação no prazo designado, sob pena de extinção do processo sem resolução de mérito.
+Na hipótese, conforme acima indicado, apesar da realização de intimação por carta com aviso de recebimento e por edital, não foram adotadas as providências necessárias à habilitação de todos os herdeiros ou dos inventariantes de JUEFERSON SILVA, PEDRO MOTTA DE MENDONÇA e ROBERTO UCHÔA PASSOS.
+Assim, ausente pressuposto de constituição e de desenvolvimento válido e regular do processo, deve ser extinto o processo sem resolução de mérito, nos moldes do art. 485, IV e § 3º, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. ÓBITO DA AUTORA NO CURSO DO PROCESSO. HABILITAÇÃO DE HERDEIROS. NEGATIVA DE REGULARIZAÇÃO DO POLO ATIVO DA DEMANDA. FALTA DE PR ESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de manifestação da parte autora e de habilitação dos herdeiros, mesmo após a intimação por edital, inviabiliza a continuidade do feito ante a falta de pressuposto de constituição e de desenvolvimento válido e regular do processo, ensejando, assim, a extinção do processo sem resolução de mérito.
+2. Agravo interno não provido (AgInt nos EDcl no AgInt no AREsp 1.109.455/RJ, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 22/11/2018).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HABILITAÇÃO DE HERDEIROS. NEGATIVA DA VIÚVA EM REGULARIZAR O POLO ATIVO DA DEMANDA. FALTA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete à parte interessada o ônus de regularizar o polo ativo da demanda para fins de habilitação, sob pena de extinção sem julgamento do
+mérito, em decorrência da inviabilidade de seu regular desenvolvimento, nos termos do art. 267, IV do CPC.
+2. No caso dos autos, com a morte do segurado, não houve interesse por parte dos herdeiros em providenciarem a devida habitação. Como consignado no acórdão recorrido, a viúva do autor não se desincumbiu de regularizar o polo ativo da demanda com a necessária habilitação dos sucessores, mesmo sendo intimada pessoalmente para fazê-lo.
+4. Consignou, ainda, a Corte de origem, que o advogado, que representava o segurado nos autos, peticionou informando a recusa e a falta de interesse da viúva em lhe fornecer a documentação necessária para a regularização da habilitação.
+5. Por fim, o argumento apresentado pelo ora Agravante nas razões do Apelo Especial de que a procuração da filha do de cujus, nascida fora do casamento, não foi juntada aos autos por razões de foro íntimo, não é suficiente para desconstituir o acórdão recorrido.
+6. Agravo Regimental desprovido.
+(AgRg no AREsp n. 179.848/SP, relator Ministro Napoleão Nunes Maia Filho,
+Primeira Turma, julgado em 23/2/2016, DJe de 3/3/2016.)
+Ante o exposto, nos termos dos arts. 313, § 2º, II e 485, IV, do CPC/2015, JULGO EXTINTO o processo sem resolução de mérito em relação aos autores JUEFERSON SILVA, PEDRO MOTTA DE MENDONÇA e ROBERTO UCHÔA PASSOS. Condeno esses autores em honorários advocatícios, os quais fixo em R$ 1.000,00, pro rata, observada a eventual concessão de gratuidade de justiça.
+Intimem-se. Publique-se.
+Após, retornem os autos conclusos para o julgamento do agravo interno.
