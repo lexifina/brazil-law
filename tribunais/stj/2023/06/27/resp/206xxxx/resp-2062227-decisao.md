@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por Sandra Mara Garcia Bueira, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Esta é a ementa do julgado (e-STJ fl. 1 76):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. SERVIDOR DO PODER JUDICIÁRIO. TÍTULO EXECUTIVO ORIUNDO DE AÇÃO AJUIZADA PELO SINDICATO DOS SERVIDORES DA JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL. CONVERSÃO DO CRUZEIRO REAL EM URV. PAGAMENTO ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA POSTULANDO SALDO REMANESCENTE DOS JUROS NÃO PAGOS EM RAZÃO DO PARCELAMENTO DAS DIFERENÇAS RELATIVAS À CONVERSÃO DO CRUZEIRO REAL EM URV. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA OPERADA. INÉRCIA DO CREDOR. CASO EM QUE O EFEITO INTERRUPTIVO DA PRESCRIÇÃO, EM RAZÃO DE PROTESTO JUDICIAL, NÃO BENEFICIA A PARTE EXEQUENTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 202/206).
+Em sede de recurso especial, defende a negativa de vigência aos artigos 1.022, II, e 489, § 1º, IV, do CPC/2015. Afirma que o acórdão recorrido afrontou os artigos 202, I e II, do Código Civil; e 726, § 2º, do CPC/2015, nestes termos (e-STJ fl. 229):
+ ..  da leitura conjugada dos artigos 202, inc. I e II do Código Civil e do art. 726, § 2º do CPC, o protesto tem por escopo a mera declaração formal de que promoverá a medida oportunamente, dando ciência inequívoca da intenção de exercer a pretensão, bem como prevenir a fluência do prazo extintivo.
+Veja-se que o requisito para que o protesto gere seus efeitos encontra-se elencado nos próprios incisos do art. 202, quando há expressa remissão no inciso II que, o protesto interromperá a prescrição se efetivado "nas condições do inciso antecedente", quais sejam (inciso I):
+(a) tenha sido proferido despacho de juiz (ainda que incompetente);
+(b) que dê inequívoca ciência ao demandado (através de citação);
+(c) através da forma prevista na lei processual (art. 726, § 2- do CPC);
+(d) desde que ajuizado dentro do prazo prescricional.
+Contrarrazões (e-STJ fls. 278/286).
+Juízo positivo de admissibilidade (e-STJ fls.).
+É o relatório. Passo a decidir.
+O Superior Tribunal de Justiça, sob o Tema nº 1033, decidirá a respeito da "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+A admissão dessa controvérsia impõe que os recursos interpostos nos Tribunais de origem que tratem da mesma questão fiquem suspensos até o pronunciamento definitivo deste Tribunal, para que, após, possa a Corte a quo, caso haja necessidade, proceder ao juízo de retratação previsto na legislação processual.
+Sobre a matéria:
+ ..  devem ser acolhidos os embargos de declaração para tornar sem efeitos as decisões e votos proferidos nesta Corte; considerar prejudicados os recursos interpostos nesta Corte, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia ou repetitivo: a) denegue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo (EDcl no AgInt no AREsp n. 1.916.861/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/5/2022, DJe de 4/5/2022.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual (Lei n. 11.672/2008), isto é, a criação de mecanismo que possibilite às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e 1.040 e seguintes do CPC/2015" (EDcl no AgInt no REsp n. 1.949.793/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Assim, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso paradigma, o recurso especial nos autos: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação de Tribunal superior; (ou) 2) seja novamente examinado pela Corte a quo, na hipótese de o acórdão recorrido divergir da orientação de Tribunal superior.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA 1033. MATÉRIA REPETITIVA. SOBRESTAMENTO NA ORIGEM. MECANISMO PARA POSSIBILITAR ÀS INSTÂNCIAS DE ORIGEM O JUÍZO DE RETRATAÇÃO NA FORMA DO ART. 543-C, § 7º, E 543-B, § 3º, DO CPC/1973 E 1.040 E SEGUINTES DO CPC/2015. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
