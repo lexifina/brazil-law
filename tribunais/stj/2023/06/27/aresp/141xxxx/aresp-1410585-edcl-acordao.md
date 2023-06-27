@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/06/2023 a 27/06/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CONCEIÇÃO MACHADO PERES contra acórdão que desproveu o agravo interno, mantendo a decisão que negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 1.171):
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. DESPROVIMENTO DO AGRAVO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+3. Agravo interno a que se nega provimento.
+A parte embargante aduz, em preliminar, que o STJ teria acolhido a tese de mérito suscitada pela parte ora recorrente em caso análogo (REsp n. 1.820.307/RS). Aponta para o dever de se uniformizar a jurisprudência dos tribunais, consoante o disposto no art. 926 do Código de Processo Civil.
+Suscita a existência de vício de fundamentação no acórdão questionado, no tocante à aplicação do Tema n. 339/STF, na medida em que:
+ ..  no caso em questão a Colenda Corte contrariou, direta e literalmente, o dispositivo constitucional acima citado. Isso porque, inequivocamente, deixou de enfrentar os argumentos suscitados pela parte, hábeis para promover a modificação do julgamento proferido.
+A recorrente também indica discordância quanto à incidência do Tema n. 181/STF, pois a pretensão trazida no recurso extraordinário não teve por objetivo rediscutir os pressupostos de admissibilidade do recurso.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+As contrarrazões foram apresentadas às fls. 1.211-1.214.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. Embargos de declaração rejeitados.
+VOTO
+O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+Quanto à preliminar suscitada, a suposta existência de julgado proferido pelo STJ no mesmo sentido da tese de mérito defendida pela parte recorrente não traz qualquer mácula ao presente feito.
+Saliente-se que o acórdão combatido pelo recurso extraordinário nem sequer adentrou ao exame da matéria de fundo trazida no recurso, diante da ausência dos pressupostos de admissibilidade do recurso especial.
+No mais, não estão presentes nenhuma das situações que autorizam a oposição dos embargos declaratórios, uma vez que o julgado que manteve a negativa de seguimento ao recurso extraordinário encontra-se assentado em fundamentação íntegra e coerente, tendo havido a devida justificativa a respeito da aplicação dos Temas n. 181 e 339 do STF.
+Confira-se, no ponto, a seguinte transcrição do acórdão embargado (fls. 1.175-1.178):
+No caso, constata-se que foram declinadas as razões pelas quais foi negado provimento ao agravo interno, valendo destacar o seguinte excerto (fls. 960-962):
+Não obstante os argumentos tecidos, tem-se que o recurso não merece prosperar.
+De início, cumpre destacar, acerca da apontada violação do art. 5º, XXXVI, da CF, que "o exame de dispositivos constitucionais, mesmo que de maneira reflexa, não é admissível em Recurso Especial, pois a competência é exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional" (REsp n. 1.722.551/RO, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 29/5/2019).
+No que se refere à apontada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre observar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, ou mesmo obscuridade. Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ ..
+Extrai-se do acórdão recorrido (e-STJ, fls. 500/523):
+ ..
+Com efeito, verifica-se na espécie que depois de a parte agravante ter sido intimada da expedição do precatório tão somente em relação aos honorários advocatícios na data de 30/10/2001 (fl. 130), na medida em que se apurou a inexistência de valores do crédito principal, peticionou junto aos autos, em 07/07/2010 (fl. 141), postulando o pagamento de R$ 4.685,22. Intimada, a parte executada não concordou com os valores postulados, na medida em que argumentou ter ocorrido o pagamento da integralidade da pensão da parte exequente (fl. 144).
+Por sua vez, intimada a parte exequente, com base em demonstrativos, postulou o pagamento do valor pendente de R$ 22.948,88, concernentes às parcelas inadimplidas da data do trânsito em julgado até a efetiva implantação da integralidade da pensão (fls. 165/166).
+Da decisão que desacolheu a impugnação da autarquia estatal, não aceitando o pedido de reconhecimento de preclusão, foi interposto Agravo de Instrumento autuado sob o nº 700611332403, de minha autoria, o qual foi provido, reconhecendo a preclusão.
+Dito isso, a parte exequente alega que não ocorreu à preclusão na espécie, pois o crédito - objeto do presente agravo - corresponde ao período referente a dezembro/1993 até junho/2000, ou seja, anterior ao trânsito em julgado, não sendo, portanto, abrangido na decisão que reconheceu preclusão no período após o trânsito em julgado no Agravo de Instrumento de nº 700611332403.
+Sustenta, ainda, que por ter ocorrido erro material nos cálculos, na medida em que não foram computadas/inclusas as vantagens legais, quando da confecção do crédito principal, não incide alegada preclusão, ressaltando que o erro material pode ser corrigido a qualquer tempo.
+Na hipótese dos autos, não se trata de erro material, pois a parte exequente apresentou inicial executiva com a memória do cálculo anexada (fls. 123/124) em 11/05/2001. Intimada da disposição do precatório para devido encaminhamento, a parte exequente retirou o requisitório em 30/10/2001 (fl. 130), sem nenhuma impugnação quanto ao valor.
+Neste contexto, não pode a parte exequente, depois de manusear os autos sem qualquer tipo de manifestação a respeito dos valores, postular a inclusão das vantagens legais que não abarcaram a memória de cálculo.
+Assim, denota-se que a parte exequente deixou transcorrer o prazo legal para se manifestar de eventual erro de cálculo, vindo tão somente a insurgir-se após o pagamento do precatório, aproximadamente 9 (nove) anos após a confecção dos cálculos e retirada do requisitório, restando, portanto, preclusa a irresignação. Registra-se, ainda, que este foi o entendimento do Agravo de Instrumento 700611332403, o qual reconheceu a preclusão em relação às verbas antes do trânsito em julgado, bem como das parcelas posteriores, na medida em que consta na fundamentação que a parte exequente tinha ciência desde a expedição do precatório, ou seja, 09/10/2001.
+ ..
+Entendo, portanto, que este pedido também está fulminado pela preclusão, devendo ser reformada a decisão agravada. (Grifos acrescidos).
+Conforme dito na decisão agravada, não há que falar em negativa de prestação jurisdicional. Ademais, tem-se que o Tribunal de origem - ao concluir que, "na hipótese dos autos, não se trata de erro material, pois a parte exequente apresentou inicial executiva com a memória do cálculo anexada (fls. 123/124) em 11/05/2001", bem como que "se denota que a parte exequente deixou transcorrer o prazo legal para se manifestar de eventual erro de cálculo, vindo tão somente a insurgir-se após o pagamento do precatório, aproximadamente 9 (nove) anos após a confecção dos cálculos e retirada do requisitório, restando, portanto, preclusa a irresignação" (e-STJ fl. 523) - decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fáticoprobatório constante dos autos, de modo que a revisão se mostra inviável no âmbito do recurso especial, ante o óbice estampado na Súmula n. 7 do STJ.
+ ..
+No caso, verifica-se que o acórdão objeto do recurso extraordinário manteve a decisão monocrática que não conheceu do recurso especial em razão do óbice da Súmula n. 7/STJ.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto, desde logo, à parte embargante que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
