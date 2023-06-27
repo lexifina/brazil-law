@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO ROMILDO DA LUZ FEITOSA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 150):
+ACIDENTE DO TRABALHO Revisional Auxílio-acidente Hipótese em que a renda mensal inicial foi definida em outro processo Coisa julgada Extinção mantida Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 168/170).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, visto que o acórdão não se manifestou sobre a aplicação do CNIS no cálculo para apuração do salário de benefício e sobre a relação jurídica de trato sucessivo.
+No mérito, alegou afronta ao art. 505, I, do CPC/2015, argumentando, em síntese, não haver coisa julgada pelas seguintes razões (e-STJ fl. 160):
+Não há coisa julgada, pois a decisão fixou um salário-de-benefício de benefício com um valor fixo de R$ 900,60 que foi de um benefício cancelado em 03/04/2014, mas fixando como data de inicio em 26/09/2016, por isso o valor do benefício é dessa data, não havendo que falar em coisa julgada, já que nessa data o benefício é de R$ 1.112,74.  ..
+O que se discute é o cálculo do benefício com base no CNIS, para a data fixada, causa essa que em nenhum momento foi atingida por coisa julgada, já que não foi objeto de apreciação, pois o que se quer é aplicação das contribuições até a data do início do benefício. Por isso a decisão viola o direito do Segurado caso seja mantida, com um valor de benefício menor do que foi determinado e no cumprimento de sentença o juízo negou o benefício para a data que tinha fixado.
+Afirmou, também, que o julgado afrontou o art. 29, I e II, e 29-B, caput, da Lei n. 8.213/1991, ao não reconhecer que ele faz jus à revisão do benefício para inclusão das contribuições, com a utilização das informações do Cadastro Nacional de Informações Sociais para apurar o melhor benefício ao segurado.
+Sem contrarrazões (e-STJ fl.188).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 1.022 e seus incisos do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu a controvérsia, concluindo que a pretensão de revisar o benefício estaria albergada pela coisa julgada, como se extrai do seguinte excerto (e-STJ fl. 151):
+Trata-se de ação revisional de auxílio-acidente fundada na alegação de que a renda mensal inicial do benefício foi calculada erroneamente, sem a inclusão de todos os salários-de-contribuição constantes do CNIS.
+Contudo, a pretensão do autor não comporta acolhimento.
+Com efeito, como declinado na própria inicial, o auxílio-acidente foi concedido em ação acidentária, na qual veio a ser definida a renda mensal inicial. O que restou ali apurado, envolvendo os critérios e índice sutilizados, está sob o manto da coisa julgada, não sendo dado ao segurado valer-se da via revisional para alterar o que ficou judicialmente estabelecido.
+Ressalte-se, ainda, que a discordância do autor acerca do salário de benefício já foi rechaçada no cumprimento de sentença nº 0023742-31.2019.8.26.0053, conforme se verifica da sentença trazida por cópia às fls. 81/82, transitada em julgado em 09/10/2020 (fls. 83).
+Assim, é de ser mantida a r. sentença extintiva.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
