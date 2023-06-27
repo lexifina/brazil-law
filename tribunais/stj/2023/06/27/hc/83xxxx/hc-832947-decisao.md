@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Gleiso Silva da Hora (ou Gleisso Silva da Hora) e Willames Aguiar Silva, no qual se aponta como autoridade coatora a Quarta Câmara do Tribunal de Justiça de Pernambuco, que, apesar do pedido expresso das defesas para apelarem em liberdade os pacientes  ..  não analisou a necessidade de manutenção do decreto constritivo cautelar dos pacientes (fl. 4 - grifo nosso).
+Afirma-se que tal agir judicante, salvo melhor juízo do MINISTRO já definido para o caso penal, nos parece cingir-se de manifesta negativa de prestação jurisdicional de ares teratológicos - 4 anos sem analisar o pedido liminar de urgência, ex vi arts. 93, IX, 5º, LIV, 316, p.u; os primeiros do texto magno e o último do CPP (fl. 5).
+Aduz-se a ilegalidade da manutenção da constrição cautelar dos pacientes, uma vez que ausente de fundamentação a negativa do direito de apelar em liberdade.
+Sustenta-se que tal "NÃO agir" de ofício alvo da omissão da 4ª CCRIM do TJPE (colegiado coator) é o que preconiza a tipicidade processual do art. 316, parágrafo único, do CPP, cabendo ao colegiado local em locus de trâmite do processo físico de origem n. 8531-17.2017.8.17.0001 (ao sabor do efeito devolutivo), a análise da odiosa constrição, o que no caso concreto restou preterido, apesar da mantença sob fundamentação de caráter abstrato e genérico (fls. 6/7 - grifo nosso).
+Requer-se, inclusive liminarmente, a revogação da prisão preventiva dos pacientes, ainda que de ofício, caso se entenda pelo não conhecimento do writ, ou, subsidiariamente, seja a ordem concedida para determinar que o Tribunal a quo se manifeste a respeito da necessidade de manutenção da constrição cautelar.
+É o relatório.
+O pleito não comporta prosseguimento.
+Com efeito, da confusa petição inicial, infere-se que os impetrantes requerem a concessão da ordem para que seja: a) revogada a constrição cautelar dos pacientes, mantida pela sentença condenatória; ou b) determinado ao Tribunal a quo que se manifeste a respeito do direito dos pacientes de apelar em liberdade.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução aos impetrantes, em especial, quando se tratar de advogado.
+Na hipótese, contudo, os impetrantes não se desincumbiram do ônus de instruir o feito com a prova pré-constituída de que o pleito - direito de apelar em liberdade - foi submetido à análise da Corte estadual, a fim de comprovar a arguida omissão. Cumpre observar que o recurso de apelação foi retirado da pauta de julgamento a pedido da própria defesa.
+De outro lado, porque não debatida pelo Tribunal a quo a legalidade da constrição antecipada dos pacientes, esta Corte encontra-se impedida de fazê-lo, sob pena de indevida supressão de instância. Também não visualizei das decisões de primeiro grau manifesta ilegalidade na determinação da prisão preventiva, destacada a gravidade concreta dos delitos praticados por organização criminosa (fl. 51).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO QUALIFICADO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DAS ALEGAÇÕES. ÔNUS DO IMPETRANTE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
