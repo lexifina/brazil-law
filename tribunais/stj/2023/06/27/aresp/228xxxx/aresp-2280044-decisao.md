@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15) interposto por LUZIMAR CARVALHO DOS SANTOS, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 81, e-STJ):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. PENHORA ON LINE. SISBAJUD. CONTA CORRENTE. CABIMENTO DA CONSTRIÇÃO.
+- Estabelece o art. 835, § 1º, do CPC que é prioritária a penhora em dinheiro, desde que as quantias tornadas indisponíveis não correspondam a alguma das hipóteses de impenhorabilidade elencadas no art. 833 do CPC, dentre os quais, proventos de aposentadorias, vencimentos, subsídios, soldos, salários, remunerações.
+- Cabe ao executado (art. 854, § 3º, do CPC) comprovar que as quantias bloqueadas são impenhoráveis.
+- Não se pode reconhecer a impenhorabilidade de ativos financeiros somente por se tratar de montante inferior a 40 salários mínimos. A impenhorabilidade deve ser analisada de acordo com as circunstâncias do caso concreto.
+- Não há o convencimento de que a importância constrita tenha recaído exclusivamente sobre os proventos da sua aposentadoria, haja vista que das movimentações realizadas no período de 30/12/2021 a 12/01/2022 não consta nenhum depósito relacionado à aposentadoria que recebe e nem há comprovação de depósito de empréstimo.
+- A agravante limitou-se a requerer o desbloqueio do valor encontrado em seu nome através do sistema SISBAJUD, apresentando um único extrato que não demonstra a origem do saldo, em 30/12/2021, de R$ 4.154,36 (quatro mil, cento e cinquenta e quatro reais e trinta e seis centavos), superior aos proventos mensais de aposentadoria que recebe.
+- A agravante não logrou comprovar, através de movimentações bancárias, que o respectivo valor constrito se refere a verbas de caráter alimentar ou que se enquadram em qualquer uma das modalidades de impenhorabilidade do art. 833 do CPC, de forma a ensejar o desbloqueio pretendido.
+- Deve ser mantido o bloqueio efetivado pelo sistema SISBAJUD do numerário localizado na conta corrente da agravante.
+- Agravo interno prejudicado e Agravo de instrumento não provido.
+Nas razões do recurso especial (fls. 90-108, e-STJ), a insurgente alega que o acórdão recorrido violou os artigos 8º, 805 e 833, IV e X, do CPC, aduzindo a impenhorabilidade de valores abaixo de 40 salários mínimos, por se estar diante de verba de natureza alimentar que se presta à preservação do sustento da parte agravante e de sua família.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 130-131, e-STJ), dando ensejo a interposição do presente agravo (fls. 143-162, e- STJ).
+Foi apresentada contraminuta (fls. 177-184, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. A recorrente aduz ofensa aos artigos 8º, 805 e 833, IV e X, do CPC, sustentando a impenhorabilidade de valores abaixo de 40 salários mínimos, por se estar diante de verba de natureza alimentar que se presta à preservação do seu sustento e de sua família.
+A esse respeito, o Tribunal de origem concluiu que (fls. 78-79, e-STJ, grifou-se):
+Na verdade, não se pode reconhecer a impenhorabilidade de ativos financeiros somente por se tratar de montante inferior a 40 salários mínimos. A impenhorabilidade deve ser analisada de acordo com as circunstâncias do caso concreto.
+Na hipótese, constata-se que foi bloqueado o montante de R$ 2.197,15 (dois mil, cento e noventa e sete reais e quinze centavos) no Banco Bradesco, pertencente à executada, ora agravante.
+A agravante alega que o valor total bloqueado deve ser considerado como impenhorável, vez que não ultrapassa o limite de 40 (quarenta) salários mínimos. Ademais, os valores bloqueados são provenientes de proventos de aposentadoria e do recebimento de empréstimo bancário, destinado ao custeio de tratamentos de saúde, consistindo, portanto, em seu próprio sustento.
+Apesar do alegado pela agravante, não há o convencimento de que a importância constrita tenha recaído exclusivamente sobre os proventos da sua aposentadoria, haja vista que, das movimentações realizadas no período de 30/12/2021 a 12/01/2022, não consta nenhum depósito relacionado à aposentadoria que recebe e nem há comprovação de depósito de empréstimo.
+Com efeito, a agravante limitou-se a requerer o desbloqueio do valor encontrado em seu nome através do sistema SISBAJUD, apresentando um único extrato que não demonstra a origem do saldo, em 30/12/2021, de R$ 4.154,36 (quatro mil, cento e cinquenta e quatro reais e trinta e seis centavos), superior aos proventos mensais de aposentadoria que recebe (evento 218, ANEXO2 e evento 218, ANEXO3 dos autos principais).
+Verifica-se que a agravante não logrou comprovar, através de movimentações bancárias, que o respectivo valor constrito se refere a verbas de caráter alimentar ou que se enquadram em qualquer uma das modalidades de impenhorabilidade do art. 833 do CPC, de forma a ensejar o desbloqueio pretendido.
+Sendo assim, deve ser mantido o bloqueio efetivado pelo sistema SISBAJUD do numerário localizado na conta corrente da agravante.
+No ponto, constata-se que a Corte Especial deste Sodalício, analisou a divergência que residia, pois, na hipótese de pagamento de dívida de natureza não alimentar e consistente em definir se a impenhorabilidade está condicionada apenas à garantia do mínimo necessário para a subsistência digna do devedor e de sua família ou se, além disso, há que ser observado o limite mínimo de 50 salários mínimos recebidos pelo devedor.
+Desta feita, restou assentada a "tese no sentido da possibilidade de relativização da impenhorabilidade das verbas de natureza salarial para pagamento de dívidas de natureza não alimentar, independentemente do montante recebido pelo devedor, desde que preservado montante que assegure sua subsistência digna e de sua família." (EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+Eis a ementa do julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)  grifou-se
+No mesmo julgado, ficou ressaltado que, no caso, "porém, que não se chegou a analisar o impacto que a pretendida penhora de 30% da verba salarial do devedor teria no caso concreto, devem os autos retornar à origem para que o pleito seja analisado com base no entendimento aqui fixado.".
+Nesse contexto, verifica-se ser possível a penhora de verbas de natureza salarial, para pagamento de dívidas de natureza não alimentar, desde que preservado montante que assegure sua subsistência digna e de sua família, quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução.
+Assim, devem os autos retornar ao Tribunal de origem para verificação do impacto da pretendida penhora, no caso concreto, com base no entendimento firmado pela Corte Especial deste Tribunal Superior.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, conheço do agravo para, de plano, dar parcial provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
