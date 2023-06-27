@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de MAXIMILIANO RODRIGUES MOREIRA e CARLOS EDUARDO RODRIGUES MOREIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Narra a defesa que os pacientes encontram-se presos preventivamente, desde 19/05/2022, pela suposta prática do crime previsto no art. 157, §3º, inc. II, do Código Penal - fl. 03.
+Os pacientes foram condenados, em 13/10/2022, respectivamente, pela suposta prática do crime previsto no art. 157, § 3º, II do Código Penal c/c art. Iº, II, "c" da Lei nº 8.072/90, às penas de 35 anos de reclusão em regime fechado e à pena de 30 anos de reclusão em regime fechado, sendo negado a els o direito de recorrerem em liberdade- fls. 6-51.
+Daí o presente mandamus, no qual sustenta a defesa a ocorrência no excesso de prazo para julgamento do recurso de apelação, alegando que os autos foram remetidos "à instância superior em 16/11/2022" - fl. 4.
+Requer a revogação das prisões preventivas dos pacientes.
+A liminar foi indeferida às fls. 69-70.
+As informações foram prestadas às fls. 73-77.
+Pedido de reconsideração indeferido às fls. 90-91.
+O Ministério Público Federal, às fls. 79-82, manifestou-se, em parecer assim ementado:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TRÂMITE DENTRO DOS LIMITES DA RAZOABILIDADE. QUANTIDADE DAS PENAS IMPOSTAS. RELAXAMENTO DAS PRISÕES PREVENTIVAS OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+1. Observa-se que a tese defensiva de excesso de prazo para o julgamento do recurso de apelação não foi apreciada pela instância antecedente, portanto, não deve ser conhecida, sob pena de indevida supressão de instância;
+2. Na hipótese destes autos, das informações prestadas, extrai- se que o feito teve baixa definitiva em primeiro grau de jurisdição em 29/07/2022, e a distribuição do feito e a intimação dos advogados para a apresentação das razões recursais ocorreu em 08/03/2023 e 09/03/2023, respectivamente;
+3. Não se vislumbra flagrante constrangimento ilegal dos Pacientes, pois o desenrolar do feito encontra-se ainda dentro dos limites da razoabilidade, devendo ser levado em conta, de modo igual, o quantum das penas privativas de liberdade impostas aos Pacientes, de 30 e 35 anos de reclusão, a fim de afastar eventual excesso de prazo;
+4. Parecer pelo NÃO CONHECIMENTO do Writ, e se conhecido, pela DENEGAÇÃO DA ORDEM".
+É o relatório.
+Decido.
+Quanto à alegação de excesso de prazo no julgamento de recurso de apelação, os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo. É preciso registrar que a jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada no caso concreto.
+Nesse sentido: "De acordo com consolidados precedentes desta Corte, eventual excesso de prazo no julgamento da apelação deve ser medido de acordo com a quantidade de pena imposta na sentença condenatória"(AgRg no HC n. 687.840/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/12/2022.) e os seguintes precedentes: (HC n. 448.058/SP, Sexta Turma , Rel. Min. Rogerio Schietti Cruz, DJe de 08/03/2019), (HC n. 465.753/PR, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 08/03/2019), (AgRg no HC n. 561.374/SP, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 24/8/2020.)
+Extrai-se das informações prestadas pelo eg. Tribunal de origem quanto ao trâmite do recurso de apelação que a distribuição do feito e a intimação dos advogados para a apresentação das razões recursais ocorreu em 08/03/2023 e 09/03/2023, respectivamente- fls. 74-75.
+Ressalte-se que os pacientes MAXIMILIANO RODRIGUES MOREIRA e CARLOS EDUARDO RODRIGUES MOREIRA foram condenados, em 13/10/2022, respectivamente, pela suposta prática do crime previsto no art. 157, § 3º, II do Código Penal c/c art. Iº, II, "c" da Lei nº 8.072/90, às penas de 35 anos de reclusão em regime fechado e à pena de 30 anos de reclusão em regime fechado, o que não me afigura desproporcional o tempo para julgamento do recurso de apelação, em se tartando da elevada pena imposta na sentença.. Ademais, em consulta ao sítio do Tribunal de origem (www.tjmg.jus.br), consta da movimentação em 14/06/2023 - "inclusão em pauta".
+A propósito:
+"A jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento da apelação" (AgRg no HC n. 800.181/MS, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023).
+Ante o exposto, denego a ordem. Expeça-se, contudo, recomendação ao eg. Tribunal de origem para que imprima a maior celeridade possível no julgamento do recurso de apelação criminal.
+P. I.
