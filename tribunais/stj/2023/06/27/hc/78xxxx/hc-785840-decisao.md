@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Darlen Kessia Rodrigues Ferreira, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução Penal n. 0001577-93.2022.8.26.0502, deu provimento ao recurso ministerial para cassar a decisão do Juízo de Execução Criminal da comarca de São Paulo/SP - DEECRIM 1ª RAJ, de deferimento do pleito de livramento condicional (PEC n. 0010972-13.2017.8.26.0041 - fls. 100/101) e determinar a realização do exame criminológico.
+O acórdão transitou em julgado em 22/6/2022.
+Daí a presente impetração, em que se sustenta que a paciente preenche os requisitos necessários para a concessão do livramento condicional, sem que haja necessidade de realizar o exame criminológico.
+Alega-se que a falta cometida pela paciente foi de natureza média e nem sequer levou à sustação do regime semiaberto (fl. 8).
+Defende-se que houve o cumprimento dos requisitos previstos no art. 83 do Código Penal.
+Aduz-se que a autoridade coatora fundamentou a decisão vergastada na gravidade abstrata do delito e na prática de falta média.
+Requer-se, liminarmente, a suspensão do ato impugnado e a permanência da paciente no livramento condicional até julgamento final do writ. No mérito, pede-se a cassação do acórdão hostilizado para restabelecer o benefício.
+É o relatório.
+Consoante relatado, buscam os impetrantes o restabelecimento do livramento condicional concedido à paciente, em primeiro grau.
+O acórdão vergastado contraria a jurisprudência consolidada deste Superior Tribunal. Com efeito, o Tribunal a quo cassou a decisão proferida pelo Juízo da Vara de Execuções Criminais que havia deferido o benefício do livramento condicional à paciente, determinando o seu retorno ao regime prisional em que se encontrava, até a realização do exame criminológico, pelos seguintes fundamentos (fl. 648 - grifo nosso):
+Com efeito, no presente caso a agravada cumpre pena de 11 anos, 2 meses e 19 dias de reclusão, com término previsto para 23/5/2027, pela prática de dois roubos majorados, contando com conturbado histórico de execução penal, em razão da prática de falta média, consistente em violação do perímetro urbano estipulado para o monitoramento eletrônico (fls. 70/72), denotando se tratar de pessoa de alta periculosidade, com personalidade desvirtuada, de difícil recuperação, inclinada à criminalidade e que ainda não demonstrou estar engajada no processo de reeducação penal. Contudo, apesar disso, a d. Magistrada deferiu o livramento condicional, sem a prévia realização do exame criminológico.
+Ora, fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento, para a progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal (AgRg no HC n. 590.666/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/8/2020). Na hipótese, a paciente registra apenas o cometimento de uma falta média, fato insuficiente para macular sua conduta carcerária, como reconheceu o Magistrado de primeiro grau, bem como para extrair a conclusão de que se trata de pessoa de alta periculosidade, com personalidade desvirtuada, de difícil recuperação, inclinada à criminalidade, tal qual o fez o Tribunal de Justiça paulista.
+Dito de outra forma, a longevidade da pena, bem como a gravidade abstrata dos delitos praticados, por si sós não servem como fundamentos para impedir a progressão de regime prisional, devendo ser levados em consideração, para esse fim, os fatos ocorridos no curso da execução penal (HC n. 385.529/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/9/2017).
+Nesse sentido, dentre outros: AgRg no HC n. 536.956/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/10/2019; e o AgRg no HC n. 544.604/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2020.
+Em razão disso, concedo a ordem para restabelecer a decisão proferida pelo Juízo de Execução Criminal da comarca de São Paulo/SP - DEECRIM 1ª RAJ (Autos n. PEC n. 0010972-13.2017.8.26.0041).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES.
+Ordem concedida nos termos do dispositivo.
