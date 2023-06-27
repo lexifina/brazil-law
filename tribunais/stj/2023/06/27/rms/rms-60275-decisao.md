@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por OLDON MARTINS CARRIJO com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Goiás, assim ementado (fl. 519e):
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. DECADÊNCIA RECONHECIDA. QUESTIONAMENTO SOBRE EFEITOSCONCRETOS DO DECRETO JUDICIÁRIO Nº 791/2014. ATO COATORCOMISSIVO.
+Se o objeto do mandamus consiste nos efeitos concretos do Decreto Judiciário nº 791/2014, o termo de decadência inicia-se no primeiro dia davigência da mencionada norma, sendo descabido o acolhimento da tese nosentido de que trata-se de ato omissivo.
+Agravo interno conhecido e desprovido. Decisão mantida.
+Nas razões recursais, alega-se, em síntese que, no caso, trata-se de ato omissivo continuado, não importando se o ato atacado foi proferido há mais de 120 dias, sendo relevante saber apenas se foi violado o direito líquido e certo à titularidade exclusiva da serventia extrajudicial de Tabelionato de Notas da comarca de Mineiros/GO.
+Defende o reconhecimento da nulidade do Decreto Judiciário n. 791/2014, o qual outorgou a delegação da serventia extrajudicial de Registro de Imóveis e 1º Tabelionato de Notas a candidato aprovado em concurso, atendendo, assim, contra a sua situação funcional, na condição de titular exclusivo do 2º Tabelionato de Notas da Comarca.
+Com contrarrazões (fls. 565/593e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 795/798e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual descabe falar em relação de trato sucessivo em hipóteses como a dos autos em que se ataca ato comissivo de efeitos concretos.
+Neste sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. MANDADO DE SEGURANÇA. PRAZO DE 120 DIAS CONTADO DA CIÊNCIA DO ATO IMPUGNADO. DECADÊNCIA CONFIGURADA.
+I - Na origem, trata-se de mandado de segurança impetrado por juiz de direito, contra decisão do Tribunal de Justiça do Estado de Mato Grosso que ordenou a instauração do Processo Administrativo em desfavor do impetrante com fundamento em Relatório da CPI do Poder Judiciário instalada no Senado Federal.
+II - No recurso ordinário, a parte recorrente sustenta que não transcorreu o prazo de 120 (cento e vinte) dias para a impetração do writ, tendo em vista que o acórdão da sessão de julgamento que instaurou o PAD, ocorrida em 15 de fevereiro de 2001, foi publicado no Diário da Justiça somente em 22 de outubro de 2003.
+III - O Ministério Público opina pelo desprovimento do recurso.
+IV- A jurisprudência desta Corte é firme no sentido de que o art. 23 da Lei n. 12.016/2009 estabelece que o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado. Nesse sentido: AgInt no RMS 43.693/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 17/8/2017, DJe 30/8/2017.
+V - No caso, verifica-se que o recorrente tomou ciência do ato de instauração do PAD na própria sessão de deliberação do Tribunal de Justiça local para autorizar a abertura do procedimento apuratório contra o ora impetrante, realizada em 15/2/2001, sendo esta a data da ciência da hipotética lesão ao seu suposto direito líquido e certo, configurada a decadência, a se considerar que o writ somente teve impetração em 12/2/2004.
+VI - Agravo interno improvido.
+(AgInt no RMS n. 46.763/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2018, DJe de 12/3/2018.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. DIFERENÇA REMUNERATÓRIA ESTABELECIDA POR LEI. ATO DE EFEITOS CONCRETOS. IMPETRAÇÃO APÓS 120 DIAS DO ATO IMPETRADO. DECADÊNCIA. ART. 23 DA LEI 12.016/2009. PRECEDENTES.
+1. A jurisprudência desta Corte é firme no sentido de que "o art. 23 da Lei 12.016/2009 estabelece que "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado"" (RMS 49.413/MT, ReL. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/05/2016, DJe 25/05/2016).
+2. No presente caso, não há relação de trato sucessivo, tendo em vista que a parte recorrente insurge-se contra ato comissivo de efeitos concretos, bem delimitado no tempo, consubstanciado na majoração vencimental conferida pela Complementar Estadual nº 420/2007, que concedeu aos policiais militares do Estado o direito de opção entre os regimes remuneratórios, estabelecendo, inclusive, as tabelas de progressão de aumento dos subsídios. 3. Nesse contexto, reconhecida está a decadência do direito de impetração do mandado de segurança, tendo em vista que a referida Lei Complementar Estadual nº 420 foi publicada em 30/11/2007 e o mandamus em comento foi interposto somente em 05/10/2011.
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 43.693/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/8/2017, DJe de 30/8/2017.)
+De fato, o ato administrativo está consubstanciado no Decreto Judiciário n. 791/2014, publicado em abril de 2014, contudo, a impetração da segurança ocorreu somente em janeiro de 2016, quando já expirado oprazo decadencial previsto no art. 23 da Lei n. 12.016/2009.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NEGO PROVIMENTO a o Recurso Ordinário.
+Publique-se e intimem-se.
