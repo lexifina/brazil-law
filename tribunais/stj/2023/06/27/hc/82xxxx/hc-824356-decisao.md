@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de MARCO AURELIO NOLASCO GONCALVES contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento da apelação n. 5009139-07.2021.8.21.0029.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão e 500 dias-multa, em regime inicial semiaberto, como incurso no art. 33, caput, da Lei nº 11.343/2006 (fls. 181-186).
+No julgamento da apelação, o Tribunal de origem deu provimento parcial ao recurso da defesa, tão somente, para deferir ao apelante a assistência judiciária gratuita, mantendo-se, no mais, a sentença condenatória (fls. 13-21).
+Na hipótese, a impetrante aponta constrangimento ilegal na negativa de reconhecimento da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas .
+Requer, ao final, a concessão da ordem para " ..  o fim de reconhecer a incidência da causa especial de diminuição de pena no crime de tráfico, cassando-se, no ponto, a decisão da autoridade coatora e reduzindo a pena com a aplicação da fração máxima da redutora, com a consequente adequação do regime prisional estabelecido, nos termos do disposto no art. 33, § 2.º, alíneas "b" e "c", do Código Penal, bem como à análise da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, conforme preceitua o art. 44, e seus incisos, do mesmo diploma legal" (fl. 11).
+A liminar foi indeferida às fls. 418-419.
+Informações prestadas às fls. 426-455.
+Parecer do Ministério Público Federal às fls. 457-460.
+É o relatório.
+Decido.
+Segundo relatado, busca-se na presente impetração: i) a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006; ii) a fixação do regime prisional menos gravoso e iii) a substituição da pena corporal por penas restritivas de direitos.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No que concerne a possibilidade de aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, verifico não assistir razão ao paciente.
+In casu, o Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+Para tanto, destacou as instâncias de origem, o modus operandi do crime onde "o denunciado utilizava as redes sociais Instagram e WhatsApp para organizar o comércio e entrega de entorpecentes, inclusive vinculando comprovantes de depósito e acertando valores referentes à compra de drogas" (fl. 17).
+Consignando, ainda, que "os prints extraídos do aparelho celular possuem datas diversas, com variedade de contatos e de transações, elemento que denota, de forma suficiente, não se tratar o réu do pequeno traficante" (fl. 17).
+Assim, diante da indicação de que o réu se dedica à atividade criminosa, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio. A propósito: AgRg no HC n. 764.180/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 24/3/2023; AgRg no HC n. 804.305/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023 e AgRg no HC n. 758.030/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023.
+De mais a mais, é imperioso enfatizar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 737.868/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+Por fim, o pleito de alteração do regime inicial de cumprimento da pena bem como o de substituição da pena privativa de liberdade por restritivas de direitos encontram-se prejudicado, porquanto mantida a sanção final tal como fixada.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
