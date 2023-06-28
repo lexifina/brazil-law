@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADENILSON DE SOUSA COSTA apontando como autoridade coatora o Tribunal de Justiça do Estado de Rondônia (Apelação n. 0013856-38.2016.8.22.050).
+Os autos dão conta de que o ora paciente foi condenado às penas de 8 (oito) anos e 2 (dois) meses de reclusão, além do pagamento de 1.166 (um mil cento e sessenta e seis) dias-multa, pela prática do crime previsto no art. 35, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006; e 10 (dez) anos e 6 (seis) meses de reclusão, além do pagamento de 1.050 (um mil e cinquenta) dias-multa pela prática do crime previsto no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006, totalizando 18 (dezoito) anos e 8 (oito) meses de reclusão, a serem inicialmente cumpridos em regime fechado, e 2.216 (dois mil, duzentos e dezesseis) dias-multa, sendo-lhe negado o direito de recorrer em liberdade (e-STJ fls. 18/119).
+Daí o presente writ, no qual o impetrante assevera, em suma, que a impetração se funda "em três matizes basilares, quais sejam: (i) o excesso de prazo na condução e julgamento final do processo (o que viola o princípio constitucional da razoável duração do processo, esculpido no Art. 5º, Inc. LXXVII, da CF); (ii) a inobservância reiterada neste caso do quanto disposto no Art. 316, parágrafo único, do CPP; e (iii) ausência de fundamentação contemporânea e idônea ao decreto de prisão na sentença, já que quando do proferimento da sentença os fundamentos anteriores à prisão já estavam superados (desatendendo assim tanto o Art. 312 do CPP quanto o Art. 93, Inc. IX, da CF)" - e-STJ fl. 16.
+Por isso, requer, inclusive liminarmente, a revogação da prisão preventiva, ainda que mediante a fixação de medidas cautelares diversas.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional.
+É o relatório.
+Decido.
+Com razão o Ministério Público Federal.
+Com efeito, não houve nenhuma manifestação nas instâncias ordinárias acerca das matérias ventiladas no presente remédio constitucional.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016, p. 2.470).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-s e.
