@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI (PREVI) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, PREVI alegou a violação dos arts. 1.022, I e II, 489, IV, 6º, 10 e 1.026, § 2º, do CPC, 1.055, 1.056, 1.057, 1.058, 1.059, 1.060, 1.061 e 1.062 do CPC/73, ao sustentar, em síntese, que (1) há omissão no acórdão recorrido pois o Tribunal não se manifestou sobre o fato de que caberia aos próprios herdeiros ter diligenciado para apresentação da habilitação, uma vez que a ré foi devidamente citada antes do seu falecimento, e apenas os herdeiros possuíam conhecimento do fato; (2) caberia aos herdeiros, que tinha conhecimento do fato, diligenciar para requerer a habilitação nos autos; e (3) deve ser afastada a multa, pois ausente o caráter protelatório dos embargos declaratórios opostos.
+(1) Da omissão.
+Nas razões do presente recurso, PREVI afirmou a violação dos arts. 1.022, I e II, 489, IV, do CPC, ao sustentar que há omissão no acórdão recorrido pois o Tribunal não se manifestou sobre o fato de que caberia aos próprios herdeiros ter diligenciado para apresentação da habilitação, uma vez que a ré foi devidamente citada antes do seu falecimento, e apenas os herdeiros possuíam conhecimento do fato.
+Contudo, verifica-se que o TJMG se pronunciou sobre a controvérsia a que PREVI reputou não ter sido enfrentada, consignando o seguinte:
+De pronto, entendo necessário chamar a atenção da apelante para o fato de que a nulidade em questão não se trata de vício na citação da parte ré posteriormente falecida, mas sim de ausência de habilitação e citação dos seus sucessores após o óbito.
+Sobre o tema, a legislação processual vigente estabelece, tal como estabelecia o Código de Processo Civil de 1973, vigente à época do falecimento da Sra. Maria Vanilde Figueiredo Chagas, a necessidade de suspensão do processo no caso de morte de qualquer uma das partes, a fim de que haja a devida regularização processual, com a habilitação do espólio ou dos herdeiros e sucessores.
+No caso dos autos, os documentos anexados ao feito demonstram que a genitora dos apelados, então ré na ação de cobrança em apenso autuada sob o nº 0086.15.000415-7, faleceu no dia 17 de maio de 2015, ou seja, 04 dias após a sua citação.
+Todavia, não foi realizada a necessária habilitação dos herdeiros para o exercício do direito de defesa naqueles autos, tendo o processo prosseguido sem a apresentação de defesa, inclusive com a condenação da genitora dos apelados, há muito falecida, ao pagamento de quantia certa.
+E que nem pretenda a apelante imputar aos apelados a obrigação de informar nos autos nº 0004157-90.2015.8.13.0086 o óbito da então ré, eis que a genitora dos apelados não tinha sequer constituído advogado para lhe representar naquele feito, de modo que competia tão somente à Caixa de Previdência dos Funcionários do Banco do Brasil - PREVI informar o falecimento da ré e providenciar a suspensão do feito para a habilitação dos herdeiros para o correto prosseguimento da ação.
+Do acima, tem-se que a ausência de habilitação dos herdeiros da parte ré, falecida logo após a citação, implica na nulidade absoluta de todos os atos praticados após o óbito (e-STJ, fls. 226/227, sem destaque no original).
+Assim, inexiste o vício elencado no art. 1.022, II, do Código de Processo Civil, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE RECONSIDERAÇÃO NA EXCEÇÃO DE SUSPEIÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da
+lide.
+2. Nos termos dos arts. 219 e 1.023 do CPC/2015, são intempestivos os embargos de declaração opostos após o prazo de cinco dias úteis. 3. Consoante disposto no art. 224, § 3º, do CPC/2015, "a contagem do prazo terá início no primeiro dia útil que seguir ao da publicação".
+4. A reiteração de argumentos, nos terceiros embargos de declaração, já repelidos nos acórdãos anteriormente proferidos, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl no RCD na ExSusp 187/SP, Rel. Ministro RAUL ARAÚJO, Corte Especial, julgado em 10/12/2019, DJe 18/12/2019)
+Afasta-se, portanto, a alegada violação.
+(2) Da nulidade por ausência de habilitação.
+PREVI alegou que caberia aos herdeiros, que tinham conhecimento do fato, diligenciar para requerer a habilitação nos autos.
+Observa-se que, nas razões do recurso especial, a PREVI não impugnou o fundamento do acórdão de que a genitora dos apelados não tinha sequer constituído advogado para lhe representar naquele feito, cabendo a PREVI informar o falecimento e providenciar a suspensão do feito para a habilitação dos herdeiros. Assim, forçoso é o reconhecimento do óbice da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+(3) Da multa aplicada nos embargos de declaração.
+Conforme consignado pelo TJMG,
+Diante das considerações acima feitas, nota-se que os presentes embargos são manifestamente protelatórios, na medida em que objetivam o reexame de matéria já decidida, com o consequente retardamento da prestação jurisdicional e, por tais razões, há que se condenar a embargante no pagamento, aos embargados, de multa no importe de 1% (um por cento) sobre o valor da causa, nos termos do (e-STJ, fl. 248).
+Esta Corte Superior orienta que a reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e determina, consoante a sedimentada orientação jurisprudencial desta Corte, a imposição da multa prevista no art. 538, parágrafo ú nico, do Código de Processo Civil (EDcl no AgRg no AREsp 147.183/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 26/9/2013).
+Dessarte, tendo a PREVI se limitado a repisar seus argumentos, com pretensão infringente e não compatível com o recurso integrativo, era, mesmo, o caso de aplicação de multa prevista no dispositivo dito vulnerado, a qual segue incólume.
+Impõe-se, portanto, a integral manutenção do acórdão recorrido quanto à multa imposta nos embargos declaratórios.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. FALECIMENTO DA RÉ LOGO APÓS A CITAÇÃO. PROSSEGUIMENTO DO PROCESSO SEM A HABILITAÇÃO DOS HERDEIROS. NULIDADE DOS ATOS PRATICADOS APÓS O ÓBITO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO CONFIGURADA. AUSÊNCIA DE ADVOGADO CONSTITUÍDO NOS AUTOS. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. ART. 1.026, § 2º, DO CPC. MULTA. MANTIDA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
