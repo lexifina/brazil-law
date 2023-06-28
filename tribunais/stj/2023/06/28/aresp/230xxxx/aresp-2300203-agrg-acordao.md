@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LEONARDO RODRIGUES JOTA agrava da decisão de fls. 389-390, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial, em razão da sua intempestividade.
+Nas razões do regimental, a defesa sustenta a tempestividade do agravo em razão da ocorrência de feriado local. No ponto, afirma que "inexiste regra expressa que proíba a parte recorrente de sanar o vício decorrente da falta de comprovação do feriado local" (fl. 395).
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO E RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE FERIADO, POR MEIO DE DOCUMENTO IDÔNEO, NO MOMENTO DA INTERPOSIÇÃO DA INSURGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o agravo em recurso especial interposto depois do prazo de 15 dias, consoante o art. 1.003, § 5º, do CPC.
+2. Conforme decidido pela Corte Especial deste Superior Tribunal, "Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp n. 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017).
+3. Na hipótese, a defesa deixou de comprovar, no momento da interposição do referido recurso, por documento hábil (ato normativo ou certidão cartorária), a suspensão do expediente.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A decisão agravada deve ser mantida por seus próprios fundamentos, uma vez que é intempestivo o agravo em recurso especial interposto.
+Nos termos dos arts. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do Código de Processo Civil, e do art. 798 do Código de Processo Penal, é de 15 dias o prazo para a interposição do agravo em recurso especial.
+Conforme registrado na decisão agravada, verifica-se que a decisão que inadmitiu o recurso especial foi publicada no dia 21/10/2022, sexta-feira (fl. 368); foi considerado como data inicial para contagem do prazo o dia 24/10/2022, segunda-feira, e encerrado o lapso recursal no dia 7/11/2022, segunda-feira. Contudo, o agravo em recurso especial foi protocolado somente no dia 9/11/2022 (fl. 371), fora, portanto, do prazo legal.
+Urge consignar que " o  recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.  ..  A Corte Especial assentou, em Questão de Ordem no REsp n. 1.813.684/SP, o entendimento de que somente é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados, confirmando o posicionamento antes adotado" (AgInt no AREsp n. 1.631.510/MT, Rel. Ministro Moura Ribeiro, 3ª T., DJe de 15/3/2023).
+Deveras: "sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso" (REsp n. 1.813.684/SP, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 18/11/2019, destaquei). Esse entendimento é também aplicado aos casos de suspensão do expediente forense e dos prazos processuais, por ato do Tribunal a quo.
+Ainda, não cabe a juntada posterior de documentos para a correção do vício. Aplica-se ao caso o entendimento de que: "nos termos do art. 1.003, § 6.º, da Lei n. 13.105/2015 (Novo Código de Processo Civil), o Recorrente deverá comprovar a ocorrência de feriado local e suspensão de expediente forense no ato de interposição do recurso, não sendo cabível fazê-lo posteriormente" (AgRg no REsp n. 1.925.804/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 25/6/2021).
+À vista do exposto, nego provimento ao agravo regimental.
