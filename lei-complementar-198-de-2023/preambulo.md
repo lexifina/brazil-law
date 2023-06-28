@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 91, de 22 de dezembro de 1997, para manter os coeficientes do Fundo de Participação dos Municípios (FPM) de Municípios com redução populacional aferida em censo demográfico, aplicando redutor financeiro sobre eventuais ganhos, na forma e no prazo que especifica; e altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
