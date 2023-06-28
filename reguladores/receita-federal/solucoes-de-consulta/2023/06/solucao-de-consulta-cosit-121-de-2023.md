@@ -1,0 +1,17 @@
+Solução de Consulta Cosit nº 121, de 22 de junho de 2023
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+NÃO CUMULATIVIDADE. SUSPENSÃO TRIBUTÁRIA. INSUMOS AGROPECUÁRIOS. RAÇÕES. APLICABILIDADE. CONDIÇÕES.
+Havia suspensão da incidência da Cofins, na forma do art. 9º da Lei nº 10.925, de 23 de julho de 2004, sobre receitas de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados no código 2309.90 da NCM, desde que estes não fossem utilizados na alimentação de animais classificados na posição 1.03 e 1.05 da NCM.
+Com a introdução da IN RFB nº 1.911, de 11 de outubro de 2019, revogada pela IN RFB nº 2.121, de 15 de dezembro de 2022, a suspensão da Cofins de que trata o art. 9º da Lei nº 10.925, de 2004, não se aplica sobre a receita de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados na posição 23.09 da NCM.
+Há suspensão da incidência da Cofins, na forma do art. 54 da Lei nº 12.350, de 20 de dezembro de 2010, sobre as receitas de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados no código 2309.90 da NCM, desde que estes sejam utilizados na alimentação de animais classificados na posição 1.03 e 1.05 da NCM.
+Dispositivos Legais: Lei nº 12.350, de 2010, arts. 54 e 57; Lei nº 10.925, de 2004, arts. 8º e 9º; Lei nº 12.865, de 2013, art. 30; Instrução Normativa RFB nº 2.121, de 2022, arts. 558, 560 e 569; Instrução Normativa RFB nº 1.911, de 2019, arts. 491, inciso XI, 765, incisos XXI e XXXVIII, e 766; Instrução Normativa SRF nº 660, de 2006, art. 2º, I, a, art. 4º, III, e art. 5º, I, f; Instrução Normativa RFB nº 1.157, de 2011, art. 2º, I e § 1º, art. 4º, I, b.
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. SUSPENSÃO TRIBUTÁRIA. INSUMOS AGROPECUÁRIOS. RAÇÕES. APLICABILIDADE. CONDIÇÕES.
+Havia suspensão da incidência da Contribuição para o PIS/Pasep, na forma do art. 9º da Lei nº 10.925, de 23 de julho de 2004, sobre receitas de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados no código 2309.90 da NCM, desde que estes não fossem utilizados na alimentação de animais classificados na posição 1.03 e 1.05 da NCM.
+Com a introdução da IN RFB nº 1.911, de 11 de outubro de 2019, revogada pela IN RFB nº 2.121, de 15 de dezembro de 2022, a suspensão da Contribuição para o PIS/Pasep de que trata o art. 9º da Lei nº 10.925, de 2004, não se aplica sobre a receita de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados na posição 23.09 da NCM.
+Há suspensão da incidência da Contribuição para o PIS/Pasep, na forma do art. 54 da Lei nº 12.350, de 20 de dezembro de 2010, sobre as receitas de vendas de insumos agropecuários para pessoas jurídicas que fabriquem produtos classificados no código 2309.90 da NCM, desde que estes sejam utilizados na alimentação de animais classificados na posição 1.03 e 1.05 da NCM.
+Dispositivos Legais: Lei nº 12.350, de 2010, arts. 54 e 57; Lei nº 10.925, de 2004, arts. 8º e 9º; Lei nº 12.865, de 2013, art. 30; Instrução Normativa RFB nº 2.121, de 2022, arts. 558, 560 e 569; Instrução Normativa RFB nº 1.911, de 2019, arts. 491, inciso XI, 765, incisos XXI e XXXVIII, e 766; Instrução Normativa SRF nº 660, de 2006, art. 2º, I, a, art. 4º, III, e art. 5º, I, f; Instrução Normativa RFB nº 1.157, de 2011, art. 2º, I e § 1º, art. 4º, I, b.
+SC Cosit nº 121-2023
+[arquivo anexo: SC Cosit nº 121-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
