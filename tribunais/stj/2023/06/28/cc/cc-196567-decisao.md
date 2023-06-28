@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 4ª Vara do Juizado Especial Cível e Criminal de Rio Branco/AC, suscitante, e o Juízo de Direito do Juizado Especial Criminal de Assis Brasil/AC, suscitado.
+Narram os autos a instauração de termo circunstanciado para apurar a conduta do argentino Santiago Nahuel Miguez, o qual, no dia 16/2/2022, negou-se a apresentar seu documento de viagem para fins de controle migratório, quando solicitado por um agente da Polícia Federal, no posto de fronteira de Assis Brasil/AC.
+O Juízo de Direito do Juizado Especial Criminal de Assis Brasil/AC, acolhendo parecer ministerial, declinou da competência com fundamento na Súmula 147/STJ, a qual prevê que "Compete à Justiça Federal processar e julgar os crimes praticados contra funcionário público federal, quando relacionados com o exercício da função".
+Por sua vez, o Juízo Federal da 4ª Vara do Juizado Especial Cível e Criminal de Rio Branco/AC suscitou o presente incidente por entender que a conduta "se amolda à prevista no artigo 68, caput, do Decreto-Lei nº 3.688/1941, em detrimento do crime de desobediência (art. 330 do CP), por ser norma especial" (fl. 39), tratando-se de contravenção penal, de competência da justiça comum.
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer para declarar a competência do juízo suscitado.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal.
+Com razão o juízo suscitante.
+In casu, conforme consignado no parecer da Procuradoria da República no Acre, "em análise ao que consta nos autos, sobretudo quanto às declarações prestadas à Polícia Federal pelo APF Raimundo Augusto Bernardo da Silva, que emitiu a ordem a SANTIAGO NAHUEL MIGUEZ, e as testemunhas do fato, constata-se que a recusa deste em se identificar para controle migratório, no posto de fronteira, amolda-se à infração penal prevista no artigo 68, caput, do Decreto-Lei nº 3.688/1941, que se trata de contravenção, consoante artigo 1º do Decreto-Lei nº 3.941/1941" (fl. 33).
+Assim, ao que se tem dos autos, houve recusa de Santiago Nahuel Miguez em apresentar seu documento de viagem no posto de fronteira, quando solicitado por agente da Polícia Federal, o que caracteriza contravenção penal prevista no art. 68, caput, do Decreto-Lei nº 3.688/1941, cuja competência é da J ustiça estadual, nos termos da Súmula 38/STJ.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito do Juizado Especial Criminal de Assis Brasil/AC, ora suscitado.
+Publique-se.
+Intimem-se.
