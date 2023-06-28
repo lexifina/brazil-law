@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ALLIANCE PARTICIPAÇÕES S/S LTDA. e outros contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 253):
+AGRAVO DE INSTRUMENTO. Cumprimento sentença. Recuperação judicial. Verba honorária. Crédito de natureza extraconcursal. Precedentes. REsp 1.841.960/SP. Decisão mantida. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam a violação dos arts. 47, 49, caput e § 2º, 59, 172, todos da Lei 11.101/2005, sustentando que não é possível a cobrança dos honorários advocatícios vinculado ao crédito sujeito à recuperação judicial.
+Afirmam que os honorários advocatícios fixados na sentença devem ser submetidos ao procedimento falimentar da devedora principal, Mazda.
+Aduzem que a aprovação do plano de recuperação judicial acarreta a novação da obrigação e, portanto, a extinção das obrigações originárias.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da não demonstração de violação dos artigos arrolados e do óbice da Súmula 7 do STJ.
+Neste agravo, os agravantes impugnaram os fundamentos da decisão agravada.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+Da acurada análise do acórdão recorrido, verifico que o Tribunal de origem consignou que (i) se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, caput, da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, e não os posteriores, e (ii) não há relação de acessoriedade entre o crédito buscado na execução e os honorários de sucumbência resultantes desse processo ou de processos relacionados. Confira-se:
+Quanto à verba honorária, nos termos do entendimento firmado pela Segunda Seção do Colendo STJ, no julgamento do REsp nº 1.841.960/SP, j. em 12/02/2020 e publicado no DJe de 13/04/2020 "se a sentença que arbitrou os honorários sucumbenciais se deu posteriormente ao pedido de recuperação judicial, o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, caput da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, e não os posteriores (..)". Ademais, ao contrário do que alega a apelante, "não há relação de acessoriedade entre o crédito buscado na execução e os honorários de sucumbência resultantes desse processo ou de processos relacionados. Isso porque os honorários advocatícios remuneram o advogado por seu trabalho e constituem direito autônomo do patrono, como dispõe a literalidade da lei (.)"  ..  (fls. 256/257)
+Com isso, os fundamentos adotados pelo Tribunal de origem estão em consonância com o entendimento firmado nesta Corte, no sentido de que o direito aos honorários advocatícios nasce com o provimento jurisdicional, razão pela qual, uma vez fixados em sentença proferida após o pedido de recuperação judicial, constituindo crédito extraconcursal, a ela não se submetem, conforme disciplina do art. 49 da Lei 11.101/2005.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA EXECUTADA.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo Tribunal de origem, a questão federal suscitada. Aplicação da Súmula 211/STJ.
+2. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, sob pena de incidência da Súmula 284/STF.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o direito aos honorários advocatícios nasce com o provimento jurisdicional, razão pela qual, uma vez fixados em sentença proferida após o pedido de recuperação judicial, constituindo crédito extraconcursal, a ela não se submetem, conforme disciplina do art. 49 da Lei 11.101/2005" (AgInt no AREsp n. 1.857.913/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.212.019/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA PROLATADA APÓS O PEDIDO DE RECUPERAÇÃO JUDICIAL. NATUREZA EXTRACONCURSAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. Consoante o entendimento do STJ, os honorários advocatícios terão natureza extraconcursal se a sentença que os arbitrou foi prolatada após o pedido de recuperação judicial.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.895.881/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/11/2021, DJe de 18/11/2021.)
+Dessa forma, incidem sobre o tema, o óbice da Súmula 568 do STJ.
+Quanto ao mais, no julgamento dos embargos de declaração, o Tribunal de origem destacou que o art. 59 da Lei 11.101/2005 dispõe que a suspensão da execução, em razão da recuperação judicial, atinja apenas o devedor principal, jamais os garantes. Confira-se:
+De fato, o art. 6º, caput, da Lei nº 1.101/05, diz suspenderem as execuções contra o devedor e o sócio solidário. Devedor é o beneficiário da recuperação judicial e sócio solidário é aquele a quem os atos constitutivos da sociedade atribuem tal qualidade. Não há qualquer semelhança com devedor solidário por força de contrato celebrado com terceiros.
+Decorre daí que a novação prevista no art. 59 do mesmo diploma legal é "sui generis", abrangendo apenas o devedor e o sócio solidário; jamais os garantes. Não é sem razão que o art. 49, § 1º, ainda do mesmo diploma, diz conservarem os credores do devedor em recuperação judicial seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso  ..  (fls. 271/272)
+Da análise das razões do presente recurso, verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula 283 do STF por analogia.
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
