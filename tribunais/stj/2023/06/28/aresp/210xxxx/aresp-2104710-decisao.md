@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão do Tribunal de Justiça daquela Unidade Federativa que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão prolatado na Apelação Criminal n. 414817-84.2016.8.09.0044.
+O Recorrido foi denunciado como incurso, por três vezes, no art. 155, c.c. o art. 71, do Código Penal. Por aplicação do princípio da insignificância, o Juízo de origem absolveu o Acusado, nos termos do art. 386, inciso III, do Código de Processo Penal (fls. 147-151).
+Irresignado, o Ministério Público interpôs recurso de apelação, que foi desprovido pelo Tribunal estadual (fls. 218-227).
+No recurso especial, alega-se violação dos arts. 63, 64, inciso I, e 155, todos do Código Penal, ao argumento de que "é possível a comprovação da reincidência por outros meios que não apenas a certidão de antecedentes" (fl. 237). Assim, demonstrada a recalcitrância delitiva do Acusado, seria inviável a aplicação do princípio da bagatela própria.
+A insurgência foi inadmitida diante do óbice da Súmula n. 7/STJ (fls. 289-290), fundamento contra o qual se opõe o Agravante (fls. 296-306).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial acusatório (fls. 329-330).
+É o relatório. Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+De início, no tocante à ofensa aos arts. 63 e 64, inciso I, ambos do Código Penal, percebe-se que os dispositivos legais em questão não foram objeto de discussão perante a Corte estadual no acórdão recorrido (fls. 218-227). Além disso, não foram opostos embargos de declaração acerca dessa controvérsia.
+Desse modo, constata-se que não houve o prequestionamento da matéria, o que impede o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356/STF.
+Sobre o tema, confira-se:
+"  ..
+6. Em relação à violação ao art. 64, I, do Código Penal, e à alegada impossibilidade de consideração dos efeitos da reincidência para o indeferimento da substituição da pena privativa de liberdade por restritiva de direitos e do sursis, a matéria não foi debatida pelo Tribunal de origem, o que impede a análise da questão por esta Corte, ante a ausência de prequestionamento.
+7. No que concerne à irresignação quanto à fixação do regime inicial semiaberto, a Defesa não se desincumbiu de apontar o dispositivo legal eventualmente violado, o que faz incidir o óbice previsto na Súmula n. 284 do STF. Ainda assim, a despeito da fixação da pena em patamar inferior a 4 anos de reclusão, a existência de circunstância judicial desfavorável, no caso, os maus antecedentes, permite a fixação de modo carcerário mais gravoso, conforme concluído pelo Tribunal de origem.
+8. Agravo regimental desprovido." (AgRg no AREsp 1936124/PB, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022 - sem grifos no original.)
+" ..
+11. A questão acerca do acusado não ser reincidente específico, uma vez que sua condenação anterior teria sido pelo crime de tráfico privilegiado, bem como o patamar de aumento utilizado, não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas 211/STJ e 282/STF.
+12. Para afastar a causa de aumento do art. 40, inciso I, do CP, em razão da ausência de transnacionalidade do delito, seria necessária a análise do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+13. Agravo regimental não provido." (AgRg no REsp 1988106/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022 - sem grifos no original.)
+No mais, quanto à impossibilidade de consideração dos dados constantes da certidão de antecedentes criminais juntados pelo Parquet somente nas razões do recurso de apelação, assim se manifestou o Tribunal de origem:
+"Por primeiro, verifica-se que os antecedentes criminais que registram sentenças com trânsito em julgado foram juntadas quando da interposição do recurso.
+Assim, não há como reconhecer a reincidência do apelado "se as informações de antecedentes criminais foram juntadas aos autos após a sentença condenatória, sob pena de violação aos princípios da ampla defesa e contraditório (artigo 5º, LV, da CF), pois lhe causaria manifesto prejuízo (..)" (TJGO, APELAÇÃOCRIMINAL 107371-79.2012.8.09.0162, Rel. DES. JOÃO WALDECK FÉLIX DE SOUSA, 2ª CÂMARA CRIMINAL, julgado em 06/11/2018, DJe 2633 de 23/11/2018)." (fls. 221-222 - sem grifos no original.)
+Como se verifica, o acórdão recorrido decidiu ser incabível a consideração de dados criminais constantes em documentos juntados após a prolação da sentença condenatória, sob pena de violação dos princípios do contraditório e da ampla defesa.
+As razões do recurso especial, entretanto, se limitam a dizer que a recidiva poderia ser a comprovada por outros meios de convicção, nada se pronunciando sobre o momento processual adequado para a apresentação desses elementos. Nesse contexto, a análise do apelo nobre encontra obstáculo na Súmula n. 283 do Supremo Tribunal Federal, pois as razões do recurso especial não impugnam todos os fundamento constantes do acórdão recorrido.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. RAZÕES RECURSAIS QUE NÃO IMPUGNAM TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+Aplica-se o óbice previsto no enunciado n. 283 da Súmula do col. Supremo Tribunal Federal na hipótese em que o recorrente deixa de impugnar especificamente fundamentos que, por si só, são suficientes para manter a decisão recorrida.
+Agravo regimental desprovido." (AgRg no REsp 1984397/MG, Rel. Desembargador Convocado JESUÍNO RISSATO, Quinta Turma, julgado em 10/5/2022, DJe de 19/5/2022 - sem grifos no original. )
+Finalmente, não se pode deixar de registrar que o acórdão recorrido se assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo. Porém, a parte recorrente não interpôs recurso extraordinário, o que atrai a incidência da Súmula n. 126 desta Corte Superior de Justiça.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. VIOLAÇÃO DOS ARTS. 63 E 64, INCISO I, DO CÓDIGO PENAL. AUSÊNCIA DE PREQUESTIONALMENTO. ÓBICES DAS SÚMULAS N. 282/STF E 356/STF. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO APELATÓRIO. INCIDÊNCIA DA SÚMULA N. 283/STF. FUNDAMENTO CONSTITUCIONAL. SUMULA N. 126/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
