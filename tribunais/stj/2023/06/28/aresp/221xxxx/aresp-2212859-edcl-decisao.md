@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por DORALICE MULLER e outros, contra decisão de minha lavra, que conheceu do Agravo para não conhecer do Recurso Especial.
+Inconformada, sustenta a parte embargante que:
+"I - Ab initio, conforme se infere da decisão ora objurgada, o recurso especial não foi conhecido sob o argumento de que a revisão do valor arbitrado pelas instâncias ordinárias, a título de honorários de sucumbência, só é admissível quando revelar -se manifestamente irrisório ou excessivo.
+A hipótese dos autos é justamente a fixação dos honorários de sucumbência em valor manifestamente irrisório, qual seja R$ 2.000,00, motivo pelo qual o recurso especial deve ser conhecido e provido para rever a fixação de verba honorária, dado que não houve a observância do juízo de equidade preconizado na legislação processual civil.
+(..)
+Em primeiro lugar, por meio de mera análise quantitativa, permeada pelas ciências exatas, já é possível se aferir o apoucamento na fixação da verba honorária em R$ 2.000,00, não dependendo de análise de argumentos utilizados pelo Tribunal de origem para fixação dos honorários em montante claramente irrisório.
+Em segundo lugar, também é de se constatar que a presente ação foi ajuizada em um litisconsórcio ativo composto por 30 Autores.
+(..)
+Além disso, em terceiro lugar, anote-se que, do tempo da distribuição da demanda até a presente data já passaram 9 anos e que o processo ainda persistirá por mais longos anos na fase de execução, o que demandará alto grau de zelo e tempo dos patronos dos Autores.
+(..)
+Por fim, é visível notória contradição pelo fato de a Fazenda do Estado de São Paulo ser um órgão que detém um orçamento de grandes proporções. Assim, notadamente, a fixação de honorários de sucumbência no valor de R$ 2.000,00 realmente não traz qualquer oneração ou prejuízo à referida" (fls. 502/503e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que o Recurso Especial não merece ser conhecido, considerando que, "In casu, sem deixar delineadas, no acórdão recorrido, especificamente em relação ao caso concreto, todas as circunstâncias previstas nas alíneas a, b e c do § 3º do art. 20 do CPC/73 - a) o grau de zelo do profissional; b) o lugar de prestação do serviço; c) a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço -, concluiu o Tribunal de origem pelo improvimento da apelação dos autores, mantendo a sentença que fixou os honorários de advogado em R$ 2.000,00 (dois mil reais). Tal contexto não autoriza a majoração de honorários pretendida, de maneira que não há como acolher a pretensão da parte recorrente, incidindo, na espécie, a Súmula 7/STJ, o que inviabiliza o conhecimento do Recurso Especial, no ponto" (fl. 498e).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I,
