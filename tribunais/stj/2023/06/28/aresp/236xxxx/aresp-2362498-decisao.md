@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por JOÃO ORTIGOSO, contra decisão que não admitiu recurso especial (fls. 536/538 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 238, e-STJ):
+AGRAVO DE INSTRUMENTO - Execução de título extrajudicial- Decisão que reconhece impenhorabilidade da propriedade rural com até 4 (quatro) módulos fiscais - Ausência de prova de que o imóvel seja explorado e garanta a subsistência do devedor e de sua família - Requisito indispensável à benesse - Ônus da prova que incumbe ao devedor/proprietário - Precedentes do STJ - Decisão reformada para permitir a constrição - Recurso provido para esse fim.
+Opostos embargos de declaração, foram rejeitados (fls. 316/322, e-STJ).
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 489, 373, 833 e 1022 do CPC/15, 4º, I e II, da Lei 8629/93. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois a Corte de origem não se manifestou sobre a certidão de fl. 89 do oficial de justiça, notas fiscais, declaração de fl. 100 do agrônomo, receituários de fls. 101/102, declarações das testemunhas, outras decisões do TJSP reconhecendo a impenhorabilidade do mesmo imóvel; ii) houve comprovação de que o imóvel é o imóvel é explorado por sua família.
+Após a apresentação das contrarrazões (fls. 367/371, e-STJ), o apelo não foi admitido na origem (fls. 372/375, e-STJ), dando ensejo ao agravo (fls. 378/390, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 395/403, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. O recorrente aduziu nas razões dos embargos de declaração opostos na origem "a certidão de fls. 89, lavrada pelo oficial de justiça assim se pronunciou:  ..  as notas fiscais de produtor rural em nome do agravado João Ortigoso, do Sítio Santa Maria, emitidas em 12/06/2015 (fls.96/99)  ..  a declaração de fls. 100 emitida pelo agrônomo Ângelo Rafael Alves  ..  Receituários de fls. 101 e 102, emitidos em 10/03/2019 e 25/03/2019, por Comércio e Representações Ouro Branco Ltda., de Guaíra-SP  ..  declarações prestadas pelas testemunhas MILTON MARTINS PERES (fls.103/105) e ALEXANDRE MARTINS PERES (fls.106/108),  ..  várias outras decisões proferidas pelo Egrégio Tribunal de Justiça de São Paulo, reconhecendo impenhoráveis as mesmas áreas objetos do presente agravo, conforme se verifica de fls. 194/199, 200/203, 204/210 e 211/216. " (fl. 247/, e-STJ).
+A partir desses trechos, exsurge a compreensão de que o Tribunal de origem deixou de apreciar a controvérsia sobre o acervo probatório que poderia demonstrar, em tese, que a propriedade é explorada pelo devedor. É certo que o julgador não precisa responder a todas as alegações das partes. Todavia, deve se pronunciar sobre temas essenciais ao deslinde da controvérsia, indicando as razões que lhe formaram a convicção. Desse modo, cabia à Corte Estadual apreciar a matéria oportunamente suscitada, notadamente considerando-se a relevância do pronunciamento, pois tal questão poderia ensejar a impenhorabilidade do imóvel.
+Assim, "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC/73, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada" (REsp n. 1.187.583/RS, Relator o o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010).
+No mesmo sentido:
+PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NECESSÁRIO PREQUESTIONAMENTO DE MATÉRIA LEGAL OPORTUNAMENTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. REJEIÇÃO DO RECURSO DECLARATÓRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. NULIDADE DO ACÓRDÃO. DECISÃO MANTIDA.
+1. Resta violado o art. 535 do CPC/73 quando o Tribunal local rejeita embargos de declaração que visam à análise de tese jurídica e ao prequestionamento de matéria legal oportunamente suscitada, por si suficiente para a modificação do julgado.
+2. Não supre o requisito do prequestionamento a análise da questão federal exclusivamente pelo magistrado de primeiro grau.
+3. No caso concreto, o reconhecimento da violação do art. 535 do CPC/73 prescinde do revolvimento do contexto fático-probatório, não evidenciando as hipóteses de que tratam as Súmulas n. 5 e 7 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 546.594/SC, Relator o o Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/02/2015, DJe 19/02/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADMINISTRAÇÃO E GESTÃO DE FUNDO DE INVESTIMENTO.MAXIDESVALORIZAÇÃO DO REAL. MUDANÇA DA POLÍTICA CAMBIAL.RESPONSABILIDADE. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CARACTERIZADA.
+1. Necessidade de esclarecimentos pelo acórdão recorrido, devidamente suscitados em embargos de declaração, sobre questões relevantes para a solução da causa.
+2. Presente um dos vícios elencados no art. 535 do CPC, devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+3. Agravo interno e recurso especial providos.
+(AgRg no REsp 1217027/RJ, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2016, DJe 22/06/2016)
+Configurada, portanto, a ofensa ao art. 1022 do CPC/15.
+Ficam prejudicadas as demais alegações.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento a fim de anular o acórdão referente aos embargos de declaração e determinar que Tribunal de origem proceda a novo julgamento dos aclaratórios, pronunciando-se sobre o acervo probatório dos autos, conforme entender de direito.
+Publique-se. Intimem-se.
