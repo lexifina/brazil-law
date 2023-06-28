@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OSVALDO AMPESSAN e OUTROS com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de complementação de ações (derivadas de contrato de participação financeira), em fase de cumprimento de sentença, ajuizada pelos recorrentes em face de OI S.A. - em recuperação judicial.
+Decisão: julgou parcialmente procedente a impugnação ao cumprimento de sentença manejada pela recorrida para reconhecer a concursalidade e afastar a incidência de multa e honorários de que dispõe o art. 523, § 1º, do CPC, mantendo, contudo, o entendimento de que atualização monetária do valor em cobrança não deve ficar limitado à data do pedido de recuperação judicial da devedora, bem como da possibilidade dos credores optarem por não habilitar os créditos no plano.
+Contra tal decisum, foi interposto agravo de instrumento pela recorrida, ao qual foi dado provimento pelo Desembargador Relator apenas para limitar a atualização do crédito à data do pedido de recuperação judicial (20/6/2016).
+Acórdão recorrido: negou provimento ao agravo interno manejado pelos recorrentes, em acórdão assim ementado (e-STJ, fl. 730):
+AGRAVOINTERNO EMAGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TELEFONIA. CRÉDITO CONCURSAL. HABILITAÇÃO RETARDATÁRIA. FACULDADE DO CREDOR. SUSPENSÃO DO FEITO. ATUALIZAÇÃO DO VALOR DO DÉBITO. PRECEDENTES DA CÂMARA E DO STJ. REAFIRMAÇÃO DA DECISÃOMONOCRÁTICADO RELATOR.
+Inexistem razões de fato e de direito que justifiquem o pedido de novo pronunciamento, sendo indispensável impugnar a decisão recorrida de forma específica e objetiva, o que se afigura ausente.
+Decisão monocrática do Relator reafirmada pela Câmara.
+AGRAVO INTERNO DESPROVIDO.
+Recurso especial: apontam a existência de dissídio jurisprudencial e alegam violação dos artigos: 6º, caput, 7º, §1º, 9º, II, 10º, §6º, 49, caput, 51, III, 52, III, 61, 62 e 63, da Lei n.º 11.101/2005.
+Aduzem, para tanto, que a habilitação retardatária do credor preterido após a homologação do quadro geral de credores é facultativa, e não uma imposição, bem como que a atualização dos créditos cujo titular optar por não habilitar no processo de soerguimento não po de se limitar a data do ajuizamento da recuperação judicial, devendo ser atualizado até a data do pagamento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de interesse
+Quanto à alegação de que a habilitação retardatária do credor preterido após a homologação do quadro geral de credores seria facultativa, observa-se que falta interesse aos recorrentes. Isso porque o acórdão recorrido já havia reconhecido, nessa mesma linha, que "a habilitação retardatária do crédito concursal é faculdade do credor, sendo possível a suspensão do feito executivo individual até o encerramento da recuperação judicial da companhia telefônica" (e-STJ, fl. 740).
+- Do entendimento do STJ
+Noutro vértice, esta Corte Superior firmou entendimento no sentido de que, ainda que o credor opte por não habilitar seu crédito, pois se trata de direito disponível, a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial: "O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005" (REsp 1.655.705/SP, Segunda Seção, DJe de 25/5/2022).
+Também é certo que, a despeito de o crédito não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores, habilitados ou não. Ou seja, "como os créditos em questão devem ser submetidos ao plano de recuperação, deve também se sujeitar à data limite de incidência da correção monetária, a fim de se garantir a indispensável igualdade entre os credores" (REsp 1.892.026/DF, Terceira Turma, DJe de 15/4/2021). No mesmo sentido: AgInt nos EDcl no REsp 1.793.799/RS (Quarta Turma, DJe de 16/12/2021).
+Assim, a conclusão do Tribunal de origem de que, "ainda que se trate de habilitação de crédito retardatária, a atualização do débito em processo de recuperação judicial segue a regra da Lei da Recuperação Judicial e Falência, limitando-se à data do pedido recuperacional (20-6-2016)" (e-STJ, fl. 740) está em conformidade com a aludida jurisprudência desta Corte e não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEVEDORA EM RECUPERAÇÃO JUDICIAL. CRÉDITO NÃO HABILITADO. SUJEIÇÃO AOS EFEITOS DO PLANO. CORREÇÃO MONETÁRIA E JUROS. LIMITAÇÃO À DATA DO PEDIDO DE SOERGUIMENTO.
+1. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei 11.101/05. Precedente da Segunda Seção.
+2. A despeito de o crédito, de natureza concursal, não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores. Precedentes.
+3. Recurso especial não provido.
