@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ICH ADMINISTRACAO DE HOTEIS S.A., com amparo nas alíneas "a" e "c", do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 898, e-STJ):
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA DE UNIDADE HOTELEIRA - RESCISÃO CONTRATUAL COM INDENIZAÇÃO MATERIAL - PRELIMINAR DE ILEGITIMIDADE PASSIVA DA APELANTE AFASTADA - CADEIA DE FORNECIMENTO CARACTERIZADA - RESPONSABILIDADE SOLIDÁRIA CONFIGURADA - PRELIMINAR - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - LEGITIMIDADE - O FATO DO IMÓVEL TER SIDO ADQUIRIDO A TÍTULO DE INVESTIMENTO NÃO AFASTA A RELAÇÃO CONSUMERISTA- CONTRATANTES QUE SE ENQUADRAM NAS DEFINIÇÕES DOS ARTIGOS 2º E 3º DO CÓDIGO DE DEFESA DO CONSUMIDOR - MÉRITO - ATRASO NA ENTREGA DAS UNIDADES INEQUÍVOCO - EXCLUDENTE DE RESPONSABILIDADE NÃO VERIFICADA - O RISCO EMPRESARIAL NÃO PODE SER IMPOSTO AO CONSUMIDOR - APLICAÇÃO DA SÚMULA 161 DO STJ - DEVOLUÇÃO DE TODOS OS VALORES PAGOS- LEGITIMIDADE - REPOSIÇÃO DAS PARTES AO"STATUS QUO ANTE" - INCIDÊNCIA DA SÚMULA 543 DO STJ - PRECEDENTES DESTA CÂMARA - SENTENÇA MANTIDA - SUCUMBÊNCIA MAJORADA- RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados às fls. 940-948, e-STJ.
+Nas razões do recurso especial (fls. 907-928, e-STJ), o insurgente aponta, além de dissídio jurisprudencial, violação dos artigos 485, VI, do CPC e 265 do CC, sustentando sua ilegitimidade passiva, diante da ausência de responsabilidade solidária pelo atraso na entrega das unidades imobiliárias, bem como a não incidência do Código de Defesa do Consumidor, por se tratar de compra de unidades imobiliárias para fins de investimento.
+Contrarrazões às fls. 953-961, e-STJ.
+Após decisão de admissão do recurso especial (fls. 962-963, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão fls. 1008-1009, rejeitou-se a prevenção suscitada pelo recorrente às fls. 911-913, e-STJ.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração dos artigos 485, VI, do CPC e 265 do CC, sustentando sua ilegitimidade passiva, diante da ausência de responsabilidade solidária pelo atraso na entrega das unidades imobiliárias, bem como a não incidência do Código de Defesa do Consumidor, por se tratar de compra de unidades imobiliárias para fins de investimento..
+Alega o recorrente que "enquanto o TJSP entende que a mera aparência justifica a condenação solidaria pelo CDC, esta Corte Superior repudia a aplicação do Código Consumerista e, por consequência lógica, afasta a condenação solidaria - seja por não integrar a cadeia de fornecimento relativo à incorporação e construção imobiliária, seja por não ser a parte autora consumidor, seja por não integrar o grupo econômico da incorporadora/construtora, seja por não ter disponibilizado seus serviços, seja por terem ciência os autores das obrigações da ICH quando da aquisição do imóvel - administração e exploração das unidades" (fl. 927, e-STJ).
+Sobre o tema, o Tribunal local assim concluiu (fls. 902-903, e-STJ):
+Em que pese os argumentos trazidos aos autos, o fato de os imóveis terem sido adquiridos a título de investimento,por si só, não afasta a existência de relação de consumo.
+Isto porque os autores são hipossuficientes em face das rés, que em tese possuem conhecimentos de área imobiliária e de hotelaria, para investimento. O fato de possuírem duas unidades em rede de hotelaria não os torna membros da cadeia de produção/fornecimento, posto que os adquirentes o fazem visando a obtenção do rendimento com o produto.
+Ademais, a administração, na hipótese de o empreendimento ser concluído, se dará pela empresa da área de hotelaria, não se enquadrando o adquirente como fornecedor.
+A preliminar de ilegitimidade passiva da apelante foi corretamente afastada na origem.
+Ressalte-se que a regra trazida pelo Código de Defesa do Consumidor é a responsabilidade solidária de todos aqueles que participam de algum modo na relação com o consumidor (parágrafo único, do art. 7º; arts. 18, 19 e parágrafos do art. 25).
+Dos documentos acostados aos autos, verifica-seque a apelante também integra a cadeia de fornecimento (fls. 50/63; 64/74 e 75/76), pois participou da relação jurídica,tornando-a responsável perante os consumidores, mesmo sem ter firmado o instrumento de compra e venda. Ou seja, ambas as rés se associaram para planejar, construir e vender as unidades imobiliárias, de modo que respondem solidariamente pelas obrigações derivadas do empreendimento.
+Na hipótese, o aresto vergastado concluiu pela incidência do Código de Defesa do Consumidor, uma vez que os recorridos são hipossuficientes em face da recorrente, que possui conhecimentos da área imobiliária e de hotelaria, para investimento. Concluiu, por via de consequência, pela legitimidade da recorrente, bem como por sua responsabilidade solidária, visto ter participado da relação jurídica, ainda que não tenha firmado o instrumento de compra e venda.
+Com efeito, a conclusão adotada da Corte local não encontra amparo na jurisprudência desta Corte, no sentido de que a rede hoteleira não responde pelos danos advindos pelo atraso na entrega de imóvel.
+Precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA OBRA. ADMINISTRADORA HOTELEIRA. LEGITIMIDADE PASSIVA E RESPONSABILIDADE SOLIDÁRIA: AUSÊNCIA. INTEGRAÇÃO À CADEIA DE FORNECIMENTO NÃO CARACTERIZADA. MATÉRIA DE FATO DELINEADA NO ACÓRDÃO RECORRIDO. DISSÍDIO JURISPRUDENCIAL DEMONSTRADO.
+1. Sendo possível a análise da legitimidade passiva com os elementos descritos no acórdão recorrido, não incidem os óbices das Súmulas 282 e 356/STF e 5 e 7/STJ.
+2. A empresa de administração hoteleira não tem responsabilidade solidária pelo inadimplemento do contrato de promessa de compra e venda de unidades imobiliárias em construção, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes.
+3. A circunstância de haver no contrato a previsão de que o consumidor se obriga a aderir por instrumento particular ao futuro pool hoteleiro administrado por empresa indicada no contrato de promessa de compra e venda não implica responsabilidade desta última por eventual inadimplemento da incorporadora e construtora.
+Enquanto não terminada a obra, sequer tem objeto o contrato de administração.
+4. Agravo interno e recurso especial providos.
+(AgInt no REsp n. 1.914.177/DF, relator Ministro Antonio Carlos Ferreira, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2022, DJe de 25/1/2023.)  grifou-se
+AGRAVO INTERNO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DOS VALORES PAGOS. ILEGITIMIDADE PASSIVA DA REDE HOTELEIRA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Deve ser afastada qualquer responsabilização solidária da rede hoteleira tão só pelo inadimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, uma vez que não compõe a cadeia de fornecimento, além de também ter ser sido prejudicada, ante a impossibilidade de gerar renda com a locação das unidades imobiliárias correspondentes. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.935.362/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)  grifou-se
+Nesse contexto, o reconhecimento da ilegitimidade da recorrente para figurar no polo passivo da demanda é medida que se impõe.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou provimento ao recurso especial para reconhecer a ilegitimidade passiva ad causam da parte recorrente.
+Fica prejudicada a análise das demais questões.
+Publique-se.
+Intimem-se.
