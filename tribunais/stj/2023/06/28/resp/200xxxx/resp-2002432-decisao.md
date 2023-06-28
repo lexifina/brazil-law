@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURICIO DAL AGNOL com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, em apelação, assim ementado (fl. 170):
+APELAÇÃO. MANDATOS. ARBITRAMENTO E COBRANÇA. PRESCRIÇÃO QUINQUENAL. RECONHECIDA. PARTICULARIDADES DO CASO. SENTENÇA MANTIDA.
+1. O prazo para o ajuizamento da ação de arbitramento de honorários advocatícios é de5 anos, a contar da data em que cessou o mandato pela inabilitação profissional do causídico, alvo da "Operação Carmelina" nos termos do art. 25, inc. V, da Lei nº8.906/94 e 682, inc. III, do CC, cujo lapso transcorreu no caso dos autos. Particularidades.
+2. Ausente revogação imotivada ou culpa do cliente, não vigora a condição suspensiva do prazo prescricional indicada no contrato de êxito. Hipótese excepcionada pela interpretação do REsp nº 805.151/SP e Informativo nº 560 STJ.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes artigos: a) 1.022, II, do CPC, indicando omissão, contradição e obscuridade no acórdão recorrido e negativa de prestação jurisdicional; e b) 25, I, da Lei n. 8.906/1994 e 121, 125, 189, 199, 202, IV, e 206, § 5º, do CC, impugnando o termo inicial da contagem do prazo prescricional para a cobrança de honorários advocatícios.
+Narra que as partes celebraram contrato com cláusula condicional de êxito.
+Explica que é a partir da implementação da condição suspensiva - e não com a revogação do mandato - que nasce a pretensão para a cobrança dos honorários.
+Sustenta a impossibilidade de cobrança dos honorários advocatícios antes do recebimento dos valores (proveito econômico) pela parte recorrida.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STJ de que o prazo prescricional para a cobrança de honorários contratuais pactuados com cláusula de êxito somente tem início a partir do momento em que verificada a condição contratualmente prevista.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 224-232, e o recurso especial foi admitido na origem (fls. 235-241).
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls.166-168):
+A questão debatida neste processo não é nova no âmbito deste Tribunal, uma vez que há diversas ações de arbitramento de honorários ajuizadas pelo recorrente, o qual teve sua inscrição na OAB suspensa no início de 2014, ficando inabilitado para exercer os poderes a ele conferidos, consoante disposto nos artigos 682, inc. III, do CC e 42 do Estatuto da OAB.
+ ..
+Em se tratando de ação de arbitramento de honorários advocatícios - decorrente do encerramento do mandato pela inabilitação profissional do causídico -, conta-se o prazo quinquenal previsto no art. 25, inc. V, do Estatuto da OAB, a partir da data da cessação do mandato ,o que, no caso dos autos, ocorreu em 21.02.2014, segundo dispõe a orientação do Ofício-Circular nº 022/2014 da CGJ/TJRS.
+Considerando que a demanda foi ajuizada somente em 21.05.2021, após transcorrido05 anos da cessação dos poderes sem culpa atribuível à cliente, impõe-se reconhecer a prescrição.
+ ..
+Ademais, não convence a tese do advogado de que a condição para ajuizar a demanda só foi implementada em 1º.11.2016, 14.07.2017 e 13.01.2018, quando os alvarás foram levantados pela cliente (evento 1, alvará 8 a 10).
+Ainda que o contrato previsse o pagamento de honorários por ocasião do recebimento de valores, tal fato não acarreta o deslocamento do termo inicial da prescrição (actio nata). Isso porque, essa condição era aplicável enquanto o mandato estivesse vigente, porém, com a interrupção dos poderes por culpa exclusiva do advogado (inabilitação profissional) houve o vencimento antecipado da obrigação e dos serviços prestados até aquele momento:
+ ..
+Entretanto, o referido julgado também excepciona que este entendimento é aplicado nas hipóteses " ..  em que o mandato foi revogado por ato unilateral do mandante". Considerando que não houve revogação unilateral, mas sim cessação por culpa atribuível ao advogado, aplica-se a data da inabilitação profissional como termo inicial da prescrição. Até porque, a cliente apenas atendeu ao Ofício-Circular nº 022/2014 da CGJ/TJRS, alertando as partes sobre as investigações criminais e a suspensão do registro contra o causídico.
+Verifica-se que o entendimento adotado no acórdão recorrido não encontra amparo na jurisprudência desta Corte de que, "No caso dos honorários contratuais, se tal verba for pactuada com amparo em cláusula de êxito, a cobrança só é possível, mesmo no caso de revogação do mandato no curso da demanda, após a implementação da condição suspensiva" (AgInt no REsp n. 1.715.128/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/3/2020, DJe de 30/3/2020).
+A propósito:
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CLÁUSULA DE SUCESSO. REVOGAÇÃO DO MANDATO ANTES DE CONFIGURADA A CONDIÇÃO ESTIPULADA PELAS PARTES PARA PAGAMENTO. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA. RECURSO PROVIDO.
+1. A contagem de prazos para se aferir eventual ocorrência de prescrição deve observar o princípio da actio nata, que orienta somente iniciar o fluxo do lapso prescricional se existir pretensão exercitável por parte daquele que suportará os efeitos do fenômeno extintivo. É o que se extrai da disposição contida no art. 189 da lei material civil.
+2. No caso concreto, a remuneração pela prestação dos serviços advocatícios foi condicionada ao sucesso da demanda judicial.
+Em tal hipótese, a revogação do mandato, por ato unilateral do mandante, antes de ocorrida a condição estipulada, não implica início da contagem do prazo prescricional.
+3. Recurso especial conhecido e provido. (REsp n. 805.151/SP, relator Ministro Raul Araújo, relator para acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2014, DJe de 28/4/2015.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CLÁUSULA DE ÊXITO. CONDIÇÃO SUSPENSIVA. SUSPENSÃO DA INSCRIÇÃO DO ADVOGADO NOS QUADROS DA OAB. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA.
+1. Cuida-se, na origem, de ação de arbitramento de honorários advocatícios, na qual se pretende o pagamento de honorários contratuais de êxito, por advogado que, em decorrência de condenação criminal, teve sua inscrição perante os quadros da OAB suspensa.
+2. A jurisprudência do STJ se firmou no sentido de que o prazo prescricional para a cobrança de honorários contratuais pactuados com cláusula de êxito somente tem início a partir do momento em que verificada a condição contratualmente prevista, sem qual "não se terá adquirido o direito" (art. 125 do CC/02). Nesse norte, e à luz da teoria da actio nata, o prazo começa a correr apenas quando obtido o sucesso na ação, ainda que haja a revogação ou cessação do mandato no curso da demanda. Precedentes.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.128.140/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/4/2019, DJe de 2/5/2019.)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a um novo julgamento da causa, à luz da jurisprudência deste Tribunal Superior, consoante fundamentação supra.
+Publique-se. Intimem-se.
