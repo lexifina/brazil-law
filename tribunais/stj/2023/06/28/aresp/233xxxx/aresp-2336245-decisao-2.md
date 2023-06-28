@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Sorocaba contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 603):
+Embargos de declaração. Sorocaba. Impugnação ao cumprimento de sentença. Evolução funcional. Execução individual de título judicial formado em ação coletiva. Servidor autárquico do SAAE. Ilegitimidade passiva constatada. Descabimento da execução em face do Município. Recurso provido. Alegada omissão quanto ao arbitramento de honorários por apreciação equitativa (art. 85, § 8, do CPC). Inocorrência. Critério que assegura o arbitramento de montante razoável às peculiaridades do caso concreto. Embargos de declaração rejeitados, com advertência.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação do art. 85, §§ 2º, 3º, 8º e 11, do CPC.
+Sustenta, em suma, que (fl. 613):
+(..) ao fixar os honorários sucumbenciais e no valor R$ 1.000,00 (mil reais), com base no art. 85, §§ 8º e 11, do CPC em sede de julgamento de apelação - ou seja utilizando-se do critério da equidade - houve violação aos dispositivos de legislação federal indicados nestas razões recursais, pois, este, conforme assente jurisprudência do STJ - a equidade é critério subsidiário a ser utilizado somente quando não for possível precisar o proveito econômico, o que não é o caso em tela, em que este representa o que foi efetivamente cobrado pelo autor, ou seja, de R$ 28.275,55 (vinte e oito mil, duzentos e cinquenta e cinco reais), valores os quais o ente municipal deixou de arcar em razão do provimento da apelação.
+Acrescenta que, "Inclusive, trata-se, hoje, de jurisprudência pacificada do E. STJ, em razão do julgamento do TEMA 1.076, entendendo a Corte pela vedação da fixação de honoráros por equidade em causas de grandes valores" (fl. 617).
+As contrarrazões foram ofertadas às fls. 737/740, por intermédio das quais se defendeu a manutenção do acórdão recorrido, no ponto, ao argumento de que (fl. 739):
+Tal disposição tem fundamento, tendo em vista que a matéria discutida, ou seja, a legitimidade ou não do município para o pagamento das diferenças salariais dos servidores autárquicos é matéria debatida em mais de 3.000 processos. Em razão da similitude das ações, com exceção dos cálculos ofertados pela recorrente, as defesas e os recurso são padrões, repetitivos, o que por si só demonstra o pouco esforço dos advogados do município, bem com o curto tempo de tramitação do feito.
+Juízo negativo de admissibilidade à fl. 760.
+Daí o agravo ora em exame (fls. 808/815) que não foi respondido (fl. 818).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com o provimento do recurso especial da parte contrária, no sentido de não se conhecer da apelação interposta pelo Município de Sorocaba perante o Tribunal de origem, ficou sem objeto este apelo nobre que, como antes relatado, objetiva a majoração dos honorários sucumbenciais perante o Tribunal de origem.
+ANTE O EXPOSTO, julgo prejudicado o recurso.
+Publique-se.
