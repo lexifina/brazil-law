@@ -1,0 +1,8 @@
+DECISÃO
+MARLOS LUIZ BERTONI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5005637-35.2023.4.04.7001, em que não foi reconhecida a retroatividade do art. 28-A do Pacote Anticrime.
+Asseriu a defesa, perante a Corte de origem, "em síntese, mudança jurisprudencial sobre o cabimento da celebração de acordo de não persecução penal (ANPP), que passaria a ser possível mesmo após o trânsito em julgado, desde que o processo estivesse em trâmite quando da inserção do instituto no ordenamento jurídico" (fl. 453).
+Na hipótese, a Corte de origem destacou que "o Superior Tribunal de Justiça tem se posicionado, também em recentes julgados, pela inaplicabilidade do ANPP quando já recebida a denúncia" (fl. 457).
+Salientou, ainda, que, "estando a decisão recorrida em conformidade com a jurisprudência consolidada dos tribunais superiores, inclusive pelo Plenário do STF, não há que se acolher a tese defensiva" (fl. 458).
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual "a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, revela-se incompatível com o propósito do instituto quando já recebida a denúncia e encerrada a prestação jurisdicional nas instâncias ordinárias, como ocorreu no presente feito (AgRg no AREsp n. 1.983.450/DF, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 24/6/2022)" (AgRg no REsp n. 1.912.425/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/3/2023.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
