@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PROCESSUAL CIVIL - APELAÇÃO - DECLARATÓRIA DE NULIDADE - NEGÓCIO BANCÁRIO - EMENDA À INICIAL - EXIBIÇÃO DE DOCUMENTOS - DETERMINAÇÃO NÃO ATENDIDA - EXTINÇÃO DO PROCESSO - IMPOSSIBILIDADE - INVERSÃO DO ÔNUS DA PROVA - PEDIDO NÃO DEFERIDO - RECURSO PROVIDO.
+1. O indeferimento da petição inicial, nos termos do art. 321, do CPC, só é possível quando o autor não sanar eventuais vícios nela contidos, os quais devem, ainda, estar relacionados aos pressupostos de admissibilidade da ação.
+2. Não se concebe o indeferimento da exordial, apenas porque o autor não juntara a cópia do pedido administrativo, ainda mais quando existe o pedido de inversão do ônus da prova e se sabe que os referidos documentos, por não dizerem respeito ao mérito, também não se constituem requisitos de admissibilidade do pedido.
+Alegou-se, no especial, violação do artigo 85, § 1º, do Código de Processo Civil sob o argumento de que são cabíveis honorários advocatícios no julgamento do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o agravante ajuizou ação declaratório em face do agravado, cujo processo foi julgado extinto pela sentença.
+Interposta a apelação, houve provimento do recurso para a anulação da sentença.
+Esta Corte tem entendimento de que, anulada a sentença, não cabem honorários advocatícios, que são fixados, em regra, quando do desfecho da demanda.
+Assim:
+AMBIENTAL E PROCESSUAL CIVIL. INDENIZAÇÃO. SERVIÇO DE TRATAMENTO DE ESGOTO. DANOS CAUSADOS AOS MORADORES. ANULAÇÃO DA SENTENÇA. PRODUÇÃO DE PROVA PERICIAL DE OFÍCIO. LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Ação de Indenização por Danos Morais em razão de poluição e contaminação oriundas da Estação de Tratamento de Esgoto - ETE São Jorge localizado em imóvel da Sanepar, que provoca fortes odores e contaminam o ar da região causando prejuízos aos moradores.
+2. A sentença julgou a ação improcedente. Apelação foi provida para anular a sentença e determinar a realização de prova pericial.
+3. Constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007.
+4. Ao juízo, de acordo com cada caso concreto, cabe avaliar quais provas devem ou não ser produzidas para a solução da lide, de acordo com os fatos apresentados pelas partes e seu livre convencimento.
+5. É inviável analisar a tese defendida no Recurso Especial quanto à necessidade ou não da produção das provas requeridas pela parte recorrente, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ. A propósito: AgInt no AREsp 941.039/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/10/2017; AgRg nos EDcl no AREsp 715.472/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/2/2016; AgRg no AREsp 639.885/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 5/3/2015.
+6. O magistrado, ao presidir a instrução probatória, possui poderes para avaliar a necessidade ou não da produção da prova, e de decretar a inversão do ônus probatório, não estando adstrito à manifestação de vontade das partes quando, da análise do caso concreto, aferir a necessidade da utilização do meio de prova para se alcançar a verdade real. Precedentes: AgInt no AREsp 673.743/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/9/2017; AgRg no AREsp 740.150/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/11/2015.
+7. Ademais, como o Tribunal anulou a sentença e determinou ex officio a produção da prova pericial pelo juízo monocrático, julgando prejudicadas as Apelações, não caberia a condenação em honorários advocatícios, seja pela sucumbência recíproca, seja pela nulidade da sentença, cabendo ao juízo da origem ao julgar a causa fixar o valor da verba honorária devida ao vencedor da demanda. A propósito: REsp 1.703.677/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2017, DJe 1/12/2017.
+8. Também não caberia a majoração de honorários advocatícios conforme previsto no §11, art. 85 do CPC/2015, pois esta pressupõe ter o recorrente vencido na instância de origem, o que não ocorreu no caso concreto.
+9. Recursos Especiais conhecidos em parte e, nessa parte, não providos.
+(REsp n. 1.765.772/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/11/2018, DJe de 17/12/2018.)
+Incidem, na hipótese, as disposições do verbete n. 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
