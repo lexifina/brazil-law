@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por GRACIEMA AGUIAR SANTOS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (e-STJ fl. 445):
+DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO INTERNO NA APELAÇÃO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de apelação, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)
+III - Agravo interno desprovidos.
+Os embargos de declaração opostos foram rejeitados, com condenação do embargante ao pagamento de multa de 2% sobre o valor atualizado da causa (e-STJ fls. 481/514).
+Nas suas razões, a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 1.022, II, c/c o 489, § 1º, IV, 1.026, § 2º, do CPC/2015, por negativa de prestação jurisdicional, ao argumento de que "a omissão gira em torno da aferição de índices genéricos e desnecessidade de nome em lista homologada, bastando que seja demonstrada a lotação do exequente para verificar qual o índice aplicado" (e-STJ fl. 519), bem como o afastamento da multa.
+Contrarrazões às e-STJ fls. 533.
+Passo a decidir
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no art. 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+Art. 489. São elementos essenciais da sentença:
+ ..
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do recorrente se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor acerca da alegação de aferição de índices genéricos e desnecessidade de nome em lista homologada.
+Outrossim, verifica-se que o tema foi submetido à apreciação do Tribunal de origem, conforme se extrai do seguinte trecho dos embargos de declaração opostos pela parte insurgente (e-STJ fls. 466 e 471):
+ ..
+Consta dos autos que a parte Exequente já era filiada ao SINTSEP desde quando do ajuizamento da ação coletiva, vez que seu nome constou da lista de substituídos que instruiu a inicial da referida ação, e continua sindicalizada ao SINTSEP até hoje, conforme pode ser observado no contracheque e fichas financeiras nos autos, tendo os descontos legais (art. 578, 579, 580 da CLT).
+Após o trânsito em julgado da ação coletiva 6542/2005 em 2008, o SINTSEP iniciou um processo de liquidação de sentença dos substituídos, sendo os autos encaminhados à Contadoria deste Fórum.
+Entretanto, mesmo os que não constam no referido processo podem promover liquidação ou cumprimento de sentença individual, bastando comprovar que faz parte da categoria profissional do sindicato autor.
+ ..
+Conforme certidão da própria Contadoria Judicial em diversos processos análogos - cumprimentos de sentenças derivados da mesma ação coletiva 6542/2005 - bastaria juntar aos autos fichas financeiras dos anos 1993 e 1994 para se verificar o índice devido referente ao decréscimo salarial sofrido pelo servidor público estadual, caso o nome dele não conste da relação apresentada na demanda coletiva, in litteris:
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte a quo. Nesse sentido:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ORDEM DE INDISPONIBILIDADE DE BENS. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. DESPROVIMENTO. EMBARGOS DECLARATÓRIOS COM FINS DE PREQUESTIONAMENTO. APLICAÇÃO DE MULTA POR EMBARGOS PROTELATÓRIOS. DESCABIMENTO. OMISSÃO EFETIVAMENTE EXISTENTE. ACÓRDÃO QUE DEIXOU DE ENFRENTAR ALEGAÇÕES RECURSAIS RELEVANTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, PROVIDO.
+I - Trata-se, na origem, de agravo de instrumento interposto contra decisão que determinou a indisponibilidade de bens nos autos da ação civil pública por ato de improbidade administrativa. Sustentou o agravante, na origem, que providenciou a regularização das pendências tributárias da Câmara Municipal assim que assumiu a Presidência da Casa (em 2009), após a checagem contábil das decisões administrativas até então tomadas. Logo, não pode ser responsabilizado por falta de dolo na sua conduta e, mais ainda, em relação a períodos anteriores à assunção da Presidência da Câmara.
+II - O Tribunal de origem rejeitou o agravo, e os embargos de declaração posteriormente opostos. Além disso, condenou o embargante, ora recorrente, à multa pela oposição de embargos protelatórios. Interpôs recurso especial, admitido na origem.
+III - O recorrente alegou violação do art. 5º, II, da CF, matéria de competência do STF. Precedentes: AgInt no REsp n. 1.604.506/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+IV - Quanto aos fundamentos da decisão que negou provimento ao agravo e não afastou a indisponibilidade de bens, o recorrente não mencionou os dispositivos de Lei Federal supostamente violados. Aplicação da Súmula n. 284 do STF. Precedentes: AgInt no REsp n. 1.824.977/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 4/2/2020, DJe 6/2/2020; AgInt no AREsp n. 1.479.509/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 12/11/2019, DJe 22/11/2019).
+V - Em relação ao argumento de que o acórdão recorrido deixou de analisar alegações recursais relevantes, constata-se que o Tribunal de origem, efetivamente, incorreu em omissão, pois apresentou fundamentação genérica para o julgamento do recurso e também para a imposição de multa ao embargante. Ofensa do art. 1.022 do CPC/2015. Precedente: REsp n. 1.780.404 / RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 3/12/2019, DJe 13/12/2019.
+VI - Recurso especial parcialmente conhecido e, nesta parte, provido para anular o v. acórdão recorrido, inclusive - como consequência lógica -, a multa nele aplicada, e determinar que o Tribunal de origem promova novo julgamento dos embargos de declaração. (REsp 1.847.874/MG, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 03/05/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. REEXAME DE PROVA. DESNECESSIDADE.
+1. Os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, mormente quando provocados por meio de embargos de declaração, caso em que, persistindo a omissão, fica caracterizada a violação do art. 1.022, II, do CPC/2015.
+2. A nulidade processual decorrente de vício de integração no acórdão recorrido é questão de direito cujo conhecimento não exige reexame de prova.
+3. Agravo interno desprovido. (AgInt no AREsp 2.073.391/RJ, Relator Ministro GURGUEL DE FARIA, PRIMEIRA TURMA, DJe 12/12/2022)
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração, com exclusão, por consequência, da multa aplicada, determinando o retorno dos autos ao Tribunal a quo para que seja analisada a questão mencionada acima, em relação à qual foi omisso o julgado atacado.
+Publique-se. Intimem-se
