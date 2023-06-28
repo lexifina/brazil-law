@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por IRENE ALBERNAZ ARANTES, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 152e):
+MANDADO DE SEGURANÇA. DESIGNAÇÃO PRECÁRIA. CARGO DIREÇÃO. EXONERAÇÃO. ATO DISCRICIONÁRIO. SEGURANÇA DENEGADA. ILEGALIDADE NÃO DEMONSTRADA.
+Não há ilegalidade no ato que exonera diretora de cargo quefora designada a título precária e sem ter havido a efetiva nomeação e aprovação pela Assembleia Estadual, nos termos que determina a Lei 18.309/09.
+A Administração Pública possui poder discricionário para decidir a conveniência de nomeação e exoneração em cargo comissionado de recrutamento amplo, não sendo necessário o prévio processo administrativo no caso em deslinde.
+Sustenta a Recorrente, em síntese, ter sido nomeada e empossada no cargo de Diretoria da ARSAE/MG, não havendo que se falar em precariedade do ato de posse.
+Defende, nos termos do Decreto Estadual n. 47.884/2020, o reconhecimento de direito líquido e certo a permencer no cargo, porquanto sua exoneração somente pode ser efetivada após a conclusão de processo administrativo disciplinar.
+Com contrarrazões (fls. 256/260e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 273/276e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O Tribunal de origem denegou a segurança, afastando a alegação de estabilidade no cargo de diretoria, sob o fundamento de que, a definitividade da posse da recorrente pendia da aprovação da Assembléia Legislativa, o que não ocorreu, porquanto sua nomeação foi rechaçada pela Casa legislativa (fls. 167/168e):
+Entretanto, segundo histórico funcional, a impetrante foi designada em caráter precárioaté a aprovação pela Assembleia Legislativa do Estado, o que não ocorreu (documento n. 16). Assim, conquanto designada para o exercício do cargo de Diretor da ARSAE-MG, conforme publicação no Diário do Executivo de 07.02.2020, foi dispensada, em 20.01.2021, nos termos do artigo 106, "b", da Lei n. 869/1952.
+A propósito, oportuno ressaltar ainda trecho das informações do Diretor-Geral da Agência Reguladora, segundo o qual a dispensa da servidora designada e sua substituição ocorreu com base em critérios técnicos:
+"Dessa forma, não há que se falar em ilegalidade no ato de exoneração da Senhora IreneArantes ocorrida em 20/01/2021, tendo em vista que a estabilidade parcial e a previsão de mandato de 04(quatro) anos aos dirigentes da Arsae-MG se aplicam somente aos servidores NOMEADOS pelo Governadordo Estado após o devido processo legal, ou seja, após aprovação da Assembleia Legislava do Estado deMinas Gerais, que não se aplica ao caso da impetrante, que havia apenas sido DESIGNADA para responderpelo cargo de DIRETOR.
+(..)
+Em relação à afirmação de que "NUM ÚNICO ATO, NA CALADA DA NOITE, SEM TER ABERTO OIMPRESCINDÍVEL PROCESSO ADMINISTRATIVO contra a Impetrante SIMPLESMENTE DISPENSOU A MESMA E,NO MESMO DIA NOMEOU O SR. STEFANE FERREIRA DE MATOS, QUE NÃO PASSOU PELO PROCESSO SELETIVODO TRANSFORMA MINAS PARA O CARGO DE DIRETOR, CÓDIGO DRAR02, conforme faz prova a publicação noDiário do Executivo do dia 20 de janeiro de 2021" é importante realizar os seguintes apontamentos:
+Em primeiro lugar, causa estranheza a afirmação de que o ato foi feito "na calada da noite",tendo em vista que em 19/01 foi realizada reunião entre o Senhor Chefe de Gabinete da Arsae-MG, GustavoMedeiros, a Gerente de Planejamento Gestão e Finanças Daniela de Paula e a Senhora Irene Arantes, paraque, adotando-se os princípios de transparência pregados pela autarquia, fosse dada ciência, bem como asdevidas motivações do ato de exoneração à impetrante.
+Ressalta-se que todo processo de designação, nomeação e exoneração passa pelo devidoprocesso legal, com a realização de análise de legalidade pelas áreas técnicas competentes do Estado deMinas Gerais.
+(..)
+(..)Após análises estritamente técnicas chegou-se ao nome do Senhor Stefani Ferreira de Matos,justificada pelos seguintes pontos:
+(..)
+Tendo em vista o exposto, ou seja, diante da comprovada adequação do perfil, experiência, qualificação técnica e eficiência no desempenho das atividades comprovadas pela observação empírica daatuação do servidor na Arsae-MG, optou-se pela designação do Senhor Stefani Ferreira de Matos paraocupar o cargo de DIRETOR, em substituição à Senhora Irene Albernaz Arantes." (documento n. 17).
+Nas razões do Recurso Ordinário, tais fundamentos não foram refutados, repercutindo na inadmissibilidade do recurso, limitando-se a recorrente a afirmar a definitivdade do cargo em razão da aprovação em processo seletivo, sem tecer consideração acerca do fato de não ter tido o ato de posse aprova na Casa Legislativa.
+Esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS 45.594/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido.
+(RMS 37.941/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
