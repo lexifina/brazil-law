@@ -1,0 +1,50 @@
+DECISÃO:
+
+Trata-se de agravo interposto contra decisão de inadmissibilidade do Recurso Extraordinário manejado por Sagiano de Souza Santana contra o acórdão por meio do qual o Tribunal Superior Eleitoral negou provimento a Agravo Regimental, ante a incidência da Súmula n. 26/TSE, mantendo decisão que desaprovara suas contas relativas à campanha eleitoral do pleito municipal de 2020. O acórdão foi assim ementado:
+
+ELEIÇÕES 2020. AGRAVO INTERNO. RECURSO ESPECIAL ELEITORAL. PRESTAÇÃO DE CONTAS. CANDIDATO. DESAPROVAÇÃO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 26/TSE. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. É inviável o conhecimento de recurso que deixa de apresentar argumentos suficientes para infirmar todos os fundamentos da decisão recorrida e, assim, permitir a sua reforma, nos termos da Súmula 26/TSE. 2. Agravo interno a que se nega provimento. (AgR-REspe 0601104-43, Rel. Min. RICARDO LEWANDOWSKI, DJe de 1º/9/2022).
+
+Os embargos de declaração opostos ao acórdão foram rejeitados.
+
+Nas razões do Recurso Extraordinário, foi indicada violação aos princípios da razoabilidade e da proporcionalidade, sob os seguintes fundamentos: i) “a questão, objeto do presente recurso reveste-se de repercussão geral conforme artigo 1.035, §3º, inciso II, do Código de Processo Civil”; ii) "é imperioso, data vênia, a revisão, com base no princípio da proporcionalidade, da decisão recorrida, acatando a aprovação das contas do recorrente com ressalvas", pois, "foi esclarecido e provado que o valor depositado foi devidamente destinado para pagamento de gastos na campanha eleitoral, por meio da compensação do Cheque no valor de R$ 3.000,00 (três mil reais)[...], corroborando, desta forma, com a assertiva de que não houve qualquer fraude ou má-fé [...]"; iii) há documentos suficientes para a comprovação do gasto, visto que a identificação do doador foi devidamente sanada, devendo-se afastar a condenação da devolução ao tesouro nacional da quantia correspondente aos gastos comprovados.
+Inadmitido o apelo nobre, adveio o presente agravo, no qual se veiculam as seguintes alegações:
+
+ a)	Foram violados os princípios da proporcionalidade e da razoabilidade, haja vista a comprovação de que o valor depositado foi devidamente destinado para pagamento de gastos na campanha eleitoral, por meio da compensação do Cheque no valor de R$ 3.000,00 (três mil reais), conforme documentação acostada aos autos, o que revela  ausência de fraude ou má-fé por parte do candidato que possa ocasionar a rejeição das suas contas;
+ b)	os recibos e as notas fiscais juntadas aos autos possuem todas as informações necessárias para a identificação da despesa, do motivo e do destinatário do pagamento, inclusive o número do respectivo CPF;
+ c)	tais documentos são idôneos e suficientes para a comprovação do gasto, visto que a identificação do doador foi devidamente sanada, razão por que devem ser providos os embargos para afastar tal motivação da decisão que desaprovou as contas do candidato;
+ d)	os princípios da proporcionalidade e razoabilidade são considerados princípios implícitos da Constituição Federal, estando expressamente postos no artigo 2º da Lei nº 9.784/1999, a qual preceitua que a Administração Pública obedecerá, dentre outros, ao princípio da razoabilidade e da proporcionalidade;
+ e)	pela fundamentação implícita dos princípios da proporcionalidade e razoabilidade, deve-se levar em consideração sua evidente presença e importância nos pilares da Constituição Federal, o que justifica a reforma da decisão que inadmitiu o recurso extraordinário.
+
+A Procuradoria-Geral da República opina pelo desprovimento do agravo. Colaciono a síntese de sua manifestação:
+
+Eleições de 2020. Vereador. Prestação de contas de candidato. Agravo em recurso extraordinário. Não impugnação de fundamento suficiente para a manutenção da decisão agravada. Súmula n. 283/STF. Falta de indicação do dispositivo constitucional contrariado. Súmula n. 284/STF. Precedentes. Alegação de ofensa aos princípios da proporcionalidade e da razoabilidade que depende do cotejo analítico da legislação infraconstitucional. Tema n. 660 RG. Necessidade de revolvimento do conjunto fático-probatório. Súmula n. 279/STF. Parecer pelo desprovimento do agravo.
+
+É o relatório.
+Decido.
+O agravo reside, essencialmente, na reiteração das teses do apelo nobre, sem a impugnação específica dos fundamentos que embasaram o juízo negativo de inadmissibilidade recursal, o que enseja a incidência do óbice previsto na Súmula n. 283/STF.
+Permanece incólume, portanto, a decisão agravada, cuja fundamentação transcrevo a seguir:
+ Os Recursos Extraordinários somente serão conhecidos e julgados quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao Recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+A obrigação do Recorrente de apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa unicamente e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, a Recorrente não se exime de apresentar, formalmente e motivadamente, a repercussão geral, desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (AI 664.567-QO, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+No caso, o Recorrente limitou-se a afirmar que “a questão, objeto do presente recurso reveste-se de repercussão geral conforme artigo 1.035, §3º, inciso II, do Código de Processo Civil”.
+Além disso, vê-se que o Recorrente não procedeu à indicação do dispositivo constitucional violado, o que, em razão da deficiência da fundamentação do Recurso, atrai a incidência do enunciado 284 da Súmula do SUPREMO TRIBUNAL FEDERAL. Nessa linha: AgR-RE 145.931, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJ de 17/12/2004; AgR-ARE 1.188.327, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 27/6/2019; AgR-ARE 920.704, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/6/2018; AgR-ARE 1.296.702, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 21/5/2021.
+Ante o exposto, com fundamento no art. 1.030, V, do CPC, NEGO SEGUIMENTO ao Recurso Extraordinário.
+
+Inviável, portanto, o apelo nobre, ante a ausência da preliminar fundamentada de repercussão geral, bem como pela deficiência das razões recursais (Súmula n. 284/STF).
+
+Uma vez que tais tais fundamentos não foram impugnados nas razões do agravo, impõe-se a sua inadmissibilidade. Nesse sentido:
+
+Agravo regimental em recurso extraordinário com agravo. Direito Eleitoral. Recurso contra expedição de diploma. Suspensão dos direitos políticos. Violação do princípio da razoabilidade e da proporcionalidade. Tese nº 370 da Sistemática da Repercussão Geral. Súmula nºs 282 e 287 do STF. Argumentos não infirmados. Não provimento. 1. [...] 4. A mera reiteração das razões anteriormente articuladas inviabiliza o agravo interno, ex vi da Súmula nº 287/STF. Precedentes. 5. Agravo regimental não provido (ARE nº 1.368.569-AgR, de minha relatoria, Primeira Turma, DJe de 13/9/22);
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. DETRAÇÃO. MEDIDA CAUTELAR DIVERSA DE PRISÃO. RECOLHIMENTO NOTURNO COM MONITORAMENTO ELETRÔNICO. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. REITERAÇÃO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO (RE nº 1.398.051-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 13/2/23);
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO JUÍZO DE ORIGEM QUE INADMITE O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Juízo de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. III Agravo regimental a que se nega provimento (ARE nº 1.244.455-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 13/2/20).
+
+Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo.
+
+Publique-se.
+Brasília, 28 de junho de 2023.
+
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
