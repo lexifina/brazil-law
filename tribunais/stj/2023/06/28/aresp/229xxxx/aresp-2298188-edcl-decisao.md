@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONSTRUTORA LUPE LTDA - MASSA FALIDA à decisão de fls. 1089/1090, que não conheceu do recurso.
+Sustenta a parte embargante que:
+1. A referida decisão monocrática proferida por Vossa Excelência não conheceu do agravo interposto pela ora Embargante, majorando os honorários de sucumbência em seu desfavor no importe de 15% sobre o valor já arbitrado, observados os limites percentuais previstos no art. 85, §§2º e 3º, bem como "eventual concessão da gratuidade da justiça" (fl. 1094).
+2. Ocorre que não foi apreciado por Vossa Excelência o pedido de justiça gratuita formulado pela ora Embargante em petição simples (e-STJ Fls.
+971/973), juntada aos autos posteriormente à interposição do seu agravo, conforme permite o art. 99, §1º, do CPC.
+3. Como demonstrado pela ora Embargante por meio dos documentos anexos à referida petição, a expressividade do passivo da massa falida é notória e pode ser comprovada pela manifestação da Administradora Judicial no referido processo de nº 5000485-76.2017.8.21.0027, como também por meio do balancete analítico da empresa falida do ano de 2022 e da Relação de Credores apresentada ainda durante a Recuperação Judicial, a qual sofrerá considerável acréscimo em razão da falência decretada (fl. 1095).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Impende ressaltar que é despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt nos EAREsp n. 2.028.201/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 8/3/2023, DJe de 15/3/2023.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
