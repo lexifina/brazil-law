@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação dos dispositivos legais invocados (e-STJ fls. 346/348).
+O acórdão recorrido está assim ementado (e-STJ fl. 285):
+APELAÇÃO CÍVEL. Ação Cominatória e Indenizatória  Atraso na entrega da obra  Sentença de Improcedência - Insurgência que não prospera  Justiça Gratuita  Pedido incidental  Requisitos comprovados  Deferimento  Preliminar  Reconhecimento de Sentença "extra petita"  Impossibilidade Mérito  Empresa Ré revel  Circunstância que não na implica, necessariamente, procedência do pedido  Aplicação de tese não alegada em contestação  Possibilidade  Aplicação do brocardo "da mihi factum, dabo tibi jus"  Cessão de direitos realizada sem a anuência expressa do credor  Inoponibilidade do Contrato  Eventual reconhecimento por terceiros que não implica a em anuência expressa - Inteligência do artigo 299 do CCB - Condomínio gestor que não é titular da relação contratual  Ilegitimidade passiva "ad causam" bem reconhecida - Ônus sucumbenciais  Redução  Impossibildiade  Fixação no mínimo legal estabelecido em Lei  Inteligência do artigo 85, § 2º, do CPC - Sentença de Primeiro Grau mantida  Ratificação, nos termos do artigo 252, do Regimento Interno. RECURSO NÃO PROVIDO, com o deferimento incidental da Justiça Gratuita à Autora.
+Os embargos de declaração foram rejeitados (e-STJ fls. 326/330 e 335/339).
+No especial (e-STJ fls. 293/313), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 489, § 1º, IV, e § 2º, e 1.022, II, do CPC/2015, pois não foi apreciada a tese de julgamento extra petita
+Defendeu a tese de contrariedade dos arts. 2º, 10º, 141 e 492 do CPC/2015, porque ocorreu julgamento extra petita. Destacou que (e-STJ fls. 304/305):
+Revirando os autos, não há discussão pelas partes de que a falta de registro da cessão, bem como a falta anuência prévia do credor tenham sido obstáculos ao reconhecimento da validade da cessão de direitos.
+(..)
+Destarte, ainda, ao proferir a decisão, o julgador deve, obrigatoriamente, resolver o mérito da demanda, nos termos do que lhe foi entregue pelas partes, ou seja, nos termos do pedido, devendo deixar de fora quaisquer outras questões que não são objeto do litígio.
+Aduziu ofensa ao art. 299 do CC/2002, visto que "houve convalidação do negócio jurídico, pois, embora não tenha anuência expressa do credor no instrumento particular, verifica-se que houve sua anuência tácita no momento em que propôs ação de notificação judicial (artigo 172 do Código Civil)" (e-STJ fl. 310).
+No agravo (e-STJ fls. 351/357), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto ao alegado julgamento extra petita, assim entendeu o Tribunal de origem (e-STJ fls. 287/289):
+Sem prejuízo, é evidentemente impossível reconhecer-se que a r. Sentença de Improcedência é "extra petita", pois não se reconheceu pedido algum, sendo claro que, em verdade, as razões trazidas pela Apelada devem ser analisadas junto ao mérito da questão.
+Superadas as preliminares, quanto ao mérito, razão não assiste à Autora.
+(..)
+Ou seja, na presente Ação os fatos restaram efetivamente incontroversos, hipótese, porém, que não afasta a possibilidade do Julgador em verificar se o direito pleiteado se aplica, ou não, no caso em concreto, possibilitando, inclusive, o reconhecimento de situações jurídicas não aventadas pelas Partes.
+Neste sentido, como restou incontroverso nos Autos, trata-se de hipótese em que a Autora é cessionária de direitos referentes à promessa de compra e venda anteriormente firmada junto à Empresa Ré com terceiros, e pleiteia, em razão da da sua mora contratual, a entrega do Imóvel objeto do Contrato celebrado.
+Todavia, como bem pontuou o Nobre Magistrado Sentenciante, não houve a efetiva anuência expressa da cedida, ou seja, da credora do Negócio Jurídico, fato que se mostra imprescindível para que se reconheça a eficácia e a oponibilidade do Contrato.
+Em verdade, tal hipótese se trata de assunção de divida por parte da Autora em relação à Empresa Corré, e, como dito, tal alteração no polo passivo da obrigação só tem eficácia quando há a expressa aceitação do credor, não sendo este o caso dos Autos, nos termos expressos do artigo 299, do Código Civil Brasileiro:
+(..)
+Assim, resta claro que a obrigação não pode ser oposta em relação ao cedido que não avalizou a cessão realizada, tampouco em face do Condomínio, uma vez que em nenhum momento restou comprovada a sua titularidade quanto ao Contrato firmado.
+De forma não diversa, a própria Autora reconhece em sua peça inicial que não realizou os pagamentos colimados por não reconhecer a legitimidade do Condomínio Réu para tanto, conforme se lê à fl. 03 da Exordial, nos seguintes termos: "Contudo a Requerente naquele momento não realizou o pagamento dos valores ali indicados, a uma porque desconhecia como desconhece até hoje a legitimidade de fato da Segunda Requerida".
+Não há falar em julgamento extra petita, quando a apreciação do pleito é realizada dentro dos limites apresentados pelas partes na petição inicial ou nas demais peças processuais, mesmo que não tenha sido expressamente requerida na parte relativa aos pedidos.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. AUSÊNCIA DE CONTROVÉRSIA SOBRE O PAGAMENTO. SIMPLES COBRANÇA NÃO CONFIGURA CONDUTA ILÍCITA. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. JULGAMENTO CITRA PETITA. PRINCÍPIO DA CONGRUÊNCIA. QUESTÃO QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria constitucional invocada não é de ser examinada nesta via, porquanto refoge à missão creditada ao Superior Tribunal de Justiça, pelo artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+2. Insubsistente o alegado julgamento citra petita, pois o órgão julgador não violou os limites objetivos da pretensão, tampouco concedeu providência jurisdicional diversa do pedido formulado na inicial, respeitando assim o princípio processual da congruência.
+3. Inviável a análise de eventual violação aos dispositivos legais arrolados no apelo nobre, uma vez que o Tribunal de origem erigiu seu entendimento totalmente calcado nas provas dos autos, valendo-se delas para concluir pela improcedência do pedido do recorrente. Incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 971.316/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/4/2017, DJe 11/4/2017.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO - AÇÃO CONDENATÓRIA - UTILIZAÇÃO INDEVIDA DE IMAGEM PARA FINS COMERCIAIS/PUBLICITÁRIOS - DECISÃO UNIPESSOAL CONHECENDO DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DO RÉU.
+1. Não se verifica a alegada violação ao art. 535 do CPC, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, malgrado não ter acolhido os argumentos suscitados pelo recorrente.
+2. Não se pode reputar de extra petita a decisão que interpreta de forma ampla o pedido formulado pelas partes, pois o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial. Precedentes.
+3. Nos termos do enunciado da súmula 403/STJ, independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais.
+4. Quanto ao pleito de redução do quantum indenizatório, observa-se que o apelo extremo esbarra em óbice formal intransponível, consistente na ausência de indicação precisa dos dispositivos legais tidos por violados. Aplicação, por analogia, da Súmula 284/STF.
+5. No caso em tela, consoante dispôs o acórdão recorrido, o fundamento da pretensão condenatória foi o uso indevido de imagem, para fins comerciais, não tendo decorrido de inadimplemento contratual. Desse modo, tratando-se de responsabilidade extracontratual, os juros de mora devem fluir a partir do evento danoso, nos termos da Súmula 54/STJ.
+6. Agravo regimental desprovido.
+(AgRg nos EDcl no Ag 1.415.130/SC, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/2/2014, DJe 14/2/2014.)
+No que diz respeito a alegada existência de consentimento tácito, a Corte local manteve a sentença que consignou que "a cessão não contou com anuência ou ciência da credora, e assim não vale para os fim pretendidos, nos exatos termos do art. 299 do CC" (e-STJ fl. 226).
+A tese de anuência tácita do credor resultante da ação de notificação judicial não foi tratada pelo TJSP, estando ausente o requisito do prequestionamento. Incide a Súmula n. 282/STF.
+Além disso, p ara para alterar o entendimento da Corte local de falta de concordância expressa e de ciência da cessão pelo credor, implicaria no exame do conjunto fático probatório dos autos, hipótese vedada pela Súmula n.7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
