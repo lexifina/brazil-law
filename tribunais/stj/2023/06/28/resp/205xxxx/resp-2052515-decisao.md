@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, para desafiar acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. EMPREGADAS GESTANTES AFASTADAS POR FORÇADA LEI 14.151/2021. RESPONSABILIDADE PELO SALÁRIO. PROTEÇÃO DA MATERNIDADE PELA SEGURIDADE SOCIAL. ENQUADRAMENTO COMO SALÁRIO MATERNIDADE.
+1. A Lei 14.151/2021 é omissa quanto à responsabilidade pelo pagamento da remuneração da gestante que, afastada de suas atividades presenciais, esteja impossibilitada de exercer suas tarefas de forma remota.
+2. A ordem constitucional estabelece expressamente a proteção da maternidade pela Seguridade Social (art. 201, II), razão pela qual os ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador.
+3. É compatível com o ordenamento jurídico o enquadramento como salário maternidade dos valores pagos às trabalhadoras afastadas durante o período de emergência, sendo possível que as respectivas remunerações sejam compensadas, forte no art. 72, § 1º, da Lei8.213/1991.
+Os embargos declaratórios opostos pela recorrente foram rejeitados.
+Em suas razões, a Fazenda Pública aponta violação do art. 1.022, II, do CPC/2015; 71 a 73 da Lei n. 8.213/1991; 93, 95 e 96, do Decreto n. 3.048/1999; 20 da LINDB; 394-A da CLT.
+Afirma ter sido omisso o julgado recorrido por não ter enfrentado a matéria posta em debate nos embargos declaratórios.
+Sustenta que a concessão de auxílio-maternidade fora das hipóteses legais resulta em ofensa a vários princípios constitucionais da Seguridade Social, como o relativo à fonte de custeio, do equilíbrio financeiro e atuarial e da legalidade (arts. 37, 195, § 5º, 201, da CF).
+Afirma que a Lei n. 14.151/2021 não tratou de salário-materinidade ou de antecipação do benefício previdenciário e que não cabe aplicação, por analogia, do disposto no art. 394-A da CLT.
+Alega que é inadmissível a compensação de valores pagos a título de benefício estendido sem previsão legal ou constitucional com contribuições incidentes sobre a folha de salários e demais rendimentos pagos ou creditados a qualquer título a pessoa física.
+Sem apresentação de contrarrazões.
+Admitido o recurso extraordinário às e-STJ fls. 342/343.
+Admitido o recurso especial às e-STJ fls. 345/346.
+Parecer do Ministério Público pelo não conhecimento do recurso especial.
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança, em que se pede o direito de compensar, nos moldes do art. 72, § 1º, da Lei n. 8.213/1991, os valores pagos às empregadas gestantes afastadas por força da Lei n. 14.151/2021.
+O juízo de primeiro grau denegou a segurança.
+O Tribunal Regional deu provimento à apelação da impetrante para enquadrar como salário maternidade os valores pagos às trabalhadoras gestantes afastadas por força da Lei n. 14.151/2021. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 213/217):
+Não se discute que, pela letra da Lei nº 14.151/2021, a empregada gestante deverá permanecer afastada das atividades de trabalho presencial, sem prejuízo da remuneração, devendo exercer "as atividades em seu domicílio, por meio de teletrabalho, trabalho remoto ou outra forma de trabalho a distância."
+No entanto, como é sabido, nem todas as atividades da empregada são passíveis de trabalho remoto, muitas delas só podem ser prestadas presencialmente, sem condições de afastamento físico.
+Não parece, todavia, razoável imputar o custo decorrente da determinação do referido afastamento previsto na Lei nº 14.151/21 ao empregador.
+O art. 201, II da Constituição Federal estabelece a proteção à maternidade pela seguridade social, de modo que eventuais ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador.
+A legislação, todavia, é omissa no tocante à responsabilidade pelo pagamento da remuneração da gestante que, afastada das atividades presenciais, esteja impossibilitada de exercer suas tarefas de forma remota.
+Em recente decisão da Primeira Turma deste Tribunal, da relatoria do Des. Leandro Paulsen (TRF4, AG 5012750-28.2022.4.04.0000, juntado aos autos em 20/06/2022) questão idêntica a dos presentes autos foi decidida de acordo com a analogia (art. 4º da LINDB), como se pode verificar, a seguir:
+A ordem constitucional estabelece expressamente a proteção da maternidade pela seguridade social (art. 201, II).
+Neste contexto, eventuais ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador. Aliás, o ordenamento jurídico já cuida de hipóteses assemelhadas, sendo legítimo que nos valhamos da analogia, no caso, porquanto é instrumento de integração normativa, nos termos do art. 4º da LINDB:"
+Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, oscostumes e os princípios gerais de direito".
+A propósito, vale atentar para a previsão trazida no art. 394-A, § 3º, da Consolidação das Leis Trabalhistas:
+ ..
+Com efeito, "é compatível com o ordenamento jurídico o enquadramento como salário maternidade dos valores pagos às trabalhadoras afastadas durante o período de emergência, sendo possível que as respectivas remunerações sejam compensadas, forte no art. 72, § 1º, da Lei 8.213/91".
+Merece, portanto, ser reformada a sentença que denegou o pedido da demandante para reconhecer o direito de enquadrar como salário maternidade os valores pagos às trabalhadoras gestantes afastadas por força da Lei 14.151/2021, enquanto durar o afastamento, aplicando-se tal determinação inclusive em relação às gravidezes vindouras durante o período de emergência e enquanto perdurarem os efeitos da lei, bem como para excluir os respectivos pagamentos da base de cálculo das contribuições previdenciárias patronais destinadas à previdência social e aos terceiros.
+Condeno a União-Fazenda Nacional ao ressarcimento das custas processuais adiantadas pela parte impetrante.
+Ante o exposto, voto por dar provimento à apelação para reconhecer o direito de enquadrar como salário maternidade os valores pagos às trabalhadoras gestantes afastadas por força da Lei 14.151/2021, enquanto durar o afastamento, aplicando-se tal determinação inclusive em relação às gravidezes vindouras durante o período de emergência e enquanto perdurarem os efeitos da lei, bem como para excluir os respectivos pagamentos da base de cálculo das contribuições previdenciárias patronais destinadas à previdência social e aos terceiros.
+Pois bem.
+Constata-se que o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+Quanto ao mérito, a Corte local ao concluir que "a ordem constitucional estabelece expressamente a proteção da maternidade pela seguridade social (art. 201, II). Neste contexto, eventuais ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador", conferiu natureza eminentemente constitucional ao debate, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+Nesse contexto, a via do especial não se presta ao exame do tema, porquanto calcado em preceitos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mais, observa-se que - apesar de opostos os embargos de declaração pela Fazenda - a instância ordinária não emitiu juízo de valor expresso sobre o disposto nos arts. 93, 95 e 96 do Decreto n. 3.048/1999 e 20 da LINDB. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
