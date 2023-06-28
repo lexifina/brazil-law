@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fls. 269):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SERVIDOR EFETIVADO PELA LC Nº 100/07 - DECLARAÇÃO DE INCONSTITUCIONALIDADE - VÍNCULO ANÔMALO - EXTINÇÃO - EFEITO JURÍDICO RECONHECIDO PELO SFT (TEMA 916) - DIREITO AO LEVANTAMENTO DO FGTS - PAGAMENTO DIRETO AO TRABALHADOR -POSSIBILIDADE.
+- Se o efeito jurídico do reconhecimento da nulidade da contratação é o direito ao levantamento do FGTS (Tema 916/STF), mostra-se razoável e adequada a realização do pagamento de forma direta ao trabalhador, sem necessidade de criação de conta vinculada para depósito do respectivo valor.
+V. V - Os valores relativos a FGTS a que faz jus o servidor efetivado pela LC 100/2007 devem ser depositados em conta vinculada à Caixa Econômica Federal, nos termos da tese firmada no REsp 1806086/MG e da Recomendação Conjunta nº 03/2020 do TJMG.
+Embargos de declaração rejeitados (e-STJ fls. 298/301).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 19-A da Lei n. 8.036/1990, sustentando que o cumprimento da obrigação deverá ser feito por meio de depósito em conta vinculada e não diretamente à parte autora conforme determinado no acórdão recorrido.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 318/321.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, ao rechaçar o pleito de depósito dos valores devidos na conta vinculada, entendeu o aresto hostilizado o seguinte (e-STJ fls. 271/272):
+ ..
+Cinge-se a irresignação recursal quanto à forma de cumprimento da condenação do apelado ao pagamento dos valores relativos ao FGTS. E, a meu sentir, assiste razão à recorrente. A tese firmada pelo STF, no julgamento do RE 765.320 (Tema 916), foi a seguinte:
+A contratação por tempo determinado para atendimento de necessidade temporária de excepcional interesse público realizada em desconformidade com os preceitos do art. 37, IX, da Constituição Federal não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referentes ao período trabalhado e, nos termos do art. 19-A da Lei 8.036/1990, ao levantamento dos depósitos efetuados no Fundo de Garantia por Tempo de Serviço FGTS.(g. n)
+Com efeito, embora não desconheça a Recomendação Conjunta nº 03/20201 deste TJMG, penso que a melhor interpretação da Tese é pela ordem de pagamento direto ao trabalhador dos valores relativos ao FGTS, reconhecidos como devidos em razão da extinção do vínculo anômalo do trabalhador com o Estado, pela declaração de inconstitucionalidade da LC 100/2007.
+Esse raciocínio penso eu ser o mais razoável, tendo em vista que a contratada não é titular de conta vinculada e não deu causa ao fim do vínculo, o que permite a aplicação analógica do art. 20, I, da Lei n. 8.036/1990, que autoriza a movimentação da conta vinculada do trabalhador despedido sem justa causa.
+Assim, considerando que o efeito jurídico do reconhecimento da nulidade da contratação é o direito ao levantamento do FGTS, a realização do pagamento de forma direta, sem necessidade de criação de conta vinculada para depósito do valor (repita-se, que será levantado), é medida mais adequada para cumprimento da condenação. (Grifos acrescidos).
+Transcrevo trecho do acórdão integrativo (e-STJ fl. 300):
+ ..
+Ora, restou claro do julgado embargado que, embora não se desconheça a Recomendação Conjunta nº 03/20201deste TJMG, a melhor interpretação da Tese firmada pelo STF (Tema 916) é pela ordem de pagamento direto ao trabalhador dos valores relativos ao FGTS, reconhecidos como devidos em razão da extinção do vínculo anômalo do trabalhador com o Estado, pela declaração de inconstitucionalidade da LC 100/2007.
+E, em se tratando de recomendação, certo é que não vincula o entendimento deste Relator.
+Assim, como as razões de decidir não foram infirmadas pela parte insurgente e são aptas, por si só, para manter o decisum combatido, aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. A parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, especialmente quanto à aplicação do princípio da razoabilidade e à aplicação analógica do art. 20, I, da Lei n. 8.036/1990, circunstância que atrai a incidência das Súmulas 283 e 284 do STF.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.038.679/MG, de minha relatoria, Primeira Turma, DJe 16/05/2023).
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO INTERNO QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DO DECISUM. POSSIBILIDADE DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO. NÃO APLICAÇÃO DA SÚMULA 182/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Em sede de Agravo Interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada, afastando-se a incidência da Súmula n. 182/STJ (EREsp 1.424.404/SP, rel. Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, julgado em 20/10/2021, DJe 17/11/2021).
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.007.331/MG, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 30/11/2022).
+Convém registrar, por fim, que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
