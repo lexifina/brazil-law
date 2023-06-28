@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ENSCO DO BRASIL PETROLEO E GÁS LTDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO , que inadmitiu o Recurso Especial, assim ementado:
+"Apelação cível. Direito tributário. Ação de consignação em pagamento. Imposto sobre serviços de qualquer natureza (ISSQN). Empresa sediada no Município de Macaé - RJ que presta serviços relacionados à prospecção e exploração de petróleo e gás para empresa situada no Município de Santos- SP. Competência tributária. Questão jurídica que foi decidida pelo Superior Tribunal de Justiça, quando do julgamento do Resp nº 1060210/SC, recurso paradigma do Tema nº 355 do STJ, com trânsito em julgado em 03/03/2017, em que foi fixada a seguinte tese: "O sujeito ativo da relação tributária, na vigência do DL 406/68, é o Município da sede do estabelecimento prestador (art. 12); a partir da LC 116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada, assim entendido o local onde se comprove haver unidade econômica ou profissional da instituição financeira com poderes decisórios suficientes à concessão e aprovação do financiamento - núcleo da operação de leasing financeiro e fato gerador do tributo." Exercício do juízo de retratação para tornar sem efeito o acórdão de fls. 457/465 dar provimento ao recurso de apelação, a fim de declarar como ente federativo competente para exigir o tributo objeto da consignação o Município de Santo - SP" (fls. 562/563e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 587/592e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 489 e 1.022, II, do CPC/2015, 3º, caput, I a XXV, e §§ 3º e 4º da LC 116/2003.
+Contrarrazões a fls. 754/769e.
+Inadmitido o Recurso Especial (fls. 826/830e), foi interposto o presente Agravo (fls. 944/961e), juntamente com Agravo interno (fls. 924/943e).
+Sem contraminuta.
+Do exame dos autos, constata-se que não foi exaurida a prestação jurisdicional pela Corte de origem, tendo em vista que não foi julgado o Agravo interno de fls. 924/943.
+Ante o exposto, determino a devolução dos autos ao Tribunal regional, a fim de que, oportunamente, proceda ao julgamento dos recursos pendentes.
+I.
