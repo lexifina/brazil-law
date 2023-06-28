@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PASS-E EMPREENDIMENTOS IMOBILIARIOS LTDA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado no art.105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 63, e-STJ):
+AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA. TOGADO QUE JULGOU IMPROCEDENTE A IMPUGNAÇÃO APRESENTADA PELO DEVEDOR E HOMOLOGOU CÁLCULOS E VALORES APRESENTADOS PELO EXEQUENTE, NO QUE SE REFERE A CONDENAÇÃO - INDENIZAÇÃO POR ATRASO NA ENTREGA DE OBRA - OBJETO DO CUMPRIMENTO. INSURGÊNCIA DA EXECUTADA PRELIMINAR DE CERCEAMENTO DE DEFESA. PRETENDIDA A PRODUÇÃO DE PROVA PERICIAL PARA APURAÇÃO DOS CÁLCULOS DEVIDOS. INSUBSISTÊNCIA. DILAÇÃO PROBATÓRIA QUE SE MOSTRA DESNECESSÁRIA E NÃO TERIA O CONDÃO DE ALTERAR O RESULTADO DA LIDE. PROVAS DOCUMENTAIS E PARECER TÉCNICO TRAZIDO COM A EXORDIAL SUFICIENTES PARA FORMAR O CONVENCIMENTO DO JULGADOR. PREFACIAL RECHAÇADA. PRETENDIDA A REFORMA DA DECISÃO PARA DETERMINAR A PROVA PERICIAL, ALTERAR A DATA PARÂMETRO PARA FINS DE LUCROS CESSANTES. INACOLHIMENTO. CÁLCULO APRESENTADO PELO EXEQUENTE QUE SE MOSTRA CONDIZENTE COM OS PARÂMTROS ESTABELCIDOS NA SENTENÇA E NO ACÓRDÃO QUE JULGOU A LIDE PRINCIPAL. DECISÃO AGRAVADA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Oposto embargos de declaração (fls. 77/79, e-STJ), esses foram rejeitados.
+Nas razões do recurso especial (fls. 115/127, e-STJ), a recorrente alegou, além de dissídio jurisprudencial, violação aos artigos 370, 464 e 1026, § 2º do Código de Processo Civil/15. Sustentou, em síntese: i) cerceamento de defesa em razão do indeferimento da produção da pericial requerida; ii) a impossibilidade de aplicação da multa, visto que os embargos declaratórios não tinham o intuito protelatório.
+Contrarrazões às fls. 146/151, e-STJ.
+Em juízo de admissibilidade (fls. 154/158, e-STJ), negou-se seguimento ao reclamo com amparo na Súmulas 7 e 83 do STJ.
+Daí o agravo (fls. 165/178, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a insurgente refuta os óbices aplicado pela Corte estadual.
+Contraminuta às fls. 182/187, e-STJ.
+É o relatório.
+Decido.
+A irresignação merece prosperar, em parte.
+1. No tocante ao alegado cerceamento de defesa ante o indeferimento da produção da prova pericial, o Tribunal local assim concluiu (fl. 66, e-STJ):
+Incialmente pretende a Agravante seja reconhecido o cerceamento de defesa, por ausência de determinação de prova pericial, para apuração do valor devido a ser pago ao Agravado, haja vista a diferença encontrada entre os cálculos, anulando-se, por consequência, a decisão agravada, a fim de que seja realizada a perícia nos parâmetros definidos na sentença/acórdão que está abarcada pela coisa julgada.
+No entanto, é cediço que ao juiz, como destinatário final das provas, segundo disposição do art. 371 do Código de Processo Civil, cabe determinar a produção das provas necessárias à instrução do processo, ou ainda indeferir a produção de outras, ainda que requeridas pelas partes, quando verificar que constam informações suficientes a favor ou contra o direito invocado na exordial, e se tratar de diligências inúteis ou meramente protelatórias. In verbis: "O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento".
+E no caso em apreço, nada obstante as razões da Agravante, o juízo de origem julgou o feito de cumprimento de sentença, sem determinar a produção de prova pericial, justamente por entender que o acervo probatório constante nos autos, especialmente o parecer contábil apresentado pelo Exequente/Agravado se faziam suficientes ao seu convencimento, e, portanto, julgou o feito sem ver a necessidade de produção de outras provas, quiçá da prova pericial.
+(..)
+Nesse viés, denota-se que a realização de prova pericial contábil somente protelaria a prestação jurisdicional e em nada alteraria o convencimento do Juízo quanto ao contexto fático posto em julgamento, muito porque, trata-se de cálculo aritmético, feito com base nas datas indicadas nas decisões que deram ensejo ao cumprimento de sentença de origem.
+Como se vê, o acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que cabe ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, de acordo com o art. 370, CPC/15, não implicando cerceamento de defesa o indeferimento da dilação probatória, notadamente quando as provas já apresentadas pelas partes sejam suficientes para a resolução da controvérsia.
+O Tribunal local, após a análise do conjunto probatório constante dos autos, considerou que se insere no poder de livre apreciação da prova do magistrado decidir sobre a necessidade da produção de provas. Rever tal entendimento demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. SUBTRAÇÃO INDEVIDA EM CONTA BANCÁRIA. FALHA NA PRESTAÇÃO DE SERVIÇO. DANOS MATERIAIS E MORAIS COMPROVADOS. VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova oral e documental suplementar esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.
+2. A convicção a que chegou o acórdão acerca da ausência de provas da legalidade das transferências bancárias de valores depositados nas contas do autor e da ocorrência de danos morais no presente caso, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1448894/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/09/2019, DJe 24/09/2019)
+2. Por fim, a recorrente aponta ofensa ao art. 1.026, §2º, do CPC/2015, requerendo o afastamento da multa que lhe foi aplicada, tendo em vista que os embargos de declaração opostos contra o acórdão recorrido tiveram fins de prequestionamento.
+Assiste razão à recorrente, no ponto.
+O Tribunal a quo, ao apreciar os aclaratórios, aplicou multa à embargante, consoante seguinte trecho do julgado (fl. 105, e-STJ):
+Dessarte, considerando que não há vícios no acórdão vergastado, a não ser o firme intuito de rediscussão de matéria já decidida, imperativa a aplicação da multa prevista no art. 1.026, §2º do CPC, inclusive para evitar reiteração da conduta procrastinatória, a qual acarretará as consequências do §3º do dispositivo alinhavado.
+Ante o exposto, voto no sentido de conhecer e rejeitar os embargos de declaração, com aplicação de multa de 1% sobre o valor da causa atualizado, com supedâneo no art. 1.026, § 2º, do CPC/2015.
+Todavia, examinando as razões dos embargos (fls. 77/79, e-STJ) e o acórdão proferido no julgamento do recurso pela Corte Estadual, constata-se que os aclaratórios foram opostos também com o intento de prequestionar a matéria enfocada no âmbito do apelo especial, razão pela qual não há porque inquiná-los de protelatórios.
+Assim, aplicável ao caso a previsão constante da Súmula 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+Precedentes:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. VIOLAÇÃO DE SÚMULA E RESOLUÇÃO NORMATIVA. NÃO CABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. PLANO DE SAÚDE COLETIVO. EXONERAÇÃO DO EMPREGADO. AUSÊNCIA DE OPÇÃO, NO PRAZO REGULAMENTAR, POR MANTER A CONDIÇÃO DE BENEFICIÁRIO. EXTINÇÃO DO VÍNCULO COM A OPERADORA. POSSIBILIDADE. DIREITO DO EX-EMPREGADO AO EXERCÍCIO DA PORTABILIDADE DE CARÊNCIAS. DEVER DE COMUNICAÇÃO DA OPERADORA.
+(..)
+8. Afasta-se a multa do art. 1.026, § 2º, do CPC/2015 quando não se caracteriza o intento protelatório na oposição dos embargos de declaração.
+9. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.979.120/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Nesse cenário, os aclaratórios opostos com o propósito de prequestionar a matéria não tem caráter protelatório, como é o caso destes autos, devendo ser afastada a multa aplicada pelo Tribunal local.
+3. Do exposto, conheço do agravo e, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, dou parcial provimento ao recurso especial, tão somente para afastar a multa do artigo 1. 026, § 2º, do CPC/2015, imposta à recorrente no julgamento dos embargos de declaração.
+Publique-se.
+Intimem-se.
