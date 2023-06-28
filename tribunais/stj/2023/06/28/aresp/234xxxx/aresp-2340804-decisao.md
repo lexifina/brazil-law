@@ -1,0 +1,48 @@
+DECISÃO
+A controvérsia foi bem delineada no parecer ministerial às e-STJ fls. 255/257, in verbis:
+O agravante Jedaias Gomes Tavares foi condenado, em sentença, às penas de 8 anos de reclusão, em regime inicial fechado, e 120 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 157, §2º, I e II, do Código Penal, em razão dos seguintes fatos narrados na denúncia:
+ ..  no dia 09 de janeiro de 2018, por volta das 20h00, o denunciado Jedaias Gomes Tavares, na companhia de outro indivíduo não identificado e portando um simulacro de arma de fogo, subtraiu o aparelho celular pertencente à vítima Raimundo Nonato Barbosa Gaia. Fato ocorrido neste município.
+Segundo depoimentos constantes no inquérito, no dia e hora dos fatos, a vítima foi abordada à frente da casa de sua amiga, situada no Bairro Novo, ato contínuo o denunciado e outro indivíduo não identificado apontaram simulacros de arma de fogo para a vítima, que se viu obrigado a entregar o celular J2 Prime. Após, o denunciado e o outro indivíduo empreenderam fuga, tendo a vítima na companhia da testemunha Mario, pegado uma motocicleta e perseguido os assaltantes.
+Em dado momento da perseguição, a motocicleta que o denunciado fugia parou de funcionar, razão pela qual o denunciado e o outro comparsa empreenderam fuga a pé. Acionada a Polícia Militar, foi feita a apreensão da motocicleta usada no roubo, sendo que instantes após, o denunciado compareceu na Delegacia para registrar uma ocorrência de roubo da motocicleta apreendida, sendo na oportunidade reconhecido pela vítima como sendo um dos autores do roubo praticado contra si, razão pela qual efetuada a detenção do denunciado.
+Em sede policial o denunciado negou participação no delito de roubo praticado em desfavor da vítima, aduzindo que teria apenas emprestado a motocicleta para os nacionais "Tikinho" e "Frankestein" cometerem um roubo, para tanto iria receber R$ 50,00 (cinquenta reais), que no dia dos fatos encontrou-se com os assaltantes e foi informado pelos mesmos que a motocicleta teria sido apreendida, razão pela qual tentou inventar a história de que teria sido assaltado. Em relação às fitas encontradas consigo, aduz que foi entregue pelos assaltantes, tendo os mesmo utilizado a fita para confeccionar simulacros de arma de fogo.
+O Tribunal de origem deu parcial provimento à apelação defensiva, para redimensionar as penas para 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, e 14 dias-multa, no valor unitário mínimo, em acórdão assim ementado:
+EMENTA: APELAÇÃO PENAL. ROUBO MAJORADO. ART 157, §2º, I E II, DO CPB.
+1. DA ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DELITIVAS DEVIDAMENTE COMPROVADAS. A NEGATIVA DE AUTORIA APRESENTADA PELO APELANTE NÃO
+ENCONTRA SUPORTE NOS AUTOS, SENDO CONTRARIADA PELO DEPOIMENTO DA VÍTIMA PRESTADO NA FASE INQUISITIVA E CORROBORADO PELOS DEPOIMENTOS PRESTADOS EM JUÍZO PELAS TESTEMUNHAS. RECONHECIMENTO RATIFICADO EM JUÍZO E CORROBORADO POR OUTRAS PROVAS. CONJUNTO PROBATÓRIO APTO À MANUTENÇÃO DO ÉDITO CONDENATÓRIO, NÃO HAVENDO QUE SE FALAR EM AUSÊNCIA DE PROVAS, POIS, CONFORME VASTA JURISPRUDÊNCIA, A PALAVRA DA VÍTIMA, NOS CRIMES CONTRA O PATRIMÔNIO, ASSUME ESPECIAL RELEVÂNCIA.
+2. REVISÃO DA DOSIMETRIA. PROVIMENTO. O MAGISTRADO FUNDAMENTOU QUE O APELANTE AGIU COM CULPABILIDADE NORMAL, ENTRETANTO, CONSIDEROU O REFERIDO VETOR COMO DESFAVORÁVEL A ESTE, ASSIM COMO UTILIZOU FUNDAMENTAÇÃO GENÉRICA PARA VALORAR NEGATIVAMENTE O VETOR ATINENTE ÀS CONSEQÜÊNCIAS DO CRIME.
+3. NOVA DOSIMETRIA DA PENA. PROFERIDA A NOVA DOSIMETRIA, TORNOU-SE DEFINITIVA A PENA DE 06 ANOS, 02 MESES E 20 DIAS DE RECLUSÃO, EM REGIME INICIAL SEMI ABERTO, E 14 DIAS-MULTA, À RAZÃO DE 1/30 DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS.
+4. DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPROCEDENTE. AS CIRCUNSTÂNCIAS JUDICIAIS CONSIDERADAS PARA FINS DE
+FIXAÇÃO DA PENA EM PROL DA APELANTE, INDICAM QUE A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS NÃO É A MEDIDA SUFICIENTE E MAIS ADEQUADA PARA OS FINS DE REPRESSÃO E REEDUCAÇÃO DA PENA, NOS TERMOS DO ART. 44,1 E III, DO CPB. 5. DETRAÇÃO PENAL. IMPOSSIBILIDADE. QUANDO O CÔMPUTO DO PERÍODO DE PRISÃO PREVENTIVA NÃO ENSEJA QUALQUER ALTERAÇÃO NO REGIME PRISIONAL, A DETRAÇÃO COMPETE AO JUÍZO DAS EXECUÇÕES.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Irresignada, a Defesa interpôs recurso especial, fundado no art. 105, III, "a", da Constituição Federal, em que alegou ofensa ao art. 59 do Código Penal e, ao final, requereu a reforma do acórdão impugnado.
+O Tribunal de origem não admitiu o recurso especial, por incidência da Súmula 83/STJ.
+Daí a interposição do presente agravo, em que o agravante pretende que o recurso especial seja conhecido e provido.
+E o relatório.
+O Parquet opinou, então, pelo "não conhecimento do agravo e, se admitido, pela inadmissão do recurso especial e, subsidiariamente, pelo seu desprovimento" (e-STJ fl. 254).
+É o relatório.
+Decido.
+Na espécie, do que se pode depreender da leitura do acórdão vergastado, a elevação da pena-base, no caso, encontrou espeque nos antecedentes e nas circunstâncias do crime, tendo em vista que, quanto a este último vetorial, justificou-se que o delito foi cometido no período noturno, em via pública, mediante concurso de agentes e com emprego de arma de fogo.
+Pois bem, na análise desse vetorial, imperioso ao magistrado sentenciante apreciar, com base em fatos concretos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+Isso aqui não ocorreu.
+Reparem: ao citar como motivos para desfavorecer aquele vetorial, as instâncias ordinárias relataram que o agravante cometeu o crime no período noturno e em via pública, sem descrever outras particularidades que evidenciassem maior gravidade da conduta, parecendo-me, portanto, insuficientemente fundamentado o aumento operado na origem.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA O INCREMENTO DA PENA-BASE. REPRIMENDA REVISTA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No que tange à dosimetria, a individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. O simples fato de a conduta ter sido praticada durante o período noturno, sem respaldo em outro elemento concreto que denote a maior gravidade do delito, não permite a imposição da pena-base acima do piso legal, não constituindo motivação idônea para a exasperação da reprimenda na primeira fase da dosimetria. Precedentes.
+4. Writ não conhecido. Ordem concedida, de ofício, a fim de fixar a pena do paciente em 4 anos de reclusão, mais 10 dias-multa, ficando mantido, no mais, o teor do decreto condenatório.
+(HC 497.004/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/4/2019, DJe 8/4/2019.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. CONDUTA SOCIAL. AUSÊNCIA DE OCUPAÇÃO LÍCITA. FUNDAMENTAÇÃO INIDÔNEA. AFASTADA. CIRCUNSTÂNCIAS DO CRIME. DELITO PRATICADO NO PERÍODO NOTURNO. ELEMENTO QUE NÃO ULTRAPASSA O DESCRITO NO TIPO PENAL. QUESITO EXCLUÍDO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida pelos seus próprios fundamentos.
+2. Esta Corte firmou o entendimento no sentido de que a exasperação da pena-base, assim como o recrudescimento de qualquer tratamento direcionado ao réu acima do mínimo previsto em lei, deve ser fundamentado em elementos extraídos dos dados concretos constantes dos autos.
+3. Assim, existe ilegalidade na negativação da circunstâncias judicial referente à conduta social pela ausência de ocupação lícita do réu, bem como com relação às circunstâncias do ilícito pela prática do roubo em período noturno, sem que o modus operandi desborde do previsto no próprio tipo penal.
+4. Agravo regimental improvido.
+(AgRg no HC 460.713/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/12/2018, DJe 14/12/2018.)
+Outrossim, de acordo com a jurisprudência desta Corte, tendo sido consideradas as majorantes do concurso de agentes e uso de arma de fogo na terceira fase da dosimetria, utilizá-las na primeira etapa configura inaceitável bis in idem.
+Procedo, desse modo, ao redimensionamento da reprimenda aplicada ao agravante.
+Na primeira fase, fixo a pena-base no mínimo legal de 4 anos de reclusão.
+Na segunda etapa, a reprimenda não se altera.
+Na terceira fase, mantenho o percentual de 1/3 de aumento pelas majorantes do concurso de agentes e uso de arma de fogo, e torno definitiva a sanção de cada crime em 5 anos e 4 meses de reclusão.
+Mantido, no mais, o acórdão recorrido.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
