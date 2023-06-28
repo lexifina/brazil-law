@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DAVIRLEI BANDEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 9000334-41.2022.8.26.0637).
+Infere-se dos autos que, aos 12/8/2022, foi deferida a progressão do paciente ao regime semiaberto (e-STJ fls. 17/19).
+Inconformado, o Ministério Público interpôs agravo em execução. sustentando a necessidade de realização do exame criminológico. O Tribunal a quo proveu o recurso, para cassar a decisão que progrediu o agravado ao regime semiaberto, determinando-se que a análise do pedido de progressão fosse realizado à luz de exame criminológico, a ser determinado pelo nobre Magistrado (e-STJ fls. 31/36).
+Daí o presente writ no qual alega a defesa que a Lei n. 13.964/2019 "fixou o prazo de um ano para reabilitação do comportamento para fins de progressão de regime, desde que o lapso não tenha sido cumprido em momento anterior" (e-STJ fl. 6), nos termos do art. 112, § 7º, da LEP.
+Afirma, assim, que "limitou-se a análise do requisito subjetivo ao histórico de faltas graves do sentenciado, ratificando-se o processo de objetivização do requisito subjetivo necessário para a progressão de regime. Consolida-se, então, como única exigência à progressão de regime o cumprimento do lapso temporal e a ausência da prática de falta grave nos doze meses anteriores ou o cumprimento do requisito temporal exigível para a obtenção do direito após a data da conduta faltosa. Logo, não há mais espaço no ordenamento jurídico para a realização do exame criminológico, restando superada a súmula 439 do STJ" (e-STJ fl. 7).
+Requer, liminarmente e no mérito, a progressão de regime, independentemente de realização de exame criminológico.
+Indeferida a liminar (e-STJ fls. 40/41) e prestadas as informações (e-STJ fls. 49/51 e 52/60), manifestou-se o Ministério Público Federal em parecer assim ementado (e-STJ fl. 64):
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO A REGIME PRISIONAL SEMIABERTO. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA CERTIFICAR ATENDIMENTO DE REQUISITO SUBJETIVO. ACENTUADA PERICULOSIDADE DO APENADO E PRÁTICA DE FALTAS DISCIPLINARES. PRECEDENTES. PARECER POR NÃO CONHECIMENTO/DENEGAÇÃO DO WRIT SUBSTITUTIVO EM RESPEITO À JURISDIÇÃO E SEUS LIMITES.
+É, em síntese, o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isso porque, de acordo com as informações prestadas aos 3/1/2023 o paciente praticou falta grave ao não retornar da saída temporária, razão pela qual o regime semiaberto foi sustado, com fixação cautelar do regime fechado em decisão proferida aos 9/1/2023. O mandado de recaptura foi cumprido no dia 14/1/2023 (e-STJ fl. 49).
+Veja, ainda, o que está consignado nas informações:
+Este Juízo foi comunicado do julgamento do Agravo de Execução Penal nº 9000334-41.2022.8.26.0637 em 28/3/2023, segundo o qual: "Deram provimento ao RECURSO para cassar a decisão que progrediu o agravado ao regime semiaberto, determinando-se que a análise do pedido de progressão do agravado seja realizada à luz de exame criminológico, a ser determinado pelo nobre magistrado.".
+Em cumprimento ao v. Acórdão, foi observado que não há providências a serem tomadas quanto à transferência de regime, já que o executado já está preso em regime fechado. Contudo, quanto à determinação de exame criminológico, em razão da notícia da suposta prática de falta grave, que uma vez reconhecida, tem força para determinar o reinicio da contagem do tempo para a progressão de regime e to inabilitada a conduta do executado, repercutindo em seu comportamento carcerário determinado que se aguardasse o julgamento da falta.
+Assim, diante da substancial alteração fática e processual, fica esvaziado o objeto da impetração.
+Diante do exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
