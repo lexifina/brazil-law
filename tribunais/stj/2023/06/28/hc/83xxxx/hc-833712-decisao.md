@@ -1,0 +1,23 @@
+DECISÃO
+O paciente, condenado por porte ilegal de arma de fogo de uso permitido, se insurge contra acórdão proferido pelo Tribunal a quo, em recurso de apelação, e busca sua absolvição por ausência de provas.
+Decido.
+O habeas corpus não é segundo recurso apelação; requer a indicação de direito líquido e certo, juridicamente possível, amparado por prova pré-constituída das alegações, pois não comporta diligências, incursão probatória ou contraditório.
+O que se busca, por meio do writ, é a correção de ilegalidade ou abuso de poder, quando evidentes e atentatórios a direito de liberdade. Somente questões de direito comportam resolução nesta via.
+A revaloração probatória (e não o reexame subjetivo) é permitida na via do remédio heroico e ocorre quando se discute a ausência, a ilicitude ou ilegitimidade das provas que embasaram a convicção judicial. O objetivo é assegurar a observância dos princípios constitucionais e legais no processo, para garantir a justiça e a correta aplicação da legislação federal.
+É manifesto o descabimento do writ, pois o "Tribunal de origem firmou seu entendimento acerca da materialidade e autoria da infração no conjunto fático-probatório produzido no decorrer da lide, tornando inviável o seu reexame na via estreita do habeas corpus.  ..  (AgRg no HC n. 420.419/DF, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 19/2/2018).
+A sentença indicou, entre outros, os seguintes elementos para reconhecer a materialidade e a autoria do crime de porte ilegal de arma de fogo:
+a) boletim de ocorrência, informação pericial, laudo pericial, exame de natureza e prova oral produzida nos autos:
+b) esclarecimentos do réu, na fase inquisitorial, quando reconheceu que estava em uma bicicleta quando foram efetuados diversos disparos de arma de fogo contra ele e que o acertaram. Também "estava armado com uma arma de fogo" e "atirou contra os atiradores somente para se defender" (fl. 53);
+c) em juízo, o acusado negou os disparos e estar armado, dizendo não se recordar do que disse na delegacia;
+d) todavia, P.A. M, vítima da tentativa de homicídio, declarou "em audiência de instrução" que o "réu desferiu tiros contra eles" (fl. 54) e "que o réu estava armado" (fl. 54);
+e) a testemunha D.C. L corroborou que "na ocasião, houve um tiroteio, com muitos disparos, tendo o réu atirado contra P. e G" (fl. 54);
+f) embora não ouvido em Juízo, G.C.N., "narrou na delegacia que  ..  o réu efetuou disparos contra P. e ele" (fl. 54).
+Ainda que o réu tenha negado em juízo estar armado, é possível extrair da prova oral colhida durante a instrução, sob o crivo do contraditório, que portava uma arma de fogo no momento dos fatos ora apurados.
+Assim, existem provas aptas a amparar a convicção judicial e a mudança da conclusão do acórdão exigiria o reexame subjetivo do material produzido durante a instrução, o que é vedado em habeas corpus. O writ não se destina ao novo acertamento de fatos, mas à resolução de controvérsia jurídica.
+O pedido de "absolvição por falta de provas, com a desconstituição do que ficou estabelecido nas instâncias ordinárias, ensejaria a reexame aprofundado de todo conjunto fático-probatório, providência incompatível com os estreitos limites habeas corpus" (HC n. 770.542/RJ, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T. , DJe de 11/11/2022).
+A "pretensão absolutória não comporta conhecimento, nem sequer de ofício, pois traduz intenção de revolvimento de fatos e provas, incabível na via mandamental" (AgRg no HC n. 373.973/ES, relator Ministro Rogerio Schietti, 6ª T., DJe de 21/8/2018).
+O acolhimento do pedido defensivo "demandaria a minuciosa reanálise do conjunto fático-probatório do presente feito e da ação criminal originária, o que se mostra inviável por meio da via estreita do habeas corpus" (AgRg no HC n. 811.436/MG, relator Ministro Joel Ilan Paciornik, 5ª T., DJe de 18/5/2023.)
+Rever o acórdão recorrido, "demandaria o revolvimento de matéria fático/probatória dos autos, o que é inviável na sede mandamental" (AgRg no HC n. 797.796/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 15/5/2023).
+Há tempos, é uníssono o entendimento de que "O reexame de provas, à moda de segunda apelação em que se pretende discutir a justiça da condenação, não se ajusta ao âmbito angusto do habeas corpus, mormente em casos tais em que a sentença e o acórdão impugnado estão lastreados nos elementos de prova colhidos no decorrer do processo" (HC n. 62.273/SP, relator Ministro Hamilton Carvalhido, 6ª T., DJe de 22/4/2008).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
