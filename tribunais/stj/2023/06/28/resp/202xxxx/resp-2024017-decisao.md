@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento na alínea c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 1501112-63.2019.8.26.0583 (fls. 286/292):
+Furto simples - confissão corroborada pelas demais provas. Aplicação do princípio da insignificância - Subtração de R$ 100,00 (cem reais), em dinheiro.
+Absolvição por atipicidade material.
+No presente recurso especial, é indicado que a egrégia Corte paulista dissentiu da jurisprudência do Superior Tribunal de Justiça na interpretação dos arts. 155, caput, do Código Penal, e 386, inciso III, do Código de Processo Penal, autorizando a interposição do presente reclamo, com base no art. 105, inciso III, alínea "c", da Constituição Federal, com a seguinte tese: A habitualidade na prática de crimes da mesma espécie, conduta dotada de reprovabilidade social, afasta a aplicação do princípio da insignificância, ainda que de baixo valor o produto da subtração (fl. 309).
+Assevera o recorrente que, enquanto para a decisão recorrida a reincidência específica e os demais envolvimentos criminais do sentenciado por fatos análogos não podem ser considerados para afastar a aplicação do princípio da insignificância; Para o aresto paradigma essas circunstâncias impedem o reconhecimento da atipicidade da conduta pela aplicação do princípio da bagatela, pois a reiteração delitiva, notadamente a reincidência específica, evidencia a maior reprovabilidade da conduta, o que não se coaduna com o reconhecimento de sua insignificância (fl. 320).
+Ao final de peça recursal, o Ministério Público de São Paulo seja admitido e deferido o processamento do presente recurso especial por essa egrégia Presidência, com oportuna remessa ao Superior Tribunal de Justiça, para que seja conhecido e provido, cassando-se o acórdão impugnado, para afastar a aplicação do princípio da insignificância, e restabelecer a decisão condenatória de primeira instância (fl. 321).
+Oferecidas contrarrazões (fls. 334/343), o recurso especial foi admitido na origem (fl. 347).
+O Ministério Público Federal opina pelo não conhecimento e desprovimento da insurgência (fls. 356/361):
+RECURSO ESPECIAL. CRIME DE FURTO. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDENTE. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIOJURISPRUDENCIAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA AO REINCIDENTE. PARECER PELO NÃO CONHECIMENTO DO RECURSO; MAS, SE O FOR, DEVE PELO SEU DESPROVIMENTO.
+É o relatório.
+Quanto ao pedido de afastamento do reconhecimento da bagatela, é forçoso anotar que a incidência do princípio da insignificância afigura-se inviável no caso em tela.
+Com efeito, se o valor do bem furtado era equivalente a mais de 10% do valor do salário mínimo vigente à época dos fatos, não se pode considerá-lo como inexpressivo, sendo descabida a incidência do princípio da insignificância.
+A propósito, colaciono precedentes da Sexta Turma desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INIMPUTABILIDADE. AUSÊNCIA DE EXAME DE DEPENDÊNCIA QUÍMICA. ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. PRINCÍPIO DA INSIGNIFICÂNCIA. RÉU REINCIDENTE EM CRIMES PATRIMONIAIS. REGIME MAIS GRAVOSO FIXADO EM RAZÃO DA REINCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo destacou que as mostras de consciência e habilidade no cometimento do delito contrariam a tese de inimputabilidade. Infirmar tal conclusão demanda reexame fático-probatório, vedado em habeas corpus.
+2. Além de o valor do bem supostamente subtraído não poder ser considerado irrisório - R$ 85,00, o que equivale a aproximadamente 11% do salário-mínimo vigente à época dos fatos -, não há como reconhecer a irrelevância penal da conduta, por ausência do reduzido grau de reprovabilidade do comportamento do agente, visto que o réu é reincidente.
+3. O regime inicial de cumprimento da pena foi fixado em razão dos maus antecedentes e da reincidência do paciente, elementos suficientes, nos termos da jurisprudência desta Corte Superior, para justificar a imposição do regime mais gravoso 4. Agravo regimental não provido.
+(AgRg no HC n. 517.453/SP, Ministro Rogério Schietti Cruz, Sexta Turma, DJe 23/6/2020 - grifo nosso).
+HABEAS CORPUS. PENAL E PROCESSO PENAL. FURTO SIMPLES. TENTATIVA. DUAS BOLSAS TÉRMICAS. AVALIAÇÃO EM R$ 105,80 (CENTO E CINCO REAIS E OITENTA CENTAVOS). 11 % DO SALÁRIO MÍNIMO VIGENTE. REINCIDÊNCIA ESPECÍFICA. HABITUALIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ORDEM DENEGADA.
+1. Embora pequeno o valor da res furtiva - duas bolsas térmicas no valor de R$ 105,80, correspondente a aproximadamente 11% do salário mínimo vigente à época, subtraídas de estabelecimento comercial local -, a reincidência específica e a habitualidade delitiva também específica do paciente, caracterizadas pela existência de outras ações penais e inquéritos policiais em curso, são suficientes para afastar a aplicação do princípio da insignificância. Precedentes.
+2. Habeas corpus denegado.
+(HC n. 520.536/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/10/2019 - grifo nosso).
+Logo, tenho que a posição adotada pelo Tribunal paulista , neste particular -aplicabilidade do princípio da insignificância -, está em dissonância com a jurisprudência desta Corte Superior de Justiça.
+Dessa forma, impõe-se o retorno dos autos à origem para análise das teses subsidiárias apresentadas no recurso de apelação defensivo.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar o reconhecimento da bagatela, determinando o retorno dos autos para apreciação das remanescentes teses defensivas constantes da apelação criminal.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO SIMPLES. DISSÍDIO JURISPRUDENCIAL. PLEITO DE DECOTE DO RECONHECIMENTO DA BAGATELA. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVAE: R$ 100,00. VALOR QUE NÃO SE REVELA ÍNFIMO. REFERENCIAL ACIMA DE 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. JURISPRUDÊNCIA DE AMBAS AS TURMAS. DETERMINADO O RETORNO DOS AUTOS PARA APRECIAÇÃO DAS DEMAIS TESES DEFENSIVAS.
+Recurso especial provido nos termos do dispositivo.
