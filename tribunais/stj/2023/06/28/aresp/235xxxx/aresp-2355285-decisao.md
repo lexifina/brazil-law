@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NOEMI TEOBALDO MENDES FERARI, contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, da Constituição Federal.
+Agravo em recurso especial interposto em: 29/11/2022.
+Concluso ao gabinete em: 21/06/2023.
+Ação: inventário dos bens deixados por Maurício Ferari, com quem a ora agravante era casada sob o regime da separação legal de bens.
+Decisão interlocutória: asseverou que a agravante não concorre à herança com os descendentes do de cujus, não tem direito à meação sobre o único bem inventariado - imóvel residencial -, tampouco faz jus ao direito real de habitação.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ fl. 41):
+"AGRAVO DE INSTRUMENTO. INVENTÁRIO. INSURGÊNCIA CONTRA A DECISÃO QUE ASSENTOU NÃO CONCORRER A VIÚVA COM OS DESCENDENTES DO DE CUJUS À HERANÇA, NÃO TER DIREITO À MEAÇÃO SOBRE O IMÓVEL INVENTARIADO E TAMPOUCO FAZER JUS AO DIREITO REAL DE HABITAÇÃO. DESCABIMENTO. RECURSO DESPROVIDO. Inventário. Insurgência contra a decisão que assentou não concorrer a viúva com os descendentes do de cujus à herança, não ter direito à meação sobre o imóvel inventariado e tampouco fazer jus ao direito real de habitação. Descabimento. Cônjuge sobrevivente excluída da sucessão, por força do art. 1829, I, do CC, pois casada como de cujus sob o regime da separação obrigatória de bens. Ausência de direito à meação da agravante, adquirido o imóvel objeto da partilha - único bem inventariado - antes do casamento. Agravante que tampouco faz jus ao direito real de habitação, incontroversa a contração de novas núpcias, situação incompatível com a finalidade protetiva do art. 1831 do Código Civil. Decisão mantida. Recurso desprovido".
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: interposto pela agravante, foi inadmitido pelo TJ/SP com base nos seguintes fundamentos: (i) inviabilidade de exame de violação a normas constitucionais; (ii) ausência de violação dos arts. 489 e 1.022 do CPC; (iii) ausência de demonstração da violação dos arts. 1.640, 1829, I, 1.831 do CC/02, 258 e 259 do CC/16; (iv) incidência da Súmula 7/STJ.
+Parecer do MPF: pelo julgamento do feito, sem opinião meritória.
+RELATADO O PROCESSO, DECIDE-SE.
+Da leitura da petição do agravo em recurso especial (e-STJ fls. 183/198), verifica-se que a agravante não impugnou, especificamente, todos os fundamentos da decisão agravada.
+Com efeito, limitando-se a reiterar os argumentos de mérito do recurso especial e a postular a concessão de tutela provisória de urgência, a agravante: (i) nada argumentou acerca da inviabilidade de exame de suposta violação de dispositivo constitucional; (ii) não demonstrou, de maneira arrazoada, em que consiste a suposta negativa de prestação jurisdicional; (iii) não demonstrou, de forma consistente e pontual, como o acórdão recorrido violou os arts. 1.640, 1829, I, 1.831 do CC/02, 258 e 259 do CC/16; e, (iv) não demonstrou a inaplicabilidade da Súmula 7/STJ às questões concretamente debatidas no recurso especial.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão de inadmissão do recurso especial, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
