@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de EDGLY DUTRA BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Apelação n. 0000931-26.2018.8.06.003).
+Depreende-se dos autos que o paciente foi condenado, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), e 2º, § 2º, da Lei n. 12.850/2013 (organização criminosa), ao cumprimento de 15 anos de reclusão, em regime fechado (e-STJ fls. 56/57).
+Interposta apelação pela defesa, o Tribunal local deu parcial provimento ao recurso para reduzir a pena para 9 anos e 6 meses de reclusão, mantidos os demais termos da condenação, conforme acórdão ementado às e-STJ fls. 58/60.
+Daí o presente writ, em que a defesa alega ser devida a absolvição quanto ao delito de tráfico de drogas, sustentando que, ""no caso em tela, embora as provas oriundas das das conversas e fotografias extraídas de um dos aparelhos celulares apreendidos com o Paciente possam evidenciar que o mesmo supostamente forneceria, adquiria, vendia e/ou oferecia "drogas" a terceiros, não vislumbramos como subsistir a condenação pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, se, em nenhum momento, houve a apreensão de qualquer substância entorpecente, seja em poder dele, seja em poder de terceiros não identificados" (e-STJ fl. 11).
+Diante dessas considerações, requer, liminar e definitivamente, a absolvição do paciente quanto ao delito de tráfico de drogas.
+É, em síntese, o relatório.
+Decido.
+A presente irresignação não merece ter curso, pois se trata de mera reiteração de agravo em recurso especial anteriormente dirigido a esta Corte (ARESP n. 2.066.175/CE) - interposto em favor do ora pa ciente, contra o mesmo acórdão e com os mesmos pedidos e causa de pedir -, estando os autos conclusos para julgamento.
+Assim, o proceder da defesa caracteriza mera reiteração de pedido, providência essa inviável.
+No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022, grifei.)
+Ante o exposto, com base do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
