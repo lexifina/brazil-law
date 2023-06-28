@@ -1,0 +1,28 @@
+DECISÃO
+CLAYTON FONSECA DIAS DE CARVALHO agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que deu parcial provimento ao pelo defensivo para absolver o recorrente da prática dos crimes de receptação qualificada, adulteração de sinal de veículo e falsidade ideológica, mantendo a condenação pelo crime do art. 2º da Lei n. 12.850/2013.
+A defesa aponta a violação dos arts. 156 do CP e 1º e 2º da Lei n. 12.850/2013 alegando, em síntese, a não configuração do crime de organização criminosa, sendo de rigor a absolvição do recorrente.
+Contrarrazões às e-STJ fls. 4.291/4.294.
+Manifestação do Ministério Público Federal pelo não provimento do recurso especial às e-STJ fls. 4.454/4.462.
+É o relatório. Decido.
+A irresignação não prospera.
+O pedido de absolvição da defesa não procede, porquanto consta do acórdão recorrido que a materialidade e a autoria do crime de organização criminosa ficaram devidamente comprovadas. Confira-se:
+De todo modo, neste momento, os elementos coligidos se mostram plenamente aptos à demonstração da materialidade delitiva, isto é, não restam dúvidas de que fato houve a estabilização de uma organização criminosa destinada à comercialização de tratores adulterados. Assim, a questão não está a merecer maiores delongas.
+Finalmente, adentrando a análise das autorias delitivas, tenho que, conquanto as partes pretendam afastá-la, de igual modo não consente dúvidas.
+A lei 12.850113 descreve os elementos necessários para a configuração da organização criminosa:
+ ..
+Noutras palavras, não há como se exigir provas diretas do liame entre os agentes como únicos meios capazes de legitimar a condenação dos envolvidos, pois tal exigência conduziria á própria inocuidade da previsão tipificada no preceito do ad. 21 da Lei nº 12.850113; pelo contrário, a experiência ordinária nas lides penais demonstra que o delineamento do crime de organização criminosa se dá pelo cotejo de diversos elementos de convicção circunstanciais, os quais, tomados em unidade, formam um conjunto probatório robusto e hábil á sedimentação da convicção do julgador, com lastro no princípio do livre convencimento motivado. Isto posto, concebo que o crime pelo qual os acusados foram condenados restou satisfatoriamente delineado pelos dados coligidos durante a toda a persecutio criminis, consoante pertinente análise realizada na sentença ora combatida e nas manifestações do Ministério Público em ambas as instâncias, malgrado os respeitáveis argumentos defensivos. Não restam dúvidas de que os apelantes associaram-se entre si para o específico fim de perpetrarem, com a conjugação de seus esforços, a adulteração e comercialização de tratores e implementos agrícolas receptados.
+ ..
+In casu, tem-se que o modus operandi da organização criminosa e o vínculo associativo entre seus integrantes restaram suficientemente comprovados pelos testemunhos e demais provas colhidas ao decorrer da instrução, notadamente pelos depoimentos dos investigadores da Polícia Civil Fernando de Souza Fernandes e Trajano Helias Fernandes, bem como do ex-funcionário réu Clayton, Diego da Silva Lima.
+ ..
+E não há falar que a condenação baseou-se tão somente em sua palavra, tendo em vista os vários outros elementos de provas existentes nos autos, tais como os relatos das vítimas e os laudos periciais acostados.
+ ..
+Pois bem. Conforme se observa, a participação de Clayton na organização restou devidamente comprovada. Prosseguindo, a participação do réu Ederson Ferreira Caixeta, vulgo "Burrinho", também restou demonstrada. Ao que consta, Ederson era encarregado de manter os tratores em depósito até o momento da venda. (e-STJ fls. 3.971/3.987)
+Tendo as instâncias de origem concluído que o acusados infringiram o verbo nuclear "integrar", contido no preceito primário do art. 2º da Lei n. 12.850/2013, a pretendida absolvição dos réus, no ponto, demandaria reexame fático-probatório, incabível na via eleita (Súmula 7 do STJ) (ut, AgRg no REsp n. 2.002.446/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 26/5/2023).
+Destaca-se, ainda, o seguinte julgado:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. TIPICIDADE. ELEMENTOS DO TIPO PENAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECONHECIMENTO DE INEXISTÊNCIA DE LIAME SUBJETIVO PARA A ORGANIZAÇÃO CRIMINOSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. UTILIZAÇÃO DE ELEMENTOS ULTRAPASSAM AS CARACTERÍSTICAS ÍNSITAS AO TIPO. FUNDAMENTOS IDÔNEOS. SÚMULA 568/STJ. SEGUNDA FASE. AGRAVANTE. VALORAÇÃO DE CIRCUNSTÂNCIAS DIVERSAS DA UTILIZADAS NA PRIMEIRA FASE. INOCORRÊNCIA DE BIS IN IDEM. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA. ARREPENDIMENTO EFICAZ. VOLUNTARIEDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ.
+III - Para infirmar as conclusões do v. acórdão guerreado, no sentido de que houve a comprovação do liame subjetivo necessário para a configuração do delito previsto no art. 2º da Lei n. 12.850/2013, seria necessário o reexame do conjunto fático-probatório, inviável em sede de recurso especial em razão da Súmula 7/STJ.
+ ..
+Agravo regimental desprovido. (AgRg no AREsp n. 1.404.659/SC, relator Ministro Felix Fischer, Quinta Turma, DJe de 26/2/2019 )
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
