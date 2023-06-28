@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCIO FERREIRA SANTOS, em face de decisão monocrática de minha lavra às fls. 440/443, que conheceu e deu provimento a recurso especial, para aplicar a tese firmada no Tema 905/STJ, e determinar a "incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009)". (fl. 443).
+A embargante, em suas razões, sustenta que a decisão incorre em omissão quanto à alegação de ofensa aos arts. 86, § 3º e 124, da Lei 8.213/91, bem como ao dissídio jurisprudencial invocado.
+Argumenta, ainda, que "o Autor demonstrou que merecia reforma a determinação do r. acordão quanto ao desconto dos períodos em que gozou do auxílio-doença (NB 536.237.789-9), tendo em vista que este fora concedido em razão de ""transtornos mentais (fls. 118)", enquanto ao auxílio-acidente deferido na presente demanda se deu em razão das moléstias nos ombros." (fl. 448).
+Sem impugnação (fl. 457).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para correção de erro material.
+E, no caso dos autos, assiste razão ao embargante, pois há omissão, porque a decisão recorrida não se manifestou acerca da alegada violação dos arts. 86, § 3º e 124, da Lei 8.213/91, bem como respectiva tese, em que sustenta seu direito de cumular o recebimento de auxílio-acidente com auxílio-doença, por expressa ausência de previsão legal para a suspensão de um benefício quando lhe foi concedido o outro.
+Sigo à manifestação neste momento, e tenho que, neste ponto, o recurso não logra êxito.
+Isto porque o Tribunal de origem não se manifestou sobre a alegação de ausência de previsão legal para a suspensão do benefício de auxílio-acidente pelo período em que houve recebimento de auxíio-doença, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF, situação que impede, ainda, a análise da divergência pretoriana invocada.
+ANTE O EXPOSTO, acolho os embargos, apenas para sanar a omissão apontada.
+Publique-se.
