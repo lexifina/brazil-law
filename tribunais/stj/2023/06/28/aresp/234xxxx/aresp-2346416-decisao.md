@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por Antonio Barbosa de Sousa Sobrinho contra a decisão proferida pelo Tribunal de Justiça do Tocantins que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0002870-84.2021.8.27.2740/TO, assim ementado (fls. 204/205):
+APELAÇÃO CRIMINAL. RECEPTAÇÃO. PLEITO DE ABSOLVIÇÃO. ATIPICIDADE. NÃO OCORRÊNCIA. TESE DE INSUFICIÊNCIA DE PROVA QUANTO A AUTORIA DO DELITO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA QUANTO À ORIGEM LÍCITA DO BEM ADQUIRIDO. DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. INVIABILIDADE. DOSIMETRIA. MÚLTIPLA REINCIDÊNCIA. MAUS ANTECEDENTES E AGRAVANTE DA REINCIDÊNCIA. BIS IN IDEM. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. INDENIZAÇÃO CÍVEL. PEDIDO EXPRESSO NA DENÚNCIA. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. COMPROVAÇÃO DO DANO. AUSÊNCIA DE PROVA EM CONTRÁRIO. APELO NÃO PROVIDO.
+1- No delito de receptação dolosa, a simples alegação de atipicidade da conduta, ao argumento de desconhecimento da origem ilícita do bem apreendido, não é suficiente por si só para desconstituir a condenação, se as provas produzidas nos autos indicam situação diversa. Tendo sido a res furtiva apreendida em poder do agente, a inversão do ônus da prova deve se operar, cabendo a ele justificar a legitimidade da sua posse, sob pena de se presumir a sua responsabilidade.
+2- Não havendo dúvidas do conhecimento, pelo réu, da origem ilícita do bem apreendido em seu poder, é correta a condenação pelo crime do art. 180, caput, do Código Penal, na modalidade dolosa.
+3- A materialidade e autoria do delito estão demonstradas pelas provas documentais, pela confissão, bem como pela oitiva judicializada da testemunha, delegado de polícia.
+4- Segundo entendimento firmado no âmbito do STJ, "no crime de receptação, se o bem houver sido apreendido em poder do paciente, caberia à defesa apresentar prova da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova". (HC 421.406/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/03/2018, DJe 12/03/2018).
+5- Tratando-se de réu multirreincidente, os precedentes jurisprudenciais autorizam a utilização de uma delas na primeira fase da dosimetria, e a segunda para agravar a pena em razão da reincidência. Precedentes.
+6- Deve ser mantida a fixação do valor mínimo para reparação dos danos causados pelo crime, prevista no art. 387, inciso IV, do CPP, em tendo sido precedida de pedido expresso e formal da acusação, oportunizando-se a ampla defesa e o contraditório.
+7- O fato de a defesa não produzir prova em sentido contrário, não macula a sentença.
+8- Apelação criminal conhecida e não provida.
+Nas razões do especial, a Defensoria Pública apontou contrariedade ao art. 387, IV, do Código de Processo Penal, buscando, em suma, a exclusão do valor mínimo fixado para fins de reparação dos danos causados pela infração, dada a ausência de instrução específica, ou então a redução do quantum fixado, no importe de R$ 500,00 (quinhentos reais), levando-se em conta a extensão do dano, bem como a condição financeira do acusado (fls. 222/224).
+Apresentadas contrarrazões (fls. 232/236), o Tribunal estadual não admitiu o recurso, por incidência das Súmulas 7 e 83/STJ (fls. 242/245).
+Daí o presente agravo (fls. 255/264). Instado a se manifestar, o Ministério Público Federal opina pelo desprovimento do agravo, nos termos da seguinte ementa (fl. 287):
+AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. REPARAÇÃO DE DANOS. NECESSIDADE DE INSTRUÇÃO ESPECÍFICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. HIPÓTESE EM QUE HOUVE PEDIDO EXPRESSO DE INDENIZAÇÃO, ALÉM DE INDICAÇÃO DO VALOR DO BEM RECEPTADO. SÚMULAS 7 E 83/STJ.
+- Parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Todavia, com razão o nobre parecerista: a irresignação não merece acolhimento.
+Na sentença, o Magistrado fixou o valor mínimo de R$ 500,00 (quinhentos reais) para reparação dos danos causados pela infração, na forma do art. 387, inciso IV, do Código de Processo Penal (fl. 100).
+Ao julgar a apelação, consignou o Tribunal de origem (fls. 194/197 - grifo nosso):
+ ..  INDENIZAÇÃO À VÍTIMA
+Sobre o tema, o inciso IV do art. 387 do Código de Processo Penal, importante inovação introduzida pela Lei n. 11.719/2008, determina ao juiz que fixe na sentença condenatória um valor mínimo ao ofendido, a título de reparação.
+Salienta-se que bem antes da entrada em vigor da Lei n. 11.719/20 08, o dever de indenização cível sempre esteve previsto na seara penal, especificamente no art. 91, inciso I, Código Penal, embora raramente praticada e efetivada.
+Portanto, a nova redação do art. 387, inciso IV, do CPP, apenas simplificou e instrumentalizou de forma mais eficaz o que já era determinado e previsto pelo direito material (Código Penal).
+In casu, curvo-me à posição majoritária do Superior Tribunal de Justiça e desta Corte Estadual, que entendem que para a sua fixação, é indispensável o pedido expresso e formal da acusação, oportunizando-se a ampla defesa e o contraditório.
+Nesse sentido:
+ ..
+Quanto ao mais, consta da denúncia pedido expresso de valor mínimo para reparação dos danos à vítima.  ..
+O acórdão recorrido não destoa do entendimento firmado nesta Corte Superior.
+Consoante se depreende da transcrição acima, houve pedido expresso e formal na inicial acusatória acerca da reparação dos danos sofridos pela vítima, tendo o órgão ministerial até mesmo indicado o valor do aparelho celular objeto da receptação (fls. 3/4).
+Assim, não se constata nenhuma violação ao citado dispositivo, porquanto decidiram as instâncias ordinárias em sintonia com a jurisprudência desta Corte, incindindo, no caso, a Súmula 568/STJ.
+A propósito: AgRg no REsp n. 2.055.377/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/4/2023; AgRg no REsp n. 2.011.530/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/10/2022; AgRg no REsp n. 1.961.285/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/4/2022; dentre outros.
+Não é outra a opinião do Subprocurador-Geral da República (fls. 289/290 - grifo nosso):
+ ..  In casu, o Juízo sentenciante fixou o valor de R$ 500,00 a título de reparação de danos, valor inferior ao da avaliação do celular receptado (R$ 650,00), não havendo que se falar em ofensa aos princípios da proporcionalidade e da razoabilidade (sentença - fl. 100).
+Além disso, colhe-se da denúncia que o Ministério Público realizou requerimento expresso no sentido de fixação de valor mínimo indenizatório em razão dos danos suportados pela vítima, apontando o valor do bem receptado, o que de fato preenche todos os requisitos legais e está de acordo segundo a jurisprudência desta Corte, e se a defesa não contraditou o pedido da acusação deve suportar o ônus de sua desídia:
+ ..
+Em outras palavras, verificado que o Ministério Público requereu a fixação de indenização mínima e a defesa não exerceu o contraditório, esta deve arcar com as consequências processuais em seu desfavor.
+Assim, verificando-se que o acórdão recorrido está em harmonia com a jurisprudência dessa Corte, incide à espécie o disposto na Súmula 83/STJ, tal como salientado pela decisão agravada.
+Ademais, rever o entendimento das instâncias ordinárias acerca dessa questão demandaria, forçosamente, o revolvimento do acervo fático-probatório delineado nos autos, procedimento inviável no âmbito do recurso especial, em razão do óbice previsto na súmula 7 desta Corte.  ..
+Em relação ao valor fixado, constata-se que não houve discussão e debate acerca da condição financeira ou mesmo da alegada incapacidade econômica do réu para reparar o dano causado pela infração penal, o que obsta o conhecimento do recurso especial, quanto ao ponto, por falta do indispensável prequestionamento (Súmula 282/STF). Na mesma linha: REsp n. 1.918.544/SP, Ministro Antonio Saldanha Palheiro, Sexta T urma, DJe 26/11/2021; e AgRg no REsp n. 1.860.267/MT, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2021.
+Além disso, é evidente que a pretensão recursal, de alteração do valor fixado a título de reparação de danos, demanda a revisão do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Confiram-se o AgRg no AREsp n. 2.301.387/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/5/2023; o AgRg no AREsp n. 2.037.038/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/6/2022; o AgRg nos EDcl no AREsp n. 1.923.215/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2022; o AgRg no REsp n. 1.958.642/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/12/2021; o AgRg no AREsp n. 1.660.264/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/8/2020; e o AgRg no AREsp n. 1.487.892/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, I, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. REPARAÇÃO DOS DANOS CAUSADOS PELA INFRAÇÃO. PEDIDO DE EXCLUSÃO. ART. 387, IV, CPP. EXISTÊNCIA DE PEDIDO FORMAL E EXPRESSO NA INICIAL ACUSATÓRIA. DANO QUANTIFICADO NA ORIGEM. AMPLA DEFESA E CONTRADITÓRIO OPORTUNIZADOS. SENTENÇA E ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. CONDIÇÃO FINANCEIRA DO ACUSADO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REVISÃO DO QUANTUM. DESCABIMENTO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
