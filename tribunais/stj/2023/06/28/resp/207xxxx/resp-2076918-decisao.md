@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRUNO INDUSTRIAL LTDA. com base na alínea "a" do permissivo constitucional mediante o qual se impugna acórdão promanado do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 2.595):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA, SAT/RAT E CONTRIBUIÇÕES PARA TERCEIROS. PAGAMENTO DOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA/ACIDENTE. CONTRIBUIÇÃO DOS EMPREGADOS.
+A empresa não tem o direito de eximir-se da retenção e recolhimento das contribuições previdenciárias de seus próprios empregados.
+Embargos de declaração rejeitados (e-STJ fls. 2.639/2.644).
+Em seu recurso especial, a ora recorrente aponta violação dos arts.: 8º, 141, 489, § 1º, 490, 492, 494, 505, 507, 926, 1.034, 1.013, §§ 1º e 3º; 1.022 do CPC/2015; 20 e 30, I, "a", da Lei n. 8.212/91; e 121, II, do CTN.
+Sustenta, em síntese relevante, que o valor descontado dos empregados a título de contribuição previdenciária, pelo empregador, não deveria compor a base de cálculo da contribuição previdenciária patronal.
+Contrarrazões às e-STJ fls. 2.718/2.726.
+Juízo de retratação negativo (e-STJ fls. 2.794/2.800).
+Recurso especial admitido (e-STJ fls. 2.870/2.871).
+Passo a decidir.
+Em sessão de julgamento realizada em 12/04/2023, a Primeira Seção do STJ, acolhendo Questão de O rdem proposta pelo Ministro relator Herman Benjamin, decidiu afetar à sistemática dos recursos repetitivos os REsps: 2.023.016/RS, 2.027.413/PR e 2.027.411/PR, para possibilitar o julgamento conjunto com os Recursos Especiais n. 2.005.289/SC, 2.005.029/SC, 2.005.087/PR e 2.005.567/RS, já afetados, com a seguinte tese controvertida (Tema 1.174):
+Possibilidade de excluir as seguintes verbas da base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao SAT/RAT: a) valores relativos à contribuição previdenciária do empregado e do trabalhador avulso e ao imposto de renda de pessoa física, retidos na fonte pelo empregador; b) parcelas retidas ou descontadas a título de coparticipação do empregado em benefícios, tais como: vale-transporte, vale-refeição e plano de assistência ou odontológico, entre outros.
+Na oportunidade, determinou-se a suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a mesma matéria e tramitem em todo o território nacional.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro M auro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.502.464/RS, AREsp 848.627/PB, REsp 1.574.944/PB; e AREsp 779.676/PB, todos da relatoria do em. Ministro Benedito Gonçalves, DJe 02/12/2015, 08/03/2016, 04/03/2016 e 03/02/2016, respectivamente.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa a evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
