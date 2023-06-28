@@ -1,0 +1,49 @@
+DECISÃO
+DIEGO GEIZIEL DE OLIVEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa busca a concessão, em favor do paciente, de livramento condicional e, subsidiariamente, da progressão ao regime aberto, pois reputa preenchidos os requisitos legais.
+Decido.
+Infere-se dos autos que o paciente cumpre pena de 14 anos, 6 meses e 11 dias de reclusão, atualmente em regime semiaberto, cujo término está previsto para 19/9/2029 (fl. 24).
+Formulado em seu favor pedido de livramento condicional, este foi indeferido pelo Magistrado da execução, por meio de decisão assim fundamentada (fl. 91-92):
+Verifica-se que o executado ostenta lapso para a concessão do livramento condicional. Não obstante, de se ponderar que o sentenciado praticou faltas disciplinar no curso da execução, uma delas de natureza grave, não tendo atendido, portanto, ao requisito previsto no art. 83, III, a, do Código Penal, que exige o "bom comportamento durante a execução da pena".
+Além do vetor legal, temos o da prudência, que indica ao julgador a necessidade, em se tratando de executado faltoso no curso da execução, de observância do sistema progressivo, deixando de conceder a liberdade antecipada àquele que tem o dever de demonstrar aptidão para o retorno ao convívio social, pois de seu histórico carcerário não se extrai tal certeza.
+Anote-se que não se pode tratar o executado faltoso da mesma forma que aquele que atendeu integralmente às regras impostas no curso do cumprimento da pena. A concessão do beneficio viola o princípio da individualização da pena, o que não pode ser aceito.
+Nesse sentido, tese de número 13, do STJ. "A falta disciplinar grave impede a concessão do livramento condicional, por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do art. 83, III, do Código Penal - CP".
+ ..
+Pelo exposto, indefiro o pedido.
+O Tribunal a quo ratificou o decisum supra, sob os seguintes fundamentos (fls. 81-84):
+Quanto ao Livramento Condicional, foi indeferido dada a notícia de cometimento de falta disciplinar, cuja sindicância estaria em andamento. Ademais, convém anotar que o cálculo juntado a estes autos demonstra que o paciente sofreu regressão de regime em 03.10.2022 (fl. 30), com soma de penas, ou seja, nova condenação.
+Desta forma, o indeferimento do Livramento não se eiva de ilegalidade, porquanto há demonstração de ausência de bom comportamento no curso da execução e de se manter resistente e refratário, não absorvendo a terapêutica penal a que está submetido.
+Inaceitável, ademais, a tese de superveniência da prescrição da falta grave, refutada pela d. autoridade impetrada, por analogia à semestralidade prevista nas sanções administrativas instituídas no Regime dos Servidores Públicos Federais Lei 8.112/90.
+Isso porque, segundo remansosa jurisprudência, deve-se observar o menor lapso previsto nos incisos do artigo 109 do Código Penal, no qual há tratamento particular sobre a prescrição.
+ ..
+Além do mais, no caso dos autos, consta interrupção por evasão praticada em 27/09/2017. Frise-se, contudo, que a recaptura deu-se somente em 23/09/2021. Então não há que se falar em prescrição da falta.
+Em conclusão, não há ilegalidade em não considerar prescrita a falta e se homologar o cálculo de penas e nem em se indeferir o livramento condicional com base na ausência de bom comportamento do réu.
+O regime aberto também foi indeferido, com base no cálculo de progressão (fls. 27/30 destes autos), que aponta a data aquisitiva como 01.01.24. Não há qualquer ilegalidade na decisão, porquanto o paciente ainda não cumpriu o requisito objetivo necessário para a aquisição do benefício.
+Portanto, inexiste constrangimento ilegal a ser sanado pela estreita via do writ.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe de 16/5/2022).
+In casu, verifico que o acórdão impugnado está em conformidade com a tese jurídica fixada pela Terceira Seção no Tema Repetitivo n. 1.161, in verbis:
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena.
+5. Recurso especial provido.
+(REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, 3ª S., DJe 1º/6/2023, destaquei)
+O atestado emitido pela direção carcerária não assegura o livramento condicional, pois no ordenamento pátrio a execução é jurisdicionalizada e o Poder Judiciário não está vinculado nem é mero órgão chancelador de documentos administrativos.
+A "lei  federal  não dispõe sobre o período depurador do ato de indisciplina, por isso, é necessário suprir a lacuna. Por analogia, o julgador poderá valer-se, por exemplo, de normas que regulamentam a eliminação dos efeitos de uma condenação anterior (arts. 64, I, e 94, ambos do CP) ou mesmo do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar" (HC 505.302/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/7/2019, grifei).
+Em situações de comportamento indisciplinado, quando o reeducando do regime semiaberto não modificou suas tendências durante o encarceramento, é irrazoável consentir com sua colocação direta no último estágio da execução. Não é absurda a ponderação sobre a necessidade de melhor observar a evolução do preso em regime mais brando, antes de seu retorno ao convívio social.
+Ilustrativamente:
+ ..
+1. A Corte de origem logrou fundamentar o indeferimento do livramento condicional pela ausência de preenchimento do requisito subjetivo, tendo em vista o conturbado histórico prisional do apenado, que possui 9 faltas disciplinares, incluindo evasões. Além disso, consta que ele tem envolvimento com facção criminosa.
+2. "O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consubstanciado no não cometimento de falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional; não limita a avaliação de conduta satisfatória durante o período de resgate da pena" (AgRg no HC n. 660.197/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/8/2021).
+3. O afastamento dos fundamentos utilizados pelo Tribunal a quo quanto ao mérito do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 806.925/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 31/5/2023)
+ ..
+1-  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes. 4. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus. 5. Habeas corpus não conhecido (HC n.º 564.292/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+2- a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3- No caso, o apenado cometeu duas faltas disciplinares graves, uma em 2016, que perdurou até 2017 (fuga), e outra, um delito em 2018, consistente em posse de entorpecente. Tal circunstância comprova que o executado ainda apresenta sinais de repetição no mundo do crime e da indisciplina, sendo que, toda vez que posto em regime de menor vigilância, primeiro no semiaberto, depois no semiaberto harmonizado, ao invés de aproveitar a chance para se ressocializar, deu mostras de mau comportamento.
+ ..
+6- Agravo regimental não provido.
+(AgRg no HC n. 799.167/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/3/2023)
