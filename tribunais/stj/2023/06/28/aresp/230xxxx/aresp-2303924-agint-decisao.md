@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno interposto em face de decisão proferida pela Presidência desta Corte Superior, a qual não conheceu do agravo em recurso especial, por considerar que a parte não impugnou especificamente a incidência da Súmula 7/STJ ao pleito.
+Nas razões do agravo interno, a agravante sustenta que impugnou a incidência da Súmula 7/STJ, demonstrando também a violação à legislação federal.
+Impugnação às fls. 600-603.
+Diante da análise das razões do agravo interno, é caso de reconsideração da decisão da Presidência desta Corte Superior, estabelecendo o conhecimento do agravo em recurso especial, em atenção ao art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça.
+A recorrente manejou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa (fl. 456):
+COMPROMISSO DE COMPRA E VENDA - CERCEAMENTO DE DEFESA AFASTADO - ATRASO NA LIBERAÇÃO DE FINANCIAMENTO - MORA IRROGADA A AMBAS AS PARTES - INVERSÃO DA CLÁUSULA PENAL - POSSIBILIDADE - TEMA 971 DOS REPETITIVOS - CUMULAÇÃO COM LUCROS CESSANTES INVIÁVEL - DANOS MORAIS INEXISTENTES POR MERO PROBLEMA EM CONTRATO - SENTENÇA MODIFICADA EM PARTE - APELO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 408 e 421, parágrafo único, do Código Civil.
+Sustenta que "não há prova alguma nos autos de que a indisponibilidade que incidiu sobre os bens da recorrente por curtíssimo período foi o motivo que ensejou a não aprovação do financiamento dos recorridos. Muito pelo contrário. Em abril de 2017, data em que os recorridos afirmam que deveria ter sido concluído o financiamento, a aludida indisponibilidade de bens já havia sido levantada, como bem destacado na r. sentença proferida em primeiro grau de jurisdição".
+Assevera que "a incorporadora não pode ser responsabilizada pela concessão de financiamento pela instituição financeira. Esta é uma providência que incumbe única e exclusivamente ao comprador do imóvel junto ao agente financeiro  .. ".
+Defende que o Tribunal de origem promoveu indevida interpretação da cláusula penal prevista no instrumento contratual.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Consta do acórdão recorrido que o Tribunal de origem reconheceu a ocorrência de mora por parte da ora agravante, que contribui para a indisponibilidade do bem. Confira-se (fls. 457-458):
+Ver que a própria R. decisão vergastada reconhece da existência de óbices para a liberação do financiamento - o "Instrumento Particular de Promessa de Venda e Compra e Outras Avenças" (fls. 85/101) fôra firmado em 19 de fevereiro de 2016, somente providenciada a individualização do apartamento adquirido pelos Apelantes, em 25 de novembro de 2016 (fls. 212/213), registrado o condomínio edilício.
+Nesses termos, o quadro de resumo da contratação, prevê no item "G.5" (fls. 117), que o restante do saldo seria pago em até 30 dias a contar do registro da instituição e especificação do condomínio.
+Ocorre que, na mesma data em que aberta a Matricula, fôra anotada da indisponibilidade do bem, o que obstou a tomada do financiamento até o levantamento da figura, em 7 de abril de 2017.
+Logo, a mora da Recorrida deverá ser reconhecida desde a data da individualização do imóvel até o levantamento da indisponibilidade, vendo-se, ainda, que a Ata da Assembleia do Condomínio, realizada em agosto de 2016, já anotava de problemas relativos à regularização do bem, coisa que impedia o financiamento.
+Outrossim, não há nos autos demonstração de culpa da Requerida pela demora verificada entre o levantamento da restrição na Matrícula, em abril de 2017 até a assinatura do pacto com a instituição financeira, em agosto de 2017, cabendo aos compradores o pagamento do preço.
+Desta feita, medida de mór Justiça será conhecer do período de mora da vendedora - de 25 de novembro de 2016 a 7 de abril de 2017 - empós disso, a responsabilidade por buscar o pagamento do preço era somente dos compradores.
+Com relação à inversão da cláusula penal, firmou o Mirífico Superior Tribunal de Justiça o seguinte entendimento: "Tema 971 - No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial".
+Nesse passo, à luz do atraso da vendedora e nos termos do precedente acima mencionado, é cabível a inversão da Cláusula 7ª, parágrafo segundo, "a" do pacto (fls. 96); arbitrada a multa em 0,8% do valor atualizado do ajuste, por mês de mora da Recorrida, acrescida dos consectários e multa previstos na cláusula penal.
+Outrossim, também firmou entendimento o C. STJ acerca da impossibilidade de cumulação da cláusula penal com os lucros cessantes, sob pena de "bis in idem": "Tema 970 - A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes". Fica afastada, portanto, a condenação à multa contratual.
+Alfim, tendo em vista que o atraso na quitação do contrato fôra irrogado a ambas as partes, não se há de falar na modificação do valor; da mesma forma, os danos morais não podem ser havidos em mero problema existente em contrato, e já reparada a culpa da vendedora com a reversão da cláusula penal; aqui os motivos brandidos são insuficientes para o exsurgir da maltratada figura, afeiçoada de vã cobiça, compertos os prejuízos dos Autores e evidente o tentame de enriquecimento sem causa.
+Defere-se PARCIAL PROVIMENTO ao recurso; ante o decaimento em mór parte dos Autores, 70% do pagamento das custas processuais pelos Requerentes, e honorária de 15% sobre o valor condenatório; à Ré caberá o pagamento de 30% das custas e honorária de 10% sobre o valor condenatório.
+Em que pese a irresignação da parte agravante, o conteúdo normativo dos arts. 408 e 421 do Código Civil permaneceu estranho ao acórdão recorrido.
+Logo, está ausente o requisito do prequestionamento, o qual é exigido inclusive com relação às matérias de ordem pública, a obstar a sua análise nessa via, à luz do que preveem as Súmulas 282 e 356 do STF.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA DE COMPRA E VENDA C/C REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO.
+PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. MATÉRIA DE ORDEM PÚBLICA. EXIGÊNCIA. AQUISIÇÃO DE IMÓVEL EM NOME PRÓPRIO COM RECURSOS DESVIADOS DA PESSOA JURÍDICA. CONVERSÃO DE OFÍCIO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. JULGAMENTO EXTRA ET ULTRA PETITA. NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. LUCROS CESSANTES E JUROS DE MORA. SUPOSTA INVERSÃO DO ÔNUS PROBATÓRIO.
+NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. SÚMULAS 282 E 356/STF E 5, 7 E 83/STJ.
+ .. .
+3. Não tendo havido o prequestionamento de parte dos temas postos em debate nas razões do recurso especial, requisito do qual não estão imunes nem mesmo as matérias de ordem pública, incidentes os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 973.262/PB, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 7/12/2020)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
