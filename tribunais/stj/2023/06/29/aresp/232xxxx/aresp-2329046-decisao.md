@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se, na origem, de ação declaratória de inexigibilidade de crédito cumulada com reparação por danos morais ajuizada por AILTON LAMPUGNANI em desfavor de BANCO DO BRASIL S.A. (ora recorrente), qual foi julgada procedente pelo Juízo singular.
+Interposta a apelação pelo banco insurgente, a Décima Sexta Câmara Cível do Tribunal de Justiça do Estado do Paraná conheceu em parte do apelo para dar-lhe parcial provimento, nos termos da ementa (e-STJ, fl. 476):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO C/C REPARAÇÃO POR DANOS MORAIS. CÉDULA DE CRÉDITO RURAL. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DO RÉU. DA APELAÇÃO QUE É CÓPIA DA CONTESTAÇÃO. TÓPICO PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. NÃO CONHECIMENTO DO TÓPICO COPIADO. POSSIBILIDADE DE REVISÃO DO CONTRATO. RELATIVIZAÇÃO DO PACTA SUND SERVANDA. DANO MORAL EVIDENCIADO. MANUTENÇÃO DA CONDENAÇÃO. REPETIÇÃO DO INDÉBITO. FORMA SIMPLES. AUSÊNCIA DE DEMONSTRAÇÃO DE MÁ-FÉ DA INSTITUIÇÃO FINANCEIRA. PRESUNÇÃO DE BOA-FÉ. SENTENÇA PARCIALMENTE REFORMADA. Apelação Cível parcialmente conhecida e parcialmente provida.
+Contra o acórdão, o BANCO DO BRASIL S.A., com fulcro no art. 105, III, a , da Constituição Federal, interpôs recurso especial, apontando violação aos arts. 186, 188, 877, 927 e 944 do Código Civil.
+Em suas razões, alegou o recorrente (a) inexistência de conduta ilícita que dê suporte ao dever de indenizar o recorrido, mas tão somente atos condizentes com exercício regular de direito; (b) ausência de comprovação de danos morais e de sua efetiva extensão; e (c) exorbitância do quantum indenizatório.
+Apresentadas as contrarrazões (e-STJ, fl. 586-897).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 7 e 211 deste Superior Tribuna l (e-STJ, fls. 598-600), o que ensejou a interposição do presente agravo (e-STJ, fls. 680-685).
+Brevemente relatado, decido.
+O recurso não comporta provimento.
+Na presente insurgência, argumenta o banco recorrente que inexistiu qualquer ato ilícito perpetrado que ensejasse o dever de indenizar, mas sim exercício regular de seus direitos.
+Contudo, conforme se depreende de leitura dos autos, o Tribunal de origem, ao apreciar a questão da imputação da responsabilidade, consignou que o insurgente não logrou êxito em desconstituir os fundamentos da sentença que reconhecera o nexo de causalidade entre sua conduta e os danos suportados pelo recorrido.
+Veja-se (e-STJ, fls. 479-480, sem grifos no original):
+Cumpre observar que os princípios da função social do contrato, da boa-fé objetiva e a incidência das normas do Código de Defesa do Consumidor buscam o equilíbrio nas relações de consumo, interpretando-se a relação sob a lente desses valores e tornando admissível a alteração do instrumento que coloque o consumidor em posição excessivamente onerosas.
+Neste influxo, se o contrato contém ilegalidade, esta não deve permanecer, sendo de rigor o seu afastamento para a preservação do equilíbrio contratual entre as partes.
+Não há que se falar, portanto, em vedação à discussão e eventual alteração do contrato em questão.
+A respeito da impossibilidade de imputação de responsabilidade ao apelante, verifica-se que suas alegações se esvaziaram, já que não desconstitui os fundamentos da sentença que reconheceu o nexo causal entre sua conduta e os danos sofridos pelo autor.
+Nesse sentido, tendo o Colegiado local constatado o nexo causal entre a conduta do banco recorrente e os danos sofridos pelo recorrido, não pode esta Corte Superior proceder ao revolvimento do acervo fático-probatório a fim de aferir se as condutas perpetradas configuravam exercício regular de direito ou se houve a efetiva desconstituição do nexo de causalidade. Assim, tendo que a pretensão para o simples reexame de fatos e provas não enseja a interposição de recurso especial, incide o enunciado da Súmula n. 7/STJ.
+Não vinga, também, as alegações apresentadas pelo recorrente no que tange à ausência de comprovação do dano moral e da sua extensão.
+Conforme se extrai do aresto fustigado, para o Tribunal de origem, mediante as particularidades do caso concreto e as provas carreadas aos autos, o dano ficou evidenciado.
+Confira-se (e-STJ, fl. 480):
+Em prosseguimento, o apelante insurge-se contra a condenação ao pagamento de indenização por danos morais, alegando que o autor não fez prova robusta de ter sofrido ofensa à honra, à dignidade e ao bom nome.
+Sem razão.
+Colhe-se dos autos que, em 08/10/2012, o autor contratou a cédula de crédito bancário n. 40/01298-0, e que, após contrair câncer gutural, decidiu quitar o empréstimo realizado. Não obstante a quitação, o banco continuou a efetuar descontos em sua conta corrente. Em razão de tais fatos, o juízo a quo condenou o réu ao pagamento de indenização por danos morais em favor do autor.
+Portanto, em razão dos fatos narrados pelo autor, notavelmente a terrível doença que lhe acomete, o aborrecimento em ter valores ilegais descontados de sua conta corrente e a privação daí decorrente, verifica-se a presença de abalo moral que ultrapasse o mero aborrecimento, o que resulta na manutenção da condenação ao pagamento de indenização por danos morais.
+Nessa senda, considerando que a constatação da ocorrência de danos morais por parte do Tribunal de origem se apoiou nos fatos e nas provas dos autos, esta Corte Superior fica impedida de reapreciar o conjunto fático-probatório para adotar outro entendimento sobre a existência do dano moral. O acolhimento de tal pretensão é providência inviável na via especial, incidindo o enunciado da Súmula n. 7/STJ.
+No que tange o valor fixado dos danos morais, consoante entendimento firmado neste Superior Tribunal, a revisão do valor arbitrado a título de danos morais é possível em situações excepcionais, quando irrisório ou exorbitante, destoando dos padrões da razoabilidade.
+A propósito (sem grifos no original):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO. DEMONSTRADO NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. SÚMULA N.º 7 DO STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n.º 7 do STJ, impedindo o conhecimento do recurso.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.257.386/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE IMAGEM. ÁLBUM DE FIGURINHAS. QUESTÃO NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. SUSPENSÃO DO FEITO. NÃO CABIMENTO. USO DE IMAGEM. AUSÊNCIA DE AUTORIZAÇÃO. SÚMULA N. 403 DO STJ. INDENIZAÇÃO DEVIDA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDENCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.057.304/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+Nessa questão, o Tribunal de origem asseverou que o valor fixado revelara-se proporcional e razoável diante das particularidades do caso concreto, mormente se considerado o valor total do desconto (e-STJ, fl. 480):
+Tampouco deve ser minorado o valor arbitrado, pois revela-se proporcional e razoável diante das particularidades do caso, principalmente em razão do valor total dos descontos (R$ 189.359,24).
+Ocorre que a pretensão de readequação do valor não merece ser acolhida, pois a revisão do entendimento adotado demanda a reapreciação do acervo fático-probatório, providência inviável na via especial em razão da incidência do enunciado da Súmula n. 7/STJ.
+Por fim, registra-se não ser o caso de revaloração de provas, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) do valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO. APELAÇÃO CÍVEL. DIREITO CIVIL. 1. RESPONSABILIDADE CIVIL. ATO ILÍCITO. EXERCÍCIO REGULAR DE DIREITO. 2. DANO MORAL. COMPROVAÇÃO. EXTENSÃO DO DANO. 3. REDUÇÃO DO QUANTUM INDENIZATÓRIO. 4. PRETENSÕES QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 5. AGRAVO DE BANCO DO BRASIL S.A. CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
