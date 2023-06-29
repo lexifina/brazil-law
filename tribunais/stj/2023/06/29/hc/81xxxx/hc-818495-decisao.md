@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FABRICIO AUGUSTO DAS NEVES contra o v. acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado às penas de 06 (seis) anos e 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e 1.200 (mil e duzentos) dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao apelo, para reduzir a pena ao patamar de 05 (cinco) anos e 10 (dez) meses de reclusão nos termos do acórdão juntado às fls. 16-26, ocorrendo o trânsito em julgado do decisum em 2017.
+No presente writ, a impetrante sustenta, em apertada síntese, que não houve justificação adequada a ensejar o afastamento da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, uma vez que fundamentada apenas na quantidade de entorpecentes apreendidos, circunstância já utilizada para exasperar a pena-base.
+Requer, ao final, a concessão da ordem, a fim de aplicar a redutora do tráfico privilegiando (fls. 3-15).
+O pedido liminar foi indeferido.
+As informações foram prestadas às fls. 46-59.
+O Ministério Público Federal, às fls. 61-63, manifestou-se pelo não conhecimento do habeas corpus.
+É o breve relatório.
+Decido.
+A impetrante sustenta, em apertada síntese, que não houve justificação adequada a ensejar o afastamento da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, uma vez que fundamentada apenas na quantidade de entorpecentes apreendidos, já utilizada para exasperar a pena-base.
+Sobre o tema, a redutora capitulada no parágrafo 4º, do art. 33, da Lei n. 11.343/06, prevê que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+Na espécie, ao contrário do que aduz a defesa, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não apenas na apreensão de considerável quantidade de drogas (25 porções de cocaína, 51 porções de crack e 188 porções de maconha, totalizando cerca de 510g de entorpecentes), mas nas demais circunstâncias concretas do flagrante , em especial em razão da apreensão de petrechos utilizados para a prática do ilícito, qual seja, material empregado no embalo de substâncias entorpecentes (228 pinos plásticos vazios), a demonstrar que ele também manipulava as substâncias ilícitas para a posterior venda aos usuários, elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Sobre o tema: AgRg no HC n. 771.446/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 24/10/2022; AgRg no HC n. 814.261/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 7/6/2023; DJe 13/12/2021; e AgRg no HC 652.335/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 13/12/2021.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
