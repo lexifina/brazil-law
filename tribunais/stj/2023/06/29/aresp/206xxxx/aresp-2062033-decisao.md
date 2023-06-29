@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por PLANALTO - ENGENHARIA E URBANIZACAO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 184):
+APELAÇÃO CÍVEL. AÇÕES E RECURSOS ALHEIOS À ÀREA DE ESPECIALIZAÇÃO. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS CUMULADA COM REPETIÇÃO DE INDÉBITO. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. PRELIMINAR. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. AFASTAMENTO. PRECEDENTES. MÉRITO. PACTA SUNT SERVANDA. RELATIVIZAÇÃO. POSSIBILIDADE. CORREÇÃO MONETÁRIA. INCIDÊNCIA DO ÍNDICE IGP-M ACRESCIDO DE 0,5% AO MÊS. ABUSIVIDADE. CONSTATAÇÃO. CONTRATO QUE DEIXA DE FAZER QUALQUER MENÇÃO AOS JUROS REMUNERATÓRIOS. VALORES COBRADOS QUE ULTRAPASSAM, EM MUITO, AQUELE INDISPENSÁVEL À COMPENSAÇÃO DA DESVALORIZAÇÃO DA MOEDA. CLÁUSULAS CONTRATUAIS. INTERPRETAÇÃO MAIS FAVORÁVEL AO CONSUMIDOR. PERTINÊNCIA. REPETIÇÃO DO INDÉBITO. PARCELAS PAGAS. CABIMENTO NA FORMA SIMPLES, POIS AUSENTE MÁ-FÉ. PARCELAS VINCENDAS A SEREM RECALCULADAS COM BASE UNICAMENTE NO IGP-M, NOS MOLDES DO CONTRATO. ÔNUS DE SUCUMBÊNCIA. REDISTRIBUIÇÃO. RECURSO CONHECIDO E PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 217-226).
+No recurso especial, alega ofensa ao art. 1.010, incisos II, III e IV, do CPC, por não ter sido cumprido o requisito da dialeticidade.
+Aduz, ainda, que o acórdão contrariou as disposições contidas nos artigos 26, inciso V, da Lei n. 6.766/79, 406 e 591 do CC, 161, § 1º do CTN e 5º do Decreto n. 22.626/33, por entender que (fl. 247):
+ ..  sendo a taxa de juros moratórios sobre os impostos devidos à Fazenda Nacional a correspondente a 1% (um por cento) ao mês, ou seja, 12% (doze por cento) ao ano, e sendo vedado à Recorrente a cobrança em percentual superior ao dobro de taxa legal (24%  vinte e quatro por cento  ao ano), conforme disposição do Art. 1º da Lei de Usura, tem-se que os juros constantes no contrato, de 6% (seis por cento) ao ano são totalmente legais e válidos. Assim, a cobrança dos referidos juros é totalmente legal e válida.
+Ademais, sustenta que "não há qualquer ilegalidade, muito menos ausência de informação, quanto à estipulação do reajuste pecuniário, anual, de juros e atualização monetária" (fl. 251).
+Foram oferecidas contrarrazões ao recurso especial (fls. 318-322).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 323-324), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 364-368).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de ação revisional de cláusulas contratuais combinada com repetição de indébito interposta por AGNALDO FERREIRA RODRIGUES DE SOUZA contra a PLANALTO - ENGENHARIA E URBANIZACAO LTDA.
+O Juízo de primeiro grau julgou improcedentes os pedidos autorais (fls. 139-141). Quando do julgamento da apelação de AGNALDO FERREIRA RODRIGUES DE SOUZA, o Tribunal de origem deu-lhe provimento, declarando parcialmente nula cláusula do contrato de compra e venda (fls. 184-194), o que ensejou a interposição de recurso especial pela PLANALTO - ENGENHARIA E URBANIZACAO LTDA.
+O Tribunal de origem não admitiu o recurso especial interposto com fundamento na intempestividade, tendo em vista a ausência de comprovação da suspensão do expediente forense no dia 06/09/2021, bem como do feriado local no dia 8/9/2021, quando da interposição do recurso.
+Mediante análise dos autos, verifica-se que o recurso especial é manifestamente intempestivo, posto que a recorrente foi intimada do acórdão dos embargos de declaração em 23/8/2021 (fl. 230), sendo o recurso especial interposto apenas em 15/ 9/2021 (fl. 232).
+A recorrente alega que "A falta de documento apto a comprovar a tempestividade não pode ser tida por sinônimo de intempestividade" (fl. 334) e que deve ser oportunizada a juntada de prova da tempestividade após a interposição do recurso.
+Entretanto, nos termos da jurisprudência desta Corte, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 219, caput, 1.003, § 5º e 1.029, do CPC.
+É certo que, na vigência do CPC/1973, prevalecia o entendimento no STJ de que a parte poderia comprovar a tempestividade, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem, no momento da interposição do agravo regimental (AgRg no AREsp n. 137.141/SE, relator Ministro Antônio Carlos Ferreira, Corte Especial, julgado em 19/9/2012, DJe de 15/10/2012).
+Contudo, com o advento do CPC/2015, a Corte Especial do STJ revisitou a matéria e, interpretando o art. 1.003, § 6º, do CPC/2015, firmou entendimento de que, em sua vigência, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior, salvo no caso de se tratar do feriado da segunda-feira de Carnaval para os recursos interpostos até 18/11/2019, o que não é o caso dos autos. Confiram-se precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação declaratória de inexigibilidade de débito c/c restituição de valores c/c compensação por danos morais.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo nobre.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.215.732/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+3. São documentos idôneos para comprovar a tempestividade recursal cópia da lei e dos atos normativos ou certidão oficial emitida pelo tribunal de origem.
+4. A mera alegação de suspensão de expediente forense nas razões recursais, o print de tela ou a imagem de página extraída da internet, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal.
+ ..
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023, grifo meu.)
+Nesse sentido, cumpre destacar que a mera menção de suspensão de prazo e de feriado local nas razões recursais não supre a necessidade de apresentação de documento oficial ou certidão expedida pelo Tribunal de origem.
+Assim, não tendo havido a comprovação de suspensão do expediente forense, bem como do feriado local, por meio de documento idôneo, no ato da interposição do recurso especial, não há como ser afastado o seu decreto de intempestividade.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
