@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO AMARAL SUTERIO contra decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos, o agravante foi condenado como incurso no art. 33, caput, da Lei 11.343/06, à pena de 05 (cinco) anos de reclusão, em regime fechado, e pagamento de 500 (quinhentos) dias-multa (fls. 192-206).
+O Tribunal de origem, por maioria, deu parcial provimento ao recurso defensivo para reexaminar os vetores atinentes à culpabilidade, conduta social e personalidade do agente, e às consequências e aos motivos do crime. Todavia, o agravante permaneceu condenado às penas de 5 (cinco) anos de reclusão, em regime inicialmente fechado, além do pagamento de 500 (quinhentos) dias-multa, no valor unitário mínimo (fls. 303-348).
+Os embargos de declaração opostos foram, por unanimidade, rejeitados (fls. 364-375).
+Os embargos infringentes interpostos foram, por maioria, rejeitados (fls. 392-408).
+No recurso especial, interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, a defesa apontou violação do art. 33, §2º, alínea "c", do CP, e o art. 44, do mesmo diploma legal, porquanto o recorrente faria jus a regime inicial de pena menos gravoso tendo em vista a ausência de fundamentação idônea para a valoração negativa dos maus antecedentes.
+Apresentadas as contrarrazões (fls. 435-437), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 83, STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência do Superior Tribunal de Justiça.
+Nas razões do agravo, a parte pede o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 447-452 e fls. 454-459).
+O Ministério Público Federal apresentou parecer pelo não conhecimento ou desprovimento do agravo em recurso especial (fls. 477-481).
+É o relatório. DECIDO.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial. Isso porque defesa se limitou a deduzir genericamente a impossibilidade de incidência da Súmula 83, STJ, conforme se depreende do excerto a seguir (fl. 458):
+"Ocorre que os maus antecedentes que o réu possui, utilizados para justificar a fixação do regime fechado como inicial, são datados de 14 anos atrás: Portanto, considerou-se no recurso excepcional que não é razoável que o réu seja colocado no regime mais gravoso em razão de um fato ocorrido tão distante no tempo."
+Como se sabe, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal de origem.
+O Superior Tribunal de Justiça tem entendimento firme no sentido de que:
+" ..  "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciorn ik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
