@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GILBERTO GRACINDO DE SOUZA à decisão de fls. 799/800, que não conheceu do recurso.
+Sustenta a parte embargante que:
+1. Por meio da decisão de 22/05/2023, V.Exa. não conheceu do REsp interposto sob a razão de que o embargante, embora regularmente intimado para sanar referido vício, deixou o prazo transcorrer in albis.
+2. Ocorre que não consta dos autos qualquer despacho intimando o embargante para sanar o vício, motivo pelo qual se conclui, data venia, ter havido algum equívoco por parte da secretaria do Juízo.
+3. Assim, verificado o erro material na decisão embargada, requer-se a intimação do embargante para suprir o vício processual, juntando procuração confirmando poderes ao advogado subscritor do Recurso Especial (fl. 804).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao Dr. Gabriel Primeiro Corrêa Costa, subscritor do recurso especial.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para regularizar o vício era peremptório, e se não houve a devida regularização no prazo concedido, houve preclusão temporal, não se admitindo comprovação posterior, ou seja, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo.
+Outrossim, ao contrário do alegado pela parte embargante, não há qualquer irregularidade no que se refere à intimação para regularização da representação por meio da certidão para saneamento, uma vez que na Resolução STJ/GP N. 15 de 26/6/2020 o Ministro Presidente desta Corte autorizou a Secretaria do Tribunal a praticar atos meramente ordinatórios, antes da distribuição dos feitos no STJ. A delegação para a prática desses atos é possível nos termos do art. 203, § 4º do CPC, bem como nos arts. 21, inciso XX e 21-E do RISTJ.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
