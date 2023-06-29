@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 253):
+CERCEAMENTO DE DEFESA. Não ocorrência. Provas produzidas nos autos suficientes para o julgamento da demanda. Preliminar afastada.
+VÍCIO DA SENTENÇA. Não ocorrência. Alegação de que a sentença concedeu pedido incerto e indeterminado ao condenar a ré na obrigação de fazer consistente em fornecer ao autor o necessário para a realização da cirurgia, inclusive o material e equipamentos, de acordo com recomendação médica que venha a atualizar o tratamento. Indicação do tratamento e material necessários que compete ao médico que assiste ao autor. Obrigação que já foi cumprida pela ré, que autorizou o procedimento e materiais indicados. Prejudicial afastada.
+PLANO DE SAÚDE. Autor diagnosticado com artralgia crônica do quadril direito após prótese de quadril em 2015, com piora progressiva e pouco resposta ao tratamento farmacológico, apresentando limitações funcionais, crepitação e dor. Indicação para realização dos procedimentos cirúrgicos de punção extra articular de tendão glúteo médio e mínimo direito e radioscopia, além dos seguintes materiais: 2 cânulas para bloqueio sonivisíveis e 4 seringas de ácido hialurônico. Negativa da operadora do plano de saúde de custeio do material cirúrgico (cânulas e seringas de ácido hialurônico), por considerá-los desnecessários. Abusividade. Compete ao médico que acompanha o autor indicar o tratamento mais adequado à sua patologia. Proibida a exclusão de cobertura de material ligado ao ato cirúrgico. Art. 10, VII, Lei nº 9.656/98. Cobertura do procedimento cirúrgico que é incontroversa. Sentença mantida. Honorários majorados. Recurso não provido, com observação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 304/307).
+Nas razões apresentadas (e-STJ fls. 270/291), a recorrente aponta dissídio jurisprudencial e ofensa:
+(i) ao art. 355, I, do CPC/2015, argumentando existir cerceamento de defesa, ante a falta da prova técnica,
+(ii) aos arts. 322 e 324 do CPC/2015, pois "não é plausível a condenação na obrigação de trato sucessivo, que se modifica ao tempo, com cobertura de "todos os materiais e equipamentos de acordo com recomendação médica que venha a atualizar o tratamento", sem especificação do tratamento necessário, não pleiteado na inicial ou no curso do processo de forma concreta. Vejam que, neste tipo de condenação tem-se, na verdade, um cheque em branco, diante da inexistência de pedido certo e determinado, que possibilite o contraditório e a ampla defesa" (e-STJ fl. 284), e
+(iii) aos arts. 421 e 422 do CC/2002, 47 e 51, IV, e § 4º, do CDC, 4º, caput, II e III, da Lei n. 9.961/2000 e à Lei n. 9.656/1998, defendendo ser legítima a limitação da cobertura de procedimento cirúrgico e de materiais não previstos no rol de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa.
+Foram apresentadas contrarrazões (e-STJ fls. 334/345).
+O recurso foi admitido na origem (e-STJ fls. 354/355).
+É o relatório.
+Decido.
+O Tribunal a quo afastou o alegado cerceamento de defesa, ante o julgamento antecipado da lide, tendo em vista que (e-STJ fl. 255):
+Não há que se falar em cerceamento de defesa, uma vez que as provas produzidas nos autos eram suficientes para o julgamento da demanda. Ressalte-se que julgador é o destinatário final das provas, e cabe a ele determinar a suficiente instrução do feito.
+(..)
+Ressalte-se que se revela desnecessária a realização de prova pericial técnica ou médica, diante da expressa prescrição médica para realização dos procedimentos solicitados, pelo médico que assiste a autora.
+Dissentir das conclusões do acórdão impugnado para acolher a tese de insuficiência probatória, conforme sustentado pela recorrente na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A Corte local assentou que não houve afronta as regras da estabilização da demanda e da impossibilidade de formulação de pedido genérico, porque a prescrição médica é passível de atualização no caso de alteração do estado de saúde do paciente, além de que compete ao medico escolher o melhor tratamento. Ademais, a Corte de origem entendeu que, tendo a recorrente cumprido da tutela antecipada, a fim de liberar o procedimento cirúrgico e os materiais necessários ao ato cirúrgico, era descabido cogitar de modificação do pedido pelo médico que assistiu o recorrido (e-STJ fl. 256).
+A respeito de tais razões de decidir, a recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+Com relação à alegada afronta à Lei n. 9.656/1998, a recorrente deixou de individualizar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada pela Corte local.
+Ausente tal requisito, a fundamentação mostra-se deficiente e torna inviável o conhecimento do recurso, ante a Súmula n. 284/STF, aplicada por analogia.
+A propósito: AgInt no AREsp n. 1.140.376/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 26/6/2018, DJe 29/6/2018.
+A insurgência quanto ao custeio do tratamento descrito na exordial não pode ser sustentada apenas com base nos arts. 421 e 422 do CC/2002, 47 e 51, IV, e § 4º, do CDC e 4º, caput, II e III, da Lei n. 9.961/2000. Isso porque os dispositivos de lei mencionados não possuem o alcance normativo pretendido para desconstituir as conclusões do aresto impugnado, pois elas também foram firmadas com base na interpretação do § 4º do art. 10 da Lei n. 9.656/1998, o que não foi rebatido especificamente.
+Incide, portanto, a Súmula n. 284/STF, por deficiência na fundamentação recursal.
+A Corte local não se manifestou quanto ao art. 47 do CDC. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo dos arts 421 e 422 do CC/2002 e 4º, caput, II e III, da Lei n. 9.961/2000, a despeito dos acla ratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
