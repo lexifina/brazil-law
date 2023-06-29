@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por FUNDAÇÃO CEEE DE SEGURIDADE SOCIAL - ELETROCEEE, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 1.531):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DO BENEFÍCIO DE PENSÃO POR MORTE. SUPLEMENTAÇÃO DA APOSENTADORIA RECONHECIDA EM DEMANDA ANTERIOR. APLICAÇÃO DOS REFLEXOS NA PENSÃO.
+1. Prescrição e decadência. Em se tratando de obrigação de trato sucessivo, não há falar em prescrição do fundo de direito, tampouco em decadência, mas apenas eventual prescrição do pleito de devolução de valores.
+2. Ilegitimidade passiva da patrocinadora. Descabida formação de litisconsórcio passivo entre a demandada a patrocinadora, visto que a relação jurídica em debate diz respeito a benefício previdenciário de natureza complementar, não estando em liça relação obrigacional pela qual deva responder a instituição financeira.
+3. Cerceamento de defesa não caracterizado. Perícia atuarial. Desnecessidade. Inteligência do art. 370 e parágrafo único do CPC.
+4. Tendo em vista que restou reconhecido, por decisão transitada em julgado na Justiça do Trabalho, o direito de complementação do benefício de aposentadoria suplementar do falecido esposo da parte autora, é devida a suplementação da pensão por morte, consoante regulamento da própria entidade demandada.
+5. Manutenção dos honorários advocatícios fixados na origem, pois em absoluta consonância com as disposições do art. 85, § 2º, do CPC e os parâmetros adotados pela Câmara.
+PRELIMINARES DESACOLHIDAS. RECURSOS DESPROVIDOS, EM JUÍZO DE RETRATAÇÃO.
+Os embargos de declaração foram rejeitados. (e-STJ fls. 1.583-1.589)
+Nas razões do recurso especial (e-STJ fls. 1.592-1.607), a recorrente indicou ofensa aos arts. 1.022, I e II, do CPC/2015; 1º, 18, caput e § 3º, e 19 da Lei Complementar n. 109/2001.
+Sustentou omisso o acórdão recorrido acerca da ausência de custeio para a complementação da pensão, como pretendido.
+Afirma, ainda, o descabimento do reajuste do valor do benefício previdenciário para o qual não houve o prévio custeio, sob pena de comprometimento do equilíbrio financeiro e atuarial do plano.
+Foram apresentadas contrarrazões (e-STJ, fl. 1.616-1.621).
+O processamento do apelo especial não foi admitido pelo Tribunal de origem (e-STJ fls. 1.633-1.638), levando a insurgente a interpor o presente agravo (e-STJ fls. 1.642-1.661).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A pretensão recursal não merece prosperar.
+Na hipótese dos autos, não há falar em contrariedade ao art. 1.022 do CPC/2015, tendo o acórdão manifestado, de forma clara e suficiente, acerca da questão suscitada nos autos, de modo que, embora rejeitados os embargos de declaração opostos, ausente qualquer omissão, contradição ou obscuridade com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+O acórdão estadual foi proferido com base nos seguintes fundamentos, na parte que interessa (e-STJ, fls. 1.550-1.557, sem grifo no original):
+Atinente à questão de fundo, como referido, a parte autora pretende que sejam consideradas em seu benefício de pensão por morte os valores decorrentes da complementação da aposentadoria suplementar de João Jair Vargas da Fonseca, ex-empregado da Companhia Estadual de Energia Elétrica - CEEE, reconhecida na reclamatória trabalhista n. 01070-2008-014-04-00-1.
+ ..
+Importa registrar que tal decisão transitou em julgado após o óbito do beneficiário principal (06-04-2009), de sorte que não houve a efetiva inclusão das referidas parcelas no benefício previdenciário suplementar e, consequentemente, na pensão por morte percebida pela autora.
+ ..
+Dessa forma, considerando que restou reconhecido, por decisão transitada em julgado nos autos da reclamatória trabalhista n. 01070-2008-014-04-00-1, o direito de majoração do benefício de aposentadoria suplementar do falecido esposo da autora, deve haver, por consequência, o reajuste da pensão por morte percebida pela parte autora.
+ ..
+Outrossim, registro que não há falar em compensação das contribuições correspondentes à complementação ora concedida, porquanto tal questão, fosse o caso, deveria ter sido determinada no âmbito de justiça do Trabalho, quando do reconhecimento do dever de majoração do benefício previdenciário do de cujus, o que não ocorreu. Assim, na esteira do entendimento firmado na origem, é devida a complementação do benefício de pensão por morte recebido pela parte autora, conforme complementação de aposentadoria reconhecida nos autos da reclamatória trabalhista n. 01070-06.2008.5.04.0014, observada a prescrição quinquenal e o teto de benefício.
+Por ocasião do julgamento dos embargos de declaração, reforçaram-se os seguintes fundamentos: (e-STJ, fls. 1.587-1.588):
+Na hipótese em apreço, entretanto, não vislumbro qualquer lacuna no aresto recorrido que justifique o acolhimento dos presentes embargos, porquanto, como se confere do teor do julgamento, restaram devidamente analisadas as questões trazidas ao exame do Tribunal e explicitadas as razões de convencimento do colegiado.
+Como asseverado no aresto recorrido, não é caso de aplicação do entendimento firmado pelo e. STJ no julgamento dos Recursos Especiais ns. 1.778.938/SP e 1.740.397/RS (Tema 1021, STJ) - que ampliou a tese estabelecida no Tema 955 -, uma vez que a discussão debatida no feito não envolve a incorporação de verbas salariais em benefício previdenciário, mas, sim, a complementação da pensão por morte da autora com base na decisão da Justiça do Trabalho que reconheceu o dever de suplementação da aposentadoria de seu falecido esposo.
+Dessa forma, tendo em vista que o direito de complementação do benefício previdenciário suplementar, questão objeto do Tema 1021 do STJ, não está sendo discutido nos autos, visto que já foi objeto de análise em demanda pretérita, não há falar na aplicação do referido entendimento no presente caso.
+Da mesma forma, não obstante os respeitáveis argumentos do embargante, não há falar em prévio custeio ou compensação das contribuições correspondentes à complementação concedida no aresto embargado, porquanto tal questão, fosse o caso, deveria ter sido determinada no âmbito de Justiça do Trabalho, quando do reconhecimento do dever de majoração do benefício previdenciário do de cujus, o que não ocorreu.
+Nesse contexto, é certo que houve manifestação expressa e fundamentada acerca das questões jurídicas suscitadas, não se podendo atribuir o vício de omissão à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Cuida-se, na origem de ação de indenização por dano material e compensação por dano moral.
+2. Não ocorre ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento fundamentado das diligências inúteis ou meramente protelatórias, em juízo cuja revisão demanda a reapreciação do conjunto fático dos autos. Precedentes.
+5. ..
+10 . Agravo interno não provido.
+(AgInt no AgInt no AREsp 1302429/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+Por outro lado, atentando-se aos argumentos trazidos pela recorrente e ao fundamento adotado pela Corte estadual quanto à existência de coisa julgada em favor da autora, verifica-se que este não foi objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Além disso, não há como desconstituir o entendimento delineado no acórdão impugnado quanto à ocorrência de coisa julgada, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Desconstituir o entendimento proferido pelo acórdão recorrido, de que se operou a coisa julgada na espécie, exigiria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial. Incidência da Súmula 7 do STJ. Precedentes.
+2. O Tribunal local, com base no contexto fático e probatório dos autos e na análise das disposições previstas no contrato, concluiu não ser caso de litisconsórcio passivo necessário, tampouco unitário. Alterar tal entendimento demandaria necessariamente o reexame do conjunto fático probatório dos autos e a interpretação de cláusula contratual, providências vedadas nessa instância, em razão das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.859.558/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Ante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DO BENEFÍCIO. PENSÃO POR MORTE. SUPLEMENTAÇÃO DE APOSENTADORIA. OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COISA JULGADA. RECONHECIMENTO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
