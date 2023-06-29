@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 773/777) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial (e-STJ fls. 769/770).
+A parte embargante sustenta que "a Decisão ora embargada é manifestamente maculada por relevante omissão" (e-STJ fl. 773).
+Acrescenta ainda que (e-STJ fls. 774/775):
+Faz-se mister observar que O VERBETE DE NÚMERO 7 DESTE E. STJ, NÃO OBSTA O SEGUIMENTO DO REFERIDO RECURSO ESPECIAL porque o julgamento do mesmo não demanda uma nova análise do conteúdo fático-probatório constantes dos autos, mas, sim e, tão somente, do COMPORAMENTO PROCESSUAL DA PARTE AGRAVADA!! É PRECISO OBSERVAR QUE OS FUNDAMENTOS ADOTADOS EM SEDE DE 1ª INSTÂNCIA (DOC. 03) E AQUELE ADOTADO EM SEDE DE APELAÇÃO (DOC. 04) DIFEREM-SE EM ABSOLUTO - ao passo em que, apesar de em sede de Apelação alegar-se que a intimação foi assinada por terceira pessoa (supostamente alheia aos Autos), em 1ª instância a Recorrida afirma expressamente que foi intimada e que tentou procurar a advogada, sem sucesso. A causídica culpabiliza, ainda, a pandemia (apesar de sua primeira intimação para manifestar-se no processo ter se dado quatro meses antes do início dessa emergência de saúde pública), suas supostas dificuldades com processo eletrônico (muito embora o mesmo exista há 15 anos e a causídica ter protocolado diversas petições durante o prazo fatal) e um quadro de suspeita de COVID-19 (que se tentou comprovar com base em um atestado que, conforme a Agravante demonstrou, foi fornecido por sua irmã), que teria inviabilizado seu contato com a cliente.
+Impugnação apresentada às fls. 780/785 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+No caso concreto, todas as questões foram devidamente examinadas na decisão ora embargada, que reconheceu a incidência da Súmula n. 7 do STJ, conforme se verifica do seguinte excerto (e-STJ fl. 770):
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 551):
+Entretanto, após análise detida dos autos, verifica-se que a referida exigência não foi cumprida, uma vez que não houve intimação da parte autora, na forma prevista no artigo 485,parágrafo primeiro, do CPC. Neste ponto, a alegação da apelante merece ser acolhida, uma vez que a intimação foi entregue para pessoa estranha ao feito, conforme informação registrada no documento de fl. 464 (indexador 464). Neste particular, a informação veiculada nos embargos de declaração de fls. 476/479, no sentido de que a diligência foi positiva, por si só, não caracteriza a intimação pessoal exigida pelo Código de Processso Civil.
+Modificar o entendimento do acórdão impugnado que concluiu pela inexistência de intimação pessoal da parte autora, em observância ao disposto no art. 485, § 1º, do CPC/2015, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
