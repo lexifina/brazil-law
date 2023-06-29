@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por LEONI DALLAGNOL contra a decisão do Tribunal Regional Federal da 4.ª Região, que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, interposto contra o acórdão prolatado na Apelação Criminal n. 5016609-08.2021.4.04.7107/RS.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante à pena de 1 (um) ano e 4 (quatro) meses de reclusão, em regime inicial semiaberto, como incurso no art. 334, § 1.º, inciso III, do Estatuto Repressor (fls. 247-252).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 331-345).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 44, inciso II, e 59, ambos do Código Penal.
+Alega que a pena-base foi exacerbada de forma desproporcional, devendo ser aplicado o patamar de 1/6 (um sexto), à míngua de fundamentação concreta para adoção de quantum superior.
+Aduz que a reincidência não específica não é fundamento apto a, por si só, alicerçar a negativa de substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Foram apresentadas contrarrazões (fls. 384-396). O recurso especial não foi admitido (fls. 399-405). Foi interposto agravo (fls. 413-465).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento do agravo para inadmitir ou desprover o recurso especial (fls. 490-494).
+É o relatório.
+Decido.
+De referência à pena-base, a sentença de primeiro grau, corroborada pelo acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 250-251; sem grifos no original):
+"Primeira fase. Examinando os registros do evento 58, CERTANTCRIM1 verifico a existência de três condenações com trânsito em julgado: 1 - processos 5002430-90.2017.4.04.7113/RS, fato ocorrido em 19/06/2017; sentença em 30/07/2018; trânsito em julgado em 15/03/2019; 2 - processos 5003287-39.2017.4.04.7113/RS, fato ocorrido em 28/04/2016; sentença em 18/06/2018; trânsito em julgado em 07/11/2018; e 3 - 5005785- 74.2018.4.04.7113/RS, fato ocorrido em 27/03/2017; sentença em 18/07/2019; trânsito em julgado em 25/07/2019.
+Os dois primeiros registros serão utilizados para caracterizar maus antecedentes.
+As demais circunstâncias do art. 59 do CP são neutras. Portanto, fixo a pena-base em 1 ano e 4 meses de reclusão."
+A propósito da alegação de que houve desrespeito ao princípio da proporcionalidade quando da fixação das sanções basilares, deve-se destacar que o Legislador não delimitou parâmetros exatos para a fixação da pena-base, de forma que a sua majoração fica adstrita ao prudente arbítrio do Magistrado, que deve observar o princípio do livre convencimento motivado e os limites máximos e mínimos abstratamente cominados a cada delito.
+Com efeito, para possibilitar uma distinção entre os diferentes graus de gravidade concreta que um mesmo crime abstratamente previsto pode implicar, a análise da proporcionalidade, na primeira etapa da dosimetria da pena, deve guardar correlação com o número total de circunstâncias judiciais do art. 59 do Código Penal, reconhecidas como desfavoráveis ao réu, sem prejuízo de que, em hipóteses excepcionais, a especial gravidade de alguma dessas circunstâncias justifique uma exasperação mais incisiva.
+Desse modo, não há nenhuma vinculação a critérios puramente matemáticos, mas os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre: (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos.
+Na hipótese dos autos, devido às circunstâncias do caso concreto - valoração negativa dos antecedentes em razão da existência de 2 (duas) condenações penais -, conjugadas com os princípios da proporcionalidade e da razoabilidade, correto e proporcional o aumento da pena basilar no patamar de 1/3 (um terço) adotado pela Corte de origem.
+Em casos análogos:
+" ..
+2. As instâncias ordinárias fixaram a pena-base do crime de homicídio duplamente qualificado em 16 anos de reclusão, valorando negativamente a vetorial dos antecedentes, tendo em vista a existência de duas condenações criminais transitadas em julgado, pelos crimes de roubo duplamente majorado e tráfico de drogas, em harmonia, portanto, com a jurisprudência desta Casa.
+3. A existência de duas condenações anteriores justifica a fixação da pena-base em 1/3 acima do mínimo legal para a circunstância judicial dos antecedentes (AgRg no HC n. 446.455/SP, de minha relatoria, Sexta Turma, DJe 20/02/2020).
+4. Adotada fundamentação concreta e idônea para o incremento da pena base em fração superior a 1/6 (um sexto), não há falar em violação ao disposto no art. 59 do CP. No caso dos autos, as instâncias ordinárias valoraram negativamente a vetorial antecedentes com base em 2 (duas) condenações criminais transitadas em julgado ostentadas pelo recorrente (AgRg no REsp n. 1.942.930/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/10/2021).
+5. Agravo regimental improvido." (AgRg no HC 699.488/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021; sem grifos no original.)
+" ..
+1. A existência de duas condenações anteriores justifica a fixação da pena-base em 1/3 acima do mínimo legal para a circunstância judicial dos antecedentes. Precedente.
+ ..
+4. A soma das frações equivale ao dobro da pena mínima. Exasperação utilizada pelas instâncias ordinárias proporcional.
+5. Agravo regimental provido apenas para cassar a decisão hostilizada e restabelecer o acórdão da Apelação n. 1999.61.09.005352-4." (AgRg no HC 446.455/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/02/2020, DJe 20/02/2020.)
+No que tange à pretensa possibilidade de substituição da pena privativa de liberdade por reprimendas restritivas de direitos, o Tribunal Regional Federal da 4.ª Região manteve o afastamento do benefício com esteio nos seguintes fundamentos: "No que tange a substituição da pena por restritiva de direitos, incabível ao caso, pois apesar da pena privativa de liberdade não ultrapassar 4 (quatro) anos, o réu não preenche os requisitos previstos para a substituição (art. 44 do CP): é reincidente e possui circunstância judicial desfavorável (antecedentes)" (fl. 341).
+Como se vê, o entendimento adotado pela Corte a quo está em harmonia com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que não é cabível a substituição pretendida pela Defesa no presente recurso especial quando, tal como ocorre na hipótese dos autos, o Réu ostenta circunstância judicial negativa (no caso, os maus antecedentes) e reincidência.
+Nesse sentido:
+" ..
+4. Em que pese a pena imposta tenha sido inferior a 4 (quatro) anos, a pena-base foi fixada acima do mínimo legal tendo em vista o reconhecimento de circunstância judicial desfavorável e o paciente é reincidente, o que autoriza a fixação do regime inicial fechado, consoante pacífica jurisprudência desta Corte, circunstâncias que também impede a substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista a ausência dos requisitos previstos no art. 44, incisos II e III, e § 3º do Código Penal.
+5. Agravo regimental desprovido." (AgRg no HC n. 771.324/SP, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+" ..
+5. Outrossim, havendo "circunstância judicial desfavorável (antecedentes) e sendo o acusado reincidente, ainda que não específico, incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP)" (AgRg no AREsp n. 2.172.247/DF, relator Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1.ª Região -, Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022).
+6. Agravo regimental não conhecido." (AgRg no HC n. 798.579/SP, relatora Ministra LAURITA VAZ , Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 334, § 1.º, INCISO III, DO CÓDIGO PENAL. PENA-BASE. DESPROPORCIONALIDADE. INEXISTENTE. PLEITO PELA SUBSTITUIÇÃO DA SANÇÃO CORPORAL POR PENAS RESTRITIVAS DE DIREITOS. MAUS ANTECEDENTES E REINCIDÊNCIA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL
