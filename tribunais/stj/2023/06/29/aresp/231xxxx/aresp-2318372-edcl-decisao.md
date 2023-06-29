@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCELO ALVES DE LIMA à decisão de fl. 357, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+A priori cumpre salientar que a presente Revisão Criminal fora ingressa em 13/09/2022, de modo que se aplica ao caso em tela as disposições trazidas pela Lei nº 14.365, de 2022, que entrou em vigor no dia 03 de junho de 2022. O respectivo diploma legal prevê a inclusão do art. 798-A ao Código de Processo Penal dispondo o seguinte:
+ ..
+Pois bem, conforme certidão de e-STJ Fl.315, o embargante fora intimado em 19/01/2023 da decisão que inadmitiu o Recuso Especial, portanto, dentro do período de suspensão do prazo processual previsto no art. 798-A do CPP.
+Ressalta-se que a suspensão prevista em Lei encerrou-se no dia 20/01/2023 (sexta-feira), sendo que conforme prevê o art. 798, §1º do CPP, não se computará no prazo o dia do começo (23/01/2023 - segunda-feira), iniciando, portanto, em 24/01/2023 a contagem do prazo processual de 15 (quinze) dias corridos para interposição do Agravo em Recurso Especial, o qual se findou em 07/02/2023, data em que fora devidamente feito o protocolo do recurso, e deste modo, tempestivo.
+Cumpre ainda destacar que no caso em tela não se computa o dia do começo do prazo como sendo aquele subsequente ao encerramento da suspensão processual, haja vista que a publicação da decisão desafiada se deu durante o período de suspensão (art.
+798-A do CPP), portanto, o primeiro dia, que deve ser desconsiderado (art. 798, §1º do CPP), foi em 23/01/2023, passando a fluir o prazo em 24/01/2023 (fl. 363).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Observe-se que houve a publicação da decisão de admissibilidade do recurso especial em 19/1/2023 (fl. 315). Excluindo-se o dia 19/1/2023 (primeiro dia, nos termos do art. 798, § 1º do CPP), bem como o dia 20/1/2023 (art. 798-A), inicia-se a contagem no dia 23/1/2023, finalizando o prazo em 6/2/2023.
+Dessa forma, o prazo recursal de 15 (quinze) dias corridos, nos termos do nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do CPC, bem como do art. 798 do Código de Processo Penal, terminou no dia 6/2/2023, sendo que o agravo em recurso especial foi interposto somente em 7/2/2023, fora do prazo.
+Veja-se que, ao contrário do alegado pela parte embargante, a redação do artigo 798-A do CPP, incluído pela Lei nº 14.365/2022, deixa claro que se trata de suspensão da contagem do prazo no período de 20/12 a 20/1, o que não obsta a prática de atos, como no caso, da intimação ocorrida em 19/1/2023.
+Essa posição já está sedimentada nesta Corte no que se refere ao art. 220 do CPC, que traz o mesmo texto do art. 798-A do CPP, no sentido de que "o art. 220 do NCPC apenas suspende o curso dos prazos processuais no período de 20 de dezembro a 20 de janeiro, mas não suspende a prática dos atos, que poderá ser realizada em qualquer dia útil, nos termos dos arts. 212 e 216 do NCPC, não havendo assim, impedimento para a realização da publicação". (AgInt nos EDcl no AREsp 1604573/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 3/9/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
