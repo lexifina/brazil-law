@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJMG assim ementado (e-STJ fl. 374 ):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - ALEGAÇÃO DE COBRANÇA INDEVIDA DA TAXA DE CONSUMO DE GÁS - FORMA DE MEDIÇÃO PREVISTA EM ASSEMBLEIA CONDOMINIAL- AUSÊNCIA DE COMPROVAÇÃO DE ATO ILÍCITO - DÍVIDA EXISTENTE - DANO MORAL-AUSÊNCIA - MEROS ABORRECIMENTOS - RECURSO NÃO PROVIDO -SENTENÇA MANTIDA.
+-No caso específico dos autos, a despeito das alegações do autor, o condomínio não aplicou multa face à ausência de leitura de consumo de gás. Ao contrário, para a realização da aludida leitura, o condomínio aplicou o disposto na ata da Assembleia Geral do Condomínio, não tendo sido configurado qualquer ato ilícito.
+-Para que se possa falar em dano moral, é preciso que a pessoa seja atingida em sua honra, sua reputação, sua personalidade, seu sentimento de dignidade, passe por dor, humilhação, constrangimentos e tenha os seus sentimentos violados.
+-Os simples aborrecimentos e chateações do dia-a-dia não podem ensejar indenização por dano moral, visto que fazem parte da vida cotidiana e não trazem maiores consequências ao indivíduo.
+-Recurso não provido. Sentença mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 408/418).
+Nas razões recursais (e-STJ fls. 422/425), fundamentadas no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 11, 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Alega a existência de contradição, pois apesar de ter ficado reconhecida a necessidade de aplicação do disposto na ata da Assembleia Geral do Condomínio realizada em 25/02/1999, isso não ocorreu.
+Segundo afirma, " ..  se realmente for esta a convenção a ser acatada, se observa que os embargados descuraram de aplicá-la nos termos preceituados, pois nela consta que se o condômino não deixar realizar a leitura, isto é, "para quem não passar a leitura", será feita cobrança de forma progressiva de 5 em 5 m , ou seja, no 1º mês sem passar leitura, cobra-se 5 m ; no 2º mês, cobra-se 10 m ; 3º mês, cobra-se 15 m  e assim por diante" " (e-STJ fl. 429).
+Aponta ainda afronta aos arts. 1.337 e 1.348 , IV, do CC/2002, sustentando, em síntese, a existência de cobrança indevida da taxa de consumo de gás.
+Juízo positivo de admissibilidade (e-STJ fls. 4453/455).
+É o relatório.
+Decido.
+A irresignação referente à negativa de prestação jurisdicional merece prosperar em parte.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso, o TJMG reconheceu expressamente que (e-STJ fl. 381):
+Desta feita, ausente a realização da aludida leitura, o condomínio aplicou o disposto na ata da Assembleia Geral do Condomínio, realizada em 25/02/1999, em que restou determinado:
+"Ficou decidido que a cobrança o gás a partir de março/99, para quem não passar a leitura será feita de forma progressiva de 5/5 m , ou seja: 1º mês sem passar a leitura, cobra-se 5 m ; 2º mês cobra-se 10 m ; 3º mês cobra-se 15 m  e assim adiante".
+E, ao contrário do alegado, a norma acima citada, estabelecida em 1999, não foi revogada pela Assembleia de 2014.
+Nos embargos de declaração opostos, a parte embargante sustentou o seguinte (e-STJ fl . 393):
+Importante observar nesse particular que a cobrança deverá ser progressiva, mas no caso concreto, os Embargados procederam a uma cobrança única, fixa, todo mês passou a ser cobrado 5.000 m  (metros cúbicos)  ..
+Portanto, mesmo o condomínio aplicando o disposto na ata da Assembleia Geraldo Condomínio realizada em 25/02/1999, conforme foi entendido pelos doutos desembargadores, a cobrança mostrou-se irregular, posto que não foi progressiva e sim fixa incorrendo em contradição esta Corte de revisão, com a devida e necessária vênia.
+Contudo, a Corte local limitou-se a reiterar as razões de decidir do acórdão de apelação, sem decidir acerca da alegada existência de cobrança única e fixa no montante de 5.000 m , o que, em tese, violaria o disposto no ata da Assembleia Geral do Condomínio, realizada em 25/02/1999.
+Nesse contexto, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial, para que o Tribunal a quo se pronuncie sobre a questão, sanando assim o vício apontado. Nesse sentido é a firme jurisprudência desta Corte, como se depreende, por exemplo, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alega da novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066. 2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ. 3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial para determinar a remessa dos autos ao Tribunal de origem, a fim de seja suprida a omissão apontada.
+Publique-se e intimem-se.
