@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO (em liquidação extrajudicial), fundado na alínea c do inciso III do art. 105 da Constituição Federal, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 652, com grifos no original):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃOREVISIONAL.
+REVELIA. NÃO CARACTERIZAÇÃO. JUSTA CAUSA. A AUSÊNCIA DA INFORMAÇÃO NO SITE DESTA CORTE QUANTO À DATA DA JUNTADA DA CARTA AR DE CITAÇÃO IMPEDE O PROCURADOR DE CONHECER DO TERMO INICIAL DO PRAZO DE RESPOSTA, CONFIGURANDO JUSTA CAUSA (ART. 223 DO CPC) APTA A AFASTAR A INCIDÊNCIA DE REVELIA À CONTESTAÇÃO APRESENTADA. CONFORME O STJ (RESP N.1.324.432), A DIVULGAÇÃO DO ANDAMENTO PROCESSUAL PELOS TRIBUNAIS POR MEIO DA INTERNET PASSOU A REPRESENTAR A PRINCIPAL FONTE DE INFORMAÇÃO DOS ADVOGADOS EM RELAÇÃO AOS TRÂMITES DO FEITO, RAZÃO PELA QUAL AS INFORMAÇÕES PROCESSUAIS RETIRADAS DO SITE DO TRIBUNAL DE JUSTIÇA PASSAM A TER CARÁTER OFICIAL, E NÃO MERAMENTE INFORMATIVO, SOBRETUDO APÓS A VIGÊNCIA DA LEI DO PROCESSO ELETRÔNICO (LEI 11.419/06). INTEMPESTIVIDADE DA CONTESTAÇÃO AFASTADA. AUSÊNCIA DE PREJUÍZO À PARTE QUE, INCLUSIVE, PRESCINDIU DA DILAÇÃO PROBATÓRIA. DESNECESSIDADE DE DESCONSTITUIÇÃO DA SENTENÇA. APRECIAÇÃO DO MÉRITO, FORTENO ART. 1.013, §º3º, III, CPC.
+JUROS REMUNERATÓRIOS. JUROS PACTUADOS NOS CONTRATOS N.º 802944785, N.º 3802193358, N.º 3802207360, N.º 3802188023 QUE SE MOSTRAM ACIMA DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA A OPERAÇÃO DA ESPÉCIE VIGENTE À ÉPOCA. LIMITAÇÃO À TAXA MÉDIA. ENTRETANTO, NO CONTRATO N.º 2016089730141165000041. TAXA DE JUROS REMUNERATÓRIOS PACTUADAS QUE NÃO REVELAM DISCREPÂNCIA À TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA O MÊS DE CELEBRAÇÃO DO INSTRUMENTO. MANUTENÇÃO DOS PERCENTUAIS AJUSTADOS.
+COMPENSAÇÃO E REPETIÇÃO DE INDÉBITO. POSSIBILIDADE NA FORMA SIMPLES. SÚMULA 322, STJ.
+DESCARACTERIZAÇÃO DA MORA. RECONHECIDA A ABUSIVIDADE NA COBRANÇA DE ENCARGO DA NORMALIDADE NOS CONTRATOS N.º 802944785, Nº 3802193358, N.º 3802207360, N.º 3802188023, DESCARACTERIZA-SE A MORA EM RELAÇÃO A ESTE ATÉ O RECÁLCULO DO DÉBITO CONFORME A PRESENTE DEFINIÇÃO.
+HONORÁRIOS ADVOCATÍCIOS E DESPESAS EXTRAJUDICIAIS. ABUSIVIDADE. É ABUSIVA A CLÁUSULA CONTRATUAL QUE, NO CASO DE INADIMPLÊNCIA, OBRIGA O CONSUMIDOR AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS E DESPESAS EXTRAJUDICIAIS EM PERCENTUAL JÁ PREESTABELECIDO SOBRE O TOTAL DA DÍVIDA APURADA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+LIMITAÇÃO DE DESCONTO EM FOLHA DE PAGAMENTO. SERVIDOR PÚBLICO. A CLÁUSULA QUE AUTORIZA O DESCONTO EM FOLHA DE PAGAMENTO DO SERVIDOR ESTADUAL É LÍCITA. NÃO OBSTANTE, À LICITUDE DA CLÁUSULA, NECESSÁRIA A SUA LIMITAÇÃO AO PERCENTUAL PERMITIDO EM LEI COMO MARGEM DE CONSIGNAÇÃO. CONFORME ENTENDIMENTO PACIFICADO PELO STJ, OS DESCONTOS EM FOLHA DE PAGAMENTO DEVEM OBEDECER AO PATAMAR DE 30% SOBRE A REMUNERAÇÃO BRUTA DO CONSUMIDOR, SEM EXCLUSÃO DOS DESCONTOS OBRIGATÓRIOS, MESMO EM SE TRATANDO DE SERVIDOR PÚBLICO ESTADUAL. A LIMITAÇÃO PREVISTA NO ORDENAMENTO JURÍDICO TEM COMO FINALIDADE EVITAR O ENDIVIDAMENTO DESENFREADO E GARANTIR O MÍNIMO EXISTENCIAL AO CIDADÃO, ASSEGURANDO A SUA PRÓPRIA SUBSISTÊNCIA E A DA SUA FAMÍLIA, COROLÁRIO DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA.
+VERBA HONORÁRIA. OS HONORÁRIOS SUCUMBENCIAIS FORAM FIXADOS DE ACORDO COM OS PARÂMETROS ADOTADOS POR ESTE COLEGIADO, DE MODO QUE NÃO HÁ FALAR EM REDUÇÃO.
+APELO E RECURSO ADESIVO PARCIALMENTE PROVIDOS. UNÂNIME.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 685-688).
+Nas razões do recurso especial (e-STJ, fls. 698-713), a recorrente alegou a existência de dissídio jurisprudencial, apontando violação ao art. 51, IV, § 1º, III, do Código de Defesa do Consumidor.
+Sustentou, em síntese, que o Tribunal de origem concluiu pela abusividade da taxa de juros remuneratórios sem proceder a observância das peculiaridades do caso concreto, apenas pelo cotejo entre a taxa contratada e a taxa média do mercado divulgada pelo Banco Central à época da contratação.
+Sem contrarrazões (e-STJ, fl. 889).
+O Tribunal de origem não admitiu o processamento do recurso especial, em virtude da incidência das Súmulas 5, 7 e 83/STJ (e-STJ, fls. 897-901).
+Foi interposto agravo em recurso especial às fls. 909-992 (e-STJ), e não apresentada contraminuta, conforme certificado à fl. 925 (e-STJ).
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+(..)
+4. Agravo interno desprovido .
+(AgInt no AREsp 1.405.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021.)
+No caso, verifica-se que o Tribunal de Justiça do Estado do Rio Grande do Sul, ao analisar os juros remuneratórios contratados, concluiu que eles seriam abusivos, conforme se depreende do excerto abaixo transcrito (e-STJ, fls. 643-645, com grifos no original):
+A orientação emanada pelo Superior Tribunal de Justiça pauta-se no sentido de que, comprovada a abusividade na pactuação dos juros, aplica-se a taxa média de mercado divulgada pelo BACEN para o mês de celebração do instrumento.
+(..)
+Nesse contexto, a redução dos juros depende de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes.
+No caso concreto, verifica-se no:
+1) Contrato de Empréstimo Pessoal Consignado em Folha de Pagamento ou em Benefício Previdenciário, (Bradesco) n.º 802944785, pactuados juros remuneratórios de 3,57% ao mês e 52,34% ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (séries 25467 e 20745) foi de 1,84% ao mês e 24,49% ao ano, o que revela significativa discrepância.
+2) Contrato de Cédula de Crédito Bancário (Banrisul)n.º 2016089730141165000041, em que pactuados juros remuneratórios de 2,50% ao mês e 34,49%ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (séries 25467 e 20745) foi de 2,05% a. m. e 27,54% a. a. o que revela significativa discrepância.
+3 ) Contrato de Mútuo (Portocred) n.º 3802193358, em que pactuados juros remuneratórios de 6,00% ao mês e 101,33% ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (séries 25467 e 20745) foi de 2,00% a. m. e26,85% a. a., o que revela significativa discrepância.
+4) Contrato de Mútuo (Portocred) n.º 3802207360, pactuado juros remuneratórios de 6,00% ao mês e 101,33% ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (séries 25467 e 20745) foi de 2,00% a. m. e 26,85% a. a, o que revela significativa discrepância.
+5 ) Contrato de Mútuo (Portocred) n.º 3802188023, firmado em 30/12/2015,prevendo juros remuneratórios de 4,83% ao mês e 76,23% ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (séries 25467 e 20745) foi de 1,98%a. m. e 26,52% a. a, o que revela significativa discrepância.
+Observo que, apesar de constar referência à utilização da série temporal 20749 -aquisição de veículos (nota de roda pé Ev. 3 - PROCJUDIC 9 - fl. 22) -, para todos os contratos, os índices utilizados para revisão estão corretos, pois correspondentes ao crédito consignado para trabalhadores do setor público (séries 25467 e 20745).
+Nesse contexto, observada a consonância do acórdão recorrido com a jurisprudência desta Corte (Súmula 83/STF), não há como afastar a conclusão estadual (entendendo que os juros remuneratórios contratados não seriam abusivos) sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Casa.
+Sobre o tema, vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA. SÚMULAS 5 E 7/STJ. MORA. DESCARACTERIZADA. SÚMULA 83 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+(..)
+3. No caso dos autos, o Tribunal de origem entendeu, quanto aos juros remuneratórios, que houve abusividade em sua cobrança. Rever essa conclusão demandaria reexame de provas e interpretação de cláusulas contratuais, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+(..)
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1.983.007/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022.)
+RECURSO ESPECIAL. DIREITO CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO DE CARTÃO DE CRÉDITO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. TEMA REPETITIVO Nº 27/STJ. INCIDÊNCIA DOS ENUNCIADOS N.º 05 E 07/STJ.
+(..)
+8. Afastar a conclusão do Tribunal de Justiça a quo, soberano na análise dos fatos e das provas, reconhecendo a abusividade da taxa de juros remuneratórios praticada no caso concreto, exigiria incursão no conteúdo fático-probatório dos autos e interpretação de cláusula contratual, procedimentos vedados em sede de recurso especial, a teor dos enunciados sumulares n.º 5 e 7/STJ.
+9. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+(REsp 1.722.233/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/09/2021, DJe 14/12/2021.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em R$ 300,00 (trezentos reais).
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
