@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 424):
+PROCESSO CIVIL. APELAÇÃO. CIVIL. FINANCIAMENTO ESTUDANTIL - FIES. PRESTAÇÃO DE SERVIÇO EDUCACIONAL. RENDIMENTO ESCOLAR. UNIESP. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO NÃO CONFIGURADA. DANO MORAL. NÃO RECONHECIDO. APELAÇÃO PARCIALMENTE PROVIDA.
+1-Cinge-se a controvérsia em verificar a responsabilidade da UNIESP em relação ao pagamento das prestações do financiamento estudantil da autora tendo em vista acompanha promovida pela requerida, denominada "Estude na Faculdade, por meio do FIES e a UNIESP PAGA!", e se a autora preencheu os requisitos que lhe cabiam, previstos na cláusula 3.2 do contrato.
+2-Os documentos juntados aos autos indicam que as partes subscreveram compromissos diversos entre os quais o "Certificado de Garantia de Pagamento do Fundo de Financiamento Estudantil - FIES pelas Faculdades do GRUPO EDUCACIONAL ", e "Termo de Garantia de Pagamento das prestações do UNIESP FIES aos estudantes dos Cursos das Instituições de Ensino Superior - ou IES do GRUPO EDUCACIONAL ", constando neste documento o item 3.2,UNIESPcorrespondente à obrigação da autora de "Mostrar excelência no rendimento escolar e na frequência às aulas e às atividades acadêmicas realizadas no Curso Superior escolhido; ser disciplinado e colaborador da Instituição em suas iniciativas de melhorias acadêmicas, culturais e sociais."
+3-Verifica-se que a redação do dispositivo em questão não define com precisão o que se considera "excelência no rendimento escolar", tampouco os meios para a aferição do que é "ser disciplinado e colaborador da instituição". Portanto, a UNIESP não poderia se furtar ao compromisso que assumiu perante à autora agindo de forma ardilosa com a intenção de enriquecimento sem causa.
+4-Relevante mencionar que a apelante é ré em diversas ações mobilizadas perante esta Justiça Federal e também no âmbito da Justiça Estadual, discutindo-se nessas ações a responsabilidade da instituição pela veiculação de publicidade abusiva ou propaganda enganosa, por meio da qual oferecia o ingresso em curso superior mediante expressivo subsídio aos consumidores prosseguida de recusa ao cumprimento dos termos ofertados publicamente.
+5-Deve-se reconhecer o direito da autora de obter a declaração de inexistência da relação jurídica que a obrigue a pagar a quantia decorrente do contrato de financiamento estudantil (FIES).
+6-Quanto ao dano moral, os fatos narrados nos autos não demonstram que a autora tenha sofrido algum abalo psíquico a ensejar o seu arbitramento.
+7-Por fim, quanto aos honorários, devem ser fixados em 10% do valor da condenação, com base no artigo 85 § 2º do CPC.
+8-Apelação parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 492/496).
+Nas razões do recurso especial (e-STJ fls. 508/520), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 186 e 927 do CC/2002 do CPC/2015, além de dissídio jurisprudencial, alegando "o princípio da boa fé objetiva é o fundamento jurídico do direito à informação plena, no caso em tela as recorridas apresentaram contrato totalmente fora dos padrões exigidos em lei, sem causa, sem motivo, de forma injusta e ilegal, o que foi devidamente reconhecido pelo Tribunal  ..  a situação constrangedora causada pelo não cumprimento de obrigação assumida pela instituição ultrapassou o mero aborrecimento, uma vez que a recorrente acreditou na Instituição ao iniciar seu estudos e necessitou ingressar em juízo para ver reconhecido seu direito, sofrendo cobrança injustamente, tendo seus dados mantidos irregularmente nos órgãos de proteção ao crédito" (e-STJ fl. 513).
+Em suma, são estes os pedidos recursais (e-STJ fl. 520):
+- a admissibilidade do recurso especial, determinando assim, a reforma do acórdão por contrariedade aos artigos 186 e 927 do Código Civil, além de divergência jurisprudencial, para a devida condenação das recorridas em indenização por danos morais, nos moldes pretendidos pela recorrente;
+Assim, espera seja modificado o r. acórdão proferido junto ao Tribunal Regional Federal da 3ª Região, para que assim seja reconhecida e arbitrada a condenação por danos morais em favor da recorrente.
+Foram oferecidas contrarrazões (e-STJ fls. 542/546).
+No agravo (e-STJ fls. 556/562), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Conforme consta nas razões do acórdão, com relação ao dano moral, o TJSP entendeu que "os fatos narrados nos autos não demonstram que a autora tenha sofrido algum abalo psíquico a justificar o seu arbitramento" (e-STJ fl. 422).
+Nesse contexto, impõe-se reconhecer que a alteração do que decidido pelo Tribunal de origem implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Além disso, constata-se que, apesar de opostos embargos de declaração, a tese acerca da inscrição indevida não foi enfrentada pelo Trib unal. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+Caberia à parte alegar violação do art. 1.022 do CPC/2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+ ..
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ). O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido.
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 28/08/2015.)
+Ressalte-se que esta Corte Superior perfilha o entendimento de que a admissão do prequestionamento ficto previsto no art. 1.025 do CPC/2015 exige que se aduza, no recurso especial, violação do art. 1.022 do Diploma Processual (art. 535 do CPC/1973), providência não adotada pelo recorrente. Sobre o tema:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido.
+(REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017.)
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
