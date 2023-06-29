@@ -1,0 +1,4 @@
+DECISÃO
+Por meio da petição de fls. 354/355, a parte querente pugna pela suspensão do julgamento do presente feito, "pois a mesma matéria está sendo analisada por esta douta corte e submetida a julgamento, inclusive sendo cadastrado como Tema 1.178 na base de dados do STJ, e tal controvérsia está assim redigida: "Definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos artigos 98 e 99, parágrafo 2º, do Código de Processo Civil"." (fl. 354).
+Tendo em vista o julgamento e respectiva publicação do acórdão que apreciou o agravo interno de fls. 315/322, nada a ser deferido em relação ao pedido de suspensão do presente feito, valendo acrescentar que o aludido julgamento colegiado se limitou a confirmar a existência de óbice ao conhecimento do apelo especial de fls. 195/203.
+Publique-se.
