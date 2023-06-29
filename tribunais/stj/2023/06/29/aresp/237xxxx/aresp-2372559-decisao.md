@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto DESENBAHIA -AGE NCIA DE FOMENTO DO ESTADO DA BAHIA S. A. contra a decisão de fls. 646-649, (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia assim ementado (fl. 503, e-STJ):
+AGRAVO INTERNO EM APELAÇÃO. DIREITO PROCESSUAL CIVIL. DECISÃO QUE NÃO CONHECEU DA APELAÇÃO. RAZÕES DISSOCIADAS DO COMANDO SENTENCIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA AO ÔNUS DA IMPUGNAÇÃO ESPECIFICADA. APLICAÇÃO DE MULTA DE TRÊS POR CENTO SOBRE O VALOR DA CAUSA. AGRAVO INTERNO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 534-536, e-STJ).
+Nas razões de recurso especial (fls. 540-546, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação aos arts. 5º, XXXV, LXXVII, 924 e 1.056 do Código de Processo Civil de 2015.
+Sustentou, em suma, não estar caracterizado o abandono da causa a ensejar a extinção do feito, sem resolução do mérito, quando o processo estiver paralisado em virtude da inexistência de ato que deveria ser praticado exclusivamente pelo interessado.
+Apontou que para a aludida extinção, obrigatória a intimação pessoal da parte e do seu advogado para, querendo, dar prosseguimento ao feito, formalidade não observada nesses autos, motivo pelo qual os autos devem retornar ao juízo a quo para cumprimento da formalidade e o regular prosseguimento do feito.
+Em juízo de admissibilidade (fls. 646-649, e-STJ), a Corte de origem negou o processamento do recurso especial ante a ausência de recolhimento prévio da multa aplicada (art. 1.021, § 4º, do CPC/2015), requisito prévio par o conhecimento de qualquer outro recurso.
+Irresignada (fls. 689-700, e-STJ), aduz a agravante que o reclamo merece trânsito, limitando-se a repisar as mesmas razões já trazidas no recurso especial.
+Sem contraminuta, conforme certificado às fls. 703-704 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese dos autos, o Tribunal de origem, ao negar provimento ao agravo interno, aplicou multa de 3% (três por cento) sobre o valor atualizado da causa (e-STJ, fl. 503).
+No entanto, observa-se que não houve o prévio depósito do valor da referida multa.
+Com efeito, o recolhimento prévio da multa do art. 1.021, § 4º, do CPC/2015 constitui pressuposto objetivo de admissibilidade, nos termos redigido no § 5º do citado artigo da lei de regência, à exceção dos recursos interpostos pela Fazenda Pública ou por beneficiário da gratuidade de justiça, que farão pagamento ao final do processo, não se tratando de multa por litigância de má-fé nem se cogitando da necessidade de intimação separada e específica para pagamento.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INVENTÁRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO, ANTE SUA INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Nos termos do artigo 1.021, § 5º, do Código de Processo Civil, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento. Precedentes.
+2. Descabe a interposição de agravo interno contra acórdão proferido por órgão colegiado do STJ, configurando, assim, erro grosseiro a interposição do presente recurso. Precedentes.
+3. Agravo interno não conhecido. (AgInt no AgInt no AgInt no AREsp n. 1.089.564/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA. ART. 1.026. § 2º, DO NCPC. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. EMBARGOS NÃO CONHECIDOS. MAJORAÇÃO DA MULTA.
+1. Na dicção do art. 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer recurso, de modo que não se conhece desse meio de impugnação sem o pagamento da referida penalidade. Precedentes.
+2. Em razão do caráter manifestamente protelatório dos embargos de declaração, verifica-se a necessidade de elevar a multa anteriormente aplicada para 5% (cinco por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 3º, do CPC/2015.
+3. Embargos de declaração não conhecidos, com elevação da multa para 5% do valor atualizado da causa. (EDcl nos EDcl nos EDcl no AgInt no REsp n. 1.758.467/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/11/2022, DJe de 7/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
