@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interno interposto por OSWALDO GARCIA DE FREITAS contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo, nos termos do artigo 21-E, V, do RISTJ, em razão da impossibilidade de exame da apontada violação a dispositivo da Constituição Federal (e-STJ fls. 207/208).
+No agravo interno, a parte agravante alega, em síntese, a inaplicabilidade do óbice supracitado e, ao final, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado.
+Como a parte agravante impugnou todos os fundamentos da decisão recorrida, reconsidero a decisão de fls. 207/208 (e-STJ), e passo à análise do agravo em recurso especial, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/1/2023.
+Concluso ao gabinete em: 27/6/2023.
+Ação: embargos à execução ajuizada pelo agravante, em face de VANILDA GARCIA DUARTE.
+Sentença: julgou parcialmente procedentes os pedidos formulados por OSWALDO GARCIA DE FREITAS para adequar o valor da dívida para R$ 16.000,00 (dezesseis mil reais) e reajustando a data da emissão da nota promissória para 29/10/2015 e o vencimento para um ano depois.
+Acórdão: deu provimento à apelação da agravada e negou provimento ao recurso adesivo do agravante, nos termos da seguinte ementa (e-STJ fl. 136):
+APELAÇÕES CÍVEIS, PRINCIPAL E ADESIVA - EMBARGOS À EXECUÇÃO - TÍTULO EXECUTIVO EXTRAJUDICIAL - NOTA PROMISSÓRIA - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEIÇÃO - INVERSÃO DO ÔNUS DA PROVA - AUSÊNCIA DE VEROSSIMILHANÇA DAS ALEGAÇÕES - INDEFERIMENTO - PREENCHIMENTO ABUSIVO E AGIOTAGEM - NÃO COMPROVAÇÃO.
+Embora se reconheça o direito fundamental da parte ao devido processo legal, do qual desdobra o direito à produção probatória, tal direito não é absoluto, encontrando limites de exercício no próprio ordenamento jurídico.
+Para a inversão do ônus da prova com fundamento na Medida Provisória nº 2.172-32/2001, é necessária a demonstração de verossimilhança da alegação de agiotagem, ausente na espécie.
+Cabe ao devedor comprovar robustamente a prática de agiotagem, bem como eventuais vícios da relação jurídica subjacente à emissão da nota promissória e/ou o seu preenchimento abusivo, o que aqui não ocorreu.
+Recurso especial: alega, além do dissídio jurisprudencial, violação aos artigos 369 do CPC/2015; e 5º, LX, da Constituição Federal.
+Sustenta, em síntese, cerceamento de defesa, visto que a " ..  despeito da natureza tributária da declaração de imposto de renda, não há óbice de que ela possa ser utilizada como prova, mesmo porque, o valor do empréstimo alegado deve obrigatoriamente ser lançado na referida declaração do contribuinte prestada ao órgão de fiscalização  .. ", sendo que a " ..  violação do devido processo legal é cristalina, sendo certo que a defesa é garantia constitucional  .. " (e-STJ fl. 161).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação a dispositivo constitucional.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do artigo 102, III, da Constituição Federal (EDcl no AgRg nos EAREsp n. 784.126/DF, Corte Especial, DJe 28/11/2017).
+Dessa forma, o presente recurso não pode ser conhecido no que tange à alegada violação ao artigo 5º, LX, da Constituição Federal.
+- Do cerceamento de defesa.
+Da análise dos autos, com relação ao pedido de reconhecimento de cerceamento de defesa, cumpre destacar que o Colegiado local é soberano quanto à pertinência da produção das provas que as partes pretendam juntar aos autos, bem como acerca da análise das provas efetivamente trazidas.
+De fato, observo que o Tribunal de origem decidiu em consonância com o entendimento pacificado no Superior Tribunal de Justiça, no sentido de que não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+Nesse sentido, os seguintes precedentes do Superior Tribunal de Justiça: AgInt nos EDcl no AREsp n. 2.097.541/RS, Terceira Turma, DJe de 18/11/2022; AgInt no AREsp n. 1.931.634/SP, Terceira Turma, DJe de 2/6/2022; AgInt no AREsp n. 1.903.083/DF, Quarta Turma, DJe de 11/4/2023; AgInt no AREsp n. 2.068.661/PR, Quarta Turma, DJe de 31/3/2023.
+Dessa maneira, encontrando-se o acórdão recorrido em consonância com a orientação firmada por esta Corte Superior, incide, portanto, a Súmula n. 568/STJ.
+Além disso, o Colegiado estadual, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 139/140):
+ ..
+Embora se reconheça o direito fundamental da parte ao devido processo legal, do qual desdobra o direito à produção probatória, tal direito não é absoluto, encontrando limites de exercício no próprio ordenamento jurídico.
+Não se pode perder de vista que Juiz é o verdadeiro destinatário da prova, a qual visa à formação do seu convencimento. Cabe a ele, portanto, avaliar a necessidade de produção de cada um dos meios probatórios postulados pelas partes, indeferindo aqueles que se revelarem desnecessários, sob pena de se atentar contra os princípios da celeridade e economia processual, onerando, injustificadamente, o trâmite processual. Neste sentido, o art. 370 e seu parágrafo único, do CPC:
+ ..
+Quanto à declaração de renda da tomadora, beneficiária da NP em discussão, de nada adiantaria para a prova do alegado preenchimento abusivo, cerne da questão aqui tratada, sempre partindo do pressuposto que os emitentes reconhecem ao menos a sua assinatura naquela cártula.
+Sendo assim, ainda que a beneficiária não tenha informado ao fisco a concessão do empréstimo em família, trata-se de irregularidade a ser sanada junto à RFB, que em nada reflete nos requisitos do título executivo extrajudicial.
+Neste prisma, REJEITO a preliminar de cerceamento de defesa.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados desta Corte Superior: AgInt no AREsp n. 2.179.672/CE, Terceira Turma, DJe de 7/6/2023; AgInt no AREsp n. 2.007.852/SP, Terceira Turma, DJe de 31/5/2023; AgInt no AREsp n. 1.347.896/MS, Quarta Turma, DJe de 9/6/2023; e AgInt no AREsp n. 1.702.606/DF, Quarta Turma, DJe de 2/6/2023.
+Forte nessas razões, nos termos do parágrafo 2º do artigo 1.021 do CPC/2015, reconsidero a decisão de fls. 207/208 (e-STJ), ficando, por conseguinte, prejudicado o agravo interno de fls. 212/216 (e-STJ), CONHEÇO do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da condenação (e-STJ fls. 136/146) para 15% (quinze por cento), observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECONSIDERAÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA PROBATÓRIA. SÚMULA N. 568/STJ. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedente.
+3. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento. Precedentes.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Reconsiderada a decisão de fls. 207/208 (e-STJ) reconsiderada), ficando, por conseguinte, prejudicado o agravo interno de fls. 212/216 (e-STJ). Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
