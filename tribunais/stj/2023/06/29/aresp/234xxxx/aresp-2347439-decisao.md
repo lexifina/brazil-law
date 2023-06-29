@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO MONITORIA. CONTRATO PARA DESCONTO DE TÍTULOS. SENTENÇA QUE PRONUNCIOU A PRESCRIÇÃO DA PRETENSÃO AUTORAL, EXTINGUINDO O PROCESSO, COM RESOLUÇÃO DO MÉRITO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, §§ 2º e 10 , do CPC, no que concerne à impossibilidade de atribuição dos honorários sucumbenciais à recorrente, eis que foram os recorridos que deram causa ao processo, trazendo a seguinte argumentação:
+7.1. O recorrente foi condenado ao pagamento de honorários advocatícios sucumbenciais à Defensoria Pública, decorrente da defesa efetuada a título de curadoria especial.
+7.2. Inicialmente, é importante consignar que o Superior Tribunal de Justiça já decidiu que "Os honorários advocatícios não são devidos à Defensoria pública no exercício da curadoria especial, visto que essa função faz parte de suas atribuições institucionais (STJ - RECURSO ESPECIAL Nº 1.203.312/SP - Rel.: Min. Nancy Andrighi - j. 14/04/2011)".
+7.3. Na sequência, a decisão colegiada negou vigência ao § 10º do artigo 85 do CPC ao condenar a instituição bancária ao pagamento de honorários advocatícios sucumbenciais.
+7.4. Nos termos do § 10º, nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+ ..
+7.7. É importante frisar: "quem deu causa a instauração do processo deve suportar as despesas dele decorrentes" (STJ, REsp 1.160.483/RS, rel. Min Luis Felipe Salomão, 4ª T, j. 10/06/2014).
+7.8. Dito isso, é necessário ressaltar dois aspectos importante com a finalidade de demonstrar a desnecessidade de revolvimento fático probatório dos autos e a negativa de vigência ao § 10 do art. 85, CPC:
+(a) a decisão colegiada consignou que a demanda foi ajuizada em virtude da existência de contrato inadimplido pela parte ex adversa 2 ; e (b) as diligências efetuadas pela parte autora/recorrente com a finalidade de citar o devedor foram consignadas na decisão colegiada (datas, custas, movimentos etc). Da análise das referidas diligências, é possível verificar que, ainda que o Banco não tenha se manifestado prontamente em relação aos despachos judiciais, todas as solicitações efetuadas pelo juízo foram diligentemente cumpridas pela instituição financeira.
+7.9. Dessa forma, ao deixar de aplicar a causalidade em conjunto com o § 10 do art. 85, CPC, o Tribunal de Justiça atentou contra a jurisprudência do STJ, conforme se depreende da análise dos posicionamentos angariados ao presente recurso e negou vigência a legislação processual civil, motivo pelo qual requer a reforma da decisão, a fim de afastar a condenação da instituição financeira ao pagamento de honorários (fls. 800-802).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante ao ônus sucumbencial, assiste razão à parte ré, representada pela Defensoria Pública do Estado do Paraná.
+Isso porque, na hipótese, a ação de cobrança foi extinta por não ter, a parte autora, promovido a citação dos réus antes de escoado o prazo prescricional.
+Com efeito, não obstante os réus tenham dado causa ao ajuizamento da ação de cobrança, o reconhecimento da prescrição da pretensão, na espécie, se deu porquanto não evidenciada que a demora fosse imputável exclusivamente ao serviço judiciário, sendo inaplicável, portanto, o disposto na Súmula 106 do STJ.
+Dessa forma, cumpre à parte autora arcar com o ônus da sucumbência, conforme entendimento desta Corte de Justiça:
+ ..
+Dessarte, deve a parte autora arcar com o pagamento das custas processuais, conforme já determinado pelo magistrado na sentença apelada, assim como dos honorários advocatícios sucumbenciais (fl. 756).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
