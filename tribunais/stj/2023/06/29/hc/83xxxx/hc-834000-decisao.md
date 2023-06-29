@@ -1,0 +1,45 @@
+DECISÃO
+O presente writ, impetrado em benefício de Luiz Guilherme de Azevedo Lima - condenado como incurso no crime de tráfico de drogas à pena de 5 anos, em regime inicial semiaberto, e pagamento de 500 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0145.20.353752-0/001), comporta pronto acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria imposta, ao argumento de que não houve fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada tão somente em função da quantidade de drogas apreendidas, representadas por 1.013,28 g de cocaína, 1.400,59 g de maconha e 1,08 g de haxixe, ou seja, um pouco mais de 2 kg de entorpecentes encontrados numa mochila (fl. 6), razão pela qual requer, ao final, a incidência do privilégio em seu grau máximo.
+Da análise da sentença e do acórdão hostilizados observa-se que, de fato, o redutor em questão foi afastado com base em presunção de que o paciente se dedicaria a atividades criminosas, em razão da quantidade de droga apreendida (1.013,28 g de cocaína, 1.400,59 g de maconha e 1,08 g de haxixe), quando idêntico elemento foi utilizado para a exasperação da pena-base. Confiram-se, no que interessa, trechos da sentença condenatória (fls. 26/27 - grifo nosso):
+ ..
+EX POSITIS, por tudo que dos autos consta e acima ficou consignado, por SENTENÇA, JULGO parcialmente PROCEDENTE pedido da denúncia, absolvendo LUIZ GUILHERME DE AZEVEDO LIMA das sanções do art. 16 da Lei n. 10.826/2003, nos termos do art. 386, VII do CPP; condenando-o nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, passando a dosimetria da pena, atento as diretrizes do art. 5º, XLVI, da CF e aos arts. 68 e 59, do CP:
+24.1. Culpabilidade: considero-a anormal para o caso tratado nos autos, reprovável a conduta praticada em face da consciência da ilicitude e da exigibilidade de comportamento diverso daquele adotado pelo condenado;
+24.2. Antecedentes criminais: imaculados conforme CAC  fl. 63;
+24.3. Conduta social: não atacada e nem elogiada nos autos, devendo ser tida a seu pró (sic);
+24.4. Personalidade do agente: pouco exteriorizada nos autos, ficando sem alicerce para mais falar sobre este tópico;
+24.5, Motivos do crime: que lhes são totalmente desfavoráveis, porque não encontro qualquer embasamento para que o fato fosse praticado como descrito nos autos;
+24.6. Circunstâncias: em atenção ao art. 42 da Lei n. 11.343/2006, em razão da vultuosa quantidade de droga apreendida, tal fato servirá para fixar a pena acima do mínimo legal;
+24.7. Consequências do crime: que foram as esperadas, pois, o bem tutelado é a saúde pública e, com seu ato causa propensão de gastos para o Estado;
+24.8. Comportamento da vítima: a própria Sociedade, que nenhuma influência teve para aparecimento do fato no mundo jurídico.
+Fixo pena em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa. Pela atenuante da confissão espontânea, a abrando de 6 (seis) meses e 50 (cinquenta) dias-multa, encontrando 5 (cinco) anos e 6 (seis meses) de reclusão e 550 (quinhentos e cinquenta) dias-multa. Ausentes agravantes. Pela minorante do privilégio, a abrando de 1/2 (metade), encontrando 2 (dois) ano e 9 (nove) meses de reclusão no regime aberto e 275 (duzentos e setenta e cinco) dias-multa, no valor unitário mínimo legal a era dos fatos, que sofrerá reajuste conforme tabela da CGJ quando de sua satisfação, a estabilizar-se à mingua de outras causas de oscilação.
+ ..
+Já a Corte estadual, ao revisitar a pena imposta, afastando a minorante do tráfico privilegiado, manteve a pena-base com a negativação do vetorial referente à quantidade de droga, consignando que (fls. 35/36 - grifo nosso):
+ ..
+No presente caso, embora o apelante seja primário, as circunstâncias que envolveram sua prisão e a existência de outros elementos informativos nos autos denotam que ele se dedicava a atividades criminosas.
+Consoante os laudos acostados aos autos (fls. 23-27) foram apreendidos, no total, 1.013,28 g de cocaína; 1.400,59 g de maconha e 1,08 g de haxixe.
+Ora, não é crível que alguém que fosse "marinheiro de primeira viagem" fosse armazenar elevada quantidade de entorpecentes. Da mesma forma, não é razoável crer que um grande traficante (e, no caso, a quantidade de drogas leva a esta conclusão, pois, sabidamente, dá para abastecer uma enorme região, além de representar vultosa quantia em dinheiro) iria confiá-la a um inexperiente no mundo do tráfico.
+Além da grande quantidade de drogas, foram apreendidas diversas embalagens usadas para acondicionar entorpecentes, balança de precisão e a quantia de 760,00 sem comprovação lícita.
+Destaque-se, ainda, que, pela prova colhida, os policiais receberam denúncia anônima informando que o acusado receberia um carregamento de drogas naquela data, razão pela qual, dirigiram-se até a casa do réu e lograram êxito em apreender os objetos já descritos.
+Frise-se que o apelado Luiz Guilherme confirmou aos policiais que estava guardando a droga para um indivíduo de nome Gustavo e que receberia a quantia de R$ 7.500,00. Segundo consta da comunicação de serviço de fls. 48-49, as drogas apreendidas com o acusado seriam de propriedade de Gustavo Bressan, pessoa contumaz no tráfico de drogas e temida pela sua agressividade. Informaram também os investigadores, que havia uma denúncia do ano de 2019 relatando que os irmãos Bressan estariam usando um local no bairro de Lourdes para guardar grande quantidade de drogas, mesmo bairro em que se localiza a casa do réu.
+Em suma, todas as circunstâncias envolvendo o fato levam à irrefragável conclusão de que o apelante se dedicava à atividade criminosa do tráfico.
+ ..
+Ocorre que o reconhecimento da dedicação a atividades criminosas demanda a indicação de elementos concretos dos autos que demonstrem, no mínimo, a vinculação do sentenciado com organização criminosa, de maneira estável e permanente, ou que fazia do crime seu meio de vida, além de ser inviável a dupla valoração da pena com base no mesmo fundamento.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO ESTADUAL CONTRA DECISÃO DE CONCESSÃO PARCIAL DA ORDEM. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO (ART. 33, § 4º, DA LEI N. 11.343/2006). MOTIVAÇÃO. INSUFICIÊNCIA. AUSÊNCIA DE ELEMENTOS CONCRETOS INDICATIVOS DA DEDICAÇÃO A ATIVIDADES DELITUOSAS OU VINCULAÇÃO DE FORMA ESTÁVEL E PERMANENTE À ORGANIZAÇÃO CRIMINOSA. QUANTIDADE E QUALIDADE NO AUMENTO DA PENA-BASE. MODULAÇÃO DA FRAÇÃO NA TERCEIRA FASE. IMPOSSIBILIDADE. BIS IN IDEM.
+1. Hipótese em que o fundamento utilizado pelas instâncias de origem para afastar o reconhecimento do tráfico privilegiado foi a presunção de que a expressiva quantidade de entorpecentes e sua forma de acondicionamento seria indicativo de que os envolvidos não eram traficantes eventuais, sem, contudo, haver a demonstração, por meio de elementos concretos extraídos dos autos, de que eles se dedicavam a atividades criminosas ou integravam de maneira estável e permanente organização criminosa.
+2. Portanto, viável a concessão da redutora, a despeito da apreensão de grande quantidade de droga, quando, tratando-se de réu primário, não haja indicação nenhum elemento adicional que demonstre cabalmente a inserção do agravado em grupo criminoso de maior risco social, a atuação armada, o envolvimento de menores ou apreensão de apetrecho/instrumento de refino da droga. Precedente.
+3. É vedada a dupla aferição da quantidade e da natureza da droga, concomitantemente, na primeira etapa da dosimetria para exasperar a pena-base e na terceira fase para modular a minorante, sob pena de indevido bis in idem.
+4. Agravo regimental improvido.
+(AgRg no HC n. 787.147/SP, da minha lavra, Sexta Turma, DJe 20/4/2023 - grifo nosso)
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a fixação da pena, na primeira e segunda fases, em 6 anos de reclusão e 600 dias-multa, na terceira etapa, aplico o redutor em 2/3, resultando a reprimenda em 2 anos de reclusão e 2 00 dias-multa.
+Considerando a reprimenda definitiva imposta e a fixação da pena-base acima do mínimo legal, o regime adequado é o semiaberto.
+Diante da quantidade de droga apreendida, inviável a substituição da privativa de liberdade por restritiva de direitos.
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, resultando a reprimenda definitiva em 2 anos de reclusão, em regime inicial semiaberto, e 200 dias-multa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publi que-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE E MINORANTE (ART. 33, § 4º, DA LEI N. 11.343/2006). UTILIZAÇÃO DE FUNDAMENTO COM BASE NA QUANTIDADE DE DROGA APREENDIDA (1.013,28 G DE COCAÍNA, 1.400,59 G DE MACONHA E 1,08 G DE HAXIXE). PRESUNÇÃO DE VÍNCULO COM ORGANIZAÇÃO CRIMINOSA. DEMONSTRAÇÃO. AUSÊNCIA. UTILIZAÇÃO DA QUANTIDADE, TAMBÉM, NA PRIMEIRA ETAPA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. APLICAÇÃO DO REDUTOR QUE SE IMPÕE.
+Ordem liminarmente concedida nos termos do dispositivo.
