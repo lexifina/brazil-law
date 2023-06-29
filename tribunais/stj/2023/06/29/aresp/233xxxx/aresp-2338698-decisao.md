@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado por CLAUDIONEI DA SILVA GOMES em face da r. decisão que inadmitiu o recurso especial interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o ora agravante foi sentenciado como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 (um) ano e 8 (oito) meses reclusão, em regime inicial aberto, e 166 dias-multa. (fls. 179-183).
+Irresignada, a il. Defesa e o Parquet estadual interpuseram recursos de apelação criminal perante o eg. Tribunal de origem, que negou provimento ao apelo da Defesa, mas deu provimento ao recurso de apelação criminal da acusação, "para subsumir a conduta do denunciado ao crime previsto no ad. 33, caput, da Lei n.º 11.343/2006, fixada a reprirnendã em 05 (cinco) anos de reclusão, em regime prisional semiaberto, mais 500 (quinhentos) dias-multa, estes graduados à razão unitária mínima" (fls. 214-216).
+Apresentados embargos infringentes e de nulidade, pela combativa Defesa (fls. 274-284), foram eles desacolhidos (fls. 309-312).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal (fls. 582-596), a insurgente alega "CONTRARIEDADE AOS ARTS. 33, §40 e 42, ambos da Lei n.º 11.343/2006" (fl. 337). Para tanto, menciona que:
+a) "É simples de se pensar que, transcorrido o período depurador, a condenação não apta para gerar reincidência, também não é apta a configurar maus antecedentes, uma vez que a reincidência é muito mais gravosa ao apenado do que o vetor dos antecedentes" (fl. 340);
+b) "espera-se seja conhecido e provido o presente recurso para que esta Colenda Corte Superior, corrigindo a violação à legislação federal apontada, pronuncie-se a respeito da possibilidade de aplicação do privilégio, previsto no §4 0 , do artigo 33 da lei 11.343106 ao ora recorrente, tendo em vista a aus ncia de maus antecedentes com base nos princípios da proporcionalidade, razoabilidade e no direito ao esquecimento" (fl. 343).
+Por fim, requer "seja provido para, reformando o v. acórdão combatido, que, ao indeferir a aplicação do privilégio ao recorrente, ofendeu os artigos 33, §4 0 e 42 da Lei 11.343106, aplique a referida causa de diminuição de pena em seu grau máximo" (fl. 345).
+Apresentadas as contrarrazões (fls. 350-354), sobreveio juízo negativo de admissibilidade fundado na aplicação da Súmula n. 83/STJ (fls. 356-359).
+Nas razões do agravo, postula-se o processamento do recurso especial (fls. 362-371), bem como reitera as argumentações vertidas no apelo especial.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 391-397).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao apelo especial, no caso, a incidência do Enunciado Sumular n. 83/STJ.
+De fato, quanto ao óbice do Enunciado Sumular n. 83/STJ, caberia a agravante comprovar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior de Justiça, a desarmonia do julgado com a jurisprudência sedimentada, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. I.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
