@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal (e-STJ fls. 395/396).
+O acórdão recorrido está assim ementado (e-STJ fl. 303):
+AGRAVO DE INSTRUMENTO. Etapa de cumprimento de julgado (condenação em demanda reparatória). Decisão agravada, que determinou expedição de carta de adjudicação e mandado de imissão na posse em favor da credora. Recurso de terceiro, interessado. Desprovimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 344/346).
+Nas razões do recurso especial (e-STJ fls. 348/364), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 489 e 1.022, parágrafo único, I e II, do CPC/2015 por negativa de prestação jurisdicional.
+Destaca que "o TJSP foi omisso em não se manifestar sobre a existência do processo de usucapião onde se pleiteia a propriedade do imóvel, mediante a comprovação de sua posse. Afinal, havendo ação própria de usucapião, não pode ser deferida nos autos em discussão o mandado de imissão na posse" (e-STJ fl. 355) e que "foi omisso também, ao não analisar que as decisões anteriores fazem coisa julgada apenas em relação as partes litigantes, não há coisa julgada contra terceiros, que não participaram da ação de conhecimento, e muito menos contra a detentora do domínio" (e-STJ fl. 355).
+Indica contrariedade ao art. 506 do CPC/2015, afirmando que, "se tratando o recorrente de terceiro que não participou do processo de conhecimento, não pode ser prejudicado em sua posse do imóvel" (e-STJ fl. 350).
+Aponta afronta aos arts. 1.240 do CC/2002, 195 da Lei n. 6.015/1973, 7º da Lei n. 6.969/1981 e 13 da Lei n. 10.257/2001, sustentando, em síntese, que foram preenchidos os requisitos para o reconhecimento da usucapião, que pode ser alegada como matéria de defesa. Tece considerações acerca da Súmula n. 237/STF: "O usucapião pode ser arguido em defesa" (e-STJ fl. 359).
+Contrarrazões apresentadas (e-STJ fls. 367/391).
+No agravo (e-STJ fls. 399/406), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 409/429).
+Memoriais às fls. 270/272 (e-STJ)
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 304):
+Conforme definido em acórdão anterior (agravo de instrumento nº 2226906-19.2017.8.26.0000), decisum, com disciplina condenatória, comandando a transferência de bem imóvel, objeto da lide, à empresa SCA Indústria de Imóveis Ltda, e, nesse âmbito, transitando em julgado desfecho de improcedência em embargos de terceiro e ação de adjudicação compulsória, ajuizados pelo agravante (fls.60/83), respeitosamente, há que manter a decisão agravada, prosseguindo-se em etapa de cumprimento de julgado.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão c olegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, a Corte local julgou improvido o agravo de instrumento com base nos seguintes fundamentos: (i) acórdão anterior transitado em julgado (agravo de instrumento nº 2226906-19.2017.8.26.0000), comandando a transferência de bem imóvel, objeto da lide, à empresa SCA Indústria de Imóveis Ltda; e (ii) transitada em julgado sentença de improcedência de embargos de terceiro e ação de adjudicação compulsória, ajuizados pela parte recorrente.
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, com as premissas adotadas na decisão vergastada, o conteúdo do art. 506 do CPC/2015, não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211 do STJ por falta de prequestionamento. Além disso, na petição dos declaratórios opostos na origem, a parte não mencionou os arts. 1.240 do CC/2002, 195 da Lei n. 6.015/1973, 7º da Lei n. 6.969/1981 e 13 da Lei n. 10.257/2001. Falta, portanto, prequestionamento.
+Ainda que assim não fosse, modificar o entendimento do acórdão impugnado quanto ao prosseguimento do cumprimento de sentença, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
