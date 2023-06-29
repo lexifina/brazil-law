@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por B2W COMPANHIA DIGITAL e AMERICANAS S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/09/2022.
+Concluso ao gabinete em: 16/11/2022.
+Ação: renovatória de locação comercial, ajuizada por AMERICANAS S.A., em face da agravada, na qual relata ter celebrado contrato de locação do imóvel descrito na inicial pelo prazo de 10 (dez) anos e preencher todos os requisitos elencados pelo contrato e por lei para propositura da presente ação, motivo pelo qual requer: i) a renovação do contrato de locação firmado com a agravada, pelo prazo de 10 (dez) anos, iniciando em 16 de dezembro de 2015, com término em 16 de dezembro de 2025, bem como ii) que o contrato mantenha as condições previstas na avença anterior.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar renovada a locação do imóvel descrito na inicial, mantidas as condições e previsões no contrato, pelo prazo de 120 (cento e vinte) meses, com vigência a partir de 16 de dezembro de 2015, com término em 16 de dezembro de 2025, assim como para determinar que o valor dos locatícios será calculado com base no percentual sobre o faturamento, tal como estabelecido em contrato, fixando-se, como aluguel mensal mínimo, o valor de R$ 25.000,00 (vinte e cinco mil reais).
+Acórdão: negou provimento à apelação interposta pela agravada e deu parcial provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+LOCAÇÃO - Imóvel não residencial - Pretensão renovatória julgada parcialmente procedente - Previsão contratual de remuneração mínima variável que não impede o acertamento do aluguel, com base em seu valor atual de mercado, em conta a natureza dúplice da ação renovatória e a necessidade de readequação ao final do período original da locação - Novo aluguel mínimo fixado com base no laudo elaborado pelo perito louvado pelo Juízo que deve prevalecer, bem assim a manutenção da cláusula de isenção da locatária, de pagamento de fundo de promoção - Encargos da sucumbência redistribuídos - Apelação da ré não provida, parcialmente provida a da autora. (e-STJ Fl. 799)
+Embargos de Declaração: opostos pela agravante, foram rejeitados e, opostos pela agravada, foram parcialmente acolhidos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - Oposição pela autora - Obscuridade inexistente - Intuito infringente - Rejeição.
+EMBARGOS DE DECLARAÇÃO - Oposição pela ré - Questão da apuração dos encargos comuns - Aplicação da convenção do condomínio onde a matéria é disciplinada - Mero inconformismo com o arbitramento da verba honorária advocatícia - Acolhimento parcial. (e-STJ Fl. 838)
+Recurso especial: alegam violação dos arts. 54 da Lei nº 8.245/91; 421 e 425 do CC; 7º, 8º, 10, 139, 492 e 509, II, do CPC/15, bem como dissídio jurisprudencial. Insurge-se contra a decisão que individualizou o aluguem mínimo mensal, separando-os dos encargos de locação. Sustentam que o acórdão recorrido decidiu fora do pedido, bem como a ocorrência de cerceamento de defesa. Afirmam ser necessária a abertura de fase de liquidação de sentença para que seja apurado o valor de rateio dos encargos entre os lojistas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 7º, 8º, 10, 139, 492 e 509, II, do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+As agravantes não impugnaram o fundamento utilizado pelo TJ/SP de que "não se entrevê a existência de óbice à discussão sobre o novo valor do aluguel mínimo garantido, ainda que o ajuste inicial tenha sido feito com base em percentual das vendas líquidas dos doze meses anteriores, em conta o caráter dúplice da ação renovatória, tanto que o disposto no inciso II, do artigo 72, da Lei Federal nº 8.245/91, possibilita ao locador se opor à proposta feita pelo locatário que não atenda o valor real do imóvel na época da renovação, ausente, desse modo, violação ao disposto nos artigos 54, da Lei Federal nº 8.245/91, e 425, do Código Civil" (e-STJ Fl. 803), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência de cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao valor fixado a título de aluguel, exige o reexame de fatos e provas, assim como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 200,00 (duzentos reais) em favor do procurador da parte agravada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE LOCAÇÃO COMERCIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação renovatória de locação comercial.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundam ento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
