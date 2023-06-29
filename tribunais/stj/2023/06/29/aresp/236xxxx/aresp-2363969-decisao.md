@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEISON NEGRIZOLLI CORONA contra decisão que inadmitiu o recurso especial em razão de sua intempestividade.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Sustenta ter o Tribunal de origem usurpado a competência do STJ, eis que cabível ao último a análise do mérito recursal.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná em agravo de instrumento em ação de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 87):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃOAGRAVADA, A QUAL REJEITOU A EXCEÇÃO. RECURSO DOEXCIPIENTE, EXECUTADO. ARGUIDA A PRESCRIÇÃO DAPRETENSÃO POR DESÍDIA DA PARTE AUTORA, EM PROCEDERÀ CITAÇÃO. PRAZO DE 03 (TRÊS) ANOS. CÉDULA DE CRÉDITOBANCÁRIO. ART. 44, DA LEI N. 10.931 / 04, C/C. O ART. 70,DA LEI UNIFORME DE GENEBRA. ART. 202, INC. I, DO CC. INTERRUPÇÃO DO LAPSO, QUE RETROAGE À DATA DOAJUIZAMENTO DA DEMANDA (ART. 240, § 1º, DO CPC). BANCO CREDOR QUE CUMPRIU TODAS AS MEDIDAS À BUSCADOS ENDEREÇOS DO AGRAVANTE. NENHUMA DESÍDIA DAPARTE AUTORA. DEMORA DA MÁQUINA JUDICIÁRIA. APLICABILIDADE DA SÚMULA N. 106, DO STJ. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, os quais não foram conhecidos em razão da intempestividade.
+Nas razões do recurso especial, o ora agravante defende a ocorrência de julgamento citra petita, pois o Tribunal a quo não teria analisado a demanda recursal em sua inteireza, padecendo o acórdão recorrido de vício quanto à rejeição à exceção de pré-executividade, às violações dos arts. 10, 11 e 489, § 1º, IV, do CPC e ao cerceamento de defesa.
+Aponta que as alegações feitas em "simples petição", apresentada na origem, não poderiam ter sido recebidas como embargos de declaração, eis que as nulidades arguidas são passíveis de apontamento a qualquer tempo e grau de jurisdição.
+Argumenta ser tempestivo seu recurso especial, sendo necessária a reforma da decisão recorrida para que haja apreciação das questões de direito suscitadas.
+Requer, assim, seja provido o presente recurso para conhecimento e provimento de seu recurso especial.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+Para mais, como indicado pela decisão que não conheceu do recurso especial (fls. 184-187), os embargos de declaração opostos não foram conhecidos em razão de sua intempestividade, não tendo sido ocasionada a interrupção do prazo legal para a interposição de recurso subsequente, no caso, o especial.
+Confira-se:
+O recorrente alegou, além de dissídio jurisprudencial, violação dos artigos 141 e 490, do Código de Processo Civil, sustentando a nulidade do acórdão, por infra petita, uma vez que o colegiado não apreciou as questões controvertidas devolvidas e, expressamente, consignadas como objeto recursal, de que comprovou que a recorrida teria agido de forma negligente na condução da marcha processual, o que obstaria a aplicação da súmula 106 do STJ, bem como possibilitaria o reconhecimento do decurso do prazo prescricional; b) dos artigos 10, 11 e 489, §1º, IV, do Código de Processo Civil, por não terem sido enfrentadas as teses capazes de infirmar a decisão do julgado, acerca da negligência do banco na condução da marcha processual, o que afastaria a incidência da súmula 106 do Superior Tribunal de Justiça e autorizaria o reconhecimento da prescrição. Pugnou pelo arbitramento de honorários de advocacia dativa.
+Ocorre que o recurso especial é intempestivo.
+Isto porque, é entendimento firmado no Superior Tribunal de Justiça que os embargos de declaração manifestamente intempestivos não têm o condão de suspender o prazo recursal.
+Nesse sentido:
+ ..
+No caso, contra o acórdão que negou provimento ao agravo de instrumento, foram opostos Embargos de Declaração, os quais, entretanto, não foram conhecidos, em razão de sua intempestividade. Confira-se:
+"EMBARGOS DE DECLARAÇÃO, INTERPOSTOS EM AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECISÃO AGRAVADA, A QUAL REJEITARA A EXCEÇÃO. RECURSO DO EXCIPIENTE,EXECUTADO, CONHECIDO, MAS NÃO PROVIDO. EMBARGOS DE DECLARAÇÃOINTERPOSTOS ALEGANDO-SE EVENTUAL OMISSÃO NO ACÓRDÃO. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS." - Recurso:0010552-37.2022.8.16.0000/1 - Ref. mov. 13.1
+Nesta ótica, constatada a intempestividade dos declaratórios opostos, não há como considerar interrompido o prazo legal para a interposição do recurso subsequente, no caso, o recurso especial.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, que determina que a oposição de embargos de declaração intempestivos não é apta a interromper o prazo legal para a interposição de recurso subsequente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO. ART. 1.021 e 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Cumprimento de sentença.
+2. A interposição de agravo interno, após o prazo legal de quinze dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. Precedentes.
+3. Os embargos de declaração não conhecidos não causam a interrupção dos prazos para os demais recursos. Precedentes.
+4. Agravo interno não conhecido, com imposição de multa. (AgInt nos EDcl nos EDcl no AREsp n. 2.041.666/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE OUTROS RECURSOS. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. "(..) Os Embargos de declaração, com exceção dos intempestivos, interrompem o prazo para a utilização de outros recursos.
+Precedentes." (AgInt nos EDcl no REsp 1.457.036/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 21/3/2019, DJe de 27/3/2019).
+2. Agravo interno desprovido. (AgInt no AREsp n. 1.836.176/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Saliente-se que, ante a não interrupção do prazo legal no caso concreto, transcorreu-se o limite para interposição de recurso especial. Desse modo, independentemente da natureza do pedido apresentado na origem, seja de embargos ou de mera petição, não foi sustado o prazo para interposição do recurso especial, tendo esse sido protocolado apenas em 23/01/2023, a destempo, portanto.
+Assim, restou caracterizada a intempestividade recursal.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
