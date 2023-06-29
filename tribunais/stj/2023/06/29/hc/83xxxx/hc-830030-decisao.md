@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 11):
+AGRAVO REGIMENTAL - HOMICÍDIO QUALIFICADO - INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE PEDIDO DE REVISÃO CRIMINAL - MERA PRETENSÃO DE RELEITURA DAS PROVAS OU REVISÃO DA REPRIMENDA IMPOSTA - AUSÊNCIA DE FATOS NOVOS - SOBERANIA DOS VEREDITOS LANÇADOS PELO E. TRIBUNAL DO JÚRI - PREVALÊNCIA DA COISA JULGADA - AGRAVO NÃO PROVIDO.
+Consta dos autos que o paciente foi condenado, como incurso no art. 121, § 2º, IV e V, no art. 121, § 2º, IV e V, c.c art. 14, II, e no art. 146, caput, na forma do art. 69, do CP; a 17 anos e 6 meses de reclusão (vítima Paulina) e 11 anos e 8 meses de reclusão (vítima Vera Lúcia), ambas em regime inicial fechado, além de 5 meses e 25 dias de detenção (vítima Diane), esta em regime inicial semiaberto.
+Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lhe provimento.
+Transitada em julgado a condenação, a defesa ajuizou revisão criminal, tendo o Tribunal a quo indeferido liminarmente o pedido. Interposto agravo regimental, o recurso foi improvido.
+Neste writ, alega o impetrante, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para o indeferimento do pedido de revisão criminal, uma vez que "No caso em apreço, não há evidência de que a decisão monocrática ora contestada efetivamente aplica a jurisprudência ou precedente da Corte estadual, pois não foi enfrentada a verificação do caso em apreço em conformidade com casos análogos" (fl. 8).
+Assevera que, no seu entender, "o julgamento permanece contrário à prova dos autos, pois o Paciente sequer se encontrava na cena do crime, e, sendo inocente da acusação de homicídio qualificado, não deveria ter sido condenado pelo Tribunal do Júri, que produziu decisão contrária a esse acervo probatório" (fl. 7) e que, "por ocasião da proposição da ação revisional, o seu exame e deliberação colegiada foi obstaculizada pela decisão monocrática" (fl. 8).
+Requer, liminarmente e no mérito, seja determinado ao Tribunal de origem que "proceda o Julgamento da Revisão Criminal nº 0034074-51.2021.8.26.0000 pelo órgão colegiado que compõe o 2º Grupo de Câmaras de Direito Criminal" (fls. 8-9).
+Indeferida a liminar e prestadas informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Conforme relatado, busca-se na impetração que seja determinado ao Tribunal de origem que "proceda o Julgamento da Revisão Criminal nº 0034074-51.2021.8.26.0000 pelo órgão colegiado que compõe o 2º Grupo de Câmaras de Direito Criminal" (fls. 8-9).
+Contudo, observa-se dos autos a falta de interesse de agir, uma vez que já houve o efetivo julgamento, pelo órgão colegiado competente do Tribunal a quo, do agravo regimental (0034074-51.2021.8.26.0000) interposto contra a decisão monocrática.
+Ademais, ressalta-se que "Não cabe habeas corpus para apreciar pedidos de absolvição ou desclassificação da conduta, pois necessário, para infirmar o pronunciamento do Tribunal de origem, o reexame de fatos e provas, incabível na via eleita" (AgRg no HC n. 778.738/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
