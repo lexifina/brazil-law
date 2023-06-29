@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 2131/2138) apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ISENÇÃO. CONTRIB UIÇÃO PREVIDENCIÁRIA. MENOR APRENDIZ. ANALOGIA. MENOR ASSISTIDO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. RECURSO ESPECIAL NÃO CONHECIDO.
+A embargante sustenta, em suma que a decisão embargada padece de omissões, tendo em vista o recorrente impugnou todos os fundamentos do v. acórdão de origem, manifestação a respeito do conteúdo do art. 4º, §4º, do Decreto-Lei 2.318/1986.
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Não obstante os argumentos do embargante, constou expressamente da decisão embargada que:
+Com efeito, observa-se que seguinte fundamentação não foi impugnada de modo adequado no presente recurso:
+Trata-se, desse modo, de relações jurídicas distintas, disciplinadas por preceitos legais específicos, sendo o traço distintivo marcante o fato de que o menor assistido, ao contrário do menor aprendiz, não tem vinculação com a previdência social. A pretensão de valer-se do benefício fiscal previsto no Decreto-Lei2.318/86, portanto, não merece acolhimento.
+Ademais, a jurisprudência desta Corte não considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+Desse modo, considerando que a jurisprudência desta Corte Superior está no sentido de que a interpretação da lei tributária deve ser apreciada de modo literal nos casos de isenção ou exclusão de obrigação tributária (111, CTN), observa-se que os dispositivos legais tidos como violados não possuem comando normativo capaz de infirmar os fundamentos do v. acórdão de origem.
+Nesse norte, observa-se o descumprimento do princípio da dialeticidade, o qual obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas (cf. AgRg no RMS 43.815/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/05/2016; AgRg no RMS 49.108/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/05/2016; AgRg no RMS 33.347/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/05/2016).
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
