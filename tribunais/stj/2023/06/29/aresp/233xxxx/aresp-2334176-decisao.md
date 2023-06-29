@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo apresentado por JAQUELINE HERNANDES DE MORAES LIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RESPONSABILIDADE CIVIL DANO MORAL OFENSA À HONRA DO AUTOR POR ACUSAÇÃO DE CRIME DE ROUBO E ABORDAGEM POLICIAL CONSTRANGIMENTO CARACTERIZAÇÃO - ATO ILÍCITO PASSÍVEL DE RESSARCIMENTO INDENIZAÇÃO CABIMENTO MONTANTE APTO A ATENDER À DUPLA FINALIDADE DO INSTITUTO INDENIZATÓRIO SENTENÇA MANTIDA, RATIFICANDO-SE SEUS FUNDAMENTOS, A TEOR DO ART. 252 DO RITJSP RECURSO IMPROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 188, I, do CC, no que concerne à necessidade de reconhecimento da ausência de ato ilícito, apto a afastar a condenação em danos morais, tendo em vista o exercício regular de um direito, trazendo a seguinte argumentação:
+Da ofensa ao art. 188, I do Código Civil - exercício regular de um direito
+Por primeiro, é preciso observar que a mera abordagem policial não ostenta aptidão para gerar dano moral. Não fosse assim, haveria verdadeira imunidade dos cidadãos que esvaziaria a atuação da polícia ostensiva.
+estamos sujeitos. Se por um lado não se olvida que a abordagem do autor cause eventual indignação e aborrecimento, é certo que tal não se confunde com o sofrimento tutelado pela responsabilidade indenizatória, de natureza muito mais gravosa ao âmago.
+Deve-se distinguir situações de mero mal-estar, indissociáveis do convívio social, daquelas outras situações em que tais dissabores se perpetuam no tempo e efetivamente provocam verdadeiro padecimento íntimo.
+ ..
+Ora, a apuração de suspeita de crime exercida dentro dos limites da lei, inclusive, com auxilio policial configura exercício regular de um direito (art. 188, I, CC, pelo qual:
+ ..
+Do contrário, ter-se-ia uma antinomia de normas. A legislação que incentiva o auxílio dos cidadãos para o combate ao crime, conferindo faculdade para, inclusive, prender quem se encontre em flagrante delito (art. 301, CPP) é a mesma que pune com altas indenizações aqueles que meramente provocam abordagem policial dentro dos limites legais ( ).
+ ..
+Ora, não se pode conceber que o ato da recorrente de provocar uma respeitosa abordagem policial para apurar suspeitas (cf. depoimento do policial) se revista de caráter ilícito, passível de reprimenda indenizatória. Onde está a ilicitude deste ato
+ ..
+Dessa forma, verifica-se que o acórdão atacado ofende o art. 188, I do CC, pelo que a condenação deve ser reformada.
+ ..
+Apontar um suspeito com base em informações próprias e de terceiros não configura por si só ilícito indenizável se não comprovado o elemento subjetivo do agente na prática da conduta.
+Não se observa na decisão qualquer menção ao dolo ou culpa da recorrente na realização do ato. Inexistiu, por certo, ato deliberado para prejudicar alguém ou mesmo falta de cautela, já a legislação respalda a apoio do particular aos órgãos de fiscalização ostensiva.
+Em boa técnica, não se pode extrair deste cenário qualquer ânimo da recorrente de prejudicar o recorrido 5 ou mesmo culpa de sua parte pela violação de um dever de cuidado. Ou seja, a recorrente foi condenada ao pagamento de indenização por danos morais com fundamento em verdadeira responsabilidade objetiva.
+Em suma, restam ausentes elementos indispensáveis à configuração da responsabilidade subjetiva, quais sejam: o dano, a conduta ilícita e o elemento subjetivo da recorrente. Por todos os ângulos, pois, não remanesce o dever de indenizar (fls. 188-191).
+Quanto à segunda controvérsia, a recorrente alega violação dos arts. 884 e 944 do CC, no que concerne à redução do quantum indenizatório a título de dano extrapatrimonial, eis que o valor fixado é desproporcional e implica em enriquecimento sem causa do recorrido, trazendo a seguinte argumentação:
+Da ofensa ao arts 884 e 944 do Código Civil - quantificação do dano moral Observa-se, para além de qualquer dúvida, a exorbitância da indenização fixada em R$ 6.000,00 (seis mil reais).
+ ..
+O julgado em epígrafe analisa objetivamente o tema. Numa tentativa de sistematização dos critérios mais utilizados pela jurisprudência para o arbitramento da indenização por prejuízos extrapatrimoniais, destaca: i) interesse jurídico lesado e; ii) as circunstâncias do evento danoso.
+ ..
+No caso em apreço, ganha relevo a gravidade do fato em si e suas consequências para a vítima que é quase nula, bem porque não se pode conceber que o recorrido tenha perdido sua paz de espírito e a tranquilidade em virtude do evento sem incorrer em completo exagero.
+Também se faz necessário ponderar a intensidade e o grau de culpa. Verifica-se que a recorrente não agiu deliberadamente para lesar ou acusar falsamente o apelado, pelo contrário, muniu-se de auxílio policial para constatar sua suspeita e decidiu não dar prosseguimento na abordagem.
+Mas é preciso considerar, principalmente, a circunstância da condição econômica da ofensora. A recorrente labora como babá em casas de família (fls. 80/82), auferindo parcos rendimentos que se destinam ao sustento próprio e de sua família.
+A condenação de uma trabalhadora doméstica que aufere renda inferior a 3 (três) salários mínimos ao pagamento de R$ 6.000,00 (seis mil reais), revela-se por demais exagerada e desproporcional, na medida em que tem o potencial de desfalcar a própria subsistência da requerida.
+ ..
+Para além disso, nestes moldes, a condenação da recorrente importa verdadeiro enriquecimento sem causa do apelado, agraciado com alto montante em virtude de uma abordagem policial sem maiores repercussões em sua vida. É evidente a ofensa ao art. 884, do Código Civil.
+Por este motivo, verifica-se a ofensa aos critérios previstos no art. 944, do Código Civil segundo o qual: "A indenização mede-se pela extensão do dano.
+Parágrafo único. Se houver excessiva desproporção entre a gravidade da culpa e o dano, poderá o juiz reduzir, equitativamente, a indenização".
+De rigor, portanto, a diminuição do valor da indenização de R$ 6.000,00 (seis mil reais) para montante consentâneo e proporcionais com os critérios jurisprudenciais, observando a ínfima extensão do dano, o mínimo grau de culpa e as condições econômicas da recorrente (fls. 191-194).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Consigne-se que, corretamente, assentou a r. sentença que o autor faz jus à indenização por danos morais, diante do que se apurou dos fatos narrados na inicial.
+No caso, o apelado, vendedor de "espetinhos", estava em certo dia realizando seu trabalho, quando foi surpreendido com uma abordagem policial, em virtude de ter sido apontado como suposto autor de um crime de roubo pela apelante.
+Ora, a situação ocorrida não configura o exercício regular de um direito da apelante, já que houve abuso, mormente porque atingiu pessoa estranha a toda a situação do roubo do celular de seu filho, causando-lhe patente constrangimento em seu local de trabalho, havendo abordagem policial.
+Anote-se que a alegação de que a abordagem policial foi apenas visual e verbal não retira o constrangimento da situação, que ultrapassa mero dissabor cotidiano e configura ilícito indenizável.
+Transcreva-se, por oportuno: "Vê-se do conteúdo da prova carreada ao bojo dos autos, em especial boletim de ocorrência de fls. 12/17, que a ré baseou-se em informações vagas e no anonimato para apontar o autor desta ação como agente do crime perpetrado em face de seu filho, subtraindo o celular deste. Informar perante a autoridade pública que seria o autor da ação o provável criminoso do roubo do celular do filho da ré, fundado em informações de terceiro, fazendo com que o autor fosse revistado é ato ilícito apto a gerar danos morais." Assim, configurado o constrangimento do apelante, necessária a reparação pelos danos sofridos (fls. 179-180, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Quanto à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Outrossim, o valor de R$ 6.000,00, afigura-se moderado e razoável, tanto para compensar os transtornos sofridos sem representar enriquecimento sem causa, como para inibir a ocorrência de situações semelhantes, atendendo, portanto, à dupla função do instituto indenizatório (fl. 180) .
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
