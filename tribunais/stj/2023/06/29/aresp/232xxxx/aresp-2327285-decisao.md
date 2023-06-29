@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante aplicação da Súmula n. 7/STJ (e-STJ fls. 966/968).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fl. 678):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM CONSTRUÇÃO. ALEGAÇÃO DE ATRASO NA CONCLUSÃO DA OBRA. SENTENÇA JULGANDO PARCIALMENTE PROCEDENTE O PEDIDO PARA CONDENAR A RÉ À DEVOLUÇÃO DE 80% DOS VALORES PAGOS PELOS COMPRADORES, EXCLUINDO-SE OS RELATIVOS À COMISSÃO DE CORRETAGEM, ASSIM COMO PARA DEVOLVER O VALOR PAGO PELA TAXA SATI. INCONFORMISMO DE AMBAS AS PARTES. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA ACERCA DA DEVOLUÇÃO DOS VALORES, QUE NO CASO DE DISTRATO DEVE VARIAR ENTRE 10% E 25% DO MONTANTE PAGO. REFORMA DO DECISUM APENAS QUANTO AO TERMO INICIAL DOS JUROS DE MORA, PARA QUE PASSEM A INCIDIR A PARTIR DO TRÂNSITO EM JULGADO, NA FORMA DO TEMA 1002 DO STJ. NEGA-SE PROVIMENTO AO PRIMEIRO RECURSO E DÁ-SE PARCIAL PROVIMENTO AO SEGUNDO.
+Os embargos de declaração dos recorridos foram rejeitados (e-STJ fls. 715/723).
+No recurso especial (e-STJ fls. 725/757), fundamentado no art. 105, III, "a" e "c", da CF, as recorrente indicaram dissídio jurisprudencial e contrariedade:
+(i) ao art. 134 do CPC/2015, porque a primeira recorrente seria parte ilegítima para responder pela reparação dos danos reclamados pela parte recorrida,
+(ii) ao art. 63, § 4º, da Lei n. 4.591/1964, na medida em que, após o leilão extrajudicial do imóvel, não se verificou saldo a ser devolvido aos adquirentes, ora agravados, de modo que não podem ser condenadas a restituir 80% (oitenta por cento) dos valores pagos,
+(iii) aos arts. 463, 474 e 475 do CC/2002, porque "se opõem fortemente ao desfazimento do contrato porque esse não é o tipo de negócio no qual se possa entrar e sair a qualquer tempo, imotivadamente, como pretendem os recorridos, até porque cada contrato desfeito impacta negativamente no equilíbrio econômico-financeiro global da incorporação e prejudica os interesses dos demais adquirentes" (e-STJ fl. 738), devendo, desse modo, prevalecer a cláusula de irrevogabilidade e irretratabilidade. Nesse contexto, sustentaram o afastamento da Súmula n. 543/STJ, e
+(iv) ao art. 418 do CC/2002, alegando que, em vista da resilição culposa, teriam direito à retenção integral do valor dado pelos recorridos a título de arras, acrescido do percentual de retenção das quantias pagas, e
+(v) ao art. 51 da Lei n. 4.591/1964, por ser descabido condená-las à restituição das despesas de seguro, uma vez que "o contrato juntado pelo próprio recorrido, é cristalino ao determinar que os custos de seguro não estão compreendidos no valor do imóvel. não fazem parte do valor global do contrato de compra e venda" (e-STJ fl. 749). Acrescentaram que a contratação do seguro prestamista seria impositivo legal, e
+(vi) à Lei n. 4.591/1964, por inexistir abuso no repasse aos compradores das despesas do leilão extrajudicial do imóvel.
+Suscitam divergência interpretativa, porque seria lícito reter 25% (vinte e cinco por cento) dos valores pagos pelos recorridos, por causa da rescisão do compromisso de compra e venda imobiliário por iniciativa deles, e não apenas 20% (vinte por cento).
+Sem contrarrazões (e-STJ fl. 964).
+No agravo (e-STJ fls. 979/986), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 994/996).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 134 do CPC/2015, 63, § 4º, da Lei n. 4.591/1964, 418, 463, 474 e 475 do CC/2002 e 51 da Lei n. 4.591/1964. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem assentou que a primeira empresa recorrente era parte legítima para responder solidariamente pela pelos danos reclamados pelos compradores, por integrar a cadeia de fornecimento (e-STJ fl. 685).
+Dissentir de tal entendimento, a fim de acolher a tese de que a parte seria parte ilegítima no feito, conforme defendido no especial, exigiria nova interpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, medidas vedadas pelas Súmulas n. 5 e 7 do STJ.
+Com relação à alegada afronta à Lei n. 4.591/1964 para justificar a cobrança das despesas de leilão dos adquirentes, a parte recorrente deixou de individualizar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada pela Corte local.
+Ausente tal requisito, a fundamentação mostra-se deficiente e torna inviável o conhecimento do recurso, ante a Súmula n. 284/STF, aplicada por analogia.
+A propósito: AgInt no AREsp n. 1.140.376/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 26/6/2018, DJe 29/6/2018.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais as recorrentes não se desincumbiram.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
