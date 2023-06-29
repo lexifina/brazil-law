@@ -1,0 +1,24 @@
+DECISÃO
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 331/332, in verbis:
+1. Trata-se de recurso especial, interposto pelo réu BARTOLOMEU MARTINS MARIA, em 19-04-2022, contra acórdão da Ia Câmara Criminal o TJSC (fl. 259-60 e fls. 265-73) que, em 24-03-2022, negou provimento à apelação da defesa, interposta contra sentença do Juízo de Direito da Ia Vara Criminal da Comarca de Blumenau/SC que, em 07-10-2021, condenou o réu nas penas de 02 anos, 08 meses e 15 dias, em regime fechado, e 14 dias-multa, como incurso no crime do art. 155, § 4o, I, do CP (Ação Penal nº 0007229-17.2018.8.24.0008/SC; fls. 189-91).
+1.1. Os fatos apurados na ação penal podem ser assim resumidos: No dia 16-07-2018, por volta das 12:10 h, o réu BARTOLOMEU MARTINS MARIA dirigiu-se até a residência da vítima Guilherme Bernhard Disse, localizada na Rua Jequié, nº 314, Bairro do Salto, em Blumenau/SC, e, após destruir parte do sistema de alarme do imóvel, nele ingressou e subtraiu para si 01 tênis da marca Timberland, avaliado em R$100,00. Após a consumação do crime, enquanto se afastava da residência na posse do bem subtraído, o réu foi abordado pelo vizinho Heraldo Felipe de Faria Júnior, policial militar, que estava de folga, e preso em flagrante (fls. 58-9).
+1.2. Em 19-04-2022, o réu BARTOLOMEU MARTINS MARIA interpôs este recurso especial, com base no art. 105, III, "a", da CF; alegou, em síntese, o seguinte: a) ao manter a qualificadora do rompimento de obstáculo, o acórdão recorrido negou vigência ao art. 158 e ao art. 171, todos do CPP; não houve realização de perícia técnica de forma a comprovar a referida qualificadora; b) contrariedade ao art. 65 do CP; o fato de ter confessado parcialmente os fatos não impede a aplicação da atenuante da confissão espontânea (fls. 282-91).
+1.3. Em 31-05-2022, o MP/SC apresentou contrarrazões ao recurso especial (fls. 300-7).
+1.4. Em 06-06-2022, o 2o Vice-Presidente do TJSC admitiu o recurso especial (fls. 311-4).
+Opinou o Parquet, então, pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Inicialmente, acerca do pleito de afastamento da qualificadora do rompimento de obstáculo, assentou o acórdão recorrido (e-STJ fl. 270):
+Na hipótese em tela, em que pese o sistema de segurança tenha sido reinstalado quando da chegada dos peritos à cena do crime - circunstância inclusive apontada na confecção do laudo pericial a vítima Guilherme e a testemunha Heraldo (Evento 93, Vídeos 2 e 3, dos autos da ação penal) foram contundentes ao relatarem que a subtração fora cometida mediante rompimento de obstáculo, consistente em destruição dos sensores de segurança da residência.
+Desta forma, mesmo se constatada a ausência de laudo pericial realizado no local do crime, ou que as conclusões nele presentes não se mostrem suficientemente categóricas, tem-se que a qualificadora do rompimento de obstáculo vem demonstrada nos autos por outro meio de prova, qual seja, a conclusiva prova oral produzida, não comportando, portanto, a desclassificação para furto simples.
+No caso, a instância ordinária atestou que, embora o laudo pericial elaborado não tenha sido categórico em sua conclusão, a qualificadora de rompimento de obstáculo foi devidamente comprovada em razão da prova testemunhal colhida, e infirmar tal conclusão implicaria a incursão no universo fático-probatório do feito, providência defesa na via eleita, nos termos da Súmula n. 7/STJ.
+Quanto à atenuante da confissão, a Corte de origem, no ponto, consignou (e-STJ fl. 271, grifei):
+Pois bem. Inicialmente, quanto ao pleito de reconhecimento da atenuante genérica da confissão espontânea (art. 65, inciso III, alínea "d", do Código Penal), verifico que não merece acolhida.
+Isto porque, embora o Togado sentenciante tenha confirmado a ocorrência de confissão parcial na fase policial - a qual deixou de ser reconhecida em virtude de não ter sido utilizada como meio de prova verifico que em nenhum momento o acusado concordou com a pretensão acusatória, confessando a prática do referido delito.
+Extrai-se do interrogatório prestado à autoridade policial que o acusado exerceu o direito de permanecer em silêncio, confirmando apenas que teria acabado de ser detido pela Polícia Militar, nada elucidando acerca dos fatos (Evento 03, Vídeo 84, dos autos da ação penal).
+Sob o crivo do contraditório, o acusado não foi ouvido, pois não compareceu à audiência judicial, sendo declarado revel (Evento 92 dos autos da ação penal).
+Como se vê, o acusado em nenhum momento concordou com a pretensão acusatória.
+Nesse cenário, tem-se como não incidente a atenuante da confissão espontânea.
+Ora, se o recorrente, em nenhuma das fases do processo, admitiu a prática do delito, mas apenas que havia sido preso, não há como reconhecer a atenuante pretendida.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
