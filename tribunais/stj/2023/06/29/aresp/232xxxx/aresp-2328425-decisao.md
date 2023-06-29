@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 212/214).
+Os acórdãos recorridos estão assim ementados (e-STJ fl s. 152 e 176):
+AGRAVO INTERNO - PRESTAÇÃO DE SERVIÇOS - AÇÃO DE COBRANÇA - Despacho que indeferiu a justiça gratuita aos agravantes, determinando o recolhimento do preparo, sob pena de não conhecimento do agravo - Comprovação da alegada insuficiência financeira - Ausência - Indeferimento do benefício - Decisão mantida - Recurso desprovido.
+AGRAVO INTERNO - PRESTAÇÃO DE SERVIÇOS - AÇÃO DE COBRANÇA - Decisão monocrática que negou provimento a agravo de instrumento - Litisconsórcio passivo facultativo - Possibilidade - Empresas que embora não constaram no contrato firmado estão interligadas sob mesmos interesses - Grupo econômico configurado - Decisão mantida - Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 180/197), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 489, § 1º, IV e 1.021, § 3º, do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 98, e 99, § 2º, do CPC/2015, sustentando, em síntese, que foram preenchidos os requisitos para a concessão do benefício da justiça gratuita.
+Segundo afirma, "houve o estabelecimento, ao arrepio da lei, de presunção de suficiência patrimonial, quando a legislação adjetiva impõe exatamente o contrário" (e-STJ fl. 188).
+Aponta afronta aos arts. 265, § 1º, da Lei n. 6.404/1976, 1.053, caput e parágrafo único, do CC/2002 e 2º, §§ 2º e 3º, da CLT, por entender que não ficou demonstrado o preenchimento dos requisitos para a caracterização do grupo econômico.
+Busca o provimento do recurso especial, para (e-STJ fl. 197):
+ 1  reconhecer a violação dos artigos 98 e 99, §2º, do Código de Processo Civil, concedendo os benefícios da assistência judiciária gratuita às Recorrentes;
+ 2  reconhecer a violação aos artigos 1.021, §3º, e 489, §1º, IV, do Código de Processo Civil, a fim de declarar a nulidade do acórdão guerreado, por repetição dos fundamentos da decisão monocrática e não enfrentamento de todos os argumentos e;
+ 3  reconhecer a violação ao artigo 265, §1º, da Lei das Sociedades Anônimas e violação reflexa ao artigo 2º, §§2º e 3º, da Consolidação das Leis do Trabalho, a fim de reconhecer a inexistência de grupo econômico, resultando na ilegitimidade passiva das empresas que não figuraram no contrato de prestação de serviços.
+Contrarrazões apresentadas (e-STJ fls. 202/211).
+No agravo (e-STJ fls. 217/234), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 259/263).
+Memoriais às fls. 270/272 (e-STJ)
+É o relatório.
+Decido.
+O conteúdo dos arts. 489 e 1.021, § 3º, do CPC/2015 não foi analisado pela Corte local. Incidente, portanto, as Súmulas n. 282 e 356 do STF por falta de prequestionamento.
+Ainda que assim não fosse, o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Com relação aos arts. 98, e 99, § 2º, do CPC/2015, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 153/154):
+Com efeito, o art. 98 do CPC e a jurisprudência estenderam a possibilidade de concessão do benefício à pessoa jurídica, mediante comprovação cabal de sua insuficiência financeira. E, em conformidade com tal entendimento há a Súmula 481, da C. Corte Superior1.
+Todavia, inexiste comprovação contundente da alegada situação precária das agravantes. Consigne-se que o fato de a pessoa jurídica ser ré em ações trabalhistas e cíveis, bem como estar sem rendimentos, por si só, não se presta a corroborar a cabal insolvência ou precariedade financeira. Do mesmo modo, sua situação cadastral perante a Secretaria da Fazenda classificada como "inapta", ou seja, que a empresa omitiu dados, demonstrativos e declarações de contabilidade, não é suficiente à concessão da benesse, porquanto não revela o patrimônio que eventualmente possa ter. Neste contexto, sem razão o pedido de realização de inspeção judicial ou conversão do julgamento em diligência para conferir o funcionamento das agravantes.
+(..)
+Portanto, não comprovada a impossibilidade de arcar com as custas e despesas processuais, observando que houve recolhimento do preparo do recurso de agravo, ato incompatível com a total hipossuficiência, de rigor a manutenção do indeferimento.
+Modificar o entendimento do acórdão impugnado quanto aos requisitos para a concessão dos benefícios da justiça gratuita , nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Além disso, "a concessão do benefício de gratuidade da justiça a pessoa jurídica depende da precariedade de sua situação financeira, inexistindo presunção de insuficiência de recursos. Súmula n. 481 do STJ" (AgInt nos EDcl na PET no AREsp n. 2.093.701/DF, de minha relatoria, QUARTA TURMA, julgado em 12/12/2022, DJe de 15/12/2022).
+Por outro lado, o TJSP reconheceu caracterizada a existência de grupo econômico, decidindo com base nos seguintes fundamentos (e-STJ fls. 177/178):
+No presente caso, os contratos de prestação de serviços que instruíram a ação foram firmados figurando a agravada como contratante e "São Geraldo Segurança Patrimonial Ltda." como contratada, e termo aditivo com a contratada "Nova São Geraldo Portaria e Limpeza Ltda. EPP". A despeito das alegações das agravantes, os documentos apresentados pela agravada se mostram hábeis a demonstrar que a relação havida entre as agravantes envolvem a existência de grupo econômico, de modo a autorizar o litisconsórcio passivo facultativo.
+Pois, além das fichas cadastrais das empresas constarem várias coincidências de sócios e endereço de localização, as ações trabalhistas das quais pretende a agravada o ressarcimento foram ajuizadas também contra as empresas "São Geraldo Serviços de Manutenção Limpeza e Portaria", "Portaria e Limpeza São Geraldo" e "Prestadora de Serviços de Limpeza e Manutenção São Geraldo", e indicam que estão interligadas e exercem controle em conjunto, tratando dos mesmos interesses, fato que não restou suficientemente impugnado pelas agravantes para afastar a manutenção das agravantes em litisconsórcio passivo facultativo no polo passivo da ação.
+Dissentir das conclusões do acórdão impugnado implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
