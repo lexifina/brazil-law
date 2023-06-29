@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por GLÓRIA YURIKO MIURA E OUTRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 530):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - JULGAMENTO EXTRA PETITA - OCORRÊNCIA - DECOTE DE PARTE DA SENTENÇA - PROCURAÇÃO OUTORGADA POR MEIO DE INSTRUMENTO PÚBLICO - NÃO REVOGADA - POSSIBILIDADE DE UTILIZAÇÃO - CUMPRIMENTO DA OBRIGAÇÃO - EXTINÇÃO DA EXECUÇÃO - ART, 924, II, CPC - EMBARGOS À EXECUÇÃO - PERDA DE OBJETO - EXTINÇÃO.
+- A sentença deve enfrentar todos os pedidos formulados pelo autor, nos exatos limites em que foram propostos, sendo vedado ao magistrado julgar além do pedido (ultra petita), aquém (citra petita) ou fora (extra petita) daquilo que foi postulado na inicial, conforme inteligência dos artigos 141 e 492 do CPC.
+- Constatado que o provimento judicial englobou matéria que não foi objeto de pedido pelo autor, mesmo diante de uma interpretação do conjunto da postulação, está configurado o julgamento extra petita, devendo a sentença ser reduzida aos limites da lide.
+- Estando vigente a procuração outorgada à parte, por meio de instrumento público, com o fim específico de transferir o imóvel objeto da lide, não há como reconhecer a impossibilidade de se utilizar do referido instrumento para efetivar o que anteriormente foi avençado entre as partes.
+- Satisfeita a obrigação, extingue-se a execução, nos termos do art. 924, II, CPC."
+Embargos de declaração rejeitados (fls. 560-570).
+No recurso especial, alega a parte recorrente ofensa aos arts. 141, 329, inciso II, e 492 do Código de Processo Civil, ao defender, em síntese, a ocorrência de julgamento extra petita, porquanto não foi requerido dação em pagamento da propriedade, mas a execução por quantia certa.
+Contrarrazões ao recurso especial (fls. 600-620).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 638-643), o que ensejou a interposição do presente agravo.
+Contraminuta ao agravo (fls. 661-665).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao entender pela inexistência de julgamento extra petita no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fl.539-540 ):
+Sabe-se que a sentença deve enfrentar todos os pedidos formulados pelo autor, nos exatos limites em que foram propostos, sendo-lhe vedado julgar além do pedido (ultra petita), aquém (citra petita) ou fora (extra petita) daquilo que foi postulado na inicial, conforme inteligência dos artigos 141 e 492 do CPC. cumpre registrar que o reconhecimento de vicio da decisão ultra/extra petita não conduz á anulação da sentença, mas apenas à sua redução aos limites do pedido.
+Não descuro que o pedido da parte deve ser interpretado levando em consideração o conjunto da postulação e o principio da boa-fé, nos termos do parágrafo segundo do artigo 322 do CPC.
+Todavia, tenho que no caso dos autos, não é possível extrair do conjunto da postulação o pedido ou a intenção da parte de revogar a procuração outorgada à apelante para os fins de transferir o imóvel objeto da dação em pagamento.
+Com efeito, o julgador deve se ater aos pedidos formulados pelo demandante e a interpretação do pedido deve basear-se, ainda que minimamente, no texto da petição inicial. Compulsando a exordial dos embargos à execução, verifica-se que os embargantes alegaram a ausência dos contratos firmados entre as partes que embasaram a confissão da dívida, a ausência de liquidez do titulo e a possibilidade de revisão do débito, requerendo a extinção da execução e, sucessivamente, a procedência dos embargos para reconhecer o excesso de execução.
+Desta feita, não é possível, mesmo diante de uma exegese lógico-sistêmica do completo teor da petição inicial dos embargos à execução, extrair a vontade da parte embargante de ver revogada a procuração ou instrumento de dação em pagamento, ou seja, não há subsídio para amparar a decisão do juízo a quo de reconhecer a impossibilidade de utilização da procuração para fins de efetivar a dação em pagamento e o registro do imóvel, sem que tal provimento incorra em julgamento extra petita.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INÉPCIA DA INICIAL. ALEGAÇÃO DE PEDIDO GENÉRICO. JULGAMENTO EXTRA PETITA. CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. QUESTÕES CUJA CONCLUSÃO DO ACÓRDÃO RECORRIDO DECORREU DO EXAME DE PROVAS DOS AUTOS. REFORMA DO JULGADO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA MULTIDISCIPLINAR. COBERTURA. OBRIGATORIEDADE. ROL DA ANS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, a conclusão alcançada pelo Tribunal de origem, no que se refere às alegações de inépcia da inicial, julgamento extra petita e cerceamento de defesa, decorreu da análise dos elementos fáticos e probatórios da causa, cujo reexame é vedado nesta via excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. A Segunda Seção desta Corte, no julgamento dos EREsp n.º 1.889.704/SP, relator Ministro Luis Felipe Salomão, julgado em 8/6/2022, reafirmou o dever da operadora do plano de saúde em custear, de forma ilimitada, as sessões de tratamento para os beneficiários com diagnóstico de "Transtorno do Espectro Autista".
+Incidência da Súmula n.º 568 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.049.900/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Publique-se. Intimem-se.
