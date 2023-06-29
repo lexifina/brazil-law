@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de divergência manejado por Maria Aparecida José Rios contra acórdão proferido pela Quarta Turma do STJ, o qual foi ementado nestes termos:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. COBRANÇA INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL (CC/2002, ART. 205). AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que, nas pretensões fundadas em inadimplemento contratual, aplica-se o prazo prescricional do art. 205 do CC/2002.
+2. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+Nas razões dos embargos, a recorrente sustenta que o conhecimento do recurso especial - indevidamente provido pela Quarta Turma do STJ - não deveria ter sido conhecido nos termos da Súm. n. 284/STF, pois não houve a indicação expressa da alínea do permissivo constitucional sobre o qual houve o recurso especial se baseia. Aduz a prescrição do caso dos autos deve observar o prazo de cinco anos com base no art. 206, § 5º, I, do CC/2002, que foi ratificado pela Terceira Turma do STJ.
+Apresenta, como primeira controvérsia, a imprescindibilidade de indicação categórica do permisso constitucional em que se fundamenta o recurso especial. Como paradigma, indica precedente da Segunda Turma do STJ proferido no AgInt na TutPrv no REsp n. 1.880.265/RJ, publicado no DJe 30/11/2020.
+Como segunda controvérsia, defende controvérsia entre a Terceira e Quarta Turmas do STJ quanto ao prazo prescricional a ser aplicado nos pedidos de resolução contratual fundados no inadimplemento de determinada parcela. Assevera que deve ser observado o prazo do art. 206, § 5º, I, do CC/2002, incidente sobre a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Assevera que as turmas vinculadas à Segunda Seção do STJ proferiram precedentes que atraem a Súm. n. 83/STJ ao recurso especial.
+Impugnação às e-STJ fls. 403/405.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Em relação à primeira controvérsia, o acórdão impugnado não se pronunciou sobre a incidência da Súm. n. 284/STF. Portanto, não é possível atestar similitude jurídica entre o acórdão embargado e o paradigma da Segunda Turma do STJ.
+Sendo assim, nota-se que o acórdão embargado não partilha identidade fática e jurídica com os acórdãos paradigmas, de modo que os presentes embargos de divergência não cumprem o requisito da similitude entre os casos confrontados.
+A respeito do tema, cita-se, ilustrativamente, o seguinte julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. Diferentemente das instâncias ordinárias, em que o trabalho do juiz consiste em identificar no litígio os fatos que o distinguem dos demais, para que tanto quanto possível a lei seja aplicada sob um viés circunstanciado, na instância especial o julgamento é inspirado pela uniformização.
+Os embargos de divergência no Superior Tribunal de Justiça constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados tais como dimensionados no acórdão embargado e no acórdão indicado como paradigma.
+Em função disso, o conhecimento dos embargos de divergência está sujeito a duas regras: (a) a de que o acórdão impugnado e aquele indicado como paradigma discrepem a respeito do desate da mesma questão de direito, sendo indispensável para esse efeito a identificação do que neles foi a razão de decidir; (b) a de que esse exame se dê a partir da comparação de um e de outro acórdão, nada importando os erros ou acertos dos julgamentos anteriores (inclusive, portanto, os do julgamento do recurso especial), porque os embargos de divergência não constituem uma instância de releitura do processo.
+No âmbito dos embargos de divergência, portanto, não se rejulga o recurso especial. O respectivo acórdão é simplesmente confrontado com um ou mais julgados com a finalidade de harmonizar a jurisprudência do Superior Tribunal de Justiça.
+Espécie em que os alegados vícios no julgado foram objeto de embargos de declaração, que deixaram de ser conhecidos porque opostos por advogado sem procuração nos autos, não servindo os embargos de divergência ao propósito de renovar as teses neles articuladas.
+Agravo regimental desprovido." (AgRg nos EREsp 1096478/MG, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe 18/02/2014).
+Ademais, não se desincumbiu a parte embargante de evidenciar que as circunstâncias processuais entre os casos confrontados exigiriam soluções idênticas, requisito este indispensável para o conhecimento do recurso uniformizador, conforme previsto nos arts. 1.043, § 4º, do CPC c/c o art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Nota-se que os arestos confrontados não apresentam similitude fática, pois partem de premissas distintas para a solução dos casos. Assim, ausente a indispensável similitude fática entre os arestos comparados, é firme a jurisprudência da Corte Especial deste Superior Tribunal de Justiça no sentido de que que não podem ser conhecidos os embargos de divergência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA N. 315 DO STJ. SIMILITUDE FÁTICA NÃO DEMONSTRADA.
+1. Revela-se inviável rever - em embargos de divergência - o conhecimento do recurso, uma vez que o agravo em recurso especial foi improvido em decorrência dos óbices das Súmulas n. 5 e 7/STJ.
+2. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça.
+Agravo interno improvido.
+(AgInt nos EAREsp n. 1.880.896/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 7/2/2023, DJe de 10/2/2023.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL.
+DIVERGÊNCIA NÃO COMPROVADA. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. O acórdão embargado entendeu, conforme remansosa jurisprudência desta Corte e em razão do disposto nos artigos 475-P, II, e 575, II, do CPC, que a execução do julgado deve ser efetuada no mesmo juízo que processou a causa principal, de forma que, tendo havido trânsito em julgado da decisão que definiu a competência da justiça estadual para o julgamento da ação de conhecimento (RESp 183.800/PE), não há como o feito ser deslocado, em sede de execução, para a Justiça Federal, como pretende a recorrente.
+3. Sob a alegação de divergência com o que fora adotado em outros precedentes desta Corte, a embargante defende, em suma, ser da Justiça Federal a competência para julgar a causa em que haja manifesto interesse jurídico e econômico da União, não havendo o que se falar em preclusão da matéria alegada, por ser de ordem pública. Defende, também, a aplicação imediata da Lei n. 9.469/1997.
+4. O alegado dissídio jurisprudencial não foi devidamente comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, haja vista que não foi realizado o devido cotejo analítico, além de que não se vislumbra similitude fática entre o acórdão embargado e os paradigmas, que examinaram a questão sob outro enfoque fático e jurídico e sem alcançar a peculiaridade existente no presente caso, relativa a ocorrência de trânsito em julgado da questão acerca da competência da Justiça Estadual.
+5. Além disso, o acórdão embargado sequer discutiu a tese jurídica relativa à aplicação imediata da Lei n. 9.469/1997, utilizada pela embargante como fundamento para atrair a competência para a Justiça Federal.
+6. Agravo interno não provido.
+(AgInt nos EREsp n. 1.366.295/PE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 13/12/2022, DJe de 16/12/2022.)
+Quanto à segunda controvérsia, os paradigmas foram proferidas pelas turmas que compõe a Segunda Seção do STJ. Dessa controvérsia deve ser examinada pela própria Segunda Seção nos termos do art. 12, parágrafo único, I, do RISTJ.
+Ante o exposto, não admito os embargos de divergência em relação à primeira controvérsia.
+Remete-se os autos à Segunda Seção do STJ para regular processamento e julgamento da segunda controvérsia dos embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. REGRA DE ADMISSIBILIADE DE RECURSO ESPECIAL. QUESTÃO NÃO ANALISADA PELO ACÓRDÃO EMBARGADO. SIMILITUDE FÁTICA E JURÍDICA. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. EMBARGOS DE DIVERGÊNCIA NÃO ADMITIDOS.
