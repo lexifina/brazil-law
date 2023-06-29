@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de petição interposta por MERCEARIA NOVA AROEIRA EIRELI (SUPERMERCADO DOIS IRMÃOS DA ARUEIRA EIRELLI), na qual requer a extinção do presente processo, com julgamento de mérito, nos termos do art. 354 c/c art. 487, III, b e c do CPC, em razão de sua renúncia expressa quanto ao direito sobre que se funda a ação, para que surta seus jurídicos e legais efeitos, estando o agravado acorde com tal pedido, conforme consta na petição.
+É de se observar que às fls. 2312/2325 (e-STJ) o agravante interpôs Recurso Extraordinário, sendo que, neste caso, deve-se consignar que no RISTJ, art. 34, não está elencada, entre as atribuições estabelecidas para a relatoria, a de decidir sobre questões atinentes a recursos dirigidos ao Supremo Tribunal Federal, com exceção do art. 34, XXIII, o que não representa a hipótese dos autos.
+Assim, no caso em análise, deve o agravante dirigir o pleito à Presidência desta Corte, no momento oportuno, uma vez que, conforme previsto no art. 21, XIII, a, RISTJ, cabe à Presidência desta Corte decidir a respeito das petições de recursos para o Supremo Tribunal Federal, resolvendo os incidentes que se suscitarem.
+Desta feita, determino a baixa dos autos à Corte de origem, tão logo encerrada a prestação jurisdicional nesta Corte, desde que o agravante não providencie o que acima se consignou.
+Publique-se. Intimem-se.
