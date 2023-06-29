@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por SÃO BENTO INCORPORADORA LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ, fl. 172):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL. IMPUGNAÇÃO À JUSTIÇA GRATUITA CONCEDIDA À PARTE AUTORA - NÃO ACOLHIMENTO. PRETENSÃO DE INCIDÊNCIA DA LEI N. 13.786/18 - INAPLICABILIDADE - CONTRATO FIRMADO ANTES DE SUA VIGÊNCIA. CUMULAÇÃO DA CLÁUSULA PENAL COM A TAXA DE ADMINISTRAÇÃO - IMPOSSIBILIDADE - VEDAÇÃO DO BIS IN IDEM - NULIDADE DA CLÁUSULA PENAL E MANUTENÇÃO DA TAXA DE ADMINISTRAÇÃO (RETENÇÃO). COBRANÇA DE TAXA DE FRUIÇÃO - NÃO CABIMENTO - AUSÊNCIA DE PREVISÃO CONTRATUAL E DE PROVA DA POSSE, USO E GOZO DO IMÓVEL. CORREÇÃO MONETÁRIA - IGPM - ÍNDICE QUE MELHOR REFLETE A DESVALORIZAÇÃO DA MOEDA FRENTE A INFLAÇÃO. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados. (e-STJ fls. 202-204)
+Nas razões do recurso especial (e-STJ fls. 206-235), o recorrente indicou violação aos arts. 926 e 1.022 do CPC/2015.
+Em suas razões, alegou a existência de omissão no julgado estadual, mormente no que diz respeito a não aplicação do padrão-base do percentual de retenção do valor pago pelo imóvel, na hipótese de desistência do comprador.
+Apontou a ocorrência de dissídio jurisprudencial no que concerne à fixação do percentual de retenção no valor máximo, que é de 25% (vinte e cinco por cento).
+Sem contrarrazões. (e-STJ fl. 279)
+O processamento do apelo especial não foi admitido pelo Tribunal de origem (e-STJ fls. 281-283), levando o insurgente a interpor o presente agravo (e-STJ fls. 285-290).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A pretensão recursal não merece prosperar.
+De início, não há falar em contrariedade ao art. 1.022 do CPC/2015, tendo o acórdão manifestado, de forma clara e suficiente, acerca da questão suscitada nos autos, de modo que, embora rejeitados os embargos de declaração opostos, ausente qualquer omissão, contradição ou obscuridade com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Na hipótese dos autos, nota-se com extrema clareza que, não obstante a alegação de omissão da inaplicabilidade do percentual requerido, a Corte de origem enfrentou o argumento levado à sua apreciação, ainda que o pronunciamento judicial não tenha sido no sentido almejado pela parte.
+Veja-se (e-STJ, fls. 175-190):
+Com efeito, relativamente à retenção de valores pelo promitente-vendedor, ora apelante, ainda que esta seja devida, em razão de a rescisão contratual ter ocorrido por conduta do promitente-comprador, não pode ser exagerada ou demasiadamente onerosa ao consumidor. Referida retenção, cujo intuito é indenizar a vendedora e recompor os custos da operação, a jurisprudência do STJ possui entendimento no sentido de que, nas hipóteses de resolução de contrato de promessa de compra e venda por inadimplemento do comprador, é admissível o desconto de 10% a 25% do total da quantia paga pelo comprador.
+ ..
+Logo, diferentemente do que sustenta a apelante, não há que se falar em fixação de um "PADRÃO-BASE" de retenção de 25%, em especial porque, no caso em análise, o parágrafo segundo da Cláusula Segunda do contrato celebrado entre as partes está expresso que, em caso de rescisão, o Comprador receberá a importância que efetivamente pagou com os seguintes descontos: (a) 2% sobre o preço total ajustado e corrigido a título de cláusula penal; (b) 10% sobre o valor total do contrato, referentes a taxas de administração, comissões, cobranças bancárias e demais despesas.
+Na espécie, tanto a multa penal quanto a taxa administrativa objetivam compensar os prejuízos decorrentes da rescisão contratual, caracterizando, pois, bis in idem, defeso pelo ordenamento jurídico.
+Isso porque, sabe-se que a cláusula penal objetiva o cumprimento do contrato por meio da fixação prévia da liquidação de eventuais perdas e danos a ser imposta em caso de inadimplência contratual. Preconiza o art. 412 do CC e o art. 26 da Lei 6.766/79, que a valoração da cláusula penal ficam ao arbítrio dos contratantes, sendo defeso superar o da obrigação principal (CC) e exceder a 10 % (dez por cento) do débito (Lei 6.766/79).
+ ..
+Contudo, conforme bem exposto pelo Ilustre Desembagador, é permita a possibilidade de retenção no percentual de 10% da quantia paga em razão do distrato do contrato de promessa de compra e venda em sede de incorporação imobiliária celebrado entre as partes. Veja-se que a jurisprudência do E. STJ consolidou-se no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10%(dez por cento) e 25% (vinte e cinco por cento), de acordo com as circunstâncias do caso concreto.
+Com efeito, esta Corte Superior consolidou sua jurisprudência no sentido de não ocorrer violação ao art. 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões fundamentais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão manifestada pela parte, de modo que o resultado desfavorável não deve ser confundido com a violação ao dispositivo invocado.
+Ilustrativamente (sem grifos no original):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUMPRIMENTO DO DEVER DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 4º, DO CPC/2015. NÃO OCORRÊNCIA NO CASO. ACÓRDÃO RECORRIDO EM SINTONIA COM A ORIENTAÇÃO DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Na hipótese, o Tribunal de origem decidiu pela aplicação da multa estabelecida no § 4º do art. 1.021 do CPC/2015 em razão de o agravo interno ser manifestamente inadmissível, entendimento que se amolda à jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.975.717/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+No que concerne à alegada interpretação divergente em relação à fixação do percentual de retenção, nota-se que o dispositivo legal não foi examinado pela Corte estadual, a despeito da oposição dos embargos de declaração. Dessa forma, ausente o prequestionamento, o que atrai a incidência da Súmula n. 211/STJ, fica inviável a demonstração do alegado dissídio.
+Na mesma linha de cognição (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO COM PEDIDO DE RESTITUIÇÃO DE VALORES. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA SUPOSTAMENTE DIVERGENTE.
+ ..
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.007.246/AL, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MOTIVAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. FALTA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. JULGAMENTO EXTRA PETITA. ENTENDIMENTO DESTA CORTE SOBRE A QUESTÃO. SÚMULA 83/STJ. LITIGÂNCIA DE MÁ-FÉ. INDENIZAÇÃO. DESNECESSIDADE DE PROVAR PREJUÍZO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+4. Não havendo no acórdão objeto do recurso especial decisão sobre o conteúdo normativo do dispositivo tido como violado, forçoso é reconhecer a falta de prequestionamento (Súmula 211/STJ), ficando inviabilizado, por consequência, o dissídio pretoriano.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.444.827/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Ante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor a ser restituído, observada a eventual e anterior concessão da gratuidade judiciária.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÃO DE OMISSÃO. NÃO VERIFICADA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. ANÁLISE DE DISSENSO PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
