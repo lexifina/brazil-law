@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ, bem como por inexistência de violação dos arts. 489 e 1.022 do CPC/2015 (e-STJ fls. 582/584).
+O Tribunal de origem deu parcial provimento ao recurso interposto pela recorrida, em julgado que recebeu a seguinte ementa (e-STJ fl. 517):
+PRESTAÇÃO DE SERVIÇOS DE TELEFONIA. Ação declaratória c/c cominatória. Sentença de procedência, para determinar a readequação das faturas "sub judice" ao valor mensal de R$449,00, com declaração de inexigibilidade do montante excedente, obstando-se cobranças ou suspensão dos serviços e ratificando-se a tutela antecipada, com redução da multa por descumprimento para R$5.000,00. Irresignação da parte ré. Cabimento em parte. Instrumento contratual "sub judice" que previu a isenção das cobranças de mensalidade, taxa de instalação e taxa de portabilidade na hipótese de consumo mínimo de R$449,00. "In casu", as faturas colacionadas aos autos comprovam que a parte autora superou o consumo mínimo contratado, fazendo jus às isenções previstas contratualmente. Inexigibilidade da cobrança de mensalidade constante das faturas objeto dos autos. Contrato que, por outro lado, não estabeleceu que a fatura teria o valor de R$449,00 ao mês, de modo que exigíveis as cobranças correspondentes ao consumo efetivo, ainda que superiores a este montante. Ação julgada parcialmente procedente. Sucumbência recíproca configurada. Honorários advocatícios fixados em 15% sobre o valor da causa, já incluídos os recursais. Recurso provido em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 556/561).
+No recurso especial (e-STJ fls. 524/546), fundamentado no art. 105, III, "a", da CF, a recorrente apontou negativa de vigência dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, sob o argumento de nulidade decorrente de omissão na análise das teses lançadas no recurso de embargos de declaração.
+Aduziu violação do art. 10 do CPC/2015, deduzindo a ocorrência de decisão surpresa.
+Nesse contexto, sustentou a recorrente, em síntese, que "EM NENHUM MOMENTO DA CONTESTAÇÃO A RECORRIDA ALUDIU SOBRE A DISCRIMINAÇÃO DE QUAIS VERBAS SERIAM AFETADAS PELOS MENCIONADOS DESCONTOS QUANDO FOSSE ATINGIDO OS LIMITES DE CONSUMO ALEGADOS" (e-STJ fl. 535).
+Por fim, indicou afronta aos arts. 421 e 422 do CC/2002 e 47, 51, IV, e 52, I, do CDC, argumentando sobre (i) a natureza ilimitada do plano contratado, (ii) o documento de fl. 176, o qual consigna que o plano era denominado "ilimitado total Brasil", (iii) a aplicabilidade do CDC, e (iv) a conclusão necessária de que o plano contratado tinha previsão de consumo ilimitado, desde que atingido o consumo mínimo de R$ 449,00 (quatrocentos e quarenta e nove reais).
+Ofereceram-se contrarrazões (e-STJ fls. 572/581).
+No agravo (e-STJ fls. 587/606), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 609/617).
+É o relatório.
+Decido.
+I - Da negativa de prestação jurisdicional
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos serviços contratados e discriminados no faturamento da agravante, bem como que o contrato não estabeleceu que a fatura teria valor de R$ 449,00 (quatrocentos e quarenta e nove reais) ao mês.
+II - Da falta de prequestionamento
+Constata-se que, apesar de opostos embargos de declaração, a tese de ocorrência de decisão surpresa não foi expressamente indicada nas razões do recurso nem enfrentada pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. P ortanto, é inafastável a incidência da Súmula n. 211 do STJ.
+III - Do reexame de fatos e provas e da interpretação contratual
+O TJSP concluiu que "o contrato não estabeleceu que a fatura paga no novo plano teria valor fixo de R$499,00 ao mês, mas, ao contrário, que esse seria o mínimo de consumo mensal para que a autora tivesse direito às referidas isenções (mensalidade, taxa de instalação e taxa de portabilidade), pagando então apenas o consumo efetivo" (e-STJ fl. 520).
+Asseverou, ainda, que, "ainda que indevidas as cobranças constantes das faturas objeto dos autos a título de mensalidade (nos termos das cláusulas segunda e terceira do contrato - fl. 180), são devidas as cobranças correspondentes ao consumo" (e-STJ fl. 521).
+Com efeito, alterar o que decidido no acórdão impugnado exigiria o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
