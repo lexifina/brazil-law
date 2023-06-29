@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto LPS BRASIL CONSULTORIA DE IMÓVEIS S. A. e FOR YOU - ASSESSORIA TÉCNICA E DOCUMENTAL LTDA., contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de repetição de indébito e devolução de valores pagos, em fase de cumprimento de sentença, ajuizada por CLEOVACIR AUGUSTO PESSOTTO e OUTRO, em face de LPS BRASIL CONSULTORIA DE IMÓVEIS S. A. e FOR YOU - ASSESSORIA TÉCNICA E DOCUMENTAL LTDA.
+Decisão interlocutória: acolheu as impugnações ao cumprimento de sentença, em razão do excesso de execução.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto por CLEOVACIR e OUTRO, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA - Ação de repetição de indébito e devolução de quantias pagas - Impugnação - Excesso de execução - Acolhimento - Cobrança de verba honorária pelos autores-exequentes que se mostra indevida, porque não encontra amparo no título judicial - Evidente imprecisão do acórdão proferido pela Superior Instância que majorou a honorária então arbitrada em favor dos réus - Ausência de base de cálculo a justificar a cobrança na forma pretendida - Possibilidade de exigência apenas do adicional de 2% (art. 85, § 11º), incidente, por lapso, sobre o montante de 15%, que na verdade era devido inicialmente pelos agravantes - Depósito em garantia que, por sua vez não configura pagamento voluntário - Cabimento da incidência dos encargos previstos no art.523,§1º,CPC,e prosseguimento da execução em face de todas as rés solidárias - Recurso provido em parte.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão da ausência de violação do art. 1.022 do CPC/15, da ausência de demonstração da violação dos arts. 85, §11 e 523, §1º, do CPC/15, da incidência da Súmula 7/STJ, além da ausência de demonstração da similitude fática quanto à alegada divergência jurisprudencial.
+ARESP de LPS BRASIL CONSULTORIA DE IMÓVEIS S. A. e FOR YOU -ASSESSORIA TÉCNICA E DOCUMENTAL LTDA.: além de apresentarem síntese fática, as agravantes se limitaram a defender a violação dos arts. 85, §11, 523, §1º e 1.022, do CPC/15 e a realização do cotejo analítico com a demonstração da similitude fática.
+Assim, não demonstrou, de maneira consistente, a inaplicabilidade do óbice da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
