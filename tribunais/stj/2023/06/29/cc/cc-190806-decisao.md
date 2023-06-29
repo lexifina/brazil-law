@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação de cobrança ajuizada por Cristianne de Souza Galvão contra o Município de Macapá/AP, objetivando o recebimento de verbas trabalhistas.
+O feito foi distribuído ao Juízo de Direito da 3ª Vara Cível e de Fazenda Pública de Macapá/AP, que declinou de sua competência para a Justiça especializada.
+Redistribuído o feito ao Juízo da 5ª Vara do Trabalho de Macapá/AP, foi suscitado o conflito negativo de competência perante o Superior Tribunal de Justiça, considerando já haver decisão da Justiça comum, acolhendo a preliminar de sua incompetência material.
+É o relatório. Decido.
+O Supremo Tribunal Federal reconheceu a existência de repercussão geral relativamente ao critério a ser utilizado na definição da competência para julgar ação ajuizada por servidor público, sob o regime celetista, contra o poder público sobre prestação de natureza administrativa (RE 1288440 - Tema: 1.143).
+Iniciado o julgamento, o relator propôs a fixação da seguinte tese: a Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa. Importante destacar que o voto do Ministro Relator foi seguido por nove, dos onze ministros que compõe o STF, estando impedido o Exmo. Ministro Luiz Fux. O julgamento foi interrompido pelo pedido de vista da Ministra Presidente Rosa Weber, que divergiu da orientação firmada pela relator, aderindo, contudo, à modulação dos efeitos proposta pelo relator.
+Em que pese o julgamento não tenha se encerrado e considerando a necessidade de efetiva prestação jurisdicional aliada ao princípio da duração razoável do processo, penso que o resultado se mostra inalterado não justificando mais o sobrestamento do presente feito.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito da 3ª Vara Cível e de Fazenda Pública de Macapá/AP , ora suscitado, para prosseguir no julgamento.
+Publique-se. Intimem-se.
