@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de OVIDIO PEREIRA DA SILVA JUNIOR contra o v. acórdão prolatado pelo eg. Tribunal Regional Federal da 3ª Região.
+Depreende-se dos autos que o paciente foi condenado às penas de 08 (oito) anos e 02 (dois) meses de reclusão, em regime inicial fechado, e 1.069 (mil e sessenta e nove) dias-multa, como incurso nas sanções do art. 35, caput, c/c art. 40, I, da Lei n. 11.343/2006 (Operação Cristal).
+Irresignadas, a defesa e a acusação interpuseram recurso de apelação ao Tribunal de origem, que deu provimento somente ao apelo ministerial, para aumentar a sanção ao patamar de 09 (nove) anos e 04 (quatro) meses de reclusão e 2.177 (dois mil cento e setenta e sete) dias-multa, nos termos do acórdão juntado às fls. 396-438.
+No presente writ, o impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base do delito, bem como o quantum adotado para tanto.
+Requer, ao final, a concessão da ordem, para reduzir as sanções (fls. 3-8).
+As informações foram prestadas às fls. 494-495.
+O Ministério Público Federal, às fls. 497-501, manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+Pedido de sustentação oral juntado às fls. 504-505.
+É o breve relatório.
+Decido.
+O impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base do delito, bem como o quantum adotado para tanto.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Acerca do punctum saliens, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, consoante o disposto no artigo 42 da Lei 11.343/2006.
+No presente caso, o Tribunal de origem, de forma motivada e de acordo com o caso concreto, atento às diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, considerou a excepcional quantidade de entorpecentes transportada pela associação, (mais de 3.000 kg - equivalente a cerca de três toneladas - de maconha), aliada ao emprego de sofisticada estrutura logística, com o uso de caminhões e de diversos veículos para o carregamento das drogas, bem como ao fato de ostentar o paciente posição de destaque na associação transnacional, coordenando a atuação dos demais membros e tendo seu nome relacionado a todos os carregamento de entorpecentes identificados nos autos, no âmbito da Operação Cristal, a fim de exasperar a reprimenda-base em 04 (quatro) anos.
+Nesse sentido: "No caso, as instâncias de origem exasperaram a pena-base sob o argumento de que "A circunstância de operar, comandar a quadrilha de dentro do Presídio é avaliada em seu desfavor, somada a circunstância de ser o líder do grupo" (fl. 142), o que demonstra concretamente uma maior reprovabilidade da conduta do paciente". (AgRg no HC n. 670.044/RS, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 16/5/2022)
+Em reforço: AgRg no HC n. 595.803/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 19/4/2023; e AgRg no HC n. 718.764/RJ, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 14/3/2023; e AgRg no HC n. 750.276/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 22/8/2022.
+Quanto ao critério numérico de aumento para cada circunstância judicial negativa, in casu, não há desproporção no aumento operado pela Corte de origem, uma vez que há motivação particularizada para tanto, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06, ausente, portanto, notória ilegalidade a justificar a concessão da ordem de ofício.
+A propósito: "A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. " (AgRg no REsp 1433071/AM, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 6/5/2015).
+Nesse sentido: AgRg no AREsp n. 2.015.094/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 18/10/2022; e AgRg no AREsp n. 1.583.293/MG, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 20/6/2022).
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
