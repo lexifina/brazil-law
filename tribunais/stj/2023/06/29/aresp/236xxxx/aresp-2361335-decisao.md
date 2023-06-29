@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado por Banco RCI Brasil S.A., com fundamento no art. 105, III, c, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 166):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE FINANCIAMENTO PARA AQUISIÇÃO DE VEÍCULO, COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CÉDULA DE CRÉDITO BANCÁRIO. INEXISTÊNCIA DE CONDIÇÃO ESPECÍFICA DA AÇÃO. EXTINÇÃO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA AUTORA, ORA APELANTE. NOTIFICAÇÃO EXTRAJUDICIAL DEVOLVIDA COM A INFORMAÇÃO DE ENDEREÇO INCOMPLETO. APELANTE QUE NÃO OBSERVOU, CORRETAMENTE,O ENDEREÇO DECLINADO NO CONTRATO CELEBRADO ENTRE AS PARTES. CONSTITUIÇÃO DO DEVEDOR EM MORA NÃO COMPROVADA. SÚMULAS Nº 72 E Nº 283 DO STJ E DO TJRJ, RESPECTIVAMENTE. INEXISTÊNCIA DE PROVA DE EFETIVA DE ENTREGA DA NOTIFICAÇÃO NO ENDEREÇO INDICADO. AUSÊNCIA DOS REQUISITOS LEGAIS DISPOSTOS NO ART. 2º, §2º, DO DECRETO-LEI Nº 911/1969. SÚMULA Nº 55 DO TJRJ. CONFIRMAÇÃO DA SENTENÇA QUE SE IMPÕE. PRECEDENTES. DESPROVIMENTO DO RECURSO.
+Nas razões do apelo especial, o recorrente indicou violação aos arts. 2º, §§ 2º e 3º, e 3º, caput, do Decreto-Lei n. 911/1969; 113 e 422 do CC; e 4º, 10, 139, IX, e 321, do CPC/2015, além da existência de divergência jurisprudencial.
+Sustentou, em síntese, a validade da notificação expedida ao endereço constante do contrato, ainda que não tenha sido entregue pelo motivo "ausente", devendo ser reconhecida a regularidade da constituição em mora do recorrido.
+Defendeu a possibilidade de emenda à inicial e notificação após o ajuizamento da ação.
+Afirmou que o recorrido deve arcar integralmente com os ônus sucumbenciais.
+O processamento do apelo extremo não foi admitido pelo Tribunal de origem, levando o insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+É pacífico o entendimento jurisprudencial do Superior Tribunal de Justiça de que a prévia constituição em mora do devedor constitui requisito indispensável ao ajuizamento e processamento da demanda, conforme enunciado sumular n. 72 desta Casa.
+Na espécie, o Tribunal local concluiu que o devedor não teria sido constituído em mora. A primeira notificação não teria sido recebida no endereço constante do contrato, já que não haveria nenhuma pessoa no imóvel no momento da entrega, sendo que na segunda notificação constou a informação de que o endereço do devedor não estava completo.
+Confira-se o seguinte excerto do acórdão recorrido, na parte que interessa (e-STJ, fls. 169-171, sem grifo no original):
+Dos autos, verifica-se que a instituição financeira autora, ora apelante, objetiva a busca e apreensão do veículo, objeto de contrato de financiamento de veículo com alienação fiduciária em garantia, mediante emissão de Cédula de Crédito Bancário, pactuado com o réu, ora apelado, sob a alegação de inadimplemento das parcelas ajustadas no referido negócio jurídico.
+Para que o apelado efetuasse o pagamento das prestações em aberto, a apelante enviou para o endereço declinado no contrato - Rua Clóvis de Souza Medina, nº 120, apartamento 103, Parque São Caetano, Campos dos Goytacazes, RJ- notificação extrajudicial, que, porém, fora devolvida com o resultado "ausente"(indexadores 000058 e 000064).
+Almejando a constituição em mora do apelado, a apelante, em seguida, procedeu ao protesto do título e enviou nova notificação extrajudicial ao apelado, contudo, com o endereço incompleto, que levou à sua devolução com essa informação(indexadores 000083/000089).
+Dessarte, conclui-se que não há comprovação inequívoca de que o apelado tenha sido constituído em mora, embora seja imprescindível para a constituição e o desenvolvimento válido da ação de busca e apreensão de bem alienado fiduciariamente, conforme orientação conferida pelo Superior Tribunal de Justiça e por esta Corte Estadual.
+( )
+Assim, o apelo não merece acolhimento, ante a ausência de comprovação da notificação prévia do devedor, visto que a apelante não observou, corretamente, o endereço constante no contrato, para oportunizar ao apelado a possibilidade de realização do pagamento da integralidade do débito ou apresentação de sua defesa, para evitara subtração repentina do bem dado em garantia.
+Destarte, não há falar em reforma do acórdão recorrido, pois exige-se, pelo menos, a comprovação de que efetivamente houve o recebimento da notificação no endereço do domicílio do devedor, por meio do aviso de recebimento, o que não foi demonstrado na hipótese dos autos.
+Nessa mesma linha de cognição:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO. ALIENAÇÃO FIDUCIÁRIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. COMPROVAÇÃO DA MORA DO DEVEDOR. INOCORRÊNCIA. HARMONIA ENTRE O ENTENDIMENTO DO ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de busca e apreensão de veículo alienado fiduciariamente.
+2. Não ocorre ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+Precedentes.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. É insuficiente, para fins de comprovação da mora do devedor, o envio de notificação extrajudicial ao endereço informado no contrato, quando a comunicação é devolvida sem cumprimento, não sendo possível a presunção de má-fé do devedor. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.185.317/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADA COM AVISO DE RECEBIMENTO. DEVOLUÇÃO COM A INFORMAÇÃO "AUSENTE ". MORA NÃO COMPROVADA. EXTINÇÃO DA AÇÃO DE BUSCA E APREENSÃO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Para os contratos garantidos por alienação fiduciária, a mora se configura automaticamente quando vencido o prazo para o pagamento - mora ex re -, mas, considerando o teor da Súmula n. 72 do STJ, é imprescindível a comprovação da mora para o prosseguimento da ação de busca e apreensão.
+3. Nas hipóteses de alienação fiduciária, a mora deve ser comprovada por meio de notificação extrajudicial expedida por cartório de títulos e documentos ou por carta registrada com aviso de recebimento e entregue no domicílio do devedor, sendo dispensada a notificação pessoal.
+4. No caso em que a notificação extrajudicial retorna com a informação "ausente", é correta a extinção da ação de busca e apreensão em razão da ausência de comprovação da mora, tendo em vista que a notificação expedida não foi entregue no endereço do devedor.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.080.682/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. CONSTITUIÇÃO EM MORA. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. SÚMULAS N. 7 E 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. É assente nesta Corte o entendimento de que "a notificação apresentada não tem validade para constituição em mora se não foi entregue no endereço do devedor, não podendo ser presumida sua má-fé por encontrar-se ausente no momento da entrega" (AgInt no REsp n. 1.929.336/RS, Rel. Ministra MARIAISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 1º/12/2021 ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela ausência de constituição em mora do devedor . Alterar tal conclusão é inviável em recurso especial.
+5. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.155.694/RR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO DECLARADO PELA FIDUCIANTE MAS NÃO ENTREGUE. MOTIVO MUDOU-SE. MORA NÃO COMPROVADA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO NCPC. AFASTAMENTO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Nos termos do art. 2º, § 2º, do Decreto-lei n.º 911/1969, "a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário".
+3. No caso, a notificação não foi recebida porque a devedora estava ausente, e não havia nenhuma outra pessoa no imóvel, não podendo ser presumida sua má-fé por não estar ela presente no momento da entrega. Precedentes. Incidência da Súmula n.º 83 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.168.221/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+Outrossim, o simples fato da ausência do devedor no momento da entrega da notificação extrajudicial enviado ao endereço do imóvel indicado no contrato não conduz à conclusão de que ele agiu com má-fé.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO NÃO EFETIVADA. DEVEDOR AUSENTE. SÚMULA 83 DO STJ.
+1. De acordo com a jurisprudência desta Corte, a notificação extrajudicial realizada e entregue no endereço do devedor, ainda que dispensada a notificação pessoal, é válida para a constituição em mora, o que não ocorreu no presente caso.
+2. "Inviabilidade de se extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva." (REsp 1848836/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/11/2020, DJe 27/11/2020) 3. Agravo interno não provido.
+(AgInt no REsp n. 1.978.852/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Assim, constata-se a consonância da decisão recorrida com o posicionamento desta Corte Superior, nos termos acima declinados, motivo pelo qual incide o óbice do enunciado n. 83 da Súmula do STJ.
+No tocante aos arts. 4º, 10, 139, IX, e 321, do CPC/2015, , verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. MORA NÃO CONFIGURADA. INEXISTÊNCIA DE NOTIFICAÇÃO DO DEVEDOR. MOTIVOS. AUSENTE E ENDEREÇO INCOMPLETO. ACÓRDÃO ESTADUAL EM CONSONÂNCIA AO ENTENDIMENTO DESTA CASA. SÚMULA 83/STJ. OFENSA AOS ARTS. 4º, 10, 139, IX, E 321, do CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
