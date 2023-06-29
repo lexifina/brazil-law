@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de MARLON BRUNO CRUZ MOREIRA contra acórdão do Tribunal de Justiça do Estado do Espirito Santo, proferido no julgamento da Apelação n. 0011622-10.2020.8.08.0024, assim ementado:
+"APELAÇÃO CRIMINAL - ROUBO MAJORADO - REVISÃO DA PENA-BASE - REGIME MAIS BRANDO - RECORRER EM LIBERDADE - RECURSO NÃO PROVIDO.
+1.O uso de simulacro de arma de fogo, configura a grave ameaça elementar do crime de roubo, não podendo ser utilizada para exasperar a pena. Contudo, em reforço argumentativo autorizado pelo Superior Tribunal de Justiça, mantenho a valoração negativa da culpabilidade, uma vez que a prática do crime em um coletivo, em horário no qual as pessoas estão indo ou voltando do trabalho/escola demonstra ousadia e maior reprovabilidade de sua conduta.
+2. Mantido o regime fechado, em razão da reincidência, nos termos do artigo 33, § 2º, "a" do CP.
+3. A autoria e materialidade estão evidenciados, notadamente diante da sentença condenatória, havendo necessidade de garantia da ordem pública e assegurar a aplicação da lei penal, mormente em razão do histórico criminal e quando o recorrente conhece a penalidade que lhe foi imposta. Outrossim, a manutenção de custódia cautelar ganha reforço com a prolação de sentença condenatória que não concede referido direito a0 apelante que ficou preso durante toda a instrução processual" (fl. 11).
+Consta dos autos que o paciente foi condenado, em primeiro e segundo graus, a 5 anos e 6 meses de reclusão, em regime fechado, pela prática do crime de roubo simples (art. 157, caput, do Código Penal).
+No presente writ, a impetrante sustenta, em síntese, que teria sido inidônea a fundamentação apresentada para negativar a culpabilidade do paciente, devendo, portanto, ocorrer a redução da pena-base.
+Requer a concessão da ordem nesse sentido.
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impet rado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Inicialmente, confira-se a fundamentação apresentada para exasperar a pena-base:
+" ..
+Na primeira fase, o Magistrado considerou desfavorável a culpabilidade, fixando a pena-base em 05 (cinco) anos e 10 (dez) dias-multa.
+O uso de simulacro de arma de fogo, configura a grave ameaça elementar do crime de roubo, não podendo ser utilizada para exasperar a pena.
+Contudo, em reforço argumentativo autorizado pelo Superior Tribunal de Justiça, mantenho a valoração negativa da culpabilidade, uma vez que a prática do crime em um coletivo, em horário no qual as pessoas estão indo ou voltando do trabalho/escola demonstra ousadia e maior reprovabilidade de sua conduta" (fl. 76).
+O fundamento utilizado para exasperar a basilar mostra-se idôneo e de acordo com a jurisprudência desta Corte, visto que a ousadia na prática do crime de roubo, executado dentro de um ônibus, extrapola os elementos do tipo.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, CAPUT, DO CP. DOSIMETRIA. ANÁLISE DESFAVORÁVEL DE CIRCUNSTÂNCIAS JUDICIAIS. MOTIVOS DO CRIME. OBTENÇÃO DE DINHEIRO PARA COMPRA DE DROGAS. CIRCUNSTÂNCIAS DO DELITO. CRIME PRATICADO NO INTERIOR DE ÔNIBUS VAZIO E COM SIMULACRO DE ARMA DE FOGO. ELEMENTOS CONCRETOS QUE DEMONSTRAM QUE A AÇÃO NÃO DESBORDOU DA PERICULOSIDADE PRÓPRIA DO TIPO. FUNDAMENTOS INIDÔNEOS PARA A ELEVAÇÃO DA REPRIMENDA. DECOTE DEVIDO. PLEITO MINISTERIAL DE RESTABELECIMENTO DO AUMENTO. AGRAVO NÃO PROVIDO.
+1. No que toca aos motivos do crime, destacou-se na dosimetria da pena que a subtração ocorreu para o sustento do vício de drogas do réu. Contudo, predomina nesta Corte o entendimento de que, mesmo em crimes patrimoniais, é inadmissível a valoração da pena-base quando a subtração do bem é motivada no interesse do agente de adquirir drogas para consumo próprio, tratando-se de circunstância que não pode ser utilizada em seu desfavor.
+3. A prática de crimes de roubo dentro de transportes coletivos autoriza, nos termos da abalizada jurisprudência desta Corte Superior, a elevação da pena-base por consistir, via de regra, em fundamento idôneo para considerar desfavorável circunstância judicial. Isso porque no transporte público há comumente grande circulação de pessoas, o que eleva a periculosidade da ação.
+4. No caso, todavia, sem que se faça necessário o revolvimento fático-probatório dos autos, observa-se que as circunstâncias concretas do presente caso demonstram que a ação não desbordou da periculosidade própria do tipo. Conforme mencionado pela própria vítima, o ônibus estava vazio no momento do delito, o qual foi praticado com simulacro de arma de fogo. Tais circunstâncias concretas (ônibus vazio e uso de simulacro de arma de fogo) evidenciam que o modus operandi do delito foi normal à espécie, não se justificando a elevação da reprimenda.
+5. Portanto, de rigor o afastamento da valoração negativa das circunstâncias judiciais relativas aos motivos e circunstâncias do crime.
+6. Agravo regimental não provido.
+(AgRg no HC n. 693.887/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 21/2/2022).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. ROUBOS DUPLAMENTE CIRCUNSTANCIADOS EM CONCURSO FORMAL. DOSIMETRIA. PRIMEIRA FASE. DESFAVORECIMENTO DO VETOR DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. SEGUNDA FASE. PLEITO DE APLICAÇÃO DA FRAÇÃO DE 1/6, PARA A REDUÇÃO DA PENA-BASE, ANTE A INCIDÊNCIA DA ATENUANTE DA CONFISSÃO. POSSIBILIDADE. PENA REDUZIDA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- O efeito devolutivo da apelação autoriza o Tribunal local, quando instado a se manifestar sobre a dosimetria da pena, a realizar nova ponderação dos fatos e circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, sem que se incorra em reformatio in pejus, desde que não seja agravada a situação do réu, vale dizer, que não seja elevada a sua reprimenda ou recrudescido o regime de cumprimento.
+- Na hipótese, é idônea a justificação empregada para a exasperação das penas-bases em razão do desfavorecimento da culpabilidade: o fato de os crimes terem sido cometidos dentro de um ônibus coletivo, colocando em risco trabalhadores que voltavam de sua jornada diária, de fato, é circunstância que aumenta a reprovabilidade das condutas praticadas.
+- A lei não prevê as frações a serem aplicadas no caso de incidência de atenuantes e agravantes. Contudo, este Superior Tribunal de Justiça tem se inclinado no sentido de que a redução da pena em fração inferior a 1/6 deve ser devida e concretamente fundamentada.
+Precedentes.
+- No caso, configura constrangimento ilegal a redução da pena basilar em patamar inferior a 1/6, ante a atenuante da confissão, sem fundamentação idônea. Aplica-se ao caso a Súmula n. 231/STJ.
+- Habeas corpus não conhecido.
+- Ordem concedida, de ofício, para reduzir a pena definitiva do paciente ao novo patamar de 8 anos de reclusão e 78 dias-multa, mantidos os demais termos da condenação.
+(HC n. 466.738/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/5/2019).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
