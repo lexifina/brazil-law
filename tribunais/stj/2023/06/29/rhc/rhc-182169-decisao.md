@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por NATAN MARTINS DA SILVA desafiando acórdão do Tribunal de Justiça do Estado do Paraná (HC n. 0024084-44.2023.8.16.0000).
+Depreende-se dos autos que o recorrente foi preso em flagrante delito pela suposta prática do crime de tráfico de drogas, tendo a prisão em flagrante sido convertida em prisão preventiva (e-STJ fls. 102/109).
+Segundo consta, com ele foram apreendidos ""31g (trinta e um gramas) de maconha, 02 (dois) pinos (totalizando 0,8  deci gramas) de substância análoga à cocaína, 02 (dois) comprimidos de substância análoga à ecstasy, 3 (três) celulares, 24,8g (vinte e quatro gramas e oito  deci gramas) de substância análoga à haxixe, uma pistola marca taurus modelo G3C N 149985, com três carregadores e 30 (trinta) munições, R$7.604,00 (sete mil, seiscentos e quatro reais) em notas diversas, R$126,50 (cento e vinte e seis reais e cinquenta centavos) em moedas, uma motocicleta, marca Honda, modelo CBR 600R, placas ALF5F79, um automóvel marca Audi, modelo A5 SPB, de placas AUN6/68. No segundo endereço,  ..  foram encontrados R$140,00 (cento e quarenta reais) e 5,9g (cinco gramas e nove  deci gramas) de substância análoga a cocaína, divididos em 08 (oito) pinos, razão pela qual os autuados foram presos em flagrante delito"" (e-STJ fl. 112).
+Impetrado habeas corpus na origem, a ordem foi denegada, conforme acórdão assim ementado (e-STJ fl. 109):
+HABEAS CORPUS. TRÁFICO DE DROGAS. . ACESSO PRELIMINAR AOS AUTOS DE BUSCA E APREENSÃO. NÃO CONHECIMENTO. PEDIDO NÃO DECIDIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. . MÉRITO REVOGAÇÃO DO DECRETO PREVENTIVO. INVIABILIDADE. RISCO CONCRETO DE REITERAÇÃO DELITIVA EVIDENCIADO ATRAVÉS DE INVESTIGAÇÕES PRETÉRITAS. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO QUE CULMINOU COM A LOCALIZAÇÃO DE ENTORPECENTES. ACAUTELAMENTO NECESSÁRIO PARA GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA E ESCORREITA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO INSUFICIENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. REPRIMENDA MENOS GRAVOSA EM CASO DE EVENTUAL CONDENAÇÃO. EXERCÍCIO DE FUTUROLOGIA. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL INOCORRENTE. ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA.
+Neste recurso, sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal (e-STJ fls. 128/148).
+O pedido liminar foi indeferido (e-STJ fls. 325/327).
+Informações prestadas (e-STJ fls. 332/361).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 365/368).
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente recurso é mera reiteração do pedido feito no HC n. 828.377/PR, também de minha relatoria, no qual já proferi decisão denegando a ordem.
+Assim, o proceder da defesa caracteriza pretensão de dupla análise da mesma insurgência por esta Corte Superior, providência de todo incabível.
+A propósito, guardadas as devidas particularidades:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM OUTRO WRIT. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, as causas de pedir expostas em ambas impetrações são idênticas, bem como os pedidos de suspensão da execução provisória da pena imposta ao agravante pelas instâncias ordinárias.
+3. Hipótese em que a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido. (AgRg no HC 478.216/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/2/2019, DJe 19/2/2019.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS JULGADO PREJUDICADO. PRETENSÃO DE REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL DEDUZIDA CONCOMITANTEMENTE NO WRIT E EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO ANALISADA NO MEIO PRÓPRIO. PERDA DO OBJETO. PRECEDENTES.
+1. O presente habeas corpus, impetrado em benefício de Alberto Pereira - no qual se busca a reforma da dosimetria das penas impostas na sentença penal que condenou o paciente por tráfico de drogas e associação ao narcotráfico nos autos nº 033.03.006441-7 da 1ª Vara Criminal da Comarca de Itajaí-SC, ao final, fixando-as definitivamente e em concurso material ao máximo previsível de 7 (sete) anos e 7 (sete) meses de reclusão, em razão da interposição de agravo em recurso especial perante esta Corte - perdeu seu objeto, eis que o AREsp n. 1.706.557/SC foi julgado em 8/9/2020, com trânsito em julgado em 13/10/2020.
+2. Em ambas as insurgências, o agravante postula a redução das penas- base ao mínimo legal.
+3.  ..  dizem os precedentes do Superior Tribunal de Justiça que, havendo a interposição de recurso e impetração de habeas corpus com objetos idênticos, o julgamento do recurso pela Turma deste Tribunal prejudica o exame da impetração, haja vista a reiteração de pedidos (AgRg no HC n. 492.527/SP, de minha relatoria, Sexta Turma, DJe 20/11/2020).
+4. Ao impetrar habeas corpus após a interposição de recurso especial, cujo fundamento abrange o constante no writ, a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais (AgRg no HC n. 560.166/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/3/2020).
+5. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial. Precedentes (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+6. Agravo regimental desprovido. (AgRg no HC 590.414/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 4/5/2021, DJe 10/5/2021.)
+Por estas considerações, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
