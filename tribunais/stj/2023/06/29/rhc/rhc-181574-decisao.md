@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por GLEY EMILIO PEREIRA PINHEIRO desafiando acórdão do Tribunal Regional Federal da 3ª Região (HC n. 5000160-12.2023.4.03.0000).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, do crime de tráfico transnacional de drogas (art. 33, caput, c/c o art. 40, inciso I, ambos da Lei n. 11.343/2006).
+Narram os autos que o recorrente e a corré tentaram embarcar no Aeroporto Internacional de Guarulhos com aproximadamente 2kg (dois quilos) de cocaína, que estavam amarrados em suas pernas e em cápsulas ingeridas por ambos - e-STJ fl. 182.
+Impetrado prévio writ na origem, a ordem foi denegada, nos termos da ementa de e-STJ fl. 188:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+1. A prisão preventiva é espécie de prisão cautelar que pode ser decretada pelo juiz em qualquer fase da investigação policial ou do processo penal, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado (CPP, artigos 311 e 312, na redação dada pela Lei nº 13.964/2019), somente sendo determinada quando não for cabível a sua substituição por outra medida cautelar (CPP, arts. 282, § 6º, e 319). É a do sistema de ultima ratio medidas cautelares previsto no Código de Processo Penal, especialmente depois da Lei nº 13.964/2019.
+2. Não há ilegalidade na decisão impugnada. A denúncia na ação penal já foi recebida e, embora o crime imputado ao paciente não envolva violência ou grave ameaça a pessoa, é de gravidade concreta porque, além de ter por objetividade jurídica a saúde pública, via de regra é praticado por organizações criminosas dotadas de capilaridade e alto poder de reestruturação, cujo poder econômico, dado o alto valor das drogas que negociam ilicitamente, tem auxiliado seus integrantes e/ou colaboradores a fugir do distrito da culpa.
+3. A quantidade de cocaína transportada pelo paciente é considerável e ele tem extensa ficha de movimentos migratórios, com 14 entradas e saídas do Brasil desde 2015, o que pode indicar ligação com organização criminosa transnacional. Ao ser questionado pelo juiz que realizou a audiência de custódia, o paciente não soube informar sua renda, de modo que não há nos autos nenhuma demonstração da sua capacidade financeira que pudesse justificar tantas viagens internacionais em curtos períodos de tempo, estando atualmente desempregado.
+4. O paciente não tem vínculo com o distrito da culpa e vinha passando longos períodos fora do território nacional, o que reforça o risco de que, em liberdade, possa evadir-se, em prejuízo da persecução penal que se encontra na fase de apresentação de defesa prévia (art. 55 da Lei nº 11.343/2006).
+5. Ordem denegada.
+Neste recurso ordinário, sustenta a defesa a ilegalidade da custódia preventiva ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Aduz que o recorrente atuou, de forma pontual, como "mula do tráfico", não sendo apreendida expressiva quantidade de entorpecente.
+Destaca as circunstâncias pessoais favoráveis.
+No que se refere à "extensa lista de movimentos migratórios, temos que, como costa em depoimento e por intermédio de provas visuais anexadas nos autos, o paciente trabalhava diretamente no exterior, área de garimpo, não como garimpeiro, mas como fornecedor de produtos para o garimpeiro, o que explica diretamente suas idas e vindas entre os países Brasil e Suriname" (e-STJ fl. 201).
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal (e-STJ fls. 196/216).
+O pedido liminar foi indeferido (e-STJ fls. 233/235).
+Informações prestadas (e-STJ fls. 240/246 e 247/281).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fls. 284/287).
+É o relatório.
+Decido.
+Consoante informações prestadas pelo Tribunal Regional Federal da 3ª Região (e-STJ fl. 247):
+Em consulta pública ao PJe da Justiça Federal de Primeiro Grau, verificou-se que, na ação penal de origem (de nº 5010233-53.2022.4.03.6119), foi proferida sentença condenatória, em 27.04.2023, condenando o paciente GLEY EMILIO PEREIRA PINHEIRO à pena de 6 (seis) anos, 3 (três) meses e 25 (vinte e cinco) dias de reclusão, em regime inicial semiaberto, e 632 (seiscentos e trinta e dois) dias multa, no valor unitário mínimo legal, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, I, ambos da Lei nº 11.343/2006. A prisão preventiva foi mantida e determinada a expedição de guia de recolhimento provisória, para compatibilizar o regime prisional fixado. (Grifei.)
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, que decorre, agora, de novo título, a ser apreciado pelo Tribunal de origem.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte Superior, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
