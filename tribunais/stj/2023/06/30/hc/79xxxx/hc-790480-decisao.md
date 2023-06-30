@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIS FELIPE INDA JUNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Recurso em Sentido Estrito 5008682-48.2021.8.21.0037).
+O paciente foi preso cautelarmente em 17/01/2020 e denunciado por suposta prática dos crimes previstos nos arts. 33 da Lei 11.343/2006 e 12 da Lei 12.826/2003, porque, em cumprimento de mandado de busca e apreensão, foi surpreendido mantendo em depósito 14 buchas de cocaína, 53 pedras de crack, 3 revólveres calibre 38, 39 munições, 1 colete balístico e 1 balança de precisão. No dia 17/09/2021, a prisão foi revogada, mediante condição.
+O recurso em sentido estrito interposto pelo Ministério Público estadual foi provido para restabelecer a segregação processual (28/11/2022).
+A impetrante alega: a) ausência de fundamentação suficiente a justificar a segregação cautelar, pois não atendidos os requisitos do art. 312 do Código de Processo Penal; b) extemporaneidade da prisão; e c) possibilidade de substituição da custódia por medidas cautelares diversas.
+Liminar indeferida (e-STJ fls. 880-881).
+Informações prestadas (e-STJ fls. 884-903).
+Parecer do Ministério Público Federal pelo indeferimento da ordem (e-STJ fls. 908-911).
+É o relatório.
+A prisão preventiva foi revogada nos seguintes termos (e- STJ fl. 894):
+Considerando-se o tempo já transcorrido desde a data do fato, a circunstância de não ter este sido praticado valendo-se o agente de violência ou grave ameaça e a constatação de que o crime pelo qual foi condenado o réu em sentença irrecorrível ter sido cometido há cerca de doze anos, entendo ter sido restabelecida a ordem violada pela prática do ilícito penal imputado ao acusado.
+De tal modo, não mais persistindo as razões que determinaram a segregação cautelar do réu, cabível a substituição da prisão preventiva pelas seguintes medidas cautelares, necessárias e adequadas à preservação do resultado útil do processo:
+comprovação de domicílio e telefone através dos quais possa ser prontamente encontrado, devendo mantê-los atualizados sempre que pretender modificá-los;
+e proibição de ausentar-se da Comarca por prazo superior a 5 (cinco) dias sem a autorização do juízo.
+O Tribunal de origem deu provimento ao recurso em sentido estrito interposto pelo Parquet local, com base na seguinte fundamentação (e-STJ fls. 867-868):
+O réu foi preso em flagrante no dia 16/01/2020, pela suposta prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido, havendo a homologação do flagrante e sua conversão em prisão preventiva, para a garantia da ordem pública (Evento 1, ANEXO 5, p. 46/49 dos autos do recurso em sentido estrito).
+No entanto, em 17/09/2021, o juízo optou por conceder a liberdade provisória ao acusado, sob a seguinte fundamentação (Evento 1, ANEXO2, p. 50/51) dos autos do recurso:
+ ..
+Contudo, além dos crimes serem extremamente graves, o réu ostenta nada menos do que sete laudas de histórico criminal, com condenação definitiva por roubo majorado e outros processos em andamento por porte ilegal de arma de fogo e tráfico de drogas. E mesmo com tais antecedentes, praticou novamente dois delitos graves.
+Assim, faz-se necessário seu imediato recolhimento, a fim de salvaguardar a sociedade de bem, que não pode ficar à mercê do ímpeto de uma pessoa que reiteradamente pratica fatos delituosos gravíssimos e que não está disposta a se ressocializar.
+Ante o exposto, voto por DAR PROVIMENTO ao recurso, a fim de restabelecer a segregação cautelar do recorrido.
+Em que pese a indicação, pelo Tribunal de origem, da prática de crimes anteriores e investigações em curso, verifica-se que, no período entre a revogação da prisão preventiva e o julgamento do recurso em sentido estrito, o paciente permaneceu em liberdade por aproximadamente 1 ano e 2 meses sem registro de descumprimento das medidas impostas ou de fato superveniente. Desse modo, não há contemporaneidade da medida em razão de perigo concreto. É adequada a imposição de medidas cautelares alternativas à prisão para alcançar os fins pretendidos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. INIDONEIDADE DA FUNDAMENTAÇÃO RELATIVA AO PERICULUM LIBERTATIS: AUSÊNCIA DE CONTEMPORANEIDADE. RECURSO DO MPF NÃO PROVIDO.
+1. Como registrado na decisão ora impugnada, que nesta oportunidade se confirma, o juízo de primeira instância revogou a prisão preventiva do paciente em dezembro de 2019, esclarecendo que as provas já haviam sido produzidas, que sua sentença condenatória havia sido anulada, que o réu já passara mais de dois anos segregado cautelarmente e que já havia sido deferida sua progressão para o regime aberto, de modo que não existiria causa para a custódia processual.
+2. Contra essa decisão, o órgão acusatório interpôs o recurso em sentido estrito que veio a ser provido pelo acórdão apontado como coator, em fevereiro de 2022, com fundamento (a) em fatos descritos na denúncia do ano de 2016, (b) no período que permaneceu foragido entre setembro de 2016 e agosto de 2017, (c) em petição anterior à sua soltura em dezembro de 2019 e (d) em suposto descumprimento de medida cautelar que não foi reconhecida pelo juízo de primeira instância e sem registro da sua data.
+3. Nesses termos, a instância originária não parece haver indicado circunstâncias atuais que justificassem a medida extrema.
+4. A prisão preventiva na segunda instância exigia, nesse contexto, demonstração de urgência (v.g., interferência nas investigações, tentativa de fuga, nova conduta delitiva), na linha do entendimento perfilhado em arestos paradigmáticos desta Corte.
+5. Isso porque a contemporaneidade com o reputado indício de periculum libertatis é um dos mais relevantes pressupostos das medidas cautelares: a urgência, seja para o cárcere preventivo, seja para outras providências cautelares menos invasivas à liberdade.
+6. Assim, apesar dos argumentos apresentados pelo MPF, não há elementos que justifiquem a reconsideração do decisum.
+7. Agravo regimental não provido.
+(AgRg no HC 721.239/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/03/2022, DJe de 25/03/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CRIME COMETIDO EM MAIO DE 2018. PEDIDO DE PRISÃO PREVENTIVA INDEFERIDO PELO JUIZ DE PRIMEIRO GRAU. RECONHECIMENTO DA AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. DECISÃO REFORMADA NO JULGAMENTO DE RECURSO EM SENTIDO ESTRITO. JUÍZO DE CAUTELARIDADE NÃO FUNDAMENTADO IDONEAMENTE. AUSÊNCIA DE INDICAÇÃO DE DADOS CONCRETOS SUPERVENIENTES À DECISÃO DO MAGISTRADO SINGULAR. PRESSUPOSTOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL NÃO DEMONSTRADOS. ACUSADO QUE SE ENCONTRAVA EM LIBERDADE HÁ QUASE TRÊS ANOS NA CAUSA PRINCIPAL. CUSTÓDIA RESTABELECIDA A DESPEITO DO DECURSO DE LONGO PERÍODO QUE PERMANECEU SOLTO. PRISÃO PROCESSUAL QUE VIOLA, IGUALMENTE, O PRINCÍPIO DA CONTEMPORANEIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausência de fundamentação idônea no decreto prisional, proferido quase 3 (três) anos após os fatos, que não aponta nenhum dado concreto e atual capaz de justificar a adoção da medida extrema, limitando-se a fazer referência ao próprio crime praticado em período já distante no tempo.
+2. Não se descuida que o acórdão consignou que o Agravado é suspeito de praticar outros crimes após os fatos imputados na ação penal de origem. Contudo, o Juízo de primeiro grau, com a segurança que a proximidade dos fatos lhe assegura, consignou que não há elementos que indiquem com firmeza ser o Paciente o autor do crime que se lhe imputa.
+3. Necessário indicar fato superveniente à decisão que indeferiu o pedido de prisão preventiva do Acusado, com a demonstração dos indícios suficientes de autoria e fatos contemporâneos, para se constatar fundamento concreto a fim de refutar as premissas do Magistrado de primeira instância, mais próximo dos fatos e das provas.
+4. A prisão processual - ante a ausência de demonstração dos indícios de autoria, refutados pelo Juízo de primeiro grau, e de novos fatos a ensejar a segregação - ofende o princípio da contemporaneidade da medida constritiva, em razão do decurso de longo período de tempo em que o Paciente esteve solto durante a tramitação do processo criminal e a cautelar decretada no julgamento do recurso em sentido estrito.
+5. Agravo regimental desprovido.
+(AgRg no HC 664.324/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+O art. 319 do Código de Processo Penal, alterado pela Lei 12.403/2011, apresenta diversas medidas cautelares que podem ser aplicadas pelo magistrado, em substituição à prisão:
+Art. 319. São medidas cautelares diversas da prisão:
+I - c omparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades;
+II - proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado permanecer distante desses locais para evitar o risco de novas infrações;
+III - proibição de manter contato com pessoa determinada quando, por circunstâncias relacionadas ao fato, deva o indiciado ou acusado dela permanecer distante;
+IV - proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+V - recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos;
+VI - suspensão do exercício de função pública ou de atividade de natureza econômica ou financeira quando houver justo receio de sua utilização para a prática de infrações penais;
+VII - internação provisória do acusado nas hipóteses de crimes praticados com violência ou grave ameaça, quando os peritos concluírem ser inimputável ou semi-imputável (art. 26 do Código Penal) e houver risco de reiteração;
+VIII - fiança, nas infrações que a admitem, para assegurar o comparecimento a atos do processo, evitar a obstrução do seu andamento ou em caso de resistência injustificada à ordem judicial;
+IX - monitoração eletrônica.
+As circunstâncias do caso indicam suficiência das medidas cautelares previstas nos incisos I (comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades) e IV (proibição de ausentar-se da Comarca sem autorização do Juízo do art. 319 do Código de Processo Penal, sem prejuízo de que outras sejam aplicadas pelo Juízo processante.
+A custódia pode ser novamente decretada em caso de descumprimento (art. 282, § 4º, c/c art. 316, do Código de Processo Penal) ou em razão da superveniência de fatos novos, desde que devidamente fundamentada.
+Ante o exposto, defiro a ordem para substituir a prisão cautelar por medidas alternativas previstas no art. 319, I e IV, do Código de Processo Penal.
+Publique-se. Intimem-se.
