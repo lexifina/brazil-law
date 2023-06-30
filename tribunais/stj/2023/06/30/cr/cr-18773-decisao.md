@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro, Juízo Local Criminal de Loulé, Juiz 3) solicita que se proceda à notificação de JUNIOR CARDOSO DA SILVA para tomar ciência do conteúdo da promoção com a referência n. 126771665, bem como para, no prazo de 10 dias, se pronunciar sobre a conversão da pena de multa não paga em prisão subsidiária, conforme despacho proferido pela Mm.ª Juíza de Direito em 11-01-2023 (referência n. 126842697). Comunica, ainda, que para evitar a conversão da pena de multa em prisão subsidiária poderá, no prazo de 10 dias, proceder ao seu pagamento, no montante de 675  , o qual poderá ser efetuado para a conta indicada à fl. 6.
+Tendo em vista que a diligência foi cumprida (certidão de fls. 47-48) , determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
