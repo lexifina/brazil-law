@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fátima Pimentel da Silva e outro em face da seguinte decisão:
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. Ação de prestação de contas. Inventário e Partilha. Pedido de prestação de contas de imóvel vendido antes do falecimento do de cujus. Impertinência. Ausência de direito à herança de bens e valores de que o falecido podia dispor livremente. Impugnação à justiça gratuita. Afastada. Ausência de comprovação de capacidade financeira para custear a demanda. Sentença mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO.
+Alega-se violação dos artigos 553 e 618, VII, do Código de Processo Civil, sob o argumento de que os recorrentes têm direito à prestação de contas de imóvel alienado pertencente ao autor da herança. Assim delimitada a controvérsia, passo a decidir. O Tribunal local, no exame da pretensão autoral, concluiu que a prestação de contas requerida pelos recorrentes versa sobre imóvel alienado pelo autor da herança ainda quando vivo. Leia-se o excerto do acórdão local:
+"Em complemento à r. Sentença, deve ser ressaltado que a venda do imóvel aludido nos presentes autos ocorreu em dezembro de 2016, sendo que o falecimento do de cujus ocorreu em 18.11.2017. Logo, o referido imóvel não faz parte do espólio, que a inventariante deve administrar e prestar contas. Ademais, deve ser lembrado que inexiste direito à herança de bens e valores de que o falecido podia dispor livremente" (e-STJ, fl. 342).
+Se se trata, portanto, de pedido relacionado enquanto vivo o alienante, os dispositivos invocados são impertinentes ao tema e, portanto, desprovidos de conteúdo normativo apto a subsidiar a tese dos recorrentes, o que atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. PLANO DE SAÚDE. RECUSA DE COBERTURA. DANOS MORAIS. INEXISTÊNCIA. FALTA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, sobre as questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+4. De acordo com a jurisprudência desta Corte Superior, "o mero inadimplemento contratual não enseja condenação por danos morais" (AgInt no REsp n. 1.840.664/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/4/2020, DJe 24/4/2020), o que foi observado pelo Tribunal de origem.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+6. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+7. No caso concreto, para alterar a conclusão do Tribunal de origem, de modo a reconhecer a existência de dano moral indenizável aos recorrentes, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+8. Dissídio jurisprudencial não comprovado, ante a incidência das Súmulas n. 282 e 356 do STF e 211, 7 e 83 do STJ.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.666.311/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo. Intimem-se.
+Afirma que a decisão embargada é omissa, porquanto não examinou o tópico relacionado à violação do artigo 85 do Código de Processo Civil sob o argumento de que não são cabíveis honorários advocatícios na ação de exigir contas.
+Pede o acolhimento do recurso.
+Impugnação dos embargos às fls. 434/436 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte firmou entendimento de que são cabíveis honorários advocatícios na ação de exigir contas, dada sua natureza autônoma e cuja sentença tem cunho predominantemente condenatório.
+A saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. VALOR DA CAUSA. DECISÃO MANTIDA.
+1. Segundo entendimento desta Corte Superior, "a decisão que julga procedente o direito de exigir contas na primeira fase da ação respectiva ostenta natureza de sentença, com eficácia predominantemente condenatória inclusive, a teor do que previsto no § 5º do art. 550 do CPC; sendo devido o arbitramento de honorários em favor do autor" (AgInt no REsp n. 1.918.872/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+2. No caso dos autos, foram fixados os honorários sobre o valor da causa, em observância à "ordem de vocação" para a base de cálculo definida pela Segunda Seção: "(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º);
+ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp n. 1.746.072/PR, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe de 29/3/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.897.898/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+A gratuidade de justiça, se é que deferida, outrossim, não afasta a condenação nos ônus de sucumbência, mas apenas obsta sua execução por certo lapso temporal, o que decorre da própria lei.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. BENEFICIÁRIO DA JUSTIÇA GRATUITA. POSSIBILIDADE. EXIGIBILIDADE SUSPENSA. ART. 98, § 3º, do CPC/2015.
+1. Não se pode conhecer da alegada vulneração do art. 1.022 do CPC/2015, uma vez que, nas razões do especial, os recorrentes deduzem argumentação genérica de que as questões postas nos aclaratórios interpostos na origem não foram respondidas, sem expor, de forma clara e específica, que matérias seriam essas e qual sua relevância para solução da controvérsia, circunstância que atrai, de forma inarredável, a exegese da Súmula 284/STF.
+2. Ademais, de acordo com a jurisprudência do STJ, e tal como decidiu a Corte local, o fato de a parte ser beneficiária da gratuidade da justiça não impede a fixação de honorários advocatícios, ficando, contudo, sua exigibilidade suspensa na forma do art. 98, § 3º, do CPC/2015.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.356.091/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/3/2019, DJe de 26/3/2019.)
+Em face do exposto, acolho os embargos de declaração apenas para acrescer a fundamentação supra à decisão embargada, sem modificação de seu dispositivo.
+Intimem-se.
