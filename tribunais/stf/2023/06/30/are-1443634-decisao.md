@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. EDITAL SEPLAG Nº. 01/2011. ENFERMEIRO DO SERVIÇO DE ATENDIMENTO DE URGÊNCIA/EMERGÊNCIA MÓVEL E FIXO - SAUEMF. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. MÉRITO. CANDIDATO. CLASSIFICAÇÃO FORA DO NÚMERO DE VAGAS INICIALMENTE | OFERTADAS. CONTRATAÇÃO TEMPORÁRIA. PRAZO DE VALIDADE DO CERTAME. ILEGALIDADE. ADMINISTRAÇÃO PÚBLICA. DIVULGAÇÃO DE LISTA. DEMONSTRAÇÃO DA NECESSIDADE DE PREENCHER VAGAS REMANESCENTES. SURGIMENTO. PRAZO DE VALIDADE DO CERTAME. MERA EXPECTATIVA QUE SE CONVOLA EM DIREITO LÍQUIDO E CERTO. ORDEM CONCEDIDA. Rejeita-se a preliminar de ilegitimidade passiva do Prefeito do Município do Salvador, pois a referida autoridade detém legitimidade passiva ad causam no mandado de segurança em que se pleiteia a assunção em cargo público, além de ter firmado os editais do certame. competindo-lhe, privativamente. nomear os servidores públicos. A norma constitucional prevê a possibilidade de acesso aos cargos, empregos e funções públicas àqueles que preencherem os requisitos legais. O caderno probatório constante dos autos evidencia que a impetrante logrou êxito em demonstrar a situação de preterição denunciada. pois demonstrou a existência de contratação de profissionais da área da Enfermagem, de forma temporária, em número suficiente a alcançar a sua colocação Ademais. havendo no certame candidatos aprovados fora do número de vagas previstas no edital, sobrevindo desistência ou desclassificação dos graduados em melhores posições, ante o não preenchimento de determinados requisitos, exsurge para aqueles posicionados nas classificações subsequentes, o direito subjetivo de serem convocados para as fases posteriores, observada a ordem classificatória e as novas vagas disponibilizadas. Na hipótese, a Administração Pública divulgou lista indicando o interesse em preencher mais vagas, surgidas no decorrer do prazo de validade do concurso, sendo manifesta a possibilidade de convocação da impetrante para realizar os exames préadmissionais, fase que, se prestada com êxito, ensejará su nomeação e posse, observada a ordem classificatória.
+
+    Opostos os embargos de declaração, foram acolhidos em parte.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º; 5º, II e LXIX; 37, I, II, III e IV; e 93, IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.Nesse sentido, ARE 715.689, Rel. Min. Roberto Barroso, DJede 6/2/2014, AI 768.630, Rel. Min. Gilmar Mendes, DJede 25/6/2011, e ARE 1.277.514-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJede 28/9/2020, esse último, assim ementado:
+
+    “CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULAS 279 E 454 DO STF. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas e das cláusulas contratuais. Incidem, portanto, os óbices da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) e 454 (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário), ambas desta Corte. 5. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário)”.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 30 de junho de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
