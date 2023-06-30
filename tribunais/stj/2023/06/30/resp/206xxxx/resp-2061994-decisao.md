@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALIENE PEREIRA DA SILVA (ALIENE) contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - PRELIMINAR DE COISA JULGADA -REJEITADA - AÇÃO REIVINDICATÓRIA - TUTELA PROVISÓRIA -IMISSÃO NA POSSE - REQUISITOS AUSENTES - NECESSIDADE DE DILAÇÃO PROBATÓRIA. Somente ocorrerá ofensa à coisa julgada se entre a ação que tramita e a que já foi julgada houver tríplice identidade de causa de pedir (remota e próxima), pedido (mediato e imediato) e partes (autor e réu), conforme preconiza o artigo 337, § 2º do CPC. Nos termos do art. 300, do CPC, são pressupostos para a concessão da tutela de urgência a existência de elementos que evidenciem a probabilidade do direito, bem como o perigo de dano ou risco ao resultado útil do processo. Encontrando-se a matéria nebulosa, demandando dilação probatória para seu esclarecimento, a decisão mais prudente é aquela que prestigia a manutenção da situação fática até que, após regular instrução, seja definido o direito
+posto em julgamento.
+Dos dois embargos declaratórios opostos por ALIENE somente o primeiro foi acolhido, sendo que o segundo foi rejeitado com aplicação de multa, conforme ementas a seguir transcritas:
+EMBARGOS DE DECLARAÇÃO - OMISSÃO. O recurso de embargos de declaração é cabível nas hipóteses de omissão, contradição ou obscuridade. Constatada a omissão na decisão, deve ela ser integrada através dos embargos de declaração (e-STJ, fls. 517/526).
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO, OMISSÃO OU OBSCURIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. Uma vez verificada a ausência de contradição, omissão ou obscuridade na decisão recorrida, devem ser rejeitados os embargos de declaração interpostos. O julgador não está obrigado a rebater cada um dos argumentos e manifestar sobre os dispositivos legais trazidos pela parte, quando a decisão proferida já se encontra suficientemente fundamentada. Somente a contradição interna da decisão autoriza a interposição de embargos de declaração. Mesmo interpostos com o escopo de prequestionamento, os embargos declaratórios devem preencher os requisitos legais, sob pena de rejeição. Conforme orientação do Superior Tribunal de Justiça, a intenção de rediscutir a decisão tomada no acórdão embargado evidencia o caráter manifestamente protelatório dos embargos de declaração e enseja a aplicação da multa prevista no artigo 1.026, §2º do Código de Processo Civil (e-STJ, fls. 641/653).
+Irresignada, ALIENE interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 9º e 10 do CPC, ao argumento de (1) que não lhe foi oportunizada qualquer momento processual para se defender da acusação de litigância de má-fe, o que, em sua opinião, significa tolhimento de seu direito de ampla defesa e contraditório; (2) foi violada a coisa julgada; (3) suportou cerceamento de defesa pela não apreciação da prova requerida; (4) deve ser reconhecida a litigância de má-fé dos recorridos; (5) devem ser fixados honorários sucumbenciais em virtude do não provimento do agravo de instrumento; e (6) é necessária a intimação do Ministério Público para que verifique a prática de ilícitos penais praticados.
+É o relatório.
+DECIDO.
+O recurso não merece conhecimento.
+(1) Da inobservância dos princípios da não surpresa, contraditório e ampla defesa
+Nas razões de seu inconformismo ALIENE apontou a violação dos arts. 9º e 10 do CPC, ao argumento de que não lhe foi oportunizada qualquer momento processual para se defender da acusação de litigância de má-fe, o que, em sua opinião, significa tolhimento de seu direito de ampla defesa e contraditório.
+Verifica-se, porém, que o TJMG não emitiu pronunciamento sobre o tema e não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial - quanto à violação dos princípios da não surpresa, ampla defesa e contraditório -, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVOS APONTADOS NAS RAZÕES DO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N.º 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+Incide, quanto ao ponto, o óbice das Súmulas nºs 282 e 356 do STF, por analogia.
+Além do mais, ainda que assim não fosse, não se pode esquecer que a imposição da multa é consectário lógico do reconhecimento, pelo Tribunal, de que os embargos de declaração se mostraram manifestamente protelatórios.
+(2) Da coisa julgada; (3) Do cerceamento de defesa; (4) Da litigância de má-fé; (5) Da fixação dos honorários sucumbenciais; e (6) Da intimação do Ministério Público
+Em seu inconformismo, ALIENE ainda sustentou que foi violada a coisa julgada; que suportou cerceamento de defesa pela não apreciação da prova requerida; que deve ser reconhecida a litigância de má-fé dos recorridos; que devem ser fixados honorários sucumbenciais em virtude do não provimento do agravo de instrumento; e que é necessária a intimação do Ministério Público para que verifique a prática de ilícitos penais praticados, sem, contudo, indicar os artigos tido por violados.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO. DANOS MORAIS. PEDIDO DE MAJORAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.109.813/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Assim, quanto a esses pontos, o recurso não pode ser conhecido em virtude da incidência da Súmula nº 284 do STF, por analogia.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários porque incabível na espécie.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. INDFERIMENTO DE TUTELA DE URGÊNCIA PLEITEADA. AGRAVO DE INSTRUMENTO NÃO PROVIDO. OPOSIÇÃO DE SEGUNDOS EMBARGOS DE DECLARAÇÃO QUE FORAM CONSIDERADOS PROTELATÓRIOS. IMPOSIÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. VIOLAÇÃO DOS ARTS. 9º E 10 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. DEMAIS TESES RECURSAIS. NÃO INDICAÇÃO DOS ARTIGOS DE LEI FEDERAL VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
