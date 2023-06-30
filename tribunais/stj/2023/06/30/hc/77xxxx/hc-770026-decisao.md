@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSE ROBERTO ALVES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 151990-38.2022.8.26.0000).
+O paciente foi preso preventivamente e pronunciado por suposta infração ao art. 121, §§ 2º, IV e VI, 2º-A, I, e 7º, III, c/c o art. 14, II, do Código Penal.
+A ordem impetrada perante o perante o Tribunal de origem foi indeferida.
+O impetrante alega excesso de prazo para formação definitiva da culpa.
+Requer deferimento da ordem para que seja relaxada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+Liminar indeferida (e-STJ fls. 684-685).
+Informações prestadas (e-STJ fls. 691-717).
+Parecer do Ministério Público Federal pelo não conhecimento da impetração (e-STJ fls. 719-725).
+Em consulta realizada no endereço eletrônico do Tribunal de origem, verificou-se que a sessão de julgamento perante o tribunal do júri foi designada para o dia 28/06/2023 e, ainda, que, no dia 27/03/2023, o magistrado processante reexaminou e manteve a prisão preventiva do paciente.
+É o relatório.
+A prisão preventiva foi decretada nos seguintes termos (e-STJ fls. 70-71):
+Por outro lado, a prisão cautelar é necessária.
+Isto porque, segundo se colhe do relato da vítima, o autuado já a vinha ofendendo moralmente e a ameaçando de morte.
+Na data do fato, ao que parece, decidiu colocar em prática o plano de ceifar a vida da ofendida.
+Não se descarta que, em liberdade, procure reiterar a conduta criminosa, principalmente agora, que a vítima já deixou claro que pretende se separar dele definitivamente.
+Deve-se, portanto, adotar a medida extrema da prisão preventiva, como forma de preservar a integridade física e psíquica da vítima.
+Não bastasse, deve-se ainda levar em conta que José Roberto valeu-se do momento em que a vítima estava dormindo, para golpeá-la. Ou seja, buscou situação em que ela foi tomada de surpresa e não poderia ter qualquer reação.
+A ordem impetrada perante o Tribunal de origem foi indeferida, com base na seguinte fundamentação (e-STJ fls. 675-677):
+Outrossim, inviável o acolhimento da tese de excesso de prazo para o encerramento da instrução criminal. Isto porque, consoante informações prestadas pela douta autoridade dita coatora, já houve sentença de pronúncia, salientando-se que se trata de processo com grau de complexidade, eis que a vítima reside atualmente em outro Estado da Federação, além das inúmeras intercorrências diante dos requerimentos de ambas as partes, o que ocasionou a demora na conclusão dos autos que, atualmente, aguardam prazo para eventual recurso contra decisão de pronúncia.
+Como é sabido, uma vez proferida a decisão de pronúncia, em princípio não cabe mais falar em excesso de prazo como razão para revogação da prisão cautelar, notadamente se a própria Defesa vem também contribuindo, com apresentação de diversas postulações, para o alongamento da instrução do feito e demora da submissão do julgamento respectivo ao Plenário do Tribunal do Juri (Superior Tribunal de Justiça, súmulas 21 e 64).
+ ..
+Enfim, cuidando-se de demora não provocada pelo juízo da causa, que vem se debruçando sobre o procedimento com o esforço necessário para seu encerramento, não se há de falar em excesso de prazo como razão para revogação da custódia preventiva do paciente.
+Em face do exposto, denega-se a ordem, mantendo-se em sede de habeas corpus a decisão aqui guerreada.
+O Superior Tribunal de Justiça orienta que "somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais" (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 740.880/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/3/2023, DJe de 29/3/2023).
+Acerca da durabilidade da prisão preventiva, a Corte Europeia de Direitos Humanos, para verificar se o processo ultrapassou ou não o prazo de duração razoável, examina as circunstâncias do caso e sua complexidade, atentando "para dados do processo, tais como: a natureza do processo e a gravidade da acusação, número de réus e de testemunhas, número de imputações, existência de recursos e impugnações em geral, a necessidade de prova pericial, a existência de obstáculos para a produção da prova, inclusive quando envolve o corréu, ocorrência de incidentes processuais, conflitos de jurisdição, necessidade de atos probatórios no exterior, número de instâncias judiciais e outros fatores considerados relevantes" (SAVVIDIS, 2016, apud CRUZ, Rogério Schietti. Prisão cautelar. Dramas, princípios e alternativas. 6.ed. Salvador: Juspodivm, 2021. p. 139).
+No caso dos autos, os fatos supostamente praticados pelo paciente teriam acontecido em 23/4/2021, ocasião em que foi preso em flagrante, com conversão em preventiva na mesma data. A denúncia foi oferecida em 3/5/2021 e recebida em 5/5/2021. Em pelo menos 8 oportunidades, o magistrado processante reexaminou e manteve a segregação cautelar.
+A sentença de pronúncia foi proferida em 01/04/2022. Houve substituição de patrono do paciente e informações foram prestadas à Corte superior. A sessão de julgamento pelo tribunal do júri, inicial mente designada para 20/4/2023, está marcada para 28/06/2023 (hoje), tudo a indicar a proximidade do término do processo.
+Embora o paciente esteja cautelarmente segregado há dois anos, o conjunto dos atos praticados evidencia regular tramitação do processo. Não há informação recente que evidencie morosidade ou retardo excessivo na implementação das fases processuais.
+A propósito:
+ PENAL. PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO TENTADO E HOMICÍDIO QUALIFICADO TENTADO POR QUATRO VEZES. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. RÉU PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21/STJ. SESSÃO DO JÚRI DESIGNADA PARA DATA PRÓXIMA. PRISÃO PREVENTIVA. MODUS OPERANDI. PERICULOSIDADE DO AGENTE QUE ATEOU FOGO AO APARTAMENTO EM QUE SE ENCONTRAVA A EX-ESPOSA E SEUS QUATRO FILHOS. GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. NECESSIDADE DE PROTEÇÃO ÀS VÍTIMAS. RISCO DE FUGA. MOTIVAÇÃO IDÔNEA. RECURSO NÃO PROVIDO.
+1. Segundo entendimento consolidado nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser aferidas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes.
+2. Hipótese em que, embora o recorrente esteja cautelarmente segregado há dois anos, verifica-se que o processo observa trâmite regular, constatando-se que além de o recorrente já ter sido pronunciado em 10/9/2018, a sessão do Júri encontra-se com data marcada para 19/3/2020.
+3. Nos termos da Súmula n. 21/STJ, "pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+ ..
+10. Recurso ordinário em habeas corpus não provido. Recomenda-se, entretanto, de ofício, ao Juízo processante, que reexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei n. 13.964/2019. Recomenda-se, igualmente, celeridade.
+(RHC 121.646/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2020, DJe de 14/2/2020.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, indefiro a ordem.
+Publique-se. Intimem-se.
