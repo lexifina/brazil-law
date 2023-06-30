@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ROBERTO BARBOZA SILVESTRE contra decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que denegou o pedido do HC n. 5029456-61.2023.8.24.0000, nos seguintes termos:
+" ..  O pedido, de pronto, não deve ser conhecido.
+Isso porque, consoante informado pelo próprio impetrante, o pedido aqui formulado (suspensão da audiência aprazada para o dia de hoje) já foi formulado nos autos do HC n. 50222040720238240000, cuja liminar restou indeferida pelo Exmo. Des. Luiz Neri Oliveira de Souza, ocasião em que assentou expressamente que "o conteúdo da inicial somado aos documentos que a instruem, não demonstram a existência de flagrante constrangimento ilegal, existência de eventual nulidade ou risco de excessiva demora na prestação jurisdicional, notadamente porque a liminar requerida confunde-se com o próprio mérito da impetração, obstando o Relator de, nesta fase de cognição sumária, deferir a medida, pois implicaria antecipação da prestação jurisdicional de competência exclusiva do órgão colegiado, no exercício de sua prerrogativa constitucional.
+Para além disso, não se pode ignorar que o magistrado singular sustentou que o "reconhecimento da prova ilícita naqueles autos não tem o condão de atingir as provas produzidas no presente feito, tendo em vista que tanto a denúncia como as alegações finais estão subsidiadas em outras provas autônomas, não se encontrando na mesma linha de desdobramento daquelas", havendo, portanto, a necessidade de incursão acerca da validade das provas, que neste momento a respeito de pormenores que envolvem a questão, seria temerário aqui qualquer pronunciamento monocrático a respeito".
+O que se visa com o presente remédio é, em verdade, buscar solução diversa daquela obtida pelos meios ordinários, utilizando-se para tanto de expediente indevido para tanto (plantão judiciário). Trata-se, evidentemente, de notório abuso ao direito de petição ao juízo plantonista." (fl. 103).
+O impetrante sustenta que a abordagem policial foi ilegal, implicando, assim, na nulidade das provas colhidas, visto que os policiais militares ingressaram na residência do paciente sem mandado de busca e apreensão.
+Argumenta que "inexiste nos autos elementos que demonstrem que a participação do paciente seria demonstrada de maneira diversa daquela operação deflagrada e considerada ilícita. Até porque, inexiste participação do paciente no presente feito." (fl. 13).
+Requer, assim, em liminar e no mérito, o trancamento da ação penal.
+É o relatório.
+Decido.
+A jurisprudência desta Corte não admite a impetr ação de habeas corpus contra decisão monocrática de relator, tendo em vista a necessidade de exaurimento das instâncias ordinárias. Nesse sentido: AgRg no HC 646.524/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 05/04/2021.
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
