@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO LEANDRO DA SILVA MACHADO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado pela prática do crime de roubo, previsto no art. 157, caput, do Código Penal, à pena de 4 anos de reclusão, em regime inicial aberto, e pagamento de 10 dias-multa.
+Irresignada, a acusação interpôs recurso de apelação ao Tribunal de origem, que deu provimento para aumentar a pena-base e fixar o regime inicial semiaberto da pena privativa de liberdade, nos termos do acórdão juntado às fls. 43-51, com a seguinte ementa:
+APELAÇÃO CRIMINAL. SENTENÇA CONDENATÓRIA PELO DELITO DE ROUBO (CP, ART. 157, CAPUT). APELO DO MINISTÉRIO PÚBLICO VISANDO A REFORMA PARCIAL DO JULGADO PARA QUE A PENA BASE SEJA FIXADA ACIMA DO MÍNIMO DIANTE DAS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS, ESTIPULANDO-SE O REGIME INICIAL SEMIABERTO.
+RECURSO CONHECIDO NO TOCANTE À MATÉRIA DEVOLVIDA (CPP, ART. 599), APLICANDO-SE O PRINCÍPIO "TANTUM DEVOLUTUM QUANTUM APPELLATUM" PRECEDENTES.
+CABIMENTO DA IRRESIGNAÇÃO MINISTERIAL MATERIALIDADE E AUTORIA DE UMA SUBTRAÇÃO PATRIMONIAL VIOLENTA QUE RESTARAM INEQUÍVOCAS, NEM HAVENDO INSURGÊNCIA DAS PARTES CONTRA A CONDENAÇÃO DOSAGEM DAS PENAS QUE MERECE REPAROS, FIXANDO-SE A PENA BASE ACIMA DO PISO DIANTE DAS CIRCUNSTÂNCIAS DO FATO, ANOTADO O "MODUS OPERANDI" DO AGENTE, A GERAR MAIOR INTIMIDAÇÃO DA VÍTIMA RECONHECIMENTO "EX OFFICIO" DA ATENUANTE DA CONFISSÃO ESPONTÂNEA ESTIPULAÇÃO DO REGIME INTERMEDIÁRIO QUE SE AFIGURA O MAIS ADEQUADO NO CASO, DESTACADAS AS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS RECURSO PROVIDO.
+No presente writ, o impetrante sustenta a ausência de fundamentação idônea na exasperação da pena-base por se mostrar inerente ao tipo penal.
+Alega, ainda, que ""A fundamentação de que a gravidade abstrata do delito é o suficiente para a aplicação de regime mais gravoso, está totalmente contrário à sumula 440 deste STJ, o que tem a seguinte redação: .. " (fl. 10).
+Portanto, requer, liminarmente e no mérito, que "na primeira fase de aplicação da pena a mesma seja estabelecida no mínimo legal conforme fundamentação apresentada e reestabelecida a sentença proferida em primeiro grau em desfavor do ora paciente em especifico ao que se refere ao regime inicial cumprimento da pena no regime aberto, tendo em vista à ausência de circunstancias judiciais desfavoráveis ao paciente." (fl. 11).
+É o breve relatório.
+Decido.
+O impetrante sustenta a ausência de fundamentação idônea na exasperação da pena-base por se mostrar inerente ao tipo penal. Alega, ainda, que ""A fundamentação de que a gravidade abstrata do delito é o suficiente para a aplicação de regime mais gravoso, está totalmente contrário à sumula 440 deste STJ, o que tem a seguinte redação: .. " (fl. 10).
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se constrangimento ilegal. Não havendo divergência da matéria no órgão colegiado, a dmissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Outrossim, em consulta ao sistema processual desta Corte Superior, verifica-se que as pretensões declinadas nas razões do presente habeas corpus são meras reiterações dos pedidos contidos no HC n. 826.552/SP, o qual foi indeferido liminarmente, por decisão publicada em 30/5/2023.
+Dessa forma, "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 671.963/SP, relator Ministro Reynaldo Soares da Fonseca, Quint a Turma, julgado em 22/6/2021, DJe de 28/6/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
