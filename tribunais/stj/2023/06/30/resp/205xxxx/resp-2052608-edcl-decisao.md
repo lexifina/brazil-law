@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Valdeci Paula da Silva contra decisão de fls. 924/926, que deu provimento ao recurso especial do INSS para julgar improcedente a ação rescisória ajuizada pelo segurado.
+A parte embargante aponta contradição no julgado, ao argumento de que o art. 1º-F da Lei 9.494/99, com a redação dada pela Lei 11.960/2009 foi declarado inconstitucional pelo Supremo Tribunal Federal, hipótese que excepciona a incidência da Súmula 343/STF.
+Indica também a seguinte omissão (fl. 932):
+Não obstante, verifica-se que o r. acórdão embargado também foi omisso por deixar de observar o Tema 1170 do Supremo Tribunal Federal, com data de repercussão geral em 15/10/2021, no qual tem-se Recurso Extraordinário em que se discute, à luz dos artigos 5º, XXXV, XXXVI e LIV, e 105, III, da Constituição Federal a aplicabilidade dos juros previstos na Lei 11.960/2009, tal como definido no julgamento do RE 870.947 (Tema 810 da repercussão geral), na execução de título judicial que tenha fixado expressamente índice diverso.
+O INSS deixou transcorrer in albis o prazo para resposta.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões para o provimento do recurso especial da autarquia previdenciária, destacando-se que o acórdão recorrido divergia da consolidada jurisprudência desta Corte no sentido de que se aplica a Súmula 343/STF às ações rescisórias ajuizadas com o objetivo de desconstituir acórdão que determinou a incidência de índice de correção monetária, nos termos do art. 1º-F da Lei nº 9.494/97, com a redação dada pelo art. 5º da Lei nº 11.960/09.
+Convém ressaltar que a possibilidade de rescisão de coisa julgada inconstitucional é prevista no Código de Processo Civil nos arts. 525, § 12 e 535, § 8º, os quais dispõem sobre eventual matéria de defesa passível de ser apresenta pelo executado, como matéria de impugnação à execução contra ele promovida, o que não se verifica no caso em exame.
+Sobre a necessidade de sobrestamento, a repercussão geral reconhecida no Tema 1.170/STF foi assim delimitada: "Validade dos juros moratórios aplicáveis nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema 810), na execução de título judicial que tenha fixado expressamente índice diverso".
+Apesar de guardar certa semelhança com a presente rescisória, não podemos deixar de observar que o mencionado enunciado refere-se à coisa julgada e o processo de execução, além de inexistir determinação para a suspensão nacional dos processos que trazem tal controvérsia.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão e contradição no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
