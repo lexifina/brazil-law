@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENATA MARTINS DE SOUZA BERNADO contra decisão do Desembargador do Tribunal Regional Federal da 3ª Região.
+Segundo consta dos autos, a paciente, funcionária da Prefe itura do Município do Guarujá/SP, é investigada no bojo da denominada "Operação Nácar-19", tendo sido determinado o seu afastamento do cargo público e o cumprimento de medidas cautelares, entre elas o monitoramento eletrônico e proibição de se comunicar com outros investigados, por força da decisão proferida no dia 25/3/2022.
+No julgamento do HC n. 773.788, a ordem foi concedida para revogar apenas a medida cautelar de monitoração eletrônica.
+Nas razões do presente habeas corpus, a defesa, de início, afirma "que os fatos narrados são inverídicos, visto ser tecnicamente impossível que o secretário da educação direcione contratos" de compra, e descreve o fluxo de ações para a realização de procedimento de licitação pela Prefeitura para demonstrar sua conclusão.
+Nas razões, alega excesso de prazo nas investigações, ressaltando que se passaram 361 dias da segunda fase da operação e o inquérito ainda não foi relatado, portanto, não há denúncia. Por outro lado, alega que o afastamento cautelar do cargo público tem causado prejuízo à paciente, com impacto direto nos vencimentos.
+Diante disso, pede a revogação das medidas cautelares em vigor.
+A liminar foi indeferida 9e-STJ fls. 1.766/1.767).
+As informações foram prestadas (e-STJ fls. 1.771/1.773) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não conhecimento do habeas corpus, em parecer assim resumido (e-STJ fl. 1779):
+EMENTA: HABEAS CORPUS EM FACE DE DECISÃO MONOCRÁTICA DOTRF3. SÚMULA 691/STF. PROCESSO PENAL. CRIMES DECORRUPÇÃO ATIVA E PASSIVA, DESVIO DE VERBAS PÚBLICAS ELAVAGEM DE DINHEIRO. MEDIDAS CAUTELARES DIVERSAS. AFASTAMENTO DO CARGO PÚBLICO E PROIBIÇÃO DE SE COMUNICARCOM OUTROS INVESTIGADOS. FUNDAMENTAÇÃO. REITERAÇÃO DOHC 773.788/SP. PROVAS DO ENVOLVIMENTO DA PACIENTE. INVIABILIDADE DO WRIT. EXCESSO PRAZAL NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+Por meio da Petição n. 00442864/2023, a defesa alega que pediu em 18/4/2022 a revogação das medidas, porém, segundo informa, não teria sido examinado o pedido (e-STJ fls. 1.776/1.777).
+Posteriormente, em nova Petição, n. 00565385/2023, a defesa alega excesso de prazo, ressaltando que após um ano e três meses não foi finalizada a investigação, razão pela qual reitera o pedido de revogação das medidas cautelares impostas (e-STJ fls. 1787/1788).
+É o relatório, decido.
+Busca-se, em resumo, no presente habeas corpus, a revogação das medidas cautelares em vigor, em razão do excesso de prazo na investigação e sem que tenha sido oferecida a denúncia e instaurada a ação penal.
+Porém, não há como conhecer da impetração.
+Isso porque o ato coator impugnado no presente writ já foi objeto debate nesta Corte, em habeas corpus impetrado pela paciente (HC n. 771371), julgado em 21/12/2022. Como é cediço,  ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+E, ainda, porque houve uma alteração fática posterior, no julgamento do HC n. 798.702 (decisão de 28/6/2023), impetrado pelo co investigado, em concedi parcialmente a ordem para revogar/adequar medidas cautelares, estendendo os efeitos da decisão a todos os investigados, inclusive à ora paciente.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, c ontudo, recomendo, de ofício, o exame célere do pedido formulado pela defesa da paciente para a revogação das medidas.
+Intimem-se.
