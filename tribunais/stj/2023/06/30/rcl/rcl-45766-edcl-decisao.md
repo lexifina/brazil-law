@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PLINIO JOSE BENEVENUTO em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ fl. 530) :
+RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUJEIÇÃO DO ESPECIAL A JUÍZO PRÉVIO DE ADMISSIBILIDADE REALIZADO NA PRÓPRIA CORTE DE ORIGEM, CONFORME PREVISÃO DO ART. 1.030 DO CPC/2015. JUÍZO DE ADMISSIBILIDADE LOCAL QUE, NA HIPÓTESE EM EXAME, NÃO DESBORDOU DESSA COMPETÊNCIA. INCONFORMISMO COM A DECISÃO DE INADMISSIBILIDADE DO ESPECIAL MANIFESTADA POR MEIO DE AGRAVO INTERNO NO PRÓPRIO TRIBUNAL DE ORIGEM, QUANDO CABÍVEL ERA O AGRAVO EM RECURSO ESPECIAL PREVISTO NO ART. 1.042 DO CPC/2015. INSUCESSO DESSA INICIATIVA. TENTATIVA DE UTILIZAÇÃO DO RECLAMO COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. PRECEDENTES.
+Reclamação manifestamente improcedente..
+Em suas razões (e-STJ, fls. 537-541), o embargante sustenta, em síntese, a existência de obscuridade e contradição na decisão, notadamente no que se refere à menção à solução que  aparentemente  foi adotada em outro processo.
+Afirma que a aparência não é justificativa suficiente para a rejeição liminar da inicial da sua reclamação.
+Argumenta que a conclusão da decisão embargada está em contradição com a conclusão do TJSP que, ao negar seguimento ao seu recurso especial, não cita entendimento firmado em recurso repetitivo ou repercussão geral, limitando-se a afirmar que existem referidos julgados.
+Sem impugnação (e-STJ, fl. 545).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS, MORAIS C/C LUCROS CESSANTES. CONTRATO DE CESSÃO DE DIREITOS DE USO DE ÁREA IMÓVEL. OMISSÃO. OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Existência de erro material que deve ser sanado, para restabelecer a decisão agravada, que acrescentou 10% (dez por cento) à verba previamente arbitrada nas instâncias precedentes, perfazendo 11% (onze por cento) sobre o valor da condenação.
+3. Embargos de declaração rejeitados, sanado erro material.
+(EDcl no AgInt no AREsp 1.424.868/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/08/2021, DJe 02/09/2021).
+Na hipótese dos autos, apesar do esforço argumentativo da parte insurgente, observa-se que a decisão embargada resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer em qualquer dos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido, cujo exame levasse a um diferente resultado na prestação de tutela jurisdicional.
+Os fundamentos da decisão embargada para a rejeição liminar da petição inicial foram a ausência de demonstração da necessidade de preservação da competência desta Corte e a indevida utilização da reclamação como sucedâneo recursal.
+De fato, foi consignado que, na presente hipótese, "o reclamante não interpôs o agravo em recurso especial contra a decisão de inadmissibilidade, optando por ingressar com agravo interno na própria Corte estadual, o qual findou não sendo nem mesmo conhecido sob o correto entendimento de que a sua utilização configuraria erro grosseiro" (e-STJ, fl. 532, sem destaque no original).
+Destacou-se que a circunstância dos autos é distinta e não pode ser confundida com a negativa de seguimento ao recurso especial fundada no art. 1.030, I, b, do CPC/2015, a qual seria impugnável mediante agravo interno.
+Concluiu-se, portanto, que as alegações deduzidas na inicial teriam unicamente o propósito de modificar a conclusão da Corte a quo pelo não conhecimento do agravo interno lá interposto; para o que não se presta a reclamação.
+Assim, a pretensão do embargante, nas razões dos presentes aclaratórios, é, portanto, a de descaracterizar a incidência dos referidos fundamentos e rediscutir o julgado, o que não se coaduna com a estreita via dos embargos de declaração.
+Por fim, não custa lembrar que "a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão. No caso, não ficou demonstrada a ocorrência de contradição no julgado embargado, o que impede o acolhimento dos embargos de declaração" (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.041.164/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/4/2023, DJe de 10/5/2023.).
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. REJEIÇÃO LIMINAR. SUCEDÂNEO RECURSAL. AUSÊNCIA DE OBSCURIDADE. NÃO DEMONSTRAÇÃO DE CONTRADIÇÃO. PRETENSÃO INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
