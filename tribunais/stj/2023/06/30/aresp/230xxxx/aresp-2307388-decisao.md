@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO JOSÉ HIGINO, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo interno. Justiça gratuita. Pedido formulado nas razões de apelação. Indeferimento. Pessoa física. Pretensão que deve vir acompanhada de lastro probatório, o que não se verifica na hipótese em julgamento. Presunção relativa de veracidade da declaração de hipossuficiência afastada. Agravante que não trouxera aos autos informação concreta sobre seus rendimentos e dispêndios, deixando de comprovar a sua efetiva situação financeira. Decisão mantida. Recurso desprovido" (fl. 544 e-STJ).
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes (fls. 551-554 e-STJ).
+No recurso especial (fls.556-559 e-STJ), o agravante aponta a violação do artigo 99, §§ 2º e 3º, do Código de Processo Civil, sustentando que demonstrou sua condição de insuficiência de recursos para pagar as custas processuais, em razão da hipossuficiência econômico-financeira que enfrenta.
+Com as contrarrazões (fls. 562-572 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Observa-se que o Tribunal de origem manteve o indeferimento do pedido de justiça gratuita com base na análise do acervo fático-probatório existente nos autos:
+"(..)
+Tal e qual frisado, o recorrente não demonstrara que não detém condições financeiras para arcar com o pagamento das custas de preparo sem prejuízo do próprio sustento ou de seu núcleo familiar.
+Na peculiaridade dos autos, não há absolutamente nenhuma prova a corroborar a alegação de hipossuficiência financeira.
+Nesse percurso, diante da absoluta falta de provas da alegada impossibilidade de recolhimento das despesas processuais por parte do agravante, o benefício merecia mesmo ser indeferido" (fl. 546 e-STJ - grifou-se).
+E por ocasião do julgamento dos embargos de declaração opostos ao acórdão recorrido, o TJSP ainda ressaltou que:
+"Com efeito, a decisão embargada considerou que não houve a efetiva demonstração da impossibilidade financeira do embargante, restando incabível a concessão da benesse sem, contudo, abordar a temática relativa ao diferimento ou parcelamento das custas processuais.
+No entanto, nesse tema, é certo que o parcelamento das custas processuais ou o seu custeio apenas ao final do processo também deve vir acompanhando da real demonstração de necessidade.
+Na peculiaridade dos autos, o postulante não trouxera absolutamente nenhuma informação sobre seus rendimentos e dispêndios, tampouco explicitara, como lhe cabia, qual a sua efetiva situação financeira, nem se interessara em comprová-la.
+Sem a demonstração de impossibilidade material, pois, é ilegítima a concessão idealizada (seja o diferimento ou parcelamento)" (fls. 553-554, e-STJ).
+Com efeito, incide na espécie o óbice da Súmula 83/STJ, visto que o acórdão recorrido encontra-se em consonância com a jurisprudência do STJ, no sentido de que "A declaração/afirmação de pobreza (hipossuficiência financeira) tem presunção relativa, podendo o pedido de gratuidade de justiça ser indeferido quando não demonstrados os requisitos necessários. Precedentes" (AgInt no REsp 2.004.922/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+Ademais, rever o entendimento firmado pelas instâncias ordinárias acerca da não comprovação da hipossuficiência financeira alegada demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. JUSTIÇA GRATUITA. PESSOA FÍSICA. HIPOSSUFICIÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+3. Na hipótese, rever o entendimento do tribunal local, que concluiu que não restou comprovada a impossibilidade financeira dos agravantes, atrai a incidência da Súmula º 7/STJ.
+4. Agravo interno não provido" (AgInt no REsp 2.001.225/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2022, DJe de 16/11/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. BENEFÍCIO INDEFERIDO NA ORIGEM. CONFIRMADO PELO TRIBUNAL APÓS ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. No caso, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência, indeferindo, por isso, o benefício da justiça gratuita. Nesse contexto, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, o que é defeso na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp 2.081.592/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+Por fim, a alegação acerca da necessidade de se conceder ao postulante a oportunidade de comprovar o preenchimento dos pressupostos para a concessão do benefício antes de se decretar a deserção do recurso não foi debatida pelo Tribunal de origem, faltando, portanto, o necessário prequestionamento, o que atrai a aplicação das Súmulas nºs 211/STJ e 282/STF quanto ao ponto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 800,00 (oitocentos reais).
+Publique-se.
+Intimem-se.
