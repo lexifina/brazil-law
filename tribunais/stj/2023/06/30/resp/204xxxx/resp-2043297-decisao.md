@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 460):
+PREVIDENCIÁRIO. PROCESSO CIVIL. REAFIRMAÇÃO DA DER. IMPLANTAÇÃO DO BENEFÍCIO.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições especiais são disciplinados pela lei em vigor à época em que efetivamente foi prestada, passando a constituir direito adquirido do trabalhador.
+2. A reafirmação da data de entrada do requerimento administrativo (DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, como fato superveniente, após o ajuizamento da ação ou da própria decisão recorrida, de ofício ou mediante petição da parte.
+3. Considerada a eficácia mandamental dos provimentos fundados no art. 497, caput, do Código de Processo Civil, e tendo em vista que a decisão não está sujeita, em princípio, a recurso com efeito suspensivo, é imediato o cumprimento do acórdão quanto à implantação do benefício devido à parte autora, a ser efetivado em 30 (trinta) dias.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das seguintes questões: (a) "Efetivamente, não foi apreciada pela Corte de origem a tese levantada pelo embargante acerca da impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, nos termos da decisão proferida pelo E. STJ no REsp 1.727.063 - SP. Dessa forma, a Corte de Origem não apreciou o sentido e o alcance do artigo 85, caput, do CPC, e do artigo 389 do CC"; e (b) "Além disso, o acórdão regional foi omisso, nos termos do artigo 1.022, parágrafo único, inciso I, do CPC ao deixar de se manifestar expressamente sobre o desrespeito ao julgamento proferido no Recurso Repetitivo nº 1.727.063 - SP (Tema 995) e sobre as normas que determinam aos tribunais observarem os acórdãos em julgamento de recursos repetitivos (artigo 927, inciso III do CPC)" (fl. 502) (grifos no original).
+Quanto á questão de fundo, sustenta ofensa aos artigos 85, caput, e 927, III, do CPC/2015 e artigo 389 do CC, aduzindo argumentação quanto ao reconhecimento de que "a c. Turma julgadora, em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários advocatícios sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER" (fl. 504) (grifos no original)
+Com contrarrazões.
+Às fls. 534-537, juízo de retratação, cuja ementa segue:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. REAFIRMAÇÃO DA DER. TEMA 995 DO SUPERIOR TRIBUNAL DE JUSTIÇA. HONORÁRIOS ADVOCATÍCIOS.
+1. Extrai-se a compreensão de que a tese jurídica (ratio decidendi) fixada no Tema 995 do Superior Tribunal de Justiça, a respeito da distribuição dos ônus de sucumbência, deve ser entendida no sentido de que o reconhecimento do direito à aposentadoria por fato superveniente e a ausência de oposição da autarquia à reafirmação da data de entrada do requerimento (DER) devem ser ser levados em conta para aferir a sucumbência das partes e arbitrar a verba honorária, em consonância com o princípio da causalidade e as regras do Código de Processo Civil aplicáveis (art. 20 do CPC de 1973 ou art. 85 do CPC de 2015).
+2. Arbitra-se a verba honorária de acordo com o conjunto da postulação e as circunstâncias do caso concreto.
+Juízo positivo de admissibilidade às fls. 553-555.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se ter a Corte de origem decidido que "ambas as partes devem responder pelo pagamento de honorários advocatícios".
+Em juízo de retratação, afirmou que (fl. 535):
+ ..
+Em relação à sucumbência das partes, verifica-se que o INSS ficou vencido em relação ao pedido de reconhecimento da especialidade dos períodos de 19/12/1988 a 30/06/1989, de 20/08/1996 a 10/08/2005 e de 24/08/2006 a 11/01/2010 e de concessão de aposentadoria proporcional por tempo de contribuição na data do requerimento administrativo.
+Já a pretensão da parte autora não foi acolhida quanto ao cômputo do tempo de serviço especial nos períodos de 08/10/1991 a 17/04/1995 e de 12/01/2010 a 31/03/2010 e de 02/04/2010 a 20/01/2011.
+Não há como reputar mínima a sucumbência da parte autora, já que o direito ao benefício de aposentadoria integral por tempo de contribuição, mediante a reafirmação da DER para 10 de fevereiro de 2016, foi reconhecido em função de fato superveniente à data do requerimento administrativo (15/01/2013) e também do ajuizamento da ação (09/08/2013).
+Por outro lado, o reconhecimento do direito ao benefício não decorreu unicamente da reafirmação da data de entrada do requerimento. A autarquia previdenciária ficou vencida em parte considerável dos pedidos.
+Fica, portanto, configurada a sucumbência recíproca.
+O acórdão, ao distribuir os honorários de sucumbência, equacionou as circunstâncias do caso concreto, de acordo com a pretensão deduzida pelas partes, e sopesou o fato de que o direito ao benefício foi reconhecido em razão de fato superveniente, sem oposição do INSS.
+ ..
+Uma vez que o acórdão observou a ratio decidendi do Tema 995, não há fundamento para alterá-lo em juízo de retratação.
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No mérito, o recorrente, ao indicar ofensa aos artigos 85, caput, e 927, III, do CPC/2015 e 389 do CC e direcionar a sua tese no sentido de que haja a reforma do acórdão regional, para afastar a condenação em honorários advocatícios, deixou de impugnar o fundamento do acórdão proferido em juízo de retratação segundo o qual (fl. 536):
+ ..
+Por outro lado, o reconhecimento do direito ao benefício não decorreu unicamente da reafirmação da data de entrada do requerimento. A autarquia previdenciária ficou vencida em parte considerável dos pedidos.
+Fica, portanto, configurada a sucumbência recíproca.
+O acórdão, ao distribuir os honorários de sucumbência, equacionou as circunstâncias do caso concreto, de acordo com a pretensão deduzida pelas partes, e sopesou o fato de que o direito ao benefício foi reconhecido em razão de fato superveniente, sem oposição do INSS.
+ ..
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO COLETIVA DE TÍTULO EXECUTIVO JUDICIAL. DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. COISA JULGADA. APELO NOBRE QUE NÃO IMPUGNOU O FUNDAMENTO DO ACÓRDÃO RECORRIDO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Consoante pacífica jurisprudência desta Corte, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019)" (AgInt no REsp n. 1.957.753/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/3/2022).
+2. É inviável o conhecimento do recurso especial que não ataca especificamente o fundamento adotado no acórdão recorrido. Incidência da Súmula 283/STF.
+3. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"."
+(AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021). Nesse mesmo sentido: AgInt no AREsp 1.170.224/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/9/2020.
+3. Agravo interno desprovido.
+(AgInt no REsp 1990498/DF, Rel Ministro Sérgio Kukina, Primeira Turma, julgado em 06/03/2023, Dje de 09/03/2023) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA CONTINUADA. APLICAÇÃO DE MULTA SINGULAR. POSSIBILIDADE. PRECEDENTES. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça define que "há continuidade infracional quando diversos ilícitos de idêntica natureza são apurados durante mesma ação fiscal, devendo tal medida ensejar a aplicação de multa singular" (AgInt no AREsp n. 1.129.674/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021).
+3. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que há continuidade delitiva no caso concreto, bem como de que a sanção aplicada pela ANP é desproporcional. A revisão de referida conclusão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1783746/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/02/2023, Dje de 16/02/2023) (grifei).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER. INCIDÊNCIA DE HONORÁRIOS DE SUCUMBÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
