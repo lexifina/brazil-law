@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ORNELIO VIOLA contra a decisão do Ministro Napoleão Nunes Maia Filho assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. IRPF. OMISSÃO DE RENDIMENTOS VERIFICADA PELAS INSTÂNCIAS ORDINÁRIAS. ALTERAÇÃO DO JULGADO RECORRIDO QUE RESULTARIA EM REVOLVIMENTO DE ELEMENTOS FÁTICO-PROBATÓRIOS. IMPOSSIBILIDADE DE EXAME NA VIA DO APELO ESPECIAL. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO (fl. 540).
+Sustenta a parte embargante que persiste omissão no julgado, notadamente no tocante às seguintes matérias (fl. 552):
+i. Quanto à responsabilidade exclusiva da fonte pagadora, na forma de devida subsunção e aplicação dos art. 45, § 1º, do CTN; 35, da Lei 7.713/88; 2º., §1º., da Lei 8.849/94;
+ii. O caráter indenizatório dos valores recebidos por intermédio do acordo tido junto à Companhia Vale do Rio Doce - CVRD, e impassíveis de tributação pelo Imposto de Renda, consoante precedentes acórdão do TRF-3 - APELREE: 3723 SP 2007.61.00.003723-7; acórdão do TRF-3 - AMS: 18541 SP 2002.61.00.018541-1; e acórdão AGRG no RESP 1266748/RS.
+Requer, o acolhimento dos embargos de declaração com efeitos infringentes.
+Não foi apresentada impugnação ao recurso (fl. 564).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+A decisão ora embargada foi clara ao entender que "o Tribunal de origem extraiu suas conclusões da minuciosa análise dos substratos fáticos carreados aos autos" e que " ..  adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão recorrido, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de Recurso Especial".
+O reexame das provas já analisadas pelo Tribunal de origem sobre a responsabilidade tributária e o caráter indenizatório das verbas recebidas pelo embargante, bem como da omissão de rendimentos, infringe a Súmula 7 do STJ. Nesse sentido:
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. IMPOSTO DE RENDA. PESSOA FÍSICA. OMISSÃO DE RECEITA. NÃO COMPROVAÇÃO DE DESPESAS MÉDICAS E ODONTOLÓGICAS.
+1. Tendo em vista o escopo de reforma do julgado, adota-se o princípio da fungibilidade recursal para processar a manifestação da parte como Agravo Regimental.
+2. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC, e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c", III, do art. 105 da Constituição Federal.
+3. A jurisprudência do STJ pacificou-se no sentido de que, em se tratando de divergência jurisprudencial, é indispensável que o dispositivo infringido seja infraconstitucional.
+4. O Tribunal de origem concluiu que o recorrente se omitiu de apresentar documentos complementares para comprovar as despesas por ele indicadas e que não houve a quitação do débito. Torna-se inviável, no âmbito do Recurso Especial, o reexame das provas produzidas nos autos, para chegar a um resultado diferente, sob pena de infringir a Súmula 7 do STJ.
+5. Agravo Regimental não provido. (EDcl no REsp n. 1.453.834/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/12/2014, DJe de 2/2/2015, sem grifos no original)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
