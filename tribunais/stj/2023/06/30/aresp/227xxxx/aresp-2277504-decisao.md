@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ÂNGELA PARANHOS DE GALINDO, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão pelo Tribunal Regional Federal da 4ª Região.
+Ao examinar a hipótese, verifica-se que a matéria tratada nos autos se amolda àquela afetada ao rito de recursos repetitivos, pela Corte Especial do STJ, sob o Tema 1.178/STJ: "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil", nos Recursos Especiais 1.988.687/RJ, 1.988.697/RJ e 1.988.686/RJ, todos de relatoria do Ministro OG FERNANDES.
+Conforme previsto no CPC/2015:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;".
+O art. 256-L, incluído pela Emenda Regimental 24/2016, do Regimento Interno do Superior Tribunal de Justiça, por sua vez, determina que:
+"Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ".
+Com efeito, esta Corte tem entendimento de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015. Nesse sentido: STJ, AgInt no REsp 1.791.598/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 11/09/2019.
+Registre-se, por fim, que, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o recurso anteriormente julgado, se o acórdão
+recorrido contrariar a orientação do tribunal superior.
+E, versando o recurso interposto sobre outras questões, diversas da examinada no repetitivo, "caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões" (art. 1.041, § 2º, do CPC/2015).
+Ante o exposto, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o presente recurso: (a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I
