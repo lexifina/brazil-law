@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por DEFENSORIA PÚBLICA DO ESTADO PARANÁ (DEFENSORIA PÚBLICA), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. PROVA PERICIAL. DECISÃO. PRECLUSÃO. RECURSO DO EMBARGANTE. NULIDADE. ALEGAÇÃO DEAUSÊNCIA DE INTIMAÇÃO PESSOAL DIANTE DA PRERROGATIVADA DEFENSORIA PÚBLICA (CPC, ART. 186, § 1º) QUE, NO CASO,REPRESENTA O EMBARGANTE. TESE NÃO ACOLHIDA. REALIZAÇÃO DE INTIMAÇÃO PESSOAL ACERCA DADIGITALIZAÇÃO DOS AUTOS. DEFENSOR PÚBLICO QUE, ADEMAIS,TEVE ACESSO À ÍNTEGRA DO PROCESSO. PRESUNÇÃO DECIÊNCIA DOS ATOS PROCESSUAIS ANTERIORES. INTELIGÊNCIADOS ARTS. 5º, § 6º, E 9º, , E § 1º, AMBOS DA LEI Nº 11.419/2006. CAPUTPRECLUSÃO TEMPORAL VERIFICADA. AUSÊNCIA DEMANIFESTAÇÃO NO MOMENTO OPORTUNO. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO. (e-STJ, fls. 57/63).
+Nas razões do presente recurso, a DEFENSORIA PÚBLICA alegou a violação aos arts. art. 186 do CPC; 5º e 9º da Lei 11.419/2006; art. 128, I, da LC 80/1994, ao sustentar que (1) o órgão da Defensoria Pública possui prerrogativa da intimação pessoal; (2) não houve ciência inequívoca do despacho para apresentar os contratos por solicitação do perito judicial; (3) o acesso à íntegra do processo corresponde à vista pessoal e não à intimação pessoal propriamente dita, pois a validade deste último ato pressupõe o registro de efetiva consulta eletrônica; (4) a presunção de ciência das decisões do processo físico não se aplica aos autos eletrônicos; (5) a intimação pessoal a respeito da digitalização dos autos não serve para fins de ciência do despacho para apresentar documentos, sendo de rigor a nulidade processual dos atos subsequentes.
+Não foram apresentadas contrarrazões (e-STJ, fls. 96).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da perda superveniente do objeto
+Como se vê dos autos, EDSON LUIZ FRANCISCO (EDSON) opôs embargos à execução contra BANCO SANTANDER BRASIL S/A (SANTANDER), em que foi nomeado Defensor Público para defesa dos interesses do devedor.
+Intimada, a DEFENSORIA PÚBLICA impugnou os cálculos apresentados pelo banco e postulou a produção de prova pericial, que posteriormente foi considerada preclusa pelo juízo monocrático em razão da inércia das partes na apresentação dos documentos solicitados pelo expert.
+Em face desta decisão foi interposto o presente agravo de instrumento, sob o argumento básico de que a intimação da DEFENSORIA PÚBLICA deveria ser pessoal, acarretando a nulidade dos atos praticados posteriormente à decisão impugnada.
+Entretanto, em consulta ao site do Tribunal de Justiça do Paraná, foi possível constatar que os embargos foram rejeitados em 03.08.2022, sem interposição de recurso pelas partes, o que culminou no transito em julgado da sentença em 16.11.2022.
+Tendo em vista que os embargos foram rejeitados, inclusive com o trânsito em julgado da decisão, forçoso reconhecer a perda superveniente do objeto, conforme já decidiu esta Corte Superior:
+PROCESSUAL CIVIL. ADMINISTRATIVO. VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL FEDERAL CÍVEL. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - A matéria versada nestes autos consiste, em síntese, na discussão relativa a contrato de seguro habitacional, com risco de comprometimento do Fundo de Compensação de Variações Salariais - FCVS. No Tribunal a quo, o agravo de instrumento interposto foi improvido.
+II - O acórdão recorrido foi prolatado em agravo de instrumento, nos autos de ação relativa à discussão acerca de reparação de danos em imóvel financiado pelo Sistema Financeiro da Habitação, nos quais foi determinada a remessa ao juízo especial federal cível, em razão do valor da causa.
+III - Em consulta ao sítio oficial do Tribunal a quo, confirma-se a informação de que a ação originária já teve desfecho de mérito, proferida pela 2ª Vara do Juízo Especial Federal de Maringá em 24/08/2018, julgando improcedente a ação, decisão modificada em sede de recu rsal, extinguindo-se o feito sem resolução de mérito, em razão de o contrato de financiamento em discussão já ter sido encerrado.
+IV - Referido acórdão transitou em julgado em 17/03/2021.
+V - Nesse panorama, dada a superveniência do julgamento da ação originária, não mais persiste a discussão acerca da decisão interlocutória, nos termos do firme entendimento jurisprudencial desta Corte: AgInt no REsp 1.712.508/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 20/5/2019, DJe 22/5/2019 e EDcl no AgInt no AREsp 1.344.445/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/6/2019, DJe 10/6/2019.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.538.265/PR, relator Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 19/10/2021, DJe de 25/10/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO MONOCRÁTICA QUE DECLAROU A SUPERVENIENTE PERDA DO OBJETO RECURSAL. INSURGÊNCIA DO EXEQUENTE.
+1. A sentença de mérito transitada em julgado proferida em sede de exceção de pré-executividade que declarou extinta a execução ante a ausência de saldo credor dada a quitação da dívida por terceiro não interessado, enseja a perda superveniente do objeto do recurso interposto contra acórdão proferido em agravo de instrumento no âmbito do qual se discutia a questão afeta à necessidade ou não de exame meritório da exceção de pré-executividade.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 113.965/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 23/3/2020, DJe de 25/3/2020.)
+Nessas condições, JULGO PREJUDICADO o recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. EMBARGOS À EXECUÇÃO. PROVA PERICIAL. PRECLUSÃO. JULGAMENTO POSTERIOR DO MÉRITO DA AÇÃO. TRÂNSITO EM JULGADO. PERDA SUPERVENIENTE DO OBJETO. RECONHECIMENTO. RECURSO ESPECIAL PREJUDICADO.
