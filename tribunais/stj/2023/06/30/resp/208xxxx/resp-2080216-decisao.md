@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado (fl. 212, e-STJ):
+TRIBUTÁRIO. IRPJ/CSLL. EXCLUSÃO DOS JUROS E CORREÇÃO MONETÁRIA DECORRENTES DE REPETIÇÃO DE INDÉBITO DAS RESPECTIVAS BASES DE CÁLCULO. PREJUÍZOS FISCAIS.
+1. Tema 962/STF: "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário." Decisão com efeitos ex nunc, a partir de 30/9/21.
+2. A redução das receitas obtida pela exclusão dos juros pela taxa SELIC na restituição do indébito e dos juros sobre depósitos judiciais poderá ser computada para o efeito de aumentar a base de cálculo negativa ou o prejuízo fiscal, tal como apurado na Demonstração do Lucro Real e registrado no LALUR, assegurando-se a compensação na escrita fiscal, observada a trava de 30% do lucro líquido ajustado, conforme prevê o art. 42 da Lei 8.981/95 e art. 15 da Lei 9.065/95.
+Os Embargos de Declaração foram rejeitados (fl. 244, e-STJ).
+Aponta a parte recorrente violação, no mérito, dos arts. 4º, parágrafo único, e 6º da Lei 9.249/1995, na medida em que foi determinada a correção monetária do do prejuízo fiscal e da base de cálculo negativa de CSLL.
+Contrarrazões às fls. 279-290, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28 de junho de 2023.
+A irresignação da Fazenda merece prosperar.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fl. 218, e-STJ):
+(..) a redução das receitas obtida pela exclusão dos juros pela taxa SELIC na restituição do indébito e dos juros sobre depósitos judiciais poderá ser computada para o efeito de aumentar a base de cálculo negativa ou o prejuízo fiscal, tal como apurado na Demonstração do Lucro Real e registrado no LALUR, assegurando-se a compensação na escrita  scal, observada a trava de 30% do lucro líquido ajustado, conforme prevê o art. 42 da Lei 8.981/95, art. 15 da Lei 9.065/95 e art. 35 da IN 11/96.
+O aproveitamento de créditos escriturais, em regra, não dá ensejo à correção monetária, exceto quando obstaculizado injustamente o creditamento pelo Fisco. Nesse caso, cabível a aplicação da taxa SELIC, conforme entendimento do STJ firmado pela sistemática dos recursos repetitivos no REsp n. 1.035.847.
+As receitas devem ser atualizadas pela taxa SELIC desde o momento em que poderiam ter sido excluídas, observada a prescrição.
+O apelo da União deve, pois, ser improvido, no ponto.
+Quanto ao mérito da controvérsia, tem-se que a pretensão da recorrente merece prosperar.
+Já assentou a Suprema Corte que a dedução de prejuízos de exercícios anteriores da base de cálculo do IRPJ e a compensação das bases negativas da CSLL constituem favores fiscais e que, por ausência de previsão legal, incabível seria a incidência de correção monetária. Confira-se:
+Agravo regimental no recurso extraordinário. Saldos de prejuízos fiscais do IRPJ e das bases negativas da CSLL. Natureza de benefício fiscal. Correção monetária. Impossibilidade. Ausência de previsão legal. Precedentes da Corte. 1. Nos julgamentos do RE nº 344.994/PR e do RE nº 545.308/SP, o Tribunal concluiu que a dedução de prejuízos de exercícios anteriores da base de cálculo do IRPJ e a compensação das bases negativas da CSLL constituem favores fiscais. 2. Impossibilidade de atualização monetária do saldo a ser compensado em períodos futuros, por ausência de previsão legal. 3. Agravo regimental não provido.
+(RE 717.886 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 4/2/2014, ACÓRDÃO ELETRÔNICO DJe-039 DIVULG 24-2-2014 PUBLIC 25-2-2014)
+Em situação semelhante ao caso dos autos, o STJ já decidiu pela impossibilidade de incidir correção monetária sobre créditos escriturais (que se inserem no conceito de benefícios fiscais) quando inexistente previsão legal para tanto. Vejam-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. TRANSFERÊNCIA DA CORREÇÃO MONETÁRIA INCIDENTE SOBRE O SALDO CREDOR DE ICMS. AUSÊNCIA DE PREVISÃO LEGAL. ANÁLISE DE LEIS ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 280/STF. IMPOSSIBILIDADE DE CORREÇÃO MONETÁRIA. PRECEDENTES.
+ ..
+4. "Conforme entendimento do STJ firmado em julgamento de recurso submetido à sistemática dos recursos repetitivos, não cabe a correção monetária dos créditos escriturais, ante a ausência de previsão legal, salvo se a demora no aproveitamento de tais créditos se der por empecilho da Fazenda Pública" (REsp 1.132.593/SP, Rel. Ministro Castro Meira, Seguna Turma, DJe 18/06/2013).
+Agravo regimental improvido. (AgRg no AREsp 742.565/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 16/9/2015)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRÉDITOS DE IPI. PRESCRIÇÃO. COMPENSAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. MATÉRIA DECIDIDA EM SEDE DE RECURSO SUBMETIDO AO REGIME DO ART. 543-C DO CPC. REsp 1.035.847/RS. AGRAVO PARCIALMENTE PROVIDO.
+1. Consoante orientação predominante do Superior Tribunal de Justiça, o prazo prescricional da ação, que objetiva o reconhecimento do direito da parte em se creditar escrituralmente do IPI, é de cinco anos, atingindo-se todas as parcelas anteriores ao ajuizamento do feito, por incidência do Decreto 20.910/32, afastadas as regras do Código Tributário Nacional que tratam da matéria.
+2. A compensação deve observar a legislação federal vigente à época do ajuizamento da ação. Nas ações propostas na vigência do art. 74 da Lei 9.430/96 em sua redação original, caso dos autos, cabe à autoridade tributária autorizar a utilização de créditos a serem compensados com quaisquer outros tributos e contribuições administrados pela Secretaria da Receita Federal do Brasil, mediante proposta do contribuinte.
+3. Segundo a pacífica orientação jurisprudencial, o contribuinte não tem o direito de proceder à atualização monetária de seus créditos escriturais, exceto se houver expressa previsão legal. Quer dizer, em regra, os créditos e débitos, registrados no período de apuração fiscal, devem ser tomados pelo seu valor nominal, por observância do princípio da não cumulatividade, de que trata o art. 153, § 3º, II, da Constituição Federal.
+4. Todavia, de acordo com entendimento firmado no Superior Tribunal de Justiça, em sede de recurso especial submetido ao regime do art.
+543-C do CPC, "ocorrendo a vedação ao aproveitamento desses créditos, com o conseqüente ingresso no Judiciário, posterga-se o reconhecimento do direito pleiteado, exsurgindo legítima a necessidade de atualizá-los monetariamente, sob pena de enriquecimento sem causa do Fisco" (REsp 1.035.847/RS, Rel. Min. -LUIZ FUX, Primeira Seção, DJe 3/8/09, grifos nossos).
+5. Agravo regimental parcialmente provido para dar parcial provimento ao recurso especial, a fim de reconhecer à parte agravante o direito à correção monetária. (AgRg no REsp 768.364/SC, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 13/11/2012, DJe 17/12/2012)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
