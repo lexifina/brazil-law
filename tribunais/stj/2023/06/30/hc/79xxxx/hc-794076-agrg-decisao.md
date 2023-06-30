@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto por SERGIO LUIZ CORTES DA SILVEIRA, contra decisão que denegou o habeas corpus.
+Consta dos autos que o Juízo de 1º grau homologou os atos outrora praticados por Juízo tido como competente, mantendo a aplicação das medidas cautelares diversas determinadas pelo STF em desfavor do agravante, a saber: a) proibição de manter contato com os demais investigados, por qualquer meio (art. 319, II, do CPP); b) proibição de deixar o País (arts. 319, IV, e 320); e c) recolhimento domiciliar no período noturno, nos fins de semana e feriados (art. 319, V).
+Impetrado writ, a 2ª Turma Especializada do e. Tribunal Regional Federal da 2ª Região denegou a ordem pleiteada no Habeas Corpus n. 5013248-81.2022.4.02.0000/RJ. Segue a ementa do acórdão (fl s. 23-24):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. OPERAÇÃO FATURA EXPOSTA. REVOGAÇÃO DE MEDIDAS CAUTELARES SUBSTITUTIVAS DE PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I - Habeas corpus impetrado contra decisão judicial que homologou os atos outrora praticados por Juízo tido como competente, no bojo de medida cautelar correlata à OPERAÇÃO FATURA EXPOSTA, que apurou responsabilidades por suposto esquema de corrupção e lavagem de dinheiro envolvendo contratos na área de saúde, celebrados pela Secretaria de Saúde do Estado do Rio de Janeiro e pelo INTO - Instituto de Traumatologia e Ortopedia Jamil Haddad, na qual fora decretada a prisão preventiva do paciente, posteriormente substituída por medidas cautelares diversas determinadas pelo STF, a saber: a) proibição de manter contato com os demais investigados, por qualquer meio (art. 319, II, do CPP); b) proibição de deixar o País (arts. 319, IV, e 320); e c) recolhimento domiciliar no período noturno, nos fins de semana e feriados (art. 319, V).
+II - A Primeira Turma Especializada declarou a nulidade das sentenças condenatórias proferidas em desfavor do paciente nos autos das ações penais oriundas da OPERAÇÃO FATURA EXPOSTA e determinou a remessa dos autos ao Juízo competente para cumprimento do determinado pelo STF no habeas corpus nº 203.261/RJ.
+III - Embora passados mais de quatro anos da imposição daquelas medidas cautelares substitutivas, após anuladas as duas sentenças condenatórias em desfavor do paciente pela 1ª Turma Especializada, o paciente permanece respondendo por duas ações penais vinculadas à OPERAÇÃO FATURA EXPOSTA, nas quais foi denunciado por crimes de corrupção passiva, pertinência a organização criminosa, lavagem de dinheiro e evasão de divisas.
+IV - Neste momento processual, vislumbra-se a prorrogação da instrução probatória, em pelo menos uma ação penal, na qual o MPF apresentou aditamento à denúncia, acrescendo novas provas e apresentando rol de testemunhas atualizado, sendo que a outra ação penal aguarda manifestação pontual do MPF acerca da competência do juízo federal para o seu processamento e julgamento.
+V - A despeito de todos os atrasos dos trâmites processuais, que não podem ser imputados à acusação, é necessário que o paciente permaneça submetido às mesmas medidas cautelares, originariamente, determinadas pelo STF, inclusive aquelas que importam em restrição ao seu direito de ir e vir, por conveniência à instrução criminal, considerando as peculiaridades dos fatos imputados ao agente, que tornam, absolutamente, distintos os feitos originários de outros que envolvem crimes contra a administração pública.
+VI - Ordem denegada."
+Daí o habeas corpus, em que sustentou a defesa que as medidas cautelares aplicadas perduram há mais tempo do que o razoável e que não estão estribadas em fundamentos atuais.
+Aduziu, ainda, que (fl. 4):
+" ..  com o presente habeas corpus pretende-se a revogação de medidas cautelares fixadas HÁ MAIS DE 4 ANOS e que, após o reconhecimento da incompetência do juízo que as fixou, recentemente foram mantidas pelo novo juiz tido como competente à mingua de qualquer fundamentação acerca da ATUAL necessidade."
+Requereu a concessão da ordem para que sejam revogadas as medidas cautelares referentes ao recolhimento domiciliar noturno e integral aos finais de semana e à proibição de se ausentar do país.
+A liminar foi indeferida (fls. 284-285).
+As informações foram prestadas (fls. 289-443).
+O Ministério Público Federal se manifestou pela denegação da ordem, nos termos da seguinte ementa (fl. 446):
+"HABEAS CORPUS. OPERAÇÃO FATURA EXPOSTA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. NECESSIDADE. MANUTENÇÃO. ILEGALIDADE. INEXISTÊNCIA. PARECER PELA DENEGAÇÃO DA ORDEM."
+Na sequência, a ordem foi denegada (fls. 457-465).
+Daí o presente agravo regimental, em que a defesa reitera os termos da inicial e alega evidente excesso de prazo na manutenção, por mais de cinco anos, de medidas cautelares diversas do cárcere, fixadas após quase um ano de prisão preventiva, sem previsão de julgamento das ações penais (fl. 473).
+Assevera que, "após a declaração de nulidade das sentenças, o Ministério Público Federal optou por aditar ambas as denúncias das referidas ações penais, apenas para fazer incluir novos Colaboradores Premiados como testemunhas", o que resultou "no reinício de toda marcha processual, desde a análise do recebimento das "novas denúncias"" (fls. 474-475).
+Argumenta que "o fato de tratar-se de ações penais complexas, por si só, não afasta o evidente excesso de prazo" (fl. 479).
+Aduz a ausência de fundamentação para a manutenção das medidas cautelares diversas da prisão (fl. 481).
+Requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado, a fim de revogar as medidas cautelares de proibição de se ausentar do país e de recolhimento domiciliar noturno e integral aos finais de semana.
+O Supremo Tribunal Federal encaminhou ofício às fls. 489-498.
+É o relatório. Decido.
+Consoante relatado, busca o agravante a reconsideração da decisão agravada ou a submissão da matéria ao colegiado, a fim de revogar as medidas cautelares de proibição de se ausentar do país e de recolhimento domiciliar noturno e integral aos finais de semana.
+Ocorre que, conforme ofício de fls. 489-498, o Supremo Tribunal Federal concedeu habeas corpus em favor do paciente em 7/6/2023, nos autos do HC 223.795/RJ, e revogou as medidas cautelares diversas da prisão impostas ao acusado, o que causou a perda de objeto do writ aqui impetrado e do presente agravo regimental.
+Ante o exposto, julgo prejudicados o agravo regimental e o habeas corpus.
+Publique-se.
+Intimem-se.
