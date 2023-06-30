@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ZEMAX LOG SOLUCOES MARITIMAS S.A., com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 66):
+Agravo de Instrumento. Recuperação judicial. Impugnação ao crédito. Improcedência do incidente e determinação para a manutenção do valor e classificação do crédito da Agravante, condenação ao pagamento de honorários advocatícios. Inconformismo. Alegação de privilégio marítimo decorrente do Decreto n. 351/1935. P retensão de classificação do crédito como extraconcursal. Tese que se rejeita com fincas no art. 67, da LRF. Não se confunde situação de recuperação judicial, com situação de falência. Dispositivo invocado pela recorrente que se aplica aos casos de falência, situação distinta do presente feito. Inclusão do crédito em classe mais favorecida. Impossibilidade. Inteligência do art. 41, da LRF e observância ao princípio da par conditio creditorum. Tese recursal rejeitada. Atualização do crédito até a data do pedido de recuperação. Possibilidade. Inteligência do art. 9º, II, da LRF. Precedentes do E. STJ. Provimento desta parte do recurso. Modificação da base de cálculo dos honorários sucumbenciais. Precedente do STJ. Readequação da verba sucumbencial que se faz necessária, diante da modificação do julgado e da sucumbência recíproca. Provimento parcial do recurso.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 98-102).
+Nas razões do recurso especial (e-STJ, fls. 104-122), a agravante alegou violação aos arts. 67 e 84 da Lei n. 11.101/2005, sustentando a não taxatividade do rol de créditos extraconcursais; (2) afronta aos arts. 2º e 3º do Decreto n. 351/1935 e 2º do Decreto-Lei 4.657/1942 (lei de introdução às normas do direito brasileiro) sustentando a natureza extraconcursal do crédito em decorrência do privilégio marítimo; e, (3) violação do art. 9º da convenção internacional para unificação de regras relativas aos privilégios e hipotecas marítimas e art. 205 do CC/2002, pois não ocorreu a prescrição.
+Contrarrazões apresentadas (e-STJ, fls. 175-190).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 249-259).
+Contraminuta apresentada (e-STJ, fls. 285-299).
+O Ministério Público Federal manifestou-se às fls. 345-347 (e-STJ) manifestando-se pelo desprovimento do recurso.
+Brevemente relatado, decido.
+De início, em relação à violação aos arts. 2º do Decreto-Lei 4.657/1942 e 205 do CC/2002, não houve manifestação pelo Tribunal de local, apesar da interposição de embargos de declaração, incidindo a Súmula 211/STJ.
+É imprescindível que o Tribunal local tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, com base no que dispõe a Súmula n. 211 desta Corte, o recurso especial não poderia mesmo ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. COMPATIBILIDADE DOS PEDIDOS DE RESCISÃO CONTRATUAL E DE INDENIZAÇÃO POR LUCROS CESSANTES. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. ENRIQUECIMENTO SEM CAUSA.
+VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ. EXCLUSÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSIDERADOS VIOLADOS. SÚMULA N. 284/STF. HONORÁRIOS RECURSAIS. CONDENAÇÃO DAS AGRAVADAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF e 211 do STJ.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso, sem incorrer no mencionado óbice, não há como averiguar, nesta instância, o enriquecimento sem causa apontado pela Corte local, caso concedida à agravante a indenização por lucros cessantes.
+5. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+6. De acordo com a jurisprudência da Corte Especial do STJ, é "devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente:  ..  b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente" (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+7. No caso concreto, todavia, houve desprovimento do recurso especial da parte agravante, e não das empresas agravadas, o que impede o arbitramento de honorários recursais em favor da recorrente.
+8. Dissídio jurisprudencial não comprovado, por causa da incidência das Súmulas n. 7, 13 e 211 do STJ e 282, 283 e 356 do STF.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.863.024/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 29/6/2020, DJe 1/7/2020 - sem destaques no original)
+Ademais, o Tribunal local, sustentando a taxatividade do rol de créditos extraconcursais, manifestou-se nos seguintes termos (e-STJ, fls. 68-69 - sem destaque no original):
+Após leitura do processado, se entende que o decidido merece reforma parcial, em relação ao segundo e ao terceiro ponto do recurso, mas não em relação ao ponto principal, qual seja, a classificação do crédito.
+Realmente, de acordo com o art. 67 da Lei n. 11.101/2005 -dispositivo inserido na Seção IV Do procedimento de Recuperação Judicial-verifica-se que o crédito com privilégio marítimo não se encontra dentre as hipóteses que autorizariam a classificação do mesmo como crédito extraconcursal.
+Isso porque o dispositivo invocado pela recorrente, quanto à previsão na Lei de Recuperação Judicial de privilégios previstos em outras normas - art. 83, da LRF - possui aplicação restrita aos casos de falência, consoante se extrai da redação do caput.
+Ora, como se sabe, recuperação judicial não se confunde com falência, tanto que a legislação de regência fez questão de separar uma situação da outra como de fato se comprova existir no presente caso.
+Visto isso, passo seguinte é se destacar que as classes de credores, em sede de recuperação judicial, estão elencadas no art. 41 da legislação de regência, não sendo identificada possibilidade de inclusão dos créditos da Agravante em classe de ordem anterior àquela apontada pela decisão impugnada.
+Isto porque, a decisão combatida inseriu o crédito da Agravante como quirografário (classe III), estando em ordem posterior apenas em relação aos créditos com garantia real (classe II) e aos créditos derivados da legislação do trabalho ou decorrentes de acidentes de trabalho (classe I).
+Assim, não possuindo o crédito em discussão garantia real e tampouco sendo o mesmo relativo à legislação do trabalho ou decorrente de acidentes de trabalho, não caberia a sua inclusão nas referidas classes, sob pena de ofensa ao princípio da par conditio creditorum (igualdade de tratamento dos credores).
+Só que a questão não se encerra aqui.
+Isso porque e como argumento de reforço, deve ser ressaltado que, ainda que apenas para efeitos de argumentação, acaso existente o alegado privilégio marítimo invocado pela recorrente, o mesmo já haveria se extinguido. Isto porque, na esteira da manifestação do parquet(vide o que vai em fls. 60), o art. 9º, da Convenção Internacional para Unificação de Regras Relativas aos Privilégios e Hipotecas Marítimas prevê que em caso de crédito privilegiado, o mesmo se extingue após 6 (seis) meses, como é o caso em exame.
+Rechaçado este ponto, se passa à análise da pretensão de atualização do crédito da Agravante.
+Nesse contexto, observa-se que não houve a impugnação do referido fundamento utilizado no acórdão recorrido - "as classes de credores, em sede de recuperação judicial, estão elencadas no art. 41 da legislação de regência, não sendo identificada possibilidade de inclusão dos créditos da Agravante em classe de ordem anterior àquela apontada pela decisão impugnada" - , o que atrai a incidência da Súmula 283/STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020)
+Ante o exposto, agravo conhecido para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposiçã o, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMPRESARIAL. AGRAVO DE INSTRUMENTO. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 211/STJ. ALEGAÇÃO DE NECESSIDADE DE CLASSIFICAÇÃO DE CRÉDITOS DE FORMA EXTRACONCURSAL. CRÉDITO JÁ EXTINTO. TRIBUNAL QUE FUNDAMENTOU NA INDICAÇÃO DE ARTIGO DE LEI FEDERAL DIVERSO. LEI DE FALÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
