@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+TRIBUTÁRIO. PIS-IMPORTAÇÃO, COFINS-IMPORTAÇÃO. BASE DE CÁLCULO. VALOR ADUANEIRO. FRETE E SEGURO INTERNACIONAL.
+Incluem-se na base de cálculo do imposto de importação, do PIS- Importação, da COFINS-Importação e do Imposto sobre Produtos Industrializados os valores relativos ao frete e seguro internacional pois compõem o cálculo do valor aduaneiro. Precedentes.
+Os Embargos de Declaração foram rejeitados (fl. 855, e-STJ).
+A recorrente afirma que ocorreu violação dos arts. 489 e 1.022 do CPC; 2º, § 1º, da LINDB; 47, 97 e 98 do CTN; 2º, II, do DL 37/1966; 7º, I, da Lei 10.865/2004; e 1º do AVA. Sustenta:
+(..)
+A discussão aqui travada diz respeito à inexistência de instrumento normativo adequado para veicular a inclusão das despesas com (i) transporte até o local da importação, (ii) carregamento, descarregamento, manuseio associado ao transporte e; (iii) seguro da mercadoria importada da base de cálculo do II, IPI-importação, PIS/COFINS- importação, no conceito de valor aduaneiro.
+44. Em última análise, é dizer que, para além de tratar de mais despesas que não apenas a capatazia, pois que inclui o frete e o seguro na discussão, não há qualquer pretensão de definir a extensão do conceito de capatazia, afirmando-se que, qualquer que seja essa extensão, a grandeza não pode compor a base dos tributos aduaneiros.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.6.2023.
+Constato que não se configura a ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou a controvérsia como lhe foi apresentada. Ademais, observa-se que o aresto recorrido está bem embasado, e nele não há omissão, contradição, obscuridade ou erro material.
+A indicada afronta ao art. 2º da LINDB não pode ser verificada, pois o órgão julgador não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do apelo nobre quando os artigos tidos por contrariados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Desse modo, incide na espécie a Súmula 211/STJ.
+Ao analisar a matéria, o Tribunal a quo consignou (fls. 822-823, e-STJ; grifei):
+(..)
+Cabe à lei complementar estabelecer normas gerais sobre base de cálculo dos impostos (al. a do inc. III do art. 146 da Constituição Federal). O Código Tributário Nacional (L 5.712/1966) foi recepcionado como lei complementar. A base de cálculo do imposto de importação (II) é o preço normal que o produto, ou seu similar, alcançaria, ao tempo da importação, em uma venda em condições de livre concorrência, para entrega no porto ou lugar de entrada do produto no País (inc. II do art. 20 do CTN). O inc. II do art. 2º do Dl 37/1966 especificou o conceito geral ao definir que a base de cálculo do imposto de importação é, quando a alíquota for "ad valorem", o valor aduaneiro apurado segundo as normas do art. 7º do Acordo Geral sobre Tarifas Aduaneiras e Comércio - GATT.
+A base de cálculo do imposto sobre produtos industrializados (IPI), quando de procedência estrangeira, serve-se do preço normal definido no inc. II do art. 20 do CTN, acrescido do próprio imposto de importação, das taxas exigidas para entrada do produto no País e dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis (inc. I do art. 47 do CTN).
+Inserido pela EC 42/2003, o inc. IV do art. 195 da Constituição autoriza a cobrança de contribuições sociais do importador de bens e serviços do exterior, ou de quem a lei a ele equiparar. A L 10.865/2004 concretizou a hipótese de incidência tributária. A exigência de lei complementar só se faz necessária para contribuições de seguridade social não previstas no texto constitucional, instituídas no exercício da competência residual de que trata o § 4º do art. 195 da Constituição (TRF4, Primeira Turma, AC 50217882620164047000, 27abr.2022). A base de cálculo do PIS-importação e da COFINS-importação também é o valor aduaneiro (inc. I do art. 7º da L 10.865/2004).
+O valor aduaneiro que é base de cálculo do imposto de importação, do PIS-Importação, da COFINS-Importação e do imposto sobre produtos industrializados é objeto do Acordo de Valoração Aduaneira, ato que especifica o art. VII do GATT, incorporado no Brasil pelo D 92.930/1986. O AVA- GATT dispõe que o valor aduaneiro de mercadorias importadas é o valor da transação e que cada Estado poderá prever a inclusão ou exclusão do custo de transporte das mercadorias importadas até o porto ou local de importação e o custo do seguro (als. a e c do item 1 do art. 8º).
+O Regulamento Aduaneiro prevê que a base de cálculo do imposto é, quando a alíquota for ad valorem, o valor aduaneiro apurado segundo as normas do Artigo VII do Acordo Geral sobre Tarifas e Comércio - GATT 1994 (inc. I do art. 75 do D 6.759/2009). O valor aduaneiro é integrado pelo frete (transporte, carga, descarga e manuseio) e seguro na forma do art. 77 do D 6.759/2009:
+(..)
+O D 6.759/2009 (incs. I, II e III do art. 77) e a IN SRF 327/2007 (inc. III do art. 4º) observaram os limites impostos pela Constituição e pelo AVA-GATT.
+Como se vê, a Corte regional concluiu que a IN/SRF 327/2007 e o Decreto 6.759/2009, ao contrário do que alegou a recorrente, não teriam inovado no ordenamento jurídico, mas apenas reproduzido a norma do art. 2º do Decreto 92.930/1986, que teria sido recepcionado com força de lei ordinária.
+A ausência de impugnação a esse argumento atrai a incidência da Súmula 283/STF.
+Ademais, o recurso não pode ser conhecido, pois não compete ao STJ rever julgado que resolveu a controvérsia com enfoque constitucional (no caso dos autos, o acórdão combatido teve por fundamento o art. 146, III, "a", da CF/1988).
+Ante o exposto, conheço parcialmente do Recuso Especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
