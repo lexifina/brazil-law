@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por REINALDO ALVES LIMA com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 701):
+ACIDENTE DO TRABALHO  AUXÍLIO-ACIDENTE  LÍDER DE SERRALHERIA  LESÃO NO MEMBRO INFERIOR DIREITO - NEXO CAUSAL NÃO COMPROVADO  BENEFÍCIO INDEVIDO  SENTENÇA MANTIDA.
+Apelo do obreiro desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 720/725).
+Em suas razões, a parte recorrente aponta violação dos arts. 369 e 442 do CPC/2015 e 86, § 2º, da Lei n. 8.213/1991, sustentando que: a) a prova testemunhal deve ser considerada, visto que não necessita ser corroborada por qualquer outro tipo de prova; e b) faz jus ao auxílio-acidente porquanto houve comprovação da incapacidade e do nexo causal entre lesão e labor exercido; e c) o termo inicial do benefício deve ser fixado a partir do dia seguinte ao da alta médica (23/11/1999) até a véspera da aposentadoria concedida (22/12/2008, e-STJ fl. 742), e não do laudo pericial .
+Sem contrarrazões.
+Em juízo de retratação, o acórdão foi mantido, nos seguintes termos (e-STJ fls. 770/772):
+APELAÇÃO  AUTOS DEVOLVIDOS À TURMA JULGADORA PARA EVENTUAL ADEQUAÇÃO DA FUNDAMENTAÇÃO E/OU MANUTENÇÃO DA DECISÃO  ART. 1040, II DO CPC - JULGAMENTO DE MÉRITO DO RESP Nº 1.729.555, TEMA Nº 862/STJ  AMPARO INFORTUNÍSTICO NEGADO POR AUSÊNCIA DE COMPROVAÇÃO DE NEXO CAUSAL - ACÓRDÃO RECORRIDO QUE MANTEVE O DECRETO DE IMPROCEDÊNCIA - DECISÃO MANTIDA.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 777/778.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+O Tribunal a quo manteve a sentença que havia julgado improcedente o pedido de concessão de auxílio-acidente, pela não comprovação do nexo causal, conforme se depreende do seguinte trecho do aresto ora recorrido (e-STJ fls. 704/706):
+Com base nas conclusões periciais, o MM. Juiz a quo julgou improcedente a demanda. E essa decisão merece ser mantida. Com efeito, as ponderações lançadas pelos dois peritos indicam a necessidade da demonstração do nexo causal, o que o obreiro não cuidou de fazer.
+Não se constata nos autos prova segura do liame etiológico entre os males alegados pelo segurado e o seu labor.
+Os depoimentos das testemunhas arroladas nos autos não são conclusivos no sentido de se relacionar o infortúnio ao trabalho. As testemunhas ouvidas (Reinaldo de Souza e Ronaldo - fls. 204/205 e 240) não foram capazes de superar a conclusão pericial, ou seja, não presenciaram os fatos, sendo impossível lastrear o reconhecimento do nexo causal ocupacional apenas em suas declarações. Ademais, ainda que a testemunha ouvida às fls. 216 Vº tenha confirmado que trabalhava em conjunto com o autor e que presenciou o acidente, seu depoimento não transmitiu a confiabilidade necessária quanto à narrativa dos fatos, ante as demais provas existentes, restando isolada nos autos.
+Sem maiores delongas, ainda que comprovado o nexo causal e em que pese a existência do laudo pericial atestando o dano ortopédico, ainda assim é o caso de improcedência da ação.
+Isso porque o obreiro encontra-se aposentado por tempo de contribuição desde 23.12.2008, representando a cumulação de benefícios ofensa à lei em vigor; o que exige as considerações que se seguem.
+É posição consagrada por esta Câmara, ser impossível a cumulação dos benefícios acima mencionados, tendo em vista a alteração imposta pela Lei 9.528/97 ao art. 86, §2º, da Lei 8213/91, in verbis: "O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria".
+Portanto, sem sentido a pretensão de concessão de amparo social, pois por imperativo legal, é vedada a cumulação de auxílio-acidente com aposentadoria.
+Não há que se cogitar de qualquer inconstitucionalidade da Lei 9.528/97, mesmo porque o art. 201 da Constituição Federal é expresso ao mencionar que os critérios que norteiam a organização da Previdência Social são estabelecidos nos termos da lei.
+ ..
+No caso em tela, como a incapacidade laborativa (ortopédica) somente foi confirmada com a vinda aos autos do laudo da pericia oficial, o marco inicial do beneficio seria fixado a partir da juntada do laudo, que ocorreu em 30.09.2009 (fls. 119), momento no qual o autor já se encontrava aposentado, o que inviabiliza a concessão do auxílio-acidente.
+De início, a jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o juiz é o destinatário das provas e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, tais como produção de novos laudos ou provas testemunhais que não corroboram a prova pericial, à luz do princípio do livre convencimento motivado.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AUSÊNCIA DE INCAPACIDADE LABORAL. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O agravo interno não trouxe argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. Não se desconhece o entendimento segundo o qual o juiz, como destinatário final da prova, não fica adstrito ao laudo pericial, podendo formar sua convicção com base em outros elementos probatórios contidos nos autos.
+3. No presente caso, todavia, a Corte de origem asseverou que, embora o magistrado não estivesse vinculado ao laudo pericial, não havia, no acervo probatório, elementos capazes de elidir as conclusões nele contidas. Assim, da detida análise da prova técnica, produzida sob o pálio do contraditório, o Tribunal a quo concluiu que a parte autora encontrava-se apta para exercer suas funções habituais e laborais, não lhe sendo devido o benefício de aposentadoria por invalidez.
+4. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.702.877/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022.).
+Ademais, o acórdão recorrido decidiu a questão ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos (laudo técnico-pericial) - concluindo pela ausência de nexo causal, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DISCRICIONARIEDADE DO JULGADOR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova testemunhal. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Consoante entendimento desta Corte, "a apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ" (STJ, REsp 1.791.024/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/04/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.604.351/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Prejudicada a discussão acerca do termo inicial do benefício, em razão da manutenção da improcedência do pedido, que fora julgado nas instâncias ordinárias.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem majoração da verba honorária em razão de se tratar de ação acidentária (art. 129, parágrafo único, da Lei n. 8.213/1991).
+Publique-se e intimem-se.
