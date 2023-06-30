@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se  de  agravo  contra  a  decisão  que  inadmitiu  o  recurso  especial  interposto  por  A A D.,  com  fundamento  na  alínea  "a"  do  permissivo  constitucional,  em  oposição  a  acórdão  proferido  pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (e-STJ, fls. 369-375), assim ementado:
+REVISÃO CRIMINAL -REDUÇÃO DE PENA -REITERAÇÃO DE PEDIDO -REVISÃO JÁ JULGADA POR ESTE ÓRGÃO -IMPOSSIBILIDADE. Nos termos do artigo 622, parágrafo único, do Código de Processo Penal, somente é admissível a reiteração do pedido quando fundado em novas provas
+Em  suas  razões  recursais  (e-STJ,  fls.  396-408 ),  a  parte  recorrente  aponta  violação  dos  arts.  59 e 65, III, "d",  ambos  do  Código  Penal,  além  do  art.  621,  I,  do  Código  de  Processo  Penal.  Aduz  para  tanto,  em  síntese,  que:  (I)  a sentença condenatória contrariou texto expresso da lei penal ao não reconhecer a atenuante da confissão espontânea; (II) estão ausentes provas aptas a sustentar a elevação da pena base em relação ao vetor personalidade do agente e, quanto à vetorial relativa à culpabilidade, foi considerado elemento inerente ao tipo penal de roubo;  e  (III) caso a pena base se afaste do mínimo legal, o percentual de aumento, pela valoração negativa de cada vetor, não deve ultrapassar a fração de 1/6 (um sexto). Por  fim,  a reforma do acórdão combatido.
+Com  contrarrazões  (e-STJ,  fls.  413-415  ),  o  recurso  especial  foi  inadmitido  na  origem  (e-STJ,  fls.  418-419),  ao  que  se  seguiu  a  interposição  de  agravo.
+Remetidos  os  autos  a  esta  Corte  Superior,  o  MPF  manifestou-se  pelo  não conhecimento do recurso  (e-STJ,  fls.  459-460).
+É  o  relatório.
+Decido.
+O  agravo  impugna  adequadamente  todos  os  fundamentos  da  decisão  agravada. Passo à apreciação do recurso especial propriamente dito.
+Constato a falta de prequestionamento dos arts. 59 e 65, III, "d", ambos do Código Penal, e do art. 621, I, do Código de Processo Penal, pois as matérias neles tratadas não forma objeto de exame pelo acórdão recorrido. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.  Intimem-se.
