@@ -1,0 +1,52 @@
+DECISÃO
+VALDINEI JUNIO DE SOUSA MARQUES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.23.125949-0/000.
+Nas razões deste writ, a defesa postula, em liminar e no mérito, a expedição de contramandado de prisão, ao argumento de que não há fundamento idôneo para embasar o decreto preventivo.
+Decido.
+Consta dos autos que a prisão preventiva do paciente foi decretada pelo suposto descumprimento de medidas protetivas anteriormente impostas.
+A segregação cautelar foi decretada pelo Juízo da custódia nos seguintes termos (fls. 70-72, grifei):
+LUANA PEREIRA LOPES compareceu perante a Autoridade Policial e solicitou medidas protetivas de urgência em 26/11/2022. Alegou que o acusado compareceu ao seu local de trabalho e lhe agrediu com um soco no rosto e que era constantemente ameaçada pelo companheiro.
+Atendidos os requisitos legais, as medidas foram deferidas em 27/ 11/2022, mesma data em que o requerido foi intimado das medidas protetivas.
+Em 17/05/2023 as medidas protetivas anteriormente deferidas foram prorrogadas por mais 06 (seis) meses após pedido da própria vítima que compareceu na secretaria deste Juízo.
+Acontece que, mesmo ciente das medidas deferidas e da prorrogação das medidas, o requerido continua encaminhando mensagens com diversas ameaças para a vítima, fato, inclusive, pelos documentos anexados à Representação da Autoridade Policial.
+Diante do exposto, VALDINEI JUNIO DE SOUSA MARQUES vem mostrando que não pretende acatar as ordens deste Juízo e colaborar com a justiça.
+A decisão proferida determina a proibição do agressor de se aproximar e manter contato com a vítima, por qualquer meio de comunicação. Os comandos são bem claros e não deixam qualquer margem para dúvida, porém o requerido continua não só a importuná-la, como também a agredi-la fisicamente e a ameaçá-la.
+ ..
+Diante dos fatos relatados, o representado deu mostra de sua periculosidade, estando ameaçada a integridade física, psicológica e a própria vida da vítima existindo, portanto, a necessidade de seu acautelamento para prevenir a prática de novos delitos.
+Ademais, a ordem pública está abalada pela atitude adotada pelo representado, que está produzindo uma verdadeira progressão criminosa que poderá fulminar com a vida da vítima, impondo ao poder estatal cessá-la com a medida extrema, revelada pela decretação de sua segregação acautelatória.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal a quo e a ordem foi denegada. Transcrevo (fls. 16-18, destaquei):
+Os documentos acostados aos autos demonstram que, no dia 26 de novembro de 2023, o paciente supostamente praticou o delito de descumprimento de medidas protetivas, sendo sua prisão preventiva decretada.
+Analisando o feito, constata-se que o il. Magistrado a quo apontou de forma clara os fundamentos que justificaram a decretação da prisão preventiva, permitindo-lhe saber os reais motivos da segregação, portanto, não há o que se falar em ausência de fundamentação  ..
+ ..
+Com efeito, após uma análise superficial dos elementos acostados aos autos verifica-se, pelo menos em tese, prova da materialidade dos crimes e indícios suficientes de sua autoria.
+A propósito, extrai-se da representação policial que, no dia 26 de novembro de 2022, no município de Uberaba/MG, o investigado agrediu a sua ex-companheira, a qual descreveu que, na ocasião, o ora paciente Valdinei foi até o seu local de trabalho e lhe desferiu um soco (documento de ordem nº 2).
+Ato contínuo, o investigado, motivado pelo ciúmes, ameaçou a ofendida dizendo que "ela ia pagar por isso", ocasião em que a ofendida solicitou medidas protetivas.
+Contudo, o acusado, mesmo após o deferimento das medidas protetivas de urgência em seu desfavor, continuou ameaçando a vítima afirmando "que vai me pegar e que vai pegar o meu namoradinho", sendo certo que as ameaças também são perpetradas através do status do Whatsapp, com o objetivo de intimidá-la.
+Por fim, consta que o réu encaminha mensagens xingando a ofendida de "vagabunda", apagando-as logo em seguida para ocultar os vestígios, além de comentar as suas fotos nas redes sociais.
+Não bastassem essas circunstâncias, verifica-se que a prisão sequer foi cumprida, encontrando-se o paciente, segundo o impetrante, em local "oculto", circunstância que torna a prisão necessária até mesmo para a aplicação da lei penal e por conveniência da instrução.
+Assim, entendo que a segregação cautelar do autor mostra-se necessária para a garantia da ordem pública, restando satisfeitos, portanto, os requisitos previstos no art. 312 e art. 313, III, ambos do CPP.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que são idôneos os motivos elencados pelas instâncias ordinárias justificar a decretação da prisão preventiva, porquanto contextualizaram, em dados concretos, o periculum libertatis.
+Com efeito, as instâncias antecedentes apontaram o descumprimento das medidas protetivas pelo paciente. Ademais, o Tribunal estadual salientou, ainda, que até o julgamento do writ originário, o mandado de prisão nem sequer havia sido cumprido .
+Nesse sentido, os elementos presentes nos autos evidenciam a necessidade de manutenção da clausura provisória para a garantia da ordem pública.
+No mesmo sentido:
+ ..
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida.
+Precedentes do STF e STJ.
+ ..  4. O decreto prisional registrou, ainda, a gravidade concreta da conduta, pois o réu, em posse de uma arma de fogo, teria agredido sua esposa, derramado gasolina no corpo da vítima e tentado atear fogo nela. Ao ser abordado pelos policiais, ofereceu resistência com socos, chutes e empurrões, além de ter proferido ameaças aos militares. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+5. As condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+7. Recurso improvido.
+(RHC n. 122.460/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/2/2020)
+ ..
+1. Segundo entendimento consolidado nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser aferidas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado. Precedentes.
+2. Hipótese em que, embora o recorrente esteja cautelarmente segregado há dois anos, verifica-se que o processo observa trâmite regular, constatando-se que além de o recorrente já ter sido pronunciado em 10/9/2018, a sessão do Júri encontra-se com data marcada para 19/3/2020.
+ ..  4. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+5. No caso, a custódia provisória justifica-se em razão da gravidade concreta da conduta delitiva imputada ao recorrente, em razão do modus operandi, que evidencia sua extrema periculosidade ao meio social. Segundo consta, o recorrente, sob forte influência de bebida alcóolica e após tocar a campainha seguidas vezes e esmurrar a porta do apartamento em que estavam as vítimas - sua ex-esposa com quem viveu por 15 anos e os quatro filhos do casal -, teria colocado vigas de madeira nas janelas do imóvel para impedir a fuga dos ofendidos, após subtrair um edredon do varal de um outro apartamento do prédio e ateado fogo na porta da residência das vítimas, evadindo-se do local. Um dos filhos do casal acordou de madrugada para beber água e se deparou com a porta do apartamento em chamas e muita fumaça se propagando pelo local, ocasião em que passou a gritar pela genitora e por seus irmãos, que tentaram deixar o imóvel pulando a janela, mas o recorrente as teria travado. Ao ouvirem os gritos desesperados das crianças, os vizinhos conseguiram arrancar as vigas de madeira, retirar os menores e auxiliar a ofendida a debelar o fogo.
+6. Conforme entendimento reiterado desta Corte, é válida a prisão cautelar quando se verifica que a colocação do réu em liberdade representa risco concreto à ordem pública.
+ .. .
+(RHC n. 121.646/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/2/2020)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por fim, em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nessa perspectiva: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
