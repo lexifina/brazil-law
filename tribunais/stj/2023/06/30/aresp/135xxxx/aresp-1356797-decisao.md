@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NILOMAR DE OLIVEIRA contra decisão que inadmitiu o recurso especial em razão da ausência de vício de omissão ou fundamentação no julgado recorrido e da incidência da Súmula n. 83 do STJ.
+Alega a parte agravante que é cabível o recurso especial em razão da contrariedade de lei federal, conforme preconiza o art. 105, III, a, da Constituição Federal, pois o acórdão recorrido violou os arts. 277, 487, 488, 489, 904, 924 do Código de Processo Civil e 304, 334 e 1.367 do Código Civil.
+Afirma que os fundamentos da sentença e do acórdão estão em desacordo com aos fatos narrados e comprovados nos autos e que a jurisprudência colacionada não tem relação com a questão principal dos autos, que é o pagamento, de maneira que carecem de fundamentação.
+Aduz que houve negativa de vigência dos seguintes artigos: 487, 488, 489, 904, 924 do CPC e 304, 334 e 1.367 do CC.
+Ressalta que "a questão principal dos autos não foi enfrentada que é o pagamento integral do valor exequendo mediante o depósito judicial nos próprios autos da ação de busca e apreensão, mesmo antes da citação" (fl. 307).
+Sustenta o "princípio da instrumentalidade das formas, já pacificado pela jurisprudência e que também foi violado" (fl. 307 )e que "Outro fato a que se deve ater está no inciso II do art. 5º da Constituição Federal" (fl. 308).
+Questiona se existe lei "que obrigue o devedor a não pagar  ..  o devedor fiduciário a deixar seu veículo ser apreendido para somente depois pagar  ..  o homem probo a passar pelo vexame de ter seu veículo apreendido". Defende que "Parecem indagações absurdas, mas a prevalecer sentença e acórdão é exatamente o que estará se afirmando, além de trazer insegurança jurídica sem precedentes" (fl. 308).
+É o relatório. Decido.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar os fundamentos da decisão agravada, é de rigor a aplicação da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC/2015, majoro, em 10% sobre o valor já arbitrado no Tribunal de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do refe rido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
