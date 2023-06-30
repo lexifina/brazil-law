@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior e Antonio Saldanha Palheiro.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NILTON NELIO DA SILVA contra decisão de minha lavra, por meio da qual o respectivo agravo em recurso especial foi conhecido para não conhecer do apelo nobre, nos termos da seguinte ementa (fl. 634):
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL . INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. PLEITO PELA REALIZAÇÃO DE INCIDENTE DE SANIDADE MENTAL. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Sustenta a Defesa, nas razões do regimental, que a solução da lide não demanda nova incursão no acervo fático-probatório acostado aos autos e, portanto, não incide, na espécie, a Súmula n. 7 do Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PLEITO PELA REALIZAÇÃO DE INCIDENTE DE SANIDADE MENTAL. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem concluiu que não pairam dúvidas quanto à higidez mental do Réu, não havendo justificativa para deferir o incidente de sanidade mental. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+Consta dos autos que o Juízo de primeiro grau pronunciou o Agravante como incurso no art. 121, § 2.º, incisos II e IV, do Código Penal (fls. 495-499).
+Irresignada a Defesa interpôs recurso em sentido estrito, ao qual a Corte de origem negou provimento (fls. 541-553).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 5.º, incisos LIV e LV, da Carta Magna; ao art. 149 do Código de Processo Penal; bem como ao art. 159 do Código Penal.
+Aduz que, ao contrário do consignado pelas instâncias ordinárias, configura cerceamento de defesa o indeferimento do incidente de insanidade mental pleiteado, porquanto há flagrantes episódios que suscitam dúvidas quanto à higidez psíquica do Réu.
+Pondera que a não realização do incidente de sanidade mental do Acusado também poderá acarretar impactos deletérios na pena a ser imposta àquele, porquanto induzirá o juiz a calcular a reprimenda sem considerar as reais circunstâncias subjetivas do Réu Ademais, tal proceder impedirá a imposição de medida de segurança.
+Foram apresentadas contrarrazões (fls. 580-583). O recurso especial não foi admitido (fls. 586-587). Foi interposto agravo (fls. 593-604).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento e desprovimento do agravo em recurso especial (fls. 629-632).
+Por meio da decisão de fls. 634-637, o agravo em recurso especial foi conhecido para não conhecer do apelo nobre.
+Daí a interposição do presente agravo regimental (fls. 644-648).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 544-546; sem grifos no original):
+"A defesa requer o reconhecimento da nulidade da decisão que pronunciou o acusado, tendo em vista a existência de vício decorrente do cerceamento de defesa pelo indeferimento da instauração do incidente de insanidade mental.
+Analisando os elementos presentes nos autos, especialmente os interrogatórios, o acusado descreveu com clareza e lucidez a dinâmica delitiva.
+O acusado NILTON NÉLIO DA SILVA, interrogado perante a autoridade policial (ID 30484079 - Pág. 7), assumiu a autoria do homicídio, bem como detalhou a dinâmica dos fatos e esclareceu o motivo. Confira-se:
+ ..
+O acusado, interrogado em juízo (ID 30484562 a 30484564), confessou ter matado Tarcísio, em razão de uma discussão anterior entre os dois, uma vez que a vítima fez certas exigências destinadas a ele, o qual não era bem visto por ser filho de policial militar. NILTON afirmou que, no período da tarde, a vítima discutiu com ele e que, pelo fato de o acusado ser filho de policial, "teria que pagar pau para ele", ou seja, como na cadeia filho de policial não é bem visto, a vítima exigia que o acusado desse dinheiro e ainda comprasse as coisas para ele. Disse que enquanto a vítima estava dormindo pegou um lençol, enforcou-a e após deu um mata-leão por volta de 6 minutos até ter certeza de que "não iria voltar". Disse que ainda quebrou o pescoço da vítima e após pulou sobre o corpo até quebrar algumas costelas. Contou que ainda tentou quebrar a louça do vaso para tentar arrancar a cabeça da vítima, mas não conseguiu. Disse ainda que não quer ser retirado do PDF I, P. ZERO, pois tem muita guerra na cadeia, que está c ansado de matar, mas, se tiver que matar, irá matar. Disse que deseja que a juíza Leila Cury tenha conhecimento do que disse nesta audiência.
+Verifica-se que as declarações do acusado estão em consonância com o aditamento do laudo cadavérico nº 18016/20 (ID 30484539 - Pág. 20-21), segundo o qual a morte de Tarcísio Oliveira da Conceição decorreu de asfixia por constrição cervical.
+O referido aditamento pontuou, também, que o resultado do exame toxicológico foi positivo para os metabólitos de BARBITÚRICO, BENZODIAZEPÍNICO 1, BENZODIAZEPÍNICO 2 (URINA/SANGUE) e TCA - ANTIDEPRESSIVOS TRICÍCLICOS, ratificando a versão apresentada pelo acusado quanto à ingestão de medicamentos pelos detentos antes do homicídio.
+ ..
+Ressalte-se que, na decisão impugnada, a questão foi devidamente analisada, em que se consignou não haver documentação que evidencie o comprometimento da integridade mental do acusado.
+No caso concreto, a frieza como o acusado descreveu a prática do crime mostra tão somente um traço de sua personalidade, no entanto não coloca em dúvida sua higidez mental, tendo ele, na verdade, como se colhe dos autos, demonstrado que tinha plena capacidade e que era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.
+As descrições e palavras utilizadas pelo acusado em seu interrogatório, bem como o tom em que tudo foi narrado, embora possam mostrar tratar-se de uma pessoa de temperamento agressivo, não revelam, de per si, o comprometimento de sua capacidade mental à época do fato e, consequentemente, não autorizam a instauração do incidente de insanidade mental.
+Assim, o indeferimento do pedido de instauração de incidente de sanidade mental não representa cerceamento de defesa, quando não existirem elementos concretos que indiquem qualquer dúvida sobre a capacidade de autodeterminação do agente."
+Com efeito, a jurisprudência do Superior Tribunal de Justiça está calcada no sentido de que " ..  apenas quando evidenciada dúvida razoável acerca da sanidade mental do acusado, se torna imperiosa a instauração do respectivo incidente" (AgInt no AREsp n. 1.142.435/SC, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 1/6/2021, DJe de 9/6/2021.)
+Ocorre que a Corte de origem, soberana quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que, na espécie, não pairam quaisquer dúvidas quanto à higidez mental do Réu e, assim, não há justificativa concreta para deferir o incidente de sanidade mental pleiteado pela Defesa. Portanto, a inversão do julgado demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+" ..
+2. No caso, o Tribunal de origem concluiu, fundamentadamente e com base no amplo acervo de provas colacionadas aos autos, não haver dúvida razoável acerca da sanidade mental do acusado de modo a justificar o deferimento do pedido de realização do referido exame.
+Dessa forma, a reversão do julgado, como pretendido pelo agravante, exigiria o reexame do material fático-probatório, o que é inviável em recurso especial, tendo em vista o teor do enunciado 7 da Súmula desta Corte.
+3. Agravo regimental desprovido." (AgRg no REsp n. 1.799.314/DF, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 6/4/2021, DJe de 13/4/2021.)
+" ..
+2. Neste feito, as instâncias ordinárias não identificaram dúvida fundada sobre a integridade mental do acusado e, ademais, a defesa se limitou a afirmar que o réu fazia uso de entorpecentes, sem delimitar eventual dúvida a respeito da sua capacidade de entender a ilicitude ou de direcionar sua vontade, ao tempo dos fatos.
+3. Visto que as instâncias ordinárias fundamentaram adequadamente a desnecessidade do exame de sanidade mental solicitado pela defesa, a alteração desse juízo demandaria o revolvimento do material fático-probatório, expediente vedado na via do recurso especial, a teor da Súmula n. 7/STJ.
+ ..
+9. Agravo regimental não provido. " (AgRg no REsp n. 1.503.533/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 15/5/2018, DJe de 25/5/2018.)
+" ..
+2. O agravante não apresentou qualquer razão pela qual devesse ser absolvido sumariamente. O pedido de prova pericial sobre a higidez mental da vítima deve ser razoável e amparado em alguma circunstância fática concreta, inexistente no caso em questão, segundo o acórdão recorrido, que salientou não pairar dúvidas sobre a sanidade da ofendida. Maiores considerações a respeito implicariam reexame aprofundado de matéria fático-probatória, insuscetível de ser realizado na via eleita, em razão do óbice da Súmula 7/STJ.
+3. Agravo Regimental desprovido." (AgRg no AREsp n. 506.207/MG, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/11/2015, DJe de 9/11/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
