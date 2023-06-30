@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por BRK AMBIENTAL - PORTO FERREIRA S.A., contra decisão de minha lavra, publicada em 30/05/2023, que conheceu do Agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Inconformada, sustenta a parte embargante, essencialmente, que:
+(i) "de rigor a necessidade de suprir a omissão apontada, de tal forma que a MM. Relatora examine o pedido relativo à reforma do acórdão de origem em razão da violação à legislação infraconstitucional, mais especificamente aos artigos 32 e 34 do CTN, uma vez que a Embargante é mera detentora do bem público, sem animus domini e, portanto, está fora do campo de incidência do imposto municipal" (fl. 882e);
+(ii) "por um lado a r. decisão embargada afirma que a controvérsia foi dirimida "sob o enfoque eminentemente constitucional", por outro, a MM. Relatora cita trecho do acórdão de origem que conclui, expressamente, que a Embargante é sujeito passivo do IPTU, em razão da interpretação conferida ao artigo 34, do CTN" (fl. 883e).
+Por fim, requer o acolhimento dos Embargos Declaratórios. Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 889/891e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020)
+Por último, convém esclarecer que após o julgamento do Recurso Extraordinário 601.720/RJ pelo Supremo Tribunal Federal, em sede de repercussão geral - Tema 437/STF, fica prejudicada a invocação de precedentes desta Corte Superior acerca do tema da cobrança do IPTU em casos de cessão/concessão de bens públicos, apreciados em período anterior à formação do referido precedente vinculante pela Suprema Corte.
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
