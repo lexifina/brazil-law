@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/GO, assim ementado (fl. 149):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DEFAZER. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DADEFENSORIA PÚBLICA. DECLARAÇÃO DEINCONSTITUCIONALIDADE DA LEI ESTADUAL Nº 17.654/2012E DA LC Nº 80/1994.
+1. No julgamento dos aclaratórios da Arguição de Inconstitucionalidade (processo nº 5113935.10), foi declarada pelo Órgão Especial deste Tribunal de Justiça a inconstitucionalidade do artigo 4º, inciso XXI da Lei Complementar nº 80/1994 e do artigo 1º da Lei Estadual nº17.654/2012, os quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual.
+2. Nos termos do artigo 927, inciso V do CPC, as decisões proferidas pelo Órgão Especial possuem eficácia vinculante, portanto, deve ser aplicado o entendimento externado no julgamento mencionado. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Embargos de declaração rejeitados.
+Quanto à questão de fundo, sustenta ofensa ao artigo 4º, inciso XXI da Lei Complementar n. 80/1994, sob os argumentos de que é devido à Defensoria Pública do Estado de Goiás o direito ao recebimento de honorários advocatícios nos processos nos quais logra êxito, consubstanciando-se em função institucional (fls. 189-190).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 203-205.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à alegação de ofensa ao artigo 4º inciso XXI da Lei Complementar n. 80/1994, o acórdão recorrido consignou o seguinte (fl. 152-154):
+A irresignação da parte recorrente consiste, exclusivamente, no fato de que não foram arbitrados honorários sucumbenciais em seu favor, já que, pelo princípio da causalidade, o Município de Goiânia deveria ser condenado ao pagamento da verba sucumbencial.
+Sobre essa questão, recentemente, o Órgão Especial desta Corte de Justiça reconheceu a inconstitucionalidade dos dispositivos legais que determinavam a fixação de honorários em favor da Defensoria Pública do Estado de Goiás.
+Vale a transcrição do julgado:
+EMENTA: EMBARGOS DE DECLARAÇÃO. INCIDENTE DEINCONSTITUCIONALIDADE DE LEI. ART. 4º, XXI, DA LEICOMPLEMENTAR Nº 80/1994, DO ART. 1º, § 1º, I, DA LEI ESTADUAL Nº17.654/2012. CABIMENTO. VÍCIO DE OMISSÃO. DECISÃO NÃOFUNDAMENTADA. TEMA 339 STF. EFEITOS MODIFICATIVOS. FIXAÇÃODE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DADEFENSORIA PÚBLICA. DESCABIMENTO. PRECEDENTE PARADIGMADO STJ. RESP 1.710.155/CE. NECESSIDADE DE AFASTAMENTO(DISTINGUISHING) OU SUPERAÇÃO (OVERRULING). DEFENSORESNÃO SÃO ADVOGADOS PÚBLICOS. TEMA 1074 STF. VERBA DENATUREZA ALIMENTAR. REGIME REMUNERATÓRIO IMPRÓPRIO. DESTINAÇÃO AO FUNDEP. IMPOSSIBILIDADE DE FIXAÇÃO DA VERBAHONORÁRIA. ACLARATÓRIOS ACOLHIDOS.  .. . 16.Constatada na espécie a existência de omissão, impõe-se o acolhimento dos embargos de declaração para sanar a omissão apontada para aplicar-lhes os efeitos modificativos e, consequentemente declarar a inconstitucionalidade dos dispositivos legais impugnados, quais sejam, o disposto no artigo 4º, inciso XXI, da Lei Complementar n. 80/1994, e do artigo 1º da Lei Estadual n.17.654/2012, que preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual. EMBARGOS DE DECLARAÇÃOCONHECIDOS E ACOLHIDOS COM EFEITOS MODIFICATIVOS. AÇÃODIRETA DE INCONSTITUCIONALIDADE. PEDIDO JULGADOPROCEDENTE. ACÓRDÃO REFORMADO. (TJGO, Questões e Processos Incidentes -> Incidentes -> Incidente de Arguição de Inconstitucionalidade5113935-10.2019.8.09.0011, Rel. Des. ANDERSON MÁXIMO DEHOLANDA, Órgão Especial, julgado em 27/05/2022, DJe de 27/05/2022)
+Nos termos do artigo 927, inciso V do CPC, as decisões proferidas pelo Órgão Especial possuem eficácia vinculante, portanto, deve ser aplicado o entendimento externado no julgamento mencionado.
+Assim sendo, resta afastada qualquer possibilidade de fixação de honorários advocatícios em favor da Defensoria Pública, ainda que o valor não seja destinado aos seus membros. (grifo nosso)
+Ocorre que a recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Nesse sentido, confira-se: REsp n. 2.062.391, Ministro Herman Benjamin, DJe de 05/05/2023; REsp n. 2.073.211, Ministro Gurgel de Faria, DJe de 22/06/2023; REsp n. 2.071.703, Ministro Sérgio Kukina, DJe de 23/06/2023.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
