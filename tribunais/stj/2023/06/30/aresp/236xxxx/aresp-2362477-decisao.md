@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo interposto contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO E PROCESSO CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITAÇÃO AOS BENEFÍCIOS CONCEDIDOS DE MARÇO/94 A FEVEREIRO/97.
+1. A decisão de mérito proferida na Ação Civil Pública 2003.71.00.065522-8 restringiu a sua eficácia aos benefícios previdenciários concedidos no período de março/94 a fevereiro/97.
+2. Por conseguinte, os demais estão fora dos limites subjetivos da coisa julgada, carecendo os respectivos beneficiários de pretensão executória.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, § 3º, 504, I e II, e 1.022, II, do CPC/2015. Argumenta, em suma (fls. 170-171, e-STJ):
+(..), a decisão recorrida, ao confirmar a decisão do Juiz da Execução que indeferiu a petição inicial, porque o benefício da autora foi concedido após o mês 02/1997, desconsiderando que a competência 02/94 e o índice do IRSM de 39,67% compões o período básico de cálculo e este está dentro do período estabelecido na sentença coletiva, acabou por negar vigência aos artigos 489, § 3º e 504, inc. I e II, do CPC 2015, que exprimem a correta forma de interpretar a sentença.
+Sem contrarrazões.
+O juízo de admissibilidade negativo (fls. 178-182, e-STJ) deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26 de junho de 2023.
+De início, deve ser rejeitada a alegada violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+Ademais, o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Ressalto que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, não é possível aceitar a objeção da agravante de que a sentença definitiva se aplicaria aos benefícios previdenciários concedidos fora do período de março/1994 a fevereiro/1997, tendo em vista que, para alterar o decisum recorrido, sobre a extensão da coisa julgada, seria necessário revisar questão fática, o que é impedido pela aplicação da Súmula 7 do STJ. Sobre o tema:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXECUTIVO. TETO DO SALÁRIO DE BENEFÍCIO. LIMITES OBJETIVOS DA COISA JULGADA. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+(..) 3. Com efeito, o Tribunal de origem, amparado nos elementos fático-probatórios dos autos, notadamente o teor do título executivo judicial, o qual reconheceu que não seria assegurado à parte autora o benefício equivalente a 20 salários mínimos; este patamar seria, em verdade, o teto do salário de benefício a ser observado. Assim, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração do particular rejeitados.
+(EDcl no AgInt no REsp 1.746.874/PE, relator Ministro MANOEL ERHARDT - DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 21/2/2022, DJe de 24/2/2022).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. FUNÇÃO COMISSIONADA. PAGAMENTO DE ATRASADOS. INCORPORAÇÃO. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. LIMITES E ALCANCE DA COISA JULGADA. SÚMULA N. 7/STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+(..)
+IV - O vício apontado pela parte embargante quanto à incorporação dos quintos foi tratado com clareza e sem omissão, conforme se percebe dos seguintes trechos do acórdão: "(..) o Tribunal a quo consignou que o título judicial se limitou a determinar o pagamento da função gratificada FC-05 aos beneficiários e suas diferenças com as funções percebidas, e que não houve qualquer menção à sua incorporação e reflexos sobre as demais parcelas. Desse modo, inviável o acolhimento da irresignação do Recorrente, no sentido de que a sentença transitada em julgado teria determinado a implantação do valor da FC05 nos contracheques de seus substituídos, porquanto, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.".
+V - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+VI - Embargos de declaração rejeitados.
+(EDcl no REsp 1.812.842/PB, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/2/2022, DJe de 16/2/2022).
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), pois não houve fixação de verba honorária na origem.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação à preliminar de afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
