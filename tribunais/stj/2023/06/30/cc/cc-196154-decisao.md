@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo de Direito da 2ª Vara Criminal de Praia Grande/SP e suscitado o Juízo Federal da 1ª Vara de São Vicente/SJ-SP.
+Consta dos autos que o Juízo da 32ª Vara Federal do Ceará/SJ-CE expediu carta precatória ao juízo suscitado, com o fim de promover a citação de pessoa que figura como ré em ação penal em trâmite na unidade da Justiça Federal sediada em Fortaleza/CE.
+O juízo suscitado declinou da competência para a Justiça Estadual com fundamento nos "termos do artigo 378 do Provimento CORE 01/2020 e dos arts. 237 e 262 do CPC" (e-STJ fl. 55), uma vez que o domicílio da parte está localizado no município de Praia Grande/SP, fora da sede da Vara Federal, em São Vicente/SP.
+O juízo suscitante, por sua vez, recusou a competência ao fundamento de que "a Comarca de Praia Grande é abrangida pela competência territorial da 1ª Vara Federal de São Vicente, nos termos dos Provimentos nº 49-CJF3R, de 06/12/2021 e nº 423-CJF3R, de 19/8/2014 e, considerando mais que a referida comarca integra a mesma zona metropolitana" (e-STJ fl. 79).
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 96-102).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para cumprimento de carta precatória expedida pela Justiça Federal foi estabelecida entre o Juízo de Direito da 2ª Vara Criminal de Praia Grande/SP, suscitante, e o Juízo Federal da 1ª Vara de São Vicente/SJ-SP, suscitado.
+Com razão o Ministério Público Federal em parecer ofertado no âmbito desta Corte, ao consignar que "não se vislumbra real utilidade na deprecação de uma ordem que pode ser cumprida, sem qualquer embaraço, pelo próprio Juízo Federal, que detém competência territorial sobre o Município de Praia Grande-SP. Evita-se, por conseguinte, a transferência de responsabilidades e encargos ao Juízo Estadual e a consequente morosidade processual" (e-STJ fl. 98).
+A propósito do tema, cumpre ressaltar que esta Corte já decidiu controvérsia análoga no CC 183.934/SP (relator Ministro Moura Ribeiro, julgado em 05/10/2021, DJe de 06/10/2021). Na oportunidade, o ora suscitado figurou como suscitante e recusou a competência declinada pelo Juízo de Direito da 2ª Vara Cível de Praia Grande/SP, tendo, na ocasião, alinhavado a mesma argumentação ora apresentada, qual seja, de que a diligência deprecada teria que ser cumprida em município distinto da sede da Vara Federal.
+O relator do aludido conflito, ao também declarar a competência do juízo ora suscitante, consignou que "o Município de Praia Grande/SP está na área de jurisdição do Juízo Federal, impossibilitando a transferência dos encargos da Justiça Federal para a Justiça do Estado, pois a expedição de carta precatória somente tem sentido se for para Comarca fora da jurisdição do juiz federal deprecante".
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo Federal da 1ª Vara de São Vicente/SJ-SP , suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
