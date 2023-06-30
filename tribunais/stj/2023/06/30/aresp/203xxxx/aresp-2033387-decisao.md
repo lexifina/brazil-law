@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto por Americanas S.A., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo às fls. 1.051/1.061, integrado pelo decisum de fls. 1.159/1.163, nos autos de ação declaratória movida em face da Fazenda do Estado de São Paulo.
+Em 04 de abril de 2022, foi proferida decisão de minha lavra, determinando a remessa dos autos ao Supremo Tribunal Federal, tendo em conta que o recurso especial deveria ser sobrestado (1.031, § 2º, do CPC), visto que a matéria objeto do recurso extraordinário, também interposto nos autos, lhe era prejudicial.
+A parte ora agravante apresentou petição nos autos requerendo a desistência do agravo em recurso extraordinário, bem como do agravo em recurso especial interposto, na forma do art. 998 do CPC (cf fl. 1.543).
+Homologada a desistência do agravo regimental no recurso extraordinário pelo Supremo Tribunal Federal (fls. 1.545/1.546), foram os autos remetidos a esta Corte Superior, para análise do pedido de desistência do agravo em recurso especial interposto às fls. 1.185/1.199.
+Assim, homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do agravo em recurso especial (fls. 1.185/1.199), formulado à fl.1.543 (instrumento de mandato às fls. 26/27), por Americanas S.A., nos termos dos arts. 998 do CPC e 34, IX, do RISTJ.
+Publique-se.
