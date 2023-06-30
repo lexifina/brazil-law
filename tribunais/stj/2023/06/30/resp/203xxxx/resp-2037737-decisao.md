@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO DE IMAGEM. Ação de indenização. Parcial procedência do pedido. Inconformismo de ambas as partes. Preliminares de inépcia da inicial, incompetência e prescrição suscitadas pela ré que devem ser afastadas. Autor que foi jogador profissional, com vasta e vencedora carreira, atuando em vários clubes e teve conhecimento de que a sua imagem estava sendo utilizada indevidamente em álbum comemorativo do Palmeiras intitulado "Palmeiras Centenário de Glórias". Ré que exerce atividade lucrativa e comercializa o álbum com um único objetivo: ganhar dinheiro, Homenagem ao clube e à história dos jogadores que fica relegada a um plano secundário. Aplicação da Súmula 403 do Colendo Superior Tribunal de Justiça - Precedentes deste Egrégio Tribunal. Dano moral configurado. Indenização majorada de R$ 8.000,00 para R$ 10.000,00. Precedentes deste tribunal. Indenização devida, proporcional e razoável. Juros de mora a partir do evento danoso. Aplicação da súmula 54 do STJ.
+Recurso do autor provido em parte.
+Desprovido o da ré.
+Alega-se violação aos artigos 20, 21 e 206, § 3º, do Código Civil e dissídio.
+Sustenta-se que o termo inicial do prazo prescricional seria a data da suposta lesão do direito, no caso, a data em que publicada a primeira edição do livro ilustrado controvertido, conforme, inclusive, entendido/considerado em recente julgamento pelo próprio Superior Tribunal de Justiça no Recurso Especial Nº 1.861.295/SP (fl. 515).
+Defende-se que também afrontados os arts. 20 e 21 do Código Civil, eis que se trataria de publicação de conteúdo histórico, bibliográfico e informativo, de modo que, ainda que dotada de interesse econômico/financeiro, desnecessária a autorização expressa da pessoa retratada, menos ainda em se tratando de figura pública e notória, como seria o caso do recorrido (fl. 515).
+Contrarrazões às fls. 554/566, pugnando o não provimento do recurso.
+Relatados, passo a decidir.
+Relativamente à prescrição, a Corte local assim registrou (fl. 491):
+Considerando que o pedido de reparação de dano está fundamentado no uso indevido da imagem do autor, em álbum de figurinhas, presume-se maior repercussão do mencionado dano se daria no domicílio do autor.
+Tampouco há se falar em prescrição, no caso.
+Embora o prazo prescricional da pretensão indenizatória seja o previsto no artigo 206, § 3º, V, do CC, o certo é que não se pode considerar o ato lesivo no momento do lançamento o álbum de figurinhas, uma vez que a lesão ao direito de imagem do autor é continuada propagando-se no tempo, enquanto houver comercialização do livro.
+Vê-se que a prescrição foi afastada sob o fundamento de dano continuado, em virtude da perpetuação da comercialização dos exemplares pela ré.
+Rever tal posicionamento somente se faria possível por meio de incursão na premissa fática relativa à continuidade ou não da comercialização dos exemplares, o que encontra óbice no verbete nº 7 da Súmula do Superior Tribunal de Justiça.
+Ressalte-se que a discussão do referido tema do dano continuado não foi objeto de impugnação específica pelas razões do recurso especial (questão que havia sido analisada especificamente no precedente desta Corte Superior invocado pela parte, o que torna o precedente inservível ao apontado dissídio).
+Assim, a reforma do acórdão recorrido no ponto depende do reexame de elementos circunstanciais da causa, vedado nos termos do verbete anteriormente mencionado.
+Relativamente à questão de fundo, o TJSP decidiu a questão à luz da aplicação do verbete nº 403 da Súmula do Superior Tribunal de Justiça ("Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais"), bem como de precedentes desta Corte Superior.
+A aplicação do mencionado verbete e dos precedentes do STJ citados pelo acórdão recorrido não foi objeto de impugnação específica, objetiva e articulada pelas razões do recurso especial, no sentido de demonstrar analiticamente a não incidência dos referidos óbices à hipótese em questão, de modo que o recurso fica obstado também pelo verbete nº 283 da Súmula do Supremo Tribunal Federal.
+Por fim, sequer merece amparo a revisão do valor indenizatório arbitrado nas instâncias de origem (R$ 10.000,00 - dez mil reais), eis que, embora seja possível a esta Corte Superior rever o montante fixado a título de danos morais quando se revelar irrisório ou abusivo, a hipótese em exame não justifica a excepcionalíssima intervenção do STJ em sede de recurso especial.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
