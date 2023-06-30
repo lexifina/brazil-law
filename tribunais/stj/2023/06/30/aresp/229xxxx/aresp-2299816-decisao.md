@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento em sede de ação anulatória. Na decisão, determinou-se realização de prova pericial, e indeferiu-se pedido de produção de prova oral. No Tribunal a quo a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO - DECISÃO AGRAVADA QUE INDEFERIU A PRODUÇÃO DE PROVA ORAL - SITUAÇÃO NÃO ELENCADA NO ROL DO ART 1015 DO CPC - AGRAVANTE QUE SEQUER ALEGA HAVER URGÊNCIA NA APRECIAÇÃO DA QUESTÃO - AUSÊNCIA DE PRECLUSÃO - SITUAÇÃO QUE NÃO JUSTIFICA A MITIGAÇÃO DA TAXATIVIDADE  RECURSO NÃO CONHECIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Trata-se, na origem, de ação ajuizada pelo CONSÓRCIOTREVO AMBIENTAL contra a AUTORIDADE MUNICIPALDE LIMPEZA URBANA para anular as multas cobradas através do ofício nº 138/AMLURB/DAF/2019. Narra a autora que as multas foram cobradas por conta de infração às obrigações impostas no contrato administrativo celebrado entre as partes, mas que não foram praticadas. O STJ, no julgamento do Tema nº 988 dos RecursosRepetitivos,1 fixou a tese da "taxatividade mitigada":
+(..)
+Assim, o indeferimento de produção oral pode, em tese, ser desafiado por meio de agravo de instrumento. Para isso, no entanto, é necessário que se comprove, e. g. que a testemunha que se pretende ouvir tem idade avançada e/ou doença grave, justificando a urgência na oitiva. Destaco, ainda, que a matéria pode ser reavaliada em eventual apelação. Como a agravante sequer alega estar presente uma dessas situações, o recurso não pode ser conhecido.
+Relativamente às alegações de violação dos artigos 373, 4º, 139, III e 369, do CPC; e 2º da Lei n. 9784/99, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
