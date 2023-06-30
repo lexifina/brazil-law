@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por EMPARSANCO S.A. - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 1ª Vara Cível de São Bernardo do Campo-SP, no qual se processa a recuperação judicial da suscitante (Processo n.º 1003916-60.2015.8.26.0564), e o r. Juízo da 8ª Vara do Trabalho de São Bernardo do Campo-SP, em que tramita a Reclamação Trabalhista n.º 002107-28.2016.5.02.0076, que lhe move Edilson da Silva Mota.
+Aduz a suscitante, em síntese, que o r. juízo trabalhista determinou a realização de atos executórios contra seus bens, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Pede, assim, em caráter liminar, o sobrestamento dos atos executivos determinados em face de seu patrimônio e, no mérito, a declaração de competência do r. juízo da recuperação judicial. (fls. 3/37).
+Às fls. 1016/1018, a e. Presidência deste STJ indeferiu o pedido liminar.
+Prestadas as informações (fls. 1028/1031 e 1033/1035), o MPF ofertou parecer no sentido da declaração de competência do r. juízo universal. (fls. 1045/1048)
+É o relatório.
+Decisão.
+1. É assente a orientação deste STJ segundo a qual "não caracteriza conflito de competência a determinação feita pelo Juízo do Trabalho de instauração de incidente de desconsideração da personalidade jurídica da empresa em recuperação judicial ou falida, direcionando os atos de execução provisória para os sócios da suscitante. Isso porque, em princípio, salvo decisão do Juízo universal em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial ou à falência" (ut. AgInt nos EDcl no CC n. 172.193/MT,Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 30/3/2021, DJe de 14/4/2021).
+Na mesma linha: AgInt no CC n. 188.994/SP, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 29/11/2022, DJe de 2/12/2022; AgInt no CC n. 159.470/SP, Rel. Min. Raul Araújo, Segunda Seção, julgado em 13/3/2019, DJe de 18/3/2019.
+Além disso, na hipótese, consoante informações prestadas (fls. 1033/1035), o r. juízo laboral não determinou a realização de atos constritivos em face do patrimônio da suscitante, de modo que inexistem elementos caracterizadores de manejo do presente conflito de competência.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ, não conheço do conflito de com petência.
+Publique-se. Intimem-se. Oficiem-se.
