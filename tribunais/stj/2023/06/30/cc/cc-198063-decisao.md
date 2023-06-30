@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito da 1ª Vara Cível, da Família, das Sucessões e da Infância e Juventude de Planaltina/GO e o Juízo Federal da Vara Cível e Criminal de Formosa - Sj/GO, nos autos de ação ajuizada por Anderson Gonçalves Moreira contra a Caixa Econômica Federal e José Felipe Ferreira Lins, com o objetivo de obter reparação de danos físicos no imóvel adquirido pelo autor, além do pagamento de indenização por danos materiais e morais decorrentes de vícios na construção do bem.
+Na Justiça Federal, foi reconhecida a ilegitimidade da CEF para constar do polo passivo da demanda, resultando na remessa dos autos à Justiça comum estadual (e-STJ, fls. 229/234).
+O Juízo de Direito declinou de sua competência, sob o fundamento de que a Caixa Econômica Federal estaria no polo passivo da ação, razão pela qual remeteu os autos novamente ao Juízo Federal, que suscitou o presente conflito negativo de competência.
+O Ministério Público Federal opinou pelo "conhecimento do conflito, declarando-se a competência do JUÍZO DEDIREITO DA 1A VARA CÍVEL, DA FAMÍLIA, DAS SUCESSÕES E DA INFÂNCIA E JUVENTUDE DE PLANALTINA - GO, o suscitado" (e-STJ, fls. 245-246).
+Brevemente relatado, decido.
+O caso sob exame é de singela resolução, conforme bem destacou o Ministério Público Federal em sua manifestação.
+Estabelecida a divergência entre os Juízos federal e estadual acerca da existência de interesse jurídico da Caixa Econômica Federal na demanda, há de prevalecer o entendimento manifestado pelo órgão jurisdicional federal. Essa é a orientação sedimentada no enunciado n. 150 da Súmula desta Corte: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+E como corolário desse entendimento, deu-se, nesta Corte, a edição da Súmula n. 254, que preceitua: "A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+No caso, foi reconhecida a "ilegitimidade da Caixa Econômica Federal para figurar no polo passivo da ação e, em consequência, reconhecer a incompetência da Justiça Federal para conhecer e julgar o pedido formulado nos autos em face de outro réu, a teor do art. 109, inciso I, da Constituição Federal" (e-STJ, fl. 233), por ter atuado "como agente financeiro em sentido estrito, concedendo apenas o financiamento para aquisição do imóvel pelo autor, que o adquiriu de terceiro" (e-STJ, fl. 233).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1º Vara Cível, da Família, das Sucessões e da Infância e Juventude de Planaltina/GO, o suscitado.
+Dê-se ciência desta decisão ao Juízo suscitante.
+Publique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPARAÇÃO DE DANOS FÍSICOS NO IMÓVEL ADQUIRIDO PELO AUTOR. COMPETÊNCIA DO JUÍZO FEDERAL PARA DIZER SOBRE A EXISTÊNCIA DE INTERESSE JURÍDICO DE ENTE F EDERAL. SÚMULA 150/STJ. QUESTÃO QUE NÃO PODE SER REEXAMINADA PELO JUÍZO ESTADUAL (SÚMULA 254/STJ). COMPETÊNCIA DO JUÍZO SUSCITADO.
