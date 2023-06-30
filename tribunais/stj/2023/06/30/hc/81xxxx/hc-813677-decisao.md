@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fls. 102-103):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. NULIDADE INTERROGATÓRIO INQUISITORIAL. A ausência de advogado durante o interrogatório prestado durante a fase inquisitorial, não acarreta nulidade da Ação Penal, especialmente se o réu foi devidamente cientificado dos seus direitos constitucionais. Ausente constatação de abuso de autoridade no interrogatório complementar, realizado no período noturno, dada a prisão em flagrante do réu, perpetrada no mesmo dia, apresentado no final da tarde. Ausente comprovação de tortura do réu, se do relatório médico realizado após o interrogatório, não se verifica qualquer registro de lesão, mas, sim, registros de bom estado geral e ausência de lesões traumáticas recentes. NULIDADE DEPOIMENTOS TESTEMUNHAIS. OFENSA AO PRINCIPIO DA INCOMUNICABILIDADE. Oportunizada à defesa, questionamentos às testemunhas, em audiência, inclusive quanto a provável instrução nos depoimentos prestados por elas, ausente qualquer prejuízo, que legitime a pretensa declaração de nulidade, devidamente exercido o contraditório e ampla defesa. DESPRONÚNCIA. Havendo indícios de que o recorrente ceifou a vida da vítima, imperiosa é a subsunção da conduta do acusado ao julgamento do Conselho de Sentença, juiz natural da causa. EXCLUSÃO QUALIFICADORAS. IMPROCEDENTE. RECURSOCONHECIDO E DESPROVIDO. Havendo elementos probatórios evidenciando a possibilidade da ocorrência das qualificadoras relativas ao motivo fútil, meio cruel e recurso que dificultou a defesa da vítima, impossível a exclusão de tal circunstância em sede de Recurso em Sentido Estrito, devendo a discussão acerca da sua caracterização ser submetida à apreciação do Júri Popular. APELO CONHECIDO E DESPROVIDO.
+Consta dos autos que o paciente pela suposta prática do crime previsto no art. 121, § 2º, II, III e IV, e art. 339, ambos do CP.
+O impetrante alega que a pronúncia está baseada apenas em prova inquisitorial e testemunhos de "ouvir dizer".
+Aponta violação ao artigo 155 do CP, pois a pronúncia se apoiou na confissão extrajudicial do paciente, a qual foi retratada em juízo.
+Afirma que nenhuma das pessoas ouvidas em juízo presenciou o fato.
+Sustenta a inexistência de substrato mínimo de autoria que autorize a submissão do fato a julgamento pelo Tribunal do Júri.
+Alega que a quantidade da droga não pode servir como parâmetro para deixar de aplicar ou mesmo minorar a fração de diminuição de pena pelo tráfico privilegiado.
+Requer a concessão da ordem para despronunciar o paciente, sem prejuízo do disposto no art. 414, parágrafo único do CP.
+Prestadas as informações, o Ministério Público Federal manifestou-se não conhecimento do writ; caso contrário, pela denegação da ordem.
+Em consulta aos assentamentos eletrônicos desta Corte Superior, verifica-se que foi interposto o AREsp n. 2.359.061/GO, em favor do ora paciente, em face do mesmo acórdão e por meio do qual a defesa pleiteou as mesmas questões das que foram requeridas neste writ.
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer.
+Incide, portanto, na hipótese, o disposto no art. 210 do Regimento Interno desta Corte, segundo o qual "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originário, ou for reiteração de outro com os mesmo fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
