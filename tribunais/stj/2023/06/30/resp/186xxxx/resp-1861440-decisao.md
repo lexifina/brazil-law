@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SISLAINE ROSSA SIMONETTO com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 489, §1º, IV (negativa de prestação jurisdicional), 502, 505, 507, 508 (violação à coisa julgada) e 1.005, todos do CPC.
+Contrarrazões ao recurso especial (e-STJ fls. 728/733).
+Parecer do MPF opinando pela devolução os autos à origem para exame de possível juízo de adequação quanto à precedente desta Corte (e-STJ fls. 756/759)
+Passo a decidir.
+O recurso não merece guarida.
+Inicialmente, registro que não se pode falar em violação ao art. 489, §1º, IV, do CPC, porquanto, ainda que se considere incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela parte.
+Alegava a expropriada que os juros compensatórios tinham sido fixados à razão de 12% ao ano, e que a matéria estaria preclusa, porque haveria transitado em julgado em favor da ora recorrente.
+O Tribunal local, todavia, expressamente rejeitou essa alegação, fundamentando que tal percentual (de 12% a.a.) somente beneficiaria os litisconsortes, na medida em que, em relação à ora recorrente, o trânsito em julgado teria arbitrado o percentual em 6% a.a.
+Vejamos trecho da decisão:
+Como se vê, no cálculo do valor devido à parte agravante o percentual a ser considerado efetivamente é o de 6% ano, tendo em vista que a majoração dos juros compensatórios, conforme acima transcrita, aproveita tão somente àqueles que recorreram do ponto contra o qual a recorrente não se insurgiu. (e-STJ fl. 242).
+Isto é, não houve omissão quanto ao ponto controvertido, mas apenas a conclusão foi contrária à tese advogada.
+Quando houve a interposição dos aclaratórios, o que queria a parte embargante era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando aquele recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AgInt nos EDcl no AgInt no AREsp 1582376/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 11/04/2022, DJe 18/04/2022; EDcl no AgInt no REsp 1896032/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 08/09/2021, DJe 13/09/2021.
+Portanto, entendo inexistente a alegada negativa de prestação jurisdicional.
+No mérito propriamente dito, o recurso não pode ser conhecido.
+Registro, inicialmente, que a pretensão recursal esbarra no óbice da Súmula 7/STJ.
+A parte recorrente, objetivando demonstrar que havia transitado em julgado o percentual de 12% a.a. em seu favor, busca historiar diversos fatos que supostamente aconteceram na ação de desapropriação. Faz, inclusive, alusão às folhas daqueles autos que demonstrariam o alegado, restando evidente que se trata de pretensão de revolvimento da matéria fático-probatória produzida em outro feito.
+Além disso, a parte afirma que:
+Ademais, subsidiariamente, ainda entendemos, que a norma contida no art. 1005 do CPC expressamente prevê que o recurso interposto por um litisconsorte aproveitará aos demais quando as defesas opostas lhes forem comuns, o que é o caso da ação originária de desapropriação, considerando que a desapropriação é da área integral, consistindo em uma única matrícula e o valor a ser indenizado é o mesmo ao metro quadrado por expropriado, devendo assim, ser aplicado os mesmos parâmetros de indenização, inclusive quanto aos de juros moratórios e compensatórios.
+Veja-se que no caso dos autos, o valor da indenização da área desapropriada não pode ter valor individualizado por expropriado, considerando o interesse público, o valor pago pela área tem que ser igualitário, bem como é necessária a desapropriação integral do imóvel em comum entre os coproprietários de uma única matrícula/registro do imóvel, configurando litisconsórcio unitário, visto que impossível a efetivação de decisões divergentes, na hipótese dos autos, considerando que Autarquia deve indenizar a área integralmente e de forma isonômica aos expropriados. (e-STJ fl. 391) (Grifos acrescidos)
+Essas questões também pressupõem o reexame dos fatos ocorridos na ação de desapropriação, para que se possa confirmar se, de fato, as teses de defesa não eram colidentes, a área expropriada era única e com as mesmas características, se o valor não pode ser individualizado, se havia uma só matrícula etc.
+Além do mais, o art. 1005 do CPC não foi prequestionado na origem, pelo que aplicável, nesse ponto, a Súmula 211/STJ.
+Por fim, destaco que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes." (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ainda que assim não fosse, esta Corte Superior entende que a aplicação da Súmula 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (AgInt no AgInt no AREsp 1618014/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/08/2021, DJe 17/08/2021).
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
