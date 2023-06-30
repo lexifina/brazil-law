@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por EDUARDO RAMOS DE OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 403):
+ACIDENTÁRIA - Montador de autos - Lesões no ombro direito - Dúvida quanto à redução da capacidade laborativa e quanto ao nexo causal/concausal - Caso em que, convertido o julgamento em diligência, a nova perícia concluiu pela redução parcial e permanente da capacidade laborativa, admitindo, também, o liame ocupacional - Auxílio-acidente devido a partir do dia seguinte ao da última alta médica - Valores em atraso que devem ser atualizados mês a mês pelos índices de correção pertinentes (Tema nº 810 do STF) - Juros de mora devidos desde o termo inicial do benefício (posterior à citação), mês a mês, de forma decrescente - Aplicação do art. 5º da Lei nº 11.960/09, porém apenas no que concerne aos juros - Recurso provido.
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 86, § 2º, da Lei n. 8.213/1991, argumentando fazer jus ao benefício desde a primeira alta médica, visto ser mais benéfico para o segurado.
+Sem contrarrazões (e-STJ fl. 433). O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido o fundamento da aludida decisão atacado no recurso ora em exame.
+Passo a decidir.
+Mediante análise dos autos, verifico que a inadmissão do especial deu-se com base na incidência da Súmula 7 do STJ. Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido concluiu pela fixação do termo a quo do benefício a partir da última alta médica, fundamentando sua convicção no acervo probatório, como se lê do seguinte trecho (e-STJ fls. 418/419):
+Ainda que o ora embargante discorde em parte do julgamento, a turma julgadora houve por bem conceder ao obreiro auxílio-acidente de 50% do salário-de-benefício a partir do dia seguinte ao da última alta médica (07/04/2016 fls. 191), conforme dispõe o art. 86, § 2º, da Lei nº 8.213/91, considerando-o aplicável à hipótese dos autos.
+Cumpre observar que, tendo sido concedidos dois auxílios doença acidentários, a aplicação da regra do art. 86, § 2º, da Lei nº 8.213/91 poderia contemplar qualquer um deles, a depender do contexto probatório.
+Assim, o conhecimento do recurso especial a fim de modificar a conclusão do Tribunal de origem demandaria o reexame fático-probatório dos autos, o que é inviável em sede de recurso especial, sendo certo que o apelo nobre nem sequer suscitou eventual omissão do acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. EX-ESPOSA. DEPENDÊNCIA ECONÔMICA. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. "A mulher que renunciou aos alimentos na separação judicial tem direito à pensão previdenciária por morte do ex-marido, comprovada a necessidade econômica superveniente" (Súmula 336 do STJ).
+2. A reforma do julgado, sob o fundamento de que houve dependência econômica superveniente da parte autora, demandaria reexame dos elementos fático-probatórios dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.952.080/SP, de minha relatoria , Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitra do, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
