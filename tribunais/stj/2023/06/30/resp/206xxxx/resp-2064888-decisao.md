@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSEMERI SOLANGE DE MOURA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 81):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PRETENSÃO DE DESBLOQUEIO DE VALORES.
+DEVE-SE PREFERIR JULGAR CONFORME O QUE A LEI SOBRE EXECUÇÕES E CUMPRIMENTO DE SENTENÇA DISPÕE, COMO TAMBÉM NOS TERMOS DA JURISPRUDÊNCIA DOMINANTE DE QUE A EXECUÇÃO SE OBJETIVA NA SATISFAÇÃO DA DÍVIDA INADIMPLIDA, PORTANTO, COM PREVALÊNCIA DO INTERESSE DO CREDOR.
+AGRAVO DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 90-109), a recorrente aponta violação ao art. 833, IV e X, do Código de Processo Civil de 2015, sustentando, em síntese, a impenhorabilidade de valores depositados em conta, até o valor de 40 salários mínimos.
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 137-141).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de Justiça concluiu pela penhorabilidade dos valores abaixo de 40 (quarenta) salários mínimos depositados na conta da insurgente.
+A decisão foi assim fundamentada (e-STJ, fls. 79-80 - sem grifo no original):
+Verifica-se que o demandado alegou que a verba bloqueada é de cunho alimentar e pugnou sua impenhorabilidade nos autos da rescisão contratual que lhe move o demandante. Narrou, em suma, que a quantia penhorada é inferior a 40 salários-mínimos, conforme previsto no art. 833, X, do CPC.
+Reconstitui-se que as partes firmaram contrato de compra e venda de um terreno no ano de 2001 pelo valor de R$ 13.127,04 a serem pagos em 72 parcelas iguais de R$ 182,32. Em meados do ano de 2006 o demandante vendeu parte do terreno ao co-demandante, onde foi firmado contrato de compra e venda no valor de R$ 8.873,00 a serem pagos em 40 parcelas mensais de R$105,00 e após, 20 parcelas mensais de R$ 233,65. O contrato deveria ter sido plenamente quitado em abril de 2011, o que não ocorreu, sendo ajuizada a ação de rescisão contratual em junho de 2012 (evento 3, proc judic 1, processo originário).
+Em junho de 2022 a dívida perfazia o valor de R$ 100.257,51 (evento 29, processo originário). Tendo sido determinado o bloqueio de valores encontrados em contas bancárias (evento33, processo originário) do agravante e expedido alvará para o agravado (evento 61, processo originário).
+Daí advém o agravo de instrumento e atual agravo interno.
+Nas circunstâncias do caso, a dívida existe e se acumula há mais de dez anos, tendo o agravante total ciência e conhecimento da mesma, não sendo o caso de abuso de autoridade o determinado bloqueio, mas sim o direito de o credor ter seu crédito satisfeito.
+Apesar das alegações do agravante, não vieram aos autos elementos probatórios deque o saldo bloqueado é verba alimentar.
+(..)
+Reunindo-se as considerações, a dívida é antiga e deixa-se de verificar a disposição ao pagamento, assim como inexiste demonstração cabal ou definitiva da destinação alimentar da verba, que são, deve-se dizer, de imensa importância, porém que não desobriga o pagamento ou a demonstração, ao mesmo tempo, justifica o bloqueio de valores em dinheiro.
+Assim, os agravantes deixam de demonstrar causa típica à impenhorabilidade e não impugna de forma específica a decisão agravada de instrumento, assim como a existência de dívida obriga ao pagamento, principalmente em consideração ao valor bloqueado na conta corrente, deR$515,49, em comparação ao montante que é objeto da ação de R$ 100.257,51.
+Deve-se preferir, pois, julgar de acordo com o que a lei sobre execuções dispõe, assim como nos termos da jurisprudência dominante de que a execução se objetiva na satisfação da dívida inadimplida e, portanto, com prevalência do interesse do credor, do modo menos gravoso ao devedor, desde que este se disponha ao pagamento ou à oferta cabal de que será realizada.
+A despeito da natureza dos valores penhorados, as Turmas de Direito Privado deste Tribunal Superior pacificaram o entendimento de que a quantia pertencente ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta corrente, caderneta de poupança ou fundos de investimentos, são impenhoráveis, ressalvada a comprovação de má-fé, abuso de direito ou fraude.
+Nesse sentido (sem destaques nos originais):
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. ART. 833, X, DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. A jurisprudência desta Corte Superior entende que é impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, sendo ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.117/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.011.412/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2023, DJe de 5/5/2023.)
+Verifica-se, portanto, que o acórdão recorrido está em dissonância à atual orientação deste Tribunal Superior.
+Cabe ressaltar, contudo, que da decisão em questão não se depreende fundamentação que demonstre possível abuso, má-fé ou fraude a ser analisada caso a caso, de acordo com as circunstâncias da situação concreta sob julgamento. Somente mediante essa comprovação se torna viável a penhora de quantia inferior a 40 (quarenta) salários mínimos mantidos na conta da parte recorrente.
+Destarte, constata-se a necessidade de apreciação pelo Tribunal de origem da matéria sob o enfoque das orientações desta Corte.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda com novo julgamento do agravo de instrumento, à luz da orientação jurisprudencial firmada por esta Corte Superior.
+Fiquem as partes cientificadas de que a insistência injustificada na apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS INDEPENDENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. RESSALVADO EVENTUAL ABUSO, MÁ-FÉ, OU FRAUDE, A SER VERIFICADO CASO A CASO, DE ACORDO COM AS CIRCUNSTÂNCIAS DA SITUAÇÃO CONCRETA EM JULGAMENTO. IMPRESCINDIBILIDADE DE RETORNO DOS AUTOS PARA NOVO JULGAMENTO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
