@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo interposto por SANTA HELENA VINTE E UM EMPREENDIMENTOS IMOBILIÁIROS SPE LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Amazonas assim ementado:
+"DIREITO CIVIL. APELAÇÃO CÍVEL. RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. BEM IMÓVEL. POSSIBILIDADE DE RETENÇÃO. 10% A 25%. PRECEDENTE STJ. SENTENÇA MANTIDA. RECURSOS DESPROVIDOS. - Conforme decidido pela Segunda Seção do STJ, nos casos de rescisão de contrato de compra e venda por culpa do adquirente, ausente qualquer peculiaridade na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido de retenção de 10% a 25% dos valores pagos pela parte compradora; - Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento; -Apelações cíveis conhecidas e desprovidas" (fl. 230, e-STJ).
+No especial (fls. 238/265, e-STJ), além do dissídio jurisprudencial, a recorrente aponta violação do art. 32-A da Lei nº 13.786/2018. Sustenta, em síntese, que a "retenção deve ser de 25% sobre o valor das parcelas pagas, porquanto nesse valor encontram-se incluídos todos os prejuízos das empresas recorrentes" (fl. 245, e-STJ).
+Apresentadas contrarrazões às fls. 340/344 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..) O cerne da questão é saber se diante da rescisão de contrato de promessa de compra e venda de bem imóvel seria possível determinar a restituição de valores pagos.
+Pois bem, sobre o tema o Superior Tribunal de Justiça mantém seu entendimento no sentido de ser razoável a retenção de apenas 10 a 25% dos valores recebidos pela parte vendedora.
+(..)
+"A Segunda Seção do STJ, ao apreciar o REsp 1.723.519/SP, da Relatoria da Ministra ISABEL GALLOTTI, estabeleceu, no tocante ã cláusula penal fixada no contrato, nas hipóteses de rescisão de promessa de compra e venda de imóvel por inadimplemento do comprador, que o percentual de retenção pelo vendedor pode ser de até 25% do total da quantia paga"
+(..)
+Tal entendimento inclusive é defendido pelo STJ mesmo após a edição da Lei 13.786/2018.
+"(..)
+Conforme decidido pela Segunda Seção no REsp 1.723.519/SP, nos casos de rescisão de contrato de compra e venda por culpa do adquirente, ausente qualquer peculiaridade na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+No tocante à possibilidade de retenção das "arras", o STJ também possui entendimento de que elas são consideradas quando da retenção do valor total do negócio.
+"(..) É entendimento desta Corte que as arras possuem natureza indenizatória, servindo para compensar em parte os prejuízos suportados, de modo que devem ser levadas em consideração ao se fixar o percentual de retenção sobre os valores pagos pelo comprador, tal como ocorreu na espécie. Precedentes"
+(..)
+Logo, em análise ao caso concreto, verifico que o valor de retenção determinado pelo magistrado de piso já seria razoável para englobar o valor pago a título de "arras", notadamente pelo fato da rescisão contratual ter se dado por dificuldades financeiras da parte apelada" (fls. 232/234, e-STJ).
+Nesse contexto, verifica-se que a Corte estadual decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A rescisão de contrato de promessa de compra e venda de imóvel, caso motivada por inadimplência do comprador, gera o direito de retenção pelo vendedor de 10 a 25% das parcelas pagas, como forma de indenizá-lo pelos prejuízos suportados. Súmula 568/STJ.
+5. Alterar o decidido no acórdão impugnado, no que se refere à fixação da retenção no percentual de 20 % dos valores pagos pelos agravados, de acordo com as circunstâncias específicas da hipótese em análise, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo interno não provido" (AgInt no AREsp 1.942.850/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. RESCISÃO. PEDIDO DO COMPRADOR. RETENÇÃO. PERCENTUAL. CLÁUSULA. ABUSIVIDADE. DIVERGÊNCIA COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende ser cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, a despeito da quitação ampla, geral e irrevogável, exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+3. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga.
+4. Agravo interno não provido" (AgInt nos EDcl no AgInt no AREsp 1.701.206/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/06/2021, DJe 17/06/2021 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA E LUCROS CESSANTES. RESCISÃO CONTRATUAL POR CULPA DO ADQUIRENTE DO IMÓVEL. RETENÇÃO DE 15% DOS VALORES DESPENDIDOS. CABIMENTO. RAZOABILIDADE. AGRAVO NÃO PROVIDO.
+1. É entendimento do STJ que "é abusiva a cláusula que fixa a multa pelo descumprimento do contrato com base não no valor das prestações pagas, mas, no valor do imóvel, onerando demasiadamente o devedor" (REsp 907.856/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/06/2008, DJe de 1º/07/2008).
+2. Quanto ao percentual da multa, a jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. Precedentes.
+3. Ademais, não é possível na via especial rever a conclusão contida no aresto atacado acerca do percentual retido a título de cláusula penal melhor condizente com a realidade do caso concreto e a finalidade do contrato, pois a isso se opõem os óbices contidos nas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.180.352/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018 - grifou-se).
+Ademais, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. TROCA DE UNIDADE IMOBILIÁRIA. PARCELAS PAGAS. PERCENTUAL DE RETENÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu.
+2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso, o Tribunal de origem, dadas as peculiaridades do caso, em que se discute a troca de unidades imobiliárias, entendeu que a retenção de valores prevista no contrato era abusiva. Decidir de modo contrário demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+5. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 e 282 do STF e 211, 5 e 7 do STJ. Além disso, "decisões monocráticas são imprestáveis à comprovação do dissídio jurisprudencial" (AgInt no AREsp n. 964.261/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 16/11/2016).
+6. Agravo interno a que se nega provimento" (AgInt no REsp 1.920.301/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO. RETENÇÃO INTEGRAL DAS PARCELAS PAGAS PELO PROMITENTE-COMPRADOR. CLÁUSULA ABUSIVA. OFENSA AOS ARTIGOS 51, INCISO IV, E 53 DO CÓDIGO DE DEFESA DO CONSUMIDOR. DECISÃO AGRAVADA MANTIDA.
+1. É ilegal e abusiva a cláusula do distrato de promessa de compra e venda que estipula a retenção integral das parcelas pagas pelo promitente-comprador. Ofensa aos artigos 51, IV, e 53 do Código de Defesa do Consumidor.
+2. A reforma do julgado demandaria a análise de cláusulas contratuais e o reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido" (AgRg no REsp 434.945/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/12/2011, DJe 07/12/2011).
+Por fim, extrai-se das razões recursais que a parte recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..) quanto ao argumento de que o IPTU e demais despesas de fruição do imóvel seriam de responsabilidade do comprador, verifico que não houve a completa transferência da propriedade do bem, pelo que não haveria responsabilidade do comprador durante o lapso para rescisão do contrato" (fl. 234, e-STJ- grifou-se).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NULIDADE DO NEGÓCIO JURÍDICO. MIGRAÇÃO DO PLANO DE SAÚDE. INFORMAÇÃO INSUFICIENTE ACERCA DA AMPLITUDE DO NOVO PLANO. SÚMULA 7/STJ. 3. DANO MORAL RECONHECIDO. NÃO IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. (..).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido" (AgInt no AREsp 1.091.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/9/2017 - grifou-se).
+De mais a mais, encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO INTERNO. AGRAVO. RAZÕES RECURSAIS DISSOCIADAS DO QUE RESTOU DECIDIDO NA DECISÃO AGRAVADA. SÚMULAS 283 E 284/STF. AGRAVO IMPROVIDO.
+1.- Estando as razões do Agravo Interno dissociadas do que restou decidido na Decisão agravada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+2.- Agravo Regimental improvido" (AgRg no AREsp 279.074/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 25/4/2013).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
