@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo interposto por JOÃO VITOR ALMEIDA ZENI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 519-520):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CÉDULA DEPRODUTO RURAL. CERCEAMENTO DE DEFESA. SÚMULA Nº 28 DO TJGO. NÃO DEMONSTRADO. FALTA DE FUNDAMENTAÇÃO DA SENTENÇA. AFASTADA. PAGAMENTO PARCIAL DO DÉBITO. NÃO COMPROVADO. TÍTULO DE CRÉDITO CERTO, LÍQUIDO E EXIGÍVEL. SENTENÇA MANTIDA.
+1. Afasta-se a preliminar de cerceamento de defesa, suscitada em razão do julgamento antecipado da lide, quando existem nos autos provas suficientes à formação do convencimento do juiz e a parte interessada não se desincumbe do ônus de demonstrar o seu prejuízo, sem o qual não há de se falar em nulidade, como dispõe a súmula nº 28 do TJGO.
+2. Não há falar em deficiência de fundamentação do ato judicial se o magistrado registrar, ainda que de forma concisa, os fundamentos que o levaram a adotar tal medida. Precedentes do STJ.
+3. É pacífico, tanto no seio doutrinário, quanto na jurisprudência, o entendimento de que o pagamento se prova, não se presume. É inconcebível supor a satisfação de um débito, sem que haja a prova do pagamento da obrigação ao credor, tampouco se pode cogitar em atribuir esse ônus probatório ao credor, já que cabe ao devedor demonstrar por meios idôneos que satisfez a prestação.
+4. A Cédula de Produto Rural é um título representativo de promessa de entrega de produtos rurais, com ou sem garantia cedularmente constituída e, uma vez comprovado que o título foi emitido para pagamento de débitos derivados da aquisição de insumos agrícolas e financiamento da lavoura, preenchidos estão os requisitos do art. 3º da Lei federal nº 8.292/94, sendo o título líquido, certo e exigível, não havendo que se falar em nulidade.
+5. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+Embargos de declaração rejeitados (fls. 549-551).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489, § 1º, II, e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido, e que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Sustenta, ainda, afronta aos arts. 370, parágrafo único, e 371, também, do CPC, ao defender, em síntese a ocorrência de cerceamento de defesa no caso, em desrespeito ao devido processo legal, considerando a negativa de produção da prova testemunhal e pericial requeridas nos embargos à execução, essencial ao deslinde justo da controvérsia.
+Suscita também dissídio jurisprudencial com aresto de outros tribunais.
+Sem contrarrazões ao recurso especial (fl. 576).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 578-582), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 601-606).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+No caso dos autos, pleiteiam os recorrentes o reconhecimento de ocorrência de cerceamento de defesa porquanto não lhes foi dada oportunidade à produção de provas.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao entender pela inexistência de cerceamento de defesa, no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 190- 191):
+Cabe assinalar, inicialmente, que o magistrado é o destinatário das provas e que, pelo seu livre convencimento motivado, decide se há necessidade de maiores dilações probatórias, assegurando os direitos do contraditório e ampla defesa constitucionalmente previstos no artigo 5º, inciso LV, da Constituição Federal e no artigo 7º do Código de Processo Civil.
+Nesse sentido, vejo por oportuno colacionar aos autos jurisprudência desta Corte de Justiça, verbatim:
+(..)
+Na espécie, entretanto, não se verifica qualquer afronta aos princípios do contraditório e da ampla defesa, porquanto o meio de prova que o embargante/apelante pretendia produzir, qual seja a realização de prova testemunhal e perícia técnica, mostram-se desnecessárias porquanto os documentos anexados aos autos são suficientes para o julgamento da lide por se tratar de matéria de direito e não de fato.
+Ademais, cumpre mencionar que não basta o argumento de ocorrência de cerceamento do direito de defesa, é preciso que se demonstre a pertinência do que foi suprimido, além da aptidão para alterar o posicionamento adotado.
+Destarte, repiso, conquanto tenha o embargante/apelante pugnado pela produção de prova testemunhal e perícia técnica para a comprovação dos fatos alegados, verifica-se que o feito se encontra instruído com provas documentais suficientes hábeis à formação do convencimento do magistrado, possibilitando o seu julgamento.
+Assim, sabe-se que a norma legal autoriza o julgamento antecipado da lide, quando existirem nos autos elementos suficientes para a sua elucidação, sendo desnecessária a produção de outras provas pleiteadas pelas partes litigantes, nos termos do artigo 355 do Código de Processo Civil.
+(..)
+Portanto, no caso, não há que se falar em cerceamento do direito de defesa do recorrente.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. OMISSÃO. AUSÊNCIA. INCONFORMISMO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO DA DÍVIDA. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que era desnecessária a dilação probatória. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. O prazo prescricional não tem sua contagem iniciada a partir do vencimento antecipado 4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.219.123/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Por fim , quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
