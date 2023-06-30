@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CRISTIAN CÉSAR ARAUJO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento do HC n. 0728827-42.2022.8.07.0000.
+Consta dos autos que, em 27/08/2022, o Juízo de primeiro grau homologou a prisão em flagrante do Paciente, em razão da suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, assentada em que decretou a prisão preventiva do suspeito (fls. 171-174).
+Está descrito que o Laudo Pericial de Exame em Substância "constatou uma porção com 108,11g de cocaína, dez porções com 37,39g de cocaína, duas porções com 9,61g de maconha, uma porção com 40,38g de maconha, cinco porções com 17,22g de cocaína e uma porção com 2,47g de cocaína, além de duas balanças digitais" (fl. 220).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 250-257).
+Neste writ, sustenta a nulidade do acórdão que confirmou a prisão cautelar, tendo em vista que a Corte de origem agregou fundamentos ao decreto constritivo para suprir a deficiência na motivação.
+Pontua a ilegalidade na prisão em flagrante. Isso porque "conforme os relatos dos policiais estes ingressaram no imóvel e posteriormente na casa do paciente, apreendendo o material apresentado no feito, os quais não tinham fundada suspeita para tanto, apenas a informação de um usuário de drogas, que supostamente teria adquirido drogas naquele imóvel" (fl. 14).
+Destaca a ausência de motivação idônea para a imposição da prisão cautelar e a inexistência dos requisitos necessários para a subsistência da medida. Assevera que "toda a medida cautelar que vem fundamentada de forma genérica, ou seja, somente na vida pregressa do paciente, perde a finalidade de medida cautelar, se tornando verdadeira pena antecipada e, por conseguinte, de prévio e precário juízo condenatório" (fl. 23).
+Indica a suficiência das medidas cautelares diversas da prisão.
+Enfatiza que, por ser pai de uma criança que depende do Paciente para a sua subsistência, deve ser concedida a prisão domiciliar ao Paciente.
+Requer, em liminar e no mérito, a concessão da ordem para revogar a prisão cautelar.
+O pedido liminar foi indeferido às fls. 285-290.
+Informações prestadas às fls. 296-323.
+O Ministério Público Federal manifestou-se às fls. 325-334, opinando pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que, no dia 12/05/2023, o Juízo condutor da ação penal proferiu sentença, condenando o Paciente como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena privativa de liberdade de 7 (sete) anos e 6 (seis) de reclusão, em regime inicial fechado, além do pagamento de 750 (setecentos e cinquenta) dias-multa.
+Da leitura da sentença, observo que está prejudicada a tese relacionada à suposta violação de domicílio, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, a alegada nulidade das provas obtidas na entrada do domicílio, o que prejudica a análise do tema nesta oportunidade.
+Exemplificativamente:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO E FALSIDADE IDEOLÓGICA. NULIDADE. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO POR DEFENSOR DATIVO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. JUÍZO DE COGNIÇÃO MAIS AMPLO. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL.
+1. Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita.
+2. A posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença.
+3. Agravo regimental improvido." (AgRg no RHC 71.840/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018.)
+Na oportunidade, o Magistrado sentenciante negou o apelo em liberdade (consoante a regra prevista no art. 387, § 1º, do Código de Processo Penal) e, para tanto, valeu-se de novos fundamentos:
+"Por outro lado, o sentenciado CRISTIAN respondeu ao processo preso e entendo que ainda estão presentes os motivos autorizadores da segregação cautelar do agente. Isso porque, tendo em vista a quantidade de pena fixada, o regime de cumprimento da reprimenda corporal definido para o réu e a negativa para substituição da expiação corporal por restrição a direitos, há como visualizar os requisitos autorizadores da custódia cautelar, por necessidade, em especial, para a garantia da ordem pública, impondo-se, inclusive por imperatividade e a fim de evitar novos delitos, a manutenção da prisão preventiva do acusado. Isto posto, com lastro nas razões acima pontuadas, MANTENHO A PRISÃO PREVENTIVA do acusado, a fim de assegurar a garantia da ordem pública e da aplicação da lei penal."
+Assim, conforme afirmado na decisão agravada, a verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).
+Nesse sentido:
+" ..  1. A decisão ora atacada está em perfeita harmonia com a orientação consolidada nesta Corte, no sentido de que a superveniência de sentença condenatória, na qual se nega ao réu o direito de recorrer em liberdade por fundamentos diversos do decreto prisional impugnado, torna prejudicado o pleito." (AgRg no RHC 110.729/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/02/2020, DJe 20/02/2020.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. TESE DE ILEGALIDADE DAS PROVAS EM RAZÃO DA ALEGADA INVASÃO DE DOMICÍLIO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA INSURGÊNCIA. MANUTENÇÃO DA PRISÃO CAUTELAR. NOVOS FUNDAMENTOS. HABEAS CORPUS PREJUDICADO.
