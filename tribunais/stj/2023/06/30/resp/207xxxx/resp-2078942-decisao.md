@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a União interpôs agravo de instrumento contra decisão, em cumprimento individual de sentença coletiva, que acolheu parcialmente a impugnação, apenas para reconhecer excesso de execução, mas afastando a alegada ilegitimidade ativa da parte exequente.
+O TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO deu provimento ao agravo de instrumento da União, ficando consignado que a ilegitimidade da parte constitui matéria de ordem pública, cognoscível de ofício pelo julgador, em qualquer tempo e grau de jurisdição, e, portanto, não está sujeita à preclusão..
+O referido acórdão foi assim ementado, in verbis:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTEÇA COLETIVA. ILEGITMIDADE ATIVA AD CAUSAM. SINDICATO DOS TRABALHADORES EM SAÚDE, TRABALHO E PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO, - SINDSPREV/RJ. SERVIDORA PÚBLICO FEDERAL VINCULADA AO MINISTÉRIO DA SAÚDE. AUSENCIA DE REGISTRO. AGRAVO PROVIDO.
+1. Agravo de Instrumento interposto pela UNIÃO - ADVOCACIA GERAL DA UNIÃO em face de SYRLENE DA SILVA SAMPAIO, com pedido de liminar, objetivando cassar a decisão proferida pelo Juízo da 21ª Vara Federal do Rio de Janeiro - Seção Judiciária do Rio de Janeiro, que acolheu parcialmente a impugnação da executada, apenas para reconhecer o excesso de execução, fixando o valor da execução em R$17.709,36, com o acréscimo dos honorários advocatícios.
+2. A ilegitimidade da parte constitui matéria de ordem pública, cognoscível de ofício pelo julgador, em qualquer tempo e grau de jurisdição, e, portanto, não está sujeita à preclusão. Ademais, deve prevalecer o princípio da indisponibilidade do interesse público, havendo que se considerar, ainda, que poderá haver enriquecimento sem causa da exequente, em caso de manutenção da decisão agravada.
+3. Cinge-se a controvérsia à legitimidade ativa ad causam da exequente, ora agravada, devendo-se averiguar se ela, enquanto servidora público federal vinculada ao Ministério da Saúde, é legitimada para executar a sentença decorrente do ajuizamento de ação coletiva pelo Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social do Estado do Rio de Janeiro, - SINDSPREV/RJ.
+4. Há precedentes no Superior Tribunal de Justiça no sentido de que a legitimidade dos sindicatos para representar determinada categoria depende do devido registro no Ministério do Trabalho, obedecendo-se o princípio da unidade sindical.
+5. Desta forma, como o cadastro do SINDSPREV/RJ perante o Ministério do Trabalho indica que representa apenas os trabalhadores da Previdência Social, não há que se falar em direito de representação por parte dos servidores da saúde.
+6. Assim, analisando-se os autos, conclui-se assistir razão à Agravante, eis que a decisão objurgada encontra-se destoante do entendimento acima vertido, devendo ser reconhecida a ilegitimidade da exequente, ora agravada, uma vez que não se enquadra na categoria de Trabalhadores da Previdência Social, o que deságua, por conseguinte, na extinção do feito sem resolução do mérito, ante a inexequibilidade do título.
+7. Agravo de Instrumento provido.
+Não foram opostos embargos de declaração.
+Foi interposto o presente recurso especial, em que se aponta violação do art. 16 da Lei n. 7.347/1985 e do art. 502 do CPC.
+Sustenta, em síntese, que não houve discussão quanto a representatividade sindical, ou seja, não há que se falar em ilegitimidade nesta fase de cumprimento de sentença, sob pena de ofensa a coisa julgada.
+Alega, ainda, que ainda que se verifique eventual nulidade processual ocorrida em fase de conhecimento, a preclusão impede que sejam alegadas novas questões em fase de cumprimento de sentença.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não merece acolhimento a presente irresignação.
+Isso porque é firme o entendimento do STJ de que não se verifica a preclusão nas instâncias ordinárias quando se discutem as condições da ação e os pressupostos processuais, dentre eles a ilegitimidade das partes, caso em que é possível a apreciação de ofício pelo julgador.
+Veja-se:
+PROCESSUAL CIVIL. FUNDAMENTAÇÃO CONSTITUCIONAL NÃO IMPUGNADA. SÚMULA Nº 126/STJ. CUMPRIMENTO DE SENTENÇA. AFERIÇÃO DA LEGITIMIDADE PARA A EXECUÇÃO DO TÍTULO EXECUTIVO JUDICIAL. PRECLUSÃO. REVISÃO DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. O Tribunal de origem, ao analisar a controvérsia, fundou o seu entendimento em preceito de natureza constitucional (princípio da unicidade recursal). Entretanto, em relação à referida fundamentação constitucional, não houve a interposição de recurso extraordinário, o que atrai a incidência da Súmula 126/STJ.
+2. "Esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o entendimento do tribunal de origem acerca do teor do título em execução, para aferir eventual ofensa à coisa julgada, à luz do enunciado da Súmula 7/STJ". Precedente.
+3. "A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus". Precedente.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.260.975/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Afasta-se a ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema:
+AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+3. No mais, o acórdão recorrido foi proferido em harmonia com a jurisprudência desta Corte, firme no sentido de que a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.075.944/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplic ado, o trabalho adicional realizado pelos advogados, cuja condenação ficará suspensa por ser a parte autora beneficiária da Justiça Gratuita, com fulcro no art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
