@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por UNIÃO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ÍNDICE DE CORREÇÃO MONETÁRIA SOBRE O VALOR PRINCIPAL. APLICAÇÃO DOS TEMAS 810 DO STF E 905 DO STJ. NOVA FIXAÇÃO DE HONORÁRIOS EM IMPUGNAÇÃO. POSSIBILIDADE.
+1. Da combinação das decisões do STF e do STJ nos recursos repetitivos 810/STF e 905/STJ, e do julgamento da ADI 5.348 (trânsito em julgado em 07/12/2019), resulta o seguinte posicionamento quanto à correção monetária a ser aplicada nos débitos judiciais a partir de julho de 2009: é incabível a aplicação da TR a título de correção monetária da dívida, que deve ser apurada pela aplicação do índice adequado à natureza da dívida, indicado pelo STJ.
+2. Caso os honorários tenham sido fixados inicialmente apenas sobre a parcela do débito que venha a se mostrar incontroversa (não impugnada), eventual rejeição da impugnação poderá dar azo à fixação de honorários também sobre a parcela do débito impugnada e cuja exigibilidade tenha sido confirmada no julgamento da impugnação. Nessas hipóteses, terá ela sido excluída da base de cálculo dos honorários iniciais, e por isso não há bis in idem, devendo os honorários incidir, em princípio, sobre a totalidade do valor tido como devido" (fl. 41e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 53/57e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO.
+1. A retificação do acórdão por meio de embargos de declaração só tem cabimento na hipótese de inexatidão material, omissão, contradição ou obscuridade.
+2. Os embargos declaratórios não servem ao objetivo de rediscutir o mérito da causa.
+3. O julgador não está obrigado a se manifestar sobre todas as teses levantadas pelas partes, bastando que os fundamentos utilizados tenham sido suficientes para embasar a decisão" (fl. 75e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta, violação aos arts. 1.022, II, do CPC/2015; 85, §§ 1º, 7º e 11, 927, III, do CPC/2015; e 884 a 886 do CC/02, sustentando, em síntese, que:
+" Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença
+(..)
+"Se descabidos os próprios honorários, indevida a majoração"
+(..)
+"Até porque no caso concreto, como o pagamento ocorre por RPV, houve o arbitramento de honorários de 10% para a fase de execução, conforme despacho de evento 4: "Nesse caso, não serão devidos honorários (art. 85, § 7º,do CPC), exceto se for caso de execução individual de sentença proferida em ação coletiva (Tema n. 973 do Superior Tribunal de Justiça), ou de expedição de requisição de pequeno valor. Para essas situações, fixo-os nos percentuais mínimos, considerando o valor final do crédito e os critérios previstos no art. 85, §3º, do CPC" (fls. 96/98e)
+Por fim, requer "seja o recurso conhecido e provido, para reformar o acórdão do TRF4. Se assim não entender a C. Turma, a autarquia/fundação federal requer a anulação da decisão que rejeitou os embargos de declaração, por afronta ao artigo 1.022, do CPC, para que o Tribunal Regional profira outra, suprindo a omissão sobre a matéria federal que embasa a tese do recorrente" (fl.100e).
+Contrarrazões a fls. 107/113e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls.116/119e).
+In casu, a Primeira Seção do STJ, na sessão virtual de 15/03/2023 a 21/03/2023, apreciando os Recursos Especiais 2.031.118/SP, 2.029.675/SP e 2.029.636/SP, todos da relatoria do Ministro HERMAN BENJAMIN, afetou os feitos à sistemática dos recursos repetitivos (RISTJ, art. 257-C), assim enunciando a tese repetitiva:
+"Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV".
+No mesmo julgamento, foi determinada a suspensão de todos os recursos especiais e agravos em recurso especial que versem sobre a questão delimitada e tramitem na segunda instância e/ou nesta Corte superior.
+Conforme a jurisprudência do STJ, havendo afetação ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma matéria no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado. Nesse sentido: EDcl no AgInt no AREsp 1.445.132/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2019; EDcl no AgInt no REsp 1.478.016/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/4/2018.
+Ante o exposto, com fundamento no art. 1.037, II, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão referente ao tema afetado, com posterior juízo de conformidade, nos termos do art. 1.040 do CPC/2015.
+I.
