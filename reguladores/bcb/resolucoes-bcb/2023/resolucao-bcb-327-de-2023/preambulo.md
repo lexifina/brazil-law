@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 327, DE 14 DE JUNHO DE 2023
+Altera a Resolução BCB nº 207, de 22 de março de 2022, que consolida e altera atos normativos referentes à remessa de informações sobre o controle da exposição ao risco de liquidez e sobre o indicador Liquidez de Curto Prazo (LCR).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 14 de junho de 2023, com base no disposto nos arts. 10, inciso IX, 11, inciso VII, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, no art. 9º-A da Lei nº 4.728, de 14 de julho de 1965, no art. 1º, § 1º, da Lei Complementar nº 130, de 17 de abril de 2009, no art. 9º, incisos II e VIII, da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto na Resolução nº 4.401, de 27 de fevereiro de 2015, na Resolução nº 4.553, de 30 de janeiro de 2017, na Resolução CMN nº 5.061, de 16 de fevereiro de 2023, e nas Resoluções BCB ns. 197, de 11 de março de 2022, e 265, de 25 de novembro de 2022,
+R E S O L V E :
