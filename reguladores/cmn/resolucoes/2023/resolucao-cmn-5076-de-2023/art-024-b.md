@@ -1,0 +1,1 @@
+Art. 24-B. A estrutura simplificada de gerenciamento contínuo de riscos, de que trata o art. 21, deve prever, adicionalmente, para o risco de liquidez processos para identificar, avaliar, monitorar e controlar a exposição ao risco de liquidez em diferentes horizontes de tempo, inclusive intradia.

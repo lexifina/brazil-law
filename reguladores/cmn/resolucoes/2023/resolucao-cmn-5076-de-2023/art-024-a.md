@@ -1,0 +1,3 @@
+Art. 24-A. Para fins desta Resolução, define-se o risco de liquidez como a possibilidade de a instituição:
+I - não ser capaz de honrar eficientemente suas obrigações esperadas e inesperadas, correntes e futuras sem afetar suas operações diárias e sem incorrer em perdas significativas; ou
+II - não ser capaz de converter moeda eletrônica em moeda física ou escritural no momento da solicitação do usuário.
