@@ -1,0 +1,4 @@
+Resolução Nº 222 RESOLUÇÃO BCB Nº 310, DE 12 DE ABRIL DE 2023
+Altera a Resolução BCB nº 2, de 12 de agosto de 2020, que consolida os critérios gerais para elaboração e divulgação de demonstrações financeiras individuais e consolidadas pelas administradoras de consórcio e pelas instituições de pagamento e os procedimentos para elaboração, divulgação e remessa de demonstrações financeiras que devem ser observados pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 12 de abril de 2023, com base nos arts. 9º da Lei nº 4.595, de 31 de dezembro de 1964, 6º e 7º, inciso III, da Lei nº 11.795, de 8 de outubro de 2008, 9º, incisos II e IX, alínea "b", e 15 da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
