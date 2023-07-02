@@ -1,0 +1,2 @@
+Altera as Leis nºs 9.656, de 3 de junho de 1998, e 9.797, de 6 de maio de 1999, para assegurar às pacientes a substituição do implante mamário utilizado na reconstrução mamária ou na simetrização da mama contralateral sempre que ocorrerem complicações ou efeitos adversos a ele relacionados, bem como assegurar às pacientes acompanhamento psicológico e multidisciplinar especializado na hipótese que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
