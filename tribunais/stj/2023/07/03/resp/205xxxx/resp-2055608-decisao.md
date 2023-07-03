@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Obrigação de pagar. Estado de São Paulo. Decisão que indeferiu o pedido de fixação de honorários advocatícios, nos termos do artigo 85, § 7º do CPC. Reforma que se impõe, nos termos do RE 420816 ED/PR.
+1. STF esclareceu que a regra de não pagamento de honorários advocatícios pela Fazenda Pública, nas execuções por ela não embargadas, não alcança casos de pagamento de obrigações definidas em lei como de pequeno valor (CF/88, art. 100, caput e § 3º).
+2. Cabimento do arbitramento da honorária, para os créditos a serem recebidos por meio de requisição de pequeno valor. Precedentes da C. Câmara.
+3. Recurso provido para arbitrar a verba honorária (fl. 65).
+É o sucinto relatório.
+A questão debatida nos autos, qual seja, a "possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento, sob o rito dos recursos repetitivos, dos Recursos Especiais 2.029.636/SP, 2.029.675/SP, 2.030.855/SP e 2.031.118/SP, da relatoria do Ministro Herman Benjamin (Tema 1.190).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação dos acórdãos dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
