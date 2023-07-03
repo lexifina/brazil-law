@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 296):
+AGRAVO DE INSTRUMEN TO. AGRAVO INTERNO. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. JULGAMENTO SIMULTÂNEO. AGRAVO INTERNO. PROBABILIDADE DIREITO. INEXISTENTE. RECURSO CONHECIDO E NÃO PROVIDO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VERBA DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. OBSERVÂNCIA. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA.
+1. A concessão da antecipação da tutela recursal resta condicionada à probabilidade do direito, existência de risco de lesão grave proveniente da decisão interlocutória agravada e à relevância da fundamentação deduzida.
+1.1. No caso dos autos há probabilidade do direito alegado, existindo motivos para concessão do efeito pleiteado. Agravo Interno não provido.
+2. O Superior Tribunal de Justiça, em sede de julgamento de recurso repetitivo, firmou o entendimento de que são devidos honorários sucumbenciais em benefício do executado, no caso de acolhimento da impugnação, ainda que parcial. REsp 1134186/RS.
+3. Segundo o Princípio da Causalidade, deve arcar com os honorários advocatícios a parte que deu ensejo ao ajuizamento da ação.
+4. No caso, ainda que tenha havido o acolhimento parcial da exceção de pré- executividade, a fixação da verba de sucumbência deve ser analisada sob a ótica do Princípio da Causalidade por se reconhecer que o comparecimento das herdeiras aos autos, em exceção de pré-executividade, aduzindo o reconhecimento da ilegitimidade passiva para a Execução se deu em razão da sua demora em iniciar o inventário extrajudicial.
+6. Recursos conhecidos. Agravo Interno não provido. Decisão mantida. Agravo de Instrumento provido. Decisão reformada.
+Não foram opostos embargos de declaração ao referido acórdão.
+Em suas razões (e-STJ fls. 326/340), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 1.997 do CC e 796 do CPC/2015, porquanto "o fato de inexistir, até aquele momento em que o banco Recorrido se manifesta nos autos da execução  e  diz que procurou e não encontrou inventário aberto, não faz dos filhos (sucessores), individualmente considerados, partes legítimas para responder pela obrigação, pois, como assinalado, enquanto não há partilha, é a herança que responde por eventual obrigação deixada pelo de cujus e é o espólio, como parte formal, que detém legitimidade passiva ad causam para integrar a lide" (e-STJ fls. 334/335),
+(ii) art. 988, VI, do CPC/1973 (art. 616, VI, do CPC/2015), sob o argumento de que o fato de inexistir o inventário não impediria o prosseguimento do feito, pois, nos termos do referido dispositivo, o credor do autor da herança tem legitimidade concorrente para requerer a abertura de inventário e partilha,
+(iii) art. 85 do CPC/2015, tendo em vista que, "em razão das Recorrentes não responderem sobre o débito, cabe ao banco Recorrido (que perdeu a exceção) a condenação em honorários advocatícios" (e-STJ fl. 336).
+Contrarrazões apresentadas às fls. 368/372 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Da violação dos arts. 1.997 do CC, 796 do CPC/2015 e 988, VI, do CPC/1973 (art. 616, VI, do CPC/2015)
+As teses (i) de legitimidade do espólio para responder pelas dívidas do falecido enquanto não aberto o inventário e (ii) de legitimidade concorrente do credor do autor da herança para requerer a abertura de inventário e partilha, bem como a alegação de violação dos arts. 1.997 do CC, 796 do CPC/2015 e 988, VI, do CPC/1973 (art. 616, VI, do CPC/2015), não foram objeto de pronunciamento por parte do Tribunal de origem.
+Ademais, a Corte local sequer foi instada, por via de embargos declaratórios, a se manifestar acerca das questões citadas.
+Referida circunstância impede o conhecimento da insurgência por falta de prequestionamento.
+Incidem ao caso as Súmulas n. 282 e 356 do STF.
+Da ofensa ao art. 85 do CPC/2015
+Quanto aos honorários advocatícios sucumbenciais, o Tribunal de origem entendeu que, "no caso dos autos, (..) necessário analisar a fixação dos honorários sucumbenciais sob a ótica do princípio da causalidade" (e-STJ fl. 306).
+Registrou que "a inclusão das herdeiras como executadas se deu em razão de sua demora em iniciar o inventário extrajudicial" e que "conforme bem esclarecido pelo exequente, ora agravante, em buscas realizadas judicial e extrajudicialmente, não foi localizada a existência e inventário em nome do executado" (e-STJ fl. 306).
+Concluiu que "o exequente (..) não deu causa à necessidade de as herdeiras (..) comparecerem aos autos, em exceção de pré executividade, aduzindo o reconhecimento da ilegitimidade pass iva para a Execução ante a declaração de inventário negativo", e que "consta no teor do inventário que as herdeiras, ora agravadas, tinham ciência da presente Execução, o que leva à conclusão de que, mesmo ciente das dívidas do genitor, realizaram inventário tardio", de sorte que "resta claro que na hipótese vertente recaiu sobre as herdeiras, ora agravadas, a causa pelo ajuizamento da demanda em curso" (e-STJ fl. 307 - grifei).
+No recurso especial, entretanto, apontando contrariedade ao art. 85 do CPC/2015, a parte sustenta apenas (i) que o inventário negativo é um procedimento facultativo, (ii) que "não há que ser aplicado o princípio da causalidade" (e-STJ fl. 335) e (iii) que, "em razão das Recorrentes não responderem sobre o débito, cabe ao banco Recorrido (que perdeu a exceção) a condenação em honorários advocatícios" (e-STJ fl. 336).
+Inexiste, p ortanto, nas razões do especial, impugnação específica dos fundamentos do acórdão recorrido, os quais, em suma, sustentam que, tivessem as recorrentes, uma vez cientes das dívidas do genitor, realizado o inventário negativo em momento oportuno, nem sequer teria ocorrido o ajuizamento da demanda em curso, o que, via de consequência, afastaria a necessidade de as herdeiras comparecerem aos autos, em exceção de pré-executividade, aduzindo o reconhecimento da ilegitimidade passiva para a Execução ante a declaração de inventário negativo.
+Incide a Súmula n. 283/STF.
+A título meramente argumentativo, assinala-se ainda que esta Corte Superior possui entendimento no sentido de que a alteração das conclusões adotadas pelo Tribunal local acerca da aplicação do princípio da causalidade, tal como delineada a questão, demanda incursão na seara fático-probatória dos autos, providência vedada em recurso especial, a teor da Súmula n. 7/STJ.
+Nesse sentido: AgInt no AREsp n. 2.189.349/SP, de minha relatoria, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022; e AgInt no AREsp n. 1.958.844/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
