@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo FAZENDA DO ESTADO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA local, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 225):
+APELAÇÃO - INDENIZAÇÃO - RESPONSABILIDADE CIVIL - ESTADO DE SÃO PAULO - Incidente, nas dependências de escola estadual, envolvendo dois alunos, durante o período de aula - Comprometimento da visão de um dos alunos comparável à cegueira monocular - Pretensão indenizatória - Procedência decretada em primeira instância - Insurgência fazendária - Não acolhimento - Incontroverso o preenchimento dos requisitos necessários à caracterização da responsabilidade da parte requerida - Laudo pericial assertivo em demonstrar as consequências deletérias no incidente na escola - Quantum indenizável acertadamente fixado pelo Juízo de origem - Sentença mantida - Recurso improvido.
+Embargos de declaração parcialmente acolhidos em julgamento assim sumariado (e-STJ fl. 258):
+EMBARGOS DE DECLARAÇÃO - Supostas omissões - Art. 1.022 do CPC - Acolhimento parcial tão somente no que diz respeito aos índices dos juros de mora correlatos à condenação fazendária - Art. 1.022 do CPC - Embargos acolhidos em parte.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 884 e 944 do Código Civil, argumentando que os danos morais foram fixados em patamar excessivo.
+Contrarrazões às e-STJ fls. 285/287.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+O parecer ministerial, às e-STJ fls. 355/361, opina pelo desprovimento do recurso especial.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No caso, o Tribunal a quo manteve o montante indenizatório fixado na sentença, nos termos da seguinte motivação (e-STJ fls. 225/234):
+Trata-se de Recurso de Apelação (fls. 173/183), interposto pelo ESTADO DE SÃO PAULO, contra a r. sentença de fls. 161/164, na qual o Juízo a quo julgou procedente o pedido formulado pelo autor, condenando o réu, ora apelante, ao pagamento de "R$ 100.000,00 (cem mil reais) por danos morais e R$ 100.000,00 (cem mil reais) por dano reflexo à sua genitora".
+ ..
+Ultrapassado esse ponto, no tocante à quantificação do pleito, o valor arbitrado em primeira instância não se mostra desarrazoado, mormente tendo em vista as consequências nefastas e irreversíveis decorrentes da ineficiência do dever de vigilância do Estado e por ter sido a única medida indenizatória fixada em primeira instância.
+Com efeito, a pretensão destinada à alteração da indenização arbitrada a título de danos morais encontra óbice na Súmula 7 do STJ, pois esta Corte entende que a revisão do quantum indenizatório somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos, em que foi fixada a indenização de R$ 200.000,00 (duzentos mil reais) por danos morais, em razão de sequelas físicas (perda da visão do olho esquerdo), após incidente ocorrido dentro de Instituição de Ensino.
+Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DANOS MORAIS. QUANTUM ESTABELECIDO. REVISÃO DO CONTEXTO FÁTICO- PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Ação Civil Pública ajuizada pelo Ministério Público Federal em face do Conselho Regional de Medicina do Mato Grosso do Sul - CRM/MS e de Alberto Jorge Rondon de Oliveira, em razão da realização de reiteradas cirurgias plásticas das quais derivaram danos materiais, morais e estéticos em diversos pacientes, objetivando a condenação dos réus à indenização pelas sequelas advindas dos procedimentos cirúrgicos indevidamente realizados pelo ex-médico (fl. 257, e- STJ).
+2. O Tribunal de origem, à luz das circunstâncias fáticas da causa, arbitrou os danos morais. Deste modo, a revisão do quantum estabelecido enseja o reexame fático- probatório dos autos, procedimento vedado pela Súmula 7/STJ.
+3. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais fixado na origem, a jurisprudência permite o afastamento do óbice da Súmula 7 do STJ. No caso dos autos, verifica-se que o quantum estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em Recurso Especial.
+4. Recurso Especial não conhecido. (REsp 1.675.082/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 16/10/2017). (Grifos acrescidos).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
