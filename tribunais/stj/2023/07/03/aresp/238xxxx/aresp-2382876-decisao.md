@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por MONGERAL AEGON SEGUROS E PREVIDÊNCIA S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - SEGURO DE VIDA - INVALIDEZ POR ACIDENTE - CAPITAL SEGURADO - APÓLICE - INDENIZAÇÃO SECURITÁRIA- GRAU DE INVALIDEZ. O CAPITAL SEGURADO DEVIDO É AQUELE PREVISTO EM APÓLICE ENTREGUE AO SEGURADO E VIGENTE AO TEMPO DO SINISTRO. TRATANDO-SE DE INVALIDEZ PERMANENTE POR ACIDENTE, O VALOR DA INDENIZAÇÃO DEVE OBSERVAR O GRAU DE INVALIDEZ ACOMETIDO AO SEGURADO, CONFORME APURADO EM PERÍCIA MÉDICA JUDICIAL (fl. 574).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 757 e 760 do CC, no que concerne à possibilidade de redução do valor do capital segurado, uma vez que o valor do prêmio deve ser condizente com o risco predeterminado, sustentando que, ao longo dos anos houve a diminuição das parcelas de contribuição mensal pela autora. Aduz os seguintes argumentos:
+39. Mister informar, E. Câmara, que o v. acórdão prolatado, não está de acordo com o que prevê a lei, pois permitirá pagamento de indenização em desacordo com as cláusulas contratuais pactuadas.
+40. Esclarece a Recorrente que o valor R$ 300.000,00 determinado pela sentença foi o valor historicamente contratado em 23/05/2003 a título de indenização por invalidez por acidente, este que, obviamente, dependida da manutenção do pagamento das contribuições, bem como da aceitação dos reajustes monetários e etários para que viável a manutenção do benefício neste patamar.
+41. Ao longo dos anos, contudo, a contribuição quitada pela Recorrida sofreu sensível redução, o que, obviamente, por consequência, ocasionou a redução do valor do benefício, uma vez que a Seguradora não tem condições de promover a manutenção do seu equilíbrio atuarial e financeiro sem a contrapartida.
+42. Conforme documento juntado na contestação de ID 15155612, ficou demonstrada a ocorrência de diminuição do benefício uma vez que as parcelas de contribuição da Recorrida diminuíram também. Qual seria a lógica de manter um valor de indenização, se a Recorrida diminuiu sua contribuição  Nenhum.
+ ..
+46. DEVE SER TRAZIDO À TONA QUE A É ESTREITA RELAÇÃO ENTRE O PRÊMIO PAGO PELA SEGURADA E O CAPITAL SEGURADO. AFINAL, FAZEM PARTE DIRETAMENTE DO CÁLCULO ATUARIAL SOBRE O RISCO GARANTIDO PELA APÓLICE.
+47. Se em momento oportuno à segurada, esta resolveu diminuir o valor que lhe era obrigado a pagar pelo prêmio do seguro, não há que se falar em erro ou ato ilícito da Cia. em realizar a redução do valor do capital segurado.
+48. Até pelo princípio do mutualismo, que é comum a todo e qualquer contrato de seguro. Cada parte arca com a sua obrigação dentro da sua proporcionalidade 49. Portanto, mais do que lícita a redução do valor do capital segurado, não havendo que se falar em pagamento do capital contratado no início da relação, EM RAZÃO DA CONDUTA ÚNICA EXCLUSIVA DA SEGURADA EM REDUZIR O VALOR QUE LHE ERA DEVIDO PELO PRÊMIO DO SEGURO.
+50. A possibilidade de pagamento de indenização securitária fora das hipóteses delimitadas pela apólice representa nítida violação ao dispositivo legal que versa sobre o assunto (artigo 757 do Código Civil), bem como permite enriquecimento indevido, em especial se considerado o vultoso valor pugnado e expresso em apólice.
+ ..
+52. Note-se, portanto, que o E. Tribunal, deixou de considerar a previsão constante da apólice e condições gerais.
+53. E a intenção da seguradora é, tão somente, de chamar atenção aos limites que devem recair sobre tal previsão contratual.
+54. Isso porque a seguradora apenas pode suportar garantir cobertura pelos riscos predeterminados e nos limites dos danos sofridos, nos termos do artigo 757 e 760 do Código Civil (fls. 630- 632).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Diante desse contexto, a própria seguradora emitiu um certificado em nome da segurada, contemporâneo à data do sinistro, reconhecendo como devido o capital segurado global de R$300.000,00 (trezentos mil reais) para o evento invalidez acidental, hipótese em que se enquadra o sinistro acometido à falecida segurada.
+Nesse diapasão, não vem a calhar a tese de que o valor do capital segurado foi encolhendo ao longo de mais de uma década de contribuições mensais.
+ ..
+Nesse caminhar de ideias, o capital segurado total, para a invalidez acidental é aquele previsto expressamente na apólice, ou seja, R$300.000,00 (trezentos mil reais).
+ ..
+Noutro passo, as condições gerais do seguro contratado, juntadas nos autos pela própria segurada, ou seja, documento ao qual teve acesso, estabelece o pagamento da indenização securitária de acordo com o grau de incapacidade observado, vejamos:
+ ..
+Outrossim, para a hipótese de perda de um dos membros inferiores, a tabela constante das referidas condições gerais estabelece fazer jus o segurado ao recebimento de 70% (setenta por cento) do capital global segurado relativo ao evento invalidez acidental, conforme, aliás, é exatamente a tese recursal da seguradora (fls. 577- 581).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
