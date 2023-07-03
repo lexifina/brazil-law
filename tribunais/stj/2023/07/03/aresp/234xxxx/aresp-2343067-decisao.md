@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 518):
+Declaratória c.c. Indenização Questionamento de contratos com descontos em benefício previdenciário Legitimidades dos pactos reconhecida em Primeiro Grau, com condenação da autora às penas da litigância de má-fé Decisão correta Litigância de má-fé do advogado Afastamento Exegese do artigo 32 do Estatuto da OAB Precedentes do STJ Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 80, II, 81, 411, II, 428, I, 429, II, 489, § 1º, I, do Código de Processo Civil; aos arts. 104, III, 166, IV e V, 169, 215, § 2º, 595, do Código Civil; ao art. 37, § 1º, da Lei nº 6.015/1973.
+Sustenta que a simples apresentação de contrato, cuja autenticidade foi impugnada, não basta para se comprovar a regularidade da contratação.
+Defende a nulidade do contrato, considerando que a autora é idosa e analfabeta, é necessário instrumento público para a celebração do negócio.
+Busca afastar a pena aplicada em decorrência de litigância de má-fé.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que a questão de direito debatida nestes autos - no contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas - foi afetada pela Segunda Seção desta Corte Superior para julgamento sob o rito dos recursos repetitivos, Tema 1.116. Confira-se:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL INTERPOSTO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. CAUSA-PILOTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO. CONTROVÉRSIA ACERCA DA VALIDADE DO CONTRATO DE EMPRÉSTIMO CONSIGNADO ASSINADO A ROGO POR PESSOA ANALFABETA NA PRESENÇA DE DUAS TESTEMUNHAS.
+1. Controvérsia acerca da validade da contratação de empréstimo consignado por pessoa analfabeta mediante assinatura a rogo na presença de duas testemunhas.
+2. Julgamento de IRDR a respeito desse tema no Tribunal de origem, tendo-se firmado tese nos seguintes termos: "É considerado legal o instrumento particular assinado a rogo e subscrito por duas testemunhas para a contratação de empréstimos consignados entre pessoas analfabetas e instituições financeiras, nos ditames do art. 595 do CC, não sendo necessário instrumento público para a validade da manifestação de vontade do analfabeto nem procuração pública daquele que assina a seu rogo, cabendo ao poder judiciário o controle do efetivo cumprimento das disposições do artigo 595 do Código Civil".
+4. Acórdão recorrido fundamentado em matéria de direito federal, especialmente no art. 595 do Código Civil, que tem a seguinte redação: "No contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas".
+5. Julgamento na origem pela improcedência do pedido de anulação, sob o fundamento de validade da contratação a rogo, com duas testemunhas.
+6. Necessidade de formação de precedente qualificado a respeito desse tema no âmbito deste Tribunal Superior, a fim de preservar a missão constitucional deste Tribunal Superior como Corte de vértice em matéria de interpretação da lei federal.
+7. Questão federal afetada: "Validade (ou não) da contratação de empréstimo consignado por pessoa analfabeta, mediante instrumento particular assinado a rogo e subscrito por duas testemunhas".
+8. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp 1.943.178/CE, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 9/11/2021, DJe 17/11/2021)
+Com efeito, destaco que é possível ao relator, levando em consideração razões de economicidade processual, apreciar o recurso especial apenas quando exaurida a competência das instâncias ordinárias, na forma do art. 1.040, II e III, do Código de Processo Civil/2015 e 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do inciso II do art. 1.037 do Código de Processo Civil/2015, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia, e, após, que se proceda em conformidade com os comandos dos arts. 1.040 e 1.041 do Código de Processo Civil/2015.
+Intimem-se.
