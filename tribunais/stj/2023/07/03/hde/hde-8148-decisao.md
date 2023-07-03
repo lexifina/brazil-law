@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de ação de homologação de decisão estrangeira promovida por VANESSA MIREILLE TATIANA PETROUTCHOUK, KATIA LUCY MONIQUE PETROUTCHOUK e GÉRARD ALAIN PETROUTCHOUK, tendo por objeto título estrangeiro oriundo da República francesa (Déclaration de Succession) que formalizou e reconheceu a partilha de bens de MARIÂNGELA RICCI PETROUTCHOUK, falecida naquele país.
+Com vista dos autos, a Procuradoria-Geral da República manifestou-se de forma favorável à homologação (fls. 46-50). Do parecer ministerial, cabe transcrever o seguinte trech o:
+Em suas razões, os requerentes aduzem que a sucessão foi firmada de maneira consensual e não litigiosa, inexistindo conflito judicial sobre o tema.
+(..)
+Inicialmente, há de se consignar que os atos, as cópias e as traduções redigidos ou autenticados pela autoridade competente francesa, que contenham a assinatura e o timbre ou o selo oficial, ficarão isentos de qualquer forma de legalização para serem utilizados perante as autoridades brasileiras, consoante a norma do art. 23 do Acordo de Cooperação em Matéria Civil celebrado entre o Brasil e a França, promulgado no Brasil pelo Decreto nº3.598/2000, sendo suficiente a autenticação notarial.
+Ademais, há de se reconhecer que, em matéria de sucessão hereditária, compete exclusivamente à autoridade brasileira proceder à confirmação de testamento particular e ao inventário e à partilha de bens situados no Brasil, ainda que o autor da herança seja de nacionalidade estrangeira ou tenha domicílio fora do território nacional (art. 23, II, do CPC).
+No entanto, na sucessão testamentária, há duplo procedimento. Inicialmente, faz-se a abertura e registro do testamento, procedimento que é ultimado com a determinação judicial de cumprimento, ao que se segue a realização de inventário e partilha. Em sendo as partes capazes e concordes, é admissível o inventário extrajudicial, garantindo, assim, a celeridade preconizada no novo Código de Processo Civil. Nesse sentido:
+(..)
+Esse também é o entendimento doutrinário, o qual conclui que "entre maiores e capazes que se acham em pleno acordo quanto ao modo de partilhar o acervo hereditário, nada recomenda ou justifica o recurso ao processo judicial e a submissão a seus custos, sua complexidade e sua inevitável demora. Por outro lado, a retirada do inventário da esfera judicial contribui para aliviar a justiça de uma sobrecarga significativa de processos." (THEODORO JÚNIOR, Humberto. Curso de direito processual civil, v. 2, Rio de Janeiro: Forense, 2018, p. 257).
+No caso, diante das peculiaridades, é possível admitir a confirmação do testamento e do inventário e partilha concretizados no estrangeiro por se tratar de testamento público e porque os requerentes são capazes e sucessores dos bens deixados no Brasil pela parte requerida.
+Por fim, desde 28 de maio de 2016, no Estado de São Paulo, o Provimento nº37/2016 da Corregedoria-Geral da Justiça autorizou os tabeliães de notas a realizar escritura pública de inventário e partilha em casos que envolvam testamento válido (Disponível em<https://www.26notas. com. br/blog/ p=12330>. Acesso em 18/8/2022).
+(..)
+É o relatório.
+Decido.
+Para ser homologada no Brasil, a sentença estrangeira deve reunir os seguintes requisitos: a) ter sido proferida por autoridade competente; b) ter sido precedida de citação regular, ainda que verificada a revelia; c) ser eficaz no país em que foi proferida; d) não ofender a coisa julgada brasileira; e) não conter manifesta ofensa à soberania nacional, à ordem pública, à dignidade da pessoa humana nem aos bons costumes (arts. 963 do CPC, 17 da LINDB e 216-C a 216-F do RISTJ); e f) estar acompanhada de tradução oficial e de chancela consular ou apostila, salvo disposição que as dispense prevista em tratado.
+Os documentos necessários à pretensão foram devidamente apresentados.
+De fato, consta dos autos o título estrangeiro homologando, dotado de plena eficácia (fls. 11-21 e 30-32), acompanhado de tradução juramentada (fls. 22-28 e 33-35).
+Como cediço, "a chancela da autoridade consular brasileira ou o apostilamento fica dispensado, conforme prevê o Acordo de Cooperação em Matéria Civil firmado entre as Repúblicas Francesa e Brasileira, promulgado por intermédio do Decreto n. 3.598/2000" (HDE n. 1.250/EX, relator Ministro Francisco Falcão, Corte Especial, julgado em 19/2/2020, DJe de 26/2/2020).
+Destarte, a pretensão preen che os requisitos legais e regimentais.
+Ante o exposto, consoante o art. 216-A do RISTJ, homologo o título estrangeiro oriundo da República francesa (Déclaration de Succession) que formalizou e reconheceu a partilha de bens de MARIÂNGELA RICCI PETROUTCHOUK, falecida naquele país.
+Expeça-se a carta de sentença.
+Publique-se.
