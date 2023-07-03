@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Agravo Interno. Interposição contra decisão monocrática do relator que não conheceu de agravo de instrumento, por intempestivo. Razões recursais que não convencem do desacerto da decisão recorrida. Recurso desprovido (fl. 33).
+Nas razões do seu recurso especial (fls. 21/26), a parte recorrente sustenta violação aos arts. 4º, 5º, caput e § 6º e 9º, § 1º, da Lei 11.419/2016, 20 da Lei 11.033/2004, 183, § 1º e 280 do CPC argumentando, em suma, que "A União argui a tese de nulidade da intimação efetivada via carta (processo de origem - fls. 98/101), posto que não houve observância da prerrogativa prevista pela legislação processual de ser intimada pessoalmente, com a remessa dos autos físicos ou livre acesso aos autos virtuais, em todos os processos dos quais participe."
+Contrarrazões às fls. 48/56.
+Juízo positivo de admissibilidade às fls. 183/184.
+É o relatório.
+Verifico que os dispositivos legais que determinam a intimação pessoal da Fazenda Nacional foram descumpridos pelo Tribunal de origem, que assim fundamentou a decisão:
+Afirmo, em acréscimo, que, sendo intempestivo, o recurso é inadmissível, razão porque não há reparo quanto à aplicação, como fundamento do não conhecimento do recurso, do inciso III do art. 932 do Código de Processo Civil.
+De resto, tratando-se da União Federal, dispõe o Código de Processo Civil, em seu art. 183, § 1º, que a intimação pessoal far-se-á por carga, remessa ou meio eletrônico.
+Contudo, a lei de regência prevê que a intimação da Fazenda Pública Federal será por carta e não pessoal - apenas na ocasião do deferimento do processamento da recuperação judicial, nos termos do seu artigo 52, inciso V.
+Quanto às demais decisões, tratando-se de processo digital, tem-se que observar o que a Lei n. 11.419/2006 dispôs sobre a informatização do processo judicial, mostrando-se correta a intimação da Fazenda pelo Diário de Justiça Eletrônico na forma preconizada no art. 5º e a aplicabilidade em relação à Fazenda Pública encontra-se prevista no § 6º de aludido Diploma Legal. Sendo assim, é dever das partes, inclusive da Procuradoria da Fazenda, o acompanhamento dos atos processuais conforme disposto em referida norma.
+No caso dos autos, tal como decidido, a agravante teve inequívoco conhecimento da decisão de fls. 98/101 da origem, pois, como se vê às fls. 109 da origem, a Procuradoria Regional da Fazenda Nacional União Federal, foi intimada pessoalmente, por carta com aviso de recebimento, observada, portanto, a exigência de que trata o § 1º do art. 183 do Código de Processo Civil.
+Quanto à intimação eletrônica, não há alegação de que não tenha ocorrido.
+É inequívoca, portanto, a intempestividade do recurso de instrumento (fls. 34/35).
+A Fazenda Pública tem a prerrogativa de ser intimada pessoalmente em qualquer processo, e essa pessoalidade é retratada por meio de carga, remessa ou meio eletrônico (este último concretizado em portal próprio) conforme artigos citados no recurso especial ora interposto (4º, 5º, caput e § 6º e 9º, § 1º, da Lei 11.419/2016, 20 da Lei 11.033/2004, 183, § 1º e 280 do CPC).
+Ao contrário da fundamentação apresentada no acórdão recorrido, a intimação por carta com aviso de recebimento não é forma válida de intimação da Fazenda Pública. A jurisprudência do STJ excepciona essa regra à situação na qual a Fazenda não tem representante judicial lotado na sede do juízo em execuções fiscais, o que não é o caso na presente demanda.
+Ante o exposto, dou provimento ao recurso especial e determino o retorno dos autos à origem para que seja devolvido à Fazenda Nacional o prazo para interposição do recurso cabível.
+Publique-se. Intimem-se.
