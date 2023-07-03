@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE DOMINGOS ARANTES DA CUNHA, à decisão de fls. 331/332, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Sabe-se, que os tribunais de todo o país, nos dias dos jogos da seleção, suspenderam os prazos, fato esse notório e amplamente divulgado (fl. 337).
+ ..
+Após análise do caso, entendo que a premissa da obrigatoriedade e formalismo imposta pelo novo CPC, agride não apenas a presunção de veracidade do artigo 197 do CPC e cuja veracidade é facilmente verificável nos sites dos tribunais, certamente demostram-se idôneos tais informações.
+É possível compreender, que apesar da divulgação da suspensão dos prazos nos sites dos tribunais, estes, prezam de presunção de veracidade, automaticamente, confiabilidade, desta forma tais informações importariam para si um caráter normativo idôneo, sem a necessidade da comprovação.
+Sendo facilmente possível ser reconhecidos pelos julgadores, nesse compasso, entende-se, que os prazos suspensos nos dias dos jogos do Brasil, certamente, não são feriados nacionais, no entanto, os próprios possuem presunção de veracidade, conforme artigo 197 do CPC (fl. 338).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Ademais, não procede a alegação de que é desnecessária a comprovação da suspensão dos prazos em dias do jogos da Seleção Brasileira de Futebol na Copa do Mundo por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. Veja-se que esses dias de suspensão de prazo ou de expediente são como feriados locais, no âmbito do Tribunal de origem, portanto deveriam ter sido comprovados no momento da interposição do recurso, providência que não foi cumprida.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
