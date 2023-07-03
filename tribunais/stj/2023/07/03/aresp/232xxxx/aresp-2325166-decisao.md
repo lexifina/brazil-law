@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por MARCELO ROSA DA SILVA, contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ e inexistência de violação de lei federal.
+O acórdão recorrido está assim ementado (e-STJ fl. 303):
+APELAÇÃO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Autor, ex-jogador de futebol, teve sua imagem veiculada em álbum de figurinhas colantes elaborado e vendido pela empresa requerida (Panini). Sentença de parcial procedência ,impondo apenas a condenação por danos materiais, mediante apuração em liquidação de sentença. Irresignação das partes.
+1. RECURSO DO AUTOR. Súmula 403 do STJ: "Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais". Inegável intuito comercial da publicação criada pela ré. Indenização devida. Quantum fixado deve resultar da ponderação das especificidades do caso concreto. Imagem do autor não está em destaque na publicação (pelo contrário, é de tamanho pequeno, estando ele juntamente com outros jogadores) e apareceu uma única vez em um álbum que possui 56 páginas e conta com mais de 300 cromos. Importe de R$ 5.000,00 que se afigura razoável. Princípios da razoabilidade e proporcionalidade.
+2. RECURSO DA REQUERIDA. Condenação por danos materiais fixada no julgado de forma genérica, remetendo a apuração à liquidação de sentença. A fim de se conferir maior efetividade e clareza ao comando judicial, e de se evitar possíveis controvérsias na fase executiva, razoável a especificação dos vetores que deverão ser considerados na apuração da indenização devida, nos termos que constarão no acórdão.
+RECURSOS PARCIALMENTE PROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 378/381 e 387/390).
+Nas razões do recurso especial (e-STJ fls. 310/321), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 186, 884, 927 e 944 do CC/2002, alegando que o valor arbitrado viola os mencionados dispositivos "vez que não se considerou a extensão do dano para o arbitramento da indenização, a que alude o art. 927 do CCB/02 e tem origem na prática de ato ilícito, conforme previsto no art. 186 do CCB/02  ..  há afronta ainda à norma do artigo 884, do CCB, pois a Ré faturou milhões às custas de diversos atletas e ex-atletas, violando seus direitos, sem nenhuma contrapartida pelo uso indevido de suas imagens" (e-STJ fl. 317).
+Em suma, são estes os pedidos recursais (e-STJ fls. 320/321):
+Diante de todo o exposto, requer seja conhecido e provido o presente Recurso Especial, para o efeito de:
+Reconhecer a negativa de vigência dos arts. 186, 884, 927e 944doCCB/02 pelo Tribunal de origem, reformando a decisão guerreada, majorando a indenização arbitrada por danos morais para R$ 25.000,00, considerando a extensão dos danos à luz da: (a) capacidade econômica da vítima; (b) capacidade econômica do ofensor; (c) gravidade do fato, e; (d) eventual culpa concorrente da vítima.
+Foram oferecidas contrarrazões (e-STJ fls. 422/431).
+No agravo (e-STJ fls. 463/469), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 477/483).
+É o relatório.
+Decido.
+O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa, de sorte que apenas comporta revisão pelo Superior Tribunal de Justiça quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, quando, na instância originária, foi arbitrado em R$ 5.000,00 (cinco mil reais), diante das especificidades do caso concreto.
+Conforme entendimento pacífico do STJ, a modificação do valor da indenização por danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, fixou a indenização dos danos morais no valor de R$ 5.000,00 (cinco mil reais), nos seguintes termos (e-STJ fls. 307/308):
+Todavia, não há qualquer elemento a justificar a fixação da indenização no patamar pleiteado na inicial (R$ 25.000,00), o qual se afiguraria exagerado e incompatível com as peculiaridades do caso concreto.
+Todavia, não há qualquer elemento a justificar a fixação da indenização no patamar pleiteado na inicial (R$ 25.000,00), o qual se afiguraria exagerado e incompatível com as peculiaridades do caso concreto.
+Perante este quadro, mais razoável, a meu ver, a quantia de R$ 5.000,00, que se afigura compatível com os princípios da razoabilidade e proporcionalidade, servindo para cumprir o duplo caráter da condenação na hipótese.
+A correção monetária deverá incidir a partir da data do acórdão e os juros a contar da citação.
+No tocante aos danos materiais, entendo que a r. sentença poderia ter sido mais clara no tocante aos critérios a serem adotados na apuração de valores liquidação de sentença.
+Portanto, em atenção à irresignação da ré, deixo consignado que para o cálculo da reparação material deverão ser considerados os seguintes vetores: preço médio do álbum, quantidade de vendas do álbum desde o lançamento, quantidade de figurinhas produzidas com a imagem do autor e proporção numérica entre a figurinha na qual aparece o autor e a quantidade total de colantes em cada álbum.
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo de MARCELO ROSA DA SILVA. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
