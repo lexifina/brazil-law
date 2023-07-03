@@ -1,0 +1,1 @@
+Artigo 2° - O primeiro reajuste dos benefícios da Carteira das Serventias previstos no artigo 13 da Lei n° 10.393, de 16 de dezembro de 1970, com a nova redação dada pelo inciso VIII do artigo 5°, será feito 30 (trinta) dias após a publicação desta lei, observado o artigo 3° destas Disposições Transitórias.
