@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração contra a decisão proferida pela Vice-Presidência desta Corte afirmando não conhecendo a reclamação manejada pela embargante, MARIA MARLENE COSTA, contra a decisão que indeferiu liminarmente a reclamação, porque não cabe seu ajuizamento "para garantir observância de tese firmada em recurso especial repetitivo" (na fl. 483).
+A embargante afirma que a decisão embargada "contém CONTRADIÇÃO no que tangente ao pleito acima mencionado, pois a presente Reclamação tem como fulcro; garantir a autoridade das decisões desta Corte Cidadã e na inobservância da tese firmada no Incidente de Resolução de Demandas Repetitivas nº 0008932-65.2016.8.10.0000/TJMA julgado pelo rito do Recurso Especial Repetitivo nº 1.846.649/TJMA - TEMA 1.061/STJ" (na fl. 490).
+A reclamação foi ajuizada em face de decisão do "Vice-Presidente do Tribunal de Justiça do Estado do Ceará não conheceu da Reclamação (lá interposta), com fundamento em manifesta causa impeditiva de remessa dos autos ao STJ", pois não há "previsão legal para que o Tribunal prolator da decisão exerça qualquer juízo de admissibilidade em face deste instrumento processual" (nas fls. 9/10).
+Requer o acolhimento dos embargos de declaração.
+A parte embargada não apresentou impugnação, porque ainda não foi citada.
+É o relatório.
+Passo a decidir.
+Acolho os embargos de declaração para não conhecer da reclamação por outros fundamentos, diante de seu notório não cabimento.
+Deveras, a embargante ao invés de manejar a reclamação, impugnando o acórdão do eg. Órgão Especial do Tribunal de Justiça do Estado do Ceará, negando provimento a agravo interno manejado contra decisão monocrática que negou seguimento a recurso especial, sob o argumento de que o aresto recorrido coincide com a orientação firmada por esta Corte no julgamento de precedente qualificado, diretamente no protocolo desta corte Superior, preferiu fazê-lo equivocadamente perante o Tribunal reclamado que dela não conheceu.
+Assim, a inicial da presente reclamação já não mais impugna o acórdão do eg. Órgão Especial do Tribunal de Justiça do Estado do Ceará mas sim a decisão do "Vice-Presidente do Tribunal de Justiça do Estado do Ceará não conheceu da Reclamação" lá interposta e que, em tese, seria cabível se fosse interposta nesta Corte.
+Logo, o objeto da presente é decisão monocrática que não se subsume a acórdão de Órgão Especial de Tribunal, negando provimento a agravo interno manejado contra decisão monocrática que nega seguimento a recurso especial, sob o argumento de que o aresto recorrido coincide com a orientação firmada por esta Corte no julgamento de precedente qualificado, ou seja, a presente reclamação não tem previsão legal.
+Ademais, por amor à fundamentação, verifica-se que, também, a reclamação é intempestiva porque a intimação da publicação do acórdão reclamado foi realizada no dia 9/5/2022 (nas fls. 433/435) e a inicial da presente foi protocolado apenas no dia 27/7/2022).
+Ante o exposto, não conheço da reclamação.
+Publique-se.
