@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALLAN DE PAULA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 993.08.0311524).
+O paciente foi condenado à pena de 7 anos, 3 meses e 15 dias de reclusão em regime fechado, além do pagamento de 26 dias-multa, por infração ao art. 16, parágrafo único, IV, da Lei 10.826/2003, e arts. 297, caput, c/c 304 do Código Penal.
+O recurso de apelação interposto pela defesa foi desprovido pelo Tribunal de origem.
+A defesa alega: a) necessidade de aplicação da novatio legis in mellius, em virtude de alteração promovida pelo "pacote anticrime" no tipo penal do art. 16 da Lei 10.826/2003, em benefício do ora paciente; e b) o reconhecimento da atenuante da confissão realizada na fase inquisitorial, pois constou dos atos judiciais e foi expressamente utilizada para justificar a condenação.
+Requer liminar para que sejam s uspensos os efeitos da condenação e, definitivamente, deferimento da ordem para redimensionar a pena aplicada.
+É o relatório.
+As matérias relativas à aplicação da novatio legis in mellius e ao reconhecimento da atenuante da confissão não foram apreciadas no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. APLICAÇÃO DA LEI N. 13.654/18. RECONHECIMENTO DE NOVATIO LEGIS IN MELLIUS, AFASTANDO A CAUSA DE AUMENTO DE PENA PELO USO DE ARMA BRANCA NA PRÁTICA DO DELITO DE ROUBO. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DOSIMETRIA. O EMPREGO DE ARMA BRANCA, EMBORA NÃO CONFIGURE MAIS CAUSA DE AUMENTO DO CRIME DE ROUBO, PODERÁ SER UTILIZADO COMO FUNDAMENTO PARA A MAJORAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE JUSTIFIQUE A CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de reconhecimento de novatio legis in mellius com o fim de afastar a causa de aumento de pena pelo uso de arma branca na prática do delito de roubo não foi objeto de debate perante o Tribunal de origem, ficando esta Corte impedida de manifestar-se sobre o tema, sob pena de incidir em indevida supressão de instância.
+2. Não há que se falar em negativa de prestação jurisdicional, uma vez que o Tribunal a quo declinou expressamente que "a pretensão deverá ser deduzida, inicialmente, perante o Juízo das Execuções Criminais, nos termos do que dispõe o artigo 66, inciso I, da Lei n. 7.210/1984 (Lei de Execução Penal) e a Súmula n. 611 do Supremo Tribunal Federal (STF)".
+3. "Em razão da novatio legis in mellius engendrada pela Lei n. 13.654/2018, o emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado como fundamento para a majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem." (REsp n. 1.921.190/MG, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/5/2022, DJe de 27/5/2022).
+4. O refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+5. O Tribunal de origem destacou elementos concretos que justificam a fixação da pena-base acima do mínimo legal, sobretudo diante da valoração negativa da culpabilidade, circunstâncias e consequências do crime, fundada em elementos concretos dos autos.
+Agravo regimental desprovido.
+(AgRg no HC 761.388/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/11/2022, DJe de 1/12/2022)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
