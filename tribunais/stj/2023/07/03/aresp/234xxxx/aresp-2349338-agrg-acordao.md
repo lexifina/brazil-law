@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE RECESSO FORENSE OU DE EVENTUAL INDISPONIBILIDADE DO SISTEMA ELETRÔNICO DO TRIBUNAL NO ATO DE INTERPOSIÇÃO. PLEITO DE CONCESSÃO DA ORDEM DE HABEAS CORPUS, DE OFICIO. INVIABILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL OU DE FLAGRANTE ILEGALIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+I - Deve ser mantido o decisum monocrático reprochado, pois o acórdão recorrido foi considerado publicado em 17/09/2021 (fl. 502). O recurso especial, contudo, somente foi interposto em 26/10/2021 (fl. 506), sendo, portanto, manifesta a sua intempestividade.
+II - Nos termos da jurisprudência deste Superior Tribunal de Justiça, "Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese" (AgRg nos EAREsp n. 263.820/DF, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 30/10/2018). Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RICARDO MARTINS SILVA, contra decisão da Presidência deste Superior Tribunal, na qual não se conheceu do agravo em recurso especial por intempestividade do recurso especial.
+Nas razões do presente recurso, alega a parte agravante, em síntese, que "Na verdade o que ocorreu para ter sido protocolado mais de 01 mês a publicação do Acordão recorrido na origem, e isto fora suficientemente narrado pela defesa do recorrente tanto na inicial do REsp como do seu consectário AREsp" (fl. 576).
+Requer, ao final, "seja a V. decisão ora vergastada reformada, roga pelo provimento ao presente Agravo Regimental, para que seja enfrentado o mérito recursal do AREsp, consoante às razões recursais nele veiculadas, presente ainda em ultima ratio, eventual possibilidade de conceder-se habeas corpus de ofício, consoante a jurisprudência desta EG. CORTE SUPERIOR" (fl. 579).
+O d. representante do Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 589-592). Eis a ementa do parecer:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO."
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE RECESSO FORENSE OU DE EVENTUAL INDISPONIBILIDADE DO SISTEMA ELETRÔNICO DO TRIBUNAL NO ATO DE INTERPOSIÇÃO. PLEITO DE CONCESSÃO DA ORDEM DE HABEAS CORPUS, DE OFICIO. INVIABILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL OU DE FLAGRANTE ILEGALIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+I - Deve ser mantido o decisum monocrático reprochado, pois o acórdão recorrido foi considerado publicado em 17/09/2021 (fl. 502). O recurso especial, contudo, somente foi interposto em 26/10/2021 (fl. 506), sendo, portanto, manifesta a sua intempestividade.
+II - Nos termos da jurisprudência deste Superior Tribunal de Justiça, "Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese" (AgRg nos EAREsp n. 263.820/DF, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 30/10/2018). Precedentes.
+Agravo regimental desprovido.
+VOTO
+O recurso não merece prosperar, devendo ser mantido o decisum monocrático recorrido.
+De início, cumpre ressaltar que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015, o que enseja a observância do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na espécie, como ressaltado no decisum reprochado, aplica-se a regra do art. 798, caput, e §3º, do Código de Processo Penal, uma vez que o art. 220 do Código de Processo Civil de 2015, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal. Logo, a continuidade dos prazos processuais penais é afirmada pelo princípio da especialidade.
+Uma vez iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. NÃO COMPROVAÇÃO. RESOLUÇÃO N. 244 DO CNJ. NÃO APLICAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recesso judiciário não tem o condão de interromper ou suspender a contagem do prazo, mas tão somente prorroga o dia do vencimento para aqueles findos em seu curso, para o dia útil subsequente.
+2. "A suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/5/2017).
+3. Agravo regimental não provido" (AgRg nos EDcl no AREsp n. 1.070.409/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2017).
+Contudo, no ato da interposição do recurso faz-se necessária a comprovação de feriados locais e/ou de eventual indisponibilidade do sistema eletrônico do Tribunal , o que não ocorreu in casu.
+No caso dos autos, verifica-se que o acórdão recorrido foi publicado no dia 17/09/2021 (fl. 502). O apelo nobre, contudo, somente foi interposto em 26/10/2021 (fl. 506) sendo manifesta, portanto, a sua intempestividade, pelo que dever ser mantida a decisão monocrática recorrida.
+Conforme consignado no decisum monocrático reprochado, in verbis:
+"Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de RICARDO MARTINS SILVA, a parte recorrente foi intimada do acórdão recorrido em 17/09/2021, sendo o recurso especial interposto somente em 26/10/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso." (fl. 570).
+Da decisão que inadmitiu o apelo nobre, pelo Tribunal de origem, no que interessa ao caso, se extrai (fls. 639-540):
+"Ao compulse proficiente dos fólios, observa-se que o apelo nobre em testilha encontra-se intempestivo.
+Com efeito, depreende-se da leitura do caderno processual, que o acórdão recorrido foi disponibilizado no DJe em 16/09/2021. Considera-se, pois, publicado o aludido aresto em 17/09/2021. Sendo assim, o início da fluência do lapso temporal para o aviamento da insurgência se deu em 20/09/2021.
+Desse modo, vislumbra-se o manejo a destempo do presente recurso especial, cuja petição restou protocolizada em 26/10/2021, posto que o prazo findou-se em 04/10/2021.
+Ressalte-se, ainda nessa senda, o entendimento firmado pelo Superior Tribunal de Justiça acerca da contagem dos prazos processuais nos feitos criminais, com a vigência da Nova Lei Adjetiva Civil (Lei nº 13.105/2015), in verbis:
+ ..
+Ante o exposto, inadmito o recurso especial."
+Como bem ressaltado pelo d. representante do Ministério Público, em seu parecer (fls. 591):
+"Incensurável a decisão agravada.
+De fato, o recurso especial foi protocolizado fora do prazo legal. O acórdão recorrido foi disponibilizado no Diário Eletrônico da Justiça da Bahia no dia 16.09.2021 e considerado publicado no dia 17.09.2021 (sexta-feira), sendo que o prazo iniciou-se em 20.09.2021 (segunda-feira) e findou-se em 04.10.2021 (segunda-feira), enquanto que o recurso foi interposto somente em 26.10.2021 (fl. 506), quando já havia extrapolado o prazo de quinze dias."
+No mesmo sentido do decisum reprochado:
+"PENAL MILITAR E PROCESSUAL PENAL MILITAR. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABANDONO DE POSTO. RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. FORMA DE CONTAGEM. PREVISÃO ESPECÍFICA CONTIDA NO ART. 798 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a contagem de prazo no processo penal, inclusive, no processo penal militar, obedece a regramento próprio. O art. 798 do Código de Processo Penal, em seu caput e § 1.º, determina que " t odos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que, " n ão se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento", constituindo norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+II - Extrai-se da decisão de admissibilidade da origem que, "considerando que a conclusão do acórdão de fls. 331, que negou provimento aos embargos de declaração opostos pelo recorrente, foi disponibilizada no Diário da Justiça em 07/08/2017 (fl. 335), sendo considerada como data da publicação, portanto, o dia 08/08/2017, tendo em vista o disposto no art. 4o, § § 3o e 4o, da Lei nº 11.419/2006, aplicada no âmbito deste Eg. Tribunal de Justiça pela Resolução nº 034/2013, conclui-se que o termo inicial da contagem do prazo foi o dia 09/08/2017, findando-se, pois, no dia 23/08/2017, ex vi da forma de contagem estabelecida no artigo 798, § 1.o do Código de Processo Penal" (fl. 442).
+III - Assim, de fato, o apelo nobre não poderia ser admitido por ser intempestivo.
+Agravo regimental desprovido" (AgRg no AREsp n. 1.236.062/ES, Quinta Turma, Rel. Min. Felix Fischer, DJe de 30/5/2018, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECURSO ESPECIAL INTEMPESTIVO. ALEGADA INDISPONIBILIDADE DO SISTEMA DE PETICIONAMENTO ELETRÔNICO. AUSÊNCIA DE COMPROVAÇÃO. ÔNUS DO RECORRENTE NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do § 6.º do art. 1.003 da Lei n.º 13.105/2015, a ocorrência de fatos, no âmbito do Tribunal local, que sejam capazes de alterar a contagem do prazo recursal, deve ser comprovada no ato da interposição do recurso por documento idôneo, não bastando a simples alegação da parte acerca de suposta indisponibilidade do sistema de peticionamento eletrônico.
+2. Ante a ausência de documento idôneo a comprovar a alegada indisponibilidade do sistema de peticionamento eletrônico no Tribunal de origem, constata-se que houve o transcurso de lapso temporal superior a 15 (quinze) dias entre a data de publicação do acórdão recorrido (26/02/2019) e a data de interposição do recurso especial (19/03/2019).
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1.549.948/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 14/10/2019, grifei).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. DEFENSORIA PÚBLICA. CONTAGEM EM DOBRO. RECESSO FORENSE. SUSPENSÃO DOS PRAZOS ATÉ 20 DE JANEIRO. NÃO OCORRÊNCIA. ART. 798 DO CPP. PRINCÍPIO DA ESPECIALIDADE. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No processo penal, iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente forense, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte.
+2. De acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n.244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro.
+ ..
+4. Agravo regimental não provido" (AgRg no REsp n. 1.828.089/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/10/2019, grifei).
+Por fim, no que diz respeito ao pleito no sentido de que " ..  ainda em ultima ratio, eventual possibilidade de conceder-se habeas corpus de ofício, consoante a jurisprudência desta EG. CORTE SUPERIOR" (fl. 579), de igual modo, diviso que o reclamo não merece acolhimento.
+A uma, porque o agravante sequer menciona ou demonstra qual seria o constrangimento ilegal e/ou a flagrante ilegalidade passível de ser sanada, no caso dos autos.
+A duas, porque nos termos da jurisprudência consolidada no âmbito desta eg. Corte, não se há falar em concessão da ordem de habeas corpus, de ofício, em situações nas quais não se vislumbra a ocorrência de flagrante ilegalidade ou de constrangimento ilegal para tanto.
+Nesse sentido, confira-se: "Não cabe a análise de habeas corpus de ofício para superar óbice de conhecimento do recurso especial" (AgRg no REsp n. 1.525.417/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/11/2018).
+Em reforço:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. AGRAVO REGIMENTAL QUE REPISA OS FUNDAMENTOS DO APELO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DA MATÉRIA FÁTICO PROBATÓRIA. MANUTENÇÃO DA DECISÃO AGRAVADA. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO.
+ ..
+IV - Ademais, "é descabido postular a concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial." (AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016).
+Agravo regimental desprovido" (AgRg no AREsp n. 1.726.781/MS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 12/11/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
