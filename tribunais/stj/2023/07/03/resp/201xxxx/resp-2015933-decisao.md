@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no artigo 105, inciso III, alínea a, do permissivo constitucional, contra acórdão prolatado pelo eg. Tribunal de Justiça da mesma unidade federativa, que, por maioria, negou provimento ao recurso ministerial (fls. 539/547).
+Opostos embargos de declaração (fls. 554/567), pelo ora recorrente, estes foram rejeitados, à unanimidade de votos (fls. 571/574).
+Nas razões do presente recurso especial (fls. 582/596), o Parquet sustenta como violados os artigos 112 e 117, ambos da Lei 7.210184 (Lei de Execução Penal), ao argumento de que "(..) a prisão domiciliar somente é possível aos que cumprem pena privativa de liberdade em regime aberto e, no caso, o recorrido o fazia no regime semiaberto (art. 117 da LEP)." (fl. 589).
+Contrarrazões não apresentadas (certidão de fl. 616), foi o recurso admitido na origem (fl. 617/620).
+Às fls. 632/634, a d. Procuradoria Geral de República requereu a conversão do feito em diligência, que foi concedida por meio do despacho de fl. 636.
+Sobreveio ofício do r. Tribunal de Justiça do Estado de Minas Gerais (fls. 640/648), no qual se informa que foi revogada a concessão de prisão domiciliar em favor do ora recorrido.
+O Ministério Público Federal opinou pela prejudicialidade do recurso especial (fls. 652/655).
+É o relatório.
+Decido.
+No que concerne ao pleito de cassação do v. acórdão recorrido que manteve a decisão que deferiu ao recorrido o cumprimento da pena no regime semiaberto em prisão domiciliar, identifico que o presente recurso resta prejudicado, tendo em vista o ofício recebido do Tribunal de origem às fls. 640/648, no qual informa que houve revogação do referido benefício, in verbis:
+"Analisando o caso dos autos, vejo que em 19/10/2020 foi concedida a prisão domiciliar ao denunciado, em virtude de ordem emanada em sede do julgamento do FIC 575495-MG, junto ao STJ, datada de 13.05.2020, que determinou a aplicação de regime domiciliar aos reeducandos do sistema Prisional do Estado de Minas Gerais, que cumprem pena nos regimes semiaberto e aberto, que tiveram suspenso o exercício do trabalho externo, como medida preventiva de combate à pandemia.
+Assim sendo, a medida foi concedida ao paciente em caráter excepcional, enquanto estivessem em vigor as normas administrativas que impediam o retorno à unidade prisional dos detentos que estiverem exercendo atividades externas.
+Na oportunidade, registro que a situação especial de domiciliar foi revogada em 10/08/2021, nos termos da Portaria Conjunta n. 33/PR-TJNIG/2021. sendo expedido o respectivo mandado prisão.
+Por fim, consto que o sentenciado atualmente encontra-se cumprindo pena no regime semiaberto, saindo durante o dia para trabalhar e pernoitando na unidade prisional."
+Como  se  vê  do  excerto  em  referência,  ocorreu a revogação do benefício da prisão domiciliar,  o  que  configura  novo  título  e  nova  realidade  fático-processual.
+Assim,  fica  evidente  que  a  pretensão  de  se  reformar  o  v.  acórdão  recorrido  resta prejudicada, perdendo  o  objeto o presente recurso.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer (fls. 652-655, grifos no original):
+"8. As informações foram então prestadas pelo Juízo das Execuções, que esclareceu que a domiciliar foi revogada em 10/08/2021, sendo expedido o respectivo mandado de prisão. Atualmente, o recorrido encontra-se no regime semiaberto, saindo durante o dia para trabalhar e pernoitando na unidade prisional.
+9. Portanto, diante desse novo panorama, com a revogação da prisão domiciliar, o recurso especial está prejudicado pela perda superveniente de objeto.
+Posto isto, o MPF manifesta-se pela prejudicialidade do recurso especial. "
+No  mesmo  sentido:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SUPERVENIÊNCIA  DE  DECISÃO  CONCESSIVA  DA  PROGRESSÃO  AO  REGIME  ABERTO  E  À  PRISÃO  DOMICILIAR,  POR  FALTA  DE  VAGAS.  PREJUDICIALIDADE  DO  RECURSO  EVIDENCIADA.  AGRAVO  REGIMENTAL  PROVIDO  PARA  NÃO  CONHECER  DO  AGRAVO  EM  RECURSO  ESPECIAL.
+1.  Considerando-se  que,  após  a  interposição  do  recurso  especial  em  exame,  sobreveio  decisão  do  juízo  das  execuções,  concessiva  da  progressão  ao  regime  aberto,  ante  o  preenchimento  dos  requisitos  legais,  e  da  prisão  domiciliar,  em  virtude  da  falta  de  vagas  no  estabelecimento  prisional  adequado,  o  recurso  especial,  interposto  contra  acórdão  prolatado  anteriormente,  que  mantivera  a  negativa  da  prisão  domiciliar  por  motivos  diversos,  fica  prejudicado  na  sua  análise,  por  perda  de  objeto.
+2.  Agravo  regimental  provido.  Não  conhecimento  do  agravo  em  recurso  especial,  ante  a  perda  superveniente  do  interesse  recursal."  (AgRg  no  AREsp  1799396/MG,  Sexta  Turma,  Rel.  Min.  Olindo  Menezes  (DESEMBARGADOR  CONVOCADO  DO  TRF  1ª  REGIÃO),  DJe  27/09/2021).
+"AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  EXECUÇÃO  PENAL.  RECURSO  ESPECIAL.  VIOLAÇÃO  AOS  ARTIGOS  112  E  117  DA  LEP.  PRISÃO  DOMICILIAR.  CONCESSÃO  EM  VIRTUDE  DA  PANDEMIA  DO  NOVO  CORONAVÍRUS  (COVID  19).  RECOMENDAÇÃO  Nº  62/2000  DO  CNJ.  PARTICULARIDADES  DO  CASO  CONCRETO.  PRISÃO  DOMICILIAR  REVOGADA.  NOVA  REALIDADE  FÁTICO-PROCESSUAL.  AGRAVO  REGIMENTAL  PREJUDICADO.
+I  -  O  Ministério  Público  Estadual,  no  agravo  regimental,  aponta  que  não  há  que  falar  em  incidência  da  Súmula  7/STJ,  buscando  pela  revogação  da  prisão  domiciliar  concedida  ao  agravado.
+II  -  Todavia,  o  juízo  da  execução  prestou  informações,  esclarecendo  que  "Concedida  a  prisão  domiciliar  ao  recorrido  Lucas  Tadeu  2020  (decisão  em  anexo),  ele  foi  preso  em  flagrante  delito  em  prática  dos  fatos  tipificados  como  crime  do  art.  33,  caput,  da  Lei  Sentenciado  e  expedida  guia  definitiva,  determinou-se  a  regressão  cautelar  de  regime,  a  soma  das  penas  e,  por  conseguinte,  revogou-se  a  prisão  domiciliar  (decisão  em  anexo)"  (fl.  465).
+III  -  Desse  modo,  tendo  sido  revogada  a  prisão  domiciliar  da  parte  recorrida  forçoso  reconhecer  que  os  argumentos  lançados  no  presente  agravo  regimental,  expostos  contra  a  decisão  monocrática  que  deixou  de  conhecer  do  recurso  especial,  restaram  prejudicados.
+Agravo  regimental  prejudicado."  (AgRg  no  REsp  1913462/MG,  Quinta  Turma,  Rel.  Min. Jesuíno  Rissato  (DESEMBARGADOR  CONVOCADO  DO  TJDFT),  DJe  24/08/2021).
+Deste  modo,  resta  esvaziado  o  objeto  do  presente  recurso.
+Ante  o  exposto,  nos  termos  do  que  preceitua  o  art.  34,  inciso  XI,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  julgo  prejudicado  o  recurso  especial.
+P.  e  I.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL.  EXECUÇÃO  PENAL.  CONCESSÃO  DE  PRISÃO  DOMICILIAR  A  PRESO  EM  REGIME  SEMIABERTO.  NOVA  REALIDADE  FÁTICO  PROCESSUAL.  PERDA  DE  OBJETO.  RECURSO  PREJUDICADO.
