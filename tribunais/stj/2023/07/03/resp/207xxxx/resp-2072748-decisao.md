@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 326):
+AGRAVO DE INSTRUMENTO. MANDATOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CÁLCULO APRESENTADO PELA PARTE IMPUGNADA QUE OBSERVOU TODOS OS CRITÉRIOS ESTABELECIDOS PELO TÍTULO EXEQUENDO. INAPLICABILIDADE DA TAXA SELIC. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 406 do Código Civil; 322, § 1º, e 505 do Código de Processo Civil; 13 da Lei n. 9.065/1995; 84 da Lei n. 8.981/1995; 39, § 4º, da Lei n. 9.250/1995; 61, § 3º, da Lei n. 9.430/1996; e 30 da Lei n. 10.522/2002; bem como divergência jurisprudencial.
+Sustenta que a taxa de juros legais a ser aplicada para o cálculo do montante devido, a partir da entrada em vigor do art. 406 do atual Código Civil, é exclusivamente a Taxa SELIC, sem acréscimo de índices de correção monetária, de modo que reputa indevida a incidência de juros moratórios de 1% ao mês e correção monetária pelo IGP-M.
+Assevera que a pretensão de aplicação da taxa SELIC não afronta o princípio da coisa julgada, dado que os consectários legais configuram prestações de trato sucessivo, comportando modificação.
+Alega que não houve estipulação prévia de percentuais ou índices de juros de mora e de correção monetária.
+Aduz que o índice IGP-M é excessivo e abusivo.
+Contrarrazões apresentadas.
+A irresignação não prospera.
+Ao analisar o caso concreto, o Tribunal de Justiça afastou a pretensão de aplicação da taxa Selic pelos seguintes fundamentos (fls. 324-325):
+Da análise dos autos, cabe salientar que a decisão exequenda foi prolatada nos seguintes termos:
+"(..) ISSO POSTO, julgo parcialmente procedente a pretensão veiculada pelo autor, para condenar o réu a pagar-lhe o valor sacado mediante alvará no processo nº 001/1.05.2394474-1 (fl. 18), correspondente a R$ 24.055,05, corrigido pelo indexador dos depósitos judiciais desde o dia 19/01/2010 até a data da expedição do alvará (24/10/2011 - fl. 18), descontados os honorários advocatícios contratados no percentual de 40% e a quantia já adimplida pelo réu (R$ 10.521,12), e acrescendo-se sobre o restante indevidamente retido correção monetária pelo IGP-M e juros moratórios de 1% ao mês a contar da data da expedição do alvará (24/10/2011 - fl. 18), nos moldes do art. 670 do Código Civil. Diante da sucumbência recíproca (art. 21, "caput", do CPC), condeno cada parte a arcar com metade das custas processuais e honorários advocatícios devidos ao patrono da parte adversa, arbitrados estes em 15% sobre o valor atualizado da condenação, considerando o trabalho exigido e a natureza da demanda, observados os parâmetros do art. 20, §§ 3º e 4º, do Código de Processo Civil, admitida a compensação (Súmula nº 306 do STJ), cuja exigibilidade fica suspensa em relação ao demandante por litigar ao amparo da assistência judiciária gratuita (art. 12 da Lei nº 1.060/50). (..)."
+Pois bem, ao que se percebe da decisão objeto de cumprimento de sentença, no que diz respeito à condenação, os juros moratórios devem ser cobrados à taxa de 1% ao mês, nos termos do artigo 406 do Código Civil.
+No que se diz respeito à correção monetária, o índice a ser aplicado é o IGP-M, que representa a inflação transcorrida e não traz prejuízo a qualquer das partes.  ..
+Com efeito, esta Corte Superior entende que é "inviável a alteração do percentual fixado a título de juros moratórios na execução ou cumprimento de sentença, sob pena de ofensa à coisa julgada" (AgInt nos EDcl no AREsp n. 1.809.486/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022).
+Confiram-se também os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+2. Consoante a jurisprudência desta Corte Superior, proferida a sentença após a entrada em vigor do Código Civil de 2002, é inviável a alteração do percentual fixado a título de juros moratórios na execução, sob pena de ofensa à coisa julgada. Inafastável a Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1886657/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/6/2021, DJe 11/6/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. QUESTÃO DECIDIDA EM AGRAVO DE INSTRUMENTO ANTERIOR. PRECLUSÃO CONSUMATIVA CARACTERIZADA. INEXISTÊNCIA DE ERRO DE CÁLCULO. AGRAVO NÃO PROVIDO.
+1. No caso, o pedido de aplicação da Lei n. 11.960/2009 quanto ao índice de correção monetária já havia sido afastado em anterior agravo de nstrumento, ocasião na qual se manteve a incidência do IGP-M. O Tribunal de origem, portanto, reconheceu a preclusão da matéria.
+2. Com efeito, a posição firmada no acórdão recorrido se encontra em plena consonância com a jurisprudência pacífica desta Corte, no sentido de que as matérias de ordem pública se sujeitam aos efeitos da preclusão consumativa quando objeto de decisão anterior. Precedentes.
+3. Ressalta-se que o fato de a Lei n. 11.960/2009 ser norma processual de aplicabilidade imediata é irrelevante para o deslinde da causa, tendo em vista que a decisão que manteve a aplicação do IGP-M é posterior a esse diploma normativo, inclusive tendo ele sido apreciado na decisão transitada em julgado.
+4. O erro material não se confunde com os critérios de cálculo. Aquele se caracteriza no equívoco evidente, relativo a questões aritméticas. Já este diz respeito aos critérios adotados para a confecção da conta.
+5. Na hipótese dos autos, a discordância do agravante diz respeito a um dos critérios de cálculo - índice de correção monetária aplicado -, e não a algum equívoco evidente. Assim, não há que se falar em hipótese de erro material, estando os cálculos homologados sujeitos aos efeitos da preclusão e da coisa julgada. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1862394/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/2/2021, DJe 1/3/2021)
+Acrescento que, consoante a jurisprudência desta Casa, sujeitam-se à preclusão as questões (incluindo-se as de ordem pública) decididas no processo e que não tenham sido oportunamente impugnadas.
+Nesse sentido, o STJ já decidiu que os erros materiais podem ser corrigidos a qualquer tempo, sem ofensa à preclusão, mas isso não se aplica aos critérios de cálculo definidos no título exequendo. Ilustro:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. ERRO DE CÁLCULO. PRECLUSÃO. 4. REEXAME DOS CRITÉRIOS DE CÁLCULO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3.O entendimento desta Corte firmou-se no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão (AgInt no REsp 1.958.481 /RS, Relator Ministro Francisco Falcão, DJe 24/3/2022).
+4. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto ao critério de cálculo adotado na fase de liquidação de sentença sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.052.878/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+Por conseguinte, estando o acórdão recorrido em consonância com o entendimento desta Corte Superior sobre o tema, atrai-se a incidência da Súmula 83/STJ.
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
