@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA. ABONO ÚNICO. REFLEXOS SOBRE A GRATIFICAÇÃO SEMESTRAL. CABIMENTO. COISA JULGADA. ALEGAÇÃO DE ANATOCISMO. SUPRESSÃO DE GRAU.
+1) Trata-se de agravo de instrumento interposto em face da decisão que julgou improcedente a impugnação à fase de cumprimento de sentença.
+2) Consoante entendimento jurisprudencial pacificado, havendo o reconhecimento do direito do participante a receber a parcela referente ao abono único, em decisão transitada em julgado, os reflexos desta verba sobre a gratificação semestral decorrem naturalmente da sua concessão.
+3) Relativamente à insurgência relacionada ao anatocismo havido no cálculo homologado, verifica-se que a decisão agravada nada referiu acerca da questão e a parte interessada não se opôs através de competente recurso, razão pela qual a análise do ponto enseja supressão de grau e não merece ser conhecida.
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO." (fl. 258)
+A recorrente aponta ofensa aos arts. 141, 502, 503 e 506 do CPC/15, sustentando, em síntese, que, "A toda evidência, o acórdão recorrido faz interpretação alargada do título executivo, em contraste com o princípio da fidelidade ou da adstrição. 12. Diferentemente do que constou no r. acórdão fustigado, mesmo que a vantagem principal fizesse parte da remuneração, a base de cálculo da gratificação semestral apenas se compõe das rubricas ordenado, anuênio e comissão fixa, ou seja, não geraria qualquer tipo de repercussão sobre o benefício complementar" (fl. 299).
+Contrarrazões às fls. 325/329.
+É o relatório.
+Ao defender que o reflexo financeiro sobre a gratificação semestral não constitui consectário da condenação, a recorrente explica que:
+"(..) a gratificação semestral é paga de forma parcelada, ou seja, em seis parcelas que completam ao longo de um semestre o vencimento do assistido, sendo que o cômputo mensal é de 1/6. Sendo assim, a vantagem pretendida NÃO É PAGA AOS ATIVOS. Logo, a decisão recorrida além de condenar a Recorrente ao pagamento de uma verba que não constou no título exequendo, repassa acréscimo nem mesmo paga aos ativos, cuja isonomia consiste na ratio do julgado exequendo." (fl. 300)
+O Tribunal de origem, por sua vez, entendeu que
+"(..) havendo o reconhecimento do direito do participante a receber a parcela referente ao abono único, em decisão transitada em julgado, os reflexos desta verba sobre a gratificação semestral decorrem naturalmente da sua concessão." (fl. 261)
+Concluiu a Corte Estadual:
+"Portanto, em tendo sido reconhecido o direito dos agravados em integrar em seu benefício previdenciário o abono único, deve ser determinado o reflexo da verba sobre a gratificação semestral, atendendo expressamente o título executivo judicial." (fl. 264)
+A reforma do acórdão, contudo, demandaria desta Corte nova apuração do conteúdo do título judicial, à luz das discussões travadas pelas partes ainda na fase de conhecimento, o que é vedado pela Súmula n. 7/STJ. Com idêntica conclusão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. AUXÍLIO CESTA-ALIMENTAÇÃO. ABONO ÚNICO. REFLEXO SOBRE A GRATIFICAÇÃO SEMESTRAL. CABIMENTO. OFENSA À COISA JULGADA NÃO EVIDENCIADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. No caso, o Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que,sendo reconhecido o direito do autor ao recebimento do auxílio cesta-alimentação e abono único, tais rubricas devem incidir automaticamente também sobre a gratificação semestral, uma vez que são parcelas integrantes da remuneração. A modificação de tal entendimento demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.031.573/RS, desta relatoria, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
