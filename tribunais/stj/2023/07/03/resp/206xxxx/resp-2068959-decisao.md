@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL ISS EXERCÍCIOS DE 1996, 1998, 1999 E 2001 MUNICÍPIO DE SÃO PAULO SERVIÇOS BANCÁRIOS IRRESIGNAÇÃO CONTRA O DECRETO DE IMPROCEDÊNCIA HIPÓTESE EM QUE AS CDA"S NÃO SE REFEREM A SERVIÇOS INCLUÍDOS NA LISTA DAS ATIVIDADES BANCÁRIAS ADOTADA PELO DECRETO-LEI Nº 406/68 E ALTERAÇÕES POSTERIORES RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente aponta violação do arts. 111 e 113, § 1º, do Código Tributário Nacional, sustentando, em suma, que incide ISS sobre os serviços prestadas pelo recorrido.
+Houve contrarrazões ao recurso especial (e-STJ fls. 227/239).
+É o relatório. Decido.
+Cuida-se, na origem, de embargos à execução fiscal opostos pelo ora recorrido, aduzindo que as Contas "Adiantamento a Depositantes", "Operações Ativas" e "Recuperação de Encargos e Despesas" não atraem a incidência de ISS.
+A Corte local deu provimento ao recurso de apelação na medida em que os mencionados serviços não se referem a serviços incluídos na lista de atividades bancárias adotada pelo Decreto-lei n. 406/68.
+A insurgência não merece prosperar.
+Isso porque a jurisprudência desta Corte Superior é firme no sentido de que eventual alteração das conclusões adotadas pela Corte de origem, quanto ao correto enquadramento das atividades desenvolvidas pelo contribuinte para incidência ou não de ISS, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula n. 7/STJ.
+Em idêntico sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ISS. ENQUADRAMENTO DE ITENS NO ANEXO DO DL 406/1968. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. TEMA 296/STF COM IDÊNTICA CONCLUSÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, o feito decorre de ação objetivando anular o lançamento de tributos municipais, com valor da causa atribuído em R$ 129.433,82, em 01/12/2004. Com o julgamento pela procedência do pedido, foi interposta apelação, que manteve a sentença. Interposto recurso especial, este não teve seguimento na origem. Seguiu-se a interposição de agravo em recurso especial. No STJ, em decisão monocrática de minha lavra, determinei o sobrestamento do feito até o julgamento do Tema 296/STF. Em decisão posterior, reconsiderou-se para aplicar ao caso o óbice da Súmula 7/STJ e o Tema 296/STF - que definiu não poder ser revisto pelo STF o enquadramento feito pelo Tribunal de origem às atividades em itens da lista anexa ao DL 406/1968, por demandar reexame de prova.
+II - Verifica-se que o Tribunal de origem, ao adotar a tese sufragada no juízo de primeiro grau, bem assim em face das informações coletadas na perícia judicial, entendeu que as atividades tributadas pelo Município tinham natureza de atividades-meio, e assim não eram sujeitas ao recolhimento de ISS.
+Desse modo, a despeito da necessidade de analisar a taxatividade das atividades vinculadas aos lançamentos fiscais do Município, é evidente que para aferir a afirmação do recorrente de que "os serviços prestados enquadram-se sem qualquer dúvida no item 44 da lista de a serviços tributáveis (e não no 95, como afirma o acórdão recorrido)" faz-se impositivo sindicar o conjunto probatório utilizado pelo Tribunal a quo para chegar à conclusão pelo não enquadramento das referidas atividades na lista de serviços anexa à Lei Complementar n. 56/87. Esse reexame dos elementos fáticos constantes dos autos é inviável no recurso especial, em face da vedação contida na súmula 7/STJ.
+III - Em apoio à aplicação do óbice encimado, verifica-se que recentemente o Supremo Tribunal Federal julgou o tema 296, RE 784439, que trata sobre a interpretação da lista de serviços anexa ao DL n. 406/1968 e LC n. 116/2003, chegando à conclusão que "o enquadramento feito pelo Tribunal local de determinadas atividades em itens da lista anexa ao DL 406/1968 não pode ser revisto pelo Supremo Tribunal Federal. Eventual violação da Constituição Federal apresenta-se como ofensa reflexa e a análise do recurso extraordinário demanda a revaloração das provas produzidas no processo".
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.292.088/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/8/2022, DJe de 24/8/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ISS. SERVIÇOS BANCÁRIOS. ENQUADRAMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
