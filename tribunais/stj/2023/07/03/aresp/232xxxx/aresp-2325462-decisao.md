@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 378/381).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 202):
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL DE BEM IMÓVEL GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. REGULARIDADE DO PROCEDIMENTO. ARGUIÇÃO DE NULIDADE DA NOTIFICAÇÃO EXTRAJUDICIAL. TENTATIVAS INFRUTÍFERAS DE LOCALIZAÇÃO QUE FORAM REALIZADAS NO ENDEREÇO INFORMADO NO CONTRATO. NOTIFICAÇÃO DA MORA POR EDITAL. APLICAÇÃO DA LEI 9.514/97. INADIMPLEMENTO DA DÍVIDA. PURGAÇÃO DA MORA NÃO EFETUADA. CONTRATO RESCINDIDO. PERDA DA POSSE DIRETA DO BEM. CONSOLIDAÇÃO DA POSSE EM NOME DA AGRAVANTE AVERBADA NA MATRÍCULA DO IMÓVEL. CIÊNCIA DA OCORRÊNCIA DA HASTA PÚBLICA ANTES MESMO DO AJUIZAMENTO DA AÇÃO. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 297/306).
+Nas razões do recurso especial (e-STJ fls. 309/335), fundamentado no art. 105, III, "c", da CF, a parte alegou dissídio jurisprudencial quanto à interpretação dos arts. 26, §§ 1º e 3º, e 27, § 2º-A, da Lei n. 9.514/1997.
+Aduziu a imprescindibilidade da intimação pessoal dos fiduciantes acerca da realização dos leilões extrajudiciais e da possibilidade de purgação da mora antes da lavratura da ata de arrematação.
+No agravo (e-STJ fls. 384/394), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+Decido.
+A parte agravante se insurge contra acórdão estadual que manteve hígido o procedimento de execução extrajudicial de bem imóvel em contrato de financiamento com instituição de garantia mediante alienação fiduciária com previsão na Lei n. 9.514/1997.
+Alega que não houve a notificação pessoal dos devedores para purgar a mora bem como para cientificá-los acerca da data, hora e local dos leilões extrajudiciais.
+O Tribunal de origem, ao analisar as provas coligidas aos autos, consignou que "não há elementos que indiquem a infringência das formalidades legais para a realização das hastas públicas" (e-STJ fl. 208).
+Assinalou que, "no caso dos autos, a notificação extrajudicial dos agravados Eduardo Miguel Andrade e Laura da Conceição Branco Andrade, proprietários do bem imóvel dado em garantia, foi primeiramente tentada pela via pessoal, no endereço indicado no contrato. Todavia, as cartas com aviso de recebimento retornaram com a informação de "local não sabido"" (e-STJ fl. 209, grifei).
+Acrescentou que, "sendo assim, a  agravada  optou por realizar a notificação via edital", e entendeu que "o procedimento adotado pela  agravada  pode ser chancelado como lícito e regular, haja vista que as tentativas infrutíferas ocorreram em local indicado pelos  agravantes " (e-STJ fl. 209).
+Concluiu que, "uma vez demonstrado o esgotamento correto das tentativas de notificação pessoal dos fiduciantes, se revela lícito o uso da notificação via edital" (e-STJ fls. 209/210).
+Ressaltou que "os  agravantes  foram devidamente notificados acerca da data, hora e local dos leilões que seriam realizados, nos endereços indicados no contrato, conforme se vê dos telegramas juntados aos autos" (e-STJ fl. 210) e que, "considerando que restou infrutífera a notificação enviada aos endereços indicados pelos  agravantes  no contrato, não há que se falar em qualquer irregularidade nas notificações realizadas por meio de editais" (e-STJ fl. 212).
+O entendimento da Corte local está em consonância com a jurisprudência deste Tribunal Superior, que admite a validade da notificação editalícia no procedimento de execução extrajudicial de financiamento imobiliário no caso de o devedor não ser encontrado para o fim de se realizar a notificação pessoal  passível de ser realizada via correio, com aviso de recebimento. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. EXECUÇÃO EXTRAJUDICIAL. LEILÃO. INTIMAÇÃO DO DEVEDOR POR EDITAL. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "É necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, porém é válida a notificação por edital quando esgotados os meios para a notificação pessoal" (AgInt no AREsp 1422337/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/06/2019, DJe 27/06/2019, g.n.)
+2. A modificação do entendimento lançado no v. acórdão recorrido acerca do esgotamento dos meios necessários e da publicação da notificação no jornal local demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.782.140/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022 - grifei.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. ALIENAÇÃO FIDUCIÁRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. DECISÃO SURPRESA. CONSTITUIÇÃO EM MORA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INTIMAÇÃO DA DEVEDORA FIDUCIANTE PARA A PURGAÇÃO DA MORA. EDITAL. AUSÊNCIA DE ESGOTAMENTO DE TODOS OS MEIOS PARA A INTIMAÇÃO PESSOAL. INVALIDADE DA CONSOLIDAÇÃO DA PROPRIEDADE DO IMÓVEL E DO PROCEDIMENTO EXPROPRIATÓRIO. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO DO MONTANTE FIXADO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+(..)
+6. A intimação por edital para fins de purgação da mora no procedimento de alienação fiduciária de coisa imóvel pressupõe o esgotamento de todas as possibilidades de localização do devedor.
+7. A intimação pessoal, por sua vez, pode ser realizada de 3 maneiras: i) por solicitação do Oficial de Registro de Imóveis; ii) por oficial de Registro de Títulos e Documentos da comarca da situação do imóvel ou do domicílio de quem deva recebê-la; ou iii) pelo correio, com aviso de recebimento, sendo essa a melhor interpretação da norma contida no art. 26, § 3º, da Lei 9.514/97.
+(..)
+9. Ademais, a intimação por edital, nos termos do art. 26, § 4º, da Lei 9.514/97, por ser medida extrema, exige que o fiduciante, seu representante legal ou procurador encontre-se em local ignorado, incerto ou inacessível (..)
+(..)
+(REsp n. 1.906.475/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2021, DJe de 20/5/2021 - grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. INTIMAÇÃO POR EDITAL. POSSIBILIDADE. ESGOTAMENTO DOS MEIOS PARA ENCONTRAR O MUTUÁRIO. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, porém é válida a notificação por edital quando esgotados os meios para a notificação pessoal. Rever as conclusões do acórdão recorrido acerca do esgotamento dos meios necessários demandaria o reexame de provas. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.422.337/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2019, DJe de 27/6/2019.)
+Ademais, conforme se verifica dos precedentes acima, a modificação da conclusão consignada no acórdão recorrido, acerca do esgotamento dos meios para a notificação pessoal e da regularidade da intimação por edital no caso concreto, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
