@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 508):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA E APREENSÃO. QUEBRA DO SIGILO DA ESPOSA DO COINVESTIGADO. MEDIDA NÃO AUTORIZADA. NULIDADE DA PROVA. 2. CELULAR TAMBÉM UTILIZADO PELO COINVESTIGADO. CIRCUNSTÂNCIA QUE NÃO DIMINUI A PROTEÇÃO À INTIMIDADE DE TERCEIRO. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O ingresso no domicílio de uma pessoa investigada não autoriza a devassa indiscriminada do sigilo de dados telefônicos de terceiros não investigados. Ora, se trata de direito constitucionalmente protegido que depende de decisão judicial concretamente fundamentada para que possa ser mitigado, o que não se verifica na hipótese dos autos.
+2. O fato de o celular ser utilizado também pelo paciente e não exclusivamente não diminui a proteção à intimidade da sua esposa. Com efeito, identificada a utilização do telefone da esposa também pelo paciente, seria necessário determinar de forma específica a quebra do mencionado sigilo e não de forma abrangente como quer levar a crer a fundamentação declinada pela Corte local.- Conforme amplamente firmado pela jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, é cediço que o resultado da diligência não justifica a ausência de autorização judicial específica. Com efeito, "o fato de terem sido encontrados objetos ilícitos não convalida a abordagem policial". (HC n. 728.920/GO, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+3. Agravo regimental a que se nega provimento.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, X e XII, da CF e aduz haver repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 566-586 e 588-606.
+É o relatório.
+A controvérsia dos autos cinge-se à questão da proteção ao sigilo dos dados do aparelho de telefone celular que pertencia à esposa do paciente, apreendido durante busca e apreensão na casa do investigado, mas que também seria utilizado pelo próprio investigado.
+No ponto, a despeito das diferentes conclusões alcançadas pela sentença e pelo acórdão do Tribunal de origem, o acórdão recorrido cristalizou a questão sob os seguintes contornos (fls. 512-513, grifos acrescidos):
+Com efeito, identificada a utilização do telefone da esposa também pelo paciente, seria necessário determinar de forma específica a quebra do mencionado sigilo e não de forma abrangente como quer levar a crer a fundamentação declinada pela Corte local.
+O cerne do que se pretende debater no recurso extraordinário, portanto, é o alcance do afastamento do sigilo determinado no caso concreto, matéria cuja apreciação demandaria a reanálise dos fatos e das provas dos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante, assim já decidiu o STF, a propósito:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, IV E XI, DA CONSTITUIÇÃO DA REPÚBLICA. DENÚNCIA ANÔNIMA. BUSCA E APREENSÃO. NULIDADE. INEXISTÊNCIA. REALIZAÇÃO DE DILIGÊNCIAS. SÚMULA 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+3. Agravo regimental conhecido e não provido.
+(ARE n. 867.091-AgR, relatora Ministra Rosa Weber, Primeira Turma, julgado em 5/9/2017, DJe de 20/9/2017.)
+Registre-se, por fim, que o caso dos autos não se amolda aos contornos do debate em andamento sob o rito da repercussão geral no Tema n. 977/STF, no qual o "encontro fortuito" do aparelho d e telefone celular é o elemento central, circunstância diversa da debatida nos autos, em que a propriedade do telefone por outra pessoa delimita a controvérsia.
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL E PROCESSUAL PENAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
