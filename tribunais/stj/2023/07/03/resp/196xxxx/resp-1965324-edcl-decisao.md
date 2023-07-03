@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN contra decisão unipessoal que acolheu parcialmente os embargos de declaração interpostos pelo embargado, com efeitos infringentes, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento da apelação, à luz da jurisprudência do STJ quanto à questão da prescrição, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. REPACTUAÇÃO DOS CONTRATOS. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. SUCESSÃO NEGOCIAL. ACOLHIMENTO PARCIAL COM EFEITOS INFRINGENTES.
+1. Ação revisional de contratos de mútuo celebrados com entidade de previdência privada fechada.
+2. O termo inicial do prazo prescricional decenal nas ações de revisão contratual é a data da assinatura do contrato. Considera-se a peculiaridade de contratos em que houve sucessivas renovações negociais, isto é, existiu a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, de maneira que se verifique continuidade e dependência entre os contratos realizados. Em virtude da continuidade e da relação entre os contratos realizados, o prazo prescricional deve ser contado a partir da data de assinatura do último contrato firmado entre as partes. Precedentes.
+3. Embargos de declaração no recurso especial acolhidos parcialmente, com efeitos infringentes, para determinar novo julgamento pelo Tribunal de origem quanto à prescrição.
+No presente recurso, aponta a embargante suposta obscuridade na decisão embargada, porquanto a alegação autoral no sentido de que o marco inicial prescricional se daria a partir da assinatura da última avença se deu em manifesta inovação recursal, de modo que não deveria ter sido conhecida.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+De fato, a decisão embargada foi clara quanto à aplicação do entendimento do STJ no sentido de que, em se tratando de renovações contratuais sucessivas de contrato de empréstimo, o prazo prescricional decenal deve ser contato da data de assinatura do último contrato firmado entre as partes.
+Ao contrário do alegado pela embargante, não se trata de inovação recursal, pois, no recurso especial, o embargado trouxe o argumento de que, se houve a renovação sucessiva dos contratos, o prazo decenal somente se inicia na última avença (e-STJ fl. 346). Na verdade, revela-se inequívoca a pretensão da embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Por fim, ressalta-se que a a obscuridade só está presente quando a decisão não é compreensível total ou parcialmente, como na hipótese de ambiguidade ou utilização de linguagem inapropriada.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado na decisão embargada.
+2. Embargos de declaração rejeitados.
