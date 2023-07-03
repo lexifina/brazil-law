@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 269):
+1. ACIDENTE DO TRABALHO  LER/DORT  ó COLUNA - INCAPACIDADE PARCIAL E ó PERMANENTE E NEXO CAUSAL COMPROVADOS  AUXÍLIO-ACIDENTE $ DEVIDO.
+DIB: cessação do último auxílio-doença.
+Aplicabilidade da Lei n. 11.960109. Juros entre conta c e precatório a ser deslindado em execução. .;
+2. APELAÇÃO DO INSS - DESERÇÃO - PORTE ó DE REMESSA E RETORNO NÃO RECOLHIDO. v CPC, art. 511, caput, c/c a lei estadual nº 11.608/03.
+Recurso do réu não conhecido, do autor e oficial cN providos em parte.
+Embargos de declaração rejeitados.
+Em juízo de adequação diante do julgamento do Tema 905 pelo STJ, proferiu novo acórdão, assim ementado (fl. 299):
+Acidente do trabalho Processual civil - Reexame em Recurso Repetitivo - Fase de conhecimento - Inaplicabilidade da Lei nº 11.960/09 Juros de Mora - Indices adequados, em consonância com os precedentes dos C. Tribunais Superiores - Correção Monetária das parcelas em atraso - Índices aplicáveis: IGNDI, INPC (STJ) E IPCA- E (STF) na forma explicitada - Aplicabilidade à hipótese dos autos Acórdão parcialmente modificado, com V observação.
+Nas razões de sua irresignação, o recorrente sustenta ofensa aos artigos 406 do Código Civil, e 161, parágrafo §1º, do Código Tributário Nacional, bem como no artigo 86, §2º da Lei 8.213/91.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 305-307.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso não merece prosperar.
+Nesse passo, ressalta-se que, "na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008,  ..  conclusão que pode ser extraída da fundamentação constante da Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe de 12/5/2011, submetida à apreciação da Corte Especial:  .. " (Ministro SÉRGIO KUKINA, 26/10/2020 no REsp 1.878.350, DJe 26/10/2020)
+Na espécie, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento, readequando o acórdão hostilizado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ, o que não ocorreu no caso dos autos.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 828.379/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 25/8/2017)
+PROCESSO CIVIL E ADMINISTRATIVO. INTERPOSIÇÃO DE RECURSO ESPECIAL. POSTERIOR JULGAMENTO DE RECURSO REPETITIVO. REAPRECIAÇÃO DO TEMA PELO TRIBUNAL LOCAL. MANUTENÇÃO DO ACÓRDÃO. RATIFICAÇÃO. DESNECESSIDADE. QUESTÃO DE ORDEM. CORTE ESPECIAL. SERVIDOR PÚBLICO. LEI 8.880/1994. CONVERSÃO. URV. PRESCRIÇÃO DO FUNDO DE DIREITO. FALTA DE PERTINÊNCIA TEMÁTICA DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES DO STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do CPC/1973.
+2. A Corte Especial do STJ no julgamento da Questão de Ordem suscitada nos autos do REsp 1.1129.215/DF, Rel. Min. Luis Felipe Salomão, consolidou o entendimento "de que a única interpretação possível a ser atribuída ao enunciado 418 da Súmula deste Tribunal é a de que há necessidade de ratificação do recurso interposto na pendência de julgamento de embargos de declaração tão somente quando houver alteração na conclusão do julgamento anterior".
+Igual entendimento deve ser aplicado na hipótese em que, não havendo mudança no acórdão recorrido submetido a juízo de retratação, não houve ratificação do recurso especial anteriormente interposto.
+Precedente: EDcl no AgRg no REsp 1.479.578/AL, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 8/3/2016, DJe 15/3/2016.
+3. Hipótese em que a Corte local afastou a pretensão das recorrentes aplicando a prescrição do fundo de direito. Contudo, o dispositivo legal apontado como violado não possui comando normativo suficiente para afastar o fundamento do acórdão recorrido, diante a ausência de pertinência temática. Incidência da Súmula 284/STF. Precedente: AgRg no REsp 1.519.416/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/8/2015, DJe 12/8/2015.
+4. Recurso especial não conhecido. (REsp 1.597.891/SP, Rel. Min. Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Segunda Turma, DJe 8/6/2016)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada. Agravo regimental improvido. (AgRg no REsp 1.479.578/AL, Rel. Min. Humberto Martins, Segunda Turma, DJe 2/2/2016)
+Com essas considerações, o recurso especial não pode ser conhecido, inexistindo questões remanescentes a serem examinadas.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS E CORREÇÃO MONETÁRIA. ÍNDICES APLICÁVEIS. POSTERIOR JULGAMENTO DE RECURSO REPETITIVO. REAPRECIAÇÃO DO TEMA PELO TRIBUNAL A QUO. ALTERAÇÃO NO ACÓRDÃO RECORRIDO SUBMETIDO A JUÍZO DE RETRATAÇÃO. AUSÊNCIA DE RATIFICAÇÃO. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
