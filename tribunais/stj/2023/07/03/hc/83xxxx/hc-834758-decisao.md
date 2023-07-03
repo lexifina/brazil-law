@@ -1,0 +1,34 @@
+DECISÃO
+LEONILSON ADENILSON DE ARAÚJO SOARES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 0001399-94.2023.8.17.9480, que manteve sua custódia preventiva.
+A defesa busca a revogação da custódia provisória do paciente ou a substituição por medidas cautelares menos gravosas, por reputar carente de fundamentação idônea o decreto preventivo e ausentes os requisitos do art. 312 do CPP.
+Alega, ainda, nulidade do flagrante em razão do excesso de violência dos policiais na realização da prisão.
+Decido.
+Infere-se dos autos que o insurgente foi preso em flagrante, em 22/5/2023, pela suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006.
+O Magistrado de origem, em audiência de custódia, homologou o flagrante e o converteu em prisão preventiva com amparo na seguinte fundamentação (fls. 58-59, grifei ):
+Pelo que afirmam os policiais que o prenderam, ele estaria na quadra da Escola Cônego Fernando Passos, comercializando drogas ilícitas (segundo informes recebidos); que se dirigiram até o local e quando ele avistou o efetivo, teria se evadido pelo matagal. Que se dirigiram até o local onde ele residia, e o autuado ao ver a polícia tentou se esconder dentro de casa. Que houve consentimento de sua genitora para que os policiais entrassem, e que viram o autuado tentando se desfazer das drogas no banheiro da casa. Apreenderam 27 pedras de crack e R$ 599,00. Que houve resistência à prisão e precisaram usar a força necessária.
+ ..
+No presente caso, há a necessidade de garantir a Ordem Pública, considerando que o crime é grave, evidenciando a periculosidade do autuado, que, inclusive, já esteve preso e foi condenado recentemente por tráfico de drogas ilícitas, além de já ter respondido a outros procedimentos criminais, de maneira que a manutenção no cárcere provisório servirá para impedir que ele continue a delinquir, impondo medo à população de bem, e dessa forma garantir a normalidade do meio social.
+O Tribunal a quo ratificou o decisum supra.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro R ogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Com efeito, o Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação idônea para decretar a prisão preventiva, ao salientar que o comércio de drogas era, em tese, realizado na quadra de uma escola e que o acusado possui condenação, sem trânsito em julgado, pela prática do delito de tráfico de drogas, bem como há o registro de outros inquéritos policiais instaurados contra o réu.
+Essas circunstâncias revelam a periculosidade do agente, em razão da gravidade concreta dos fatos imputados e do risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que o registro de inquéritos policiais ou ações penais em andamento denota o risco de reiteração delitiva e, por isso mesmo, é fundamento idôneo para a custódia provisória.
+De fato, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Além disso, segundo a orientação desta Corte Superior, " a  gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo " (AgRg no HC n. 738.696/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 15/8/2022).
+Nesse sentido:
+ ..
+1. A despeito da quantidade não expressiva de substância entorpecente apreendida, a decretação da prisão preventiva do Agravante encontra-se suficientemente fundamentada para garantia da ordem pública, considerando-se a especial gravidade da conduta - foi salientado que o Paciente era o responsável pelo tráfico no local, que vinha sendo praticado próximo a uma escola de ensino fundamental - e para assegurar a aplicação da lei penal, em virtude da fuga do Agravante.
+ ..
+(AgRg no HC n. 696.940/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 19/10/2021)
+ ..
+1. Embora não relevante quantidade de droga, a prática do crime em reiteração delitiva específica, com duas condenações definitivas recentes pela prática do mesmo delito, a localização do ponto de tráfico próximo a uma escola e a realização da traficância na presença de duas crianças, com idade inferior a 5 anos, netos do réu, constituem fundamento idôneo, apto a justificar a gravidade concreta do crime e a necessidade de garantia da ordem pública para a custódia cautelar.
+2. Agravo regimental provido para reformar a decisão agravada e denegar a ordem.
+(AgRg no RHC n. 134.715/RS, Rel. Ministro Nefi Cordeiro, 6ª T, DJe 17/2/2021)
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: " t endo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 22/9/2022).
+Por fim, não é possível analisar a alegação de que o paciente teria sido vítima de violência excessiva no ato da prisão, pois demandaria aprofundada dilação probatória, providência inviável na via mandamental.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
