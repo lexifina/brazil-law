@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por JANAINA MARTINS DE SOUZA, com fundamento no artigo 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a recorrente foi condenada às penas de 02 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no artigo 304, c/c. art. 297, ambos do Código Penal, em razão da apresentação de atestado médico falso perante empresa privada, o que foi mantido pelo eg. Tribunal de origem (fls. 391-399 e fls. 449-454).
+Nas razões do recurso especial, a Defesa sustenta a violação aos artigos 297, 301, §1º e 304, todos do Código Penal, ao argumento de que o uso de atestado médico adulterado para justificar afastamento laborativo se amolda ao tipo penal previsto no art. 301, §1º, CP.
+Pretende, ao final, seja a conduta imputada ao recorrente desclassificada para o crime previsto no artigo 301, §1º, do CP e, por conseguinte, seja declarada a nulidade da condenação, ante a incompetência absoluta do juízo (competência do Juizado Especial Criminal), ou, ao menos, que se determine a abertura de vista ao Ministério Público para oferecimento de proposta de transação penal.
+Apresentadas as contrarrazões (fls. 471-476), o recurso foi admitido parcialmente na origem e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 490-491).
+É o relatório.
+Decido.
+Nas razões recursais, como relatado, a Defesa requer a desclassificação da conduta imputada a ora recorrente para o delito previsto no artigo 301, §1º do Código Penal, em observância ao princípio da especialidade.
+Cumpre transcrever excerto do voto condutor do acórdão (fl. 452, grifei):
+" ..  a discussão no presente caso decorre do documento utilizado pela embargante, o qual consiste em falso atestado médico (vide laudo de fls. 85/87), oriundo da Secretaria Municipal de Saúde de Barretos, cujo prazo de licença foi alterado, de 2 para 12 dias de afastamento.
+Com efeito, malgrado não se olvide que o art. 301, § 1º, do Código Penal, faça expressa referência à falsificação de atestado ou certidão, é certo a referida figura exige dolo específico, com finalidade própria de habilitar alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem", portanto, voltada ao setor público. "
+Certo é que o artigo 301, §1º, do CP que trata da falsidade material de atestado ou certidão, dispõe:
+"Certidão ou atestado ideologicamente falso
+Art. 301 - Atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem:
+Pena - detenção, de dois meses a um ano.
+§1º Falsidade material de atestado ou certidão
+§ 1º - Falsificar, no todo ou em parte, atestado ou certidão, ou alterar o teor de certidão ou de atestado verdadeiro, para prova de fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem:
+Pena - detenção, de três meses a dois anos."
+Sobre o tema, a doutrina leciona que não há como interpretar o § 1º do artigo 301 do CP (falsidade material) isoladamente, sem atentar que o caput do referido dispositivo (certidão ou atestado ideologicamente falso) se refere a ato cometido em razão de função pública. De tal forma, o especial fim de agir exigido pelo art. 301 do CP refere-se à obtenção de vantagem de natureza pública.
+Neste contexto, convém transcrever os ensinamentos de Cezar Roberto Bitencourt:
+"As condutas tipificadas são as seguintes: a) atestar (provar, afirmar algo oficialmente) ou certificar (asseverar, afirmar a certeza) falsamente; b) falsificar, total ou parcialmente, atestado ou certidão ou alterar seu teor, quando verdadeiro, para servir como prova (§ 1o). As ações incidem sobre o fato ou circunstância "inerente ou atinente à pessoa a quem se destina o atestado ou a certidão e condicionante da obtenção de um benefício de ordem de caráter público" (Nélson Hungria, Comentários ao Código Penal, cit., v. 9, p. 292). O crime previsto no art. 301, caput, do Código Penal é próprio e constitui modalidade de falsidade ideológica, somente podendo ser praticado por funcionário público, na execução de ato de ofício; por isso não há como interpretar o § 1o (falsidade material) isoladamente, sem atentar que o primeiro se refere a ato cometido em razão de função pública." (Bitencourt, Cezar R. Código penal comentado. Disponível em: STJ Minha Biblioteca, (10th Edição). Editora Saraiva, 2019. - p. 1385)
+No mesmo sentido é o entendimento desta Corte de Justiça:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. DESCLASSIFICAÇÃO PARA FALSIDADE MATERIAL DE ATESTADO OU CERTIDÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+A jurisprudência desta Corte Superior possui o entendimento de que "O especial fim de agir exigido pelo art. 301 do Código Penal refere-se à obtenção de vantagem de natureza pública. Sendo assim, se a Corte de origem afirmou que não foi esse o objetivo perseguido pelo agente no caso concreto, não há como admitir a pretendida desclassificação" (AgRg no REsp n. 1.279.507/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/8/2015).
+No caso, a Corte estadual considerou que a ré, ao usar atestado médico falsificado para justificar falta no trabalho, tentou obter vantagem de natureza privada, de modo que inviável a desclassificação pleiteada.
+Para rever o entendimento firmado, seria necessário o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial pelo disposto na Súmula n. 7 do STJ.
+Agravo regimental não provido." (AgRg no AREsp n. 1.520.560/PR, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/10/2019).
+Em reforço: AgRg no REsp n. 1.279.507/SP, Sexta Turma, Rel. Ministro Sebastião Reis Júnior, DJe de 3/8/2015 e AgRg no HC n. 628.557/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe de 1/3/2021.
+No caso em análise, a moldura fática delineada no acórdão atacado é no sentido de que a recorrente fez uso de documento público falsificado, tendo como objetivo obtenção de vantagem de natureza privada (justificar faltas no trabalho), não sendo cabível a desclassificação pleiteada.
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+RECURSO ESPECIAL. ART 304 C.C. O ART 297, CAPUT, AMBOS DO CP. DESCLASSIFICAÇÃO DESCLASSIFICAÇÃO PARA FALSIDADE MATERIAL DE ATESTADO OU CERTIDÃO (ART. 301, §1º DO CP). IMPOSSIBILIDADE. CONDUTA QUE OBJETIVAVA VANTAGEM DE CUNHO PRIVADA (ABONO DE FALTAS). SÚM. 568/STJ. RECURSO ESPECIAL DESPROVIDO.
