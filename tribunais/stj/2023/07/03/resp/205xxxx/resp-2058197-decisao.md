@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 233):
+Ação de prestação de contas entre sócios de empresa. Disposição contratual expressa faz referência de que divergência entre os sócios seria submetida à arbitragem. Alegação da apelante de que seria facultativa referida cláusula não pode sobressair. Observância dos artigos 337, inciso X, e 485, inciso VII, ambos do Código de Processo Civil. Não cabe ao juiz analisar questões outras de disposições contratuais. Competência do juízo arbitral deve prevalecer. Precedentes deste e. TJSP. Sentença que se apresenta adequada. Apelo desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 550 do Código de Processo Civil; 1.020 do Código Civil; e 4º, § 2º, da Lei nº 9.307/96; bem como 5º, XXXV, da Constituição Federal.
+Sustenta que "a disposição contratual em análise dispõe sobre a faculdade de submeter controvérsias decorrentes da sociedade empresarial diante de juízo arbitral, ou seja, não é uma cláusula compromissória, nem cheia e muito menos vazia, pois sequer garante a obrigatoriedade do juízo arbitral".
+Aduz que "A palavra "poderá" demonstra a opção de ser submetidas controversas perante o juízo arbitral. Entendimento diverso representa lesão ao Princípio da Inafastabilidade da Jurisdição Estatal! Inclusive, o próprio tribunal recorrido sustentou sobre a alternância, ou seja, o sentido opcional da cláusula estatuída, matéria prequestionada em sede de embargos de declaração".
+Alega que "O estatuto em questão é comparado ao contrato de adesão, aplicando-se a ele o disposto no artigo 4º, §2º, da Lei nº 9.307/96, pois trata-se de contrato padrão".
+Assevera que "não se discute a validade da r. cláusula, uma vez que esta sequer representa cláusula compromissória, pois garante opcionalmente, a interferência do juízo arbitral, ou seja, descaracterizado o efeito obrigacional da cláusula compromissória, esta não deve ser interpretada como tal".
+Contrarrazões apresentadas.
+Delimitada a controvérsia, passo a decidir.
+De início, destaca-se que jurisprudência desta Corte é firme no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Assim, inviável a apreciação da alegada violação ao art. 5º, XXXV, da Constituição Federal.
+Ademais, do exame das razões do recurso, verifica-se que a parte recorrente não se desincumbiu do ônus de demonstrar violação à lei federal, limitando-se a indicar os supostos dispositivos de lei, sem explicitar, de forma argumentativa, as razões que justificariam a alteração do julgado.
+A propósito, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (AgInt no REsp 1.628.949/PI, relator Ministro Marco Buzzi, Quarta Turma, DJe de 7/3/2018).
+Acrescente-se que os arts. 550 do Código de Processo Civil e 1.020 do Código Civil não possuem correlação com as alegações da parte, tampouco comando normativo apto para infirmar os fundamentos do acórdão recorrido, de modo que não há como afastar a incidência do óbice da Súmula 284/STF na presente hipótese. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. 1. CONVERSÃO DA OBRIGAÇÃO EM PERDAS E DANOS. CRITÉRIOS. RECURSO REPETITIVO N. 1.301.989/RS. 2. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. 4. AGRAVO IMPROVIDO.
+(..)
+2. O entendimento desta Corte é que a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Portanto, a deficiência na fundamentação do recurso atrai a aplicação, por analogia, do disposto na Súmula 284 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 827.145/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2019, DJe 16/5/2019)
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVO LEGAL TIDO POR VIOLADO E EM TORNO DO QUAL HAVERIA DISSÍDIO JURISPRUDENCIAL COM CONTEÚDO NORMATIVO INSUFICIENTE PARA FUNDAMENTAR A PRETENSÃO RECURSAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. (..) DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula nº 284 do Supremo Tribunal Federal.
+(..)
+7. Agravo interno não provido.
+(AgInt no REsp 1.879.425/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/11/2020, DJe de 27/11/2020.)
+Ademais, no que toca à tese de que "O estatuto em questão é comparado ao contrato de adesão, aplicando-se a ele o disposto no artigo 4º, § 2º, da Lei nº 9.307/96, pois trata-se de contrato padrão", verifica-se que não houve debate acerca do tema no Tribunal de origem, de modo que ausente o necessário prequestionamento acerca da matéria, incidindo, assim, o óbice da Súmula 211/STJ.
+Destaca-se que não há que se cogitar a ocorrência do prequestionamento ficto na hipótese, nos termos da jurisprudência desta Corte Superior, haja vista que não foi alegada violação ao art. 1.022 do CPC na hipótese.
+Ainda que assim não fosse, para alterar a conclusão do acórdão recorrido, que asseverou, de maneira expressa, que "apresenta-se válida e eficaz a disposição contratual que determina que a pendência entre os sócios deve ser dirimida por arbitragem", demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, providências vedadas em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CP C/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
