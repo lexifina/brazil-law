@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELEIZETE APARECIDA DA SILVA e OUTRAS contra decisão de minha lavra em que não conheci do apelo nobre manejado pelo ente municipal, em virtude da aplicação da Súmula 83 do STJ.
+Aduz a parte embargante que não foi julgado "Recurso Especial aviado pelas Autoras para declarar TRINTENÁRIA A PRESCRIÇÃO DO FGTS, OBSERVANDO-SE AS DISPOSIÇÕES DO ARE 709.212/DF DO EXCELSO STF, somente julgando e apreciando Recurso Especial do Município de Patrocínio".
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material.
+Ao reexaminar a hipótese, constato a existência da omissão ventilada quanto ao julgamento do aludido recurso.
+Considerado isso, passo a análise do recurso especial interposto por ELEIZETE APARECIDA DA SILVA e OUTRAS.
+Pois bem.
+Em julgamento realizado em 13/11/2014 (ARE 709.212), sob a sistemática da repercussão geral, o STF declarou a inconstitucionalidade das normas que previam o privilégio da prescrição trintenária, decidindo que é de cinco anos o prazo prescricional aplicável à cobrança de valores não depositados no FGTS, tendo atribuído efeito ex nunc à decisão, a fim de não atingir os processos em curso.
+A ementa sintetizou o julgado com o seguinte teor:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc . Recurso extraordinário a que se nega provimento.
+Encontrando-se o tema julgado pela sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis;
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, ACOLHO os embargos de declaração, com feitos modificativos, TORNO SEM EFEITO os decisum anteriores e DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
