@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial, manejado por SAUL DUTRA, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 116):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. INSS. EFEITOS DATUTELA. CONSECTÁRIOS LEGAIS. PROSSEGUIMENTO. CORREÇÃO MONETÁRIA. INVIABILIDADE.
+1. Ainda que o título executivo tenha diferido para a fase de execução a definição dos consectários legais ou autorizado a adoção de entendimento superveniente das Cortes Superiores, certo que não se autoriza a emissão de precatório complementar para modificação dos índices adotados com concordância expressa da parte, consoante cálculo devidamente homologado em decisão preclusa, sob pena de ofensa, não apenas ao instituto da preclusão, mas também ao princípio da segurança jurídica.
+2. Caberia à parte manifestar sua ressalva quanto à intenção de execução futura do complemento ou requerer o sobrestamento do feito sobre aparcela controversa, o que não ocorreu no caso concreto.
+3. Recurso desprovido.
+A ponta o recorrente violação ao art. 189 do CC, "na medida em que o direito às diferenças buscadas pela parte autora só surgiram com o julgamento do Tema nº 810 pelo STF, não podendo a parte ser prejudicada pela demora no julgamento de um recurso no Tribunal Superior" (fl. 133).
+Aduz que "O acórdão proferido em agravo de instrumento em procedimento de cumprimento de sentença não reconheceu a possibilidade de a parte autora dar prosseguimento à execução de sentença e cobrar as diferenças decorrentes da correção monetária sobre os valores pagos em atraso -Tema nº 810 do STF-muito embora o acórdão anterior proferido em sede de apelação tenha postergado a definição dos critérios de correção monetária para momento posterior ao julgamento da questão pelo STF" (fl.127) .
+Afirma que "Diante do entendimento consolidado de ser incabível a ação rescisória por falta de interesse de agir (pois a diferença pode ser pleiteada no cumprimento de sentença), o autor requereu perante o Juízo de Primeiro Grau, o desarquivamento do feito e a apuração das diferenças decorrentes da alteração do critério de correção monetária" (fl. 132).
+Alega que "O recorrente só poderia requerer sua apuração, como de fato fez, após o trânsito em julgado da decisão exarada no RE 870.947. Logo, mostra-se absolutamente infundada e indevida, a negativa oposta pelo TRF-4, fundamentada na extinção do cumprimento de sentença, sem que a parte tivesse se insurgido oportunamente" (fl. 139).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Isso porque, o Tribunal de origem não examinou a controvérsia, sob o enfoque do dispositivo legal apontado como violado, tampouco foram opostos embargos declaratórios para suprir eventual omissão quanto a este particular. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Nesse sentido, anote-se, o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. PRELIMINARES DE ILEGITIMIDADE PASSIVA AD CAUSAM E INADEQUAÇÃO DA VIA ELEITA. EXIGÊNCIA DE TAXA DE FISCALIZAÇÃO E PRESTAÇÃO DE SERVIÇOS PÚBLICOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. CONTROVÉRSIA DECIDIDA COM BASE EM NORMA LOCAL. INCIDÊNCIA DA SÚMULA 280/STF.
+1. Não demonstrada a violação apontada aos arts. 489 e 1.022 do CPC, visto que o órgão julgador manifestou-se expressamente sobre as teses apontadas como omissa nas razões recursais, em decisão suficientemente fundamentada, porém em sentido contrário ao pretendido pelo recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+2. Ademais, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes Embargos de Declaração. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+3. Não há contradição em afastar a alegada violação dos arts. 489 e 1.022 do CPC e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+4. Depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, a Lei Estadual 15.838/2015. Desse modo, aplicável à espécie, por analogia, a Súmula 280 do Supremo Tribunal Federal.
+5. Agravo Interno não provido.
+(AgInt no AREsp 2247.747/CE, Rel. Min. HERMAN BENJAMIN, DJe de 05/06/2023).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
