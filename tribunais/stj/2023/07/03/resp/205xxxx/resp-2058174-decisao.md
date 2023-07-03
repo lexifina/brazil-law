@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILSON STELE NETO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ, fl. 362):
+"PENAL. MOEDA FALSA. ARTIGO 289, § 1º, DO CÓDIGO PENAL. BUSCA PESSOAL VÁLIDA. PREENCHIDOS OS REQUISITOSPREVISTOS NO ART. 244 DO CÓDIGO PENAL. INVASÃO DE DOMICILIO. ILEGALIDADE. MANTIDA A CONDENAÇÃO. DOSIMETRIA. MANTIDA.
+1. Preenchidos os requisitos legais, previstos no art. 244 do CPP diante de "fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito", não há falar em nulidade da busca pessoal que identificou a posse de 3 cédulas falsas com o acusado.
+2. Deve ser reconhecida a ilegalidade do ingresso da autoridade policial à residência do acusado, sem determinação judicial, ausentes investigações prévias a justificar a ação, bem como qualquer notícia de autorização ou justificativa para o ingresso no interior do domicílio pelos agentes estatais.
+3. Mantida a condenação do réu pela prática do delito previsto no artigo 289, §1º do Código Penal, à pena mínima de 3 (três) anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direito, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+4. Parcialmente provida a apelação criminal."
+Opostos embargos infringentes, o recurso não foi acolhido, conforme se verifica da leitura da ementa abaixo (e-STJ, fl. 406):
+"PENAL E PROCESSUAL PENAL. EMBARGOS INFRINGENTES E DENULIDADE. MOEDA FALSA. ART. 289, §1º, DO CÓDIGOPENAL. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADASUSPEITA. ART. 244 DO CPP.
+1. Havendo fundada suspeita, com base em dado objetivo - o nervosismo do sujeito -, infere-se que foi lícita e regular a revista pessoal por meio da qual os policiais militares encontraram cédulas falsas em poder do acusado.
+2. Embargos infringentes e de nulidade não providos."
+Em suas razões recursais, a parte recorrente aponta violação do art. 244 do Código de Processo Penal. Aduz para tanto, em síntese, que as provas obtidas, partir da busca pessoal são ilícitas, pois fundadas em alegado "nervosismo ao perceber a presença policial". Requer, ao final, o provimento do recurso para anular a condenação.
+Com contrarrazões (e-STJ, fls. 458-467), o recurso especial foi admitido na origem (e-STJ, fls. 470-471).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls.485-492).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+No acórdão impugnado, consta (e-STJ, fls. 418):
+ ..  Consoante se pode depreender, a divergência verificada no âmbito da e. 8ª Turma, cuja prevalência pretende o embargante, diz respeito à suposta ilicitude da prova obtida por meio da revista pessoal do réu. Inicialmente cumpre frisar que, no momento da abordagem policial, durante a revista pessoal, verificou-se que WILSON guardava 3 (três) notas falsas de R$ 50,00.
+Na sequência, devido à informação que teria sido prestada por WILSON, de que possuía em sua casa outras cédulas inautênticas, os policiais dirigiram-se à sua residência e ali encontraram outras 36 (trinta e seis)cédulas falsas de R$ 50,00. Durante o julgamento da apelação criminal apresentada pela defesa, tanto o Relator, o Juiz Federal NIVALDO BRUNONI, como o Relator para o acórdão, o Des. Federal JOÃO PEDRO GEBRAN NETO, votaram pela ilegalidade da diligência policial realizada na residência do acusado, onde foram apreendidas 36 (trinta e seis) notas falsas de R$ 50,00, pois desprovida de autorização judicial restando evidente a ilicitude do ato.
+Dessa forma, discute-se nos presentes embargos unicamente a licitude da abordagem policial do réu, onde, após revista pessoal, foram encontradas 3 (três) notas falsas de R$ 50,00.  ..
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+Sobre o tema, esta Corte já se manifestou reiteradas vezes que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+No caso, observa-se que o Tribunal de o rigem justificou a execução da medida em razão do nervosismo apresentado pelo recorrente ao avistar a viatura policial.
+Como se verifica, não houve a indicação de qualquer atitude concreta que apontasse estar o recorrente na posse de material objeto de ilícito ou na prática de algum crime. Logo, conforme reiterada jurisprudência desta Corte, é ilegal a busca pessoal realizada sem fundadas suspeitas. No mesmo sentido:
+" ..  1. A referência a elementos subjetivos, como o nervosismo do agravado ao notar a presença dos policiais, não autoriza a busca pessoal sem prévia autorização judicial.
+2. A ilegalidade da prisão em flagrante contamina a prova colhida, esvaziando da denúncia os indícios de materialidade e autoria, justificando, por conseguinte, a imediata interrupção da atividade persecutória estatal.
+3. Mesmo que a idoneidade da prisão em flagrante não tenha sido debatida pelo Tribunal de origem, impõe-se-lhe a revogação como consectário lógico da declaração de nulidade da busca pessoal realizada, que fulminou com as todas provas da materialidade delitiva.
+4. Agravo regimental improvido"
+(AgRg no HC n. 735.387/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+" ..  1. A ausência de justa causa previamente constatada por parte dos agentes responsáveis pela diligência policial a respeito da presença de fundadas razões para a realização de busca pessoal invalida as provas obtidas a partir da medida.
+2. Neste caso, as circunstâncias que antecederam a medida invasiva não permite que se conclua pela presença de elementos de suporte suficiente para justificar a adoção da medida invasiva. A alegação de que o abordado demonstrou nervosismo durante a ação policial, circunstância que não atende à exigência de constatação de elementos prévios e tangíveis da ocorrência de crime para dar amparo à diligência.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante ocorridas em contexto fático semelhante ao ocorrido na hipótese apresentada nestes autos, em que a entrada forçada em domicílio não foi precedida de prévia constatação, para além da dúvida razoável, da ocorrência de crime permanente no interior do imóvel.
+4. Agravo regimental não provido."
+(AgRg no HC n. 771.337/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Sob tal contexto, uma vez ampa rado o édito condenatório exclusivamente em prova obtida de busca pessoal ilegal (3 cédulas falsas de 50,00, bem como todas provas dela derivadas) - impõe-se a absolvição do recorrente pela falta de comprovação da materialidade do delito de moeda falsa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para absolver o ora recorrente da imputação pela prática do delito de moeda falsa, com base no art. 386, II, do CPP.
+Publique-se. Intime-se.
