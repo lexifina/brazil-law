@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS MASSAHARU HANADA - ME e MARCOS MASSAHARU HANADA, por si e representando a pessoa jurídica, contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 212):
+AGRAVO REGIMENTAL - COMPRA E VENDA - AÇÃO DE COBRANÇA - DISTRIBUIDORA DE ÁGUA MINERAL - Agravo interposto com base no §1º do artigo 557 do Código de Processo Civil para reapreciação pelo Órgão Colegiado do agravo de instrumento o qual, monocraticamente, se havia negado seguimento - Exequente que, apesar de inúmeras tentativas em satisfazer o seu crédito que possui em relação ao executado, apenas conseguiu penhorar uma quantia ínfima e simbólica - Pleito do autor de que seja expedido oficio ao Consulado Geral d a República da África do Sul, já que o sócio-executado atualmente se encontra residindo na África, bem como se existem bens e/ou contas bancárias em seu nomeno referido país - Inexistência de previsão legal do pleito - Ademais, deve se levar em conta a limitação do poder jurisdicional - Ausência de argumentos novos, capazes de atacar a decisão monocrática, que fica mantida. Agravo regimental não provido.
+Alegam os recorrentes que há violação do art. 665-A do CPC/1973 e do art. 4º da LINDB, antida LICC.
+Dizem, em suma, que a falta de previsão legal não impede a providência pretendida.
+Sem contrarrazões (fl. 229).
+O especial não foi admitido na origem por falta de demonstração de como teriam ocorrido as violações de lei federal (fl. 230).
+É o relatório. Decido.
+As razões do agravo impugnam a decisão que inadmitiu o especial, recurso que passa a ser examinado.
+Colhe-se do acórdão recorrido o seguinte (fl. 214):
+O agravante insiste seja expedido ofício ao Consulado Geral da República da África para a obtenção de informações do executado, que se encontra residindo no referido país, a fim de satisfazer seu crédito.
+Isto porque, apesar de inúmeras tentativas em satisfazer o seu crédito que possui em relação ao executado, apenas conseguiu penhorar uma quantia ínfima e simbólica.
+Entretanto, conforme bem decidiu o magistrado a quo, inexiste previsão legal para o pleito.
+Ademais, mesmo se referida expedição do ofício solicitado fosse deferida, na prática, não geraria nenhum efeito, isto porque se deve levar em conta a limitação do poder jurisdicional, ou seja, que este não possui legitimação para determinar eventual penhora de bens ou valores supostamente existentes em outro país.
+Como se vê, nenhum argumento novo, capaz de infirmar a decisão monocrática, foi trazido pelo agravante.
+O que se verifica é que ele pretende, com base em alegações infundadas, que a Turma julgadora modifique a decisão anteriormente proferida, o que é inadmissível.
+Em face do exposto, nego provimento ao agravo.
+Consoante se depreende da leitura do excerto transcrito, não houve, na origem, decisão específica sobre as matérias afetas aos dispositivos legais tidos como violados. Sequer foram opostos embargos de declaração para suprir eventual omissão no julgamento. Em tal contexto, forçoso é reconhecer incidente as Súmulas 282 e 356 do STF, dada a evidente falta de prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANO MORAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. SÚMULA 83 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que foram impugnados especificamente os fundamentos da decisão de admissibilidade exarada na eg. Instância a quo. Novo exame do feito.
+2. Esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, nos termos das Súmulas 282 e 356 do STF.
+3. " E mbora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015" (AgInt no REsp 1.735.914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018).
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.001.273/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 22/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PRESCRIÇÃO INTERCORRENTE. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. A Segunda Seção do STJ, no IAC n. 1, definiu as seguintes teses:
+"1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). 1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual)" (REsp n. 1.604.412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.952.101/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL PARA A EXIBIÇÃO DE DOCUMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. HONORÁRIOS. NAS CAUSAS EM QUE NÃO HOUVER CONDENAÇÃO, O JUIZ NÃO ESTÁ ADSTRITO AOS PERCENTUAIS ESTABELECIDOS NO ART. 20, § 3º, DO CPC. HONORÁRIOS ADVOCATÍCIOS QUE PODEM SER FIXADOS COM BASE NO VALOR DA CAUSA OU AINDA EM MONTANTE FIXO, DEPENDENDO DE APRECIAÇÃO EQUITATIVA DO MAGISTRADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Se o conteúdo normativo contido no dispositivo apontado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem na espécie as Súmulas 282 e 356 do STF. Caso concreto em que não foram opostos embargos de declaração, a fim de suscitar sua discussão.
+2. A revisão da conclusão estadual demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, a Súmula 83 do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.583.944/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/4/2020, DJe de 24/4/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
