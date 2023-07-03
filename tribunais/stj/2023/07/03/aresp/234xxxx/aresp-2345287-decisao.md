@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+TRIBUTÁRIO AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL MUNICÍPIO DE VOTUPORANGA Decisão que indeferiu o pedido de arresto online. Recurso interposto pelo exequente. PEDIDO DE ARRESTO ONLINE - O arresto é medida cabível nos termos do artigo 7º, inciso III da Lei Federal nº 6830 de 1980 Agravante que não demonstrou a frustração das tentativas de localização do executado antes de requerer o arresto online Executado que não teve a oportunidade de quitar o débito ou oferecer bens à penhora Precedentes deste E. Tribunal de Justiça em casos semelhantes. Decisão mantida Recurso desprovido.
+
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, o ora agravante sustenta violação ao art. 7º, inciso III, da Lei n. 6.830/1980, bem como aos arts. 830 e 854 do CPC/2015, alegando, em síntese, que: (a) "para determinação do arresto executivo não é necessário o esgotamento de todos os meios para encontrar o executado, bastando, segundo o art. 7º da LEF e 830 do nCPC, que o executado não seja localizado. E foi justamente o que ocorreu no caso, tendo sido frustrado a tentativa de citação do devedor"; (b) "com a adoção do arresto executivo online, não se consuma, de imediato, a penhora, mas apenas torna indisponíveis os ativos financeiros do executado para garanti-la oportunamente (art. 830 § 2º). Em suma: tal medida não viola o princípio do devido processo legal, pois apenas o bloqueio de ativos financeiros será efetivado e não a penhora e transferência de valores".
+O recurso foi inadmitido pela decisão de fls. 27/30, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Constou do acórdão que negou provimento ao recurso de agravo de instrumento interposto pelo ora recorrente que:
+A questão controvertida refere-se à possibilidade do arresto online.
+(..)
+Pelo dispositivo acima, vê-se que o arresto é medida que se aplica quando o devedor não tiver domicílio ou dele se ocultar.
+No caso dos autos, o agravante não demonstrou a frustração das tentativas de localização do executado antes de requerer o arresto online.
+Ademais, o executado não teve a chance de quitar o débito ou oferecer bens à garantia, razão pela qual o indeferimento do arresto online deve ser mantido.
+A  orientação  das  Turmas  que  integram  a  Primeira  Seção/STJ  pacificou-se  no  sentido  de  que,  "mesmo  após  a  entrada  em  vigor  do  art.  854  do  CPC/2015,  a  medida  de  bloqueio  de  dinheiro,  via  BacenJud,  não  perdeu  a  natureza  acautelatória  e,  assim,  para  ser  efetivada,  antes  da  citação  do  executado,  exige  a  demonstração  dos  requisitos  que  autorizam  a  sua  concessão"  (REsp  1832857/SP,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  julgado  em  17/09/2019,  DJe  20/09/2019).
+Ademais,  em  se  tratando  de  medida  de  natureza  ac  autelatória,  o  seu  deferimento  pressupõe  o  preenchimento  dos  pressupostos  cautelares  específicos.
+Nesse  contexto,  a  verificação  de  eventual  ocorrência  (ou  não)  de  contrariedade  ao  disposto  nos  preceitos  legais  tidos  por  violados  demanda  o  reexame  dos  aspectos  fático-probatórios  da  causa,  o  que  é  inviável  em  sede  de  recurso  especial,  tendo  em  vista  o  disposto  na  Súmula  7/STJ.
+Diante  do  exposto,  com  base  no  art.  932,  III  e  IV,  do  CPC/2015  c/c  o  art.  253,  parágrafo  único,  II,  b,  do  RISTJ,  conheço  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  parte,  negar-lhe  provimento.
+Publique-se.  Intimem-se.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO. RECURSO ESPECIAL.  EXECUÇÃO  FISCAL  .  BLOQUEIO  DE  ATIVOS  FINANCEIROS.  NECESSIDADE  DE  CITAÇÃO.  QUESTÃO  ATRELADA  AO  REEXAME  DE  MATÉRIA  DE  FATO.  ÓBICE  DA  SÚMULA  7/STJ.  AGRAVO  CONHECIDO  PARA  CONHECER  PARCIALMENTE  DO  RECURSO  ESPECIAL  E,  NESSA  PARTE,  NEGAR-LHE  PROVIMENTO.
