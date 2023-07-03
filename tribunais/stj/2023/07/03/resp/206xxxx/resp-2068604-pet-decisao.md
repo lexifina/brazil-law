@@ -1,0 +1,8 @@
+DECISÃO
+A recorrida, YEDDA CHRISTINA CHING-SAN FILIZZOLA, apresentou petição, protocolizada sob o n. 00555852/2023 (e-STJ fl. 3.827), noticiando que renuncia, "em caráter irrevogável e irretratável, ao direito sobre o qual se funda a presente ação, exclusivamente no que tange à GOOGLE BRASIL INTERNET LTDA., nos termos dos artigos 487, III, c do Código de Processo Civil". Ao final, requer "a homologação da renúncia, limitada à corré Google Brasil".
+O recorrente, GOOGLE BRASIL INTERNET LTDA., apresentou petição, protocolizada sob o n. 00596743/2023 (e-STJ fl. 3.829), informando que concorda "com o pedido de renúncia formulado pela autora/recorrida e reque r  que seja homologado o pleito, reconhecendo-se, em decorrência disso, a perda de objeto do recurso especial".
+Os advogados subscritores das referidas peças estão regularmente constituídos nos autos, mas não têm poderes para renunciar ao direito sobre o qual se funda a ação (e-STJ fls. 35, 382, 3.243, 3.244/3.245).
+O pedido de renúncia expressa quanto ao direito sobre que se funda a ação, conforme formulado na petição de fl. 3.827 (e-STJ), deve ser realizado perante a instância originária. Conforme se infere das informações constantes dos autos, denota-se a superveniente falta de interesse recursal, por perda de objeto do recurso especial de fls. 3.203/3.225 (e-STJ) de GOOGLE BRASIL INTERNET LTDA.
+Diante do exposto, JULGO PREJUDICADO o recurso especial de GOOGLE BRASIL INTERNET LTDA. de fls. 3.203/3.225 (e-STJ), por perda de objeto.
+Após, retornem os autos conclusos para julgamento do recurso especial de Twitter Brasil Rede de Informação Ltda. (e-STJ fls. 3.120/3.157) e do recurso especial de Facebook Serviços Online do Brasil Ltda. (e-STJ fls. 3.269/3.297).
+Publique-se e intimem-se.
