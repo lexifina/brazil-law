@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 233):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO INDEVIDA. PRELIMINAR DE OFÍCIO. FALTA DE INTERESSE DE AGIR. DESCUMPRIMENTO DE ORDEM JUDICIAL PROFERIDA EM OUTRA DEMANDA. PROPOSITURA DE NOVA AÇÃO. DESCABIMENTO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. - Se a negativação discutida na presente demanda decorre do descumprimento, pelo réu, de pronunciamento judicial proferido em outra ação, na qual se reconheceu a inexigibilidade dos débitos, cumpria ao autor informar tal circunstância naqueles autos, pleiteando as medidas cabíveis. - Neste caso, carece ao autor interesse de agir, por inadequação da via eleita, ao ajuizar nova ação para pleitear a retirada da inscrição indevida e cobrança de indenização por danos morais. APELAÇÃO CÍVEL Nº 1.0000.22.069453-3/001 - COMARCA DE ITAPECERICA - APELANTE(S
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 373, incisos I e II, 485, inciso VI, 497, 500 e 537 do Código de Processo Civil de 2015; 267, inciso VI, do Código de Processo Civil de 1973; 6º, incisos IV, VI e VII, e 14 do Código de Defesa do Consumidor; e 186, 422 e 927 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que a condenação em multa cominatória, em demanda pretérita, não impede a propositura de demanda indenizatória por negativação indevida do nome do autor.
+Requer seja afastada a preliminar de ausência de interesse de agir, tendo em vista a natureza diversa da multa cominatória e da indenização por danos morais.
+Contrarrazões apresentadas.
+Juízo positivo de admissibilidade às fls. 270-272.
+Assim delimitada a controvérsia, passo a decidir.
+A irresignação merece acolhida.
+Na origem, a parte aqui recorrente ajuizou ação ordinária de indenização por dano moral em face do Banco Bradesco S.A., ora recorrido, por inclusão indevida de seu nome no cadastro de inadimplentes.
+A sentença deu parcial provimento à ação, para "declarar a inexistência do débito e condenar o requerido a indenizar o requerente a quantia de R$10.200,00 (dez mil e duzentos reais)  .. ".
+A Corte estadual, no entanto, entendeu ausente o interesse recursal do recorrente, sob os seguintes fundamentos (fls. 237-240):
+Compulsando o caderno processual, constata-se que o Sr. João Raimundo Ferreira, autor na presente demanda, primeiramente ajuizou, em 06/08/2021, a ação nº 5001289-73.2021.8.13.0335, na qual alegou ser indevidos os descontos realizados em seu benefício previdenciário pelo Banco Bradesco S/A.
+Verifica-se que naquele feito foi deferida em 17/08/2021 a tutela provisória de urgência, para determinar que o requerido se abstivesse de realizar as referidas cobranças (doc. eletrônico nº 10). Posteriormente, foi proferida em 21/10/2021 sentença de mérito, na qual foi declarada a inexistência dos contratos nºs 278.411.443, 278.714.243 e 336.965.710, sendo a instituição financeira condenada a restituiu os valores descontados, ao Sr. João (doc. eletrônico nº 12).
+Noutro giro, nota-se que antes mesmo daquela ação transitar em julgado em 30/11/2021, o autor tomou conhecimento em 03/11/02021 acerca da inscrição do seu nome no cadastro de inadimplentes em razão dos mesmos contratos, acionando extrajudicialmente o Banco Bradesco, que procedeu a exclusão no dia 16/11/2021 (docs. de ordem nº 23/24).
+Ainda que ciente da baixa da inscrição, o autor ajuizou a presente ação, pugnando pela retirada da negativação e pela condenação do réu ao pagamento de indenização por danos morais.
+Todavia, tal como consignado na sentença hostilizada, entendo que o requerente de fato não tem interesse no ajuizamento da presente demanda, dada a inadequação da via eleita para solucionar o imbróglio narrado.
+Isso porque, diante do descumprimento da decisão proferida nos autos da ação nº 5001289-73.2021.8.13.0335, que determinou à instituição financeira que se abstivesse de cobrar as parcelas dos referidos contratos, a medida que cabia ao ora apelante era a de informar ao Juízo o ocorrido, requerendo fosse o banco réu compelido a retirar a inscrição indevida, podendo postular, inclusive, o pagamento da multa cominatória fixada naqueles autos.
+Outrossim, cumpre salientar que na referida demanda também foi formulado pedido indenizatório e, tendo o autor tido ciência acerca da negativação antes mesmo de ser intimado quanto à sentença, poderia ter sido tal circunstância noticiada naqueles autos, ainda que por meio de recurso, para ser levada em consideração quando da análise dos pedidos de danos morais, por se tratar de fato superveniente que se enquadra na regra prevista no art. 493, do CPC, in verbis:
+Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão. Parágrafo único. Se constatar de ofício o fato novo, o juiz ouvirá as partes sobre ele antes de decidir.
+Nessa ordem de ideias, entendo que a requerente não tem interesse no ajuizamento da presente ação, dada a inadequação da via eleita para solucionar o imbróglio narrado.  ..
+Com tais considerações, DE OFÍCIO, JULGO EXTINTO O FEITO, SEM RESOLUÇÃO DO MÉRITO, POR AUSÊNCIA DE INTERESSE DE AGIR, nos termos do art. 17 e 485, VI e §3º do CPC.
+Ao acolher a preliminar de ausência de interesse de agir, a Corte local se distanciou da orientação jurisprudencial desta Corte, que entende cabível o pedido de indenização por danos morais decorrente do descumprimento de ordem judicial em demanda pretérita, em razão da natureza diversa dos institutos.
+A propósito, cito os seguintes julgados, os quais contém discussões similares à presente:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA DA REQUERIDA.
+1. O STJ possui entendimento no sentido de que é cabível o pedido de indenização por danos morais ante ao descumprimento de ordem judicial em demanda pretérita envolvendo as mesmas partes, na qual foi fixada multa cominatória, pois são institutos de natureza diversa, sendo possível, portanto, a cumulação das astreintes com a indenização.
+2. Não há falar em majoração dos honorários recursais em sede de agravo interno, tendo em vista que a referida verba deve ser aplicada, apenas uma vez, em cada grau de jurisdição, e não a cada recurso interposto na mesma instância.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.685.060/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/11/2019, DJe de 27/11/2019.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. AÇÃO INDENIZATÓRIA. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. DANO MORAL CONFIGURADO. MULTA COMINATÓRIA FIXADA EM DEMANDA PRETÉRITA. DESCUMPRIMENTO. CUMULAÇÃO. POSSIBILIDADE.
+1. As disposições do NCPC são aplicáveis ao caso concreto ante os termos do Enunciado n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Cinge-se a controvérsia em definir se é possível prosperar o pedido de indenização por danos morais em razão de descumprimento de ordem judicial em demanda pretérita, na qual foi fixada multa cominatória.
+3. A jurisprudência desta Corte é firme no sentido de que a inscrição indevida em cadastro de inadimplentes gera dano moral passível de indenização, salvo constatada a existência de outras anotações preexistentes àquela que deu origem a ação reparatória (Súmula nº 385 do STJ).
+4. Referida indenização visa a reparar o abalo moral sofrido em decorrência da verdadeira agressão ou atentado contra dignidade da pessoa humana.
+5. A multa cominatória, por outro lado, tem cabimento nas hipóteses de descumprimento de ordens judiciais, sendo fixada justamente com o objetivo de compelir a parte ao cumprimento daquela obrigação.
+Encontra justificativa no princípio da efetividade da tutela jurisdicional e na necessidade de se assegurar o pronto cumprimento das decisões judiciais cominatórias.
+6. Considerando, portanto, que os institutos em questão têm natureza jurídica e finalidades distintas, é possível a cumulação.
+7. Recurso especial provido.
+(REsp n. 1.689.074/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/10/2018, DJe de 18/10/2018.)
+Assim, estando o acórdão recorrido em confronto com a jurisprudência desta Corte, impõe-se sua reforma.
+Em face do exposto, dou provimento ao recurso especial, para anular o acórdão recorrido e determinar que o Tribunal de origem, ultrapassada a preliminar de interesse de agir, julgue a apelação como entender de direito.
+Intimem-se.
