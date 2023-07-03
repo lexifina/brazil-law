@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da Súmula n. 7/STJ (e-STJ fls. 593/596).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 508):
+Agravo interno na apelação cível. Direito de manutenção da dependente no plano de saúde, na hipótese de falecimento do titular. Previsão na Lei nº 9.656/98 e na Súmula Normativa nº 13/2010 da ANS. Conduta ilícita. Dano moral configurado. Aplicação da lei de regência aos planos antigos não adaptados. Entendimento consolidado pelo STJ. Indenização arbitrada com observância dos critérios da razoabilidade e proporcionalidade, atendidas as peculiaridades do caso concreto. Pedido de devolução dos valores pagos indevidamente na forma dobrada. Condenação para que ocorra na forma simples. Recorrente que não traz argumentos suficientes para alterar a decisão agravada. Improvimento do agravo interno.
+Os embargos de declaração foram rejeitados (e-STJ fls. 534/538).
+Nas razões do recurso especial (e-STJ fls. 540/599), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+a) 489 e 1.022 do CPC - falta de prestação jurisdicional, uma vez que o acórdão recorrido não se manifestou sobre a tese quanto à não incidência da Lei n. 9.656/1998 ao contratos celebrados antes de sua vigência e
+b) 30 da Lei n. 9.656/1998 - visto que o referido dispositivo não se aplica aos contratos anteriores e não adaptados.
+No agravo (e-STJ fls. 607 /617), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 622/631 (e-STJ), com pedido de aplicação de multa por litigância de má-fé.
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 536/537):
+Como mencionado oportunamente no acórdão recorrido, o fato de o contrato coletivo ser anterior à lei de regência ou não adaptado, não afasta a aplicação do CDC à espécie.6.
+É inegável que a relação ora discutida é de consumo, regendo-se pelos princípios da Lei 8.078/90, na qual ocupa a parte autora a posição de consumidora, parte mais fraca e vulnerável dessa relação jurídica, na forma do artigo 3º, § 2º do CDC. O contrato em questão é de adesão, devendo, portanto, ser interpretado de maneira mais favorável ao demandante.
+(..)
+No entanto, é consagrado o entendimento junto ao STJ de que, muito embora não se apliquem as disposições da Lei 9.656/98 aos contratos celebrados antes de sua vigência e não adaptados, a análise de eventual abusividade pode ser aferida à luz do Código de Defesa do Consumidor. Assim, "Considera-se abusiva a negativa de cobertura pela operadora de plano de saúde de procedimento, medicamento ou material necessário para assegurar o tratamento de doenças previstas no contrato"(AgInt no REsp 1954974/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+A resilição imposta pela embargante, portanto, revela-se abusiva, à luz do disposto no artigo 51, inciso IV do Código de Defesa do Consumidor, porque coloca em risco o próprio objeto do contrato, voltado à preservação da saúde da segurada, que hoje conta com mais de 90 (noventa) anos de idade.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Quanto à matéria de mérito, conforme a jurisprudência do STJ, "as regras estabelecidas na Lei 9.656/98 restringem-se ao contratos de plano de saúde celebrados após sua vigência (art. 35), mas o abuso de cláusula contratual prevista em avenças celebradas em datas anteriores pode ser aferido com base no Código de Defesa do Consumidor" (AgInt no REsp n. 1.349.647/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018) .
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA PARTE AUTORA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do CPC/73.
+2. Segundo a jurisprudência desta Corte, "as regras estabelecidas na Lei 9.656/98 restringem-se ao contratos de plano de saúde celebrados após sua vigência (art. 35), mas o abuso de cláusula contratual prevista em avenças celebradas em datas anteriores pode ser aferido com base no Código de Defesa do Consumidor."(AgInt no REsp 1349647/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018) .
+2.1. No presente caso, a Corte local atestou não ter havido abusividade por parte da operadora do plano de Saúde ao não custear o procedimento pretendido, bem como estar o contrato redigido de forma clara e expressa no que se refere à exclusão. Pontuou, ademais, que dadas as particularidades da causa, conclusão em sentido diverso ensejaria enriquecimento sem causa da aderente. Modificar tal premissa demandaria o revolvimento de matéria fática, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.394.631/MG, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/5/2022, DJe de 30/5/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE C/C INDENIZAÇÃO POR DANOS MORAIS. APLICAÇÃO DA LEI 9.656/1998 AOS CONTRATOS PACTUADOS ANTES DA ENTRADA EM VIGOR DESSA LEI. IRRETROATIVIDADE. ABUSIVIDADE VERIFICADA À LUZ DO CDC. INDICAÇÃO DE CIRURGIA. NEGATIVA DE COBERTURA DE MATERIAL NECESSÁRIO. CONDUTA ABUSIVA DA OPERADORA DE PLANO DE SAÚDE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial desta Corte, embora não se admita a retroatividade da Lei n. 9.656/1998 para alcançar os contratos de plano de saúde celebrados anteriormente à sua entrada em vigor, caso a parte beneficiária não faça a opção pela adaptação ao novel regime (art. 35 da Lei n. 9.656/1998), a abusividade porventura evidenciada sujeita-se à ótica do Código de Defesa do Consumidor.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.968.094/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/5/2022, DJe de 18/5/2022.)
+Conforme se verifica do trecho do aresto transcrito acima, a abusividade de cláusula contratual foi analisada levando em consideração a legislação consumerista.
+Ao assim decidir, o Tribunal de origem julgou em conformidade com entendimento firmado por esta Corte Superior, incidindo o óbice da Súmula n. 83/STJ, aplicável aos recursos interpostos com base nas alíneas "a" e "c" do permissivo constitucional.
+Ressalta-se, por fim, que modificar o entendimento do acórdão impugnado quanto à abusividade dos termos do contrato, em especial por se tratar de pessoa idosa com mais 90 (noventa) anos, nesta hipótese, demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusula contratual, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
