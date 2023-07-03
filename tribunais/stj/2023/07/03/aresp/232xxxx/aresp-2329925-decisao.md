@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto por PBX CONSTRUÇÃO INCORPORAÇÃO E VENDAS LTDA contra v. acórdão do eg. Tribunal de Justiça do Estado do Amapá, assim ementado:
+APELA ÇÃ O C Í VEL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. NÃO ENTREGA DE IMÓVEL. INVIABILIDADE DE FINANCIAMENTO. DANOS MATERIAIS E MORAIS DEVIDOS. SOLIDÁRIA. IMOBILIÁRIA. RESPONSABILIDADE SENTENÇA MANTIDA. APELOS DESPROVIDOS. 1) Comprovado que o financiamento para construção do imóvel não foi efetivado em razão de problemas relacionados à documentação elaborada e apresentada pela construtora apelante junto à Caixa Econômica Federal (CEF), a sua responsabilização pela devolução das quantias adiantadas, pelo pagamento da multa contratual e pela indenização dos danos materiais e morais decorrentes é medida que se impõe, à luz do CDC, dada a falha na prestação do serviço. 2) A responsabilidade da construtora apelante no caso é objetiva, nos termos do art. 14 do CDC e da jurisprudência deste TJAP. 3) O artigo 25, parágrafo primeiro, do Código de Defesa do Consumidor, estabelece que havendo mais de um responsável pela causação do dano ao consumidor, todos responderão solidariamente pela reparação desprovidos.
+Nas razões do recurso especial, a parte recorrente alega aos arts. 489, § 1º, inc. IV do CPC/2015 e 393 do Código Civil. Sustenta, em síntese, que: a) o acórdão estadual não se manifestou sobre todas as matérias de defesa invocadas; e b) não pode ser responsabilidade pelo inadimplemento contratual, tendo em vista a ocorrência de força maior/caso fortuito.
+É o relatório. Decido.
+A irresig nação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos art. 489 do CPC/2015, uma vez que o eg. TJ-AP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. COMPENSAÇÃO COM PREJUÍZO DE DIREITO DE TERCEIRO. IMPOSSIBILIDADE.
+(..)
+3. Devidamente analisada e discutida a questão controvertida, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+(..)
+7. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1576971/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+Quanto à responsabilidade da recorrente em relação ao inadimplemento contratual, a Corte de origem assim decidiu a controvérsia:
+"Passo a analisar o recurso da apelante PBX CONSTRUÇÃO INCORPORAÇÃO E VENDAS EIRELI - ME.
+Conforme consta nos autos, a construção do imóvel foi iniciada e nos termos do contrato entabulado entre as partes, a obra seria entregue em 01/11/2017, no entanto não foi entregue porque a construção foi abandonada pela empresa construtora, e os autores não tiveram devolvidos os valores despendidos pelo contrato.
+Sobre a responsabilidade do apelante em questão, assim restou fundamentado na sentença:
+(..)
+Com efeito, o vínculo entre as partes caracteriza-se como relação de consumo, regido pela Lei nº 8.078/1990 (CDC - Código de Defesa do Consumidor), visto que a construtora-apelante é empresa prestadora de serviço. A este respeito, dispõe o CDC:
+(..)
+Ante essa consideração, e conforme documentação juntada aos autos, depreende-se que houve efetivamente falha na prestação de serviço por parte da construtora-apelante, porquanto o financiamento junto à CEF não foi aprovado por problemas relacionados à documentação elaborada e encaminhada por ela à instituição bancária.
+E isto foi muito bem ressaltado pelo Magistrado a quo:
+(..)
+Ora, ficou claro que o mal proceder da construtora-apelante naquela etapa do processo de financiamento prejudicou os apelados, configurando falha na prestação de serviço.
+Embora a apelante alegue que todos os problemas ocorridos estavam fora da sua capacidade, pois dependia do financiamento da Caixa Econômica Federal para finalizar a obra do imóvel que j á havia iniciado, e dependia da procuração pública que não foi oportunamente outorgada pelo Sr. José Rocha, o que se depreende dos autos é que a procuração repassada pelo Sr. José Rocha ao representante legal da empresa apelante, foi com o fim específico de legalização e não a venda do lote, tanto o é que a procuração outorgada é particular.
+A responsabilidade do fornecedor de serviços diante de falhas em sua prestação é de natureza objetiva, nos termos do art. 14 do CDC:
+(..)
+Assim, a prestadora de serviço só não responderá pelos prejuízos sofridos pelo consumidor quando provar que prestou o serviço, ou a falha alegada não existe ou, existindo, houve culpa exclusiva do consumidor ou de terceiro, ônus do qual a construtora-apelante não se desincumbira nesse caso concreto.
+Desse modo, deve ser reconhecida a responsabilidade da construtora-apelante em relação aos danos materiais e morais causados aos apelados, tendo em vista que o financiamento não foi viabilizado, em razão de má prestação de serviço da construtora-apelante, que não apresentou os documentos necessários ao financiamento junto à CEF, tendo em vista que estava construindo o imóvel em lote de terceira pessoa que não autorizou a venda do mesmo. O dever de indenizar da construtora-apelante, portanto, é certo nestes autos."
+Nesse contexto, tem-se que a pretensão de modificar o entendimento firmado, quanto à responsabilidade da recorrente em relação ao inadimplemento contratual, demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO E DECLARATÓRIA DE RESTITUIÇÃO DE VALORES, COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. CULPA DO VENDEDOR. RESTITUIÇÃO INTEGRAL. SÚMULA 83/STJ. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO NÃO CONFIGURADA. REEXAME DE PROVA. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem. Incidência da Súmula 83 do STJ. Precedentes.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que houve inadimplemento contratual por parte da vendedora, e que não ficou configurada a pretensão de devolução dos valores relativos à comissão de permanência. A modificação de tal entendimento demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. É vedado à parte inovar suas razões recursais em sede de agravo interno, trazendo novas questões não suscitadas oportunamente em sede de recurso especial, tendo em vista a configuração da preclusão consumativa.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.119.524/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RELAÇÃO DE CONSUMO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DAS CHAVES. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. CLÁUSULA PENAL PREVISTA NO CONTRATO APLICADA EM FAVOR DO COMPRADOR. SÚMULA 568 DO STJ. PRECEDENTES. REVISÃO DO PERCENTUAL PREVISTO NO CONTRATO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Nos termos da jurisprudência desta Corte, é possível a inversão da cláusula penal moratória em favor do consumidor, na hipótese de inadimplemento do promitente-vendedor, consubstanciado no atraso na entrega do imóvel. Precedentes. Súmula 568 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.106.119/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 12% para 13% sobre o valor da condenação.
+Publique-se.
