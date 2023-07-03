@@ -1,0 +1,23 @@
+DECISÃO
+  Trata-se  de  agravo  interposto por SÔNIA  APARECIDA  BARBIERI  e  OUTRO contra  a decisão  que  inadmitiu  o  recurso  especial  .  O  apelo  extremo,  fundamentado  no  art.  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"PLANO  DE  SAÚDE  -  APOSENTADO  -  PRETENSÃO  DE  PAGAR  VALOR  ANTIGO  -  DESCABIMENTO  -  MENSALIDADE  INTEGRAL  -  ART.  31  DA  LEI  DE  REGÊNCIA  -  TEMA1034  DOS  RECURSOS  REPETITIVOS-  RESPONSABILIDADE  DE  EX  -EMPREGADOR  POR  MIGRAÇÃO  DE  INATIVOS  -  OBRIGAÇÃO  BEM  FIXADA  -  DANO  MORAL  INEXISTENTE  POR  MERO  PROBLEMA  EM  CONTRATO  -  CONDENAÇÃO  AFASTADA  -  SENTENÇA  PARCIALMENTE  REFORMADA-  RECURSO  DA  RÉ  EM  PARTE  PROVIDO  -  APELO  DA  AUTORA  IMPROVIDO"  (fl.  534  e-STJ).
+Nas  razões  do  recurso  especial,  os  recorrentes  apontam  violação  dos  arts.  11,  371  e  1.013,  §  3º,  IV,  do  Código  de  Processo  Civil  e  Lei  nº  9.656/1998.
+Defende  m  a  "(..)  a  manutenção  do  plano  de  saúde  nos  termos  e  preços  firmados  entre  as  Recorridas  quando  a  Recorrente  era  empregada  do  CNPJ  que  foi  encerrado  de  forma  fraudulenta,  como  medida  da  mais  lídima  JUSTIÇA"  (fl.  579  e-STJ).
+Com  as  contrarrazões  e  inadmitido  o  recurso  na  origem,  sobreveio  o  presente  agravo,  no  qual  se  busca  o  processamento  do  apelo  nobre.
+É  o  relatório.
+DECIDO.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+O  recurso  não  merece  prosperar.
+A  deficiência  na  fundamentação  recursal  restou  evidenciada,  na  medida  em  que  as  recorrentes,  apesar  de  indicarem  o  artigo  malferido,  não  especificam  de  que  forma  ele  teria  sido  contrariado  pelo  acórdão  recorrido,  inviabilizando  a  compreensão  da  controvérsia  posta  nos  autos.
+Incide,  pois,  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  EXECUÇÃO.  LOCAÇÃO.  1.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282/STF  E  211/STJ.  INAPLICABILIDADE  DO  DISPOSTO  NO  ART.  1.025  DO  CPC.  2.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  3.  REVISÃO  DA  CONCLUSÃO  DO  ACÓRDÃO  RECORRIDO.  IMPOSSIBILIDADE.  SÚMULAS  5  E  7/STJ.  4.  INDENIZAÇÃO  SECURITÁRIA.  CLÁUSULA  QUE  EXCLUI  A  COBERTURA  DE  DANOS  CAUSADOS  POR  VÍCIO  DE  CONSTRUÇÃO.  ABUSIVIDADE  CONFIGURADA.  ENTENDIMENTO  JURISPRUDENCIAL  DESTA  CORTE  SOBRE  O  TEMA.  5.  AGRAVO  INTERNO  IMPROVIDO.
+1.  O  prequestionamento  é  exigência  inafastável  contida  na  própria  previsão  constitucional,  impondo-se  como  um  dos  principais  pressupostos  ao  conhecimento  do  recurso  especial  -  Súmulas  n.  282/STF  e  211/STJ.  Também  não  é  o  caso  de  se  considerar  a  ocorrência  do  prequestionamento  ficto/implícito.
+2.  O  recurso  especial  possui  natureza  vinculada,  exigindo,  para  o  seu  cabimento,  a  imprescindível  demonstração  da  parte  recorrente,  de  forma  clara  e  precisa,  dos  dispositivos  apontados  como  malferidos  pela  decisão  recorrida  juntamente  com  argumentos  suficientes  à  exata  compreensão  da  controvérsia  estabelecida,  sob  pena  de  inadmissão  pela  aplicação  da  Súmula  284/STF.
+3.  A  revisão  das  conclusões  estaduais  demandaria,  necessariamente,  a  interpretação  de  cláusulas  contratuais  e  o  revolvimento  do  acervo  fático-probatório  dos  autos,  providências  vedadas  no  âmbito  do  recurso  especial,  ante  os  óbices  dispostos  nas  Súmulas  5  e  7/STJ.
+4.  Segundo  o  entendimento  jurisprudencial  desta  Corte,  firmado  com  base  na  função  socioeconômica  do  contrato  e  na  boa-fé  objetiva,  é  nula  a  cláusula  contratual  que,  em  seguro  habitacional,  exclui  a  cobertura  dos  danos  causados  pelos  vícios  de  construção.
+5.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.303.256/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  12/6/2023,  DJe  de  14/6/2023  ).
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Em  observância  ao  art.  85,  §  11,  do  CPC,  majoro  em  5%  (cinco  por  cento)  a  verba  honorária  atribuída  aos  recorrentes  sobre  o  valor  arbitrado  pela  Corte  local  em  favor  do  patrono  da  parte  recorrida,  observado  o  benefício  da  justiça  gratuita,  se  for  o  caso.
+Publique-se.
+Intimem-se.
