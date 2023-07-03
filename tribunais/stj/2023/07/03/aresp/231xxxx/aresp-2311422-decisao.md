@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCAS DO NASCIMENTO NEVES contra a decisão proferida pelo Tribunal de Justiça do Estado de Goiás que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado definitivamente a 6 anos de reclusão, em regime inicial fechado, pelo crime de tráfico de droga (art. 33 da Lei n. 11.343/2006) e a 1 ano e 3 meses de detenção, em regime inicial semiaberto, pelo crime de posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/2003).
+O Tribunal de origem julgou improcedente o pedido formulado em revisão criminal.
+Os embargos de declaração opostos contra esse acórdão foram rejeitados.
+Nas razões do recurso especial, o recorrente sustenta violação ao art. 619 do CPP, alegando a existência de omissão a respeito de questão fática relevante. Defende, ainda, contrariedade a diversos dispositivos infraconstitucionais, aduzindo nulidade por invasão domiciliar. Ao final, requer sua absolvição.
+Contrarrazões às e-STJ fls. 616/625.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou desprovimento do agravo (e-STJ fls. 662/667).
+É o relatório. Decido.
+Segundo a jurisprudência pacificada desta Corte, "a existência de fundamento constitucional autônomo  ..  não atacado por meio de recurso extraordinário enseja a aplicação do óbice de conhecimento do recurso especial estampado na Súmula 126 do STJ" (AgInt no AREsp n. 2.159.827/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PERDA DE BENS APREENDIDOS. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA N. 126/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias determinaram a perda de bens apreendidos por aplicação direta do art. 243, parágrafo único, da Constituição Federal. Todavia, o Recorrente não interpôs recurso extraordinário contra acórdão o estadual, o que atrai a incidência da Súmula n. 126/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.024.887/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI 8.137/90. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MERO INCONFORMISMO. INCOMPETÊNCIA DA SUBSEÇÃO JUDICIÁRIA. RESOLUÇÕES. ANÁLISE. NÃO CABIMENTO EM RECURSO ESPECIAL. DUPLO FUNDAMENTO. MATÉRIA CONSTITUCIONAL. SÚMULA 126/STJ. APLICABILIDADE. NÃO INCIDÊNCIA DO ART. 1.032 DO CPC/2015. LITISPENDÊNCIA. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INCIDÊNCIA DA SÚMULA 182 DO STJ. AGRAVO REGIMENTAL CONHECIDO EM PARTE E IMPROVIDO.
+1. Não há falar em vícios no julgamento do apelo defensivo pelo Tribunal de origem se o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, revelando-se suficiente ao exercício do direito de defesa.
+2. O fato de não ter sido acolhida a irresignação da parte, apresentando a Corte local fundamentação em sentido contrário, não importa violação dos arts. 619 e 620, ambos do CPP, mas inconformismo com o resultado desfavorável do julgado.
+3. Na linha da orientação firmada no âmbito desta Corte, "o recurso especial tem por objetivo o controle de ofensa à legislação federal, nos termos do art. 105, III, "a", "b" e "c", da Constituição Federal, e, por isso, não cabe a esta Corte a análise de suposta violação de portarias, instruções normativas, resoluções ou regimentos internos dos tribunais" (AgRg no AREsp n. 474.908/MG, Segunda Turma, Rel. Min. Humberto Martins, DJe de 14/4/2014) (AgRg no REsp n. 1.523.880/RJ, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 10/11/2015, DJe de 26/11/2015).
+4. Não há falar em incidência do art. 1032 do CPC quando aplicado o verbete contido na Súmula 126 desta Corte Superior. Isso porque, a parte recorrente, em que pese o fundamento constitucional, deixou de impugnar o acórdão também pela via do recurso extraordinário, previsto no art. 102, III, "a", da CF/88, excluindo a matéria da apreciação do Supremo Tribunal Federal, a quem compete, precipuamente, a guarda da Constituição Federal.
+5. Para rever o entendimento firmado pela instância ordinária, no sentido de se reconhecer a litispendência, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ (AgRg no REsp n. 1.948.199/RN, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+6. Quanto às teses de violação dos arts. 28 e 28-A, § 14º, ambos do CPP, e 1º, I, da Lei n. 8.137/1990, a falta de impugnação específica dos fundamentos da decisão agravada enseja o não conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia.
+7. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia.
+8. Agravo regimental parcialmente conhecido e, nessa extensão, improvido.
+(AgRg no REsp n. 2.003.710/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
