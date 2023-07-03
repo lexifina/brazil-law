@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 7 do STJ (e-STJ fls. 474/482).
+O acórdão recorrido está assim ementado (e-STJ fls. 353/354):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE FIXAÇÃO DE LIMITE DE CRÉDITO ACOMPANHADO DE NOTA PROMISSÓRIA E NOTA FISCAL DE ENTREGA DO PRODUTO - AUSÊNCIA DE NULIDADE DO TÍTULO - LIQUIDEZ, EXIGIBILIDADE - DEMANDA DILAÇÃO PROBATÓRIA - IMPOSSIBILIDADE POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE - REJEIÇÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A exceção pré-executividade é uma criação doutrinária, com plena aceitação, somente viável em hipóteses excepcionais, uma vez verificadas a existência de vícios formais do título executivo, ou quando ausentes as condições da ação. Logo, pode-se constatar que, diferentemente dos embargos à execução, na exceção de pré-executividade somente poderão ser alegadas questões atinentes às condições da ação ou nulidades e defeitos flagrantes do título executivo, pois, neste meio de defesa, não se abre oportunidade para discussões respeitantes ao próprio mérito, ou, ainda, para a ampla produção de provas, sendo que as matérias arguíveis devem se limitar a aspectos formais do título, bem como estar suficientemente demonstradas. Embora tenha alegado que o contrato de fixação de limites de crédito não preenche os requisitos de liquidez e exigibilidade, o que se verifica de fato, é que o contrato entabulado entre as partes cumpriu com todas as obrigações contratuais de liquidez, certeza e exigibilidade, restando pendente, a penas, o estágio do pagamento.
+Assim, todas as questões levantadas deveriam ter sido objeto de embargos à execução.
+Os embargos de declaração foram rejeitados (e-STJ fls. 426/442).
+No recurso especial (e-STJ fls. 446/458), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta ofensa aos arts. 783, 784, 786 e 803, I, do CPC/2015 alegando que, "sendo fato incontroverso nos autos que a ação de execução se lastreia em um contrato de fixação de limite de crédito acompanhado de nota promissória dada em caução, o acórdão recorrido interpretou de forma equivocada que o referido contrato estaria revestido dos requisitos de certeza, liquidez e exigibilidade" (e-STJ fl. 454).
+Sustenta que, por se tratar de contrato de fixação de limite de crédito, ainda que acompanhado de nota promissória dada em caução, não estão preenchidos os requisitos para que seja considerado título executivo.
+Argumenta que, embora o contrato entre as partes não seja bancário, devem ser aplicadas as Súmulas n. 233 e 258 do STJ por analogia.
+Defende que a nulidade da ação de execução é perceptível de plano, podendo ser reconhecida na exceção de pré-executividade, sendo desnecessária a dilação probatória.
+No agravo (e-STJ fls. 484/496), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 502/510).
+É o relatório.
+Decido.
+A Corte estadual refutou os argumentos da parte quanto à ausência dos requisitos do título executivo mediante os seguintes fundamentos (e-STJ fls. 356/357):
+Ao contrário, nos autos se verifica a existência do contrato com dívida líquida, certa e exigível, acompanhado de nota promissória e notas fiscais da entrega do produto, impondo uma relação entre as partes, e, quaisquer questionamentos imporia o ajuizamento dos embargos à execução e não a medida pleiteada, por não se tratar de reconhecimento de nulidade do título, no caso, a matéria de ordem pública, mas que demanda maior digressão no plano probatório.
+A tese não prospera, tendo em vista que o contrato foi devidamente assinado e preenche os requisitos do artigo 783 e 786, aliado ao fato que está assegurado pela nota promissória. Corroborado ao fato de que, há notas fiscais acerca da entrega dos produtos aos agravantes, devidamente assinadas e tampouco é objeto de questionamento por parte dos agravantes.
+De tais questões não é possível auferir somente através dos documentos, pois certo que da análise das cláusulas contratuais tem-se por certo o valor exigível constante do contrato e assegurado pela nota promissória.
+Ademais, os questionamentos demandam dilação probatória, o que inviável através da exceção de pré-executividade, cuja vedação é apresentada pela doutrina e jurisprudência.
+(..)
+Quanto a formalidade do título não há demonstração de sua iliquidez ou inexigibilidade. No caso, não se pode atribuir ao contrato a menção de contrato de abertura de crédito, de acordo com a tese apresentada pelos agravantes.
+(..)
+Portanto, o contrato que embasa a execução tem como garantia nota promissória, tendo o exequente desincumbindo-se, a contento, do seu ônus, juntando as notas fiscais que pretende ver adimplida, bem como o comprovante de entrega das mercadorias, as quais, inclusive, constam assinatura e recebimento dos produtos.
+Desse modo, embora tenha alegado que o contrato de fixação de limites de crédito não preenche os requisitos de liquidez e exigibilidade, o que se verifica de fato, é que o contrato entabulado entre as partes cumpriu com todas as obrigações contratuais de liquidez, certeza e exigibilidade, restando pendente, apenas, o estágio do pagamento.
+Alterar as conclusões do Tribunal de origem - de que o documento apresentado preenche os requisitos do título executivo e de que é necessária dilação probatória para se verificar os argumentos da parte - demandaria nova análise de matéria fática, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
