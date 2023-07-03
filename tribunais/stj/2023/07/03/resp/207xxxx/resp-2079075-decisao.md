@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 138/139):
+CONSTITUCIONAL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA CONDENATÓRIA PROFERIDA EM AÇÃO CIVIL PÚBLICAMOVIDA PELO MPF. LEGITIMIDADE E COMPETÊNCIA. COISA JULGADA. INCOMPETÊNCIADA JUSTIÇA FEDERAL PARA APRECIAR A EXECUÇÃO. AUSÊNCIA DE PESSOASELENCADAS NO ART. 109, I, DA CF. REMESSA DOS AUTOS À JUSTIÇA ESTADUAL. RECURSO IMPROVIDO.,
+1. Trata-se de Agravo de Instrumento interposto pelo BANCO DO BRASIL SA em face de decisão da 15ªVARA FEDERAL DO CEARÁ em CUMPRIMENTO PROVISÓRIO DE SENTENÇA que reconheceu a incompetência deste Juízo Federal para processar e julgar a demanda, razão pela qual determino a remessa dos autos à Justiça Estadual da Comarca de Morada Nova/CE.
+2. No que pertine à competência da Justiça Federal para apreciar o cumprimento de sentença de ação civil pública ajuizada pelo MPF, identifica-se o conflito entre duas normas: de um lado, o art. 109, I da CF, que estabelece a competência ratione personae da Justiça Federal; de outro, o art. 516, II do CPC, que prevê a competência funcional, determinando que o cumprimento de sentença será efetuado no mesmo juízo que decidiu a causa de conhecimento.
+3. No confronto da competência funcional estabelecida pelo art. 516, II, do CPC/2015 e a competência ratione personae da Justiça Federal, prevista no art. 109, I, da Constituição Federal, deve prevalecer esta última, pois inserida em norma hierarquicamente superior (CC n. 129.766/SP, Relatora Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 11/6/2014, DJe 20/6/2014).
+4. No caso, estando ausente na lide quaisquer dos entes indicados no inciso I do art. 109 da Constituição Federal e, considerando que a parte exequente é pessoa física e a executada, pessoa jurídica de direito privado, assenta-se a competência da Justiça Estadual para julgar o presente cumprimento de sentença.
+5. Nesse sentido: 08044798920214050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL FERNANDO BRAGA DAMASCENO, 3ª TURMA, JULGAMENTO: 08/07/2021;08054888620214050000, Relator: DESEMBARGADOR FEDERAL ROGÉRIO DE MENESES FIALHO MOREIRA, Data de Julgamento: 01/07/2021, 3ª TURMA.6. Agravo de Instrumento improvido; agravo interno prejudicado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 219/222).
+Em suas razões (e -STJ fls. 243/276), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 1.022 e 1.025 do CPC/2015, tendo em vista haver omissão no acórdão recorrido quanto (1) à alegada necessidade de chamamento ao processo dos demais condenados solidários e (2) ao prequestionamento dos arts. 43, 130, III, 131, 516, II, do CPC/2015, 93 e 98 do CDC e 109, I, do CF,
+(ii) arts. 43, 130, 131, 516, II, do CPC/2015 e 93 e 98 do CDC, devendo ser reconhecida a competência da Justiça Federal, e
+(iii) arts. 130 e 131 do CPC/2015, ante a necessidade de chamamento ao processo da União Federal e do BACEN, considerando "a condenação solidária estabelecida para o Banco do Brasil, o BACEN e a União Federal, assim reconhecida no Recurso Especial 1.319.232/DF" (e-STJ fl. 272) e que "o chamamento ao processo não é liberalidade do credor, no caso dos autos, haja vista que o litisconsórcio que respeita a decisão da ACP é o unitário" (e-STJ fl. 274).
+Contrarrazões apresentadas às fls. 297/300 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem, limitando-se a se manifestar acerca da competência da Justiça Estadual para processar o feito , manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja: a necessidade de chamamento ao processo da União Federal e do BACEN.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão respectivo para que o recurso seja novamente apreciado.
+Assim, constatado o vício apontado pela parte recorrente e considerando a necessidade de prequestionamento das questões veiculadas no especial, bem como tendo em vista que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
