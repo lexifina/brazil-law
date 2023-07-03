@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por AMICO SAÚDE LTDA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO MONITÓRIA Insurgência da ré, ora agravante, contra decisão que indeferiu seu requerimento de produção de prova pericial e de oitiva do preposto da autora, em depoimento pessoal O Juiz é o destinatário principal e direto da prova, competindo-lhe aferir a necessidade da dilação probatória, para formação da sua convicção Art. 370, do novo CPC Precedente do TJ-SP Possibilidade de, no momento da sentença, o julgamento ser convertido em diligência para obtenção de novos elementos de convicção, caso o Juízo considere necessário Matéria, ademais, que poderá ser suscitada em recurso de apelação - Decisão mantida RECURSO IMPROVIDO." (e-STJ, fl.493)
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 355 E 1.022, do CPC/15. Sustenta, em síntese: a) negativa de prestação jurisdicional; e b) cerceamento de defesa ante a necessidade de deferimento de prova oral e pericial.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Inicialmente, não se verifica a alegada violação ao arts 1.022 do CPC/15, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide. Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+No mais, apontando malferimento ao art. 355, do CPC/15, a Agravante sustenta que houve cerceamento de defesa, ante o indeferimento de prova oral e pericial. Por sua vez, o eg. TJ-SP, afastou expressamente tal alegação, consignando que era desnecessária a produção da prova requerida. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (e-STJ, fls. 497/499):
+"Com efeito, cuida-se de ação monitória na qual a autora, ora agravada, alega ser credora do valor de R$ 93.546,33 (noventa e três mil, quinhentos e quarenta e seis reais e trinta e três centavos).
+O Juízo da causa, na r. decisão agravada, deferiu o pedido formulado pela ré, ora agravante, de produção de prova documental, porém rejeitou a sua pretensão que visava à produção de prova pericial e à oitiva do preposto da autora, em depoimento pessoal.
+Com efeito, o artigo 370 do novo Código de Processo Civil, dispõe: Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito."
+(..)
+O juiz é o destinatário principal e direto: na convicção que formar assentará a sentença. Destinatários, embora indiretos, também são as partes, que igualmente precisam ficar convencidas, a fim de acolherem como justa a decisão" (Comentários ao Código de Processo Civil, IV vol., editora Forense, 1ª edição, pág. 9).
+Por conseguinte, sendo o Juiz destinatário principal e direto da prova, compete-lhe aferir a necessidade da dilação probatória, para formação da sua convicção.
+(..)
+No caso em exame, por ocasião da sentença, caberá o exame das provas constantes dos autos, oportunidade em que o julgamento poderá ser convertido em diligência para obtenção de novos elementos de convicção, caso o julgador entenda necessária tal providência.
+Ademais, tal matéria poderá também ser alegada em eventual recurso de apelação. "
+Como sabido, remansosa jurisprudência esta eg. Corte é no sentido de que não configura cerceamento de defesa o julgamento da lide sem a produção da prova solicitada pela parte quando o eg. Tribunal de origem entender adequadamente instruído o feito, declarando a prescindibilidade de dilação probatória. Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE MARCA CUMULADA COM INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1910376/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2022, DJe 24/02/2022 - g. n.)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. EXECUÇÃO. LEGITIMIDADE PASSSIVA. INOVAÇÃO RECURSAL. VERIFICAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. "Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019).
+(..)
+9. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1678237/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
