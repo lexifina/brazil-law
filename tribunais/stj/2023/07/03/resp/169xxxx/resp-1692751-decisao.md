@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por HSBC BANK BRASIL S.A - BANCO MÚLTIPLO em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. CADERNETAS DE POUPANÇA. PLANOS ECONÔMICOS. LIQUIDAÇÃO PROVISÓRIA. AÇÃO COLETIVA. CONVERSÃO. AÇÃO INDIVIDUAL.
+Não comporta mais o prosseguimento da liquidação provisória de ação coletiva, considerando o atual entendimento adotado pelo Superior Tribunal de Justiça de que o prazo para o exercício do direito dos legitimados a propor a ação civil pública é de cinco anos, por aplicação analógica da regra prevista na Lei da Ação Popular. Correta, assim, a conversão de ofício da liquidação provisória da sentença oriunda de demanda coletiva para ação ordinária de cunho individual, em atenção aos princípios da razoabilidade, celeridade, economia e efetividade da prestação jurisdicional.
+REPERCUSSÃO GERAL. A repercussão geral conferida à matéria constitucional relativamente aos expurgos inflacionários não atinge as ações em sede executiva com sentença transitada em julgado e as que se encontram em fase de instrução.
+PREQUESTIONAMENTO. O prequestionamento quanto à legislação invocada fica estabelecido pelas razões de decidir.
+AGRAVO DE INSTRUMENTO DESPROVIDO." (fl. 157)
+O recorrente aponta ofensa aos arts. 2º, 128, 265, 267, VI, 460, 475-N, I, e 535 do CPC/73, sustentando, em síntese, (a) omissão do Tribunal de origem, (b) o magistrado não está autorizado a, de ofício, converter a liquidação individual de sentença coletiva em ação ordinária e (c) a pretensão de liquidação de sentença coletiva prescreve em 5 anos, contados da formação do título judicial.
+Sem contrarrazões.
+As partes foram intimadas para manifestar interesse na adesão ao acordo proposto na ADPF n. 165/DF, mas a recorrida permaneceu inerte.
+É o relatório.
+Preliminarmente, não conheço da tese de ofensa ao art. 535 do CPC/73, pois foi formulada de modo genérico - isto é, sem indicar quais questões teriam sido efetivamente omitidas pelo Tribunal de origem -, deficiência que atrai o óbice da Súmula n. 284/STF.
+Segundo consta do acórdão recorrido, o eg. TJRS havia, inicialmente, determinado a conversão de ações individuais de cobrança de expurgos inflacionários em liquidação de sentença coletiva, com o fim de beneficiar os poupadores que haviam intentado a ação de conhecimento. Contudo, em razão da definição, por esta Corte Superior, do prazo prescricional quinquenal para o ajuizamento de liquidações individuais de sentença coletiva, nos autos do Resp n. 1.070.896-SC, para evitar que os procedimentos de liquidação fossem extintos pela prescrição, o eg. TJRS decidiu reconvertê-los em ação de cobrança, a qual se sujeitaria ao prazo prescricional geral do art. 205 do Código Civil.
+A conclusão do acórdão está em conformidade com o entendimento do STJ, que autoriza a conversão da liquidação de sentença coletiva em ação ordinária, sobretudo após a emissão da tese do Resp n. 1.070.896-SC. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A alegação de afronta ao artigo 535 do CPC/73 (correspondente ao artigo 1.022 do CPC/15) se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2. Não há óbice à conversão da liquidação de sentença coletiva em ação ordinária, notadamente porque a liquidação foi frustrada em razão da superveniência de entendimento do próprio STJ, que, tendo fixado o prazo prescricional para o ajuizamento de ação coletiva em cinco anos, impediu a formação de título executivo. Embora os precedentes de reconversão de procedimento se apresentem em sentido inverso, possibilitando a alteração do procedimento ordinário em liquidação, a tese firmada sobre a temática se aplica ao caso em apreço, pelo que se tem reconhecido o entendimento dominante sobre o tema, na forma da Súmula 568 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 955.728/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2019, DJe de 3/10/2019.)
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Autorizada a conversão de procedimentos, fica prejudicado o pedido de extinção do feito.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
