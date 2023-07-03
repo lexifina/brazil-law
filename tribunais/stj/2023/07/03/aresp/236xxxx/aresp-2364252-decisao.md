@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por ADELINA ANDRÉ com fundamento no art. 105, III, a e c, da Constituição Federal, contra ac órdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AÇÃO DE ANULAÇÃO DE CONTRATO DE EMPRÉSTIMO CONSIGNADO, COMBINADO COM REPETIÇÃO DE INDÉBITO (PELA DOBRA) E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. EXTRATOS BANCÁRIOS DA INSTITUIÇÃO DA QUAL A PARTE AUTORA É CORRENTISTA QUE DEVEM ACOMPANHAR A PETIÇÃO INICIAL. DESNECESSIDADE DE ENVIO DE OFÍCIO PELO JUÍZO PARA A PRODUÇÃO DA PROVA. MÉRITO. CONTRATAÇÃO DEMONSTRADA. ESPELHO JUNTADO AOS AUTOS INDICANDO O DEPÓSITO DO EMPRÉSTIMO NA CONTA DA PARTE AUTORA, A QUAL, POR SUA VEZ, NÃO EXIBIU O EXTRATO DE CONTA CORRENTE DO PERÍODO. ATO ILÍCITO NÃO DEMONSTRADO. AUSÊNCIA DE PROVA DOS DANOS MATERIAIS E MORAIS. MULTA POR LITIGÂNCIA DE MÁ-FÉ IMPOSTA NA ORIGEM (5% SOBRE O VALOR ATUALIZADO DA CAUSA). ALTERAÇÃO DA VERDADE DOS FATOS. PRESSUPOSTOS DO ARTIGO 80, INCISO II E III, DO CÓDIGO DE PROCESSO CIVIL PRESENTES. RECURSO PROVIDO PARCIALMENTE PARA REDUZIR O PERCENTUAL DA MULTA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, além de dissídio jurisprudencial, que o Tribunal a quo, ao reconhecer a sua litigância, como litigância de má-fé, negou vigência aos arts. 79, 80, VI, 81, do CPC/2015, na medida em que atuou em juízo para defesa de direito que acreditava possuir.
+As contrarrazões ao recurso especial foram apresentadas a fls. 322/328.
+O recurso especial não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+A questão a ser examinada no recurso especial diz respeito à caracterização de litigância de má-fé.
+Acerca da questão, o Tribunal a quo se manifestou nos seguintes termos in verbis:
+Cuida-se de apelo interposto contra a sentença que julgou improcedentes os pedidos de anulação de contrato de empréstimo consignado, de repetição de parcelas descontadas e de indenização por danos morais formulados em face de instituição bancária sob a alegação de inexistência de contratação.
+(..)
+Diante da exibição do contrato, a parte acionante não negou a autenticidade da assinatura, nem demonstrou o desrespeito às formalidades essenciais para a validade do ato, limitando-se a assentar, de forma aleatória e enigmática, que fora vítima de fraude.
+(..)
+Em petição padronizada, a parte autora ingressou com conhecida aventura jurídica, provavelmente apostando na desorganização das instituições financeiras, na base do "se colar, colou".
+Após a contestação, deparou-se com cópia do ajuste e mesmo assim seguiu litigando, apresentando longa impugnação e insistindo na existência de um fantasioso golpe, sem nem sequer carrear aos autos cópia da sua movimentação financeira.
+O uso abusivo do processo é latente, com clara tentativa de alteração da verdade dos fatos e uso do Poder Judiciário para conseguir objetivo ilegal, nos termos do artigo 80, II e III, do CPC15.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+No presente caso, a modificação da conclusão do Tribunal de origem acerca da litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+4. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+5. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1962304/MS, de minha Relatoria, QUARTA TURMA, julgado em 14/3/2022, DJe de 5/4/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO. RELAÇÃO JURÍDICA DEMONSTRADA E VÁLIDA. DISPONIBILIZAÇÃO DO PRODUTO DO MÚTUO. LITIGÂNCIA DE MÁ-FÉ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+3. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1965068/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/2/2022, DJe de 25/2/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA C/C DANO MORAL. EMPRÉSTIMO CONSIGNADO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. SÚMULA N. 284/STF. CONTRATO VÁLIDO E EFICAZ. RECEBIMENTO DO VALOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ-FÉ. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação do recurso especial que alega violação dos arts. 489 e 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro da decisão recorrida que não teria sido sanado no julgamento dos embargos de declaração.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pela validade do contrato e pelo recebimento do valor. Alterar tal conclusão é inviável em recurso especial.
+4. O exame da pretensão recursal relativa à multa por litigância de má-fé demandaria o revolvimento dos elementos probatórios dos autos, inviável em recurso especial (Súmula n. 7/STJ).
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1908003/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe de 26/11/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM PEDIDO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. EMPRÉSTIMO CONSIGNADO. REGULARIDADE DA OPERAÇÃO. LITIGÂNCIA DE MÁ-FÉ. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1871080/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe de 27/11/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO C/C DANOS MATERIAIS E MORAIS. EMPRÉSTIMO CONSIGNADO. COMPROVAÇÃO DO RECEBIMENTO DOS VALORES EM BENEFÍCIO DA PARTE. LITIGÂNCIA DE MÁ-FÉ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1377310/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 29/4/2019, DJe de 3/5/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 2%.
+Publique-se.
