@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS DO CRÉDITO DO EXEQUENTE. CREDORES TRABALHISTAS. DECISÃO AGRAVADA QUE DETERMINOU O PAGAMENTO PELO CRITÉRIO DA ANTERIORIDADE DA PENHORA. INTELIGÊNCIA DO ARTIGO 908, § 2º DO CPC. JUSTIÇA GRATUITA. NÃO COMPROVADA A HIPOSSUFICÊNCIA DO AGRAVANTE. RECURSO IMPROVIDO COM DETERMINAÇÃO.
+A parte agravante sustenta a violação dos arts. 960 do Código Civil e 980, § 2º, do Código de Processo Civil, além de dissídio jurisprudencial.
+O inconformismo logra êxito. Confira-se, para melhor compreensão do tema, o seguinte excerto do acórdão recorrido:
+Trata-se de Cumprimento de Sentença movido por MICHELABUD ATIE JUNIOR contra POLDI EMPREENDIMENTOS AGRÍCOLAS E IMOBILIÁRIOS LTDA. Os créditos recebidos pelo Exequente foram penhorados em razãode dívidas existentes, em especial, credores trabalhistas, donde houve a determinação paraque os valores sejam pagos pelo critério da anterioridade, com o que não se conforma o Agravante.
+ ..  Assim como o Agravante, os demais credores pertencem à mesma classe privilegiada, qual seja, trabalhista. Destarte, como todos estão na mesma classe, a lei processual determina que o critério de pagamento se dê pela anterioridade e, embora o Agravante esteja inconformado por ser o último na lista pelo critério adotado, esteé o entendimento que tem sido exarado neste Tribunal  .. .
+Conforme o entendimento do STJ, o art. 908, § 2º, do Código de Processo Civil, por se referir a inexistência de "título legal a preferência", só pode ser aplicado à concorrência de credores quirografários. Nos casos em de concorrência de credores que pertencem à mesma classe preferencial, incide a regra do art. 960 do Código Civil, devendo o crédito obtido ser rateado proporcionalmente. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DO AGRAVANTE.
+1. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia na qual enfrentou de maneira direta e objetiva o questionamento acerca da preferência dos créditos trabalhistas/fazendários sobre o crédito quirografário. Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+2. O conteúdo normativo do art. 24, da Lei n.º 8906/94 não foi objeto de exame pela instância ordinária, razão pela qual incide, na espécie, a Súmula 211 desta Corte.
+3. É assente o entendimento segundo o qual "a regra segundo a qual a satisfação dos créditos, em caso de concorrência de credores, deve observar a anterioridade das respectivas penhoras (prior in tempore, prior in jure) somente pode ser observada quando nenhum desses créditos ostente preferência fundada em direito material." (REsp 1454257 / PR, Rel. Min. Moura Ribeiro, DJe de 11/05/2017 e AgRg no AgRg no AgRg no REsp 1.190.055/MG, Rel. Ministra Maria Isabel Gallotti, Dje de 21/10/2016) 4. Agravo interno desprovido.
+(AgInt no AREsp n. 595.264/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO. HONORÁRIOS. CONCURSO PARTICULAR OU ESPECIAL DE CREDORES. CRÉDITOS EQUIPARADOS A TRABALHISTAS. HONORÁRIOS DE ADVOGADO E FGTS. FORMA DE RATEIO.
+1. Controvérsia estabelecida em sede de concurso particular de credores em torno da (a) classificação dos honorários sucumbenciais;
+(b) concorrência estabelecida em face de crédito titularizado pela CEF com base em FGTS inadimplido; (c) forma de pagamento dos créditos privilegiados e de mesma classe.
+2. "Os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência, seja pela regência do Decreto-Lei n. 7.661/1945, seja pela forma prevista na Lei n. 11.101/2005, observado, neste último caso, o limite de valor previsto no artigo 83, inciso I, do referido Diploma legal."
+3. A solvência dos créditos de mesma e privilegiada classe (equiparada a trabalhista) será realizada proporcionalmente aos créditos titularizados pelos credores concorrentes, desimportando a anterioridade de penhoras. 4. Exegese dos arts. 711 do CPC/73 (art.
+908 do CPC/2015) e 962 do Código Civil.
+5.RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.649.395/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 2/4/2019, DJe de 5/4/2019.)
+Com efeito, a decisão do juízo singular de origem deve ser reformada, para que seja determinado o rateio proporcional entre os créditos concorrentes.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, nos termos acima.
+Intimem-se.
