@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJTO assim ementado (e-STJ fl. 217):
+APELAÇÃO. AÇÃO DE DESPEJO. EXTINÇÃO COM RESOLUÇÃO DO MÉRITO. JUSTIÇA GRATUITA INDEFERIDA. CONDENAÇÃO DO RÉU AO PAGAMENTO DOS ÔNUS DE SUCUMBÊNCIA. DESEMPREGO. PLEITO DE ASSITÊNCIA JUDICIÁRIA. CRISE FINANCEIRA. HIPOSSUFICIÊNCIA. CONFIGURADA.
+Preenchidos os requisitos inerentes à concessão da assistência judiciária, por meio de comprovação da crise financeira vivenciada - pessoa isenta de declarar imposto de renda, desempregada, que devolve empresa que possuía à franqueadora, devido dificuldades financeiras e impossibilidade de arcar com as cláusulas contratuais, fato que, também, ensejou o não pagamento da locação e consequente despejo - não há óbice à sua concessão, razão pela qual se impõe o deferimento da benesse, a fim de viabilizar o acesso amplo a jurisdição, garantia constitucional intangível, mormente em virtude do valor suportado com a condenação ser elevado, comparando-se com a renda mensal insuficiente.
+Os embargos de declaração foram rejeitados (e-STJ fls. 263/264).
+Nas razões do recurso especial (e-STJ fls. 273/287), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega ofensa ao art. 492 do CPC, aduzindo ofensa ao princípio da congruência, pois, "em momento algum, o recorrente/apelante requereu o provimento jurisdicional no sentido de condenar a parte recorrida/autora em custa e honorários advocatícios" (e-STJ fl. 282).
+Aponta, também, afronta ao art. 85, § 11, do CPC/2015, quanto à fixação de honorários advocatícios na fase recursal.
+Contrarrazões (e-STJ fls. 305/309)
+Juízo de admissibilidade positivo (e-STJ fls. 311/314).
+É o relatório.
+Decido.
+Trata-se, na origem, de ação de despejo ajuizada pela recorrente contra o recorrido. A sentença julgou procedente o pedido, rescindindo o contrato e condenando o requerido João Lucas Gonçalves Diniz ao pagamento das custas e dos honorários advocatícios, os quais foram fixados em 10% sobre o valor da causa (e-STJ fls. 139/140), ocasião em que foi indeferido o pedido de gratuidade de justiça.
+Na apelação, o requerido postulou a reforma quanto à gratuidade de justiça (e-STJ fls. 143/148), o que foi acolhido pelo Tribunal de origem, que suspendeu a exigibilidade dos valores (e-STJ fls. 205/218).
+Ocorre que, além de dar provimento ao recurso, fixou honorários advocatícios recursais em desfavor da apelada, nos seguintes termos (e-STJ fl. 211):
+Posto isso, conheço do presente recurso e, no mérito, dou-lhe provimento, para reformar a sentença apelada, a fim de conceder os benefícios da gratuidade judiciária ao requerido, ora apelante, suspendendo a exigibilidade da condenação deste ao pagamento das custas processuais e honorários advocatícios, estes arbitrados em 10% sobre o valor da causa. Nos termos do artigo 85, § 11,do Código de Processo Civil, de 2015, fixo honorários recursais em 10% sobre o valor da causa, em desfavor da parte apelada, levando em conta o trabalho adicional realizado em grau recursal.
+No recurso especial, a primeira irresignação refere-se à afronta ao art. 492 do CPC/2015, sob o argumento de violação do princípio da congruência. Ocorre que a fixação da verba sucumbencial é considerado um pedido implícito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. PROVA DO FERIADO. TEMPESTIVIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. CONTRATO DE LOCAÇÃO. FIANÇA PRESTADA POR CASAL. MORTE DE UM DOS FIADORES. LEGITIMIDADE PASSIVA DO SUPÉRSTITE. VIÚVA QUE ASSINOU O CONTRATO COMO COFIADORA (SÚMULAS 5 E 7/STJ). PRORROGAÇÃO DO CONTRATO POR PRAZO INDETERMINADO. RESPONSABILIDADE DA FIADORA. ENTREGA DAS CHAVES. CLÁUSULA EXPRESSA. PROVIMENTO PARCIAL DA APELAÇÃO PARA EXCLUIR O ESPÓLIO DO FIADOR DO POLO PASSIVO DA AÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. CABIMENTO. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ..
+4. "A fixação de honorários advocatícios é consectário lógico da sucumbência e, em havendo provimento do recurso, deve ela ser reanalisada" (EDcl nos EDcl no AgRg nos EDcl nos EDcl no REsp n. 1.194.631/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/8/2015, DJe 17/8/2015).
+5. Reformada parcialmente a sentença para afastar a condenação de um dos corréus, deve a parte vencida ser condenada ao pagamento de honorários de sucumbência à parte vencedora.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.643.408/RJ, Relator Ministro Raul Araújo, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022 - grifei.)
+Entretanto, considerando que o recurso de apelação foi provido, não incide o art. 85, § 11, do CPC, não havendo falar em honorários recursais.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. De acordo com a jurisprudência desta Corte, haverá fixação de honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, quando atendidos os seguintes requisitos, cumulativamente:
+a) a publicação da decisão recorrida se der a partir de 18/3/2016, momento em que entrou em vigor o CPC/2015; b) o recurso não for conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) a condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+1.1. Segundo a orientação jurisprudencial firmada pela Segunda Seção deste Superior Tribunal de Justiça, nos autos do RESp 1.850.512/PB (TEMA 1076), "a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC".
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.955.274/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023.)
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, para afastar a verba honorária fixada nos termos do art. 85, § 11, do CPC/2015.
+Publique-se e intimem-se.
