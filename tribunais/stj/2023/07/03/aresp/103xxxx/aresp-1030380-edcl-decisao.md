@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONDOMÍNIO RESIDENCIAL QUINTAS DO TATUAPÉ em face de decisão desta relatoria, que conheceu do agravo para dar provimento ao recurso especial.
+O embargante alega, em síntese, que, apesar de a irresignação ter sido provida para majorar os honorários de sucumbência, a verba acabou arbitrada, ao final, em valor inferior àquele fixado nas instâncias ordinárias.
+Defende, assim, que os honorários devem ser arbitrados na forma do art. 20, § 3º, do CPC/73, em no mínimo 10% sobre o valor da causa.
+Impugnação às fls. 2.974/3.051.
+É o relatório.
+Na forma do art. 1.022 do CPC/15, cabem embargos de declaração em face da decisão que incorre em omissão, contradição, obscuridade ou erro material.
+De início, anota-se que o precedente da Segunda Seção, firmado no Resp n. 1.746.072/PR, aplica-se apenas às demandas cuja sucumbência é regida pelo CPC/15 - situação não verificada, na espécie, tendo em vista que a sentença - marco jurídico para a aferição da sucumbência - foi proferida em 2008, quando, ainda vigente o CPC/73.
+Quanto mais, trata-se, na origem de ação ordinária (CPC/73) ajuizada por Condomínio Residencial Quintas do Tatuapé, ora embargante, em face de Helbor Empreendimentos Imobiliários e EBM Construtora Ltda, postulando a indenização de danos materiais e morais, em razão de vícios na construção de prédio residencial.
+Os pedidos foram julgados parcialmente procedentes, condenando-se as rés "à solução dos problemas construtivos enumerados a fls.1362/1363 do laudo pericial judicial, no prazo de 120 dias, sob pena de conversão em indenização pecuniária, e execução às expensas do autor e prosseguimento sob rito de execução por quantia certa" (fl. 2007).
+A sentença foi mantida em 2º grau, inclusive quanto aos honorários de sucumbência, então arbitrados em favor do advogado do autor em R$ 10.000,00 (dez mil reais).
+Havendo, portanto, condenação nas instâncias ordinárias, de fato, a decisão embargada incorreu em erro material, ao acolher a pretensão do apelo especial a fim de fixar os honorários de sucumbência em 1% sobre o valor da causa, na forma do art. 20, § 4º, do CPC/73 - dispositivo aplicável apenas " n as causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública".
+Rigorosamente, portanto, acolhida a pretensão nesta instância especial, o decisum deveria ter aplicado à controvérsia o disposto no art. 20, § 3º, do CPC/73 ("§ 3º Os honorários serão fixados entre o mínimo de dez por cento (10%) e o máximo de vinte por cento (20%) sobre o valor da condenação.."), afastando-se o critério da equidade, porém sem fixar os honorários - entre os percentuais indicados - sobre o valor da causa, como pretendido pelo embargante, e sim sobre o valor da condenação. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À MONITÓRIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. COBRANÇA DE SEGURO. REPETIÇÃO EM DOBRO DO INDÉBITO. AUSÊNCIA DE MÁ-FÉ. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 3º, DO CÓDIGO DE PROCESSO CIVIL DE 1973.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, de forma fundamentada, não se configurando negativa de prestação jurisdicional.
+2. A devolução em dobro de valores pagos pelo consumidor pressupõe a existência de pagamento indevido e a má-fé do credor. Precedentes.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+4. A jurisprudência do STJ firmou o entendimento de que os honorários advocatícios devem ser fixados entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da condenação, quando a decisão proferida possuir cunho condenatório, a teor do que prescreve o art. 20, § 3º, do Código de Processual Civil de 1973.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.835.395/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Deve-se corrigir o erro material, portanto, sem que isso implique em redução dos honorários já assegurados ao advogado do autor, nas instâncias ordinárias.
+Ante o exposto, acolho os embargos de declaração com efeitos infringentes a fim de, mantendo a procedência parcial do recurso especial, fixar os honorários de sucumbência em 10% sobre o valor da condenação, vedada a redução da importância dos honorários devidos ao advogado do autor, em relação à quantia já arbitrada na instância de origem, sob pena de reformatio in pejus.
+Publique-se.
