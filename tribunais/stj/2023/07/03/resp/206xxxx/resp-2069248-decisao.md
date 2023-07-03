@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 136):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS. IMPOSSIBILIDADE. ARGUIÇÃO DE INCONSTITUCIONALIDADE DE LEI ACOLHIDA PELO ÓRGÃO ESPECIAL DO TJGO. SENTENÇA MANTIDA
+I - No julgamento dos embargos de declaração na arguição de inconstitucionalidade nº 5113935-10.2019.8.09.0011, o Órgão Especial do TJGO declarou a inconstitucionalidade do art. 4º, XXI, da Lei Complementar 80/1994, e do art. 1º da Lei Estadual 17.654/2012, as quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual.
+II - Assim, seguindo-se a determinação inserta no julgamento do referido incidente, deve ser mantida a sentença que afastou a condenação da Fazenda Pública Municipal ao pagamento dos honorários advocatícios em favor da Defensoria Pública do Estado de Goiás.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados (fls. 173/179).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 4º, XXI, da Lei Complementar nº 80/1994, a qual "é expressa ao determinar a imposição de honorários em favor da Defensoria Pública nos processos em que ela logra êxito, consubstanciando-se em verdadeira função institucional da Defensoria Pública" e
+(II) arts. 927, III, 932, IV, b, e 949, parágrafo único, todos do CPC, uma vez que o Superior Tribunal de Justiça, em precedente qualificado, fixou a tese de que são devidos honorários sucumbenciais em favor da Defensoria Pública quando litiga contra ente federativo diverso do qual é parte integrante.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o presente recurso abarca discussão acerca do cabimento de condenação em honorários sucumbenciais em favor da Defensoria Pública, tema cuja repercussão geral foi reconhecida pelo Supremo Tribunal Federal, no bojo do RE 1.140.005/RJ - Tema 1.002, julgado que recebeu a seguinte ementa:
+Direito Constitucional. Recurso Extraordinário. Pagamento de honorários à Defensoria Pública que litiga contra o ente público ao qual se vincula. Presença de repercussão geral.
+1. A decisão recorrida excluiu a condenação da União ao pagamento de honorários advocatícios à Defensoria Pública da União.
+2. A possibilidade de se condenar ente federativo a pagar honorários advocatícios à Defensoria Pública que o integra teve a repercussão geral negada no RE 592.730, Rel. Min. Menezes Direito, paradigma do tema nº 134.
+3. As Emendas Constitucionais nº 74/2013 e nº 80/2014, que asseguraram autonomia administrativa às Defensorias Públicas, representaram alteração relevante do quadro normativo, o que justifica a rediscussão da questão. 4. Constitui questão constitucional relevante definir se os entes federativos devem pagar honorários advocatícios às Defensorias Públicas que os integram.
+5. Repercussão geral reconhecida.
+(RE 1.140.005 RG, Relator(a): Min. ROBERTO BARROSO, julgado em 03/08/2018, PROCESSO ELETRÔNICO DJe-162 DIVULG 09-08-2018 PUBLIC 10-08-2018 )
+Cumpre salientar, todavia, que, em Sessão Virtual realizada de 16/6/2023 a 23/6/2023, a Excelsa Corte procedeu à análise do mérito da demanda, tendo decidido pela fixação das seguintes teses, nos termos do voto do Relator :
+"1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra;
+2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição".
+(RE 1.140.005-RG, Rel. Ministro Roberto Barroso, julgado em 23/6/2023, acórdão pendente de publicação).
+Ora, em se descortinando a presença de tema submetido à sistemática da repercussão geral, impõe-se a necessária e prévia feitura de juízo de conformação pela Corte local, a fim de que reste exaurido o ofício judicante do Tribunal de origem, que só ocorrerá com o rejulgamento da apelação ou do agravo de instrumento a seu cargo, ou seja, por ocasião do juízo de retratação/conformação, ou mesmo manutenção, nos moldes desenhados nos arts. 1.040 e 1.041 do CPC.
+Essa orientação foi ratificada pela Primeira Turma do STJ, ao decidir que, "Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte"(AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017).
+ANTE O EXPOSTO, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, onde, nos termos dos arts. 1.040 e 1.041, do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local, frente ao que decidido pela Excelsa Corte no RE 1.140.005/RJ (Tema 1.002).
+Publique-se.
