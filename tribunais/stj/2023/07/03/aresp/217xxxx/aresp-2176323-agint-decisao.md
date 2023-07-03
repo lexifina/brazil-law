@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S. A. contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em virtude da falta de impugnação dos fundamentos da decisão que inadmitiu o apelo nobre (e-STJ fls. 665/667).
+Nas presentes razões (e-STJ fls. 670/676), a agravante sustenta, em síntese, ter rebatido todos os fundamentos da decisão de admissibilidade.
+A parte contrária apresentou impugnação (e-STJ fls. 682/686).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Observa-se que a recorrente, na petição de agravo (e-STJ fls. 600/606) refutou os fundamentos da decisão que deixou de admitir o seu recurso especial, motivo pelo qual a decisão deve ser reconsiderada (e-STJ fls. 665/667).
+Passa-se, pois, ao exame do recurso especial, fundamentado no artigo 105,
+inciso III, alínea "a", da Constituição Federal e interposto contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. PLANO DE SAÚDE. Ação de obrigação de fazer. Sentença de parcial procedência, para limitar o reajuste pretérito do contrato relativo aos anos de 2016,2017, 2018 e 2019, ao percentual fixado pela Agência Nacional da Saúde - ANS, afastando-se os aumentos por reajuste dos custos médico-hospitalares nele aplicados. Condenação, ainda, das correqueridas, à restituição dos valores pagos a maior, respeitada a prescrição trienal. Inconformismo da Qualicorp e da Amil. Não acolhimento. Ausência de comprovação, pela rés, de que os índices efetivamente aplicados ao contrato nos períodos estão em consonância com a elevação dos custos médico-hospitalares e/ou sinistralidade. Documentação juntada aos autos por ocasião de sua contestação nada demonstra quanto ao efetivo aumento dos custos a justificar a majoração do prêmio. Substituição pelos índices autorizados pela ANS para os contratos individuais e familiares nos respectivos períodos. Restituição dos valores pagos a maior, observada a prescrição trienal. Inconformismo da parte autora, que pretende a aplicação dos índices aplicados nos prêmios individuais e familiares nas mensalidades posteriores ao ano de 2019. Não acolhimento. Cláusula que prevê os reajustes por aumento dos custos médico-hospitalares e por sinistralidade que não é, por si só, ilegal. Sentença mantida. RECURSOS DESPROVIDOS" (e-STJ fl. 530).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 566/570).
+No especial, a recorrente aponta violação dos arts. 1.022, II, do Código de Processo Civil; 35-G, § 2º, da Lei nº 9.656/1998; e 478 do Código Civil, argumentando, em síntese:
+(i) haver omissão no acórdão recorrido quanto à legalidade do reajuste por sinistralidade, visto que os planos coletivos não se sujeitam ao controle da ANS;
+(ii) que os índices de reajustes previstos pela ANS se aplicam apenas aos planos de saúde individuais e familiares, não sendo possível a sua adoção para os contratos coletivos;
+(iii) a legalidade dos reajustes aplicados, porquanto previstos expressamente no contrato e necessários para manter o equilíbrio econômico-financeiro da avença; e
+(iv) a necessidade de apuração na fase de cumprimento de sentença, do índice de reajuste adequado a ser aplicado ao contrato.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+que os reajustes em questão foram aplicados no prêmio da Sra. Marta durante os anos de 2016, 2017, 2018 e 2019 sem que houvesse, por parte das requeridas, apresentação de qualquer prova dos critérios de aferição dos alegados aumentos dos custos médico-hospitalares e/ou reajustes por sinistralidade em tais períodos, o que impossibilita a verificação de sua correção.
+Forçoso reconhecer que em nenhum momento as requeridas justificam seus reajustes, não tendo se desincumbido do ônus de comprovar, à toda evidência, o aumento dos custos que justifique a majoração do prêmio nos índices aplicados. Apenas faz afirmações genéricas, não apresentando documentos, cálculos ou estudos que permitam identificar com clareza os critérios pelos quais os valores dos prêmios foram reajustados, o que coloca a autora em desvantagem exagerada.
+(..)
+Vê-se que não se cuida, em absoluto, de tratar a autora como se beneficiária fosse de plano individual, mas, antes, de impedir a incidência de reajustes absolutamente injustificados e aleatórios nos prêmios dos consumidores, ao bel-prazer das operadoras.
+Assim, em razão da aleatoriedade dos percentuais supracitados, era mesmo o caso de substituí-los pelos índices autorizados pela ANS para o reajuste financeiro anual dos contratos individuais e familiares nos respectivos períodos." (e-STJ fls. 534/537).
+De início, no tocante à violação do art. 1.022, II, do Código de Processo Civil, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, extrai-se das razões recursais que a recorrente não refutou o seguinte fundamento adotado pela Corte local: (i) não houve a comprovação da adequação dos reajustes aplicados.
+Assim, havendo fundamentos suficientes no julgado que não foram objeto de impugnação pela recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANO MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO COM DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. QUANTUM INDENIZATÓRIO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial que não impugna fundamento do acórdão recorrido sufi ciente para mantê-lo não deve ser admitido, a teor da Súmula nº 283 do STF. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.701.796/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. FALHA NA PRESTAÇÃO DE SERVIÇO DE DESPACHANTE. DISPONIBILIZAÇÃO DO PRODUTO PELO FABRICANTE. DANO SOFRIDO PELO CONSUMIDOR. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+3. Agravo interno a que se nega provimento" (AgInt no REsp 1.528.136/RR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+Ademais, o tribunal de origem concluiu que não houve a demonstração da efetiva sinistralidade e dos aumentos decorrentes de alteração de faixa etária.
+Assim, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE" SÁUDE. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem afirmou que a recorrente deixou de comprovar a necessidade do aumento da mensalidade estabelecido, mantendo a sentença que reconheceu a abusividade. Alterar tal entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.694.597/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO COLETIVO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS QUE JUSTIFICASSE O AUMENTO DAS MENSALIDADES. REVISÃO VEDADA NA VIA ESPECIAL. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde por sinistralidade, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.804.179/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021).
+Ante o exposto, reconsidero a decisão e-STJ fls. 665/667 e conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para 12% (doze por cento) em favor do advogado da recorrida, observada assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
