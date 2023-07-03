@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 697/701).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 621/622):
+APELAÇÃO CÍVEL. Direito civil. Embargos de terceiro. Fraude contra credores. Constrição judicial. Arresto. Sentença de improcedência.
+1. Embargante que pretende que seja desconstituída a medida de arresto nos autos do processo n. 00211091-77.2015.8.19.0209 e que seja reconhecida a validade do contrato de compra e venda do imóvel objeto destes Embargos de Terceiro, sob o argumento de que restou evidenciada sua boa-fé.
+2. Sentença de improcedência dos embargos de terceiro. Recurso da parte autora.
+3. Ainda que a pretensão de desconstituição do negócio jurídico objeto dos autos demande a propositura de ação anulatória, a adquirente, ora embargante, ao formular seus pedidos iniciais, incluiu, como visto, a análise da validade do negócio subjacente, motivo pelo qual eventual irregularidade do ato judicial impugnado restou superada neste aspecto.
+4. Recorrente que discorre sobre a ausência de fraude contra credores, uma vez que ainda não foi proferida sentença de procedência na ação principal, não existindo crédito em nome dos apelados, tampouco débito em nome dos réus da mencionada ação principal, configurando-se a inexistência de anterioridade de crédito em favor dos apelados Aduz, ainda, acerca da inexistência de consenso de fraude.
+5. Todavia, os referidos argumentos não merecem prosperar. Isso porque, para a caracterização da fraude contra credores não é imprescindível a existência da manifesta intenção de lesar os credores, bastando a comprovação do conhecimento da insolvência do devedor pelo terceiro adquirente e que o referido conhecimento pode ser presumido diante de determinadas circunstâncias.
+6. Embargante que teria adquirido o imóvel pela quantia de R$ 700.000,00, valor abaixo da metade do valor de mercado do bem (R$ 1.602.097,98).
+7. Embargante que sequer comprovou o pagamento do valor total que teria sido feito na aquisição do imóvel, juntando apenas alguns documentos, muitos de forma tardia, sem provas cabais da referida transação financeira.
+8. De igual forma, verifica-se a existência de diversas demandas em face dos alienantes, denotando a flagrante situação de insolvência, situação essa que poderia ter sido vislumbrada pela embargante, mediante a prévia exigência de certidões, de modo que a inexistência de gravames à época da transferência do domínio não retira a ineficácia do negócio jurídico em relação ao credor, na medida em que o embargante possuía plenas condições de ciência da insolvência do vendedor do imóvel.
+9. Manutenção da sentença.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 656/661)
+Nas razões do recurso especial (e-STJ fls. 663/675), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 489, II e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional.
+Segundo afirma, "o V. Acórdão proferido em embargos de declaração (fls. 657/662) se encontra omisso em face da argumentação de violação ao art. 158 do CC/2002 e ao art. 17 do CPC, que foram suscitados nos embargos de declaração de fls. 635/644, pois tais violações não foram analisadas pela Colenda Câmara Cível do Tribunal de Origem" (e-STJ fl. 668).
+Aponta afronta ao art. 17 e 158 do CC/2002, sustentando, em síntese, que foram preenchidos os requisitos para a caracterização de fraude contra credores.
+Acrescenta ainda que e "o ato cautelar de reconhecimento de fraude contra credores não pode substituir requisito legal de desconstituição de negócio jurídico por meio de remédio jurídico adequado, o qual se trata de ajuizamento de ação pauliana" (e-STJ fl. 672).
+No agravo (e-STJ fls. 712/717), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 723/733 (e-STJ).
+Decido.
+Não há falar em ofensa aos arts. 489 e 1022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Com relação à necessidade de prévia ação pauliana, a Corte local se manifestou no seguinte sentido (e-STJ fl. 627).
+Pontue-se, por oportuno, que a questão relativa a necessidade de prévia ação pauliana para ser reconhecida a fraude contra credores, apesar de não expressamente alegada na inicial, configura questão de direito passível assim de analise em qualquer grau de jurisdição, não havendo lugar para se falar em inovação recursal.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, com o reconhecimento da inovação recursal, a tese relativa à necessidade de ação pauliana não foi analisada pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 660).
+O Acórdão combatido concluiu, sem qualquer contradição ou omissão, não ser necessária a existência da manifesta intenção de lesar os credores para a caracterização da fraude, bastando a comprovação do conhecimento da insolvência do devedor pelo terceiro adquirente, conhecimento este que pode ser presumido, conforme demonstrado nos autos.
+Confira-se o seguinte trecho do julgado (fls. 632):
+"De igual forma, conforme destacado pelo juízo de origem, verifica-se a existência de diversas demandas em face dos alienantes, denotando a flagrante situação de insolvência, situação esta que poderia ter sido vislumbrada pela embargante, mediante a exigência de certidões, de modo que a inexistência de gravames à época da transferência do domínio não retira a ineficácia do negócio jurídico em relação ao credor, na medida em que o embargante possuía plenas condições de ciência da insolvência do vendedor do imóvel.
+Nessa linha de raciocínio, resta patente que o terceiro adquirente tinha plenas condições de saber sobre o estado de insolvência do devedor (scientia fraudis), ressaltando-se que o referido conhecimento é presumido quando há motivos de ser conhecido pelo outro contratante, o que ocorreu na hipótese dos autos, conforme demonstrado acima."
+Modificar o entendimento do acórdão impugnado quanto à presença dos requisitos para a caracterização da fraude contra credores, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
