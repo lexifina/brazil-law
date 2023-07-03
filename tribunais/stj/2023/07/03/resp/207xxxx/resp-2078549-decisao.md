@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 763/764):
+APELAÇÃO - PLANO DE SAÚDE - REAJUSTE POR FAIXA ETÁRIA E SINISTRALIDADE - REAPRECIAÇÃO DA MATÉRIA EM RAZÃO DAS TESES FIRMADAS PELO STJ, EM OBSERVÂNCIA AO DISPOSTO NOS ARTIGOS 1.030, INCISO II, DO CÓDIGO DE PROCESSO CIVIL - OBSERVÂNCIA DOS TEMAS 952 E 1016 DO STJ - SENTENÇA DE PARCIAL PROCEDÊNCIA - INSURGÊNCIA DE AMBAS AS PARTES - CONTRATO CELEBRADO APÓS 2004, CUJA MAJORAÇÃO OBSERVA O QUANTO ESTABELECIDO NA RESOLUÇÃO Nº 63/2003 DA ANS 10 FAIXAS ETÁRIAS DE AUMENTO - PREVISÃO CONTRATUAL PARA MAJORAÇÃO DA MENSALIDADE QUANDO O SEGURADO COMPLETASSE 59 ANOS - MAJORAÇÃO LEGÍTIMA CONTRATO PACTUADO APÓS 2004 (DEZ FAIXAS ETÁRIAS DE AUMENTO) APLICAÇÃO DO ENTENDIMENTO VINCULANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP 1.568.244/RJ (OBSERVÂNCIA DAS REGRAS DA RESOLUÇÃO Nº 63/2003) - APLICAÇÃO DO IRDR Nº 0043940-25.2017.8.26.0000 - O PERCENTUAL DE REAJUSTE INCIDENTE SOBRE CADA FAIXA ETÁRIA DEVE CONSIDERAR O VALOR JÁ RESULTANTE DO REAJUSTE ANTERIOR (VARIAÇÃO ACUMULADA ENTRE AS DEZ FAIXAS ETÁRIAS) - O CRITÉRIO MATEMÁTICO PREVISTO NA RESOLUÇÃO NORMATIVA NÃO DEVE SER O ÚNICO LEVADO EMCONSIDERAÇÃO PARA APURAÇÃO DA ABUSIVIDADE DO REAJUSTE - ÍNDICE QUE IMPLICA EM MAJORAÇÃO EXCESSIVA, POR SER DESPROPORCIONAL AOS DEMAIS ÍNDICES APLICADOS, IMPLICANDO EM CLÁUSULA DE BARREIRA - ABUSIVIDADE RECONHECIDA - ÍNDICE A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA, POR MEIO DE PERÍCIA ATUARIAL, ÀS EXPENSAS DA OPERADORA, PARA MANUTENÇÃO DO EQUILÍBRIO ATUARIAL NOS TERMOS DO PRECEDENTE VINCULANTE DO STJ - SENTENÇA PARCIALMENTE REFORMADA - APELO DOS AUTORES PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.004/1.008).
+Em suas razões (e-STJ fls. 782/795), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 489 e 927 do CPC/2015, alegando "errônea aplicação do Tema 610 deste STJ ao caso" (e-STJ fl. 787).
+Sustenta que "a aplicação da prescrição trienal não impede o afastamento dos reajustes durante todo o período que esteve vigente, mas apenas o quantum a ser restituído aos recorrentes, de modo que é perfeitamente cabível o afastamento de todos os reajustes aplicados desde o ano de 2012, devendo ser mantida a restituição somente a partir do ano de 2015" (e-STJ fl. 790) .
+Contrarrazões apresentadas às fls. 1.013/1.027 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O recurso especial não merece ser conhecido.
+O entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 489 e 927 do CPC/2015 - que versam sobre a fundamentação da decisão no sistema de precedentes -, porque as normas em referência nada dispõem a respeito d a tese de afastamento da prescrição trienal, que é a efetiva pretensão recursal da parte.
+Dessa forma, está caracterizada a deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Acrescente-se que a alegada aplicação errônea do Tema Repetitivo n. 610/STJ seria hipótese de error in judicando, cuja questão federal controvertida diria respeito à prescrição, que é o mérito da controvérsia, não seria hipótese de error in procedendo, a justificar a interposição do recurso com base nas normas federais pertinentes ao fundamento da decisão no sistema de precedentes.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Sem majoração de honorários, pois a parte recorrente não se encontra condenada em honorários na origem.
+Publique-se e intimem-se.
