@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por falta de demonstração da ofensa ao artigo arrolado e incidência das Súmulas n. 7 e 13 do STJ (e-STJ fls. 452/454).
+O acórdão recorrido está assim ementado (e-STJ fl. 406):
+Apelação cível. Indenizatória por danos materiais e morais, evicção e lucros cessantes. Arrematação de imóvel em leilão extrajudicial. Omissão da instituição bancária a respeito de informação essencial ao negócio jurídico. Imóvel objeto de ação de usucapião. Restituição de valores despendidos no negócio. Sentença de parcial procedência. Irresignação da instituição bancária.
+Mérito. Leilão extrajudicial. Arrematação de imóvel. Emissão de Escritura Pública de Compra e Venda celebrada no curso de ação judicial de usucapião. Silêncio intencional quanto a fato essencial. Dolo configurado (arts. 145 e 147 do Código Civil). Ressarcimento devido aos autores pelo negócio jurídico frustrado. Decisão de primeiro grau mantida. Motivação do decisório adotado como julgamento em segundo grau. Inteligência do art. 252 do RITJ.
+Honorários recursais. Aplicação da regra do art. 85, §11 do CPC. Verba honorária majorada para 20% (vinte por cento) sobre o valor atualizado da condenação, observada a gratuidade da justiça.
+Resultado . Recurso não provido.
+Nas razões do recurso especial (e-STJ fls. 416/423), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa ao art. 18, "a" e "e", da Lei n. 6.024/1974. Sustentou que a referida norma prevê que "a liquidação extrajudicial implica na suspensão das ações e execuções iniciadas sobre os direitos e interesses relativos ao acervo da entidade liquidanda, não podendo ser intentadas quaisquer outras enquanto durar a liquidação, e ainda a interrupção da prescrição relativa a obrigações de responsabilidade da instituição" (e-STJ fl. 420). Afirmou que "os adquirentes desejam com a presente demanda  ..  a restituição de valores pagos referentes ao imóvel objeto da lide, sem apresentar fatos que gerem a anulação do negócio jurídico realizado entre as partes que agiram em conformidade com a lei" Acrescentou que a "venda ad corpus é um instituto que não gera a responsabilidade dos riscos assumidos pelo adquirente, bem como, impossibilita qualquer reparação a título material e, muito menos, de valores pagos em parcelas acordadas via contrato" (e-STJ fl. 421). Alegou ainda que, demonstrada a regularidade do leilão e a correta cobrança das parcelas devidas pelo autor, não há falar em sucumbência do banco.
+Contrarrazões às fls. 425/444 (e-STJ).
+No agravo (e-STJ fls. 457/462), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 464/482).
+É o relatório.
+Decido.
+O dispositivo de lei invocado no recurso - art. 18, "a" e "e", da Lei n. 6.024/1974 - não foi objeto de exame pela Corte de origem. Tampouco foram opostos embargos de declaração para provocar o Colegiado a sobre ele se manifestar. Assim, por falta de prequestionamento, incide a Súmula n. 282/STF.
+Quanto ao dissídio interpretativo, é firme a jurisprudência desta Corte de que o conhecimento do recurso especial interposto com base na alínea "c" do permissivo constitucional exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, tais requisitos não foram atendidos, sendo que, além disso, os julgados apresentados são do próprio TJSP, o que contraria a Súmula n. 13/STJ.
+Ademais , a irresignação acerca dos honorários de sucumbência não se fez acompanhar do suposto dispositivo de lei ofendido, o que evidencia carência de fundamentação e atrai a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Sem majoração dos honorários de sucumbência, uma vez que, na origem, foram arbitrados no percentual máximo.
+Publique-se e intimem-se.
