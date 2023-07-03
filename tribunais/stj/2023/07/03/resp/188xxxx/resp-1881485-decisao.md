@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALDOMIRO TENORIO CAVALCANTE contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+A questão debatida nos autos, qual seja, "Definir se, para a aplicação válida de multas administrativas ambientais, previstas na Lei n. 9.605/1998, há obrigatoriedade da imposição prévia da pena de advertência", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.159/STJ), dos REsps 1.984.746/AP e 1.993.783/PA, de relatoria da Ministra Regina Helena Costa.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como rep resentativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
