@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAYTON CÉSAR DA SILVA (CLAYTON CÉSAR) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de Goiás, de relatoria do Des. GUILHERME GUTEMBERG ISAC PINTO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS DE TERCEIROS. PEDIDO DE EFEITO SUSPENSIVO. REQUISITOS NÃO PREENCHIDOS. ERROR IN PROCEDENDO. NÃO OCORRÊNCIA. COMPRA E VENDA DE VEÍCULO. AUSÊNCIA DE RESTRIÇÃO PRÉVIA. MÁ-FÉ DO ADQUIRENTE NÃO COMPROVADA. PRESUNÇÃO DE BOA-FÉ. SÚMULA 375 DO STJ. MULTA POR EMBARGOS PROTELATÓRIOS. NÃO APLICABILIDADE. SENTENÇA REFORMADA.
+1. Não merece conhecimento o pedido de atribuição de efeito suspensivo à apelação, visto que não deduzido adequada e oportunamente, por meio de petição em apartado, com requerimento específico, dirigido ao Relator da apelação, nos termos do artigo 1.012, § 3º, do Código de Processo Civil, bem como em razão de se encontrar prejudicado, face o julgamento do recurso.
+2. Inexistindo requerimento prévio de produção de provas (artigo 336, CPC) e sendo o julgamento antecipado da lide uma possibilidade processual, prevista no artigo 355 do CPC, - que objetiva evitar o prolongamento desnecessário da lide - não há de se constatar qualquer irregularidade no procedimento adotado pelo magistrado condutor do feito.
+3. Em se tratando de bem móvel, a transferência ocorre com a tradição e não com o registro.
+4. O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente. Súmula 375, STJ.
+5. Ausente a averbação de existência da ação ou qualquer restrição judicial sobre os veículos, que estavam gravados tão somente com restrição de alienação fiduciária, e, não havendo comprovação ou indício de que houve participação ou má-fé do adquirente na transação de compra e venda do bem, conclui-se como regular a desconstituição da penhora judicial realizada sobre os bens.
+6. É incabível a aplicação da multa prevista no § 2º do art. 1.026 do CPC, quando não caracterizado o caráter protelatório do recurso ou o abuso do direito de recorrer.
+7.Com o parcial provimento do apelo, torna-se inaplicável arbitrar os honorários recursais, consoante o disposto no § 11, do artigo 85 do Código de Processo Civil e AgInt nos EREsp nº 1539725/DF do Superior Tribunal de Justiça.
+8. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA (e-STJ, fls. 189 - com destaques no original).
+Os embargos de declaração opostos por CLAYTON CÉSAR foram acolhidos, sem efeitos infringentes (e-STJ, fls. 233/242).
+Irresignado, CLAYTON CÉSAR interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 85, 489, § 1º, IV, 1.022, parágrafo único, II, do CPC, 123, I, § 1º, 134 do CTB, ao sustentar (1) a negativa da prestação jurisdicional, a saber: omissão quanto ao fato de que o bloqueio RENAJUD somente ocorreu porque a parte adversa deixou de transferir a propriedade junto ao DETRAN; (2) que não pode ser responsabilizado pelos honorários sucumbenciais se não deu causa à demanda. Invocou a aplicação do princípio da causalidade; e, (3 ) dissídio jurisprudencial (e-STJ, fls. 258/277).
+Não foram apresentadas contrarrazões (e-STJ, fl. 321).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado de Goiás (e-STJ, fls. 324/328).
+Nas razões do presente agravo, CLAYTON CÉSAR impugnou todos os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 332/338).
+Não foi apresentada contraminuta (e-STJ, fl. 343).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar, na parte conhecida.
+(1) Da alegada negativa da prestação jurisdicional
+Pelo que se dessume dos autos, o TJGO se pronunciou sobre os temas relevantes ao deslinde da controvérsia, consignando expressamente que todas as alegações ventiladas foram devidamente apreciadas e fundamentadas, não havendo que se falar em omissão quanto ao fato de que o bloqueio RENAJUD somente ocorreu porque a parte adversa deixou de transferir a propriedade junto ao DETRAN, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+De igual modo, ao contrário do afirmado pelo embargante, o acórdão fustigado foi claro ao consignar que a anotação da propriedade de veículo perante o órgão de trânsito tem natureza meramente administrativa, prevalecendo-se a regra prevista no artigo 1.226 do CC, afastando-se eventual má-fé do adquirente em razão da demora em providenciar a transferência dos veículos. Quanto a tese de responsabilidade solidária, prevista no artigo 134 do Código de Trânsito Brasileiro, trata-se de inovação recursal, porquanto tal questão não foi ventilada no anterior recurso de apelação. De mais a mais, sobrevela destacar que o julgador não está obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito (e-STJ, fl. 217 - sem destaques no original).
+Assim, inexistem os vícios elencados, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada e fundamentada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no ARESP 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 19/8/2014, DJe 1º/9/2014.
+Nesse sentido, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Pelo que se vê dos autos, não há que se falar em ofensa aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do CPC.
+(2) Do suscitado princípio da causalidade e (3) Do alegado dissídio jurisprudencial
+Quanto à verba honorária sucumbencial, o TJGO assim se manifestou:
+Pois bem. Segundo a Súmula 303 do STJ, só quem deu causa ao ajuizamento dos embargos de terceiro deve ser condenado no ônus sucumbencial, in verbis: Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios (STJ, Súmula 303, CORTE ESPECIAL, DJ 22/11/2004). Conforme entendimento da Corte Superior, não se aplica a Súmula 303 quando a parte embargada enfrenta as impugnações do terceiro embargante, desafiando o próprio mérito dos embargos, apresentando resistência à pretensão deduzida na inicial, requerendo, como in casu "( ) o improvimento dos embargos de terceiro, com a manutenção da constrição judicial realizada nos bens móveis de propriedade do executado", fato que autoriza a condenação da parte demandada/apelante ao pagamento do ônus da sucumbência  ..  Assim, considerando que o embargado/recorrente manteve-se renitente na manutenção da constrição, rebatendo a pretensão apresentada pelo embargante/apelado, atraiu para si a sucumbência, pois é considerado vencido na ação, em razão da procedência do pedido (e-STJ, fl. 217/219 - sem destaques no original).
+Pelo que se dessume dos autos, o entendimento do acórdão recorrido está em consonância com o desta Corte, no sentido de que não se aplica a Súmula nº 303 da Corte nos casos em que a parte exeqüente enfrenta as impugnações do terceiro embargante, desafiando o próprio mérito dos embargos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ÔNUS DA SUCUMBÊNCIA. RESISTÊNCIA AOS EMBARGOS. INAPLICABILIDADE DA SÚMULA 303/STJ. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO NCPC. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência desta Corte, "não se aplica a Súmula nº 303 da Corte naqueles casos em que o exeqüente enfrenta as impugnações do terceiro embargante, desafiando o próprio mérito dos embargos" (REsp 777.393/DF, Rel. Ministro Carlos Alberto Menezes Direito, Corte Especial, julgado em 19/10/2005, DJ 12/06/2006, p. 406).
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.479.973/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.16/8/2021, DJe de 19/8/2021 - sem destaques no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em
+favor de RONES, nos termos do art. 85, § 11, do CPC, observados, se o caso, os ditames do art. 98, § 3º, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, PARÁGRAFO ÚNICO, II, DO CPC. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RESISTÊNCIA AOS EMBARGOS. INAPLICABILIDADE DA SÚMULA Nº 303 DO STJ. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
