@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. Ação indenizatória.
+Ausência de atendimento por ambulância do SAMU. Sentença de procedência. Apelo da Fundação Municipal de Saúde de Niterói.
+Responsabilidade objetiva. Art. 37 § 6º da CF.
+Vítima que foi levada ao hospital por familiares onde faleceu. Infarto agudo do miocárdio.
+Realização de mais de 30 ligações para o serviço público. Espera de 40 minutos pela ambulância sem atendimento. Laudo pericial que atesta chances com atendimento célere, mas sem certeza se seria suficiente para evitar o evento morte. Concorrência de situações para causar o desfecho. Dano moral demonstrado ante angústia causada pela demora no atendimento e desespero da família. Perda de chance. Verba indenizatória a ser reduzida para R$50.000,00 ao considerar a situação concreta. Art. 944 do CC. Precedente. DADO PARCIAL PROVIMENTO AO RECURSO.
+Os Embargos de Declaração foram rejeitados (fl. 434, e-STJ).
+Em seu Recurso Especial, a agravante sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 43, 884 e 945 do Código Civil e dos arts. 85, 373, I, e 1.022 do CPC. Afirma:
+O artigo 43 do CC restou violado por ter o acórdão desconsiderado a existência de excludente de responsabilidade. O laudo pericial, diante do quadro de infarto agudo do miocárdio, foi expresso ao concluir que há dúvida razoável sobre a existência de liame entre o óbito e o suposto atraso do SAMU. Tratando-se de resultado inevitável, não há relação causal entre o óbito e o alegado atraso do SAMU, pois mesmo que a ambulância chegasse no menor espaço de tempo possível, ainda assim não seria possível salvar o paciente.
+O acórdão violou ainda os artigos 884 e 945 do CC. O órgão julgador, além de condenar a FMS em montante exorbitante, que viola a Razoabilidade, ensejando enriquecimento sem causa da parte, desconsiderou a existência de concorrência culposa da vítima e/ou de seus familiares, em equivocada interpretação do ordenamento infraconstitucional federal.
+Sem contrarrazões.
+A inadmissão do Recurso Especial (fls. 483-486, e-STJ) ensejou a interposição do presente Agravo.
+O Ministério Público Federal, mediante o parecer de fls. 622-629, e-STJ, opinou pelo conhecimento do Agravo para não conhecer do Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.6.2023.
+Inicialmente, afasta-se a alegada ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal a quo manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, e não há motivo para a anulação do acórdão proferido em Embargos de Declaração.
+Observa-se que não foi emitido juízo de valor, nem mesmo de forma implícita, a respeito do tema inserto no art. 85 do Código de Processo Civil, carecendo o apelo do requisito indispensável do prequestionamento, o que atrai a incidência, por analogia, da Súmula 211 do STJ.
+No tocante à responsabilidade da recorrente e ao valor indenizatório, o Colegiado originário destacou:
+A Fundação, intimada em provas, disse que não as tinha a produzir (i-71 dos autos em apenso). A autora pugnou por prova testemunhal. Em decisão, de i-79 dos autos em apenso, o Juízo determinou perícia indireta.
+(..)
+Por outro lado, o dano e o nexo causal restaram comprovados nos autos. A perícia informa que as chances aumentariam no caso de atendimento em ambulância com os recursos disponíveis.
+O que se depreende é que o evento morte se deu em conjunto de fatos ocorridos. A gravidade do estado do paciente aliado à perda de uma chance de ter um socorro imediato e buscar atendimento com maior celeridade.
+Observa-se que o perito esclarece no laudo que em casos de infarto o sucesso depende de desfibrilação no primeiro minuto do colapso, o que em ambiente familiar é dificílimo.
+(..)
+Da análise do conjunto probatório, não restou demonstrado que a morte foi causada exclusivamente pela demora no atendimento do SAMU. Sendo certo que houve concorrência de situações para o desfecho. Acrescente-se que a autora afirmou que após 40 minutos de espera pela ambulância resolveram levar o paciente ao Hospital.
+Os danos restaram demonstrados, ante toda angústia causada pela demora no atendimento, e desespero da família, vendo seu ente familiar sem socorro em tempo razoável e a ausência de chance de receber um atendimento célere para ter a oportunidade de sobreviver.
+O arbitramento da verba compensatória deve ser consentâneo com os princípios da proporcionalidade e razoabilidade. Atentando- se aos precedentes e para as situações que concorreram para o fato ocorrer. Aplica-se também a extensão do dano, na forma do art. 944 do Código Civil.
+Assim, a indenização deve ser reduzida de R$104.500,00 para R$ 50.000,00, na forma do exemplo de um dos julgados em caso semelhante.
+Para afastar as premissas e conclusões a que chegou o órgão julgador no tocante à responsabilidade objetiva da Fundação seria indispensável revolver o conteúdo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ademais, a revisão do quantum indenizatório em Recurso Especial somente é possível nos casos em que o valor se revelar ínfimo ou excessivo, o que não é a hipótese dos autos. Portanto, incide a Súmula 7/STJ também sobre esse ponto.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE CIVIL DO ESTADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Cuida-se, na origem, de Ação de Indenização por Danos Morais, ajuizada em desfavor do Estado do Amapá, em razão da morte do filho da parte autora, ocorrida nas dependências do Hospital de Emergências Estadual, no dia 22.1.2017, decorrente da omissão na prestação de atendimento médico à referida vítima de atropelamento.
+2. A sentença de procedência foi mantida pelo Tribunal de origem, nesses termos: "comprovada a gravidade do quadro clínico, a conclusão lógica é que houve falha na prestação do serviço médico do Estado quando os agentes públicos mantiveram o paciente por cerca de 10 (dez) horas no corredor do hospital, na mesma maca do SAMU, ao invés de submetê-lo a tratamentos mais intensivos, impondo dor e angústia ao autor por acompanhar de perto o sofrimento do filho até a morte. Neste diapasão, vislumbro que o Juízo a quo não responsabilizou civilmente o Estado porque não garantiu a vida do paciente, como tenta supor o apelante, mas porque se constata o verdadeiro descaso com as providências necessárias para lhe possibilitar mínima chance de sobrevivência".
+3. Quanto ao valor fixado a título de reparação por danos morais, o acórdão impugnado consignou que a indenização fixada pelo juízo de primeira instância seria razoável, diante do caso concreto: "Quanto ao valor da indenização, considerando as peculiaridades do caso, verifica-se que o quantum fixado na origem não fere os princípios da razoabilidade e da proporcionalidade, servindo, a um só tempo, para compensar o autor e repreender o réu, para que ofereça tratamento médico-hospitalar digno e eficiente para a sociedade. Destarte, não configurada a alegada violação ao princípio da razoabilidade na fixação do valor indenizatório, com a possibilidade de enriquecimento sem causa do apelado, não há que falar em redução do valor fixado (R$ 20.000,00), que atende aos parâmetros deste Tribunal de Justiça".
+4. Para modificar o entendimento firmado no acórdão recorrido - no que tange à configuração de responsabilidade civil do Estado, no caso, bem como no que concerne aos valores adequados a título de indenização por danos morais - seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional, fica prejudicada em razão do óbice da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, visto que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+6. Agravo Interno não provido.
+(AgInt no REsp 1.904.870/AP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
