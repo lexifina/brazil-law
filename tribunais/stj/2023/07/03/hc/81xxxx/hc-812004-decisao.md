@@ -1,0 +1,17 @@
+DECISÃO
+JOÃO FABRÍCIO BENTO MOREIRA, acusado por tráfico e associação para o tráfico de drogas, alega ser vítima de constrangimento ilegal em sua liberdade de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+Indeferida a liminar (fls. 71-72) e prestadas as informações (fls. 77-84), foram os autos ao Ministério Público Federal, que opinou pela denegação da ordem, notadamente porque a decisão constritiva encontra-se devidamente fundamentada na reiteração delitiva (fls. 95).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão que homologou o flagrante e decretou a prisão preventiva do acusado, a seguinte passagem (fls. 50-51, destaquei):
+ ..  Ademais, presentes os indícios de autoria e materialidade delitiva em crime equiparado a hediondo, haja vista a reincidência específica do custodiado (fls. 139), sendo inviável a concessão de liberdade provisória.
+ ..  Assim, presentes as elementares do tipo penal em face do custodiado, necessário a custódia cautelar para assegurar a aplicação da lei penal, pois, se condenado, poderá, s.m.j., guardar regime fechado no cumprimento da pena privativa de liberdade, haja vista registra antecedentes criminais, além de ser reincidente (fls. 139/141 e 142/144). Portanto, repito, a mantença no cárcere é necessária para evitar a reiteração criminosa e garantia da ordem pública.
+O acórdão impugnado, por sua vez, também assinalou (fl. 68, grifei):
+ ..
+Demais, o paciente possui condenação anterior por crime da mesma espécie (fls. 139/141 dos autos originários), o que sugere dedicação à atividade criminosa e insuficiência das medidas diversas da prisão para proteção da incolumidade pública.
+Como se observa, a despeito dos crimes praticados não envolverem violência ou grave ameaça a pessoa, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou, além das circunstâncias nas quais ele foi cometido, que o paciente registra antecedentes criminais, além de ser reincidente específico.
+Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva, sobretudo se levado em consideração que se trata de paciente já condenado por tráfico de drogas.
+Nessa direção é firme a jurisprudência deste Superior Tribunal de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento nos art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
