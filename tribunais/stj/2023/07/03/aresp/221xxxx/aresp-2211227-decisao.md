@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da falta de demonstração da ofensa aos artigos indicados e da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 934/936).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 863):
+SEGURO VIAGEM - Pretensões de obrigação de fazer, cobrança e indenizatória de dano moral julgadas improcedentes - Negativa de cobertura, pela seguradora, das despesas decorrentes de internações e atendimentos médicos ocorridos após o término da vigência do seguro - Ausência de situação autorizadora da extensão da vigência da apólice (cláusula 7.5.1), conforme apurado em perícia médica indireta - Limitações de cobertura securitárias que não se mostram abusivas - Estipulação típica do contrato de seguro - Apelação não provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 873/875).
+Nas razões do recurso especial (e-STJ fls. 878/889), interposto com fundamento no art. 105, III, "a", da CF, a parte apontou ofensa aos arts. 5º, § 1º, do CDC e 757 e 765 do CC. Sustentou, em síntese, abusividade e ilegalidade da cláusula contratual que restringiu o tratamento do paciente.
+No agravo (e-STJ fls. 939/947), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta às fls. 950/959 e 961/975 (e-STJ).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem concluiu pela ausência de abusividade das cláusulas restritivas previstas no seguro viagem, in verbis (e-STJ fls . 866/867):
+Com efeito, a cláusula 7.5.1 das condições gerais do seguro viagem contratado pelo autor, dispõe que: "Em caso de impossibilidade do retorno do segurado por evento coberto, o prazo de vigência das coberturas se estenderá, automaticamente, até o retorno do segurado ao local de domicílio ou de início da viagem, respeitando os limites de capitais segurados contratados."
+Segue que, realizada perícia médica indireta, com base na cronologia dos atendimentos dispensados ao segurado na Grécia (fl. 705), o perito chegou à seguinte conclusão: "Frente a análise de todo o material acima descrito conclui o Jurisperito que os reembolsos efetuados foram corretos e de acordo com a cobertura médica contratada, estando o Autor apto a retornar ao Brasil após sua alta médica em 22/12/17, uma vez que a indicação de troca de marca-passo tratava de conduta eletiva."
+Relevante, ainda, para a questão aqui discutida, a resposta do perito ao quesito nº 3 do Juízo, no seguinte sentido:
+"3 Os problemas de saúde enfrentados pelo autor no início de sua estadia na Grécia são os mesmos surgidos posteriormente  Resposta: Não. O quadro inicial (que originou as 3 primeiras internações) foi de edema pulmonar. Com relação a este diagnóstico, o paciente teve alta hospitalar em 22/12/17- fls. 447. Após este quadro, dois novos problemas apareceram: a recomendação da troca do marca-passo e a necessidade de válvula para tratamento de hidrocefalia."
+Nesse passo, diante do apurado pelo perito, verifica-se que as internações e atendimentos médicos a partir de 16.01.2018, não relacionadas às internações e atendimentos anteriores, ocorridas na vigência do seguro, bem como diante da expressa exclusão de cobertura para troca de marca-passo(cláusula 4.1., "b" - fl.135), não decorreram de evento coberto, o que afasta a incidência da cláusula 7.5.1 da apólice e, por consequência, a cobertura securitária pretendida pelos apelantes.
+(..)
+Segue que, em se tratando de contrato de seguro, não se mostra abusiva, mesmo sob a ótica do Código de Defesa do Consumidor, cláusula que limita os risco cobertos, por se tratar de típica estipulação desse tipo de negócio e que é chancelada pelo disposto no artigo 757, do Código Civil, certo que, assim sendo, o disposto nas condições gerais da apólice constitui ajuste contratual perfeitamente válido e compatível com o sistema de seguros facultativos, onde há prévia definição dos riscos assumidos.
+Modificar o entendimento do acórdão impugnado quanto ao alcance da cobertura contratual e a abusividade da recusa, nesta hipótese, demandaria a interpretação das cláusulas dos termos contratuais e o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo
+Publique-se e intimem-se.
