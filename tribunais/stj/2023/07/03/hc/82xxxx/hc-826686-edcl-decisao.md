@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por REINALDO NASCIMENTO FREIRE contra a decisão que não conheceu do writ, ficando mantido o acórdão do Tribunal de Justiça do Estado de Sergipe.
+Em razões, a defesa aponta vício na decisão ora impugnada, pois não teria sido analisada a apontada nulidade do processo-crime ora em apreço, uma vez que o conhecimento da prática de roubo após o policial ter vasculhado o aparelho celular no momento do flagrante, ou seja, após acesso ao conteúdo e efetuada ligação a um dos contatos telefônicos, caso não se procedesse desta maneira, naquele momento, não se teria conhecimento de indícios de um possível delito.
+Alega, para tanto, que "inicialmente, ao se fazer a busca veicular, foi vislumbrado uma arma de fogo embaixo do banco do passageiro, o que em tese se configura o crime de porte ilegal de arma, quanto aos demais objetos, tais como veículo, aparelhos celulares, documentações, este deveriam ser apreendidos e levados até a autoridade policial, respeitando assim a cadeia de custodia da prova. Nesse diapasão, caso quisesse proceder a quebra de dados telemáticos, a autoridade policial deveria representar judicialmente, o que não ocorreu no caso" (e-STJ, fl. 761).
+Pugna, assim, pelo acolhimento dos aclaratórios, com efeitos modificativos, a fim de corrigir a omissão contida no decisum ora embargado.
+É o relatório.
+Decido.
+Razão não assiste ao embargante.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte, como na hipótese.
+Nesse sentido, o julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. REGIME INICIAL DE CUMPRIMENTO DA PENA. GRAVIDADE CONCRETA. QUANTIDADE E NATUREZA DA DROGA. TRANSPORTE DE ARMA DE FOGO. CIRCUNSTÂNCIAS DA PRISÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PENA-BASE NO MÍNIMO LEGAL. RECORRER EM LIBERDADE. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. Inexiste contradição em acórdão do STJ que ratifica julgado do tribunal de origem que fixa pena-base no mínimo legal, mediante fundamentação concreta, amparada na quantidade e na natureza de entorpecente apreendido, e, por essa razão, impõe regime prisional mais gravoso do que aquele indicado pelo quantum de pena estabelecido.
+3. O mero inconformismo da parte embargante com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração, que, inclusive, não se prestam para provocar o reexame da causa.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 713.568/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.);
+"EMBARGOS DE DECLARAÇÃO NA PETIÇÃO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CONHECIMENTO DO PEDIDO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foi indicado nenhum dos vícios do art. 619 do Código de Processo Penal na petição ora analisada. Logo, como se trata de irresignação com o conteúdo do decisum combatido, os embargos declaratórios devem ser recebidos como agravo regimental.
+2. Na espécie, a decisão embargada entendeu que, "apesar de a defesa ter alegado violação do art. 226 do CPP, o acórdão não analisou a tese defensiva", bem como que, "a par de não existir previsão legal para o recurso ordinário interposto pela defesa, revela-se inviável até mesmo o recebimento desta petição como habeas corpus, visto que o writ não se presta a viabilizar o conhecimento de recurso especial".
+3. A tese da defesa de contradição da decisão ora embargada e o decisum proferido nos autos do HC n. 723.738 esbarra na jurisprudência desta Corte segundo a qual "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado; tampouco dá guarida à insurgência a suposta dissonância entre duas ou mais decisões, ainda que oriundas do mesmo órgão julgador".
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração recebidos como agravo regimental. Agravo regimental não provido.
+(EDcl na Pet n. 15.066/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/5/2022, DJe de 12/5/2022.).
+No caso, resta clara a presença de vício a ser integrado nesta via.
+Contudo, a tese de nulidade pela ausência de autorização judicial para a quebra de dados telemáticos, em que pesem os esforços do ora embargante, verifica-se que o tema não foi objeto de cognição pela Corte de origem, o que obsta a apreciação direta de tal matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A fim de corroborar tal conclusão, trago à baila os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. POSSE ILEGAL DE ARMA DE FOGO. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR TRANSITADA EM JULGADO. PERÍODO DEPURADOR DE 5 ANOS. POSSIBILIDADE.
+MANUTENÇÃO DO REGIME INICIAL SEMIABERTO. AUSÊNCIA DE AGRAVAMENTO NA SITUAÇÃO DO RÉU. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO POR ESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, em consonância com a orientação desta Corte, decidiu que as condenações anteriores transitadas em julgado há mais de 5 (cinco) anos, apesar de não configurarem a reincidência, diante do período depurador previsto no art. 64, inciso I, do Código Penal, podem ser utilizadas para macular os maus antecedentes.
+2. Embora a Corte de origem, ao julgar a revisão criminal, tenha apresentado fundamentação diversa da adotada na sentença e no julgamento do recurso de apelação defensivo, concluindo que a existência de maus antecedentes justifica o modo carcerário mais gravoso, aquele Sodalício manteve a reprimenda anteriormente fixada bem como o regime inicial semiaberto, não havendo agravamento na situação do Réu.
+3. O pedido de substituição da pena privativa de liberdade por sanções restritivas de direitos não foi debatido no aresto prolatado pelo Tribunal a quo, o que impede a análise da questão diretamente por esta Corte, sob pena de indevida supressão de instância.
+Ademais, a existência de maus antecedentes impede a pleiteada substituição, nos termos do art. 44, inciso III, do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC 651.770/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. QUESTÃO NÃO ANALISADA PELO TRIBUNAL A QUO. OMISSÃO DA DECISÃO MONOCRÁTICA AGRAVADA. INEXISTÊNCIA. SUPRESSÃO DE INSTÂNCIA. ART. 316, PARÁGRAFO ÚNICO, DO CPP. REVISÃO DA CUSTÓDIA CAUTELAR. 90 DIAS. PRAZO NÃO PEREMPTÓRIO. DESCUMPRIMENTO. ILEGALIDADE DA PRISÃO. NÃO RECONHECIMENTO. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. PROPORCIONALIDADE.
+RAZOABILIDADE. AGRAVO DESPROVIDO 1. Não cabe habeas corpus para tratar de questão que não foi objeto de análise pelo Tribunal a quo, sob pena de indevida supressão de instância.
+2. O prazo estabelecido no art. 316, parágrafo único, do CPP para revisão da custódia cautelar  a cada 90 dias  não é peremptório e eventual atraso na execução desse ato não implica reconhecimento automático da ilegalidade da prisão.
+3. Os prazos processuais previstos na legislação brasileira devem ser analisados como um todo, pautados pela razoável duração do processo, de modo que o reconhecimento do excesso deve estar atrelado aos critérios da razoabilidade e proporcionalidade.
+4. Agravo desprovido"
+(AgRg no HC 620.167/PI, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021).
+Ante o exposto, acolho os embargos de declaração, apenas para sanar omissão no julgado, ficando mantido o não conhecimento da impetração.
+Publique-se. Intimem-se.
