@@ -1,0 +1,1 @@
+Artigo 2° - A partir de 1° de agosto de 2012, o PDI será pago aos servidores a que se refere o artigo 3° da parte permanente desta lei complementar com base nos resultados obtidos no Processo de Avaliação de Desempenho Individual, de que trata o artigo 5° desta lei complementar.
