@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor FELIPE DANILO SILVA PINHO contra decisão proferida por Desembargador do Tribunal de Justiça do Estado da Bahia, que indeferiu pedido liminar formulado nos autos do HC n. 8030576-19.2023.8.05.0000.
+Consta dos autos que, em 19/06/2023, o Paciente foi condenado, sob o rito do Tribunal do Júri, como incurso no delito de homicídio qualificado, sendo-lhe imposta a pena de 8 (oito) anos de reclusão em regime inicial fechado. Na ocasião, o Magistrado singular negou ao Sentenciado o direito a recorrer em liberdade, determinando a expedição do mandado de prisão (fls. 456-461).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, tendo o pedido liminar indeferido por decisão do Desembargador Relator (fls. 13-16).
+Neste writ, sustenta, em síntese, a possibilidade de afastamento da incidência da Súmula n. 691/STF. Aduz que o Paciente respondeu a ação penal em liberdade, de sorte que a prisão preventiva, decretada unicamente em razão da condenação pelo Tribunal do Júri, configura espécie de execução provisória da pena.
+Afirma, ainda, que a " ..  decisão que determinou a prisão do paciente também não encontra amparo, no art. 492, I, "e", do CPP, já que além de não estarem presentes os requisitos autorizadores da prisão preventiva, insculpidos no art. 312, do CPP, a condenação foi à pena inferior a 15 (quinze) anos, sendo esta aplicada em 8 (oito) anos de reclusão em regime fechado" (fl. 09).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem , sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+No caso, não se evidencia a existência de situação absolutamente teratológica que autorize a mitigação do mencionado óbice processual.
+Verifico que o Tribunal a quo não teve sequer a oportunidade de analisar se estão presentes, na hipótese, os elementos fáticos caracterizadores do alegado constrangimento ilegal, pois o Desembargador Relator do feito na origem, em decisão de 23/06/2023, entendeu que " ..  o deferimento da ordem, nesta oportunidade, mostra-se temerário, na medida em que a adequada cognição das ilegalidades apontadas demanda incursão nos elementos de prova que serviram de lastro ao decreto prisional" (fl. 15; sem grifos no original).
+Destacou, ainda, a necessidade de exame da questão suscitada pelo órgão Colegiado, diante das "alegações e documentos colacionados à peça primeira" (fl. 15; sem grifos no original), e determinou a requisição de informações ao Juízo singular, a serem prestadas no prazo máximo de 5 (cinco) dias.
+Nesse contexto, não se evidencia a existência de patente ilegalidade a ser sanada na espécie. A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA 691/STF. ILEGALIDADE. AUSÊNCIA. PRISÃO PREVENTIVA. DECRETO IDÔNEO. REITERAÇÃO DELITIVA. TRANCAMENTO DA AÇÃO PENAL. SUPRESSÃO INSTÂNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. "Não é teratológica a decisão do Desembargador-Relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF" (AgRg nos EDcl no HC 569.733/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 12/5/2020, DJe de 25/5/2020).
+ ..
+5. Agravo regimental improvido." (AgRg no HC n. 779.086/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 06/12/2022, DJe 15/12/2022; sem grifos no original.)
+Nessa conjuntura, não havendo notícia de que o Tribunal de Justiça do Estado da Bahia tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, valendo registrar que o remédio constitucional, ao que parece, está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
