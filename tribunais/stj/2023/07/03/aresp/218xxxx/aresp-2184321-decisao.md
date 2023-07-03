@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL SA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. JULGAMENTO DE IMPUGNAÇÃO ANTERIOR AO PLANO. INOVAÇÃO RECURSAL. EXTINÇÃO DE GARANTIAS. APROVADA NO PLANO. POSSIBILIDADE. ENTENDIMENTO DO STJ. AGRAVO PARCIALMENTE CONHECIDO E IMPROVIDO.
+I  O argumento de nulidade da votação por ausência do julgamento da impugnação não foi suscitado perante o juízo de primeiro grau, caracterizando inovação recursal, portanto tal ponto não deve ser conhecido.
+II - Embora o STJ compreenda que, como regra, a aprovação do plano de recuperação judicial não implique extinção das garantias prestadas (Súmula 581), reconhece que os credores podem, ao aprovar o plano, suprimir tais garantias.
+III - Agravo de Instrumento parcialmente conhecido e, nesta parte, desprovido." (fl. 280).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015, e arts. 49, § 1º, e 50, § 1º, da Lei n. 11.101/2005, bem como divergência jurisprudencial, sustentando, em síntese, (a) a negativa de prestação jurisdicional e (b) a impossibilidade de serem liberadas as garantias reais e fidejussórias em razão da aprovação de plano de recuperação judicial que não foi aprovado pelo credor, ora recorrente.
+Apresentadas contrarrazões ao apelo nobre (fls. 433-455).
+É o relatório.
+A irresignação merece ser aolhida.
+A Corte a quo admitiu a possibilidade de serem suprimidas garantias reais ou fidejussórias no plano de recuperação judicial aprovado por Assembleia de Credores, sem que haja a necessidade de anuência de cada credor, individualmente.
+Cita-se trecho do aresto:
+"Pela tese que pode ser conhecida, o recorrente defende serem abusivas as cláusulas do plano que exoneraram as garantias.
+Contudo, embora o STJ compreenda que, como regra, a aprovação do plano de recuperação judicial não implique extinção das garantias prestadas (Súmula 581), reconhece que os credores podem, ao aprovar o plano, suprimir tais garantias.
+(..)
+Assim, existem exceções à regra defendida no recurso, notadamente diante da aprovação pela Assembleia de Credores. Tendo sido exatamente esse o caso ocorrido, não há que se falar em ilegalidade da referida cláusula." (fl. 284-286)
+Todavia, consolidou-se o entendimento do STJ de que a supressão de garantias por decisão da assembleia-geral de credores, em recuperação judicial, vincula apenas aqueles que consentiram com a medida, não se estendendo aos credores discordantes, omissos ou ausentes na deliberação.
+Nesse sentido:
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO DE SOERGUIMENTO EMPRESARIAL. SUPRESSÃO DE GARANTIAS REAIS E FIDEJUSSÓRIAS. APROVAÇÃO EM ASSEMBLEIA-GERAL. EXTENSÃO A CREDORES DISCORDANTES, OMISSOS OU AUSENTES. IMPOSSIBILIDADE. RECURSO ESPECIAL DESPROVIDO.
+1. A supressão de garantias, reais e fidejussórias, previstas em plano de recuperação judicial aprovado em assembleia-geral de credores, vincula apenas aqueles credores que assentiram expressamente com a medida, não se estendendo, portanto, aos credores discordantes, omissos, ou ausentes à deliberação.
+2. A Lei de Recuperação Judicial e Falência assenta que a novação nela estabelecida não acarreta prejuízo às garantias reais e fidejussórias, porque a supressão ou a substituição delas somente será admitida mediante aprovação expressa do credor titular da respectiva garantia (Lei 11.101/2005, arts. 50, parágrafo único, e 59), daí por que reconhecem a doutrina e a jurisprudência desta Corte o caráter "sui generis" do instituto.
+3. A supressão de garantias contra a vontade dos credores, ainda mais as reais e fidejussórias, seria danosa para a atividade econômica no País, trazendo evidente insegurança jurídica e profundo abalo ao mercado de crédito, o que se traduziria na elevação do spread bancário e, portanto, dos juros, especialmente para aqueles submetidos justamente ao regime de recuperação judicial.
+4. O financiamento da sociedade em recuperação judicial é tão vital para o sucesso do fortalecimento da atividade produtiva que a Lei 14.112/2020, ao modificar a Lei 11.101/2005, concebeu modalidades específicas de financiamento dos recuperandos, introduzindo no Direito Pátrio os institutos do "Dip (debtor-in-possession) Finance" e do "Credor Parceiro".
+5. Recurso Especial desprovido." (REsp 1828248/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/08/2021, DJe 06/10/2021, g.n.)
+Portanto, o recurso especial merece ser acolhido, por afronta aos arts. 49 e 50 da Lei n. 11.101/2005, tendo em vista que a supressão de garantias, reais e fidejussórias, previstas em plano de recuperação judicial aprovado em assembleia-geral de credores, vincula apenas aqueles credores que assentiram expressamente com a medida, não se estendendo, portanto, aos credores discordantes, omissos, ou ausentes à deliberação, como é o caso do recorrente.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de determinar que a decisão de suprimir garantias, reais ou fidejussórias, aprovada em assembleia pelo quorum mínimo dos credores de determinada classe, não abranja o recorrente, tendo em vista a ausência de sua expressa anuência individual com tal medida.
+Prejudicada a análise de violação dos arts. 489 e 1.022 do CPC/15.
+Publique-se.
