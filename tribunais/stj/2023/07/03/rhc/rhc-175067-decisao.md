@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por Daniel Guilherme da Cruz Monteiro, impugnando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais que denegou o HC n. 1.0000.22.241461-7/000.
+O recorrente foi condenado pelo Juízo da Vara Criminal e da Infância e da Juventude da comarca de Curvelo/MG, nos autos da Ação Penal n. 0002916-56.2022.8.13.0209, às penas de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do delito previsto no art. 157, § 2º, ll, e § 2º-A, I, do Código Penal. Na oportunidade, foi negado ao réu o direito de recorrer em liberdade (fls. 14/26).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem (fls. 523/528), conforme esta ementa:
+HABEAS CORPUS - ROUBO - NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE - DECISÃO FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO - SUBSTITUIÇÃO POR MEDIDAS DIVERSAS DA PRISÃO - IMPOSSIBILIDADE.
+- Não caracteriza constrangimento ilegal a sentença condenatória que, com a devida fundamentação, nega ao réu o direito de recorrer em liberdade.
+- A gravidade concreta e real do delito supostamente praticado inviabiliza a substituição da prisão preventiva por qualquer das medidas cautelares elencadas no art. 319 do Código de Processo Penal.
+Daí o presente recurso, em que são ressaltados os predicados favoráveis do recorrente, como primariedade, bons antecedentes, estudante universitário e com residência fixa.
+Requer-se, assim, inclusive em caráter liminar, seja concedida a liberdade provisória, com a aplicação de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido pela Presidente desta Corte, Ministra Maria Thereza de Assis Moura, em 6/1/2023 (fls. 555/556).
+Prestadas as informações (fls. 559/585), o Ministério Público Federal manifestou-se pela negativa de provimento do recurso (fls. 587/592).
+É o relatório.
+O recurso não merece provimento.
+Inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao recorrente.
+O Juízo de origem, ao negar ao recorrente o direito de recorrer em liberdade, assim fundamentou a sua decisão, no que interessa (fl. 25 - grifo nosso):
+ ..
+O condenado foi preso no dia 15/3/2022, não tendo transcorrido 25% da pena aplicada, de modo que não faz jus a regime inicial de cumprimento de pena menos rigoroso (art. 387, § 2º, do CPP).
+À vista das circunstâncias acima analisadas, considerando a gravidade em concreto do delito ocorrido, em concurso de pessoas, que previamente se uniram e planejaram o intento, executando-o mediante grave ameaça e emprego de arma de fogo, conclui-se que, em liberdade, o ora sentenciado encontrará os mesmos estímulos para continuar a perpetrar crimes, retirando o sossego da sociedade e, considerando que o acusado permaneceu preso durante toda a instrução, ausente fato novo que concorra para a sua liberdade, ao contrário, a condenação recomenda ainda mais o seu acautelamento, para o devido resguardo da ordem pública, permanecendo, desta forma, presentes os motivos ensejadores da prisão do réu, nos moldes do art. 312 do Código de Processo Penal, restando indeferido, ao condenado, o direito de eventual recurso em liberdade.
+O Tribunal local, ao denegar a ordem, convalidando a constrição cautelar, concluiu que (fls. 525/528 - grifo nosso):
+ ..  o crime em tese praticado pelo paciente se revela de especial e concreta gravidade, considerando o concurso de pessoas, bem como a notícia de que se uniram e planejaram de forma minuciosa o delito em comento, executando-o mediante grave ameaça e emprego de arma de fogo, o que demonstra a periculosidade do acusado.
+ ..
+Sendo assim, inexiste constrangimento ilegal diante da negativa ao paciente do direito de recorrer em liberdade, pois a decisão supratranscrita se encontra devidamente fundamentada com base nos pressupostos e requisitos constantes do art. 312 e do art. 387, ambos do Código de Processo Penal, tendo em vista, especialmente, a necessidade de se garantir a ordem pública.
+ ..
+Por fim, em razão da gravidade concreta e real do delito em tese praticado, inviável é a substituição da prisão preventiva por qualquer das medidas cautelares elencadas no art. 319 do Código de Processo Penal.
+Realmente, verifica-se que a custódia cautelar está fundamentada em elementos concretos, tirados das circunstâncias do crime, reveladores da gravidade real da conduta do recorrente, o qual teria, de forma premeditada, ao lado de outras pessoas, mediante grave ameaça exercida com o emprego de uma arma de fogo, cometido o roubo circunstanciado. Tais fatores demonstram o risco ao meio social e a necessidade de sua prisão preventiva para a garantia da ordem pública.
+Nesse sentido é a jurisprudência desta Corte Superior. Confiram-se estes: RHC n. 153.622/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/11/2021; HC n. 444.637/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018; e AgRg no RHC n. 164.648/RS, Ministro João Otávio de Noronha, Quinta Turma, DJe 15/8/2022.
+Vale ressaltar, por oportuno, que há diversos julgados neste Tribunal dispondo que a manutenção da custódia cautelar no momento da sentença condenatória, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente ao entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal (HC n. 558.882/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/6/2020).
+Assim, como visto, a manutenção da prisão do recorrente não se encontra desprovida de fundamentação, não havendo nenhum constrangimento ilegal a ser sanado, mormente por ter permanecido preso durante toda a instrução criminal, ainda hoje persistindo os motivos que ensejaram a prisão preventiva.
+Por fim, eventuais condições pessoais favoráveis do recorrente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Não é outra a opinião do Subprocurador-Geral da República Alexandre Espinosa Bravo Barbosa, cujo parecer (fls. 587/592) também adoto como razão de decidir.
+Ante o exposto, com base na jurisprudência e na manifestação do Ministério Público Federal, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. VEDAÇÃO DO RECURSO EM LIBERDADE. MODUS OPERANDI. PRESO DURANTE TODA A INSTRUÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. ACÓRDÃO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
