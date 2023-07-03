@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por FRANCIENE DOS SANTOS SOARES da decisão de minha relatoria que não conheceu do habeas corpus impetrado, porém, concedeu a ordem de ofício, "para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie a existência de eventual constrangimento ilegal perpetrado em desfavor da paciente" (e-STJ fl. 144), nos autos do Haber Corpus n.º 4002818-63.2023.8.04.0000.
+Na presente oportunidade, a defesa reitera os argumentos acerca da ilegalidade da segregação cautelar, ressaltando a insuficiência de indícios mínimos de autoria e o fato de que a paciente estaria sendo, em verdade, vítima da ação de criminosos, os quais teriam roubado os documentos da acusada e estariam utilizando estes na prática de crimes, como o dos autos.
+Pondera que a individualização da conduta em relação à paciente é frágil e amparada unicamente em transações financeiras feitas via pix, de uma conta que certamente foi fraudada, não havendo elementos robustos que comprovem a autoria ou participação da acusada nos fatos em questão.
+Diante disso, pede a reconsideração da decisão anterior para deferir a liminar, concedendo-se a prisão domiciliar com monitoramento eletrônico.
+É o relatório. Decido.
+Em que pese o esforço da combativa defesa, a análise do pedido mandamental permanece inviável. Isso porque, os temas objeto da impetração - ilegalidade da prisão, sobretudo em razão da ausência de indícios mínimos de participação nos delitos - não foram objeto de exame pela Corte de origem, inexistindo, sequer, as premissas fáticas necessárias para a solução da controvérsia.
+Cabe notar, ademais, que sequer a inicial veio acompanhada da decisão que decretou a prisão preventiva da paciente, tampouco cópia do inquérito policial ou da denúncia. Desse modo, sequer é possível uma completa cognição da conduta imputada, tampouco dos motivos que ensejaram a custódia.
+Sendo assim, não há como esse Superior Tribunal de Justiça substituir a atuação do Tribunal de Justiça do Estado do Amazonas no exame das matérias discutidas na presente impetração, devendo os temas, primeiramente, ser examinados pela Corte de origem.
+Ante o exposto, indefiro o pedido de reconsideração.
+Intimem-se.
