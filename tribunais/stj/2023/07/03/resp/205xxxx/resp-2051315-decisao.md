@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 883/884):
+CONFLITO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. CONSUMIDOR POR EQUIPARAÇÃO. INSUBSISTÊNCIA. CONFLITO PROCEDENTE.
+Para que as partes sejam reconhecidas como consumidoras por equiparação, pressupõe-se a existência de relação de consumo adjacente e defeito de consumo grave e danoso a terceiros.
+Caso em que os fatos relatados na petição inicial da ação de origem indicam a ocorrência de danos ambientais causados pela instalação da Barragem de Pedra do Cavalo e da Central Hidroelétrica de Pedra do Cavalo, que, segundo afirmam os pescadores/marisqueiros autores, vem provocando modificações ambientais graves, com redução das áreas de pesca e mariscagem, criando prejuízos de ordem econômica, social e danos à saúde, o que é insuficiente para tratá-los como consumidores por equiparação, nos termos do art. 17 do CDC.
+Conflito julgado procedente, reconhecendo-se a competência do MM. Juízo de Direito da 3ª Vara Cível de Salvador para processar e julgar a ação indenizatória.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.065/1.074).
+No recurso especial (e-STJ fls. 1.088/1.118), com fundamento no art. 105, III, "a", da CF, os recorrentes apontaram violação do art. 489 do CPC/2015, afirmando ter havido falha na fundamentação do acórdão.
+Indicaram afronta aos arts. 2º, 3º, 17 e 20 do CDC e 11 da Lei n. 9.074/1995, alegando a existência de relação de consumo. Sustentaram, em síntese, que (e-STJ fl. 1.109):
+Trata-se de um verdadeiro mercado de consumo de energia, de forma que não se pode ignorar a necessária aplicação da legislação consumerista nas relações firmadas entre aqueles que adquirem e utilizam a mencionada energia como destinatário final e os fornecedores, todos integrantes do mercado de energia.
+Contrarrazões apresentadas (e-STJ fls. 1.122/1.137).
+É o relatório.
+Decido.
+I - Da falha na fundamentação
+Os agravantes alegam que a decisão é nula, por ausência de fundamentação do acórdão recorrido. Afirmam que, "Ao julgar o conflito de Competência, o órgão julgador não enfrentou todos os argumentos trazidos nos autos, incorrendo em nítida violação ao comando disposto no art. 489, § 1º da Lei 13.105/2015" (e-STJ fl. 1.099).
+O acórdão recorrido concluiu pela inexistência de relação de consumo entre as partes.
+Ao esclarecer a matéria em sede de embargos de declaração, o Tribunal consignou que (e-STJ fls. 1.070/1.074):
+Não merece guarida a pretensão dos Embargantes.
+Para serem admitidos os embargos declaratórios, necessário se faz que a decisão embargada padeça de vício de obscuridade, contradição, omissão ou erro material (CPC, art. 1022, I, II e III).
+O vício de omissão é definido pelo próprio Código de Ritos, em seu art. 1.022.
+No caso dos autos, contudo, não se cogita do propalado vício, tendo em vista que o acórdão analisou e deslindou as questões trazidas à baila pelas partes, inclusive no que tange a impossibilidade de se reconhecer os Embargantes como consumidores por equiparação, à vista da não constatação, pelos fatos relatados na exordial da Ação de Indenização, da existência de relação de consumo adjacente e acidente de consumo grave e danoso a terceiros.
+Nesse sentido, confira-se trecho do julgado:
+ ..
+Como se vê, ainda que de forma sucinta, o acórdão embargado analisou e deslindou todas as questões que, trazidas pelos Recorrentes, poderiam influir no resultado do julgamento e expôs com clareza os fundamentos da decisão, não havendo que se falar em omissão a ser sanada pela via dos aclaratórios, tanto mais quando se constata que a pretensão dos Embargantes é, em verdade, rediscutir a matéria, o que não se admite.
+E, não havendo os vícios alegados pelos Embargantes, não se há de cogitar, por conseguinte, de efeito infringente, que decorre da correção dos eventuais defeitos de que padeça a decisão embargada.
+Não se verifica, portanto, a alegada falha na fundamentação das decisões recorridas. Com efeito, ainda que contrariamente ao interesse da parte, as decisões estão devidamente fundamentadas de acordo com as questões submetidas.
+Desse modo, não se constata a alegada ofensa ao art. 489, § 1º, IV, V e VI, do CPC/2015.
+II - Da relação de consumo
+No mérito, a controvérsia trata da possibilidade de aplicar o CDC, por força de seu art. 17 (vítimas do evento - consumidor bystander).
+Quanto ao ponto, o Tribunal compreendeu que o ajuizamento da ação indenizatória decorreu de suposto dano ambiental. A propósito, transcreve-se a seguinte passagem (e-STJ fls. 889/892):
+Cumpre saber, no presente feito, qual o Juízo competente para processar e julgar a Ação de Indenização por Danos Materiais e Morais nº 8007254-69.2020.8.05.0001, ajuizada por Djario da Silva Souza e outros em face Votorantim Energia Ltda. e outros, inicialmente distribuída para o MM. Juízo da 3ª Vara Cível e posteriormente remetida ao MM. Juízo 6ª Vara das Relações de Consumo de Salvador, por força da declaração de incompetência.
+E, do exame dos autos, verifica-se que assiste razão ao MM. Juízo Suscitante, devendo o conflito ser julgado procedente.
+É que o envio dos autos a juízo de consumo teria como pressuposto a existência de relação de consumo equiparada, o que não subsiste.
+Não se desconhece a figura do consumidor por equiparação, prevista no art. 17 do Código de Defesa do Consumidor, também denominada pela doutrina como consumidor "bystander":
+ ..
+No entanto, para que as partes sejam reconhecidas como consumidores por equiparação, faz-se necessária a existência de relação de consumo adjacente e acidente de consumo grave e danoso a terceiros, o que não se vislumbra no caso concreto.
+Os fatos relatados na petição inicial da ação de origem indicam a ocorrência de danos ambientais causados pela instalação da Barragem de Pedra do Cavalo e da Central Hidroelétrica de Pedra do Cavalo, que, segundo afirmam os pescadores / marisqueiros autores, vem provocando modificações ambientais graves, com redução das áreas de pesca e mariscagem, gerando prejuízos de ordem econômica, social e danos à saúde, o que é insuficiente para tratá-los como consumidores por equiparação, nos termos do art. 17 do CDC.
+É preciso elementos indicativos de que um acidente de consumo tenha efetivamente atingido terceiros, estranhos a uma relação de consumo, como se dá no caso em que, por exemplo, alguém é atingido pela explosão de uma garrafa de refrigerante, estando no supermercado apenas para acompanhar um amigo cliente do estabelecimento. Ou, na hipótese de desabamento de teto de um shopping que venha a atingir pessoas que não estavam necessariamente em compras.
+ ..
+Inviável, portanto, se revela a remessa dos autos da Ação de Indenização ao Juízo do Consumidor, como determinada pelo MM. Juízo suscitado.
+O Tribunal de origem julgou procedente o conflito de competência, afastando a aplicação do CDC, sob o fundamento de que o dano em questão não é oriundo de uma relação jurídica de consumo.
+Ocorre que a compreensão adotada pela Corte baiana não está de acordo com a jurisprudência desta Corte Superior que, em casos análogos ao presente (danos ambientais decorrentes de exploração de atividade comercial), firmou entendimento de que "é possível, em virtude da caracterização do acidente de consumo, o reconhecimento da figura do consumidor por equiparação, o que atrai a incidência das disposições do Código de Defesa do Consumidor" (REsp n. 2.005.977/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/09/2022, DJe 30/09/2022).
+No caso presente, VOTORANTIM e outras, enquanto produtoras de eletricidade, firmaram um contrato com o Poder Público de modo a operar a barragem e gerenciar a usina hidrelétrica, a fim de comercializar a energia produzida, tendo sido provocado o suposto dano pelo funcionamento da Usina Hidrelétrica Pedra do Cavalo. Assim, eventual falha em seu processo produtivo, que possa ter causado danos a outrem, caracteriza acidente de consumo.
+Por esse motivo, os recorrentes, que sobrevivem da atividade pesqueira afetada pelo dano ambiental, devem ser equiparados a consumidores, visto que foram diretamente atingidos pelo defeito de produção. Assim, a jurisprudência desta Corte Superior admite a existência da figura do consumidor por equiparação nas hipóteses de danos ambientais, nos termos do art. 17 do Código de Defesa do Consumidor.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. COMPETÊNCIA DA SEGUNDA SEÇÃO. CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. PRINCÍPIOS DA PREVENÇÃO E PRECAUÇÃO. SÚMULA 7/STJ. PROVA DE FATO NEGATIVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. DANO AMBIENTAL. POLUIÇÃO ATMOSFÉRICA. DANOS INDIVIDUAIS. CONSUMIDOR POR EQUIPARAÇÃO. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. REEXAME. SÚMULA 7/STJ.
+1- Recurso especial interposto em 29/7/2021 e concluso ao gabinete em 26/04/2022.
+2- O propósito recursal consiste em dizer se: a) os recorridos podem ser considerados consumidores por equiparação por sofrerem os danos decorrentes do exercício de atividade empresarial poluidora; b) são aplicáveis as disposições do CDC em ação compensatória por danos morais fundada em dano ambiental; e c) a inversão do ônus da prova determinada deve ser mantida.
+3- Recurso especial afetado pela Terceira Turma, em atenção aos princípios da efetividade da jurisdição e da celeridade processual, para julgamento perante a Segunda Seção em razão da existência de multiplicidade de recursos fundados em idêntica questão de fato e de direito.
+4- A causa de pedir da presente ação encontra-se fundada em questão eminentemente privada, inexistindo discussão acerca de eventual responsabilidade do Estado, tampouco pedido de restauração do próprio meio ambiente, motivo pelo qual esta Segunda Seção é competente para apreciação do presente processo.
+5- No que diz respeito às teses segundo as quais (a) estaria caracterizado o uso predatório do sistema de justiça; (b) não se aplicaria o CDC em ação compensatória por danos morais fundada em dano ambiental e (b) o princípio do poluidor-pagador e a responsabilidade objetiva não justificariam a inversão do ônus da prova, tem-se, no ponto, inviável o debate, porquanto não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação das teses recursais apresentadas, sob pena de supressão de instâncias.
+6- Verificar, na hipótese concreta, se foram devidamente comprovados o dano ambiental ou a dúvida científica, demandaria o revolvimento de fatos e provas, o que é vedado em sede de recurso especial em virtude da incidência da Súmula 7 do STJ.
+7- Ao contrário que sustenta a parte recorrente, não lhe foi imposto o dever de produzir prova impossível, tese que, ademais, sequer encontra-se prequestionada.
+8- Na hipótese dos autos, extrai-se da causa de pedir que a recorrente, em sua unidade industrial no município de Passo Fundo/RS, desenvolve atividade empresarial que causa poluição atmosférica com a produção de ruído intenso, emissão de fuligem, gases, materiais particulados e odores fétidos, tendo ocorrido, inclusive, vazamento de amônia. O mencionado ambiente insalubre perduraria por anos, causando, entre outros sintomas, hipoxemia decorrente de intoxicação causada pela falta de oxigênio, fortes dores de cabeça, fadiga, ardência nos olhos, náusea, diarreia, vômito e mal-estar.
+9- Tratando-se de danos individuais decorrentes do exercício de atividade empresarial poluidora destinada à fabricação de produtos para comercialização, é possível, em virtude da caracterização do acidente de consumo, o reconhecimento da figura do consumidor por equiparação, o que atrai a incidência das disposições do Código de Defesa do Consumidor.
+10- Derruir a conclusão a que chegou a Corte de origem, que manteve a inversão do ônus da prova determinada pelo juiz de primeira instância, demandaria o revolvimento dos fatos e das provas o que é vedado pelo enunciado da Súmula 7 do STJ.
+11- Recurso especial conhecido em parte e, nesta extensão, não provido.
+(REsp n. 2.005.977/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 28/9/2022, DJe de 30/9/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS ADVINDOS DE POLUIÇÃO AMBIENTAL. CONSUMIDOR POR EQUIPARAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. DISSÍDIO PREJUDICADO. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. As instâncias ordinárias, com base nos fatos e provas dos autos, concluíram que a parte autora é considerada consumidora por equiparação, nos termos do art. 17 do CDC, assim como pela incidência das regras de responsabilidade objetiva e pela inversão do ônus da prova.
+3. "Na hipótese de danos individuais decorrentes do exercício de atividade empresarial poluidora destinada à fabricação de produtos para comercialização, é possível, em virtude da caracterização do acidente de consumo, o reconhecimento da figura do consumidor por equiparação, o que atrai a incidência das disposições do Código de Defesa do Consumidor" (REsp n. 2.005.977/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 28/9/2022, DJe de 30/9/2022).
+4. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidência da Súmula n. 83 do STJ.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+6. Fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas 7 e 83 do STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.994.330/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DANO AMBIENTAL. REPARAÇÃO POR DANOS MORAIS E MATERIAIS. CONSUMIDOR POR EQUIPARAÇÃO. ART. 17 DO CDC. POSSIBILIDADE DE AÇÃO INDIVIDUAL. AGRAVO NÃO PROVIDO.
+1. O sistema processual brasileiro admite a coexistência de ação coletiva e ação individual que postulem o reconhecimento de um mesmo direito, inexistindo litispendência entre as demandas.
+2. A jurisprudência desta Corte Superior admite, nos termos do art. 17 do CDC, a existência da figura do consumidor por equiparação nas hipóteses de danos ambientais.
+3. Agravo interno não provido.
+(AgInt no REsp 1833216/RO, Rel Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/09/2021, DJe 27/09/2021.)
+Deve ser reconhecida, portanto, a existência de relação de consumo entre as partes.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de reconhecer os recorrentes como consumidores por equiparação conforme a jurisprudência do STJ e, determinar o retorno dos autos para que o Tribunal rejulgue o conflito de competência.
+Publique-se e intimem-se.
