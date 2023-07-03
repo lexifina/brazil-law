@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 632/633):
+APELAÇÃO CÍVEL. AÇÃO DE NULIDADE DE COMPRA E VENDA. PRELIMINAR DE DESERÇÃO. RECORRENTE QUE LITIGA SOB O PÁLIO DA JUSTIÇA GRATUITA. REJEIÇÃO. BEM ADQUIRIDO NA CONSTÂNCIA DE CASAMENTO, APENAS PELA CÔNJUGE VAROA. COMUNHÃO. ALIENAÇÃO DO TERRENO QUANDO O CÔNJUGE VARÃO JÁ HOUVERA FALECIDO. BEM CUJA TOTALIDADE NÃO FAZIA PARTE DO PATRIMÔNIO DISPONÍVEL DA VAROA SUPÉRSTITE. VENDA A NON DOMINO. NULIDADE. DECADÊNCIA NÃO OBSERVADA. CASSAÇÃO DA SENTENÇA. PROVIMENTO. - Não há que se falar em deserção quando a parte insurgente litiga sob o pálio da justiça gratuita. - A venda a non domino é nula de pleno direito, nos termos do art. 166 do Código Civil, por lhe faltar o pressuposto fático essencial, que é o direito do alienante à coisa.
+Os embargos de declaração foram rejeitados (e-STJ fls. 659/664 e 678/684).
+Em suas razões (e-STJ fls. 687/706), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, devido à omissão sobre a "preliminar de não conhecimento do recurso de apelação por deserção", pois "em momento algum a decisão recorrida demonstra o pagamento do preparo recursal" (e-STJ fl. 698), bem como que, "após a morte do beneficiário e a consequente habilitação dos herdeiros, (..), os novos autores optaram por não requerer os benefícios da justiça gratuita e, portanto, não obter os benefícios deferidos expressamente" (e-STJ fl. 700),
+(ii) art. 99, § 6º, do CPC/2015, porque "não há no pedido de habilitação e tampouco no seu recurso, requerimento que vise a concessão da Justiça Gratuita, ou mesmo a respectiva juntada do comprovante de recolhimento das custas processuais/preparo recursal" (e-STJ fl. 700),
+(iii) arts. 176, § 9º, V, "b", do CC/1916, 2.035 e 2.044 do CPC/2015, tendo em vista que, "muito embora o legislador à época tratar como prazo prescricional, o que se vê é indiscutível aplicação do instituto da decadência do direito. Desse modo, a hipótese dos autos leva a certeza de aplicação do art. 178, § 9º, V, "b", devendo ser extinto com resolução do mérito na forma do art. 269, IV, do CPC" (e-STJ fl. 703).
+Nesses termos, requer o provimento do recurso, para que seja declarada "a nulidade do acórdão (..), retornando para nova decisão ou sua reforma, por ofensa aos dispositivos legais referenciados, com vistas a negar provimento à apelação manejada pela recorrida e consequente manutenção da sentença em todos os seus efeitos" (e-STJ fl. 706).
+Não foram apresentadas contrarrazões (e-STJ fl. 712).
+O recurso foi admitido na origem (e-STJ fls. 717/718).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, de que houve omissão sobre a "preliminar de não conhecimento do recurso de apelação por deserção", porque, "após a morte do beneficiário e a consequente habilitação dos herdeiros, (..), os novos autores optaram por não requerer os benefícios da justiça gratuita e, portanto, não obter os benefícios deferidos expressamente" (e-STJ fl. 700).
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, a teor da Súmula n. 7/STJ, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
