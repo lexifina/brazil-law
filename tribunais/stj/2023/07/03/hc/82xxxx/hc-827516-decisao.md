@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JEFERSON ANTONIO DA SILVA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Cautelar Inominada n. 0031724- 98.2023.816.0000).
+Depreende-se dos autos que o paciente foi preso em flagrante, em 17/5/2023, pela suposta prática dos delitos tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/2006, em virtude da apreensão de duas porções de cocaína, uma de 32g (trinta e dois gramas) e outra de 561g (quinhentos e sessenta e um gramas) (e-STJ fls.291/294). O Juízo de primeiro grau homologou a prisão em flagrante e concedeu liberdade provisória (e-STJ fls. 200/204).
+Irresignado, o Ministério Público interpôs recurso em sentido estrito e, também, medida cautelar inominada para atribuição de efeito suspensivo ao mencionado recurso. A Desembargadora relatora deferiu a liminar, nos termos da decisão acostada às e-STJ fls. 22/25.
+Daí o presente writ, no qual a defesa alega afronta à Súmula n. 604/STJ, uma vez que a antecipação de tutela deveria ter sido formulada nos autos do recurso em sentido estrito, e não em ação própria.
+Assevera que a atribuição de efeito suspensivo viola o princípio da legalidade, porquanto os arts. 584 e 581 do Código de Processo Penal não autorizam tal providência em sede de recurso em sentido estrito.
+Sustenta que não estão presentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP, e que se mostra suficiente a aplicação de medidas alternativas ao cárcere, sobretudo quando considerado que eventual condenação fixará regime inicial diverso do fechado.
+Requer, liminarmente, a suspensão dos efeitos da decisão atacada; e, no mérito, o restabelecimento do decisum de primeiro grau.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento ou denegação da ordem.
+É o relatório. Decido.
+No caso, a Desembargadora relatora deferiu a liminar do writ originário apenas para conferir efeito suspensivo a recurso em sentido estrito ministerial.
+Assim, considerando-se que a irresignação do paciente nem sequer foi apreciada pelo órgão colegiado do Tribunal de origem, fica obstada a sua análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Com efeito, não se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus interposto contra decisão singular de desembargador, conforme a pacífica jurisprudência desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. QUESTÕES NÃO LEVADAS AO CONHECIMENTO DO COLEGIADO DO TRIBUNAL A QUO. INCOMPETÊNCIA DESTA CORTE. SUPRESSÃO DE INSTÂNCIA. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas levantados na impetração não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância.
+ ..
+3. Agravo regimental a que se nega provimento. (AgRg no HC 366.604/MG, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/9/2016, DJe 21/9/2016, grifei.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADORA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1 - Insurgindo-se a defesa do paciente em face de decisão monocrática de Desembargadora que não analisou a pretensão pleiteada no prévio writ, contra a qual seria cabível agravo regimental, mostra-se incabível o conhecimento do pedido, pois não configurada nenhuma das hipóteses elencadas no art. 105 da CF, a ensejar a inauguração da competência desta Corte. .. 4 - Agravo regimental improvido. (AgInt no HC 242.379/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/8/2016, DJe 15/8/2016, grifei.)
+Ademais, ainda que superado o óbice apontado, como bem anotou o parecer ministerial "a jurisprudência desse egrégio Superior Tribunal de Justiça sedimentou o entendimento no sentido de que "é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva" (HC n. 485.727/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2019, DJe de 30/4/2019)".
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
