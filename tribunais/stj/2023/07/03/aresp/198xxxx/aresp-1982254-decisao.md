@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da falta de demonstração da ofensa aos artigos indicados e da incidência da Súmula n. 7/STJ (e-STJ fls. 428/431).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 344):
+Apelação cível. Ação de cobrança. Contrato de seguro. Autor que objetiva o recebimento da indenização em virtude do acidente de trânsito que culminou com a morte do seu genitor. Sentença de procedência. Apelo da ré. Cerceamento de defesa não caracterizado. Juntada da cópia integral do inquérito policial que não é imprescindível para o deslinde da controvérsia. Procedimento que visa apurar a ocorrência de homicídio culposo na direção de veículo automotor. Alegação de que o segurado não usava capacete na hora do acidente e que a conduta gerou o agravamento do risco e a exclusão da cobertura. Acervo probatório dos autos que afasta a tese defensiva da empresa. Insurgência contra a aplicação da multa na audiência de conciliação. Art. 334, §8º do CPC. Penalidade que somente incidirá no caso de ausência injustificada da parte. Exclusão da multa que se impõe. Sentença parcialmente modificada. Apelo a que se dá parcial provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 366/370).
+Nas razões do recurso especial (e-STJ fls. 380/388), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 489 e 1.022 do CPC e 762 e 768 do CC. Sustentou, em síntese, falta de prestação jurisdicional e perda do direito ao recebimento do prêmio, diante do agravamento do risco praticado pelo segurado pela falta de uso de capacete.
+No agravo (e-STJ fls. 444/450), afirma a presença dos requisitos de admissibilidade do especial.
+C ontraminuta às fls. 455/461 (e-STJ).
+É o relatório.
+Decido.
+Quanto aos arts. 489 e 1.022 do CPC/2015, a parte agravante afirma a existência de omissão no acórdão recorrido, pois deixou de apreciar as questões referentes ao alegado cerceamento de defesa e agravamento do risco pela falta do uso de capacete.
+No entanto, o Tribunal de origem assim se manifestou sobre os temas (e-STJ fls. 348/350):
+De início, não merece acolhida a preliminar de cerceamento de defesa arguida pela apelante, tendo em vista que a juntada da cópia integral do inquérito policial não se revela imprescindível para o deslinde da controvérsia.
+Como é cediço, na qualidade de destinatário das provas, o juiz pode indeferir aquelas que reputar inúteis ou protelatórias, conforme art. 370, parágrafo único, do CPC.
+E, na hipótese dos autos, os documentos extraídos do referido procedimento, quais sejam, boletim de ocorrência, termos de declaração dos envolvidos, exames de corpo de delito e do local do acidente, se mostram suficientes à análise da questão.
+Soma-se a isso o fato de o inquérito policial ter sido instaurado com o objetivo de apurar a ocorrência ou não do crime de homicídio culposo praticado na direção de veículo automotor e de lesão corporal culposa, arts. 302 e 303 do CTB, e não eventual prática de infração de trânsito pela ausência do uso de capacete, razão pela qual, ao contrário do que sustenta a apelante, a juntada da íntegra do procedimento não serviria a demonstrar eventual desrespeito às normas de trânsito.
+Desse modo, não há que se falar na ocorrência de error in procedendo a justificar a anulação da sentença
+(..)
+Em sua defesa, a apelante aduz que restou comprovado que o segurado não usava capacete na hora do ocorrido e que essa conduta dolosa gerou o agravamento do risco e a exclusão da cobertura.
+Ocorre que o documento que ela utiliza para embasar a sua alegação é o termo de declaração da namorada e carona do Sr. Samuel no acidente, Sra. Penha Bernardo Alves, de fls. 35/36(index 28), no qual restou consignado o seguinte: "(..) que afirma que ela e nem SAMUEL usavam capacetes (..)".
+No entanto, como bem ressaltado na sentença e nos pareceres do Ministério Público e da Procuradoria de Justiça, o uso da expressão "nem" na referida frase deveria ter sido empregada de forma repetida a fim significar exclusão, não tendo sido utilizada corretamente pelo escrivão.
+Tanto que se ela for suprimida, a frase apresenta significado diametralmente oposto ao defendido pela apelante, de modo que não tendo sido empregado corretamente o vernáculo, nesse aspecto, a declaração restou imprecisa quando da sua transcrição.
+Além disso, o laudo de exame no local do acidente de trânsito, de fls. 41/42(index 37), consigna expressamente, na descrição das avarias visíveis, a existência de capacete sobre a motocicleta com ranhuras e dano na viseira.
+De toda sorte, embora a apelante defenda que, de acordo com a cláusula 4.1.9 das condições gerais, o ato reconhecidamente perigoso excluia cobertura do seguro, a atenta leitura do documento permite verificar que a cláusula 4.2 dispõe que esse item não se aplica aos casos em que o acidente pessoal sofrido pelo segurado decorra, dentre outros, da utilização de meio de transporte mais arriscado(fls. 201, index 192), (..)
+Desse modo, não se constata hipótese alguma de cabimento dos embargos de declaração, circunstância que, de plano, torna imprópria a invocação dos arts. 489 e 1.022 do CPC/2015 e o conhecimento do recurso especial nessa parte.
+Ademais, modificar o entendimento do acórdão acima transcrito, quanto à perda do direito ao recebimento da cobertura por agravamento do risco, nesta hipótese, demandaria a interpretação das cláusulas dos termos contratuais e o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo
+Publique-se e intimem-se.
