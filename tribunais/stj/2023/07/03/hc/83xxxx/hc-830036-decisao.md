@@ -1,0 +1,13 @@
+DECISÃO
+Uma vez sanada a deficiente instrução do feito, torno sem efeito a decisão de fls. 1.291-1.292.
+EDSON GALVÃO alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no HC n. 5021249-73.2023.8.24.0000/SC. Busca o deferimento de saídas temporárias durante o regime semiaberto, por considerar que estão satisfeitos os requisitos legais do benefício.
+Decido.
+O paciente, condenado a 31 anos, 11 meses e 20 de reclusão, foi progredido ao regime semiaberto. Na mesma decisão, o Juiz da VEC assinalou que, no tocante à saída temporária, "tenho por temerária a concessão do benefício.  ..  é que o reeducando em outra oportunidade não retornou da saída, fato que ensejou a expedição de mandado de recaptura"; "Assim, tenho por necessária maior observância do comportamento do interno, o que por certo poderá ser feito a contar desta data" (fl. 1.308).
+A defesa impetrou, contra a mesma decisão, agravo em execução e habeas corpus. Não é ilegal o acórdão recorrido:
+a) a um, porque salientou o indevido uso do habeas corpus de forma concomitante ao recurso próprio, de agravo em execução penal (Seq. 39.1, SEEU, dos autos n. 0004928-96.2011.8.24.0045), pautado para julgamento na "sessão do dia 7/6/2023";
+b) a dois, pois não estava caracterizado fato sui generis, de intolerável ilegalidade, a justificar a afronta ao sistema processual, inclusive com o risco de decisões conflitantes, uma vez que o Juiz da VEC indicou a falta do requisito subjetivo da saída temporária, previsto no art. 123, I e III, da LEP.
+A um primeiro olhar, e sem prejuízo da análise da controvérsia pelo Tribunal a quo, a decisão de primeiro grau não é absurda. Verifica-se a indicação de "não preenchimento do requisito constante do inciso III do art. 123 da Lei de Execução Penal - o qual preceitua a necessidade de análise acerca da compatibilidade do benefício da saída temporária com os objetivos da pena -, tendo em vista que a paciente teria demonstrado não possuir autodisciplina e responsabilidade suficientes.  ..  (AgRg no HC 581.645/SC, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 07/12/2020).
+Deveras, o Magistrado "apresentou dados concretos da execução da pena, ao destacar que o executado tem histórico de evasão do sistema carcerário, não se mostrando, assim, compatível o benefício com os objetivos da pena imposta" 4. Recurso improvido." (AgRg no RHC 154.308/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021; sem grifos no original.)
+Assim, o caso em análise não se enquadrava nas hipóteses excepcionais passíveis de concessão da ordem, ainda durante a tramitação do agravo em execução.
+Ante o exposto, denego o habeas corpus.
+Publique-se e intimem-se.
