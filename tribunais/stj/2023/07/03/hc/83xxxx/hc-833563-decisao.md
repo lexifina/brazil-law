@@ -1,0 +1,14 @@
+DECISÃO
+DIEGO CONCEIÇÃO SILVEIRA, condenado por tráfico de drogas ao cumprimento de 5 anos de reclusão, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que a despeito da pena imposta, manteve o regime fechado para o início do cumprimento da pena, o qual pretende ver modificado para o semiaberto.
+O caso comporta o julgamento antecipado, visto que se adequa às hipóteses em que é pacífica a jurisprudência sobre o tema. De início, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990, a escolha do regime inicial de cumprimento de pena deve levar em consideração algumas diretrizes.
+Essas diretrizes são a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, em que pese a menção à hediondez do delito de tráfico, a Corte de origem, muito embora haja estabelecido reprimenda que comporta regime mais brando, manteve o fechado em razão da expressiva quantidade de droga apreendida (fl. 52) - 1.983 g de maconha, 278 g de cocaína e 20 g de crack.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado - expressiva quantidade de droga apreendida -, não há como esta Corte simplesmente se imiscuir no juízo feito pelas instâncias ordinárias para modificar o regime de cumprimento de pena estabelecido ao acusado.
+Não há falar, portanto, em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ. Fica, então, mantida inalterada a fixação do regime inicial fechado de cumprimento de pena.
+Nesse sentido:
+ ..
+V - No que tange ao regime prisional, não há ilegalidade na fixação do regime inicial fechado, uma vez que houve fundamentação idônea a ensejar a aplicação do regime mais gravoso, lastreada nas circunstâncias concretas do delito (quantidade e natureza do entorpecente, qual seja, 616g de crack), em consonância com o entendimento desta Corte, ex vi do art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/06.
+Agravo regimental desprovido.
+(AgRg no HC n. 814.489/SP, Rel. Ministro Messod Azulay Neto, 5ª T., DJe de 22/6/2023)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Publique-se e intimem-se.
