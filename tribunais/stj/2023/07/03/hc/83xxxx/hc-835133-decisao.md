@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO CARLOS COLODRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do HC n. 2151392-50.2023.8.26.0000.
+Extrai-se dos autos que o juízo das execuções, antes de analisar o pedido de progressão de regime formulado pelo paciente, determinou a realização de exame criminológico, nos termos da decisão de fl. 32.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não foi conhecido nos termos da seguinte ementa:
+"HABEAS CORPUS ALEGAÇÃO DE QUE O PACIENTE SOFRE CONSTRANGIMENTO ILEGAL, VEZ QUE INGRESSOU COM PEDIDO DE PROGRESSÃO DE REGIME SEMIABERTO, PORÉM O MAGISTRADO DETERMINOU A REALIZAÇÃO DE EXAME CRIMINOLÓGICO ANTES DE SUA APRECIAÇÃO, POR FORÇADE DECISÃO NÃO AMPARADA EM LEI, A QUAL PRETENDE VER CASSADA. RECLAMO QUE EXTRAPOLA O ESTREITO CAMPO DE ATUAÇÃO DO REMÉDIO HEROICO, NOS TERMOS DO QUE DISPÕE O ART. 663, DO CPP, C. C. O ART. 248, DO RITJ. CASO EM QUE NÃO SERVE O WRIT COMO SUCEDÂNEO DE RECURSO PRÓPRIO. Ordem não conhecida" (fl. 38).
+No presente writ, a defesa sustenta que "diante da flagrante ilegalidade cometida pelo juízo de primeira instância, ainda que passível de reanálise por meio de agravo em execução, não pode o Tribunal de Justiça se eximir de apreciar o mérito do pedido e se limitar a não conhecê-lo por inadequação da via eleita" (fl. 5).
+Afirma que a realização de exame criminológico foi justificada tão somente em circunstâncias relacionadas ao próprio crime pelo qual o paciente foi condenado, e não em fatos ocorridos no curso da execução penal.
+Requer, em liminar e no mérito, que seja determinado ao Tribunal de Justiça do Estado de São Paulo que aprecie o mérito do habeas corpus originário como entender de direito, ou, subsidiariamente, que este Superior Tribunal de Justiça julgue o mérito da causa.
+É o relatório.
+Decido.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado mediante a seguinte fundamentação:
+"No caso vertente, a ordem não há de ser conhecida.
+Do teor da impetração se denota que pretende o impetrante, através do remédio heroico, afastar o óbice da realização do exame atacado, determinado pelo MM. Juiz da Vara das Execuções Criminais da Comarca de Araçatuba.
+Ocorre que não há que se fazer uso, indiscriminadamente, do remédio heroico, vez que não se destina a correção de decisão de natureza estritamente executória, sujeita a recurso próprio, previsto no sistema processual penal, não sendo, pois, o writ substituto de recursos de agravo em execução penal, ordinário, especial ou extraordinário.
+ ..
+Demais, o emprego do writ para tal pleito viola os ditames do artigo 197, da Lei de Execução Penal.
+Nesses termos, questões relativas a incidentes de execução penal devem ser dirimidas em sede de Juízo próprio, sob pena de se ter um recurso com prazo de ajuizamento certo, e outro do qual, a qualquer tempo, dele possa fazer uso o interessado, de forma a colocarem risco a segurança jurídica, e a sistemática processual penal.
+Assim, o presente habeas corpus não há de ser conhecido, com supedâneo no artigo 248, do Regimento Interno desta Egrégia Corte" (fls. 39/42).
+No que diz respeito à necessidade de análise das teses deduzidas na origem em habeas corpus substitutivo de recurso próprio, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, a impetração sequer deveria ser conhecida.
+Contudo, considerando as alegações expostas na inicial e a impossibilidade de análise por esta Corte Superior, sob pena de incorrer em supressão de instância, razoável a concessão da ordem para determinar que o Tribunal de origem analise o feito de modo a verificar a existência de eventual constrangimento ilegal que possa justificar a concessão da ordem de ofício.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. PACIENTE CONDENADO À PENA CORPORAL DE 5 ANOS DE RECLUSÃO, EM REGIME FECHADO. PLEITOS DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO E DE ABRANDAMENTO DO REGIME PRISIONAL NÃO APRECIADOS NA IMPETRAÇÃO ORIGINÁRIA. DEVOLUÇÃO À CORTE DE ORIGEM. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Uma vez que a Corte local deixou de enfrentar, no writ lá impetrado, a possibilidade de fixação de regime prisional mais brando, por não ser o habeas corpus a via adequada para tal exame, não pode este Superior Tribunal de Justiça analisar o tema, sob pena de indevida supressão de instância.
+- Por outro lado, a jurisprudência desta Corte entende cabível a impetração de habeas corpus sempre que a ilegalidade suscitada influenciar a liberdade de locomoção do indivíduo, o que ocorre nos autos. Nessas hipóteses, a solução cinge-se em determinar que o Tribunal de origem aprecie, como entender de direito, o mérito do habeas corpus originário, ofertando a devida prestação jurisdicional.
+- Habeas corpus não conhecido. Ordem concedida de ofício, determinando que o Tribunal local enfrente o mérito do habeas corpus n. 2015.089982-9, decidindo como entender de direito.
+(HC 347.886/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/06/2016)
+PROCESSUAL PENAL. HABEAS CORPUS. INTERRUPÇÃO DE PRAZO PARA OBTENÇÃO DE BENEFÍCIOS. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE VERIFICAÇÃO DE EVENTUAL COAÇÃO ILEGAL NA ORIGEM. MANIFESTA ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O acórdão do Tribunal de origem não conheceu do writ, sob o fundamento da impossibilidade de se analisar, pela via estreita do habeas corpus, o preenchimento dos requisitos para a concessão dos benefícios do livramento condicional e da progressão de regime .
+2. Segundo reiterada jurisprudência dos Tribunais Superiores, embora não se admita a impetração de habeas corpus substitutivo do recurso próprio, é imprescindível a verificação da existência de eventual coação ilegal imposta ao paciente, que justifique a concessão da ordem, de ofício, no mandamus originário. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Tribunal a quo analise o mérito da impetração originária.
+(HC 300.454/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/05/2016).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente writ. Contudo, concedo liminar a ordem, de ofício, apenas para determinar que o Tribunal origem, dentro dos limites do habeas corpus, analise as alegações deduzidas na inicial, verificando a possibilidade da concessão da ordem de ofício.
+Publique-se.
+Intimem-se.
