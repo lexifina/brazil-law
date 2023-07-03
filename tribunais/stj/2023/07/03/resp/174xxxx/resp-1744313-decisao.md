@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIDE CRAVEIRO SÁLVIO E OUTROS com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Embargos a Execução  Contrato de Prestação de Serviços Advocatícios  Contrato de Honorários Advocatícios Ad Exitum  Cláusula contratual que estabeleceu não só o montante dos honorários, mas, também, que serão devidos após o julgamento de recurso de apelação, caso o contratante dos serviços advocatícios seja vencedor  Contratante que obteve ganho de causa  Honorários contratados não pagos, muito embora o contratante reconheça que houve êxito total e que esteja a dever  Critério de correção definido no contrato, não foi questionado pelo devedor - Contrato, todavia, não deliberou sobre o termo a quo de incidência de juros de mora  Juros de mora são devidos em virtude do descumprimento da obrigação na ocasião pactuada  Destarte, se obrigação não foi cumprida, tempestivamente, na forma e tempo devido, os juros são devidos desde o inadimplemento, que, in casu, restou configurado, por força de cláusula contratual, a partir do julgamento do recurso de apelação, que assegurou ao então apelante, ganho de causa  Com efeito, face ao que foi pactuado restou incontroversa para o ora embargaste, naquela data, sua obrigação de pagar. Como não o fez, configurada restou sua mora, a partir daquela ocasião  Hipótese em que a mora restou verificada antes citação para ação de execução - Excesso de Execução, todavia, reconhecido, posto que o cálculo de juros considerou período anterior à ocasião do inadimplemento  Honorários advocatícios fixados em 10% do excesso de execução reconhecido - Recurso provido, em menor extensão" (fl. 147, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 179-184, e-STJ).
+No recurso especial (fls. 187-209, e-STJ), os recorrentes alegam divergência jurisprudencial e apontam negativa de vigência dos artigos 85, § 11, 86, 141, 302, 492, 494, 1.008 e 1.013 do Código de Processo Civil.
+Em resumo, defendem que o acórdão recorrido incorreu em julgamento ultra petita, tendo em vista que o recurso não discutia o tema dos honorários. Além disso, sustentam que o tribunal local, analisando apelação exclusivamente interposta pelos ora recorrentes, realizou reforma em seu prejuízo ao modificar a verba advocatícia, pois "não houve alteração substancial do julgado a ponto de se alterar também os honorários de sucumbência." (fl. 196, e-STJ)
+Sustentam ainda que a
+"(..) decisão de segundo grau que deveria corrigir um equívoco incutido na decisão de primeiro grau e que prejudicava os recorrentes, acabou por solucionar um problema - cômputo de juros, e criar outro ao alterar a parte da verba sucumbencial, transformando-a de recíproca à unilateral - só aos recorrentes" (fl. 191, e-STJ).
+Sem contrarrazões (fl. 223, e-STJ).
+O agravo em recurso especial foi provido (fls. 323-324, e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça entende que é possível redimensionar os honorários advocatícios, até mesmo de ofício, na hipótese em que a Corte local altera os parâmetros da condenação então imposta pelo juízo singular.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXTINÇÃO DE CONDOMÍNIO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. HONORÁRIOS ADVOCATÍCIOS. ALTERAÇÃO. MATÉRIA DE ORDEM PÚBLICA. NÃO OCORRÊNCIA DE REFORMATIO IN PEJUS. 3. JURISDIÇÃO VOLUNTÁRIA. INEXISTÊNCIA DE LITIGIOSIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que os honorários advocatícios, enquanto consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus. Precedentes.
+3. Não há como desconstituir o entendimento delineado no acórdão impugnado (ausência de litigiosidade na jurisdição voluntária), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp n. 2.221.117/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023. - grifou-se)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. ALTERAÇÃO NO VALOR DO DANO. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. RESPEITO AO LIMITE LEGAL. POSSIBILIDADE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO NÃO DESPROVIDO.
+1. Em homenagem aos princípios da economia processual e da fungibilidade, devem ser recebidos como agravo regimental os embargos de declaração que contenham exclusivo intuito infringente.
+2. Alterada a verba indenizatória, o magistrado tem a liberdade para, de ofício, redimensionar os honorários advocatícios, desde que respeitados os limites legais, não havendo que se falar em reformatio in pejus. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(EDcl no Ag n. 1.373.963/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/8/2014, DJe de 4/9/2014. - grifou-se)
+Com base nesse entendimento, a Corte local, à luz das peculiaridades dos autos, afastou a ocorrência de reformatio in pejus, entendendo que "houve alteração da condenação por este Tribunal. Mais, a sucumbência, conquanto parcial, o foi em maior grau para os ora embargantes. Logo, houve modificação que indiscutivelmente repercutiu na sucumbência". (fl. 183, e-STJ)
+Ressalta-se que não se pode aferir, no presente momento processual, a fração de decaimento de cada parte, porquanto depende de análise fático-probatória incabível em virtude da incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO. DESISTÊNCIA DO COMPRADOR. ÔNUS DE SUCUMBÊNCIA. DECAIMENTO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. TAXA DE FRUIÇÃO DO IMÓVEL. LOTE NÃO EDIFICADO. NÃO CABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 568 DO STJ. CONHECEU-SE DO AGRAVO INTERNO E NEGOU-SE-LHE PROVIMENTO.
+1. Nos termos a jurisprudência desta Corte, a apreciação do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula n.º 7 do STJ.
+2. A jurisprudência sedimentada nesta Corte entende ser inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da efetiva ausência de utilização do bem.
+3. A conclusão adotada na origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça sendo aplicável a Súmula n.º 568 do STJ.
+4. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.141.386/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) do valor do excesso de execução reconhecido, os quais deverão ser majorados para 11% (onze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
