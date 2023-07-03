@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL em face da decisão acostada às fls. 175-176 e-STJ, que inadmitiu o recurso especial, de sua vez, manejado com fundamento na alínea "a" do permissivo constitucional, em desafio ao acórdão de fls. 112-117 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo de Instrumento ação de rescisão de compromisso de compra e venda c.c. pedido de restituição de quantia, ora em fase de cumprimento de sentença, indeferiu a suspensão da cobrança dos encargos sobre o imóvel, durante o período em que as chaves se encontravam depositadas em juízo, pois o ônus da sua retirada era da ré/executada a demora na retirada das chaves é decorrente da própria inercia da ré em peticionar ao juízo o seu levantamento - Réu que pretende se valer da própria torpeza na tentativa de se desvencilhar de suas obrigações em relação aos encargos sobre o imóvel impossibilidade decisão mantida Recurso não provido.
+Aclaratórios opostos (fls. 148-156 e-STJ) e rejeitados (fls. 158-163 e-STJ).
+Nas razões de recurso especial (fls. 119-170 e-STJ), alegou a insurgente que o acórdão recorrido violou o artigo 1.196 do CC, aduzindo que sua posse no imóvel apenas se efetivou em 14/12/2021, data na qual passou a ser responsável pelos débitos condominiais.
+Contrarrazões às fls. 168-173 e-STJ.
+Em juízo prévio de admissibilidade (fls. 175-176 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 179-205 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 208-212 e-STJ.
+É o relatório. Decide-se.
+A pretensão recursal não merece pro sperar.
+1. A Corte de origem, dentre outros fundamentos, afirmou (fl. 115 e-STJ):
+A demanda originária teve por objeto a rescisão contratual e a restituição da quantia paga em razão de compromisso de compra e venda de bem imóvel.
+Em última análise, esses são os limites objetivos e subjetivos da coisa julgada no caso em questão, não podendo envolver outras questões que não expressamente decididas na sentença e no acórdão recorrido.
+Daí porque, a previsão na sentença de que do valor a ser restituído deveriam ser abatidos os valores atinentes aos alugueres mensais correspondentes ao uso do imóvel "até sua efetiva desocupação, com entrega das chaves mediante recibo", não autoriza, per se, a ampliação dos limites objetivos da coisa julgada, que em nenhum momento abarcou o pagamento de "taxas condominiais e tributos".
+Caso pretenda ver sua pretensão devidamente reconhecida em juízo, incumbe a agravante ajuizar ação autônoma para tanto, sendo certo que cumprimento de sentença originária não é a via adequada.
+E mais: deveria ter se insurgido no momento e pelo recurso adequados, na fase de conhecimento do processo, para que constasse expressamente da sentença. E, a teor da disposição do art. 508 do CPC: "Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido". Tal dispositivo consagra o princípio da eficácia preclusiva da coisa julgada, igualmente denominado de "princípio do dedutível e do deduzido", pelo qual os efeitos da coisa julgada se estendem às alegações que poderiam ser arguidas para acolhimento ou rejeição do pedido.
+Não houve impugnação, pelo recurso especial, a estes fundamentos, suficientes para manutenção do julgado - o que faz incidir o óbice da Súmula 283/STF.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial. Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se. Intimem-se.
