@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, formulada pela UNIÃO, com fundamento no art. 105, I, f, da Constituição Federal c/c o art. 988, II, do CPC, desafiando decisum proferido pelo em. Presidente do Tribunal Regional Federal da 4ª Região, nos autos da Suspensão de Liminar n. 5050985-64.2022.4.04.0000, alegadamente descumpridor do acórdão prolatado pela Primeira Turma desta Corte no REsp 1.779.097/SC.
+A tanto, argumenta a reclamante que (fls. 14/15):
+ ..  com o deferimento da pretensão de Suspensão de Liminar apresentado pelo Município de Florianópolis, encontra-se prorrogado o cumprimento parcial do julgado proferido no REsp 1779097/SC até o dia 09.01.2023, tendo as partes interessadas a possibilidade de utilizar a estrutura construída ilegalmente durante o período de fim ano.
+Como demonstrado, além de afrontar a autoridade do acórdão proferido por esse Superior Tribunal de Justiça no REsp 1779097/SC e nos sucessivos Embargos de Declaração opostos, a tutela deferida pela Presidência do TRF da 4ª Região posterga ainda mais o cumprimento de obrigações determinadas judicialmente e convencionadas pelas partes em sede de audiência de conciliação realizada no procedimento de execução de sentença.
+Ressalta-se que a data acordada na audiência para o cumprimento da obrigação de demolição das construções e benfeitorias - 18.12.2023 - além de não ter sido objeto de recurso, foi na verdade extremamente favorável e benéfica às interessadas, na medida em que estipulou um prazo de quase nove meses após o trânsito julgado (ocorrido em março/2022) para efetivação do comando judicial.
+Com todas as licenças, com o deferimento do pedido de contracautela, mantém-se o quadro histórico de inobservância das decisões judiciais que determinaram o respeito à norma ambiental a bem de atividades comerciais reconhecidamente lesivas ao meio ambiente e que merecem o devido ajuste mediante plano de recuperação de área degradada. Isso fica evidente pelos judiciosos fundamentos apresentados na decisão do juízo da execução que indeferiu o pedido de dilação, bem como da decisão que rejeitou o pedido liminar em Agravo de Instrumento, pelos quais restou demonstrada a absoluta ausência de intenção das partes interessadas em dar efetivo cumprimento à decisão judicial transitada em julgado. Nesse sentido, apontou a decisão do juízo da execução:
+ ..
+E complementa (fl. 16):
+Com efeito, ao realizar o juízo político na referida Suspensão de Liminar, o TRF da 4ªRegião chancelou a situação de descumprimento patente e voluntário de acórdão transitado em julgado proferido por esse Superior Tribunal, desconsiderado o fato de tratar-se de execução definitiva de título judicial, na qual obviamente descabe falar em ocorrência de prejuízo para efetivação das obrigações determinadas.
+Além disso, o próprio fundamento da decisão não subsiste, na medida em que o prejuízo econômico alegado pela parte requerente nada mais é do que consequência natural da execução definitiva do título judicial que determinou a obrigação de demolir áreas construídas ilicitamente em bem público. Nesse sentido é o entendimento do STJ, inclusive manifestado por sua Corte Especial, pelo qual é incabível a Suspensão de Liminar em sede de execução de título transitado em julgado (definitiva):
+ ..
+Requer, assim, que (fl. 19):
+ ..  seja julgada procedente a presente Reclamação, nos termos do artigo 992 do CPC, para cassar a decisão proferida pelo Tribunal Regional Federal da 4ª Região, proferida em manifesta afronta à autoridade da coisa julgada formada a partir do acórdão proferido pela Eg. Primeira Turma do Superior Tribunal de Justiça nos autos do REsp 1779097/SC.
+Em 23/12/2022 a em. Ministra Presidente desta Corte proferiu decisão unipessoal indeferimento o pedido de liminar (fls. 373/375).
+Informações do reclamado à fl. 378.
+Às fls. 392/395, o em. Desembargador Presidente do Tribunal Regional Federal da 4ª Região noticia que, ultimado o prazo de suspensão concedido na decisão reclamada, foram determinados o prosseguimento do Cumprimento de Sentença n. 5026567-69.2017.4.04.7200/SC (inclusive com a fixação de multa por litigância de má-fé à parte executada), a imediata suspensão dos alvarás de funcionamento e a interdição comercial das requeridas, a mesma situação ocorrendo em relação aos demais cumprimentos individuais de sentença.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República NICOLAO DINO, opinou pela improcedência da reclamação, nos termos da ementa que segue (fl. 401):
+RECLAMAÇÃO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTODE SENTENÇA. OBRIGAÇÃO DE DEMOLIÇÃO DAS CONSTRUÇÕESE BENFEITORIAS. TERMO FINAL. PEDIDO DO IBAMA DEFERIDOEM AUDIÊNCIA. SUSPENSÃO DE LIMINAR E DE SENTENÇA. PEDIDO DO MUNICÍPIO DE FLORIANÓPOLIS PARA DIFERIMENTODO PRAZO FINAL DE 18 DE DEZEMBRO DE 2022 PARA 09 DEJANEIRO DE 2023. AUSÊNCIA DE DESRESPEITO. PLEITOIMPROCEDENTE.
+1. A decisão reclamada não afronta a decisão proferida no REsp1.779.097/SC, uma vez que tão somente difere o termo final - firmado a pedido do IBAMA - de 18 de dezembro de 2022 para 9 de janeiro de 2023, com fundamento na razoabilidade e no risco à ordem pública.
+2. Parecer pela improcedência da reclamação.
+Os autos foram a mim conclusos em 27/6/2023 (fl. 405).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+In casu, verifica-se a perda do objeto da presente reclamação, haja vista que foi ultimado o prazo de suspensão determinado na Suspensão de Liminar n. 5050985-64.2022.4.04.0000 e, ainda, porque, conforme informado pelo em. Desembargador Presidente do TRF da 4ª Região, a fase de cumprimento de sentença teve retomado seu curso normal.
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. PERDA DO OBJETO. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. "Não mais persistindo no mundo jurídico o ato judicial reclamado, deve-se reconhecer a ausência de interesse no prosseguimento da reclamação por superveniente perda de objeto"(Rcl n. 31.935/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 8/9/2020).
+2. "Ausentes os pressupostos autorizadores do ajuizamento da Reclamação Constitucional, caracterizada está a utilização da presente via de exceção como sucedâneo recursal. Inadmissibilidade" (AgRg na Rcl 26.236/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 17/2/2022).
+3. Agravo interno desprovido.
+(AgInt na Rcl n. 43.188/SE, relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 2/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL. ACÓRDÃO RECLAMADO. DUPLA IMPUGNAÇÃO. CONCOMITANTE MANEJO DE RECLAMAÇÃO E DE ARESP. AGRAVO DESPROVIDO EM ACÓRDÃO TRANSITADO EM JULGADO. RECLAMAÇÃO. PERDA DO OBJETO. AGRAVO INTERNO DESPROVIDO.
+1. No caso, há perda superveniente do objeto da reclamação, visto que, concomitantemente a seu manejo e impugnando o mesmo acórdão de segundo grau, o reclamante também interpôs agravo em recurso especial que foi desprovido por acórdão desta Corte já transitado em julgado (AREsp 1.915.259/SP).
+2. Logo, a reclamação perdeu o objeto porque a desconstituição do acórdão reclamado, já transitado em julgado, é reservada aos meios rescisórios, se cabíveis.
+3. Agravo interno desprovido.
+(AgInt na Rcl n. 42.249/SP, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 17/11/2022.)
+ANTE O EXPOSTO, extingo a reclamação sem a resolução do mérito, ante a perda superveniente de seu objeto.
+Publique-se.
