@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS ANTENOR CRUZ SILVA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fls. 938):
+DIREITO PENAL. APELAÇÃO CRIMINAL. ASSOCIAÇÃO CRIMINOSA. MATERIALIDADE E AUTORIA COMPROVADAS. MANTIDA A CONDENAÇÃO. DOSIMETRIA DA PENA. RECURSO CONHECIDO E NÃO PROVIDO. 1. A conduta prevista como associação criminosa demanda a existência de um vínculo entre seus integrantes, isto é, a existência de uma convergência de interesses, sem o necessário conhecimento prévio de todos os seus atos e por todos os integrantes do grupo, objetivando a prática de delitos indeterminados, independentemente das razões que levam a esta reunião. Também não se exige que todos se conheçam e se comuniquem formalmente, bastando a existência de elementos probatórios quanto a vontade de integrar o grupo e, especialmente, a ciência de que o grupo está a praticar delitos, como no caso em comento. 2. Recurso conhecido e desprovido.
+Nas razões do recurso especial (e-STJ fls. 968/982), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 386, IV e VII, do Código de Processo Penal . Sustenta a absolvição do acusado, tendo em vista a ausência de prova concreta para a condenação.
+Apresentadas contrarrazões (e-STJ fls. 990/992), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 995/996), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e não conhecimento do recurso especial (e-STJ fls. 1047/1053).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova aptos a manter a condenação do envolvido pelo delito do artigo 288 do CP (e-STJ fls. 943/949).
+Assim, rever os fundamentos utilizados pela Corte Distrital, para decidir pela absolvição, por ausência de prova concreta acerca da prática delitiva, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
