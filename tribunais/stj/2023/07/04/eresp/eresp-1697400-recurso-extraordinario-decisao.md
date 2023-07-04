@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.209-1.232) interposto por M MAGALHAES INCORPORADORA LTDA, com base no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 1.193-1.200):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO, MULTA, DANOS MORAIS E ÓBICE DE CONHECIMENTO. SÚMULAS N. 315 E 420 DO STJ. DESCABIMENTO DA VIA UNIFORMIZADORA.
+1. É inviável o manejo de embargos de divergência para discutir o acerto ou o desacerto da aplicação dos arts. 1.022 e 1.026 do CPC ou de óbices ao conhecimento do recurso especial, na medida em que dependem da análise de circunstâncias processuais específicas dos autos e não contrapõem teses jurídicas abstratas.
+2. "Incabível, em embargos de divergência, discutir o valor de indenização por danos morais" (Súmula n. 420 do STJ).
+3. Ausente o enfrentamento do mérito da causa no recurso especial, aplica-se a conclusão extraída da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+4. Agravo interno a que se nega provimento.
+Não foram opostos embargos de declaração.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão recorrido, ao art. 5º , XXXV, e 93, IX, da CF.
+Nesse sentido, argumenta que teriam sido ofendidos "expressamente dispositivos da Constituição Federal, mais precisamente aos comandos do artigo 93, inciso IX (Princípio da Motivação das Decisões) e do artigo 5º, inciso XXXV (Princípio da Inafastabilidade da Prestação Jurisdicional) (fl. 1.220)".
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.238-1.249, onde a parte requerida pleiteia a condenação do recorrente à litigância de má-fé e à majoração dos honorários advocatícios.
+É o relatório.
+Decido.
+A insurgência não prospera.
+De início, registre-se que o recurso ora em apreço foi expresso e específico ao afirmar sua impugnação tão somente ao acórdão que julgou os embargos de divergência, assim constando na petição do recurso (fl. 1.209, destaques acrescidos):
+ ..  interpor  ..  RECURSO EXTRAORDINÁRIO para o excelso Supremo Tribunal Federal contra o v. acórdão de fls. 1.195/1.200 e-STJ, que negou provimento ao agravo interno nos embargos em divergência no recurso especial, pelos fundamentos expostos no arrazoado anexo.
+Feito o esclarecimento, quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais se concluiu pelo descabimento dos embargos de divergência, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 1.199-1.200):
+Diversamente do alegado pela parte ora agravante, e conforme relatado, na petição de embargos de divergência constou expressamente o pedido de redução da condenação imposta a título de danos morais (fl. 986, item c).
+Nesse ponto, a pretensão de uniformização é igualmente inviável à luz da Súmula n. 420/STJ ("Incabível, em embargos de divergência, discutir o valor de indenização por danos morais").
+Confirmando tal entendimento, veja-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO E OS PARADIGMAS ULTRAPASSA A BARREIRA DE CONHECIMENTO. NÃO CABIMENTO. DANOS MORAIS. SÚMULA N. 420/STJ. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. É firme o entendimento no sentido de que são incabíveis embargos de divergência quando o acórdão embargado não ultrapassa a barreira de admissibilidade recursal e o paradigma conhece e analisa o mérito.
+2. Nos termos da Súmula n. 420 desta Corte, é "incabível, em embargos de divergência, discutir o valor de indenização por danos morais".
+3. Não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão somente a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do Superior Tribunal de Justiça. Agravo interno improvido.
+(AgInt nos EREsp n. 1.934.869/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 22/11/2022, DJe de 30/11/2022.)
+Por fim, quanto ao pagamento da pensão, o acórdão embargado não analisou, no ponto questionado, o mérito da causa, limitando-se a apontar o descabimento das alegações diante do óbice da Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+É o que se depreende do seguinte excerto da decisão que primeiro apreciou o recurso especial (fl. 849, grifei):
+Assim, o tribunal de origem não estava obrigado a se pronunciar sobre a tese de que deve ser cancelado o pensionamento mensal dos pais, por ausência de demonstração da dependência econômica, visto que apenas nos segundos embargos de declaração opostos é que veio a recorrente buscar manifestação a respeito da matéria, em manifesta inovação recursal, o que impede, também, esta Corte Superior de enfrentar tal matéria. Assim, não tendo sido suscitada a questão no momento oportuno, por força do princípio da devolutividade recursal, carece o ponto de prequestionamento, tratando-se, na verdade, de inovação recursal. E, exatamente porque houve inovação recursal em relação à tese arguida em torno do assunto, considerando que tal questão não foi analisada pelo tribunal estadual, o qual não estava obrigado a tanto, impõe-se a aplicação do óbice da Súmula 211/STJ, a inviabilizar o provimento do especial.
+Portanto, a pretensão de revisão de tais conclusões demandaria o próprio afastamento do óbice, com base na apreciação de circunstâncias processuais específicas dos autos, não se verificando a contraposição de teses jurídicas abstratas, único escopo para o qual poderiam ser invocados os embargos de divergência.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, entendimento reiterado pelo próprio STF, p or exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Ademais, quanto à alegada violação ao princípio da inafastabilidade da jurisdição, ao apreciar o Tema n. 895 de repercussão geral, a Suprema Corte fixou a seguinte tese de observância obrigatória:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a afronta à Constituição Federal é reflexa, pois depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, especialmente acerca do cabimento dos embargos de divergência, motivo pelo qual se aplica a conclusão alcançada no referido Tema n. 895/STF.
+Outrosssim, não há falar em litigância de má -fé por parte do recorrente que se utiliza de recurso expressamente previsto no ordenamento jurídico para tentar fazer valer o que entende ser direito seu.
+No mais, caso tenha havido fixação de honorários advocatícios na instância de origem, determino sua majoração, em 5% do valor arbitrado, a teor do contido no § 11 do art. 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME DE MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. TEMA N. 895/STF. NEGATIVA DE SEGUIMENTO.
