@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recursos especiais interpostos por UBIRAJARA SANTOS ARAÚJO, com respaldo nas alíneas "a" e "c" d o permissivo constitucional, e pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado, no que interessa (e-STJ fl. 151):
+ ..
+ACIDENTE DO TRABALHO  APELAÇÃO DO OBREIRO a  Pretensão à modificação da D.I.B. da juntada do laudo (18.04.2012) para a da citação (20.07.2011)  Inadmissibilidade  Doença mesopática, de imprecisa caracterização quanto ao início da incapacidade  Marco inicial do benefício mantido na apresentação do laudo  Inequívoco momento em que a autarquia teve ciência da condição do segurado  Recurso do obreiro não provido.
+Em suas razões, a parte autora aponta, além de dissídio jurisprudencial, violação do art. 219 do CPC/1973, argumentando, em suma, que o termo inicial do benefício deve ser fixado a partir da citação.
+Sem contrarrazões (e-STJ. fl. 227).
+Não exercido juízo de retratação, em razão da não adequação ao Tema 862 do STJ (e-STJ fls. 248/254 ).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 262/263.
+Por petição protocolizada nesta Corte Superior aos 23/05/2023 (e-STJ fls. 273/274), o INSTITUTO NACIONAL DO SEGURO SOCIAL manifesta a sua desistência do recurso especial, com base no art. 9º da Portaria n. 488, de 27/07/2016, publicada no DJe de 28/07/2016.
+Passo a decidir.
+RECURSO DA PARTE AUTORA
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, é cediço que "o termo inicial da aposentadoria por invalidez corresponde ao dia seguinte à cessação do benefício anteriormente concedido ou do prévio requerimento administrativo; subsidiariamente, quando ausente as condições anteriores, o marco inicial para pagamento será a data da citação" (AgInt no REsp 1.381.631/RS, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 16/05/2017, DJe 23/05/2017).
+Ademais, a questão acerca do termo inicial do benefício de auxílio-acidente, decorrente da cessação de auxílio-doença, foi submetida à Primeira Seção dessa Corte Superior para ser julgada pela sistemática dos recursos repetitivos (Tema 862), que fixou a tese de que "o termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei n. 8.213/1991, observando-se a prescrição quinquenal da Súmula 85 do STJ" (REsp 1.729.555/SP, relatora Ministra Assusete Magalhães, Dje 1º/07/2021).
+Colhe-se dos autos que o Tribunal de origem fixou o termo inicial do benefício a partir da perícia médi ca, como atesta o trecho do acórdão recorrido (e-STJ fls. 157/158):
+2.2.4) Do marco inicial do benefício
+Adentrando ao recurso do obreiro, cumpre consignar que se tratando de doença mesopática, de imprecisa caracterização quanto ao início da incapacidade, a lógica do razoável impõe seja a D. I. B. fixada à juntada do laudo pericial aos autos, conforme determinado na r. sentença (fls. 106).
+Com efeito, é preciso considerar que as moléstias designadas como "L.E.R./D.O.R.T.", como no caso dos autos, são de caráter insidioso, de difícil constatação no que se refere ao momento em que instalados seus efeitos incapacitastes.
+Por se tratar de quadro evolutivo no tempo, que, aliás, no enquadramento clínico clássico se estende por uma classificação de quatro graus, iniciando-se por um bom prognóstico até o denominado "prognóstico sombrio" (cuja descrição minuciosa se pode colher in "Acidentes de Trabalho e Doenças Ocupacionais", de Antonio Lopes Monteiro e Roberto Fleury de Souza Bertagni, 6ª Ed. Saraiva, páginas 106/108), não há como precisar em qual momento, desse histórico evolutivo, deu-se a efetiva incapacidade laborativa.
+Assim, o laudo pericial consubstancia o primeiro diagnóstico oficial dando conta certa da condição de incapacidade permanente, requisito essencial à concessão do beneficio concedido.
+Portanto, diante da dificuldade de determinação do efetivo início da incapacitação definitiva, mostra-se razoável a fixação da data inicial do benefício à da apresentação do laudo (18.04.2012  fls. 59v), pois se trata do inequívoco momento em que a autarquia teve ciência da condição do obreiro, razão pela qual nega-se provimento ao recurso do segurado.
+No entanto, ao fixar o termo inicial do benefício a partir da data da juntada do laudo pericial em juízo, o acórdão recorrido divergiu da orientação desta Corte Superior, segundo a qual "o laudo pericial apenas norteia o livre convencimento do Juiz e serve tão somente para constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, portanto não serve como parâmetro para fixar termo inicial de aquisição de direitos" (REsp 1.559.324/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 13/12/2018, DJe 04/02/2019).
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. APOSENTADORIA POR INVALID EZ. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. ART. 219, CAPUT, DO CPC. CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA.
+1. Com a finalidade para a qual é destinado o recurso especial submetido a julgamento pelo rito do artigo 543-C do CPC, define-se:
+A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa.
+2. Recurso especial do INSS não provido.(REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 07/03/2014).
+In casu, diante da impossibilidade de fixação do benefício a partir do laudo pericial ou da cessação do benefício anterior, a parte autora faz jus ao benefício previdenciário a partir da citação.
+RECURSO DO INSS
+Conforme estabelece o art. 998 do CPC/2015, o ato de desistência do recurso pode se dar a qualquer tempo e sem a anuência da parte ex adversa, inexistindo, na espécie, óbice para a sua homologação.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial do segurado para reconhecer o termo inicial do benefício desde a citação.
+E, com amparo no art. 34, IX, do RISTJ, HOMOLOGO a desistência do recurso especial da autarquia.
+Sem majoração de honorários recursais contra a autarquia , haja vista o não julgamento do recurso (art. 85, § 11, do CPC/2015).
+Publique-se. Intimem-se.
