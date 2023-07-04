@@ -1,0 +1,32 @@
+DECISÃO
+  Trata-se  de  recurso  especial  fundado  no  CPC/73  manejado  por  LETICIA  LINS  PEREIRA  com  fundamento  no  art.  105,  III,  a  ,  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional  da  5ª  Região,  assim  ementado  (fl.  604):
+PROCESSUAL  CIVIL.  REDIRECIONAMENTO.  EXECUÇÃO  FISCAL.  SÓCIO-GERENTE  À  ÉPOCA  DO  FATO  GERADOR.  PRESCRIÇÃO.  NÃO  OCORRÊNCIA.  RESPONSABILIDADE  TRIBUTÁRIA.  REQUISITOS  DO  ART.  135  DO  CTN.  PREENCHIMENTO.  APELAÇÃO  NÃO  PROVIDA.
+1-Inexistência  de  prescrição  quanto  à  pretensão  de  redirecionamento  da  execução  fiscal  pois,  embora  tenham  transcorrido  mais  de  cinco  anos  entre  a  citação  da  pessoa  jurídica  (setembro  de  1997)  e  a  efetivação  da  citação  dos  sócios  (janeiro  de  2003),  a  demora  da  citação  decorreu  do  funcionamento  do  poder  judiciário,  incidindo  a  Súmula  106  do  STJ.
+2-Os  débitos  fiscais  constituídos  pela  sociedade  no  período  anterior  à  saída  da  embargante  do  quadro  societário  podem  ser  legitimamente  redirecionados  à  pessoa  dos  sócios  responsáveis,  quando  se  verificar  as  hipóteses  previstas  no  artigo  135  do  CTN.
+3-É  do  responsável  tributário  por  substituição  o  ônus  de  provar  que  não  praticou  atos  ultra  vires  ou  contra  legem,  visando  demonstrar  e  comprovar  que  a  obrigação  tributária  que  lhe  é  imputada  não  é  resultante  de  atos  irregularmente  praticados,  com  excesso  de  poderes  ou  com  infração  de  Lei,  contrato  social  ou  estatuto.
+4-A  não  localização  da  empresa  executada  no  endereço  cadastrado  pode  ser  interpretada  como  forte  indício  de  que  tenha  de  fato  ocorrido  a  dissolução  irregular  daquela  devedora,  o  que  também  justifica  o  redirecionamento  da  responsabilidade  tributária  para  a  pessoa  dos  sócios  responsáveis.
+5-O  redirecionamento  da  execução  não  se  macula  pelo  simples  fato  de  não  ter  o  recorrente  participado  do  processo  administrativo  fiscal,  mormente  sendo  o  corresponsável  citado  em  processo  judicial,  no  qua  teve  possibilidade  de  realizar  sua  defesa.
+6-Apelação  não  provida.
+Foram opostos aclaratórios por ambas as partes litigantes (fls. 608/619 e 640/641), tendo sido aco lhidos os do ente público para sanear erro material e rejeitados os do particular (fls. 651/658).
+Na sequência, a ora recorrente opôs segundos embargos de declaração (fls. 662/671), os quais foram improvidos (fls. 692/696).
+A  parte  recorrente  aponta  violação  aos  arts.  219,  §  4º,  333,  I,  535,  II  do  CPC/73 ;  2º,  §  5º,  III  ,  3º,  8º,  §  2º,  da  Lei  n  6.830/80;  135,  III,  142,  174,  caput,  parágrafo  único,  e 204,  do  CTN.  Sustenta  que,  em  resumo  que:  (I)  a  despeito  dos  embargos  de  declaração,  o  Tribunal  de  origem  remanesceu  omisso  acerca  das  questões  neles  suscitadas; (II) operada a prescrição para o redirecionamento da execução fiscal à sócia da companhia; e (III) não se encontram presentes os pressupostos legais para a responsabilização da sócia por dívida da pessoa jurídica; incumbindo ao ente público tal comprovação.
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+Registre-se,  de  logo,  que  o  acórdão  recorrido  foi  publicado  na  vigência  do  CPC/73;  por  isso,  no  exame  dos  pressupostos  de  admissibilidade  do  recurso,  será  observada  a  diretriz  contida  no  Enunciado  Administrativo  n.  2/STJ,  aprovado  pelo  Plenário  do  STJ  na  Sessão  de  9  de  março  de  2016  (Aos  recursos  interpostos  com  fundamento  no  CPC/73  (relativos  a  decisões  publicadas  até  17  de  março  de  2016)  devem  ser  exigidos  os  requisitos  de  admissibilidade  na  forma  nele  prevista,  com  as  interpretações  dadas,  até  então,  pela  jurisprudência  do  Superior  Tribunal  de  Justiça).
+Colhe-se dos autos que o presente recurso especial, interposto em outubro de 2012, foi tirado de embargos de devedor opostos pela recorrente nos autos da execução fiscal 00.0018326-1 (Processo 0018326-72.1900.4.05.8201).
+Em consulta ao sítio eletrônico do Tribunal a quo, tem-se que, em 10/05/2018, houve prolação de sentença extintiva, com resolução do mérito, do referido executivo fiscal, tendo em vista a prescrição intercorrente. Em 13/06/2018, houve a certificação do trânsito em julgado da aludida decisão.
+Nesse panorama, tendo havido a extinção definitiva do feito executivo, é de se reconhecer a perda do objeto do apelo especial.
+Nessa linha de raciocínio:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXTINÇÃO DO PROCESSO. PERDA SUPERVENIENTE DO OBJETO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. AGRAVO PROVIDO.
+1.- O fato novo noticiado pela agravante - extinção da execução na qual foi realizada a penhora sobre o imóvel, penhora esta que se pretende desconstituir nestes autos de Embargos de Terceiros, implica na perda do objeto do presente processo.
+2.- A condenação nos ônus da sucumbência, deve ser imposta a quem deu causa à instauração do incidente processual.
+3.- No caso, os embargos de terceiro visavam à desconstituição da penhora efetivada sobre o imóvel da ora agravante, nos autos de execução, fundada em contrato de abertura de crédito em conta corrente, que ao final foi julgada extinta por ausência de título executivo extrajudicial.
+4.- Agravo Regimental provido para extinguir o processo por perda superveniente do objeto.
+(AgRg no REsp 703.384/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/5/2014, DJe 13/6/2014)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO MANEJADO NA ORIGEM CONTRA DECISÃO QUE DECRETOU A VALIDADE DE FIANÇA BANCÁRIA PARA GARANTIR O JUÍZO EXECUTIVO SEM A ANUÊNCIA DO EXEQUENTE. EXTINÇÃO DO PROCESSO.
+PERDA SUPERVENIENTE DO OBJETO.
+1. O fato novo noticiado pela agravante, nos termos do art. 462 do Código de Processo Civil - extinção da execução na qual foi aceita a penhora de fiança bancária sem a anuência da FAZENDA, penhora esta que se pretende desconstituir; implica a perda do objeto do presente recurso de agravo de instrumento manejado na origem.
+2. Julgada extinta a ação de embargos à execução, há o esvaziamento do objeto do presente recurso, desaparecendo o interesse da Fazenda na tutela jurisdicional.
+Agravo regimental provido para extinguir o processo por perda superveniente do objeto.
+(AgRg no REsp 1459049/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/11/2014, DJe 4/12/2014)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
