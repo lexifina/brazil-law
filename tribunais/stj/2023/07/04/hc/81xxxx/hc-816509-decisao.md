@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON HENRIQUE DE AZEVEDO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o ora paciente teve sua prisão preventiva decretada pela prática, em tese, dos delitos de tráfico de drogas a associação para o tráfico.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 800-804.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Requer, ao final, a revogação da prisão preventiva, mediante a imposição de medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida e as informações foram prestadas às fls. 819-852.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem, nos termos do parecer de fls. .
+É o relatório.
+Decido.
+No que pertine à alegada ausência de fundamentação do decreto prisional, observa-se que, na hipótese, a segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente em razão da existência de procedimento investigatório criminal instaurado para apurar crimes cometidos por suposta organização criminosa voltada ao tráfico de drogas, indicando que o recorrente seria responsável pela ocultação, separação e pesagem da droga, para posterior distribuição em Batatais e região, conforme consignado pelas instâncias ordinárias, circunstâncias que revelam a periculosidade concreta do agente e a necessidade da imposição da medida extrema ante a necessidade de se interromper ou diminuir a atuação de integrantes de associação criminosa, no intuito de impedir a reiteração delitiva.
+A corroborar esse entendimento, os seguintes precedentes desta Corte Superior: AgRg no HC n. 792.805/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 18/5/2023; AgRg no HC n. 790.898/DF, Sexta Turma, Rel. Min.ª Laurita Vaz, DJe de 28/4/2023; AgRg nos EDcl no RHC n. 172.836/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 799.839/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 16/3/2023.
+Não se pode olvidar, ainda, que a grande quantidade da droga apreendida - 214,427 quilogramas de maconha - também consubstancia circunstância indicativa de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+Deve-se ressaltar, por fim, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto denego a ordem.
+P. e I.
