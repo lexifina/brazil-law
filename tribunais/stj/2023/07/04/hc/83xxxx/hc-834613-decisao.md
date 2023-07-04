@@ -1,0 +1,17 @@
+DECISÃO
+RENAN MONTEIRO SANTOS SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2056082-17.2023.8.26.0000.
+Neste habeas corpus, a defesa pretende a concessão do regime semiaberto para início do cumprimento da pena de 5 anos e 4 meses de prisão, decorrente da prática do delito de roubo majorado, ao argumento de que a modalidade mais gravosa foi fixada por meio de fundamentação inidônea.
+Decido.
+A Corte estadual manteve o regime fechado, pelos seguintes argumentos (fl. 46, grifei):
+Ao contrário do alegado pelo impetrante, o caso de que se trata tem suas particularidades que o distinguem da generalidade dos crimes de mesma espécie. As circunstâncias do fato indicam dolo intenso, perigosidade e insensibilidade moral, porquanto praticado em plena luz do dia 08h15min. -, sem timidez ou pejo, em concurso de agentes, mediante grave ameaça exercida com emprego de faca, reduzindo a vítima à absoluta impossibilidade de resistência.
+Sintomático também que o paciente, em concurso com os outros 2 agentes, após a subtração e grave ameaça exercidas contra o paciente, continuaram no mesmo lugar e ainda assaltaram uma senhora boliviana que estava com uma criança pequena, sendo abordados pelos policiais militares após a vítima lhes apontar o réu e os menores, pois não os tinha perdido de vista, e assim, foram presos.
+Quanto à pretensão de fixação do regime semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+No caso, não verifico a apontada ilegalidade na fixação do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, a prática do crime, com o emprego de uma faca, em concurso com mais dois agentes e o fato de uma das vítimas estar acompanhada de uma criança pequena - ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP). Ilustrativamente:
+ ..
+3. No caso, embora o paciente seja primário, condenado à pena privativa de liberdade superior a 4 e não excedente a 8 anos, o regime mais gravoso foi estabelecido mediante fundamentação concreta, qual seja, o modus operandi da conduta do paciente, que na companhia de outro comparsa menor quebrou o vidro lateral do veículo para subtrair os bens da vítima.
+4. Habeas corpus não conhecido.
+(HC n. 357.565/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/6/2016)
+Logo, em que pese a insurgência ora deduzida, noto que a fundamentação apresentada demonstra, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a fixação do regime fechado.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
