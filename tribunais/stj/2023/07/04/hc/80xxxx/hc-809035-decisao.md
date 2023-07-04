@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IVSON BRAYTINE LIMA DE HOLANDA contra acórdão do Tribunal de Justiça do Estado de Pernambuco proferido no julgamento do HC n. 0020455-35.2022.8.17.9000.
+Extrai-se dos autos que o Paciente foi preso em flagrante, em 21/11/2019 (convertida a custódia em prisão preventiva no dia seguinte), pela suposta prática do crime previsto no art. 157, § 3.º, c.c. os arts. 14, inciso II, e 61, inciso I, todos do Código Penal, e art. 10, inciso II, da Lei n. 8.072/1990, em concurso material.
+Impetrado prévio writ na origem, a Corte local denegou a ordem, em acórdão assim ementado (fl. 25):
+"CONSTITUCIONAL. PROCESSUAL PENAL. HABEAS CORPUS. ART. 157, §3º, II, C/C ART. 14, II, CPB. EXCESSO DE PRAZO PARA O ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA. ATRASO NÃO IMPUTADO AO JUIZ OU AO MINISTÉRIO PÚBLICO. INCOMPETÊNCIA DO JUÍZO ORIGINÁRIO. PANDEMIA DO COVID-19. NECESSIDADE DE REMARCAÇÃO DE AUDIÊNCIAS DE INSTRUÇÃO E JULGAMENTO. PRINCÍPIO DA RAZOABILIDADE. ORDEM DENEGADA. DECISÃO UNÂNIME.
+I - Inexiste coação ilegal decorrente de excesso de prazo para a formação da culpa quando eventual atraso não é atribuído a atos praticados pelo juiz sumariante ou pelo Promotor de Justiça, mas das intercorrências processuais do feito, da pandemia do COVID-19, bem como da necessidade de remarcação de audiências.
+II - Ordem denegada. Decisão unânime."
+Nesse writ, a Defesa alega excesso de prazo para a formação da culpa, aduzindo que o Paciente encontra-se preso há 3 (três) anos e 4 (quatro) meses, em ação penal desprovida de complexidade, e sem perspectiva de julgamento.
+Requer, em liminar e no mérito, o relaxamento da prisão preventiva do Paciente, determinando-se a expedição de alvará de soltura.
+A liminar foi indeferida às fls. 68-69.
+Informações prestadas às fls. 79-94.
+O Ministério Público Federal opinou pelo "não conhecimento do writ, embora, com recomendação para celeridade no julgamento do réu" (fl. 107).
+É o relatório. Decido.
+Extrai-se das informações prestadas às fls. 79-94 que os "autos encontram-se com Audiência de Instrução e Julgamento encerrada" (sic - fl. 79), tendo a prisão do Paciente sido reavaliada e mantida, em decisão de 10/02/2023, nos termos do art. 316, parágrafo único, do Código de Processo Penal (fl. 79). Consta, ainda, que, em audiência realizada no dia 22/03/2023, destacou-se que "as partes nada requereram nos termos do art. 402 do CPP" (fl. 92), tendo sido deliberado "vista às partes para alegações finais no prazo de cinco dias" (fl. 93; sem grifos no original).
+Desse modo, fica superada a alegação de excesso de prazo, incidindo na espécie o enunciado n. 52 da Súmula do Superior Tribunal de Justiça, de seguinte teor: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido:
+" ..  1. No que diz respeito ao excesso de prazo, o writ está prejudicado. Isso porque as informações obtidas na página eletrônica do Tribunal de origem dão conta de que o feito está na fase de alegações finais, incidindo, assim, a Súmula 52 do Superior Tribunal de Justiça.
+ ..  4. Recurso parcialmente conhecido e, nessa parte, improvido" (RHC 130.344/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020; sem grifos no original.)
+" ..  2. Não há excesso de prazo, a ensejar a intervenção deste Tribunal Superior, sobretudo porque, de acordo com os dados existentes neste writ, as instruções criminais dos feitos foram encerradas e estão na fase do art. 402 do CPP, circunstância que atrai a incidência da Súmula n. 52 do STJ, verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+ ..  8. Habeas corpus denegado" (HC 635.472/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/05/2021, DJe 15/06/2021; sem grifos no original.)
+" ..  2. A alegação de excesso de prazo está superada, tendo em vista que o feito se encontra na fase de intimação das partes para requererem diligências, nos termos do art. 402 do Código de Processo Penal, circunstância que atrai a incidência da Súmula 52 deste Superior Tribunal de Justiça, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". Precedentes.
+3. Agravo regimental desprovido." (AgRg no HC 641.486/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021; sem grifos no original.)
+" ..  2. A questão do excesso de prazo na formação da culpa está superada com o término da instrução criminal, já que o feito em primeiro grau de jurisdição encontra-se em fase de apresentação das alegações finais defensivas, atraindo a aplicação do enunciado n. 52 da Súmula desta Corte.  ..
+5. Recurso a que se nega provimento" (RHC 99.979/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 29/08/2018; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o habeas corpus. Contudo, em consonância com o parecer do Ministério Público Federal, DETERMINO a remessa de cópia da presente decisão ao Juízo de primeiro grau, recomendando-lhe que imprima a maior celeridade possível no julgamento do feito, considerando a duração da custódia cautelar em debate.
+Publique-se. Intimem -se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ART. 157, § 3.º, INCISO II, C.C. ART. 14, INCISO II, DO CÓDIGO PENAL. PRISÃO PREVENTIVA. TESE DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. VISTAS ÀS PARTES PARA ALEGAÇÕES FINAIS. INCIDÊNCIA DO ENUNCIADO N. 52 DA SÚMULA DESTA CORTE. HABEAS CORPUS, PREJUDICADO, COM RECOMENDAÇÃO.
