@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FERNANDO RENATO RODRIGUES DOS SANTOS contra decisão de minha lavra de fls. 294/302, em que conheci do seu recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, dei-lhe parcial provimento para aplicar a minorante do furto privilegiado na fração máxima de 2/3, redimensionando as penas do recorrente para 4 meses de detenção e 3 dias-multa, à razão mínima, mantidas as demais determinações do acórdão recorrido.
+Nos presentes aclaratórios (fls. 309/312), a defesa alega que a decisão embargada é omissa, já que, com a fixação da pena privativa de liberdade em 4 meses de detenção, haveria a necessidade de se manifestar, à luz do art. 46 do Código Penal - CP, sobre a substituição da pena privativa de liberdade por outra restritiva de direitos que não a de prestação de serviços à comunidade, estabelecida pelas instâncias ordinárias.
+Requer o acolhimento dos embargos para sanar a omissão apontada com a substituição da pena privativa de liberdade por pena restritiva de direitos mais benéfica.
+É o relatório.
+Decido.
+No caso em análise, os embargos de declaração devem ser acolhidos.
+O recurso especial foi conhecido e parcialmente provido a fim de aplicar a minorante do furto privilegiado na fração máxima de 2/3, redimensionando as penas do recorrente para 4 meses de detenção e 3 dias-multa, à razão mínima, mantidas as demais determinações do acórdão recorrido.
+De fato, a redução do quantum da pena para patamar inferior a 6 meses obsta a manutenção da substituição da pena corporal pela restritiva de direitos consistente em prestação de serviços à comunidade, nos termos do art. 46 do CP.
+Destarte, mantenho a substituição da pena privativa de liberdade por pena restritiva de direitos, ficando, contudo, afastada a possibilidade de substituição por prestação de serviços à comunidade ou a entidades públicas, pois a escolha é incompatível com a quantidade de pena definitiva, estabelecida em 4 meses de detenção, consoante o art. 46 do CP.
+Caberá ao Juízo da Execução Penal, no caso concreto, definir a pena restritiva de direitos mais adequada.
+Ante o exposto, acolho os presentes embargos de declaração, com efeitos modificativos, para afastar a possibilidade de aplicação da pena restritiva de direitos consistente em prestação de serviços à comunidade ou a entidades públicas, cabendo ao Juízo da Execução Penal definir a pena restritiva de direitos mais adequada ao caso concreto.
