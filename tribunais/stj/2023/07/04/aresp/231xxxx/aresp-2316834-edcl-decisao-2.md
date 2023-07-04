@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EVANISE FOZ BARBIERI XAVIER à decisão de fls. 711/712, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Compulsando os autos é possível atestar que houve error in procedendo, pois, da análise do feito em comparação com o real ocorrido, não é possível atestar a realidade processual existente.
+Ao averiguar o processo inserido nos arquivos desta E. Instância, é possível verificar que existe apenas uma certidão de publicação juntada às fls. 635, a qual, data de 13/03/2022:
+ ..
+Ocorre Excelência, que esta situação não corresponde a realidade, pois, o Egrégio Tribunal de Justiça do Estado de São Paulo, através do Diário de Justiça Eletrônico, representado por meio do relatório juntado e do print extraído do E-SAJ abaixo, publicou o v. Acórdão recorrido em duas datas distintas, senão vejamos:
+ ..
+Desta feita, antes mesmo do vencimento do prazo para interposição do recurso, a Apelante protocolou a guia e seu respectivo comprovante, não havendo intimação para recolhimento das custas em dobro.
+Inclusive, a decisão recorrida reconheceu a validade do preparo recursal (fls. 668):
+ ..
+Inclusive, a r. decisão recorrida incorreu em contradição ao afirmar que houve intimação para recolhimento do preparo quando não houve!!
+As guias foram juntadas nos protocolos realizados em 13/03/2022 (fls. 626) custas e dia 17/03/22 (fls. 637), não havendo determinação para recolhimento em dobro das custas processuais.
+Tanto é realidade que a própria decisão recorrida reconheceu a validade do preparo recursal, não determinando seu recolhimento em dobro.
+A decisão publicada nesta Superior Instância foi exarada em erro, aplicando penalidade por fato gerador inexistente (fls. 723/724).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento de forma simples, por meio da petição de fl. 626 na qual requer "a juntada da guia de recolhimento do preparo recursal e o regular processamento do feito, ao passo que a guia não acompanhou o recurso, porém, as custas foram recolhidas antes de sua interposição, demonstrando que não acompanhou o referido por um lapso".
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+Outrossim, ao contrário do alegado pela parte embargante, percebida, no STJ, a irregularidade, a parte foi devidamente intimada para complementar o preparo, uma vez que devido em dobro; bem como para sanar o vício de representação, conforme certidão para saneamento de fl. 701. Contudo, regularizou apenas a representação (fls. 707/708).
+Ademais, veja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Até o presente momento, não há que se falar em litigância de má-fé no presente caso, pois a parte ora embargante interpôs recursos legalmente previstos no ordenamento jurídico, e sem abusar do direito de recorrer; pelo que não se verifica afronta ou descaso com o Poder Judiciário. Nesse sentido, AgInt no AREsp 1625106/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3/8/2020.
+Publique-se. Intimem-se.
