@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELIZABETE DA SILVA FERREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS. MERA COBRANÇA INDEVIDA QUE NÃO ENSEJA A CONDENAÇÃO EM DANOS MORAIS. MERO ABORRECIMENTO. SENTENÇA MANTIDA. REC URSO CONHECIDO E NÃO PROVIDO (fl. 126).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 6º, VI e VII, e 14, caput, do CDC; e 186 e 927 do CC, no que concerne à configuração dos danos morais, em razão das angústias geradas por cobranças indevidas e do desvio produtivo do consumidor, trazendo a seguinte argumentação:
+Malgrado a excelência dos julgadores que compõe a 4ª Câmara do Tribunal de Justiça de Estado de Alagoas, há, in casu, um nítido equívoco na apreciação do julgado, qual seja, o fato de que a indenização pelos danos morais sofridos pela recorrente não decorre exclusivamente da inscrição ilícita do seu nome em órgão de proteção ao crédito, mas, em verdade, pelo desvio produtivo da consumidora.
+ ..
+Diante disso, não é possível admitir que, no caso em tela, a Concessionária saia impune, sem a sua condenação ao pagamento de uma indenização a título de danos morais, pois a recorrente precisou ir até o estabelecimento sede da recorrida por diversas vezes para contestar o valor absurdo que estava sendo exigido nas faturas de energia, fazendo, assim, com que a ela perdesse seu tempo livre.
+ ..
+Saliente-se, ainda, que tudo isso decorre de um ato ilícito praticado pela recorrida, qual seja, a cobrança de faturas com valores indevidos e da ilícita inscrição do nome da recorrente em órgão de proteção ao crédito, sendo estes fatos já reconhecidos tanto em primeiro quanto em segundo grau.
+Com efeito, é induvidoso que esse contexto se enquadra perfeitamente na teoria do dano pelo desvio produtivo, sendo, portanto, devida a pronta indenização, haja vista que tal situação provoca sensação plangente de evidente exaustão e de irresignação que ultrapassam o mero dissabor.
+Atualmente, face à consagração da reparabilidade do dano moral em nosso ordenamento jurídico, os prejuízos de índole não patrimonial comportam equânime indenização, notadamente, os sentimentos amargados pelos prejuízos ocasionados por uma cobrança indevida que mexeu com a vida financeira e psicológica da recorrente, fazendo-se jus a uma satisfação pecuniária capaz de aplacar de certa forma a dor moral.
+ ..
+De outro lado, não se pode olvidar que a reparabilidade moral deve também ter um caráter punitivo para o indivíduo que cometeu o ilícito, portanto, a ponderação de tais elementos não pode se revelar irrisória ou considerada mero dissabor.
+Ao proceder com a cobrança irregular, devidamente reconhecida pelo Tribunal Estadual, a recorrida provocou um desespero e aflição na vida de uma pessoa que sempre se esforçou para manter suas contas em dia.
+A necessidade da aplicação da indenização também como forma de punição da recorrida se faz necessária de forma a desestimular a má-fé ou mesmo as omissões, arbitrariedades e más prestações de serviços. Não havendo punição, é inevitável a sensação de impunidade, que levará à reincidência e à busca de obter vantagem mesmo praticando ilícitos.
+A função punitiva ainda deve impedir que a indenização seja meramente simbólica, ou seja, num patamar tão insignificante que não represente agravo ao agente lesante, pois sendo assim não teria a condão de reprimir novos ilícitos (fls. 147/152).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia , o Tribunal de origem se manifestou nos seguintes termos:
+Em apertada síntese, a apelante ajuizou ação anulatória de débito objetivando a anulação da cobrança da multa de R$ 1.715,35 (mil setecentos e quinze reais e trinta e cinco centavos), referente a suposta alteração no medidor de energia elétrica.
+O Juízo de primeiro grau julgou parcialmente procedente a pretensão autoral, acolhendo o pedido de anulação do débito e indeferindo o pedido de indenização por dano moral.
+De plano, verifico que a hipótese é regida pela legislação consumerista, considerando que as partes integram as definições legais de consumidor e fornecedor, dispostas nos arts. 2º e 3º do Código de Defesa do Consumidor, configurando-se a relação de consumo entre as partes.
+ ..
+No caso dos autos, não vislumbro circunstâncias que ensejem o dano moral.
+O que houve foi uma fiscalização, que por desídia da concessionária ocorreu de forma irregular, mas que não tem condão de atingir a esfera íntima, portanto, não há que se falar em dano moral.
+O fato narrado na exordial traduz mero aborrecimento, incapaz de afetar a integridade psicológica da parte, não ensejando o consequente dever de compensação.
+Assim sendo, embora o Código Civil, em seu art. 927, institua a obrigação de reparação do dano por quem o tenha causado, dentre os quais incluem-se os danos morais (art. 186), inexistindo nos autos demonstração da lesão efetivamente suportada em razão da conduta em discussão, compreendo que deve ser a afastada a condenação da apelante à reparação do dano moral alegado.
+ ..
+Logo, não merece acolhimento o pleito de indenização por danos morais, uma vez que entendo que a mera cobrança indevida, no caso dos autos, não supera os liames do mero aborrecimento , razão pela qual a sentença deve ser mantida incólume (fls. 128/131).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
