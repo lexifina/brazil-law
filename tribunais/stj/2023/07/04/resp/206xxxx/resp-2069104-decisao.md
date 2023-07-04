@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pela SANTO ISIDORO ALIMENTOS LTDA., com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PROCESSUAL CIVIL. RECURSO NÃO CONHECIDO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL.
+Nos termos do art. 932, inciso III, do CPC, não se conhece do recurso cujas razões recursais encontram-se dissociadas do conteúdo da decisão recorrida, que não impugna especificamente os fundamentos da decisão recorrida.
+Em suas razões, a empresa recorrente aponta violação do art. 1.022, I e II, do CPC/2015, sustentando a existência de negativa de prestação jurisdicional pelo Tribunal de origem, na medida em que foi omisso "no que tange a não aplicação dos dispositivos infraconstitucionais suscitados, portanto, foi objeto de decisão no acórdão hostilizado e, apesar de opostos embargos de declaração pelo recorrente com vistas à manifestação do Colegiado a quo a respeito, remanesceu a omissão." (e-STJ fl. 96)
+Afirma que a ausência de fundamentação no agravo de instrumento prejudicou os embargos declaratórios, que visavam à correção de vício de omissão no julgado e ao prequestionamento de toda matéria.
+Contrarrazões apresentadas às e-STJ fl. 106/109.
+Admitido o recurso especial à e-STJ fl. 112.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento contra decisão proferida em embargos à execução fiscal.
+O Tribunal Regional negou provimento ao agravo de instrumento nos seguintes termos (e-STJ fls. 80/81):
+O agravo de instrumento interposto pela empresa não foi conhecido por este Relator com base nos seguintes fundamentos:"Conforme se extrai do cotejo entre o recurso e a decisão agravada, vê-se que os fundamentos desta não foram impugnados especificamente.
+De fato, o agravo de instrumento se insurge contra questão que não foi objeto do pronunciamento do juízo a quo.
+A necessidade de apresentação de memória de cálculo, demonstrando o alegado excesso de execução, não foi impugnada pelo recurso, que se limitou a discutir o mérito da demanda, ainda não analisado em primeiro grau. As razões deste agravo estão dissociadas dos fundamentos da decisão agravada, razão por que o recurso não pode ser conhecido. Ante o exposto, com fundamento no art. 932, III, do CPC, não conheço do agravo de instrumento. Intime-se. Dispensada a intimação do agravado. Nada sendo requerido, dê-se baixa".
+Não vejo motivos para alterar o entendimento.
+Com efeito, a decisão de primeiro grau não se pronunciou seja quanto ao pedido de gratuidade da justiça, seja quanto ao mérito do processo. Assim sendo, o agravo de instrumento que versa precisamente sobre tais questões não pode ser conhecido, por ofensa ao princípio da dialeticidade recursal. Não se está a dizer que não cabe agravo de instrumento contra decisões que versem sobre a rejeição da gratuidade da justiça e o mérito do processo. Pontua-se, no entanto, que tais hipóteses não se refletem na decisão a quo, que simplesmente concedeu prazo à empresa para comprovação do pretenso excesso de execução. Assim, restam prejudicados os embargos de declaração opostos.
+Ante o exposto, voto por negar provimento ao agravo interno,prejudicados os embargos de declaração.
+Pois bem.
+O recurso não merece ser conhecido.
+Esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, o agravante deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte deixou de se manifestar sobre questões apontadas nos embargos declaratórios.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Essa circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+Ainda, n esse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO COLETIVA. LEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA APRECIÁVEL A QUALQUER TEMPO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes:
+AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+2. Registre-se que "a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus." (AgInt no REsp n. 1.493.974/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/11/2019, DJe de 22/11/2019).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.142.820/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284 DO STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. PARCELA INCONTROVERSA. ERRO DE CÁLCULO. DEVOLUÇÃO DO VALOR EXCEDENTE LEVANTADO.
+1. A genérica alegação de ofensa ao art. 1.022 do CPC/2015, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula n. 284 do STF.
+2. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (enunciado 284 da Súmula do STF).
+3. Considerando a moldura fática delineada no acórdão recorrido, verifica-se que o entendimento do Tribunal regional está em conformidade com a jurisprudência do STJ no sentido de que, quando constatadas inconsistências de ordem material na elaboração dos cálculos, há a efetiva necessidade de correção, de maneira a afastar qualquer indício de enriquecimento sem causa pelo recebimento de valores acima dos realmente devidos.
+4. O cabimento do recurso especial, com base na alínea "c" do permissivo constitucional, impõe para a parte recorrente a comprovação de que os arestos trazidos a confronto partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes, o que não ficou caracterizado no presente caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.818.997/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/8/2022, DJe de 22/8/2022.).
+Ante o e xposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
