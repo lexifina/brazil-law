@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que deu parcial provimento ao recurso especial interposto pela embargante, determinando que o Juízo de primeiro grau julgue novamente a preliminar de legitimidade passiva.
+Sustenta a parte embargante que a decisão contém contradição, na medida em que as instâncias de origem efetivamente consideraram a teoria da asserção, o que justifica que o STJ promova o julgamento de mérito da questão, pronunciando-se, portanto, quanto à legitimidade passiva da parte embargada.
+Afirma que "não há razão para que os autos retornem à instância primária para novo julgamento do tema, uma vez que a análise da citada teoria da Asserção está presente nas decisões que ensejaram a apresentação dos recursos que a autora manejou até aqui".
+Sem impugnação.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (fls. 182-186 ):
+Na origem, a parte aqui recorrente ajuizou ação declaratória de inexistência de débito em face da aqui recorrida.
+Segundo a sentença, a ação foi proposta sob os fundamentos, em suma, de que autora, "ao tentar contratar um financiamento em meados de junho de 2017 tomou conhecimento de seis negativações de seu nome no cadastro de inadimplentes em relação a diferentes empresas, dentre elas a presente ré. Entretanto a autora alega nunca ter firmado qualquer contrato com nenhuma das empresas que negativaram seu nome, inclusive, aduz que no caso da C&A MODAS LTDA, a dívida se originou de um cartão de crédito que nunca foi feito pela autora".
+O Magistrado de primeiro grau, contudo, entendeu que a parte ré não detinha legitimidade para compor a lide, uma vez que não realizou a negativação do nome da autora.
+Nesse sentido, confira-se a sentença (fls. 79/81):
+Através do despacho de id. 34516379 este juízo suscitou questão de ordem pública.
+Determinou, pois, a intimação da autora para manifestação, visto que não veio ao feito prova a indicar pudesse a ré haver negativado seu nome, o que implica no reconhecimento de sua ilegitimidade passiva. Intimada, a autora ofereceu manifestação em id. 66879233, dizendo a ré, embora não tenha negativado seu nome, participou da cadeia de consumo, pelo que deu causa direta ao registro de pendência, pois o cartão BRADESCARD foi emitido através de cadastro realizado no estabelecimento comercial da requerida.
+Também disse que consta seu nome, sua marca e compras realizadas em seu estabelecimento.
+Trata-se de um cartão C&A Visa Internacional, emitido em favor de clientes de seu estabelecimento comercial.
+Assim, pediu o prosseguimento do feito. Contudo, a preliminar de ilegitimidade passiva deve reconhecida, de ofício, em decorrência do que não podem ser aplicados os efeitos da revelia contra a ré.
+Para todos os efeitos, imperioso destacar que a ré não negativou o nome da autora. Na inicial a autora está postulando a baixa do registro de pendência; seja declarado indevido o débito indicado; e a condenação da ré ao pagamento de indenização por danos morais, no valor de R$17.000,00.
+Ora, na medida em que a ré não solicitou algum registro de pendência em nome da autora, não lhe pode ser exigida a baixa da negativação e, nem tampouco, a declaração de inexistência da dívida.
+E quanto ao pedido de indenização por danos morais, foi postulado justamente com base na negativação indevida. Em decorrência, a ré é parte ilegítima para figurar no polo passivo da ação, porque não cobrou e não negativou o nome da autora. C
+aso a ré tenha realmente cometido algum ilícito, deverá a autora ajuizar nova ação, com indicação da causa de pedir declinada na petição de id. 66879233.
+Portanto, o presente feito deve ser extinto, sem julgamento de mérito, na forma do art. 485, VI, do CPC.
+Confirmando a sentença, o Tribunal de origem entendeu que os documentos trazidos aos autos demonstravam que a parte ré não havia praticado o ato em discussão - negativação do nome da recorrente -, o que ensejou o reconhecimento de sua ilegitimidade passiva.
+Confiram-se excertos do acórdão recorrido (fls. 138/139):
+No caso em comento, em detido exame da documentação encartada, cheguei à conclusão de que razão não assiste à apelante.
+Verifica-se que a inclusão do nome da apelante em órgão restritivo de crédito foi realizada pela Bradescard, no dia 07/11/2016, em razão do não pagamento da quantia de R$ 1.437,92.
+O simples fato de constar na fatura do cartão o nome da empresa apelada não a torna parte legítima para responder aos termos da ação.
+O fato de a apelada não ter apresentado contestação não impede que o juiz possa suscitar questão de ofício, tal como ocorreu no presente caso.
+Embora aplicável o CDC nas relações de consumo, a solidariedade pretendida pela apelante não é possível de ser admitida, na medida em que o ato que está sendo discutido judicialmente foi praticado por outra empresa, motivo pelo qual agiu com acerto o MM. Juiz a quo ao extinguir a ação sem resolução do mérito, por ilegitimidade passiva.
+A tese inicial da parte recorrente é a de que a legitimidade passiva da parte recorrida foi afastada em contradição com a teoria da asserção, segundo a qual, a legitimidade das partes é aferida conforme as alegações deduzidas na inicial, abstraindo-se a veracidade dos fatos e a probabilidade de êxito da pretensão.
+Também nesse sentido: "As condições da ação são averiguadas de acordo com a teoria da asserção, razão pela qual, para que se reconheça a legitimidade passiva "ad causam", os argumentos aduzidos na inicial devem possibilitar a inferência,
+Alega a parte embargante que o vício da decisão consiste em suposta contradição quanto ao parcial provimento do feito, pois afirma que a legitimidade passiva da parte embargada poderia ser apreciada por esta Corte, sem necessidade de promover o retorno à origem.
+Em que pese sua irresignação, não se extrai essa premissa da decisão embargada ou do acórdão recorrido, razão pela qual não se configura a contradição apontada. Com efeito, a contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017. Em outras palavras: "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado" (REsp 1.250.367/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJe 22.8.2013).
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
